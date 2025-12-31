@@ -4,11 +4,11 @@ title: "Legge federale dell'11 aprile 1889 sulla esecuzione e sul fallimento (LE
 short: LEF
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20250101/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20250101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20260101/it/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20260101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/it"
 
 (LEF)[^t-1]
 
-dell’11 aprile 1889 (Stato 1° gennaio 2025)
+dell’11 aprile 1889 (Stato 1° gennaio 2026)
 
-[^t-1]: Abbreviazione introdotta dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^t-1]: Abbreviazione introdotta dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,7 +28,7 @@ visto l’articolo 64 della Costituzione federale[^ingress-1] (Cost.),[^ingress-
 decreta:
 
 [^ingress-1]: [CS **1** 3]. A questa disp. corrisponde l’art. 122 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [FF 1999 8077](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[8458](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [FF 1999 8077](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[8458](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
 
 ## Titolo primo: Disposizioni generali
 
@@ -38,7 +38,7 @@ decreta:
 
 [^tit1-lvlI-lvlA-1]
 
-[^tit1-lvlI-lvlA-1]: Ogni art. viene corredato di un Tit. marginale, n. I della LF del 16 dic. 1994, in vigore dal 1° dic. 1994 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto in tutto il presente testo.
+[^tit1-lvlI-lvlA-1]: Ogni art. viene corredato di un Tit. marginale, cifra I della LF del 16 dic. 1994, in vigore dal 1° dic. 1994 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto in tutto il presente testo.
 
 #### Art. 1
 
@@ -64,10 +64,10 @@ decreta:
 
 <sup>5</sup> Per il resto, l’organizzazione degli uffici spetta ai Cantoni.[^2-4]
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^2-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^2-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^2-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^2-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^2-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^2-4]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Retribuzione
 
@@ -77,7 +77,7 @@ decreta:
 
 La retribuzione dell’ufficiale esecutore, di quello dei fallimenti e dei loro supplenti è di competenza dei Cantoni.
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^3-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Assistenza
 
@@ -89,7 +89,7 @@ La retribuzione dell’ufficiale esecutore, di quello dei fallimenti e dei loro 
 
 <sup>2</sup> Gli uffici, le amministrazioni speciali del fallimento, i commissari e i liquidatori possono procedere ad atti del loro ufficio anche al di fuori del loro circondario, se l’ufficio competente per territorio vi acconsente. La competenza per la notificazione degli atti esecutivi che non avvenga per posta, per il pignoramento, per la vendita agli incanti e per la richiesta d’intervento della forza pubblica spetta tuttavia unicamente all’ufficio dove l’atto deve essere compiuto.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C<sup>bis</sup>. Procedure materialmente connesse
 
@@ -101,7 +101,7 @@ La retribuzione dell’ufficiale esecutore, di quello dei fallimenti e dei loro 
 
 <sup>2</sup> I giudici del fallimento e del concordato coinvolti come pure le autorità di vigilanza possono, di comune accordo, designare l’autorità competente per l’insieme delle procedure.
 
-[^4a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^4a-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### D. Responsabilità
 
@@ -119,7 +119,7 @@ La retribuzione dell’ufficiale esecutore, di quello dei fallimenti e dei loro 
 
 <sup>4</sup> Se la gravità del pregiudizio lo giustifica, può essere chiesto il pagamento di una somma a titolo di riparazione morale.
 
-[^5-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^5-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Prescrizione
 
@@ -141,7 +141,7 @@ La retribuzione dell’ufficiale esecutore, di quello dei fallimenti e dei loro 
 
 Se l’azione di risarcimento è fondata sull’atto illecito dell’autorità cantonale superiore di vigilanza o dell’istanza cantonale superiore dei concordati, il Tribunale federale è solo competente.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Verbali e registri
 
@@ -157,7 +157,7 @@ Se l’azione di risarcimento è fondata sull’atto illecito dell’autorità c
 
 <sup>3</sup> L’ufficio d’esecuzione rettifica d’ufficio o su domanda della persona toccata le iscrizioni erronee.
 
-[^8-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^8-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Consultazione
 
@@ -176,12 +176,12 @@ Gli uffici non possono dar notizia a terzi circa procedimenti esecutivi:
 - a. nulli o annullati in seguito a impugnazione o a decisione giudiziale;
 - b. per i quali il debitore ha esercitato con successo l’azione di ripetizione dell’indebito;
 - c. per i quali il creditore ha ritirato l’esecuzione;
-- d.[^8a-2] per i quali il debitore abbia presentato una domanda in tal senso almeno tre mesi dopo la notificazione del precetto esecutivo, sempre che entro un termine di 20 giorni impartito dall’ufficio d’esecuzione il creditore non fornisca la prova di aver avviato a tempo debito la procedura di eliminazione dell’opposizione (art. 79–84); se tale prova è fornita in un secondo tempo o l’esecuzione è proseguita, gli uffici possono nuovamente dar notizia di quest’ultima a terzi.
+- d.[^8a-2] per i quali il debitore che ha fatto opposizione abbia presentato una domanda in tal senso almeno tre mesi dopo la notificazione del precetto esecutivo, ma prima dell’estinzione del diritto di consultazione di terzi, sempre che entro un termine di 20 giorni impartito dall’ufficio d’esecuzione il creditore non fornisca la prova di aver avviato a tempo debito la procedura di eliminazione dell’opposizione (art. 79–84); se tale prova è fornita in un secondo tempo o l’esecuzione è proseguita, gli uffici possono nuovamente dar notizia di quest’ultima a terzi, sempre che il debitore non fornisca la prova che la domanda del creditore di eliminazione dell’opposizione non è stata accolta e che tale esito è definitivo.
 
 <sup>4</sup> Per i terzi, il diritto di consultazione si estingue cinque anni dopo la chiusura del procedimento. Successivamente, estratti sono rilasciati soltanto ad autorità giudiziarie o amministrative per procedimenti pendenti presso di loro.
 
-[^8a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^8a-2]: Introdotta dal n. I della LF del 16 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2641](https://fedlex.data.admin.ch/eli/fga/2015/692)[4779](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
+[^8a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^8a-2]: Introdotta dalla cifra I della LF del 16 dic. 2018 ([RU 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2641](https://fedlex.data.admin.ch/eli/fga/2015/692)[4779](https://fedlex.data.admin.ch/eli/fga/2015/1322)). Nuovo testo giusta la cifra I della LF del 21 mar. 2025 (Possibilità di non comunicare le iscrizioni presenti nei registri delle esecuzioni), in vigore dal 1° gen. 2026 ([RU 2025 522](https://fedlex.data.admin.ch/eli/oc/2025/522); [FF 2024 1797](https://fedlex.data.admin.ch/eli/fga/2024/1797), [1978](https://fedlex.data.admin.ch/eli/fga/2024/1978)).
 
 ### F. Deposito di somme e di oggetti preziosi
 
@@ -207,7 +207,7 @@ I funzionari e gli impiegati degli uffici d’esecuzione e degli uffici dei fall
 
 <sup>2</sup> L’ufficiale tenuto a ricusarsi trasmette immediatamente le domande al suo supplente e ne avvisa il creditore con lettera semplice.
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^10-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^10-3]: Introdotto dall’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
@@ -215,7 +215,7 @@ I funzionari e gli impiegati degli uffici d’esecuzione e degli uffici dei fall
 
 [^tit1-lvlI-lvlH-1]
 
-[^tit1-lvlI-lvlH-1]: Nuovo testo giusta il n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^tit1-lvlI-lvlH-1]: Nuovo testo giusta la cifra I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 #### Art. 11
 
@@ -227,9 +227,9 @@ I funzionari e gli impiegati degli uffici d’esecuzione e degli uffici dei fall
 
 <sup>3</sup> Alle stesse condizioni, le persone che operano per l’ufficio dei fallimenti possono inoltre denunciare alle autorità di perseguimento penale i reati perseguibili d’ufficio constatati.[^11-3]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^11-2]: Introdotto dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
-[^11-3]: Introdotto dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^11-2]: Introdotto dalla cifra I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^11-3]: Introdotto dalla cifra I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### I. Pagamenti all’ufficio d’esecuzione
 
@@ -251,7 +251,7 @@ I funzionari e gli impiegati degli uffici d’esecuzione e degli uffici dei fall
 
 <sup>2</sup> I Cantoni possono inoltre istituire autorità inferiori di vigilanza per uno o più circondari.
 
-[^13-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^13-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Ispezione e sanzioni disciplinari
 
@@ -268,9 +268,9 @@ Nei confronti dell’ufficiale o dell’impiegato possono essere prese le misure
 - 3\. la sospensione dall’ufficio per una durata non maggiore di sei mesi;
 - 4\. la destituzione.
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^14-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^14-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^14-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^14-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^14-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Consiglio federale
 
@@ -291,8 +291,8 @@ Nei confronti dell’ufficiale o dell’impiegato possono essere prese le misure
 <sup>5</sup> Coordina la comunicazione elettronica tra gli uffici di esecuzione e dei fallimenti, tra gli uffici del registro fondiario e del registro di commercio, nonché tra i tribunali e il pubblico.[^15-3]
 
 [^15-1]: Nuovo testo giusta l’all. n. 6 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^15-2]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^15-3]: Introdotto dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^15-2]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^15-3]: Introdotto dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### L. Tasse
 
@@ -316,9 +316,9 @@ Nei confronti dell’ufficiale o dell’impiegato possono essere prese le misure
 
 <sup>4</sup> In caso di ricorso, l’ufficio può, fino all’invio della sua risposta, riconsiderare il provvedimento impugnato. Se emana una nuova decisione, la notifica senza indugio alle parti e ne dà conoscenza all’autorità di vigilanza.[^17-3]
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^17-2]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^17-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^17-2]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^17-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. All’autorità superiore di vigilanza
 
@@ -330,7 +330,7 @@ Nei confronti dell’ufficiale o dell’impiegato possono essere prese le misure
 
 <sup>2</sup> Contro una decisione dell’autorità inferiore è ammesso in ogni tempo il ricorso all’autorità cantonale superiore di vigilanza per denegata o ritardata giustizia.
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Al Tribunale federale
 
@@ -351,13 +351,13 @@ Il ricorso al Tribunale federale è retto dalla legge del 17 giugno 2005[^19-2] 
 
 Nelle esecuzioni cambiarie i termini d’impugnazione sono ridotti a cinque giorni; l’autorità deve decidere entro ugual termine.
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Procedura avanti alle autorità cantonali di vigilanza
 
 [^tit1-lvlI-lvlM-lvl5-1]
 
-[^tit1-lvlI-lvlM-lvl5-1]: Nuovo testo giusta il n. I 6 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disp. della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^tit1-lvlI-lvlM-lvl5-1]: Nuovo testo giusta la cifra I 6 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disp. della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
 #### Art. 20a
 
@@ -377,10 +377,10 @@ Alla procedura davanti alle autorità cantonali di vigilanza si applicano le dis
 
 <sup>3</sup> Per il resto, i Cantoni stabiliscono la procedura.
 
-[^20a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^20a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^20a-2]: Abrogato dall’all. n. 6 della L del 17 giu. 2005 sul Tribunale federale, con effetto dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^20a-3]: Nuovo testo giusta l’all. n. 6 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^20a-4]: Nuovo testo giusta il n. I 6 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disp. della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^20a-4]: Nuovo testo giusta la cifra I 6 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disp. della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^20a-5]: Introdotto dall’all. n. 6 della L del 17 giu. 2005 sul Tribunale federale, in vigore dal 1° gen. 2007 ([RU 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 6. Decisioni su ricorso
@@ -399,7 +399,7 @@ L’autorità che dichiara fondato un ricorso annulla o riforma gli atti impugna
 
 <sup>2</sup> L’ufficio può sostituire la decisione nulla con una nuova decisione. Nondimeno, se presso l’autorità di vigilanza è pendente un procedimento ai sensi del capoverso 1, la sostituzione è ammissibile fino all’invio della risposta da parte dell’ufficio.
 
-[^22-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^22-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### O. Disposizioni cantonali d’esecuzione
 
@@ -411,7 +411,7 @@ L’autorità che dichiara fondato un ricorso annulla o riforma gli atti impugna
 
 I Cantoni designano le autorità giudiziarie competenti per le decisioni deferite al giudice dalla presente legge.
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Stabilimenti di deposito
 
@@ -425,7 +425,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 
 [^25-1]
 
-[^25-1]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^25-1]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Effetti di diritto pubblico del pignoramento infruttuoso e del fallimento
 
@@ -439,7 +439,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 
 <sup>3</sup> Qualora il coniuge o il partner registrato del debitore sia l’unico creditore che subisca perdite, gli effetti di diritto pubblico del pignoramento infruttuoso e del fallimento non possono essere pronunciati.[^26-2]
 
-[^26-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^26-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^26-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### 5. Rappresentanza nel procedimento esecutivo
@@ -452,7 +452,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 
 <sup>2</sup> Le spese per la rappresentanza davanti agli uffici d’esecuzione e agli uffici dei fallimenti non possono essere accollate alla controparte.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
 
 ### P. Comunicazione circa l’organizzazione nel Cantone
 
@@ -464,7 +464,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 
 <sup>2</sup> Il Consiglio federale provvede alla conveniente pubblicità di tali indicazioni.
 
-[^28-1]: Nuovo testo giusta il n. I 6 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disp. della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
+[^28-1]: Nuovo testo giusta la cifra I 6 dell’O dell’AF del 20 dic. 2006 che adegua taluni atti normativi alle disp. della L sul Tribunale federale e della L sul Tribunale amministrativo federale ([RU 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [FF 2006 7109](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 
 ### Q. ...
 
@@ -472,7 +472,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 
 [^29-1]
 
-[^29-1]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^29-1]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### R. Procedimenti esecutivi speciali
 
@@ -484,7 +484,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 
 <sup>2</sup> Sono inoltre salve le disposizioni di altre leggi federali che prevedono procedure esecutive speciali.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### S. Trattati internazionali e diritto internazionale privato
 
@@ -494,7 +494,7 @@ I Cantoni designano gli stabilimenti obbligati ad accettare i depositi nei casi 
 
 Sono salvi i trattati internazionali e le disposizioni della legge federale del 18 dicembre 1987[^30a-2] sul diritto internazionale privato (LDIP).
 
-[^30a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^30a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^30a-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ### II. Regole diverse
@@ -509,7 +509,7 @@ Sono salvi i trattati internazionali e le disposizioni della legge federale del 
 
 Salvo che la presente legge disponga altrimenti, al computo, all’osservanza e al decorso dei termini si applicano le disposizioni del Codice di procedura civile del 19 dicembre 2008[^31-2] (CPC).
 
-[^31-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^31-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^31-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 2. Osservanza del termine
@@ -526,10 +526,10 @@ Salvo che la presente legge disponga altrimenti, al computo, all’osservanza e 
 
 <sup>4</sup> Se una comunicazione scritta è viziata in modo rimediabile, deve essere data la possibilità di riparare il vizio.
 
-[^32-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^32-2]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^32-3]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^32-4]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^32-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^32-2]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^32-3]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^32-4]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 3. Modificazione e restituzione
 
@@ -543,9 +543,9 @@ Salvo che la presente legge disponga altrimenti, al computo, all’osservanza e 
 
 <sup>4</sup> Chi è stato impedito ad agire entro il termine stabilito da un ostacolo non imputabile a sua colpa può chiedere all’autorità di vigilanza o all’autorità giudiziaria competente la restituzione del termine. Egli deve, entro il medesimo termine dalla cessazione dell’impedimento, inoltrare la richiesta motivata e compiere presso l’autorità competente l’atto omesso.[^33-3]
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^33-2]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^33-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^33-2]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^33-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A<sup>bis</sup>. Trasmissione per via elettronica
 
@@ -567,7 +567,7 @@ Il Consiglio federale disciplina:
 - b. le modalità di trasmissione;
 - c. le condizioni alle quali può essere richiesta la trasmissione successiva di documenti cartacei in caso di problemi tecnici.
 
-[^33a-1]: Introdotto dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)). Nuovo testo giusta l’all. n. II 6 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^33a-1]: Introdotto dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)). Nuovo testo giusta l’all. cifra II 6 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^33a-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### B. Notificazione
@@ -589,9 +589,9 @@ Previo assenso del destinatario, gli avvisi e le decisioni possono essere notifi
 - c. le modalità di trasmissione;
 - d. il momento in cui gli avvisi o le decisioni sono considerati notificati.[^34-3]
 
-[^34-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^34-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^34-2]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
-[^34-3]: Nuovo testo giusta l’all. n. II 6 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^34-3]: Nuovo testo giusta l’all. cifra II 6 della L del 18 mar. 2016 sulla firma elettronica, in vigore dal 1° gen. 2017 ([RU 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [FF 2014 913](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
 ### 2. Mediante pubblicazione
 
@@ -603,7 +603,7 @@ Previo assenso del destinatario, gli avvisi e le decisioni possono essere notifi
 
 <sup>2</sup> Qualora le circostanze lo richiedano, la pubblicazione si fa anche in altri fogli o per mezzo di pubblico bando.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Effetto sospensivo
 
@@ -613,7 +613,7 @@ Previo assenso del destinatario, gli avvisi e le decisioni possono essere notifi
 
 Le appellazioni e i ricorsi hanno effetto sospensivo soltanto per decreto speciale dell’autorità adita o del suo presidente. Tale decreto deve essere immediatamente comunicato alle parti.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Definizioni
 
@@ -628,7 +628,7 @@ Le appellazioni e i ricorsi hanno effetto sospensivo soltanto per decreto specia
 <sup>3</sup> L’espressione «pegno» comprende tanto il pegno immobiliare quanto quello mobiliare.
 
 [^37-1]: Nuovo testo giusta l’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
-[^37-2]: Nuovo testo giusta il n. II 4 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^37-2]: Nuovo testo giusta la cifra II 4 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ## Titolo secondo: Della esecuzione
 
@@ -676,12 +676,12 @@ L’esecuzione si prosegue in via di fallimento e cioè come «esecuzione ordina
 [^39-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^39-2]: Abrogato dall’all. n. 3 della LF del 16 dic. 2005 (Diritto della società a garanzia limitata; adeguamento del diritto della società anonima, della società cooperativa, del registro di commercio e delle ditte commerciali), con effetto dal 1° gen. 2008 ([RU 2007 4791](https://fedlex.data.admin.ch/eli/oc/2007/685); [FF 2002 2841](https://fedlex.data.admin.ch/eli/fga/2002/443), [2004 3545](https://fedlex.data.admin.ch/eli/fga/2004/680)).
 [^39-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^39-4]: Introdotto dall’all. n. II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^39-4]: Introdotto dall’all. cifra II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^39-5]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
-[^39-6]: Introdotto dall’all. n. II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^39-7]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^39-6]: Introdotto dall’all. cifra II 3 della L del 23 giu. 2006 sugli investimenti collettivi, in vigore dal 1° gen. 2007 ([RU 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [FF 2005 5701](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
+[^39-7]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^39-8]: Abrogato dall’art. 15 n. 1 disp. fin. e trans. Tit. XXIV–XXXIII CO, con effetto dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)).
-[^39-9]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^39-9]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 2. Durata degli effetti dell’iscrizione nel registro di commercio
 
@@ -691,7 +691,7 @@ L’esecuzione si prosegue in via di fallimento e cioè come «esecuzione ordina
 
 <sup>2</sup> Se prima dello scadere di questo termine il creditore ha chiesto la continuazione dell’esecuzione o il precetto per l’esecuzione cambiaria, l’esecuzione si prosegue in via di fallimento.[^40-1]
 
-[^40-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^40-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Esecuzione in via di realizzazione del pegno
 
@@ -705,7 +705,7 @@ L’esecuzione si prosegue in via di fallimento e cioè come «esecuzione ordina
 
 <sup>2</sup> Per gli interessi e le annualità di un credito garantiti da ipoteca si può tuttavia procedere, a scelta del creditore, in via di realizzazione del pegno oppure, secondo la persona del debitore, in via di pignoramento o di fallimento. Sono salve le disposizioni in materia di esecuzione cambiaria (art. 177 cpv. 1).
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Esecuzione in via di pignoramento
 
@@ -717,7 +717,7 @@ L’esecuzione si prosegue in via di fallimento e cioè come «esecuzione ordina
 
 <sup>2</sup> Se un debitore viene iscritto nel registro di commercio, le domande di continuazione dell’esecuzione pendenti contro di lui sono ciononostante eseguite in via di pignoramento, finché non sia stato dichiarato il suo fallimento.
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^42-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Eccezioni all’esecuzione in via di fallimento
 
@@ -732,9 +732,9 @@ L’esecuzione in via di fallimento è in ogni caso esclusa per:
 - 2\.[^43-4] contributi periodici di mantenimento o d’assistenza in virtù del diritto di famiglia e contributi di mantenimento secondo la legge del 18 giugno 2004[^43-5] sull’unione domestica registrata;
 - 3\. pretese tendenti alla prestazione di garanzia.
 
-[^43-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^43-2]: Abrogato dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
-[^43-3]: Introdotto dal n. I della LF del 3 ott. 2003 ([RU 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Abrogato dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^43-2]: Abrogato dalla cifra I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^43-3]: Introdotto dalla cifra I della LF del 3 ott. 2003 ([RU 2004 2757](https://fedlex.data.admin.ch/eli/oc/2004/336); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Abrogato dalla cifra I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^43-4]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^43-5]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 
@@ -759,7 +759,7 @@ La realizzazione di oggetti confiscati in virtù di leggi d’ordine penale o fi
 
 La realizzazione dei crediti degli istituti di prestito a pegno è disciplinata dall’articolo 910 del Codice civile (CC)[^45-2].
 
-[^45-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^45-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^45-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### II. Del luogo dell’esecuzione
@@ -777,13 +777,13 @@ La realizzazione dei crediti degli istituti di prestito a pegno è disciplinata 
 <sup>4</sup> La comunione dei comproprietari per piani è escussa al luogo in cui si trova il fondo.[^46-2]
 
 [^46-1]: Introdotto dall’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
-[^46-2]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^46-2]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^47-1]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Fori speciali d’esecuzione
 
@@ -819,7 +819,7 @@ Fino alla divisione od alla costituzione di una indivisione od alla liquidazione
 
 <sup>2</sup> Pei crediti ipotecari l’esecuzione si può fare soltanto nel luogo in cui si trova il fondo ipotecato. Se è diretta contro più fondi ipotecati situati in diversi circondari, si fa in quello dove trovasi la parte di maggior valore dei medesimi.
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^51-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Foro del sequestro
 
@@ -827,7 +827,7 @@ Fino alla divisione od alla costituzione di una indivisione od alla liquidazione
 
 L’esecuzione preceduta da sequestro può essere promossa anche al luogo in cui si trova l’oggetto sequestrato.[^52-1] Tuttavia la comminatoria e la domanda di fallimento possono essere notificate soltanto nel luogo in cui si deve escutere il debitore in via ordinaria.
 
-[^52-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^52-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Foro in caso di cambiamento di domicilio
 
@@ -851,7 +851,7 @@ Il fallimento di uno stesso debitore non può essere aperto contemporaneamente, 
 
 [^tit2-lvlIII-1]
 
-[^tit2-lvlIII-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit2-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Principi e nozioni
 
@@ -869,9 +869,9 @@ Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammetton
 
 <sup>2</sup> Alle azioni di cui alla presente legge da promuovere avanti al giudice si applicano esclusivamente le disposizioni del CPC[^56-2] sulla sospensione dei termini.[^56-3]
 
-[^56-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^56-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^56-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
-[^56-3]: Introdotto dal n. II 2 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
+[^56-3]: Introdotto dalla cifra II 2 della LF del 17 mar. 2023 (Migliorare la praticabilità e l’applicazione del diritto), in vigore dal 1° gen. 2025 ([RU 2023 491](https://fedlex.data.admin.ch/eli/oc/2023/491); [FF 2020 2407](https://fedlex.data.admin.ch/eli/fga/2020/653)).
 
 ### B. Sospensione
 
@@ -896,9 +896,9 @@ Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammetton
 <sup>4</sup> Il debitore che presta servizio militare o di protezione civile in qualità di funzionario o impiegato della Confederazione o del Cantone non fruisce della sospensione.[^57-4]
 
 [^57-1]: Nuovo testo giusta l’art. 2 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
-[^57-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^57-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^57-4]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57-4]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Obbligo d’informare dei terzi
 
@@ -916,9 +916,9 @@ Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammetton
 
 [^57a-1]: Introdotto dall’art. 2 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57). Vedi anche la nota all’art. 57.
 [^57a-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^57a-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^57a-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^57a-5]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57a-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57a-4]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57a-5]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Garanzia del pegno immobiliare
 
@@ -932,7 +932,7 @@ Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammetton
 
 [^57b-1]: Introdotto dall’art. 2 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57). Vedi anche la nota all’art. 57.
 [^57b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^57b-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57b-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### d. Inventario
 
@@ -945,7 +945,7 @@ Fatti salvi i casi di sequestro o di provvedimenti conservativi che non ammetton
 <sup>2</sup> L’inventario può essere evitato se vengono fornite garanzie per il credito del creditore istante.
 
 [^57c-1]: Introdotto dall’art. 2 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57). Vedi anche la nota all’art. 57.
-[^57c-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57c-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### e. Revoca da parte del giudice
 
@@ -959,7 +959,7 @@ Il giudice competente per il rigetto dell’opposizione può revocare con effett
 - 2\. il debitore, in servizio militare volontario o in servizio volontario di protezione civile, non ha bisogno della sospensione per poter provvedere alla propria esistenza economica, oppure
 - 3\. il debitore presta servizio militare volontario o servizio volontario di protezione civile per sottrarsi ai suoi impegni.
 
-[^57d-1]: Introdotto dall’art. 2 della LF del 28 set. 1949 (RU **1950** I 57). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57d-1]: Introdotto dall’art. 2 della LF del 28 set. 1949 (RU **1950** I 57). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### f. Servizio militare, servizio civile o servizio di protezione civile del rappresentante legale
 
@@ -969,7 +969,7 @@ Il giudice competente per il rigetto dell’opposizione può revocare con effett
 
 Le disposizioni sulla sospensione sono applicabili anche alle persone ed alle società il cui rappresentante legale si trova in servizio militare, servizio civile o servizio di protezione civile, fintanto che esse non siano in grado di designare un altro rappresentante.
 
-[^57e-1]: Introdotto dall’art. 2 della LF del 28 set. 1949 (RU **1950** I 57). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^57e-1]: Introdotto dall’art. 2 della LF del 28 set. 1949 (RU **1950** I 57). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Decesso
 
@@ -991,7 +991,7 @@ L’esecuzione contro un debitore cui sia morto il coniuge, il partner registrat
 
 <sup>3</sup> Contro gli eredi può essere proseguita soltanto quando si tratti di realizzazione del pegno o quando, in una esecuzione per via di pignoramento, siano decorsi i termini stabiliti dagli articoli 110 e 111 per la partecipazione al medesimo.
 
-[^59-1]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^59-1]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^59-2]: Nuovo testo giusta l’art. 2 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 [^59-3]: Nuovo testo giusta l’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
 
@@ -1017,7 +1017,7 @@ In caso di grave malattia del debitore, l’ufficiale può accordargli la sospen
 
 In caso di epidemia o di pubblica calamità e in tempo di guerra, il Consiglio federale, o il Governo cantonale con il consenso del Consiglio federale, può accordare la sospensione per determinate parti del territorio o di popolazione.
 
-[^62-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)137; [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^62-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227)137; [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Effetti sulla decorrenza dei termini
 
@@ -1027,7 +1027,7 @@ In caso di epidemia o di pubblica calamità e in tempo di guerra, il Consiglio f
 
 Le ferie e le sospensioni non impediscono la decorrenza dei termini. Tuttavia, il termine a disposizione del debitore, del creditore o di terzi che viene a scadere durante le ferie o le sospensioni è prorogato fino al terzo giorno dopo la fine delle medesime. Nel computo del termine di tre giorni non si tiene conto dei sabati, delle domeniche e dei giorni ufficialmente riconosciuti come festivi.
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### IV. Della notificazione degli atti esecutivi
 
@@ -1056,9 +1056,9 @@ Se l’esecuzione è diretta contro una persona giuridica o contro una società,
 
 <sup>3</sup> Se l’esecuzione è diretta contro un’eredità non divisa, la notificazione si fa al rappresentante dell’eredità o se questi non è conosciuto ad uno degli eredi.[^65-4]
 
-[^65-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^65-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^65-3]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^65-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^65-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^65-3]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^65-4]: Introdotto dall’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
 
 ### C. Al debitore domiciliato all’estero o in caso di notificazione impossibile
@@ -1081,9 +1081,9 @@ La notificazione si fa mediante pubblicazione quando:
 
 <sup>5</sup> ...[^66-3]
 
-[^66-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^66-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^66-3]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^66-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^66-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^66-3]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### V. Della domanda d’esecuzione
 
@@ -1105,7 +1105,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 <sup>3</sup> Della domanda d’esecuzione si deve dar atto gratuitamente al creditore che lo richieda.
 
 [^67-1]: Nuovo testo giusta l’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
-[^67-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^67-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Spese d’esecuzione
 
@@ -1119,7 +1119,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 
 [^tit2-lvlVI-1]
 
-[^tit2-lvlVI-1]: Originario Tit. V<sup>bis</sup>. Introdotto dall’art. 15 n. 3 disp. fin. e trans. Tit. XXIV–XXXIII CO ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit2-lvlVI-1]: Originario Tit. V<sup>bis</sup>. Introdotto dall’art. 15 n. 3 disp. fin. e trans. Tit. XXIV–XXXIII CO ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Notificazione degli atti esecutivi. Opposizione
 
@@ -1133,8 +1133,8 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 
 <sup>3</sup> ...[^68a-2]
 
-[^68a-1]: Originario art. 68<sup>bis</sup>. Introdotto dall’art. 15 n. 3 disp. fin. e trans. Tit. XXIV–XXXIII CO ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)). Nuovo testo giusta il n. II 3 della LF del 5 ott. 1984 che modifica il CC, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^68a-2]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^68a-1]: Originario art. 68<sup>bis</sup>. Introdotto dall’art. 15 n. 3 disp. fin. e trans. Tit. XXIV–XXXIII CO ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)). Nuovo testo giusta la cifra II 3 della LF del 5 ott. 1984 che modifica il CC, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^68a-2]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Disposizioni speciali
 
@@ -1152,16 +1152,16 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 
 <sup>5</sup> L’autorità di vigilanza può chiedere al giudice di pronunciare la separazione dei beni.
 
-[^68b-1]: Introdotto dal n. II 3 della LF del 5 ott. 1984 che modifica il CC, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
-[^68b-2]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^68b-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^68b-4]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^68b-1]: Introdotto dalla cifra II 3 della LF del 5 ott. 1984 che modifica il CC, in vigore dal 1° gen. 1988 ([RU 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)art. 1; [FF 1979 II 1119](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^68b-2]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^68b-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^68b-4]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### VII. Dell’esecuzione in caso di rappresentanza legale o curatela
 
 [^tit2-lvlVII-1]
 
-[^tit2-lvlVII-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit2-lvlVII-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 1. Debitore minorenne
 
@@ -1187,7 +1187,7 @@ La domanda d’esecuzione si presenta per iscritto o verbalmente all’ufficio d
 <sup>2</sup> Gli atti esecutivi si notificano pure al debitore se non è limitato nell’esercizio dei diritti civili.[^68d-2]
 
 [^68d-1]: Nuovo testo giusta l’all. n. 12 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^68d-2]: Nuovo testo giusta il n. I della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
+[^68d-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2015 (Rappresentanza professionale nel procedimento esecutivo), in vigore dal 1° gen. 2018 ([RU 2016 3643](https://fedlex.data.admin.ch/eli/oc/2016/612); [FF 2014 7505](https://fedlex.data.admin.ch/eli/fga/2014/1878)).
 
 ### 3. Limitazione della responsabilità
 
@@ -1226,7 +1226,7 @@ Il precetto contiene:
 
 <sup>2</sup> Se per lo stesso debito si procede contemporaneamente contro più debitori, a ciascuno di essi è notificato un precetto.[^70-1]
 
-[^70-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^70-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Momento della notificazione
 
@@ -1238,7 +1238,7 @@ Il precetto contiene:
 
 <sup>3</sup> Ad una domanda presentata posteriormente non si può in alcun caso dare corso prima che ad una anteriore.
 
-[^71-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^71-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Forma della notificazione
 
@@ -1248,7 +1248,7 @@ Il precetto contiene:
 
 <sup>2</sup> All’atto della consegna colui che procede alla notificazione deve attestare su ambedue gli originali, in qual giorno ed a chi questa sia stata fatta.
 
-[^72-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^72-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Produzione dei mezzi di prova
 
@@ -1260,7 +1260,7 @@ Il precetto contiene:
 
 <sup>2</sup> L’invito non ha alcun effetto sui termini, che continuano a correre. In caso di inadempimento o di adempimento tardivo del creditore il giudice, in una lite successiva, tiene tuttavia conto nella decisione sulle spese processuali e sulle ripetibili del fatto che il debitore non aveva avuto la possibilità di prendere visione dei mezzi di prova.
 
-[^73-1]: Nuovo testo giusta il n. I della LF del 16 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2641](https://fedlex.data.admin.ch/eli/fga/2015/692)[4779](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
+[^73-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2641](https://fedlex.data.admin.ch/eli/fga/2015/692)[4779](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
 
 ### C. Opposizione
 
@@ -1274,8 +1274,8 @@ Il precetto contiene:
 
 <sup>3</sup> Della dichiarazione di opposizione si deve dar atto gratuitamente al debitore che lo richieda.
 
-[^74-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^74-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^74-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^74-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Motivi
 
@@ -1289,7 +1289,7 @@ Il precetto contiene:
 
 <sup>3</sup> Sono salve le disposizioni sull’opposizione tardiva (art. 77) e sull’opposizione nell’esecuzione cambiaria (art. 179 cpv. 1).
 
-[^75-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^75-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Comunicazione al creditore
 
@@ -1313,10 +1313,10 @@ Il precetto contiene:
 
 <sup>5</sup> L’ufficio d’esecuzione avvisa il debitore di ogni cambiamento di creditore.[^77-4]
 
-[^77-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^77-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^77-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^77-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^77-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^77-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^77-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^77-4]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Effetti
 
@@ -1336,7 +1336,7 @@ Il precetto contiene:
 
 Se è stata fatta opposizione contro l’esecuzione, il creditore, per far valere la propria pretesa, deve seguire la procedura civile o amministrativa. Può chiedere la continuazione dell’esecuzione soltanto in forza di una decisione esecutiva che tolga espressamente l’opposizione.
 
-[^79-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^79-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 2. Mediante rigetto definitivo
 
@@ -1359,13 +1359,13 @@ Sono parificati alle decisioni giudiziarie:[^80-3]
 - 4\.[^80-8] le decisioni definitive relative alle spese di controllo pronunciate dagli organi di controllo in virtù dell’articolo 16 capoverso 1 della legge del 17 giugno 2005[^80-9] contro il lavoro nero;
 - 5\.[^80-10] nell’ambito dell’imposta sul valore aggiunto, rendiconti fiscali e avvisi di tassazione che sono passati in giudicato con il subentrare della prescrizione del diritto di tassazione, nonché avvisi di tassazione che sono passati in giudicato con il riconoscimento scritto da parte del contribuente.
 
-[^80-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^80-2]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^80-3]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^80-4]: Introdotto dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^80-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^80-2]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^80-3]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^80-4]: Introdotto dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-5]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
-[^80-6]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^80-7]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^80-6]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^80-7]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^80-8]: Introdotto dall’all. n. 3 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 [^80-9]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^80-10]: Introdotto dall’all. n. 2 della LF del 30 set. 2016, in vigore dal 1° gen. 2018 ([RU 2017 3575](https://fedlex.data.admin.ch/eli/oc/2017/396); [FF 2015 2161](https://fedlex.data.admin.ch/eli/fga/2015/540)).
@@ -1382,7 +1382,7 @@ Sono parificati alle decisioni giudiziarie:[^80-3]
 
 <sup>3</sup> Se la decisione è stata pronunciata in un altro Stato, l’escusso può inoltre avvalersi delle eccezioni previste dal pertinente trattato o, in mancanza di questo, dalla legge federale del 18 dicembre 1987[^81-2] sul diritto internazionale privato, sempre che un tribunale svizzero non abbia già pronunciato su tali eccezioni.[^81-3]
 
-[^81-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^81-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^81-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 [^81-3]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
@@ -1408,9 +1408,9 @@ Sono parificati alle decisioni giudiziarie:[^80-3]
 
 <sup>4</sup> Il decorso del termine di cui all’articolo 165 capoverso 2 è sospeso tra il giorno in cui venne promossa l’azione di disconoscimento del debito e la sua definizione giudiziale. Nondimeno, il giudice del fallimento pone termine agli effetti dell’inventario quando cessano di esistere le condizioni per ordinarlo.[^83-3]
 
-[^83-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^83-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^83-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^83-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^83-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^83-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Procedura di rigetto
 
@@ -1422,7 +1422,7 @@ Sono parificati alle decisioni giudiziarie:[^80-3]
 
 <sup>2</sup> Non appena ricevuta la domanda, dà all’escusso la possibilità di esprimersi verbalmente o per scritto, poi comunica la decisione entro cinque giorni.
 
-[^84-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^84-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Annullamento o sospensione giudiziali dell’esecuzione
 
@@ -1434,13 +1434,13 @@ Sono parificati alle decisioni giudiziarie:[^80-3]
 
 Se l’escusso prova per mezzo di documenti che il debito con i relativi interessi e con le spese è stato estinto o che gli è stata concessa una dilazione, può ottenere in ogni tempo dal tribunale del luogo dell’esecuzione nel primo caso l’annullamento, e nel secondo la sospensione dell’esecuzione.
 
-[^85-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^85-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. In procedura ordinaria e in procedura semplificata
 
 [^tit2-lvlVIII-lvlE-lvl2-1]
 
-[^tit2-lvlVIII-lvlE-lvl2-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^tit2-lvlVIII-lvlE-lvl2-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 85a
 
@@ -1459,9 +1459,9 @@ Se, dopo aver sentito le parti ed esaminato i documenti prodotti, il tribunale r
 
 <sup>4</sup> ...[^85a-3]
 
-[^85a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^85a-2]: Nuovo testo giusta il n. I della LF del 16 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2641](https://fedlex.data.admin.ch/eli/fga/2015/692)[4779](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
-[^85a-3]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^85a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^85a-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2641](https://fedlex.data.admin.ch/eli/fga/2015/692)[4779](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
+[^85a-3]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### F. Azione di ripetizione per pagamento indebito
 
@@ -1473,9 +1473,9 @@ Se, dopo aver sentito le parti ed esaminato i documenti prodotti, il tribunale r
 
 <sup>3</sup> In eccezione all’articolo 63 del Codice delle obbligazioni (CO)[^86-2], per avere diritto alla restituzione è sufficiente provare l’inesistenza del debito.[^86-3]
 
-[^86-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^86-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^86-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^86-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^86-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### G. Esecuzione in via di realizzazione del pegno ed esecuzione cambiaria
 
@@ -1487,7 +1487,7 @@ Pel precetto nella esecuzione in via di realizzazione del pegno, valgono le spec
 
 [^tit2-lvlIX-1]
 
-[^tit2-lvlIX-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit2-lvlIX-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 #### Art. 88
 
@@ -1501,7 +1501,7 @@ Pel precetto nella esecuzione in via di realizzazione del pegno, valgono le spec
 
 <sup>4</sup> A richiesta del creditore, l’ammontare del credito espresso in valuta estera può essere riconvertito in valuta svizzera al corso del giorno della domanda di continuazione.
 
-[^88-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^88-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ## Titolo terzo: Della esecuzione in via di pignoramento
 
@@ -1525,7 +1525,7 @@ Pel precetto nella esecuzione in via di realizzazione del pegno, valgono le spec
 
 Se il debitore è soggetto all’esecuzione in via di pignoramento, l’ufficio d’esecuzione, ricevuta la domanda di continuazione, procede senza indugio al pignoramento o vi fa procedere dall’ufficio del luogo dove si trovano i beni da pignorare.
 
-[^89-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^89-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Avviso
 
@@ -1556,7 +1556,7 @@ Il debitore è tenuto, sotto minaccia di pena:
 
 <sup>6</sup> L’ufficio d’esecuzione ricorda esplicitamente agli interessati i loro obblighi come pure le conseguenze penali dell’inosservanza.
 
-[^91-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^91-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^91-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^91-3]: [RU 2005 79](https://fedlex.data.admin.ch/eli/oc/2005/15)
 
@@ -1588,29 +1588,29 @@ Sono impignorabili:
 
 <sup>4</sup> Sono salve le disposizioni speciali sull’impignorabilità previste dalla legge federale del 2 aprile 1908[^92-20] sul contratto d’assicurazione (art. 79 cpv. 2 e 80 LCA), dalla legge federale del 9 ottobre 1992[^92-21] sul diritto d’autore (art. 18 LDA) e dal Codice penale (CP)[^92-22] (art. 378 cpv. 2 CP).[^92-23]
 
-[^92-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-2]: Introdotto dal n. IV della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^92-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-2]: Introdotto dalla cifra IV della LF del 4 ott. 2002 (Articolo di principio sugli animali), in vigore dal 1° apr. 2003 ([RU 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [FF 2002 3734](https://fedlex.data.admin.ch/eli/fga/2002/591)[5207](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^92-3]: Nuovo testo giusta l’art. 3 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
-[^92-4]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-4]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-5]: Nuovo testo giusta l’art. 3 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 [^92-6]: Nuovo testo giusta l’art. 3 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 [^92-7]: Nuovo testo giusta l’all. n. 4 della LF del 6 ott. 1995 sul servizio civile sostitutivo, in vigore dal 1° ott. 1996 ([RU 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [FF 1994 III 1445](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^92-8]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-8]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-9]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^92-10]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-11]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-12]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-10]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-11]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-12]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-13]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^92-14]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^92-15]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2649_2703_2483)n. III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)n. II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 6, [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)all. n. 9, [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)all. n. 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 8. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Ora: giusta l’art. 20 della LF del 6. ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
-[^92-16]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-17]: Introdotto dall’art. 3 della LF del 28 set. 1949 (R **1950** I 57). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-18]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-19]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-15]: [[RU 1965 535](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2649_2703_2483)cifra III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)cifra II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)all. n. 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)la cifra I 6, 3371 all. n. 9, 3453; **2003** 3837 all. n. 4; **2006** 979 art. 2 n. 8. [RU 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)art. 35]. Ora: giusta l’art. 20 della LF del 6. ott. 2006 ([RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
+[^92-16]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-17]: Introdotto dall’art. 3 della LF del 28 set. 1949 (R **1950** I 57). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-18]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-19]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-20]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^92-21]: [RS 231.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5952)
 [^92-22]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196). Ora: l’art 83 cpv. 2.
-[^92-23]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-23]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Redditi limitatamente pignorabili
 
@@ -1626,8 +1626,8 @@ Sono impignorabili:
 
 <sup>4</sup> Su istanza del debitore, l’ufficio ingiunge al datore di lavoro di quest’ultimo di versare all’ufficio, per la durata del pignoramento del salario, anche la somma necessaria per il pagamento dei crediti correnti di premi e partecipazioni ai costi dell’assicurazione obbligatoria delle cure medico-sanitarie, per quanto tali premi e partecipazioni ai costi facciano parte del minimo vitale del debitore. L’ufficio utilizza tale somma per pagare direttamente all’assicuratore i crediti correnti di premi e partecipazioni ai costi.[^93-2]
 
-[^93-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^93-2]: Introdotto dal n. III della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° lug. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
+[^93-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^93-2]: Introdotto dalla cifra III della LF del 18 mar. 2022 (Esecuzione dell’obbligo di pagare i premi), in vigore dal 1° lug. 2024 ([RU 2023 678](https://fedlex.data.admin.ch/eli/oc/2023/678); [FF 2021 745](https://fedlex.data.admin.ch/eli/fga/2021/745),[1058](https://fedlex.data.admin.ch/eli/fga/2021/1058)).
 
 ### 6. Pignoramento di frutti prima del raccolto
 
@@ -1665,9 +1665,9 @@ I frutti non ancora raccolti o separati dal suolo non possono essere pignorati:
 
 <sup>5</sup> In ogni caso il funzionario deve conciliare, per quanto sia possibile, gli interessi del creditore e quelli del debitore.
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^95-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^95-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^95-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^95-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Crediti verso il coniuge o il partner registrato
 
@@ -1688,7 +1688,7 @@ I crediti del debitore verso il suo coniuge o il suo partner registrato sono pig
 <sup>2</sup> Gli atti di disposizione del debitore sono nulli in quanto ne siano pregiudicati i diritti che il creditore ha acquisito col pignoramento, sotto riserva degli effetti dell’acquisto del possesso da parte di terzi di buona fede.[^96-3]
 
 [^96-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^96-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^96-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^96-3]: Introdotto dall’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
 
 ### C. Stima. Entità del pignoramento
@@ -1713,8 +1713,8 @@ I crediti del debitore verso il suo coniuge o il suo partner registrato sono pig
 
 <sup>4</sup> L’ufficio può interessarsi anche di cose sulle quali un terzo abbia un diritto di pegno. Ove non vengano realizzate, gli saranno restituite.
 
-[^98-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^98-2]: Nuovo testo giusta il n. I della LF del 3 apr. 1924, in vigore dal 1° gen. 1925 (RU **40** 391).
+[^98-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^98-2]: Nuovo testo giusta la cifra I della LF del 3 apr. 1924, in vigore dal 1° gen. 1925 (RU **40** 391).
 
 ### 2. Per i crediti
 
@@ -1740,7 +1740,7 @@ L’ufficio cura la conservazione dei diritti pignorati e riscuote i crediti sca
 
 <sup>2</sup> L’annotazione è radiata se la realizzazione non è chiesta entro due anni dal pignoramento.
 
-[^101-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^101-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Frutti e redditi
 
@@ -1755,7 +1755,7 @@ L’ufficio cura la conservazione dei diritti pignorati e riscuote i crediti sca
 <sup>3</sup> Egli cura l’amministrazione e la coltura del fondo[^102-2].
 
 [^102-1]: Nuovo testo giusta l’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
-[^102-2]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^102-2]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### c. Raccolta dei frutti
 
@@ -1791,7 +1791,7 @@ A richiesta dell’ufficio, il creditore deve anticipare le spese di conservazio
 
 <sup>3</sup> Dopo la realizzazione, i terzi possono far valere al di fuori della procedura esecutiva le pretese fondate sul diritto civile in caso di furto, smarrimento o privazione contro la sua volontà di cosa mobile (art. 934 e 935 CC[^106-2]) oppure in caso di acquisizione in mala fede (art. 936 e 974 cpv. 3 CC). La vendita a trattative private giusta l’articolo 130 della presente legge è equiparata alla vendita all’asta pubblica ai sensi dell’articolo 934 capoverso 2 CC.
 
-[^106-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^106-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^106-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### 2. Seguito della procedura
@@ -1818,7 +1818,7 @@ Il debitore e il creditore possono contestare presso l’ufficio d’esecuzione 
 
 <sup>5</sup> Se la pretesa è contestata, l’ufficio d’esecuzione impartisce al terzo un termine di venti giorni per promuovere l’azione di accertamento del suo diritto nei confronti di colui che lo contesta. Se il terzo non promuove l’azione, la sua pretesa non è presa in considerazione nell’esecuzione in atto.
 
-[^107-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^107-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. In caso di possesso o di copossesso del terzo
 
@@ -1840,7 +1840,7 @@ Il creditore e il debitore possono promuovere nei confronti del terzo l’azione
 
 <sup>4</sup> Su domanda del creditore o del debitore, il terzo è invitato a produrre all’ufficio d’esecuzione i suoi mezzi di prova entro lo scadere del termine per promuovere l’azione. L’articolo 73 capoverso 2 si applica per analogia.
 
-[^108-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^108-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Foro
 
@@ -1863,8 +1863,8 @@ Sono promosse al luogo dell’esecuzione:
 
 <sup>5</sup> Per quanto riguarda gli oggetti litigiosi, l’esecuzione è sospesa fino a decisione definitiva, e i termini per chiedere la realizzazione (art. 116) sono sospesi.
 
-[^109-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^109-2]: Per. abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^109-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^109-2]: Per. abrogato dall’all. 1 la cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### F. Partecipazione al pignoramento
 
@@ -1878,8 +1878,8 @@ Sono promosse al luogo dell’esecuzione:
 
 <sup>3</sup> I beni già pignorati possono essere nuovamente oggetto di un successivo pignoramento, ma soltanto nella misura in cui la somma ricavatane non spetti ai creditori che procedettero al pignoramento anteriore.
 
-[^110-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^110-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^110-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^110-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Partecipazione privilegiata
 
@@ -1904,14 +1904,14 @@ Hanno diritto di partecipare, senza preventiva esecuzione, al pignoramento duran
 
 <sup>5</sup> Se viene contestata, la partecipazione è ammessa soltanto con gli effetti di un pignoramento provvisorio, e l’istante deve promuovere l’azione entro venti giorni al luogo dell’esecuzione; trascorso infruttuosamente il termine, la sua partecipazione è caduca. ...[^111-8]
 
-[^111-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^111-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^111-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^111-3]: Nuovo testo giusta l’all. n. 12 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
 [^111-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^111-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^111-6]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^111-7]: Nuovo testo giusta l’all. n. 12 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^111-8]: Per. abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^111-8]: Per. abrogato dall’all. 1 la cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### G. Atto di pignoramento
 
@@ -1933,7 +1933,7 @@ Hanno diritto di partecipare, senza preventiva esecuzione, al pignoramento duran
 
 La partecipazione di nuovi creditori a un pignoramento e i pignoramenti complementari sono annotati in coda all’atto di pignoramento.
 
-[^113-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^113-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Notificazione ai creditori e al debitore
 
@@ -1943,7 +1943,7 @@ La partecipazione di nuovi creditori a un pignoramento e i pignoramenti compleme
 
 Trascorso il termine di partecipazione di trenta giorni, l’ufficio d’esecuzione notifica senza indugio una copia degli atti di pignoramento ai creditori e al debitore.
 
-[^114-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^114-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Atto di pignoramento valido come attestato di carenza di beni
 
@@ -1955,13 +1955,13 @@ Trascorso il termine di partecipazione di trenta giorni, l’ufficio d’esecuzi
 
 <sup>3</sup> L’attestato provvisorio di carenza di beni conferisce inoltre al creditore il diritto di esigere, entro il termine di un anno previsto dall’articolo 88 capoverso 2, il pignoramento di beni nuovamente scoperti. Le disposizioni sulla partecipazione (art. 110 e 111) sono applicabili.[^115-1]
 
-[^115-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^115-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### II. Della realizzazione
 
 [^tit3-lvlII-1]
 
-[^tit3-lvlII-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit3-lvlII-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Domanda di realizzazione
 
@@ -1977,7 +1977,7 @@ Trascorso il termine di partecipazione di trenta giorni, l’ufficio d’esecuzi
 
 <sup>3</sup> Qualora la partecipazione di più creditori abbia comportato pignoramenti complementari, i termini decorrono dall’ultimo pignoramento complementare fruttuoso.
 
-[^116-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^116-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Legittimazione attiva
 
@@ -2003,7 +2003,7 @@ Non possono chiederla invece i creditori che ottennero soltanto un pignoramento 
 
 <sup>2</sup> La realizzazione è sospesa non appena la somma ricavata raggiunge l’importo totale dei crediti, per i quali il pignoramento è provvisorio o definitivo. Rimane salvo l’articolo 144 capoverso 5.
 
-[^119-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^119-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Avviso al debitore
 
@@ -2029,7 +2029,7 @@ L’esecuzione è perenta se la domanda di realizzazione non è stata fatta nel 
 
 <sup>2</sup> I frutti non ancora raccolti o separati dal suolo, non possono essere realizzati senza il consenso del debitore prima che siano giunti a maturità.
 
-[^122-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^122-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Differimento della realizzazione
 
@@ -2048,10 +2048,10 @@ L’esecuzione è perenta se la domanda di realizzazione non è stata fatta nel 
 <sup>5</sup> L’ufficiale modifica la sua decisione, d’ufficio o su istanza del creditore o del debitore, in quanto le circostanze lo richiedano. La proroga cade se una rata non è versata a tempo debito.[^123-5]
 
 [^123-1]: Nuovo testo giusto l’art. 5 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
-[^123-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^123-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^123-4]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^123-5]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^123-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^123-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^123-4]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^123-5]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Realizzazione anticipata
 
@@ -2061,7 +2061,7 @@ L’esecuzione è perenta se la domanda di realizzazione non è stata fatta nel 
 
 <sup>2</sup> L’ufficiale può sempre procedere alla realizzazione degli oggetti esposti a rapido deprezzamento, ovvero la cui conservazione o deposito comportino spese eccessive.[^124-1]
 
-[^124-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^124-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Pubblici incanti
 
@@ -2075,7 +2075,7 @@ L’esecuzione è perenta se la domanda di realizzazione non è stata fatta nel 
 
 <sup>3</sup> Quando il debitore, il creditore e i terzi interessati abbiano in Svizzera una dimora conosciuta o un rappresentante, l’ufficio d’esecuzione li avvisa con lettera semplice, almeno tre giorni prima, del giorno, dell’ora e del luogo dell’incanto.[^125-1]
 
-[^125-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^125-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Aggiudicazione. Principio dell’offerta sufficiente
 
@@ -2107,7 +2107,7 @@ Se appare evidente che un’aggiudicazione non sarà possibile in base all’art
 
 Gli oggetti di metallo prezioso non si possono aggiudicare per un prezzo inferiore al valore del metallo.
 
-[^128-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^128-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### e. Modo di pagamento e conseguenze della mora
 
@@ -2121,9 +2121,9 @@ Gli oggetti di metallo prezioso non si possono aggiudicare per un prezzo inferio
 
 <sup>4</sup> Il precedente deliberatario ed i suoi fideiussori rispondono della minor somma ricavata e d’ogni altro danno. Gli interessi perduti sono calcolati nella misura del cinque per cento.
 
-[^129-1]: Nuovo testo giusta il n. I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^129-1]: Nuovo testo giusta la cifra I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^129-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^129-3]: Nuovo testo giusta il n. I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^129-3]: Nuovo testo giusta la cifra I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^129-4]: Nuovo testo giusta l’art. 7 della LF del 8 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
 
 ### 3. Vendita a trattative private
@@ -2137,9 +2137,9 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 - 3\.[^130-3] quando si tratta di oggetti di metallo prezioso per i quali le offerte fatte all’incanto non hanno raggiunto il valore del metallo e se ne offre questo prezzo;
 - 4\. nel caso dell’articolo 124 capoverso 2.
 
-[^130-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^130-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^130-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^130-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^130-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^130-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Assegnazione dei crediti
 
@@ -2149,7 +2149,7 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 
 <sup>2</sup> Con l’accordo di tutti i creditori pignoranti, tutti o alcuni di essi, senza pregiudizio dei loro diritti verso il debitore, possono fare valere a proprio nome, conto e rischio i crediti pignorati. Essi devono ottenere l’autorizzazione dell’ufficio d’esecuzione. La somma ricavata serve a coprire le spese e i crediti di coloro che hanno proceduto in tal modo. L’eccedenza è consegnata all’ufficio d’esecuzione.[^131-1]
 
-[^131-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^131-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Procedure speciali di realizzazione
 
@@ -2180,8 +2180,8 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 
 ...[^132a-2]
 
-[^132a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^132a-2]: Tit. abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^132a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^132a-2]: Tit. abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Realizzazione dei fondi
 
@@ -2195,7 +2195,7 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 
 <sup>2</sup> Su istanza del debitore e con l’accordo esplicito di tutti i creditori pignoratizi e pignoranti, si può procedere alla realizzazione anche prima che un creditore sia legittimato a richiederla.
 
-[^133-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^133-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Condizioni dell’incanto
 
@@ -2216,7 +2216,7 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 <sup>2</sup> Le condizioni dell’incanto stabiliscono inoltre quali spese debba sostenere il deliberatario.
 
 [^135-1]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^135-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^135-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Modo di pagamento
 
@@ -2228,7 +2228,7 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 
 <sup>2</sup> Il pagamento può essere effettuato in contanti fino a 100 000 franchi. Se il prezzo è superiore, il pagamento della parte eccedente tale importo deve essere effettuato per il tramite di un intermediario finanziario ai sensi della legge del 10 ottobre 1997[^136-2] sul riciclaggio di denaro.
 
-[^136-1]: Nuovo testo giusta il n. I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
+[^136-1]: Nuovo testo giusta la cifra I 3 della LF del 12 dic. 2014 concernente l’attuazione delle Raccomandazioni del Gruppo d’azione finanziaria rivedute nel 2012, in vigore dal 1° gen. 2016 ([RU 2015 1389](https://fedlex.data.admin.ch/eli/oc/2015/289); [FF 2014 563](https://fedlex.data.admin.ch/eli/fga/2014/100)).
 [^136-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
 
 ### d. Termine per il pagamento
@@ -2239,7 +2239,7 @@ In luogo dell’incanto si può procedere alla vendita a trattative private:[^13
 
 Quando sia concesso un termine, il fondo rimane, fino al pagamento del prezzo, sotto l’amministrazione dell’ufficio d’esecuzione, per conto e rischio dell’acquirente. Non può nel frattempo essere fatta alcuna iscrizione nel registro fondiario senza il consenso dell’ufficio d’esecuzione. L’ufficio può inoltre esigere altre garanzie per il pagamento.
 
-[^137-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^137-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Incanto
 
@@ -2259,7 +2259,7 @@ Il bando contiene:
 
 <sup>3</sup> Simile ingiunzione è diretta anche ai possessori di servitù, in quanto sia ancora applicabile il diritto cantonale.[^138-2]
 
-[^138-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^138-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^138-2]: Nuovo testo giusta l’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
 
 ### b. Avviso agli interessati
@@ -2270,7 +2270,7 @@ Il bando contiene:
 
 L’ufficio d’esecuzione notifica, con lettera semplice, copia del bando al creditore, al debitore e, all’occorrenza, al terzo proprietario del fondo, nonché ad ogni altro interessato iscritto nel registro fondiario, sempreché abbiano un domicilio conosciuto o un rappresentante.
 
-[^139-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^139-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Appuramento dell’elenco oneri. Stima
 
@@ -2284,7 +2284,7 @@ L’ufficio d’esecuzione notifica, con lettera semplice, copia del bando al cr
 
 <sup>3</sup> L’ufficiale ordina inoltre una stima del fondo e la comunica agli interessati.
 
-[^140-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^140-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### d. Differimento dell’incanto
 
@@ -2296,7 +2296,7 @@ L’ufficio d’esecuzione notifica, con lettera semplice, copia del bando al cr
 
 <sup>2</sup> Tuttavia, se la lite verte unicamente sulla qualità di accessorio o sulla determinazione dei creditori pignoratizi garantiti da un accessorio, si può procedere all’incanto del fondo e dell’accessorio.
 
-[^141-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^141-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### e. Doppio turno d’asta
 
@@ -2310,7 +2310,7 @@ L’ufficio d’esecuzione notifica, con lettera semplice, copia del bando al cr
 
 <sup>3</sup> Se il prezzo offerto per il fondo con il nuovo aggravio non basta per soddisfare il creditore, e se la realizzazione senza l’aggravio permette di ottenere un prezzo maggiore, il creditore può domandarne la cancellazione dal registro fondiario. Soddisfatto il creditore, l’eventuale eccedenza spetta in primo luogo, a titolo di indennità, al titolare dell’onere sino a concorrenza del suo valore.
 
-[^142-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^142-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Aggiudicazione. Principio dell’offerta sufficiente. Rinuncia alla realizzazione
 
@@ -2320,7 +2320,7 @@ L’ufficio d’esecuzione notifica, con lettera semplice, copia del bando al cr
 
 Sono applicabili le disposizioni riguardanti l’aggiudicazione e il principio dell’offerta sufficiente (art. 126), come pure la rinuncia alla realizzazione (art. 127).
 
-[^142a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^142a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Conseguenze della mora
 
@@ -2330,7 +2330,7 @@ Sono applicabili le disposizioni riguardanti l’aggiudicazione e il principio d
 
 <sup>2</sup> Il precedente deliberatario ed i suoi fideiussori rispondono della minor somma ricavata e d’ogni altro danno. Gli interessi perduti sono calcolati nella misura del cinque per cento.
 
-[^143-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^143-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 6. Disposizioni complementari
 
@@ -2340,7 +2340,7 @@ Sono applicabili le disposizioni riguardanti l’aggiudicazione e il principio d
 
 Per il resto, alla realizzazione dei fondi si applicano gli articoli 123 e 132*a*.
 
-[^143a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^143a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 7. Vendita a trattative private
 
@@ -2352,7 +2352,7 @@ Per il resto, alla realizzazione dei fondi si applicano gli articoli 123 e 132*a
 
 <sup>2</sup> La vendita può aver luogo soltanto dopo l’appuramento dell’elenco oneri ai sensi degli articoli 138 capoverso 2 numero 3 e capoverso 3 nonché 140, come pure in applicazione per analogia degli articoli 135 a 137.
 
-[^143b-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^143b-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Ripartizione
 
@@ -2370,8 +2370,8 @@ Per il resto, alla realizzazione dei fondi si applicano gli articoli 123 e 132*a
 
 <sup>5</sup> Le quote spettanti ai crediti pei quali ebbe luogo un pignoramento provvisorio sono depositate nel frattempo presso lo stabilimento dei depositi.
 
-[^144-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^144-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^144-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^144-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Pignoramento complementare
 
@@ -2385,7 +2385,7 @@ Per il resto, alla realizzazione dei fondi si applicano gli articoli 123 e 132*a
 
 <sup>3</sup> Sono applicabili le disposizioni sulla partecipazione al pignoramento (art. 110 e 111).
 
-[^145-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^145-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Graduatoria e stato di ripartizione
 
@@ -2399,7 +2399,7 @@ Per il resto, alla realizzazione dei fondi si applicano gli articoli 123 e 132*a
 
 <sup>2</sup> I creditori sono collocati nella classe che, secondo l’articolo 219, occuperebbero nel fallimento del debitore. In luogo della dichiarazione di fallimento, è determinante il momento della domanda di continuazione dell’esecuzione.
 
-[^146-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^146-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Avviso
 
@@ -2409,7 +2409,7 @@ Per il resto, alla realizzazione dei fondi si applicano gli articoli 123 e 132*a
 
 La graduatoria e lo stato di ripartizione sono depositati presso l’ufficio d’esecuzione. Questo ne informa gli interessati e notifica a ogni creditore un estratto concernente il suo credito.
 
-[^147-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^147-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### c. Azione di contestazione
 
@@ -2421,9 +2421,9 @@ La graduatoria e lo stato di ripartizione sono depositati presso l’ufficio d�
 
 <sup>3</sup> Se la domanda è ammessa, la parte della somma ricavata dalla realizzazione destinata secondo lo stato di ripartizione al convenuto serve al soddisfacimento dell’attore, sino a concorrenza della perdita stabilita nello stato di ripartizione e delle spese processuali. L’eccedenza spetta al convenuto.[^148-3]
 
-[^148-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^148-2]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^148-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^148-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^148-2]: Abrogato dall’all. 1 la cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^148-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Attestato di carenza di beni
 
@@ -2443,9 +2443,9 @@ La graduatoria e lo stato di ripartizione sono depositati presso l’ufficio d�
 
 <sup>5</sup> ...[^149-3]
 
-[^149-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^149-2]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^149-3]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^149-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^149-2]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^149-3]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Prescrizione e cancellazione
 
@@ -2459,7 +2459,7 @@ La graduatoria e lo stato di ripartizione sono depositati presso l’ufficio d�
 
 <sup>3</sup> Dopo il pagamento dell’intero debito, l’iscrizione dell’attestato di carenza di beni è cancellata dal registro. Della cancellazione viene dato atto al debitore che lo richieda.
 
-[^149a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^149a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Restituzione del titolo di credito
 
@@ -2472,7 +2472,7 @@ La graduatoria e lo stato di ripartizione sono depositati presso l’ufficio d�
 <sup>3</sup> Trattandosi di realizzazione di fondi, l’ufficio d’esecuzione procede alle necessarie cancellazioni e mutazioni nel registro fondiario di servitù, oneri fondiari, pegni immobiliari e diritti personali annotati.[^150-2]
 
 [^150-1]: Nuovo testo giusta l’art. 58 Tit. fin. CC, in vigore dal 1° gen. 1912 ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60).
-[^150-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^150-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ## Titolo quarto: Dell’esecuzione in via di realizzazione del pegno
 
@@ -2491,7 +2491,7 @@ La domanda d’esecuzione per un credito garantito da pegno (art. 37) deve enunc
 
 <sup>2</sup> Il creditore che domanda l’esecuzione per la realizzazione di un pegno manuale sul quale gravi un diritto di pegno posteriore di un terzo (art. 886 CC) deve informarne quest’ultimo.
 
-[^151-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^151-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^151-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^151-3]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^151-4]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -2511,10 +2511,10 @@ Ricevuta la domanda d’esecuzione, l’ufficio d’esecuzione stende il precett
 
 <sup>2</sup> Se il fondo è dato in locazione o in affitto e il creditore pignoratizio procedente pretende che il diritto di pegno sia esteso ai crediti per pigioni e fitti (art. 806 CC[^152-3]), l’ufficio d’esecuzione ne dà comunicazione ai locatari e agli affittuari, ingiungendo loro che il pagamento delle pigioni e dei fitti che verranno a scadenza andrà fatto all’ufficio d’esecuzione.[^152-4]
 
-[^152-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^152-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^152-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^152-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^152-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^152-4]: Introdotto dall’art. 58 Tit. fin. CC ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^152-4]: Introdotto dall’art. 58 Tit. fin. CC ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Stesura. Situazione del terzo proprietario del pegno
 
@@ -2535,12 +2535,12 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 <sup>4</sup> Si applicano inoltre al precetto ed alla opposizione le disposizioni degli articoli 71 a 86.[^153-7]
 
-[^153-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^153-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^153-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^153-4]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^153-5]: Introdotto dall’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^153-6]: Introdotto dall’art. 58 Tit. fin. CC ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^153-6]: Introdotto dall’art. 58 Tit. fin. CC ([RU 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Tit. fin. art. 60). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-7]: Primitivo cpv. 3.
 
 ### C. Opposizione. Annullamento dell’avviso ai locatari e agli affittuari
@@ -2555,7 +2555,7 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 <sup>3</sup> Trascorsi infruttuosamente i termini, l’avviso ai locatari e agli affittuari viene revocato.
 
-[^153a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^153a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Termini di realizzazione
 
@@ -2565,7 +2565,7 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 <sup>2</sup> L’esecuzione è perenta se la domanda di realizzazione non è stata fatta nel termine legale o se, ritirata, non fu più rinnovata.
 
-[^154-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^154-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Procedura di realizzazione
 
@@ -2577,7 +2577,7 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 <sup>2</sup> L’ufficio avvisa il debitore, entro tre giorni, che il creditore ha domandato la realizzazione.
 
-[^155-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^155-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Attuazione
 
@@ -2589,7 +2589,7 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 <sup>2</sup> I titoli di credito garantiti da pegno immobiliare e per i quali è designato come creditore il proprietario o il portatore, dati in pegno dal proprietario, sono ridotti, in caso di realizzazione separata, all’importo della somma ricavata.
 
-[^156-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^156-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Ripartizione
 
@@ -2603,8 +2603,8 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 <sup>4</sup> Si applicano per analogia gli articoli 147, 148 e 150.
 
-[^157-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^157-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^157-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^157-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Attestato di insufficienza del pegno
 
@@ -2616,10 +2616,10 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 <sup>3</sup> L’attestato di insufficienza del pegno vale quale riconoscimento di debito ai sensi dell’articolo 82.[^158-4]
 
-[^158-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^158-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^158-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^158-3]: Nuovo testo giusta il n. II 4 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
-[^158-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^158-3]: Nuovo testo giusta la cifra II 4 della LF dell’11 dic. 2009 (Cartella ipotecaria registrale e diritti reali), in vigore dal 1° gen. 2012 ([RU 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [FF 2007 4845](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^158-4]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ## Titolo quinto: Della procedura di fallimento
 
@@ -2635,7 +2635,7 @@ L’ufficio d’esecuzione notifica il precetto anche alle seguenti persone:
 
 Ricevuta la domanda di continuazione, se il debitore è soggetto all’esecuzione in via di fallimento, l’ufficio d’esecuzione gli commina senza indugio il fallimento.
 
-[^159-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^159-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Contenuto
 
@@ -2652,8 +2652,8 @@ La comminatoria di fallimento contiene:
 
 <sup>2</sup> Si ricorderà inoltre al debitore che la legge gli permette di proporre un concordato.
 
-[^160-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^160-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^160-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^160-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Notificazione
 
@@ -2665,8 +2665,8 @@ La comminatoria di fallimento contiene:
 
 <sup>3</sup> ...[^161-2]
 
-[^161-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^161-2]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^161-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^161-2]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Inventario dei beni
 
@@ -2684,7 +2684,7 @@ A richiesta del creditore, il giudice del fallimento, quando lo reputi opportuno
 
 <sup>2</sup> Si applicano per analogia le disposizioni degli articoli 90, 91 e 92.
 
-[^163-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^163-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Effetti
 
@@ -2698,7 +2698,7 @@ A richiesta del creditore, il giudice del fallimento, quando lo reputi opportuno
 
 <sup>2</sup> L’ufficiale ricorda esplicitamente al debitore i suoi doveri come pure le conseguenze penali dell’inosservanza.
 
-[^164-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^164-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^164-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### b. Durata
@@ -2709,7 +2709,7 @@ A richiesta del creditore, il giudice del fallimento, quando lo reputi opportuno
 
 <sup>2</sup> Gli effetti dell’inventario cessano di diritto quattro mesi dopo la formazione.[^165-1]
 
-[^165-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^165-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Domanda di fallimento
 
@@ -2721,7 +2721,7 @@ A richiesta del creditore, il giudice del fallimento, quando lo reputi opportuno
 
 <sup>2</sup> Tale diritto si estingue quindici mesi dopo la notificazione del precetto esecutivo. Se è stata fatta opposizione, questo termine rimane sospeso a partire dal giorno in cui l’azione fu promossa sino a quello della sua definizione giudiziale.[^166-1]
 
-[^166-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^166-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Ritiro
 
@@ -2743,7 +2743,7 @@ Presentata la domanda di fallimento, le parti sono avvisate, almeno tre giorni p
 
 <sup>2</sup> Il giudice può pretendere dal creditore una conveniente anticipazione delle medesime.
 
-[^169-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^169-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 5. Provvedimenti conservativi
 
@@ -2761,7 +2761,7 @@ Appena presentata domanda di fallimento, il giudice può prendere i provvediment
 
 Il giudice decide seduta stante anche in assenza delle parti. Egli dichiara il fallimento, salvo nei casi previsti dagli articoli 172 a 173*a*.
 
-[^171-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^171-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Reiezione della domanda di fallimento
 
@@ -2773,7 +2773,7 @@ Il giudice rigetta la domanda di fallimento:
 - 2\.[^172-1] quando al debitore siano stati restituiti i termini (art. 33 cpv. 4) o quando egli sia stato ammesso al beneficio dell’opposizione tardiva (art. 77);
 - 3\. quando il debitore provi con documenti che il debito, compresi gli interessi e le spese, è stato estinto o che il creditore gli ha concesso una dilazione.
 
-[^172-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^172-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Differimento della decisione
 
@@ -2787,8 +2787,8 @@ Il giudice rigetta la domanda di fallimento:
 
 <sup>3</sup> Il decreto dell’autorità di vigilanza è comunicato al giudice del fallimento, il quale decide.
 
-[^173-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^173-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^173-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^173-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Per domanda di moratoria concordataria o straordinaria oppure d’ufficio
 
@@ -2802,10 +2802,10 @@ Il giudice rigetta la domanda di fallimento:
 
 <sup>3</sup> ...[^173a-4]
 
-[^173a-1]: Introdotto dall’art. 12 della LF del 28 set. 1949 (RU **1950** I 57). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^173a-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^173a-1]: Introdotto dall’art. 12 della LF del 28 set. 1949 (RU **1950** I 57). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^173a-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^173a-3]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^173a-4]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^173a-4]: Abrogato dalla cifra I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 3<sup>bis</sup>. Competenza dell’Autorità federale di vigilanza sui mercati finanziari
 
@@ -2817,7 +2817,7 @@ Il giudice rigetta la domanda di fallimento:
 
 <sup>2</sup> Sottostanno alla competenza della FINMA in materia di fallimento unicamente i debitori che dispongono della necessaria autorizzazione della FINMA.[^173b-3]
 
-[^173b-1]: Introdotto dal n. II 1 della LF del 3 ott. 2003 ([RU 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Nuovo testo giusta l’all. n. II 5 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^173b-1]: Introdotto dalla cifra II 1 della LF del 3 ott. 2003 ([RU 2004 2767](https://fedlex.data.admin.ch/eli/oc/2004/340); [FF 2002 7175](https://fedlex.data.admin.ch/eli/fga/2002/1290)). Nuovo testo giusta l’all. cifra II 5 della LF del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^173b-2]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 [^173b-3]: Introdotto dall’all. n. 3 della LF del 17 dic. 2021 (Insolvenza e garanzia dei depositi), in vigore dal 1° gen. 2023 ([RU 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [FF 2020 5647](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
@@ -2839,7 +2839,7 @@ L’autorità giudiziaria superiore può annullare la dichiarazione di falliment
 
 <sup>3</sup> Se accorda effetto sospensivo al reclamo, l’autorità giudiziaria superiore prende i necessari provvedimenti cautelari a tutela dei creditori.
 
-[^174-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^174-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^174-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### E. Momento dell’apertura del fallimento
@@ -2868,8 +2868,8 @@ Il giudice comunica senza indugio agli uffici d’esecuzione, agli uffici dei fa
 
 <sup>2</sup> Il fallimento è menzionato nel registro fondiario al più tardi due giorni dopo la relativa dichiarazione.[^176-2]
 
-[^176-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^176-2]: Nuovo testo giusta il n. I della LF del 19 mar. 2004 (Menzione del fallimento nel registro fondiario), in vigore dal 1° gen. 2005 ([RU 2004 4033](https://fedlex.data.admin.ch/eli/oc/2004/589); [FF 2003 5655](https://fedlex.data.admin.ch/eli/fga/2003/1062)[5663](https://fedlex.data.admin.ch/eli/fga/2003/1064)).
+[^176-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^176-2]: Nuovo testo giusta la cifra I della LF del 19 mar. 2004 (Menzione del fallimento nel registro fondiario), in vigore dal 1° gen. 2005 ([RU 2004 4033](https://fedlex.data.admin.ch/eli/oc/2004/589); [FF 2003 5655](https://fedlex.data.admin.ch/eli/fga/2003/1062)[5663](https://fedlex.data.admin.ch/eli/fga/2003/1064)).
 
 ### II. Della esecuzione cambiaria
 
@@ -2899,8 +2899,8 @@ Il precetto contiene:
 <sup>3</sup> Sono applicabili gli articoli 70 e 72.
 
 [^178-1]: Nuovo testo giusta l’art. 15 n. 4 disp. fin. e trans. Tit. XXIV–XXXIII CO, in vigore dal 1° lug. 1937 ([RU 53 189](https://fedlex.data.admin.ch/eli/oc/53/185_185_189)).
-[^178-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^178-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^178-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^178-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Opposizione
 
@@ -2916,7 +2916,7 @@ Il precetto contiene:
 
 <sup>3</sup> L’articolo 33 capoverso 4 non è applicabile.
 
-[^179-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^179-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Notificazione al creditore
 
@@ -2934,7 +2934,7 @@ Il precetto contiene:
 
 L’ufficio sottopone senza indugio l’opposizione al giudice del luogo dell’esecuzione. Il giudice cita le parti al contraddittorio e statuisce, anche in loro assenza, entro dieci giorni dal ricevimento dell’opposizione.
 
-[^181-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^181-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Ammissibilità
 
@@ -2947,7 +2947,7 @@ Il giudice ammette l’opposizione:
 - 3\. quando un’eccezione ammessa dal diritto cambiario sembri attendibile;
 - 4\.[^182-1] quando sia opposta un’altra eccezione fondata sull’articolo 1007 del CO[^182-2] ed essa sembri attendibile; in questo caso, tuttavia, il debitore deve depositare l’importo del credito in denaro o in valori oppure fornire una garanzia equivalente.
 
-[^182-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^182-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^182-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 5. Rigetto dell’opposizione. Provvedimenti conservativi
@@ -2968,7 +2968,7 @@ Il giudice ammette l’opposizione:
 
 <sup>2</sup> Ove l’opposizione sia stata ammessa soltanto contro deposito dell’ammontare contestato, il creditore è diffidato a promuovere entro dieci giorni l’azione di pagamento. Non ottemperando egli a tale diffida, il deposito viene restituito.
 
-[^184-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^184-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 7. Impugnazione
 
@@ -2978,7 +2978,7 @@ Il giudice ammette l’opposizione:
 
 La decisione sull’ammissibilità dell’opposizione può essere impugnata entro cinque giorni mediante reclamo secondo il CPC[^185-2].
 
-[^185-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^185-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^185-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Effetti dell’ammissione dell’opposizione
@@ -3011,7 +3011,7 @@ Chi per omessa opposizione o pel rigetto di questa ha pagato l’indebito può r
 
 <sup>2</sup> Sono applicabili gli articoli 169, 170, 172 numero 3, 173, 173*a*, 175 e 176.
 
-[^189-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^189-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### III. Della dichiarazione di fallimento senza preventiva esecuzione
 
@@ -3029,7 +3029,7 @@ Il creditore può chiedere al giudice la dichiarazione di fallimento senza preve
 
 <sup>2</sup> Il debitore che dimori nella Svizzera o vi abbia un rappresentante è citato in giudizio a breve termine per essere udito.
 
-[^190-1]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^190-1]: Abrogato dalla cifra I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### B. Su istanza del debitore
 
@@ -3039,7 +3039,7 @@ Il creditore può chiedere al giudice la dichiarazione di fallimento senza preve
 
 <sup>2</sup> Se non sussistono possibilità di appuramento bonale dei debiti secondo gli articoli 333 segg., il giudice dichiara il fallimento.[^191-1]
 
-[^191-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^191-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. D’ufficio
 
@@ -3049,7 +3049,7 @@ Il creditore può chiedere al giudice la dichiarazione di fallimento senza preve
 
 Il fallimento è dichiarato d’ufficio, senza preventiva esecuzione, nei casi previsti dalla legge.
 
-[^192-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^192-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### D. In caso di rinuncia all’eredità o di eredità oberata
 
@@ -3068,7 +3068,7 @@ L’autorità competente informa il giudice qualora:
 
 <sup>3</sup> La liquidazione in via di fallimento può essere chiesta anche da un creditore o da un erede.
 
-[^193-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^193-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^193-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 ### E. Procedura
@@ -3081,13 +3081,13 @@ L’autorità competente informa il giudice qualora:
 
 <sup>2</sup> La comunicazione al registro di commercio (art. 176) non ha luogo se il debitore non è soggetto all’esecuzione in via di fallimento.
 
-[^194-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^194-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### IV. Della revoca del fallimento
 
 [^tit5-lvlIV-1]
 
-[^tit5-lvlIV-1]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^tit5-lvlIV-1]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### A. In generale
 
@@ -3105,7 +3105,7 @@ Il giudice del fallimento ne decreta la revoca e reintegra il debitore nella lib
 
 <sup>3</sup> La rivocazione del fallimento viene pubblicata.
 
-[^195-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^195-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. In caso di rinuncia all’eredità
 
@@ -3115,7 +3115,7 @@ Il giudice del fallimento ne decreta la revoca e reintegra il debitore nella lib
 
 La liquidazione in via di fallimento di un’eredità a cui gli eredi hanno rinunciato è inoltre sospesa se, prima della chiusura della medesima, un avente diritto all’eredità dichiara di accettarla e presta sufficienti garanzie per il pagamento dei debiti.
 
-[^196-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^196-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ## Titolo sesto: Degli effetti del fallimento
 
@@ -3137,7 +3137,7 @@ La liquidazione in via di fallimento di un’eredità a cui gli eredi hanno rinu
 
 I beni su cui gravano diritti di pegno sono compresi nella massa, salvo il diritto preferenziale[^198-1] dei creditori pignoratizi.
 
-[^198-1]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^198-1]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 3. Beni pignorati o sequestrati
 
@@ -3147,7 +3147,7 @@ I beni su cui gravano diritti di pegno sono compresi nella massa, salvo il dirit
 
 <sup>2</sup> Tuttavia, se i termini di partecipazione al pignoramento (art. 110 e 111) sono scaduti, le somme già ricavate dal pignoramento di denaro, di crediti e di salari, nonché dalla realizzazione di beni, sono ripartite a norma degli articoli 144 a 150; l’eventuale eccedenza spetta alla massa.[^199-1]
 
-[^199-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^199-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Valori oggetto di azione revocatoria
 
@@ -3203,7 +3203,7 @@ Ove il fallito abbia venduto cose altrui e al tempo della dichiarazione di falli
 
 <sup>3</sup> Durante la procedura di fallimento, il debitore non può chiedere la dichiarazione di un altro fallimento facendo nota la propria insolvenza (art. 191).
 
-[^206-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^206-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Sospensione delle cause civili e dei procedimenti amministrativi
 
@@ -3221,7 +3221,7 @@ prima di dieci giorni dopo la seconda assemblea dei creditori e, in caso di liqu
 
 <sup>4</sup> La disposizione summenzionata non si applica alle azioni di risarcimento del danno per lesioni della personalità o corporali né alle cause del diritto di famiglia.
 
-[^207-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^207-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### II. Degli effetti del fallimento sui diritti dei creditori
 
@@ -3245,7 +3245,7 @@ prima di dieci giorni dopo la seconda assemblea dei creditori e, in caso di liqu
 
 <sup>2</sup> Tuttavia, gli interessi dei crediti garantiti da pegno continuano a decorrere sino alla realizzazione, nella misura in cui il ricavo di questa sia superiore al debito, compresi gli interessi calcolati sino alla dichiarazione di fallimento.
 
-[^209-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^209-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Crediti sottoposti a condizione
 
@@ -3257,7 +3257,7 @@ prima di dieci giorni dopo la seconda assemblea dei creditori e, in caso di liqu
 
 <sup>2</sup> Per le pretese derivanti da rendite vitalizie è applicabile l’articolo 518 capoverso 3 del CO[^210-2].
 
-[^210-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^210-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^210-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### D. Conversione in crediti pecuniari
@@ -3272,11 +3272,11 @@ prima di dieci giorni dopo la seconda assemblea dei creditori e, in caso di liqu
 
 <sup>3</sup> Sono salve le disposizioni di altre leggi federali sullo scioglimento di contratti in caso di fallimento, come pure le disposizioni sulla riserva di proprietà (art. 715 e 716 CC[^211-4]).[^211-5]
 
-[^211-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^211-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^211-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^211-3]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^211-3]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^211-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^211-5]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^211-5]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D<sup>bis</sup>. Contratti di durata
 
@@ -3290,7 +3290,7 @@ prima di dieci giorni dopo la seconda assemblea dei creditori e, in caso di liqu
 
 <sup>3</sup> È fatta salva la continuazione di un rapporto contrattuale a titolo personale da parte del debitore.
 
-[^211a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^211a-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### E. Diritto di recesso del venditore
 
@@ -3318,11 +3318,11 @@ La compensazione non ha luogo:
 
 <sup>4</sup> In caso di fallimento di una società in accomandita, di una società anonima, di una società in accomandita per azioni, di una società a responsabilità limitata o di una società cooperativa, non si possono compensare le quote non versate del capitale accomandato o del capitale sociale, né gli arretrati dei contributi statutari di una società cooperativa.[^213-5]
 
-[^213-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^213-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^213-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^213-3]: Abrogato dall’art. 13 della LF del 28 set. 1949, con effetto dal 1° feb. 1950 (RU **1950** I 57).
 [^213-4]: Introdotto dall’art. 13 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
-[^213-5]: Originario cpv. 3. Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^213-5]: Originario cpv. 3. Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Impugnazione
 
@@ -3341,7 +3341,7 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 <sup>2</sup> La massa è surrogata nei diritti del creditore verso il debitore principale e i coobbligati fino a concorrenza della somma che ha pagato (art. 507 CO[^215-1]). Tuttavia, se viene dichiarato il fallimento anche del debitore principale o di un coobbligato, si applicano gli articoli 216 e 217.[^215-2]
 
 [^215-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^215-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^215-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Fallimento contemporaneo di più coobbligati
 
@@ -3373,7 +3373,7 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 
 <sup>3</sup> I capoversi 1 e 2 si applicano per analogia ai soci illimitatamente responsabili di una società in accomandita.[^218-1]
 
-[^218-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^218-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### H. Ordine dei creditori
 
@@ -3397,9 +3397,9 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 - b. I crediti degli assicurati secondo la legge federale del 20 marzo 1981[^219-subdivu2-4] sull’assicurazione infortuni, come pure quelli derivanti dalla previdenza professionale non obbligatoria e i crediti degli istituti di previdenza del personale nei confronti dei datori di lavoro affiliati.
 - [tab] c.[^219-subdivu2-5] I crediti pecuniari per contributi di mantenimento e d’assistenza in virtù del diritto di famiglia, come pure quelli per contributi di mantenimento secondo la legge del 18 giugno 2004[^219-subdivu2-6] sull’unione domestica registrata, sorti nei sei mesi precedenti la dichiarazione di fallimento.
 
-[^219-subdivu2-1]: Nuovo testo giusta il n. I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^219-subdivu2-2]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
-[^219-subdivu2-3]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^219-subdivu2-1]: Nuovo testo giusta la cifra I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^219-subdivu2-2]: Introdotto dalla cifra I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^219-subdivu2-3]: Introdotto dalla cifra I della LF del 18 giu. 2010, in vigore dal 1° dic. 2010 ([RU 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [FF 2009 6941](https://fedlex.data.admin.ch/eli/fga/2009/1398)[6951](https://fedlex.data.admin.ch/eli/fga/2009/1400)). Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 [^219-subdivu2-4]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^219-subdivu2-5]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^219-subdivu2-6]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
@@ -3408,7 +3408,7 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 
 [^219-subdivu3-1]
 
-[^219-subdivu3-1]: Nuovo testo giusta il n. I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [FF 1999 8077](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[8458](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
+[^219-subdivu3-1]: Nuovo testo giusta la cifra I della LF del 24 mar. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [FF 1999 8077](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[8458](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)).
 
 - a. I crediti di persone il cui patrimonio era affidato al fallito in virtù dell’autorità parentale, per le somme di cui egli, in tale qualità, sia divenuto debitore verso le medesime.
 - Questo privilegio vale soltanto quando il fallimento sia stato dichiarato durante l’autorità parentale o entro l’anno dalla cessazione della stessa.
@@ -3422,7 +3422,7 @@ La compensazione può essere impugnata quando un debitore del fallito, prima del
 [^219-subdivu3-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^219-subdivu3-4]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Ora: LF del 25 set. 1952 sulle indennità di perdita di guadagno per chi presta servizio e in caso di maternità.
 [^219-subdivu3-5]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
-[^219-subdivu3-6]: Introdotta dall’art. 111 n. 1 della LF del 12 giu. 2009 sull’IVA ([RU 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [FF 2008 6033](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Abrogata dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^219-subdivu3-6]: Introdotta dall’art. 111 n. 1 della LF del 12 giu. 2009 sull’IVA ([RU 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [FF 2008 6033](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Abrogata dalla cifra I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^219-subdivu3-7]: Introdotta dall’all. n. 2 della LF del 18 mar. 2011 (Garanzia dei depositi), in vigore dal 1° set. 2011 ([RU 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [FF 2010 3513](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^219-subdivu3-8]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
@@ -3438,8 +3438,8 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 - 2\. la durata di una causa concernente il credito;
 - 3\. in caso di liquidazione in via di fallimento di un’eredità, il tempo trascorso tra il giorno della morte e l’ordine di liquidazione.[^219-subdivu4-2]
 
-[^219-subdivu4-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^219-subdivu4-2]: Introdotto dal n. I della LF del 16 dic. 1994 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^219-subdivu4-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^219-subdivu4-2]: Introdotto dalla cifra I della LF del 16 dic. 1994 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### I. Rapporto tra le classi
 
@@ -3455,7 +3455,7 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 
 [^tit7-lvlI-1]
 
-[^tit7-lvlI-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit7-lvlI-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Formazione dell’inventario
 
@@ -3465,7 +3465,7 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 
 <sup>2</sup> ...[^221-1]
 
-[^221-1]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^221-1]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Obbligo d’informare e di mettere a disposizione
 
@@ -3485,7 +3485,7 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 
 <sup>6</sup> L’ufficio dei fallimenti ricorda esplicitamente agli interessati i loro obblighi come pure le conseguenze penali dell’inosservanza.
 
-[^222-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^222-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^222-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### B<sup>bis</sup>. Consegna e apertura di invii postali
@@ -3500,7 +3500,7 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 
 <sup>3</sup> Il debitore ha il diritto di assistere all’apertura degli invii postali.
 
-[^222a-1]: Introdotto dal n. I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^222a-1]: Introdotto dalla cifra I 2 della LF del 18 mar. 2022 sulla lotta contro l’abuso del fallimento, in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 
 ### C. Misure cautelari
 
@@ -3514,7 +3514,7 @@ Non si computano nei termini stabiliti per la prima e seconda classe:
 
 <sup>4</sup> L’ufficio provvede alla custodia degli oggetti che si trovano fuori dei locali utilizzati dal fallito.
 
-[^223-1]: Nuovo termine giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^223-1]: Nuovo termine giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### D. Beni necessari
 
@@ -3538,7 +3538,7 @@ Le cose indicate come proprietà di terzi o rivendicate da terzi devono ciò non
 
 I diritti dei terzi sui fondi del fallito che risultano dal registro fondiario sono annotati d’ufficio nell’inventario.
 
-[^226-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^226-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### F. Stima
 
@@ -3565,8 +3565,8 @@ Nell’inventario si indica il prezzo di stima di ogni singolo oggetto.
 <sup>3</sup> L’amministrazione del fallimento determina a quali condizioni e fino a quando il fallito e la sua famiglia possono rimanere nell’abitazione, sempreché questa faccia parte della massa.[^229-3]
 
 [^229-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^229-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^229-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^229-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^229-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### I. Sospensione della procedura di fallimento per mancanza di attivi
 
@@ -3582,10 +3582,10 @@ Nell’inventario si indica il prezzo di stima di ogni singolo oggetto.
 
 <sup>4</sup> Dopo la sospensione della procedura di fallimento, le esecuzioni promosse prima della dichiarazione di fallimento riprendono il loro corso. Il tempo trascorso tra la dichiarazione di fallimento e la sospensione non si computa nei termini previsti dalla presente legge.[^230-4]
 
-[^230-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^230-2]: Nuovo testo giusta il n. I 2 della LF del 18 mar. 2022 (Modifica del Codice delle obbligazioni, della legge federale sulla esecuzione e sul fallimento, del Codice penale, del Codice penale militare, della legge sul casellario giudiziale e della legge federale sull’imposta federale diretta), in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
+[^230-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^230-2]: Nuovo testo giusta la cifra I 2 della LF del 18 mar. 2022 (Modifica del Codice delle obbligazioni, della legge federale sulla esecuzione e sul fallimento, del Codice penale, del Codice penale militare, della legge sul casellario giudiziale e della legge federale sull’imposta federale diretta), in vigore dal 1° gen. 2025 ([RU 2023 628](https://fedlex.data.admin.ch/eli/oc/2023/628); [FF 2019 4321](https://fedlex.data.admin.ch/eli/fga/2019/1847)).
 [^230-3]: Introdotto dall’art. 15 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
-[^230-4]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^230-4]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Eredità alle quali tutti gli eredi hanno rinunciato e persone giuridiche
 
@@ -3601,7 +3601,7 @@ Nell’inventario si indica il prezzo di stima di ogni singolo oggetto.
 
 <sup>4</sup> Se l’autorità cantonale competente rifiuta la devoluzione, l’ufficio dei fallimenti procede alla realizzazione degli attivi.
 
-[^230a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^230a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### K. Liquidazione sommaria
 
@@ -3627,7 +3627,7 @@ La liquidazione sommaria ha luogo secondo le regole della procedura ordinaria, f
 - 3\. L’ufficio dei fallimenti designa i beni necessari nell’inventario e lo deposita insieme con la graduatoria.
 - 4\. Non è necessario depositare lo stato di ripartizione.
 
-[^231-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^231-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### II. Della grida e della convocazione dei creditori
 
@@ -3652,13 +3652,13 @@ La pubblicazione contiene:
 - 5\.[^232-6] la convocazione della prima assemblea dei creditori, che deve aver luogo al più tardi entro venti giorni dalla pubblicazione e alla quale possono intervenire anche i condebitori e i fideiussori del fallito, come pure gli obbligati in via di regresso;
 - 6\.[^232-7] l’avvertenza che per gli interessati residenti all’estero l’ufficio dei fallimenti vale quale luogo per la notificazione, fintanto che non ne venga designato un altro in Svizzera.
 
-[^232-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^232-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^232-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^232-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^232-4]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
-[^232-5]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-6]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^232-7]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^232-5]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^232-6]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^232-7]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Avviso speciale ai creditori
 
@@ -3674,7 +3674,7 @@ L’ufficio dei fallimenti trasmette un esemplare non raccomandato della pubblic
 
 Se, prima della liquidazione di un’eredità alla quale tutti gli eredi abbiano rinunciato o nel corso di una procedura concordataria precedente il fallimento, ha già avuto luogo una grida ai creditori, l’ufficio dei fallimenti riduce il termine per le insinuazioni a dieci giorni, comunicando nella pubblicazione che i creditori già insinuatisi sono dispensati dal farlo una seconda volta.
 
-[^234-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Correzione della CdR dell’AF, pubblicata il 14 mar. 2017 ([RU 2017 2165](https://fedlex.data.admin.ch/eli/oc/2017/196)).
+[^234-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Correzione della CdR dell’AF, pubblicata il 14 mar. 2017 ([RU 2017 2165](https://fedlex.data.admin.ch/eli/oc/2017/196)).
 
 ### III. Dell’amministrazione della massa
 
@@ -3692,7 +3692,7 @@ Se, prima della liquidazione di un’eredità alla quale tutti gli eredi abbiano
 
 <sup>4</sup> L’assemblea delibera a maggioranza assoluta dei creditori votanti. A parità di voti, prevale quello del presidente. La presidenza decide sulle contestazioni relative al computo dei voti.[^235-1]
 
-[^235-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^235-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Mancanza di quorum
 
@@ -3702,7 +3702,7 @@ Se, prima della liquidazione di un’eredità alla quale tutti gli eredi abbiano
 
 Se l’assemblea non può essere costituita, l’ufficio dei fallimenti lo constata. Esso informa i creditori presenti sullo stato della massa e amministra la stessa sino alla seconda assemblea dei creditori.
 
-[^236-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^236-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Competenze
 
@@ -3724,7 +3724,7 @@ In entrambi i casi, l’assemblea può costituire fra i suoi membri una delegazi
 - 4\. opporsi ai crediti ammessi dall’amministrazione;
 - 5\. autorizzare ripartizioni provvisorie durante la procedura di fallimento.
 
-[^237-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^237-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Deliberazioni su questioni urgenti
 
@@ -3734,7 +3734,7 @@ In entrambi i casi, l’assemblea può costituire fra i suoi membri una delegazi
 
 <sup>2</sup> Se il fallito propone un concordato, l’assemblea può sospendere la liquidazione.[^238-1]
 
-[^238-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^238-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 4. Impugnazione delle deliberazioni
 
@@ -3744,7 +3744,7 @@ In entrambi i casi, l’assemblea può costituire fra i suoi membri una delegazi
 
 <sup>2</sup> L’autorità di vigilanza decide a breve termine, udito l’ufficio dei fallimenti e, se lo giudichi opportuno, il ricorrente ed i creditori che ne facciano istanza.
 
-[^239-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^239-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Amministrazione del fallimento
 
@@ -3762,7 +3762,7 @@ L’amministrazione del fallimento cura gli interessi della massa e provvede all
 
 Le disposizioni contenute negli articoli 8 a 11, 13, 14 capoverso 2 numeri 1, 2 e 4, nonché 17 a 19, 34 e 35 valgono anche per l’amministrazione speciale del fallimento.
 
-[^241-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^241-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Rivendicazione di terzi e della massa
 
@@ -3776,7 +3776,7 @@ Le disposizioni contenute negli articoli 8 a 11, 13, 14 capoverso 2 numeri 1, 2 
 
 <sup>3</sup> La massa che rivendica come proprietà del fallito beni mobili in possesso o copossesso di terzi oppure fondi iscritti nel registro fondiario a nome di terzi deve promuovere azione contro di essi.
 
-[^242-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^242-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3*a*. Restituzione di beni crittografici
 
@@ -3797,7 +3797,7 @@ La pretesa del terzo è fondata se il fallito si è impegnato a mettere in ogni 
 
 <sup>4</sup> Le spese per la restituzione sono a carico del richiedente. L’amministrazione del fallimento può pretendere una conveniente anticipazione delle medesime.
 
-[^242a-1]: Introdotto dal n. I 2 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^242a-1]: Introdotto dalla cifra I 2 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 3*b*. Accesso ai dati e loro restituzione
 
@@ -3813,7 +3813,7 @@ La pretesa del terzo è fondata se il fallito si è impegnato a mettere in ogni 
 
 <sup>4</sup> È fatto salvo il diritto d’accesso secondo le disposizioni federali o cantonali sulla protezione dei dati.
 
-[^242b-1]: Introdotto dal n. I 2 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^242b-1]: Introdotto dalla cifra I 2 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° ago. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33), [399](https://fedlex.data.admin.ch/eli/oc/2021/399); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 4. Riscossione dei crediti. Realizzazione d’urgenza
 
@@ -3825,7 +3825,7 @@ La pretesa del terzo è fondata se il fallito si è impegnato a mettere in ogni 
 
 <sup>3</sup> Gli altri beni della massa sono realizzati soltanto dopo la seconda assemblea dei creditori.
 
-[^243-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^243-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### IV. Della verificazione dei crediti e della graduazione dei creditori
 
@@ -3849,7 +3849,7 @@ L’amministrazione decide sull’ammissione dei singoli crediti senza essere vi
 
 I crediti risultanti dal registro fondiario, anche se non sono insinuati, sono ammessi, con gli interessi in corso, al passivo del fallimento.
 
-[^246-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^246-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Graduatoria
 
@@ -3867,7 +3867,7 @@ I crediti risultanti dal registro fondiario, anche se non sono insinuati, sono a
 
 <sup>4</sup> L’autorità di vigilanza può, all’occorrenza, prorogare questi termini.
 
-[^247-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^247-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Crediti rigettati
 
@@ -3897,8 +3897,8 @@ Nella graduatoria è fatta menzione anche dei crediti rigettati, con l’indicaz
 
 <sup>3</sup> ...[^250-2]
 
-[^250-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^250-2]: Abrogato dall’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^250-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^250-2]: Abrogato dall’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 5. Insinuazioni tardive
 
@@ -3928,8 +3928,8 @@ Nella graduatoria è fatta menzione anche dei crediti rigettati, con l’indicaz
 
 <sup>3</sup> L’assemblea è presieduta da un membro dell’amministrazione. Si applica per analogia l’articolo 235 capoversi 3 e 4.
 
-[^252-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^252-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^252-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^252-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Competenza
 
@@ -3947,7 +3947,7 @@ Nella graduatoria è fatta menzione anche dei crediti rigettati, con l’indicaz
 
 Se l’assemblea non può essere costituita, l’amministrazione del fallimento lo constata e informa i creditori presenti sullo stato della massa. L’amministrazione e la delegazione dei creditori rimangono in funzione sino alla chiusura della liquidazione.
 
-[^254-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^254-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Ulteriori assemblee dei creditori
 
@@ -3957,7 +3957,7 @@ Se l’assemblea non può essere costituita, l’amministrazione del fallimento 
 
 Ulteriori assemblee dei creditori sono convocate, qualora un quarto dei creditori o la delegazione dei creditori ne faccia domanda, oppure l’amministrazione del fallimento lo reputi necessario.
 
-[^255-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^255-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Deliberazioni per mezzo di circolare
 
@@ -3969,7 +3969,7 @@ Ulteriori assemblee dei creditori sono convocate, qualora un quarto dei creditor
 
 <sup>2</sup> Se non si conoscono tutti i creditori, l’amministrazione può inoltre pubblicare le sue proposte.
 
-[^255a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^255a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Modo di realizzazione
 
@@ -3983,8 +3983,8 @@ Ulteriori assemblee dei creditori sono convocate, qualora un quarto dei creditor
 
 <sup>4</sup> Le pretese fondate sugli articoli 286 a 288 non possono essere realizzate ai pubblici incanti né altrimenti alienate.[^256-2]
 
-[^256-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^256-2]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^256-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^256-2]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Pubblici incanti
 
@@ -4009,7 +4009,7 @@ Ulteriori assemblee dei creditori sono convocate, qualora un quarto dei creditor
 <sup>2</sup> In caso di realizzazione di un fondo sono applicabili le disposizioni dell’articolo 142 capoversi 1 e 3. I creditori possono inoltre stabilire un prezzo d’aggiudicazione minimo per il primo incanto.[^258-2]
 
 [^258-1]: Nuovo testo giusta l’art. 16 della LF del 28 set. 1949, in vigore dal 1° feb. 1950 (RU **1950** I 57).
-[^258-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^258-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 3. Condizioni dell’incanto
 
@@ -4019,7 +4019,7 @@ Ulteriori assemblee dei creditori sono convocate, qualora un quarto dei creditor
 
 Alle condizioni dell’incanto si applicano per analogia gli articoli 128, 129, 132*a*, 134 a 137 e 143. Le funzioni dell’ufficio d’esecuzione spettano all’amministrazione del fallimento.
 
-[^259-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^259-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### F. Cessione dei diritti
 
@@ -4031,7 +4031,7 @@ Alle condizioni dell’incanto si applicano per analogia gli articoli 128, 129, 
 
 <sup>3</sup> Una pretesa può essere realizzata conformemente all’articolo 256, se la massa dei creditori rinuncia a farla valere e nessuno di essi ne domanda la cessione.[^260-1]
 
-[^260-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^260-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### VI. Della ripartizione
 
@@ -4051,7 +4051,7 @@ Incassata la somma ricavata da tutta la massa e divenuta definitiva la graduator
 
 <sup>2</sup> Sulla somma ricavata dagli oggetti costituiti in pegno si prelevano soltanto le spese d’inventario, di amministrazione e di realizzazione del pegno.
 
-[^262-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^262-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Deposito dello stato di ripartizione e del conto finale
 
@@ -4083,8 +4083,8 @@ Incassata la somma ricavata da tutta la massa e divenuta definitiva la graduator
 
 <sup>3</sup> ...[^265-2]
 
-[^265-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^265-2]: Abrogato dal n. I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^265-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^265-2]: Abrogato dalla cifra I della LF del 16 dic. 1994, con effetto dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Determinazione del ritorno a miglior fortuna
 
@@ -4100,9 +4100,9 @@ Incassata la somma ricavata da tutta la massa e divenuta definitiva la graduator
 
 <sup>4</sup> Il debitore e il creditore possono promuovere l’azione di contestazione o accertamento del ritorno a miglior fortuna davanti al giudice del luogo dell’esecuzione, entro venti giorni dalla comunicazione della decisione sull’opposizione.[^265a-3]
 
-[^265a-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^265a-2]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^265a-3]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^265a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^265a-2]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^265a-3]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 3. Inammissibilità della dichiarazione d fallimento su domanda del debitore
 
@@ -4112,7 +4112,7 @@ Incassata la somma ricavata da tutta la massa e divenuta definitiva la graduator
 
 Il debitore che si oppone all’esecuzione contestando di essere ritornato a miglior fortuna non può domandare egli stesso, durante l’esecuzione medesima, la dichiarazione del suo fallimento (art. 191).
 
-[^265b-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^265b-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### F. Ripartizioni provvisorie
 
@@ -4122,7 +4122,7 @@ Il debitore che si oppone all’esecuzione contestando di essere ritornato a mig
 
 <sup>2</sup> L’articolo 263 si applica per analogia.[^266-1]
 
-[^266-1]: Introdotto dal n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^266-1]: Introdotto dalla cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### G. Crediti non insinuati
 
@@ -4154,7 +4154,7 @@ I creditori che non hanno partecipato alla liquidazione sottostanno alle limitaz
 
 <sup>3</sup> Trattandosi di pretesa dubbia, l’ufficio ne avvisa i creditori mediante pubblicazione o con lettera. Si applicano per analogia le disposizioni dell’articolo 260.
 
-[^269-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^269-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### C. Termine di ultimazione della procedura di fallimento
 
@@ -4164,7 +4164,7 @@ I creditori che non hanno partecipato alla liquidazione sottostanno alle limitaz
 
 <sup>2</sup> In caso di bisogno, questo termine può essere prorogato dall’autorità di vigilanza.
 
-[^270-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^270-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ## Titolo ottavo: Del sequestro
 
@@ -4189,7 +4189,7 @@ Per i crediti scaduti, in quanto non siano garantiti da pegno, il creditore può
 
 [^271-1]: Nuovo testo giusta l’art. 3 n. 2 del DF (Convenzione di Lugano) dell’11 dic. 2009, in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-2]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^271-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^271-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^271-4]: Introdotto dall’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-5]: [RS 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
 [^271-6]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
@@ -4210,7 +4210,7 @@ Il sequestro viene concesso dal giudice del luogo dell’esecuzione o dal giudic
 
 <sup>2</sup> Se il creditore dimora all’estero e non ha eletto domicilio in Svizzera, lo si ritiene domiciliato presso l’ufficio d’esecuzione.
 
-[^272-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^272-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^272-2]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### C. Responsabilità per sequestro infondato
@@ -4223,7 +4223,7 @@ Il sequestro viene concesso dal giudice del luogo dell’esecuzione o dal giudic
 
 <sup>2</sup> L’azione di risarcimento può essere promossa anche avanti al giudice del luogo del sequestro.
 
-[^273-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^273-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Decreto di sequestro
 
@@ -4251,7 +4251,7 @@ Il decreto enuncia:
 
 Gli articoli 91 a 109 concernenti il pignoramento si applicano per analogia all’esecuzione del sequestro.
 
-[^275-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^275-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### F. Verbale di sequestro
 
@@ -4261,7 +4261,7 @@ Gli articoli 91 a 109 concernenti il pignoramento si applicano per analogia all�
 
 <sup>2</sup> Questo comunica immediatamente copia del verbale al creditore e al debitore e informa i terzi i cui diritti sono toccati dal sequestro.[^276-1]
 
-[^276-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^276-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### G. Garanzia prestata dal debitore
 
@@ -4269,7 +4269,7 @@ Gli articoli 91 a 109 concernenti il pignoramento si applicano per analogia all�
 
 Gli oggetti sequestrati sono lasciati a disposizione del debitore, ove presti garanzia che in caso di pignoramento o di fallimento presenterà gli identici oggetti o ne sostituirà altri di egual valore. La garanzia si presta mediante deposito, fideiussione solidale o un’altra garanzia equivalente.[^277-1]
 
-[^277-1]: Nuovo testo del per. giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^277-1]: Nuovo testo del per. giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### H. Opposizione al decreto di sequestro
 
@@ -4309,7 +4309,7 @@ I termini previsti dal presente articolo rimangono sospesi:
 - 1\. durante la procedura di opposizione e in caso di impugnazione della decisione sull’opposizione;
 - 2\. durante la procedura per la dichiarazione di esecutività secondo la Convenzione del 30 ottobre 2007[^279-4] concernente la competenza giurisdizionale, il riconoscimento e l’esecuzione delle decisioni in materia civile e commerciale e in caso di impugnazione della decisione sulla dichiarazione di esecutività.[^279-5]
 
-[^279-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^279-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^279-2]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^279-3]: Nuovo testo giusta l’art. 3 n. 2 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^279-4]: [RS 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
@@ -4327,7 +4327,7 @@ Il sequestro è revocato se il creditore:
 - 2\. ritira o lascia perimere l’azione o l’esecuzione;
 - 3\. la sua azione è respinta definitivamente dal giudice.
 
-[^280-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^280-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### L. Partecipazione provvisoria
 
@@ -4345,7 +4345,7 @@ Il sequestro è revocato se il creditore:
 
 [^282-1]
 
-[^282-1]: Abrogato dal n. II art. 3 della LF del 15 dic. 1989 che modifica il CO, con effetto dal 1° lug. 1990 (locazione e affitto) ([RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802)disp. fin. Tit. VIII e VIII<sup>bis</sup>; FF **1985** I 1202).
+[^282-1]: Abrogato dalla cifra II art. 3 della LF del 15 dic. 1989 che modifica il CO, con effetto dal 1° lug. 1990 (locazione e affitto) ([RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802)disp. fin. Tit. VIII e VIII<sup>bis</sup>; FF **1985** I 1202).
 
 ### Inventario degli oggetti vincolati al diritto di ritenzione
 
@@ -4357,7 +4357,7 @@ Il sequestro è revocato se il creditore:
 
 <sup>3</sup> L’ufficio fa l’inventario degli oggetti vincolati al diritto di ritenzione e fissa al locatore un termine per promuovere l’esecuzione in via di realizzazione del pegno.
 
-[^283-1]: Nuovo testo giusta il n. II art. 3 della LF del 15 dic. 1989 che modifica il CO (locazione e affitto), in vigore dal 1° lug. 1990 ([RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802)disp. fin. Tit. VIII e VIII<sup>bis</sup>; FF **1985** I 1202).
+[^283-1]: Nuovo testo giusta la cifra II art. 3 della LF del 15 dic. 1989 che modifica il CO (locazione e affitto), in vigore dal 1° lug. 1990 ([RU 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802)disp. fin. Tit. VIII e VIII<sup>bis</sup>; FF **1985** I 1202).
 
 ### Reintegrazione di oggetti
 
@@ -4365,7 +4365,7 @@ Il sequestro è revocato se il creditore:
 
 Ove tali oggetti siano stati asportati clandestinamente o con violenza, potranno essere riportati, con l’assistenza della polizia, nei locali appigionati o affittati, entro dieci giorni dall’asportazione. Sono salvi i diritti dei terzi di buona fede. In caso di contestazione, decide il giudice.[^284-1]
 
-[^284-1]: Nuovo testo del per. giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^284-1]: Nuovo testo del per. giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ## Titolo nono<sup>bis</sup>: Disposizioni speciali relative ai rapporti di trust
 
@@ -4395,13 +4395,13 @@ In caso di fallimento di un trustee, i beni in trust vengono separati dalla mass
 
 [^tit10-1]
 
-[^tit10-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit10-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Principi
 
 [^tit10-lvlA-1]
 
-[^tit10-lvlA-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^tit10-lvlA-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 #### Art. 285
 
@@ -4418,9 +4418,9 @@ Possono domandare la revocazione:
 
 <sup>4</sup> Non sono inoltre revocabili gli altri debiti contratti durante la moratoria con il consenso del commissario.[^285-4]
 
-[^285-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^285-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^285-3]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^285-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^285-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^285-3]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^285-4]: Introdotto dall’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### B. Atti revocabili
@@ -4440,9 +4440,9 @@ Sono equiparati alle donazioni:
 
 <sup>3</sup> Se è chiesta la revocazione di un atto compiuto a favore di una persona vicina al debitore, incombe a tale persona provare che non vi è sproporzione tra prestazione e correspettivo. Sono considerate persone vicine anche le società facenti parte di un gruppo.[^286-3]
 
-[^286-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^286-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^286-3]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^286-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^286-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 [RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^286-3]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 2. Insolvenza
 
@@ -4465,9 +4465,9 @@ La revocazione non è in particolare ammessa se valori mobiliari, titoli contabi
 - 1\. si è impegnato ad aumentare la garanzia in caso di cambiamenti del valore della garanzia o dell’importo dell’impegno garantito; o
 - 2\. si è fatto concedere il diritto di sostituire una garanzia con una garanzia dello stesso valore.[^287-4]
 
-[^287-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^287-2]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^287-3]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^287-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^287-2]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^287-3]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^287-4]: Introdotto dall’all. n. 4 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ### 3. Dolo
@@ -4480,8 +4480,8 @@ La revocazione non è in particolare ammessa se valori mobiliari, titoli contabi
 
 <sup>2</sup> Se è chiesta la revocazione di un atto compiuto a favore di una persona vicina al debitore, incombe a tale persona provare che non poteva rendersi conto dell’intenzione di recar pregiudizio. Sono considerate persone vicine anche le società facenti parte di un gruppo.[^288-2]
 
-[^288-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^288-2]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^288-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^288-2]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 4. Computo dei termini
 
@@ -4495,7 +4495,7 @@ Non sono computati nei termini previsti dagli articoli 286–288:
 - 2\. in caso di liquidazione in via di fallimento di un’eredità, il tempo trascorso tra il giorno della morte e l’ordine di liquidazione;
 - 3\. la durata della preventiva esecuzione.
 
-[^288a-1]: Introdotto dal n. I della LF del 16 dic. 1994 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^288a-1]: Introdotto dalla cifra I della LF del 16 dic. 1994 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### C. Azione revocatoria
 
@@ -4507,7 +4507,7 @@ Non sono computati nei termini previsti dagli articoli 286–288:
 
 L’azione revocatoria si promuove al domicilio del convenuto. Se questi non ha domicilio in Svizzera, l’azione può essere promossa al luogo del pignoramento o del fallimento.
 
-[^289-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^289-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Legittimazione passiva
 
@@ -4517,7 +4517,7 @@ L’azione revocatoria si promuove al domicilio del convenuto. Se questi non ha 
 
 L’azione revocatoria si promuove contro coloro che stipularono col debitore l’atto revocabile o che furono da lui favoriti mediante un atto revocabile, nonché contro i loro eredi o altri successori a titolo universale e contro terzi di mala fede. L’azione non pregiudica i diritti dei terzi di buona fede.
 
-[^290-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^290-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### D. Effetti
 
@@ -4529,7 +4529,7 @@ L’azione revocatoria si promuove contro coloro che stipularono col debitore l�
 
 <sup>3</sup> Il donatario di buona fede è tenuto a restituire soltanto ciò di cui si è arricchito.
 
-[^291-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^291-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### E. Prescrizione
 
@@ -4547,14 +4547,14 @@ L’azione revocatoria si prescrive in:
 
 <sup>2</sup> In caso di riconoscimento di un decreto straniero di fallimento, non si computa il tempo trascorso tra l’istanza di riconoscimento e la pubblicazione di cui all’articolo 169 LDIP[^292-2].
 
-[^292-1]: Nuovo testo giusta il n. III della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^292-1]: Nuovo testo giusta la cifra III della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^292-2]: [RS 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## Titolo undecimo: Della procedura concordataria
 
 [^tit11-1]
 
-[^tit11-1]: Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit11-1]: Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### I. Moratoria concordataria
 
@@ -4570,7 +4570,7 @@ La procedura concordataria è promossa mediante:
 - b. l’istanza di un creditore legittimato a presentare domanda di fallimento;
 - c. la trasmissione degli atti conformemente all’articolo 173*a* capoverso 2.
 
-[^293-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^293-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### B. Moratoria provvisoria
 
@@ -4586,7 +4586,7 @@ La procedura concordataria è promossa mediante:
 
 <sup>3</sup> Se manifestamente non vi sono possibilità di risanamento o di omologazione di un concordato, il giudice del concordato dichiara d’ufficio il fallimento.
 
-[^293a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^293a-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^293a-2]: Nuovo testo giusta l’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 20 ott. 2020 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746), [4145](https://fedlex.data.admin.ch/eli/oc/2020/758); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 2. Commissario provvisorio
@@ -4599,7 +4599,7 @@ La procedura concordataria è promossa mediante:
 
 <sup>2</sup> In casi motivati può rinunciare alla designazione di un commissario provvisorio.
 
-[^293b-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^293b-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 3. Effetti della moratoria provvisoria
 
@@ -4618,7 +4618,7 @@ In casi motivati è possibile rinunciare alla pubblicazione fino alla scadenza d
 - c. le conseguenze giuridiche di cui all’articolo 297 capoverso 4 si esplicano soltanto dal momento in cui la moratoria provvisoria è comunicata al cessionario;
 - d. è designato un commissario provvisorio.
 
-[^293c-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^293c-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 4. Rimedi giuridici
 
@@ -4628,7 +4628,7 @@ In casi motivati è possibile rinunciare alla pubblicazione fino alla scadenza d
 
 La concessione della moratoria provvisoria e la designazione del commissario provvisorio non sono impugnabili.
 
-[^293d-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^293d-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### C. Moratoria definitiva
 
@@ -4644,7 +4644,7 @@ La concessione della moratoria provvisoria e la designazione del commissario pro
 
 <sup>3</sup> Se non vi sono possibilità di risanamento o di omologazione del concordato, il giudice dichiara d’ufficio il fallimento.
 
-[^294-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^294-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 2. Commissario
 
@@ -4667,7 +4667,7 @@ Il commissario ha segnatamente i compiti seguenti:
 
 <sup>4</sup> Gli articoli 8, 8*a*, 10, 11, 14, 17–19, 34 e 35 si applicano per analogia alla gestione del commissario.[^295-2]
 
-[^295-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^295-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^295-2]: Introdotto dall’all. n. 4 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### 3. Delegazione dei creditori
@@ -4682,7 +4682,7 @@ Il commissario ha segnatamente i compiti seguenti:
 
 <sup>3</sup> La delegazione dei creditori autorizza, in vece del giudice del concordato, gli atti di cui all’articolo 298 capoverso 2.
 
-[^295a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^295a-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 4. Proroga della moratoria
 
@@ -4696,7 +4696,7 @@ Il commissario ha segnatamente i compiti seguenti:
 
 <sup>3</sup> Il commissario informa i creditori sullo stato della procedura e sui motivi della proroga. I creditori possono costituire o revocare una delegazione dei creditori, nominare o revocare membri nonché nominare un nuovo commissario. L’articolo 302 capoverso 2 si applica per analogia.
 
-[^295b-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^295b-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 5. Rimedi giuridici
 
@@ -4708,7 +4708,7 @@ Il commissario ha segnatamente i compiti seguenti:
 
 <sup>2</sup> Al reclamo contro la concessione della moratoria concordataria non può essere attribuito l’effetto sospensivo.
 
-[^295c-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^295c-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^295c-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 6. Pubblicazione
@@ -4719,7 +4719,7 @@ Il commissario ha segnatamente i compiti seguenti:
 
 Il giudice del concordato pubblica la concessione della moratoria e la comunica senza indugio all’ufficio d’esecuzione, al registro di commercio e al registro fondiario. La moratoria concordataria è menzionata nel registro fondiario al più tardi due giorni dopo essere stata concessa.
 
-[^296-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^296-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 7. Annullamento
 
@@ -4733,7 +4733,7 @@ Il giudice del concordato pubblica la concessione della moratoria e la comunica 
 
 <sup>3</sup> La decisione di annullamento può essere impugnata mediante reclamo secondo il CPC[^296a-2].
 
-[^296a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^296a-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^296a-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 8. Dichiarazione di fallimento
@@ -4748,7 +4748,7 @@ Il fallimento è dichiarato d’ufficio prima della scadenza della moratoria se:
 - b. manifestamente non vi sono possibilità di risanamento o di omologazione del concordato; o
 - c. il debitore contravviene all’articolo 298 o alle istruzioni del commissario.
 
-[^296b-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^296b-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### D. Effetti della moratoria
 
@@ -4776,7 +4776,7 @@ Il fallimento è dichiarato d’ufficio prima della scadenza della moratoria se:
 
 <sup>9</sup> L’articolo 211 capoverso 1 si applica per analogia se e quando il commissario comunica al cocontraente la conversione del credito.
 
-[^297-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^297-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 2. Sui contratti di durata del debitore
 
@@ -4786,7 +4786,7 @@ Il fallimento è dichiarato d’ufficio prima della scadenza della moratoria se:
 
 Con il consenso del commissario e dietro indennizzo del cocontraente, il debitore può in ogni tempo disdire per una scadenza qualsiasi un contratto di durata se altrimenti lo scopo del risanamento risulterebbe vanificato; l’indennizzo è considerato un credito concordatario. Sono fatte salve le norme speciali sulla risoluzione dei contratti di lavoro.
 
-[^297a-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^297a-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 3. Sulla capacità di disporre del debitore
 
@@ -4802,19 +4802,19 @@ Con il consenso del commissario e dietro indennizzo del cocontraente, il debitor
 
 <sup>4</sup> Se il debitore contravviene a queste disposizioni o alle istruzioni del commissario, il giudice del concordato può, su segnalazione del commissario, togliere al debitore la facoltà di disporre dei suoi beni o dichiarare d’ufficio il fallimento.
 
-[^298-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^298-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### E. Procedura di moratoria
 
 [^tit11-lvlI-lvlE-1]
 
-[^tit11-lvlI-lvlE-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^tit11-lvlI-lvlE-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 1. Inventario e stima del pegno
 
 [^tit11-lvlI-lvlE-lvl1-1]
 
-[^tit11-lvlI-lvlE-lvl1-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^tit11-lvlI-lvlE-lvl1-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 #### Art. 299
 
@@ -4832,7 +4832,7 @@ Con il consenso del commissario e dietro indennizzo del cocontraente, il debitor
 
 <sup>2</sup> Il commissario invita il debitore a pronunciarsi sui crediti insinuati.
 
-[^300-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^300-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 3. Convocazione dell’assemblea dei creditori
 
@@ -4843,7 +4843,7 @@ Con il consenso del commissario e dietro indennizzo del cocontraente, il debitor
 <sup>2</sup> Egli invia, con lettera semplice, una copia del pubblico avviso ai creditori dei quali sia conosciuto il nome e il domicilio.[^301-2]
 
 [^301-1]: [RU 2004 1359](https://fedlex.data.admin.ch/eli/oc/2004/161)
-[^301-2]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^301-2]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 #### Art. 301a–301d
 
@@ -4853,7 +4853,7 @@ Con il consenso del commissario e dietro indennizzo del cocontraente, il debitor
 
 [^tit11-lvlI-lvlF-1]
 
-[^tit11-lvlI-lvlF-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^tit11-lvlI-lvlF-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 #### Art. 302
 
@@ -4869,7 +4869,7 @@ Con il consenso del commissario e dietro indennizzo del cocontraente, il debitor
 
 [^tit11-lvlI-lvlG-1]
 
-[^tit11-lvlI-lvlG-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^tit11-lvlI-lvlG-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 #### Art. 303
 
@@ -4885,7 +4885,7 @@ Con il consenso del commissario e dietro indennizzo del cocontraente, il debitor
 
 [^tit11-lvlI-lvlH-1]
 
-[^tit11-lvlI-lvlH-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^tit11-lvlI-lvlH-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 #### Art. 304
 
@@ -4912,9 +4912,9 @@ Il concordato è accettato qualora vi abbia aderito, prima della decisione di om
 
 <sup>3</sup> Il giudice del concordato[^305-3] decide se e per qual somma si debbano computare anche i crediti sotto condizione, quelli sottoposti a termine incerto e quelli contestati, senza che ne rimanga pregiudicata la questione sulla sussistenza dei medesimi.[^305-4]
 
-[^305-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^305-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^305-2]: Nuovo testo giusta l’all. n. 16 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^305-3]: Nuovo termine giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^305-3]: Nuovo termine giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^305-4]: CS **3** 3
 
 ### B. Omologazione
@@ -4935,7 +4935,7 @@ L’omologazione è subordinata alle seguenti condizioni:
 
 <sup>2</sup> Il giudice del concordato può, d’ufficio o su domanda di un partecipante, completare un concordato non sufficientemente disciplinato.
 
-[^306-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^306-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 2. Sospensione della realizzazione di pegni immobiliari
 
@@ -4965,7 +4965,7 @@ Su domanda di un creditore interessato e dopo aver sentito il debitore, il giudi
 
 <sup>2</sup> Il reclamo ha effetto sospensivo, sempreché l’autorità giudiziaria superiore non disponga diversamente.
 
-[^307-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^307-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^307-2]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 4. Comunicazione e pubblicazione
@@ -4983,7 +4983,7 @@ Non appena esecutiva, la decisione sul concordato:
 
 <sup>2</sup> Non appena la decisione è esecutiva, cessano gli effetti della moratoria.
 
-[^308-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^308-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### C. Effetti
 
@@ -4995,7 +4995,7 @@ Non appena esecutiva, la decisione sul concordato:
 
 In caso di rigetto del concordato, il giudice del concordato dichiara d’ufficio il fallimento.
 
-[^309-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^309-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### 2. In caso di omologazione
 
@@ -5009,7 +5009,7 @@ In caso di rigetto del concordato, il giudice del concordato dichiara d’uffici
 
 <sup>2</sup> I debiti contratti durante la moratoria con il consenso del commissario costituiscono debiti della massa in un concordato con abbandono dell’attivo o in un fallimento successivo. Lo stesso vale per i crediti risultanti da un contratto di durata, a condizione che il debitore abbia beneficiato delle prestazioni con il consenso del commissario.
 
-[^310-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^310-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### b. Estinzione delle esecuzioni
 
@@ -5047,7 +5047,7 @@ L’omologazione del concordato produce estinzione di tutte le esecuzioni promos
 
 <sup>2</sup> Il commissario o un terzo può essere incaricato di prendere i provvedimenti di vigilanza, di gestione e di liquidazione necessari per eseguire il concordato e garantirne l’adempimento.
 
-[^314-1]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^314-1]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### B. Crediti contestati
 
@@ -5092,8 +5092,8 @@ Il concordato contiene disposizioni circa:
 
 <sup>2</sup> In particolare, il concordato che non concerne la totalità dei beni del debitore deve indicare esattamente quali beni sono ceduti ai creditori e quali a un terzo.
 
-[^318-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^318-2]: Introdotto dal n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^318-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^318-2]: Introdotto dalla cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### C. Effetti dell’omologazione
 
@@ -5191,7 +5191,7 @@ Con lo stato di riparto definitivo, i liquidatori devono depositare il conto fin
 
 <sup>2</sup> I dividendi che non saranno stati ritirati entro il termine di dieci anni saranno distribuiti a cura dell’ufficio dei fallimenti; è applicabile per analogia l’articolo 269.
 
-[^329-1]: Nuovo termine giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^329-1]: Nuovo termine giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### H. Relazione sulla gestione
 
@@ -5211,7 +5211,7 @@ Con lo stato di riparto definitivo, i liquidatori devono depositare il conto fin
 
 <sup>3</sup> I liquidatori possono e debbono opporre ai creditori tutte le eccezioni che competono alla massa in virtù dei disposti relativi all’azione rivocatoria.
 
-[^331-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^331-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### V. Del concordato nella procedura di fallimento
 
@@ -5223,7 +5223,7 @@ Con lo stato di riparto definitivo, i liquidatori devono depositare il conto fin
 
 <sup>3</sup> La decisione sul concordato è comunicata all’amministrazione, la quale, in caso di omologazione, propone al giudice la rivocazione del fallimento.
 
-[^332-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^332-1]: Nuovo testo giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ### VI. Dell’appuramento bonale dei debiti mediante trattative private
 
@@ -5269,7 +5269,7 @@ In caso di successiva procedura concordataria, la durata della moratoria secondo
 
 [^tit12-1]
 
-[^tit12-1]: Introdotto dal n. IV della LF del 3 apr. 1924 (RU **40** 391).Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit12-1]: Introdotto dalla cifra IV della LF del 3 apr. 1924 (RU **40** 391).Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Applicabilità
 
@@ -5277,7 +5277,7 @@ In caso di successiva procedura concordataria, la durata della moratoria secondo
 
 In circostanze straordinarie, soprattutto nel caso di crisi economica persistente, il Governo cantonale può, col consenso della Confederazione[^337-1], dichiarare applicabili per un determinato tempo le disposizioni del presente titolo ai debitori di un determinato territorio resi vittime da siffatte circostanze.
 
-[^337-1]: Espr. modificata dal n. III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^337-1]: Espr. modificata dalla cifra III della LF del 15 dic. 1989 conc. l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, in vigore dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 ### B. Concessione
 
@@ -5309,7 +5309,7 @@ In circostanze straordinarie, soprattutto nel caso di crisi economica persistent
 
 [^tit12-lvlB-lvl3-1]
 
-[^tit12-lvlB-lvl3-1]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^tit12-lvlB-lvl3-1]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 340
 
@@ -5320,8 +5320,8 @@ In circostanze straordinarie, soprattutto nel caso di crisi economica persistent
 <sup>3</sup> La moratoria concessa dal giudice del concordato è operativa fino alla decisione definitiva dell’autorità giudiziaria superiore.[^340-3]
 
 [^340-1]: [RS 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
-[^340-2]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^340-3]: Nuovo testo giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^340-2]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^340-3]: Nuovo testo giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Misure cautelari
 
@@ -5406,8 +5406,8 @@ Su proposta di un creditore o del commissario, il giudice del concordato deve re
 <sup>3</sup> Se la moratoria vien revocata giusta il numero 2 o 3, non può essere concessa nè una moratoria ordinaria nè una nuova moratoria straordinaria.
 
 [^348-1]: Correzione della CdR dell’AF, pubblicata il 14 mar. 2017 ([RU 2017 2165](https://fedlex.data.admin.ch/eli/oc/2017/196)).
-[^348-2]: Nuovo termine giusta il n. I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
-[^348-3]: Nuovo testo del per. giusta l’all. 1 n. II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^348-2]: Nuovo termine giusta la cifra I della LF del 21 giu. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^348-3]: Nuovo testo del per. giusta l’all. 1 cifra II 17 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### F. Rapporto con la moratoria ordinaria
 
@@ -5423,13 +5423,13 @@ Su proposta di un creditore o del commissario, il giudice del concordato deve re
 
 [^350-1]
 
-[^350-1]: Abrogato dal n. I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^350-1]: Abrogato dalla cifra I della LF del 21 giu. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [FF 2010 5667](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
 ## Titolo tredicesimo: Disposizioni finali
 
 [^tit13-1]
 
-[^tit13-1]: Nuovo numerazione giusta il n. V della LF del 3 apr. 1924 (RU **40** 391). Nuovo testo giusta il n. I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit13-1]: Nuovo numerazione giusta il n. V della LF del 3 apr. 1924 (RU **40** 391). Nuovo testo giusta la cifra I della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Entrata in vigore
 

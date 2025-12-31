@@ -4,11 +4,11 @@ title: Federal Act of 11 April 1889 on Debt Enforcement and Bankruptcy (DEBA)
 short: DEBA
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: en
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20250101/en/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20260101/en/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20260101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (DEBA)[^t-1]
 
-of 11 April 1889 (Status as of 1 January 2025)
+of 11 April 1889 (Status as of 1 January 2026)
 
 [^t-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -40,7 +40,7 @@ decrees:
 
 [^tit1-lvlI-lvlA-1]
 
-[^tit1-lvlI-lvlA-1]: All articles were provided with margin titles by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997, ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit1-lvlI-lvlA-1]: All articles were provided with margin titles by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 #### Art. 1
 
@@ -134,7 +134,7 @@ The remuneration of debt enforcement and bankruptcy officers and their deputies 
 
 [^6-1]: Amended by Annex No 4 of the FA of 15 June 2018 (Revision of the Law on Limitation Periods), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 
-### 3 Jurisdiction of the Federal Supreme Court
+### 3. Jurisdiction of the Federal Supreme Court
 
 #### Art. 7
 
@@ -177,13 +177,13 @@ The offices shall not provide third parties with information about debt enforcem
 - a. the debt enforcement proceedings are null and void or have been annulled as the result of an appeal or a court decision[^8a-2];
 - b. the debtor succeeded with an action for restitution of money paid without legal cause;
 - c. the creditor has withdrawn the debt enforcement proceedings;
-- d.[^8a-3] the debtor has submitted a request not to provide information after three months has elapsed since the summons for payment was served, unless the creditor provides proof that proceedings to set aside the objection (Arts 79-84) were initiated in good time after a period of 20 days set by the debt enforcement office has elapsed; if this proof is subsequently provided or if the debt enforcement continues, it will be brought to the attention of third parties again.
+- d.[^8a-3] the debtor has filed an objection and has within three months of the summons for payment being served and before the third-party right to inspect has expired submitted a request that information should not be provided, unless the creditor proves within a period of 20 days set by the debt enforcement office that proceedings to set aside the objection (Arts 79–84) were initiated in good time; if this proof is subsequently provided or if the debt enforcement continues, the proceedings may be brought to the attention of third parties again, unless the debtor proves that a binding decision has been taken to reject a request from the creditor to have the objection set aside.
 
 <sup>4</sup> The right to inspect of third parties expires five years after the conclusion of the proceedings. Judicial and administrative authorities may still request extracts in the interests of proceedings pending before them.
 
 [^8a-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^8a-2]: Term pursuant to Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); BBl 2006 7221).
-[^8a-3]: Inserted by No I of the FA of 16 Dec. 2016, in force since 1 Jan. 2019 ([AS 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [BBl 2015 3209](https://fedlex.data.admin.ch/eli/fga/2015/692)[5785](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
+[^8a-2]: Term pursuant to Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^8a-3]: Inserted by No I of the FA of 16 Dec. 2016 ([AS 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [BBl 2015 3209](https://fedlex.data.admin.ch/eli/fga/2015/692)[5785](https://fedlex.data.admin.ch/eli/fga/2015/1322)). Amended by No I of the FA of 21 March 2025 (Non-disclosure of Debt Enforcement Records), in force since 1 Jan. 2026 ([AS 2025 522](https://fedlex.data.admin.ch/eli/oc/2025/522); [BBl 2024 1797](https://fedlex.data.admin.ch/eli/fga/2024/1797), [1978](https://fedlex.data.admin.ch/eli/fga/2024/1978)).
 
 ### F. Safekeeping of money or valuables
 
@@ -283,13 +283,13 @@ The following disciplinary measures may be taken against an officer or employee:
 
 <sup>3</sup> It may issue directives to the cantonal supervisory authorities and request annual reports from them.
 
-<sup>4</sup> …[^15-2]
+<sup>4</sup> ...[^15-2]
 
 <sup>5</sup> It shall coordinate electronic communication between the debt enforcement and bankruptcy offices, the land register and commercial register offices, the courts and the public.[^15-3]
 
 [^15-1]: Amended by Annex No 6 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^15-2]: Repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^15-3]: Inserted by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^15-2]: Repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^15-3]: Inserted by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### L. Fees
 
@@ -370,12 +370,12 @@ The following provisions apply to the procedure before the cantonal supervisory 
 <sup>3</sup> The cantons shall otherwise regulate the procedure.
 
 [^20a-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^20a-2]: Repealed by Annex No 6 of the Federal Supreme Court Act of 17 June 2005, with effect from 1 Jan. 2007 (AS 2006 1205; BBl 2001 4202).
+[^20a-2]: Repealed by Annex No 6 of the Federal Supreme Court Act of 17 June 2005, with effect from 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^20a-3]: Amended by Annex No 6 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^20a-4]: Amended by No I 6 of the Federal Assembly O of 20 Dec. 2006 on the Adaptation of Legislation to the Provisions of the Federal Supreme Court Act and the Administrative Court Act, in force since 1 Jan. 2007 ([AS 2006 5599](https://fedlex.data.admin.ch/eli/oc/2006/826); [BBl 2006 7759](https://fedlex.data.admin.ch/eli/fga/2006/974)).
 [^20a-5]: Inserted by Annex No 6 of the Federal Supreme Court Act of 17 June 2005, in force since 1 Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
-### 6 Decision on appeal
+### 6. Decision on appeal
 
 #### Art. 21
 
@@ -417,7 +417,7 @@ The cantons shall designate the institutions that are required to accept deposit
 
 [^25-1]
 
-[^25-1]: Repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^25-1]: Repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Public law consequences of unsuccessful distraint proceedings or bankruptcy
 
@@ -464,7 +464,7 @@ The cantons shall designate the institutions that are required to accept deposit
 
 [^29-1]
 
-[^29-1]: Repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^29-1]: Repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### R. Special enforcement proceedings
 
@@ -501,7 +501,7 @@ International treaties and the provisions of the Federal Act of 18 December 1987
 
 The computation of and compliance with deadlines are governed by the provisions of the Civil Procedure Code of 19 December 2008[^31-2] (CPC), unless this Act provides otherwise.
 
-[^31-1]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^31-1]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^31-2]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 
 ### 2. Compliance
@@ -510,18 +510,18 @@ The computation of and compliance with deadlines are governed by the provisions 
 
 [^32-1]
 
-<sup>1</sup> …[^32-2]
+<sup>1</sup> ...[^32-2]
 
 <sup>2</sup> A deadline is also complied with if a debt enforcement or bankruptcy office without jurisdiction is seised before its expiry; this office shall transfer the case immediately to the office that has jurisdiction.[^32-3]
 
-<sup>3</sup> …[^32-4]
+<sup>3</sup> ...[^32-4]
 
 <sup>4</sup> In the case of written submissions that contain errors that can be corrected, an opportunity must be given to correct them.
 
 [^32-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^32-2]: Repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^32-3]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^32-4]: Repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^32-2]: Repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^32-3]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^32-4]: Repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 3. Amendment and reinstatement
 
@@ -559,7 +559,7 @@ The Federal Council shall regulate:
 - b. the method of transmission;
 - c. the requirements for requesting the submission of documents in paper form in the event of technical problems.
 
-[^33a-1]: Inserted by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). Amended by Annex II 6 of the FA of 18 March 2016 on the electronic signature, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
+[^33a-1]: Inserted by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). Amended by Annex II 6 of the FA of 18 March 2016 on the electronic signature, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 [^33a-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 ### B. Service
@@ -581,7 +581,7 @@ With the consent of the person concerned, notices, orders and decisions may be s
 - c. the method of transmission;
 - d. the date on which the notice, order or decision is deemed to have been served.[^34-3]
 
-[^34-1]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^34-1]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^34-2]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 [^34-3]: Amended by Annex II 6 of the FA of 18 March 2016 on Electronic Signatures, in force since 1 Jan. 2017 ([AS 2016 4651](https://fedlex.data.admin.ch/eli/oc/2016/752); [BBl 2014 1001](https://fedlex.data.admin.ch/eli/fga/2014/171)).
 
@@ -607,14 +607,14 @@ No appeal of any form shall have suspensive effect unless this is specifically o
 
 [^37-1]
 
-<sup>1</sup> The term "mortgage" in this Act comprises mortgages, mortgage certificates, mortgage rights under the previous law, real burdens and any preferential rights to specific immovable properties as well as the pledge on the appurtenances of an immovable property.[^37-2]
+<sup>1</sup> The term «mortgage» in this Act comprises mortgages, mortgage certificates, mortgage rights under the previous law, real burdens and any preferential rights to specific immovable properties as well as the pledge on the appurtenances of an immovable property.[^37-2]
 
-<sup>2</sup> The term "pledge of chattels" also includes the pledge of livestock, the special lien and the pledge on claims and other rights.
+<sup>2</sup> The term «pledge of chattels» also includes the pledge of livestock, the special lien and the pledge on claims and other rights.
 
-<sup>3</sup> The term "pledge" comprises both the mortgage and the pledge of chattels.
+<sup>3</sup> The term «pledge» comprises both the mortgage and the pledge of chattels.
 
-[^37-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
-[^37-2]: Amended by no II 4 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and Other Amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^37-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^37-2]: Amended by No II 4 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and Other Amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 
 ## Title Two Debt Enforcement
 
@@ -638,13 +638,13 @@ No appeal of any form shall have suspensive effect unless this is specifically o
 
 <sup>1</sup>
 
-Debt enforcement proceedings are continued by way of bankruptcy proceedings, either in the form of "ordinary bankruptcy proceedings" (Arts 159–176) or of "debt enforcement proceedings based on a bill of exchange" (Arts 177–189) if the debtor is registered in the Commercial Register as any of the following:
+Debt enforcement proceedings are continued by way of bankruptcy proceedings, either in the form of «ordinary bankruptcy proceedings» (Arts 159–176) or of «debt enforcement proceedings based on a bill of exchange» (Arts 177–189) if the debtor is registered in the Commercial Register as any of the following:
 
 - 1\. as the owner of a sole proprietorship (Arts 934 and 935 CO[^39-1]);
 - 2\. as a member of a general partnership (Art. 554 CO);
 - 3\. as a member of a limited partnership with unlimited liability (Art. 596 CO);
 - 4\. as a director of a partnership limited by shares (Art. 765 CO);
-- 5\. [^39-2] ...
+- 5\.[^39-2] ...
 - 6\. as a general partnership (Art. 552 CO);
 - 7\. as a limited partnership (Art. 594 CO);
 - 8\. as a company limited by shares or a partnership limited by shares (Arts 620 and 764 CO);
@@ -652,10 +652,10 @@ Debt enforcement proceedings are continued by way of bankruptcy proceedings, eit
 - 10\. as a cooperative (Art. 828 CO);
 - 11\. as an association (Art. 60 Swiss Civil Code (CC)[^39-3]);
 - 12\. as a foundation (Art. 80 CC);
-- 13\.[^39-4] as an investment company with variable capital (Art. 36 Collective Investments Act of 23 June 2006[^39-5] (CISA));
+- 13\.[^39-4] as an investment company with variable capital (Art. 36 Collective Investments Act of 23 June 2006[^39-5], CISA);
 - 14\.[^39-6] as a limited partnership for collective investment (Art. 98 CISA).[^39-7]
 
-<sup>2</sup> …[^39-8]
+<sup>2</sup> ...[^39-8]
 
 <sup>3</sup> Registration takes effect on the day after notice thereof in published in the Swiss Official Gazette of Commerce.
 
@@ -666,7 +666,7 @@ Debt enforcement proceedings are continued by way of bankruptcy proceedings, eit
 [^39-5]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^39-6]: Inserted by Annex No II 3 of the Collective Investment Schemes Act of 23 June 2006, in force since 1 Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^39-7]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^39-8]: Repealed by Art. 15 No 1 Final and Transitional Provisions to Titles XXIV–XXXIII CO ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
+[^39-8]: Repealed by Art. 15 No 1 Final and Transitional Provisions to Titles XXIV–XXXIII CO ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253); [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
 
 ### 2. Effective duration of the commercial register entry
 
@@ -733,7 +733,7 @@ Bankruptcy proceedings shall not be brought for:
 
 The realisation of items that have been seized under criminal or fiscal provisions or under the Federal Act of 18 December 2015[^44-2] on the Freezing and the Restitution of Illicit Assets held by Foreign Politically Exposed Persons shall be carried out in accordance with the relevant federal or cantonal provisions.
 
-[^44-1]: Amended by Annex No 2 of the FA of 1 Oct. 2010 on the Restitution of Assets Obtained Unlawfully by Politically Exposed Persons, in force since 1 Feb. 2011 ([AS 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [BBl 2010 3309](https://fedlex.data.admin.ch/eli/fga/2010/596)).
+[^44-1]: Amended by Art. 31 para. 2 No 2 of the FA of 18 Dec. 2015 on the Freezing and the Restitution of Illicit Assets held by Foreign Politically Exposed Persons, in force since 1 July 2016 ([AS 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [BBl 2014 5265](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
 [^44-2]: [SR 196.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5693)
 
 ### 2. Claims by pawnbrokers
@@ -742,7 +742,7 @@ The realisation of items that have been seized under criminal or fiscal provisio
 
 [^45-1]
 
-The pursuit of pawnbrokers’ claims is governed by Article 910 of the Civil Code (Swiss Civil Code)[^45-2].
+The pursuit of pawnbrokers’ claims is governed by Article 910 CC[^45-2].
 
 [^45-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^45-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
@@ -761,7 +761,7 @@ The pursuit of pawnbrokers’ claims is governed by Article 910 of the Civil Cod
 
 <sup>4</sup> Debt enforcement against a community of condominium owners takes place at the location of the property.[^46-2]
 
-[^46-1]: Inserted by Art. 58 Final Title Civil Code, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title Civil Code; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^46-1]: Inserted by Art. 58 Final Title Civil Code, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title Civil Code; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 [^46-2]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 #### Art. 47
@@ -786,7 +786,7 @@ Debt enforcement against debtors of no fixed abode takes place where they are cu
 
 Provided the estate has not been distributed, a contractual community of property formed or bankruptcy liquidation ordered, debt enforcement against a deceased person’s estate may be carried out at the place and by the procedure which would have applied to the deceased person at the time of his death.
 
-[^49-1]: Amended by Art. 58 Final Title Civil Code, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title Civil Code; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^49-1]: Amended by Art. 58 Final Title Civil Code, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title Civil Code; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### 3. Place of debt enforcement for debtors living abroad
 
@@ -882,7 +882,7 @@ Other than in attachment proceedings or in the case of urgent measures to preser
 
 <sup>4</sup> Debtors who undertake military or civil defence service in terms of an employment contract with the Confederation or a canton are not entitled to a stay of enforcement.[^57-4]
 
-[^57-1]: Amended by Art. 2 of the FA of 28 Sept. 1949, in force since 1 Feb. 1950 ([AS 1950 57](https://fedlex.data.admin.ch/eli/oc/1950/57_57_57); [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
+[^57-1]: Amended by Art. 2 of the FA of 28 Sept. 1949, in force since 1 Feb. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^57-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57-3]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^57-4]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -899,7 +899,7 @@ Other than in attachment proceedings or in the case of urgent measures to preser
 
 <sup>2</sup> The command office concerned shall notify the debt enforcement office on request of the debtor’s discharge or leave.
 
-<sup>3</sup> …[^57a-5]
+<sup>3</sup> ...[^57a-5]
 
 [^57a-1]: Inserted by Art. 2 of the FA of 28 Sept. 1949, in force since 1 Feb. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^57a-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
@@ -982,7 +982,7 @@ In the event of the death of the debtor’s spouse or registered partner, or of 
 <sup>3</sup> Proceedings may only be continued against the heirs if they involve debt enforcement proceedings to realise a pledge or if the deadlines given in Articles 110 and 111 for participating in distraint proceedings in a case of debt enforcement by distraint proceedings have already expired.
 
 [^59-1]: Amended by Art. 2 of the FA of 28 Sept. 1949, in force since 1 Feb. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
-[^59-2]: Amended by Art. 58 Final Title Civil Code, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title Civil Code; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^59-2]: Amended by Art. 58 Final Title Civil Code, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title Civil Code; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### 4. Due to arrest
 
@@ -1047,7 +1047,7 @@ If debt enforcement proceedings are directed against a legal entity or a company
 
 [^65-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^65-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^65-3]: Inserted by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^65-3]: Inserted by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### C. If the debtor is domiciled abroad or in the case of impossibility of service
 
@@ -1067,7 +1067,7 @@ Service shall be replaced by public notice if:
 - 2\. the debtor persistently evades service;
 - 3\. the debtor lives abroad and service in accordance with paragraph 3 is not possible within a reasonable period of time.[^66-2]
 
-<sup>5</sup> …[^66-3]
+<sup>5</sup> ...[^66-3]
 
 [^66-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^66-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -1092,7 +1092,7 @@ The request for debt enforcement must be filed in writing or made orally to the 
 
 <sup>3</sup> The creditor shall be entitled to have receipt of the request for debt enforcement certified free of charge on request.
 
-[^67-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^67-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### B. Costs of debt enforcement
 
@@ -1106,7 +1106,7 @@ The request for debt enforcement must be filed in writing or made orally to the 
 
 [^tit2-lvlVI-1]
 
-[^tit2-lvlVI-1]: Originally No V<sup>bis</sup>. Inserted by Art. 15 no 3 Final and Transitional Provisions to Titles XXIV-XXXIII CO ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^tit2-lvlVI-1]: Originally No V<sup>bis</sup>. Inserted by Art. 15 No 3 Final and Transitional Provisions to Titles XXIV–XXXIII CO ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253); [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### A. Service of the debt enforcement notice. Objection to the summons
 
@@ -1118,9 +1118,9 @@ The request for debt enforcement must be filed in writing or made orally to the 
 
 <sup>2</sup> Either spouse may file an objection to the summons.
 
-<sup>3</sup> …[^68a-2]
+<sup>3</sup> ...[^68a-2]
 
-[^68a-1]: Originally Art.68<sup>bis</sup>. Inserted by Art. 15 no 3 Final and Transitional Provisions to Titles XXIV-XXXIII CO ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Amended by no II 3 of the FA of 5 Oct. 1984 on the Amendment of the Civil Code, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^68a-1]: Originally Art.68<sup>bis</sup>. Inserted by Art. 15 No 3 Final and Transitional Provisions to Titles XXIV–XXXIII CO ([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)). Amended by No II 3 of the FA of 5 Oct. 1984 on the Amendment of the Civil Code, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^68a-2]: Repealed by No I of the FA of 16 Dec. 1994, with effect from 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### B. Special provisions
@@ -1129,9 +1129,9 @@ The request for debt enforcement must be filed in writing or made orally to the 
 
 [^68b-1]
 
-<sup>1</sup> Either spouse may assert in the third-party claims procedure (Arts 106-109) that a distrained asset is the personal property of the debtor’s spouse.
+<sup>1</sup> Either spouse may assert in the third-party claims procedure (Arts 106–109) that a distrained asset is the personal property of the debtor’s spouse.
 
-<sup>2</sup> If the debt enforcement proceedings are limited to the debtor’s share of the common property in addition to his individual property, either spouse may also oppose the distraint of items of common property under the third-party claims procedure (Arts 106-109).
+<sup>2</sup> If the debt enforcement proceedings are limited to the debtor’s share of the common property in addition to his individual property, either spouse may also oppose the distraint of items of common property under the third-party claims procedure (Arts 106–109).
 
 <sup>3</sup> If debt enforcement proceedings for satisfaction from individual property and the share in the common property are continued, distraint and realisation of the share in the common property are governed by Article 132; the right to distrain the future earned income of the spouse subject to debt enforcement remains reserved (Art. 93).[^68b-2]
 
@@ -1139,7 +1139,7 @@ The request for debt enforcement must be filed in writing or made orally to the 
 
 <sup>5</sup> The supervisory authority may request the judge to order the separation of property.
 
-[^68b-1]: Inserted by no II 3 of the FA of 5 Oct. 1984 on the Amendment of the Civil Code, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
+[^68b-1]: Inserted by No II 3 of the FA of 5 Oct. 1984 on the Amendment of the Civil Code, in force since 1 Jan. 1988 ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)).
 [^68b-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### VII. Debt Enforcement Proceedings in the case of Legal Representation or Deputyship
@@ -1177,7 +1177,7 @@ The request for debt enforcement must be filed in writing or made orally to the 
 
 #### Art. 68e
 
-If the debtor is only liable with his free assets, it may be claimed in the third-party claims procedure (Arts 106-109) that a distrained asset is not a part thereof.
+If the debtor is only liable with his free assets, it may be claimed in the third-party claims procedure (Arts 106–109) that a distrained asset is not a part thereof.
 
 ### VIII. Summons for Payment and Filing an Objection to the Summons
 
@@ -1244,7 +1244,7 @@ The summons for payment contains:
 
 <sup>2</sup> This request shall have no effect on existing deadlines. If the creditor does not comply with the request or does not comply with it in time, the court shall take account of the fact that debtor was unable to inspect the evidence in its decision on procedural costs in any subsequent legal action.
 
-[^73-1]: Amended by No I of the FA of 16. Dez. 2016, in force since 1 Jan. 2019 ([AS 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [BBl 2015 3209](https://fedlex.data.admin.ch/eli/fga/2015/692)[5785](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
+[^73-1]: Amended by No I of the FA of 16 Dec. 2016, in force since 1 Jan. 2019 ([AS 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [BBl 2015 3209](https://fedlex.data.admin.ch/eli/fga/2015/692)[5785](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
 
 ### C. Objection
 
@@ -1337,9 +1337,9 @@ If the debtor files an objection to the summons for payment, the creditor must p
 The following are equivalent to court judgments:[^80-3]
 
 - 1\. court settlements and recognition of debts in court;
-- 1<sup>bis</sup>[^80-4] enforceable public records under Articles 347–352 CPC[^80-5];
+- [tab] 1<sup>bis</sup>.[^80-4] enforceable public records under Articles 347–352 CPC[^80-5];
 - 2\.[^80-6] orders issued by Swiss administrative authorities;
-- 3\.[^80-7] …
+- 3\.[^80-7] ...
 - 4\.[^80-8] the final decisions of the inspectorates taken in application of Article 16 paragraph 1 of the Federal Act of 17 June 2005[^80-9] on Illegal Employment and which relate to inspection costs;
 - 5\.[^80-10] in relation to value added tax: tax returns and assessment notices that have become legally binding by prescription, and assessment notices that have become legally binding through their written acceptance by the taxable person.
 
@@ -1366,9 +1366,9 @@ The following are equivalent to court judgments:[^80-3]
 
 <sup>3</sup> If a decision has been issued in another state, the debtor may also claim the defences provided for in the relevant international treaty or, in the absence of such a treaty, in the Federal Act of 18 December 1987[^81-2] on Private International Law, unless a Swiss court has already ruled on these defences.[^81-3]
 
-[^81-1]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^81-1]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^81-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
-[^81-3]: Amended by Art. 3 no 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^81-3]: Amended by Art. 3 No 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 3. By setting aside the objection provisionally
 
@@ -1414,23 +1414,23 @@ The following are equivalent to court judgments:[^80-3]
 
 #### Art. 85
 
-[^85-1]
+[^79-2]
 
 If the debtor proves by official documents that the debt together with interest and costs has been settled or deferred, he may at any time request the court at the place of debt enforcement in the former case to dismiss, and in the latter case to suspend the debt enforcement proceedings.
 
-[^85-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^79-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. In ordinary or simplified proceedings
 
 [^tit2-lvlVIII-lvlD-lvl2-1]
 
-[^tit2-lvlVIII-lvlD-lvl2-1]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^tit2-lvlVIII-lvlD-lvl2-1]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 #### Art. 85a
 
 [^85a-1]
 
-<sup>1</sup> Irrespective of whether an objection to the summons for payment is filed, the debtor may at any time have the court at the place of debt enforcement declare that the debt does not exist or no longer exists or has been deferred. [^85a-2]
+<sup>1</sup> Irrespective of whether an objection to the summons for payment is filed, the debtor may at any time have the court at the place of debt enforcement declare that the debt does not exist or no longer exists or has been deferred.[^85a-2]
 
 <sup>2</sup>
 
@@ -1441,11 +1441,11 @@ On the action being filed, the court shall hear the parties and assess the evide
 
 <sup>3</sup> If the court upholds the action, it shall cancel or discontinue the debt enforcement proceedings.
 
-<sup>4</sup> …[^85a-3]
+<sup>4</sup> ...[^85a-3]
 
 [^85a-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^85a-2]: Amended by No I of the FA of 16 Dec. 2016, in force since 1 Jan. 2019 ([AS 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [BBl 2015 3209](https://fedlex.data.admin.ch/eli/fga/2015/692)[5785](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
-[^85a-3]: Repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^85a-3]: Repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### F. Action for restitution of money paid without legal cause
 
@@ -1455,9 +1455,9 @@ On the action being filed, the court shall hear the parties and assess the evide
 
 <sup>2</sup> The plaintiff has the choice of bringing the action for restitution to court either at the place of debt enforcement or at the place where the defendant has his ordinary place of jurisdiction.
 
-<sup>3</sup> In derogation from Article 63 of the Swiss Code of Obligations (CO)[^86-2], this right of restitution is not dependent on any condition other than proof that the debt was not due.[^86-3]
+<sup>3</sup> In derogation from Article 63 CO[^86-2], this right of restitution is not dependent on any condition other than proof that the debt was not due.[^86-3]
 
-[^86-1]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^86-1]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 [^86-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^86-3]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -1465,7 +1465,7 @@ On the action being filed, the court shall hear the parties and assess the evide
 
 #### Art. 87
 
-The special provisions of Articles 151-153 apply to the summons for payment in debt enforcement proceedings to realise a pledge, and those of Articles 178-189 apply to the summons for payment and filing an objection to debt enforcement proceedings based on a bill of exchange.
+The special provisions of Articles 151–153 apply to the summons for payment in debt enforcement proceedings to realise a pledge, and those of Articles 178–189 apply to the summons for payment and filing an objection to debt enforcement proceedings based on a bill of exchange.
 
 ### IX. Continuation of Debt Enforcement
 
@@ -1568,12 +1568,12 @@ The following are exempt from distraint:
 
 <sup>2</sup> Items for which it can be assumed from the outset that the surplus of the realisation proceeds over the costs would be so small that removal is not justified may not be distrained. However, they must be noted in the deed of distraint together with the estimated amount.[^92-18]
 
-<sup>3</sup> High-value items in accordance with paragraph 1, numbers 1-3 are distrainable; However, they may only be taken away from the debtor if the creditor provides replacement items of the same utility value or the amount required to purchase them before they are taken away.[^92-19]
+<sup>3</sup> High-value items in accordance with paragraph 1, numbers 1–3 are distrainable; However, they may only be taken away from the debtor if the creditor provides replacement items of the same utility value or the amount required to purchase them before they are taken away.[^92-19]
 
 <sup>4</sup> The special provisions on undistrainability of the Federal Act of 2 April 1908[^92-20] on Insurance Policies (Arts 79 para. 2 and 80 IPA), the Copyright Act of 9 October 1992[^92-21] (Art. 18 CopA) and the Swiss Criminal Code[^92-22] (Art. 378 para. 2 SCC) remain reserved.[^92-23]
 
 [^92-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-2]: Inserted by no IV of the FA of 4 Oct. 2002 (Article on Animals), in force since 1 April 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
+[^92-2]: Inserted by No IV of the FA of 4 Oct. 2002 (Article on Animals), in force since 1 April 2003 ([AS 2003 463](https://fedlex.data.admin.ch/eli/oc/2003/100); [BBl 2002 4164](https://fedlex.data.admin.ch/eli/fga/2002/591)[5806](https://fedlex.data.admin.ch/eli/fga/2002/895)).
 [^92-3]: Amended by Art. 3 of the FA of 28 Sept. 1949, in force since 1 Feb. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^92-4]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-5]: Amended by Art. 3 of the FA of 28 Sept. 1949, in force since 1 Feb. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
@@ -1586,9 +1586,9 @@ The following are exempt from distraint:
 [^92-12]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-13]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^92-14]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
-[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535), [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32), [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)no III, **1974** 1589 no II, **1978** 391 no II 2, **1985** 2017, **1986** 699, **1996** 2466 Annex No 4, **1997** 2952, **2000** 2687, **2002** 701 No I 6 3371 Annex No 9 3453, **2003** 3837 Annex No 4, **2006** 979 Art. 2 No 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Today: in accordance with Art. 20 of the FA of 6 Oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
+[^92-15]: [[AS 1965 537](https://fedlex.data.admin.ch/eli/oc/1965/537_541_535); [1971 32](https://fedlex.data.admin.ch/eli/oc/1971/32_32_32); [1972 2483](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314)No III; [1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589)No II; [1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)No II 2; [1985 2017](https://fedlex.data.admin.ch/eli/oc/1985/2017_2017_2017); [1986 699](https://fedlex.data.admin.ch/eli/oc/1986/699_699_699); [1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466)Annex No 4; [1997 2952](https://fedlex.data.admin.ch/eli/oc/1997/2952_2952_2952); [2000 2687](https://fedlex.data.admin.ch/eli/oc/2000/441); [2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)No I 6 [3371](https://fedlex.data.admin.ch/eli/oc/2002/510)Annex No 9 [3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560)Annex No 4; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)Art. 2 No 8. [AS 2007 6055](https://fedlex.data.admin.ch/eli/oc/2007/804)Art. 35]. Today: in accordance with Art. 20 of the FA of 6 Oct. 2006 ([SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)).
 [^92-16]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^92-17]: Inserted by Art. 3 of the FA of 28 Sept. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^92-17]: Inserted by Art. 3 of the FA of 28 Sept. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)
 [^92-18]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-19]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^92-20]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
@@ -1630,7 +1630,7 @@ Hanging and standing crops may not be distrained:
 <sup>3</sup> The rights of a mortgagee to hanging and standing crops as part of the pledged property are reserved, but only on condition that the mortgagee himself has initiated enforcement proceedings for realisation of the mortgage[^94-1] before the realisation of the pledged crops takes place.[^94-2]
 
 [^94-1]: Term pursuant to No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^94-2]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^94-2]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### 7. Order of distraint
 
@@ -1662,7 +1662,7 @@ Hanging and standing crops may not be distrained:
 
 Claims of the debtor against his or her spouse or registered partner shall only be distrained if his or her other assets are insufficient.
 
-[^95a-1]: Inserted by No II 3 of the FA of 5 Oct. 1984 on the Amendment of the Civil Code ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122); [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Last amended by Annex No 16 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^95a-1]: Inserted by No II 3 of the FA of 5 Oct. 1984 on the Amendment of the Civil Code ([AS 1986 122](https://fedlex.data.admin.ch/eli/oc/1986/122_122_122)[153](https://fedlex.data.admin.ch/eli/oc/1986/153_153_153)Art. 1; [BBl 1979 II 1191](https://fedlex.data.admin.ch/eli/fga/1979/2_1191_1179_1119)). Last amended by Annex No 16 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 ### B. Effects of distraint
 
@@ -1674,7 +1674,7 @@ Claims of the debtor against his or her spouse or registered partner shall only 
 
 [^96-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^96-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^96-3]: Inserted by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^96-3]: Inserted by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### C. Estimated value. Extent of distraint
 
@@ -1739,7 +1739,7 @@ The debt enforcement office shall ensure that the distrained rights are maintain
 
 <sup>3</sup> It is responsible for the administration and management of the immovable property[^102-2].
 
-[^102-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^102-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 [^102-2]: Term pursuant to No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)). This amendment has been made throughout the text.
 
 ### c. Harvesting the crop
@@ -1793,7 +1793,9 @@ On request, the creditor shall advance the costs of storage and maintenance of d
 
 [^107-1]
 
-<sup>1</sup> The debtor and creditor may contest the third party’s claim at the debt enforcement office if the claim relates to
+<sup>1</sup>
+
+The debtor and creditor may contest the third party’s claim at the debt enforcement office if the claim relates to:
 
 - 1\. a movable item in the exclusive custody of the debtor;
 - 2\. a claim or other right, provided that the debtor’s entitlement is more likely than that of the third party;
@@ -1815,7 +1817,9 @@ On request, the creditor shall advance the costs of storage and maintenance of d
 
 [^108-1]
 
-<sup>1</sup> The creditor and debtor may bring an action against the third party to have his claim declared unfounded if the claim relates to
+<sup>1</sup>
+
+The creditor and debtor may bring an action against the third party to have his claim declared unfounded if the claim relates to:
 
 - 1\. a movable item in the custody or joint custody of the third party;
 - 2\. a claim or other right, provided that the third party’s entitlement is more likely than that of the debtor;
@@ -1851,7 +1855,7 @@ The following must be filed in the court at the place of debt enforcement:
 <sup>5</sup> Until the action has been concluded, the debt enforcement proceedings in respect of the disputed items shall be suspended and the time limits for requests for realisation (Art. 116) shall be suspended.
 
 [^109-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^109-2]: Second sentence repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^109-2]: Second sentence repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### F. Participation in distraint proceedings
 
@@ -1890,7 +1894,7 @@ The following persons may participate in the distraint proceedings within 40 day
 
 <sup>4</sup> The debt enforcement office shall notify the debtor and the creditors of any such claim that is made and allow them ten days within which to dispute the claim.
 
-<sup>5</sup> If the claim is contested, the claimant may only participate with the rights under provisional distraint proceedings, and the claimant must bring an action within 20 days in the court at the place of debt enforcement; if he fails to meet this deadline, his right to participate becomes invalid. …[^111-8]
+<sup>5</sup> If the claim is contested, the claimant may only participate with the rights under provisional distraint proceedings, and the claimant must bring an action within 20 days in the court at the place of debt enforcement; if he fails to meet this deadline, his right to participate becomes invalid. ...[^111-8]
 
 [^111-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^111-2]: Amended by Annex No 16 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -2222,7 +2226,7 @@ A sale by private contract may be held instead of an auction:[^130-1]
 
 If a payment deadline is agreed, the immovable property remains under the administration of the debt enforcement office for the account and at the risk of the acquirer until the purchase price has been paid. In the meantime, no entry may be made in the land register without authorisation from the debt enforcement office. In addition, the debt enforcement office may require special security for the deferred purchase price.
 
-[^137-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^137-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### 3. Auction
 
@@ -2243,7 +2247,7 @@ The announcement contains:
 <sup>3</sup> A corresponding request shall also be addressed to the owners of easements insofar as cantonal law is still applicable.[^138-2]
 
 [^138-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^138-2]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^138-2]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### b. Notification to the parties involved
 
@@ -2263,7 +2267,7 @@ The debt enforcement office shall send a copy of the announcement by standard po
 
 <sup>1</sup> Prior to the auction, the debt enforcement officer shall determine the encumbrances (easements, real burdens, mortgages and registered personal rights) resting on the property on the basis of the submissions of the entitled parties and an extract from the land register.
 
-<sup>2</sup> He shall send the list of encumbrances to the parties involved and at the same time set them a deadline of ten days to contest the list. Articles 106-109 apply.
+<sup>2</sup> He shall send the list of encumbrances to the parties involved and at the same time set them a deadline of ten days to contest the list. Articles 106–09 apply.
 
 <sup>3</sup> In addition, the debt enforcement officer shall order a valuation of the property and inform the parties concerned of the result.
 
@@ -2353,7 +2357,7 @@ Articles 123 and 132*a* also apply to the realisation of immovable property.
 
 <sup>5</sup> The amounts related to claims subject to provisional distraint are deposited temporarily in the official depositary.
 
-[^144-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^144-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); BBl **1991** III 11).
 [^144-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Additional distraint
@@ -2400,7 +2404,7 @@ The schedule of claims and the distribution list shall be made available for pub
 
 <sup>1</sup> If a creditor wishes to contest the claim or the rank of another creditor, he must file an action to contest the schedule of claims against that other creditor within 20 days of receiving the extract in the court at the place of debt enforcement.[^148-1]
 
-<sup>2</sup> …[^148-2]
+<sup>2</sup> ...[^148-2]
 
 <sup>3</sup> If the court upholds the action, it shall assign to the plaintiff the share of the proceeds of realisation allocated to the defendant in the distribution list that is required to cover the plaintiff’s loss shown in the distribution list and the legal costs. Any surplus remains with the defendant.[^148-3]
 
@@ -2424,11 +2428,11 @@ The schedule of claims and the distribution list shall be made available for pub
 
 <sup>4</sup> The debtor is not required to pay interest on the claim documented by the unpaid debt certificate. Joint debtors, guarantors and other persons entitled to take recourse who are required to pay interest in the debtor’s stead may not require him to reimburse the same.
 
-<sup>5</sup> …[^149-3]
+<sup>5</sup> ...[^149-3]
 
 [^149-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^149-2]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^149-3]: Repealed by No I of the FA of 16 Dec. 1994 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^149-3]: Repealed by No I of the FA of 16 Dec. 1994, with effect from 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### b. Statute of limitations and deletion
 
@@ -2454,7 +2458,7 @@ The schedule of claims and the distribution list shall be made available for pub
 
 <sup>3</sup> In the case of the realisation of immovable property, the debt enforcement office shall arrange for the necessary deletions and amendments to easements, real burdens, mortgages and registered personal rights in the land register.[^150-2]
 
-[^150-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^150-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 [^150-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ## Title Four Debt Enforcement by Realising a Pledge
@@ -2470,7 +2474,7 @@ The schedule of claims and the distribution list shall be made available for pub
 Any person who initiates debt enforcement proceedings for a claim secured by a pledge (Art. 37) must, in addition to the details listed in Article 67, specify the pledged asset in the request for debt enforcement. In addition, the following must be stated in the request where applicable:
 
 - a. the name of the third party who created the pledge or acquired ownership of the pledged asset;
-- b.[^151-2] the use of pledged immovable property as a family home (Art. 169 CC[^151-3]) or as a joint home (Art. 14 Same-Sex Partnership Act of 18 June 2004[^151-4]) for the debtor or the third party.
+- [tab] b.[^151-2] the use of pledged immovable property as a family home (Art. 169 CC[^151-3]) or as a joint home (Art. 14 Same-Sex Partnership Act of 18 June 2004[^151-4]) for the debtor or the third party.
 
 <sup>2</sup> If a creditor initiates debt enforcement proceedings on the basis of a pledge on which a third party has a subordinate pledge (Art. 886 CC), the creditor must notify the third party of the initiation of the debt enforcement proceedings.
 
@@ -2496,7 +2500,7 @@ On receipt of the request for debt enforcement, the debt enforcement office shal
 
 [^152-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^152-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^152-3]: Inserted by Art. 58 Final Title CC ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^152-3]: Inserted by Art. 58 Final Title CC ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ### 2. Official copies. Status of a third-party owner of the pledged asset
 
@@ -2509,7 +2513,7 @@ On receipt of the request for debt enforcement, the debt enforcement office shal
 The debt enforcement office shall also serve a summons for payment on the following persons:
 
 - a. a third party who has created the pledge or acquired ownership of the pledged asset;
-- b.[^153-2] the spouse, the registered partner of the debtor or the third party if pledged immovable property serves as a family home (Art. 169 CC[^153-3]) or as a joint home (Art. 14 Same-Sex Partnership Act of 18 June 2004[^153-4]).
+- [tab] b.[^153-2] the spouse, the registered partner of the debtor or the third party if pledged immovable property serves as a family home (Art. 169 CC[^153-3]) or as a joint home (Art. 14 Same-Sex Partnership Act of 18 June 2004[^153-4]).
 
 <sup>2bis</sup> The persons referred to in paragraph 2 may file an objection to the summons in the same way as the debtor.[^153-5]
 
@@ -2522,7 +2526,7 @@ The debt enforcement office shall also serve a summons for payment on the follow
 [^153-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^153-4]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^153-5]: Inserted by Annex No 16 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^153-6]: Inserted by Art. 58 Final Title CC ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^153-6]: Inserted by Art. 58 Final Title CC ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^153-7]: Originally para. 3.
 
 ### C. Objection to the summons. Cancellation of the notice to tenants and lessees
@@ -2538,7 +2542,7 @@ The debt enforcement office shall also serve a summons for payment on the follow
 <sup>3</sup> If he does not comply with these deadlines, notice to tenants and lessees shall be cancelled.
 
 [^153a-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^153a-2]: Term pursuant to Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). This amendment has been made throughout the text.
+[^153a-2]: Term pursuant to Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)). This amendment has been made throughout the text.
 
 ### D. Deadlines for realisation
 
@@ -2601,7 +2605,7 @@ The debt enforcement office shall also serve a summons for payment on the follow
 
 [^158-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^158-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^158-3]: Amended by no II 4 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and Other Amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
+[^158-3]: Amended by No II 4 of the FA of 11 Dec. 2009 (Register Mortgage Certificates and Other Amendments to Property Law), in force since 1 Jan. 2012 ([AS 2011 4637](https://fedlex.data.admin.ch/eli/oc/2011/666); [BBl 2007 5283](https://fedlex.data.admin.ch/eli/fga/2007/756)).
 [^158-4]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
 ## Title Five Enforcement through Bankruptcy
@@ -2646,7 +2650,7 @@ The notice of impending bankruptcy contains:
 
 <sup>2</sup> A copy thereof shall be served on the creditor as soon as service has been effected on the debtor.
 
-<sup>3</sup> …[^161-2]
+<sup>3</sup> ...[^161-2]
 
 [^161-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^161-2]: Repealed by No I of the FA of 16 Dec. 1994, with effect from 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -2665,7 +2669,7 @@ The court responsible for opening bankruptcy proceedings (bankruptcy court) shal
 
 <sup>1</sup> The debt enforcement office shall record the inventory of assets. It may not begin until the notice of impending bankruptcy has been served, except in the cases referred to in Articles 83 paragraph 1 and 183.[^163-1]
 
-<sup>2</sup> Articles 90-92 apply accordingly.
+<sup>2</sup> Articles 90–92 apply accordingly.
 
 [^163-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -2742,7 +2746,7 @@ Immediately after the petition for bankruptcy has been filed, the court may issu
 
 [^171-1]
 
-The court shall issue its decision without delay, even in the absence of the parties. It shall declare bankruptcy unless one of the cases mentioned in Articles 172-173*a* applies.
+The court shall issue its decision without delay, even in the absence of the parties. It shall declare bankruptcy unless one of the cases mentioned in Articles 172–173*a* applies.
 
 [^171-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -2783,7 +2787,7 @@ The court shall dismiss the bankruptcy petition:
 
 <sup>2</sup> The court may also defer the decision on bankruptcy *ex officio* if direct debt restructuring or the conclusion of a composition agreement appears to be possible; it shall transfer the files to the composition court.[^173a-3]
 
-<sup>3</sup> …[^173a-4]
+<sup>3</sup> ...[^173a-4]
 
 [^173a-1]: Inserted by Art. 12 of the FA of 28 Sept. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)). Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^173a-2]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
@@ -2877,11 +2881,11 @@ The summons for payment shall contain:
 - 1\. the details of the request for debt enforcement;
 - 2\.[^178-1] the request to satisfy the creditor within five days by settling the claim including debt enforcement costs;
 - 3\.[^178-2] notice that the debtor may file an objection to the summons (Art. 179) or file an appeal with the supervisory authority for failure to comply with the law (Arts 17 and 20);
-- 4\.[^178-3] notice that the creditor may file a petition for bankruptcy if the debtor fails to comply with the summons even though he has not filed an objection to the summons or his objection to the summons has been set aside (Art. 188).
+- [tab] 4.[^178-3] notice that the creditor may file a petition for bankruptcy if the debtor fails to comply with the summons even though he has not filed an objection to the summons or his objection to the summons has been set aside (Art. 188).
 
 <sup>3</sup> Articles 70 and 72 apply.
 
-[^178-1]: Amended by Art. 15 para. 4 Final and Transitional Provisions to Titles XXIV-XXXIII CO, in force since 1 July 1937([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
+[^178-1]: Amended by Art. 15 para. 4 Final and Transitional Provisions to Titles XXIV–XXXIII CO, in force since 1 July 1937([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253); [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
 [^178-2]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^178-3]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -2937,11 +2941,11 @@ The court shall approve the objection to the summons for payment:
 
 #### Art. 183
 
-<sup>1</sup> If the court refuses to approve the objection to the summons for payment, it may take interim measures, and in particular order the recording of an inventory of assets in accordance with Articles 162-165.
+<sup>1</sup> If the court refuses to approve the objection to the summons for payment, it may take interim measures, and in particular order the recording of an inventory of assets in accordance with Articles 162–165.
 
 <sup>2</sup> If necessary, the court may also require the creditor to provide security.[^183-1]
 
-[^183-1]: Amended by Art. 15 para. 6 Final and Transitional Provisions to Titles XXIV-XXXIII CO, in force since 1 July 1937([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253), [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
+[^183-1]: Amended by Art. 15 para. 6 Final and Transitional Provisions to Titles XXIV–XXXIII CO, in force since 1 July 1937([AS 53 185](https://fedlex.data.admin.ch/eli/oc/53/185_185_189); [BBl 1928 I 205](https://fedlex.data.admin.ch/eli/fga/1928/1_205_233_253); [1932 I 217](https://fedlex.data.admin.ch/eli/fga/1932/1_217__)).
 
 ### 6. Notice of the decision. Time limit for filing an action in the case of a deposit
 
@@ -3008,7 +3012,7 @@ A creditor may request the court to declare bankruptcy without prior debt enforc
 
 - 1\. against any debtor whose whereabouts are unknown or who has fled in order to evade his debts, or who has committed or attempted to commit fraudulent acts to the detriment of creditors, or who has concealed any of his assets in the course of debt enforcement proceedings by distraint;
 - 2\. against a debtor subject to debt enforcement through bankruptcy who has stopped making payments;
-- 3\.[^190-1] …
+- 3\.[^190-1] ...
 
 <sup>2</sup> If the debtor lives in Switzerland or has a representative in Switzerland, he shall be summoned to court within a short period of time and questioned.
 
@@ -3062,7 +3066,7 @@ The competent authority shall notify the bankruptcy court if:
 
 [^194-1]
 
-<sup>1</sup> Articles 169, 170 and 173*a*-176 apply to bankruptcies that have been declared without prior debt enforcement proceedings. However, if bankruptcy is declared in accordance with Article 192, Article 169 does not apply.
+<sup>1</sup> Articles 169, 170 and 173*a*–176 apply to bankruptcies that have been declared without prior debt enforcement proceedings. However, if bankruptcy is declared in accordance with Article 192, Article 169 does not apply.
 
 <sup>2</sup> Notification of the Commercial Register Office (Art. 176) is not required if the debtor is not subject to debt enforcement through bankruptcy.
 
@@ -3127,7 +3131,7 @@ Assets subject to pledge shall be included in the bankruptcy estate, subject to 
 
 <sup>1</sup> Assets secured by a pledge which have not been realised by the time of declaration of bankruptcy and attached assets shall be included in the bankruptcy estate.
 
-<sup>2</sup> However, distrained cash amounts, amounts surrendered in the case of distraint proceedings of claims and income and the proceeds of assets already realised shall be distributed in accordance with Articles 144-150, provided the time limits for participating in distraint proceedings (Arts 110 and 111) have expired; any surplus falls into the bankruptcy estate.[^199-1]
+<sup>2</sup> However, distrained cash amounts, amounts surrendered in the case of distraint proceedings of claims and income and the proceeds of assets already realised shall be distributed in accordance with Articles 144–150, provided the time limits for participating in distraint proceedings (Arts 110 and 111) have expired; any surplus falls into the bankruptcy estate.[^199-1]
 
 [^199-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3135,7 +3139,7 @@ Assets subject to pledge shall be included in the bankruptcy estate, subject to 
 
 #### Art. 200
 
-The bankruptcy estate also includes any assets and claims that are subject of an action for avoidance in accordance with Articles 214 and 285-292.
+The bankruptcy estate also includes any assets and claims that are subject of an action for avoidance in accordance with Articles 214 and 285–292.
 
 ### 5. Bearer securities and instruments to order
 
@@ -3213,7 +3217,7 @@ If the debtor has sold an item that does not belong to him and has still to rece
 
 <sup>2</sup> A five per cent discount is applied to non-interest-bearing claims that are not yet due.
 
-[^208-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^208-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### B. Interest
 
@@ -3235,7 +3239,7 @@ If the debtor has sold an item that does not belong to him and has still to rece
 
 <sup>1</sup> Claims subject to a condition precedent shall be admitted in bankruptcy for the full amount; however, the creditor is not entitled to receive his share of the bankruptcy estate unless the condition has been met.
 
-<sup>2</sup> Article 518 paragraph 3 CO applies to life annuity claims[^210-2].
+<sup>2</sup> Article 518 paragraph 3 CO[^210-2] applies to life annuity claims.
 
 [^210-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^210-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
@@ -3291,16 +3295,16 @@ A seller who has transferred the sold item to the debtor before bankruptcy is de
 However, offsetting is not permitted:
 
 - 1\.[^213-1] if a debtor of the bankrupt becomes his creditor only after bankruptcy is declared, unless the debtor has fulfilled an obligation entered into beforehand or redeemed an item that is liable as a pledge for the debtor’s debt and to which it is entitled to ownership or a limited right in rem (Art. 110 no 1 CO[^213-2]);
-- 2\. if a creditor of the debtor only becomes a debtor of the debtor or the bankruptcy estate after bankruptcy is declared.
-- 3\.[^213-3] …
+- 2\. if a creditor of the debtor only becomes a debtor of the debtor or the bankruptcy estate after bankruptcy is declared;
+- 3\.[^213-3] ...
 
 <sup>3</sup> Offsetting against claims arising from bearer securities is permitted if and insofar as the creditor proves that he acquired them in good faith prior to bankruptcy being declared.[^213-4]
 
-<sup>4</sup> In the event of the bankruptcy of a limited partnership, a company limited by shares, a partnership limited by shares, a limited liability company or a co-operative, the partners’ specific contributions or the share capital that have not been fully paid up and contributions to the co-operative may not be offset.[^213-5] [^213-6]
+<sup>4</sup> In the event of the bankruptcy of a limited partnership, a company limited by shares, a partnership limited by shares, a limited liability company or a co-operative, the partners’ specific contributions or the share capital that have not been fully paid up and contributions to the co-operative may not be offset.[^213-5]<sup>,</sup> [^213-6]
 
 [^213-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^213-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^213-3]: Repealed by Art. 13 of the FA of 28 Sept. 1949 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
+[^213-3]: Repealed by Art. 13 of the FA of 28 Sept. 1949, with effect from 1 Feb. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-4]: Inserted by Art. 13 of the FA of 28 Sept. 1949, in force since 1 Feb. 1950 (AS **1950** I 57; [BBl 1948 I 1218](https://fedlex.data.admin.ch/eli/fga/1948/1_1218_1201_)).
 [^213-5]: Originally para. 3.
 [^213-6]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -3370,7 +3374,7 @@ Offsetting may be contested if a debtor of the bankrupt[^214-1] has acquired a c
 
 <sup>4</sup> Claims not secured by a pledge and the unsecured portion of claims secured by a pledge shall be covered from the proceeds of the entire remaining bankruptcy estate in the following order of priority:
 
-[^219-subdivu1-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_), [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
+[^219-subdivu1-1]: Amended by Art. 58 Final Title CC, in force since 1 Jan. 1912 ([AS 24 233](https://fedlex.data.admin.ch/eli/oc/24/233_245_233)Art. 60 Final Title CC; [BBl 1904 IV 1](https://fedlex.data.admin.ch/eli/fga/1904/4_1_1_); [1907 VI 367](https://fedlex.data.admin.ch/eli/fga/1907/6_367__)).
 
 ### First class
 
@@ -3380,9 +3384,9 @@ Offsetting may be contested if a debtor of the bankrupt[^214-1] has acquired a c
 - b. The claims of insured persons under the Federal Act of 20 March 1981[^219-subdivu2-4] on Accident Insurance and from non-mandatory occupational benefit schemes and the claims of employee benefit schemes as against affiliated employers.
 - c.[^219-subdivu2-5] Maintenance and support claims under family law and maintenance contributions under the Same-Sex Partnership Act of 18 June 2004[^219-subdivu2-6] that arose in the six months prior to bankruptcy being declared and are to be satisfied by monetary payments.
 
-[^219-subdivu2-1]: Amended by No I of the FA of 18 June 2010, in force since 1 Dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). See also the transitional provision at the end of the text.
-[^219-subdivu2-2]: Inserted by No I of the FA of 18 June 2010, in force since 1 Dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). See also the transitional provision at the end of the text.
-[^219-subdivu2-3]: Inserted by No I of the FA of 18 June 2010, in force since 1 Dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). See also the transitional provision at the end of the text.
+[^219-subdivu2-1]: Amended by No I of the FA of 18 June 2010, in force since 1 Dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398), [7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). See also the transitional provision at the end of the text.
+[^219-subdivu2-2]: Inserted by No I of the FA of 18 June 2010, in force since 1 Dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398), [7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). See also the transitional provision at the end of the text.
+[^219-subdivu2-3]: Inserted by No I of the FA of 18 June 2010, in force since 1 Dec. 2010 ([AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398), [7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)). See also the transitional provision at the end of the text.
 [^219-subdivu2-4]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^219-subdivu2-5]: Amended by Annex No 16 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^219-subdivu2-6]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
@@ -3404,7 +3408,7 @@ Offsetting may be contested if a debtor of the bankrupt[^214-1] has acquired a c
 [^219-subdivu3-3]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^219-subdivu3-4]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^219-subdivu3-5]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
-[^219-subdivu3-6]: Inserted by Art. 111 no 2 of the Value Added Tax Act of 12 June 2009 ([AS 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [BBl 2008 6885](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Repealed by No I of the FA of 21 June 2013, with effect from 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
+[^219-subdivu3-6]: Inserted by Art. 111 No 2 of the Value Added Tax Act of 12 June 2009 ([AS 2009 5203](https://fedlex.data.admin.ch/eli/oc/2009/615); [BBl 2008 6885](https://fedlex.data.admin.ch/eli/fga/2008/1202)). Repealed by No I of the FA of 21 June 2013, with effect from 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^219-subdivu3-7]: Inserted by Annex No 2 of the FA of 18 March 2011 (Safeguarding of Deposits), in force since 1 Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^219-subdivu3-8]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 
@@ -3603,7 +3607,7 @@ The bankruptcy office shall apply to the bankruptcy court for summary proceeding
 Summary bankruptcy proceedings shall be conducted in accordance with the provisions governing ordinary proceedings, subject to the following exceptions:
 
 - Creditors’ meetings are generally not convened. However, if it appears desirable to hear the creditors because of special circumstances, the bankruptcy office may invite them to a meeting or obtain a creditor resolution by circular letter.
-- 2\. On expiry of the time limit for filing (Art. 232 para. 2 no 2), the bankruptcy office shall carry out the realisation; it shall take account of Article 256 paragraphs 2-4 and safeguard the interests of creditors as far as possible. It may only realise immovable property once the list of encumbrances has been drawn up.
+- 2\. On expiry of the time limit for filing (Art. 232 para. 2 no 2), the bankruptcy office shall carry out the realisation; it shall take account of Article 256 paragraphs 2–4 and safeguard the interests of creditors as far as possible. It may only realise immovable property once the list of encumbrances has been drawn up.
 - 3\. The bankruptcy office shall designate the items essential for subsistence in the inventory and publish it together with the schedule of claims.
 - 4\. the distribution list need not be published.
 
@@ -3744,7 +3748,7 @@ The bankruptcy administration is responsible for all transactions relating to th
 
 [^241-1]
 
-Articles 8-11, 13, 14 paragraph 2 numbers 1, 2 and 4 as well as Articles 17-19, 34 and 35 also apply to a non-official bankruptcy administration.
+Articles 8–11, 13, 14 paragraph 2 numbers 1, 2 and 4 as well as Articles 17–19, 34 and 35 also apply to a non-official bankruptcy administration.
 
 [^241-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -3881,10 +3885,10 @@ Rejected claims shall also be noted in the schedule of claims, together with the
 
 <sup>2</sup> If he wishes to contest the admission or ranking of another creditor, he must bring the action against that creditor. If the court approves the claim, the amount by which the defendant’s share of the bankruptcy estate is reduced shall serve to satisfy the plaintiff’s claim up to its full amount, including the legal costs. Any surplus shall be distributed in accordance with the revised schedule of claims.
 
-<sup>3</sup> …[^250-2]
+<sup>3</sup> ...[^250-2]
 
 [^250-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^250-2]: Repealed by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^250-2]: Repealed by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, with effect from 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 5. Late filing of claims
 
@@ -3955,7 +3959,7 @@ Further creditors’ meetings shall be convened if a quarter of the creditors or
 
 <sup>2</sup> If not all creditors are known to the bankruptcy administration, it may also give public notice of its proposals.
 
-[^255a-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
+[^255a-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); BBl **1991** III 11).
 
 ### D. Method of realisation
 
@@ -3967,7 +3971,7 @@ Further creditors’ meetings shall be convened if a quarter of the creditors or
 
 <sup>3</sup> Assets of significant value and immovable property may only be sold privately if the creditors have first been given the opportunity to make higher offers.[^256-1]
 
-<sup>4</sup> Avoidance claims under Articles 286-288 may not be auctioned or otherwise disposed of.[^256-2]
+<sup>4</sup> Avoidance claims under Articles 286–288 may not be auctioned or otherwise disposed of.[^256-2]
 
 [^256-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^256-2]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -4003,7 +4007,7 @@ Further creditors’ meetings shall be convened if a quarter of the creditors or
 
 [^259-1]
 
-Articles 128, 129, 132*a*, 134-137 and 143 apply *mutatis mutandis* to the auction terms. The debt enforcement office is replaced by the bankruptcy administration.
+Articles 128, 129, 132*a*, 134–137 and 143 apply *mutatis mutandis* to the auction terms. The debt enforcement office is replaced by the bankruptcy administration.
 
 [^259-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -4067,7 +4071,7 @@ After receipt of the proceeds of the entire bankruptcy estate and after the sche
 
 <sup>2</sup> The unpaid debt certificate entitles the holder to carry out an attachment and has the legal effects specified in Articles 149 paragraph 4 and 149*a*. However, new debt enforcement proceedings may only be initiated on the basis of the certificate if the debtor has acquired new assets. New assets also include assets over which the debtor has economic control.[^265-1]
 
-<sup>3</sup> …[^265-2]
+<sup>3</sup> ...[^265-2]
 
 [^265-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 [^265-2]: Repealed by No I of the FA of 16 Dec. 1994, with effect from 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
@@ -4087,8 +4091,8 @@ After receipt of the proceeds of the entire bankruptcy estate and after the sche
 <sup>4</sup> The debtor and the creditor may file an action to contest or establish the new assets in the court at the place of debt enforcement within 20 days of receiving notice of the decision on the objection.[^265a-3]
 
 [^265a-1]: Inserted by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^265a-2]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^265a-3]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^265a-2]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^265a-3]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 3. Exclusion of declaration of bankruptcy at the request of the debtor
 
@@ -4173,12 +4177,12 @@ The creditor may request that assets of a debtor that are located in Switzerland
 
 <sup>3</sup> In the case referred to in paragraph 1 number 6, the court shall also decide on the enforceability of foreign judgments that are to be enforced in accordance with the Convention of 30 October 2007[^271-5] on Jurisdiction and the Recognition and Enforcement of Judgments in Civil and Commercial Matters.[^271-6]
 
-[^271-1]: Amended by Art. 3 no 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
-[^271-2]: Amended by Art. 3 no 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^271-1]: Amended by Art. 3 No 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^271-2]: Amended by Art. 3 No 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-3]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^271-4]: Inserted by Art. 3 no 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^271-4]: Inserted by Art. 3 No 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 [^271-5]: [SR 0.275.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1256)
-[^271-6]: Amended by Art. 3 no 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^271-6]: Amended by Art. 3 No 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### B. Authorisation of attachment
 
@@ -4197,7 +4201,7 @@ Attachment shall be authorised by the court at the place of debt enforcement or 
 <sup>2</sup> If the creditor is domiciled abroad and does not designate a place of service in Switzerland, the place of service is the debt enforcement office.
 
 [^272-1]: Amended by No I of the FA of 16 Dec. 1994, in force since 1 Jan. 1997 ([AS 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [BBl 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^272-2]: Amended by Art. 3 no 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^272-2]: Amended by Art. 3 No 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### C. Liability for loss or damage due to attachment
 
@@ -4227,7 +4231,7 @@ The attachment order shall contain:
 - 4\. details of the items to be attached;
 - 5\. reference to the creditor’s liability for damages and, if applicable, to the security he is required to provide.
 
-[^274-1]: Amended by Art. 3 no 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^274-1]: Amended by Art. 3 No 2 of the FedD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### E. Execution of the attachment
 
@@ -4345,7 +4349,7 @@ The attachment shall cease to have effect if the creditor:
 <sup>3</sup> The debt enforcement office shall draw up a list of the items subject to the lien and set the creditor a deadline for initiating debt enforcement proceedings to realise a pledge.
 
 [^283-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^283-2]: Amended by No II Art. 3 of the FA of 15 Dec. 1989 on the Amendment of the Swiss Code of Obligations (Lease and Usufructuary Lease), in force since 1 July 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201), Final Provision to Title VIII and VIII<sup>bis</sup>).
+[^283-2]: Revised by No II Art. 3 of the FA of 15 Dec. 1989 on the Amendment of the Swiss Code of Obligations (Lease and Usufructuary Lease), in force since 1 July 1990 ([AS 1990 802](https://fedlex.data.admin.ch/eli/oc/1990/802_802_802); [BBl 1985 I 1389](https://fedlex.data.admin.ch/eli/fga/1985/1_1389_1369_1201); Final Provision to Title VIII and VIII<sup>bis</sup>).
 
 ### Return of objects
 
@@ -4353,7 +4357,7 @@ The attachment shall cease to have effect if the creditor:
 
 If objects have been removed secretly or by force, they may be returned to the rented or leased premises with the help of the police within ten days of their removal. The rights of third parties acting in good faith are reserved. In the event of any dispute, the court shall decide.[^284-1]
 
-[^284-1]: Version of the third sentence pursuant to Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^284-1]: Version of the third sentence pursuant to Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ## Title Nine<sup>bis</sup> Special Provisions on Trusts
 
@@ -4535,7 +4539,7 @@ The right to seek avoidance becomes time-barred:
 
 <sup>2</sup> When recognising a foreign bankruptcy decree, the time between the application for recognition and publication in accordance with Article 169 PILA[^292-2] is not taken into account.
 
-[^292-1]: Amended by no III of the FA of 15 June 2018 (Revision of the Statute of Limitations), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^292-1]: Amended by No III of the FA of 15 June 2018 (Revision of the Statute of Limitations), in force since 1 Jan. 2020 ([AS 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [BBl 2014 235](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^292-2]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 ## Title Eleven Composition Proceedings
@@ -4653,7 +4657,7 @@ The commissioner shall have the following duties in particular:
 
 <sup>3</sup> The composition court may assign the commissioner further duties.
 
-<sup>4</sup> Articles 8, 8*a*, 10, 11, 14, 17-19, 34 and 35 apply *mutatis mutandis* to the commissioner’s management.[^295-2]
+<sup>4</sup> Articles 8, 8*a*, 10, 11, 14, 17–19, 34 and 35 apply *mutatis mutandis* to the commissioner’s management.[^295-2]
 
 [^295-1]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^295-2]: Inserted by Annex No 4 of the FA of 19 June 2020 (Company Law), in force since 1 Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
@@ -4832,7 +4836,9 @@ The debtor may, with the consent of the commissioner, terminate a long-term cont
 
 [^301-1]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 
-#### Art. 301a-301d
+#### Art. 301a
+
+**– **301***d***
 
 Repealed
 
@@ -4901,7 +4907,7 @@ The composition agreement is accepted if it has been approved by the time of the
 
 [^305-1]: Amended by No I of the FA of 21 June 2013, in force since 1 Jan. 2014 ([AS 2013 4111](https://fedlex.data.admin.ch/eli/oc/2013/757); [BBl 2010 6455](https://fedlex.data.admin.ch/eli/fga/2010/1144)).
 [^305-2]: Amended by Annex No 16 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^305-3]: BS **3 3**
+[^305-3]: BS **3** 3
 
 ### B. Confirmation decision
 
@@ -4915,8 +4921,8 @@ The composition agreement is accepted if it has been approved by the time of the
 
 Confirmation of the composition agreement is subject to the following requirements:
 
-- 1\. the value of the payments offered must be in the right proportion to the debtor’s capabilities; the composition court may also take into account the debtor’s expectancies when assessing these.
-- 2\. the full satisfaction of the registered privileged creditors and the fulfilment of the liabilities incurred during the moratorium with the consent of the commissioner must be adequately secured, unless individual creditors expressly waive security for their claim; Article 305 paragraph 3 applies *mutatis mutandis*.
+- 1\. The value of the payments offered must be in the right proportion to the debtor’s capabilities; the composition court may also take into account the debtor’s expectancies when assessing these.
+- 2\. The full satisfaction of the registered privileged creditors and the fulfilment of the liabilities incurred during the moratorium with the consent of the commissioner must be adequately secured, unless individual creditors expressly waive security for their claim; Article 305 paragraph 3 applies *mutatis mutandis*.
 - 3\. In the case of an ordinary composition agreement (Art. 314 para. 1), the shareholders must make an appropriate restructuring contribution.
 
 <sup>2</sup> The composition court may amend an inadequate arrangement on request or *ex officio*.
@@ -5017,7 +5023,7 @@ Any promise in which the debtor offers a creditor more than he is entitled to un
 
 <sup>1</sup> Any creditor may request the composition court to revoke a composition agreement that was concluded in bad faith (Arts 20, 28, 29 CO[^313-1]).
 
-<sup>2</sup> Articles 307-309 apply *mutatis mutandis*.
+<sup>2</sup> Articles 307–309 apply *mutatis mutandis*.
 
 [^313-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
@@ -5065,7 +5071,9 @@ Any promise in which the debtor offers a creditor more than he is entitled to un
 
 #### Art. 318
 
-<sup>1</sup> The composition agreement shall contain provisions on
+<sup>1</sup>
+
+The composition agreement shall contain provisions on:
 
 - 1\. the waiver by the creditors of the amount of the claim not covered by the liquidation proceeds or by the proceeds from transferring the assets or the precise regulation of their right to make supplementary claims;
 - 2\. the appointment of the liquidators and the number of members of the creditors’ committee as well as the extent of their respective powers;
@@ -5085,7 +5093,7 @@ Any promise in which the debtor offers a creditor more than he is entitled to un
 
 <sup>1</sup> When confirmation of the composition agreement with assignment of assets becomes enforceable, the debtor’s right of disposal and the signatory powers of the previously authorised persons lapse.[^319-1]
 
-<sup>2</sup> If the debtor is entered in the commercial register, the words "in composition liquidation" must be added to the business name. The estate can be made subject to debt enforcement proceedings under this name for debts not covered by the composition agreement.
+<sup>2</sup> If the debtor is entered in the commercial register, the words «in composition liquidation» must be added to the business name. The estate can be made subject to debt enforcement proceedings under this name for debts not covered by the composition agreement.
 
 <sup>3</sup> The liquidators must carry out all the transactions required to preserve and realise the assets and for any transfer of the assigned assets.
 
@@ -5109,7 +5117,7 @@ Any promise in which the debtor offers a creditor more than he is entitled to un
 
 <sup>1</sup> In order to establish which creditors are participating in the liquidation result and their ranking and without making an additional call to creditors, a schedule of claims shall be drawn up by the liquidators based on the debtor’s business accounts and the submissions made and shall be made available for inspection by the creditors.
 
-<sup>2</sup> Articles 244-251 apply *mutatis mutandis*.
+<sup>2</sup> Articles 244–251 apply *mutatis mutandis*.
 
 ### F. Realisation
 
@@ -5125,7 +5133,7 @@ Any promise in which the debtor offers a creditor more than he is entitled to un
 
 #### Art. 323
 
-With the exception of cases in which the assets have been assigned to a third party, pledged immovable property may only be sold by private sale with the consent of the mortgagees whose claims are not covered by the purchase price. Otherwise, the property must be realised by public auction (Arts 134-137, 142, 143, 257 and 258). The schedule of claims (Art. 321) is decisive for the existence and ranking of the encumbrances on the property (easements, real burdens, mortgages and registered personal rights).
+With the exception of cases in which the assets have been assigned to a third party, pledged immovable property may only be sold by private sale with the consent of the mortgagees whose claims are not covered by the purchase price. Otherwise, the property must be realised by public auction (Arts 134–137, 142, 143, 257 and 258). The schedule of claims (Art. 321) is decisive for the existence and ranking of the encumbrances on the property (easements, real burdens, mortgages and registered personal rights).
 
 ### 3. Pledges of chattels
 
@@ -5187,9 +5195,9 @@ A final account, including details of the costs shall be made available for insp
 
 #### Art. 331
 
-<sup>1</sup> Legal acts performed by the debtor prior to confirmation of the composition agreement shall be subject to avoidance in accordance with the principles of Articles 285-292.
+<sup>1</sup> Legal acts performed by the debtor prior to confirmation of the composition agreement shall be subject to avoidance in accordance with the principles of Articles 285–292.
 
-<sup>2</sup> The deadlines in accordance with Articles 286-288 shall be calculated on the basis of the date of authorisation of a composition moratorium instead of distraint or the declaration of bankruptcy.[^331-1]
+<sup>2</sup> The deadlines in accordance with Articles 286–288 shall be calculated on the basis of the date of authorisation of a composition moratorium instead of distraint or the declaration of bankruptcy.[^331-1]
 
 <sup>3</sup> Insofar as avoidance claims by the estate lead to the full or partial rejection of claims, the liquidators shall be authorised and required to assert them as a defence.
 
@@ -5201,7 +5209,7 @@ A final account, including details of the costs shall be made available for insp
 
 <sup>1</sup> The debtor or a creditor may propose a composition agreement. The bankruptcy administration shall assess the proposal for submission to the creditors’ meeting. The negotiations on the same shall take place at the earliest at the second creditors’ meeting.[^332-1]
 
-<sup>2</sup> Articles 302-307 and 310-331 apply *mutatis mutandis*. However, the commissioner is replaced by the bankruptcy administration. Realisation is suspended until the composition court has decided on the confirmation of the composition agreement.
+<sup>2</sup> Articles 302–307 and 310–331 apply *mutatis mutandis*. However, the commissioner is replaced by the bankruptcy administration. Realisation is suspended until the composition court has decided on the confirmation of the composition agreement.
 
 <sup>3</sup> The decision on the composition agreement shall be communicated to the bankruptcy administration. If the composition agreement is confirmed, the bankruptcy administration shall apply to the bankruptcy court for revocation of the bankruptcy.
 
@@ -5301,7 +5309,7 @@ The provisions of this Title may, in exceptional circumstances, in particular in
 
 [^340-1]: [SR 272](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6136)
 [^340-2]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^340-3]: Amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^340-3]: Amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### 4. Protective measures
 
@@ -5383,7 +5391,7 @@ The moratorium shall be revoked by the composition court at the request of a cre
 
 <sup>3</sup> If the moratorium is revoked in accordance with numbers 2 or 3, neither a composition moratorium nor a further emergency moratorium may be authorised.
 
-[^348-1]: Second sentence amended by Annex 1 no II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^348-1]: Second sentence amended by Annex 1 No II 17 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### F. Relationship with the composition moratorium
 
@@ -5424,7 +5432,7 @@ The moratorium shall be revoked by the composition court at the request of a cre
 
 The Federal Council is instructed to organise the publication of this Act in accordance with the provisions of the Federal Act of 17 June 1874[^352-1] on Popular Votes on Federal Acts and Federal Decrees.
 
-[^352-1]: [BS **1 173**; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 para. 3 [AS 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 89 let. b]
+[^352-1]: [BS **1** 173; [AS 1962 789](https://fedlex.data.admin.ch/eli/oc/1962/789_827_848)Art. 11 para. 3 [AS 1978 688](https://fedlex.data.admin.ch/eli/oc/1978/688_688_688)Art. 89 let. b]
 
 ## Final Provisions to the Amendment of 16 December 1994
 
@@ -5473,7 +5481,7 @@ The Federal Council shall determine the commencement date.
 
 [^u2-1]
 
-[^u2-1]: [AS 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [BBl 1999 9126](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077)[9547](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)
+[^u2-1]: [AS 2000 2531](https://fedlex.data.admin.ch/eli/oc/2000/401); [BBl 1999 9126](https://fedlex.data.admin.ch/eli/fga/1999/1_9126_8486_8077), [9547](https://fedlex.data.admin.ch/eli/fga/1999/1_9547_8886_8458)
 
 The privileges under the previous law (Arts 146 and 219) continue to apply if bankruptcy is declared, distraint is executed or the moratorium on debt enforcement is authorised before this Act comes into force.
 
@@ -5481,11 +5489,11 @@ The privileges under the previous law (Arts 146 and 219) continue to apply if ba
 
 [^u3-1]
 
-[^u3-1]: [AS 2004 4031](https://fedlex.data.admin.ch/eli/oc/2004/588); [BBl 2003 6369](https://fedlex.data.admin.ch/eli/fga/2003/1029)[6377](https://fedlex.data.admin.ch/eli/fga/2003/1031)
+[^u3-1]: [AS 2004 4031](https://fedlex.data.admin.ch/eli/oc/2004/588); [BBl 2003 6369](https://fedlex.data.admin.ch/eli/fga/2003/1029), [6377](https://fedlex.data.admin.ch/eli/fga/2003/1031)
 
 The privileges under the previous law continue to apply if bankruptcy is declared, distraint is executed or the moratorium on debt enforcement is authorised before this Amendment comes into force.
 
-## Final Provision to the Amendment of 17 June 2005
+## Final Provision to the Amendment of 17 June 2005<sup>,</sup>
 
 [^u4-1][^u4-2]
 
@@ -5498,7 +5506,7 @@ The implementing ordinances of the Federal Supreme Court remain in force to the 
 
 [^u5-1]
 
-[^u5-1]: [AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398)[7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)
+[^u5-1]: [AS 2010 4921](https://fedlex.data.admin.ch/eli/oc/2010/688); [BBl 2009 7979](https://fedlex.data.admin.ch/eli/fga/2009/1398), [7989](https://fedlex.data.admin.ch/eli/fga/2009/1400)
 
 The privileges under the previous law continue to apply if bankruptcy is declared, distraint is executed or the moratorium on debt enforcement is authorised before this Amendment comes into force.
 
@@ -5516,4 +5524,4 @@ The previous law applies to the composition proceedings if the application for a
 
 [^u7-1]: [AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)
 
-Composition moratoriums granted before the Amendment of 19 June 2020 came into force are subject to the previous law.
+Composition moratoriums granted before the Amendment of 19 June 2020 came into force are subject to the previous law..

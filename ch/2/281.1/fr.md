@@ -4,11 +4,11 @@ title: Loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la failli
 short: LP
 eli: "https://fedlex.data.admin.ch/eli/cc/11/529_488_529"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1889-04-11
 in_force: 1892-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20250101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/11/529_488_529/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-11-529_488_529-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/11/529_488_529/20250101/fr"
 
 (LP)[^t-1]
 
-du 11 avril 1889 (État le 1<sup>er</sup> janvier 2025)
+du 11 avril 1889 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
 
@@ -175,12 +175,12 @@ Les offices ne doivent pas porter à la connaissance de tiers:
 - a. les poursuites nulles ainsi que celles qui ont été annulées sur plainte ou à la suite d’un jugement;
 - b. les poursuites pour lesquelles le débiteur a obtenu gain de cause dans l’action en répétition de l’indu;
 - c. les poursuites retirées par le créancier;
-- d.[^8a-2] les poursuites pour lesquelles une demande du débiteur dans ce sens est faite à l’expiration d’un délai de trois mois à compter de la notification du commandement de payer, à moins que le créancier ne prouve, dans un délai de 20 jours imparti par l’office des poursuites, qu’une procédure d’annulation de l’opposition (art. 79 à 84) a été engagée à temps; lorsque la preuve est apportée par la suite, ou lorsque la poursuite est continuée, celle-ci est à nouveau portée à la connaissance de tiers.
+- d.[^8a-2] les poursuites frappées d’opposition pour lesquelles une demande du débiteur dans ce sens est faite à l’expiration d’un délai de trois mois à compter de la notification du commandement de payer et avant l’échéance du droit de consultation des tiers, à moins que le créancier ne prouve, dans un délai de 20 jours imparti par l’office des poursuites, qu’une procédure d’annulation de l’opposition (art. 79 à 84) a été engagée à temps; lorsque la preuve est apportée par la suite, ou lorsque la poursuite est continuée, celle-ci est à nouveau portée à la connaissance de tiers, à moins que le débiteur ne prouve qu’une demande d’annulation de l’opposition déposée par le créancier n’a pas été admise, et ce de manière définitive.
 
 <sup>4</sup> Le droit de consultation des tiers s’éteint cinq ans après la clôture de la procédure. Les autorités judiciaires et administratives peuvent encore, dans l’intérêt d’une procédure pendante devant elles, demander la délivrance d’un extrait.
 
 [^8a-1]: Introduit par le ch. I de la LF du 16 déc. 1994, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^8a-2]: Introduite par le ch. I de la LF du 16 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2943](https://fedlex.data.admin.ch/eli/fga/2015/692)[5305](https://fedlex.data.admin.ch/eli/fga/2015/1322)).
+[^8a-2]: Introduite par le ch. I de la LF du 16 déc. 2016 ([RO 2018 4583](https://fedlex.data.admin.ch/eli/oc/2018/721); [FF 2015 2943](https://fedlex.data.admin.ch/eli/fga/2015/692)[5305](https://fedlex.data.admin.ch/eli/fga/2015/1322)). Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Possibilité de ne pas communiquer les inscriptions dans le registre des poursuites), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 522](https://fedlex.data.admin.ch/eli/oc/2025/522); [FF 2024 1797](https://fedlex.data.admin.ch/eli/fga/2024/1797), [1978](https://fedlex.data.admin.ch/eli/fga/2024/1978)).
 
 ### F. Dépôt d’espèces et d’objets de prix
 
