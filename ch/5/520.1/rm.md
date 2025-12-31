@@ -4,11 +4,11 @@ title: Lescha federala dals 20 da december 2019 davart la protecziun da la popul
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: rm
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20250101-rm-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2020-887-20260101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPPCi)
 
-dals 20 da december 2019 (versiun dal 1. da schaner 2025)
+dals 20 da december 2019 (versiun dal 1. da schaner 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 57 alinea 2 e 61 da la Constituziun federala[^ingres
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2019 521](https://fedlex.data.admin.ch/eli/fga/2019/113)
 
 ## 1. titel Object
@@ -101,7 +101,24 @@ En cas d’alarm è mintga persuna obligada d’observar las ordinaziuns sco er 
 
 <sup>2</sup> Il Cussegl federal regla, tge mesiras che ston vegnir prendidas per proteger ils bains culturals en il sectur dals edifizis e da las installaziuns d’edifizis en vista ad eveniments gronds, a catastrofas, a situaziuns d’urgenza ed a conflicts armads.
 
+<sup>2bis</sup>
+
+En il sectur dal servetsch sanitar coordinà regla el:
+
+- a. l’instrucziun, la furmaziun supplementara, il perfecziunament e la perscrutaziun;
+- b. l’applicaziun dals meds dals posts che han l’incumbensa da planisar, preparar e realisar mesiras dal servetsch sanitar.[^6-1]
+
+<sup>2ter</sup>
+
+En il sectur da la coordinaziun dal traffic regla el:
+
+- a. tge posts che han l’incumbensa da planisar, preparar e realisar mesiras per la gestiun d’eveniments;
+- b. l’ordinaziun e la realisaziun da transports da persunas e da rauba prioritars per la gestiun d’eveniments.[^6-2]
+
 <sup>3</sup> El prenda mesiras per rinforzar la protecziun da la populaziun en cas da conflicts armads.
+
+[^6-1]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^6-2]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 7
 
@@ -149,9 +166,11 @@ Il UFPP è cumpetent per ils suandants sistems:
 
 <sup>3</sup> El maina ulteriurs sistems per derasar infurmaziuns ed instrucziuns da cumportament.
 
+<sup>3bis</sup> Ils chantuns mainan lieus d’inscunter d’urgenza. Il UFPP als sustegna en connex cun la coordinaziun.[^9-1]
+
 <sup>4</sup> La Confederaziun maina in radio per cas d’urgenza.
 
-<sup>5</sup> La Confederaziun procura ch’ils sistems tenor l’alinea 1 literas b e c sco er tenor ils alineas 2–4 sajan accessibels er per persunas cun impediments.
+<sup>5</sup> Ella procura ch’ils sistems tenor ils alineas 1 literas b e c sco er 2–4 sajan accessibels er per persunas cun impediments.[^9-2]
 
 <sup>6</sup>
 
@@ -159,6 +178,9 @@ Il Cussegl federal po delegar cumpetenzas legislativas al UFPP per reglar:
 
 - a. la derasaziun d’infurmaziuns e d’instrucziuns da cumportament;
 - b. ils aspects tecnics dals sistems per avertir las autoritads sco er per alarmar e per infurmar la populaziun ed ils aspects tecnics dal radio per cas d’urgenza.
+
+[^9-1]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^9-2]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 10
 
@@ -195,17 +217,21 @@ Il Labor Spiez è cumpetent en spezial per:
 
 <sup>3</sup> La Confederaziun po sustegnair las organisaziuns d’intervenziun ABC cun material d’intervenziun.
 
-<sup>4</sup> Ella maina ulteriuras organisaziuns d’intervenziun spezialisadas ordaifer il sectur ABC e las metta a disposiziun als posts pertutgads en cas d’in eveniment.
+<sup>4</sup> …[^12-1]
 
 <sup>5</sup> Il Cussegl federal po delegar cumpetenzas legislativas al UFPP per garantir ch’il material acquistà da la Confederaziun stettia a disposiziun per las intervenziuns.
+
+[^12-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 13
 
 **Perscrutaziun e svilup**
 
-<sup>1</sup> En collavuraziun cun ils chantuns e cun ulteriurs posts procura il UFPP per la perscrutaziun e per il svilup en il sectur la protecziun da la populaziun, en spezial en ils secturs da l’analisa da las periclitaziuns e da las ristgas, dal svilup tecnic sco er da la gestiun da catastrofas e da situaziuns d’urgenza.
+<sup>1</sup> En collavuraziun cun ils chantuns e cun ulteriurs posts procura il UFPP per la perscrutaziun e per il svilup da la protecziun da la populaziun, en spezial en ils secturs da l’analisa da las periclitaziuns e da las ristgas, dal svilup tecnic, da la medischina d’urgenza e da catastrofas sco er da la gestiun da catastrofas e da situaziuns d’urgenza.[^13-1]
 
 <sup>2</sup> En il rom da la perscrutaziun e dal svilup en il sectur da la protecziun da la populaziun collavura il UFPP cun partenaris naziunals ed internaziunals.
+
+[^13-1]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. chapitel Incumbensas dals chantuns e da terzas persunas
 
@@ -245,7 +271,7 @@ Ils chantuns èn cumpetents per las suandantas incumbensas directivas:
 
 <sup>3</sup> El po delegar cumpetenzas legislativas al UFPP per reglar ils aspects tecnics.
 
-[^17-1]: [SR 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
+[^17-1]: [SR 721.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8405)
 
 ### 4. chapitel Sistems da communicaziun cuminaivels da la Confederaziun, dals chantuns e da terzas persunas
 
@@ -339,9 +365,11 @@ La Confederaziun coordinescha sin plaun naziunal l’instrucziun dals appartegne
 - b. l’armada;
 - c. ils posts e las organisaziuns tenor l’artitgel 3 alinea 3.
 
-<sup>2</sup> Il UFPP procura per las purschidas d’instrucziun da basa e d’instrucziun supplementara per ils organs directivs chantunals.
+<sup>2</sup> Il UFPP procura per las purschidas d’instrucziun da basa e da furmaziun supplementara per ils organs directivs chantunals.
 
 <sup>3</sup> El procura per l’instrucziun areguard il diever da cumponentas da sistems da communicaziun en il sectur da la protecziun da la populaziun sco er dals sistems per avertir las autoritads e per alarmar ed infurmar la populaziun.
+
+<sup>3bis</sup> El po incumbensar terzas persunas da realisar instrucziuns, furmaziuns supplementaras, perfecziunaments sco er activitads da perscrutaziun.[^22-1]
 
 <sup>4</sup> Cun ils chantuns, cun terzas persunas e cun las autoritads cumpetentas da l’exteriur vischin po el concluder d’organisar ulteriuras instrucziuns ed ulteriurs exercizis.
 
@@ -350,6 +378,8 @@ La Confederaziun coordinescha sin plaun naziunal l’instrucziun dals appartegne
 <sup>6</sup> El maina in center d’instrucziun.
 
 <sup>7</sup> Il Cussegl federal regla las cumpetenzas en il sectur da l’instrucziun.
+
+[^22-1]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 6. chapitel Finanziaziun
 
@@ -425,9 +455,11 @@ Ils chantuns e las terzas persunas pertutgadas surpiglian ils suandants custs:
 La Confederaziun surpiglia ils custs per:
 
 - a. las atgnas activas da perscrutaziun e da svilup (art. 13);
-- b. las organisaziuns d’intervenziun spezialisadas (art. 12);
+- b.[^27-1] ...
 - c. il material d’intervenziun per las organisaziuns d’intervenziun ABC (art. 12 al. 3);
 - d. las atgnas activitads da la collavuraziun cun ils chantuns, cun las organisaziuns partenarias e cun ils gestiunaris d’infrastructuras criticas (art. 4).
+
+[^27-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ## 3. titel Protecziun civila
 
@@ -468,11 +500,17 @@ Ella po plinavant vegnir engaschada per:
 Betg obligà da far servetsch da protecziun civila n’è, tgi che:
 
 - a. è obligà da far servetsch militar u servetsch civil;
-- b. ha absolvì la scola da recrut;
-- c. ha fatg servetsch militar e civil durant almain uschè blers dis, sco quai che la scola da recrut dura;
+- b.[^29-1] …
+- c.[^29-2] è vegnì declerà d’ina cumissiun da visita medicinala per inabel da far servetsch militar ed ha prestà fin lura almain 166 dis servetsch d’instrucziun en l’armada;
+- c<sup>bis</sup>.[^29-3] sorta da l’obligaziun da far servetsch civil; exceptadas èn persunas che l’Organ executiv federal dal servetsch civil ha relaschà anticipadamain dal servetsch civil pervia d’ina restricziun da la sanadad tenor l’artitgel 11 alinea 3 litera b da la Lescha federala dals 6 d’october 1995[^29-4] davart il servetsch civil, e che han prestà fin lura tut en tut main che 166 dis servetsch d’instrucziun en l’armada u servetsch civil;
 - d. è domicilià a l’exteriur.
 
 <sup>3</sup> Il Cussegl federal regla las excepziuns per ils Svizzers a l’exteriur ch’èn domiciliads en l’exteriur vischin (al. 2 lit. d).
+
+[^29-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-2]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-3]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-4]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 30
 
@@ -492,13 +530,11 @@ Las suandantas persunas na ston betg far servetsch da protecziun civila, uschè 
 
 **Adempliment e durada da l’obligaziun da far servetsch da protecziun civila**
 
-<sup>1</sup> L’obligaziun da far servetsch da protecziun civila sto vegnir ademplida tranter il di che la persuna cumplenescha 18 onns e la fin da l’onn ch’ella cumplenescha 36 onns.
+<sup>1</sup> L’obligaziun da far servetsch da protecziun civila cumenza quel onn che la persuna ha cumenzà l’instrucziun da basa, il pli baud cun 18 onns, e finescha il pli tard la fin da l’onn ch’ella cumplenescha 40 onns.[^31-1]
 
-<sup>2</sup> Ella dura 12 onns.
+<sup>2</sup> Ella dura maximalmain 14 onns u 245 dis da servetsch. I n’exista nagin dretg da prestar 245 dis da servetsch u dapli che la durada minimala annuala tenor l’artitgel 53 alinea 1. Dis da servetsch prestads en il servetsch militar vegnan resguardads.[^31-2]
 
-<sup>3</sup> Ella cumenza l’onn che l’instrucziun da basa vegn absolvida, il pli tard dentant l’onn che la persuna cumplenescha 25 onns.
-
-<sup>4</sup> Ella è ademplida suenter totalmain 245 dis da servetsch prestads. I n’exista nagin dretg da far totalmain 245 dis da servetsch.
+<sup>3 e <sup>4</sup></sup> …[^31-3]
 
 <sup>5</sup> Per sutuffiziers superiurs e per uffiziers dura l’obligaziun da far servetsch da protecziun civila fin la fin da l’onn ch’els cumpleneschan 40 onns, independentamain dal cumenzament e dals di da servetsch.
 
@@ -508,10 +544,15 @@ Las suandantas persunas na ston betg far servetsch da protecziun civila, uschè 
 
 Il Cussegl federal po:
 
-- a. prolungar la durada da l’obligaziun da far servetsch da protecziun civila a maximalmain 14 onns ed ordinar che l’obligaziun da far servetsch da protecziun civila cumenzia pli tard, ma l’obligaziun da far servetsch da protecziun civila sto cumenzar il pli tard quel onn che las persunas obligadas da far servetsch da protecziun civila cumpleneschan 23 onns;
+- a.[^31-4] …
 - b. suttametter persunas relaschadas da l’obligaziun da far servetsch da protecziun civila danovamain a l’obligaziun da far servetsch da protecziun civila, e quai fin 5 onns suenter lur relaschada, per pussibilitar d’augmentar da l’effectiv da la protecziun civila, en spezial en cas d’in conflict armà.
 
 <sup>8</sup> Sin dumonda d’in chantun pertutgà d’ina catastrofa u d’ina situaziun d’urgenza da lunga durada po el prolungar l’obligaziun da far servetsch da protecziun civila per maximalmain 100 dis, sche l’obligaziun da far servetsch da protecziun civila finiss – pervia da la catastrofa u pervia da la situaziun d’urgenza – per memia bleras persunas obligadas da far servetsch da protecziun civila il medem mument e sche la capacitad d’intervenziun fiss periclitada pervia da quai.
+
+[^31-1]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-2]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-3]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-4]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 32
 
@@ -540,7 +581,7 @@ Las suandantas persunas pon far voluntarmain servetsch da protecziun civila:
 
 <sup>5</sup> Ellas vegnan relaschadas d’uffizi da l’obligaziun da far servetsch da protecziun civila, cur ch’ellas retiran ina renta da vegliadetgna tenor la Lescha federala dals 20 da december 1946[^33-1] davart l’assicuranza per vegls e survivents.
 
-[^33-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 34
 
@@ -548,14 +589,17 @@ Las suandantas persunas pon far voluntarmain servetsch da protecziun civila:
 
 <sup>1</sup> La recrutaziun serva a giuditgar l’abilitad da far servetsch da protecziun civila. Ella ha lieu a medem temp sco la recrutaziun per l’armada.
 
+<sup>1bis</sup> Persunas ch’èn pli veglias che 24 onns il mument ch’ellas survegnan la naziunalitad svizra, vegnan clamadas dals chantuns a la recrutaziun per la protecziun civila il pli tard quel onn, ch’ellas cumpleneschan 30 onns.[^34-1]
+
 <sup>2</sup>
 
 Betg recrutadas per la protecziun civila na vegnan persunas obligadas da far la mustra che:
 
-- a. èn insupportablas per l’armada pervia d’ina sentenzia penala tenor l’artitgel 21 alinea 1 da la Lescha militara dals 3 da favrer 1995[^34-1]; u
+- a. èn insupportablas per l’armada pervia d’ina sentenzia penala tenor l’artitgel 21 alinea 1 da la Lescha militara dals 3 da favrer 1995[^34-2]; u
 - b. n’èn betg en cas d’ademplir las pretensiuns dal servetsch militar per motivs psichics, perquai ch’ellas mussan particularitads che laschan temair ch’ellas hajan in potenzial da violenza.
 
-[^34-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^34-1]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^34-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35
 
@@ -565,9 +609,9 @@ Betg recrutadas per la protecziun civila na vegnan persunas obligadas da far la 
 
 <sup>2</sup> Il chantun, al qual ina persuna obligada da far servetsch da protecziun civila è attribuida, decida davart l’incorporaziun.
 
-<sup>3</sup> Las persunas obligadas da far servetsch da protecziun civila che sa domicilieschan a l’exteriur vegnan registradas en la reserva da persunal. Cur ch’ellas returnan en Svizra, pon ellas vegnir reincorporadas, premess ch’ellas sajan anc obligadas da far servetsch da protecziun civila.
+<sup>3 e <sup>4</sup></sup> …[^35-1]
 
-<sup>4</sup> En il rom da lur pussaivladads mettan ils chantuns a disposiziun a la Confederaziun persunas obligadas da far servetsch da protecziun civila ch’èn adattadas per ademplir sias incumbensas. Per quest intent pon la Confederaziun ed ils chantuns far cunvegnas da prestaziun.
+[^35-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 36
 
@@ -616,15 +660,15 @@ Las persunas obligadas da far servetsch da protecziun civila han il dretg:
 
 Las persunas obligadas da far servetsch da protecziun civila han il dretg d’ina indemnisaziun da la perdita da gudogn tenor la Lescha dals 25 da settember 1952[^40-1] davart l’urden da cumpensaziun dal gudogn.
 
-[^40-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^40-1]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 41
 
-**Taxa d’exemziun dal servetsch militar**
+**Taxa d’exemziun dal servetsch militar**[^41-1]
 
-Per calcular la taxa d’exemziun tenor la Lescha federala dals 12 da zercladur 1959[^41-1] davart la taxa d’exemziun dal servetsch militar vegnan mess a quint a las persunas che fan servetsch da protecziun civila tut ils dis da servetsch da protecziun civila ch’ellas han prestà en il rom da lur obligaziun da far servetsch da protecziun civila, per ils quals vegn pajà in sold.
+Per calcular la taxa d’exemziun dal servetsch militar da las persunas obligadas da far servetsch da protecziun civila sco er da las persunas che fan voluntarmain servetsch da protecziun civila e ch’èn obligadas da pajar la taxa d’exemziun, vegnan resguardads tut ils dis ch’ellas han fatg servetsch da protecziun civila e per ils quals ellas han survegnì in sold.
 
-[^41-1]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^41-1]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 42
 
@@ -634,7 +678,7 @@ Per calcular la taxa d’exemziun tenor la Lescha federala dals 12 da zercladur 
 
 <sup>2</sup> Il UFPP decretescha disposiziuns per prevegnir ad accidents ed a donns da la sanadad en il sectur da la protecziun civila.
 
-[^42-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^42-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 43
 
@@ -662,13 +706,15 @@ Ils servetschs da protecziun civila tenor ils artitgels 49–53 na dastgan tut e
 
 **Convocaziun a l’instrucziun**
 
-<sup>1</sup> La convocaziun als servetschs d’instrucziun e d’instrucziun supplementara tenor ils artitgels 49–52 sco er als curs da repetiziun tenor l’artitgel 53 vegn emessa dals chantuns. Ils chantuns reglan la convocaziun.
+<sup>1</sup> La convocaziun als servetschs d’instrucziun e da furmaziun supplementara tenor ils artitgels 49–52 sco er als curs da repetiziun tenor l’artitgel 53 vegn emessa dals chantuns. Ils chantuns reglan la convocaziun.
 
-<sup>2</sup> Il UFPP regla la convocaziun als servetschs d’instrucziun e d’instrucziun supplementara tenor l’artitgel 54 alineas 2–4.
+<sup>2</sup> Il UFPP decretescha disposiziuns davart la convocaziun als servetschs d’instrucziun e da furmaziun supplementara tenor l’artitgel 54 alineas 2–4.[^45-1]
 
 <sup>3</sup> La convocaziun sto vegnir consegnada a las persunas obligadas da far servetsch da protecziun civila almain 6 emnas avant il cumenzament dal servetsch.
 
 <sup>4</sup> Las dumondas da spustar servetschs ston vegnir drizzadas al post che ha emess la convocaziun.
+
+[^45-1]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 46
 
@@ -686,7 +732,9 @@ Il Cussegl federal po convocar las persunas obligadas da far servetsch da protec
 
 <sup>3</sup> Ils chantuns reglan la procedura da la convocaziun.
 
-<sup>4</sup> Il UFPP regla la procedura da la convocaziun per persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun per ademplir incumbensas tenor l’artitgel 35 alinea 4.
+<sup>4</sup> …[^46-1]
+
+[^46-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 47
 
@@ -703,11 +751,13 @@ Il UFPP controllescha, sche:
 
 <sup>3</sup> Sche las duradas maximalas tenor ils artitgels 43 e 49–53 vegnan surpassadas, ordinescha il UFPP al chantun pertutgà da betg convocar las persunas obligadas da far servetsch da protecziun civila ed infurmescha l’Uffizi central da cumpensaziun.
 
-<sup>4</sup> Il UFPP fa la controlla da las persunas obligadas da far servetsch da protecziun civila che vegnan engaschadas per ademplir incumbensas tenor l’artitgel 35 alinea 4. La controlla vegn exequida en il PISA.
+<sup>4</sup> …[^47-1]
 
 <sup>5</sup> Il Cussegl federal fixescha la dimensiun da la controlla tenor l’alinea 1. El po decretar regulaziuns da gener administrativ e tecnic concernent l’utilisaziun dal PISA.
 
 <sup>6</sup> El regla la procedura da controlla tenor l’alinea 2.
+
+[^47-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. chapitel Instrucziun
 
@@ -721,25 +771,33 @@ Ils chantuns èn cumpetents per l’instrucziun, nun ch’i saja fixà insatge a
 
 **Instrucziun da basa**
 
-<sup>1</sup> Las persunas obligadas da far servetsch da protecziun civila che vegnan incorporadas suenter la recrutaziun, absolvan l’instrucziun da basa il pli baud a partir dal di ch’ellas cumpleneschan 18 onns, il pli tard dentant fin la fin da l’onn ch’ellas cumpleneschan 25 onns.
+<sup>1</sup> L’instrucziun da basa cumenza il pli tard 2 onns suenter la recrutaziun per la protecziun civila.[^49-1]
+
+<sup>1bis</sup> Persunas che vegnan suttamessas a l’obligaziun da far servetsch da protecziun civila suenter ch’ellas han cumplenì 24 onns, ston cumenzar cun l’instrucziun da basa entaifer 1 onn suenter lur incorporaziun en la protecziun civila.[^49-2]
+
+<sup>1ter</sup> Sche la persuna obligada da far servetsch da protecziun civila na po – per motivs imprevis – betg observar il termin dal cumenzament da l’instrucziun da basa, po il chantun spustar quest termin. La persuna obligada da far servetsch da protecziun civila sto dentant en mintga cas cumenzar cun l’instrucziun da basa il pli tard quel onn, ch’ella cumplenescha 30 onns.[^49-3]
 
 <sup>2</sup> L’instrucziun da basa dura 10–19 dis.
 
 <sup>3</sup> En cas d’ina midada da l’incorporaziun pon las persunas obligadas da far servetsch da protecziun civila vegnir obligadas da puspè absolver ina instrucziun da basa en lur nov sectur specific. Ils chantuns decidan davart la midada da l’incorporaziun.
 
-<sup>4</sup> Las persunas obligadas da far servetsch da protecziun civila che na vegnan betg incorporadas suenter la recrutaziun e ch’èn registradas en la reserva da persunal senza instrucziun da basa, pon vegnir convocadas a l’instrucziun da basa fin a la fin da l’onn ch’ellas cumpleneschan 30 onns.
+<sup>4</sup> Sch’ina persuna fa voluntarmain servetsch da protecziun civila u sch’ella ha gia absolvì la scola da recrut, po il chantun decider, sche e tge parts da l’instrucziun da basa ch’ella sto absolver. Il Cussegl federal regla ils detagls.[^49-4]
 
-<sup>5</sup> Persunas ch’èn pli veglias che 24 onns il mument ch’ellas vegnan natiralisadas, vegnan annunziadas dals chantuns per la recrutaziun. Ellas absolvan ina instrucziun da basa fin il pli tard a la fin da l’onn ch’ellas cumpleneschan 30 onns.
+<sup>5 e <sup>6</sup></sup> …[^49-5]
 
-<sup>6</sup> Persunas che fan voluntarmain servetsch da protecziun civila, absolvan l’instrucziun da basa entaifer 3 onns suenter la recrutaziun. Sch’ina persuna dispona gia d’ina instrucziun equivalenta, decida il chantun, sch’ella sto absolver l’instrucziun da basa.
+[^49-1]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-2]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-3]: Integrà tras la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-4]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-5]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 50
 
-**Instrucziun supplementara**
+**Furmaziun supplementara**
 
-<sup>1</sup> Persunas obligadas da far servetsch da protecziun civila ch’èn previsas per incumbensas spezialas, pon vegnir convocadas per mintga incumbensa speziala ad ina instrucziun supplementara da maximalmain 19 dis.
+<sup>1</sup> Persunas obligadas da far servetsch da protecziun civila ch’èn previsas per incumbensas spezialas, pon vegnir convocadas per mintga incumbensa speziala ad ina furmaziun supplementara da maximalmain 19 dis.
 
-<sup>2</sup> Il Cussegl federal po prolungar la durada da l’instrucziun supplementara a maximalmain 54 dis.
+<sup>2</sup> Il Cussegl federal po prolungar la durada da la furmaziun supplementara a maximalmain 54 dis.
 
 #### Art. 51
 
@@ -758,9 +816,9 @@ Il Cussegl federal regla l’instrucziun da cader. El fixescha en spezial:
 
 #### Art. 52
 
-**Instrucziun supplementara**
+**Furmaziun supplementara**
 
-Persunas obligadas da far servetsch da protecziun civila en funcziuns da cader u da spezialists pon vegnir convocadas a curs d’instrucziun supplementara da maximalmain 5 dis per onn.
+Persunas obligadas da far servetsch da protecziun civila en funcziuns da cader u da spezialists pon vegnir convocadas a curs da furmaziun supplementara da maximalmain 5 dis per onn.
 
 #### Art. 53
 
@@ -793,18 +851,16 @@ Il UFPP è cumpetent per:
 
 - a. l’instrucziun centrala dals uffiziers concernent la direcziun;
 - b. l’instrucziun specifica da caders e da spezialists;
-- c. l’instrucziun da las persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun a la Confederaziun per ademplir incumbensas tenor l’artitgel 35 alinea 4.
+- c.[^54-1] …
 
-<sup>3</sup> El po sa cunvegnir cun ils chantuns ch’el organiseschia instrucziuns ed instrucziuns supplementaras per ils chantuns.
+<sup>3</sup> El po sa cunvegnir cun ils chantuns ch’el organiseschia instrucziuns e furmaziuns supplementaras per ils chantuns.
 
 <sup>4</sup> El po pussibilitar als appartegnents da las organisaziuns partenarias sco er als posts ed a las organisaziuns tenor l’artitgel 3 da sa participar a sia purschida d’instrucziun.
 
-<sup>5</sup>
+<sup>5</sup> En collavuraziun cun ils chantuns fixescha el las finamiras ed ils cuntegns da l’instrucziun da la protecziun civila.[^54-2]
 
-El regla:
-
-- a. ils cuntegns da l’instrucziun da la protecziun civila;
-- b. las premissas per scursanir servetschs d’instrucziun.
+[^54-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^54-2]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 55
 
@@ -850,7 +906,7 @@ El regla:
 
 Persunas privatas che vegnan obligadas da prestar agid a chaschun d’ina intervenziun da la protecziun civila, èn assicuradas tenor la LAM[^59-1].
 
-[^59-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^59-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### 5. chapitel Ovras da protecziun
 
@@ -976,7 +1032,9 @@ Ils purtaders dals ospitals procuran per la construcziun, per l’equipament, pe
 
 <sup>2</sup> Sche posts da sanitad protegids u ospitals protegids vegnan abolids, sto vegnir garantida la cumpensaziun dals letgs da pazients, resguardond la planisaziun dal basegn.
 
-<sup>3</sup> Il UFPP regla la procedura per l’approvaziun da l’aboliziun.
+<sup>3</sup> …[^71-1]
+
+[^71-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. secziun Disposiziuns cuminaivlas
 
@@ -1007,7 +1065,9 @@ Il Cussegl federal po delegar cumpetenzas legislativas al UFPP en il sectur da l
 - a. la projectaziun, la construcziun, l’equipament, la qualitad, la renovaziun, l’utilisaziun, il mantegniment, las controllas periodicas sco er l’aboliziun;
 - b. la regulaziun da la construcziun da locals da protecziun e la planisaziun da l’attribuziun;
 - c. l’utilisaziun tras terzas persunas;
-- d. las pretensiuns envers la procedura per l’admissiun da cumponentas che ston vegnir examinadas.
+- d.[^75-1] …
+
+[^75-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 6. chapitel Material d’intervenziun e material per ils stabiliments da protecziun
 
@@ -1020,13 +1080,16 @@ La Confederaziun è cumpetenta per cumprar:
 - a. il material standardisà da la protecziun civila;
 - b. ils meds da communicaziun da la protecziun civila, inclusiv ils apparats finals dal sistem da func mobil da segirezza;
 - c. l’equipament ed il material per ils stabiliments da protecziun;
-- d. l’equipament persunal ed il material d’intervenziun da las persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun per ademplir incumbensas tenor l’artitgel 35 alinea 4.
+- d.[^76-1] …
 
 <sup>2</sup> En enclegientscha cun ils chantuns po ella surpigliar l’acquisiziun dal material d’intervenziun e da l’equipament persunal da las persunas obligadas da far servetsch da protecziun civila.
 
 <sup>3</sup> Il Cussegl federal fixescha il gener e la quantitad dal material standardisà tenor l’alinea 1 litera d. El po far prescripziuns concernent l’organisaziun, l’instrucziun e las intervenziuns.
 
-<sup>4</sup> El po delegar cumpetenzas legislativas al UFPP per garantir ch’il material e l’equipament tenor l’alinea 1 stettian a disposiziun per las intervenziuns.
+<sup>4</sup> …[^76-2]
+
+[^76-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^76-2]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 7. chapitel Segn distinctiv internaziunal e carta d’identitad da la protecziun civila
 
@@ -1045,7 +1108,7 @@ Cun il segn distinctiv pon er vegnir munidas:
 
 <sup>4</sup> La concepziun dal segn distinctiv e dal document d’identitad sa drizza tenor il Protocol supplementar dals 8 da zercladur 1977[^77-1] a las Convenziuns da Genevra dals 12 d’avust 1949 davart la protecziun da las victimas da conflicts armads internaziunals.
 
-[^77-1]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^77-1]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 ### 8. chapitel Responsabladad per donns
 
@@ -1091,7 +1154,7 @@ Cun il segn distinctiv pon er vegnir munidas:
 
 <sup>2</sup> Per la responsabladad dal persunal d’instrucziun u da las persunas obligadas da far servetsch da protecziun civila vegnan ultra da quai resguardads lur cumportament durant il servetsch, lur relaziuns finanzialas ed il gener dal servetsch.
 
-[^81-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^81-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 82
 
@@ -1115,7 +1178,7 @@ Cun il segn distinctiv pon er vegnir munidas:
 
 <sup>4</sup> Sche la persuna responsabla ha commess in malfatg tras ses cumportament donnegiant, surannescha il dretg d’indemnisaziun il pli baud cun il cumenzament da la surannaziun da la persecuziun penala. Sche la surannaziun da la persecuziun penala na cumenza betg pli en consequenza d’ina sentenzia penala da l’emprima instanza, surannescha il dretg il pli baud 3 onns suenter la communicaziun da la sentenzia.
 
-[^83-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 9. chapitel Dretg da recurs e procedura
 
@@ -1125,7 +1188,7 @@ Cun il segn distinctiv pon er vegnir munidas:
 
 **Giudicament da l’abilitad da far servetsch da protecziun civila**
 
-<sup>1</sup> Cunter la decisiun d’ina cumissiun d’inquisiziun medicinala davart il giudicament da l’abilitad da far servetsch da protecziun civila poi vegnir fatg recurs tar in’autra cumissiun d’inquisiziun medicinala. Quella decida definitivamain.
+<sup>1</sup> Cunter la decisiun d’ina cumissiun da visita medicinala davart il giudicament da l’abilitad da far servetsch da protecziun civila poi vegnir fatg recurs tar in’autra cumissiun da visita medicinala. Quella decida definitivamain.
 
 <sup>2</sup> Il dretg da far recurs ha la persuna giuditgada u sia represchentanza legala.
 
@@ -1220,7 +1283,7 @@ La Confederaziun surpiglia ils custs per:
 - a. la recrutaziun da las persunas obligadas da far servetsch da protecziun civila;
 - b. l’instrucziun ch’ella sto organisar tenor questa lescha e l’infrastructura necessaria per quest intent;
 - c. las intervenziuns da las persunas obligadas da far servetsch da protecziun civila che vegnan convocadas dal Cussegl federal;
-- d. l’instrucziun, las intervenziuns e las controllas da las persunas obligadas da far servetsch da protecziun civila che stattan a disposiziun per ademplir incumbensas tenor l’artitgel 35 alinea 4;
+- d.[^91-1] …
 - e. il material d’intervenziun ed il material per ils stabiliments da protecziun tenor l’artitgel 76 alinea 1;
 - f. il sold, la convocaziun, il viadi, l’alimentaziun e l’alloschi da las persunas obligadas da far servetsch da protecziun civila en cas d’intervenziuns a favur da la communitad sin plaun naziunal;
 - g. il rinforzament da la protecziun civila en cas da conflicts armads;
@@ -1259,6 +1322,8 @@ Il Cussegl federal fixescha:
 
 <sup>11</sup> Per intervenziuns a favur da la communitad sin plaun naziunal che vegnan indemnisadas als chantuns po il UFPP fixar pauschalas per mintga persuna che fa servetsch da protecziun civila.
 
+[^91-1]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+
 #### Art. 92
 
 **Chantuns**
@@ -1291,15 +1356,16 @@ Per organisar las instrucziuns elavura il UFPP las datas persunalas dals partici
 
 <sup>3</sup> Ils chantuns pon elavurar las datas da las persunas obligadas da far servetsch da protecziun civila, uschenavant che quai è necessari per ademplir lur incumbensas tenor questa lescha. En spezial pon els elavurar las datas da la sanadad da las persunas obligadas da far servetsch da protecziun civila ch’èn necessarias per giuditgar l’abilitad per in servetsch vegnint.
 
-<sup>4</sup> Las datas tenor l’alinea 3 vegnan tegnidas en salv durant 5 onns suenter la relaschada da l’obligaziun da far servetsch da protecziun civila e vegnan lura destruidas.
+<sup>4</sup> ...[^93-5]
 
-<sup>5</sup> …[^93-5]
+<sup>5</sup> ...[^93-6]
 
 [^93-1]: Versiun da la segunda frasa tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-2]: Versiun tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-3]: Versiun da la segunda frasa tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-4]: Versiun tenor la cifra 3 da l’agiunta 2 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^93-5]: Abolì tras la cifra 17 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-5]: Abolì tras la cifra I da la LF dals 21 da mars 2025, cun effect dapi il 1. da schan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^93-6]: Abolì tras la cifra 17 da l’agiunta da la LF dals 18 da dec. 2020 (Diever sistematic dal numer da la AVS tras las autoritads), cun effect dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
@@ -1311,7 +1377,7 @@ Per organisar las instrucziuns elavura il UFPP las datas persunalas dals partici
 
 <sup>3</sup> Als posts chantunals ch’èn cumpetents per l’instrucziun po il UFPP metter a disposiziun ils giudicaments dal potenzial per funcziuns da cader u da spezialists da las persunas ch’èn sa participadas las instrucziuns da la Confederaziun.
 
-[^94-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^94-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ## 5. titel Prestaziuns commerzialas dal UFPP
 

@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 2019 sur la protection de la population et
 short: LPPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-887-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/fr"
 
 (LPPCi)
 
-du 20 décembre 2019 (État le 1<sup>er</sup> janvier 2025)
+du 20 décembre 2019 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 57, al. 2, et 61 de la Constitution[^ingress-1], vu le message du Co
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2019 515](https://fedlex.data.admin.ch/eli/fga/2019/113)
 
 ## Titre 1 Objet
@@ -99,7 +99,24 @@ En cas d’alarme, toute personne est tenue de se conformer aux mesures et aux c
 
 <sup>2</sup> Le Conseil fédéral règle les mesures de protection des biens culturels dans le domaine des constructions qui doivent être prises en prévision d’événements majeurs, de catastrophes, de situations d’urgence ou de conflits armés.
 
+<sup>2bis</sup>
+
+Dans le domaine du Service sanitaire coordonné, il règle:
+
+- a. la formation universitaire, postgrade et continue, ainsi que la recherche;
+- b. l’engagement des moyens fournis par les organes chargés de la planification, de la préparation et de l’exécution des mesures sanitaires.[^6-1]
+
+<sup>2ter</sup>
+
+Dans le domaine de la coordination des transports, il règle:
+
+- a. l’attribution des tâches de planification, de préparation et d’exécution des mesures de maîtrise des événements;
+- b. la prescription et l’exécution de transports prioritaires de personnes et de marchandises pour la maîtrise d’événements.[^6-2]
+
 <sup>3</sup> Il prend des mesures afin de renforcer la protection de la population en cas de conflit armé.
+
+[^6-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^6-2]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 7
 
@@ -147,9 +164,11 @@ L’OFPP est responsable des systèmes suivants:
 
 <sup>3</sup> Il exploite d’autres systèmes pour diffuser des informations et des consignes de comportement.
 
+<sup>3bis</sup> Les cantons mettent en service des points de rencontre d’urgence. L’OFPP les soutient en matière de coordination.[^9-1]
+
 <sup>4</sup> La Confédération exploite une radio d’urgence.
 
-<sup>5</sup> La Confédération s’assure que les systèmes visés aux al. 1, let. b et c, et 2 à 4, soient accessibles aux personnes handicapées.
+<sup>5</sup> Elle s’assure que les systèmes visés aux al. 1, let. b et c, et 2 à 4 sont accessibles aux personnes handicapées.[^9-2]
 
 <sup>6</sup>
 
@@ -157,6 +176,9 @@ Le Conseil fédéral peut déléguer des compétences législatives à l’OFPP 
 
 - a. la diffusion d’informations et de consignes de comportement;
 - b. les aspects techniques des systèmes d’alerte des autorités, de transmission de l’alarme à la population et d’information de celle-ci ainsi que les aspects techniques de la radio d’urgence.
+
+[^9-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^9-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 10
 
@@ -193,17 +215,21 @@ Le Laboratoire de Spiez est notamment chargé des tâches suivantes:
 
 <sup>3</sup> La Confédération peut soutenir les organisations d’intervention spécialisées dans le domaine NBC en leur fournissant du matériel d’intervention.
 
-<sup>4</sup> Elle gère des organisations d’intervention spécialisées dans des domaines autres que le domaine NBC et soutient les services concernés en cas d’événement en mettant ces organisations à leur disposition.
+<sup>4</sup> …[^12-1]
 
 <sup>5</sup> Le Conseil fédéral peut déléguer des compétences législatives à l’OFPP afin d’assurer la disponibilité opérationnelle du matériel acquis par la Confédération.
+
+[^12-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 13
 
 **Recherche et développement**
 
-<sup>1</sup> L’OFPP veille à assurer, en collaboration avec les cantons et d’autres organes, la recherche et le développement dans le domaine de la protection de la population, notamment en ce qui concerne l’analyse des risques et des menaces, l’évolution technique et la maîtrise de catastrophes et de situations d’urgence.
+<sup>1</sup> L’OFPP veille à assurer, en collaboration avec les cantons et d’autres organes, la recherche et le développement dans le domaine de la protection de la population, notamment en ce qui concerne l’analyse des risques et des menaces, l’évolution technique, la médecine d’urgence et la médecine de catastrophe ainsi que la maîtrise de catastrophes et de situations d’urgence.[^13-1]
 
 <sup>2</sup> Il collabore avec des partenaires nationaux et internationaux en matière de recherche et de développement dans le domaine de la protection de la population.
+
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 3 Tâches des cantons et des tiers
 
@@ -243,7 +269,7 @@ Les cantons assument les tâches suivantes en matière de conduite:
 
 <sup>3</sup> Il peut déléguer des compétences législatives à l’OFPP afin de régler les questions techniques.
 
-[^17-1]: [RS 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
+[^17-1]: [RS 721.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8405)
 
 ### Chapitre 4 Systèmes communs de communication de la Confédération, des cantons et de tiers
 
@@ -341,6 +367,8 @@ La Confédération coordonne, à l’échelon national, l’instruction des memb
 
 <sup>3</sup> Il assure l’instruction en matière d’exploitation de composants des systèmes de communication de la protection de la population et des systèmes d’alerte des autorités, de transmission de l’alarme et d’information de la population.
 
+<sup>3bis</sup> Il peut confier à des tiers l’exécution de tâches dans le domaine de la formation universitaire, postgrade et continue, ainsi que de la recherche.[^22-1]
+
 <sup>4</sup> Il peut convenir avec les cantons, les tiers et les autorités compétentes des pays voisins de l’organisation d’autres cours et exercices.
 
 <sup>5</sup> Il peut proposer d’autres cours dans le domaine de la protection de la population.
@@ -348,6 +376,8 @@ La Confédération coordonne, à l’échelon national, l’instruction des memb
 <sup>6</sup> Il exploite un centre d’instruction.
 
 <sup>7</sup> Le Conseil fédéral règle les compétences en matière d’instruction.
+
+[^22-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 6 Financement
 
@@ -423,9 +453,11 @@ Les cantons et les tiers concernés supportent:
 La Confédération supporte les coûts suivants:
 
 - a. coûts de ses propres activités de recherche et développement (art. 13);
-- b. coûts induits par les organisations d’intervention spécialisées (art. 12);
+- b.[^27-1] …
 - c. coûts du matériel d’intervention destiné aux organisations d’intervention spécialisées dans le domaine NBC (art. 12, al. 3);
 - d. coûts de ses propres activités dans le cadre de la collaboration avec les cantons, les organisations partenaires et les exploitants d’infrastructures critiques (art. 4).
+
+[^27-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ## Titre 3 Protection civile
 
@@ -466,11 +498,17 @@ Elle peut au surplus être engagée pour accomplir les tâches suivantes:
 Les personnes suivantes ne sont pas astreintes:
 
 - a. les personnes astreintes au service militaire ou au service civil;
-- b. les personnes qui ont achevé l’école de recrues;
-- c. les personnes qui ont effectué, dans le cadre des services militaire et civil, au minimum le nombre de jours de service qui correspond à une école de recrues;
+- b.[^29-1] …
+- c.[^29-2] les personnes déclarées inaptes au service militaire par une commission de visite sanitaire qui, à ce moment-là, ont effectué au moins 166 jours de service d’instruction dans l’armée;
+- c<sup>bis</sup>.[^29-3] les personnes qui cessent d’être astreintes au service civil, à l’exception de celles qui ont été libérées avant terme du service civil par l’organe fédéral chargé de l’exécution des dispositions relatives au service civil en raison d’une atteinte à la santé au sens de l’art. 11, al. 3, let. b, de la loi fédérale du 6 octobre 1995 sur le service civil[^29-4] et qui, à ce moment-là, ont effectué au total moins de 166 jours de service d’instruction dans l’armée ou de service civil;
 - d. les personnes domiciliées à l’étranger.
 
 <sup>3</sup> Le Conseil fédéral règle les exceptions applicables aux Suisses de l’étranger domiciliés dans une région étrangère limitrophe (al. 2, let. d).
+
+[^29-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^29-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^29-3]: Introduite par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^29-4]: [RS 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 30
 
@@ -490,13 +528,11 @@ Aussi longtemps qu’elles exercent leur fonction, les personnes suivantes sont 
 
 **Accomplissement et durée du service**
 
-<sup>1</sup> Le service obligatoire doit être accompli entre le jour où la personne concernée atteint l’âge de 18 ans et la fin de l’année au cours de laquelle elle atteint l’âge de 36 ans.
+<sup>1</sup> Le service obligatoire commence l’année au cours de laquelle la personne commence l’instruction de base, au plus tôt à l’âge de 18 ans, et se termine au plus tard à la fin de l’année au cours de laquelle elle atteint l’âge de 40 ans.[^31-1]
 
-<sup>2</sup> Il dure douze ans.
+<sup>2</sup> Sa durée est au plus de quatorze ans ou de 245 jours de service. Nul ne peut faire valoir un droit à effectuer 245 jours de service ou à dépasser la durée minimale annuelle fixée à l’art. 53, al. 1. Les jours de service accomplis dans le cadre du service militaire sont pris en compte.[^31-2]
 
-<sup>3</sup> Il commence l’année au cours de laquelle l’instruction de base est achevée, mais au plus tard l’année au cours de laquelle la personne atteint l’âge de 25 ans.
-
-<sup>4</sup> Il est accompli après un total de 245 jours de service. Nul ne peut faire valoir un droit à effectuer un total de 245 jours de service.
+<sup>3 et <sup>4</sup></sup> …[^31-3]
 
 <sup>5</sup> Pour les sous-officiers supérieurs et les officiers, il se termine à la fin de l’année au cours de laquelle la personne concernée atteint l’âge de 40 ans, indépendamment de l’année au cours de laquelle il a commencé et du nombre de jours de service effectués.
 
@@ -506,10 +542,15 @@ Aussi longtemps qu’elles exercent leur fonction, les personnes suivantes sont 
 
 Le Conseil fédéral peut:
 
-- a. prolonger la durée du service obligatoire à 14 ans au plus et repousser la date du début du service obligatoire au plus tard au 31 décembre de l’année au cours de laquelle les personnes astreintes atteignent l’âge de 23 ans;
+- a.[^31-4] …
 - b. soumettre à un nouveau service obligatoire les personnes qui ont été libérées du service obligatoire 5 ans auparavant au plus, afin de renforcer les effectifs de protection civile, notamment en cas de conflit armé.
 
 <sup>8</sup> Il peut prolonger de 100 jours au plus le service obligatoire dans un canton touché par une catastrophe ou une situation d’urgence de longue durée qui en fait la demande, pour autant qu’un nombre trop important de personnes astreintes soient libérées en même temps du service obligatoire à la suite de la catastrophe ou de la situation d’urgence et que ces libérations compromettent la capacité d’intervention.
+
+[^31-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^31-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^31-3]: Abrogés par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^31-4]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 32
 
@@ -538,7 +579,7 @@ Les personnes suivantes peuvent s’engager volontairement dans la protection ci
 
 <sup>5</sup> Elles sont libérées d’office de la protection civile dès qu’elles perçoivent une rente de vieillesse au sens de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^33-1].
 
-[^33-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 34
 
@@ -546,14 +587,17 @@ Les personnes suivantes peuvent s’engager volontairement dans la protection ci
 
 <sup>1</sup> Le recrutement permet d’apprécier l’aptitude à effectuer le service de protection civile. L’armée et la protection civile procèdent à un recrutement commun.
 
+<sup>1bis</sup> Les personnes âgées de plus de 24 ans au moment de leur naturalisation sont convoquées par les cantons au recrutement au plus tard au cours de l’année durant laquelle elles atteignent l’âge de 30 ans.[^34-1]
+
 <sup>2</sup>
 
 Les conscrits qui remplissent l’une des conditions suivantes ne sont pas recrutés pour la protection civile:
 
-- a. leur présence au sein de l’armée est incompatible avec les impératifs du service militaire parce qu’ils ont été condamnés au sens de l’art. 21, al. 1, de la loi du 3 février 1995 sur l’armée[^34-1];
+- a. leur présence au sein de l’armée est incompatible avec les impératifs du service militaire parce qu’ils ont été condamnés au sens de l’art. 21, al. 1, de la loi du 3 février 1995 sur l’armée[^34-2];
 - b. ils ne satisfont pas aux exigences du service militaire pour des raisons psychiques, dans la mesure où ils présentent des signes permettant de conclure à un risque de violence.
 
-[^34-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^34-1]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^34-2]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35
 
@@ -563,9 +607,9 @@ Les conscrits qui remplissent l’une des conditions suivantes ne sont pas recru
 
 <sup>2</sup> Le canton auquel une personne astreinte est attribuée statue sur l’incorporation.
 
-<sup>3</sup> Les personnes astreintes qui s’établissent à l’étranger sont enregistrées dans la réserve de personnel. Elles peuvent être incorporées à nouveau à leur retour en Suisse, pour autant qu’elles soient encore astreintes.
+<sup>3 et <sup>4</sup></sup> …[^35-1]
 
-<sup>4</sup> Dans la mesure de leurs possibilités, les cantons mettent à la disposition de la Confédération des personnes astreintes ayant les capacités nécessaires pour accomplir les tâches qui relèvent de sa compétence. À cet effet, la Confédération et les cantons peuvent conclure des conventions de prestations.
+[^35-1]: Abrogés par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 36
 
@@ -614,15 +658,15 @@ Les personnes qui effectuent un service de protection civile ont droit:
 
 Les personnes qui effectuent un service de protection civile ont droit à une allocation pour perte de gain, conformément à la loi du 25 septembre 1952 sur les allocations pour perte de gain[^40-1].
 
-[^40-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^40-1]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 41
 
-**Taxe d’exemption de l’obligation de servir**
+**Taxe d’exemption de l’obligation de servir**[^41-1]
 
-Le calcul du montant de la taxe d’exemption au sens de la loi fédérale du 12 juin 1959 sur la taxe d’exemption de l’obligation de servir[^41-1] prend en compte la totalité des jours de service de protection civile effectués qui donnent droit à une solde.
+Le calcul du montant de la taxe d’exemption prend en compte la totalité des jours de service de protection civile donnant droit à une solde effectués par les personnes astreintes et les personnes qui s’engagent volontairement dans la protection civile et sont assujetties à la taxe d’exemption.
 
-[^41-1]: [RS 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^41-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 42
 
@@ -632,7 +676,7 @@ Le calcul du montant de la taxe d’exemption au sens de la loi fédérale du 12
 
 <sup>2</sup> L’OFPP édicte des dispositions visant à prévenir les accidents et les atteintes à la santé dans la protection civile.
 
-[^42-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^42-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 43
 
@@ -662,11 +706,13 @@ Les personnes astreintes ne peuvent être convoquées pour plus de 66 jours par 
 
 <sup>1</sup> Les cantons convoquent les personnes astreintes aux services d’instruction et aux cours de perfectionnement visés aux art. 49 à 52 ainsi qu’aux cours de répétition visés à l’art. 53. Ils règlent les modalités de la convocation.
 
-<sup>2</sup> L’OFPP règle les modalités de la convocation aux services d’instruction et aux cours de perfectionnement visés à l’art. 54, al. 2 à 4.
+<sup>2</sup> L’OFPP édicte des directives concernant la convocation aux services d’instruction et aux cours de perfectionnement visés à l’art. 54, al. 2 à 4.[^45-1]
 
 <sup>3</sup> Les convocations doivent parvenir aux personnes astreintes au moins six semaines avant le début des services.
 
 <sup>4</sup> Les demandes de report de service doivent être adressées à l’organe chargé de la convocation.
+
+[^45-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 46
 
@@ -684,7 +730,9 @@ Le Conseil fédéral peut convoquer les personnes astreintes dans les cas suivan
 
 <sup>3</sup> Les cantons règlent la procédure.
 
-<sup>4</sup> L’OFPP règle la procédure pour les personnes astreintes affectées aux tâches visées à l’art. 35, al. 4.
+<sup>4</sup> …[^46-1]
+
+[^46-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 47
 
@@ -701,11 +749,13 @@ L’OFPP contrôle:
 
 <sup>3</sup> En cas de dépassement des durées maximales fixées aux art. 43 et 49 à 53, l’OFPP ordonne au canton concerné de ne plus convoquer les personnes en question et informe la Centrale de compensation.
 
-<sup>4</sup> L’OFPP procède aux contrôles relatifs aux personnes astreintes affectées aux tâches visées à l’art. 35, al. 4. Il les effectue au moyen du SIPA.
+<sup>4</sup> …[^47-1]
 
 <sup>5</sup> Le Conseil fédéral définit l’étendue des contrôles visés à l’al. 1. Il peut édicter des réglementations d’ordre administratif et technique concernant l’utilisation du SIPA.
 
 <sup>6</sup> Il règle la procédure de contrôle visée à l’al. 2.
+
+[^47-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 3 Instruction
 
@@ -719,17 +769,25 @@ Sauf disposition contraire de la présente loi, l’instruction relève de la co
 
 **Instruction de base**
 
-<sup>1</sup> Les personnes astreintes incorporées directement après le recrutement suivent l’instruction de base au plus tôt à partir du jour où elles atteignent l’âge de 18 ans mais la terminent au plus tard à la fin de l’année au cours de laquelle elles atteignent l’âge de 25 ans.
+<sup>1</sup> L’instruction de base commence au plus tard deux ans après le recrutement pour la protection civile.[^49-1]
+
+<sup>1bis</sup> Les personnes qui sont soumises à l’obligation de servir dans la protection civile après l’âge de 24 ans doivent commencer l’instruction de base au cours de l’année suivant leur incorporation dans la protection civile.[^49-2]
+
+<sup>1ter</sup> Si, pour des raisons imprévues, la personne astreinte ne peut pas respecter le délai fixé pour le début de l’instruction de base, le canton peut prolonger ce délai. Dans tous les cas, l’instruction de base doit commencer au plus tard durant l’année au cours de laquelle la personne astreinte atteint l’âge de 30 ans.[^49-3]
 
 <sup>2</sup> L’instruction de base dure de 10 à 19 jours.
 
 <sup>3</sup> En cas de changement d’affectation, la personne astreinte peut être tenue de suivre à nouveau une instruction de base dans un autre domaine. Les changements d’affectation relèvent de la compétence des cantons.
 
-<sup>4</sup> Les personnes astreintes qui ne sont pas incorporées directement après le recrutement et qui sont enregistrées dans la réserve de personnel sans avoir suivi d’instruction de base peuvent être convoquées à une telle instruction jusqu’à la fin de l’année au cours de laquelle elles atteignent l’âge de 30 ans.
+<sup>4</sup> Si une personne s’engage volontairement dans la protection civile ou a déjà accompli l’école de recrues, le canton peut décider si elle doit suivre l’instruction de base et, le cas échéant, quelle partie de celle‑ci. Le Conseil fédéral règle les modalités.[^49-4]
 
-<sup>5</sup> Les personnes naturalisées après l’âge de 24 ans sont annoncées par le canton afin d’être recrutées. Elles effectuent l’instruction de base avant la fin de l’année au cours de laquelle elles atteignent l’âge de 30 ans.
+<sup>5 et <sup>6</sup></sup> …[^49-5]
 
-<sup>6</sup> Les personnes qui s’engagent volontairement dans la protection civile suivent l’instruction de base au plus tard trois ans après le recrutement. Lorsque la personne dispose d’une instruction équivalente, le canton décide si elle doit suivre l’instruction de base.
+[^49-1]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^49-2]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^49-3]: Introduit par le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^49-4]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^49-5]: Abrogés par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 50
 
@@ -791,18 +849,16 @@ Il est responsable:
 
 - a. de l’instruction centrale des officiers en matière de conduite;
 - b. de l’instruction spécialisée de cadres et de spécialistes;
-- c. de l’instruction des personnes astreintes affectées à des tâches visées à l’art. 35, al. 4.
+- c.[^54-1] …
 
 <sup>3</sup> Il peut convenir avec les cantons qu’il organise lui-même des cours d’instruction et des cours de perfectionnement à leur intention.
 
 <sup>4</sup> Il peut permettre aux membres des organisations partenaires et des services et organisations visés à l’art. 3 de participer aux cours qu’il propose.
 
-<sup>5</sup>
+<sup>5</sup> Il définit les objectifs et le contenu de l’instruction de la protection civile en collaboration avec les cantons.[^54-2]
 
-Il règle:
-
-- a. le contenu de l’instruction de la protection civile;
-- b. les conditions permettant de raccourcir des services d’instruction.
+[^54-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^54-2]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 #### Art. 55
 
@@ -848,7 +904,7 @@ Il règle:
 
 Tout particulier qui est tenu de fournir de l’aide lors d’une intervention de la protection civile est assuré conformément à la LAM[^59-1].
 
-[^59-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^59-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### Chapitre 5 Ouvrages de protection
 
@@ -974,7 +1030,9 @@ Les institutions dont relèvent les hôpitaux veillent à la réalisation, à l�
 
 <sup>2</sup> Si des centres sanitaires protégés ou des unités d’hôpital protégées sont désaffectés, le remplacement des places désaffectées doit être garanti en tenant compte de la planification des besoins.
 
-<sup>3</sup> L’OFPP règle la procédure relative à l’approbation de la désaffectation.
+<sup>3</sup> …[^71-1]
+
+[^71-1]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Section 3 Dispositions communes
 
@@ -1005,7 +1063,9 @@ Le Conseil fédéral peut déléguer à l’OFPP des compétences législatives 
 - a. l’établissement de projets, la réalisation, l’équipement, la qualité, la rénovation, l’utilisation, l’entretien, le contrôle périodique et la désaffectation;
 - b. la gestion de la construction d’abris et la planification de l’attribution;
 - c. l’utilisation par des tiers;
-- d. les exigences relatives à la procédure d’homologation des composants soumis à des tests.
+- d.[^75-1] …
+
+[^75-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 6 Matériel pour l’intervention et pour les constructions protégées
 
@@ -1018,13 +1078,16 @@ La Confédération est responsable de l’acquisition:
 - a. du matériel standardisé de la protection civile;
 - b. des moyens de communication de la protection civile, y compris les terminaux du système radio mobile de sécurité;
 - c. de l’équipement et du matériel des constructions protégées;
-- d. de l’équipement personnel et du matériel d’intervention des personnes astreintes affectées aux tâches visées à l’art. 35, al. 4.
+- d.[^76-1] …
 
 <sup>2</sup> Elle peut, en accord avec les cantons, pourvoir à l’acquisition du matériel d’intervention et de l’équipement personnel des personnes astreintes.
 
 <sup>3</sup> Le Conseil fédéral fixe la nature et la quantité du matériel standardisé visé à l’al. 1, let. a. Il peut édicter des prescriptions concernant l’organisation, la formation et l’intervention.
 
-<sup>4</sup> Il peut déléguer des compétences législatives à l’OFPP afin de régler les questions relatives à la garantie de la disponibilité de l’équipement et du matériel visés à l’al. 1.
+<sup>4</sup> …[^76-2]
+
+[^76-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^76-2]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
 
 ### Chapitre 7 Signe distinctif international de la protection civile et carte d’identité du personnel de la protection civile
 
@@ -1043,7 +1106,7 @@ Peuvent également porter le signe distinctif de la protection civile:
 
 <sup>4</sup> La forme du signe distinctif et de la carte d’identité est régie par le Protocole additionnel du 8 juin 1977 aux Conventions de Genève du 12 août 1949 relatif à la protection des victimes des conflits armés internationaux[^77-1].
 
-[^77-1]: [RS 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^77-1]: [RS 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 ### Chapitre 8 Responsabilité en cas de dommages
 
@@ -1089,7 +1152,7 @@ Peuvent également porter le signe distinctif de la protection civile:
 
 <sup>2</sup> Lorsque la responsabilité du personnel enseignant ou d’une personne astreinte est engagée, les indemnités sont fixées en tenant compte au surplus du comportement de la personne impliquée durant le service, de sa situation financière et du genre de service.
 
-[^81-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^81-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 82
 
@@ -1113,7 +1176,7 @@ Peuvent également porter le signe distinctif de la protection civile:
 
 <sup>4</sup> Si le fait dommageable résulte d’un acte punissable de la personne tenue à réparation, l’action se prescrit au plus tôt à l’échéance du délai de prescription de l’action pénale. Si la prescription de l’action pénale ne court plus parce qu’un jugement de première instance a été rendu, l’action civile se prescrit au plus tôt par trois ans à compter de la notification du jugement.
 
-[^83-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Chapitre 9 Voies de recours et procédure
 
@@ -1218,7 +1281,7 @@ La Confédération supporte les coûts liés:
 - a. au recrutement des personnes astreintes;
 - b. aux services d’instruction qu’elle doit organiser en vertu de la présente loi et à l’infrastructure nécessaire;
 - c. aux interventions des personnes astreintes convoquées par le Conseil fédéral;
-- d. à l’instruction, à l’intervention et au contrôle des personnes astreintes affectées aux tâches visées à l’art. 35, al. 4;
+- d.[^91-1] …
 - e. au matériel pour l’intervention et au matériel pour les constructions protégées visés à l’art. 76, al. 1;
 - f. à la solde, à la convocation, au transport, à la subsistance et à l’hébergement des personnes astreintes lors d’interventions en faveur de la collectivité d’envergure nationale;
 - g. au renforcement de la protection civile en cas de conflit armé;
@@ -1257,6 +1320,8 @@ Le Conseil fédéral définit:
 
 <sup>11</sup> L’OFPP peut fixer un montant forfaitaire par personne en service pour les coûts des interventions en faveur de la collectivité d’envergure nationale qui sont remboursés aux cantons.
 
+[^91-1]: Abrogée par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+
 #### Art. 92
 
 **Cantons**
@@ -1289,15 +1354,16 @@ Pour organiser les services de formation, l’OFPP traite les données personnel
 
 <sup>3</sup> Les cantons peuvent traiter les données des personnes astreintes dans la mesure où elles sont nécessaires pour accomplir les tâches qui leur incombent en vertu de la présente loi. Ils peuvent notamment traiter les données sanitaires requises pour apprécier l’aptitude à effectuer un service à venir.
 
-<sup>4</sup> Les données visées à l’al. 3 sont conservées durant cinq ans à compter de la libération de l’obligation de servir, puis détruites.
+<sup>4</sup> …[^93-5]
 
-<sup>5</sup> …[^93-5]
+<sup>5</sup> …[^93-6]
 
 [^93-1]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-2]: Nouvelle teneur selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-3]: Nouvelle teneur de la phrase selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-4]: Nouvelle teneur selon l’annexe 2 ch. 3 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^93-5]: Abrogé par l’annexe ch. 17 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-5]: Abrogé par le ch. I de la LF du 21 mars 2025, avec effet au 1<sup>er</sup> janv. 2026 (RO 2025 703; FF 2024 1216).
+[^93-6]: Abrogé par l’annexe ch. 17 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
@@ -1309,7 +1375,7 @@ Pour organiser les services de formation, l’OFPP traite les données personnel
 
 <sup>3</sup> L’OFPP peut mettre à la disposition des organes cantonaux responsables de l’instruction les évaluations de l’aptitude des participants à des services d’instruction organisés par la Confédération à assumer des fonctions de cadre ou de spécialiste.
 
-[^94-1]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^94-1]: [RS 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ## Titre 5 Prestations commerciales de l’OFPP
 
@@ -1390,5 +1456,5 @@ Les actes ci-après sont modifiés comme suit:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. II al. 1 let. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7]
+[^annexu1-lvlu1-1]: [[RO 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)ch. II al. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)annexe ch. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)annexe ch. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)annexe ch. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)annexe ch. 7]
 [^annexu1-lvlu1-2]: Les mod. peuvent être consultées au [RO 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887).

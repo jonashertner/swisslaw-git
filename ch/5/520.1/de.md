@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Dezember 2019 über den Bevölkerungsschutz und den
 short: BZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/887"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2019-12-20
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/887/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-887-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/887/20250101/de"
 
 (Bevölkerungs- und Zivilschutzgesetz, BZG)
 
-vom 20. Dezember 2019 (Stand am 1. Januar 2025)
+vom 20. Dezember 2019 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 57 Absatz 2 und 61 der Bundesverfassung[^ingress-1], n
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2019 521](https://fedlex.data.admin.ch/eli/fga/2019/113)
 
 ## 1. Titel: Gegenstand
@@ -99,7 +99,24 @@ Jede Person ist verpflichtet, die Alarmierungsanordnungen und die Verhaltensanwe
 
 <sup>2</sup> Der Bundesrat regelt, welche Massnahmen zum Schutz von Kulturgütern in den Bereichen Bauten und Einrichtung von Bauten im Hinblick auf Grossereignisse, Katastrophen, Notlagen und bewaffnete Konflikte getroffen werden müssen.
 
+<sup>2bis</sup>
+
+Er regelt im Bereich des koordinierten Sanitätsdiensts:
+
+- a. die Aus-, Weiter- und Fortbildung und die Forschung;
+- b. den Einsatz der Mittel der Stellen, die mit der Planung, der Vorbereitung und der Durchführung von sanitätsdienstlichen Massnahmen beauftragt sind.[^6-1]
+
+<sup>2ter</sup>
+
+Er regelt im Bereich der Koordination des Verkehrswesens:
+
+- a. welche Stellen mit der Planung, der Vorbereitung und der Durchführung von Massnahmen zur Ereignisbewältigung beauftragt sind;
+- b. die Anordnung und die Durchführung von vorrangigen Transporten im Personen- und Güterverkehr zur Ereignisbewältigung.[^6-2]
+
 <sup>3</sup> Er trifft Massnahmen zur Verstärkung des Bevölkerungsschutzes für den Fall von bewaffneten Konflikten.
+
+[^6-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^6-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 7
 
@@ -147,9 +164,11 @@ Das BABS ist zuständig für die Systeme:
 
 <sup>3</sup> Es betreibt weitere Systeme zur Verbreitung von Informationen und Verhaltensanweisungen.
 
+<sup>3bis</sup> Die Kantone betreiben Notfalltreffpunkte. Das BABS unterstützt sie bei der Koordination.[^9-1]
+
 <sup>4</sup> Der Bund betreibt ein Notfallradio.
 
-<sup>5</sup> Der Bund stellt sicher, dass die Systeme nach Absatz 1 Buchstaben b und c sowie die Absätze 2-4 auch für Menschen mit Behinderungen zugänglich sind.
+<sup>5</sup> Er stellt sicher, dass die Systeme nach den Absätzen 1 Buchstaben b und c sowie 2–4 auch für Menschen mit Behinderung zugänglich sind.[^9-2]
 
 <sup>6</sup>
 
@@ -157,6 +176,9 @@ Der Bundesrat kann dem BABS Rechtsetzungskompetenzen übertragen zur Regelung:
 
 - a. der Verbreitung von Informationen und Verhaltensanweisungen;
 - b. der technischen Aspekte der Systeme zur Warnung der Behörden, zur Alarmierung und Information der Bevölkerung sowie der technischen Aspekte des Notfallradios.
+
+[^9-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^9-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 10
 
@@ -193,17 +215,21 @@ Dieses ist insbesondere zuständig für:
 
 <sup>3</sup> Der Bund kann ABC-Einsatzorganisationen mit Einsatzmaterial unterstützen.
 
-<sup>4</sup> Er betreibt weitere spezialisierte Einsatzorganisationen ausserhalb des ABC-Bereichs und stellt diese im Ereignisfall den betroffenen Stellen zur Verfügung.
+<sup>4</sup> …[^12-1]
 
 <sup>5</sup> Der Bundesrat kann dem BABS Rechtsetzungskompetenzen übertragen zur Sicherstellung der Einsatzbereitschaft des vom Bund beschafften Materials.
+
+[^12-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 13
 
 **Forschung und Entwicklung**
 
-<sup>1</sup> Das BABS sorgt in Zusammenarbeit mit den Kantonen und weiteren Stellen für die Forschung und Entwicklung im Bevölkerungsschutz, insbesondere in den Bereichen der Gefährdungs- und Risikoanalyse, der technischen Entwicklung und der Bewältigung von Katastrophen und Notlagen.
+<sup>1</sup> Das BABS sorgt in Zusammenarbeit mit den Kantonen und weiteren Stellen für die Forschung und Entwicklung im Bevölkerungsschutz, insbesondere in den Bereichen der Gefährdungs- und Risikoanalyse, der technischen Entwicklung, der Notfall- und Katastrophenmedizin und der Bewältigung von Katastrophen und Notlagen.[^13-1]
 
 <sup>2</sup> Es arbeitet im Rahmen der Forschung und Entwicklung im Bevölkerungsschutz mit nationalen und internationalen Partnern zusammen.
+
+[^13-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. Kapitel: Aufgaben der Kantone und Dritter
 
@@ -243,7 +269,7 @@ Die Kantone sind für die folgenden Führungsaufgaben zuständig:
 
 <sup>3</sup> Er kann dem BABS Rechtsetzungskompetenzen zur Regelung der technischen Aspekte übertragen.
 
-[^17-1]: [SR 721.101](https://fedlex.data.admin.ch/eli/cc/2012/703)
+[^17-1]: [SR 721.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8405)
 
 ### 4. Kapitel: Gemeinsame Kommunikationssysteme von Bund, Kantonen und Dritten
 
@@ -341,6 +367,8 @@ Der Bund koordiniert auf nationaler Ebene die Ausbildung der Angehörigen der Pa
 
 <sup>3</sup> Es stellt die Ausbildung für den Betrieb von Komponenten der Kommunikationssysteme im Bevölkerungsschutz sowie der Systeme zur Warnung der Behörden und zur Alarmierung und Information der Bevölkerung sicher.
 
+<sup>3bis</sup> Es kann Dritte mit der Durchführung von Aus-, Weiter- und Fortbildungen sowie Forschungstätigkeiten beauftragen.[^22-1]
+
 <sup>4</sup> Es kann mit den Kantonen, Dritten und zuständigen Behörden des grenznahen Auslands die Durchführung von weiteren Ausbildungen und Übungen vereinbaren.
 
 <sup>5</sup> Es kann weitere Ausbildungen im Bereich des Bevölkerungsschutzes anbieten.
@@ -348,6 +376,8 @@ Der Bund koordiniert auf nationaler Ebene die Ausbildung der Angehörigen der Pa
 <sup>6</sup> Es betreibt ein Ausbildungszentrum.
 
 <sup>7</sup> Der Bundesrat regelt die Zuständigkeiten im Bereich der Ausbildung.
+
+[^22-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 6. Kapitel: Finanzierung
 
@@ -423,9 +453,11 @@ Die Kantone und die betroffenen Dritten tragen die Kosten für:
 Der Bund trägt die Kosten für:
 
 - a. die eigenen Aufwendungen für die Forschung und Entwicklung (Art. 13);
-- b. die spezialisierten Einsatzorganisationen (Art. 12);
+- b.[^27-1] …
 - c. das Einsatzmaterial für die ABC-Einsatzorganisationen (Art. 12 Abs. 3);
 - d. die eigenen Aufwendungen in der Zusammenarbeit mit den Kantonen, den Partnerorganisationen sowie den Betreiberinnen kritischer Infrastrukturen (Art. 4).
+
+[^27-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ## 3. Titel: Zivilschutz
 
@@ -466,11 +498,17 @@ Er kann zudem eingesetzt werden für:
 Nicht schutzdienstpflichtig ist, wer:
 
 - a. militär- oder zivildienstpflichtig ist;
-- b. die Rekrutenschule absolviert hat;
-- c. mindestens so viele Diensttage Militärdienst und Zivildienst geleistet hat, wie die Rekrutenschule dauert;
+- b.[^29-1] …
+- c.[^29-2] von einer medizinischen Untersuchungskommission für militärdienstuntauglich erklärt wurde und in diesem Zeitpunkt mindestens 166 Tage Ausbildungsdienst in der Armee geleistet hat;
+- c<sup>bis</sup>.[^29-3] aus der Zivildienstpflicht ausscheidet; ausgenommen sind Personen, die von der Vollzugsstelle des Bundes für den Zivildienst wegen einer gesundheitlichen Beeinträchtigung nach Artikel 11 Absatz 3 Buchstabe b des Zivildienstgesetzes vom 6. Oktober 1995[^29-4] vorzeitig aus dem Zivildienst entlassen wurden und in diesem Zeitpunkt insgesamt weniger als 166 Tage Ausbildungsdienst in der Armee oder Dienst im Zivildienst geleistet haben;
 - d. Wohnsitz im Ausland hat.
 
 <sup>3</sup> Der Bundesrat regelt die Ausnahmen für Auslandschweizer und Auslandschweizerinnen, die im grenznahen Ausland Wohnsitz haben (Abs. 2 Bst. d).
+
+[^29-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-3]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^29-4]: [SR 824.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9978)
 
 #### Art. 30
 
@@ -490,13 +528,11 @@ Folgende Personen müssen, solange sie ihre Funktion ausüben, keinen Schutzdien
 
 **Erfüllung und Dauer der Schutzdienstpflicht**
 
-<sup>1</sup> Die Schutzdienstpflicht ist zwischen dem Tag, an dem die Person 18 Jahre alt wird, und dem Ende des Jahres, in dem sie 36 Jahre alt wird, zu erfüllen.
+<sup>1</sup> Die Schutzdienstpflicht beginnt in dem Jahr, in dem die Person die Grundausbildung begonnen hat, frühestens mit 18 Jahren, und endet spätestens am Ende des Jahres, in dem sie 40 Jahre alt wird.[^31-1]
 
-<sup>2</sup> Sie dauert zwölf Jahre.
+<sup>2</sup> Sie dauert maximal vierzehn Jahre oder 245 Diensttage. Es besteht kein Anspruch darauf, 245 Diensttage oder mehr als die jährliche Mindestdauer nach Artikel 53 Absatz 1 zu leisten. Im Militärdienst geleistete Diensttage werden angerechnet.[^31-2]
 
-<sup>3</sup> Sie beginnt mit dem Jahr, in dem die Grundausbildung absolviert wird, spätestens jedoch mit dem Jahr, in dem die Person 25 Jahre alt wird.
-
-<sup>4</sup> Sie ist nach insgesamt 245 geleisteten Diensttagen erfüllt. Es besteht kein Anspruch darauf, insgesamt 245 Diensttage zu leisten.
+<sup>3 und <sup>4</sup></sup> …[^31-3]
 
 <sup>5</sup> Für höhere Unteroffiziere und Offiziere dauert die Schutzdienstpflicht, unabhängig vom Beginn und den geleisteten Diensttagen, bis zum Ende des Jahres, in dem die Person 40 Jahre alt wird.
 
@@ -506,10 +542,15 @@ Folgende Personen müssen, solange sie ihre Funktion ausüben, keinen Schutzdien
 
 Der Bundesrat kann:
 
-- a. die Dauer der Schutzdienstpflicht auf höchstens 14 Jahre verlängern und einen späteren Beginn der Schutzdienstplicht anordnen, wobei die Schutzdienstpflicht spätestens in dem Jahr beginnen muss, in dem die Schutzdienstpflichtigen 23 Jahre alt werden;
+- a.[^31-4] …
 - b. aus der Schutzdienstpflicht entlassene Personen bis fünf Jahre nach ihrer Entlassung erneut der Schutzdienstpflicht unterstellen, um die Erhöhung des Zivilschutzbestandes namentlich im Falle eines bewaffneten Konfliktes zu ermöglichen.
 
 <sup>8</sup> Er kann die Schutzdienstpflicht auf Ersuchen eines von einer lange andauernden Katastrophe oder Notlage betroffenen Kantons um höchstens 100 Tage verlängern, sofern die Dienstpflicht aufgrund der Katastrophe oder Notlage für zu viele Schutzdienstpflichtige gleichzeitig endet und dadurch die Einsatzfähigkeit gefährdet ist.
+
+[^31-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-3]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^31-4]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 32
 
@@ -538,7 +579,7 @@ Folgende Personen können freiwillig Schutzdienst leisten:
 
 <sup>5</sup> Sie werden von Amtes wegen aus der Schutzdienstpflicht entlassen, wenn sie eine Altersrente nach dem Bundesgesetz vom 20. Dezember 1946[^33-1] über die Alters- und Hinterlassenenversicherung beziehen.
 
-[^33-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 34
 
@@ -546,14 +587,17 @@ Folgende Personen können freiwillig Schutzdienst leisten:
 
 <sup>1</sup> Die Rekrutierung dient zur Beurteilung der Schutzdiensttauglichkeit. Sie wird gemeinsam mit der Rekrutierung für die Armee durchgeführt.
 
+<sup>1bis</sup> Personen, die bei ihrer Einbürgerung älter als 24 sind, werden von den Kantonen spätestens in dem Jahr, in dem sie 30 Jahre alt werden, zur Rekrutierung für den Zivilschutz aufgeboten.[^34-1]
+
 <sup>2</sup>
 
 Für den Zivilschutz nicht rekrutiert werden Stellungspflichtige, die:
 
-- a. infolge eines Strafurteils nach Artikel 21 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^34-1] für die Armee untragbar sind; oder
+- a. infolge eines Strafurteils nach Artikel 21 Absatz 1 des Militärgesetzes vom 3. Februar 1995[^34-2] für die Armee untragbar sind; oder
 - b. den Anforderungen des Militärdiensts aus psychischen Gründen insofern nicht genügen, als sie Auffälligkeiten zeigen, die auf ein Gewaltpotenzial schliessen lassen.
 
-[^34-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^34-1]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^34-2]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 35
 
@@ -563,9 +607,9 @@ Für den Zivilschutz nicht rekrutiert werden Stellungspflichtige, die:
 
 <sup>2</sup> Der Kanton, dem eine schutzdienstpflichtige Person zugeteilt ist, entscheidet über die Einteilung.
 
-<sup>3</sup> Schutzdienstpflichtige, die im Ausland Wohnsitz nehmen, werden im Personalpool erfasst. Sie können bei der Rückkehr in die Schweiz wieder eingeteilt werden, sofern sie noch schutzdienstpflichtig sind.
+<sup>3 und <sup>4</sup></sup> …[^35-1]
 
-<sup>4</sup> Die Kantone stellen nach ihren Möglichkeiten dem Bund geeignete Schutzdienstpflichtige zur Erfüllung seiner Aufgaben zur Verfügung. Bund und Kantone können dazu Leistungsvereinbarungen abschliessen.
+[^35-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 36
 
@@ -614,15 +658,15 @@ Schutzdienstleistende haben Anspruch auf:
 
 Schutzdienstleistende haben Anspruch auf Erwerbsausfallentschädigung nach dem Erwerbsersatzgesetz vom 25. September 1952[^40-1].
 
-[^40-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^40-1]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 41
 
-**Wehrpflichtersatzabgabe**
+**Wehrpflichtersatzabgabe**[^41-1]
 
-Schutzdienstleistenden werden bei der Berechnung der Wehrpflichtersatzabgabe nach dem Bundesgesetz vom 12. Juni 1959[^41-1] über die Wehrpflichtersatzabgabe sämtliche im Rahmen ihrer Schutzdienstpflicht geleisteten Schutzdiensttage angerechnet, die besoldet sind.
+Schutzdienstpflichtigen und Personen, die freiwillig Schutzdienst leisten und ersatzabgabepflichtig sind, werden bei der Berechnung der Wehrpflichtersatzabgabe sämtliche geleisteten Schutzdiensttage angerechnet, die besoldet sind.
 
-[^41-1]: [SR 661](https://fedlex.data.admin.ch/eli/cc/1959/2035_2097_2125)
+[^41-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 42
 
@@ -632,7 +676,7 @@ Schutzdienstleistenden werden bei der Berechnung der Wehrpflichtersatzabgabe nac
 
 <sup>2</sup> Das BABS erlässt Bestimmungen zur Verhütung von Unfällen und Gesundheitsschädigungen im Zivilschutz.
 
-[^42-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^42-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 #### Art. 43
 
@@ -662,11 +706,13 @@ Die Schutzdienstleistungen nach den Artikeln 49–53 dürfen insgesamt 66 Tage p
 
 <sup>1</sup> Das Aufgebot für die Aus- und Weiterbildungsdienste nach den Artikeln 49–52 sowie für die Wiederholungskurse nach Artikel 53 erfolgt durch die Kantone. Die Kantone regeln das Aufgebot.
 
-<sup>2</sup> Das BABS regelt das Aufgebot für die Aus- und Weiterbildungsdienste nach Artikel 54 Absätze 2–4.
+<sup>2</sup> Das BABS erlässt Bestimmungen zum Aufgebot für Aus- und Weiterbildungsdienste nach Artikel 54 Absätze 2–4.[^45-1]
 
 <sup>3</sup> Das Aufgebot ist den Schutzdienstpflichtigen mindestens sechs Wochen vor Dienstbeginn zuzustellen.
 
 <sup>4</sup> Gesuche um Verschiebung von Dienstleistungen sind an die aufbietende Stelle zu richten.
+
+[^45-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 46
 
@@ -684,7 +730,9 @@ Der Bundesrat kann die Schutzdienstpflichtigen aufbieten:
 
 <sup>3</sup> Die Kantone regeln das Verfahren des Aufgebots.
 
-<sup>4</sup> Das BABS regelt das Verfahren des Aufgebots für Schutzdienstpflichtige, die zur Erfüllung von Aufgaben nach Artikel 35 Absatz 4 zur Verfügung stehen.
+<sup>4</sup> …[^46-1]
+
+[^46-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 47
 
@@ -701,11 +749,13 @@ Das BABS kontrolliert, ob:
 
 <sup>3</sup> Werden die zeitlichen Obergrenzen nach den Artikeln 43 und 49-53 überschritten, so weist das BABS den betreffenden Kanton an, die Schutzdienstpflichtigen nicht aufzubieten, und informiert die Zentrale Ausgleichsstelle.
 
-<sup>4</sup> Das BABS führt die Kontrolle über die Schutzdienstpflichtigen, die zur Erfüllung von Aufgaben nach Artikel 35 Absatz 4 eingesetzt werden. Die Kontrolle erfolgt im PISA.
+<sup>4</sup> …[^47-1]
 
 <sup>5</sup> Der Bundesrat legt den Umfang der Kontrolle nach Absatz 1 fest. Er kann Regelungen administrativer und technischer Art betreffend die Benutzung des PISA erlassen.
 
 <sup>6</sup> Er regelt das Kontrollverfahren nach Absatz 2.
+
+[^47-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. Kapitel: Ausbildung
 
@@ -719,17 +769,25 @@ Die Kantone sind für die Ausbildung zuständig, sofern in diesem Gesetz nichts 
 
 **Grundausbildung**
 
-<sup>1</sup> Schutzdienstpflichtige, die nach der Rekrutierung eingeteilt werden, absolvieren die Grundausbildung frühestens ab dem Tag, an dem sie 18 Jahre alt werden, spätestens jedoch bis zum Ende des Jahres, in dem sie 25 Jahre alt werden.
+<sup>1</sup> Die Grundausbildung beginnt spätestens zwei Jahre nach der Rekrutierung für den Zivilschutz.[^49-1]
+
+<sup>1bis</sup> Personen, die nach der Vollendung ihres 24. Altersjahrs schutzdienstpflichtig werden, müssen die Grundausbildung innerhalb eines Jahres nach ihrer Einteilung im Zivilschutz beginnen.[^49-2]
+
+<sup>1ter</sup> Kann der Schutzdienstpflichtige die Frist des Beginns der Grundausbildung aus unvorhergesehenen Gründen nicht einhalten, so kann der Kanton diese verlängern. Der Schutzdienstpflichtige muss die Grundausbildung aber in jedem Fall spätestens in dem Jahr, in dem er 30 Jahre alt wird, beginnen.[^49-3]
 
 <sup>2</sup> Die Grundausbildung dauert 10–19 Tage.
 
 <sup>3</sup> Bei einer Umteilung können die Schutzdienstpflichtigen verpflichtet werden, im neuen Fachgebiet erneut eine Grundausbildung zu absolvieren. Die Kantone entscheiden über eine Umteilung.
 
-<sup>4</sup> Schutzdienstpflichtige, die nach der Rekrutierung nicht eingeteilt werden und ohne Grundausbildung im Personalpool erfasst sind, können bis zum Ende des Jahres, in dem sie 30 Jahre alt werden, zur Grundausbildung aufgeboten werden.
+<sup>4</sup> Leistet eine Person freiwillig Schutzdienst oder hat sie bereits die Rekrutenschule absolviert, so kann der Kanton bestimmen, ob und welche Teile der Grundausbildung sie absolvieren muss. Der Bundesrat regelt die Einzelheiten.[^49-4]
 
-<sup>5</sup> Personen, die bei ihrer Einbürgerung älter als 24 sind, werden von den Kantonen zur Rekrutierung angemeldet. Sie absolvieren die Grundausbildung bis spätestens zum Ende des Jahres, in dem sie 30 Jahre alt werden.
+<sup>5 und <sup>6</sup></sup> …[^49-5]
 
-<sup>6</sup> Personen, die freiwillig Schutzdienst leisten, absolvieren die Grundausbildung innerhalb von drei Jahren nach der Rekrutierung. Verfügt eine Person bereits über eine gleichwertige Ausbildung, so bestimmt der Kanton, ob sie die Grundausbildung absolvieren muss.
+[^49-1]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-2]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-3]: Eingefügt durch Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-4]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^49-5]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 50
 
@@ -791,18 +849,16 @@ Es ist zuständig für:
 
 - a. die zentrale Führungsausbildung der Offiziere;
 - b. die Fachausbildung von Kadermitgliedern sowie von Spezialisten und Spezialistinnen;
-- c. die Ausbildung der Schutzdienstpflichtigen, die dem Bund zur Erfüllung der Aufgaben nach Artikel 35 Absatz 4 zur Verfügung stehen.
+- c.[^54-1] …
 
 <sup>3</sup> Es kann mit den Kantonen vereinbaren, Aus- und Weiterbildungen für sie durchzuführen.
 
 <sup>4</sup> Es kann Angehörigen von Partnerorganisationen sowie Stellen und Organisationen nach Artikel 3 die Teilnahme an seinem Ausbildungsangebot ermöglichen.
 
-<sup>5</sup>
+<sup>5</sup> Es legt in Zusammenarbeit mit den Kantonen die Ziele und die Inhalte der Zivilschutzausbildung fest.[^54-2]
 
-Es regelt:
-
-- a. die Inhalte der Zivilschutzausbildung;
-- b. die Voraussetzungen zur Verkürzung von Ausbildungsdiensten.
+[^54-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^54-2]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 #### Art. 55
 
@@ -848,7 +904,7 @@ Es regelt:
 
 Wer bei einem Einsatz des Zivilschutzes als Privatperson zur Mithilfe verpflichtet wird, ist nach dem MVG[^59-1] versichert.
 
-[^59-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^59-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ### 5. Kapitel: Schutzbauten
 
@@ -974,7 +1030,9 @@ Die Spitalträgerschaften sorgen für die Erstellung, die Ausrüstung, den Unter
 
 <sup>2</sup> Werden geschützte Sanitätsstellen oder geschützte Spitäler aufgehoben, so ist für die aufgehobenen Patientenplätze unter Berücksichtigung der Bedarfsplanung Ersatz zu gewährleisten.
 
-<sup>3</sup> Das BABS regelt das Verfahren zur Genehmigung der Aufhebung.
+<sup>3</sup> …[^71-1]
+
+[^71-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 3. Abschnitt: Gemeinsame Bestimmungen
 
@@ -1005,7 +1063,9 @@ Der Bundesrat kann dem BABS im Bereich der Schutzbauten Rechtsetzungskompetenzen
 - a. der Projektierung, der Erstellung, der Ausrüstung, der Beschaffenheit, der Erneuerung, der Verwendung, des Unterhalts, der periodischen Kontrollen sowie der Aufhebung;
 - b. der Steuerung des Schutzraumbaus und der Zuweisungsplanung;
 - c. der Verwendung durch Dritte;
-- d. der Anforderungen an das Zulassungsverfahren für prüfpflichtige Komponenten.
+- d.[^75-1] …
+
+[^75-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 6. Kapitel: Einsatzmaterial und Material für Schutzanlagen
 
@@ -1018,13 +1078,16 @@ Der Bund ist zuständig für die Beschaffung:
 - a. des standardisierten Materials des Zivilschutzes;
 - b. der Kommunikationsmittel des Zivilschutzes, einschliesslich der Endgeräte des mobilen Sicherheitsfunksystems;
 - c. der Ausrüstung und des Materials für die Schutzanlagen;
-- d. der persönlichen Ausrüstung und des Einsatzmaterials der Schutzdienstpflichtigen, die zur Erfüllung der Aufgaben nach Artikel 35 Absatz 4 zur Verfügung stehen.
+- d.[^76-1] …
 
 <sup>2</sup> Er kann in Absprache mit den Kantonen die Beschaffung des Einsatzmaterials und der persönlichen Ausrüstung der Schutzdienstpflichtigen übernehmen.
 
 <sup>3</sup> Der Bundesrat legt Art und Umfang des standardisierten Materials nach Absatz 1 Buchstabe a fest. Er kann Vorgaben zur Organisation, zur Ausbildung und zum Einsatz machen.
 
-<sup>4</sup> Er kann dem BABS Rechtsetzungskompetenzen übertragen zur Sicherstellung der Einsatzbereitschaft von Material und Ausrüstung nach Absatz 1.
+<sup>4</sup> …[^76-2]
+
+[^76-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^76-2]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
 
 ### 7. Kapitel: Internationales Schutzzeichen und Ausweis des Zivilschutzes
 
@@ -1043,7 +1106,7 @@ Mit dem Schutzzeichen können auch gekennzeichnet werden:
 
 <sup>4</sup> Die Gestaltung des Schutzzeichens und des Ausweises richtet sich nach dem Zusatzprotokoll vom 8. Juni 1977[^77-1] zu den Genfer Abkommen vom 12. August 1949 über den Schutz der Opfer internationaler bewaffneter Konflikte.
 
-[^77-1]: [SR 0.518.521](https://fedlex.data.admin.ch/eli/cc/1982/1362_1362_1362)
+[^77-1]: [SR 0.518.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1968)
 
 ### 8. Kapitel: Haftung für Schäden
 
@@ -1089,7 +1152,7 @@ Mit dem Schutzzeichen können auch gekennzeichnet werden:
 
 <sup>2</sup> Bei der Haftung des Lehrpersonals oder der Schutzdienstpflichtigen werden ausserdem ihr Verhalten im Dienst, ihre finanziellen Verhältnisse und die Art des Dienstes berücksichtigt.
 
-[^81-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^81-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 82
 
@@ -1113,7 +1176,7 @@ Mit dem Schutzzeichen können auch gekennzeichnet werden:
 
 <sup>4</sup> Hat die ersatzpflichtige Person durch ihr schädigendes Verhalten eine strafbare Handlung begangen, so verjährt der Anspruch auf Schadenersatz frühestens mit Eintritt der strafrechtlichen Verfolgungsverjährung. Tritt diese infolge eines erstinstanzlichen Strafurteils nicht mehr ein, so verjährt der Anspruch frühestens mit Ablauf von drei Jahren seit Eröffnung des Urteils.
 
-[^83-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^83-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 9. Kapitel: Beschwerderecht und Verfahren
 
@@ -1218,7 +1281,7 @@ Der Bund trägt die Kosten für:
 - a. die Rekrutierung der Schutzdienstpflichtigen;
 - b. die gemäss diesem Gesetz von ihm durchzuführende Ausbildung und die dazu erforderliche Ausbildungsinfrastruktur;
 - c. Einsätze der Schutzdienstpflichtigen beim Aufgebot durch den Bundesrat;
-- d. Ausbildung, Einsätze und Kontrollführung der Schutzdienstpflichtigen, die zur Erfüllung von Aufgaben nach Artikel 35 Absatz 4 zur Verfügung stehen;
+- d.[^91-1] …
 - e. das Einsatzmaterial und das Material für die Schutzanlagen nach Artikel 76 Absatz 1;
 - f. Sold, Aufgebot, Reise, Verpflegung und Unterkunft der Schutzdienstpflichtigen bei Einsätzen zugunsten der Gemeinschaft auf nationaler Ebene;
 - g. die Verstärkung des Zivilschutzes bei bewaffneten Konflikten;
@@ -1257,6 +1320,8 @@ Der Bundesrat legt fest:
 
 <sup>11</sup> Das BABS kann für Einsätze zugunsten der Gemeinschaft auf nationaler Ebene, die den Kantonen vergütet werden, Pauschalen pro schutzdienstleistende Person festlegen.
 
+[^91-1]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+
 #### Art. 92
 
 **Kantone**
@@ -1289,15 +1354,16 @@ Es bearbeitet die Personendaten der Kursteilnehmenden zur Durchführung der Ausb
 
 <sup>3</sup> Die Kantone können die Daten der Schutzdienstpflichtigen bearbeiten, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz notwendig ist. Insbesondere können sie die für die Beurteilung der Fähigkeit einen bevorstehenden Dienst zu leisten notwendigen sanitätsdienstlichen Daten der Schutzdienstpflichtigen bearbeiten.
 
-<sup>4</sup> Die Daten nach Absatz 3 werden nach der Entlassung aus der Schutzdienstpflicht während fünf Jahren aufbewahrt und dann vernichtet.
+<sup>4</sup> …[^93-5]
 
-<sup>5</sup> …[^93-5]
+<sup>5</sup> …[^93-6]
 
 [^93-1]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-2]: Fassung gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-3]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 [^93-4]: Fassung gemäss Anhang 2 Ziff. 3 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^93-5]: Aufgehoben durch Anhang Ziff. 17 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^93-5]: Aufgehoben durch Ziff. I des BG vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 703](https://fedlex.data.admin.ch/eli/oc/2025/703); [BBl 2024 1216](https://fedlex.data.admin.ch/eli/fga/2024/1216)).
+[^93-6]: Aufgehoben durch Anhang Ziff. 17 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 94
 
@@ -1309,7 +1375,7 @@ Es bearbeitet die Personendaten der Kursteilnehmenden zur Durchführung der Ausb
 
 <sup>3</sup> Das BABS kann den für die Ausbildung zuständigen Stellen der Kantone die Beurteilungen des Kader- oder Spezialistenpotenzials der an Ausbildungen des Bundes teilnehmenden Personen zur Verfügung stellen.
 
-[^94-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^94-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 
 ## 5. Titel: Gewerbliche Leistungen des BABS
 
