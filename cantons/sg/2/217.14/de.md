@@ -3,20 +3,19 @@ canton: SG
 number: "217.14"
 title: "Verordnung über Berichterstattung, Rechnung und Eigenkapital der Universität St.Gallen"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-04-05
+version: 2026-01-01
+version_adopted: 2025-08-12
 adopted: 2015-12-08
 in_force: 2016-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/217.14"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3354/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3817/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Berichterstattung, Rechnung und Eigenkapital der Universität St.Gallen
 
-vom 08.12.2015 (Stand 01.01.2023)
+vom 08.12.2015 (Stand 01.01.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -67,7 +66,12 @@ als Verordnung:[^ingress-2]
 
 **Anhang zur Jahresrechnung**
 
-<sup>1</sup> Der Anhang zur Jahresrechnung enthält die Angaben nach Obligationenrecht[^4-1], einen Rückstellungsspiegel sowie Grundsätze, Art und Höhe der internen Verrechnungen zwischen den Teilbereichen der Universität.
+<sup>1</sup> Der Anhang zur Jahresrechnung enthält:
+
+- a) die Angaben nach Obligationenrecht[^4-1];
+- b) einen Rückstellungsspiegel;
+- c) eine Aufstellung über Verpflichtungen aus langfristigen Mietverträgen, aufgeteilt nach Fälligkeit innerhalb von einem Jahr, einem bis fünf Jahren und nach fünf Jahren;
+- d) Grundsätze, Art und Höhe der internen Verrechnungen zwischen den Teilbereichen der Universität.
 
 [^4-1]: Bundesgesetz betreffend Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht) vom 30. März 1911, SR [220](https://db.clex.ch/link/Bund/220/de).
 
@@ -75,7 +79,7 @@ als Verordnung:[^ingress-2]
 
 **Einreichung und Kenntnisnahme**
 
-<sup>1</sup> Der Geschäftsbericht und die Jahresrechnung des Vorjahres werden der Regierung bis Ende Juni vorgelegt.
+<sup>1</sup> Der Geschäftsbericht und die Jahresrechnung des Vorjahres werden dem Amt für Hochschulen bis Ende Juni zugestellt.
 
 <sup>2</sup> Die Regierung nimmt den Geschäftsbericht und die Jahresrechnung zur Kenntnis.
 
