@@ -4,13 +4,12 @@ number: "813.501"
 title: Verordnung zum Altersbetreuungs- und Pflegegesetz
 short: AbPV
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-07-01
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2009-02-10
 in_force: 2009-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/813.501"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2007/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2047/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/2007/pdf_file"
 
 (AbPV)
 
-Vom 10.02.2009 (Stand 01.08.2025)
+Vom 10.02.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -363,13 +362,15 @@ verordnet:
 
 **Berichterstattung**
 
-<sup>1</sup> Heime und Organisationen, die Leistungen im Sinne des KVG bzw. des AbPG unter Beanspruchung finanzieller Beiträge des Kantons und/oder der Gemeinden erbringen, stellen dem Gesundheitsamt jährlich bis Ende Juni nach dessen Weisungen folgende Unterlagen zu:
+<sup>1</sup> Pflegeheime, Organisationen der Hilfe und Pflege zu Hause und selbständig tätige Pflegefachpersonen, die Leistungen im Sinne des KVG bzw. des AbPG unter Beanspruchung finanzieller Beiträge des Kantons und/oder der Gemeinden erbringen, stellen dem Gesundheitsamt nach dessen Weisungen folgende Unterlagen zu:
 
-- a) Betriebsrechnung
+- a) Jahresrechnung (Bilanz und Erfolgsrechnung) bzw. entsprechende Auszüge aus der Gemeinderechnung unter Angabe der Gebäudewerte und Gebäudeversicherungswerte
 - b) Statistik der erbrachten Leistungen
-- c) Kennzahlen zur Aufwands- und Ertragsentwicklung der wichtigsten Leistungsbereiche aufgrund einer nach branchenüblichen Standards geführten Kostenrechnung
-- d) Stellenplan
+- c) Kostenrechnung inkl. Anlagenbuchhaltung geführt nach branchenüblichen Standards (insb. derjenigen der Branchenverbände)
+- d) Stellen- und Einsatzpläne
 - e) Revisionsbericht (nur private Organisationen)
+- f) Tax- bzw. Tarif-Ordnungen
+- g) Weitere Daten und Unterlagen für die Plausibilisierung von Angaben zur Wirtschaftlichkeit und Qualität
 
 <sup>2</sup> In der Berichterstattung der hauptverantwortlichen Trägerschaften gemäss § 19 Abs. 1 dieser Verordnung werden die durch Partnerorganisationen in ihrem Auftrag erbrachten Leistungen mit ausgewiesen.
 
@@ -399,25 +400,25 @@ verordnet:
 
 <sup>1</sup> Pflegeleistungen in Heimen sind mit dem Pflegebedarfserhebungssystem BESA (LK Version 2020) oder mit interRAI (CH-Index 2016 LTCF) zu erfassen. Mit Zustimmung des Gesundheitsamtes können in begründeten Ausnahmefällen auch andere branchenübliche Systeme genutzt werden.
 
-<sup>2</sup> Für Heime mit kommunalen Leistungsaufträgen werden die Finanzierungsrichtwerte im Sinne von Art. 10b Abs. 4 des Gesetzes wie folgt festgesetzt (Beträge in Fr. pro Pflegetag; Basis Fr. 84.00 Vollkosten je Pflegestunde):
+<sup>2</sup> Für Pflegeheime mit kommunalen Leistungsaufträgen werden die Finanzierungsrichtwerte im Sinne von Art. 10b Abs. 4 des Gesetzes wie folgt festgesetzt (Beträge in Fr. pro Pflegetag; Basis Fr. 87.00 Vollkosten je Pflegestunde):
 
 <table>
 <tr><th>Pflegestufe</th><th>Pflegebedarf Minuten</th><th>Abrechenbare Pflegekosten (Vollkosten pro Stunde)</th><th>Beiträge Versicherer</th><th>Patientenbeteiligung</th><th>Beitrag Gemeinden</th></tr>
-<tr><td>1</td><td>1–20</td><td>Fr. 14.70</td><td>Fr. 9.60</td><td>Fr. 5.10</td><td>Fr. 0.00</td></tr>
-<tr><td>2</td><td>21–40</td><td>Fr. 42.70</td><td>Fr. 19.20</td><td>Fr. 23.00</td><td>Fr. 0.50</td></tr>
-<tr><td>3</td><td>41–60</td><td>Fr. 70.70</td><td>Fr. 28.80</td><td>Fr. 23.00</td><td>Fr. 18.90</td></tr>
-<tr><td>4</td><td>61–80</td><td>Fr. 98.70</td><td>Fr. 38.40</td><td>Fr. 23.00</td><td>Fr. 37.30</td></tr>
-<tr><td>5</td><td>81–100</td><td>Fr. 126.70</td><td>Fr. 48.00</td><td>Fr. 23.00</td><td>Fr. 55.70</td></tr>
-<tr><td>6</td><td>101–120</td><td>Fr. 154.70</td><td>Fr. 57.60</td><td>Fr. 23.00</td><td>Fr. 74.10</td></tr>
-<tr><td>7</td><td>121–140</td><td>Fr. 182.70</td><td>Fr. 67.20</td><td>Fr. 23.00</td><td>Fr. 92.50</td></tr>
-<tr><td>8</td><td>141–160</td><td>Fr. 210.70</td><td>Fr. 76.80</td><td>Fr. 23.00</td><td>Fr. 110.90</td></tr>
-<tr><td>9</td><td>161–180</td><td>Fr. 238.70</td><td>Fr. 86.40</td><td>Fr. 23.00</td><td>Fr. 129.30</td></tr>
-<tr><td>10</td><td>181–200</td><td>Fr. 266.70</td><td>Fr. 96.00</td><td>Fr. 23.00</td><td>Fr. 147.70</td></tr>
-<tr><td>11</td><td>201–220</td><td>Fr. 294.70</td><td>Fr. 105.60</td><td>Fr. 23.00</td><td>Fr. 166.10</td></tr>
-<tr><td>12</td><td>über 220</td><td>Fr. 322.70</td><td>Fr. 115.20</td><td>Fr. 23.00</td><td>Fr. 184.50</td></tr>
+<tr><td>1</td><td>1–20</td><td>Fr. 15.20</td><td>Fr. 9.60</td><td>Fr. 5.60</td><td>Fr. 0.00</td></tr>
+<tr><td>2</td><td>21–40</td><td>Fr. 45.00</td><td>Fr. 19.20</td><td>Fr. 23.00</td><td>Fr. 2.80</td></tr>
+<tr><td>3</td><td>41–60</td><td>Fr. 74.00</td><td>Fr. 28.80</td><td>Fr. 23.00</td><td>Fr. 22.20</td></tr>
+<tr><td>4</td><td>61–80</td><td>Fr. 103.00</td><td>Fr. 38.40</td><td>Fr. 23.00</td><td>Fr. 41.60</td></tr>
+<tr><td>5</td><td>81–100</td><td>Fr. 132.00</td><td>Fr. 48.00</td><td>Fr. 23.00</td><td>Fr. 61.00</td></tr>
+<tr><td>6</td><td>101–120</td><td>Fr. 161.00</td><td>Fr. 57.60</td><td>Fr. 23.00</td><td>Fr. 80.40</td></tr>
+<tr><td>7</td><td>121–140</td><td>Fr. 190.00</td><td>Fr. 67.20</td><td>Fr. 23.00</td><td>Fr. 99.80</td></tr>
+<tr><td>8</td><td>141–160</td><td>Fr. 219.00</td><td>Fr. 76.80</td><td>Fr. 23.00</td><td>Fr. 119.20</td></tr>
+<tr><td>9</td><td>161–180</td><td>Fr. 248.00</td><td>Fr. 86.40</td><td>Fr. 23.00</td><td>Fr. 138.60</td></tr>
+<tr><td>10</td><td>181–200</td><td>Fr. 277.00</td><td>Fr. 96.00</td><td>Fr. 23.00</td><td>Fr. 158.00</td></tr>
+<tr><td>11</td><td>201–220</td><td>Fr. 306.00</td><td>Fr. 105.60</td><td>Fr. 23.00</td><td>Fr. 177.40</td></tr>
+<tr><td>12</td><td>über 220</td><td>Fr. 335.00</td><td>Fr. 115.20</td><td>Fr. 23.00</td><td>Fr. 196.80</td></tr>
 </table>
 
-<sup>2<sup>bis</sup></sup> Die Sätze in Abs. 2 gelten auch für das Wohnheim Sonnmatt AG. Für das Wohnheim Frohberg GmbH gelten abweichend von Abs. 2 Sätze auf Basis von Fr. 62.00 Vollkosten je Pflegestunde.
+<sup>2<sup>bis</sup></sup> Die Sätze in Abs. 2 gelten auch für die Wohnheime Sonnmatt AG und Frohberg GmbH.
 
 <sup>3</sup> Bei Heimen, deren Pflegekosten mit den Ansätzen gemäss Abs. 2 nicht finanziert werden können, ist die Finanzierungslücke mit Zusatzbeiträgen der auftraggebenden Gemeinden zu schliessen. Die Vertrags- bzw. Trägergemeinden regeln die Einzelheiten.
 
@@ -431,13 +432,13 @@ verordnet:
 
 <sup>1</sup> Die Gemeindebeiträge zur Restfinanzierung ambulanter Pflegeleistungen gemäss Art. 7 Abs. 2 KLV durch zugelassene Anbieter ohne öffentlichen Leistungsauftrag werden auf deren begründeten Antrag hin durch separaten Beschluss des Regierungsrates festgelegt.
 
-<sup>2</sup> Die Abrechnungen der Leistungserbringer sind den von den Wohngemeinden der Klientinnen bzw. Klienten bezeichneten Stellen einzureichen. Neben den Forderungen an die Gemeinden sind die gegenüber den Versicherern und den Klientinnen bzw. Klienten gemäss KVG verrechneten Beiträge differenziert auszuweisen.
+<sup>2</sup> Die Abrechnungen der Leistungserbringer sind den von den Wohngemeinden der Klientinnen bzw. Klienten bezeichneten Stellen einzureichen und die verrechneten Beiträge transparent darzustellen. Die gegenüber den Versicherern, den Klientinnen bzw. Klienten und der öffentlichen Hand gemäss KVG verrechneten Beiträge sind jeweils separat auszuweisen. Separat auszuweisen sind zudem Grundpflege-Leistungen von angestellten Personen gemäss Abs. 4. Das Gesundheitsamt kann zusätzliche Dokumente bezeichnen, die mit der Abrechnung einzureichen sind.
 
-<sup>3</sup> Für die Restfinanzierung ambulanter Pflegeleistungen, die durch Anbieter ohne Leistungsauftrag der Gemeinden erbracht werden, gilt - soweit kein Spezialtarif festgelegt wurde - der Satz von Fr. 24.00 pro Pflegestunde (Fr. 2.00 je 5-Minuten-Einheit).
+<sup>3</sup> Für die Restfinanzierung ambulanter Pflegeleistungen, die durch Anbieter ohne Leistungsauftrag der Gemeinden erbracht werden, gilt - soweit kein Spezialtarif festgelegt wurde - der Satz von Fr. 27.60 pro Pflegestunde (Fr. 2.30 je 5-Minuten-Einheit).
 
-<sup>4</sup> Für die Restfinanzierung ambulanter Pflegeleistungen gemäss Art. 7 Abs. 2 lit. c KLV (Massnahmen der Grundpflege), die durch pflegende Angehörige bzw. pflegende Bezugspersonen erbracht werden, gelten Pflegerestkosten in der Höhe von Fr. 18.00 pro Pflegestunde (Fr. 1.50 je 5-Minuten-Einheit).
+<sup>4</sup> Für ambulante Pflegeleistungen gemäss Art. 7 Abs. 2 lit. c KLV (Massnahmen der Grundpflege), die durch pflegende Angehörige bzw. pflegende Bezugspersonen erbracht werden, gelten Vollkosten in der Höhe von Fr. 69.40 pro Pflegestunde, von denen die Krankenversicherungsbeiträge (Fr. 52.60 pro Pflegestunde) und die maximalen Patientenselbstbehalte (Fr. 15.35 pro Tag) abzuziehen sind. Der Abzug der Patientenselbstbehalte entfällt bei Personen gemäss Art. 10a Abs. 2 AbPG (Personen bis zum vollendeten 18. Lebensjahr).
 
-<sup>5</sup> Für die Restfinanzierung der Spitalexternen Onkologiepflege (SEOP) der Krebsliga Schaffhausen und der psychiatrischen Spitex ALPHA-Pflege gelten Pflegerestkosten in der Höhe von Fr. 54.00 pro Pflegestunde (Fr. 4.50 je 5-Minuten-Einheit).
+<sup>5</sup> Für die Restfinanzierung der Spitalexternen Onkologiepflege (SEOP) der Krebsliga Schaffhausen gelten Pflegerestkosten in der Höhe von Fr. 67.20 (Fr. 5.60 je 5-Minuten-Einheit) und für die psychiatrische Spitex ALPHA-Pflege in der Höhe von Fr. 54.00 pro Pflegestunde (Fr. 4.50 je 5-Minuten-Einheit).
 
 <sup>6</sup> Für die Stiftung Joël Kinderspitex und Stiftung Kifa Schweiz werden Vollkosten in der Höhe von Fr. 128.00 pro Pflegestunde anerkannt. Weitere Kinderspitex-Organisationen können diese Kosten per Kooperationsvertrag i.S.v. § 19 Abs. 1 dieser Verordnung über die Spitex-Organisationen mit Leistungsvertrag der Gemeinden vereinbaren und abwickeln. Zur Berechnung der Pflegerestkosten sind von den Pflegevollkosten die Beiträge der Krankenversicherer und Klientinnen und Klienten abzuziehen.
 
@@ -465,19 +466,24 @@ verordnet:
 
 #### § 32
 
-**Rechnungslegung der Gemeinden und Heime mit Leistungsauftrag**
+**Rechnungslegung der Pflegeheime sowie der Organisationen der ambulanten Hilfe und Pflege Zuhause (Spitex) und der selbständig tätigen Pflegefachpersonen**
 
 <sup>1</sup> In den Gemeinderechnungen sind alle anrechenbaren Leistungen im Sinne von Art. 12 des Gesetzes transparent und nachvollziehbar auszuweisen. Dies betrifft auch allfällige Betriebsgewinne und Rückzahlungen im Sinne von Art. 12 Abs. 4 des Gesetzes, Fondsbestände und ungetilgte Anlagewerte, die über die Investitionsrechnung finanziert wurden (Bestandesrechnung), Abschreibungen und Zinsen (Art. 12 Abs. 5 des Gesetzes) sowie Taxermässigungen i.S.v. Art. 10 Abs. 2 des Gesetzes.
 
 <sup>2</sup> Bei kommunalen Heimen, deren Mittel im Rahmen der Gemeinderechnung verwaltet werden, darf der angerechnete Zins den vom Bundesamt für das Wohnungswesen festgelegten hypothekarischen Referenzzinssatz nicht übersteigen.
 
-<sup>3</sup> Die Rechnungen der Alters- und Pflegeheime (KVG-Heime) sind nach den aktuellen Normen des Branchenverbandes curaviva zu führen. Insbesondere finden folgende Handbücher der curaviva Schweiz Anwendung:
+<sup>3</sup> Die Jahres- und Kostenrechnungen der zugelassenen Pflegeheime (KVG-Heime) sind nach den aktuellen Normen des Branchenverbandes Artiset zu führen. Folgende Handbücher von Artiset sind für alle bewilligten Pflegeheime verbindlich:
 
 - a) Handbuch Kostenrechnung und Leistungsstatistik für Alters- und Pflegeheime
 - b) Handbuch Anlagebuchhaltung für Alters- und Pflegeheime
 - c) Kontenrahmen für Alters- und Pflegeheime
 
-<sup>4</sup> Das Gesundheitsamt ist ermächtigt, zusätzliche Weisungen zur Rechnungslegung, Datenerhebung und Ermittlung der KVG-pflichtigen Pflegekosten der Heime zu erlassen.
+<sup>3<sup>bis</sup></sup> Die Jahres- und Kostenrechnungen sowie die Leistungsstatistiken der zugelassenen Organisationen der Hilfe und Pflege zu Hause und selbständig tätigen Pflegefachpersonen sind ab dem Jahr 2027 nach den aktuellen Normen des Branchenverbandes Spitex Schweiz bzw. Verband der privaten Spitex-Organisationen ASPS zu führen. Insbesondere sind folgende Dokumente verbindlich:
+
+- a) Handbuch zum Rechnungswesen für Spitex-Organisationen (Finanzmanual)
+- b) Leistungskatalog gemäss Art. 7 Abs. 2 KLV
+
+<sup>4</sup> Das Gesundheitsamt ist ermächtigt, zusätzliche Weisungen zur Rechnungslegung, Datenerhebung und Ermittlung der KVG-pflichtigen Pflegekosten zu erlassen. Das Gesundheitsamt kann Ausnahmen gewähren, insbesondere bei geringer Leistungsmenge.
 
 #### § 33
 
