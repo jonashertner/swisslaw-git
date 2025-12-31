@@ -4,13 +4,12 @@ number: "436.111.1"
 title: Ordonnance sur l’Université
 short: OUni
 language: fr
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-05-22
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2012-09-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3036/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3273/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3036/pdf_file"
 
 (OUni)
 
-du 12.09.2012 (état au 01.08.2024)
+du 12.09.2012 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -105,6 +104,8 @@ arrête:
 <sup>1</sup> Les étudiants et les étudiantes ainsi que les doctorants et les doctorantes doivent s’immatriculer.
 
 <sup>2</sup> Toutes les autres personnes recourant à des prestations de l’Université doivent s’enregistrer.
+
+<sup>2a</sup> En règle générale, il n’est pas permis de s’immatriculer simultanément dans une autre université suisse au même niveau d’études.
 
 <sup>3</sup> Les personnes qui ne sont ni immatriculées ni enregistrées ne peuvent prétendre à aucune prestation de l’Université, notamment suivre des cours ou se présenter à des contrôles de connaissances.
 
@@ -396,12 +397,12 @@ arrête:
 
 <sup>2</sup> Ces règlements comprennent au minimum, sous réserve des réglementations cantonales et fédérales, des dispositions concernant
 
-- a les objectifs des études et les conditions d’admission,
+- a les conditions d’admission,
 - b la structure des études,
 - c le conseil aux études,
 - d les examens,
 - e la reconnaissance de résultats obtenus dans d’autres parcours d’études,
-- f les exigences pour l’octroi des titres de bachelor, de master et de doctorat.
+- f les exigences pour l’octroi des titres de bachelor, de master et de doctorat ainsi que pour leur dénomination.
 
 <sup>3</sup> La Direction de l’instruction publique et de la culture approuve ces règlements.
 
@@ -455,7 +456,7 @@ arrête:
 
 **Taxes d’inscription et d’immatriculation**
 
-<sup>1</sup> La taxe d’inscription aux études s’élève à 100 francs.
+<sup>1</sup> La taxe d’inscription aux études s’élève à 150 francs.
 
 <sup>2</sup> Elle s’élève à 300 francs pour les étudiants et les étudiantes admis sur la base de l’article 29, alinéa 1, lettre f LUni.
 
@@ -467,11 +468,11 @@ arrête:
 
 **Taxe universitaire**
 
-<sup>1</sup> La taxe universitaire s’élève à 750 francs par semestre.
+<sup>1</sup> La taxe universitaire s’élève à 850 francs par semestre.
 
-<sup>1a</sup> Les étudiants étrangers et les étudiantes étrangères s'acquittent d'une taxe universitaire supplémentaire de 200 francs par semestre en plus de la taxe universitaire prévue à l'alinéa 1 si leur domicile civil n'était situé ni en Suisse, ni dans la Principauté du Liechtenstein au moment où ils ont obtenu le diplôme les habilitant à s'inscrire à une filière d'études menant au bachelor.
+<sup>1a</sup> Les étudiants étrangers et les étudiantes étrangères s'acquittent d'une taxe universitaire supplémentaire de 1700 francs par semestre en plus de la taxe universitaire prévue à l'alinéa 1 si leur domicile civil n'était situé ni en Suisse, ni dans la Principauté du Liechtenstein au moment où ils ont obtenu le diplôme les habilitant à s'inscrire à une filière d'études menant au bachelor.
 
-<sup>2</sup> Les personnes qui étudient pendant plus de douze semestres sans obtenir de diplôme s’acquittent d’une taxe universitaire de 1500 francs pour le treizième semestre. Le montant de la taxe double à chaque semestre supplémentaire.
+<sup>2</sup> Les personnes qui étudient pendant plus de douze semestres sans obtenir de diplôme s’acquittent d’une taxe universitaire de 1700 francs pour le treizième semestre. Le montant de la taxe double à chaque semestre supplémentaire.
 
 <sup>3</sup> Dans des cas de rigueur, la direction de l’Université peut exempter totalement ou partiellement les personnes concernées du paiement de la taxe universitaire visée à l’alinéa 2.
 
@@ -604,6 +605,7 @@ arrête:
 
 - a postdoctorants et postdoctorantes,
 - b chefs et cheffes de clinique II,
+- b1 chefs et cheffes de clinique de la médecine vétérinaire,
 - c–d …
 - e médecins assistants et médecins assistantes de la médecine humaine/dentaire,
 - e1 médecins assistants et médecins assistantes de la médecine vétérinaire,
@@ -611,7 +613,7 @@ arrête:
 - e3 doctorants et doctorantes engagés,
 - f assistants et assistantes auxiliaires.
 
-<sup>2</sup> Les chefs et les cheffes de clinique ainsi que les médecins assistants et les médecins assistantes de la médecine humaine/dentaire entrent dans le champ d’application de la présente ordonnance pour autant qu’ils ne soient pas soumis à la législation sur les soins hospitaliers.
+<sup>2</sup> Les chefs et les cheffes de clinique II ainsi que les médecins assistants et les médecins assistantes de la médecine humaine/dentaire entrent dans le champ d’application de la présente ordonnance pour autant qu’ils ne soient pas soumis à la législation sur les soins hospitaliers.
 
 ### 3.2 Dispositions générales
 
@@ -802,6 +804,8 @@ arrête:
 
 <sup>2</sup> La résiliation intervient à la fin d’un semestre pour l’ensemble des membres du corps enseignant et à la fin d’un mois pour les autres collaborateurs et collaboratrices.
 
+<sup>2a</sup> À l’expiration d’une période au sens de l’article 28, alinéa 1 LPers, les rapports de travail des membres du corps enseignant peuvent être résiliés pour la fin d’un mois.
+
 <sup>3</sup> Pour de justes motifs, le supérieur ou la supérieure hiérarchique ou un organe supérieur peut approuver un délai de résiliation plus court ou un autre terme de départ.
 
 <sup>4</sup> Le délai et les termes de résiliation des rapports de travail durant la période probatoire sont régis par la législation sur le personnel.
@@ -878,7 +882,7 @@ arrête:
 
 <sup>1</sup> La création, la modification, la suppression et l’attribution de charges de professorat ordinaire et extraordinaire visent l’accomplissement du mandat de prestations confié par le Conseil-exécutif.
 
-<sup>2</sup> Ils sont fonction des directives stratégiques de la direction de l’Université, des moyens disponibles, des conventions de prestations conclues entre la direction de l’Université et les facultés, ainsi que de la planification de ces dernières en matière de charges de professorat.
+<sup>2</sup> Elles sont fonction des directives stratégiques de la direction de l’Université, des moyens disponibles, des conventions de prestations conclues entre la direction de l’Université et les facultés, ainsi que de la planification de ces dernières en matière de charges de professorat.
 
 #### Art. 61
 
@@ -886,9 +890,9 @@ arrête:
 
 <sup>1</sup> La direction de l’Université, en sa qualité d’autorité d’engagement, est responsable de la procédure.
 
-<sup>2</sup> La faculté concernée élabore en règle générale un rapport structurel sur lequel se fonde la direction de l’Université pour arrêter la création, la modification, la suppression et l’attribution de charges de professorat ordinaire et extraordinaire.
+<sup>2</sup> La direction de l’Université arrête la création, la modification, la suppression ou l’attribution de charges de professorat ordinaires ou extraordinaires sur la base de la planification stratégique et de la planification des charges de professorat.
 
-<sup>3</sup> Si, exceptionnellement, aucun rapport structurel n’est élaboré, l’Association des étudiants et des étudiantes ainsi que l’association d’intérêts des enseignants et des enseignantes et celle des assistants et des assistantes selon les articles 26 et 28 LUni sont entendues.
+<sup>3</sup> La participation de l’Association des étudiants et des étudiantes ainsi que de l’association d’intérêts des enseignants et des enseignantes et de celle des assistants et des assistantes selon les articles 26 et 28 LUni doit être garantie.
 
 <sup>4</sup> La direction de l’Université prend ses décisions en accord avec la faculté concernée.
 
@@ -936,7 +940,7 @@ arrête:
 
 **Tâches et contrat d’engagement**
 
-<sup>1</sup> Les professeurs et professeures ordinaires et extraordinaires assument leurs tâches d’enseignement, de recherche et de promotion de la relève universitaire de manière autonome et sous leur propre responsabilité dans le cadre de leur mandat d’enseignement et de recherche, et participent à l’autoadministration de l’Université.
+<sup>1</sup> Les professeurs et professeures ordinaires et extraordinaires assument leurs tâches d’enseignement, de recherche et de promotion de la relève universitaire de manière autonome et sous leur propre responsabilité dans le cadre de leur mandat d’enseignement et de recherche, assument des fonctions de direction et participent à l’autoadministration de l’Université.
 
 <sup>2</sup> Ils peuvent fournir des services qui s’inscrivent dans le cadre de la recherche et de l’enseignement. Ils n’y sont contraints que si un mandat de prestations particulier le prévoit.
 
@@ -1006,7 +1010,7 @@ arrête:
 
 **Exigences structurelles**
 
-<sup>1</sup> La création d’une charge de professorat assistant avec prétitularisation conditionnelle requiert en règle générale que la faculté concernée adresse à la direction de l’Université un rapport structurel faisant état de la charge de professorat extraordinaire ou ordinaire envisagée pour l’avenir, et contenant une proposition.
+<sup>1</sup> La création d’une charge de professorat assistant avec prétitularisation conditionnelle requiert en règle générale une base dans la planification stratégique et la planification des charges de professorat ainsi qu'une proposition de la faculté à la direction de l’Université en ce qui concerne la charge de professorat extraordinaire ou ordinaire envisagée.
 
 <sup>2</sup> La direction de l’Université définit la procédure d’engagement. La participation de l’Association des étudiants et des étudiantes ainsi que de l’association d’intérêts des enseignants et des enseignantes et de celle des assistants et des assistantes selon les articles 26 et 28 LUni doit être garantie.
 
@@ -1209,7 +1213,7 @@ arrête:
 
 <sup>1</sup> En principe, un postdoctorant ou une postdoctorante est d’abord engagée pour trois ans. L’engagement peut être prolongé. La durée d’engagement maximale est de six ans.
 
-### 3.3.7.2 Chefs et cheffes de clinique II, médecins assistants et médecins assistantes de la médecine humaine/dentaire ainsi que médecins assistants et médecins assistantes de la médecine vétérinaire
+### 3.3.7.2 Chefs et cheffes de clinique II, chefs et cheffes de clinique de la médecine vétérinaire, médecins assistants et médecins assistantes de la médecine humaine/dentaire ainsi que médecins assistants et médecins assistantes de la médecine vétérinaire
 
 #### Art. 84
 
@@ -1219,17 +1223,21 @@ arrête:
 
 <sup>2</sup> L’engagement comme chef ou cheffe de clinique II requiert un diplôme fédéral en médecine, un diplôme de master de la faculté correspondante ou un titre équivalent et, en règle générale, un titre de spécialiste en médecine.
 
-<sup>3</sup> L’engagement comme médecin assistant ou médecin assistante de la médecine humaine/dentaire ou comme médecin assistant ou médecin assistante de la médecine vétérinaire requiert un diplôme fédéral en médecine, un diplôme de master de la faculté correspondante ou un titre équivalent.
+<sup>2a</sup> L’engagement comme chef ou cheffe de clinique de la médecine vétérinaire requiert un diplôme fédéral en médecine vétérinaire, un diplôme de master de la faculté correspondante ou un titre équivalent et, en règle générale, un titre de spécialiste en médecine vétérinaire.
+
+<sup>3</sup> L’engagement comme médecin assistant ou médecin assistante de la médecine humaine/dentaire requiert un diplôme fédéral en médecine, un diplôme de master de la faculté correspondante ou un titre équivalent.
+
+<sup>3a</sup> L’engagement comme médecin assistant ou médecin assistante de la médecine vétérinaire requiert un diplôme fédéral en médecine vétérinaire, un diplôme de master de la faculté correspondante ou un titre équivalent.
 
 #### Art. 85
 
 **Tâches**
 
-<sup>1</sup> Les chefs et les cheffes de clinique II, les médecins assistants et les médecins assistantes de la médecine humaine/dentaire ainsi que les médecins assistants et les médecins assistantes de la médecine vétérinaire participent aux tâches d’enseignement et de recherche et, le cas échéant, aux services de leur institut ou d’une autre unité administrative.
+<sup>1</sup> Les chefs et les cheffes de clinique II, les chefs et les cheffes de clinique de la médecine vétérinaire, les médecins assistants et les médecins assistantes de la médecine humaine/dentaire ainsi que les médecins assistants et les médecins assistantes de la médecine vétérinaire participent aux tâches d’enseignement et de recherche et, le cas échéant, aux services de leur institut ou d’une autre unité administrative.
 
 <sup>2</sup> …
 
-<sup>3</sup> Les chefs et les cheffes de clinique II, les médecins assistants et les médecins assistantes de la médecine humaine/dentaire ainsi que les médecins assistants et les médecins assistantes de la médecine vétérinaire poursuivent leur formation postgrade en vue de se spécialiser. Pour autant que le fonctionnement ordinaire de leur unité puisse être assuré, ils sont autorisés à suivre la formation ou la formation postgrade nécessaire à l’obtention de ce titre pendant leur temps de travail.
+<sup>3</sup> Les chefs et les cheffes de clinique II, les chefs et les cheffes de clinique de la médecine vétérinaire, les médecins assistants et les médecins assistantes de la médecine humaine/dentaire ainsi que les médecins assistants et les médecins assistantes de la médecine vétérinaire poursuivent leur formation postgrade en vue de se spécialiser. Pour autant que le fonctionnement ordinaire de leur unité puisse être assuré, ils sont autorisés à suivre la formation ou la formation postgrade nécessaire à l’obtention de ce titre pendant leur temps de travail.
 
 <sup>4</sup> L'Université fixe par voie de règlement les modalités de détail de la formation postgrade suivie pendant le temps de travail.
 
@@ -1237,11 +1245,11 @@ arrête:
 
 **Durée de l’engagement**
 
-<sup>1</sup> Les chefs et les cheffes de clinique II, les médecins assistants et les médecins assistantes de la médecine humaine/dentaire ainsi que les médecins assistants et les médecins assistantes de la médecine vétérinaire sont engagés pour une durée maximale de six ans, quel que soit leur degré d’occupation.
+<sup>1</sup> Les chefs et les cheffes de clinique II, les chefs et les cheffes de clinique de la médecine vétérinaire, les médecins assistants et les médecins assistantes de la médecine humaine/dentaire ainsi que les médecins assistants et les médecins assistantes de la médecine vétérinaire sont engagés pour une durée maximale de six ans, quel que soit leur degré d’occupation.
 
-<sup>2</sup> La durée de l’engagement en tant que médecin assistant de la médecine humaine/dentaire, médecin assistant de la médecine vétérinaire et chef de clinique II ou médecin assistante de la médecine humaine/dentaire, médecin assistante de la médecine vétérinaire et cheffe de clinique II ne peut dépasser dix ans au total.
+<sup>2</sup> La durée de l’engagement en tant que médecin assistant ou médecin assistante de la médecine humaine/dentaire, médecin assistant ou médecin assistante de la médecine vétérinaire, chef ou cheffe de clinique II ou médecin assistant ou médecin assistante de la médecine vétérinaire ne peut dépasser dix ans au total.
 
-<sup>3</sup> Les chefs et les cheffes de clinique II peuvent être engagés à durée indéterminée pour autant que leur tâche consiste principalement à fournir des services.
+<sup>3</sup> Les chefs et les cheffes de clinique II ainsi que les chefs et les cheffes de clinique de la médecine vétérinaire peuvent être engagés à durée indéterminée pour autant que leur tâche consiste principalement à fournir des services.
 
 ### 3.3.7.3 Assistants et assistantes scientifiques
 
@@ -1271,7 +1279,7 @@ arrête:
 
 <sup>3</sup> La direction de l’Université détermine la grille des traitements sur la base des prescriptions du FNS.
 
-<sup>4</sup> Les doctorants et doctorantes peuvent aussi être engagés en tant qu’assistant ou assistante scientifique à un degré d’occupation maximal de 25 pour cent.
+<sup>4</sup> Les doctorants et les doctorantes peuvent aussi exercer une activité rémunérée supplémentaire à hauteur d’un degré d’occupation s'élevant généralement à 25 pour cent au maximum. Cette activité doit être en rapport avec leur activité scientifique.
 
 ### 3.3.7.5 Assistants et assistantes auxiliaires
 
@@ -1384,7 +1392,7 @@ arrête:
 
 **Renonciation à l’indemnisation des prestations**
 
-<sup>1</sup> La faculté concernée peut décider que les unités administratives fournissant des services permanents n’indemnisent pas leurs collaborateurs et collaboratrices du fait de ces services.
+<sup>1</sup> La direction de l’Université peut décider que les unités administratives fournissant des services permanents n’indemnisent pas leurs collaborateurs et collaboratrices du fait de ces services.
 
 ## 5 Direction de l’Université
 
@@ -1780,6 +1788,25 @@ arrête:
 **Personnes exemptées de l’entretien d’évaluation périodique**
 
 <sup>1</sup> La modification de l’article 52a, alinéa 4, lettre d est applicable avec effet rétroactif au 1<sup>er</sup> janvier 2024.
+
+## T6 Dispositions transitoires de la modification du 19.11.2025
+
+#### Art. T6-1
+
+**Taxes d’inscription**
+
+<sup>1</sup> Les taxes d’inscription prévues par la présente modification sont perçues pour la première fois pour l'inscription au semestre d’automne 2026.
+
+#### Art. T6-2
+
+**Taxe universitaire**
+
+<sup>1</sup> La taxe universitaire prévue par la présente modification est perçue pour la première fois au semestre d’automne 2026. L’alinéa 2 est réservé.
+
+<sup>2</sup> La taxe universitaire supplémentaire (art. 39, al. 1a) prévue par le droit en vigueur est acquittée par les étudiants étrangers et les étudiantes étrangères qui, avant le semestre d’automne 2026,
+
+- a sont immatriculés à l’Université pour des études de bachelor, jusqu’à l’obtention du diplôme de bachelor;
+- b sont immatriculés à l’Université pour des études de master, jusqu’à l’obtention du diplôme de master.
 
 ## A1
 

@@ -4,13 +4,12 @@ number: "436.111.1"
 title: Verordnung über die Universität
 short: UniV
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-05-22
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2012-09-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3036/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3273/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3036/pdf_file"
 
 (UniV)
 
-vom 12.09.2012 (Stand 01.08.2024)
+vom 12.09.2012 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -105,6 +104,8 @@ beschliesst:
 <sup>1</sup> Studierende und Doktorierende müssen sich immatrikulieren.
 
 <sup>2</sup> Alle anderen Personen, die Leistungen der Universität beanspruchen, müssen sich registrieren.
+
+<sup>2a</sup> Eine gleichzeitige Immatrikulation an einer anderen Schweizer Universität auf der gleichen Studienstufe ist in der Regel nicht zulässig.
 
 <sup>3</sup> Wer nicht immatrikuliert oder registriert ist, darf keine Leistungen der Universität beanspruchen, namentlich weder Lehrveranstaltungen besuchen noch Leistungskontrollen ablegen.
 
@@ -396,12 +397,12 @@ beschliesst:
 
 <sup>2</sup> Diese enthalten unter Vorbehalt eidgenössischer und kantonaler Regelungen mindestens Bestimmungen über
 
-- a die Studienziele und -voraussetzungen,
+- a die Studienvoraussetzungen,
 - b die Struktur des Studiums,
 - c die Studienberatung,
 - d die Prüfungen,
 - e die Anerkennung anderer Studienleistungen,
-- f die Anforderungen für die Verleihung von Bachelor- und Mastertiteln sowie Doktoraten.
+- f die Anforderungen für die Verleihung von Bachelor-, Master- und Doktortiteln sowie deren Benennung.
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion genehmigt die Reglemente.
 
@@ -453,9 +454,9 @@ beschliesst:
 
 #### Art. 38
 
-**Anmelde- und, Einschreibegebühr**
+**Anmelde- und Einschreibegebühr**
 
-<sup>1</sup> Die Gebühr für die Anmeldung zum Studium beträgt 100 Franken.
+<sup>1</sup> Die Gebühr für die Anmeldung zum Studium beträgt 150 Franken.
 
 <sup>2</sup> Die Gebühr für die Anmeldung zum Studium gemäss Artikel 29 Absatz 1 Buchstabe f UniG beträgt 300 Franken.
 
@@ -467,11 +468,11 @@ beschliesst:
 
 **Studiengebühr**
 
-<sup>1</sup> Die Studiengebühr beträgt 750 Franken pro Semester.
+<sup>1</sup> Die Studiengebühr beträgt 850 Franken pro Semester.
 
-<sup>1a</sup> Ausländische Studierende bezahlen neben der Studiengebühr gemäss Absatz 1 eine zusätzliche Studiengebühr von 200 Franken pro Semester, wenn sie im Zeitpunkt des Erlangens des Zulassungsausweises zum Bachelorstudiengang ihren zivilrechtlichen Wohnsitz weder in der Schweiz noch im Fürstentum Liechtenstein hatten.
+<sup>1a</sup> Ausländische Studierende bezahlen neben der Studiengebühr gemäss Absatz 1 eine zusätzliche Studiengebühr von 1700 Franken pro Semester, wenn sie zum Zeitpunkt des Erlangens des Zulassungsausweises zum Bachelorstudiengang ihren zivilrechtlichen Wohnsitz weder in der Schweiz noch im Fürstentum Liechtenstein hatten.
 
-<sup>2</sup> Wer länger als zwölf Semester ohne Erlangen eines Abschlusses studiert, bezahlt im ersten Semester der Überschreitung 1500 Franken. Die Gebühr verdoppelt sich für jedes weitere Semester.
+<sup>2</sup> Wer länger als zwölf Semester ohne Erlangen eines Abschlusses studiert, bezahlt im ersten Semester der Überschreitung 1700 Franken. Die Gebühr verdoppelt sich für jedes weitere Semester.
 
 <sup>3</sup> In Härtefällen kann die Universitätsleitung die Studiengebühr gemäss Absatz 2 ganz oder teilweise erlassen.
 
@@ -604,6 +605,7 @@ beschliesst:
 
 - a die Postdoktorandinnen und Postdoktoranden,
 - b die Oberärztinnen II und die Oberärzte II,
+- b1 die Oberärztinnen und Oberärzte Veterinärmedizin,
 - c–d …
 - e die Assistenzärztinnen und die Assistenzärzte Human-/Zahnmedizin,
 - e1 die Assistenzärztinnen und die Assistenzärzte Veterinärmedizin,
@@ -611,7 +613,7 @@ beschliesst:
 - e3 die angestellten Doktorandinnen und Doktoranden,
 - f die Hilfsassistentinnen und Hilfsassistenten.
 
-<sup>2</sup> Oberärztinnen und Oberärzte sowie Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin fallen unter den Geltungsbereich dieser Verordnung, soweit sie nicht der Spitalgesetzgebung unterstehen.
+<sup>2</sup> Oberärztinnen II und Oberärzte II sowie Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin fallen unter den Geltungsbereich dieser Verordnung, soweit sie nicht der Spitalgesetzgebung unterstehen.
 
 ### 3.2 Allgemeine Bestimmungen
 
@@ -802,6 +804,8 @@ beschliesst:
 
 <sup>2</sup> Die Kündigung hat für alle Dozentinnen und Dozenten auf Ende eines Semesters und für die übrigen Mitarbeiterinnen und Mitarbeiter auf Ende eines Monats zu erfolgen.
 
+<sup>2a</sup> Nach Ablauf einer Sperrfrist gemäss Artikel 28 PG ist die Kündigung des Arbeitsverhältnisses von Dozentinnen und Dozenten jeweils auf Ende eines Monats zulässig.
+
 <sup>3</sup> Aus wichtigen Gründen kann die vorgesetzte Person oder Stelle eine kürzere Kündigungsfrist gewähren oder einen anderen Rücktrittstermin genehmigen.
 
 <sup>4</sup> Die Kündigungsfristen und -termine während der Probezeit richten sich nach der Personalgesetzgebung.
@@ -886,9 +890,9 @@ beschliesst:
 
 <sup>1</sup> Der Universitätsleitung als Anstellungsbehörde obliegt die Verantwortung für das Verfahren.
 
-<sup>2</sup> Als Grundlage für den Beschluss der Universitätsleitung über die Schaffung, Veränderung, Aufhebung oder Besetzung einer ordentlichen oder ausserordentlichen Professur erarbeitet die Fakultät in der Regel einen Strukturbericht.
+<sup>2</sup> Als Grundlage für den Beschluss der Universitätsleitung über die Schaffung, Veränderung, Aufhebung oder Besetzung einer ordentlichen oder ausserordentlichen Professur dient die Strategie- und Professurenplanung.
 
-<sup>3</sup> Wird ausnahmsweise kein Strukturbericht erarbeitet, muss die Vereinigung der Studierenden sowie die Interessenvertretung der Dozentinnen und Dozenten und der Assistentinnen und Assistenten gemäss Artikel 26 und 28 UniG angehört werden.
+<sup>3</sup> Die Mitwirkung der Vereinigung der Studierenden sowie der Interessenvertretung der Dozentinnen und Dozenten und der Assistentinnen und Assistenten gemäss Artikel 26 und 28 UniG ist zu gewährleisten.
 
 <sup>4</sup> Die Entscheidfindung der Universitätsleitung erfolgt in Abstimmung mit der Fakultät.
 
@@ -936,7 +940,7 @@ beschliesst:
 
 **Aufgaben und Anstellungsvertrag**
 
-<sup>1</sup> Ordentliche und ausserordentliche Professorinnen und Professoren nehmen ihre Aufgaben in Lehre, Forschung und Nachwuchsförderung im Rahmen ihres Lehr- und Forschungsauftrags selbstständig und verantwortlich wahr und wirken an der Selbstverwaltung der Universität mit.
+<sup>1</sup> Ordentliche und ausserordentliche Professorinnen und Professoren nehmen ihre Aufgaben in Lehre, Forschung und Nachwuchsförderung im Rahmen ihres Lehr- und Forschungsauftrags selbstständig und verantwortlich wahr, übernehmen Führungsverantwortung und wirken an der Selbstverwaltung der Universität mit.
 
 <sup>2</sup> Sie können Dienstleistungen erbringen, die in einem Zusammenhang mit Lehre und Forschung stehen. Eine Dienstleistungsverpflichtung besteht nur im Rahmen eines besonderen Dienstleistungsauftrags.
 
@@ -1006,7 +1010,7 @@ beschliesst:
 
 **Strukturelle Voraussetzungen**
 
-<sup>1</sup> Eine Assistenzprofessur mit Tenure Track setzt in der Regel einen Strukturbericht der Fakultät mit Antrag an die Universitätsleitung hinsichtlich der Position einer ausserordentlichen oder ordentlichen Professur voraus.
+<sup>1</sup> Eine Assistenzprofessur mit Tenure Track setzt in der Regel eine Grundlage in der Strategie- und Professurenplanung und einen Antrag der Fakultät an die Universitätsleitung hinsichtlich der Position einer ausserordentlichen oder ordentlichen Professur voraus.
 
 <sup>2</sup> Die Universitätsleitung regelt das Anstellungsverfahren. Die Mitwirkung der Vereinigung der Studierenden sowie der Interessenvertretung der Dozentinnen und Dozenten und der Assistentinnen und Assistenten gemäss Artikel 26 und 28 UniG ist zu gewährleisten.
 
@@ -1209,7 +1213,7 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsdauer als Postdoktorandin oder Postdoktorand ist zunächst auf grundsätzlich drei Jahre befristet. Sie kann verlängert werden. Die maximale Anstellungsdauer beträgt sechs Jahre.
 
-### 3.3.7.2 Oberärztinnen II und Oberärzte II, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin
+### 3.3.7.2 Oberärztinnen II und Oberärzte II, Oberärztinnen und Oberärzte Veterinärmedizin, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin
 
 #### Art. 84
 
@@ -1219,17 +1223,21 @@ beschliesst:
 
 <sup>2</sup> Die Anstellung als Oberärztin II oder Oberarzt II setzt ein Eidgenössisches Ärztediplom, einen Masterabschluss der Fakultät oder einen gleichwertigen Studienabschluss und in der Regel einen Abschluss als Fachärztin oder Facharzt voraus.
 
-<sup>3</sup> Die Anstellung als Assistenzärztin oder Assistenzarzt Human-/Zahnmedizin sowie Assistenzärztin oder Assistenzarzt Veterinärmedizin setzt ein Eidgenössisches Ärztediplom, einen Masterabschluss der Fakultät oder einen gleichwertigen Studienabschluss voraus.
+<sup>2a</sup> Die Anstellung als Oberärztin oder Oberarzt Veterinärmedizin setzt ein Eidgenössisches Tierärztediplom, einen Masterabschluss der Fakultät oder einen gleichwertigen Studienabschluss und in der Regel einen Abschluss als Fachtierärztin oder Fachtierarzt voraus.
+
+<sup>3</sup> Die Anstellung als Assistenzärztin oder Assistenzarzt Human-/Zahnmedizin setzt ein Eidgenössisches Ärztediplom, einen Masterabschluss der Fakultät oder einen gleichwertigen Studienabschluss voraus.
+
+<sup>3a</sup> Die Anstellung als Assistenzärztin oder Assistenzarzt Veterinärmedizin setzt ein Eidgenössisches Tierärztediplom, einen Masterabschluss der Fakultät oder einen gleichwertigen Studienabschluss voraus.
 
 #### Art. 85
 
 **Aufgaben**
 
-<sup>1</sup> Oberärztinnen II und Oberärzte II, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin arbeiten in Lehre, Forschung und gegebenenfalls Dienstleistung ihres Instituts oder einer anderen Organisationseinheit mit.
+<sup>1</sup> Oberärztinnen II und Oberärzte II, Oberärztinnen und Oberärzte Veterinärmedizin, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin arbeiten in Lehre, Forschung und gegebenenfalls Dienstleistung ihres Instituts oder einer anderen Organisationseinheit mit.
 
 <sup>2</sup> …
 
-<sup>3</sup> Oberärztinnen II und Oberärzte II, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin verfolgen ihre fachliche Weiterqualifizierung. Sie sind unter dem Vorbehalt der Gewährleistung des ordentlichen Betriebs berechtigt, die für die fachliche Qualifikation notwendige Aus- und Weiterbildung im Rahmen ihrer Arbeitszeit zu absolvieren.
+<sup>3</sup> Oberärztinnen II und Oberärzte II, Oberärztinnen und Oberärzte Veterinärmedizin, Assistenzärztinnen und Assistenzärzte Human-/Zahnmedizin sowie Assistenzärztinnen und Assistenzärzte Veterinärmedizin verfolgen ihre fachliche Weiterqualifizierung. Sie sind unter dem Vorbehalt der Gewährleistung des ordentlichen Betriebs berechtigt, die für die fachliche Qualifikation notwendige Aus- und Weiterbildung im Rahmen ihrer Arbeitszeit zu absolvieren.
 
 <sup>4</sup> Die Universität regelt die Einzelheiten über die fachliche Qualifikation während der Arbeitszeit durch Reglement.
 
@@ -1237,11 +1245,11 @@ beschliesst:
 
 **Befristung**
 
-<sup>1</sup> Die Dauer der Anstellung als Oberärztin II oder Oberarzt II, Assistenzärztin oder Assistenzarzt Human-/Zahnmedizin sowie Assistenzärztin oder Assistenzarzt Veterinärmedizin ist, unabhängig vom Beschäftigungsgrad, auf höchstens sechs Jahre befristet.
+<sup>1</sup> Die Dauer der Anstellung als Oberärztin II oder Oberarzt II, Oberärztin oder Oberarzt Veterinärmedizin, Assistenzärztin oder Assistenzarzt Human-/Zahnmedizin sowie Assistenzärztin oder Assistenzarzt Veterinärmedizin ist, unabhängig vom Beschäftigungsgrad, auf höchstens sechs Jahre befristet.
 
-<sup>2</sup> Die Gesamtdauer der Anstellung als Assistenzärztin Human-/Zahnmedizin, Assistenzärztin Veterinärmedizin und Oberärztin II oder Assistenzarzt Human-/Zahnmedizin, Assistenzarzt Veterinärmedizin und Oberarzt II beträgt zusammen höchstens zehn Jahre.
+<sup>2</sup> Die Gesamtdauer der Anstellung als Assistenzärztin oder Assistenzarzt Human-/Zahnmedizin, Assistenzärztin oder Assistenzarzt Veterinärmedizin, Oberärztin II oder Oberarzt II sowie Oberärztin oder Oberarzt Veterinärmedizin beträgt zusammen höchstens zehn Jahre.
 
-<sup>3</sup> Oberärztinnen II und Oberärzte II können unbefristet angestellt werden, sofern sie hauptsächlich Dienstleistungsaufgaben erfüllen.
+<sup>3</sup> Oberärztinnen II und Oberärzte II sowie Oberärztinnen und Oberärzte Veterinärmedizin können unbefristet angestellt werden, sofern sie hauptsächlich Dienstleistungsaufgaben erfüllen.
 
 ### 3.3.7.3 Wissenschaftliche Assistentinnen und Assistenten
 
@@ -1271,7 +1279,7 @@ beschliesst:
 
 <sup>3</sup> Die Universitätsleitung legt die Gehaltsansätze gemäss Vorgaben des Nationalfonds zur Förderung der wissenschaftlichen Forschung (SNF) fest.
 
-<sup>4</sup> Neben der Anstellung als Doktorandin oder Doktorand ist eine zusätzliche Anstellung als wissenschaftliche Assistentin oder wissenschaftlicher Assistent zu höchstens 25 Prozent möglich.
+<sup>4</sup> Die Anstellung als Doktorandin oder Doktorand kann mit einer zusätzlichen entschädigten Tätigkeit von in der Regel höchstens 25 Prozent kombiniert werden. Diese muss einen Bezug zur wissenschaftlichen Tätigkeit der Doktorandin oder des Doktoranden aufweisen.
 
 ### 3.3.7.5 Hilfsassistentinnen und Hilfsassistenten
 
@@ -1384,7 +1392,7 @@ beschliesst:
 
 **Verzicht auf Leistungsentgelte**
 
-<sup>1</sup> Die Fakultät kann bestimmen, dass Organisationseinheiten mit ständigen Dienstleistungen keine Leistungsentgelte an ihre Mitarbeiterinnen und Mitarbeiter entrichten.
+<sup>1</sup> Die Universitätsleitung kann bestimmen, dass Organisationseinheiten mit ständigen Dienstleistungen keine Leistungsentgelte an ihre Mitarbeiterinnen und Mitarbeiter entrichten.
 
 ## 5 Universitätsleitung
 
@@ -1780,6 +1788,25 @@ beschliesst:
 **Ausnahmen von einem Mitarbeitergespräch**
 
 <sup>1</sup> Die Änderung von Artikel 52a Absatz 4 Buchstabe d ist rückwirkend auf den 1. Januar 2024 anwendbar.
+
+## T6 Übergangsbestimmungen der Änderung vom 19.11.2025
+
+#### Art. T6-1
+
+**Anmeldegebühr**
+
+<sup>1</sup> Die Anmeldegebühr gemäss dieser Änderung wird erstmals für die Anmeldung für das Herbstsemester 2026 erhoben.
+
+#### Art. T6-2
+
+**Studiengebühr**
+
+<sup>1</sup> Die Studiengebühr gemäss dieser Änderung wird erstmals für das Herbstsemester 2026 erhoben. Vorbehalten bleibt Absatz 2.
+
+<sup>2</sup> Die zusätzliche Studiengebühr (Art. 39 Abs. 1a) nach bisherigem Recht bezahlen ausländische Studierende, die vor dem Herbstsemester 2026:
+
+- a an der Universität für das Bachelorstudium immatrikuliert sind, bis zum Abschluss des Bachelorstudiums;
+- b an der Universität für das Masterstudium immatrikuliert sind, bis zum Abschluss des Masterstudiums.
 
 ## A1
 
