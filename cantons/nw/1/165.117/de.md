@@ -4,13 +4,13 @@ number: "165.117"
 title: Verordnung betreffend die Lehrpersonen
 short: "Lehrpersonalverordnung, LPV"
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-10
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-09-23
 adopted: 2008-06-24
 in_force: 2008-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/165.117"
-pdf: "https://gesetze.nw.ch/api/de/versions/1397/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1397/pdf_file"
 
 (Lehrpersonalverordnung, LPV)
 
-vom 24.06.2008 (Stand 01.08.2025)
+vom 24.06.2008 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -46,20 +46,12 @@ beschliesst:
 
 <sup>1</sup> Die Vollzugsverordnungen zum Personalgesetz sind anwendbar, soweit diese Verordnung keine abweichenden Bestimmungen enthält.
 
-<sup>2</sup> Nicht anwendbar sind:
+<sup>2</sup> Nicht anwendbar sind §§ 5-25, 34-39, 47-48, 57-62, 74-80 und 85-87 der Personalverordnung[^2-1].
 
-- 1\. § 6–11 der Personalverordnung[^2-1];
-- 2\. die Arbeitszeitverordnung[^2-2];
-- 3\. § 8, 9, 21–23 und 25 der Entlöhnungsverordnung[^2-3];
-- 4\. § 3–5 der Weiterbildungsverordnung[^2-4].
-
-<sup>3</sup> Für Lehrpersonen der Schulgemeinden gelten die abweichenden kommunalen Bestimmungen insbesondere die Entlöhnungsvereinbarung[^2-5].
+<sup>3</sup> Für Lehrpersonen der Schulgemeinden gelten die abweichenden kommunalen Bestimmungen insbesondere die Entlöhnungsvereinbarung[^2-2].
 
 [^2-1]: NG 165.111
-[^2-2]: NG 165.112
-[^2-3]: NG 165.113
-[^2-4]: NG 165.114
-[^2-5]: NG 311.112
+[^2-2]: NG 311.112
 
 #### § 3
 
@@ -265,7 +257,7 @@ beschliesst:
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Lehrerinnen haben Anspruch auf Mutterschaftsurlaub gemäss § 15 der Personalverordnung[^19-1].
+<sup>1</sup> Lehrerinnen haben Anspruch auf Mutterschaftsurlaub gemäss § 33 der Personalverordnung[^19-1].
 
 <sup>2</sup> Mutterschaftsurlaub, welcher in die Schulferien fällt, kann nicht nachbezogen werden.
 
@@ -313,9 +305,9 @@ beschliesst:
 
 **Zulage für Mentorinnen und Mentoren**
 
-<sup>1</sup> Die Zulage für Mentorinnen und Mentoren entspricht der Auszahlung von Überzeit gemäss § 24 der Entlöhnungsverordnung[^24-1].
+<sup>1</sup> Die Zulage für Mentorinnen und Mentoren entspricht der Auszahlung von Überzeit gemäss § 21 Abs. 3 der Personalverordnung[^24-1].
 
-[^24-1]: NG 165.113
+[^24-1]: NG 165.111
 
 #### § 25
 
@@ -583,9 +575,9 @@ beschliesst:
 
 **Rückerstattung**
 
-<sup>1</sup> Bei einer Weiterbildung zum Erwerb einer Zusatzqualifikation haben die Lehrpersonen die Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers nach den Bestimmungen von § 9–13 der Weiterbildungsverordnung[^47-1] zurück zu erstatten.
+<sup>1</sup> Bei einer Weiterbildung zum Erwerb einer Zusatzqualifikation haben die Lehrpersonen die Kostenbeteiligung der Arbeitgeberin oder des Arbeitgebers nach den Bestimmungen von § 93-97 der Personalverordnung[^47-1].zurück zu erstatten.
 
-[^47-1]: NG 165.114
+[^47-1]: NG 165.111
 
 ### 6.2.2 Mittelschule und Berufsfachschule
 
@@ -593,9 +585,9 @@ beschliesst:
 
 **Kostenübernahme**
 
-<sup>1</sup> Die Kostenübernahme richtet sich für die Lehrpersonen der kantonalen Mittelschule und der Berufsfachschule nach § 6–8 der Weiterbildungsverordnung[^48-1].
+<sup>1</sup> Die Kostenübernahme richtet sich für die Lehrpersonen der kantonalen Mittelschule und der Berufsfachschule nach § 88-92 der Personalverordnung[^48-1].
 
-[^48-1]: NG 165.114
+[^48-1]: NG 165.111
 
 #### § 49
 
