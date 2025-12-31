@@ -4,13 +4,12 @@ number: "112.51"
 title: Ordonnance indiquant les noms des communes et leur rattachement aux districts administratifs
 short: ONCD
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-24
+version: 2026-01-01
+version_adopted: 2025-09-09
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/112.51"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8150/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8667/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Noms des communes – O
 
 (ONCD)
 
-du 24.11.2015 (version entrée en vigueur le 01.01.2025)
+du 24.11.2015 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -89,9 +88,9 @@ Bas-Intyamon, Botterens, Broc, Bulle, Châtel-sur-Montsalvens, Corbières, Crés
 
 **District du Lac**
 
-<sup>1</sup> Le district du Lac est composé des quinze communes suivantes:
+<sup>1</sup> Le district du Lac est composé des quatorze communes suivantes:
 
-Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Morat[^6-1], Muntelier, Ried bei Kerzers, Ulmiz.
+Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Morat[^6-1], Muntelier, Ried bei Kerzers.
 
 [^6-1]: Note d'auteur: Usage selon l'article 10 al.1; dans le répertoire fédéral, le nom est Murten.
 
@@ -107,9 +106,9 @@ Billens-Hennens, Le Châtelard, Châtonnaye, Grangettes, Massonnens, Mézières 
 
 **District de la Broye**
 
-<sup>1</sup> Le district de la Broye est composé des dix-huit communes suivantes:
+<sup>1</sup> Le district de la Broye est composé des dix-sept communes suivantes:
 
-Belmont-Broye, Châtillon (FR), Cheyres-Châbles, Cugy (FR), Delley-Portalban, Estavayer, Fétigny, Gletterens, Lully (FR), Ménières, Montagny (FR), Les Montets, Nuvilly, Prévondavaux, Saint-Aubin (FR), Sévaz, Surpierre, Vallon.
+Belmont-Broye, Châtillon (FR), Cheyres-Châbles, Cugy (FR), Delley-Portalban, Estavayer, Fétigny-Ménières, Gletterens, Lully (FR), Montagny (FR), Les Montets, Nuvilly, Prévondavaux, Saint-Aubin (FR), Sévaz, Surpierre, Vallon.
 
 #### Art. 9
 
@@ -136,13 +135,15 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Veveyse), Remaufens
 
 **Examen préalable**
 
-<sup>1</sup> Le ou les nouveaux noms projetés doivent faire l'objet d'un examen préalable au sens des articles 13 et 14 ONGéo avant que le texte de la convention de fusion ne soit définitivement arrêté.
+<sup>1</sup> Le ou les nouveaux noms projetés doivent faire l'objet d'un examen préalable au sens des articles 13 et 14 ONGéo[^11-1] avant que le texte de la convention de fusion ne soit définitivement arrêté.
 
 <sup>2</sup> Le Service des communes lance la procédure d'examen préalable sur la base d'une demande des communes parties au projet ou d'une demande de leur mandataire pour la fusion.
 
 <sup>3</sup> Le préavis de la Commission de nomenclature est joint à la demande d'examen adressée à l'autorité fédérale. En cas d'urgence, le préavis de la Commission de nomenclature peut être requis simultanément au dépôt de la demande d'examen préalable.
 
 <sup>4</sup> A défaut d'accord sur le nom proposé dans un projet de convention de fusion, le Conseil d'Etat se détermine. La procédure fédérale demeure réservée.
+
+[^11-1]: RS [510.625](https://db.clex.ch/link/Bund/510.625/fr)
 
 #### Art. 12
 
@@ -320,6 +321,8 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Veveyse), Remaufens
 <tr><td>Auboranges, Chapelle (Glâne), Ecublens (FR), Rue</td><td>Rue</td><td>01.01.2025</td><td>Décret</td><td>23.05.2024</td></tr>
 <tr><td>Grolley, Ponthaux</td><td>Grolley-Ponthaux</td><td>01.01.2025</td><td>Décret</td><td>25.06.2024</td></tr>
 <tr><td>Montet (Glâne), Ursy</td><td>Ursy</td><td>01.01.2025</td><td>Décret</td><td>25.06.2024</td></tr>
+<tr><td>Gurmels, Ulmiz</td><td>Gurmels</td><td>01.01.2026</td><td>Décret</td><td>23.05.2025</td></tr>
+<tr><td>Fétigny, Ménières</td><td>Fétigny-Ménières</td><td>01.01.2026</td><td>Décret</td><td>23.05.2025</td></tr>
 </table>
 
 #### Art. A1-3

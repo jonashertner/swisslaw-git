@@ -4,13 +4,12 @@ number: "112.51"
 title: Verordnung über die Namen der Gemeinden und deren Zugehörigkeit zu den Verwaltungsbezirken
 short: NGBV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-24
+version: 2026-01-01
+version_adopted: 2025-09-09
 adopted: 2015-11-24
 in_force: 2016-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/112.51"
-pdf: "https://bdlf.fr.ch/api/de/versions/8150/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8667/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Namen der Gemeinden – V
 
 (NGBV)
 
-vom 24.11.2015 (Fassung in Kraft getreten am 01.01.2025)
+vom 24.11.2015 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -91,9 +90,9 @@ Bas-Intyamon, Botterens, Broc, Bulle, Châtel-sur-Montsalvens, Corbières, Crés
 
 **Seebezirk**
 
-<sup>1</sup> Der Seebezirk besteht aus folgenden fünfzehn Gemeinden:
+<sup>1</sup> Der Seebezirk besteht aus folgenden vierzehn Gemeinden:
 
-Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Muntelier, Murten, Ried bei Kerzers, Ulmiz.
+Courgevaux, Courtepin, Cressier (FR), Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Meyriez, Misery-Courtion, Mont-Vully, Muntelier, Murten, Ried bei Kerzers.
 
 #### Art. 7
 
@@ -107,9 +106,9 @@ Billens-Hennens, Le Châtelard, Châtonnaye, Grangettes, Massonnens, Mézières 
 
 **Broyebezirk**
 
-<sup>1</sup> Der Broyebezirk besteht aus folgenden achtzehn Gemeinden:
+<sup>1</sup> Der Broyebezirk besteht aus folgenden siebzehn Gemeinden:
 
-Belmont-Broye, Châtillon (FR), Cheyres-Châbles, Cugy (FR), Delley-Portalban, Estavayer, Fétigny, Gletterens, Lully (FR), Ménières, Montagny (FR), Les Montets, Nuvilly, Prévondavaux, Saint-Aubin (FR), Sévaz, Surpierre, Vallon.
+Belmont-Broye, Châtillon (FR), Cheyres-Châbles, Cugy (FR), Delley-Portalban, Estavayer, Fétigny-Ménières, Gletterens, Lully (FR), Montagny (FR), Les Montets, Nuvilly, Prévondavaux, Saint-Aubin (FR), Sévaz, Surpierre, Vallon.
 
 #### Art. 9
 
@@ -136,13 +135,15 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 
 **Vorprüfung**
 
-<sup>1</sup> Der oder die geplanten neuen Namen müssen einer Vorprüfung nach den Artikeln 13 und 14 GeoNV unterzogen werden, bevor der Text der Fusionsvereinbarung endgültig beschlossen wird.
+<sup>1</sup> Der oder die geplanten neuen Namen müssen einer Vorprüfung nach den Artikeln 13 und 14 GeoNV[^11-1] unterzogen werden, bevor der Text der Fusionsvereinbarung endgültig beschlossen wird.
 
 <sup>2</sup> Das Amt für Gemeinden eröffnet das Vorprüfungsverfahren aufgrund eines Gesuchs der am Projekt beteiligten Gemeinden oder eines Gesuchs ihrer Fusionsprojektleitung.
 
 <sup>3</sup> Die Stellungnahme der Nomenklaturkommission wird dem Gesuch an die Bundesbehörde beigelegt. In dringenden Fällen kann die Stellungnahme der Nomenklaturkommission gleichzeitig mit dem Einreichen des Gesuchs um Vorprüfung angefordert werden.
 
 <sup>4</sup> Kommt keine Einigung zu einem in einem Fusionsvereinbarungsentwurf vorgeschlagenen Gemeindenamen zustande, so nimmt der Staatsrat Stellung; das Verfahren des Bundes bleibt vorbehalten.
+
+[^11-1]: SR [510.625](https://db.clex.ch/link/Bund/510.625/de)
 
 #### Art. 12
 
@@ -218,7 +219,7 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 <sup>1</sup> Die Gemeindezusammenschlüsse haben folgende Mutationen bewirkt:
 
 <table>
-<tr><th>Namen der früheren Gemeinden</th><th>Name der neuen Gemeinde</th><th>Inkrafttreten</th><th>Genehmigung des Grossen Rats - Form</th><th>Genehmigung des Grossen Rats - Datum</th></tr>
+<tr><th>Namen der früheren Gemeinden</th><th>Name der neuen Gemeinde</th><th>Inkrafttreten</th><th>Genehmigung des Grossen Rats – Form</th><th>Genehmigung des Grossen Rats – Datum</th></tr>
 <tr><td>Chavannes-sous-Orsonnens, Granges-la-Battiaz</td><td>Chavannes-sous-Orsonnens</td><td>13.09.1866</td><td>Beschluss</td><td>07.09.1866</td></tr>
 <tr><td>Arruffens, Romont</td><td>Romont (FR)</td><td></td><td>Dekret</td><td>20.05.1868</td></tr>
 <tr><td>La Rougève, Semsales</td><td>Semsales</td><td>01.01.1968</td><td>Dekret</td><td>22.09.1967</td></tr>
@@ -320,6 +321,8 @@ Attalens, Bossonnens, Châtel-Saint-Denis, Le Flon, Granges (Vivisbach), Remaufe
 <tr><td>Auboranges, Chapelle (Glane), Ecublens (FR), Rue</td><td>Rue</td><td>01.01.2025</td><td>Dekret</td><td>23.05.2024</td></tr>
 <tr><td>Grolley, Ponthaux</td><td>Grolley-Ponthaux</td><td>01.01.2025</td><td>Dekret</td><td>25.06.2024</td></tr>
 <tr><td>Montet (Glane), Ursy</td><td>Ursy</td><td>01.01.2025</td><td>Dekret</td><td>25.06.2024</td></tr>
+<tr><td>Gurmels, Ulmiz</td><td>Gurmels</td><td>01.01.2026</td><td>Dekret</td><td>23.05.2025</td></tr>
+<tr><td>Fétigny, Ménières</td><td>Fétigny-Ménières</td><td>01.01.2026</td><td>Dekret</td><td>23.05.2025</td></tr>
 </table>
 
 #### Art. A1-3
