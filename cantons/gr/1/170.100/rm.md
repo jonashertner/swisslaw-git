@@ -4,13 +4,12 @@ number: "170.100"
 title: Lescha davart il cussegl grond
 short: LCG
 language: rm
-version: 2025-05-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-02
+version: 2026-01-01
+version_adopted: 2025-08-29
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3544/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3622/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3544/pdf_file"
 
 (LCG)
 
-dals 08-12-2005 (versiun dals 01-05-2025)
+dals 08-12-2005 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -416,6 +415,14 @@ concluda:
 <sup>1</sup> Sin ordinaziun da la conferenza da las presidentas e dals presidents pon las localitads en l'edifizi dal cussegl grond a Cuira vegnir survegliadas cun cameras da video. La surveglianza serva exclusivamain a sclerir fatgs penalmain relevants.
 
 <sup>2</sup> Las registraziuns da video vegnan arcunadas e – sch'i n'è betg avant maun entaifer 72 uras suenter la fin da la sessiun ina disposiziun en scrit d'in organ da persecuziun penala – stizzadas dal secretariat dal cussegl grond entaifer 120 uras suenter la fin da la sessiun.
+
+#### Art. 44b
+
+**Transmissiun en l'internet**
+
+<sup>1</sup> Las sesidas dal Cussegl grond vegnan per regla transmessas cun maletg e tun en l'internet.
+
+<sup>2</sup> La transmissiun vegn registrada e messa a disposiziun en l'internet per pudair guardar pli tard.
 
 #### Art. 45
 

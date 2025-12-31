@@ -4,13 +4,12 @@ number: "170.100"
 title: Gesetz über den Grossen Rat
 short: Grossratsgesetz; GRG
 language: de
-version: 2025-05-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-02
+version: 2026-01-01
+version_adopted: 2025-08-29
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3544/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3622/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3544/pdf_file"
 
 (Grossratsgesetz; GRG)
 
-Vom 08.12.2005 (Stand 01.05.2025)
+Vom 08.12.2005 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -416,6 +415,14 @@ beschliesst:
 <sup>1</sup> Die Räumlichkeiten im Grossratsgebäude, Chur, können auf Anordnung der Präsidentenkonferenz mittels Videokameras überwacht werden. Die Überwachung dient ausschliesslich der Klärung strafrechtlich relevanter Sachverhalte.
 
 <sup>2</sup> Die Videoaufnahmen werden gespeichert und sind – sofern nicht innert 72 Stunden nach dem Ende der Session eine schriftliche Verfügung eines Strafverfolgungsorgans vorliegt, die die Löschung untersagt – innert 120 Stunden nach dem Ende der Session durch das Ratssekretariat zu löschen.
+
+#### Art. 44b
+
+**Übertragung ins Internet**
+
+<sup>1</sup> Die Sitzungen des Grossen Rates werden in der Regel mit Bild und Ton ins Internet übertragen.
+
+<sup>2</sup> Die Übertragung wird aufgezeichnet und zum nachträglichen Abspielen im Internet zugänglich gemacht.
 
 #### Art. 45
 

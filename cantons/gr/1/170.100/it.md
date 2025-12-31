@@ -4,13 +4,12 @@ number: "170.100"
 title: Legge sul Gran Consiglio
 short: LGC
 language: it
-version: 2025-05-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-02
+version: 2026-01-01
+version_adopted: 2025-08-29
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3544/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3622/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3544/pdf_file"
 
 (LGC)
 
-del 08.12.2005 (stato 01.05.2025)
+del 08.12.2005 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -416,6 +415,14 @@ decide:
 <sup>1</sup> Per ordine della Conferenza dei presidenti, i locali nell'edificio del Gran Consiglio a Coira possono essere sorvegliati con delle videocamere. La videosorveglianza serve esclusivamente a chiarire fattispecie penalmente rilevanti.
 
 <sup>2</sup> Le riprese vengono salvate e vanno cancellate dalla Segreteria del Gran Consiglio entro 120 ore dalla conclusione della sessione, salvo nel caso in cui entro 72 ore dalla conclusione della sessione venga presentata una decisione scritta di un organo di perseguimento penale che ne vieta la cancellazione.
+
+#### Art. 44b
+
+**Trasmissione via internet**
+
+<sup>1</sup> Di norma le sedute del Gran Consiglio vengono trasmesse via internet in formato audiovisivo.
+
+<sup>2</sup> La trasmissione viene registrata e resa accessibile in internet per la successiva riproduzione.
 
 #### Art. 45
 
