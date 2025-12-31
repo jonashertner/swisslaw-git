@@ -4,13 +4,12 @@ number: "772.110"
 title: Verordnung zum Energiegesetz
 short: "Energieverordnung, EnV"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-04
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2017-08-29
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6578/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Energie- und Wasserversorgung
 
 (Energieverordnung, EnV)
 
-Vom 29. August 2017 (Stand 1. Januar 2025)
+Vom 29. August 2017 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
