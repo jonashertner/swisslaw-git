@@ -4,13 +4,12 @@ number: "621"
 title: Steuerverordnung
 short: StV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-12
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2000-12-12
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/621"
-pdf: "https://srl.lu.ch/api/de/versions/4354/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4586/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4354/pdf_file"
 
 (StV)
 
-vom 12.12.2000 (Stand 01.01.2025)
+vom 12.12.2000 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -220,7 +219,7 @@ beschliesst:
 
 **Kosten für die Drittbetreuung von Kindern**
 
-<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 1000 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 10 000 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 18 000 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
+<sup>1</sup> Erfüllen bei getrennter Besteuerung beide Elternteile die Voraussetzungen für den Abzug von Kinderbetreuungskosten, kann jeder Elternteil 1000 Franken für die eigene Betreuung abziehen; der Abzug jedes Elternteils erhöht sich auf höchstens 10 100 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem Zusammenhang mit der Erwerbstätigkeit oder der Ausbildung des Elternteils stehen. Eine andere Aufteilung der Drittbetreuungskosten ist von den Elternteilen nachzuweisen. Betragen die dabei geltend gemachten Drittbetreuungskosten beider Elternteile zusammen mehr als 18 200 Franken, werden die Abzüge der Elternteile im Verhältnis der nachgewiesenen Kosten auf diesen Höchstbetrag gekürzt.
 
 #### § 15
 
@@ -325,11 +324,11 @@ beschliesst:
 <sup>1</sup> Die Einwohnergemeinden gewährleisten die ordnungsgemässe Veranlagung der Staats- und Gemeindesteuern sowie der direkten Bundessteuer und deren Bezug. Sie sind für die Durchführung der von den kantonalen Aufsichtsbehörden zuhanden der Veranlagungs- und Bezugsbehörden getroffenen Weisungen und Anordnungen verantwortlich. Sie stellen dies personell und organisatorisch dauerhaft und ausreichend sicher. Insbesondere müssen folgende Voraussetzungen erfüllt sein:
 
 - a. Wer Veranlagungen vornimmt, verfügt über eine qualifizierte Ausbildung, vertiefte steuerrechtliche Kenntnisse sowie mehrjährige Erfahrung und Bewährung in der Steuerveranlagung.
-- b. Auf dem Steueramt muss mindestens eine Person hauptamtlich im Steuerwesen tätig sein. Kann ein Steueramt keine Person hauptamtlich im Steuerwesen beschäftigen, reicht ein kleineres Pensum aus, sofern die als Veranlagungsbehörde zu wählende Person erhöhten fachlichen Anforderungen genügt. Die Dienststelle Steuern des Kantons ist vor der Anstellung anzuhören.
+- b. Auf dem Steueramt muss mindestens eine Person hauptamtlich im Steuerwesen tätig sein. Kann ein Steueramt keine Person hauptamtlich im Steuerwesen beschäftigen, reicht ein kleineres Pensum aus, sofern die als Veranlagungsbehörde anzustellende Person erhöhten fachlichen Anforderungen genügt. Die Dienststelle Steuern des Kantons ist vor der Anstellung anzuhören.
 - c. Die Stellvertretung ist gewährleistet.
 - d. Für den Datenaustausch beziehungsweise die Datenbearbeitung werden die von der Dienststelle Steuern des Kantons definierten Anforderungen erfüllt.
 
-<sup>2</sup> Die Dienststelle Steuern des Kantons wählt je Einwohnergemeinde mindestens eine Person als Veranlagungsbehörde. Sie bestimmt, inwieweit bestimmte Personenkategorien nicht von der Einwohnergemeinde veranlagt werden.
+<sup>2</sup> Die Dienststelle Steuern des Kantons ermächtigt je Einwohnergemeinde mindestens eine Person, als Veranlagungsbehörde tätig zu sein. Sie bestimmt, inwieweit bestimmte Personenkategorien nicht von der Einwohnergemeinde veranlagt werden.
 
 <sup>3</sup> Die Einwohnergemeinden leisten die Vorbereitungsarbeiten im Einspracheverfahren und arbeiten einen Erledigungsvorschlag aus. Sie stellen für Einspracheverhandlungen geeignete Räumlichkeiten samt Infrastruktur kostenlos zur Verfügung.
 
