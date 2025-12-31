@@ -4,13 +4,12 @@ number: "786.211"
 title: Verordnung über die Feuerungskontrolle der Gemeinden
 short: VFkG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-13
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 1992-09-08
 in_force: 1992-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/786.211"
-pdf: "https://bl.clex.ch/api/de/versions/3481/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4438/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,16 @@ pdf: "https://bl.clex.ch/api/de/versions/3481/pdf_file"
 
 (VFkG)
 
-Vom 08.09.1992 (Stand 01.01.2023)
+Vom 08.09.1992 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf [§ 74 Abs. 2](https://bl.clex.ch/data/100/de/art74) der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und Art. 12 ff. der Luftreinhalte-Verordnung (LRV) vom 16. Dezember 1985[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: GS 29.276, SGS 100
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SR 814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)
 
 #### § 1
 
@@ -50,18 +50,18 @@ beschliesst:
 
 <sup>1<sup>ter</sup></sup> Bei Bedarf können die Gemeinden auch zur Durchführung der Öl- und Gasfeuerungskontrollen Strukturen im Sinne von Abs. 1<sup>bis</sup> vorsehen.
 
-<sup>2</sup> Die Messungen und Kontrollen müssen nach den Empfehlungen des BAFU[^2-2] und allfälligen ergänzenden Weisungen des Lufthygieneamts beider Basel durchgeführt werden.
+<sup>2</sup> Die Messungen und Kontrollen müssen nach den Empfehlungen des BAFU[^2-2] und allfälligen ergänzenden Weisungen des Amts für Umweltschutz und Energie durchgeführt werden.
 
-<sup>2<sup>bis</sup></sup> Das Lufthygieneamt beider Basel:
+<sup>2<sup>bis</sup></sup> Das Amt für Umweltschutz und Energie:
 
 - a. legt den Umfang der Kontrollen bei Holzfeuerungsanlagen gemäss Anhang 3 Ziff. 22 Bst. f der Luftreinhalte-Verordnung[^2-3] fest;
 - b. kann die Gemeinden beim Aufbau einer Geschäftsstelle zur Kontrolle der Feuerungsanlagen fachlich unterstützen.
 
-<sup>3</sup> Wer Kontrollen oder Messungen gemäss Abs. 1 durchführt, ist verpflichtet, die Personen-, Adress-, Anlagen- sowie Kontroll- und Messdaten in der zentralen Feuerungsdatenbank gemäss § 10 Abs. 3 nach den Weisungen des Lufthygieneamts beider Basel zu erfassen und laufend zu aktualisieren. Die Bewirtschaftung dieser Daten liegt unter Beachtung der Informations- und Datenschutzgesetzgebung[^2-4] in der Verantwortung der Gemeinden oder der durch sie Beauftragten.
+<sup>3</sup> Wer Kontrollen oder Messungen gemäss Abs. 1 durchführt, ist verpflichtet, die Personen-, Adress-, Anlagen- sowie Kontroll- und Messdaten in der zentralen Feuerungsdatenbank gemäss § 10 Abs. 3 nach den Weisungen des Amts für Umweltschutz und Energie zu erfassen und laufend zu aktualisieren. Die Bewirtschaftung dieser Daten liegt unter Beachtung der Informations- und Datenschutzgesetzgebung[^2-4] in der Verantwortung der Gemeinden oder der durch sie Beauftragten.
 
 <sup>4</sup> Zugriffsberechtigungen auf die zentrale Datenbank haben die Gemeinden und die von der Gemeinden für die Feuerungskontrolle Beauftragten.
 
-<sup>5</sup> In Gemeinden mit liberalisierter Feuerungskontrolle können auch vom Lufthygieneamt beider Basel qualifizierte Unternehmen und Personen zur Dateneingabe berechtigt werden.
+<sup>5</sup> In Gemeinden mit liberalisierter Feuerungskontrolle können auch vom Amt für Umweltschutz und Energie qualifizierte Unternehmen und Personen zur Dateneingabe berechtigt werden.
 
 [^2-1]: Geschäftsstelle Feuerungskontrolle.
 [^2-2]: Bundesamt für Umwelt.
@@ -130,7 +130,7 @@ beschliesst:
 
 **Qualifikation der zu Kontrollen und Messungen berechtigten Personen**
 
-<sup>1</sup> Personen, welche amtliche Feuerungskontrollen durchführen, müssen für die spezifischen Messungen oder Kontrollen dafür anerkannte Ausbildungen absolviert haben und diese mit Fachausweisen oder Zertifikatsabschlüssen belegen. Die für die amtlichen Feuerungskontrollen qualifizierten Personen werden auf ihren Antrag vom Lufthygieneamt beider Basel in der zentralen Datenbank erfasst.
+<sup>1</sup> Personen, welche amtliche Feuerungskontrollen durchführen, müssen für die spezifischen Messungen oder Kontrollen dafür anerkannte Ausbildungen absolviert haben und diese mit Fachausweisen oder Zertifikatsabschlüssen belegen. Die für die amtlichen Feuerungskontrollen qualifizierten Personen werden auf ihren Antrag vom Amt für Umweltschutz und Energie in der zentralen Datenbank erfasst.
 
 <sup>2</sup> Personen, bei welchen wiederholt Mängel bei der Feuerungskontrolle festgestellt werden, können aus der zentralen Datenbank gestrichen werden.
 
@@ -148,11 +148,11 @@ beschliesst:
 
 <sup>1</sup> Die Bau- und Umweltschutzdirektion hat die Aufsicht über die Feuerungskontrolle.
 
-<sup>2</sup> Das Lufthygieneamt beider Basel und die Gemeinden können zur Qualitätssicherung stichprobenweise Nachkontrollen durchführen oder durchführen lassen.
+<sup>2</sup> Das Amt für Umweltschutz und Energie und die Gemeinden können zur Qualitätssicherung stichprobenweise Nachkontrollen durchführen oder durchführen lassen.
 
-<sup>3</sup> Das Lufthygieneamt beider Basel führt unter Beachtung der Informations- und Datenschutzgesetzgebung[^10-1] eine zentrale Feuerungsdatenbank, in welcher die zur Durchführung von Feuerungskontrollen notwendigen Personen-, Adress-, Anlagen- und Messdaten erfasst sind. Es regelt die Zugriffsberechtigung auf die Feuerungsdatenbank so, dass die Gemeinden sowie die von ihr Beauftragten oder von ihr gemäss § 2 Abs. 5 Berechtigten jeweils nur Zugriff auf die Daten der von ihnen kontrollierten Anlagen haben.
+<sup>3</sup> Das Amt für Umweltschutz und Energie führt unter Beachtung der Informations- und Datenschutzgesetzgebung[^10-1] eine zentrale Feuerungsdatenbank, in welcher die zur Durchführung von Feuerungskontrollen notwendigen Personen-, Adress-, Anlagen- und Messdaten erfasst sind. Es regelt die Zugriffsberechtigung auf die Feuerungsdatenbank so, dass die Gemeinden sowie die von ihr Beauftragten oder von ihr gemäss § 2 Abs. 5 Berechtigten jeweils nur Zugriff auf die Daten der von ihnen kontrollierten Anlagen haben.
 
-<sup>3<sup>bis</sup></sup> Holzfeuerungen sind dem Lufthygieneamt beider Basel durch die Erstbetreiberinnen und Erstbetreiber oder diejenigen Personen zu melden, welche die Holzfeuerungen installieren, in Betrieb nehmen, warten, sanieren, reinigen oder kontrollieren.
+<sup>3<sup>bis</sup></sup> Holzfeuerungen sind dem Amt für Umweltschutz und Energie durch die Erstbetreiberinnen und Erstbetreiber oder diejenigen Personen zu melden, welche die Holzfeuerungen installieren, in Betrieb nehmen, warten, sanieren, reinigen oder kontrollieren.
 
 <sup>4</sup> Die zur Durchführung von Feuerungskontrollen notwendigen Personendaten können aus anderen kantonalen Datenbanken bezogen werden.
 
