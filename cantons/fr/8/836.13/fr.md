@@ -3,20 +3,19 @@ canton: FR
 number: "836.13"
 title: Ordonnance fixant le taux des cotisations dues à la Caisse cantonale de compensation pour allocations familiales
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-08-22
+version: 2026-01-01
+version_adopted: 2025-10-28
 adopted: 2016-12-05
 in_force: 2017-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/836.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7810/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8270/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance fixant le taux des cotisations dues à la Caisse cantonale de compensation pour allocations familiales
 
-du 05.12.2016 (version entrée en vigueur le 01.01.2024)
+du 05.12.2016 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,7 +33,7 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> Le taux des cotisations dues par les personnes physiques ou morales affiliées à la Caisse cantonale de compensation pour allocations familiales est fixé à 0,51 % des salaires pour l'agriculture et à 2,48 % des salaires pour toutes les autres branches économiques.
+<sup>1</sup> Le taux des cotisations dues par les personnes physiques ou morales affiliées à la Caisse cantonale de compensation pour allocations familiales est fixé à 0,49 % des salaires pour l'agriculture et à 2,27 % des salaires pour toutes les autres branches économiques.
 
 #### Art. 2
 
