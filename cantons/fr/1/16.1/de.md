@@ -4,13 +4,13 @@ number: "16.1"
 title: Gesetz über die Haftung der Gemeinwesen und ihrer Amtsträger
 short: HGG
 language: de
-version: 2015-07-01
-valid_until: 2025-12-31
-version_adopted: 2014-12-19
+version: 2026-01-01
+valid_until: 2026-05-31
+version_adopted: 2025-09-02
 adopted: 1986-09-16
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/16.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6379/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8274/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Haftung der Gemeinwesen – G
 
 (HGG)
 
-vom 16.09.1986 (Fassung in Kraft getreten am 01.07.2015)
+vom 16.09.1986 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -186,6 +186,12 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>3</sup> Arzthaftungsklagen gegen öffentliche Spitäler werden durch die Zivilprozessordnung geregelt; folgende Bestimmungen bleiben vorbehalten:
+
+- a) die Tatsachen werden von Amtes wegen festgestellt;
+- b) die Klage wird am Ort des Sitzes des betroffenen Spitals eingereicht;
+- c) in erster Instanz werden keine Verfahrenskosten erhoben.
+
 #### Art. 19
 
 **…**
@@ -199,7 +205,8 @@ beschliesst:
 - a) beim Staatsrat für Ansprüche von über 10'000 Franken gegen den Staat und bei den Direktionen des Staatsrats für einen kleineren Betrag;
 - b) beim Gemeinderat oder beim Vorstand des Gemeindeverbandes für Ansprüche gegen die Gemeinde oder gegen den Gemeindeverband;
 - c) beim vollziehenden Organ einer anderen öffentlich-rechtlichen Körperschaft für Ansprüche gegen diese;
-- d) beim obersten Organ einer öffentlich-rechtlichen Anstalt für Ansprüche gegen diese.
+- d) beim obersten Organ einer öffentlich-rechtlichen Anstalt für Ansprüche gegen diese; Buchstabe e dieses Absatzes bleibt vorbehalten;
+- e) bei Zivilgerichten für Arzthaftungsansprüche gegen öffentliche Spitäler.
 
 <sup>2</sup> Ist das angegangene Organ nicht zuständig, so leitet es den Antrag von Amtes wegen an die zuständige Behörde weiter.
 
@@ -253,6 +260,12 @@ beschliesst:
 - b) spätestens aber innerhalb zehn Jahren seit dem Tag des schädigenden Ereignisses.
 
 <sup>2</sup> …
+
+#### Art. 24a
+
+**Arzthaftung – Verjährung**
+
+<sup>1</sup> Artikel 24 dieses Gesetzes ist nicht anwendbar auf Arzthaftungsklagen gegen öffentliche Spitäler, die gemäss Artikel 60 des Obligationenrechts verjähren.
 
 #### Art. 25
 

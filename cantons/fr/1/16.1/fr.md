@@ -4,13 +4,13 @@ number: "16.1"
 title: Loi sur la responsabilité civile des collectivités publiques et de leurs agents
 short: LResp
 language: fr
-version: 2015-07-01
-valid_until: 2025-12-31
-version_adopted: 2014-12-19
+version: 2026-01-01
+valid_until: 2026-05-31
+version_adopted: 2025-09-02
 adopted: 1986-09-16
 in_force: 1987-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/16.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6379/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8274/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Responsabilité civile des collectivités publiques – L
 
 (LResp)
 
-du 16.09.1986 (version entrée en vigueur le 01.07.2015)
+du 16.09.1986 (version entrée en vigueur le 01.01.2026)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -186,6 +186,12 @@ Décrète:
 
 <sup>2</sup> …
 
+<sup>3</sup> Les actions en responsabilité civile médicale dirigées contre les établissements hospitaliers publics sont régies par le code de procédure civile, sous réserve des dispositions suivantes:
+
+- a) les faits sont établis d'office;
+- b) l'action est déposée au lieu du siège de l'établissement hospitalier concerné;
+- c) en première instance, il n'est pas prélevé de frais de procédure.
+
 #### Art. 19
 
 **…**
@@ -199,7 +205,8 @@ Décrète:
 - a) auprès du Conseil d'Etat, ses prétentions contre l'Etat qui dépassent le montant de 10 000 francs, et auprès des Directions du Conseil d'Etat ses prétentions d'un montant inférieur;
 - b) auprès du conseil communal ou du comité de direction, ses prétentions contre la commune ou l'association de communes;
 - c) auprès de l'organe exécutif, ses prétentions contre une autre corporation de droit public;
-- d) auprès de l'organe supérieur, ses prétentions contre un établissement de droit public.
+- d) auprès de l'organe supérieur, ses prétentions contre un établissement de droit public, sous réserve de la lettre e du présent alinéa;
+- e) auprès des tribunaux civils, ses prétentions en responsabilité civile médicale contre les établissements hospitaliers publics.
 
 <sup>2</sup> Si l'organe saisi n'est pas compétent, il transmet d'office la demande à l'autorité compétente.
 
@@ -253,6 +260,12 @@ Décrète:
 - b) au plus tard, dans le délai de dix ans dès le jour où le fait préjudiciable s'est produit.
 
 <sup>2</sup> …
+
+#### Art. 24a
+
+**Responsabilité civile médicale – Prescription**
+
+<sup>1</sup> L'article 24 de la présente loi n'est pas applicable aux actions en responsabilité civile médicale dirigées contre les établissements hospitaliers publics, qui se prescrivent conformément à l'article 60 du code des obligations.
 
 #### Art. 25
 
