@@ -4,13 +4,12 @@ number: "641.4"
 title: Steuergesetz
 short: StG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-05-23
+version: 2026-01-01
+version_adopted: 2025-10-23
 adopted: 1994-10-30
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.4"
-pdf: "http://gdb.ow.ch/api/de/versions/1904/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1969/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1904/pdf_file"
 
 (StG)
 
-vom 30.10.1994 (Stand 01.01.2025)
+vom 30.10.1994 (Stand 01.01.2026)
 
 Das Volk des Kantons Obwalden erlässt,
 
@@ -176,9 +175,11 @@ als Gesetz:
 
 #### Art. 11
 
-**Ehegatten; Kinder unter elterlicher Sorge**
+**Ehegatten, eingetragene Partnerinnen und Partner, Kinder unter elterlicher Sorge**
 
 <sup>1</sup> Einkommen und Vermögen der Ehegatten, die in rechtlich und tatsächlich ungetrennter Ehe leben, werden ohne Rücksicht auf den Güterstand zusammengerechnet.
+
+<sup>1a</sup> Einkommen und Vermögen von Personen, die in rechtlich und tatsächlich ungetrennter eingetragener Partnerschaft leben, werden zusammengerechnet. Die Stellung eingetragener Partnerinnen oder Partner entspricht in diesem Gesetz derjenigen von Ehegatten. Dies gilt auch bezüglich der Unterhaltsbeiträge während des Bestehens der eingetragenen Partnerschaft sowie der Unterhaltsbeiträge und der vermögensrechtlichen Auseinandersetzung bei Getrenntleben und Auflösung einer eingetragenen Partnerschaft.
 
 <sup>2</sup> Einkommen und Vermögen von Kindern werden bis zum Beginn des Jahres, in dem sie volljährig werden, dem Inhaber der elterlichen Sorge zugerechnet.
 
@@ -495,6 +496,8 @@ als Gesetz:
 - b. Qualitätsmerkmalen der Liegenschaften oder Liegenschaftsteile, die im Falle der Vermietung auch den Mietzins massgeblich beeinflussen würden, ist im Rahmen einer schematischen, formelmässigen Bewertung der Eigenmietwerte angemessen Rechnung zu tragen;
 - c. bei am Wohnsitz selbst bewohnten Liegenschaften oder Liegenschaftsteilen ist der Eigenmietwert zudem unter Berücksichtigung der tatsächlichen Nutzung festzulegen.
 
+<sup>4</sup> Für Härtefälle kann der Regierungsrat eine Reduktion des Eigenmietwerts der Erstwohnung vorsehen.
+
 ### 2.2.1.6. Renten, ähnliche wiederkehrende Einkünfte und Einkünfte aus Vorsorge
 
 #### Art. 24
@@ -503,7 +506,7 @@ als Gesetz:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> Einkünfte aus Leibrenten und Verpfründungen sind zu 40 Prozent steuerbar.
+<sup>3</sup> Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich nach Art. 7 Abs. 2 StHG.
 
 <sup>4</sup> Renten und Kapitalabfindungen aus Einrichtungen der beruflichen Vorsorge, die vor dem 1. Januar 1987 zu laufen begannen oder fällig wurden oder die vor dem 1. Januar 2002 zu laufen beginnen oder fällig werden und auf einem Vorsorgeverhältnis beruhen, das am 31. Dezember 1986 bereits bestand, sind wie folgt steuerbar:
 
@@ -673,7 +676,7 @@ als Gesetz:
 <sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a. die privaten Schuldzinsen im Umfang der nach Art. 22, 22a und 23 dieses Gesetzes steuerbaren Vermögenserträge und weiterer 50 000 Franken. Nicht abzugsfähig sind Schuldzinsen für Darlehen, die eine Kapitalgesellschaft einer an ihrem Kapital massgeblich beteiligten oder ihr sonstwie nahestehenden natürlichen Person zu Bedingungen gewährt, die erheblich von den im Geschäftsverkehr unter Dritten üblichen Bedingungen abweichen;
-- b. dauernde Lasten sowie 40 Prozent der bezahlten Leibrenten;
+- b. die dauernden Lasten sowie der Ertragsanteil nach Art. 24 Abs. 3 dieses Gesetzes der Leistungen aus Leibrenten- und aus Verpfründungsverträgen;
 - c. Unterhaltsbeiträge an den geschiedenen, gerichtlich oder tatsächlich getrennt lebenden Ehegatten sowie die Unterhaltsbeiträge an einen Elternteil für die unter dessen elterlicher Sorge stehenden Kinder, nicht jedoch Leistungen in Erfüllung anderer familienrechtlicher Unterhalts- oder Unterstützungspflichten;
 - d. gemäss Gesetz, Statut oder Reglement geleistete Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
 - e. Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge nach Art. 82 BVG[^35-1];
@@ -1055,7 +1058,7 @@ als Gesetz:
 - a. die Kapitalgesellschaften (Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung) und die Genossenschaften;
 - b. die Vereine, die Stiftungen, die Korporationen, Teilsamen und Alpgenossenschaften sowie die übrigen juristischen Personen.
 
-<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz gemäss Art. 58 des Bundesgesetzes über die kollektiven Kapitalanlagen[^69-1]. Die Investmentgesellschaften mit festem Kapital gemäss Art. 110 des Bundesgesetzes über die kollektiven Kapitalanlagen werden wie Kapitalgesellschaften besteuert.
+<sup>2</sup> Den übrigen juristischen Personen gleichgestellt sind die kollektiven Kapitalanlagen mit direktem Grundbesitz gemäss Art. 58 oder Art. 118a des Bundesgesetzes über die kollektiven Kapitalanlagen[^69-1]. Die Investmentgesellschaften mit festem Kapital gemäss Art. 110 des Bundesgesetzes über die kollektiven Kapitalanlagen werden wie Kapitalgesellschaften besteuert.
 
 <sup>3</sup> Ausländische juristische Personen sowie nach Art. 13 dieses Gesetzes steuerpflichtige ausländische Handelsgesellschaften und andere ausländische Personengesamtheiten ohne juristische Persönlichkeit werden jenen inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
@@ -1550,6 +1553,8 @@ als Gesetz:
 - a. juristische Personen für Grundstücke, auf denen zur Hauptsache der Betrieb des eigenen Unternehmens geführt wird;
 - b. juristische Personen für Grundstücke, mit denen sie Aufgaben im sozialen Wohnungsbau erfüllen.
 
+<sup>4</sup> Wird von einer juristischen Person ein Grundstück gehalten, in dem zur Hauptsache der Betrieb einer anderen juristischen Person geführt wird, so ist diese juristische Person von der Minimalsteuer ausgenommen, sofern beide juristischen Personen unter einheitlicher Leitung stehen.
+
 ### 3.3.3. Steueranteile
 
 #### Art. 101a
@@ -1724,7 +1729,9 @@ als Gesetz:
 
 <sup>2</sup> Die Scheidung sowie die tatsächliche oder rechtliche Trennung von einem Ehepartner mit Schweizer Bürgerrecht oder Niederlassungsbewilligung lösen für eine ausländische Arbeitnehmerin oder einen ausländischen Arbeitnehmer ohne Niederlassungsbewilligung ab Beginn des folgenden Monats wieder die Besteuerung an der Quelle aus.
 
-<sup>3</sup> Wenn ein Einkommen im Laufe derselben Steuerperiode zunächst der Quellensteuer und dann der ordentlichen Besteuerung oder umgekehrt unterliegt, hat der Übergang von der einen zur anderen Besteuerungsart bezüglich dieses Einkommens dieselben Folgen, wie wenn ein Steuerpflichtiger seinen Wohnsitz ins Ausland verlegt oder in der Schweiz einen Wohnsitz begründet.
+<sup>3</sup> Unterliegt ein Einkommen innerhalb einer Steuerperiode zunächst der ordentlichen Besteuerung und dann der Quellensteuer, so wird die steuerpflichtige Person für das gesamte Jahr und bis zum Ende der Quellensteuerpflicht nachträglich ordentlich veranlagt.
+
+<sup>4</sup> Allfällige Vorauszahlungen vor dem Übergang zur Quellenbesteuerung sowie an der Quelle abgezogene Steuern sind anzurechnen.
 
 #### Art. 118
 
@@ -2388,6 +2395,8 @@ als Gesetz:
 
 <sup>1</sup> Die Steuerverwaltung erteilt den Verwaltungs- und Gerichtsbehörden sowie deren Durchführungsorganen auf Ersuchen hin alle erforderlichen Auskünfte, soweit hierfür ein vorrangiges öffentliches Interesse besteht und soweit diese Behörden die Auskünfte zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
+<sup>2</sup> Die Steuerverwaltung erstattet dem Handelsregister Meldung, falls innert drei Monaten nach Ablauf der entsprechenden Fristen von der juristischen Person gemäss Art. 191 Abs. 2 Bst. a dieses Gesetzes keine unterzeichnete Jahresrechnung eingereicht wurde.
+
 #### Art. 179b
 
 **Datenbearbeitung**
@@ -2474,13 +2483,9 @@ als Gesetz:
 
 <sup>2</sup> Eine von einer Behörde oder Amtsstelle angesetzte Frist kann erstreckt werden, wenn zureichende Gründe vorliegen und das Erstreckungsgesuch innert der Frist gestellt worden ist.
 
-<sup>3</sup> Gesetzliche oder behördlich bestimmte Fristen stehen still:
+<sup>3</sup> …
 
-- a. vom 7. Tag vor Ostern bis und mit dem 7. Tag nach Ostern,
-- b. vom 15. Juli bis und mit dem 15. August,
-- c. vom 18. Dezember bis und mit dem 2. Januar.
-
-<sup>4</sup> Für die Berechnung von Fristen sowie die Wiederherstellung von Fristen gelten die Bestimmungen der Verordnung über das Verwaltungsgerichtsverfahren[^186-1] sinngemäss.
+<sup>4</sup> Für die Berechnung von Fristen sowie die Wiederherstellung von Fristen gelten die Bestimmungen der Verordnung über das Verwaltungsgerichtsverfahren[^186-1] sinngemäss. Die Bestimmungen über den Fristenstillstand finden keine Anwendung.
 
 <sup>5</sup> Der Regierungsrat legt bei elektronischer Zustellung von Verfügungen und anderen Mitteilungen den Beginn des Fristenlaufs in Ausführungsbestimmungen fest.
 
@@ -2635,7 +2640,7 @@ als Gesetz:
 
 - a. Arbeitgeber über ihre Leistungen an Arbeitnehmer;
 - b. Gläubiger und Schuldner über Bestand, Höhe, Verzinsung und Sicherstellung von Forderungen;
-- c. Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen;
+- c. Versicherer über den Rückkaufswert von Versicherungen und über die aus dem Versicherungsverhältnis ausbezahlten oder geschuldeten Leistungen; bei Leibrentenversicherungen, die dem Versicherungsgesetz unterstehen, müssen sie zusätzlich einen Ausweis nach Art. 127 Abs. 1 Bst. c des Bundesgesetzes über die direkte Bundessteuer erstellen;
 - d. Treuhänder, Vermögensverwalter, Pfandgläubiger, Beauftragte und andere Personen, die Vermögen der Steuerpflichtigen in Besitz oder in Verwaltung haben oder hatten, über dieses Vermögen und seine Erträge;
 - e. Personen, die mit den Steuerpflichtigen Geschäfte tätigen oder getätigt haben, über die beiderseitigen Ansprüche und Leistungen.
 
@@ -2809,7 +2814,7 @@ als Gesetz:
 
 <sup>1</sup> Die Steuerverwaltung kann von einer steuerpflichtigen Person mit Wohnsitz oder Sitz im Ausland verlangen, dass sie eine Vertretung in der Schweiz bezeichnet.
 
-<sup>2</sup> Personen, die nach Artikel 120a dieses Gesetzes eine nachträgliche ordentliche Veranlagung beantragen, müssen die erforderlichen Unterlagen einreichen und eine Zustelladresse in der Schweiz bezeichnen. Wird keine Zustelladresse bezeichnet oder verliert die Zustelladresse während des Veranlagungsverfahrens ihre Gültigkeit, so gewährt die zuständige Behörde der steuerpflichtigen Person eine angemessene Frist für die Bezeichnung einer gültigen Zustelladresse. Läuft diese Frist unbenutzt ab, so tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern auf dem Erwerbseinkommen. Art. 54 Abs. 3 der Vollziehungsverordnung zum Steuergesetz gilt sinngemäss.
+<sup>2</sup> Personen, die nach Art. 120a dieses Gesetzes eine nachträgliche ordentliche Veranlagung beantragen, müssen die erforderlichen Unterlagen einreichen und eine Zustelladresse in der Schweiz bezeichnen. Wird keine Zustelladresse bezeichnet oder verliert die Zustelladresse während des Veranlagungsverfahrens ihre Gültigkeit, so gewährt die zuständige Behörde der steuerpflichtigen Person eine angemessene Frist für die Bezeichnung einer gültigen Zustelladresse. Läuft diese Frist unbenutzt ab, so tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern auf dem Erwerbseinkommen. Art. 54 Abs. 2 der Vollziehungsverordnung zum Steuergesetz gilt sinngemäss.
 
 ### 7.4.2. Pflichten der Steuerpflichtigen
 
@@ -4081,7 +4086,7 @@ als Gesetz:
 
 **Evaluation**
 
-<sup>1</sup> Der Regierungsrat beobachtet und analysiert die Entwicklung der Steuererträge des Kantons und der Gemeinden und erstattet darüber dem Kantonsrat und den Gemeinden mindestens alle zwei Jahre Bericht und Antrag für allfällige Massnahmen.
+<sup>1</sup> Der Regierungsrat beobachtet und analysiert die Entwicklung der Steuererträge des Kantons und der Gemeinden und erstattet darüber dem Kantonsrat und den Gemeinden mindestens alle vier Jahre Bericht und Antrag für allfällige Massnahmen.
 
 ### 10.7. Übergangs- und Schlussbestimmungen zum Nachtrag vom 28. Oktober 2010
 
@@ -4203,6 +4208,8 @@ geändert durch
 
 \- Nachtrag vom 26. Oktober 2023 (OGS 2023, 29), Botschaft und Vorlage des Regierungsrats vom 2. Mai 2023, Kantonsratssitzungen vom 14. September und 26. Oktober 2023 (22.23.03), in Kraft seit 1. Januar 2024 (OGS 2023, 35),
 
-\- Nachtrag zum Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht (Schätzungs- und Grundpfandgesetz) vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37)
+\- Nachtrag zum Gesetz über die amtliche Schätzung der Grundstücke und das Grundpfandrecht (Schätzungs- und Grundpfandgesetz) vom 23. Mai 2024 (OGS 2024 36), Botschaft und Vorlage des Regierungsrats vom 28. Januar 2024, Kantonsratssitzungen vom 14. März und 23. Mai 2024 (22.24.01), angenommen an der Volksabstimmung vom 24. November 2024 (ABl 2024, 1697), in Kraft seit 1. Januar 2025 (OGS 2024, 37),
+
+\- Nachtrag vom 23. Oktober 2025 (OGS 2025, 19), Botschaft und Vorlage des Regierungsrats vom 16. Juni 2025, Kantonsratssitzungen vom 11. September und 23. Oktober 2025 (22.25.06), in Kraft seit 1. Januar 2026 (OGS 2025, 24)
 
 OGS 1995, 41
