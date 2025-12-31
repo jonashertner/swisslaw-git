@@ -1,30 +1,29 @@
 ---
 canton: FR
 number: "551.61"
-title: Ordonnance concernant les émoluments de la Police cantonale
+title: Ordonnance concernant les frais de la Police cantonale
 language: fr
-version: 2022-02-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-11
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2025-12-15
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7333/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8342/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance concernant les émoluments de la Police cantonale
+# Ordonnance concernant les frais de la Police cantonale
 
-Police cantonale, émoluments – O
+Frais de la Police cantonale - O
 
-du 22.12.2009 (version entrée en vigueur le 01.02.2022)
+du 15.12.2025 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi du 15 novembre 1990 sur la Police cantonale;
+Vu l'article 42 al. 2 de la loi du 15 novembre 1990 sur la Police cantonale (LPol);
 
-Sur la proposition de la Direction de la sécurité et de la justice,
+Sur la proposition de la Direction de la sécurité, de la justice et du sport,
 
 Arrête:
 
@@ -34,32 +33,47 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance détermine les émoluments qui sont perçus:
+<sup>1</sup> La présente ordonnance détermine les frais qui sont perçus conformément à l'article 42 al. 2 de la loi sur la Police cantonale du 15 novembre 1990 (LPol)[^1-1].
 
-- a) pour certains frais liés à des opérations de police judiciaire (art. 5 à 9);
-- b) pour certaines autres prestations de la Police cantonale, fournies principalement dans l'intérêt des particuliers (art. 11 à 13);
-- c) pour les prestations de maintien de l'ordre et de protection fournies dans le cadre des matchs soumis à autorisation au sens de l'article 3a du concordat instituant des mesures contre la violence lors de manifestations sportives (ci-après: le concordat) (art. 15a).
+<sup>2</sup> Les frais comprennent les émoluments visant à couvrir les frais engendrés par les interventions générales de police et les débours effectivement supportés.
 
-<sup>2</sup> …
-
-<sup>3</sup> Sont en outre réservés les émoluments perçus en vertu d'autres dispositions cantonales ou en vertu du droit fédéral.
+[^1-1]: RSF [551.1](https://bdlf.fr.ch/data/551.1/fr)
 
 #### Art. 2
 
-**Déplacements et frais de tiers**
+**Principes**
 
-<sup>1</sup> Pour l'usage des véhicules, il est perçu un émolument forfaitaire de 60 francs par déplacement et par véhicule.
+<sup>1</sup> La Police cantonale peut percevoir, pour l'exercice de ses activités et de ses missions, des frais prévus dans la présente ordonnance, sous réserve d'autres dispositions cantonales ainsi que de l'application du droit fédéral ou concordataire.
 
-<sup>2</sup> Pour les déplacements hors du canton, l'émolument est de 1 fr. 50 par kilomètre et par véhicule, mais au minimum de 60 francs par déplacement. En cas d'utilisation de moyens de transports publics, l'émolument correspond aux frais de transport.
+<sup>2</sup> Les frais liés aux interventions et prestations des services de police peuvent être mis à la charge des personnes qui les ont provoquées ou sollicitées.
 
-<sup>3</sup> Pour l'usage d'embarcations, il est perçu l'émolument suivant:
-
-- a) embarcation légère, par heure: Fr. 70
-- b) bateau de police, par heure: Fr. 210
-
-<sup>4</sup> Les prestations fournies par les tiers sont calculées et facturées au prix coûtant.
+<sup>3</sup> Lorsque les frais liés aux interventions et prestations des services de police ne peuvent être encaissés auprès de la personne morale qui les a provoquées, ils sont facturés aux représentants ou représentantes de celle-ci.
 
 #### Art. 3
+
+**Exemption**
+
+<sup>1</sup> Les manifestations patriotiques, religieuses ou militaires organisées par une commune ou par une autre collectivité publique ainsi que les activités militaires hors service reconnues par le Département fédéral de la défense, de la protection de la population et des sports sont exemptées d'émolument.
+
+#### Art. 4
+
+**Modalités de facturation**
+
+<sup>1</sup> Les frais liés à une procédure pénale sont facturés à l'autorité de poursuite pénale en distinguant les émoluments des débours.
+
+<sup>2</sup> Les dispositions relatives aux frais en matière pénale, civile et administrative s'appliquent à la fixation judiciaire et à l'encaissement, par l'autorité, de ces débours.
+
+<sup>3</sup> Les frais pour les services fournis dans l'intérêt de tiers ne sont pas facturés, sous réserve de dispositions particulières prévues dans la présente ordonnance ainsi que dans les lois spéciales.
+
+<sup>4</sup> Les frais pour le service d'ordre et de circulation liés aux manifestations sont facturés conformément aux articles 17 et suivants.
+
+#### Art. 5
+
+**Intervention d'une entreprise tierce**
+
+<sup>1</sup> En cas d'intervention ou de prestations d'une entreprise tierce sollicitée par la Police cantonale, cette dernière peut faire supporter les frais aux personnes qui les ont provoquées ou qui en bénéficient ou aux représentants ou représentantes de celles-ci.
+
+#### Art. 6
 
 **Calcul de la durée de l'engagement**
 
@@ -67,231 +81,306 @@ Arrête:
 
 <sup>2</sup> Elle est calculée par demi-heure, chaque demi-heure entamée étant facturée en plein.
 
-#### Art. 4
-
-**Frais de repas**
-
-<sup>1</sup> Les frais des repas occasionnés, en dehors des horaires attribués, par une enquête sont facturés selon les montants prévus par la législation sur le personnel de l'Etat.
-
-## 2 Police judiciaire
-
-#### Art. 5
-
-**Dossier – Original**
-
-<sup>1</sup> Pour les frais administratifs liés à l'établissement et à la communication de rapports, il est perçu:
-
-- a) émolument selon le temps d'exécution: Fr. 60 à 240
-- b) établissement d'un plan, selon le temps d'exécution: Fr. 240 à 1200
-- c) établissement d'un croquis, selon le temps d'exécution: Fr. 60 à 240
-- d) photographie: Fr. 12
-
-#### Art. 6
-
-**Dossier – Copies**
-
-<sup>1</sup> Pour les copies de pièces de dossiers, délivrées par la Police cantonale sous l'autorité du juge compétent, il est perçu:
-
-- a) photocopie en noir et blanc: Fr. 1
-- b) photocopie en couleurs: Fr. 6
-- c) plan de grand format: Fr. 80
-
-<sup>2</sup> Les émoluments prévus à l'alinéa 1 sont également applicables aux photocopies de rapports et d'autres documents destinés à des assurances. Un émolument forfaitaire de 25 francs est toutefois perçu en sus.
-
-<sup>3</sup> Les copies destinées à des organes officiels sont franches d'émolument.
-
 #### Art. 7
 
-**Attestations et autres renseignements**
+**Montants**
 
-<sup>1</sup> Pour les attestations et autres renseignements délivrés par la Police cantonale, il est perçu un émolument forfaitaire de 35 francs.
+<sup>1</sup> Les montants des frais perçus conformément aux articles 7 et suivants de la présente ordonnance sont listés à l'annexe 1.
 
-<sup>2</sup> …
+## 2 Prestations générales de base
 
 #### Art. 8
 
-**Matériel**
+**Coût du personnel policier**
 
-<sup>1</sup> Le matériel utilisé par la police judiciaire est facturé au prix coûtant, sous réserve des forfaits prévus aux alinéas 2 à 5 ci-après.
+<sup>1</sup> Sous réserve de tarifs particuliers prévus dans la présente ordonnance, le tarif de l'engagement des agents et agentes de la Police cantonale est fixé par heure et par personne.
 
-<sup>2</sup> Pour le matériel utilisé par les services spécialisés, notamment le service d'identification judiciaire (SIJ) et le groupe technique accident (GTA), il est perçu:
-
-- a) constat technique: Fr. 60
-- b) frottis de la muqueuse jugale: Fr. 360
-- c) analyse de traces ADN: Fr. 840
-- d) test de viol: Fr. 190
-- e) enregistrement vidéo (audition filmée, reconstitution, etc.): Fr. 60
-
-<sup>3</sup> Pour le matériel utilisé lors d'un accident de la circulation, il est perçu:
-
-- a) intervention sur une route cantonale ou communale: Fr. 35
-- b) intervention sur une autoroute ou une semi-autoroute: Fr. 60
-
-<sup>4</sup> Les frais éventuels de remplissage des extincteurs et de remplacement du matériel de lutte contre la pollution par les hydrocarbures sont dus en sus.
-
-<sup>5</sup> Lorsque les constatations de la Police cantonale engendrent une dénonciation pénale, il est perçu en outre:
-
-- a) pour un contrôle au moyen d'un éthylotest: Fr. 50
-- b) pour le contrôle du poids d'un véhicule: Fr. 60
-- c) pour un test de drogue: Fr. 50
-- d) pour un contrôle au moyen d'un éthylomètre: Fr. 100
+<sup>2</sup> Pour les services spéciaux, les émoluments et les débours sont perçus conformément à l'annexe 1 de la présente ordonnance.
 
 #### Art. 9
 
-**Prestations particulières**
+**Rapports**
 
-<sup>1</sup> Pour les prestations suivantes, il est perçu:
-
-- a) notification exceptionnelle d'un acte judiciaire ou d'une décision administrative: Fr. 60
-- b) notifications et mandats d'amener des offices de poursuite:
-  - 1\. avec déplacement: Fr. 60
-  - 2\. sans déplacement: Fr. 35
-- c) actes matériels d'exécution d'une décision judiciaire ou administrative (expulsion d'un locataire, transport de personnes placées à des fins d'assistance, etc.) ou tout autre acte de police judiciaire requis par une autorité, par heure et par agent: Fr. 60
-- d) retraits de plaques d'immatriculation: Fr. 85
-- e) entreposage de véhicules, de bateaux et de matériaux dans les locaux de l'Etat, par jour:
-  - 1\. cycle:
-  - 1\.1 du 1<sup>er</sup> au 30<sup>e</sup> jour d'entreposage: Fr. 2
-  - 1\.2 dès le 31<sup>e</sup> jour: Fr. 0.50
-  - 2\. cyclomoteur:
-  - 2\.1 du 1<sup>er</sup> au 30<sup>e</sup> jour d'entreposage: Fr. 5
-  - 2\.2 dès le 31<sup>e</sup> jour: Fr. 1
-  - 3\. motocycle ou scooter:
-  - 3\.1 du 1<sup>er</sup> au 30<sup>e</sup> jour d'entreposage: Fr. 7
-  - 3\.2 dès le 31<sup>e</sup> jour: Fr. 1.50
-  - 4\. véhicule automobile jusqu'à 3,5 t:
-  - 4\.1 du 1<sup>er</sup> au 30<sup>e</sup> jour d'entreposage: Fr. 10
-  - 4\.2 dès le 31<sup>e</sup> jour: Fr. 3
-  - 5\. véhicule automobile de plus de 3,5 t:
-  - 5\.1 du 1<sup>er</sup> au 30<sup>e</sup> jour d'entreposage: Fr. 35
-  - 5\.2 dès le 31<sup>e</sup> jour: Fr. 15
-  - 6\. remorque, selon le volume:
-  - 6\.1 du 1<sup>er</sup> au 30<sup>e</sup> jour d'entreposage: Fr. 10 à 40
-  - 6\.2 dès le 31<sup>e</sup> jour: Fr. 3 à 12
-  - 7\. autre véhicule et bateau, selon le volume:
-  - 7\.1 du 1<sup>er</sup> au 30<sup>e</sup> jour d'entreposage: Fr. 10 à 40
-  - 7\.2 dès le 31<sup>e</sup> jour: Fr. 3 à 12
-  - 8\. Pour l'entreposage de tout autre objet ou matériel, le prix mensuel est déterminé selon le volume et la place occupée.
-- f) transport ou escorte de personnes, par heure et par agent: Fr. 60
-- g) expertise effectuée par les services spécialisés, notamment le SIJ et le GTA, par heure et par agent: Fr. 120
-- h) mise en place d'une alarme temporaire ou d'un contrôle technique: Fr. 120
-- i) recherche et récupération de véhicules et de bateaux, par heure et par agent: Fr. 120
-- j) engagement d'un chien de police avec conducteur, par heure et par agent: Fr. 120
-- k) plongée subaquatique, par heure et par agent: Fr. 120
-- l) engagement d'agents dans des situations particulières, notamment la recherche et le sauvetage de personnes, par heure et par agent: Fr. 100
-- m) travaux de retranscription, notamment lors de contrôles téléphoniques, d'auditions filmées, par heure et par personne: Fr. 60
-- n) travaux informatiques:
-  - 1\. récupération des données, par heure et par agent: Fr. 120
-  - 2\. analyse des données, par heure et par agent: Fr. 120
-  - 3\. stockage des données, par unité de 10 Go: Fr. 240
+<sup>1</sup> Pour les frais administratifs liés à l'établissement et à la transmission de rapports, des émoluments sont perçus selon le temps d'exécution.
 
 #### Art. 10
 
-**Procédure**
+**Frais de déplacements**
 
-<sup>1</sup> Les émoluments prévus aux articles 2 à 9 ci-dessus sont facturés et perçus directement par la Police cantonale auprès de l'autorité compétente ou requérante.
+<sup>1</sup> Pour l'usage des véhicules, les frais sont perçus forfaitairement par déplacement et par véhicule. Ces frais constituent un débours.
 
-<sup>2</sup> Les dispositions relatives aux frais en matière pénale, civile et administrative s'appliquent à la fixation judiciaire et à l'encaissement, par l'autorité, de ces débours.
+<sup>2</sup> Pour les déplacements hors du canton, le débours est fixé par kilomètre et par véhicule. En cas d'utilisation de moyens de transports publics, le débours correspond aux frais de transport.
 
-<sup>3</sup> Toutefois, les émoluments prévus aux articles 6 al. 2 et 7 al. 1 sont facturés et perçus directement par la Police cantonale auprès des débiteurs. Les articles 14 et 15 sont applicables.
-
-## 3 Services fournis principalement dans l'intérêt des particuliers
+<sup>3</sup> Il est également perçu des débours pour l'usage d'embarcations.
 
 #### Art. 11
 
-**Actes administratifs**
+**Matériel**
 
-<sup>1</sup> Pour les actes suivants, il est perçu:
-
-- a) délivrance d'un livret de travail OTR: Fr. 17
-- b) dispense de la tenue d'un livret de travail OTR ou du registre patronal: Fr. 35
-- c) autorisation d'une restriction temporaire de la circulation ou de la navigation délivrée à un organe privé, selon l'importance et la durée de la restriction: Fr. 120 à 960; par visite des lieux, il est perçu un émolument de Fr. 120
-- d) délivrance d'urgence d'un permis, en dehors des heures d'ouverture de l'Office de la circulation et de la navigation: Fr. 120
-- e) délivrance d'urgence d'une autorisation exceptionnelle de circuler le dimanche, un jour férié ou de nuit, en dehors des heures d'ouverture de l'Office de la circulation et de la navigation: Fr. 30
-- f) autres décisions et préavis rendus par la Police cantonale dans l'intérêt de particuliers, selon l'importance du travail: Fr. 35 à 600
+<sup>1</sup> Le matériel utilisé par la Police cantonale constitue un débours et est facturé au prix coûtant, sous réserve des forfaits prévus dans la présente ordonnance.
 
 #### Art. 12
 
-**Services spéciaux**
+**Dénonciations pénales**
 
-<sup>1</sup> Pour les services spéciaux suivants, il est perçu:
+<sup>1</sup> Des débours sont perçus pour les constatations de la Police cantonale engendrant une dénonciation pénale.
 
-- a) service de circulation avec ou sans service d'ordre minimal lors de manifestations (cortèges, courses, manifestations commerciales, sportives ou culturelles, fêtes, assemblées, etc.), par heure et par agent: Fr. 100; les manifestations patriotiques, religieuses ou militaires organisées par une commune ou par une autre collectivité publique ainsi que les activités militaires hors service reconnues par le Département fédéral de la défense, de la protection de la population et des sports sont franches d'émolument
-- b) accompagnement de transports spéciaux au sens de la législation sur la circulation routière, par heure et par agent: Fr. 100
-- c) accompagnement de transports de fonds, par heure et par agent: Fr. 120
-- d) plongée subaquatique, par heure et par agent: Fr. 120
-- e) engagement d'un chien de police avec conducteur, dès le quatrième jour – mais dès le premier jour en cas de faute grave –, par heure et par agent: Fr. 120
-- f) recherche et récupération de véhicules et de bateaux, par heure et par agent: Fr. 120
-- g) engagement d'agents dans la recherche et le sauvetage de personnes dès le quatrième jour – mais dès le premier jour en cas de faute grave –, par heure et par agent: Fr. 100
-- h) hébergement d'un chien, forfaitairement: Fr. 20
-- i) dépannage d'un véhicule:
-  - 1\. de jour: Fr. 240
-  - 2\. de nuit: Fr. 300
-- j) contrôle de passagers d'un avion utilisant un aérodrome sis sur le territoire du canton de Fribourg pour des vols à vide transnationaux:
-  - 1\. pour le contrôle des documents de légitimation, forfaitairement: Fr. 85
-  - 2\. pour le contrôle des documents de légitimation avec contrôle douanier, forfaitairement: Fr. 120
-- k) autres prestations spéciales fournies principalement dans l'intérêt de particuliers, par heure et par agent, spécialiste ou collaborateur: Fr. 100 à 120
+<sup>2</sup> Des débours sont perçus pour le matériel utilisé lors d'un accident de la circulation.
 
-<sup>2</sup> En cas de risque spécial ou de travail particulièrement difficile, les montants prévus à l'alinéa 1 peuvent être augmentés jusqu'à leur double.
+<sup>3</sup> Les frais éventuels de remplissage des extincteurs et de remplacement du matériel de lutte contre la pollution par les hydrocarbures sont dus en sus.
 
 #### Art. 13
 
-**Alarmes**
+**Frais de repas du personnel policier**
 
-<sup>1</sup> Pour les alarmes dont la Police cantonale assure la réception, il est perçu:
-
-- a) droit unique de raccordement: Fr. 700
-- b) abonnement mensuel: Fr. 75
-- c) établissement du dossier d'intervention, selon l'importance du travail: Fr. 500 à 2500
-
-<sup>2</sup> Pour l'établissement du dossier d'intervention dans le cas de dispositifs d'alarme non reliés à la Police cantonale, il est perçu, selon l'importance du travail, un émolument de 300 à 750 francs.
-
-<sup>3</sup> Pour les interventions de la police dues à une fausse alarme donnée par un dispositif technique, même non relié à la police, il est perçu:
-
-- a) première fausse alarme durant une année: Fr. 120
-- b) chaque fausse alarme suivante dans la même année: Fr. 360
+<sup>1</sup> Les frais de repas des agents et agentes de la Police cantonale constituent un émolument. Ils sont remboursés avec le versement du salaire par le Service du personnel et d'organisation.
 
 #### Art. 14
 
-**Procédure**
+**Frais de repas des personnes interrogées**
 
-<sup>1</sup> Les émoluments sont facturés et perçus par les services concernés de la Police cantonale, conformément aux directives du commandant.
+<sup>1</sup> Les frais de repas des personnes interrogées constituent un débours et sont fixés forfaitairement.
 
-<sup>2</sup> Celui qui conteste le principe ou le montant d'un émolument ainsi perçu peut, dans les dix jours, interjeter une réclamation auprès du commandant.
-
-<sup>3</sup> La décision sur réclamation est sujette à recours auprès de la Direction de la sécurité, de la justice et du sport.
+## 3 Emoluments administratifs
 
 #### Art. 15
 
-**Réduction et remise**
+**Actes administratifs**
 
-<sup>1</sup> Les émoluments peuvent, d'office ou sur requête, être réduits ou remis par la Direction de la sécurité, de la justice et du sport dans les mêmes cas que ceux qui sont prévus par le code de procédure et de juridiction administrative.
+<sup>1</sup> Il est perçu des émoluments pour la délivrance des actes suivants:
 
-## 3<sup>bis</sup> Frais pour le service d'ordre lié aux manifestations sportives
+- a) délivrance d'un livret de travail selon l'ordonnance fédérale sur la durée du travail et du repos des conducteurs professionnels de véhicules automobiles du 19 juin 1995 (Ordonnance sur les chauffeurs, OTR 1)[^15-1] et l'ordonnance fédérale sur la durée du travail et du repos des conducteurs professionnels de véhicules légers affectés au transport de personnes et de voitures de tourisme lourdes du 6 mai 1981 (OTR 2)[^15-2];
+- b) dispense de la tenue d'un livret de travail selon l'OTR 1[^15-3] ou l'OTR 2[^15-4] ou du registre patronal;
+- c) autorisation d'une restriction temporaire de la circulation ou de la navigation délivrée à un organe privé, selon l'importance et la durée de la restriction;
+- d) autres décisions et préavis rendus par la Police cantonale dans l'intérêt de particuliers, selon l'importance du travail.
 
-#### Art. 15a
-
-**Matchs soumis à autorisation**
-
-<sup>1</sup> Pour les services de maintien de l'ordre et de protection liés aux matchs soumis ou pouvant être soumis à autorisation, il est perçu un émolument de 1 fr. 50 par billet d'entrée vendu.
-
-<sup>2</sup> Pour les matchs soumis à autorisation au sens de l'article 3a al. 1, 1<sup>re</sup> phr., du concordat, l'émolument est perçu sur la base du décompte du total des entrées de la saison écoulée.
-
-<sup>3</sup> Pour les matchs qui peuvent être soumis à autorisation au sens de l'article 3a al. 1, 2<sup>e</sup> phr., du concordat, l'émolument est perçu sur la base du décompte du total des entrées après chaque match soumis à autorisation.
-
-<sup>4</sup> Les articles 2 à 4 de la présente ordonnance ne s'appliquent pas aux matchs soumis à autorisation.
-
-## 4 Dispositions finales
+[^15-1]: RS [822.221](https://db.clex.ch/link/Bund/822.221/fr)
+[^15-2]: RS [822.222](https://db.clex.ch/link/Bund/822.222/fr)
+[^15-3]: RS [822.221](https://db.clex.ch/link/Bund/822.221/fr)
+[^15-4]: RS [822.222](https://db.clex.ch/link/Bund/822.222/fr)
 
 #### Art. 16
 
-**Abrogation**
+**Attestations et autres renseignements**
 
-<sup>1</sup> L'arrêté du 22 décembre 1987 concernant les émoluments de la Police cantonale (RSF 551.61) est abrogé.
+<sup>1</sup> Un émolument forfaitaire est perçu pour les attestations et autres renseignements délivrés par la Police cantonale, sous réserve des dispositions contraires prévues par la loi sur l'information et l'accès aux documents.
 
 #### Art. 17
 
-**Entrée en vigueur**
+**Copies**
 
-<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2010.
+<sup>1</sup> Un émolument est perçu pour les copies de pièces de dossiers délivrées par la Police cantonale. Un émolument forfaitaire est facturé en sus pour les copies destinées à des assurances.
 
-2009\_146
+<sup>2</sup> Les copies destinées à des organes des assurances sociales sont franches d'émolument.
+
+## 4 Frais pour les prestations liées aux manifestations sportives et aux manifestations non autorisées
+
+#### Art. 18
+
+**Matchs soumis à autorisation**
+
+<sup>1</sup> Pour les services de maintien de l'ordre et de protection liés aux matchs soumis ou pouvant être soumis à autorisation, il est perçu un émolument par billet d'entrée vendu.
+
+<sup>2</sup> Pour les matchs soumis à autorisation au sens de l'article 3a al. 1, 1<sup>re</sup> phr., du concordat instituant des mesures contre la violence lors de manifestations sportives du 15 novembre 2007 (ci-après: le concordat)[^18-1], l'émolument est perçu sur la base du décompte du total des entrées de la saison écoulée.
+
+<sup>3</sup> Pour les matchs qui peuvent être soumis à autorisation au sens de l'article 3a al. 1, 2<sup>e</sup> phr., du concordat[^18-2], l'émolument est perçu sur la base du décompte du total des entrées après chaque match soumis à autorisation.
+
+<sup>4</sup> Les articles 7, 10 et 11 de la présente ordonnance ne s'appliquent pas aux matchs soumis à autorisation.
+
+[^18-1]: RSF [559.71](https://bdlf.fr.ch/data/559.71/fr)
+[^18-2]: RSF [559.71](https://bdlf.fr.ch/data/559.71/fr)
+
+#### Art. 19
+
+**Manifestations sportives**
+
+<sup>1</sup> Pour les engagements liés aux manifestations sportives, il est perçu un émolument par heure et par agents et agentes de la Police cantonale.
+
+#### Art. 20
+
+**Manifestations non autorisées**
+
+<sup>1</sup> Pour les services de circulation, de maintien de l'ordre et/ou de protection à l'occasion de manifestations non autorisées, il est perçu un émolument par heure et par agents et agentes de la Police cantonale.
+
+## 5 Prestations particulières
+
+#### Art. 21
+
+**Réquisitions**
+
+<sup>1</sup> Des émoluments sont perçus pour les prestations suivantes:
+
+- a) notifications et mandats d'amener des offices de poursuite, avec ou sans déplacement;
+- b) actes matériels d'exécution ou de notification d'une décision judiciaire ou administrative (expulsion d'un locataire, transport de personnes placées à des fins d'assistance, etc.) sous réserve de mesures prises dans le cadre d'une procédure pénale;
+- c) retraits de plaques d'immatriculation;
+- d) travaux informatiques, contribution à l'espace de stockage des données;
+- e) mise en place d'une alarme temporaire ou d'un contrôle technique.
+
+#### Art. 22
+
+**Frais d'entreposage**
+
+<sup>1</sup> Des débours sont perçus pour l'entreposage de véhicules, de bateaux et de matériaux dans les locaux de l'Etat.
+
+<sup>2</sup> Pour l'entreposage de tout autre objet ou matériel, le prix mensuel est déterminé selon le prix coûtant, au mètre carré.
+
+#### Art. 23
+
+**Alarmes**
+
+<sup>1</sup> La Police cantonale perçoit des frais pour les alarmes dont elle assure la réception. Ces frais comprennent le droit unique de raccordement, l'abonnement mensuel ainsi que l'établissement du dossier d'intervention, selon l'importance du travail.
+
+<sup>2</sup> Un émolument est perçu, selon l'importance du travail, pour l'établissement du dossier d'intervention dans le cas de dispositifs d'alarme non reliés à la Police cantonale.
+
+<sup>3</sup> Un émolument est perçu pour les interventions de la police dues à une fausse alarme donnée par un dispositif technique, même non relié à la police.
+
+## 6 Procédure et voies de droit
+
+#### Art. 24
+
+**Procédure**
+
+<sup>1</sup> Les frais sont facturés et perçus par les services compétents de la Police cantonale, conformément aux directives du commandant ou de la commandante.
+
+<sup>2</sup> La personne qui conteste le principe ou le montant des frais ainsi perçus peut, dans les dix jours, interjeter une réclamation auprès du commandant ou de la commandante.
+
+<sup>3</sup> La décision sur réclamation est sujette à recours dans les 30 jours auprès de la Direction de la sécurité, de la justice et du sport (ci-après: la DSJS).
+
+#### Art. 25
+
+**Réduction et remise**
+
+<sup>1</sup> Les frais peuvent, d'office ou sur requête, être réduits ou remis par la DSJS dans les mêmes cas que ceux qui sont prévus par le code de procédure et de juridiction administrative.
+
+## A1 ANNEXE 1 – Montants des frais perçus par la Police cantonale (art. 7 al. 1 et 8 al. 2)
+
+#### Art. A1-1
+
+**Prestations générales de base (art. 8 à 14)**
+
+<sup>1</sup> Les montants des frais des prestations générales de base sont les suivants:
+
+<table>
+<tr><th>Article</th><th>Frais</th><th>Montant (Fr.)</th></tr>
+<tr><td>8 al. 1</td><td>**Engagement d'agent ou d'agente de la Police cantonale** (par heure et par personne)</td><td>120</td></tr>
+<tr><td>8 al. 2</td><td>**Services spéciaux**</td><td></td></tr>
+<tr><td></td><td>– service de circulation avec ou sans service d'ordre minimal lors de manifestations /cortèges, courses, manifestations commerciales, sportives ou culturelles, fêtes, assemblées, etc.) (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– le transport ou l'escorte de personnes (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– l'expertise effectuée par les services spécialisés (par heure et par agent ou agente)</td><td>200</td></tr>
+<tr><td></td><td>– accompagnement de transports spéciaux au sens de la législation sur la circulation routière (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– accompagnement de transports de fonds (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– plongée subaquatique (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– engagement d'un chien de police avec conducteur – dès le quatrième jour – mais dès le premier jour en cas de négligence grave (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– recherche et récupération de véhicules et de bateaux (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– engagement d'agents dans la recherche et le sauvetage de personnes – dès le quatrième jour – mais dès le premier jour en cas de négligence grave (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td></td><td>– hébergement d'un chien</td><td>20</td></tr>
+<tr><td></td><td>– dépannage d'un véhicule de jour</td><td>240</td></tr>
+<tr><td></td><td>– dépannage d'un véhicule de nuit</td><td>300</td></tr>
+<tr><td></td><td>– autres prestations spéciales fournies principalement dans l'intérêt de particuliers (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td>9</td><td>**Etablissement et transmission de rapports** (selon le temps d'exécution)</td><td>60 à 500</td></tr>
+<tr><td>10 al. 1</td><td>**Frais de déplacement**</td><td></td></tr>
+<tr><td></td><td>– usage de véhicules dans le canton (par déplacement et par véhicule)</td><td>60</td></tr>
+<tr><td></td><td>– usage de véhicules hors du canton (par km et par véhicule)</td><td>1.50</td></tr>
+<tr><td>10 al. 3</td><td>**Usage d'embarcations**</td><td></td></tr>
+<tr><td></td><td>– embarcation légère (par heure)</td><td>70</td></tr>
+<tr><td></td><td>– bateau de police (par heure)</td><td>210</td></tr>
+<tr><td>12 al. 1</td><td>**Dénonciations pénales**</td><td></td></tr>
+<tr><td></td><td>– contrôle au moyen d'un éthylotest</td><td>50</td></tr>
+<tr><td></td><td>– contrôle du poids d'un véhicule</td><td>60</td></tr>
+<tr><td></td><td>– test de drogue</td><td>50</td></tr>
+<tr><td></td><td>– test CBD</td><td>5</td></tr>
+<tr><td></td><td>– contrôle au moyen d'un éthylomètre</td><td>100</td></tr>
+<tr><td></td><td>– constat technique</td><td>60</td></tr>
+<tr><td></td><td>– frottis de la muqueuse jugale</td><td>360</td></tr>
+<tr><td></td><td>– analyse de traces ADN</td><td>840</td></tr>
+<tr><td></td><td>– test de viol</td><td>190</td></tr>
+<tr><td></td><td>– enregistrement vidéo (audition filmée, reconstitution, etc.)</td><td>60</td></tr>
+<tr><td>12 al. 2</td><td>**Utilisation de matériel lors d'un accident de la circulation**</td><td>60</td></tr>
+<tr><td>14</td><td>**Frais de repas des personnes interrogées**</td><td>10</td></tr>
+</table>
+
+#### Art. A1-2
+
+**Emoluments administratifs (art. 15 à 17)**
+
+<sup>1</sup> Les montants des émoluments administratifs sont les suivants:
+
+<table>
+<tr><th>**Article**</th><th>**Emoluments**</th><th>**Montant** (Fr.)</th></tr>
+<tr><td>15</td><td>**Actes administratifs**</td><td></td></tr>
+<tr><td></td><td>– délivrance d'un livret de travail OTR1[^A12-1]</td><td>24</td></tr>
+<tr><td></td><td>– délivrance d'un livret de travail OTR2[^A12-2]</td><td>17</td></tr>
+<tr><td></td><td>– dispense de la tenue d'un livret de travail OTR ou du registre patronal</td><td>35</td></tr>
+<tr><td></td><td>– autorisation d'une restriction temporaire de la circulation ou de la navigation délivrée à un organe privé (selon l'importance et la durée de la restriction)</td><td>120 à 960</td></tr>
+<tr><td></td><td>– autres décisions et préavis rendus par la Police cantonale dans l'intérêts de particuliers (selon l'importance du travail)</td><td>35 à 600</td></tr>
+<tr><td>16</td><td>**Attestations et autres renseignements**</td><td>35</td></tr>
+<tr><td>17</td><td>**Copies**</td><td></td></tr>
+<tr><td></td><td>– photocopies</td><td>1</td></tr>
+<tr><td></td><td>– plan de grand format</td><td>80</td></tr>
+<tr><td></td><td>– photocopies destinées à des assurances (forfait de base)</td><td>35</td></tr>
+</table>
+
+[^A12-1]: RS [822.221](https://db.clex.ch/link/Bund/822.221/fr)
+[^A12-2]: RS [822.222](https://db.clex.ch/link/Bund/822.222/fr)
+
+#### Art. A1-3
+
+**Frais pour le service d'ordre lié aux manifestations sportives et aux manifestations non autorisées (art. 18 à 20)**
+
+<sup>1</sup> Les montants des frais pour le service lié aux manifestations sportives et aux manifestations non autorisées sont les suivants:
+
+<table>
+<tr><th>**Article**</th><th>**Frais**</th><th>**Montant (Fr.)**</th></tr>
+<tr><td>18</td><td>Match soumis ou pouvant être soumis à autorisation (par billet d'entrée vendu)</td><td>1.50</td></tr>
+<tr><td>19</td><td>Manifestations sportives (par heure et par agent ou agente)</td><td>120</td></tr>
+<tr><td>20</td><td>Manifestations non autorisées (par heure et par agent ou agente)</td><td>120</td></tr>
+</table>
+
+#### Art. A1-4
+
+**Prestations particulières (art. 21 à 23)**
+
+<sup>1</sup> Les montants des frais des prestations particulières sont les suivants:
+
+<table>
+<tr><th>Article</th><th>Frais</th><th>Montant (Fr.)</th></tr>
+<tr><td>21</td><td>**Réquisitions**</td><td></td></tr>
+<tr><td></td><td>– notifications et mandats d'amener des offices poursuite avec déplacement</td><td>100</td></tr>
+<tr><td></td><td>– notifications et mandats d'amener des offices poursuite sans déplacement</td><td>35</td></tr>
+<tr><td></td><td>– actes matériels d'exécution ou de notification d'une décision judiciaire ou administrative (expulsion d'un locataire, transport de personnes placées à des fins d'assistance, etc) sous réserve des mesures prises dans le cadre d'une procédure pénale</td><td>60</td></tr>
+<tr><td></td><td>– Retraits de plaques d'immatriculation</td><td>85</td></tr>
+<tr><td></td><td>– travaux informatiques, contribution à l'espace de stockage des données (par appareil)</td><td>300</td></tr>
+<tr><td></td><td>– la mise en place d'une alarme temporaire ou d'un contrôle technique (par prestation)</td><td>120</td></tr>
+<tr><td>22 al. 1</td><td>**Entreposage (montant journalier)**</td><td></td></tr>
+<tr><td></td><td>*Cycle*</td><td></td></tr>
+<tr><td></td><td>– du 1<sup>er</sup> au 30<sup>e</sup> jour</td><td>2</td></tr>
+<tr><td></td><td>– dès le 31<sup>e</sup> jour</td><td>0.50</td></tr>
+<tr><td></td><td>*Cyclomoteur*</td><td></td></tr>
+<tr><td></td><td>– du 1<sup>er</sup> au 30<sup>e</sup> jour</td><td>5</td></tr>
+<tr><td></td><td>– dès le 31<sup>e</sup> jour</td><td>1</td></tr>
+<tr><td></td><td>*Motocycle ou scooter*</td><td></td></tr>
+<tr><td></td><td>– du 1<sup>er</sup> au 30<sup>e</sup> jour</td><td>7</td></tr>
+<tr><td></td><td>– dès le 31<sup>e</sup> jour</td><td>1.50</td></tr>
+<tr><td></td><td>*Véhicule automobile jusqu'à 3,5 t*</td><td></td></tr>
+<tr><td></td><td>– du 1<sup>er</sup> au 30<sup>e</sup> jour</td><td>10</td></tr>
+<tr><td></td><td>– dès le 31<sup>e</sup> jour</td><td>3</td></tr>
+<tr><td></td><td>*Véhicule automobile de plus de 3,5 t*</td><td></td></tr>
+<tr><td></td><td>– du 1<sup>er</sup> au 30<sup>e</sup> jour</td><td>35</td></tr>
+<tr><td></td><td>– dès le 31<sup>e</sup> jour</td><td>15</td></tr>
+<tr><td></td><td>*Remorque (selon le volume)*</td><td></td></tr>
+<tr><td></td><td>– du 1<sup>er</sup> au 30<sup>e</sup> jour</td><td>10 à 40</td></tr>
+<tr><td></td><td>– dès le 31<sup>e</sup> jour</td><td>3 à 12</td></tr>
+<tr><td></td><td>*Autre véhicule et bateau (selon le volume)*</td><td></td></tr>
+<tr><td></td><td>– du 1<sup>er</sup> au 30<sup>e</sup> jour</td><td>10 à 40</td></tr>
+<tr><td></td><td>– dès le 31<sup>e</sup> jour</td><td>3 à 12</td></tr>
+<tr><td>23 al. 2</td><td>**Alarmes**</td><td></td></tr>
+<tr><td></td><td>– droit unique de raccordement</td><td>700</td></tr>
+<tr><td></td><td>– abonnement mensuel</td><td>75</td></tr>
+<tr><td></td><td>– établissement du dossier d'intervention (selon l'importance du travail)</td><td>500 à 2500</td></tr>
+<tr><td>23 al. 2</td><td>**Etablissement du dossier d'intervention dans le cas de dispositifs d'alarme non reliés à la Police cantonale**</td><td>300 à 750</td></tr>
+<tr><td>23 al. 3</td><td>**Interventions de la police dues à une fausse alarme donnée par un dispositif technique**</td><td></td></tr>
+<tr><td></td><td>– première fausse alarme durant une année</td><td>120</td></tr>
+<tr><td></td><td>– deuxième fausse alarme dans la même année</td><td>360</td></tr>
+</table>
+
+2025\_107
