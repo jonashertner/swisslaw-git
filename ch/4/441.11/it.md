@@ -4,11 +4,11 @@ title: "Ordinanza del 4 giugno 2010 sulle lingue nazionali e la comprensione tra
 short: OLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: it
-version: 2022-09-15
+version: 2026-01-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/it/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2010-355-20260101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/it"
 
 (Ordinanza sulle lingue, OLing)
 
-del 4 giugno 2010 (Stato 15 settembre 2022)
+del 4 giugno 2010 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge del 5 ottobre 2007[^ingress-1] sulle lingue (LLing),
 
 ordina:
 
-[^ingress-1]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [RS 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## Sezione 1: Lingue ufficiali della Confederazione
 
@@ -40,7 +40,7 @@ L’unità dell’Amministrazione federale che, nei casi di cui all’articolo 4
 - a. sia necessario inserire negli obiettivi strategici o negli strumenti criteri od obiettivi corrispondenti alle esigenze della sezione 2 LLing;
 - b. sia necessario dichiarare applicabili mediante ordinanza disposizioni della sezione 2 LLing.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 2
 
@@ -53,7 +53,7 @@ L’unità dell’Amministrazione federale che, nei casi di cui all’articolo 4
 <sup>2</sup> Le unità dell’Amministrazione federale adottano le misure organizzative necessarie per garantire la qualità redazionale e formale dei testi. I criteri qualitativi redazionali e formali sono disciplinati dalla Cancelleria federale mediante istruzioni.[^2-2]
 
 [^2-1]: Nuovo testo giusta l’all. n. 3 dell’O del 10 nov. 2021, in vigore dal 1° lug. 2022 ([RU 2021 692](https://fedlex.data.admin.ch/eli/oc/2021/692)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 3
 
@@ -79,7 +79,7 @@ L’unità dell’Amministrazione federale che, nei casi di cui all’articolo 4
 
 <sup>2</sup> Offrono inoltre una selezione di contenuti in romancio, d’intesa con la Cancelleria federale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 5
 
@@ -113,8 +113,8 @@ Provvedono in particolare affinché gli impiegati, a prescindere dalla comunità
 - b. possano partecipare in misura equivalente ai processi decisionali secondo le loro qualifiche;
 - c. abbiano le stesse opportunità di sviluppo e di carriera.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 7
 
@@ -122,27 +122,33 @@ Provvedono in particolare affinché gli impiegati, a prescindere dalla comunità
 
 ### (art. 20 cpv. 2 LLing e art. 4 cpv. 2 lett. e LPers)
 
-<sup>1</sup>
+[^7-2]
 
-La rappresentanza delle comunità linguistiche nelle unità dell’Amministrazione federale di cui all’articolo 1 capoverso 1 lettere a e b OPers[^7-2], escluso il settore dei Politecnici federali, deve perseguire le fasce percentuali seguenti, anche a livello di quadri:
+<sup>1</sup> La rappresentanza delle comunità linguistiche nelle unità dell’Amministrazione federale di cui all’articolo 1 capoverso 1 lettere a e b OPers[^7-3], escluso il settore dei Politecnici federali, deve perseguire le fasce percentuali seguenti, anche a livello di quadri:
 
-- a. tedesco: 68,5–70,5 %
-- b. francese: 21,5–23,5 %
-- c. italiano: 6,5– 8,5 %
-- d. romancio: 0,5– 1,0 %
+<table>
+<tr><td>a. tedesco:</td><td>66,5–68,5 %</td></tr>
+<tr><td>b. francese:</td><td>22,5–24,5 %</td></tr>
+<tr><td>c. italiano:</td><td>7,5– 8,5 %</td></tr>
+<tr><td>d. romancio:</td><td>0,5– 1,0 %. [^7-4]</td></tr>
+</table>
 
 <sup>2</sup> Le rappresentanze delle comunità linguistiche latine possono superare il limite superiore delle fasce percentuali di cui al capoverso 1 lettere b–d.
 
 <sup>3</sup> Al momento del reclutamento del personale, i datori di lavoro di cui al capoverso 1 provvedono affinché candidati di tutte le comunità linguistiche vengano preselezionati e convocati per un colloquio, sempre che soddisfino i criteri di selezione oggettivi. A parità di qualifica, vengono assunti prioritariamente i candidati provenienti da comunità linguistiche sottorappresentate nell’unità amministrativa interessata; tale preferenza è accordata in particolare per i quadri.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^7-2]: L del 24 mar. 2020 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
+[^7-3]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^7-4]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 #### Art. 8
 
 **Conoscenze linguistiche del personale federale**[^8-1]
 
 ### (art. 20 cpv. 1 LLing e art. 4 cpv. 2 lett. e<sup>bis</sup> LPers)
+
+[^8-2]
 
 <sup>1</sup>
 
@@ -156,10 +162,11 @@ I datori di lavoro di cui all’articolo 6 capoverso 1 provvedono affinché:
 
 <sup>3</sup> Se al momento dell’assunzione un quadro non possiede le conoscenze linguistiche richieste, il datore di lavoro prende, entro un anno, le misure necessarie per migliorarle.
 
-<sup>4</sup> Le formazioni necessarie all’acquisizione di competenze linguistiche di cui al capoverso 1 sono considerate formazioni rispondenti ai bisogni del servizio di cui all’articolo 4 capoverso 4 OPers[^8-2].
+<sup>4</sup> Le formazioni necessarie all’acquisizione di competenze linguistiche di cui al capoverso 1 sono considerate formazioni rispondenti ai bisogni del servizio di cui all’articolo 4 capoverso 4 OPers[^8-3].
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^8-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8-2]: L del 24 mar. 2020 sul personale federale ([RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)).
+[^8-3]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 8a
 
@@ -169,7 +176,7 @@ I datori di lavoro di cui all’articolo 6 capoverso 1 provvedono affinché:
 
 Il Consiglio federale fissa gli obiettivi strategici di promozione del plurilinguismo per ciascuna legislatura.
 
-[^8a-1]: Introdotto dal n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8a-1]: Introdotto dalla cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8b
 
@@ -190,7 +197,7 @@ Il delegato federale al plurilinguismo ha segnatamente i compiti seguenti:
 - e. informare regolarmente il pubblico sul settore del plurilinguismo;
 - f. rappresentare la Confederazione negli organismi nazionali che si occupano della promozione del plurilinguismo.
 
-[^8b-1]: Introdotto dal n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8b-1]: Introdotto dalla cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8c
 
@@ -202,7 +209,7 @@ Il delegato federale al plurilinguismo ha segnatamente i compiti seguenti:
 
 <sup>2</sup> Le unità amministrative sono responsabili dell’attuazione del catalogo di misure e prevedono le risorse finanziarie e umane necessarie.
 
-[^8c-1]: Introdotto dal n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8c-1]: Introdotto dalla cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 #### Art. 8d
 
@@ -220,7 +227,7 @@ Il delegato federale al plurilinguismo ha segnatamente i compiti seguenti:
 
 <sup>5</sup> Se un dipartimento o la Cancelleria federale non rispettano manifestamente le disposizioni sulla promozione del plurilinguismo, il delegato federale al plurilinguismo può formulare raccomandazioni all’indirizzo del dipartimento interessato o della Cancelleria federale.
 
-[^8d-1]: Introdotto dal n. I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^8d-1]: Introdotto dalla cifra I dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 
 ## Sezione 2: Promozione della comprensione e degli scambi tra le comunità linguistiche
 
@@ -236,7 +243,7 @@ Per promuovere gli scambi in ambito scolastico sono concessi aiuti finanziari al
 - b. la consulenza, l’accompagnamento e il sostegno di progetti di scambio;
 - c. la documentazione, la valutazione e l’informazione in merito alle offerte e alle attività di scambio.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 10
 
@@ -252,8 +259,8 @@ Per promuovere le lingue nazionali nell’insegnamento sono concessi aiuti finan
 - b. progetti di promozione dell’apprendimento di una lingua nazionale attraverso un insegnamento bilingue;
 - c. la promozione della conoscenza della lingua nazionale locale da parte degli alloglotti prima della scuola elementare.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 11
 
@@ -267,7 +274,7 @@ Per promuovere la conoscenza della loro prima lingua da parte degli alloglotti s
 - b. il perfezionamento dei docenti;
 - c. lo sviluppo di sussidi didattici.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 12
 
@@ -286,7 +293,7 @@ Per promuovere la ricerca applicata nel campo delle lingue e del plurilinguismo 
 
 <sup>2</sup> L’Ufficio federale della cultura (UFC) conclude un accordo di prestazioni con l’Istituto di plurilinguismo.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 13
 
@@ -296,7 +303,7 @@ Per promuovere la ricerca applicata nel campo delle lingue e del plurilinguismo 
 
 Possono essere concessi aiuti finanziari ad agenzie di stampa d’importanza nazionale se informano regolarmente in almeno tre lingue nazionali su temi di politica delle lingue, delle culture e della comprensione da tutte e quattro le regioni linguistiche.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 14
 
@@ -340,7 +347,7 @@ L’ammontare degli aiuti finanziari è stabilito in base:
 
 <sup>4</sup> Gli aiuti finanziari ammontano al massimo al 50 per cento dei costi che l’organizzazione o istituzione sostiene per l’esercizio delle attività. Il lavoro prestato a titolo volontario può essere conteggiato come prestazione propria nella misura di al massimo il 10 per cento di tali costi.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 15
 
@@ -358,7 +365,7 @@ L’ammontare degli aiuti finanziari è stabilito in base:
 - b. alla qualità e all’efficacia del progetto;
 - c. alle prestazioni proprie e ai contributi di terzi.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 16
 
@@ -404,9 +411,9 @@ Per promuovere il plurilinguismo nel settore dell’istruzione sono concessi ai 
 - d. progetti di promozione della frequenza di lezioni in un’altra lingua ufficiale del Cantone a tutti i livelli scolastici;
 - e.[^17-3] ...
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
-[^17-3]: Abrogata dal n. I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^17-3]: Abrogata dalla cifra I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Sezione 4: Salvaguardia e promozione delle lingue e culture romancia e italiana nel Cantone dei Grigioni
 
@@ -425,7 +432,7 @@ Per salvaguardare e promuovere le lingue e culture romancia e italiana sono conc
 - e. salvaguardia e promozione dell’identità linguistica e culturale;
 - f. promozione di progetti di terzi concernenti il plurilinguismo e la salvaguardia e promozione dell’identità linguistica e culturale.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 19
 
@@ -452,7 +459,7 @@ Sono concessi aiuti finanziari al Cantone dei Grigioni per sostenere attività s
 
 <sup>3</sup> Gli aiuti finanziari della Confederazione coprono al massimo il 90 per cento delle spese totali dell’organizzazione o dell’istituzione.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 20
 
@@ -470,7 +477,7 @@ Gli editori devono pubblicare opere in lingua romancia. Devono in particolare:
 - b. provvedere alla stampa e alla produzione;
 - c. promuovere la distribuzione.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 21
 
@@ -503,7 +510,7 @@ Per salvaguardare e promuovere la lingua e cultura italiana sono concessi aiuti 
 - c. manifestazioni e progetti per la promozione della lingua e cultura italiana;
 - d. progetti di terzi concernenti la promozione del plurilinguismo e la salvaguardia e promozione dell’identità linguistico-culturale.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 23
 
@@ -523,13 +530,47 @@ Sono concessi aiuti finanziari al Cantone Ticino per sostenere attività sovrare
 
 <sup>3</sup> Gli aiuti finanziari della Confederazione coprono al massimo il 90 per cento delle spese totali dell’organizzazione o dell’istituzione.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-#### Art. 24 e 25
+## Sezione 5*a*: Salvaguardia e promozione delle lingue e culture romancia e italiana al di fuori delle regioni linguistiche d’origine
 
-[^2425-1]
+[^sec5a-1]
 
-[^2425-1]: Abrogati dal n. I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^sec5a-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 24
+
+**Salvaguardia e promozione della lingua e cultura romancia al di fuori delle regioni linguistiche d’origine**[^24-1]
+
+### (art. 22*a* LLing)
+
+<sup>1</sup>
+
+Per la salvaguardia e la promozione della lingua e cultura romancia al di fuori delle regioni linguistiche d’origine possono essere concessi aiuti finanziari a organizzazioni e istituzioni per progetti nei seguenti settori:
+
+- a. apprendimento e consolidamento della lingua romancia, segnatamente attraverso l’insegnamento scolastico ed extrascolastico per bambini e giovani di lingua romancia oppure lo sviluppo di materiale didattico o per esercizi volto a consolidare le competenze linguistiche e culturali;
+- b. agevolazione nell’uso della lingua romancia, segnatamente mettendo in relazione tra loro le persone di lingua romancia e sensibilizzandole alla propria lingua.
+
+<sup>2</sup> L’ammontare degli aiuti finanziari è stabilito in base alla qualità e all’efficacia dei progetti, nonché alla rilevanza per i destinatari. È data priorità ai progetti realizzati al di fuori del Cantone dei Grigioni.
+
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 25
+
+**Salvaguardia e promozione della lingua e cultura italiana al di fuori delle regioni linguistiche d’origine**[^25-1]
+
+### (art. 22*a* LLing)
+
+<sup>1</sup>
+
+Per la salvaguardia e la promozione della lingua e cultura italiana al di fuori delle regioni linguistiche d’origine possono essere concessi aiuti finanziari a organizzazioni e istituzioni per:
+
+- a. progetti culturali e di sensibilizzazione nelle scuole per bambini e giovani che non conoscono la lingua italiana, volti ad aumentarne l’attrattiva come materia scolastica e a risvegliare l’interesse per la lingua e cultura italiana;
+- b. progetti culturali di portata sovraregionale per bambini e giovani di lingua italiana che vivono al di fuori delle regioni linguistiche d’origine, volti a salvaguardare e rafforzare il legame con la lingua e cultura italiana.
+
+<sup>2</sup> L’ammontare degli aiuti finanziari è stabilito in base alla qualità e all’efficacia dei progetti, nonché alla rilevanza per i destinatari.
+
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 ## Sezione 6: Esecuzione
 
@@ -545,7 +586,7 @@ Sono concessi aiuti finanziari al Cantone Ticino per sostenere attività sovrare
 
 <sup>4</sup> È data priorità alle domande che soddisfano al meglio i criteri di promozione nel loro insieme.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 27
 
@@ -555,7 +596,7 @@ Sono concessi aiuti finanziari al Cantone Ticino per sostenere attività sovrare
 
 <sup>2</sup> La procedura e i rimedi giuridici sono retti dalle disposizioni generali dell’amministrazione della giustizia federale.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 24 ago. 2022, in vigore dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 #### Art. 28
 
@@ -565,13 +606,13 @@ Sono concessi aiuti finanziari al Cantone Ticino per sostenere attività sovrare
 
 <sup>2</sup> Se gli aiuti finanziari richiesti superano i mezzi disponibili, il Dipartimento federale dell’interno istituisce un ordine di priorità per la valutazione delle domande ai sensi dell’articolo 13 capoverso 2 della legge del 5 ottobre 1990[^28-1] sui sussidi.
 
-[^28-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^28-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 29
 
 [^29-1]
 
-[^29-1]: Abrogato dal n. I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^29-1]: Abrogato dalla cifra I dell’O del 24 ago. 2022, con effetto dal 15 set. 2022 ([RU 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
 ## Sezione 7: Disposizioni finali
 

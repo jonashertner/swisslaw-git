@@ -4,11 +4,11 @@ title: "Ordinance of 4 June 2010 on the National Languages and Understanding bet
 short: LangO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: en
-version: 2022-09-15
+version: 2026-01-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/en/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-en-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2010-355-20260101-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Languages Ordinance, LangO)
 
-of 4 June 2010 (Status as of 15 September 2022)
+of 4 June 2010 (Last amended on 1 January 2026)
 
 The Swiss Federal Council,
 
@@ -27,7 +27,7 @@ based on the Languages Act of 5 October 2007[^ingress-1] (LangA),
 
 ordains:
 
-[^ingress-1]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [SR 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## Section 1 Official Languages of the Confederation
 
@@ -105,7 +105,7 @@ International agreements may be concluded in English:
 
 ### (Art. 9 and 20 LangA)
 
-<sup>1</sup> The employers of the personnel of the federal administrative units referred to in Article 1 paragraph 1 of the Federal Ordinance of 3 July 2001[^6-2] on the Personnel of the Swiss Confederation (FPersO), with the exception of the ETH Domain, shall ensure that employees are not disadvantaged on the basis of their membership of a specific linguistic community.
+<sup>1</sup> The employers of the personnel of the federal administrative units referred to in Article 1 paragraph 1 of the Ordinance of 3 July 2001[^6-2] on the Personnel of the Swiss Confederation (FPersO), with the exception of the ETH Domain, shall ensure that employees are not disadvantaged on the basis of their membership of a specific linguistic community.
 
 <sup>2</sup>
 
@@ -116,7 +116,7 @@ In particular, they shall ensure that all employees, irrespective of their lingu
 - c. have the same prospects for development and promotion.
 
 [^6-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 7
 
@@ -130,18 +130,19 @@ In particular, they shall ensure that all employees, irrespective of their lingu
 
 The representation of linguistic communities in the federal administrative units referred to in Article 1 paragraph 1 letters a and b of the FPersO[^7-3], with the exception of the ETH Domain, must aim to achieve the following ranges, including for management positions:
 
-- a. German: 68.5 – 70.5%
-- b. French: 21.5 – 23.5%
-- c. Italian: 6.5 – 8.5%
-- d. Romansh: 0.5 – 1.0%
+- a. German: 66.5 – 68.5%
+- b. French: 22.5 – 24.5%
+- c. Italian: 7.5 – 8.5%
+- d. Romansh: 0.5 – 1.0%[^7-4]
 
 <sup>2</sup> Representation of the Romance language communities may exceed the upper limit of the ranges specified in paragraph 1 letters b to d.
 
 <sup>3</sup> When recruiting personnel, the employers referred to in paragraph 1 shall ensure that candidates from all linguistic communities progress from the preselection phase to the interviews, provided they fulfil the objective criteria. Where candidates have equal qualifications, priority shall be given to those who belong to a linguistic community that is underrepresented in the administrative unit in question; this applies in particular for management positions.
 
 [^7-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^7-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^7-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^7-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^7-4]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 #### Art. 8
 
@@ -166,8 +167,8 @@ The employers referred to in Article 6 paragraph 1 shall ensure that:
 <sup>4</sup> Training required for acquiring language skills is considered to be training which meets the needs of the service within the meaning of Article 4 paragraph 4 of the FPersO[^8-3].
 
 [^8-1]: Amended by No I of the O of 27 Aug. 2014, in force since 1 Oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^8-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^8-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^8-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^8-3]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 8a
 
@@ -181,7 +182,7 @@ The Federal Council shall set the strategic objectives in connection with the pr
 
 #### Art. 8b
 
-**Federal delegate for plurilingualism**[^8b-1]
+**Federal Delegate for Plurilingualism**[^8b-1]
 
 ### (Art. 20 para. 1 and 2 LangA)
 
@@ -533,11 +534,45 @@ The Canton of Ticino shall be granted financial assistance to support the interr
 
 [^23-1]: Amended by No I of the O of 24 Aug. 2022, in force since 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-#### Art. 24 and 25
+## Section 5*a* Preservation and Promotion of the Romansh and Italian Languages and Cultures outside Traditional Areas of Use
 
-[^2425-1]
+[^sec5a-1]
 
-[^2425-1]: Repealed by No I of the O of 24 Aug. 2022, with effect from 15 Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^sec5a-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 24
+
+**Preservation and promotion of the Romansh language and culture outside its traditional area of use**[^24-1]
+
+### (Art. 22*a* LangA)
+
+<sup>1</sup>
+
+In order to preserve and promote the Romansh language and culture outside its traditional area of use, organisations and institutions many be granted financial assistance for projects in the following areas:
+
+- a. learning and consolidating Romansh language skills, in particular through in-school and extracurricular lessons for children and young people who speak Romansh, or through the development of learning and practice materials to consolidate linguistic and cultural skills;
+- b. facilitating the use of the Romansh language, in particular by establishing networks for Romansh speakers and raising awareness of the Romansh language.
+
+<sup>2</sup> The amount of the financial assistance is determined by the quality and impact of the projects and their relevance to the target group. Projects implemented outside the canton of Graubünden shall be given priority.
+
+[^24-1]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 25
+
+**Preservation and promotion of the Italian language and culture outside its traditional area of use**[^25-1]
+
+### (Art. 22*a* LangA)
+
+<sup>1</sup>
+
+In order to preserve and promote the Italian language and culture outside its traditional area of use, organisations and institutions many be granted financial assistance for the following types of projects:
+
+- a. cultural and awareness-raising projects in school for children and young people with no knowledge of Italian with the aim of increasing the appeal of Italian as a subject in schools and stimulating interest in the Italian language and culture;
+- b. supra-regional cultural projects for children and young people who speak Italian but who live outside the traditional language areas, with the aim of maintaining and strengthening their connection to the Italian language and culture.
+
+<sup>2</sup> The amount of the financial assistance is determined by the quality and impact of the projects and their relevance to the target group.
+
+[^25-1]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 ## Section 6 Implementation
 
@@ -573,7 +608,7 @@ The Canton of Ticino shall be granted financial assistance to support the interr
 
 <sup>2</sup> If the amount of financial assistance requested exceeds the resources available, the Federal Department of Home Affairs shall establish an order of priorities for assessing the applications in accordance with Article 13 paragraph 2 of the Subsidies Act of 5 October 1990[^28-1].
 
-[^28-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^28-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 29
 

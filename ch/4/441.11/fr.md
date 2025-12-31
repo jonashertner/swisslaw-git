@@ -4,11 +4,11 @@ title: "Ordonnance du 4 juin 2010 sur les langues nationales et la compréhensio
 short: OLang
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: fr
-version: 2022-09-15
+version: 2026-01-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/fr/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-355-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/fr"
 
 (Ordonnance sur les langues, OLang)
 
-du 4 juin 2010 (État le 15 septembre 2022)
+du 4 juin 2010 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu la loi du 5 octobre 2007 sur les langues (LLC)[^ingress-1],
 
 arrête:
 
-[^ingress-1]: [RS 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [RS 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## Section 1 Langues officielles de la Confédération
 
@@ -114,7 +114,7 @@ Ils veillent en particulier à ce que les employés, quelle que soit la communau
 - c. aient les mêmes chances de développement et de promotion.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 7
 
@@ -122,21 +122,22 @@ Ils veillent en particulier à ce que les employés, quelle que soit la communau
 
 ### (art. 20, al. 2, LLC et art. 4, al. 2, let. e, LPers)
 
-<sup>1</sup>
+<sup>1</sup> La représentation des communautés linguistiques dans les unités de l’administration fédérale visées à l’art. 1, al. 1, let. a et b, OPers[^7-2], à l’exception du domaine des EPF, doit viser les fourchettes suivantes, y compris au niveau des cadres:
 
-La représentation des communautés linguistiques dans les unités de l’administration fédérale visées à l’art. 1, al. 1, let. a et b, OPers[^7-2], à l’exception du domaine des EPF, doit viser les fourchettes suivantes, y compris au niveau des cadres:
-
-- a. allemand: 68,5 % à 70,5 %
-- b. français: 21,5 % à 23,5 %
-- c. italien: 6,5 % à 8,5 %
-- d. romanche: 0,5 % à 1,0 %
+<table>
+<tr><td>a. allemand:</td><td>66,5 % à 68,5 %</td></tr>
+<tr><td>b. français:</td><td>22,5 % à 24,5 %</td></tr>
+<tr><td>c. italien:</td><td>7,5 % à 8,5 %</td></tr>
+<tr><td>d. romanche:</td><td>0,5 % à 1,0 %.[^7-3]</td></tr>
+</table>
 
 <sup>2</sup> La représentation des communautés latines peut dépasser la limite supérieure des fourchettes fixées à l’al. 1, let. b à d.
 
 <sup>3</sup> Lors du recrutement de personnel, les employeurs visés à l’al. 1, veillent à ce que des candidats de toutes les communautés linguistiques soient retenus à l’issue de la présélection et convoqués aux entretiens d’embauche, pour autant qu’ils remplissent les critères de sélection objectifs. A qualifications égales, sont engagés en priorité les candidats issus de communautés linguistiques sous-représentées dans l’unité administrative concernée; cette règle s’applique en particulier aux cadres.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^7-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^7-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 #### Art. 8
 
@@ -159,7 +160,7 @@ Les employeurs visés à l’art. 6, al. 1, veillent à ce que:
 <sup>4</sup> Les formations nécessaires à l’acquisition des compétences linguistiques sont considérées comme des formations répondant aux besoins du service au sens de l’art. 4, al. 4, OPers[^8-2].
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 27 août 2014, en vigueur depuis le 1<sup>er</sup> oct. 2014 ([RO 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^8-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^8-2]: [RS 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 8a
 
@@ -527,11 +528,45 @@ Des aides financières destinées à soutenir les activités suprarégionales d�
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du 24 août 2022, en vigueur depuis le 15 sept. 2022 ([RO 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-#### Art. 24 et 25
+## Section 5*a* Sauvegarde et promotion des langues et des cultures romanche et italienne en dehors des régions linguistiques d’origine
 
-[^2425-1]
+[^sec5a-1]
 
-[^2425-1]: Abrogés par le ch. I de l’O du 24 août 2022, avec effet au 15 sept. 2022 ([RO 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^sec5a-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 24
+
+**Sauvegarde et promotion de la langue et de la culture romanche en dehors des régions linguistiques d’origine**[^24-1]
+
+### (Art. 22*a* LLC)
+
+<sup>1</sup>
+
+Des aides financières destinées à sauvegarder et à promouvoir la langue et la culture romanche en dehors des régions linguistiques d’origine peuvent être accordées à des organisations et à des institutions pour des projets dans les domaines suivants:
+
+- a. apprentissage du romanche et consolidation des connaissances dans cette langue, notamment par l’enseignement scolaire et extrascolaire destiné aux enfants et aux jeunes de langue romanche ou par le développement de matériel didactique visant à consolider les compétences linguistiques et culturelles;
+- b. facilitation du recours à la langue romanche, notamment par la mise en réseau de personnes de langue romanche et par la sensibilisation de ces personnes à cette langue.
+
+<sup>2</sup> Le montant de l’aide financière dépend de la qualité et de l’impact du projet ainsi que de sa pertinence pour le groupe cible. La préférence va aux projets réalisés en dehors du canton des Grisons.
+
+[^24-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 25
+
+**Sauvegarde et promotion de la langue et de la culture italienne en dehors des régions linguistiques d’origine**[^25-1]
+
+### (Art. 22*a* LLC)
+
+<sup>1</sup>
+
+Des aides financières destinées à sauvegarder et à promouvoir la langue et la culture italienne en dehors des régions linguistiques d’origine peuvent être accordées à des organisations et à des institutions pour les types de projets suivants:
+
+- a. projets culturels et projets de sensibilisation en milieu scolaire qui s’adressent aux enfants et aux jeunes ne connaissant pas l’italien et qui visent à augmenter l’attrait de l’italien à l’école et à éveiller l’intérêt des élèves pour la langue et la culture italienne;
+- b. projets culturels présentant un caractère suprarégional qui s’adressent aux enfants et aux jeunes de langue italienne vivant en dehors des régions linguistiques d’origine et qui visent à maintenir et à renforcer le lien avec la langue et la culture italienne.
+
+<sup>2</sup> Le montant de l’aide financière dépend de la qualité et de l’impact du projet ainsi que de sa pertinence pour le groupe cible.
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 ## Section 6 Exécution
 
@@ -567,7 +602,7 @@ Des aides financières destinées à soutenir les activités suprarégionales d�
 
 <sup>2</sup> Si le montant des aides demandées excède les ressources disponibles, le Département fédéral de l’intérieur établit un ordre de priorité pour l’appréciation des requêtes, conformément à l’art. 13, al. 2, de la loi du 5 octobre 1990 sur les subventions[^28-1].
 
-[^28-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^28-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 29
 

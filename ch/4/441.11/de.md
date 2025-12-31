@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Juni 2010 über die Landessprachen und die Verständig
 short: SpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: de
-version: 2022-09-15
+version: 2026-01-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/de/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-355-20260101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/de"
 
 (Sprachenverordnung, SpV)
 
-vom 4. Juni 2010 (Stand am 15. September 2022)
+vom 4. Juni 2010 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf das Sprachengesetz vom 5. Oktober 2007[^ingress-1] (SpG),
 
 verordnet:
 
-[^ingress-1]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [SR 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## 1. Abschnitt: Amtssprachen des Bundes
 
@@ -114,7 +114,7 @@ Sie stellen insbesondere sicher, dass alle Angestellten, unabhängig davon, welc
 - c. die gleichen Entwicklungs- und Aufstiegschancen haben.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 7
 
@@ -122,21 +122,22 @@ Sie stellen insbesondere sicher, dass alle Angestellten, unabhängig davon, welc
 
 ### (Art. 20 Abs. 2 SpG und Art. 4 Abs. 2 Bst. e BPG)
 
-<sup>1</sup>
+<sup>1</sup> Bei der Vertretung der Sprachgemeinschaften in den Verwaltungseinheiten nach Artikel 1 Absatz 1 Buchstaben a und b BPV[^7-2], mit Ausnahme des ETH-Bereichs, namentlich auch in den Kaderfunktionen, sind folgende Bandbreiten anzustreben:
 
-Bei der Vertretung der Sprachgemeinschaften in den Verwaltungseinheiten nach Artikel 1 Absatz 1 Buchstaben a und b BPV[^7-2], mit Ausnahme des ETH-Bereichs, namentlich auch in den Kaderfunktionen, sind folgende Bandbreiten anzustreben:
-
-- a. Deutsch: 68,5–70,5 %
-- b. Französisch: 21,5–23,5 %
-- c. Italienisch: 6,5– 8,5 %
-- d. Rätoromanisch: 0,5– 1,0 %
+<table>
+<tr><td>a. Deutsch:</td><td>66,5–68,5 %</td></tr>
+<tr><td>b. Französisch:</td><td>22,5–24,5 %</td></tr>
+<tr><td>c. Italienisch:</td><td>7,5– 8,5 %</td></tr>
+<tr><td>d. Rätoromanisch:</td><td>0,5– 1,0 %.[^7-3]</td></tr>
+</table>
 
 <sup>2</sup> Die Vertretungen der lateinischen Sprachgemeinschaften können oberhalb der Bandbreiten nach Absatz 1 Buchstaben b–d liegen.
 
 <sup>3</sup> Bei Stellenbesetzungen stellen die Arbeitgeber nach Absatz 1 sicher, dass Personen aller Sprachgemeinschaften bei der Vorauswahl berücksichtigt und zu Vorstellungsgesprächen eingeladen werden, sofern sie die objektiven Kriterien erfüllen. Bei gleichwertiger Qualifikation werden vorrangig Personen eingestellt, die einer in der betreffenden Verwaltungseinheit untervertretenen Sprachgemeinschaft angehören; dies gilt insbesondere für Kaderstellen.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^7-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^7-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 #### Art. 8
 
@@ -159,7 +160,7 @@ Die Arbeitgeber nach Artikel 6 Absatz 1 sorgen dafür, dass:
 <sup>4</sup> Die Ausbildung, die zur Erreichung der Sprachkenntnisse notwendig ist, gilt als bedarfsorientierte Aus- und Weiterbildung nach Artikel 4 Absatz 4 BPV[^8-2].
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 27. Aug. 2014, in Kraft seit 1. Okt. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^8-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^8-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 8a
 
@@ -525,11 +526,45 @@ Dem Kanton Tessin werden Finanzhilfen gewährt für die Unterstützung von über
 
 [^23-1]: Fassung gemäss Ziff. I der V vom 24. Aug. 2022, in Kraft seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-#### Art. 24 und 25
+## 5*a*. Abschnitt: Erhaltung und Förderung der rätoromanischen und der italienischen Sprache und Kultur ausserhalb der angestammten Sprachgebiete
 
-[^2425-1]
+[^sec5a-1]
 
-[^2425-1]: Aufgehoben durch Ziff. I der V vom 24. Aug. 2022, mit Wirkung seit 15. Sept. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^sec5a-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 24
+
+**Erhaltung und Förderung der rätoromanischen Sprache und Kultur ausserhalb der angestammten Sprachgebiete**[^24-1]
+
+### (Art. 22*a* SpG)
+
+<sup>1</sup>
+
+Zur Erhaltung und Förderung der rätoromanischen Sprache und Kultur ausserhalb der angestammten Sprachgebiete können Organisationen und Institutionen Finanzhilfen für Projekte in den folgenden Bereichen gewährt werden:
+
+- a. Erlernen und Festigen der rätoromanischen Sprache, namentlich durch schulischen und ausserschulischen Unterricht für Kinder und Jugendliche rätoromanischer Sprache oder durch die Entwicklung von Lern- und Übungsmaterialien zur Festigung sprachlicher und kultureller Kompetenzen;
+- b. Erleichterung der Verwendung der rätoromanischen Sprache, namentlich durch die Vernetzung von Personen rätoromanischer Sprache und deren Sensibilisierung für die rätoromanische Sprache.
+
+<sup>2</sup> Die Höhe der Finanzhilfe bemisst sich nach der Qualität und der Wirkung der Projekte und nach der Relevanz für die Zielgruppe. Projekte, die ausserhalb des Kantons Graubünden umgesetzt werden, haben Vorrang.
+
+[^24-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 25
+
+**Erhaltung und Förderung der italienischen Sprache und Kultur ausserhalb der angestammten Sprachgebiete**[^25-1]
+
+### (Art. 22*a* SpG)
+
+<sup>1</sup>
+
+Zur Erhaltung und Förderung der italienischen Sprache und Kultur ausserhalb der angestammten Sprachgebiete können Organisationen und Institutionen Finanzhilfen für folgende Arten von Projekten gewährt werden:
+
+- a. schulische Kultur- und Sensibilisierungsprojekte, die sich an Kinder und Jugendliche ohne Italienischkenntnisse richten und die darauf abzielen, die Attraktivität des Fachs Italienisch an Schulen zu steigern und das Interesse für die italienische Sprache und Kultur zu wecken;
+- b. Kulturprojekte mit überregionalem Charakter, die sich an Kinder und Jugendliche italienischer Sprache richten, die ausserhalb der angestammten Sprachgebiete leben, und die darauf abzielen, den Bezug zur italienischen Sprache und Kultur zu erhalten und zu stärken.
+
+<sup>2</sup> Die Höhe der Finanzhilfe bemisst sich nach der Qualität und der Wirkung der Projekte und nach der Relevanz für die Zielgruppe.
+
+[^25-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 ## 6. Abschnitt: Vollzug
 
@@ -565,7 +600,7 @@ Dem Kanton Tessin werden Finanzhilfen gewährt für die Unterstützung von über
 
 <sup>2</sup> Übersteigen die beantragten Finanzhilfen die verfügbaren Mittel, so erstellt das Eidgenössische Departement des Innern gestützt auf Artikel 13 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^28-1] eine Prioritätenordnung, nach der die Gesuche beurteilt werden.
 
-[^28-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^28-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 29
 

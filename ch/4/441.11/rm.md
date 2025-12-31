@@ -4,11 +4,11 @@ title: "Ordinaziun dals 4 da zercladur 2010 davart las linguas naziunalas e la c
 short: OLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/355"
 language: rm
-version: 2022-09-15
+version: 2026-01-01
 adopted: 2010-06-04
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20220915/rm/xml/fedlex-data-admin-ch-eli-cc-2010-355-20220915-rm-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20220915/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/355/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2010-355-20260101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/355/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Ordinaziun da linguas, OLing)
 
-dals 4 da zercladur 2010 (versiun dals 15 da settember 2022)
+dals 4 da zercladur 2010 (versiun dal 1. da schaner 2026)
 
 Il Cussegl federal svizzer,
 
@@ -27,7 +27,7 @@ sa basond sin la Lescha da linguas dals 5 d’october 2007[^ingress-1] (LLing),
 
 ordinescha:
 
-[^ingress-1]: [SR 441.1](https://fedlex.data.admin.ch/eli/cc/2009/821)
+[^ingress-1]: [SR 441.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7101)
 
 ## 1. part Linguas uffizialas da la Confederaziun
 
@@ -116,7 +116,7 @@ Els garanteschan oravant tut che tut ils emploiads, independentamain dal fatg, d
 - c. han las medemas schanzas da svilup e da far carriera.
 
 [^6-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^6-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 7
 
@@ -124,21 +124,22 @@ Els garanteschan oravant tut che tut ils emploiads, independentamain dal fatg, d
 
 ### (art. 20 al. 2 LLing ed art. 4 al. 2 lit. e LPers)
 
-<sup>1</sup>
+<sup>1</sup> Per la represchentanza da las cuminanzas linguisticas en las unitads administrativas tenor l’artitgel 1 alinea 1 literas a e b LPers[^7-2], cun excepziun da quellas che appartegnan al sectur da las scolas politecnicas federalas, en spezial er en las funcziuns da cader, duain vegnir prendidas en mira las suandantas procentualas:
 
-Per la represchentanza da las cuminanzas linguisticas en las unitads administrativas tenor l’artitgel 1 alinea 1 literas a e b LPers[^7-2], cun excepziun da quellas che appartegnan al sectur da las scolas politecnicas federalas, en spezial er en las funcziuns da cader, duain vegnir prendidas en mira las suandantas procentualas:
-
-- a. tudestg: 68,5–70,5 %
-- b. franzos: 21,5–23,5 %
-- c. talian: 6,5– 8,5 %
-- d. rumantsch: 0,5– 1,0 %
+<table>
+<tr><td>a. tudestg:</td><td>66,5–68,5 %</td></tr>
+<tr><td>b. franzos:</td><td>22,5–24,5 %</td></tr>
+<tr><td>c. talian:</td><td>7,5– 8,5 %</td></tr>
+<tr><td>d. rumantsch:</td><td>0,5– 1,0 %.[^7-3]</td></tr>
+</table>
 
 <sup>2</sup> Las represchentanzas da las cuminanzas linguisticas latinas pon esser pli grondas che las procentualas tenor l’alinea 1 literas b–d.
 
 <sup>3</sup> Sche plazzas da lavur vegnan occupadas, garantescha il patrun tenor l’alinea 1 che persunas da tut las cuminanzas linguisticas vegnan resguardadas tar la preselecziun ed envidadas al discurs da preschentaziun, sch’ellas adempleschan ils criteris objectivs. Sche las qualificaziuns èn equivalentas, vegnan engaschadas en emprima lingia persunas che appartegnan ad ina cuminanza linguistica ch’è sutrepreschentada en l’unitad administrativa respectiva; quai vala particularmain per plazzas da cader.
 
 [^7-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^7-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^7-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
+[^7-3]: Versiun tenor la cifra I da l’O dals 29 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 #### Art. 8
 
@@ -161,7 +162,7 @@ Ils patruns tenor l’artitgel 6 alinea 1 procuran che:
 <sup>4</sup> La scolaziun ch’è necessaria per cuntanscher las enconuschientschas linguisticas vala sco scolaziun e furmaziun supplementara che s’orientescha al basegn tenor l’artitgel 4 alinea 4 OPers[^8-2].
 
 [^8-1]: Versiun tenor la cifra I da l’O dals 27 d’avust 2014, en vigur dapi il 1. d’oct. 2014 ([AS 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
-[^8-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/eli/cc/2001/319)
+[^8-2]: [SR 172.220.111.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5349)
 
 #### Art. 8a
 
@@ -527,11 +528,45 @@ Al chantun Tessin vegnan concedids agids finanzials per sustegnair activitads su
 
 [^23-1]: Versiun tenor la cifra I da l’O dals 24 d’avust 2022, en vigur dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
 
-#### Art. 24 e 25
+## 5*a*. part Mantegniment e promoziun da la lingua e cultura rumantscha e taliana ordaifer ils territoris linguistics tradiziunals
 
-[^2425-1]
+[^sec5a-1]
 
-[^2425-1]: Abolì tras la cifra I da l’O dals 24 d’avust 2022, cun effect dapi ils 15 da sett. 2022 ([AS 2022 488](https://fedlex.data.admin.ch/eli/oc/2022/488)).
+[^sec5a-1]: Integrà tras la cifra I da l’O dals 29 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 24
+
+**Mantegniment e promoziun da la lingua e cultura rumantscha ordaifer ils territoris linguistics tradiziunals**[^24-1]
+
+### (art. 22*a* LLing)
+
+<sup>1</sup>
+
+Per mantegnair e promover la lingua e cultura rumantscha ordaifer ils territoris linguistics tradiziunals pon vegnir concedids ad organisaziuns ed ad instituziuns agids finanzials per projects en ils suandants secturs:
+
+- a. emprender e consolidar la lingua rumantscha, en spezial tras l’instrucziun d’uffants e da giuvenils da lingua rumantscha en scola ed ordaifer la scola u tras il svilup da material d’emprender e d’exercizi che ha l’intent da consolidar las cumpetenzas linguisticas e culturalas;
+- b. facilitar l’utilisaziun da la lingua rumantscha, en spezial cun stabilir contacts tranter persunas da lingua rumantscha e cun sensibilisar ellas per la lingua rumantscha.
+
+<sup>2</sup> L’autezza dals agids finanzials vegn calculada sin basa da la qualitad e da l’effect dals projects e sin basa da la relevanza per la gruppa en mira. Projects che vegnan realisads ordaifer il chantun Grischun han prioritad.
+
+[^24-1]: Versiun tenor la cifra I da l’O dals 29 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
+
+#### Art. 25
+
+**Mantegniment e promoziun da la lingua e cultura taliana ordaifer ils territoris linguistics tradiziunals**[^25-1]
+
+### (art. 22*a* LLing)
+
+<sup>1</sup>
+
+Per mantegnair e promover la lingua e cultura taliana ordaifer ils territoris linguistics tradiziunals pon vegnir concedids ad organisaziuns ed ad instituziuns agids finanzials per ils suandants geners da projects:
+
+- a. projects culturals e projects da sensibilisaziun en scola, che sa drizzan ad uffants ed a giuvenils senza enconuschientschas dal talian e che han l’intent d’augmentar l’attractivitad dal rom talian en las scolas e da svegliar l’interess per la lingua e cultura taliana;
+- b. projects culturals da caracter surregiunal, che sa drizzan ad uffants ed a giuvenils da lingua taliana che vivan ordaifer ils territoris linguistics tradiziunals, e che han la finamira da mantegnair e da rinforzar la relaziun cun la lingua e cultura taliana.
+
+<sup>2</sup> L’autezza dals agids finanzials vegn calculada sin basa da la qualitad e da l’effect dals projects e sin basa da la relevanza per la gruppa en mira.
+
+[^25-1]: Versiun tenor la cifra I da l’O dals 29 d’oct. 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 681](https://fedlex.data.admin.ch/eli/oc/2025/681)).
 
 ## 6. part Execuziun
 
@@ -567,7 +602,7 @@ Al chantun Tessin vegnan concedids agids finanzials per sustegnair activitads su
 
 <sup>2</sup> Sch’ils agids finanzials dumandads surpassan ils meds disponibels, fa il Departament federal da l’intern – sa basond sin l’artitgel 13 alinea 2 da la Lescha da subvenziuns dals 5 d’october 1990[^28-1] – in urden da prioritads, tenor il qual las dumondas vegnan giuditgadas.
 
-[^28-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^28-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 29
 
