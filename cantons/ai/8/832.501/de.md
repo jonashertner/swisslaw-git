@@ -4,13 +4,12 @@ number: "832.501"
 title: Standeskommissionsbeschluss über die individuelle Prämienverbilligung in der Krankenversicherung
 short: StKB IPV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-03
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 1996-04-02
 in_force: 1996-04-02
 url: "https://ai.clex.ch/app/de/texts_of_law/832.501"
-pdf: "https://ai.clex.ch/api/de/versions/2328/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2395/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2328/pdf_file"
 
 (StKB IPV)
 
-vom 02.04.1996 (Stand 01.01.2025)
+vom 02.04.1996 (Stand 01.01.2026)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -127,7 +126,7 @@ beschliesst:
 
 **Sonderfälle**
 
-<sup>1</sup> Für die Berechnung des Anspruchs von Personen, die an der Quelle besteuert werden, ist das der Quellensteuer zugrundeliegende auf ein Jahr umgerechnete Einkommen massgebend. Bei quellenbesteuerten Personen mit einem nachträglich ordentlichen Steuerverfahren gelten die Einkommens- und Vermögensverhältnisse gemäss entsprechender Steuerveranlagung.
+<sup>1</sup> Für die Berechnung des Anspruchs von Personen, die an der Quelle besteuert werden, ist das der Quellensteuer zugrundeliegende auf ein Jahr umgerechnete Einkommen abzüglich 20% massgebend. Bei quellenbesteuerten Personen mit einem nachträglich ordentlichen Steuerverfahren gelten die Einkommens- und Vermögensverhältnisse gemäss entsprechender Steuerveranlagung.
 
 <sup>2</sup> Bezüger von Ergänzungsleistungen haben keinen Anspruch auf Prämienverbilligung nach diesem Standeskommissionsbeschluss. Die von der Kantonalen Ausgleichskasse verfügten Ergänzungsleistungen beinhalten bereits eine Prämienpauschale für die Krankenversicherung.
 
@@ -274,12 +273,12 @@ Die Ausgleichskasse meldet dem Gesundheits- und Sozialdepartement monatlich die 
 
 #### Art. A1-1
 
-<sup>1</sup> Für die Ermittlung des Prämienverbilligungsanspruchs im Jahr 2025 gilt:
+<sup>1</sup> Für die Ermittlung des Prämienverbilligungsanspruchs im Jahr 2026 gilt:
 
-- 1\. Die Richtprämien betragen für das Jahr 2025:
-  - a) für Kinder (Jahrgang 2007 und jünger) Fr. 1'004.--;
-  - b) für junge Erwachsene (Jahrgang 2000 bis 2006) Fr. 3'248.--;
-  - c) für Erwachsene (Jahrgang 1999 und älter) Fr. 4'197.--.
+- 1\. Die Richtprämien betragen für das Jahr 2026:
+  - a) für Kinder (Jahrgang 2008 und jünger) Fr. 1'034.--;
+  - b) für junge Erwachsene (Jahrgang 2001 bis 2007) Fr. 3'446.--;
+  - c) für Erwachsene (Jahrgang 2000 und älter) Fr. 4'640.--.
 - 2\. Der eigene Prämienanteil der Versicherten (Selbstbehalt) wird wie folgt festgelegt:
   - a) 7% bei einem massgebenden Gesamteinkommen unter Fr. 45'000.--;
   - b) 12% bei einem massgebenden Gesamteinkommen von Fr. 85'000.-- und darüber;
