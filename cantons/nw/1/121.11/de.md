@@ -1,29 +1,28 @@
 ---
 canton: NW
 number: "121.11"
-title: Vollzugsverordnung zum kantonalen Bürgerrechtsgesetz
+title: Verordnung zum kantonalen Bürgerrechtsgesetz
 short: "Kantonale Bürgerrechtsverordnung, kBüV"
 language: de
-version: 2018-01-01
-corrected: 2023-07-31
-version_adopted: 2017-09-19
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2017-09-19
 in_force: 2018-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/121.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/625/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum kantonalen Bürgerrechtsgesetz
+# Verordnung zum kantonalen Bürgerrechtsgesetz
 
 (Kantonale Bürgerrechtsverordnung, kBüV)
 
-vom 19.09.2017 (Stand 01.01.2018)
+vom 19.09.2017 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung der Art. 3, 7, 9 und Art. 36 Abs. 1 des Gesetzes vom 28. Juni 2017 über das Kantons- und das Gemeindebürgerrecht (Kantonales Bürgerrechtsgesetz, kBüG)[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung der Art. 3, 7, 7a, 9 und Art. 36 Abs. 1 des Gesetzes vom 28. Juni 2017 über das Kantons- und das Gemeindebürgerrecht (Kantonales Bürgerrechtsgesetz, kBüG)[^ingress-1],
 
 beschliesst:
 
@@ -35,7 +34,7 @@ beschliesst:
 
 <sup>1</sup> Das Gesuch um ordentliche Einbürgerung ist zusammen mit den Gesuchsunterlagen auf amtlichem Formular beim Amt einzureichen und von den Bewerberinnen oder Bewerbern oder deren gesetzlichen Vertretung zu unterzeichnen.
 
-<sup>2</sup> Dem Einbürgerungsgesuch sind insbesondere beizulegen:
+<sup>2</sup> Ausländische Bewerberinnen und Bewerber haben dem Einbürgerungsgesuch die folgenden Unterlagen beizulegen:
 
 - 1\. die Niederlassungsbewilligung;
 - 2\. die zivilstandsamtlichen Ausweise der Bewerberinnen oder Bewerber und ihrer in die Einbürgerung einzubeziehenden minderjährigen Kinder;
@@ -44,11 +43,18 @@ beschliesst:
 - 5\. der Lebenslauf;
 - 6\. der Sprachnachweis, soweit die Bewerberinnen oder Bewerber davon nicht befreit sind.
 
+<sup>3</sup> Schweizer Bewerberinnen und Bewerber haben dem Einbürgerungsgesuch die folgenden Unterlagen beizulegen:
+
+- 1\. die zivilstandsamtlichen Ausweise der Bewerberinnen oder Bewerber und ihrer in die Einbürgerung einzubeziehenden minderjährigen Kinder;
+- 2\. die Bescheinigung des Betreibungsamtes über in den letzten fünf Jahren durchgeführte Pfändungen, ausgestellte Verlustscheine und eingeleitete Betreibungen;
+- 3\. der Lebenslauf;
+- 4\. der Sprachnachweis, soweit die Bewerberinnen oder Bewerber davon nicht befreit sind.
+
 #### § 2
 
 **2. Erhebungsbericht**
 
-<sup>1</sup> Das Amt beauftragt die Kantonspolizei mit der Erstellung eines Erhebungsberichts gemäss Art. 17 der eidgenössischen Verordnung über das Schweizer Bürgerrecht (Bürgerrechtsverordnung, BüV)[^2-1].
+<sup>1</sup> Das Amt beauftragt die Kantonspolizei mit der Erstellung eines Erhebungsberichts für ausländische Bewerberinnen und Bewerber gemäss Art. 17 der eidgenössischen Verordnung über das Schweizer Bürgerrecht (Bürgerrechtsverordnung, BüV)[^2-1].
 
 [^2-1]: SR 141.01
 
@@ -56,7 +62,7 @@ beschliesst:
 
 **Sprachnachweis 1. Inhalt, Mindestanforderungen**
 
-<sup>1</sup> Der Sprachnachweis gibt Auskunft darüber, ob die Bewerberinnen oder Bewerber in den Bereichen Lese , Sprach- und Hörverständnis, Wortschatz und Grammatik sowie Schreiben über hinreichende Sprachkenntnisse verfügen.
+<sup>1</sup> Der Sprachnachweis gibt Auskunft darüber, ob die Bewerberinnen oder Bewerber in den Bereichen Lese-, Sprach- und Hörverständnis, Wortschatz und Grammatik sowie Schreiben über hinreichende Sprachkenntnisse verfügen.
 
 <sup>2</sup> Er ist erbracht, wenn die Bewerberinnen oder Bewerber in deutscher Sprache mindestens erreichen:
 
@@ -76,19 +82,31 @@ beschliesst:
 
 #### § 5
 
-**Erfüllen der Verpflichtungen**
+**Erfüllen der Verpflichtungen durch ausländische Bewerberinnen und Bewerber**
 
-<sup>1</sup> Bewerberinnen oder Bewerber kommen ihren Verpflichtungen gemäss Art. 7 Abs. 1 Ziff. 3 kBüG[^5-1] nach, wenn:
+<sup>1</sup> Ausländische Bewerberinnen und Bewerber kommen ihren Verpflichtungen gemäss Art. 7 Abs. 1 Ziff. 3 kBüG[^5-1] nach, wenn:
 
-- 1\. ihre Lebenskosten und Unterhaltsverpflichtungen in angemessenem Umfang durch Einkommen und Vermögen sowie, mit Ausnahme von Sozialhilfeleistungen, durch Rechtsansprüche gegenüber Dritten (wie Forderungen gegenüber Versicherungsgesellschaften, Vorsorgeeinrichtungen oder dem Staat) gedeckt sind;
+- 1\. ihre Lebenskosten und Unterhaltsverpflichtungen in angemessenem Umfang durch Einkommen und Vermögen sowie, mit Ausnahme von Sozialhilfeleistungen, durch Rechtsansprüche gegenüber Dritten (wie Forderungen gegenüber Versicherungsgesellschaften, Vorsorgeeinrichtungen oder dem Staat) nachweislich gedeckt sind;
 - 2\. sie in den letzten fünf Jahren vor Einreichung des Einbürgerungsgesuchs sowie während des Einbürgerungsverfahrens keine wirtschaftliche Sozialhilfe gemäss Sozialhilfegesetz[^5-2] oder keine Leistungen der Asylfürsorge bezogen haben; Rückforderungen für erbrachte Sozialhilfeleistungen müssen beglichen sein;
 - 3\. keine Hinweise für eine absehbare Beanspruchung der wirtschaftlichen Sozialhilfe gemäss Sozialhilfegesetz vorliegen;
-- 4\. das Betreibungsregister keine offenen Verlustscheine und Betreibungen sowie für die letzten fünf Jahre vor Einreichung des Gesuchs und während des Einbürgerungsverfahrens keine Konkursverfahren, keine Einträge von Verlustscheinen und keine Einträge von erledigten Betreibungen von öffentlich-rechtlichen Körperschaften sowie von Versicherern der obligatorischen Krankenversicherung aufweist; die allgemeine Zahlungsmoral ist in die Beurteilung miteinzubeziehen;
-- 5\. keine fälligen Steuerforderungen vorhanden sind; die Zahlungsmoral der vorangegangenen fünf Jahre ist in die Beurteilung miteinzubeziehen; und
+- 4\. das Betreibungsregister keine offenen Verlustscheine und Betreibungen sowie für die letzten fünf Jahre vor Einreichung des Gesuchs und während des Einbürgerungsverfahrens keine Konkursverfahren, keine Einträge von Verlustscheinen und keine Einträge von erledigten Betreibungen von öffentlich-rechtlichen Körperschaften sowie von Versicherern der obligatorischen Krankenversicherung aufweist;
+- 5\. keine fälligen Steuerforderungen vorhanden sind; und
 - 6\. in den letzten fünf Jahren vor Einreichung des Einbürgerungsgesuches sowie während des Einbürgerungsverfahrens keine Leistungen aufgrund selbstverschuldeter Arbeitslosigkeit bezogen hat.
 
 [^5-1]: NG 121.1
 [^5-2]: NG 761.1
+
+#### § 5a
+
+**Erfüllung der Verpflichtungen durch Schweizer Bewerberinnen und Bewerber**
+
+<sup>1</sup> Schweizer Bewerberinnen und Bewerber kommen ihren Verpflichtungen gemäss Art. 7a Abs. 1 Ziff. 2 kBüG[^5a-1] nach, wenn:
+
+- 1\. ihre Lebenskosten und Unterhaltsverpflichtungen in angemessenem Umfang durch Einkommen und Vermögen sowie durch Rechtsansprüche gegenüber Dritten (wie Forderungen gegenüber Versicherungsgesellschaften, Vorsorgeeinrichtungen oder dem Staat) nachweislich gedeckt sind;
+- 2\. das Betreibungsregister keine offenen Verlustscheine und Betreibungen sowie für die letzten fünf Jahre vor Einreichung des Gesuchs und während des Einbürgerungsverfahrens keine Konkursverfahren, keine Einträge von Verlustscheinen und keine Einträge von erledigten Betreibungen von öffentlich-rechtlichen Körperschaften sowie von Versicherern der obligatorischen Krankenversicherung aufweist; und
+- 3\. keine fälligen Steuerforderungen vorhanden sind.
+
+[^5a-1]: NG 121.1
 
 #### § 6
 
@@ -102,6 +120,16 @@ beschliesst:
 - 2\. des Lebenslaufs;
 - 3\. der Auskunft aktueller oder früherer Arbeitgeberinnen oder Arbeitgeber; und
 - 4\. weiterer Referenzauskünfte im Einzelfall bei Behörden und Privaten wie Lehrerinnen oder Lehrern.
+
+#### § 6a
+
+**Entlassungsgesuch**
+
+<sup>1</sup> Das Gesuch um Entlassung aus dem kommunalen, kantonalen oder eidgenössischen Bürgerrecht ist mit folgenden Unterlagen an das Amt einzureichen:
+
+- 1\. die zivilstandsamtlichen Ausweise der Gesuchstellerinnen und Gesuchsteller sowie ihrer in die Entlassung einzubeziehenden minderjährigen Kinder;
+- 2\. bei minderjährigen Kindern, welche bei einem Gesuch um Entlassung aus dem schweizerischen Bürgerrecht miteinbezogen werden, die Einwilligung beider Elternteile oder den Nachweis der alleinigen elterlichen Sorge;
+- 3\. die Bescheinigung über den Besitz eines anderen kommunalen, kantonalen oder ausländischen Bürgerrechts.
 
 #### § 7
 
