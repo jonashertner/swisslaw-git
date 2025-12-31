@@ -4,13 +4,12 @@ number: "141.11"
 title: Personalverordnung
 short: PV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-31
+version: 2026-01-01
+version_adopted: 2025-06-27
 adopted: 1998-01-29
 in_force: 1999-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.11"
-pdf: "http://gdb.ow.ch/api/de/versions/1918/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1964/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1918/pdf_file"
 
 (PV)
 
-vom 29.01.1998 (Stand 01.01.2025)
+vom 29.01.1998 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt in Ergänzung des Staatsverwaltungsgesetzes das öffentlich-rechtliche Dienstverhältnis der Angestellten der Staatsverwaltung.
 
-<sup>2</sup> Die Vorschriften dieser Verordnung gelten auch für das Personal des Kantonsspitals und die Leitung der kantonalen Ausgleichskasse, soweit die Gesetzgebung oder die Anstellungsverträge keine abweichenden Vorschriften enthalten.
+<sup>2</sup> Die Vorschriften dieser Verordnung gelten auch für die Leitung der kantonalen Ausgleichskasse, soweit die Gesetzgebung oder die Anstellungsverträge keine abweichenden Vorschriften enthalten.
 
 <sup>3</sup> Der Regierungsrat kann für einzelne Verwaltungsbereiche abweichende, berufsbedingte Ausführungsbestimmungen erlassen.
 
@@ -596,7 +595,9 @@ geändert durch:
 
 \- Nachtrag vom 27. Mai 2021 (OGS 2021, 20), Botschaft und Vorlage des Regierungsrats vom 22. März 2021, Kantonsratssitzungen vom 27. Mai 2021 (22.21.01), in Kraft seit 1. August 2021 (OGS 2021, 27),
 
-\- Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39)
+\- Nachtrag zum Staatsverwaltungsgesetz vom 31. Oktober 2024 (OGS 2024, 27), Botschaft und Vorlage des Regierungsrats vom 25. Juni 2024, Kantonsratssitzung vom 31. Oktober 2024 (22.24.06), in Kraft seit 1. Januar 2025 (OGS 2024, 39),
+
+\- Spitalgesetz vom 27. Juni 2025 (OGS 2025, 21a), Botschaft und Vorlage des Regierungsrats vom 18. Februar 2025, Kantonsratssitzungen vom 22. Mai und 27. Juni 2025 (22.25.02), in Kraft 1. Januar 2025 (OGS 2025, 33)
 
 Der Nachtrag vom 11. September 2008 (Vaterschaftsurlaub; OGS 2008, 71, OGS 2009, 67) wurde an der Volksabstimmung vom 8. Februar 2009 (OGS 2009, 11) abgelehnt
 
