@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über die technischen Anforderungen an Stras
 short: VTS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20250701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de"
 
 (VTS)
 
-vom 19. Juni 1995 (Stand am 1. Juli 2025)
+vom 19. Juni 1995 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 8, 9 Absätze 1<sup>bis</sup>, 2 und 3, 13 Absätze 2 
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 ## 1. Teil: Allgemeine Bestimmungen
@@ -49,7 +49,7 @@ Diese Verordnung regelt:
 <sup>3</sup> Für das Inverkehrbringen von Fahrzeugen, die keiner Zulassung unterliegen, und von deren Bestandteilen und Ausrüstungsgegenständen finden die Vorschriften des Bundesgesetzes vom 12. Juni 2009[^1-2] über die Produktesicherheit ergänzend Anwendung.
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^1-2]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-2]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 1a
 
@@ -65,7 +65,7 @@ Luftkissenfahrzeuge, Fahrzeuge mit Propeller- oder Rückstossantrieb sowie ander
 
 Die Typengenehmigung von Fahrzeugen und Gegenständen, für die in dieser Verordnung technische Anforderungen definiert sind, richtet sich nach der Verordnung vom 19. Juni 1995[^2-1] über die Typengenehmigung von Strassenfahrzeugen (TGV).
 
-[^2-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^2-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 3
 
@@ -135,42 +135,42 @@ Es werden folgende Abkürzungen für Erlasse verwendet:[^3-15]
 [^3-6]: Fassung gemäss Ziff. I 3 der V vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ([AS 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
 [^3-7]: Fassung gemäss Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1677](https://fedlex.data.admin.ch/eli/oc/2006/262)).
 [^3-8]: Eingefügt durch Ziff. I der V vom 29. März 2006, in Kraft seit 1. Nov. 2006 ([AS 2006 1677](https://fedlex.data.admin.ch/eli/oc/2006/262)).
-[^3-9]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^3-9]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^3-10]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^3-11]: Eingefügt durch Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^3-12]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-13]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2016, mit Wirkung seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-14]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-15]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^3-16]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^3-16]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^3-17]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^3-18]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^3-18]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^3-19]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^3-20]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+[^3-20]: [SR 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
 [^3-21]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^3-22]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^3-22]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 [^3-23]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^3-24]: [SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
-[^3-25]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^3-26]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
-[^3-27]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^3-28]: [SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^3-24]: [SR 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)
+[^3-25]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^3-26]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^3-27]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^3-28]: [SR 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)
 [^3-29]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^3-30]: [SR 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
+[^3-30]: [SR 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)
 [^3-31]: [[AS 1986 1836](https://fedlex.data.admin.ch/eli/oc/1986/1836_1836_1836); [1987 1168](https://fedlex.data.admin.ch/eli/oc/1987/1168_1168_1168); [1990 1488](https://fedlex.data.admin.ch/eli/oc/1990/1488_1488_1488); [1993 3127](https://fedlex.data.admin.ch/eli/oc/1993/3127_3127_3127); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)Ziff. IV; [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 7; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 11. [AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. I 76]
 [^3-32]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^3-33]: [SR 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
-[^3-34]: [SR 741.435.4](https://fedlex.data.admin.ch/eli/cc/1986/1889_1889_1889)
-[^3-35]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^3-36]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^3-33]: [SR 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
+[^3-34]: [SR 741.435.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8659)
+[^3-35]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^3-36]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^3-37]: Fassung gemäss Art. 29 Abs. 2 Ziff. 2 der V vom 29. Nov. 2002 über die Beförderung gefährlicher Güter auf der Strasse, in Kraft seit 1. Jan. 2003 ([AS 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)).
-[^3-38]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^3-39]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^3-40]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^3-38]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^3-39]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
+[^3-40]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 [^3-41]: Fassung gemäss Anhang Ziff. 3 der V vom 25. März 1998, in Kraft seit 1. Mai 1998 ([AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^3-42]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^3-42]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^3-43]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^3-44]: [SR 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)
+[^3-44]: [SR 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652)
 [^3-45]: Eingefügt durch Ziff. I der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)). Aufgehoben durch Ziff. I der V vom 16. Nov. 2016, mit Wirkung seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-46]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^3-47]: Aufgehoben durch Ziff. I der V vom 2. März 2012, mit Wirkung seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
@@ -224,7 +224,7 @@ Wird bei einem bereits in Verkehr stehenden Fahrzeug eine elektrische Antriebsei
 [^4-1]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^4-4]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^4-4]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^4-5]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 #### Art. 5
@@ -321,7 +321,7 @@ Wird bei einem bereits in Verkehr stehenden Fahrzeug eine elektrische Antriebsei
 [^9-1]: Fassung gemäss Ziff. II der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 6. Sept. 2000, in Kraft seit 15. Okt. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)).
 [^9-3]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^9-4]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^9-4]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^9-5]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 9a
@@ -484,12 +484,12 @@ Es werden folgende Arten von Arbeitsmotorwagen unterschieden:
 
 <sup>4</sup> Arbeitsmotorwagen können als Transportmotorwagen immatrikuliert werden, wenn sie allen anwendbaren Vorschriften entsprechen und die Arbeitsgeräte weder die Sicht des Führers oder der Führerin erheblich einschränken noch den Verkehr behindern.
 
-[^13-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^13-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^13-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^13-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^13-4]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^13-5]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^13-6]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^13-6]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 [^13-7]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)). Die Berichtigung vom 19. Febr. 2019 betrifft nur den französischen Text ([AS 2019 685](https://fedlex.data.admin.ch/eli/oc/2019/119)).
 
 ### 3. Kapitel: Übrige Motorfahrzeuge
@@ -702,7 +702,7 @@ Ihnen gleichgestellt sind Anhänger:
 [^22-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^22-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^22-4]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^22-5]: [SR 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^22-5]: [SR 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 23
 
@@ -804,7 +804,7 @@ Folgende Fahrzeuge mit Überbreite dürfen ohne Bewilligung verkehren und gelten
 
 [^28-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)).
 [^28-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^28-3]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^28-3]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^28-4]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 28a
@@ -839,28 +839,47 @@ Fahrzeuge, bei denen vorübergehend angebrachte, erforderliche Schneeräumgerät
 
 <sup>4</sup> Änderungen an Fahrzeugen, die zwischen der Zulassungsprüfung und der Zulassung vorgenommen werden, sind der Zulassungsbehörde zu melden und nach Artikel 34 Absatz 2 zu prüfen.
 
-[^29-1]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^29-2]: [SR 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-
-#### Art. 30
-
-**Prüfung von neuen Fahrzeugen: administrative Prüfung**
-
-<sup>1</sup>
-
-Bei neuen Fahrzeugen wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften erbracht mit:
-
-- a. einem ausgefüllten und vom Typengenehmigungs- oder Datenblattinhaber unterzeichneten Prüfungsbericht; oder
-- b. …[^30-1]
-
-<sup>2</sup>
+<sup>5</sup>
 
 Als neu gelten Fahrzeuge:
 
 - a. die erstmals zugelassen werden;
-- b. die im Ausland vor einem Jahr oder weniger zugelassen wurden, wenn ihr Kilometerstand 2000 km oder ihr Betriebsstundenstand 70 h nicht übersteigt.
+- b. die im Ausland vor einem Jahr oder weniger zugelassen wurden, wenn ihr Kilometerstand 2000 km oder ihr Betriebsstundenstand 70 h nicht übersteigt.[^29-3]
 
-[^30-1]: Tritt zu einem späteren Zeitpunkt in Kraft.
+<sup>6</sup> Als vollständig gelten Fahrzeuge, die keiner Vervollständigung bedürfen, um die einschlägigen technischen Anforderungen dieser Verordnung zu erfüllen.[^29-4]
+
+<sup>7</sup> Als vervollständigt gelten Fahrzeuge, die das Ergebnis von mehreren Herstellungsstufen sind und die den einschlägigen technischen Anforderungen dieser Verordnung entsprechen.[^29-5]
+
+[^29-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^29-2]: [SR 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^29-3]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^29-4]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^29-5]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+
+#### Art. 30
+
+**Prüfung von neuen Fahrzeugen: administrative Prüfung**[^30-1]
+
+<sup>1</sup>
+
+Bei Personenwagen gemäss Artikel 11 Absatz 2 Buchstabe a, die neu und vollständig sind, wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften erbracht mit:
+
+- a. einem ausgefüllten und vom Typengenehmigungs- oder Datenblattinhaber unterzeichneten Prüfungsbericht; oder
+- b. einem ausgefüllten und vom Importeur unterzeichneten Prüfungsbericht, der auf einem elektronischen Einzelfahrzeugdatensatz (Art. 72*b* VZV[^30-2]) beruht.
+
+<sup>2</sup>
+
+Bei folgenden Fahrzeugen wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften mit einem ausgefüllten und vom Typengenehmigungs- oder Datenblattinhaber unterzeichneten Prüfungsbericht erbracht:
+
+- a. neue, vollständige leichte Motorwagen, bei denen es sich nicht um einen Personenwagen nach Absatz 1 handelt;
+- b. neue, vollständige Anhänger mit einem Gesamtgewicht bis 3,50 t;
+- c. neue, vollständige Motorräder;
+- d. neue, vollständige Leicht-, Klein- und dreirädrigen Motorfahrzeuge.
+
+<sup>3</sup> Das ASTRA kann weitere Fahrzeugarten für die administrative Prüfung vorsehen.
+
+[^30-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^30-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 30a
 
@@ -868,37 +887,53 @@ Als neu gelten Fahrzeuge:
 
 <sup>1</sup>
 
-Liegen für ein neues Fahrzeug die Dokumente nach Artikel 30 Absatz 1 nicht vor, so wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften wie folgt erbracht:
+Für neue vollständige oder vervollständigte Fahrzeuge, die nicht unter Artikel 30 fallen, für Fahrzeuge gemäss Artikel 30 Absatz 2, für welche keine Typengenehmigung und kein Datenblatt vorliegt, sowie für Personenwagen gemäss Artikel 11 Absatz 2 Buchstabe a, die neu und vollständig sind und für welche die Dokumente nach Artikel 30 Absatz 1 nicht vorliegen, ist der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften erbracht mit:
 
-- a. Liegt eine EU-Übereinstimmungsbescheinigung in Papierform vor, so wird bei Personenwagen und Wohnmotorwagen mit einem Gesamtgewicht bis 3,50 t eine Identifikationsprüfung durchgeführt, bei den übrigen Fahrzeugen eine Funktionskontrolle.
-- b.
+- a.
 
-  Liegt keine EU-Übereinstimmungsbescheinigung in Papierform vor, so wird eine Funktionskontrolle durchgeführt, wenn:
+  einer EU-Übereinstimmungsbescheinigung in Papierform und einer Identifikationsprüfung:
 
-  - 1\. eine Konformitätserklärung nach dem UNECE-Reglement Nr. 0 sowie alle weiteren erforderlichen Genehmigungen zur Vervollständigung nach dem entsprechenden EU-Gesamtgenehmigungsrechtsakt vorliegen,
-  - 2\. Genehmigungen und Konformitätszeichen vorliegen, die von ausländischen Staaten nach nationalem oder internationalem Recht erteilt wurden, das in Anhang 2 aufgeführt oder den schweizerischen Vorschriften mindestens gleichwertig ist,
-  - 3\. Konformitätserklärungen nach den Artikeln 2 Buchstabe f und 14 TGV[^30a-1] vorliegen,
-  - 4\.[^30a-2] Prüfberichte vorliegen, die nach den in Anhang 2 aufgeführten Vorschriften von anerkannten Prüfstellen nach Artikel 17 Absatz 1 TGV erstellt wurden, oder
-  - 5\. die Halter und Halterinnen diplomatische oder konsularische Vorrechte und Immunitäten geniessen.
+  - 1\. bei Personenwagen gemäss Artikel 11 Absatz 2 Buchstabe a,
+  - 2\. bei vollständigen Wohnmotorwagen mit einem Gesamtgewicht bis 3,50 t;
+
+- b. einem elektronischen Einzelfahrzeugdatensatz (Art. 72*b* VZV[^30a-1]) und einer Funktionskontrolle: bei vollständigen Wohnmotorwagen mit einem Gesamtgewicht bis 3,50 t;
+- c. einer EU-Übereinstimmungsbescheinigung in Papierform, einem elektronischen Einzelfahrzeugdatensatz (Art. 72*b* VZV), einer Typengenehmigung oder einem Datenblatt sowie einer Funktionskontrolle: bei allen anderen vollständigen und vervollständigten Fahrzeugen;
+- d.
+
+  sofern keine EU-Übereinstimmungsbescheinigung in Papierform und kein elektronischer Einzelfahrzeugdatensatz (Art. 72*b* VZV) vorliegt: einer Funktionskontrolle und den nachfolgenden Nachweisdokumenten:
+
+  - 1\. Konformitätserklärung nach dem UNECE-Reglement Nr. 0 sowie alle weiteren erforderlichen Genehmigungen zur Vervollständigung nach dem entsprechenden EU-Gesamtgenehmigungsrechtsakt,
+  - 2\. Genehmigungen und Konformitätszeichen, die von ausländischen Staaten nach nationalem oder internationalem Recht erteilt wurden, das in Anhang 2 aufgeführt ist oder den schweizerischen Vorschriften mindestens gleichwertig ist,
+  - 3\. Konformitätserklärungen, die nach Artikel 14 TGV[^30a-2] anerkannt sind,
+  - 4\. Prüfberichte, die nach den in Anhang 2 aufgeführten Vorschriften von anerkannten Prüfstellen nach Artikel 17 Absatz 1 TGV erstellt worden sind.[^30a-3]
+
+<sup>1bis</sup> Wenn der Halter oder die Halterin des Fahrzeuges diplomatische oder konsularische Vorrechte und Immunitäten geniesst, ist im Falle von Absatz 1 Buchstabe d eine Funktionskontrolle für den Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften ausreichend.[^30a-4]
 
 <sup>2</sup> Die Funktionskontrolle beschränkt sich auf die wichtigsten Vorrichtungen wie Lenkung, Bremsen und Beleuchtung sowie die Verbindungseinrichtungen von Zugfahrzeugen und Anhängern.
 
-<sup>3</sup> Der Nachweis der Gleichwertigkeit nach Absatz 1 Buchstabe b Ziffer 2 ist vom Gesuchsteller oder von der Gesuchstellerin zu erbringen.
+<sup>3</sup> Der Nachweis der Gleichwertigkeit nach Absatz 1 Buchstabe d Ziffer 2 ist vom Gesuchsteller oder von der Gesuchstellerin zu erbringen.[^30a-5]
 
-[^30a-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^30a-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
+[^30a-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^30a-2]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^30a-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^30a-4]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^30a-5]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 30b
 
-**Prüfung von neuen Fahrzeugen: umfassende technische Prüfung**
+**Prüfung von neuen Fahrzeugen: umfassende technische Prüfung**[^30b-1]
 
-Liegen für ein neues Fahrzeug die Dokumente nach Artikel 30 Absatz 1 nicht vor und sind die Voraussetzungen nach Artikel 30*a* nicht erfüllt, so wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften mit einer umfassenden technischen Prüfung erbracht. Es wird dabei insbesondere geprüft, ob das Fahrzeug den Abgas- und Geräuschvorschriften entspricht und für den beabsichtigten Gebrauch betriebssicher ist.
+Liegen für ein neues, vollständiges oder vervollständigtes Fahrzeug die Dokumente nach Artikel 30 Absatz 1 nicht vor und sind die Voraussetzungen nach Artikel 30*a* nicht erfüllt, so wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften mit einer umfassenden technischen Prüfung erbracht. Dabei wird insbesondere geprüft, ob das Fahrzeug den Abgas- und Geräuschvorschriften entspricht und für den beabsichtigten Gebrauch betriebssicher ist.
+
+[^30b-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 30c
 
-**Prüfung von neuen Fahrzeugen: technische Prüfung für Teile oder Änderungen**
+**Prüfung von neuen Fahrzeugen: technische Prüfung für Teile oder Änderungen**[^30c-1]
 
-Bei Fahrzeugen, für die nur ein Teil der Dokumente nach Artikel 30*a* Buchstabe b Ziffern 1–4 vorliegen, oder bei geänderten Fahrzeugen müssen die nicht geprüften Teile oder Änderungen umfassend technisch geprüft werden.
+Bei Fahrzeugen, für die nur ein Teil der Dokumente nach Artikel 30*a* Absatz 1 Buchstabe d Ziffer 1–4 vorliegen, und bei geänderten Fahrzeugen müssen die nicht geprüften Teile oder Änderungen umfassend technisch geprüft werden.
+
+[^30c-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 31
 
@@ -906,16 +941,24 @@ Bei Fahrzeugen, für die nur ein Teil der Dokumente nach Artikel 30*a* Buchstabe
 
 <sup>1</sup>
 
-Bei Fahrzeugen, die nicht neu sind (Art. 30 Abs. 2), wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften mit einer Funktionskontrolle erbracht, wenn:
+Bei Fahrzeugen, die nicht neu sind (Art. 29 Abs. 5), wird der Nachweis über die Einhaltung der Bau- und Ausrüstungsvorschriften mit einer Funktionskontrolle erbracht, wenn:[^31-1]
 
 - a. ein ausgefüllter und vom Typengenehmigungs- oder Datenblattinhaber unterzeichneter Prüfungsbericht vorliegt;
-- b. eine EU-Übereinstimmungsbescheinigung vorliegt;
-- c. eine Konformitätserklärung nach dem UNECE-Reglement Nr. 0 sowie alle weiteren erforderlichen Genehmigungen zur Vervollständigung nach dem entsprechenden EU-Gesamtgenehmigungsrechtsakt vorliegen; oder
-- d. die Halter und Halterinnen diplomatische oder konsularische Vorrechte und Immunitäten geniessen.
+- b.[^31-2] eine EU-Übereinstimmungsbescheinigung in Papierform vorliegt;
+- c.[^31-3] ein elektronischer Einzelfahrzeugdatensatz (Art. 72*b* VZV[^31-4]) vorliegt;
+- d.[^31-5] eine Konformitätserklärung nach dem UNECE-Reglement Nr. 0 sowie alle weiteren erforderlichen Genehmigungen zur Vervollständigung nach dem entsprechenden EU-Gesamtgenehmigungsrechtsakt vorliegen; oder
+- e.[^31-6] die Halter und Halterinnen diplomatische oder konsularische Vorrechte und Immunitäten geniessen.
 
 <sup>2</sup> Die Funktionskontrolle beschränkt sich auf die wichtigsten Vorrichtungen wie Lenkung, Bremsen und Beleuchtung sowie die Verbindungseinrichtungen von Zugfahrzeugen und Anhängern.
 
 <sup>3</sup> Sind die Voraussetzungen nach Absatz 1 nicht erfüllt, so wird eine umfassende technische Prüfung durchgeführt. Es wird dabei insbesondere geprüft, ob das Fahrzeug den Abgas- und Geräuschvorschriften entspricht und für den beabsichtigten Gebrauch betriebssicher ist.
+
+[^31-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-4]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^31-5]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-6]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 31a
 
@@ -929,13 +972,16 @@ Bei Fahrzeugen, die nicht neu sind (Art. 30 Abs. 2), wird der Nachweis über die
 
 **Selbstabnahme**
 
-<sup>1</sup> Die Zulassungsbehörde kann für Fahrzeuge mit einer Typengenehmigung oder einem Datenblatt das Ausfüllen des Prüfungsberichts und die Funktionskontrolle an Personen delegieren, die für eine einwandfreie Durchführung Gewähr bieten.
+<sup>1</sup> Die Zulassungsbehörde kann für neue Fahrzeuge mit einer Typengenehmigung, einem Datenblatt, einer EU-Übereinstimmungsbescheinigung in Papierform oder einem elektronischen Einzelfahrzeugdatensatz (Art. 72*b* VZV[^32-1]) das Ausfüllen des Prüfungsberichts und die Funktionskontrolle an Personen delegieren, die für eine einwandfreie Durchführung Gewähr bieten.[^32-2]
 
 <sup>2</sup> Diese Ermächtigung kann sich auf leichte Motorwagen, Anhänger mit einem Gesamtgewicht bis 3,50 t, Motorräder, Leicht‑, Klein- und dreirädrige Motorfahrzeuge erstrecken.
 
 <sup>3</sup> Die Ermächtigung gilt nicht für Fahrzeuge, die von der typengenehmigten Ausführung abweichen.
 
 <sup>4</sup> Die Zulassungsbehörde führt Stichproben durch. Sie entzieht die Ermächtigung, wenn schwere oder wiederholte Mängel festgestellt werden.
+
+[^32-1]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^32-2]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 ### 2. Kapitel: Nachprüfungen
 
@@ -1040,8 +1086,8 @@ Es gelten folgende Prüfungsintervalle:
 [^33-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^33-2]: Eingefügt durch Ziff. I vom 15. Juni 2001, in Kraft seit 1. Juni 2002 ([AS 2002 1181](https://fedlex.data.admin.ch/eli/oc/2002/195)).
 [^33-3]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^33-4]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^33-5]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^33-4]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^33-5]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
 [^33-6]: Eingefügt durch Anhang Ziff. 2 der V vom 13. Dez. 2024 über das automatisierte Fahren, in Kraft seit 1. März 2025 ([AS 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 [^33-7]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Juli 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^33-8]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. Febr. 2017 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
@@ -1148,7 +1194,7 @@ Die Zulassungsbehörde kann die Nachprüfungen an Betriebe oder Organisationen d
 
 <sup>7</sup> Bei der Zulassungsprüfung und jeder Nachprüfung erfasst die Zulassungsbehörde den Stand des Kilometer- oder Betriebsstundenzählers.[^34b-3]
 
-[^34b-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^34b-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^34b-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
 [^34b-3]: Eingefügt durch Ziff. III 1 der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
@@ -1182,7 +1228,7 @@ Die Abgaswartung bei Motorwagen mit Selbstzündungsmotor (Art. 59*a* Abs. 1 VRV)
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^35-3]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^35-3]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 [^35-4]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
 [^35-5]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst.
 [^35-6]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
@@ -1231,12 +1277,12 @@ Eine erneute Wartung oder Nachkontrolle wird angeordnet, wenn:
 
 <sup>5</sup> Fahrzeuge von Haltern oder Halterinnen, die diplomatische oder konsularische Vorrechte und Immunitäten geniessen, müssen lediglich die technischen Anforderungen von Anhang 5 des Übereinkommens vom 8. November 1968[^36a-6] über den Strassenverkehr erfüllen.
 
-[^36a-1]: [SR 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
-[^36a-2]: [SR 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
-[^36a-3]: [SR 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)
+[^36a-1]: [SR 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)
+[^36a-2]: [SR 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)
+[^36a-3]: [SR 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652)
 [^36a-4]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608)).
-[^36a-5]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^36a-6]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^36a-5]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^36a-6]: [SR 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 
 #### Art. 37
 
@@ -1411,7 +1457,7 @@ Eine Garantieerklärung nach Absatz 2 wird anerkannt, wenn:
 
 <sup>4</sup> Erweckt eine Garantie Zweifel, so kann das ASTRA oder bei Fahrzeugen, die von der Typengenehmigungspflicht befreit sind, die Zulassungsbehörde eine Untersuchung durch eine anerkannte Prüfstelle nach Artikel 17 Absatz 1 TGV[^41-9] [^41-10] verlangen. Garantien, die offensichtlich zu tief angesetzt sind, werden zurückgewiesen. Die Garantie wird ebenfalls zurückgewiesen, wenn der Hersteller oder die Herstellerin sie für die Schweiz erheblich tiefer ansetzt als im Ausland.[^41-11]
 
-<sup>5</sup> Liegt für ein umgebautes Fahrzeug keine Garantie nach Absatz 2 vor, so kann der Umbauer diese abgeben, wenn ein Bericht einer anerkannten Prüfstelle nach Artikel 17 Absatz 1 TGV die Betriebs- und Verkehrssicherheit bestätigt.[^41-12]
+<sup>5</sup> Liegt für ein umgebautes Fahrzeug keine Garantie nach Absatz 2 vor, so kann der Umbauer oder die Umbauerin diese abgeben, wenn ein Prüfbericht einer anerkannten Prüfstelle nach Artikel 17 Absatz 1 TGV die Betriebs- und Verkehrssicherheit bestätigt.[^41-12]
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^41-2]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
@@ -1421,10 +1467,10 @@ Eine Garantieerklärung nach Absatz 2 wird anerkannt, wenn:
 [^41-6]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^41-7]: Eingefügt durch Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^41-8]: Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
-[^41-9]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^41-9]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^41-10]: Ausdruck gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^41-11]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^41-12]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^41-12]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 42
 
@@ -1453,19 +1499,20 @@ Das Gewicht von Dachlastenträgern u. dergl. darf zusammen mit ihrer Zuladung h�
 
 <sup>1</sup> An leicht zugänglicher Stelle muss ein Schild aus dauerhaftem Material angebracht sein. Dieses muss bei Fahrzeugen mit einer EU[^44-2]-Gesamtgenehmigung mindestens die Angaben der entsprechenden EU-Richtlinie enthalten.[^44-3]
 
-<sup>2</sup> Bei Fahrzeugen, die mittels EU-Mehrstufen-Typengenehmigungsverfahren zugelassen werden, müssen zusätzliche, der Anzahl der Fertigungsstufen entsprechende Schilder vorhanden sein. Auf diesen müssen der Name des Umbauers, die neue EU-Typengenehmigungsnummer, die Genehmigungsstufe sowie die gegenüber dem Grundschild geänderten Angaben angebracht sein.
+<sup>2</sup> Bei Fahrzeugen, die mittels EU-Mehrstufen-Typengenehmigungsverfahren zugelassen werden, müssen zusätzliche, der Anzahl der Fertigungsstufen entsprechende Schilder vorhanden sein. Auf diesen müssen der Name des Umbauers oder der Umbauerin, die neue EU-Typengenehmigungsnummer, die Genehmigungsstufe sowie die gegenüber dem Grundschild geänderten Angaben angebracht sein.[^44-4]
 
-<sup>3</sup> An Fahrzeugen, die über keine EU-Typengenehmigung verfügen, genügt ein Schild nach Absatz 1, das den Namen des Herstellers oder der Herstellerin oder die Fabrikmarke, die Fahrgestellnummer und bei Motorwagen und ihren Anhängern das Garantiegewicht und die Tragkraft der einzelnen Achsen enthält.[^44-4]
+<sup>3</sup> An Fahrzeugen, die über keine EU-Typengenehmigung verfügen, genügt ein Schild nach Absatz 1, das den Namen des Herstellers oder der Herstellerin oder die Fabrikmarke, die Fahrgestellnummer und bei Motorwagen und ihren Anhängern das Garantiegewicht und die Tragkraft der einzelnen Achsen enthält.[^44-5]
 
 <sup>4</sup> Die Fahrzeugidentifikationsnummer muss auch am Fahrgestell, Rahmen oder einem anderen gleichwertigen Fahrzeugteil gut sichtbar eingeschlagen oder eingeprägt sein. Sie ist bei allen Fahrzeugen desselben Typs an der gleichen Stelle anzubringen.
 
-<sup>5</sup> …[^44-5]
+<sup>5</sup> …[^44-6]
 
 [^44-1]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^44-2]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)). Diese Änd. wurde in der in der AS genannten Bestimmung vorgenommen.
 [^44-3]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^44-4]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^44-5]: Aufgehoben durch Ziff. I der V vom 10. Juni 2005, mit Wirkung seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
+[^44-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^44-5]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
+[^44-6]: Aufgehoben durch Ziff. I der V vom 10. Juni 2005, mit Wirkung seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 
 #### Art. 45
 
@@ -1578,7 +1625,7 @@ Von Absatz 4 sind ausgenommen:
 <sup>2</sup> Vorbehalten bleiben Weisungen des Bundesamts für Strassen.
 
 [^49a-1]: Eingefügt durch Ziff. II 1 der V vom 22. Febr. 2017, in Kraft seit 1. April 2017 ([AS 2017 1657](https://fedlex.data.admin.ch/eli/oc/2017/170)). Die Berichtigung vom 4. April 2017 betrifft nur den italienischen Text ([AS 2017 2291](https://fedlex.data.admin.ch/eli/oc/2017/214)).
-[^49a-2]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^49a-2]: [SR 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
 
 #### Art. 50
 
@@ -1673,7 +1720,7 @@ Ersatz-Schalldämpferanlagen müssen:
 <sup>4</sup> Unnötige lärmsteigernde Eingriffe am Fahrzeug und an dessen genehmigten Bauteilen sind untersagt, selbst wenn die zulässige Geräuschgrenze eingehalten bleibt.[^53-6]
 
 [^53-1]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608)).
-[^53-2]: [SR 814.412.2](https://fedlex.data.admin.ch/eli/cc/2007/372)
+[^53-2]: [SR 814.412.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9524)
 [^53-3]: Eingefügt durch Ziff. I der V vom 16. Jan. 2008, in Kraft seit 1. Juli 2008 ([AS 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)).
 [^53-4]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^53-5]: Fassung gemäss Ziff. I der V vom 16. Okt. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608)).
@@ -2236,7 +2283,7 @@ Das Notfallkennzeichen für Ärztefahrzeuge wird auf dem Fahrzeugdach befestigt.
 
 [^80-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^80-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^80-3]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^80-3]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^80-4]: Eingefügt durch Ziff. I der V vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 81
@@ -2662,8 +2709,8 @@ Zur Kontrolle der Arbeits- und Ruhezeit und zur Abklärung von Unfällen müssen
 <sup>6</sup> Für die Anzeige der Geschwindigkeit bei Fahrtschreibern genügt ein Bereich bis 120 km/h. Vorbehalten bleibt Artikel 55 Absatz 4.
 
 [^100-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^100-2]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^100-3]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^100-2]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^100-3]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 101
 
@@ -2687,7 +2734,7 @@ Zur Kontrolle der Arbeits- und Ruhezeit und zur Abklärung von Unfällen müssen
 
 [^101-1]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^101-2]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 15. Juli 2023 ([AS 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
-[^101-3]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^101-3]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^101-4]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 15. Juli 2023 ([AS 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
 [^101-5]: Eingefügt durch Ziff. I der V vom 9. Juni 2023, in Kraft seit 15. Juli 2023 ([AS 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
 [^101-6]: Fassung gemäss Ziff. I der V vom 9. Juni 2023, in Kraft seit 15. Juli 2023 ([AS 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
@@ -2766,7 +2813,7 @@ Ausnahmen von den Absätzen 5 und 6 sind zulässig bei:
 [^103-4]: Fassung gemäss Ziff. I der V vom 21. Aug. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)).
 [^103-5]: Eingefügt durch Ziff. I der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^103-6]: Eingefügt durch Ziff. I der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
-[^103-7]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^103-7]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^103-8]: Eingefügt durch Ziff. I der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^103-9]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^103-10]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
@@ -2817,7 +2864,7 @@ Von Absatz 4 ausgenommen sind:
 - c. Motorwagen, bei denen die Zulassungsbehörde im Einzelfall eine Ausnahme gestattet, weil das Anbringen eines vorderen Unterfahrschutzes aus technischen oder betrieblichen Gründen nicht möglich ist.
 
 [^104a-1]: Eingefügt durch Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^104a-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^104a-2]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^104a-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^104a-4]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^104a-5]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -2842,7 +2889,7 @@ Von Absatz 2 ausgenommen sind:
 - b. Militärfahrzeuge.
 
 [^104b-1]: Eingefügt durch Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^104b-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^104b-2]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^104b-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^104b-4]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
@@ -3042,7 +3089,7 @@ Mit Bewilligung der Zulassungsbehörde, durch Eintrag im Fahrzeugausweis, sind w
 [^110-7]: Fassung gemäss Anhang Ziff. 3 der V vom 25. März 1998, in Kraft seit 1. Mai 1998 ([AS 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 [^110-8]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^110-9]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^110-10]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^110-10]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^110-11]: Eingefügt durch Ziff. I der V vom 6. März 2000 ([AS 2000 1034](https://fedlex.data.admin.ch/eli/oc/2000/161)). Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^110-12]: Eingefügt durch Ziff. I der V vom 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)). Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^110-13]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
@@ -3150,7 +3197,7 @@ Fahrzeuge der Klassen M<sub>1</sub> und N<sub>1</sub> müssen bezüglich der Rec
 
 <sup>2</sup> Motorwagen mit einer bauartbedingten, zulässigen, von der Behörde oder vom Bundesrat (Art. 5 Abs. 1 Bst. b VRV[^117-1]) beschränkten Höchstgeschwindigkeit von weniger als 80 km/h müssen hinten gut sichtbar ein Höchstgeschwindigkeitszeichen mit der entsprechenden Zahl nach Anhang 4 tragen. Die Höchstgeschwindigkeit ist im Fahrzeugausweis einzutragen.[^117-2]
 
-[^117-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^117-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^117-2]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 118
@@ -3256,7 +3303,7 @@ Für Motorwagen, deren Höchstgeschwindigkeit 10 km/h nicht überschreiten kann,
 
 [^120a-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^120a-2]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^120a-3]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^120a-3]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 ### 2. Abschnitt: Gesellschaftswagen (einschliesslich Gelenk- und Trolleybusse) und Kleinbusse
 
@@ -3320,9 +3367,9 @@ Für Motorwagen, deren Höchstgeschwindigkeit 10 km/h nicht überschreiten kann,
 
 <sup>3</sup> Gesellschaftswagen und Kleinbusse benötigen Notausstiege mit einer lichten Weite von mindestens 0,60 m auf 0,43 m. Die Anzahl (n) richtet sich nach folgender Formel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image1.png)Türen zählen ebenfalls als Notausstiege. Die Notausstiege sind deutlich zu kennzeichnen und möglichst gleichmässig auf beiden Fahrzeugseiten anzuordnen. Sie müssen sich rasch und leicht öffnen oder freimachen lassen. Erforderliche Werkzeuge sind gut sichtbar und griffbereit anzuordnen.[^123-3]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image1.png)Türen zählen ebenfalls als Notausstiege. Die Notausstiege sind deutlich zu kennzeichnen und möglichst gleichmässig auf beiden Fahrzeugseiten anzuordnen. Sie müssen sich rasch und leicht öffnen oder freimachen lassen. Erforderliche Werkzeuge sind gut sichtbar und griffbereit anzuordnen.[^123-3]
 
-<sup>4</sup> In Gesellschaftswagen muss eine Bordapotheke mit noch nicht überschrittenem Ablaufdatum nach der DIN-Norm 13164 vorhanden sein.[^123-4]
+<sup>4</sup> In Gesellschaftswagen muss eine Bordapotheke mit noch nicht überschrittenem Ablaufdatum nach der DIN -Norm 13164 vorhanden sein.[^123-4]
 
 <sup>5</sup> Die Anforderungen an den Brandschutz von Gesellschaftswagen richten sich nach der Verordnung (EU) 2019/2144 oder den UNECE-Reglementen Nr. 107 und Nr. 118.[^123-5]
 
@@ -3336,13 +3383,13 @@ Für Motorwagen, deren Höchstgeschwindigkeit 10 km/h nicht überschreiten kann,
 
 **Schulbusse, Zeichen für Schülertransporte**[^123a-1]
 
-<sup>1</sup> Schulbusse sind Kleinbusse und Gesellschaftswagen mit reduzierten Platz- und Innenraumabmessungen sowie reduziertem Personengewicht. Sie werden nur zugelassen, wenn der Bericht einer anerkannten Prüfstelle nach Artikel 17 Absatz 1 TGV[^123a-2] bestätigt, dass sie für die betreffende Altersgruppe einen gleichwertigen Schutz bieten wie Kinderrückhaltesysteme nach dem UNECE-Reglement Nr. 129 oder dem UNECE-Reglement Nr. 44, abweichend von Artikel 3*a* Absatz 1 in der Fassung der Änderungsserie 03 oder einer nachfolgenden Änderungsserie.[^123a-3]
+<sup>1</sup> Schulbusse sind Kleinbusse und Gesellschaftswagen mit reduzierten Platz- und Innenraumabmessungen sowie reduziertem Personengewicht. Sie werden nur zugelassen, wenn der Prüfbericht einer anerkannten Prüfstelle nach Artikel 17 Absatz 1 TGV[^123a-2] bestätigt, dass sie für die betreffende Altersgruppe einen gleichwertigen Schutz bieten wie Kinderrückhaltesysteme nach dem UNECE-Reglement Nr. 129 oder dem UNECE-Reglement Nr. 44, abweichend von Artikel 3*a* Absatz 1 in der Fassung der Änderungsserie 03 oder einer nachfolgenden Änderungsserie.[^123a-3]
 
 <sup>2</sup> Kleinbusse und Gesellschaftswagen, die für Schülertransporte verwendet werden, dürfen vorn und hinten mit dem entsprechenden Kennzeichen nach Anhang 4 versehen sein. Dieses muss verdeckt oder entfernt werden, wenn das Fahrzeug nicht für Schülertransporte verwendet wird.
 
 [^123a-1]: Eingefügt durch Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^123a-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^123a-3]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^123a-2]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^123a-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 ### 3. Abschnitt: Sattelschlepper
 
@@ -3371,7 +3418,7 @@ Für Motorwagen, deren Höchstgeschwindigkeit 10 km/h nicht überschreiten kann,
 
 <sup>3</sup> Tankfahrzeuge zum Transport von Benzin müssen so gebaut und ausgerüstet sein, dass ein Umschlag nach Anhang 2 Ziffer 33 der LRV möglich ist.
 
-[^125-1]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^125-1]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
 [^125-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^125-3]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^125-4]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -4164,7 +4211,7 @@ Von Absatz 2 ausgenommen sind:
 [^164-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^164-2]: Aufgehoben durch Ziff. I der V vom 22. Dez. 2023, mit Wirkung seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^164-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2025, in Kraft seit 1. Mai 2025 ([AS 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
-[^164-4]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^164-4]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^164-5]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 
 #### Art. 165
@@ -4317,7 +4364,7 @@ Als Beleuchtung sind, möglichst weit aussen angebracht, erforderlich:
 
 [^175-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^175-2]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
-[^175-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Juli 2025 angepasst.
+[^175-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Juli 2025 angepasst.
 [^175-4]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^175-5]: Fassung gemäss Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^175-6]: Eingefügt durch Ziff. I der V vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
@@ -4597,7 +4644,7 @@ Die Betriebsbremse kann bestehen aus:
 
 [^182-1]: Fassung gemäss Ziff. II der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^182-2]: Fassung gemäss Ziff. II der V vom 6. Mai 1998, in Kraft seit 15. Mai 1998 ([AS 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
-[^182-3]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^182-3]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^182-4]: Eingefügt durch Ziff. I der V vom 5. April 2017, in Kraft seit 7. Mai 2017 ([AS 2017 2651](https://fedlex.data.admin.ch/eli/oc/2017/263)).
 
 #### Art. 183
@@ -4843,7 +4890,7 @@ Erlaubt sind folgende zusätzliche Vorrichtungen:[^193-1]
 [^193-7]: Eingefügt durch Ziff. I der V vom 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)). Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^193-8]: Eingefügt durch Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^193-9]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4693](https://fedlex.data.admin.ch/eli/oc/2013/827)).
-[^193-10]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^193-10]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^193-11]: Eingefügt durch Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^193-12]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 
@@ -5122,7 +5169,7 @@ Nachlaufteile gelten als Anhänger. Nachlaufteile sind:
 
 <sup>6</sup> Anhänger an Fahrrädern und Motorfahrrädern dürfen über einen eigenen Antrieb verfügen, der bis höchstens 6 km/h wirkt.[^210-6]
 
-[^210-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^210-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^210-2]: Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2473](https://fedlex.data.admin.ch/eli/oc/2015/462)).
 [^210-3]: Aufgehoben durch Ziff. I der V vom 17. Dez. 2021, mit Wirkung seit 1. April 2022 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^210-4]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
@@ -5242,7 +5289,7 @@ Nachlaufteile gelten als Anhänger. Nachlaufteile sind:
 <sup>4</sup> Richtungsblinker sind zulässig. Sie müssen gelb (Anhang 10 Ziff. 111) und paarweise symmetrisch angebracht sein. Sie müssen klar als Richtungsanzeige erkennbar sein und dürfen nicht blenden. Sind Richtungsblinker angebracht, so sind andere blinkende Lichter nicht zulässig.[^216-4]
 
 [^216-1]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Okt. 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^216-2]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^216-2]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^216-3]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4693](https://fedlex.data.admin.ch/eli/oc/2013/827)).
 [^216-4]: Eingefügt durch Ziff. I der V vom 28. März 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)). Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
@@ -5307,15 +5354,16 @@ Der gleichen Strafdrohung unterstehen die zur Selbstabnahme ermächtigten Person
 
 - a. Fahrzeuge mangelhaft ausliefern;
 - b. geänderte Fahrzeuge nicht zur amtlichen Prüfung melden;
-- c. im Prüfbericht vorsätzlich unrichtige Angaben eintragen.
+- c.[^219-6] im Prüfungsbericht vorsätzlich unrichtige Angaben eintragen.
 
 <sup>4</sup> Für Widerhandlungen in Geschäftsbetrieben durch Beauftragte und dergleichen sind die Artikel 6 und 7 VStrR anwendbar.
 
 [^219-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^219-2]: Fassung gemäss Ziff. I der V vom 28. März 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
 [^219-3]: Eingefügt durch Ziff. I der V vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^219-4]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^219-4]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^219-5]: Eingefügt durch Ziff. I der V vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)). Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^219-6]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 ### 2. Kapitel: Schlussbestimmungen
 
@@ -5501,7 +5549,7 @@ Die Bestimmungen des Artikels 106 Absatz 1 über Sicherheitsgurten gelten für:
 <sup>4</sup> Für spätere Änderungen des Gesamtgewichtes ist Artikel 7 Absatz 4 wieder anwendbar.
 
 [^222c-1]: Eingefügt durch Ziff. I der V vom 18. Sept. 2000, in Kraft seit 1. Okt. 2000 ([AS 2000 2290](https://fedlex.data.admin.ch/eli/oc/2000/362)).
-[^222c-2]: [SR 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^222c-2]: [SR 641.811](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8160)
 
 #### Art. 222d
 
@@ -5729,7 +5777,7 @@ Die Bestimmungen von Artikel 95 Absatz 2 über die zulässigen Achslasten von Mo
 <sup>5</sup> Werden Anhänger der Klasse O, die vor dem 1. Mai 2019 erstmals zum Verkehr zugelassen werden, später als Arbeitsanhänger, Anhänger an Motor- und Arbeitskarren oder land- und forstwirtschaftliche Anhänger (Art. 200–209) zugelassen oder in Betrieb genommen, so gilt hinsichtlich der Bremsanlagen das neue Recht.
 
 [^222p-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^222p-2]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^222p-2]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 222q
 
@@ -5750,7 +5798,7 @@ Motorfahrräder, die vor dem 1. April 2024 erstmals zum Verkehr zugelassen wurde
 <sup>3</sup> Das erstmalige Inverkehrbringen von Kinderrückhaltevorrichtungen nach dem UNECE-Reglement Nr. 44 ist ab dem 1. September 2024 nicht mehr zulässig.
 
 [^222r-1]: Eingefügt durch Ziff. I der V vom 9. Juni 2023, in Kraft seit 15. Juli 2023 ([AS 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
-[^222r-2]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^222r-2]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 222s
 
@@ -5777,7 +5825,7 @@ Motorfahrräder, die vor dem 1. April 2024 erstmals zum Verkehr zugelassen wurde
 <sup>10</sup> Für Fahrzeuge, die vor dem 1. April 2027 eingeführt oder in der Schweiz hergestellt werden, gilt bezüglich Anhang 9 Ziffer 312 über die Gangbreite von Gesellschaftswagen das bisherige Recht.
 
 [^222s-1]: Eingefügt durch Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. April 2024 ([AS 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^222s-2]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^222s-2]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 222t
 
@@ -6320,7 +6368,7 @@ Anhang 4[^t-3]
 ### (Art. 117 Abs. 2 sowie 62 Abs. 2, 144 Abs. 7 und 195 Abs. 5)
 
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image2.png)</td><td>Das Zeichen weist schwarze Zahlen auf weissem Grund und einen roten Rand auf.Es darf retroreflektierend sein.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image2.png)</td><td>Das Zeichen weist schwarze Zahlen auf weissem Grund und einen roten Rand auf.Es darf retroreflektierend sein.</td></tr>
 </table>
 
 <table>
@@ -6338,7 +6386,7 @@ Anhang 4[^t-3]
 ### (Art. 92 Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image3.png)</td><td>Der Grund des Zeichens ist blau, das Symbol weiss. Seitenlänge des Quadrates 8 cm Höhe des Symbols 6,5 cm Breite des Symbols 6,5 cm Strichbreite 0,4 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image3.png)</td><td>Der Grund des Zeichens ist blau, das Symbol weiss. Seitenlänge des Quadrates 8 cm Höhe des Symbols 6,5 cm Breite des Symbols 6,5 cm Strichbreite 0,4 cm</td></tr>
 </table>
 
 ### 3 Zeichen für Fahrzeuge von Gehörlosen
@@ -6346,7 +6394,7 @@ Anhang 4[^t-3]
 ### (Art. 92 Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image4.png)</td><td>Der Grund des quadratischen Zeichens (Seitenlänge gleich 8 cm) ist blau, das Symbol weiss.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image4.png)</td><td>Der Grund des quadratischen Zeichens (Seitenlänge gleich 8 cm) ist blau, das Symbol weiss.</td></tr>
 </table>
 
 ### 4 Schweizerisches Landeszeichen
@@ -6356,7 +6404,7 @@ Anhang 4[^t-3]
 Das Landeszeichen setzt sich aus den zwei lateinischen grossen Buchstaben «CH» zusammen. Sie müssen schwarz auf einer elliptischen weissen Fläche angebracht sein, deren Hauptachse waagrecht liegt.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image5.png)</td><td>Mindestmasse: Höhe der Ellipse 11,5 cm Breite der Ellipse 17,5 cm Höhe der Buchstaben 8 cm Breite der Buchstaben 4 cm Strichbreite 1 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image5.png)</td><td>Mindestmasse: Höhe der Ellipse 11,5 cm Breite der Ellipse 17,5 cm Höhe der Buchstaben 8 cm Breite der Buchstaben 4 cm Strichbreite 1 cm</td></tr>
 </table>
 
 ### 5 Zeichen für Lernfahrzeuge
@@ -6366,7 +6414,7 @@ Das Landeszeichen setzt sich aus den zwei lateinischen grossen Buchstaben «CH»
 Die quadratförmige Tafel ist möglichst senkrecht und gut sichtbar an der Rückseite des Fahrzeuges zu befestigen. Der Grund der Tafel ist von blauer, das «L» von weisser Farbe.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image6.png)</td><td></td><td colspan="2">Masse der L-Tafel für:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image6.png)</td><td></td><td colspan="2">Masse der L-Tafel für:</td></tr>
 <tr><td></td><td></td><td>vierrädrige Fahrzeuge</td><td>zwei- u. dreirädrige Fzge sowie Klein- u. Leichtmotorfzge.</td></tr>
 <tr><td></td><td>Seitenlänge des Quadrates Höhe des «L» Länge des waagrechten «L»-Striches Strichbreite des «L»</td><td>16,0 cm 10,0 cm 6,0 cm 2,0 cm</td><td>12,0 cm 8,0 cm 5,0 cm 1,5 cm</td></tr>
 </table>
@@ -6377,14 +6425,14 @@ Die quadratförmige Tafel ist möglichst senkrecht und gut sichtbar an der Rück
 
 Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müssen aus retroreflektierendem Material sein.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image7.png)
 
 ### 7 Zeichen für Schülertransporte
 
 ### (Art. 123*a* Abs. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image8.png)</td><td>Der Grund der quadratischen Tafel mit abgerundeten Ecken ist hellgelb (selektivgelb) oder gelb (orangenfarbig), das Symbol und der Rand sind schwarz. Das Symbol hat demjenigen des Gefahrensignals 1.23 zu entsprechen. Seitenlänge 40 cm Randbreite 2 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image8.png)</td><td>Der Grund der quadratischen Tafel mit abgerundeten Ecken ist hellgelb (selektivgelb) oder gelb (orangenfarbig), das Symbol und der Rand sind schwarz. Das Symbol hat demjenigen des Gefahrensignals 1.23 zu entsprechen. Seitenlänge 40 cm Randbreite 2 cm</td></tr>
 </table>
 
 ### 7*a* Beispiele für Hinweisschilder betreffend Gurtentragpflicht
@@ -6392,7 +6440,7 @@ Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müsse
 ### (Art. 3*a* Abs. 3 VRV)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image10.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image10.png)</td></tr>
 <tr><td colspan="2">Die Symbole sind weiss, der Grund blau**.**</td></tr>
 </table>
 
@@ -6402,19 +6450,19 @@ Die Anzeigetafel trägt einen weissen Pfeil auf rotem Grund; beide Farben müsse
 
 Anordnung I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image11.png)
 
 Anordnung II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image12.png)
 
 Anordnung III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image13.png)
 
 Anordnung IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image14.png)
 
 ### 9 Hintere Markierungstafeln für Anhänger und Sattelanhänger
 
@@ -6422,25 +6470,25 @@ Anordnung IV
 
 Anordnung I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image15.png)
 
 Anordnung II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image16.png)
 
 Anordnung III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image17.png)
 
 Anordnung IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image18.png)
 
 ### 10 Heckmarkierungstafel für Fahrzeuge mit einer Höchstgeschwindigkeit bis 45 km/h
 
 ### (Art. 68 Abs. 4)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image19.png)
 
 (1) rotes retroreflektierendes Material oder prismatische Rückstrahler (Klasse 1 und Klasse 2)
 
@@ -6473,10 +6521,10 @@ Können bei besonderen Fahrzeugen, namentlich bei Arbeitsfahrzeugen, wegen ihrer
 Das Zeichen ist möglichst senkrecht und gut sichtbar an der Vorder- und Rückseite des Fahrzeugs resp. der Fahrzeugkombination zu befestigen. Der Grund des quadratischen Zeichens ist rot, das «S» gelb. Die Mindestmasse betragen:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image20.png)</td><td>Seitenlänge: Höhe des «S»: Breite des «S»: Strichbreite des «S»:</td><td>25 cm <sup>2</sup>/<sub>3</sub> Seitenlänge <sup>1</sup>/<sub>2</sub> Seitenlänge <sup>1</sup>/<sub>10</sub> Seitenlänge</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image20.png)</td><td>Seitenlänge: Höhe des «S»: Breite des «S»: Strichbreite des «S»:</td><td>25 cm <sup>2</sup>/<sub>3</sub> Seitenlänge <sup>1</sup>/<sub>2</sub> Seitenlänge <sup>1</sup>/<sub>10</sub> Seitenlänge</td></tr>
 </table>
 
-[^annex4-lvlu1-lvl11-1]: [SR 741.631](https://fedlex.data.admin.ch/eli/cc/2002/475)
+[^annex4-lvlu1-lvl11-1]: [SR 741.631](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8693)
 
 Anhang 5[^t-4]
 
@@ -6551,7 +6599,7 @@ Anhang 5[^t-4]
 - 216 Die Ziffern 211, 211*a*, 211*b*, 211*c*, 212, 213 und 215 gelten auch für Fahrzeuge, die von der Typengenehmigungspflicht befreit sind.
 
 [^annex5-lvlu1-lvl2-lvl21-1]: SR**814.318.142.1**
-[^annex5-lvlu1-lvl2-lvl21-2]: [SR 741.435.4](https://fedlex.data.admin.ch/eli/cc/1986/1889_1889_1889)
+[^annex5-lvlu1-lvl2-lvl21-2]: [SR 741.435.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8659)
 
 ### 22 Einzelprüfungen
 
@@ -6615,7 +6663,7 @@ Anhang 6[^t-5]
 - 114 Druckluftgeräusche werden nach Ziffer 4 im Stand gemessen.
 - 115 Die Ziffern 111–114 gelten auch für die Einzelprüfung vor der ersten Inverkehrsetzung von Fahrzeugen, die von der Typengenehmigungspflicht befreit sind.
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [SR 814.412.2](https://fedlex.data.admin.ch/eli/cc/2007/372)
+[^annex6-lvlu1-lvl1-lvl11-1]: [SR 814.412.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9524)
 
 ### 12 Einzelprüfungen
 
@@ -6632,7 +6680,7 @@ Die Überprüfung der Fahrzeuge betreffend deren Übereinstimmung mit den Vorsch
 - 211 Für die Messmittel, die zur Geräuschmessung verwendet werden, gelten die Messmittelverordnung vom 15. Februar 2006[^annex6-lvlu1-lvl2-lvl21-1] und die entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements.
 - 212 Die Messung erfolgt durch die Schallpegel-Bewertung mit der A-Kurve (L<sub>A</sub>) bei der Anzeigegeschwindigkeit «schnell»; das Ergebnis wird in Dezibel(A)-Einheiten, kurz dB(A), ausgedrückt.
 
-[^annex6-lvlu1-lvl2-lvl21-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^annex6-lvlu1-lvl2-lvl21-1]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 ### 22 Drehzahlmessgeräte
 
@@ -6663,7 +6711,7 @@ Abbildung 1
 
 **Messanordnung für die Vorbeifahrtmessung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image21.png)
 
 ### 34 Messanordnung
 
@@ -6698,7 +6746,7 @@ Abbildung 1
 - 351\.212 Leichte Motorwagen mit einem Getriebe, das mehr als vier Abstufungen (Vorwärtsfahrmöglichkeiten) aufweist, werden nacheinander in der zweiten und dritten Abstufung geprüft. Dabei sind lediglich diejenigen Gesamtübersetzungsverhältnisse zu berücksichtigen, die für normalen Strassenbetrieb bestimmt sind. Aus den beiden ermittelten Schallpegeln wird das arithmetische Mittel gebildet.
 - 351\.213 Schwere Motorwagen, bei denen die Anzahl Abstufungen (Vorwärtsfahrmöglichkeiten) X beträgt (einschliesslich derjenigen Abstufungen, die durch ein Zusatzgetriebe oder durch eine Achse mit mehreren Überset-
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image22.png)
 
 - nächsten darüber gelegene Abstufung für die erste Messung zu wählen). Massgebend ist der dabei gemessene höchste Schallpegel.
 - 351\.214 Bei leichten Motorwagen sind allfällig vorhandene Geländegänge (Ziff. 351.215) weder für die Bestimmung der Anzahl Abstufungen noch für die Wahl der Abstufung für die Prüfung zu berücksichtigen. Bei schweren Motorwagen sind Abstufungen, die nur mit eingeschaltetem Zusatzantrieb (Ziff. 333) eingelegt werden können oder die diesen automatisch einschalten, für die Prüfung nicht zu berücksichtigen.
@@ -6724,16 +6772,16 @@ Abbildung 1
 <tr><th>Fahrzeugart/Geräuschquelle</th><th>Grenzwert in dB(A)</th></tr>
 <tr><td>1. Motorfahrräder</td><td>66</td></tr>
 <tr><td>2. Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge siehe Ziffer 111.3</td><td></td></tr>
-<tr><td>3. Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge mit elektrischem Antrieb und einer Motorleistung: ≤ 4 kW &gt; 4 kW</td><td>[tab] [tab] 71 75</td></tr>
+<tr><td>3. Motorräder, Leicht-, Klein- und dreirädrige Motorfahrzeuge mit elektrischem Antrieb und einer Motorleistung: ≤ 4 kW &gt; 4 kW</td><td>71 75</td></tr>
 <tr><td>4. Leichte Motorwagen, ausgenommen Fahrzeuge nach den Ziffern 8–10, mit einer bauartbedingten Höchst- geschwindigkeit von über 25 km/h siehe Ziffer 111.1</td><td></td></tr>
 <tr><td>5. Leichte Motorwagen, ausgenommen Fahrzeuge nach den Ziffern 8–10, mit einer bauartbedingten Höchst- geschwindigkeit von höchstens 25 km/h</td><td>77</td></tr>
 <tr><td>6. Schwere Motorwagen, ausgenommen Fahrzeuge nach den Ziffern 8–10, mit einer bauartbedingten Höchstgeschwindigkeit von über 25 km/h siehe Ziffer 111.1</td><td></td></tr>
 <tr><td>7. Schwere Motorwagen, ausgenommen Fahrzeuge nach den Ziffern 8–10, mit einer bauartbedingten Höchstgeschwindigkeit von höchstens 25 km/h und einer Motorleistung: ≤ 75 kW &gt; 75 kW – ≤ 150 kW &gt; 150 kW</td><td>80 82 84</td></tr>
 <tr><td>8. Arbeitsmotorwagen mit einer bauartbedingten Höchstgeschwindigkeit von: ≤ 30 km/h &gt; 30–≤ 45 km/h &gt; 45 km/h</td><td>85 86 87</td></tr>
-<tr><td>9. Motorkarren mit einer Motorleistung:</td><td>[tab]</td></tr>
+<tr><td>9. Motorkarren mit einer Motorleistung:</td><td></td></tr>
 <tr><td>≤ 150 kW</td><td>84</td></tr>
 <tr><td>&gt; 150 kW</td><td>86</td></tr>
-<tr><td>10. Traktoren (siehe Ziffer 111.2)</td><td>[tab]</td></tr>
+<tr><td>10. Traktoren (siehe Ziffer 111.2)</td><td></td></tr>
 </table>
 
 ### 4 Standmessung sowie Messung von Druckluftgeräuschen
@@ -6770,7 +6818,7 @@ Abbildung 2
 
 **Messanordnung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image23.png)
 
 - 422 Betriebszustand
 - 422\.1 Die Geräuschmessung ist, ausgenommen bei Fahrzeugen nach Ziffer 422.2, bei Dreiviertel der stabilisierten höchsten Drehzahl der grössten Motornutzleistung durchzuführen. Ist die Messung technisch nicht möglich, ist bei der noch stabilisierbaren Drehzahl zu messen, die der vorgeschriebenen Drehzahl am nächsten liegt.
@@ -6807,7 +6855,7 @@ Abbildung 6
 
 **Messanordnung**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image24.png)
 
 - 442 Betriebszustand
 - 442\.1 Die Druckluftanlage muss vor jeder Messung auf den höchsten Betriebsdruck gebracht werden; die Messung erfolgt bei abgestelltem Motor.
@@ -6826,7 +6874,7 @@ Anhang 7[^t-6]
 
 ## Bremsen Prüfverfahren und Wirkvorschriften
 
-[^t-6]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), vom 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21 Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)) vom 15. April 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), Ziff. II der V vom 17. Dez. 2021 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)), vom 15. Jan. 2025 ([AS 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)) und vom 13. Dez. 2024, in Kraft seit 1. Juli 2025 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^t-6]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 1998 ([AS 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), vom 6. Sept. 2000 ([AS 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), vom 21 Aug. 2002 ([AS 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), Ziff. II Abs. 1 der V vom 10. Juni 2005 ([AS 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), vom 14. Okt. 2009 ([AS 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), Ziff. II der V vom 2. März 2012 ([AS 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), Ziff. II Abs. 2 der V vom 21. Jan. 2015 ([AS 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)) vom 15. April 2015 ([AS 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), Ziff. II Abs. 1 der V vom 16. Nov. 2016 ([AS 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), vom 21. Nov. 2018 ([AS 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), Ziff. II der V vom 17. Dez. 2021 ([AS 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)), vom 15. Jan. 2025 ([AS 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)), vom 13. Dez. 2024 ([AS 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)) und vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 ### 1 Prüfverfahren für Fahrzeuge, die unter internationale Vorschriften fallen
 
@@ -6906,7 +6954,7 @@ Für Fahrzeuge der Klasse M<sub>1</sub> mit besonderer Zweckbestimmung (Verordnu
 
 Die Wirksamkeit der Bremsen kann insbesondere auch anlässlich der Nachprüfung über die Abbremsung nach dem folgenden Verfahren ermittelt werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image25.png)
 
 ### 21 Fahrzeuge der Klassen M, N, T und C
 
@@ -7045,7 +7093,7 @@ Die Bremsprüfungen nach den Ziffern 211, 212 und 214 sind mit ausgekuppeltem Mo
 - 311\.1 Die Bremsverzögerung muss vom leeren und vom beladenen Fahrzeug auf ebener Strasse mit trockenem Hartbelag erreicht werden. Die Bremswirkung muss bei kalten Bremsen (Temperatur an den Bremstrommeln oder Bremsscheiben unter 100 °C) erreicht werden. Gemessen wird die mittlere Verzögerung, die definiert ist als die durchschnittliche Geschwindigkeitsminderung in m/s<sup>2</sup> auf der Strecke, die vom Beginn der Betätigung der Bremsanlage (inklusive der Ansprech- und Schwellzeit) bis zum Stillstand des Fahrzeuges zurückgelegt wird. Kann mit einem Messgerät nur die maximale Verzögerung ermittelt werden, so muss sie mindestens 20 Prozent höher sein als die vorgeschriebene mittlere Verzögerung.
 - Die Wirksamkeit der Bremsen kann, insbesondere anlässlich der Nachprüfung, über die Abbremsung nach dem folgenden Verfahren ermittelt werden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image26.png)
 
 - 311\.2 Prüfgeschwindigkeit
 - Die Prüfgeschwindigkeit für die Prüfung der Betriebsbremse beträgt 50 km/h und für die Prüfung der Hilfsbremse 30 km/h. Erreicht ein Fahrzeug diese Geschwindigkeiten nicht, so ist es bei der möglichen Höchstgeschwindigkeit zu prüfen.
@@ -7150,9 +7198,9 @@ Für diese Fahrzeuge wird die Typengenehmigung oder das Datenblatt ausgestellt, 
 - 412\.1 alle Ausgangsdaten, den Rechengang für die Festhaltewirkung und die Überprüfung des Reibungsbedarfs;
 - 412\.2 je nach Ausführung der Feststellbremsanlage entweder die Funktion «Kraftabgabe am Ende der Gewindespindel» (FSp) in Abhängigkeit von der «eingeleiteten Handkraft» oder die «Zylinderkraft an der Kolbenstange des Federspeicherzylinders» (F<sub>B</sub>).
 - 413 Der Nachweis über die Erfüllung der Bremsprüfungen Typ I, Typ II, Typ IIA oder Typ III muss durch Berechnungen, die mittels der dazugehörigen Prüfprotokolle der Bezugsachsen erstellt wurden, erbracht werden.
-- 414 Die Nachweise bezüglich der Zeitmessungen (Ansprech- und Schwellzeit) und der Behälterprüfungen müssen mittels Vorlage von Prüfungsberichten (Messungen an entsprechender Standard-Druckluftbremsanlage oder am Fahrzeug) erbracht werden.
+- 414 Die Nachweise bezüglich der Zeitmessungen (Ansprech- und Schwellzeit) und der Behälterprüfungen müssen mittels Vorlage von Prüfberichten (Messungen an entsprechender Standard-Druckluftbremsanlage oder am Fahrzeug) erbracht werden.
 
-[^annex7-lvlu1-lvl4-lvl41-1]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^annex7-lvlu1-lvl4-lvl41-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 ### 42 Prüfverfahren
 
@@ -7251,7 +7299,7 @@ Bei land- und forstwirtschaftlichen Traktoren beträgt die freie Höhe für die 
 <tr><td>– schwere Motorwagen (ausgenommen Gesellschaftswagen)</td><td>[tab] 0,45 m</td><td>[tab] 0,38 m</td></tr>
 <tr><td>– Kleinbusse</td><td>[tab] 0,45 m</td><td>[tab] 0,40 m</td></tr>
 <tr><td>– Schulbusse</td><td>[tab] 0,30 m</td><td>[tab] 0,30 m</td></tr>
-<tr><td>– Gesellschaftswagen siehe Ziffern 331.1 und 331.2</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>– Gesellschaftswagen siehe Ziffern 331.1 und 331.2</td><td></td><td></td></tr>
 </table>
 
 ### 23 Lenkradabstand
@@ -7370,7 +7418,7 @@ Die Grundfläche eines Stehplatzes muss mindestens 0,125 m<sup>2</sup> betragen.
 
 - 341 Die Gesamtzahl der Plätze (N) ist wie folgt zu berechnen:
 
-<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image27.png)
+<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image27.png)
 
 - 342 N = Gesamtanzahl der Plätze
   - [tab] A = Anzahl Sitzplätze
@@ -7554,11 +7602,6 @@ Anhang 10[^t-9]
 <tr><td>nach hinten</td><td>50</td><td colspan="2">350</td></tr>
 <tr><td>– gemäss Anordnung III</td><td></td><td colspan="2"></td></tr>
 <tr><td>nach vorn</td><td>175</td><td colspan="2">700</td></tr>
-<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab]</td><td></td><td colspan="2"></td></tr>
 <tr><td>nach hinten</td><td>0,3</td><td colspan="2">200</td></tr>
 <tr><td>– gemäss Anordnung IV</td><td>0,3</td><td colspan="2">200</td></tr>
 <tr><td colspan="4">\* Sind Schluss- und Bremslichter gleicher Farbe in einer Vorrichtung vereinigt, so muss die Lichtstärke des Bremslichtes fünfmal grösser sein als diejenige des Schlusslichtes.</td></tr>
@@ -7590,31 +7633,31 @@ Anhang 10[^t-9]
 Anordnung I
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image28.png)</td><td>Nur für Fahrzeuge bis 4 m Länge zulässig, die nicht den Klassen M oder N angehören.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image28.png)</td><td>Nur für Fahrzeuge bis 4 m Länge zulässig, die nicht den Klassen M oder N angehören.</td></tr>
 </table>
 
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image29.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image29.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig</td></tr>
 </table>
 
 Anordnung III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image30.png)</td><td>Nur für Fahrzeuge zulässig, die nicht den Klassen M oder N angehören. Distanz der Blinker vom vorderen Fahrzeugrand höchstens 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image30.png)</td><td>Nur für Fahrzeuge zulässig, die nicht den Klassen M oder N angehören. Distanz der Blinker vom vorderen Fahrzeugrand höchstens 1,80 m</td></tr>
 </table>
 
 Anordnung IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image31.png)</td><td>Für alle Fahrzeuge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image31.png)</td><td>Für alle Fahrzeuge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m</td></tr>
 </table>
 
 Anordnung V
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image32.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m. Die leuchtende Fläche der mitblinkenden seitlichen Markierlichter muss mindestens je 12,5 cm<sup>2</sup> betragen.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image32.png)</td><td>Nur für Fahrzeuge bis 6 m Länge zulässig. Distanz der seitlichen Blinker vom vorderen Fahrzeugrand höchstens 2,50 m. Die leuchtende Fläche der mitblinkenden seitlichen Markierlichter muss mindestens je 12,5 cm<sup>2</sup> betragen.</td></tr>
 </table>
 
 ### 52 Motorräder
@@ -7624,31 +7667,39 @@ Anordnung I …
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image33.png)</td><td>Minimalabstand zwischen den Blinkern vorne 24 cm hinten 18 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image33.png)</td><td>Minimalabstand zwischen den Blinkern vorne 24 cm hinten 18 cm</td></tr>
 </table>
 
 ### 53 Motorräder mit Seitenwagen
+
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image34.png)</td><td></td></tr>
+</table>
 
 ### 54 Land- und forstwirtschaftliche Traktoren
 
 Anordnung I
 
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image35.png)</td><td></td></tr>
+</table>
+
 Anordnung II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image36.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image36.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 1,80 m</td></tr>
 </table>
 
 Anordnung III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image37.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 2,60 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image37.png)</td><td>Der Wert von 5° für den toten Winkel der Sichtbarkeit des seitlichen Zusatz-Richtungsblinkers nach hinten ist eine obere Grenze. Dieser Wert kann auf 10° erhöht werden, wenn 5° nicht eingehalten werden können. d ≤ 2,60 m</td></tr>
 </table>
 
 Anordnung IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image38.png)</td><td>Der Wert von 10° für die Sichtbarkeit der vorderen Richtungsblinker nach innen kann bei Fahrzeugen mit einer Breite über alles von nicht mehr als 1,40 m auf 3° verringert werden.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image38.png)</td><td>Der Wert von 10° für die Sichtbarkeit der vorderen Richtungsblinker nach innen kann bei Fahrzeugen mit einer Breite über alles von nicht mehr als 1,40 m auf 3° verringert werden.</td></tr>
 </table>
 
 Kategorien der Richtungsblinker:
@@ -7660,7 +7711,7 @@ Kategorien der Richtungsblinker:
 ### 55 Anhänger
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image39.png)</td><td>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image39.png)</td><td>.</td></tr>
 </table>
 
 ### 6 Sichtwinkel für Stand‑, Schluss‑, Brems‑, Markier‑, Park- und Nebelschlusslichter
@@ -7670,25 +7721,25 @@ Kategorien der Richtungsblinker:
 
 ### 63 Für Stand- und Schlusslichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image40.png)
 
 - Bei Fahrzeugen der Klassen M<sub>1</sub> und N<sub>1</sub> können die horizontalen Sichtwinkel nach aussen auf 45° reduziert werden, wenn vorne bzw. hinten ergänzende seitliche Markierlichter mit einer Leuchtfläche von mindestens je 12,5 cm<sup>2</sup> angebracht sind. Bei Anhängern muss der innere Sichtwinkel mindestens 5° betragen
 
 ### 64 Für Bremslichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image41.png)
 
 ### 65 Für das zusätzliche Bremslicht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image42.png)
 
 ### 66 Für Parklichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image43.png)
 
 ### 67 Für Nebelschlusslichter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image44.png)
 
 ### 7 Einstellung
 
@@ -7699,7 +7750,7 @@ Kategorien der Richtungsblinker:
 - 713 Die Horizontallinie der Kontrollwand muss sich auf gleicher Höhe über dem Boden, die Vertikallinie in gleichem seitlichem Abstand von der Fahrzeuglängsachse befinden wie der Glühfaden des zu prüfenden Lichtes.
 - 714 Bei Fahrzeugen, deren Anbau der Beleuchtungseinrichtungen nach anerkannten internationalen Vorschriften genehmigt ist, richtet sich die Einstellung nach diesen Vorschriften.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/de/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/de/xml/image/image45.png)
 
 ### 72 Fernlichter
 
@@ -7819,7 +7870,7 @@ Anhang 12[^t-11]
 
 - **13** Soweit Ausrüstungen, die in Fahrzeugen montiert oder benutzt werden können, in dieser Verordnung nicht geregelt sind, gilt die Verordnung vom 25. November 2015[^annex12-lvlu1-lvl1-1] über die elektromagnetische Verträglichkeit.
 
-[^annex12-lvlu1-lvl1-1]: [SR 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^annex12-lvlu1-lvl1-1]: [SR 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 Anhang 13[^t-12]
 

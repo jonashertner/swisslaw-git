@@ -4,11 +4,11 @@ title: Ordinanza del 19 giugno 1995 concernente le esigenze tecniche per i veico
 short: OETV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20250701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4425_4425_4425-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it"
 
 (OETV)
 
-del 19 giugno 1995 (Stato 1° luglio 2025)
+del 19 giugno 1995 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 8, 9 capoversi 1<sup>bis</sup>, 2 e 3, 13 capoversi 2 e 4, 18
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 ## Parte prima: Disposizioni generali
@@ -41,15 +41,16 @@ ordina:
 La presente ordinanza disciplina:
 
 - a. i criteri per la classificazione dei veicoli stradali;
-- b. l’esame d’immatricolazione, l’esame successivo e la manutenzione del sistema antinquinamento dei veicoli stradali;
+- b. l’esame d’immatricolazione, l’esame successivo[^1-2] e la manutenzione del sistema antinquinamento dei veicoli stradali;
 - c. le esigenze tecniche per i veicoli stradali.
 
 <sup>2</sup> I veicoli che sono utilizzati anche su rotaie, sull’acqua o nell’aria sottostanno alla presente ordinanza quando circolano sulle strade pubbliche senza bisogno di binari.
 
-<sup>3</sup> All’immissione sul mercato di veicoli non soggetti a immatricolazione e di loro componenti e oggetti d’equipaggiamento si applicano a titolo completivo le prescrizioni della legge federale del 12 giugno 2009[^1-2] sulla sicurezza dei prodotti.
+<sup>3</sup> All’immissione sul mercato di veicoli non soggetti a immatricolazione e di loro componenti e oggetti d’equipaggiamento si applicano a titolo completivo le prescrizioni della legge federale del 12 giugno 2009[^1-3] sulla sicurezza dei prodotti.
 
 [^1-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^1-2]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-2]: Nuova espr. giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)). Di detta mod. é tenuto conto in tutto il presente testo, eccetto all’all. 5 n. 22. Correzione del 10 nov. 2025 ([RU 2025 691](https://fedlex.data.admin.ch/eli/oc/2025/691)).
+[^1-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 1a
 
@@ -65,7 +66,7 @@ I veicoli a cuscino d’aria, con propulsore a elica o a reattore e altri veicol
 
 L’approvazione del tipo di veicoli e oggetti per cui nella presente ordinanza sono definite le esigenze tecniche si fonda sull’ordinanza del 19 giugno 1995[^2-1] concernente l’approvazione del tipo di veicoli stradali (OATV).
 
-[^2-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^2-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 3
 
@@ -136,42 +137,42 @@ Per i testi legislativi sono impiegate le abbreviazioni seguenti:[^3-16]
 [^3-7]: Nuovo testo giusta la cifra I n. 3 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
 [^3-8]: Nuovo testo giusta la cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1677](https://fedlex.data.admin.ch/eli/oc/2006/262)).
 [^3-9]: Introdotta dalla cifra I dell’O del 29 mar. 2006, in vigore dal 1° nov. 2006 ([RU 2006 1677](https://fedlex.data.admin.ch/eli/oc/2006/262)).
-[^3-10]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-10]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^3-11]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^3-12]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^3-13]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-14]: Abrogata dalla cifra I dell’O del 16 nov. 2016, con effetto dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-15]: Introdotta dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-16]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^3-17]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^3-17]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^3-18]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^3-19]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^3-19]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^3-20]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^3-21]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
+[^3-21]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
 [^3-22]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^3-23]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^3-23]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 [^3-24]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^3-25]: [RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)
-[^3-26]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^3-27]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
-[^3-28]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^3-29]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
+[^3-25]: [RS 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)
+[^3-26]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^3-27]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
+[^3-28]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^3-29]: [RS 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)
 [^3-30]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^3-31]: [RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
-[^3-32]: [[RU 1986 1836](https://fedlex.data.admin.ch/eli/oc/1986/1836_1836_1836), [1987 1168](https://fedlex.data.admin.ch/eli/oc/1987/1168_1168_1168), [1990 1488](https://fedlex.data.admin.ch/eli/oc/1990/1488_1488_1488), [1993 3127](https://fedlex.data.admin.ch/eli/oc/1993/3127_3127_3127), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra IV, [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 7, [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 11. [RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra I n. 76]
+[^3-31]: [RS 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)
+[^3-32]: [[RU 1986 1836](https://fedlex.data.admin.ch/eli/oc/1986/1836_1836_1836); [1987 1168](https://fedlex.data.admin.ch/eli/oc/1987/1168_1168_1168); [1990 1488](https://fedlex.data.admin.ch/eli/oc/1990/1488_1488_1488); [1993 3127](https://fedlex.data.admin.ch/eli/oc/1993/3127_3127_3127); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra IV; [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 7; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 11. [RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra I n. 76]
 [^3-33]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^3-34]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
-[^3-35]: [RS 741.435.4](https://fedlex.data.admin.ch/eli/cc/1986/1889_1889_1889)
-[^3-36]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^3-37]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^3-34]: [RS 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
+[^3-35]: [RS 741.435.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8659)
+[^3-36]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^3-37]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^3-38]: Nuovo testo giusta l’art. 29 cpv. 2 n. 2 dell’O del 29 nov. 2002 concernente il trasporto di merci su strada, in vigore dal 1° gen. 2003 ([RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)).
-[^3-39]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^3-40]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^3-41]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^3-39]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^3-40]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
+[^3-41]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 [^3-42]: Nuovo testo giusta il n. 3 dell’all. dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^3-43]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^3-43]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^3-44]: Introdotta dalla cifra I dell’O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^3-45]: [RS 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)
+[^3-45]: [RS 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652)
 [^3-46]: Introdotta dalla cifra I dell’O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)). Abrogata dalla cifra I dell’O del 16 nov. 2016, con effetto dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^3-47]: Introdotta dalla cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^3-48]: Abrogati dalla cifra I dell’O del 2 mar. 2012, con effetto dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
@@ -225,7 +226,7 @@ Se su un veicolo già in circolazione viene installata un’unità di propulsion
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^4-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^4-3]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^4-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^4-4]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^4-5]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 #### Art. 5
@@ -326,7 +327,7 @@ Il «peso a vuoto» è il peso del veicolo scarico, pronto all’uso, con liquid
 [^9-1]: Nuovo testo giusta la cifra II dell’O del 6 mag. 1998, in vigore dal 15 mag. 1998 ([RU 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^9-2]: Introdotto dalla cifra I dell’O del 6 set. 2000, in vigore dal 15 ott. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)).
 [^9-3]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^9-4]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^9-4]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^9-5]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 9a
@@ -491,12 +492,12 @@ Gli autoveicoli di lavoro si suddividono come segue:
 
 <sup>4</sup> Gli autoveicoli di lavoro possono essere immatricolati come autoveicoli di trasporto se rispettano tutte le prescrizioni ad essi applicabili e se le attrezzature di lavoro non riducono considerevolmente la visuale del conducente e non ostacolano la circolazione. [^13-9]
 
-[^13-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^13-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^13-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^13-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^13-4]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^13-5]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^13-6]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^13-6]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 [^13-7]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)). La correzione del 19 feb. 2019 concerne soltanto il testo francese ([RU 2019 685](https://fedlex.data.admin.ch/eli/oc/2019/119)).
 [^13-8]: Nuova espr. giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^13-9]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
@@ -713,7 +714,7 @@ Sono equiparati a questi rimorchi:
 [^22-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^22-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^22-4]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^22-5]: [RS 725.111](https://fedlex.data.admin.ch/eli/cc/2007/796)
+[^22-5]: [RS 725.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8454)
 
 #### Art. 23
 
@@ -818,7 +819,7 @@ I seguenti veicoli con larghezza eccessiva possono circolare senza permesso e no
 
 [^28-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)).
 [^28-2]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^28-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^28-3]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^28-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 28a
@@ -853,28 +854,47 @@ I veicoli su cui vengono montati temporaneamente, in caso di necessità, disposi
 
 <sup>4</sup> Le modifiche apportate ai veicoli tra l’esame d’immatricolazione e l’immatricolazione vanno notificate all’autorità preposta e controllate secondo l’articolo 34 capoverso 2.
 
-[^29-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^29-2]: [RS 745.11](https://fedlex.data.admin.ch/eli/cc/2009/739)
-
-#### Art. 30
-
-**Esame di veicoli nuovi: esame amministrativo**
-
-<sup>1</sup>
-
-La prova di conformità di veicoli nuovi alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita mediante:
-
-- a. un rapporto di perizia compilato e firmato dal titolare dell’approvazione del tipo o della scheda tecnica; oppure
-- b.[^30-1] …
-
-<sup>2</sup>
+<sup>5</sup>
 
 Si considerano nuovi i veicoli:
 
 - a. immatricolati per la prima volta;
-- b. immatricolati all’estero da non più di anno, se il chilometraggio non è superiore a 2000 km o le ore di servizio non sono più di 70.
+- b. immatricolati all’estero da non più di un anno, se il chilometraggio non è superiore a 2000 km o le ore di servizio non sono più di 70.[^29-3]
 
-[^30-1]: Non ancora in vigore.
+<sup>6</sup> Si considerano completi i veicoli che non necessitano di completamento per soddisfare le esigenze tecniche specifiche della presente ordinanza.[^29-4]
+
+<sup>7</sup> Si considerano completati i veicoli che costituiscono il risultato di diversi stadi di produzione e soddisfano le esigenze tecniche specifiche della presente ordinanza.[^29-5]
+
+[^29-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^29-2]: [RS 745.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8887)
+[^29-3]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^29-4]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^29-5]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+
+#### Art. 30
+
+**Esame di veicoli nuovi: esame amministrativo**[^30-1]
+
+<sup>1</sup>
+
+Per le automobili ai sensi dell’articolo 11 capoverso 2 lettera a nuove e complete, la prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita mediante:
+
+- a. un rapporto di perizia compilato e firmato dal titolare dell’approvazione del tipo o della scheda tecnica; oppure
+- b. un rapporto di perizia, basato su un set di dati elettronico del singolo veicolo (art. 72*b* OAC[^30-2]), compilato e firmato dall’importatore.
+
+<sup>2</sup>
+
+Per i seguenti veicoli, la prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita mediante un rapporto di perizia compilato e firmato dal titolare dell’approvazione del tipo o della scheda tecnica:
+
+- a. autoveicoli leggeri nuovi e completi, escluse le automobili di cui al capoverso 1;
+- b. rimorchi nuovi e completi con un peso totale fino a 3,50 t;
+- c. motoveicoli nuovi e completi;
+- d. quadricicli leggeri a motore, quadricicli a motore e tricicli a motore nuovi e completi.
+
+<sup>3</sup> L’USTRA può prevedere l’esame amministrativo per altri generi di veicoli.
+
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^30-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 30a
 
@@ -882,37 +902,53 @@ Si considerano nuovi i veicoli:
 
 <sup>1</sup>
 
-Se un veicolo nuovo è sprovvisto dei documenti di cui all’articolo 30 capoverso 1 la prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita come segue:
+Per i veicoli nuovi completi o completati non rientranti nell’articolo 30, per i veicoli ai sensi dell’articolo 30 capoverso 2 sprovvisti di approvazione del tipo e di scheda tecnica, nonché per le automobili ai sensi dell’articolo 11 capoverso 2 lettera a nuove e complete sprovviste dei documenti di cui all’articolo 30 capoverso 1, la prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita mediante:
 
-- a. in presenza di un certificato di conformità UE in formato cartaceo, per le automobili e gli autoveicoli adibiti ad abitazione con un peso totale fino a 3,50 t viene effettuato un esame di identificazione, per gli altri veicoli un controllo di funzionamento;
-- b.
+- a.
 
-  in assenza di un certificato di conformità UE in formato cartaceo, viene effettuato un controllo di funzionamento nel caso in cui:
+  un certificato di conformità UE in formato cartaceo e un esame di identificazione:
 
-  - 1\. siano disponibili una dichiarazione di conformità secondo il regolamento UNECE n. 0 nonché tutte le altre approvazioni richieste a completamento in base al corrispondente atto giuridico UE relativo all’approvazione generale,
-  - 2\. siano disponibili approvazioni o marchi di conformità rilasciati da Stati esteri in base al diritto nazionale o internazionale di cui all’allegato 2 o almeno equivalente alle prescrizioni svizzere,
-  - 3\. siano presenti dichiarazioni di conformità ai sensi degli articoli 2 lettera f e 14 OATV[^30a-1],
-  - 4\.[^30a-2] siano disponibili rapporti di perizia redatti secondo le prescrizioni di cui all’allegato 2 da organi di controllo riconosciuti ai sensi dell’articolo 17 capoverso 1 OATV, oppure
-  - 5\. i detentori godano di privilegi e immunità diplomatici o consolari.
+  - 1\. per le automobili ai sensi dell’articolo 11 capoverso 2 lettera a,
+  - 2\. per gli autoveicoli adibiti ad abitazione completi con un peso totale fino a 3,50 t;
+
+- b. un set di dati elettronico del singolo veicolo (art. 72*b* OAC[^30a-1]) e un controllo di funzionamento: per gli autoveicoli adibiti ad abitazione completi con un peso totale fino a 3,50 t;
+- c. un certificato di conformità UE in formato cartaceo, un set di dati elettronico del singolo veicolo (art. 72*b* OAC), un’approvazione del tipo o una scheda tecnica nonché un controllo di funzionamento: per tutti gli altri veicoli completi o completati;
+- d.
+
+  se non è disponibile un certificato di conformità UE in formato cartaceo né un set di dati elettronico del singolo veicolo (art. 72*b* OAC), un controllo di funzionamento e i seguenti documenti:
+
+  - 1\. una dichiarazione di conformità secondo il regolamento UNECE n. 0 nonché tutte le altre approvazioni richieste a completamento in base al pertinente atto giuridico UE relativo all’approvazione generale,
+  - 2\. approvazioni o marchi di conformità rilasciati da Stati esteri in base al diritto nazionale o internazionale figurante nell’allegato 2 o almeno equivalente alle prescrizioni svizzere,
+  - 3\. dichiarazioni di conformità riconosciute in base all’articolo 14 OATV[^30a-2],
+  - 4\. rapporti di esame redatti secondo le prescrizioni di cui all’allegato 2 da organi di controllo riconosciuti secondo l’articolo 17 capoverso 1 OATV.[^30a-3]
+
+<sup>1bis</sup> Se il detentore del veicolo gode di privilegi e immunità diplomatici o consolari, nel caso del capoverso 1 lettera d è sufficiente un controllo di funzionamento come prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento.[^30a-4]
 
 <sup>2</sup> Il controllo di funzionamento si limita ai dispositivi più importanti, quali sterzo, freni e illuminazione, e ai dispositivi di agganciamento di veicoli trattori e rimorchi.
 
-<sup>3</sup> La prova dell’equivalenza di cui al capoverso 1 lettera b numero 2 deve essere fornita dal richiedente.
+<sup>3</sup> La prova dell’equivalenza di cui al capoverso 1 lettera d numero 2 deve essere fornita dal richiedente.[^30a-5]
 
-[^30a-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^30a-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
+[^30a-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^30a-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^30a-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^30a-4]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^30a-5]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 30b
 
-**Esame di veicoli nuovi: esame tecnico completo**
+**Esame di veicoli nuovi: esame tecnico completo**[^30b-1]
 
-Se un veicolo nuovo è sprovvisto dei documenti di cui all’articolo 30 capoverso 1 e non sono soddisfatti i requisiti di cui all’articolo 30*a*, la prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita mediante un esame tecnico completo. Si verifica in particolare il rispetto delle prescrizioni sui gas di scarico e sui rumori e lo stato di corretto funzionamento per l’uso al quale il veicolo è destinato.
+Se un veicolo nuovo completo o completato è sprovvisto dei documenti di cui all’articolo 30 capoverso 1 e non sono soddisfatti i requisiti di cui all’articolo 30*a*, la prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita mediante un esame tecnico completo. Si verifica in particolare il rispetto delle prescrizioni sui gas di scarico e sui rumori e lo stato di corretto funzionamento per l’uso al quale il veicolo è destinato.
+
+[^30b-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 30c
 
-**Esame di veicoli nuovi: esame tecnico di parti o modifiche di veicoli**
+**Esame di veicoli nuovi: esame tecnico di parti o modifiche di veicoli**[^30c-1]
 
-Per i veicoli provvisti soltanto di una parte dei documenti di cui all’articolo 30*a* lettera b numeri 1–4 e per i veicoli modificati, le parti o le modifiche non esaminate devono essere oggetto di un esame tecnico completo.
+Per i veicoli provvisti soltanto di una parte dei documenti di cui all’articolo 30*a* capoverso 1 lettera d numeri 1–4 e per i veicoli modificati, le parti o le modifiche non esaminate devono essere oggetto di un esame tecnico completo.
+
+[^30c-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 31
 
@@ -920,16 +956,24 @@ Per i veicoli provvisti soltanto di una parte dei documenti di cui all’articol
 
 <sup>1</sup>
 
-Per la prova di conformità di veicoli non nuovi (art. 30 cpv. 2) alle prescrizioni concernenti la costruzione e l’equipaggiamento, viene effettuato un controllo di funzionamento nel caso in cui:
+Per i veicoli non nuovi (art. 29 cpv. 5), la prova di conformità alle prescrizioni concernenti la costruzione e l’equipaggiamento è fornita mediante un controllo di funzionamento nel caso in cui:[^31-1]
 
 - a. sia disponibile un rapporto di perizia compilato e firmato dal titolare dell’approvazione del tipo o della scheda tecnica;
-- b. sia disponibile un certificato di conformità UE;
-- c. siano disponibili una dichiarazione di conformità secondo il regolamento UNECE n. 0 nonché tutte le altre approvazioni richieste a completamento in base al corrispondente atto giuridico UE relativo all’approvazione generale; oppure
-- d. i detentori godano di privilegi e immunità diplomatici o consolari.
+- b.[^31-2] sia disponibile un certificato di conformità UE in formato cartaceo;
+- c.[^31-3] sia disponibile un set di dati elettronico del singolo veicolo (art. 72*b* OAC[^31-4]);
+- d.[^31-5] siano disponibili una dichiarazione di conformità secondo il regolamento UNECE n. 0 nonché tutte le altre approvazioni richieste a completamento in base al pertinente atto giuridico UE relativo all’approvazione generale; oppure
+- e.[^31-6] i detentori godano di privilegi e immunità diplomatici o consolari.
 
 <sup>2</sup> Il controllo di funzionamento si limita ai dispositivi più importanti, quali sterzo, freni e illuminazione, e ai dispositivi di agganciamento di veicoli trattori e rimorchi.
 
 <sup>3</sup> Se le condizioni di cui al capoverso 1 non sono soddisfatte, viene effettuato un esame tecnico completo. Si verifica in particolare il rispetto delle prescrizioni sui gas di scarico e sui rumori e lo stato di corretto funzionamento per l’uso al quale il veicolo è destinato.
+
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-4]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^31-5]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^31-6]: Introdotta dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 31a
 
@@ -943,13 +987,16 @@ Per la prova di conformità di veicoli non nuovi (art. 30 cpv. 2) alle prescrizi
 
 **Collaudo in officina**
 
-<sup>1</sup> Per i veicoli provvisti di un’approvazione del tipo o di una scheda tecnica, l’autorità d’immatricolazione può delegare la compilazione del rapporto di perizia e il controllo di funzionamento a coloro che ne garantiscono un’esecuzione a regola d’arte.
+<sup>1</sup> Per i veicoli nuovi provvisti di un’approvazione del tipo, una scheda tecnica, un certificato di conformità UE in formato cartaceo o un set di dati elettronico del singolo veicolo (art. 72*b* OAC[^32-1]), l’autorità d’immatricolazione può delegare la compilazione del rapporto di perizia e il controllo di funzionamento a persone che ne garantiscono l’esecuzione a regola d’arte.[^32-2]
 
 <sup>2</sup> Questa delega può estendersi agli autoveicoli leggeri, ai rimorchi con un peso totale fino a 3,50 t, ai motoveicoli, ai quadricicli leggeri a motore, ai quadricicli a motore e ai tricicli a motore.
 
 <sup>3</sup> La delega non si applica ai veicoli che divergono dalla versione omologata.
 
 <sup>4</sup> L’autorità d’immatricolazione esegue controlli a campione. Se vengono riscontrate negligenze gravi o ripetute, revoca la delega.
+
+[^32-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 ### Capitolo 2: Esami successivi
 
@@ -1054,8 +1101,8 @@ Vigono i seguenti intervalli d’esame:
 [^33-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^33-2]: Introdotto dalla cifra I dell’O del 15 giu. 2001, in vigore dal 1° giu. 2002 ([RU 2002 1181](https://fedlex.data.admin.ch/eli/oc/2002/195)).
 [^33-3]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° lug. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^33-4]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^33-5]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^33-4]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^33-5]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
 [^33-6]: Introdotto dall’all. n. 2 dell’O del 13 dic. 2024 sulla guida automatica, in vigore dal 1° mar. 2025 ([RU 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 [^33-7]: Introdotta dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° lug. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^33-8]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° feb. 2017 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)).
@@ -1088,14 +1135,14 @@ I Cantoni adottano i provvedimenti necessari a garantire il rispetto degli inter
 
 **Obbligo eccezionale dell’esame**
 
-<sup>1</sup> La polizia notifica all’autorità di immatricolazione i veicoli che hanno subìto danni importanti in incidenti o che hanno presentato difetti gravi nel corso di controlli. Questi veicoli devono essere sottoposti a esame successivo. L’esame successivo deve essere effettuato nel Cantone di stanza.[^34-1]
+<sup>1</sup> La polizia notifica all’autorità di immatricolazione i veicoli che hanno subìto danni importanti in incidenti o che hanno presentato difetti gravi nel corso di controlli. Questi veicoli devono essere sottoposti all’esame successivo. L’esame successivo deve essere effettuato nel Cantone di stanza.[^34-1]
 
 <sup>2</sup>
 
-Il detentore deve notificare immediatamente all’autorità di immatricolazione le modifiche apportate ai veicoli. I veicoli modificati devono essere sottoposti a esame successivo secondo un sistema definito congiuntamente dalle autorità di immatricolazione. L’esame concerne segnatamente:[^34-2]
+Il detentore deve notificare immediatamente all’autorità di immatricolazione le modifiche apportate ai veicoli. I veicoli modificati devono essere sottoposti all’esame successivo secondo un sistema definito congiuntamente dalle autorità di immatricolazione. L’esame concerne segnatamente:[^34-2]
 
 - a. modifica della classificazione del veicolo;
-- b.[^34-3] modifiche di pesi, dimensioni, passo e carreggiata, escluse le modifiche della carreggiata dovute al montaggio di ruote non soggette a esame successivo;
+- b.[^34-3] modifiche di pesi, dimensioni, passo e carreggiata, escluse le modifiche della carreggiata dovute al montaggio di ruote non soggette all’esame successivo;
 - c. interventi che modificano le emissioni di gas di scarico o di rumori. In questo caso deve essere provato che sono osservate le prescrizioni sui gas di scarico e i rumori in vigore al momento della prima messa in circolazione;
 - d. impianti di scarico[^34-4] non omologati per il tipo di veicolo;
 - e. modifica della trasmissione (moltiplicazione del cambio e dell’asse);
@@ -1149,11 +1196,11 @@ L’autorità di immatricolazione può affidare gli esami successivi ad aziende 
 
 #### Art. 34b
 
-<sup>1</sup> Gli esami d’immatricolazione e quelli successivi devono essere effettuati da esperti della circolazione. Fanno eccezione gli esami d’immatricolazione di cui all’articolo 30 capoverso 1 e i collaudi in officina (art. 32).
+<sup>1</sup> Gli esami d’immatricolazione e gli esami successivi devono essere effettuati da esperti della circolazione. Fanno eccezione gli esami d’immatricolazione di cui all’articolo 30 capoverso 1 e i collaudi in officina (art. 32).[^34b-1]
 
 <sup>2</sup> Gli esami d’immatricolazione e gli esami successivi sono riconosciuti reciprocamente dalle autorità di immatricolazione. Sono altresì riconosciuti gli esami delegati effettuati da persone che provano di essere autorizzate dal Cantone di stanza a svolgere collaudi in officina (art. 32).
 
-<sup>3</sup> Se non può effettuare determinate verifiche tecniche, l’autorità di immatricolazione può delegarle a un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV[^34b-1].[^34b-2]
+<sup>3</sup> Se non può effettuare determinate verifiche tecniche, l’autorità di immatricolazione può delegarle a un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV[^34b-2].[^34b-3]
 
 <sup>4</sup> L’autorità di immatricolazione può richiedere una traduzione autenticata dei documenti presentatile che non sono redatti in lingua tedesca, francese, italiana o inglese.
 
@@ -1161,11 +1208,12 @@ L’autorità di immatricolazione può affidare gli esami successivi ad aziende 
 
 <sup>6</sup> I rimorchi sono esaminati con veicoli trattori idonei.
 
-<sup>7</sup> Per l’esame d’immatricolazione e ogni esame successivo l’autorità d’immatricolazione rileva lo stato del contachilometri o del contatore delle ore di esercizio.[^34b-3]
+<sup>7</sup> Per l’esame d’immatricolazione e ogni esame successivo l’autorità d’immatricolazione rileva lo stato del contachilometri o del contatore delle ore di esercizio.[^34b-4]
 
-[^34b-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^34b-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
-[^34b-3]: Introdotto dalla cifra III n. 1 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^34b-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646), [691](https://fedlex.data.admin.ch/eli/oc/2025/691)).
+[^34b-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^34b-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
+[^34b-4]: Introdotto dalla cifra III n. 1 dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 ### Capitolo 3: Manutenzione del sistema antinquinamento e controlli successivi
 
@@ -1197,7 +1245,7 @@ La manutenzione del sistema antinquinamento degli autoveicoli equipaggiati di un
 
 [^35-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
 [^35-2]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^35-3]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
+[^35-3]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 [^35-4]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
 [^35-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^35-6]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
@@ -1219,7 +1267,7 @@ La manutenzione del sistema antinquinamento degli autoveicoli equipaggiati di un
 - b. l’equipaggiamento rilevante in materia di gas di scarico presenta difetti, carenze o regolazioni scorrette;
 - c. i valori di riferimento non sono rispettati.
 
-[^36-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646), [691](https://fedlex.data.admin.ch/eli/oc/2025/691)).
 [^36-2]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7089](https://fedlex.data.admin.ch/eli/oc/2012/860)).
 
 ## Parte terza: Esigenze tecniche
@@ -1246,12 +1294,12 @@ La manutenzione del sistema antinquinamento degli autoveicoli equipaggiati di un
 
 <sup>5</sup> I veicoli di detentori che beneficiano di privilegi e immunità diplomatici o consolari devono soddisfare soltanto le esigenze tecniche di cui all’allegato 5 della Convenzione dell’8 novembre 1968[^36a-6] sulla circolazione stradale.
 
-[^36a-1]: [RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)
-[^36a-2]: [RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
-[^36a-3]: [RS 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)
+[^36a-1]: [RS 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)
+[^36a-2]: [RS 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)
+[^36a-3]: [RS 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652)
 [^36a-4]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608)).
-[^36a-5]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^36a-6]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^36a-5]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^36a-6]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 
 #### Art. 37
 
@@ -1424,7 +1472,7 @@ Una dichiarazione di garanzia giusta il capoverso 2 è riconosciuta se:
 
 <sup>4</sup> Se una garanzia dà luogo a dubbi, l’USTRA o, per i veicoli esonerati dall’obbligo di approvazione del tipo, l’autorità di immatricolazione può chiedere un esame di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV[^41-8] [^41-9]. Le garanzie con limiti manifestamente troppo bassi sono rifiutate. La garanzia è parimenti rifiutata se il costruttore l’ha stabilita considerevolmente più bassa per la Svizzera che per l’estero.[^41-10]
 
-<sup>5</sup> Se per un veicolo trasformato non esiste una garanzia conformemente al capoverso 2, essa può essere fornita da chi ha effettuato la trasformazione se un rapporto di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV attesta la sicurezza di funzionamento e della circolazione stradale.[^41-11]
+<sup>5</sup> Se per un veicolo trasformato non esiste una garanzia conformemente al capoverso 2, essa può essere fornita da chi ha effettuato la trasformazione se un rapporto di esame di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV attesta la sicurezza di funzionamento e della circolazione stradale.[^41-11]
 
 [^41-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^41-2]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
@@ -1433,10 +1481,10 @@ Una dichiarazione di garanzia giusta il capoverso 2 è riconosciuta se:
 [^41-5]: Introdotto dalla cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
 [^41-6]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 [^41-7]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
-[^41-8]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^41-8]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^41-9]: Nuova espr. giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^41-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^41-11]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^41-11]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 42
 
@@ -1590,7 +1638,7 @@ Il capoverso 4 non si applica:
 <sup>2</sup> Sono fatte salve le istruzioni dell’Ufficio federale delle strade.
 
 [^49a-1]: Introdotto dalla cifra II n. 1 dell’O del 22 feb. 2017, in vigore al 1° apr. 2017 ([RU 2017 1657](https://fedlex.data.admin.ch/eli/oc/2017/170)). Correzione del 4 apr. 2017 ([RU 2017 2291](https://fedlex.data.admin.ch/eli/oc/2017/214)).
-[^49a-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^49a-2]: [RS 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
 
 #### Art. 50
 
@@ -1686,7 +1734,7 @@ I dispositivi silenziatori di ricambio devono:
 <sup>4</sup> Sono vietati gli interventi inutili al veicolo e a sue componenti approvate che ne aumentano il rumore, anche se sono rispettati i limiti ammessi.[^53-6]
 
 [^53-1]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608)).
-[^53-2]: [RS 814.412.2](https://fedlex.data.admin.ch/eli/cc/2007/372)
+[^53-2]: [RS 814.412.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9524)
 [^53-3]: Introdotto dalla cifra I dell’O del 16 gen. 2008, in vigore dal 1° lug. 2008 ([RU 2008 355](https://fedlex.data.admin.ch/eli/oc/2008/95)).
 [^53-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^53-5]: Nuovo testo giusta la cifra I dell’O del 16 ott. 2024, in vigore dal 1° gen. 2025 ([RU 2024 608](https://fedlex.data.admin.ch/eli/oc/2024/608)).
@@ -1736,12 +1784,13 @@ I tachimetri devono essere conformi allo stato attuale della tecnica, come descr
 
 <sup>1</sup> Una modifica[^56-1] del passo come anche una modifica della carreggiata possono essere apportati soltanto dal costruttore del veicolo oppure se questi dichiara che il veicolo si presta alla modifica.
 
-<sup>2</sup> Qualsiasi modificazione del passo non eseguita dal costruttore necessita del permesso dell’autorità d’immatricolazione che lo rilascia soltanto se è garantito un lavoro a regola d’arte, in particolare per quanto concerne regolazione di sterzo, trasmissione e freni. Il veicolo sottostà al controllo successivo prima e dopo il montaggio della carrozzeria.
+<sup>2</sup> Qualsiasi modificazione del passo non eseguita dal costruttore necessita del permesso dell’autorità d’immatricolazione che lo rilascia soltanto se è garantito un lavoro a regola d’arte, in particolare per quanto concerne regolazione di sterzo, trasmissione e freni. Il veicolo sottostà al controllo successivo[^56-2] prima e dopo il montaggio della carrozzeria.
 
-<sup>3</sup> Un allargamento della carreggiata ottenuto esclusivamente montando distanziali di almeno 5 mm di spessore o ruote aventi un offset diverso rispetto a quelle collaudate insieme al veicolo è permesso senza la dichiarazione di idoneità del costruttore del veicolo se complessivamente la variazione della carreggiata non è superiore al 2 per cento. Fanno stato la carreggiata originale o massima e l’offset minimo indicati nel certificato di approvazione del tipo o nella scheda tecnica.[^56-2]
+<sup>3</sup> Un allargamento della carreggiata ottenuto esclusivamente montando distanziali di almeno 5 mm di spessore o ruote aventi un offset diverso rispetto a quelle collaudate insieme al veicolo è permesso senza la dichiarazione di idoneità del costruttore del veicolo se complessivamente la variazione della carreggiata non è superiore al 2 per cento. Fanno stato la carreggiata originale o massima e l’offset minimo indicati nel certificato di approvazione del tipo o nella scheda tecnica.[^56-3]
 
 [^56-1]: Nuova espr. giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)).
-[^56-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^56-2]: Nuova espr. giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU. Correzione del 10 nov. 2025 ([RU 2025 691](https://fedlex.data.admin.ch/eli/oc/2025/691)).
+[^56-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 
 #### Art. 57
 
@@ -2258,7 +2307,7 @@ Il contrassegno d’urgenza per i veicoli dei medici deve essere fissato sul tet
 
 [^80-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^80-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^80-3]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^80-3]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^80-4]: Introdotto dalla cifra I dell’O del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 81
@@ -2656,9 +2705,9 @@ Il capoverso 1 non si applica:
 
 **Installazione, esame successivo e riparazione di dispositivi di limitazione della velocità**[^99a-1]
 
-<sup>1</sup> I dispositivi di limitazione della velocità devono essere installati, sottoposti ad esame successivo e riparati da un’officina che dispone di un’apposita autorizzazione. Tale autorizzazione è rilasciata dall’UDSC alle officine che garantiscono un’accurata esecuzione di tali lavori e che dispongono delle necessarie attrezzature, apparecchiature e software nonché di personale sufficientemente qualificato e istruito.
+<sup>1</sup> I dispositivi di limitazione della velocità devono essere installati, sottoposti all’esame successivo e riparati da un’officina che dispone di un’apposita autorizzazione. Tale autorizzazione è rilasciata dall’UDSC alle officine che garantiscono un’accurata esecuzione di tali lavori e che dispongono delle necessarie attrezzature, apparecchiature e software nonché di personale sufficientemente qualificato e istruito.
 
-<sup>2</sup> I dispositivi di limitazione della velocità installati su veicoli di cui all’articolo 99 capoverso 1 devono essere sottoposti a esame successivo secondo le disposizioni del costruttore dell’apparecchio o del veicolo ogni 24 mesi o in seguito a lavori sul veicolo che abbiano compromesso la precisione della velocità regolata.
+<sup>2</sup> I dispositivi di limitazione della velocità installati su veicoli di cui all’articolo 99 capoverso 1 devono essere sottoposti all’esame successivo secondo le disposizioni del costruttore dell’apparecchio o del veicolo ogni 24 mesi o in seguito a lavori sul veicolo che abbiano compromesso la precisione della velocità regolata.
 
 [^99a-1]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
@@ -2686,18 +2735,18 @@ Per permettere di controllare la durata del lavoro e del riposo o di accertare l
 <sup>6</sup> Per l’indicazione della velocità in caso di tachigrafi è sufficiente un arco fino a 120 km/h. È fatto salvo l’articolo 55 capoverso 4.
 
 [^100-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^100-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^100-3]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^100-2]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^100-3]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 101
 
 **Installazione, esame successivo e riparazione di tachigrafi**[^101-1]
 
-<sup>1</sup> I tachigrafi devono essere installati, sottoposti a esame successivo e riparati da un’officina che dispone di un’apposita autorizzazione. L’autorizzazione è rilasciata dall’UDSC alle officine che garantiscono un’accurata esecuzione di tali lavori e che dispongono delle necessarie attrezzature, apparecchiature e software nonché di personale sufficientemente qualificato e istruito.
+<sup>1</sup> I tachigrafi devono essere installati, sottoposti all’esame successivo e riparati da un’officina che dispone di un’apposita autorizzazione. L’autorizzazione è rilasciata dall’UDSC alle officine che garantiscono un’accurata esecuzione di tali lavori e che dispongono delle necessarie attrezzature, apparecchiature e software nonché di personale sufficientemente qualificato e istruito.
 
-<sup>2</sup> Gli esami periodici di tachigrafi e quelli conseguenti a irregolarità, la sigillatura, l’affissione della targhetta di montaggio e la documentazione di interventi connessi a riparazioni e controlli del veicolo si fondano sugli articoli 22 e 23 del regolamento (UE) n. 165/2014 o sul regolamento di esecuzione (UE) n. 2017/548. La targhetta di montaggio deve riportare in aggiunta il chilometraggio dell’ultima calibrazione.[^101-2]
+<sup>2</sup> Gli esami periodici di tachigrafi e gli esami conseguenti a irregolarità, la sigillatura, l’affissione della targhetta di montaggio e la documentazione di interventi connessi a riparazioni e controlli del veicolo si fondano sugli articoli 22 e 23 del regolamento (UE) n. 165/2014 o sul regolamento di esecuzione (UE) n. 2017/548. La targhetta di montaggio deve riportare in aggiunta il chilometraggio dell’ultima calibrazione.[^101-2]
 
-<sup>3</sup> Se i lavori hanno compromesso la precisione delle registrazioni, i tachigrafi devono essere sottoposti a esame successivo.
+<sup>3</sup> Se i lavori hanno compromesso la precisione delle registrazioni, i tachigrafi devono essere sottoposti all’esame successivo.
 
 <sup>4</sup> Sono esentati dall’esame successivo del tachigrafo e dall’affissione della targhetta di montaggio gli apparecchi sostitutivi installati da officine autorizzate per al massimo 14 giorni nonché i tachigrafi di veicoli di riserva (art. 9 e 10 OAV[^101-3]) nel traffico interno.
 
@@ -2705,16 +2754,16 @@ Per permettere di controllare la durata del lavoro e del riposo o di accertare l
 
 <sup>6</sup> Prima di effettuare lavori su tachigrafi digitali, l’officina deve scaricare tutti i dati dalla memoria dell’apparecchio e, su richiesta, metterli a disposizione dei servizi e delle persone aventi diritto. Inoltre, immediatamente dopo i lavori deve salvare i dati della calibrazione riprendendoli dalla carta dell’officina utilizzata.
 
-<sup>6bis</sup> A conclusione dell’installazione e dopo ogni esame successivo del tachigrafo analogico, l’officina deve redigere un rapporto di perizia. Quest’ultimo deve contenere le informazioni relative a tachigrafo e adattatore riportate sulla targhetta di montaggio conformemente al regolamento di esecuzione (UE) 2016/799, il chilometraggio del tachigrafo, lo schema di sigillatura e la firma della persona che ha installato o controllato il tachigrafo.[^101-5]
+<sup>6bis</sup> A conclusione dell’installazione e dopo ogni esame successivo del tachigrafo analogico, l’officina deve redigere un rapporto di esame. Quest’ultimo deve contenere le informazioni relative a tachigrafo e adattatore riportate sulla targhetta di montaggio conformemente al regolamento di esecuzione (UE) 2016/799, il chilometraggio del tachigrafo, lo schema di sigillatura e la firma della persona che ha installato o controllato il tachigrafo.[^101-5]
 
-<sup>7</sup> L’officina deve conservare per tre anni i dati scaricati dal tachigrafo e i dati sulla calibrazione della carta dell’officina. I rapporti d’esame, le copie di rapporti di perizia di cui al capoverso 6<sup>bis</sup> e i dischi di controllo devono essere conservati fino all’esame periodico successivo. Decorsi tali termini, i dati vanno cancellati e i documenti distrutti.[^101-6]
+<sup>7</sup> L’officina deve conservare per tre anni i dati scaricati dal tachigrafo e i dati sulla calibrazione della carta dell’officina. I rapporti di controllo tecnico, le copie di rapporti di esame di cui al capoverso 6<sup>bis</sup> e i dischi di controllo devono essere conservati fino all’esame periodico successivo. Decorsi tali termini, i dati vanno cancellati e i documenti distrutti.[^101-6]
 
 [^101-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^101-2]: Nuovo testo giusta la cifra I dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
-[^101-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^101-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^101-3]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^101-4]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^101-5]: Introdotto dalla cifra I dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
-[^101-6]: Nuovo testo giusta la cifra I dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
+[^101-5]: Introdotto dalla cifra I dell’O del 9 giu. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)). Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
+[^101-6]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 #### Art. 102
 
@@ -2790,7 +2839,7 @@ Sono ammesse deroghe ai capoversi 5 e 6 in caso di:
 [^103-4]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)).
 [^103-5]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^103-6]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
-[^103-7]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^103-7]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^103-8]: Introdotto dalla cifra I dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)). Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^103-9]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^103-10]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
@@ -2830,26 +2879,27 @@ Per il montaggio di attrezzi frontali sono ammesse deroghe al capoverso 2 per:
 
 <sup>3</sup> I sistemi di protezione frontale dei veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> devono essere conformi al regolamento (UE) 2019/2144.[^104a-8]
 
-<sup>4</sup> I veicoli delle categorie N<sub>2</sub> e N<sub>3</sub> devono essere muniti di dispositivi di protezione anteriore conformemente al regolamento (UE) 2019/2144 o al regolamento UNECE n. 93.[^104a-9]
+<sup>4</sup> I veicoli delle categorie N<sub>2</sub> e N<sub>3</sub> devono essere muniti di protezioni antincastro[^104a-9] anteriore conformemente al regolamento (UE) 2019/2144 o al regolamento UNECE n. 93.[^104a-10]
 
 <sup>5</sup>
 
 Il capoverso 4 non si applica a:
 
 - a. carri con motore;
-- b.[^104a-10] veicoli fuoristrada (art. 12 cpv. 2);
-- c. autoveicoli cui, nel singolo caso, l’autorità di immatricolazione ha concesso un’eccezione poiché l’applicazione di un dispositivo di protezione anteriore non è possibile per motivi tecnici e di uso.
+- b.[^104a-11] veicoli fuoristrada (art. 12 cpv. 2);
+- c. autoveicoli cui, nel singolo caso, l’autorità di immatricolazione ha concesso un’eccezione poiché l’applicazione di una protezione antincastro anteriore non è possibile per motivi tecnici e di uso.
 
 [^104a-1]: Introdotto dalla cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^104a-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^104a-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^104a-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^104a-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^104a-4]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^104a-5]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^104a-6]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^104a-7]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^104a-8]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^104a-9]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
-[^104a-10]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
+[^104a-9]: Nuova espr. giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^104a-10]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
+[^104a-11]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 104b
 
@@ -2867,7 +2917,7 @@ Il capoverso 2 non si applica:
 - b. ai veicoli militari.
 
 [^104b-1]: Introdotto dalla cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^104b-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^104b-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^104b-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^104b-4]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
@@ -2875,7 +2925,7 @@ Il capoverso 2 non si applica:
 
 **Protezione posteriore**[^104c-1]
 
-<sup>1</sup> I veicoli delle categori M e N devono essere provvisti di una protezione posteriore conformemente al regolamento (UE) 2019/2144 o al regolamento UNECE n. 58.[^104c-2]
+<sup>1</sup> I veicoli delle categori M e N devono essere provvisti di una protezione antincastro posteriore conformemente al regolamento (UE) 2019/2144 o al regolamento UNECE n. 58.[^104c-2]
 
 <sup>2</sup>
 
@@ -2883,7 +2933,7 @@ Il capoverso 1 non si applica a:
 
 - a. carri con motore;
 - b. trattori a sella;
-- c. autoveicoli cui, nel singolo caso, l’autorità di immatricolazione ha concesso un’eccezione poiché l’applicazione di una protezione posteriore non è possibile per motivi tecnici e di uso;
+- c. autoveicoli cui, nel singolo caso, l’autorità di immatricolazione ha concesso un’eccezione poiché l’applicazione di una protezione antincastro posteriore non è possibile per motivi tecnici e di uso;
 - d. veicoli militari.
 
 [^104c-1]: Introdotto dalla cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
@@ -3069,7 +3119,7 @@ Con il permesso dell’autorità d’immatricolazione, iscritto nella licenza di
 [^110-8]: Nuovo testo giusta il n. 3 dell’all. dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
 [^110-9]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^110-10]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
-[^110-11]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^110-11]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^110-12]: Introdotta dalla cifra I dell’O del 6 mar. 2000 ([RU 2000 1034](https://fedlex.data.admin.ch/eli/oc/2000/161)). Abrogato dalla cifra I dell’O del 22 dic. 2023, con effetto dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^110-13]: Introdotta dalla cifra I dell’O del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)). Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^110-14]: Introdotta dalla cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
@@ -3178,7 +3228,7 @@ I veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> devono soddisfare, per q
 
 <sup>2</sup> Gli autoveicoli che per costruzione, per legge o per un limite imposto dall’autorità o dal Consiglio federale (art. 5 cpv. 1 lett. b ONC[^117-1]) hanno una velocità massima inferiore a 80 km/h devono portare posteriormente un contrassegno ben visibile che indichi la velocità massima con il numero corrispondente, conformemente all’allegato 4. La velocità massima deve essere iscritta nella licenza di circolazione.[^117-2]
 
-[^117-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^117-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^117-2]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
 #### Art. 118
@@ -3285,7 +3335,7 @@ Oltre alle agevolazioni di cui negli articoli 118, 119 e 120, per gli autoveicol
 
 [^120a-1]: Introdotto dalla cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
 [^120a-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^120a-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^120a-3]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 ### Sezione 2: Autobus (compresi autobus snodati e filobus) e minibus
 
@@ -3300,7 +3350,7 @@ Oltre alle agevolazioni di cui negli articoli 118, 119 e 120, per gli autoveicol
 <table>
 <tr><td>a.[^121-3] per gli autobus a un piano con oltre 23 posti a sedere, compreso quello del conducente, e per i posti in piedi</td><td>[tab] 1,80 m</td></tr>
 <tr><td>b.[^121-4] per gli autobus con al massimo 23 posti a sedere, compreso quello del conducente</td><td>[tab] 1,50 m</td></tr>
-<tr><td>c.[^121-5] per gli autobus a due piani:</td><td>[tab]</td></tr>
+<tr><td>c.[^121-5] per gli autobus a due piani:</td><td></td></tr>
 <tr><td>1. al piano superiore</td><td>1,50 m</td></tr>
 <tr><td>2. al piano inferiore</td><td>1,77 m</td></tr>
 <tr><td>3. al piano inferiore nella parte situata sopra o dietro l’asse posteriore</td><td>1,62 m</td></tr>
@@ -3349,7 +3399,7 @@ Oltre alle agevolazioni di cui negli articoli 118, 119 e 120, per gli autoveicol
 
 <sup>3</sup> Gli autobus e i minibus devono essere muniti di un’uscita di sicurezza dalle dimensioni utili di almeno 0,60 × 0,43 m. Il numero (n) si determina in base alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image1.png)
 
 Le porte sono assimilate alle uscite di sicurezza. Le uscite di sicurezza devono essere indicate in modo chiaro ed essere ripartite il più regolarmente possibile sui due lati del veicolo. Esse devono potersi aprire o liberare facilmente e rapidamente; gli strumenti necessari a tale scopo devono essere ben visibili e a portata di mano.[^123-3]
 
@@ -3367,13 +3417,13 @@ Le porte sono assimilate alle uscite di sicurezza. Le uscite di sicurezza devono
 
 **Scuolabus, segnali per trasporto di scolari**[^123a-1]
 
-<sup>1</sup> Gli scuolabus sono minibus e autobus con posti e abitacolo di dimensioni ridotte nonché peso per persona limitato. Sono ammessi alla circolazione unicamente se il rapporto di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV[^123a-2] attesta che, per la fascia di età interessata, offrono un livello di protezione equivalente a quello dei sistemi di ritenuta per fanciulli conformi al regolamento UNECE n. 129 o al regolamento UNECE n. 44, in deroga all’articolo 3*a* paragrafo 1 nella versione della serie d’emendamento 03 o successive.[^123a-3]
+<sup>1</sup> Gli scuolabus sono minibus e autobus con posti e abitacolo di dimensioni ridotte nonché peso per persona limitato. Sono ammessi alla circolazione unicamente se il rapporto di esame di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 OATV[^123a-2] attesta che, per la fascia di età interessata, offrono un livello di protezione equivalente a quello dei sistemi di ritenuta per fanciulli conformi al regolamento UNECE n. 129 o al regolamento UNECE n. 44, in deroga all’articolo 3*a* paragrafo 1 nella versione della serie d’emendamento 03 o successive.[^123a-3]
 
 <sup>2</sup> I minibus e gli autobus adibiti al trasporto di scolari possono essere muniti, davanti e dietro, del pertinente contrassegno giusta l’allegato 4. Il contrassegno deve essere coperto o tolto se il veicolo non è adibito al trasporto di scolari.
 
 [^123a-1]: Introdotto dalla cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
-[^123a-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^123a-3]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
+[^123a-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^123a-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646)).
 
 ### Sezione 3: Trattori a sella
 
@@ -3402,7 +3452,7 @@ Le porte sono assimilate alle uscite di sicurezza. Le uscite di sicurezza devono
 
 <sup>3</sup> I veicoli-cisterna per il trasporto di carburante devono essere costruiti ed equipaggiati in modo tale che sia possibile un travaso giusta l’allegato 2 numero 33 della OIAT.
 
-[^125-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^125-1]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
 [^125-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^125-3]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^125-4]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
@@ -4199,7 +4249,7 @@ Il capoverso 2 non si applica a:
 [^164-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^164-2]: Abrogato dalla cifra I dell’O del 22 dic. 2023, con effetto dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^164-3]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)).
-[^164-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^164-4]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^164-5]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)).
 
 #### Art. 165
@@ -4351,7 +4401,7 @@ Come dispositivi d’illuminazione sono necessari, fissati il più esternamente 
 
 [^175-1]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^175-2]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
-[^175-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2025.
+[^175-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° lug. 2025.
 [^175-4]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^175-5]: Nuovo testo giusta la cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
 [^175-6]: Introdotto dalla cifra I dell’O del 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
@@ -4633,7 +4683,7 @@ Il freno di servizio può consistere in:
 [^182-2]: Nuovo testo giusta la cifra I dell’O del 5 apr. 2017, in vigore dal 7 mag. 2017 ([RU 2017 2651](https://fedlex.data.admin.ch/eli/oc/2017/263)).
 [^182-3]: Nuovo testo giusta la cifra II dell’O del 6 mag. 1998 in vigore dal 15 mag. 1998 ([RU 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
 [^182-4]: Nuovo testo giusta la cifra II dell’O del 6 mag. 1998 in vigore dal 15 mag. 1998 ([RU 1998 1465](https://fedlex.data.admin.ch/eli/oc/1998/1465_1465_1465)).
-[^182-5]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^182-5]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^182-6]: Introdotto dalla cifra I dell’O del 5 apr. 2017, in vigore dal 7 mag. 2017 ([RU 2017 2651](https://fedlex.data.admin.ch/eli/oc/2017/263)).
 
 #### Art. 183
@@ -4771,7 +4821,7 @@ Le prescrizioni dell’articolo 64 si applicano per analogia ai dispositivi di g
 
 #### Art. 191
 
-**Dispositivo di protezione laterale, dispositivo di protezione posteriore**
+**Dispositivo di protezione laterale, protezione antincastro posteriore**
 
 <sup>1</sup> Per quanto riguarda le protezioni laterali, i rimorchi devono essere conformi al regolamento (UE) 2019/2144 oppure sia al regolamento (UE) n. 167/2013 sia al regolamento delegato (UE) 2015/208.[^191-1]
 
@@ -4787,7 +4837,7 @@ Il capoverso 1 non si applica a:
 - f. veicoli militari;
 - g.[^191-4] rimorchi trainati da autoveicoli la cui velocità massima, per costruzione, non supera i 30 km/h, come anche rimorchi agricoli e forestali.
 
-<sup>3</sup> Per quanto riguarda il dispositivo di protezione posteriore, i rimorchi devono essere conformi al regolamento (UE) 2019/2144 oppure sia al regolamento (UE) n. 167/2013 sia al regolamento delegato (UE) 2015/208.[^191-5]
+<sup>3</sup> Per quanto riguarda la protezione antincastro posteriore, i rimorchi devono essere conformi al regolamento (UE) 2019/2144 oppure sia al regolamento (UE) n. 167/2013 sia al regolamento delegato (UE) 2015/208.[^191-5]
 
 <sup>4</sup>
 
@@ -4795,7 +4845,7 @@ Il capoverso 3 non si applica ai:
 
 - a.[^191-6] rimorchi trainati da autoveicoli la cui velocità massima, per costruzione, non supera i 30 km/h, né ai rimorchi agricoli e forestali.
 - b. rimorchi adibiti al trasporto di carichi lunghi;
-- c. rimorchi su cui, per ragioni tecniche o d’impiego, non è possibile montare una protezione laterale; per siffatti veicoli l’autorità d’immatricolazione può, in singoli casi, concedere eccezioni;
+- c. rimorchi su cui, per ragioni tecniche o d’impiego, non è possibile montare una protezione antincastro laterale; per siffatti veicoli l’autorità d’immatricolazione può, in singoli casi, concedere eccezioni;
 - d. veicoli militari.
 
 [^191-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
@@ -4879,7 +4929,7 @@ Sono autorizzati i seguenti dispositivi complementari:[^193-1]
 [^193-7]: Introdotta dalla cifra I dell’O del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)). Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^193-8]: Introdotta dalla cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 [^193-9]: Introdotta dalla cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4693](https://fedlex.data.admin.ch/eli/oc/2013/827)).
-[^193-10]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^193-10]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^193-11]: Introdotta dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 [^193-12]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)).
 
@@ -5162,7 +5212,7 @@ Gli elementi rimorchiati sono considerati rimorchi. Sono elementi rimorchiati:
 
 <sup>6</sup> I rimorchi trainati da velocipedi e ciclomotori possono essere dotati di un proprio dispositivo di propulsione che sviluppa una velocità massima di 6 km/h.[^210-6]
 
-[^210-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^210-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^210-2]: Nuovo testo giusta la cifra I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2473](https://fedlex.data.admin.ch/eli/oc/2015/462)).
 [^210-3]: Abrogato dalla cifra I dell’O del 17 dic. 2021, con effetto dal 1° apr. 2022 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)).
 [^210-4]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
@@ -5282,7 +5332,7 @@ Gli elementi rimorchiati sono considerati rimorchi. Sono elementi rimorchiati:
 <sup>4</sup> Sono ammessi indicatori di direzione lampeggianti. Questi devono essere gialli (all. 10 n. 111) e installati simmetricamente a coppie. Devono essere facilmente riconoscibili come indicatori di direzione e non devono abbagliare. In presenza di indicatori di direzione lampeggianti non sono ammesse altre luci lampeggianti.[^216-4]
 
 [^216-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)).
-[^216-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^216-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^216-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4693](https://fedlex.data.admin.ch/eli/oc/2013/827)).
 [^216-4]: Introdotto dalla cifra I dell’O del 28 mar. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)). Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)).
 
@@ -5355,7 +5405,7 @@ La stessa pena è comminata alle persone autorizzate a effettuare collaudi in of
 [^219-2]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^219-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^219-4]: Introdotta dalla cifra I dell’O del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^219-5]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^219-5]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^219-6]: Introdotta dalla cifra I dell’O del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 [^219-7]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
 
@@ -5387,7 +5437,7 @@ L’USTRA può escludere i seguenti veicoli da singole prescrizioni della parte 
 
 [^220-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^220-2]: Introdotto dalla cifra I dell’O del 29 mar. 2006 ([RU 2006 1677](https://fedlex.data.admin.ch/eli/oc/2006/262)). Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2109](https://fedlex.data.admin.ch/eli/oc/2007/300)).
-[^220-3]: [RS 930.111](https://fedlex.data.admin.ch/eli/cc/2010/348)
+[^220-3]: [RS 930.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11021)
 [^220-4]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^220-5]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
 [^220-6]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
@@ -5543,7 +5593,7 @@ Le disposizioni dell’articolo 106 capoverso 1 concernenti le cinture di sicure
 <sup>4</sup> Per modifiche successive del peso si applica di nuovo l’articolo 7 capoverso 4.
 
 [^222c-1]: Introdotto dalla cifra I dell’O del 18 set. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2290](https://fedlex.data.admin.ch/eli/oc/2000/362)).
-[^222c-2]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^222c-2]: [RS 641.811](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8160)
 
 #### Art. 222d
 
@@ -5563,11 +5613,12 @@ Le disposizioni dell’articolo 106 capoverso 1 concernenti le cinture di sicure
 
 **Disposizioni transitorie relative alle modifiche del 16 giugno 2003**[^222e-1]
 
-<sup>1</sup> La modifica dell’articolo 99 capoverso 1 relativa all’equipaggiamento con un dispositivo automatico di limitazione della velocità si applica ai veicoli messi in circolazione per la prima volta a partire dal 1° gennaio 2005. I veicoli messi in circolazione a partire dal 1° ottobre 2001 fino al 31 dicembre 2004 e che sono conformi ai valori limite della direttiva n. 88/77/CEE, modificata per l’ultima volta dalla direttiva n. 2001/27/CE, devono essere modificati entro l’esame periodico successivo al quale sono convocati a partire dal 1° gennaio 2006.
+<sup>1</sup> La modifica dell’articolo 99 capoverso 1 relativa all’equipaggiamento con un dispositivo automatico di limitazione della velocità si applica ai veicoli messi in circolazione per la prima volta a partire dal 1° gennaio 2005. I veicoli messi in circolazione a partire dal 1° ottobre 2001 fino al 31 dicembre 2004 e che sono conformi ai valori limite della direttiva n. 88/77/CEE, modificata da ultimo dalla direttiva n. 2001/27/CE, devono essere modificati entro l’esame periodico al quale sono convocati a partire dal 1° gennaio 2006.[^222e-2]
 
 <sup>2</sup> Per l’applicazione dei regolamenti menzionati nell’allegato 2 si applicano, fatto salvo il capoverso 1, le disposizioni transitorie dei rispettivi regolamenti; l’immatricolazione si basa sulla data dell’importazione o della costruzione in Svizzera.
 
 [^222e-1]: Introdotto dalla cifra I dell’O del 16 giu. 2003, in vigore dal 1° ago. 2003 ([RU 2003 1819](https://fedlex.data.admin.ch/eli/oc/2003/271)).
+[^222e-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646), [691](https://fedlex.data.admin.ch/eli/oc/2025/691)).
 
 #### Art. 222f
 
@@ -5644,7 +5695,7 @@ Per l’applicazione dei regolamenti internazionali menzionati nell’allegato 2
 
 <sup>6</sup> Ai veicoli che non dispongono di un’approvazione generale CE, importati o costruiti in Svizzera prima del 1° ottobre 2007, si applica il diritto previgente relativamente all’articolo 104*b* capoverso 1 sulla protezione in caso di collisione laterale.
 
-<sup>7</sup> La direttiva 70/221/CEE relativa ai dispositivi di protezione posteriore, di cui agli articoli 104*c* capoverso 1 e 191 capoverso 3, si applica, nella versione della direttiva 2006/20/CE, ai veicoli sottoposti all’approvazione del tipo a contare dall’11 settembre 2007 come anche alla prima immatricolazione dei veicoli importati o costruiti in Svizzera a contare dall’11 marzo 2010.
+<sup>7</sup> La direttiva 70/221/CEE relativa alla protezione antincastro posteriore, di cui agli articoli 104*c* capoverso 1 e 191 capoverso 3, si applica, nella versione della direttiva 2006/20/CE, ai veicoli sottoposti all’approvazione del tipo a contare dall’11 settembre 2007 come anche alla prima immatricolazione dei veicoli importati o costruiti in Svizzera a contare dall’11 marzo 2010.
 
 <sup>8</sup> Ai veicoli messi per la prima volta in circolazione o trasformati in modo corrispondente prima del 1° gennaio 2008 si applica il diritto previgente relativamente all’articolo 107 capoverso 1<sup>bis</sup> sui sedili posti trasversalmente rispetto all’asse longitudinale del veicolo.
 
@@ -5771,7 +5822,7 @@ Le disposizioni dell’articolo 95 capoverso 2 concernenti i carichi ammessi sul
 <sup>5</sup> Ai rimorchi della categoria O immatricolati per la prima volta prima del 1° maggio 2019 e successivamente immatricolati o messi in servizio come rimorchi di lavoro, rimorchi di carri a motore e di lavoro o rimorchi agricoli e forestali (art. 200–209) si applica il nuovo diritto per quanto riguarda gli impianti di frenatura.
 
 [^222p-1]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)).
-[^222p-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^222p-2]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 222q
 
@@ -5792,7 +5843,7 @@ I ciclomotori immatricolati per la prima volta prima del 1° aprile 2024 devono 
 <sup>3</sup> Dal 1° settembre 2024 non è più ammesso immettere per la prima volta sul mercato dispositivi di ritenuta per fanciulli conformi al regolamento UNECE n. 44.
 
 [^222r-1]: Introdotto dalla cifra I dell’O del 9 giu. 2023, in vigore dal 15 lug. 2023 ([RU 2023 327](https://fedlex.data.admin.ch/eli/oc/2023/327)).
-[^222r-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^222r-2]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 222s
 
@@ -5819,7 +5870,7 @@ I ciclomotori immatricolati per la prima volta prima del 1° aprile 2024 devono 
 <sup>10</sup> Ai veicoli importati o costruiti in Svizzera prima del 1° aprile 2027 si applica il diritto previgente per quanto riguarda l’allegato 9 numero 312 sulla larghezza del corridoio degli autobus.
 
 [^222s-1]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 30](https://fedlex.data.admin.ch/eli/oc/2024/30)).
-[^222s-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^222s-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 #### Art. 222t
 
@@ -5851,9 +5902,9 @@ Sono abrogate:
 - d. l’ordinanza del 22 ottobre 1986[^annex1-lvlu1-lvlI-4] sui gas di scarico degli autoveicoli pesanti (OEA 2).
 
 [^annex1-lvlu1-lvlI-1]: [[RU 1969 839](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839); [1972 1781](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781); [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)la cifra II n. 2; **1976** 2611; **1979** 1922; **1981** 572 art. 72 n. 3; **1982** 495, 531; **1983** 627 art. 88 n. 1; **1984** 1338; **1985** 608; **1986** 1833; **1988** 876; **1989** 410 la cifra II n. 2, 1195; **1991** 78 la cifra III; **1992** 536; **1993** 2062; **1994** 167 la cifra II n. 214 la cifra I, II n. 816 la cifra II n. 3, 1326]
-[^annex1-lvlu1-lvlI-2]: [[RU 1975 1763](https://fedlex.data.admin.ch/eli/oc/1975/1763_1763_1763), [1991 2233](https://fedlex.data.admin.ch/eli/oc/1991/2233_2233_2233)]
-[^annex1-lvlu1-lvlI-3]: [[RU 1982 474](https://fedlex.data.admin.ch/eli/oc/1982/474_474_474), [1985 460](https://fedlex.data.admin.ch/eli/oc/1985/460_460_460)cifra II n. 703]
-[^annex1-lvlu1-lvlI-4]: [[RU 1986 1866](https://fedlex.data.admin.ch/eli/oc/1986/1866_1866_1866), [1987 223](https://fedlex.data.admin.ch/eli/oc/1987/223_223_223), [1989 496](https://fedlex.data.admin.ch/eli/oc/1989/496_496_496), [1993 240](https://fedlex.data.admin.ch/eli/oc/1993/240_240_240), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra V]
+[^annex1-lvlu1-lvlI-2]: [[RU 1975 1763](https://fedlex.data.admin.ch/eli/oc/1975/1763_1763_1763); [1991 2233](https://fedlex.data.admin.ch/eli/oc/1991/2233_2233_2233)]
+[^annex1-lvlu1-lvlI-3]: [[RU 1982 474](https://fedlex.data.admin.ch/eli/oc/1982/474_474_474); [1985 460](https://fedlex.data.admin.ch/eli/oc/1985/460_460_460)cifra II n. 703]
+[^annex1-lvlu1-lvlI-4]: [[RU 1986 1866](https://fedlex.data.admin.ch/eli/oc/1986/1866_1866_1866); [1987 223](https://fedlex.data.admin.ch/eli/oc/1987/223_223_223); [1989 496](https://fedlex.data.admin.ch/eli/oc/1989/496_496_496); [1993 240](https://fedlex.data.admin.ch/eli/oc/1993/240_240_240); [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)cifra V]
 
 ### II. Modifiche di ordinanze
 
@@ -6362,7 +6413,7 @@ Allegato 4[^t-3]
 ### (art. 117 cpv. 2, 62 cpv. 2, 144 cpv. 7 e 195 cpv. 5)
 
 <table>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image2.png)</td><td>Il disco è provvisto di cifre nere su fondo bianco e di un bordo rosso. Può essere retroriflettente.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image2.png)</td><td>Il disco è provvisto di cifre nere su fondo bianco e di un bordo rosso. Può essere retroriflettente.</td></tr>
 </table>
 
 <table>
@@ -6380,7 +6431,7 @@ Allegato 4[^t-3]
 ### (art. 92 cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image3.png)</td><td>Il fondo è di colore blu, il simbolo è bianco Lato del quadrato 8 cm Altezza del simbolo 6,5 cm Larghezza del simbolo 6,5 cm Larghezza del tratto 0,4 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image3.png)</td><td>Il fondo è di colore blu, il simbolo è bianco Lato del quadrato 8 cm Altezza del simbolo 6,5 cm Larghezza del simbolo 6,5 cm Larghezza del tratto 0,4 cm</td></tr>
 </table>
 
 ### 3 Segnale per veicoli degli audiolesi
@@ -6388,7 +6439,7 @@ Allegato 4[^t-3]
 ### (art. 92 cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image4.png)</td><td>Il fondo del segnale quadrato (lunghezza del lato = 8 cm) è blu, il simbolo è bianco.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image4.png)</td><td>Il fondo del segnale quadrato (lunghezza del lato = 8 cm) è blu, il simbolo è bianco.</td></tr>
 </table>
 
 ### 4 Sigla distintiva di nazionalità svizzera
@@ -6398,7 +6449,7 @@ Allegato 4[^t-3]
 La sigla di nazionalità è composta da due grandi lettere latine «CH». Le lettere, di colore nero, devono essere applicate su un fondo bianco di forma ellittica con l’asse principale orizzontale.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image5.png)</td><td>Dimensioni minime: Altezza dell’ellisse Larghezza dell’ellisse Altezza delle lettere Larghezza delle lettere Larghezza del tratto</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image5.png)</td><td>Dimensioni minime: Altezza dell’ellisse Larghezza dell’ellisse Altezza delle lettere Larghezza delle lettere Larghezza del tratto</td><td>11,5 cm 17,5 cm 8 cm 4 cm 1 cm</td></tr>
 </table>
 
 ### 5 Contrassegno per veicoli a motore adibiti a corse di esercitazione
@@ -6408,7 +6459,7 @@ La sigla di nazionalità è composta da due grandi lettere latine «CH». Le let
 La targhetta quadrata deve essere applicata sul dietro del veicolo, il più verticalmente possibile e in maniera ben visibile. Il fondo della targhetta è blu, la lettera «L» è bianca.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image6.png)</td><td></td><td colspan="2">Dimensioni della targhetta «L» per:</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image6.png)</td><td></td><td colspan="2">Dimensioni della targhetta «L» per:</td></tr>
 <tr><td></td><td></td><td>Veicoli a quattro ruote</td><td>Veicoli a motore a due ruote, tricicli a motore, quadricicli motore e quadricicli leggeri a motore</td></tr>
 <tr><td></td><td>Lato del quadrato</td><td>16,0 cm</td><td>12,0 cm</td></tr>
 <tr><td></td><td>Altezza della «L»</td><td>10,0 cm</td><td>8,0 cm</td></tr>
@@ -6422,14 +6473,14 @@ La targhetta quadrata deve essere applicata sul dietro del veicolo, il più vert
 
 La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di materia retroriflettente.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image7.png)
 
 ### 7 Segnali per trasporto di scolari
 
 ### (art. 123*a* cpv. 2)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image8.png)</td><td>Il fondo della targhetta quadrata con angoli arrotondati è giallo chiaro (giallo selettivo) o giallo (arancione), il simbolo e il bordo sono neri. Il simbolo deve corrispondere al segnale di pericolo 1.23. Lunghezza del lato 40 cm Larghezza del bordo 2 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image8.png)</td><td>Il fondo della targhetta quadrata con angoli arrotondati è giallo chiaro (giallo selettivo) o giallo (arancione), il simbolo e il bordo sono neri. Il simbolo deve corrispondere al segnale di pericolo 1.23. Lunghezza del lato 40 cm Larghezza del bordo 2 cm</td></tr>
 </table>
 
 ### 7*a* Esempi di cartelli d’indicazione concernenti l’obbligo di allacciarsi la cintura di sicurezza
@@ -6437,7 +6488,7 @@ La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di
 ### (art. 3*a* cpv. 3 ONC)
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image10.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image9.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image10.png)</td></tr>
 <tr><td colspan="2">I simboli sono di colore bianco, il fondo è blu.</td></tr>
 </table>
 
@@ -6447,19 +6498,19 @@ La paletta reca una freccia bianca su fondo rosso, i due colori devono essere di
 
 Disposizione I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image11.png)
 
 Disposizione II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image12.png)
 
 Disposizione III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image13.png)
 
 Disposizione IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image14.png)
 
 ### 9 Tavole posteriori di demarcazione per rimorchi e semirimorchi
 
@@ -6467,25 +6518,25 @@ Disposizione IV
 
 Disposizione I
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image15.png)
 
 Disposizione II
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image16.png)
 
 Disposizione III
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image17.png)
 
 Disposizione IV
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image18.png)
 
 ### 10 Cartello di demarcazione posteriore per veicoli con una velocità massima di 45 km/h
 
 ### (art. 68 cpv. 4)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image19.png)
 
 (1) materiale rosso retroriflettente o catarifrangente a forma di prisma (classe 1 e classe 2)
 
@@ -6518,10 +6569,10 @@ Se, per ragioni tecniche o di uso, i cartelli di demarcazione posteriore non pos
 Il segnale deve essere applicato sul davanti e sul dietro del veicolo o della combinazione di veicoli, il più verticalmente possibile e in maniera ben visibile. Il fondo del segnale quadrato è rosso, la lettera «S» è gialla. Le dimensioni minime sono:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image20.png)</td><td>Lato del quadrato: Altezza della «S»: Larghezza della «S»: Larghezza del tratto:</td><td>25 cm <sup>2</sup>/<sub>3</sub> del lato <sup>1</sup>/<sub>2</sub> del lato <sup>1</sup>/<sub>10</sub> del lato</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image20.png)</td><td>Lato del quadrato: Altezza della «S»: Larghezza della «S»: Larghezza del tratto:</td><td>25 cm <sup>2</sup>/<sub>3</sub> del lato <sup>1</sup>/<sub>2</sub> del lato <sup>1</sup>/<sub>10</sub> del lato</td></tr>
 </table>
 
-[^annex4-lvlu1-lvl11-1]: [RS 741.631](https://fedlex.data.admin.ch/eli/cc/2002/475)
+[^annex4-lvlu1-lvl11-1]: [RS 741.631](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8693)
 
 Allegato 5[^t-4]
 
@@ -6596,7 +6647,7 @@ Allegato 5[^t-4]
 - 216 I numeri 211, 211*a*, 211*b*, 211*c*, 212, 213 e 215 si applicano anche ai veicoli dispensati dall’approvazione del tipo.
 
 [^annex5-lvlu1-lvl2-lvl21-1]: RS**814.318.142.1**
-[^annex5-lvlu1-lvl2-lvl21-2]: [RS 741.435.4](https://fedlex.data.admin.ch/eli/cc/1986/1889_1889_1889)
+[^annex5-lvlu1-lvl2-lvl21-2]: [RS 741.435.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8659)
 
 ### 22 Esami singoli
 
@@ -6660,7 +6711,7 @@ Allegato 6[^t-5]
 - 114 I rumori dell’aria compressa sono misurati a veicolo fermo conformemente al numero 4.
 - 115 I numeri 111 a 114 si applicano anche all’esame singolo che precede la prima messa in circolazione dei veicoli dispensati dall’approvazione del tipo.
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [RS 814.412.2](https://fedlex.data.admin.ch/eli/cc/2007/372)
+[^annex6-lvlu1-lvl1-lvl11-1]: [RS 814.412.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9524)
 
 ### 12 Esami singoli
 
@@ -6677,7 +6728,7 @@ La verifica dei veicoli per quanto concerne la loro conformità con le prescrizi
 - 211 Gli strumenti di misurazione del rumore sottostanno alle disposizioni dell’ordinanza del 15 febbraio 2006[^annex6-lvlu1-lvl2-lvl21-1] sugli strumenti di misurazione e alle prescrizioni esecutive corrispondenti del Dipartimento federale di giustizia e polizia.
 - 212 La misurazione è effettuata tramite la valutazione del livello sonoro secondo la curva ponderale A (L<sub>A</sub>) e i tempi di «risposta rapida»; il risultato è espresso in decibel A, abbreviato in dB(A).
 
-[^annex6-lvlu1-lvl2-lvl21-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^annex6-lvlu1-lvl2-lvl21-1]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 ### 22 Contagiri
 
@@ -6708,7 +6759,7 @@ Figura 1
 
 Posizione del microfono per la misurazione del rumore con il veicolo in marcia
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image21.png)
 
 ### 34 Posizione dei microfoni
 
@@ -6743,7 +6794,7 @@ Posizione del microfono per la misurazione del rumore con il veicolo in marcia
 - 351\.212 Gli autoveicoli leggeri con cambio di velocità che abbia più di quattro rapporti (tutte le possibilità di marcia avanti) sono controllati in successione sul secondo e terzo rapporto. Devono essere presi in considerazione soltanto i rapporti globali destinati a un’utilizzazione normale su strada. Si fa la media aritmetica dei due livelli sonori rilevati.
 - 351\.213 Gli autoveicoli pesanti, il cui numero totale di rapporti (tutte le possibilità di marcia avanti) è X (compresi i rapporti ottenuti per mezzo di un cambio ausiliario o di un asse con diversi rapporti) sono controllati in successione sui rapporti il cui rango è
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image22.png)
 
 - è scelto il rapporto immediatamente superiore). È determinante il livello sonoro massimo misurato.
 - 351\.214 Per gli autoveicoli leggeri non sono prese in considerazione le eventuali marce per l’uso fuoristrada (n. 351.215) né per la determinazione del numero dei rapporti né per la scelta di questi ultimi al momento del controllo. Per gli autoveicoli pesanti non sono presi in considerazione, al momento del controllo, i rapporti che non possono essere innestati senza usare la trasmissione ausiliaria o i rapporti che la inseriscono automaticamente (n. 333).
@@ -6777,7 +6828,7 @@ Posizione del microfono per la misurazione del rumore con il veicolo in marcia
 <tr><td>6. Autoveicoli pesanti, eccettuati i veicoli di cui ai numeri 8–10, con una velocità massima, per costruzione, di oltre 25 km/h, cfr. n. 111.1</td><td colspan="2"></td></tr>
 <tr><td>7. Autoveicoli pesanti, eccettuati i veicoli di cui ai numeri 8–10, con una velocità massima per costruzione di 25 km/h e con una potenza del motore: ≤75 kW &gt;75 – ≤150 kW &gt;150 kW</td><td colspan="2">[tab] 80 [tab] 82 [tab] 84</td></tr>
 <tr><td>8. Autoveicoli di lavoro con una velocità massima, per costruzione, di: ≤ 30 km/h &gt; 30 - ≤ 45 km/h &gt; 45 km/h</td><td colspan="2">[tab] 85 [tab] 86 [tab] 87</td></tr>
-<tr><td colspan="2">9. Carri con motore con potenza:</td><td colspan="2">[tab]</td></tr>
+<tr><td colspan="2">9. Carri con motore con potenza:</td><td colspan="2"></td></tr>
 <tr><td colspan="2">≤ 150 kW</td><td colspan="2">84</td></tr>
 <tr><td colspan="2">&gt; 150 kW</td><td colspan="2">86</td></tr>
 <tr><td>10. Trattori (cfr. n. 111.2)</td><td colspan="2"></td></tr>
@@ -6817,7 +6868,7 @@ Figura 2
 
 **Disposizione per la misurazione**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image23.png)
 
 - 422 Condizioni di funzionamento
 - 422\.1 Ad eccezione dei veicoli di cui al numero 422.2, la misurazione del rumore è effettuata ai tre quarti del regime massimo stabilizzato al quale il motore sviluppa la potenza utile massima. Se è impossibile, tecnicamente, effettuare la misurazione, la si farà con il regime ancora stabilizzabile il più vicino al regime prescritto.
@@ -6827,7 +6878,7 @@ Figura 2
 
 <table>
 <tr><td colspan="2">Categoria di veicolo</td><td colspan="2">Valore limite in dB(A)</td></tr>
-<tr><td colspan="2">1. Veicoli cingolati e veicoli con cerchiatura metallica con una potenza del motore di: &lt; 150 kW ≥ 150 kW</td><td colspan="2">[tab] [tab] [tab] 78 [tab] 80</td></tr>
+<tr><td colspan="2">1. Veicoli cingolati e veicoli con cerchiatura metallica con una potenza del motore di: &lt; 150 kW ≥ 150 kW</td><td colspan="2">[tab] 78 [tab] 80</td></tr>
 <tr><td colspan="2">2. Monoassi</td><td colspan="2">80</td></tr>
 </table>
 
@@ -6854,7 +6905,7 @@ Figura 6
 
 **Disposizione per la misurazione**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image24.png)
 
 - 442 Condizioni di funzionamento
 - 442\.1 Prima di ogni misurazione, l’installazione ad aria compressa viene portata alla pressione di funzionamento massima; la misurazione del rumore è effettuata a motore spento.
@@ -6873,7 +6924,7 @@ Allegato 7[^t-6]
 
 ## Freni Procedura di controllo e prescrizioni concernenti l’efficacia
 
-[^t-6]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), dalla cifra II cpv. 1 delle O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), dalla cifra II dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 delle O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), del 15 apr. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalle cifre II delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)), del 15 gen. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)) edel 13 dic. 2024, in vigore dal 1° lug. 2025 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)).
+[^t-6]: Aggiornato dalla cifra II delle O del 2 set. 1998 ([RU 1998 2352](https://fedlex.data.admin.ch/eli/oc/1998/2352_2352_2352)), del 6 set. 2000 ([RU 2000 2433](https://fedlex.data.admin.ch/eli/oc/2000/389)), del 21 ago. 2002 ([RU 2002 3218](https://fedlex.data.admin.ch/eli/oc/2002/485)), dalla cifra II cpv. 1 delle O del 10 giu. 2005 ([RU 2005 4111](https://fedlex.data.admin.ch/eli/oc/2005/545)), del 14 ott. 2009 ([RU 2009 5705](https://fedlex.data.admin.ch/eli/oc/2009/696)), dalla cifra II dell’O del 2 mar. 2012 ([RU 2012 1825](https://fedlex.data.admin.ch/eli/oc/2012/261)), dalla cifra II cpv. 2 delle O del 21 gen. 2015 ([RU 2015 465](https://fedlex.data.admin.ch/eli/oc/2015/67)), del 15 apr. 2015 ([RU 2015 1321](https://fedlex.data.admin.ch/eli/oc/2015/277)), dalla cifra II cpv. 1 delle O del 16 nov. 2016 ([RU 2016 5133](https://fedlex.data.admin.ch/eli/oc/2016/819)), del 21 nov. 2018 ([RU 2019 253](https://fedlex.data.admin.ch/eli/oc/2019/44)), dalle cifre II delle O del 17 dic. 2021 ([RU 2022 14](https://fedlex.data.admin.ch/eli/oc/2022/14)), del 15 gen. 2025 ([RU 2025 70](https://fedlex.data.admin.ch/eli/oc/2025/70)), del 13 dic. 2024 ([RU 2025 28](https://fedlex.data.admin.ch/eli/oc/2025/28)) del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 646](https://fedlex.data.admin.ch/eli/oc/2025/646), [665](https://fedlex.data.admin.ch/eli/oc/2025/665)).
 
 ### 1 Procedura di controllo per veicoli che sottostanno a prescrizioni internazionali
 
@@ -6920,7 +6971,7 @@ Il controllo è eseguito alla velocità indicata per la rispettiva categoria del
 <tr><td>Ruota posteriore</td><td>70 % v<sub>max</sub>, ≤ 80 km/h</td><td></td><td></td><td></td></tr>
 </table>
 
-- *132* *Controllo* *dell’efficacia*
+- *132* *Controllo dell’efficacia*
 - Il controllo dell’efficacia deve avvenire immediatamente dopo. L’efficacia di frenatura non deve essere inferiore al 60 per cento dell’efficacia registrata per la frenata a freddo. Rispetto alle esigenze prescritte per tale frenata, non deve scendere al di sotto dei seguenti valori:
 - 132\.1 Veicoli della categoria M<sub>1</sub>: 75 per cento;
 - 132\.2 Veicoli delle categoria M<sub>2</sub>, M<sub>3</sub>, N, T e C: 80 per cento;
@@ -6957,7 +7008,7 @@ Per quanto riguarda i veicoli della categoria M<sub>1</sub> adibiti a uno scopo 
 
 L’efficacia dei freni può anche essere controllata, in particolare in occasione del controllo successivo, determinando il tasso di frenata conformemente alla seguente formula:
 
-<sup>Tasso di frenata in % =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image25.png)<sup>× 100</sup>
+<sup>Tasso di frenata in % =</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image25.png)<sup>× 100</sup>
 
 ### 21 Veicoli delle categorie M, N, T e C
 
@@ -7096,7 +7147,7 @@ I controlli dei freni secondo i numeri 211, 212 e 214 sono eseguiti con motore d
 - 311\.1 La decelerazione deve essere raggiunta sia con il veicolo vuoto sia con il veicolo carico su una strada piana e con rivestimento duro asciutto. L’efficacia di frenatura deve essere raggiunta con i freni freddi (temperatura non superiore a 100°C, misurata sui tamburi o sui dischi dei freni). Viene misurata la decelerazione media, definita come diminuzione media della velocità in m/s<sup>2</sup> sul tratto percorso tra il momento in cui è azionato il freno (inclusi i tempi di risposta e di incremento) e il momento in cui il veicolo è immobile. Se un apparecchio di misurazione permette di registrare soltanto la decelerazione massima, questa deve essere almeno del 20 per cento più alta della decelerazione media prescritta.
 - L’efficacia dei freni può essere controllata, in particolare in occasione del controllo successivo, determinando il tasso di frenata conformemente alla seguente formula:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image26.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image26.png)</sub>
 
 - 311\.2 Velocità di controllo
 - La velocità per il controllo dei freni di servizio ammonta a 50 km/h e per il controllo dei freni ausiliari a 30 km/h. Se un veicolo non raggiunge queste velocità, il controllo viene eseguito alla velocità massima raggiungibile.
@@ -7135,7 +7186,7 @@ I controlli dei freni secondo i numeri 211, 212 e 214 sono eseguiti con motore d
 <tr><td>313*a*.2</td><td>per il freno ausiliario</td><td>1,3</td><td>16</td></tr>
 </table>
 
-- *314* *Rimorchi di lavoro,* *rimorchi trainati da veicoli trattori con una velocità massima di 30 km/h e rimorchi agricoli e forestali*
+- *314* *Rimorchi di lavoro, rimorchi trainati da veicoli trattori con una velocità massima di 30 km/h e rimorchi agricoli e forestali*
 - La decelerazione o la frenata del freno di servizio deve ammontare almeno a:
 
 <table>
@@ -7201,9 +7252,9 @@ Per questi veicoli è allestito un certificato di approvazione del tipo o una sc
 - 412\.1 tutti i dati di base, il metodo di calcolo dell’efficacia d’immobilizzazione e la verifica dell’utilizzazione dell’aderenza;
 - 412\.2 a seconda del modello del dispositivo di frenatura, la funzione «produzione di forza all’estremità della vite filettata» (FSp), in relazione con la «forza manuale esercitata», oppure «la forza nel cilindro, all’asta di comando del cilindro del freno a molla» (FB).
 - 413 La prova che sono stati eseguiti con successo i controlli di frenatura del tipo I, del tipo II, del tipo IIA o del tipo III deve essere apportata mediante i calcoli allestiti per mezzo dei verbali di controllo dei rispettivi assi di riferimento.
-- 414 Le prove concernenti il cronometraggio (tempi di risposta e di incremento) e le prove dei serbatoi devono essere apportate presentando rapporti peritali (misurazioni sul rispettivo dispositivo di frenatura ad aria compressa standard o sul veicolo).
+- 414 Le prove concernenti il cronometraggio (tempi di risposta e di incremento) e le prove dei serbatoi devono essere apportate presentando rapporti di esame (misurazioni sul rispettivo dispositivo di frenatura ad aria compressa standard o sul veicolo).
 
-[^annex7-lvlu1-lvl4-lvl41-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^annex7-lvlu1-lvl4-lvl41-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 
 ### 42 Procedura di controllo
 
@@ -7313,7 +7364,7 @@ Per i trattori agricoli, l’altezza libera per i sedili dei passeggeri, misurat
 
 <table>
 <tr><td></td><td>2 posti</td><td>3 posti</td><td>4 posti</td></tr>
-<tr><td>– autoveicoli leggeri</td><td>[tab] 0,63 m</td><td>[tab] 1,01 m</td><td>[tab]</td></tr>
+<tr><td>– autoveicoli leggeri</td><td>[tab] 0,63 m</td><td>[tab] 1,01 m</td><td></td></tr>
 <tr><td>– autoveicoli pesanti</td><td>[tab] 0,72 m</td><td>[tab] 1,17 m</td><td>[tab] 1,62 m</td></tr>
 <tr><td>– scuolabus</td><td>[tab] 0,58 m</td><td>[tab] 0,88 m</td><td>[tab] 1,18 m</td></tr>
 </table>
@@ -7425,7 +7476,7 @@ La superficie di un posto in piedi deve essere di almeno 0,125 m<sup>2</sup>. Le
 
 - 341 Il numero totale dei posti (N) dev’essere calcolato come segue:
 
-<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image27.png)
+<sup>N = A +</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image27.png)
 
 - 342 N = numero totale dei posti
   - A = numero dei posti a sedere
@@ -7637,31 +7688,31 @@ Allegato 10[^t-9]
 Schema 1
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image28.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 4 m, che non appartengono alle categorie M o N.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image28.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 4 m, che non appartengono alle categorie M o N.</td></tr>
 </table>
 
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image29.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image29.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m</td></tr>
 </table>
 
 Schema III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image30.png)</td><td>Valido soltanto per i veicoli che non appartengono alle categorie M o N. Distanza tra gli indicatori di direzione lampeggianti e la parte frontale del veicolo: 1,80 m al massimo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image30.png)</td><td>Valido soltanto per i veicoli che non appartengono alle categorie M o N. Distanza tra gli indicatori di direzione lampeggianti e la parte frontale del veicolo: 1,80 m al massimo</td></tr>
 </table>
 
 Schema IV
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image31.png)</td><td>Valido per i veicoli di qualsiasi lunghezza. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image31.png)</td><td>Valido per i veicoli di qualsiasi lunghezza. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo</td></tr>
 </table>
 
 Schema V
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image32.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo. La superficie luminosa delle luci di ingombro laterali che lampeggiano insieme deve essere almeno di 12,5 cm<sup>2</sup>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image32.png)</td><td>Valido soltanto per i veicoli con lunghezza fino a 6 m. Distanza tra gli indicatori di direzione lampeggianti laterali e la parte frontale del veicolo: 2,50 m al massimo. La superficie luminosa delle luci di ingombro laterali che lampeggiano insieme deve essere almeno di 12,5 cm<sup>2</sup>.</td></tr>
 </table>
 
 ### 52 Motoveicoli
@@ -7673,31 +7724,39 @@ Schema I
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image33.png)</td><td>Distanza minima tra gli indicatori di direzione lampeggianti: davanti 24 cm dietro 18 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image33.png)</td><td>Distanza minima tra gli indicatori di direzione lampeggianti: davanti 24 cm dietro 18 cm</td></tr>
 </table>
 
 ### 53 Motoveicoli con carrozzino laterale
+
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image34.png)</td><td></td></tr>
+</table>
 
 ### 54 Trattori agricoli
 
 Schema I
 
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image35.png)</td><td></td></tr>
+</table>
+
 Schema II
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image36.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 1,80 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image36.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 1,80 m</td></tr>
 </table>
 
 Schema III
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image37.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 2,60 m</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image37.png)</td><td>Il valore di 5° per l’angolo morto della visibilità dell’indicatore di direzione lampeggiante supplementare laterale rivolto verso il dietro è un limite superiore. Questo valore può essere aumentato a 10° se non possono essere rispettati i 5°. d ≤ 2,60 m</td></tr>
 </table>
 
 Schema IV
 
 <table>
-<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image38.png)</td><td>Il valore di 10° per la visibilità degli indicatori di direzione lampeggianti anteriori rivolti verso l’interno può essere ridotto a 3 per i veicoli con una larghezza non superiore ovunque a 1,40 m.</td></tr>
+<tr><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image38.png)</td><td>Il valore di 10° per la visibilità degli indicatori di direzione lampeggianti anteriori rivolti verso l’interno può essere ridotto a 3 per i veicoli con una larghezza non superiore ovunque a 1,40 m.</td></tr>
 </table>
 
 Categorie di indicatori di direzione lampeggiante:
@@ -7709,7 +7768,7 @@ Categorie di indicatori di direzione lampeggiante:
 ### 55 Rimorchi
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image39.png)</td><td>.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image39.png)</td><td>.</td></tr>
 </table>
 
 ### 6 Angolo di visibilità delle luci di posizione, delle luci di coda, delle luci di fermata, delle luci di ingombro e di parcheggio e dei fari fendinebbia di coda
@@ -7719,25 +7778,25 @@ Categorie di indicatori di direzione lampeggiante:
 
 ### 63 Per le luci di posizione e le luci di coda
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image40.png)
 
 - Per i veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> gli angoli di visibilità orizzontali possono essere ridotti a 45° verso l’esterno, se davanti risp. dietro sono montate luci di ingombro laterali supplementari con una superficie illuminante di almeno 12,5 cm<sup>2</sup>. Per i rimorchi l’angolo di visibilità interno deve essere pari ad almeno 5°.
 
 ### 64 Per le luci di fermata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image41.png)
 
 ### 65 Per le luci supplementari di fermata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image42.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image42.png)
 
 ### 66 Per le luci di parcheggio
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image43.png)
 
 ### 67 Per i fari fendinebbia di coda
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image44.png)
 
 ### 7 Regolazione
 
@@ -7748,7 +7807,7 @@ Categorie di indicatori di direzione lampeggiante:
 - 713 La linea orizzontale dello schermo deve avere dal suolo la medesima distanza del filamento del proiettore controllato; la linea verticale deve avere dall’asse longitudinale del veicolo la stessa distanza che il filamento.
 - 714 Per i veicoli il cui montaggio dei dispositivi d’illuminazione è approvato conformemente alle prescrizioni internazionali riconosciute, la regolazione si fonda sulle medesime prescrizioni.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20250701/it/xml/image/image45.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425/20260101/it/xml/image/image45.png)
 
 ### 72 Fari di profondità
 
@@ -7871,7 +7930,7 @@ Allegato 12[^t-11]
 
 - **13** Agli equipaggiamenti che possono essere montati o usati su veicoli e che non sono disciplinati nella presente ordinanza si applica l’ordinanza del 25 novembre 2015[^annex12-lvlu1-lvl1-1] sulla compatibilità elettromagnetica.
 
-[^annex12-lvlu1-lvl1-1]: [RS 734.5](https://fedlex.data.admin.ch/eli/cc/2016/18)
+[^annex12-lvlu1-lvl1-1]: [RS 734.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8590)
 
 Allegato 13[^t-12]
 
