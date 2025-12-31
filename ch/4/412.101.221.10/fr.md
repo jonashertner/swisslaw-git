@@ -3,18 +3,18 @@ sr: "412.101.221.10"
 title: Ordonnance du SEFRI du 16 août 2022 sur la formation professionnelle initiale de graphiste avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/496"
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2022-08-16
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/496/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-496-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/496/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/496/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-496-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/496/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de graphiste avec certificat fédéral de capacité (CFC)
 
-du 16 août 2022 (État le 1<sup>er</sup> janvier 2023)
+du 16 août 2022 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>90306</td><td>Graphiste CFC Grafikerin EFZ / Grafiker EFZ Grafica AFC / Grafico AFC</td></tr>
@@ -26,8 +26,8 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet et durée
 
@@ -167,7 +167,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <table>
 <tr><th>Enseignement</th><th>1<sup>re</sup> année</th><th>2<sup>e</sup> année</th><th>3<sup>e</sup> année</th><th>4<sup>e</sup> année</th><th>Total</th></tr>
-<tr><td>a. Connaissances professionnelles</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Organisation des projets et des processus de travail Recherche et analyse d’éléments de base pour les projets Élaboration de stratégies de communication Transmission de contenus et de compétences</td><td>120</td><td>140</td><td>100</td><td>60</td><td>420</td></tr>
 <tr><td>– Développement et transmission d’idées Mise en œuvre de concepts de communication visuelle</td><td>40</td><td>80</td><td>40</td><td>40</td><td>200</td></tr>
 <tr><td>– Élaboration de concepts de communication visuelle</td><td>360</td><td>300</td><td>140</td><td>100</td><td>900</td></tr>
@@ -179,13 +179,14 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 ## Section 5 Plan de formation
 
@@ -354,11 +355,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
   - 2\. le domaine de qualification porte sur l’évaluation du portfolio,
   - 3\. le portfolio porte sur le domaine de compétences opérationnelles visé à l’art. 4, let. g;
 
-- d. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-1].
+- d. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^17-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 18
 
