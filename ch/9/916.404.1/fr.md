@@ -4,11 +4,11 @@ title: Ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de
 short: OId-BDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: fr
-version: 2025-02-01
+version: 2026-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250201/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-751-20260101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/fr"
 
 (OId-BDTA)
 
-du 3 novembre 2021 (État le 1<sup>er</sup> février 2025)
+du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 7*a*, al. 6, 16, 45*b*, al. 3, 45*f* et 53, al. 1, de la loi du 1<su
 
 arrête:
 
-[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## 1 Dispositions générales
 
@@ -67,8 +67,8 @@ Dans la présente ordonnance, on entend par:
 - e. *système IAM*: système de gestion des identités du portail Internet Agate (Identity and Access Management) visé à l’art. 20*a* OSIAgr;
 - f. *effectif*: animaux qui séjournent dans une unité d’élevage.
 
-[^2-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^2-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^2-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^2-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ## Chapitre 2 Tâches et obligations d’Identitas SA
 
@@ -100,14 +100,15 @@ Elle fournit l’infrastructure et les services informatiques pour:
 En outre, elle accomplit les tâches suivantes:
 
 - a. elle fournit un soutien technique pour le système d’information centralisé relatif aux flux d’éléments fertilisants (Hoduflu) visé à l’art. 14 OSIAgr[^3-3];
-- b. elle fournit un soutien aux utilisateurs pour la connexion au portail Internet Agate;
+- b.[^3-4] elle fournit une assistance technique pour la connexion au portail Internet Agate, en veillant à la coordination avec le soutien technique visé à l’al. 3;
 - c. elle fournit les marques auriculaires destinées aux animaux à onglons;
 - d. elle verse les contributions aux frais d’élimination des sous-produits animaux;
 - e. elle encaisse la taxe perçue à l’abattage.
 
 [^3-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^3-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^3-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^3-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^3-3]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 4
 
@@ -179,7 +180,7 @@ La BDTA contient les données concernant:
 - f. la taxation neutre de la qualité des animaux abattus visée à l’art. 3 OBB;
 - g. les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes qui concernent la salubrité de la viande.
 
-[^10-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^10-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 11
 
@@ -190,8 +191,9 @@ La BDTA contient les données concernant:
 L’historique comprend les données suivantes relatives à un animal:
 
 - a. numéro d’identification de l’animal;
-- b. numéros BDTA des différentes unités d’élevage où l’animal séjourne ou a séjourné;
-- c. adresse de l’emplacement et région d’appartenance des différentes unités d’élevage où l’animal séjourne ou a séjourné;
+- b.[^11-1] concernant chacun des événements énumérés à l’annexe 1, date et numéro BDTA ou numéro du Registre des entreprises et des établissements (numéro REE) des différentes unités d’élevage où l’animal séjourne ou a séjourné;
+- b<sup>bis</sup>.[^11-2] concernant les événements «entrée d’un animal» et «abattage d’un animal», en plus des données indiquées à la let. b, numéro BDTA ou REE de l’unité d’élevage d’où provient l’animal;
+- c.[^11-3] adresse de l’emplacement, coordonnées et région d’appartenance ainsi que type d’élevage au sens de l’art. 6, let. o, OFE[^11-4] des différentes unités d’élevage où l’animal séjourne ou a séjourné;
 - d. nom et adresse des différents détenteurs qui détiennent ou ont détenu l’animal;
 - e. concernant les bovins, les buffles et les bisons: date et événement selon l’annexe 1, ch. 1, dans les unités d’élevage où l’animal séjourne ou a séjourné;
 - f. concernant les ovins et les caprins: date et événement selon l’annexe 1, ch. 2, dans les unités d’élevage où l’animal séjourne ou a séjourné;
@@ -212,10 +214,17 @@ Les informations détaillées comprennent les données suivantes relatives à un
 - a. le genre, la race, le sexe et, si elle est connue, la robe de l’animal;
 - b. le numéro d’identification de la mère et, s’il est connu, du père de l’animal;
 - c. si elles sont connues, les naissances multiples;
+- c<sup>bis</sup>.[^11-5] concernant les femelles avec descendance, le numéro d’identification des descendants;
 - d. concernant les bovins, les buffles d’Asie et les bisons ainsi que les ovins et les caprins: le type d’utilisation;
-- e. concernant les équidés: numéro de la puce électronique, signalement verbal rudimentaire et utilisation prévue conformément à l’art. 15 de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)[^11-1].
+- e.[^11-6] concernant les équidés, espèce, numéro de la puce électronique, signalement verbal rudimentaire et utilisation prévue conformément à l’art. 15 de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires (OMédV)[^11-7].
 
-[^11-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-2]: Introduite par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-4]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^11-5]: Introduite par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-6]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-7]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 12
 
@@ -237,12 +246,12 @@ La BDTA peut reprendre les données d’autres systèmes d’information:
 - e. de eTransit: informations sur les documents d’accompagnement établis électroniquement;
 - f. du système IAM: les données sur les utilisateurs de la BDTA.
 
-[^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^12-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^12-3]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^12-4]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^12-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-5]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^12-7]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Section 2 Enregistrement des personnes, des unités d’élevage et du trafic des animaux
@@ -256,7 +265,8 @@ La BDTA peut reprendre les données d’autres systèmes d’information:
 Les détenteurs de bovins, de buffles, de bisons, d’ovins, de caprins et de porcins, les détenteurs d’animaux des unités d’élevage de volailles domestiques de plus de 250 places pour des animaux d’élevage, de plus de 1000 places pour les poules pondeuses, ayant une surface de base du poulailler de plus de 333 m<sup>2</sup> pour les poulets à l’engrais ou de plus de 200 m<sup>2</sup> pour les dindes à l’engrais, ainsi que les abattoirs, doivent transmettre à la BDTA les données suivantes:[^13-1]
 
 - a. le numéro de téléphone et la langue de correspondance;
-- b. les coordonnées postales ou bancaires.
+- b. les coordonnées postales ou bancaires;
+- c.[^13-2] l’adresse de courrier électronique.
 
 <sup>2</sup> Les détenteurs de bovins, de buffles, de bisons, d’ovins, de caprins et de porcins doivent transmettre à la BDTA les données sur le type d’utilisation de l’unité d’élevage. Cette obligation n’est pas valable pour les abattoirs.
 
@@ -265,6 +275,7 @@ Les détenteurs de bovins, de buffles, de bisons, d’ovins, de caprins et de po
 <sup>4</sup> Les détenteurs de volaille domestique peuvent en outre transmettre des indications concernant le bâtiment.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
+[^13-2]: Introduite par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 14
 
@@ -280,7 +291,7 @@ Les propriétaires d’équidés, les personnes qui identifient les équidés co
 
 <sup>2</sup> Les modifications des données visées à l’al. 1 doivent également être transmises.
 
-[^14-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^14-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^14-2]: RS **910.341**
 
 #### Art. 15
@@ -338,7 +349,10 @@ Les abattoirs doivent transmettre à la BDTA:
 - a. les données conformément à l’annexe 1, ch. 4, let. j;
 - b. les données conformément à l’annexe 1, ch. 4, let. d, si un animal meurt à l’abattoir ou pendant le transport à l’abattoir et qu’il y est éliminé.
 
-[^19-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+<sup>6</sup> Les services chargés de délivrer les passeports équins (art. 15*c* OFE) doivent enregistrer dans la BDTA les données visées à l’annexe 1, ch. 4, let. l.[^19-2]
+
+[^19-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^19-2]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 20
 
@@ -346,7 +360,7 @@ Les abattoirs doivent transmettre à la BDTA:
 
 À la naissance d’un équidé, le propriétaire peut, avant de commander le passeport de base, habiliter le service qui émet le passeport équin (art. 15*c* OFE[^20-1]) à modifier les données de l’équidé dans la BDTA.
 
-[^20-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^20-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 21
 
@@ -382,23 +396,21 @@ Identitas SA vérifie l’exhaustivité et la plausibilité des données visées
 
 #### Art. 25
 
-**Rectification des données**
+**Rectification ou suppression des données**[^25-1]
 
-<sup>1</sup> Les personnes soumises au devoir de notification et les mandataires peuvent effacer ou modifier en ligne, dans un délai de dix jours, les données qu’elles ont transmises, à l’exception de la notification du changement de l’utilisation prévue chez les équidés conformément à l’annexe 1, ch. 4, let. f.[^25-1]
+<sup>1</sup>
 
-<sup>2</sup> L’abattoir peut modifier en ligne le numéro BDTA du requérant visé à l’annexe 1, ch. 1, let. e, ch. 7, ch. 2, let. e, ch. 7 et ch. 4, let. j, ch. 5, jusqu’à 30 jours après l’abattage.
+Les personnes soumises au devoir de notification et les mandataires peuvent effacer ou modifier en ligne les données qu’ils ont transmises, ou demander à Identitas SA, par téléphone ou par écrit, de le faire, sauf dans les cas suivants:
 
-<sup>3</sup> Les personnes soumises au devoir de notification et les mandataires peuvent demander à Identitas SA, par écrit ou par téléphone, la rectification des données qu’elles ont transmises.[^25-2]
+- a. modification de l’utilisation prévue chez les animaux domestiques ou les équidés conformément àl’annexe 1, ch. 4, let. f;
+- b. l’effacement des données enregistrées à la naissance des équidés conformément à l’annexe 1, ch. 4, let. a.
 
-<sup>4</sup> Les tiers ne peuvent demander une rectification à Identitas SA que pour les données concernant la sortie d’un animal visées à l’annexe 1, ch. 1, let. d, et 2, let. d. Pour ce faire, ils doivent lui remettre le document d’accompagnement prévu à l’art. 12 OFE[^25-3].[^25-4]
+<sup>2</sup> Les tiers ne peuvent demander une modification ou un effacement à Identitas SA que pour les données concernant l’entrée ou la sortie d’un animal visées à l’annexe 1, ch. 1, let. c et d, et 2, let. c et d. Pour ce faire, ils doivent lui remettre le document d’accompagnement prévu à l’art. 12 OFE[^25-2].
 
-<sup>5</sup> Les services cantonaux compétents pour l’exécution de la législation sur les épizooties peuvent demander, par écrit ou par téléphone, à Identitas SA la rectification des données visées à l’annexe 1.[^25-5]
+<sup>3</sup> Les services cantonaux compétents pour l’exécution de la législation sur les épizooties peuvent demander à Identitas SA, par écrit ou par téléphone, la modification ou l’effacement des données visées à l’annexe 1.
 
-[^25-1]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^25-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^25-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^25-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^25-5]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^25-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 26
 
@@ -425,16 +437,17 @@ Elle transmet au propriétaire et au détenteur de l’animal, suite à la notif
 
 Elle transmet à l’Organisation du monde du travail Métiers liés au cheval les données suivantes concernant chaque unité d’élevage comprenant des équidés, en vue du prélèvement de la taxe pour le fonds en faveur de la formation professionnelle:
 
-- a. le numéro BDTA de l’unité d’élevage;
+- a. le numéro BDTA ou REE[^27-4] de l’unité d’élevage;
 - b. le nom, l’adresse, l’adresse de courrier électronique et le numéro de téléphone du détenteur de l’animal;
 - c. le nombre d’équidés qui séjournent dans l’unité d’élevage;
-- d.[^27-4] le nombre d’équidés âgés de plus de 3 ans qui séjournent dans l’unité d’élevage;
+- d.[^27-5] le nombre d’équidés âgés de plus de 3 ans qui séjournent dans l’unité d’élevage;
 - e. le nombre d’équidés dont le changement d’unité d’élevage n’a pas été notifié par le propriétaire.
 
-[^27-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^27-3]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^27-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^27-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^27-3]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^27-4]: Nouvelle expression selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)). Il a été tenu compte de cette mod. dans tout le texte, sauf à l’art. 15.
+[^27-5]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
 
@@ -446,7 +459,7 @@ Elle transmet à l’Organisation du monde du travail Métiers liés au cheval l
 
 <sup>3</sup> En cas de changement de l’utilisation prévue d’un équidé, soit d’animal de rente à animal de compagnie, elle met à la disposition du propriétaire l’autocollant correspondant à coller dans le passeport équin.
 
-[^28-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^28-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### Section 3 Demandes de parts de contingent d’importation de viande et de produits à base de viande et collecte des données pertinentes
 
@@ -456,7 +469,7 @@ Elle transmet à l’Organisation du monde du travail Métiers liés au cheval l
 
 Identitas SA garantit que les demandes de parts de contingent selon l’art. 24*b* OBB[^29-1] puissent être déposées dans la BDTA.
 
-[^29-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^29-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 30
 
@@ -467,8 +480,8 @@ Identitas SA établit pour chaque période de référence, par requérant, les d
 - a. le nombre de bovins, d’ovins, de caprins et d’équidés selon l’art. 24*a* OBB[^30-1];
 - b. les numéros du permis général d’importation de la personne autorisée, le cas échéant, à utiliser la part du contingent au sens de l’art. 14, al. 1 et 2, de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^30-2].
 
-[^30-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
-[^30-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^30-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
+[^30-2]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 
 ### Section 4 Résultats de la taxation neutre de la qualité des animaux abattus
 
@@ -478,7 +491,7 @@ Identitas SA établit pour chaque période de référence, par requérant, les d
 
 <sup>2</sup> Elle met à la disposition de l’organisation chargée de la taxation neutre de la qualité visée à l’art. 3 OBB le résultat de cette taxation.
 
-[^31-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^31-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 ### Section 5 Publication des évaluations
 
@@ -515,7 +528,7 @@ L’OFAG, l’OSAV, l’Office fédéral de la statistique, l’Office fédéral
 
 Les organisations d’élevage, de producteurs, de production sous label et les services sanitaires peuvent consulter et utiliser les données suivantes de leurs membres dans la BDTA:
 
-- a. le numéro BDTA, l’adresse de l’emplacement et les coordonnées des unités d’élevage, le numéro de la commune ainsi que le type d’unité d’élevage selon l’art. 6, let. o, OFE[^35-1];
+- a.[^35-1] le numéro BDTA, le numéro REE, l’adresse de l’emplacement et les coordonnées des unités d’élevage, le numéro de la commune ainsi que le type d’unité d’élevage selon l’art. 6, let. o, OFE[^35-2];
 - b. la liste des numéros d’identification des animaux qui séjournent dans les unités d’élevage ou qui y ont séjourné;
 - c. le nom, l’adresse et le numéro d’identification cantonal des détenteurs d’animaux;
 - d. les numéros d’identification sur les marques auriculaires qui ont été fournis par Identitas SA aux membres des organisations concernées;
@@ -525,7 +538,8 @@ Les organisations d’élevage, de producteurs, de production sous label et les 
 
 <sup>2</sup> Les organisations d’élevage, de producteurs et de production sous label ainsi que les services sanitaires peuvent consulter dans la BDTA et utiliser les autres données visées aux art. 13 à 21 qui concernent leurs membres, pour autant que ceux-ci y consentent dans la BDTA.
 
-[^35-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^35-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 36
 
@@ -547,7 +561,7 @@ Les détenteurs d’animaux chez lesquels un animal a séjourné et, le cas éch
 - c. les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes qui concernent la salubrité de la viande.
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^36-2]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^36-2]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 37
 
@@ -565,17 +579,17 @@ Les personnes mandatées visées à l’art. 23 peuvent consulter et utiliser le
 
 [^38a-1]
 
-[^38a-1]: En vigueur le 1<sup>er</sup> janv. 2026 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^38a-1]: Entre en vigueur le 1<sup>er</sup> janv. 2027 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)ch. III).
 
 #### Art. 38b
 
-**Accès via le numéro BDTA, le numéro d’identification ou le numéro de la puce électronique**[^38b-1]
+**Accès via le numéro BDTA, le numéro REE, le numéro d’identification ou le numéro de la puce électronique[^38b-2]**[^38b-1]
 
 <sup>1</sup>
 
-Quiconque dispose du numéro BDTA d’une unité d’élevage peut, sans l’accord de la personne concernée, consulter et utiliser les données suivantes relatives à cette unité d’élevage:
+Quiconque dispose du numéro BDTA ou REE d’une unité d’élevage peut, sans l’accord de la personne concernée, consulter et utiliser les données suivantes relatives à cette unité d’élevage:
 
-- a. concernant les unités d’élevage agricoles au sens de l’art. 11 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^38b-2]: la région d’appartenance;
+- a. concernant les unités d’élevage agricoles au sens de l’art. 11 de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^38b-3]: la région d’appartenance;
 - b. concernant les unités d’élevage comprenant des bovins, des buffles ou des bisons: le statut BVD;
 - c. concernant les unités d’élevage comprenant des ovins: le statut piétin.
 
@@ -587,13 +601,16 @@ Quiconque dispose du numéro d’identification ou du numéro de la puce électr
 - b. informations détaillées sur l’animal;
 - c. concernant les bovins, les buffles et les bisons: le statut BVD, le statut de l’historique de l’animal et la date de naissance;
 - d. concernant les ovins et les caprins: le statut de l’historique de l’animal et la date de naissance;
-- e. concernant les équidés: l’utilisation prévue au sens de l’art. 15 de l’OMédV[^38b-3].
+- e.[^38b-4] concernant les équidés, la date de naissance et l’utilisation prévue au sens de l’art. 15 OMédV[^38b-5].
 
-<sup>3</sup> Les personnes qui veulent consulter et utiliser les données se procurent elles-mêmes les numéros BDTA des unités d’élevage ainsi que les numéros d’identification et les numéros de la puce électronique des animaux.
+<sup>3</sup> Les personnes qui veulent consulter et utiliser les données se procurent elles-mêmes les numéros BDTA et REE des unités d’élevage ainsi que les numéros d’identification et les numéros de la puce électronique des animaux.[^38b-6]
 
 [^38b-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^38b-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^38b-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^38b-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^38b-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^38b-4]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^38b-5]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^38b-6]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 39
 
@@ -630,7 +647,7 @@ Les systèmes d’information suivants peuvent tirer les données de la BDTA via
 
 [^40-1]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 [^40-2]: Nouvelle teneur selon l’annexe 4 ch. II 9 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^40-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^40-3]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^40-4]: Introduite par l’annexe ch. 3 de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 ## Chapitre 4 Calculateur UGB
@@ -641,7 +658,9 @@ Les systèmes d’information suivants peuvent tirer les données de la BDTA via
 
 <sup>1</sup> Le calculateur UGB permet de calculer les effectifs en unités de gros bétail (UGB) sur la base des données de la BDTA.
 
-<sup>2</sup> Il contient les données sur les unités d’élevage et les données calculées selon les art. 42 à 44.
+<sup>2</sup> Il contient les données sur les unités d’élevage et les données calculées selon les art. 42 à 43*a*.[^41-1]
+
+[^41-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 42
 
@@ -654,15 +673,15 @@ Le calculateur UGB peut reprendre les données suivantes issues d’autres syst�
 
 #### Art. 43
 
-**Calcul des valeurs UGB pour les bovins, buffles, bisons et équidés**
+**Calcul des valeurs UGB pour les bovins, les buffles d’Asie, les bisons, les ovins, les caprins et les équidés[^43-1]**
 
 <sup>1</sup>
 
-Identitas SA calcule ou détermine chaque année les données visées aux art. 36 et 37 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^43-1] pour les bovins, buffles, bisons et équidés, selon la catégorie d’animaux et par unité d’élevage:
+Identitas SA calcule ou détermine chaque année les données visées aux art. 36 et 37 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^43-2] pour les bovins, les buffles d’Asie, les bisons, les ovins, les caprins et les équidés, selon la catégorie d’animaux et par unité d’élevage:
 
-- a. dans les exploitations à l’année selon l’art. 6 OTerm[^43-2]: l’effectif déterminant et l’effectif au 1<sup>er</sup> janvier, y compris la liste de tous les animaux;
-- b. dans les exploitations d’estivage et les exploitations de pâturages communautaires selon les art. 8 et 9 OTerm, sans les bisons: l’effectif déterminant et l’effectif au 25 juillet, y compris la liste de tous les animaux;
-- c. l’évolution des effectifs dans les exploitations à l’année, les exploitations d’estivage et les exploitations de pâturages communautaires, durant les périodes de références visées à l’art. 36 OPD.
+- a. dans les exploitations à l’année selon l’art. 6 OTerm[^43-3], l’effectif déterminant et l’effectif au 1<sup>er</sup> janvier, y compris la liste de tous les animaux;
+- b. dans les exploitations d’estivage et les exploitations de pâturages communautaires selon les art. 8 et 9 OTerm, sans les bisons, l’effectif déterminant et l’effectif au 25 juillet, y compris la liste de tous les animaux;
+- c. l’évolution des effectifs dans les exploitations à l’année, les exploitations d’estivage et les exploitations de pâturages communautaires, durant les périodes de références visées à l’art. 36 OPD.[^43-4]
 
 <sup>2</sup> Elle enregistre les données visées à l’al. 1 dans le calculateur UGB.
 
@@ -670,8 +689,10 @@ Identitas SA calcule ou détermine chaque année les données visées aux art. 3
 
 <sup>4</sup> L’OFAG édicte les dispositions relatives au mode de calcul et à la forme de mise à disposition des données.
 
-[^43-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^43-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^43-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^43-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^43-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^43-4]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 43a
 
@@ -684,44 +705,28 @@ Identitas SA calcule ou détermine chaque année les données visées aux art. 3
 <sup>3</sup> Elle met les données à la disposition des services cantonaux compétents, de l’OFAG et de l’Office fédéral de la statistique.
 
 [^43a-1]: Introduit par l’annexe ch. 4 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^43a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^43a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 44
 
-**Calcul des valeurs UGB pour les ovins et les caprins**[^44-1]
+[^44-1]
 
-<sup>1</sup>
-
-Identitas SA calcule ou détermine chaque année les données visées aux art. 36 et 37 OPD[^44-2] pour les ovins et caprins selon la catégorie d’animaux et par unité d’élevage:
-
-- a. dans les exploitations à l’année selon l’art. 6 OTerm[^44-3]: l’effectif déterminant et l’effectif au 1<sup>er</sup> janvier, y compris la liste de tous les animaux;
-- b. dans les exploitations d’estivage et les exploitations de pâturages communautaires selon les art. 8 et 9 OTerm: l’effectif déterminant et l’effectif au 25 juillet, y compris la liste de tous les animaux;
-- c. l’évolution des effectifs dans les exploitations à l’année, les exploitations d’estivage et les exploitations de pâturages communautaires, durant les périodes de références visées à l’art. 36 OPD.
-
-<sup>2</sup> Elle calcule ou détermine une fois les données pour les années de référence selon l’art. 41, al. 3<sup>bis</sup>, OPD.
-
-<sup>3</sup> Elle enregistre les données visées à l’al. 1 dans le calculateur UGB.
-
-<sup>4</sup> Elle met les données à la disposition des services cantonaux compétents, de l’OFAG et de l’Office fédéral de la statistique.
-
-<sup>5</sup> L’OFAG édicte les dispositions relatives au mode de calcul et à la forme de mise à disposition des données.
-
-[^44-1]: En vigueur depuis le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
-[^44-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^44-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^44-1]: Abrogé par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 45
 
-**Établissement de la liste UGB pour les bovins, buffles d’Asie, bisons et équidés**
+**Établissement de la liste UGB pour les bovins, les buffles d’Asie, les bisons, les ovins, les caprins et les équidés**[^45-1]
 
-Au plus tard 15 jours après l’échéance des périodes de référence visées à l’art. 36 OPD[^45-1], Identitas SA met à la disposition du détenteur d’animaux, par voie électronique, une liste de ses bovins, buffles d’Asie, bisons et équidés. Cette liste comprend:
+Au plus tard 15 jours après l’échéance des périodes de référence visées à l’art. 36 OPD[^45-2], Identitas SA met à la disposition du détenteur d’animaux, par voie électronique, une liste de ses bovins, buffles d’Asie, bisons, ovins, caprins et équidés. Cette liste comprend:
 
-- a. les indications visés à l’art. 43, al. 1;
+- a. les indications visées à l’art. 43, al. 1;
 - b. pour les bovins, les buffles d’Asie et les bisons, les données portant sur le type d’utilisation au sens de l’annexe 1, ch. 1, let. h, ch. 3;
-- c. pour les équidés, les données sur l’utilisation prévue au sens de l’art. 15 OMédV[^45-2].
+- c. pour les ovins et les caprins, les données portant sur le type d’utilisation au sens de l’annexe 1, ch. 2, let. h, ch. 3;
+- d. pour les équidés, les données sur l’utilisation prévue au sens de l’art. 15 OMédV[^45-3].
 
-[^45-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^45-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^45-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^45-3]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 45a
 
@@ -730,36 +735,30 @@ Au plus tard 15 jours après l’échéance des périodes de référence visées
 Au plus tard 15 jours après l’échéance des périodes de référence visées à l’art. 36 OPD[^45a-2], Identitas SA met à la disposition du détenteur d’animaux, par voie électronique, une liste comprenant les indications visées à l’art. 43*a*.
 
 [^45a-1]: Introduit par l’annexe ch. 4 de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^45a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^45a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 46
 
-**Établissement de la liste UGB pour les ovins et les caprins**[^46-1]
+[^46-1]
 
-Au plus tard 15 jours après l’échéance des périodes de référence visées à l’art. 36 OPD[^46-2], Identitas SA met à la disposition du détenteur d’animaux, par voie électronique, une liste de ses ovins et caprins. Cette liste comprend les indications visés à l’art. 44, al. 1, ainsi que les données portant sur le type d’utilisation au sens de l’annexe 1, ch. 2, let. h, ch. 3.
-
-[^46-1]: En vigueur depuis le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
-[^46-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^46-1]: Abrogé par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 47
 
-**Mise à disposition d’un instrument de calcul pour les bovins, les buffles d’Asie, les bisons et les équidés**
+**Mise à disposition d’un instrument de calcul pour les bovins, les buffles d’Asie, les bisons, les ovins, les caprins et les équidés**[^47-1]
 
 Identitas SA met à la disposition des détenteurs d’animaux ainsi que des services administratifs et des entreprises, organisations et organes de contrôle mandatés visés à l’art. 34, un instrument permettant de convertir pour une période de leur choix, d’un an au plus:
 
-- a. l’effectif des bovins, des buffles d’Asie, des bisons et des équidés, en unités de gros bétail par catégorie d’animaux;
-- b. concernant la mise à l’alpage et l’estivage, l’effectif des bovins, des buffles d’Asie et des équidés, en pâquiers normaux par catégorie d’animaux.
+- a. l’effectif des bovins, des buffles d’Asie, des bisons, des ovins, des caprins et des équidés en unités de gros bétail par catégorie d’animaux;
+- b. concernant la mise à l’alpage et l’estivage, l’effectif des bovins, des buffles d’Asie, des ovins, des caprins et des équidés, en pâquiers normaux par catégorie d’animaux.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 48
 
-**Calcul des valeurs UGB pour les ovins et les caprins**[^48-1]
+[^48-1]
 
-Identitas SA met à la disposition des détenteurs d’animaux ainsi que des services administratifs et des entreprises, organisations et organes de contrôle mandatés visés à l’art. 34 un instrument permettant de convertir pour une période de leur choix, d’un an au plus:
-
-- a. l’effectif des ovins et des caprins, en unités de gros bétail par catégorie d’animaux;
-- b. concernant la mise à l’alpage et l’estivage, l’effectif des ovins et des caprins, en pâquiers normaux par catégorie d’animaux.
-
-[^48-1]: En vigueur depuis le 1<sup>er</sup> janv. 2024 (art. 69, al. 2).
+[^48-1]: Abrogé par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 49
 
@@ -781,8 +780,8 @@ Identitas SA met à la disposition des détenteurs d’animaux ainsi que des ser
 
 <sup>2</sup> Il contient les données visées à l’art. 12, al. 2, OFE et à l’art. 152, al. 1, let. e, de l’ordonnance du 23 avril 2008 sur la protection des animaux[^50-2].
 
-[^50-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^50-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^50-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^50-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 51
 
@@ -839,13 +838,9 @@ Le système e-Transit peut tirer les données suivantes d’autres systèmes d�
 
 #### Art. 56
 
-**Soutien**
+[^56-1]
 
-<sup>1</sup> Identitas SA founit un soutien technique pour le système d’information Hoduflu.
-
-<sup>2</sup> Elle fournit un soutien aux utilisateurs pour la connexion au portail Internet Agate.
-
-<sup>3</sup> Elle veille à ce que le soutien technique pour le portail Internet Agate soit coordonné avec celui mis en place conformément à l’art. 3, al. 3.
+[^56-1]: Abrogé par le ch. I de l’O du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 57
 
@@ -863,7 +858,7 @@ Le système e-Transit peut tirer les données suivantes d’autres systèmes d�
 
 Identitas SA verser les contributions au sens de l’ordonnance du 10 novembre 2004 concernant l’allocation de contributions pour payer les frais d’élimination des sous-produits animaux[^58-1].
 
-[^58-1]: [RS 916.407](https://fedlex.data.admin.ch/eli/cc/2004/743)
+[^58-1]: [RS 916.407](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10853)
 
 #### Art. 59
 
@@ -871,7 +866,7 @@ Identitas SA verser les contributions au sens de l’ordonnance du 10 novembre 2
 
 Identitas SA encaisse la taxe à l’abattage visée à l’art. 38*a* OFE[^59-1] et la verse à l’OSAV.
 
-[^59-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^59-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 60
 
@@ -887,7 +882,7 @@ Identitas SA encaisse la taxe à l’abattage visée à l’art. 38*a* OFE[^59-1
 
 <sup>5</sup> Les données non jugées dignes d’être archivées par les Archives fédérales sont restituées à l’OFAG.
 
-[^60-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^60-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Chapitre 7 Financement et émoluments
 
@@ -930,7 +925,7 @@ Les émoluments visés à l’art. 45*b*, al. 3, LFE servent uniquements au fina
 
 <sup>4</sup> L’ordonnance générale du 8 septembre 2004 sur les émoluments[^62-1] s’applique, sauf disposition contraire prévue par la présente ordonnance.
 
-[^62-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^62-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 63
 
@@ -997,11 +992,11 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 Annexe 1[^t-1]
 
-(art. 11, al. 1, let. e et f, 16 à 19, 21, 23, al. 1, 25, al. 1, 2 et 4, 27, al. 2, let. b, 35, al. 1, let. f et g, 45, let. b, 46 et 68, al. 2)
+(art. 11, al. 1, let. e et f, 16 à 19, 21, 23, al. 1, 25. al. 1, 2 et 4, 27, al. 2, let. b, 35, al. 1, let. f et g, 45, let. b et c, et 68, al. 2)
 
 ## Données à notifier à la BDTA
 
-[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^t-1]: Mise à jour par le ch. II al. 1 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)) et du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### 1. Données relatives aux bovins, aux buffles et aux bisons
 
@@ -1011,7 +1006,7 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
 
   à la naissance d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal, ainsi que ceux de la mère et, s’il est connu, du père,
   - 3\. la date de naissance de l’animal,
   - 4\. la race, la robe et le sexe de l’animal,
@@ -1023,7 +1018,7 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
   en cas d’importation d’un animal:
 
   - 1\. le pays de provenance et le numéro d’identification de l’animal dans le pays de provenance,
-  - 2\. le numéro BDTA de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage,
   - 3\. le numéro d’identification de l’animal,
   - 4\. la date de naissance de l’animal,
   - 5\. la race, la robe et le sexe de l’animal,
@@ -1041,8 +1036,8 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
 
   en cas d’entrée d’un animal provenant d’une autre unité d’élevage en Suisse:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. le numéro d’identification de l’animal,
   - 4\.
 
@@ -1058,7 +1053,7 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
 
   en cas de sortie d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal,
   - 3\. la date de sortie,
   - 4\. la raison de la sortie,
@@ -1068,19 +1063,19 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
 
   en cas d’abattage d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. le numéro d’identification de l’animal,
   - 4\. la date de l’abattage,
   - 5\. la date de la notification,
   - 6\. le résultat de la taxation neutre de la qualité selon l’art. 3, al. 1, OBB[^annex1-lvlu1-lvl1-1]; pour autant qu’il soit connu,
-  - 7\. le numéro BDTA du requérant dans la mesure où l’abattage doit être imputé dans le cadre d’une demande de parts de contingent conformément à l’art. 24*b* OBB;
+  - 7\. le numéro BDTA ou REE du requérant dans la mesure où l’abattage doit être imputé dans le cadre d’une demande de parts de contingent conformément à l’art. 24*b* OBB;
 
 - f.
 
   au moment de la mort d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal,
   - 3\. la date de la mort de l’animal,
   - 4\. la date de la notification;
@@ -1089,7 +1084,7 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
 
   lors de l’exportation d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal,
   - 3\. le pays de destination,
   - 4\. la date de l’exportation,
@@ -1099,7 +1094,7 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
 
   en cas de changement du type d’utilisation d’une mère:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de la mère,
   - 3\.
 
@@ -1111,7 +1106,7 @@ Pour ce qui est des bovins, des buffles et des bisons, les données suivantes do
   - 4\. la date à partir de laquelle le type d’utilisation est valable,
   - 5\. la date de la notification.
 
-[^annex1-lvlu1-lvl1-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^annex1-lvlu1-lvl1-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 ### 2. Données relatives aux ovins et aux caprins
 
@@ -1121,7 +1116,7 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
 
   à la naissance d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal, ainsi que ceux de la mère et, s’il est connu, du père,
   - 3\. la date de naissance de l’animal,
   - 4\. la race, le sexe de l’animal et, dans le cas des ovins, la robe,
@@ -1133,7 +1128,7 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
   en cas d’importation d’un animal:
 
   - 1\. le pays de provenance et le numéro d’identification de l’animal dans le pays de provenance,
-  - 2\. le numéro BDTA de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage,
   - 3\. le numéro d’identification de l’animal,
   - 4\. la date de naissance de l’animal,
   - 5\. la race, le sexe de l’animal et, dans le cas des ovins, la robe,
@@ -1151,8 +1146,8 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
 
   en cas d’entrée d’un animal provenant d’une autre unité d’élevage en Suisse:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. le numéro d’identification de l’animal,
   - 4\.
 
@@ -1168,7 +1163,7 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
 
   en cas de sortie d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal,
   - 3\. la date de sortie,
   - 4\. le type de sortie,
@@ -1178,19 +1173,19 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
 
   en cas d’abattage d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. le numéro d’identification de l’animal,
   - 4\. la date de l’abattage,
   - 5\. la date de la notification,
   - 6\. le résultat de la taxation neutre de la qualité selon l’art. 3, al. 1, OBB, s’il a été relevé,
-  - 7\. le numéro BDTA du requérant dans la mesure où l’abattage doit être imputé dans le cadre d’une demande de parts de contingent conformément à l’art. 24*b* OBB;
+  - 7\. le numéro BDTA ou REE du requérant dans la mesure où l’abattage doit être imputé dans le cadre d’une demande de parts de contingent conformément à l’art. 24*b* OBB;
 
 - f.
 
   au moment de la mort d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal,
   - 3\. la date de la mort de l’animal,
   - 4\. la date de la notification;
@@ -1199,7 +1194,7 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
 
   lors de l’exportation d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de l’animal,
   - 3\. le pays de destination,
   - 4\. la date de l’exportation,
@@ -1209,7 +1204,7 @@ Pour ce qui est des ovins et des caprins, les données suivantes doivent être n
 
   en cas de changement du type d’utilisation d’une mère:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le numéro d’identification de la mère,
   - 3\.
 
@@ -1230,7 +1225,7 @@ Pour ce qui est des porcins, les données suivantes doivent être notifiées:
   en cas d’importation d’animaux:
 
   - 1\. le pays de provenance et le numéro d’identification de l’unité d’élevage dans le pays de provenance,
-  - 2\. le numéro BDTA de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage,
   - 3\. le nombre d’animaux,
   - 4\. la date d’importation,
   - 5\. la date de la notification;
@@ -1239,8 +1234,8 @@ Pour ce qui est des porcins, les données suivantes doivent être notifiées:
 
   en cas d’entrée d’animaux provenant d’une autre unité d’élevage en Suisse:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. le nombre d’animaux,
   - 4\. la date d’entrée,
   - 5\.
@@ -1260,8 +1255,8 @@ Pour ce qui est des porcins, les données suivantes doivent être notifiées:
 
   en cas d’abattage d’animaux:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. le nombre d’animaux,
   - 4\. la date de l’abattage,
   - 5\. la date de la notification,
@@ -1271,7 +1266,7 @@ Pour ce qui est des porcins, les données suivantes doivent être notifiées:
 
   en cas d’exportation d’animaux:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le nombre d’animaux,
   - 3\. le pays de destination,
   - 4\. la date de l’exportation,
@@ -1285,7 +1280,7 @@ Pour ce qui est des équidés, les données suivantes doivent être notifiées:
 
   à la naissance d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. le nom de l’animal,
   - 3\. s’il est connu, l’UELN de la mère,
   - 4\. en cas de transfert d’embryons: l’UELN de la mère génétique,
@@ -1317,7 +1312,7 @@ Pour ce qui est des équidés, les données suivantes doivent être notifiées:
 
   - 1\. le pays de provenance de l’animal,
   - 2\. l’UELN de l’animal, s’il est connu, conformément au passeport équin,
-  - 3\. le numéro BDTA de l’unité d’élevage,
+  - 3\. le numéro BDTA ou REE de l’unité d’élevage,
   - 4\. le nom de l’animal conformément au passeport équin,
   - 5\. la date de naissance de l’animal,
   - 6\. la race, la robe et le sexe de l’animal, conformément au passeport équin,
@@ -1352,8 +1347,8 @@ Pour ce qui est des équidés, les données suivantes doivent être notifiées:
 
   en cas de changement d’une unité d’élevage à une autre dans le pays:
 
-  - 1\. le numéro BDTA de la nouvelle unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de la nouvelle unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. l’UELN de l’animal,
   - 4\. la date du changement d’unité d’élevage,
   - 5\. la date de la notification;
@@ -1362,7 +1357,7 @@ Pour ce qui est des équidés, les données suivantes doivent être notifiées:
 
   si un animal meurt ou est euthanasié:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. l’UELN de l’animal,
   - 3\. la date de la mort ou de l’euthanasie,
   - 4\. la date de la notification;
@@ -1371,7 +1366,7 @@ Pour ce qui est des équidés, les données suivantes doivent être notifiées:
 
   en cas d’exportation d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
   - 2\. l’UELN de l’animal,
   - 3\. le pays de destination,
   - 4\. la date de l’exportation,
@@ -1417,11 +1412,11 @@ Pour ce qui est des équidés, les données suivantes doivent être notifiées:
 
   en cas d’abattage d’un animal:
 
-  - 1\. le numéro BDTA de l’unité d’élevage,
-  - 2\. le numéro BDTA de l’unité d’élevage de provenance,
+  - 1\. le numéro BDTA ou REE de l’unité d’élevage,
+  - 2\. le numéro BDTA ou REE de l’unité d’élevage de provenance,
   - 3\. l’UELN de l’animal,
   - 4\. la date de l’abattage,
-  - 5\. le numéro BDTA du requérant dans la mesure où l’abattage doit être imputé dans le cadre d’une demande de parts de contingent conformément à l’art. 24*b* OBB,
+  - 5\. le numéro BDTA ou REE du requérant dans la mesure où l’abattage doit être imputé dans le cadre d’une demande de parts de contingent conformément à l’art. 24*b* OBB,
   - 6\. la date de la notification;
 
 - k.
@@ -1452,13 +1447,13 @@ Pour ce qui est des équidés, les données suivantes doivent être notifiées:
   - 4\. le nom du service qui a établi le passeport,
   - 5\. la date de la notification;
 
-[^annex1-lvlu1-lvl4-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^annex1-lvlu1-lvl4-1]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ### 5. Données relatives aux volailles domestiques
 
 Pour ce qui est des volailles domestiques, les données suivantes doivent être notifiées:
 
-- a. le numéro BDTA de l’unité d’élevage;
+- a. le numéro BDTA ou REE de l’unité d’élevage;
 - b.
 
   le type de production:
@@ -1480,7 +1475,7 @@ Annexe 2[^t-2]
 
 ## Émoluments
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Mise à jour par le ch. II des O du 1<sup>er</sup> nov. 2023 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)) et du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 2 de l’O du 2 nov. 2022 ([RO 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Mise à jour par le ch. II des O du 1<sup>er</sup> nov. 2023 ([RO 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)), du 6 nov. 2024 ([RO 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)) et le ch. II al. 2 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 <table>
 <tr><th></th><th>Francs</th></tr>
@@ -1490,8 +1485,8 @@ Annexe 2[^t-2]
 <tr><td>1.1.2 pour les animaux des espèces ovine et caprine</td><td></td></tr>
 <tr><td>1.1.2.1 double marque auriculaire sans puce électronique</td><td>1.50</td></tr>
 <tr><td>1.1.2.2 double marque auriculaire avec puce électronique</td><td>2.50</td></tr>
-<tr><td>1.1.2.3 marque auriculaire simple pour identification complémentaire, sans puce électronique</td><td>–.50</td></tr>
-<tr><td>1.1.2.4 marque auriculaire simple pour identification complémentaire, avec puce électronique</td><td>1.50</td></tr>
+<tr><td>1.1.2.3 …</td><td></td></tr>
+<tr><td>1.1.2.4 …</td><td></td></tr>
 <tr><td>1.1.2.5 double marque auriculaire sans puce électronique pour races de petite taille</td><td>3.50</td></tr>
 <tr><td>1.1.2.6 double marque auriculaire avec puce électronique pour races de petite taille</td><td>4.50</td></tr>
 <tr><td>1.1.3 pour les animaux de l’espèce porcine</td><td>–.35</td></tr>

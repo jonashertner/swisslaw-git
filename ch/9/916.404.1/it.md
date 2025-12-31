@@ -4,11 +4,11 @@ title: Ordinanza del 3 novembre 2021 concernente Identitas AG e la banca dati su
 short: OIBDTA
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: it
-version: 2025-02-01
+version: 2026-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-751-20260101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/it"
 
 (OIBDTA)
 
-del 3 novembre 2021 (Stato 1° febbraio 2025)
+del 3 novembre 2021 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 7*a* capoverso 6, 16, 45*b* capoverso 3, 45*f* e 53 capoverso
 
 ordina:
 
-[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -67,8 +67,8 @@ Nella presente ordinanza s’intende per:
 - e *sistema IAM*: sistema di gestione delle identità del portale Internet Agate (Identity and Access Management) giusta l’articolo 20*a* OSIAgr;
 - f. *effettivo di animali*: animali che si trovano in un’azienda detentrice di animali.
 
-[^2-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^2-2]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^2-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^2-2]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ## Capitolo 2: Compiti e obblighi di Identitas AG
 
@@ -100,14 +100,15 @@ Mette a disposizione l’infrastruttura e i servizi informatici per:
 Svolge inoltre i seguenti compiti:
 
 - a. fornisce il supporto tecnico per il sistema d’informazione centrale sui trasferimenti di sostanze nutritive (HODUFLU) giusta l’articolo 14 OSIAgr[^3-3];
-- b. fornisce il supporto per l’accesso degli utenti al portale Internet Agate;
+- b.[^3-4] fornisce il supporto per l’accesso degli utenti al portale Internet Agate, assicurando un coordinamento con il supporto tecnico di cui al capoverso 3;
 - c. fornisce le marche auricolari per gli animali a unghia fessa;
 - d. versa i contributi ai costi per l’eliminazione dei sottoprodotti di origine animale;
 - e. riscuote la tassa di macellazione.
 
 [^3-1]: Nuovo testo giusta l’all. 4 cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^3-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^3-3]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^3-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^3-3]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^3-4]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 4
 
@@ -179,7 +180,7 @@ La BDTA contiene i seguenti dati:
 - f. i dati concernenti la classificazione neutrale della qualità degli animali macellati di cui all’articolo 3 OBM;
 - g. i dati concernenti i risultati del controllo degli animali da macello e i risultati del controllo delle carni che riguardano la commestibilità.
 
-[^10-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^10-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 11
 
@@ -190,8 +191,9 @@ La BDTA contiene i seguenti dati:
 La storia dell’animale comprende i seguenti dati relativi a un singolo animale:
 
 - a. numero d’identificazione dell’animale;
-- b. numero BDTA delle singole aziende detentrici di animali che tengono o hanno tenuto l’animale;
-- c. ubicazione e appartenenza territoriale delle singole aziende detentrici di animali che tengono o hanno tenuto l’animale;
+- b.[^11-1] per ogni evento giusta l’allegato 1: data e numero BDTA o numero d’identificazione nel Registro delle imprese e degli stabilimenti (numero RIS) delle singole aziende detentrici di animali che tengono o hanno tenuto l’animale;
+- b<sup>bis</sup>.[^11-2] per gli eventi entrata e macellazione: oltre ai dati di cui alla lettera b, numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza;
+- c.[^11-3] ubicazione, coordinate e appartenenza territoriale nonché tipo di azienda detentrice di animali secondo l’articolo 6 lettera o OFE[^11-4] delle singole aziende detentrici di animali che tengono o hanno tenuto l’animale;d. nome e indirizzo dei singoli detentori di animali che tengono o hanno tenuto l’animale;
 - d. nome e indirizzo dei singoli detentori di animali che tengono o hanno tenuto l’animale;
 - e. per gli animali della specie bovina, i bufali e i bisonti: data ed evento giusta l’allegato 1 numero 1 nelle singole aziende detentrici di animali che tengono o hanno tenuto l’animale;
 - f. per gli animali delle specie ovina e caprina: data ed evento giusta l’allegato 1 numero 2 nelle singole aziende detentrici di animali che tengono o hanno tenuto l’animale;
@@ -212,10 +214,17 @@ Le informazioni dettagliate comprendono i seguenti dati relativi a un singolo an
 - a. specie, razza, sesso e, se disponibile, colore dell’animale;
 - b. numero d’identificazione della madre e, se disponibile, del padre dell’animale;
 - c. se noti, i parti gemellari;
+- c<sup>bis</sup>.[^11-5] per animali di sesso femminile con discendenti: i numeri d’identificazione dei discendenti;
 - d. per animali della specie bovina, bufali e bisonti nonché per animali delle specie ovina e caprina: il tipo di utilizzazione;
-- e. per gli equidi: numero di microchip, segnalazione rudimentale verbale, nonché scopo d’utilizzo secondo l’articolo 15 dell’ordinanza del 18 agosto 2004[^11-1] sui medicamenti veterinari (OMVet).
+- e.[^11-6] per gli equidi: specie, numero di microchip, segnalazione rudimentale verbale, nonché scopo d’utilizzo secondo l’articolo 15 dell’ordinanza del 18 agosto 2004[^11-7] sui medicamenti veterinari (OMVet).
 
-[^11-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-2]: Introdotta dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-4]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^11-5]: Introdotta dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-6]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-7]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 12
 
@@ -237,12 +246,12 @@ La BDTA può acquisire i seguenti dati da altri sistemi d’informazione:
 - e. da eTransit: le informazioni sui certificati d’accompagnamento creati elettronicamente;
 - f. dal sistema IAM: i dati concernenti gli utenti della BDTA.
 
-[^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^12-3]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^12-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^12-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^12-3]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^12-4]: Nuovo testo giusta l’all. 4 cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^12-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-5]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^12-6]: [RS 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^12-7]: Nuovo testo giusta l’all. 4 cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### Sezione 2: Registrazione di detentori di animali e di aziende detentrici di animali nonché del traffico degli animali
@@ -256,7 +265,8 @@ La BDTA può acquisire i seguenti dati da altri sistemi d’informazione:
 I detentori di animali della specie bovina, di bufali e di bisonti, di animali delle specie ovina, caprina e suina, i detentori di pollame da cortile la cui azienda conta oltre 250 posti per gli animali da allevamento, oltre 1000 posti per le galline ovaiole, una superficie di base del pollaio di oltre 333 m<sup>2</sup> per i polli da ingrasso o di oltre 200 m<sup>2</sup> per i tacchini da ingrasso, nonché i macelli devono trasmettere alla BDTA i seguenti dati:[^13-1]
 
 - a. numero di telefono e lingua per la corrispondenza;
-- b. relazione postale o bancaria.
+- b. relazione postale o bancaria;
+- c.[^13-2] indirizzo e-mail.
 
 <sup>2</sup> I detentori di animali della specie bovina, di bufali e di bisonti nonché di animali delle specie ovina e caprina devono trasmettere dati relativi al tipo di utilizzazione dell’azienda detentrice di animali alla BDTA. Questo obbligo non si applica ai macelli.
 
@@ -265,6 +275,7 @@ I detentori di animali della specie bovina, di bufali e di bisonti, di animali d
 <sup>4</sup> I detentori di pollame da cortile possono trasmettere in via suppletiva indicazioni sui pollai.
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
+[^13-2]: Introdotta dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 14
 
@@ -280,7 +291,7 @@ I proprietari di equidi, le persone che identificano gli equidi ai sensi dell’
 
 <sup>2</sup> Vanno inoltre trasmessi i cambiamenti dei dati di cui al capoverso 1.
 
-[^14-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^14-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^14-2]: RS **910.341**
 
 #### Art. 15
@@ -289,7 +300,7 @@ I proprietari di equidi, le persone che identificano gli equidi ai sensi dell’
 
 <sup>1</sup> Identitas AG assegna un numero BDTA a ogni azienda detentrice di animali.
 
-<sup>2</sup> Assegna un numero BDTA alle aziende registrate dedite alla trasformazione e al commercio della carne.
+<sup>2</sup> Assegna un numero BDTA o numero RIS alle aziende registrate dedite alla trasformazione e al commercio della carne.
 
 <sup>3</sup> Assegna un numero d’identificazione a tutti gli animali a unghia fessa.
 
@@ -338,7 +349,10 @@ I macelli devono trasmettere alla BDTA i seguenti dati:
 - a. i dati di cui all’allegato 1 numero 4 lettera j;
 - b. i dati di cui all’allegato 1 numero 4 lettera d, se un animale muore nel macello o nel tragitto verso il macello e lì viene smaltito.
 
-[^19-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+<sup>6</sup> I servizi che rilasciano passaporti per equidi (art. 15*c* OFE) devono trasmettere alla BDTA i dati di cui all’allegato 1 numero 4 lettera l.[^19-2]
+
+[^19-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^19-2]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 20
 
@@ -346,7 +360,7 @@ I macelli devono trasmettere alla BDTA i seguenti dati:
 
 Alla nascita di un equide, il proprietario può autorizzare il servizio preposto al rilascio del passaporto per equidi (art. 15*c* OFE[^20-1]) a modificare i dati dell’equide nella BDTA prima di ordinare il passaporto di base.
 
-[^20-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^20-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 21
 
@@ -382,23 +396,21 @@ Identitas AG verifica la completezza e la plausibilità dei dati di cui agli art
 
 #### Art. 25
 
-**Rettifica dei dati**
+**Modifica o cancellazione dei dati**[^25-1]
 
-<sup>1</sup> Le persone soggette all’obbligo di notifica e i terzi incaricati possono modificare o cancellare online entro 10 giorni i dati che hanno trasmesso, fatta eccezione per il cambiamento dello scopo d’utilizzo degli equidi di cui all’allegato 1 numero 4 lettera f.[^25-1]
+<sup>1</sup>
 
-<sup>2</sup> I macelli possono modificare online entro 30 giorni dalla macellazione il numero BDTA del richiedente di cui all’allegato 1 numeri 1 lettera e numero 7, 2 lettera e numero 7 nonché 4 lettera j numero 5.
+Le persone soggette all’obbligo di notifica e i terzi incaricati possono modificare o cancellare online i dati che hanno trasmesso o chiedere telefonicamente o per scritto a Identitas AG una modifica o una cancellazione, fatta eccezione per:
 
-<sup>3</sup> Le persone soggette all’obbligo di notifica e le persone incaricate possono chiedere telefonicamente o per scritto a Identitas AG la rettifica dei dati che hanno trasmesso*.*[^25-2]
+- a. il cambiamento dello scopo d’utilizzo degli equidi da animale da compagnia ad animale da reddito ai sensi dell’allegato 1 numero 4 lettera f;
+- b. la cancellazione dei dati registrati alla nascita di un equide ai sensi dell’allegato 1 numero 4 lettera a.
 
-<sup>4</sup> Terze persone possono chiedere una rettifica a Identitas AG solo per dati sull’uscita di un animale secondo l’allegato 1 numero 1 lettera d nonché numero 2 lettera d. A tal fine devono presentare i certificati d’accompagnamento di cui all’articolo 12 OFE[^25-3].[^25-4]
+<sup>2</sup> Terze persone possono chiedere una modifica o una cancellazione a Identitas AG solo per dati sull’entrata o sull’uscita di un animale secondo l’allegato 1 numero 1 lettere c e d nonché numero 2 lettere c e d. A tal fine devono presentare i certificati d’accompagnamento di cui all’articolo 12 OFE[^25-2].
 
-<sup>5</sup> I servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie possono chiedere telefonicamente o per scritto a Identitas AG una rettifica dei dati di cui all’allegato 1.[^25-5]
+<sup>3</sup> I servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie possono chiedere telefonicamente o per scritto a Identitas AG una modifica o una cancellazione dei dati di cui all’allegato 1.
 
-[^25-1]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^25-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^25-3]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^25-4]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^25-5]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^25-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 26
 
@@ -425,16 +437,17 @@ Identitas AG trasmette al proprietario e al detentore di animali, in seguito all
 
 Identitas AG trasmette all’organizzazione del mondo del lavoro «Mestieri legati al cavallo» i seguenti dati delle aziende detentrici di animali che tengono equidi, ai fini della riscossione della tassa destinata al fondo per la formazione professionale:
 
-- a. il numero BDTA dell’azienda detentrice di animali;
+- a. il numero BDTA o numero RIS[^27-4] dell’azienda detentrice di animali;
 - b. il nome, l’indirizzo, l’indirizzo e-mail e il numero di telefono del detentore di animali;
 - c. il numero di equidi che si trovano nell’azienda detentrice di animali;
-- d.[^27-4] il numero di equidi di età superiore a 3 anni che si trovano nell’azienda detentrice di animali;
+- d.[^27-5] il numero di equidi di età superiore a 3 anni che si trovano nell’azienda detentrice di animali;
 - e. il numero di equidi per i quali il proprietario non ha notificato un cambiamento dell’azienda detentrice di animali.
 
-[^27-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^27-3]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^27-4]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^27-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^27-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^27-3]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^27-4]: Nuova espressione giusta la cifra I dell’O del 2 set. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3167](https://fedlex.data.admin.ch/eli/oc/2015/595)). Di detta mod. è tenuto conto in tutto il presente testo tranne all’art. 15.
+[^27-5]: Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
 
@@ -446,7 +459,7 @@ Identitas AG trasmette all’organizzazione del mondo del lavoro «Mestieri lega
 
 <sup>3</sup> In caso di cambiamento dello scopo d’utilizzo di un equide da animale da reddito ad animale da compagnia, trasmette al proprietario il corrispondente autoadesivo da incollare sul passaporto.
 
-[^28-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^28-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### Sezione 3: Domande per l’ottenimento di quote del contingente per l’importazione di carne e prodotti carnei nonché accertamento dei dati rilevanti
 
@@ -456,7 +469,7 @@ Identitas AG trasmette all’organizzazione del mondo del lavoro «Mestieri lega
 
 Identitas AG garantisce che le domande per l’ottenimento di quote del contingente secondo l’articolo 24*b* OBM[^29-1] possano essere presentate tramite la BDTA.
 
-[^29-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^29-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 30
 
@@ -467,8 +480,8 @@ Per ciascun periodo di calcolo, per ogni richiedente, Identitas AG accerta i seg
 - a. il numero degli animali delle specie bovina, ovina, caprina ed equina macellati secondo l’articolo 24*a* OBM[^30-1];
 - b. i numeri dei permessi generali d’importazione di eventuali aventi diritto a quote di contingente secondo l’articolo 14 capoversi 1 e 2 dell’ordinanza del 26 ottobre 2011[^30-2] sulle importazioni agricole.
 
-[^30-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
-[^30-2]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^30-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
+[^30-2]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 
 ### Sezione 4: Risultati della classificazione neutrale della qualità degli animali macellati
 
@@ -478,7 +491,7 @@ Per ciascun periodo di calcolo, per ogni richiedente, Identitas AG accerta i seg
 
 <sup>2</sup> Fornisce all’organizzazione incaricata di svolgere la classificazione neutrale della qualità secondo l’articolo 3 OBM i risultati di questa classificazione della qualità.
 
-[^31-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^31-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 ### Sezione 5: Pubblicazione di analisi
 
@@ -515,7 +528,7 @@ L’UFAG, l’USAV, l’Ufficio federale di statistica, l’Ufficio federale per
 
 Le organizzazioni di allevamento, di produttori e di produzione con label nonché i servizi di sanità animale possono consultare e utilizzare i seguenti dati concernenti i loro affiliati:
 
-- a. numero BDTA, ubicazione e coordinate geografiche delle aziende detentrici di animali, numero del Comune nonché tipo di azienda detentrice di animali secondo l’articolo 6 lettera o OFE[^35-1];
+- a.[^35-1] numero BDTA o numero RIS, ubicazione e coordinate geografiche delle aziende detentrici di animali, numero del Comune nonché tipo di azienda detentrice di animali secondo l’articolo 6 lettera o OFE[^35-2];
 - b. elenco dei numeri d’identificazione degli animali che sono tenuti o sono stati tenuti in un’azienda detentrice di animali;
 - c. nome, indirizzo e numero cantonale d’identificazione dei detentori di animali;
 - d. numeri d’identificazione sulle marche auricolari fornite da Identitas AG agli affiliati dell’organizzazione interessata;
@@ -525,7 +538,8 @@ Le organizzazioni di allevamento, di produttori e di produzione con label nonch�
 
 <sup>2</sup> Le organizzazioni di allevamento, di produttori e di produzione con label nonché i servizi di sanità animale possono consultare e utilizzare gli altri dati di cui agli articoli 13–21 concernenti i loro affiliati, purché questi ultimi abbiano dato il loro consenso nella BDTA.
 
-[^35-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^35-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 36
 
@@ -547,7 +561,7 @@ I detentori di animali che hanno tenuto un animale nonché un eventuale benefici
 - c. risultati del controllo degli animali da macello e risultati del controllo delle carni che riguardano la commestibilità.
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^36-2]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^36-2]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 37
 
@@ -565,17 +579,17 @@ I terzi incaricati di cui all’articolo 23 possono consultare e utilizzare gli 
 
 [^38a-1]
 
-[^38a-1]: Entra in vigore il 1° gen. 2026 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
+[^38a-1]: Entra in vigore il 1° gen. 2027 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)cifra III).
 
 #### Art. 38b
 
-**Accesso mediante il numero BDTA, il numero d’identificazione o il numero di microchip**[^38b-1]
+**Accesso mediante il numero BDTA, il numero RIS, il numero d’identificazione o il numero di microchip[^38b-2]**[^38b-1]
 
 <sup>1</sup>
 
-Chi dispone del numero BDTA di un’azienda detentrice di animali può consultare e utilizzare senza il consenso della persona interessata i seguenti dati concernenti tale azienda detentrice di animali:
+Chi dispone del numero BDTA o numero RIS di un’azienda detentrice di animali può consultare e utilizzare senza il consenso della persona interessata i seguenti dati concernenti tale azienda detentrice di animali:
 
-- a. per le aziende agricole detentrici di animali di cui all’articolo 11 dell’ordinanza del 7 dicembre 1998[^38b-2] sulla terminologia agricola (OTerm): l’appartenenza territoriale;
+- a. per le aziende agricole detentrici di animali di cui all’articolo 11 dell’ordinanza del 7 dicembre 1998[^38b-3] sulla terminologia agricola (OTerm): l’appartenenza territoriale;
 - b. per le aziende detentrici di animali della specie bovina, di bufali o di bisonti: lo stato BVD;
 - c. per le aziende detentrici di animali della specie ovina: lo stato riguardo alla zoppina.
 
@@ -587,13 +601,16 @@ Chi dispone del numero d’identificazione o del numero di microchip di un anima
 - b. informazioni dettagliate relative all’animale;
 - c. per gli animali della specie bovina, i bufali e i bisonti: lo stato BVD, lo stato della storia dell’animale e la data di nascita;
 - d. per gli animali delle specie ovina e caprina: lo stato della storia dell’animale e la data di nascita;
-- e. per gli equidi: lo scopo d’utilizzo giusta l’articolo 15 OMVet[^38b-3].
+- e.[^38b-4] per gli equidi: la data di nascita e lo scopo d’utilizzo giusta l’articolo 15 OMVet[^38b-5].
 
-<sup>3</sup> Le persone che intendono consultare e utilizzare i dati acquisiscono personalmente i numeri BDTA delle aziende detentrici di animali nonché i numeri d’identificazione e i numeri di microchip degli animali.
+<sup>3</sup> Le persone che intendono consultare e utilizzare i dati acquisiscono personalmente i numeri BDTA o i numeri RIS delle aziende detentrici di animali nonché i numeri d’identificazione e i numeri di microchip degli animali.[^38b-6]
 
 [^38b-1]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^38b-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^38b-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^38b-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^38b-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^38b-4]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^38b-5]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^38b-6]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 39
 
@@ -629,7 +646,7 @@ I seguenti sistemi d’informazione possono acquisire i dati dalla BDTA tramite 
 - j.[^40-3] sistema d’informazione e documentazione sui grandi predatori (GRIDS).
 
 [^40-1]: Nuovo testo giusta l’all. 4 cifra II n. 9 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^40-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^40-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^40-3]: Introdotta dall’all. n. 3 dell’O sulla caccia del 13 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 ## Capitolo 4: Calcolatore di UBG
@@ -640,7 +657,9 @@ I seguenti sistemi d’informazione possono acquisire i dati dalla BDTA tramite 
 
 <sup>1</sup> Il calcolatore di UBG consente di calcolare gli effettivi di animali in unità di bestiame grosso (UBG) a partire dai dati della BDTA.
 
-<sup>2</sup> Contiene i dati concernenti le aziende detentrici di animali nonché i dati calcolati di cui agli articoli 42–44.
+<sup>2</sup> Contiene i dati concernenti le aziende detentrici di animali nonché i dati calcolati di cui agli articoli 42–43*a*.[^41-1]
+
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 42
 
@@ -653,15 +672,15 @@ Il calcolatore di UBG può acquisire i seguenti dati da altri sistemi d’inform
 
 #### Art. 43
 
-**Calcolo dei valori UBG per animali della specie bovina, bufali, bisonti ed equidi**
+**Calcolo dei valori UBG per animali della specie bovina, bufali, bisonti, animali delle specie ovina e caprina nonché equidi[^43-1]**
 
 <sup>1</sup>
 
-Per gli animali della specie bovina, i bufali, i bisonti e gli equidi Identitas AG calcola annualmente per categoria di animali e azienda detentrice di animali i dati di cui agli articoli 36 e 37 dell’ordinanza del 23 ottobre 2013[^43-1] sui pagamenti diretti (OPD):
+Per gli animali della specie bovina, i bufali, i bisonti, gli animali delle specie ovina e caprina nonché gli equidi Identitas AG calcola annualmente per categoria di animali e azienda detentrice di animali i dati di cui agli articoli 36 e 37 dell’ordinanza del 23 ottobre 2013[^43-2] sui pagamenti diretti (OPD):
 
-- a. per le aziende gestite durante tutto l’anno secondo l’articolo 6 OTerm[^43-2]: l’effettivo di animali determinante e l’effettivo al 1° gennaio, con un elenco di tutti i singoli animali;
+- a. per le aziende gestite durante tutto l’anno secondo l’articolo 6 OTerm[^43-3]: l’effettivo di animali determinante e l’effettivo al 1° gennaio, con un elenco di tutti i singoli animali;
 - b. per le aziende con pascoli comunitari e le aziende d’estivazione secondo gli articoli 8 e 9 OTerm, senza bisonti: l’effettivo di animali determinante e l’effettivo al 25 luglio, con un elenco di tutti i singoli animali;
-- c. l’evoluzione dell’effettivo durante i periodi di calcolo di cui all’articolo 36 OPD in aziende gestite durante tutto l’anno, aziende con pascoli comunitari e aziende d’estivazione.
+- c. l’evoluzione dell’effettivo durante i periodi di calcolo di cui all’articolo 36 OPD in aziende gestite durante tutto l’anno, aziende con pascoli comunitari e aziende d’estivazione.[^43-4]
 
 <sup>2</sup> Identitas AG salva i dati di cui al capoverso 1 nel calcolatore di UBG.
 
@@ -669,8 +688,10 @@ Per gli animali della specie bovina, i bufali, i bisonti e gli equidi Identitas 
 
 <sup>4</sup> L’UFAG disciplina il calcolo dei dati e la forma in cui vanno messi a disposizione.
 
-[^43-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^43-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^43-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^43-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^43-4]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 43a
 
@@ -683,44 +704,28 @@ Per gli animali della specie bovina, i bufali, i bisonti e gli equidi Identitas 
 <sup>3</sup> Li mette a disposizione dei servizi cantonali competenti, dell’UFAG e dell’Ufficio federale di statistica.
 
 [^43a-1]: Introdotto dall’all. n. 4 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^43a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^43a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 44
 
-**Calcolo dei valori UBG per animali delle specie ovina e caprina**[^44-1]
+[^44-1]
 
-<sup>1</sup>
-
-Per gli animali delle specie ovina e caprina Identitas AG calcola annualmente per categoria di animali e azienda detentrice di animali i dati di cui agli articoli 36 e 37 OPD[^44-2]:
-
-- a. per le aziende gestite durante tutto l’anno secondo l’articolo 6 OTerm[^44-3]: l’effettivo di animali determinante e l’effettivo al 1° gennaio, con un elenco di tutti i singoli animali;
-- b. per le aziende con pascoli comunitari e le aziende d’estivazione secondo gli articoli 8 e 9 OTerm: l’effettivo di animali determinante e l’effettivo al 25 luglio, con un elenco di tutti i singoli animali;
-- c. l’evoluzione dell’effettivo durante i periodi di calcolo di cui all’articolo 36 OPD in aziende gestite durante tutto l’anno, aziende con pascoli comunitari e aziende d’estivazione.
-
-<sup>2</sup> Identitas AG effettua un calcolo unico dei dati per gli anni di riferimento di cui all’articolo 41 capoverso 3<sup>bis</sup> OPD.
-
-<sup>3</sup> Salva i dati di cui al capoverso 1 nel calcolatore di UBG.
-
-<sup>4</sup> Li mette a disposizione dei servizi cantonali competenti, dell’UFAG e dell’Ufficio federale di statistica.
-
-<sup>5</sup> L’UFAG disciplina il calcolo dei dati e la forma in cui vanno messi a disposizione.
-
-[^44-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
-[^44-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^44-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^44-1]: Abrogato dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 45
 
-**Allestimento dell’elenco di UBG per animali della specie bovina, bufali, bisonti ed equidi**
+**Allestimento dell’elenco di UBG per animali della specie bovina, bufali, bisonti, animali delle specie ovina e caprina nonché equidi**[^45-1]
 
-Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 OPD[^45-1], Identitas AG mette a disposizione dei detentori di animali per via elettronica un elenco dei rispettivi animali della specie bovina, dei bufali, dei bisonti e degli equidi. Tale elenco contiene:
+Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 OPD[^45-2], Identitas AG mette a disposizione dei detentori di animali per via elettronica un elenco dei rispettivi animali della specie bovina, dei bufali, dei bisonti, degli animali delle specie ovina e caprina nonché degli equidi. Tale elenco contiene:
 
 - a. i dati di cui all’articolo 43 capoverso 1;
 - b. per gli animali della specie bovina, i bufali e i bisonti: i dati concernenti il tipo di utilizzazione di cui all’allegato 1 numero 1 lettera h numero 3;
-- c. per gli equidi: i dati concernenti lo scopo d’utilizzo di cui all’articolo 15 OMVet[^45-2].
+- c. per gli animali delle specie ovina e caprina: i dati concernenti il tipo di utilizzazione di cui all’allegato 1 numero 2 lettera h numero 3;
+- d. per gli equidi: i dati concernenti lo scopo d’utilizzo di cui all’articolo 15 OMVet[^45-3].
 
-[^45-1]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^45-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^45-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^45-3]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 45a
 
@@ -729,36 +734,30 @@ Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 O
 Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 OPD[^45a-2], Identitas AG mette a disposizione dei detentori di animali per via elettronica un elenco con i dati di cui all’articolo 43*a*.
 
 [^45a-1]: Introdotto dall’all. n. 4 dell’O del 13 apr. 2022, in vigore dal 1° gen. 2024 ([RU 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^45a-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^45a-2]: [RS 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 46
 
-**Allestimento dell’elenco di UBG per animali delle specie ovina e caprina**[^46-1]
+[^46-1]
 
-Entro 15 giorni dalla scadenza dei periodi di calcolo di cui all’articolo 36 OPD[^46-2], Identitas AG mette a disposizione dei detentori di animali per via elettronica un elenco dei rispettivi animali delle specie ovina e caprina. Tale elenco contiene i dati di cui all’articolo 44 capoverso 1 e i dati concernenti il tipo di utilizzazione di cui all’allegato 1 numero 2 lettera h numero 3.
-
-[^46-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
-[^46-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^46-1]: Abrogato dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 47
 
-**Messa a disposizione di uno strumento di calcolo per animali della specie bovina, bufali, bisonti ed equidi**
+**Messa a disposizione di uno strumento di calcolo per animali della specie bovina, bufali, bisonti, animali delle specie ovina e caprina nonché equidi**[^47-1]
 
 Identitas AG mette a disposizione dei detentori di animali, nonché dei servizi ufficiali e di aziende, organizzazioni e organi di controllo coinvolti di cui all’articolo 34 uno strumento con cui, per un periodo a loro scelta di un anno al massimo, possono calcolare:
 
-- a. l’effettivo di animali della specie bovina, di bufali, di bisonti e di equidi per categoria di animali in unità di bestiame grosso;
-- b. per l’alpeggio e l’estivazione: l’effettivo di animali della specie bovina, di bufali e di equidi per categoria di animali in carichi normali.
+- a. l’effettivo di animali della specie bovina, di bufali, di bisonti, di animali delle specie ovina e caprina nonché di equidi per categoria di animali in unità di bestiame grosso;
+- b. per l’alpeggio e l’estivazione: l’effettivo di animali della specie bovina, di bufali, di animali delle specie ovina e caprina nonché di equidi per categoria di animali in carichi normali.
+
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 48
 
-**Messa a disposizione di uno strumento di calcolo per animali delle specie ovina e caprina**[^48-1]
+[^48-1]
 
-Identitas AG mette a disposizione dei detentori di animali, nonché dei servizi ufficiali e di aziende, organizzazioni e organi di controllo coinvolti di cui all’articolo 34 uno strumento con cui, per un periodo a loro scelta di un anno al massimo, possono calcolare:
-
-- a. l’effettivo di animali delle specie ovina e caprina per categoria di animali in unità di bestiame grosso;
-- b. per l’alpeggio e l’estivazione: l’effettivo di animali delle specie ovina e caprina per categoria di animali in carichi normali.
-
-[^48-1]: In vigore dal 1° gen. 2024 (art. 69 cpv. 2).
+[^48-1]: Abrogato dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 49
 
@@ -780,8 +779,8 @@ Identitas AG mette a disposizione dei detentori di animali, nonché dei servizi 
 
 <sup>2</sup> Contiene i dati di cui all’articolo 12 capoverso 2 OFE e l’articolo 152 capoverso 1 lettera e dell’ordinanza del 23 aprile 2008[^50-2] sulla protezione degli animali.
 
-[^50-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^50-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^50-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^50-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 51
 
@@ -822,7 +821,7 @@ eTransit può acquisire i seguenti dati dai sistemi d’informazione indicati qu
 
 <sup>6</sup> Per svolgere i loro compiti, l’UFAG, l’USAV e i servizi cantonali competenti per l’esecuzione della legislazione in materia di epizoozie, di agricoltura, di protezione degli animali, di derrate alimentari e di agenti terapeutici possono consultare e utilizzare i certificati d’accompagnamento elettronici nonché completarli durante la loro durata di validità secondo l’articolo 12*a* OFE.[^54-3]
 
-[^54-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^54-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^54-2]: Abrogato dalla cifra I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 [^54-3]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
@@ -838,13 +837,9 @@ eTransit può acquisire i seguenti dati dai sistemi d’informazione indicati qu
 
 #### Art. 56
 
-**Supporto**
+[^56-1]
 
-<sup>1</sup> Identitas AG fornisce il supporto tecnico per HODUFLU.
-
-<sup>2</sup> Fornisce il supporto per l’accesso degli utenti al portale Internet Agate.
-
-<sup>3</sup> Provvede affinché il supporto per il portale Internet Agate sia compatibile con il supporto tecnico secondo l’articolo 3 capoverso 3.
+[^56-1]: Abrogato dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 57
 
@@ -862,7 +857,7 @@ eTransit può acquisire i seguenti dati dai sistemi d’informazione indicati qu
 
 Identitas AG versa i contributi di eliminazione ai sensi dell’ordinanza del 10 novembre 2004[^58-1] concernente l’assegnazione di contributi ai costi per l’eliminazione dei sottoprodotti di origine animale.
 
-[^58-1]: [RS 916.407](https://fedlex.data.admin.ch/eli/cc/2004/743)
+[^58-1]: [RS 916.407](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10853)
 
 #### Art. 59
 
@@ -870,7 +865,7 @@ Identitas AG versa i contributi di eliminazione ai sensi dell’ordinanza del 10
 
 Identitas AG riscuote la tassa di macellazione di cui all’articolo 38*a* OFE[^59-1] e la versa all’USAV.
 
-[^59-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^59-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 60
 
@@ -886,7 +881,7 @@ Identitas AG riscuote la tassa di macellazione di cui all’articolo 38*a* OFE[^
 
 <sup>5</sup> I dati che secondo la valutazione dell’Archivio federale non hanno valore archivistico sono consegnati all’UFAG.
 
-[^60-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^60-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## Capitolo 7: Finanziamento ed emolumenti
 
@@ -929,7 +924,7 @@ Gli emolumenti di cui all’articolo 45*b* capoverso 3 LFE servono esclusivament
 
 <sup>4</sup> Per quanto la presente ordinanza non disponga altrimenti, si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^62-1] sugli emolumenti.
 
-[^62-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^62-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 63
 
@@ -996,11 +991,11 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 Allegato 1[^t-1]
 
-(art. 11 cpv. 1 lett. e ed f, 16–19, 21, 23 cpv. 1, 25 cpv. 1, 2 e 4, 27 cpv. 2 lett. b, 35 cpv. 1 lett. f e g, 45 lett. b, 46 e 68 cpv. 2)
+(art. 11 cpv. 1 lett. e ed f, 16–19, 21, 23 cpv. 1, 25 cpv. 1, 2 e 4, 27 cpv. 2 lett. b, 35 cpv. 1 lett. f e g, 45 lett. b e c nonché 68 cpv. 2)
 
 ## Dati da trasmettere alla BDTA
 
-[^t-1]: Aggiornato dalla cifra II n. 1 dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^t-1]: Aggiornato dalle cifre II cpv. 1 delle O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)) e del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### 1. Dati concernenti gli animali della specie bovina, i bufali e i bisonti
 
@@ -1010,7 +1005,7 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
 
   alla nascita di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale, nonché della madre e, se disponibile, del padre,
   - 3\. data di nascita dell’animale,
   - 4\. razza, colore e sesso dell’animale,
@@ -1022,7 +1017,7 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
   all’importazione di un animale:
 
   - 1\. Paese di provenienza e numero d’identificazione dell’animale nel Paese di provenienza,
-  - 2\. numero BDTA dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 3\. numero d’identificazione dell’animale,
   - 4\. data di nascita dell’animale,
   - 5\. razza, colore e sesso dell’animale,
@@ -1040,8 +1035,8 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
 
   all’entrata di un animale da un’altra azienda detentrice di animali all’interno del Paese:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
-  - 2\. numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. numero d’identificazione dell’animale,
   - 4\.
 
@@ -1057,7 +1052,7 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
 
   all’uscita di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale,
   - 3\. data d’uscita,
   - 4\. tipo d’uscita,
@@ -1067,19 +1062,19 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
 
   alla macellazione di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
-  - 2 numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
+  - 2 numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. numero d’identificazione dell’animale,
   - 4\. data di macellazione,
   - 5\. data della notifica;
   - 6\. risultato della classificazione neutrale della qualità ai sensi dell’articolo 3 capoverso 1 OBM[^annex1-lvlu1-lvl1-1], se rilevato,
-  - 7\. numero BDTA del richiedente, se si intende far valere la macellazione nell’ambito di una domanda per l’ottenimento di quote del contingente di cui all’articolo 24*b* OBM;
+  - 7\. numero BDTA o numero RIS del richiedente, se si intende far valere la macellazione nell’ambito di una domanda per l’ottenimento di quote del contingente di cui all’articolo 24*b* OBM;
 
 - f.
 
   alla morte di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale,
   - 3\. data di morte,
   - 4\. data della notifica;
@@ -1088,7 +1083,7 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
 
   all’esportazione di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale,
   - 3\. Paese di destinazione,
   - 4\. data d’esportazione,
@@ -1098,7 +1093,7 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
 
   al cambiamento del tipo di utilizzazione di una madre:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione della madre,
   - 3\.
 
@@ -1110,7 +1105,7 @@ Per gli animali della specie bovina, i bufali e i bisonti devono essere trasmess
   - 4\. data a partire dalla quale si applica il tipo di utilizzazione,
   - 5\. data della notifica.
 
-[^annex1-lvlu1-lvl1-1]: [RS 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^annex1-lvlu1-lvl1-1]: [RS 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 ### 2. Dati concernenti gli animali delle specie ovina e caprina
 
@@ -1120,7 +1115,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
 
   alla nascita di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale, nonché della madre e, se disponibile, del padre,
   - 3\. data di nascita dell’animale,
   - 4\. razza e sesso dell’animale nonché colore per animali della specie ovina,
@@ -1132,7 +1127,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
   all’importazione di un animale:
 
   - 1\. Paese di provenienza e numero d’identificazione dell’animale nel Paese di provenienza,
-  - 2\. numero BDTA dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 3\. numero d’identificazione dell’animale,
   - 4\. data di nascita dell’animale,
   - 5\. razza e sesso dell’animale nonché colore per animali della specie ovina,
@@ -1150,8 +1145,8 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
 
   all’entrata di un animale da un’altra azienda detentrice di animali all’interno del Paese:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
-  - 2\. numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. numero d’identificazione dell’animale,
   - 4\.
 
@@ -1167,7 +1162,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
 
   all’uscita di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale,
   - 3\. data d’uscita,
   - 4\. tipo d’uscita,
@@ -1177,8 +1172,8 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
 
   alla macellazione di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
-  - 2\. numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. numero d’identificazione dell’animale,
   - 4\. data di macellazione,
   - 5\. data della notifica,
@@ -1189,7 +1184,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
 
   alla morte di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale,
   - 3\. data di morte,
   - 4\. data della notifica;
@@ -1198,7 +1193,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
 
   all’esportazione di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione dell’animale,
   - 3\. Paese di destinazione,
   - 4\. data d’esportazione,
@@ -1208,7 +1203,7 @@ Per gli animali delle specie ovina e caprina devono essere trasmessi i seguenti 
 
   al cambiamento del tipo di utilizzazione di una madre:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero d’identificazione della madre,
   - 3\.
 
@@ -1229,7 +1224,7 @@ Per gli animali della specie suina devono essere trasmessi i seguenti dati:
   all’importazione di animali:
 
   - 1\. Paese di provenienza e numero d’identificazione dell’azienda detentrice di animali nel Paese di provenienza,
-  - 2\. numero BDTA dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 3\. numero di animali,
   - 4\. data d’importazione,
   - 5\. data della notifica;
@@ -1238,8 +1233,8 @@ Per gli animali della specie suina devono essere trasmessi i seguenti dati:
 
   all’entrata di animali da un’altra azienda detentrice di animali all’interno del Paese:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
-  - 2\. numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. numero di animali,
   - 4\. data d’entrata,
   - 5\.
@@ -1259,8 +1254,8 @@ Per gli animali della specie suina devono essere trasmessi i seguenti dati:
 
   alla macellazione di animali:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
-  - 2\. numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. numero di animali,
   - 4\. data di macellazione,
   - 5\. data della notifica,
@@ -1270,7 +1265,7 @@ Per gli animali della specie suina devono essere trasmessi i seguenti dati:
 
   all’esportazione di animali:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. numero di animali,
   - 3\. Paese di destinazione,
   - 4\. data d’esportazione,
@@ -1284,7 +1279,7 @@ Per gli equidi devono essere trasmessi i seguenti dati:
 
   alla nascita di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. nome dell’animale,
   - 3\. se disponibile, UELN della madre,
   - 4\. in caso di trasferimento embrionale: UELN della madre genetica,
@@ -1316,7 +1311,7 @@ Per gli equidi devono essere trasmessi i seguenti dati:
 
   - 1\. Paese di provenienza dell’animale,
   - 2\. UELN dell’animale, se disponibile, conformemente al passaporto per equide,
-  - 3\. numero BDTA dell’azienda detentrice di animali,
+  - 3\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 4\. nome dell’animale conformemente al passaporto per equide,
   - 5\. data di nascita dell’animale,
   - 6\. razza, colore e sesso dell’animale conformemente al passaporto per equide,
@@ -1351,8 +1346,8 @@ Per gli equidi devono essere trasmessi i seguenti dati:
 
   al cambiamento dell’azienda detentrice di animali all’interno del Paese:
 
-  - 1\. numero BDTA della nuova azienda detentrice di animali,
-  - 2\. numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS della nuova azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. UELN dell’animale,
   - 4\. data del cambiamento dell’azienda detentrice di animali,
   - 5\. data della notifica;
@@ -1361,7 +1356,7 @@ Per gli equidi devono essere trasmessi i seguenti dati:
 
   alla morte o eutanasia di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. UELN dell’animale,
   - 3\. data di morte o dell’eutanasia,
   - 4\. data della notifica;
@@ -1370,7 +1365,7 @@ Per gli equidi devono essere trasmessi i seguenti dati:
 
   all’esportazione di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
   - 2\. UELN dell’animale,
   - 3\. Paese di destinazione,
   - 4\. data d’esportazione,
@@ -1416,11 +1411,11 @@ Per gli equidi devono essere trasmessi i seguenti dati:
 
   alla macellazione di un animale:
 
-  - 1\. numero BDTA dell’azienda detentrice di animali,
-  - 2\. numero BDTA dell’azienda detentrice di animali di provenienza,
+  - 1\. numero BDTA o numero RIS dell’azienda detentrice di animali,
+  - 2\. numero BDTA o numero RIS dell’azienda detentrice di animali di provenienza,
   - 3\. UELN dell’animale,
   - 4\. data di macellazione,
-  - 5\. numero BDTA del richiedente, se si intende far valere la macellazione nell’ambito di una domanda per l’ottenimento di quote del contingente di cui all’articolo 24*b* OBM,
+  - 5\. numero BDTA o numero RIS del richiedente, se si intende far valere la macellazione nell’ambito di una domanda per l’ottenimento di quote del contingente di cui all’articolo 24*b* OBM,
   - 6\. data della notifica;
 
 - k.
@@ -1451,13 +1446,13 @@ Per gli equidi devono essere trasmessi i seguenti dati:
   - 4\. nome del servizio che ha rilasciato il passaporto per equide,
   - 5\. data della notifica.
 
-[^annex1-lvlu1-lvl4-1]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^annex1-lvlu1-lvl4-1]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ### 5. Dati concernenti il pollame da cortile
 
 Per il pollame da cortile devono essere trasmessi i seguenti dati:
 
-- a. numero BDTA dell’azienda detentrice di animali;
+- a. numero BDTA o numero RIS dell’azienda detentrice di animali;
 - b.
 
   tipo di utilizzazione:
@@ -1479,7 +1474,7 @@ Allegato 2[^t-2]
 
 ## Emolumenti
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Aggiornato dai cifre II delle O del 1° nov. 2023 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 2 nov. 2022 ([RU 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Aggiornato dalle cifre II delle O del 1° nov. 2023 ([RU 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)), del 6 nov. 2024 ([RU 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)) e dalla cifra II cpv. 2 dell’O del 29 ott. 2025, in vigore dal 1° gen 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 <table>
 <tr><th></th><th>Franchi</th></tr>
@@ -1489,8 +1484,8 @@ Allegato 2[^t-2]
 <tr><td>1.1.2 per animali delle specie ovina e caprina:</td><td></td></tr>
 <tr><td>1.1.2.1 marca auricolare doppia senza microchip</td><td>1.50</td></tr>
 <tr><td>1.1.2.2 marca auricolare doppia con microchip</td><td>2. 50</td></tr>
-<tr><td>1.1.2.3 marca auricolare singola per marchiatura complementare senza microchip</td><td>0.50</td></tr>
-<tr><td>1.1.2.4 marca auricolare singola per marchiatura complementare con microchip</td><td>1.50</td></tr>
+<tr><td>1.1.2.3 ...</td><td></td></tr>
+<tr><td>1.1.2.4 ...</td><td></td></tr>
 <tr><td>1.1.2.5 marca auricolare doppia per razze di piccola taglia senza microchip</td><td>3.50</td></tr>
 <tr><td>1.1.2.6 marca auricolare doppia per razze di piccola taglia con microchip</td><td>4.50</td></tr>
 <tr><td>1.1.3 per animali della specie suina</td><td>0.35</td></tr>
@@ -1518,7 +1513,8 @@ Allegato 2[^t-2]
 <tr><td>4.4 Equidi: mancata notifica dei dati di cui all’articolo 19</td><td>15.00</td></tr>
 <tr><td>5 Consegna di dati</td><td></td></tr>
 <tr><td>Elenco dei numeri d’identificazione degli animali che sono tenuti in un’azienda detentrice di animali: costi forfettari per anno civile, azienda detentrice di animali e specie animale; non vengono fatturati emolumenti se l’importo totale è inferiore a 20 franchi per anno civile:</td><td>3.00</td></tr>
-<tr><td>6 Registrazione di nuove organizzazioni Registrazione di una nuova organizzazione di allevamento, di produttori o di produzione con label oppure di un servizio di sanità animale</td><td>250.00</td></tr>
+<tr><td>6 Registrazione di nuove organizzazioni</td><td></td></tr>
+<tr><td>Registrazione di una nuova organizzazione di allevamento, di produttori o di produzione con label oppure di un servizio di sanità animale</td><td>250.00</td></tr>
 <tr><td>7 Emolumenti per solleciti</td><td></td></tr>
 <tr><td>7.1 Sollecito per ogni mancato pagamento</td><td>30.00</td></tr>
 <tr><td>7.2 Sollecito per coordinate postali o bancarie non valide</td><td>20.00</td></tr>

@@ -4,11 +4,11 @@ title: Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkeh
 short: IdTVD-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/751"
 language: de
-version: 2025-02-01
+version: 2026-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20250201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/751/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-751-20260101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/751/20250201/de"
 
 (IdTVD-V)
 
-vom 3. November 2021 (Stand am 1. Februar 2025)
+vom 3. November 2021 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 7*a* Absatz 6, 16, 45*b* Absatz 3, 45*f* und 53 Absatz
 
 verordnet:
 
-[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-2]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-2]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -67,8 +67,8 @@ Die folgenden Begriffe bedeuten:
 - e. *IAM-System*: Identitätsverwaltungssystem des Internetportals Agate (Identity and Access Management) nach Artikel 20*a* ISLV;
 - f. *Tierbestand*: Tiere, die in einer Tierhaltung stehen.
 
-[^2-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^2-2]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^2-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^2-2]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
 
 ## 2. Kapitel: Aufgaben und Pflichten der Identitas AG
 
@@ -100,14 +100,15 @@ Sie stellt die Infrastruktur und die Informatikdienstleistungen bereit für:
 Sie erbringt zudem die folgenden Aufgaben:
 
 - a. Sie stellt einen fachlichen Support für das zentrale Informationssystem zu Nährstoffverschiebungen (Hoduflu) nach Artikel 14 ISLV[^3-3] bereit.
-- b. Sie stellt einen Support für das Login der Benutzerinnen und Benutzer ins Internetportal Agate bereit.
+- b.[^3-4] Sie stellt einen Support für das Login der Benutzerinnen und Benutzer ins Internetportal Agate bereit; dabei sorgt sie für eine Abstimmung mit dem fachlichen Support nach Absatz 3.
 - c. Sie liefert die Ohrmarken für Klauentiere.
 - d. Sie zahlt Beiträgen an die Kosten der Entsorgung von tierischen Nebenprodukten aus.
 - e. Sie vereinnahmt die Schlachtabgabe.
 
 [^3-1]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^3-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^3-3]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^3-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^3-3]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^3-4]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 4
 
@@ -179,7 +180,7 @@ Die TVD enthält die folgenden Daten:
 - f. die Daten zur neutralen Qualitätseinstufung von geschlachteten Tieren nach Artikel 3 SV;
 - g. die Daten zu den Ergebnissen der Schlachttieruntersuchung sowie zu den Ergebnissen der Fleischuntersuchung, die die Genusstauglichkeit betreffen.
 
-[^10-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^10-1]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 11
 
@@ -190,8 +191,9 @@ Die TVD enthält die folgenden Daten:
 Die Tiergeschichte umfasst die folgenden Daten eines einzelnen Tiers:
 
 - a. Identifikationsnummer des Tiers;
-- b. TVD-Nummer der einzelnen Tierhaltungen, in denen das Tier steht oder gestanden ist;
-- c. Standortadresse und Gebietszugehörigkeit der einzelnen Tierhaltungen, in denen das Tier steht oder gestanden ist;
+- b.[^11-1] für jedes Ereignis nach Anhang 1: das Datum sowie die TVD-Nummer oder die Identifikationsnummer im Betriebs- und Unternehmensregister (BUR-Nummer) der einzelnen Tierhaltungen, in denen das Tier steht oder gestanden ist;
+- b<sup>bis</sup>.[^11-2] für die Ereignisse Zugang und Schlachtung: zusätzlich zu den Daten nach Buchstabe b die TVD- oder die BUR-Nummer der Herkunftstierhaltung;
+- c.[^11-3] Standortadresse, Koordinaten und Gebietszugehörigkeit sowie Tierhaltungstyp nach Artikel 6 Buchstabe o TSV[^11-4] der einzelnen Tierhaltungen, in denen das Tier steht oder gestanden ist;
 - d. Name und Adresse der einzelnen Tierhalterinnen und Tierhalter, die das Tier halten oder gehalten haben;
 - e. bei Tieren der Rindergattung, Büffeln und Bisons: Datum und Ereignis nach Anhang 1 Ziffer 1 in den einzelnen Tierhaltungen, in denen das Tier steht oder gestanden ist;
 - f. bei Tieren der Schaf- und der Ziegengattung: Datum und Ereignis nach Anhang 1 Ziffer 2 in den einzelnen Tierhaltungen, in denen das Tier steht oder gestanden ist;
@@ -212,10 +214,17 @@ Das Tierdetail umfasst die folgenden Daten eines einzelnen Tiers:
 - a. Gattung, Rasse, Geschlecht und, falls vorhanden, Farbe des Tiers;
 - b. Identifikationsnummer des Mutter- und, falls vorhanden, des Vatertiers;
 - c. falls vorhanden Mehrlingsgeburten;
+- c<sup>bis</sup>.[^11-5] bei weiblichen Tieren mit Nachkommen: die Identifikationsnummern der Nachkommen;
 - d. bei Tieren der Rindergattung, Büffeln und Bisons sowie bei Tieren der Schaf- und der Ziegengattung: Nutzungsart;
-- e. bei Equiden: Mikrochipnummer, rudimentäres verbales Signalement sowie Verwendungszweck nach Artikel 15 der Tierarzneimittelverordnung vom 18. August 2004[^11-1] (TAMV).
+- e.[^11-6] bei Equiden: Art, Mikrochipnummer, rudimentäres verbales Signalement sowie Verwendungszweck nach Artikel 15 der Tierarzneimittelverordnung vom 18. August 2004[^11-7] (TAMV).
 
-[^11-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^11-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-4]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^11-5]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-6]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^11-7]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 12
 
@@ -237,12 +246,12 @@ Die TVD kann folgende Daten aus anderen Informationssystemen beziehen:
 - e. aus dem E-Transit: die Informationen über elektronisch erstellte Begleitdokumente;
 - f. aus dem IAM-System: die Daten zu den Benutzerinnen und Benutzern der TVD.
 
-[^12-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^12-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^12-3]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^12-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^12-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^12-3]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^12-4]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^12-5]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^12-6]: [SR 812.214.4](https://fedlex.data.admin.ch/eli/cc/2018/702)
+[^12-5]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
+[^12-6]: [SR 812.214.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9376)
 [^12-7]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 ### 2. Abschnitt: Registrierung von Personen und Tierhaltungen sowie Erfassung des Tierverkehrs
@@ -256,7 +265,8 @@ Die TVD kann folgende Daten aus anderen Informationssystemen beziehen:
 Tierhalterinnen und Tierhalter mit Tieren der Rindergattung, Büffeln, Bisons, Tieren der Schaf-, der Ziegen- und der Schweinegattung, Tierhalterinnen und Tierhalter mit Hausgeflügel, deren Tierhaltung mehr als 250 Plätze für Zuchttiere, mehr als 1000 Plätze für Legehennen, eine Stallgrundfläche von mehr als 333 m<sup>2</sup> für Mastpoulets oder von mehr als 200 m<sup>2</sup> für Masttruten hat, sowie Schlachtbetriebe müssen folgende Daten an die TVD übermitteln:[^13-1]
 
 - a. Telefonnummer und Korrespondenzsprache;
-- b. Post- oder Bankverbindung.
+- b. Post- oder Bankverbindung;
+- c.[^13-2] E-Mail-Adresse.
 
 <sup>2</sup> Tierhalterinnen und Tierhalter mit Tieren der Rindergattung, Büffeln, Bisons, Tieren der Schaf- und der Ziegengattung müssen Daten zur Nutzungsart der Tierhaltung an die TVD übermitteln. Diese Pflicht gilt nicht für Schlachtbetriebe.
 
@@ -265,6 +275,7 @@ Tierhalterinnen und Tierhalter mit Tieren der Rindergattung, Büffeln, Bisons, T
 <sup>4</sup> Tierhalterinnen und Tierhalter mit Hausgeflügel können zusätzlich Angaben zum Stallgebäude übermitteln.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
+[^13-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 14
 
@@ -280,7 +291,7 @@ Eigentümerinnen und Eigentümer von Equiden, Personen, die Equiden nach Artikel
 
 <sup>2</sup> Zu übermitteln sind zudem Änderungen der Daten nach Absatz 1.
 
-[^14-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^14-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^14-2]: SR **910.341**
 
 #### Art. 15
@@ -338,7 +349,10 @@ Schlachtbetriebe müssen die folgenden Daten an die TVD übermitteln:
 - a. Daten nach Anhang 1 Ziffer 4 Buchstabe j;
 - b. Daten nach Anhang 1 Ziffer 4 Buchstabe d, wenn ein Tier im Schlachtbetrieb oder auf dem Weg zum Schlachtbetrieb verendet und dort entsorgt wird.
 
-[^19-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+<sup>6</sup> Stellen, die Equidenpässe (Art. 15*c* TSV) ausstellen, müssen die Daten nach Anhang 1 Ziffer 4 Buchstabe l an die TVD übermitteln.[^19-2]
+
+[^19-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^19-2]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 20
 
@@ -346,7 +360,7 @@ Schlachtbetriebe müssen die folgenden Daten an die TVD übermitteln:
 
 Bei der Geburt eines Equiden kann die Eigentümerin oder der Eigentümer die Stelle, die den Equidenpass (Art. 15*c* TSV[^20-1]) ausstellt, ermächtigen, vor der Bestellung des Grundpasses die Daten des Equiden in der TVD zu ändern.
 
-[^20-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^20-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 21
 
@@ -382,23 +396,21 @@ Die Identitas AG prüft die Daten nach den Artikeln 13 und 16–21 auf ihre Voll
 
 #### Art. 25
 
-**Berichtigung von Daten**
+**Änderung oder Löschung von Daten**[^25-1]
 
-<sup>1</sup> Die meldepflichtigen Personen und die beauftragten Personen können die von ihnen übermittelten Daten innerhalb von 10 Tagen online ändern oder löschen, mit Ausnahme der Änderung des Verwendungszwecks bei Equiden nach Anhang 1 Ziffer 4 Buchstabe f.[^25-1]
+<sup>1</sup>
 
-<sup>2</sup> Schlachtbetriebe können die TVD-Nummer der Gesuchstellerin oder des Gesuchstellers nach Anhang 1 Ziffer 1 Buchstabe e Ziffer 7, Ziffer 2 Buchstabe e Ziffer 7 sowie Ziffer 4 Buchstabe j Ziffer 5 bis 30 Tage nach der Schlachtung online ändern.
+Die meldepflichtigen Personen und die beauftragten Personen können die von ihnen übermittelten Daten online ändern oder löschen oder bei der Identitas AG telefonisch oder schriftlich eine Änderung oder Löschung beantragen, mit folgenden Ausnahmen:
 
-<sup>3</sup> Die meldepflichtigen Personen und die beauftragten Personen können bei der Identitas AG telefonisch oder schriftlich eine Berichtigung der von ihnen übermittelten Daten beantragen.[^25-2]
+- a. Änderung des Verwendungszwecks vom Heimtier zum Nutztier bei Equiden nach Anhang 1 Ziffer 4 Buchstabe f;
+- b. Löschung der Daten, die bei der Geburt von Equiden nach Anhang 1 Ziffer 4 Buchstabe a erfasst wurden.
 
-<sup>4</sup> Drittpersonen können bei der Identitas AG eine Berichtigung nur für Daten über den Abgang eines Tiers nach Anhang 1 Ziffer 1 Buchstabe d und Ziffer 2 Buchstabe d beantragen. Sie müssen dafür die Begleitdokumente nach Artikel 12 TSV[^25-3] einreichen.[^25-4]
+<sup>2</sup> Drittpersonen können bei der Identitas AG eine Änderung oder Löschung nur für Daten über den Zugang oder den Abgang eines Tiers nach Anhang 1 Ziffer 1 Buchstaben c und d sowie Ziffer 2 Buchstaben c und d beantragen. Sie müssen dafür die Begleitdokumente nach Artikel 12 TSV[^25-2] einreichen.
 
-<sup>5</sup> Die kantonalen Stellen, die für den Vollzug der Tierseuchengesetzgebung zuständig sind, können bei der Identitas AG telefonisch oder schriftlich eine Berichtigung von Daten nach Anhang 1 beantragen.[^25-5]
+<sup>3</sup> Die kantonalen Stellen, die für den Vollzug der Tierseuchengesetzgebung zuständig sind, können bei der Identitas AG telefonisch oder schriftlich eine Änderung oder Löschung von Daten nach Anhang 1 beantragen.
 
-[^25-1]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
-[^25-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^25-3]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^25-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^25-5]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^25-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^25-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 26
 
@@ -425,16 +437,17 @@ Sie stellt der Eigentümerin oder dem Eigentümer und der Tierhalterin oder dem 
 
 Sie übermittelt der Organisation der Arbeitswelt Pferdeberufe für die Erhebung der Abgabe für den Berufsbildungsfonds die folgenden Daten zu den Tierhaltungen mit Equiden:
 
-- a. die TVD-Nummer der Tierhaltung;
+- a. die TVD- oder BUR-Nummer[^27-4] der Tierhaltung;
 - b. Name, Adresse, E-Mail-Adresse und Telefonnummer der Tierhalterin oder des Tierhalters;
 - c. die Anzahl Equiden, die in der Tierhaltung stehen;
-- d.[^27-4] die Anzahl Equiden mit einem Alter von über 3 Jahren, die in der Tierhaltung stehen;
+- d.[^27-5] die Anzahl Equiden mit einem Alter von über 3 Jahren, die in der Tierhaltung stehen;
 - e. die Anzahl Equiden, bei denen die Eigentümerin oder der Eigentümer den Wechsel der Tierhaltung nicht gemeldet hat.
 
-[^27-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^27-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^27-3]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^27-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^27-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^27-2]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^27-3]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^27-4]: Ausdruck gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)). Diese Änd. wurde im ganzen Erlass, ausser in Art. 15, berücksichtigt.
+[^27-5]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
 #### Art. 28
 
@@ -446,7 +459,7 @@ Sie übermittelt der Organisation der Arbeitswelt Pferdeberufe für die Erhebung
 
 <sup>3</sup> Bei der Änderung des Verwendungszwecks eines Equiden von Nutztier zu Heimtier stellt sie der Eigentümerin oder dem Eigentümer den entsprechenden Kleber für den Equidenpass zu.
 
-[^28-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^28-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 ### 3. Abschnitt: Gesuche um Kontingentsanteile für den Import von Fleisch und Fleischwaren sowie Ermittlung der relevanten Daten
 
@@ -456,7 +469,7 @@ Sie übermittelt der Organisation der Arbeitswelt Pferdeberufe für die Erhebung
 
 Die Identitas AG stellt sicher, dass Gesuche um Kontingentsanteile nach Artikel 24*b* SV[^29-1] über die TVD eingereicht werden können.
 
-[^29-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^29-1]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 30
 
@@ -467,8 +480,8 @@ Die Identitas AG ermittelt für jede Bemessungsperiode pro Gesuchstellerin oder 
 - a. die Zahl der geschlachteten Tiere der Rinder-, der Schaf-, der Ziegen- und der Pferdegattung nach Artikel 24*a* SV[^30-1];
 - b. die Nummern der Generaleinfuhrbewilligungen von allfälligen Kontingentsanteilsberechtigten nach Artikel 14 Absätze 1 und 2 der Agrareinfuhrverordnung vom 26. Oktober 2011[^30-2].
 
-[^30-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
-[^30-2]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^30-1]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
+[^30-2]: [SR 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 
 ### 4. Abschnitt: Ergebnisse der neutralen Qualitätseinstufung für geschlachtete Tiere
 
@@ -478,7 +491,7 @@ Die Identitas AG ermittelt für jede Bemessungsperiode pro Gesuchstellerin oder 
 
 <sup>2</sup> Sie liefert der mit der neutralen Qualitätseinstufung nach Artikel 3 SV beauftragten Organisation die Ergebnisse dieser Qualitätseinstufung.
 
-[^31-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^31-1]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 ### 5. Abschnitt: Veröffentlichung von Auswertungen
 
@@ -515,7 +528,7 @@ Das BLW, das BLV, die Bundesämter für Statistik, für wirtschaftliche Landesve
 
 Die Zucht-, Produzenten- und Labelorganisationen sowie die Tiergesundheitsdienste können in folgende Daten ihrer Mitglieder Einsicht nehmen und sie verwenden:
 
-- a. TVD-Nummer, Standortadresse und Koordinaten von Tierhaltungen, Gemeindenummer sowie Tierhaltungstyp nach Artikel 6 Buchstabe o TSV[^35-1];
+- a.[^35-1] TVD-Nummer, BUR-Nummer, Standortadresse und Koordinaten von Tierhaltungen, Gemeindenummer sowie Tierhaltungstyp nach Artikel 6 Buchstabe o TSV[^35-2];
 - b. Auflistung der Identifikationsnummern der Tiere, die in einer Tierhaltung stehen oder gestanden sind;
 - c. Name, Adresse und kantonale Identifikationsnummer von Tierhalterinnen und Tierhaltern;
 - d. Identifikationsnummern auf den Ohrmarken, die von der Identitas AG an die Mitglieder der betreffenden Organisation geliefert worden sind;
@@ -525,7 +538,8 @@ Die Zucht-, Produzenten- und Labelorganisationen sowie die Tiergesundheitsdienst
 
 <sup>2</sup> Die Zucht-, Produzenten- und Labelorganisationen sowie die Tiergesundheitsdienste können in die übrigen Daten nach den Artikeln 13–21 ihrer Mitglieder Einsicht nehmen und diese verwenden, sofern die Mitglieder dazu in der TVD ihre Zustimmung gegeben haben.
 
-[^35-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^35-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^35-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 36
 
@@ -547,7 +561,7 @@ Tierhalterinnen und Tierhalter, bei denen ein Tier gestanden ist, sowie eine all
 - c. Ergebnisse der Schlachttieruntersuchung sowie Ergebnisse der Fleischuntersuchung, die die Genusstauglichkeit betreffen.
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)).
-[^36-2]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^36-2]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 #### Art. 37
 
@@ -565,17 +579,17 @@ Die beauftragten Personen nach Artikel 23 können in die gleichen Daten der TVD 
 
 [^38a-1]
 
-[^38a-1]: In Kraft ab 1. Jan. 2026
+[^38a-1]: In Kraft ab 1. Jan. 2027 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706); [2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)Ziff. III).
 
 #### Art. 38b
 
-**Zugriff über die TVD-, die Identifikations- oder die Mikrochipnummer**[^38b-1]
+**Zugriff über die TVD-, die BUR-, die Identifikations- oder die Mikrochipnummer[^38b-2]**[^38b-1]
 
 <sup>1</sup>
 
-Wer über die TVD-Nummer einer Tierhaltung verfügt, kann ohne Einwilligung der betroffenen Person in die folgenden Daten zu dieser Tierhaltung Einsicht nehmen und sie verwenden:
+Wer über die TVD- oder BUR-Nummer einer Tierhaltung verfügt, kann ohne Einwilligung der betroffenen Person in die folgenden Daten zu dieser Tierhaltung Einsicht nehmen und sie verwenden:
 
-- a. bei landwirtschaftlichen Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^38b-2] (LBV): die Gebietszugehörigkeit;
+- a. bei landwirtschaftlichen Tierhaltungen nach Artikel 11 der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^38b-3] (LBV): die Gebietszugehörigkeit;
 - b. bei Tierhaltungen mit Tieren der Rindergattung, Büffeln oder Bisons: den BVD-Status;
 - c. bei Tierhaltungen mit Tieren der Schafgattung: den Moderhinkestatus.
 
@@ -587,13 +601,16 @@ Wer über die Identifikationsnummer oder die Mikrochipnummer eines Tiers verfüg
 - b. Tierdetail;
 - c. bei Tieren der Rindergattung, Büffeln und Bisons: den BVD-Status, den Tiergeschichtenstatus und das Geburtsdatum;
 - d. bei Tieren der Schaf- und der Ziegengattung: den Tiergeschichtenstatus und das Geburtsdatum;
-- e. bei Equiden: den Verwendungszweck nach Artikel 15 TAMV[^38b-3].
+- e.[^38b-4] bei Equiden: das Geburtsdatum sowie den Verwendungszweck nach Artikel 15 TAMV[^38b-5].
 
-<sup>3</sup> Personen, die in die Daten Einsicht nehmen und sie verwenden wollen, beschaffen die TVD-Nummern von Tierhaltungen sowie die Identifikationsnummern und Mikrochipnummern von Tieren selber
+<sup>3</sup> Personen, die in die Daten Einsicht nehmen und sie verwenden wollen, beschaffen die TVD- und die BUR-Nummern von Tierhaltungen sowie die Identifikationsnummern und Mikrochipnummern von Tieren selber.[^38b-6]
 
 [^38b-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **2023** 706).
-[^38b-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
-[^38b-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^38b-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^38b-3]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^38b-4]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^38b-5]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^38b-6]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 39
 
@@ -629,7 +646,7 @@ Die folgenden Informationssysteme können mittels Schnittstellen die Daten aus d
 - j.[^40-3] das Informations- und Dokumentationssystem über Grossraubtiere (GRIDS).
 
 [^40-1]: Fassung gemäss Anhang 4 Ziff. II 9 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^40-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^40-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^40-3]: Eingefügt durch Anhang Ziff. 3 der V vom 13. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 12](https://fedlex.data.admin.ch/eli/oc/2025/12)).
 
 ## 4. Kapitel: GVE-Rechner
@@ -640,7 +657,9 @@ Die folgenden Informationssysteme können mittels Schnittstellen die Daten aus d
 
 <sup>1</sup> Der GVE-Rechner ermöglicht die Berechnung von Tierbeständen in Grossvieheinheiten (GVE) aus den Daten der TVD.
 
-<sup>2</sup> Er enthält Daten zu den Tierhaltungen und die nach den Artikeln 42–44 berechneten Daten.
+<sup>2</sup> Er enthält Daten zu den Tierhaltungen und die nach den Artikeln 42–43*a* berechneten Daten.[^41-1]
+
+[^41-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 42
 
@@ -653,15 +672,15 @@ Der GVE-Rechner kann folgende Daten aus anderen Informationssystemen beziehen:
 
 #### Art. 43
 
-**Berechnung der GVE-Werte für Tiere der Rindergattung, Wasserbüffel, Bisons und Equiden**
+**Berechnung der GVE-Werte für Tiere der Rindergattung, Wasserbüffel, Bisons, Tiere der Schaf- und der Ziegengattung und Equiden[^43-1]**
 
 <sup>1</sup>
 
-Die Identitas AG berechnet für Tiere der Rindergattung, Wasserbüffel, Bisons und Equiden jährlich nach Tierkategorie pro Tierhaltung die Daten nach den Artikeln 36 und 37 der Direktzahlungsverordnung vom 23. Oktober 2013[^43-1] (DZV):
+Die Identitas AG berechnet für Tiere der Rindergattung, Wasserbüffel, Bisons, Tiere der Schaf- und der Ziegengattung und Equiden jährlich nach Tierkategorie pro Tierhaltung die Daten nach den Artikeln 36 und 37 der Direktzahlungsverordnung vom 23. Oktober 2013[^43-2] (DZV):
 
-- a. für Ganzjahresbetriebe nach Artikel 6 LBV[^43-2]: den massgebenden Tierbestand und den Bestand am 1. Januar, mit Auflistung aller Einzeltiere;
+- a. für Ganzjahresbetriebe nach Artikel 6 LBV[^43-3]: den massgebenden Tierbestand und den Bestand am 1. Januar, mit Auflistung aller Einzeltiere;
 - b. für Sömmerungs- und Gemeinschaftsweidebetriebe nach den Artikeln 8 und 9 LBV, ohne Bisons: den massgebenden Tierbestand und den Bestand am 25. Juli, mit Auflistung aller Einzeltiere;
-- c. die Entwicklung des Bestands in den Bemessungsperioden nach Artikel 36 DZV auf Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetrieben.
+- c. die Entwicklung des Bestands in den Bemessungsperioden nach Artikel 36 DZV auf Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetrieben.[^43-4]
 
 <sup>2</sup> Sie speichert die Daten nach Absatz 1 im GVE-Rechner.
 
@@ -669,8 +688,10 @@ Die Identitas AG berechnet für Tiere der Rindergattung, Wasserbüffel, Bisons u
 
 <sup>4</sup> Das BLW erlässt Vorgaben, wie die Daten zu berechnen und in welcher Form sie zur Verfügung zu stellen sind.
 
-[^43-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^43-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^43-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^43-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^43-3]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^43-4]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 43a
 
@@ -683,44 +704,28 @@ Die Identitas AG berechnet für Tiere der Rindergattung, Wasserbüffel, Bisons u
 <sup>3</sup> Sie stellt die Daten den zuständigen kantonalen Stellen, dem BLW und dem Bundesamt für Statistik zur Verfügung.
 
 [^43a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^43a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^43a-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 44
 
-**Berechnung der GVE-Werte für Tiere der Schaf- und der Ziegengattung**[^44-1]
+[^44-1]
 
-<sup>1</sup>
-
-Die Identitas AG berechnet für Tiere der Schaf- und der Ziegengattung jährlich nach Tierkategorie pro Tierhaltung die Daten nach den Artikeln 36 und 37 DZV[^44-2]:
-
-- a. für Ganzjahresbetriebe nach Artikel 6 LBV[^44-3]: den massgebenden Tierbestand und den Bestand am 1. Januar, mit Auflistung aller Einzeltiere;
-- b. für Sömmerungs- und Gemeinschaftsweidebetriebe nach den Artikeln 8 und 9 LBV: den massgebenden Tierbestand und den Bestand am 25. Juli, mit Auflistung aller Einzeltiere;
-- c. die Entwicklung des Bestands in den Bemessungsperioden nach Artikel 36 DZV auf Ganzjahres-, Sömmerungs- und Gemeinschaftsweidebetrieben.
-
-<sup>2</sup> Sie berechnet einmalig die Daten für die Referenzjahre nach Artikel 41 Absatz 3<sup>bis</sup> DZV.
-
-<sup>3</sup> Sie speichert die Daten nach Absatz 1 im GVE-Rechner.
-
-<sup>4</sup> Sie stellt die Daten den zuständigen kantonalen Stellen, dem BLW und dem Bundesamt für Statistik zur Verfügung.
-
-<sup>5</sup> Das BLW erlässt Vorgaben, wie die Daten zu berechnen und in welcher Form sie zur Verfügung zu stellen sind.
-
-[^44-1]: In Kraft seit 1. Jan. 2024 in Kraft (Art. 69 Abs. 2).
-[^44-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^44-3]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^44-1]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 45
 
-**Erstellen des GVE-Verzeichnisses für Tiere der Rindergattung, Wasserbüffel, Bisons und Equiden**
+**Erstellen des GVE-Verzeichnisses für Tiere der Rindergattung, Wasserbüffel, Bisons, Tiere der Schaf- und der Ziegengattung und Equiden**[^45-1]
 
-Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätestens 15 Tage nach Ablauf der Bemessungsperioden nach Artikel 36 DZV[^45-1] auf elektronischem Weg ein Verzeichnis ihrer Tiere der Rindergattung, Wasserbüffel, Bisons und Equiden zur Verfügung. Dieses Verzeichnis enthält:
+Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätestens 15 Tage nach Ablauf der Bemessungsperioden nach Artikel 36 DZV[^45-2] auf elektronischem Weg ein Verzeichnis ihrer Tiere der Rindergattung, Wasserbüffel, Bisons, Tiere der Schaf- und der Ziegengattung und Equiden zur Verfügung. Dieses Verzeichnis enthält:
 
 - a. die Angaben nach Artikel 43 Absatz 1;
 - b. für Tiere der Rindergattung, Wasserbüffel und Bisons: die Angaben zur Nutzungsart nach Anhang 1 Ziffer 1 Buchstabe h Ziffer 3;
-- c. für Equiden: die Angaben zum Verwendungszweck nach Artikel 15 TAMV[^45-2].
+- c. für Tiere der Schaf- und der Ziegengattung: die Angaben zur Nutzungsart nach Anhang 1 Ziffer 2 Buchstabe h Ziffer 3;
+- d. für Equiden: die Angaben zum Verwendungszweck nach Artikel 15 TAMV[^45-3].
 
-[^45-1]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^45-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^45-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^45-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
+[^45-3]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 #### Art. 45a
 
@@ -729,36 +734,30 @@ Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätest
 Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätestens 15 Tage nach Ablauf der Bemessungsperioden nach Artikel 36 DZV[^45a-2] auf elektronischem Weg ein Verzeichnis mit den Angaben nach Artikel 43*a* zu.
 
 [^45a-1]: Eingefügt durch Anhang Ziff. 4 der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^45a-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^45a-2]: [SR 910.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10406)
 
 #### Art. 46
 
-**Erstellen des GVE-Verzeichnisses für Tiere der Schaf- und der Ziegengattung**[^46-1]
+[^46-1]
 
-Die Identitas AG stellt den Tierhalterinnen und Tierhaltern jeweils bis spätestens 15 Tage nach Ablauf der Bemessungsperioden nach Artikel 36 DZV[^46-2] auf elektronischem Weg ein Verzeichnis ihrer Tiere der Schaf- und der Ziegengattung zur Verfügung. Dieses Verzeichnis enthält die Angaben nach Artikel 44 Absatz 1 sowie die Angaben zur Nutzungsart nach Anhang 1 Ziffer 2 Buchstabe h Ziffer 3.
-
-[^46-1]: In Kraft seit 1. Jan. 2024 in Kraft (Art. 69 Abs. 2).
-[^46-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+[^46-1]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 47
 
-**Bereitstellen eines Berechnungsintruments für Tiere der Rindergattung, Wasserbüffel, Bisons und Equiden**
+**Bereitstellen eines Berechnungsinstruments für Tiere der Rindergattung, Wasserbüffel, Bisons, Tiere der Schaf- und der Ziegengattung und Equiden**[^47-1]
 
 Die Identitas AG stellt den Tierhalterinnen und Tierhaltern sowie den Amtsstellen und beigezogenen Firmen, Organisationen und Kontrollorganen nach Artikel 34 ein Instrument zur Verfügung, mit dem sie, für einen wählbaren Zeitraum von maximal einem Jahr, Folgendes berechnen können:
 
-- a. den Bestand an Tieren der Rindergattung, Wasserbüffeln, Bisons und Equiden nach Tierkategorien in Grossvieheinheiten;
-- b. für die Alpung und Sömmerung den Bestand an Tieren der Rindergattung, Wasserbüffeln und Equiden nach Tierkategorien in Normalstössen.
+- a. den Bestand an Tieren der Rindergattung, Wasserbüffeln, Bisons, Tieren der Schaf- und der Ziegengattung und Equiden nach Tierkategorien in Grossvieheinheiten;
+- b. für die Alpung und Sömmerung den Bestand an Tieren der Rindergattung, Wasserbüffeln, Tieren der Schaf- und der Ziegengattung und Equiden nach Tierkategorien in Normalstössen.
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 48
 
-**Bereitstellen eines Berechnungsinstruments für Tiere der Schaf- und der Ziegengattung**[^48-1]
+[^48-1]
 
-Die Identitas AG stellt den Tierhalterinnen und Tierhaltern sowie den Amtsstellen und beigezogenen Firmen, Organisationen und Kontrollorganen nach Artikel 34 ein Instrument zur Verfügung, mit dem sie, für einen wählbaren Zeitraum von maximal einem Jahr, Folgendes berechnen können:
-
-- a. den Bestand an Tieren der Schaf- und der Ziegengattung nach Tierkategorien in Grossvieheinheiten;
-- b. für die Alpung und Sömmerung den Bestand an Tieren der Schaf- und der Ziegengattung nach Tierkategorien in Normalstössen.
-
-[^48-1]: In Kraft seit 1. Jan. 2024 in Kraft (Art. 69 Abs. 2).
+[^48-1]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 49
 
@@ -780,8 +779,8 @@ Die Identitas AG stellt den Tierhalterinnen und Tierhaltern sowie den Amtsstelle
 
 <sup>2</sup> Es enthält die Daten nach Artikel 12 Absatz 2 TSV und Artikel 152 Absatz 1 Buchstabe e der Tierschutzverordnung vom 23. April 2008[^50-2].
 
-[^50-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^50-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^50-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^50-2]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 51
 
@@ -822,7 +821,7 @@ Das E-Transit kann folgende Daten aus anderen Informationssystemen beziehen:
 
 <sup>6</sup> Das BLW, das BLV und die kantonalen Stellen, die für den Vollzug der Tierseuchen-, der Landwirtschafts-, der Tierschutz-, der Lebensmittel- und der Heilmittelgesetzgebung zuständig sind, können zur Erfüllung ihrer Aufgaben die elektronischen Begleitdokumente einsehen, verwenden und während der Gültigkeitsdauer des Begleitdokuments nach Artikel 12*a* TSV ergänzen.[^54-3]
 
-[^54-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^54-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^54-2]: Aufgehoben durch Ziff. I der V vom 2. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 [^54-3]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
 
@@ -838,13 +837,9 @@ Das E-Transit kann folgende Daten aus anderen Informationssystemen beziehen:
 
 #### Art. 56
 
-**Support**
+[^56-1]
 
-<sup>1</sup> Die Identitas AG stellt einen fachlichen Support für das Hoduflu bereit.
-
-<sup>2</sup> Sie stellt einen Support für das Login der Benutzerinnen und Benutzer ins Internetportal Agate bereit.
-
-<sup>3</sup> Sie sorgt dafür, dass der Support für das Internetportal Agate mit dem fachlichen Support nach Artikel 3 Absatz 3 abgestimmt ist.
+[^56-1]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 57
 
@@ -862,7 +857,7 @@ Das E-Transit kann folgende Daten aus anderen Informationssystemen beziehen:
 
 Die Identitas AG zahlt die Entsorgungsbeiträge nach der Verordnung vom 10. November 2004[^58-1] über die Ausrichtung von Beiträgen an die Kosten der Entsorgung von tierischen Nebenprodukten aus.
 
-[^58-1]: [SR 916.407](https://fedlex.data.admin.ch/eli/cc/2004/743)
+[^58-1]: [SR 916.407](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10853)
 
 #### Art. 59
 
@@ -870,7 +865,7 @@ Die Identitas AG zahlt die Entsorgungsbeiträge nach der Verordnung vom 10. Nove
 
 Die Identitas AG vereinnahmt die Schlachtabgabe nach Artikel 38*a* TSV[^59-1] und liefert sie dem BLV ab.
 
-[^59-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^59-1]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 
 #### Art. 60
 
@@ -886,7 +881,7 @@ Die Identitas AG vereinnahmt die Schlachtabgabe nach Artikel 38*a* TSV[^59-1] un
 
 <sup>5</sup> Vom Bundesarchiv als nicht archivwürdig beurteilte Daten sind dem BLW auszuhändigen.
 
-[^60-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^60-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ## 7. Kapitel: Finanzierung und Gebühren
 
@@ -929,7 +924,7 @@ Die Gebühren nach Artikel 45*b* Absatz 3 TSG dienen ausschliesslich der Finanzi
 
 <sup>4</sup> Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^62-1].
 
-[^62-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^62-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 #### Art. 63
 
@@ -996,11 +991,11 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 3 geregelt.
 
 Anhang 1[^t-1]
 
-(Art. 11 Abs. 1 Bst. e und f, 16–19, 21, 23 Abs. 1, 25 Abs. 1, 2 und 4, 27 Abs. 2 Bst. b, 35 Abs. 1 Bst. f und g, 45 Bst. b, 46 sowie 68 Abs. 2)
+(Art. 11 Abs. 1 Bst. e und f, 16–19, 21, 23 Abs. 1, 25 Abs. 1, 2 und 4, 27 Abs. 2 Bst. b, 35 Abs. 1 Bst. f und g, 45 Bst. b und c sowie 68 Abs. 2)
 
 ## An die TVD zu übermittelnde Daten
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)).
+[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 2. Nov. 2022 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)) und vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### 1. Daten zu Tieren der Rindergattung, Büffeln und Bisons
 
@@ -1010,7 +1005,7 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
 
   bei der Geburt eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers sowie des Mutter- und, falls vorhanden, des Vatertiers,
   - 3\. das Geburtsdatum des Tiers,
   - 4\. die Rasse, die Farbe und das Geschlecht des Tiers,
@@ -1022,7 +1017,7 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
   bei der Einfuhr eines Tiers:
 
   - 1\. das Herkunftsland und die Identifikationsnummer des Tiers im Herkunftsland,
-  - 2\. die TVD-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 3\. die Identifikationsnummer des Tiers,
   - 4\. das Geburtsdatum des Tiers,
   - 5\. die Rasse, die Farbe und das Geschlecht des Tiers,
@@ -1040,8 +1035,8 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
 
   beim Zugang eines Tiers von einer anderen Tierhaltung im Inland:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die Identifikationsnummer des Tiers,
   - 4\.
 
@@ -1057,7 +1052,7 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
 
   beim Abgang eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers,
   - 3\. das Abgangsdatum,
   - 4\. die Abgangsart,
@@ -1067,19 +1062,19 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
 
   bei der Schlachtung eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die Identifikationsnummer des Tiers,
   - 4\. das Schlachtdatum,
   - 5\. das Datum der Meldung,
   - 6\. das Ergebnis der neutralen Qualitätseinstufung nach Artikel 3 Absatz 1 SV[^annex1-lvlu1-lvl1-1], sofern erhoben,
-  - 7\. die TVD-Nummer der Gesuchstellerin, sofern die Schlachtung bei einem Gesuch um Kontingentsanteile nach Artikel 24*b* SV geltend gemacht werden soll;
+  - 7\. die TVD- oder BUR-Nummer der Gesuchstellerin, sofern die Schlachtung bei einem Gesuch um Kontingentsanteile nach Artikel 24*b* SV geltend gemacht werden soll;
 
 - f.
 
   bei der Verendung eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers,
   - 3\. das Verendungsdatum,
   - 4\. das Datum der Meldung;
@@ -1088,7 +1083,7 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
 
   bei der Ausfuhr eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers,
   - 3\. das Bestimmungsland,
   - 4\. das Ausfuhrdatum,
@@ -1098,7 +1093,7 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
 
   bei der Änderung der Nutzungsart eines Muttertiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Muttertiers,
   - 3\.
 
@@ -1110,7 +1105,7 @@ Zu den Tieren der Rindergattung, Büffeln und Bisons sind folgende Daten zu übe
   - 4\. das Datum, ab dem die Nutzungsart gilt,
   - 5\. das Datum der Meldung.
 
-[^annex1-lvlu1-lvl1-1]: [SR 916.341](https://fedlex.data.admin.ch/eli/cc/2003/791)
+[^annex1-lvlu1-lvl1-1]: [SR 916.341](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10707)
 
 ### 2. Daten zu Tieren der Schaf- und der Ziegengattung
 
@@ -1120,7 +1115,7 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
 
   bei der Geburt eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers sowie des Mutter- und, falls vorhanden, des Vatertiers,
   - 3\. das Geburtsdatum des Tiers,
   - 4\. die Rasse und das Geschlecht des Tiers sowie bei Tieren der Schafgattung die Farbe,
@@ -1132,7 +1127,7 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
   bei der Einfuhr eines Tiers:
 
   - 1\. das Herkunftsland und die Identifikationsnummer des Tiers im Herkunftsland,
-  - 2\. die TVD-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 3\. die Identifikationsnummer des Tiers,
   - 4\. das Geburtsdatum des Tiers,
   - 5\. die Rasse und das Geschlecht des Tiers sowie bei Tieren der Schafgattung die Farbe,
@@ -1150,8 +1145,8 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
 
   beim Zugang eines Tiers von einer anderen Tierhaltung im Inland:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die Identifikationsnummer des Tiers,
   - 4\.
 
@@ -1167,7 +1162,7 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
 
   beim Abgang eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers,
   - 3\. das Abgangsdatum,
   - 4\. die Abgangsart,
@@ -1177,19 +1172,19 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
 
   bei der Schlachtung eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die Identifikationsnummer des Tiers,
   - 4\. das Schlachtdatum,
   - 5\. das Datum der Meldung,
   - 6\. das Ergebnis der neutralen Qualitätseinstufung nach Artikel 3 Absatz 1 SV, sofern erhoben,
-  - 7\. die TVD-Nummer der Gesuchstellerin, sofern die Schlachtung bei einem Gesuch um Kontingentsanteile nach Artikel 24*b* SV geltend gemacht werden soll;
+  - 7\. die TVD- oder BUR-Nummer der Gesuchstellerin, sofern die Schlachtung bei einem Gesuch um Kontingentsanteile nach Artikel 24*b* SV geltend gemacht werden soll;
 
 - f.
 
   bei der Verendung eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers,
   - 3\. das Verendungsdatum,
   - 4\. das Datum der Meldung;
@@ -1198,7 +1193,7 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
 
   bei der Ausfuhr eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Tiers,
   - 3\. das Bestimmungsland,
   - 4\. das Ausfuhrdatum,
@@ -1208,7 +1203,7 @@ Zu den Tieren der Schaf- und der Ziegengattung sind folgende Daten zu übermitte
 
   bei der Änderung der Nutzungsart eines Muttertiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Identifikationsnummer des Muttertiers,
   - 3\.
 
@@ -1229,7 +1224,7 @@ Zu Tieren der Schweinegattung sind folgende Daten zu übermitteln:
   bei der Einfuhr von Tieren:
 
   - 1\. das Herkunftsland und die Identifikationsnummer der Tierhaltung im Herkunftsland,
-  - 2\. die TVD-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 3\. die Zahl der Tiere,
   - 4\. das Einfuhrdatum,
   - 5\. das Datum der Meldung;
@@ -1238,8 +1233,8 @@ Zu Tieren der Schweinegattung sind folgende Daten zu übermitteln:
 
   beim Zugang von Tieren von einer anderen Tierhaltung im Inland:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die Zahl der Tiere,
   - 4\. das Zugangsdatum,
   - 5\.
@@ -1259,8 +1254,8 @@ Zu Tieren der Schweinegattung sind folgende Daten zu übermitteln:
 
   bei der Schlachtung von Tieren:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die Zahl der Tiere,
   - 4\. das Schlachtdatum,
   - 5\. das Datum der Meldung,
@@ -1270,7 +1265,7 @@ Zu Tieren der Schweinegattung sind folgende Daten zu übermitteln:
 
   bei der Ausfuhr von Tieren:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die Zahl der Tiere,
   - 3\. das Bestimmungsland,
   - 4\. das Ausfuhrdatum,
@@ -1284,7 +1279,7 @@ Zu Equiden sind folgende Daten zu übermitteln:
 
   bei der Geburt eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. den Namen des Tiers,
   - 3\. falls vorhanden die UELN des Muttertiers,
   - 4\. bei Embryotransfer: die UELN der genetischen Mutter,
@@ -1316,7 +1311,7 @@ Zu Equiden sind folgende Daten zu übermitteln:
 
   - 1\. das Herkunftsland des Tiers,
   - 2\. die UELN des Tiers, sofern vorhanden, gemäss Equidenpass,
-  - 3\. die TVD-Nummer der Tierhaltung,
+  - 3\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 4\. der Name des Tiers gemäss Equidenpass,
   - 5\. das Geburtsdatum des Tiers,
   - 6\. die Rasse, die Farbe und das Geschlecht des Tiers gemäss Equidenpass,
@@ -1351,8 +1346,8 @@ Zu Equiden sind folgende Daten zu übermitteln:
 
   beim Wechsel der Tierhaltung im Inland:
 
-  - 1\. die TVD-Nummer der neuen Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der neuen Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die UELN des Tiers,
   - 4\. das Datum des Tierhaltungswechsels,
   - 5\. das Datum der Meldung;
@@ -1361,7 +1356,7 @@ Zu Equiden sind folgende Daten zu übermitteln:
 
   bei der Verendung oder Euthanasierung eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die UELN des Tiers,
   - 3\. das Datum der Verendung oder Euthanasierung,
   - 4\. das Datum der Meldung;
@@ -1370,7 +1365,7 @@ Zu Equiden sind folgende Daten zu übermitteln:
 
   bei der Ausfuhr eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
   - 2\. die UELN des Tiers,
   - 3\. das Bestimmungsland,
   - 4\. das Ausfuhrdatum,
@@ -1416,11 +1411,11 @@ Zu Equiden sind folgende Daten zu übermitteln:
 
   bei der Schlachtung eines Tiers:
 
-  - 1\. die TVD-Nummer der Tierhaltung,
-  - 2\. die TVD-Nummer der Herkunftstierhaltung,
+  - 1\. die TVD- oder BUR-Nummer der Tierhaltung,
+  - 2\. die TVD- oder BUR-Nummer der Herkunftstierhaltung,
   - 3\. die UELN des Tiers,
   - 4\. das Schlachtdatum,
-  - 5\. die TVD-Nummer der Gesuchstellerin, sofern die Schlachtung bei einem Gesuch um Kontingentsanteile nach Artikel 24*b* SV geltend gemacht werden soll,
+  - 5\. die TVD- oder BUR-Nummer der Gesuchstellerin, sofern die Schlachtung bei einem Gesuch um Kontingentsanteile nach Artikel 24*b* SV geltend gemacht werden soll,
   - 6\. das Datum der Meldung;
 
 - k.
@@ -1451,13 +1446,13 @@ Zu Equiden sind folgende Daten zu übermitteln:
   - 4\. der Name der Stelle, die den Equidenpass ausgestellt hat,
   - 5\. das Datum der Meldung.
 
-[^annex1-lvlu1-lvl4-1]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^annex1-lvlu1-lvl4-1]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 
 ### 5. Daten zu Hausgeflügel
 
 Zu Hausgeflügel sind folgende Daten zu übermitteln:
 
-- a. die TVD-Nummer der Tierhaltung;
+- a. die TVD- oder BUR-Nummer der Tierhaltung;
 - b.
 
   die Nutzungsrichtung:
@@ -1479,7 +1474,7 @@ Anhang 2[^t-2]
 
 ## Gebühren
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Nov. 2022 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Bereinigt gemäss Ziff. II der V vom 1. Nov. 2023 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)) und vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 760](https://fedlex.data.admin.ch/eli/oc/2022/760)). Bereinigt gemäss Ziff. II der V vom 1. Nov. 2023 ([AS 2023 706](https://fedlex.data.admin.ch/eli/oc/2023/706)), vom 6. Nov. 2024 ([AS 2024 642](https://fedlex.data.admin.ch/eli/oc/2024/642)) und Ziff. II Abs. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 <table>
 <tr><th></th><th>Franken</th></tr>
@@ -1489,8 +1484,8 @@ Anhang 2[^t-2]
 <tr><td>1.1.2 für Tiere der Schaf- und der Ziegengattung:</td><td></td></tr>
 <tr><td>1.1.2.1 Doppelohrmarke ohne Mikrochip</td><td>1.50</td></tr>
 <tr><td>1.1.2.2 Doppelohrmarke mit Mikrochip</td><td>2.50</td></tr>
-<tr><td>1.1.2.3 Einzelohrmarke zur Nachkennzeichnung ohne Mikrochip</td><td>–.50</td></tr>
-<tr><td>1.1.2.4 Einzelohrmarke zur Nachkennzeichnung mit Mikrochip</td><td>1.50</td></tr>
+<tr><td>1.1.2.3 …</td><td></td></tr>
+<tr><td>1.1.2.4 …</td><td></td></tr>
 <tr><td>1.1.2.5 Doppelohrmarke für Kleinrassen ohne Mikrochip</td><td>3.50</td></tr>
 <tr><td>1.1.2.6 Doppelohrmarke für Kleinrassen mit Mikrochip</td><td>4.50</td></tr>
 <tr><td>1.1.3 für Tiere der Schweinegattung</td><td>–.35</td></tr>
