@@ -4,13 +4,12 @@ number: "800"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2021-09-01
-valid_until: 2025-12-31
-version_adopted: 2021-05-10
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2005-09-13
 in_force: 2006-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800"
-pdf: "https://srl.lu.ch/api/de/versions/3802/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4669/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3802/pdf_file"
 
 (GesG)
 
-vom 13.09.2005 (Stand 01.09.2021)
+vom 13.09.2005 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -149,7 +148,7 @@ beschliesst:
 
 **Lebensmittelkontrolle**
 
-<sup>1</sup> Der Regierungsrat kann den Gemeinden durch Verordnung einzelne Aufgaben und Befugnisse der Lebensmittelkontrolle, insbesondere die Wahl und die Entschädigung der Lebensmittelkontrolleurinnen und -kontrolleure sowie der Fleischkontrolleurinnen und -kontrolleure, übertragen.
+<sup>1</sup> Der Regierungsrat kann den Gemeinden durch Verordnung einzelne Aufgaben und Befugnisse der Lebensmittelkontrolle, insbesondere die Anstellung und die Entschädigung der Lebensmittelkontrolleurinnen und -kontrolleure sowie der Fleischkontrolleurinnen und -kontrolleure, übertragen.
 
 ## 3 Berufe im Gesundheitswesen
 
