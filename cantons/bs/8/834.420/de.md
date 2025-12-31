@@ -1,47 +1,28 @@
 ---
 canton: BS
 number: "834.420"
-title: Beschluss des Regierungsrates betreffend Liste der Pflegeheime für den Kanton Basel-Stadt
+title: Entfernung der Pflegeheimliste aus der Gesetzessammlung
 language: de
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-17
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/834.420"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6616/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss des Regierungsrates betreffend Liste der Pflegeheime für den Kanton Basel-Stadt
+# Entfernung der Pflegeheimliste aus der Gesetzessammlung
 
 Kranken- und Unfallversicherung / Kantonale Beiträge im Gesundheitswesen
 
-Vom 12. Dezember 1995 (Stand 1. Juli 2025)
+Vom 16. Dezember 2025 (Stand 1. Januar 2026)
 
-Der Regierungsrat des Kantons Basel-Stadt erlässt,
+Bisher wurde die Pflegeheimliste in die Gesetzessammlung aufgenommen. Nach der Rechtsprechung des Bundesverwaltungsgerichts ist die Spitalliste und damit auch die Pflegeheimliste als Rechtsinstitut sui generis zu bezeichnen und besteht aus einem Bündel von Einzelverfügungen. Zudem erfüllt die Pflegeheimliste eine Publizitäts- und Transparenzfunktion. Angesichts der Rechtnatur der Pflegeheimliste wird - analog der Spitalliste - zukünftig auf deren Aufnahme in die Gesetzessammlung verzichtet. Sie wird per 1. Januar 2026 aus der Gesetzessammlung entfernt. Das Verfahren zur Änderung der Pflegeheimliste wird dadurch vereinfacht. Der Publizitäts- und Transparenzfunktion der Pflegeheimliste wird mit deren Publikation im Kantonsblatt sowie auf der Webseite des Gesundheitsdepartements genügend Rechnung getragen.
 
-\1. gestützt auf Art. 35 Abs. 2 lit. k und Art. 39 Abs. 3 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994[^ingress-1] sowie § 6 der Verordnung über die Krankenversicherung im Kanton Basel-Stadt (KVO) vom 7. November 1995[^ingress-2], die Liste der Pflegeheime für den Kanton Basel-Stadt gemäss Anhang.
+Die Pflegeheimliste des Kantons Basel-Stadt ist auf der Webseite des Gesundheitsdepartements unter folgendem Link zu finden:
 
-\2. Die Aufnahme weiterer Pflegeheime auf die Pflegeheimliste erfolgt künftig im Einzelfall durch den Regierungsrat. Schriftliche Gesuche sind dem Gesundheitsdepartement[^ingress-3] einzureichen. Den Gesuchen sind beizulegen:
+[https://www.bs.ch/gd/bereich-gesundheitsversorgung/alters-und-langzeitpflege/angebote-der-alters-und-langzeitpflege#pflegeheime-basel-stadt](https://www.bs.ch/gd/bereich-gesundheitsversorgung/alters-und-langzeitpflege/angebote-der-alters-und-langzeitpflege#pflegeheime-basel-stadt)
 
-– Ausbildungsunterlagen der fachlich verantwortlichen Personen;
-
-– Unterlagen, aus denen Art, Zweck und Organisation des Betriebes ersichtlich sind;
-
-– Pläne und Beschriebe über den Bau und die Ausrüstung der Institution;
-
-– Stellenpläne und Qualifikationsanforderungen an das Personal;
-
-– Befugnisse und Zuständigkeiten in ärztlicher, pflegerischer, pharmazeutischer und administrativer Hinsicht;
-
-– kantonale Bewilligung zur Führung und zum Betrieb eines Alters- und Pflegeheims gemäss Alters- und Pflegeheimverordnung vom 11. Dezember 1990.
-
-Dieser Beschluss ist samt Anhang zu publizieren und den betroffenen Institutionen zuzustellen. Der Beschluss wird am 1. Januar 1996 wirksam.
-
-[^ingress-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
-[^ingress-2]: Diese Verordnung ist aufgehoben. Massgebend ist die Verordnung über die Krankenversicherung im Kanton Basel-Stadt (KVO) vom 25. 11. 2008 (SG [834.410](https://www.gesetzessammlung.bs.ch/data/834.410/de)).
-[^ingress-3]: Umbenennung «Sanitätsdepartement des Kantons Basel-Stadt» in «Gesundheitsdepartement des Kantons Basel-Stadt» durch RRB vom 21. 6. 2005 (wirksam seit 1. 7. 2005).
-
-KB 23.12.1995
+RRB 16. 12. 2025
