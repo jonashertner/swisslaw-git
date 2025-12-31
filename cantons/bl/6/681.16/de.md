@@ -4,13 +4,12 @@ number: "681.16"
 title: Verordnung über die Organisation und Durchführung der Qualifikationsverfahren der beruflichen Grundbildung
 short: Prüfungsverordnung
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-14
+version: 2026-01-01
+version_adopted: 2025-12-18
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.16"
-pdf: "https://bl.clex.ch/api/de/versions/3194/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3194/pdf_file"
 
 (Prüfungsverordnung)
 
-Vom 17.03.2009 (Stand 01.01.2022)
+Vom 17.03.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -118,7 +117,7 @@ beschliesst:
 
 <sup>1</sup> Die Prüfungskommission wählt die Chefexpertinnen und Chefexperten:
 
-- a. für jeden Beruf oder jede Berufsgruppe auf Vorschlag des entsprechenden Expertengremiums, der zuständigen Organisationen der Arbeitswelt oder des AfBB;
+- a. für jeden Beruf oder jede Berufsgruppe auf Vorschlag des entsprechenden Expertengremiums, der zuständigen Organisationen der Arbeitswelt oder der Hauptabteilung Berufsbildung der Dienststelle BMH;
 - b. für den Qualifikationsbereich «Allgemeinbildung» auf Vorschlag der zuständigen Berufsfachschule.
 
 #### § 8
@@ -131,7 +130,7 @@ beschliesst:
 
 **Anmeldung**
 
-<sup>1</sup> Die Berufsbildungsverantwortlichen haben ihre Lernenden bis spätestens 31. August des Vorjahres zu den Qualifikationsverfahren beim AfBB anzumelden.
+<sup>1</sup> Die Berufsbildungsverantwortlichen haben ihre Lernenden bis spätestens 31. August des Vorjahres zu den Qualifikationsverfahren bei der Hauptabteilung Berufsbildung der Dienststelle BMH anzumelden.
 
 <sup>2</sup> Gesuche um Verschiebung des Qualifikationsverfahrens, um Ablegung in einem andern Kanton oder um Nachteilsausgleich wegen einer Behinderung sind mit der Anmeldung schriftlich und begründet bis spätestens 31. August des Prüfungsvorjahres an die Hauptabteilung Berufsbildung der Dienststelle BMH zu richten.
 
@@ -179,7 +178,7 @@ beschliesst:
 
 <sup>1</sup> Die Qualifikationsverfahren sind nicht öffentlich.
 
-<sup>2</sup> Zutritt haben die Expertinnen und Experten, die Mitglieder der Prüfungskommission, die zuständigen Bundesbehörden, die Lehraufsicht der Hauptabteilung Berufsbildung der Dienststelle BMH und die Schulleitungen der Berufsfachschulen.
+<sup>2</sup> Zutritt haben die Expertinnen und Experten, die Mitglieder der Prüfungskommission, die zuständigen Bundesbehörden, die Abteilung Betriebliche Ausbildung der Hauptabteilung Berufsbildung der Dienststelle BMH und die Schulleitungen der Berufsfachschulen.
 
 <sup>3</sup> Die Prüfungsleitung kann weiteren interessierten Personen auf Gesuch hin den Zutritt zu den Qualifikationsverfahren bewilligen.
 
