@@ -4,13 +4,12 @@ number: "836.31"
 title: Reglement über die Mutterschaftsbeiträge
 short: MBR
 language: de
-version: 2014-01-01
-valid_until: 2025-12-31
-version_adopted: 2013-11-11
+version: 2026-01-01
+version_adopted: 2025-10-28
 adopted: 2011-05-03
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/836.31"
-pdf: "https://bdlf.fr.ch/api/de/versions/5573/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8271/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Mutterschaftsbeiträge – R
 
 (MBR)
 
-vom 03.05.2011 (Fassung in Kraft getreten am 01.01.2014)
+vom 03.05.2011 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -74,58 +73,19 @@ beschliesst:
 
 #### Art. 6
 
-**Einkommens- und Vermögensgrenzen (Art. 8 MBG)**
-
-<sup>1</sup> Die Einkommensgrenzen werden wie folgt festgesetzt:
-
-- a) 2475 Franken pro Monat für eine alleinstehende Frau;
-- b) 3300 Franken pro Monat für ein Ehepaar oder für die zusammenlebenden unverheirateten Eltern.
-
-<sup>2</sup> Diese Einkommensgrenzen erhöhen sich um 350 Franken pro Monat für jedes im gleichen Haushalt lebende unterhaltsberechtigte Kind.
-
-<sup>3</sup> Die Vermögensgrenzen werden wie folgt festgesetzt:
-
-- a) 60'000 Franken für eine alleinstehende Frau;
-- b) 80'000 Franken für ein Ehepaar oder für die zusammenlebenden unverheirateten Eltern.
+**…**
 
 #### Art. 7
 
-**Berechnung des anrechenbaren Einkommens (Art. 8 MBG)**
-
-<sup>1</sup> Als persönliches Einkommen oder als Familieneinkommen im Sinne des Gesetzes sind anzurechnen:
-
-- a) die Einkünfte in Geld und Naturalien aus unselbstständiger oder selbstständiger Erwerbstätigkeit nach Abzug der Beiträge an die Sozialversicherungen des Bundes;
-- b) die übrigen Leistungen des Arbeitgebers;
-- c) die monatlichen Familienzulagen (Kinderzulagen und Ausbildungszulagen);
-- d) die Renten und anderen wiederkehrenden Geldleistungen der AHV/IV (einschliesslich der Ergänzungsleistungen), der beruflichen Vorsorge, der Militärversicherung, der Unfallversicherung, der Arbeitslosenversicherung, der Krankenversicherung, der ausländischen Sozialversicherungen, der privaten Versicherungen sowie die Entschädigungen der Erwerbsersatzordnung (EO);
-- e) die Einkünfte aus beweglichem oder unbeweglichem Vermögen sowie ein Zehntel pro Jahr des Reinvermögens, soweit es bei alleinstehenden Frauen 33'000 Franken und bei Ehepaaren oder zusammenlebenden unverheirateten Eltern 44'000 Franken übersteigt;
-- f) die familienrechtlichen Unterhaltsbeiträge;
-- g) ein Beitrag, der dem Wert der von der Bezügerin geleisteten Hausarbeit entspricht, wenn diese mit einer anderen Person als dem Vater des Kindes zusammenlebt;
-- h) alle anderen Einnahmen mit Ausnahme der Geburts- oder Aufnahmezulagen, der Hilflosenentschädigungen der AHV oder IV und der Fürsorgeleistungen.
-
-<sup>2</sup> Vom Einkommen werden abgezogen: die Hypothekarzinsen und die Liegenschaftsunterhaltskosten (Pauschalabzug für die Kantonssteuer) bis zur Höhe des Bruttoertrages der Liegenschaft sowie die geleisteten familienrechtlichen Unterhaltsbeiträge.
-
-<sup>3</sup> Als anrechenbares Familieneinkommen gelten die Einkommen der Ehegatten oder der zusammenlebenden unverheirateten Eltern sowie jene der im gleichen Haushalt lebenden unterhaltsberechtigten Kinder. Verzichtet der Vater ohne zwingende Gründe auf eine Erwerbstätigkeit, so schätzt das Durchführungsorgan das Einkommen, das er erwerben könnte.
-
-<sup>4</sup> Die Naturaleinkünfte und die Einkünfte mitarbeitender Familienmitglieder werden nach den für die AHV geltenden Bestimmungen (Art. 11–14 AHVV) bewertet.
-
-<sup>5</sup> Der Zeitraum, der für die Berechnung des anrechenbaren Einkommens berücksichtigt wird, entspricht in der Regel der in den Artikeln 7 und 10 des Gesetzes vorgesehenen Dauer des Anspruchs auf den Mutterschaftsbeitrag.
+**…**
 
 #### Art. 8
 
-**Berechnung des anrechenbaren Vermögens (Art. 8 MBG)**
-
-<sup>1</sup> Als massgebendes persönliches oder Familienvermögen gilt das Reinvermögen der alleinstehenden Frau, dasjenige des Ehepaars oder dasjenige jedes im gleichen Haushalt lebenden unverheirateten Elternteils.
-
-<sup>2</sup> Es wird nach den Bestimmungen der Gesetzgebung über die Kantonssteuer berechnet. Das anrechenbare Reinvermögen ist dasjenige der letzten rechtskräftigen kantonalen Steuerveranlagung. Entspricht dieses Vermögen nicht mehr der Wirklichkeit, so wird das Vermögen zum Zeitpunkt, in dem der Anspruch auf den Mutterschaftsbeitrag besteht, berücksichtigt.
+**…**
 
 #### Art. 9
 
-**Höhe des Beitrags (Art. 9 Abs. 2 MBG)**
-
-<sup>1</sup> Der monatliche Mutterschaftsbeitrag wird auf den nächsten Franken und, falls er weniger als 50 Franken beträgt, auf 50 Franken aufgerundet.
-
-<sup>2</sup> Er beträgt höchstens 1650 Franken für eine alleinstehende Frau und 2200 Franken für ein Ehepaar oder für die zusammenlebenden unverheirateten Eltern.
+**…**
 
 ## 4 Gemeinsame Bestimmungen
 
@@ -152,11 +112,11 @@ beschliesst:
 
 <sup>1</sup> Jede Veränderung innerhalb einer Gemeinschaft von Personen, die in die Berechnung des Beitrags einbezogen wurden, und jede wichtige Einkommens- oder Vermögensänderung während der Dauer des Anspruchs muss sofort der kantonalen AHV-Ausgleichskasse gemeldet werden.
 
-<sup>2</sup> Die AHV-Ausgleichskasse überprüft regelmässig die Anspruchsberechtigung der Bezügerinnen eines Mutterschaftsbeitrages im Bedarfsfall; diese haben die verlangten Auskünfte zu erteilen, andernfalls wird der Beitragsanspruch aufgehoben.
+<sup>2</sup> …
 
-<sup>3</sup> Eine wichtige Einkommens- oder Vermögensänderung ist eine Änderung, die eine Erhöhung oder eine Herabsetzung des monatlichen Beitrags um mindestens 50 Franken zur Folge hat.
+<sup>3</sup> …
 
-<sup>4</sup> Der monatliche Beitrag wird erhöht, herabgesetzt oder aufgehoben ab Anfang des Monats, der demjenigen folgt, in dem die Änderung eingetreten ist.
+<sup>4</sup> …
 
 #### Art. 12
 
@@ -184,7 +144,7 @@ beschliesst:
 
 <sup>1</sup> Die Bestimmungen der Artikel 1–5 dieses Reglements gelten auch, wenn die Geburt höchstens 98 Tage vor dem Inkrafttreten des Gesetzes erfolgt ist. Die Entschädigungen werden jedoch frühestens ab deren Inkrafttreten ausgerichtet und ausschliesslich für die Anspruchsdauer, die nach den Artikeln 2 Abs. 1 und 11 Abs. 1 des Gesetzes zu diesem Zeitpunkt noch nicht abgelaufen ist.
 
-<sup>2</sup> Die Ansätze und Grenzbeträge gemäss den Artikeln 6–9 dieses Reglements kommen ab Inkrafttreten des Gesetzes zur Anwendung.
+<sup>2</sup> …
 
 #### Art. 16
 

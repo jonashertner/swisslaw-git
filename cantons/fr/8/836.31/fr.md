@@ -4,13 +4,12 @@ number: "836.31"
 title: Règlement sur les allocations de maternité
 short: RAMat
 language: fr
-version: 2014-01-01
-valid_until: 2025-12-31
-version_adopted: 2013-11-11
+version: 2026-01-01
+version_adopted: 2025-10-28
 adopted: 2011-05-03
 in_force: 2011-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/836.31"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5573/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8271/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Allocations de maternité – R
 
 (RAMat)
 
-du 03.05.2011 (version entrée en vigueur le 01.01.2014)
+du 03.05.2011 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -74,58 +73,19 @@ Arrête:
 
 #### Art. 6
 
-**Limites de revenu et de fortune (art. 8 LAMat)**
-
-<sup>1</sup> Les limites de revenu sont fixées ainsi:
-
-- a) 2475 francs par mois pour une femme seule;
-- b) 3300 francs par mois pour un couple marié ou pour les parents non mariés faisant ménage commun.
-
-<sup>2</sup> A ces limites de revenu s'ajoute un montant mensuel de 350 francs par enfant à charge vivant dans le ménage.
-
-<sup>3</sup> Les limites de fortune sont fixées ainsi:
-
-- a) 60'000 francs pour une femme seule;
-- b) 80'000 francs pour un couple marié ou pour les parents non mariés faisant ménage commun.
+**…**
 
 #### Art. 7
 
-**Calcul du revenu déterminant (art. 8 LAMat)**
-
-<sup>1</sup> Le revenu personnel ou familial déterminant au sens de la loi comprend:
-
-- a) les ressources en espèces et en nature provenant de l'exercice d'une activité lucrative dépendante ou indépendante, après déduction des cotisations aux assurances sociales de la Confédération;
-- b) les autres prestations de l'employeur;
-- c) les allocations familiales mensuelles (allocations pour enfants et allocations de formation professionnelle);
-- d) les rentes et autres prestations périodiques en espèces de l'AVS/AI (y compris les prestations complémentaires), de la prévoyance professionnelle, de l'assurance-militaire, de l'assurance-accidents, de l'assurance-chômage, de l'assurance-maladie, des assurances sociales étrangères, des assurances privées ainsi que les allocations pour perte de gain (APG);
-- e) le produit de la fortune mobilière et immobilière ainsi qu'un dixième par année de la fortune nette qui excède 33'000 francs pour les femmes seules ou 44'000 francs pour les couples mariés ou les parents non mariés faisant ménage commun;
-- f) les pensions alimentaires du droit de famille;
-- g) un montant tenant compte de la valeur du travail ménager accompli par la bénéficiaire, lorsque celle-ci fait ménage commun avec une personne autre que le père de l'enfant;
-- h) toute autre source de revenus, à l'exception des allocations familiales de naissance ou d'accueil, des allocations pour impotents de l'AVS ou de l'AI et des prestations d'assistance.
-
-<sup>2</sup> Sont déduits du revenu les intérêts hypothécaires et les frais d'entretien d'immeubles (déduction forfaitaire prévue pour l'impôt cantonal), jusqu'à concurrence du rendement brut de l'immeuble, ainsi que les pensions alimentaires versées en vertu du droit de famille.
-
-<sup>3</sup> On entend par revenu familial déterminant les revenus des conjoints ou des parents non mariés faisant ménage commun ainsi que ceux des enfants à charge vivant dans le ménage. Lorsque le père renonce, sans motifs impérieux, à exercer une activité lucrative, l'organe d'application estime le gain qu'il pourrait réaliser.
-
-<sup>4</sup> Les revenus en nature et ceux des membres de la famille travaillant avec l'exploitant sont évalués selon les prescriptions valables pour l'AVS (art. 11 à 14 RAVS).
-
-<sup>5</sup> La période prise en compte pour le calcul du revenu déterminant correspond en règle générale à celle de la durée du droit à l'allocation de maternité prévue aux articles 7 et 10 de la loi.
+**…**
 
 #### Art. 8
 
-**Calcul de la fortune déterminante (art. 8 LAMat)**
-
-<sup>1</sup> On entend par fortune personnelle ou familiale déterminante la fortune nette de la femme seule, celle du couple marié ou celle de chacun des deux parents non mariés faisant ménage commun.
-
-<sup>2</sup> La fortune déterminante est évaluée selon les règles de la législation sur l'impôt cantonal. Est déterminante la fortune nette selon la dernière taxation cantonale passée en force. Si cette fortune ne correspond plus à la réalité, il sera tenu compte de l'état de la fortune au moment de l'existence du droit à l'allocation de maternité.
+**…**
 
 #### Art. 9
 
-**Montant de l'allocation (art. 9 al. 2 LAMat)**
-
-<sup>1</sup> Le montant mensuel de l'allocation de maternité est arrondi au franc supérieur. Il est arrondi à 50 francs s'il est inférieur à cette somme.
-
-<sup>2</sup> Il ne peut dépasser 1650 francs pour une femme seule et 2200 francs pour un couple marié ou pour les parents non mariés faisant ménage commun.
+**…**
 
 ## 4 Dispositions communes
 
@@ -152,11 +112,11 @@ Arrête:
 
 <sup>1</sup> Tout changement survenant au sein d'une communauté de personnes ouvrant le droit à une prestation ou toute modification importante du revenu ou de la fortune se produisant pendant la période du droit à l'allocation de maternité ou d'adoption doit être communiquée immédiatement à la Caisse cantonale de compensation AVS.
 
-<sup>2</sup> La Caisse vérifie périodiquement la qualité d'ayant droit des bénéficiaires de l'allocation de maternité en cas de besoin; ceux-ci sont tenus de fournir les renseignements demandés, faute de quoi le droit à l'allocation est supprimé.
+<sup>2</sup> …
 
-<sup>3</sup> Est considérée comme importante toute modification du revenu ou de la fortune qui entraîne une augmentation ou une diminution d'au moins 50 francs du montant mensuel de l'allocation.
+<sup>3</sup> …
 
-<sup>4</sup> L'allocation mensuelle est augmentée, réduite ou supprimée dès le début du mois qui suit celui au cours duquel le changement est survenu.
+<sup>4</sup> …
 
 #### Art. 12
 
@@ -184,7 +144,7 @@ Arrête:
 
 <sup>1</sup> Les dispositions des articles 1 à 5 du présent règlement s'appliquent également si l'accouchement a eu lieu dans les nonante-huit jours précédant l'entrée en vigueur de la loi. Les prestations sont toutefois octroyées au plus tôt à l'entrée en vigueur de celle-ci et uniquement pour la période non encore écoulée du droit aux allocations prévu aux articles 2 al. 1 et 11 al. 1 de la loi.
 
-<sup>2</sup> Les taux et montants limites fixés dans les articles 6 à 9 du présent règlement s'appliquent dès l'entrée en vigueur de la loi.
+<sup>2</sup> …
 
 #### Art. 16
 
