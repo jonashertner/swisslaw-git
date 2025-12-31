@@ -4,13 +4,13 @@ number: "411.011"
 title: Standeskommissionsbeschluss zum Schulgesetz
 short: StKB SchG
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-04
+version: 2026-01-01
+valid_until: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2373/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2373/pdf_file"
 
 (StKB SchG)
 
-vom 16.08.2005 (Stand 01.08.2025)
+vom 16.08.2005 (Stand 01.01.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -153,14 +153,14 @@ beschliesst:
 
 **Lohnfortzahlung bei Unfall / Krankheit**
 
-<sup>1</sup> Bei Unfall und Krankheit hat die arbeitsunfähige Lehrperson Anspruch auf das volle Gehalt während
+<sup>1</sup> Bei Unfall und Krankheit hat die arbeitsunfähige Lehrperson Anspruch auf das volle Gehalt während sechs Monaten.
 
-- a) 4 Wochen — im 1. und 2. Dienstjahr
-- b) 8 Wochen — ab 3. Dienstjahr
-- c) 12 Wochen — ab 5. Dienstjahr
-- d) 16 Wochen — ab 11. Dienstjahr
-- e) 20 Wochen — ab 15. Dienstjahr
-- f) 24 Wochen — ab 20. Dienstjahr.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
+- f) …
 
 <sup>2</sup> Allfällige Taggelder oder Renten sind vom Gehalt abzuziehen.
 
@@ -172,7 +172,7 @@ beschliesst:
 
 <sup>2</sup> Bei einer Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die Zeit, während welcher die Mutterschaftsversicherung zusätzliche Entschädigungen ausrichtet.
 
-<sup>3</sup> Nach fünf Dienstjahren hat die Lehrerin Anspruch auf Verlängerung des Mutterschaftsurlaubes um drei Monate unbezahlten Urlaub, sofern die schulischen Verhältnisse dies zulassen und das Arbeitsverhältnis fortgesetzt wird.
+<sup>3</sup> …
 
 #### Art. 14a
 
@@ -218,7 +218,7 @@ beschliesst:
 
 **Lohnfortzahlung im Todesfall**
 
-<sup>1</sup> Im Todesfall von Lehrpersonen besteht während dem Sterbemonat Anspruch auf die volle Besoldung.
+<sup>1</sup> Im Todesfall von Lehrpersonen besteht für den Sterbemonat und zwei weitere Monate Anspruch auf die volle Besoldung.
 
 <sup>2</sup> Sind minderjährige Kinder oder andere unterstützungsbedürftige Personen vorhanden, wird für weitere zwei Monate die Rente der Pensionskasse auf die Höhe des bisherigen Lohnes ergänzt.
 
