@@ -4,13 +4,12 @@ number: "362.12"
 title: Verordnung über die Prämienverbilligung in der Krankenpflegeversicherung
 short: "Prämienverbilligungsverordnung, PVV"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2002-11-12
 in_force: 2003-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/362.12"
-pdf: "https://bl.clex.ch/api/de/versions/4093/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4361/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4093/pdf_file"
 
 (Prämienverbilligungsverordnung, PVV)
 
-Vom 12.11.2002 (Stand 01.01.2025)
+Vom 12.11.2002 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -77,9 +76,9 @@ beschliesst:
 
 <sup>1</sup> Die Richtprämie beträgt:
 
-- a. CHF 364.– im Monat für Erwachsene;
-- b. CHF 307.– im Monat für junge Erwachsene;
-- c. CHF 157.– im Monat für Kinder.
+- a. CHF 383.– im Monat für Erwachsene;
+- b. CHF 318.– im Monat für junge Erwachsene;
+- c. CHF 164.– im Monat für Kinder.
 
 <sup>1<sup>bis</sup></sup> …
 
