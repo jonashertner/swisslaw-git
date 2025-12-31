@@ -4,13 +4,12 @@ number: "811.111"
 title: Ordonnance sur les activités professionnelles dans le secteur sanitaire
 short: "Ordonnance sur la santé publique, OSP"
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-22
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2956/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3268/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2956/pdf_file"
 
 (Ordonnance sur la santé publique, OSP)
 
-du 24.10.2001 (état au 01.01.2024)
+du 24.10.2001 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -125,7 +124,7 @@ arrête:
 - d assure une dotation suffisante en personnel qualifié,
 - e a conclu un contrat d’assurance responsabilité civile couvrant ses risques d’exploitation.
 
-<sup>2</sup> L'autorisation supplémentaire au sens de l'article 58, alinéa 2, lettre f requise pour effectuer des prélèvements de sang par ponction capillaire et des vaccinations est octroyée si la personne qui en fait la demande peut prouver que la pharmacie est dotée de locaux fermés et d'un équipement d'urgence.
+<sup>2</sup> Les autorisations supplémentaires requises selon l'article 58, alinéa 2, lettres f et g pour effectuer des prélèvements de sang par ponction capillaire et pour administrer des vaccins sont accordées si la personne qui en fait la demande peut prouver que la pharmacie est dotée de locaux fermés et d'un équipement d'urgence.
 
 #### Art. 6a
 
@@ -149,9 +148,9 @@ arrête:
 
 <sup>1</sup> La personne titulaire de l’autorisation d’exploiter veille à ce que l’entreprise soit exploitée conformément aux prescriptions en vigueur et que les prestations soient fournies exclusivement par des personnes possédant les qualifications nécessaires et, le cas échéant, l’autorisation d’exercer requise.
 
-<sup>2</sup> La personne responsable d’une entreprise visée à l’article 5, lettres a à c, en assume personnellement la direction et, en règle générale, est présente pendant les heures d’ouverture.
+<sup>2</sup> La personne responsable d’une entreprise visée à l’article 5, alinéa 1, lettres a, b et e, en assume personnellement la direction et, en règle générale, est présente pendant les heures d’ouverture.
 
-<sup>3</sup> Figurent sur les inscriptions commerciales, les imprimés et les annonces d’une entreprise au sens de l’article 5, lettres a à c
+<sup>3</sup> Figurent sur les inscriptions commerciales, les imprimés et les annonces d’une entreprise au sens de l’article 5, alinéa 1, lettres a, b et e
 
 - a le type d’entreprise pour lequel l’autorisation d’exploiter a été délivrée,
 - b le nom de la personne responsable.
@@ -207,22 +206,33 @@ arrête:
 
 - a conduire les inspections des installations et des locaux;
 - b régler à titre subsidiaire le service d'urgence ambulatoire et rendre une décision en cas de litige concernant l'obligation d'y participer selon les articles 30a à 30d LSP;
-- c ordonner les mesures administratives prévues aux articles 17, 17a, 17b et 19a LSP;
+- c ordonner les mesures de surveillance et les inspections prévues aux articles 17, 17a, 17b et 19a LSP;
 - d recevoir les communications et tenir le registre requis à l'article 20 LSP;
 - e recueillir les informations spécifiées à l'article 49a LSP;
-- f accorder des autorisations selon l'article 25, alinéa 3 LSP.
+- f accorder des autorisations selon l'article 25, alinéa 3 LSP;
+- g accorder des autorisations selon l'article 32, alinéa 1 LSP.
 
 <sup>4</sup> Il a compétence pour délivrer les autorisations régies par le droit fédéral
 
 - a pour la vente par correspondance de médicaments (art. 27, al. 4 LPTh),
 - b pour le stockage du sang ou des produits sanguins labiles (art. 34, al. 4 LPTh),
-- c pour la fabrication de médicaments selon une formule magistrale, selon une formule officinale, selon une formule hospitalière ou selon une propre formule (art. 6 de l'ordonnance fédérale du 17 octobre 2001 sur les autorisations dans le domaine des médicaments [OAMéd][^14a-1]),
-- d pour la remise de la «pilule du lendemain» par des conseillères et des conseillers des services de planification familiale, dans le cadre de leur activité (art. 25c de l'ordonnance fédérale du 17 octobre 2001 sur les médicaments [OMéd][^14a-2]).
+- c pour la fabrication de médicaments d'après une formule magistrale, une formule officinale, une formule hospitalière ou une formule propre à l'établissement (art. 8 de l'ordonnance fédérale du 14 novembre 2018 sur les autorisations dans le domaine des médicaments [OAMéd][^14a-1]),
+- d pour la remise de la « pilule du lendemain » par des conseillères et des conseillers des services de planification familiale dans le cadre de leur activité (art. 50 de l'ordonnance fédérale du 21 septembre 2018 sur les médicaments [OMéd][^14a-2]).
 
-<sup>5</sup> Il est compétent pour délier du secret professionnel, en vertu de l'article 8, alinéa 2 et de l'article 27, alinéa 2 LSP, les professionnelles et les professionnels de la santé relevant de la présente ordonnance.
+<sup>5</sup> Il a compétence pour délier du secret professionnel, en vertu de l'article 8, alinéa 2 et de l'article 27, alinéa 2 LSP, les professionnelles et les professionnels de la santé relevant de la présente ordonnance.
+
+<sup>6</sup> Il a compétence pour recevoir et examiner les déclarations concernant
+
+- a les médicaments fabriqués d'après une formule propre à l'établissement selon l'article 9, alinéa 2, lettre c LPTh;
+- b les actes occasionnels de commerce de gros de médicaments selon l'article 20, alinéa 4 OAMéd;
+- c les importations selon l'article 49, alinéas 2 et 3 OAMéd.
+
+<sup>7</sup> Il est le service responsable de la surveillance selon l'article 76, alinéa 3 de l'ordonnance fédérale du 1<sup>er</sup> juillet 2020 sur les dispositifs médicaux (ODim)[^14a-3] et selon l'article 69, alinéa 3 de l'ordonnance fédérale du 4 mai 2022 sur les dispositifs médicaux de diagnostic in vitro (ODiv)[^14a-4].
 
 [^14a-1]: RS [812.212.1](https://db.clex.ch/link/Bund/812.212.1/fr)
 [^14a-2]: RS [812.212.21](https://db.clex.ch/link/Bund/812.212.21/fr)
+[^14a-3]: RS [812.213](https://db.clex.ch/link/Bund/812.213/fr)
+[^14a-4]: RS [812.219](https://db.clex.ch/link/Bund/812.219/fr)
 
 ## 2 Dispositions spéciales
 
@@ -282,14 +292,22 @@ arrête:
 
 <sup>1</sup> Les pharmaciennes et les pharmaciens sont habilités, conformément aux prescriptions fédérales et cantonales, à
 
-- a fabriquer et remettre des médicaments;
-- b exploiter une pharmacie.
+- a fabriquer et remettre des produits thérapeutiques;
+- b exploiter une pharmacie;
+- c fournir d'autres prestations de promotion et de maintien de la santé ainsi que de prévention des maladies, à condition de pouvoir attester l'acquisition des compétences requises à cet effet dans le cadre de leur formation universitaire, postgrade ou continue.
 
-<sup>2</sup> Les pharmaciennes et les pharmaciens disposant de l'autorisation de l'ODS sont également habilités à effectuer des prélèvements de sang par ponction capillaire et à vacciner des personnes en bonne santé dès 16 ans sans prescription médicale contre les maladies suivantes:
+<sup>2</sup> Les pharmaciennes et les pharmaciens disposant des autorisations en la matière de l'ODS sont également habilités à effectuer des prélèvements de sang par ponction capillaire et à vacciner sans prescription médicale contre les maladies suivantes des personnes âgées d'au moins 16 ans n'étant pas exposées à un risque pour la santé spécifique à la vaccination, en particulier en cas de grossesse, de déficit immunitaire ou de maladie auto-immune:
 
-- a grippe,
-- b encéphalite à tiques (FSME),
-- c hépatite A, hépatite B, hépatite A et B à condition que la primovaccination ait été effectuée par une ou un médecin (uniquement rappels).
+- a grippe;
+- b encéphalite à tiques (FSME);
+- c hépatite A, hépatite B ainsi que hépatite A et B;
+- d diphtérie, tétanos, coqueluche et poliomyélite;
+- e COVID-19;
+- f autres maladies selon le Plan de vaccination suisse.
+
+<sup>3</sup> D'autres vaccinations peuvent être autorisées dans le cas particulier et pour une durée limitée, sur décision de l'ODS, dans le cadre de situations d'urgence cantonales ou de programmes de prévention sanitaire cantonaux.
+
+<sup>4</sup> Les pharmaciennes et les pharmaciens peuvent déléguer l'accomplissement des prestations visées à l'alinéa 2 à des personnes placées sous leur surveillance et leur responsabilité.
 
 #### Art. 20
 
@@ -682,18 +700,34 @@ arrête:
 
 <sup>1</sup> Les pharmacies publiques doivent disposer des produits thérapeutiques courants et notamment des produits thérapeutiques nécessaires en cas d’urgence.
 
-<sup>2</sup> Les pharmacies publiques sont en particulier autorisées
+<sup>2</sup> Elles sont en particulier autorisées
 
 - a à conserver des médicaments en réserve et à les remettre aux patientes et aux patients ou aux personnes habilitées à les utiliser;
 - b …
-- c à fabriquer des médicaments d'après une formule magistrale avec l'autorisation de l'ODS et à les remettre;
+- c à fabriquer, avec l'autorisation de l'ODS, des médicaments d'après une formule magistrale et à les remettre;
 - d à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule officinale et à les remettre à leur clientèle;
-- e à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments classés dans les listes de substances C, D et E selon une formule propre à l'établissement et à les remettre à leur clientèle;
-- f à effectuer, avec l'autorisation de l'ODS, des prélèvements de sang par ponction capillaire et à administrer en pharmacie les vaccins admis aux personnes en bonne santé dès 16 ans.
+- e à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule propre à l'établissement selon l'article 9, alinéa 2, lettre c LPTh et à les remettre à leur clientèle;
+- f à effectuer, avec l'autorisation de l'ODS, des prélèvements de sang par ponction capillaire;
+- g à administrer dans leurs locaux les vaccins pour lesquels les pharmaciennes et les pharmaciens sont habilités à des personnes âgées d'au moins 16 ans n'étant pas exposées à un risque pour la santé spécifique à la vaccination, en particulier en cas de grossesse, de déficit immunitaire ou de maladie auto-immune;
+- h à fournir d'autres prestations de promotion et de maintien de la santé ainsi que de prévention des maladies, à condition de pouvoir attester l'acquisition des compétences requises à cet effet dans le cadre de la formation universitaire, postgrade ou continue.
 
-<sup>3</sup> Les médicaments fabriqués conformément à l'alinéa 2, lettre e doivent être annoncés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
+<sup>3</sup> Les médicaments fabriqués par lot conformément à l'alinéa 2, lettre e doivent être déclarés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
 
 <sup>4</sup> Les pharmacies publiques peuvent être autorisées à ou chargées de fournir des prestations de prévention sanitaire par l'ODS.
+
+#### Art. 58a
+
+**Déclaration selon l’article 58, alinéa 3**
+
+<sup>1</sup> La déclaration prévue à l'article 58, alinéa 3 est effectuée
+
+- a au moyen de l'application en ligne mise à disposition par l'ODS,
+- b avant la première mise sur le marché du nouveau médicament,
+- c puis tous les dix ans.
+
+<sup>2</sup> Une déclaration incomplète ou incorrecte peut être renvoyée pour correction.
+
+<sup>3</sup> L'examen de la déclaration donne lieu à émolument.
 
 #### Art. 59
 
@@ -701,20 +735,25 @@ arrête:
 
 <sup>1</sup> Les pharmacies d'hôpitaux servent à l'approvisionnement pharmaceutique des hôpitaux.
 
-<sup>2</sup> Elles sont notamment autorisées
+<sup>2</sup> Elles sont en particulier autorisées
 
 - a à conserver des médicaments en réserve et à les remettre aux patientes et aux patients de l'établissement;
-- b à fabriquer des médicaments d'après une formule magistrale avec l'autorisation de l'ODS et à les remettre aux patientes et aux patients de l'établissement;
-- c à fabriquer en petite quantité des médicaments d'après une formule officinale avec l'autorisation de l'ODS et à les remettre aux patientes et aux patients de l'établissement;
-- d à fabriquer en petite quantité des médicaments selon une formule propre à l'établissement avec l'autorisation de l'ODS et à les remettre aux patientes et aux patients de l'établissement.
+- b à fabriquer, avec l'autorisation de l'ODS, des médicaments d'après une formule magistrale et à les remettre aux patientes et aux patients de l'établissement;
+- c à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule officinale et à les remettre aux patientes et aux patients de l'établissement;
+- d à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule propre et à les remettre aux patientes et aux patients de l'établissement;
+- e à fabriquer, avec l'autorisation de l'ODS, des médicaments selon l'article 9, alinéa 2, lettre c<sup>bis</sup> LPTh et à les remettre aux patientes et aux patients de l'établissement.
 
-<sup>3</sup> Les médicaments fabriqués conformément à l'alinéa 2, lettre d doivent être annoncés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
+<sup>3</sup> …
 
 #### Art. 60
 
 **Pharmacies privées**
 
 <sup>1</sup> Les pharmacies privées permettent à la personne titulaire de l'autorisation selon l'article 32 LSP[^60-1] d'assurer l'approvisionnement pharmaceutique de ses patientes et de ses patients.
+
+<sup>2</sup> Les établissements médico-sociaux (EMS) et les établissements d'exécution judiciaire qui tiennent une pharmacie privée en vertu de l'article 32, alinéa 1, lettre b LSP peuvent, avec l'autorisation de l'ODS, charger une entreprise habilitée pour ce faire à fabriquer des médicaments d'après une formule magistrale.
+
+<sup>3</sup> L'autorisation est uniquement accordée à l'établissement si la pharmacie privée est placée sous la responsabilité d'une pharmacienne ou d'un pharmacien titulaire d'une autorisation d'exercer.
 
 [^60-1]: RSB 811.01
 
@@ -726,10 +765,35 @@ arrête:
 
 - a à conserver en réserve des médicaments figurant dans les catégories de remise D et E et à les remettre au public;
 - b à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule officinale et à les remettre à leur clientèle;
-- c à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments classés dans les listes de substances D et E selon une formule propre à l'établissement et à les remettre à leur clientèle;
+- c à fabriquer en petite quantité, avec l'autorisation de l'ODS, des médicaments d'après une formule propre à l'établissement selon l'article 9, alinéa 2, lettre c LPTh et à les remettre à leur clientèle;
 - d …
+- e à remettre des dispositifs médicaux, y compris de diagnostic in vitro, destinés au public.
 
-<sup>2</sup> Les médicaments fabriqués conformément à l'alinéa 1, lettre c doivent être annoncés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
+<sup>2</sup> Les médicaments fabriqués par lot conformément à l'alinéa 1, lettre c doivent être déclarés à l'ODS avec l'indication de leur désignation, de leur composition et de leur étiquetage.
+
+#### Art. 61a
+
+**Déclaration selon l'article 61, alinéa 2**
+
+<sup>1</sup> La déclaration prévue à l'article 61, alinéa 2 est effectuée
+
+- a au moyen de l'appplication en ligne mise à disposition par l'ODS,
+- b avant la première mise sur le marché du nouveau médicament,
+- c puis tous les dix ans.
+
+<sup>2</sup> Une déclaration incomplète ou incorrecte peut être renvoyée pour correction.
+
+<sup>3</sup> L'examen de la déclaration donne lieu à émolument.
+
+#### Art. 61b
+
+**Actes occasionnels de commerce de gros de médicaments**
+
+<sup>1</sup> Les actes occasionnels de commerce de gros selon l'article 20, alinéa 2 OAMéd doivent être déclarés au préalable à l'ODS.
+
+<sup>2</sup> La déclaration est effectuée au moyen du formulaire mis à disposition par l'ODS.
+
+<sup>3</sup> Doivent en particulier être déclarés le lancement et la cessation de l'activité de commerce de gros ainsi que les noms des clientes et clients et les changements en la matière.
 
 ### 3.1.3
 
@@ -747,7 +811,10 @@ arrête:
 
 <sup>2</sup> …
 
-<sup>3</sup> La pharmacie publique doit être directement accessible au public, également lors du service d'urgence.
+<sup>3</sup> La pharmacie publique doit
+
+- a garantir des horaires d'ouverture réguliers, conformes aux usages locaux, pour assurer l'approvisionnement en médicaments;
+- b offrir un accès direct au public, y compris lorsqu'elle assume le service d'urgence.
 
 <sup>4</sup> …
 
@@ -767,11 +834,13 @@ arrête:
 
 #### Art. 65
 
-<sup>1</sup> Avant de délivrer l'autorisation d'exploiter, l'ODS conduit une inspection pour vérifier si les conditions d'octroi sont réunies. Les inspections sont répétées périodiquement (inspections ordinaires).
+<sup>1</sup> Avant de délivrer l'autorisation d'exploiter, l'ODS conduit en règle générale une inspection pour vérifier si les conditions d'octroi sont réunies. Les inspections sont répétées périodiquement.
 
-<sup>2</sup> L'ODS effectue des inspections supplémentaires en cas de changement de direction et en cas de faits contraires à la présente ordonnance ou de soupçon. Les inspections peuvent intervenir en tout temps et aussi souvent que nécessaire (inspections extraordinaires).
+<sup>1a</sup> L'ODS peut effectuer des inspections supplémentaires.
 
-<sup>3</sup> L'ODS peut charger les pharmaciennes et les pharmaciens, les droguistes ou les médecins titulaires d'un diplôme fédéral d'effectuer des inspections. La DSSI nomme les inspectrices et les inspecteurs sur proposition de l'ODS et fixe le montant des indemnités qui leur sont versées.
+<sup>2</sup> …
+
+<sup>3</sup> L'ODS peut charger des professionnelles et des professionnels de la santé ayant les aptitudes requises d'effectuer des inspections. La DSSI nomme les inspectrices et les inspecteurs sur proposition de l'ODS et fixe le montant des indemnités qui leur sont versées.
 
 <sup>4</sup> L'ODS peut prélever gratuitement, dans le cadre de la surveillance du marché, les échantillons nécessaires pour contrôler la sécurité des produits thérapeutiques, exiger les renseignements et les documents indispensables et demander tout autre soutien.
 
@@ -785,7 +854,7 @@ arrête:
 
 - a …
 - b les conseils donnés au public ou aux membres du corps médical sur des médicaments,
-- c la remise au public de médicaments des catégories A, B et C.
+- c la remise au public de médicaments des catégories A et B.
 - d–f …
 
 <sup>2</sup> La remise de médicaments de la catégorie D peut être effectuée uniquement par la ou par le droguiste ou sous sa surveillance.
@@ -816,12 +885,7 @@ arrête:
 
 **Vérification**
 
-<sup>1</sup> Avant d'exécuter une ordonnance, la pharmacienne ou le pharmacien doit vérifier qu'elle
-
-- a a été délivrée par une professionnelle ou par un professionnel de la santé titulaire de l'autorisation requise et porte son nom et l'adresse de son cabinet;
-- b indique la désignation, la teneur en substances actives et la forme galénique du médicament, la taille et la quantité des emballages à remettre ainsi que la posologie;
-- c est un original daté et signé ou porte une signature électronique qualifiée au sens de l'article 14, alinéa 2<sup>bis</sup> du Code des obligations (CO)[^69-1];
-- d porte le nom et l'année de naissance de la patiente ou du patient.
+<sup>1</sup> Avant d'exécuter une ordonnance, la pharmacienne ou le pharmacien doit vérifier qu'elle contient les données exigées à l'article 51, alinéa 1 OMéd.
 
 <sup>2</sup> Si la pharmacienne ou le pharmacien constate ou soupçonne des risques d'interactions avec d'autres médicaments utilisés par la patiente ou par le patient ou l'existence d'une erreur de la part de la personne ayant délivré l'ordonnance, elle ou il doit prendre contact sans tarder avec cette dernière avant d'exécuter la prescription.
 
@@ -830,8 +894,6 @@ arrête:
 <sup>4</sup> Si la pharmacienne ou le pharmacien suppose que l'ordonnance est fausse ou a été falsifiée, elle ou il doit contacter la professionnelle ou le professionnel de la santé concerné avant d'exécuter la prescription. Si tout contact s'avère impossible, elle ou il dispense la quantité minimale du médicament, en cas de falsification présumée, et informe la professionnelle ou le professionnel a posteriori. Les ordonnances dont l'authenticité est mise en doute ne doivent pas être exécutées. Elles doivent être conservées et envoyées à l'ODS.
 
 <sup>5</sup> La pharmacienne ou le pharmacien peut vérifier l'identité de la patiente ou du patient qui se fait remettre les substances contrôlées.
-
-[^69-1]: RS [220](https://db.clex.ch/link/Bund/220/fr)
 
 #### Art. 70
 
@@ -866,7 +928,7 @@ arrête:
 <sup>1</sup> La pharmacienne ou le pharmacien consigne de façon claire et suivie toute remise
 
 - a de médicaments soumis à ordonnance,
-- b de médicaments fabriqués selon une formule magistrale,
+- b de médicaments fabriqués d'après une formule magistrale,
 - c de médicaments délivrés autrement que dans leur emballage d'origine (sine confectione),
 - d d'autres produits thérapeutiques spécifiés par l'ODS particulièrement susceptibles d'être utilisés à des fins abusives ou qui nécessitent, pour des raisons différentes, d'être traités avec une grande prudence.
 
@@ -877,7 +939,7 @@ arrête:
 - c la date de la remise et, le cas échéant, le numéro d'identification,
 - d le mode d'emploi prescrit par la personne ayant délivré l'ordonnance.
 
-<sup>3</sup> Ces notes peuvent être classées chronologiquement ou par patiente ou par patient. Elles doivent être conservées dix ans au moins.
+<sup>3</sup> Ces notes peuvent être classées chronologiquement ou par patiente ou patient. Elles doivent être conservées 20 ans au moins.
 
 <sup>4</sup> La remise de stupéfiants doit en outre être consignée selon les dispositions cantonales particulières en vigueur.
 
@@ -891,43 +953,73 @@ arrête:
 
 <sup>3</sup> …
 
+<sup>4</sup> Une remise fractionnée est possible exceptionnellement. L'ODS définit les conditions et les modalités dans une notice.
+
 ### 3.2 Autres professionnelles et professionnels de la santé
 
 ### 3.2.1
+
+#### Art. 74a
+
+**Chiropraticiennes et chiropraticiens**
+
+<sup>1</sup> Les dispositions réglant les ordonnances médicales s'appliquent par analogie aux ordonnances délivrées par des chiropraticiennes ou des chiropraticiens.
+
+#### Art. 74b
+
+**Importation de médicaments prêts à l’emploi non autorisés en Suisse par des professionnelles ou des professionnels de la santé**
+
+<sup>1</sup> Les importations visées à l'article 49, alinéas 2 et 3 OAMéd doivent être déclarées au préalable à l'ODS.
+
+<sup>2</sup> La déclaration est effectuée au moyen du formulaire mis à disposition par l'ODS.
 
 #### Art. 75
 
 **Prescription, remise et utilisation de produits thérapeutiques**
 
-<sup>1</sup> La prescription, la remise et l'utilisation de produits thérapeutiques sont régies par les articles 23 à 26 et l'article 48 LPTh, les articles 23 à 27b OMéd, ainsi que les articles 16 à 20 de l'ordonnance du 17 octobre 2001 sur les dispositifs médicaux (ODim)[^75-1].
+<sup>1</sup> La prescription, la remise et l'utilisation de médicaments sont régies par les articles 23 à 26 LPTh ainsi que par les articles 41 à 44, 50, 52 et 53 OMéd.
 
-<sup>2</sup> Sont autorisés à utiliser des médicaments non soumis à ordonnance et soumis à ordonnance (art. 27a, al. 1 et 2 OMéd) les professionnelles et les professionnels de la santé ci-après:
+<sup>1a</sup> Les opérations en rapport avec des dispositifs médicaux, y compris de diagnostic in vitro, sont régies par les articles 48 et 49 LPTh ainsi que par les articles 68 et 70 à 73 ODim et par les articles 61, 63 et 64 ODiv.
+
+<sup>2</sup> Sont autorisés à utiliser des médicaments (art. 52, al. 1 et 2 OMéd) les professionnelles et les professionnels de la santé ci-après:
 
 - a médecins,
 - b médecins-dentistes,
 - c chiropraticiennes et chiropraticiens,
 - d sages-femmes,
 - e hygiénistes dentaires,
-- f ambulancières et ambulanciers.
+- f ambulancières et ambulanciers,
+- g optométristes.
 
 <sup>2a</sup> Les pharmaciennes et les pharmaciens sont habilités à utiliser les médicaments visés à l'article 19, alinéa 2.
 
-<sup>3</sup> L'ODS précise les médicaments soumis à ordonnance que les personnes visées à l'alinéa 2, lettres c à f peuvent utiliser (art. 27a, al. 3 OMéd).
+<sup>3</sup> L'ODS précise les médicaments soumis à ordonnance que les personnes visées à l'alinéa 2, lettres c à g peuvent administrer (art. 52, al. 3 OMéd).
 
 <sup>4</sup> Sont autorisés à utiliser des médicaments non soumis à ordonnance habituellement employés dans le cadre de leur activité les professionnelles et les professionnels de la santé ci-après:
 
 - a infirmières et infirmiers,
 - b pédicures-podologues,
-- c naturopathes,
-- d homéopathes,
-- e thérapeutes en médecine traditionnelle chinoise (thérapeutes MTC).
+- c–e …
+- f naturopathes.
 
-<sup>5</sup> Les personnes autorisées à tenir une pharmacie privée au sens de l'article 32 LSP[^75-2] doivent signaler à leurs patientes et à leurs patients que les médicaments peuvent leur être remis par leur pharmacie privée ou par une pharmacie publique de leur choix.
+<sup>5</sup> Les personnes autorisées à tenir une pharmacie privée en vertu de l'article 32 LSP doivent
+
+- a signaler à leurs patientes et à leurs patients que les médicaments peuvent leur être remis par leur pharmacie privée ou par une pharmacie publique de leur choix;
+- b leur délivrer une ordonnance, à moins que la patiente ou le patient y renonce.
 
 <sup>6</sup> En règle générale, peut être remis une seule fois en début de traitement au sens de l'article 31, alinéa 2 LSP, l'emballage original le plus petit d'un médicament.
 
-[^75-1]: RS [812.213](https://db.clex.ch/link/Bund/812.213/fr)
-[^75-2]: RSB 811.01
+#### Art. 75a
+
+**Retraitement de dispositifs médicaux**
+
+<sup>1</sup> Les professionnelles et les professionnels de la santé qui retraitent des dispositifs médicaux selon l'article 72 ODim doivent déclarer spontanément leur activité.
+
+<sup>2</sup> La déclaration est effectuée au moyen du formulaire mis à disposition par l'ODS.
+
+<sup>3</sup> L'ODS fixe le délai dans lequel la déclaration doit être remise.
+
+<sup>4</sup> Il peut charger des inspectrices et des inspecteurs nommés selon l'article 65 d'examiner les déclarations.
 
 ### 3.2.2
 

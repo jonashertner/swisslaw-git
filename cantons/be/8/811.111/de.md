@@ -4,13 +4,12 @@ number: "811.111"
 title: Verordnung über die beruflichen Tätigkeiten im Gesundheitswesen
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-22
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2956/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3268/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2956/pdf_file"
 
 (Gesundheitsverordnung, GesV)
 
-vom 24.10.2001 (Stand 01.01.2024)
+vom 24.10.2001 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -125,7 +124,7 @@ beschliesst:
 - d genügend Personal mit hinreichender fachlicher Ausbildung eingesetzt wird,
 - e das spezifische Betriebsrisiko durch eine Betriebshaftpflichtversicherung hinreichend abgedeckt ist.
 
-<sup>2</sup> Die zusätzliche Bewilligung nach Artikel 58 Absatz 2 Buchstabe f für die Vornahme von kapillaren Blutentnahmen und Impfungen wird erteilt, wenn die Gesuchstellerin oder der Gesuchsteller nachweisen kann, dass abgeschlossene Räumlichkeiten sowie eine Ausrüstung für Notfallsituationen vorhanden sind.
+<sup>2</sup> Die zusätzlichen Bewilligungen nach Artikel 58 Absatz 2 Buchstaben f und g für die Vornahme von kapillaren Blutentnahmen sowie Impfungen werden erteilt, wenn die Gesuchstellerin oder der Gesuchsteller nachweisen kann, dass abgeschlossene Räumlichkeiten sowie eine Ausrüstung für Notfallsituationen vorhanden sind.
 
 #### Art. 6a
 
@@ -149,9 +148,9 @@ beschliesst:
 
 <sup>1</sup> Die Inhaberin oder der Inhaber einer Betriebsbewilligung sorgt dafür, dass der Betrieb vorschriftsgemäss geführt wird und die Dienstleistungen ausschliesslich durch Personen angeboten werden, die über die dafür erforderliche fachliche Qualifikation sowie über die gegebenenfalls erforderliche Berufsausübungsbewilligung verfügen.
 
-<sup>2</sup> Die Betriebsleiterin oder der Betriebsleiter eines Betriebs nach Artikel 5 Buchstaben a bis c muss den Betrieb persönlich führen und während der Öffnungszeiten in der Regel anwesend sein.
+<sup>2</sup> Die Betriebsleiterin oder der Betriebsleiter eines Betriebs nach Artikel 5 Absatz 1 Buchstaben a, b und e muss den Betrieb persönlich führen und während der Öffnungszeiten in der Regel anwesend sein.
 
-<sup>3</sup> Auf Geschäftsanschriften und in Ankündigungen eines Betriebs nach Artikel 5 Buchstaben a bis c sind anzugeben
+<sup>3</sup> Auf Geschäftsanschriften und in Ankündigungen eines Betriebs nach Artikel 5 Absatz 1 Buchstaben a, b und e sind anzugeben
 
 - a die Art des bewilligten Betriebs,
 - b der Name der Betriebsleiterin oder des Betriebsleiters.
@@ -203,26 +202,37 @@ beschliesst:
 - b Drogerien,
 - c …
 
-<sup>3</sup> Es ist die zuständige Stelle gemäss GesG für
+<sup>3</sup> Es ist die zuständige Stelle nach dem GesG für
 
 - a die Inspektion der Einrichtungen und Räumlichkeiten,
-- b die ersatzweise Regelung des ambulanten Notfalldiensts und den Erlass von Verfügungen bei Streitigkeiten aus der Notfalldienstpflicht gemäss Artikel 30a bis 30d GesG,
-- c die Anordnung administrativer Massnahmen gemäss Artikel 17, 17a, 17b und 19a GesG,
-- d die Entgegennahme von Mitteilungen und die Führung des Registers gemäss Artikel 20 GesG,
-- e die Entgegennahme der Informationen gemäss Artikel 49a GesG,
-- f die Erteilung von Bewilligungen gemäss Artikel 25 Absatz 3 GesG.
+- b die ersatzweise Regelung des ambulanten Notfalldiensts und den Erlass von Verfügungen bei Streitigkeiten aus der Notfalldienstpflicht nach den Artikel 30a bis 30d GesG,
+- c die Anordnung aufsichtsrechtlicher Massnahmen und Inspektionen nach den Artikeln 17, 17a, 17b und 19a GesG,
+- d die Entgegennahme von Mitteilungen und die Führung des Registers nach Artikel 20 GesG,
+- e die Entgegennahme der Informationen nach Artikel 49a GesG,
+- f die Erteilung von Bewilligungen nach Artikel 25 Absatz 3 GesG,
+- g die Erteilung von Bewilligungen nach Artikel 32 Absatz 1 GesG.
 
 <sup>4</sup> Es ist die zuständige Stelle für die Erteilung folgender bundesrechtlicher Bewilligungen:
 
 - a Bewilligung für den Versandhandel mit Arzneimitteln (Art. 27 Abs. 4 HMG),
 - b Bewilligung für Betriebe, die Blut oder labile Blutprodukte nur lagern (Art. 34 Abs. 4 HMG),
-- c Bewilligung für die Herstellung von Arzneimitteln nach Formula magistralis, Formula officinalis, Formula hospitalis oder nach eigener Formel (Art. 6 der Verordnung des Bundesrates vom 17. Oktober 2001 über die Bewilligungen im Arzneimittelbereich [Arzneimittel-Bewilligungsverordnung, AMBV][^14a-1]),
-- d Ermächtigung von Beraterinnen und Beratern von Familienplanungsstellen, im Rahmen ihrer Tätigkeit die «Pille danach» abzugeben (Art. 25c der Verordnung des Bundesrates vom 17. Oktober 2001 über die Arzneimittel [Arzneimittelverordnung, VAM][^14a-2]).
+- c Bewilligung für die Herstellung von Arzneimitteln nach Formula magistralis, Formula officinalis, Formula hospitalis oder nach eigener Formel (Art. 8 der Verordnung des Bundesrates vom 14. November 2018 über die Bewilligungen im Arzneimittelbereich [Arzneimittel-Bewilligungsverordnung, AMBV][^14a-1]),
+- d Ermächtigung von Beraterinnen und Beratern von Familienplanungsstellen, im Rahmen ihrer Tätigkeit die «Pille danach» abzugeben (Art. 50 der Verordnung des Bundesrates vom 21. September 2018 über die Arzneimittel [Arzneimittelverordnung, VAM][^14a-2]).
 
-<sup>5</sup> Es ist für alle Berufsgruppen gemäss dieser Verordnung die zuständige Stelle für die Entbindung von der Schweigepflicht gemäss Artikel 8 Absatz 2 und Artikel 27 Absatz 2 GesG.
+<sup>5</sup> Es ist für alle Berufsgruppen nach dieser Verordnung die zuständige Stelle für die Entbindung von der Schweigepflicht nach Artikel 8 Absatz 2 und Artikel 27 Absatz 2 GesG.
+
+<sup>6</sup> Es ist die zuständige Stelle für die Entgegennahme und die Prüfung der Meldungen
+
+- a zu den Arzneimitteln nach Artikel 9 Absatz 2 Buchstabe c HMG nach eigener Formel,
+- b zum gelegentlichen Grosshandel nach Artikel 20 Absatz 4 AMBV,
+- c zur Einfuhr nach Artikel 49 Absätze 2 und 3 AMBV.
+
+<sup>7</sup> Es ist die zuständige Stelle für die Überwachung nach Artikel 76 Absatz 3 der Medizinprodukteverordnung des Bundesrats vom 1. Juli 2020 (MepV)[^14a-3] sowie nach Artikel 69 Absatz 3 der Verordnung des Bundesrates vom 4. Mai 2022 über In-vitro-Diagnostika (IvDV)[^14a-4].
 
 [^14a-1]: SR [812.212.1](https://db.clex.ch/link/Bund/812.212.1/de)
 [^14a-2]: SR [812.212.21](https://db.clex.ch/link/Bund/812.212.21/de)
+[^14a-3]: SR [812.213](https://db.clex.ch/link/Bund/812.213/de)
+[^14a-4]: SR [812.219](https://db.clex.ch/link/Bund/812.219/de)
 
 ## 2 Besondere Bestimmungen
 
@@ -280,16 +290,24 @@ beschliesst:
 
 **Tätigkeit**
 
-<sup>1</sup> Apothekerinnen und Apotheker sind gemäss den eidgenössischen und kantonalen Vorschriften berechtigt,
+<sup>1</sup> Apothekerinnen und Apotheker sind nach den eidgenössischen und kantonalen Vorschriften berechtigt,
 
 - a Heilmittel herzustellen und abzugeben,
-- b eine Apotheke zu leiten.
+- b eine Apotheke zu leiten,
+- c andere Leistungen zur Förderung und Erhaltung der Gesundheit sowie zur Verhütung von Krankheiten zu erbringen, sofern sie die Kompetenzen dazu aufgrund von Aus-, Weiter- und Fortbildungen vorweisen.
 
-<sup>2</sup> Mit Bewilligung des GA sind sie zusätzlich berechtigt, kapillare Blutentnahmen durchzuführen sowie gesunde Personen ab 16 Jahren ohne ärztliche Verschreibung gegen folgende Krankheiten zu impfen:
+<sup>2</sup> Mit entsprechenden Bewilligungen des GA sind sie zusätzlich berechtigt, kapillare Blutentnahmen durchzuführen sowie bei Personen, die das 16. Lebensjahr vollendet haben und kein impfspezifisches Gesundheitsrisiko wie insbesondere Schwangerschaft, Immunschwächen und Autoimmunkrankheiten aufweisen, ohne ärztliche Verschreibung die folgenden Impfungen vorzunehmen:
 
-- a Grippe,
-- b Frühsommer-Meningoenzephalitis (FSME),
-- c Hepatitis A, Hepatitis B sowie Hepatitis A und B, sofern die erste Impfung durch einen Arzt oder eine Ärztin vorgenommen wurde (Folgeimpfungen).
+- a Impfungen gegen Grippe,
+- b Impfungen gegen Frühsommer-Meningoenzephalitis (FSME),
+- c Impfungen gegen Hepatitis A, Hepatitis B sowie Hepatitis A und B,
+- d Impfungen gegen Diphtherie, Tetanus, Pertussis und Polio,
+- e Impfungen gegen Covid-19,
+- f weitere Impfungen gemäss schweizerischem Impfplan.
+
+<sup>3</sup> Weitere Impfungen können im Rahmen von kantonalen Notlagen oder Gesundheitspräventionsprogrammen durch Entscheid des GA im Einzelfall und zeitlich befristet bewilligt werden.
+
+<sup>4</sup> Apothekerinnen und Apotheker können die Durchführung der Leistungen nach Absatz 2 an Personen unter ihrer fachlichen Aufsicht und Verantwortung übertragen.
 
 #### Art. 20
 
@@ -682,18 +700,34 @@ beschliesst:
 
 <sup>1</sup> Öffentliche Apotheken haben die gebräuchlichen Heilmittel zu führen, insbesondere solche, die bei Notfällen erforderlich sind.
 
-<sup>2</sup> Öffentliche Apotheken sind insbesondere berechtigt,
+<sup>2</sup> Sie sind insbesondere berechtigt,
 
 - a Arzneimittel vorrätig zu halten und an Patientinnen und Patienten oder an Personen, die zur Anwendung von Arzneimitteln berechtigt sind, abzugeben,
 - b …
 - c mit Bewilligung des GA Arzneimittel nach Formula magistralis herzustellen und abzugeben,
 - d mit Bewilligung des GA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
-- e mit Bewilligung des GA Arzneimittel aus Wirkstoffen der Stofflisten C, D und E nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
-- f mit Bewilligung des GA kapillare Blutentnahmen durchzuführen sowie an gesunden Personen ab 16 Jahren die für Apothekerinnen und Apotheker zulässigen Impfungen in der Apotheke vorzunehmen.
+- e mit Bewilligung des GA Arzneimittel nach Artikel 9 Absatz 2 Buchstabe c HMG nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
+- f mit Bewilligung des GA kapillare Blutentnahmen durchzuführen,
+- g an Personen, die das 16. Lebensjahr vollendet haben und kein impfspezifisches Gesundheitsrisiko wie insbesondere Schwangerschaft, Immunschwächen und Autoimmunkrankheiten aufweisen, die für Apothekerinnen und Apotheker zulässigen Impfungen in der Apotheke vorzunehmen,
+- h andere Leistungen zur Förderung und Erhaltung der Gesundheit sowie zur Verhütung von Krankheiten zu erbringen, sofern sie die Kompetenzen dazu aufgrund von Aus-, Weiter- und Fortbildungen vorweisen.
 
-<sup>3</sup> Die nach Absatz 2 Buchstabe e hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
+<sup>3</sup> Die nach Absatz 2 Buchstabe e defekturmässig hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
 
 <sup>4</sup> Öffentliche Apotheken können vom GA befugt oder beauftragt werden, gesundheitsvorsorgliche Leistungen zu erbringen.
+
+#### Art. 58a
+
+**Meldung nach Artikel 58 Absatz 3**
+
+<sup>1</sup> Die Meldung nach Artikel 58 Absatz 3 erfolgt
+
+- a unter Verwendung der vom GA bereitgestellten Webapplikation,
+- b vor dem ersten Inverkehrbringen der neuen Arzneimittel,
+- c wiederkehrend alle zehn Jahre.
+
+<sup>2</sup> Eine unvollständige oder fehlerhafte Meldung kann zur Verbesserung zurückgewiesen werden.
+
+<sup>3</sup> Die Prüfung der Meldung ist gebührenpflichtig.
 
 #### Art. 59
 
@@ -706,15 +740,20 @@ beschliesst:
 - a Arzneimittel vorrätig zu halten und an Spitalpatientinnen und Spitalpatienten abzugeben,
 - b mit Bewilligung des GA Arzneimittel nach Formula magistralis herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben,
 - c mit Bewilligung des GA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben,
-- d mit Bewilligung des GA Arzneimittel nach eigener Formel in kleinen Mengen herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben.
+- d mit Bewilligung des GA Arzneimittel nach eigener Formel in kleinen Mengen herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben,
+- e mit Bewilligung des GA Arzneimittel nach Artikel 9 Absatz 2 Buchstabe c<sup>bis</sup> HMG herzustellen und an Spitalpatientinnen und Spitalpatienten abzugeben.
 
-<sup>3</sup> Die nach Absatz 2 Buchstabe d hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
+<sup>3</sup> …
 
 #### Art. 60
 
 **Privatapotheken**
 
 <sup>1</sup> Die Privatapotheken dienen den Inhaberinnen und Inhabern der Betriebsbewilligung nach Artikel 32 GesG zur Versorgung eigener Patientinnen und Patienten mit den erforderlichen Heilmitteln.
+
+<sup>2</sup> Heime und Einrichtungen des Justizvollzugs, die eine Privatapotheke nach Artikel 32 Absatz 1 Buchstabe b GesG führen, dürfen mit Bewilligung des GA einen Betrieb, der über eine Herstellungsbewilligung verfügt, mit der Herstellung von Arzneimitteln nach der Formula magistralis beauftragen.
+
+<sup>3</sup> Die Bewilligung wird dem Heim oder der Einrichtung nur erteilt, wenn die fachliche Verantwortung für die Privatapotheke bei einer Apothekerin oder einem Apotheker mit Berufsausübungsbewilligung liegt.
 
 #### Art. 61
 
@@ -724,10 +763,35 @@ beschliesst:
 
 - a Arzneimittel der Abgabekategorien D und E vorrätig zu halten und an das Publikum abzugeben,
 - b mit Bewilligung des GA Arzneimittel nach Formula officinalis in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
-- c mit Bewilligung des GA Arzneimittel aus Wirkstoffen der Stofflisten D und E nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben.
+- c mit Bewilligung des GA Arzneimittel nach Artikel 9 Absatz 2 Buchstabe c HMG nach eigener Formel in kleinen Mengen herzustellen und an die eigene Kundschaft abzugeben,
 - d …
+- e Medizinprodukte und In-vitro-Diagnostika zur Eigenanwendung, die für das Publikum bestimmt sind, abzugeben.
 
-<sup>2</sup> Die nach Absatz 1 Buchstabe c hergestellten Arzneimittel sind dem GA unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung zu melden.
+<sup>2</sup> Sie müssen dem GA die nach Absatz 1 Buchstabe c defekturmässig hergestellten Arzneimittel unter Angabe von Bezeichnung, Zusammensetzung und Beschriftung melden.
+
+#### Art. 61a
+
+**Meldung nach Artikel 61 Absatz 2**
+
+<sup>1</sup> Die Meldung nach Artikel 61 Absatz 2 erfolgt
+
+- a unter Verwendung der vom GA bereitgestellten Webapplikation,
+- b vor dem ersten Inverkehrbringen der neuen Arzneimitteln,
+- c wiederkehrend alle zehn Jahre.
+
+<sup>2</sup> Eine unvollständige oder fehlerhafte Meldung kann zur Verbesserung zurückgewiesen werden.
+
+<sup>3</sup> Die Prüfung der Meldung ist gebührenpflichtig.
+
+#### Art. 61b
+
+**Gelegentlicher Grosshandel mit Arzneimitteln**
+
+<sup>1</sup> Ein gelegentlicher Grosshandel nach Artikel 20 Absatz 2 AMBV ist dem GA vor der Aufnahme zu melden.
+
+<sup>2</sup> Für die Meldung ist das vom GA bereitgestellte Formular zu verwenden.
+
+<sup>3</sup> Meldepflichtig sind insbesondere die Aufnahme oder Aufgabe der Grosshandelstätigkeit sowie die Namen und Mutation von Kundinnen und Kunden.
 
 ### 3.1.3
 
@@ -745,7 +809,10 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die öffentliche Apotheke muss dem Publikum direkt zugänglich sein, insbesondere auch im Notfalldienst.
+<sup>3</sup> Die öffentliche Apotheke muss
+
+- a regelmässige, ortsübliche Öffnungszeiten garantieren, um die Arzneimittelversorgung sicherzustellen,
+- b dem Publikum direkt zugänglich sein, insbesondere auch in Zeiten, in denen sie Notfalldienst leistet.
 
 <sup>4</sup> …
 
@@ -765,11 +832,13 @@ beschliesst:
 
 #### Art. 65
 
-<sup>1</sup> Das GA führt vor der Bewilligungserteilung eine Inspektion durch und überprüft, ob die Voraussetzungen für eine Betriebsbewilligung erfüllt sind. Die Inspektionen sind periodisch zu wiederholen (ordentliche Inspektionen).
+<sup>1</sup> Das GA führt in der Regel vor der Bewilligungserteilung eine Inspektion durch und überprüft, ob die Voraussetzungen für eine Betriebsbewilligung erfüllt sind. Die Inspektionen sind periodisch zu wiederholen.
 
-<sup>2</sup> Bei Wechsel der Betriebsleitung und soweit es verordnungswidrige Zustände oder ein entsprechender Verdacht notwendig machen, nimmt das GA zusätzliche Inspektionen vor. Diese können jederzeit und so oft als nötig durchgeführt werden (ausserordentliche Inspektionen).
+<sup>1a</sup> Das GA kann zusätzliche Inspektionen durchführen.
 
-<sup>3</sup> Das GA kann eidgenössisch diplomierte Apothekerinnen und Apotheker, Drogistinnen und Drogisten sowie Ärztinnen und Ärzte mit der Durchführung von Inspektionen beauftragen. Die GSI bestimmt die Inspektorinnen und Inspektoren auf Antrag des GA und legt ihre Entschädigung fest.
+<sup>2</sup> …
+
+<sup>3</sup> Das GA kann geeignete Fachpersonen mit der Durchführung von Inspektionen beauftragen. Die GSI bestimmt die Inspektorinnen und Inspektoren auf Antrag des GA und legt ihre Entschädigung fest.
 
 <sup>4</sup> Das GA kann im Rahmen der Marktüberwachung unentgeltlich die zur Überwachung der Sicherheit der Heilmittel notwendigen Muster erheben, die erforderlichen Auskünfte oder Unterlagen verlangen und jede erforderliche Unterstützung anfordern.
 
@@ -783,7 +852,7 @@ beschliesst:
 
 - a …
 - b die Beratung des Publikums oder der Ärzteschaft in Arzneimittelfragen,
-- c die Abgabe von Arzneimitteln der Abgabekategorien A, B und C.
+- c die Abgabe von Arzneimitteln der Abgabekategorien A und B.
 - d–f …
 
 <sup>2</sup> Von der Drogistin oder vom Drogisten persönlich vorzunehmen oder zu überwachen ist die Abgabe von Arzneimitteln der Abgabekategorie D.
@@ -814,12 +883,7 @@ beschliesst:
 
 **Überprüfung**
 
-<sup>1</sup> Vor der Ausführung einer ärztlichen Verschreibung hat sich die Apothekerin oder der Apotheker zu überzeugen, dass die ärztliche Verschreibung
-
-- a von einer berechtigten Fachperson ausgestellt wurde und deren Namen und Praxisadresse enthält,
-- b die Bezeichnung, den Wirkstoffgehalt und die galenische Form des Arzneimittels, die Grösse und Menge der abzugebenden Packungen sowie Angaben über die Dosierung enthält,
-- c datiert und im Original unterschrieben ist oder eine qualifizierte elektronische Signatur im Sinne von Artikel 14 Absatz 2<sup>bis</sup> des Obligationenrechts (OR)[^69-1] aufweist,
-- d Name und Jahrgang der Patientin oder des Patienten enthält.
+<sup>1</sup> Vor der Ausführung einer ärztlichen Verschreibung hat sich die Apothekerin oder der Apotheker zu überzeugen, dass die ärztliche Verschreibung die Angaben nach Artikel 51 Absatz 1 VAM enthält.
 
 <sup>2</sup> Entdeckt oder vermutet die Apothekerin oder der Apotheker mögliche Wechselwirkungen mit anderen Arzneimitteln, welche die Patientin oder der Patient anwendet, oder einen Irrtum seitens der Fachperson, welche die ärztliche Verschreibung ausgestellt hat, so ist mit dieser unverzüglich Rücksprache zu nehmen.
 
@@ -828,8 +892,6 @@ beschliesst:
 <sup>4</sup> Vermutet die Apothekerin oder der Apotheker eine Fälschung oder Verfälschung der ärztlichen Verschreibung, so hat sie oder er vor deren Ausführung mit der von der vermuteten Fälschung oder Verfälschung betroffenen Fachperson Kontakt aufzunehmen. Ist dies nicht möglich, wird im Falle der vermuteten Verfälschung die minimale Menge des Arzneimittels abgegeben und die betroffene Fachperson nachträglich orientiert. Mutmasslich gefälschte ärztliche Verschreibungen dürfen nicht ausgeführt werden. Sie sind zurückzubehalten und dem GA zuzustellen.
 
 <sup>5</sup> Bei der Abgabe von kontrollierten Substanzen kann die Apothekerin oder der Apotheker die Identität der Patientin oder des Patienten überprüfen.
-
-[^69-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
 
 #### Art. 70
 
@@ -875,7 +937,7 @@ beschliesst:
 - c das Datum der Abgabe, gegebenenfalls die Identifikationsnummer,
 - d die von der rezeptausstellenden Fachperson vorgeschriebene Gebrauchsanweisung.
 
-<sup>3</sup> Die Aufzeichnungen können chronologisch oder patientenbezogen geordnet sein. Sie sind während mindestens zehn Jahren aufzubewahren.
+<sup>3</sup> Die Aufzeichnungen können chronologisch oder patientenbezogen geordnet sein. Sie sind während mindestens 20 Jahren aufzubewahren.
 
 <sup>4</sup> Für die Registrierung der Abgabe von Betäubungsmitteln sind zudem die besonderen kantonalen Bestimmungen zu beachten.
 
@@ -889,42 +951,73 @@ beschliesst:
 
 <sup>3</sup> …
 
+<sup>4</sup> Eine Teilmengenabgabe ist ausnahmsweise möglich. Das GA legt die Voraussetzungen und die Durchführung in einem Merkblatt fest.
+
 ### 3.2 Andere Fachpersonen
 
 ### 3.2.1
+
+#### Art. 74a
+
+**Chiropraktorinnen und Chiropraktoren**
+
+<sup>1</sup> Für Verschreibungen von Chiropraktorinnen und Chiropraktoren gelten sinngemäss die gleichen Bestimmungen wie für ärztliche Verschreibungen.
+
+#### Art. 74b
+
+**Einfuhr nicht zugelassener verwendungsfertiger Arzneimittel durch Fachpersonen**
+
+<sup>1</sup> Eine Einfuhr nach Artikel 49 Absätze 2 und 3 AMBV ist dem GA vorgängig zu melden.
+
+<sup>2</sup> Für die Meldung ist das vom GA bereitgestellte Formular zu verwenden.
 
 #### Art. 75
 
 **Verschreibung, Abgabe und Anwendung von Heilmitteln**
 
-<sup>1</sup> Die Verschreibung, die Abgabe und die Anwendung von Heilmitteln richten sich nach den Artikeln 23 bis 26 und Artikel 48 HMG, den Artikeln 23 bis 27b VAM sowie den Artikeln 16 bis 20 der Medizinprodukteverordnung des Bundesrates vom 17. Oktober 2001 (MepV)[^75-1].
+<sup>1</sup> Die Verschreibung, die Abgabe und die Anwendung von Arzneimitteln richten sich nach den Artikeln 23 bis 26 HMG sowie den Artikeln 41 bis 44, 50, 52 und 53 VAM.
 
-<sup>2</sup> Folgende Fachpersonen sind zur Anwendung nicht verschreibungspflichtiger und verschreibungspflichtiger Arzneimittel (Art. 27a Abs. 1 und 2 VAM) berechtigt:
+<sup>1a</sup> Der Umgang mit Medizinprodukten und In-Vitro-Diagnostika richtet sich nach den Artikeln 48 und 49 HMG, den Artikeln 68 und 70 bis 73 MepV sowie den Artikeln 61, 63 und 64 IvDV.
+
+<sup>2</sup> Folgende Fachpersonen sind zur Anwendung von Arzneimitteln (Art. 52 Abs. 1 und 2 VAM) berechtigt:
 
 - a Ärztinnen und Ärzte,
 - b Zahnärztinnen und Zahnärzte,
 - c Chiropraktorinnen und Chiropraktoren,
-- d Hebammen und Entbindungshelfer,
+- d Hebammen,
 - e Dentalhygienikerinnen und Dentalhygieniker,
-- f Rettungssanitäterinnen und Rettungssanitäter.
+- f Rettungssanitäterinnen und Rettungssanitäter,
+- g Optometristinnen und Optometristen.
 
 <sup>2a</sup> Apothekerinnen und Apotheker sind zur Anwendung von Arzneimitteln nach Artikel 19 Absatz 2 berechtigt.
 
-<sup>3</sup> Das GA bestimmt die verschreibungspflichtigen Arzneimittel, welche durch die in Absatz 2 Buchstaben c bis f genannten Fachpersonen angewendet werden dürfen (Art. 27a Abs. 3 VAM).
+<sup>3</sup> Das GA bestimmt die verschreibungspflichtigen Arzneimittel, die durch die in Absatz 2 Buchstaben c bis g genannten Fachpersonen angewendet werden dürfen (Art. 52 Abs. 3 VAM).
 
 <sup>4</sup> Folgende Fachpersonen sind zur Anwendung nicht verschreibungspflichtiger Arzneimittel, die üblicherweise zu ihrem Tätigkeitsbereich gehören, berechtigt:
 
-- a diplomierte Pflegefachfrauen und diplomierte Pflegefachmänner,
+- a Pflegefachfrauen und Pflegefachmänner,
 - b Podologinnen und Podologen,
-- c Heilpraktikerinnen und Heilpraktiker,
-- d Homöopathinnen und Homöopathen,
-- e Therapeutinnen und Therapeuten der TCM.
+- c–e …
+- f Naturheilpraktikerinnen und Naturheilpraktiker.
 
-<sup>5</sup> Inhaberinnen und Inhaber einer Bewilligung zur Führung einer Privatapotheke nach Artikel 32 GesG müssen ihre Patientinnen und Patienten darauf hinweisen, dass die Arzneimittel von ihrer Privatapotheke oder von einer öffentlichen Apotheke freier Wahl bezogen werden können.
+<sup>5</sup> Inhaberinnen und Inhaber einer Bewilligung zur Führung einer Privatapotheke nach Artikel 32 GesG müssen
+
+- a ihre Patientinnen und Patienten darauf hinweisen, dass die Arzneimittel von ihrer Privatapotheke oder von einer öffentlichen Apotheke freier Wahl bezogen werden können,
+- b ihren Patientinnen und Patienten eine Verschreibung ausstellen, es sei denn, diese verzichten darauf.
 
 <sup>6</sup> Als Erstversorgung im Sinne von Artikel 31 Absatz 2 GesG gilt in der Regel die einmalige Abgabe der kleinsten Originalpackung eines Präparats.
 
-[^75-1]: SR [812.213](https://db.clex.ch/link/Bund/812.213/de)
+#### Art. 75a
+
+**Aufbereitung von Medizinprodukten**
+
+<sup>1</sup> Fachpersonen, die Medizinprodukte nach Artikel 72 MepV aufbereiten, sind zur Selbstdeklaration ihrer Tätigkeit verpflichtet.
+
+<sup>2</sup> Für die Selbstdeklaration ist das vom GA bereitgestellte Formular zu verwenden.
+
+<sup>3</sup> Das GA legt die Frist für die Selbstdeklaration fest.
+
+<sup>4</sup> Es kann Inspektorinnen und Inspektoren nach Artikel 65 mit der Prüfung der Meldungen beauftragen.
 
 ### 3.2.2
 
