@@ -1,27 +1,23 @@
 ---
 canton: TG
 number: "211.445"
-title: Weisung des Regierungsrates betreffend Beschaffung und Abgabe von Geodaten sowie Nutzung des geografischen Informationssystems
-short: Geoinformationsweisung
+title: Geoinformationsweisung
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-14
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2010-03-30
 in_force: 2010-04-02
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.445"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2084/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2967/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Weisung des Regierungsrates betreffend Beschaffung und Abgabe von Geodaten sowie Nutzung des geografischen Informationssystems
+# Geoinformationsweisung
 
 Geoinformationsweisung
 
-(Geoinformationsweisung)
-
-vom 30.03.2010 (Stand 01.01.2022)
+vom 30.03.2010 (Stand 01.01.2026)
 
 #### § 1
 
@@ -65,14 +61,16 @@ vom 30.03.2010 (Stand 01.01.2022)
 
 <sup>1</sup> Das Amt für Geoinformation führt das ThurGIS-Zentrum als kantonale Fachstelle im Bereich des geografischen Informationssystems (GIS-Fachstelle).
 
-<sup>2</sup> Die GIS-Fachstelle gewährleistet die nachhaltige Verfügbarkeit der Geobasisdaten.
+<sup>2</sup> Die GIS-Fachstelle gewährleistet, dass die Geobasisdaten und die anderen elektronisch direkt zugänglichen Geodaten nachhaltig verfügbar und historisiert sind.
 
 <sup>3</sup> Die GIS-Fachstelle ist namentlich zuständig für:
 
 - 1\. den Betrieb der Geodaten-Infrastruktur der kantonalen Verwaltung und die Durchführung entsprechender Projekte
 - 2\. die Unterstützung und Beratung der beteiligten Stellen bei Aufbau und Nutzung von Geodaten (Datenmodellierung, Datenerfassung, Beschaffung von Informatikwerkzeugen, Qualitätssicherung)
-- 3\. die Bereitstellung eines bedarfsgerechten Ausbildungsangebotes im Bereich Geoinformation in Zusammenarbeit mit dem Personalamt
+- 3\. die Bereitstellung eines bedarfsgerechten Ausbildungsangebotes im Bereich Geoinformation
 - 4\. den regelmässigen Informationsaustausch zwischen dem Amt für Geoinformation und den betroffenen Amtsstellen
+- 5\. die Co-Projektleitung bei Projekten im Bereich Geoinformation und im Zusammenhang mit Geodaten
+- 6\. die Koordination mit den für die Geodateninfrastruktur zuständigen Stellen beim Bund, bei den Kantonen und den Gemeinden
 
 #### § 8
 
@@ -82,11 +80,12 @@ vom 30.03.2010 (Stand 01.01.2022)
 
 - 1\. frühzeitige Information der GIS-Fachstelle über neue Projekte im Bereich Geoinformation
 - 2\. koordinierte Beschaffung und Bearbeitung von Geodaten gemäss Projektantrag
-- 3\. Einhaltung der festgelegten Normen und Standards für Geodaten
-- 4\. Sicherstellung der erforderlichen Aktualität und der fachlichen Richtigkeit der Geodaten
+- 3\. Einhaltung der festgelegten Normen und Standards für Geodaten und Geometadaten
+- 4\. Sicherstellung der erforderlichen Aktualität, Qualität und der fachlichen Richtigkeit der Geodaten
 - 5\. Erstellung von Umsetzungsplänen für Geoinformationsprojekte als Grundlage für Budgetierung und Beschaffungsplanung
+- 6\. Gewährleistung der Anbindung von Fachapplikationen an die Geodateninfrastruktur der kantonalen Verwaltung und Übernahme der daraus entstehenden Kosten
 
-<sup>2</sup> Jede Amtsstelle mit eigenen Geoinformationsprojekten bezeichnet einen GIS-Koordinator oder eine GIS-Koordinatorin als Anlaufstelle für die GIS-Fachstelle.
+<sup>2</sup> Jede Amtsstelle mit eigenen Geoinformationsprojekten oder Geodaten nach § 9 TG GeoIG bezeichnet einen GIS-Koordinator oder eine GIS-Koordinatorin als Anlaufstelle für die GIS-Fachstelle.
 
 #### § 9
 
@@ -110,17 +109,18 @@ vom 30.03.2010 (Stand 01.01.2022)
 
 <sup>1</sup> Vom Amt für Geoinformation wird zentral budgetiert:
 
-- 1\. Beschaffung der Server-Infrastruktur für das kantonale Geoinformationssystem sowie Betrieb und Datensicherung
+- 1\. Beschaffung der Server-Infrastruktur und Datenbanken für die Geodateninfrastruktur sowie Betrieb und Datensicherung
 - 2\. Beschaffung und Betrieb von GIS-Standardsoftware
 - 3\. Beschaffung und Betrieb von GIS-Konzernapplikationen
-- 4\. Qualitätsmanagement von Geobasisdaten und Georeferenzdaten gemäss kantonalem Geobasisdaten-Katalog
+- 4\. Qualitätsmanagement von Geobasisdaten und anderen elektronisch direkt zugänglichen Geodaten gemäss Geobasisdatenkatalog und Verzeichnis der kantonalen Ergänzungen zum Katalog der Geobasisdaten des Bundesrechts
 - 5\. Koordinationsaufgaben und Projektleitung bei GIS-Konzernprojekten
+- 6\. Beschaffung und Betrieb von ETL-Software
 
-<sup>2</sup> Von den zuständigen Ämtern und Dienststellen werden budgetiert:
+<sup>2</sup> Von den zuständigen Amtsstellen nach § 9 TG GeoIG werden budgetiert:
 
-- 1\. Beschaffung und Bereitstellung von Geobasisdaten und Georeferenzdaten im Fachbereich des Amtes gemäss kantonalem Geobasisdaten-Katalog
-- 2\. Nachführung von Geodaten im Fachbereich des Amtes
-- 3\. Fachapplikationen der Amtsstellen
+- 1\. Beschaffung und Bereitstellung von Geobasisdaten und anderen elektronisch direkt zugänglichen Geodaten im Fachbereich der Amtsstelle gemäss Geobasisdatenkatalog und Verzeichnis der kantonalen Ergänzungen der Geobasisdaten des Bundes
+- 2\. Nachführung und Gewährleistung der Aktualität, Qualität und fachlichen Richtigkeit von Geodaten im Fachbereich der Amtsstelle
+- 3\. Fachapplikationen der Amtsstellen und deren Anbindung an die Geodateninfrastruktur der kantonalen Verwaltung
 
 #### § 13
 
