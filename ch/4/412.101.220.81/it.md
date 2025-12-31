@@ -3,18 +3,18 @@ sr: "412.101.220.81"
 title: Ordinanza della SEFRI del 1° novembre 2013 sulla formazione professionale di base Campo professionale «Costruzione delle vie di traffico» con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/867"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2013-11-01
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/867/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2013-867-20240401-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/867/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/867/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2013-867-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/867/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Campo professionale «Costruzione delle vie di traffico» con certificato federale di formazione pratica (CFP)
 
-del 1° novembre 2013 (Stato 1° aprile 2024)
+del 1° novembre 2013 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>51422</td><td>Addetta alla costruzione di binari CFP/ Addetto alla costruzione di binari CFP Gleisbaupraktikerin EBA/Gleisbaupraktiker EBA Assistante-constructrice de voies ferrées AFP/ Assistant-constructeur de voies ferrées AFP</td></tr>
@@ -42,11 +42,11 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-5]: Nuovo testo giusta il n. I 56 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
+[^ingress-5]: Nuovo testo giusta la cifra I n. 56 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -182,8 +182,8 @@ La formazione prevede, nei seguenti campi di competenze operative, le competenze
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Nuovo testo giusta il n. II 56 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Nuovo testo giusta la cifra II n. 56 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -213,7 +213,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammesse deroghe minime al numero di lezioni prescritte per anno di formazione in un campo di competenze operative.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^7-2].
 
 <sup>4</sup> La lingua d’insegnamento è di norma la lingua nazionale del luogo in cui si trova la scuola professionale.
 
@@ -221,7 +221,8 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>6</sup> I Cantoni possono autorizzare altre lingue d’insegnamento.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -256,7 +257,6 @@ Le giornate e i contenuti sono ripartiti su 4–6 corsi interaziendali:
 <table>
 <tr><th>Corso</th><th>Campi di competenze operative</th><th>Contenuti</th><th>Anno</th><th>Giornate</th></tr>
 <tr><td>GRBP1</td><td>esecuzione di lavori da sondatore</td><td>– abbassamenti e captazioni di falda – sostegni per gli scavi, sbadacchiature e lavori con calcestruzzo proiettato</td><td>1</td><td>5</td></tr>
-<tr><td></td><td></td><td>[tab]</td><td></td><td></td></tr>
 <tr><td>GRBP2</td><td>esecuzione di lavori da sondatore</td><td>– lavori di ancoraggio, chiodatura e iniezione – lavori di palificazione e jetting</td><td>2</td><td>5</td></tr>
 <tr><td colspan="4">Totale giornate</td><td>10</td></tr>
 </table>
@@ -438,11 +438,12 @@ Nella procedura di qualificazione con esame finale vengono esaminate le competen
 <tr><td>2</td><td>esecuzione di lavori specifici per la professione</td><td>30 min.</td><td>30 min.</td><td>70 %</td></tr>
 </table>
 
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 9 aprile 2025[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^18-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 19
 
@@ -578,11 +579,11 @@ Essa ha in particolare i seguenti compiti:
 
 **Diritto previgente: abrogazione**
 
-<sup>1</sup> È abrogata l’ordinanza della SEFRI del 18 dicembre 2007**[^25-1]** sulla formazione professionale di base nel campo professionale «Costruzione delle vie di traffico».
+<sup>1</sup> È abrogata l’ordinanza della SEFRI del 18 dicembre 2007[^25-1] sulla formazione professionale di base nel campo professionale «Costruzione delle vie di traffico».
 
 <sup>2</sup> È revocata l’approvazione del piano di formazione del 18 dicembre 2007 nel campo professionale «Costruzione delle vie di traffico».
 
-[^25-1]: [RS 412.101.220.81](https://fedlex.data.admin.ch/eli/cc/2013/867)
+[^25-1]: [RS 412.101.220.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6441)
 
 #### Art. 26
 
