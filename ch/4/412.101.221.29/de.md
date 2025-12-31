@@ -3,18 +3,18 @@ sr: "412.101.221.29"
 title: Verordnung des SBFI vom 1. Juni 2010 über die berufliche Grundbildung Keramikerin/Keramiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/391"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2010-06-01
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/391/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2010-391-20240401-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/391/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/391/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-391-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/391/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Keramikerin/Keramiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 1. Juni 2010 (Stand am 1. April 2024)[^t-1]
+vom 1. Juni 2010 (Stand am 1. Januar 2026)[^t-1]
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 
@@ -28,10 +28,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I der V des SBFI vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
@@ -121,7 +121,7 @@ Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. I der V des SBFI vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
-[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -164,15 +164,16 @@ Der Bildungsplan hat folgenden Inhalt:
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
 [^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
-[^10-2]: Der Bildungsplan vom 1. Juni 2010 (Stand am 20. November 2019) ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z
+[^10-2]: Der Bildungsplan vom 1. Juni 2010 (Stand am 20. November 2019) ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z.
 
 #### Art. 11
 
 **Allgemeinbildung**
 
-Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^11-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^11-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^11-2].
 
-[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -301,12 +302,13 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualif
   - 2\. die lernende Person wird sowohl schriftlich wie mündlich befragt,
   - 3\. die mündliche Prüfung dauert 30 Minuten.
 
-- c. Allgemeinbildung; dieser Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^18-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.[^18-2]
+- c. Allgemeinbildung; dieser Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^18-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^18-2].[^18-3]
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
-[^18-2]: Fassung gemäss Ziff. I der V des SBFI vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
+[^18-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-3]: Fassung gemäss Ziff. I der V des SBFI vom 20. Nov. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 4301](https://fedlex.data.admin.ch/eli/oc/2019/744)).
 
 #### Art. 19
 
