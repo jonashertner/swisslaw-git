@@ -4,72 +4,81 @@ number: "500.100"
 title: Bevölkerungsschutzgesetz
 short: BevSG
 language: de
-version: 2017-01-01
-corrected: 2024-05-31
-version_adopted: 2016-08-22
+version: 2026-01-01
+version_adopted: 2025-08-25
 adopted: 2016-08-22
 in_force: 2017-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/500.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/237/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2064/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Bevölkerungsschutzgesetz (BevSG)
+# Bevölkerungsschutzgesetz
 
-vom 22. August 2016
+(BevSG)
+
+Vom 22.08.2016 (Stand 01.01.2026)
 
 Der Kantonsrat Schaffhausen
 
-beschliesst als Gesetz:
+beschliesst:
 
-## A. Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-Dieses Gesetz regelt die Vorbereitung auf bevölkerungsschutzrelevante Ereignisse und deren Bewältigung, insbesondere die Zuständigkeiten des Kantons und der Gemeinden, ihrer Führungsorganisationen sowie der Partnerorganisationen, die Zusammenarbeit und die Finanzierung. Ausserdem schafft es die Grundlagen für den Vollzug der Bundesgesetzgebung über den Bevölkerungsschutz[^1-1] und die wirtschaftliche Landesversorgung[^1-2].
+<sup>1</sup> Dieses Gesetz regelt die Vorbereitung auf bevölkerungsschutzrelevante Ereignisse und deren Bewältigung, insbesondere die Zuständigkeiten des Kantons und der Gemeinden, ihrer Führungsorganisationen sowie der Partnerorganisationen und Dritten, die Zusammenarbeit und die Finanzierung. Ausserdem schafft es die Grundlagen für den Vollzug der Bundesgesetzgebung über den Bevölkerungsschutz[^1-1] und die wirtschaftliche Landesversorgung[^1-2].
 
-[^1-1]: SR 520.1.
-[^1-2]: SR 531.
+[^1-1]: SR [520.1](http://db.clex.ch/link/Bund/520.1/de).
+[^1-2]: SR [531](http://db.clex.ch/link/Bund/531/de).
 
 #### Art. 2
 
 **Bevölkerungsschutzrelevantes Ereignis**
 
-Ein bevölkerungsschutzrelevantes Ereignis liegt vor, wenn aufgrund von Grossereignissen, Katastrophen oder Notlagen die anstehenden Aufgaben nicht mehr mit den ordentlichen Mitteln und Abläufen der betroffenen Gemeinschaft bewältigt werden können.
+<sup>1</sup> Ein bevölkerungsschutzrelevantes Ereignis liegt bei Schadenereignissen von grosser Tragweite (Grossereignis) vor oder wenn aufgrund von Katastrophen, Notlagen oder bewaffneten Konflikten die betroffene Gemeinschaft einzelne (besondere Lage) oder zahlreiche (ausserordentliche Lage) Aufgaben mit den ordentlichen Mitteln oder Abläufen nicht mehr bewältigen kann.
+
+<sup>2</sup> Der Regierungsrat ist zuständig, eine Lage als ausserordentlich zu bezeichnen und für beendet zu erklären.
+
+#### Art. 2bis
+
+**Integrales Risikomanagement**
+
+<sup>1</sup> Das integrale Risikomanagement im Sinne dieses Gesetzes besteht aus allen Massnahmen im Bereich der Vorbeugung und Bewältigung von bevölkerungsschutzrelevanten Ereignissen sowie der Regeneration in deren Folge.
+
+## 1a Führungsorgane, Partnerorganisationen und Dritte
 
 #### Art. 3
 
-**Partnerorganisationen**
+**Partnerorganisationen und Dritte**
 
 <sup>1</sup> Der Bevölkerungsschutz wird im Verbundsystem durch verschiedene Partnerorganisationen sichergestellt.
 
 <sup>2</sup> Partnerorganisationen im Sinne dieses Gesetzes sind:
 
-- a) Polizei: die Schaffhauser Polizei;
-
-- b) Feuerwehr: die Orts-, Verbands-, und Betriebsfeuerwehren sowie die Kantonale Feuerpolizei;
-
-- c) Gesundheitswesen: die Spitäler Schaffhausen und die zugelassenen Privatkliniken, der sanitätsdienstliche Rettungsdienst, die ambulanten ärztlichen Institutionen und die frei praktizierenden
-
-Amtsblatt 2016, S. 1307, S. 1899. Angehörigen von Berufen des Gesundheitswesens, die Apotheken, die zugelassenen Heime und Pflegedienste sowie die Care-Organisation;
-
-- d) technische Betriebe: die Betreiber von Einrichtungen der Energie- und Wasserversorgung, der Entsorgung, der Telematik und von Verkehrsverbindungen;
-
+- a) Polizei: die Schaffhauser Polizei
+- b) Feuerwehr: die Orts-, Verbands-, und Betriebsfeuerwehren sowie die Kantonale Feuerpolizei
+- c) Gesundheitswesen: die Spitäler Schaffhausen und die zugelassenen Privatkliniken, der sanitätsdienstliche Rettungsdienst, die ambulanten ärztlichen Institutionen und die frei praktizierenden Angehörigen von Berufen des Gesundheitswesens, die Apotheken, die zugelassenen Heime und Pflegedienste, das Schweizerische Rote Kreuz und seine Organisationen sowie die Care-Organisationen
+- d) technische Betriebe wie die Betreiber von Einrichtungen der Energie- und Wasserversorgung, der Entsorgung, der Telematik und von Verkehrsverbindungen, Werk- und Forstbetriebe, Strassenunterhaltsdienste
 - e) Zivilschutz: die kantonale Zivilschutzorganisation.
 
-## B. Vorbeuge für bevölkerungsschutzrelevante Ereignisse
+<sup>3</sup> Dritte im Sinne dieses Gesetzes sind insbesondere:
+
+- a) Öffentlich-rechtliche oder privatrechtliche Gesellschaften
+- b) Freiwillige.
+
+## 2
 
 #### Art. 4
 
 **Zuständigkeiten des Kantons**
 
-<sup>1</sup> Der Kanton ist für die Vorbeugemassnahmen zur Bewältigung von bevölkerungsschutzrelevanten Ereignissen verantwortlich, soweit diese das Gebiet mehrerer Gemeinden betreffen, sie ausserhalb der kommunalen Aufgabenbereiche liegen oder mit den örtlichen Mitteln und der nachbarlichen Hilfe allein nicht getroffen werden können.
+<sup>1</sup> Der Kanton ist für das integrale Risikomanagement verantwortlich, soweit dieses ausserhalb der kommunalen Aufgabenbereiche liegt oder mit den örtlichen Mitteln und der nachbarlichen Hilfe allein nicht sichergestellt werden kann.
 
-<sup>2</sup> Er schafft die notwendigen Organisationen und Strukturen, um für die Koordination mit den Partnerorganisationen, den Gemeinden, anderen Kantonen, dem Bund und dem angrenzenden Ausland sowie für die erforderlichen Mittel, die baulichen Anlagen und die Einsatzplanungen zu sorgen.
+<sup>2</sup> Er schafft die notwendigen Organisationen und Strukturen, um für die Koordination mit den Führungsorganisationen, Partnerorganisationen und Dritten, anderen Kantonen, dem Bund und dem angrenzenden Ausland sowie für die erforderlichen Mittel, die baulichen Anlagen und die Notfallplanungen zu sorgen.
 
 <sup>3</sup> Sofern Gesetz und Verordnung nichts anderes vorsehen, ist der Regierungsrat zuständig. Er erlässt die erforderlichen Ausführungsbestimmungen und kann die erforderlichen Verträge abschliessen.
 
@@ -77,35 +86,40 @@ Amtsblatt 2016, S. 1307, S. 1899. Angehörigen von Berufen des Gesundheitswesens
 
 **Zuständigkeiten der Gemeinden**
 
-<sup>1</sup> Die Gemeinden sind innerhalb ihrer Aufgaben (Art. 2 Gemeindegesetz)[^5-1] für die Vorbeugemassnahmen zur Bewältigung von bevölkerungsschutzrelevanten Ereignissen verantwortlich, soweit die Massnahmen auf ihrem Gemeindegebiet oder für die nachbarliche Hilfe getroffen werden müssen.
+<sup>1</sup> Die Gemeinden sind innerhalb ihrer Aufgaben (Art. 2 Gemeindegesetz)[^5-1] für das integrale Risikomanagement verantwortlich.
 
-<sup>2</sup> Die Gemeinden schaffen die hierfür notwendigen Strukturen, Organisationen und Bestimmungen. Mehrere Gemeinden können sich für einzelne oder mehrere Aufgaben zusammenschliessen. Der Regierungsrat kann eine Zusammenarbeit mehrerer Gemeinden anordnen.
+<sup>2</sup> Sie setzen hierfür in der Regel gemäss den Strukturen der Orts- und Verbandsfeuerwehren Führungsorgane ein und schaffen die notwendigen Bestimmungen.
 
-[^5-1]: SHR 120.100.
+<sup>3</sup> Die Gemeinderäte regeln die Zuständigkeiten ihres Führungsorgans, wobei sie auf kommunaler Ebene über die analogen Kompetenzen wie der Regierungsrat auf kantonaler Stufe verfügen.
+
+[^5-1]: SHR [120.100](https://rechtsbuch.sh.ch/data/120.100/de).
 
 #### Art. 6
 
 **Kantonale Führungsorganisation**
 
-<sup>1</sup> Der Regierungsrat setzt eine Kantonale Führungsorganisation (KFO) ein, die im Falle eines bevölkerungsschutzrelevanten Ereignisses die zivile Führung sicherstellen kann.
+<sup>1</sup> Der Regierungsrat setzt für die Umsetzung des integralen Risikomanagements die Kantonale Führungsorganisation (KFO) ein.
 
 <sup>2</sup> Er regelt die Struktur der KFO und deren Zuständigkeiten durch Verordnung.
 
 <sup>3</sup> Er wählt die Mitglieder der KFO für die verfassungsmässige Amtsdauer. Für folgende Personen kann er eine Dienstpflicht verfügen:
 
-- a) für die Arbeitnehmerinnen und Arbeitnehmer des Kantons;
-
-- b) für besonders qualifizierte Personen, die nicht oder nicht mehr schutzdienstpflichtig sind.
+- a) für die Arbeitnehmerinnen und Arbeitnehmer des Kantons
+- b) für besonders qualifizierte Personen, die nicht oder nicht mehr schutzdienstpflichtig sind
 
 <sup>4</sup> Er kann der KFO durch Verordnung im Hinblick auf die Bewältigung bevölkerungsschutzrelevanter Ereignisse vorsorglich Kompetenzen der ordentlichen Verwaltungsbehörden übertragen.
 
+## 2a Vorbeugung von bevölkerungsschutzrelevanten Ereignissen
+
 #### Art. 7
 
-**Führungsorgane der Gemeinden**
+**Gefährdungsanalysen und Notfallplanungen**
 
-<sup>1</sup> Zur Sicherstellung der zivilen Führung im Falle eines bevölkerungsschutzrelevanten Ereignisses bestimmen die Gemeinden ein Führungsorgan.
+<sup>1</sup> Kanton und Gemeinden analysieren die Gefährdungen von erheblicher Tragweite für ihre Gebiete. Die Gefährdungsanalysen sind periodisch zu aktualisieren.
 
-<sup>2</sup> Die Gemeinderäte regeln die Struktur und Zuständigkeiten ihres Führungsorgans, wobei sie innerhalb der Gemeinde über dieselben Kompetenzen wie der Regierungsrat verfügen.
+<sup>2</sup> Gestützt auf die Gefährdungsanalyse ermitteln der Kanton und die Gemeinden ihren Handlungsbedarf und erstellen entsprechende Notfallplanungen.
+
+<sup>3</sup> Der Kanton kann die Gemeinden mit Massnahmen der Vorbeugung beauftragen.
 
 #### Art. 8
 
@@ -113,13 +127,15 @@ Amtsblatt 2016, S. 1307, S. 1899. Angehörigen von Berufen des Gesundheitswesens
 
 <sup>1</sup> Kanton und Gemeinden stellen die Aus- und Weiterbildung der Mitglieder ihres Führungsorgans sicher. Die Mitglieder der KFO bzw. der Führungsorgane der Gemeinden können zu Ausbildungskursen aufgeboten werden.
 
-<sup>2</sup> Kanton und Gemeinden führen regelmässig Übungen mit den Führungsorganen und den Partnerorganisationen durch.
+<sup>2</sup> Kanton und Gemeinden führen regelmässig Übungen mit den Führungsorganen, den Partnerorganisationen und Dritten durch.
 
 #### Art. 9
 
-**Führungsinfrastrukturen, Informations- und Kommunikationstechnologien**
+**Führungsinfrastrukturen, Informations- und Kommunikationstechnologien sowie Alarmierung der Bevölkerung**
 
-Die Führungsorgane und Partnerorganisationen sorgen für ihre Führungsinfrastrukturen sowie die notwendigen Informations- und Kommunikationstechnologien. Sie stimmen diese aufeinander ab.
+<sup>1</sup> Die Führungsorgane und Partnerorganisationen sorgen für ihre Führungsinfrastrukturen sowie die notwendigen Informations- und Kommunikationstechnologien. Sie stimmen diese aufeinander ab. Der Kanton stellt die Koordination sicher.
+
+<sup>2</sup> Der Kanton stellt in Zusammenarbeit mit dem Bund und den Gemeinden die Warnung und Alarmierung der Bevölkerung in bevölkerungsschutzrelevanten Ereignissen sicher.
 
 #### Art. 10
 
@@ -131,11 +147,11 @@ Die Führungsorgane und Partnerorganisationen sorgen für ihre Führungsinfrastr
 
 #### Art. 11
 
-**Koordinierter Sanitätsdienst**
+**Aufgaben und Zuständigkeiten im Gesundheitswesen**
 
-<sup>1</sup> Die Behandlung und Pflege aller Patienten im Falle eines bevölkerungsschutzrelevanten Ereignisses ist durch einen koordinierten Sanitätsdienst sicherzustellen.
+<sup>1</sup> Das Gesundheitswesen gemäss Art. 3 Abs. 2 lit. c hat die Behandlung und Pflege aller Patientinnen und Patienten im Falle eines bevölkerungsschutzrelevanten Ereignisses sicherzustellen.
 
-<sup>2</sup> Die Partnerorganisation Gesundheitswesen ist hierzu verpflichtet, in geeigneter Weise Organisationsformen für den Einsatz von Sanitätspersonal, sanitätsdienstlichen Einrichtungen und Rettungspersonal zu bilden sowie Vorräte an Medikamenten und Sanitätsmaterial zu halten.
+<sup>2</sup> Institutionen und Organisationen des Gesundheitswesens gemäss Art. 3 Abs. 2 lit. c können entsprechend ihrer Eignung verpflichtet werden, in geeigneter Weise Organisationsformen für den Einsatz von Sanitätspersonal, sanitätsdienstlichen Einrichtungen und Rettungspersonal zu bilden und Vorräte an Medikamenten sowie Sanitäts- und Schutzmaterial zu halten.
 
 <sup>3</sup> Der Regierungsrat kann Bestimmungen über die Organisationsformen, die Erfassung und Ausbildung des benötigten Personals und die Vorratshaltung erlassen.
 
@@ -143,31 +159,68 @@ Die Führungsorgane und Partnerorganisationen sorgen für ihre Führungsinfrastr
 
 **Wirtschaftliche Landesversorgung**
 
-Um die vom Bund übertragenen Aufgaben der wirtschaftlichen Landesversorgung zu erfüllen,
+<sup>1</sup> Um die vom Bund übertragenen Aufgaben der wirtschaftlichen Landesversorgung zu erfüllen:
 
-- a) schafft der Kanton eine Zentralstelle für wirtschaftliche Landesversorgung;
+- a) stellt der Kanton die erforderlichen Ressourcen zur Verfügung und bezeichnet eine verantwortliche Person und deren Stellvertretung
+- b) stellen die Gemeinden die erforderlichen Ressourcen zur Verfügung und bezeichnen eine verantwortliche Person und deren Stellvertretung.
 
-- b) haben die Gemeinden eine Gemeindestelle für wirtschaftliche Landesversorgung und bezeichnen einen verantwortlichen Leiter und Stellvertreter.
+#### Art. 12bis
 
-## C. Bewältigung von bevölkerungsschutzrelevanten Ereignissen
+**Schutz kritischer Infrastrukturen**
+
+<sup>1</sup> Der Kanton erstellt ein Inventar der kritischen Infrastrukturen im Kanton Schaffhausen und aktualisiert jenes periodisch.
+
+<sup>2</sup> Wer eine im kantonalen Inventar erfasste kritische Infrastrukturen betreibt, hat
+
+- a) über eine Krisenorganisation zu verfügen
+- b) meldet der KFO eine Kontaktstelle für den Ereignisfall
+- c) ist verantwortlich für die Umsetzung des integralen Risikomanagements in ihrem Verantwortungsbereich und trägt hierfür die Kosten.
+
+## 3 Bewältigung von und Regeneration nach bevölkerungsschutzrelevanten Ereignissen
 
 #### Art. 13
 
-**Einsatzgrundsätze der Gemeinden**
+**Aufgaben und Zuständigkeiten der Gemeinden**
 
-<sup>1</sup> Bei bevölkerungsschutzrelevanten Ereignissen setzen die Gemeinden ihre Organisationen ein, soweit die örtlichen Mittel einschliesslich der nachbarlichen Hilfe oder der Beizug privater Organisationen ausreichen und nicht das Gebiet mehrerer Gemeinden betroffen ist.
+<sup>1</sup> Bei bevölkerungsschutzrelevanten Ereignissen setzen die betroffenen Gemeinden ihre Organisationen und Mittel ein.
+
+<sup>1<sup>bis</sup></sup> Ihnen obliegen insbesondere folgende Aufgaben und Zuständigkeiten:
+
+- a) Einberufung des Führungsorgans
+- b) Lagebeurteilung
+- c) Sicherstellen der Kommunikationsverbindungen mit den Partnerorganisationen und anderen Führungsorganen, insb. der KFO
+- d) Alarmierung der Bevölkerung in Absprache mit bzw. gemäss Vorgaben der KFO
+- e) Anordnung und Durchsetzung von Massnahmen zum Schutz, zur Rettung und zur Betreuung der Bevölkerung
+- f) Sicherstellung der Lebensgrundlagen der Bevölkerung
+- g) Vollzug der Aufträge der KFO
+- h) Information der Bevölkerung und der Medien in Absprache mit der KFO
+- i) Sicherstellung der Massnahmen zur Regeneration.
 
 <sup>2</sup> Nicht betroffene Gemeinden stellen ihre Organisationen für die Nachbarschaftshilfe zur Verfügung.
 
 <sup>3</sup> Bei unterbrochenen Verbindungen zwischen Kanton und Gemeinden übernehmen die Gemeinden im Rahmen ihrer Möglichkeiten die kantonalen Aufgaben und Verantwortlichkeiten.
 
+<sup>4</sup> Soweit die eigenen Mittel und diejenigen der Nachbargemeinden nicht ausreichen, können die betroffenen Gemeinden beim Kanton um weitere Mittel und Leistungen nachsuchen.
+
+<sup>5</sup> Die Gemeinden stellen dem Kanton die für den Einsatz der nachgesuchten Mittel und Leistungen erforderlichen Gebäude oder Grundstücke unentgeltlich zur Verfügung.
+
 #### Art. 14
 
-**Einsatzgrundsätze des Kantons**
+**Aufgaben und Zuständigkeiten der KFO**
 
-<sup>1</sup> Reichen bei bevölkerungsschutzrelevanten Ereignissen die örtlichen Mittel einschliesslich der Nachbarschaftshilfe nicht aus oder ist das Gebiet mehrerer Gemeinden betroffen, kann der Kanton die Führung übernehmen. Der Regierungsrat beauftragt die KFO mit der zivilen Führung.
+<sup>1</sup> Reichen bei bevölkerungsschutzrelevanten Ereignissen die örtlichen Mittel einschliesslich der Nachbarschaftshilfe nicht aus oder ist das Gebiet mehrerer Gemeinden betroffen, kann der Kanton die Führung übernehmen. Der Regierungsrat beauftragt die KFO mit der zivilen Führung, wobei jener insbesondere folgende Aufgaben und Tätigkeiten obliegen:
 
-<sup>2</sup> Die KFO koordiniert den Einsatz der öffentlichen und privaten Organisationen von Kanton und Gemeinden sowie der vom Bund, den Nachbarkantonen und dem Ausland zur Verfügung gestellten Mittel.
+- a) Sicherstellung der operativen Führung
+- b) Lageverbund zwischen dem Kanton, den Gemeinden, den Partnerorganisationen, Dritten, dem Bund, anderen Kantonen und dem grenznahen Ausland
+- c) Lage- und zeitgerechte Erarbeitung der für die Entscheidungen erforderlichen Grundlagen
+- d) Vollzug der Entscheide des Regierungsrates
+- e) Verantwortung für die Planung, Anordnung und Koordination der notwendigen Massnahmen
+- f) Koordination des Einsatzes der öffentlichen und privaten Organisationen sowie der vom Bund, anderen Kantonen und dem Ausland zur Verfügung gestellten Mittel
+- g) Ressourcenmanagement im Kanton
+- h) Koordination der Kommunikation zwischen dem Kanton, den Gemeinden, den Partnerorganisationen, Dritten, anderen Kantonen und dem grenznahen Ausland
+- i) Unterstützung von kantonalen Dienststellen im Bereich der Stabsarbeit.
+
+<sup>2</sup> …
 
 #### Art. 15
 
@@ -179,19 +232,21 @@ Um die vom Bund übertragenen Aufgaben der wirtschaftlichen Landesversorgung zu 
 
 <sup>3</sup> Die Führungsorgane sind befugt, alle Massnahmen zu treffen, die von den ordentlichen Verwaltungsbehörden nicht zeitgerecht angeordnet werden können.
 
+<sup>4</sup> Die KFO kann einzelne oder alle Gemeinden zur Bewältigung von bevölkerungsschutzrelevanten Ereignissen mit Massnahmen beauftragen.
+
 #### Art. 16
 
-**Notstandsfall**
+**Ausserordentliche Lage**
 
-<sup>1</sup> Bei bevölkerungsschutzrelevanten Ereignissen trifft der Regierungsrat alle erforderlichen Massnahmen, wenn nötig in Abweichung von den gesetzlichen Grundlagen und der verfassungsmässigen Kompetenzordnung (Notstandsfall).
+<sup>1</sup> Zusätzlich zu den Art. 13 - 15 sowie 17 - 19 kann der Regierungsrat in einer ausserordentlichen Lage alle erforderlichen Massnahmen, wenn nötig in Abweichung von den gesetzlichen Grundlagen und der verfassungsmässigen Kompetenzordnung, erlassen.
 
-<sup>2</sup> Im Notstandsfall verlängert sich die Amtsdauer der Behörden, bis eine Erneuerungswahl vorgenommen werden kann. Überdies kann der Kantonsrat oder notfalls der Regierungsrat für ausgefallene Ratsmitglieder Ersatzmitglieder bestimmen.
+<sup>2</sup> In einer ausserordentliche Lage verlängert sich die Amtsdauer der Behörden, bis eine Erneuerungswahl vorgenommen werden kann. Überdies kann der Kantonsrat oder notfalls der Regierungsrat für ausgefallene Ratsmitglieder Ersatzmitglieder bestimmen.
 
 #### Art. 17
 
 **Requisition**
 
-<sup>1</sup> Wenn für die Bewältigung von Ereignissen die öffentlichen Mittel nicht ausreichen und die privaten nicht auf andere Art zu annehmbaren Bedingungen beschafft werden können, sind der Regierungsrat und die Gemeinderäte befugt, die erforderlichen Mittel durch Requisition zu beschaffen.
+<sup>1</sup> Wenn für die Bewältigung von bevölkerungsschutzrelevanten Ereignissen die öffentlichen Mittel nicht ausreichen und die privaten nicht auf andere Art zu annehmbaren Bedingungen beschafft werden können, sind der Regierungsrat und die Gemeinderäte befugt, die erforderlichen Mittel durch Requisition zu beschaffen.
 
 <sup>2</sup> Durch die Requisition geht das Verfügungsrecht gegen Entschädigung an die betreffende Behörde über. Die Requisitionsverfügung ist definitiv und sofort vollziehbar.
 
@@ -201,15 +256,15 @@ Um die vom Bund übertragenen Aufgaben der wirtschaftlichen Landesversorgung zu 
 
 **Aufgebot von Einzelpersonen**
 
-Der Regierungsrat oder die Gemeinderäte können für die Unterstützung der Behörden und betroffener Privater alle erforderlichen Einwohnerinnen bzw. Einwohner aufbieten, insbesondere Personen mit besonderer Ausbildung und besonderen Fähigkeiten, soweit nicht Militär- oder Schutzdienstpflicht entgegenstehen.
+<sup>1</sup> Der Regierungsrat oder die Gemeinderäte können für die Unterstützung der Behörden und betroffener Privater alle erforderlichen Einwohnerinnen bzw. Einwohner aufbieten, insbesondere Personen mit besonderer Ausbildung und besonderen Fähigkeiten, soweit nicht Militär- oder Schutzdienstpflicht entgegenstehen oder diese Personen bereits eine systemrelevante Funktion ausüben.
 
 #### Art. 19
 
 **Gesundheitswesen**
 
-Der Regierungsrat kann im Falle eines bevölkerungsschutzrelevanten Ereignisses über die öffentlichen und privaten Spitäler, Kliniken und Heime verfügen und die freie Arzt- und Spitalwahl aufheben.
+<sup>1</sup> Der Regierungsrat kann im Falle eines bevölkerungsschutzrelevanten Ereignisses über die öffentlichen und privaten Spitäler, Kliniken und Heime verfügen und die freie Arzt- und Spitalwahl aufheben.
 
-## D. Kostentragung
+## 4 Kostentragung
 
 #### Art. 20
 
@@ -221,7 +276,9 @@ Der Regierungsrat kann im Falle eines bevölkerungsschutzrelevanten Ereignisses 
 
 <sup>3</sup> Die Kosten der nachbarlichen Hilfe sind von der ersuchenden Gemeinde zu tragen. Vorbehalten bleiben abweichende Regelungen im Rahmen von Zusammenarbeitsvereinbarungen zwischen den Gemeinden.
 
-<sup>4</sup> Die Kosten der durch den Kanton angeforderten Mittel Dritter werden vom Kanton und den vom Ereignis betroffenen Gemeinden im Verhältnis von zwei Dritteln zu einem Drittel bezahlt. Im Streitfall entscheidet der Regierungsrat über die Kostenbeteiligung von Kanton und Gemeinden.
+<sup>4</sup> Die Kosten der durch den Kanton angeforderten Mittel und Leistungen Dritter werden vom Kanton und den vom Ereignis betroffenen Gemeinden im Verhältnis von zwei Dritteln zu einem Drittel bezahlt, wobei die Bestimmungen des Gesetzes über den Brandschutz und die Feuerwehr[^20-1] vorgehen. Im Streitfall entscheidet der Regierungsrat über die Kostenbeteiligung von Kanton und Gemeinden.
+
+[^20-1]: SHR [550.100](https://rechtsbuch.sh.ch/data/550.100/de).
 
 #### Art. 21
 
@@ -249,9 +306,9 @@ Der Regierungsrat kann im Falle eines bevölkerungsschutzrelevanten Ereignisses 
 
 **Entschädigung und Versicherung**
 
-Der Kanton und die Gemeinden entschädigen und versichern die von ihnen aufgebotenen Personen, welche nicht als Arbeitnehmerinnen oder Arbeitnehmer in ihrem Dienst stehen oder vom Zivilschutz zugewiesen werden. Das Nähere regeln der Regierungsrat und die Gemeinderäte jeweils für ihren Zuständigkeitsbereich.
+<sup>1</sup> Der Kanton und die Gemeinden entschädigen und versichern die von ihnen aufgebotenen Personen, welche nicht als Arbeitnehmerinnen oder Arbeitnehmer in ihrem Dienst stehen oder vom Zivilschutz zugewiesen werden. Das Nähere regeln der Regierungsrat und die Gemeinderäte jeweils für ihren Zuständigkeitsbereich.
 
-## E. Rechtspflege
+## 5 Rechtspflege
 
 #### Art. 24
 
@@ -261,56 +318,37 @@ Der Kanton und die Gemeinden entschädigen und versichern die von ihnen aufgebot
 
 <sup>2</sup> Im Ereignisfall kommt Rechtsmitteln gegen Verfügungen nach diesem Gesetz keine aufschiebende Wirkung zu. Wenn dem Betroffenen aus der Vollstreckung der angefochtenen Verfügung ein nicht wiedergutzumachender Nachteil entstünde, kann die Rechtsmittelinstanz dem Rechtsmittel auf Antrag hin aufschiebende Wirkung zuerkennen.
 
-[^24-1]: SHR 172.200.
+[^24-1]: SHR [172.200](https://rechtsbuch.sh.ch/data/172.200/de).
 
 #### Art. 25
 
 **Strafbestimmung**
 
-Wer vorsätzlich oder fahrlässig den Verpflichtungen zuwiderhandelt, die gestützt auf dieses Gesetz oder die Vollzugserlasse verfügt wurden, wird mit Busse bis 10'000 Franken bestraft.
+<sup>1</sup> Wer vorsätzlich oder fahrlässig den Verpflichtungen zuwiderhandelt, die gestützt auf dieses Gesetz oder die Vollzugserlasse verfügt wurden, wird mit Busse bis Fr. 10'000.00 bestraft.
 
-## F. Schlussbestimmungen
+<sup>2</sup> Widerhandlungen gegen die Pflicht zur Erstellung und zum Unterhalt eines Schutzraumes sind nach Art. 89 BZG strafbar.
+
+## 6 Schlussbestimmungen
 
 #### Art. 26
 
 **Änderung bisherigen Rechts**
 
-Die nachstehenden Erlasse werden wie folgt geändert:
+<sup>1</sup> Gesetz über die Einführung des Bundesgesetzes über den Umweltschutz vom 22. Januar 2007[^26-1]:
 
-- a) Polizeigesetz vom 21. Februar 2000[^26-1]:
+Art. 8 Abs. 1
 
-[^26-1]: SHR 354.100.
+Das Interkantonale Labor vollzieht die Störfallverordnung, soweit bestimmte Aufgaben nicht anderen Fachstellen und Behörden gemäss dem kantonalen Bevölkerungsschutzgesetz übertragen werden.
 
-#### Art. 7
-
-Im Katastrophenfall und bei anderen ausserordentlichen Ereignissen kommen überdies die Bestimmungen des kantonalen Bevölkerungsschutzgesetzes zur Anwendung.
-
-- b) Gesundheitsgesetz vom 21. Mai 2002[^7_2-1]:
-
-[^7_2-1]: SHR 810.000.
-
-#### Art. 27
-
-Für die Vorbereitung und Sicherstellung der Gesundheitsversorgung bei bevölkerungsschutzrelevanten Ereignissen gelten die spezialgesetzlichen Regelungen des Bundes und des Kantons, insbesondere des kantonalen Bevölkerungsschutzgesetzes.
-
-- c) Gesetz über die Einführung des Bundesgesetzes über den Umweltschutz vom 22. Januar 2007[^27-1]:
-
-[^27-1]: SHR 814.100.
-
-#### Art. 8
-
-**Abs. 1**
-
-<sup>1</sup> Das Interkantonale Labor vollzieht die Störfallverordnung, soweit bestimmte Aufgaben nicht anderen Fachstellen und Behörden gemäss des kantonalen Bevölkerungsschutzgesetzes übertragen werden.
+[^26-1]: SHR [814.100](https://rechtsbuch.sh.ch/data/814.100/de).
 
 #### Art. 27
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 
 - a) Gesetz über Organisation und Schutzmassnahmen bei ausserordentlichen Ereignissen (Katastrophen- und Nothilfegesetz) vom 26. Juni 1995
-
 - b) Dekret über die Ausrichtung von Beiträgen nach dem Gesetz über Organisation und Schutzmassnahmen bei ausserordentlichen Ereignissen (Beitragsdekret Katastrophen- und Nothilfe) vom 26. Juni 1995
 
 #### Art. 28
@@ -323,7 +361,7 @@ Mit dem Inkrafttreten dieses Gesetzes werden aufgehoben:
 
 <sup>3</sup> Dieses Gesetz ist im Amtsblatt zu veröffentlichen[^28-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
-
 [^28-1]: In Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1899).
 [^28-2]: Amtsblatt 2016, S. 1307.
+
+Abl. 2016, S. 1307, S. 1899
