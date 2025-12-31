@@ -3,18 +3,18 @@ sr: "412.101.221.57"
 title: "Ordonnance du SEFRI du 20 décembre 2010 sur la formation professionnelle initiale d'aide en soins et accompagnement avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/80"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2010-12-20
 in_force: 2010-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/80/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-80-20240401-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/80/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/80/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-80-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/80/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’aide en soins et accompagnement avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 20 décembre 2010 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 20 décembre 2010 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -28,10 +28,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nouvelle teneur selon le ch. I 111 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Section 1 Objet et durée
@@ -47,7 +47,7 @@ Les aides en soins et accompagnement AFP maîtrisent notamment les activités su
 - c. ils respectent la personnalité des clients. En s’appuyant sur les ressources des clients, ils associent ces derniers à leurs activités. Ils effectuent leur travail en fonction des valeurs et des idées directrices de l’organisation qui les emploie;
 - d. ils exercent leurs activités dans le cadre des compétences acquises, des conditions générales légales et des réglementations internes.
 
-[^1-1]: Version du 15 septembre 2011
+[^1-1]: Version du 15 sept. 2011
 
 #### Art. 2
 
@@ -134,8 +134,8 @@ La formation d’aide en soins et accompagnement AFP comprend les compétences o
   - 2\. décrit son comportement, l’évalue et en tire des conclusions pour son comportement futur,
   - 3\. collabore avec l’équipe, connaît les rôles et les responsabilités des membres de l’équipe.
 
-[^4-1]: Version du 15 septembre 2011
-[^4-2]: Version du 15 septembre 2011
+[^4-1]: Version du 15 sept. 2011
+[^4-2]: Version du 15 sept. 2011
 
 ## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
 
@@ -154,7 +154,7 @@ La formation d’aide en soins et accompagnement AFP comprend les compétences o
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^5-1]: Nouvelle teneur selon le ch. II 111 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -168,7 +168,7 @@ La formation d’aide en soins et accompagnement AFP comprend les compétences o
 
 <sup>3</sup> Les cours interentreprises comprennent au total entre 23 et 25 jours de cours, à raison de 8 heures de cours par jour. Durant le dernier semestre de la formation professionnelle initiale, aucun cours interentreprises n’a lieu[^6-1].
 
-[^6-1]: Introduit par la modification du 15 septembre 2011, en vigueur à partir du 1<sup>er</sup> janvier 2012.
+[^6-1]: Introduit par la mod. du 15 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012.
 
 #### Art. 7
 
@@ -209,9 +209,10 @@ En outre, le plan de formation fixe:
 
 **Culture générale**
 
-L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^9-1].
+L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^9-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^9-2].
 
-[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^9-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^9-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 ## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
 
@@ -254,7 +255,7 @@ Les exigences minimales posées aux formateurs au sens de l’art. 44, al. 1, le
 
 <sup>5</sup> Les contrôles de compétence sont sanctionnés par des notes qui sont prises en compte pour le calcul de la note d’expérience au sens de l’art. 17, al. 4.
 
-[^12-1]: Introduit par la modification du 15 septembre 2011, en vigueur à partir du 1<sup>er</sup> janvier 2012.
+[^12-1]: Introduit par la mod. du 15 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012.
 
 #### Art. 13
 
@@ -282,7 +283,7 @@ Est admise aux procédures de qualification la personne qui a suivi la formation
   - 2\. a effectué cette expérience professionnelle dans une occupation correspondant au minimum à 2 ans à 80 % et dans le domaine d’activité des aides en soins et accompagnement AFP[^14-1],
   - 3\. rend crédible son aptitude à satisfaire aux exigences de l’examen final (art. 16).
 
-[^14-1]: Introduit par la modification du 15 septembre 2011, en vigueur à partir du 1<sup>er</sup> janvier 2012.
+[^14-1]: Introduit par la mod. du 15 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012.
 
 #### Art. 15
 
@@ -298,11 +299,12 @@ La procédure de qualification avec examen final porte sur les domaines de quali
 
 - a. travail pratique sous la forme d’un travail pratique individuel (TPI) d’une durée de 3 à 4 heures (entretien professionnel inclus). Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides[^16-1];
 - b. connaissances professionnelles d’une durée de 2 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit[^16-2];
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^16-3].
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^16-3] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^16-4].
 
-[^16-1]: Introduit par la modification du 15 septembre 2011, en vigueur à partir du 1<sup>er</sup> janvier 2012.
-[^16-2]: Introduit par la modification du 15 septembre 2011, en vigueur à partir du 1<sup>er</sup> janvier 2012.
-[^16-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^16-1]: Introduit par la mod. du 15 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012.
+[^16-2]: Introduit par la mod. du 15 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012.
+[^16-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^16-4]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 17
 
@@ -408,7 +410,7 @@ Elle est chargée des tâches suivantes:
 
 [^sec11-1]
 
-[^sec11-1]: Introduit par la modification du 15 septembre 2011, en vigueur à partir du 1<sup>er</sup> janvier 2012.
+[^sec11-1]: Introduit par la mod. du 15 sept. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012.
 
 #### Art. 22
 

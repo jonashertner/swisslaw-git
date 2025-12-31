@@ -3,18 +3,18 @@ sr: "412.101.221.57"
 title: Ordinanza della SEFRI del 20 dicembre 2010 sulla formazione professionale di base Addetta alle cure sociosanitarie/Addetto alle cure sociosanitarie con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/80"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2010-12-20
 in_force: 2010-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/80/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2011-80-20240401-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/80/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/80/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2011-80-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/80/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta alle cure sociosanitarie/ Addetto alle cure sociosanitarie con certificato federale di formazione pratica (CFP)
 
-del 20 dicembre 2010 (Stato 1° aprile 2024)
+del 20 dicembre 2010 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>86913</td><td>Addetta alle cure sociosanitarie CFP/ Addetto alle cure sociosanitarie CFP Assistentin Gesundheit und Soziales EBA/ Assistent Gesundheit und Soziales EBA Aide en soins et accompagnement AFP</td></tr>
@@ -26,11 +26,11 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-5]: Nuovo testo giusta il n. I 111 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
+[^ingress-5]: Nuovo testo giusta la cifra I n. 111 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -153,8 +153,8 @@ La formazione di addetto alle cure sociosanitarie CFP comprende le seguenti comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Nuovo testo giusta il n. II 111 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Nuovo testo giusta la cifra II n. 111 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^5-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -168,7 +168,7 @@ La formazione di addetto alle cure sociosanitarie CFP comprende le seguenti comp
 
 <sup>3</sup> I corsi interaziendali hanno una durata complessiva di 23–25 giornate di otto ore. Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali[^6-1].
 
-[^6-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
+[^6-1]: Introdotto dalla mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 7
 
@@ -209,9 +209,10 @@ Il piano di formazione stabilisce inoltre:
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^9-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^9-2].
 
-[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)**.**
+[^9-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^9-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -254,7 +255,7 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
 
 <sup>5</sup> I controlli delle competenze vengono espressi in note; esse confluiscono nel calcolo della nota dei luoghi di formazione di cui all’articolo 17 capoverso 4.
 
-[^12-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
+[^12-1]: Introdotto dalla mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 13
 
@@ -279,7 +280,7 @@ I requisiti professionali minimi ai sensi dell’articolo 44 capoverso 1 lettere
   - 2\. di tale esperienza professionale ha svolto almeno due anni impiegato all’80 per cento nel campo dell’addetto alle cure sociosanitarie CFP[^14-1];
   - 3\. rende verosimile il possesso dei requisiti per l’esame finale (art. 16).
 
-[^14-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
+[^14-1]: Introdotto dalla mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 15
 
@@ -295,11 +296,12 @@ Nella procedura di qualificazione con esame finale vengono esaminati i campi di 
 
 - a. «lavoro pratico», sotto forma di lavoro pratico individuale con colloquio professionale della durata da tre a quattro ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali[^16-1];
 - b. «conoscenze professionali», della durata di due ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge in forma scritta[^16-2];
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006 sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^16-3].
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 9 aprile 2025[^16-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^16-4].
 
-[^16-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
-[^16-2]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
-[^16-3]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^16-1]: Introdotto dalla mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
+[^16-2]: Introdotto dalla mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
+[^16-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^16-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 17
 
@@ -405,7 +407,7 @@ La Commissione ha i seguenti compiti:
 
 [^sec11-1]
 
-[^sec11-1]: Introdotto con la mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
+[^sec11-1]: Introdotto dalla mod. del 15 set. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5865](https://fedlex.data.admin.ch/eli/oc/2011/809)).
 
 #### Art. 22
 
