@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Mai 2021 für die von der Ausgleichsstelle der Arbeit
 short: ALV-IsV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: de
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2021-337-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-337-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20250601/de"
 
 (ALV-Informationssystemeverordnung, ALV-IsV)
 
-vom 26. Mai 2021 (Stand am 1. Juni 2025)
+vom 26. Mai 2021 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf die Artikel 96c Absatz 3 und 109 des Arbeitslosenversicherungsgese
 
 verordnet:
 
-[^ingress-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^ingress-2]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
-[^ingress-3]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^ingress-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-1]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^ingress-2]: [SR 823.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9938)
+[^ingress-3]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^ingress-4]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
 [^ingress-5]: Fassung gemäss Anhang der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
@@ -49,7 +49,7 @@ Diese Verordnung regelt den Betrieb und die Benützung der Informationssysteme n
 
 <sup>3</sup> Die Verantwortlichen der Stellen und Organe nach Artikel 96*c* AVIG und Artikel 35 AVG stellen sicher, dass den Anwenderinnen und Anwendern der Informationssysteme nur die Berechtigungen gewährt werden, die sie benötigen.
 
-[^2-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^2-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^2-2]: Fassung gemäss Anhang 2 Ziff. II 123 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 #### Art. 3
@@ -70,8 +70,8 @@ Diese Verordnung regelt den Betrieb und die Benützung der Informationssysteme n
 
 <sup>2</sup> Die Ablieferung von digitalen Unterlagen an das Bundesarchiv richtet sich nach dem Archivierungsgesetz vom 26. Juni 1998[^4-2].
 
-[^4-1]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
-[^4-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^4-1]: [SR 837.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10284)
+[^4-2]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 5
 
@@ -120,9 +120,17 @@ Für die Bestimmung der Leistungskennzahlen und die Wirkungsmessung enthalten di
 
 #### Art. 8
 
-**Zweck**
+**Zweck**[^8-1]
 
-Das Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicherung nach Artikel 83 Absatz 1<sup>bis</sup> Buchstabe a AVIG dient der Auszahlung, Abrechnung und Verbuchung von Leistungen der Arbeitslosenversicherung durch die Arbeitslosenkassen.
+Das Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicherung nach Artikel 83 Absatz 1<sup>bis</sup> Buchstabe a AVIG dient im Zusammenhang mit der Ausrichtung von Leistungen der Arbeitslosenversicherung durch die Arbeitslosenkassen den folgenden Aufgaben:
+
+- a. Prüfung;
+- b. Berechnung;
+- c. Auszahlung;
+- d. Abrechnung; und
+- e. Verbuchung.
+
+[^8-1]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 9
 
@@ -166,7 +174,7 @@ Das Informationssystem für die Analyse von Arbeitsmarktdaten nach Artikel 83 Ab
 - c. der Bereitstellung von Leistungs- und Führungskennzahlen für die beteiligten Stellen.
 
 [^12-1]: Fassung gemäss Anhang 3 Ziff. 22 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^12-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^12-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 
 #### Art. 13
 
@@ -189,7 +197,10 @@ Die Daten werden durch die Ausgleichsstelle der Arbeitslosenversicherung überno
 - a. dem Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicherung;
 - b. dem Informationssystem für die öffentliche Arbeitsvermittlung;
 - c. den statistischen Erhebungen sowie den Registern des Bundesamtes für Statistik;
-- d. der Plattform der öffentlichen Arbeitsvermittlung.
+- d. der Plattform der öffentlichen Arbeitsvermittlung;
+- e.[^14-1] der Zugangsplattform für elektronische Dienstleistungen.
+
+[^14-1]: Eingefügt durch Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 15
 
@@ -213,23 +224,33 @@ Die Ausgleichsstelle der Arbeitslosenversicherung sorgt für eine zweckmässige 
 
 <sup>1</sup> Die Zugangsplattform für elektronische Dienstleistungen nach Artikel 83 Absatz 1<sup>bis</sup> Buchstabe d AVIG dient als Kontaktstelle zwischen den Bezügerinnen und Bezügern von Leistungen der Arbeitslosenversicherung oder der öffentlichen Arbeitsvermittlung und den Durchführungsstellen.
 
-<sup>2</sup> Sie dient den Benutzerinnen und Benutzern zur Übermittlung der Daten, die für den Bezug von Leistungen notwendig sind.
+<sup>2</sup>
+
+Sie dient den Benutzerinnen und Benutzern und den Durchführungsstellen zur Übermittlung von Daten, Nachrichten, Informationen und Dokumenten, die notwendig sind für:
+
+- a. die Geltendmachung von Leistungen;
+- b. die Erfüllung der Pflichten nach den Artikeln 17 und 88 Absatz 1 AVIG; und
+- c. die Beratung durch das Regionale Arbeitsvermittlungszentrum.[^17-1]
+
+[^17-1]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 18
 
-**Registrierung**
+**Registrierung**[^18-1]
 
-<sup>1</sup> Wer die Zugangsplattform nutzen will, muss sich registrieren.
+Wer die Zugangsplattform nutzen will, muss sich registrieren und die Nutzungsbedingungen akzeptieren.
 
-<sup>2</sup> Als registriert gilt, wer die allgemeinen Nutzungsbedingungen und die dazugehörige Datenschutzerklärung anerkannt hat.
+[^18-1]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 19
 
 **Datenaustausch**
 
-<sup>1</sup> Die auf der Zugangsplattform hinterlegten Daten werden automatisch an die entsprechenden Informationssysteme der Arbeitslosenversicherung übermittelt.
+<sup>1</sup> Die auf der Zugangsplattform bearbeiteten Daten werden an die entsprechenden Informationssysteme der Arbeitslosenversicherung und der öffentlichen Arbeitsvermittlung übermittelt.[^19-1]
 
 <sup>2</sup> Die Daten, die den Bezügerinnen und Bezügern von Leistungen der Arbeitslosenversicherung und der öffentlichen Arbeitsvermittlung zur Verfügung gestellt werden, stammen aus den in Artikel 83 Absatz 1<sup>bis</sup> Buchstaben a und b AVIG genannten Informationssystemen.
+
+[^19-1]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 20
 
@@ -247,11 +268,11 @@ Die Plattform der öffentlichen Arbeitsvermittlung nach Artikel 83 Absatz 1<sup>
 
 #### Art. 22
 
-**Registrierung**
+**Registrierung**[^22-1]
 
-<sup>1</sup> Wer die Plattform nutzen will, muss sich registrieren.
+Wer die Plattform nutzen will, muss sich registrieren und die Nutzungsbedingungen akzeptieren.
 
-<sup>2</sup> Als registriert gilt, wer die allgemeinen Nutzungsbedingungen und die dazugehörige Datenschutzerklärung anerkannt hat.
+[^22-1]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 23
 
@@ -301,11 +322,11 @@ Anhang 1[^t-1]
 
 (Art. 9)
 
-Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicherung (Art. 83 Abs. 1<sup>bis</sup> Bst. a AVIG): Daten und Zugriffsrechte
+## Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicherung (Art. 83 Abs. 1<sup>bis</sup> Bst. a AVIG) – Daten und Zugriffsrechte
 
-## 1 Abkürzungen
+[^t-1]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
-[^t-1]: Die Bereinigung gemäss Anhang Ziff. II 42 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)) betrifft nur den französischen und italinenischen Text.
+### 1 Abkürzungen
 
 <table>
 <tr><td>AHV Alters- und Hinterlassenenversicherung</td></tr>
@@ -320,91 +341,92 @@ Informationssystem für die Auszahlung von Leistungen der Arbeitslosenversicheru
 <tr><td>IK Individuelles Konto</td></tr>
 <tr><td>IV Invalidenversicherung</td></tr>
 <tr><td>KAE Kurzarbeitsentschädigung</td></tr>
+<tr><td>KAST Kantonale Amtsstelle</td></tr>
 <tr><td>KTG Krankentaggelder</td></tr>
 <tr><td>PLZ Postleitzahl</td></tr>
-<tr><td>RINA Reference Implementation for a National Application</td></tr>
-<tr><td>SB Sachbearbeitung</td></tr>
 <tr><td>SWE Schlechtwetterentschädigung</td></tr>
 <tr><td>UID Unternehmensidentifikation</td></tr>
-<tr><td>UPI Unique Person Identification</td></tr>
 </table>
 
-## 2 Rollenbeschreibung
+### 2 Rollenbeschreibung
 
 <table>
-<tr><td>2.1</td><td>Arbeitslosenkassen</td><td></td></tr>
-<tr><td></td><td>SB ALE</td><td>Sachbearbeitung Leistungsart ALE inklusive Gruppenverantwortlichen und Kontrollverantwortlichen für ALE sowie Sachbearbeitung alle Leistungsarten</td></tr>
-<tr><td></td><td>SB IE</td><td>Sachbearbeitung Leistungsart IE inklusive Gruppenverantwortlichen und Kontrollverantwortlichen für IE sowie Sachbearbeitung alle Leistungsarten</td></tr>
-<tr><td></td><td>SB KS</td><td>Sachbearbeitung Leistungsart KAE/SWE inklusive Gruppenverantwortlichen und Kontrollverantwortlichen für KAE/SWE sowie Sachbearbeitung alle Leistungsarten</td></tr>
-<tr><td></td><td>SB INT</td><td>Sachbearbeitung Internationales</td></tr>
-<tr><td></td><td>SB FIN</td><td>Sachbearbeitung Finanzen</td></tr>
-<tr><td>2.2</td><td>ALV-Ausgleichsstelle</td><td></td></tr>
-<tr><td></td><td>SB INT</td><td>Sachbearbeitung Internationales</td></tr>
-<tr><td></td><td>SB REV</td><td>Sachbearbeitung Revision: für alle Leistungsarten inklusive AMM</td></tr>
-<tr><td></td><td>SB JD</td><td>Sachbearbeitung Juristischer Dienst: für alle Leistungsarten inklusive AMM</td></tr>
-<tr><td></td><td>SB SUP</td><td>Sachbearbeitung Fach- und Applikationssupport ALV-Ausgleichsstelle sowie externe Partner der ALV-Ausgleichsstelle</td></tr>
-<tr><td></td><td>SB FIN</td><td>Sachbearbeitung Finanzen</td></tr>
+<tr><td>Rollen</td><td>Beschreibung</td></tr>
+<tr><td>Arbeitslosenkassen</td><td></td></tr>
+<tr><td>ALE</td><td>Sachbearbeitung Leistungsart ALE inklusive Gruppenverantwortliche und Kontrollverantwortliche für ALE sowie Sachbearbeitung alle Leistungsarten</td></tr>
+<tr><td>IE</td><td>Sachbearbeitung Leistungsart IE inklusive Gruppenverantwortliche und Kontrollverantwortliche für IE sowie Sachbearbeitung alle Leistungsarten</td></tr>
+<tr><td>KS</td><td>Sachbearbeitung Leistungsart KAE/SWE inklusive Gruppenverantwortliche und Kontrollverantwortliche für KAE/SWE sowie Sachbearbeitung alle Leistungsarten</td></tr>
+<tr><td>INT</td><td>Sachbearbeitung Internationales</td></tr>
+<tr><td>FIN</td><td>Sachbearbeitung Finanzen</td></tr>
+<tr><td>KAST</td><td></td></tr>
+<tr><td>KAST</td><td>Sachbearbeitung KAST Leistungsart KAE/SWE</td></tr>
+<tr><td>ALV-Ausgleichsstelle</td><td></td></tr>
+<tr><td>INT</td><td>Sachbearbeitung Internationales</td></tr>
+<tr><td>REV</td><td>Sachbearbeitung Revision: für alle Leistungsarten inklusive AMM</td></tr>
+<tr><td>JD</td><td>Sachbearbeitung Juristischer Dienst: für alle Leistungsarten inklusive AMM</td></tr>
+<tr><td>FIN</td><td>Sachbearbeitung Finanzen</td></tr>
 </table>
 
-## 3. Daten und Zugriffsrechte
+### 3 Daten und Zugriffsrechte
 
 Legende
 
 <table>
-<tr><td>B Bearbeitung von Daten</td></tr>
-<tr><td>A Einsehen von Daten</td></tr>
-<tr><td>– Kein Zugriff</td></tr>
+<tr><td>X Zugriff</td></tr>
+<tr><td>– kein Zugriff</td></tr>
 </table>
 
 <table>
-<tr><th></th><th colspan="5">Arbeitslosenkassen</th><th colspan="2"></th><th colspan="3">ALV-Ausgleichsstelle</th><th colspan="2"></th><th></th></tr>
-<tr><th></th><th>SB ALE</th><th colspan="2">SB IE</th><th>SB KS</th><th>SB INT</th><th colspan="2">SB FIN</th><th>SB INT</th><th>SB FIN</th><th>SB REV</th><th colspan="2">SB JD</th><th>SB SUP</th></tr>
-<tr><td>3.1 Arbeitslosenentschädigung und Internationales</td><td></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>3.1.1 Personendaten der versicherten Person (AHV-Nummer, ALV-Personen-Nummer, Name, Vorname, Geschlecht, Geburtsdatum, Sprache, Zivilstand, Nationalität, Aufenthaltsstatus, Heimatort, Bevollmächtigte/r)</td><td>B</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.2 Adressdaten der versicherten Person (Strasse, Nummer, PLZ, Ort, Telefonnummer, E-Mail-Adresse)</td><td>B</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.3 Daten zu den Kindern der versicherten Person (Anzahl Kinder sowie AHV-Nummer, Name, Vorname, Geschlecht, Geburtsdatum der Kinder)</td><td>B</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.4 Zahlungsverbindung/IBAN der versicherten Person</td><td>B</td><td colspan="2">A</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.5 Daten zur Erwerbstätigkeit und -fähigkeit der versicherten Person (Beschäftigungsgrad, Arbeitsfähigkeit, letztes Arbeitsverhältnis [inklusive Kündigung, Lohnansprüchen und/oder weiteren Leistungen], weitere Einkommen, Beteiligungen, Tätigkeitsnachweise, weitere Anspruchserhebungen)</td><td>B</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.6 Daten zu Versicherungsleistungen bzw. Renten und/oder Taggeldern der versicherten Person (AHV, IV, BVG, KTG, ausländische Sozialversicherung)</td><td>B</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.7 Daten zu Krankheit, Unfall, Schwangerschaft, Militär, Zivildienst und Zivilschutzdienst, Haftaufenthalt und/ oder Aufenthalt in Erziehungseinrichtungen oder Ähnlichem der versicherten Person</td><td>B</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.8 Anspruchsdaten der versicherten Person</td><td>B</td><td colspan="2">A</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.9 Auszahlungsdaten inklusive Einzahlungsdaten zu Rückforderungen (Mahnungen, Betreibungen, Erlassgesuche und Erlasse)</td><td>B</td><td colspan="2">A</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.10 Auszahlungsdaten (Prämien) an die Sozialversicherungen</td><td>B</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">B</td><td>–</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.11 Quellensteuerdaten der versicherten Person</td><td>B</td><td colspan="2">A</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.12 Verfügungen für die versicherte Person</td><td>B</td><td colspan="2">A</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.13 Betriebsdaten für ALE (BUR-Nummer, UID, Name, Rechtsform, Adresse sowie Daten zur Erwerbstätigkeit, zum Anstellungsverhältnis, zum Beteiligungsverhältnis sowie zu Ansprüchen der versicherten Person)</td><td>B</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.14 Angaben der ausländischen Träger und/oder Verbindungsstelle</td><td>A</td><td colspan="2">A</td><td>A</td><td>B</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.1.15 Abrechnungen der ausländischen Verbindungsstelle</td><td>A</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">B</td><td>B</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2 Insolvenzentschädigung</td><td></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>3.2.1 Personendaten der versicherten Person (s. 3.1.1)</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.2 Adressdaten der versicherten Person (s. 3.1.2)</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.3 Zahlungsverbindung/IBAN der versicherten Person</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.4 Daten zur Erwerbstätigkeit der versicherten Person (Dauer des Arbeitsverhältnisses, letzter Arbeitstag, Tätigkeit, Beschäftigungsgrad, Lohn- und sonstige Forderungen [inklusive Vorschüssen], Ferienansprüche)</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.5 Daten zu Krankheit, Unfall, Schwangerschaft, Militär, Zivildienst und Zivilschutzdienst der versicherten Person</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.6 Anspruchsdaten der versicherten Person</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.7 Daten zu AMM der versicherten Person</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.8 Auszahlungsdaten inklusive Einzahlungsdaten zu Rückforderungen (Mahnungen, Betreibungen, Erlassgesuche und Erlasse)</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.9 Auszahlungsdaten (Prämien) an die Sozialversicherungen</td><td>B</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">B</td><td>–</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.10 Quellensteuerdaten der versicherten Person</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.11 Verfügungen für die versicherte Person</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.2.12 Betriebsdaten für IE (BUR-Nummer, UID, Name, Rechtsform, Adresse sowie Daten zur Erwerbstätigkeit, zum Anstellungsverhältnis sowie zu Ansprüchen der versicherten Person, Daten zur Abrechnung an die Sozialversicherungen)</td><td>A</td><td colspan="2">B</td><td>A</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.3 Kurzarbeits-/Schlechtwetterentschädigung</td><td></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>3.3.1 Betriebsdaten für KAE/SWE (BUR-Nummer, UID, Name, Rechtsform, Adresse, Ansprechpartner, Personalbestand, betroffene Arbeitnehmerinnen und Arbeitnehmer, Umfang der Kurzarbeit, Ausgleichskasse, Fragebogen [zu Vorstellung der Firma, Auftragslage und Geschäftsgang, Begründung der Kurzarbeit und Ausblick])</td><td>A</td><td colspan="2">A</td><td>B</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.3.2 Personendaten der Arbeitnehmerinnen und Arbeitnehmer (AHV-Nummer, ALV-Personen-Nummer, Name, Vorname, Geschlecht, Geburtsdatum)</td><td>A</td><td colspan="2">A</td><td>B</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.3.3 Anspruchsdaten inklusive Rückforderungen des Betriebs</td><td>A</td><td colspan="2">A</td><td>B</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.3.4 Auszahlungsdaten inklusive Rückforderungen, Mahnungen und Betreibungen, Erlassgesuchen und Erlassen des Betriebs</td><td>A</td><td colspan="2">A</td><td>B</td><td>–</td><td colspan="2">B</td><td>–</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.3.5 Verfügungen für den Betrieb</td><td>A</td><td colspan="2">A</td><td>B</td><td>–</td><td colspan="2">B</td><td>–</td><td>–</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
-<tr><td>3.4 Projektkosten für AMM</td><td></td><td colspan="2"></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td>3.4.1 Auszahlungsdaten</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">B</td><td>–</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
+<tr><th></th><th colspan="6">Arbeitslosenkassen</th><th>KAST</th><th colspan="6">ALV-Ausgleichsstelle</th></tr>
+<tr><th></th><th>ALE</th><th>IE</th><th>KS</th><th>INT</th><th colspan="2">FIN</th><th>KAST</th><th>INT</th><th colspan="3">FIN</th><th>REV</th><th>JD</th></tr>
+<tr><td>**3.1** **Arbeitslosenentschädigung und Internationales**</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>3.1.1 Personendaten der versicherten Person (AHV-Nummer, ALV-Personen-Nummer, Name, Vorname, Geschlecht, Geburtsdatum, Sprache, Zivilstand, Nationalität, Aufenthaltsstatus, Heimatort, Bevollmächtigte/-r)</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td><td>B X X</td></tr>
+<tr><td>3.1.2 Adressdaten der versicherten Person (Strasse, Nummer, PLZ, Ort, Telefonnummer, E-Mail-Adresse)</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.3 Daten zu den Kindern der versicherten Person (Anzahl Kinder sowie AHV-Nummer, Name, Vorname, Geschlecht, Geburtsdatum der Kinder)</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.4 Zahlungsverbindung/IBAN der versicherten Person</td><td>X</td><td>–</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.5 Daten zur Erwerbstätigkeit und -fähigkeit der versicherten Person (Beschäftigungsgrad, Arbeitsfähigkeit, letztes Arbeitsverhältnis [inkl. Kündigung, Lohnansprüche und weitere Leistungen], weitere Einkommen, Beteiligungen, Tätigkeitsnachweise, weitere Anspruchserhebungen)</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.6 Daten zu Versicherungsleistungen bzw. Renten und/oder Taggeldern der versicherten Person (AHV, IV, BVG, KTG, ausländische Sozialversicherung)</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.7 Daten zu Krankheit, Unfall, Schwangerschaft, Mutterschaftsurlaub, Urlaub des anderen Elternteils, Betreuungsurlaub Militär, Zivildienst und Zivilschutzdienst, Haftaufenthalt und/oder Aufenthalt in Erziehungseinrichtungen oder Ähnlichem der versicherten Person</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.8 Anspruchsdaten der versicherten Person</td><td>X</td><td>–</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.9 Daten zu AMM der versicherten Person</td><td>X</td><td>–</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.10 Auszahlungsdaten inklusive Einzahlungsdaten zu Rückforderungen (Mahnungen, Betreibungen, Erlassgesuche und Erlasse)</td><td>X</td><td>–</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">X</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.11 Auszahlungsdaten (Prämien) an die Sozialversicherungen</td><td>X</td><td>–</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">X</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.12 Quellensteuerdaten der versicherten Person</td><td>X</td><td>–</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.13 Verfügungen für die versicherte Person</td><td>X</td><td>–</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.14 Betriebsdaten für ALE (BUR-Nummer, UID, Name, Rechtsform, Adresse sowie Daten zur Erwerbstätigkeit, zum Anstellungsverhältnis, zum Beteiligungsverhältnis sowie zu Ansprüchen der versicherten Person)</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.15 Angaben der ausländischen Träger und Verbindungsstelle</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.1.16 Abrechnungen der ausländischen Verbindungsstelle</td><td>X</td><td>–</td><td>–</td><td>X</td><td colspan="2">X</td><td>–</td><td>X</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>**3.2** **Insolvenzentschädigung**</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>3.2.1 Personendaten der versicherten Person (AHV-Nummer, ALV-Personen-Nummer, Name, Vorname, Geschlecht, Geburtsdatum, Sprache, Zivilstand, Nationalität, Aufenthaltsstatus, Heimatort, Bevollmächtigte/-r)</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.2 Adressdaten der versicherten Person (Strasse, Nummer, PLZ, Ort, Telefonnummer, E-Mail-Adresse)</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.3 Zahlungsverbindung/IBAN der versicherten Person</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.4 Daten zur Erwerbstätigkeit der versicherten Person (Dauer des Arbeitsverhältnisses, letzter Arbeitstag, Tätigkeit, Beschäftigungsgrad, Lohn- und sonstige Forderungen [inkl. Vorschüsse], Ferienansprüche)</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.5 Daten zu Krankheit, Unfall, Schwangerschaft, Mutterschaftsurlaub, Urlaub des anderen Elternteils, Betreuungsurlaub, Militär, Zivildienst und Zivilschutzdienst der versicherten Person</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.6 Anspruchsdaten der versicherten Person</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.7 Auszahlungsdaten inklusive Einzahlungsdaten zu Rückforderungen (Mahnungen, Betreibungen, Erlassgesuche und Erlasse)</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">X</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.8 Auszahlungsdaten (Prämien) an die Sozialversicherungen</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">X</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.9 Quellensteuerdaten der versicherten Person</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.10 Verfügungen für die versicherte Person</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.2.11 Betriebsdaten für IE (BUR-Nummer, UID, Name, Rechtsform, Adresse sowie Daten zur Erwerbstätigkeit, zum Anstellungsverhältnis sowie zu Ansprüchen der versicherten Person, Daten zur Abrechnung an die Sozialversicherungen)</td><td>–</td><td>X</td><td>–</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>**3.3** **Kurzarbeits-/Schlechtwetterentschädigung**</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>3.3.1 Betriebsdaten für KAE/SWE (BUR-Nummer, UID, Name, Rechtsform, Adresse, Ansprechpartner/-in, Personalbestand, betroffene Arbeitnehmerinnen und Arbeitnehmer, Umfang der Kurzarbeit, Ausgleichskasse, Fragebogen [zu Vorstellung der Firma, Auftragslage und Geschäftsgang, Begründung der Kurzarbeit und Ausblick])</td><td>–</td><td>–</td><td>X</td><td>–</td><td colspan="2">X</td><td>X</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.3.2 Personendaten der Arbeitnehmerinnen und Arbeitnehmer (AHV-Nummer, ALV-Personen-Nummer, Name, Vorname, Geschlecht, Geburtsdatum)</td><td>–</td><td>–</td><td>X</td><td>–</td><td colspan="2">X</td><td>X</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.3.3 Anspruchsdaten inklusive Rückforderungen des Betriebs</td><td>–</td><td>–</td><td>X</td><td>–</td><td colspan="2">X</td><td>X</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>3.3.4 Auszahlungsdaten inklusive Rückforderungen, Mahnungen und Betreibungen, Erlassgesuchen und Erlassen des Betriebs</td><td>–</td><td>–</td><td>X</td><td>–</td><td colspan="2">X</td><td>X</td><td>–</td><td colspan="3">X</td><td>X</td><td>X</td></tr>
+<tr><td>3.3.5 Verfügungen für den Betrieb</td><td>–</td><td>–</td><td>X</td><td>–</td><td colspan="2">X</td><td>X</td><td>–</td><td colspan="3">–</td><td>X</td><td>X</td></tr>
+<tr><td>**3.4** **Projektkosten für AMM**</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td><td colspan="3"></td><td></td><td></td></tr>
+<tr><td>3.4.1 Auszahlungsdaten</td><td>–</td><td>–</td><td>X</td><td>–</td><td colspan="2">X</td><td>–</td><td>–</td><td colspan="3">X</td><td>X</td><td>X</td></tr>
 </table>
+
+Die Mitarbeitenden der zuständigen Informatik-Stelle verfügen über diejenigen Zugriffsrechte, die zur Erfüllung ihrer jeweiligen Aufgaben notwendig sind.
 
 Anhang 2[^t-2]
 
 (Art. 11)
 
-## Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG): Daten und Zugangsrechte
+## Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG) – Daten und Zugriffsrechte
 
-[^t-2]: Bereinigt gemäss Anhang der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
+[^t-2]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 ### 1 Abkürzungen
 
@@ -419,90 +441,103 @@ Anhang 2[^t-2]
 <tr><td>KAE Kurzarbeitsentschädigung</td></tr>
 <tr><td>KAST Kantonale Amtsstelle</td></tr>
 <tr><td>KB Behörde zur Kontrolle der Einhaltung der Stellenmeldepflicht</td></tr>
-<tr><td>KD Konsularische Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten</td></tr>
-<tr><td>SB Sachbearbeitung</td></tr>
 <tr><td>SH Sozialhilfe</td></tr>
-<tr><td>RINA Reference Implementation for a National Application</td></tr>
-<tr><td>SB Sachbearbeitung</td></tr>
 <tr><td>SWE Schlechtwetterentschädigung</td></tr>
 </table>
 
-### 2. Daten und Zugriffsrechte
+### 2 Rollenbeschreibung
+
+<table>
+<tr><td>Rollen</td><td>Beschreibung</td></tr>
+<tr><td>RAV/LAM/KAST</td><td>Mitarbeitende der regionalen Arbeitsvermittlungszentren (RAV), der Logistikstellen für arbeitsmarktliche Massnahmen (LAM) und der kantonalen Amtsstelle (KAST)</td></tr>
+<tr><td>ALK</td><td>Mitarbeitende der Arbeitslosenkassen</td></tr>
+<tr><td>SH</td><td>Mitarbeitende der Sozialhilfe im Rahmen der IIZ</td></tr>
+<tr><td>IV</td><td>Mitarbeitende der Invalidenversicherung im Rahmen der IIZ</td></tr>
+<tr><td>KB</td><td>Mitarbeitende der Behörde zur Kontrolle der Einhaltung der Stellenmeldepflicht</td></tr>
+</table>
+
+### 3 Daten und Zugriffsrechte
 
 Legende:
 
 <table>
-<tr><td>A Zugriff aufgrund von Bearbeitungsrechten auf alle Fälle</td></tr>
-<tr><td>F Zugriff aufgrund von Bearbeitungsrechten auf eigene Fälle</td></tr>
+<tr><td>X Zugriff auf alle Fälle</td></tr>
+<tr><td>F Zugriff auf eigene Fälle</td></tr>
 <tr><td>– Kein Zugriff</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>KAST</th><th>SH im Rahmen der IIZ</th><th>IV im Rahmen der IIZ</th><th>KD</th></tr>
+<tr><th></th><th>RAV/LAM /KAST</th><th>ALK</th><th>SH</th><th>IV</th></tr>
 <tr><td>Stellensuchende</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Name, Vorname, Adresse, Telefonnummer, Fax, E-Mail-Adresse, Geburtsdatum, Geschlecht, Zivilstand, Nationalität, AHV-Nummer / Sozialversicherungsnummer, Personennummer, Aufenthaltsstatus und -berechtigung</td><td>A</td><td>F</td><td>F</td><td>A</td></tr>
-<tr><td>Anmeldedatum und Anmeldeort, Zuweisungsstopp, Erwerbsstatus und Erwerbssituation, Leistungsbezug/kantonale Arbeitslosenhilfe, zuständige Amtsstellen und -personen</td><td>A</td><td>F</td><td>F</td><td>A</td></tr>
-<tr><td>Berufliche Qualifikationen, Fähigkeiten und Erfahrungen, Lebenslauf, Sprachkenntnisse</td><td>A</td><td>F</td><td>F</td><td>A</td></tr>
-<tr><td>Art und Ausmass der gesuchten Tätigkeit (Verfügbarkeit), Mobilität, Führerausweis, Arbeitsregion, letzter Arbeitgeber und dessen Branche</td><td>A</td><td>F</td><td>F</td><td>A</td></tr>
-<tr><td>Gewünschte Datenfreigabe</td><td>A</td><td>F</td><td>F</td><td>A</td></tr>
-<tr><td>Beginn, Dauer und Höhe des Anspruchs auf Versicherungsleistungen, Rahmenfrist, Beschäftigungsgrade, Langzeitarbeitslosigkeit, ALK/Zahlstelle und deren zuständige SB, Kontrollperiode</td><td>F</td><td>–</td><td>–</td><td>F</td></tr>
-<tr><td>Kontroll- und Beratungstermine (Datum, Zeit, Durchführungsort), Beratungsprotokolle</td><td>F</td><td>–</td><td>F</td><td>F</td></tr>
-<tr><td>Vermittelbarkeit, Qualifizierungsbedarf, für Wiedereingliederung notwendige IS-ALA-Daten, Wiedereingliederungsziele, Wiedereingliederungsaktionen</td><td>F</td><td>F</td><td>F</td><td>F</td></tr>
-<tr><td>Zugewiesene Fachberatung</td><td>F</td><td>F</td><td>F</td><td>F</td></tr>
-<tr><td>Zuweisungen zu Stellenangeboten, Kontaktperson, Zuweisungsresultat</td><td>A</td><td>F</td><td>F</td><td>A</td></tr>
-<tr><td>Matchingresultate</td><td>A</td><td>–</td><td>F</td><td>A</td></tr>
-<tr><td>Art, Dauer und Höhe eines Zwischenverdienstes; Kontaktdaten des Arbeitgebers während des Zwischenverdienstes</td><td>F</td><td>–</td><td>F</td><td>F</td></tr>
+<tr><td>Name, Vorname, Adresse, Telefonnummer, Fax, E-Mail-Adresse, Geburtsdatum, Geschlecht, Zivilstand, Nationalität, AHV-Nummer / Sozialversicherungsnummer, Personennummer, Aufenthaltsstatus und -berechtigung</td><td>X</td><td>F</td><td>F</td><td>F</td></tr>
+<tr><td>Anmeldedatum und Anmeldeort, Zuweisungsstopp, Erwerbsstatus und Erwerbssituation, Leistungsbezug/kantonale Arbeitslosenhilfe, zuständige Amtsstellen und -personen</td><td>X</td><td>F</td><td>F</td><td>F</td></tr>
+<tr><td>Berufliche Qualifikationen, Fähigkeiten und Erfahrungen, Lebenslauf, Sprachkenntnisse</td><td>X</td><td>–</td><td>F</td><td>F</td></tr>
+<tr><td>Art und Ausmass der gesuchten Tätigkeit (Verfügbarkeit), Mobilität, Führerausweis, Arbeitsregion, letzter Arbeitgeber und dessen Branche</td><td>X</td><td>F</td><td>F</td><td>F</td></tr>
+<tr><td>Gewünschte Datenfreigabe</td><td>X</td><td>–</td><td>F</td><td>F</td></tr>
+<tr><td>Beginn, Dauer und Höhe des Anspruchs auf Versicherungsleistungen, Rahmenfrist, Beschäftigungsgrade, Langzeitarbeitslosigkeit, ALK/Zahlstelle und deren zuständigen Mitarbeitenden, Kontrollperiode</td><td>F</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Kontroll- und Beratungstermine (Datum, Zeit, Durchführungsort), Beratungsprotokolle</td><td>F</td><td>–</td><td>–</td><td>F</td></tr>
+<tr><td>Vermittelbarkeit, Qualifizierungsbedarf, für Wiedereingliederung notwendige IS-ALA-Daten, Wiedereingliederungsziele, Wiedereingliederungsaktionen</td><td>F</td><td>–</td><td>F</td><td>F</td></tr>
+<tr><td>Zugewiesene Fachberatung</td><td>F</td><td>–</td><td>F</td><td>F</td></tr>
+<tr><td>Zuweisungen zu Stellenangeboten, Kontaktperson, Zuweisungsresultat</td><td>X</td><td>–</td><td>F</td><td>F</td></tr>
+<tr><td>Matching-Resultate</td><td>X</td><td>–</td><td>–</td><td>F</td></tr>
+<tr><td>Art, Dauer und Höhe eines Zwischenverdienstes; Kontaktdaten des Arbeitgebers während des Zwischenverdienstes</td><td>F</td><td>F</td><td>–</td><td>F</td></tr>
 <tr><td>Art, Dauer, Durchführungsort und Kosten einer AMM (Titel der Massnahme, Anbieter, Beginn und Ende, Anwesenheitspflicht, Verantwortlicher LAM, Zielgruppen, Mindestvoraussetzungen, Durchführungsort, verantwortliche Person), für AMM notwendige Daten Stellensuchender, für AMM notwendige IS-ALA-Daten</td><td>F</td><td>F</td><td>F</td><td>F</td></tr>
-<tr><td>Leistungsexporte</td><td>F</td><td>F</td><td>F</td><td>–</td></tr>
-<tr><td>Arbeitsbemühungen (Kontrollperiode, Personalberaterin oder Personalberater), Nachweisbefreiung</td><td>F</td><td>F</td><td>F</td><td>–</td></tr>
-<tr><td>Grund, Beginn und Dauer von Sanktionen, Vermittlungsfähigkeit</td><td>F</td><td>–</td><td>F</td><td>–</td></tr>
+<tr><td>Leistungsexporte</td><td>F</td><td>–</td><td>F</td><td>F</td></tr>
+<tr><td>Arbeitsbemühungen (Kontrollperiode, Personalberater/-in), Nachweisbefreiung</td><td>F</td><td>F</td><td>F</td><td>F</td></tr>
+<tr><td>Grund, Beginn und Dauer von Sanktionen, Vermittlungsfähigkeit</td><td>F</td><td>F</td><td>–</td><td>F</td></tr>
 <tr><td>Abmeldedatum und Abmeldegrund, Arbeitsbeginn, neuer Arbeitgeber, neuer Arbeitskanton, Branche und gefundener Beruf</td><td>F</td><td>F</td><td>F</td><td>F</td></tr>
 </table>
 
 <table>
-<tr><th></th><th>KAST</th><th colspan="3">SH im Rahmen der IIZ</th><th colspan="2">IV im Rahmen der IIZ</th><th colspan="2">KD</th><th colspan="2">KB</th></tr>
-<tr><td>Unternehmen</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
-<tr><td>Name, Adresse, Telefonnummer, Fax, E-Mail-Adresse, Webadresse, Branche, Unternehmensstatus, Verweiser-Nummer</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>BUR-Daten (BUR-Nummer, Adresse, Telefonnummer, Rechtsform, Betriebsgrösse, Wirtschaftsstatus, Arbeitssprache), Handelsregisterdaten</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>Kontaktpersonen (Funktion, Stellung, Sprache, Adresse, Telefonnummer, Fax, E-Mail-Adresse)</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>Vereinbarung zur Zusammenarbeit, Geschäftstätigkeit, Erreichbarkeit</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>Beschäftigte Berufsgruppen</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>Geschäftsgang (Zeitraum, Stellen, durch RAV besetzte Stellen, KAE, SWE, Anzahl beschäftigte Stellensuchende, Zuschüsse)</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>Ausgeschriebene Stellen, Zuweisungen, Stellenmeldung, Stellenabmeldung (Grund, Datum), Stellenbezeichnung, Arbeitsbedingungen (Antritt, Dauer, Beschäftigungsgrad, Lohn, Örtlichkeit), Tätigkeit, Stellenanforderungen (Qualifikation, Erfahrung, Ausbildungsniveau, Abschluss), erforderliche Sprachkenntnisse, Kontaktperson</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>Bestätigung des Eingangs der Meldungen nach Art. 53*b* Abs. 4 der Arbeitsvermittlungsverordnung vom 16. Januar 1991[^annex2-lvlu1-lvl2-1] (Name und Adresse des Unternehmens)</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td>A</td></tr>
-<tr><td>Matchingresultate</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
-<tr><td>Beginn, Dauer und Höhe des Anspruchs auf Versicherungsleistungen, zuständige Amtsstellen und -personen, Betriebsabteilung, Anzahl der betroffenen Arbeitnehmerinnen und Arbeitnehmer</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
+<tr><th></th><th>RAV/LAM / KAST</th><th>ALK</th><th>SH</th><th>IV</th><th>KB</th></tr>
+<tr><td>Unternehmen</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Name, Adresse, Telefonnummer, Fax, E-Mail-Adresse, Webadresse, Branche, Unternehmensstatus, Verweiser-Nummer</td><td>X</td><td>F</td><td>F</td><td>X</td><td>–</td></tr>
+<tr><td>BUR-Daten (BUR-Nummer, Adresse, Telefonnummer, Rechtsform, Betriebsgrösse, Wirtschaftsstatus, Arbeitssprache), Handelsregisterdaten</td><td>X</td><td>F</td><td>F</td><td>X</td><td>–</td></tr>
+<tr><td>Kontaktpersonen (Funktion, Stellung, Sprache, Adresse, Telefonnummer, Fax, E-Mail-Adresse)</td><td>X</td><td>–</td><td>F</td><td>X</td><td>–</td></tr>
+<tr><td>Vereinbarung zur Zusammenarbeit, Geschäftstätigkeit, Erreichbarkeit</td><td>X</td><td>–</td><td>F</td><td>X</td><td>–</td></tr>
+<tr><td>Beschäftigte Berufsgruppen</td><td>X</td><td>X</td><td>F</td><td>X</td><td>–</td></tr>
+<tr><td>Geschäftsgang (Zeitraum, Stellen, durch RAV besetzte Stellen, KAE, SWE, Anzahl beschäftigte Stellensuchende, Zuschüsse)</td><td>X</td><td>–</td><td>F</td><td>X</td><td>–</td></tr>
+<tr><td>Ausgeschriebene Stellen, Zuweisungen, Stellenmeldung, Stellenabmeldung (Grund, Datum), Stellenbezeichnung, Arbeitsbedingungen (Antritt, Dauer, Beschäftigungsgrad, Lohn, Örtlichkeit), Tätigkeit, Stellenanforderungen (Qualifikation, Erfahrung, Ausbildungsniveau, Abschluss), erforderliche Sprachkenntnisse, Kontaktperson</td><td>X</td><td>–</td><td>F</td><td>X</td><td>–</td></tr>
+<tr><td>Bestätigung des Eingangs der Meldungen nach Artikel 53*b* Absatz 4 der Arbeitsvermittlungsverordnung vom 16. Januar 1991[^annex2-lvlu1-lvl3-1] (Name und Adresse des Unternehmens)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>X</td></tr>
+<tr><td>Matching-Resultate</td><td>X</td><td>–</td><td>–</td><td>X</td><td>–</td></tr>
+<tr><td>Beginn, Dauer und Höhe des Anspruchs auf Versicherungsleistungen, zuständige Amtsstellen und -personen, Betriebsabteilung, Anzahl der betroffenen Arbeitnehmerinnen und Arbeitnehmer</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl2-1]: [SR 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
+Die Mitarbeitenden der zuständigen Informatik-Stelle verfügen über diejenigen Zugriffsrechte, die zur Erfüllung ihrer jeweiligen Aufgaben notwendig sind.
 
-Anhang 3
+[^annex2-lvlu1-lvl3-1]: [SR 823.111](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9940)
+
+Anhang 3[^t-3]
 
 (Art. 20 und 25)
 
-## Zugangsplattform für elektronische Dienstleistungen und Plattform der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. d und e AVIG): Funktionen und Zugriffsrechte
+## Zugangsplattform für elektronische Dienstleistungen und Plattform der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. d und e AVIG) – Funktionen und Zugriffsrechte
 
-### 1. Abkürzungen
+[^t-3]: Fassung gemäss Anhang der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+
+### 1 Abkürzungen
 
 <table>
 <tr><td>AMM Arbeitsmarktliche Massnahmen</td></tr>
 <tr><td>RAV Regionale Arbeitsvermittlungszentren</td></tr>
+<tr><td>KD Konsularische Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten</td></tr>
 </table>
 
-### 2. Rollenbeschreibung
+### 2 Rollenbeschreibung
 
 <table>
-<tr><td>Rollen</td><td>Beschreibung</td></tr>
+<tr><th>Rollen</th><th>Beschreibung</th></tr>
 <tr><td>Anonym</td><td>Benutzerinnen und Benutzer ohne Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
-<tr><td>STES</td><td>Beim RAV aktiv gemeldete stellensuchende Personen und/oder versicherte Personen mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
+<tr><td>STES</td><td>Beim RAV aktiv gemeldete Stellensuchende und/oder Versicherte mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
+<tr><td>LE</td><td>Leistungsempfänger (Versicherte, die Leistungen der Arbeitslosenversicherung beziehen, evtl. auch zur selben Zeit STES)</td></tr>
 <tr><td>Arbeitgeber</td><td>Arbeitgeber mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
 <tr><td>pAV</td><td>Private Arbeitsvermittler und Personalverleihunternehmen (Verleiher) mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
-<tr><td>öAV</td><td>Mitarbeiterinnen und Mitarbeiter der öffentlichen Arbeitsvermittlung mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
-<tr><td>SYS-Admin</td><td>Beauftragte Informatikentwicklung mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
+<tr><td>öAV</td><td>Mitarbeitende der öffentlichen Arbeitsvermittlung mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
 <tr><td>AMM-Anbieter</td><td>Anbieter von AMM mit Zugangskonto auf der Plattform der öffentlichen Arbeitsvermittlung</td></tr>
+<tr><td>KD</td><td>Mitarbeitende der konsularischen Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten</td></tr>
 </table>
 
-### 3. Funktionen und Zugriffsrechte
+### 3 Funktionen und Zugriffsrechte
 
 Legende:
 
@@ -512,23 +547,24 @@ Legende:
 </table>
 
 <table>
-<tr><th>Funktionen</th><th colspan="7">Rollen</th></tr>
-<tr><th></th><th>Anonym</th><th>STES</th><th>Arbeitgeber</th><th>pAV</th><th>SYS-Admin</th><th>öAV</th><th>AMM-Anbieter</th></tr>
-<tr><td>Kandidatinnen und Kandidaten suchen</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Personalien und Kontaktdaten der Kandidatinnen und Kandidaten einsehen</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td></tr>
-<tr><td>Kandidatinnen und Kandidaten kontaktieren</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Stellen melden</td><td>X</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Stellen bewirtschaften</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Stellen suchen</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Auf die Dienstleistungen rund um die Stellensuche zugreifen</td><td>–</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
-<tr><td>Auf den Informationsvorsprung zugreifen</td><td>–</td><td>X</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td></tr>
-<tr><td>Persönliche Arbeitsbemühungen nachweisen</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Bewerbungsunterlagen einreichen</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Angaben der versicherten Person einreichen</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Voranmeldung Kurzarbeit einreichen</td><td>X</td><td>–</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td></tr>
-<tr><td>Antrag und Abrechnung Kurzarbeitsentschädigung einreichen</td><td>–</td><td>–</td><td>X</td><td>X</td><td>X</td><td>–</td><td>–</td></tr>
-<tr><td>Anmeldung zur Arbeitsvermittlung</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Daten der Entscheide einsehen (inklusive ausgewählter Daten von Stellensuchenden)</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td></tr>
-<tr><td>Dokumente im Zusammenhang mit AMM herunterladen und hochladen</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td></tr>
-<tr><td>System verwalten</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>X</td><td>–</td></tr>
+<tr><th>Funktionen</th><th colspan="8">Rollen</th></tr>
+<tr><th></th><th>Anonym</th><th>STES</th><th>LE</th><th>Arbeitgeber</th><th>pAV</th><th>öAV</th><th>AMM-Anbieter</th><th>KD</th></tr>
+<tr><td>Kandidatinnen und Kandidaten suchen</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Personalien und Kontaktdaten der Kandidatinnen und Kandidaten einsehen</td><td>–</td><td>–</td><td>–</td><td>–</td><td>X</td><td>–</td><td>–</td><td>X</td></tr>
+<tr><td>Kandidatinnen und Kandidaten kontaktieren</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td></tr>
+<tr><td>Stellen melden</td><td>X</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td></tr>
+<tr><td>Stellen bewirtschaften</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td></tr>
+<tr><td>Stellen suchen</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Auf die Dienstleistungen rund um die Stellensuche zugreifen</td><td>–</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>Auf den Informationsvorsprung zugreifen</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td><td>–</td><td>–</td></tr>
+<tr><td>Persönliche Arbeitsbemühungen nachweisen</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Bewerbungsunterlagen einreichen</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Formular «Angaben der versicherten Person» einreichen</td><td>–</td><td>–</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Voranmeldung Kurzarbeit einreichen</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td></tr>
+<tr><td>Antrag und Abrechnung Kurzarbeitsentschädigung einreichen</td><td>–</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td></tr>
+<tr><td>Anmeldung zur Arbeitsvermittlung</td><td>X</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Daten der Entscheide einsehen (inkl. ausgewählter Daten von Stellensuchenden)</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td></tr>
+<tr><td>Dokumente im Zusammenhang mit AMM herunterladen und hochladen</td><td>–</td><td>X</td><td>X</td><td>–</td><td>–</td><td>X</td><td>X</td><td>–</td></tr>
 </table>
+
+Die Mitarbeitenden der zuständigen Informatik-Stelle verfügen über diejenigen Zugriffsrechte, die zur Erfüllung ihrer jeweiligen Aufgaben notwendig sind.
