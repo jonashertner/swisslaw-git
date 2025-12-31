@@ -3,20 +3,19 @@ canton: BL
 number: "158.12"
 title: Verordnung über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen
 language: de
-version: 2024-09-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-19
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2010-03-23
 in_force: 2010-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/158.12"
-pdf: "https://bl.clex.ch/api/de/versions/3912/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4373/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen
 
-Vom 23.03.2010 (Stand 01.09.2024)
+Vom 23.03.2010 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -135,7 +134,7 @@ beschliesst:
 
 **Veterinärdienstliche Expertinnen und Experten**
 
-<sup>1</sup> Die zur Abklärung von speziellen Sachverhalten und zur Prüfung von speziellen Tierhaltungen zugezogenen Fachleute erhalten pro Stunde eine Vergütung von CHF 100.–.
+<sup>1</sup> Die zur Abklärung von speziellen Sachverhalten und zur Prüfung von speziellen Tierhaltungen zugezogenen Fachleute erhalten pro Stunde eine Vergütung von CHF 150.–.
 
 #### § 8d
 
@@ -143,52 +142,54 @@ beschliesst:
 
 <sup>1</sup> Für Probenerhebungen und Bestandesuntersuchungen, die auf Anordnung der Kantonstierärztin oder des Kantonstierarzts erfolgen, betragen die Vergütungen:
 
-- a. Grundtaxe je Bestand — CHF 33.–;
-- b. Blutprobe je Tier — CHF 9.–;
-- c. Einzelmilchprobe je Tier — CHF 9.–;
-- d. Sammelmilchproben — CHF 20.–;
-- e. Einzelkotproben — CHF 9.–;
-- f. Entnahme von Kotyledonen — CHF 20.–;
-- g. Einsendung von Kadavern oder Kadaverteilen zur Untersuchung — CHF 33.–.
+- a. Grundtaxe je Bestand — CHF 50.–;
+- b. Blutprobe je Tier — CHF 15.–;
+- c. Einzelmilchprobe je Tier — CHF 10.–;
+- d. Tank- oder Kannenmilchprobe — CHF 5.–;
+- e. Einzelkot-/Tupferproben — CHF 10.–;
+- f. Probenahme von Nachgeburt bei Abort — CHF 25.–;
+- g. Einsendung von Kadavern oder Kadaverteilen zur Untersuchung — CHF 33.–;
+- h. Injektionen — CHF 5.–:
+- i. Injektionen bei Impfkampagnen, Reihenimpfungen — CHF 4.–;
+- j. Ausstellung von Zeugnissen/Begleitdokumenten bei seuchenpolizeilichen Massnahmen — CHF 35.–;
+- k. eingeforderte Impfrapporte je geimpftes Tier — CHF 1.–.
 
 <sup>2</sup> Bei der Untersuchung auf Tuberkulose betragen die Vergütungen:
 
-- a. Grundtaxe je Bestand (2 Besuche, inklusive Ausfertigung und Zustellung der Untersuchungsberichte) — CHF 66.–;
-- b. Tuberkulinisierung, falls notwendig mit Doppelprobe, einschliesslich Kontrolle und klinische Untersuchung, je Tier — CHF 9.–.
+- a. Grundtaxe je Bestand (2 Besuche, inklusive Ausfertigung und Zustellung der Untersuchungsberichte) — CHF 100.–;
+- b. Tuberkulinisierung, falls notwendig mit Doppelprobe, einschliesslich Kontrolle und klinische Untersuchung, je Tier — CHF 15.–.
 
-<sup>3</sup> Für angeordnete Schutzimpfungen der geimpften Tiere betragen die Vergütungen:
+<sup>3</sup> …
 
-- a. Grundtaxe je Bestand — CHF 33.–;
-- b. eigentliche Impfung für das 1. Tier — CHF 16.–;
-- c. eigentliche Impfung für jedes weitere Tier — CHF 5.–;
-- d. für eingeforderte Impfrapporte je geimpftes Tier — CHF 1.–;
-- e. die Auslagen für den Impfstoff können zusätzlich in Rechnung gestellt werden.
+<sup>4</sup> In diesen Ansätzen sind Verpackung und Einsendung der Proben, Ausfertigung der Begleitberichte zu den eingesandten Proben sowie die Kennzeichnung von Tieren mit Ohrmarken inbegriffen. Die Mehrwertsteuer ist in den Ansätzen nicht berücksichtigt.
 
-<sup>4</sup> In diesen Beträgen sind Verpackung und Einsendung der Proben, Ausfertigung der Begleitberichte zu den eingesandten Proben sowie die Kennzeichnung von Tieren mit Ohrmarken inbegriffen.
+<sup>5</sup> Versandporti der Proben bzw. der Kadaver können separat in Rechnung gestellt werden. Sie werden nur aufgrund von Rechnungsbelegen vergütet.
 
-<sup>5</sup> Versandporti der Proben bzw. der Kadaver können separat in Rechnung gestellt werden.
+<sup>6</sup> Wird der übliche Zeitaufwand für die Probeentnahmen in Freilaufstallungen erheblich überschritten, kann die Vergütung auf Antrag nach Zeitaufwand mit CHF 200.– pro Stunde erfolgen.
 
-<sup>6</sup> Wird der übliche Zeitaufwand für die Probeentnahmen in Freilaufstallungen erheblich überschritten, erfolgt die Vergütung nach Zeitaufwand mit CHF 140.– pro Stunde.
+<sup>7</sup> Für andere, nicht namentlich erwähnte seuchenpolizeiliche Verrichtungen, wie z. B. Mithilfe bei der Tilgung von Seuchenherden, beträgt die Vergütung CHF 200.– pro Stunde.
 
-<sup>7</sup> Für andere, nicht namentlich erwähnte seuchenpolizeiliche Verrichtungen, wie Mithilfe bei der Tilgung von Seuchenherden, beträgt die Vergütung CHF 140.– pro Stunde.
+<sup>8</sup> In sämtlichen Ansätzen ist die Wegvergütung zwischen mehreren Einsatzorten inbegriffen.
 
-<sup>8</sup> In sämtlichen Beträgen ist die Wegvergütung zwischen mehreren Einsatzorten inbegriffen.
+<sup>9</sup> Auslagen für Impfstoff bei angeordneter Schutzimpfung oder Aufwendungen für Medikamente müssen separat ausgewiesen werden.
 
 #### § 8e
 
 **Amtliche Tierärztinnen und Tierärzte**
 
-<sup>1</sup> Die Vergütung für von amtlichen Tierärztinnen und Tierärzten ausgeführte Tätigkeiten im Auftrag der Kantonstierärztin oder des Kantonstierarzts betragen CHF 140.– pro Stunde.
+<sup>1</sup> Amtliche Tierärztinnen und Tierärzte erhalten für im Auftrag der Kantonstierärztin oder des Kantonstierarzts ausgeführte Tätigkeiten eine Vergütung von CHF 200.– pro Stunde.
 
 <sup>2</sup> Für die Bereitstellung des EDV-Zugangs zur Bundesverwaltung und das regelmässige Selbststudium der einschlägigen gesetzlichen Bestimmungen wird eine Jahrespauschale von CHF 2'500.– entrichtet.
 
+<sup>3</sup> Für angeordnete Kurs- oder Weiterbildungsbesuche sowie die Teilnahme an Sitzungen werden folgende Sätze vergütet:
+
+- a. halbtägige Veranstaltungen — CHF 300.–;
+- b. ganztägige Veranstaltungen — CHF 500.–;
+- c. Sitzung pro Stunde — CHF 80.–.
+
 #### § 8f
 
-**Beurteilung von potenziell gefährlichen Hunden**
-
-<sup>1</sup> Die Expertentätigkeit wird nach effektivem Zeitaufwand pauschal mit CHF 100.– pro Stunde entschädigt.
-
-<sup>2</sup> Mit der Pauschale sind allfällige Auslagen abgegolten.
+**…**
 
 ## 3 Kommissionen
 
