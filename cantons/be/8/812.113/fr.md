@@ -4,13 +4,12 @@ number: "812.113"
 title: Ordonnance de Direction sur les soins hospitaliers
 short: ODSH
 language: fr
-version: 2025-03-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-09
+version: 2026-01-01
+version_adopted: 2025-12-03
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.113"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3128/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3326/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,9 +18,9 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3128/pdf_file"
 
 (ODSH)
 
-du 23.11.2021 (état au 01.03.2025)
+du 23.11.2021 (état au 01.01.2026)
 
-Le directeur de la santé, des affaires sociales et de l’intégration du canton de Berne,
+Le directeur de la santé, des affaires sociales et de l’intégration du canton de Berne
 
 vu l’article 27b, alinéa 1, l’article 31c, alinéa 3, l’article 31e, alinéa 2, l’article 32, alinéa 1, l’article 33, alinéa 3, l’article 34, alinéa 2, l’article 35, alinéa 3 et l’article 48, alinéa 1 de l’ordonnance du 23 octobre 2013 sur les soins hospitaliers (OSH)[^ingress-1],
 
@@ -44,7 +43,7 @@ arrête:
 
 **Coûts d’exploitation normatifs dans le domaine du sauvetage**
 
-<sup>1</sup> Les coûts d’exploitation normatifs s’élèvent à 1'714'969 francs par an et par équipe de sauvetage.
+<sup>1</sup> Les coûts d’exploitation normatifs s’élèvent à 1'759'301 francs par an et par équipe de sauvetage.
 
 <sup>2</sup> Le montant visé à l’alinéa 1 ne comprend pas d’éventuelles indemnités pour des prestations relevant de la loi cantonale du 19 mars 2014 sur la protection de la population et sur la protection civile (LCPPCi)[^2-1].
 

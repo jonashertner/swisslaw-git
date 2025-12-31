@@ -4,13 +4,12 @@ number: "812.113"
 title: Direktionsverordnung über die Spitalversorgung
 short: SpVDV
 language: de
-version: 2025-03-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-09
+version: 2026-01-01
+version_adopted: 2025-12-03
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3128/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3326/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3128/pdf_file"
 
 (SpVDV)
 
-vom 23.11.2021 (Stand 01.03.2025)
+vom 23.11.2021 (Stand 01.01.2026)
 
 Der Direktor der Gesundheits-, Sozial- und Integrationsdirektion des Kantons Bern
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Genormter Betriebsaufwand im Rettungswesen**
 
-<sup>1</sup> Der genormte Betriebsaufwand beträgt 1'714'969 Franken pro Jahr und Rettungsteam.
+<sup>1</sup> Der genormte Betriebsaufwand beträgt 1'759'301 Franken pro Jahr und Rettungsteam.
 
 <sup>2</sup> Allfällige Abgeltungen für Leistungen im Rahmen des kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes vom 19. März 2014 (KBZG)[^2-1] sind im Betrag nach Absatz 1 nicht enthalten.
 
