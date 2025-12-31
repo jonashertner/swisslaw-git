@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordonnance du DFI du 16 décembre 2016 sur les matériaux et objets destinés à entrer en contact avec les denrées alimentaires (Ordonnance sur les matériaux et objets)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250701-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250701/fr"
 
 (Ordonnance sur les matériaux et objets)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -24,7 +24,7 @@ vu les art. 47, al. 5, 49, al. 3 et 4, 51, al. 2, 52, al. 2 et 95, al. 3, de l�
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Section 1 Dispositions générales
 
@@ -38,7 +38,7 @@ arrête:
 
 <sup>3</sup> Les matériaux destinés à entrer en contact avec de l’eau potable sont soumis aux exigences fixées dans l’ordonnance du DFI du 16 décembre 2016 sur l’eau potable et l’eau des installations de baignade et de douche accessibles au public[^1-1].[^1-2]
 
-[^1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^1-1]: [RS 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 [^1-2]: Introduit par le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 2
@@ -212,7 +212,7 @@ En dérogation à l’al. 1, les substances ci-après qui ne figurent pas sur le
 
 <sup>2</sup> En dérogation à l’al. 1, les matériaux et objets en matière plastique destinés à entrer en contact avec des denrées alimentaires pour nourrissons et enfants en bas âge au sens de l’ordonnance du DFI du 16 décembre 2016 sur les aliments pour des personnes avec des besoins particuliers[^12-1] ne peuvent céder leurs constituants aux denrées alimentaires ou aux simulants de denrées alimentaires en des quantités dépassant 60 mg de constituants totaux par kg de denrée alimentaire ou de simulant de denrée alimentaire.
 
-[^12-1]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^12-1]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 13
 
@@ -227,8 +227,8 @@ En dérogation à l’al. 1, les additifs qui sont également admis en tant qu�
 - a. excéder les restrictions prévues dans l’OAdd, dans l’ordonnance sur les arômes ou à l’annexe 2 pour les denrées alimentaires dans lesquelles leur utilisation comme additifs alimentaires ou substances aromatisantes est admise, ou
 - b. excéder les restrictions prévues à l’annexe 2 pour les denrées alimentaires dans lesquelles leur utilisation comme additifs alimentaires ou substances aromatisantes n’est pas admise.[^13-3]
 
-[^13-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^13-2]: [RS 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
+[^13-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^13-2]: [RS 817.022.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9686)
 [^13-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 #### Art. 14
@@ -251,7 +251,7 @@ Les substances visées à l’al. 1, let. b, ne peuvent appartenir à aucune des
 - a. substances classées comme «mutagènes», «cancérogènes» ou «toxiques pour la reproduction» (substances CMR) de catégorie 1A, 1B ou 2, définies à l’annexe 2, ch. 1, de l’ordonnance du 5 juin 2015 sur les produits chimiques (OChim)[^14-1];
 - b. substances produites intentionnellement sous une forme nanométrique.
 
-[^14-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^14-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 15
 
@@ -456,7 +456,7 @@ Pour colorier les parties d’objets mis en contact avec les denrées alimentair
 - d. l’oxyde de chrome(III);
 - e. le cuivre et les alliages de cuivre.
 
-[^29-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^29-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 ## Section 11 Matériaux et objets en silicone
 
@@ -522,7 +522,7 @@ Les encres d’emballage peuvent être fabriquées exclusivement à partir:
 - c. des autres substances pour lesquelles aucune migration dans la denrée alimentaire ou le simulant de denrée alimentaire n’est décelable et qui, conformément à l’annexe 2, ch. 1, OChim[^35-2], ne sont pas classées comme «mutagènes», «cancérogènes» ou «toxiques pour la reproduction» (substances CMR) de catégorie 1A, 1B ou 2; la limite de détection est fixée à 0,01 mg/kg si aucune limite de détection spécifique n’est fixée pour certaines substances ou certains groupes de substances.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^35-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^35-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 35a
 
@@ -588,7 +588,7 @@ Seules les substances suivantes peuvent être utilisées dans des constituants d
 <sup>3</sup> Dans les cas où une limite de migration globale est fixée dans une section spécifique pour le matériau destiné à entrer en contact avec des denrées alimentaires dans lequel le constituant est incorporé, la quantité de substance active libérée n’est pas incluse dans la valeur de la migration globale mesurée.
 
 [^37-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^37-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^37-2]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 38
 
@@ -607,7 +607,7 @@ Afin de permettre au consommateur d’identifier les parties non comestibles si 
 
 <sup>4</sup> Les informations prévues à l’al. 3 sont bien visibles, clairement lisibles et indélébiles. Elles sont imprimées dans un corps de caractères dont la hauteur de x, telle que définie à l’annexe 3 OlDAl est égale ou supérieure à 3 mm.
 
-[^38-1]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^38-1]: [RS 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 39
 
@@ -699,13 +699,9 @@ Les autorisations visées à l’art. 10 de l’ordonnance du DFI du 23 novembre
 
 #### Art. 43a
 
-**Dispositions transitoires relatives à la modification du 23 octobre 2019**[^43a-1]
+[^43a-1]
 
-<sup>1</sup> Les matériaux et objets qui ne sont pas conformes aux exigences de l’annexe 13, ch. 2, de la modification du 23 octobre 2019 peuvent encore être importés, fabriqués, étiquetés et remis aux consommateurs selon l’ancien droit jusqu’au 31 mai 2020.
-
-<sup>2</sup> Les matériaux et objets qui ne sont pas conformes aux autres dispositions de la modification du 23 octobre 2019 peuvent encore être importés, fabriqués et étiquetés selon l’ancien droit jusqu’au 30 novembre 2020. Ils peuvent être remis aux consommateurs jusqu’à épuisement des stocks.
-
-[^43a-1]: Introduit par le ch. I de l’O du DFI du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^43a-1]: Introduit par le ch. I de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 #### Art. 43b
 
@@ -734,6 +730,14 @@ Les autorisations visées à l’art. 10 de l’ordonnance du DFI du 23 novembre
 [^43c-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 [^43c-2]: [RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
 
+#### Art. 43d
+
+**Dispositions transitoires relatives à la modification du 26 novembre 2025**[^43d-1]
+
+Les matériaux et objets qui ne sont pas conformes aux exigences de la modification du 26 novembre 2025 peuvent encore être importés, fabriqués, étiquetés et remis aux consommateurs selon l’ancien droit jusqu’au 1<sup>er</sup> janvier 2027.
+
+[^43d-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+
 #### Art. 44
 
 **Entrée en vigueur**
@@ -746,7 +750,7 @@ Annexe 1
 
 ## Symbole figurant sur les matériaux et objets indiquant l’usage auquel ils sont destinés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/fr/xml/image/image1.png)
 
 Annexe 2[^t-1]
 
@@ -756,8 +760,8 @@ Annexe 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) et le ch. II al. 1 de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Informations générales &gt; Portée de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), le ch. II al. 1 des O de l’OSAV du 2 juin 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Informations générales &gt; Portée de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-2]
 
@@ -765,7 +769,7 @@ Annexe 3[^t-2]
 
 ## Déclaration de conformité des matériaux et objets en matière plastique
 
-[^t-2]: Mise à jour par le ch. II al. 3 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) et le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-2]: Mise à jour par le ch. II al. 3 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) et de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 La déclaration de conformité visée à l’art. 15, al. 2, contient les informations suivantes:
 
@@ -774,12 +778,13 @@ La déclaration de conformité visée à l’art. 15, al. 2, contient les inform
 - c. l’identité des matériaux et objets, des produits issus de stades intermédiaires de la fabrication ou des substances destinées à la fabrication de ces matériaux et objets;
 - d. la date de la déclaration;
 - e. la confirmation de la conformité des matériaux et objets en matière plastique, des produits issus de stades intermédiaires de la fabrication ou des substances aux prescriptions légales applicables;
-- f.
+- f. des informations adéquates permettant aux exploitants d’entreprise en aval de garantir le respect de la présente ordonnance en ce qui concerne les substances utilisées pour lesquelles des restrictions et/ou des spécifications sont énoncées à l’annexe 2, y compris des informations adéquates sur la présence de substances ajoutées involontairement, si elles sont présentes dans une quantité susceptible d’entraîner la non-conformité d’un matériau final avec l’art. 49 LDAl;
+-
 
-  des informations adéquates relatives aux substances utilisées ou à leurs produits de dégradation pour lesquels des restrictions et/ou spécifications sont prévues à l’annexe 2, afin de permettre aux exploitants d’entreprise en aval d’assurer la conformité à l’ordonnance; aux stades intermédiaires de la fabrication, ces informations doivent inclure l’identification et la quantité des substances présentes dans le matériau intermédiaire:
+  aux stades intermédiaires, ces informations doivent inclure l’identification et la quantité des substances ci-après présentes dans le matériau intermédiaire:
 
-  - 1\. qui sont soumises à des restrictions à l’annexe 2, ou
-  - 2\. pour lesquelles la génotoxicité n’a pas été exclue, et qui proviennent d’une utilisation intentionnelle, pendant une étape de la fabrication, de ce matériau intermédiaire et qui pourraient être présentes dans une quantité qui donne vraisemblablement lieu à une migration à partir du matériau final dépassant 0,00015 mg/kg de denrée alimentaire ou simulant de denrée alimentaire;
+  - 1\. les substances qui font l’objet de restrictions et/ou de spécifications aux ch. 2.3.1 et 2.3.2 de l’annexe 2, ou
+  - 2\. les substances pour lesquelles la génotoxicité n’a pas été exclue, qui proviennent d’une utilisation intentionnelle, pendant une étape de la fabrication, de ce matériau intermédiaire et qui pourraient être présentes dans une quantité qui donne vraisemblablement lieu à une migration individuelle, à partir du matériau ou de l’objet en matière plastique final, dans les denrées alimentaires supérieure à 0,00015 mg/kg de denrée alimentaire;
 
 - g. des informations adéquates relatives aux substances faisant l’objet d’une restriction dans les denrées alimentaires, obtenues par des données expérimentales ou un calcul théorique de leur niveau de migration spécifique et, le cas échéant, les critères de pureté conformément à l’OAdd[^annex3-lvlu1-1], pour permettre à l’utilisateur de ces matériaux ou objets de se conformer aux dispositions applicables aux denrées alimentaires;
 - h.
@@ -792,7 +797,7 @@ La déclaration de conformité visée à l’art. 15, al. 2, contient les inform
 
 - i. lorsqu’une barrière fonctionnelle est utilisée dans un matériau ou objet multicouches, la confirmation que le matériau ou l’objet répond aux prescriptions de l’art. 14.
 
-[^annex3-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex3-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 Annexe 4[^t-3]
 
@@ -800,7 +805,7 @@ Annexe 4[^t-3]
 
 ## Règles relatives à l’évaluation de la conformité aux limites de migration des matériaux et objets en matière plastique
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 2 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) et le ch. II al. 2 de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. I al. 2 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) et de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 ### 1 Simulants de denrées alimentaires
 
@@ -1029,7 +1034,7 @@ Pour les capsules, joints, bouchons et autres dispositifs de fermeture, la valeu
 - a. mg/dm<sup>2</sup>, sur la base de la surface de contact totale du dispositif de fermeture et du récipient fermé, si la destination de l’objet est connue;
 - b. mg/objet si la destination de l’objet est inconnue.
 
-[^annex4-lvlu1-lvl2-lvl21-1]: [RS 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^annex4-lvlu1-lvl2-lvl21-1]: [RS 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 ### 2.2 Règles relatives à l’évaluation de la conformité aux limites de migration
 
@@ -1141,7 +1146,7 @@ La denrée alimentaire est traitée conformément aux instructions de cuisson fi
 
 La migration spécifique est analysée dans la denrée alimentaire à l’aide d’une méthode d’analyse conforme aux dispositions de l’art. 46 de l’ordonnance du 16 décembre 2016 sur l’exécution de la législation sur les denrées alimentaires (OELDAl)[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1].
 
-[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [[RO 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116]. Voir actuellement l’O du 27 mai 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [[RO 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RO 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116]. Voir actuellement l’O du 27 mai 2020 ([RS 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)).
 
 ### 2.4.1.4 Prise en compte de substances provenant d’autres sources
 
@@ -1257,7 +1262,7 @@ La conformité du matériau ou de l’objet doit alors être contrôlée sur la 
 
 Cependant, s’il existe une preuve scientifique décisive que le niveau de migration diminue aux deuxième et troisième essais, et si les limites de migration ne sont pas dépassées au premier essai, il n’est pas nécessaire de procéder à un nouvel essai.
 
-En dérogation aux dispositions ci-dessus, un matériau ou objet ne peut jamais être considéré comme conforme si, au premier essai, une substance est détectée, pour laquelle la limite de migration spécifique est fixée à l’annexe 2, tableau 1, colonne 8, ou tableau 2, colonne 4, comme non décelable, ou qui n’apparait pas dans le tableau 1 et qui est utilisée derrière une barrière fonctionnelle en matière plastique conformément à l’art. 14, al. 1 et 2, et qu’elle ne devrait pas migrer en quantités décelables.
+En dérogation aux dispositions ci-dessus, un matériau ou objet ne peut jamais être considéré comme conforme si, au premier essai, une substance est détectée, pour laquelle la limite de migration spécifique est fixée comme non décelable.
 
 ### 2.4.2.1.7Analyse des substances cédées
 
@@ -1550,8 +1555,8 @@ Annexe 10[^t-9]
 
 [^annex10-lvlu1-1]
 
-[^t-9]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) et le ch. II al. 1 de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
-[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Informations générales &gt; Portée de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-9]: Nouvelle teneur selon le ch. I al. 3 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Mise à jour par le ch. II al. 2 de l’O du DFI du 8 déc. 2023 ([RO 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), le ch. I des O de l’OSAV du 29 mai 2024 ([RO 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)) et du 13 nov. 2024 ([RO 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) et le ch. II al. 1 des O de l’OSAV du 2 juin 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^annex10-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Informations générales &gt; Portée de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 11
 
@@ -1559,7 +1564,7 @@ Annexe 11
 
 ## Symbole indiquant «Ne pas manger»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/fr/xml/image/image2.png)
 
 Annexe 12
 
@@ -1601,7 +1606,7 @@ Annexe 13[^t-10]
 
 ## Exigences particulières pour les vernis et les revêtements
 
-[^t-10]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. II al. 2 de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^t-10]: Introduite par le ch. II al. 1 de l’O du DFI du 23 oct. 2019 ([RO 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Mise à jour par le ch. II al. 2 des O de l’OSAV du 2 juin 2025 ([RO 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) et du 26 nov. 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 ### 1. BADGE, BFDGE et NOGE
 
@@ -1642,26 +1647,28 @@ Annexe 13[^t-10]
 
 ### 2 Bisphénol A
 
-- 2\.1 L’utilisation de 2,2-bis(4-hydroxyphényl)propane (BPA, n<sup>o</sup> CAS 80-05-7) et de ses sels dans la fabrication de vernis et de revêtements et la mise sur le marché de matériaux et objets enduits d’un vernis ou d’un revêtement fabriqué à l’aide de BPA sont interdites.
+- 2\.1 Le 2,2-bis(4-hydroxyphényl)propane (BPA, n<sup>o</sup> CAS 80-05-7) et ses sels ne peuvent être utilisés que conformément aux dispositions de l’art. 3, par. 2, et de l’annexe II du règlement (UE) 2024/3190[^annex13-lvlu1-lvl2-1].
 - 2\.2 En dérogation au ch. 2.1, le BPA peut être utilisé comme monomère ou substance de départ dans la fabrication de résines époxy liquides en vue de leur application sur des matériaux ou objets autoporteurs d’une capacité supérieure à 1000 litres. La migration dans les denrées alimentaires ne doit pas être détectable. La limite de détection est fixée à 1 μg/kg de denrée alimentaire. Les objets finis entrant en contact avec des denrées alimentaires sont nettoyés et rincés avant d’être mis en contact pour la première fois avec des denrées alimentaires.
 - 2\.3 Une méthode d’extraction est utilisée pour vérifier qu’un matériau ou un objet ne contient pas de BPA. La limite de détection de la méthode doit être de 1 μg/kg.
+
+[^annex13-lvlu1-lvl2-1]: Règlement (UE) 2024/3190 de la Commission du 19 décembre 2024 relatif à l’utilisation du bisphénol A (BPA) et d’autres bisphénols et dérivés des bisphénols faisant l’objet d’une classification harmonisée en raison de propriétés dangereuses spécifiques dans certains matériaux et objets destinés à entrer en contact avec des denrées alimentaires, modifiant le règlement (UE) n<sup>o</sup> 10/2011 et abrogeant le règlement (UE) 2018/213, version du JO L, 2024/3190, 31.12.2024.
 
 ### 3 Bisphénols et dérivés des bisphénols
 
 - 3\.1 Les structures chimiques sont les suivantes:
 
 <table>
-<tr><td>Bisphénol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image3.png)</td></tr>
-<tr><td>Dérivé des bisphénols:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/fr/xml/image/image4.png)</td></tr>
+<tr><td>Bisphénol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/fr/xml/image/image3.png)</td></tr>
+<tr><td>Dérivé des bisphénols:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/fr/xml/image/image4.png)</td></tr>
 <tr><td colspan="2">X désigne tout groupe de liaison séparant les deux anneaux de phényle par un seul atome. L’atome peut toutefois avoir n’importe quel(s) substituant(s). R<sub>1</sub> à R<sub>10</sub> désignent tout substituant. Au moins un des substituants n’est pas un atome d’hydrogène (H).</td></tr>
 </table>
 
 - 3\.2 Les vernis et les revêtements de matériaux et objets fabriqués à l’aide d’un autre bisphénol ou dérivé des bisphénols ne doivent pas contenir de résidus de 2,2-bis(4-hydroxyphényl)propane (BPA, n<sup>o</sup> CAS 80‑05‑7).
 - 3\.3 Un bisphénol dangereux ou un dérivé dangereux des bisphénols est un bisphénol ou un dérivé des bisphénols répertorié à l’annexe 2, ch. 1, OChim[^annex13-lvlu1-lvl3-1] en raison de sa classification harmonisée dans la catégorie 1A ou 1B «mutagène», «cancérogène», «toxique pour la reproduction» ou la catégorie 1 «perturbateur endocrinien» pour la santé humaine (substance CMRPE).
-- 3\.4 L’utilisation de bisphénols dangereux autres que le BPA ou les dérivés dangereux des bisphénols dans la fabrication de vernis et de revêtements, et la mise sur le marché de matériaux et objets enduits d’un vernis ou d’un revêtement fabriqué à l’aide de bisphénols dangereux autres que le BPA ou de dérivés dangereux des bisphénols sont interdites.
+- 3\.4 Les bisphénols dangereux autres que le BPA ou les dérivés dangereux des bisphénols ne peuvent être utilisés que conformément aux dispositions de l’art. 5, par. 2 et 3, et de l’annexe II du règlement (UE) 2024/3190.
 - 3\.5 Une méthode d’extraction est utilisée pour vérifier qu’un matériau ou un objet ne contient pas de bisphénol dangereux ou de dérivé dangereux des bisphénols. La limite de détection de la méthode doit être de 1 μg/kg.
 
-[^annex13-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex13-lvlu1-lvl3-1]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 Annexe 14[^t-11]
 
@@ -1705,4 +1712,4 @@ La déclaration de conformité visée à l’art. 35*a*, al. 2, contient les inf
 - 8\.2.3 le plus grand rapport entre la surface en contact avec la denrée alimentaire et le volume utilisé pour établir la conformité du matériau ou de l’objet ou des informations équivalentes,
 - 8\.3 les conditions d’utilisation.
 
-[^annex15-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex15-lvlu1-1]: [RS 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)

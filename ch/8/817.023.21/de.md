@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: "Verordnung des EDI vom 16. Dezember 2016 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenständeverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20250701/de"
 
 (Bedarfsgegenständeverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2025)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 47 Absatz 5, 49 Absätze 3 und 4, 51 Absatz 2, 52 Absa
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -38,7 +38,7 @@ verordnet:
 
 <sup>3</sup> Für Trinkwasserkontaktmaterialien gelten die Anforderungen gemäss der Verordnung des EDI vom 16. Dezember 2016[^1-1] über Trinkwasser sowie Wasser in öffentlich zugänglichen Bädern und Duschanlagen.[^1-2]
 
-[^1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/eli/cc/2017/153)
+[^1-1]: [SR 817.022.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9668)
 [^1-2]: Eingefügt durch Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
 
 #### Art. 2
@@ -212,7 +212,7 @@ In Abweichung von Absatz 1 dürfen die nachstehenden, in Anhang 2 nicht aufgefü
 
 <sup>2</sup> Abweichend von Absatz 1 dürfen Bedarfsgegenstände aus Kunststoff, die dazu bestimmt sind, mit für Säuglinge und Kleinkinder vorgesehenen Lebensmitteln gemäss der Verordnung des EDI vom 16. Dezember 2016[^12-1] über Lebensmittel für Personen mit besonderem Ernährungsbedarf in Berührung zu kommen, ihre Bestandteile nicht in Mengen von mehr als 60 mg der gesamten abgegebenen Bestandteile je kg Lebensmittel oder Lebensmittelsimulans an Lebensmittel oder Lebensmittelsimulanzien abgeben.
 
-[^12-1]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^12-1]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 #### Art. 13
 
@@ -227,8 +227,8 @@ In Abweichung von Absatz 1 dürfen Zusatzstoffe, die gemäss der Zusatzstoffvero
 - a. über die in der ZuV, in der Aromenverordnung oder in Anhang 2 festgelegten Beschränkungen für Lebensmittel hinausgehen, für die ihre Verwendung als Lebensmittelzusatzstoff oder Aromastoff zugelassen ist; oder
 - b. über die in Anhang 2 festgelegten Beschränkungen für Lebensmittel hinausgehen, für die ihre Verwendung als Lebensmittelzusatzstoff oder Aromastoff nicht zugelassen ist.[^13-3]
 
-[^13-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
-[^13-2]: [SR 817.022.41](https://fedlex.data.admin.ch/eli/cc/2017/182)
+[^13-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
+[^13-2]: [SR 817.022.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9686)
 [^13-3]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
 
 #### Art. 14
@@ -251,7 +251,7 @@ Die in Absatz 1 Buchstabe b genannten Stoffe dürfen nicht zu einer der folgende
 - a. Stoffe, die gemäss Anhang 2 Ziffer 1 der Chemikalienverordnung vom 5. Juni 2015[^14-1] (ChemV) als «erbgutverändernd», «krebserregend» oder «fortpflanzungsgefährdend» (CMR-Stoffe) der Kategorien 1A, 1B oder 2 eingestuft werden;
 - b. Stoffe, die bewusst in Nanoform hergestellt wurden.
 
-[^14-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^14-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 15
 
@@ -442,7 +442,7 @@ Paraffine und Wachse, die zur Herstellung der unmittelbaren Verpackung von Leben
 - b. frei von kanzerogenen Substanzen sein.
 
 [^28-1]: Fassung gemäss Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
-[^28-2]: Die Publikation ist beim Bundesamt für Bauten und Logistik im Shop Bundespublikationen, 3003 Bern, erhältlich: www.bundespublikationen.ch.
+[^28-2]: Die Publikation ist beim Bundesamt für Bauten und Logistik im Shop Bundespublikationen, 3003 Bern, erhältlich: [www.bundespublikationen.ch](http://www.bundespublikationen.ch).
 
 #### Art. 29
 
@@ -456,7 +456,7 @@ Zum Bemalen der mit Lebensmitteln in Kontakt kommenden Teile von Bedarfsgegenst�
 - d. Chrom-III-oxyd;
 - e. Kupfer und dessen Legierungen.
 
-[^29-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^29-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 ## 11. Abschnitt: Bedarfsgegenstände aus Silikon
 
@@ -522,7 +522,7 @@ Für die Herstellung von Druckfarben dürfen ausschliesslich verwendet werden:
 - c. sonstige Stoffe, deren Migration in ein Lebensmittel oder ein Lebensmittelsimulanz nicht nachweisbar ist und die gemäss Anhang 2 Ziffer 1 ChemV[^35-2] nicht als «erbgutverändernd», «krebserregend» oder «fortpflanzungsgefährdend» (CMR-Stoffe) der Kategorien 1A, 1B oder 2 eingestuft werden; sofern nicht spezifische Nachweisgrenzen für bestimmte Stoffe oder Stoffgruppen festgelegt sind, gilt eine Nachweisgrenze von 0,01 mg/kg.
 
 [^35-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^35-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^35-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 35a
 
@@ -588,7 +588,7 @@ Nur die folgenden Stoffe dürfen in Bestandteilen aktiver und intelligenter Mate
 <sup>3</sup> In den Fällen, für die in einem bestimmten Abschnitt ein Gesamtmigrationsgrenzwert für das Lebensmittelkontaktmaterial vorgesehen ist, in das der Bestandteil integriert wurde, wird die Menge eines freigesetzten aktiven Stoffes nicht in den Wert der gemessenen Gesamtmigration eingerechnet.
 
 [^37-1]: Fassung gemäss Ziff. I der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^37-2]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^37-2]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 #### Art. 38
 
@@ -607,7 +607,7 @@ Damit die Konsumentinnen und Konsumenten nicht essbare Teile erkennen können, s
 
 <sup>4</sup> Die in Absatz 3 vorgeschriebenen Angaben müssen gut sichtbar, deutlich lesbar und unverwischbar sein. Sie werden in einer Schriftgrösse aufgedruckt mit einer x-Höhe nach Anhang 3 LIV von mindestens 3 mm.
 
-[^38-1]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^38-1]: [SR 817.022.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9678)
 
 #### Art. 39
 
@@ -699,13 +699,9 @@ Folgende Bewilligungen gemäss Artikel 10 der Verordnung des EDI vom 23. Novembe
 
 #### Art. 43a
 
-**Übergangsbestimmungen zur Änderung vom 23. Oktober 2019**[^43a-1]
+[^43a-1]
 
-<sup>1</sup> Bedarfsgegenstände, die den Anforderungen von Anhang 13 Ziffer 2 der Änderung vom 23. Oktober 2019 nicht entsprechen, dürfen noch bis 31. Mai 2020 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und an die Konsumentinnen und Konsumenten abgegeben werden.
-
-<sup>2</sup> Die Bedarfsgegenstände, die den übrigen Anforderungen der Änderung vom 23. Oktober 2019 nicht entsprechen, dürfen nach bisherigem Recht noch bis 30. November 2020 eingeführt, hergestellt und gekennzeichnet werden. Sie dürfen noch bis zur Erschöpfung der Bestände an die Konsumentinnen und Konsumenten abgegeben werden.
-
-[^43a-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)).
+[^43a-1]: Eingefügt durch Ziff. I der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 #### Art. 43b
 
@@ -734,6 +730,14 @@ Folgende Bewilligungen gemäss Artikel 10 der Verordnung des EDI vom 23. Novembe
 [^43c-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
 [^43c-2]: [AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)
 
+#### Art. 43d
+
+**Übergangsbestimmungen zur Änderung vom 26. November 2025**[^43d-1]
+
+Bedarfsgegenstände, die den Anforderungen der Änderung vom 26. November 2025 nicht entsprechen, dürfen noch bis zum 1. Januar 2027 nach bisherigem Recht eingeführt, hergestellt, gekennzeichnet und an die Konsumentinnen und Konsumenten abgegeben werden.
+
+[^43d-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+
 #### Art. 44
 
 **Inkrafttreten**
@@ -746,7 +750,7 @@ Anhang 1
 
 ## Symbol zur Bezeichnung des Verwendungszwecks entsprechend gekennzeichneter Bedarfsgegenstände
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image1.png)
 
 Anhang 2[^t-1]
 
@@ -756,8 +760,8 @@ Anhang 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) und Ziff. II Abs. 1 der V vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) und Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
@@ -765,7 +769,7 @@ Anhang 3[^t-2]
 
 ## Konformitätserklärung für Bedarfsgegenstände aus Kunststoff
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 3 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-2]: Bereinigt gemäss Ziff. II Abs. 3 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) und Ziff. II Abs. 2 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 Die in Artikel 15 Absatz 2 genannte Konformitätserklärung enthält folgende Angaben:
 
@@ -774,12 +778,13 @@ Die in Artikel 15 Absatz 2 genannte Konformitätserklärung enthält folgende An
 - c. Identität der Bedarfsgegenstände, der Produkte aus Zwischenstufen der Herstellung oder der Stoffe, die zur Herstellung dieser Bedarfsgegenstände bestimmt sind;
 - d. Datum der Erklärung;
 - e. Bestätigung, dass die Bedarfsgegenstände aus Kunststoff, die Produkte aus Zwischenstufen der Herstellung oder die Stoffe den einschlägigen Gesetzesvorschriften entsprechen;
-- f.
+- f. ausreichende Informationen, die es den nachgelagerten Unternehmern ermöglichen, die Einhaltung der vorliegenden Verordnung hinsichtlich der verwendeten Stoffe sicherzustellen, für die Anhang 2 Beschränkungen und/oder Spezifikationen enthält, einschliesslich ausreichender Informationen über das Vorhandensein unbeabsichtigt zugesetzter Stoffe, wenn sie in einer Menge vorhanden sind, die zur Nichteinhaltung von Artikel 49 LGV bei einem fertigen Material führen könnte,
+-
 
-  ausreichende Informationen zu den verwendeten Stoffen oder deren Abbauprodukten, für die Anhang 2 Beschränkungen und/oder Spezifikationen enthält, damit auch die nachgelagerten Unternehmerinnen oder Unternehmer die Einhaltung der Verordnung sicherstellen; auf der Ebene von Zwischenstufen der Herstellung umfassen diese Angaben die Benennung und die Menge der Stoffe im Zwischenmaterial:
+  auf der Ebene von Zwischenstufen umfassen diese Angaben die Benennung und die Menge der folgenden im Zwischenmaterial enthaltenen Stoffe:
 
-  - 1\. für welche die Beschränkungen gemäss Anhang 2 gelten, oder
-  - 2\. deren Genotoxizität nicht ausgeschlossen worden ist und die aus der beabsichtigten Verwendung auf einer Herstellungsstufe dieses Zwischenmaterials herrühren und die in einer Menge vorhanden sein könnten, bei der eine Migration aus dem fertigen Material von mehr als 0,00015 mg/kg Lebensmittel oder Lebensmittelsimulanz zu erwarten ist;
+  - 1\. Stoffe, für die Beschränkungen und/oder Spezifikationen gemäss Ziff. 2.3.1 und 2.3.2 Anhang 2 gelten oder
+  - 2\. Stoffe, deren Genotoxizität nicht ausgeschlossen worden ist und die aus der beabsichtigten Verwendung auf einer Herstellungsstufe dieses Zwischenmaterials herrühren und in einer Menge vorhanden sein könnten, bei der eine einzelne Migration aus dem fertigen Kunststoffmaterial oder -gegenstand in Lebensmittel von mehr als 0,00015 mg/kg Lebensmittel zu erwarten ist;
 
 - g. ausreichende Informationen über die Stoffe, deren Verwendung in Lebensmitteln einer Einschränkung unterliegt, gewonnen aus Versuchsdaten oder theoretischen Berechnungen über deren spezifische Migrationswerte, sowie gegebenenfalls über Reinheitskriterien gemäss der ZuV[^annex3-lvlu1-1], damit der Anwender oder die Anwenderin dieser Bedarfsgegenstände die einschlägigen Vorschriften für Lebensmittel einhalten kann;
 - h.
@@ -792,7 +797,7 @@ Die in Artikel 15 Absatz 2 genannte Konformitätserklärung enthält folgende An
 
 - i. falls in einem mehrschichtigen Bedarfsgegenstand aus Kunststoff eine funktionelle Barriere aus Kunststoff verwendet wird: Bestätigung, dass der Bedarfsgegenstand den Vorschriften von Artikel 14 entspricht.
 
-[^annex3-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex3-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
 
 Anhang 4[^t-3]
 
@@ -800,7 +805,7 @@ Anhang 4[^t-3]
 
 ## Bestimmungen über die Bewertung der Einhaltung der Migrationsgrenzwerte bei Bedarfsgegenständen aus Kunststoff
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 2 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) und Ziff. II Abs. 2 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 ### 1 Lebensmittelsimulanzien
 
@@ -1029,7 +1034,7 @@ Für Kappen, Dichtungen, Stöpsel und ähnliche Dichtgegenstände wird der Gesam
 - a. mg/dm<sup>2</sup> unter Anwendung der gesamten Kontaktfläche zwischen Dichtgegenstand und abgedichtetem Behältnis, sofern die vorgesehene Verwendung des Gegenstands bekannt ist;
 - b. mg/Gegenstand, sofern die vorgesehene Verwendung des Gegenstands nicht bekannt ist.
 
-[^annex4-lvlu1-lvl2-lvl21-1]: [SR 817.022.104](https://fedlex.data.admin.ch/eli/cc/2017/180)
+[^annex4-lvlu1-lvl2-lvl21-1]: [SR 817.022.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9662)
 
 ### 2.2 Bestimmungen über die Bewertung der Einhaltung der Migrationsgrenzwerte
 
@@ -1257,7 +1262,7 @@ Die Konformität des Bedarfsgegenstands wird anhand der Migration geprüft, die 
 
 Liegt ein schlüssiger wissenschaftlicher Nachweis dafür vor, dass der Migrationswert bei der zweiten und der dritten Prüfung sinkt, und werden die Migrationsgrenzwerte bei der ersten Prüfung nicht überschritten, so ist keine weitere Prüfung erforderlich.
 
-In Abweichung von den obigen Bestimmungen ist ein Bedarfsgegenstand in keinem Fall als konform einzustufen, wenn bei der ersten Prüfung ein Stoff nachgewiesen wird, für den der spezifische Migrationsgrenzwert in Anhang 2 Tabelle 1 Spalte 8 oder Tabelle 2 Spalte 4 als nicht nachweisbar festgelegt ist, oder der nicht in Tabelle 1 aufgeführt ist und hinter einer funktionellen Barriere aus Kunststoff gemäss Artikel 14 Absätze 1 und 2 verwendet wird und nicht in nachweisbaren Mengen migrieren sollte.
+In Abweichung von den obigen Bestimmungen ist ein Bedarfsgegenstand in keinem Fall als konform einzustufen, wenn bei der ersten Prüfung ein Stoff nachgewiesen wird, für den der spezifische Migrationsgrenzwert als nicht nachweisbar festgelegt ist.
 
 ### 2.4.2.1.7Analyse der migrierenden Stoffe
 
@@ -1544,8 +1549,8 @@ Anhang 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)) und Ziff. II Abs. 1 der V vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
-[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/395](https://fedlex.data.admin.ch/eli/oc/2025/395) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)), Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)), vom 13. Nov. 2024 ([AS 2024 755](https://fedlex.data.admin.ch/eli/oc/2024/755)), Ziff. II Abs. 1 der V vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) und Ziff. II Abs. 1 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
+[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/812](https://fedlex.data.admin.ch/eli/oc/2025/812) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11
 
@@ -1553,7 +1558,7 @@ Anhang 11
 
 ## Symbol «NICHT ESSBAR»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image2.png)
 
 Anhang 12
 
@@ -1595,7 +1600,7 @@ Anhang 13[^t-8]
 
 ## Besondere Anforderungen für Lacke und Beschichtungen
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)).
+[^t-8]: Eingefügt durch Ziff. II Abs. 1 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. II Abs. 2 der V des BLV vom 2. Juni 2025 ([AS 2025 395](https://fedlex.data.admin.ch/eli/oc/2025/395)) und Ziff. II Abs. 2 der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 812](https://fedlex.data.admin.ch/eli/oc/2025/812)).
 
 ### 1. BADGE, BFDGE und NOGE
 
@@ -1636,26 +1641,28 @@ Anhang 13[^t-8]
 
 ### 2 Bisphenol A
 
-- 2\.1 Sowohl die Verwendung von 2,2-Bis-(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80‑05‑7) und seinen Salzen bei der Herstellung von Lacken und Beschichtungen als auch das Inverkehrbringen von lackierten oder beschichteten Bedarfsgegenständen, deren Lacke oder Beschichtungen unter Verwendung von BPA hergestellt wurden, sind verboten.
+- 2\.1 2,2-Bis(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80‑05‑7) und seine Salze dürfen nur gemäss den Bestimmungen von Artikel 3 Absatz 2 und Anhang II der Verordnung (EU) 2024/3190[^annex13-lvlu1-lvl2-1] verwendet werden.
 - 2\.2 Abweichend von Ziffer 2.1 darf BPA als Monomer oder Ausgangsstoff bei der Herstellung flüssiger Epoxidharze, die auf selbsttragende Bedarfsgegenstände mit einem Fassungsvermögen von mehr als 1000 Litern aufgebracht werden, eingesetzt werden. Eine Migration in Lebensmittel darf nicht nachweisbar sein. Es gilt eine Nachweisgrenze von 1 μg/kg Lebensmittel. Fertige Lebensmittelkontaktgegenstände sind vor dem ersten Kontakt mit Lebensmitteln zu reinigen und zu spülen.
 - 2\.3 Um zu überprüfen, ob ein Bedarfsgegenstand kein BPA enthält, ist eine Extraktionsmethode anzuwenden. Die Nachweisgrenze der Methode muss 1 μg/kg betragen.
+
+[^annex13-lvlu1-lvl2-1]: Verordnung (EU) 2024/3190 der Kommission vom 19. Dezember 2024 über die Verwendung von Bisphenol A (BPA) und anderen Bisphenolen und Bisphenolderivaten, die aufgrund spezifischer gefährlicher Eigenschaften eine harmonisierte Einstufung erhalten haben, in bestimmten Materialien und Gegenständen, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen, zur Änderung der Verordnung (EU) Nr. 10/2011 und zur Aufhebung der Verordnung (EU) 2018/213, Fassung gemäss ABl. L, 2024/3190, 31.12.2024.
 
 ### 3 Bisphenole und Bisphenolderivate
 
 - 3\.1 Es gelten folgende chemische Strukturen:
 
 <table>
-<tr><td>Bisphenol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image3.png)</td></tr>
-<tr><td>Bisphenolderivat:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20250701/de/xml/image/image4.png)</td></tr>
+<tr><td>Bisphenol:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image3.png)</td></tr>
+<tr><td>Bisphenolderivat:</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20260101/de/xml/image/image4.png)</td></tr>
 <tr><td colspan="2">X bezeichnet jede Brückengruppe, die die beiden Phenylringe durch ein einziges Atom trennt. Das Atom kann jedoch jegliche Substituenten aufweisen. R<sub>1</sub> bis R<sub>10</sub> bezeichnen jeglichen Substituenten. Mindestens einer der Substituenten ist kein Wasserstoffatom.</td></tr>
 </table>
 
 - 3\.2 Beschichtungen und Lackierungen von Bedarfsgegenständen, die unter Verwendung eines anderen Bisphenols oder Bisphenolderivats hergestellt wurden, dürfen keine Rückstände von 2,2-Bis-(4-hydroxyphenyl)propan (BPA, CAS-Nr. 80‑05‑7) enthalten.
 - 3\.3 Ein gefährliches Bisphenol oder gefährliches Bisphenolderivat ist ein Bisphenol oder ein Bisphenolderivat, das gemäss Anhang 2 Ziffer 1 ChemV[^annex13-lvlu1-lvl3-1] harmonisiert als «erbgutverändernd» der Kategorien 1A oder 1B, «krebserregend», «fortpflanzungsgefährdend» oder «endokriner Disruptor mit Wirkung auf die menschliche Gesundheit» der Kategorie 1 (CMRED-Stoff) eingestuft ist.
-- 3\.4 Sowohl die Verwendung von anderen gefährlichen Bisphenolen als BPA oder gefährlichen Bisphenolderivaten bei der Herstellung von Lacken und Beschichtungen als auch das Inverkehrbringen von lackierten oder beschichteten Bedarfsgegenständen, deren Lacke oder Beschichtungen unter Verwendung von anderen gefährlichen Bisphenolen als BPA oder gefährlichen Bisphenolderivaten hergestellt wurden, sind verboten.
+- 3\.4 Andere gefährliche Bisphenole als BPA oder gefährliche Bisphenolderivate dürfen nur gemäss den Bestimmungen von Artikel 5 Absatz 2 und 3, sowie Anhang II der Verordnung (EU) 2024/3190 verwendet werden.
 - 3\.5 Um zu überprüfen, ob ein Bedarfsgegenstand kein gefährliches Bisphenol und kein gefährliches Bisphenolderivat enthält, ist eine Extraktionsmethode anzuwenden. Die Nachweisgrenze der Methode muss 1 μg/kg betragen.
 
-[^annex13-lvlu1-lvl3-1]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^annex13-lvlu1-lvl3-1]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
 
 Anhang 14[^t-9]
 
@@ -1699,4 +1706,4 @@ Die Konformitätserklärung gemäss Artikel 35*a* Absatz 2 muss die für jede He
 - 8\.2.3 das höchste Verhältnis der mit Lebensmitteln in Berührung kommenden Fläche zum Volumen, anhand dessen die Konformität des Bedarfsgegenstands festgestellt wurde, oder gleichwerte Informationen,
 - 8\.3 den Verwendungsbedingungen, die zur Erreichung der gewünschten Funktion eingehalten werden müssen.
 
-[^annex15-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/eli/cc/2013/842)
+[^annex15-lvlu1-1]: [SR 817.022.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9683)
