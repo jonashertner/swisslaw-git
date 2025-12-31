@@ -4,13 +4,12 @@ number: "830.110"
 title: "Ordinaziun tar la lescha davart l'assicuranza d'edifizis dal chantun Grischun"
 short: "ordinaziun tar la lescha davart l'assicuranza d'edifizis, OAE"
 language: rm
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-13
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3289/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3600/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3289/pdf_file"
 
 (ordinaziun tar la lescha davart l'assicuranza d'edifizis, OAE)
 
-dals 26-10-2010 (versiun dals 01-01-2023)
+dals 26-10-2010 (versiun dals 01-01-2026)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1],
 
@@ -56,9 +55,9 @@ relaschada da la regenza ils 26 d'october 2010
 - a) la sveltezza da la bova en il territori pertutgà s'augmenta;
 - b) la rata da moviment da la bova permanenta ha ina gronda intensitad;
 - c) il territori vegn u resta attribuì a la zona da privel cun in privel considerabel (zona da privel 1) per process glischnants;
-- d) l'edifizi è vegnì donnegià totalmain;
-- e) l'edifizi è spazzà; e
-- f) l'edifizi na vegn betg reconstruì en ina zona da privel cun in privel considerabel (zona da privel 1).
+- d) l'edifizi è vegnì donnegià totalmain; e
+- e) l'edifizi è spazzà u ina disposiziun da spazzar l'edifizi è avant maun.
+- f) …
 
 ## 3. Object e dimensiun da l'assicuranza
 
@@ -69,10 +68,10 @@ relaschada da la regenza ils 26 d'october 2010
 <sup>1</sup> Assicurads cun l'edifizi èn:
 
 - a) ils indrizs e las construcziuns liadas al lieu che cumpletteschan l'edifizi;
-- b) stabiliments per producir energia alternativa;
+- b) …
 - c) construcziuns annexas ch'èn colliadas fixamain cun l'edifizi sco bargias, garaschas, pergolas.
 
-<sup>2</sup> Chaussas secundaras han il medem destin sco la chaussa principala.
+<sup>2</sup> …
 
 <sup>3</sup> L'assicuranza d'edifizis circumscriva ils indrizs e las construcziuns che cumpletteschan l'edifizi.
 
@@ -82,13 +81,14 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>1</sup> Betg assicurads cun l'edifizi èn:
 
-- a) indrizs da manaschi da stabiliments commerzials ed industrials inclusiv ils indrizs architectonics appartegnents che furman in'unitad coerenta cun ils indrizs da manaschi, independentamain dal fatg, sche e co ch'ils indrizs da manaschi ed ils indrizs appartegnents èn integrads;
+- a) indrizs da manaschi artisanals, industrials u agriculs, inclusiv las parts architectonicas dals stabiliments che tutgan tiers e che furman in'unitad coerenta cun ils indrizs da manaschi;
 - b) installaziuns electricas da manaschi;
 - c) bains movibels;
 - d) custs supplementars pervia dal restabiliment accelerà;
-- e) lavurs da fundament, da stgavament e da sondagi, lavurs da planaziun e da conturn, lavurs per rinforzar il fundament, fundaments spezials, stabiliments architectonics e conducts ordaifer l'edifizi sco er taxas da colliaziun.
+- e) lavurs da fundament, da stgavament e da sondagi, lavurs da planaziun e da conturn, lavurs per rinforzar il fundament, fundaments spezials, stabiliments architectonics e conducts per il provediment e la dismessa d'in edifizi fin a l'edifizi sco er taxas da colliaziun;
+- f) valurs artisticas, immaterialas ed istoricas che surpassan ils custs dal restabiliment material.
 
-<sup>2</sup> L'assicuranza d'edifizis regla ils detagls davart l'appartegnientscha da las parts dals edifizis, dals indrizs e da las cumplettaziuns a l'assicuranza d'edifizis u a l'assicuranza da bains movibels.
+<sup>2</sup> L'Assicuranza d'edifizis regla ils detagls davart l'appartegnientscha da las parts dals edifizis, dals indrizs e da las cumplettaziuns a l'edifizi.
 
 #### Art. 5
 
@@ -97,7 +97,8 @@ relaschada da la regenza ils 26 d'october 2010
 <sup>1</sup> Betg assicurads n'èn edifizis:
 
 - a) cun custs da construcziun da main che 20 000 francs;
-- b) che n'èn betg francads cun il terren cun in fundament che correspunda a las reglas da la scienza da construcziun.
+- b) …
+- c) che na vegnan betg construids per ina durada d'almain 5 onns.
 
 <sup>2</sup> In edifizi vala sco francà cun il terren, sch'el na po betg vegnir allontanà senza donnegiar parts da l'edifizi u parts dal fundament.
 
@@ -205,7 +206,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>1</sup> En cas da construcziuns novas, da midadas e d'engrondiments pon vegnir ordinadas mesiras, sche l'engrondiment cumpiglia almain 30 meters cubic.
 
-<sup>2</sup> Ina midada da construcziun è cumplessiva, sche la valur d'assicuranza da l'edifizi s'augmenta per almain 20 pertschient.
+<sup>2</sup> Ina midada da construcziun è cumplessiva, sche la valur da nov da l'edifizi s'augmenta per almain 20 pertschient.
 
 <sup>3</sup> In donn è considerabel, sch'el importa almain 20 pertschient da la valur d'assicuranza da l'edifizi.
 
@@ -315,7 +316,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>2</sup> Ella vegn calculada a dus terzs da la valur d'assicuranza.
 
-<sup>3</sup> En cas d'in temp da construcziun da passa 4 onns fa l'assicuranza d'edifizis in quint intermediar. Per quest intent po ella incumbensar l'uffizi per la valitaziun d'immobiglias da far in'expertisa per eruir la valur da nov e la valur actuala da l'edifizi en construcziun.
+<sup>3</sup> En cas d'in temp da construcziun da passa 4 onns po l'Assicuranza d'edifizis tschentar in quint intermediar. Per quest intent po ella incumbensar l'Uffizi per la valitaziun d'immobiglias da far in'expertisa per eruir la valur da nov e la valur actuala da l'edifizi en construcziun.
 
 <sup>4</sup> …
 
@@ -335,7 +336,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 **Stimaziun dal donn**
 
-<sup>1</sup> Sche almain la mesadad d'in edifizi è donnegià, vegn il donn stimà a maun da las restanzas duvrablas. Per valitar las restanzas duvrablas èsi decisiv, quant enavant che las restanzas pudessan vegnir utilisadas per reconstruir in edifizi da medem gener.
+<sup>1</sup> Sche almain la mesadad d'in edifizi è donnegiada, vegn il donn per regla stimà a maun da las restanzas duvrablas. Per valitar las restanzas duvrablas èsi decisiv, quant enavant che las restanzas pudessan vegnir utilisadas per reconstruir in edifizi da medem gener.
 
 <sup>2</sup> L'Uffizi per la valitaziun d'immobiglias sustegna l'assicuranza d'edifizis en cas da donns mesauns e gronds. El prenda encunter annunzias da donns assicurads da l'assicuranza d'edifizis, eruescha quels ed elavura ils cas da donns. L'indemnisaziun vegn fixada en ina cunvegna da prestaziun tranter l'Uffizi per la valitaziun d'immobiglias e l'assicuranza d'edifizis.
 
@@ -345,7 +346,7 @@ relaschada da la regenza ils 26 d'october 2010
 
 <sup>1</sup> En cas da donn po l'assicuranza d'edifizis adattar la valur actuala da l'edifizi a la svalitaziun tecnica, sche l'ultima valitaziun uffiziala ha gì lieu avant passa 3 onns.
 
-<sup>2</sup> In edifizi vala sco reconstruì circa tuttina grond, sche almain trais quarts da la cubatura vegnan reconstruids.
+<sup>2</sup> In edifizi vala sco reconstruì circa tuttina grond, sche almain trais quarts da la cubatura vegnan reconstruids u sche l'edifizi cumpensatoric correspunda almain a la valur da nov da l'edifizi destruì.
 
 #### Art. 32
 

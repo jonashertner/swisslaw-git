@@ -4,13 +4,12 @@ number: "830.110"
 title: "Ordinanza relativa alla legge concernente l'Assicurazione fabbricati nel Cantone dei Grigioni"
 short: "O relativa alla legge sull'Assicurazione fabbricati, OLAFab"
 language: it
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-13
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3289/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3600/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3289/pdf_file"
 
 (O relativa alla legge sull'Assicurazione fabbricati, OLAFab)
 
-del 26.10.2010 (stato 01.01.2023)
+del 26.10.2010 (stato 01.01.2026)
 
 emanata dal Governo il 26 ottobre 2010
 
@@ -56,9 +55,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - a) la velocità di scivolamento nell'area interessata aumenta;
 - b) la velocità di movimento dello scivolamento permanente presenta un'intensità elevata;
 - c) l'area viene attribuita alla zona di pericolo elevato (zona di pericolo 1) per processi di scivolamento o rimane attribuita ad essa;
-- d) il fabbricato ha subito un danno totale;
-- e) il fabbricato è stato demolito; e
-- f) il fabbricato non viene ripristinato in una zona di pericolo elevato (zona di pericolo 1).
+- d) il fabbricato ha subito un danno totale; e
+- e) il fabbricato è stato demolito oppure è stata emanata una decisione di demolizione.
+- f) …
 
 ## 3. Oggetto ed estensione dell'assicurazione
 
@@ -69,10 +68,10 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Sono assicurati assieme al fabbricato:
 
 - a) le installazioni e le attrezzature che sono integrate nel fabbricato e lo completano;
-- b) impianti per la produzione di energie alternative;
+- b) …
 - c) costruzioni annesse stabilmente al fabbricato quali la rimessa, il garage, la pergola.
 
-<sup>2</sup> Gli oggetti accessori sono considerati alla stregua degli oggetti principali.
+<sup>2</sup> …
 
 <sup>3</sup> L'Assicurazione fabbricati definisce le installazioni e le attrezzature che completano il fabbricato.
 
@@ -82,13 +81,14 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Non sono assicurati assieme al fabbricato:
 
-- a) le installazioni di un'azienda artigianale o industriale e i manufatti che costituiscono parte integrante delle stesse; è irrilevante se e in che modo tali installazioni e manufatti sono integrati nel fabbricato;
+- a) installazioni d'esercizio di un'azienda artigianale, industriale o agricola, inclusi gli elementi edilizi dell'impianto che formano un tutt'uno con le installazioni d'esercizio;
 - b) le installazioni elettriche aziendali;
 - c) i beni mobili;
 - d) le spese addizionali causate da una ricostruzione accelerata dovuta a ragioni d'esercizio;
-- e) i lavori di estrazione, di scavo e di trivellazione, di pianificazione e di sistemazione dei dintorni, di rafforzamento del terreno, le fondamenta speciali, gli impianti edili e le condotte all'esterno del fabbricato, le tasse d'allacciamento.
+- e) i lavori di estrazione, di scavo e di trivellazione, di livellamento e di sistemazione dei dintorni, di consolidamento del terreno, le fondamenta speciali, gli impianti edilizi e le condotte per l'approvvigionamento e lo smaltimento di un fabbricato fino al fabbricato stesso, le tasse di allacciamento;
+- f) valori artistici, ideali e storici che vanno oltre i costi del ripristino materiale.
 
-<sup>2</sup> L'Assicurazione fabbricati disciplina i dettagli dell'appartenenza delle parti di fabbricato, delle installazioni e delle attrezzature all'assicurazione fabbricati o all'assicurazione per beni mobili.
+<sup>2</sup> L'Assicurazione fabbricati disciplina i dettagli dell'appartenenza delle parti di fabbricato, delle installazioni e delle attrezzature al fabbricato.
 
 #### Art. 5
 
@@ -97,7 +97,8 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> Non sono assicurati fabbricati:
 
 - a) le cui spese di acquisizione ammontano a meno di 20 000 franchi;
-- b) che non sono ben ancorati al terreno con delle fondamenta realizzate secondo le regole dell'arte edilizia.
+- b) …
+- c) che non sono stati realizzati per un utilizzo di almeno cinque anni.
 
 <sup>2</sup> Un fabbricato è considerato ben ancorato al terreno se non può essere rimosso senza danneggiare parti del fabbricato o delle fondamenta.
 
@@ -205,7 +206,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> Misure possono essere disposte nel caso di nuove costruzioni, trasformazioni e ampliamenti, se l'ampliamento ammonta ad almeno 30 metri cubi.
 
-<sup>2</sup> Una ristrutturazione è completa se il valore di assicurazione del fabbricato aumenta di almeno il 20 per cento.
+<sup>2</sup> Una ristrutturazione è completa se il valore a nuovo del fabbricato aumenta di almeno il 20 per cento.
 
 <sup>3</sup> Un danno è importante se ammonta almeno al 20 per cento del valore di assicurazione del fabbricato.
 
@@ -315,7 +316,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>2</sup> Esso viene fissato a 2 terzi del valore di assicurazione.
 
-<sup>3</sup> In caso di un periodo di costruzione superiore a quattro anni, l'Assicurazione fabbricati emette una fattura intermedia. A questo scopo, essa può commissionare una perizia all'Ufficio per le valutazioni immobiliari per stabilire il valore a nuovo e il valore attuale per il fabbricato in costruzione.
+<sup>3</sup> In caso di un periodo di costruzione superiore a quattro anni, l'Assicurazione fabbricati può emettere una fattura intermedia. A questo scopo, essa può commissionare una perizia all'Ufficio per le valutazioni immobiliari per stabilire il valore a nuovo e il valore attuale per il fabbricato in costruzione.
 
 <sup>4</sup> …
 
@@ -335,7 +336,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Accertamento del danno**
 
-<sup>1</sup> Se almeno la metà di un fabbricato è danneggiata, il danno viene accertato sulla base dei resti ancora utilizzabili. Nella valutazione dei resti utilizzabili è determinante la misura in cui questi potrebbero essere utilizzati per la ricostruzione di un fabbricato dello stesso genere.
+<sup>1</sup> Se almeno la metà di un fabbricato è danneggiata, di norma il danno viene accertato sulla base dei resti ancora utilizzabili. Nella valutazione dei resti utilizzabili è determinante la misura in cui questi potrebbero essere utilizzati per la ricostruzione di un fabbricato dello stesso genere.
 
 <sup>2</sup> L'Ufficio per le valutazioni immobiliari sostiene l'Assicurazione fabbricati in caso di sinistri medi e gravi. Esso accetta notifiche dall'Assicurazione fabbricati per danni assicurati, le verifica ed elabora i sinistri. L'indennizzo viene stabilito in un accordo di prestazioni tra l'Ufficio per le valutazioni immobiliari e l'Assicurazione fabbricati.
 
@@ -345,7 +346,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>1</sup> In caso di sinistro, l'Assicurazione fabbricati può adeguare il valore attuale del fabbricato al deprezzamento, se l'ultima valutazione ufficiale risale a più di tre anni prima.
 
-<sup>2</sup> Un fabbricato è considerato ricostruito all'incirca nelle stesse dimensioni se vengono ricostruiti almeno i tre quarti della cubatura.
+<sup>2</sup> Un fabbricato è considerato ricostruito all'incirca nelle stesse dimensioni se vengono ricostruiti almeno i tre quarti della cubatura oppure se il fabbricato sostitutivo corrisponde almeno al valore a nuovo del fabbricato distrutto.
 
 #### Art. 32
 

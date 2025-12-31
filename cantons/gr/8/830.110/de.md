@@ -4,13 +4,12 @@ number: "830.110"
 title: Verordnung zum Gesetz über die Gebäudeversicherung im Kanton Graubünden
 short: "Verordnung zum Gebäudeversicherungsgesetz, VOzGebVG"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-13
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2010-10-26
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/830.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3289/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3600/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3289/pdf_file"
 
 (Verordnung zum Gebäudeversicherungsgesetz, VOzGebVG)
 
-Vom 26.10.2010 (Stand 01.01.2023)
+Vom 26.10.2010 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -56,9 +55,9 @@ von der Regierung erlassen am 26. Oktober 2010
 - a) die Rutschgeschwindigkeit des betroffenen Gebiets sich erhöht;
 - b) die Bewegungsrate der permanenten Rutschung eine starke Intensität aufweist;
 - c) das Gebiet der Gefahrenzone mit erheblicher Gefährdung (Gefahrenzone 1) für Gleitprozesse zugeordnet wird oder bleibt;
-- d) das Gebäude einen Totalschaden erlitten hat;
-- e) das Gebäude abgebrochen ist; und
-- f) das Gebäude nicht in einer Gefahrenzone mit erheblicher Gefährdung (Gefahrenzone 1) wiederhergestellt wird.
+- d) das Gebäude einen Totalschaden erlitten hat; und
+- e) das Gebäude abgebrochen ist oder eine Abbruchverfügung vorliegt.
+- f) …
 
 ## 3. Gegenstand und Umfang der Versicherung
 
@@ -69,10 +68,10 @@ von der Regierung erlassen am 26. Oktober 2010
 <sup>1</sup> Mit dem Gebäude versichert sind:
 
 - a) die ortsgebundenen, gebäudevollendenden Einrichtungen und Ausbauten;
-- b) alternative Energiegewinnungsanlagen;
+- b) …
 - c) mit dem Gebäude fest verbundene Anbauten wie Schopf, Garage, Pergola.
 
-<sup>2</sup> Nebensachen teilen das Schicksal der Hauptsache.
+<sup>2</sup> …
 
 <sup>3</sup> Die Gebäudeversicherung umschreibt die gebäudevollendenden Einrichtungen und Ausbauten.
 
@@ -82,13 +81,14 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>1</sup> Nicht mit dem Gebäude versichert sind:
 
-- a) betriebliche Einrichtungen gewerblicher und industrieller Anlagen einschliesslich der zugehörigen baulichen Einrichtungen, die mit den betrieblichen Einrichtungen ein zusammenhängendes Ganzes bilden, unabhängig davon, ob und wie die betrieblichen und die zugehörigen Einrichtungen eingebaut sind;
+- a) betriebliche Einrichtungen in Gewerbe, Industrie oder Landwirtschaft einschliesslich der dazugehörenden baulichen Anlageteile, welche mit den betrieblichen Einrichtungen ein zusammenhängendes Ganzes bilden;
 - b) betriebliche Elektroinstallationen;
 - c) Fahrhabe;
 - d) Mehrkosten wegen beschleunigter Wiederherstellung;
-- e) Aushub-, Grab- und Erdbohrarbeiten, Planierungs- und Umgebungsarbeiten, Arbeiten zur Verstärkung des Baugrundes, Spezialfundationen, bauliche Anlagen und Leitungen ausserhalb des Gebäudes, Anschlussgebühren.
+- e) Aushub-, Grab- und Erdbohrarbeiten, Planierungs- und Umgebungsarbeiten, Arbeiten zur Verstärkung des Baugrundes, Spezialfundationen, bauliche Anlagen und Leitungen für die Versorgung und Entsorgung eines Gebäudes bis hin zum Gebäude, Anschlussgebühren;
+- f) über die Kosten der materiellen Wiederherstellung hinausgehende künstlerische, ideelle und historische Werte.
 
-<sup>2</sup> Die Gebäudeversicherung regelt die Einzelheiten der Zugehörigkeit der Gebäudeteile, Einrichtungen und Ausbauten zur Gebäude- oder zur Fahrhabeversicherung.
+<sup>2</sup> Die Gebäudeversicherung regelt die Einzelheiten der Zugehörigkeit der Gebäudeteile, Einrichtungen und Ausbauten zum Gebäude.
 
 #### Art. 5
 
@@ -97,7 +97,8 @@ von der Regierung erlassen am 26. Oktober 2010
 <sup>1</sup> Nicht versichert sind Gebäude:
 
 - a) deren Gestehungskosten weniger als 20 000 Franken betragen;
-- b) die nicht mittels eines den Regeln der Baukunde entsprechenden Fundaments fest mit dem Boden verbunden sind.
+- b) …
+- c) die nicht für mindestens fünf Jahre erstellt werden.
 
 <sup>2</sup> Ein Gebäude gilt als fest mit dem Boden verbunden, wenn es nicht entfernt werden kann, ohne dass Teile des Gebäudes oder des Fundaments beschädigt werden.
 
@@ -205,7 +206,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>1</sup> Massnahmen können bei Neu-, Um- und Erweiterungsbauten angeordnet werden, wenn die Erweiterung mindestens 30 Kubikmeter beträgt.
 
-<sup>2</sup> Ein Umbau ist umfassend, wenn sich der Versicherungswert des Gebäudes um mindestens 20 Prozent erhöht.
+<sup>2</sup> Ein Umbau ist umfassend, wenn sich der Neuwert des Gebäudes um mindestens 20 Prozent erhöht.
 
 <sup>3</sup> Ein Schaden ist beträchtlich, wenn er mindestens 20 Prozent des Versicherungswertes des Gebäudes beträgt.
 
@@ -315,7 +316,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>2</sup> Sie wird auf zwei Dritteln des Versicherungswertes berechnet.
 
-<sup>3</sup> Bei einer Bauzeit von über vier Jahren stellt die Gebäudeversicherung eine Zwischenrechnung. Sie kann dazu beim Amt für Immobilienbewertung ein Gutachten für das Bestimmen des Neu- und Zeitwertes für das sich im Bau befindende Gebäude in Auftrag geben.
+<sup>3</sup> Bei einer Bauzeit von über vier Jahren kann die Gebäudeversicherung eine Zwischenrechnung stellen. Sie kann dazu beim Amt für Immobilienbewertung ein Gutachten für das Bestimmen des Neu- und Zeitwertes für das sich im Bau befindende Gebäude in Auftrag geben.
 
 <sup>4</sup> …
 
@@ -335,7 +336,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 **Ermittlung des Schadens**
 
-<sup>1</sup> Ist ein Gebäude zu mindestens der Hälfte beschädigt, wird der Schaden anhand der brauchbaren Überreste ermittelt. Bei der Bewertung der brauchbaren Überreste ist massgebend, inwieweit die Überreste für den Wiederaufbau eines gleichartigen Gebäudes verwendet werden könnten.
+<sup>1</sup> Ist ein Gebäude zu mindestens der Hälfte beschädigt, wird der Schaden in der Regel anhand der brauchbaren Überreste ermittelt. Bei der Bewertung der brauchbaren Überreste ist massgebend, inwieweit die Überreste für den Wiederaufbau eines gleichartigen Gebäudes verwendet werden könnten.
 
 <sup>2</sup> Das Amt für Immobilienbewertung unterstützt die Gebäudeversicherung bei mittleren und grossen Schadenereignissen. Es nimmt Meldungen von versicherten Schäden von der Gebäudeversicherung entgegen, ermittelt diese und bearbeitet die Schadenfälle. Die Entschädigung wird in einer Leistungsvereinbarung zwischen dem Amt für Immobilienbewertung und der Gebäudeversicherung festgehalten.
 
@@ -345,7 +346,7 @@ von der Regierung erlassen am 26. Oktober 2010
 
 <sup>1</sup> Die Gebäudeversicherung kann im Schadenfall den Zeitwert des Gebäudes der Entwertung anpassen, sofern die letzte amtliche Bewertung mehr als drei Jahre zurückliegt.
 
-<sup>2</sup> Ein Gebäude gilt als ungefähr gleich gross wiederhergestellt, wenn mindestens drei Viertel der Kubatur wiederhergestellt werden.
+<sup>2</sup> Ein Gebäude gilt als ungefähr gleich gross wiederhergestellt, wenn mindestens drei Viertel der Kubatur wiederhergestellt werden oder wenn das Ersatzgebäude mindestens dem Neuwert des zerstörten Gebäudes entspricht.
 
 #### Art. 32
 
