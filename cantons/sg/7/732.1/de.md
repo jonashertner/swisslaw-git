@@ -4,13 +4,12 @@ number: "732.1"
 title: Strassengesetz
 short: StrG
 language: de
-version: 2021-07-01
-corrected: 2021-09-15
-version_adopted: 2021-04-13
+version: 2026-01-01
+version_adopted: 2025-07-29
 adopted: 1988-06-12
 in_force: 1989-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3189/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3798/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3189/pdf_file"
 
 (StrG)
 
-vom 12.06.1988 (Stand 01.07.2021)
+vom 12.06.1988 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -29,15 +28,16 @@ erlässt
 
 in Ausführung von Art. 17 der Kantonsverfassung vom 16. November 1890[^ingress-2],
 
-in Vollzug des Bundesgesetzes über die Nationalstrassen vom 8. März 1960[^ingress-3] und des Bundesgesetzes über Fuss- und Wanderwege vom 4. Oktober 1985[^ingress-4]
+in Vollzug des Bundesgesetzes über die Nationalstrassen vom 8. März 1960[^ingress-3], des Bundesgesetzes über Fuss- und Wanderwege vom 4. Oktober 1985[^ingress-4] und des Bundesgesetzes über Velowege vom 18. März 2022[^ingress-5]
 
-als Gesetz:[^ingress-5]
+als Gesetz:[^ingress-6]
 
 [^ingress-1]: ABl 1986, 1585 und 1706.
 [^ingress-2]: Aufgehoben, nGS 25-61 (sGS 111.1).
 [^ingress-3]: SR [725.11](https://db.clex.ch/link/Bund/725.11/de).
 [^ingress-4]: SR [704](https://db.clex.ch/link/Bund/704/de).
-[^ingress-5]: Abgekürzt StrG. nGS 23–81. Vom Grossen Rat erlassen am 30. September 1987; in der Volksabstimmung angenommen worden und rechtsgültig geworden am 12. Juni 1988; vom Bundesrat soweit erforderlich genehmigt am 5. September 1988; in Vollzug ab 1. Januar1989.
+[^ingress-5]: SR [705](https://db.clex.ch/link/Bund/705/de).
+[^ingress-6]: Abgekürzt StrG. nGS 23–81. Vom Grossen Rat erlassen am 30. September 1987; in der Volksabstimmung angenommen worden und rechtsgültig geworden am 12. Juni 1988; vom Bundesrat soweit erforderlich genehmigt am 5. September 1988; in Vollzug ab 1. Januar 1989.
 
 ## I. Allgemeine Bestimmungen
 
@@ -57,7 +57,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Strassen dienen dem allgemeinen Verkehr.
 
-<sup>2</sup> Wege liegen abseits von öffentlichen Strassen und dienen nicht dem Motorfahrzeugverkehr.
+<sup>2</sup> Wege liegen abseits von öffentlichen Strassen und dienen insbesondere dem Langsamverkehr. Sie stehen dem allgemeinen Motorfahrzeugverkehr nicht offen.
 
 #### Art. 3
 
@@ -139,7 +139,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Wege erster und zweiter Klasse werden unterhalten.
 
-<sup>2</sup> Wege dritter Klasse erfordern keinen Unterhalt.
+<sup>2</sup> Wege dritter Klasse erfordern keinen Unterhalt. Vorbehalten bleibt der Unterhalt der Fuss-, Wander- und Velowege nach Art. 54 Abs. 1 Bst. a<sup>bis</sup> dieses Erlasses.
 
 <sup>3</sup> Es werden sachgemäss angewendet auf:
 
@@ -148,11 +148,25 @@ als Gesetz:[^ingress-5]
 
 #### Art. 10
 
-**d) Fuss-, Wander- und Radwege**
+**d) Fuss-, Wander- und Velowegnetze**
 
-<sup>1</sup> Die politische Gemeinde legt nach Anhören der zuständigen Stelle des Kantons und der interessierten privaten Fachorganisationen Fuss-, Wander- und Radwegnetze im Strassenplan fest.
+<sup>1</sup> Die politische Gemeinde legt nach Anhören der zuständigen Stelle des Kantons und der interessierten privaten Fachorganisationen Fuss-, Wander- und Velowegnetze im Strassenplan fest.
 
-<sup>2</sup> Das zuständige Departement bezeichnet nach Anhören der politischen Gemeinden und der interessierten privaten Fachorganisationen in einem besonderen Plan Fuss-, Wander- und Radwege von kantonaler oder regionaler Bedeutung.
+<sup>2</sup> …
+
+<sup>3</sup> Bei der Festlegung der Fuss-, Wander- und Velowegnetze werden die bundesrechtlichen Grundsätze[^10-1] für deren Planung, Anlage und Erhaltung angewendet.
+
+<sup>4</sup> Velowegnetze in Form von Mountainbike-Routen werden in der Regel auf Wegen festgelegt, die auch anderen Arten des Langsamverkehrs dienen. Sie können getrennt festgelegt werden, wenn sich eine gemeinsame Nutzung der Wege nicht eignet und es die örtlichen Verhältnisse zulassen.
+
+[^10-1]: [Art. 2](https://db.clex.ch/link/Bund/704/de) ff. des Bundesgesetzes über Fuss- und Wanderwege vom 4. Oktober 1985, SR [704](https://db.clex.ch/link/Bund/704/de), und [Art. 2](https://db.clex.ch/link/Bund/705/de) ff. des Bundesgesetzes über Velowege vom 18. März 2022, SR [705](https://db.clex.ch/link/Bund/705/de).
+
+#### Art. 10bis
+
+**d<sup>bis</sup>) Fuss-, Wander- und Velowegnetze von kantonaler Bedeutung**
+
+<sup>1</sup> Das zuständige Departement legt nach Anhören der gebietsmässig betroffenen politischen Gemeinden und der interessierten privaten Fachorganisationen in einem Plan die Fuss-, Wander- und Velowegnetze von kantonaler Bedeutung fest.
+
+<sup>2</sup> Die Regierung bestimmt durch Verordnung die Kriterien für die Festlegung der Fuss-, Wander- und Velowegnetze von kantonaler Bedeutung und die Planungsinstrumente für deren Änderung.
 
 #### Art. 11
 
@@ -209,7 +223,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Die zuständige Gemeindebehörde hat die Aufsicht über die Gemeindestrassen.
 
-[^16-1]: Baudepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^16-1]: Bau- und Umweltdepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25.) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 [^16-2]: Tiefbau- und Strassenverwaltung, Art. [1](https://www.gesetzessammlung.sg.ch/data/732.11/de/art1.) StrV, sGS [732.11](https://www.gesetzessammlung.sg.ch/data/732.11/de).
 
 ## II. Strassenbenutzung
@@ -220,7 +234,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Strassen stehen im Rahmen ihrer Zweckbestimmung dem Gemeingebrauch offen.
 
-<sup>2</sup> Sie sind schonend und unter Rücksichtnahme auf Verkehrsteilnehmer und Umgebung zu benutzen.
+<sup>2</sup> Sie sind schonend und unter Rücksichtnahme auf Verkehrsteilnehmerinnen und Verkehrsteilnehmer und Umgebung zu benutzen.
 
 #### Art. 18
 
@@ -228,7 +242,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Wer Strassen übermässig beansprucht, hat den Schaden zu beheben oder Entschädigung zu leisten.
 
-<sup>2</sup> Schäden sind im Einvernehmen mit der zuständigen Behörde und dem Unterhaltspflichtigen zu beheben.
+<sup>2</sup> Schäden sind im Einvernehmen mit der zuständigen Behörde und der oder dem Unterhaltspflichtigen zu beheben.
 
 #### Art. 19
 
@@ -236,7 +250,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Wer Strassen übermässig verschmutzt, hat sie unverzüglich zu reinigen.
 
-<sup>2</sup> Kommt der Verursacher dieser Pflicht trotz Aufforderung nicht nach, so wird die Reinigung auf seine Kosten vorgenommen.
+<sup>2</sup> Kommt die Verursacherin oder der Verursacher dieser Pflicht trotz Aufforderung nicht nach, so wird die Reinigung auf ihre oder seine Kosten vorgenommen.
 
 #### Art. 20
 
@@ -248,7 +262,7 @@ als Gesetz:[^ingress-5]
 - b) örtliche Verhältnisse;
 - c) Sicherheit und Ordnung;
 - d) Bedürfnisse des öffentlichen Verkehrs;
-- e) Schutz von Verkehrsteilnehmern;
+- e) Schutz von Verkehrsteilnehmerinnen und Verkehrsteilnehmern;
 - f) Durchführung von Veranstaltungen;
 - g) Umweltschutz;
 - h) Schutz von Orts- und Quartierzentren sowie Wohngebieten;
@@ -323,20 +337,20 @@ als Gesetz:[^ingress-5]
 
 #### Art. 27
 
-**Eigentum des Berechtigten**
+**Eigentum der oder des Berechtigten**
 
-<sup>1</sup> Bewilligte oder konzessionierte Bauten und Anlagen sind Eigentum des Berechtigten.
+<sup>1</sup> Bewilligte oder konzessionierte Bauten und Anlagen sind Eigentum der oder des Berechtigten.
 
 #### Art. 28
 
-**Pflichten des Berechtigten**
+**Pflichten der oder des Berechtigten**
 
-<sup>1</sup> Der Berechtigte trägt die Kosten, die durch seine Bauten und Anlagen entstehen.
+<sup>1</sup> Die oder der Berechtigte trägt die Kosten, die durch ihre oder seine Bauten und Anlagen entstehen.
 
-<sup>2</sup> Er hat insbesondere:
+<sup>2</sup> Sie oder er hat insbesondere:
 
-- a) seine Bauten und Anlagen auf eigene Kosten zu unterhalten und bei Änderungen der Strasse den neuen Verhältnissen anzupassen;
-- b) Mehrkosten des Strassenbaus oder -unterhalts zu tragen, die wegen seiner Bauten und Anlagen entstehen;
+- a) ihre oder seine Bauten und Anlagen auf eigene Kosten zu unterhalten und bei Änderungen der Strasse den neuen Verhältnissen anzupassen;
+- b) Mehrkosten des Strassenbaus oder -unterhalts zu tragen, die wegen ihrer oder seiner Bauten und Anlagen entstehen;
 - c) im Interesse der Verkehrssicherheit nötige Vorkehren, wie Abschrankungen, Signalisation und Beleuchtung, zu treffen.
 
 #### Art. 29
@@ -349,9 +363,9 @@ als Gesetz:[^ingress-5]
 
 - a) Nutzungsintensität;
 - b) Nutzungsdauer;
-- c) wirtschaftlichem Nutzen für den Berechtigten.
+- c) wirtschaftlichem Nutzen für die Berechtigte oder den Berechtigten.
 
-<sup>3</sup> Der Schutz von Anwohnern und von gleichermassen Betroffenen vor umweltbelastenden Immissionen kann als weiteres Bemessungskriterium berücksichtigt werden.
+<sup>3</sup> Der Schutz von Anwohnerinnen und Anwohnern und von gleichermassen Betroffenen vor umweltbelastenden Immissionen kann als weiteres Bemessungskriterium berücksichtigt werden.
 
 #### Art. 30
 
@@ -380,7 +394,7 @@ als Gesetz:[^ingress-5]
 - a) Zweckbestimmung;
 - b) Verkehrssicherheit;
 - c) Verkehrsaufkommen;
-- d) Schutz der schwächeren Verkehrsteilnehmer, insbesondere von Fussgängern, Radfahrern und Behinderten;
+- d) Schutz der schwächeren Verkehrsteilnehmerinnen und Verkehrsteilnehmer, insbesondere von Fussgängerinnen und Fussgängern, Velofahrerinnen und Velofahrern sowie Menschen mit Behinderung;
 - e) Interessen des öffentlichen Verkehrs;
 - f) Umweltschutz.
 
@@ -392,7 +406,7 @@ als Gesetz:[^ingress-5]
 
 - a) Schutz des Menschen und seiner natürlichen Umwelt;
 - b) Verkehrssicherheit;
-- c) Schutz der schwächeren Verkehrsteilnehmer, insbesondere von Fussgängern, Radfahrern und Behinderten;
+- c) Schutz der schwächeren Verkehrsteilnehmerinnen und Verkehrsteilnehmer, insbesondere von Fussgängerinnen und Fussgängern, Velofahrerinnen und Velofahrern sowie Menschen mit Behinderung;
 - d) Ortsbild- und Heimatschutz;
 - e) Natur- und Landschaftsschutz;
 - f) die anerkannten Grundsätze eines umwelt- und siedlungsgerechten Strassenbaus;
@@ -475,7 +489,8 @@ als Gesetz:[^ingress-5]
 - a) Situationsplan;
 - b) Landbedarf für dauernde und vorübergehende Beanspruchung des Bodens;
 - c) allfällige Baulinien;
-- d) Einteilung von Gemeindestrassen.
+- d) Einteilung von Gemeindestrassen;
+- e) Kennzeichnung der Fuss-, Wander- und Velowege.
 
 #### Art. 41
 
@@ -489,7 +504,7 @@ als Gesetz:[^ingress-5]
 - b) Entwässerungsanlagen;
 - c) Leitplanken und Leitzäune;
 - d) Beleuchtung;
-- e) Geh- und Radwegen entlang öffentlicher Strassen;
+- e) Geh- und Velowegen entlang öffentlicher Strassen;
 - f) Buchten für Haltestellen des öffentlichen Verkehrs.
 
 #### Art. 42
@@ -562,9 +577,9 @@ als Gesetz:[^ingress-5]
 
 **b) Schätzungsverfahren**
 
-<sup>1</sup> Können sich die Beteiligten über die Entschädigung oder andere Begehren des Enteignungsverfahrens nicht einigen, so kann beim Präsidenten der Schätzungskommission für Enteignungen[^49-1] die Durchführung des Schätzungsverfahrens[^49-2] verlangt werden.
+<sup>1</sup> Können sich die Beteiligten über die Entschädigung oder andere Begehren des Enteignungsverfahrens nicht einigen, so kann bei der Präsidentin oder beim Präsidenten der Schätzungskommission für Enteignungen[^49-1] die Durchführung des Schätzungsverfahrens[^49-2] verlangt werden.
 
-<sup>2</sup> Der Präsident eröffnet den Beteiligten eine Frist zur Einreichung der Begehren.
+<sup>2</sup> Die Präsidentin oder der Präsident eröffnet den Beteiligten eine Frist zur Einreichung der Begehren.
 
 <sup>3</sup> Einsprache gegen die Zulässigkeit der Enteignung ist ausgeschlossen.
 
@@ -578,7 +593,7 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Mit dem Strassenbau kann begonnen werden, wenn:
 
 - a) das Projekt rechtskräftig ist;
-- b) die Abtretung privater Rechte geregelt ist oder derjenige, der private Rechte abtreten muss, dem Baubeginn schriftlich zugestimmt hat;
+- b) die Abtretung privater Rechte geregelt ist oder diejenige oder derjenige, die oder der private Rechte abtreten muss, dem Baubeginn schriftlich zugestimmt hat;
 - c) die Beitragspflichtigen mit persönlicher Anzeige vom Beitragsplan in Kenntnis gesetzt sind;
 - d) über beantragte Kantonsbeiträge verfügt ist oder die Bewilligung zum vorzeitigen Bau vorliegt.
 
@@ -616,7 +631,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Der Kanton unterhält die Kantonsstrassen.
 
-<sup>2</sup> Er sorgt für die Signalisation von Fuss-, Wander- und Radwegen von kantonaler und regionaler Bedeutung. Er kann sie privaten Fachorganisationen übertragen.
+<sup>2</sup> Er sorgt für die Signalisation von Wander- und Velowegen von kantonaler Bedeutung. Er kann sie privaten Fachorganisationen übertragen.
 
 <sup>3</sup> Der Kanton kann mit dem Bund und anderen Kantonen Vereinbarungen abschliessen über Übernahme und Übertragung des Unterhalts von National- und Kantonsstrassen auf dem Gebiet des Kantons St.Gallen und von Nachbarkantonen.
 
@@ -627,17 +642,18 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Die politische Gemeinde besorgt:
 
 - a) den Unterhalt der Gemeindestrassen erster und zweiter Klasse;
-- b) Reinigung und Winterdienst der Geh- und Radwege entlang den Kantonsstrassen.
+- a<sup>bis</sup>) den Unterhalt der Fuss-, Wander- und Velowege, soweit keine anderweitige Unterhaltspflicht besteht;
+- b) Reinigung und Winterdienst der Geh- und Velowege entlang den Kantonsstrassen.
 
 <sup>2</sup> Sie kann den Unterhalt von Gemeindestrassen dritter Klasse ganz oder teilweise selbst besorgen.
 
 #### Art. 55
 
-**Grundeigentümer a) Grundsatz**
+**Grundeigentümerinnen und Grundeigentümer a) Grundsatz**
 
-<sup>1</sup> Die anstossenden Grundeigentümer unterhalten die Gemeindestrassen dritter Klasse, wenn diese nicht von der politischen Gemeinde, einer anderen öffentlich-rechtlichen Körperschaft oder Dritten unterhalten werden.
+<sup>1</sup> Die anstossenden Grundeigentümerinnen und Grundeigentümer unterhalten die Gemeindestrassen dritter Klasse, wenn diese nicht von der politischen Gemeinde, einer anderen öffentlich-rechtlichen Körperschaft oder Dritten unterhalten werden.
 
-<sup>2</sup> Die Unterhaltspflicht der Grundeigentümer wird als öffentlich-rechtliche Grundlast im Grundbuch angemerkt.[^55-1]
+<sup>2</sup> Die Unterhaltspflicht der Grundeigentümerinnen und Grundeigentümer wird als öffentlich-rechtliche Grundlast im Grundbuch angemerkt.[^55-1]
 
 [^55-1]: Vom Bundesrat am 5. September 1988 genehmigt; siehe Art. 784 Abs. 1 und Art. 962 Abs. 1 des Schweizerischen Zivilgesetzbuchs vom 10. Dezember 1907, SR [210](https://db.clex.ch/link/Bund/210/de).
 
@@ -648,7 +664,7 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Für den Unterhalt von Gemeindestrassen dritter Klasse wird ein Perimeter errichtet oder geändert, wenn:
 
 - a) der zweckmässige Unterhalt es erfordert;
-- b) die Belastung einzelner Grundeigentümer in einem Missverhältnis zu ihren Sondervorteilen steht.
+- b) die Belastung einzelner Grundeigentümerinnen und Grundeigentümer in einem Missverhältnis zu ihren Sondervorteilen steht.
 
 <sup>2</sup> Wird ein Grundstück geteilt, so wird die Perimeterlast nach den Grundsätzen des Perimeters durch Verfügung der zuständigen Gemeindebehörde auf die von der Teilung betroffenen Grundstücke verlegt.
 
@@ -692,9 +708,9 @@ als Gesetz:[^ingress-5]
 
 #### Art. 62
 
-**Anstösser a) Grundsatz**
+**Anstösserinnen und Anstösser a) Grundsatz**
 
-<sup>1</sup> Anstösser haben keine besonderen Rechte an Strassen, soweit dieses Gesetz nichts anderes bestimmt.
+<sup>1</sup> Anstösserinnen und Anstösser haben keine besonderen Rechte an Strassen, soweit dieses Gesetz nichts anderes bestimmt.
 
 #### Art. 63
 
@@ -733,7 +749,7 @@ als Gesetz:[^ingress-5]
 
 <sup>1</sup> Entsteht durch Beanspruchung des Grundeigentums, Beschränkung oder Aufhebung von Zufahrten und Zugängen Schaden, so wird er behoben oder Entschädigung geleistet. Ausgenommen sind verkehrspolizeiliche Anordnungen.
 
-<sup>2</sup> Können sich die Beteiligten über die Entschädigung nicht einigen, so kann beim Präsidenten der Schätzungskommission für Enteignungen[^66-1] die Durchführung des Schätzungsverfahrens[^66-2] verlangt werden.
+<sup>2</sup> Können sich die Beteiligten über die Entschädigung nicht einigen, so kann bei der Präsidentin oder beim Präsidenten der Schätzungskommission für Enteignungen[^66-1] die Durchführung des Schätzungsverfahrens[^66-2] verlangt werden.
 
 <sup>3</sup> Die Vorschriften über die Enteignung[^66-3] werden sachgemäss angewendet.
 
@@ -745,7 +761,7 @@ als Gesetz:[^ingress-5]
 
 **f) Einfriedungen**
 
-<sup>1</sup> Einfriedungen an Strassen bleiben in der Regel den Anstössern überlassen. Vorbehalten sind die strassenpolizeilichen Vorschriften.
+<sup>1</sup> Einfriedungen an Strassen bleiben in der Regel den Anstösserinnen und Anstössern überlassen. Vorbehalten sind die strassenpolizeilichen Vorschriften.
 
 ## VI. Kosten
 
@@ -761,11 +777,11 @@ als Gesetz:[^ingress-5]
 
 **b) Ausnahmen**
 
-<sup>1</sup> Die politische Gemeinde leistet dem Kanton Beiträge von 35 Prozent der Baukosten für Geh- und Radwege entlang den Kantonsstrassen.
+<sup>1</sup> Die politische Gemeinde leistet dem Kanton Beiträge von 35 Prozent der Baukosten für Geh- und Velowege entlang den Kantonsstrassen.
 
 <sup>2</sup> Sie trägt die Unterhaltskosten für:
 
-- a) Reinigung und Winterdienst der Geh- und Radwege entlang den Kantonsstrassen;
+- a) Reinigung und Winterdienst der Geh- und Velowege entlang den Kantonsstrassen;
 - b) Betrieb der Beleuchtung an Kantonsstrassen zweiter Klasse innerhalb der Bauzonen.
 
 #### Art. 70
@@ -803,20 +819,23 @@ als Gesetz:[^ingress-5]
 
 #### Art. 72
 
-**Gemeindestrassen a) erster und zweiter Klasse**
+**Gemeindestrassen a) politische Gemeinde als Kostenträgerin**
 
-<sup>1</sup> Die politische Gemeinde trägt die Kosten für Bau und Unterhalt der Gemeindestrassen erster und zweiter Klasse, soweit keine Beiträge zur Verfügung stehen.
+<sup>1</sup> Soweit keine Beiträge zur Verfügung stehen, trägt die politische Gemeinde die Kosten für Bau und Unterhalt:
 
-<sup>2</sup> Die Grundeigentümer leisten an die Baukosten folgende Beiträge:
+- a) der Gemeindestrassen erster und zweiter Klasse;
+- b) der Fuss-, Wander- und Velowege, soweit diese Funktion besondere Kosten verursacht.
+
+<sup>2</sup> Die Grundeigentümerinnen und Grundeigentümer leisten an die Baukosten folgende Beiträge:
 
 - a) Gemeindestrassen erster Klasse bis 50 Prozent, in sachgemässer Anwendung von Art. 71 dieses Gesetzes bis 100 Prozent;
 - b) Gemeindestrassen zweiter Klasse bis 100 Prozent.
 
 #### Art. 73
 
-**b) dritter Klasse**
+**b) Grundeigentümerinnen und Grundeigentümer als Kostenträgerinnen und Kostenträger**
 
-<sup>1</sup> Die Grundeigentümer tragen die Kosten für Bau und Unterhalt der Gemeindestrassen dritter Klasse, soweit keine Beiträge zur Verfügung stehen.
+<sup>1</sup> Die Grundeigentümerinnen und Grundeigentümer tragen die Kosten für Bau und Unterhalt der Gemeindestrassen dritter Klasse, soweit keine Beiträge zur Verfügung stehen.
 
 <sup>2</sup> Die politische Gemeinde leistet Beiträge an die Unterhaltskosten. Sie werden bemessen nach:
 
@@ -824,29 +843,29 @@ als Gesetz:[^ingress-5]
 - b) Belastung der Unterhaltspflichtigen;
 - c) öffentlichem Interesse.
 
-<sup>3</sup> Besorgt die politische Gemeinde den Unterhalt selbst, so kann sie auf Leistungen der Grundeigentümer verzichten.
+<sup>3</sup> Besorgt die politische Gemeinde den Unterhalt selbst, so kann sie auf Leistungen der Grundeigentümerinnen und Grundeigentümer verzichten.
 
 #### Art. 74
 
 **c) Gemeingebrauch**
 
-<sup>1</sup> Die politische Gemeinde leistet Beiträge an Bau und Unterhalt der Gemeindestrassen, soweit den Grundeigentümern durch den Gemeingebrauch verursachte Kosten entstehen.
+<sup>1</sup> Die politische Gemeinde leistet Beiträge an Bau und Unterhalt der Gemeindestrassen, soweit den Grundeigentümerinnen und Grundeigentümern durch den Gemeingebrauch verursachte Kosten entstehen.
 
 #### Art. 75
 
-**Ersatz für Fuss- und Wanderwege**
+**Ersatz für Fuss-, Wander- und Velowege**
 
-<sup>1</sup> Ist für Fuss- und Wanderwege angemessener Ersatz zu schaffen[^75-1], so trägt die Kosten, in wessen Interesse die Aufhebung erfolgt.
+<sup>1</sup> Ist für Fuss-, Wander- und Velowege angemessener Ersatz zu schaffen[^75-1], so trägt die Kosten, in wessen Interesse die Aufhebung erfolgt.
 
 <sup>2</sup> Liegt die Aufhebung im öffentlichen Interesse, so werden Kantonsbeiträge nach diesem Gesetz geleistet.
 
-[^75-1]: Siehe Art. 7 des BG über Fuss- und Wanderwege vom 4. Oktober 1985, SR [704](https://db.clex.ch/link/Bund/704/de).
+[^75-1]: Siehe [Art. 7](https://db.clex.ch/link/Bund/704/de) des BG über Fuss- und Wanderwege vom 4. Oktober 1985, SR [704](https://db.clex.ch/link/Bund/704/de), und [Art. 9](https://db.clex.ch/link/Bund/705/de) des Bundesgesetzes über Velowege vom 18. März 2022, SR [705](https://db.clex.ch/link/Bund/705/de).
 
 #### Art. 76
 
 **Verkehrsknoten und Verkehrstrennungsanlagen**
 
-<sup>1</sup> Baukosten neuer Verkehrsknoten werden vom Verursacher getragen.
+<sup>1</sup> Baukosten neuer Verkehrsknoten werden von der Verursacherin oder vom Verursacher getragen.
 
 <sup>2</sup> Nach Interessenlage werden aufgeteilt:
 
@@ -875,7 +894,7 @@ als Gesetz:[^ingress-5]
 
 **Beitragspflicht**
 
-<sup>1</sup> Eigentümer von Grundstücken, denen ein Sondervorteil entsteht, sind beitragspflichtig.
+<sup>1</sup> Eigentümerinnen und Eigentümer von Grundstücken, denen ein Sondervorteil entsteht, sind beitragspflichtig.
 
 <sup>2</sup> Beiträge können von Dritten erhoben werden, soweit diesen ein Sondervorteil entsteht.
 
@@ -889,7 +908,7 @@ als Gesetz:[^ingress-5]
 
 - a) Kostenvoranschlag;
 - b) beitragspflichtige Grundstücke;
-- c) Anteile der Grundeigentümer;
+- c) Anteile der Grundeigentümerinnen und Grundeigentümer;
 - d) Anteil der politischen Gemeinde;
 - e) Anteile Dritter.
 
@@ -943,9 +962,9 @@ als Gesetz:[^ingress-5]
 
 #### Art. 85
 
-**Nachträgliche Baubeiträge a) Grundsätze**
+**Nachträgliche Baubeiträge a) Grundsatz**
 
-<sup>1</sup> Grundeigentümer können nachträglich zu Baubeiträgen verpflichtet werden, wenn ihnen innert fünfzehn Jahren nach dem Bau der Strasse ein Sondervorteil entsteht.
+<sup>1</sup> Grundeigentümerinnen und Grundeigentümer können nachträglich zu Baubeiträgen verpflichtet werden, wenn ihnen innert fünfzehn Jahren nach dem Bau der Strasse ein Sondervorteil entsteht.
 
 #### Art. 86
 
@@ -966,7 +985,7 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Der Kanton leistet den politischen Gemeinden pauschale Beiträge für:
 
 - a) die Unterhaltskosten des Betriebs der Beleuchtung an Kantonsstrassen zweiter Klasse innerhalb der Bauzonen;
-- b) Reinigung und Winterdienst der Geh- und Radwege entlang den Kantonsstrassen;
+- b) Reinigung und Winterdienst der Geh- und Velowege entlang den Kantonsstrassen;
 - c) die Entsorgung des Meteorwassers von Kantonsstrassen zweiter Klasse innerhalb der Bauzonen;
 - d) die allgemeinen Auswirkungen des Strassenverkehrs innerhalb der Bauzonen.
 
@@ -981,7 +1000,7 @@ als Gesetz:[^ingress-5]
 <sup>1</sup> Für die Berechnung der Beiträge sind massgebend:
 
 - a) die Länge der Kantonsstrassen innerhalb der Bauzonen;
-- b) die Länge der Geh- und Radwege entlang den Kantonsstrassen.
+- b) die Länge der Geh- und Velowege entlang den Kantonsstrassen.
 
 <sup>2</sup> Die Regierung erlässt durch Verordnung ergänzende Vorschriften über die Berechnung der Beiträge und die Kontrolle.
 
@@ -1024,9 +1043,9 @@ als Gesetz:[^ingress-5]
 
 #### Art. 95
 
-**b) Fuss-, Wander- und Radwege**
+**b) Fuss-, Wander- und Velowege**
 
-<sup>1</sup> Der Kanton leistet den politischen Gemeinden werkgebundene Beiträge an die Baukosten von Fuss-, Wander- und Radwegen von kantonaler und regionaler Bedeutung.
+<sup>1</sup> Der Kanton leistet den politischen Gemeinden werkgebundene Beiträge an die Baukosten von Fuss-, Wander- und Velowegen von kantonaler Bedeutung.
 
 #### Art. 96
 
@@ -1036,17 +1055,17 @@ als Gesetz:[^ingress-5]
 
 - a) Strassen durch Naturereignisse beschädigt oder gefährdet werden;
 - b) das Vorhaben einem dringenden Bedürfnis entspricht;
-- c) die Kosten für Grundeigentümer und politische Gemeinde nicht tragbar sind.
+- c) die Kosten für Grundeigentümerinnen und Grundeigentümer und politische Gemeinde nicht tragbar sind.
 
 #### Art. 97
 
 **d) Höhe**
 
-<sup>1</sup> Die werkgebundenen Beiträge, einschliesslich allfälliger Bundesbeiträge, betragen:
+<sup>1</sup> Die werkgebundenen Beiträge werden anhand der anrechenbaren Kosten berechnet, die nach Abzug allfälliger Beiträge von Dritten verbleiben. Der Beitragssatz beträgt:
 
-- a) 50 Prozent der anrechenbaren Kosten von strassenverkehrsbedingten Umweltschutzmassnahmen;
-- b) 65 Prozent der anrechenbaren Kosten von Fuss-, Wander- und Radwegen;
-- c) höchstens 75 Prozent der anrechenbaren Kosten bei Naturereignissen.
+- a) 50 Prozent bei strassenverkehrsbedingten Umweltschutzmassnahmen;
+- b) 65 Prozent bei Fuss-, Wander- und Velowegen;
+- c) höchstens 75 Prozent bei Naturereignissen.
 
 <sup>2</sup> Die Regierung kann den Beitragssatz für strassenverkehrsbedingte Umweltschutzmassnahmen bei Schutzobjekten von überregionaler Bedeutung erhöhen.
 
@@ -1073,7 +1092,7 @@ als Gesetz:[^ingress-5]
 
 **Grundsätze**
 
-<sup>1</sup> Der Bestand von Strassen und die Sicherheit ihrer Benützer dürfen nicht beeinträchtigt werden.
+<sup>1</sup> Der Bestand von Strassen und die Sicherheit ihrer Benützerinnen und Benützer dürfen nicht beeinträchtigt werden.
 
 <sup>2</sup> Unzulässig sind insbesondere Beeinträchtigungen durch:
 
@@ -1115,7 +1134,7 @@ als Gesetz:[^ingress-5]
 
 <sup>2</sup> Die zuständige Stelle des Kantons erlässt Baulinienpläne für Kantonsstrassen. Die Vorschriften des Planungs- und Baugesetzes vom 5. Juli 2016[^102bis-2] über den Sondernutzungsplan werden sachgemäss angewendet.
 
-<sup>3</sup> Für An- und Nebenbauten sowie Anlagen innerhalb der Baulinien kann die zuständige Behörde Ausnahmen bewilligen, wenn keine öffentlichen Interessen entgegenstehen. Sie kann den Bewilligungsnehmer verpflichten, An- und Nebenbauten sowie Anlagen auf Verlangen entschädigungslos zu entfernen, und meldet in diesem Fall die Bewilligung als öffentlich-rechtliche Eigentumsbeschränkung zur Anmerkung im Grundbuch an.
+<sup>3</sup> Für An- und Nebenbauten sowie Anlagen innerhalb der Baulinien kann die zuständige Behörde Ausnahmen bewilligen, wenn keine öffentlichen Interessen entgegenstehen. Sie kann die Bewilligungsnehmerin oder den Bewilligungsnehmer verpflichten, An- und Nebenbauten sowie Anlagen auf Verlangen entschädigungslos zu entfernen, und meldet in diesem Fall die Bewilligung als öffentlich-rechtliche Eigentumsbeschränkung zur Anmerkung im Grundbuch an.
 
 [^102bis-1]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
 [^102bis-2]: sGS [731.1](https://www.gesetzessammlung.sg.ch/data/731.1/de).
@@ -1299,7 +1318,7 @@ als Gesetz:[^ingress-5]
 
 <sup>3</sup> Der vorläufige Strassenplan wird angepasst, wenn wesentliche Änderungen eintreten.
 
-[^122-1]: Baudepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) lit. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
+[^122-1]: Bau- und Umweltdepartement, Art. [25](https://www.gesetzessammlung.sg.ch/data/141.3/de/art25) Bst. a GeschR, sGS [141.3](https://www.gesetzessammlung.sg.ch/data/141.3/de).
 
 #### Art. 123
 
@@ -1345,6 +1364,17 @@ als Gesetz:[^ingress-5]
 
 [^127bis-1]: nGS 2021-052.
 [^127bis-2]: sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
+
+#### Art. 127ter
+
+**Übergangsbestimmung des VIII. Nachtrags vom 29. Juli 2025**
+
+<sup>1</sup> Die politische Gemeinde erstellt die Pläne für die Velowegnetze nach [Art. 5](https://db.clex.ch/link/Bund/705/de) Abs. 1 Bst. a des Bundesgesetzes über Velowege vom 18. März 2022[^127ter-1] bis am 31. Dezember 2027 und setzt sie bis am 31. Dezember 2042 um. Vorbehalten bleibt eine allfällige Verlängerung der Frist durch das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation.[^127ter-2]
+
+<sup>2</sup> Die bisherigen Fuss-, Wander- und Radwege von regionaler Bedeutung gelten bis zur Anpassung an das neue Recht als entsprechende Fuss-, Wander- und Velowege von kantonaler Bedeutung.
+
+[^127ter-1]: SR [705](https://db.clex.ch/link/Bund/705/de).
+[^127ter-2]: [Art. 19](https://db.clex.ch/link/Bund/705/de) Abs. 2 des Bundesgesetzes über Velowege vom 18. März 2022, SR [705](https://db.clex.ch/link/Bund/705/de).
 
 #### Art. 128
 
