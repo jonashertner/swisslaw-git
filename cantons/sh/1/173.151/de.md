@@ -4,13 +4,12 @@ number: "173.151"
 title: Verordnung des Obergerichts über die Akzessistinnen und Akzessisten
 short: Akzessistenverordnung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2026-01-01
+version_adopted: 2025-12-19
 adopted: 2008-12-12
 in_force: 2009-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/173.151"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1941/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2059/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1941/pdf_file"
 
 (Akzessistenverordnung)
 
-Vom 12.12.2008 (Stand 01.01.2025)
+Vom 12.12.2008 (Stand 01.01.2026)
 
 Das Obergericht des Kantons Schaffhausen,
 
@@ -96,11 +95,13 @@ beschliesst:
 
 **Besoldung**
 
-<sup>1</sup> Die Akzessistinnen und Akzessisten erhalten bei einem Vollpensum folgende monatliche Vergütungen, unter Berücksichtigung auch des bei andern Dienststellen von Kanton und Stadt Schaffhausen bereits absolvierten juristischen Praktikums:
+<sup>1</sup> Die Akzessistinnen und Akzessisten erhalten bei einem Vollpensum folgende monatliche Vergütungen,
 
-- a) Fr. 3'340.00 für die ersten drei Monate
-- b) Fr. 3'757.00 für den vierten bis sechsten Monat
-- c) Fr. 4'905.00 ab dem siebten Monat
+unter Berücksichtigung auch des bei ändern Dienststellen von Kanton und Stadt Schaffhausen bereits absolvierten juristischen Praktikums:
+
+- a) Fr. 3'350.00 für die ersten drei Monate
+- b) Fr. 3'768.00 für den vierten bis sechsten Monat
+- c) Fr. 4'920.00 ab dem siebten Monat
 
 <sup>2</sup> Aus wichtigen Gründen und zur Berücksichtigung eines ausserhalb einer Dienststelle von Kanton und Stadt Schaffhausen bereits absolvierten juristischen Praktikums kann die Vergütung einer höheren Stufe vereinbart werden; bei Akzessistinnen und Akzessisten einer unteren Instanz bedarf es dafür der Genehmigung des Obergerichts.
 
@@ -126,7 +127,7 @@ beschliesst:
 
 <sup>2</sup> Die Anstellung richtet sich nach § 3 und 9 dieser Verordnung.
 
-<sup>3</sup> Die Entschädigung beträgt Fr. 2'026.00 pro Monat und kann bei fortgeschrittenen Studierenden im Einvernehmen mit dem Obergericht auf Fr. 2'533.00 pro Monat erhöht werden. Eine 13. Monatsrate wird nicht ausgerichtet. Die Vergütung unterliegt den generellen Lohnanpassungen für das Personal des Kantons.
+<sup>3</sup> Die Entschädigung beträgt Fr. 2'032.00 pro Monat und kann bei fortgeschrittenen Studierenden im Einvernehmen mit dem Obergericht auf Fr. 2'541.00 pro Monat erhöht werden. Eine 13. Monatsrate wird nicht ausgerichtet. Die Vergütung unterliegt den generellen Lohnanpassungen für das Personal des Kantons.
 
 <sup>4</sup> Nicht nach dieser Verordnung richtet sich die Beschäftigung von in der Regel durch Hochschulen vermittelten Volontärinnen und Volontären.
 
