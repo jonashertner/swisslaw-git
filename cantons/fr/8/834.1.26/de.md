@@ -3,13 +3,12 @@ canton: FR
 number: "834.1.26"
 title: Beschluss über die Kostenbeteiligung der in Sonderheimen untergebrachten Personen
 language: de
-version: 2016-01-01
-valid_until: 2025-12-31
-version_adopted: 2015-06-30
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/834.1.26"
-pdf: "https://bdlf.fr.ch/api/de/versions/5560/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/5560/pdf_file"
 
 Beteiligung an den Kosten der Sonderheime – B
 
-vom 19.12.2000 (Fassung in Kraft getreten am 01.01.2016)
+vom 19.12.2000 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -42,9 +41,9 @@ beschliesst:
 
 <sup>2</sup> Für Minderjährige, die in vom Kanton anerkannten Sonderschulen untergebracht sind, beträgt die Beteiligung:
 
-- a) 17.50 Franken pro Nacht für interne Pensionärinnen und Pensionäre;
+- a) 22.50 Franken pro Nacht für interne Pensionärinnen und Pensionäre;
 - b) 9.50 Franken pro Mahlzeit für externe Schülerinnen und Schüler;
-- c) 18 Franken pro Tag und 17.50 Franken pro Nacht für invalide Minderjährige, die dem Heim für Kurzaufenthalte am Wochenende oder während der Ferien anvertraut werden, und für Minderjährige, die in Fällen höherer Gewalt notfallmässig für eine befristete Zeit aufgenommen werden. Ab der 5. aufeinanderfolgenden Nacht beträgt der Preis 15 Franken pro Nacht und 12 Franken pro Tag.
+- c) 18 Franken pro Tag ohne Übernachtung und 22.50 Franken pro Tag mit Übernachtung für Minderjährige mit Behinderungen, die dem Sonderheim für Kurzaufenthalte am Wochenende oder während der Ferien anvertraut werden, sowie für Minderjährige, die in Fällen höherer Gewalt notfallmässig für eine befristete Zeit aufgenommen werden.
 
 <sup>3</sup> Für Minderjährige, die durch eine zivilrechtliche oder strafrechtliche Massnahme untergebracht werden, und Minderjährige, deren Unterbringung vorsorglich erfolgt, beläuft sich der Beitrag je Präsenztag auf:
 

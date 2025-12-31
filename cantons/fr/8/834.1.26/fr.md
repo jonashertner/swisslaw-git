@@ -3,13 +3,12 @@ canton: FR
 number: "834.1.26"
 title: Arrêté fixant la contribution aux frais des personnes prises en charge dans les institutions spécialisées
 language: fr
-version: 2016-01-01
-valid_until: 2025-12-31
-version_adopted: 2015-06-30
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/834.1.26"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5560/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8354/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/5560/pdf_file"
 
 Contribution aux frais des institutions spécialisées – A
 
-du 19.12.2000 (version entrée en vigueur le 01.01.2016)
+du 19.12.2000 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -42,9 +41,9 @@ Arrête:
 
 <sup>2</sup> Pour les mineurs placés dans les écoles spéciales reconnues par le canton, la contribution est de:
 
-- a) 17 fr. 50 par nuit pour les pensionnaires internes;
+- a) 22 fr. 50 par nuitée pour les pensionnaires internes;
 - b) 9 fr. 50 par repas pour les élèves externes;
-- c) 18 francs par jour et 17 fr. 50 par nuit pour les mineurs invalides confiés à des unités assurant l'accueil temporaire en fin de semaine ou durant les vacances et pour les mineurs qui, en cas de force majeure, sont admis d'urgence pour un séjour d'une durée limitée. Dès la cinquième nuit consécutive, le prix est de 15 francs par nuit et de 12 francs par jour.
+- c) 18 francs par jour sans nuitée et 22 fr. 50 par jour en cas de nuitée pour les mineurs invalides confiés à des unités assurant l'accueil temporaire en fin de semaine ou durant les vacances et pour les mineurs qui, en cas de force majeure, sont admis d'urgence pour un séjour d'une durée limitée.
 
 <sup>3</sup> Pour les mineurs placés par mesure judiciaire civile ou pénale et les mineurs dont le placement a lieu à titre préventif, la contribution par jour de présence est de:
 
