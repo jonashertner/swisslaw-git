@@ -4,11 +4,11 @@ title: "Ordinanza del 14 marzo 2008 sull'approvvigionamento elettrico (OAEl)"
 short: OAEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: it
-version: 2025-03-01
+version: 2026-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260101-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250301/it"
 
 (OAEl)
 
-del 14 marzo 2008 (Stato 1° marzo 2025)
+del 14 marzo 2008 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visto l’articolo 30 capoverso 2 della legge del 23 marzo 2007[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-1]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -146,8 +146,8 @@ Per il calcolo dei costi dell’energia computabili si applicano i seguenti prin
 <sup>4</sup> L’attribuzione di cui all’articolo 6 capoverso 5<sup>bis</sup> lettera b LAEl dei contratti di acquisto deve essere indicata il 31 agosto di ogni anno per l’anno tariffario successivo nella contabilità per unità finali di imputazione. I nuovi contratti di acquisto stipulati possono essere attribuiti al servizio universale soltanto nella misura in cui sono necessari a coprire il consumo presumibile nel servizio universale.
 
 [^4-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^4-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^4-3]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^4-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^4-3]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 [^4-4]: [RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
 [^4-5]: [RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
 
@@ -198,7 +198,7 @@ I costi sono computabili soltanto se i gestori delle reti di distribuzione:
 - c. hanno attuato le misure da sé e sulla base dei costi, ma comunque a tariffe pari al massimo a quelle di mercato usuali.
 
 [^4d-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^4d-2]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^4d-2]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 4e
 
@@ -261,7 +261,7 @@ Per garantire una protezione adeguata degli impianti dai ciberattacchi, protegge
 <sup>3</sup> Qualora la ElCom lo richieda, deve esserle fornita la prova del raggiungimento del livello di protezione previsto.
 
 [^5a-1]: Introdotto dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
-[^5a-2]: Lo Standard minimo TIC può essere scaricato gratuitamente dal sito Internet dell’Ufficio federale della cibersicurezza ([www.ncsc.admin.ch](http://www.ncsc.admin.ch) &gt; Informazioni per &gt; Informazioni per specialisti it &gt; Temi &gt; Standard minimi per le TIC).
+[^5a-2]: Lo Standard minimo TIC può essere scaricato gratuitamente dal sito Internet dell’Ufficio federale per l’approvvigionamento economico del Paese ([www.ufae.admin.ch](https://www.bwl.admin.ch/bwl/it/home/bereiche/ikt/ikt_minimalstandard.html) &gt; Settori &gt; TIC &gt; Standard minimo TIC o può essere richiesta gratuitamente all’indirizzo elettronico: info@bwl.admin.ch .).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -375,7 +375,7 @@ Nel conto dei costi devono essere esposte separatamente tutte le voci necessarie
 <sup>7</sup> I gestori di rete presentano alla ElCom il conto dei costi al più tardi entro il 31 agosto.[^7-11]
 
 [^7-1]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nuovo testo giusta l’all. cifra II n. 2 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^7-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^7-2]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 [^7-3]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^7-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^7-5]: Introdotta dalla cifra I dell’O del 1° nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
@@ -420,19 +420,21 @@ Informano i consumatori finali almeno una volta all’anno in forma adeguata cir
 
 #### Art. 8
 
-**Metrologia e processi informativi**
+**Tariffe di misurazione[^8-1]**
 
-<sup>1</sup> I gestori di rete sono responsabili della metrologia e dei processi informativi.
+<sup>1</sup> I gestori di rete fissano le tariffe di misurazione per le diverse potenze di allacciamento per ogni anno tariffario e pubblicano le tariffe entro il 31 agosto (art. 7*b*).[^8-2]
+
+<sup>1bis</sup> La ElCom esegue annualmente un monitoraggio delle tariffe di misurazione.[^8-3]
 
 <sup>2</sup>
 
-Essi definiscono entro la fine del 2025, con la partecipazione dei rappresentanti dei consumatori finali, dei produttori e dei fornitori di servizi del settore elettrico, direttive trasparenti e non discriminatorie per la metrologia e i processi informativi, concernenti in particolare:
+I gestori di rete definiscono entro la fine del 2025, con la partecipazione dei rappresentanti dei consumatori finali, dei produttori e dei fornitori di servizi del settore elettrico, direttive trasparenti e non discriminatorie per la metrologia e i processi informativi, concernenti in particolare:[^8-4]
 
 - a. gli obblighi dei partecipanti;
 - b. i tempi;
 - c. la forma e la qualità dei dati da trasmettere;
 - d. la comunicazione dei dati attraverso la piattaforma dei dati;
-- e. i dati di base secondo l’articolo 8*a**<sup>ter</sup>* capoverso 2.[^8-1]
+- e. i dati di base secondo l’articolo 8*a*<sup>septies</sup> capoverso 2[^8-5].[^8-6]
 
 <sup>3</sup>
 
@@ -443,29 +445,110 @@ Al fine di garantire un approvvigionamento regolare di energia elettrica secondo
 - c. fornitura di energia;
 - d. imputazione dei costi;
 - e. calcolo dei corrispettivi per l’utilizzazione della rete;
-- f. procedure di conteggio in relazione alla LEne[^8-2] e alla OEne[^8-3];
+- f. procedure di conteggio in relazione alla LEne[^8-7] e alla OEne[^8-8];
 - g. commercializzazione diretta;
 - h. impiego di sistemi di controllo e di regolazione intelligenti;
 - i. cambiamento di fornitore; e
-- j. garanzia del diritto dei consumatori finali, dei produttori e dei gestori di impianti di stoccaggio di cui all’articolo 8*a*<sup>ter</sup> capoverso 2. [^8-4]
+- j. garanzia del diritto dei consumatori finali, dei produttori e dei gestori di impianti di stoccaggio di cui all’articolo 8*a*<sup>septies</sup> capoverso 2[^8-9].[^8-10]
 
-<sup>3bis</sup> ...[^8-5]
+<sup>3bis</sup> ...[^8-11]
 
-<sup>4</sup> Su richiesta dei consumatori finali, dei produttori o dei gestori di impianti di stoccaggio interessati, i gestori di rete forniscono a terzi, dietro versamento di un indennizzo a copertura dei costi, dati di misurazione o di base supplementari o elaborati secondo modalità differenti. Devono essere forniti tutti i dati rilevati negli ultimi cinque anni.[^8-6]
+<sup>4</sup> Su richiesta dei consumatori finali, dei produttori o dei gestori di impianti di stoccaggio interessati, i gestori di rete forniscono a terzi, dietro versamento di un indennizzo a copertura dei costi, dati di misurazione o di base supplementari o elaborati secondo modalità differenti. Devono essere forniti tutti i dati rilevati negli ultimi cinque anni.[^8-12]
 
-<sup>5</sup> ...[^8-7]
+<sup>5</sup> ...[^8-13]
 
-[^8-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8-2]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^8-3]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
-[^8-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8-5]: Introdotto dalla cifra I dell’O del 1° nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Abrogato dalla cifra I dell’O del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139))
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139))
+[^8-3]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139))
+[^8-4]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139))
+[^8-5]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026.
 [^8-6]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8-7]: Abrogato dalla cifra I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8-7]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8-8]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^8-9]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026.
+[^8-10]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-11]: Introdotto dalla cifra I dell’O del 1° nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Abrogato dalla cifra I dell’O del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-12]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-13]: Abrogato dalla cifra I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 #### Art. 8a
 
-**Costituzione del gestore della piattaforma dei dati**[^8a-1]
+**Costi d’esercizio computabili**[^8a-1]
+
+<sup>1</sup>
+
+Per costi d’esercizio si intendono i costi delle prestazioni fornite in relazione diretta con la metrologia. Tra questi si annoverano in particolare:
+
+- a. i costi per l’esercizio e la manutenzione degli strumenti di misurazione;
+- b. i costi per il rilevamento, il trattamento e la trasmissione dei dati di misurazione;
+- c. i costi sostenuti secondo l’articolo 17*i* capoverso 3 LAEl per l’utilizzo della piattaforma;
+- d. i costi amministrativi attribuibili alla metrologia.
+
+<sup>2</sup> I gestori di rete fissano direttive trasparenti, unitarie e non discriminatorie per la determinazione dei costi d’esercizio.
+
+[^8a-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 8a<sup>bis</sup>
+
+**Costi del capitale computabili**[^8abis-1]
+
+<sup>1</sup>
+
+I costi del capitale devono essere calcolati a partire dai costi di acquisto o di costruzione e dei costi di installazione. Sono computabili come costi del capitale, al massimo:
+
+- a. gli ammortamenti calcolatori;
+- b. gli interessi calcolatori sui beni patrimoniali necessari per la metrologia.
+
+<sup>2</sup> Gli ammortamenti calcolatori annui sono calcolati con ammortamento lineare per una determinata durata di utilizzazione in funzione di un valore residuo pari a zero.
+
+<sup>3</sup>
+
+Per il calcolo degli interessi calcolatori annui si applicano le regole seguenti:
+
+- a.
+
+  ai beni patrimoniali necessari per la metrologia possono essere aggiunti al massimo i valori seguenti:
+
+  - 1\. i valori residui di acquisto o di costruzione degli impianti necessari alla metrologia risultanti alla fine dell’anno contabile in base agli ammortamenti di cui al capoverso 2,
+  - 2\. il capitale circolante netto necessario alla metrologia;
+
+- b. il tasso d’interesse calcolatorio corrisponde al tasso dei costi medi del capitale investito secondo l’allegato 1.
+
+<sup>4</sup> I gestori di rete fissano in direttive trasparenti e non discriminatorie durate di utilizzazione uniformi e adeguate per gli impianti necessari alla metrologia.
+
+[^8abis-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 8a<sup>ter</sup>
+
+**Disposizioni particolari relative ai costi di misurazione computabili**[^8ater-1]
+
+<sup>1</sup> I costi del capitale e d’esercizio che il gestore di rete sostiene per garantire il diritto alla consultazione e allo scaricamento dei dati di misurazione sono considerati costi di misurazione computabili.
+
+<sup>2</sup> Se un sistema di misurazione intelligente non può essere installato perché il consumatore finale, il produttore o il gestore dell’impianto di stoccaggio rifiutano il suo impiego, il gestore di rete può fatturare individualmente i maggiori costi di misurazione intervenuti a partire dal momento del rifiuto.[^8ater-2]
+
+[^8ater-1]: Introdotta dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8ater-2]: Originario art. 8*a*<sup>sexies</sup> cpv. 3<sup>ter</sup>, poi cpv. 7. Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1<sup>°</sup> giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+
+#### Art. 8a<sup>quater</sup>
+
+**Differenze di copertura nell’ambito dei costi di misurazione**[^8aquater-1]
+
+<sup>1</sup> Se la somma del corrispettivo che il gestore di rete ha riscosso per la metrologia nel corso di un anno tariffario non corrisponde ai costi di misurazione computabili (differenza di copertura), esso compensa tale differenza entro i tre anni tariffari successivi. In caso di copertura insufficiente, può rinunciare alla compensazione.
+
+<sup>2</sup> In casi giustificati la ElCom può estendere il periodo entro il quale compensare una differenza di copertura.
+
+<sup>3</sup>
+
+Il tasso di interesse che il gestore di rete deve applicare al consumatore finale corrisponde:
+
+- a. in caso di copertura insufficiente: al massimo al costo del capitale di terzi conformemente all’allegato 1;
+- b. in caso di copertura in eccesso: almeno al costo del capitale di terzi conformemente all’allegato 1.
+
+[^8aquater-1]: Introdotto dalla la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 8a<sup>quinquies</sup>
+
+**Costituzione del gestore della piattaforma dei dati**[^8aquinquies-1]
 
 <sup>1</sup> La domanda di approvazione degli statuti del gestore della piattaforma dei dati (art. 17*h* cpv. 2 LAEl) deve essere presentata entro il 30 settembre 2025. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) può prorogare di tre mesi questo termine una sola volta.
 
@@ -484,11 +567,11 @@ Essa contiene in particolare le informazioni e i documenti seguenti:
 
 <sup>5</sup> Il DATEC può subordinare l’approvazione degli statuti e il rimborso dei costi a condizioni od oneri. Può stabilire il termine ultimo consentito per l’entrata in funzione della piattaforma dei dati.
 
-[^8a-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8aquinquies-1]: Originario art. 8*a.* Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
-#### Art. 8a<sup>bis</sup>
+#### Art. 8a<sup>sexies</sup>
 
-**Organizzazione del gestore della piattaforma dei dati**[^8abis-1]
+**Organizzazione del gestore della piattaforma dei dati**[^8asexies-1]
 
 <sup>1</sup> Nell’organo direttivo o amministrativo superiore del gestore della piattaforma dei dati gli interessi dei consumatori finali, dei gestori di rete e dei fornitori di servizi del settore elettrico sono rappresentati in modo paritetico per un terzo ciascuno.
 
@@ -498,11 +581,11 @@ Essa contiene in particolare le informazioni e i documenti seguenti:
 
 <sup>4</sup> La maggioranza delle quote e la maggioranza dei diritti di voto devono essere detenute da persone che hanno il proprio domicilio o la propria sede in Svizzera.
 
-[^8abis-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asexies-1]: Originario art. 8a<sup>bis</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
-#### Art. 8a<sup>ter</sup>
+#### Art. 8a<sup>septies</sup>
 
-**Compiti generali del gestore della piattaforma dei dati**[^8ater-1]
+**Compiti generali del gestore della piattaforma dei dati**[^8asepties-1]
 
 <sup>1</sup> Il gestore della piattaforma dei dati garantisce l’esercizio sicuro, performante ed efficiente di una piattaforma dei dati per lo scambio dei dati secondo l’articolo 17*g* LAEl.
 
@@ -524,7 +607,9 @@ Su richiesta comunica:
 
 - a. alla ElCom: i dati di base e di misurazione nonché i dati di cui al capoverso 4 in forma non anonimizzata per i suoi compiti di esecuzione nel quadro della LAEl;
 - b. all’Ufficio federale dell’Energia (UFE): i dati di base e di misurazione nonché i dati di cui al capoverso 4 in forma pseudonimizzata per le valutazioni statistiche;
-- c. alle autorità cantonali: i dati di base e di misurazione in forma pseudonimizzata per i loro compiti di esecuzione.
+- b<sup>bis</sup>.[^8asepties-2] all’organizzazione dell’approvvigionamento economico del Paese e all’Associazione delle aziende elettriche svizzere: i dati di misurazione e i dati di base dei consumatori finali nonché i dati di base dei gestori delle reti di distribuzione in forma non anonimizzata per la preparazione e l’esecuzione delle misure secondo la legge del 17 giugno 2016[^8asepties-3] sull’approvvigionamento del Paese;
+- c.[^8asepties-4] alle autorità cantonali: i dati di misurazione e i dati di base dei grandi consumatori in forma non anonimizzata per i compiti di esecuzione di cui all’articolo 46 capoverso 3 LEne[^8asepties-5] nonché quelli dei consumatori finali in forma pseudonimizzata per altri compiti di esecuzione secondo il diritto federale o cantonale;
+- d.[^8asepties-6] alle università cantonali, ai politecnici federali (PF), agli istituti di ricerca del settore dei PF e alle scuole universitarie professionali: i dati di misurazione e i dati di base in forma anonimizzata per scopi di ricerca.
 
 <sup>6</sup>
 
@@ -534,24 +619,29 @@ Esso salva sulla piattaforma dei dati:
 - b. i dati di base e di misurazione in forma anonimizzata per i suoi compiti secondo il capoverso 3;
 - c. i dati di misurazione in forma pseudonimizzata per i suoi compiti secondo il capoverso 4.
 
-[^8ater-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asepties-1]: Originario art. 8a<sup>ter</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asepties-2]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-3]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^8asepties-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-5]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8asepties-6]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
 
-#### Art. 8a<sup>quater</sup>
+#### Art. 8a<sup>octies</sup>
 
-**Compiti del gestore della piattaforma dei dati nell’ambito della protezione e della sicurezza dei dati**[^8aquater-1]
+**Compiti del gestore della piattaforma dei dati nell’ambito della protezione e della sicurezza dei dati**[^8aocties-1]
 
-<sup>1</sup> Il gestore della piattaforma dei dati garantisce la sicurezza dei dati. Al fine di garantire una protezione adeguata contro le minacce cibernetiche, attua le raccomandazioni dello standard minimo TIC[^8aquater-2] conformemente al profilo di protezione A di cui all’allegato 1*a*.
+<sup>1</sup> Il gestore della piattaforma dei dati garantisce la sicurezza dei dati. Al fine di garantire una protezione adeguata contro le minacce cibernetiche, attua le raccomandazioni dello standard minimo TIC[^8aocties-2] conformemente al profilo di protezione A di cui all’allegato 1*a*.
 
 <sup>2</sup> Il gestore della piattaforma dei dati distrugge i dati di misurazione dopo cinque anni, sempre che non siano rilevanti ai fini della fatturazione o anonimizzati.
 
-<sup>3</sup> Il gestore della piattaforma dei dati garantisce che, qualora abbandoni l’attività o venga aperta una procedura di fallimento a suo carico, i dati necessari all’esercizio della piattaforma dei dati siano trasmessi gratuitamente al DATEC o a un servizio designato da quest’ultimo. Provvede in seguito a distruggere i suoi dati
+<sup>3</sup> Il gestore della piattaforma dei dati garantisce che, qualora abbandoni l’attività o venga aperta una procedura di fallimento a suo carico, i dati necessari all’esercizio della piattaforma dei dati siano trasmessi gratuitamente al DATEC o a un servizio designato da quest’ultimo. Provvede in seguito a distruggere i suoi dati.
 
-[^8aquater-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8aquater-2]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
+[^8aocties-1]: Originario art. 8a<sup>quater</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8aocties-2]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 
-#### Art. 8a<sup>quinquies</sup>
+#### Art. 8a<sup>novies</sup>
 
-**Conto dei costi del gestore della piattaforma dei dati**[^8aquinquies-1]
+**Conto dei costi del gestore della piattaforma dei dati**[^8anovies-1]
 
 <sup>1</sup> Il gestore della piattaforma dei dati allestisce un conto dei costi.
 
@@ -565,84 +655,103 @@ Esso salva sulla piattaforma dei dati:
 
 <sup>6</sup> Il conto dei costi deve essere presentato ogni anno alla ElCom.
 
-[^8aquinquies-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8anovies-1]: Originario art. 8a<sup>quinquies</sup>. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 ### Sezione 1*c*: Sistemi di misurazione, di controllo e di regolazione intelligenti
 
 [^chap3-sec1c-1]
 
-[^chap3-sec1c-1]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^chap3-sec1c-1]: Originaria prima dell'art. 8a<sup>sexies.</sup> Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
-#### Art. 8a<sup>sexies</sup>
+#### Art. 8a<sup>decies</sup>
 
-[^8asexies-1]
+**Sistemi di misurazione intelligenti**[^8adecies-1]
 
 <sup>1</sup>
 
-Per la metrologia e i processi informativi devono essere impiegati sistemi di misurazione intelligenti presso i consumatori finali, gli impianti di produzione e gli impianti di stoccaggio. Tali sistemi sono costituiti dai seguenti elementi:[^8asexies-2]
+Per la metrologia e i processi informativi devono essere impiegati sistemi di misurazione intelligenti presso i consumatori finali, gli impianti di produzione e gli impianti di stoccaggio. Tali sistemi sono costituiti dai seguenti elementi: [^8adecies-2]
 
 - a.
 
-  un contatore di elettricità elettronico installato presso il consumatore finale, l’impianto di produzione o l’impianto di stoccaggio che:[^8asexies-3]
+  un contatore di elettricità elettronico installato presso il consumatore finale, l’impianto di produzione o l’impianto di stoccaggio che: [^8adecies-3]
 
   - 1\. rileva energia attiva ed energia reattiva,
-  - 2\. determina i profili di carico con periodi di misurazione di 15 minuti e li memorizza per almeno 60 giorni,
-  - 3\.[^8asexies-4] dispone di interfacce, segnatamente una riservata alla comunicazione bidirezionale con un sistema di trattamento dei dati e un’altra che consenta al consumatore finale, al produttore o al gestore dell’impianto di stoccaggio interessato perlomeno di consultare i propri dati di misurazione al momento del rilevamento e, se disponibili, i dati dei profili di carico con periodi di misurazione di 15 minuti, in un formato di dati usuale a livello internazionale, e
+  - 2\.[^8adecies-4] determina i profili di carico con periodi di misurazione di 15 minuti e li memorizza per almeno 60 giorni,
+  - 3\.[^8adecies-5] dispone di interfacce, segnatamente una riservata alla comunicazione bidirezionale con un sistema di trattamento dei dati e un’altra che consenta al consumatore finale, al produttore o al gestore dell’impianto di stoccaggio interessato perlomeno di consultare i propri dati di misurazione al momento del rilevamento e, se disponibili, i dati dei profili di carico con periodi di misurazione di 15 minuti, in un formato di dati usuale a livello internazionale, e
   - 4\. rileva e registra le interruzioni dell’approvvigionamento elettrico;
 
 - b. un sistema di comunicazione digitale che garantisce la trasmissione automatizzata dei dati tra il contatore elettrico e il sistema di trattamento dei dati del gestore di rete; e
-- c. un sistema di trattamento dei dati che permette di consultare i dati.[^8asexies-5]
+- c. un sistema di trattamento dei dati che permette di consultare i dati.[^8adecies-6]
 
-<sup>2</sup> Il gestore di rete deve comunicare ai consumatori finali, ai produttori o ai gestori di impianti di stoccaggio che ne facciano richiesta le specifiche tecniche dell’interfaccia del suo contatore.[^8asexies-6]
+<sup>2</sup> I gestori di rete devono comunicare ai consumatori finali, ai produttori o ai gestori di impianti di stoccaggio che ne facciano richiesta le specifiche tecniche delle interfacce del proprio contatore di elettricità.
 
-<sup>3</sup>
+<sup>3</sup> I gestori di rete fissano entro il 31 gennaio 2026 direttive trasparenti e non discriminatorie per i formati di dati usuali a livello internazionale di cui al capoverso 1 lettera a numero 3.
 
-L’interazione fra gli elementi di tali sistemi di misurazione intelligenti permette di:
+<sup>4</sup>
 
-- a. identificare e gestire diversi tipi di contatori di elettricità ai fini dell’interoperabilità;
-- b. aggiornare la parte del software dei contatori di elettricità di cui al capoverso 1 lettera a che non ha nessuna ripercussione sulle caratteristiche metrologiche;
-- c.[^8asexies-7] fornire al consumatore finale, al produttore o al gestore dell’impianto di stoccaggio interessato una rappresentazione comprensibile dei propri dati di misurazione, segnatamente dei profili di carico;
-- d. integrare altri strumenti di misurazione digitali, nonché altri sistemi di controllo e di regolazione intelligenti; e
-- e. individuare, registrare e segnalare manipolazioni e altri effetti esterni sui contatori di elettricità.[^8asexies-8]
+L’interazione fra gli elementi di un sistema di misurazione intelligente permette di:
 
-<sup>4</sup> I costi del capitale e d’esercizio che il gestore di rete sostiene per garantire il diritto alla consultazione e allo scaricamento dei dati di misurazione sono considerati costi di rete computabili.[^8asexies-9]
+- a.[^8adecies-7] identificare e gestire diversi tipi di contatori di elettricità ai fini dell’interoperabilità;
+- b.[^8adecies-8] aggiornare la parte del software dei contatori di elettricità di cui al capoverso 1 lettera a che non ha nessuna ripercussione sulle caratteristiche metrologiche;
+- c.[^8adecies-9] fornire al consumatore finale, al produttore o al gestore dell’impianto di stoccaggio interessato una rappresentazione comprensibile dei propri dati di misurazione, segnatamente dei profili di carico;
+- d.[^8adecies-10] integrare altri strumenti di misurazione digitali, nonché altri sistemi di controllo e di regolazione intelligenti; e
+- e.[^8adecies-11] individuare, registrare e segnalare manipolazioni e altri effetti esterni sui contatori di elettricità.
 
-<sup>5</sup>
+<sup>5</sup> I contatori elettronici di elettricità di cui al capoverso 1 lettera a sottostanno all’ordinanza del 15 febbraio 2006[^8adecies-12] sugli strumenti di misurazione e alle relative disposizioni d’esecuzione del Dipartimento federale di giustizia e polizia, a condizione che rientrino nel loro campo di applicazione.[^8adecies-13]
+
+<sup>6</sup> Se un raggruppamento ai fini del consumo proprio, una comunità locale di energia elettrica oppure il gestore di un impianto di stoccaggio chiede di essere dotato di un sistema di misurazione intelligente, il gestore di rete è tenuto a installarlo entro tre mesi. Nel caso dei raggruppamenti ai fini del consumo proprio tale diritto riguarda tutti i punti di misurazione del raggruppamento nei confronti del gestore di rete.
+
+[^8adecies-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8adecies-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1<sup>°</sup> giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^8adecies-3]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1<sup>°</sup> giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^8adecies-4]: Nuovo testo giusta la cifra I dell’O del 25 nov.. 2020, in vigore dal 1<sup>°</sup> gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
+[^8adecies-5]: Nuovo testo giusta la cifra I dell’O del 25 nov.. 2020, in vigore dal 1<sup>°</sup> gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
+[^8adecies-6]: Originrio art. 8*a* cpv. 1, poi art. 8*a*<sup>sexies</sup> cpv. 1. Introdotto dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> janv. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-7]: Originaria art. 8*a* cpv. 2 lett. a, poi art. 8*a*<sup>sexies</sup> cpv. 3 lett. a. Introdotta dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> janv. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-8]: Originaria art. 8*a* cpv. 2 lett. b, poi art. 8*a*<sup>sexies</sup> cpv. 3 lett. b. Introdotta dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> janv. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-9]: Originaria art. 8*a* cpv. 2 lett. c, poi art. 8*a*<sup>sexies</sup> cpv. 3 lett. c. Introdotta dalla cifra I dell’O del 1<sup>°</sup> nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1<sup>°</sup> gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
+[^8adecies-10]: Originaria art. 8*a* cpv. 2 lett. d, poi art. 8*a*<sup>sexies</sup> cpv. 3 lett. d. Introdotta dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> janv. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-11]: Originaria art. 8*a* cpv. 2 lett. e, poi art. 8*a*<sup>sexies</sup> cpv. 3 lett. e. Introdotta dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> janv. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-12]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
+[^8adecies-13]: Originario art. 8*a* cpv. 4, poi art. 8*a*<sup>sexies</sup> cpv. 8. Introdotto dalla cifra I dell’O del 1<sup>°</sup> nov. 2017, in vigore dal 1<sup>°</sup> gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+
+#### Art. 8a<sup>undecies</sup>
+
+**Deroghe all’obbligo di impiego di sistemi di misurazione intelligenti**[^8aundecies-1]
+
+<sup>1</sup>
 
 Non devono essere impiegati sistemi di misurazione intelligenti nei seguenti casi:
 
-- a. in costruzioni o impianti che sottostanno alla legge federale del 23 giugno 1950[^8asexies-10] concernente la protezione delle opere militari;
-- b. per gli allacciamenti alla rete di trasporto.[^8asexies-11]
+- a. in costruzioni o impianti che sottostanno alla legge federale del 23 giugno 1950[^8aundecies-2] concernente la protezione delle opere militari;
+- b. per gli allacciamenti alla rete di trasporto.[^8aundecies-3]
 
-<sup>6</sup>
+<sup>2</sup>
 
 La ElCom può concedere deroghe di durata determinata o indeterminata all’obbligo di impiego di sistemi di misurazione intelligenti, se tale impiego sarebbe sproporzionato rispetto all’onere oppure inadeguato allo scopo considerati i requisiti metrologici concreti. La deroga può, in una situazione specifica, riguardare:
 
 - a. singoli consumatori finali, produttori o gestori di impianti di stoccaggio oppure gruppi di essi;
-- b. l’intero sistema di misurazione o singoli elementi o caratteristiche dello stesso.[^8asexies-12]
+- b. l’intero sistema di misurazione o singoli elementi o caratteristiche dello stesso.[^8aundecies-4]
 
-<sup>7</sup> Se un sistema di misurazione intelligente non può essere installato perché il consumatore finale, il produttore o il gestore dell’impianto di stoccaggio rifiutano il suo impiego, il gestore di rete può fatturare individualmente i maggiori costi di misurazione intervenuti a partire dal momento del rifiuto.[^8asexies-13]
+[^8aundecies-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8aundecies-2]: [RS 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
+[^8aundecies-3]: Originario art. 8*a* cpv. 3, poi art. 8*a*<sup>sexies</sup> cpv. 5. Introdotto dalla cifra I dell’O del 1<sup>°</sup> nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nuovo testo giusta la cifra I dellˆO del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270))
+[^8aundecies-4]: Originario art. 8*a* cpv. 3<sup>bis</sup>, poi art. 8*a*<sup>sexies</sup> cpv. 6. Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270))
 
-<sup>8</sup> I contatori elettronici di elettricità di cui al capoverso 1 lettera a sottostanno all’ordinanza del 15 febbraio 2006[^8asexies-14] sugli strumenti di misurazione e alle relative disposizioni d’esecuzione del Dipartimento federale di giustizia e polizia, a condizione che rientrino nel loro campo di applicazione.[^8asexies-15]
+#### Art. 8a<sup>duodecies</sup>
 
-<sup>9</sup> Se un raggruppamento ai fini del consumo proprio oppure un gestore di un impianto di stoccaggio chiede di essere dotato di un sistema di misurazione intelligente, il gestore di rete è tenuto a installarlo entro tre mesi. Nel caso dei raggruppamenti ai fini del consumo proprio, tale diritto riguarda tutti i punti di misurazione del raggruppamento nei confronti del gestore di rete.[^8asexies-16]
+**Installazione di contatori di elettricità supplementari**[^8aduodecies-1]
 
-[^8asexies-1]: Originario art. 8*a*. Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^8asexies-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-3]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-4]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-5]: Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769))
-[^8asexies-6]: Originaio art. 8*a* cpv. 1<sup>bis</sup>. Introdotto dalla cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-7]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-8]: Originaio art. 8*a* cpv. 2.
-[^8asexies-9]: Originario 8*a* cpv. 2<sup>bis</sup>. Introdotto dalla cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-10]: [RS 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
-[^8asexies-11]: Originario art. 8*a* cpv. 3. Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-12]: Originario art. 8*a* cpv. 3<sup>bis</sup>. Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-13]: Originario art. 8*a* cpv. 3<sup>ter</sup>. Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-14]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^8asexies-15]: Originario art. 8*a* cpv. 4.
-[^8asexies-16]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+<sup>1</sup>
+
+I costi che il gestore di rete deve assumersi per l’installazione di un contatore di elettricità supplementare (art. 17*a*<sup>bis</sup> cpv. 7 LAEl) corrispondono ai costi effettivi, al massimo tuttavia:
+
+- a. per i costi di installazione: 250 franchi;
+- b. per i costi associati all’esercizio del contatore per un periodo massimo di dieci anni: 120 franchi all’anno.
+
+<sup>2</sup> I gestori di rete possono rimuovere a proprie spese i contatori supplementari installati dopo non meno di un anno se è garantito il richiamo dei propri dati di misurazione.
+
+[^8aduodecies-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 8b
 
@@ -659,31 +768,9 @@ La ElCom può concedere deroghe di durata determinata o indeterminata all’obbl
 
 #### Art. 8c
 
-**Sistemi di controllo e regolazione intelligenti per l’esercizio della rete**[^8c-1]
+[^8c-1]
 
-<sup>1</sup>
-
-Quando dà il consenso affinché venga impiegato un sistema di controllo e di regolazione intelligente ai fini di un esercizio sicuro, performante ed efficiente della rete, il consumatore finale, il produttore o il gestore di un impianto di stoccaggio concorda con il gestore di rete in particolare:[^8c-2]
-
-- a. l’installazione del sistema;
-- b. l’impiego del sistema;
-- c. la rimunerazione per l’impiego del sistema.
-
-<sup>2</sup> La rimunerazione di cui al capoverso 1 lettera c deve basarsi su criteri oggettivi e non può essere discriminatoria.
-
-<sup>3</sup> Il gestore di rete rende accessibili al pubblico le informazioni rilevanti per la conclusione di un contratto sul controllo e la regolazione, in particolare i tassi di rimunerazione.
-
-<sup>4</sup> ...[^8c-3]
-
-<sup>5</sup> Per evitare un grave e imminente pericolo per l’esercizio sicuro della rete, il gestore di rete può installare un sistema di controllo e di regolazione intelligente anche senza il consenso del consumatore finale, del produttore o del gestore dell’impianto di stoccaggio interessato.[^8c-4]
-
-<sup>6</sup> In presenza di un tale pericolo, può impiegare tale sistema anche senza il consenso del consumatore finale, del produttore o del gestore dell’impianto di stoccaggio interessato. Tale impiego ha la priorità sui controlli da parte di terzi. Il gestore di rete informa gli interessati almeno una volta all’anno e su richiesta in merito agli impieghi ai sensi del presente capoverso.[^8c-5]
-
-[^8c-1]: Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^8c-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8c-3]: Abrogato dalla cifra I dell’O del 3 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8c-4]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8c-5]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^8c-1]: Introdotto dalla cifra I dell’O del 1° nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Abrogato dalla cifra I dell’O del 19 feb. 2025, con effetto dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 8d
 
@@ -804,15 +891,13 @@ I seguenti costi non sono computabili come costi per provvedimenti in caso di mi
 
 #### Art. 13a<sup>bis</sup>
 
-**Costi computabili dei sistemi di misurazione, di controllo e di regolazione**[^13abis-1]
+**Costi computabili dei sistemi di controllo e di regolazione**[^13abis-1]
 
-Per costi computabili si intendono:
+<sup>1</sup> Sono considerati costi computabili i costi del capitale e i costi d’esercizio dei sistemi di controllo e di regolazione impiegati per l’utilizzo della flessibilità al servizio della rete secondo l’articolo 19*a*, compresa la rimunerazione versata.
 
-- a. i costi del capitale e i costi d’esercizio dei sistemi di misurazione secondo la presente ordinanza;
-- b.[^13abis-2] i costi del capitale e i costi d’esercizio dei sistemi di controllo e regolazione impiegati ai sensi dell’articolo 8*c*, compresa la rimunerazione versata (art. 8*c* cpv. 1 lett. c).
+<sup>2</sup> I gestori di rete fissano direttive trasparenti e non discriminatorie sulle componenti dei sistemi di controllo e di regolazione intelligenti, in particolare sui provvedimenti tecnici preparatori all’installazione.
 
-[^13abis-1]: Originario art. 13*a*. Introdotto dalla cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^13abis-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^13abis-1]: Originario art. 13*a*. Introdotto dalla cifra I dell’O del 1° nov. 2017 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 13b
 
@@ -911,44 +996,39 @@ La ElCom:
 
 <sup>2</sup> Le entrate risultanti dall’utilizzazione transfrontaliera della rete di trasporto nell’ambito della compensazione tra gestori europei della rete di trasporto («Inter-Transmission System Operator-Compensation», ITC) sono da impiegare interamente per la copertura dei costi computabili della rete di trasporto, previa deduzione della tassa di vigilanza di cui all’articolo 28 LAEl.
 
-<sup>3</sup> Nel calcolo delle entrate di cui al capoverso 2 possono essere dedotte solamente quelle perdite di guadagno che non possono essere attribuite ad una causa determinata o che risultano da un’eccezione all’accesso alla rete per le capacità nella rete di trasporto transfrontaliera (art. 17 cpv. 6 LAEl). Le restanti perdite di guadagno sono fatturate a chi le ha generate secondo l’articolo 15 capoverso 1 lettera c.
+<sup>3</sup> Nel calcolo delle entrate di cui al capoverso 2 possono essere dedotte solamente quelle perdite di guadagno che non possono essere attribuite ad una causa determinata o che risultano da un’eccezione all’accesso alla rete per le capacità nella rete di trasporto transfrontaliera (art. 17 cpv. 6 LAEl).[^14-1]
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 15
 
-**Imputazione dei costi della rete di trasporto**
+**Imputazione dei costi della rete di trasporto**[^15-1]
 
-<sup>1</sup>
-
-La società nazionale di rete fattura individualmente:
-
-- a. ai gestori di rete e ai consumatori finali direttamente allacciati alla rete di trasporto i costi per la compensazione delle perdite di energia e la fornitura di energia reattiva da essi generati;
-- b.[^15-1] ai gruppi di bilancio i costi per l’energia di compensazione, comprese le quote della potenza messa in riserva per la regolazione secondaria e terziaria, e per la gestione del programma previsionale nonché i prelievi dalla riserva di energia elettrica secondo l’OREI[^15-2];
-- c.[^15-3] ai responsabili di minori ricavi per l’utilizzazione transfrontaliera della rete l’importo corrispondente; il DATEC può prevedere regole derogatorie per concedere eccezioni secondo l’articolo 17 capoverso 6 LAEl.
+<sup>1</sup> La società nazionale di rete fattura individualmente ai gruppi di bilancio i prelievi dalla riserva di energia elettrica secondo l’OREI[^15-2].
 
 <sup>2</sup>
 
 Ai gestori di rete e ai consumatori finali direttamente allacciati alla rete di trasporto la società nazionale di rete fattura, proporzionalmente all’energia elettrica ricevuta dai consumatori finali, i seguenti costi:
 
-- a.[^15-4] i costi per la gestione del sistema e dei dati di misurazione, la capacità di partenza senza alimentazione di rete e la capacità di servizio isolato dei generatori di energia elettrica, il mantenimento della tensione, la regolazione primaria e le quote della potenza messa in riserva per la regolazione secondaria e terziaria, che non possono essere attribuiti ad un gruppo di bilancio. La ElCom fissa ogni anno l’importo massimo;
-- a<sup>bis</sup>.[^15-5] i costi in relazione alla riserva di energia elettrica secondo l’OREI;
-- b.[^15-6] i costi per i potenziamenti delle reti di distribuzione e delle linee di raccordo secondo l’articolo 15*b* capoversi 3–5 LAEl;
-- c.[^15-7] ...
+- a. i costi per la gestione del sistema e dei dati di misurazione, la capacità di partenza senza alimentazione di rete e la capacità di servizio isolato dei generatori di energia elettrica, il mantenimento della tensione, la regolazione primaria e le quote della potenza messa in riserva per la regolazione secondaria e terziaria, che non possono essere attribuiti ad un gruppo di bilancio; la ElCom fissa ogni anno l’importo massimo;
+- b. i costi in relazione con la riserva di energia elettrica secondo l’OREl e i costi di cui all’articolo 15*a* capoverso 1 LAEl;
+- c. i costi per i potenziamenti delle reti di distribuzione e delle linee di raccordo secondo l’articolo 15*b* capoversi 3–5 LAEl.
 
 <sup>3</sup>
 
 Ai consumatori finali allacciati direttamente alla rete di trasporto e ai gestori di rete la società nazionale di rete fattura, in modo non discriminatorio e secondo una tariffa unitaria per la zona di regolazione Svizzera, i rimanenti costi computabili nonché i tributi e le prestazioni agli enti pubblici in base al seguente schema:
 
-- a. al 30 per cento in base all’energia elettrica ricevuta dai consumatori finali allacciati direttamente e da tutti i consumatori finali allacciati alla rete del livello inferiore;
-- b. al 60 per cento in base alla media annua della potenza massima mensile effettiva richiesta alla rete di trasporto da ogni consumatore finale allacciato direttamente e da ogni rete del livello inferiore;
-- c. al 10 per cento in base a una tariffa di base fissa per punto di prelievo nella rete di trasporto.
+- a.
 
-[^15-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^15-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
-[^15-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^15-4]: Nuovo testo giusta la cifra I dell’O del 12 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
-[^15-5]: Introdotta dall’art. 12 dell’O del 7 set. 2022 sulla costituzione di una riserva di energia idroelettrica ([RU 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Nuovo testo giusta l’all. cifra II n. 2 dell’O del 25 gen. 2023 sulla riserva invernale, in vigore dal 15 feb. 2023 al 31 dic. 2026 ([RU 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^15-6]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^15-7]: Abrogata dalla cifra I dell’O del 1° nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+  al 10 per cento in base all’energia elettrica prelevata dalla rete in questione:
+
+  - 1\. dai consumatori finali allacciati direttamente alla rete, e
+  - 2\. dai consumatori finali allacciati al livello di rete inferiore;
+
+- b. al 90 per cento in base alla media annua della potenza massima mensile richiesta alla rete di trasporto da ogni consumatore finale allacciato direttamente alla rete e da ogni rete del livello inferiore.
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^15-2]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 
 #### Art. 16
 
@@ -956,40 +1036,91 @@ Ai consumatori finali allacciati direttamente alla rete di trasporto e ai gestor
 
 <sup>1</sup>
 
-I costi computabili, i tributi e le prestazioni agli enti pubblici non fatturati individualmente nonché la partecipazione ad una rete del livello superiore sono attribuiti ai consumatori finali e ai gestori di rete allacciati direttamente alla rete in questione in base al seguente schema:
+I costi computabili, i tributi e le prestazioni agli enti pubblici non fatturati individualmente nonché la partecipazione ad una rete del livello superiore sono a carico dei consumatori finali e dei gestori di rete allacciati direttamente alla rete in questione in base al seguente schema:
 
-- a. al 30 per cento in base all’energia elettrica ricevuta dai consumatori finali allacciati direttamente alla rete e da tutti i consumatori finali allacciati alla rete del livello inferiore;
-- b. al 70 per cento in base alla media annua della potenza massima mensile effettiva richiesta alla rete del livello superiore da ogni consumatore finale allacciato direttamente alla rete e dalle reti del livello inferiore.
+- a.
+
+  al 10 per cento in base all’energia elettrica prelevata dalla rete in questione:
+
+  - 1\. dai consumatori finali allacciati direttamente alla rete, e
+  - 2\. dai consumatori finali allacciati al livello di rete inferiore;
+
+- b. al 90 per cento in base alla media annua della potenza massima mensile effettiva richiesta alla rete in questione da ogni consumatore finale allacciato direttamente alla rete e da ogni rete del livello inferiore.[^16-1]
+
+<sup>1bis</sup> L’energia elettrica determinante ai fini dell’imputazione dei costi al livello di rete inferiore secondo il capoverso 1 lettera a numero 2 include secondo il principio del netto anche i quantitativi di energia elettrica immessi nei livelli di rete inferiori. Questi quantitativi sono calcolati contemporaneamente in tutti i punti di interconnessione tra i livelli di rete.[^16-2]
 
 <sup>2</sup> Il corrispettivo per l’utilizzazione della rete non deve superare, per livello di rete, i costi computabili nonché i tributi e le prestazioni agli enti pubblici del livello di rete in questione.
 
-<sup>3</sup> Se l’allacciamento o l’esercizio di impianti di produzione o di impianti di stoccaggio senza consumo finale generano costi supplementari sproporzionati nelle reti di distribuzione, tali costi non rientrano nei costi di rete. Devono essere sostenuti in misura adeguata dai produttori e dai gestori degli impianti di stoccaggio senza consumo finale.[^16-1]
+<sup>3</sup> Se l’allacciamento o l’esercizio di impianti di produzione o di impianti di stoccaggio senza consumo finale generano costi supplementari sproporzionati nelle reti di distribuzione, tali costi non rientrano nei costi di rete. Devono essere sostenuti in misura adeguata dai produttori e dai gestori degli impianti di stoccaggio senza consumo finale.[^16-3]
 
-[^16-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^16-2]: Introdotto dala cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 #### Art. 17
 
 **Imputazione dei costi tra reti e determinazione della potenza massima**
 
-I gestori di rete emanano direttive trasparenti e non discriminatorie per l’imputazione dei costi tra reti dello stesso livello direttamente collegate tra di loro e per la determinazione uniforme della media annua della potenza massima mensile effettiva.
+<sup>1</sup> I gestori di rete emanano direttive trasparenti e non discriminatorie per l’imputazione dei costi tra reti dello stesso livello direttamente collegate tra di loro e per la determinazione uniforme della media annua della potenza massima mensile effettiva.
+
+<sup>2</sup> Per il calcolo della potenza massima mensile è determinante la potenza netta. Quest’ultima corrisponde alla potenza massima prelevata dal livello di rete superiore e calcolata contemporaneamente in tutti i punti di interconnessione tra i livelli di rete.[^17-1]
+
+[^17-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 18
 
-**Tariffe per l’utilizzazione della rete**[^18-1]
+**Principi applicabili alle tariffe per l’utilizzazione della rete a tutti i livelli di rete**[^18-1]
 
-<sup>1</sup> I gestori di rete sono responsabili della determinazione delle tariffe per l’utilizzazione della rete.
+<sup>1</sup> I gestori di rete fissano le tariffe per l’utilizzazione della rete per ogni anno tariffario.
 
-<sup>2</sup> All’interno di un livello di tensione i consumatori finali con profili di acquisto comparabili costituiscono un gruppo di clienti. A livelli di tensione inferiori a 1 kV i consumatori finali che vivono in immobili abitati tutto l’anno e con un consumo annuo inferiore a 50 MWh appartengono allo stesso gruppo di clienti (gruppo di clienti di base).
+<sup>2</sup> All’interno di un livello di tensione i consumatori finali con un profilo di acquisto simile costituiscono un gruppo di clienti con un’offerta unitaria di tariffe per l’utilizzazione della rete.
 
-<sup>3</sup> I gestori di rete devono offrire ai consumatori finali del gruppo di clienti di base una tariffa per l’utilizzazione della rete con una componente di lavoro non decrescente (ct./kWh) almeno del 70 per cento.
+<sup>3</sup> I gestori di rete fissano una tariffa standard per ogni gruppo di clienti e la designano come tale. Possono proporre ai consumatori finali anche altre tariffe.
 
-<sup>4</sup> I gestori di rete possono proporre loro altre tariffe per l’utilizzazione della rete; ai consumatori finali con misurazione della potenza possono offrire anche tariffe con una componente di lavoro non decrescente (ct./kWh) inferiore al 70 per cento.
+<sup>4</sup> Nei limiti dei principi tariffari previsti dalla legge (art. 14 cpv. 3 LAEl), i gestori di rete sono liberi di determinare le singole componenti tariffarie; sono fatte salve le disposizioni particolari di cui al capoverso 5 nonché all’articolo 18*a* capoversi 2 e 4.
 
-[^18-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+<sup>5</sup>
+
+Per le tariffe di utilizzazione della rete dinamiche valgono i seguenti principi:
+
+- a. devono incentivare comportamenti al servizio della rete attraverso tariffe fissate in base ai valori del carico di rete attesi per il giorno seguente;
+- b. in deroga al capoverso 2 possono essere differenziate localmente in base alla situazione della rete;
+- c. sono strutturate in modo tale da poter essere comparate per un profilo di carico standard di un gruppo di clienti con altre tariffe di questo gruppo di clienti;
+- d. i risparmi per i clienti finali devono basarsi sui vantaggi attesi per il gestore di rete in termini di costi;
+- e. la struttura delle tariffe dinamiche deve essere trasparente e comprensibile.
+
+<sup>6</sup> Se il gestore di rete definisce come tariffa standard per l’utilizzazione della rete una tariffa dinamica, deve offrire al gruppo di clienti interessato almeno una tariffa opzionale senza componenti dinamiche.
+
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 18a
 
-**Differenze di copertura nell’ambito dei costi di rete**[^18a-1]
+**Tariffe per l’utilizzazione della rete del livello di bassa tensione**[^18a-1]
+
+<sup>1</sup>
+
+Al livello di bassa tensione, per la formazione dei gruppi di clienti valgono i seguenti principi:
+
+- a. i consumatori finali che vivono in immobili abitati tutto l’anno e con un consumo annuo inferiore a 50 MWh rientrano nel gruppo di clienti di base;
+- b. i consumatori finali che vivono in immobili abitati tutto l’anno con un consumo annuo inferiore a 50 MWh ma non ancora dotati di un contatore di elettricità intelligente. ostituiscono un gruppo di clienti a sé stante.
+
+<sup>2</sup>
+
+Per la definizione della tariffa standard del gruppo di clienti di base i gestori di rete possono scegliere fra i tre seguenti modelli di tariffe per l’utilizzazione della rete:
+
+- a. tariffe con una componente di lavoro non decrescente (ct./kWh) pari ad almeno il 70 per cento;
+- b. tariffe dinamiche;
+- c. tariffe con una componente di lavoro non decrescente (ct./kWh) pari ad almeno il 50 per cento e una componente variabile di potenza (ct./kW) il cui ammontare si basi sul carico di rete e presenti almeno quattro diversi valori al giorno.
+
+<sup>3</sup> L’ammontare della componente variabile di potenza secondo il capoverso 2 lettera c deve basarsi su fasce temporali stabilite secondo la stima del carico di rete previsto per l’intero anno tariffario.
+
+<sup>4</sup> Per i consumatori finali di cui al capoverso 1 lettera b tutte le tariffe devono includere una componente di lavoro non decrescente (ct./kWh) pari ad almeno il 70 per cento.
+
+[^18a-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 18b
+
+**Differenze di copertura nell’ambito dei costi di rete**[^18b-1]
 
 <sup>1</sup> Se la somma del corrispettivo per l’utilizzazione della rete che il gestore della rete ha riscosso nel corso di un anno tariffario non corrisponde ai costi di rete computabili (differenza di copertura), il gestore della rete deve compensare tale differenza entro i tre anni tariffari successivi. In caso di copertura insufficiente, può rinunciare alla compensazione.
 
@@ -1002,16 +1133,131 @@ Il tasso di interesse che il gestore di rete deve applicare al consumatore final
 - a. in caso di copertura insufficiente: al massimo al costo del capitale di terzi conformemente all’allegato 1;
 - b. in caso di copertura in eccesso: almeno al costo del capitale di terzi conformemente all’allegato 1.
 
-[^18a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+[^18b-1]: Originario art. 18*a*. Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
-#### Art. 18b
+#### Art. 18c
 
-**Esenzione dall’obbligo di versamento del corrispettivo per l’utilizzazione della rete**[^18b-1]
+**Esenzione dall’obbligo di versamento del corrispettivo per l’utilizzazione della rete**[^18c-1]
 
-L’esenzione dall’obbligo di versamento del corrispettivo per l’utilizzazione della rete (art. 14*a* cpv. 1 e 3 LAEl) comprende anche i costi per le prestazioni di servizio relative al sistema, la riserva di energia elettrica secondo la OREI[^18b-2], il supplemento rete secondo l’articolo 35 LEne e i costi correlati agli articoli 15*a* e 15*b* LAEl.
+L’esenzione dall’obbligo di versamento del corrispettivo per l’utilizzazione della rete (art. 14*a* cpv. 1 e 3 LAEl) comprende anche i costi per le prestazioni di servizio relative al sistema, la riserva di energia elettrica secondo la OREI[^18c-2], il supplemento rete secondo l’articolo 35 LEne e i costi correlati agli articoli 15*a* e 15*b* LAEl.
 
-[^18b-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^18b-2]: [RS 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^18c-1]: Originario art. 8*b*. Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^18c-2]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+
+#### Art. 18d
+
+**Rimborso del corrispettivo per l’utilizzazione della rete**[^18d-1]
+
+<sup>1</sup> I gestori di rete fissano una tariffa di rimborso per gli impianti di stoccaggio con consumo finale (art. 14*a* cpv. 4 lett. a LAEl) e per gli impianti per la trasformazione di elettricità (art. 14*a* cpv. 4 lett. b LAEl; impianti di trasformazione).
+
+<sup>2</sup> Il rimborso a favore di impianti pilota e di dimostrazione (art. 14*a* cpv. 4 lett. c LAEl) comprende il corrispettivo per l’utilizzazione della rete versato, inclusi i costi per le prestazioni di servizio relative al sistema, per la riserva di energia elettrica secondo la OREI[^18d-2] e per il supplemento rete di cui all’articolo 35 LEne[^18d-3] nonché i costi in relazione con gli articoli 15*a* e 15*b* LAEl.
+
+<sup>3</sup> I gestori di rete rimborsano l’importo corrispondente nell’ambito della fatturazione successiva attraverso una riduzione del corrispettivo per l’utilizzazione della rete.
+
+<sup>4</sup> Il rimborso per gli impianti di stoccaggio con consumo finale e per gli impianti di trasformazione non deve essere superiore alla componente di lavoro (ct./kWh) fatturata e sommata ai costi di cui all’articolo 18*e* capoverso 1 lettera b.
+
+[^18d-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18d-2]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+[^18d-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 18e
+
+**Tariffe di rimborso**[^18e-1]
+
+<sup>1</sup>
+
+La tariffa di rimborso per gli impianti di stoccaggio con consumo finale e per gli impianti di trasformazione corrisponde alla somma tra:
+
+- a. la componente di lavoro media per l’anno tariffario (ct./kWh) della tariffa per l’utilizzazione della rete nel punto di immissione;
+- b.
+
+  i costi per:
+
+  - 1\. le prestazioni di servizio relative al sistema,
+  - 2\. la riserva di energia elettrica secondo la OREl[^18e-2],
+  - 3\. il supplemento rete secondo l’articolo 35 LEne[^18e-3], e
+  - 4\. le misure di cui agli articoli 15*a* e 15*b* LAEl.
+
+<sup>2</sup> Se per gli impianti di stoccaggio con consumo finale e per gli impianti di trasformazione si applica una tariffa dinamica per l’utilizzazione della rete, la tariffa di rimborso è calcolata in base a una tariffa non dinamica dello stesso gruppo di clienti.
+
+<sup>3</sup> Nel caso di impianti di stoccaggio con consumo finale che partecipano a una comunità locale di energia elettrica (art. 19*e*) e reimmettono in rete elettricità prodotta dalla comunità, per il calcolo della tariffa di rimborso è considerata solo la tariffa ridotta.
+
+[^18e-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18e-2]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+[^18e-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 18f
+
+**Impianti da dotare di un sistema di misurazione intelligente**[^18f-1]
+
+<sup>1</sup>
+
+I gestori degli impianti sotto menzionati che intendano esercitare il proprio diritto al rimborso del corrispettivo per l’utilizzazione della rete devono far dotare di un sistema di misurazione intelligente gli impianti che soddisfano i seguenti requisiti:
+
+- a. gli impianti di stoccaggio con consumo finale e gli impianti di trasformazione allacciati a un impianto di produzione utilizzato a fini del consumo proprio e soggetto all’obbligo di autorizzazione secondo l’articolo 6 dell’ordinanza del 7 novembre 2001[^18f-2] sugli impianti a bassa tensione (OIBT);
+- b. gli impianti pilota e di dimostrazione in cui non tutta l’elettricità prelevata viene trasformata.
+
+<sup>2</sup> I costi per le misurazioni necessarie unicamente per comprovare i quantitativi di elettricità determinanti ai fini del rimborso sono sostenuti dai gestori degli impianti.
+
+[^18f-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18f-2]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+
+#### Art. 18g
+
+**Determinazione del quantitativo di elettricità determinante ai fini del rimborso**[^18g-1]
+
+<sup>1</sup>
+
+Nel caso degli impianti di stoccaggio fissi con consumo finale allacciati a un impianto di produzione utilizzato a fini del consumo proprio e soggetto all’obbligo di autorizzazione secondo l’articolo 6 OIBT[^18g-2], il quantitativo di energia elettrica determinante ai fini del rimborso per ogni periodo di fatturazione viene calcolato come segue:
+
+- a.
+
+  si confrontano i seguenti profili di carico di quindici minuti e si sommano fra loro i rispettivi valori minori:
+
+  - 1\. i valori del quantitativo di elettricità prelevato dalla rete e di quello stoccato,
+  - 2\. i valori del quantitativo di elettricità prelevato dall’impianto di stoccaggio e di quello reimmesso in rete;
+
+- b. è determinante ai fini del rimborso la minore delle due somme di cui alla lettera a numeri 1 e 2.
+
+<sup>2</sup> Nel caso degli impianti di stoccaggio fissi con consumo finale che non sono allacciati ad un impianto di produzione di cui al capoverso 1, è determinante ai fini del rimborso il quantitativo di elettricità immesso nel corrispondente punto di allacciamento domestico.
+
+<sup>3</sup> Nel caso degli impianti di stoccaggio mobili con consumo finale è determinante ai fini del rimborso il quantitativo di elettricità immesso in rete dall’impianto mobile nel corrispondente punto di allacciamento domestico.
+
+<sup>4</sup> I gestori di impianti di trasformazione e di impianti pilota e di dimostrazione devono disporre per il quantitativo di elettricità determinante ai fini del rimborso delle corrispondenti garanzie di origine.
+
+[^18g-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18g-2]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+
+#### Art. 18h
+
+**Rimborso del corrispettivo per l’utilizzazione della rete nel caso di impianti pilota e di dimostrazione**[^18h-1]
+
+<sup>1</sup> I gestori di impianti pilota e di dimostrazione hanno diritto al rimborso se questi ultimi sono riconosciuti come tali dall’UFE, oltre ad adempiere alle condizioni di cui all’articolo 14*a* capoverso 4 lettera c LAEl.
+
+<sup>2</sup>
+
+Un impianto è riconosciuto dall’UFE come impianto pilota e di dimostrazione se presenta caratteristiche tecniche od operative innovative e se:
+
+- a. l’impianto entrerà in esercizio non oltre il 31 dicembre 2034; e
+- b. per l’impianto è già stata presentata una domanda di licenza edilizia.
+
+<sup>3</sup> Per valutare se è già stata superata la potenza totale di 200 MW (art. 14*a* cpv. 4 lett. c LAEl) si considera la data di presentazione della domanda di rimborso al gestore di rete.
+
+<sup>4</sup> I gestori di rete informano l’UFE in merito alle domande di rimborso presentate dai gestori di impianti pilota e di dimostrazione.
+
+<sup>5</sup> L’UFE tiene un elenco pubblicamente accessibile con i dati relativi alla potenza totale di tutti gli impianti pilota e di dimostrazione per i quali è stata presentata una domanda di rimborso e lo aggiorna costantemente.
+
+<sup>6</sup> Il diritto al rimborso dei gestori di impianti pilota e di dimostrazione termina al più tardi dopo 20 anni dalla loro messa in esercizio.
+
+[^18h-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 18i
+
+**Direttive per il rimborso del corrispettivo per l’utilizzazione della rete**[^18i-1]
+
+In collaborazione con i rappresentanti dei consumatori finali, dei produttori e dei fornitori di servizi operanti nel settore elettrico, i gestori di rete fissano direttive trasparenti e non discriminatorie per l’esecuzione tecnica e organizzativa del rimborso del corrispettivo per l’utilizzazione della rete.
+
+[^18i-1]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 19
 
@@ -1024,6 +1270,170 @@ L’esenzione dall’obbligo di versamento del corrispettivo per l’utilizzazio
 <sup>3</sup> Se in seguito al confronto i costi si rivelano ingiustificati, la ElCom dispone che siano compensati nel quadro dell’appianamento delle differenze di copertura delle tariffe per l’utilizzazione della rete, dell’elettricità e di misurazione secondo gli articoli 4*f* e 18*a*.
 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+
+### Sezione 2*a*: Flessibilità al servizio della rete e sistemi di controllo e di regolazione
+
+[^chap3-sec2a-1]
+
+[^chap3-sec2a-1]: Introdotta dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 19a
+
+**Flessibilità al servizio della rete**
+
+L’utilizzo della flessibilità è ritenuto al servizio della rete se grazie ad esso il gestore della rete di distribuzione può:
+
+- a. mitigare situazioni critiche della rete a livello locale;
+- b. evitare un ampliamento della rete;
+- c. posticipare misure per la rete; o
+- d. ridurre i costi della rete nel proprio comprensorio.
+
+#### Art. 19b
+
+**Contenuti del contratto sull’utilizzo della flessibilità**
+
+<sup>1</sup>
+
+Il contratto tra il titolare della flessibilità e il gestore della rete di distribuzione sull’utilizzo della flessibilità disciplina almeno:
+
+- a. l’impiego di un sistema di controllo e di regolazione;
+- b. la portata del previsto utilizzo della flessibilità;
+- c. il canale di informazione nonché la frequenza con cui il gestore della rete di distribuzione informa il titolare della flessibilità sull’utilizzo della sua flessibilità;
+- d. la rimunerazione;
+- e. la durata del contratto;
+- f. le modalità di disdetta.
+
+<sup>2</sup> Il gestore della rete di distribuzione pubblica annualmente le informazioni rilevanti per la stipula di un contratto, in particolare i tassi di rimunerazione.
+
+#### Art. 19c
+
+**Utilizzi garantiti della flessibilità**
+
+<sup>1</sup> L’utilizzo garantito della flessibilità non viene rimunerato.
+
+<sup>2</sup> Il gestore della rete di distribuzione informa su richiesta o almeno una volta all’anno i titolari della flessibilità sui motivi e sulla portata di questi utilizzi.
+
+<sup>3</sup> Per gli utilizzi garantiti della flessibilità il gestore della rete di distribuzione può impiegare un sistema di controllo e di regolazione intelligente senza il consenso del titolare della flessibilità interessato.
+
+<sup>4</sup> La limitazione forzata dell’energia prodotta annualmente nel punto di allacciamento si limita al massimo al 3 per cento.
+
+<sup>5</sup> Con la partecipazione degli attori interessati i gestori di rete stabiliscono in direttive trasparenti e non discriminatorie norme che disciplinano l’attuazione tecnica della gestione dell’immissione e i processi informativi.
+
+#### Art. 19d
+
+**Flessibilità esistente**
+
+<sup>1</sup> La flessibilità si considera esistente se il gestore della rete di distribuzione l’ha utilizzata anteriormente al 1° gennaio 2026 attraverso un sistema di controllo e di regolazione installato presso un titolare della flessibilità.
+
+<sup>2</sup>
+
+Il gestore della rete di distribuzione informa annualmente per iscritto i titolari della flessibilità su almeno i seguenti elementi relativi alla flessibilità esistente:
+
+- a. i contenuti menzionati all’articolo 19*b* capoverso 1 lettere a–d;
+- b. le conseguenze di un divieto secondo il capoverso 3.
+
+<sup>3</sup> Il titolare della flessibilità può vietare l’ulteriore utilizzo della propria flessibilità esistente. In tal caso deve comunicarlo per iscritto al gestore della rete di distribuzione entro 30 giorni dal ricevimento delle informazioni di cui al capoverso 2 oppure con un preavviso di tre mesi per la fine dell’anno civile.
+
+<sup>4</sup> Il divieto non dà al titolare della flessibilità il diritto alla rimozione di un sistema di controllo e di regolazione già installato.
+
+### Sezione 2*b*: Comunità locali di energia elettrica
+
+[^chap3-sec2b-1]
+
+[^chap3-sec2b-1]: Introdotta dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 19e
+
+**Costituzione di una comunità locale di energia elettrica**
+
+<sup>1</sup> Una comunità locale di energia elettrica può essere costituita se la potenza degli impianti di produzione impiegati nella comunità è pari ad almeno il 5 per cento della potenza di allacciamento di tutti i consumatori finali partecipanti.
+
+<sup>2</sup> Gli impianti di produzione che funzionano al massimo per 500 ore all’anno non sono considerati ai fini della determinazione della potenza degli impianti di produzione impiegati nella comunità.
+
+<sup>3</sup> I consumatori finali nonché gli impianti di produzione e gli impianti di stoccaggio installati nella comunità devono trovarsi nel medesimo comprensorio e non possono essere allacciati a livelli di tensione superiori a 36 kV. Inoltre, tali livelli di tensione non possono essere utilizzati per lo scambio di elettricità autoprodotta all’interno della comunità.
+
+<sup>4</sup> I consumatori finali possono partecipare a una sola comunità locale di energia elettrica per ogni centro di consumo. Gli impianti di produzione e gli impianti di stoccaggio possono essere impiegati solamente in una comunità.
+
+<sup>5</sup> Se uno dei presupposti di cui ai capoversi 1, 3 e 4 non è più soddisfatto, il gestore della rete di distribuzione non considera più la comunità locale di energia elettrica come tale.
+
+#### Art. 19f
+
+**Rapporto tra i partecipanti di una comunità locale di energia elettrica**
+
+<sup>1</sup>
+
+I partecipanti alla comunità locale di energia elettrica concordano per iscritto:
+
+- a. il rappresentante della comunità verso l’esterno;
+- b. i tassi di rimunerazione per l’energia elettrica prodotta e consumata internamente;
+- c. l’assunzione dei costi per il trattamento interno dei dati, l’amministrazione e la fatturazione;
+- d. i requisiti di ingresso e di uscita dalla comunità;
+- e. la ripartizione dell’assunzione dei costi per l’utilizzazione della rete e la misurazione nonché per le forniture di energia elettrica all’interno e al di fuori del servizio universale.
+
+<sup>2</sup> L’energia elettrica proveniente dagli impianti di produzione della comunità deve essere venduta, insieme alle relative garanzie di origine, all’interno della comunità stessa. L’organo d’esecuzione di cui all’articolo 64 LEne[^19f-1] è responsabile della verifica delle garanzie di origine vendute all’interno della comunità.
+
+[^19f-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 19g
+
+**Rapporto con il gestore della rete di distribuzione**
+
+<sup>1</sup>
+
+Il rappresentante della comunità locale di energia elettrica comunica al gestore di rete quanto segue:
+
+- a. la costituzione e lo scioglimento della comunità, con tre mesi di anticipo rispetto alla fine di un mese;
+- b. i nuovi partecipanti alla comunità e quelli uscenti, con un mese di anticipo rispetto alla fine di un mese;
+- c. il rappresentante della comunità verso l’esterno;
+- d. i dati tecnici degli impianti di produzione, in particolare il tipo di impianto e la sua potenza elettrica;
+- e. il mancato raggiungimento del valore di cui all’articolo 19*e* capoverso 1;
+- f. i dati tecnici dell’impianto di stoccaggio.
+
+<sup>2</sup> Il gestore della rete di distribuzione accorda ai partecipanti alla comunità un termine appropriato per designare il suo rappresentante. Trascorso infruttuoso tale termine, il gestore della rete di distribuzione può designare quale rappresentante un partecipante alla comunità.
+
+<sup>3</sup>
+
+I gestori delle reti di distribuzione sono tenuti a collaborare. In particolare, nella misura in cui sia necessario ai fini della pianificazione di una comunità locale di energia elettrica, comunicano alle persone interessate alla costituzione della comunità:
+
+- a. la topologia della rete rilevante ai fini della costituzione di una comunità di energia elettrica, al più tardi entro quindici giorni lavorativi dalla corrispondente richiesta;
+- b. la situazione degli allacciamenti alla rete dei consumatori finali, degli impianti di produzione e degli impianti di stoccaggio.
+
+<sup>4</sup>
+
+Per la determinazione del corrispettivo per l’utilizzazione della rete per i singoli partecipanti i gestori della rete di distribuzione procedono come segue:
+
+- a. sulla base dei profili di carico di quindici minuti si considera autoprodotta e venduta nella comunità attraverso la rete di distribuzione la minore delle somme tra il quantitativo totale di elettricità immesso in rete all’interno della comunità, da una parte, e il quantitativo totale di elettricità prelevato dalla comunità, dall’altra;
+- b. il quantitativo determinante secondo la lettera a è attribuito al singolo partecipante in funzione della sua quota di prelievo sul quantitativo totale di elettricità prelevata dalla comunità.
+
+<sup>5</sup> Il corrispettivo per le forniture di elettricità nell’ambito del servizio universale e l’attribuzione del quantitativo di energia elettrica venduta nella comunità sono stabiliti sulla base del capoverso 4.
+
+<sup>6</sup> I quantitativi che ogni impianto di produzione attribuito a una comunità vende a terzi nell’ambito della comunità, al gestore della rete di distribuzione nell’ambito dell’obbligo di ritiro e di rimunerazione oppure a terzi sono determinati sulla base del capoverso 4.
+
+<sup>7</sup> La determinazione del corrispettivo per la misurazione si basa sulle disposizioni in materia di metrologia.
+
+#### Art. 19h
+
+**Riduzione della tariffa per l’utilizzazione della rete**
+
+<sup>1</sup> Lo sconto sulla tariffa per l’utilizzazione della rete a cui i partecipanti alla comunità hanno diritto per il prelievo dell’elettricità da essi stessi prodotta (art. 17*e* cpv. 3 LAEl) ammonta al 40 per cento della loro tariffa per l’utilizzazione della rete secondo l’articolo 18 capoverso 3.
+
+<sup>2</sup> Lo sconto è applicato al quantitativo di energia elettrica secondo l’articolo 19*g* capoverso 4 lettera b.
+
+<sup>3</sup> Se per ragioni legate alla topologia della rete e alla situazione degli allacciamenti dei diversi partecipanti, l’elettricità autoprodotta nella comunità non può essere trasportata da ogni impianto di produzione a un qualsiasi consumatore finale della comunità senza trasformare la tensione, lo sconto per tutti i consumatori finali della comunità è ridotto al 20 per cento.
+
+<sup>4</sup> Per ogni periodo di fatturazione gli impianti di stoccaggio non possono vendere in totale all’interno della comunità più energia elettrica di quanta ne acquistino dalla comunità stessa. Per il quantitativo di energia elettrica reimmessa nella comunità che superi il quantitativo prelevato dalla stessa decade il diritto allo sconto sulla tariffa per l’utilizzazione della rete.
+
+<sup>5</sup>
+
+Sono fatturati senza sconto:
+
+- a. i costi per le prestazioni di servizio relative al sistema;
+- b. i costi per la riserva di energia elettrica secondo l’OREl[^19h-1];
+- c. il supplemento rete secondo l’articolo 35 LEne[^19h-2];
+- d. i tributi e le prestazioni agli enti pubblici.
+
+[^19h-1]: [RS 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+[^19h-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ### Sezione 3: Congestioni nelle forniture transfrontaliere, eccezioni all’accesso alla rete e al calcolo dei costi di rete computabili
 
@@ -1088,8 +1498,8 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 <sup>4</sup> Il responsabile del gruppo di bilancio per le energie rinnovabili esige dall’UFE il pagamento, mediante il Fondo per il supplemento rete, dei costi per l’energia di compensazione inevitabile del suo gruppo di bilancio e dei costi di esecuzione.
 
 [^24-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^24-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^24-3]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 al 31 dic. 2030 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+[^24-2]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^24-3]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772); [2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 24a e 24b
 
@@ -1106,8 +1516,8 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 <sup>2</sup> I punti di immissione mediante i quali l’elettricità da impianti con una potenza inferiore a 100 kW (art. 14 cpv. 1 OPEn) o da impianti con una potenza compresa tra 100 kW e meno di 500 kW, già beneficiari di una rimunerazione secondo il diritto anteriore, viene ritirata al prezzo di mercato di riferimento e che sono dotati di un dispositivo per la misurazione del profilo di carico con trasmissione automatica dei dati o di un sistema di misurazione intelligente sono attribuiti al gruppo di bilancio per le energie rinnovabili sulla base della quantità di elettricità ritirata.[^25-4]
 
 [^25-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^25-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^25-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^25-2]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^25-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^25-4]: Nuovo testo giusta la cifra II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
 
 #### Art. 26
@@ -1120,8 +1530,8 @@ La società nazionale di rete riferisce alla ElCom sull’applicazione della reg
 
 <sup>3</sup> I produttori i cui impianti immettono in rete l’elettricità secondo l’articolo 15 LEne[^26-1] o al prezzo di mercato di riferimento secondo l’articolo 14 capoverso 1 o 105 capoverso 1 OPEn[^26-2] e che vendono alla società nazionale di rete la fornitura fisica di elettricità o parte di essa come energia di regolazione non ricevono per questa elettricità né una rimunerazione supplementare secondo l’articolo 15 LEne né il prezzo di mercato di riferimento secondo l’articolo 25 capoverso 1 lettera b OPEnV.[^26-3]
 
-[^26-1]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^26-2]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^26-1]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^26-2]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 [^26-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 ## Capitolo 4*a*: Progetti pilota
@@ -1236,13 +1646,13 @@ L’UFE emana le prescrizioni tecniche e amministrative necessarie. Può in part
 
 <sup>3</sup> Ad intervalli regolari, la prima volta al più tardi quattro anni dopo l’entrata in vigore della presente ordinanza, riferisce al Consiglio federale sull’adeguatezza, efficacia e efficienza dei provvedimenti previsti nella LAEl e nella presente ordinanza.
 
-<sup>4</sup> Prima di emanare le direttive secondo gli articoli 3 capoversi 1 e 2, 7 capoverso 2, 8*b* capoverso 2, 12 capoverso 2, 13 capoverso 1, 17 e 23 capoverso 2, i gestori di rete consultano in particolare i rappresentanti dei consumatori finali e dei produttori. Pubblicano queste direttive e le direttive secondo l’articolo 8 capoverso 2 tramite un unico sito Internet liberamente accessibile. Se non riescono ad accordarsi su queste direttive in tempo utile o se queste ultime non sono adeguate, l’UFE può emanare disposizioni di esecuzione in questi settori.[^27-2]
+<sup>4</sup> 4 Prima di emanare le direttive di cui agli articoli 3 capoverso 1, 7 capoverso 2, 8a capoverso 2, 8abis capoverso 4, 8b capoverso 2, 12 capoverso 2, 13 capoverso 1, 13abis capoverso 2, 17 e 23 capoverso 2, i gestori di rete consultano in particolare i rappresentanti dei consumatori finali e dei produttori. Pubblicano le succitate direttive e le direttive di cui agli articoli 8 capoverso 2, 18i e 19c capoverso 5 tramite un unico indirizzo Internet liberamente accessibile. Se non riescono ad accordarsi su queste direttive in tempo utile o se queste ultime non sono adeguate, l’UFE può emanare disposizioni di esecuzione in questi settori.[^27-2]
 
 <sup>5</sup> Per il ricorso a organizzazioni private si applica per analogia l’articolo 67 LEne[^27-3].[^27-4]
 
 [^27-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^27-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^27-3]: [RS 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^27-3]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^27-4]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 ### Sezione 2: Modifica del diritto vigente
@@ -1323,27 +1733,29 @@ L’impiego delle entrate risultanti dalle procedure di attribuzione orientate a
 
 **Introduzione di sistemi di misurazione intelligenti**
 
-<sup>1</sup> Entro dieci anni dall’entrata in vigore della modifica del 1° novembre 2017, l’80 per cento di tutti i dispositivi di misurazione di un comprensorio deve soddisfare i requisiti di cui agli articoli 8*a* e 8*b*. Il restante 20 per cento dei dispositivi di misurazione può essere impiegato fino alla fine della loro funzionalità.
+<sup>1</sup> Entro dieci anni dall’entrata in vigore della modifica del 1° novembre 2017, l’80 per cento di tutti i dispositivi di misurazione di un comprensorio deve soddisfare i requisiti di cui agli articoli 8*a*<sup>decies</sup> e 8*b*. Il restante 20 per cento dei dispositivi di misurazione può essere impiegato fino alla fine della loro funzionalità.[^31e-1]
 
 <sup>2</sup>
 
-Durante il periodo transitorio di cui al capoverso 1, il gestore di rete decide quando intende dotare i consumatori finali e i produttori di un sistema di misurazione intelligente di cui agli articoli 8*a* e 8*b*. In ogni caso, sono tenuti a dotarsi di un tale sistema di misurazione intelligente:
+Durante il periodo transitorio di cui al capoverso 1, il gestore di rete decide quando intende dotare i consumatori finali e i produttori di un sistema di misurazione intelligente di cui agli articoli 8*a*<sup>decies</sup> e 8*b*. In ogni caso, sono tenuti a dotarsi di un tale sistema di misurazione intelligente:[^31e-2]
 
 - a. i consumatori finali che esercitano il loro diritto di accesso alla rete;
-- b.[^31e-1] ...
+- b.[^31e-3] ...
 
-<sup>3 e <sup>4</sup></sup> ...[^31e-2]
+<sup>3 e <sup>4</sup></sup> ...[^31e-4]
 
 <sup>5</sup> Gli ammortamenti straordinari necessari per lo smontaggio dei dispositivi di misurazione del gestore di rete non ancora totalmente ammortizzati sono anch’essi costi computabili.
 
-[^31e-1]: Abrogata dalla cifra II dall’O del 29 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
-[^31e-2]: Abrogati dalla cifra I dell’O del 3 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^31e-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^31e-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^31e-3]: Abrogata dalla cifra II dall’O del 29 nov. 2023, con effetto dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^31e-4]: Abrogati dalla cifra I dell’O del 3 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 31f
 
-**Impiego di sistemi di controllo e di regolazione intelligenti per l’esercizio della rete**
+[^31f-1]
 
-Se ha installato e utilizzato sistemi di controllo e di regolazione intelligenti presso i consumatori finali prima dell’entrata in vigore della modifica del 1° novembre 2017, il gestore di rete può continuare a utilizzarli fintanto che il consumatore finale non lo vieti espressamente. Il consumatore finale non ne può vietare l’impiego secondo l’articolo 8*c* capoverso 6.
+[^31f-1]: Abrogato dalla cifra I dell’O del 19 feb. 2025, con effetto dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 31g
 
@@ -1357,7 +1769,7 @@ Le tariffe per l’utilizzazione della rete dell’anno tariffario 2018 sono dis
 
 Fino al 31 dicembre 2018, il gruppo di bilancio per le energie rinnovabili, gli altri gruppi di bilancio e il gestore di rete devono ritirare e rimunerare secondo il diritto previgente l’elettricità proveniente da impianti che immettono in rete elettricità al prezzo di mercato di riferimento secondo gli articoli 14 capoverso 1 o 105 capoverso 1 OPEn[^31h-1].
 
-[^31h-1]: [RS 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^31h-1]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 ### Sezione 4*b*: Disposizioni transitorie della modifica del 3 aprile 2019
 
@@ -1395,22 +1807,24 @@ Il diritto di fornire elettricità ai consumatori finali in regime di servizio u
 
 #### Art. 31l
 
+[^31l-1]
+
 <sup>1</sup>
 
-Il gestore di rete può utilizzare e far rientrare nell’80 per cento di cui all’articolo 31*e* capoverso 1, sino alla fine della loro funzionalità, i sistemi di misurazione che comportano sistemi di misurazione elettronici con misurazione del profilo di carico dell’energia attiva, un sistema di comunicazione con trasmissione automatizzata di dati e un sistema di trattamento dei dati ma che non soddisfano ancora i requisiti di cui agli articoli 8*a* e 8*b*, se:
+Il gestore di rete può utilizzare e far rientrare nell’80 per cento di cui all’articolo 31*e* capoverso 1, sino alla fine della loro funzionalità, i sistemi di misurazione che comportano sistemi di misurazione elettronici con misurazione del profilo di carico dell’energia attiva, un sistema di comunicazione con trasmissione automatizzata di dati e un sistema di trattamento dei dati ma che non soddisfano ancora i requisiti di cui agli articoli 8*a*<sup>decies</sup> e 8*b*, se:
 
 - a. sono stati installati prima del 1° gennaio 2018; o
 - b. il loro acquisto è stato avviato prima del 1° gennaio 2019.
 
-<sup>2</sup> Fintanto che non è possibile disporre di sistemi di misurazione conformi ai requisiti previsti dagli articoli 8*a* e 8*b*, il gestore di rete può utilizzare, se necessario, sistemi di misurazione di cui al capoverso 1 e farli rientrare nell’80 per cento di cui all’articolo 31*e* capoverso 1 sino alla fine della loro funzionalità.
+<sup>2</sup> Fintanto che non è possibile disporre di sistemi di misurazione conformi ai requisiti previsti dagli articoli 8*a*<sup>decies</sup> e 8*b*, il gestore di rete può utilizzare, se necessario, sistemi di misurazione di cui al capoverso 1 e farli rientrare nell’80 per cento di cui all’articolo 31*e* capoverso 1 sino alla fine della loro funzionalità.
 
-<sup>3</sup> I costi dei dispositivi di misurazione che non soddisfano i requisiti previsti dagli articoli 8*a* e 8*b* ma che possono essere impiegati conformemente ai capoversi 1 e 2 e all’articolo 31*e* capoverso 1 secondo periodo rimangono computabili.
+<sup>3</sup> I costi dei dispositivi di misurazione che non soddisfano i requisiti previsti dagli articoli 8*a*<sup>decies</sup> e 8*b* ma che possono essere impiegati conformemente ai capoversi 1 e 2 e all’articolo 31*e* capoverso 1 secondo periodo rimangono computabili.
 
 <sup>4</sup> Per l’impiego di sistemi di misurazione intelligenti negli impianti di stoccaggio si applicano per analogia le norme dell’articolo 31*e* sull’introduzione di sistemi di misurazione intelligenti.
 
-<sup>5</sup> Per l’impiego di sistemi di controllo e di regolazione intelligenti negli impianti di produzione e negli impianti di stoccaggio si applicano per analogia le norme dell’articolo 31*f*.
+<sup>5</sup> I sistemi di misurazione intelligenti che non consentono ai consumatori finali, ai produttori o ai gestori di impianti di stoccaggio di consultare e scaricare i propri dati di misurazione nel modo prescritto dall’articolo 8*a*<sup>decies</sup> capoverso 1 lettera a numero 3 e capoverso 4 lettera c devono essere riequipaggiati quanto prima, al più tardi entro il 30 giugno 2021. Sono fatte salve le deroghe di cui ai capoversi 1 e 2.
 
-<sup>6</sup> I sistemi di misurazione intelligenti che non consentono ai consumatori finali, ai produttori o ai gestori di impianti di stoccaggio di consultare e scaricare i propri dati di misurazione nel modo prescritto dall’articolo 8*a* capoverso 1 lettera a numero 3 e capoverso 2 lettera c devono essere riequipaggiati quanto prima, al più tardi entro il 30 giugno 2021. Sono fatte salve le deroghe di cui ai capoversi 1 e 2.
+[^31l-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 ### Sezione 4*d*: Disposizione transitoria della modifica del 23 novembre 2022
 
@@ -1430,9 +1844,12 @@ Le nuove disposizioni sulla gestione delle differenze di copertura si applicano 
 
 #### Art. 31n
 
-Durante il periodo transitorio di cui all’articolo 31*e* capoverso 1, il gestore di rete decide quando intende dotare i consumatori finali e i produttori di un sistema di misurazione intelligente di cui all’articolo 8*a* e 8*b*. Indipendentemente da ciò, i produttori devono essere dotati di un tale sistema di misurazione intelligente se allacciano alla rete un nuovo impianto di produzione la cui installazione sottostà all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^31n-1] sugli impianti a bassa tensione.
+[^31n-1]
 
-[^31n-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+Durante il periodo transitorio di cui all’articolo 31*e* capoverso 1, il gestore di rete decide quando intende dotare i consumatori finali e i produttori di un sistema di misurazione intelligente di cui agli articoli 8*a*<sup>decies</sup> e 8*b*. Indipendentemente da ciò, i produttori devono essere dotati di un tale sistema di misurazione intelligente se allacciano alla rete un nuovo impianto di produzione la cui installazione sottostà all’obbligo di autorizzazione di cui all’articolo 6 OIBT[^31n-2].
+
+[^31n-1]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^31n-2]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 ### Sezione 4*f*: Disposizione transitoria della modifica del 20 novembre 2024
 
@@ -1450,6 +1867,16 @@ I potenziamenti dovuti alla produzione sono rimunerati secondo il diritto previg
 
 - a. il gestore di rete ha approvato la domanda tecnica di allacciamento; oppure
 - b. è stato stipulato il contratto di allacciamento alla rete.
+
+### Sezione 4*g* *:* [Disposizione transitoria della modifica del 19](https://www.fedlex.admin.ch/eli/cc/2008/226/it) febbraio 2025
+
+[^chap5-sec4g-1]
+
+[^chap5-sec4g-1]: Introdotta dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 31p
+
+Le informazioni di cui all*’*articolo 19d capoverso 2 devono essere fornite per iscritto per la prima volta entro 30 giorni dall*’*entrata in vigore.
 
 ### Sezione 5: Entrata in vigore
 
@@ -1557,11 +1984,12 @@ Allegato 1[^t-1]
 
 Allegato 1a[^t-2]
 
-(art. 5*a*, al. 1, et 8*a*<sup>quater</sup>, al. 1)
+(art. 5*a*, al. 1, et 8*a*<sup>octies</sup>, al. 1[^t-3])
 
 ## Livello da raggiungere nella protezione dai ciberattacchi
 
 [^t-2]: Introdotto dalla cifra II cpv. 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)). Aggiornato dalla cifra II dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^t-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026.
 
 ### 1 Attribuzione alle categorie
 
@@ -1719,13 +2147,13 @@ Per i compiti elencati di seguito, se applicabili, devono essere raggiunti almen
 
 [^annex1a-lvlu1-lvl2-1]: Cfr. nota a piè di pagina relativa all’art. 5*a* cpv. 1.
 
-Allegato 2[^t-3]
+Allegato 2[^t-4]
 
 (art. 28)
 
 ## Modifica del diritto vigente
 
-[^t-3]: Originario all.
+[^t-4]: Originario all.
 
 …[^annex2-lvlu1-1]
 

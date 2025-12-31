@@ -4,11 +4,11 @@ title: Stromversorgungsverordnung vom 14. März 2008 (StromVV)
 short: StromVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/226"
 language: de
-version: 2025-03-01
+version: 2026-01-01
 adopted: 2008-03-14
 in_force: 2008-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20250301-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2008-226-20260101-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/226/20250301/de"
 
 (StromVV)
 
-vom 14. März 2008 (Stand am 1. März 2025)
+vom 14. März 2008 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 30 Absatz 2 des Stromversorgungsgesetzes vom 23. März 200
 
 verordnet:
 
-[^ingress-1]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^ingress-1]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -145,8 +145,8 @@ Für die Berechnung der anrechenbaren Energiekosten gelten die folgenden Grunds�
 <sup>4</sup> Die Zuweisung nach Artikel 6 Absatz 5<sup>bis</sup> Buchstabe b StromVG der Bezugsverträge muss jeweils per 31. August für das nächste Tarifjahr in der Kostenträgerrechnung ausgewiesen werden. Neu abgeschlossene Bezugsverträge dürfen nur soweit der Grundversorgung zugeordnet werden, wie sie für die Deckung des voraussichtlichen Verbrauchs in der Grundversorgung notwendig sind.
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^4-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^4-3]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^4-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^4-3]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 [^4-4]: [AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270), [3479](https://fedlex.data.admin.ch/eli/oc/2019/635); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
 [^4-5]: [AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)
 
@@ -197,7 +197,7 @@ Die Kosten sind nur anrechenbar, wenn die Verteilnetzbetreiber:
 - c. die Massnahmen kostenbasiert, jedoch höchstens zu marktüblichen Ansätzen selber umgesetzt haben.
 
 [^4d-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^4d-2]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^4d-2]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 4e
 
@@ -260,7 +260,7 @@ Zur Sicherstellung eines angemessenen Schutzes von Anlagen vor Cyberbedrohungen,
 <sup>3</sup> Das Erreichen des jeweiligen Schutzniveaus ist der ElCom auf Verlangen nachzuweisen.
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)).
-[^5a-2]: Der IKT-Minimalstandard kann kostenlos beim Bundesamt für Cybersicherheit unter [www.ncsc.admin.ch](http://www.ncsc.admin.ch) &gt; Informationen für &gt; Informationen für IT-Spezialistinnen und -Spezialisten &gt; Themen &gt; Empfehlungen IKT-Minimalstandards abgerufen werden.
+[^5a-2]: Der IKT-Minimalstandard kann kostenlos beim beim Bundesamt für Cybersicherheit unter [www.ncsc.admin.ch](http://www.ncsc.admin.ch/) &gt; Informationen für &gt; Informationen für IT-Spezialistinnen und -Spezialisten &gt; Themen &gt; Empfehlungen IKT-Minimalstandards abgerufen werden.
 
 #### Art. 5a<sup>bis</sup>
 
@@ -374,7 +374,7 @@ In der Kostenrechnung müssen alle für die Berechnung der anrechenbaren Kosten 
 <sup>7</sup> Die Netzbetreiber legen die Kostenrechnung der ElCom bis spätestens zum 31. August vor.[^7-11]
 
 [^7-1]: Eingefügt durch Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Fassung gemäss Anhang Ziff. II 2 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^7-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^7-2]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 [^7-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^7-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 [^7-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
@@ -419,19 +419,21 @@ Sie müssen die Endverbraucher mindestens einmal pro Jahr in geeigneter Weise in
 
 #### Art. 8
 
-**Messwesen und Informationsprozesse**
+**Messtarife[^8-1]**
 
-<sup>1</sup> Die Netzbetreiber sind für das Messwesen und die Informationsprozesse verantwortlich.
+<sup>1</sup> Die Netzbetreiber legen die Messtarife pro Tarifjahr für die unterschiedlichen Anschlussleistungen fest und veröffentlichen die Tarife bis zum 31. August (Art. 7*b*).[^8-2]
+
+<sup>1bis</sup> Die ElCom führt jährlich ein Monitoring der Messtarife durch.[^8-3]
 
 <sup>2</sup>
 
-Sie legen bis spätestens Ende 2025 unter Mitwirkung der Vertreter der Endverbraucher, der Erzeuger und der im Elektrizitätsbereich tätigen Dienstleister transparente und diskriminierungsfreie Richtlinien für das Messwesen und die Informationsprozesse fest, insbesondere:
+Die Netzbetreiber legen bis spätestens Ende 2025 unter Mitwirkung der Vertreterinnen und Vertreter der Endverbraucher, der Erzeuger und der im Elektrizitätsbereich tätigen Dienstleister transparente und diskriminierungsfreie Richtlinien für das Messwesen und die Informationsprozesse fest, insbesondere:[^8-4]
 
 - a. zu den Pflichten der Beteiligten;
 - b. zum zeitlichen Ablauf;
 - c. zur Form und zur Qualität der zu übermittelnden Daten;
 - d. zur Datenbekanntgabe über die Datenplattform;
-- e. zu den Stammdaten nach Artikel 8*a**<sup>ter</sup>* Absatz 2.[^8-1]
+- e. zu den Stammdaten nach Artikel 8*a*<sup>septies</sup> Absatz 2[^8-5].[^8-6]
 
 <sup>3</sup>
 
@@ -442,29 +444,110 @@ Zur Sicherstellung einer ordnungsgemässen Elektrizitätsversorgung nach Artikel
 - c. Energielieferung;
 - d. Anlastung der Kosten;
 - e. Berechnung der Netznutzungsentgelte;
-- f. Abrechnungsprozesse im Zusammenhang mit dem EnG[^8-2] und der EnV[^8-3];
+- f. Abrechnungsprozesse im Zusammenhang mit dem EnG[^8-7] und der EnV[^8-8];
 - g. Direktvermarktung;
 - h. Einsatz von intelligenten Steuer- und Regelsystemen;
 - i. Lieferantenwechsel; und
-- j. Gewährleistung des Rechts der Endverbraucher, der Erzeuger und der Speicherbetreiber nach Artikel 8*a*<sup>ter</sup> Absatz 2.[^8-4]
+- j. Gewährleistung des Rechts der Endverbraucher, der Erzeuger und der Speicherbetreiber nach Artikel 8*a*<sup>septies</sup> Absatz 2[^8-9].[^8-10]
 
-<sup>3bis</sup> …[^8-5]
+<sup>3bis</sup> …[^8-11]
 
-<sup>4</sup> Auf Begehren der betroffenen Endverbraucher, Erzeuger oder Speicherbetreiber liefern die Netzbetreiber Dritten gegen eine kostendeckende Abgeltung zusätzliche oder anders aufbereitete Mess- und Stammdaten. Es müssen alle in den letzten fünf Jahren erhobenen Daten geliefert werden.[^8-6]
+<sup>4</sup> Auf Begehren der betroffenen Endverbraucher, Erzeuger oder Speicherbetreiber liefern die Netzbetreiber Dritten gegen eine kostendeckende Abgeltung zusätzliche oder anders aufbereitete Mess- und Stammdaten. Es müssen alle in den letzten fünf Jahren erhobenen Daten geliefert werden.[^8-12]
 
-<sup>5</sup> …[^8-7]
+<sup>5</sup> …[^8-13]
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8-2]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^8-3]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
-[^8-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Aufgehoben durch Ziff. I der V vom 20. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8-4]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8-5]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst.
 [^8-6]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8-7]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8-7]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8-8]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^8-9]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst.
+[^8-10]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-11]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Aufgehoben durch Ziff. I der V vom 20. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-12]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8-13]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 #### Art. 8a
 
-**Konstituierung des Datenplattformbetreibers**[^8a-1]
+**Anrechenbare Betriebskosten**[^8a-1]
+
+<sup>1</sup>
+
+Als Betriebskosten gelten die Kosten für die Leistungen, die in direktem Zusammenhang mit dem Messwesen erbracht werden. Dazu zählen insbesondere:
+
+- a. die Kosten für den Betrieb und die Wartung der Messmittel;
+- b. die Kosten für die Erfassung, die Bearbeitung und die Übermittlung der Messdaten;
+- c. die Kosten, die nach Artikel 17*i* Absatz 3 StromVG für die Nutzung der Datenplattform anfallen;
+- d. die dem Messwesen zuzuordnenden Verwaltungskosten.
+
+<sup>2</sup> Die Netzbetreiber legen transparente, einheitliche und diskriminierungsfreie Richtlinien für die Ermittlung der Betriebskosten fest.
+
+[^8a-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 8a<sup>bis</sup>
+
+**Anrechenbare Kapitalkosten**[^8abis-1]
+
+<sup>1</sup>
+
+Die Kapitalkosten müssen auf der Basis der Anschaffungs- oder der Herstellkosten und der Installationskosten ermittelt werden. Als Kapitalkosten anrechenbar sind höchstens:
+
+- a. die kalkulatorischen Abschreibungen;
+- b. die kalkulatorischen Zinsen auf den für das Messwesen notwendigen Vermögenswerten.
+
+<sup>2</sup> Die jährlichen kalkulatorischen Abschreibungen berechnen sich bei linearer Abschreibung über eine bestimmte Nutzungsdauer auf den Restwert Null.
+
+<sup>3</sup>
+
+Für die jährliche kalkulatorische Verzinsung gilt Folgendes:
+
+- a.
+
+  Zu den für das Messwesen notwendigen Vermögenswerten dürfen höchstens folgende Werte hinzugerechnet werden:
+
+  - 1\. die Anschaffungs- oder die Herstellrestwerte der für das Messwesen erforderlichen Anlagen, die sich aufgrund der Abschreibungen nach Absatz 2 per Ende des Geschäftsjahres ergeben,
+  - 2\. das für das Messwesen notwendige Nettoumlaufvermögen.
+
+- b. Der kalkulatorische Zinssatz entspricht dem durchschnittlichen Kapitalkostensatz nach Anhang 1.
+
+<sup>4</sup> Die Netzbetreiber legen in transparenten und diskriminierungsfreien Richtlinien einheitliche und sachgerechte Nutzungsdauern für die Anlagen, die für das Messwesen erforderlich sind, fest.
+
+[^8abis-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 8a<sup>ter</sup>
+
+**Besondere Bestimmungen zu den anrechenbaren Messkosten**[^8ater-1]
+
+<sup>1</sup> Die Kapital- und Betriebskosten des Netzbetreibers für die Gewährleistung des Anspruchs auf den Abruf und das Herunterladen der Messdaten gelten als anrechenbare Messkosten.
+
+<sup>2</sup> Kann ein intelligentes Messsystem nicht installiert werden, weil der Endverbraucher, Erzeuger oder Speicherbetreiber dessen Einsatz verweigert, so kann der Netzbetreiber die dadurch entstehenden Mehrkosten der Messung vom Zeitpunkt der Verweigerung an individuell in Rechnung stellen.[^8ater-2]
+
+[^8ater-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8ater-2]: Ursprünglich: Art. 8*a*<sup>sexies</sup> Abs. 3<sup>ter</sup>, dann Abs. 7. Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+
+#### Art. 8a<sup>quater</sup>
+
+**Deckungsdifferenzen im Bereich der Messkosten**[^8aquater-1]
+
+<sup>1</sup> Stimmt die Summe des Messentgelts, das der Netzbetreiber während eines Tarifjahres erhoben hat, nicht mit den anrechenbaren Messkosten überein (Deckungsdifferenz), so muss er diese Abweichung innert der nächsten drei Tarifjahre ausgleichen. Bei einer Unterdeckung kann er auf den Ausgleich verzichten.
+
+<sup>2</sup> In begründeten Fällen kann die ElCom den Zeitraum zum Ausgleich einer Deckungsdifferenz verlängern.
+
+<sup>3</sup>
+
+Der Zinssatz, den der Netzbetreiber gegenüber dem Endverbraucher anwenden muss, entspricht:
+
+- a. bei einer Unterdeckung: höchstens dem Fremdkapitalkostensatz nach Anhang 1;
+- b. bei einer Überdeckung: mindestens dem Fremdkapitalkostensatz nach Anhang 1.
+
+[^8aquater-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 8a<sup>quinquies</sup>
+
+**Konstituierung des Datenplattformbetreibers**[^8aquinquies-1]
 
 <sup>1</sup> Das Gesuch um Genehmigung der Statuten des Datenplattformbetreibers (Art. 17*h* Abs. 2 StromVG) muss bis am 30. September 2025 eingereicht werden. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) kann diese Frist einmalig um drei Monate verlängern.
 
@@ -483,11 +566,11 @@ Es muss insbesondere folgende Angaben und Unterlagen enthalten:
 
 <sup>5</sup> Das UVEK kann die Genehmigung der Statuten und die Rückerstattung der Kosten an Bedingungen knüpfen oder mit Auflagen verbinden. Es kann den spätesten Zeitpunkt der Inbetriebnahme der Datenplattform festlegen.
 
-[^8a-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8aquinquies-1]: Ursprünglich: Art. 8*a*. Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
-#### Art. 8a<sup>bis</sup>
+#### Art. 8a<sup>sexies</sup>
 
-**Organisation des Datenplattformbetreibers**[^8abis-1]
+**Organisation des Datenplattformbetreibers**[^8asexies-1]
 
 <sup>1</sup> Im obersten Leitungs- oder Verwaltungsorgan des Datenplattformbetreibers sind die Interessen der Endverbraucher, der Netzbetreiber und der im Elektrizitätsbereich tätigen Dienstleister paritätisch jeweils zu einem Drittel zu vertreten.
 
@@ -497,11 +580,11 @@ Es muss insbesondere folgende Angaben und Unterlagen enthalten:
 
 <sup>4</sup> Die Mehrheit der Anteile und die Mehrheit der Stimmrechte müssen von Personen mit Wohnsitz oder Sitz in der Schweiz gehalten werden.
 
-[^8abis-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asexies-1]: Ursprünglich: Art. 8*a*<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
-#### Art. 8a<sup>ter</sup>
+#### Art. 8a<sup>septies</sup>
 
-**Allgemeine Aufgaben des Datenplattformbetreibers**[^8ater-1]
+**Allgemeine Aufgaben des Datenplattformbetreibers**[^8asepties-1]
 
 <sup>1</sup> Der Datenplattformbetreiber muss einen sicheren, leistungsfähigen und effizienten Betrieb einer Datenplattform für den Datenaustausch nach Artikel 17*g* StromVG gewährleisten.
 
@@ -523,7 +606,9 @@ Er muss auf Verlangen bekannt geben:
 
 - a. der ElCom: die Mess- und Stammdaten sowie die Daten nach Absatz 4 in nicht anonymisierter Form für ihre Vollzugsaufgaben im Rahmen des StromVG;
 - b. dem Bundesamt für Energie (BFE): die Mess- und Stammdaten sowie die Daten nach Absatz 4 in pseudonymisierter Form für statistische Auswertungen;
-- c. den kantonalen Behörden: die Mess- und Stammdaten in pseudonymisierter Form für ihre Vollzugsaufgaben.
+- b<sup>bis</sup>.[^8asepties-2] der Organisation der wirtschaftlichen Landesversorgung und dem Verband Schweizerischer Elektrizitätsunternehmen: die Mess- und Stammdaten der Endverbraucher und die Stammdaten der Verteilnetzbetreiber in nicht anonymisierter Form für die Vorbereitung und den Vollzug von Massnahmen nach dem Landesversorgungsgesetz vom 17. Juni 2016[^8asepties-3];
+- c.[^8asepties-4] den kantonalen Behörden: die Mess- und Stammdaten von Grossverbrauchern in nicht anonymisierter Form für ihre Vollzugsaufgaben nach Artikel 46 Absatz 3 EnG[^8asepties-5] und der Endverbraucher in pseudonymisierter Form für ihre sonstigen Vollzugsaufgaben nach Bundesrecht oder kantonalem Recht;
+- d.[^8asepties-6] den kantonalen Universitäten, den Eidgenössischen Technischen Hochschulen (ETH), den Forschungsanstalten des ETH-Bereichs und den Fachhochschulen: die Mess- und Stammdaten in anonymisierter Form zum Zwecke der Forschung.
 
 <sup>6</sup>
 
@@ -533,24 +618,29 @@ Er muss auf der Datenplattform speichern:
 - b. die Mess- und Stammdaten in anonymisierter Form für seine Aufgaben gemäss Absatz 3;
 - c. die Messdaten in pseudonymisierter Form für seine Aufgaben gemäss Absatz 4.
 
-[^8ater-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asepties-1]: Ursprünglich: Art. 8*a*<sup>ter</sup>. Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8asepties-2]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-3]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
+[^8asepties-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
+[^8asepties-5]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^8asepties-6]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 831](https://fedlex.data.admin.ch/eli/oc/2025/831)).
 
-#### Art. 8a<sup>quater</sup>
+#### Art. 8a<sup>octies</sup>
 
-**Aufgaben des Datenplattformbetreibers betreffend den Schutz und die Sicherheit der Daten**[^8aquater-1]
+**Aufgaben des Datenplattformbetreibers betreffend den Schutz und die Sicherheit der Daten**[^8aocties-1]
 
-<sup>1</sup> Der Datenplattformbetreiber muss die Datensicherheit gewährleisten. Zur Sicherstellung eines angemessenen Schutzes gegen Cyberbedrohungen muss er die Empfehlungen des IKT-Minimalstandards[^8aquater-2] gemäss dem Schutzniveau für die Kategorie A nach Anhang 1*a* umsetzen.
+<sup>1</sup> Der Datenplattformbetreiber muss die Datensicherheit gewährleisten. Zur Sicherstellung eines angemessenen Schutzes gegen Cyberbedrohungen muss er die Empfehlungen des IKT-Minimalstandards[^8aocties-2] gemäss dem Schutzniveau für die Kategorie A nach Anhang 1*a* umsetzen.
 
 <sup>2</sup> Er muss die Messdaten nach fünf Jahren vernichten, sofern sie nicht abrechnungsrelevant oder anonymisiert sind.
 
 <sup>3</sup> Stellt er den Betrieb ein oder wird über ihn der Konkurs eröffnet, so muss er sicherstellen, dass die für den Betrieb der Datenplattform notwendigen Daten kostenlos auf das UVEK oder auf eine von diesem bezeichnete Stelle übertragen werden. Er muss seine Daten anschliessend vernichten.
 
-[^8aquater-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^8aquater-2]: Siehe Fussnote zu Art. 5*a* Abs. 1.
+[^8aocties-1]: Ursprünglich: Art. 8*a*<sup>quater</sup>. Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8aocties-2]: Siehe Fussnote zu Art. 5*a* Abs. 1.
 
-#### Art. 8a<sup>quinquies</sup>
+#### Art. 8a<sup>novies</sup>
 
-**Kostenrechnung des Datenplattformbetreibers**[^8aquinquies-1]
+**Kostenrechnung des Datenplattformbetreibers**[^8anovies-1]
 
 <sup>1</sup> Der Datenplattformbetreiber erstellt eine Kostenrechnung.
 
@@ -564,83 +654,102 @@ Er muss auf der Datenplattform speichern:
 
 <sup>6</sup> Die Kostenrechnung ist der ElCom jährlich vorzulegen.
 
-[^8aquinquies-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^8anovies-1]: Ursprünglich: Art. 8*a*<sup>quinquies</sup>. Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 ### 1*c**.* Abschnitt: Intelligente Mess-, Steuer- und Regelsysteme
 
 [^chap3-sec1c-1]
 
-[^chap3-sec1c-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^chap3-sec1c-1]: Ursprünglich: vor Art. 8*a*<sup>sexies</sup>. Eingefügt durch Ziff. I der V vom 20. Nov. 2024 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
-#### Art. 8a<sup>sexies</sup>
+#### Art. 8a<sup>decies</sup>
 
-**Intelligente Messsysteme**[^8asexies-1]
+**Intelligente Messsysteme**[^8adecies-1]
 
 <sup>1</sup>
 
-Für das Messwesen und die Informationsprozesse sind bei Endverbrauchern, Erzeugungsanlagen und Speichern intelligente Messsysteme einzusetzen. Diese bestehen aus folgenden Elementen:[^8asexies-2]
+Für das Messwesen und die Informationsprozesse sind bei Endverbrauchern, Erzeugungsanlagen und Speichern intelligente Messsysteme einzusetzen. Diese bestehen aus folgenden Elementen:[^8adecies-2]
 
 - a.
 
-  einem beim Endverbraucher, bei der Erzeugungsanlage oder beim Speicher installierten elektronischen Elektrizitätszähler, der:[^8asexies-3]
+  einem beim Endverbraucher, bei der Erzeugungsanlage oder beim Speicher installierten elektronischen Elektrizitätszähler, der:[^8adecies-3]
 
   - 1\. Wirkenergie und Blindenergie erfasst,
   - 2\. Lastgänge mit einer Periode von fünfzehn Minuten ermittelt und mindestens sechzig Tage speichert,
-  - 3\.[^8asexies-4] Schnittstellen aufweist, insbesondere eine für die bidirektionale Kommunikation mit einem Datenbearbeitungssystem und eine andere für den betroffenen Endverbraucher, Erzeuger oder Speicherbetreiber, die ihm mindestens ermöglicht, seine Messdaten im Moment ihrer Erfassung und gegebenenfalls die Lastgangwerte von fünfzehn Minuten, in einem international üblichen Datenformat abzurufen, und
+  - 3\.[^8adecies-4] Schnittstellen aufweist, insbesondere eine für die bidirektionale Kommunikation mit einem Datenbearbeitungssystem und eine andere für den betroffenen Endverbraucher, Erzeuger oder Speicherbetreiber, die ihm mindestens ermöglicht, seine Messdaten im Moment ihrer Erfassung und gegebenenfalls die Lastgangwerte von fünfzehn Minuten, in einem international üblichen Datenformat abzurufen, und
   - 4\. Unterbrüche der Stromversorgung erfasst und protokolliert;
 
 - b. einem digitalen Kommunikationssystem, das die automatisierte Datenübermittlung zwischen dem Elektrizitätszähler und dem Datenbearbeitungssystem gewährleistet; und
-- c. einem Datenbearbeitungssystem, mit dem die Daten abgerufen werden.
+- c. einem Datenbearbeitungssystem, mit dem die Daten abgerufen werden.[^8adecies-5]
 
-<sup>2</sup> Der Netzbetreiber muss dem Endverbraucher, Erzeuger oder Speicherbetreiber auf Anfrage die technischen Spezifikationen der Schnittstellen seines Elektrizitätszählers bekanntgeben.[^8asexies-5]
+<sup>2</sup> Die Netzbetreiber müssen den Endverbrauchern, den Erzeugern oder den Speicherbetreibern auf Anfrage die technischen Spezifikationen der Schnittstellen ihres Elektrizitätszählers bekanntgeben.
 
-<sup>3</sup>
+<sup>3</sup> Die Netzbetreiber legen bis zum 31. Januar 2026 transparente und diskriminierungsfreie Richtlinien für die nach Absatz 1 Buchstabe a Ziffer 3 zu verwendenden international üblichen Datenformate fest.
 
-Die Elemente eines solchen intelligenten Messsystems funktionieren so zusammen, dass:
+<sup>4</sup>
 
-- a. zwecks Interoperabilität verschiedene Typen von Elektrizitätszählern identifiziert und verwaltet werden;
-- b. der Teil der Software der Elektrizitätszähler nach Absatz 1 Buchstabe a, der keine Auswirkungen auf messtechnische Eigenschaften hat, aktualisiert werden kann;
-- c.[^8asexies-6] der Endverbraucher, Erzeuger oder Speicherbetreiber seine Lastgangwerte von fünfzehn Minuten, die während der jeweils letzten fünf Jahre erfasst wurden, in verständlich dargestellter Form abrufen und in einem international üblichen Datenformat herunterladen kann;
-- d. andere digitale Messmittel sowie intelligente Steuer- und Regelsysteme des Netzbetreibers eingebunden werden können; und
-- e. Manipulationen und andere Fremdeinwirkungen am Elektrizitätszähler erkannt, protokolliert und gemeldet werden.[^8asexies-7]
+Die Elemente eines intelligenten Messsystems funktionieren so zusammen, dass:
 
-<sup>4</sup> Die Kapital- und Betriebskosten des Netzbetreibers für die Gewährleistung des Anspruchs auf den Abruf und das Herunterladen der Messdaten gelten als anrechenbare Netzkosten.[^8asexies-8]
+- a.[^8adecies-6] zwecks Interoperabilität verschiedene Typen von Elektrizitätszählern identifiziert und verwaltet werden;
+- b.[^8adecies-7] der Teil der Software der Elektrizitätszähler nach Absatz 1 Buchstabe a, der keine Auswirkungen auf messtechnische Eigenschaften hat, aktualisiert werden kann;
+- c.[^8adecies-8] der Endverbraucher, Erzeuger oder Speicherbetreiber seine Lastgangwerte von fünfzehn Minuten, die während der jeweils letzten fünf Jahre erfasst wurden, in verständlich dargestellter Form abrufen und in einem international üblichen Datenformat herunterladen kann;
+- d.[^8adecies-9] andere digitale Messmittel sowie intelligente Steuer- und Regelsysteme des Netzbetreibers eingebunden werden können; und
+- e.[^8adecies-10] Manipulationen und andere Fremdeinwirkungen am Elektrizitätszähler erkannt, protokolliert und gemeldet werden.
 
-<sup>5</sup>
+<sup>5</sup> Elektronische Elektrizitätszähler nach Absatz 1 Buchstabe a unterstehen der Messmittelverordnung vom 15. Februar 2006[^8adecies-11] und den entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements, sofern sie in deren Geltungsbereich fallen.[^8adecies-12]
+
+<sup>6</sup> Verlangt ein Zusammenschluss zum Eigenverbrauch, eine lokale Elektrizitätsgemeinschaft oder ein Speicherbetreiber die Ausstattung mit einem intelligenten Messsystem, so muss der Netzbetreiber dieses innerhalb von drei Monaten installieren. Bei Zusammenschlüssen zum Eigenverbrauch bezieht sich dieser Anspruch auf alle Messpunkte des Zusammenschlusses gegenüber dem Netzbetreiber.
+
+[^8adecies-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8adecies-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^8adecies-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^8adecies-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
+[^8adecies-5]: Ursprünglich: Art. 8*a* Abs. 1, dann Art. 8*a*<sup>sexies</sup> Abs. 1. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-6]: Ursprünglich: Art. 8*a* Abs. 2 Bst. a, dann Art. 8*a*<sup>sexies</sup> Abs. 3 Bst. a. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-7]: Ursprünglich: Art. 8*a* Abs. 2 Bst. b, dann Art. 8*a*<sup>sexies</sup> Abs. 3 Bst. b. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-8]: Ursprünglich: Art. 8*a* Abs. 2 Bst. c, dann Art. 8*a*<sup>sexies</sup> Abs. 3 Bst. c. Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
+[^8adecies-9]: Ursprünglich: Art. 8*a* Abs. 2 Bst. d, dann Art. 8*a*<sup>sexies</sup> Abs. 3 Bst. d. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-10]: Ursprünglich: Art. 8*a* Abs. 2 Bst. e, dann Art. 8*a*<sup>sexies</sup> Abs. 3 Bst. e. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+[^8adecies-11]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
+[^8adecies-12]: Ursprünglich: Art. 8*a* Abs. 4, dann Art. 8*a*<sup>sexies</sup> Abs. 8. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+
+#### Art. 8a<sup>undecies</sup>
+
+**Ausnahmen von der Pflicht zum Einsatz von intelligenten Messsystemen**[^8aundecies-1]
+
+<sup>1</sup>
 
 Keine intelligenten Messsysteme müssen eingesetzt werden bei:
 
-- a. Bauten und Anlagen, die dem Bundesgesetz vom 23. Juni 1950[^8asexies-9] über den Schutz militärischer Anlagen unterstehen;
-- b. bei Anschlüssen am Übertragungsnetz.[^8asexies-10]
+- a. Bauten und Anlagen, die dem Bundesgesetz vom 23. Juni 1950[^8aundecies-2] über den Schutz militärischer Anlagen unterstehen;
+- b. bei Anschlüssen am Übertragungsnetz.[^8aundecies-3]
 
-<sup>6</sup>
+<sup>2</sup>
 
 Die ElCom kann befristete und unbefristete Ausnahmen von der Pflicht zum Einsatz intelligenter Messsysteme gewähren, wenn der Einsatz vom Aufwand her unverhältnismässig oder in Bezug auf die konkreten messtechnischen Anforderungen unzweckmässig wäre. Solche Ausnahmen können sich in einer konkreten Situation beziehen:
 
 - a. auf einzelne Endverbraucher, Erzeuger oder Speicherbetreiber oder auf Gruppen davon;
-- b. auf das gesamte Messsystem oder auf einzelne Elemente und Eigenschaften des Messsystems.[^8asexies-11]
+- b. auf das gesamte Messsystem oder auf einzelne Elemente und Eigenschaften des Messsystems.[^8aundecies-4]
 
-<sup>7</sup> Kann ein intelligentes Messsystem nicht installiert werden, weil der Endverbraucher, Erzeuger oder Speicherbetreiber dessen Einsatz verweigert, so kann der Netzbetreiber die dadurch entstehenden Mehrkosten der Messung vom Zeitpunkt der Verweigerung an individuell in Rechnung stellen.[^8asexies-12]
+[^8aundecies-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^8aundecies-2]: [SR 510.518](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7325)
+[^8aundecies-3]: Ursprünglich: Art. 8*a* Abs. 3, dann Art. 8*a*<sup>sexies</sup> Abs. 5. Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^8aundecies-4]: Ursprünglich: Art. 8*a* Abs. 3<sup>bis</sup>, dann Art. 8*a*<sup>sexies</sup> Abs. 6. Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
-<sup>8</sup> Elektronische Elektrizitätszähler nach Absatz 1 Buchstabe a unterstehen der Messmittelverordnung vom 15. Februar 2006[^8asexies-13] und den entsprechenden Ausführungsvorschriften des Eidgenössischen Justiz- und Polizeidepartements, sofern sie in deren Geltungsbereich fallen.[^8asexies-14]
+#### Art. 8a<sup>duodecies</sup>
 
-<sup>9</sup> Verlangt ein Zusammenschluss zum Eigenverbrauch oder ein Speicherbetreiber die Ausstattung mit einem intelligenten Messsystem, so muss der Netzbetreiber dieses innerhalb von drei Monaten installieren. Bei Zusammenschlüssen zum Eigenverbrauch bezieht sich dieser Anspruch auf alle Messpunkte des Zusammenschlusses gegenüber dem Netzbetreiber.[^8asexies-15]
+**Installation von zusätzlichen Elektrizitätszählern**[^8aduodecies-1]
 
-[^8asexies-1]: Ursprünglich: Art. 8*a*. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^8asexies-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-4]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-5]: Ursprünglich: Abs. 1<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-6]: Fassung gemäss Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-7]: Ursprünglich: Abs. 2.
-[^8asexies-8]: Ursprünglich: Abs. 2<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6141](https://fedlex.data.admin.ch/eli/oc/2020/1015)).
-[^8asexies-9]: [SR 510.518](https://fedlex.data.admin.ch/eli/cc/1950/1474_1519_1485)
-[^8asexies-10]: Ursprünglich: Abs. 3. Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-11]: Ursprünglich: Abs. 3<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-12]: Ursprünglich: Abs. 3<sup>ter</sup>. Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8asexies-13]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^8asexies-14]: Ursprünglich: Abs. 4.
-[^8asexies-15]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+<sup>1</sup>
+
+Die Kosten, die ein Netzbetreiber für die Installation eines zusätzlichen Elektrizitätszählers übernehmen muss (Art. 17*a*<sup>bis</sup> Abs. 7 StromVG), entsprechen den tatsächlichen Kosten, höchstens aber:
+
+- a. für die Installationskosten: 250 Franken;
+- b. für die mit dem Betrieb des Zählers verbundenen Kosten während höchstens zehn Jahren: 120 Franken pro Jahr.
+
+<sup>2</sup> Die Netzbetreiber können zusätzlich installierte Elektrizitätszähler frühestens nach einem Jahr auf eigene Kosten wieder entfernen, sofern der Abruf der eigenen Messdaten gewährleistet ist.
+
+[^8aduodecies-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 8b
 
@@ -657,31 +766,9 @@ Die ElCom kann befristete und unbefristete Ausnahmen von der Pflicht zum Einsatz
 
 #### Art. 8c
 
-**Intelligente Steuer- und Regelsysteme für den Netzbetrieb**[^8c-1]
+[^8c-1]
 
-<sup>1</sup>
-
-Stimmt ein Endverbraucher, ein Erzeuger oder ein Speicherbetreiber zu, dass bei ihm ein intelligentes Steuer- und Regelsystem für den sicheren, leistungsfähigen und effizienten Netzbetrieb zum Einsatz gelangt, so vereinbart er mit dem Netzbetreiber insbesondere:[^8c-2]
-
-- a. die Installation des Systems;
-- b. wie das System eingesetzt wird;
-- c. wie der Einsatz des Systems vergütet wird.
-
-<sup>2</sup> Die Vergütung nach Absatz 1 Buchstabe c muss auf sachlichen Kriterien beruhen und darf nicht diskriminierend sein.
-
-<sup>3</sup> Der Netzbetreiber macht die für einen Vertragsabschluss über Steuerung und Regelung relevanten Informationen, insbesondere die Vergütungsansätze, öffentlich zugänglich.
-
-<sup>4</sup> …[^8c-3]
-
-<sup>5</sup> Im Hinblick auf die Abwendung einer unmittelbaren erheblichen Gefährdung des sicheren Netzbetriebs darf der Netzbetreiber auch ohne Zustimmung des betroffenen Endverbrauchers, Erzeugers oder Speicherbetreibers ein intelligentes Steuer- und Regelsystem installieren.[^8c-4]
-
-<sup>6</sup> Im Fall einer solchen Gefährdung darf er dieses System auch ohne Zustimmung des betroffenen Endverbrauchers, Erzeugers oder Speicherbetreibers einsetzen. Ein solcher Einsatz hat Vorrang vor Steuerungen durch Dritte. Der Netzbetreiber informiert die Betroffenen mindestens jährlich sowie auf Anfrage über die nach diesem Absatz getätigten Einsätze.[^8c-5]
-
-[^8c-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^8c-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8c-3]: Aufgehoben durch Ziff. I der V vom 3. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8c-4]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
-[^8c-5]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^8c-1]: Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Aufgehoben durch Ziff. I der V vom 19. Febr. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 8d
 
@@ -802,15 +889,13 @@ Die folgenden Kosten sind nicht als Kosten für Massnahmen bei Gefährdung des s
 
 #### Art. 13a<sup>bis</sup>
 
-**Anrechenbare Kosten von Mess-, Steuer- und Regelsystemen**[^13abis-1]
+**Anrechenbare Kosten von Steuer- und Regelsystemen**[^13abis-1]
 
-Als anrechenbare Kosten gelten:
+<sup>1</sup> Als anrechenbare Kosten gelten die Kapital- und Betriebskosten von Steuer- und Regelsystemen, die für die netzdienliche Nutzung der Flexibilität nach Artikel 19*a* eingesetzt werden, einschliesslich der ausgerichteten Vergütung.
 
-- a. die Kapital- und Betriebskosten von Messsystemen nach dieser Verordnung;
-- b.[^13abis-2] die Kapital- und Betriebskosten von Steuer- und Regelsystemen, die im Sinn von Artikel 8*c* eingesetzt werden, einschliesslich der ausgerichteten Vergütung (Art. 8*c* Abs. 1 Bst. c).
+<sup>2</sup> Die Netzbetreiber legen transparente und diskriminierungsfreie Richtlinien zu den Bestandteilen intelligenter Steuer- und Regelsysteme fest, insbesondere zu den installationstechnischen Vorbereitungen.
 
-[^13abis-1]: Ursprünglich: Art. 13*a*. Eingefügt durch Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^13abis-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^13abis-1]: Ursprünglich: Art. 13*a*. Eingefügt durch Ziff. I der V vom 1. Nov. 2017 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)). Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 13b
 
@@ -909,44 +994,39 @@ Die ElCom muss:
 
 <sup>2</sup> Die Einnahmen aus der grenzüberschreitenden Nutzung des Übertragungsnetzes im Zusammenhang mit dem Ausgleich zwischen europäischen Übertragungsnetzbetreibern («Inter-Transmission System Operator-Compensation», ITC) sind nach Abzug der Aufsichtsabgabe nach Artikel 28 StromVG vollumfänglich für die Deckung der anrechenbaren Kosten des Übertragungsnetzes zu verwenden.
 
-<sup>3</sup> Bei der Berechnung der Einnahmen nach Absatz 2 können nur jene Mindererlöse abgezogen werden, welche nicht einem bestimmten Verursacher zugeordnet werden können oder welche aus einer Ausnahme beim Netzzugang für Netzkapazitäten im grenzüberschreitenden Übertragungsnetz resultieren (Artikel 17 Absatz 6 StromVG). Die übrigen Mindererlöse werden den Verursachern nach Artikel 15 Absatz 1 Buchstabe c in Rechnung gestellt.
+<sup>3</sup> Bei der Berechnung der Einnahmen nach Absatz 2 können nur jene Mindererlöse abgezogen werden, die nicht einem bestimmten Verursacher zugeordnet werden können oder die aus einer Ausnahme beim Netzzugang für Netzkapazitäten im grenzüberschreitenden Übertragungsnetz resultieren (Art. 17 Abs. 6 StromVG).[^14-1]
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 15
 
-**Anlastung von Kosten des Übertragungsnetzes**
+**Anlastung von Kosten des Übertragungsnetzes**[^15-1]
 
-<sup>1</sup>
-
-Die nationale Netzgesellschaft stellt individuell in Rechnung:
-
-- a. den Netzbetreibern und den direkt am Übertragungsnetz angeschlossenen Endverbrauchern die Kosten für den Ausgleich von Wirkverlusten und die Lieferung von Blindenergie, die sie verursacht haben;
-- b.[^15-1] den Bilanzgruppen die verursachten Kosten für die Ausgleichsenergie, inklusive der Anteile der Leistungsvorhaltung für die Sekundär- und Tertiärregelung, und für das Fahrplanmanagement sowie die Bezüge aus der Stromreserve gemäss WResV[^15-2];
-- c.[^15-3] den Verursachern von Mindererlösen für die grenzüberschreitende Netznutzung den entsprechenden Betrag; das UVEK kann für die Gewährung von Ausnahmen nach Artikel 17 Absatz 6 StromVG abweichende Regeln vorsehen.
+<sup>1</sup> Die nationale Netzgesellschaft stellt den Bilanzgruppen die Bezüge aus der Stromreserve nach der WResV[^15-2] individuell in Rechnung.
 
 <sup>2</sup>
 
 Sie stellt den Netzbetreibern und den am Übertragungsnetz direkt angeschlossenen Endverbrauchern entsprechend der bezogenen elektrischen Energie der Endverbraucher folgende Kosten in Rechnung:
 
-- a.[^15-4] die Kosten für Systemmanagement, Messdatenmanagement, Schwarzstart- und Inselbetriebsfähigkeit von Erzeugern, Spannungshaltung, Primärregelung und die Anteile der Leistungsvorhaltung für die Sekundär- und Tertiärregelung, welche nicht einer Bilanzgruppe zugeordnet werden können. Die ElCom legt jährlich den Höchstbetrag fest;
-- a<sup>bis</sup>.[^15-5] die Kosten im Zusammenhang mit der Stromreserve gemäss WResV;
-- b.[^15-6] die Kosten für Verstärkungen im Verteilnetz und von Anschlussleitungen nach Artikel 15*b* Absätze 3–5 StromVG;
-- c.[^15-7] …
+- a. die Kosten für das Systemmanagement, das Messdatenmanagement, die Schwarzstart- und Inselbetriebsfähigkeit von Erzeugern, die Spannungshaltung, die Primärregelung und die Anteile der Leistungsvorhaltung für die Sekundär- und Tertiärregelung, die nicht einer Bilanzgruppe zugeordnet werden können; die ElCom legt jährlich den Höchstbetrag fest;
+- b. die Kosten im Zusammenhang mit der Stromreserve nach der WResV und die Kosten nach Artikel 15*a* Absatz 1 StromVG;
+- c. die Kosten für Verstärkungen im Verteilnetz und von Anschlussleitungen nach Artikel 15*b* Absätze 3–5 StromVG.
 
 <sup>3</sup>
 
-Sie stellt den am Übertragungsnetz direkt angeschlossenen Endverbrauchern und Netzbetreibern diskriminierungsfrei und zu einem für die Regelzone Schweiz einheitlichen Tarif die verbleibenden anrechenbaren Kosten sowie Abgaben und Leistungen an Gemeinwesen wie folgt in Rechnung:
+Sie stellt den am Übertragungsnetz direkt angeschlossenen Endverbrauchern und Netzbetreibern diskriminierungsfrei und zu einem für die Regelzone Schweiz einheitlichen Tarif die verbleibenden anrechenbaren Kosten sowie die Abgaben und Leistungen an Gemeinwesen wie folgt in Rechnung:
 
-- a. zu 30 Prozent entsprechend der elektrischen Energie, die von am Netz direkt angeschlossenen Endverbrauchern bzw. von allen am Netz der tieferen Netzebenen angeschlossenen Endverbrauchern bezogen wurde;
-- b. zu 60 Prozent entsprechend dem jährlichen Mittelwert der tatsächlichen monatlichen Höchstleistungen, die jeder direkt angeschlossene Endverbraucher und jedes Netz der tieferen Netzebene vom Übertragungsnetz beansprucht;
-- c. zu 10 Prozent zu einem fixen Grundtarif pro Ausspeisepunkt im Übertragungsnetz.
+- a.
 
-[^15-1]: Fassung gemäss Anhang Ziff. II 2 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^15-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
-[^15-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^15-4]: Fassung gemäss Ziff. I der V vom 12. Dez. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 6467](https://fedlex.data.admin.ch/eli/oc/2008/877)).
-[^15-5]: Eingefügt durch Art. 12 der V vom 7. Sept. 2022 über die Errichtung einer Wasserkraftreserve ([AS 2022 514](https://fedlex.data.admin.ch/eli/oc/2022/514)). Fassung gemäss Anhang Ziff. II 2 der Winterreserveverordnung vom 25. Jan. 2023, in Kraft vom 15. Febr. 2023 bis zum 31. Dez. 2026 ([AS 2023 43](https://fedlex.data.admin.ch/eli/oc/2023/43)).
-[^15-6]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^15-7]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
+  zu 10 Prozent entsprechend der elektrischen Energie, die aus dem betreffenden Netz bezogen wurde:
+
+  - 1\. den von am Netz direkt angeschlossenen Endverbrauchern, und
+  - 2\. den an der der tieferen Netzebenen angeschlossenen Endverbrauchern;
+
+- b. zu 90 Prozent entsprechend dem jährlichen Mittelwert der monatlichen Höchstleistungen, die jeder direkt angeschlossene Endverbraucher und jedes Netz der tieferen Netzebene vom Übertragungsnetz beansprucht.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^15-2]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
 
 #### Art. 16
 
@@ -956,38 +1036,89 @@ Sie stellt den am Übertragungsnetz direkt angeschlossenen Endverbrauchern und N
 
 Die nicht individuell in Rechnung gestellten anrechenbaren Kosten, Abgaben und Leistungen an Gemeinwesen sowie der Anteil für ein Netz der höheren Netzebene werden den am betreffenden Netz direkt angeschlossenen Endverbrauchern und Netzbetreibern wie folgt angelastet:
 
-- a. zu 30 Prozent entsprechend der elektrischen Energie, die von am Netz direkt angeschlossenen Endverbrauchern bzw. von allen am Netz der tieferen Netzebenen angeschlossenen Endverbrauchern bezogen wurde;
-- b. zu 70 Prozent entsprechend dem jährlichen Mittelwert der tatsächlichen monatlichen Höchstleistungen, welche direkt angeschlossene Endverbraucher und die Netze der tieferen Netzebene vom Netz der höheren Netzebene beanspruchen.
+- a.
+
+  zu 10 Prozent entsprechend der elektrischen Energie, die aus dem betreffenden Netz bezogen wurde von:
+
+  - 1\. den am Netz direkt angeschlossenen Endverbrauchern, und
+  - 2\. den an der tieferen Netzebene angeschlossenen Endverbrauchern;
+
+- b. zu 90 Prozent entsprechend dem jährlichen Mittelwert der tatsächlichen monatlichen Höchstleistungen, die jeder direkt angeschlossene Endverbraucher und jedes Netz der tieferen Netzebene vom betreffenden Netz beanspruchen.[^16-1]
+
+<sup>1bis</sup> Bei der elektrischen Energie, die nach Absatz 1 Buchstabe a Ziffer 2 zur Anlastung der Kosten an die tiefere Netzebene massgebend ist, sind nach dem Nettoprinzip zusätzlich auch die Elektrizitätsmengen zu berücksichtigen, die in den tieferen Netzebenen eingespeist wurden. Diese Mengen werden über alle Übergangspunkte zwischen den Netzebenen zeitgleich ermittelt.[^16-2]
 
 <sup>2</sup> Das Entgelt für die Netznutzung darf pro Netzebene die anrechenbaren Kosten sowie Abgaben und Leistungen an Gemeinwesen dieser Netzebene nicht übersteigen.
 
-<sup>3</sup> Entstehen in Verteilnetzen durch Anschluss oder Betrieb von Erzeugungsanlagen oder von Speichern ohne Endverbrauch unverhältnismässige Mehrkosten, so sind diese nicht Teil der Netzkosten. Sie müssen in einem angemessenen Umfang von den Erzeugern und den Betreibern der Speicher ohne Endverbrauch getragen werden.[^16-1]
+<sup>3</sup> Entstehen in Verteilnetzen durch Anschluss oder Betrieb von Erzeugungsanlagen oder von Speichern ohne Endverbrauch unverhältnismässige Mehrkosten, so sind diese nicht Teil der Netzkosten. Sie müssen in einem angemessenen Umfang von den Erzeugern und den Betreibern der Speicher ohne Endverbrauch getragen werden.[^16-3]
 
-[^16-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^16-2]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^16-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
 
 #### Art. 17
 
 **Anlastung von Kosten zwischen Netzen und Ermittlung der Höchstleistung**
 
-Die Netzbetreiber legen transparente und diskriminierungsfreie Richtlinien für die Anlastung von Kosten zwischen direkt miteinander verbundenen Netzen der gleichen Netzebene und für die einheitliche Ermittlung des jährlichen Mittelwertes der tatsächlichen monatlichen Höchstleistung fest.
+<sup>1</sup> Die Netzbetreiber legen transparente und diskriminierungsfreie Richtlinien für die Anlastung von Kosten zwischen direkt miteinander verbundenen Netzen der gleichen Netzebene und für die einheitliche Ermittlung des jährlichen Mittelwertes der tatsächlichen monatlichen Höchstleistung fest.
+
+<sup>2</sup> Für die Ermittlung der monatlichen Höchstleistung ist die Nettoleistung massgebend. Diese entspricht der von der höheren Netzebene bezogenen und über alle Übergangspunkte zwischen den Netzebenen zeitgleich ermittelten höchsten Leistung.[^17-1]
+
+[^17-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 18
 
-**Netznutzungstarife**[^18-1]
+**Grundsätze für die Netznutzungstarife aller Netzebenen**[^18-1]
 
-<sup>1</sup> Die Netzbetreiber sind verantwortlich für die Festlegung der Netznutzungstarife.
+<sup>1</sup> Die Netzbetreiber legen die Netznutzungstarife pro Tarifjahr fest.
 
-<sup>2</sup> Innerhalb einer Spannungsebene bilden Endverbraucher mit vergleichbarem Bezugsprofil eine Kundengruppe. Auf Spannungsebenen unter 1 kV gehören Endverbraucher in ganzjährig genutzten Liegenschaften mit einem Jahresverbrauch bis zu 50 MWh derselben Kundengruppe an (Basiskundengruppe).
+<sup>2</sup> Innerhalb einer Spannungsebene bilden Endverbraucher mit ähnlichem Bezugsprofil eine Kundengruppe mit einem einheitlichen Angebot an Netznutzungstarifen.
 
-<sup>3</sup> Die Netzbetreiber müssen den Endverbrauchern der Basiskundengruppe einen Netznutzungstarif mit einer nichtdegressiven Arbeitskomponente (Rp./kWh) von mindestens 70 Prozent anbieten.
+<sup>3</sup> Die Netzbetreiber legen für jede Kundengruppe einen Standardtarif fest und bezeichnen diesen als solchen. Sie dürfen den Endverbrauchern weitere Tarife zur Auswahl anbieten.
 
-<sup>4</sup> Sie können ihnen zusätzliche Netznutzungstarife zur Auswahl stellen, den Endverbrauchern mit Leistungsmessung auch solche mit einer nichtdegressive Arbeitskomponente (Rp./kWh) von weniger als 70 Prozent.
+<sup>4</sup> Sie sind im Rahmen der gesetzlichen Tarifgrundsätze (Art. 14 Abs. 3 StromVG) frei in der Bestimmung der einzelnen Tarifkomponenten; vorbehalten bleiben die besonderen Vorgaben nach Absatz 5 und nach Artikel 18*a* Absätze 2 und 4.
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+<sup>5</sup>
+
+Für dynamische Netznutzungstarife gelten die folgenden Grundsätze:
+
+- a. Sie müssen Anreize für ein netzdienliches Verhalten setzen, indem die Tarife aufgrund der für den Folgetag erwarteten Netzbelastungswerte festgelegt werden.
+- b. Sie können in Abweichung von Absatz 2 aufgrund der Netzsituation lokal differenziert werden.
+- c. Sie sind so auszugestalten, dass sie für ein Standardlastprofil einer Kundengruppe mit anderen Tarifen dieser Kundengruppe vergleichbar sind.
+- d. Die Einsparungen für den Endverbraucher orientieren sich an den zu erwartenden Kostenvorteilen für den Netzbetreiber.
+- e. Die Ausgestaltung der dynamischen Tarife muss transparent und nachvollziehbar sein.
+
+<sup>6</sup> Legt der Netzbetreiber einen dynamischen Netznutzungstarif als Standardtarif fest, so muss für die betroffene Kundengruppe mindestens ein Wahltarif ohne dynamische Tarifkomponente angeboten werden.
+
+[^18-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 18a
 
-**Deckungsdifferenzen im Bereich der Netzkosten**[^18a-1]
+**Netznutzungstarife der Niederspannungsebene**[^18a-1]
+
+<sup>1</sup>
+
+Auf der Niederspannungsebene gelten die folgenden Grundsätze für die Bildung der Kundengruppen:
+
+- a. Endverbraucher in ganzjährig genutzten Liegenschaften mit einem Jahresverbrauch unter 50 MWh gehören der Basiskundengruppe an.
+- b. Endverbraucher in ganzjährig genutzten Liegenschaften mit einem Jahresverbrauch unter 50 MWh, die noch nicht mit einem intelligenten Messsystem ausgestattet sind, bilden zusammen eine eigene Kundengruppe.
+
+<sup>2</sup>
+
+Für die Festlegung des Standardtarifs der Basiskundengruppe können die Netzbetreiber unter den drei folgenden Modellen für Netznutzungstarife wählen:
+
+- a. Tarife mit einer nichtdegressiven Arbeitskomponente (Rp./kWh) von mindestens 70 Prozent;
+- b. dynamische Tarife;
+- c. Tarife mit einer nichtdegressiven Arbeitskomponente (Rp./kWh) von mindestens 50 Prozent und einer variablen Leistungskomponente (Rp./kW), deren Höhe sich nach den Netzlasten richtet und mindestens vier verschiedene Werte pro Tag aufweist.
+
+<sup>3</sup> Die Höhe der variablen Leistungskomponente nach Absatz 2 Buchstabe c muss sich an Zeitfenstern orientieren, die unter Abschätzung der zu erwartenden Netzlasten für das gesamte Tarifjahr festgelegt werden.
+
+<sup>4</sup> Bei Endverbrauchern nach Absatz 1 Buchstabe b müssen sämtliche Tarife eine nichtdegressive Arbeitskomponente (Rp./kWh) von mindestens 70 Prozent enthalten.
+
+[^18a-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 18b
+
+**Deckungsdifferenzen im Bereich der Netzkosten**[^18b-1]
 
 <sup>1</sup> Stimmt die Summe des Netznutzungsentgelts, das der Netzbetreiber während eines Tarifjahres erhoben hat, nicht mit den anrechenbaren Netzkosten überein (Deckungsdifferenz), so muss er diese Abweichung innert der nächsten drei Tarifjahre ausgleichen. Bei einer Unterdeckung kann er auf den Ausgleich verzichten.
 
@@ -1000,16 +1131,131 @@ Der Zinssatz, den der Netzbetreiber gegenüber dem Endverbraucher anwenden muss,
 - a. bei einer Unterdeckung: höchstens dem Fremdkapitalkostensatz gemäss Anhang 1;
 - b. bei einer Überdeckung: mindestens dem Fremdkapitalkostensatz gemäss Anhang 1.
 
-[^18a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+[^18b-1]: Ursprünglich: Art. 18*a*. Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
 
-#### Art. 18b
+#### Art. 18c
 
-**Befreiung von der Pflicht zur Entrichtung des Netznutzungsentgelts**[^18b-1]
+**Befreiung von der Pflicht zur Entrichtung des Netznutzungsentgelts**[^18c-1]
 
-Die Befreiung von der Pflicht zur Entrichtung des Netznutzungsentgelts (Art. 14*a* Abs. 1 und 3 StromVG) umfasst auch die Kosten für die Systemdienstleistungen, die Stromreserve nach der WResV[^18b-2] und den Netzzuschlag nach Artikel 35 EnG sowie die Kosten im Zusammenhang mit den Artikeln 15*a* und 15*b* StromVG.
+Die Befreiung von der Pflicht zur Entrichtung des Netznutzungsentgelts (Art. 14*a* Abs. 1 und 3 StromVG) umfasst auch die Kosten für die Systemdienstleistungen, die Stromreserve nach der WResV[^18c-2] und den Netzzuschlag nach Artikel 35 EnG sowie die Kosten im Zusammenhang mit den Artikeln 15*a* und 15*b* StromVG.
 
-[^18b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^18b-2]: [SR 734.722](https://fedlex.data.admin.ch/eli/cc/2023/43)
+[^18c-1]: Ursprünglich: Art. 18*b*. Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^18c-2]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+
+#### Art. 18d
+
+**Rückerstattung des Netznutzungsentgelts**[^18d-1]
+
+<sup>1</sup> Die Netzbetreiber legen für Speicher mit Endverbrauch (Art. 14*a* Abs. 4 Bst. a StromVG) und Anlagen zur Umwandlung von Elektrizität (Art. 14*a* Abs. 4 Bst. b StromVG; Umwandlungsanlagen) einen Rückerstattungstarif fest.
+
+<sup>2</sup> Die Rückerstattung für Pilot- und Demonstrationsanlangen (Art. 14*a* Abs. 4 Bst. c StromVG) umfasst das bezahlte Netznutzungsentgelt, einschliesslich der Kosten für die Systemdienstleistungen, die Stromreserve nach der WResV[^18d-2] und den Netzzuschlag nach Artikel 35 EnG[^18d-3] sowie der Kosten im Zusammenhang mit den Artikeln 15*a* und 15*b* StromVG.
+
+<sup>3</sup> Die Netzbetreiber erstatten den entsprechenden Betrag im Rahmen der nächsten Rechnungsstellung als Reduktion des Netznutzungsentgelts zurück.
+
+<sup>4</sup> Die Rückerstattung für Speicher mit Endverbrauch und für Umwandlungsanlagen darf nicht höher sein als die in Rechnung gestellte Arbeitskomponente (Rp./kWh) zuzüglich der Kosten nach Artikel 18*e* Absatz 1 Buchstabe b.
+
+[^18d-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18d-2]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+[^18d-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 18e
+
+**Rückerstattungstarife**[^18e-1]
+
+<sup>1</sup>
+
+Der Rückerstattungstarif für Speicher mit Endverbrauch und Umwandlungsanlagen entspricht der Summe aus:
+
+- a. der für das Tarifjahr durchschnittlichen Arbeitskomponente (Rp./kWh) des Netznutzungstarifs am Ort der Einspeisung;
+- b.
+
+  den Kosten für:
+
+  - 1\. die Systemdienstleistungen,
+  - 2\. die Stromreserve nach der WResV[^18e-2],
+  - 3\. den Netzzuschlag nach Artikel 35 EnG[^18e-3], und
+  - 4\. die Massnahmen nach den Artikeln 15*a* und 15*b* StromVG.
+
+<sup>2</sup> Kommt für Speicher mit Endverbrauch und Umwandlungsanlagen ein dynamischer Netznutzungstarif zur Anwendung, so erfolgt die Berechnung des Rückerstattungstarifs gestützt auf einen nicht-dynamischen Tarif der gleichen Kundengruppe.
+
+<sup>3</sup> Bei Speichern mit Endverbrauch, die Teilnehmer einer lokalen Elektrizitätsgemeinschaft (Art. 19*e*) sind und Elektrizität aus der Gemeinschaft zurückspeisen, wird für die Berechnung des Rückerstattungstarifs nur der reduzierte Tarif berücksichtigt.
+
+[^18e-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18e-2]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+[^18e-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 18f
+
+**Mit einem intelligenten Messsystem auszustattende Anlagen**[^18f-1]
+
+<sup>1</sup>
+
+Betreiber der nachstehenden Anlagen, die von ihrem Recht auf Rückerstattung des Netznutzungsentgelts Gebrauch machen wollen, müssen diese unter den folgenden Voraussetzungen mit einem intelligenten Messsystem ausstatten lassen:
+
+- a. Speicher mit Endverbrauch und Umwandlungsanlagen, die mit einer Erzeugungsanlage verbunden sind, die im Eigenverbrauch betrieben wird und der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^18f-2] (NIV) unterliegt.
+- b. Pilot- und Demonstrationsanlagen, bei denen nicht die gesamte bezogene Elektrizität für die Umwandlung verwendet wird.
+
+<sup>2</sup> Die Kosten für die Messungen, die allein zum Nachweis der für die Rückerstattung massgeblichen Elektrizitätsmengen erforderlich sind, müssen von den Betreibern der Anlagen getragen werden.
+
+[^18f-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18f-2]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+
+#### Art. 18g
+
+**Bestimmung der für die Rückerstattung massgeblichen Elektrizitätsmenge**[^18g-1]
+
+<sup>1</sup>
+
+Bei stationären Speichern mit Endverbrauch, die mit einer Erzeugungsanlage verbunden sind, die im Eigenverbrauch betrieben wird und der Bewilligungspflicht nach Artikel 6 NIV[^18g-2] unterliegt, ist zur Ermittlung der für die Rückerstattung massgeblichen Elektrizitätsmenge pro Rechnungsperiode wie folgt vorzugehen:
+
+- a.
+
+  Die folgenden Lastgangwerte von fünfzehn Minuten werden verglichen und die jeweils kleineren Werte zusammengezählt:
+
+  - 1\. die Werte der aus dem Netz bezogenen Elektrizitätsmenge und der gespeicherten Elektrizitätsmenge,
+  - 2\. die Werte der ausgespeicherten Elektrizitätsmenge und der zurückgespeisten Elektrizitätsmenge.
+
+- b. Die kleinere der beiden Summen nach Buchstabe a Ziffern 1 und 2 gilt als die für die Rückerstattung massgebliche Elektrizitätsmenge.
+
+<sup>2</sup> Bei stationären Speichern mit Endverbrauch, die mit keiner Erzeugungsanlage nach Absatz 1 verbunden sind, gilt die am entsprechenden Hausanschlusspunkt eingespeiste Elektrizitätsmenge als die für die Rückerstattung massgebliche Elektrizitätsmenge.
+
+<sup>3</sup> Bei mobilen Speichern mit Endverbrauch gilt die vom mobilen Speicher am Hausanschlusspunkt eingespeiste Elektrizitätsmenge als die für die Rückerstattung massgebliche Elektrizitätsmenge.
+
+<sup>4</sup> Die Betreiber von Umwandlungsanlagen und von Pilot- und Demonstrationsanlagen müssen die für die Rückerstattung massgebliche Elektrizitätsmenge mit Herkunftsnachweisen belegen.
+
+[^18g-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^18g-2]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+
+#### Art. 18h
+
+**Rückerstattung des Netznutzungsentgelts bei Pilot- und Demonstrationsanlagen**[^18h-1]
+
+<sup>1</sup> Die Betreiber von Pilot- und Demonstrationsanlagen sind rückerstattungsberechtigt, wenn sie zusätzlich zu den Bedingungen nach Artikel 14*a* Absatz 4 Buchstabe c StromVG vom BFE als Pilot- und Demonstrationsanlage anerkannt sind.
+
+<sup>2</sup>
+
+Eine Anlage wird vom BFE als Pilot- und Demonstrationsanlage anerkannt, wenn die Anlage neuartige technische oder betriebliche Eigenschaften aufweist und:
+
+- a. die Anlage spätestens am 31. Dezember 2034 in Betrieb geht; und
+- b. für die Anlage bereits ein Baubewilligungsgesuch eingereicht worden ist.
+
+<sup>3</sup> Massgebend für die Beurteilung, ob die Gesamtleistung von 200 MW (Art. 14*a* Abs. 4 Bst. c StromVG) bereits überschritten ist, ist das Datum des beim Netzbetreiber eingereichten Antrags auf Rückerstattung.
+
+<sup>4</sup> Die Netzbetreiber informieren das BFE über die Anträge auf Rückerstattung von Pilot- und Demonstrationsanlagenbetreibern.
+
+<sup>5</sup> Das BFE führt eine öffentlich zugängliche Liste mit den Angaben zur Gesamtleistung aller Pilot- und Demonstrationsanlagen, für die ein Antrag auf Rückerstattung eingereicht wurde, und aktualisiert die Liste laufend.
+
+<sup>6</sup> Der Anspruch von Pilot- und Demonstrationsanlagenbetreibern auf Rückerstattung endet spätestens nach 20 Jahren seit Inbetriebnahme der Anlage.
+
+[^18h-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 18i
+
+**Richtlinien für die Rückerstattung des Netznutzungsentgelts**[^18i-1]
+
+Die Netzbetreiber legen unter Mitwirkung der Vertreterinnen und Vertreter der Endverbraucher, der Erzeuger und der im Elektrizitätsbereich tätigen Dienstleister transparente und diskriminierungsfreie Richtlinien für die technische und organisatorische Umsetzung der Rückerstattung des Netznutzungsentgelts fest.
+
+[^18i-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 19
 
@@ -1022,6 +1268,170 @@ Die Befreiung von der Pflicht zur Entrichtung des Netznutzungsentgelts (Art. 14*
 <sup>3</sup> Erweisen sich Kosten aufgrund des Vergleichs als ungerechtfertigt, so verfügt die Elcom, dass diese im Rahmen des Ausgleichs der Deckungsdifferenzen bei den Netznutzungs-, Elektrizitäts- oder Messtarifen gemäss den Artikeln 4*f* und 18*a* kompensiert werden.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+
+### 2*a*. Abschnitt: Netzdienliche Flexibilität sowie Steuer- und Regelsystem
+
+[^chap3-sec2a-1]
+
+[^chap3-sec2a-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 19a
+
+**Netzdienliche Flexibilität**
+
+Als netzdienlich gilt die Nutzung der Flexibilität, mit der ein Verteilnetzbetreiber:
+
+- a. eine angespannte lokale Netzsituationen entlasten kann;
+- b. einen Netzausbau vermeiden kann;
+- c. Netzmassnahmen aufschieben kann; oder
+- d. die Netzkosten im eigenen Netzgebiet verringern kann.
+
+#### Art. 19b
+
+**Vertragsinhalte bei der Nutzung der Flexibilität**
+
+<sup>1</sup>
+
+Der Vertrag zwischen dem Flexibilitätsinhaber und dem Verteilnetzbetreiber über die Nutzung von Flexibilität regelt mindestens:
+
+- a. den Einsatz eines Steuer- und Regelsystems;
+- b. den Umfang der geplanten Nutzung der Flexibilität;
+- c. das Informationsmittel sowie die Häufigkeit, mit der der Verteilnetzbetreiber den Flexibilitätsinhaber über die Nutzung seiner Flexibilität informiert;
+- d. die Vergütung;
+- e. die Vertragslaufzeit;
+- f. die Kündigungsmodalitäten.
+
+<sup>2</sup> Der Verteilnetzbetreiber veröffentlicht jährlich die für einen Vertragsabschluss relevanten Informationen, insbesondere die Vergütungsansätze.
+
+#### Art. 19c
+
+**Garantierte Nutzungen der Flexibilität**
+
+<sup>1</sup> Die garantierte Nutzung von Flexibilität wird nicht vergütet.
+
+<sup>2</sup> Der Verteilnetzbetreiber muss den betroffenen Flexibilitätsinhabern auf Anfrage oder mindestens jährlich über die Gründe und den Umfang dieser Nutzungen informieren.
+
+<sup>3</sup> Er darf für die garantierten Nutzungen der Flexibilität ein intelligentes Steuer- und Regelsystem ohne die Zustimmung des betroffenen Flexibilitätsinhabers einsetzen.
+
+<sup>4</sup> Er darf höchstens 3 Prozent der jährlich erzeugten Energie am Anschlusspunkt abregeln.
+
+<sup>5</sup> Die Netzbetreiber legen unter Mitwirkung der betroffenen Akteure in transparenten und diskriminierungsfreien Richtlinien Regeln für die technische Umsetzung des Einspeisemanagements und die Informationsprozesse fest.
+
+#### Art. 19d
+
+**Bestehende Flexibilität**
+
+<sup>1</sup> Die Flexibilität gilt als bestehend, wenn der Verteilnetzbetreiber diese vor dem 1. Januar 2026 bei einem Flexibilitätsinhaber durch ein Steuer- und Regelsystem genutzt hat.
+
+<sup>2</sup>
+
+Der Verteilnetzbetreiber muss die Flexibilitätsinhaber jährlich über mindestens folgende Elemente der bestehenden Flexibilität schriftlich informieren:
+
+- a. die in Artikel 19*b* Absatz 1 Buchstaben a–d genannten Inhalte;
+- b. die Folgen einer Untersagung nach Absatz 3.
+
+<sup>3</sup> Der Flexibilitätsinhaber kann die Weiternutzung seiner bestehenden Flexibilität untersagen. Er muss dies dem Verteilnetzbetreiber innerhalb von 30 Tagen ab Erhalt der Informationen nach Absatz 2 oder mit einer Frist von drei Monaten per Ende des Kalenderjahres schriftlich mitteilen.
+
+<sup>4</sup> Die Untersagung gibt dem Flexibilitätsinhaber keinen Anspruch auf die Entfernung eines bereits installierten Steuer- und Regelsystems.
+
+### 2*b*. Abschnitt: Lokale Elektrizitätsgemeinschaften
+
+[^chap3-sec2b-1]
+
+[^chap3-sec2b-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 19e
+
+**Bildung einer lokalen Elektrizitätsgemeinschaft**
+
+<sup>1</sup> Eine lokale Elektrizitätsgemeinschaft kann gebildet werden, wenn die Leistung der in der Gemeinschaft eingesetzten Erzeugungsanlagen mindestens 5 Prozent der Anschlussleistung aller teilnehmenden Endverbraucher beträgt.
+
+<sup>2</sup> Erzeugungsanlagen, die während höchstens 500 Stunden pro Jahr betrieben werden, werden für die Bestimmung der Leistung der in der Gemeinschaft eingesetzten Erzeugungsanlagen nicht berücksichtigt.
+
+<sup>3</sup> Die Endverbraucher und die in die Gemeinschaft eingebrachten Erzeugungsanlagen und Speicher müssen sich im selben Netzgebiet befinden und dürfen nicht auf Spannungsebenen über 36 kV angeschlossen sein. Zudem dürfen diese Spannungsebenen für den Austausch der selbst erzeugten Elektrizität innerhalb der Gemeinschaft nicht in Anspruch genommen werden.
+
+<sup>4</sup> Endverbraucher dürfen pro Verbrauchsstätte nur an einer lokalen Elektrizitätsgemeinschaft teilnehmen. Erzeugungsanlagen und Speicher dürfen nur in eine Gemeinschaft eingesetzt werden.
+
+<sup>5</sup> Ist eine der Voraussetzung nach den Absätzen 1, 3 und 4 nicht mehr erfüllt, so darf der Verteilnetzbetreiber die lokale Elektrizitätsgemeinschaft nicht mehr als solche behandeln.
+
+#### Art. 19f
+
+**Verhältnis unter den Teilnehmern einer lokalen Elektrizitätsgemeinschaft**
+
+<sup>1</sup>
+
+Die Teilnehmer der lokalen Elektrizitätsgemeinschaft müssen schriftlich vereinbaren:
+
+- a. die Vertretung der Gemeinschaft gegen aussen;
+- b. die Vergütungsansätze für die intern erzeugte und verbrauchte Elektrizität;
+- c. die Kostentragung für die interne Datenbearbeitung, Verwaltung und Abrechnung;
+- d. die Voraussetzungen für den Eintritt in die und den Austritt aus der Gemeinschaft;
+- e. die Aufteilung der Kostentragung für die Netznutzung und die Messung sowie für die Elektrizitätslieferungen innerhalb und ausserhalb der Grundversorgung.
+
+<sup>2</sup> Elektrizität aus Erzeugungsanlagen der Gemeinschaft muss einschliesslich der dazugehörigen Herkunftsnachweise innerhalb der Gemeinschaft abgesetzt werden. Die Vollzugsstelle nach Artikel 64 EnG[^19f-1] ist für die Überprüfung der innerhalb der Gemeinschaft abgesetzten Herkunftsnachweise zuständig.
+
+[^19f-1]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+
+#### Art. 19g
+
+**Verhältnis zum Verteilnetzbetreiber**
+
+<sup>1</sup>
+
+Die Vertreterin oder der Vertreter der lokalen Elektrizitätsgemeinschaft muss dem Netzbetreiber Folgendes mitteilen:
+
+- a. die Bildung und die Auflösung der Gemeinschaft, jeweils drei Monate im Voraus auf das Ende eines Monats;
+- b. die Ein- und Austritte der Teilnehmer der Gemeinschaft jeweils einen Monat im Voraus auf das Ende eines Monats;
+- c. die Vertretung der Gemeinschaft gegen aussen;
+- d. die technischen Daten der Erzeugungsanlagen, insbesondere die Art der Anlage und ihre elektrische Leistung;
+- e. eine Unterschreitung des Werts nach Artikel 19*e* Absatz 1;
+- f. die technische Daten der Speicher.
+
+<sup>2</sup> Der Verteilnetzbetreiber räumt den Teilnehmern der Gemeinschaft eine angemessene Frist ein, um ihre Vertretung zu benennen. Läuft die Frist ungenutzt ab, kann der Verteilnetzbetreiber einen Teilnehmer der Gemeinschaft als Vertretung benennen.
+
+<sup>3</sup>
+
+Die Verteilnetzbetreiber sind zur Mitwirkung verpflichtet. Insbesondere müssen sie den an der Bildung einer lokalen Elektrizitätsgemeinschaft interessierten Personen, soweit dies für die Planung der Gemeinschaft erforderlich ist:
+
+- a. spätestens innerhalb von fünfzehn Arbeitstagen nach der Anfrage die für die Bildung einer Elektrizitätsgemeinschaft relevante Netztopologie bekanntgeben;
+- b. die Anschlusssituation der Endverbraucher, der Erzeugungsanlagen und der Speicher bekanntgeben.
+
+<sup>4</sup>
+
+Zur Ermittlung des Netznutzungsentgelts für die einzelnen Teilnehmer haben die Verteilnetzbetreiber wie folgt vorzugehen:
+
+- a. Als selbst erzeugte und unter Inanspruchnahme des Verteilnetzes in der Gemeinschaft abgesetzte Elektrizitätsmenge gilt auf Basis der Lastgangwerte von fünfzehn Minuten die kleinere der beiden Summen von der gesamten innerhalb der Gemeinschaft eingespeisten Elektrizitätsmenge einerseits und der gesamten von der Gemeinschaft bezogenen Elektrizitätsmenge andererseits;
+- b. Die nach Buchstabe a massgebliche Menge wird dem einzelnen Teilnehmer gemäss seinem Anteil an der gesamten von der Gemeinschaft bezogenen Elektrizitätsmenge zugeordnet.
+
+<sup>5</sup> Die Ermittlung des Entgelts für Elektrizitätslieferungen in der Grundversorgung sowie die Zuordnung der in der Gemeinschaft abgesetzten Elektrizitätsmenge richtet sich nach Absatz 4.
+
+<sup>6</sup> Die Ermittlung der Mengen, die jede einer Gemeinschaft zugeordneten Erzeugungsanlage entweder im Rahmen der Gemeinschaft an einen dritten Abnehmer oder im Rahmen der Abnahme- und Vergütungspflicht an den Verteilnetzbetreiber oder an einen Dritten Abnehmer abgibt, richtet sich nach Absatz 4.
+
+<sup>7</sup> Die Ermittlung des Messentgelts richtet sich nach den Bestimmungen über das Messwesen.
+
+#### Art. 19h
+
+**Reduktion des Netznutzungstarifs**
+
+<sup>1</sup> Der Abschlag auf dem Netznutzungstarif, den die Teilnehmer der Gemeinschaft für den Bezug von selbst erzeugter Elektrizität geltend machen können (Art. 17*e* Abs. 3 StromVG), beträgt 40 Prozent ihres Netznutzungstarifs nach Artikel 18 Absatz 3.
+
+<sup>2</sup> Zum Abschlag berechtigt ist die Elektrizitätsmenge nach Artikel 19*g* Absatz 4 Buchstabe b.
+
+<sup>3</sup> Kann die in der Gemeinschaft selbst erzeugte Elektrizität aus netztopologischen Gründen und aufgrund der Anschlusssituation der verschiedenen Teilnehmer nicht ohne Transformation der Spannung von jeder Erzeugungsanlage zu einem beliebigen Endverbraucher der Gemeinschaft gelangen, verringert sich der Abschlag für alle Endverbraucher der Gemeinschaft auf 20 Prozent.
+
+<sup>4</sup> Die Speicher dürfen pro Abrechnungsperiode in der Summe nicht mehr Elektrizität innerhalb der Gemeinschaft absetzen, als sie von der Gemeinschaft beziehen. Für die Menge, die bei der Rückspeisung in die Gemeinschaft die Bezugsmenge aus der Gemeinschaft übersteigt, entfällt der Anspruch auf den Abschlag auf dem Netznutzungstarif.
+
+<sup>5</sup>
+
+Ohne Abschlag in Rechnung zu stellen sind:
+
+- a. die Kosten für Systemdienstleistungen;
+- b. die Kosten für die Stromreserve nach WResV[^19h-1];
+- c. der Netzzuschlag nach Artikel 35 EnG[^19h-2];
+- d. die Abgaben und Leistungen an Gemeinwesen.
+
+[^19h-1]: [SR 734.722](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40050)
+[^19h-2]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 
 ### 3. Abschnitt: Engpässe bei grenzüberschreitenden Lieferungen, Ausnahmen beim Netzzugang und bei der Berechnung der anrechenbaren Netzkosten
 
@@ -1086,8 +1496,8 @@ Die nationale Netzgesellschaft erstattet der ElCom Bericht über die Handhabung 
 <sup>4</sup> Der Verantwortliche der Bilanzgruppe für erneuerbare Energien fordert die Kosten für die unvermeidbare Ausgleichsenergie seiner Bilanzgruppe und seine Vollzugskosten beim BFE zulasten des Netzzuschlagsfonds ein.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^24-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^24-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft vom 1. Juni 2019 bis zum 31. Dez. 2030 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772)).
+[^24-2]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^24-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270); [2022 772](https://fedlex.data.admin.ch/eli/oc/2022/772); [2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 24a und 24b
 
@@ -1104,8 +1514,8 @@ Die nationale Netzgesellschaft erstattet der ElCom Bericht über die Handhabung 
 <sup>2</sup> Einspeisepunkte, über die Elektrizität von Anlagen mit einer Leistung von weniger als 100 kW (Art. 14 Abs. 1 EnFV) oder von Anlagen mit einer Leistung ab 100 kW bis weniger als 500 kW, die bereits eine Vergütung nach bisherigem Recht erhalten, zum Referenzmarktpreis abgenommen wird und die mit einer Lastgangmessung mit automatischer Datenübermittlung oder einem intelligenten Messsystem ausgestattet sind, sind im Umfang der abgenommenen Elektrizität der Bilanzgruppe für erneuerbare Energien zugeordnet.[^25-4]
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
-[^25-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
-[^25-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^25-2]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^25-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^25-4]: Fassung gemäss Ziff. III der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
 
 #### Art. 26
@@ -1118,8 +1528,8 @@ Die nationale Netzgesellschaft erstattet der ElCom Bericht über die Handhabung 
 
 <sup>3</sup> Verkauft ein Erzeuger, dessen Anlage Elektrizität nach Artikel 15 EnG[^26-1] oder zum Referenzmarktpreis nach den Artikeln 14 Absatz 1 oder 105 Absatz 1 EnFV[^26-2] einspeist, die physisch gelieferte Elektrizität oder einen Teil davon der nationalen Netzgesellschaft als Regelenergie, so erhält er für diese Elektrizität weder eine Vergütung nach Artikel 15 EnG noch den Referenzmarktpreis nach Artikel 25 Absatz 1 Buchstabe b EnFV.[^26-3]
 
-[^26-1]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
-[^26-2]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^26-1]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^26-2]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 [^26-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 ## 4*a*. Kapitel: Pilotprojekte
@@ -1234,13 +1644,13 @@ Es erlässt die notwendigen technischen und administrativen Vorschriften, nament
 
 <sup>3</sup> Es erstattet dem Bundesrat regelmässig, erstmals spätestens vier Jahre nach Inkrafttreten der Verordnung, Bericht über die Zweckmässigkeit, Wirksamkeit und Wirtschaftlichkeit der Massnahmen des StromVG und der Verordnung.
 
-<sup>4</sup> Die Netzbetreiber konsultieren vor dem Erlass von Richtlinien nach Artikel 3 Absätze 1 und 2, 7 Absatz 2, 8*b* Absatz 2, 12 Absatz 2, 13 Absatz 1, 17 und 23 Absatz 2 insbesondere die Vertreter der Endverbraucher und der Erzeuger. Sie veröffentlichen diese Richtlinien und die Richtlinie nach Artikel 8 Absatz 2 über eine einzige frei zugängliche Adresse im Internet. Können sich die Netzbetreiber nicht innert nützlicher Frist auf diese Richtlinien einigen oder sind diese nicht sachgerecht, so kann das BFE in diesen Bereichen Ausführungsbestimmungen erlassen.[^27-2]
+<sup>4</sup> Die Netzbetreiber konsultieren vor dem Erlass von Richtlinien nach den Artikeln 3 Absatz 1, 7 Absatz 2, 8*a* Absatz 2, 8*a*<sup>bis</sup> Absatz 4, 8*b* Absatz 2, 12 Absatz 2, 13 Absatz 1, 13*a*<sup>bis</sup> Absatz 2, 17 und 23 Absatz 2 insbesondere die Vertreterinnen und Vertreter der Endverbraucher und der Erzeuger. Sie veröffentlichen die erwähnten Richtlinien und die Richtlinien nach Artikel 8 Absatz 2, 18*i* und 19*c* Absatz 5 über eine einzige frei zugängliche Adresse im Internet. Können sich die Netzbetreiber nicht innert nützlicher Frist auf diese Richtlinien einigen oder sind diese nicht sachgerecht, so kann das BFE in diesen Bereichen Ausführungsbestimmungen erlassen.[^27-2]
 
 <sup>5</sup> Für den Beizug von privaten Organisationen gilt Artikel 67 EnG[^27-3] sinngemäss.[^27-4]
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^27-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
-[^27-3]: [SR 730.0](https://fedlex.data.admin.ch/eli/cc/2017/762)
+[^27-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^27-3]: [SR 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
 [^27-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 7109](https://fedlex.data.admin.ch/eli/oc/2017/769)).
 
 ### 2. Abschnitt: Änderung bisherigen Rechts
@@ -1319,27 +1729,29 @@ Die Verwendung von Einnahmen aus marktorientierten Zuteilungsverfahren gemäss A
 
 **Einführung intelligenter Messsysteme**
 
-<sup>1</sup> Bis zehn Jahre nach Inkrafttreten der Änderung vom 1. November 2017 müssen 80 Prozent aller Messeinrichtungen in einem Netzgebiet den Anforderungen nach den Artikeln 8*a* und 8*b* entsprechen. Die restlichen 20 Prozent dürfen bis zum Ende ihrer Funktionstauglichkeit im Einsatz stehen.
+<sup>1</sup> Bis zehn Jahre nach Inkrafttreten der Änderung vom 1. November 2017 müssen 80 Prozent aller Messeinrichtungen in einem Netzgebiet den Anforderungen nach den Artikeln 8*a*<sup>decies</sup> und 8*b* entsprechen. Die restlichen 20 Prozent dürfen bis zum Ende ihrer Funktionstauglichkeit im Einsatz stehen.[^31e-1]
 
 <sup>2</sup>
 
-Innerhalb der Übergangsfrist von Absatz 1 bestimmt der Netzbetreiber, wann er Endverbraucher und Erzeuger mit einem intelligenten Messsystem nach Artikel 8*a* und 8*b* ausstatten will. Unabhängig davon sind mit einem solchen Messsystem auszustatten:
+Innerhalb der Übergangsfrist von Absatz 1 bestimmt der Netzbetreiber, wann er Endverbraucher und Erzeuger mit einem intelligenten Messsystem nach den Artikeln 8*a*<sup>decies</sup> und 8*b* ausstatten will. Unabhängig davon sind mit einem solchen Messsystem auszustatten:[^31e-2]
 
 - a. Endverbraucher, wenn sie von ihrem Anspruch auf Netzzugang Gebrauch machen;
-- b.[^31e-1] …
+- b.[^31e-3] …
 
-<sup>3 und <sup>4</sup></sup> …[^31e-2]
+<sup>3 und <sup>4</sup></sup> …[^31e-4]
 
 <sup>5</sup> Notwendige Sonderabschreibungen wegen des Ausbaus von noch nicht vollständig abgeschriebenen Messeinrichtungen des Netzbetreibers sind ebenfalls anrechenbare Kosten.
 
-[^31e-1]: Aufgehoben durch Ziff. II der V vom 29. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
-[^31e-2]: Aufgehoben durch Ziff. I der V vom 3. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
+[^31e-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^31e-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^31e-3]: Aufgehoben durch Ziff. II der V vom 29. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^31e-4]: Aufgehoben durch Ziff. I der V vom 3. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1381](https://fedlex.data.admin.ch/eli/oc/2019/270)).
 
 #### Art. 31f
 
-**Einsatz intelligenter Steuer- und Regelsysteme für den Netzbetrieb**
+[^31f-1]
 
-Hat der Netzbetreiber bei Endverbrauchern vor Inkrafttreten der Änderung vom 1. November 2017 intelligente Steuer- und Regelsysteme installiert und eingesetzt, so darf er diese wie bisher so lange einsetzen, bis der Endverbraucher den Einsatz ausdrücklich untersagt. Nicht untersagen kann der Endverbraucher den Einsatz nach Artikel 8*c* Absatz 6.
+[^31f-1]: Aufgehoben durch Ziff. I der V vom 19. Febr. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 #### Art. 31g
 
@@ -1353,7 +1765,7 @@ Die Netznutzungstarife des Tarifjahres 2018 richten sich nach bisherigem Recht.
 
 Die Bilanzgruppe für erneuerbare Energien, die übrigen Bilanzgruppen und die Netzbetreiber müssen Elektrizität aus Anlagen, die zum Referenz-Marktpreis nach den Artikeln 14 Absatz 1 oder 105 Absatz 1 EnFV[^31h-1] einspeisen, bis zum 31. Dezember 2018 nach bisherigem Recht abnehmen und vergüten.
 
-[^31h-1]: [SR 730.03](https://fedlex.data.admin.ch/eli/cc/2017/766)
+[^31h-1]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
 
 ### 4*b*. Abschnitt: Übergangsbestimmungen zur Änderung vom 3. April 2019
 
@@ -1391,22 +1803,24 @@ Vom Recht, Endverbraucher mit Grundversorgung nach den Bedingungen von Artikel 6
 
 #### Art. 31l
 
+[^31l-1]
+
 <sup>1</sup>
 
-Der Netzbetreiber kann Messsysteme, die elektronische Messmittel mit Lastgangmessung der Wirkenergie, ein Kommunikationssystem mit automatisierter Datenübermittlung und ein Datenbearbeitungssystem aufweisen, aber den Artikeln 8*a* und 8*b* noch nicht entsprechen, bis zum Ende ihrer Funktionstauglichkeit den 80 Prozent nach Artikel 31*e* Absatz 1 zurechnen und verwenden, wenn:
+Der Netzbetreiber kann Messsysteme, die elektronische Messmittel mit Lastgangmessung der Wirkenergie, ein Kommunikationssystem mit automatisierter Datenübermittlung und ein Datenbearbeitungssystem aufweisen, aber den Artikeln 8*a*<sup>decies</sup> und 8*b* noch nicht entsprechen, bis zum Ende ihrer Funktionstauglichkeit den 80 Prozent nach Artikel 31*e* Absatz 1 zurechnen und verwenden, wenn:
 
 - a. sie vor dem 1. Januar 2018 installiert wurden; oder
 - b. ihre Beschaffung vor dem 1. Januar 2019 initiiert wurde.
 
-<sup>2</sup> Solange noch keine Messsysteme erhältlich sind, die den Artikeln 8*a* und 8*b* entsprechen, kann der Netzbetreiber nötigenfalls Messsysteme nach Absatz 1 einsetzen und bis zum Ende ihrer Funktionstauglichkeit den 80 Prozent nach Artikel 31*e* Absatz 1 zurechnen.
+<sup>2</sup> Solange noch keine Messsysteme erhältlich sind, die den Artikeln 8*a*<sup>decies</sup> und 8*b* entsprechen, kann der Netzbetreiber nötigenfalls Messsysteme nach Absatz 1 einsetzen und bis zum Ende ihrer Funktionstauglichkeit den 80 Prozent nach Artikel 31*e* Absatz 1 zurechnen.
 
-<sup>3</sup> Die Kosten der Messeinrichtungen, die den Artikeln 8*a* und 8*b* nicht entsprechen, aber nach den Absätzen 1 und 2 und nach Artikel 31*e* Absatz 1 zweiter Satz eingesetzt werden dürfen, bleiben anrechenbar.
+<sup>3</sup> Die Kosten der Messeinrichtungen, die den Artikeln 8*a*<sup>decies</sup> und 8*b* nicht entsprechen, aber nach den Absätzen 1 und 2 und nach Artikel 31*e* Absatz 1 zweiter Satz eingesetzt werden dürfen, bleiben anrechenbar.
 
 <sup>4</sup> Für den Einsatz von intelligenten Messsystemen bei Speichern gelten die Regeln von Artikel 31*e* über die Einführung von intelligenten Messsystemen sinngemäss.
 
-<sup>5</sup> Für den Einsatz von intelligenten Steuer- und Regelsystemen bei Erzeugungsanlagen und Speichern gelten die Regeln von Artikel 31*f* sinngemäss.
+<sup>5</sup> Intelligente Messsysteme, die dem Endverbraucher, Erzeuger oder Speicherbetreiber den Abruf und das Herunterladen seiner Messdaten nicht so ermöglichen, wie in Artikel 8*a*<sup>decies</sup> Absatz 1 Buchstabe a Ziffer 3 und Absatz 4 Buchstabe c vorgeschrieben, sind umgehend, spätestens aber bis zum 30. Juni 2021 nachzurüsten. Ausnahmen nach den Absätzen 1 und 2 bleiben vorbehalten.
 
-<sup>6</sup> Intelligente Messsysteme, die dem Endverbraucher, Erzeuger oder Speicherbetreiber den Abruf und das Herunterladen seiner Messdaten nicht so ermöglichen, wie in Artikel 8*a* Absatz 1 Buchstabe a Ziffer 3 und Absatz 2 Buchstabe c vorgeschrieben, sind umgehend, spätestens aber bis zum 30. Juni 2021 nachzurüsten. Ausnahmen nach den Absätzen 1 und 2 bleiben vorbehalten.
+[^31l-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
 
 ### 4*d*. Abschnitt: Übergangsbestimmung zur Änderung vom 23. November 2022
 
@@ -1426,9 +1840,12 @@ Die neuen Bestimmungen zum Umgang mit Deckungsdifferenzen gelten erstmals für d
 
 #### Art. 31n
 
-Innerhalb der Übergangsfrist von Artikel 31*e* Absatz 1 bestimmt der Netzbetreiber, wann er Endverbraucher und Erzeuger mit einem intelligenten Messsystem nach Artikel 8*a* und 8*b* ausstatten will. Unabhängig davon sind Erzeuger mit einem solchen Messsystem auszustatten, wenn sie eine neue Erzeugungsanlage an das Elektrizitätsnetz anschliessen, deren Installation der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^31n-1] unterliegt.
+[^31n-1]
 
-[^31n-1]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+Innerhalb der Übergangsfrist von Artikel 31*e* Absatz 1 bestimmt der Netzbetreiber, wann er Endverbraucher und Erzeuger mit einem intelligenten Messsystem nach den Artikeln 8*a*<sup>decies</sup> und 8*b* ausstatten will. Unabhängig davon sind Erzeuger mit einem solchen Messsystem auszustatten, wenn sie eine neue Erzeugungsanlage an das Elektrizitätsnetz anschliessen, deren Installation der Bewilligungspflicht nach Artikel 6 NIV[^31n-2] unterliegt.
+
+[^31n-1]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+[^31n-2]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 ### 4*f**.* Abschnitt: Übergangsbestimmung zur Änderung vom 20. November 2024
 
@@ -1446,6 +1863,16 @@ Erzeugungsbedingte Verstärkungen werden gemäss bisherigem Recht vergütet, wen
 
 - a. der Netzbetreiber das technische Anschlussgesuch genehmigt hat; oder
 - b. der Netzanschlussvertrag abgeschlossen wurde.
+
+### 4*g*. Abschnitt: [Übergangsbestimmung zur Änderung vom 19. Februar 2025](https://www.fedlex.admin.ch/eli/cc/2008/226/fr)
+
+[^chap5-sec4g-1]
+
+[^chap5-sec4g-1]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 139](https://fedlex.data.admin.ch/eli/oc/2025/139)).
+
+#### Art. 31p
+
+Die Information nach Artikel 19d Absatz 2 hat erstmals innerhalb von 30 Tagen nach Inkrafttreten schriftlich zu erfolgen.
 
 ### 5. Abschnitt: Inkrafttreten
 
@@ -1550,15 +1977,15 @@ Anhang 1[^t-1]
 </table>
 
 - Bei höheren Werten erfolgt die Rundung analog.
-- [tab]
 
 Anhang 1a[^t-2]
 
-(Art. 5*a* Abs. 1 und 8*a*<sup>quater</sup> Abs. 1)
+(Art. 5*a* Abs. 1 und 8*a*<sup>octies</sup> Abs. 1[^t-3])
 
 ## Zu erreichendes Niveau beim Schutz vor Cyberbedrohungen
 
 [^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 31. Mai 2024 ([AS 2024 282](https://fedlex.data.admin.ch/eli/oc/2024/282)). Bereinigt gemäss Ziff. II der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 706](https://fedlex.data.admin.ch/eli/oc/2024/706)).
+[^t-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst.
 
 ### 1 Zuweisung zu Kategorien
 
@@ -1716,13 +2143,13 @@ Für die nachstehenden Aufgaben müssen, soweit diese anwendbar sind, mindestens
 
 [^annex1a-lvlu1-lvl2-1]: Siehe Fussnote zu Art. 5*a* Abs. 1.
 
-Anhang 2[^t-3]
+Anhang 2[^t-4]
 
 (Art. 28)
 
 ## Änderung bisherigen Rechts
 
-[^t-3]: Usprünglich: Anhang.
+[^t-4]: Usprünglich: Anhang.
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
