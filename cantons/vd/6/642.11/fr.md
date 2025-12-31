@@ -4,7 +4,7 @@ number: "642.11"
 title: LOI du 04.07.2000 sur les impôts directs cantonaux (LI)
 short: LI
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11?id=8df99d51-8df8-49ed-9ef5-2fa4817d0004"
 ---
 
@@ -94,20 +94,21 @@ décrète
 
 **Autres éléments imposables [^4-1]**
 
-<sup>1</sup> Les personnes physiques qui, au regard du droit fiscal, ne sont ni domiciliées, ni en séjour en Suisse sont assujetties à l'impôt à raison de leur rattachement économique lorsque :
+<sup>1</sup> Les personnes physiques qui, au regard du droit fiscal, ne sont ni domiciliées ni en séjour en Suisse sont assujetties à l'impôt à raison du rattachement économique lorsque :
 
-- a. elles exercent une activité lucrative dans le canton ;
+- a. elles exercent une activité lucrative dépendante ou indépendante dans le canton ;
+- abis. elles exercent une activité lucrative dépendante pour un employeur ayant son siège, son administration effective ou un établissement stable dans le canton, et un droit d'imposition sur les revenus de l'activité lucrative exercée à l'étranger est accordé à la Suisse en vertu de l'accord fiscal international applicable conclu avec l'Etat limitrophe concerné ;
 - b. en leur qualité de membres de l'administration ou de la direction d'une personne morale qui a son siège ou un établissement stable dans le canton, elles reçoivent des tantièmes, jetons de présence, indemnités fixes, participations de collaborateur ou autres rémunérations ;
 - c. elles sont titulaires ou usufruitières de créances garanties par un gage immobilier ou un nantissement sur des immeubles sis dans le canton ;
 - d. ensuite d'une activité pour le compte d'autrui régie par le droit public, elles reçoivent des pensions, des retraites ou d'autres prestations d'un employeur ou d'une caisse de prévoyance qui a son siège dans le canton ;
 - e. elles perçoivent des revenus provenant d'institutions de droit privé ayant trait à la prévoyance professionnelle ou à d'autres formes reconnues de prévoyance individuelle liée, qui ont leur siège dans le canton ;
 - ebis. elles sont bénéficiaires de prestations au sens de l'article 18, alinéa 3 de la loi fédérale sur l'assurance-vieillesse et survivants du 20 décembre 1946 ;
-- f. en raison de leur activité dans le trafic international à bord d'un bateau, d'un aéronef ou d'un véhicule de transports routiers, elles reçoivent un salaire ou d'autres rémunérations d'un employeur ayant son siège ou un établissement stable dans le canton ; les marins travaillant à bord de navires de haute mer sont exemptés de cet impôt.
+- f. en raison de leur activité dans le trafic international à bord d'un bateau, d'un aéronef ou d'un véhicule de transports routiers, elles reçoivent un salaire ou d'autres rémunérations d'un employeur ayant son siège, son administration effective ou un établissement stable dans le canton ; les marins travaillant à bord d'un navire battant pavillon suisse exploité par un tel employeur sont exemptés de cet impôt.
 - g. elles servent d'intermédiaires dans des opérations de commerce portant sur des immeubles sis dans le canton.
 
 <sup>2</sup> Lorsque, en lieu et place de l'une des personnes mentionnées ci-dessus, la prestation est versée à un tiers, c'est ce dernier qui est assujetti à l'impôt.
 
-[^4-1]: Modif. 26 du 02.10.2012: Modification Al. 1 b; entrée en vigueur au 01.01.2013 · Modif. 34 du 13.12.2017: Modification Al. 1, f; entrée en vigueur au 01.01.2018 · Modif. 36 du 12.12.2018: Introduction Al. 1, g; entrée en vigueur au 01.01.2019 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1, ebis; entrée en vigueur au 01.01.2021 · Modif. 47 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, a; entrée en vigueur au 01.01.2026; Introduction Al. 1, abis; entrée en vigueur au 01.01.2026; Modification Al. 1, f; entrée en vigueur au 01.01.2026; Introduction Art. 138, Al. 2-3; entrée en vigueur au 01.01.2026; Introduction Art. 144, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 177, Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 179, Al. 1, g; entrée en vigueur au 01.01.2026
+[^4-1]: Modif. 26 du 02.10.2012: Modification Al. 1 b; entrée en vigueur au 01.01.2013 · Modif. 34 du 13.12.2017: Modification Al. 1, f; entrée en vigueur au 01.01.2018 · Modif. 36 du 12.12.2018: Introduction Al. 1, g; entrée en vigueur au 01.01.2019 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Introduction Al. 1, ebis; entrée en vigueur au 01.01.2021 · Modif. 47 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, a; entrée en vigueur au 01.01.2026; Introduction Al. 1, abis; entrée en vigueur au 01.01.2026; Modification Al. 1, f; entrée en vigueur au 01.01.2026
 
 ### Section III Etendue de l'assujettissement
 
@@ -218,7 +219,7 @@ décrète
 
 **Responsabilité et responsabilité solidaire [^13-2]**
 
-<sup>1</sup> Les époux qui vivent en ménage commun répondent solidairement du montant global de l'impôt.
+<sup>1</sup> Les époux qui vivent en ménage commun répondent solidairement du montant global de l'impôt. Lorsqu'ils ne vivent pas en ménage commun, la responsabilité solidaire prévue à la 1<sup>ère</sup> phrase cesse pour les montants d'impôt impayés résultant d'une imposition conjointe ; l'article 277m est réservé.
 
 <sup>2</sup> Les détenteurs de l'autorité parentale sont solidairement responsables de la part de l'impôt total qui frappe les revenus et la fortune de l'enfant; ils répondent en outre solidairement avec l'enfant mineur de l'impôt sur le produit de l'activité lucrative de celui-ci.
 
@@ -234,7 +235,7 @@ décrète
 
 <sup>5</sup> L'administrateur d'une succession et l'exécuteur testamentaire répondent solidairement avec les successeurs fiscaux du défunt des impôts dus par celui-ci, jusqu'à concurrence du montant qui doit être affecté au paiement de l'impôt selon l'état de la succession au jour du décès. Ils sont libérés de toute responsabilité s'ils prouvent qu'ils ont pris tous les soins commandés par les circonstances. Cette libération de responsabilité est applicable aux personnes visées par l'alinéa 4, lettre d.
 
-[^13-2]: Modif. 46 du 29.04.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 1bis; entrée en vigueur au 01.05.2026; Introduction Art. 277m; entrée en vigueur au 01.01.2026
+[^13-2]: Modif. 46 du 29.04.2025: Modification Al. 1; entrée en vigueur au 01.01.2026 · Modif. 46 du 29.04.2025: Introduction Al. 1bis; entrée en vigueur au 01.05.2026
 
 #### Art. 15
 
@@ -952,9 +953,9 @@ Pour chaque tranche de revenu net de 2'000 francs dépassant 116'000 francs et j
 
 <sup>4</sup> Les prestations touchées par les époux vivant en ménage commun s'additionnent pour la détermination du taux d'imposition. Le quotient familial des époux sans enfant (art. 43) leur est applicable.
 
-<sup>5</sup> Les époux qui vivent en ménage commun répondent solidairement du montant global de l'impôt (art. 14, al. 1).
+<sup>5</sup> Les règles de l'article 14, alinéa 1 sur la responsabilité sont applicables par analogie.
 
-[^48a-1]: Modif. 7 du 14.12.2005: Modification Al. 4; entrée en vigueur au 30.12.2005 · Modif. 21 du 14.12.2010: Modification Al. 3; entrée en vigueur au 01.01.2011 · Modif. 41 du 14.12.2021: Modification Al. 2; entrée en vigueur au 01.01.2022 · Modif. 46 du 29.04.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.05.2026; Modification Al. 5; entrée en vigueur au 01.01.2026; Introduction Art. 277m; entrée en vigueur au 01.01.2026
+[^48a-1]: Modif. 7 du 14.12.2005: Modification Al. 4; entrée en vigueur au 30.12.2005 · Modif. 21 du 14.12.2010: Modification Al. 3; entrée en vigueur au 01.01.2011 · Modif. 41 du 14.12.2021: Modification Al. 2; entrée en vigueur au 01.01.2022 · Modif. 46 du 29.04.2025: Modification Al. 5; entrée en vigueur au 01.01.2026 · Modif. 46 du 29.04.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.05.2026
 
 ### Titre III Impôt sur la fortune
 
@@ -1871,13 +1872,12 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>5</sup> Les transactions qui se traduisent au sein du groupe par une économie d'impôt injustifiée entraînent une rectification du bénéfice imposable ou une diminution de la réduction. L'économie d'impôt est injustifiée lorsque les bénéfices en capital et les pertes en capital ou les amortissements relatifs à des participations au sens des articles 99, 106 et 107 sont en relation de cause à effet.
 
-<sup>6</sup> En ce qui concerne les sociétés mères de banques d'importance systémique au sens de l'article 7, alinéa 1 de la loi du 8 novembre 1934 sur les banques (LB)[^107-1], ne sont pas pris en compte pour le calcul du rendement net au sens de l'alinéa 1 les frais de financement relatifs aux emprunts suivants et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des emprunts suivants :
+<sup>6</sup> En ce qui concerne les sociétés mères de banques d'importance systémique au sens de l'article 7, alinéa 1 de la loi du 8 novembre 1934 sur les banques (LB), ne sont pas pris en compte pour le calcul du rendement net au sens de l'alinéa 1 les frais de financement et la créance inscrite au bilan à la suite du transfert au sein du groupe des fonds provenant des instruments d'emprunt visés aux articles 11, alinéa 4, ou 30b, alinéa 6 ou 7, lettre b LB et approuvés par l'Autorité fédérale de surveillance des marchés financiers pour répondre aux exigences réglementaires.
 
-- a. emprunts à conversion obligatoire et emprunts assortis d'un abandon de créances visés à l'article 11, alinéa 4, LB ;
-- b. instruments de dette destinés à absorber les pertes en présence de mesures en cas d'insolvabilité au sens des articles 28 à 32 LB.
+- a. ...
+- b. ...
 
-[^106-1]: Modif. 15 du 09.09.2008: Modification Al. 4 b; entrée en vigueur au 01.01.2009 · Modif. 38 du 11.12.2019: Introduction Al. 6; entrée en vigueur au 01.01.2020 · Modif. 47 du 17.12.2025: Introduction Art. 5, Al. 1, abis; entrée en vigueur au 01.01.2026; Modification Al. 6; entrée en vigueur au 01.01.2026; Abrogation Al. 6, a-b; entrée en vigueur au 01.01.2026; Introduction Art. 138, Al. 2-3; entrée en vigueur au 01.01.2026; Introduction Art. 144, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 177, Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 179, Al. 1, g; entrée en vigueur au 01.01.2026
-[^107-1]: Loi fédérale du 08.11.1934 sur les banques et les caisses d'épargne (RS 952.0)
+[^106-1]: Modif. 15 du 09.09.2008: Modification Al. 4 b; entrée en vigueur au 01.01.2009 · Modif. 38 du 11.12.2019: Introduction Al. 6; entrée en vigueur au 01.01.2020 · Modif. 47 du 17.12.2025: Modification Al. 6; entrée en vigueur au 01.01.2026; Abrogation Al. 6, a-b; entrée en vigueur au 01.01.2026
 
 ### Section II Régimes spéciaux
 
@@ -2314,9 +2314,13 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Travailleurs [^titleTitreII-1]**
 
-<sup>1</sup> Les travailleurs qui, sans être domiciliés ni en séjour en Suisse au regard du droit fiscal, exercent une activité lucrative dépendante dans le canton pendant de courtes périodes, durant la semaine ou comme frontaliers, ou comme employés exerçant une activité dirigeante pour le compte d'une entreprise ayant son siège ou un établissement stable dans le canton, sont soumis à l'impôt à la source sur le revenu de leur activité conformément aux articles 130, 131, 132 et 133. En sont exclus les revenus soumis à l'imposition selon la procédure simplifiée de l'article 137b.
+<sup>1</sup> Les travailleurs qui, sans être domiciliés ni en séjour en Suisse au regard du droit fiscal, exercent une activité lucrative dépendante dans le canton sont soumis à l'impôt à la source sur le revenu de leur activité dans le canton, conformément aux articles 130, 131, 132 et 133.
 
-[^titleTitreII-1]: Modif. 9 du 19.12.2006: Modification Art. 138; entrée en vigueur au 01.01.2007 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 47 du 17.12.2025: Introduction Art. 5, Al. 1, abis; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 2-3; entrée en vigueur au 01.01.2026; Introduction Art. 144, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 177, Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 179, Al. 1, g; entrée en vigueur au 01.01.2026
+<sup>2</sup> Les travailleurs domiciliés dans un Etat limitrophe qui exercent une activité lucrative dépendante pour un employeur ayant son siège, son administration effective ou un établissement stable dans le canton sont soumis à l'impôt à la source sur le revenu généré à l'étranger par cette activité, conformément aux articles 130, 131, 132 et 133, pour autant qu'un droit d'imposition sur les revenus de l'activité lucrative exercée à l'étranger soit accordé à la Suisse en vertu de l'accord fiscal international applicable conclu avec l'Etat limitrophe concerné.
+
+<sup>3</sup> Les revenus soumis à l'imposition selon la procédure simplifiée de l'article 137b sont exclus de l'impôt à la source.
+
+[^titleTitreII-1]: Modif. 9 du 19.12.2006: Modification Art. 138; entrée en vigueur au 01.01.2007 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 47 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 2-3; entrée en vigueur au 01.01.2026
 
 #### Art. 139
 
@@ -2383,9 +2387,11 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 **Travailleurs dans une entreprise de transports internationaux [^143a-1]**
 
-<sup>1</sup> Les personnes domiciliées à l'étranger, qui, travaillant dans le trafic international, à bord d'un bateau, d'un aéronef ou d'un véhicule de transports routiers, reçoivent un salaire ou d'autres rémunérations d'un employeur ayant son siège ou un établissement stable dans le canton doivent l'impôt sur ces prestations conformément aux articles 130, 131, 132 et 133 ; les marins travaillant à bord de navires de haute mer sont exemptés de cet impôt.
+<sup>1</sup> Les personnes domiciliées à l'étranger, qui, travaillant dans le trafic international, à bord d'un bateau, d'un aéronef ou d'un véhicule de transports routiers, reçoivent un salaire ou d'autres rémunérations d'un employeur ayant son siège, son administration effective ou un établissement stable dans le canton doivent l'impôt sur ces prestations conformément aux articles 130, 131, 132 et 133 ; les marins travaillant à bord d'un navire battant pavillon suisse exploité par un tel employeur sont exemptés, pour ces prestations, de cet impôt.
 
-[^143a-1]: Modif. 9 du 19.12.2006: Modification Art. 144; entrée en vigueur au 01.01.2007 · Modif. 34 du 13.12.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 47 du 17.12.2025: Introduction Art. 5, Al. 1, abis; entrée en vigueur au 01.01.2026; Introduction Art. 138, Al. 2-3; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 177, Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 179, Al. 1, g; entrée en vigueur au 01.01.2026
+<sup>2</sup> Les revenus soumis à l'imposition selon la procédure simplifiée de l'article 137b sont exclus de l'impôt à la source.
+
+[^143a-1]: Modif. 9 du 19.12.2006: Modification Art. 144; entrée en vigueur au 01.01.2007 · Modif. 34 du 13.12.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 39 du 08.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021 · Modif. 47 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 2; entrée en vigueur au 01.01.2026
 
 #### Art. 144a
 
@@ -2842,7 +2848,9 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 
 <sup>2</sup> Lorsque, malgré sommation, le contribuable ne produit pas les attestations requises, l'autorité fiscale peut les exiger directement du tiers. Le secret professionnel protégé légalement est réservé.
 
-[^sectionSectionIII-5]: Modif. 45 du 11.12.2024: Modification Al. 1, c; entrée en vigueur au 01.01.2025 · Modif. 47 du 17.12.2025: Introduction Art. 5, Al. 1, abis; entrée en vigueur au 01.01.2026; Introduction Art. 138, Al. 2-3; entrée en vigueur au 01.01.2026; Introduction Art. 144, Al. 2; entrée en vigueur au 01.01.2026; Introduction Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 179, Al. 1, g; entrée en vigueur au 01.01.2026
+<sup>3</sup> En cas de départ en cours d'année d'un travailleur visé à l'article 138, alinéas 1 et 2, l'ancien employeur doit, au moment de la fin des rapports de travail, lui délivrer, s'il en fait la demande, une attestation contenant les données pertinentes relatives à l'activité lucrative dépendante nécessaires à l'application de l'accord fiscal international concerné. Le Conseil d'Etat arrête les dispositions d'application.
+
+[^sectionSectionIII-5]: Modif. 45 du 11.12.2024: Modification Al. 1, c; entrée en vigueur au 01.01.2025 · Modif. 47 du 17.12.2025: Introduction Al. 3; entrée en vigueur au 01.01.2026
 
 ### Section IV Renseignements de tiers
 
@@ -2866,17 +2874,18 @@ Jusqu'à 1 an 30% 1 an - 2 ans 27% 2 ans - 3 ans 24% 3 ans - 4 ans 22% 4 ans- 5 
 - d. les employeurs, sur le montant des prestations faites à leur personnel, au moyen d'une copie des certificats de salaire ;
 - e. les employeurs, sur les avantages appréciables en argent dérivant de participations de collaborateur proprement dites ainsi que sur l'attribution et l'exercice d'options de collaborateur.
 - f. les caisses de chômage publiques et privées agrées, sur les prestations reçues en application de l'article 97a, alinéa 1, lettre cbis de la loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l'indemnité en cas d'insolvabilité (loi sur l'assurance-chômage, LACI).
+- g. les employeurs, sur les données salariales relatives aux travailleurs visés à l'article 138, alinéas 1 et 2, pour lesquels un accord fiscal international prévoit l'échange automatique de renseignements sur ces données. Le Conseil d'Etat arrête les dispositions d'application.
 
 <sup>1bis</sup> Les délais pour remettre les attestations sont les suivants :
 
 - - alinéa 1, lettres a et c : 6 mois après la fin de la période fiscale ;
-- - alinéa 1, lettre d et f : au 28 février de l'année qui suit la période fiscale.
+- - alinéa 1, lettre d, f et g : au 28 février de l'année qui suit la période fiscale.
 
-<sup>2</sup> Un double des attestations mentionnées à l'alinéa 1, lettres a à c, e et f, respectivement l'original du certificat de salaire (al. 1, let. d) doit être adressé au contribuable.
+<sup>2</sup> Un double des attestations mentionnées à l'alinéa 1, lettres a à c, e, f et g respectivement l'original du certificat de salaire (alinéa 1, lettre d) doit être adressé au contribuable.
 
 <sup>3</sup> Les placements collectifs de capitaux qui possèdent des immeubles en propriété directe (art. 84, al. 2) doivent remettre aux autorités fiscales, pour chaque période fiscale, une attestation portant sur tous les éléments déterminants pour l'imposition de ces immeubles et de leur rendement.
 
-[^sectionSectionV-2]: Modif. 12 du 12.12.2007: Modification Al. 3; entrée en vigueur au 01.01.2008 · Modif. 24 du 08.11.2011: Modification Al. 1b; entrée en vigueur au 01.01.2012; Introduction Al. 1bis; entrée en vigueur au 01.01.2012 · Modif. 26 du 02.10.2012: Modification Al. 2; entrée en vigueur au 01.01.2013; Introduction Al. 1 e; entrée en vigueur au 01.01.2013 · Modif. 40 du 14.12.2021: Introduction Al. 1, f; entrée en vigueur au 01.01.2022; Modification Al. 1bis, Tiret 2; entrée en vigueur au 01.01.2022; Modification Al. 2; entrée en vigueur au 01.01.2022 · Modif. 47 du 17.12.2025: Introduction Art. 5, Al. 1, abis; entrée en vigueur au 01.01.2026; Introduction Art. 138, Al. 2-3; entrée en vigueur au 01.01.2026; Introduction Art. 144, Al. 2; entrée en vigueur au 01.01.2026; Introduction Art. 177, Al. 3; entrée en vigueur au 01.01.2026; Introduction Al. 1, g; entrée en vigueur au 01.01.2026; Modification Al. 1bis; entrée en vigueur au 01.01.2026; Modification Al. 1bis, Tiret 1-2; entrée en vigueur au 01.01.2026; Modification Al. 2; entrée en vigueur au 01.01.2026
+[^sectionSectionV-2]: Modif. 12 du 12.12.2007: Modification Al. 3; entrée en vigueur au 01.01.2008 · Modif. 24 du 08.11.2011: Modification Al. 1b; entrée en vigueur au 01.01.2012; Introduction Al. 1bis; entrée en vigueur au 01.01.2012 · Modif. 26 du 02.10.2012: Modification Al. 2; entrée en vigueur au 01.01.2013; Introduction Al. 1 e; entrée en vigueur au 01.01.2013 · Modif. 40 du 14.12.2021: Introduction Al. 1, f; entrée en vigueur au 01.01.2022; Modification Al. 1bis, Tiret 2; entrée en vigueur au 01.01.2022; Modification Al. 2; entrée en vigueur au 01.01.2022 · Modif. 47 du 17.12.2025: Introduction Al. 1, g; entrée en vigueur au 01.01.2026; Modification Al. 1bis; entrée en vigueur au 01.01.2026; Modification Al. 1bis, Tiret 1-2; entrée en vigueur au 01.01.2026; Modification Al. 2; entrée en vigueur au 01.01.2026
 
 ### Chapitre III Taxation
 
@@ -4253,13 +4262,21 @@ Le Conseil d'Etat arrête les dispositions d'application du présent article ; l
 
 [^277k-1]: Modif. 42 du 20.12.2022: Introduction Art. 277l; entrée en vigueur au 01.01.2023
 
+#### Art. 277m
+
+**Responsabilité des époux [^277l-1]**
+
+<sup>1</sup> L'article 14, alinéa 1, 2<sup>e</sup> phrase est applicable aux époux dont la séparation (art. 10) intervient dès la période fiscale 2026. Pour les époux dont la séparation (art. 10) intervient antérieurement et jusqu'à l'année 2025 y comprise, l'article 14, alinéa 1 dans sa teneur jusqu'au 31 décembre 2025 demeure applicable.
+
+[^277l-1]: Modif. 46 du 29.04.2025: Introduction tArt; entrée en vigueur au 01.01.2026; Introduction Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 277m; entrée en vigueur au 01.01.2026 · Modif. 46 du 29.04.2025: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.05.2026
+
 #### Art. 278
 
-**Abrogation de loi [^277l-1]**
+**Abrogation de loi [^277m-1]**
 
 <sup>1</sup> La loi du 26 novembre 1956 sur les impôts directs cantonaux est abrogée.
 
-[^277l-1]: Modif. 1 du 04.12.2001: Introduction Art. 278; entrée en vigueur au 01.01.2003
+[^277m-1]: Modif. 1 du 04.12.2001: Introduction Art. 278; entrée en vigueur au 01.01.2003
 
 #### Art. 279
 
