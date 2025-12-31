@@ -4,13 +4,12 @@ number: VI C/1/3
 title: Verordnung über die Pauschalierung von Berufsauslagen bei unselbstständiger Erwerbstätigkeit und Gewinnungskosten bei Nebenerwerbstätigkeit
 short: "Berufskostenverordnung, BKV"
 language: de
-version: 2016-09-01
-valid_until: 2025-12-31
-version_adopted: 2016-08-30
+version: 2026-01-01
+version_adopted: 2025-09-30
 adopted: 2000-11-21
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/1902/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2596/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1902/pdf_file"
 
 (Berufskostenverordnung, BKV)
 
-Vom 21.11.2000 (Stand 01.09.2016)
+Vom 21.11.2000 (Stand 01.01.2026)
 
 Der Regierungsrat,
 
@@ -130,7 +129,7 @@ verordnet:
 <tr><th>Kategorie</th><th>Berechnungseinheit</th><th>Pauschale</th></tr>
 <tr><td>Fahrräder, Motorfahrräder, Motorräder mit gelbem Kontrollschild</td><td>im Jahr</td><td>700 Fr.</td></tr>
 <tr><td>Motorräder mit weissem Kontrollschild</td><td>pro Fahrkilometer</td><td>0.40 Fr.</td></tr>
-<tr><td>Autos</td><td>pro Fahrkilometer</td><td>0.70 Fr.</td></tr>
+<tr><td>Autos</td><td>pro Fahrkilometer</td><td>0.75 Fr.</td></tr>
 </table>
 
 #### Art. A1-2
