@@ -4,13 +4,12 @@ number: "122.72.22"
 title: "Règlement relatif à la procédure d'évaluation et de classification des fonctions du personnel de l'Etat"
 short: RECF
 language: fr
-version: 2023-02-01
-valid_until: 2025-12-31
-version_adopted: 2023-01-17
+version: 2026-01-01
+version_adopted: 2025-09-01
 adopted: 1991-06-11
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7722/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8253/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Personnel de l'Etat, évaluation et classification des fonctions – R
 
 (RECF)
 
-du 11.06.1991 (version entrée en vigueur le 01.02.2023)
+du 11.06.1991 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -140,6 +139,12 @@ Arrête:
 **Recours**
 
 <sup>1</sup> La décision d'application rendue en vertu de l'article 8 est susceptible de recours au Tribunal cantonal, conformément à la législation sur le personnel.
+
+#### Art. 9a
+
+**Mesures d'assainissement des finances de l'Etat 2026-2028**
+
+<sup>1</sup> Durant les années 2026, 2027 et 2028, le traitement de requêtes de décision formelle est suspendu. La suspension s'applique aux requêtes pendantes à la date d'entrée en vigueur de la présente disposition ainsi qu'à celles introduites durant la période susmentionnée.
 
 #### Art. 10
 

@@ -4,13 +4,12 @@ number: "122.72.22"
 title: Reglement über das Verfahren zur Bewertung und Einreihung der Funktionen des Staatspersonals
 short: BEFR
 language: de
-version: 2023-02-01
-valid_until: 2025-12-31
-version_adopted: 2023-01-17
+version: 2026-01-01
+version_adopted: 2025-09-01
 adopted: 1991-06-11
 in_force: 1992-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.22"
-pdf: "https://bdlf.fr.ch/api/de/versions/7722/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8253/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Staatspersonal, Bewertung und Einreihung der Funktionen – B
 
 (BEFR)
 
-vom 11.06.1991 (Fassung in Kraft getreten am 01.02.2023)
+vom 11.06.1991 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -140,6 +139,12 @@ beschliesst:
 **Beschwerde**
 
 <sup>1</sup> Der im Sinne von Artikel 8 gefällte Entscheid kann gemäss der Personalgesetzgebung mit einer Beschwerde an das Kantonsgericht angefochten werden.
+
+#### Art. 9a
+
+**Massnahmen zur Sanierung der Kantonsfinanzen 2026-2028**
+
+<sup>1</sup> In den Jahren 2026, 2027 und 2028 wird die Bearbeitung von Anträgen auf formellen Entscheid sistiert. Die Sistierung gilt für die beim Inkrafttreten dieser Bestimmung hängigen Anträge und für die in diesem Zeitraum neu eingereichten Anträge.
 
 #### Art. 10
 
