@@ -4,11 +4,11 @@ title: Ordinanza del 19 giugno 1995 concernente le esigenze tecniche per gli aut
 short: OETV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145"
 language: it
-version: 2025-04-01
+version: 2026-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20250401/it/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20250401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/it"
 
 (OETV 1)
 
-del 19 giugno 1995 (Stato 1° aprile 2025)
+del 19 giugno 1995 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 8, 9 capoverso 1, 25 e 106 della legge del 19 dicembre 1958[^
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## 1 Disposizioni generali
 
@@ -45,40 +45,40 @@ ordina:
 - 1\.1.2.5.3 I veicoli speciali sono veicoli che, a motivo dell’uso speciale cui sono destinati, non possono soddisfare, in base alla ripartizione in classi, tutte le esigenze poste.
 - 1\.1.3[^lvl1-lvl11-6] I veicoli non contemplati dalla presente ordinanza devono essere conformi alle disposizioni dell’OETV; ai trattori e ai loro rimorchi si applica l’ordinanza del 16 novembre 2016[^lvl1-lvl11-7] concernente le esigenze tecniche per i trattori e i loro rimorchi (OETV 2).
 
-[^lvl1-lvl11-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^lvl1-lvl11-2]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
-[^lvl1-lvl11-3]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl1-lvl11-4]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
-[^lvl1-lvl11-5]: Nuovo testo giusta il n. I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
-[^lvl1-lvl11-6]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl1-lvl11-7]: [RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
+[^lvl1-lvl11-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^lvl1-lvl11-2]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
+[^lvl1-lvl11-3]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl1-lvl11-4]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
+[^lvl1-lvl11-5]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
+[^lvl1-lvl11-6]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl1-lvl11-7]: [RS 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)
 
 ### 1.2 Esigenze generali
 
 - 1\.2.1[^lvl1-lvl12-1] I veicoli di trasporto che rientrano nel campo d’applicazione della presente ordinanza devono corrispondere completamente alle prescrizioni dell’UE menzionate ai numeri 2.4–2.14 (atti normativi UE) o della Commissione economica per l’Europa (regolamenti UNECE[^lvl1-lvl12-2]).
-- 1\.2.1.1[^lvl1-lvl12-3] Le esigenze tecniche giusta il numero 1.2.1 sono adempiute se è presentata un’approvazione generale CE o un certificato di conformità della CE secondo la direttiva 2007/46/CE. In subordine, la conformità alle esigenze tecniche può essere provata presentando approvazioni parziali CE, approvazioni internazionali equivalenti, dichiarazioni di conformità oppure rapporti di perizia allestiti dai servizi d’esame competenti di cui all’allegato 2 dell’ordinanza del 19 giugno 1995[^lvl1-lvl12-4] concernente l’approvazione del tipo di veicoli stradali (OATV) o autorizzati dall’USTRA a titolo provvisorio conformemente all’articolo 17 capoverso 2 OATV.
+- 1\.2.1.1[^lvl1-lvl12-3] Le esigenze tecniche giusta il numero 1.2.1 sono adempiute se è presentata un’approvazione generale CE o un certificato di conformità della CE secondo la direttiva 2007/46/CE. In subordine, la conformità alle esigenze tecniche può essere provata presentando approvazioni parziali CE, approvazioni internazionali equivalenti, dichiarazioni di conformità oppure rapporti di esame redatti secondo le prescrizioni di cui all’allegato 2 OETV da organi di controllo riconosciuti (art. 17 cpv. 1 dell’ordinanza del 19 giugno 1995[^lvl1-lvl12-4] concernente l’approvazione del tipo di veicoli stradali [OATV]).
 - 1\.2.1.2[^lvl1-lvl12-5] Se si constata che veicoli, sistemi, entità tecniche o componenti del tipo approvato mettono gravemente in pericolo la sicurezza stradale oppure l’ambiente o la salute pubblica, si apre la procedura di cui all’allegato 1 capitolo 12 sezione V numero 4 dell’Accordo del 21 giugno 1999[^lvl1-lvl12-6] tra la Confederazione svizzera e la Comunità europea sul reciproco riconoscimento in materia di valutazione della conformità, prevista per veicoli, sistemi, componenti o entità tecniche conformi alla legislazione applicabile.
 - 1\.2.1.3[^lvl1-lvl12-7] Nella misura in cui la presente ordinanza non prevede alcuna esigenza, si applica l’OETV[^lvl1-lvl12-8].
 - 1\.2.2[^lvl1-lvl12-9] L’approvazione del tipo di veicoli per i quali sono definite le esigenze tecniche nella presente ordinanza si fonda sull’OATV[^lvl1-lvl12-10].
 - 1\.2.3[^lvl1-lvl12-11] Le dimensioni e i pesi di cui nella direttiva 96/53 del Consiglio, del 25 luglio 1996, che stabilisce, per taluni veicoli stradali che circolano nella Comunità, le dimensioni massime autorizzate nel traffico nazionale e internazionale e i pesi massimi autorizzati nel traffico internazionale sono determinanti come parametri tecnici anche se divergono dalle prescrizioni svizzere.
 
-[^lvl1-lvl12-1]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl1-lvl12-2]: Nuova espr. giusta il n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^lvl1-lvl12-3]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^lvl1-lvl12-5]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^lvl1-lvl12-7]: Introdotto dal n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^lvl1-lvl12-9]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-10]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^lvl1-lvl12-11]: Nuovo testo giusta il n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
+[^lvl1-lvl12-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl1-lvl12-2]: Nuova espr. giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^lvl1-lvl12-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 647](https://fedlex.data.admin.ch/eli/oc/2025/647)).
+[^lvl1-lvl12-4]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^lvl1-lvl12-5]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
+[^lvl1-lvl12-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^lvl1-lvl12-7]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
+[^lvl1-lvl12-8]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^lvl1-lvl12-9]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
+[^lvl1-lvl12-10]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^lvl1-lvl12-11]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
 ### 1.3 …
 
 [^lvl1-lvl13-1]
 
-[^lvl1-lvl13-1]: Abrogato dal n. I dell’O del 2 set. 1998, con effetto dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
+[^lvl1-lvl13-1]: Abrogato dalla cifra I dell’O del 2 set. 1998, con effetto dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
 ### 1.4 ...
 
@@ -88,17 +88,17 @@ ordina:
 
 ### 1.5 Classificazione dei veicoli
 
-- 1\.5.1 Classe M
+- *1.5.1* *Classe M*
 - Veicoli a motore adibiti al trasporto di persone, con almeno quattro ruote:
 - 1\.5.1.1 Classe M <sub>1</sub> Veicoli con al massimo nove posti a sedere, compreso quello del conducente;
 - 1\.5.1.2 Classe M <sub>2</sub> Veicoli con oltre nove posti a sedere, compreso quello del conducente, e con un peso garantito di al massimo 5 t;
 - 1\.5.1.3 Classe M <sub>3</sub> Veicoli con oltre nove posti a sedere, compreso quello del conducente, e con un peso garantito superiore a 5 t.
-- 1\.5.2 Classe N
+- 1\.5.2 *Classe N*
 - Veicoli adibiti al trasporto di merci, con almeno quattro ruote:
 - 1\.5.2.1 Classe N <sub>1</sub> Veicoli con un peso garantito di al massimo 3,5 t;
 - 1\.5.2.2 Classe N <sub>2</sub> Veicoli con un peso garantito di oltre 3,5 t fino al massimo 12 t;
 - 1\.5.2.3 Classe N <sub>3</sub> Veicoli con un peso garantito di oltre 12 t;
-- 1\.5.3 Classe O
+- 1\.5.3 *Classe O*
 - Rimorchi (compresi semirimorchi e rimorchi con asse centrale):
 - 1\.5.3.1 Classe O <sub>1</sub> Rimorchi con un peso garantito di al massimo 0,75 t;
 - 1\.5.3.2 Classe O <sub>2</sub> Rimorchi con un peso garantito di oltre 0,75 t fino al massimo 3,5 t;
@@ -115,12 +115,12 @@ ordina:
 
 ### 2.4 Dimensioni/Pesi/Contrassegni
 
-[^lvl2-1]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-2]: Introdotto dal n. I dell’O del 6 set. 2000 ([RU 2000 2389](https://fedlex.data.admin.ch/eli/oc/2000/381)). Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-3]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-4]: La designazione è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), in vigore dal 6 mag. 2019.
-[^lvl2-5]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^lvl2-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-2]: Introdotto dalla cifra I dell’O del 6 set. 2000 ([RU 2000 2389](https://fedlex.data.admin.ch/eli/oc/2000/381)). Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-3]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-4]: La designazione è stata adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), in vigore dal 6 mag. 2019.
+[^lvl2-5]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 <table>
 <tr><th></th><th></th><th>Atto normativo UE[^lvl2-lvl24-1]</th><th colspan="8">Applicabile alle classi di veicoli</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>Reg. UNECE n.</th></tr>
@@ -138,17 +138,17 @@ ordina:
 <tr><td>2.4.4[^lvl2-lvl24-5]</td><td>...</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="4"></td><td></td></tr>
 </table>
 
-[^lvl2-lvl24-1]: Nuova espr. giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^lvl2-lvl24-2]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl24-3]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl24-4]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl24-5]: Introdotto dal n. I dell’O del 2 set. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)). Abrogato dal n. I dell’O del 21 gen. 2015, con effetto dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl24-1]: Nuova espr. giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^lvl2-lvl24-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl24-3]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl24-4]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl24-5]: Introdotto dalla cifra I dell’O del 2 set. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)). Abrogato dalla cifra I dell’O del 21 gen. 2015, con effetto dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 
 ### 2.5 Propulsione/Gas di scarico/Livello sonoro
 
 [^lvl2-lvl25-1]
 
-[^lvl2-lvl25-1]: Nuovo testo giusta il n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
+[^lvl2-lvl25-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
 
 <table>
 <tr><th></th><th></th><th>Atto normativo UE</th><th colspan="7">Applicabile alle classi di veicoli</th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th>Reg. UNECE n.</th></tr>
@@ -166,8 +166,8 @@ ordina:
 <tr><td>2.5.8[^lvl2-lvl25-3]</td><td>Sistema di allarme acustico per veicoli silenziosi</td><td>540/2014/UE</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2"></td><td colspan="4"></td><td colspan="4"></td><td colspan="3"></td><td>UNECE-R 138</td></tr>
 </table>
 
-[^lvl2-lvl25-2]: Introdotto dal n. I dell’O del 21 gen. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl2-lvl25-3]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl25-2]: Introdotto dalla cifra I dell’O del 21 gen. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl25-3]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 
 ### 2.6 Trasmissione
 
@@ -179,8 +179,8 @@ ordina:
 <tr><td>2.6.3[^lvl2-lvl26-2]</td><td>Limitatore di velocità (congegno)</td><td>92/24/CEE</td><td></td><td>x</td><td>x</td><td></td><td>x</td><td>x</td><td colspan="2"></td><td colspan="4"></td><td colspan="3"></td><td colspan="3"></td><td>UNECE-R 89</td></tr>
 </table>
 
-[^lvl2-lvl26-1]: Abrogato dal n. I dell’O del 2 set. 1998, con effetto dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
-[^lvl2-lvl26-2]: Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)).
+[^lvl2-lvl26-1]: Abrogato dalla cifra I dell’O del 2 set. 1998, con effetto dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
+[^lvl2-lvl26-2]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)).
 
 ### 2.7 Assi/Sospensione
 
@@ -194,7 +194,7 @@ ordina:
 
 [^lvl2-lvl28-1]
 
-[^lvl2-lvl28-1]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl28-1]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 
 <table>
 <tr><th></th><th></th><th>Atto normativo UE</th><th colspan="7">Applicabile alle classi di veicoli</th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th>Reg. UNECE n.</th></tr>
@@ -227,19 +227,19 @@ ordina:
 <tr><td colspan="25">\* eccezioni vedi atto normativo UE[^lvl2-lvl210-7]</td></tr>
 </table>
 
-[^lvl2-lvl210-1]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl210-2]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl210-3]: Introdotto dal n. I dell’O del 30 nov. 2012 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl2-lvl210-4]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl2-lvl210-5]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl2-lvl210-6]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl2-lvl210-7]: Nuova espr. giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)). .. Di detta mod. è tenuto conto in tutto il presente testo.
+[^lvl2-lvl210-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl210-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl210-3]: Introdotto dalla cifra I dell’O del 30 nov. 2012 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl210-4]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl210-5]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl210-6]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl210-7]: Nuova espr. giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### 2.11 Carrozzeria
 
 [^lvl2-lvl211-1]
 
-[^lvl2-lvl211-1]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl211-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
 
 <table>
 <tr><th></th><th colspan="2"></th><th colspan="2">Atto normativo UE</th><th colspan="7">Applicabile alle classi di veicoli</th><th colspan="2"></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th></th><th>Reg. UNECE n.</th></tr>
@@ -263,11 +263,11 @@ ordina:
 <tr><td colspan="2">2.11.15[^lvl2-lvl211-6]</td><td colspan="2">Accesso e manovrabilità</td><td>130/2012/UE</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2"></td><td colspan="4"></td><td colspan="3"></td><td colspan="3"></td><td></td></tr>
 </table>
 
-[^lvl2-lvl211-2]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl211-3]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl211-4]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl211-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl2-lvl211-6]: Introdotto dal n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
+[^lvl2-lvl211-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl211-3]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl211-4]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl211-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl211-6]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
 
 ### 2.12 Abitacolo
 
@@ -288,16 +288,16 @@ ordina:
 <tr><td colspan="25">\* Solo per veicoli della classe I</td></tr>
 </table>
 
-[^lvl2-lvl212-1]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl212-2]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl212-3]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl212-4]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl212-5]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl212-6]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
-[^lvl2-lvl212-7]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl212-8]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl212-9]: Introdotto dal n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)). Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)).
-[^lvl2-lvl212-10]: Introdotto dal n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2177](https://fedlex.data.admin.ch/eli/oc/2007/301)).
+[^lvl2-lvl212-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl212-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl212-3]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl212-4]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl212-5]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl212-6]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
+[^lvl2-lvl212-7]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl212-8]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl212-9]: Introdotto dalla cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)). Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)).
+[^lvl2-lvl212-10]: Introdotto dalla cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2177](https://fedlex.data.admin.ch/eli/oc/2007/301)).
 
 ### 2.13 Dispositivo d’illuminazione
 
@@ -316,15 +316,15 @@ ordina:
 <tr><td colspan="2">2.13.10[^lvl2-lvl213-9]</td><td>Luci di posteggio</td><td>661/2009/CE</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td>x</td><td colspan="2"></td><td colspan="3"></td><td colspan="4"></td><td colspan="3"></td><td>UNECE-R 77</td></tr>
 </table>
 
-[^lvl2-lvl213-1]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl213-2]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl213-3]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl213-4]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl213-5]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)).
-[^lvl2-lvl213-6]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl213-7]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl213-8]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl213-9]: Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-1]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-2]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-3]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-4]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-5]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)).
+[^lvl2-lvl213-6]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-7]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-8]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl213-9]: Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 
 ### 2.14 Altre esigenze ed equipaggiamenti supplementari
 
@@ -351,21 +351,21 @@ ordina:
 <tr><td colspan="25">\* eccezioni vedi atto normativo UE</td></tr>
 </table>
 
-[^lvl2-lvl214-1]: Nuovo testo giusta il n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
-[^lvl2-lvl214-2]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-3]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
-[^lvl2-lvl214-4]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-5]: Nuovo testo giusta il n. I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)).
-[^lvl2-lvl214-6]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-7]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-8]: Introdotto dal n. I dell’O del 10 giu. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)). Nuovo testo giusta il n. I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-lvl214-9]: Introdotto dal n. I dell’O del 28 mar. 2007 ([RU 2007 2177](https://fedlex.data.admin.ch/eli/oc/2007/301)). Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl2-lvl214-10]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-11]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-12]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-13]: Introdotto dal n. I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
-[^lvl2-lvl214-14]: Introdotto dal n. I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl2-lvl214-15]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)).
+[^lvl2-lvl214-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
+[^lvl2-lvl214-2]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-3]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
+[^lvl2-lvl214-4]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-5]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)).
+[^lvl2-lvl214-6]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-7]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-8]: Introdotto dalla cifra I dell’O del 10 giu. 2005 ([RU 2005 4177](https://fedlex.data.admin.ch/eli/oc/2005/546)). Nuovo testo giusta la cifra I dell’O del 21 gen. 2015, in vigore dal 1° apr. 2015 ([RU 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
+[^lvl2-lvl214-9]: Introdotto dalla cifra I dell’O del 28 mar. 2007 ([RU 2007 2177](https://fedlex.data.admin.ch/eli/oc/2007/301)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
+[^lvl2-lvl214-10]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-11]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-12]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-13]: Introdotto dalla cifra I dell’O del 2 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1909](https://fedlex.data.admin.ch/eli/oc/2012/262)).
+[^lvl2-lvl214-14]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
+[^lvl2-lvl214-15]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)).
 
 ## 3 Disposizioni penali e finali
 
@@ -383,9 +383,9 @@ Si applicano le disposizioni d’esecuzione degli articoli 220 e 221 OETV.
 - 3\.3.2 Le approvazioni generali CE, le approvazioni parziali CE, altre approvazioni e i marchi di conformità, rilasciati dagli Stati esteri secondo il diritto internazionale, menzionato in Allegato 2 OETV, come anche le dichiarazioni di conformità giusta gli articoli 2 lettera f[^lvl3-lvl33-2] e 14 OATV sono riconosciuti già dal 1° luglio 1995 nel quadro della procedura d’approvazione del tipo.
 - 3\.3.3[^lvl3-lvl33-3] Per l’applicazione dei regolamenti internazionali menzionati in Allegato 2 OETV vigono le disposizioni transitorie dei rispettivi regolamenti; tuttavia la data dell’importazione o della costruzione in Svizzera è determinante per l’immatricolazione.
 
-[^lvl3-lvl33-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^lvl3-lvl33-2]: Nuova espr. giusta il n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
-[^lvl3-lvl33-3]: Introdotto dal n. I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
+[^lvl3-lvl33-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^lvl3-lvl33-2]: Nuova espr. giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
+[^lvl3-lvl33-3]: Introdotto dalla cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
 ### 3.4 Entrata in vigore
 
@@ -393,4 +393,4 @@ La presente ordinanza entra in vigore il 1° ottobre 1995.
 
 Allegato[^t-1]
 
-[^t-1]: Abrogato dal n. II dell’O del 21 ago. 2002, con effetto dal 1° apr. 2010 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).
+[^t-1]: Abrogato dalla cifra II dell’O del 21 ago. 2002, con effetto dal 1° apr. 2010 ([RU 2002 3178](https://fedlex.data.admin.ch/eli/oc/2002/472)).

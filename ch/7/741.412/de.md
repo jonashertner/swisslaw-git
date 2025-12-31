@@ -4,11 +4,11 @@ title: Verordnung vom 19. Juni 1995 über technische Anforderungen an Transportm
 short: TAFV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145"
 language: de
-version: 2025-04-01
+version: 2026-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20250401/de/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/de"
 
 (TAFV 1)
 
-vom 19. Juni 1995 (Stand am 1. April 2025)
+vom 19. Juni 1995 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 8, 9 Absatz 1, 25 und 106 des Strassenverkehrsgesetzes
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -45,18 +45,18 @@ verordnet:
 - 1\.1.2.5.3 Ausnahmefahrzeuge sind Fahrzeuge, die infolge ihres besonderen Verwendungszweckes nicht alle aufgrund der Klasseneinteilung an sie gestellten Anforderungen erfüllen können.
 - 1\.1.3[^lvl1-lvl11-6] Fahrzeuge, die nicht unter diese Verordnung fallen, müssen den Bestimmungen der VTS entsprechen; für Traktoren und deren Anhänger gilt die Verordnung vom 16. November 2016[^lvl1-lvl11-7] über technische Anforderungen an Traktoren und deren Anhänger (TAFV 2).
 
-[^lvl1-lvl11-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^lvl1-lvl11-2]: [SR 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^lvl1-lvl11-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^lvl1-lvl11-2]: [SR 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 [^lvl1-lvl11-3]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 [^lvl1-lvl11-4]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
 [^lvl1-lvl11-5]: Fassung gemäss Ziff. I der V vom 14. Okt. 2009, in Kraft seit 1. April 2010 ([AS 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
 [^lvl1-lvl11-6]: Fassung gemäss Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl1-lvl11-7]: [SR 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
+[^lvl1-lvl11-7]: [SR 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)
 
 ### 1.2 Allgemeine Anforderungen
 
 - 1\.2.1[^lvl1-lvl12-1] Transportfahrzeuge, die unter den Geltungsbereich dieser Verordnung fallen, müssen vollumfänglich den in den Ziffern 2.4–2.14 aufgeführten Vorschriften der EU (EU-Rechtsakte) oder der Wirtschaftskommission für Europa (UNECE-Reglemente[^lvl1-lvl12-2]) entsprechen.
-- 1\.2.1.1[^lvl1-lvl12-3] Die technischen Anforderungen nach Ziffer 1.2.1 sind erfüllt, wenn eine EG-Gesamtgenehmigung oder eine EG-Übereinstimmungsbescheinigung nach der Richtlinie 2007/46/EG beigebracht wird. Andernfalls kann die Übereinstimmung mit den technischen Anforderungen nachgewiesen werden durch das Vorlegen von EG-Teilgenehmigungen, gleichwertigen internationalen Genehmigungen, Konformitätserklärungen oder Prüfberichten von Prüfstellen, die für die entsprechenden Prüfungen in Anhang 2 der Verordnung vom 19. Juni 1995[^lvl1-lvl12-4] über die Typengenehmigung von Strassenfahrzeugen (TGV) aufgeführt oder vom ASTRA nach Artikel 17 Absatz 2 TGV provisorisch zugelassen sind.
+- 1\.2.1.1[^lvl1-lvl12-3] Die technischen Anforderungen nach Ziffer 1.2.1 sind erfüllt, wenn eine EG-Gesamtgenehmigung oder eine EG-Übereinstimmungsbescheinigung nach der Richtlinie 2007/46/EG beigebracht wird. Andernfalls kann die Übereinstimmung mit den technischen Anforderungen nachgewiesen werden durch das Vorlegen von EG-Teilgenehmigungen, gleichwertigen internationalen Genehmigungen, Konformitätserklärungen oder Prüfberichten, die nach den in Anhang 2 VTS aufgeführten Vorschriften von anerkannten Prüfstellen (Art. 17 Abs. 1 der Verordnung vom 19. Juni 1995[^lvl1-lvl12-4] über die Typengenehmigung von Strassenfahrzeugen [TGV]) erstellt wurden.
 - 1\.2.1.2[^lvl1-lvl12-5] Wird festgestellt, dass Fahrzeuge, Systeme, selbstständige technische Einheiten oder Bauteile des genehmigten Typs die Sicherheit des Strassenverkehrs oder die Umwelt oder die öffentliche Gesundheit ernsthaft gefährden, so wird das Verfahren nach Anhang 1 Kapitel 12 Abschnitt V Ziffer 4 des Abkommens vom 21. Juni 1999[^lvl1-lvl12-6] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die gegenseitige Anerkennung von Konformitätsbewertungen eingeleitet, das vorgesehen ist für Fahrzeuge, Systeme, Bauteile oder selbstständige technische Einheiten, die den geltenden Rechtsvorschriften entsprechen.
 - 1\.2.1.3[^lvl1-lvl12-7] Soweit diese Verordnung keine Anforderungen enthält, gilt die VTS[^lvl1-lvl12-8].
 - 1\.2.2[^lvl1-lvl12-9] Die Typengenehmigung von Fahrzeugen, für die in dieser Verordnung technische Anforderungen definiert sind, richtet sich nach der TGV[^lvl1-lvl12-10].
@@ -64,14 +64,14 @@ verordnet:
 
 [^lvl1-lvl12-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 [^lvl1-lvl12-2]: Ausdruck gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 15. Jan. 2017 ([AS 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^lvl1-lvl12-3]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-4]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^lvl1-lvl12-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 647](https://fedlex.data.admin.ch/eli/oc/2025/647)).
+[^lvl1-lvl12-4]: [SR [741.511](https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^lvl1-lvl12-5]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-6]: [SR 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^lvl1-lvl12-6]: [SR 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 [^lvl1-lvl12-7]: Eingefügt durch Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-8]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^lvl1-lvl12-8]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^lvl1-lvl12-9]: Fassung gemäss Ziff. I der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-10]: [SR 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^lvl1-lvl12-10]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^lvl1-lvl12-11]: Fassung gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
 ### 1.3 …
@@ -99,9 +99,7 @@ verordnet:
 - 1\.5.2.2 Klasse N<sub>2</sub> Fahrzeuge mit einem Garantiegewicht von über 3,5 t bis höchstens 12 t;
 - 1\.5.2.3 Klasse N<sub>3</sub> Fahrzeuge mit einem Garantiegewicht von über 12 t.
 - *1.5.3* *Klasse O*
-
-*Anhänger* (einschliesslich Sattelanhänger und Zentralachsanhänger):
-
+- Anhänger (einschliesslich Sattelanhänger und Zentralachsanhänger):
 - 1\.5.3.1 Klasse O<sub>1</sub> Anhänger mit einem Garantiegewicht von höchstens 0,75 t;
 - 1\.5.3.2 Klasse O<sub>2</sub> Anhänger mit einem Garantiegewicht von über 0,75 t bis höchstens 3,5 t;
 - 1\.5.3.3 Klasse O<sub>3</sub> Anhänger mit einem Garantiegewicht von über 3,5 t bis höchstens 10 t;
@@ -112,7 +110,7 @@ verordnet:
 
 - 2\.1[^lvl2-1] Für die einzelnen technischen Anforderungen an die Transportfahrzeuge gelten, entsprechend ihrer Klasseneinteilung, die in den Ziffern 2.4–2.14 aufgeführten EU-Rechtsakte oder UNECE-Reglemente.
 - 2\.1*a*[^lvl2-2] Wo in UNECE-Reglementen abweichende Anforderungen oder Übergangsfristen vorgesehen sind, gelten die Anforderungen oder die Übergangsfristen der entsprechenden EU-Rechtsakte.
-- 2\.2[^lvl2-3] Die Texte der zitierten EU-Rechtsakte und UNECE-Reglemente sind weder in der Amtlichen Sammlung (AS) noch in der Systematischen Sammlung (SR) des Bundesrechts veröffentlicht. Sie können beim Bundesamt für Strassen (ASTRA) eingesehen werden. Textausgaben der EU-Rechtsakte können bei der Schweizerischen Normen-Vereinigung (SNV, Sulzerallee 70, 8404 Winterthur; www.snv.ch)[^lvl2-4], Textausgaben der UNECE-Reglemente beim Bundesamt für Strassen, 3003 Bern, gegen Bezahlung bezogen werden.
+- 2\.2[^lvl2-3] Die Texte der zitierten EU-Rechtsakte und UNECE-Reglemente sind weder in der Amtlichen Sammlung (AS) noch in der Systematischen Sammlung (SR) des Bundesrechts veröffentlicht. Sie können beim Bundesamt für Strassen (ASTRA) eingesehen werden. Textausgaben der EU-Rechtsakte können bei der Schweizerischen Normen-Vereinigung (SNV, Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch))[^lvl2-4], Textausgaben der UNECE-Reglemente beim Bundesamt für Strassen, 3003 Bern, gegen Bezahlung bezogen werden.
 - 2\.3[^lvl2-5] Publikations- und Änderungsdaten von EU-Rechtsakten und UNECE-Reglementen sind Anhang 2 VTS[^lvl2-6] zu entnehmen.
 
 ### 2.4 Abmessungen/Gewichte/Kennzeichnung
@@ -120,9 +118,9 @@ verordnet:
 [^lvl2-1]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 [^lvl2-2]: Eingefügt durch Ziff. I der V vom 6. Sept. 2000 ([AS 2000 2389](https://fedlex.data.admin.ch/eli/oc/2000/381)). Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 [^lvl2-3]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-4]: Die Bezeichnung wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 6. Mai 2019 angepasst.
+[^lvl2-4]: Die Bezeichnung wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 6. Mai 2019 angepasst.
 [^lvl2-5]: Fassung gemäss Ziff. I der V vom 21. Jan. 2015, in Kraft seit 1. April 2015 ([AS 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-6]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^lvl2-6]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 <table>
 <tr><th></th><th></th><th>EU-Rechtsakte[^lvl2-lvl24-1]</th><th colspan="8">Anzuwenden auf Fahrzeugklasse</th><th colspan="2"></th><th></th><th></th><th></th><th colspan="2"></th><th></th><th></th><th></th><th></th><th>UNECE-Regl.Nr.</th></tr>
@@ -381,7 +379,7 @@ Es gelten die Vollzugsbestimmungen der Artikel 220 und 221 VTS.
 - 3\.3.2 EG-Gesamtgenehmigungen, EG-Teilgenehmigungen, andere Genehmigungen und Konformitätszeichen, die von ausländischen Staaten nach internationalem Recht, das im Anhang 2 VTS aufgeführt ist, erteilt wurden, sowie Konformitätserklärungen nach den Artikeln 2 Buchstabe f[^lvl3-lvl33-2] und 14 TGV werden im Rahmen des Typengenehmigungsverfahrens bereits ab dem 1. Juli 1995 anerkannt.
 - 3\.3.3[^lvl3-lvl33-3] Für die Anwendung der im Anhang 2 VTS aufgeführten internationalen Regelungen gelten die in den jeweiligen Regelungen enthaltenen Übergangsbestimmungen, wobei für die Zulassung auf den Zeitpunkt der Einfuhr oder der Herstellung in der Schweiz abgestellt wird
 
-[^lvl3-lvl33-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^lvl3-lvl33-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^lvl3-lvl33-2]: Ausdruck gemäss Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 [^lvl3-lvl33-3]: Eingefügt durch Ziff. I der V vom 2. Sept. 1998, in Kraft seit 1. Okt. 1998 ([AS 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 

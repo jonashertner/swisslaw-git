@@ -4,11 +4,11 @@ title: Ordonnance du 19 juin 1995 concernant les exigences techniques requises p
 short: OETV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145"
 language: fr
-version: 2025-04-01
+version: 2026-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20250401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4145_4145_4145-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4145_4145_4145/20250401/fr"
 
 (OETV 1)
 
-du 19 juin 1995 (État le 1<sup>er</sup> avril 2025)
+du 19 juin 1995 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 8, 9, al. 1, 25 et 106 de la loi fédérale du 19 décembre 1958 sur
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## 1 Dispositions générales
 
@@ -45,18 +45,18 @@ arrête:
 - 1\.1.2.5.3 Les véhicules spéciaux sont des véhicules qui, en raison de l’usage spécial auquel ils sont destinés, ne peuvent remplir, sur la base de leur classification, toutes les exigences qui leur sont fixées.
 - 1\.1.3[^lvl1-lvl11-6] Les véhicules qui ne relèvent pas du champ d’application de la présente ordonnance doivent être conformes aux dispositions de l’OETV; pour les tracteurs et leurs remorques, l’ordonnance du 16 novembre 2016 concernant les exigences techniques requises pour les tracteurs et leurs remorques (OETV 2)[^lvl1-lvl11-7] est applicable.
 
-[^lvl1-lvl11-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^lvl1-lvl11-2]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)
+[^lvl1-lvl11-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^lvl1-lvl11-2]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)
 [^lvl1-lvl11-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
 [^lvl1-lvl11-4]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
 [^lvl1-lvl11-5]: Nouvelle teneur selon le ch. I de l’O du 14 oct. 2009, en vigueur depuis le 1<sup>er</sup> avr. 2010 ([RO 2009 5795](https://fedlex.data.admin.ch/eli/oc/2009/697)).
 [^lvl1-lvl11-6]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 313](https://fedlex.data.admin.ch/eli/oc/2019/45)).
-[^lvl1-lvl11-7]: [RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)
+[^lvl1-lvl11-7]: [RS 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)
 
 ### 1.2 Exigences générales
 
 - 1\.2.1[^lvl1-lvl12-1] Les véhicules de transport visés par la présente ordonnance doivent correspondre intégralement aux prescriptions de l’UE mentionnées aux ch. 2.4 à 2.14 (actes réglementaires de l’UE) ou de la Commission économique pour l’Europe (règlements CEE-ONU[^lvl1-lvl12-2]).
-- 1\.2.1.1[^lvl1-lvl12-3] Les exigences techniques mentionnées au ch. 1.2.1 sont remplies lorsqu’a été présenté une réception générale CE ou un certificat de conformité de la CE selon la directive 2007/46/CE. A défaut, la conformité aux exigences techniques peut être attestée par la production de réceptions partielles CE, de réceptions internationales équivalentes ou de déclarations de conformité ou de rapports d’expertise réalisés par des organes compétents conformément à l’annexe 2 de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers (ORT)[^lvl1-lvl12-4] ou autorisés provisoirement par l’OFROU en vertu de l’art. 17, al. 2, ORT.
+- 1\.2.1.1[^lvl1-lvl12-3] Les exigences techniques mentionnées au ch. 1.2.1 sont remplies lorsqu’a été présenté une réception générale CE ou un certificat de conformité de la CE selon la directive 2007/46/CE. À défaut, la conformité aux exigences techniques peut être attestée par la production de réceptions partielles CE, de réceptions internationales équivalentes ou de déclarations de conformité ou de rapports d’examen établis conformément aux prescriptions figurant à l’annexe 2 OETV par des organes d’expertise reconnus (art. 17, al. 1, de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers [ORT][^lvl1-lvl12-4]).
 - 1\.2.1.2[^lvl1-lvl12-5] S’il est constaté que des véhicules, des systèmes, des entités techniques distinctes ou des composants du type réceptionné menacent sérieusement la sécurité routière, l’environnement ou la santé publique, la procédure visée à l’annexe 1, chap. 12, section V, ch. 4 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité[^lvl1-lvl12-6] et prévue pour les véhicules, systèmes, composants ou entités techniques distinctes conformes à la législation applicable, est lancée.
 - 1\.2.1.3[^lvl1-lvl12-7] Dans la mesure où la présente ordonnance ne contient aucune exigence, l’OETV[^lvl1-lvl12-8] est applicable.
 - 1\.2.2[^lvl1-lvl12-9] La réception par type des véhicules pour lesquels des exigences techniques sont définies dans la présente ordonnance est régie par l’ORT[^lvl1-lvl12-10].
@@ -64,14 +64,14 @@ arrête:
 
 [^lvl1-lvl12-1]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 [^lvl1-lvl12-2]: Nouvelle expression selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 15 janv. 2017 ([RO 2016 5195](https://fedlex.data.admin.ch/eli/oc/2016/820)). Il y été tenu compte de cette mod. dans tout le texte.
-[^lvl1-lvl12-3]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-4]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^lvl1-lvl12-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 647](https://fedlex.data.admin.ch/eli/oc/2025/647)).
+[^lvl1-lvl12-4]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^lvl1-lvl12-5]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
+[^lvl1-lvl12-6]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
 [^lvl1-lvl12-7]: Introduit par le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^lvl1-lvl12-8]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^lvl1-lvl12-9]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7137](https://fedlex.data.admin.ch/eli/oc/2012/861)).
-[^lvl1-lvl12-10]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^lvl1-lvl12-10]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^lvl1-lvl12-11]: Nouvelle teneur selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
 ### 1.3 …
@@ -118,9 +118,9 @@ arrête:
 [^lvl2-1]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 [^lvl2-2]: Introduit par le ch. I de l’O du 6 sept. 2000 ([RO 2000 2389](https://fedlex.data.admin.ch/eli/oc/2000/381)). Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
 [^lvl2-3]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-4]: La désignation de l’adresse a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), en vigueur depuis le 6 mai 2019.
+[^lvl2-4]: La désignation de l’adresse a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), en vigueur depuis le 6 mai 2019.
 [^lvl2-5]: Nouvelle teneur selon le ch. I de l’O du 21 janv. 2015, en vigueur depuis le 1<sup>er</sup> avr. 2015 ([RO 2015 503](https://fedlex.data.admin.ch/eli/oc/2015/68)).
-[^lvl2-6]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^lvl2-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 <table>
 <tr><td></td><td></td><td>Acte de l’UE[^lvl2-lvl24-1]</td><td colspan="9">A appliquer aux catégories de véhicules</td><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td><td></td><td></td><td>N<sup>o</sup> du règl. CEE-ONU</td></tr>
@@ -369,7 +369,7 @@ arrête:
 
 Sont applicables les dispositions pénales de l’art. 219 OETV[^lvl3-lvl31-1].
 
-[^lvl3-lvl31-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^lvl3-lvl31-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 3.2 Exécution
 
@@ -382,7 +382,7 @@ Sont applicables les dispositions d’exécution des art. 220 et 221 OETV.
 - 3\.3.3[^lvl3-lvl33-3] S’agissant de l’application des réglementations internationales mentionnées dans l’annexe 2 OETV, on se référera aux dispositions transitoires desdites réglementations; toutefois, la date de l’importation ou de la construction en Suisse est déterminante pour l’immatriculation.
 
 [^lvl3-lvl33-1]: Nouveau terme selon le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
-[^lvl3-lvl33-2]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
+[^lvl3-lvl33-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^lvl3-lvl33-3]: Introduit par le ch. I de l’O du 2 sept. 1998, en vigueur depuis le 1<sup>er</sup> oct. 1998 ([RO 1998 2447](https://fedlex.data.admin.ch/eli/oc/1998/2447_2447_2447)).
 
 ### 3.4 Entrée en vigueur
