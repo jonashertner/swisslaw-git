@@ -3,18 +3,18 @@ sr: "412.101.221.36"
 title: Verordnung des SBFI vom 20. September 2010 über die berufliche Grundbildung Drogistin/Drogist mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/758"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2010-09-20
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/758/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2010-758-20240401-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/758/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/758/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-758-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/758/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Drogistin/Drogist mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 20. September 2010 (Stand am 1. April 2024)
+vom 20. September 2010 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>70604</td><td>Drogistin EFZ/Drogist EFZ Droguiste CFC Droghiera AFC/Droghiere AFC</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:[^ingress-5]
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I 98 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
@@ -127,7 +127,7 @@ Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. II 98 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -172,17 +172,18 @@ Der Bildungsplan hat folgenden Inhalt:
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
 [^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2129](https://fedlex.data.admin.ch/eli/oc/2020/420)).
-[^10-2]: Der Bildungsplan vom 20. Mai 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z.
-[^10-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^10-4]: [SR 813.131.21](https://fedlex.data.admin.ch/eli/cc/2005/496)
+[^10-2]: Der Bildungsplan vom 20. Mai 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z.
+[^10-3]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^10-4]: [SR 813.131.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9402)
 
 #### Art. 11
 
 **Allgemeinbildung**
 
-Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^11-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^11-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^11-2].
 
-[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -296,7 +297,7 @@ Zu den Qualifikationsverfahren wird zugelassen, wer:
 - b. das Zertifikat zum Nachweis des erforderlichen Grundwissens gemäss der Verordnung des EDI vom 28. Juni 2005[^17-2] über die erforderliche Sachkenntnis zur Abgabe bestimmter gefährlicher Stoffe und Zubereitungen erworben hat.
 
 [^17-1]: Fassung gemäss Ziff. I der V des SBFI vom 20. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2129](https://fedlex.data.admin.ch/eli/oc/2020/420)).
-[^17-2]: [SR 813.131.21](https://fedlex.data.admin.ch/eli/cc/2005/496)
+[^17-2]: [SR 813.131.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9402)
 
 #### Art. 18
 
@@ -314,11 +315,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualif
 
 - a. Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 1–2 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
 - b. Berufskenntnisse, im Umfang von 4 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich oder sowohl schriftlich wie mündlich befragt. Wird eine mündliche Prüfung durchgeführt, so dauert diese höchstens 1 Stunde.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^19-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^19-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^19-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^19-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 20
 
