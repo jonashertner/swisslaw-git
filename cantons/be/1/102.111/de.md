@@ -4,13 +4,12 @@ number: "102.111"
 title: Verordnung über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des Verwaltungskreises Biel/Bienne
 short: "Sonderstatutsverordnung, SStV"
 language: de
-version: 2022-03-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-02
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 2005-11-02
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/102.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2535/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2535/pdf_file"
 
 (Sonderstatutsverordnung, SStV)
 
-vom 02.11.2005 (Stand 01.03.2022)
+vom 02.11.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -191,7 +190,7 @@ beschliesst:
 
 <sup>1</sup> Der BJR und der RFB üben ihre Kompetenzen gemäss Artikel 23 Absatz 1 und Artikel 45 Absatz 1 SStG[^16-1] in Zusammenarbeit mit der FRAKO aus.
 
-<sup>2</sup> Sie bestimmen aus ihrer Mitte je eine oder mehrere Delegationen, die sie bei Geschäften im Zusammenhang mit interkantonalen Beziehungen vertreten. Die Delegationen des RFB setzen sich ausschliesslich aus Mitgliedern aus den Einwohnergemeinden Biel und Leubringen zusammen.
+<sup>2</sup> Sie bestimmen aus ihrer Mitte je eine oder mehrere Delegationen, die sie bei Geschäften im Zusammenhang mit interkantonalen Beziehungen vertreten. Die Delegationen des RFB setzen sich ausschliesslich aus Mitgliedern aus den Einwohnergemeinden Biel und Evilard zusammen.
 
 [^16-1]: BSG 102.1
 
@@ -227,7 +226,7 @@ beschliesst:
 - b französischsprachige Generalsekretärin oder französischsprachiger Generalsekretär sowie französischsprachige stellvertretende Generalsekretärin oder französischsprachiger stellvertretender Generalsekretär der Bildungs- und Kulturdirektion,
 - c Grundbuchverwalterin oder Grundbuchverwalter der Verwaltungsregion Berner Jura,
 - d …
-- e Vorsteherin oder Vorsteher sowie stellvertretende Vorsteherin oder stellvertretender Vorsteher des regionalen Betreibungs- und Konkursamts Berner Jura,
+- e Vorsteherin oder Vorsteher sowie stellvertretende Vorsteherin oder stellvertretender Vorsteher des regionalen Betreibungs- und Konkursamts Berner Jura-Seeland,
 - f …
 - g Oberingenieurin oder Oberingenieur der Dienststelle Berner Jura des Oberingenieurkreises III,
 - g1 Chefin oder Chef der Regionalpolizei Seeland-Berner Jura,
@@ -246,7 +245,8 @@ beschliesst:
 - s stellvertretende Regierungsstatthalterin oder stellvertretender Regierungsstatthalter des Verwaltungskreises Berner Jura,
 - t …
 - u stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation (KomBE), die oder der für die Kommunikation auf Französisch zuständig ist,
-- v Leiterin oder Leiter der Waldabteilung Berner Jura.
+- v Leiterin oder Leiter der Waldabteilung Berner Jura,
+- w Leiterin oder Leiter der regionalen Dienststelle Berner Jura-Seeland der Steuerverwaltung.
 
 [^19-1]: BSG [102.1](https://www.belex.sites.be.ch/data/102.1/de)
 
@@ -283,7 +283,8 @@ beschliesst:
 - q stellvertretende Regierungsstatthalterin oder stellvertretender Regierungsstatthalter des Verwaltungskreises Biel/Bienne, sofern die Regierungsstatthalterin oder der Regierungsstatthalter deutschsprachig ist,
 - r …
 - s Chefin oder Chef der Regionalpolizei Seeland-Berner Jura,
-- t stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation (KomBE), die oder der für die Kommunikation auf Französisch zuständig ist.
+- t stellvertretende Vorsteherin oder stellvertretender Vorsteher des Amts für Kommunikation (KomBE), die oder der für die Kommunikation auf Französisch zuständig ist,
+- u Leiterin oder Leiter der regionalen Dienststelle Berner Jura-Seeland der Steuerverwaltung.
 
 <sup>4</sup> Die in Artikel 46 Absatz 1 Buchstabe f SStG vorgesehene politische Mitwirkung umfasst auch die Entgegennahme und Prüfung von Gesuchen um finanzielle Unterstützung, die Gesuchstellerinnen und Gesuchsteller aus dem Verwaltungskreis Biel/Bienne an den RFB richten.
 

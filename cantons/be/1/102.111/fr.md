@@ -4,13 +4,12 @@ number: "102.111"
 title: "Ordonnance sur le statut particulier du Jura bernois et sur la minorité francophone de l'arrondissement administratif de Biel/Bienne *"
 short: "Ordonnance sur le statut particulier, OStP"
 language: fr
-version: 2022-03-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-02
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 2005-11-02
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/102.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2535/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3227/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2535/pdf_file"
 
 (Ordonnance sur le statut particulier, OStP)
 
-du 02.11.2005 (état au 01.03.2022)
+du 02.11.2005 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -227,7 +226,7 @@ arrête:
 - b secrétaire général ou secrétaire général adjoint ou secrétaire générale ou secrétaire générale adjointe de langue française de la Direction de l’instruction publique et de la culture,
 - c conservateur ou conservatrice du registre foncier de la région administrative du Jura bernois,
 - d …
-- e chef ou cheffe ainsi qu'adjoint ou adjointe du chef ou de la cheffe de l’Office des poursuites et des faillites de la région du Jura bernois,
+- e chef ou cheffe ainsi qu'adjoint ou adjointe du chef ou de la cheffe de l’Office des poursuites et des faillites de la région Jura bernois-Seeland,
 - f …
 - g ingénieur ou ingénieure en chef du service d’arrondissement III de l’Office des ponts et chaussées dans le Jura bernois,
 - g1 chef ou cheffe de la police régionale Seeland-Jura bernois,
@@ -246,7 +245,8 @@ arrête:
 - s suppléant ou suppléante du préfet ou de la préfète de l’arrondissement administratif du Jura bernois,
 - t …
 - u chef suppléant ou cheffe suppléante de l'Office de la communication (ComBE), en charge de la communication en français,
-- v chef ou cheffe de la division forestière du Jura bernois.
+- v chef ou cheffe de la division forestière du Jura bernois,
+- w chef ou cheffe du service régional Jura bernois-Seeland de l'Intendance des impôts.
 
 [^19-1]: RSB [102.1](https://www.belex.sites.be.ch/data/102.1/fr)
 [^19-2]: RSB 102.1
@@ -284,7 +284,8 @@ arrête:
 - q suppléant ou suppléante du préfet ou de la préfète de l’arrondissement administratif Biel/Bienne, lorsque le préfet ou la préfète est de langue allemande,
 - r …
 - s chef ou cheffe de la police régionale Seeland-Jura bernois,
-- t chef suppléant ou cheffe suppléante de l'Office de la communication (ComBE), en charge de la communication en français.
+- t chef suppléant ou cheffe suppléante de l'Office de la communication (ComBE), en charge de la communication en français,
+- u chef ou cheffe du service régional Jura bernois-Seeland de l'Intendance des impôts.
 
 <sup>4</sup> La participation politique prévue par l’article 46, alinéa 1, lettre f LStP comprend également la réception et l'examen des demandes de soutien financier adressées au CAF par des requérants et requérantes de l'arrondissement administratif de Biel/Bienne.
 
