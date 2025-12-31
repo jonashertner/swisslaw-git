@@ -3,20 +3,19 @@ canton: SH
 number: "211.224"
 title: Kantonale Pflegekinderverordnung
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-07-02
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2018-05-22
 in_force: 2018-06-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/211.224"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1861/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2068/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Pflegekinderverordnung
 
-Vom 22.05.2018 (Stand 01.08.2024)
+Vom 22.05.2018 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -28,25 +27,26 @@ beschliesst:
 
 #### § 1
 
-**Kindes- und Erwachsenenschutzbehörde**
-
-<sup>1</sup> Die Kindes- und Erwachsenenschutzbehörde ist zustände Behörde gemäss Art. 2 Abs. 1 und Art. 2a PAVO, sofern diese Verordnung nichts anderes regelt.
-
-<sup>2</sup> Im Bereich der Tagespflege nach Art. 12 PAVO kann die Kindes- und Erwachsenenschutzbehörde die Entgegennahme der Meldung und die Aufsicht mittels Leistungsvereinbarung einer anderen kantonalen oder kommunalen Behörde oder Stelle übertragen.
+**…**
 
 #### § 2
 
-**Andere kantonale Dienststellen**
+**Zuständigkeiten**
 
 <sup>1</sup> Gestützt auf Art. 2 Abs. 2 PAVO sind folgende Dienststellen für die Aufgaben gemäss Art. 2 Abs. 1 PAVO (Bewilligung und Aufsicht) zuständig:
 
 - a) das Amt für Justiz und Gemeinden bei Pflegeverhältnissen im Zusammenhang mit einer Adoption
-- b) das Kantonale Sozialamt bei Einrichtungen, die dazu bestimmt sind:
-  - 1\. mehr als sechs Minderjährige zur Erziehung, Betreuung, Ausbildung, Beobachtung oder Behandlung tags- und nachtsüber aufzunehmen oder
-  - 2\. mehr als sechs Jugendliche ab Ende der Schulpflicht zur regelmässigen Betreuung tagsüber aufzunehmen
-- c) die Dienststelle Familie und Jugend bei Einrichtungen für regelmässige familien- und schulergänzende Betreuung von Kindern und Jugendlichen tagsüber vor und während der Schulpflicht
+- b) das kantonale Sozialamt bei
+  - 1\. Einrichtungen und Internaten von Privatschulen, die dazu bestimmt sind, mehrere Minderjährige zur Erziehung, Betreuung, Ausbildung, Beobachtung oder Behandlung tags- und nachtsüber aufzunehmen
+  - 2\. sozialpädagogischen Angeboten, die dazu bestimmt sind, mehrere Minderjährige ab Ende der Schulpflicht zur regelmässigen Betreuung tags- und nachtsüber aufzunehmen
+  - 3\. Pflegefamilien nach Art. 4 PAVO und § 5 dieser Verordnung
+- c) die Dienststelle Familie und Jugend
+  - 1\. bei Einrichtungen für regelmässige familien- und schulergänzende Betreuung von Kindern und Jugendlichen tagsüber vor und während der Schulpflicht
+  - 2\. für die Tagespflege nach Art. 12 PAVO
 
 <sup>2</sup> Bewilligung und Aufsicht im Bereich sonderpädagogische Heime und Platzierungen richten sich nach der Sonderschulverordnung[^2-1].
+
+<sup>3</sup> Für die Tagespflege mit Übernachtung gemäss § 5b dieser Verordnung ist die Dienststelle Familie und Jugend zuständig.
 
 [^2-1]: SHR [411.222](https://rechtsbuch.sh.ch/data/411.222/de).
 
@@ -76,7 +76,11 @@ beschliesst:
 
 **Familienpflege**
 
-<sup>1</sup> Die Bemessung des Pflegegeldes für Kinder und Jugendliche, die nach Art. 4 ff. PAVO in einer privaten Pflegefamilie untergebracht sind, richtet sich nach Anhang 1.
+<sup>1</sup> Grundsätzlich haben Pflegeeltern, bei welchen Minderjährige nach Art. 4 ff. PAVO untergebracht sind, Anspruch auf ein angemessenes Pflegegeld, sofern nichts Abweichendes vereinbart ist oder sich eindeutig aus den Umständen ergibt (Art. 294 Abs. 1 ZGB). Das Departement des Innern erlässt ein Reglement betreffend die Angemessenheit von Entschädigungen. Die Tarife werden alle zwei Jahre an die Teuerung angepasst.
+
+<sup>2</sup> Die Unterbringung in einer Pflegefamilie, die beabsichtigt, vier oder weniger Minderjährige zur Pflege aufzunehmen, fällt unter den Begriff der Familienpflege. Zusätzlich zu den Anforderungen gemäss Art. 4 ff. PAVO gelten für diese Familien die Bestimmungen im Anhang 1a.
+
+<sup>3</sup> Die Unterbringung in einer Pflegefamilie, die beabsichtigt, mehr als vier Minderjährige zur Pflege aufzunehmen, fällt unter den Begriff der Heimpflege im Sinne von Art. 13 Abs. 1 PAVO. Zusätzlich zu den Anforderungen gemäss Art. 13 ff. PAVO kommen für diese Familien die Bestimmungen im Anhang 3 zur Anwendung.
 
 #### § 5a
 
@@ -84,13 +88,29 @@ beschliesst:
 
 <sup>1</sup> Als Tagespflege im Sinne von Art. 12 PAVO gilt die regelmässige Betreuung tagsüber von maximal fünf Kindern unter zwölf Jahren gleichzeitig im eigenen Haushalt. Eigene Kinder werden miteingerechnet.
 
-<sup>2</sup> Die regelmässige Betreuung von mehr als fünf Kindern fällt unter den Begriff der Heimpflege im Sinne von Art. 13 Abs. 1 PAVO. Die Anforderungen gemäss Art. 13 ff. PAVO sowie die Bestimmungen im Anhang 2 gelten sinngemäss.
+<sup>2</sup> Die regelmässige Betreuung von mehr als fünf Kindern fällt unter den Begriff der Heimpflege im Sinne von Art. 13 Abs. 1PAVO.
+
+<sup>3</sup> Für die Erteilung der Eignungsbescheinigung und die Aufsicht im Bereich der Tagespflege nach Art. 12 PAVO gelten zusätzlich zu den Anforderungen gemäss Art. 12 PAVO die Bestimmungen im Anhang 4.
+
+#### § 5b
+
+**Tagespflege mit Übernachtung**
+
+<sup>1</sup> Wer sich ergänzend zur Tagespflege gemäss § 5a dieser Verordnung anbietet, Kinder unter zwölf Jahren gegen Entgelt während maximal drei Nächten pro Woche in seinem Haushalt zu betreuen, muss dies der Behörde melden.
+
+<sup>2</sup> Es dürfen maximal fünf Kinder gleichzeitig im Haushalt übernachten. Eigene Kinder werden mit einberechnet.
+
+<sup>3</sup> Für die Erteilung der Eignungsbescheinigung und die Aufsicht kommt Art. 12 PAVO sinngemäss zur Anwendung. Zusätzlich gelten die Bestimmungen im Anhang 4.
 
 #### § 6
 
 **Heimpflege**
 
-<sup>1</sup> Bei der Bewilligung der Heimpflege nach Art. 13 Abs. 1 lit. a PAVO ist der kantonale Bedarf zu berücksichtigen.
+<sup>1</sup> Für Einrichtungen und Internate von Privatschulen, die dazu bestimmt sind, mehrere Minderjährige zur Erziehung, Betreuung, Ausbildung, Beobachtung oder Behandlung tags- und nachtsüber aufzunehmen (§ 2 Abs. 1 lit. b Ziff. 1 dieser Verordnung) gelten zusätzlich zu den Anforderungen gemäss Art. 13 ff. PAVO die Bestimmungen im Anhang 3.
+
+<sup>1<sup>bis</sup></sup> Für sozialpädagogische Angebote, die dazu bestimmt sind, mehrere Jugendliche ab Ende der Schulpflicht zur regelmässigen Betreuung tags- und nachtsüber aufzunehmen (§ 2 Abs. 1 lit. b Ziff. 2 dieser Verordnung) kommen zusätzlich zu den Anforderungen gemäss Art. 13 ff. PAVO die Bestimmungen im Anhang 3 zur Anwendung.
+
+<sup>1<sup>ter</sup></sup> Bei der Bewilligung der Heimpflege nach Art. 13 Abs. 1 lit. a PAVO ist der kantonale Bedarf zu berücksichtigen. Der kantonale Bedarf wird mindestens alle drei Jahre erhoben. Das kantonale Sozialamt ergreift geeignete Massnahmen, um den kantonalen Bedarf zu decken.
 
 <sup>2</sup> …
 
@@ -106,138 +126,87 @@ beschliesst:
 
 <sup>2</sup> Mittagstischen, die noch über keine Betriebsbewilligung verfügen, wird für deren Beantragung eine Übergangsfrist bis am 31. Juli 2020 eingeräumt.
 
-## A1 Anhang 1: Bemessung des Pflegegeldes für Kinder und Jugendliche in privaten Pflegefamilien
+<sup>3</sup> Einrichtungen nach § 6 Abs. 1 dieser Verordnung, welche im Zeitpunkt des Inkrafttretens der Änderung vom 16. Dezember 2025 bereits über eine Betriebsbewilligung verfügen, wird für die Umsetzung der noch nicht vollständig erfüllten Voraussetzungen gemäss Anhang 3 eine Übergangsfrist bis am 31. Dezember 2026 eingeräumt.
 
-#### § A1-1
+<sup>4</sup> Pflegefamilien und Tagespflegeeltern, welche im Zeitpunkt des Inkrafttretens der Änderung vom 16. Dezember 2025 bereits über eine gültige Eignungsbescheinigung bzw. Betriebsbewilligung der Kindes- und Erwachsenenschutzbehörde verfügen, haben die Unterlagen gemäss § A4-2 bzw. § A1a-2 dieser Verordnung im Rahmen des periodischen Aufsichtsbesuches vorzulegen bzw. einzureichen. Die Eignungsbescheinigung bzw. Betriebsbewilligung behält ihre Gültigkeit.
 
-**Grundsatz**
+## A1
 
-<sup>1</sup> Grundsätzlich haben Pflegeeltern Anspruch auf ein angemessenes Pflegegeld, sofern nichts Abweichendes vereinbart ist oder sich eindeutig aus den Umständen ergibt (Art. 294 Abs. 1 ZGB). Die folgenden Ausführungen halten fest, welche Entschädigung als angemessen zu betrachten ist.
+#### § A1-1–A1-5
 
-#### § A1-2
+**…**
 
-**Dauerpflege – Pauschale für 30 Tage pro Monat**
+### A1.1
 
-<sup>1</sup> Dauerpflege – Pauschale für 30 Tage pro Monat:
+#### § A1-6–A1-14
 
-<table>
-<tr><th>Alter des Kindes</th><th>Ernährung</th><th>Unterkunft Haushaltskosten</th><th>Nebenkosten</th><th>Betreuungsentschädigung[^A12-1]</th><th>Total pro Monat</th><th>Pro Tag</th><th>Bekleidung zusätzlich</th></tr>
-<tr><td>0–2 Jahre</td><td>Fr. 270.00</td><td>Fr. 269.00</td><td>Fr. 141.00</td><td>Fr. 1'047.00</td><td>Fr. 1'727.00</td><td>Fr. 57.57</td><td>Fr. 70.00</td></tr>
-<tr><td>3–6 Jahre</td><td>Fr. 251.00</td><td>Fr. 269.00</td><td>Fr. 195.00</td><td>Fr. 967.00</td><td>Fr. 1'682.00</td><td>Fr. 56.07</td><td>Fr. 70.00</td></tr>
-<tr><td>7–14 Jahre</td><td>Fr. 328.00</td><td>Fr. 338.00</td><td>Fr. 236.00</td><td>Fr. 846.00</td><td>Fr. 1'748.00</td><td>Fr. 58.27</td><td>Fr. 80.00</td></tr>
-<tr><td>15–18 Jahre</td><td>Fr. 386.00</td><td>Fr. 372.00</td><td>Fr. 271.00</td><td>Fr. 725.00</td><td>Fr. 1'754.00</td><td>Fr. 58.47</td><td>Fr. 80.00</td></tr>
-</table>
+**…**
 
-[^A12-1]: inkl. Sozialversicherungsbeiträge Arbeitnehmer: 5.05% AHV/IV/EO, 1% ALV, 1.426% BU/NBU.
+## A1a Anhang 1a: Familienpflege
 
-#### § A1-3
+#### § A1a-1
 
-**Wochenpflege (Montag–Freitag) – Pauschale für 22 Tage pro Monat**
+<sup>1</sup> Für Pflegefamilien gemäss § 5 Abs. 2 gelten zusätzlich zu den Anforderungen gemäss Art. 4 ff. PAVO folgende Bestimmungen:
 
-<sup>1</sup> Wochenpflege (Montag–Freitag) – Pauschale für 22 Tage pro Monat:
+#### § A1a-2
 
-<table>
-<tr><th>Alter des Kindes</th><th>Ernährung</th><th>Unterkunft Haushaltskosten</th><th>Nebenkosten</th><th>Betreuungsentschädigung[^A13-1]</th><th>Total pro Monat</th><th>Pro Tag</th><th>Bekleidung (zusätzlich)</th></tr>
-<tr><td>0–2 Jahre</td><td>Fr. 198.00</td><td>Fr. 198.00</td><td>Fr. 103.00</td><td>Fr. 768.00</td><td>Fr. 1'267.00</td><td>Fr. 57.59</td><td>Fr. 70.00</td></tr>
-<tr><td>3–6 Jahre</td><td>Fr. 184.00</td><td>Fr. 198.00</td><td>Fr. 143.00</td><td>Fr. 709.00</td><td>Fr. 1'234.00</td><td>Fr. 56.09</td><td>Fr. 70.00</td></tr>
-<tr><td>7–14 Jahre</td><td>Fr. 241.00</td><td>Fr. 248.00</td><td>Fr. 173.00</td><td>Fr. 621.00</td><td>Fr. 1'283.00</td><td>Fr. 58.32</td><td>Fr. 80.00</td></tr>
-<tr><td>15–18 Jahre</td><td>Fr. 283.00</td><td>Fr. 273.00</td><td>Fr. 199.00</td><td>Fr. 532.00</td><td>Fr. 1'287.00</td><td>Fr. 58.50</td><td>Fr. 80.00</td></tr>
-</table>
+**Zusätzliche Unterlagen zum Bewilligungsgesuch**
 
-[^A13-1]: inkl. Sozialversicherungsbeiträge Arbeitnehmer: 5.05% AHV/IV/EO, 1% ALV, 1.426% BU/NBU.
+<sup>1</sup> Mit dem Bewilligungsgesuch sind folgende Unterlagen einzureichen:
 
-#### § A1-4
+- a) Ausführlicher Lebenslauf und Motivationsschreiben der Pflegeeltern,
+- b) Aktueller Betreibungsregisterauszug und Nachweise des Familieneinkommens der Pflegeeltern,
+- c) Arztzeugnis, das die gesundheitliche Eignung aller erwachsenen Personen im Haushalt der Pflegefamilie für die Aufnahme und Betreuung von Pflegekindern bestätigt.
 
-**Tagespflege – Pauschale pro Tag (8 Stunden)**
+<sup>2</sup> Zusätzlich überprüft die Behörde den Leumund aller erwachsenen Personen, die im Haushalt der Pflegefamilie leben, durch einen Behördenauszug 2 aus dem Strafregister-Informationssystem VOSTRA.
 
-<sup>1</sup> Tagespflege – Pauschale pro Tag (8 Stunden):
+#### § A1a-3
 
-<table>
-<tr><th>Alter des Kindes</th><th>Ernährung</th><th>Unterkunft und Nebenkosten</th><th>Betreuungsentschädigung[^A14-1]</th><th>Total pro Tag</th></tr>
-<tr><td>0–18 Monate</td><td>–</td><td>Fr. 4.00</td><td>Fr. 64.00</td><td>Fr. 68.00</td></tr>
-<tr><td>19 Monate–6 Jahre</td><td>Fr. 10.00</td><td>Fr. 4.00</td><td>Fr. 50.00</td><td>Fr. 64.00</td></tr>
-<tr><td>7–12 Jahre</td><td>Fr. 12.00</td><td>Fr. 4.00</td><td>Fr. 42.00</td><td>Fr. 58.00</td></tr>
-</table>
+**Anforderung an die Pflegefamilie**
 
-<sup>2</sup> Übernachtung: Fr. 25.00 Betreuungsentschädigung.
+<sup>1</sup> Die Pflegefamilie erklärt sich zur Kooperation mit dem Herkunftssystem und den Fachpersonen im Bezugssystem des Kindes bereit und arbeitet in geeigneter Weise mit ihnen zusammen.
 
-[^A14-1]: inkl. Sozialversicherungsbeiträge Arbeitnehmer: 5.05% AHV/IV/EO, 1% ALV, 1.426% BU/NBU.
+<sup>2</sup> Die Pflegefamilie verpflichtet sich zur regelmässigen Aus- und Weiterbildung im Umfang von mindestens einem Tag pro Jahr. Die finanzielle Beteiligung des Kantons an der Weiterbildung der Pflegefamilien wird im Reglement des Departementes des Innern zur finanziellen Abgeltung der Pflegefamilien festgehalten.
 
-#### § A1-5
+<sup>3</sup> Die Begleitung der Pflegefamilie durch einen Dienstleistungserbringer der Familienpflege (DAF) nach Abschnitt 4a PAVO kann durch die Aufsichtsbehörde angeordnet werden, um ein Pflegeverhältnis zu stabilisieren oder um die Pflegeeltern zu unterstützen.
 
-**Notfallplatz – Pro Tag Inklusive Übernachtung**
+<sup>4</sup> Die Kosten für die Begleitung durch einen Dienstleistungsanbieter der Familienpflege (DAF) nach Abschnitt 4a PAVO werden teilweise durch den Kanton übernommen. Das Departement des Innern legt die Beitragshöhe fest.
 
-<sup>1</sup> Während maximal 8 Wochen:
+#### § A1a-4
 
-<table>
-<tr><th>Alter des Kindes</th><th>Ernährung, Unterkunft und Nebenkosten</th><th>Betreuungsentschädigung[^A15-1]</th><th>Total pro Tag</th></tr>
-<tr><td>0–18 Jahre</td><td>Fr. 31.00</td><td>Fr. 64.00</td><td>Fr. 95.00</td></tr>
-</table>
+**Anforderungen an die Räumlichkeiten**
 
-[^A15-1]: inkl. Sozialversicherungsbeiträge Arbeitnehmer: 5.05% AHV/IV/EO, 1% ALV, 1.426% BU/NBU.
+<sup>1</sup> Der Privathaushalt verfügt über ausreichend Wohnraum und genügend sanitäre Anlagen. Die Belegungsvorschriften von Mietwohnungen werden eingehalten.
 
-### A1.1 Erläuterungen
+<sup>2</sup> Für das aufgenommene Kind steht ein eigenes Zimmer zur Verfügung. Bei der Unterbringung von Geschwistern und bei Notfallplatzierungen können durch das kantonale Sozialamt Ausnahmen bewilligt werden.
 
-#### § A1-6
+#### § A1a-5
 
-<sup>1</sup> Die Beträge gelten grundsätzlich pro Kind, auch wenn die Pflegeeltern mehrere Pflegekinder betreuen.
+**Aufnahme von ausländischen Kindern**
 
-#### § A1-7
+<sup>1</sup> Das Gesuch um die Bewilligung einer Aufnahme eines Pflegekindes aus dem Ausland muss mindestens drei Monate vor der geplanten Einreise des Kindes beim kantonalen Sozialamt eingereicht werden.
 
-**Altersstufen**
+<sup>2</sup> Die Aufsichtsbehörde weist erst nach der Einreise des Kindes eingehende Bewilligungsgesuche ab. Ausnahmen werden nur aus triftigen Gründen bewilligt.
 
-<sup>1</sup> Da die Unterhaltspflicht der Eltern bis zur Mündigkeit des Kindes dauert (Art. 277 ZGB) und die Bewilligungspflicht für Familienpflege bis zur Mündigkeit ausgedehnt wurde (Art. 1 PAVO), gilt Anhang 1 für Pflegekinder bis zur Volljährigkeit.
+#### § A1a-6
 
-#### § A1-8
+**Aufsicht**
 
-**Unterkunft**
+<sup>1</sup> Beim Aufsichtsbesuch nach Art. 10 Abs. 1 PAVO sind in der Regel beide Pflegeelternteile sowie das Pflegekind anwesend. Das kantonale Sozialamt kann Ausnahmen bewilligen.
 
-<sup>1</sup> Der Wohnanteil kann der konkreten Wohnsituation der Pflegefamilie entsprechend angepasst werden.
+<sup>2</sup> Die Aufsichtsbehörde prüft regelmässig, ob die Versicherungsdeckung der Minderjährigen sichergestellt ist.
 
-#### § A1-9
+<sup>3</sup> Es können weitere Unterlagen zur finanziellen oder gesundheitlichen Situation der Pflegefamilie eingefordert werden.
 
-**Nebenkosten**
+<sup>4</sup> Bei Zweifeln an der Eignung der Pflegefamilie kann die Aufsichtsbehörde weitere Abklärungen treffen sowie Gespräche mit dem Kind und mit Fachpersonen aus dem Herkunfts- oder Bezugspersonensystem des untergebrachten Kindes betreffend das Kindswohl führen.
 
-<sup>1</sup> Inbegriffen sind Auslagen für Freizeit, Taschengeld, Körperpflege, Toilettenartikel Coiffeur, Windeln, Kosten für kleinere Haushaltsanschaffungen.
+<sup>5</sup> Die Aufsichtsbehörde kann die Pflegefamilie jederzeit und ohne Vorankündigung besuchen.
 
-<sup>2.</sup> Nicht inbegriffen sind Auslagen für Bekleidung, besondere Anschaffungen, öffentliche Verkehrsmittel, Krankenkasse- und Versicherungsprämien, Arzt, Zahnarzt, Lager, Ferien, Musikinstrument und Musikunterricht, Sport.
+#### § A1a-7
 
-<sup>3</sup> Im Pflegevertrag muss geregelt sein, wer für diese Kosten aufkommt und wer über welche finanziellen Kompetenzen verfügt. Vor grösseren Anschaffungen muss die Zustimmung der oder des Zahlungspflichtigen eingeholt werden.
+**Angebotsplanung**
 
-#### § A1-10
-
-**Betreuungsentschädigung**
-
-<sup>1</sup> In besonderen Fällen kann allenfalls der Betrag für die Betreuung höher angesetzt werden. Solche Fälle liegen insbesondere vor:
-
-- a) Wenn für die Bedürfnisse des Pflegekindes ein ausserordentlicher Betreuungsmehraufwand notwendig ist und durch Personen mit spezifischer Ausbildung und Eignung geleistet werden muss (z.B. bei körperlicher oder geistiger Behinderung, Traumatisierung, erheblichen Verhaltensauffälligkeiten)
-- b) Wenn sich das Kind in einer Notsituation befindet und sofort bei einer dafür besonders geeigneten Pflegefamilie platziert werden muss, bis eine längerfristige Anschlusslösung gefunden werden kann (Notfallplatzierung)
-
-<sup>2</sup> Soweit es sich um die Kinder naher Verwandten handelt (Enkel, Geschwister, Kind des Konkubinatspartners / der Konkubinatspartnerin) oder Kinder zum Zweck späterer Adoption von Pflegeeltern aufgenommen werden, wird die unentgeltliche Betreuung vermutet und keine Betreuungsentschädigung geschuldet (Art. 294 Abs. 2 ZGB).
-
-#### § A1-11
-
-**Sozialversicherungsbeiträge**
-
-<sup>1</sup> Die Abrechnung der Sozialversicherungsbeiträgeist im Merkblatt «Beitragspflicht auf Entschädigungen für Pflegeeltern» des SVA Schaffhausen erläutert (www.svash.ch).
-
-#### § A1-12
-
-**Steuerpflicht**
-
-<sup>1</sup> Die Höhe der Betreuungsentschädigung muss in der Steuererklärung angegeben werden, diese ist steuerpflichtig. Sie sollte daher im Pflegevertrag festgehalten werden.
-
-#### § A1-13
-
-**Zahlungspflichtig**
-
-<sup>1</sup> Zahlungspflichtig sind in erster Linie die Kindseltern (Art. 276 ZGB).
-
-<sup>2</sup> Können die Kindseltern für die Pflegeelternentschädigung nicht aus eigenen Mitteln aufkommen, können sie Sozialhilfeleistungen beantragen. Dabei ist zu beachten, dass Sozialhilfeleistungen nicht rückwirkend gesprochen werden, weshalb die für die Unterstützung zuständige Gemeinde vor der Platzierung des minderjährigen Kindes bei den Pflegeeltern um Kostengutsprache ersucht werden sollte.
-
-#### § A1-14
-
-<sup>1</sup> Anhang 1 ist für die Sozialhilfe verbindlich.
+<sup>1</sup> Das kantonale Sozialamt nimmt jährlich eine Einschätzung des Platzierungsbedarfs und des Bedarfs an Notfallplätzen vor, erstellt eine Angebotsplanung und ergreift geeignete Massnahmen, um das Platzangebot sicherzustellen.
 
 ## A2 Anhang 2: Betreuungseinrichtungen
 
@@ -396,5 +365,247 @@ beschliesst:
 - c) freien Zutritt zu allen Räumlichkeiten zu gewähren
 
 <sup>4</sup> Die Betreuungseinrichtungen ermöglichen den betreuten Kindern und Jugendlichen sowie den Mitarbeitenden, sich gegenüber der zuständigen Fachperson unbeobachtet und frei zu äussern.
+
+## A3 Anhang 3: Heimpflege
+
+#### § A3-1
+
+<sup>1</sup> Für Einrichtungen gemäss § 6 Abs. 1 gelten zusätzlich zu den Anforderungen gemäss Art. 13 ff. PAVO die nachfolgenden Bestimmungen.
+
+<sup>2</sup> Für sozialpädagogische Angebote gemäss § 6 Abs. 1bis und für die Familienpflege gemäss § 5 Abs. 3 kommen die nachfolgenden Bestimmungen, welche nicht spezifische Regelungen zu diesen Angeboten enthalten, sinngemäss zur Anwendung.
+
+<sup>3</sup> Für Internate von Privatschulen ohne Sonderschulstatus gelten die nachfolgenden Bestimmungen sinngemäss. Der Regierungsrat erlässt für diese Institutionen eine entsprechende Richtlinie. Auf eine Überprüfung der marktwirtschaftlich festgesetzten Unterbringungstarife wird verzichtet.
+
+#### § A3-2
+
+**Zusätzliche Unterlagen zum Bewilligungsgesuch**
+
+<sup>1</sup> Mit dem Bewilligungsgesuch sind zusätzlich zu den Unterlagen gemäss Art. 14 PAVO folgende Unterlagen einzureichen:
+
+- a) Betriebskonzept
+- b) Organigramm
+- c) Grundriss- und Nutzungsplan
+- d) Budget des aktuellen Betriebsjahres und Taxreglement
+- e) Revidierte bzw. abgenommene Jahresrechnung der Betreuungseinrichtung und gegebenenfalls der Trägerschaft (ausser bei Neueröffnung)
+- f) Businessplan über drei Jahre (nur bei Neueröffnung)
+- g) Nachweis einer Betriebshaftpflichtversicherung
+- h) Nachweis betreffend Einhaltung der Bau- und Brandschutzvorschriften inkl. allfälligem Protokoll der Feuerpolizei
+- i) Protokoll des Interkantonalen Labors zur Lebensmittelkontrolle
+
+<sup>2</sup> Die Anforderungen an das Betriebskonzept und die Qualitätsanforderungen werden vom Departement des Innern festgelegt.
+
+<sup>3</sup> Für die Heimleitung sind folgende Unterlagen einzureichen:
+
+- a) Ausführlicher Lebenslauf mit den dazugehörigen Zeugnissen
+- b) Betreibungsregisterauszug
+- c) Arztzeugnis, das die gesundheitliche Eignung der Heimleitung für die Leitung einer pädagogischen Einrichtung bestätigt
+- d) Strafregisterauszug und Sonderprivatauszug der Heimleitung oder äquivalente Dokumente des Aufenthaltsstaates der Heimleitung
+
+<sup>4</sup> Für alle Mitarbeitenden der Einrichtung sind folgende Unterlagen einzureichen:
+
+- a) Personalien, Geburtsdatum und AHV-Nummer
+- b) Funktion im Betrieb
+- c) Angaben zur Ausbildung und fachlichen Qualifikation
+
+<sup>5</sup> Es können weitere Dokumente, Berichte und sachdienliche Auskünfte verlangt werden.
+
+#### § A3-3
+
+**Anforderungen an die Betreuungspersonen in stationären Einrichtungen**
+
+<sup>1</sup> Als pädagogische Fachpersonen gelten Betreuungspersonen, welche eine der nachfolgenden Ausbildungen erfolgreich abgeschlossen haben:
+
+- a) Sozialpädagogin / Sozialpädagoge HF / FH
+- b) Lehrerin / Lehrer mit EDK anerkanntem Diplom (alle Schulstufen)
+- c) Kindererzieherin / Kindererzieher HF bzw. Dipl. Kindheitspädagogin / Kindheitspädagoge HF
+- d) Sozialarbeiterin / Sozialarbeiter HF / FH
+- e) Leiterin / Leiter Arbeitsagogik HF / FH
+- f) Soziokulturelle Animatorin / Soziokultureller Animator FH
+- g) Psychologin / Psychologe HF/ FH
+- h) Fachfrau / Fachmann Pflege EFZ sofern sie über mindestens sechs Monate Berufserfahrung als Erzieherin / Erzieher im stationären Bereich (Spital, Therapieeinrichtung oder ähnliches) verfügt
+
+<sup>2</sup> In stationären Einrichtungen, die schwerpunktmässig Kinder im Vorschulalter oder Kinder und Jugendliche mit einer Behinderung aufnehmen, gelten als pädagogische Fachpersonen auch Betreuungspersonen mit abgeschlossener Ausbildung als Fachfrau / Fachmann Pflege EFZ (Kinder) oder Fachfrau / Fachmann Pflege EFZ (Betreuung Menschen mit Beeinträchtigung).
+
+<sup>3</sup> Über die Anerkennung ausländischer Diplome von reglementierten Berufen entscheidet das Staatssekretariat für Bildung, Forschung und Innovation (SBFI). Für ausländische Hochschuldiplome in einem nicht reglementierten Beruf ist das Swiss ENIC zuständig. Für ausländische Lehrdiplome ist die Erziehungsdirektorenkonferenz (EDK) zuständig.
+
+#### § A3-4
+
+**Anforderungen an die Leitungsperson(en)**
+
+<sup>1</sup> Die Leitungsperson einer Betreuungseinrichtung muss über eine pädagogische Ausbildung gemäss § A3-3 verfügen sowie eine Führungsausbildung von mindestens 400 Stunden (exklusive Selbstlernzeit) absolviert haben.
+
+<sup>2</sup> Das Leitungspensum umfasst mindestens 80 %.
+
+<sup>3</sup> Eine Co-Leitung durch zwei qualifizierte Fachpersonen gemäss § A3-3 und § A3-4 Abs. 1 ist nur in Ausnahmefällen erlaubt. Sie bedürfen einer besonderen Erlaubnis durch das kantonale Sozialamt.
+
+#### § A3-5
+
+**Anforderungen an die Pflegeeltern**
+
+<sup>1</sup> Mindestens ein Pflegeelternteil muss über eine pädagogische Ausbildung gemäss § A3-3 Abs. 1 verfügen sowie eine Führungsausbildung von mindestens 400 Stunden (exklusive Selbstlernzeit) absolviert haben.
+
+<sup>2</sup> Hat kein Pflegeelternteil eine Führungsausbildung abgeschlossen, muss ein schweizerischer Dienstleistungsanbieter in der Familienpflege nach Abschnitt 4a PAVO die Trägerschaft übernehmen.
+
+<sup>3</sup> Die Pflegeeltern besuchen regelmässig Weiterbildungen und Supervisionen.
+
+#### § A3-6
+
+**Stellenkontingent**
+
+<sup>1</sup> Eine Wohngruppe umfasst in der Regel sieben Plätze. Babys und Kinder bis zum Erreichen des 3. Altersjahrs (3. Geburtstag) beanspruchen je 1.5 Plätze, Kinder ab dem 3. Altersjahr und Jugendliche je einen Platz.
+
+<sup>2</sup> Pro Wohngruppe umfasst das Stellenkontingent mindestens 460 Stellenprozenten an pädagogischem Fachpersonal gemäss den Bestimmungen in § A3-3 Abs. 1 und 2. Mit dem Einverständnis des kantonalen Sozialamts kann in begründeten Ausnahmefällen für eine begrenzte Zeitdauer von dieser Vorgabe abgewichen werden.
+
+<sup>3</sup> Werden in der Einrichtung Minderjährige mit erhöhtem Betreuungsbedarf oder mit besonderen Herausforderungen betreut, ist dies in der Personaldotation zu berücksichtigen und ein geeigneter Personalmix (Betreuung/Pflege/Therapie) sicherzustellen.
+
+<sup>4</sup> Werden junge Erwachsene (bis max. 25 Jahren) in einer PAVO-Einrichtung betreut, müssen sie bei der Berechnung der erforderlichen Stellenprozente als je ein Platz berücksichtigt werden.
+
+#### § A3-7
+
+**Verhältnis ausgebildete / nicht ausgebildete Betreuungspersonen**
+
+<sup>1</sup> Das Verhältnis zwischen den pädagogischen Fachpersonen und den nicht ausgebildeten Betreuungspersonen beträgt mindestens 2:1. Personen, die im letzten Ausbildungsjahr einer anerkannten Ausbildung nach den Bestimmungen von § A3-3 Abs. 1 und 2 stehen und Personen die in einem Äquivalenzverfahren nach den Bestimmungen in § A3-3 Abs. 4 stehen, werden bei dieser Quote zur Hälfte als pädagogische Fachperson angerechnet.
+
+<sup>2</sup> Mit dem Einverständnis des kantonalen Sozialamtes kann in begründeten Ausnahmefällen für eine begrenzte Zeitdauer von den Vorgaben in Abs. 1 abgewichen werden.
+
+#### § A3-8
+
+**Betreuungsschlüssel**
+
+<sup>1</sup> Während der gesamten Betriebszeit muss unabhängig von der Anzahl der anwesenden Minderjährigen pro Wohngruppe mindestens eine pädagogische Fachperson nach den Bestimmungen in § A3-3 Abs. 1 und 2 anwesend sein. Eine zweite pädagogische Fachperson steht auf Abruf zur Verfügung, so dass sie innerhalb einer Stunde in der Einrichtung die Betreuungsarbeit aufnehmen kann. Bei Anwesenheit von mehr als vier Minderjährigen muss ausserhalb der Schlafenszeit (22:00 Uhr bis 6:30 Uhr) eine zweite pädagogische Fachperson anwesend sein. Davon ausgenommen sind sozialpädagogische Angebote gemäss § 6 Abs. 1bis, für diese gilt Abs. 3.
+
+<sup>2</sup> Bei Einrichtungen mit eingeschränkten Betriebszeiten steht ausserhalb der Betriebszeiten mindestens eine pädagogische Fachperson nach § A3-3 Abs. 1 und 2 auf Abruf zur Verfügung, so dass eine die Rückkehr der minderjährigen Person in die Einrichtung innerhalb von 3 bis 5 Stunden möglich ist. Davon ausgenommen sind sozialpädagogische Angebote gemäss § 6 Abs. 1bis, für diese gilt Abs. 3.
+
+<sup>3</sup> Bei sozialpädagogischen Angeboten gemäss § 6 Abs. 1bis muss die Betreuungsintensität dem Reifegrad der Minderjährigen entsprechen. Sie wird in einem Betreuungsvertrag mit der minderjährigen Person, der gesetzlichen Vertretung und den Eltern vereinbart. Der Betreuungsschlüssel ist zudem so festzulegen, dass an 365 Tagen 24/7 eine Betreuungsperson gemäss § A3-3 telefonisch oder persönlich erreichbar ist.
+
+#### § A3-9
+
+**Anordnung und Aufteilung der Räume bei Einrichtungen der Heimpflege**
+
+<sup>1</sup> Die Räumlichkeiten und deren Ausstattung richten sich nach dem Bedarf der betreuten Minderjährigen und entsprechen der pädagogischen Konzeption der Einrichtung.
+
+<sup>2</sup> Es gelten folgende Richtwerte für die Räumlichkeiten:
+
+<sup>3</sup> Zur Unfallverhütung sind alle notwendigen Massnahmen zu ergreifen (z.B. Fenster- oder Treppensicherung, sichere Gestaltung von Spielplätzen). Es sind die Empfehlungen der Beratungsstelle für Unfallverhütung anzuwenden.
+
+<sup>4</sup> Beim Verbleib von jungen Erwachsenen im Alter von 18 bis max. 25 Jahren ist derselbe Raumbedarf zu berücksichtigen.
+
+#### § A3-10
+
+**Anforderungen an die Räumlichkeiten bei Pflegefamilien**
+
+<sup>1</sup> Der Privathaushalt verfügt über ausreichend Wohnraum und genügend sanitäre Anlagen. Die Beurteilung der Räumlichkeiten richtet sich sinngemäss nach den Richtwerten für den Wohnbereich in § A3-9 Abs. 2.
+
+<sup>2</sup> Die Belegungsvorschriften von Mietwohnungen und die Nutzungsbestimmungen der Liegenschaft werden eingehalten.
+
+#### § A3-11
+
+**Aufsicht**
+
+<sup>1</sup> Die Aufsichtsbehörde führt so oft wie notwendig, mindestens aber alle zwei Jahre, einen Aufsichtsbesuch durch und nimmt dabei insbesondere folgende Aufgaben wahr:
+
+- a) Überprüfung der Bewilligungsvoraussetzungen
+- b) Überprüfung der Qualität der Betreuung
+- c) Austausch mit den Mitarbeitenden
+- d) In begründeten Fällen können die gesetzlichen Vertretungen und Bezugspersonen der Kinder und Jugendlichen oder weitere involvierte Akteure befragt werden
+- e) Überprüfung der Verzeichnisse gemäss Art. 17 PAVO
+
+<sup>2</sup> Die Aufsichtsbehörde kann die Betreuungseinrichtungen jederzeit und ohne Vorankündigung besuchen.
+
+<sup>3</sup> Die Leitung hat der Aufsichtsbehörde im Rahmen der Aufsichtsbesuche oder auf Verlangen
+
+- a) vollständig und wahrheitsgemäss Auskunft über die betreuten Minderjährigen, über die Mitarbeitenden und über den Betrieb zu erteilen
+- b) Einsicht in sämtliche zur Überprüfung der Bewilligungsvoraussetzungen notwendigen Unterlagen zu gewähren
+- c) freien Zutritt zu allen Räumlichkeiten zu gewähren
+
+<sup>4</sup> Die Betreuungseinrichtungen ermöglichen den betreuten Minderjährigen sowie den Mitarbeitenden, sich gegenüber der zuständigen Fachperson unbeobachtet und frei zu äussern.
+
+<sup>5</sup> Die Aufsichtsbehörde erstellt einen Bericht über die Aufsichtstätigkeit.
+
+<sup>6</sup> Besteht ein Verdacht, dass Mängel vorliegen, kann das kantonale Sozialamt eine externe, unabhängige Expertise in Auftrag geben. Die Kosten sind von der Einrichtung zu tragen, sofern die Expertise Mängel in der Betriebsführung feststellt.
+
+<sup>7</sup> Es können Empfehlungen und Auflagen formuliert und Fristen zu deren Behebung angesetzt werden.
+
+<sup>8</sup> Werden Auflagen gemäss Abs. 7 nicht innert Frist umgesetzt, kann das kantonale Sozialamt eine Nachfrist ansetzen oder zur Sicherung des Kindswohls direkt Massnahmen anordnen, insbesondere:
+
+- a) eine externe unabhängige Begleitung einsetzen
+- b) eine vorübergehende operative Leitung einsetzen
+- c) einen Aufnahmestopp verhängen
+- d) die Anzahl Heimplätze reduzieren
+- e) die Verlegung von betreuten Personen verfügen
+
+<sup>9</sup> Erweisen sich Massnahmen als erfolglos oder erscheinen sie von vornherein als unzweckmässig, richten sich die Folgen nach Art. 20 Abs. 2 und 3 PAVO.
+
+<sup>10</sup> Das Departement des Innern kann weitere Richtlinien zur Aufsicht erlassen.
+
+## A4 Anhang 4: Tagespflege (mit und ohne Übernachtung)
+
+#### § A4-1
+
+<sup>1</sup> Für die Betreuungsangebote gemäss § 5a und § 5b gelten zusätzlich zu den Anforderungen gemäss Art. 12 PAVO die nachfolgenden Bestimmungen:
+
+#### § A4-2
+
+**Zusätzliche Unterlagen zum Meldeformular**
+
+<sup>1</sup> Mit dem Meldeformular sind zusätzlich folgende Unterlagen einzureichen:
+
+- a) Betreuungsvertrag (gemäss Vorlage);
+- b) Nachweis betreffend Absolvierung eines Notfallkurses für Kinder innerhalb der letzten zwei Jahre oder entsprechende Anmeldebestätigung;
+- c) Nachweise über besuchte, bereichsspezifische Weiterbildungen;
+- d) Bestätigung der Kindes- und Erwachsenenschutzbehörde betreffend kindes- und erwachsenenschutzrechtliche Massnahmen.
+
+<sup>2</sup> Es können weitere Dokumente, Berichte und sachdienliche Auskünfte verlangt werden.
+
+#### § A4-3
+
+**Anforderungen an die Tagespflegeeltern**
+
+<sup>1</sup> Die Tagespflegeeltern üben die Kinderbetreuung in eigener Person aus.
+
+<sup>2</sup> Die Tagespflegeeltern müssen die folgenden Voraussetzungen erfüllen:
+
+- a) Absolvierung eines Notfallkurses für Kinder mindestens alle drei Jahre;
+- b) Besuch einer bereichsspezifischen Weiterbildung mindestens alle zwei Jahre.
+
+#### § A4-4
+
+**Betreuungsschlüssel**
+
+<sup>1</sup> Entsprechend ihrem erhöhten Betreuungsbedarf belegen Säuglinge bis zum vollendeten 12. Lebensmonat in der Tagespflege zwei Betreuungsplätze.
+
+<sup>2</sup> Kinder ab dem 13. Lebensmonat bis zum vollendeten zwölften Lebensjahr belegen in der Tagespflege einen Betreuungsplatz.
+
+<sup>3</sup> In der Tagespflege ist der Betreuungsumfang auf maximal fünf Plätze begrenzt.
+
+#### § A4-5
+
+**Räumliche Voraussetzungen**
+
+<sup>1</sup> Die Kinder werden im eigenen Haushalt der Tagespflegeeltern betreut.
+
+<sup>2</sup> Die Räume müssen über genügend Tageslicht verfügen und den Bedingungen angepasst sowie zweckdienlich sein.
+
+<sup>3</sup> Die Schlaf- und Pflegebereiche tragen der Intimsphäre der Kinder Rechnung.
+
+<sup>4</sup> Geeignete Spielmöglichkeiten im Freien sind ums Haus oder in unmittelbarer Nähe vorhanden.
+
+#### § A4-6
+
+**Aufsicht**
+
+<sup>1</sup> Die von der Dienststelle Familie und Jugend beauftragte Fachperson führt periodische Aufsichtsbesuche durch und nimmt dabei insbesondere folgende Aufgaben wahr:
+
+- a) Überprüfung der Eignungsvoraussetzungen;
+- b) Befragung und Beratung der Tagespflegeeltern;
+- c) Erstellen eines Protokolls.
+
+<sup>2</sup> Die zuständige Fachperson kann die Tagespflegeeltern bei Bedarf ohne Vorankündigung besuchen.
+
+<sup>3</sup> Die Tagespflegeeltern haben der zuständigen Fachperson im Rahmen der Aufsichtsbesuche oder auf Verlangen
+
+- a) vollständig und wahrheitsgemäss Auskunft über die betreuten Kinder sowie über die Betreuung zu erteilen;
+- b) Einsicht in sämtliche zur Überprüfung der Eignungsvoraussetzungen notwendigen Unterlagen zu gewähren;
+- c) freien Zutritt zu allen Räumlichkeiten zu gewähren, welche im Rahmen der Tagespflege genutzt werden.
 
 Abl. 2018, S. 873
