@@ -3,18 +3,18 @@ sr: "412.101.220.95"
 title: "Ordonnance du SEFRI du 14 novembre 2008 sur la formation professionnelle initiale d'agropraticienne/agropraticien avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/823"
 language: fr
-version: 2019-01-01
+version: 2026-01-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/823/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-823-20190101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/823/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/823/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-823-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/823/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale Agropraticienne/Agropraticien avec attestation fédérale de formation professionnelle (AFP)\*
 
-du 14 novembre 2008 (État le 1<sup>er</sup> janvier 2019)[^t-1][^t-2]
+du 14 novembre 2008 (État le 1<sup>er</sup> janvier 2026)[^t-1][^t-2]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
@@ -26,14 +26,14 @@ du 14 novembre 2008 (État le 1<sup>er</sup> janvier 2019)[^t-1][^t-2]
 <tr><td>15011</td><td>vinification</td></tr>
 </table>
 
-Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI),
+Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance correspondante du 19 novembre 2003 (OFPr)[^ingress-2],
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet, orientations et durée
 
@@ -214,9 +214,10 @@ Sont annexées au plan de formation:
 
 **Culture générale**
 
-L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-1].
+L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^11-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-2].
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^11-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 ## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
 
@@ -270,11 +271,11 @@ Une personne peut être formée dans une entreprise si:
 
 **Rapport de formation**[^14a-1]
 
-<sup>1</sup> A la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. A cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
+<sup>1</sup> À la fin de chaque semestre, le formateur établit un rapport attestant le niveau atteint par la personne en formation. À cette fin, il se fonde sur les prestations de la personne en formation pendant la formation en entreprise et sur les remarques relatives aux prestations fournies à l’école professionnelle et dans les cours interentreprises. Il discute du rapport de formation avec la personne en formation.
 
 <sup>2</sup> Le formateur et la personne en formation conviennent si nécessaire de mesures permettant d’atteindre les objectifs de la formation et fixent des délais en conséquence. Ils consignent les décisions et les mesures prises par écrit.
 
-<sup>3</sup> A l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
+<sup>3</sup> À l’issue du délai fixé, le formateur vérifie l’efficacité des mesures prises et fait mention de ses conclusions dans le prochain rapport de formation.
 
 <sup>4</sup> Si les objectifs liés aux mesures fixées ne sont pas atteints ou si les chances de réussite de la personne en formation sont compromises, le formateur le signale par écrit aux parties contractantes et à l’autorité cantonale.
 
@@ -312,12 +313,13 @@ Est admise à la procédure de qualification la personne qui a suivi la formatio
 
 L’examen final porte sur les domaines de qualification ci-après selon les modalités suivantes:
 
-- a.[^17-1] travail pratique d’une durée de 3,5 heures ; la personne en formation doit montrer, dans le cadre d’un travail pratique prescrit ou effectué dans un contexte donné, qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation ; le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
+- a.[^17-1] travail pratique d’une durée de 3,5 heures; la personne en formation doit montrer, dans le cadre d’un travail pratique prescrit ou effectué dans un contexte donné, qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation; le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
 - b. connaissances professionnelles d’une durée de 2 heures. La personne en formation subit un examen écrit et un examen oral. L’examen oral dure 1 heure au maximum;
-- c. culture générale. L’examen final est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-2].
+- c. culture générale. L’examen final est régi par l’ordonnance du SEFRI du 9 avril 2025[^17-2] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-3].
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)[649](https://fedlex.data.admin.ch/eli/oc/2017/114)).
-[^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^17-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 18
 
@@ -414,7 +416,7 @@ La commission est chargée des tâches suivantes:
 - e. prendre position sur les instruments servant à promouvoir la qualité de la formation professionnelle initiale, en particulier sur les dispositions d’exécution relatives aux procédures de qualification.[^22-3]
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
-[^22-2]: [RS 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^22-2]: [RS 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
 [^22-3]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 ## Section 11 Dispositions finales

@@ -3,18 +3,18 @@ sr: "412.101.220.95"
 title: Ordinanza della SEFRI del 14 novembre 2008 sulla formazione professionale di base Addetta alle attività agricole/Addetto alle attività agricole con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/823"
 language: it
-version: 2019-01-01
+version: 2026-01-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/823/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2008-823-20190101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/823/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/823/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2008-823-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/823/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta alle attività agricole/Addetto alle attività agricole con certificato federale di formazione pratica (CFP)
 
-del 14 novembre 2008 (Stato 1° gennaio 2019)[^t-1]
+del 14 novembre 2008 (Stato 1° gennaio 2026)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), in vigore dal 1° gen. 2013.
 
@@ -31,8 +31,8 @@ visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Oggetto, indirizzi professionali e durata
 
@@ -107,7 +107,7 @@ Campo d’attività D: Meccanizzazione e impianti tecnici
 - D.1 impiego e manutenzione di macchine, apparecchi e impianti;
 - D.2 rispetto delle norme di sicurezza.
 
-[^4-1]: Nuova denominazione giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^4-1]: Nuova denominazione giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 5
 
@@ -151,7 +151,7 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 
 <sup>4</sup> È ammesso l’impiego di persone in formazione, in conformità con il loro stato di formazione, per attività che presentano pericoli. L’impiego presuppone che dette persone vengano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate nel piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -208,16 +208,17 @@ Al piano di formazione sono allegati:
 - a. l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione;
 - b. le misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.[^10-2]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
-[^10-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 11
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^11-2].
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -249,13 +250,13 @@ In un’azienda può svolgere il tirocinio una persona in formazione se:
 
 <sup>5</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione per le aziende di tirocinio che da più anni svolgono la loro funzione di formazione con un successo superiore alla media.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^sec7-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 14
 
@@ -265,7 +266,7 @@ In un’azienda può svolgere il tirocinio una persona in formazione se:
 
 <sup>2</sup> Il formatore controlla e firma la documentazione dell’apprendimento almeno una volta al semestre. La discute con la persona in formazione almeno una volta al semestre.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 14a
 
@@ -279,7 +280,7 @@ In un’azienda può svolgere il tirocinio una persona in formazione se:
 
 <sup>4</sup> Se nonostante le misure concordate gli obiettivi non sono stati raggiunti o se è a rischio il buon esito della formazione, il formatore lo comunica per iscritto alle parti contraenti e all’autorità cantonale.
 
-[^14a-1]: Introdotto dal n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^14a-1]: Introdotto dalla cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 15
 
@@ -303,7 +304,7 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
 
 <sup>2</sup> Dell’esperienza professionale richiesta secondo l’articolo 32 OFPr per l’ammissione a una procedura di qualificazione devono essere stati svolti almeno tre anni nel campo dell’addetto alle attività agricole CFP.[^16-1]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 17
 
@@ -317,10 +318,11 @@ Nell’esame finale vengono esaminati i campi di qualificazione sotto elencati n
 
 - a.[^17-1] «lavoro pratico» della durata di 3,5 ore. La persona in formazione deve dimostrare di saper eseguire in modo professionalmente corretto e adeguato alle necessità e alla situazione le attività richieste nell’ambito di un lavoro prestabilito o in situazioni date. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e del materiale relativo ai corsi interaziendali;
 - b. «conoscenze professionali», della durata di due ore. L’esame è orale e scritto. La durata massima dell’esame orale è di un’ora;
-- c. «cultura generale». Per l’esame finale nel campo di qualificazione «cultura generale» fa stato l’ordinanza della SEFRI del 27 aprile 2006[^17-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per l’esame finale nel campo di qualificazione «cultura generale» fa stato l’ordinanza della SEFRI del 9 aprile 2025[^17-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^17-3].
 
-[^17-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)[649](https://fedlex.data.admin.ch/eli/oc/2017/114)).
-[^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)[649](https://fedlex.data.admin.ch/eli/oc/2017/114)). Vedi anche l’art. 24*a* cpv. 2 qui avanti.
+[^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
@@ -346,7 +348,7 @@ Per il calcolo della nota complessiva valgono le note sotto elencate con la segu
 - c. cultura generale: 20 per cento;
 - d. nota relativa all’insegnamento professionale: 10 per cento.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 19
 
@@ -390,7 +392,7 @@ Nel certificato delle note figurano:
 
 [^sec10-1]
 
-[^sec10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^sec10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 #### Art. 22
 
@@ -416,8 +418,8 @@ La Commissione ha i seguenti compiti:
 - d. esprime un parere riguardo agli strumenti per la validazione degli apprendimenti acquisiti;
 - e. esprime un parere riguardo agli strumenti per la promozione della qualità della formazione professionale di base, in particolare sulle disposizioni esecutive concernenti le procedure di qualificazione.[^22-2]
 
-[^22-1]: [RS 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
-[^22-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
+[^22-1]: [RS 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
+[^22-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)).
 
 ## Sezione 11: Disposizioni finali
 
@@ -443,5 +445,5 @@ L’autorità cantonale competente decide in merito all’equipollenza di formaz
 
 <sup>2</sup> L’articolo 17 capoverso 2 lettera a si applica per la prima volta a partire dal 1° gennaio 2019.
 
-[^24a-1]: Introdotto dal n. I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)[649](https://fedlex.data.admin.ch/eli/oc/2017/114)).
+[^24a-1]: Introdotto dalla cifra I dell’O della SEFRI del 6 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 9](https://fedlex.data.admin.ch/eli/oc/2017/3)[649](https://fedlex.data.admin.ch/eli/oc/2017/114)).
 [^24a-2]: [RU 2008 5961](https://fedlex.data.admin.ch/eli/oc/2008/823)
