@@ -4,13 +4,12 @@ number: "112.12"
 title: Vollzugsverordnung zum Gesetz über das Kantons- und Gemeindebürgerrecht
 short: Bürgerrechtsverordnung
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2024-02-27
+version: 2026-01-01
+version_adopted: 2025-03-04
 adopted: 2006-12-04
 in_force: 2006-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/112.12"
-pdf: "https://bgs.so.ch/api/de/versions/5443/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5538/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5443/pdf_file"
 
 (Bürgerrechtsverordnung)
 
-Vom 04.12.2006 (Stand 01.07.2024)
+Vom 04.12.2006 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -103,7 +102,7 @@ beschliesst:
 - b) einen Lebenslauf;
 - c) Bestätigung über den Besuch eines staatsbürgerlichen Unterrichtes oder eines Neubürgerkurses;
 - d) sofern die Gesuchsteller anerkannte Flüchtlinge sind: den Asylentscheid der zuständigen Bundesbehörde und den Reiseausweis;
-- e) Nachweis über ausreichende Deutschkenntnisse;
+- e) Nachweis über ausreichende Deutschkenntnisse (schriftlich Referenzniveau A2 und mündlich Referenzniveau B2 des gemeinsamen europäischen Referenzrahmens des Europarates für Sprachen);
 - f) Aktuelle Arbeits-, Ausbildungs- oder Weiterbildungsbestätigung oder Ausweis über Leistungen Dritter, auf die ein Rechtsanspruch besteht (z.B. Leistungen einer Sozialversicherung oder Unterhaltsansprüche).
 
 <sup>3</sup> Die Bürgergemeinde und das kantonale Amt können weitere Unterlagen verlangen. Sie können bei der Kantonspolizei Informationen über die Gesuchsteller einholen.
