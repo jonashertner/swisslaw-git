@@ -4,13 +4,13 @@ number: "620"
 title: Steuergesetz
 short: StG
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-21
+version: 2026-01-01
+valid_until: 2026-09-30
+version_adopted: 2025-10-20
 adopted: 1999-11-22
 in_force: 2001-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/620"
-pdf: "https://srl.lu.ch/api/de/versions/4405/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4667/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4405/pdf_file"
 
 (StG)
 
-vom 22.11.1999 (Stand 01.06.2025)
+vom 22.11.1999 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -289,7 +289,7 @@ beschliesst:
 
 <sup>3</sup> Die Steuer, die an die Stelle der Einkommenssteuer tritt, wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen:
 
-- a. 646 700 Franken,
+- a. 647 100 Franken,
 - b. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder des Mietwerts (100%) nach § 28 Absätze 2 und 3,
 - c. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft und Verpflegung am Ort des Aufenthalts nach § 8.
 
@@ -526,9 +526,9 @@ beschliesst:
 - h. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
 - i. die Kapitalgewinne aus Veräusserung von Privatvermögen; vorbehalten bleiben die Bestimmungen des Grundstückgewinnsteuergesetzes,
 - k. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach den Geldspielgesetz vom 29. September 2017[^31-1] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen,
-- k<sup>bis</sup>. die einzelnen Gewinne bis zum Betrag von 1 070 400 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind,
+- k<sup>bis</sup>. die einzelnen Gewinne bis zum Betrag von 1 071 000 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind,
 - k<sup>ter</sup>. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind,
-- l. der Sold der Milizfeuerwehrleute für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgabe der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenabwehr, Elementarschadenbewältigung und dergleichen) bis zum Betrag von jährlich 5300 Franken; ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt,
+- l. der Sold der Milizfeuerwehrleute für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgabe der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenabwehr, Elementarschadenbewältigung und dergleichen) bis zum Betrag von jährlich 5400 Franken; ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt,
 - m. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird,
 - n. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose vom 19. Juni 2020[^31-2].
 
@@ -654,7 +654,7 @@ beschliesst:
   - 1\. im Parteienregister nach § 76a des Bundesgesetzes vom 17. Dezember 1976[^40-3] über die politischen Rechte eingetragen sind,
   - 2\. in einem kantonalen Parlament vertreten sind,
   - 3\. in einem Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben,
-- l. die nachgewiesenen Kosten bis 20 000 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
+- l. die nachgewiesenen Kosten bis 20 200 Franken für die Drittbetreuung jedes Kindes, welches das 14. Altersjahr noch nicht vollendet hat und mit der steuerpflichtigen Person, die für seinen Unterhalt sorgt, im gleichen Haushalt lebt, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit, der Ausbildung oder der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
 - m. die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Gesamtbetrag von 13 000 Franken, sofern:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt, oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf Sekundarstufe II handelt.
@@ -686,14 +686,14 @@ beschliesst:
 <sup>1</sup> Vom Reineinkommen werden abgezogen:
 
 - a. für jedes minderjährige oder in Ausbildung stehende Kind, für dessen Unterhalt die steuerpflichtige Person sorgt,
-  - 1\. 8 000 Franken,
+  - 1\. 8 100 Franken,
   - 2\. …
   - 3\. 13 200 Franken, wenn das Kind in schulischer oder beruflicher Ausbildung steht und sich dafür ständig am auswärtigen Ausbildungsort aufhalten muss,
-- b. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 2000 Franken für die eigene Betreuung; der Abzug erhöht sich auf höchstens 20 000 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit oder Ausbildung der steuerpflichtigen Person stehen,
+- b. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 2000 Franken für die eigene Betreuung; der Abzug erhöht sich auf höchstens 20 200 Franken für die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbstätigkeit oder Ausbildung der steuerpflichtigen Person stehen,
 - c. für jedes im eigenen Haushalt lebende Kind, welches das 14. Altersjahr noch nicht vollendet hat, 2000 Franken für die eigene Betreuung; der Abzug erhöht sich um die ungedeckten Kosten der Drittbetreuung jedes Kindes, soweit diese Kosten in direktem kausalem Zusammenhang mit der Erwerbsunfähigkeit der steuerpflichtigen Person stehen,
-- d. für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt die steuerpflichtige Person mindestens einen Beitrag in der Höhe des Abzugs leistet, 2700 Franken; der Abzug kann nicht beansprucht werden für den Ehegatten oder für Kinder, für die der steuerpflichtigen Person ein Abzug gemäss Absatz 1a oder § 40 Absatz 1c zusteht; verwitweten, in getrennter Ehe lebenden, geschiedenen und ledigen Steuerpflichtigen ohne Kinder, denen der Tarif nach § 57 Absatz 2 zusteht, wird der Abzug nur für unterstützungsbedürftige Personen gewährt, die nicht im Haushalt der steuerpflichtigen Person leben,
-- e. 14 Prozent der Differenz zwischen 50 000 Franken und dem Reineinkommen bei Personen, die zum Einkommenssteuertarif nach § 57 Absatz 1 besteuert werden,
-- f. 14 Prozent der Differenz zwischen 80 000 Franken und dem Reineinkommen bei Personen, die zum Einkommenssteuertarif nach § 57 Absatz 2 besteuert werden.
+- d. für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt die steuerpflichtige Person mindestens einen Beitrag in der Höhe des Abzugs leistet, 2800 Franken; der Abzug kann nicht beansprucht werden für den Ehegatten oder für Kinder, für die der steuerpflichtigen Person ein Abzug gemäss Absatz 1a oder § 40 Absatz 1c zusteht; verwitweten, in getrennter Ehe lebenden, geschiedenen und ledigen Steuerpflichtigen ohne Kinder, denen der Tarif nach § 57 Absatz 2 zusteht, wird der Abzug nur für unterstützungsbedürftige Personen gewährt, die nicht im Haushalt der steuerpflichtigen Person leben,
+- e. 14 Prozent der Differenz zwischen 50 400 Franken und dem Reineinkommen bei Personen, die zum Einkommenssteuertarif nach § 57 Absatz 1 besteuert werden,
+- f. 14 Prozent der Differenz zwischen 80 700 Franken und dem Reineinkommen bei Personen, die zum Einkommenssteuertarif nach § 57 Absatz 2 besteuert werden.
 
 <sup>2</sup> Ehegatten in rechtlich und tatsächlich ungetrennter Ehe können die Abzüge gemäss Absatz 1a–d nur einmal beanspruchen. Werden die Eltern getrennt besteuert, wird der Abzug nach Absatz 1a, der Versicherungsabzug für Kinder nach § 40 Absatz 1g und der steuerfreie Betrag nach § 52 Absatz 1c hälftig geteilt, wenn das Kind unter gemeinsamer elterlicher Sorge steht und keine Unterhaltsbeiträge nach § 40 Absatz 1c für das Kind geltend gemacht werden.
 
@@ -912,14 +912,14 @@ beschliesst:
 - a. 0,00 Prozent der ersten: — Fr. 9 900.–
 - b. 0,50 Prozent der nächsten: — Fr. 2 400.–
 - c. 1,00 Prozent der nächsten: — Fr. 3 200.–
-- d. 2,00 Prozent der nächsten: — Fr. 1 100.–
+- d. 2,00 Prozent der nächsten: — Fr. 1 200.–
 - e. 3,00 Prozent der nächsten: — Fr. 1 200.–
 - f. 4,00 Prozent der nächsten: — Fr. 2 900.–
 - g. 4,50 Prozent der nächsten: — Fr. 4 300.–
 - h. 5,00 Prozent der nächsten: — Fr. 85 000.–
 - i. 5,25 Prozent der nächsten: — Fr. 53 800.–
 - k. 5,50 Prozent der nächsten: — Fr. 26 200.–
-- l. 5,80 Prozent der nächsten: — Fr. 1 903 000.–
+- l. 5,80 Prozent der nächsten: — Fr. 1 906 700.–
 
 <sup>2</sup> Für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben, sowie für verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Personen, die mit Kindern oder unterstützungsbedürftigen Personen im gleichen Haushalt zusammenleben und deren Unterhalt zur Hauptsache bestreiten, beträgt die Steuer je Einheit für eine Steuerperiode
 
@@ -929,10 +929,10 @@ beschliesst:
 - d. 2,50 Prozent der nächsten: — Fr. 1 200.–
 - e. 3,00 Prozent der nächsten: — Fr. 2 100.–
 - f. 3,50 Prozent der nächsten: — Fr. 4 200.–
-- g. 4,50 Prozent der nächsten: — Fr. 66 500.–
+- g. 4,50 Prozent der nächsten: — Fr. 66 700.–
 - h. 5,00 Prozent der nächsten: — Fr. 38 900.–
 - i. 5,50 Prozent der nächsten: — Fr. 21 100.–
-- k. 5,80 Prozent der nächsten: — Fr. 1 265 300.–
+- k. 5,80 Prozent der nächsten: — Fr. 1 266 300.–
 
 <sup>3</sup> Ein Restbetrag von weniger als 100 Franken fällt bei der Festsetzung des steuerbaren Einkommens ausser Betracht.
 
@@ -1891,7 +1891,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt die Grundzüge der Veranlagung durch die Einwohnergemeinden in der Verordnung.
 
-<sup>3</sup> Die Dienststelle Steuern des Kantons wählt die zur Veranlagung befugten Personen.
+<sup>3</sup> Die Dienststelle Steuern des Kantons ermächtigt die zur Veranlagung befugten Personen.
 
 #### § 126
 
