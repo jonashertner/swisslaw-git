@@ -4,13 +4,13 @@ number: "52"
 title: Verordnung zum Personalgesetz
 short: "Personalverordnung, PVO"
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-04
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-11-18
 adopted: 2002-09-24
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52"
-pdf: "https://srl.lu.ch/api/de/versions/4516/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4584/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://srl.lu.ch/api/de/versions/4516/pdf_file"
 
 (Personalverordnung, PVO)
 
-vom 24.09.2002 (Stand 01.08.2025)
+vom 24.09.2002 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 1 Absatz 3, 3 Absatz 3, 8 Absatz 3, 21 Absatz 3, 22 Absatz 4, 38 Absatz 1a, 43 Absatz 3, 47, 53 Absatz 2, 57, 59 Absatz 5, 60 Absatz 4, 61 Absatz 1, 66, 69 Absatz 4 und 81 Absatz 1 des Personalgesetzes vom 26. Juni 2001[^ingress-1] sowie auf § 7 Absatz 2 des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
+gestützt auf die §§ 1 Absatz 3, 3 Absatz 3, 8 Absatz 2, 21 Absatz 3, 22 Absatz 4, 27a Absatz 5, 38 Absatz 1a, 43 Absatz 3, 47, 53 Absatz 2, 57, 59 Absatz 5, 60 Absatz 4, 61 Absatz 1, 66, 69 Absatz 4 und 81 Absatz 1 des Personalgesetzes vom 26. Juni 2001[^ingress-1] sowie auf § 7 Absatz 2 des Kantonalen Datenschutzgesetzes vom 2. Juli 1990[^ingress-2],
 
 auf Antrag des Finanzdepartementes,
 
@@ -81,17 +81,17 @@ beschliesst:
 
 #### § 3
 
-**Annahme der Wahl und Wahlurkunde**
+**Vertrag**
 
-<sup>1</sup> Die Wahl kann schriftlich oder mündlich angenommen werden.
+<sup>1</sup> Der öffentlich-rechtliche Vertrag zur Begründung des Arbeitsverhältnisses kann in Papier- oder in digitaler Form ausgefertigt werden. Die Dienststelle Personal kann Weisungen zur Vertragsausfertigung erlassen.
 
-<sup>2</sup> Die Angestellten erhalten nach der Begründung oder der Umgestaltung des Arbeitsverhältnisses eine Wahlurkunde, welche die wesentlichen Bestandteile des Arbeitsverhältnisses enthält.
+<sup>2</sup> …
 
 #### § 4
 
-**Begründung durch Vertrag**
+**Abweichungen vom Personalgesetz**
 
-<sup>1</sup> Ein Arbeitsverhältnis kann durch öffentlich-rechtlichen Vertrag begründet werden, wenn
+<sup>1</sup> Im öffentlich-rechtlichen Vertrag kann hinsichtlich des Besoldungsanspruchs, der Arbeitszeit, der Ferien, der beruflichen Vorsorge sowie der Beendigung des Arbeitsverhältnisses vom Personalgesetz abgewichen werden, wenn
 
 - a. eine inhaltlich und zeitlich begrenzte Aufgabe zu erfüllen ist,
 - b. der Arbeitsplatz wiederholt zu wechseln sein wird,
@@ -101,9 +101,9 @@ beschliesst:
 - f. das Arbeitsverhältnis vom Gemeinwesen und von dritter Seite gemeinsam getragen wird oder
 - g. Angestellte das 65. Altersjahr erfüllt haben.
 
-<sup>2</sup> Wird im Vertrag vom Personalgesetz im Rahmen von § 8 Absatz 2 des Personalgesetzes abgewichen, sind die zwingenden Vorschriften des Obligationenrechts einzuhalten.
+<sup>2</sup> Wird im Vertrag vom Personalgesetz abgewichen, sind die zwingenden Vorschriften des Obligationenrechts einzuhalten.
 
-<sup>3</sup> Der Vertrag bedarf zu seiner Gültigkeit der Schriftform.
+<sup>3</sup> …
 
 ### 2.2 Dienstverhältnisse für besondere Funktionen
 
@@ -129,25 +129,25 @@ beschliesst:
 
 **Aushilfen**
 
-<sup>1</sup> Aushilfen für Arbeitseinsätze von bis zu sechs Monaten werden mit Vertrag angestellt, der sich nach den Bestimmungen des Einzelarbeitsvertrages des Obligationenrechts richtet. Dauert die Anstellung länger als sechs Monate oder wird sie über diesen Zeitraum hinaus verlängert, wird ein befristetes Arbeitsverhältnis gemäss Personalgesetz begründet. Es besteht kein Anspruch auf Dienstaltersgeschenke.
+<sup>1</sup> Die Anstellung von Aushilfen für Arbeitseinsätze von bis zu sechs Monaten richtet sich nach den Bestimmungen des Einzelarbeitsvertrages des Obligationenrechts. Dauert die Anstellung länger als sechs Monate oder wird sie über diesen Zeitraum hinaus verlängert, wird ein befristetes Arbeitsverhältnis gemäss Personalgesetz begründet. Es besteht kein Anspruch auf Dienstaltersgeschenke.
 
 #### § 7
 
 **Praktikantinnen und Praktikanten**
 
-<sup>1</sup> Praktikantinnen und Praktikanten werden befristet in einem beiderseits auflösbaren Arbeitsverhältnis mit einer Probezeit von drei Monaten angestellt. Der Ferienanspruch beträgt sechs Wochen pro Kalenderjahr. Die Fortzahlung der Besoldung bei Krankheit und Unfall dauert im ersten Ausbildungsjahr einen Monat, ab dem zweiten Ausbildungsjahr drei Monate. Die Beendigungsfristen des Arbeitsverhältnisses richten sich nach den Bestimmungen des Einzelarbeitsvertrages des Obligationenrechts. Es besteht kein Anspruch auf Dienstaltersgeschenke.
+<sup>1</sup> Praktikantinnen und Praktikanten werden befristet in einem beiderseits auflösbaren Arbeitsverhältnis mit einer Probezeit von drei Monaten angestellt. Der Ferienanspruch richtet sich nach § 34. Die Fortzahlung der Besoldung bei Krankheit und Unfall dauert im ersten Ausbildungsjahr einen Monat, ab dem zweiten Ausbildungsjahr drei Monate. Die Beendigungsfristen des Arbeitsverhältnisses richten sich nach den Bestimmungen des Einzelarbeitsvertrages des Obligationenrechts. Es besteht kein Anspruch auf Dienstaltersgeschenke.
 
 #### § 8
 
 **Auszubildende in einem Lehrverhältnis**
 
-<sup>1</sup> Das Arbeitsverhältnis von Auszubildenden in einem Lehrverhältnis wird durch Vertrag mit einer Probezeit von drei Monaten begründet. Die zwingenden Bestimmungen des Obligationenrechts zum Lehrvertrag sind einzuhalten. Der Ferienanspruch beträgt sechs Wochen pro Kalenderjahr. Die Fortzahlung der Besoldung bei Krankheit und Unfall dauert im ersten Ausbildungsjahr einen Monat, ab dem zweiten Ausbildungsjahr drei Monate. Es besteht kein Anspruch auf Dienstaltersgeschenke.
+<sup>1</sup> Für das Arbeitsverhältnis von Auszubildenden in einem Lehrverhältnis gilt eine Probezeit von drei Monaten. Die zwingenden Bestimmungen des Obligationenrechts zum Lehrvertrag sind einzuhalten. Der Ferienanspruch beträgt sechs Wochen pro Kalenderjahr. Die Fortzahlung der Besoldung bei Krankheit und Unfall dauert im ersten Ausbildungsjahr einen Monat, ab dem zweiten Ausbildungsjahr drei Monate. Es besteht kein Anspruch auf Dienstaltersgeschenke.
 
 #### § 8a
 
 **Angestellte an einem besonderen Arbeitsplatz**
 
-<sup>1</sup> Für Angestellte an einem besonderen Arbeitsplatz gemäss § 62 des Personalgesetzes ist § 9 Absatz 2 des Personalgesetzes nicht anwendbar. Sie können befristet in einem beiderseits auflösbaren Arbeitsverhältnis von bis zu fünf Jahren angestellt werden. Die Befristung kann um maximal drei Jahre verlängert werden.
+<sup>1</sup> Für Angestellte an einem besonderen Arbeitsplatz gemäss § 62 des Personalgesetzes ist § 9 Absatz 2 des Personalgesetzes nicht anwendbar. Sie können befristet in einem beiderseits auflösbaren Arbeitsverhältnis von bis zu fünf Jahren angestellt werden. Die Befristung kann um maximal drei Jahre verlängert werden. Die Fortzahlung der Besoldung bei Krankheit und Unfall dauert in der Probezeit einen Monat, danach in jedem Anstellungsjahr 12 Wochen. Ab dem 7. Anstellungsjahr wird die Fortzahlung der Besoldung in Wochen pro Jahr wie folgt berechnet: Anzahl Anstellungsjahre plus sechs.
 
 #### § 8b
 
@@ -341,7 +341,7 @@ beschliesst:
 
 <sup>3</sup> Bestehen begründete Zweifel, dass die oder der Angestellte arbeitsunfähig ist, kann die zuständige Behörde jederzeit die Einreichung eines Arztzeugnisses verlangen.
 
-<sup>4</sup> Wird nach der Beendigung oder Umgestaltung eine Entschädigung gemäss § 24 ausgerichtet, hat die oder der ehemalige Angestellte jeweils bis zum 5. des Kalendermonats der Dienststelle Personal oder gegebenenfalls der zuständigen Stelle gemäss § 61 unaufgefordert ein Arztzeugnis einzureichen. In besonderen Fällen kann darauf verzichtet werden.
+<sup>4</sup> Wird nach der Änderung oder Beendigung des Arbeitsverhältnisses eine Entschädigung gemäss § 24 ausgerichtet, hat die oder der ehemalige Angestellte jeweils bis zum 5. des Kalendermonats der Dienststelle Personal oder gegebenenfalls der zuständigen Stelle gemäss § 61 unaufgefordert ein Arztzeugnis einzureichen. In besonderen Fällen kann darauf verzichtet werden.
 
 <sup>5</sup> Leistungen sowie jede Leistungsänderung von in- und ausländischen Sozialversicherungen sind der zuständigen Behörde bei deren Ankündigung oder Vollzug unverzüglich zu melden.
 
@@ -389,9 +389,9 @@ beschliesst:
 
 #### § 26
 
-**Fortzahlung der Besoldung nach Umgestaltung des Arbeitsverhältnisses**
+**Fortzahlung der Besoldung nach Änderung des Arbeitsverhältnisses**
 
-<sup>1</sup> Wird das Arbeitsverhältnis infolge Arbeitsunfähigkeit umgestaltet und beträgt die Arbeitsfähigkeit nach der Umgestaltung während zwölf Monaten im Durchschnitt mindestens 90 Prozent des Beschäftigungsgrades, besteht bei erneuter Arbeitsunfähigkeit wiederum Anspruch auf die Besoldung während maximal 730 Kalendertagen. Werden diese Voraussetzungen nicht erfüllt, reduziert sich der Anspruch auf Fortzahlung der Besoldung auf maximal 365 Kalendertage.
+<sup>1</sup> Wird das Arbeitsverhältnis infolge Arbeitsunfähigkeit geändert und beträgt die Arbeitsfähigkeit nach der Änderung während zwölf Monaten im Durchschnitt mindestens 90 Prozent des Beschäftigungsgrades, besteht bei erneuter Arbeitsunfähigkeit wiederum Anspruch auf die Besoldung während maximal 730 Kalendertagen. Werden diese Voraussetzungen nicht erfüllt, reduziert sich der Anspruch auf Fortzahlung der Besoldung auf maximal 365 Kalendertage.
 
 #### § 27
 
@@ -404,6 +404,24 @@ beschliesst:
 **Abschluss einer Versicherung**
 
 <sup>1</sup> Die Leistungen gemäss den §§ 23–26 sind auch für den Fall geschuldet, dass das Gemeinwesen eine Versicherung betreffend seine Angestellten abschliesst. Anders lautende Erlasse des Gemeinwesens bleiben vorbehalten.
+
+#### § 28a
+
+**Überobligatorische Leistungen des Kantons bei Berufsunfällen und Berufskrankheiten**
+
+<sup>1</sup> Für Angestellte gemäss § 1 Absatz 1 des Personalgesetzes, mit Ausnahme der Angestellten der selbständigen öffentlich-rechtlichen Anstalten und Körperschaften, übernimmt der Kanton bei einem Berufsunfall oder einer Berufskrankheit in Ergänzung zur obligatorischen Unfallversicherung bei einem stationären Spitalaufenthalt die Kosten für Behandlung, Verpflegung und Unterkunft in der halbprivaten Abteilung, wenn die obligatorische Unfallversicherung nach Artikel 15 Absatz 1 der Verordnung über die Unfallversicherung (UVV) vom 20. Dezember 1982[^28a-1] die Kosten für die Behandlung in der allgemeinen Abteilung des entsprechenden Spitals übernimmt. Dies gilt nicht für Unfälle auf dem Arbeitsweg.
+
+<sup>2</sup> Kürzt die obligatorische Unfallversicherung bei einer Behandlung in einem anderen Spital ihre Leistungen gemäss Artikel 15 Absatz 2 UVV[^28a-2], wird die Kostenübernahme im gleichen Umfang prozentual gekürzt. Die Leistungen werden direkt dem Spital bezahlt.
+
+<sup>3</sup> Bei absichtlicher oder grobfahrlässiger Herbeiführung des Berufsunfalles oder der Berufskrankheit entfällt der Anspruch nach Absatz 1. Ein absichtliches oder grobfahrlässiges Handeln wird angenommen, wenn die obligatorische Unfallversicherung eine Leistungskürzung beziehungsweise Leistungsverweigerung nach Artikel 37 des Bundesgesetzes über die Unfallversicherung (UVG) vom 20. März 1981[^28a-3] vornimmt.
+
+<sup>4</sup> Bei Rückfällen und Spätfolgen aus Berufsunfällen oder Berufskrankheiten werden Leistungen nach Absatz 1 ausgerichtet, sofern im Zeitpunkt des Eintritts des Rückfalls oder der Spätfolgen weiterhin eine Anstellung beim Kanton Luzern besteht.
+
+<sup>5</sup> Der Kanton kann für die Leistungen gemäss Absatz 1 eine Versicherung abschliessen.
+
+[^28a-1]: SR [832.202](https://db.clex.ch/link/Bund/832.202/de)
+[^28a-2]: SR [832.202](https://db.clex.ch/link/Bund/832.202/de)
+[^28a-3]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
 
 ### 4.2 Arbeitsverhinderung wegen Dienstleistung
 
@@ -427,9 +445,11 @@ beschliesst:
 
 **Meldung**
 
-<sup>1</sup> Die Angestellten haben der Vorsteherin oder dem Vorsteher der Dienststelle oder dem Gericht Dauer und Zeitpunkt der Dienstleistung zu melden, sobald sie bekannt sind.
+<sup>1</sup> Die Angestellten haben der Leiterin oder dem Leiter der Dienststelle oder dem Gericht Dauer und Zeitpunkt der Dienstleistung zu melden, sobald sie bekannt sind.
 
-<sup>2</sup> Können die Angestellten den Zeitpunkt der Dienstleistung beeinflussen, legen sie ihn im Einvernehmen mit der Vorsteherin oder dem Vorsteher der Dienststelle oder mit dem Gericht fest.
+<sup>2</sup> Können die Angestellten den Zeitpunkt der Dienstleistung beeinflussen, legen sie ihn im Einvernehmen mit der Leiterin oder dem Leiter der Dienststelle oder mit dem Gericht fest.
+
+<sup>3</sup> Die Angestellten wenden sich für die Angelegenheiten in den Absätzen 1 und 2 an die Abteilungsleiterin oder den Abteilungsleiter, sofern ihr oder ihm die Zuständigkeiten nach den §§ 66 und 67 des Personalgesetzes übertragen worden sind.
 
 #### § 31
 
@@ -461,7 +481,9 @@ beschliesst:
 
 <sup>1</sup> Der Erwerbsersatz und allfällige weitere Entschädigungen fallen dem Gemeinwesen zu, das die Besoldung ausrichtet. Verdienen die Angestellten beim Gemeinwesen nur einen Teil ihres Erwerbseinkommens, haben sie einen anteilsmässigen Anspruch auf den Erwerbsersatz.
 
-<sup>2</sup> Die Angestellten haben die Meldekarte für den Erwerbsersatz unverzüglich der Vorsteherin oder dem Vorsteher der Dienststelle oder dem Gericht einzureichen. Sie haften dem Gemeinwesen für Schaden, der wegen einer Meldepflichtverletzung entsteht.
+<sup>2</sup> Die Angestellten haben die Meldekarte für den Erwerbsersatz unverzüglich der Leiterin oder dem Leiter der Dienststelle oder dem Gericht einzureichen. Sie haften dem Gemeinwesen für Schaden, der wegen einer Meldepflichtverletzung entsteht.
+
+<sup>2<sup>bis</sup></sup> Die Angestellten reichen die Meldekarte der Abteilungsleiterin oder dem Abteilungsleiter ein, sofern ihr oder ihm die Zuständigkeiten nach den §§ 66 oder 67 des Personalgesetzes übertragen worden sind.
 
 <sup>3</sup> Der Erwerbsersatz für Dienstleistungen während eines unbesoldeten Urlaubs verbleibt der oder dem Angestellten.
 
@@ -721,7 +743,7 @@ beschliesst:
 
 **Befristung der Bewilligung**
 
-<sup>1</sup> Die Bewilligung zur Ausübung einer Nebenbeschäftigung wird für die Dauer von maximal vier Jahren erteilt. Wird sie zur Ausübung eines öffentlichen Amtes erteilt, ist sie auf die entsprechende Amtsdauer zu befristen. Bei Umgestaltung eines Arbeitsverhältnisses ist die den Angestellten im bisherigen Arbeitsverhältnis erteilte Bewilligung neu zu beurteilen.
+<sup>1</sup> Die Bewilligung zur Ausübung einer Nebenbeschäftigung wird für die Dauer von maximal vier Jahren erteilt. Wird sie zur Ausübung eines öffentlichen Amtes erteilt, ist sie auf die entsprechende Amtsdauer zu befristen. Bei Änderung eines Arbeitsverhältnisses ist die den Angestellten im bisherigen Arbeitsverhältnis erteilte Bewilligung neu zu beurteilen.
 
 ## 9 Entbindung von der Geheimhaltungspflicht
 
@@ -824,7 +846,7 @@ beschliesst:
 
 <sup>1</sup> Die Dienststelle Personal unterstützt die zuständigen Behörden bei der Suche und bei der Einstellung geeigneter Mitarbeiterinnen und Mitarbeiter.
 
-<sup>2</sup> Sie führt die öffentlichen Ausschreibungen durch, begleitet in der Regel die Anstellungsgespräche und bereitet die Wahlurkunden und die öffentlich-rechtlichen Verträge vor.
+<sup>2</sup> Sie führt die öffentlichen Ausschreibungen durch, begleitet in der Regel die Anstellungsgespräche und bereitet die öffentlich-rechtlichen Verträge vor.
 
 #### § 59
 
@@ -832,8 +854,8 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Behörde holt vor dem Erlass der folgenden Entscheide die Stellungnahme der Dienststelle Personal ein:
 
-- a. Wahl, einschliesslich Festlegung der wesentlichen Bestandteile des Arbeitsverhältnisses gemäss § 12 Absatz 2 des Personalgesetzes,
-- b. Beendigung eines Arbeitsverhältnisses durch Entscheid sowie Umgestaltung eines Arbeitsverhältnisses, sofern diese nicht in beidseitigem Einvernehmen erfolgen,
+- a. Begründung eines Anstellungsverhältnisses, einschliesslich Festlegung der wesentlichen Bestandteile des Arbeitsverhältnisses gemäss § 12 Absatz 2 des Personalgesetzes,
+- b. Änderung oder Beendigung eines Arbeitsverhältnisses, sofern diese nicht im gegenseitigen Einvernehmen erfolgt,
 - c. mobil-flexibles Arbeiten im Ausland,
 - d. besoldeter Urlaub ohne Rechtsanspruch von mehr als zehn Arbeitstagen,
 - e. Lohnfestlegung infolge einer Funktionsänderung.
@@ -841,7 +863,7 @@ beschliesst:
 
 <sup>2</sup> Dienststellen und erstinstanzliche Zivil- und Strafgerichte können von der Stellungnahme zu den Entscheiden gemäss Absatz 1a, b und e nur mit Zustimmung des zuständigen Departements oder der Staatskanzlei beziehungsweise des obersten Gerichtes abweichen.
 
-<sup>3</sup> Die zuständige Behörde holt vor der Begründung einer Anstellung durch öffentlich-rechtlichen Vertrag die Stellungnahme der Dienststelle Personal ein.
+<sup>3</sup> …
 
 #### § 60
 
@@ -865,7 +887,7 @@ beschliesst:
 
 **Auslagerung von Informatikdienstleistungen a. Zulässigkeit**
 
-<sup>1</sup> Die Auslagerung von Informatikdienstleistungen, welche das Personalinformationssystem betreffen, ist zulässig, sofern die Vorschriften über den Datenschutz sowie die Bestimmungen dieser Verordnung und der Informatikverordnung vom 10. Dezember 2002[^61a-1] eingehalten werden. Die finanzrechtlichen Vorschriften bleiben vorbehalten.
+<sup>1</sup> Die Auslagerung von Informatikdienstleistungen, welche das Personalinformationssystem betreffen, ist zulässig, sofern die Vorschriften über den Datenschutz sowie die Bestimmungen dieser Verordnung und der Informatikverordnung vom 17. Juni 2016[^61a-1] eingehalten werden. Die finanzrechtlichen Vorschriften bleiben vorbehalten.
 
 <sup>2</sup> Die Auslagerung setzt eine schriftliche Vereinbarung voraus, die mindestens folgende Punkte regelt:
 
@@ -884,7 +906,7 @@ beschliesst:
 
 <sup>4</sup> Die Auslagerung bedarf der Genehmigung des Regierungsrates.
 
-[^61a-1]: SRL Nr. 39
+[^61a-1]: SRL Nr. [26a](https://srl.lu.ch/data/26a/de)
 
 #### § 61b
 
@@ -928,7 +950,7 @@ beschliesst:
 
 **Rechtsschutz gegen die Beurteilung**
 
-<sup>1</sup> Die Angestellten können eine Unterredung mit der Vorsteherin oder dem Vorsteher der Dienststelle oder mit dem vom Gericht bezeichneten Organ verlangen, wenn sie mit der Beurteilung durch die vorgesetzte Person nicht einverstanden sind. Hat die Vorsteherin oder der Vorsteher der Dienststelle die Beurteilung selber erstellt, können sich die Angestellten an die Vorsteherin oder den Vorsteher des Departements wenden.
+<sup>1</sup> Die Angestellten können eine Unterredung mit der Leiterin oder dem Leiter der Dienststelle oder mit dem vom Gericht bezeichneten Organ verlangen, wenn sie mit der Beurteilung durch die vorgesetzte Person nicht einverstanden sind. Hat die Leiterin oder der Leiter der Dienststelle die Beurteilung selbst erstellt, können sich die Angestellten an die Vorsteherin oder den Vorsteher des Departements wenden.
 
 <sup>2</sup> Die Beurteilung kann nicht selbständig angefochten werden. Sie wird von der Rechtsmittelinstanz geprüft, wenn der Entscheid angefochten wird, dem die Beurteilung zugrunde liegt.
 
@@ -942,23 +964,23 @@ beschliesst:
 
 <sup>3</sup> Bei der Auswertung der Beurteilung sowie bei der Planung und Durchführung von Verbesserungsmassnahmen wirkt die Dienststelle Personal beratend mit.
 
-<sup>4</sup> Die Vorsteherinnen und Vorsteher von Departementen und Dienststellen sowie die Gerichte können die Vorgesetztenbeurteilung nach einer Einführungsphase für obligatorisch erklären.
+<sup>4</sup> Die Vorsteherinnen und Vorsteher der Departemente, die Leiterinnen und Leiter der Dienststellen und die Gerichte können die Vorgesetztenbeurteilung nach einer Einführungsphase für obligatorisch erklären.
 
 ## 14 Zuständigkeit und Verfahren
 
 #### § 66
 
-**Zuständige Behörde für die Wahl, die Beendigung und die Umgestaltung**
+**Zuständige Behörde für die Begründung, die Änderung und die Beendigung des Arbeitsverhältnisses**
 
-<sup>1</sup> Der Regierungsrat ist im Sinn von § 66 Unterabsatz a des Personalgesetzes für die Wahl, die Beendigung und die Umgestaltung der Arbeitsverhältnisse der Angestellten der Funktionsgruppe Ia zuständig.
+<sup>1</sup> Der Regierungsrat ist im Sinn von § 66 Absatz 1a des Personalgesetzes für die Begründung, die Änderung und die Beendigung der Arbeitsverhältnisse der Angestellten der Funktionsgruppe Ia zuständig.
 
 <sup>2</sup> Zuständige Behörden für die Lehrpersonen und die Fachpersonen der schulischen Dienste der kantonalen Schulen sind:
 
-- a. die Vorsteherin oder der Vorsteher der zuständigen Dienststelle für die Rektorinnen und Rektoren der Kantonsschulen, für die Schulleiterin oder den Schulleiter der Maturitätsschule für Erwachsene und für die Schulleitungen der weiteren kantonalen Schulen,
+- a. die Leiterin oder der Leiter der zuständigen Dienststelle für die Rektorinnen und Rektoren der Kantonsschulen, für die Schulleiterin oder den Schulleiter der Maturitätsschule für Erwachsene und für die Schulleitungen der weiteren kantonalen Schulen,
 - b. die Rektorinnen und Rektoren der Kantonsschulen für die weiteren Schulleitungsmitglieder,
 - c. die Schulleitungen für die Lehrpersonen und die Fachpersonen der schulischen Dienste.
 
-<sup>3</sup> Die zuständige Behörde kann die Zeichnungsbefugnis für personalrechtliche Entscheide nach den Vorschriften der Organisationsverordnung vom 22. August 1995[^66-1] intern regeln oder übertragen.
+<sup>3</sup> Die zuständigen Behörden nach Absatz 2 und nach § 66 Absatz 2 des Personalgesetzes können die Zeichnungsbefugnis für personalrechtliche Entscheide nach den Vorschriften der Organisationsverordnung (OV) vom 4. Juli 2017[^66-1] intern regeln oder übertragen.
 
 [^66-1]: SRL Nr. [36](https://srl.lu.ch/data/36/de)
 
@@ -968,7 +990,7 @@ beschliesst:
 
 <sup>1</sup> Die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^67-1] sind auf den Erlass, die Ausfertigung und die Eröffnung der personalrechtlichen Entscheide anzuwenden.
 
-<sup>2</sup> Personalrechtliche Entscheide sind nach § 110 des Gesetzes über die Verwaltungsrechtspflege auszufertigen. Entscheide über die Beendigung oder die Umgestaltung eines Arbeitsverhältnisses von Amtes wegen sind sachlich hinreichend zu begründen.
+<sup>2</sup> Personalrechtliche Entscheide sind nach § 110 des Gesetzes über die Verwaltungsrechtspflege auszufertigen. Entscheide über die einseitige Änderung oder die Beendigung eines Arbeitsverhältnisses sind sachlich hinreichend zu begründen.
 
 <sup>3</sup> Die zuständige Behörde kann auf die schriftliche Ausfertigung des personalrechtlichen Entscheids verzichten, wenn sie der oder dem Angestellten von Amtes wegen oder auf Gesuch eine Leistung zuspricht oder wenn der Entscheid zugunsten der oder des Angestellten lautet.
 
