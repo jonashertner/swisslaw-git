@@ -4,13 +4,13 @@ number: "861.1"
 title: Loi sur l’aide sociale dans le domaine de l’asile et des réfugiés
 short: LAAR
 language: fr
-version: 2020-07-01
-valid_until: 2025-12-31
-version_adopted: 2019-12-03
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2019-12-03
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/861.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1884/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3302/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1884/pdf_file"
 
 (LAAR)
 
-du 03.12.2019 (état au 01.07.2020)
+du 03.12.2019 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -427,7 +427,7 @@ arrête:
 
 #### Art. 31
 
-<sup>1</sup> Les dispositions de la loi cantonale du 19 mars 2014 sur la protection de la population et sur la protection civile (LCPPCi)[^31-1] s’appliquent en situation d’urgence.
+<sup>1</sup> Les dispositions de la loi cantonale du 11 septembre 2024 sur la protection de la population (LCPP)[^31-1] s’appliquent en situation d’urgence.
 
 [^31-1]: RSB [521.1](https://www.belex.sites.be.ch/data/521.1/fr)
 

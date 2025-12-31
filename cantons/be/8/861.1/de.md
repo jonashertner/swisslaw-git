@@ -4,13 +4,13 @@ number: "861.1"
 title: Gesetz über die Sozialhilfe im Asyl- und Flüchtlingsbereich
 short: SAFG
 language: de
-version: 2020-07-01
-valid_until: 2025-12-31
-version_adopted: 2019-12-03
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-11
 adopted: 2019-12-03
 in_force: 2020-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/861.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1884/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1884/pdf_file"
 
 (SAFG)
 
-vom 03.12.2019 (Stand 01.07.2020)
+vom 03.12.2019 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -425,7 +425,7 @@ beschliesst:
 
 #### Art. 31
 
-<sup>1</sup> In Notlagen kommen die Bestimmungen des Kantonalen Bevölkerungsschutz- und Zivilschutzgesetzes vom 19. März 2014 (KBZG)[^31-1] zur Anwendung.
+<sup>1</sup> In Notlagen kommen die Bestimmungen des Kantonalen Bevölkerungsschutzgesetzes vom 11. September 2024 (KBSG)[^31-1] zur Anwendung.
 
 [^31-1]: BSG [521.1](https://www.belex.sites.be.ch/data/521.1/de)
 
