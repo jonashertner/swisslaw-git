@@ -4,13 +4,12 @@ number: VI A/1/2
 title: Gesetz über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden
 short: "Finanzhaushaltgesetz, FHG"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-05-01
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 2009-05-03
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-A.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2322/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2588/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2322/pdf_file"
 
 (Finanzhaushaltgesetz, FHG)
 
-Vom 03.05.2009 (Stand 01.01.2023)
+Vom 03.05.2009 (Stand 01.01.2026)
 
 Die Landsgemeinde,
 
@@ -201,7 +200,7 @@ erlässt:
 
 <sup>1</sup> Der Regierungsrat bzw. der Gemeinderat erstellt jährlich den Budgetentwurf und legt ihn der Budgetbehörde zur Genehmigung vor.
 
-<sup>2</sup> Das Budget des Kantons wird jeweils bis zum 31. Dezember des dem Rechnungsjahr vorausgehenden Jahres festgelegt, das Budget der Gemeinde bis zu den in der Gemeindegesetzgebung vorgesehenen Daten. Liegt am 1. Januar noch kein rechtskräftiges Budget vor, ist der Regierungsrat bzw. der Gemeinderat ermächtigt, die für die ordentliche Staatstätigkeit notwendigen Ausgaben zu tätigen.
+<sup>2</sup> Das Budget des Kantons und der Gemeinden wird jeweils bis zum 31. Dezember des dem Rechnungsjahr vorausgehenden Jahres festgelegt. Liegt am 1. Januar noch kein rechtskräftiges Budget vor, ist der Regierungsrat bzw. der Gemeinderat ermächtigt, die für die ordentliche Staatstätigkeit notwendigen Ausgaben zu tätigen.
 
 <sup>3</sup> …
 
@@ -519,7 +518,7 @@ erlässt:
 
 <sup>3</sup> Der Rahmenkredit gibt die Ermächtigung, für mehrere in einem Programm zusammengefasste Einzelvorhaben bis zum bewilligten Betrag Verpflichtungen einzugehen.
 
-<sup>4</sup> Bedürfen Verpflichtungskredite aufgrund der Kantonsverfassung bzw. der Gemeindeordnung der besonderen Bewilligung durch die Landsgemeinde (Art. 69 KV) oder den Landrat (Art. 90 KV) bzw. durch die Gemeindeversammlung oder das Gemeindeparlament, so sind sie dem zuständigen Organ mit einem erläuternden Bericht zu unterbreiten.
+<sup>4</sup> Bedürfen Verpflichtungskredite aufgrund der Kantonsverfassung bzw. der Gemeindeordnung der besonderen Bewilligung durch die Landsgemeinde (Art. 69 KV) oder den Landrat (Art. 90 KV) bzw. durch die Stimmberechtigten oder das Gemeindeparlament, so sind sie dem zuständigen Organ mit einem erläuternden Bericht zu unterbreiten.
 
 #### Art. 43
 
