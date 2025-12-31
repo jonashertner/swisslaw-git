@@ -3,20 +3,19 @@ canton: SG
 number: "146.11"
 title: Statistikverordnung
 language: de
-version: 2016-06-01
-valid_until: 2025-12-31
-version_adopted: 2016-03-15
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2012-06-19
 in_force: 2012-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/146.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2074/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3855/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Statistikverordnung
 
-vom 19.06.2012 (Stand 01.06.2016)
+vom 19.06.2012 (Stand 01.01.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -56,7 +55,7 @@ als Verordnung:[^ingress-2]
 
 **Organisatorische Zuordnung**
 
-<sup>1</sup> Kantonale Statistikstelle ist die Fachstelle für Statistik im Volkswirtschaftsdepartement.
+<sup>1</sup> Kantonale Statistikstelle ist das Amt für Daten und Statistik im Volkswirtschaftsdepartement.
 
 #### Art. 4
 
