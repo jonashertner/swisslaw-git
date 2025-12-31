@@ -1,33 +1,38 @@
 ---
 canton: GR
 number: "915.120"
-title: Disposiziuns executivas tar la lescha da meglieraziun dal chantun Grischun
+title: "Disposiziuns executivas tar la lescha da meglieraziun dal chantun Grischun *"
 short: DEtLMG
 language: rm
-version: 2009-11-01
-corrected: 2014-10-09
-version_adopted: 2009-10-27
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2003-11-25
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/915.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1792/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3586/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Disposiziuns executivas tar la lescha da meglieraziun dal chantun Grischun
 
-sa basond sin l'art. 43 da l'ordinaziun executiva tar la lescha da meglieraziun dals 19 da november 1980[^t-1]
+(DEtLMG)
+
+dals 25-11-2003 (versiun dals 01-01-2026)
+
+sa basond sin l'art. 43 da l'ordinaziun executiva tar la lescha da meglieraziun dals 19 da november 1980[^ingress-1]
 
 relaschada da la regenza ils 25 da november 2003
 
-I. Contribuziuns d'investiziun a meglieraziuns
+[^ingress-1]: DG [915.110](https://www.gr-lex.gr.ch/data/915.110/rm)
 
-- 1\. PAJAMENTS DA CONTRIBUZIUNS A MESIRAS COMMUNABLAS[^t-2]
+## 1. Contribuziuns d'investiziun a meglieraziuns
 
-[^t-1]: DG 915.110
-[^t-2]: CS 913.1, art. 11
+### 1.1. Pajaments da contribuziuns a mesiras communablas
+
+[^t-1]
+
+[^t-1]: CS [913.1](https://db.clex.ch/link/Bund/913.1/rm), art. 11
 
 #### Art. 1
 
@@ -47,30 +52,21 @@ I. Contribuziuns d'investiziun a meglieraziuns
 
 #### Art. 3
 
-**Contribuziun da las vischnancas**
-
-<sup>1</sup> Las vischnancas ston sa participar per mesiras communablas cumplessivas[^3-1] a la contribuziun chantunala, e quai correspundentamain a lur forza finanziala sco suonda:
-
-Gruppa 1 (fitg ferma da finanzas) 20 % Gruppa 2 (ferma da finanzas) 13 % Gruppa 3 (mez ferma da finanzas) gruppas 4 – 5 (deblas da finanzas e cun dretg da gulivaziun)
-
-<sup>2</sup> La procentuala da la participaziun chantunala e communala che vegn fixada per etappa vala definitivamain per questa etappa.
-
-<sup>3</sup> Sche la confederaziun reducescha las contribuziuns sin fundament da la forza finanziala d'ina vischnanca, po la regenza desister totalmain u parzialmain d'ina participaziun da la vischnanca.
-
-[^3-1]: CS 913.1, art. 11 1-1-2010 1
-[^3-2]: integraziun tenor CR dals 27 d'october 2009; entrà en vigur il 1. da november 2009
+**…**
 
 #### Art. 3a
 
-**Termin anticipà per cumenzar cun las lavurs da construcziun**[^3-2]
+**Termin anticipà per cumenzar cun las lavurs da construcziun**
 
-<sup>1</sup> Sche la decisiun davart la garanzia da contribuziuns – per reparar donns da malaura u per exequir lavurs preparatoricas che vegnan fatgas en connex cun auters projects da construcziun surordinads – na po excepziunalmain betg vegnir prendida ordavant, po vegnir permess in termin anticipà per cumenzar cun las lavurs da construcziun.
+<sup>1</sup> Sch'i n'è excepziunalmain betg pussaivel da prender ordavant la decisiun davart la garanzia da contribuziuns per reparar donns da malaura u per exequir lavurs preparatoricas, che vegnan fatgas en connex cun auters projects da construcziun surordinads, po l'Uffizi d'agricultura e da geoinfurmaziun permetter da cumenzar anticipadamain cun las lavurs da construcziun.
 
-<sup>2</sup> Quai decida l'instanza ch'è cumpetenta per garantir la contribuziun.
+<sup>2</sup> …
 
-- 2\. PAJAMENTS DA CONTRIBUZIUNS A MESIRAS DA MANASCHIS SINGULS[^3a-1]
+### 1.2. Pajaments da contribuziuns a mesiras da manaschis singuls
 
-[^3a-1]: CS 913.1, art. 2
+[^3a-1]
+
+[^3a-1]: CS [913.1](https://db.clex.ch/link/Bund/913.1/rm), art. 2
 
 #### Art. 4
 
@@ -82,43 +78,36 @@ Gruppa 1 (fitg ferma da finanzas) 20 % Gruppa 2 (ferma da finanzas) 13 % Gruppa 
 
 <sup>3</sup> Davart in eventual import libramain disponibel fin al stgalim suprem previs per la concessiun da contribuziuns dal chantun[^4-2] da 30 pertschient po il departament disponer mo en il rom da las DEtLFC[^4-3].
 
-[^4-1]: CS 913.1
-[^4-2]: DG 915.100, art. 49
-[^4-3]: DG 710.110 2 1-1-2010
+[^4-1]: CS [913.1](https://db.clex.ch/link/Bund/913.1/rm)
+[^4-2]: DG [915.100](https://www.gr-lex.gr.ch/data/915.100/rm), art. 49
+[^4-3]: DG [710.110](https://www.gr-lex.gr.ch/data/710.110/rm)
 
-### II. Fond da meglieraziun
+## 2. Fond da meglieraziun
 
 #### Art. 5
 
-**6 % 0 %**
-
 **Ovras simplas**
 
-Sco ovras simplas en il senn da la lescha da meglieraziun valan spezialmain:
+<sup>1</sup> Sco ovras simplas en il senn da la lescha da meglieraziun valan spezialmain:
 
 - a) mesiras per proteger il terren productiv u construcziuns autas agriculas cunter devastaziun u cunter destrucziun tras eveniments da la natira;
-
 - b) reparaziun u reconstrucziun da cultira sco er d'edifizis e da stabiliments agriculs devastads u destruids tras eveniments da la natira;
-
 - c) edifizis, construcziuns autas e stabiliments agriculs;
-
 - d) mesiras per mantegnair la productivitad potenziala;
-
 - e) mesiras per levgiar la cultivaziun;
-
 - f) procuraziun da la basa e retschertgas en connex cun meglieraziuns da structura.
 
 #### Art. 6
 
 **Persunas cun dretg da contribuziuns**
 
-Contribuziuns pon vegnir pajadas a persunas natiralas e giuridicas.
+<sup>1</sup> Contribuziuns pon vegnir pajadas a persunas natiralas e giuridicas.
 
 #### Art. 7
 
 **Premissas per survegnir contribuziuns**
 
-Las contribuziuns vegnan pajadas per regla mo ad ovras, per las qualas n'èn vegnidas pajadas naginas contribuziuns ordinarias.
+<sup>1</sup> Las contribuziuns vegnan pajadas per regla mo ad ovras, per las qualas n'èn vegnidas pajadas naginas contribuziuns ordinarias.
 
 #### Art. 8
 
@@ -134,40 +123,30 @@ Las contribuziuns vegnan pajadas per regla mo ad ovras, per las qualas n'èn veg
 
 **Dumonda**
 
-<sup>1</sup>[^9-1]La dumonda da contribuziun sto vegnir inoltrada avant il cumenzament da las lavurs cun ils documents necessaris a l'uffizi d'agricultura e da geoinfurmaziun.
+<sup>1</sup> La dumonda da contribuziun sto vegnir inoltrada avant il cumenzament da las lavurs cun ils documents necessaris a l'uffizi d'agricultura e da geoinfurmaziun.
 
 <sup>2</sup> Per lavurs gia exequidas na vegnan pajadas naginas contribuziuns.
-
-[^9-1]: versiun tenor l'agiunta 2 OORA; CUL 2006, FUC 2006, 4303; entrà en vigur il 1. da schaner 2007 1-1-2010 3
 
 #### Art. 10
 
 **Pajament**
 
-Contribuziuns garantidas vegnan pajadas suenter la finiziun da las lavurs. Tar lavurs a lung termin pon vegnir fatgs pajaments parzials.
+<sup>1</sup> Contribuziuns garantidas vegnan pajadas suenter la finiziun da las lavurs. Tar lavurs a lung termin pon vegnir fatgs pajaments parzials.
 
-[^10-1]: integraziun tenor CR dals 27 d'october 2009; entrà en vigur il 1. da november 2009
-
-### III. Ulteriuras disposiziuns
-
-[^10-1]
-
-[^hIIIUlteriurasdisp-1]: integraziun tenor CR dals 27 d'october 2009; entrà en vigur il 1. da november 2009
+## 3. Ulteriuras disposiziuns
 
 #### Art. 10a
 
-**Indrizs dal traffic betg motorisà**[^hIIIUlteriurasdisp-1]
+**Indrizs dal traffic betg motorisà**
 
-Adattaziuns e transfurmaziuns d'indrizs dal traffic betg motorisà che vegnan fatgas en il rom da projects da meglieraziun communabels, pon vegnir realisadas cun l'approvaziun dal project d'exposiziun.
+<sup>1</sup> Adattaziuns e transfurmaziuns d'indrizs dal traffic betg motorisà che vegnan fatgas en il rom da projects da meglieraziun communabels, pon vegnir realisadas cun l'approvaziun dal project d'exposiziun.
 
-[^10a-1]: versiun tenor CR dals 27 d'october 2009; entrà en vigur il 1. da november 2009 4 1-1-2010
-
-### IV. Disposiziuns finalas
-
-[^10a-1]
+## 4. Disposiziuns finalas
 
 #### Art. 11
 
 **Entrada en vigur**
 
-Questas disposiziuns executivas entran en vigur il 1. da schaner 2004.
+<sup>1</sup> Questas disposiziuns executivas entran en vigur il 1. da schaner 2004.
+
+-
