@@ -2,24 +2,23 @@
 canton: GR
 number: "630.000"
 title: Legge sulla protezione della popolazione del Cantone dei Grigioni
-short: Legge sulla protezione della popolazione; LCPP
+short: "Legge sulla protezione della popolazione, LCPP"
 language: it
-version: 2016-01-01
-corrected: 2018-01-10
-version_adopted: 2015-06-17
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2015-06-17
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/630.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2612/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3607/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulla protezione della popolazione del Cantone dei Grigioni
 
-(Legge sulla protezione della popolazione; LCPP)
+(Legge sulla protezione della popolazione, LCPP)
 
-del 17.06.2015 (stato 01.01.2016)
+del 17.06.2015 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -90,7 +89,7 @@ decide:
 
 **Stato maggiore di condotta comunale**
 
-<sup>1</sup> Per far fronte a situazioni particolari e straordinarie i comuni istituiscono uno Stato maggiore.
+<sup>1</sup> Per far fronte a situazioni particolari e straordinarie i comuni istituiscono uno Stato maggiore di condotta comunale o intercomunale.
 
 <sup>2</sup> Essi ne descrivono i compiti e le competenze in un mansionario e provvedono alla formazione dei membri dello Stato maggiore di condotta comunale.
 
@@ -111,11 +110,13 @@ decide:
 - a) trasferire la direzione generale d'intervento allo Stato maggiore di condotta cantonale anche durante la fase acuta di eventi relativi a situazioni particolari;
 - b) trasferire la gestione di eventi sovracantonali a un altro Cantone, con il consenso di quest'ultimo.
 
-<sup>4</sup> Lo Stato maggiore di condotta cantonale viene diretto come segue:
+<sup>4</sup> La condotta dello Stato maggiore di condotta cantonale spetta al capo dell'ufficio competente per la protezione della popolazione.
 
-- a) nella fase di prevenzione dall'Ufficio competente per la protezione della popolazione;
-- b) nella fase acuta dalla Polizia cantonale;
-- c) nella fase di ripristino dall'Ufficio competente per la protezione della popolazione.
+- a) …
+- b) …
+- c) …
+
+<sup>5</sup> Se un evento richiede l'intervento della Polizia cantonale, a quest'ultima spetta la condotta dello Stato maggiore di condotta cantonale nella fase acuta fino a quando essa viene rilevata dall'ufficio competente per la protezione della popolazione.
 
 ## 3. Prevenzione di situazioni particolari e straordinarie
 
@@ -285,7 +286,7 @@ decide:
 
 **3. Polizia**
 
-<sup>1</sup> La Polizia cantonale adotta o dispone misure di protezione e di salvataggio immediate e dirige lo Stato maggiore di condotta cantonale.
+<sup>1</sup> La Polizia cantonale adotta o dispone misure di protezione e di salvataggio immediate e rileva la condotta dello Stato maggiore di condotta cantonale nella fase acuta fino a quando essa viene rilevata dall'ufficio competente per la protezione della popolazione.
 
 #### Art. 18
 

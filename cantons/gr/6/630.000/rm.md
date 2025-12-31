@@ -4,13 +4,12 @@ number: "630.000"
 title: Lescha davart la protecziun da la populaziun en il chantun Grischun
 short: "lescha davart la protecziun da la populaziun, LPPC"
 language: rm
-version: 2016-01-01
-corrected: 2018-01-10
-version_adopted: 2015-06-17
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2015-06-17
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/630.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2612/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2612/pdf_file"
 
 (lescha davart la protecziun da la populaziun, LPPC)
 
-dals 17-06-2015 (versiun dals 01-01-2016)
+dals 17-06-2015 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -90,7 +89,7 @@ concluda:
 
 **Stab directiv communal**
 
-<sup>1</sup> Per dumagnar situaziuns spezialas ed extraordinarias nomineschan las vischnancas in stab directiv.
+<sup>1</sup> Per dumagnar situaziuns spezialas ed extraordinarias nomineschan las vischnancas in stab directiv communal u intercommunal.
 
 <sup>2</sup> Ellas circumscrivan las incumbensas e las cumpetenzas dal stab directiv en in carnet d'obligaziuns e procuran per la scolaziun da las commembras e dals commembers dal stab directiv communal.
 
@@ -111,11 +110,13 @@ concluda:
 - a) surdar la direcziun generala da l'acziun durant la fasa acuta er en cas d'eveniments spezials al stab directiv chantunal;
 - b) surdar da dumagnar eveniments interchantunals ad in auter chantun cun ses consentiment.
 
-<sup>4</sup> Il stab directiv chantunal vegn manà sco suonda:
+<sup>4</sup> La direcziun dal Stab directiv chantunal è chaussa da la manadra u dal manader da l'uffizi ch'è cumpetent per la protecziun da la populaziun.
 
-- a) en la prevenziun: tras l'uffizi ch'è cumpetent per la protecziun da la populaziun;
-- b) en la fasa acuta: tras la polizia chantunala;
-- c) en la fasa da restabiliment: tras l'uffizi ch'è cumpetent per la protecziun da la populaziun.
+- a) …
+- b) …
+- c) …
+
+<sup>5</sup> Sch'in eveniment pretenda l'acziun da la Polizia chantunala, sto quella diriger il Stab directiv chantunal en la fasa acuta, fin che l'uffizi ch'è cumpetent per la protecziun da la populaziun surpiglia la direcziun.
 
 ## 3. Prevenziun per situaziuns spezialas ed extraordinarias
 
@@ -285,7 +286,7 @@ concluda:
 
 **3. polizia**
 
-<sup>1</sup> La polizia chantunala prenda u promova mesiras da protecziun e da salvament immediatas e dirigia il stab directiv chantunal.
+<sup>1</sup> La Polizia chantunala prenda u ordinescha mesiras da protecziun e da salvament immediatas e dirigia il Stab directiv chantunal en la fasa acuta, fin che l'uffizi ch'è cumpetent per la protecziun da la populaziun surpiglia la direcziun.
 
 #### Art. 18
 

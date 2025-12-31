@@ -2,24 +2,23 @@
 canton: GR
 number: "630.000"
 title: Gesetz über den Bevölkerungsschutz des Kantons Graubünden
-short: Bevölkerungsschutzgesetz; BSG
+short: "Bevölkerungsschutzgesetz, BSG"
 language: de
-version: 2016-01-01
-corrected: 2018-01-10
-version_adopted: 2015-06-17
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 2015-06-17
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/630.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2612/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3607/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über den Bevölkerungsschutz des Kantons Graubünden
 
-(Bevölkerungsschutzgesetz; BSG)
+(Bevölkerungsschutzgesetz, BSG)
 
-Vom 17.06.2015 (Stand 01.01.2016)
+Vom 17.06.2015 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -90,7 +89,7 @@ beschliesst:
 
 **Gemeindeführungsstab**
 
-<sup>1</sup> Die Gemeinden setzen für die Bewältigung von besonderen und ausserordentlichen Lagen einen Führungsstab ein.
+<sup>1</sup> Die Gemeinden setzen für die Bewältigung von besonderen und ausserordentlichen Lagen einen kommunalen oder interkommunalen Führungsstab ein.
 
 <sup>2</sup> Sie umschreiben dessen Aufgaben und Kompetenzen in einem Pflichtenheft und sorgen für die Ausbildung der Mitglieder des Gemeindeführungsstabes.
 
@@ -111,11 +110,13 @@ beschliesst:
 - a) die Gesamteinsatzleitung auch bei Ereignissen der besonderen Lage während der Akutphase dem kantonalen Führungsstab übertragen;
 - b) bei kantonsübergreifenden Ereignissen die Bewältigung mit dessen Einverständnis einem anderen Kanton übertragen.
 
-<sup>4</sup> Der kantonale Führungsstab wird wie folgt geführt:
+<sup>4</sup> Die Führung des kantonalen Führungsstabs obliegt der Leiterin oder dem Leiter des für den Bevölkerungsschutz zuständigen Amts.
 
-- a) in der Vorsorge durch das für den Bevölkerungsschutz zuständige Amt;
-- b) in der Akutphase durch die Kantonspolizei;
-- c) in der Wiederherstellungsphase durch das für den Bevölkerungsschutz zuständige Amt.
+- a) …
+- b) …
+- c) …
+
+<sup>5</sup> Erfordert ein Ereignis den Einsatz der Kantonspolizei, obliegt dieser die Führung des kantonalen Führungsstabs in der Akutphase, bis sie vom für den Bevölkerungsschutz zuständigen Amt übernommen wird.
 
 ## 3. Vorsorge für besondere und ausserordentliche Lagen
 
@@ -285,7 +286,7 @@ beschliesst:
 
 **3. Polizei**
 
-<sup>1</sup> Die Kantonspolizei ergreift oder veranlasst sofortige Schutz- und Rettungsmassnahmen und leitet den kantonalen Führungsstab.
+<sup>1</sup> Die Kantonspolizei ergreift oder veranlasst sofortige Schutz- und Rettungsmassnahmen und übernimmt die Führung des kantonalen Führungsstabs in der Akutphase, bis diese vom für den Bevölkerungsschutz zuständigen Amt übernommen wird.
 
 #### Art. 18
 
