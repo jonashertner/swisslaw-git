@@ -3,20 +3,19 @@ canton: GL
 number: III D/1/1
 title: Verordnung zum Gesetz über die Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
 language: de
-version: 2014-09-01
-valid_until: 2025-12-31
-version_adopted: 2014-07-03
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2006-03-21
 in_force: 2006-05-07
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-D.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/1685/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2627/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Einführung des Bundesgesetzes über Schuldbetreibung und Konkurs
 
-Vom 21.03.2006 (Stand 01.09.2014)
+Vom 21.03.2006 (Stand 01.01.2026)
 
 Der Regierungsrat,
 
@@ -52,6 +51,16 @@ verordnet:
 <sup>1</sup> Das Betreibungs- und Konkursamt besorgt seine Rechnungsführung selbst.
 
 <sup>2</sup> Die Rechnungsführung ist jährlich durch die Finanzkontrolle des Kantons zu prüfen; sie erstellt einen Bericht zuhanden der kantonalen administrativen Aufsichtsbehörde.
+
+#### Art. 2a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Das Informationssystem des Betreibungsamtes darf zum Zweck einer vollständigen und aktuellen Datenhaltung mittels automatischem Abgleichverfahren mit der kantonalen Datenplattform der Einwohnerregister (Geres) verknüpft werden.
+
+<sup>2</sup> Der automatisierte Zugriff und Abgleich betrifft die Personendaten der Merkmalsgruppen 1–4 gemäss Anhang der Verordnung zum Betrieb einer kantonalen Datenplattform gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz[^2a-1].
+
+[^2a-1]: GS [I C/21/3](https://gesetze.gl.ch/data/I-C.21.3/de)
 
 #### Art. 3
 
