@@ -4,13 +4,12 @@ number: IV B/6/2
 title: Verordnung zum Gesetz über die musikalische Bildung
 short: "Musikschulverordnung, MSV"
 language: de
-version: 2022-08-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-28
+version: 2026-01-01
+version_adopted: 2025-09-30
 adopted: 2022-06-28
 in_force: 2022-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.6.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2330/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2330/pdf_file"
 
 (Musikschulverordnung, MSV)
 
-Vom 28.06.2022 (Stand 01.08.2022)
+Vom 28.06.2022 (Stand 01.01.2026)
 
 Der Regierungsrat,
 
@@ -38,6 +37,14 @@ erlässt:
 <sup>1</sup> Diese Verordnung führt die gesetzlichen Bestimmungen zum Musikschulunterricht weiter aus.
 
 <sup>2</sup> Sie regelt insbesondere den beitragsberechtigten Musikschulunterricht, die Beitragsleistungen des Kantons sowie die Aufsicht über die Anbieterinnen und Anbieter von Musikschulunterricht (Musikschulen).
+
+#### Art. 1a
+
+**Zuständigkeiten**
+
+<sup>1</sup> Das Departement Bildung und Kultur ist das zuständige Departement.
+
+<sup>2</sup> Die Hauptabteilung Kultur ist die zuständige Hauptabteilung.
 
 ## 2. Musikschulunterricht
 
@@ -75,6 +82,10 @@ erlässt:
 - b. zur Förderung einer besonderen Begabung.
 
 <sup>3</sup> Der Regierungsrat legt den beitragsberechtigten Unterricht nach Absatz 2 Buchstabe b in den Leistungsvereinbarungen mit den Musikschulen fest.
+
+<sup>4</sup> Für die Begabtenförderung nach der eidgenössischen Gesetzgebung gilt die Verordnung des EDI über das Förderungskonzept zum Programm «Junge Talente Musik»[^4-1]. Das Departement regelt das Weitere. Es besteht kein Rechtsanspruch auf die Beiträge.
+
+[^4-1]: SR 442.133
 
 #### Art. 5
 
@@ -168,11 +179,11 @@ erlässt:
 
 **Abrechnungsverfahren**
 
-<sup>1</sup> Die Musikschulen reichen der zuständigen Fachstelle bis Ende August ihre Daten für das vergangene Schuljahr ein.
+<sup>1</sup> Die Musikschulen reichen der zuständigen Hauptabteilung bis Ende August ihre Daten für das vergangene Schuljahr ein.
 
 <sup>2</sup> Die Ausrichtung der Beitragspauschalen erfolgt auf Basis der gemeldeten Daten.
 
-<sup>3</sup> Die Fachstelle kann Akontozahlungen leisten, wenn dies zur Sicherung der Liquidität der Musikschulen erforderlich ist.
+<sup>3</sup> Die Hauptabteilung kann Akontozahlungen leisten, wenn dies zur Sicherung der Liquidität der Musikschulen erforderlich ist.
 
 #### Art. 14
 
