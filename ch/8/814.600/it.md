@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2015 sulla prevenzione e lo smaltimento dei rif
 short: OPSR
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: it
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/it"
 
 (Ordinanza sui rifiuti, OPSR)
 
-del 4 dicembre 2015 (Stato 1° dicembre 2025)
+del 4 dicembre 2015 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -851,9 +851,9 @@ L’asfalto di demolizione con un tenore di PAH superiore a 250 mg al kg può es
 
 **Cenere di legno**[^52a-1]
 
-Ceneri e polveri dei filtri derivanti dal trattamento termico di legna che secondo l’allegato 5 numero 31 capoverso 2 dell’ordinanza del 16 dicembre 1985[^52a-2] contro l’inquinamento atmosferico (OIAt) non è considerata legna da ardere possono essere depositate presso discariche di tipo D ed E (all. 5 n. 4.1 e 5.1) fino al 31 dicembre 2025.
+Ceneri e polveri dei filtri derivanti dal trattamento termico di legna che secondo l’allegato 5 numero 31 capoverso 2 dell’ordinanza del 16 dicembre 1985[^52a-2] contro l’inquinamento atmosferico (OIAt) non è considerata legna da ardere possono essere depositate presso discariche di tipo D ed E (all. 5 n. 4.1 e 5.1) fino al 31 dicembre 2033.
 
-[^52a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nuovo testo giusta la cifra I dell’O del 23 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^52a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018 ([RU 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
 [^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 52b
@@ -888,10 +888,11 @@ Il tenore di diossine (PCDD) e furani (PCDF) nei residui prodotti dal trattament
 
 <sup>2</sup> L’obbligo di cui all’articolo 32 capoverso 2 lettera a di impiegare almeno il 55 per cento del contenuto energetico di rifiuti urbani e di rifiuti di composizione analoga in impianti per il trattamento termico vige dal 1° gennaio 2026. Su richiesta, l’UFAM può concedere deroghe al Cantone e ai gestori per gli impianti che saranno disattivati entro il 31 dicembre 2035.[^54-1]
 
-<sup>3</sup> L’obbligo di cui all’articolo 32 capoverso 2 lettera g di recuperare i metalli dalle ceneri dei filtri di impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga vige dal 1° gennaio 2026. Fino a tal momento le ceneri dei filtri possono essere depositate, senza recupero dei metalli, in discariche o compartimenti di tipo C se legate con leganti idraulici, a condizione che siano state utilizzate tutte le capacità di trattamento disponibili per il recupero.[^54-2]
+<sup>3</sup> L’obbligo di cui all’articolo 32 capoverso 2 lettera g di recuperare i metalli dalle ceneri dei filtri di impianti in cui vengono inceneriti rifiuti urbani o altri rifiuti di composizione analoga vige dal 1° gennaio 2028.[^54-2] Fino a tal momento le ceneri dei filtri possono essere depositate, senza recupero dei metalli, in discariche o compartimenti di tipo C se legate con leganti idraulici, a condizione che siano state utilizzate tutte le capacità di trattamento disponibili per il recupero.[^54-3]
 
 [^54-1]: Nuovo testo giusta la cifra I dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
-[^54-2]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+[^54-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
+[^54-3]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
 
 #### Art. 54a
 

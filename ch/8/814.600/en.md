@@ -4,11 +4,11 @@ title: "Ordinance of 4 December 2015 on the Avoidance and the Disposal of Waste 
 short: ADWO
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: en
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Waste Ordinance, ADWO)
 
-of 4 December 2015 (Last amended on 1 December 2025)
+of 4 December 2015 (Last amended on 1 January 2026)
 
 The Swiss Federal Council,
 
-on the basis of Articles 29, 30*a* letter c, 30*b* paragraph 1, 30*c* paragraph 3, 30*d* paragraphs 4 and 7, 30*h* paragraph 1, 39 paragraph 1, 45 and 46 paragraph 2 of the Environmental Protection Act of 7 October 1983[^ingress-1] (EPA), and Articles 9 paragraph 2 letter c, 16 letter c and 47 paragraph 1 of the Waters Protection Act from 24 January 1991[^ingress-2],[^ingress-3]
+based on Articles 29, 30*a* letter c, 30*b* paragraph 1, 30*c* paragraph 3, 30*d* paragraphs 4 and 7, 30*h* paragraph 1, 39 paragraph 1, 45 and 46 paragraph 2 of the Environmental Protection Act of 7 October 1983[^ingress-1] (EPA), and Articles 9 paragraph 2 letter c, 16 letter c and 47 paragraph 1 of the Waters Protection Act of 24 January 1991[^ingress-2],[^ingress-3]
 
 ordains:
 
@@ -300,11 +300,11 @@ Biogenic waste must be recovered solely by recycling or by fermentation, provide
 
 The cantonal authority shall submit an annual report to the FOEN on:
 
-- a. the quantities of sewage sludge dry matter and animal and bone meal that were used for phosphorus recovery;
+- a. the quantities of sewage sludge dry matter and animal and bone meal that were recycled for phosphorus recovery;
 - b. the quantity of phosphorus recovered; and
 - c. the quantities of sewage sludge dry matter and animal and bone meal that were recycled for material and energy recovery or energy recovery alone.
 
-<sup>2</sup> Every 8–10 years, the FOEN, in consultation with the cantons and industries, shall review the adequacy of the quantity of phosphorus to be recovered in accordance with Article 15*a* paragraphs 2 and 3; it shall propose appropriate measures to DETEC.
+<sup>2</sup> Every 8–10 years, the FOEN, in consultation with the cantons and industry, shall review the adequacy of the quantity of phosphorus to be recovered in accordance with Article 15*a* paragraphs 2 and 3; it shall propose appropriate measures to DETEC.
 
 [^15c-1]: Inserted by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
@@ -820,9 +820,9 @@ The amendment of other legislation is regulated in Annex 6.
 
 ### Section 3 Transitional Provisions
 
-#### Art. 49
+#### Art. 49 and 50
 
-**und **50**[^4950-1]**
+[^4950-1]
 
 [^4950-1]: Repealed by No I of the O of 29 Oct. 2025, with effect from 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
@@ -834,7 +834,7 @@ The amendment of other legislation is regulated in Annex 6.
 
 <sup>2</sup> From this point onwards, producers of sewage sludge and animal and bone meal must provide the competent cantonal authority with the proof required under Article 15*b*.
 
-[^51-1]: Amended by No I of the O of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^51-1]: Amended by No I of the O of 29 October 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
 
 #### Art. 52
 
@@ -858,9 +858,9 @@ Excavated asphalt containing more than 250 mg PAH per kg may be recovered in the
 
 **Wood ash**[^52a-1]
 
-Filter ash and dust from the incineration of wood that is not wood fuel as defined in Annex 5 number 31 paragraph 2 of the Air Pollution Control Ordinance of 16 December 1985[^52a-2] (OAPC) may be deposited until 31 December 2025in landfills of types D and E (Annex 5 Nos 4.1 and 5.1).
+Filter ash and dust from the incineration of wood that is not wood fuel as defined in Annex 5 number 31 paragraph 2 of the Air Pollution Control Ordinance of 16 December 1985[^52a-2] (OAPC) may be deposited until 31 December 2033in landfills of types D and E (Annex 5 Nos 4.1 and 5.1).
 
-[^52a-1]: Inserted by No I of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Amended by No I of the O of 23 Feb. 2022, in force since 1 April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^52a-1]: Inserted by No I of the O of 21 Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Amended by No I of the O of 26 Nov. 2025, in force since 1 Jan. 2026 ([AS 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
 [^52a-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 52b
@@ -895,10 +895,11 @@ Residues from the incineration of waste shall have as low a content of dioxins (
 
 <sup>2</sup> The duty under Article 32 paragraph 2 letter a to use at least 55 per cent of the energy content of municipal waste and waste of similar composition in facilities for the incineration of waste applies from 1 January 2026. For facilities that will be decommissioned by 31 December 2035, the FOEN may grant exemptions to the canton and the operator on request.[^54-1]
 
-<sup>3</sup> The duty under Article 32 paragraph 2 letter g to recover metals from filter ash produced in the treatment of municipal waste and waste of similar composition applies from 1 January 2026. Until that date, filter ash may be deposited in hydraulically bound form without the recovery of metals in Type C landfills or compartments provided there are no available treatment capacities for recovery.[^54-2]
+<sup>3</sup> The duty under Article 32 paragraph 2 letter g to recover metals from filter ash produced in the treatment of municipal waste and waste of similar composition applies from 1 January 2028.[^54-2] Until that date, filter ash may be deposited in hydraulically bound form without the recovery of metals in Type C landfills or compartments provided there are no available treatment capacities for recovery.[^54-3]
 
 [^54-1]: Amended by No I of the O of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
-[^54-2]: Amended by No I of the O of 11 Dec. 2020, in force since 1 Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+[^54-2]: Amended by No I of the O of 26 Nov. 2025, in force since 1 Jan. 2026 ([AS 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
+[^54-3]: Amended by No I of the O of 11 Dec. 2020, in force since 1 Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
 
 #### Art. 54a
 
@@ -1030,8 +1031,8 @@ Annex 1[^t-1]
 </table>
 
 [^annex1-lvlu1-1]: Excavation material that does not meet the requirements of Annex 3 number 2.
-[^annex1-lvlu1-2]: Excavation material that meets the requirements of Annex 3 number 1.
-[^annex1-lvlu1-3]: Excavation material that meets the requirements of Annex 3 number 2.
+[^annex1-lvlu1-2]: Excavated material that meets the requirements of Annex 3 number 1.
+[^annex1-lvlu1-3]: Excavated material that meets the requirements of Annex 3 number 2.
 
 Annex 2[^t-2]
 
@@ -1241,7 +1242,7 @@ Annex 4[^t-4]
 
 ## Requirements applicable to waste from the production of cement and concrete
 
-[^t-4]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), No III of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)), No II of 25 June 2025([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)) and of 29 Oct. 2025, in force since 1 Dec. 2025 ([AS 2025 745](https://fedlex.data.admin.ch/eli/oc/2025/745)).
+[^t-4]: Revised by No II of the O of 12 Feb. 2020 ([AS 2020 801](https://fedlex.data.admin.ch/eli/oc/2020/147)), No III of the O of 20 Oct. 2021 ([AS 2021 632](https://fedlex.data.admin.ch/eli/oc/2021/632)) and No II of 25 June 2025, in force since 1 Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
 
 ### 1 Using waste as a raw material and as a corrective substance to raw meal
 

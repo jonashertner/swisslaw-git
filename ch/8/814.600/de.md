@@ -4,11 +4,11 @@ title: "Verordnung vom 4. Dezember 2015 über die Vermeidung und die Entsorgung 
 short: VVEA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: de
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/de"
 
 (Abfallverordnung, VVEA)
 
-vom 4. Dezember 2015 (Stand am 1. Dezember 2025)
+vom 4. Dezember 2015 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -856,9 +856,9 @@ Ausbauasphalt mit einem Gehalt von mehr als 250 mg PAK pro kg darf im Rahmen von
 
 **Holzasche**[^52a-1]
 
-Filteraschen und -stäube aus der thermischen Behandlung von Holz, welches gemäss Anhang 5 Ziffer 31 Absatz 2 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^52a-2] (LRV) nicht als Holzbrennstoff gilt, dürfen bis 31. Dezember 2025auf Deponien der Typen D und E (Anhang 5 Ziffer 4.1 und 5.1) abgelagert werden.
+Filteraschen und -stäube aus der thermischen Behandlung von Holz, welches gemäss Anhang 5 Ziffer 31 Absatz 2 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^52a-2] (LRV) nicht als Holzbrennstoff gilt, dürfen bis 31. Dezember 2033 auf Deponien der Typen D und E (Anhang 5 Ziffer 4.1 und 5.1) abgelagert werden.
 
-[^52a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Fassung gemäss Ziff. I der V vom 23. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^52a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018 ([AS 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
 [^52a-2]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 52b
@@ -893,10 +893,11 @@ Rückstände aus der thermischen Behandlung von Abfällen sollen so wenig an Dio
 
 <sup>2</sup> Die Pflicht nach Artikel 32 Absatz 2 Buchstabe a zur Nutzung von mindestens 55 Prozent des Energiegehalts von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung in Anlagen zur thermischen Behandlung von Abfällen gilt ab dem 1. Januar 2026. Für Anlagen, die bis zum 31. Dezember 2035 stillgelegt werden, kann das BAFU dem Kanton und dem Betreiber oder der Betreiberin auf Gesuch Ausnahmen gewähren.[^54-1]
 
-<sup>3</sup> Die Pflicht nach Artikel 32 Absatz 2 Buchstabe g zur Rückgewinnung von Metallen aus Filterasche, die bei der Behandlung von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung anfällt, gilt ab dem 1. Januar 2026. Filterasche darf bis zu diesem Zeitpunkt ohne Rückgewinnung von Metallen in hydraulisch gebundener Form auf Deponien oder Kompartimenten des Typs C abgelagert werden, sofern die vorhandenen Behandlungskapazitäten für die Rückgewinnung ausgelastet sind.[^54-2]
+<sup>3</sup> Die Pflicht nach Artikel 32 Absatz 2 Buchstabe g zur Rückgewinnung von Metallen aus Filterasche, die bei der Behandlung von Siedlungsabfällen und Abfällen vergleichbarer Zusammensetzung anfällt, gilt ab dem 1. Januar 2028.[^54-2] Filterasche darf bis zu diesem Zeitpunkt ohne Rückgewinnung von Metallen in hydraulisch gebundener Form auf Deponien oder Kompartimenten des Typs C abgelagert werden, sofern die vorhandenen Behandlungskapazitäten für die Rückgewinnung ausgelastet sind.[^54-3]
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
-[^54-2]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+[^54-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
+[^54-3]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
 
 #### Art. 54a
 
@@ -1395,7 +1396,7 @@ Anhang 4[^t-4]
   - g. Elektroofenschlacke, die aus der Herstellung von un- oder niedriglegierten Stählen nach 1989 stammt;
   - h. Beton- und Mischabbruch sowie deren verwertbare Fraktionen.
 
-- 3\.2 Bei der Herstellung von Zement dürfen ausserdem Stäube aus der Abluftfilterung von Anlagen zur Herstellung von Zementklinker als Zumahl- oder Zuschlagstoffe verwendet werden, wenn der Schwermetallgehalt des hergestellten Zements die folgenden Grenzwerde nicht überschreitet:
+- 3\.2 Bei der Herstellung von Zement dürfen ausserdem Stäube aus der Abluftfilterung von Anlagen zur Herstellung von Zementklinker als Zumahl- oder Zuschlagstoffe verwendet werden, wenn der Schwermetallgehalt des hergestellten Zements die folgenden Grenzwerte nicht überschreitet:
 
 <table>
 <tr><td>Stoff</td><td>mg/kg</td></tr>

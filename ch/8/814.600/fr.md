@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2015 sur la limitation et l'élimination des d
 short: OLED
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/891"
 language: fr
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2015-12-04
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20251201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/891/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-891-20260101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/891/20251201/fr"
 
 (Ordonnance sur les déchets, OLED)
 
-du 4 décembre 2015 (État le 1<sup>er</sup> décembre 2025)
+du 4 décembre 2015 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -852,9 +852,9 @@ Les matériaux bitumineux de démolition dont la teneur en HAP dépasse 250 mg p
 
 **Cendres de bois**[^52a-1]
 
-Les cendres volantes et les poussières de filtres issues du traitement thermique de bois qui n’est pas réputé bois de chauffage en vertu de l’annexe 5, ch. 31, al. 2, de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^52a-2] peuvent être stockées définitivement dans des décharges de type D ou E (annexe 5, ch. 4.1 et 5.1) jusqu’au 31 décembre 2025.
+Les cendres volantes et les poussières de filtres issues du traitement thermique de bois qui n’est pas réputé bois de chauffage en vertu de l’annexe 5, ch. 31, al. 2, de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^52a-2] peuvent être stockées définitivement dans des décharges de type D ou E (annexe 5, ch. 4.1 et 5.1) jusqu’au 31 décembre 2033.
 
-[^52a-1]: Introduit par le ch. I de l’O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nouvelle teneur selon le ch. I de l’O du 23 fév. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 161](https://fedlex.data.admin.ch/eli/oc/2022/161)).
+[^52a-1]: Introduit par le ch. I de l’O du 21 sept. 2018 ([RO 2018 3515](https://fedlex.data.admin.ch/eli/oc/2018/571)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
 [^52a-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
 
 #### Art. 52b
@@ -889,10 +889,11 @@ Les résidus du traitement thermique des déchets doivent contenir aussi peu de 
 
 <sup>2</sup> L’obligation énoncée à l’art. 32, al. 2, let. a, d’exploiter au moins 55 % du potentiel énergétique des déchets urbains et des déchets de composition analogue dans des installations de traitement thermique des déchets s’applique à partir du 1<sup>er</sup> janvier 2026. Pour les installations qui seront mises à l’arrêt d’ici au 31 décembre 2035, l’OFEV peut accorder, sur demande, une dérogation au canton et à l’exploitant.[^54-1]
 
-<sup>3</sup> L’obligation énoncée à l’art. 32, al. 2, let. g, de récupérer les métaux contenus dans les cendres volantes résultant du traitement des déchets urbains et des déchets de composition analogue s’applique à partir du 1<sup>er</sup> janvier 2026. Jusqu’à cette date, les cendres volantes peuvent être stockées définitivement, sous une forme conglomérée par des liants hydrauliques, dans des décharges ou des compartiments du type C sans récupération des métaux, à condition que les capacités de traitement disponibles pour la récupération soient toutes épuisées.[^54-2]
+<sup>3</sup> L’obligation énoncée à l’art. 32, al. 2, let. g, de récupérer les métaux contenus dans les cendres volantes résultant du traitement des déchets urbains et des déchets de composition analogue s’applique à partir du 1<sup>er</sup> janvier 2028.[^54-2] Jusqu’à cette date, les cendres volantes peuvent être stockées définitivement, sous une forme conglomérée par des liants hydrauliques, dans des décharges ou des compartiments du type C sans récupération des métaux, à condition que les capacités de traitement disponibles pour la récupération soient toutes épuisées.[^54-3]
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 453](https://fedlex.data.admin.ch/eli/oc/2025/453)).
-[^54-2]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
+[^54-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 799](https://fedlex.data.admin.ch/eli/oc/2025/799)).
+[^54-3]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6283](https://fedlex.data.admin.ch/eli/oc/2020/1029)).
 
 #### Art. 54a
 
