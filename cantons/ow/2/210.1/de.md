@@ -4,13 +4,13 @@ number: "210.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2022-04-01
-valid_until: 2025-12-31
-version_adopted: 2022-01-27
+version: 2026-01-01
+valid_until: 2026-02-28
+version_adopted: 2025-10-23
 adopted: 1911-04-30
 in_force: 1912-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/210.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1939/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1950/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1939/pdf_file"
 
 (EG ZGB)
 
-vom 30.04.1911 (Stand 01.04.2022)
+vom 30.04.1911 (Stand 01.01.2026)
 
 Die Landsgemeinde des Kantons Unterwalden ob dem Wald,
 
@@ -993,7 +993,7 @@ erlässt folgendes Gesetz:
 - k. Einführung des Grundbuches (Art. 38 ff. SchlT ZGB);
 - l. Durchführung des öffentlichen Bereinigungsverfahrens (976c).
 
-<sup>3</sup> Das Grundbuchamt veröffentlicht im Amtsblatt, ausgenommen in der elektronischen Fassung im Internet, den Erwerb von Grundstücken.
+<sup>3</sup> Das Grundbuchamt veröffentlicht im Amtsblatt den Erwerb von Grundstücken.
 
 <sup>4</sup> Die Mitarbeiter des Grundbuchamts und der Grundbuchbereinigung sind gegenüber dem Kanton für den Schaden verantwortlich, der durch ihr Verschulden in der Grundbuchführung entsteht.
 
@@ -1227,6 +1227,8 @@ geändert durch:
 
 \- Nachtrag vom 27. Januar 2022 (OGS 2022, 2), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 2. Dezember 2021 und 27. Januar 2022 (22.21.05), in Kraft seit 1. April 2022 (OGS 2022, 4),
 
-\- Nachtrag vom 27. Januar 2022 (OGS 2022, 1), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 2. Dezember 2021 und 27. Januar 2022 (22.21.04), in Kraft seit 1. April 2022 (OGS 2022, 5)
+\- Nachtrag vom 27. Januar 2022 (OGS 2022, 1), Botschaft und Vorlage des Regierungsrats vom 7. April 2020, Kantonsratssitzungen vom 2. Dezember 2021 und 27. Januar 2022 (22.21.04), in Kraft seit 1. April 2022 (OGS 2022, 5),
+
+\- das Gesetz über das Amtsblatt und die Gesetzessammlungen vom 23. Oktober 2025 (OGS 2025, 18), Botschaft und Vorlage des Regierungsrats vom 3. Juni 2005, Kantonsratssitzungen vom 11. September und 23. Oktober 2025 (22.25.04), in Kraft seit 1. Januar 2026 (OGS 2025, 23)
 
 OGS 1922, 6
