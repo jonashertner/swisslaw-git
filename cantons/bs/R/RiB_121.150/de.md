@@ -3,13 +3,12 @@ canton: BS
 number: RiB 121.150
 title: Reglement über die Erhebung von Gebühren im Einbürgerungsverfahren
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-05-06
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2018-11-23
 in_force: 2019-02-21
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiB%20121.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5630/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6697/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5630/pdf_file"
 
 Bürgerrecht
 
-Vom 23. November 2018 (Stand 1. Januar 2023)
+Vom 23. November 2018 (Stand 1. Januar 2026)
 
 Der Bürgerrat Riehen,
 
@@ -40,17 +39,18 @@ I. Kanzleigebühren
 
 - a) Von ausländischen Bewerberinnen und Bewerbern über 25 Jahren — CHF 1'700
 - b) Von jungen ausländischen Bewerberinnen und Bewerbern unter 25 Jahren — CHF 1'000
-- c) Von Schweizer Bürgerinnen und Bürgern — CHF 700
+- c) Von Schweizer Bürgerinnen und Bürgern — CHF 500[^1-1]
 - d) Ausländerinnen und Ausländer, die in der Schweiz geboren sind, sowie Schweizer Bürgerinnen und Bürger werden bis zur Vollendung des 19. Lebensjahres bei der erstmaligen Gesuchseinreichung von den Gebühren befreit. Die Kosten werden vom Kanton getragen.
 
-<sup>2</sup> Müssen die Bewerberinnen und Bewerber mehr als einmal vorgeladen werden, so erhöht sich die vorgenannte Gebühr für jede weitere Vorladung um CHF 350.[^1-1]
+<sup>2</sup> Müssen die Bewerberinnen und Bewerber mehr als einmal vorgeladen werden, so erhöht sich die vorgenannte Gebühr für jede weitere Vorladung um CHF 350.[^1-2]
 
 \2. Für die Behandlung von Gesuchen
 
 - a) um Wiedereinbürgerung nach kantonalem Recht — CHF 450
 - b) um Entlassung aus dem Gemeindebürgerrecht — CHF 150
 
-[^1-1]: Fassung vom 6. Mai 2022, in Kraft seit 1. Januar 2023 (KB 24.08.2021)
+[^1-1]: gilt bis zum 31. Dezember 2026
+[^1-2]: Fassung vom 6. Mai 2022, in Kraft seit 1. Januar 2023 (KB 24.08.2021)
 
 #### § 2
 
