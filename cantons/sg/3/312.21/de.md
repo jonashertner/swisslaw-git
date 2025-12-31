@@ -3,20 +3,19 @@ canton: SG
 number: "312.21"
 title: Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-19
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2024-11-19
 in_force: 2024-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.21"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3736/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3854/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
 
-vom 19.11.2024 (Stand 01.07.2024)
+vom 19.11.2024 (Stand 01.01.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -85,15 +84,13 @@ als Verordnung:[^ingress-2]
 
 #### Art. 3
 
-**Mindestanzahl Ausbildungswochen a) Form und Zeitpunkt der Festlegung[^3-1]**
+**Mindestanzahl Ausbildungswochen a) Grundsatz**
 
 <sup>1</sup> Das Gesundheitsdepartement legt die Mindestanzahl Ausbildungswochen, die ein Betrieb erbringen muss, jeweils für ein Kalenderjahr fest. Als Ausbildungswoche gilt eine Zeiteinheit von fünf Vollzeit-Arbeitstagen.
 
-<sup>2</sup> Es verfügt die Mindestanzahl Ausbildungswochen gegenüber dem Betrieb wenigstens 18 Monate im Voraus.
+<sup>2</sup> …
 
 <sup>3</sup> Fusionieren Betriebe mit einer Ausbildungsverpflichtung, gilt für den fusionierten Betrieb die Summe der Mindestanzahl Ausbildungswochen, die gegenüber den einzelnen Betrieben festgelegt wurden. Das Gesundheitsdepartement kann die Mindestanzahl Ausbildungswochen auf Gesuch hin anpassen, wenn sich die Bemessungskriterien durch die Fusion erheblich geändert haben.
-
-[^3-1]: In Vollzug ab 1. Dezember 2024.
 
 #### Art. 4
 
@@ -101,7 +98,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Nimmt ein Listenspital, Pflegeheim oder Spitex-Betrieb seine Tätigkeit im Kanton neu auf, wird die Ausbildungsverpflichtung erstmals für das Kalenderjahr verfügt, das auf die ersten zwei vollen Betriebsjahre folgt.
 
-<sup>2</sup> Die Ausbildungsverpflichtung wird im Januar des Kalenderjahrs nach Abs. 1 dieser Bestimmung verfügt und gilt für jenes und die zwei nachfolgenden Kalenderjahre.
+<sup>2</sup> Die Ausbildungsverpflichtung wird im Januar des Kalenderjahrs nach Abs. 1 dieser Bestimmung verfügt und gilt für jenes Kalenderjahr.
 
 <sup>3</sup> Gibt ein Listenspital, Pflegeheim oder Spitex-Betrieb seine Tätigkeit im Kanton auf oder werden sämtliche Plätze eines Betriebs von der Pflegeheimliste gestrichen, wird die Ausbildungsverpflichtung im Jahr der Betriebsaufgabe oder der Streichung nicht mehr angewendet.
 
@@ -129,7 +126,7 @@ als Verordnung:[^ingress-2]
 
 - a) beim Listenspital die VZÄ gemäss der zum Zeitpunkt des Verfügungserlasses vorliegenden aktuellen Krankenhausstatistik;
 - b) beim Pflegeheim die erforderlichen VZÄ auf Grundlage der Daten gemäss der aktuellen Statistik der sozialmedizinischen Institutionen (SOMED);
-- c) beim Spitex-Betrieb die Anzahl KVG-Pflegestunden gemäss Spitex-Statistik, die er im Kalenderjahr zwei Jahre vor dem Verfügungserlass geleistet hat.
+- c) beim Spitex-Betrieb die Anzahl KVG-Pflegestunden gemäss der aktuellen Spitex-Statistik.
 
 <sup>3</sup> Stimmt ein Betrieb der Verwendung der statistischen Daten nicht zu[^6-4], meldet er die für die Festlegung der VZÄ oder der Pflegestunden benötigten Daten direkt ans Gesundheitsdepartement.
 
@@ -338,7 +335,7 @@ als Verordnung:[^ingress-2]
 
 **Gesuch um Ausbildungsbeiträge a) Eingabetermin und Form**
 
-<sup>1</sup> Die Studierende oder der Studierende reicht das Gesuch um Ausbildungsbeiträge wenigstens drei Monate vor Beginn des Semesters ein, für das erstmals Beiträge beantragt werden.
+<sup>1</sup> Die Studierende oder der Studierende reicht das Gesuch um Ausbildungsbeiträge vor Beginn des Semesters ein, für das erstmals Beiträge beantragt werden.
 
 <sup>2</sup> Nach dem Eingabetermin eingereichte Gesuche werden erst für das Semester berücksichtigt, bei dem die Frist nach Abs. 1 dieser Bestimmung eingehalten ist.
 
@@ -376,9 +373,9 @@ als Verordnung:[^ingress-2]
 
 **Auszahlungsgesuch**
 
-<sup>1</sup> Die Studierende oder der Studierende beantragt die Auszahlung des Beitrags für ein Semester wenigstens drei Monate vor Beginn des Semesters.
+<sup>1</sup> Die Studierende oder der Studierende beantragt die Auszahlung des Beitrags für ein Semester vor Beginn des Semesters.
 
-<sup>2</sup> Der Anspruch auf einen Beitrag ist verwirkt, wenn das Auszahlungsgesuch später als drei Monate nach Beginn des Semesters eingereicht wird.
+<sup>2</sup> Der Anspruch auf einen Beitrag ist verwirkt, wenn das Auszahlungsgesuch nach Beginn des Semesters eingereicht wird.
 
 <sup>3</sup> Inhalt und Beilagen des Gesuchs richten sich sachgemäss nach Art. 26 dieses Erlasses.
 
@@ -404,10 +401,10 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Der Mindestbeitrag beträgt beim Vollzeitstudium Fr. 20'000.– je Ausbildungsjahr.
 
-<sup>2</sup> Er wird beim Teilzeitstudium im Ausmass des möglichen Beschäftigungsumfangs gekürzt und beträgt:
+<sup>2</sup> Er wird beim Teilzeitstudium prozentual auf das vom Ausbildungsanbieter vorgegebene Studienpensum gekürzt.
 
-- a) beim Teilzeitstudium zur Pflegefachfrau HF oder zum Pflegefachmann HF (sechs oder acht Semester) Fr. 16'000.–;
-- b) beim berufsbegleitenden Studium zur Pflegefachfrau FH oder zum Pflegefachmann FH (acht Semester) Fr. 10'000.–.
+- a) …
+- b) …
 
 #### Art. 32
 
