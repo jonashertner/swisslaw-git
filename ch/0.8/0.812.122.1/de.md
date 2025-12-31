@@ -3,11 +3,11 @@ sr: "0.812.122.1"
 title: Übereinkommen vom 16. November 1989 gegen Doping (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1989-11-16
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20250101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 1238; BBl **1992** II 1345
 
 Abgeschlossen in Strassburg am 16. November 1989 Von der Bundesversammlung genehmigt am 22. September 1992[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 5. November 1992 In Kraft getreten für die Schweiz am 1. Januar 1993
 
-(Stand am 1. Januar 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: [AS 1993 1237](https://fedlex.data.admin.ch/eli/oc/1993/1237_1237_1237)
 
@@ -52,7 +52,7 @@ jedoch entschlossen, eine weitere und engere Zusammenarbeit zu verfolgen, die da
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^ingress-1]: [SR 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 [^ingress-2]: Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur.
 
 #### Art. 1
@@ -249,7 +249,7 @@ Nach jeder Sitzung erstattet die beobachtende Begleitgruppe dem Ministerkomitee 
 
 <sup>(2)</sup> Für jeden beitretenden Staat tritt das Übereinkommen am ersten Tag des Monats in Kraft, der auf einen Zeitabschnitt von einem Monat nach Hinterlegung der Beitrittsurkunde beim Generalsekretär des Europarats folgt.
 
-[^16-1]: [SR 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^16-1]: [SR 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 17
 
@@ -279,16 +279,16 @@ Der Generalsekretär des Europarats notifiziert den Vertragsparteien, den andere
 - h) jede nach Artikel 18 erfolgte Kündigung und den Tag, an dem die Kündigung wirksam wird;
 - i) jede andere Handlung, Notifikation oder Mitteilung im Zusammenhang mit diesem Übereinkommen.
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 16. November 1989 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den anderen Vertragsstaaten des Europäischen Kulturabkommens, den Nichtmitgliedstaaten, die an der Ausarbeitung dieses Übereinkommens beteiligt waren, und allen zum Beitritt zu dem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. *(Es folgen die Unterschriften)*
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 16. November 1989 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den anderen Vertragsstaaten des Europäischen Kulturabkommens, den Nichtmitgliedstaaten, die an der Ausarbeitung dieses Übereinkommens beteiligt waren, und allen zum Beitritt zu dem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
 Anhang[^t-2]
 
-## Liste der verbotenen Wirkstoffe und Methoden 2025/Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)
+## Liste der verbotenen Wirkstoffe und Methoden 2026 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Fassung gemäss Beschluss vom 18. Dez. 2024, in Kraft seit 1. Jan. 2025 ([AS 2025 115](https://fedlex.data.admin.ch/eli/oc/2025/115)).
-[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht publiziert; die «Liste der verbotenen Wirkstoffe und Methoden 2025 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)» kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: [www.antidoping.ch](https://www.antidoping.ch) abgerufen werden.
+[^t-2]: Fassung gemäss Beschluss vom 3. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2026 13](https://fedlex.data.admin.ch/eli/oc/2026/13)).
+[^annexu1-lvlu1-1]: Dieser Anhang wird in der AS nicht publiziert; die «Liste der verbotenen Wirkstoffe und Methoden 2026 / Welt-Anti-Doping-Code: Jederzeit verbotene Wirkstoffe und Methoden (in und ausserhalb von Wettkämpfen)» kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: [www.antidoping.ch](https://www.sportintegrity.ch/) abgerufen werden.
 
 Geltungsbereich am 30. November 2017[^t-3]
 

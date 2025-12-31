@@ -3,11 +3,11 @@ sr: "0.812.122.1"
 title: Convention du 16 novembre 1989 contre le dopage (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1989-11-16
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20250101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 5 novembre 1992
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1993
 
-(État le 1<sup>er</sup> janvier 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 1993 1237](https://fedlex.data.admin.ch/eli/oc/1993/1237_1237_1237)
 
@@ -58,7 +58,7 @@ résolus, toutefois, à poursuivre et à renforcer leur coopération en vue de r
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 
 #### Art. 1
 
@@ -254,7 +254,7 @@ Après chacune de ses réunions, le groupe de suivi transmet au Comité des Mini
 
 \2) Pour tout État adhérent, la Convention entrera en vigueur le premier jour du mois suivant l’expiration d’un délai d’un mois après la date de dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
-[^16-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^16-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 17
 
@@ -288,12 +288,12 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux Parties, aux autre
 
 Annexe[^t-2]
 
-## La liste des interdictions 2025/Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)
+## La liste des interdictions 2026/Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon la D du 18 déc. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 115](https://fedlex.data.admin.ch/eli/oc/2025/115)).
-[^annexu1-lvlu1-1]: Le texte de la présente annexe n’est pas publié au RO. la «liste des interdictions 2025 / Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)» peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.antidoping.ch](https://www.sportintegrity.ch/fr), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
+[^t-2]: Nouvelle teneur selon la D du 3 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 13](https://fedlex.data.admin.ch/eli/oc/2026/13)).
+[^annexu1-lvlu1-1]: Le texte de la présente annexe n’est pas publié au RO. La «liste des interdictions 2026 / Code mondial antidopage: substances et méthodes interdites en permanence (en et hors compétition)» peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.antidoping.ch](https://www.sportintegrity.ch/fr), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)).
 
 Champ d’application le 30 novembre 2017[^t-3]
 
@@ -355,7 +355,7 @@ Champ d’application le 30 novembre 2017[^t-3]
 <tr><td>Tunisie</td><td>26 février</td><td>2004 A</td><td>1<sup>er</sup> avril</td><td>2004</td></tr>
 <tr><td>Turquie</td><td>22 novembre</td><td>1993</td><td>1<sup>er</sup> janvier</td><td>1994</td></tr>
 <tr><td>Ukraine</td><td>29 novembre</td><td>2001</td><td>1<sup>er</sup> janvier</td><td>2002</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://untreaty.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas au Grœnland, ni aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://untreaty.un.org](http://untreaty.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas au Grœnland, ni aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
 [^t-3]: [RO 1993 1238](https://fedlex.data.admin.ch/eli/oc/1993/1238_1238_1238); **1995** 4421; [1998 880](https://fedlex.data.admin.ch/eli/oc/1998/880_880_880);[1999 2857](https://fedlex.data.admin.ch/eli/oc/1999/447); [2000 2584](https://fedlex.data.admin.ch/eli/oc/2000/409); [2002 473](https://fedlex.data.admin.ch/eli/oc/2002/111); [2003 2371](https://fedlex.data.admin.ch/eli/oc/2003/336); [2004 1307](https://fedlex.data.admin.ch/eli/oc/2004/157); [2005 1007](https://fedlex.data.admin.ch/eli/oc/2005/119); [2007 4465](https://fedlex.data.admin.ch/eli/oc/2007/627); [2009 1133](https://fedlex.data.admin.ch/eli/oc/2009/182); [2012 433](https://fedlex.data.admin.ch/eli/oc/2012/49); [2018 33](https://fedlex.data.admin.ch/eli/oc/2018/15). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.812.122.1"
 title: Convenzione del 16 novembre 1989 contro il doping (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1989-11-16
 in_force: 1993-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1238_1238_1238-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1238_1238_1238/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Strasburgo il 16 novembre 1989 Approvata dall’Assemblea federale il 22 settembre 1992[^t-1] Ratificata con strumento depositato dalla Svizzera il 5 novembre 1992 Entrata in vigore per la Svizzera il 1° gennaio 1993
 
-(Stato 1° gennaio 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 1993 1237](https://fedlex.data.admin.ch/eli/oc/1993/1237_1237_1237)
 
@@ -52,7 +52,7 @@ decisi, tuttavia, a proseguire e a rafforzare la loro cooperazione nell’intent
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/eli/cc/1962/935_972_973)
+[^ingress-1]: [RS 0.440.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1796)
 
 #### Art. 1
 
@@ -243,42 +243,48 @@ Dopo ogni sua riunione il gruppo permanente di vigilanza trasmette al Comitato d
 
 #### Art. 14
 
+(2) Gli strumenti di ratifica, d’accettazione o d’approvazione saranno depositati presso il Segretario Generale del Consiglio d’Europa.
+
 **(**1) La presente Convenzione è aperta alla firma degli Stati membri del Consiglio d’Europa, degli altri Stati Parte alla Convenzione culturale europea e degli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione, i quali possono esprimere il loro accordo ad essere vincolati mediante:
 
 - a) firma senza riserva di ratifica, d’accettazione o d’approvazione, o
 - b) firma con riserva di ratifica, d’accettazione o d’approvazione, seguita da ratifica, accettazione o approvazione.
 
-<sup>(2)</sup> Gli strumenti di ratifica, d’accettazione o d’approvazione saranno depositati presso il Segretario Generale del Consiglio d’Europa.
-
 #### Art. 15
 
-<sup>(1)</sup> La Convenzione entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data in cui cinque Stati, di cui almeno quattro membri del Consiglio d’Europa, avranno espresso il loro accordo ad essere vincolati dalla Convenzione giusta le disposizioni dell’articolo 14.
+(1) La Convenzione entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data in cui cinque Stati, di cui almeno quattro membri del Consiglio d’Europa, avranno espresso il loro accordo ad essere vincolati dalla Convenzione giusta le disposizioni dell’articolo 14.
 
-<sup>(2)</sup> Per ogni Stato firmatario che esprimerà ulteriormente il proprio accordo ad essere vincolato dalla Convenzione, questa entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data della firma o del deposito dello strumento di ratifica, d’accettazione o d’approvazione.
+(2) Per ogni Stato firmatario che esprimerà ulteriormente il proprio accordo ad essere vincolato dalla Convenzione, questa entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data della firma o del deposito dello strumento di ratifica, d’accettazione o d’approvazione.
 
 #### Art. 16
 
-<sup>(1)</sup> Dopo l’entrata in vigore della presente Convenzione, il Comitato dei ministri del Consiglio d’Europa, dopo aver consultato le Parti, potrà invitare ogni Stato non membro ad aderire alla Convenzione, mediante una decisione presa a maggioranza prevista dall’articolo 20 lettera d dello Statuto del Consiglio d’Europa[^16-1] e all’unanimità dei rappresentanti degli Stati contraenti che dispongono di un seggio nel Comitato.
+(1) Dopo l’entrata in vigore della presente Convenzione, il Comitato dei ministri del Consiglio d’Europa, dopo aver consultato le Parti, potrà invitare ogni Stato non membro ad aderire alla Convenzione, mediante una decisione presa a maggioranza prevista dall’articolo 20 lettera d dello Statuto del Consiglio d’Europa[^u1-16-1] e all’unanimità dei rappresentanti degli Stati contraenti che dispongono di un seggio nel Comitato.
 
-<sup>(2)</sup> Per ogni Stato aderente, la Convenzione entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data di deposito dello strumento d’adesione presso il Segretario Generale del Consiglio d’Europa.
+(2) Per ogni Stato aderente, la Convenzione entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data di deposito dello strumento d’adesione presso il Segretario Generale del Consiglio d’Europa.
 
-[^16-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^u1-16-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 17
 
-<sup>(1)</sup> Ogni Stato può, al momento della firma o al momento del deposito del suo strumento di ratifica, d’accettazione, d’approvazione o di adesione, designare il o i territori ai quali si applicherà la Convenzione.
+(1) Ogni Stato può, al momento della firma o al momento del deposito del suo strumento di ratifica, d’accettazione, d’approvazione o di adesione, designare il o i territori ai quali si applicherà la Convenzione.
 
-<sup>(2)</sup> In qualsiasi momento ulteriore, ogni Stato può, mediante dichiarazione all’attenzione del Segretario Generale del Consiglio d’Europa, estendere l’applicazione della presente Convenzione a qualsiasi altro territorio designato nella dichiarazione. Per questo territorio, la Convenzione entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data di ricezione di detta dichiarazione da parte del Segretario Generale.
+(2) In qualsiasi momento ulteriore, ogni Stato può, mediante dichiarazione all’attenzione del Segretario Generale del Consiglio d’Europa, estendere l’applicazione della presente Convenzione a qualsiasi altro territorio designato nella dichiarazione. Per questo territorio, la Convenzione entrerà in vigore il primo giorno del mese che segue lo scadere del periodo di un mese dopo la data di ricezione di detta dichiarazione da parte del Segretario Generale.
 
-<sup>(3)</sup> Qualsiasi dichiarazione formulata in virtù dei due paragrafi precedenti potrà essere ritirata, per quanto concerne qualsiasi territorio designato in detta dichiarazione, mediante notifica all’attenzione del Segretario Generale. Il ritiro avrà effetto il primo giorno del mese che segue lo scadere del periodo di sei mesi dopo la data di ricezione della notifica da parte del Segretario Generale.
+(3) Qualsiasi dichiarazione formulata in virtù dei due paragrafi precedenti potrà essere ritirata, per quanto concerne qualsiasi territorio designato in detta dichiarazione, mediante notifica all’attenzione del Segretario Generale. Il ritiro avrà effetto il primo giorno del mese che segue lo scadere del periodo di sei mesi dopo la data di ricezione della notifica da parte del Segretario Generale.
 
 #### Art. 18
 
-<sup>(1)</sup> Ogni Parte può, in qualsiasi momento, denunciare la presente Convenzione inviando una notifica all’attenzione del Segretario Generale del Consiglio d’Europa.
+(1) Ogni Parte può, in qualsiasi momento, denunciare la presente Convenzione inviando una notifica all’attenzione del Segretario Generale del Consiglio d’Europa.
 
-<sup>(2)</sup> La denuncia ha effetto il primo giorno del mese che segue lo scadere del periodo di sei mesi dopo la data di ricezione della notifica da parte del Segretario Generale.
+(2) La denuncia ha effetto il primo giorno del mese che segue lo scadere del periodo di sei mesi dopo la data di ricezione della notifica da parte del Segretario Generale.
 
 #### Art. 19
+
+*In fede di che,* i sottoscritti plenipotenziari hanno firmato la presente Convenzione.
+
+Fatto a Strasburgo il 16 novembre 1989 in francese e in inglese, i due testi fanno ugualmente stato, in un solo esemplare che sarà depositato nell’archivio del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa trasmetterà una copia, certificata conforme, ad ognuno degli Stati membri del Consiglio d’Europa, agli altri Stati Parte alla Convenzione culturale europea, agli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione e ad ogni Stato invitato ad aderirvi.
+
+(Seguono le firme)
 
 Il Segretario Generale del Consiglio d’Europa notifica alle Parti e agli altri Stati membri del Consiglio d’Europa, agli altri Stati Parte alla Convenzione culturale europea, agli Stati che hanno partecipato all’elaborazione della presente Convenzione e ad ogni Stato che vi ha aderito o che è stato invitato ad aderire:
 
@@ -292,16 +298,14 @@ Il Segretario Generale del Consiglio d’Europa notifica alle Parti e agli altri
 - h) ogni notifica inviata in applicazione delle disposizioni dell’articolo 18 e la data in cui la denuncia ha effetto;
 - i) ogni altro atto, notifica o comunicazione che si riferisce alla presente Convenzione.
 
-*In fede di che,* i sottoscritti plenipotenziari hanno firmato la presente Convenzione. Fatto a Strasburgo il 16 novembre 1989 in francese e in inglese, i due testi fanno ugualmente stato, in un solo esemplare che sarà depositato nell’archivio del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa trasmetterà una copia, certificata conforme, ad ognuno degli Stati membri del Consiglio d’Europa, agli altri Stati Parte alla Convenzione culturale europea, agli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione e ad ogni Stato invitato ad aderirvi. (Seguono le firme)
-
 Allegato[^t-2]
 
-## L’elenco dei divieti 2025 / Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione)
+## L'elenco dei divieti 2026 / Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione
 
 [^annexu1-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la dec. del 18 dic. 2024, in vigore dal 1° gen. 2025 ([RU 2025 115](https://fedlex.data.admin.ch/eli/oc/2025/115)).
-[^annexu1-lvlu1-1]: Questo all. non è pubblicato né nella RU né nella RS. L’«elenco dei divieti 2025 / Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione)» può essere consultato gratuitamente, in francese e tedesco, sul sito dell’Antidoping svizzero, autorità competente per le misure antidoping conformemente all’art. 19 della L del 17 giugno 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), all’indirizzo www.antidoping.ch
+[^t-2]: Nuovo testo giusta la dec. del 3 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2026 13](https://fedlex.data.admin.ch/eli/oc/2026/13)).
+[^annexu1-lvlu1-1]: Questo all. non è pubblicato nella RU; l’«Elenco dei divieti 2026 / Codice mondiale contro il doping: agenti dopanti e metodi di doping vietati in permanenza (in e fuori competizione)» può essere consultato gratuitamente, in francese e tedesco, sul sito dell’Antidoping svizzero, autorità competente per le misure antidoping conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)), all’indirizzo [www.antidoping.ch](https://www.sportintegrity.ch/it).
 
 Campo d’applicazione il 30 novembre 2017[^t-3]
 
