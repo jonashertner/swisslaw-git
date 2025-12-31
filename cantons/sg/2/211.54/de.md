@@ -3,20 +3,19 @@ canton: SG
 number: "211.54"
 title: Reglement über den Ausbildungsfonds für den Kanton St.Gallen
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-19
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2024-11-19
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/211.54"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3768/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3835/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über den Ausbildungsfonds für den Kanton St.Gallen
 
-vom 19.11.2024 (Stand 01.01.2025)
+vom 19.11.2024 (Stand 01.01.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -32,7 +31,7 @@ als Reglement:[^ingress-1]
 
 <sup>1</sup> Dieser Erlass regelt den Ausbildungsfonds für den Kanton St.Gallen (nachfolgend Ausbildungsfonds).
 
-<sup>2</sup> Der Ausbildungsfonds ist eine unselbständige Stiftung, in dem die bisherigen Fonds Custer-Ritterscher Betriebsfonds, Bébié-Stiftung für Fachschulstipendien, Jean Reiser’scher Lehrlingsfonds, Otto-Weber-Fonds und Stipendienfonds Hof Oberkirch zusammengeführt sind.
+<sup>2</sup> Der Ausbildungsfonds ist eine unselbständige Stiftung, in dem die bisherigen Fonds Custer-Ritterscher Betriebsfonds, Bébié-Stiftung für Fachschulstipendien, Jean Reiser’scher Lehrlingsfonds, Otto-Weber-Fonds, Stipendienfonds Hof Oberkirch und Ernst-Schürpf-Stiftung zusammengeführt sind.
 
 #### Art. 2
 
