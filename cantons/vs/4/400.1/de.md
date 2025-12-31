@@ -4,13 +4,12 @@ number: "400.1"
 title: Gesetz über das öffentliche Unterrichtswesen
 short: GUW
 language: de
-version: 2021-08-01
-valid_until: 2025-12-31
-version_adopted: 2020-09-10
+version: 2026-01-01
+version_adopted: 2024-05-15
 adopted: 1962-07-04
 in_force: 1963-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.1"
-pdf: "https://lex.vs.ch/api/de/versions/2943/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3597/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2943/pdf_file"
 
 (GUW)
 
-vom 04.07.1962 (Stand 01.08.2021)
+vom 04.07.1962 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -102,7 +101,7 @@ beschliesst:
 - a) den Primarunterricht;
 - b) den Sekundarunterricht;
 - c) den Mittelschulunterricht;
-- d) den Hochschulunterricht.
+- d) den Unterricht auf der Tertiärstufe.
 
 #### Art. 5
 
@@ -123,14 +122,14 @@ beschliesst:
 
 #### Art. 7
 
-**Mittel- und Hochschulunterricht**
+**Mittelschulunterricht der Sekundarstufe II und Unterricht auf der Tertiärstufe**
 
 <sup>1</sup> Mittelschulen sind:
 
 - a) …
 - b) die verschiedenen Bildungsanstalten mit ihren Latein-, Naturwissenschaftlichen- und Handelsabteilungen.
 
-<sup>2</sup> Der Grosse Rat kann auf dem Dekretswege andere Schulen vorsehen. Er kann im besondern die Eröffnung einer oder mehrerer Abteilungen eines Technikums und einer Hochschule beschliessen.
+<sup>2</sup> Der Grosse Rat kann auf dem Dekretsweg andere Abteilungen des Unterrichts schaffen.
 
 <sup>3</sup> Der Grosse Rat kann den Staatsrat beauftragen, mit öffentlichen Körperschaften oder Bildungsanstalten Verträge einzugehen, um gewisse Zweige des Unterrichtswesens gemeinsam aufzubauen.
 
@@ -143,7 +142,7 @@ beschliesst:
 <sup>1</sup> Der Unterricht auf der Primar- und Orientierungsschulstufe obliegt:
 
 - a) dem Staat für die pädagogischen Bereiche;
-- b) en Gemeinden für Fragen der Organisation und Logistik (Verbindung zu den Eltern, Transport, Mahlzeiten, Schultage, Gebäude usw.).
+- b) den Gemeinden für Fragen der Organisation und Logistik (Verbindung zu den Eltern, Transport, Mahlzeiten, Schultage, Gebäude usw.).
 
 <sup>2</sup> Mit Zustimmung des Departements kann eine Gemeinde mit einer öffentlichen oder privaten Bildungsanstalt einen Vertrag abschliessen, um ihr die Erteilung dieses Unterrichtes zu übertragen.
 
@@ -316,6 +315,14 @@ beschliesst:
 **Bewilligung**
 
 <sup>1</sup> Soweit sich ihr Lehrplan auf die Zeit der obligatorischen Schulpflicht erstreckt, kann der Staatsrat von sich aus oder auf Verlangen der Gemeinde die privaten Sekundarschulen der Bewilligungspflicht unterstellen. Die Artikel 19 bis 21 sind sinngemäss anwendbar.
+
+### 1.4.3a Bestimmungen, welche für private tertiäre Leistungsanbieter gelten
+
+#### Art. 26a
+
+**Private tertiäre Leistungsanbieter von Bildungsgängen, die zu Abschlüssen auf Hochschulstufe führen**
+
+<sup>1</sup> Artikel 16 des Gesetzes über die Förderung von Hochschulen und Forschung (FHFG) gilt für private tertiäre Leistungsanbieter von Bildungsgängen, die zu Abschlüssen auf Hochschulstufe führen.
 
 ### 1.4.4 Evangelisch-Reformierte Schulen
 

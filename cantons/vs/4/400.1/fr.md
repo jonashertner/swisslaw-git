@@ -4,13 +4,12 @@ number: "400.1"
 title: "Loi sur l'instruction publique"
 short: LIP
 language: fr
-version: 2021-08-01
-valid_until: 2025-12-31
-version_adopted: 2020-09-10
+version: 2026-01-01
+version_adopted: 2024-05-15
 adopted: 1962-07-04
 in_force: 1963-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2943/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3597/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2943/pdf_file"
 
 (LIP)
 
-du 04.07.1962 (état 01.08.2021)
+du 04.07.1962 (état 01.01.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -102,7 +101,7 @@ ordonne:
 - a) l'enseignement primaire;
 - b) l'enseignement secondaire du premier degré;
 - c) l'enseignement secondaire du deuxième degré;
-- d) l'enseignement supérieur.
+- d) l'enseignement tertiaire.
 
 #### Art. 5
 
@@ -125,14 +124,14 @@ ordonne:
 
 #### Art. 7
 
-**Enseignement secondaire du deuxième degré et enseignement supérieur**
+**Enseignement secondaire du deuxième degré et enseignement tertiaire**
 
 <sup>1</sup> L'enseignement secondaire du deuxième degré est donné par:
 
 - a) …
 - b) les établissements d'instruction ayant des sections littéraire, scientifique et commerciale.
 
-<sup>2</sup> Le Grand Conseil peut créer par décret d'autres divisions de l'enseignement. Il peut, en particulier, ouvrir une ou plusieurs sections d'un technicum et de l'enseignement universitaire.
+<sup>2</sup> Le Grand Conseil peut créer par décret d'autres divisions de l'enseignement.
 
 <sup>3</sup> Le Grand Conseil peut charger le Conseil d'Etat de passer convention avec des collectivités publiques ou des établissements pour organiser en commun certaines divisions de l'enseignement.
 
@@ -318,6 +317,14 @@ ordonne:
 **Autorisation**
 
 <sup>1</sup> Aussi longtemps que leur plan d'études s'étend sur la période de scolarité obligatoire, les écoles secondaires privées du premier degré peuvent être soumises au régime de l'autorisation, par le Conseil d'Etat agissant d'office ou à la requête de la commune. Les articles 19 à 21 sont applicables par analogie.
+
+### 1.4.3a Dispositions applicables aux institutions tertiaires privées
+
+#### Art. 26a
+
+**Institutions tertiaires privées offrant des formations conduisant à l'obtention de diplômes de niveau haute école**
+
+<sup>1</sup> L'article 16 de la loi sur l’encouragement des hautes écoles et de la recherche (LEHER) s’applique aux institutions tertiaires privées offrant des formations conduisant à l'obtention de diplômes de niveau haute école.
 
 ### 1.4.4 Ecoles de l'Eglise réformée
 
