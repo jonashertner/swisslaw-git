@@ -4,13 +4,13 @@ number: "180.131"
 title: Verordnung über die Ausrichtung einer Übergangsrente bei vorzeitigem Rücktritt aus dem Staatsdienst
 short: "Übergangsrentenverordnung, ÜRV"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-02-25
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-12-02
 adopted: 2015-02-17
 in_force: 2015-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.131"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1975/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2039/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1975/pdf_file"
 
 (Übergangsrentenverordnung, ÜRV)
 
-Vom 17.02.2015 (Stand 01.01.2025)
+Vom 17.02.2015 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -47,11 +47,11 @@ beschliesst:
 
 **Höhe der Rente**
 
-<sup>1</sup> Die Übergangsrente entspricht bei voller Beschäftigung grundsätzlich 75% der minimalen einfachen AHV-Altersrente.
+<sup>1</sup> Die Übergangsrente entspricht bei voller Beschäftigung grundsätzlich 75% der minimalen einfachen jährlichen AHV-Altersrente.
 
-<sup>2</sup> Bei Personen mit einer Bruttojahresbesoldung ab Fr. 172'193.00 (aufgerechnet auf einen Beschäftigungsgrad von 100%) entspricht die Übergangsrente 50% der minimalen einfachen AHV-Altersrente.
+<sup>2</sup> Bei Personen mit einer Bruttojahresbesoldung ab Fr. 172'710.00 (aufgerechnet auf einen Beschäftigungsgrad von 100%) entspricht die Übergangsrente 50% der minimalen einfachen AHV-Altersrente.
 
-<sup>3</sup> Personen mit einer Bruttojahresbesoldung unter Fr. 71'671.00 (aufgerechnet auf einen Beschäftigungsgrad von 100%) erhalten folgende jährliche Zulage:
+<sup>3</sup> Personen mit einer Bruttojahresbesoldung unter Fr. 71'886.00 (aufgerechnet auf einen Beschäftigungsgrad von 100%) erhalten folgende jährliche Zulage:
 
 <table>
 <tr><th>Aufgerechnete Bruttojahresbesoldung</th><th>jährliche Zulage</th></tr>
