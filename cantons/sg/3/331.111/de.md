@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2025-07-01
-corrected: 2025-06-13
-version_adopted: 2025-05-13
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-11-11
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3735/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.07.2025)
+vom 12.12.1995 (Stand 01.01.2026)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -78,7 +78,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Zuständig ist die Kontrollstelle für Krankenversicherung jener politischen Gemeinde, in der die versicherungspflichtige Person ihren zivilrechtlichen Wohnsitz hat.
 
-<sup>2</sup> Für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ist die Kontrollstelle am Arbeitsort der versicherungspflichtigen Person zuständig.
+<sup>2</sup> Für Grenzgängerinnen und Grenzgänger ist die Kontrollstelle am Arbeitsort der versicherungspflichtigen Person zuständig.
 
 <sup>3</sup> Die Kontrollstelle kann Verfügungen mit Wirkung sowohl gegenüber der versicherungspflichtigen Person als auch gegenüber dem Versicherer erlassen.
 
@@ -92,9 +92,7 @@ als Verordnung:[^ingress-2]
 
 **2. der kantonalen Stelle**
 
-<sup>1</sup> Die zuständige kantonale Stelle[^5bis-1] meldet der Kontrollstelle die Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union.
-
-[^5bis-1]: Amt für Wirtschaft.
+<sup>1</sup> Das Migrationsamt meldet der Kontrollstelle die Grenzgängerinnen und Grenzgänger.
 
 #### Art. 6
 
@@ -130,11 +128,13 @@ als Verordnung:[^ingress-2]
 
 **Anspruchsberechtigung a) Personen mit Wohnsitz oder Aufenthaltsberechtigung im Kanton**
 
-<sup>1</sup> Massgebend für die Anspruchsberechtigung auf Prämienverbilligung für Personen mit zivilrechtlichem Wohnsitz oder einer fremdenpolizeilichen Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton sowie für erwerbstätige vorläufig aufgenommene Ausländerinnen und Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S) sowie Kurzaufenthalterinnen und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen sind die persönlichen und familiären Verhältnisse einer Person am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird.
+<sup>1</sup> …
 
 <sup>2</sup> …
 
 <sup>3</sup> Massgebend für die Anspruchsberechtigung auf Prämienverbilligung für Personen, die nach dem 1. Januar aus dem Ausland in den Kanton ziehen, sind die persönlichen und familiären Verhältnisse zum Zeitpunkt der Antragstellung.
+
+<sup>3<sup>bis</sup></sup> Der Anspruch der mitversicherten Familienangehörigen mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich leitet sich von der Person mit Aufenthalt im Kanton ab.
 
 <sup>4</sup> …
 
@@ -142,19 +142,17 @@ als Verordnung:[^ingress-2]
 
 **b) Grenzgängerinnen und Grenzgänger**
 
-<sup>1</sup> Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, die am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird, in einem Arbeitsverhältnis im Kanton stehen, sind die persönlichen und familiären Verhältnisse am 1. Januar.
+<sup>1</sup> Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich, die am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird, in einem Arbeitsverhältnis im Kanton stehen, sind die persönlichen und familiären Verhältnisse am 1. Januar.
 
-<sup>2</sup> Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union und mit einer Erwerbsaufnahme während des Kalenderjahres in der Schweiz sowie einem Anknüpfungspunkt an den Kanton sind die persönlichen und familiären Verhältnisse zum Zeitpunkt der Antragstellung.
+<sup>2</sup> Massgebend für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich und mit einer Erwerbsaufnahme während des Kalenderjahres in der Schweiz sowie einem Anknüpfungspunkt an den Kanton sind die persönlichen und familiären Verhältnisse zum Zeitpunkt der Antragstellung.
 
-<sup>3</sup> Der Anspruch der mitversicherten Familienangehörigen von Grenzgängerinnen und Grenzgängern mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union leitet sich von der Person mit Anbindung an den Kanton ab.
+<sup>3</sup> Der Anspruch der mitversicherten Familienangehörigen von Grenzgängerinnen und Grenzgängern mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich leitet sich von der Person mit Anbindung an den Kanton ab.
+
+<sup>4</sup> Abs. 1–3 dieser Bestimmung werden sachgemäss auf Beziehende einer Leistung der schweizerischen Arbeitslosenversicherung mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich und deren Familienangehörige angewendet.
 
 #### Art. 10
 
-**Beginn der Anspruchsberechtigung**
-
-<sup>1</sup> Für Personen nach Art. 9 Abs. 3 und Art. 9 a Abs. 2 dieses Erlasses beginnt der Anspruch auf Prämienverbilligung mit Beginn des Monats der Antragstellung.
-
-<sup>2</sup> Für Personen nach Art. 9 Abs. 1 und Art. 9a Abs. 1 dieses Erlasses beginnt der Anspruch auf Prämienverbilligung am 1. Januar des Jahres, für das die Prämienverbilligung beansprucht wird.
+**…**
 
 #### Art. 10bis
 
@@ -167,6 +165,8 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Die Sozialversicherungsanstalt ermittelt im Januar des Bezugsjahres zusammen mit den Steuerbehörden die voraussichtlich anspruchsberechtigten Personen.
 
 <sup>2</sup> Ausgenommen sind Personen nach Art. 22 Abs. 2 dieser Verordnung.
+
+<sup>3</sup> Für Beziehende von finanzieller Sozialhilfe oder von Elternschaftsbeiträgen kann die Sozialversicherungsanstalt auch unterjährig periodische Abgleiche der Daten mit den zuständigen Stellen der politischen Gemeinden vornehmen.
 
 #### Art. 12
 
@@ -235,6 +235,8 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> Ist die Veranlagung rechtskräftig, führt die Sozialversicherungsanstalt die Neuberechnung der Prämienverbilligung nach Art. 12 Abs. 2 und Abs. 3 dieses Erlasses durch.
 
+<sup>4</sup> Bei einem Wegzug aus dem Kanton St.Gallen während des Bezugsjahres wird auf das massgebende Einkommen des Jahres vor dem Bezugsjahr abgestellt, wenn ein nach kantonalem Steuerrecht ermitteltes Reineinkommen der Steuerperiode des Bezugsjahres fehlt.
+
 #### Art. 12bis
 
 **2. quellenbesteuerte Personen**
@@ -251,7 +253,7 @@ als Verordnung:[^ingress-2]
 
 <sup>4</sup> Die Steuerbehörde stellt die für die Berechnung der Anspruchsberechtigung notwendigen Steuerdaten zur Verfügung.
 
-<sup>5</sup> Das für Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union ermittelte Einkommen wird in die Kaufkraft des Wohnlandes umgerechnet. Massgebend ist der Index nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island und in Norwegen[^12bis-2].
+<sup>5</sup> Das für Grenzgängerinnen und Grenzgänger und für Beziehende einer Leistung der schweizerischen Arbeitslosenversicherung mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich ermittelte Einkommen wird in die Kaufkraft des Wohnlandes umgerechnet. Massgebend ist der Index nach Art. 1 der Verordnung des Eidgenössischen Departementes des Innern über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island, in Norwegen und im Vereinigten Königreich[^12bis-2].
 
 <sup>5<sup>bis</sup></sup> Bei einer nachträglichen Veränderung des massgebenden Einkommens nach Abs. 1 und 2 dieser Bestimmung führt die Sozialversicherungsanstalt die Neuberechnung der Prämienverbilligung auf Basis des veränderten Einkommens durch.
 
@@ -296,7 +298,9 @@ als Verordnung:[^ingress-2]
 
 <sup>3</sup> …
 
-<sup>4</sup> Für jedes in der Schweiz obligatorisch krankenversicherte nicht schulpflichtige Kind, in schulischer oder beruflicher Ausbildung stehende Kind oder für jede in der Schweiz obligatorisch krankenversicherte in schulischer oder beruflicher Ausbildung stehende junge erwachsene Personen einer Grenzgängerin oder eines Grenzgängers mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, für das oder für die in der Schweiz oder in einem Mitgliedstaat der Europäischen Union Familienzulagen bezogen werden, vermindert sich das massgebende Einkommen um Fr. 4000.–.
+<sup>4</sup> Für jedes in der Schweiz obligatorisch krankenversicherte nicht schulpflichtige Kind, in schulischer oder beruflicher Ausbildung stehende Kind oder für jede in der Schweiz obligatorisch krankenversicherte in schulischer oder beruflicher Ausbildung stehende junge erwachsene Personen einer Grenzgängerin oder eines Grenzgängers mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich, für das oder für die in der Schweiz oder in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich Familienzulagen bezogen werden, vermindert sich das massgebende Einkommen um Fr. 4000.–.
+
+<sup>5</sup> Abs. 4 dieser Bestimmung wird sachgemäss auf Beziehende einer Leistung der schweizerischen Arbeitslosenversicherung mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich angewendet.
 
 [^14-1]: SR [836.2](https://db.clex.ch/link/Bund/836.2/de).
 [^14-2]: SR [836.1](https://db.clex.ch/link/Bund/836.1/de).
@@ -315,18 +319,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 17bis
 
-**g) Bezüger von Sozialhilfeleistungen**
-
-<sup>1</sup> …
-
-<sup>2</sup> Art. 14 a des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^17bis-1] wird auch angewendet auf:
-
-- a) Ortsgemeinden, wenn diese nach Art. 6 des Sozialhilfegesetzes vom 27. September 1998[^17bis-2] persönliche Sozialhilfe leisten;
-- b) Einrichtungen, wenn diese nach Art. 80 ff. des Asylgesetzes vom 26. Juni 1998[^17bis-3] Sozialhilfe leisten.
-
-[^17bis-1]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
-[^17bis-2]: sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
-[^17bis-3]: SR [142.31](https://db.clex.ch/link/Bund/142.31/de).
+**…**
 
 #### Art. 18
 
@@ -372,7 +365,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die Sozialversicherungsanstalt stellt der voraussichtlich anspruchsberechtigten Person, die am 1. Januar des Jahres der Prämienverbilligung ihren zivilrechtlichen Wohnsitz oder eine fremdenpolizeiliche Bewilligung zum Jahresaufenthalt (Ausweis B) im Kanton hat, bis spätestens 10. Januar einen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular zu.
 
-<sup>2</sup> Keinen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular erhalten versicherungspflichtige Grenzgängerinnen und Grenzgänger mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, erwerbstätige vorläufig aufgenommene Ausländerinnen und Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S), Kurzaufenthalterinnen und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens 365 Tagen und Personen, die nach Art. 177 des Steuergesetzes vom 9. April 1998[^22-1] nach Ermessen veranlagt werden sowie Personen mit Einkommen und Vermögen Null.
+<sup>2</sup> Keinen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular erhalten versicherungspflichtige Personen mit zivilrechtlichem Wohnsitz in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich, erwerbstätige vorläufig aufgenommene Ausländerinnen und Ausländer (Ausweis F), erwerbstätige Asylsuchende (Ausweis N), erwerbstätige Schutzbedürftige (Ausweis S), Kurzaufenthalterinnen und Kurzaufenthalter (Ausweis L) mit einer bewilligten ununterbrochenen Aufenthaltsdauer von wenigstens drei Monaten und Personen, die nach Art. 177 des Steuergesetzes vom 9. April 1998[^22-1] nach Ermessen veranlagt werden sowie Personen mit Einkommen und Vermögen Null.
 
 <sup>3</sup> Personen, die keinen Zugang zu einem vorausgefüllten elektronischen Anmeldeformular erhalten haben, können über die Webseite der Sozialversicherungsanstalt ein Anmeldeformular in elektronischer Form ausfüllen.
 
@@ -400,13 +393,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 23
 
-**Geltendmachung der Prämienverbilligung**
-
-<sup>1</sup> Personen nach Art. 9 Abs. 1 und Art. 9a Abs. 1 dieses Erlasses reichen das Anmeldeformular mit Angabe des Versicherers bis 31. März des Jahres der Prämienverbilligung ein.
-
-<sup>2</sup> Personen nach Art. 9 Abs. 3 und Art. 9a Abs. 2 dieses Erlasses reichen das Anmeldeformular mit Angabe des Versicherers bis 31. Dezember des Jahres der Prämienverbilligung ein.
-
-<sup>3</sup> …
+**…**
 
 #### Art. 24
 
@@ -414,11 +401,7 @@ als Verordnung:[^ingress-2]
 
 #### Art. 24bis
 
-**Anrechenbarkeit der Ersatzleistungen an die Prämienverbilligung**
-
-<sup>1</sup> Die von der politischen Gemeinde, der Ortsgemeinde oder von Einrichtungen nach Art. 17<sup>bis</sup> Abs. 2 Bst. b dieser Verordnung bezahlten Prämien der obligatorischen Krankenpflegeversicherung und Verzugszinsen werden an die Prämienverbilligung vollständig angerechnet.
-
-<sup>2</sup> Der Anspruch wird bis 15. Dezember des Jahres der Auszahlung bei der Sozialversicherungsanstalt geltend gemacht.
+**…**
 
 #### Art. 25
 
@@ -586,9 +569,9 @@ als Verordnung:[^ingress-2]
 
 <sup>4</sup> Der Versicherer tritt die Forderungen an die Sozialversicherungsanstalt ab. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
 
-<sup>5</sup> Die Sozialversicherungsanstalt tritt die vom Versicherer an sie abgetretenen Forderungen innerhalb von 30 Tagen nach deren Abtretung an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab. Diese ist zur Übernahme verpflichtet. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
+<sup>5</sup> Die Sozialversicherungsanstalt tritt die vom Versicherer an sie abgetretenen Forderungen innerhalb von 30 Tagen nach deren Abtretung an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab. Diese ist zur Übernahme verpflichtet. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt des Fortsetzungsbegehrens, das zum Verlustschein führte. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
 
-<sup>6</sup> Die Übermittlung der Verlustscheine durch die Versicherer in schriftlicher oder elektronischer Form erfolgt an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins.
+<sup>6</sup> Die Übermittlung der Verlustscheine durch die Versicherer in schriftlicher oder elektronischer Form erfolgt an die Sozialversicherungsanstalt. Die Sozialversicherungsanstalt übermittelt die Verlustscheine in schriftlicher oder elektronischer Form an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt des Fortsetzungsbegehrens, das zum Verlustschein führte.
 
 <sup>7</sup> Die politische Gemeinde informiert die betroffenen Versicherten über die Gläubigerwechsel.
 
@@ -602,7 +585,7 @@ als Verordnung:[^ingress-2]
 
 **Meldung über Verlustscheine und andere Forderungen**
 
-<sup>1</sup> Der Versicherer übermittelt der zuständigen politischen Gemeinde oder der von dieser bezeichneten Stelle die zur Geltendmachung der an sie abgetretenen Forderungen erforderlichen Informationen und Dokumente nach [Art. 105f](https://db.clex.ch/link/Bund/832.102/de) Abs. 5 Bst. b der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38septies-1] kostenlos.
+<sup>1</sup> Der Versicherer übermittelt der Sozialversicherungsanstalt die zur Geltendmachung der an sie abgetretenen Forderungen erforderlichen Informationen und Dokumente nach [Art. 105f](https://db.clex.ch/link/Bund/832.102/de) Abs. 5 Bst. b der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38septies-1] kostenlos. Die Sozialversicherungsanstalt übermittelt die Informationen und Dokumente der zuständigen politischen Gemeinde oder der von dieser bezeichneten Stelle.
 
 [^38septies-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
 
@@ -703,5 +686,13 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Auf Verlangen der zuständigen politischen Gemeinde übernimmt die Sozialversicherungsanstalt zusätzlich 3 Prozent einer Forderung, für die sie nach [Art. 64a](https://db.clex.ch/link/Bund/832.10/de) Abs. 4 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^50-1] in der Fassung vor Inkrafttreten der Änderung vom 18. März 2022 bereits 85 Prozent übernommen hat. Der Sozialversicherungsanstalt wird die zusätzliche Forderung durch die politische Gemeinde vergütet, die deren Übernahme verlangt. Die Sozialversicherungsanstalt tritt eine an sie abgetretene Forderung innerhalb von drei Monaten nach der Abtretung durch den Versicherer an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab.
 
 [^50-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+
+#### Art. 51
+
+**Übergangsbestimmung des XXXVI. Nachtrags vom 13. Mai 2025**
+
+<sup>1</sup> Die von den politischen Gemeinden nach [Art. 14a](https://www.gesetzessammlung.sg.ch/data/331.11/de/art14a) des Einführungsgesetzes zur Bundesgesetzgebung über die Krankenversicherung vom 9. November 1995[^51-1] in der Fassung vor Aufhebung durch den XIII. Nachtrag bis zum 31. Dezember 2025 bezahlten Prämien und Verzugszinsen können bei der Sozialversicherungsanstalt längstens bis zum 30. Juni 2026 geltend gemacht werden.
+
+[^51-1]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
 
 nGS 31–8
