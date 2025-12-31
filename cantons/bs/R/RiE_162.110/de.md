@@ -3,13 +3,13 @@ canton: BS
 number: RiE 162.110
 title: Personalreglement
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-12-09
 adopted: 2002-07-16
 in_force: 2002-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20162.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6493/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6718/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6493/pdf_file"
 
 Personalreglement | Riehen: Einwohnergemeinde
 
-Vom 16. Juli 2002 (Stand 1. Januar 2025)
+Vom 16. Juli 2002 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen
 
@@ -222,19 +222,21 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 #### § 17
 
-**Zeiterfassung**
+**Zeiterfassung und Absenzen**
 
-<sup>1</sup> Die Arbeitszeit wird mittels eines Zeiterfassungssystems erfasst.
+<sup>1</sup> Mitarbeitende müssen ihre tägliche Arbeitszeit und ihre Absenzen im digitalen Personalinformationssystem erfassen.
 
-<sup>2</sup> Bei Missbrauch können Mitarbeiterinnen und Mitarbeiter von den direkten Vorgesetzten verpflichtet werden, ihre Arbeitsleistung zu festen Zeiten zu erbringen. Vorbehalten bleiben weitere personalrechtliche Massnahmen.
+<sup>1<sup>bis</sup></sup> Die Mitarbeitenden sind verantwortlich für die korrekte Erfassung der Arbeitszeit und Absenzen.
+
+<sup>2</sup> Bei missbräuchlicher Zeiterfassung können personalrechtliche Massnahmen ergriffen werden.
 
 #### § 18
 
-**Arbeit ausserhalb der Erfassungszone und bezahlte Abwesenheit**
+**Bezahlte Abwesenheit**
 
-<sup>1</sup> Bei bezahlter Abwesenheit wird der effektive Aufwand bis maximal 8 Stunden 18 Minuten pro Tag angerechnet. Dies gilt auch für Kursbesuche der internen und externen Weiterbildung.
+<sup>1</sup> Bei bezahlter Abwesenheit wird Arbeitszeit bis höchstens 8 Stunden 18 Minuten pro Tag angerechnet.
 
-<sup>2</sup> Bei Dienstreisen und Arbeitszeit ausserhalb der Erfassungszone wird mit Zustimmung der direkten Vorgesetzen die effektive Reiseund Arbeitszeit bis maximal 10 Stunden pro Tag angerechnet.
+<sup>2</sup> Bei Dienstreisen wird mit Zustimmung der direkten Vorgesetzten die effektive Reise- und Arbeitszeit bis maximal 10 Stunden pro Tag angerechnet. Dies gilt auch für Kursbesuche der Weiterbildung im Interesse der Arbeitgeberin, wobei individuelle Vereinbarungen vorbehalten bleiben.
 
 <sup>3</sup> Die Teilnahme als Zuhörerin oder Zuhörer an öffentlichen Informationsveranstaltungen sowie die Wahrnehmung allfälliger Repräsentationspflichten gelten für Mitarbeiterinnen und Mitarbeiter ab dem Anforderungsniveau 9 nicht als Arbeitszeit. Bei anderen Mitarbeiterinnen und Mitarbeitern gilt die Teilnahme an solchen Veranstaltungen als Arbeitszeit, soweit sie von den direkten Vorgesetzten angeordnet wurde.
 
@@ -286,7 +288,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Vertrauensarbeitszeit**
 
-<sup>1</sup> Für die Verwaltungsleiterin oder den Verwaltungsleiter, für die Generalsekretärin oder den Generalsekretär sowie für die Abteilungsleitungen und die Leitungen der Stabsstellen, die Mitglieder der Erweiterten Geschäftsleitung sind, gilt die Vertrauensarbeitszeit. Sie sind von der Erfassung der Arbeitszeit gemäss § 17 befreit.
+<sup>1</sup> Für die Verwaltungsleiterin oder den Verwaltungsleiter, die Generalsekretärin oder den Generalsekretär sowie für die Abteilungsleitungen und die Leitungen der Stabsstellen, welche Mitglieder der Erweiterten Geschäftsleitung sind, gilt die Vertrauensarbeitszeit. Sie sind von der Erfassung der Arbeitszeit gemäss § 17 befreit. § 19c bleibt vorbehalten.
 
 <sup>2</sup> Die Vertrauensarbeitszeit orientiert sich an der Jahresarbeitszeit auf der Basis von 41.5 Stunden pro Woche.
 
@@ -321,7 +323,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 - c) die generelle Erreichbarkeit der Mitarbeiterin oder des Mitarbeiters,
 - d) die individuellen Bedürfnisse der Mitarbeiterinnen und Mitarbeiter.
 
-<sup>3</sup> Die Anstellungsinstanz ist befugt, im Sinne von Abs. 2 lit. a bis c hiervor bestimmte Präsenzzeiten für einzelne Mitarbeiterinnen und Mitarbeiter anzuordnen. Die Verwaltungsleiterin oder der Verwaltungsleiter ist davon in Kenntnis zu setzen. § 15 Abs. 3 und 4 dieses Reglements bleiben vorbehalten.
+<sup>3</sup> Die Anstellungsinstanz ist befugt, im Sinne von Abs. 2 lit. a – c Präsenzzeiten für einzelne ihr unterstellte Mitarbeitende anzuordnen. § 15 Abs. 3 und 4 bleiben vorbehalten.
 
 #### § 21
 
@@ -333,7 +335,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 - b) Die wöchentliche Arbeitszeit beträgt maximal 50 Stunden.
 - c) Bei Nachtarbeit darf die tägliche Arbeitszeit der Mitarbeitenden neun Stunden nicht überschreiten; sie muss, mit Einschluss der Pausen, innerhalb eines Zeitraums von zehn Stunden liegen.
 - d) Abend-, Nacht-, Samstags- oder Sonn- und Feiertagsarbeit darf nur ausnahmsweise geleistet werden. Diese muss den betroffenen Mitarbeitenden möglichst früh im Voraus angezeigt werden. Vorbehalten bleibt § 19 Abs. 1 Satz 2.
-- e) Die tägliche Arbeitszeit von Jugendlichen unter zwanzig Jahren und von Lernenden beträgt maximal 9 Stunden pro Tag.
+- e) Die tägliche Arbeitszeit von Jugendlichen unter 18 Jahren beträgt maximal 9 Stunden pro Tag.
 - f) Bei der Einteilung der Arbeitszeit ist auf die persönlichen und familiären Verpflichtungen der Mitarbeitenden angemessen Rücksicht zu nehmen.
 
 <sup>1<sup>bis</sup></sup> Abweichungen von den Einschränkungen gemäss Abs. 1 lit. a, b und e müssen von den Vorgesetzen genehmigt werden.
@@ -354,7 +356,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>3</sup> Den Mitarbeitenden ist eine tägliche Ruhezeit von mindestens elf Stunden zu gewähren.
 
-<sup>4</sup> Die Ruhezeit kann für Mitarbeitende ab 20 Jahren einmal während der Woche bis auf acht Stunden herabgesetzt werden, sofern die Dauer von elf Stunden im Durchschnitt von zwei Wochen eingehalten wird.
+<sup>4</sup> Die Ruhezeit kann für Mitarbeitende ab 18 Jahren einmal während der Woche bis auf acht Stunden herabgesetzt werden, sofern die Dauer von elf Stunden im Durchschnitt von zwei Wochen eingehalten wird.
 
 <sup>5</sup> Innert zwei Wochen muss wenigstens einmal ein Sonntag als wöchentlicher Ruhetag unmittelbar vor oder nach der täglichen Ruhezeit freigegeben werden.
 
@@ -392,7 +394,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Die effektiv geleistete Arbeitszeit soll pro Kalenderjahr der hochgerechneten wöchentlichen Arbeitszeit gemäss § 16 dieses Reglements entsprechen.
 
-<sup>2</sup> Führen Arbeitszeitschwankungen zu Mehr- oder Minderleistungen, dürfen diese jeweils am Monatsende maximal plus 40 respektive minus 40 Stunden erreichen.
+<sup>2</sup> Führen Arbeitszeitschwankungen zu Mehr- oder Minderleistungen, dürfen diese jeweils am von der Verwaltungsleiterin oder dem Verwaltungsleiter festgelegten Stichtag maximal plus 40 respektive minus 40 Stunden erreichen.
 
 <sup>3</sup> Mehrleistungen von über 40 Stunden verfallen, sofern sie nicht als betrieblich bedingt vom oder von der direkten Vorgesetzten genehmigt wurden. Bei Minderleistungen erfolgt ab der 41. Stunde ein entsprechender Lohnabzug.
 
@@ -410,21 +412,21 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Für Teilzeitbeschäftigte gelten grundsätzlich bezüglich der maximalen Abweichung die gleichen Werte wie für Vollzeitbeschäftigte.
 
-<sup>2</sup> Betragen die Mehrleistungen mehr als plus 20 bzw. minus 20 Stunden, überprüfen die betroffenen Mitarbeiterinnen und Mitarbeiter mit ihren Vorgesetzten die geplanten Arbeiten.
+<sup>2</sup> …
 
-<sup>3</sup> Sollen Teilzeitbeschäftigte über einen längeren Zeitraum betrieblich bedingte Mehrleistungen erbringen, kann die Anstellungsinstanz einen befristeten Zusatzvertrag vereinbaren. Dauern die Mehrleistungen mehr als vier Monate, ist das Pensum anzupassen.
+<sup>3</sup> Sollen Teilzeitbeschäftigte während eines längeren Zeitraums betriebsbedingt Mehrleistungen erbringen, kann die Anstellungsinstanz eine befristete Vertragsänderung vereinbaren. Dauern die Mehrleistungen mehr als vier Monate, ist das Pensum anzupassen.
 
-<sup>4</sup> Wenn aus betrieblichen Gründen ein Zusatzvertrag gemäss Abs. 3 nicht sinnvoll ist, weil der zusätzliche Arbeitseinsatz zeitlich nicht planbar ist, kann die Verwaltungsleiterin oder der Verwaltungsleiter eine Barvergütung vereinbaren.
+<sup>4</sup> Ist eine befristete Vertragsänderung gemäss Abs. 3 aus betrieblichen Gründen nicht zweckmässig, da der zusätzliche Arbeitseinsatz zeitlich nicht planbar ist, kann die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär bzw. die Gemeindepräsidentin oder der Gemeindepräsident als Anstellungsinstanz eine Barvergütung vereinbaren.
 
 <sup>5</sup> Insgesamt darf die Mehrarbeit das Pensum einer Vollzeitbeschäftigung nicht übersteigen.
 
-<sup>6</sup> Betragen die Pensen weniger als 50%, kann die Anstellungsinstanz die Bandbreiten der Arbeitszeitschwankungen gemäss § 22 dieses Reglements anpassen. Die Einschränkung muss den Mitarbeiterinnen und Mitarbeitern mindestens einen Monat im Voraus schriftlich mitgeteilt werden.
+<sup>6</sup> Beträgt das Pensum weniger als 50 %, kann die Anstellungsinstanz die Bandbreiten der Arbeitszeitschwankungen gemäss § 22 anpassen. Die Einschränkung muss der oder dem betroffenen Mitarbeitenden mindestens einen Monat im Voraus schriftlich mitgeteilt werden.
 
 #### § 22b
 
 **Steuerung des Jahresarbeitszeitsaldos**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter erhalten einmal monatlich einen Auszug über die geleistete Arbeitszeit. Den Abteilungsleitenden wird periodisch ein Monitoring zur Verfügung gestellt.
+<sup>1</sup> Die Mitarbeitenden schliessen ihre Zeiterfassung jeweils bis zum von der Verwaltungsleiterin oder dem Verwaltungsleiter festgelegten Stichtag ab. Die Vorgesetzten kontrollieren und visieren diese anschliessend bis zum dafür festgelegten Stichtag.
 
 <sup>2</sup> Mindestens zweimal pro Jahr besprechen die direkten Vorgesetzten mit ihren Mitarbeiterinnen und Mitarbeitern die Arbeitszeitplanung.
 
@@ -448,11 +450,13 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Barvergütung**
 
-<sup>1</sup> Können Mehrleistungen im Ausnahmefall in den nächsten 12 Monaten nicht kompensiert werden, kann die Verwaltungsleiterin oder der Verwaltungsleiter oder die Generalsekretärin oder der Generalsekretär bzw. die Gemeindepräsidentin oder der Gemeindepräsident als Anstellungsinstanz auf schriftlichen Antrag der Vorgesetzten und nach Rücksprache mit der Leitung Personal eine Barvergütung bewilligen.
+<sup>1</sup> Sind Mehrleistungen innert zwölf Monaten ausnahmsweise nicht kompensierbar, kann die Verwaltungsleiterin oder der Verwaltungsleiter, die Generalsekretärin oder der Generalsekretär bzw. die Gemeindepräsidentin oder der Gemeindepräsident als Anstellungsinstanz auf schriftlichen Antrag der Vorgesetzten und nach Rücksprache mit der Leitung Personal eine Barvergütung bewilligen.
 
 <sup>1<sup>bis</sup></sup> Die einzelnen Gemeinderatsmitglieder werden über Bewilligungen von Barvergütungen in ihrem Ressort informiert.
 
 <sup>2</sup> …
+
+<sup>3</sup> Die Bewilligung einer Barvergütung erfordert die Zustimmung der oder des betroffenen Mitarbeitenden.
 
 #### § 24
 
@@ -474,7 +478,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Die Arbeitgeberin gewährt ihren Mitarbeiterinnen und Mitarbeitern Ferien im Umfang von § 13 Personalordnung.
 
-<sup>2</sup> Jugendliche bis zum zurückgelegten 20. Altersjahr und Lehrlinge haben Anspruch auf fünf Wochen Ferien.
+<sup>2</sup> …
 
 <sup>3</sup> …
 
@@ -482,7 +486,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Bestimmung des Zeitpunktes**
 
-<sup>1</sup> Der Zeitpunkt der Ferien der Mitarbeiterinnen und Mitarbeiter wird in Absprache mit den direkten Vorgesetzten und dem Arbeitsteam festgelegt. Die direkten Vorgesetzten nehmen auf die Wünsche der Mitarbeiterinnen und Mitarbeiter und die Interessen des Betriebs angemessen Rücksicht. Auf Verlangen begründen die direkten Vorgesetzten ihren Entscheid schriftlich im Sinne von § 59 Abs. 1 dieses Reglements.
+<sup>1</sup> Der Zeitpunkt der Ferien der Mitarbeitenden wird in Absprache mit den direkten Vorgesetzten und dem Arbeitsteam festgelegt. Die direkten Vorgesetzten nehmen auf die Wünsche der Mitarbeitenden und die Interessen des Betriebs angemessen Rücksicht.
 
 <sup>2</sup> Pro Jahr sollen mindestens zwei Ferienwochen ohne Unterbrechung bezogen werden. Dauert die Abwesenheit mehr als vier Wochen, muss vorgängig die Zustimmung der Anstellungsinstanz eingeholt werden.
 
@@ -529,11 +533,9 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch um bezahlten Urlaub wird nach Massgabe von § 14 Abs. 3 Personalordnung und § 37[^32-1] dieses Reglements (Weiterbildung) bewilligt.
+<sup>1</sup> Das Gesuch um bezahlten Urlaub wird nach Massgabe von § 14 Abs. 3 Personalordnung und den Regelungen dieses Reglements bewilligt.
 
-<sup>2</sup> Über die Bewilligung von bezahltem Urlaub bis zu vier Arbeitstagen entscheiden die direkten Vorgesetzten. Bei länger dauerndem oder wiederkehrendem Urlaub entscheidet die Anstellungsinstanz nach Rücksprache mit der Leitung Personal.
-
-[^32-1]: § 32 Abs. 1: Verweis redaktionell berichtigt.
+<sup>2</sup> Über die Bewilligung von bezahltem Urlaub bis zu fünf Arbeitstagen entscheiden die direkten Vorgesetzten. Bei länger dauerndem oder wiederkehrendem Urlaub entscheidet die Anstellungsinstanz nach Rücksprache mit der Leitung Personal.
 
 #### § 33
 
@@ -564,15 +566,15 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>1</sup> Bei jedem Dienstjubiläum gemäss § 18 der Lohnordnung hat die Mitarbeiterin oder der Mitarbeiter Anspruch auf einen Jubiläumstag in Form eines arbeitsfreien Tages.
 
-<sup>2</sup> Der Jubiläumstag ist spätestens innert einem Monat seit dem Zeitpunkt des Jubiläums zu beziehen. Ansonsten verfällt der Anspruch. Die Vorgesetzte oder der Vorgesetzte kann aus betrieblichen Gründen einen späteren Bezug bewilligen.
+<sup>2</sup> Der Jubiläumstag ist spätestens innert sechs Monaten seit dem Zeitpunkt des Jubiläums zu beziehen. Ansonsten verfällt der Anspruch.
 
 #### § 36
 
-**Dringende persönliche Angelegenheiten**
+**Persönliche Angelegenheiten**
 
-<sup>1</sup> Dringende persönliche Angelegenheiten werden nach Möglichkeit ausserhalb der Arbeitszeit erledigt.
+<sup>1</sup> Persönliche Angelegenheiten werden nach Möglichkeit ausserhalb der Arbeitszeit erledigt.
 
-<sup>2</sup> Anspruch auf bezahlten Urlaub besteht bei folgenden Ereignissen im nachgenannten Umfang:
+<sup>2</sup> Anspruch auf bezahlten Urlaub für persönliche Angelegenheiten besteht bei folgenden Ereignissen im nachgenannten Umfang:
 
 - a) Heirat der Mitarbeiterin oder des Mitarbeiters: 2 Tage; Heirat naher Angehöriger: 1 Tag
 - b) …
@@ -580,6 +582,7 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 - d) Todesfall naher Angehöriger oder vergleichbar nahestehender Personen: Bis zu 4 Tagen, je nach Aufwand und Reisezeit
 - e) Betreuung von nahen Angehörigen mit gesundheitlicher Beeinträchtigung bis zu 3 Tagen pro Ereignis; der Betreuungsurlaub beträgt höchstens zehn Tage pro Kalenderjahr
 - f) Wohnungswechsel: 1 Tag
+- g) Bei Vorladungen vor eine Behörde oder ein Gericht als Partei, Zeugin oder Zeuge, Auskunftsperson oder Expertin oder Experte im erforderlichen Umfang
 
 <sup>3</sup> Als nahe Angehörige im Sinne dieses Reglements gelten alle Verwandten in auf- und absteigender Linie und die Geschwister sowie die Ehegattin bzw. der Ehegatte, die eingetragene Partnerin bzw. der eingetragene Partner, die Person, mit welcher eine faktische Lebensgemeinschaft geführt wird, und die Schwiegereltern. Als Kinder gelten diejenigen Personen, zu denen ein Kindesverhältnis im zivilrechtlichen Sinne besteht.
 
@@ -991,6 +994,8 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 
 <sup>3</sup> Verlangen Mitarbeiterinnen und Mitarbeiter zusätzlich zur persönlichen oder schriftlichen Mitteilung den Erlass einer rekursfähigen Verfügung, so haben sie dies innert 10 Tagen bei der Anstellungsinstanz anzumelden.
 
+<sup>4</sup> Die Auferlegung einer Bewährungsfrist kann nicht selbständig mittels Rekurs angefochten werden. Allfällige Einwendungen können im Rahmen eines Rekursverfahrens gegen eine nachfolgende Kündigung oder eine rekursfähige Massnahme geltend gemacht werden.
+
 #### § 60
 
 **Verfügung**
@@ -1091,7 +1096,8 @@ erlässt gestützt auf § 49 der Personalordnung vom 24. April 2002[^ingress-1] 
 - c) die Gewährung von Urlaub zur Regelung dringender persönlicher Angelegenheiten und den weiteren Urlaub
 - d) die Entgegennahme von Trinkgeldern und Geschenken
 - e) die Ausrichtung eines Abschiedsgeschenks bei Pensionierung
-- f) die Dienstwohnungen
+- f) die Personalwohnungen
+- g) die Sollarbeitszeit und Absenzen bei Teilzeitmitarbeitenden
 
 #### § 66a
 
