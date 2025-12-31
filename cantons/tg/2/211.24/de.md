@@ -4,13 +4,12 @@ number: "211.24"
 title: Kindes- und Erwachsenenschutzverordnung
 short: KESV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-01-20
+version: 2026-01-01
+version_adopted: 2025-11-10
 adopted: 2012-10-22
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.24"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2880/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ KESV
 
 (KESV)
 
-vom 22.10.2012 (Stand 01.01.2025)
+vom 22.10.2012 (Stand 01.01.2026)
 
 Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a Abs. 2, § 16d Abs. 2, § 51 und § 83 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch (EG ZGB)[^ingress-1].
 
@@ -106,6 +105,20 @@ Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a
 **Jahreskonferenz**
 
 <sup>1</sup> Das Obergerichtspräsidium führt jedes Jahr mit den Präsidien der Kindes- und Erwachsenenschutzbehörden mindestens ein Treffen zur Behandlung aktueller Fragen durch. Dabei können zur Vereinheitlichung der Rechtsanwendung Richtlinien erlassen werden; diese bedürfen der Genehmigung durch das Obergericht.
+
+#### § 8a
+
+**Versammlung der Präsidien der Kindes- und Erwachsenenschutzbehörden**
+
+<sup>1</sup> Die Versammlung der Präsidien der Kindes- und Erwachsenenschutzbehörden (Versammlung) kann zur Vereinheitlichung der Rechtsanwendung und der Abläufe Beschlüsse fassen. Diese bedürfen der Genehmigung durch das Obergericht.
+
+<sup>2</sup> Sie wählt periodisch eine Vorsitzende oder einen Vorsitzenden für eine Amtsdauer von vier Jahren, die oder der die Versammlung gegen aussen vertritt, sie organisiert und deren Geschäfte traktandiert.
+
+<sup>3</sup> Über die Versammlung wird ein Protokoll geführt, das den Präsidien sowie dem Obergericht als Aufsichtsinstanz zugestellt wird. Der oder die Vorsitzende kann für das Protokoll und die Administration eine Mitarbeiterin oder einen Mitarbeiter einer Kindes- und Erwachsenenschutzbehörde beiziehen.
+
+<sup>4</sup> Das Obergerichtspräsidium bewilligt auf Antrag der Versammlung für die Arbeit der Vorsitzenden oder des Vorsitzenden und für die allfällige Unterstützung durch eine Mitarbeiterin oder einen Mitarbeiter eine entsprechende Erhöhung des jeweiligen Pensums.
+
+<sup>5</sup> Die Versammlung regelt ihre Zusammenarbeit in einem Reglement. Dieses bedarf der Genehmigung durch das Obergericht.
 
 #### § 9
 
@@ -497,6 +510,7 @@ Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a
 - 27\. Antrag auf Verschollenerklärung (Art. 550 ZGB)
 - 28\. Anordnung der Vertretungsbeistandschaft für das ungeborene Kind zur Wahrung erbrechtlicher Ansprüche (Art. 544 Abs. 1<sup>bis</sup> ZGB)
 - 29\. …
+- 29a. Bescheinigungen betreffend die elterliche Sorge in nationalen Verhältnissen
 - 30\. Regelung über die Anrechnung der Erziehungsgutschriften (Art. 52f<sup>bis</sup> der Verordnung über die Alters- und Hinterlassenenversicherung[^39a-1])
 - 31\. Antrag zur Anordnung einer Kindesvertretung im Scheidungs- oder Trennungsprozess (Art. 299 Abs. 2 lit. b ZPO)
 
@@ -704,7 +718,7 @@ Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a
 
 **Gutachten**
 
-<sup>1</sup> Unter Vorbehalt von dringlichen Massnahmen holt die Kindes- und Erwachsenenschutzbehörde das medizinisch-psychiatrische Gutachten einer unabhängigen sachverständigen Person ein, wenn über die geistigen Fähigkeiten oder bezüglich der psychischen Stabilität der betroffenen Person Zweifel bestehen und der zu treffende Entscheid dadurch beeinflusst werden kann, oder wenn über eine unfreiwillige Unterbringung oder Behandlung aufgrund einer psychischen Störung oder einer geistigen Behinderung entschieden werden muss. Medizinisch-psychiatrische Fachpersonen, welche die betroffene Person aktuell behandeln oder früher behandelt oder begutachtet haben, gelten nicht als unabhängig.
+<sup>1</sup> Unter Vorbehalt von dringlichen Massnahmen holt die Kindes- und Erwachsenenschutzbehörde ein medizinisch-psychiatrische Gutachten einer unabhängigen sachverständigen Person ein, wenn über die geistigen Fähigkeiten oder bezüglich der psychischen Stabilität der betroffenen Person Zweifel bestehen und der zu treffende Entscheid dadurch beeinflusst werden könnte oder wenn über eine unfreiwillige Unterbringung oder Behandlung aufgrund einer psychischen Störung oder einer geistigen Behinderung entschieden werden muss. Medizinisch-psychiatrische Fachpersonen, die die betroffene Person behandeln oder früher behandelt haben, gelten nicht als unabhängig.
 
 <sup>2</sup> Für die Feststellung der Urteilsfähigkeit, insbesondere als Voraussetzung für die Wirksamkeit der eigenen Vorsorge, genügt in der Regel ein aussagekräftiges Arztzeugnis.
 
@@ -828,11 +842,11 @@ Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a
 
 #### § 64
 
-**Inkasso, Erlass und Stundung**
+**Inkasso, Erlass, Stundung und Abschreibung von Verfahrenskosten**
 
 <sup>1</sup> Das Inkasso der Verfahrenskosten ist Sache der Kindes- und Erwachsenenschutzbehörde.
 
-<sup>2</sup> Über Stundung, Reduktion und Erlass der Verfahrenskosten entscheidet die Verfahrensleitung.
+<sup>2</sup> Über Stundung, Reduktion, Erlass und Abschreibung der Verfahrenskosten entscheidet die Verfahrensleitung.
 
 <sup>3</sup> Bei einem Weiterzug von Entscheiden regelt die Beschwerdeinstanz in ihrem Entscheid, welche Kosten durch welche Instanz bezogen werden.
 
@@ -966,9 +980,7 @@ Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a
 
 **Verfahren**
 
-<sup>1</sup> Ansprüche aus Art. 454 Abs. 1 bis Abs. 3 ZGB sind im Klageverfahren nach § 64 ff. des Gesetzes über die Verwaltungsrechtspflege (VRG)[^77a-1] beim Verwaltungsgericht geltend zu machen. Es ist durch die Kindes- und Erwachsenenschutzbehörde kein Entscheid zu erlassen und das Beschwerdeverfahren steht nicht zur Verfügung.
-
-[^77a-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+<sup>1</sup> Ansprüche aus Art. 454 Abs. 1 bis Abs. 3 ZGB sind im Klageverfahren nach § 11d EG ZGB geltend zu machen. Die Kindes- und Erwachsenenschutzbehörde erlässt keinen Entscheid und das Beschwerdeverfahren steht nicht zur Verfügung.
 
 #### § 77b
 
@@ -1180,7 +1192,9 @@ Erlassen vom Obergericht gestützt auf § 3 Abs. 1 Satz 2, § 11c Abs. 2, § 16a
 
 **Örtliche Zuständigkeit**
 
-<sup>1</sup> In den Fällen von Art. 439 Abs. 1 Ziff. 2 bis Ziff. 4 ZGB richtet sich die Zuständigkeit innerkantonal nach dem Wohnsitz der betroffenen Person. Interkantonal ist für die Beurteilung von Beschwerden gegen ärztlich angeordnete fürsorgerische Unterbringungen das Gericht am Ort, wo die Unterbringung angeordnet wurde, zuständig.
+<sup>1</sup> In den Fällen von Art. 439 Abs. 1 Ziff. 1 bis Ziff. 5 ZGB richtet sich die Zuständigkeit innerkantonal nach dem Wohnsitz der betroffenen Person.
+
+<sup>2</sup> Interkantonal ist für die Beurteilung von Beschwerden gegen ärztlich angeordnete fürsorgerische Unterbringungen nach Art. 439 Abs. 1 Ziff. 1 ZGB das Gericht am Ort, wo die Unterbringung angeordnet wurde, zuständig. In den Fällen von Art. 439 Abs. 1 Ziff. 2 bis Ziff. 5 ZGB ist interkantonal das Gericht am Ort der Einrichtung zuständig.
 
 #### § 95
 
