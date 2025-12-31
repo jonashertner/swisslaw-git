@@ -4,13 +4,12 @@ number: "780.11"
 title: Verordnung über den Umweltschutz
 short: USV
 language: de
-version: 2019-05-01
-valid_until: 2025-12-31
-version_adopted: 2019-03-26
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 1991-12-24
 in_force: 1992-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/780.11"
-pdf: "https://bl.clex.ch/api/de/versions/3279/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4446/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +18,16 @@ pdf: "https://bl.clex.ch/api/de/versions/3279/pdf_file"
 
 (USV)
 
-Vom 24.12.1991 (Stand 01.05.2019)
+Vom 24.12.1991 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Kantonsverfassung[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Umweltschutzgesetz Basel-Landschaft vom 27. Februar 1991[^ingress-2]
 
 beschliesst:
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 780](https://bl.clex.ch/data/780/de)
 
 ## 1 Zweck und Geltungsbereich
 
@@ -73,9 +73,9 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Die Liste der Anlagen, die dem Lufthygieneamt vor der 1. Inbetriebnahme und bei wesentlichen Änderungen gemeldet werden müssen, ist in Anhang 1 enthalten.
+<sup>1</sup> Die Liste der Anlagen, die dem Amt für Umweltschutz und Energie vor der 1. Inbetriebnahme und bei wesentlichen Änderungen gemeldet werden müssen, ist in Anhang 1 enthalten.
 
-<sup>2</sup> Die Meldepflicht gilt als erfüllt, wenn eine Anlage oder ein Verfahren bereits in einem Bewilligungsverfahren einer anderen kantonalen Behörde gemeldet worden ist. In diesen Fällen stellt die Bewilligungsbehörde die Unterlagen dem Lufthygieneamt zu.
+<sup>2</sup> Die Meldepflicht gilt als erfüllt, wenn eine Anlage oder ein Verfahren bereits in einem Bewilligungsverfahren einer anderen kantonalen Behörde gemeldet worden ist. In diesen Fällen stellt die Bewilligungsbehörde die Unterlagen dem Amt für Umweltschutz und Energie zu.
 
 #### § 5
 
@@ -90,7 +90,7 @@ beschliesst:
 
 **Neue und geänderte Verfahren**
 
-<sup>1</sup> Neue bzw. geänderte Verfahren müssen dem Lufthygieneamt gemeldet werden, wenn nach der Abluft-Reinigung:
+<sup>1</sup> Neue bzw. geänderte Verfahren müssen dem Amt für Umweltschutz und Energie gemeldet werden, wenn nach der Abluft-Reinigung:
 
 - a. Stoffe einer anderen Ziffer nach Anhang 1 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^6-1] emittiert werden (z. B. Stoffe der Ziffer 8 «krebserzeugende Stoffe» zusätzlich zu oder anstatt Stoffen der Ziffer 5 «anorganische, vorwiegend staubförmige Stoffe»);
 - b. Stoffe der gleichen Ziffer, aber einer qualifizierteren Klasse emittiert werden (z. B. Stoffe der Ziffer 6, Klasse 1 zusätzlich zu oder anstatt Stoffen der Ziffer 6, Klasse 3);
@@ -102,7 +102,7 @@ beschliesst:
 
 #### § 7
 
-<sup>1</sup> Das Lufthygieneamt ist zuständig für die Kontrolle der Öl- und Gasfeuerungsanlagen mit einer Feuerungswärmeleistung über 1 MW und der Holzfeuerungsanlagen mit einer Feuerungswärmeleistung über 70 kW. Es kann dazu Private beiziehen.
+<sup>1</sup> Das Amt für Umweltschutz und Energie ist zuständig für die Kontrolle der Öl- und Gasfeuerungsanlagen mit einer Feuerungswärmeleistung über 1 MW und der Holzfeuerungsanlagen mit einer Feuerungswärmeleistung über 70 kW. Es kann dazu Private beiziehen.
 
 <sup>2</sup> Die Durchführung der Kontrollmessungen richtet sich nach den eidgenössischen Empfehlungen.
 
@@ -136,7 +136,7 @@ beschliesst:
 
 **Optionen für Emissionsgutschriften**
 
-<sup>1</sup> Wer bei der Planung einer neuen Anlage oder der Änderung einer bestehenden Anlage feststellt, dass er die verschärften Emissionsbegrenzungen erheblich unterschreiten wird, kann vom Lufthygieneamt eine Option für eine Emissionsgutschrift verlangen.
+<sup>1</sup> Wer bei der Planung einer neuen Anlage oder der Änderung einer bestehenden Anlage feststellt, dass sie die verschärften Emissionsbegrenzungen erheblich unterschreiten wird, kann vom Amt für Umweltschutz und Energie eine Option für eine Emissionsgutschrift verlangen.
 
 <sup>2</sup> In der Option wird festgehalten, dass die Anlage voraussichtlich eine Emissionsgutschrift im angegebenen Umfang erhalten wird, falls sie die erwarteten Emissionswerte einhält.
 
@@ -144,23 +144,23 @@ beschliesst:
 
 **Erteilung von Emissionsgutschriften**
 
-<sup>1</sup> Das Lufthygieneamt erteilt die Emissionsgutschriften auf Antrag der Anlagen-Inhaberinnen oder -Inhaber, nachdem durch Messungen erwiesen ist, dass die Anlage die Emissionsgrenzwerte im nötigen Ausmass unterschreitet.
+<sup>1</sup> Das Amt für Umweltschutz und Energie erteilt die Emissionsgutschriften auf Antrag der Anlagen-Inhaberinnen oder -Inhaber, nachdem durch Messungen erwiesen ist, dass die Anlage die Emissionsgrenzwerte im nötigen Ausmass unterschreitet.
 
 <sup>2</sup> Die Emissionsgutschriften betragen 80 % der über die Limite von 10 % hinausgehenden Grenzwert-Unterschreitung.
 
-<sup>3</sup> Das Lufthygieneamt berechnet die Emissionsgutschriften entsprechend den gemessenen Emissionskonzentrationen, dem Volumenstrom und der durchschnittlichen jährlichen Betriebsdauer der Anlage.
+<sup>3</sup> Das Amt für Umweltschutz und Energie berechnet die Emissionsgutschriften entsprechend den gemessenen Emissionskonzentrationen, dem Volumenstrom und der durchschnittlichen jährlichen Betriebsdauer der Anlage.
 
 <sup>4</sup> Emissionsgutschriften für weniger als 200 kg Stickoxide bzw. für weniger als 500 kg flüchtige organische Stoffe werden nicht ausgestellt.
 
-<sup>5</sup> Mit der Erteilung der Gutschrift legt das Lufthygieneamt für die betroffene Anlage eine neue Emissionsbegrenzung fest.
+<sup>5</sup> Mit der Erteilung der Gutschrift legt das Amt für Umweltschutz und Energie für die betroffene Anlage eine neue Emissionsbegrenzung fest.
 
 #### § 12
 
 **Einsatz von Emissionsgutschriften**
 
-<sup>1</sup> Wer eine Emissionsgutschrift einsetzen will, muss dies dem Lufthygieneamt spätestens dann melden, wenn er das Gesuch (Baugesuch, Einrichtungsbegehren) für die neue Anlage einreicht oder einen Sanierungsvorschlag unterbreitet.
+<sup>1</sup> Wer eine Emissionsgutschrift einsetzen will, muss dies dem Amt für Umweltschutz und Energie spätestens dann melden, wenn das Gesuch (Baugesuch, Einrichtungsbegehren) für die neue Anlage eingereicht oder ein Sanierungsvorschlag unterbreitet wird.
 
-<sup>2</sup> Das Lufthygieneamt berechnet die zulässige Emissionskonzentration aufgrund der Höhe der vorgelegten Emissionsgutschrift sowie des Volumenstroms und der durchschnittlichen jährlichen Betriebsdauer der geplanten bzw. geänderten Anlage.
+<sup>2</sup> Das Amt für Umweltschutz und Energie berechnet die zulässige Emissionskonzentration aufgrund der Höhe der vorgelegten Emissionsgutschrift sowie des Volumenstroms und der durchschnittlichen jährlichen Betriebsdauer der geplanten bzw. geänderten Anlage.
 
 #### § 13
 
@@ -176,7 +176,7 @@ beschliesst:
 
 **Optionen für Emissionsverbünde**
 
-<sup>1</sup> Wer beabsichtigt, einen Emissionsverbund zu bilden, kann dafür vom Lufthygieneamt eine Option verlangen.
+<sup>1</sup> Wer beabsichtigt, einen Emissionsverbund zu bilden, kann dafür vom Amt für Umweltschutz und Energie eine Option verlangen.
 
 <sup>2</sup> In der Option wird festgehalten, welche Anlagen voraussichtlich im Emissionsverbund zugelassen werden, falls sie die erwarteten Emissionswerte einhalten.
 
@@ -184,23 +184,23 @@ beschliesst:
 
 **Zustimmung zu Emissionsverbünden**
 
-<sup>1</sup> Das Lufthygieneamt erteilt auf Antrag der beteiligten Betriebe die Zustimmung zu einem Emissionsverbund, wenn die Emissionen der im Verbund zusammengeschlossenen Anlagen die zulässigen Emissionen insgesamt um mindestens 15 % unterschreiten.
+<sup>1</sup> Das Amt für Umweltschutz und Energie erteilt auf Antrag der beteiligten Betriebe die Zustimmung zu einem Emissionsverbund, wenn die Emissionen der im Verbund zusammengeschlossenen Anlagen die zulässigen Emissionen insgesamt um mindestens 15 % unterschreiten.
 
 <sup>2</sup> Für die Berechnung massgebend sind die gemessene Emissionskonzentration, der Volumenstrom sowie die durchschnittliche jährliche Betriebsdauer jeder im Verbund enthaltenen Anlage. Die so ermittelte tatsächliche Fracht wird derjenigen Fracht gegenübergestellt, die sich aufgrund der Emissionsgrenzwerte, des Volumenstroms und gleicher Betriebsdauer ergeben würde.
 
-<sup>3</sup> Unterschreitet die tatsächliche Fracht der im Verbund enthaltenen Anlagen die erlaubte Fracht um mehr als 15 %, so kann das Lufthygieneamt den am Verbund beteiligten Betrieben zusätzlich eine Emissionsgutschrift erteilen.
+<sup>3</sup> Unterschreitet die tatsächliche Fracht der im Verbund enthaltenen Anlagen die erlaubte Fracht um mehr als 15 %, so kann das Amt für Umweltschutz und Energie den am Verbund beteiligten Betrieben zusätzlich eine Emissionsgutschrift erteilen.
 
 #### § 16
 
 **Kontrolle der Emissionsverbünde**
 
-<sup>1</sup> Die an einem Emissionsverbund beteiligten Betriebe müssen dem Lufthygieneamt jährlich eine Emissionsbilanz über die im Verbund enthaltenen Anlagen liefern.
+<sup>1</sup> Die an einem Emissionsverbund beteiligten Betriebe müssen dem Amt für Umweltschutz und Energie jährlich eine Emissionsbilanz über die im Verbund enthaltenen Anlagen liefern.
 
 #### § 17
 
 **Verzeichnis der Emissionsgutschriften und Emissionsverbünde**
 
-<sup>1</sup> Das Lufthygieneamt erstellt ein Verzeichnis der Emissionsgutschriften und der Emissionsverbünde sowie der dafür ausgestellten Optionen.
+<sup>1</sup> Das Amt für Umweltschutz und Energie erstellt ein Verzeichnis der Emissionsgutschriften und der Emissionsverbünde sowie der dafür ausgestellten Optionen.
 
 <sup>2</sup> Im Verzeichnis der Emissiongutschriften und der entsprechenden Optionen werden festgehalten:
 
@@ -219,7 +219,7 @@ beschliesst:
 - c. das Datum der Zustimmung zum Verbund oder der Ausstellung der Option;
 - d. der Schadstoff, für den der Verbund gebildet worden ist.
 
-<sup>5</sup> Bei Bedarf kann das Lufthygieneamt zusätzlich ein Verzeichnis von Personen und Betrieben führen, welche Emissionsgutschriften erwerben oder sich an einem Emissionsverbund beteiligen wollen.
+<sup>5</sup> Bei Bedarf kann das Amt für Umweltschutz und Energie zusätzlich ein Verzeichnis von Personen und Betrieben führen, welche Emissionsgutschriften erwerben oder sich an einem Emissionsverbund beteiligen wollen.
 
 <sup>6</sup> Alle Verzeichnisse sind öffentlich.
 
