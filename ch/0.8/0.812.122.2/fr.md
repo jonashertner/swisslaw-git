@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Convention internationale du 19 octobre 2005 contre le dopage dans le sport (avec annexes et appendices)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-95-20250101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-95-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Paris le 19 octobre 2005 Approuvée par l’Assemblée fédérale le 13 juin 2008[^t-1] Instrument de ratification déposé par la Suisse le 23 octobre 2008 Entrée en vigueur pour la Suisse le 1<sup>er</sup> décembre 2008
 
-(État le 1<sup>er</sup> janvier 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -498,7 +498,7 @@ Le Directeur général de l’UNESCO est le dépositaire de la présente Convent
 
 Conformément à l’art. 102 de la Charte des Nations Unies[^41-1], la présente Convention sera enregistrée au Secrétariat de l’Organisation des Nations Unies à la requête du Directeur général de l’UNESCO.
 
-[^41-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^41-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 42
 
@@ -522,8 +522,8 @@ Annexe I[^t-2]
 
 [^annexI-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon la mod. entrée en vigueur le 1<sup>er</sup> janv. 2025 ([RO 2024 657](https://fedlex.data.admin.ch/eli/oc/2024/657)).
-[^annexI-lvlu1-1]: La liste actuelle des interdictions du Code mondial antidopage peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions](https://www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
+[^t-2]: Nouvelle teneur selon la mod. entrée en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2025 789](https://fedlex.data.admin.ch/eli/oc/2025/789)).
+[^annexI-lvlu1-1]: La liste actuelle des interdictions du Code mondial antidopage peut être gratuitement consultée en français et en allemand sur le site de l’Antidoping Suisse: [www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions](https://www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions), autorité compétente pour les mesures de lutte contre le dopage, conformément à l’art. 19 de la loi du 17 juin 2011 sur l’encouragement du sport ([RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)).
 
 Annexe II[^t-3]
 
@@ -532,7 +532,7 @@ Annexe II[^t-3]
 [^annexII-lvlu1-1]
 
 [^t-3]: Nouvelle teneur selon la mod. approuvée par le Comité exécutif de l’Agence mondiale antidopage le 23 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
-[^annexII-lvlu1-1]: Conformément à l’art. 19 de la loi fédérale du 17 juin 2011 sur l’encouragement du sport <sup>(</sup>[RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), le standard actuel peut être consulté gratuitement dans les trois langues officielles auprès de l’autorité compétente pour les mesures de lutte contre le dopage (Swiss Sport Integrity) à l’adresse: [www.wada-ama.org/sites/default/files/2022-09/standard\_international\_pour\_lautorisation\_dusage\_a\_des\_fins\_therapeutiques\_siaut\_2023\_0.pdf](https://www.wada-ama.org/sites/default/files/2022-09/standard_international_pour_lautorisation_dusage_a_des_fins_therapeutiques_siaut_2023_0.pdf).
+[^annexII-lvlu1-1]: Conformément à l’art. 19 de la loi fédérale du 17 juin 2011 sur l’encouragement du sport <sup>(</sup>[RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)), le standard actuel peut être consulté gratuitement dans les trois langues officielles auprès de l’autorité compétente pour les mesures de lutte contre le dopage (Swiss Sport Integrity) à l’adresse: [www.wada-ama.org/sites/default/files/2022-09/standard\_international\_pour\_lautorisation\_dusage\_a\_des\_fins\_therapeutiques\_siaut\_2023\_0.pdf](https://www.wada-ama.org/sites/default/files/2022-09/standard_international_pour_lautorisation_dusage_a_des_fins_therapeutiques_siaut_2023_0.pdf).
 
 Champ d’application le 15 février 2023[^t-4]
 

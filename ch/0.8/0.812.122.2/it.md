@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Convenzione internazionale del 19 ottobre 2005 contro il doping nello sport (con allegato e appendici)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2009-95-20250101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-95-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Parigi il 19 ottobre 2005 Approvata dall’Assemblea federale il 13 giugno 2008[^t-1] Ratificata dalla Svizzera con strumenti depositati il 23 ottobre 2008 Entrata in vigore per la Svizzera il 1° dicembre 2008
 
-(Stato 1° gennaio 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -500,7 +500,7 @@ Il Direttore generale dell’UNESCO è il depositario della presente Convenzione
 
 Conformemente all’articolo 102 dello Statuto delle Nazioni Unite[^41-1], la presente Convenzione è registrata presso il Segretariato dell’Organizzazione delle Nazioni Unite su richiesta del Direttore generale dell’UNESCO.
 
-[^41-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^41-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 42
 
@@ -524,8 +524,8 @@ Allegato I[^t-2]
 
 [^annexI-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la mod., in vigore il 1° gen. 2025 ([RU 2024 657](https://fedlex.data.admin.ch/eli/oc/2024/657)).
-[^annexI-lvlu1-1]: La versione attuale dell’elenco dei divieti del Codice mondiale antidoping può essere consultata gratuitamente, in francese e in tedesco, sul sito dell’Antidoping svizzero, [www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions](https://www.sportintegrity.ch/fr/antidopage/droit/liste-des-interdictions), autorità competente per le misure antidoping conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)).
+[^t-2]: Nuovo testo giusta la mod., in vigore il 1° gen. 2026 ([RU 2025 789](https://fedlex.data.admin.ch/eli/oc/2025/789)).
+[^annexI-lvlu1-1]: La versione attuale dell’elenco dei divieti del Codice mondiale antidoping può essere consultata gratuitamente, in francese e in tedesco, sul sito dell’Antidoping Svizzera, che è l’autorità competente per le misure antidoping conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)), all’indirizzo [www.sportintegrity.ch/it/anti-doping/legge/lista-del-doping](https://www.sportintegrity.ch/it/anti-doping/legge/lista-del-doping)
 
 Allegato II[^t-3]
 
@@ -534,7 +534,7 @@ Allegato II[^t-3]
 [^annexII-lvlu1-1]
 
 [^t-3]: Nuovo testo giusta la mod. approvata dal Comitato esecutivo dell’Agenzia mondiale antidoping il 23 set. 2022, in vigore il 1° gen. 2023 ([RU 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
-[^annexII-lvlu1-1]: Conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)), la versione attuale dello standard può essere consultata gratuitamente nelle tre lingue ufficiali presso l’organo competente per le misure antidoping (Swiss Sport Integrity) all’indirizzo: [www.sportintegrity.ch/sites/default/files/2023\_istue\_it.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_it.pdf)
+[^annexII-lvlu1-1]: Conformemente all’art. 19 della L del 17 giu. 2011 sulla promozione dello sport ([RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)), la versione attuale dello standard può essere consultata gratuitamente nelle tre lingue ufficiali presso l’organo competente per le misure antidoping (Swiss Sport Integrity) all’indirizzo: [www.sportintegrity.ch/sites/default/files/2023\_istue\_it.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_it.pdf)
 
 Campo d’applicazione il 15 febbraio 2023[^t-4]
 

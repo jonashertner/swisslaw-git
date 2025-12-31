@@ -3,11 +3,11 @@ sr: "0.812.122.2"
 title: Internationales Übereinkommen vom 19. Oktober 2005 gegen Doping im Sport (mit Anhängen und Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/95"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2005-10-19
 in_force: 2008-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20250101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/95/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2009-95-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/95/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2009** 521; BBl **2007** 6489
 
 Abgeschlossen in Paris am 19. Oktober 2005 Von der Bundesversammlung genehmigt am 13. Juni 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Oktober 2008 In Kraft getreten für die Schweiz am 1. Dezember 2008
 
-(Stand am 1. Januar 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: [AS 2009 519](https://fedlex.data.admin.ch/eli/oc/2009/94)
 
@@ -500,7 +500,7 @@ Der Generaldirektor der UNESCO ist der Verwahrer dieses Übereinkommens und der 
 
 Auf Ersuchen des Generaldirektors der UNESCO wird dieses Übereinkommen nach Artikel 102 der Charta der Vereinten Nationen[^41-1] beim Sekretariat der Vereinten Nationen registriert.
 
-[^41-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^41-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 42
 
@@ -524,8 +524,8 @@ Anlage I[^t-2]
 
 [^annexI-lvlu1-1]
 
-[^t-2]: Fassung gemäss der am 1. Jan. 2025 in Kraft getretenen Änd. ([AS 2024 657](https://fedlex.data.admin.ch/eli/oc/2024/657)).
-[^annexI-lvlu1-1]: Die aktuelle Verbotsliste des Welt-Anti-Doping-Codes kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: [www.sportintegrity.ch/anti-doping/recht/dopingliste](https://www.sportintegrity.ch/anti-doping/recht/dopingliste) abgerufen werden.
+[^t-2]: Fassung gemäss der am 1. Jan. 2026 in Kraft getretenen Änd. ([AS 2025 789](https://fedlex.data.admin.ch/eli/oc/2025/789)).
+[^annexI-lvlu1-1]: Die aktuelle Verbotsliste des Welt-Anti-Doping-Codes kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)) für Massnahmen gegen Doping bei der zuständigen Stelle (Antidoping Schweiz) auf französisch und deutsch kostenlos unter: [www.sportintegrity.ch/anti-doping/recht/dopingliste](https://www.sportintegrity.ch/anti-doping/recht/dopingliste) abgerufen werden.
 
 Anlage II[^t-3]
 
@@ -534,7 +534,7 @@ Anlage II[^t-3]
 [^annexII-lvlu1-1]
 
 [^t-3]: Fassung gemäss Beschluss des Exekutivkomitees der Welt-Anti-Doping-Agentur vom 23. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2024 231](https://fedlex.data.admin.ch/eli/oc/2024/231)).
-[^annexII-lvlu1-1]: Der aktuelle Standard kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)) bei der für Massnahmen gegen Doping zuständigen Stelle (Swiss Sport Integrity) in den drei Amtssprachen kostenlos unter: [www.sportintegrity.ch/sites/default/files/2023\_istue\_de.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_de.pdf) abgerufen werden. Weitere Informationen sowie das ATZ-Antragsformular sind abrufbar unter: [www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz](https://www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz)
+[^annexII-lvlu1-1]: Der aktuelle Standard kann gemäss Artikel 19 des Sportförderungsgesetzes vom 17. Juni 2011 ([SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)) bei der für Massnahmen gegen Doping zuständigen Stelle (Swiss Sport Integrity) in den drei Amtssprachen kostenlos unter: [www.sportintegrity.ch/sites/default/files/2023\_istue\_de.pdf](https://www.sportintegrity.ch/sites/default/files/2023_istue_de.pdf) abgerufen werden. Weitere Informationen sowie das ATZ-Antragsformular sind abrufbar unter: [www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz](https://www.sportintegrity.ch/anti-doping/medizin/ausnahmebewilligung-atz)
 
 Geltungsbereich am 15. Februar 2023[^t-4]
 
