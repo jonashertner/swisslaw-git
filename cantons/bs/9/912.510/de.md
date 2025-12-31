@@ -4,13 +4,12 @@ number: "912.510"
 title: Verordnung über die Fischerei im Kanton Basel-Stadt
 short: Fischereiverordnung
 language: de
-version: 2014-01-01
-valid_until: 2025-12-31
-version_adopted: 2014-02-11
+version: 2026-01-01
+version_adopted: 2025-10-14
 adopted: 2011-02-08
 in_force: 2011-04-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/912.510"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5482/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6731/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Fischereiverordnung | Jagd und Fischerei[^t-1]
 
 (Fischereiverordnung)
 
-Vom 8. Februar 2011 (Stand 1. Januar 2014)
+Vom 8. Februar 2011 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -89,17 +88,17 @@ beschliesst:
 
 <sup>2</sup> Das AUE anerkennt Kurse der Fischereiorganisationen, wenn der Kursinhalt mindestens folgendes Wissen vermittelt:
 
-- a) Anhaken und Anlanden von Fischen
-- b) Behandeln von gefangenen Fischen
-- c) Töten von Fischen
-- d) Zurücksetzen von Fischen ins Wasser
-- e) Körperbau von Fischen
-- f) Funktion der Organsysteme
-- g) Artenkenntnis über die vorkommenden Fischarten und Krebse
-- h) Lebensraumansprüche der Fische
-- i) Fischereigesetzgebung
+- a) Anhaken und Anlanden von Fischen;
+- b) Behandeln von gefangenen Fischen;
+- c) Töten von Fischen;
+- d) Zurücksetzen von Fischen ins Wasser;
+- e) Körperbau von Fischen;
+- f) Funktion der Organsysteme;
+- g) Artenkenntnis über die vorkommenden Fischarten und Krebse;
+- h) Lebensraumansprüche der Fische;
+- i) Fischereigesetzgebung.
 
-<sup>3</sup> Das AUE kann die Durchführung der Kurse an den Kantonalen Fischereiverband delegieren.
+<sup>3</sup> Das AUE kann die Durchführung der Kurse an Dritte delegieren.
 
 <sup>4</sup> Im Ausland erworbene Fischereiprüfungen und Sachkundenachweise anderer Kantone werden anerkannt, sofern sie die gleichen Anforderungen erfüllen wie der Sachkundenachweis im Kanton Basel- Stadt.
 
@@ -111,11 +110,11 @@ beschliesst:
 
 **Ausstellen der Fischereikarten**
 
-<sup>1</sup> Die Fischereikarten für den Rhein werden vom AUE ausgestellt.
+<sup>1</sup> Die Fischereikarten für den Rhein werden in gedruckter oder digitaler Form vom AUE zur Verfügung gestellt.
 
 <sup>2</sup> Die Fischereikarten für die Wiese und ihre Nebengewässer werden für das Gemeindegebiet Riehen von der Gemeindekanzlei ausgestellt.
 
-<sup>3</sup> Für das Ausstellen von Fischereikarten für Wiese und Birs im Stadtgebiet sind die jeweiligen Pächterinnen und Pächter verantwortlich.
+<sup>3</sup> Für das Ausstellen von Fischereikarten für Wiese und Birs im Stadtgebiet sind die jeweiligen Pachtenden verantwortlich.
 
 <sup>4</sup> Fischereikarten können auch an Personen ausgestellt werden, die nicht im Kanton Basel-Stadt wohnen.
 
@@ -127,7 +126,7 @@ beschliesst:
 
 - a) «Fischereikarte Wiese»: berechtigt zum Fischen in der Wiese und ihren Nebengewässern in den im Pachtvertrag bezeichneten Gebieten und mit den in dieser Verordnung und vertraglich festgelegten Fanggeräten.
 - b) «Fischereikarte Birs»: berechtigt zum Fischen von der Grenze des Kantons Basel-Landschaft unterhalb der Birsbrücke bei St. Jakob bis zum Rhein (Eisenbahnbrücke, mittlerer Pfeiler) mit den in dieser Verordnung und vertraglich festgelegten Fanggeräten.
-- c) «Galgenkarte Rhein»: berechtigt zum Fischen im Rhein mit Fischgalgen und im Umkreis von 30 m davon mit Angel, Handbären, Reusen. Die Karte berechtigt ebenfalls zur Angelfischerei im Rhein vom Ufer aus. Inhaberinnen und Inhaber der Galgenkarte Rhein können Besitzerinnen und Besitzern der «Fischereikarte Rhein» den Fischfang im Umkreis ihres Galgens erlauben.
+- c) «Galgenkarte Rhein»: berechtigt zum Fischen im Rhein mit Fischgalgen und im Umkreis von 30 m davon mit Angel und Reusen. Die Karte berechtigt ebenfalls zur Angelfischerei im Rhein vom Ufer aus. Inhaberinnen und Inhaber der Galgenkarte Rhein können Besitzerinnen und Besitzern der «Fischereikarte Rhein» den Fischfang im Umkreis ihres Galgens erlauben.
 - d) «Fischereikarte Rhein»: berechtigt zur Angelfischerei im Rhein vom Ufer aus (mit Ausnahme des linken Rheinufers zwischen Birsmündung und Eisenbahnbrücke sowie im Gebiet des Rheinhafens).
 - e) «Jugendfischereikarte Rhein»: berechtigt Jugendliche ab dem 8. bis zum 14. Altersjahr zur Angelfischerei im Rhein vom Ufer aus (mit Ausnahme des linken Rheinufers zwischen Birsmündung und Eisenbahnbrücke sowie im Gebiet des Rheinhafens).
 - f) «Tageskarte Rhein»: berechtigt zur Angelfischerei im Rhein vom Ufer aus (mit Ausnahme des linken Rheinufers zwischen Birsmündung und Eisenbahnbrücke sowie im Gebiet des Rheinhafens).
@@ -139,11 +138,13 @@ beschliesst:
 
 **Verpachtung**
 
-<sup>1</sup> Das AUE bietet die Pacht der Wiese und ihren Nebengewässern sowie der Birs im Stadtgebiet zu einer vom Regierungsrat festgelegten Pauschale dem Kantonalen Fischerei-Verband Basel-Stadt oder allfälligen Rechtsnachfolgenden an. Schlägt der Verband die Pacht aus, wird sie öffentlich ausgeschrieben. Die Verpachtung der Gewässer in der Gemeinde Riehen erfolgt nach kommunalem Recht.
+<sup>1</sup> Das AUE bietet die Pacht der Wiese und ihrer Nebengewässern sowie der Birs im Stadtgebiet dem Kantonalen Fischerei-Verband Basel-Stadt oder allfälligen Rechtsnachfolgenden an. Schlägt der Verband die Pacht aus, wird sie öffentlich ausgeschrieben. Die Verpachtung der Gewässer in der Gemeinde Riehen erfolgt nach kommunalem Recht.
 
-<sup>2</sup> Der Pachtvertrag muss mindestens Folgendes enthalten: Bezeichnung der Verpachtenden, Bezeichnung der Pachtenden, Umschreibung des Pachtreviers, Dauer des Pachtvertrages, Höhe des Pachtzinses, Art und Menge des Fischbesatzes, Mindest- und Höchstzahl der Fischereikarten, Hinweis auf die solidarische Haftung der Pachtenden, Hinweis auf die Pflicht zur Führung einer Fangstatistik, Hinweis auf die Straffolgen bei Nichtbeachten der fischereirechtlichen Vorschriften.
+<sup>1<sup>bis</sup></sup> Das AUE bestimmt den jährlich zu entrichtenden Pachtzins für die jeweilige Pachtdauer nach dem Ertragsvermögen der Pachtstrecke.
 
-<sup>3</sup> Für die Wiese und die Birs im Gebiet der Stadt Basel dürfen höchstens je 45 Fischereikarten ausgegeben werden.
+<sup>2</sup> Der Pachtvertrag muss mindestens Folgendes enthalten: Bezeichnung der Verpachtenden, Bezeichnung der Pachtenden, Umschreibung des Pachtreviers, Dauer des Pachtvertrages, Höhe des Pachtzinses, fischereiliche Bewirtschaftung, Mindest- und Höchstzahl der Fischereikarten, Hinweis auf die solidarische Haftung der Pachtenden, Hinweis auf die Pflicht zur Führung einer Fangstatistik, Hinweis auf die Straffolgen bei Nichtbeachten der fischereirechtlichen Vorschriften.
+
+<sup>3</sup> Für die Wiese und die Birs im Gebiet der Stadt Basel dürfen höchstens je 45 Jahreskarten zuzüglich Tageskarten ausgegeben werden.
 
 <sup>4</sup> Die Kantonale Fischereiaufsicht kann jederzeit von den Pachtenden Auskunft über die ausgegebenen Fischereikarten verlangen und Einsicht in die Akten nehmen.
 
@@ -151,9 +152,7 @@ beschliesst:
 
 #### § 10
 
-**Auflösung des Pachtverhältnisses**
-
-<sup>1</sup> Das AUE ist befugt, Pachtverhältnisse im Stadtgebiet aufzulösen, wenn die Pachtenden gegen fischereirechtliche Bestimmungen verstossen, mit der Bezahlung des Pachtzinses in Verzug sind oder wenn sie gegen den Pachtvertrag verstossen.
+**…**
 
 ## IV. Ausübung der Fischerei
 
@@ -163,49 +162,77 @@ beschliesst:
 
 <sup>1</sup> Über die Ausübung der Fischerei gelten in sämtlichen Gewässern des Kantons Basel-Stadt die nachfolgenden Bestimmungen.
 
-<sup>2</sup> Vorbehalten bleiben Vereinbarungen in den Pachtverträgen bezüglich der Wiese und der Birs, soweit sie Bundesrecht und kantonales Recht berücksichtigen.
+<sup>2</sup> Vorbehalten bleiben Vereinbarungen in den Pachtverträgen bezüglich der Wiese und ihren Nebengewässern sowie der Birs, soweit sie dem Bundesrecht und dem kantonalen Recht entsprechen.
 
 #### § 12
 
 **Ausweispflicht**
 
-<sup>1</sup> Jede fischende Person muss beim Fischen die Fischereikarte, das Fangbüchlein sowie einen amtlichen Ausweis auf sich tragen. Sie haben diese den Aufsichtsorganen auf Verlangen vorzuweisen.
+<sup>1</sup> Jede fischende Person muss beim Fischen die Fischereikarte, das Fangbüchlein in gedruckter oder digitaler Form, einen amtlichen Ausweis sowie den Sachkundenachweis (SANA-Ausweis) auf sich tragen. Sie hat diese den Aufsichtsorganen auf Verlangen vorzuweisen.
 
 #### § 13
 
-**Fanggeräte und Fangarten**
+**Fanggeräte**
 
-<sup>1</sup> Der Fang von Fischen muss schonend erfolgen. Die Fanggeräte und Fangarten dürfen den Tieren keine unnötigen Schäden zufügen.
+<sup>1</sup> Der Fang von Fischen muss schonend erfolgen. Die Fanggeräte dürfen den Tieren keine unnötigen Schäden zufügen.
 
 <sup>2</sup> In sämtlichen Gewässern darf nur mit einer Angelrute gefischt werden. Lediglich beim Angelfischen im Rhein mit der Setzangel und der Fischereikarte Rhein darf noch mit einer zweiten Angelrute gefischt werden.
 
-<sup>3</sup> Jede Angelrute darf nur mit einem Haken, einem Kunstköder oder einem Kunstködersystem im Originalzustand mit maximal drei Haken ausgestattet werden. Doppelhaken und Drilling gelten als ein Haken. Die Verwendung von galvanisch behandelten Haken sowie Goldhaken ist verboten.
+<sup>3</sup> Jede Angelrute darf nur mit einem Haken, einem Kunstköder oder einem Kunstködersystem mit maximal drei Haken ausgestattet werden. Doppelhaken und Drilling gelten als ein Haken.
 
-<sup>4</sup> Die Verwendung von Widerhaken jeglicher Art ist verboten.
+<sup>4</sup> Verboten ist die Verwendung von:
+
+- a) Goldhaken;
+- b) Bleigewichten jeglicher Art; davon ausgenommen sind Klemmbleie mit einem Gesamtgewicht von maximal 10 Gramm pro Angelrute;
+- c) Widerhaken jeglicher Art;
+- d) Unterfangnetzen aus Metall.
 
 <sup>5</sup> Die Fischenden müssen sich in unmittelbarer Nähe der Angelrute aufhalten und diese im Auge behalten.
 
-<sup>6</sup> Folgende Handlungen und Fangarten sind verboten:
+<sup>6</sup> Zum Herausheben gefangener Fische muss ein Unterfangnetz mitgeführt werden.
 
-- a) das Anfüttern,
-- b) das Fischen mit lebenden Köderfischen,
-- c) das Fischen vom Boot aus,
-- d) das Hältern von Fischen in Setzkeschern jeglicher Art,
-- e) das Fischen mit Jauche- und Fleischmaden.
+- a) …
+- b) …
+- c) …
+- d) …
+- e) …
 
-<sup>7</sup> Fische, welche die Fangkriterien des Anhangs zu dieser Verordnung erfüllen, dürfen nicht zurückgesetzt werden und müssen unmittelbar nach dem Fang resp. vor dem Angellösen getötet werden.
+<sup>7</sup> …
+
+#### § 13a
+
+**Verbotene Handlungen und Fangarten**
+
+<sup>1</sup> Folgende Handlungen und Fangarten sind verboten:
+
+- a) das Anfüttern;
+- b) das Fischen mit lebenden Köderfischen;
+- c) das Fischen vom Boot aus;
+- d) das Hältern von Fischen.
+
+#### § 13b
+
+**Fangmindestmasse, Schonzeiten und geschützte Arten**
+
+<sup>1</sup> Für geschützte Fische und Rundmäuler gemäss Anhang und für alle Flusskrebsarten gilt ein generelles Fang- und Entnahmeverbot; dieses gilt nicht für die Kantonale Vollzugsbehörde.
+
+<sup>2</sup> Die im Anhang festgelegten Fangmindestmasse und Schonzeiten sind zu beachten.
+
+<sup>3</sup> Fische, die das Fangmindestmass nicht erreichen, geschont oder geschützt sind, müssen sofort wieder sorgfältig in das Gewässer zurückgesetzt werden. Lässt sich ein Fisch nicht ohne Verletzungen vom Haken lösen, so ist der Angelhaken vom Vorfach abzuschneiden. Die Fische müssen mit angefeuchteten Händen oder nassen Tüchern möglichst schonend angefasst werden.
+
+<sup>4</sup> Fische, welche die Fangkriterien gemäss Anhang erfüllen, dürfen nicht zurückgesetzt werden und müssen unmittelbar nach dem Fang tierschutzkonform getötet werden.
 
 #### § 14
 
-**Zeitliche Einschränkungen der Fischerei**
+**Einschränkungen der Fischerei und Massnahmen zum Schutz der aquatischen Fauna**
 
-<sup>1</sup> Die Fischerei mit Galgen ist während des ganzen Jahres gestattet.
+<sup>1</sup> Das AUE kann zum Schutz der aquatischen Fauna, aus Gründen der Sicherheit, der Gesundheitsvorsorge oder der Rücksichtnahme auf bauliche oder gewerbliche Tätigkeiten lokal und zeitlich begrenzte Fischereiverbote erlassen. Sofern erforderlich, kann ein Verbot für unbestimmte Zeit angeordnet werden.
 
-<sup>2</sup> In der Zeit vom 1. Oktober bis Ende Februar ist die Angelfischerei auf die Zapfenfischerei und das Fischen mit Setzangel, Löffel und Spinner beschränkt. Während dieser Zeit darf mit Löffel und Spinner nur gefischt werden, wenn diese Geräte, ohne Haken gemessen, mindestens 8 cm lang sind.
+<sup>2</sup> Bei anhaltender Trockenheit, hohen Wassertemperaturen oder während der Laichzeit gefährdeter Fischarten kann das AUE zum Schutz der aquatischen Fauna weitere zeitlich begrenzte Nutzungsverbote wie Bade- und Betretungsverbote für Mensch und Tier erlassen; die betroffenen Gewässerabschnitte werden entsprechend markiert.
 
-<sup>3</sup> Das Fliegenfischen ist das ganze Jahr erlaubt. Während der Schonzeit der Forellen müssen tote Köderfische mindestens 10 cm lang sein.
+<sup>3</sup> …
 
-<sup>4</sup> Das Fischen in der Nacht ist verboten. Als Nacht gilt die Zeit von 24.00 bis 05.00 Uhr während der Sommerzeit und von 22.00 bis 06.00 Uhr während der Winterzeit.
+<sup>4</sup> …
 
 #### § 15
 
@@ -217,7 +244,9 @@ beschliesst:
 
 **Fanglimite für Fische**
 
-<sup>1</sup> Pro Tag dürfen nicht mehr als drei Edelfische (Forellen und/oder Äschen) gefangen werden. Im Rhein gilt die Fanglimite von drei Fischen auch für Hecht und/oder Zander.
+<sup>1</sup> Pro Tag darf nicht mehr als ein Edelfisch (Forellen, Äschen) behändigt werden.
+
+<sup>2</sup> Pro Tag dürfen im Rhein nicht mehr als drei Hechte oder Zander behändigt werden.
 
 #### § 17
 
@@ -225,8 +254,8 @@ beschliesst:
 
 <sup>1</sup> Das AUE kann Bewilligungen für Sonderfänge erteilen:
 
-- a) für die Fischzucht,
-- b) für Hegemassnahmen,
+- a) für die Fischaufzucht;
+- b) für Bestandeserhebungen;
 - c) zu wissenschaftlichen Zwecken oder
 - d) wenn diese in anderer Weise der Erhaltung eines wertvollen und artenreichen Fisch- oder Krebsbestandes dienen.
 
@@ -236,9 +265,9 @@ beschliesst:
 
 **Köderfische / Fischnährtiere**
 
-<sup>1</sup> Der Fang von Köderfischen ist mit der Köderflasche, der Reuse und dem Senknetz erlaubt. Die Köderfische müssen unmittelbar nach dem Fang getötet werden. Für andere Fangmethoden muss vorgängig eine Bewilligung des AUE eingeholt werden.
+<sup>1</sup> Der Fang von Köderfischen ist mit der Köderflasche, der Reuse und dem Senknetz erlaubt. Die Köderfische müssen unmittelbar nach dem Fang tierschutzkonform getötet werden. Für andere Fangmethoden muss vorgängig eine Bewilligung des AUE eingeholt werden.
 
-<sup>2</sup> Als Köderfische dürfen nur Fischarten verwendet werden, für die weder ein Fangmindestmass noch eine Schonzeit vorgeschrieben ist (siehe Anhang). Pro Tag und fischende Person dürfen maximal 20 Köderfische gefangen werden.
+<sup>2</sup> Als Köderfische dürfen nur Fischarten verwendet werden, für die weder ein Fangmindestmass noch eine Schonzeit gemäss Anhang vorgeschrieben ist. Pro Tag und fischende Person dürfen maximal 10 Köderfische gefangen werden.
 
 <sup>3</sup> Köderfische und Fischnährtiere müssen aus dem befischten Gewässer stammen. Fischnährtiere sind, sofern sie wieder freigelassen werden, in das gleiche Gewässer zurückzusetzen.
 
@@ -250,59 +279,61 @@ beschliesst:
 
 **Meldepflicht der Fänge**
 
-<sup>1</sup> Alle fischenden Personen müssen jeden behändigten Fisch sofort im Fangbüchlein eintragen.
+<sup>1</sup> Vor Beginn des Fischens ist der Fischgang mit Datum und Gewässercode im Fangbüchlein oder digital zu erfassen.
 
-<sup>2</sup> Ebenso muss zu Beginn jedes Fischgangs das Datum eingetragen werden.
+<sup>2</sup> Jeder behändigte Fisch muss sofort im Fangbüchlein eingetragen oder digital erfasst werden.
 
-<sup>3</sup> Das ausgefüllte Fangbüchlein muss bis spätestens am 31. Januar des folgenden Jahres der Kantonalen Fischereiaufsicht eingereicht werden. Auch leere Fangbüchlein müssen eingesandt werden.
+<sup>3</sup> Das Fangbüchlein muss bis spätestens am 31. Januar des folgenden Jahres der Kantonalen Fischereiaufsicht eingereicht werden, auch wenn kein Eintrag erfolgt ist.
 
-<sup>4</sup> Wird das Fangbüchlein nicht ordnungsgemäss geführt oder nicht bis spätestens am 31. Januar des folgenden Jahres eingereicht, kann die Kantonale Fischereiaufsicht die Fischereikarte entziehen.
+<sup>4</sup> Werden Fischgänge oder behändigte Fische in physischer oder digitaler Form nicht ordnungsgemäss erfasst oder wird das Fangbüchlein wiederholt nicht bis spätestens am 31. Januar des folgenden Jahres eingereicht, kann die Kantonale Fischereiaufsicht die Fischereikarte entziehen.
 
 #### § 20
 
-**Fischeinsatz**
+**Fischbesatz**
 
-<sup>1</sup> Die Kantonale Fischereiaufsicht bestimmt in allen Gewässern des Kantons Art, Menge, Qualität und Altersklassen der einzusetzenden Fische in die Gewässer. Dabei berücksichtigt sie die Ertragsfähigkeit des Gewässers, die Fangzahlen und die Abgänge durch Raubfrass und Fischkrankheiten.
+<sup>1</sup> Die Kantonale Fischereiaufsicht bestimmt in allen Gewässern des Kantons Art, Menge, Qualität und Altersklassen der zu besetzenden Fische in die Gewässer. Dabei berücksichtigt sie die Ertragsfähigkeit des Gewässers, die Fangzahlen und die Abgänge durch Raubfrass und Fischkrankheiten.
 
-<sup>2</sup> Alle Fischeinsätze müssen mindestens 14 Tage im Voraus der Kantonalen Fischereiaufsicht schriftlich gemeldet werden.
+<sup>2</sup> Der Besatz fangfähiger Fische ist verboten.
 
-<sup>3</sup> Die Kantonale Fischereiaufsicht nimmt Fischeinsätze, welche bis zum Ende der Besatzperiode nicht vorgenommen worden sind, auf Kosten der Pflichtigen vor.
+<sup>3</sup> …
 
-<sup>4</sup> Der Einsatz fangfähiger Fische ist verboten. In begründeten Fällen kann die Kantonale Fischereiaufsicht Ausnahmen bewilligen.
+<sup>4</sup> …
 
 #### § 21
 
-**Einschränkungen der Fischerei**
+**Fischereiverbote**
 
-<sup>1</sup> Das Fischen im Gebiet des Rheinhafens ist verboten. Die Schweizerischen Rheinhäfen können Ausnahmen bewilligen.
+<sup>1</sup> Das Fischen im Gebiet des Rheinhafens und der Anlegestelle St. Johann ist verboten. Die Schweizerischen Rheinhäfen können Ausnahmen bewilligen.
 
-<sup>2</sup> Das Hafengebiet umfasst die Rheinhäfen Klybeck und Kleinhüningen, welche sich rechtsrheinisch von oberhalb der Dreirosenbrücke (Rhein-km 167,8 bzw. Ende Auszugsgleis) bis zur Landesgrenze mit Deutschland (Rhein-km 170,0) erstrecken sowie die Anlegestelle St. Johann (Rhein-km 167,3–167,6).
+<sup>2</sup> Das Hafengebiet umfasst den Rheinhafen Kleinhüningen, welcher sich rechtsrheinisch von oberhalb der Dreirosenbrücke (Rhein-km 167,7 bzw. Ende Auszugsgleis Hafenbahn) bis zur Landesgrenze mit Deutschland (Rhein-km 170,0) erstreckt, sowie die linksufrige Anlegestelle St. Johann bis zur Dreirosenbrücke (Rhein-km 167,3 – 167,8).
 
 <sup>3</sup> Die Fischerei ist während der Badesaison bei den Rheinbadeanstalten Breite und St. Johann innerhalb der markierten Bereiche verboten.
 
 <sup>4</sup> In Fischaufstiegshilfen wie Fischpässen, Fischtreppen und Umgehungsrinnen sowie in einem Radius von 20 Metern um den tiefer gelegenen Einstieg der Fischaufstiegshilfe ist das Fangen von Fischen und anderen Wassertieren verboten.
 
-<sup>5</sup> Das AUE kann für den Erhalt eines gesunden Fischbestandes, aus Gründen der Sicherheit, der Gesundheitsvorsorge oder der Rücksichtnahme auf bauliche und gewerbliche Tätigkeiten den Fischfang in bestimmten Gebieten für eine befristete Zeit verbieten. Sofern erforderlich, kann das Verbot für unbestimmte Zeit angeordnet werden.
+<sup>5</sup> …
 
-## V. Gebühren
+## V. Gebühren und Kostentragung bei Notabfischungen
 
 #### § 22
 
-<sup>1</sup> Das AUE erhebt von den Pächterinnen und Pächtern und den Fischereikarteninhaberinnen und -inhabern (§ 8) folgende Gebühren:[^22-1]
+**Gebühren**
 
-- a) Fischereikarte Wiese (Pachtkarte) — CHF 30
-- b) Fischereikarte Birs (Pachtkarte) — CHF 30
-- c) Galgenkarte Rhein — CHF 80
-- d) Fischereikarte Rhein — CHF 50
-- e) Jugendfischereikarte Rhein — CHF 20
-- f) Tageskarte Rhein — CHF 15
-- g) Tageskarte Wiese und Birs (Pachtkarte) — CHF 15
+<sup>1</sup> Das AUE erhebt von den Pächterinnen und Pächtern und den Fischereikarteninhaberinnen und -inhabern (§ 8) folgende Gebühren:
 
-<sup>2</sup> Die Fischereikarten Wiese un Birs werden von den Pachtenden ausgestellt. Die Pachtenden entrichten dem AUE die Fischereikartengebühr gemäss Abs. 1.
+- a) Fischereikarte Wiese (Pachtkarte) — Fr. 30
+- b) Fischereikarte Birs (Pachtkarte) — Fr. 30
+- c) Galgenkarte Rhein — Fr. 80
+- d) Fischereikarte Rhein — Fr. 50
+- e) Jugendfischereikarte Rhein — Fr. 20
+- f) Tageskarte Rhein — Fr. 15
+- g) Tageskarte Wiese und Birs (Pachtkarte) — Fr. 15
 
-<sup>3</sup> Die Gemeinde Riehen legt die Gebühren für die von ihr ausgestellten Fischereikarten selbst fest.
+<sup>2</sup> Für die Aufforderung, nicht fristgerecht eingereichte Fangbüchlein nachzureichen, wird eine Gebühr von Fr. 50 erhoben.
 
-[^22-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern oder -buchstaben.
+<sup>3</sup> Die Fischereikarten Wiese und Birs werden von den Pachtenden ausgestellt. Die Pachtenden entrichten dem AUE die Fischereikartengebühr gemäss Abs. 1.
+
+<sup>4</sup> Die Gemeinde Riehen legt die Gebühren für die von ihr ausgestellten Fischereikarten selbst fest.
 
 #### § 23
 
@@ -310,23 +341,19 @@ beschliesst:
 
 <sup>1</sup> Muss die Kantonale Fischereiaufsicht infolge negativer Einwirkungen auf das Gewässer eine Notabfischung durchführen, so überbindet sie die Kosten dafür der Verursacherin oder dem Verursacher.
 
-<sup>2</sup> Wird eine Notabfischung in der Wiese und ihren Nebengewässern oder in der Birs durch Naturgewalten verursacht, so werden die Kosten zwischen den Pachtenden bzw. Privatfischweidenden und der Kantonalen Fischereiaufsicht hälftig geteilt.
+<sup>2</sup> Wird eine Notabfischung in der Wiese und ihren Nebengewässern oder in der Birs durch Naturgewalten verursacht, so werden die Kosten für allfällige Aufwendungen zwischen den Pachtenden oder den Inhaberinnen und Inhabern von Privatfischweiden und dem AUE hälftig geteilt.
 
 #### § 24
 
-**Verwendungszweck der Gebühren**
-
-<sup>1</sup> Sämtliche Einkünfte aus dem Verkauf von Fischereikarten auf Stadtgebiet, der Verpachtung der Gewässer auf Stadtgebiet sowie Bundessubventionen dienen ausschliesslich der Fischerei.
-
-<sup>2</sup> Das AUE bestimmt über die Verwendung der Mittel, welche zweckgebunden eingesetzt werden müssen.
+**…**
 
 #### § 25
 
 **Fischereiveranstaltungen**
 
-<sup>1</sup> Fischereiveranstaltungen am Wasser sind mindestens 14 Tage im Voraus der Kantonalen Fischereiaufsicht zu melden.
+<sup>1</sup> Fischereiveranstaltungen am Gewässer sind mindestens 14 Tage im Voraus der Kantonalen Fischereiaufsicht zu melden.
 
-<sup>2</sup> Aufwände und spezielle Einsätze der Kantonalen Fischereiaufsicht werden dem Veranstalter in Rechnung gestellt.
+<sup>2</sup> Aufwände und spezielle Einsätze der Kantonalen Fischereiaufsicht werden den Veranstaltenden in Rechnung gestellt.
 
 <sup>3</sup> Jegliche Art von Wettfischen ist untersagt.
 
@@ -334,23 +361,27 @@ beschliesst:
 
 #### § 26
 
-**Fischereirechtliche Bewilligung für technische Eingriffe**
+**Bewilligung für technische Eingriffe**
 
 <sup>1</sup> Für technische Eingriffe in Gewässer gemäss Art. 8 des Bundesgesetzes über die Fischerei vom 21. Juni 1991 ist eine fischereirechtliche Bewilligung des AUE nötig.
 
 <sup>2</sup> Das AUE kann für Neuanlagen Auflagen gemäss Art. 9 und für bestehende Anlagen Massnahmen gemäss Art. 10 des Bundesgesetzes vorschreiben.
 
-<sup>3</sup> Wird das Gesuch zu einem technischen Eingriff in ein Gewässer bei einer anderen Dienststelle als dem AUE eingereicht, hat diese dem AUE davon Kenntnis zu geben.
+<sup>3</sup> Wird das Gesuch zu einem technischen Eingriff in ein Gewässer bei einer anderen Behörde als dem AUE eingereicht, hat diese dem AUE davon Kenntnis zu geben. Die zuständige Bewilligungsinstanz hat allfällige Auflagen des AUE in den Bewilligungsentscheid aufzunehmen.
 
-<sup>4</sup> Die zuständige Bewilligungsinstanz hat allfällige Auflagen des AUE in den Bewilligungsentscheid aufzunehmen.
+<sup>4</sup> Für die Behandlung von Gesuchen zur Erteilung einer fischereirechtlichen Bewilligung und die Ausübung der damit verbundenen Aufsichts- und Kontrollfunktion wird eine Gebühr nach Aufwand erhoben.
+
+<sup>4<sup>bis</sup></sup> Jeder bewilligte technische Eingriff in ein Gewässer muss mindestens 14 Tage vor Beginn der Arbeiten dem AUE mitgeteilt werden. Dieses setzt die betroffenen Pachtenden davon in Kenntnis. Die Kantonale Fischereiaufsicht entscheidet über allfällig notwendige Abfischungen.
 
 #### § 27
 
-**Meldung von technischen Eingriffen und von Unterhaltsmassnahmen**
+**Meldepflicht kleiner Unterhaltsmassnahmen**
 
-<sup>1</sup> Jeder bewilligte technische Eingriff in ein Gewässer muss mindestens 14 Tage vor Beginn der Arbeiten dem AUE mitgeteilt werden.
+<sup>1</sup> Als meldepflichtig gelten Kanalabschläge (ohne Spülung) und geringfügige Unterhaltsmassnahmen.
 
-<sup>2</sup> Kanalabschläge, Bachbettreinigungen und ähnliche Unterhaltsmassnahmen müssen den Bedürfnissen der Fischerei Rechnung tragen. Solche Arbeiten sind im Einvernehmen mit dem AUE durchzuführen. Sie müssen mindestens 14 Tage vor Beginn dem AUE gemeldet werden. Dieses setzt die betroffenen Pachtenden davon in Kenntnis. Die Kantonale Fischereiaufsicht entscheidet über allfällig nötige Abfischungen.
+<sup>2</sup> Die Arbeiten müssen den Bedürfnissen der aquatischen Fauna Rechnung tragen und sind im Einvernehmen mit dem AUE durchzuführen.
+
+<sup>3</sup> Die Arbeiten müssen mindestens 14 Tage vorher dem AUE gemeldet werden. Dieses setzt die betroffenen Pachtenden davon in Kenntnis. Die Kantonale Fischereiaufsicht entscheidet über allfällig notwendige Abfischungen.
 
 #### § 28
 
@@ -365,6 +396,20 @@ beschliesst:
 <sup>1</sup> Gegen Verfügungen des AUE steht den Betroffenen nach den Bestimmungen des Gesetzes betreffend die Organisation des Regierungsrates und der Verwaltung des Kantons Basel-Stadt vom 22. April 1976 ein Rekursrecht an das WSU zu; vorbehalten bleibt Abs. 2.
 
 <sup>2</sup> Ergeht eine Verfügung des AUE im Rahmen eines durch eine andere Behörde koordinierten Bewilligungsverfahrens, so richtet sich das Rekursrecht nach den Bestimmungen des entsprechenden Bewilligungsverfahrens.
+
+## VI<sup>bis</sup>. Übergangsbestimmungen
+
+#### § 29a
+
+**Übergangsbestimmung zur Änderung von § 9 Abs. 1 und 2 vom 14. Oktober 2025**
+
+<sup>1</sup> Pachtverträge, die vor dem Inkrafttreten der Änderung von § 9 abgeschlossen wurden, behalten ihre Gültigkeit. Sie sind hinsichtlich der Pachtzinsen bis 31. Dezember 2027 an die neuen Bestimmungen anzupassen.
+
+#### § 29b
+
+**Übergangsbestimmung zur Änderung von § 13 Abs. 4 vom 14. Oktober 2025**
+
+<sup>1</sup> Das Verbot der Verwendung von Bleigewichten gemäss § 13 Abs. 4 tritt nach einer Übergangsfrist von einem Jahr seit Inkrafttreten dieser Änderung in Kraft.
 
 ## VII. Schlussbestimmung
 
