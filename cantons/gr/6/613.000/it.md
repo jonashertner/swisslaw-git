@@ -4,13 +4,13 @@ number: "613.000"
 title: Legge sulla polizia del Cantone dei Grigioni
 short: LPol
 language: it
-version: 2025-01-01
-corrected: 2025-10-28
-version_adopted: 2022-06-14
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-08-27
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3410/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3614/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3410/pdf_file"
 
 (LPol)
 
-del 20.10.2004 (stato 01.01.2025)
+del 20.10.2004 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni,
 
@@ -51,7 +51,7 @@ decide:
 <sup>1</sup> La Polizia cantonale adempie ai seguenti compiti:
 
 - a) intraprende misure atte a riconoscere, impedire ed eliminare pericoli per persone, animali, ambiente e cose oppure disturbi alla sicurezza e all’ordine pubblici;
-- b) esercita la funzione di polizia giudiziaria e adotta misure atte a prevenire ed a combattere i reati;
+- b) esercita la funzione di polizia giudiziaria e adotta misure atte a riconoscere e a impedire reati;
 - c) procede alle necessarie chiarificazioni già prima di avviare indagini di polizia giudiziaria o per la difesa da pericoli;
 - d) provvede ad un’adeguata sorveglianza e gestione del traffico stradale e adotta misure atte a prevenire gli incidenti, nonché a moderare il traffico;
 - e) aiuta persone la cui integrità fisica o la cui vita è direttamente minacciata o che si trovano altrimenti in situazioni d’emergenza;
@@ -175,9 +175,11 @@ decide:
 
 <sup>1</sup> La Polizia cantonale può interrogare persone nell’ambito dei propri compiti di polizia. Nel fare questo deve rendere attente le persone riguardo ai loro diritti.
 
-<sup>2</sup> Essa può convocare persone per interrogatori comunicando l’oggetto degli stessi. L’oggetto dell’interrogatorio va indicato sulla convocazione.
+<sup>2</sup> La Polizia cantonale può convocare persone per interrogatori. L'oggetto dell'interrogatorio va comunicato sulla convocazione.
 
 <sup>3</sup> Se una persona non dà seguito ad una convocazione senza avere un motivo sufficiente per farlo, la Polizia cantonale la può andare a prendere previo avvertimento scritto.
+
+<sup>4</sup> Il mandato di accompagnamento può essere disposto senza convocazione se non vi è pericolo nel ritardo.
 
 #### Art. 11
 
@@ -206,6 +208,30 @@ decide:
 - c) vietare la permanenza in oggetti, su fondi o aree.
 
 <sup>3</sup> In caso di inosservanza dell'ordine, lo può imporre con i mezzi necessari e adeguati.
+
+#### Art. 12a
+
+**Divieto di accedere ad aree determinate**
+
+<sup>1</sup> La Polizia cantonale può disporre un divieto di accedere ad aree determinate nei confronti di una persona se:
+
+- a) disturba o mette direttamente in pericolo una o più persone in luoghi accessibili al pubblico;
+- b) molesta una o più persone in luoghi accessibili al pubblico oppure ne ostacola abusivamente l'utilizzazione conforme alla destinazione;
+- c) disturba o mette direttamente in pericolo forze d'intervento quali la polizia, i pompieri oppure i soccorritori;
+- d) mette in pericolo sé stessa in modo grave e immediato;
+- e) assume una condotta illecita.
+
+<sup>2</sup> Con un divieto di accedere ad aree determinate la Polizia cantonale può:
+
+- a) ordinare a persone di lasciare un determinato luogo o una determinata area;
+- b) vietare l'accesso a oggetti, fondi o aree;
+- c) vietare la permanenza in oggetti, su fondi o aree.
+
+<sup>3</sup> I divieti di accedere ad aree determinate possono essere disposti solo se non è possibile disporre un allontanamento, una tenuta a distanza oppure una misura particolare contro la violenza, le minacce o le insidie.
+
+<sup>4</sup> I divieti di accedere ad aree determinate possono essere disposti solo per il tempo in cui sono necessari per preservare la sicurezza e l'ordine pubblici oppure per proteggere il soggetto in pericolo, tuttavia per 30 giorni al massimo.
+
+<sup>5</sup> La Polizia cantonale dispone per iscritto divieti di accedere ad aree determinate se essi durano più di 24 ore.
 
 #### Art. 13
 
@@ -238,10 +264,11 @@ decide:
 
 <sup>1</sup> La Polizia cantonale può porre provvisoriamente una persona sotto la custodia di polizia se:
 
-- a) ciò è necessario per la sua protezione o per quella di un’altra persona da un pericolo per la sua integrità fisica, la sua vita o la sua integrità psichica, nonché per evitare o eliminare un’importante minaccia per la sicurezza e l’ordine pubblici;
+- a) ciò è necessario per la sua protezione o per quella di un'altra persona da un pericolo per la sua integrità fisica, la sua vita o la sua integrità psichica, nonché per evitare o eliminare un’importante minaccia per la sicurezza e l’ordine pubblici;
 - b) ciò risulta necessario per evitare l’imminente commissione o prosecuzione di un grave reato;
 - c) si è sottratta o vuole sottrarsi con la fuga all’esecuzione di una pena privativa della libertà personale o di una misura privativa della libertà;
-- d) ciò è necessario per garantire l’esecuzione di un allontanamento, di un’espulsione o di un’estradizione ordinata dall’autorità competente.
+- d) ciò è necessario per garantire l'esecuzione di un allontanamento, di un'espulsione, di un'estradizione, di un mandato di accompagnamento oppure di una consegna ordinata da un'altra autorità;
+- e) ciò è necessario per garantire l'esecuzione di un allontanamento, di un divieto di accedere ad aree determinate, di una consegna di minori o di una misura particolare contro la violenza, le minacce o le insidie.
 
 <sup>2</sup> La persona presa in custodia va informata sul motivo di questo provvedimento e se le circostanze lo consentono deve esserle offerta l’opportunità di informare una persona di sua fiducia.
 
@@ -249,30 +276,63 @@ decide:
 
 #### Art. 16
 
-**Violenza domestica 1. Intervento**
+**Misure particolari contro la violenza, le minacce o le insidie 1. Allontanamento, divieto di trattenersi in un luogo, divieto di avvicinamento e divieto di avere contatti**
 
-<sup>1</sup> La Polizia cantonale può decidere l'allontanamento immediato conformemente all'articolo 28b capoverso 4 CC[^16-1] per al massimo 14 giorni. La decisione va accompagnata da un'indicazione dei rimedi giuridici e:
+<sup>1</sup> La Polizia cantonale può disporre nei confronti di una persona una misura particolare contro la violenza, le minacce o le insidie se:
 
-- a) va consegnata in forma scritta alla persona allontanata e alla vittima, al più tardi dopo l'intervento;
-- b) va trasmessa entro 24 ore al giudice unico presso il tribunale regionale e, nel caso siano interessati dei minori oppure siano da prendere in considerazione misure di protezione dei minori e degli adulti, all'autorità di protezione dei minori e degli adulti;
-- c) va trasmessa all'ufficio di consulenza per le persone che esercitano violenza insieme all'eventuale ulteriore documentazione necessaria.
+- a) in base a indizi concreti e attuali occorre ritenere che commetterà un reato contro l'integrità fisica, la vita, l'integrità sessuale o la libertà di un'altra persona;
+- b) in base a indizi concreti e attuali occorre ritenere che segua, molesti o minacci con perseveranza un'altra persona in un modo che limita considerevolmente la sua libertà di organizzare la propria vita.
+- c) …
 
-<sup>2</sup> Durante l'espulsione, la decisione della Polizia cantonale può essere impugnata per iscritto con ricorso al giudice unico presso il tribunale regionale. Nel ricorso si deve indicare con una breve motivazione quali sono i punti impugnati e quali le modifiche richieste.
+<sup>2</sup> Con una misura contro la violenza, le minacce o le insidie la Polizia cantonale può:
 
-<sup>3</sup> La Polizia cantonale informa:
+- a) allontanare il soggetto pericoloso dall'appartamento o dalla casa (allontanamento);
+- b) vietare al soggetto pericoloso di trattenersi in un determinato luogo, segnatamente nelle immediate vicinanze di abitazioni designate, determinati strade, piazze o quartieri (divieto di trattenersi in un luogo);
+- c) vietare al soggetto pericoloso di avvicinarsi a un'altra persona (divieto di avvicinamento);
+- d) vietare al soggetto pericoloso di entrare direttamente o indirettamente in contatto con un'altra persona (divieto di avere contatti).
 
-- a) la vittima sugli ulteriori passi procedurali possibili;
-- b) la vittima e la persona che esercita violenza in merito a offerte di consulenza.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
-[^16-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
-
 #### Art. 16a
 
-**2. Segnalazione**
+**2. Durata delle misure**
 
-<sup>1</sup> Dopo un intervento a seguito di violenza domestica, la Polizia cantonale segnala il nome, l'indirizzo e il numero di telefono della persona che ha esercitato violenza all'Ufficio di consulenza per le persone che esercitano violenza.
+<sup>1</sup> Le misure contro la violenza, le minacce o le insidie possono essere disposte solo per il tempo in cui sono necessarie per proteggere il soggetto in pericolo, tuttavia per 14 giorni al massimo.
+
+<sup>2</sup> Se durante il periodo di validità delle misure il soggetto in pericolo chiede la disposizione di una misura di protezione di diritto civile avente lo stesso scopo, le misure contro la violenza, le minacce o le insidie vengono prorogate automaticamente fino alla decisione giudiziaria esecutiva, tuttavia per 20 giorni al massimo. I tribunali civili aditi informano gli interessati e la Polizia cantonale in merito alla proroga legale della durata delle misure.
+
+<sup>3</sup> La stessa misura può essere nuovamente prorogata in presenza di nuovi indizi che fanno presumere una situazione di pericolo diretto conformemente all'articolo 16 capoverso 1.
+
+#### Art. 16b
+
+**3. Disposizione delle misure**
+
+<sup>1</sup> La Polizia cantonale dispone misure contro la violenza, le minacce o le insidie per iscritto.
+
+<sup>2</sup> La Polizia cantonale comunica la decisione:
+
+- a) agli interessati;
+- b) all'ufficio di consulenza per le persone che esercitano violenza;
+- c) all'ufficio di consulenza per l'aiuto alle vittime dei Grigioni;
+- d) alle autorità designate dal Governo.
+
+<sup>3</sup> La Polizia cantonale informa:
+
+- a) le persone interessate in merito a offerte di consulenza per persone che esercitano violenza e per vittime di violenza;
+- b) il soggetto in pericolo in merito agli ulteriori passi procedurali possibili.
+
+#### Art. 16c
+
+**4. Segnalazione all'ufficio di consulenza per le persone che esercitano violenza**
+
+<sup>1</sup> Se avvia una procedura investigativa sulla base di un intervento di polizia, la Polizia cantonale segnala all'ufficio di consulenza per le persone che esercitano violenza (ufficio di consulenza) il nome, l'indirizzo e il numero di telefono di una persona con una breve descrizione della fattispecie:
+
+- a) perché, esercitando violenza domestica, la persona da segnalare avrebbe potuto commettere un reato contro l'integrità fisica, la vita, l'integrità sessuale, l'onore, la sfera segreta, la sfera privata o la libertà;
+- b) perché la persona da segnalare avrebbe potuto commettere un crimine contro l'integrità fisica, la vita, la libertà o l'integrità sessuale.
+
+<sup>2</sup> Se una persona fa capo all'offerta dell'ufficio di consulenza, la Polizia cantonale rende note all'ufficio di consulenza ulteriori indicazioni necessarie per la consulenza.
 
 #### Art. 17
 
@@ -552,11 +612,7 @@ decide:
 
 #### Art. 28
 
-**Dati riguardo a persone pronte all’uso della violenza**
-
-<sup>1</sup> La Polizia cantonale è autorizzata ad elaborare dati riguardo a persone violente e a trasmetterli ad uffici e persone minacciate.
-
-<sup>2</sup> Autorità, uffici e persone singole sono autorizzate a dare comunicazione e fornire informazioni alla Polizia cantonale in merito a persone violente.
+**…**
 
 #### Art. 29
 
@@ -592,6 +648,90 @@ decide:
 <sup>2</sup> Essa può rendere accessibili mediante procedura di richiamo alle autorità di cui al capoverso 1, escluso l'Ufficio federale delle strade, i dati della ricerca automatizzata di veicoli per gli scopi menzionati nell'articolo 22b capoverso 1.
 
 <sup>3</sup> A questo scopo essa può creare interfacce con i sistemi di rilevamento automatizzato di veicoli di queste autorità.
+
+#### Art. 29c
+
+**Gestione delle minacce 1. Definizioni**
+
+<sup>1</sup> È considerata potenzialmente pronta all'uso della violenza una persona che manifesta un comportamento minaccioso. Manifesta un comportamento minaccioso in particolare:
+
+- a) chi commina violenza contro una persona;
+- b) chi segue, molesta o minaccia una persona;
+- c) chi esprime fantasie di violenza;
+- d) chi esercita violenza contro una persona.
+
+<sup>2</sup> Una persona è considerata pronta all'uso della violenza se il suo comportamento o le sue esternazioni giustificano l'ipotesi che commetterà un grave atto di violenza. Gravi atti di violenza sono:
+
+- a) crimini o delitti gravi attraverso i quali l'integrità fisica, psichica o sessuale di una persona viene lesa in modo grave;
+- b) crimini o delitti attraverso i quali l'integrità fisica, psichica o sessuale di una persona viene lesa, se in tal modo vengono sostenute attività terroristiche o di estremismo violento ai sensi della legge federale sulle attività informative[^29c-1].
+
+<sup>3</sup> È considerata una persona vittima di violenza la potenziale vittima di una persona pronta all'uso della violenza.
+
+<sup>4</sup> L'ufficio competente è l'unità organizzativa competente per la gestione delle minacce presso la Polizia cantonale.
+
+[^29c-1]: RS [121](https://db.clex.ch/link/Bund/121/it)
+
+#### Art. 29d
+
+**2. Elaborazione dei dati**
+
+<sup>1</sup> L'ufficio competente può elaborare dati, inclusi dati personali degni di particolare protezione, relativi a persone potenzialmente pronte all'uso della violenza e a persone pronte all'uso della violenza nonché persone vittime di violenza e allestire profili della personalità relativi a persone pronte all'uso della violenza, nella misura in cui ciò sia necessario per riconoscere o impedire un grave atto di violenza conformemente all'articolo 29c capoverso 2.
+
+<sup>2</sup> L'ufficio competente può elaborare dati, inclusi dati personali degni di particolare protezione, relativi ad altre persone se la persona pronta all'uso della violenza o la persona vittima di violenza ha o ha avuto contatti con tali persone e l'elaborazione di dati è necessaria per riconoscere o impedire un grave atto di violenza conformemente all'articolo 29c capoverso 2.
+
+#### Art. 29e
+
+**3. Segnalazione**
+
+<sup>1</sup> Le persone che adempiono compiti pubblici e i professionisti della salute conformemente all'articolo 4 capoverso 1 lettera b della legge sulla tutela della salute nel Cantone dei Grigioni[^29e-1] nonché i rispettivi ausiliari possono segnalare all'ufficio competente persone potenzialmente pronte all'uso della violenza.
+
+<sup>2</sup> La segnalazione può contenere il nome, l'indirizzo oppure il luogo di dimora e il numero di telefono della persona potenzialmente pronta all'uso della violenza nonché tutte le circostanze rilevanti per la valutazione del potenziale di violenza.
+
+<sup>3</sup> Se l'ufficio competente non si ritiene competente, trasmette le segnalazioni all'autorità ritenuta competente.
+
+[^29e-1]: CSC [500.000](https://www.gr-lex.gr.ch/data/500.000/it)
+
+#### Art. 29f
+
+**4. Registrazione**
+
+<sup>1</sup> Per poter decidere se una persona potenzialmente pronta all'uso della violenza debba essere inserita nella gestione delle minacce, l'ufficio competente può procedere alle chiarificazioni seguenti:
+
+- a) consultare e interrogare nella procedura di richiamo dati della Polizia cantonale;
+- b) richiedere informazioni alla persona che effettua la segnalazione;
+- c) richiedere informazioni alla persona le cui informazioni hanno portato a considerare una persona quale potenzialmente pronta all'uso della violenza.
+
+<sup>2</sup> L'ufficio competente può informare le persone di cui al capoverso 1 lettera b e lettera c in merito all'esito della verifica della registrazione, nella misura in cui ciò sia oggettivamente giustificato.
+
+#### Art. 29g
+
+**5. Raccolta e comunicazione di dati**
+
+<sup>1</sup> L'ufficio competente può raccogliere informazioni relative a persone pronte all'uso della violenza e a persone vittime di violenza presso autorità della Confederazione, dei Cantoni, dei comuni o di un altro Stato, specialisti, organizzazioni private e persone private e comunicare loro dati, inclusi dati personali degni di particolare protezione, relativi alla persona pronta all'uso della violenza e alla persona vittima di violenza, nella misura in cui ciò sia necessario:
+
+- a) per valutare il potenziale di violenza di una persona pronta all'uso della violenza;
+- b) per determinare le misure per la difesa da pericoli;
+- c) per attuare e coordinare la procedura per la difesa da pericoli.
+
+<sup>2</sup> Per la raccolta e la comunicazione di dati conformemente al capoverso 1 l'ufficio competente può organizzare riunioni relative al caso con autorità, specialisti e organizzazioni private. I partecipanti sono autorizzati a scambiare dati, inclusi dati personali degni di particolare protezione.
+
+<sup>3</sup> L'ufficio competente può interrogare persone del contesto privato della persona pronta all'uso della violenza e della persona vittima di violenza se a seguito di altre chiarificazioni non è possibile valutare la situazione di pericolo oppure se è possibile valutarla solo con un onere sproporzionato. Gli interrogatori nel contesto della persona vittima di violenza sono ammessi solo con il consenso della persona vittima di violenza.
+
+<sup>4</sup> Se l'ufficio competente non raccoglie dati presso la persona pronta all'uso della violenza, informa la persona pronta all'uso della violenza in merito al motivo, al tipo e alla durata dell'elaborazione dei dati non appena lo scopo associato all'elaborazione dei dati lo consente. La comunicazione viene tralasciata se ciò è necessario per salvaguardare interessi pubblici o privati preponderanti.
+
+#### Art. 29h
+
+**6. Informazione e consulenza**
+
+<sup>1</sup> L'ufficio competente informa la persona vittima di violenza riguardo alla minaccia e le fornisce consulenza in merito alle misure di protezione da adottare, se ciò è necessario per proteggerla da un pericolo per la sua integrità fisica, psichica o sessuale.
+
+<sup>2</sup> Nel quadro dell'attività di informazione e di consulenza, l'ufficio competente tutela per quanto possibile i diritti della personalità della persona pronta all'uso della violenza.
+
+#### Art. 29i
+
+**7. Diritto di denuncia**
+
+<sup>1</sup> L'ufficio competente è autorizzato a denunciare a un'autorità di perseguimento penale crimini e delitti da perseguire d'ufficio dei quali è venuto a conoscenza nel quadro della gestione delle minacce e che si presume abbiano leso l'integrità fisica, psichica o sessuale di una persona, senza dover essere liberati dal segreto d'ufficio.
 
 #### Art. 30
 

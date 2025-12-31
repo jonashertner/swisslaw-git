@@ -4,13 +4,13 @@ number: "613.000"
 title: Polizeigesetz des Kantons Graubünden
 short: PolG
 language: de
-version: 2025-01-01
-corrected: 2025-10-28
-version_adopted: 2022-06-14
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-08-27
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3410/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3410/pdf_file"
 
 (PolG)
 
-Vom 20.10.2004 (Stand 01.01.2025)
+Vom 20.10.2004 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden,
 
@@ -51,7 +51,7 @@ beschliesst:
 <sup>1</sup> Die Kantonspolizei erfüllt folgende Aufgaben:
 
 - a) Sie ergreift Massnahmen, um Gefahren für Mensch, Tier, Umwelt und Sachen oder Störungen der öffentlichen Sicherheit und Ordnung zu erkennen, zu verhindern und zu beseitigen;
-- b) Sie übt die Funktion der gerichtlichen Polizei aus und trifft Massnahmen zur Verhinderung und Bekämpfung von Straftaten;
+- b) Sie übt die Funktion der gerichtlichen Polizei aus und trifft Massnahmen zur Erkennung und Verhinderung von Straftaten;
 - c) Sie trifft bereits vor der Aufnahme gerichtspolizeilicher Ermittlungen oder zur Gefahrenabwehr die notwendigen Abklärungen;
 - d) Sie sorgt für eine zweckmässige Überwachung und Lenkung des Strassenverkehrs und trifft Massnahmen zur Unfallverhütung sowie Verkehrsberuhigung;
 - e) Sie hilft Menschen, die unmittelbar an Leib und Leben bedroht oder anderweitig in Not sind;
@@ -175,9 +175,11 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei kann Personen im Rahmen ihrer polizeilichen Aufgaben befragen. Sie hat die Personen dabei auf ihre Rechte hinzuweisen.
 
-<sup>2</sup> Sie kann Personen unter Hinweis auf den Gegenstand für Befragungen vorladen. Der Gegenstand der Befragung ist auf der Vorladung anzugeben.
+<sup>2</sup> Die Kantonspolizei kann Personen zu Befragungen vorladen. Der Gegenstand der Befragung ist in der Vorladung bekanntzugeben.
 
 <sup>3</sup> Leistet eine Person einer Vorladung ohne hinreichenden Grund nicht Folge, kann die Kantonspolizei sie nach vorgängigem schriftlichen Hinweis vorführen.
+
+<sup>4</sup> Die Vorführung kann ohne Vorladung angeordnet werden, wenn Gefahr im Verzug ist.
 
 #### Art. 11
 
@@ -206,6 +208,30 @@ beschliesst:
 - c) den Aufenthalt in Objekten, Grundstücken oder Gebieten untersagen.
 
 <sup>3</sup> Sie kann bei Nichtbefolgung der Anweisung diese mit den erforderlichen und angemessenen Mitteln durchsetzen.
+
+#### Art. 12a
+
+**Ausgrenzung**
+
+<sup>1</sup> Die Kantonspolizei kann gegenüber einer Person eine Ausgrenzung anordnen, wenn:
+
+- a) sie eine oder mehrere Personen an allgemein zugänglichen Orten stört oder unmittelbar gefährdet;
+- b) sie eine oder mehrere Personen an allgemein zugänglichen Orten belästigt oder unberechtigterweise an der bestimmungsgemässen Nutzung hindert;
+- c) sie Einsatzkräfte, wie Polizei, Feuerwehr oder Rettungskräfte, stört oder unmittelbar gefährdet;
+- d) sie sich selber erheblich und unmittelbar gefährdet;
+- e) sie sich rechtswidrig verhält.
+
+<sup>2</sup> Mit einer Ausgrenzung kann die Kantonspolizei:
+
+- a) Personen anweisen, einen bestimmten Ort oder ein bestimmtes Gebiet zu verlassen;
+- b) das Betreten von Objekten, Grundstücken oder Gebieten untersagen;
+- c) den Aufenthalt in Objekten, Grundstücken oder Gebieten untersagen.
+
+<sup>3</sup> Ausgrenzungen können nur angeordnet werden, wenn weder eine Wegweisung noch eine Fernhaltung oder eine besondere Massnahme gegen Gewalt, Drohungen oder Nachstellungen angeordnet werden kann.
+
+<sup>4</sup> Ausgrenzungen dürfen nur solange dauern, wie sie zur Wahrung der öffentlichen Sicherheit und Ordnung oder zum Schutz der gefährdeten Person erforderlich sind, längstens aber 30 Tage.
+
+<sup>5</sup> Die Kantonspolizei ordnet Ausgrenzungen schriftlich an, wenn sie länger als 24 Stunden dauern.
 
 #### Art. 13
 
@@ -241,7 +267,8 @@ beschliesst:
 - a) dies zum Schutz dieser oder einer anderen Person gegen eine Gefahr für Leib, Leben oder die psychische Unversehrtheit sowie für die Verhinderung oder Beseitigung einer erheblichen Gefährdung der öffentlichen Sicherheit und Ordnung erforderlich ist;
 - b) dies zur Verhinderung der unmittelbar bevorstehenden Begehung oder Fortsetzung einer erheblichen Straftat erforderlich ist;
 - c) sie sich dem Vollzug einer Freiheitsstrafe oder einer freiheitsentziehenden Massnahme durch Flucht entzogen hat oder entziehen will;
-- d) dies zur Sicherstellung des Vollzugs einer durch die zuständige Behörde angeordneten Wegweisung, Ausweisung oder Auslieferung erforderlich ist.
+- d) dies zur Sicherstellung des Vollzugs einer durch eine andere Behörde angeordneten Wegweisung, Ausweisung, Landesverweisung, Auslieferung, einer Vorführung oder Zuführung erforderlich ist;
+- e) dies zur Sicherstellung des Vollzugs einer Wegweisung, einer Ausgrenzung, einer Zuführung Minderjähriger oder einer besonderen Massnahme gegen Gewalt, Drohungen oder Nachstellungen erforderlich ist.
 
 <sup>2</sup> Die in Gewahrsam genommene Person ist über den Grund dieser Massnahme in Kenntnis zu setzen, und es ist ihr, sofern die Umstände es erlauben, die Gelegenheit zu geben, eine Person ihres Vertrauens zu benachrichtigen.
 
@@ -249,30 +276,63 @@ beschliesst:
 
 #### Art. 16
 
-**Häusliche Gewalt 1. Eingreifen**
+**Besondere Massnahmen gegen Gewalt, Drohungen oder Nachstellungen 1. Ausweisung, Orts-, Annäherungs- und Kontaktverbot**
 
-<sup>1</sup> Die Kantonspolizei kann die sofortige Ausweisung gemäss Artikel 28b Absatz 4 ZGB[^16-1] für längstens 14 Tage verfügen. Die Verfügung ist mit einer Rechtsmittelbelehrung zu versehen und:
+<sup>1</sup> Die Kantonspolizei kann gegenüber einer Person eine besondere Massnahme gegen Gewalt, Drohungen oder Nachstellungen anordnen, wenn:
 
-- a) der ausgewiesenen Person und dem Opfer spätestens nach dem Einschreiten schriftlich abzugeben;
-- b) der Einzelrichterin oder dem Einzelrichter am Regionalgericht und, sofern Minderjährige betroffen sind oder Massnahmen des Kindes- und Erwachsenenschutzes in Betracht kommen, der Kindes- und Erwachsenenschutzbehörde innert 24 Stunden zu übermitteln;
-- c) der Beratungsstelle für Gewalt ausübende Personen mit allenfalls weiteren notwendigen Unterlagen zu übermitteln.
+- a) aufgrund konkreter und aktueller Anhaltspunkte davon ausgegangen werden muss, dass sie eine Straftat gegen Leib, Leben, die sexuelle Integrität oder die Freiheit einer anderen Person begehen wird;
+- b) aufgrund konkreter und aktueller Anhaltspunkte davon ausgegangen werden muss, dass sie eine andere Person auf eine Weise beharrlich verfolgt, belästigt oder bedroht, die geeignet ist, jemanden erheblich in seiner Lebensgestaltungsfreiheit zu beschränken.
+- c) …
 
-<sup>2</sup> Die Verfügung der Kantonspolizei kann während der Ausweisung mit Beschwerde bei der Einzelrichterin oder dem Einzelrichter am Regionalgericht schriftlich angefochten werden. In der Beschwerde ist mit kurzer Begründung anzugeben, welche Punkte angefochten und welche Abänderungen beantragt werden.
+<sup>2</sup> Mit einer Massnahme gegen Gewalt, Drohungen oder Nachstellungen kann die Kantonspolizei:
 
-<sup>3</sup> Die Kantonspolizei informiert:
+- a) die gefährdende Person aus der Wohnung oder dem Haus ausweisen (Ausweisung);
+- b) der gefährdenden Person verbieten, sich an einem bestimmten Ort, namentlich in der unmittelbaren Umgebung von bezeichneten Wohnungen, bestimmten Strassen, Plätzen oder Quartieren, aufzuhalten (Ortsverbot);
+- c) der gefährdenden Person verbieten, sich einer anderen Person anzunähern (Annäherungsverbot);
+- d) der gefährdenden Person verbieten, mit einer anderen Person direkt oder indirekt in Kontakt zu treten (Kontaktverbot).
 
-- a) das Opfer über die möglichen weiteren Verfahrensschritte;
-- b) das Opfer und die Gewalt ausübende Person über Beratungsangebote.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
-[^16-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
-
 #### Art. 16a
 
-**2. Meldung**
+**2. Dauer der Massnahmen**
 
-<sup>1</sup> Die Kantonspolizei meldet nach einem Einsatz wegen häuslicher Gewalt den Namen, die Adresse und die Telefonnummer der Gewalt ausübenden Person der Beratungsstelle für Gewalt ausübende Personen.
+<sup>1</sup> Massnahmen gegen Gewalt, Drohungen oder Nachstellungen dürfen nur solange dauern, wie sie zum Schutz der gefährdeten Person erforderlich sind, längstens aber 14 Tage.
+
+<sup>2</sup> Beantragt die gefährdete Person während der Massnahmendauer die Anordnung einer gleichgerichteten zivilrechtlichen Schutzmassnahme, verlängern sich die Massnahmen gegen Gewalt, Drohungen oder Nachstellungen automatisch bis zum vollstreckbaren gerichtlichen Entscheid, längstens aber um 20 Tage. Die angerufenen Zivilgerichte informieren die Beteiligten und die Kantonspolizei über die gesetzliche Verlängerung der Massnahmendauer.
+
+<sup>3</sup> Dieselbe Massnahme kann erneut angeordnet werden, wenn neue Anhaltspunkte für eine unmittelbare Gefahrenlage gemäss Artikel 16 Absatz 1 vorliegen.
+
+#### Art. 16b
+
+**3. Anordnung der Massnahmen**
+
+<sup>1</sup> Die Kantonspolizei ordnet Massnahmen gegen Gewalt, Drohungen oder Nachstellungen schriftlich an.
+
+<sup>2</sup> Die Kantonspolizei teilt den Entscheid mit:
+
+- a) den Beteiligten;
+- b) der Beratungsstelle für gewaltausübende Personen;
+- c) der Opferhilfe Beratungsstelle Graubünden;
+- d) den von der Regierung bezeichneten Behörden.
+
+<sup>3</sup> Die Kantonspolizei informiert:
+
+- a) die betroffenen Personen über Beratungsangebote für gewaltausübende Personen und Opfer von Gewalt;
+- b) die gefährdete Person über die möglichen weiteren Verfahrensschritte.
+
+#### Art. 16c
+
+**4. Meldung an die Beratungsstelle für gewaltausübende Personen**
+
+<sup>1</sup> Die Kantonspolizei meldet der Beratungsstelle für gewaltausübende Personen (Beratungsstelle) den Namen, die Adresse und die Telefonnummer einer Person mit einer kurzen Sachverhaltsschilderung, wenn sie aufgrund eines Polizeieinsatzes ein Ermittlungsverfahren einleitet:
+
+- a) weil die zu meldende Person durch die Ausübung häuslicher Gewalt eine Straftat gegen Leib, Leben, die sexuelle Integrität, die Ehre, den Geheimbereich, den Privatbereich oder die Freiheit begangen haben könnte;
+- b) weil die zu meldende Person ein Verbrechen gegen Leib, Leben, die Freiheit oder die sexuelle Integrität begangen haben könnte.
+
+<sup>2</sup> Nimmt eine Person das Angebot der Beratungsstelle in Anspruch, gibt die Kantonspolizei der Beratungsstelle weitere für die Beratung erforderliche Angaben bekannt.
 
 #### Art. 17
 
@@ -552,11 +612,7 @@ beschliesst:
 
 #### Art. 28
 
-**Daten über gewaltbereite Personen**
-
-<sup>1</sup> Die Kantonspolizei ist ermächtigt, Daten über gewaltbereite Personen zu bearbeiten und an gefährdete Stellen und Personen weiterzuleiten.
-
-<sup>2</sup> Behörden, Ämter und Einzelpersonen sind berechtigt, der Kantonspolizei über gewaltbereite Personen Meldung zu erstatten und Auskünfte zu erteilen.
+**…**
 
 #### Art. 29
 
@@ -592,6 +648,90 @@ beschliesst:
 <sup>2</sup> Sie kann den in Absatz 1 genannten Behörden, ausgenommen dem Bundesamt für Strassen, Daten der automatisierten Fahrzeugfahndung zu den in Artikel 22b Absatz 1 genannten Zwecken im Abrufverfahren bekanntgeben.
 
 <sup>3</sup> Dazu kann sie Schnittstellen mit den Systemen zur automatisierten Fahrzeugerfassung dieser Behörden einrichten.
+
+#### Art. 29c
+
+**Bedrohungsmanagement 1. Begriffe**
+
+<sup>1</sup> Als potenziell gewaltbereite Person gilt eine Person, die ein bedrohliches Verhalten zeigt. Bedrohlich verhält sich insbesondere:
+
+- a) wer Gewalt gegen eine Person androht;
+- b) wer eine Person verfolgt, belästigt oder bedroht;
+- c) wer Gewaltphantasien äussert;
+- d) wer Gewalt gegen eine Person anwendet.
+
+<sup>2</sup> Als gewaltbereite Person gilt eine Person, wenn ihr Verhalten oder ihre Äusserungen die Annahme rechtfertigen, dass sie eine schwere Gewalttat begehen wird. Schwere Gewalttaten sind:
+
+- a) Verbrechen oder schwere Vergehen, durch welche die physische, psychische oder sexuelle Integrität einer Person schwer beeinträchtigt wird;
+- b) Verbrechen oder Vergehen, durch welche die physische, psychische oder sexuelle Integrität einer Person beeinträchtigt wird, wenn dadurch terroristische oder gewalttätig-extremistische Aktivitäten im Sinne des Bundesgesetzes über den Nachrichtendienst[^29c-1] unterstützt werden.
+
+<sup>3</sup> Als gewaltbetroffene Person gilt das potenzielle Opfer einer gewaltbereiten Person.
+
+<sup>4</sup> Die zuständige Stelle ist die Organisationseinheit, die bei der Kantonspolizei für das Bedrohungsmanagement zuständig ist.
+
+[^29c-1]: SR [121](https://db.clex.ch/link/Bund/121/de)
+
+#### Art. 29d
+
+**2. Datenbearbeitung**
+
+<sup>1</sup> Die zuständige Stelle darf Daten, einschliesslich besonders schützenswerter Personendaten, über potenziell gewaltbereite und gewaltbereite sowie gewaltbetroffene Personen bearbeiten und Persönlichkeitsprofile über gewaltbereite Personen erstellen, soweit dies notwendig ist, um eine schwere Gewalttat gemäss Artikel 29c Absatz 2 zu erkennen oder zu verhindern.
+
+<sup>2</sup> Daten, einschliesslich besonders schützenswerter Personendaten, über andere Personen darf die zuständige Stelle bearbeiten, wenn die gewaltbereite oder gewaltbetroffene Person mit diesen Personen in Kontakt steht oder gestanden ist und die Datenbearbeitung notwendig ist, um eine schwere Gewalttat gemäss Artikel 29c Absatz 2 zu erkennen oder zu verhindern.
+
+#### Art. 29e
+
+**3. Meldung**
+
+<sup>1</sup> Personen, die öffentliche Aufgaben wahrnehmen, und Gesundheitsfachpersonen gemäss Artikel 4 Absatz 1 Litera b des Gesetzes zum Schutz der Gesundheit im Kanton Graubünden[^29e-1] sowie deren Hilfspersonen können der zuständigen Stelle potenziell gewaltbereite Personen melden.
+
+<sup>2</sup> Die Meldung kann den Namen, die Adresse oder den Aufenthaltsort und die Telefonnummer der potenziell gewaltbereiten Person sowie alle für die Beurteilung des Gewaltpotenzials relevanten Umstände beinhalten.
+
+<sup>3</sup> Wenn die zuständige Stelle sich für unzuständig hält, leitet sie Meldungen an die für zuständig erachtete Behörde weiter.
+
+[^29e-1]: BR [500.000](https://www.gr-lex.gr.ch/data/500.000/de)
+
+#### Art. 29f
+
+**4. Aufnahme**
+
+<sup>1</sup> Um entscheiden zu können, ob eine potenziell gewaltbereite Person in das Bedrohungsmanagement aufzunehmen ist, kann die zuständige Stelle folgende Abklärungen treffen:
+
+- a) Daten der Kantonspolizei einsehen und im Abrufverfahren abfragen;
+- b) bei der meldenden Person Informationen einholen;
+- c) bei der Person, deren Informationen dazu geführt haben, dass eine Person als potenziell gewaltbereite Person eingestuft wurde, Informationen einholen.
+
+<sup>2</sup> Die zuständige Stelle kann Personen gemäss Absatz 1 Litera b und Litera c über das Ergebnis der Aufnahmeprüfung informieren, soweit dies sachlich gerechtfertigt ist.
+
+#### Art. 29g
+
+**5. Datenbeschaffung und Datenbekanntgabe**
+
+<sup>1</sup> Die zuständige Stelle kann bei Behörden des Bundes, der Kantone, der Gemeinden oder eines anderen Staates, Fachpersonen, privaten Organisationen und Privatpersonen Auskünfte über gewaltbereite und gewaltbetroffene Personen einholen und ihnen Daten, einschliesslich besonders schützenswerter Personendaten, über die gewaltbereite und die gewaltbetroffene Person bekanntgeben, soweit dies notwendig ist, um:
+
+- a) das Gewaltpotenzial einer gewaltbereiten Person einzuschätzen;
+- b) die Massnahmen zur Gefahrenabwehr zu bestimmen;
+- c) das Vorgehen zur Gefahrenabwehr umzusetzen und zu koordinieren.
+
+<sup>2</sup> Die zuständige Stelle kann zur Datenbeschaffung und Datenbekanntgabe gemäss Absatz 1 Fallkonferenzen mit Behörden, Fachpersonen und privaten Organisationen durchführen. Die Teilnehmenden sind berechtigt, Daten, einschliesslich besonders schützenswerter Personendaten, auszutauschen.
+
+<sup>3</sup> Die zuständige Stelle kann Personen aus dem privaten Umfeld der gewaltbereiten und der gewaltbetroffenen Person befragen, wenn die Gefahrenlage aufgrund anderer Abklärungen nicht oder nur mit unverhältnismässig grossem Aufwand zuverlässig eingeschätzt werden kann. Befragungen im Umfeld der gewaltbetroffenen Person sind nur mit der Zustimmung der gewaltbetroffenen Person zulässig.
+
+<sup>4</sup> Beschafft die zuständige Stelle Daten nicht bei der gewaltbereiten Person, informiert sie die gewaltbereite Person über den Grund, die Art und die Dauer der Datenbearbeitung, sobald der mit der Datenbearbeitung verbundene Zweck dies zulässt. Die Mitteilung unterbleibt, wenn dies zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+
+#### Art. 29h
+
+**6. Information und Beratung**
+
+<sup>1</sup> Die zuständige Stelle informiert die gewaltbetroffene Person über die Gefährdung und berät sie bezüglich der zu treffenden Schutzmassnahmen, wenn dies notwendig ist, um sie vor einer Gefahr für ihre physische, psychische oder sexuelle Integrität zu schützen.
+
+<sup>2</sup> Die zuständige Stelle wahrt bei der Information und Beratung soweit möglich die Persönlichkeitsrechte der gewaltbereiten Person.
+
+#### Art. 29i
+
+**7. Anzeigerecht**
+
+<sup>1</sup> Die zuständige Stelle ist berechtigt, bei einer Strafverfolgungsbehörde von Amtes wegen zu verfolgende Verbrechen und Vergehen, von denen sie im Rahmen des Bedrohungsmanagements Kenntnis erhalten hat und durch welche die physische, psychische oder sexuelle Integrität einer Person mutmasslich beeinträchtigt wurde, anzuzeigen, ohne vom Amtsgeheimnis entbunden werden zu müssen.
 
 #### Art. 30
 

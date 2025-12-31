@@ -4,13 +4,13 @@ number: "613.000"
 title: Lescha da polizia dal chantun Grischun
 short: LPol
 language: rm
-version: 2025-01-01
-corrected: 2025-10-28
-version_adopted: 2022-06-14
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-08-27
 adopted: 2004-10-20
 in_force: 2005-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/613.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3410/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3410/pdf_file"
 
 (LPol)
 
-dals 20-10-2004 (versiun dals 01-01-2025)
+dals 20-10-2004 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun,
 
@@ -51,7 +51,7 @@ concluda:
 <sup>1</sup> La polizia chantunala ademplescha las suandantas incumbensas:
 
 - a) Ella prenda mesiras per percorscher, impedir ed eliminar tant privels per ils umans, ils animals e l'ambient sco er fatgs u disturbis da la segirezza publica e da l'urden public;
-- b) Ella ha la funcziun da la polizia giudiziala e prenda mesiras per impedir e cumbatter fatgs penals;
+- b) Ella ha la funcziun da la polizia giudiziala e prenda mesiras per identifitgar e per impedir malfatgs;
 - c) Ella fa ils scleriments necessaris gia avant che cumenzar cun las retschertgas da la polizia giudiziala u per la defensiun cunter privels;
 - d) Ella procura per ina surveglianza e direcziun adequata dal traffic sin via e prenda mesiras per la prevenziun d'accidents e per quietar il traffic;
 - e) Ella gida umans ch'èn directamain periclitads areguard il corp e la vita u ch'èn autramain en privel;
@@ -175,9 +175,11 @@ concluda:
 
 <sup>1</sup> La polizia chantunala po interrogar persunas en il rom da sias incumbensas da polizia. En quest connex sto ella render attent las persunas a lur dretgs.
 
-<sup>2</sup> Ella po citar persunas cun las render attentas a l'object da l'interrogaziun. L'object da l'interrogaziun sto vegnir inditgà sin la citaziun.
+<sup>2</sup> La Polizia chantunala po citar persunas ad interrogaziuns. L'object da l'interrogaziun sto vegnir communitgà en la citaziun.
 
 <sup>3</sup> Sch'ina persuna na suonda betg ina citaziun, e quai senza motiv suffizient, po la polizia chantunala preschentar ella, suenter ch'ella è vegnida infurmada en scrit.
+
+<sup>4</sup> La preschentaziun d'ina persuna po vegnir ordinada senza citaziun, sch'i resulta in privel dal retard.
 
 #### Art. 11
 
@@ -206,6 +208,30 @@ concluda:
 - c) scumandar da sa trategnair en objects, en bains immobigliars u en territoris.
 
 <sup>3</sup> En cas che l'ordinaziun na vegn betg observada, po la polizia chantunala far valair quella cun ils meds necessaris ed adequats.
+
+#### Art. 12a
+
+**Exclusiun**
+
+<sup>1</sup> La Polizia chantunala po ordinar in'exclusiun envers ina persuna che:
+
+- a) disturba u metta en privel directamain ina u pliras persunas en lieus ch'èn generalmain accessibels;
+- b) mulesta ina u pliras persunas en lieus ch'èn generalmain accessibels u impedescha senza permissiun l'utilisaziun confurm a l'intent;
+- c) disturba u metta en privel directamain forzas d'acziun, sco la polizia, ils pumpiers u las forzas da salvament;
+- d) metta en privel considerablamain e directamain sasezza;
+- e) sa cumporta illegalmain.
+
+<sup>2</sup> Cun in'exclusiun po la Polizia chantunala:
+
+- a) ordinar a persunas da bandunar in tschert lieu u territori;
+- b) scumandar da metter pe en objects, sin bains immobigliars u en territoris;
+- c) scumandar da sa trategnair en objects, sin bains immobigliars u en territoris.
+
+<sup>3</sup> In'exclusiun po vegnir ordinada mo, sch'i n'è betg pussaivel d'ordinar ina spedida, in scumond d'access u ina mesira speziala cunter violenza, smanatschas u persecuziuns.
+
+<sup>4</sup> Exclusiuns dastgan durar mo uschè ditg, sco quai ch'ellas èn necessarias per mantegnair la segirezza publica e l'urden public u per proteger la persuna periclitada, dentant maximalmain 30 dis.
+
+<sup>5</sup> La Polizia chantunala ordinescha exclusiuns en scrit, sch'ellas duran pli ditg che 24 uras.
 
 #### Art. 13
 
@@ -236,12 +262,13 @@ concluda:
 
 **Fermanza da polizia**
 
-<sup>1</sup> La polizia chantunala po prender temporarmain ina persuna en fermanza da polizia, sche:
+<sup>1</sup> La Polizia chantunala po prender temporarmain ina persuna en fermanza da polizia, sche:
 
 - a) quai è necessari per proteger quella persuna u in'autra persuna cunter in privel per il corp, per la vita u per l'integritad psichica sco er per impedir u eliminar ina periclitaziun considerabla da la segirezza publica e da l'urden public;
 - b) quai è necessari per impedir ch'in fatg penal grev imminent e smanatschant vegnia commess u cuntinuà;
 - c) ella è sa retirada u vul sa retrair tras fugia da l'execuziun d'in chasti che privescha da la libertad u d'ina mesira che privescha da la libertad;
-- d) quai è necessari per garantir l'execuziun d'ina spedida, d'ina expulsiun u d'ina extradiziun decretada da l'autoritad cumpetenta.
+- d) quai è necessari per garantir l'execuziun d'ina spedida, d'ina expulsiun, d'ina exiliaziun, d'ina extradiziun, d'ina preschentaziun u d'ina escorta, ch'è vegnida ordinada d'ina autra autoritad;
+- e) quai è necessari per garantir l'execuziun d'ina spedida, d'ina exclusiun, d'ina escorta da persunas minorennas u d'ina mesira speziala cunter violenza, smanatschas u persecuziuns.
 
 <sup>2</sup> La persuna ch'è vegnida prendida en fermanza da polizia sto vegnir infurmada dal motiv da quella mesira ed i sto vegnir dada ad ella la pussaivladad – sche las circumstanzas permettan quai – d'infurmar ina persuna da sia confidenza.
 
@@ -249,30 +276,63 @@ concluda:
 
 #### Art. 16
 
-**Violenza a chasa 1. intervenziun**
+**Mesiras spezialas cunter violenza, smanatschas u persecuziuns 1. expulsiun, scumond d'areal, d'avischinaziun e da contact**
 
-<sup>1</sup> La polizia chantunala po disponer l'expulsiun immediata tenor l'artitgel 28b alinea 4 CCS[^16-1] per maximalmain 14 dis. La disposiziun sto esser munida cun ina indicaziun dals meds legals e:
+<sup>1</sup> La Polizia chantunala po ordinar ina mesira speziala cunter violenza, smanatschas u persecuziuns envers ina persuna:
 
-- a) sto vegnir dada en scrit a la persuna expulsada ed a la victima il pli tard suenter l'intervenziun;
-- b) sto vegnir communitgada a la derschadra singula u al derschader singul da la dretgira regiunala e, sche persunas minorennas èn pertutgadas u sche mesiras da la protecziun d'uffants e da creschids vegnan en dumonda, a l'autoritad per la protecziun d'uffants e da creschids entaifer 24 uras;
-- c) sto vegnir communitgada al post da cussegliaziun per persunas violentas, eventualmain cun ulteriurs documents necessaris.
+- a) sch'igl è da supponer – sin basa d'indizis concrets ed actuals – ch'ella vegnia a commetter in malfatg cunter il corp, cunter la vita, cunter l'integritad sexuala u cunter la libertad d'ina autra persuna;
+- b) sch'igl è da supponer – sin basa d'indizis concrets ed actuals – ch'ella persequiteschia insistentamain, mulestia u smanatschia in'autra persuna en ina moda che restrenscha considerablamain la libertad da questa persuna da concepir sia vita.
+- c) …
 
-<sup>2</sup> Cunter la disposiziun da la polizia chantunala poi vegnir recurrì en scrit durant l'expulsiun tar la derschadra singula u tar il derschader singul da la dretgira regiunala. En il recurs sto vegnir inditgà cun ina curta motivaziun, tge puncts che vegnan contestads e tge midadas che vegnan pretendidas.
+<sup>2</sup> Cun ina mesira cunter violenza, smanatschas u persecuziuns po la Polizia chantunala:
 
-<sup>3</sup> La polizia chantunala infurmescha:
+- a) expulsar la persuna periclitanta da l'abitaziun u da la chasa (expulsiun);
+- b) scumandar a la persuna periclitanta da sa trategnair en in lieu specific, particularmain en ils conturns directs d'abitaziuns designadas, sin tschertas vias, plazzas u en tscherts quartiers (scumond d'areal);
+- c) scumandar a la persuna periclitanta da s'avischinar ad in'autra persuna (scumond d'avischinaziun);
+- d) scumandar a la persuna periclitanta d'entrar en contact direct u indirect cun in'autra persuna (scumond da contact).
 
-- a) la victima davart eventuals ulteriurs pass da la procedura;
-- b) la victima e la persuna violenta davart purschidas da cussegliaziun.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
-[^16-1]: CS [210](https://db.clex.ch/link/Bund/210/rm)
-
 #### Art. 16a
 
-**2. annunzia**
+**2. durada da las mesiras**
 
-<sup>1</sup> Suenter ina intervenziun pervia da violenza a chasa annunzia la Polizia chantunala il num, l'adressa ed il numer da telefon da la persuna violenta al Post da cussegliaziun per persunas violentas.
+<sup>1</sup> Las mesiras cunter violenza, smanatschas u persecuziuns dastgan durar mo uschè ditg, sco quai ch'ellas èn necessarias per proteger la persuna periclitada, dentant maximalmain 14 dis.
+
+<sup>2</sup> Sche la persuna periclitada dumonda, durant la realisaziun d'ina mesira, ch'i vegnia ordinada ina mesira da protecziun da dretg civil cun il medem intent, sa prolungheschan las mesiras cunter violenza, smanatschas u persecuziuns automaticamain, fin che la decisiun giudiziala è executabla, dentant per maximalmain 20 dis. Las dretgiras civilas appelladas infurmeschan las persunas participadas e la Polizia chantunala davart la prolungaziun legala da la durada da las mesiras.
+
+<sup>3</sup> La medema mesira po vegnir ordinada danovamain, sch'i èn avant maun novs indizis per in privel direct tenor l'artitgel 16 alinea 1.
+
+#### Art. 16b
+
+**3. ordinaziun da las mesiras**
+
+<sup>1</sup> La Polizia chantunala ordinescha mesiras cunter violenza, smanatschas u persecuziuns en scrit.
+
+<sup>2</sup> La Polizia chantunala communitgescha la decisiun:
+
+- a) a las persunas participadas;
+- b) al Post da cussegliaziun per persunas violentas;
+- c) al Post da cussegliaziun per l'agid a victimas dal Grischun;
+- d) a las autoritads designadas da la Regenza.
+
+<sup>3</sup> La Polizia chantunala infurmescha:
+
+- a) las persunas pertutgadas davart purschidas da cussegliaziun per persunas violentas e per victimas da violenza;
+- b) la persuna periclitada davart ils eventuals ulteriurs pass da la procedura.
+
+#### Art. 16c
+
+**4. annunzia al Post da cussegliaziun per persunas violentas**
+
+<sup>1</sup> La Polizia chantunala annunzia al Post da cussegliaziun per persunas violentas (post da cussegliaziun) il num, l'adressa ed il numer da telefon d'ina persuna sco er ina curta descripziun dals fatgs, sch'ella introducescha – pervia d'ina acziun poliziala – ina procedura d'investigaziun, perquai che questa persuna:
+
+- a) pudess avair commess – cun utilisar violenza a chasa – in malfatg cunter il corp, cunter la vita, cunter l'integritad sexuala, cunter l'onur, cunter la sfera secreta u privata ubain cunter la libertad;
+- b) pudess avair commess in crim cunter il corp, cunter la vita, cunter la libertad u cunter l'integritad sexuala.
+
+<sup>2</sup> Sch'ina persuna fa diever da la purschida dal post da cussegliaziun, dat la Polizia chantunala al post da cussegliaziun ulteriuras infurmaziuns ch'èn necessarias per la cussegliaziun.
 
 #### Art. 17
 
@@ -552,11 +612,7 @@ concluda:
 
 #### Art. 28
 
-**Datas davart persunas ch'èn prontas d'utilisar violenza**
-
-<sup>1</sup> La polizia chantunala è autorisada d'elavurar datas davart persunas ch'èn prontas d'utilisar violenza e da trametter quellas datas a posts periclitads ed a persunas periclitadas.
-
-<sup>2</sup> Autoritads, uffizis e persunas singulas han il dretg da communitgar e da dar infurmaziuns a la polizia chantunala davart persunas ch'èn prontas d'utilisar violenza.
+**…**
 
 #### Art. 29
 
@@ -592,6 +648,90 @@ concluda:
 <sup>2</sup> Per ils intents numnads en l'artitgel 22b alinea 1 po ella communitgar datas da la retschertga automatisada da vehichels en la procedura d'invista a las autoritads numnadas en l'alinea 1, cun excepziun da l'Uffizi federal da vias.
 
 <sup>3</sup> Per quest intent po ella endrizzar interfatschas als sistems da la registraziun automatisada da vehichels da questas autoritads.
+
+#### Art. 29c
+
+**Management da smanatschas 1. noziuns**
+
+<sup>1</sup> Sco persuna potenzialmain pronta d'utilisar violenza vala ina persuna che mussa in cumportament smanatschant. Ina persuna mussa in cumportament smanatschant en spezial:
+
+- a) sch'ella smanatscha violenza cunter ina persuna;
+- b) sch'ella persequitescha, mulesta u smanatscha ina persuna;
+- c) sch'ella exprima fantasias da violenza;
+- d) sch'ella utilisescha violenza cunter ina persuna.
+
+<sup>2</sup> Sco persuna pronta d'utilisar violenza vala ina persuna, sche ses cumportament u sias remartgas giustifitgeschan da supponer, ch'ella vegnia a commetter in grev act da violenza. Grevs acts da violenza èn:
+
+- a) crims u grevs delicts, cun ils quals vegn donnegiada grevamain l'integritad fisica, psichica u sexuala d'ina persuna;
+- b) crims u delicts, cun ils quals vegn donnegiada l'integritad fisica, psichica u sexuala d'ina persuna, sche quests crims u delicts sustegnan activitads terroristicas u d'in extremissem violent en il senn da la Lescha federala davart il servetsch d'infurmaziun[^29c-1].
+
+<sup>3</sup> Sco persuna pertutgada da violenza vala la victima potenziala d'ina persuna pronta d'utilisar violenza.
+
+<sup>4</sup> Il post cumpetent è l'unitad d'organisaziun, ch'è cumpetenta tar la Polizia chantunala per il management da smanatschas.
+
+[^29c-1]: CS [121](https://db.clex.ch/link/Bund/121/rm)
+
+#### Art. 29d
+
+**2. elavuraziun da datas**
+
+<sup>1</sup> Il post cumpetent dastga elavurar datas, inclusiv datas persunalas spezialmain sensiblas, davart persunas potenzialmain prontas d'utilisar violenza, davart persunas prontas d'utilisar violenza sco er davart persunas pertutgadas da violenza e far profils da persunalitad davart persunas prontas d'utilisar violenza, sche quai è necessari per identifitgar e per impedir in grev act da violenza tenor l'artitgel 29c alinea 2.
+
+<sup>2</sup> Datas, inclusiv datas persunalas spezialmain sensiblas, davart autras persunas dastga il post cumpetent elavurar, sche la persuna pronta d'utilisar violenza u la persuna pertutgada da violenza è u è stada en contact cun questas persunas, e sche l'elavuraziun da datas è necessaria per identifitgar u per impedir in grev act da violenza tenor l'artitgel 29c alinea 2.
+
+#### Art. 29e
+
+**3. annunzia**
+
+<sup>1</sup> Persunas che adempleschan incumbensas publicas e persunas spezialisadas dal sectur da sanadad tenor l'artitgel 4 alinea 1 litera b da la Lescha davart la protecziun da la sanadad en il chantun Grischun[^29e-1] sco er lur persunas auxiliaras pon annunziar al post cumpetent persunas potenzialmain prontas d'utilisar violenza.
+
+<sup>2</sup> L'annunzia po cuntegnair il num, l'adressa u il lieu da dimora ed il numer da telefon da la persuna potenzialmain pronta d'utilisar violenza sco er tut las circumstanzas ch'èn relevantas per giuditgar il potenzial da violenza.
+
+<sup>3</sup> Sch'il post cumpetent è da l'avis ch'el na saja betg cumpetent, transmetta el l'annunzia a l'autoritad ch'el considerescha sco cumpetenta.
+
+[^29e-1]: DG [500.000](https://www.gr-lex.gr.ch/data/500.000/rm)
+
+#### Art. 29f
+
+**4. recepziun**
+
+<sup>1</sup> Per pudair decider, sch'ina persuna potenzialmain pronta d'utilisar violenza duai vegnir recepida en il management da smanatschas, po il post cumpetent far ils suandants scleriments:
+
+- a) prender invista da datas da la Polizia chantunala e consultar talas datas en la procedura d'invista;
+- b) dumandar infurmaziuns da la persuna annunzianta;
+- c) dumandar infurmaziuns da la persuna che ha dà las infurmaziuns, tras las qualas ina persuna è vegnida classifitgada sco potenzialmain pronta d'utilisar violenza.
+
+<sup>2</sup> Il post cumpetent po infurmar las persunas tenor l'alinea 1 litera b e litera c davart il resultat dals scleriments da recepziun, uschenavant che quai è objectivamain giustifitgà.
+
+#### Art. 29g
+
+**5. procuraziun da datas e communicaziun da datas**
+
+<sup>1</sup> Il post cumpetent po dumandar infurmaziuns davart persunas prontas d'utilisar violenza e davart persunas pertutgadas da violenza tar las autoritads da la Confederaziun, dals chantuns, da las vischnancas u d'in auter stadi, tar persunas spezialisadas, tar organisaziuns privatas e tar persunas privatas, e communitgar ad ellas datas, inclusiv datas persunalas spezialmain sensiblas, davart la persuna pronta d'utilisar violenza e davart la persuna pertutgada da violenza, sche quai è necessari per:
+
+- a) valitar il potenzial da violenza d'ina persuna pronta d'utilisar violenza;
+- b) fixar las mesiras che duain vegnir prendidas per prevegnir a privels;
+- c) realisar e coordinar il proceder en connex cun la prevenziun da privels.
+
+<sup>2</sup> Per procurar e communitgar datas tenor l'alinea 1 po il post cumpetent organisar conferenzas da cas cun autoritads, cun persunas spezialisadas e cun organisaziuns privatas. Las participantas ed ils participants han il dretg da barattar datas, inclusiv datas persunalas spezialmain sensiblas.
+
+<sup>3</sup> Il post cumpetent po interrogar persunas da l'ambient privat da la persuna pronta d'utilisar violenza e da la persuna pertutgada da violenza, sch'i n'è betg pussaivel u mo pussaivel cun lavur sproporziunada da valitar en moda fidada la situaziun da privel sin basa d'auters scleriments. Interrogaziuns en l'ambient da la persuna pertutgada da violenza èn admessas mo cun il consentiment da la persuna pertutgada da violenza.
+
+<sup>4</sup> Sch'il post cumpetent procura las datas betg tar la persuna pronta d'utilisar violenza, communitgescha el a la persuna pronta d'utilisar violenza il motiv, la moda e maniera sco er la durada da l'elavuraziun da datas, uschespert che l'intent da l'elavuraziun da datas permetta quai. La communicaziun scroda, sche quai è necessari per proteger interess publics u privats predominants.
+
+#### Art. 29h
+
+**6. infurmaziun e cussegliaziun**
+
+<sup>1</sup> Il post cumpetent infurmescha la persuna pertutgada da violenza davart la smanatscha e cusseglia ella areguard las mesiras da protecziun che duain vegnir prendidas, sche quai è necessari per proteger ella cunter in privel per sia integritad fisica, psichica u sexuala.
+
+<sup>2</sup> Uschenavant che quai è pussaivel en connex cun l'infurmaziun e cun la cussegliaziun, respecta il post cumpetent ils dretgs persunals da la persuna pronta d'utilisar violenza.
+
+#### Art. 29i
+
+**7. dretg da denunzia**
+
+<sup>1</sup> Senza ch'el stoppia vegnir liberà dal secret d'uffizi, ha il post cumpetent il dretg da denunziar ad in'autoritad da persecuziun penala ils crims e delicts che ston vegnir persequitads d'uffizi, dals quals el ha survegnì enconuschientscha en il rom dal management da smanatschas ed ils quals han presumtivamain periclità l'integritad fisica, psichica u sexuala d'ina persuna.
 
 #### Art. 30
 
