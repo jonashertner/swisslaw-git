@@ -3,10 +3,10 @@ canton: ZH
 number: "177.115"
 title: Verordnung über die Nutzung von Internet und E-Mail
 language: de
-nachtrag: "43"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2003-09-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_115-2003_09_17-2003_10_01-043.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_115-2003_09_17-2003_10_01-131.html"
 text: pdf
 ---
 
@@ -56,17 +56,13 @@ II. Nutzungsvorschriften
 
 **1**
 
-- 1\. 1. 04 - 43 § 5. Die Direktionen können ergänzende Bestimmungen erlassen und die private Nutzung von Internet und E-Mail weiter einschränken.
-
-#### § 6
+- 1\. 1. 26 - 131 § 5. Die Direktionen können ergänzende Bestimmungen erlassen und die private Nutzung von Internet und E-Mail weiter einschränken.
 
 **Ergänzende Bestimmungen der Direktionen**
 
-**Schriftliche Erklärung**
+**Bestätigung**
 
-<sup>1</sup> Alle Mitarbeitenden mit Zugang zu Internet oder E-Mail unterzeichnen eine Erklärung, wonach sie auf die Nutzungsvorschriften aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet und E-Mail zur Kenntnis genommen haben.
-
-<sup>2</sup> Die Erklärung wird im Personaldossier abgelegt.
+§ 6.<sup>2</sup> Alle Mitarbeitenden mit Zugang zu Internet oder E-Mail bestätigen, dass sie auf die Nutzungsvorschriften aufmerksam gemacht worden sind und die möglichen straf-, zivil- und personalrechtlichen Konsequenzen eines Missbrauchs von Internet und E-Mail zur Kenntnis genommen haben.
 
 ### III. Organisation
 
@@ -160,7 +156,7 @@ Entscheidet die Direktion, keine Administrativuntersuchung durchzuführen, werde
 
 **3**
 
-- 1\. 1. 04 - 43
+- 1\. 1. 26 - 131
 
 ### V. Schlussbestimmung
 
@@ -173,3 +169,4 @@ Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 ## Weitere Fussnoten
 
 - [1] OS 58, 200.
+- [2] Fassung gemäss RRB vom 1. Oktober 2025 (OS 80, 296; ABl 2025-10-17). In Kraft seit 1. Januar 2026.
