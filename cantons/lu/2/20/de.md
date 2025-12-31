@@ -4,13 +4,12 @@ number: "20"
 title: Gesetz über die Organisation von Regierung und Verwaltung
 short: "Organisationsgesetz, OG"
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2024-10-21
 adopted: 1995-03-13
 in_force: 1995-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/20"
-pdf: "https://srl.lu.ch/api/de/versions/4399/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4418/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4399/pdf_file"
 
 (Organisationsgesetz, OG)
 
-vom 13.03.1995 (Stand 01.06.2025)
+vom 13.03.1995 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -789,6 +788,16 @@ beschliesst:
 **Rechtsschutz**
 
 <sup>1</sup> Entscheide über den Zugang zu amtlichen Informationen können mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden.
+
+#### § 68h
+
+**Anwendung bei Übertragung kantonaler Aufgaben**
+
+<sup>1</sup> Die Anstalten des kantonalen öffentlichen Rechts haben den Zugang zu Informationen nach den Bestimmungen dieses Titels zu gewähren.
+
+<sup>2</sup> Die weiteren Personen und Organisationen des öffentlichen und des privaten Rechts, denen kantonale Aufgaben übertragen sind, gewähren den Zugang zu Informationen, soweit sie kantonale Aufgaben erfüllen.
+
+<sup>3</sup> Soweit die Anstalten und die weiteren Personen und Organisationen, denen kantonale Aufgaben übertragen sind, am wirtschaftlichen Wettbewerb teilnehmen und nicht hoheitlich handeln, ist der Zugang ausgeschlossen.
 
 ## 6 Übergangs- und Schlussbestimmungen
 
