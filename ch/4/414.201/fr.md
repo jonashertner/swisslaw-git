@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 2016 relative à la loi sur l'encouragement et
 short: O-LEHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: fr
-version: 2025-09-01
+version: 2026-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20250901/fr/xml/fedlex-data-admin-ch-eli-cc-2016-741-20250901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-741-20260101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/fr"
 
 (O-LEHE)
 
-du 23 novembre 2016 (État le 1<sup>er</sup> septembre 2025)
+du 23 novembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 

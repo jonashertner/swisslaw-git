@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 2016 zum Hochschulförderungs- und -koordinat
 short: V-HFKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: de
-version: 2025-09-01
+version: 2026-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20250901/de/xml/fedlex-data-admin-ch-eli-cc-2016-741-20250901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2016-741-20260101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/de"
 
 (V-HFKG)
 
-vom 23. November 2016 (Stand am 1. September 2025)
+vom 23. November 2016 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -1006,4 +1006,4 @@ Die Kohäsionsbeiträge betragen von den Mitteln, die für die Ausrichtung der G
 <sup>4</sup> Die Geltungsdauer von Artikel 58 nach Absatz 3 wird bis zum 31. Dezember 2026 verlängert.[^69-2]
 
 [^69-1]: Eingefügt durch Ziff. I der V vom 26. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
-[^69-2]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Sept. 2025 ([AS 2025 345](https://fedlex.data.admin.ch/eli/oc/2025/345)).
+[^69-2]: Eingefügt durch Ziff. I der V vom 21. Mai 2025, in Kraft seit 1. Sept. 2025 (AS **202****5** 345).

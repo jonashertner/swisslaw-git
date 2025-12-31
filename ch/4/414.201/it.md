@@ -4,11 +4,11 @@ title: Ordinanza del 23 novembre 2016 concernente la legge sulla promozione e su
 short: O-LPSU
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/741"
 language: it
-version: 2025-09-01
+version: 2026-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20250901/it/xml/fedlex-data-admin-ch-eli-cc-2016-741-20250901-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/741/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-741-20260101-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/741/20250901/it"
 
 (O-LPSU)
 
-del 23 novembre 2016 (Stato 1° settembre 2025)
+del 23 novembre 2016 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -396,7 +396,7 @@ In caso di trasformazioni alle quali non è applicabile il metodo del forfait pe
 
 <sup>2</sup> Per determinare lo stato dei costi si applica l’indice svizzero dei prezzi della costruzione[^27-1] valido al momento dell’assegnazione del sussidio.
 
-[^27-1]: Per conoscere l’indice attuale dei prezzi (IVA inclusa) delle costruzioni consultare il sito dell’Ufficio federale di statistica www.bfs.admin.ch &gt; Temi &gt; Prezzi &gt; Prezzi delle costruzioni &gt; Indicatori.
+[^27-1]: Per conoscere l’indice attuale dei prezzi (IVA inclusa) delle costruzioni consultare il sito dell’Ufficio federale di statistica [www.bfs.admin.ch](http://www.bfs.admin.ch) &gt; Temi &gt; Prezzi &gt; Prezzi delle costruzioni &gt; Indicatori.
 
 #### Art. 28
 
@@ -595,7 +595,7 @@ Il diritto ai sussidi inizia:
 
 <sup>2</sup> All’evoluzione dei tassi d’interesse si applica il tasso di riferimento dell’Ufficio federale delle abitazioni[^44-1].
 
-[^44-1]: Per conoscere il tasso di riferimento attuale consultare il sito www.bwo.admin.ch &gt; Temi &gt; Diritto di locazione &gt; Tasso di riferimento.
+[^44-1]: Per conoscere il tasso di riferimento attuale consultare il sito [www.bwo.admin.ch](http://www.bwo.admin.ch) &gt; Temi &gt; Diritto di locazione &gt; Tasso di riferimento.
 
 #### Art. 45
 
@@ -809,7 +809,7 @@ La SEFRI o terzi riconoscono un titolo estero ai fini dell’esercizio di una pr
 
 [^chap9-sec1-1]
 
-[^chap9-sec1-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 2018, in vigore dal 1° apr. 2020 ([RU 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130)).
+[^chap9-sec1-1]: Nuovo testo giusta la cifra I dell’O del 26 feb. 2018, in vigore dal 1° apr. 2020 ([RU 2020 711](https://fedlex.data.admin.ch/eli/oc/2020/130); [2025 345](https://fedlex.data.admin.ch/eli/oc/2025/345)).
 
 ### (art. 73 cpv. 2 lett. b LPSU)
 
@@ -893,7 +893,7 @@ Per diplomi di scuola universitaria professionale conseguiti secondo il diritto 
 
 <sup>6</sup> Le persone che hanno ottenuto il titolo protetto di «designer SUP in e restauro» sono autorizzate a usare il titolo di «conservatore restauratore SUP».
 
-[^61-1]: www.sefri.admin.ch &gt; Temi &gt; Scuole universitarie &gt; Scuole universitarie professionali &gt; Studi &gt; Cicli di studio bachelor.
+[^61-1]: [www.sefri.admin.ch](http://www.sefri.admin.ch) &gt; Temi &gt; Scuole universitarie &gt; Scuole universitarie professionali &gt; Studi &gt; Cicli di studio bachelor.
 [^61-2]: [RU 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)
 [^61-3]: [RU 2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607)
 
