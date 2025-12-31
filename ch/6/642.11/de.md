@@ -4,11 +4,11 @@ title: Bundesgesetz vom 14. Dezember 1990 über die direkte Bundessteuer (DBG)
 short: DBG
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1990-12-14
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20250101-de-xml-16.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1991-1184_1184_1184-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/20250101/de"
 
 (DBG)
 
-vom 14. Dezember 1990 (Stand am 1. Januar 2025)
+vom 14. Dezember 1990 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 128 und 129 der Bundesverfassung[^ingress-1],[^ingress
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^ingress-3]: [BBl 1983 III 1](https://fedlex.data.admin.ch/eli/fga/1983/3_1_1_1)
 
@@ -169,7 +169,7 @@ Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schw
 <sup>2</sup> Das Einkommen der kollektiven Kapitalanlagen gemäss dem Kollektivanlagengesetz vom 23. Juni 2006[^10-2] (KAG) wird den Anlegern anteilsmässig zugerechnet; ausgenommen hievon sind die kollektiven Kapitalanlagen mit direktem Grundbesitz.[^10-3]
 
 [^10-1]: Fassung gemäss Anhang Ziff. II 6 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
-[^10-2]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^10-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^10-3]: Eingefügt durch Anhang Ziff. II 6 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 #### Art. 11
@@ -188,7 +188,7 @@ Ausländische Handelsgesellschaften und andere ausländische Personengesamtheite
 
 <sup>3</sup> Die überlebenden eingetragenen Partnerinnen oder Partner haften mit ihrem Erbteil und dem Betrag, den sie auf Grund einer vermögensrechtlichen Regelung im Sinne von Artikel 25 Absatz 1 des Partnerschaftsgesetzes vom 18. Juni 2004[^12-1] erhalten haben.[^12-2]
 
-[^12-1]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^12-1]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^12-2]: Eingefügt durch Anhang Ziff. 24 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 
 #### Art. 13
@@ -228,7 +228,7 @@ Natürliche Personen haben das Recht, anstelle der Einkommenssteuer eine Steuer 
 
 Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen:[^14-2]
 
-- a.[^14-3] 434 700 Franken;
+- a.[^14-3] 435 000 Franken;
 - b. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder des Mietwerts nach Artikel 21 Absatz 1 Buchstabe b;
 - c. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft und Verpflegung am Ort des Aufenthalts nach Artikel 3;
 - d.
@@ -250,7 +250,7 @@ Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Auslan
 
 [^14-1]: Fassung gemäss Ziff. I 1 des BG vom 28. Sept. 2012, in Kraft seit 1. Jan. 2016 ([AS 2013 779](https://fedlex.data.admin.ch/eli/oc/2013/155); [BBl 2011 6021](https://fedlex.data.admin.ch/eli/fga/2011/885)). Siehe auch die UeB dieser Änd. in Art. 205*d* am Schluss des Textes.
 [^14-2]: Fassung gemäss Ziff. II des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2016 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
-[^14-3]: Fassung gemäss Art. 5 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
+[^14-3]: Fassung gemäss Art. 3 der V des EFD vom 10. Sept. 2025 über die kalte Progression, in Kraft seit 1. Jan. 2026 ([AS 2025 579](https://fedlex.data.admin.ch/eli/oc/2025/579)).
 [^14-4]: Fassung gemäss Ziff. II des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2016 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
 [^14-5]: Ausdruck gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^14-6]: Fassung gemäss Ziff. II des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2016 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
@@ -263,7 +263,7 @@ Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Auslan
 
 <sup>2</sup> Bei teilweiser Steuerpflicht gilt Artikel 7 Absatz 1.
 
-[^15-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^15-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^15-2]: Fassung gemäss Anhang Ziff. II 7 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 
 ### Zweiter Titel: Einkommenssteuer
@@ -441,7 +441,7 @@ Absatz 4 ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 [^20-1]: Eingefügt durch Ziff. I 1 des BG vom 23. Juni 2006 über dringende Anpassungen bei der Unternehmensbesteuerung, in Kraft seit 1. Jan. 2007 ([AS 2006 4883](https://fedlex.data.admin.ch/eli/oc/2006/760); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^20-2]: Fassung gemäss Ziff. I 5 des BG vom 19. März 1999 über das Stabilisierungsprogramm 1998, in Kraft seit 1. Jan. 2001 ([AS 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363); BBl **1999** 4).
 [^20-3]: Fassung gemäss Ziff. II 2 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
-[^20-4]: [SR 642.21](https://fedlex.data.admin.ch/eli/cc/1966/371_385_384)
+[^20-4]: [SR 642.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8211)
 [^20-5]: Fassung gemäss Anhang Ziff. II 6 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 [^20-6]: Eingefügt durch Ziff. II 2 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Fassung gemäss Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-7]: Eingefügt durch Ziff. II 2 des Unternehmenssteuerreformgesetzes II vom 23. März 2007 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)). Fassung gemäss Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
@@ -449,7 +449,7 @@ Absatz 4 ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
 [^20-9]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-10]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^20-11]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^20-12]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^20-12]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^20-13]: Eingefügt durch Anhang Ziff. 7 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109), [112](https://fedlex.data.admin.ch/eli/oc/2022/112); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 20a
@@ -491,9 +491,9 @@ Steuerbar sind die Erträge aus unbeweglichem Vermögen, insbesondere:
 
 <sup>2</sup> Als Einkünfte aus der beruflichen Vorsorge gelten insbesondere Leistungen aus Vorsorgekassen, aus Spar- und Gruppenversicherungen sowie aus Freizügigkeitspolicen.
 
-<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20250101/de/xml/image/image1.png)
+<sup>3</sup> ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de/xml/image/image1.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20250101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184/20260101/de/xml/image/image2.png)
 
 Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im Umfang ihres Ertragsanteils steuerbar. Dieser bestimmt sich wie folgt:
 
@@ -516,8 +516,8 @@ Leibrentenversicherungen sowie Leibrenten- und Verpfründungsverträge sind im U
 
 <sup>4</sup> Artikel 24 Buchstabe b bleibt vorbehalten.
 
-[^22-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^22-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^22-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
+[^22-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 [^22-3]: Fassung gemäss Ziff. I 1 des BG vom 17. Juni 2022 über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen, in Kraft seit 1. Jan. 2025 ([AS 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [BBl 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
 
 ### 7. Abschnitt: Übrige Einkünfte
@@ -547,24 +547,24 @@ Steuerfrei sind:
 - d. die Unterstützungen aus öffentlichen oder privaten Mitteln;
 - e. die Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die Unterhaltsbeiträge nach Artikel 23 Buchstabe f;
 - f.[^24-1] der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
-- f<sup>bis</sup>.[^24-2] der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 5300 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+- f<sup>bis</sup>.[^24-2] der Sold der Milizfeuerwehrleute bis zum Betrag von jährlich 5400 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr (Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeinen Schadenwehr, Elementarschadenbewältigung und dergleichen); ausgenommen sind Pauschalzulagen für Kader, Funktionszulagen sowie Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - g. die Zahlung von Genugtuungssummen;
 - h. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - i.[^24-3] die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017[^24-4] (BGS) zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- i<sup>bis</sup>.[^24-5] die einzelnen Gewinne bis zum Betrag von 1 070 400 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- i<sup>bis</sup>.[^24-5] die einzelnen Gewinne bis zum Betrag von 1 071 000 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - i<sup>ter</sup>.[^24-6] die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
 - j.[^24-7] die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird;
 - k.[^24-8] Einkünfte aufgrund des Bundesgesetzes vom 19. Juni 2020[^24-9] über Überbrückungsleistungen für ältere Arbeitslose.
 
 [^24-1]: Fassung gemäss Anhang Ziff. 7 des Zivildienstgesetzes vom 6. Okt. 1995, in Kraft seit 1. Okt. 1996 ([AS 1996 1445](https://fedlex.data.admin.ch/eli/oc/1996/1445_1445_1445); [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^24-2]: Eingefügt durch Ziff. I 1 des BG über die Steuerbefreiung des Feuerwehrsoldes vom 17. Juni 2011 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)). Fassung gemäss Art. 6 Abs. 1 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)).
+[^24-2]: Eingefügt durch Ziff. I 1 des BG über die Steuerbefreiung des Feuerwehrsoldes vom 17. Juni 2011 ([AS 2012 489](https://fedlex.data.admin.ch/eli/oc/2012/71); [BBl 2010 2855](https://fedlex.data.admin.ch/eli/fga/2010/508)). Fassung gemäss Art. 4 der V des EFD vom 10. Sept. 2025 über die kalte Progression, in Kraft seit 1. Jan. 2026 ([AS 2025 579](https://fedlex.data.admin.ch/eli/oc/2025/579)).
 [^24-3]: Eingefügt durch Anhang Ziff. 2 des Spielbankengesetzes vom 18. Dez. 1998 ([AS 2000 677](https://fedlex.data.admin.ch/eli/oc/2000/118); [BBl 1997 III 145](https://fedlex.data.admin.ch/eli/fga/1997/3_145_137_129)). Fassung gemäss Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
-[^24-4]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^24-5]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Fassung gemäss Art. 6 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
+[^24-4]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^24-5]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)). Fassung gemäss Art. 4 der V des EFD vom 10. Sept. 2025 über die kalte Progression, in Kraft seit 1. Jan. 2026 ([AS 2025 579](https://fedlex.data.admin.ch/eli/oc/2025/579)).
 [^24-6]: Eingefügt durch Anhang Ziff. II 5 des Geldspielgesetzes vom 29. Sept. 2017, in Kraft seit 1. Jan. 2019 ([AS 2018 5103](https://fedlex.data.admin.ch/eli/oc/2018/795); [BBl 2015 8387](https://fedlex.data.admin.ch/eli/fga/2015/2039)).
 [^24-7]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 über Vereinfachungen bei der Besteuerung von Lotteriegewinnen ([AS 2012 5977](https://fedlex.data.admin.ch/eli/oc/2012/700); [BBl 2011 6517](https://fedlex.data.admin.ch/eli/fga/2011/1012)[6543](https://fedlex.data.admin.ch/eli/fga/2011/1014)). Fassung gemäss Art. 6 Abs. 3 der V des EFD vom 1. Sept. 2023 über die kalte Progression, in Kraft seit 1. Jan. 2024 ([AS 2023 493](https://fedlex.data.admin.ch/eli/oc/2023/493)). Die Berichtigung der RedK der BVers vom 14. Mai 2024, publiziert am 16. Mai 2024 betrifft nur den französischen Text ([AS 2024 215](https://fedlex.data.admin.ch/eli/oc/2024/215)).
 [^24-8]: Eingefügt durch Anhang Ziff. 2 des BG vom 19. Juni 2020 über Überbrückungsleistungen für ältere Arbeitslose, in Kraft seit 1. Juli 2021 ([AS 2021 373](https://fedlex.data.admin.ch/eli/oc/2021/373); [BBl 2019 8251](https://fedlex.data.admin.ch/eli/fga/2019/2838)).
-[^24-9]: [SR 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373)
+[^24-9]: [SR 837.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10324)
 
 ### 3. Kapitel: Ermittlung des Reineinkommens
 
@@ -649,7 +649,7 @@ Sind Sanktionen nach Absatz 3 Buchstaben c und d von einer ausländischen Straf-
 
 <sup>3</sup> Abschreibungen auf Aktiven, die zum Ausgleich von Verlusten aufgewertet wurden, können nur vorgenommen werden, wenn die Aufwertungen handelsrechtlich zulässig waren und die Verluste im Zeitpunkt der Abschreibung nach Artikel 31 Absatz 1 verrechenbar gewesen wären.
 
-[^28-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^28-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^28-2]: Fassung gemäss Anhang Ziff. 7 des BG vom 19. Juni 2020 (Aktienrecht), in Kraft seit 1. Jan. 2023 ([AS 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 29
@@ -770,10 +770,10 @@ Die Abzüge nach Absatz 1 Buchstabe g erhöhen sich:
 [^33-7]: Fassung gemäss Art. 3 Abs. 1 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
 [^33-8]: Fassung gemäss Anhang Ziff. 2 des Behindertengleichstellungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2005 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
 [^33-9]: Eingefügt durch Anhang Ziff. 2 des Behindertengleichstellungsgesetzes vom 13. Dez. 2002, in Kraft seit 1. Jan. 2005 ([AS 2003 4487](https://fedlex.data.admin.ch/eli/oc/2003/667); [BBl 2001 1715](https://fedlex.data.admin.ch/eli/fga/2001/434)).
-[^33-10]: [SR 151.3](https://fedlex.data.admin.ch/eli/cc/2003/667)
+[^33-10]: [SR 151.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4926)
 [^33-11]: Fassung gemäss Art. 6 Abs. 3 der V des EFD vom 22. Sept. 2011 über die kalte Progression, in Kraft seit 1. Jan. 2012 ([AS 2011 4503](https://fedlex.data.admin.ch/eli/oc/2011/626)).
 [^33-12]: Fassung gemäss Art. 3 Abs. 2 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
-[^33-13]: [SR 161.1](https://fedlex.data.admin.ch/eli/cc/1978/688_688_688)
+[^33-13]: [SR 161.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4940)
 [^33-14]: Eingefügt durch Ziff. I 1 des BG vom 27. Sept. 2013 über die steuerliche Behandlung der berufsorientierten Aus- und Weiterbildungskosten, in Kraft seit 1. Jan. 2016 ([AS 2014 1105](https://fedlex.data.admin.ch/eli/oc/2014/240); [BBl 2011 2607](https://fedlex.data.admin.ch/eli/fga/2011/381)).
 [^33-15]: Fassung gemäss Art. 3 Abs. 3 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
 [^33-16]: Eingefügt durch Ziff. I 1 des BG vom 22. März 2013 über die formelle Bereinigung der zeitlichen Bemessung der direkten Steuern bei den natürlichen Personen, in Kraft seit 1. Jan. 2014 ([AS 2013 2397](https://fedlex.data.admin.ch/eli/oc/2013/504); [BBl 2011 3593](https://fedlex.data.admin.ch/eli/fga/2011/525)).
@@ -843,18 +843,18 @@ Vom Einkommen werden abgezogen:
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>2.64</td><td></td><td>mehr;</td></tr>
 <tr><td>für</td><td>58 000 Franken Einkommen</td><td>612.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>2.97</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>76 100 Franken Einkommen</td><td>1 149.55</td><td></td><td></td></tr>
+<tr><td>für</td><td>76 200 Franken Einkommen</td><td>1 152.50</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>5.94</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>82 000 Franken Einkommen</td><td>1 500.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>82 100 Franken Einkommen</td><td>1 502.95</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>6.60</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>108 800 Franken Einkommen</td><td>3 268.80</td><td></td><td></td></tr>
+<tr><td>für</td><td>108 900 Franken Einkommen</td><td>3 271.75</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>8.80</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>141 500 Franken Einkommen</td><td>6 146.40</td><td></td><td></td></tr>
+<tr><td>für</td><td>141 500 Franken Einkommen</td><td>6 140.55</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>184 900 Franken Einkommen</td><td>10 920.40</td><td></td><td></td></tr>
+<tr><td>für</td><td>185 100 Franken Einkommen</td><td>10 936.55</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>13.20</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>793 300 Franken Einkommen</td><td>91 229.20</td><td></td><td></td></tr>
-<tr><td>für</td><td>793 400 Franken Einkommen</td><td>91 241.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>793 900 Franken Einkommen</td><td>91 298.15</td><td></td><td></td></tr>
+<tr><td>für</td><td>794 000 Franken Einkommen</td><td>91 310.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.50</td><td></td><td>mehr.[^36-1]</td></tr>
 </table>
 
@@ -872,24 +872,24 @@ Vom Einkommen werden abgezogen:
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>4.00</td><td></td><td>mehr;</td></tr>
 <tr><td>für</td><td>94 900 Franken Einkommen</td><td>1 561.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>5.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>108 600 Franken Einkommen</td><td>2 246.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>108 700 Franken Einkommen</td><td>2 251.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>6.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>120 500 Franken Einkommen</td><td>2 960.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>120 600 Franken Einkommen</td><td>2 965.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>7.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>130 500 Franken Einkommen</td><td>3 660.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>130 500 Franken Einkommen</td><td>3 658.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>8.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>138 300 Franken Einkommen</td><td>4 284.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>138 400 Franken Einkommen</td><td>4 290.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>9.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>144 200 Franken Einkommen</td><td>4 815.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>144 300 Franken Einkommen</td><td>4 821.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>10.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>148 200 Franken Einkommen</td><td>5 215.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>148 300 Franken Einkommen</td><td>5 221.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>150 300 Franken Einkommen</td><td>5 446.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>150 400 Franken Einkommen</td><td>5 452.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>12.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>152 300 Franken Einkommen</td><td>5 686.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>152 400 Franken Einkommen</td><td>5 692.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>13.00</td><td></td><td>mehr;</td></tr>
-<tr><td>für</td><td>940 800 Franken Einkommen</td><td>108 191.00</td><td></td><td></td></tr>
-<tr><td>für</td><td>940 900 Franken Einkommen</td><td>108 203.50</td><td></td><td></td></tr>
+<tr><td>für</td><td>941 300 Franken Einkommen</td><td>108 249.00</td><td></td><td></td></tr>
+<tr><td>für</td><td>941 400 Franken Einkommen</td><td>108 261.00</td><td></td><td></td></tr>
 <tr><td></td><td>und für je weitere 100 Franken Einkommen</td><td>11.50</td><td></td><td>mehr.[^36-2]</td></tr>
 </table>
 
@@ -897,8 +897,8 @@ Vom Einkommen werden abgezogen:
 
 <sup>3</sup> Steuerbeträge unter 25 Franken werden nicht erhoben.
 
-[^36-1]: Fassung gemäss Art. 2 Abs. 1 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
-[^36-2]: Fassung gemäss Art. 2 Abs. 2 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
+[^36-1]: Fassung gemäss Art. 2 Abs. 1 der V des EFD vom 10. Sept. 2025 über die kalte Progression, in Kraft seit 1. Jan. 2026 ([AS 2025 579](https://fedlex.data.admin.ch/eli/oc/2025/579), [621](https://fedlex.data.admin.ch/eli/oc/2025/621)).
+[^36-2]: Fassung gemäss Art. 2 Abs. 2 der V des EFD vom 10. Sept. 2025 über die kalte Progression, in Kraft seit 1. Jan. 2026 ([AS 2025 579](https://fedlex.data.admin.ch/eli/oc/2025/579)).
 [^36-3]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2009 über die steuerliche Entlastung von Familien mit Kindern ([AS 2010 455](https://fedlex.data.admin.ch/eli/oc/2010/60); [BBl 2009 4729](https://fedlex.data.admin.ch/eli/fga/2009/815)). Fassung gemäss Art. 2 Abs. 3 der V des EFD vom 22. Aug. 2024 über die kalte Progression, in Kraft seit 1. Jan. 2025 ([AS 2024 479](https://fedlex.data.admin.ch/eli/oc/2024/479)).
 
 ### 2. Abschnitt: Sonderfälle
@@ -926,7 +926,7 @@ Gehören zu den Einkünften Kapitalabfindungen für wiederkehrende Leistungen, s
 <sup>6</sup> Der Bundesrat regelt die Einzelheiten; dabei berücksichtigt er die Artikel 88 und 196 Absatz 3.[^37a-3]
 
 [^37a-1]: Eingefügt durch Anhang Ziff. 4 des BG vom 17. Juni 2005 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [BBl 2002 3605](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^37a-2]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^37a-2]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^37a-3]: Fassung gemäss Ziff. I 1 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
 #### Art. 37b
@@ -1027,7 +1027,7 @@ Als juristische Personen werden besteuert:
 
 <sup>3</sup> Ausländische juristische Personen sowie nach Artikel 11 steuerpflichtige, ausländische Handelsgesellschaften und andere ausländische Personengesamtheiten ohne juristische Persönlichkeit werden den inländischen juristischen Personen gleichgestellt, denen sie rechtlich oder tatsächlich am ähnlichsten sind.
 
-[^49-1]: [SR 951.31](https://fedlex.data.admin.ch/eli/cc/2006/822)
+[^49-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
 [^49-2]: Fassung gemäss Anhang Ziff. 2 des BG vom 17. Dez. 2021, in Kraft seit 1. März 2024 ([AS 2024 53](https://fedlex.data.admin.ch/eli/oc/2024/53); [BBl 2020 6885](https://fedlex.data.admin.ch/eli/fga/2020/1852)).
 [^49-3]: Fassung gemäss Anhang Ziff. II 6 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
@@ -1127,7 +1127,7 @@ Von der Steuerpflicht sind befreit:
 [^56-2]: Fassung gemäss Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^56-3]: Fassung gemäss Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^56-4]: Fassung gemäss Anhang Ziff. II 7 des Gaststaatgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [BBl 2006 8017](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^56-5]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^56-5]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^56-6]: Eingefügt durch Anhang Ziff. II 6 des Kollektivanlagengesetzes vom 23. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5379](https://fedlex.data.admin.ch/eli/oc/2006/822); [BBl 2005 6395](https://fedlex.data.admin.ch/eli/fga/2005/1000)).
 
 ### Zweiter Titel: Gewinnsteuer
@@ -1276,7 +1276,7 @@ Stille Reserven einer juristischen Person werden bei Umstrukturierungen, insbeso
 
 <sup>4</sup> Wertberichtigungen und Abschreibungen auf den Gestehungskosten von Beteiligungen, welche die Voraussetzungen nach Artikel 70 Absatz 4 Buchstabe b erfüllen, werden dem steuerbaren Gewinn zugerechnet, soweit sie nicht mehr begründet sind.[^62-3]
 
-[^62-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^62-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^62-2]: Fassung gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^62-3]: Eingefügt durch Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Fassung gemäss Ziff. II 2 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2011 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 
@@ -1407,7 +1407,7 @@ Kapitalgewinne werden bei der Berechnung der Ermässigung nur berücksichtigt:
 [^70-5]: Fassung gemäss Ziff. II 2 des Unternehmenssteuerreformgesetzes II vom 23. März 2007, in Kraft seit 1. Jan. 2011 ([AS 2008 2893](https://fedlex.data.admin.ch/eli/oc/2008/397); [BBl 2005 4733](https://fedlex.data.admin.ch/eli/fga/2005/737)).
 [^70-6]: Eingefügt durch Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
 [^70-7]: Eingefügt durch Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)).
-[^70-8]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
+[^70-8]: [SR 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^70-9]: Eingefügt durch Ziff. I 1 des BG vom 14. Dez. 2018 über die Berechnung des Beteiligungsabzugs bei systemrelevanten Banken ([AS 2019 1207](https://fedlex.data.admin.ch/eli/oc/2019/225); [BBl 2018 1263](https://fedlex.data.admin.ch/eli/fga/2018/511)). Fassung gemäss Anhang Ziff. 5 des BG vom 17. Dez. 2021 (Insolvenz und Einlagensicherung), in Kraft seit 1. Jan. 2023 ([AS 2022 732](https://fedlex.data.admin.ch/eli/oc/2022/732); [BBl 2020 6359](https://fedlex.data.admin.ch/eli/fga/2020/1555)).
 
 ### 3. Abschnitt: Vereine, Stiftungen und übrige juristische Personen
@@ -1506,7 +1506,7 @@ Steuerbar sind:
 
 <sup>3</sup> Naturalleistungen und Trinkgelder werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
 
-[^84-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^84-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^84-2]: Fassung gemäss Ziff. I 1 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
 
 #### Art. 85
@@ -1524,7 +1524,7 @@ Steuerbar sind:
 <sup>5</sup> Sie bestimmt im Einvernehmen mit der kantonalen Behörde die Ansätze, die als direkte Bundessteuer in den kantonalen Tarif einzurechnen sind.
 
 [^85-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Dez. 2016 über die Revision der Quellenbesteuerung des Erwerbseinkommens, in Kraft seit 1. Jan. 2021 ([AS 2018 1813](https://fedlex.data.admin.ch/eli/oc/2018/272); [BBl 2015 657](https://fedlex.data.admin.ch/eli/fga/2015/56)).
-[^85-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^85-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 86 und 87
 
@@ -1859,7 +1859,7 @@ Die ESTV kann insbesondere:
 <sup>2</sup> Wird die Prüfung nicht vorgenommen oder erhalten die ESTV und die Eidgenössische Finanzkontrolle nicht rechtzeitig Bericht, so kann das EFD auf Antrag der ESTV und auf Kosten des Kantons ein nach den Vorschriften des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^104b-2] als Revisionsexperte zugelassenes Revisionsunternehmen mit der Prüfung beauftragen.
 
 [^104b-1]: Ursprünglich: Art. 104*a*. Eingefügt durch Ziff. I des BG vom 14. Dez. 2012, in Kraft seit 1. Jan. 2014 ([AS 2013 1345](https://fedlex.data.admin.ch/eli/oc/2013/315); [BBl 2012 4769](https://fedlex.data.admin.ch/eli/fga/2012/672)).
-[^104b-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^104b-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
 
 ### 2. Abschnitt: Örtliche Zuständigkeit
 
@@ -2019,7 +2019,7 @@ Es sind alle diejenigen Daten von Steuerpflichtigen weiterzugeben, die zur Veran
 
 [^112a-1]: Eingefügt durch Ziff. VI 3 des BG vom 24. März 2000 über die Schaffung und die Anpassung gesetzlicher Grundlagen für die Bearbeitung von Personendaten, in Kraft seit 1. Sept. 2000 ([AS 2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293); [BBl 1999 9005](https://fedlex.data.admin.ch/eli/fga/1999/1_9005_8381_7979)).
 [^112a-2]: Eingefügt durch Anhang Ziff. 5 des BG vom 23. Juni 2006 (Neue AHV-Versicherten-nummer) ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)). Aufgehoben durch Anhang Ziff. 18 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), mit Wirkung seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^112a-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^112a-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^112a-4]: Fassung zweiter Satz gemäss Anhang Ziff. 57 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ### 2. Kapitel: Verfahrensrechtliche Stellung der Ehegatten
@@ -2189,7 +2189,7 @@ Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juri
 
 <sup>3</sup> Zudem haben Kapitalgesellschaften und Genossenschaften das ihrer Veranlagung zur Gewinnsteuer dienende Eigenkapital am Ende der Steuerperiode oder der Steuerpflicht auszuweisen. Dieses besteht aus dem einbezahlten Grund- oder Stammkapital, den in der Handelsbilanz ausgewiesenen Reserven aus Kapitaleinlagen nach Artikel 20 Absätze 3–7, den offenen und den aus versteuertem Gewinn gebildeten stillen Reserven sowie aus jenem Teil des Fremdkapitals, dem wirtschaftlich die Bedeutung von Eigenkapital zukommt.[^125-3]
 
-[^125-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^125-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^125-2]: Fassung gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^125-3]: Eingefügt durch Ziff. I 1 des BG vom 10. Okt. 1997 über die Reform der Unternehmensbesteuerung 1997 ([AS 1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669); [BBl 1997 II 1164](https://fedlex.data.admin.ch/eli/fga/1997/2_1164_1058_963)). Fassung gemäss Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
@@ -2203,7 +2203,7 @@ Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juri
 
 <sup>3</sup> Natürliche Personen mit Einkommen aus selbständiger Erwerbstätigkeit und juristische Personen müssen Geschäftsbücher und Aufstellungen nach Artikel 125 Absatz 2 und sonstige Belege, die mit ihrer Tätigkeit in Zusammenhang stehen, während zehn Jahren aufbewahren. Die Art und Weise der Führung und der Aufbewahrung richtet sich nach den Artikeln 957*–*958*f* OR[^126-1].[^126-2] [^126-3]
 
-[^126-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^126-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^126-2]: Fassung des zweiten Satzes gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
 [^126-3]: Fassung gemäss Ziff. II 1 des BG vom 22. Dez. 1999 (Die kaufmännische Buchführung), in Kraft seit 1. Juni 2002 ([AS 2002 949](https://fedlex.data.admin.ch/eli/oc/2002/170); [BBl 1999 5149](https://fedlex.data.admin.ch/eli/fga/1999/1_5149_4753_4457)).
 
@@ -2234,7 +2234,7 @@ Gegenüber dem Steuerpflichtigen sind zur Ausstellung schriftlicher Bescheinigun
 <sup>3</sup> Bei einem unterjährigen Austritt muss der bisherige Arbeitgeber dem Arbeitnehmer nach Artikel 91 Absätze 1 und 2 im Zeitpunkt der Beendigung des Arbeitsverhältnisses auf dessen Verlangen eine Bescheinigung mit den relevanten Angaben über die unselbstständige Erwerbstätigkeit ausstellen, die für die Umsetzung des jeweiligen internationalen Abkommens im Steuerbereich erforderlich sind. Das EFD regelt die Einzelheiten.[^127-3]
 
 [^127-1]: Fassung gemäss Ziff. I 1 des BG vom 17. Juni 2022 über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen, in Kraft seit 1. Jan. 2025 ([AS 2023 38](https://fedlex.data.admin.ch/eli/oc/2023/38); [BBl 2021 3028](https://fedlex.data.admin.ch/eli/fga/2021/3028)).
-[^127-2]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^127-2]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 [^127-3]: Eingefügt durch Ziff. I 1 des BG vom 14. Juni 2024 über die Besteuerung der Telearbeit im internationalen Verhältnis, in Kraft seit 1. Jan. 2025 ([AS 2024 573](https://fedlex.data.admin.ch/eli/oc/2024/573); [BBl 2024 650](https://fedlex.data.admin.ch/eli/fga/2024/650)).
 
 ### 4. Abschnitt: Auskunftspflicht Dritter
@@ -2451,7 +2451,7 @@ Die Beschwerdefrist beträgt:
 
 <sup>5</sup> Die Höhe der Kosten des Verfahrens vor der kantonalen Steuerrekurskommission wird durch das kantonale Recht bestimmt.
 
-[^144-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^144-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 2. Kapitel: Vor einer weiteren kantonalen Beschwerdeinstanz
 
@@ -2470,7 +2470,7 @@ Die Beschwerdefrist beträgt:
 Gegen Entscheide letzter kantonaler Instanzen kann nach Massgabe des Bundesgerichtsgesetzes vom 17. Juni 2005[^146-2] beim Bundesgericht Beschwerde geführt werden. Zur Beschwerde in öffentlich-rechtlichen Angelegenheiten ist auch die kantonale Verwaltung für die direkte Bundessteuer berechtigt.
 
 [^146-1]: Fassung gemäss Ziff. I 1 des BG vom 26. Sept. 2014 (Anpassungen an die Allgemeinen Bestimmungen des StGB), in Kraft seit 1. Jan. 2017 ([AS 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [BBl 2012 2869](https://fedlex.data.admin.ch/eli/fga/2012/403)).
-[^146-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^146-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### Sechster Titel: Änderung rechtskräftiger Verfügungen und Entscheide
 
@@ -2492,7 +2492,7 @@ Eine rechtskräftige Verfügung oder ein rechtskräftiger Entscheid kann auf Ant
 
 <sup>3</sup> Die Revision bundesgerichtlicher Urteile richtet sich nach dem Bundesgerichtsgesetz vom 17. Juni 2005[^147-1].[^147-2]
 
-[^147-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^147-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^147-2]: Fassung gemäss Anhang Ziff. 57 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 148
@@ -2755,7 +2755,7 @@ In jedem Falle wird die Steuer fällig:
 <sup>5</sup> In Quellensteuerfällen kann nur die steuerpflichtige Person selbst oder die von ihr bestimmte vertragliche Vertretung ein Erlassgesuch einreichen.
 
 [^167-1]: Fassung gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^167-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^167-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 167a
 
@@ -2832,7 +2832,7 @@ Das EFD umschreibt in einer Verordnung insbesondere die Voraussetzungen für den
 <sup>5</sup> Die gesuchstellende Person, die Erlassbehörde und die ESTV können den Entscheid der letzten kantonalen Instanz nach Massgabe des Bundesgerichtsgesetzes vom 17. Juni 2005[^167g-2] mit Beschwerde in öffentlich-rechtlichen Angelegenheiten beim Bundesgericht anfechten.
 
 [^167g-1]: Eingefügt durch Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^167g-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^167g-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 ### 5. Kapitel: Rückforderung bezahlter Steuern
 
@@ -2870,7 +2870,7 @@ Das EFD umschreibt in einer Verordnung insbesondere die Voraussetzungen für den
 <sup>2</sup> Die Einsprache gegen den Arrestbefehl nach Artikel 278 SchKG ist nicht zulässig.
 
 [^170-1]: Fassung gemäss Ziff. I 2 des Steuererlassgesetzes vom 20. Juni 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 9](https://fedlex.data.admin.ch/eli/oc/2015/3); [BBl 2013 8435](https://fedlex.data.admin.ch/eli/fga/2013/1658)).
-[^170-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^170-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 171
 
@@ -3044,7 +3044,7 @@ Die straflose Selbstanzeige kann auch eingereicht werden:
 <sup>6</sup> Nach Beendigung der Steuerpflicht einer juristischen Person in der Schweiz kann keine Selbstanzeige mehr eingereicht werden.
 
 [^181a-1]: Eingefügt durch Ziff. I 1 des BG vom 20. März 2008 über die Vereinfachung der Nachbesteuerung in Erbfällen und die Einführung der straflosen Selbstanzeige, in Kraft seit 1. Jan. 2010 ([AS 2008 4453](https://fedlex.data.admin.ch/eli/oc/2008/618); [BBl 2006 8795](https://fedlex.data.admin.ch/eli/fga/2006/1131)).
-[^181a-2]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^181a-2]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 ### 4. Kapitel: Verfahren
 
@@ -3061,7 +3061,7 @@ Die straflose Selbstanzeige kann auch eingereicht werden:
 <sup>4</sup> Der Kanton bezeichnet die Amtsstellen, denen die Verfolgung von Steuerhinterziehungen und von Verletzungen von Verfahrenspflichten obliegt.
 
 [^182-1]: Fassung gemäss Ziff. I 1 des BG vom 26. Sept. 2014 (Anpassungen an die Allgemeinen Bestimmungen des StGB), in Kraft seit 1. Jan. 2017 ([AS 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [BBl 2012 2869](https://fedlex.data.admin.ch/eli/fga/2012/403)).
-[^182-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^182-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^182-3]: Fassung gemäss Art. 51 des Verwaltungsgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. März 2008 ([AS 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 183
@@ -3158,9 +3158,9 @@ Die Strafverfolgung verjährt:
 
 <sup>4</sup> Die ESTV kann die Strafverfolgung verlangen.[^188-5]
 
-[^188-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^188-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 [^188-2]: Fassung gemäss Anhang 1 Ziff. II 19 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-[^188-3]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^188-3]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^188-4]: Fassung gemäss Anhang Ziff. 12 des Bundesgerichtsgesetzes vom 17. Juni 2005, in Kraft seit 1. Jan. 2007 ([AS 2006 1205](https://fedlex.data.admin.ch/eli/oc/2006/218)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [BBl 2001 4202](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^188-5]: Fassung gemäss Anhang 1 Ziff. II 19 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
@@ -3192,7 +3192,7 @@ Die Strafverfolgung verjährt:
 
 <sup>2</sup> Für die Auskunftspflicht gilt Artikel 126 Absatz 2 sinngemäss.
 
-[^191-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^191-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 192
 
@@ -3204,9 +3204,9 @@ Die Strafverfolgung verjährt:
 
 <sup>3</sup> Die nach den Artikeln 41 und 42 des Verwaltungsstrafrechtsgesetzes als Zeugen einvernommenen Personen können zur Herausgabe der in ihrem Besitz befindlichen sachdienlichen Unterlagen und sonstigen Gegenstände aufgefordert werden. Verweigert ein Zeuge die Herausgabe, ohne dass einer der in den Artikeln 168, 169, 171 und 172 StPO[^192-2] genannten Gründe zur Zeugnisverweigerung vorliegt, so ist er auf die Strafandrohung von Artikel 292 des Strafgesetzbuches[^192-3] hinzuweisen und kann gegebenenfalls wegen Ungehorsams gegen eine amtliche Verfügung dem Strafrichter überwiesen werden.[^192-4]
 
-[^192-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^192-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^192-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^192-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^192-2]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
+[^192-3]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^192-4]: Fassung zweiter Satz gemäss Anhang 1 Ziff. II 19 der Strafprozessordnung vom 5. Okt. 2007, in Kraft seit 1. Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 193
@@ -3249,7 +3249,7 @@ Die Strafverfolgung verjährt:
 
 <sup>5</sup> Für Beschwerdeentscheide nach Artikel 27 des Verwaltungsstrafrechtsgesetzes wird eine Spruchgebühr von 10–500 Franken erhoben.
 
-[^195-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^195-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Siebenter Teil: Abrechnung zwischen Bund und Kantonen
 
@@ -3268,7 +3268,7 @@ Die Strafverfolgung verjährt:
 [^196-1]: Fassung gemäss Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^196-2]: [AS 1991 1256](https://fedlex.data.admin.ch/eli/oc/1991/1256_1256_1256), [1998 669](https://fedlex.data.admin.ch/eli/oc/1998/669_669_669)
 [^196-3]: [AS 1991 1256](https://fedlex.data.admin.ch/eli/oc/1991/1256_1256_1256), [1995 1449](https://fedlex.data.admin.ch/eli/oc/1995/1449_1449_1449)
-[^196-4]: [SR 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^196-4]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^196-5]: Eingefügt durch Ziff. I 2 des BG vom 28. Sept. 2018 über die Steuerreform und die AHV-Finanzierung, in Kraft seit 1. Jan. 2020 ([AS 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [BBl 2018 2527](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 #### Art. 197
@@ -3318,7 +3318,7 @@ Der Bundesratsbeschluss vom 9. Dezember 1940[^201-1] über die Erhebung einer di
 
 Artikel 47 Absatz 2 des Bundesgesetzes vom 20. September 1949[^202-1] über die Militärversicherung (MVG) ist nicht anwendbar hinsichtlich der Renten und Kapitalleistungen, die nach Inkrafttreten dieses Gesetzes zu laufen beginnen oder fällig werden.
 
-[^202-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5,[2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 9; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 414. [AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)Anhang Ziff. 1]. Siehe heute Art. 116 des BG vom 19. Juni 1992 ([SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)).
+[^202-1]: [[AS 1949 1671](https://fedlex.data.admin.ch/eli/oc/1949/1671_1775_1705); [1956 759](https://fedlex.data.admin.ch/eli/oc/1956/759_815_825); [1959 303](https://fedlex.data.admin.ch/eli/oc/1959/303_316_293); [1964 253](https://fedlex.data.admin.ch/eli/oc/1964/253_245_245); [1968 563](https://fedlex.data.admin.ch/eli/oc/1968/563_588_580); [1972 897](https://fedlex.data.admin.ch/eli/oc/1972/897_909_1069)Art. 15 Ziff. 1; [1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)Anhang Ziff. 5,[2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184)Art. 116; [1990 1882](https://fedlex.data.admin.ch/eli/oc/1990/1882_1882_1882)Anhang Ziff. 9; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)Ziff. II 414. [AS 1993 3043](https://fedlex.data.admin.ch/eli/oc/1993/3043_3043_3043)Anhang Ziff. 1]. Siehe heute Art. 116 des BG vom 19. Juni 1992 ([SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)).
 
 #### Art. 203
 
@@ -3410,7 +3410,7 @@ Für natürliche Personen, die im Zeitpunkt des Inkrafttretens der Änderung vom
 Für die Beurteilung von Straftaten, die in Steuerperioden vor Inkrafttreten der Änderung vom 26. September 2014 begangen wurden, ist das neue Recht anwendbar, sofern dieses milder ist als das in jenen Steuerperioden geltende Recht.
 
 [^205f-1]: Eingefügt durch Ziff. I 1 des BG vom 26. Sept. 2014 (Anpassungen an die Allgemeinen Bestimmungen des StGB), in Kraft seit 1. Jan. 2017 ([AS 2015 779](https://fedlex.data.admin.ch/eli/oc/2015/143); [BBl 2012 2869](https://fedlex.data.admin.ch/eli/fga/2012/403)).
-[^205f-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^205f-2]: Berichtigt von der Redaktionskommission der BVers (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 ### 2. Kapitel: Juristische Personen
 
