@@ -4,13 +4,12 @@ number: "640.011"
 title: Standeskommissionsbeschluss zum Steuergesetz und zur Steuerverordnung
 short: StKB Steuern
 language: de
-version: 2024-06-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-26
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2000-12-05
 in_force: 2001-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/640.011"
-pdf: "https://ai.clex.ch/api/de/versions/2363/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2415/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2363/pdf_file"
 
 (StKB Steuern)
 
-vom 05.12.2000 (Stand 01.06.2024)
+vom 05.12.2000 (Stand 01.01.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -67,9 +66,9 @@ beschliesst:
 
 <table>
 <tr><th>Fahrleistung</th><th>Abzug pro km</th><th>min. Abzug</th><th>max. Abzug</th></tr>
-<tr><td>bis 7'500 km</td><td>Fr. 0.70</td><td></td><td>Fr. 5‘250</td></tr>
-<tr><td>bis 12'500 km</td><td>Fr. 0.62</td><td>Fr. 5‘250</td><td>Fr. 7‘750</td></tr>
-<tr><td>bis 17'500 km</td><td>Fr. 0.56</td><td>Fr. 7‘750</td><td>Fr. 9‘800</td></tr>
+<tr><td>bis 7'500 km</td><td>Fr. 0.75</td><td></td><td>Fr. 5'625</td></tr>
+<tr><td>bis 12'500 km</td><td>Fr. 0.65</td><td>Fr. 5‘625</td><td>Fr. 8'125</td></tr>
+<tr><td>bis 17'500 km</td><td>Fr. 0.56</td><td>Fr. 8'125</td><td>Fr. 9‘800</td></tr>
 <tr><td>bis 22'500 km</td><td>Fr. 0.50</td><td>Fr. 9‘800</td><td>Fr. 11‘250</td></tr>
 <tr><td>bis 27'500 km</td><td>Fr. 0.45</td><td>Fr. 11‘250</td><td>Fr. 12‘375</td></tr>
 <tr><td>bis 32'500 km</td><td>Fr. 0.41</td><td>Fr. 12‘375</td><td>Fr. 13‘325</td></tr>
