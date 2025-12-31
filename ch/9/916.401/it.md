@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2025-02-01
+version: 2026-01-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20250201/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20250201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20250201/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° febbraio 2025)
+del 27 giugno 1995 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 9*a* capoverso 2, 10, 16, 19, 20, 31*a*, 32 capoverso 1<sup>b
 
 ordina:
 
-[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ## Titolo primo: Oggetto, epizoozie e scopo della lotta
@@ -195,7 +195,7 @@ Sono considerate epizoozie da sorvegliare le seguenti malattie:
 [^5-8]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^5-9]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^5-10]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-[^5-11]: Introdotta dalla cifra I dell’O del 15 nov. 2006 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Nuovo testo giusta la cifra I dell’O del 25 mag. 2011 ([RU 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)). Abrogata dalla cifra I dell’O del 25 mar. 2015, con effetto dal 1° apr. 2015 ([RU 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
+[^5-11]: Introdotta dalla cifra I dell’O del 15 nov. 2006 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)). Nuovo testo giusta la cifra I dell’O del 25 mag. 2011 ([RU 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)). Abrogata dalla cifra I dell’O del £ 25 mar. 2015, con effetto dal 1° apr. 2015 ([RU 2015 1007](https://fedlex.data.admin.ch/eli/oc/2015/191)).
 [^5-12]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^5-13]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^5-14]: Introdotta dalla cifra I dell’O del 28 mar. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)). Nuovo testo giusta la cifra I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
@@ -264,13 +264,13 @@ Ai fini della presente ordinanza si applicano le definizioni seguenti:[^6-1]
 [^6-5]: Nuovo testo giusta la cifra I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^6-6]: Nuova espressione giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)). Di detta mod. è tenuto conto in tutto il testo.
 [^6-7]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^6-8]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-8]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^6-9]: Abrogata dall’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, con effetto dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
 [^6-10]: Introdotta dalla cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^6-11]: Introdotta dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^6-12]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
 [^6-13]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^6-14]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6-14]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^6-15]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^6-16]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^6-17]: Introdotta dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
@@ -328,11 +328,11 @@ I Cantoni registrano tutte le aziende detentrici di animali che tengono animali 
 <sup>4</sup> L’UFAG[^7-8], d’intesa con l’USAV[^7-9], emana prescrizioni tecniche inerenti ai capoversi 1–3.
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2007 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^7-2]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^7-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^7-3]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^7-4]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^7-5]: Introdotta dalla cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-[^7-6]: [RS 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^7-6]: [RS 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
 [^7-7]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^7-8]: Nuova espr. giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^7-9]: Nuova denominazione giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)). Di detta mod. è tenuto conto in tutto il presente testo.
@@ -424,7 +424,7 @@ L’identificazione può essere effettuata solo dalle persone seguenti:
 [^11a-1]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^11a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^11a-3]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
-[^11a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^11a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 
 #### Art. 11b
 
@@ -453,7 +453,13 @@ In caso di accresciuto pericolo di epizoozia, il veterinario cantonale può pres
 
 Il certificato d’accompagnamento deve contenere le seguenti indicazioni:
 
-- a. l’indirizzo dell’azienda detentrice di animali da cui l’animale proviene e il numero BDTA attribuito a quest’ultima da Identitas AG ai sensi dell’articolo 15 capoverso 1 dell’ordinanza del 3 novembre 2021[^12-2] concernente Identitas AG e la banca dati sul traffico di animali;
+- a.[^12-2]
+
+  l’indirizzo dell’azienda detentrice di animali da cui l’animale proviene e:
+
+  - 1\. il numero BDTA attribuito a quest’ultima da Identitas AG ai sensi dell’articolo 15 capoverso 1 dell’ordinanza del 3 novembre 2021[^12-3] concernente Identitas AG e la banca dati sul traffico di animali, o
+  - 2\. il numero di identificazione nel Registro delle imprese e degli stabilimenti (numero RIS);
+
 - b. la specie animale;
 - c. per gli animali della specie bovina: il numero di identificazione, l’età e il sesso;
 - d. per i camelidi del vecchio e nuovo mondo e per gli animali delle specie ovina e caprina: il numero di identificazione;
@@ -465,7 +471,8 @@ Il certificato d’accompagnamento deve contenere le seguenti indicazioni:
 <sup>2</sup> Se la conferma di cui al capoverso 1 lettera h non può essere data, il certificato d’accompagnamento può essere rilasciato soltanto con l’attestazione di un organo della polizia epizootica.
 
 [^12-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^12-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^12-2]: Nuovo testo giusta all. n. 6 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^12-3]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 12a
 
@@ -552,7 +559,7 @@ Egli annuncia al gestore della banca dati sul traffico di animali:[^14-3]
 
 [^15a-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^15a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
-[^15a-3]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^15a-3]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^15a-4]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 15b
@@ -583,7 +590,7 @@ Egli annuncia al gestore della banca dati sul traffico di animali:[^14-3]
 
 [^15c-1]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-2]: Abrogato dalla cifra I dell’O del 25 mag. 2011, con effetto dal 1° lug. 2011 ([RU 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
-[^15c-3]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^15c-3]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^15c-4]: Nuovo testo giusta l’all. 3 cifra II n. 9 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^15c-5]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-6]: Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
@@ -634,9 +641,9 @@ Il passaporto per equide deve inoltre contenere i seguenti allegati:
 [^15d-3]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^15d-4]: Introdotto dalla cifra I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-5]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^15d-6]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^15d-6]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^15d-7]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^15d-8]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^15d-8]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 [^15d-9]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^15d-10]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
@@ -652,7 +659,7 @@ Il passaporto per equide deve inoltre contenere i seguenti allegati:
 
 Possono essere riconosciuti:
 
-- a. le organizzazioni di allevamento di equidi riconosciute secondo l’articolo 5 dell’ordinanza del 31 ottobre 2012[^15dbis-3] sull’allevamento di animali;
+- a.[^15dbis-3] le organizzazioni di allevamento di equidi riconosciute ai sensi dell’articolo 3 dell’ordinanza del 29 ottobre 2025[^15dbis-4] sull’allevamento di animali;
 - b. il gestore della banca dati sul traffico di animali;
 - c. la Federazione svizzera sport equestri.
 
@@ -670,15 +677,16 @@ Su richiesta, l’UFAG riconosce un servizio se esso:
 
 <sup>5</sup> Il riconoscimento è limitato a dieci anni al massimo.
 
-<sup>6</sup> Prima di ordinare un passaporto di base a Identitas AG, il servizio preposto al rilascio del passaporto verifica i dati concernenti l’equide registrati nella banca dati sul traffico di animali (BDTA). Se ritiene che i dati nella BDTA non sono corretti e se è in possesso dell’autorizzazione del proprietario ai sensi dell’articolo 20 OIBDTA[^15dbis-4], il servizio preposto al rilascio del passaporto può modificare i dati di cui all’articolo 15*d* capoverso 1 lettera d numeri 1, 3, 4, 6 e 7 della presente ordinanza nonché l’indicazione sulla razza. Il proprietario è immediatamente informato della modifica da Identitas AG.[^15dbis-5]
+<sup>6</sup> Prima di ordinare un passaporto di base a Identitas AG, il servizio preposto al rilascio del passaporto verifica i dati concernenti l’equide registrati nella banca dati sul traffico di animali (BDTA). Se ritiene che i dati nella BDTA non sono corretti e se è in possesso dell’autorizzazione del proprietario ai sensi dell’articolo 20 OIBDTA[^15dbis-5], il servizio preposto al rilascio del passaporto può modificare i dati di cui all’articolo 15*d* capoverso 1 lettera d numeri 1, 3, 4, 6 e 7 della presente ordinanza nonché l’indicazione sulla razza. Il proprietario è immediatamente informato della modifica da Identitas AG.[^15dbis-6]
 
 <sup>7</sup> Dopo che il gestore della banca dati sul traffico di animali ha rilasciato il passaporto di base, il servizio preposto al rilascio del passaporto non può più modificarne i dati.
 
 [^15dbis-1]: Introdotto dalla cifra I dell’O del 25 mag. 2011 ([RU 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)). Nuovo testo giusta la cifra I dell’O del 20 giu. 2014, in vigore dal 1° gen. 2015 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15dbis-2]: Nuovo testo giusta l’all. 3 cifra II n. 9 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^15dbis-3]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
-[^15dbis-4]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^15dbis-5]: Nuovo testo giusta l’all. 3 cifra II n. 9 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^15dbis-3]: Nuovo testo giusta l’all. 4 n. 1 dell’O del 29 ott. 2025 sull’allevamento di animali, in vigore dal 1° gen. 2026 ([RU 2025 723](https://fedlex.data.admin.ch/eli/oc/2025/723)).
+[^15dbis-4]: [RS 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)
+[^15dbis-5]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^15dbis-6]: Nuovo testo giusta l’all. 3 cifra II n. 9 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 15e
 
@@ -715,7 +723,7 @@ Non dev’essere effettuata alcuna notifica se:
 
 <sup>7</sup> ...[^15e-8]
 
-[^15e-1]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^15e-1]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^15e-2]: Nuovo testo giusta l’all. 3 cifra II n. 9 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^15e-3]: Correzione del 10 dic. 2013 ([RU 2013 4547](https://fedlex.data.admin.ch/eli/oc/2013/809)).
 [^15e-4]: Nuovo testo giusta l’all. 3 cifra II n. 9 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
@@ -728,13 +736,13 @@ Non dev’essere effettuata alcuna notifica se:
 
 **Convenzioni con organizzazioni riconosciute all’estero**[^15f-1]
 
-<sup>1</sup> Se un’organizzazione di allevamento con sede nell’Unione europea tiene un libro genealogico per equidi di una determinata razza e il suo raggio d’attività territoriale in virtù dell’articolo 13 capoverso 2 dell’ordinanza del 31 ottobre 2012[^15f-2] sull’allevamento di animali è stato esteso alla Svizzera, con questa organizzazione di allevamento l’UFAG può stipulare, per gli animali della razza interessata, una convenzione per il rilascio del codice UELN, il rilascio del passaporto oppure per entrambi.[^15f-3]
+<sup>1</sup> Se un’organizzazione di allevamento con sede nell’Unione europea tiene un libro genealogico per equidi di una determinata razza e la sua area geografica è stata estesa alla Svizzera (art. 17 dell’ordinanza del 29 ottobre 2025[^15f-2] sull’allevamento di animali,) con questa organizzazione di allevamento l’UFAG può stipulare, per gli animali della razza interessata, una convenzione per il rilascio del codice UELN, il rilascio del passaporto oppure per entrambi.[^15f-3]
 
 <sup>2</sup> Nelle convenzioni gli obblighi di notifica sono disciplinati conformemente all’articolo 15*e* capoverso 6.[^15f-4]
 
 [^15f-1]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^15f-2]: [RS 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
-[^15f-3]: Nuovo testo giusta la cifra II dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^15f-2]: [RS 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)
+[^15f-3]: Nuovo testo giusta l’all. 4 n. 1 dell’O del 29 ott. 2025 sull’allevamento di animali, in vigore dal 1° gen. 2026 ([RU 2025 723](https://fedlex.data.admin.ch/eli/oc/2025/723)).
 [^15f-4]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 ### Sezione 2: Identificazione e registrazione dei cani
@@ -815,7 +823,7 @@ Al momento dell’identificazione si rilevano i seguenti dati relativi al cane:
 [^17a-1]: Introdotto dalla cifra I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^17a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^17a-3]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
-[^17a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^17a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^17a-5]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 17b
@@ -957,7 +965,7 @@ L’USAV assegna i diritti di accesso alle autorità federali. I Cantoni assegna
 Il gestore della banca dati sui cani conserva i dati rilevati secondo l’articolo 17*c* capoverso 1 della presente ordinanza e l’articolo 74 capoverso 6 dell’ordinanza del 23 aprile 2008[^17l-2] sulla protezione degli animali (OPAn). I dati relativi al detentore di cani vengono cancellati dieci anni dopo il decesso dell’ultimo cane.
 
 [^17l-1]: Introdotto dalla cifra I dell’O del 10 gen. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)). Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^17l-2]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^17l-2]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 17m
 
@@ -1004,8 +1012,6 @@ I Cantoni registrano tutte le aziende in cui sono tenuti equidi o pollame da cor
 <sup>3bis</sup> L’apicoltore annuncia al servizio cantonale competente, entro tre giorni lavorativi, un nuovo apiario, il cambio di apicoltore e la chiusura dell’apiario.[^18a-5]
 
 <sup>4</sup> Il servizio cantonale assegna un numero d’identificazione ad ogni detentore di animali e ad ogni azienda detentrice di equidi o di pollame da cortile, come pure ad ogni apicoltore e ad ogni apiario.[^18a-6]
-
-<sup>4</sup> Il servizio cantonale assegna un numero d’identificazione a ogni detentore, a ogni azienda detentrice di equidi, pollame da cortile o pesci nonché a ogni apicoltore e a ogni apiario.
 
 <sup>5</sup> Il servizio cantonale trasmette, in formato elettronico, i dati e le relative modifiche all’UFAG.
 
@@ -1165,7 +1171,7 @@ Le aziende di acquacoltura devono documentare il controllo degli effettivi. La d
 
 <sup>2</sup> I documenti relativi al controllo degli effettivi devono essere conservati per tre anni ed esibiti su richiesta agli organi della polizia epizootica e agli organi preposti alla vigilanza sulla pesca.[^22-4]
 
-<sup>3</sup> a <sup>5</sup> ... [^22-5]
+<sup>3 a <sup>5</sup></sup> ... [^22-5]
 
 [^22-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^22-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
@@ -1182,7 +1188,7 @@ Le aziende di acquacoltura devono documentare il controllo degli effettivi. La d
 <sup>2</sup> La documentazione deve essere conservata per tre anni ed esibita su richiesta agli organi della polizia epizootica.
 
 [^22a-1]: Introdotto dalla cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^22a-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^22a-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 22b
 
@@ -1282,10 +1288,10 @@ Durante il controllo devono essere verificati e documentati i seguenti aspetti:
 <sup>4</sup> Per il resto si applicano le disposizioni dell’ordinanza del 5 novembre 1986[^25-2] sul trasporto pubblico, dell’ordinanza del 13 novembre 1962[^25-3] sulle norme della circolazione stradale, dell’ordinanza del 19 giugno 1995[^25-4] concernente le esigenze tecniche per i veicoli stradali e dell’ordinanza del 27 maggio 1981[^25-5] sulla protezione degli animali.
 
 [^25-1]: Per. introdotto dalla cifra I dell’O del 15 mar. 1999, in vigore dal 1° lug. 1999 ([RU 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
-[^25-2]: [[RU 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [RU 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)art. 6]. Vedi ora l’O del 25 mag. 2016 sul trasporto di merci ([RS 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
-[^25-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^25-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-5]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1. [RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 cifra I]. Vedi ora l’O del 23 apr. 2008 ([RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
+[^25-2]: [[RU 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [RU 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)art. 6]. Vedi ora l’O del 25 mag. 2016 sul trasporto di merci ([RS 742.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8824)).
+[^25-3]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^25-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^25-5]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1. [RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 cifra I]. Vedi ora l’O del 23 apr. 2008 ([RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)).
 
 #### Art. 26
 
@@ -1407,9 +1413,9 @@ La patente è rilasciata se il richiedente:
 [^34-1]: Nuovo testo giusta la cifra I dell’O del 19 ago. 2009, in vigore dal 1° gen. 2010 ([RU 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^34-2]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^34-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^34-4]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^34-4]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^34-5]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^34-6]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^34-6]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^34-7]: Nuovo testo giusta l’all. 4 cifra II n. 8 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 35
@@ -1454,7 +1460,7 @@ Lo svolgimento dei corsi può essere affidato a un’organizzazione. Tale organi
 [^36-3]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^36-4]: La norma può essere consultata gratuitamente o ottenuta a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
 [^36-5]: La norma può essere consultata gratuitamente all’indirizzo [https://alice.ch](https://alice.ch) &gt; Qualità &gt; eduQua (Label di qualità).
-[^36-6]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^36-6]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^36-7]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^36-8]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^36-9]: Nuovo testo giusta la cifra I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
@@ -1483,7 +1489,7 @@ I commercianti di bestiame devono portare con sé la patente per il commercio di
 
 <sup>2</sup> Nei grandi stabilimenti di macellazione, il veterinario ufficiale[^38-3] allestisce un catalogo di provvedimenti urgenti da applicare qualora venga accertata o sospettata un’epizoozia altamente contagiosa.
 
-[^38-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^38-1]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 [^38-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^38-3]: Nuova espr. giusta l’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, in vigore dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)). Di detta mod. é tenuto conto in tutto il presente testo.
 
@@ -1534,7 +1540,7 @@ I commercianti di bestiame devono portare con sé la patente per il commercio di
 <sup>2</sup> Non possono essere trasportati assieme ad animali.
 
 [^40-1]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
-[^40-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^40-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^40-3]: Nuovo testo giusta la cifra I dell’O del 23 giu. 2004, in vigore dal 1° lug. 2004 ([RU 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
 
 #### Art. 41 a 46
@@ -1550,7 +1556,7 @@ I commercianti di bestiame devono portare con sé la patente per il commercio di
 Nel caso dell’insorgenza di un’epizoozia che può essere propagata mediante il latte, il Cantone prescrive che i sottoprodotti della trasformazione del latte, quali il siero di latte, il latte magro e il latticello, destinati a essere utilizzati come alimenti per animali ad unghia fessa, vengano pastorizzati secondo le disposizioni emanate dal DFI in virtù dell’articolo 10 capoverso 4 dell’ordinanza del 16 dicembre 2016[^47-2] sulle derrate alimentari e gli oggetti d’uso (ODerr), prima di essere consegnati presso il centro di raccolta del latte.
 
 [^47-1]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^47-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^47-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### Sezione 3: Medicamenti, prodotti immunologici e microrganismi patogeni per gli animali
 
@@ -1583,8 +1589,8 @@ Nel caso dell’insorgenza di un’epizoozia che può essere propagata mediante 
 
 [^49-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^49-2]: Nuovo testo giusta l’all. 5 n. 13 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^49-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^49-4]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^49-3]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^49-4]: [RS 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^49-5]: Nuovo testo giusta l’all. 5 n. 13 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 ### Capitolo 3: Inseminazione artificiale e trasferimento di ovuli ed embrioni
@@ -1680,7 +1686,7 @@ Nella misura in cui le disposizioni dell’articolo 54 capoverso 2 lettere b e c
 
 <sup>4</sup> Il veterinario notifica anticipatamente al veterinario cantonale i luoghi dove viene prelevato il seme.
 
-[^52-1]: l rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° nov. 2022.
+[^52-1]: l rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° nov. 2022.
 [^52-2]: Nuovi termini giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 
 #### Art. 53
@@ -2095,7 +2101,7 @@ Il movimento delle merci è limitato nel seguente modo:
 
 <sup>5</sup> In caso di epizoozie altamente contagiose, i Cantoni possono affidare la pulizia e la disinfezione a imprese specializzate e far partecipare i detentori alle spese.
 
-[^74-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^74-1]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^74-2]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^74-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 
@@ -2459,7 +2465,7 @@ Gli animali delle specie ricettive non devono abbandonare la zona di sorveglianz
 
 <sup>4</sup> I mercati di bestiame, le esposizioni e le manifestazioni simili con animali delle specie ricettive, come pure la transumanza di mandre sono vietati. L’USAV può estendere il divieto a regioni più grandi o a tutto il territorio nazionale.
 
-<sup>5</sup> e <sup>6</sup> ...[^92-2]
+<sup>5 e <sup>6</sup></sup> ...[^92-2]
 
 [^92-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^92-2]: Abrogati dalla cifra I dell’O del 15 mar. 1999, con effetto dal 1° lug. 1999 ([RU 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
@@ -2553,7 +2559,7 @@ In situazioni d’emergenza, il DFI può ordinare:
 
 <sup>4</sup> L’USAV chiede la restituzione delle indennità indebitamente versate. Se in tal modo dovessero verificarsi casi di rigore eccessivo, esso può rinunciare completamente o in parte alla restituzione.
 
-[^98-1]: Abrogato dalla cifra IV n. 74 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^98-1]: Per. abrogato dalla cifra IV n. 74 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 ### Sezione 2: Afta epizootica
 
@@ -2598,10 +2604,10 @@ Il veterinario cantonale provvede affinché:
 
 [^101-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^101-2]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^101-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^101-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^101-3]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^101-4]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^101-5]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^101-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^101-6]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^101-7]: Nuova espr. giusta l’all. 8 cifra II n. 4 dell’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale, in vigore dal 1° lug. 2011 ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^101-8]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^101-9]: Introdotto dalla cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
@@ -2636,9 +2642,9 @@ Per le zone di protezione e di sorveglianza, il veterinario cantonale può ordin
 <sup>5</sup> Nelle zone di protezione lo spandimento di letame e colaticcio può avvenire soltanto con l’autorizzazione del veterinario cantonale.
 
 [^102-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^102-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^102-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^102-3]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^102-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^102-4]: [RS 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
 [^102-5]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^102-6]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^102-7]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
@@ -2756,7 +2762,7 @@ Il veterinario cantonale istituisce una zona di sorveglianza nel raggio di 3 km 
 
 <sup>2</sup> La testa e i visceri degli animali macellati devono essere eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^109-1].
 
-[^109-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^109-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 110
 
@@ -3002,7 +3008,7 @@ Sono considerati ricettivi alla peste suina i seguenti animali:
 
 <sup>5</sup> La carne dei suini può essere portata fuori dalle zone di sorveglianza e di protezione solo con l’autorizzazione del veterinario cantonale; l’USAV emana prescrizioni tecniche sull’identificazione e il trattamento di questa carne.
 
-[^117-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^117-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 118
 
@@ -3182,7 +3188,7 @@ Il veterinario cantonale provvede affinché:
 
 <sup>2</sup> Sulla base di accertamenti epidemiologici, il veterinario cantonale può delimitare una regione a rischio elevato confinante con una zona di sorveglianza (zona di restrizione) ed estendere a essa le misure previste per le zone di protezione e di sorveglianza. L’estensione della zona di restrizione viene fissata dall’USAV dopo aver sentito il veterinario cantonale.
 
-[^122d-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^122d-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 122e
 
@@ -3269,7 +3275,7 @@ La malattia di Newcastle è diagnosticata se:
 <sup>4</sup> Il sequestro rinforzato dell’effettivo infetto viene revocato trascorsi 21 giorni, dopo l’eliminazione di tutti gli animali delle specie ricettive, la pulizia e la disinfezione.[^123a-4]
 
 [^123a-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^123a-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^123a-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^123a-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^123a-4]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
@@ -3637,7 +3643,7 @@ Nella zona di sequestro sono applicabili le seguenti disposizioni:
 
 <sup>2</sup> Il sequestro di una determinata zona è revocato al più presto 180 giorni e al più tardi un anno dopo l’ultimo caso di rabbia registrato nella zona di sequestro e nelle regioni confinanti.
 
-[^147-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^147-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 148
 
@@ -3741,7 +3747,7 @@ Il veterinario cantonale revoca il sequestro dopo che:
 
 <sup>3</sup> La prima analisi sierologica del sangue e del latte di cui al capoverso 2 lettera b può essere effettuata al più presto 90 giorni dopo l’abbattimento dell’ultimo animale sospetto o infetto.[^155-2]
 
-[^155-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^155-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^155-2]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 156
@@ -3828,7 +3834,7 @@ In caso di diagnosi di tubercolosi il veterinario cantonale ordina il sequestro 
 
 [^163-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^163-2]: Introdotta dalla cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^163-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^163-3]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^163-4]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 164
@@ -4316,7 +4322,7 @@ Per i bovini provenienti da Stati con un rischio di BSE controllato o indetermin
 [^179d-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^179d-2]: Decisione della Commissione, del 29 giugno 2007, che fissa la qualifica sanitaria con riguardo alla BSE di uno Stato membro, di un paese terzo o di una delle loro regioni sulla base del loro rischio di BSE, GU L 172 del 30.6.2007, pag. 84; modificata da ultimo dalla decisione di esecuzione (UE) 2017/1396, del 26 luglio 2017, GU L 197 del 28.7.2017, pag. 9.
 [^179d-3]: Introdotto dalla cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^179d-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^179d-4]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^179d-5]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 ### C. Scrapie
@@ -4381,7 +4387,7 @@ In caso di diagnosi di scrapie nell’effettivo in cui è stato tenuto l’anima
 <sup>5</sup> Per alcune razze rare il veterinario cantonale può, in via eccezionale e dopo aver consultato l’USAV, rinunciare all’uccisione dell’effettivo (cpv. 1 lett. f). In questo caso per tutta la durata del sequestro l’effettivo deve essere visitato due volte all’anno dal veterinario ufficiale. Il sequestro è revocato se dopo due anni non è più comparso alcun caso di scrapie. Se durante il sequestro alcuni animali vengono ceduti per essere uccisi, le loro teste comprese le tonsille devono essere analizzate in un laboratorio di riferimento.
 
 [^180b-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^180b-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^180b-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^180b-3]: Nuovo testo giusta l’all. 8 cifra II n. 4 dell’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale, in vigore dal 1° lug. 2011 ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 
 #### Art. 180c
@@ -4407,7 +4413,7 @@ Negli ovini e nei caprini di età superiore ai dodici mesi o a cui è spuntato u
 <sup>6</sup> Il controllo delle carni e gli organi del controllo delle derrate alimentari sorvegliano l’attuazione delle misure nei loro rispettivi settori di competenza.
 
 [^180c-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^180c-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^180c-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^180c-3]: Nuovo testo giusta l’all. 8 cifra II n. 4 dell’O del 25 mag. 2011 concernente l’eliminazione dei sottoprodotti di origine animale, in vigore dal 1° lug. 2011 ([RU 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 
 ### D. Altre encefalopatie spongiformi
@@ -4696,7 +4702,7 @@ Egli revoca il sequestro dopo che:
 - a. tutti gli animali dell’effettivo sono stati eliminati e le stalle sono state pulite e disinfettate; o
 - b.[^194-2] due analisi sierologiche o allergologiche di tutti gli ovini e i caprini di età superiore ai sei mesi hanno dato esito negativo; la prima analisi deve essere effettuata al più presto 90 giorni dopo l’eliminazione dell’ultimo animale sospetto o infetto e la seconda al più presto 180 giorni dopo la prima analisi.
 
-[^194-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^194-1]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^194-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 195
@@ -5171,7 +5177,7 @@ Ai fornitori delle prestazioni di cui al capoverso 1 lettera a vengono versate l
 <sup>4</sup> L’USAV affida a un terzo la riscossione della tassa.
 
 [^229b-1]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^229b-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^229b-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^229b-3]: Nuovo testo giusta la cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229c
@@ -5185,7 +5191,7 @@ Ai fornitori delle prestazioni di cui al capoverso 1 lettera a vengono versate l
 <sup>3</sup> Qualora al termine del programma di lotta risultasse un’eccedenza dalle tasse dei detentori di ovini, questa viene versata ai Cantoni. Il rimborso è calcolato in base al numero di ovini di un Cantone al 1° gennaio dell’anno del rimborso.
 
 [^229c-1]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^229c-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^229c-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 
 #### Art. 229d
 
@@ -5373,7 +5379,7 @@ Il sospetto di paratubercolosi è considerato confutato:
 
 [^238-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238-2]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^238-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^238-3]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 238a
 
@@ -5401,7 +5407,7 @@ Il veterinario cantonale revoca il sequestro di cui al capoverso 1 dopo che: [^2
 [^238a-1]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^238a-2]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238a-3]: Introdotta dalla cifra I dell’O del 31 mar. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)). Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^238a-4]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^238a-4]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^238a-5]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238a-6]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238a-7]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
@@ -6084,7 +6090,7 @@ In caso di accertamento di sierotipi di *Salmonella* di cui all’articolo 255 c
 <sup>3</sup> ...[^260-3]
 
 [^260-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^260-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^260-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^260-3]: Abrogato dalla cifra I dell’O del 25 apr. 2018, con effetto dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
 #### Art. 260a
@@ -6467,7 +6473,7 @@ Per i dati di cui al capoverso 1 si applicano i seguenti diritti d’accesso:
 <sup>6</sup> Gli apicoltori che hanno accettato di utilizzare Apinella, tra maggio e ottobre devono controllare ogni due settimane le loro colonie di api per individuare l’eventuale infestazione da piccolo coleottero dell’alveare e registrare il risultato del controllo in Apinella.
 
 [^274h-1]: Introdotto dalla cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^274h-2]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^274h-2]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ### Capitolo 5: Epizoozie degli animali acquatici
 
@@ -6608,7 +6614,7 @@ In caso di sospetto di IHN, VHS o ISA, il veterinario cantonale ordina il seques
 <sup>2</sup> Revoca il sequestro se è stato provato che l’effettivo dei pesci è indenne da virus.
 
 [^281-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^281-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^281-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^281-3]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 282
@@ -6644,7 +6650,7 @@ Se non sussiste il pericolo di una propagazione dell’epizoozia diagnosticata, 
 <sup>3</sup> Il veterinario cantonale ordina una zona di protezione e una zona di sorveglianza. Ne stabilisce l’estensione in funzione del rischio di diffusione dell’epizoozia diagnosticata. La zona di protezione comprende almeno la superficie dell’azienda di acquacoltura.
 
 [^282-1]: Nuovo testo giusta la cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^282-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^282-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 282a
 
@@ -6758,7 +6764,7 @@ Nella zona di sequestro sono applicabili le seguenti regole:
 <sup>3</sup> Per il resto, il Cantone ordina i provvedimenti di polizia della pesca per evitare una propagazione dell’agente infettivo, come lo spopolamento delle acque in questione.
 
 [^289-1]: Nuovo testo giusta la cifra I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^289-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^289-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 290
 
@@ -6901,7 +6907,7 @@ L’USAV redige e pubblica annualmente un rapporto sulle zoonosi in collaborazio
 <sup>3</sup> L’USAV emana prescrizioni tecniche riguardo ai controlli presso le aziende detentrici di animali da reddito.[^292a-6]
 
 [^292a-1]: Introdotto dall’all. n. 1 dell’O del 14 nov. 2007 sul coordinamento dei controlli ([RU 2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)). Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
-[^292a-2]: [RS 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^292a-2]: [RS 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^292a-3]: Nuovo testo giusta l’all. 4 n. 8 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d'uso, in vigore dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^292a-4]: Introdotto dall’all. 3 n. 5 dell’O del 23 ott. 2013 sul coordinamento dei controlli delle aziende agricole ([RU 2013 3867](https://fedlex.data.admin.ch/eli/oc/2013/712)). Abrogato dall’all. 4 n. 8 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^292a-5]: Abrogato dall’all. 4 n. 8 dell’O del 27 mag. 2020 sul piano di controllo nazionale pluriennale della filiera agroalimentare e degli oggetti d’uso, con effetto dal 1° lug. 2020 ([RU 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
@@ -6963,9 +6969,9 @@ In caso di comparsa di un’epizoozia altamente contagiosa in Svizzera o all’e
 <sup>4</sup> Per prevenire l’introduzione di epizoozie, l’USAV può, indipendentemente dalla comparsa di un focolaio, esporre negli aeroporti nazionali informazioni sull’importazione di animali e prodotti animali nel traffico turistico in punti ben visibili dai passeggeri. Chiede ai gestori degli aeroporti di mettergli a disposizione lo spazio necessario a tal fine.[^295a-5]
 
 [^295a-1]: Introdotto dalla cifra I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^295a-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^295a-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^295a-3]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^295a-4]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^295a-4]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^295a-5]: Introdotto dalla cifra I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 296
@@ -7028,7 +7034,7 @@ L’USAV è inoltre competente per:
 
 <sup>2</sup> Gli altri provvedimenti di polizia epizootica nell’esercito e negli stabilimenti dell’amministrazione militare sono retti dall’ordinanza del 25 ottobre 1955[^299-1] concernente le misure da prendere da parte dell’esercito contro le epidemie e le epizoozie.
 
-[^299-1]: [RS 510.35](https://fedlex.data.admin.ch/eli/cc/1955/863_885_893)
+[^299-1]: [RS 510.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7293)
 
 ### Capitolo 3: Cantone
 
@@ -7106,7 +7112,7 @@ I Cantoni possono affidare al veterinario ufficiale altri compiti e provvedono a
 
 [^302-1]: Introdotto dalla cifra I dell’O del 28 mar. 2001, in vigore dal 15 apr. 2001 ([RU 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^302-2]: Nuova espr. giusta la cifra I dell’O del 15 mar. 2013, in vigore dal 1° gen. 2014 ([RU 2013 945](https://fedlex.data.admin.ch/eli/oc/2013/192)).
-[^302-3]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)cifra II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. cifra I]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^302-3]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)cifra II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. cifra I]. Vedi ora la L del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
 [^302-4]: Abrogata dall’all. 3 n. 3 dell’O del 18 ago. 2004 sui medicamenti veterinari, con effetto dal 1° set. 2004, con effetto dal 1° set. 2004 ([RU 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592)).
 [^302-5]: Abrogato dall’all. 2 n. 5 dell’O del 24 gen. 2007 concernente la formazione, il perfezionamento e l’aggiornamento delle persone impiegate nel Servizio veterinario pubblico, con effetto dal 1° apr. 2007 ([RU 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
 
@@ -7165,7 +7171,7 @@ I Cantoni suddividono il loro territorio in circondari di ispezione degli apiari
 Gli ispettori degli apiari devono disporre di un attestato di capacità di assistente specializzato ufficiale incaricato di altri compiti secondo lʼordinanza del 16 novembre 2011[^310-2] concernente la formazione, il perfezionamento e lʼaggiornamento delle persone impiegate nel settore veterinario pubblico
 
 [^310-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
-[^310-2]: [RS 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^310-2]: [RS 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 
 #### Art. 311
 
@@ -7198,8 +7204,8 @@ Un laboratorio è riconosciuto se:
 <sup>5</sup> L’USAV emana prescrizioni tecniche sul riconoscimento dei laboratori, sui metodi di diagnostica delle epizoozie e sulle informazioni che i laboratori riconosciuti devono fornire all’USAV.
 
 [^312-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^312-2]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^312-3]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^312-2]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^312-3]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^312-4]: Nuovo testo giusta la cifra I dell’O del 25 apr. 2018, in vigore dal 1° giu. 2018 ([RU 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^312-5]: Nuovo testo giusta la cifra I dell’O del 6 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
@@ -7243,7 +7249,7 @@ L’USAV può revocare il riconoscimento se:
 
 [^312b-1]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^312b-2]: Il testo della norma menzionata può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
-[^312b-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^312b-3]: [RS 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 #### Art. 312c
 
@@ -7290,7 +7296,7 @@ Per le analisi ordinate dagli organi di polizia epizootica devono notificare reg
 Le tasse riscosse per le prestazioni di servizi dell’USAV, come esami, analisi, autorizzazioni e controlli al confine doganale e nazionale o sul territorio svizzero, sono disciplinate dall’ordinanza del 30 ottobre 1985[^313-2] sulle tasse dell’USAV.
 
 [^313-1]: Nuovo testo giusta la cifra I dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^313-2]: [RS 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^313-2]: [RS 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 ## Titolo quinto: Disposizioni finali
 

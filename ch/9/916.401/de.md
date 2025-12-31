@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2025-02-01
+version: 2026-01-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20250201/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20250201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20250201/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 1. Februar 2025)
+vom 27. Juni 1995 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 9*a* Absatz 2, 10, 16, 19, 20, 31*a*, 32 Absatz 1<sup>
 
 verordnet:
 
-[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 ## 1. Titel: Gegenstand, Tierseuchen und Bekämpfungsziel
@@ -261,13 +261,13 @@ Die folgenden Ausdrücke bedeuten:
 [^6-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Mai 2013 angepasst.
 [^6-4]: Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 [^6-5]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^6-6]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-6]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^6-7]: Aufgehoben durch Anhang 2 Ziff. 5 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, mit Wirkung seit 1. April 2007 ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
 [^6-8]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^6-9]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^6-10]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
 [^6-11]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^6-12]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^6-12]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^6-13]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^6-14]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^6-15]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
@@ -320,11 +320,11 @@ Die Kantone erfassen alle Tierhaltungen, in denen Klauentiere gehalten werden. S
 <sup>4</sup> Das BLW[^7-8] erlässt im Einvernehmen mit dem BLV[^7-9] Vorschriften technischer Art zu den Absätzen 1–3.
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2007 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
-[^7-2]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^7-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^7-3]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^7-4]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^7-5]: Eingefügt durch Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
-[^7-6]: [SR 510.625](https://fedlex.data.admin.ch/eli/cc/2008/393)
+[^7-6]: [SR 510.625](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7352)
 [^7-7]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^7-8]: Ausdruck gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Diese Änd. wurde im ganzen Text vorgenommen.
 [^7-9]: Ausdruck gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)). Diese Änd. wurde im ganzen Erlass vorgenommen.
@@ -415,7 +415,7 @@ Die Kennzeichnung darf nur von folgenden Personen vorgenommen werden:
 [^11a-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^11a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^11a-3]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
-[^11a-4]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^11a-4]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 
 #### Art. 11b
 
@@ -444,7 +444,13 @@ Der Kantonstierarzt kann bei erhöhter Seuchengefahr vorschreiben, dass:
 
 Das Begleitdokument muss folgende Angaben enthalten:
 
-- a. die Adresse der Tierhaltung, aus der das Tier verbracht wird, und die ihr von der Identitas AG zugeteilte TVD-Nummer nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021[^12-2] über die Identitas AG und die Tierverkehrsdatenbank;
+- a.[^12-2]
+
+  die Adresse der Tierhaltung, aus der das Tier verbracht wird, und:
+
+  - 1\. die ihr von der Identitas AG zugeteilte TVD-Nummer nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021[^12-3] über die Identitas AG und die Tierverkehrsdatenbank, oder
+  - 2\. die Identifikationsnummer im Betriebs- und Unternehmensregister (BUR-Nummer);
+
 - b. die Tierart;
 - c. für Tiere der Rindergattung: die Identifikationsnummer, das Alter und das Geschlecht;
 - d. für Alt- und Neuweltkameliden sowie für Tiere der Schaf- und Ziegengattung: die Identifikationsnummer;
@@ -456,7 +462,8 @@ Das Begleitdokument muss folgende Angaben enthalten:
 <sup>2</sup> Kann die Bestätigung nach Absatz 1 Buchstabe h nicht abgegeben werden, darf das Begleitdokument nur mit Bescheinigung eines seuchenpolizeilichen Organs ausgestellt werden.
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^12-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^12-2]: Fassung gemäss Anhang Ziff. 6 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^12-3]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 12a
 
@@ -544,7 +551,7 @@ Er meldet der Betreiberin der Tierverkehrsdatenbank:[^14-3]
 
 [^15a-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^15a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
-[^15a-3]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^15a-3]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^15a-4]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 15b
@@ -575,7 +582,7 @@ Er meldet der Betreiberin der Tierverkehrsdatenbank:[^14-3]
 
 [^15c-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-2]: Aufgehoben durch Ziff. I der V vom 25. Mai 2011, mit Wirkung seit 1. Juli 2011 ([AS 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)).
-[^15c-3]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^15c-3]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^15c-4]: Fassung gemäss Anhang 3 Ziff. II 9 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^15c-5]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15c-6]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
@@ -625,9 +632,9 @@ Der Equidenpass muss zudem folgende Anhänge enthalten:
 [^15d-3]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-4]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-5]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^15d-6]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^15d-6]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^15d-7]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^15d-8]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^15d-8]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 [^15d-9]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^15d-10]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
@@ -643,7 +650,7 @@ Der Equidenpass muss zudem folgende Anhänge enthalten:
 
 Anerkannt werden können:
 
-- a. die nach Artikel 5 der Tierzuchtverordnung vom 31. Oktober 2012[^15dbis-3] anerkannten Zuchtorganisationen von Equiden;
+- a.[^15dbis-3] die nach Artikel 3 der Tierzuchtverordnung vom 29. Oktober 2025[^15dbis-4] anerkannten Zuchtorganisationen von Equiden;
 - b. die Betreiberin der Tierverkehrsdatenbank;
 - c. der Schweizerische Verband für Pferdesport;
 
@@ -661,15 +668,16 @@ Das BLW anerkennt eine Stelle auf Gesuch hin, wenn sie:
 
 <sup>5</sup> Die Anerkennung ist auf maximal 10 Jahre befristet.
 
-<sup>6</sup> Vor der Bestellung eines Grundpasses bei der Identitas AG überprüft die passausstellende Stelle die in der Tierverkehrsdatenbank (TVD) zum betreffenden Equiden registrierten Daten. Sind die Daten in der TVD aus Sicht der passausstellenden Stelle nicht korrekt und liegt eine Ermächtigung des Eigentümers nach Artikel 20 IdTVD-V[^15dbis-4] vor, so kann die passausstellende Stelle die Daten nach Artikel 15*d* Absatz 1 Buchstabe d Ziffern 1, 3, 4, 6 und 7 sowie die Angabe der Rasse ändern. Der Eigentümer wird von der Identitas AG umgehend über die Änderung informiert.[^15dbis-5]
+<sup>6</sup> Vor der Bestellung eines Grundpasses bei der Identitas AG überprüft die passausstellende Stelle die in der Tierverkehrsdatenbank (TVD) zum betreffenden Equiden registrierten Daten. Sind die Daten in der TVD aus Sicht der passausstellenden Stelle nicht korrekt und liegt eine Ermächtigung des Eigentümers nach Artikel 20 IdTVD-V[^15dbis-5] vor, so kann die passausstellende Stelle die Daten nach Artikel 15*d* Absatz 1 Buchstabe d Ziffern 1, 3, 4, 6 und 7 sowie die Angabe der Rasse ändern. Der Eigentümer wird von der Identitas AG umgehend über die Änderung informiert.[^15dbis-6]
 
 <sup>7</sup> Hat die Betreiberin der Datenbank den Grundpass ausgestellt, so kann die passausstellende Stelle die Daten nicht mehr ändern.
 
 [^15dbis-1]: Eingefügt durch Ziff. I der V vom 25. Mai 2011 ([AS 2011 2691](https://fedlex.data.admin.ch/eli/oc/2011/371)). Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15dbis-2]: Fassung gemäss Anhang 3 Ziff. II 9 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^15dbis-3]: [SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
-[^15dbis-4]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^15dbis-5]: Fassung gemäss Anhang 3 Ziff. II 9 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^15dbis-3]: Fassung gemäss Anhang 4 Ziff. 1 der Tierzuchtverordnung vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 723](https://fedlex.data.admin.ch/eli/oc/2025/723)).
+[^15dbis-4]: [SR 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)
+[^15dbis-5]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^15dbis-6]: Fassung gemäss Anhang 3 Ziff. II 9 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 15e
 
@@ -706,7 +714,7 @@ Keine Meldung muss gemacht werden, wenn:
 
 <sup>7</sup> …[^15e-7]
 
-[^15e-1]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^15e-1]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^15e-2]: Fassung gemäss Anhang 3 Ziff. II 9 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^15e-3]: Fassung gemäss Anhang 3 Ziff. II 9 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 [^15e-4]: Fassung gemäss Anhang 3 Ziff. II 9 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
@@ -718,13 +726,13 @@ Keine Meldung muss gemacht werden, wenn:
 
 **Vereinbarungen mit im Ausland anerkannten Organisationen**[^15f-1]
 
-<sup>1</sup> Führt eine Zuchtorganisation mit Sitz in der Europäischen Union ein Herdebuch für Equiden einer bestimmten Rasse und ist ihr Tätigkeitsgebiet gestützt auf Artikel 13 Absatz 2 der Tierzuchtverordnung vom 31. Oktober 2012[^15f-2] auf die Schweiz ausgedehnt worden, so kann das BLW mit dieser Zuchtorganisation für die Tiere der betreffenden Rasse eine Vereinbarung für die UELN-Vergabe, für die Passausstellung oder für beides abschliessen.[^15f-3]
+<sup>1</sup> Führt eine Zuchtorganisation mit Sitz in der Europäischen Union ein Herdebuch für Equiden einer bestimmten Rasse und ist ihr geografisches Gebiet auf die Schweiz ausgedehnt worden (Art. 17 Tierzuchtverordnung vom 29. Oktober 2025[^15f-2]) auf die Schweiz ausgedehnt worden, so kann das BLW mit dieser Zuchtorganisation für die Tiere der betreffenden Rasse eine Vereinbarung für die UELN-Vergabe, für die Passausstellung oder für beides abschliessen.[^15f-3]
 
 <sup>2</sup> In den Vereinbarungen werden die Meldepflichten nach Artikel 15*e* Absatz 6 geregelt.[^15f-4]
 
 [^15f-1]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^15f-2]: [SR 916.310](https://fedlex.data.admin.ch/eli/cc/2012/763)
-[^15f-3]: Fassung gemäss Ziff. II der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 697](https://fedlex.data.admin.ch/eli/oc/2021/697)).
+[^15f-2]: [SR 916.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10679)
+[^15f-3]: Fassung gemäss Anhang 4 Ziff. 1 der Tierzuchtverordnung vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 723](https://fedlex.data.admin.ch/eli/oc/2025/723)).
 [^15f-4]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 ### 2. Abschnitt: Kennzeichnung und Registrierung von Hunden
@@ -805,7 +813,7 @@ Bei der Kennzeichnung werden folgende Daten über den Hund erhoben:
 [^17a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^17a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^17a-3]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
-[^17a-4]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^17a-4]: [SR 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^17a-5]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 17b
@@ -947,7 +955,7 @@ Das BLV vergibt die Zugriffsrechte an die Bundesbehörden. Die Kantone vergeben 
 Die Betreiberin der Hundedatenbank bewahrt die nach Artikel 17*c* Absatz 1 dieser Verordnung sowie die nach Artikel 74 Absatz 6 der Tierschutzverordnung vom 23. April 2008[^17l-2] (TSchV) erhobenen Daten auf. Die Daten zum Hundehalter werden zehn Jahre nach dem Tod des letzten Hundes gelöscht.
 
 [^17l-1]: Eingefügt durch Ziff. I der V vom 10. Jan. 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)). Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^17l-2]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^17l-2]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 #### Art. 17m
 
@@ -1153,7 +1161,7 @@ Aquakulturbetriebe müssen eine Bestandeskontrolle führen. Diese umfasst:
 
 <sup>2</sup> Die Dokumente über die Bestandeskontrolle sind während drei Jahren aufzubewahren und den seuchenpolizeilichen Organen sowie der Fischereiaufsicht auf Verlangen vorzuweisen.[^22-4]
 
-<sup>3</sup> <sup>–5</sup> …[^22-5]
+<sup>3<sup>–5</sup></sup> …[^22-5]
 
 [^22-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^22-2]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
@@ -1170,7 +1178,7 @@ Aquakulturbetriebe müssen eine Bestandeskontrolle führen. Diese umfasst:
 <sup>2</sup> Die Aufzeichnungen sind während drei Jahren aufzubewahren und den seuchenpolizeilichen Organen auf Verlangen vorzuweisen.
 
 [^22a-1]: Eingefügt durch Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^22a-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^22a-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 22b
 
@@ -1270,10 +1278,10 @@ Bei der Prüfung müssen folgende Punkte kontrolliert und dokumentiert werden:
 <sup>4</sup> Im Übrigen gelten die besonderen Bestimmungen der Transportverordnung vom 5. November 1986[^25-2], der Verkehrsregelnverordnung vom 13. November 1962[^25-3], der Verordnung vom 19. Juni 1995[^25-4] über die technischen Anforderungen an Strassenfahrzeuge und der Tierschutzverordnung vom 27. Mai 1981[^25-5].
 
 [^25-1]: Satz eingefügt durch Ziff. I der V vom 15. März 1999, in Kraft seit 1. Juli 1999 ([AS 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
-[^25-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [AS 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)Art. 6]. Siehe heute: die Gütertransportverordnung vom 25. Mai 2016 ([SR 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
-[^25-3]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^25-4]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-5]: [[AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)Anhang Ziff. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 1. [AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. I]. Siehe heute: die V vom 23. April 2008 ([SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
+[^25-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [AS 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)Art. 6]. Siehe heute: die Gütertransportverordnung vom 25. Mai 2016 ([SR 742.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8824)).
+[^25-3]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^25-4]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^25-5]: [[AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)Anhang Ziff. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 1. [AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. I]. Siehe heute: die V vom 23. April 2008 ([SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)).
 
 #### Art. 26
 
@@ -1395,9 +1403,9 @@ Es wird erteilt, wenn der Gesuchsteller:
 [^34-1]: Fassung gemäss Ziff. I der V vom 19. Aug. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 4255](https://fedlex.data.admin.ch/eli/oc/2009/522)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^34-3]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^34-4]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^34-4]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 [^34-5]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^34-6]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^34-6]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^34-7]: Fassung gemäss Anhang 4 Ziff. II 8 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 35
@@ -1442,7 +1450,7 @@ Mit der Durchführung der Kurse kann eine Organisation beauftragt werden. Eine s
 [^36-3]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^36-4]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/).
 [^36-5]: Die aufgeführte Norm kann kostenlos abgerufen werden unter: [https://alice.ch](https://alice.ch/de/) &gt; Qualität &gt; Qualitätslabel eduQua.
-[^36-6]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^36-6]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^36-7]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^36-8]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 [^36-9]: Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
@@ -1471,7 +1479,7 @@ Viehhändler müssen das Viehhandelspatent beim Handel mit und dem Transport von
 
 <sup>2</sup> In Grossbetrieben hat der amtliche Tierarzt einen Katalog der Sofortmassnahmen zu erstellen, die zu treffen sind, wenn eine hochansteckende Seuche festgestellt wird oder Verdacht auf eine solche besteht.
 
-[^38-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
+[^38-1]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
 [^38-2]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
 ### 9. Abschnitt: Schlachtabgabe
@@ -1521,7 +1529,7 @@ Viehhändler müssen das Viehhandelspatent beim Handel mit und dem Transport von
 <sup>2</sup> Sie dürfen nicht zusammen mit Tieren transportiert werden.
 
 [^40-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
-[^40-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^40-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^40-3]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
 
 #### Art. 41−46
@@ -1537,7 +1545,7 @@ Viehhändler müssen das Viehhandelspatent beim Handel mit und dem Transport von
 Beim Auftreten einer Seuche, die durch Milch verbreitet werden kann, schreibt der Kanton vor, dass Nebenprodukte aus der Milchverarbeitung wie Schotte, Mager- und Buttermilch, die als Futter für Klauentiere verwertet werden, vor der Abgabe aus der Milchannahmestelle nach den vom EDI gestützt auf Artikel 10 Absatz 4 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^47-2] (LGV) erlassenen Bestimmungen pasteurisiert werden müssen.
 
 [^47-1]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^47-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^47-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ### 3. Abschnitt: Behandlungsmittel, immunologische Erzeugnisse und tierpathogene Mikroorganismen
 
@@ -1570,8 +1578,8 @@ Beim Auftreten einer Seuche, die durch Milch verbreitet werden kann, schreibt de
 
 [^49-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^49-2]: Fassung gemäss Anhang 5 Ziff. 13 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
-[^49-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^49-4]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^49-3]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^49-4]: [SR 814.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9622)
 [^49-5]: Fassung gemäss Anhang 5 Ziff. 13 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 ### 3. Kapitel: Künstliche Besamung und Übertragung von Eizellen und Embryonen
@@ -1667,7 +1675,7 @@ Sofern die Bestimmungen des Artikels 54 Absatz 2 Buchstaben b und c[^52-1] sinng
 
 <sup>4</sup> Der Tierarzt meldet dem Kantonstierarzt im Voraus, wo der Samen gewonnen wird.
 
-[^52-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Nov. 2022 angepasst.
+[^52-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Nov. 2022 angepasst.
 
 #### Art. 53
 
@@ -2082,7 +2090,7 @@ Der Warenverkehr wird wie folgt eingeschränkt:
 
 <sup>5</sup> Die Kantone können namentlich im Fall von hochansteckenden Seuchen spezialisierte Unternehmen mit der Reinigung und Desinfektion beauftragen und die Tierhalter an den Kosten beteiligen.
 
-[^74-1]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^74-1]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^74-2]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^74-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 
@@ -2584,10 +2592,10 @@ Der Kantonstierarzt sorgt dafür, dass:
 
 [^101-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^101-2]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^101-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^101-4]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^101-3]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
+[^101-4]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^101-5]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^101-6]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^101-6]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^101-7]: Ausdruck gemäss Anhang 8 Ziff. II 4 der V vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten, in Kraft seit 1. Juli 2011 ([AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)). Diese Änd. ist im ganzen Erlass berücksichtigt.
 [^101-8]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^101-9]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
@@ -2622,9 +2630,9 @@ Der Kantonstierarzt kann für die Schutz- und Überwachungszonen folgende Massna
 <sup>5</sup> In der Schutzzone dürfen Mist und Jauche nur mit Genehmigung des Kantonstierarztes ausgebracht werden.
 
 [^102-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^102-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^102-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^102-3]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^102-4]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
+[^102-4]: [SR 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
 [^102-5]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^102-6]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^102-7]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
@@ -2742,7 +2750,7 @@ Der Kantonstierarzt legt eine Überwachungszone im Umkreis von 3 km um den verse
 
 <sup>2</sup> Kopf und innere Organe der geschlachteten Tiere sind als tierische Nebenprodukte der Kategorie 2 nach Artikel 6 VTNP[^109-1] zu entsorgen.
 
-[^109-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^109-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 110
 
@@ -2988,7 +2996,7 @@ Als empfänglich für die Schweinepest gelten folgende Tierarten:
 
 <sup>5</sup> Aus Schutz- und Überwachungszonen darf Fleisch von Schweinen nur mit Genehmigung des Kantonstierarztes verbracht werden; das BLV erlässt Vorschriften technischer Art über die Kennzeichnung und Behandlung solchen Fleisches.
 
-[^117-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^117-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 118
 
@@ -3171,7 +3179,7 @@ Der Kantonstierarzt sorgt dafür, dass:
 
 <sup>2</sup> Der Kantonstierarzt kann aufgrund epidemiologischer Abklärungen ein an die Überwachungszone angrenzendes Gebiet mit erhöhtem Risiko ausscheiden (Restriktionsgebiet) und die für die Schutz- und Überwachungszone geltenden Massnahmen darauf ausdehnen. Der Umfang des Restriktionsgebietes wird vom BLV nach Anhören des Kantonstierarztes festgelegt.
 
-[^122d-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^122d-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 122e
 
@@ -3263,7 +3271,7 @@ Die Newcastle Krankheit liegt vor, wenn:
 <sup>4</sup> Die verschärfte Sperre über den verseuchten Bestand wird nach Ausmerzung aller Tiere der empfänglichen Arten und nach erfolgter Reinigung und Desinfektion frühestens nach 21 Tagen aufgehoben.[^123a-4]
 
 [^123a-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^123a-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^123a-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^123a-3]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^123a-4]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
@@ -3631,7 +3639,7 @@ Für das Sperrgebiet gelten folgende Bestimmungen:
 
 <sup>2</sup> Das Sperrgebiet wird frühestens 180 Tage und spätestens ein Jahr nach dem letzten Tollwutfall im Sperrgebiet und in den angrenzenden Gebieten aufgehoben.
 
-[^147-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^147-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 148
 
@@ -3735,7 +3743,7 @@ Er hebt die Sperre auf, nachdem:
 
 <sup>3</sup> Die erste blut- und milchserologische Untersuchung nach Absatz 2 Buchstabe b darf frühestens 90 Tage nach Ausmerzung des letzten verdächtigen oder verseuchten Tieres erfolgen.[^155-2]
 
-[^155-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^155-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^155-2]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 156
@@ -3822,7 +3830,7 @@ Der Kantonstierarzt verhängt bei Feststellung von Tuberkulose die einfache Sper
 
 [^163-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^163-2]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^163-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^163-3]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^163-4]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 164
@@ -4306,7 +4314,7 @@ Bei Rindern, die aus Staaten stammen, die über ein kontrolliertes oder über ei
 [^179d-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^179d-2]: Entscheidung der Kommission vom 29. Juni 2007 zur Festlegung des BSE-Status von Mitgliedstaaten, Drittländern oder Gebieten davon nach ihrem BSE-Risiko, ABl. L 172 vom 30.6.2007, S. 84; zuletzt geändert durch Durchführungsbeschluss (EU) 2017/1396 vom 26. Juli 2017, ABl. L 197 vom 28.7.2017, S. 9.
 [^179d-3]: Eingefügt durch Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^179d-4]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^179d-4]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^179d-5]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 ### C. Traberkrankheit
@@ -4371,7 +4379,7 @@ Der Kantonstierarzt ordnet bei Feststellung von Traberkrankheit im Bestand, in d
 <sup>5</sup> Nach Absprache mit dem BLV kann der Kantonstierarzt ausnahmsweise bei seltenen Rassen auf die Tötung des Bestandes (Abs. 1 Bst. f) verzichten. In diesem Fall ist der Bestand während der Dauer der Sperre zweimal jährlich amtstierärztlich zu untersuchen. Die Sperre wird aufgehoben, wenn nach zwei Jahren kein weiterer Fall von Traberkrankheit aufgetreten ist. Werden während der Sperre Tiere zur Tötung abgegeben, so sind deren Köpfe einschliesslich der Tonsillen im Referenzlaboratorium zu untersuchen.
 
 [^180b-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^180b-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^180b-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^180b-3]: Fassung gemäss Anhang 8 Ziff. II 4 der V vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten, in Kraft seit 1. Juli 2011 ([AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 
 #### Art. 180c
@@ -4397,7 +4405,7 @@ Als spezifiziertes Risikomaterial gilt folgendes Material von Schafen und Ziegen
 <sup>6</sup> Die Fleischkontrolle und die Lebensmittelkontrolle überwachen die Durchführung der Massnahmen je in ihrem Zuständigkeitsbereich.
 
 [^180c-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^180c-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^180c-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^180c-3]: Fassung gemäss Anhang 8 Ziff. II 4 der V vom 25. Mai 2011 über die Entsorgung von tierischen Nebenprodukten, in Kraft seit 1. Juli 2011 ([AS 2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)).
 
 ### D. Andere spongiforme Enzephalopathien
@@ -4685,7 +4693,7 @@ Er hebt die Sperre auf, nachdem:
 - a. alle Tiere des Bestandes ausgemerzt und die Stallungen gereinigt und desinfiziert worden sind; oder
 - b.[^194-2] zwei serologische oder allergische Untersuchungen aller Schafe und Ziegen, die älter sind als sechs Monate, negative Befunde ergeben haben; die erste Untersuchung darf frühestens 90 Tagen nach Ausmerzung des letzten verdächtigen oder verseuchten Tieres und die zweite Untersuchung frühestens 180 Tage nach der ersten erfolgen.
 
-[^194-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^194-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^194-2]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 195
@@ -4857,7 +4865,7 @@ Er hebt die Sperre auf, nachdem:
 - a. alle Tiere des Bestandes ausgemerzt und die Stallungen gereinigt und desinfiziert worden sind; oder
 - b. zwei serologische Untersuchungen aller Schweine, die älter sind als sechs Monate, einen negativen Befund ergeben haben; die erste Untersuchung darf frühestens nach Ausmerzung des letzten verdächtigen oder verseuchten Tieres und die zweite frühestens 90 Tage nach der ersten Untersuchung erfolgen.
 
-[^211-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^211-1]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### 4. Kapitel: Zu bekämpfende Seuchen
 
@@ -5174,7 +5182,7 @@ Die Erbringer der Leistungen nach Absatz 1 erhalten folgende Entschädigungen:
 <sup>3</sup> Resultiert nach Abschluss des Bekämpfungsprogramms ein Überschuss aus den Abgaben der Schafhalter, so wird dieser an die Kantone überwiesen. Die Rückerstattung berechnet sich nach der Anzahl Schafe eines Kantons am 1. Januar des Jahres der Rückerstattung.
 
 [^229c-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^229c-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^229c-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^229c-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229d
@@ -5363,7 +5371,7 @@ Der Verdacht auf Paratuberkulose gilt als widerlegt:
 
 [^238-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238-2]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^238-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^238-3]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 238a
 
@@ -5391,7 +5399,7 @@ Er hebt die Sperre auf, nachdem:
 [^238a-1]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 [^238a-2]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238a-3]: Eingefügt durch Ziff. I der V vom 31. März 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)). Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^238a-4]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^238a-4]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^238a-5]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^238a-6]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
@@ -6072,7 +6080,7 @@ Der Kantonstierarzt verhängt bei Feststellung von *Salmonella*-Serotypen nach A
 <sup>3</sup> …[^260-3]
 
 [^260-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^260-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^260-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^260-3]: Aufgehoben durch Ziff. I der V vom 25. April 2018, mit Wirkung seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 
 #### Art. 260a
@@ -6459,7 +6467,7 @@ Für die Daten nach Absatz 1 gelten folgende Zugriffsrechte:
 <sup>6</sup> Die Imker, die sich zur Verwendung von Apinella bereit erklärt haben, müssen ihre Bienenvölker zwischen Mai und Oktober alle zwei Wochen auf den Befall mit dem Kleinen Beutenkäfer kontrollieren und das Ergebnis der Kontrolle in Apinella erfassen.
 
 [^274h-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^274h-2]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^274h-2]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 ### 5. Kapitel: Seuchen der Wassertiere
 
@@ -6600,7 +6608,7 @@ Bei Verdacht auf IHN, VHS oder ISA verhängt der Kantonstierarzt die einfache Sp
 <sup>2</sup> Er hebt die Sperre auf, nachdem der Nachweis erbracht worden ist, dass der Fischbestand virusfrei ist.
 
 [^281-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^281-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^281-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 [^281-3]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 
 #### Art. 282
@@ -6636,7 +6644,7 @@ Besteht keine Gefahr für die Weiterverbreitung der festgestellten Seuche, so ka
 <sup>3</sup> Der Kantonstierarzt ordnet eine Schutz- und eine Überwachungszone an. Er legt deren Umfang nach dem Risiko für die Verbreitung der festgestellten Seuche fest. Die Schutzzone umfasst mindestens die Fläche des Aquakulturbetriebs.
 
 [^282-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^282-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^282-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 282a
 
@@ -6750,7 +6758,7 @@ Im Sperrgebiet gilt:
 <sup>3</sup> Im übrigen ordnet der Kanton die zur Vermeidung einer Verschleppung des Erregers dienenden fischereipolizeilichen Massnahmen, wie das Leerfangen der betroffenen Gewässer, an.
 
 [^289-1]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^289-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^289-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 #### Art. 290
 
@@ -6893,7 +6901,7 @@ Das BLV erstellt und veröffentlicht in Zusammenarbeit mit dem BAG und dem BLW s
 <sup>3</sup> Das BLV erlässt zu den Kontrollen in Betrieben mit Nutztierhaltung Vorschriften technischer Art.[^292a-6]
 
 [^292a-1]: Eingefügt durch Anhang Ziff. 1 der Inspektionskoordinationsverordnung vom 14. Nov. 2007 ([AS 2007 6167](https://fedlex.data.admin.ch/eli/oc/2007/820)). Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5449](https://fedlex.data.admin.ch/eli/oc/2011/774)).
-[^292a-2]: [SR 817.032](https://fedlex.data.admin.ch/eli/cc/2020/459)
+[^292a-2]: [SR 817.032](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9704)
 [^292a-3]: Fassung gemäss Anhang 4 Ziff. 8 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, in Kraft seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^292a-4]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 23. Okt. 2013 über die Koordination der Kontrollen auf Landwirtschaftsbetrieben ([AS 2013 3867](https://fedlex.data.admin.ch/eli/oc/2013/712)). Aufgehoben durch Anhang 4 Ziff. 8 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, mit Wirkung seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
 [^292a-5]: Aufgehoben durch Anhang 4 Ziff. 8 der V vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollplan für die Lebensmittelkette und die Gebrauchsgegenstände, mit Wirkung seit 1. Juli 2020 ([AS 2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)).
@@ -6953,9 +6961,9 @@ Beim Ausbruch einer hochansteckenden Seuche in der Schweiz oder im Ausland kann 
 <sup>4</sup> Das BLV kann zur Verhinderung der Einschleppung von Tierseuchen unabhängig von einem Seuchenausbruch an den Landesflughäfen Informationen über die Einfuhr von Tieren und Tierprodukten im Reiseverkehr an für Passagiere gut sichtbaren Stellen platzieren. Es ersucht die Flughafenbetreiber, ihm den dafür erforderlichen Platz zur Verfügung zu stellen.[^295a-5]
 
 [^295a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^295a-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^295a-2]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^295a-3]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
-[^295a-4]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^295a-4]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^295a-5]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 296
@@ -7018,7 +7026,7 @@ Das BLV hat zudem die folgenden Befugnisse:
 
 <sup>2</sup> Die übrigen tierseuchenpolizeilichen Massnahmen der Armee und der Anstalten der Militärverwaltung richten sich nach der Verordnung vom 25. Oktober 1955[^299-1] über seuchenpolizeiliche Massnahmen der Armee.
 
-[^299-1]: [SR 510.35](https://fedlex.data.admin.ch/eli/cc/1955/863_885_893)
+[^299-1]: [SR 510.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7293)
 
 ### 3. Kapitel: Kanton
 
@@ -7095,7 +7103,7 @@ Die Kantone können dem amtlichen Tierarzt weitere Aufgaben übertragen und sorg
 <sup>4</sup> …[^302-5]
 
 [^302-1]: Eingefügt durch Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
-[^302-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^302-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Anhang Ziff. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Anhang Ziff. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Anhang Ziff. 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)Ziff. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Anhang 1 Ziff. 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Anhang Ziff. I]. Siehe heute: das BG vom 20. Juni 2014 ([SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)).
 [^302-3]: Aufgehoben durch Anhang 3 Ziff. 3 der Tierarzneimittelverordnung vom 18. Aug. 2004, mit Wirkung seit 1. Sept. 2004 ([AS 2004 4057](https://fedlex.data.admin.ch/eli/oc/2004/592)).
 [^302-4]: Fassung gemäss Ziff. I der V vom 28. März 2001, in Kraft seit 15. April 2001 ([AS 2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)).
 [^302-5]: Aufgehoben durch Anhang 2 Ziff. 4 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, mit Wirkung seit 1. April 2007 ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
@@ -7155,7 +7163,7 @@ Die Kantone teilen ihr Gebiet in Bieneninspektionskreise ein. Sie bezeichnen die
 Bieneninspektoren müssen über ein Fähigkeitszeugnis als amtlicher Fachassistent für weitere Aufgaben nach der Verordnung vom 16. November 2011[^310-2] über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärwesen verfügen.
 
 [^310-1]: Fassung gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
-[^310-2]: [SR 916.402](https://fedlex.data.admin.ch/eli/cc/2011/803)
+[^310-2]: [SR 916.402](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10839)
 
 #### Art. 311
 
@@ -7188,8 +7196,8 @@ Ein Labor wird anerkannt, wenn es:
 <sup>5</sup> Das BLV erlässt Vorschriften technischer Art über die Anerkennung von Laboratorien, die Methoden zur Diagnostik von Tierseuchen und die Berichterstattung der anerkannten Laboratorien an das BLV.
 
 [^312-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^312-2]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
-[^312-3]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^312-2]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
+[^312-3]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^312-4]: Fassung gemäss Ziff. I der V vom 25. April 2018, in Kraft seit 1. Juni 2018 ([AS 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
 [^312-5]: Fassung gemäss Ziff. I der V vom 6. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2024 790](https://fedlex.data.admin.ch/eli/oc/2024/790)).
 
@@ -7233,7 +7241,7 @@ Das BLV kann die Anerkennung widerrufen, wenn:
 
 [^312b-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 [^312b-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
-[^312b-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
+[^312b-3]: [SR 814.912](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9624)
 
 #### Art. 312c
 
@@ -7280,7 +7288,7 @@ Zu den Untersuchungen, die von seuchenpolizeilichen Organen angeordnet werden, m
 Die Gebühren für Dienstleistungen des BLV, wie Prüfungen, Untersuchungen, Bewilligungen und Kontrollen an der Zoll- und Landesgrenze oder im Landesinnern, richten sich nach der Gebührenverordnung BLV vom 30. Oktober 1985[^313-2].
 
 [^313-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^313-2]: [SR 916.472](https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727)
+[^313-2]: [SR 916.472](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10942)
 
 ## 5. Titel: Schlussbestimmungen
 
