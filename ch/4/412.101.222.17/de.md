@@ -3,18 +3,18 @@ sr: "412.101.222.17"
 title: Verordnung des SBFI vom 19. Dezember 2014 über die berufliche Grundbildung Uhrmacherin Produktion/Uhrmacher Produktion mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/83"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2014-12-19
 in_force: 2015-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2015-83-20240401-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/83/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2015-83-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/83/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Uhrmacherin Produktion/Uhrmacher Produktion mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 19. Dezember 2014 (Stand am 1. April 2024)
+vom 19. Dezember 2014 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>49207</td><td>Uhrmacherin Produktion EFZ/Uhrmacher Produktion EFZ Horlogère de production CFC/horloger de production CFC Orologiaia di produzione AFC/Orologiaio di produzione AFC</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:[^ingress-5]
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I 161 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand, Dauer und Ausbildungsform
@@ -157,7 +157,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^6-1]: Fassung gemäss Ziff. II 161 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^6-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^6-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -188,7 +188,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Geringfügige Abweichungen von der vorgegebenen Anzahl der Lektionen pro Lehrjahr innerhalb eines Handlungskompetenzbereichs sind in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^8-2] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^8-2] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^8-3].
 
 <sup>4</sup> Unterrichtssprache ist in der Regel die Landessprache des Schulortes.
 
@@ -197,7 +197,8 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 <sup>6</sup> Die Kantone können andere Unterrichtssprachen zulassen.
 
 [^8-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
-[^8-2]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^8-2]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^8-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 9
 
@@ -387,13 +388,14 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 </table>
 
 - b.[^20-2] Berufskenntnisse, im Umfang von 3 Stunden; dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung schriftlich geprüft; er umfasst alle Handlungskompetenzbereiche.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^20-3] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^20-3] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^20-4].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^20-1]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35), [555](https://fedlex.data.admin.ch/eli/oc/2021/555)).
 [^20-2]: Fassung gemäss Ziff. I der V des SBFI vom 22. Dez. 2020, in Kraft seit 1. Jan. 2022 ([AS 2021 35](https://fedlex.data.admin.ch/eli/oc/2021/35)).
-[^20-3]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^20-3]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^20-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 21
 
@@ -489,9 +491,10 @@ Die Gesamtnote ist das auf eine Dezimalstelle gerundete Mittel aus der Summe der
 - c. die Erfahrungsnote des Abschlussmoduls: 20 %;
 - d. die Allgemeinbildung: 20 %.
 
-<sup>5</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^23-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>5</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^23-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^23-2].
 
-[^23-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^23-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^23-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 24
 
