@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'accès au réseau ferroviaire (OARF
 short: OARF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: fr
-version: 2025-02-19
+version: 2026-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250219/fr/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250219-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-142-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/fr"
 
 (OARF)
 
-du 25 novembre 1998 (État le 19 février 2025)
+du 25 novembre 1998 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 9*a*, al. 3 et 6, 9*b*, al. 4, 9*c*, al. 4, et 97 de la loi fédéra
 
 arrête:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 
 ## Section 1 Objet et champ d’application
@@ -52,7 +52,7 @@ Il n’y a pas lieu d’accorder l’accès au réseau sur:
 
 <sup>4</sup> Les dispositions de la section 6 sur les prix des sillons s’appliquent également aux tronçons qui font l’objet d’une convention sur les prestations conclue conformément à l’art. 51 LCdF entre la Confédération et le gestionnaire d’infrastructure, ou d’une convention d’offre conclue conformément à l’art. 21 de l’ordonnance du 11 novembre 2009 sur l’indemnisation du trafic régional de voyageurs[^1-1] entre la Confédération et l’entreprise de transport ferroviaire.[^1-2]
 
-[^1-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^1-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^1-2]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 2
@@ -347,7 +347,7 @@ Si la limitation de capacité dure au moins une année d’horaire entière, le 
 [^12-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^12-4]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^12-5]: Règlement (UE) n<sup>o</sup> 913/2010 du Parlement européen et du Conseil du 22 septembre 2010 relatif au réseau ferroviaire européen pour un fret compétitif, JO L 276 du 20.10.2010, p. 22.
-[^12-6]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12-6]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 12a
 
@@ -361,7 +361,7 @@ Si la limitation de capacité dure au moins une année d’horaire entière, le 
 
 <sup>4</sup> Lorsqu’une ligne est surchargée, le service d’attribution des sillons recherche les raisons de la surcharge avec la collaboration du gestionnaire d’infrastructure concerné moyennant une analyse des capacités et expose dans celle-ci les mesures à court et à moyen terme propres à y remédier. Il publie ladite analyse dans un délai de trois mois après que la ligne a été déclarée surchargée. Il peut déclarer obligatoires pour les utilisateurs les mesures exposées dans l’analyse de capacités.[^12a-4]
 
-<sup>5</sup> et <sup>6</sup> …[^12a-5]
+<sup>5 et <sup>6</sup></sup> …[^12a-5]
 
 [^12a-1]: Introduit par le ch. I de l’O du 16 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
 [^12a-2]: Nouvelle expression selon le ch. I 4 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
@@ -725,7 +725,7 @@ L’autorité concédante fixe de la manière suivante la contribution de couver
 [^20a-1]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5813](https://fedlex.data.admin.ch/eli/oc/2009/701)). Nouvelle teneur selon le ch. I de l’O du 31 août 2011, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
 [^20a-2]: Nouvelle teneur selon le ch. I de l’O du 5 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 [^20a-3]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
-[^20a-4]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^20a-4]: [RS 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 [^20a-5]: Introduit par le ch. I de l’O du 5 sept. 2018 ([RO 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)). Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^20a-6]: Introduit par le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
@@ -764,8 +764,8 @@ Le gestionnaire d’infrastructure définit et publie, de manière non discrimin
 Il définit et publie, de manière non discriminatoire et dans le respect des principes visés à l’art. 19, les prix des prestations complémentaires suivantes:
 
 - a. approvisionnement stationnaire des véhicules en eau, en air comprimé et en électricité;
-- b. mise à disposition de voies de circulation destinées au triage;
-- c. triage dans les gares de triage;
+- b.[^22-2] mise à disposition de voies de circulation destinées au triage ne concernant pas le transport de marchandises;
+- c.[^22-3] triage dans les gares de triage ne concernant pas le transport de marchandises;
 - d. mise à disposition d’un tronçon en dehors des heures d’exploitation habituelles;
 - e. surcroît de travail pour les commandes de sillons passées après 17 heures pour le jour suivant (art. 11, al. 3, let. a);
 - f. surcroît de travail pour la modification de sillons déjà attribués;
@@ -783,6 +783,8 @@ Il définit de manière non discriminatoire les prix des prestations complément
 <sup>4</sup> Les prestations du service des manœuvres visées à l’al. 3, let. b, peuvent être proposées en tant que services par des entreprises autres que le gestionnaire d’infrastructure.
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O du 20 déc. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2025 ([RO 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^22-2]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
+[^22-3]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 23
 
@@ -824,7 +826,7 @@ Les prestations de service peuvent aussi être achetées à des prix librement n
 <sup>3</sup> Elle assume les tâches énumérées à l’art. 20 du règlement (UE) n<sup>o</sup> 913/2010[^25-3]. Elle échange les informations et les données requises avec les autres organismes de contrôle compétents.
 
 [^25-1]: Nouvelle teneur selon le ch. I 4 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^25-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^25-2]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^25-3]: Règlement (UE) n<sup>o</sup> 913/2010 du Parlement européen et du Conseil du 22 septembre 2010 relatif au réseau ferroviaire européen pour un fret compétitif, version du JO L 276 du 20.10.2010, p. 22.
 
 #### Art. 26
@@ -865,7 +867,7 @@ Les prestations de service peuvent aussi être achetées à des prix librement n
 
 <sup>2</sup> Les entreprises de transport concessionnaires dont les véhicules circulaient sur des voies étrangères avant l’entrée en vigueur de la présente ordonnance verront leurs demandes d’autorisation d’accès au réseau être traitées comme des demandes de renouvellement de cette autorisation. L’OFT accordera un délai de 6 à 24 mois pour les adaptations nécessaires qui résultent du nouveau droit. Aucun certificat de sécurité n’est nécessaire pendant ce délai.
 
-[^29-1]: [[RO 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443), [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)art. 28 ch. 1. [RO 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 let. a]. Voir actuellement l’O du 14 oct. 2015 sur les concessions, la planification et le financement de l’infrastructure ferroviaire ([RS 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
+[^29-1]: [[RO 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443), [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)art. 28 ch. 1. [RO 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 let. a]. Voir actuellement l’O du 14 oct. 2015 sur les concessions, la planification et le financement de l’infrastructure ferroviaire ([RS 742.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8733)).
 
 #### Art. 29a
 

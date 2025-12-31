@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 concernente l'accesso alla rete ferroviar
 short: OARF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: it
-version: 2025-02-19
+version: 2026-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250219/it/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250219-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1999-142-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/it"
 
 (OARF)
 
-del 25 novembre 1998 (Stato 19 febbraio 2025)
+del 25 novembre 1998 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 9*a* capoversi 3 e 6, 9*b* capoverso 4, 9*c* capoverso 4 e 97
 
 ordina
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 
 ## Sezione 1: Oggetto e campo d’applicazione
@@ -50,7 +50,7 @@ L’accesso alla rete non è obbligatoriamente accordato a:
 
 <sup>4</sup> Le disposizioni di cui alla sezione 6 sui prezzi delle tracce si applicano anche alle tratte per le quali la Confederazione ha concluso una convenzione sulle prestazioni secondo l’articolo 51 Lferr con il gestore dell’infrastruttura o una convenzione sull’offerta secondo l’articolo 21 dell’ordinanza dell’11 novembre 2009[^1-1] sulle indennità per il traffico regionale viaggiatori con l’impresa di trasporto ferroviario.[^1-2]
 
-[^1-1]: [RS 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^1-1]: [RS 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^1-2]: Introdotto dalla cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 2
@@ -337,7 +337,7 @@ Se la limitazione della capacità dura almeno un intero anno d’orario, il gest
 [^12-4]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^12-5]: Nuova espressione giusta la cifra I n. 4 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Di detta mod. è stato tenuto conto unicamente nelle disp. menzionate nella RU.
 [^12-6]: Regolamento (UE) n. 913/2010 del Parlamento europeo e del Consiglio, del 22 settembre 2010, relativo alla rete ferroviaria europea per un trasporto merci competitivo, GU L 276 del 20.10.2010, pag. 22.
-[^12-7]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12-7]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 12a
 
@@ -351,7 +351,7 @@ Se la limitazione della capacità dura almeno un intero anno d’orario, il gest
 
 <sup>4</sup> In caso di saturazione di una tratta, il Servizio di assegnazione delle tracce esegue, con il coinvolgimento del gestore dell’infrastruttura interessato, un’analisi della capacità nella quale stabilisce le cause della saturazione e presenta misure a breve e medio termine per porvi rimedio. Pubblica questa analisi della capacità entro tre mesi dal giorno in cui la tratta è stata dichiarata saturata. Può dichiarare vincolanti per gli utenti le misure presentate nell’analisi della capacità.[^12a-3]
 
-<sup>5</sup> e <sup>6</sup> ...[^12a-4]
+<sup>5 e <sup>6</sup></sup> ...[^12a-4]
 
 [^12a-1]: Introdotto dalla cifra I dell’O del 16 giu. 2003, in vigore dal 1° gen. 2004 ([RU 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
 [^12a-2]: Abrogato dalla cifra I n. 4 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, con effetto dal 1° gen. 2021 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
@@ -715,7 +715,7 @@ Nel traffico viaggiatori concessionario, il contributo di copertura è fissato d
 [^20a-1]: Introdotto dalla cifra I dell’O del 4 nov. 2009 ([RU 2009 5813](https://fedlex.data.admin.ch/eli/oc/2009/701)). Nuovo testo giusta la cifra I dell’O del 31 ago. 2011, in vigore dal 1° gen. 2013 ([RU 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
 [^20a-2]: Nuovo testo giusta la cifra I dell’O del 5 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 [^20a-3]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
-[^20a-4]: [RS [742.141.1](https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/de)](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^20a-4]: [RS [742.141.1](https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/de)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 [^20a-5]: Introdotto dalla cifra I dell’O del 5 set. 2018 ([RU 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)). Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^20a-6]: Introdotto dalla cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46))
 
@@ -754,8 +754,8 @@ I gestori dell’infrastruttura fissano i prezzi delle seguenti prestazioni supp
 I gestori dell’infrastruttura fissano i prezzi delle seguenti prestazioni supplementari, senza discriminazioni e secondo i principi di cui all’articolo 19, e li pubblicano:
 
 - a. approvvigionamento stazionario di veicoli in acqua, aria compressa ed energia elettrica;
-- b. disposizione dei percorsi di manovra;
-- c. manovre in stazioni di smistamento;
+- b.[^22-2] disposizione di percorsi di manovra che non concernono il traffico merci;
+- c.[^22-3] manovre in stazioni di smistamento che non concernono il traffico merci;
 - d. liberazione di una tratta al di fuori delle ore d’esercizio abituali;
 - e. onere supplementare in caso di ordinazioni di tracce avvenute dopo le ore 17 del giorno precedente (art. 11 cpv. 3 lett. a);
 - f. onere supplementare in caso di modifiche di tracce già attribuite;
@@ -773,6 +773,8 @@ I gestori dell’infrastruttura fissano i prezzi delle seguenti prestazioni supp
 <sup>4</sup> Le prestazioni del servizio manovra di cui al capoverso 3 lettera b possono essere offerte come prestazioni di servizio da imprese diverse dai gestori dell’infrastruttura.
 
 [^22-1]: Nuovo testo giusta la cifra I dell’O del 20 dic. 2024, in vigore dal 1° feb. 2025 ([RU 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^22-2]: Nuovo testo giusta l’all. cifra II n. 4 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
+[^22-3]: Nuovo testo giusta l’all. cifra II n. 4 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 23
 
@@ -814,7 +816,7 @@ L’impresa di trasporto ferroviario può acquistare le prestazioni di servizio 
 <sup>3</sup> Assolve i compiti di cui all’articolo 20 del regolamento (UE) n. 913/2010[^25-3]. Scambia le informazioni e i dati necessari con gli altri organismi di regolazione competenti.
 
 [^25-1]: Nuovo testo giusta la cifra I n. 4 dell’O del 13 mag. 2020 sull’organizzazione dell’infrastruttura ferroviaria, in vigore dal 1° lug. 2020 ([RU 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^25-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^25-2]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^25-3]: Regolamento (UE) n. 913/2010 del Parlamento europeo e del Consiglio, del 22 settembre 2010, relativo alla rete ferroviaria europea per un trasporto merci competitivo, GU L 276 del 20.10.2010, pag. 22.
 
 #### Art. 26
@@ -862,7 +864,7 @@ L’impresa di trasporto ferroviario può acquistare le prestazioni di servizio 
 
 <sup>2</sup> Per le imprese di trasporto che prima dell’entrata in vigore della presente ordinanza impiegavano i propri veicoli su tratte estere, la domanda di rilascio di un’autorizzazione per l’accesso alla rete è trattata come la domanda di rinnovo di detta autorizzazione. L’UFT accorda un termine da sei a 24 mesi per i necessari adeguamenti risultanti dal nuovo diritto. Durante questo termine non è ancora necessario un certificato di sicurezza.
 
-[^29-1]: [[RU 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443), [2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747); [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)art. 28 n. 1. [RU 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. a]. Vedi ora l’O del 14 ott. 2015 sulle concessioni, sulla pianificazione e sul finanziamento dell’infrastruttura ferroviaria ([RS 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
+[^29-1]: [[RU 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443), [2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747); [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)art. 28 n. 1. [RU 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)art. 26 lett. a]. Vedi ora l’O del 14 ott. 2015 sulle concessioni, sulla pianificazione e sul finanziamento dell’infrastruttura ferroviaria ([RS 742.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8733)).
 
 #### Art. 29a
 

@@ -4,11 +4,11 @@ title: Eisenbahn-Netzzugangsverordnung vom 25. November 1998 (NZV)
 short: NZV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/142"
 language: de
-version: 2025-02-19
+version: 2026-01-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20250219/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20250219-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/142/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1999-142-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/142/20250219/de"
 
 (NZV)
 
-vom 25. November 1998 (Stand am 19. Februar 2025)
+vom 25. November 1998 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 9*a* Absätze 3 und 6, 9*b* Absatz 4, 9*c* Absatz 4 un
 
 verordnet:
 
-[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4163](https://fedlex.data.admin.ch/eli/oc/2016/693)).
 
 ## 1. Abschnitt: Gegenstand und Geltungsbereich
@@ -50,7 +50,7 @@ Kein Netzzugang muss gewährt werden auf:
 
 <sup>4</sup> Die Bestimmungen des 6. Abschnittes über die Trassenpreise gelten auch für Strecken, für die der Bund mit der Infrastrukturbetreiberin eine Leistungsvereinbarung nach Artikel 51 EBG oder mit dem Eisenbahnverkehrsunternehmen eine Angebotsvereinbarung nach Artikel 21 der Verordnung vom 11. November 2009[^1-1] über die Abgeltung des regionalen Personenverkehrs abgeschlossen hat.[^1-2]
 
-[^1-1]: [SR 745.16](https://fedlex.data.admin.ch/eli/cc/2024/609)
+[^1-1]: [SR 745.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8889)
 [^1-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
 #### Art. 2
@@ -338,7 +338,7 @@ Dauert die Kapazitätsbeschränkung mindestens ein ganzes Fahrplanjahr, trägt d
 [^12-4]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^12-5]: Ausdruck gemäss Ziff. I 4 Abs. 1 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^12-6]: Verordnung (EU) Nr. 913/2010 des Europäischen Parlaments und des Rates vom 22. September 2010 zur Schaffung eines europäischen Schienennetzes für einen wettbewerbsfähigen Güterverkehr, ABl. L 276 vom 20.10.2010, S. 22.
-[^12-7]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^12-7]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 12a
 
@@ -352,7 +352,7 @@ Dauert die Kapazitätsbeschränkung mindestens ein ganzes Fahrplanjahr, trägt d
 
 <sup>4</sup> Bei einer Streckenüberlastung ermittelt die Trassenvergabestelle unter Einbezug der betroffenen Infrastrukturbetreiberin die Gründe in einer Kapazitätsanalyse und legt darin kurz- und mittelfristige Massnahmen zur Beseitigung der Überlastung dar. Sie veröffentlicht die Kapazitätsanalyse innerhalb von drei Monaten, nachdem die Strecke für überlastet erklärt worden ist. Sie kann die in der Kapazitätsanalyse dargelegten Massnahmen für die Nutzerinnen als verbindlich erklären.[^12a-3]
 
-<sup>5</sup> und <sup>6</sup> …[^12a-4]
+<sup>5 und <sup>6</sup></sup> …[^12a-4]
 
 [^12a-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 2479](https://fedlex.data.admin.ch/eli/oc/2003/368)).
 [^12a-2]: Aufgehoben durch Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
@@ -715,7 +715,7 @@ Der Deckungsbeitrag im konzessionierten Personenverkehr wird von der Konzessions
 [^20a-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009 ([AS 2009 5813](https://fedlex.data.admin.ch/eli/oc/2009/701)). Fassung gemäss Ziff. I der V vom 31. Aug. 2011, in Kraft seit 1. Jan. 2013 ([AS 2011 4331](https://fedlex.data.admin.ch/eli/oc/2011/591)).
 [^20a-2]: Fassung gemäss Ziff. I der V vom 5. Sept 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)).
 [^20a-3]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
-[^20a-4]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^20a-4]: [SR 742.141.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8749)
 [^20a-5]: Eingefügt durch Ziff. I der V vom 5. Sept 2018 ([AS 2018 3277](https://fedlex.data.admin.ch/eli/oc/2018/529)). Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 [^20a-6]: Eingefügt durch Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
 
@@ -754,8 +754,8 @@ Die Infrastrukturbetreiberin legt die Preise für folgende Zusatzleistungen in F
 Sie legt die Preise für folgende Zusatzleistungen diskriminierungsfrei und gemäss den Grundsätzen nach Artikel 19 fest und publiziert sie:
 
 - a. stationäre Versorgung von Fahrzeugen mit Wasser, Druckluft und Strom;
-- b. Einstellen von Rangierfahrstrassen;
-- c. Rangieren in Rangierbahnhöfen;
+- b.[^22-2] Einstellen von Rangierfahrstrassen, das nicht den Güterverkehr betrifft;
+- c.[^22-3] Rangieren in Rangierbahnhöfen, das nicht den Güterverkehr betrifft;
 - d. Offenhaltung einer Strecke ausserhalb der üblichen Betriebszeiten;
 - e. Zusatzaufwand bei Trassenbestellungen, die nach 17 Uhr des Vortages erfolgen (Art. 11 Abs. 3 Bst. a);
 - f. Zusatzaufwand bei nachträglichen Änderungen an bereits zugeteilten Trassen;
@@ -773,6 +773,8 @@ Sie legt die Preise für folgende Zusatzleistungen, soweit diese mit der vorhand
 <sup>4</sup> Rangierdienstleistungen nach Absatz 3 Buchstabe b können von anderen Unternehmen als der Infrastrukturbetreiberin als Serviceleistungen angeboten werden.
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 20. Dez. 2024, in Kraft seit 1. Febr. 2025 ([AS 2025 46](https://fedlex.data.admin.ch/eli/oc/2025/46)).
+[^22-2]: Fassung gemäss Anhang Ziff. II 4 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
+[^22-3]: Fassung gemäss Anhang Ziff. II 4 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 23
 
@@ -814,7 +816,7 @@ Die Serviceleistungen können von den Eisenbahnverkehrsunternehmen zu frei ausha
 <sup>3</sup> Sie nimmt die Aufgaben nach Artikel 20 der Verordnung (EU) Nr. 913/2010[^25-3] wahr. Sie tauscht die erforderlichen Informationen und Daten mit den anderen zuständigen Regulierungsstellen aus.
 
 [^25-1]: Fassung gemäss Ziff. I 4 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
-[^25-2]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^25-2]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^25-3]: Verordnung (EU) Nr. 913/2010 des Europäischen Parlaments und des Rates vom 22. September 2010 zur Schaffung eines europäischen Schienennetzes für einen wettbewerbsfähigen Güterverkehr, Fassung gemäss ABl. L 276 vom 20.10.2010, S. 22.
 
 #### Art. 26
@@ -862,7 +864,7 @@ Die Serviceleistungen können von den Eisenbahnverkehrsunternehmen zu frei ausha
 
 <sup>2</sup> Für Transportunternehmen, die vor Inkrafttreten dieser Verordnung ihre Fahrzeuge auf fremden Strecken einsetzten, wird das Gesuch um Erteilung einer Netzzugangsbewilligung als Gesuch um Erneuerung dieser Bewilligung behandelt. Für notwendige Anpassungen, welche sich aus dem neuen Recht ergeben, gewährt das BAV den Unternehmen eine Frist von 6–24 Monaten. Während dieser Frist ist noch keine Sicherheitsbescheinigung erforderlich.
 
-[^29-1]: [[AS 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443)[2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747), [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)Art. 28 Ziff. 1. [AS 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. a]. Siehe heute die V vom 14. Oktober 2015 über die Konzessionierung, Planung und Finanzierung der Bahninfrastruktur ([SR 742.120](https://fedlex.data.admin.ch/eli/cc/2015/697)).
+[^29-1]: [[AS 1996 443](https://fedlex.data.admin.ch/eli/oc/1996/443_443_443)[2747](https://fedlex.data.admin.ch/eli/oc/1996/2747_2747_2747), [1999 1070](https://fedlex.data.admin.ch/eli/oc/1999/142)Art. 28 Ziff. 1. [AS 2009 5981](https://fedlex.data.admin.ch/eli/oc/2009/732)Art. 26 Bst. a]. Siehe heute die V vom 14. Oktober 2015 über die Konzessionierung, Planung und Finanzierung der Bahninfrastruktur ([SR 742.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8733)).
 
 #### Art. 29a
 
