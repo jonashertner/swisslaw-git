@@ -4,11 +4,11 @@ title: "Loi du 21 juin 1996 sur l'imposition des huiles minérales (Limpmin)"
 short: Limpmin
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/fr"
 
 (Limpmin)
 
-du 21 juin 1996 (État le 1<sup>er</sup> janvier 2025)
+du 21 juin 1996 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -384,24 +384,27 @@ Est remboursé l’impôt prélevé:
 - a. sur les vapeurs d’hydrocarbures qui proviennent du transbordement de carburants et qui sont réacheminées vers un entrepôt agréé en vue de leur récupération sous forme liquide;
 - b. sur les marchandises qui sont réacheminées vers un entrepôt agréé si, dans un délai de 30 jours à compter de la date d’exigibilité de l’impôt, l’entrepositaire présente une demande de remboursement.
 
-<sup>1bis</sup> L’impôt prélevé sur les carburants qui sont utilisés par les entreprises de transport concessionnaires de la Confédération est remboursé totalement ou en partie.[^18-1]
+<sup>1bis</sup> À partir du 1<sup>er</sup> janvier 2026, le remboursement de l’impôt est supprimé pour les véhicules utilisés par les entreprises de transport de trafic local concessionnaires de la Confédération.[^18-1]
 
-<sup>1ter</sup> La part de l’impôt prélevé sur les carburants utilisé pour les dameuses de pistes qui est destinée à des tâches et dépenses liées à la circulation routière est remboursée.[^18-2]
+<sup>1ter</sup> En dehors du trafic local, l’impôt ne peut être remboursé à partir du 1<sup>er</sup> janvier 2030 aux entreprises de transport concessionnaires de la Confédération que si lesdites entreprises démontrent qu’il n’est pas possible, pour des raisons liées à la topographie, de remplacer le matériel roulant utilisé pour les lignes concernées par des bus équipés d’un autre système de propulsion recourant à des sources d’énergie renouvelables et neutres du point de vue du CO<sub>2</sub>.[^18-2]
 
-<sup>2</sup> La surtaxe sur les huiles minérales est remboursée lorsque le carburant a été utilisé dans l’agriculture, la sylviculture, l’extraction de pierre de taille naturelle, le transport de voyageurs par des entreprises de navigation concessionnaires de la Confédération ou la pêche professionnelle.[^18-3]
+<sup>1quater</sup> La part de l’impôt prélevé sur les carburants utilisé pour les dameuses de pistes qui est destinée à des tâches et dépenses liées à la circulation routière est remboursée.[^18-3]
+
+<sup>2</sup> La surtaxe sur les huiles minérales est remboursée lorsque le carburant a été utilisé dans l’agriculture, la sylviculture, l’extraction de pierre de taille naturelle, le transport de voyageurs par des entreprises de navigation concessionnaires de la Confédération ou la pêche professionnelle.[^18-4]
 
 <sup>3</sup> Le Département fédéral des finances peut autoriser le remboursement de l’impôt lorsque la preuve de la nécessité économique est fournie et que la marchandise a été affectée à un usage d’intérêt général.
 
-<sup>3bis</sup> …[^18-4]
+<sup>3bis</sup> …[^18-5]
 
 <sup>4</sup> Le Conseil fédéral arrête la procédure de remboursement. Les montants insignifiants ne sont pas remboursés.
 
 <sup>5</sup> Il n’est pas versé d’intérêts sur les remboursements.
 
-[^18-1]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-2]: Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^18-4]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogé par l’annexe ch. 2 de la LF du 15 mars 2024, avec effet du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-1]: Introduit par le ch. I de la LF du 18 mars 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-2]: Introduit par l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-3]: Anciennement al. 1<sup>ter</sup>. Introduit par le ch. I de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 2153](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^18-4]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 15 mars 2024, en vigueur du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-5]: Introduit par le ch. I de la LF du 21 mars 2014 ([RO 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5211](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogé par l’annexe ch. 2 de la LF du 15 mars 2024, avec effet du 1<sup>er</sup> janv. 2025 au 31 déc. 2030 ([RO 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Section 5 Perception de l’impôt
 

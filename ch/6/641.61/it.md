@@ -4,11 +4,11 @@ title: "Legge federale del 21 giugno 1996 sull'imposizione degli oli minerali (L
 short: LIOm
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/it"
 
 (LIOm)
 
-del 21 giugno 1996 (Stato 1° gennaio 2025)
+del 21 giugno 1996 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -384,24 +384,27 @@ Il Consiglio federale può accordare l’esenzione totale o parziale dall’impo
 - a. sugli idrocarburi gassosi provenienti dal travaso di carburante, convogliati in un deposito autorizzato al fine di recuperarli allo stato liquido;
 - b. sulle merci tassate, nuovamente immesse in un deposito autorizzato e per le quali, entro 30 giorni dalla data d’esigibilità dell’imposta, il depositario presenta una domanda di restituzione.
 
-<sup>1bis</sup> L’imposta riscossa sui carburanti utilizzati da imprese di trasporto concessionarie della Confederazione è restituita integralmente o in parte.[^18-1]
+<sup>1bis</sup> Dal 1° gennaio 2026 la restituzione dell’imposta decade per i veicoli impiegati nel traffico locale dalle imprese di trasporto concessionarie della Confederazione.[^18-1]
 
-<sup>1ter</sup> La parte d’imposta riscossa sul carburante utilizzato dai veicoli adibiti alla preparazione di piste e destinata a compiti e spese connessi alla circolazione stradale è restituita.[^18-2]
+<sup>1ter</sup> Al di fuori del traffico locale, l’imposta può essere restituita dal 1° gennaio 2030 soltanto alle imprese di trasporto concessionarie della Confederazione che dimostrano l’impossibilità, per ragioni topografiche, di impiegare sulle linee interessate autobus con un sistema di propulsione a energie rinnovabili e a impatto zero sul CO<sub>2</sub>.[^18-2]
 
-<sup>2</sup> Il supplemento fiscale sugli oli minerali è restituito se il carburante è stato utilizzato per l’agricoltura, la silvicoltura, l’estrazione di pietra da taglio naturale, il trasporto di viaggiatori da parte di imprese di navigazione concessionarie della Confederazione o la pesca professionale.[^18-3]
+<sup>1</sup> <sup>quater</sup> La parte d’imposta riscossa sul carburante utilizzato dai veicoli adibiti alla preparazione di piste e destinata a compiti e spese connessi alla circolazione stradale è restituita.[^18-3]
+
+<sup>2</sup> Il supplemento fiscale sugli oli minerali è restituito se il carburante è stato utilizzato per l’agricoltura, la silvicoltura, l’estrazione di pietra da taglio naturale, il trasporto di viaggiatori da parte di imprese di navigazione concessionarie della Confederazione o la pesca professionale.[^18-4]
 
 <sup>3</sup> Il Dipartimento federale delle finanze può autorizzare la restituzione dell’imposta se è comprovata una necessità economica e se la merce è stata utilizzata per uno scopo d’interesse generale.
 
-<sup>3bis</sup> ...[^18-4]
+<sup>3bis</sup> ...[^18-5]
 
 <sup>4</sup> Il Consiglio federale disciplina la procedura di restituzione. Gli importi di poco conto non sono restituiti.
 
 <sup>5</sup> Sulle restituzioni non è pagato alcun interesse.
 
-[^18-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-3]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^18-4]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogato dall’all. n. 2 della LF del 15 mar. 2024, con effetto dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-1]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)). Nuovo testo giusta l'all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2026 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)).
+[^18-2]: Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)). Nuovo testo giusta l'all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2026 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376)).
+[^18-3]: Originario cpv. 1<sup>ter</sup>. Introdotto dal n. I della LF del 18 mar. 2016, in vigore dal 1° ott. 2016 ([RU 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [FF 2015 1951](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^18-4]: Nuovo testo giusta l’all. n. 2 della LF del 15 mar. 2024, in vigore dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-5]: Introdotto dal n. I della LF del 21 mar. 2014 ([RU 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [FF 2013 4963](https://fedlex.data.admin.ch/eli/fga/2013/1036)[5007](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Abrogato dall’all. n. 2 della LF del 15 mar. 2024, con effetto dal 1° gen. 2025 al 31 dic. 2030 ([RU 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [FF 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## Sezione 5: Riscossione dell’imposta
 

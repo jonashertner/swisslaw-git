@@ -4,11 +4,11 @@ title: Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG)
 short: MinöStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-06-21
 in_force: 1997-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/3371_3371_3371/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1996-3371_3371_3371-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/20250101/de"
 
 (MinöStG)
 
-vom 21. Juni 1996 (Stand am 1. Januar 2025)
+vom 21. Juni 1996 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -384,24 +384,27 @@ Die Steuer wird rückerstattet:
 - a. für gasförmige Kohlenwasserstoffe aus dem Treibstoffumschlag, die zwecks Wiedergewinnung flüssiger Treibstoffe in ein zugelassenes Lager rücküberführt werden;
 - b. für versteuerte Waren, die in ein zugelassenes Lager rücküberführt werden, wenn der Lagerinhaber innerhalb von 30 Tagen nach Fälligkeit der Steuer einen Rückerstattungsantrag stellt.
 
-<sup>1bis</sup> Die Steuer wird ganz oder teilweise rückerstattet für Treibstoffe, die durch die vom Bund konzessionierten Transportunternehmungen verwendet werden.[^18-1]
+<sup>1bis</sup> Ab dem 1. Januar 2026 entfällt für Fahrzeuge der vom Bund konzessionierten Transportunternehmen im Ortsverkehr die Rückerstattung der Steuer.[^18-1]
 
-<sup>1ter</sup> Der Steueranteil, der für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr bestimmt ist, wird rückerstattet für den Treibstoff von Pistenfahrzeugen.[^18-2]
+<sup>1ter</sup> Ausserhalb des Ortsverkehrs ist die Rückerstattung der Steuer für die vom Bund konzessionierten Transportunternehmen ab dem 1. Januar 2030 nur insoweit möglich, als die konzessionierten Transportunternehmen nachweisen, dass für die entsprechenden Linien eine Umrüstung auf Busse mit CO<sub>2</sub>-neutraler, erneuerbarer Antriebstechnologie aus topografischen Gründen nicht möglich ist.[^18-2]
 
-<sup>2</sup> Der Mineralölsteuerzuschlag wird rückerstattet, wenn der Treibstoff für die Land- oder Forstwirtschaft, den Naturwerkstein-Abbau, die Personenbeförderung durch vom Bund konzessionierte Schifffahrtsunternehmen oder die Berufsfischerei verwendet wird.[^18-3]
+<sup>1quater</sup> Der Steueranteil, der für Aufgaben und Aufwendungen im Zusammenhang mit dem Strassenverkehr bestimmt ist, wird rückerstattet für den Treibstoff von Pistenfahrzeugen.[^18-3]
+
+<sup>2</sup> Der Mineralölsteuerzuschlag wird rückerstattet, wenn der Treibstoff für die Land- oder Forstwirtschaft, den Naturwerkstein-Abbau, die Personenbeförderung durch vom Bund konzessionierte Schifffahrtsunternehmen oder die Berufsfischerei verwendet wird.[^18-4]
 
 <sup>3</sup> Das Eidgenössische Finanzdepartement kann die Rückerstattung der Steuer zulassen, wenn dafür eine wirtschaftliche Notwendigkeit nachgewiesen wird und die Ware zu einem im allgemeinen Interesse liegenden Zweck verwendet worden ist.
 
-<sup>3bis</sup> …[^18-4]
+<sup>3bis</sup> …[^18-5]
 
 <sup>4</sup> Der Bundesrat regelt das Rückerstattungsverfahren. Geringfügige Beträge werden nicht rückerstattet.
 
 <sup>5</sup> Auf Rückerstattungen wird kein Zins bezahlt.
 
-[^18-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-2]: Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
-[^18-3]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
-[^18-4]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Aufgehoben durch Anhang Ziff. 2 des BG vom 15. März 2024, mit Wirkung vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-1]: Eingefügt durch Ziff. I des BG vom 18. März 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)). Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2026 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-2]: Eingefügt durch Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft seit 1. Jan. 2026 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-3]: Ursprünglich: Abs. 1<sup>ter</sup>. Eingefügt durch Ziff. I des BG vom 18. März 2016, in Kraft seit 1. Okt. 2016 ([AS 2016 2993](https://fedlex.data.admin.ch/eli/oc/2016/503); [BBl 2015 2363](https://fedlex.data.admin.ch/eli/fga/2015/482)).
+[^18-4]: Fassung gemäss Anhang Ziff. 2 des BG vom 15. März 2024, in Kraft vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
+[^18-5]: Eingefügt durch Ziff. I des BG vom 21. März 2014 ([AS 2016 2661](https://fedlex.data.admin.ch/eli/oc/2016/425); [BBl 2013 5737](https://fedlex.data.admin.ch/eli/fga/2013/1036), [5783](https://fedlex.data.admin.ch/eli/fga/2013/1038)). Aufgehoben durch Anhang Ziff. 2 des BG vom 15. März 2024, mit Wirkung vom 1. Jan. 2025 bis zum 31. Dez. 2030 ([AS 2024 376](https://fedlex.data.admin.ch/eli/oc/2024/376); [BBl 2022 2651](https://fedlex.data.admin.ch/eli/fga/2022/2651)).
 
 ## 5. Abschnitt: Steuererhebung
 
