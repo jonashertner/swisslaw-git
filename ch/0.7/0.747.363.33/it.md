@@ -3,11 +3,11 @@ sr: "0.747.363.33"
 title: "Convenzione internazionale del 1<sup>o</sup> novembre 1974 per la salvaguardia della vita umana in mare"
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/128_128_128"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1974-11-01
 in_force: 1982-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/128_128_128/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1982-128_128_128-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/128_128_128/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiusa a Londra il 1<sup>o</sup> novembre 1974 Approvata dall’Assemblea federale il 9 giugno 1981[^t-1] Ratificata con strumenti scambiati dalla Svizzera il 1<sup>o</sup> ottobre 1981 Entrata in vigore per la Svizzera il 1<sup>o</sup> gennaio 1982
 
-(Stato 1° gennaio 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 1982 125](https://fedlex.data.admin.ch/eli/oc/1982/125_125_125)
 
@@ -32,7 +32,7 @@ Considerato che il miglior mezzo per raggiungere tale fine è quello di conclude
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.363.32](https://fedlex.data.admin.ch/eli/cc/1966/1016_1045_1033)
+[^ingress-1]: [RS 0.747.363.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3096)
 
 #### Art. I
 
@@ -42,7 +42,7 @@ a) I Governi contraenti si impegnano a dare effetto alle disposizioni della pres
 
 b) I Governi contraenti si impegnano a promulgare tutte le leggi, tutti i decreti, ordini e regolamenti ed a prendere tutte le altre disposizioni necessarie per dare alla Convenzione la sua piena ed intera applicazione, al fine di garantire che, dal punto di vista della sicurezza della vita umana, una nave sia idonea al servizio al quale è destinata.
 
-[^I-1]: Questo all. ed i suoi emendamenti non sono più pubblicati nella RU ([RU 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595)[596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
+[^I-1]: Questo all. ed i suoi emendamenti non sono pubblicati nella RU ([RU 1984 256](https://fedlex.data.admin.ch/eli/oc/1984/256_256_256); [1985 1606](https://fedlex.data.admin.ch/eli/oc/1985/1606_1606_1606); [1987 1050](https://fedlex.data.admin.ch/eli/oc/1987/1050_1050_1050); [1990 595](https://fedlex.data.admin.ch/eli/oc/1990/595_595_595)[596](https://fedlex.data.admin.ch/eli/oc/1990/596_596_596); [1993 2513](https://fedlex.data.admin.ch/eli/oc/1993/2513_2513_2513); [1997 463](https://fedlex.data.admin.ch/eli/oc/1997/463_463_463); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 #### Art. II
 
@@ -90,7 +90,7 @@ d) Tutti i punti che non formano oggetto di esplicite disposizioni nella present
 
 b) Tutti gli altri trattati, convenzioni ed accordi relativi alla sicurezza della vita umana in mare o alle questioni connessevi, e che sono attualmente in vigore tra i Governi parti della presente Convenzione, continueranno ad avere il loro pieno ed intero effetto, per la durata che è loro assegnata per quanto concerne:
 
-- i) le navi alle quali non si applichi la presente Convenzione;
+- i) le navi alle quali non si applichi la presente Convenzione,
 - ii) le navi alle quali la presente Convenzione sia applicata per quanto riguarda i punti che non formano oggetto di disposizioni esplicite de11a presente Convenzione;
 
 #### Art. VII
@@ -115,26 +115,26 @@ g) Il Segretario Generale dell’Organizzazione informerà tutti i Governi contr
 
 b) modifiche in seguito ad esame da parte dell’Organizzazione:
 
-- i) qualunque modifica proposta da un Governo contraente viene sottoposta al Segretario Generale dell’Organizzazione che la comunica a tutti i Membri dell’Organizzazione e a tutti i Governi contraenti, almeno sei mesi prima che essa venga esaminata;
-- ii) qualunque modifica proposta e comunicata secondo la precedente procedura viene sottoposta all’esame del Comitato della sicurezza marittima dell’Organizzazione;
-- iii) i Governi contraenti degli Stati membri o non membri dell’Organizzazione, sono autorizzati a partecipare alle deliberazioni del Comitato della Sicurezza marittima per l’esame e l’accettazione delle modifiche;
-- iv) le modifiche vengono adottate alla maggioranza dei due terzi dei Governi contraenti presenti e votanti in seno al Comitato della sicurezza marittima allargato conformemente al comma iii) del presente paragrafo (qui di seguito chiamato «Comitato della sicurezza marittima allargato») a condizione che almeno un terzo dei Governi contraenti sia presente al momento della votazione;
-- v) se le modifiche vengono adottate conformemente al comma iv) del presente paragrafo, esse vengono comunicate dal Segretario Generale dell’Organizzazione a tutti i Governi contraenti per l’accettazione;
-- vi) 1) una modifica ad un articolo della Convenzione o al capitolo I del suo Allegato è considerata adottata quando viene accettata dai due terzi dei Governi contraenti;
+- i) qualunque modifica proposta da un Governo contraente viene sottoposta al Segretario Generale dell’Organizzazione che la comunica a tutti i Membri dell’Organizzazione e a tutti i Governi contraenti, almeno sei mesi prima che essa venga esaminata,
+- ii) qualunque modifica proposta e comunicata secondo la precedente procedura viene sottoposta all’esame del Comitato della sicurezza marittima dell’Organizzazione,
+- iii) i Governi contraenti degli Stati membri o non membri dell’Organizzazione, sono autorizzati a partecipare alle deliberazioni del Comitato della Sicurezza marittima per l’esame e l’accettazione delle modifiche,
+- iv) le modifiche vengono adottate alla maggioranza dei due terzi dei Governi contraenti presenti e votanti in seno al Comitato della sicurezza marittima allargato conformemente al comma iii) del presente paragrafo (qui di seguito chiamato «Comitato della sicurezza marittima allargato») a condizione che almeno un terzo dei Governi contraenti sia presente al momento della votazione,
+- v) se le modifiche vengono adottate conformemente al comma iv) del presente paragrafo, esse vengono comunicate dal Segretario Generale dell’Organizzazione a tutti i Governi contraenti per l’accettazione,
+- vi) 1) una modifica ad un articolo della Convenzione o al capitolo I del suo Allegato è considerata adottata quando viene accettata dai due terzi dei Governi contraenti,
   - 2)
 
     una modifica all’Allegato, fatta eccezione per il capitolo I, viene considerata accettata:
 
-    - aa) alla scadenza di un periodo di due anni dalla data in cui viene comunicata ai Governi contraenti per l’accettazione; o
+    - aa) alla scadenza di un periodo di due anni dalla data in cui viene comunicata ai Governi contraenti per l’accettazione, o
     - bb) alla scadenza di qualsiasi altro periodo, che non potrà tuttavia essere inferiore ad un anno, se viene così stabilito al momento della sua accettazione dalla maggioranza dei due terzi dei Governi contraenti presenti e votanti in seno al Comitato della Sicurezza marittima allargato.
 
-  - Tuttavia, se durante il periodo cosi specificato, più di un terzo dei Governi contraenti o dei Governi contraenti le cui flotte mercantili rappresentano in totale almeno il 50 per cento del tonncllaggio lordo della flotta mondiale delle navi mercantili, notificano al Segretario Generale dell’Organizzazione di sollevare una obiezione contro tale modifica, quest’ultima si ritiene non accettata.
+  - Tuttavia, se durante il periodo cosi specificato, più di un terzo dei Governi contraenti o dei Governi contraenti le cui flotte mercantili rappresentano in totale almeno il 50 per cento del tonncllaggio lordo della flotta mondiale delle navi mercantili, notificano al Segretario Generale dell’Organizzazione di sollevare una obiezione contro tale modifica, quest’ultima si ritiene non accettata,
 
-- vii) 1) una modifica ad un articolo della Convenzione o al Capitolo I del suo Allegato entra in vigore nei confronti dei Governi contraenti che l’hanno accettata sei mesi dopo la data in cui la modifica è considerata accettata, ed entra in vigore per ciascun altro Governo contraente che l’accetta dopo tale data sei mesi dopo l’accettazione da parte di detto Governo;
-  - 2) una modifica all’Allegato, fatta eccezione per il Capitolo I, entra in vigore per i Governi contraenti, ad eccezione di quelli che hanno sollevato una obiezione contro detta modifica in conformità al sotto comma vi) 2) del presente paragrafo e che non hanno ritirato tale obiezione, sei mesi dopo la data in cui la modifica è considerata accettata. Tuttavia, prima della data fissata per l’entrata in vigore di una modifica, i Governi contraenti potranno notificare al Segretario Generale dell’Organizzazione che non daranno effetto alla modifica per un periodo non superiore ad un anno dalla data della sua entrata in vigore, o per un periodo più lungo, se cosi viene deciso dalla maggioranza dei due terzi dei Governi contraenti presenti e votanti in seno al Comitato della sicurezza marittima allargato al momento dell’adozione della modifica.
+- vii) 1) una modifica ad un articolo della Convenzione o al Capitolo I del suo Allegato entra in vigore nei confronti dei Governi contraenti che l’hanno accettata sei mesi dopo la data in cui la modifica è considerata accettata, ed entra in vigore per ciascun altro Governo contraente che l’accetta dopo tale data sei mesi dopo l’accettazione da parte di detto Governo,
+  - 2) una modifica all’Allegato, fatta eccezione per il Capitolo I, entra in vigore per i Governi contraenti, ad eccezione di quelli che hanno sollevato una obiezione contro detta modifica in conformità al sotto comma vi) 2) del presente paragrafo e che non hanno ritirato tale obiezione, sei mesi dopo la data in cui la modifica è considerata accettata. Tuttavia, prima della data fissata per l’entrata in vigore di una modifica, i Governi contraenti potranno notificare al Segretario Generale dell’Organizzazione che non daranno effetto alla modifica per un periodo non superiore ad un anno dalla data della sua entrata in vigore, o per un periodo più lungo, se cosi viene deciso dalla maggioranza dei due terzi dei Governi contraenti presenti e votanti in seno al Comitato della sicurezza marittima allargato al momento dell’adozione della modifica;
 
-- i) su richiesta di un Governo contraente appoggiata da almeno un terzo dei Governi contraenti, l’organizzazione convoca una conferenza dei Governi contraenti per esaminare le modifiche alla presente Convenzione;
-- ii) le modifiche adottate da detta conferenza alla maggioranza dei due terzi dei Governi contraenti presenti votanti vengono comunicate dal Segretario Generale dell’Organizzazione a tutti i Governi contraenti per l’accettazione;
+- i) su richiesta di un Governo contraente appoggiata da almeno un terzo dei Governi contraenti, l’organizzazione convoca una conferenza dei Governi contraenti per esaminare le modifiche alla presente Convenzione,
+- ii) le modifiche adottate da detta conferenza alla maggioranza dei due terzi dei Governi contraenti presenti votanti vengono comunicate dal Segretario Generale dell’Organizzazione a tutti i Governi contraenti per l’accettazione,
 - iii) a meno che la conferenza non decida altrimenti, la modifica è considerata accettata ed entra in vigore secondo le procedure previste rispettivamente ai comma vi) e vii) del paragrafo b) del presente articolo, a condizione che i riferimenti al Comitato della Sicurezza marittima allargato in questi comma vengano considerati come riferimenti alla Conferenza.
 - d) i) Un governo contraente che ha accettato una modifica all’Allegato che è entrato in vigore non è tenuto ad estendere il beneficio della presente Convenzione per quanto riguarda un certificato rilasciato ad una nave battente bandiera di uno Stato il cui Governo abbia, conformemente al sotto comma vii) 2) del paragrafo b) del presente articolo, sollevato e non ritirato una obiezione, ma soltanto nella misura in cui detto certificato si applica a dei punti previsti dalla modifica in questione.
 - ii) Un Governo contraente che ha accettato una modifica all’Allegato che è entrata in vigore deve estendere il beneficio della presente Convenzione per quanto riguarda un certificato rilasciato ad una nave battente bandiera di uno Stato il cui Governo abbia notificato al Segretario Generale dell’Organizzazione, in conformità al sotto comma vii) 2) del paragrafo b) del presente articolo, di non voler dare effetto alla modifica.
@@ -181,7 +181,7 @@ a) La presente Convenzione sarà depositata presso il Segretario Generale dell�
 
 b) Appena la presente Convenzione entrerà in vigore, il Segretario Generale dell’Organizzazione trasmetterà il testo della Convenzione al Segretario Generale dell’Organizzazione degli Stati Uniti per la registrazione e la pubblicazione conformemente all’articolo 102 della Carta delle Nazioni Unite[^XII-1].
 
-[^XII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XIII
 
