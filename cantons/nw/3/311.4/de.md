@@ -4,60 +4,52 @@ number: "311.4"
 title: Gesetz über die Ausbildungsbeiträge
 short: "Stipendiengesetz, StipG"
 language: de
-version: 2020-01-01
-corrected: 2021-09-06
-version_adopted: 2019-09-25
+version: 2026-01-01
+version_adopted: 2025-05-28
 adopted: 2019-09-25
 in_force: 2020-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/311.4"
-pdf: "https://gesetze.nw.ch/api/de/versions/123/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1407/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Ausbildungsbeiträge (Stipendiengesetz, StipG)
+# Gesetz über die Ausbildungsbeiträge
 
-vom 25. September 2019[^t-1]
+(Stipendiengesetz, StipG)
+
+vom 25.09.2019 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 19 und Art. 60 der Kantonsverfassung,
+gestützt auf Art. 19 und Art. 60 Abs. 1 der Kantonsverfassung,
 
 beschliesst:
 
-[^t-1]: A 2019, 1632, 2215; in Kraft seit 1. Januar 2020
-
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-Dieses Gesetz bezweckt durch die Gewährung von Ausbildungsbeiträgen:
+<sup>1</sup> Dieses Gesetz bezweckt durch die Gewährung von Ausbildungsbeiträgen:
 
 - 1\. das Bildungspotenzial besser zu nutzen;
-
 - 2\. die Chancengleichheit zu fördern;
-
 - 3\. den Zugang zur Bildung zu erleichtern;
-
 - 4\. die Existenzsicherung während der Ausbildung zu unterstützen;
-
-- 5\. die freie Wahl der Ausbildung zu gewährleisten.
+- 5\. die freie Wahl der Ausbildung zu gewährleisten;
+- 6\. das lebenslange Lernen zu fördern.
 
 #### Art. 2
 
 **Grundsatz**
 
-Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an die Ausbildungs- und Lebenshaltungskosten während:
+<sup>1</sup> Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an die Ausbildungs- und Lebenshaltungskosten während:
 
 - 1\. einer Erstausbildung auf der Sekundarstufe II und der Tertiärstufe;
-
 - 2\. einer Zweitausbildung;
-
 - 3\. einer Umschulung;
-
 - 4\. einer Weiterbildung.
 
 #### Art. 3
@@ -80,7 +72,7 @@ Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an 
 
 <sup>2</sup> Der Kanton leistet nur Ausbildungsbeiträge, soweit die finanzielle Leistungsfähigkeit der genannten Personen nicht ausreicht.
 
-### II. BEITRAGSVORAUSSETZUNGEN
+## 2 Beitragsvoraussetzungen
 
 #### Art. 5
 
@@ -89,18 +81,15 @@ Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an 
 <sup>1</sup> Anspruch auf Ausbildungsbeiträge hat, wer:
 
 - 1\. gesuchsberechtigt ist;
-
 - 2\. sich einer beitragsberechtigten und anerkannten Ausbildung an einer dafür anerkannten Ausbildungsstätte unterzieht;
-
 - 3\. sich für die Ausbildung eignet;
-
 - 4\. im Kanton Nidwalden stipendienrechtlichen Wohnsitz hat;
-
-- 5\. bei Beginn der Ausbildung das 40. Altersjahr noch nicht erfüllt hat; und
-
+- 5\. bei Beginn der Ausbildung das 50. Altersjahr noch nicht erfüllt hat; und
 - 6\. einen finanziellen Bedarf aufweist.
 
 <sup>2</sup> Zum beruflichen Wiedereinstieg und zur wirtschaftlichen Existenzsicherung kann in begründeten Fällen von der Altersbeschränkung abgewichen werden.
+
+<sup>3</sup> Für die Ausrichtung von Darlehen gilt die Altersbeschränkung nicht.
 
 #### Art. 6
 
@@ -109,13 +98,9 @@ Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an 
 <sup>1</sup> Gesuchsberechtigte Personen sind:
 
 - 1\. Personen mit schweizerischem Bürgerrecht und Wohnsitz in der Schweiz;
-
 - 2\. Schweizer Bürgerinnen und Bürger, deren Eltern im Ausland leben oder die elternlos im Ausland leben, für Ausbildungen in der Schweiz, sofern sie an ihrem ausländischen Wohnsitz wegen fehlender Zuständigkeit nicht gesuchsberechtigt sind;
-
 - 3\. Personen mit ausländischem Bürgerrecht, die über eine Niederlassungsbewilligung verfügen oder seit fünf Jahren in der Schweiz aufenthaltsberechtigt sind und über eine Aufenthaltsbewilligung verfügen;
-
 - 4\. in der Schweiz wohnhafte und von ihr anerkannte Flüchtlinge und Staatenlose;
-
 - 5\. Bürgerinnen und Bürger von EU-/EFTA-Mitgliedstaaten, soweit sie gemäss dem Freizügigkeitsabkommen[^6-1] oder dem EFTA-Übereinkommen[^6-2] zwischen der Schweizerischen Eidgenossenschaft und den EU-/EFTA-Mitgliedstaaten in der Frage der Stipendien und Studiendarlehen den Schweizer Bürgerinnen und Bürger gleichgestellt sind sowie Bürgerinnen und Bürger aus Staaten, mit denen entsprechende internationale Abkommen geschlossen wurden.
 
 <sup>2</sup> Personen, die sich ausschliesslich zu Ausbildungszwecken in der Schweiz aufhalten, sind unter Vorbehalt von Abs. 1 Ziff. 2 und 5 nicht gesuchsberechtigt.
@@ -125,23 +110,19 @@ Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an 
 
 #### Art. 7
 
-**Ausbildungen**
-
-### 1. beitragsberechtigte Ausbildungen
+**Ausbildungen 1. beitragsberechtigte Ausbildungen**
 
 <sup>1</sup> Beitragsberechtigt sind:
 
 - 1\. Ausbildungen auf der Sekundarstufe II und auf der Tertiärstufe;
-
 - 2\. die für diese Ausbildungen obligatorischen studienvorbereitenden Massnahmen auf der Sekundarstufe II und auf der Tertiärstufe sowie Passerellen und Brückenangebote;
-
 - 3\. ein Hochschulstudium, das auf einen Abschluss auf der Tertiärstufe B folgt;
-
 - 4\. ein Doktorat oder ein Nachdiplomstudium;
-
-5 Weiterbildungen.
+- 5 Weiterbildungen.
 
 <sup>2</sup> Umschulungen sind beitragsberechtigt, soweit diese nicht durch Leistungen einer Sozialversicherung finanziert werden.
+
+<sup>3</sup> Auf der Sekundarstufe II wird je Ausbildungsgang höchstens ein Wechsel in eine andere Ausbildungsinstitution mit Ausbildungsbeiträgen unterstützt.
 
 #### Art. 8
 
@@ -150,7 +131,6 @@ Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an 
 <sup>1</sup> Ausbildungen sind anerkannt, wenn sie:
 
 - 1\. zu einem kantonal, interkantonal oder eidgenössisch anerkannten Abschluss führen; oder
-
 - 2\. auf eine Ausbildung oder einen Abschluss vorbereiten, die kantonal oder eidgenössisch anerkannt ist.
 
 <sup>2</sup> Weiterbildungen in der Schweiz sind auch anerkannt, wenn sie ausreichend strukturiert sind, ohne zu einem Abschluss gemäss Abs. 1 zu führen.
@@ -175,7 +155,7 @@ Der Kanton leistet Ausbildungsbeiträge in Form von Stipendien oder Darlehen an 
 
 **Eignung**
 
-Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promotionsbestimmungen hinsichtlich des Ausbildungsganges nachweislich erfüllt.
+<sup>1</sup> Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promotionsbestimmungen hinsichtlich des Ausbildungsganges nachweislich erfüllt.
 
 #### Art. 11
 
@@ -186,9 +166,7 @@ Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promoti
 <sup>2</sup> Ausserdem haben stipendienrechtlichen Wohnsitz im Kanton Nidwalden:
 
 - 1\. Personen mit einem Nidwaldner Bürgerrecht, deren Eltern nicht in der Schweiz wohnen oder die elternlos im Ausland wohnen und sich zur Ausbildung in der Schweiz befinden; bei Bürgerrechten mehrerer Kantone haben sie nur dann stipendienrechtlichen Wohnsitz im Kanton Nidwalden, wenn das Nidwaldner Bürgerrecht zuletzt erworben wurde;
-
 - 2\. volljährige, von der Schweiz anerkannte Flüchtlinge und Staatenlose mit zivilrechtlichem Wohnsitz in Nidwalden, deren Eltern im Ausland Wohnsitz haben oder die verwaist sind; für Flüchtlinge gilt diese Regel, wenn sie dem Kanton Nidwalden zur Betreuung zugewiesen sind;
-
 - 3\. volljährige Personen, die nach Abschluss einer ersten berufsbefähigenden Ausbildung und vor Beginn der neuen Ausbildung während mindestens zweier Jahre ununterbrochen im Kanton Nidwalden wohnhaft und gleichzeitig aufgrund eigener Erwerbstätigkeit finanziell unabhängig waren; als eigene Erwerbstätigkeit gilt auch das Führen eines eigenen Haushalts mit Unmündigen oder Pflegebedürftigen, Militär- und Zivildienst sowie Arbeitslosigkeit.
 
 <sup>3</sup> Bei Eltern mit zivilrechtlichem Wohnsitz in verschiedenen Kantonen ist der Wohnsitz des bisherigen oder letzten Inhabers der elterlichen Sorge massgebend; bei gemeinsamer elterlicher Sorge ist der Wohnsitz desjenigen Elternteils massgebend, unter dessen Obhut die Person in Ausbildung hauptsächlich steht oder zuletzt stand. Begründen die Eltern ihren Wohnsitz in verschiedenen Kantonen erst nach der Volljährigkeit der Person in Ausbildung, ist der Kanton desjenigen Elternteils zuständig, bei welchem sich diese hauptsächlich aufhält.
@@ -197,13 +175,11 @@ Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promoti
 
 <sup>5</sup> Der einmal begründete stipendienrechtliche Wohnsitz bleibt bis zum Erwerb eines neuen bestehen.
 
-### III. AUSBILDUNGSBEITRÄGE
+## 3 Ausbildungsbeiträge
 
 #### Art. 12
 
-**Beitragsarten**
-
-### 1. Grundsatz
+**Beitragsarten 1. Grundsatz**
 
 <sup>1</sup> Ausbildungsbeiträge werden in Form von Stipendien und Darlehen gewährt.
 
@@ -229,23 +205,20 @@ Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promoti
 
 <sup>1</sup> Die jährlichen Höchstansätze für die Ausbildungsbeiträge betragen:
 
-- 1\. 12‘000 Franken für Personen in Ausbildungen auf der Sekundarstufe II;
+- 1\. 12'600 Franken für Personen in Ausbildungen auf der Sekundarstufe II;
+- 2\. 16'800 Franken für Personen in Ausbildungen auf der Tertiärstufe;
 
-- 2\. 16‘000 Franken für Personen in Ausbildungen auf der Tertiärstufe;
-
-<sup>2</sup> Die Höchstansätze erhöhen sich bei Personen in Ausbildung, die gegenüber Kindern unterhaltspflichtig sind, um 5‘000 Franken je Kind.
+<sup>2</sup> Die Höchstansätze erhöhen sich bei Personen in Ausbildung, die gegenüber Kindern unterhaltspflichtig sind, um 5'000 Franken je Kind.
 
 <sup>3</sup> Die Ansätze werden vom Regierungsrat auf Beginn des nächsten Jahres angepasst, sobald der Landesindex der Konsumentenpreise um fünf Indexpunkte angestiegen ist (Basis Dezember 2015: 100 Punkte). Diese Beträge werden dabei auf die nächsten hundert Franken aufgerundet.
 
 <sup>4</sup> Ausbildungsbeiträge von weniger als 1'000 Franken werden nicht ausbezahlt.
 
-<sup>5</sup> Als Darlehen werden in der Regel je Jahr höchstens 10‘000 Franken ausbezahlt. Je Ausbildung darf das gesamte Darlehen den Betrag von 60‘000 Franken nicht übersteigen.
+<sup>5</sup> Als Darlehen werden in der Regel je Jahr höchstens 11'000 Franken ausbezahlt. Je Ausbildung darf das gesamte Darlehen den Betrag von 65'000 Franken nicht übersteigen.
 
 #### Art. 15
 
-**Berechnung des Ausbildungsbeitrags**
-
-### 1. Grundsatz
+**Berechnung des Ausbildungsbeitrags 1. Grundsatz**
 
 <sup>1</sup> Die Höhe des Ausbildungsbeitrages entspricht, im Rahmen der Ansätze gemäss Art. 14 Abs. 1, dem jährlichen finanziellen Bedarf. Er wird auf 100 Franken auf- oder abgerundet.
 
@@ -257,13 +230,13 @@ Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promoti
 
 <sup>1</sup> Der finanzielle Bedarf ergibt sich aus dem Total der jährlich anerkannten Ausbildungs- und Lebenshaltungskosten abzüglich der zumutbaren Eigen- und Fremdleistungen.
 
-<sup>2</sup> Beantragen mehrere gesuchstellende Personen der gleichen Familie Ausbildungsbeiträge, ist dies bei der Berechnung zu berücksichtigen.
+<sup>2</sup> …
 
 <sup>3</sup> Wird eine Ausbildung, die gleichwertig im Kanton möglich ist, ausserhalb des Kantons absolviert, sind höchstens die Kosten für den Besuch der Ausbildungsstätte im Kanton massgebend; vorbehalten bleibt der Besuch von ausserkantonalen Ausbildungsstätten, mit denen eine besondere Vereinbarung besteht.
 
-<sup>4</sup> Beim Besuch anerkannter Ausbildungen im Ausland sind unter Vorbehalt der Höchstbeträge die effektiven Kosten zu berücksichtigen.
+<sup>4</sup> Beim Besuch anerkannter Ausbildungen im Ausland sind höchstens die Kosten für den Besuch einer gleichwertigen Ausbildungsstätte im Kanton massgebend und falls eine solche nicht vorhanden ist, einer gleichwertigen Ausbildungsstätte in der Schweiz. Im Übrigen gelten die Höchstansätze.
 
-<sup>5</sup> Aus wichtigen Gründen kann die Höhe eines Darlehens ausnahmsweise den finanziellen Bedarf übersteigen.
+<sup>5</sup> Aus wichtigen Gründen kann die Höhe der Ausbildungsbeiträge ausnahmsweise den finanziellen Bedarf übersteigen. Die gesuchstellende Person hat die Gründe schriftlich darzulegen.
 
 <sup>6</sup> Der Regierungsrat regelt die Einzelheiten der Berechnung des finanziellen Bedarfs in einer Verordnung.
 
@@ -283,7 +256,7 @@ Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promoti
 
 **4. zumutbare Fremdleistung**
 
-<sup>1</sup> Die zumutbare Fremdleistung umfasst das anrechenbare Einkommen der zum Unterhalt verpflichteten Personen zuzüglich eines Anteils des Reinvermögens zwischen 5 Prozent und 10 Prozent abzüglich der stipendienrechtlichen Abzüge.
+<sup>1</sup> Die zumutbare Fremdleistung umfasst das anrechenbare Einkommen der Eltern, der Ehegattin oder des Ehegatten beziehungsweise der Partnerin oder des Partners aus eingetragenen Partnerschaft oder anderer zum Unterhalt verpflichteter Personen zuzüglich eines Anteils des Reinvermögens zwischen 5 Prozent und 10 Prozent abzüglich der stipendienrechtlichen Abzüge.
 
 <sup>2</sup> Für die Beurteilung der zumutbaren Fremdleistung wird grundsätzlich auf die rechtskräftige steuerliche Veranlagung des Vorjahres abgestellt. Bei fehlenden oder nicht rechtskräftigen Steuerveranlagungen sowie bei rechtskräftigen Steuerveranlagungen, die älter als 2 Jahre sind, wird auf die aktuellste eingereichte Steuererklärung abgestellt; in diesem Fall werden provisorisch nur 50 Prozent der Ausbildungsbeiträge ausgezahlt.
 
@@ -298,22 +271,18 @@ Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promoti
 <sup>1</sup> Betriebskosten von Schulen können übernommen werden, wenn folgende Bedingungen erfüllt sind:
 
 - 1\. der Kanton hat mit der besuchten Schule keine Schulgeldvereinbarung abgeschlossen und entrichtet keine Kantonsbeiträge an die besuchte Schule; und
-
 - 2\. es besteht keine Möglichkeit, die Ausbildung an einer Schule zu besuchen, mit welcher der Kanton eine Schulgeldvereinbarung abgeschlossen hat.
 
 <sup>2</sup> Der Betrag wird grundsätzlich als Stipendium gewährt. Seine Höhe beträgt 75 Prozent der ausgewiesenen Betriebskosten.
 
 <sup>3</sup> Kein Betrag wird gewährt für:
 
-- 1\. Studien-, Einschreibungs- und Prüfungsgebühren;
-
-- 2\. den Teil der auf ein Jahr berechneten Betriebskosten, der Fr. 15‘000.– übersteigt;
-
+- 1\. Schul-, Einschreibungs- und Prüfungsgebühren;
+- 2\. den Teil der auf ein Jahr berechneten Betriebskosten, der Fr. 16'000.– übersteigt;
 - 3\. Betriebskosten von Ausbildungsinstitutionen im Ausland;
-
 - 4\. Kursgelder für Nachdiplomstudien.
 
-### IV. VERFAHREN
+## 4 Verfahren
 
 #### Art. 20
 
@@ -327,9 +296,9 @@ Als geeignet für eine anerkannte Ausbildung gilt, wer die Aufnahme- und Promoti
 
 **Meldepflicht**
 
-Wer Ausbildungsbeiträge erhält, hat Änderungen der anspruchsbegründenden Tatsachen unverzüglich der zuständigen Fachstelle zu melden.
+<sup>1</sup> Wer Ausbildungsbeiträge erhält, hat Änderungen der anspruchsbegründenden Tatsachen unverzüglich der zuständigen Fachstelle zu melden.
 
-### V. RÜCKZAHLUNG UND ANSPRUCHSVERWIRKUNG
+## 5 Rückzahlung und Anspruchsverwirkung
 
 #### Art. 22
 
@@ -357,44 +326,49 @@ Wer Ausbildungsbeiträge erhält, hat Änderungen der anspruchsbegründenden Tat
 
 <sup>2</sup> Der Rückforderungsanspruch verjährt binnen zehn Jahren, nachdem der Kanton davon Kenntnis erhalten hat, spätestens mit dem Ablauf von 15 Jahren nach Auszahlung der Stipendien.
 
-### VI. RECHTSSCHUTZ
+## 6 Rechtsschutz
 
 #### Art. 25
 
 **Einsprache**
 
-Gegen erstinstanzliche Verfügungen in Sachen Gewährung von Ausbildungsbeiträgen kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
+<sup>1</sup> Gegen erstinstanzliche Verfügungen in Sachen Gewährung von Ausbildungsbeiträgen kann binnen 20 Tagen nach erfolgter Zustellung Einsprache erhoben werden.
 
 #### Art. 26
 
 **Streitigkeiten aus Darlehensvertrag**
 
-Streitigkeiten aus öffentlich-rechtlichen Darlehensverträgen, die gestützt auf dieses Gesetz abgeschlossen wurden, sind durch die Direktion mittels Verfügung zu entscheiden.
+<sup>1</sup> Streitigkeiten aus öffentlich-rechtlichen Darlehensverträgen, die gestützt auf dieses Gesetz abgeschlossen wurden, sind durch die Direktion mittels Verfügung zu entscheiden.
 
-### VII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+## 7 Übergangs- und Schlussbestimmungen
 
 #### Art. 27
 
 **Vollzug**
 
-Der Regierungsrat regelt die zum Vollzug erforderlichen Bestimmungen in einer Verordnung.
+<sup>1</sup> Der Regierungsrat regelt die zum Vollzug erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 28
 
 **Übergangsbestimmung**
 
-Die beim Inkrafttreten dieses Gesetzes rechtskräftigen Verfügungen bezüglich Ausbildungsbeiträge und Darlehensverträge unterstehen weiterhin dem bisherigen Recht[^28-1].
+<sup>1</sup> Die beim Inkrafttreten dieses Gesetzes rechtskräftigen Verfügungen bezüglich Ausbildungsbeiträge und Darlehensverträge unterstehen weiterhin dem bisherigen Recht[^28-1].
 
 [^28-1]: A 1995, 573; A 1996, 661, 1309; A 2002, 677, 727
+
+#### Art. 28a
+
+**Übergangsbestimmung zur Änderung vom 28. Mai 2025**
+
+<sup>1</sup> Für vor dem Inkrafttreten der Änderung vom 28. Mai 2025 rechtskräftig zugesicherte Ausbildungsbeiträge in Form von Stipendien oder Darlehen gelten die bisherigen Bestimmungen.
 
 #### Art. 29
 
 **Aufhebung bisherigen Rechts**
 
-Folgende Erlasse werden aufgehoben:
+<sup>1</sup> Folgende Erlasse werden aufgehoben:
 
 - 1\. Gesetz vom 30. April 1995 über die Ausbildungsbeiträge (Stipendiengesetz, StipG)[^29-1];
-
 - 2\. Vollziehungsverordnung vom 27. März 1996 zum Gesetz über die Ausbildungsbeiträge (Stipendienverordnung, StipV)[^29-2].
 
 [^29-1]: A 1995, 573
@@ -408,8 +382,6 @@ Folgende Erlasse werden aufgehoben:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^30-1] fest.
 
-[^30-1]: A 2019, 1632, 2215; in Kraft seit 1. Januar 2020
+[^30-1]: In Kraft seit 1. Januar 2020
 
-## Weitere Fussnoten
-
-- [4] NG 521.1
+A 2019, 1632, 2215
