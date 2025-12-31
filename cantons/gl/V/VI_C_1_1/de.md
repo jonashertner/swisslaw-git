@@ -4,13 +4,13 @@ number: VI C/1/1
 title: Steuergesetz
 short: StG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-01
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-09-30
 adopted: 2000-05-07
 in_force: 2001-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-C.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2516/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2668/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2516/pdf_file"
 
 (StG)
 
-Vom 07.05.2000 (Stand 01.01.2025)
+Vom 07.05.2000 (Stand 01.01.2026)
 
 (Erlassen von der Landsgemeinde am 7. Mai 2000)
 
@@ -198,7 +198,7 @@ Vom 07.05.2000 (Stand 01.01.2025)
 
 <sup>3</sup> Die Steuer wird nach den jährlichen, in der Bemessungsperiode im In- und Ausland entstandenen Lebenshaltungskosten der steuerpflichtigen Person und der von ihr unterhaltenen Personen, mindestens aber nach dem höchsten der folgenden Beträge bemessen[^13-1]:
 
-- 1\. 434 700 Franken;
+- 1\. 435 000 Franken;
 - 2\. für Steuerpflichtige mit eigenem Haushalt: dem Siebenfachen des jährlichen Mietzinses oder Eigenmietwerts;
 - 3\. für die übrigen Steuerpflichtigen: dem Dreifachen des jährlichen Pensionspreises für Unterkunft und Verpflegung.
 - 4\.–6. …
@@ -218,7 +218,7 @@ Vom 07.05.2000 (Stand 01.01.2025)
 
 <sup>7</sup> Werden Einkünfte aus einem Staat nur dann von dessen Steuern entlastet, wenn die Schweiz diese Einkünfte allein oder mit anderen Einkünften zum Satz des Gesamteinkommens besteuert, so wird die Steuer nicht nur nach den in Absatz 6 bezeichneten Einkünften, sondern auch nach allen aufgrund des betreffenden Doppelbesteuerungsabkommens der Schweiz zugewiesenen Einkommensbestandteilen aus dem Quellenstaat bemessen.
 
-[^13-1]: Betrag geändert gemäss Art. 6 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
+[^13-1]: Betrag geändert gemäss Art. 4 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
 
 #### Art. 14
 
@@ -438,15 +438,15 @@ Vom 07.05.2000 (Stand 01.01.2025)
 - 7\. die Leistungen in Erfüllung familienrechtlicher Verpflichtungen, ausgenommen die Unterhaltsbeiträge gemäss Artikel 23 Ziffer 6 dieses Gesetzes;
 - 8\. der Sold für Militär- und Schutzdienst sowie das Taschengeld für Zivildienst;
 - 9\. die Zahlung von Genugtuungssummen;
-- 9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5300 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
+- 9a. der Sold der Milizfeuerwehrleute bis zum Betrag von 5400 Franken für Dienstleistungen im Zusammenhang mit der Erfüllung der Kernaufgaben der Feuerwehr, wie Übungen, Pikettdienste, Kurse, Inspektionen und Ernstfalleinsätze zur Rettung, Brandbekämpfung, allgemeine Schadenwehr, Elementarschadenbewältigung. Ausgenommen sind Pauschalzulagen für Kader sowie Funktionszulagen und Entschädigungen für administrative Arbeiten und für Dienstleistungen, welche die Feuerwehr freiwillig erbringt;
 - 10\. die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung;
 - 11\. die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Geldspielgesetz vom 29. September 2017 (BGS)[^24-2] zugelassen sind, sofern diese Gewinne nicht aus selbstständiger Erwerbstätigkeit stammen;
-- 11a. die einzelnen Gewinne bis zum Betrag von 1 070 400 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- 11a. die einzelnen Gewinne bis zum Betrag von 1 071 000 Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
 - 11b. die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
 - 12\. die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, sofern die Grenze von 1100 Franken nicht überschritten wird;
 - 13\. Einkünfte aufgrund des Bundesgesetzes über Überbrückungsleistungen für ältere Arbeitslose[^24-3].
 
-[^24-1]: Beträge in Ziff. 9a und 12 geändert gemäss Art. 7 Abs. 1 und 3 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32); Betrag in Ziff. 11a geändert gemäss Art. 7 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
+[^24-1]: Betrag in Ziff. 12 geändert gemäss Art. 7 Abs. 3 der Kantonalen Verordnung über die kalte Progression vom 3. Oktober 2023 (SBE 2023 32); Beträge in Ziff. 9a und 11a geändert gemäss Art. 5 Abs. 1 und 2 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
 [^24-2]: SR 935.51
 [^24-3]: SR 837.2
 
@@ -616,30 +616,30 @@ Vom 07.05.2000 (Stand 01.01.2025)
 - c. für 30 900 Franken
   - 1\. Basis — 1957.00 Franken
   - 2\. und für je weitere 100 Franken — 13.00 Franken
-- d. für 51 500 Franken
-  - 1\. Basis — 4635.00 Franken
+- d. für 51 600 Franken
+  - 1\. Basis — 4648.00 Franken
   - 2\. und für je weitere 100 Franken — 15.00 Franken
-- e. für 103 100 Franken
-  - 1\. Basis — 12 372.00 Franken
+- e. für 103 200 Franken
+  - 1\. Basis — 12 388.00 Franken
   - 2\. und für je weitere 100 Franken — 16.00 Franken
-- f. für 154 600 Franken
-  - 1\. Basis — 20 613.33 Franken
+- f. für 154 700 Franken
+  - 1\. Basis — 20 628.00 Franken
   - 2\. und für je weitere 100 Franken — 17.50 Franken
-- g. für 257 700 Franken
-  - 1\. Basis — 38 655.00 Franken
+- g. für 257 900 Franken
+  - 1\. Basis — 38 688.00 Franken
   - 2\. und für je weitere 100 Franken — 19.00 Franken
-- h. für 412 400 Franken
-  - 1\. Basis — 68 046.00 Franken
+- h. für 412 600 Franken
+  - 1\. Basis — 68 081.00 Franken
   - 2\. und für je weitere 100 Franken — 21.00 Franken
-- i. für 463 900 Franken
-  - 1\. Basis — 78 863.00 Franken
+- i. für 464 200 Franken
+  - 1\. Basis — 78 917.00 Franken
   - 2\. für höhere Einkommen beträgt der Satz einheitlich 17 Prozent.
 
 <sup>2</sup> Für in ungetrennter Ehe lebende Steuerpflichtige sowie für getrennt lebende, geschiedene, verwitwete und ledige Steuerpflichtige, die mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben, ist für die Ermittlung des satzbestimmenden Einkommens das steuerbare Gesamteinkommen durch den Divisor 1,7 zu teilen.
 
 <sup>3</sup> …
 
-[^34-1]: Beträge geändert gemäss Art. 2 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
+[^34-1]: Beträge in Bst. a–c geändert gemäss Art. 2 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35); Beträge in Bst. d–i geändert gemäss Art. 2 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
 
 #### Art. 35
 
@@ -773,14 +773,14 @@ Vom 07.05.2000 (Stand 01.01.2025)
 
 <sup>1</sup> Vom Reinvermögen werden für die Berechnung des steuerbaren Vermögens abgezogen[^45-1]:
 
-- 1\. 77 300 Franken für alleinstehende Steuerpflichtige;
-- 2\. 154 600 Franken für gemeinsam steuerpflichtige Ehegatten sowie verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die allein mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben;
+- 1\. 77 400 Franken für alleinstehende Steuerpflichtige;
+- 2\. 154 700 Franken für gemeinsam steuerpflichtige Ehegatten sowie verwitwete, gerichtlich oder tatsächlich getrennt lebende, geschiedene und ledige Steuerpflichtige, die allein mit Kindern im Sinne von Artikel 33 dieses Gesetzes zusammenleben;
 - 3\. 25 800 Franken für jedes minderjährige, unter der elterlichen Sorge oder Obhut des Steuerpflichtigen stehende Kind;
 - 4\. zusätzlich 25 800 Franken für Steuerpflichtige, die mindestens eine halbe Rente der eidgenössischen Invalidenversicherung beziehen.
 
 <sup>2</sup> Die steuerfreien Beträge bemessen sich nach den Verhältnissen am Ende der Steuerperiode oder der Steuerpflicht.
 
-[^45-1]: Beträge geändert gemäss Art. 5 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35).
+[^45-1]: Beträge in Ziff. 3 und 4 geändert gemäss Art. 5 der Kantonalen Verordnung über die kalte Progression vom 1. Oktober 2024 (SBE 2024 35); Beträge in Ziff. 1 und 2 geändert gemäss Art. 3 der Kantonalen Verordnung über die kalte Progression vom 30. September 2025 (SBE 2025 35).
 
 #### Art. 46
 
