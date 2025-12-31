@@ -4,34 +4,31 @@ number: "831.0.1"
 title: "Loi sur l'aide sociale"
 short: LASoc
 language: fr
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-11-21
+version: 2026-01-01
+version_adopted: 2024-10-09
 adopted: 2024-10-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/831.0.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8127/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8521/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Loi sur l'aide sociale
 
-Aide sociale – L
-
 (LASoc)
 
-du 14.11.1991 (version entrée en vigueur le 01.01.2020)
+du 09.10.2024 (version entrée en vigueur le 01.01.2026)
 
-Le Grand Conseil du canton de Fribourg
+Le Grand Conseil du Canton de Fribourg
 
-Vu l'article 48 de la Constitution fédérale;
+Vu l'article 115 de la Constitution fédérale du 18 avril 1999 (Cst. féd.);
 
-Vu la loi fédérale du 24 juin 1977 sur la compétence en matière d'assistance des personnes dans le besoin;
+Vu les articles 12 al. 3 et 26 al. 1 de la loi fédérale du 24 juin 1977 sur la compétence en matière d'assistance des personnes dans le besoin (LAS);
 
-Vu la loi fédérale du 21 mars 1973 sur l'assistance des Suisses de l'étranger;
+Vu les articles 3 al. 1 let. e, 7 al. 2 et 36 al. 1 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
 
-Vu le message du Conseil d'Etat du 12 mars 1991;
+Vu le message 2020-DSAS-145 du Conseil d'Etat du 14 novembre 2023;
 
 Sur la proposition de cette autorité,
 
@@ -41,263 +38,801 @@ Décrète:
 
 #### Art. 1
 
-**Objet**
+**Buts**
 
-<sup>1</sup> La présente loi régit l'aide sociale accordée par les communes et l'Etat aux personnes domiciliées, séjournant ou de passage dans le canton.
+<sup>1</sup> La présente loi a pour but de renforcer la cohésion sociale et de permettre à chacune et chacun de mener de façon autonome une existence conforme à la dignité humaine.
 
-<sup>2</sup> Les dispositions des législations fédérale et cantonale sur l'aide aux victimes d'infractions sont réservées.
+<sup>2</sup> En particulier, elle vise à:
+
+- a) rechercher et prévenir les causes de pauvreté et d'exclusion sociale;
+- b) apporter l'aide nécessaire aux personnes en difficulté sociale ou matérielle;
+- c) favoriser l'intégration sociale et professionnelle;
+- d) atteindre l'indépendance économique;
+- e) encourager une approche globale par le développement de politiques transversales.
 
 #### Art. 2
 
-**But**
+**Principes**
 
-<sup>1</sup> La présente loi a pour but de favoriser l'autonomie et l'intégration sociale de la personne dans le besoin.
+<sup>1</sup> L'aide sociale est basée sur les principes suivants:
+
+- a) respect de la dignité humaine;
+- b) subsidiarité de l'aide;
+- c) individualisation de l'aide;
+- d) finalité de l'aide;
+- e) couverture des besoins;
+- f) proportionnalité de l'aide;
+- g) prestation et contre-prestation;
+- h) professionnalisme et qualité;
+- i) coordination avec des tiers.
 
 #### Art. 3
 
-**Définition**
+**Bénéficiaires de l'aide sociale**
 
-<sup>1</sup> Une personne est dans le besoin lorsqu'elle éprouve des difficultés sociales ou lorsqu'elle ne peut subvenir à son entretien, d'une manière suffisante ou à temps, par ses propres moyens.
+<sup>1</sup> Peuvent bénéficier des prestations d'aide sociale de la présente loi les personnes dans le besoin domiciliées ou séjournant dans le canton. Demeure réservée la législation en matière d'asile.
+
+<sup>2</sup> Est une personne dans le besoin au sens de la présente loi celle qui ne parvient pas à surmonter des difficultés sociales ou à subvenir à son entretien de manière suffisante ou à temps, ni par ses propres moyens ni par les prestations de tiers auxquelles elle peut prétendre.
+
+<sup>3</sup> Les notions de domicile et de séjour sont celles de la législation fédérale réglant la compétence en matière d'assistance des personnes dans le besoin.
 
 #### Art. 4
 
-**Nature de l'aide sociale**
+**Moyens**
 
-<sup>1</sup> L'aide sociale comprend la prévention, l'aide personnelle, l'aide matérielle et la mesure d'insertion sociale.
+<sup>1</sup> L'aide sociale comprend les prestations suivantes:
 
-<sup>2</sup> La prévention comprend toute mesure générale ou particulière permettant d'éviter le recours à l'aide personnelle et matérielle.
+- a) l'aide personnelle;
+- b) la couverture des besoins de base;
+- c) les mesures d'insertion socioprofessionnelle;
+- d) le soutien à la formation.
 
-<sup>3</sup> L'aide personnelle comprend notamment l'écoute, l'information et le conseil.
-
-<sup>4</sup> L'aide matérielle est une prestation allouée en espèces, en nature ou sous la forme d'un contrat d'insertion sociale.
-
-<sup>5</sup> La mesure d'insertion sociale, dans le cadre d'un contrat d'insertion sociale, permet au bénéficiaire de l'aide sociale de retrouver ou de développer son autonomie et son insertion sociales.
-
-#### Art. 4a
-
-**Contrat d'insertion sociale – Contenu**
-
-<sup>1</sup> Un contrat d'insertion sociale individualisé peut être conclu avec la personne dans le besoin. Sa nature juridique est celle d'un contrat de droit administratif.
-
-<sup>2</sup> Dans la mesure où le contrat d'insertion sociale est en adéquation avec les capacités et les potentialités de la personne dans le besoin, cette dernière y est astreinte. Si elle refuse le projet d'insertion sociale proposé, l'aide matérielle peut être réduite jusqu'au minimum défini dans les normes relevant de l'article 22a al. 1.
-
-<sup>3</sup> Dans le contrat d'insertion sociale est définie la mesure d'insertion sociale reconnue comme contre-prestation.
-
-#### Art. 4b
-
-**Contrat d'insertion sociale – Durée**
-
-<sup>1</sup> Le contrat d'insertion sociale est limité dans le temps. Sa durée est de six à douze mois.
-
-<sup>2</sup> Un bilan est établi périodiquement avec la personne dans le besoin, dans le but d'évaluer l'adéquation de la mesure.
-
-#### Art. 4c
-
-**Contrat d'insertion sociale – Aide matérielle**
-
-<sup>1</sup> Pendant la durée du contrat d'insertion sociale, la personne dans le besoin reçoit une aide matérielle fondée sur les normes relevant de l'article 22a al. 1 et majorée d'un montant incitatif.
-
-<sup>2</sup> Le montant incitatif est fixé dans le règlement d'exécution.
+<sup>2</sup> En sus des prestations d'aide sociale individuelle, l'Etat encourage la prévention sociale et soutient des organisations à caractère social.
 
 #### Art. 5
 
-**Subsidiarité**
+**Secret en matière d'aide sociale, obligation de dénoncer**
 
-<sup>1</sup> L'aide sociale est accordée dans la mesure où la personne dans le besoin ne peut pas être entretenue par sa famille ou ses proches conformément aux dispositions du code civil suisse ou de la loi fédérale sur le partenariat enregistré entre personnes du même sexe ou ne peut pas faire valoir d'autres prestations légales auxquelles elle a droit.
+<sup>1</sup> Les membres des organes chargés de l'exécution de la présente loi sont tenus au secret de fonction.
+
+<sup>2</sup> Ils sont libérés de l'obligation de garder le secret en matière d'aide sociale:
+
+- a) lorsque la personne concernée a donné son autorisation écrite, libre et éclairée, à la transmission de renseignements;
+- b) lorsque l'autorité supérieure au sens de l'article 320 al. 2 du code pénal du 21 décembre 1937 (CP) a donné son autorisation à la transmission de renseignements;
+- c) en cas de dénonciation d'un acte punissable;
+- d) si une disposition légale prévoit une obligation ou un droit de renseigner.
+
+<sup>3</sup> Les organes chargés de l'exécution de la présente loi sont tenus de dénoncer au Ministère public les faits qui les conduisent à soupçonner qu'a été commise une infraction en relation avec la perception, l'utilisation et le remboursement de prestations d'aide sociale.
 
 #### Art. 6
 
-**…**
+**Réserves de la loi sur les subventions**
+
+<sup>1</sup> La loi cantonale sur les subventions est applicable directement et dans son intégralité aux subventions prévues par la présente loi.
+
+## 2 Prévention et lutte contre la pauvreté
 
 #### Art. 7
 
-**Répartition des compétences – Communes**
+**Prévention sociale**
 
-<sup>1</sup> Les communes décident de l'aide sociale à accorder aux personnes suivantes, domiciliées dans le canton:
+<sup>1</sup> La prévention sociale comprend toute mesure générale ou particulière permettant de rechercher les causes de pauvreté et d'exclusion sociale, d'en atténuer les effets et d'éviter le recours durable aux services d'aide sociale.
 
-- a) les ressortissants fribourgeois;
-- b) les Confédérés;
-- c) les étrangers;
-- d) les réfugiés au bénéfice d'une autorisation d'établissement.
+<sup>2</sup> L'Etat et les communes préviennent les causes de pauvreté et d'exclusion sociale. Ils soutiennent les organisations à caractère social et les projets contribuant à atteindre les objectifs de la présente loi.
+
+<sup>3</sup> Les publics concernés sont associés à la définition et au suivi des mesures de prévention.
 
 #### Art. 8
 
-**Répartition des compétences – Etat**
+**Accès aux prestations**
 
-<sup>1</sup> L'Etat décide de l'aide sociale à accorder aux personnes suivantes:
+<sup>1</sup> La Direction en charge de l'aide sociale[^8-1] (ci-après: la Direction) et les organes d'exécution de la présente loi orientent les personnes en difficulté sociale ou matérielle vers les dispositifs qui sont en mesure de leur venir en aide.
 
-- a) les ressortissants fribourgeois rapatriés avant le 1<sup>er</sup> janvier 1979;
-- b) les personnes de passage ou séjournant dans le canton;
-- c) les personnes sans domicile fixe;
-- d) …
-- e) les demandeurs d'asile.
+<sup>2</sup> Ils adoptent des mesures permettant aux personnes en difficulté sociale ou matérielle d'accéder aux prestations d'aide sociale.
+
+<sup>3</sup> A cette fin, ils mettent en œuvre des mesures d'information, d'accessibilité des services, de formation de personnel, de simplification des procédures et de coordination des différents services de l'Etat, des institutions de droit public, des communes et des milieux associatifs.
+
+[^8-1]: Actuellement: Direction de la santé et des affaires sociales.
 
 #### Art. 9
 
-**Domicile – Définition**
+**Plan d'action**
 
-<sup>1</sup> La personne dans le besoin a son domicile au sens de la présente loi (ci-après: domicile d'aide sociale) dans la commune où elle réside avec l'intention de s'y établir.
-
-<sup>2</sup> Le domicile s'acquiert par la déclaration d'arrivée au contrôle des habitants et, pour les étrangers, par la délivrance d'une autorisation de séjour ou d'établissement, à moins qu'il ne soit prouvé que le séjour a commencé plus tôt ou plus tard ou encore qu'il n'est que provisoire.
-
-#### Art. 9a
-
-**…**
+<sup>1</sup> Un plan d'action est établi périodiquement sur la base d'un rapport sur la situation sociale et la pauvreté afin de déterminer la politique visant à prévenir et à diminuer la pauvreté et l'exclusion sociale et d'en assurer la mise en œuvre.
 
 #### Art. 10
 
-**Domicile – Conjoints et partenaires enregistrés**
+**Rapport sur la situation sociale et la pauvreté – En général**
 
-<sup>1</sup> Chaque conjoint ou partenaire enregistré a un domicile d'aide sociale indépendant.
+<sup>1</sup> Le Conseil d'Etat transmet en principe une fois par législature au Grand Conseil un rapport sur la situation sociale et la pauvreté qui vise à suivre l'évolution de la problématique de la pauvreté dans le canton et à anticiper les mesures de prévention en faveur des populations concernées.
+
+<sup>2</sup> Le rapport est établi par le Service en charge de l'action sociale[^10-1] (ci-après: le Service).
+
+<sup>3</sup> Il comporte une partie quantitative et une partie qualitative qui permettent de fournir une compréhension multidimensionnelle de la problématique de la pauvreté.
+
+[^10-1]: Actuellement: Service de l'action sociale.
 
 #### Art. 11
 
-**Domicile – Séjour en institution**
+**Rapport sur la situation sociale et la pauvreté – Base de données à des fins statistiques**
 
-<sup>1</sup> Le séjour, volontaire ou non, dans un home, un hôpital ou tout autre établissement et, s'il s'agit d'une personne majeure, le placement dans une famille, décidé par une autorité, ne constituent pas un domicile d'aide sociale.
+<sup>1</sup> Le rapport sur la situation sociale et la pauvreté se fonde sur une base de données spécialement créée qui s'appuie sur les données disponibles suivantes:
+
+- a) des données fiscales, fournies par le service en charge des contributions[^11-1];
+- b) des données des registres communaux des habitants comprises sur la plateforme informatique cantonale prévue à l'article 16 de la loi du 23 mai 1986 sur le contrôle des habitants, fournies par le service chargé des questions de population et de migration[^11-2];
+- c) des données de l'aide sociale, fournies par le Service;
+- d) des données liées aux subsides de formation, fournies par le Service en charge des subsides de formation[^11-3];
+- e) des données des prestations complémentaires et des allocations pour impotents de l'AVS-AI, fournies par l'Etablissement cantonal des assurances sociales;
+- f) des données fournies par les associations ou fondations actives dans le soutien aux personnes en situation de précarité.
+
+<sup>2</sup> Le Conseil d'Etat précise les données à transmettre, spécifie les modalités de transmission et de conservation des données et édicte les mesures de sécurité à prendre afin que soient garanties la confidentialité et la protection des données traitées.
+
+[^11-1]: Actuellement: Service cantonal des contributions.
+[^11-2]: Actuellement: Service de la population et des migrants.
+[^11-3]: Actuellement: Service des subsides de formation.
 
 #### Art. 12
 
-**Domicile – Mineurs**
+**Rapport sur la situation sociale et la pauvreté – Traitement de données**
 
-<sup>1</sup> Quel que soit son lieu de séjour, l'enfant mineur partage le domicile d'aide sociale de ses parents ou de celui d'entre eux qui détient l'autorité parentale.
+<sup>1</sup> Les services et les établissements traitant des données nécessaires à l'élaboration du rapport les transmettent d'office, au moins une fois par législature, au service chargé de la statistique[^12-1].
 
-<sup>2</sup> Si les parents n'ont pas de domicile civil commun, il partage le domicile d'aide social du parent avec lequel il vit.
+<sup>2</sup> Dans l'accomplissement de ses tâches en lien avec l'établissement du rapport, le service chargé de la statistique est autorisé à faire usage du numéro AVS au sens de l'article 50c de la loi fédérale sur l'assurance-vieillesse et survivants du 20 décembre 1946 (ci-après: NAVS). Il procède aux appariements de données nécessaires et transmet les résultats obtenus, sous une forme anonymisée, au Service.
 
-<sup>3</sup> Il a un domicile d'aide sociale indépendant:
+<sup>3</sup> Le service chargé de la statistique conserve pendant quinze ans les données nécessaires à l'établissement du rapport sous une forme non anonymisée, permettant ainsi l'analyse longitudinale des parcours de vie sur trois législatures. Ces données ne peuvent pas être utilisées à d'autres fins que l'établissement du rapport et doivent être détruites à la fin du délai de conservation.
 
-- a) en cas de tutelle, à son dernier domicile d'aide sociale avant l'institution de la tutelle;
-- b) au lieu fixé à l'article 9, lorsqu'il exerce une activité lucrative et qu'il est normalement capable de pourvoir à son entretien;
-- c) au dernier domicile d'aide sociale fixé aux alinéas 1 et 2, lorsqu'il ne vit pas avec ses parents, ou avec l'un des deux, de façon durable;
-- d) à son lieu de séjour dans les autres cas.
+[^12-1]: Actuellement: Service de la statistique et de la donnée.
+
+## 3 Aide personnelle
 
 #### Art. 13
 
-**Domicile – Personnes sous curatelle de portée générale**
+**Généralités**
 
-<sup>1</sup> La personne protégée par une curatelle de portée générale a son domicile d'aide sociale dans la commune où elle réside en fait et y crée son centre d'activités.
+<sup>1</sup> L'aide personnelle est une prestation visant à:
+
+- a) prévenir les difficultés sociales et matérielles de la personne dans le besoin;
+- b) l'aider à surmonter ces difficultés;
+- c) favoriser ou maintenir son intégration sociale et professionnelle.
 
 #### Art. 14
 
-**Délégation**
+**Contenu**
 
-<sup>1</sup> L'Etat peut confier, par convention, à des institutions privées le mandat d'octroyer l'aide sociale à certains groupes de personnes, notamment aux personnes soumises à la législation en matière d'asile.
+<sup>1</sup> L'aide personnelle comprend principalement:
 
-<sup>2</sup> La convention règle également les voies de droit contre les décisions rendues par les institutions privées.
-
-## 2 Organisation
-
-### 2.1 Communes
+- a) l'information, le conseil, l'accompagnement individuel et le renforcement de la capacité d'intégration sociale ou professionnelle des personnes;
+- b) l'orientation des personnes ayant besoin d'une aide spécifique vers des organismes compétents;
+- c) l'intervention auprès d'autres organismes compétents lorsque les démarches pour obtenir l'aide s'avèrent difficiles à réaliser par les personnes concernées.
 
 #### Art. 15
 
-**Tâches des communes**
+**Conditions**
 
-<sup>1</sup> Les communes veillent à ce que les personnes dans le besoin bénéficient de l'aide sociale octroyée en vertu de la présente loi, notamment les mesures d'insertion sociale.
+<sup>1</sup> L'aide personnelle est destinée à la personne confrontée à des difficultés sociales ou matérielles qu'elle n'est pas en mesure de gérer seule.
+
+<sup>2</sup> L'aide personnelle est accordée gratuitement indépendamment du droit à une aide financière, à d'autres prestations liées aux besoins ou à des prestations d'assurances sociales, pour autant que la situation ne relève pas de dispositions de protection au sens des articles 393 et suivants du code civil suisse du 10 décembre 1907 (CC).
+
+## 4 Couverture des besoins de base
 
 #### Art. 16
 
-**Collaboration intercommunale – En général**
+**Généralités**
 
-<sup>1</sup> Pour accomplir leurs tâches en matière d'aide sociale, les communes collaborent, au besoin, conformément à la loi sur les communes, sous réserve des dispositions de la présente loi.
+<sup>1</sup> La couverture des besoins de base est une prestation financière visant à fournir à la personne dans le besoin les moyens indispensables pour mener une existence conforme à la dignité humaine, que sa situation lui soit imputable ou non.
+
+<sup>2</sup> La couverture des besoins de base est limitée à l'aide d'urgence pour les personnes se trouvant dans certaines situations particulières définies à l'article 25.
 
 #### Art. 17
 
-**…**
+**Contenu**
+
+<sup>1</sup> Les besoins de base comprennent notamment les éléments suivants:
+
+- a) le forfait pour l'entretien;
+- b) le loyer et, lorsque la personne est propriétaire de son bien immobilier, les intérêts hypothécaires ainsi que les charges, à l'exclusion de l'amortissement;
+- c) les frais des soins et des traitements médicaux nécessaires, notamment les frais dentaires, la franchise et la participation relative aux prestations d'assurance-maladie obligatoire, ainsi que la prime d'assurance-maladie obligatoire;
+- d) la participation aux frais de placement dans des familles d'accueil ou dans des institutions, à condition que le placement soit conforme à la législation spéciale et résulte, pour la personne mineure, d'un mandat de la justice;
+- e) les prestations circonstancielles destinées à la couverture des besoins particuliers, au sens des normes de la Conférence suisse des institutions d'action sociale (ci-après: normes CSIAS).
+
+<sup>2</sup> Le Conseil d'Etat fixe les barèmes des montants destinés à couvrir les besoins de base au sens de l'alinéa 1 ainsi que les modalités d'application, en se référant aux normes CSIAS.
 
 #### Art. 18
 
-**Service social**
+**Conditions**
 
-<sup>1</sup> Les communes créent un service social doté de personnel qualifié.
+<sup>1</sup> La couverture des besoins de base est accordée sous déduction des revenus, de la fortune ou d'autres ressources dont disposent la personne dans le besoin et les membres de l'unité d'assistance.
 
-<sup>1<sup>bis</sup></sup> Un service social doit englober une population d'au moins 3000 habitants et du personnel qualifié représentant au moins un emploi à mi-temps. Le Conseil d'Etat peut, sur demande motivée, accorder des dérogations.
+<sup>2</sup> La couverture des besoins de base est subsidiaire à l'entretien et à l'assistance prodigués par la famille à ses membres, ainsi qu'aux autres prestations légales, contractuelles ou volontaires de tiers.
 
-<sup>2</sup> Le service social accomplit les tâches suivantes:
-
-- a) il contribue à la prévention sociale et collabore avec les institutions privées et publiques;
-- a<sup>bis</sup>) il instruit les dossiers d'aide sociale et demande le préavis de la commune de domicile d'aide sociale;
-- b) il fournit l'aide personnelle et l'aide matérielle aux personnes désignées aux articles 7 et 8 après avoir soumis les demandes d'aide matérielle à la commission sociale ou au Service de l'action sociale;
-- c) il décide, en cas d'urgence, de l'octroi d'une aide matérielle limitée et soumet sa décision à l'autorité compétente pour ratification;
-- d) il transmet au Service de l'action sociale les avis d'aide sociale relevant des lois fédérales et des conventions internationales;
-- e) il présente, pour remboursement, à la fin de chaque trimestre civil, aux communes et à l'Etat, le décompte des aides matérielles accordées;
-- f) il élabore un rapport annuel d'activités à l'intention des communes et de la Direction en charge de l'aide sociale[^18-1] (ci-après: la Direction).
-
-<sup>3</sup> Au besoin, le service social sollicite, pour les mineurs, la collaboration du Service de l'enfance et de la jeunesse.
-
-[^18-1]: Actuellement: Direction de la santé et des affaires sociales.
-
-#### Art. 18a
-
-**Collaboration**
-
-<sup>1</sup> Lors d'un transfert de prise en charge entre un service social et un office régional de placement, et réciproquement, une collaboration étroite et régulière est instaurée entre les deux instances.
-
-<sup>2</sup> Une convention détermine le contenu et les modalités de cette collaboration.
-
-<sup>3</sup> D'autres services peuvent être appelés à collaborer, notamment l'orientation scolaire et professionnelle, la formation professionnelle et l'assurance-invalidité.
-
-<sup>4</sup> …
+<sup>3</sup> Lorsque la personne est titulaire d'une créance alimentaire en vertu du droit de la famille, elle doit la faire valoir, au besoin par une action en justice, ou, sur décision de l'autorité d'aide sociale, lui céder ses droits.
 
 #### Art. 19
 
-**Commission sociale – Composition**
+**Calcul de la prestation**
 
-<sup>1</sup> Les communes créent une commission sociale composée de cinq à neuf membres.
+<sup>1</sup> Les besoins de base sont calculés en fonction de la composition du ménage, du type de logement et de l'âge de la personne.
 
-<sup>1<sup>bis</sup></sup> Les membres de la commission sociale peuvent être choisis hors des exécutifs communaux.
+<sup>2</sup> L'ensemble des revenus et de la fortune des membres de l'unité d'assistance est pris en compte. L'imputation du patrimoine des enfants est fondée sur les dispositions du droit civil.
 
-<sup>2</sup> Le responsable du service social et l'assistant social chargé du dossier assistent aux séances de la commission avec voix consultative.
+<sup>3</sup> Sont pris en compte les revenus et fortunes auxquels la personne bénéficiaire a renoncé, qu'elle a refusé de faire valoir ou dont elle s'est dessaisie. Il peut être renoncé à l'imputation dans les cas de rigueur.
+
+<sup>4</sup> La règle de l'alinéa 3 ne s'applique pas à la personne hospitalisée qui ne peut pas rester à domicile et qui doit séjourner durablement dans un établissement médico-social ou une institution spécialisée. Les montants octroyés par l'aide sociale dans ces situations doivent être remboursés par les personnes bénéficiaires du dessaisissement.
+
+<sup>5</sup> Le Conseil d'Etat fixe les modalités de calcul des revenus et de la fortune des membres de l'unité d'assistance ainsi que la mesure dans laquelle les revenus et fortunes hypothétiques au sens de l'alinéa 3 sont retenus. Il peut prévoir des franchises sur les montants des revenus et de la fortune ainsi que des mesures incitatives.
 
 #### Art. 20
 
-**Commission sociale – Tâches**
+**Unité d'assistance**
 
-<sup>1</sup> La commission sociale décide de l'octroi, du refus, de la modification, de la suppression et du remboursement de l'aide matérielle relevant de l'article 7; elle en détermine la forme, la durée et le montant.
+<sup>1</sup> L'unité d'assistance est composée:
 
-<sup>1<sup>bis</sup></sup> Elle prend les décisions relevant du contrat d'insertion sociale. Elle peut, par décision, annuler ou modifier le contrat si la personne dans le besoin ne remplit pas ses obligations ou si la mesure s'avère inadéquate.
+- a) de la personne requérante;
+- b) de son conjoint ou de sa conjointe;
+- c) de son partenaire enregistré ou de sa partenaire enregistrée;
+- d) de la personne avec qui elle vit en concubinage stable;
+- e) de ses enfants à charge.
 
-<sup>2</sup> Elle détermine le domicile d'aide sociale.
+<sup>2</sup> Sont considérées comme vivant en concubinage stable au sens de la présente loi, les personnes qui:
 
-<sup>3</sup> …
+- a) vivent en union libre et ont un enfant en commun;
+- b) vivent en union libre depuis au moins deux ans;
+- c) reconnaissent elles-mêmes vivre en concubinage.
 
-### 2.2 Etat
+<sup>3</sup> Les enfants à charge sont les enfants mineurs dont la garde est attribuée à un membre de l'unité d'assistance ainsi que les enfants majeurs ayant le même domicile que les parents et à l'égard desquels un membre de l'unité d'assistance a une obligation d'entretien au sens du droit civil.
+
+<sup>4</sup> Le ménage est constitué de toutes les personnes qui vivent dans le même logement, y compris celles qui ne font pas partie de l'unité d'assistance.
 
 #### Art. 21
 
-**Service – En général**
+**Modalités d'octroi**
 
-<sup>1</sup> Il est institué un Service de l'action sociale subordonné à la Direction.
+<sup>1</sup> La couverture des besoins de base est allouée sous forme:
 
-<sup>2</sup> Le Service de l'action sociale décide de l'aide matérielle relevant de l'article 8, et de son remboursement.
+- a) de prestations en espèces ou en nature;
+- b) de garanties, lorsqu'il s'agit d'assurer les obligations de la personne dans le besoin auprès de tiers appelés à lui fournir des prestations destinées à satisfaire des besoins de base;
+- c) de prestations découlant du contrat d'insertion socioprofessionnelle.
 
-<sup>3</sup> Il rembourse aux services sociaux l'aide matérielle à charge de l'Etat.
+<sup>2</sup> Le service social régional peut effectuer directement auprès de tiers le paiement des charges incombant à la personne dans le besoin, lorsque les circonstances le justifient.
 
-<sup>4</sup> Il peut consulter, auprès des services sociaux, les dossiers des bénéficiaires.
+#### Art. 22
 
-<sup>5</sup> Il propose à la Direction des mesures générales relatives à l'information, à la prévention et à la formation. Il contribue à la coordination des services sociaux.
+**Avances de la couverture des besoins de base**
 
-<sup>6</sup> Il veille à ce que les communes, les services sociaux et les commissions sociales assument leurs tâches en matière d'aide sociale.
+<sup>1</sup> La couverture des besoins de base est accordée à titre d'avance sur toute ressource en attente, notamment:
 
-#### Art. 21a
+- a) sur les prestations des assurances ou de tiers tenus de verser des prestations;
+- b) lorsque la personne dispose d'éléments de fortune dont la réalisation ne se justifie pas, n'est pas possible ou exigible à court terme.
 
-**Service – Révision**
+#### Art. 23
 
-<sup>1</sup> Le Service procède périodiquement à des travaux de révision des dossiers des bénéficiaires.
+**Garanties conventionnelles**
 
-<sup>2</sup> La révision a pour objet la vérification de la bonne application des normes et des lois régissant l'aide sociale ainsi que de la bonne utilisation des ressources allouées dans ce domaine par l'Etat, les communes ou la Confédération.
+<sup>1</sup> L'octroi de la couverture des besoins de base à titre d'avance est subordonné, hormis les cas de subrogation légale, à la cession de créances, au nantissement de valeurs ou biens mobiliers, à la constitution de garantie immobilière ou à la constitution d'autres formes de garanties en faveur de l'autorité d'aide sociale.
 
-<sup>3</sup> Les vérifications effectuées sont contenues dans un rapport de révision détaillé qui fait état des pièces contrôlées, des erreurs constatées et des conséquences des vérifications. Ce rapport est remis par le Service à la commission sociale et au service social concernés, à l'Inspection des finances ainsi qu'à la Direction.
+<sup>2</sup> Celle-ci peut renoncer à une garantie lorsque la couverture des besoins de base avancée est peu élevée ou s'étend sur une brève période.
 
-#### Art. 21b
+<sup>3</sup> En règle générale, le bénéficiaire cède la créance ou fournit les garanties prévues à l'alinéa 1 au moment où débute la couverture des besoins de base. Dans des cas particuliers, l'autorité d'aide sociale lui accorde un délai raisonnable pour le faire.
 
-**Service – Inspection**
+#### Art. 24
 
-<sup>1</sup> Le Service procède d'office, ou sur requête de la commission sociale, du service social ou de la Direction, à des travaux d'inspection des dossiers des bénéficiaires afin qu'il soit vérifié que les conditions qui déterminent le besoin au sens de la présente loi sont remplies et que les prestations d'aide sociale sont utilisées conformément à leur but.
+**Aide d'appoint**
 
-<sup>2</sup> L'inspection donne lieu à une enquête, notamment par une observation sur le terrain, des prises de vue dans le domaine public et une visite à domicile autorisée, qui est soumise aux principes de proportionnalité et de finalité. L'enquête doit être menée par une personne qualifiée à cet effet et soumise au secret de fonction. L'enquête s'étend aux personnes faisant ménage commun avec une personne bénéficiant de prestations d'aide sociale ou ayant à son égard une obligation d'entretien.
+<sup>1</sup> Une aide d'appoint peut être accordée ponctuellement aux personnes en difficulté domiciliées dans le canton pour éviter le recours à une couverture des besoins de base.
 
-L'enquête porte en particulier sur les éléments suivants:
+#### Art. 25
+
+**Aide d'urgence**
+
+<sup>1</sup> L'aide d'urgence garantit la couverture des besoins fondamentaux au sens de l'article 12 de la Constitution fédérale du 18 avril 1999.
+
+<sup>2</sup> Sont réduites à l'aide d'urgence les personnes dans le besoin qui se trouvent dans les situations particulières suivantes:
+
+- a) les personnes de passage;
+- b) les étrangers non titulaires d'une autorisation de séjour;
+- c) les ressortissants de l'UE ou de l'AELE, ainsi que les personnes dont ils ont la charge et faisant ménage commun:
+  - 1\. détenteurs d'un permis de courte durée qui n'exercent pas une activité lucrative sur le premier marché du travail;
+  - 2\. détenteurs d'une autorisation de séjour en cas de cessation volontaire des rapports de travail ou de cessation involontaire des rapports de travail au cours des douze premiers mois de séjour, sous réserve des exceptions prévues dans la législation fédérale.
+
+<sup>3</sup> L'aide d'urgence est dans la mesure du possible allouée sous forme de prestations en nature. Elle comprend:
+
+- a) le logement, en règle générale, dans un lieu d'hébergement collectif;
+- b) la remise de denrées alimentaires et d'articles d'hygiène;
+- c) les soins médicaux indispensables;
+- d) l'octroi, en cas de besoin établi, d'autres prestations de première nécessité.
+
+<sup>4</sup> Au surplus, le Conseil d'Etat précise les modalités d'octroi.
+
+## 5 Mesures d'insertion socioprofessionnelle
+
+#### Art. 26
+
+**Généralités**
+
+<sup>1</sup> Les mesures d'insertion socioprofessionnelle visent à développer les compétences de la personne dans le besoin, à éviter son isolement social, à renforcer son aptitude au placement ou à favoriser sa réinsertion socioprofessionnelle.
+
+<sup>2</sup> Les mesures d'insertion socioprofessionnelle sont prioritairement accordées aux personnes bénéficiant d'une couverture des besoins de base.
+
+<sup>3</sup> Pendant la durée du contrat d'insertion socioprofessionnelle, la couverture des besoins de base est majorée d'un montant incitatif.
+
+<sup>4</sup> Les personnes réduites à l'aide d'urgence ne peuvent pas bénéficier des mesures d'insertion socioprofessionnelle.
+
+<sup>5</sup> Il n'existe pas de droit à une mesure d'insertion socioprofessionnelle.
+
+#### Art. 27
+
+**Contenu**
+
+<sup>1</sup> Les mesures d'insertion socioprofessionnelle sont des activités réalisées par un partenaire public ou privé, distinct des organes chargés de l'exécution de la présente loi, et conformes aux objectifs de la loi.
+
+#### Art. 28
+
+**Conditions**
+
+<sup>1</sup> Les mesures d'insertion socioprofessionnelle doivent être pertinentes et adaptées à la situation de la personne bénéficiaire.
+
+<sup>2</sup> Les mesures d'insertion socioprofessionnelle durent au maximum douze mois consécutifs. Leur prolongation est du ressort du service social régional.
+
+<sup>3</sup> Les mesures doivent figurer dans un catalogue tenu par le Service.
+
+<sup>4</sup> Un bilan est établi périodiquement avec la personne dans le besoin dans le but d'évaluer l'adéquation de la mesure.
+
+#### Art. 29
+
+**Contrat d'insertion socioprofessionnelle**
+
+<sup>1</sup> Un contrat d'insertion socioprofessionnelle définit la mesure reconnue comme contre-prestation de la couverture des besoins de base accordée.
+
+<sup>2</sup> Ce contrat est individuel et conclu entre l'autorité d'aide sociale et la personne dans le besoin. Sa nature juridique est celle d'un contrat de droit administratif.
+
+<sup>3</sup> L'autorité d'aide sociale peut astreindre la personne bénéficiaire à participer à une mesure d'insertion socioprofessionnelle.
+
+## 6 Soutien à la formation
+
+#### Art. 30
+
+**Généralités**
+
+<sup>1</sup> La couverture des besoins de base peut comprendre un soutien à la formation visant à améliorer les perspectives d'emploi sur le marché du travail.
+
+<sup>2</sup> Les personnes réduites à l'aide d'urgence ne peuvent pas bénéficier d'un soutien à la formation.
+
+<sup>3</sup> Les personnes bénéficiaires de prestations complémentaires selon la loi du 8 février 2024 sur les prestations complémentaires pour les familles (LPCFam) peuvent bénéficier d'un soutien à la formation.
+
+#### Art. 31
+
+**Contenu**
+
+<sup>1</sup> Un projet de formation fixe, par convention entre la personne concernée et les organes chargés de l'exécution de la présente loi, les objectifs et les modalités de la formation.
+
+#### Art. 32
+
+**Conditions**
+
+<sup>1</sup> Un soutien à la formation peut être accordé si celle-ci n'est pas financée par d'autres sources de revenus ou ne peut l'être que partiellement.
+
+<sup>2</sup> La formation est choisie en fonction de l'âge, de l'état de santé, de la situation personnelle et doit correspondre aux aptitudes de la personne concernée.
+
+<sup>3</sup> La personne concernée doit collaborer activement avec l'organe chargé de l'exécution de la présente loi à la définition du projet de formation et à sa concrétisation.
+
+<sup>4</sup> Il n'existe pas de droit à un soutien à la formation.
+
+## 7 Droits et devoirs
+
+#### Art. 33
+
+**Droits**
+
+<sup>1</sup> La personne bénéficiaire a le droit:
+
+- a) d'être entendue;
+- b) de consulter son dossier et les décisions prises à son égard;
+- c) à la protection de ses données.
+
+#### Art. 34
+
+**Obligation de collaborer**
+
+<sup>1</sup> Toute personne sollicitant une aide sociale ou qui en bénéficie est tenue, en particulier:
+
+- a) de tout mettre en œuvre elle-même ou par des démarches utiles auprès de tiers pour éviter, supprimer ou atténuer une situation de besoin et préserver ou retrouver son autonomie;
+- b) de réduire les dépenses ou de renoncer aux biens ou services incompatibles avec la couverture des besoins de base;
+- c) d'utiliser la prestation dans le but pour lequel elle a été accordée;
+- d) de rechercher activement et accepter un emploi convenable;
+- e) d'accepter une mesure d'insertion socioprofessionnelle appropriée ou une autre mesure analogue, telle qu'une formation, et de respecter les modalités de la mesure ou du projet de formation;
+- f) de se soumettre à l'examen du ou de la médecin-conseil, lorsqu'il est nécessaire de déterminer son état de santé afin d'établir un soutien adapté;
+- g) d'entreprendre les démarches nécessaires à la réalisation d'un bien immobilier ou mobilier, lorsque celle-ci est exigible;
+- h) d'accepter une visite domiciliaire annoncée.
+
+<sup>2</sup> Est considéré comme convenable au sens de l'alinéa 1 let. d tout emploi adapté à l'âge, l'état de santé et la situation personnelle de l'intéressé‑e.
+
+#### Art. 35
+
+**Obligation de renseigner**
+
+<sup>1</sup> Pour permettre aux organes chargés de l'exécution de la présente loi de déterminer le droit aux prestations, toute personne sollicitant une aide financière ou qui en bénéficie est soumise aux obligations suivantes:
+
+- a) fournir les renseignements complets sur sa situation personnelle, familiale et financière;
+- b) signaler sans retard tout changement de situation qui peut avoir une influence sur son droit aux prestations;
+- c) signer au besoin une procuration permettant de prendre à son sujet les informations nécessaires auprès de tiers.
+
+<sup>2</sup> En cas de doute sur l'exactitude ou la véracité des renseignements fournis par la personne concernée sur sa situation personnelle ou financière, l'autorité d'aide sociale peut exiger de la personne concernée qu'elle délie du secret de fonction, du secret fiscal, du secret médical, du secret bancaire ou de tout autre secret professionnel, les services ou tiers nommément désignés afin de permettre la récolte des informations nécessaires pour lever ces doutes.
+
+#### Art. 36
+
+**Sanctions**
+
+<sup>1</sup> L'autorité d'aide sociale peut sanctionner la personne bénéficiaire, si celle-ci viole ses obligations de manière intentionnelle ou par négligence.
+
+<sup>2</sup> La sanction consiste en la réduction du forfait d'entretien de l'unité d'assistance. Elle doit respecter le principe de proportionnalité et tenir compte notamment de la situation de la personne concernée et de la présence d'enfants mineurs.
+
+<sup>3</sup> Un avertissement n'est pas nécessaire s'il résulte des circonstances qu'il demeurera sans effet.
+
+<sup>4</sup> La décision de sanction doit indiquer, outre le montant et la durée de la réduction, le motif de la sanction. Elle indique, selon les circonstances, les exigences que la personne bénéficiaire doit remplir pour que la sanction soit allégée ou supprimée.
+
+<sup>5</sup> La réduction au titre de sanction est cumulable avec un remboursement mentionné à l'article 71.
+
+<sup>6</sup> Le Conseil d'Etat précise dans l'ordonnance les modalités des sanctions, les réductions applicables et la durée ainsi que le taux maximal en cas de cumul des réductions, ainsi que lors de l'application de compensations.
+
+#### Art. 37
+
+**Refus ou suppression de la couverture des besoins de base**
+
+<sup>1</sup> La couverture des besoins de base est refusée ou supprimée lorsque:
+
+- a) la personne sollicitant la couverture des besoins de base ou la personne bénéficiaire ne répond pas ou plus aux conditions de la présente loi au sens de l'article 3;
+- b) la personne concernée n'est pas ou plus domiciliée dans le canton, n'y séjourne pas ou n'y séjourne plus; est réservé le cas d'un court séjour à l'étranger de la personne domiciliée dans le canton;
+- c) les revenus des membres de l'unité d'assistance dépassent leurs dépenses reconnues;
+- d) leur fortune dépasse les franchises admises, sous réserve de l'article 22 al. 1 let. b;
+- e) la personne ne constitue pas la garantie à laquelle est subordonné l'octroi de l'avance de couverture des besoins de base.
+
+<sup>2</sup> La couverture des besoins de base est aussi refusée ou supprimée totalement ou partiellement lorsque:
+
+- a) le défaut de collaboration empêche l'autorité d'aide sociale d'établir la situation d'indigence;
+- b) la personne a refusé un emploi ou une activité lucrative convenables, à concurrence du salaire offert et tant que l'emploi est concrètement disponible;
+- c) la personne a refusé de participer à une activité de réinsertion socioprofessionnelle rémunérée ou à un projet de formation;
+- d) la personne a renoncé, refusé de faire valoir ou s'est dessaisie d'un revenu ou d'une fortune qui lui aurait permis de subvenir à son entretien;
+- e) la personne a violé de manière réitérée ses obligations découlant des articles 34 et 35, sans s'amender.
+
+## 8 Organisation et compétences
+
+#### Art. 38
+
+**Principe**
+
+<sup>1</sup> L'aide sociale est mise en place par l'Etat et les communes, à moins que la présente loi n'en dispose autrement.
+
+#### Art. 39
+
+**Organisation territoriale**
+
+<sup>1</sup> L'aide sociale est organisée en régions qui correspondent à un ou plusieurs districts.
+
+<sup>2</sup> La commune de plus de 25'000 habitants peut former sa propre région d'aide sociale.
+
+<sup>3</sup> Sont réservées les dispositions de la présente loi sur les tâches assumées directement par l'Etat.
+
+### 8.1 Etat
+
+#### Art. 40
+
+**Tâches**
+
+<sup>1</sup> L'Etat définit la politique visant à prévenir et lutter contre la pauvreté et l'exclusion sociale.
+
+<sup>2</sup> Il assume les tâches et prend les décisions d'aide sociale en faveur des personnes visées par la législation fédérale sur l'asile jusqu'à l'obtention du permis d'établissement ou jusqu'à ce qu'elles dépendent des dispositions de la loi fédérale sur les étrangers et l'intégration (LEI).
+
+#### Art. 41
+
+**Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat a les attributions suivantes:
+
+- a) il exerce la surveillance sur les organes chargés de l'exécution de la présente loi;
+- b) il édicte les normes de calcul de la couverture des besoins de base, en se référant aux normes de la CSIAS. Il consulte préalablement la Conférence des autorités d'aide sociale et les milieux intéressés;
+- c) il assure la coordination interdirectionnelle des politiques sociales et veille à la coordination de l'aide sociale publique et privée;
+- d) il adopte le plan d'action proposé par la Direction;
+- e) il mandate périodiquement un organe externe pour évaluer les effets de la présente loi, y compris en rapport avec les mesures d'insertion de la loi sur l'emploi et le marché du travail (LEMT).
+
+#### Art. 42
+
+**Direction**
+
+<sup>1</sup> La Direction a les attributions suivantes:
+
+- a) elle édicte les directives d'application de la présente loi;
+- b) elle édicte les concepts relatifs à l'insertion socioprofessionnelle;
+- c) elle conclut les mandats de prestation établis au sens de l'article 44;
+- d) elle traite les réclamations contre les décisions des organisations privées délégataires au sens de l'article 82;
+- e) elle veille, en tant qu'autorité de surveillance, à l'application correcte de la présente loi;
+- f) elle met à disposition des organes chargés de l'exécution de la présente loi un système d'information électronique permettant la gestion des informations nécessaires à l'application de la présente loi. Elle consulte préalablement la Conférence des autorités d'aide sociale;
+- g) elle propose au Conseil d'Etat le plan d'action prévu à l'article 9 et veille à sa bonne application;
+- h) elle prend toute décision relevant de la présente loi et qui est du ressort de l'Etat mais qui n'est pas placée dans la compétence du Conseil d'Etat ou du Service.
+
+#### Art. 43
+
+**Service**
+
+<sup>1</sup> Le Service exerce les tâches suivantes:
+
+- a) il assure que les communes, les commissions sociales, les services sociaux régionaux et les organismes mandatés assument leurs tâches en matière d'aide sociale, il coordonne leurs actions et veille à l'harmonisation des pratiques et des procédures et à la qualité des prestations;
+- b) il inspecte l'organisation et le fonctionnement des organes chargés de l'application de la présente loi et contrôle l'application des normes d'aide sociale par des travaux périodiques de révision des dossiers des bénéficiaires. Il conseille ces organes et peut leur donner des instructions;
+- c) lorsqu'il constate des irrégularités dans un organe chargé de l'application de la présente loi, il veille à la mise en œuvre des outils de surveillance prévus par la loi sur les communes;
+- d) il rembourse aux services sociaux régionaux les prestations financières à charge de l'Etat ou d'autres cantons en vertu de la LAS;
+- e) il définit et adopte les mesures d'insertion socioprofessionnelle, constitue un catalogue, désigne les organisateurs de ces mesures et en assure la coordination;
+- f) il s'acquitte des tâches relevant du droit fédéral;
+- g) il élabore les mesures du plan d'action prévues à l'article 9 et en coordonne la mise en œuvre;
+- h) il confère le mandat d'observation dans le domaine de compétence de l'Etat;
+- i) il élabore et met en œuvre des mesures générales relatives à l'information et à la formation des commissions sociales, du personnel des services sociaux et des organisations privées délégataires;
+- j) il promeut l'échange d'informations et la collaboration entre les services sociaux et avec les organes publics et privés contribuant au but de la présente loi;
+- k) il veille à la mise en place, au développement et à l'administration du système d'information électronique prévu à l'article 55;
+- l) il établit des critères uniformes de saisie statistique, veille à la collecte et au traitement des données statistiques récoltées par les services publics et les organisations privées impliqués dans la mise en œuvre de la présente loi.
+
+#### Art. 44
+
+**Organisations à caractère social**
+
+<sup>1</sup> L'Etat peut confier à des organisations privées ou à un établissement autonome de droit public le mandat d'octroyer des prestations spécifiques en lien avec les buts de la présente loi, notamment pour les personnes relevant du domaine de l'asile.
+
+<sup>2</sup> Les mesures d'insertion socioprofessionnelle au sens de l'article 26 réalisées dans le cadre d'un mandat sont répertoriées dans le catalogue prévu à l'article 28 al. 3.
+
+<sup>3</sup> L'attribution d'un nouveau mandat est soumise pour préavis à la Conférence des autorités d'aide sociale, sauf pour les tâches à charge de l'Etat.
+
+<sup>4</sup> L'externalisation du traitement des données doit répondre aux exigences de la législation sur la protection des données en la matière.
+
+### 8.2 Communes
+
+#### Art. 45
+
+**Tâches**
+
+<sup>1</sup> Les communes veillent à ce que les personnes dans le besoin bénéficient de l'aide sociale octroyée en vertu de la présente loi.
+
+<sup>2</sup> Elles se constituent à cette fin sous la forme d'association de communes, selon l'organisation régionale prévue à l'article 39 al. 1, sous réserve de l'article 39 al. 2. L'organisation et le fonctionnement de celle-ci sont régis par la loi sur les communes, sous réserve des dispositions de la présente loi.
+
+<sup>3</sup> Elles mettent en place pour la région d'aide sociale une commission sociale et un service social régional.
+
+#### Art. 46
+
+**Compétence à raison du lieu**
+
+<sup>1</sup> L'autorité dont relève la commune de domicile de la personne dans le besoin est compétente pour statuer sur son droit à l'aide sociale.
+
+<sup>2</sup> Lorsque la personne est sans domicile, l'octroi de l'aide sociale incombe à l'autorité dont relève la commune de séjour.
+
+<sup>3</sup> Lorsqu'une personne a besoin d'une aide immédiate et limitée dans le temps hors de son canton ou de sa commune de domicile, l'autorité dont relève la commune de séjour est compétente pour la lui accorder.
+
+<sup>4</sup> En cas de séjour ou de placement au sens de l'article 5 LAS et en l'absence de domicile, l'octroi de l'aide sociale incombe à la dernière commune qui, dans les cinq dernières années, a accordé une couverture des besoins de base.
+
+<sup>5</sup> Les communes ne sont pas autorisées à renvoyer une personne dans le besoin ni à l'empêcher ou à lui interdire de s'établir sur leur territoire. En cas d'inobservation de cette disposition, l'association de communes dont relève la commune concernée ou la commune qui est dans le tort est tenue de rembourser la totalité des coûts de la couverture des besoins de base des cinq dernières années à l'association de communes ou à la commune ayant octroyé l'aide.
+
+#### Art. 47
+
+**Commission sociale – Composition**
+
+<sup>1</sup> Les commissions sociales sont composées de cinq à neuf membres.
+
+<sup>2</sup> L'association de communes ou la commune, au sens de l'article 39 al. 2, choisit les membres de la commission sociale dans les différents milieux politiques, économiques et sociaux. Ils peuvent l'être hors des exécutifs communaux.
+
+<sup>3</sup> Le service social régional tient le secrétariat de la commission. La personne responsable de ce service assiste aux séances de la commission avec voix consultative.
+
+<sup>4</sup> Un représentant ou une représentante du Service peut participer, à titre consultatif, aux séances de la commission sociale.
+
+<sup>5</sup> L'association de communes ou la commune, au sens de l'article 39 al. 2, adopte un règlement de portée générale qui détermine l'organisation et le fonctionnement de la commission sociale.
+
+#### Art. 48
+
+**Commission sociale – Attributions**
+
+<sup>1</sup> La commission sociale est l'autorité d'aide sociale, sous réserve des compétences du service social régional et du Service. Elle décide:
+
+- a) de l'octroi, du refus, de la modification, de la suppression et de la cessation de la couverture des besoins de base;
+- b) de la conclusion et de la dénonciation du contrat d'insertion socioprofessionnelle;
+- c) de la sanction au sens de l'article 36 et de sa suppression;
+- d) du dépôt d'une dénonciation pénale;
+- e) du pouvoir de représentation devant les autorités judiciaires administratives, pénales et civiles;
+- f) du remboursement des aides octroyées.
+
+<sup>2</sup> Elle peut, de manière générale ou dans une affaire particulière, déléguer sa compétence décisionnelle au sens de l'alinéa 1 au service social régional, à l'exclusion:
+
+- a) de l'octroi initial et du refus de la couverture des besoins de base. L'article 50 al. 1 let. h est réservé;
+- b) de la suppression de celle-ci;
+- c) des décisions sur réclamation au sens de l'article 82.
+
+<sup>3</sup> La commission sociale fixe les règles de délégation générale au sens de l'alinéa 2 dans un règlement et en contrôle l'application.
+
+#### Art. 49
+
+**Service social régional – Collaborateurs et collaboratrices**
+
+<sup>1</sup> Le service social régional comprend un responsable ou une responsable de service et du personnel suffisant et qualifié pour répondre à sa mission.
+
+#### Art. 50
+
+**Service social régional – Attributions**
+
+<sup>1</sup> Le service social régional assure l'aide aux personnes en difficulté sociale ou matérielle. Il accomplit les tâches suivantes:
+
+- a) il exerce les compétences décisionnelles déléguées par la commission sociale;
+- b) il contribue à la prévention sociale, fournit l'aide personnelle et la couverture des besoins de base, met en œuvre les mesures d'insertion socioprofessionnelle ainsi que les projets de formation et en assure le suivi;
+- c) il vérifie régulièrement l'évolution de la situation personnelle, financière et familiale des membres de l'unité d'assistance;
+- d) il élabore avec la personne bénéficiaire le contrat d'insertion socioprofessionnelle et le projet de formation;
+- e) il collabore avec l'ensemble des services concernés lors d'un transfert de dossier;
+- f) il octroie un mandat d'observation, au sens de l'article 63;
+- g) il sollicite, au besoin, pour les mineurs, la collaboration du Service en charge de la protection de l'enfance et de la jeunesse[^50-1];
+- h) il octroie, si nécessaire, une couverture des besoins de base provisoire;
+- i) il octroie des sûretés dans le domaine locatif;
+- j) il élabore le rapport annuel d'activité à l'attention de la Direction et de l'association des communes ou de la commune;
+- k) il transmet au Service les avis d'assistance relevant du droit fédéral;
+- l) il récolte, enregistre et gère dans le système d'information électronique, selon les dispositions du Service, les données comptables, sociodémographiques, statistiques et les documents électroniques pour chaque membre de l'unité d'assistance;
+- m) il présente au Service, pour remboursement, à la fin de chaque trimestre, les décomptes des couvertures des besoins de base accordées selon les recommandations du Service;
+- n) il informe et oriente le public sur les services à disposition;
+- o) il participe à la collaboration interinstitutionnelle et applique les conventions de collaborations au sens de la LEMT;
+- p) il transmet au Service les décisions judiciaires en matière d'aide sociale et les dénonciations pénales.
+
+[^50-1]: Actuellement: Service de l'enfance et de la jeunesse.
+
+### 8.3 Collaborations
+
+#### Art. 51
+
+**En général**
+
+<sup>1</sup> Afin d'atteindre les buts fixés dans la présente loi, les organes et institutions concernés sont tenus de collaborer et coordonner leurs actions.
+
+<sup>2</sup> Les organes concernés participent activement à la collaboration interinstitutionnelle définie notamment par la LEMT.
+
+<sup>3</sup> Des conventions de collaboration peuvent être conclues avec d'autres organismes publics ou privés œuvrant à la réinsertion sociale ou professionnelle.
+
+#### Art. 52
+
+**Conférence des autorités d'aide sociale**
+
+<sup>1</sup> Une conférence réunissant les présidents et présidentes des commissions sociales est instituée.
+
+<sup>2</sup> Elle a les compétences suivantes:
+
+- a) préaviser les actes législatifs et les directives d'application de l'aide sociale;
+- b) préaviser le plan d'action périodique au sens de l'article 9;
+- c) se prononcer sur les mesures de prévention relevant de l'article 4 al. 2.
+
+<sup>3</sup> Le Service convoque au moins deux fois par année la conférence. La Direction en assure la présidence.
+
+#### Art. 53
+
+**Conférence des responsables des services sociaux régionaux**
+
+<sup>1</sup> Une conférence réunissant les responsables des services sociaux régionaux est instituée.
+
+<sup>2</sup> Elle est consultée sur les mesures propres à assurer l'application et la coordination de l'aide sociale ainsi que d'autres questions s'y rapportant.
+
+<sup>3</sup> Le Service convoque au moins deux fois par année la conférence des responsables des services sociaux régionaux. Le Service en assure la présidence.
+
+## 9 Instruments du dispositif d'aide sociale
+
+#### Art. 54
+
+**Conseil médical**
+
+<sup>1</sup> La Direction désigne un ou une médecin-conseil ou plusieurs médecins-conseil et un ou une médecin-dentiste-conseil ou plusieurs médecins-dentistes-conseil.
+
+<sup>2</sup> Le ou la médecin-conseil prévu‑e par la LEMT et celui ou celle désigné‑e par la Direction sont compétents pour fournir des clarifications relatives à la capacité de travail des bénéficiaires et pour aider l'autorité d'aide sociale à définir un soutien adapté.
+
+<sup>3</sup> Le ou la médecin-dentiste-conseil est compétent‑e pour préaviser des devis concernant des soins dentaires entraînant des frais importants et se prononcer sur la nécessité, l'adéquation ainsi que le coût des traitements proposés.
+
+#### Art. 55
+
+**Système d'information électronique**
+
+<sup>1</sup> Un système d'information commun, accessible par procédure d'appel, est constitué afin de gérer et coordonner les informations nécessaires à l'application de la présente loi.
+
+<sup>2</sup> Ce système d'information constitue un fichier au sens de la loi sur la protection des données (LPrD), le responsable du fichier étant le Service.
+
+<sup>3</sup> Il a pour but d'aider les organes chargés de l'exécution de la présente loi à contrôler la subsidiarité, gérer les dossiers des bénéficiaires, effectuer la répartition des charges, assurer le suivi des remboursements, exercer le pilotage et la surveillance du dispositif d'aide sociale.
+
+<sup>4</sup> Il répertorie des données sensibles, ainsi que des données sociodémographiques, comptables, statistiques et des documents électroniques pour chaque personne membre de l'unité d'assistance.
+
+<sup>5</sup> Les membres de l'unité d'assistance sont informés que les données les concernant sont traitées dans le système d'information électronique.
+
+<sup>6</sup> Les services sociaux régionaux et le Service enregistrent, gèrent et échangent les données par l'intermédiaire de ce système d'information commun, dans le respect des règles découlant de la protection des données.
+
+<sup>7</sup> Il permet la consultation par voie électronique des renseignements de tiers, au sens de l'article 76.
+
+<sup>8</sup> Le NAVS sert d'identifiant unique et à l'échange électronique des données entre les registres officiels des personnes.
+
+<sup>9</sup> Le Conseil d'Etat fixe les règles d'administration, la procédure d'autorisation et les modalités du droit d'accès, en prenant en considération les exigences de la protection des données.
+
+## 10 Procédures
+
+### 10.1 En général
+
+#### Art. 56
+
+**Règles applicables**
+
+<sup>1</sup> Sauf dispositions contraires de la présente loi, les règles du code de procédure et de juridiction administrative (CPJA) sont applicables.
+
+#### Art. 57
+
+**Requête**
+
+<sup>1</sup> Toute personne qui sollicite une aide sociale s'adresse au service social régional compétent à raison de son domicile ou de son lieu de séjour.
+
+<sup>2</sup> La requête de couverture des besoins de base est considérée avoir été déposée:
+
+- a) le jour de l'annonce auprès du service social régional, pour autant que les membres de l'unité d'assistance fournissent tous les documents nécessaires au calcul de leur droit à une couverture des besoins de base dans le délai fixé par le service social régional, ou
+- b) à défaut, le jour où tous les documents requis sont en possession du service social régional.
+
+<sup>3</sup> Les établissements hospitaliers informent dans les trente jours le service social régional de l'admission de personnes séjournant dans le canton qui sont dans le besoin.
+
+#### Art. 58
+
+**Instruction de la requête – En général**
+
+<sup>1</sup> Le service social régional procède avec célérité à l'instruction de la requête.
+
+<sup>2</sup> L'instruction porte notamment sur la situation personnelle, financière, familiale et sociale de la personne qui sollicite une couverture des besoins de base ainsi que sur celle des membres de l'unité d'assistance et des personnes ayant une obligation d'entretien à l'égard de ces derniers.
+
+#### Art. 59
+
+**Préavis**
+
+<sup>1</sup> Avant de rendre une décision, le service social requiert le préavis de la commune fribourgeoise de domicile ou du lieu de séjour de la personne requérante.
+
+<sup>2</sup> Pour que la commune puisse rédiger le préavis, le service social lui donne les éléments importants concernant la personne requérante.
+
+#### Art. 60
+
+**Décision provisoire**
+
+<sup>1</sup> Une couverture des besoins de base provisoire peut être accordée jusqu'à décision sur la requête.
+
+#### Art. 61
+
+**Gratuité**
+
+<sup>1</sup> La procédure d'aide sociale est gratuite.
+
+<sup>2</sup> Les frais d'administration des preuves peuvent être mis à la charge de la personne qui a perçu ou tenté de percevoir des prestations indûment.
+
+#### Art. 62
+
+**Décision**
+
+<sup>1</sup> Toute décision de l'autorité d'aide sociale est notifiée par écrit, dans les meilleurs délais, avec indication des voies de droit, à la personne concernée et à la commune de domicile d'aide sociale ou de séjour et au Service pour les cas relevant de la législation fédérale.
+
+### 10.2 Observation
+
+#### Art. 63
+
+**Principes**
+
+<sup>1</sup> A l'exception de l'enfant mineur, l'autorité compétente peut faire observer la personne requérante ou bénéficiaire de l'aide sociale et effectuer des enregistrements visuels et sonores, afin d'établir des faits spécifiques:
+
+- a) si elle dispose d'indices concrets laissant présumer que la personne perçoit, a perçu ou tente de percevoir des prestations de manière indue, et
+- b) si, sans mesure d'observation, l'établissement des faits serait impossible ou excessivement difficile.
+
+<sup>2</sup> L'autorité compétente informe la personne requérante à l'ouverture du dossier, que, en cas de soupçons d'obtention illicite de prestations, elle pourra faire l'objet d'une observation.
+
+#### Art. 64
+
+**Conditions**
+
+<sup>1</sup> Les personnes concernées ne peuvent être observées que si elles se trouvent dans un lieu accessible au public ou dans un lieu librement visible depuis un lieu accessible au public.
+
+<sup>2</sup> Une observation peut avoir lieu durant trente jours au maximum au cours d'une période de six mois à compter du premier jour d'observation. Cette période peut être prolongée de six mois au maximum si des motifs suffisants le justifient; en cas de prolongation, la durée maximale d'observation de trente jours est maintenue.
+
+<sup>3</sup> La personne en charge de l'observation ne doit pas influencer le comportement de la personne bénéficiaire.
+
+<sup>4</sup> Sans le consentement de la personne bénéficiaire, l'accès à son lieu de travail, à son domicile ou à son véhicule n'est pas autorisé.
+
+#### Art. 65
+
+**Mandat**
+
+<sup>1</sup> Le mandat d'observation est confié aux inspecteurs et inspectrices cantonaux spécialisés rattachés au Service ou à la police locale ou intercommunale.
+
+<sup>2</sup> Le mandat définit les éléments sur lesquels doit porter l'observation. Il peut porter notamment sur les éléments suivants:
 
 - a) les ressources financières, revenus, fortune ou en nature, en Suisse et à l'étranger, ainsi que la capacité de gain et de travail;
 - b) les charges courantes et les autres dépenses;
@@ -305,285 +840,275 @@ L'enquête porte en particulier sur les éléments suivants:
 - d) l'état civil et la composition effective du ménage;
 - e) l'utilisation conforme des prestations d'aide sociale.
 
-<sup>3</sup> Les résultats de l'enquête sont consignés dans un rapport que le Service remet à l'autorité compétente en matière d'aide sociale ou à l'autorité ayant requis l'inspection.
+<sup>3</sup> Le Service dispose de moyens suffisants pour assurer rapidement et efficacement l'exécution du mandat.
 
-<sup>4</sup> Avant de prendre une décision, l'autorité compétente en matière d'aide sociale communique les conclusions du rapport à la personne concernée, en lui impartissant un délai pour lui permettre de se déterminer. Le rapport est versé au dossier de cette personne.
+#### Art. 66
 
-<sup>5</sup> Lorsqu'un abus d'aide sociale est constaté, le Service transmet les conclusions du rapport à d'autres services de l'Etat touchés par cet abus.
+**Résultats et protection des données**
 
-<sup>6</sup> Le rapport d'activité de la Direction fait état des résultats obtenus par les inspections.
+<sup>1</sup> Les résultats de l'observation sont consignés dans un rapport remis à l'autorité compétente, avec les moyens de preuves exploitables.
 
-<sup>7</sup> Les dispositions du présent article s'appliquent aux services sociaux qui procèdent eux-mêmes aux travaux d'inspection. Ils désignent les personnes qualifiées à cet effet et soumises au secret de fonction. Ils transmettent au Service les conclusions de leurs rapports mentionnées aux alinéas 4 et 5 ainsi que la décision de la commission sociale y relative.
+<sup>2</sup> L'autorité compétente informe la personne concernée du motif, de la nature et de la durée de l'observation avant de rendre une décision.
 
-#### Art. 22
+<sup>3</sup> Si l'observation n'a pas permis de confirmer les indices visés à l'article 63 al. 1 let. a, l'autorité compétente rend une décision concernant le motif, la nature et la durée de l'observation et détruit, après l'entrée en force de la décision, le matériel recueilli lors de l'observation si l'une des personnes concernées n'a pas expressément demandé que celui-ci soit conservé au dossier.
 
-**Direction**
+<sup>4</sup> Si l'observation confirme les indices visés à l'article 63 al. 1 let. a, l'autorité compétente communique sa décision au Service. Celui-ci informe les autres services concernés, en particulier de l'Etat.
 
-<sup>1</sup> La Direction en charge de l'aide sociale[^22-1] émet les concepts des mesures d'insertion sociale qui sont examinées sous l'angle de leur pertinence, de leur adéquation et de leur non-concurrence avec le marché de l'emploi. Pour ce faire, elle consulte les organes d'exécution et les milieux appropriés relevant de la loi sur l'emploi et l'aide aux chômeurs.
+<sup>5</sup> Le Conseil d'Etat règle:
 
-<sup>2</sup> Elle prend toute décision qui ne ressortit pas à une autre autorité.
+- a) la procédure selon laquelle la personne observée peut consulter le matériel complet recueilli lors de l'observation;
+- b) la conservation et la destruction du matériel recueilli;
+- c) les exigences à l'endroit des spécialistes chargés de l'observation.
 
-<sup>3</sup> Elle établit un concept qui fixe le cadre de la mise en œuvre des travaux d'inspection et de révision visés par les articles 21a et suivant.
+## 11 Remboursement
 
-[^22-1]: Actuellement: Direction de la santé et des affaires sociales.
+#### Art. 67
 
-#### Art. 22a
+**Principes**
 
-**Conseil d'Etat**
+<sup>1</sup> La personne bénéficiaire majeure et, le cas échéant, son conjoint ou sa conjointe, concubin ou concubine stable ou partenaire enregistré vivant en ménage commun avec elle, sont tenus solidairement au remboursement de la couverture des besoins de base versée pour toute l'unité d'assistance.
 
-<sup>1</sup> Le Conseil d'Etat édicte les normes de calcul de l'aide matérielle, en se référant aux normes de la Conférence suisse des institutions d'action sociale. Il consulte préalablement les commissions sociales et les milieux intéressés.
+<sup>2</sup> Les montants à rembourser ne produisent pas d'intérêts, sauf s'ils ont été obtenus de manière illicite.
 
-<sup>2</sup> Il peut mettre sur pied des groupes de travail interdépartementaux en relation avec l'application de la présente loi et de la loi sur l'emploi et l'aide aux chômeurs.
+<sup>3</sup> Le Conseil d'Etat règle les modalités des remboursements.
 
-<sup>3</sup> Il mandate, au moins une fois par législature, un organe externe pour évaluer quantitativement et qualitativement les mesures d'insertion de la présente loi et celles de la loi sur l'emploi et l'aide aux chômeurs. Il en informe le Grand Conseil.
+#### Art. 68
 
-<sup>4</sup> …
+**Héritiers**
 
-## 3 Procédure
+<sup>1</sup> L'obligation de rembourser s'étend aux héritiers et héritières jusqu'à concurrence de leur part d'héritage ainsi qu'aux bénéficiaires d'une prestation d'assurance-vie versée à la suite du décès de la personne dans le besoin.
 
-#### Art. 23
+#### Art. 69
 
-**Requête**
+**Libération de l'obligation de rembourser**
 
-<sup>1</sup> Toute personne qui sollicite une aide sociale s'adresse au service social auquel sa commune de domicile ou de séjour est rattachée.
+<sup>1</sup> N'est pas tenu au remboursement, sous réserve de l'article 66:
 
-<sup>2</sup> Les établissements hospitaliers informent sans délai le Service de l'action sociale de l'admission de personnes de passage dans le canton qui sont dans le besoin.
+- a) le jeune majeur pour l'aide allouée pendant sa formation au sens de l'article 277 al. 2 CC, la responsabilité des parents étant réservée;
+- b) la personne majeure, pour l'aide obtenue pendant sa minorité, la responsabilité des parents étant réservée;
+- c) pendant sa formation au sens de l'article 277 al. 2 CC, le jeune adulte de moins de 25 ans révolus pour l'aide allouée à ses parents;
+- d) la personne bénéficiaire pour la couverture des besoins de base perçue pendant qu'elle-même ou un membre de l'unité d'assistance participait à une mesure d'insertion au sens des articles 26 et suivants ou réalisait un projet de formation au sens des articles 30 et suivants;
+- e) la personne bénéficiaire pour la couverture des besoins de base correspondant à l'entretien de la famille avancé selon les articles 131a al. 2, 176a, 286a al. 3 et 329 al. 3 CC.
 
-#### Art. 24
+<sup>2</sup> L'alinéa 1 n'est pas applicable lorsque la personne bénéficiaire entre en possession d'une fortune importante.
 
-**Obligation de renseigner – Demandeur**
+<sup>3</sup> Lorsque la couverture des besoins de base a été avancée dans l'attente de la réalisation de ressources (art. 22 al. 1 let. b), l'alinéa 1 let. d et e n'est pas applicable, une fois les ressources réalisées, à hauteur de celles-ci.
 
-<sup>1</sup> La personne qui sollicite une aide matérielle est tenue d'informer le service social de sa situation personnelle et financière de manière complète et de produire les documents nécessaires à l'enquête.
+#### Art. 70
 
-<sup>2</sup> L'aide matérielle peut être refusée si le requérant ne produit pas les documents nécessaires à l'enquête. Cependant, elle ne peut être refusée à une personne dans le besoin, même si celle-ci est personnellement responsable de son état.
+**Remboursement des prestations obtenues légalement**
 
-<sup>3</sup> Le bénéficiaire doit informer sans délai le service social de tout changement de sa situation.
+<sup>1</sup> La personne bénéficiaire est tenue au remboursement de la couverture des besoins de base obtenue légalement:
 
-<sup>4</sup> En respectant les principes de proportionnalité et de finalité, le service social compétent peut faire signer au demandeur une procuration l'autorisant à requérir lui-même auprès des communes, des services de l'Etat, des assurances sociales et privées, ainsi qu'auprès de tiers, les informations nécessaires concernant en particulier les ressources financières du demandeur, ses charges courantes, son état civil et sa situation domiciliaire ainsi que sa capacité de travail et de gain.
+- a) lorsque la personne entre en possession d'une fortune dépassant le montant prévu à l'article 11 al. 1 let. c de la loi fédérale sur les prestations complémentaires à l'assurance vieillesse, survivants et invalidité (LPC);
+- b) lors de la reprise d'une activité lucrative, pour autant que cela n'incite pas la personne bénéficiaire à ne pas reprendre un travail rémunéré;
+- c) dans d'autres cas, lorsque l'équité l'exige.
 
-<sup>5</sup> En cas de doute sur l'exactitude ou la véracité des renseignements fournis par le demandeur concernant sa situation personnelle et financière, celui-ci doit délier du secret les services ou tiers nommément désignés afin de permettre aux autorités d'aide sociale de récolter les informations à son sujet qui sont nécessaires à la détermination de son droit à l'aide matérielle. A la demande des autorités d'aide sociale, il doit notamment lever le secret bancaire et le secret fiscal. En cas de refus, le demandeur peut être sanctionné au sens de l'alinéa 2 ci-dessus ou dans les limites définies dans les normes relevant de l'article 22a al. 1.
+<sup>2</sup> La capacité de remboursement tient compte des ressources des membres de l'unité d'assistance visés à l'article 67 al. 1.
 
-#### Art. 25
+<sup>3</sup> La commission sociale décide du remboursement en fixant au besoin des acomptes. Elle peut renoncer totalement ou partiellement au remboursement dans les cas de rigueur.
 
-**Obligation de renseigner – Etat, communes et tiers**
+#### Art. 71
 
-<sup>1</sup> Les services de l'Etat, les communes, les assurances sociales et privées, les banques, les employeurs et les tiers fournissent gratuitement au demandeur et aux autorités d'aide sociale qui en font la demande tous les renseignements nécessaires à l'établissement du besoin au sens de la présente loi.
+**Remboursement des prestations obtenues indûment**
 
-<sup>2</sup> Lesdits renseignements portent en particulier sur les éléments mentionnés à l'article 21b al. 2.
+<sup>1</sup> La personne bénéficiaire est tenue au remboursement de la couverture des besoins de base obtenue indûment.
 
-#### Art. 26
+<sup>2</sup> Si le versement indu résulte d'une erreur de l'autorité d'aide sociale, sans faute de la personne bénéficiaire, l'autorité d'aide sociale peut renoncer en tout ou en partie au remboursement lorsqu'il mettrait la personne bénéficiaire dans une situation difficile.
 
-**Notification de la décision**
+#### Art. 72
 
-<sup>1</sup> Toute décision de la commission sociale est notifiée par écrit, avec indication des voies de droit, à la personne concernée, à la commune de domicile d'aide sociale et au Service de l'action sociale pour les cas relevant de la législation fédérale et des conventions internationales.
+**Subrogation**
 
-<sup>2</sup> Toute décision du Service de l'action sociale est notifiée par écrit à la personne concernée, avec indication des voies de droit.
+<sup>1</sup> La commission sociale qui accorde la couverture des besoins de base à titre d'avance sur les prestations des assurances ou de tiers tenus de verser des prestations est subrogée dans les droits de la personne bénéficiaire jusqu'à concurrence de la couverture des besoins de base accordée pour la période concernée.
 
-#### Art. 27
+<sup>2</sup> Lorsque l'autorité d'aide sociale assume l'entretien de la famille à la place du débiteur, elle peut faire valoir directement ses droits envers le débiteur, au besoin par une action en justice, en vertu de la subrogation prévue par le Code civil suisse.
 
-**Gratuité**
+#### Art. 73
 
-<sup>1</sup> La procédure de demande d'aide sociale est gratuite.
+**Hypothèque légale**
 
-#### Art. 28
+<sup>1</sup> Le service social régional requiert en principe l'inscription d'une hypothèque légale en sa faveur sur l'immeuble dont il a pris en charge les intérêts hypothécaires et les charges conformément à l'article 17 al. 1 let b, à concurrence des montants versés à ce titre.
 
-**Secret de fonction**
+#### Art. 74
 
-<sup>1</sup> Les collaborateurs des services sociaux, du Service de l'action sociale et des institutions privées qui travaillent à l'application de la présente loi, les membres des organes des associations de communes et les autorités communales sont tenus au secret de fonction.
+**Garantie de tiers pour le séjour d'étrangers**
 
-#### Art. 29
+<sup>1</sup> Si la personne requérante ou bénéficiaire de la couverture des besoins de base de nationalité étrangère séjourne dans le canton ou dispose d'une autorisation de séjour avec la garantie financière d'un tiers, ce dernier est tenu de rembourser la totalité de la couverture des besoins, en argent ou en nature, y compris les frais de retour dans le pays d'origine, qui aurait été fournie à la personne concernée.
 
-**Remboursement – Aide perçue légalement**
+#### Art. 75
 
-<sup>1</sup> La personne qui a reçu une aide matérielle est tenue de la rembourser, en tout ou partie, dès que sa situation financière le permet. L'aide matérielle reçue conformément à l'article 4c n'est pas remboursable.
+**Prescription**
 
-<sup>2</sup> L'obligation de rembourser s'étend aux héritiers jusqu'à concurrence de leur part d'héritage.
+<sup>1</sup> Le droit d'exiger le remboursement de la couverture des besoins de base se prescrit par dix ans à compter du dernier versement de l'aide accordée.
 
-<sup>3</sup> Le remboursement de l'aide matérielle reçue avant l'âge de 20 ans révolus ne peut être exigé.
+<sup>2</sup> Si l'obligation de remboursement résulte d'une infraction pour laquelle le droit pénal prévoit un délai de prescription plus long, celui-ci est également applicable à la créance en remboursement.
 
-<sup>4</sup> Le service social qui accorde une aide matérielle à titre d'avance sur les prestations des assurances ou de tiers tenus de verser des prestations est subrogé dans les droits du bénéficiaire, jusqu'à concurrence de l'aide matérielle accordée.
+<sup>3</sup> À l'égard des héritiers de la personne aidée, l'obligation de remboursement se prescrit par deux ans dès la dévolution de la succession.
 
-#### Art. 30
+<sup>4</sup> Les délais de prescription au sens des alinéas 1 à 3 sont interrompus par tout acte prévu à l'article 135 du code des obligations du 30 mars 1911, par tout nouveau versement de la couverture des besoins de base ainsi que par le prononcé d'une décision de remboursement au sens de l'article 48 al. 1 let. f.
 
-**Remboursement – Aide perçue illégalement**
+<sup>5</sup> Un nouveau délai de même durée commence à courir dès l'interruption, si la personne n'est pas ou plus au bénéfice de la couverture des besoins de base.
 
-<sup>1</sup> Celui qui, par des déclarations fausses ou incomplètes, a obtenu une aide matérielle, est tenu de rembourser le montant perçu à tort.
+<sup>6</sup> Les délais de prescription au sens des alinéas 1 à 3 sont suspendus aussi longtemps que la personne tenue au remboursement ne peut pas être mise en poursuite en Suisse.
 
-<sup>2</sup> Toutefois, une remise peut être accordée si le requérant était de bonne foi et si le remboursement du montant perçu à tort le mettait dans une situation difficile.
+<sup>7</sup> Lorsqu'il est garanti par un gage mobilier ou immobilier, le droit d'exiger le remboursement ne se prescrit pas.
 
-#### Art. 31
+## 12 Transmission et traitement des données
 
-**Remboursement – Garantie et prescription**
+#### Art. 76
 
-<sup>1</sup> Les biens immobiliers d'une personne ayant bénéficié d'une aide matérielle sont grevés d'une hypothèque légale (art. 73 LACC) qui doit être inscrite au registre foncier et qui garantit le remboursement de l'aide matérielle accordée et des éventuels frais y relatifs. L'inscription de cette hypothèque est requise par le service social compétent.
+**Renseignements de tiers**
 
-<sup>2</sup> Le droit d'exiger le remboursement de l'aide matérielle se prescrit par dix ans à compter du dernier versement de l'aide accordée. En cas d'inscription d'une hypothèque, la prescription ne court pas.
+<sup>1</sup> Sont tenus de fournir, gratuitement, aux organes chargés de l'exécution de la présente loi les renseignements écrits ou oraux ainsi que les pièces justificatives nécessaires à l'exécution de la présente loi:
 
-<sup>3</sup> Lorsque le bénéficiaire a induit en erreur le service social, le droit d'exiger le remboursement se prescrit par cinq ans dès que l'erreur a été constatée et, dans tous les cas, par dix ans à compter du dernier versement de l'aide accordée. Toutefois, si l'acte punissable est soumis par le droit pénal à une prescription de plus longue durée, cette prescription s'applique.
+- a) les autorités administratives, conformément à l'article 50 CPJA;
+- b) les autorités pénales et civiles;
+- c) les assurances sociales et organismes privés octroyant des prestations financières;
+- d) les membres de l'unité d'assistance et les personnes ayant une obligation d'entretien à l'égard de ceux-ci;
+- e) les employeurs de personnes percevant ou sollicitant des prestations d'aide sociale;
+- f) les bailleurs louant des logements à des personnes percevant ou sollicitant des prestations d'aide sociale;
+- g) les organismes bancaires et postaux.
 
-## 4 Financement
+<sup>2</sup> Sont en particulier tenus de fournir des renseignements:
 
-#### Art. 32
+- a) le Service cantonal des contributions s'agissant des données fiscales des personnes percevant, sollicitant ou ayant perçu des prestations d'aide sociale ou des personnes pouvant avoir à l'égard de ces dernières une obligation d'entretien ou d'assistance;
+- b) les autorités du contrôle des habitants et de l'état civil;
+- c) les autorités compétentes en matière d'établissement et de séjour des étrangers;
+- d) les caisses de compensation;
+- e) les autorités compétentes en matière de protection des travailleurs et des travailleuses et de lutte contre le travail au noir;
+- f) les autorités compétentes en matière de circulation routière;
+- g) les autorités compétentes en matière de poursuites et faillites;
+- h) les autorités de protection de l'enfant et de l'adulte;
+- i) les autorités compétentes en matière de registres fonciers;
+- j) les services de recouvrement et d'avances de pensions alimentaires;
+- k) les services allouant des allocations, bourses et prêts d'étude;
+- l) les services compétents en matière d'assurance-chômage;
+- m) les organes de police cantonaux et communaux;
+- n) les autorités compétentes en matière de registre du commerce.
 
-**Répartition des charges entre Etat et communes – Aide matérielle et mesures d'insertion sociale**
+<sup>3</sup> Les personnes et autorités citées aux alinéas 1 et 2 sont notamment tenues de fournir les renseignements nécessaires pour examiner:
 
-<sup>1</sup> Sont prises en charge à raison de 40 % par l'Etat et 60 % par les communes, sous réserve de la législation fédérale et des conventions internationales, les dépenses suivantes:
+- a) les conditions personnelles et économiques des personnes percevant ou sollicitant des prestations d'aide sociale;
+- b) les droits de ces personnes à l'égard de tiers;
+- c) l'existence d'une obligation d'entretien ou d'assistance;
+- d) l'intégration sociale et professionnelle de ces personnes;
+- e) l'existence d'une obligation de remboursement au sens de la présente loi.
 
-- a) l'aide matérielle accordée en vertu de l'article 7;
-- b) les frais des mesures d'insertion sociale relevant de l'article 4a al. 3.
+<sup>4</sup> Le Conseil d'Etat fixe la liste des services qui transmettent leurs renseignements par voie électronique et les modalités d'échange d'information.
 
-#### Art. 32a
+#### Art. 77
 
-**Répartition des charges entre Etat et communes – Formation, évaluation et services sociaux spécialisés**
+**Traitement des données**
 
-<sup>1</sup> Sont prises en charge à raison de 50 % par l'Etat et 50 % par les communes, sous réserve de la législation fédérale et des conventions internationales, les dépenses suivantes:
+<sup>1</sup> Les organes chargés de l'exécution de la présente loi sont habilités à traiter et à faire traiter les données personnelles, y compris les données sensibles, qui leur sont nécessaires pour accomplir les tâches que leur assigne la présente loi, notamment pour:
 
-- a) …
-- b) les frais de formation relevant de l'article 21 al. 5;
-- c) les frais d'évaluation relevant de l'article 22a al. 3;
-- d) les frais des services sociaux spécialisés relevant de l'article 14 al. 1, à l'exception de ceux qui relèvent de la législation sur l'asile.
+- a) enregistrer et conseiller les personnes dans le besoin;
+- b) établir le droit à des prestations, les calculer, les allouer et les coordonner avec celles de tiers;
+- c) vérifier le principe de subsidiarité et faire valoir des prétentions auprès de tiers;
+- d) prévenir ou faire cesser le versement de prestations indues;
+- e) examiner l'existence d'une obligation de remboursement;
+- f) mettre en œuvre des mesures d'insertion;
+- g) établir l'état de santé et l'employabilité des personnes dans le besoin;
+- h) faciliter le transfert du dossier lors d'un changement de domicile et assurer la continuité des démarches administratives dans les mesures, les sanctions prononcées et les remboursements;
+- i) contrôler l'application de la présente loi;
+- j) établir des statistiques.
 
-#### Art. 33
+<sup>2</sup> Les données sont traitées dans le respect des règles découlant de la protection des données.
 
-**Etat**
+## 13 Financement
 
-<sup>1</sup> L'aide matérielle accordée en vertu de l'article 8 et celle qui est accordée aux ressortissants fribourgeois domiciliée dans d'autres cantons ou à l'étranger sont prises en charge par l'Etat, sous réserve de la législation fédérale et des conventions internationales.
+#### Art. 78
 
-#### Art. 34
+**Répartition des charges entre Etat et communes**
 
-**Répartition des charges entre communes – Aide matérielle, mesures d'insertion sociale et services sociaux spécialisés**
+<sup>1</sup> Sont prises en charge à raison de 40 % par l'Etat et 60 % par les communes, sous réserve de la législation fédérale, les dépenses suivantes:
 
-<sup>1</sup> Les frais des articles 32 et 32a restant à la charge des communes sont répartis entre toutes les communes du district dans lequel se trouve le service social.
+- a) la couverture des besoins de base en vertu de l'article 16;
+- b) l'aide d'appoint en vertu de l'article 24;
+- c) les mesures d'insertion socioprofessionnelle en vertu de l'article 26, sauf celles qui sont réalisées dans le cadre de l'article 44;
+- d) le soutien à la formation en vertu de l'article 30 al. 1 et 2;
+- e) les coûts des prestations octroyées dans d'autres cantons aux personnes dans le besoin domiciliées dans le canton de Fribourg.
 
-<sup>2</sup> S'il existe plusieurs services sociaux dans un district, le Service de l'action sociale effectue annuellement la répartition entre toutes les communes du district.
+<sup>2</sup> Sont prises en charge à raison de 50 % par l'Etat et 50 % par les communes, sous réserve de la législation fédérale, les dépenses suivantes:
 
-#### Art. 34a
+- a) les frais de formation relevant de l'article 43 al. 1 let i;
+- b) les frais de l'évaluation périodique du dispositif relevant de l'article 41 al. 1 let. e;
+- c) les subventions aux frais des organisations à caractère social au sens de l'article 44, à l'exception des organisations qui relèvent de la législation sur l'asile;
+- d) les frais des mesures de prévention sociale déterminées conjointement par l'Etat et les communes selon l'article 4 al. 2;
+- e) les frais de mise en place, de maintenance et de développement du système d'information électronique commun au sens de l'article 55.
 
-**Répartition des charges entre communes – Frais de fonctionnement des services sociaux**
+<sup>3</sup> Est entièrement pris en charge par l'Etat le soutien à la formation au sens de l'article 30 al. 3.
 
-<sup>1</sup> Les frais de fonctionnement des services sociaux sont répartis entre toutes les communes qui les ont institués.
+#### Art. 79
 
-#### Art. 34b
+**Observation**
 
-**Répartition des charges entre communes – Clé de répartition**
+<sup>1</sup> Les frais de l'observation sont à la charge de l'Etat ou des communes de la région d'aide sociale concernée, selon que l'observation est effectuée par les inspecteurs sociaux du Service ou la police locale ou intercommunale.
 
-<sup>1</sup> Les frais incombant aux communes en vertu de la présente loi sont répartis au prorata du chiffre de leur population dite légale.
+#### Art. 80
 
-## 4a Rapport sur la situation sociale et la pauvreté
+**Tâches de l'Etat**
 
-#### Art. 34c
+<sup>1</sup> Sont pris en charge par l'Etat:
 
-**En général**
+- a) la couverture des besoins de base accordée en vertu de l'article 40 al. 2, sous réserve de la législation fédérale;
+- b) les frais de fonctionnement pour les tâches d'aide sociale en faveur des requérants d'asile et des réfugiés selon l'article 40 al. 2;
+- c) les frais des mesures pour la mise en œuvre du plan d'action au sens de l'article 9.
 
-<sup>1</sup> Le Conseil d'Etat transmet une fois par législature au Grand Conseil un rapport sur la situation sociale et la pauvreté, qui vise à suivre l'évolution de la question de la pauvreté dans le canton et à anticiper les mesures de prévention en faveur des populations concernées.
+#### Art. 81
 
-<sup>2</sup> Le rapport est établi par le Service de l'action sociale. Il comprend une partie quantitative et une partie qualitative qui permettent de fournir une compréhension multidimensionnelle de la question de la pauvreté. Il peut en outre comprendre une analyse longitudinale des parcours de vie.
+**Répartition des charges entre communes**
 
-#### Art. 34d
+<sup>1</sup> Les coûts mentionnés à l'article 78 al. 1 et à l'article 79 restant à la charge des communes sont répartis par le Service entre toutes les communes du district.
 
-**Traitement de données à caractère personnel**
+<sup>2</sup> Les coûts mentionnés à l'article 78 al. 2 restant à la charge des communes sont répartis entre toutes les communes du canton.
 
-<sup>1</sup> Le rapport sur la situation sociale et la pauvreté se fonde sur une base de données spécialement créée qui s'appuie sur les données disponibles suivantes:
+<sup>3</sup> Les frais de fonctionnement des services sociaux régionaux, ainsi que les coûts du conseil médical au sens de l'article 54, sont répartis entre les communes de la région d'aide sociale. Est réservée la participation de l'Etat, fixée conventionnellement, aux frais de fonctionnement dans des situations particulières.
 
-- a) des données fiscales, fournies par le Service cantonal des contributions;
-- b) des données des registres communaux des habitants comprises sur la plate-forme informatique cantonale prévue à l'article 16 de la loi du 23 mai 1986 sur le contrôle des habitants, fournies par le Service de la population et des migrants;
-- c) des données de l'aide sociale, fournies par le Service de l'action sociale;
-- d) des données liées aux subsides de formation, fournies par le Service des subsides de formation;
-- e) des données des prestations complémentaires à l'AVS-AI, fournies par l'Etablissement cantonal des assurances sociales.
+<sup>4</sup> Les frais incombant aux communes sont répartis au prorata du nombre de leur population dite légale.
 
-<sup>2</sup> Les services et les établissements traitant des données nécessaires à l'élaboration du rapport les transmettent d'office, une fois par législature, au service chargé de la statistique[^34d-1].
+## 14 Voies de droit et dispositions pénales
 
-<sup>3</sup> Dans l'accomplissement de ses tâches en lien avec l'établissement du rapport, le service chargé de la statistique est autorisé à faire usage du numéro AVS. Il procède aux appariements de données nécessaires et transmet les résultats obtenus, sous une forme anonymisée, au Service de l'action sociale.
-
-<sup>4</sup> Le service chargé de la statistique conserve pendant quinze ans les données nécessaires à l'établissement du rapport sous une forme non anonymisée, permettant ainsi l'analyse longitudinale des parcours de vie sur trois législatures. Ces données ne peuvent pas être utilisées à d'autres fins que l'établissement du rapport et doivent être détruites à la fin du délai de conservation.
-
-<sup>5</sup> Le Conseil d'Etat précise les données à transmettre, spécifie les modalités de transmission et la durée de conservation des données et édicte les mesures de sécurité à prendre afin que soient garanties la confidentialité et la protection des données traitées.
-
-[^34d-1]: Actuellement: Service de la statistique et de la donnée.
-
-## 5 Voies de droit et dispositions pénales
-
-#### Art. 35
+#### Art. 82
 
 **Réclamation**
 
-<sup>1</sup> Les décisions relatives à l'aide sociale peuvent faire l'objet d'une réclamation écrite qui doit être déposée dans les trente jours à compter de la notification de la décision, auprès de l'autorité qui a rendu la décision.
+<sup>1</sup> Toute décision relative à l'aide sociale peut faire l'objet d'une réclamation écrite auprès de l'autorité qui l'a rendue, dans les trente jours dès sa notification.
 
-<sup>2</sup> La réclamation doit être brièvement motivée et contenir les conclusions du réclamant.
+<sup>2</sup> La réclamation doit être brièvement motivée et contenir les conclusions du réclamant ou de la réclamante.
 
-#### Art. 36
+#### Art. 83
 
 **Recours**
 
-<sup>1</sup> Les décisions rendues sur réclamation sont sujettes à recours auprès du Tribunal cantonal.
+<sup>1</sup> Les décisions sur réclamation peuvent faire l'objet d'un recours auprès du Tribunal cantonal, dans les trente jours à compter de leur notification.
 
-#### Art. 37
+#### Art. 84
 
-**Qualité pour agir**
+**Qualité pour recourir**
 
-<sup>1</sup> Ont qualité pour agir:
+<sup>1</sup> La qualité pour recourir est régie par le CPJA.
 
-- a) la personne qui sollicite une aide sociale;
-- b) la commune de domicile d'aide sociale et le Service de l'action sociale, contre les décisions rendues par les commissions sociales;
-- c) …
+<sup>2</sup> Ont en particulier la qualité pour recourir:
 
-#### Art. 37a
+- a) la commune de domicile ou de séjour;
+- b) le Service pour les cas relevant de la législation fédérale;
+- c) l'association de communes ou la commune au sens de l'article 39 al. 2, par la commission sociale, contre les décisions du préfet ou de la préfète tranchant un conflit de compétence.
+
+#### Art. 85
 
 **Dispositions pénales**
 
-<sup>1</sup> Est passible d'amende celui qui obtient illégalement une aide matérielle, en particulier par des déclarations fausses ou incomplètes, ou celui qui l'utilise à des fins non conformes à la présente loi, ou celui qui ne rembourse pas les avances d'aide sociale versées à titre d'avance sur des prestations d'assurance ou de tiers.
+<sup>1</sup> Sera, sur plainte, punie d'une amende la personne qui:
 
-<sup>2</sup> La commission sociale, le service social régional ainsi que le Service sont compétents pour dénoncer un abus d'aide sociale aux autorités de poursuite pénale.
+- a) utilise une prestation d'aide sociale à des fins non conformes à la présente loi;
+- b) ne rembourse pas, par sa faute, l'aide matérielle versée à titre d'avance sur des prestations d'assurance ou de tiers ou sur des ressources en attente.
 
-<sup>3</sup> La poursuite et le jugement des infractions ont lieu conformément à la loi sur la justice.
+<sup>2</sup> En cas de procédure pénale pour violation des articles 146 ou 148a CP ou du présent article, peuvent exercer les droits d'une partie plaignante:
 
-## 6 Dispositions finales et transitoires
+- a) l'autorité d'aide sociale;
+- b) le service social régional;
+- c) le Service.
 
-#### Art. 38
-
-**Abrogation**
-
-<sup>1</sup> Sont abrogés:
-
-- a) la loi du 17 juillet 1951 sur l'assistance;
-- b) l'arrêté du 12 décembre 1942 réglementant l'hébergement des passants pauvres.
-
-#### Art. 39
-
-**Modification**
-
-<sup>1</sup> La loi du 22 novembre 1911 d'application du code civil suisse pour le canton de Fribourg est modifiée comme il suit:
-
-...
-
-#### Art. 40
-
-**…**
-
-#### Art. 41
-
-**…**
-
-#### Art. 42
-
-**…**
-
-#### Art. 42a
-
-**…**
-
-#### Art. 43
-
-**Exécution et entrée en vigueur**
-
-<sup>1</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi, dont il fixe la date d'entrée en vigueur.[^43-1]
-
-<sup>2</sup> Dans les deux ans qui suivent la promulgation de la présente loi, les communes ont l'obligation de prendre toutes les mesures nécessaires à son application. A défaut, le Conseil d'Etat crée les services sociaux et constitue les commissions sociales, aux frais des communes.
-
-[^43-1]: Date d'entrée en vigueur: 1<sup>er</sup> juillet 1994, à l'exception de l'art. 43 al. 2 déjà entré en vigueur le 7 avril 1992 (ACE 07.04.1992).
-
-**Approbation**
-
-La modification du 08.09.2011 a été approuvée par le Département fédéral de justice et police le 21.12.2011.
-
-BL/AGS 1991 f 657 / d 671
+2024\_074

@@ -4,34 +4,31 @@ number: "831.0.1"
 title: Sozialhilfegesetz
 short: SHG
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-11-21
+version: 2026-01-01
+version_adopted: 2024-10-09
 adopted: 2024-10-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/831.0.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/8127/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Sozialhilfegesetz
 
-Sozialhilfe – G
-
 (SHG)
 
-vom 14.11.1991 (Fassung in Kraft getreten am 01.01.2020)
+vom 09.10.2024 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Grosse Rat des Kantons Freiburg
 
-gestützt auf den Artikel 48 der Bundesverfassung;
+gestützt auf Artikel 115 der Bundesverfassung vom 18. April 1999 (BV);
 
-gestützt auf das Bundesgesetz vom 24. Juni 1977 über die Zuständigkeit für die Unterstützung Bedürftiger;
+gestützt auf die Artikel 12 Abs. 3 und 26 Abs. 1 des Bundesgesetzes vom 24. Juni 1977 über die Zuständigkeit für die Unterstützung Bedürftiger (ZUG);
 
-gestützt auf das Bundesgesetz vom 21. März 1973 über Fürsorgeleistungen an Auslandschweizer;
+gestützt auf die Artikel 3 Abs. 1 Bst. e, 7 Abs. 2 und 36 Abs. 1 der Kantonsverfassung vom 16. Mai 2004 (KV);
 
-nach Einsicht in die Botschaft des Staatsrates vom 12. März 1991;
+nach Einsicht in die Botschaft 2020-DSAS-145 des Staatsrats vom 14. November 2023;
 
 auf Antrag dieser Behörde,
 
@@ -41,549 +38,1083 @@ beschliesst:
 
 #### Art. 1
 
-**Gegenstand**
+**Zweck**
 
-<sup>1</sup> Dieses Gesetz regelt die von den Gemeinden und vom Staat gewährte Sozialhilfe für Personen, die im Kanton Wohnsitz haben, sich hier aufhalten oder vorübergehend hier sind.
+<sup>1</sup> Dieses Gesetz bezweckt, den sozialen Zusammenhalt zu stärken und jeder und jedem zu ermöglichen, eigenständig ein menschenwürdiges Leben zu führen.
 
-<sup>2</sup> Die Bestimmungen der Gesetzgebung des Bundes über die Hilfe an Opfer von Straftaten bleiben vorbehalten.
+<sup>2</sup> Im Besonderen zielt es darauf ab:
+
+- a) die Ursachen für Armut und soziale Ausgrenzung zu ermitteln und zu verhindern;
+- b) Personen in sozialen oder materiellen Schwierigkeiten die notwendige Hilfe zu bieten;
+- c) die soziale und berufliche Integration zu fördern;
+- d) die wirtschaftliche Unabhängigkeit zu erlangen;
+- e) mit der Entwicklung einer transversalen Politik einen ganzheitlichen Ansatz zu fördern.
 
 #### Art. 2
 
-**Zweck**
+**Grundsätze**
 
-<sup>1</sup> Dieses Gesetz bezweckt, die Eigenständigkeit und die soziale Integration bedürftiger Personen zu fördern.
+<sup>1</sup> Die Sozialhilfe stützt sich auf die folgenden Grundsätze:
+
+- a) Wahrung der Menschenwürde;
+- b) Subsidiarität der Hilfe;
+- c) Individualisierung der Hilfe;
+- d) Zweck der Hilfe;
+- e) Bedarfsdeckung;
+- f) Verhältnismässigkeit der Hilfe;
+- g) Leistung und Gegenleistung;
+- h) Professionalität und Qualität;
+- i) Koordination mit Dritten.
 
 #### Art. 3
 
-**Begriff**
+**Sozialhilfebeziehende**
 
-<sup>1</sup> Bedürftig ist, wer sich in sozialen Schwierigkeiten befindet oder für seinen Lebensunterhalt nicht hinreichend oder nicht rechtzeitig aus eigenen Mitteln aufkommen kann.
+<sup>1</sup> Sozialhilfeleistungen im Sinne dieses Gesetzes erhalten bedürftige Personen mit Wohnsitz im Kanton oder bedürftige Personen, die sich im Kanton aufhalten. Die Asylgesetzgebung bleibt vorbehalten.
+
+<sup>2</sup> Bedürftig im Sinne dieses Gesetzes ist eine Person, die soziale Schwierigkeiten nicht überwinden kann oder nicht hinreichend oder nicht rechtzeitig für den eigenen Lebensunterhalt aufkommen kann, weder mit eigenen Mitteln noch mit Leistungen von Dritten, auf die ein Anspruch besteht.
+
+<sup>3</sup> Die Begriffe Wohnsitz und Aufenthalt entsprechen der Definition gemäss Bundesgesetzgebung über die Zuständigkeit für die Unterstützung Bedürftiger.
 
 #### Art. 4
 
-**Arten der Sozialhilfe**
+**Mittel**
 
-<sup>1</sup> Die Sozialhilfe umfasst die Vorbeugung, die persönliche Hilfe, die materielle Hilfe und die Massnahme zur sozialen Eingliederung (Eingliederungsmassnahme).
+<sup>1</sup> Die Sozialhilfe umfasst folgende Leistungen:
 
-<sup>2</sup> Die Vorbeugung umfasst alle allgemeinen oder besonderen Massnahmen, die es gestatten, die Beanspruchung der persönlichen und materiellen Hilfe abzuwenden.
+- a) die persönliche Hilfe;
+- b) die materielle Grundsicherung;
+- c) die sozialberuflichen Eingliederungsmassnahmen;
+- d) die Unterstützung bei der Ausbildung.
 
-<sup>3</sup> Die persönliche Hilfe umfasst namentlich das Gespräch, die Information und die Beratung.
-
-<sup>4</sup> Die materielle Hilfe besteht in Geld, in Naturalleistungen oder erfolgt innerhalb eines Vertrags zur sozialen Eingliederung (der Eingliederungsvertrag).
-
-<sup>5</sup> Die Eingliederungsmassnahme im Rahmen eines Eingliederungsvertrags ermöglicht es dem Sozialhilfeempfänger, seine gesellschaftliche Eigenständigkeit und Eingliederung zu erlangen oder wiederzuerlangen.
-
-#### Art. 4a
-
-**Eingliederungsvertrag – Inhalt**
-
-<sup>1</sup> Mit der bedürftigen Person kann ein individueller Eingliederungsvertrag abgeschlossen werden. Dieser ist einem verwaltungsrechtlichen Vertrag gleichgestellt.
-
-<sup>2</sup> Die bedürftige Person muss den Eingliederungsvertrag annehmen, sofern er auf ihre Fähigkeiten und Möglichkeiten abgestellt ist. Lehnt sie das vorgeschlagene Eingliederungsprojekt ab, kann die materielle Hilfe bis zum Minimum gekürzt werden, das durch die Richtsätze nach Artikel 22a Abs. 1 bestimmt wird.
-
-<sup>3</sup> Im Eingliederungsvertrag wird die als Gegenleistung anerkannte Eingliederungsmassnahme bestimmt.
-
-#### Art. 4b
-
-**Eingliederungsvertrag – Dauer**
-
-<sup>1</sup> Der Eingliederungsvertrag gilt für eine begrenzte Zeit. Er wird für 6–12 Monate abgeschlossen.
-
-<sup>2</sup> Um zu beurteilen, ob die Massnahme sinnvoll ist, wird in regelmässigen Zeitabständen mit der bedürftigen Person eine Zwischenbilanz gezogen.
-
-#### Art. 4c
-
-**Eingliederungsvertrag – Materielle Hilfe**
-
-<sup>1</sup> Für die Dauer des Eingliederungsvertrags erhält die bedürftige Person eine materielle Hilfe. Diese beruht auf den Richtsätzen nach Artikel 22a Abs. 1 und wird um einen Betrag erhöht, der als Anreiz dienen soll.
-
-<sup>2</sup> Dieser zusätzliche Betrag wird im Ausführungsreglement festgesetzt.
+<sup>2</sup> Zusätzlich zu den individuellen Sozialhilfeleistungen ermutigt der Staat die soziale Prävention und unterstützt soziale Organisationen.
 
 #### Art. 5
 
-**Subsidiarität**
+**Sozialhilfegeheimnis, Anzeigepflicht**
 
-<sup>1</sup> Die Sozialhilfe wird gewährt, soweit der Bedürftige von seiner Familie oder seinen Angehörigen nicht gemäss den Bestimmungen des Schweizerischen Zivilgesetzbuches oder des Bundesgesetzes über die eingetragene Partnerschaft gleichgeschlechtlicher Paare unterhalten werden kann und keine anderen gesetzlichen Leistungen geltend machen kann, auf die er Anspruch hat.
+<sup>1</sup> Die Mitglieder der mit dem Vollzug dieses Gesetzes betrauten Organe unterliegen dem Amtsgeheimnis.
+
+<sup>2</sup> Sie sind vom Sozialhilfegeheimnis entbunden:
+
+- a) wenn die betroffene Person ihre schriftliche, freie und aufgeklärte Zustimmung zur Auskunftserteilung gegeben hat;
+- b) wenn die vorgesetzte Behörde im Sinne von Artikel 320 Abs. 2 Strafgesetzbuch (StGB) ihre Zustimmung zur Auskunftserteilung gegeben hat;
+- c) im Fall der Anzeige einer strafbaren Handlung;
+- d) wenn eine gesetzliche Bestimmung eine Auskunftspflicht oder ein Auskunftsrecht vorsieht.
+
+<sup>3</sup> Die mit dem Vollzug dieses Gesetzes betrauten Organe sind verpflichtet, der Staatsanwaltschaft die Handlungen anzuzeigen, die sie vermuten lassen, dass in Verbindung mit dem Bezug, der Verwendung und der Rückerstattung der Sozialhilfeleistungen eine Straftat begangen wurde.
 
 #### Art. 6
 
-**…**
+**Vorbehalt des Subventionsgesetzes**
+
+<sup>1</sup> Das kantonale Subventionsgesetz vom 17. November 1999 gilt unmittelbar und in seiner Gesamtheit für die in diesem Gesetz vorgesehenen Beiträge.
+
+## 2 Prävention und Bekämpfung der Armut
 
 #### Art. 7
 
-**Zuständigkeiten – Gemeinden**
+**Soziale Prävention**
 
-<sup>1</sup> Die Gemeinden entscheiden über die Gewährung von Sozialhilfe an folgende Personen mit Wohnsitz im Kanton:
+<sup>1</sup> Die soziale Prävention umfasst jede allgemeine oder besondere Massnahme, mit der die Ursachen für Armut und soziale Ausgrenzung ermittelt, ihre Auswirkungen abgeschwächt und der langfristige Rückgriff auf Sozialhilfe verhindert werden können.
 
-- a) Freiburger Bürger;
-- b) Schweizer Bürger;
-- c) Ausländer;
-- d) Flüchtlinge mit einer Niederlassungsbewilligung.
+<sup>2</sup> Der Staat und die Gemeinden beugen den Ursachen für Armut und soziale Ausgrenzung vor. Sie unterstützen soziale Organisationen und Projekte, die zur Erreichung der Ziele dieses Gesetzes beitragen.
+
+<sup>3</sup> Die betroffenen Zielgruppen werden an der Definition und Begleitung der Präventionsmassnahmen beteiligt.
 
 #### Art. 8
 
-**Zuständigkeiten – Kanton**
+**Zugang zu den Leistungen**
 
-<sup>1</sup> Der Kanton entscheidet über die Gewährung von Sozialhilfe an:
+<sup>1</sup> Die für die Sozialhilfe zuständige Direktion[^8-1] (die Direktion) und die Organe für den Vollzug dieses Gesetzes verweisen die Personen in sozialen oder materiellen Schwierigkeiten an die Dispositive, die ihnen helfen können.
 
-- a) Freiburger Bürger, die vor dem 1. Januar 1979 heimgeschafft wurden;
-- b) Personen, die vorübergehend im Kanton sind oder sich hier aufhalten;
-- c) Personen ohne festen Wohnsitz;
-- d) …
-- e) Asylbewerber.
+<sup>2</sup> Sie ergreifen Massnahmen, die Personen in sozialen oder materiellen Schwierigkeiten den Zugang zu Sozialhilfeleistungen ermöglichen.
+
+<sup>3</sup> Dazu setzen Sie Massnahmen für die Information, den Zugang zu den Leistungen, die Schulung des Personals, die Vereinfachung der Verfahren und die Koordination der verschiedenen Dienststellen des Staats, der öffentlichrechtlichen Institutionen, der Gemeinden und der Vereinskreise um.
+
+[^8-1]: Heute: Direktion für Gesundheit und Soziales.
 
 #### Art. 9
 
-**Wohnsitz – Begriff**
+**Aktionsplan**
 
-<sup>1</sup> Der Bedürftige hat seinen Wohnsitz im Sinne dieses Gesetzes in der Gemeinde, in der er sich mit der Absicht dauernden Verbleibens aufhält (im folgenden Sozialhilfe-Wohnsitz genannt).
-
-<sup>2</sup> Als Wohnsitzbegründung gilt die Anmeldung bei der Einwohnerkontrolle oder, für Ausländer, die Ausstellung einer Aufenthalts- oder Niederlassungsbewilligung, sofern nicht nachgewiesen wird, dass der Aufenthalt schon früher oder erst später begonnen hat oder nur vorübergehender Natur ist.
-
-#### Art. 9a
-
-**…**
+<sup>1</sup> Gestützt auf einen Bericht über die soziale Situation und die Armut wird periodisch ein Aktionsplan erstellt, um die Politik zur Prävention und Reduzierung der Armut und der sozialen Ausgrenzung festzulegen und ihre Umsetzung sicherzustellen.
 
 #### Art. 10
 
-**Wohnsitz – Ehegatten und eingetragene Partner**
+**Bericht über die soziale Situation und die Armut – Allgemeines**
 
-<sup>1</sup> Ehegatten oder eingetragene Partner haben je einen eigenen Sozialhilfe-Wohnsitz.
+<sup>1</sup> Der Staatsrat überweist dem Grossen Rat in der Regel einmal pro Legislaturperiode einen Bericht über die soziale Situation und die Armut, der dazu dient, die Entwicklung der Armutsproblematik im Kanton zu beobachten und die Präventionsmassnahmen zugunsten der betroffenen Bevölkerungsgruppen vorausschauend zu planen.
+
+<sup>2</sup> Der Bericht wird vom Amt, das für das Sozialwesen zuständig ist[^10-1], (das Amt) erstellt.
+
+<sup>3</sup> Er beinhaltet einen quantitativen und einen qualitativen Teil, die ein vielschichtiges Verständnis der Armutsproblematik ermöglichen.
+
+[^10-1]: Heute: Kantonales Sozialamt.
 
 #### Art. 11
 
-**Wohnsitz – Aufenthalt in Institutionen**
+**Bericht über die soziale Situation und die Armut – Datenbank für statistische Zwecke**
 
-<sup>1</sup> Der freiwillige oder unfreiwillige Aufenthalt in einem Heim, einem Spital oder einer anderen Anstalt und die Unterbringung einer volljährigen Person in Familienpflege durch die Behörden oder ein Erwachsenenschutzorgan begründen keinen Sozialhilfe-Wohnsitz.
+<sup>1</sup> Der Bericht über die soziale Situation und die Armut basiert auf einer eigens dafür erstellten Datenbank, die folgende verfügbaren Daten verwendet:
+
+- a) Steuerdaten, die vom Amt, das für die Steuern zuständig ist[^11-1], zur Verfügung gestellt werden;
+- b) in den Einwohnerregistern der Gemeinden verzeichnete Daten, die gemäss Artikel 16 des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle auf der kantonalen Informatikplattform enthalten sind und vom Amt, das für Bevölkerung und Migration zuständig ist[^11-2], zur Verfügung gestellt werden;
+- c) Daten der Sozialhilfe, die vom Amt zur Verfügung gestellt werden;
+- d) Daten in Zusammenhang mit den Ausbildungsbeiträgen, die vom Amt[^11-3], das für Ausbildungsbeiträge zuständig ist, zur Verfügung gestellt werden;
+- e) Daten in Zusammenhang mit Ergänzungsleistungen und Hilflosenentschädigungen der AHV/IV, die von der Kantonalen Sozialversicherungsanstalt zur Verfügung gestellt werden;
+- f) Daten, die von Vereinen oder Stiftungen zur Verfügung gestellt werden, welche Menschen in schwierigen sozialen Situationen unterstützen.
+
+<sup>2</sup> Der Staatsrat legt fest, welche Daten und wie diese übermittelt und aufbewahrt werden müssen und schreibt vor, welche Sicherheitsmassnahmen zu ergreifen sind, damit die Vertraulichkeit und der Schutz der verarbeiteten Daten gewährleistet sind.
+
+[^11-1]: Heute: Kantonale Steuerverwaltung.
+[^11-2]: Heute: Amt für Bevölkerung und Migration.
+[^11-3]: Heute: Amt für Ausbildungsbeiträge.
 
 #### Art. 12
 
-**Wohnsitz – Minderjährige Kinder**
+**Bericht über die soziale Situation und die Armut – Datenverarbeitung**
 
-<sup>1</sup> Das minderjährige Kind teilt, unabhängig von seinem Aufenthaltsort, den Sozialhilfe-Wohnsitz seiner Eltern oder des Elternteils, der die elterliche Sorge innehat.
+<sup>1</sup> Die Dienststellen und Anstalten, welche die für die Erarbeitung des Berichts notwendigen Daten bearbeiten, übermitteln diese von Amtes wegen mindestens einmal pro Legislaturperiode an das für die Statistik zuständige Amt[^12-1].
 
-<sup>2</sup> Wenn die Eltern keinen gemeinsamen zivilrechtlichen Wohnsitz haben, teilt es den Sozialhilfe-Wohnsitz jenes Elternteils, bei dem es wohnt.
+<sup>2</sup> Das für die Statistik zuständige Amt ist berechtigt, zur Erfüllung seiner Aufgaben in Zusammenhang mit der Erstellung des Berichts die AHV-Nummer im Sinne von Artikel 50c des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) zu verwenden. Es führt den erforderlichen Datenabgleich durch und übermittelt die Ergebnisse in anonymisierter Form dem Amt.
 
-<sup>3</sup> Es hat einen eigenen Sozialhilfe-Wohnsitz:
+<sup>3</sup> Das für die Statistik zuständige Amt bewahrt die Daten, die für die Erstellung des Berichts notwendig sind, während 15 Jahren in nicht anonymisierter Form auf, damit eine Längsschnittanalyse der Lebensverläufe über drei Legislaturperioden gemacht werden kann. Diese Daten dürfen ausschliesslich für die Erstellung des Berichts verwendet werden und müssen nach Ablauf der Aufbewahrungsfrist vernichtet werden.
 
-- a) im Fall einer Bevormundung: an seinem letzten Sozialhilfe-Wohnsitz vor der Einsetzung der Vormundschaft;
-- b) am Ort nach Artikel 9, wenn es erwerbstätig ist und sich bis jetzt selber durchgebracht hat;
-- c) am letzten Sozialhilfe-Wohnsitz nach den Absätzen 1 und 2, wenn es dauernd nicht bei den Eltern oder einem Elternteil lebt;
-- d) an seinem Aufenthaltsort in den übrigen Fällen.
+[^12-1]: Heute: Amt für Statistik.
+
+## 3 Persönliche Hilfe
 
 #### Art. 13
 
-**Wohnsitz – Personen unter umfassender Beistandschaft**
+**Allgemeines**
 
-<sup>1</sup> Die unter umfassender Beistandschaft stehende Person hat ihren Sozialhilfe-Wohnsitz in der Gemeinde, in der sie sich tatsächlich aufhält und in der sie den Mittelpunkt ihrer Tätigkeiten begründet.
+<sup>1</sup> Die persönliche Hilfe ist eine Leistung, die zum Ziel hat:
+
+- a) sozialen und materiellen Schwierigkeiten der bedürftigen Person vorzubeugen;
+- b) ihr zu helfen, diese Schwierigkeiten zu überwinden;
+- c) ihre soziale und berufliche Integration zu fördern oder zu wahren.
 
 #### Art. 14
 
-**Übertragung**
+**Inhalt**
 
-<sup>1</sup> Der Kanton kann die Gewährung der Sozialhilfe an bestimmte Personengruppen, namentlich an die der Asyl-Gesetzgebung unterstehenden Personen, durch Vereinbarung privaten Institutionen übertragen.
+<sup>1</sup> Die persönliche Hilfe umfasst hauptsächlich:
 
-<sup>2</sup> Die Vereinbarung regelt ebenfalls die Rechtsmittel gegen Entscheide der privaten Institutionen.
-
-## 2 Organisation
-
-### 2.1 Gemeinden
+- a) die Information, die Beratung, die individuelle Begleitung und die Stärkung der sozialen oder beruflichen Handlungsfähigkeit der Personen;
+- b) der Verweis der Personen mit einem spezifischen Unterstützungsbedarf an die zuständigen Organisationen;
+- c) die Intervention bei anderen zuständigen Organisationen, wenn die betroffenen Personen Schwierigkeiten bei den Schritten für den Erhalt der Hilfe haben.
 
 #### Art. 15
 
-**Aufgaben der Gemeinden**
+**Voraussetzungen für die Gewährung**
 
-<sup>1</sup> Die Gemeinden sorgen dafür, dass den Bedürftigen die aufgrund dieses Gesetzes gewährten Sozialhilfeleistungen, namentlich die Eingliederungsmassnahmen, zuteil werden.
+<sup>1</sup> Die persönliche Hilfe ist für Personen bestimmt, die sich sozialen oder materiellen Schwierigkeiten gegenübersehen, die sie nicht alleine bewältigen können.
+
+<sup>2</sup> Die persönliche Hilfe wird unabhängig vom Anspruch auf eine finanzielle Hilfe, andere Bedarfsleistungen oder Sozialleistungen kostenlos gewährt, solange die Situation nicht unter die Schutzbestimmungen im Sinne von Artikel 393ff des Zivilgesetzbuches (ZGB) fällt.
+
+## 4 Materielle Grundsicherung
 
 #### Art. 16
 
-**Zusammenarbeit unter den Gemeinden – Im Allgemeinen**
+**Allgemeines**
 
-<sup>1</sup> Zur Erfüllung ihrer Aufgaben im Bereich der Sozialhilfe arbeiten die Gemeinden bei Bedarf nach dem Gesetz über die Gemeinden zusammen, unter Vorbehalt der Bestimmungen des vorliegenden Gesetzes.
+<sup>1</sup> Die materielle Grundsicherung ist eine finanzielle Leistung, die darauf abzielt, der bedürftigen Person die notwendigen Mittel für ein menschenwürdiges Dasein bereitzustellen, unabhängig davon, ob die Situation selbstverschuldet ist oder nicht.
+
+<sup>2</sup> Die materielle Grundsicherung beschränkt sich für Personen, die sich in bestimmten besonderen Situationen nach Artikel 25 befinden, auf die Hilfe in Notlagen.
 
 #### Art. 17
 
-**…**
+**Inhalt**
+
+<sup>1</sup> Die materielle Grundsicherung umfasst namentlich folgende Bestandteile:
+
+- a) den Grundbedarf für den Lebensunterhalt;
+- b) die Miete und, wenn die Person Eigentümerin ihrer Immobilie ist, die Hypothekarzinsen sowie die Nebenkosten, abgesehen von der Amortisierung;
+- c) die notwendigen medizinischen Pflege- und Behandlungskosten, namentlich Zahnarztkosten, den Selbstbehalt und die Beteiligung an den Leistungen der obligatorischen Krankenversicherung sowie die Prämie für die obligatorische Krankenversicherung;
+- d) die Kostenbeteiligung an der Aufnahme in Pflegefamilien oder Einrichtungen unter der Bedingung, dass die Aufnahme der Spezialgesetzgebung entspricht und dass sie sich für Minderjährige aus einem Gerichtsmandat ergibt;
+- e) die situationsbedingten Leistungen für die Deckung von besonderen Bedürfnissen im Sinne der Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien).
+
+<sup>2</sup> Der Staatsrat legt die Tabelle mit den Beträgen für die materielle Grundsicherung im Sinne von Absatz 1 sowie die Einzelheiten für die Anwendung fest. Dabei bezieht er sich auf die SKOS-Richtlinien.
 
 #### Art. 18
 
-**Sozialdienst**
+**Voraussetzungen für die Gewährung**
 
-<sup>1</sup> Die Gemeinden setzen einen Sozialdienst mit qualifiziertem Personal ein.
+<sup>1</sup> Die materielle Grundsicherung wird unter Abzug des Einkommens, des Vermögens oder anderer Mittel gewährt, über welche die bedürftige Person und die Mitglieder der Unterstützungseinheit verfügen.
 
-<sup>1<sup>bis</sup></sup> Ein Sozialdienst muss eine Einwohnerschaft von mindestens 3000 Personen abdecken und über qualifiziertes Personal verfügen, das mindestens einer 50 %-Stelle entspricht. Auf ein begründetes Gesuch hin kann der Staatsrat Abweichungen von dieser Regel bewilligen.
+<sup>2</sup> Die materielle Grundsicherung ist subsidiär zum Unterhalt und zur Unterstützung durch die Familie an ihre Mitglieder sowie zu anderen gesetzlichen, vertraglichen oder freiwilligen Leistungen Dritter.
 
-<sup>2</sup> Der Sozialdienst hat folgende Aufgaben:
-
-- a) Er beteiligt sich an der Vorbeugung und arbeitet mit den privaten und öffentlichen Institutionen zusammen.
-- a<sup>bis</sup>) Er bearbeitet die Sozialhilfe-Dossiers und holt die Stellungnahme der Gemeinde des Sozialhilfe-Wohnsitzes ein;
-- b) Er leistet den Personen nach den Artikeln 7 und 8 die persönliche Hilfe und die materielle Hilfe; die Gesuche um materielle Hilfe unterbreitet er vorgängig der Sozialkommission oder dem Kantonalen Sozialamt.
-- c) Er entscheidet in Notfällen über die Gewährung einer begrenzten materiellen Hilfe und unterbreitet seinen Entscheid der zuständigen Behörde zur Genehmigung.
-- d) Er leitet die nach dem Bundesrecht und nach internationalen Vereinbarungen erforderlichen Sozialhilfeanzeigen an das Kantonale Sozialamt weiter.
-- e) Für die Rückerstattung legt er den Gemeinden und dem Kanton jeweils auf das Ende eines Kalenderquartals die Abrechnung über die gewährte materielle Hilfe vor.
-- f) Er berichtet den Gemeinden und der für die Sozialhilfe zuständigen Direktion[^18-1] (die Direktion) jährlich über seine Tätigkeit.
-
-<sup>3</sup> Für die minderjährigen Kinder arbeitet der Sozialdienst bei Bedarf mit dem Jugendamt zusammen.
-
-[^18-1]: Heute: Direktion für Gesundheit und Soziales.
-
-#### Art. 18a
-
-**Zusammenarbeit**
-
-<sup>1</sup> Geht die Betreuung einer Person von einem regionalen Arbeitsvermittlungszentrum an einen Sozialdienst über oder umgekehrt, nehmen die beiden Instanzen eine enge und regelmässige Zusammenarbeit auf.
-
-<sup>2</sup> Eine Vereinbarung bestimmt Inhalt und Einzelheiten dieser Zusammenarbeit.
-
-<sup>3</sup> Weitere Dienste können zur Mitarbeit herangezogen werden, namentlich die Schul- und Berufsberatung, die Berufsbildung und die Invalidenversicherung.
-
-<sup>4</sup> …
+<sup>3</sup> Hat die Person einen familienrechtlichen Unterhaltsanspruch, muss sie diesen notfalls mit rechtlichen Schritten geltend machen oder ihre Rechte der Sozialhilfebehörde auf deren Entscheid abtreten.
 
 #### Art. 19
 
-**Sozialkommission – Zusammensetzung**
+**Bemessung der Leistung**
 
-<sup>1</sup> Die Gemeinden setzen eine Sozialkommission mit fünf bis neun Mitgliedern ein.
+<sup>1</sup> Die materielle Grundsicherung wird abhängig von der Zusammensetzung des Haushalts, von der Art der Unterkunft und vom Alter der Person bemessen.
 
-<sup>1<sup>bis</sup></sup> Als Mitglieder der Sozialkommission können auch Personen ausserhalb der Gemeinde-Exekutiven bezeichnet werden.
+<sup>2</sup> Alle Einkommen und Vermögen der Mitglieder der Unterstützungseinheit werden berücksichtigt. Die Anrechnung des Vermögens der Kinder stützt sich auf die zivilrechtlichen Bestimmungen.
 
-<sup>2</sup> Der Verantwortliche des Sozialdienstes und der mit der Bearbeitung des Falles beauftragte Sozialarbeiter nehmen an den Sitzungen mit beratender Stimme teil.
+<sup>3</sup> Berücksichtigt werden Einkommen und Vermögen, auf welche die begünstigte Person verzichtet hat, deren Geltendmachung sie abgelehnt oder die sie abgetreten hat. In Härtefällen kann auf die Anrechnung verzichtet werden.
+
+<sup>4</sup> Die Regel in Absatz 3 gilt nicht für hospitalisierte Personen, die nicht zuhause bleiben können und sich dauerhaft in einem Pflegeheim oder in einer Sondereinrichtung aufhalten müssen. Die in diesen Situationen von der Sozialhilfe ausgerichteten Beträge müssen von den Personen zurückerstattet werden, die in den Genuss des Vermögensverzichtes kamen.
+
+<sup>5</sup> Der Staatsrat legt die Einzelheiten für die Berechnung der Einkommen und des Vermögens der Mitglieder der Unterstützungseinheit fest, sowie inwieweit die hypothetischen Einkommen und Vermögen im Sinne von Absatz 3 berücksichtigt werden. Er kann Freibeträge auf das Einkommen und das Vermögen sowie Anreize vorsehen.
 
 #### Art. 20
 
-**Sozialkommission – Aufgaben**
+**Unterstützungseinheit**
 
-<sup>1</sup> Die Sozialkommission entscheidet über die Gewährung, die Verweigerung, die Änderung, die Aufhebung und die Rückerstattung der materiellen Hilfe nach Artikel 7; sie setzt die Art, die Dauer und den Betrag der Hilfe fest.
+<sup>1</sup> Die Unterstützungseinheit besteht aus:
 
-<sup>1<sup>bis</sup></sup> Sie fällt die Entscheide im Zusammenhang mit dem Eingliederungsvertrag. Sie kann die Aufhebung oder Änderung des Vertrags verfügen, wenn die bedürftige Person ihren Verpflichtungen nicht nachkommt oder wenn sich die Eingliederungsmassnahme als ungeeignet erweist.
+- a) der antragstellenden Person;
+- b) ihrer Ehepartnerin oder ihrem Ehepartner;
+- c) ihrer eingetragenen Partnerin oder ihrem eingetragenen Partner;
+- d) der Person, mit der sie in einem stabilen Konkubinat lebt;
+- e) ihren unterhaltsberechtigten Kindern.
 
-<sup>2</sup> Sie bestimmt den Sozialhilfe-Wohnsitz.
+<sup>2</sup> Als Personen, die in einem stabilen Konkubinat leben, gelten im Sinne dieses Gesetzes Personen, die:
 
-<sup>3</sup> …
+- a) in einer eheähnlichen Gemeinschaft leben und ein gemeinsames Kind haben;
+- b) seit mindestens zwei Jahren in einer eheähnlichen Gemeinschaft leben;
+- c) selbst erklären, dass sie in einem Konkubinat leben.
 
-### 2.2 Kanton
+<sup>3</sup> Unterhaltsberechtigte Kinder sind die minderjährigen Kinder, die sich in der Obhut eines der Mitglieder der Unterstützungseinheit befinden, sowie die volljährigen Kinder mit gleichem Wohnsitz wie die Eltern, gegenüber denen ein Mitglied der Unterstützungseinheit eine zivilrechtliche Unterhaltspflicht hat.
+
+<sup>4</sup> Der Haushalt besteht aus allen Personen, die in der gleichen Unterkunft leben, einschliesslich derjenigen, die nicht Teil der Unterstützungseinheit sind.
 
 #### Art. 21
 
-**Amt – Allgemeines**
+**Modalitäten der Gewährung**
 
-<sup>1</sup> Es wird ein Kantonales Sozialamt geschaffen, das der Direktion untersteht.
+<sup>1</sup> Die materielle Grundsicherung wird gewährt in Form von:
 
-<sup>2</sup> Das Kantonale Sozialamt entscheidet über die materielle Hilfe nach Artikel 8 und über deren Rückerstattung.
+- a) Geld- oder Naturalleistungen;
+- b) Sicherheiten, wenn es darum geht, die Pflichten der bedürftigen Person gegenüber Dritten sicherzustellen, die ihr Leistungen für die Sicherung des Grundbedarfs liefern;
+- c) Leistungen, die sich aus dem sozialberuflichen Eingliederungsvertrag ergeben.
 
-<sup>3</sup> Es erstattet den Sozialdiensten die materielle Hilfe zurück, die zu Lasten des Kantons geht.
+<sup>2</sup> Wenn die Umstände dies rechtfertigen, kann der regionale Sozialdienst die Zahlung der Aufwendungen der bedürftigen Person direkt bei Dritten begleichen.
 
-<sup>4</sup> Es kann bei den Sozialdiensten Einsicht in die Akten der Hilfeempfänger nehmen.
+#### Art. 22
 
-<sup>5</sup> Es beantragt der Direktion allgemeine Massnahmen im Bereich der Information, der Vorbeugung und der Ausbildung. Es trägt zur Koordination der Sozialdienste bei.
+**Bevorschussung der materiellen Grundsicherung**
 
-<sup>6</sup> Es sorgt dafür, dass die Gemeinden, die Sozialdienste und die Sozialkommission ihre Aufgaben auf dem Gebiet der Sozialhilfe wahrnehmen.
+<sup>1</sup> Die materielle Grundsicherung wird als Vorschuss auf alle ausstehenden Geldmittel gewährt, namentlich:
 
-#### Art. 21a
+- a) auf Leistungen von Versicherungen oder leistungspflichten Dritten;
+- b) wenn die Person über Vermögenswerte verfügt, deren Verwertung kurzfristig nicht gerechtfertigt oder nicht möglich ist oder nicht verlangt werden kann.
 
-**Amt – Revision**
+#### Art. 23
 
-<sup>1</sup> Das Amt besorgt periodisch die Revision der Sozialhilfedossiers.
+**Vereinbarte Sicherheiten**
 
-<sup>2</sup> Mit der Revision wird überprüft, ob die für die Sozialhilfe geltenden Gesetze und Richtsätze richtig angewandt und die vom Staat, von den Gemeinden oder vom Bund erteilten Sozialhilfemittel bestimmungsgemäss verwendet werden.
+<sup>1</sup> Mit Ausnahme der Fälle von gesetzlich verankertem Vermögensverzicht ist die Gewährung der materiellen Grundsicherung als Vorschuss der Abtretung von Forderungen, der Verpfändung von Wertpapieren oder Mobilien, der Besicherung von Grundpfändern oder der Besicherung von anderen Sicherheitsformen zugunsten der Sozialhilfebehörde unterstellt.
 
-<sup>3</sup> Über die durchgeführten Revisionen wird ein detaillierter Bericht erstellt; dieser führt die kontrollierten Dokumente, die festgestellten Mängel und die Auswirkungen der Überprüfungen auf. Das Amt sendet den Revisionsbericht an die betroffene Sozialkommission und den betroffenen Sozialdienst, an das Finanzinspektorat und die Direktion.
+<sup>2</sup> Diese kann auf eine Sicherheit verzichten, wenn die bevorschusste materielle Grundsicherung gering ist oder sich auf einen kurzen Zeitraum bezieht.
 
-#### Art. 21b
+<sup>3</sup> In der Regel tritt die begünstigte Person zum Zeitpunkt des Beginns der materiellen Grundsicherung die Forderung ab oder liefert die Sicherheiten nach Absatz 1. In Sonderfällen gewährt ihr die Sozialhilfebehörde dafür eine angemessene Frist.
 
-**Amt – Inspektion**
+#### Art. 24
 
-<sup>1</sup> Das Amt besorgt von Amtes wegen oder auf Antrag der Sozialkommission, des Sozialdienstes oder der Direktion die Inspektion der Sozialhilfedossiers, um zu überprüfen, ob die Voraussetzungen dieses Gesetzes für den Nachweis des Sozialhilfebedarfs erfüllt sind und ob die Sozialhilfeleistungen ihrer Bestimmung gemäss verwendet werden.
+**Punktuelle Hilfe**
 
-<sup>2</sup> Bei den Inspektionen werden Abklärungen namentlich durch Beobachtungen im Alltag, Bildaufnahmen im öffentlichen Raum und bewilligte Hausbesuche durchgeführt. Die Abklärung muss verhältnismässig sein und dem Zweck entsprechen. Sie muss von einer dafür ausgebildeten und dem Amtsgeheimnis unterstellten Person durchgeführt werden. Die Abklärung wird auch auf Personen ausgedehnt, die im gleichen Haushalt leben wie die Person, die Sozialhilfeleistungen bezieht, oder die ihr gegenüber eine Unterhaltspflicht haben.
+<sup>1</sup> Personen in Schwierigkeiten mit Wohnsitz im Kanton kann punktuell eine Unterstützungsleistung gewährt werden, um den Rückgriff auf eine materielle Grundsicherung zu verhindern.
 
-Abgeklärt werden insbesondere die folgenden Einzelheiten:
+#### Art. 25
+
+**Hilfe in Notlagen**
+
+<sup>1</sup> Die Hilfe in Notlagen stellt die Deckung der materiellen Grundsicherung im Sinne von Artikel 12 der Bundesverfassung vom 18. April 1999 sicher.
+
+<sup>2</sup> Hilfe in Notlagen erhalten bedürftige Personen, die sich in folgenden besonderen Situationen befinden:
+
+- a) Personen, die sich vorübergehend im Kanton aufhalten;
+- b) ausländische Staatsangehörige ohne Aufenthaltsbewilligung;
+- c) Staatsangehörige der EU oder der EFTA und Personen in ihrer Obhut, die im gleichen Haushalt leben:
+  - 1\. Inhaberinnen und Inhaber einer Kurzaufenthaltsbewilligung, die keine Erwerbstätigkeit im ersten Arbeitsmarkt ausüben;
+  - 2\. Inhaberinnen und Inhaber einer Aufenthaltsbewilligung im Fall der freiwilligen oder unfreiwilligen Beendigung des Arbeitsverhältnisses während den zwölf ersten Aufenthaltsmonaten, unter Vorbehalt der Ausnahmen in der Bundesgesetzgebung.
+
+<sup>3</sup> Die Hilfe in Notlagen wird soweit möglich in Form von Naturalleistungen zugewiesen. Sie umfasst:
+
+- a) die Unterkunft, in der Regel in einer Gruppenunterkunft;
+- b) die Abgabe von Lebensmitteln und Hygieneartikeln;
+- c) die notwendige medizinische Versorgung;
+- d) im Fall eines ausgewiesenen Bedürfnisses, die Gewährung von weiteren lebensnotwendigen Leistungen.
+
+<sup>4</sup> Im Übrigen formuliert der Staatsrat die Einzelheiten für die Gewährung genauer.
+
+## 5 Sozialberufliche Eingliederungsmassnahmen
+
+#### Art. 26
+
+**Allgemeines**
+
+<sup>1</sup> Die sozialberuflichen Eingliederungsmassnahmen streben die Entwicklung der Kompetenzen der bedürftigen Person, die Vermeidung ihrer sozialen Isolation, die Stärkung ihrer Vermittlungsfähigkeit oder die Förderung ihrer sozialberuflichen Wiedereingliederung an.
+
+<sup>2</sup> Sozialberufliche Eingliederungsmassnahmen werden vorrangig Personen gewährt, die eine materielle Grundsicherung erhalten.
+
+<sup>3</sup> Für die Dauer des sozialberuflichen Eingliederungsvertrags wird die materielle Grundsicherung um einen Förderbetrag erhöht.
+
+<sup>4</sup> Personen, die Hilfe in Notlagen erhalten, sind nicht berechtigt, an sozialberuflichen Eingliederungsmassnahmen teilzunehmen.
+
+<sup>5</sup> Es besteht kein Anspruch auf eine sozialberufliche Eingliederungsmassnahme.
+
+#### Art. 27
+
+**Inhalt**
+
+<sup>1</sup> Sozialberufliche Eingliederungsmassnahmen sind Aktivitäten, die von einem öffentlichen oder privaten Partner, der sich von den mit dem Vollzug dieses Gesetzes betrauten Organen unterscheidet, durchgeführt werden und den Zielen des Gesetzes entsprechen.
+
+#### Art. 28
+
+**Voraussetzungen**
+
+<sup>1</sup> Die sozialberuflichen Eingliederungsmassnahmen müssen sachdienlich sein und der Situation der begünstigten Person entsprechen.
+
+<sup>2</sup> Die sozialberuflichen Eingliederungsmassnahmen dauern höchstens zwölf aufeinanderfolgende Monate. Für ihre Verlängerung ist der regionale Sozialdienst zuständig.
+
+<sup>3</sup> Die Massnahmen müssen im Katalog des Amts enthalten sein.
+
+<sup>4</sup> Um zu beurteilen, ob die Massnahme sinnvoll ist, wird in regelmässigen Zeitabständen mit der bedürftigen Person eine Zwischenbilanz gezogen.
+
+#### Art. 29
+
+**Vertrag für die sozialberufliche Eingliederung**
+
+<sup>1</sup> Ein sozialberuflicher Eingliederungsvertrag definiert die Massnahme als Gegenleistung für die gewährte materielle Grundsicherung.
+
+<sup>2</sup> Dieser Vertrag ist persönlich und wird zwischen der Sozialhilfebehörde und der bedürftigen Person abgeschlossen. Seine Rechtsform entspricht einem verwaltungsrechtlichen Vertrag.
+
+<sup>3</sup> Die Sozialhilfebehörde kann die begünstigte Person verpflichten, an einer sozialberuflichen Eingliederungsmassnahme teilzunehmen.
+
+## 6 Unterstützung bei der Ausbildung
+
+#### Art. 30
+
+**Allgemeines**
+
+<sup>1</sup> Die materielle Grundsicherung kann die Unterstützung einer Ausbildung umfassen, mit der die Beschäftigungsaussichten auf dem Arbeitsmarkt verbessert werden sollen.
+
+<sup>2</sup> Personen, die Hilfe in Notlagen erhalten, erhalten keine Unterstützung bei der Ausbildung.
+
+<sup>3</sup> Personen, die Ergänzungsleistungen gemäss dem Gesetz vom 8. Februar 2024 über die Ergänzungsleistungen für Familien (FamELG) erhalten, können Unterstützung bei der Ausbildung erhalten.
+
+#### Art. 31
+
+**Inhalt**
+
+<sup>1</sup> Ein Ausbildungsprojekt legt mit einer Vereinbarung zwischen der begünstigten Person und den Organen, die mit dem Vollzug dieses Gesetzes betraut sind, die Ziele und Einzelheiten der Ausbildung fest.
+
+#### Art. 32
+
+**Voraussetzungen**
+
+<sup>1</sup> Eine Unterstützung der Ausbildung kann gewährt werden, wenn sie durch keine andere Einkommensquelle finanziert wird oder nur zum Teil finanziert werden kann.
+
+<sup>2</sup> Die Ausbildung wird abhängig vom Alter, vom Gesundheitszustand und von der persönlichen Situation gewählt und muss den Eignungen der betroffenen Person entsprechen.
+
+<sup>3</sup> Die betroffene Person muss für die Definition des Ausbildungsprojekts und dessen Konkretisierung aktiv mit dem Organ, das mit dem Vollzug dieses Gesetzes betraut ist, zusammenarbeiten.
+
+<sup>4</sup> Es besteht kein Anspruch auf eine Unterstützung der Ausbildung.
+
+## 7 Rechte und Pflichten
+
+#### Art. 33
+
+**Rechte**
+
+<sup>1</sup> Die begünstigte Person hat Anspruch auf:
+
+- a) rechtliches Gehör;
+- b) Einsicht in ihre Akten und die Entscheide, die sie betreffen;
+- c) den Schutz ihrer Daten.
+
+#### Art. 34
+
+**Pflicht zur Zusammenarbeit**
+
+<sup>1</sup> Jede Person, die Sozialhilfe beantragt oder bezieht, ist insbesondere verpflichtet:
+
+- a) selber oder mit den förderlichen Schritten bei Dritten alles daran zu setzen, eine Bedarfssituation zu verhindern, aufzuheben oder zu entschärfen und die Eigenständigkeit zu bewahren oder wiederzufinden;
+- b) die Ausgaben zu senken oder Gütern oder Dienstleistungen zu entsagen, die nicht mit der materiellen Grundsicherung vereinbar sind;
+- c) die Leistung mit dem Ziel zu verwenden, für das sie gewährt wurde,
+- d) aktiv eine angemessene Stelle zu suchen und annehmen;
+- e) eine geeignete sozialberufliche Eingliederungsmassnahme oder eine andere analoge Massnahme, wie eine Ausbildung, anzunehmen und sich an die Einzelheiten der Massnahme oder des Ausbildungsprojekts zu halten;
+- f) sich der Untersuchung durch die Vertrauensärztin oder den Vertrauensarzt zu unterziehen, wenn für die Bemessung einer angemessenen Unterstützung ihr Gesundheitszustand abgeklärt werden muss;
+- g) die notwendigen Schritte für die Verwertung einer Mobilie oder einer Immobilie zu ergreifen, sollte diese verlangt werden können;
+- h) einem angemeldeten Kontrollbesuch zuzustimmen.
+
+<sup>2</sup> Angemessen im Sinne von Absatz 1 Bst. d ist jede Arbeit, die dem Alter, dem Gesundheitszustand und der persönlichen Situation der betroffenen Person angepasst ist.
+
+#### Art. 35
+
+**Auskunftspflicht**
+
+<sup>1</sup> Um den Organen, die mit dem Vollzug dieses Gesetzes betraut sind, die Festlegung des Leistungsanspruchs zu ermöglichen, hat jede Person, die eine finanzielle Hilfe beantragt oder diese bezieht, folgende Pflichten:
+
+- a) vollständige Auskunft über die persönliche, familiäre und finanzielle Situation zu erteilen;
+- b) jede Situationsänderung, die einen Einfluss auf den Leistungsansprach haben kann, unverzüglich zu melden;
+- c) bei Bedarf eine Vollmacht für das Einholen von notwendigen Informationen bei Dritten zu unterzeichnen.
+
+<sup>2</sup> Bestehen Zweifel an der Genauigkeit oder Richtigkeit der Auskünfte, welche die betroffene Person über ihre persönliche oder finanzielle Situation erteilt hat, so kann die Sozialhilfebehörde von der betroffenen Person verlangen, dass sie die bezeichneten Dienste oder Dritte vom Amtsgeheimnis, vom Steuergeheimnis, von der ärztlichen Schweigepflicht, vom Bankgeheimnis oder von jedem anderen Berufsgeheimnis entbindet, damit die notwendigen Informationen zur Ausräumung dieser Zweifel eingeholt werden können.
+
+#### Art. 36
+
+**Sanktionen**
+
+<sup>1</sup> Die Sozialhilfebehörde kann die begünstigte Person sanktionieren, wenn diese ihre Pflichten vorsätzlich oder fahrlässig verletzt.
+
+<sup>2</sup> Die Sanktion besteht in der Kürzung des Grundbedarfs für den Lebensunterhalt der Unterstützungseinheit. Die Kürzung muss das Proportionalitätsprinzip einhalten und namentlich die Situation der betroffenen Person und das Vorhandensein von minderjährigen Kindern berücksichtigen.
+
+<sup>3</sup> Eine Verwarnung ist nicht notwendig, wenn sich aus den Umständen ergibt, dass sie ohne Wirkung bleibt.
+
+<sup>4</sup> Der Sanktionsentscheid muss abgesehen von der Höhe und der Dauer der Kürzung den Grund für die Sanktion enthalten. Je nach Umständen enthält sie die Forderungen, welche die begünstigte Person für die Milderung oder Aufhebung der Sanktion erfüllen muss.
+
+<sup>5</sup> Die Kürzung als Sanktion ist mit einer Rückerstattung gemäss Artikel 71 kumulierbar.
+
+<sup>6</sup> Der Staatsrat erläutert in der Verordnung die Modalitäten der Sanktionen, die anwendbaren Kürzungen und die Dauer sowie den Höchstsatz im Fall der Kumulierung der Kürzungen sowie bei der Anwendung von Entschädigungen.
+
+#### Art. 37
+
+**Verweigerung oder Aufhebung der materiellen Grundsicherung**
+
+<sup>1</sup> Die materielle Grundsicherung wird verweigert oder aufgehoben, wenn:
+
+- a) die Person, welche die materielle Grundsicherung beantragt, oder die begünstigte Person den Voraussetzungen dieses Gesetzes im Sinne von Artikel 3 nicht oder nicht mehr entspricht;
+- b) die betroffene Person nicht oder nicht mehr im Kanton wohnhaft ist, sich dort nicht oder nicht mehr aufhält; Kurzaufenthalte im Ausland einer im Kanton wohnhaften Person bleiben vorbehalten;
+- c) die Einkommen der Mitglieder der Unterstützungseinheit ihre anerkannten Ausgaben übersteigen;
+- d) ihr Vermögen den zugelassenen Freibetrag übersteigt, unter Vorbehalt von Artikel 22 Abs. 1 Bst. b;
+- e) die Person die Sicherheit nicht errichtet, der die Gewährung der Bevorschussung der materiellen Grundsicherung unterliegt.
+
+<sup>2</sup> Die materielle Grundsicherung wird ebenfalls ganz oder teilweise verweigert oder aufgehoben, wenn:
+
+- a) die mangelnde Zusammenarbeit verhindert, dass die Sozialhilfebehörde die Bedürftigkeit feststellen kann;
+- b) die Person eine angemessene Stelle oder Erwerbstätigkeit abgelehnt hat, in Höhe des angebotenen Gehalts und insofern die Stelle konkret verfügbar ist;
+- c) die Person die Teilnahme an einer bezahlten sozialberuflichen Wiedereingliederungsaktivität oder an einem Ausbildungsprojekt verweigert hat;
+- d) die Person die Verwertung eines Einkommens oder Vermögens, das ihr ermöglicht hätte, für den eigenen Lebensunterhalt aufzukommen, abgelehnt, verweigert oder diese abgetreten hat;
+- e) die Person wiederholt ihre Pflichten gemäss Artikel 34 und 35 verletzt hat, ohne sich zu bessern.
+
+## 8 Organisation und Zuständigkeiten
+
+#### Art. 38
+
+**Grundsatz**
+
+<sup>1</sup> Die Sozialhilfe wird vom Staat und den Gemeinden bereitgestellt, sofern dieses Gesetz nichts anderes verfügt.
+
+#### Art. 39
+
+**Gebietsorganisation**
+
+<sup>1</sup> Die Sozialhilfe ist regional organisiert. Die Regionen entsprechen einem oder mehreren Bezirken.
+
+<sup>2</sup> Gemeinden mit mehr als 25 000 Einwohnerinnen und Einwohnern können ihre eigene Sozialhilferegion bilden.
+
+<sup>3</sup> Vorbehalten bleiben die Bestimmungen dieses Gesetzes über die direkt vom Staat wahrgenommenen Aufgaben.
+
+### 8.1 Staat
+
+#### Art. 40
+
+**Aufgaben**
+
+<sup>1</sup> Der Staat definiert die Politik für die Prävention und die Bekämpfung der Armut und der sozialen Ausgrenzung.
+
+<sup>2</sup> Er nimmt die Sozialhilfeaufgaben wahr und trifft die Entscheide zugunsten der Personen, die bis zum Erhalt der Niederlassungsbewilligung oder bis zum Zeitpunkt, ab dem sie den Bestimmungen des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer und über die Integration (AIG) unterstehen, unter die Bundesasylgesetzgebung fallen.
+
+#### Art. 41
+
+**Staatsrat**
+
+<sup>1</sup> Der Staatsrat hat folgende Befugnisse:
+
+- a) Er übt die Aufsicht über die Organe aus, die mit dem Vollzug dieses Gesetzes betraut sind.
+- b) Er erlässt die Richtsätze für die Bemessung der materiellen Grundsicherung und bezieht sich dabei auf die SKOS-Richtlinien. Er hört vorgängig die Konferenz der Sozialhilfebehörden und die betroffenen Kreise an.
+- c) Er stellt die direktionsübergreifende Koordination der Sozialpolitik sicher und sorgt für die Koordination der öffentlichen mit der privaten Sozialhilfe.
+- d) Er verabschiedet den von der Direktion vorgeschlagenen Aktionsplan.
+- e) Er beauftragt periodisch ein externes Organ mit der Beurteilung der Auswirkungen dieses Gesetzes, einschliesslich in Zusammenhang mit den Eingliederungsmassnahmen des Gesetzes vom 6. Oktober 2010 über die Beschäftigung und den Arbeitsmarkt (BAMG).
+
+#### Art. 42
+
+**Direktion**
+
+<sup>1</sup> Die Direktion hat folgende Befugnisse:
+
+- a) Sie erlässt die Anwendungsrichtlinien zu diesem Gesetz.
+- b) Sie erlässt die Konzepte für die sozialberufliche Eingliederung.
+- c) Sie schliesst die im Sinne von Artikel 44 errichteten Leistungsaufträge ab.
+- d) Sie behandelt die Beschwerden nach Artikel 82 gegen Entscheide von beauftragten privaten Organisationen.
+- e) Sie sorgt als Aufsichtsorgan für die korrekte Anwendung dieses Gesetzes.
+- f) Sie stellt den Organen, die mit dem Vollzug dieses Gesetzes betraut sind, ein elektronisches Informationssystem zur Verfügung, das die notwendige Informationsbewirtschaftung für die Anwendung dieses Gesetzes erlaubt. Sie hört vorgängig die Konferenz der Sozialhilfebehörden an.
+- g) Sie schlägt dem Staatsrat den Aktionsplan nach Artikel 9 vor und sorgt für dessen ordnungsgemässe Anwendung.
+- h) Sie trifft alle Entscheide, die sich aus diesem Gesetz ergeben und in die Zuständigkeit des Staats, aber nicht in die Kompetenz des Staatsrats oder des Amts fallen.
+
+#### Art. 43
+
+**Amt**
+
+<sup>1</sup> Das Amt führt folgende Aufgaben aus:
+
+- a) Es stellt sicher, dass die Gemeinden, Sozialkommissionen, regionalen Sozialdienste und beauftragten Organisationen ihre Aufgaben im Bereich der Sozialhilfe wahrnehmen, es koordiniert ihre Massnahmen und sorgt für die Harmonisierung der Praxis und der Verfahren sowie für die Qualität der Leistungen.
+- b) Es inspiziert die Organisation und die Funktionsweise der Organe, die mit der Anwendung dieses Gesetzes betraut sind, und kontrolliert die Anwendung der Sozialhilferichtlinien mit periodischen Prüfungen der Dossiers der Sozialhilfebeziehenden. Es berät diese Organe und kann ihnen Anweisungen geben.
+- c) Wenn es bei einem Organ, das mit dem Vollzug dieses Gesetzes betraut ist, Unregelmässigkeiten feststellt, sorgt es für die Anwendung der im Gesetz über die Gemeinden vorgesehenen Aufsichtsinstrumente.
+- d) Es zahlt den regionalen Sozialdiensten die finanziellen Leistungen zu Lasten des Staates oder anderer Kantone gemäss ZUG zurück.
+- e) Es definiert und verabschiedet die sozialberuflichen Eingliederungsmassnahmen, erstellt einen Katalog, bezeichnet die Organisatoren dieser Massnahmen und stellt ihre Koordination sicher.
+- f) Es übt die bundesrechtlichen Aufgaben aus.
+- g) Es erarbeitet die Massnahmen des Aktionsplans nach Artikel 9 und koordiniert ihre Umsetzung.
+- h) Es erteilt den Observationsauftrag im Kompetenzbereich des Staates.
+- i) Es erarbeitet und setzt allgemeine Massnahmen für die Information und Ausbildung der Sozialkommissionen, des Personals der Sozialdienste und der beauftragten privaten Organisationen um.
+- j) Es fördert den Informationsaustausch und die Zusammenarbeit zwischen den Sozialdiensten und den öffentlichen und privaten Organen, die zum Ziel dieses Gesetzes beitragen.
+- k) Es sorgt für die Umsetzung, die Entwicklung und die Verwaltung des elektronischen Informationssystems nach Artikel 55.
+- l) Es erstellt einheitliche Kriterien für die statistische Erfassung und sorgt für die Erhebung und Verarbeitung der statistischen Daten, die von den öffentlichen Dienststellen und privaten Organisationen, die an der Umsetzung dieses Gesetzes beteiligt sind, gesammelt werden.
+
+#### Art. 44
+
+**Soziale Organisationen**
+
+<sup>1</sup> Der Staat kann private Organisationen oder eine selbstständige öffentlich-rechtliche Anstalt beauftragen, namentlich für Personen aus dem Asylbereich spezifische Leistungen in Zusammenhang mit den Zielen dieses Gesetzes auszurichten.
+
+<sup>2</sup> Sozialberufliche Eingliederungsmassnahmen im Sinne von Artikel 26, die mit einem Mandat umgesetzt werden, werden im Katalog nach Artikel 28 Abs. 3 erfasst.
+
+<sup>3</sup> Die Zuweisung eines neuen Mandats wird der Konferenz der Sozialhilfebehörden zur Stellungnahme vorgelegt, ausser für die Aufgaben des Staates.
+
+<sup>4</sup> Die Fremdvergabe der Datenbearbeitung muss die Anforderungen der Datenschutzgesetzgebung erfüllen.
+
+### 8.2 Gemeinden
+
+#### Art. 45
+
+**Aufgaben**
+
+<sup>1</sup> Die Gemeinden sorgen dafür, dass die bedürftigen Personen die nach diesem Gesetz gewährte Sozialhilfe erhalten.
+
+<sup>2</sup> Zu diesem Zweck schliessen sie sich gemäss der regionalen Organisation nach Artikel 39 Abs. 1 in Form eines Gemeindeverbands zusammen. Vorbehalten bleibt Artikel 39 Abs. 2. Die Organisation und Funktionsweise des Gemeindeverbands werden im Gesetz über die Gemeinden geregelt, unter Vorbehalt der Bestimmungen dieses Gesetzes.
+
+<sup>3</sup> Für die Sozialhilferegion richten die Gemeinden eine Sozialkommission und einen regionalen Sozialdienst ein.
+
+#### Art. 46
+
+**Örtliche Zuständigkeit**
+
+<sup>1</sup> Die Behörde der Wohnsitzgemeinde der bedürftigen Person ist für den Entscheid über deren Sozialhilfeanspruch zuständig.
+
+<sup>2</sup> Hat die Person keinen Wohnsitz, obliegt die Gewährung der Sozialhilfe der Behörde der Aufenthaltsgemeinde.
+
+<sup>3</sup> Benötigt eine bedürftige Person eine unverzügliche und zeitlich beschränkte Hilfe ausserhalb ihres Wohnsitzkantons oder ihrer Wohnsitzgemeinde, so ist die Behörde der Aufenthaltsgemeinde für die Gewährung zuständig.
+
+<sup>4</sup> Im Fall eines Aufenthalts oder einer Platzierung im Sinne von Artikel 5 ZUG ohne Wohnsitz obliegt die Gewährung der Sozialhilfe der letzten Gemeinde, die in den letzten fünf Jahren eine materielle Grundsicherung ausgerichtet hat.
+
+<sup>5</sup> Die Gemeinden dürfen eine bedürftige Person nicht abweisen, noch verhindern, dass sie sich auf ihrem Gebiet niederlässt, oder ihr das verbieten. Bei Widerhandlungen gegen dieses Verbot muss der Gemeindeverband der Gemeinde oder die fehlbare Gemeinde die Gesamtheit der materiellen Grundsicherungskosten der letzten fünf Jahre dem Gemeindeverband oder der Gemeinde zurückzahlen, der oder die die Hilfe geleistet hat.
+
+#### Art. 47
+
+**Sozialkommission – Zusammensetzung**
+
+<sup>1</sup> Die Sozialkommissionen bestehen aus fünf bis neun Mitgliedern.
+
+<sup>2</sup> Der Gemeindeverband oder im Rahmen von Artikel 39 Abs. 2 die Gemeinde wählt die Mitglieder der Sozialkommission aus verschiedenen Politik-, Wirtschafts- und Sozialbereichen. Es können auch Mitglieder ausserhalb der Gemeindeexekutive bezeichnet werden.
+
+<sup>3</sup> Der regionale Sozialdienst führt das Kommissionssekretariat. Die Leiterin oder der Leiter des Dienstes nimmt mit beratender Stimme an den Kommissionssitzungen teil.
+
+<sup>4</sup> Eine Vertreterin oder ein Vertreter des Amts kann in beratender Funktion an den Sitzungen der Sozialkommission teilnehmen.
+
+<sup>5</sup> Der Gemeindeverband oder im Sinne von Artikel 39 Abs. 2 die Gemeinde verabschiedet ein allgemeinverbindliches Reglement, das die Organisation und die Funktionsweise der Sozialkommission festlegt.
+
+#### Art. 48
+
+**Sozialkommission – Befugnisse**
+
+<sup>1</sup> Die Sozialkommission ist die Sozialhilfebehörde, unter Vorbehalt der Zuständigkeiten des regionalen Sozialdienstes und des Amts. Sie beschliesst:
+
+- a) die Gewährung, die Verweigerung, die Änderung, die Aufhebung und die Einstellung der materiellen Grundsicherung;
+- b) den Abschluss und die Kündigung des sozialberuflichen Eingliederungsvertrags;
+- c) die Sanktion im Sinne von Artikel 36 und deren Aufhebung;
+- d) das Einreichen einer Strafanzeige;
+- e) die Vertretungsbefugnis vor Verwaltungs-, Straf- und Zivilrechtsbehörden;
+- f) die Rückerstattung der ausgerichteten Hilfen.
+
+<sup>2</sup> Sie kann allgemein oder für einen spezifischen Fall ihre Verfügungskompetenz im Sinne von Absatz 1 an den regionalen Sozialdienst delegieren, mit Ausnahme:
+
+- a) der erstmaligen Gewährung oder der Verweigerung der materiellen Grundsicherung. Artikel 50 Abs. 1 Bst. h bleibt vorbehalten;
+- b) deren Aufhebung;
+- c) der Einspracheentscheide im Sinne von Artikel 82.
+
+<sup>3</sup> Die Sozialkommission hält die allgemeinen Regeln für die Delegation im Sinne von Absatz 2 in einem Reglement fest und kontrolliert deren Anwendung.
+
+#### Art. 49
+
+**Regionaler Sozialdienst – Mitarbeitende**
+
+<sup>1</sup> Der regionale Sozialdienst besteht aus einer Leiterin oder einem Leiter sowie aus ausreichendem und qualifiziertem Personal für die Erfüllung seines Auftrags.
+
+#### Art. 50
+
+**Regionaler Sozialdienst – Befugnisse**
+
+<sup>1</sup> Der regionale Sozialdienst stellt die Unterstützung der Personen in sozialen oder materiellen Schwierigkeiten sicher. Er erfüllt folgende Aufgaben:
+
+- a) Er übt die von der Sozialkommission delegierte Entscheidkompetenz aus.
+- b) Er leistet einen Beitrag zur sozialen Prävention sowie die persönliche Hilfe und materielle Grundsicherung, setzt die sozialberuflichen Eingliederungsmassnahmen und die Ausbildungsprojekte um und stellt ihre Nachverfolgung sicher.
+- c) Er überprüft regelmässig die Entwicklung der persönlichen, finanziellen und familiären Situation der Mitglieder der Unterstützungseinheit.
+- d) Er erarbeitet mit der begünstigten Person den sozialberuflichen Eingliederungsvertrag und das Ausbildungsprojekt.
+- e) Er arbeitet bei der Dossierweitergabe mit allen betroffenen Stellen zusammen.
+- f) Er vergibt einen Observationsauftrag im Sinne von Artikel 63.
+- g) Er ersucht bei Bedarf für Minderjährige um die Zusammenarbeit mit dem für die Jugend zuständigen Amt[^50-1].
+- h) Wenn notwendig gewährt er eine provisorische materielle Grundsicherung.
+- i) Er gewährt Mietkautionen.
+- j) Er erarbeitet den jährlichen Tätigkeitsbericht zuhanden der Direktion und des Gemeindeverbands oder der Gemeinde.
+- k) Er übermittelt dem Amt die bundesrechtliche Unterstützungsanzeigen.
+- l) Er erhebt, speichert und verwaltet im Informationssystem die buchhalterischen, soziodemografischen und statistischen Daten sowie die digitalen Dokumente für jedes Mitglied der Unterstützungseinheit gemäss den Bestimmungen des Amts.
+- m) Er übermittelt dem Amt zu jedem Quartalsende die Abrechnungen der gemäss den Empfehlungen des Amts gewährten materiellen Grundsicherung.
+- n) Er informiert und orientiert die Öffentlichkeit über die verfügbaren Dienststellen und verweist sie an diese.
+- o) Er beteiligt sich an der interinstitutionellen Zusammenarbeit und wendet die Zusammenarbeitsvereinbarungen im Sinne des BAMG an.
+- p) Er übermittelt dem Amt die Gerichtsentscheide im Bereich Sozialhilfe und die Strafanzeigen.
+
+[^50-1]: Heute: Jugendamt.
+
+### 8.3 Zusammenarbeit
+
+#### Art. 51
+
+**Allgemeines**
+
+<sup>1</sup> Um die in diesem Gesetz festgelegten Ziele zu erreichen, sind die betroffenen Organe und Institutionen verpflichtet, zusammenzuarbeiten und ihre Handlungen zu koordinieren.
+
+<sup>2</sup> Die betroffenen Organe beteiligen sich aktiv an der interinstitutionellen Zusammenarbeit, die namentlich im BAMG definiert ist.
+
+<sup>3</sup> Mit anderen öffentlichen oder privaten Organisationen, die in der sozialen oder beruflichen Wiedereingliederung aktiv sind, können Vereinbarungen zur Zusammenarbeit abgeschlossen werden.
+
+#### Art. 52
+
+**Konferenz der Sozialhilfebehörden**
+
+<sup>1</sup> Es wird eine Konferenz gebildet, welche die Präsidentinnen und Präsidenten der Sozialkommissionen vereint.
+
+<sup>2</sup> Sie hat folgende Befugnisse:
+
+- a) Stellungnahme zu Erlassen und Anwendungsrichtlinien der Sozialhilfe;
+- b) Stellungnahme zum periodischen Aktionsplan im Sinne von Artikel 9;
+- c) Stellungnahme zu den Präventionsmassnahmen nach Artikel 4 Abs. 2.
+
+<sup>3</sup> Das Amt beruft die Konferenz der Präsidentinnen und Präsidenten der Sozialkommissionen mindestens zweimal pro Jahr ein. Die Direktion führt den Vorsitz.
+
+#### Art. 53
+
+**Konferenz der Leiterinnen und Leiter der regionalen Sozialdienste**
+
+<sup>1</sup> Es wird eine Konferenz gebildet, welche die Leiterinnen und Leiter der Sozialdienste vereint.
+
+<sup>2</sup> Sie wird zu den Massnahmen, mit denen die Anwendung und die Koordination der Sozialhilfe sichergestellt werden kann, und zu anderen einschlägigen Themen angehört.
+
+<sup>3</sup> Das Amt beruft die Konferenz der Verantwortlichen der regionalen Sozialdienste mindestens zweimal pro Jahr ein. Das Amt führt den Vorsitz.
+
+## 9 Instrumente des Sozialhilfedispositivs
+
+#### Art. 54
+
+**Vertrauensärztliche Untersuchung**
+
+<sup>1</sup> Die Direktion bezeichnet eine oder mehrere Personen als Vertrauensärztinnen oder Vertrauensärzte und eine oder mehrere Personen als Vertrauenszahnärztinnen oder Vertrauenszahnärzte.
+
+<sup>2</sup> Die Vertrauensärztin oder der Vertrauensarzt gemäss BAMG und die oder der von der Direktion ernannte Vertrauensärztin oder Vertrauensarzt sind befugt, Klärungen zur Arbeitsfähigkeit der Sozialhilfebeziehenden zu liefern und der Sozialhilfebehörde zu helfen, eine geeignete Unterstützung festzulegen.
+
+<sup>3</sup> Die Vertrauenszahnärztin oder der Vertrauenszahnarzt ist befugt, zu Kostenvoranschlägen für Zahnpflegeleistungen, die zu hohen Kosten führen, Stellung zu nehmen und sich zur Notwendigkeit, zur Angemessenheit und zu den Kosten der vorgeschlagenen Behandlungen zu äussern.
+
+#### Art. 55
+
+**Elektronisches Informationssystem**
+
+<sup>1</sup> Zur Verwaltung und Koordination der notwendigen Informationen für die Anwendung dieses Gesetzes wird ein gemeinsames, durch ein Abrufverfahren zugängliches Informationssystem eingeführt.
+
+<sup>2</sup> Dieses Informationssystem erstellt eine Datei im Sinne des Datenschutzgesetzes (DSchG). Das Amt ist für die Datei verantwortlich.
+
+<sup>3</sup> Das Informationssystem soll den mit dem Vollzug dieses Gesetzes betrauten Organen helfen, die Subsidiarität zu kontrollieren, die Dossiers der Sozialhilfebeziehenden zu verwalten, die Lastenverteilung auszuführen, die Verfolgung der Rückerstattung sicherzustellen sowie die Steuerung und die Aufsicht über das Sozialhilfedispositiv auszuüben.
+
+<sup>4</sup> Es erfasst besonders schützenswerte sowie soziodemografische, buchhalterische und statistische Daten und die elektronischen Dokumente jeder Person, die Mitglied der Unterstützungseinheit ist.
+
+<sup>5</sup> Die Mitglieder der Unterstützungseinheit werden darüber informiert, dass sie betreffende Daten im elektronischen Informationssystem verarbeitet werden.
+
+<sup>6</sup> Die regionalen Sozialdienste und das Amt erfassen, verwalten und tauschen die Daten über das gemeinsame Informationssystem aus, wobei sie die Vorschriften des Datenschutzes einhalten.
+
+<sup>7</sup> Es ermöglicht die digitale Abfrage der Auskünfte von Dritten im Sinne von Artikel 76.
+
+<sup>8</sup> Die AHVN dient als Benutzeridentifizierung und zum elektronischen Datenaustausch zwischen den offiziellen Personenregistern.
+
+<sup>9</sup> Der Staatsrat legt die Verwaltungsregeln, das Genehmigungsverfahren und die Einzelheiten für das Zugriffsrecht fest, wobei er die Anforderungen des Datenschutzes berücksichtigt.
+
+## 10 Verfahren
+
+### 10.1 Allgemeines
+
+#### Art. 56
+
+**Geltende Vorschriften**
+
+<sup>1</sup> Vorbehaltlich anderweitiger Bestimmungen dieses Gesetzes gelten die Vorschriften des Gesetzes über die Verwaltungsrechtspflege (VRG).
+
+#### Art. 57
+
+**Antrag**
+
+<sup>1</sup> Jede Person, die Sozialhilfe beantragt, wendet sich an den für ihren Wohn- oder Aufenthaltsort zuständigen regionalen Sozialdienst.
+
+<sup>2</sup> Der Antrag auf materielle Grundsicherung gilt als eingereicht:
+
+- a) am Tag der Anmeldung beim regionalen Sozialdienst, sofern die Mitglieder der Unterstützungseinheit alle notwendigen Dokumente für die Bemessung ihres Anspruchs auf materielle Grundsicherung innerhalb der vom regionalen Sozialdienst festgelegten Frist bereitstellen, oder
+- b) andernfalls am Tag, an dem alle erforderlichen Dokumente im Besitz des regionalen Sozialdienstes sind.
+
+<sup>3</sup> Die Spitäler informieren den regionalen Sozialdienst innerhalb von 30 Tagen über die Einweisung von sich im Kanton aufhaltenden bedürftigen Personen.
+
+#### Art. 58
+
+**Abklärung – Allgemeines**
+
+<sup>1</sup> Der regionale Sozialdienst klärt den Antrag schnellstmöglich ab.
+
+<sup>2</sup> Die Abklärung bezieht sich namentlich auf die persönliche, finanzielle, familiäre und soziale Situation der Person, die eine materielle Grundsicherung beantragt, sowie auf diejenige der Mitglieder der Unterstützungseinheit und der Personen, die gegenüber letzteren eine Unterhaltspflicht haben.
+
+#### Art. 59
+
+**Stellungnahme**
+
+<sup>1</sup> Bevor der Sozialdienst einen Entscheid erlässt, holt er die Stellungnahme der Freiburger Wohnsitz- oder Aufenthaltsgemeinde der gesuchstellenden Person ein.
+
+<sup>2</sup> Damit die Gemeinde die Stellungnahme verfassen kann, liefert ihr der Sozialdienst die wichtigen Informationen zur gesuchstellenden Person.
+
+#### Art. 60
+
+**Provisorischer Entscheid**
+
+<sup>1</sup> Bis zum Erlass des Entscheids über den Antrag kann eine provisorische materielle Grundsicherung gewährt werden.
+
+#### Art. 61
+
+**Unentgeltlichkeit**
+
+<sup>1</sup> Das Sozialhilfeverfahren ist kostenlos.
+
+<sup>2</sup> Die Kosten für das Beweisverfahren können der Person angelastet werden, die unrechtmässig Leistungen bezogen oder zu erhalten versucht hat.
+
+#### Art. 62
+
+**Entscheid**
+
+<sup>1</sup> Alle Entscheide der Sozialhilfebehörde sind der betroffenen Person, der als Sozialhilfewohnsitz oder -aufenthalt geltenden Gemeinde und, für die Fälle nach Bundesrecht, dem Amt unter Hinweis auf die Rechtsmittel schriftlich und schnellstmöglich zuzustellen.
+
+### 10.2 Observation
+
+#### Art. 63
+
+**Grundsätze**
+
+<sup>1</sup> Die zuständige Behörde kann die Person, die einen Antrag stellt oder Sozialhilfe bezieht, mit Ausnahme von minderjährigen Kindern, observieren lassen und Bild- und Tonaufzeichnungen machen, um spezifische Sachverhalte zu ermitteln:
+
+- a) wenn aufgrund konkreter Anhaltspunkte anzunehmen ist, dass die Person unberechtigt Leistungen bezieht, bezogen hat oder zu erhalten versucht;
+- b) wenn die Ermittlung des Sachverhalts ohne Observationsmassnahmen unmöglich oder übermässig schwierig wäre.
+
+<sup>2</sup> Die zuständige Behörde informiert die Person, die einen Antrag stellt, bei der Dossiereröffnung, dass sie im Fall des Verdachts auf unrechtmässigen Leistungsbezug observiert werden kann.
+
+#### Art. 64
+
+**Voraussetzungen**
+
+<sup>1</sup> Die betroffenen Personen dürfen nur observiert werden, wenn sie sich an einem allgemein zugänglichen Ort oder an einem Ort befinden, der von einem allgemein zugänglichen Ort aus frei einsehbar ist.
+
+<sup>2</sup> Eine Observation darf während höchstens 30 Tagen innerhalb von sechs Monaten ab dem ersten Observationstag stattfinden. Bestehen hinreichende Gründe, kann dieser Zeitraum um höchstens sechs weitere Monate verlängert werden; bei einer Verlängerung bleibt die maximale Observationsdauer von dreissig Tagen beibehalten.
+
+<sup>3</sup> Die mit der Observation beauftragte Person darf das Verhalten der begünstigten Person nicht beeinflussen.
+
+<sup>4</sup> Ohne Einverständnis der begünstigten Person ist der Zugang zu ihrem Arbeitsort, zu ihrem Wohnort oder zu ihrem Fahrzeug nicht erlaubt.
+
+#### Art. 65
+
+**Auftrag**
+
+<sup>1</sup> Der Observationsauftrag wird spezialisierten kantonalen Inspektorinnen und Inspektoren anvertraut, die dem Amt oder der Orts- oder interkommunalen Polizei angehören.
+
+<sup>2</sup> Der Auftrag definiert die zu observierenden Bestandteile. Es können insbesondere die folgenden Elemente abgeklärt werden:
 
 - a) finanzielle Mittel, Einkünfte, Vermögen oder Naturaleinkommen in der Schweiz und im Ausland sowie Erwerbs- und Arbeitsfähigkeit;
-- b) laufende sowie andere Ausgaben;
+- b) laufende und andere Ausgaben;
 - c) Wohnsitz und tatsächlicher Lebensort;
 - d) Zivilstand und tatsächliche Haushaltszusammensetzung;
 - e) angemessene Verwendung der Sozialhilfeleistungen.
 
-<sup>3</sup> Die Ergebnisse der Abklärung werden in einem Bericht festgehalten, den das Amt der zuständigen Sozialhilfebehörde oder der Behörde übergibt, die die Inspektion verlangt hat.
+<sup>3</sup> Das Amt verfügt über ausreichende Mittel, um den Auftrag rasch und wirksam auszuführen.
 
-<sup>4</sup> Bevor die zuständige Sozialhilfebehörde entscheidet, teilt sie die Schlussfolgerungen des Berichts der betroffenen Person mit und setzt ihr für eine Stellungnahme eine Frist. Der Bericht wird in das Dossier dieser Person aufgenommen.
+#### Art. 66
 
-<sup>5</sup> Wird ein Sozialhilfemissbrauch festgestellt, so übermittelt das Amt die Schlussfolgerungen des Berichts an weitere Dienststellen des Staats, die von diesem Missbrauch berührt werden.
+**Ergebnisse und Datenschutz**
 
-<sup>6</sup> Die Ergebnisse der Inspektionen sind dem Tätigkeitsbericht der Direktion zu entnehmen.
+<sup>1</sup> Die Observationsergebnisse werden in einem Bericht festgehalten, welcher der zuständigen Behörde mit den verwertbaren Beweismitteln ausgehändigt wird.
 
-<sup>7</sup> Die Bestimmungen dieses Artikels gelten für Sozialdienste, die selber Inspektionsarbeiten durchführen. Sie bezeichnen die dafür ausgebildeten und dem Amtsgeheimnis unterstellten Personen. Sie übermitteln dem Amt sowohl die Schlussfolgerungen der Berichte nach den Absätzen 4 und 5 als auch den entsprechenden Entscheid der Sozialkommission.
+<sup>2</sup> Die zuständige Behörde informiert die betroffene Person über den Grund, die Art und die Dauer der Observation, bevor sie einen Entscheid erlässt.
 
-#### Art. 22
+<sup>3</sup> Konnten die Anhaltspunkte nach Artikel 63 Abs. 1 Bst. a durch die Observation nicht bestätigt werden, so erlässt die zuständige Behörde einen Entscheid zum Grund, zur Art und zur Dauer der Observation und vernichtet nach dem Inkrafttreten der Verfügung das Observationsmaterial, wenn eine der betroffenen Personen nicht ausdrücklich beantragt hat, dass es in den Akten verbleibt.
 
-**Direktion**
+<sup>4</sup> Bestätigt die Observation die Anhaltspunkte nach Artikel 63 Abs. 1 Bst. a, so teilt die zuständige Behörde dem Amt ihre Verfügung mit. Dieses informiert die anderen betroffenen Dienststellen, insbesondere den Staat.
 
-<sup>1</sup> Die für die Sozialhilfe zuständige Direktion[^22-1] erlässt die Konzepte für die Eingliederungsmassnahmen, nachdem sie geprüft hat, ob sie sinnvoll und geeignet sind und nicht in Konkurrenz zum Arbeitsmarkt stehen. Hierzu befragt sie die Vollzugsorgane und entsprechende Kreise, die unter das Gesetz über die Beschäftigung und die Arbeitslosenhilfe fallen.
+<sup>5</sup> Der Staatsrat regelt:
 
-<sup>2</sup> Sie trifft alle Entscheide, die nicht in den Kompetenzbereich einer anderen Behörde fallen.
+- a) das Verfahren, mit dem die observierte Person das vollständige Observationsmaterial einsehen kann;
+- b) die Aufbewahrung und Vernichtung des Observationsmaterials;
+- c) die Anforderungen an die mit der Observation beauftragten Fachpersonen.
 
-<sup>3</sup> Sie erstellt ein Konzept für den Rahmen, in dem die Revision und die Inspektion nach Artikel 21a f. umgesetzt werden.
+## 11 Rückerstattung
 
-[^22-1]: Heute: Direktion für Gesundheit und Soziales.
+#### Art. 67
 
-#### Art. 22a
+**Grundsätze**
 
-**Staatsrat**
+<sup>1</sup> Die volljährige begünstigte Person und gegebenenfalls ihre Ehepartnerin bzw. ihr Ehepartner, die Konkubinatspartnerin oder der Konkubinatspartner oder die im gleichen Haushalt lebende eingetragene Partnerin oder der im gleichen Haushalt lebende eingetragene Partner sind solidarisch verpflichtet, die für die gesamte Unterstützungseinheit ausbezahlte materielle Grundsicherung zurückzuerstatten.
 
-<sup>1</sup> Der Staatsrat erlässt Richtsätze für die Berechnung der materiellen Hilfe. Dabei bezieht er sich auf die Richtlinien der Schweizerischen Konferenz für Sozialhilfe. Er hört vorgängig die Sozialkommissionen und betroffenen Kreise an.
+<sup>2</sup> Die zurückzuerstattenden Beträge werden nicht verzinst, ausser sie wurden unrechtmässig erhalten.
 
-<sup>2</sup> Er kann im Zusammenhang mit dem Vollzug dieses Gesetzes und des Gesetzes über die Beschäftigung und die Arbeitslosenhilfe departementsübergreifende Arbeitsgruppen einsetzen.
+<sup>3</sup> Der Staatsrat regelt die Einzelheiten für die Rückerstattung.
 
-<sup>3</sup> Er beauftragt mindestens einmal je Legislaturperiode ein externes Organ mit der quantitativen und qualitativen Beurteilung der Eingliederungsmassnahmen nach diesem Gesetz und der Eingliederungsmassnahmen nach dem Gesetz über die Beschäftigung und die Arbeitslosenhilfe. Er informiert den Grossen Rat darüber.
+#### Art. 68
 
-<sup>4</sup> …
+**Erbberechtigte**
 
-## 3 Verfahren
+<sup>1</sup> Die Rückerstattungspflicht erstreckt sich bis zum Betrag ihres Erbschaftsanteils auf die Erbinnen und Erben sowie auf die Begünstigten einer Lebensversicherungsleistung, die in Folge des Ablebens der bedürftigen Person ausbezahlt wird.
 
-#### Art. 23
+#### Art. 69
 
-**Gesuch**
+**Befreiung von der Rückerstattungspflicht**
 
-<sup>1</sup> Wer Sozialhilfe beziehen möchte, muss sich an den Sozialdienst wenden, zu dem seine Wohnsitz- oder Aufenthaltsgemeinde gehört.
+<sup>1</sup> Nicht zur Rückerstattung verpflichtet sind, unter Vorbehalt von Artikel 66:
 
-<sup>2</sup> Die Krankenhäuser informieren das Kantonale Sozialamt unverzüglich über den Eintritt von Bedürftigen, die vorübergehend im Kanton sind.
+- a) volljährige junge Erwachsene für die während ihrer Ausbildung im Sinne von Artikel 277 Abs. 2 ZGB gewährte Hilfe; die Verantwortlichkeit der Eltern bleibt vorbehalten;
+- b) volljährige Personen für die während ihrer Minderjährigkeit bezogene Hilfe; die Verantwortlichkeit der Eltern bleibt vorbehalten;
+- c) junge Erwachsene unter 25 Jahren für die während ihrer Ausbildung im Sinne von Artikel 277 Abs. 2 ZGB ihren Eltern gewährte Hilfe;
+- d) Personen, die materielle Grundsicherung bezogen, während sie selber oder ein Mitglied der Unterstützungseinheit an einer Eingliederungsmassnahme im Sinne der Artikel 26ff teilnahm oder ein Ausbildungsprojekt im Sinne der Artikel 30ff realisierte;
+- e) Personen, für welche die materielle Grundsicherung dem nach den Artikeln 131a Abs. 2, 176a, 286a Abs. 3 und 329 Abs. 3 ZGB bevorschussten Familienunterhalt entspricht.
 
-#### Art. 24
+<sup>2</sup> Absatz 1 ist nicht anwendbar, wenn die begünstigte Person zu bedeutendem Vermögen gelangt.
 
-**Auskunftspflicht – Gesuchsteller**
+<sup>3</sup> Wurde die materielle Grundsicherung in Erwartung der Verwertung von Mitteln (Art. 22 Abs. 1 Bst. b) bevorschusst, ist Absatz 1 Bst. d und e nicht anwendbar, sobald die Mittel in Höhe der erhaltenen Leistungen verwertet sind.
 
-<sup>1</sup> Wer materielle Hilfe beantragt, muss dem Sozialdienst über seine persönlichen und finanziellen Verhältnisse genau Auskunft geben und die für die Abklärung erforderlichen Unterlagen einreichen.
+#### Art. 70
 
-<sup>2</sup> Die materielle Hilfe kann verweigert werden, wenn der Gesuchsteller die für die Abklärung erforderlichen Unterlagen nicht einreicht. Sie kann jedoch einer bedürftigen Person nicht verweigert werden, selbst wenn diese persönlich für ihren Zustand verantwortlich ist.
+**Rückerstattung von rechtmässig bezogenen Leistungen**
 
-<sup>3</sup> Der Hilfeempfänger hat dem Sozialdienst jegliche Änderung in seinen Verhältnissen unverzüglich zu melden.
+<sup>1</sup> Die begünstigte Person ist zur Rückerstattung der rechtmässig erhaltenen materiellen Grundsicherung verpflichtet:
 
-<sup>4</sup> Unter Wahrung des Grundsatzes der Verhältnismässigkeit und der Zweckmässigkeit kann der zuständige Sozialdienst die um Sozialhilfe ersuchende Person eine Vollmacht unterzeichnen lassen, die ihn berechtigt, bei Gemeinden, Dienststellen des Staats, Sozial- und Privatversicherungen sowie Dritten die nötigen Informationen, insbesondere über die finanziellen Mittel der Person, ihre laufenden Ausgaben, ihren Zivilstand und ihre häusliche Situation sowie ihre Arbeits- und Verdienstmöglichkeiten selber einzuholen.
+- a) wenn die Person in Besitz eines Vermögens kommt, das den Betrag gemäss Artikel 11 Abs. 1 Bst. c des Bundesgesetzes über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (ELG) übersteigt;
+- b) bei der Wiederaufnahme einer Erwerbstätigkeit, soweit dies die begünstigte Person nicht veranlasst, keine entlöhnte Arbeit aufzunehmen;
+- c) in weiteren Fällen, wenn es die Gerechtigkeit erfordert.
 
-<sup>5</sup> Bestehen Zweifel über die Vollständigkeit und die Richtigkeit der Auskünfte, die die um Sozialhilfe ersuchende Person über ihre persönliche und finanzielle Situation erteilt hat, so muss diese die namentlich bezeichneten Dienste oder Dritten vom Amtsgeheimnis entbinden, damit die Sozialhilfebehörden die Informationen einholen können, die notwendig sind, um den Anspruch auf materielle Hilfe bestimmen zu können. Auf Antrag der Sozialhilfebehörde müssen namentlich das Bank- und das Steuergeheimnis aufgehoben werden. Weigert sich die um Sozialhilfe ersuchende Person, so kann sie im Sinne von Abs. 2 oder im Rahmen von Artikel 22a Abs. 1 bestraft werden.
+<sup>2</sup> Die Rückerstattungsfähigkeit berücksichtigt die Mittel der Mitglieder der Unterstützungseinheit nach Artikel 67 Abs. 1.
 
-#### Art. 25
+<sup>3</sup> Die Sozialkommission entscheidet über die Rückerstattung, wobei sie nötigenfalls Ratenzahlungen festlegt. In Härtefällen kann sie vollständig oder teilweise von der Rückerstattung absehen.
 
-**Auskunftspflicht – Staat, Gemeinden und Dritte**
+#### Art. 71
 
-<sup>1</sup> Die Dienststellen des Staates, Gemeinden, Sozial- und Privatversicherungen, Banken, Arbeitgeber und Dritten liefern der um Sozialhilfe ersuchenden Person und den Sozialhilfebehörden, die dies wünschen, unentgeltlich die Auskünfte, die erforderlich sind, um den nach diesem Gesetz anerkannten Sozialhilfebedarf von Personen zu ermitteln.
+**Rückerstattung von unrechtmässig bezogenen Leistungen**
 
-<sup>2</sup> Diese Auskünfte betreffen im Besonderen die Einzelheiten nach Artikel 21b Abs. 2.
+<sup>1</sup> Die begünstigte Person ist zur Rückerstattung der unrechtmässig erhaltenen materiellen Grundsicherung verpflichtet.
 
-#### Art. 26
+<sup>2</sup> Entstand die unrechtmässige Auszahlung aus einem Fehler der Sozialhilfebehörde und ohne Verschulden der begünstigten Person, so kann die Sozialhilfebehörde auf die vollständige oder teilweise Rückerstattung verzichten, wenn dies die begünstigte Person in eine schwierige Situation bringen würde.
 
-**Zustellung der Verfügungen**
+#### Art. 72
 
-<sup>1</sup> Alle Verfügungen der Sozialkommission sind dem Betroffenen, der als Sozialhilfe-Wohnsitz geltenden Gemeinde und, für die Fälle nach Bundesrecht oder internationalen Vereinbarungen, dem Kantonalen Sozialamt unter Hinweis auf die Rechtsmittel schriftlich zuzustellen.
+**Subrogation**
 
-<sup>2</sup> Alle Verfügungen des Kantonalen Sozialamtes sind dem Betroffenen schriftlich unter Hinweis auf die Rechtsmittel zuzustellen.
+<sup>1</sup> Die Sozialkommission, welche die materielle Grundsicherung als Vorschuss auf Leistungen von Versicherungen oder Dritten gewährt, die zur Leistungszahlung verpflichtet sind, tritt bis in Höhe der für den betreffenden Zeitraum gewährten materiellen Grundsicherung in die Ansprüche der begünstigten Person ein.
 
-#### Art. 27
+<sup>2</sup> Nimmt die Sozialhilfebehörde den Unterhalt der Familie an Stelle des Schuldners wahr, so kann sie ihre Ansprüche gemäss dem im Schweizerischen Zivilgesetzbuch vorgesehenen Rückgriff notfalls mit rechtlichen Schritten direkt gegenüber dem Schuldner geltend machen.
 
-**Unentgeltliches Verfahren**
+#### Art. 73
 
-<sup>1</sup> Das Verfahren zur Beurteilung des Gesuchs um Sozialhilfe ist unentgeltlich.
+**Gesetzliches Grundpfandrecht**
 
-#### Art. 28
+<sup>1</sup> Der regionale Sozialdienst fordert grundsätzlich in Höhe der aufgewendeten Beträge die Eintragung eines gesetzlichen Pfandrechts zu seinen Gunsten für die Liegenschaft, deren Hypothekarzinsen und Nebenkosten er gemäss Artikel 17 Abs. 1 Bst. b übernommen hat.
 
-**Schweigepflicht**
+#### Art. 74
 
-<sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Mitarbeiter der Sozialdienste, des Kantonalen Sozialamtes und der privaten Institutionen, die Mitglieder der Organe der Gemeindeverbände und die Gemeindebehörden unterliegen der Schweigepflicht.
+**Sicherheit von Dritten für den Aufenthalt von ausländischen Staatsangehörigen**
 
-#### Art. 29
+<sup>1</sup> Hält sich die eine materielle Grundsicherung beantragende oder beziehende Person mit ausländischer Staatsangehörigkeit mit einer finanziellen Sicherheit durch einen Dritten im Kanton auf oder verfügt über eine Aufenthaltsbewilligung mit einer finanziellen Sicherheit durch einen Dritten, ist der Dritte verpflichtet, die Gesamtheit der Grundsicherung, die der betroffenen Person geleistet wurde, in Geld oder Naturalien zurückzuerstatten, einschliesslich der Kosten für die Rückkehr ins Ursprungsland.
 
-**Rückerstattung – Bei rechtmässigem Bezug**
+#### Art. 75
 
-<sup>1</sup> Wer materielle Hilfe erhalten hat, muss diese ganz oder teilweise zurückerstatten, sobald die finanziellen Verhältnisse es ihm gestatten. Die nach Artikel 4c bezogene materielle Hilfe muss nicht rückerstattet werden.
+**Verjährung**
 
-<sup>2</sup> Die Rückerstattungspflicht gilt auch für die Erben bis zum Betrag ihres Anteils an der Erbschaft.
+<sup>1</sup> Der Anspruch auf Rückerstattung der materiellen Grundsicherung erlischt zehn Jahre nach der letzten Auszahlung der gewährten Hilfe.
 
-<sup>3</sup> Die Rückerstattung der materiellen Hilfe, die vor dem vollendeten 20. Altersjahr bezogen wurde, kann nicht verlangt werden.
+<sup>2</sup> Ergibt sich die Rückerstattungspflicht aus einer strafbaren Handlung, für die das Strafrecht eine längere Verjährungsfrist vorsieht, so ist diese auch auf die Rückerstattungsforderung anwendbar.
 
-<sup>4</sup> Der Sozialdienst, der eine materielle Hilfe als Vorschuss auf Leistungen leistungspflichtiger Versicherungen oder Dritter gewährt, tritt bis in Höhe der erteilten materiellen Hilfe in die Ansprüche des Hilfeempfängers ein.
+<sup>3</sup> Gegenüber den Erbberechtigten verjährt die Rückerstattungspflicht zwei Jahre nach dem Erbgang.
 
-#### Art. 30
+<sup>4</sup> Die Verjährungsfristen nach Absätzen 1–3 werden durch jede Handlung nach Artikel 135 des Schweizerischen Obligationenrechts (OR), durch jede neue Auszahlung der materiellen Grundsicherung und durch die Verkündung eines Rückerstattungsentscheids im Sinne von Artikel 48 Abs. 1 Bst. f unterbrochen.
 
-**Rückerstattung – Bei unrechtmässigem Bezug**
+<sup>5</sup> Nach dem Unterbruch beginnt eine neue Frist mit derselben Dauer, wenn die Person die materielle Grundsicherung nicht oder nicht mehr erhält.
 
-<sup>1</sup> Wer infolge unwahrer oder unvollständiger Angaben materielle Hilfe erhalten hat, hat den zu Unrecht bezogenen Betrag zurückzuerstatten.
+<sup>6</sup> Die Verjährungsfristen im Sinne der Absätze 1–3 sind so lange aufgehoben, wie die zur Rückerstattung verpflichtete Person in der Schweiz nicht betrieben werden kann.
 
-<sup>2</sup> Ein Erlass kann hingegen gewährt werden, wenn der Gesuchsteller gutgläubig gehandelt hat und wenn die Rückerstattung des zu Unrecht bezogenen Betrages für ihn eine grosse Härte bedeuten würde.
+<sup>7</sup> Bei einer Sicherheit mit einem Faust- oder Grundpfand verjährt das Recht auf Rückerstattung nicht.
 
-#### Art. 31
+## 12 Übermittlung und Verarbeitung der Daten
 
-**Rückerstattung – Garantie und Verjährung**
+#### Art. 76
 
-<sup>1</sup> Das Immobilienvermögen von Personen, die eine materielle Hilfe erhalten haben, wird mit einem gesetzlichen Grundpfand belegt (Art. 73 EGZGB), das ins Grundbuch eingetragen werden muss und die Rückerstattung der erteilten materiellen Hilfe sowie der allenfalls damit verbundenen Kosten garantiert. Die Eintragung dieses Grundpfands wird vom zuständigen Sozialdienst verlangt
+**Auskünfte von Dritten**
 
-<sup>2</sup> Der Anspruch auf Rückerstattung der materiellen Hilfe erlischt zehn Jahre nach der letzten Auszahlung der gewährten Hilfe. Bei Eintragung eines Grundpfands tritt keine Verjährung ein.
+<sup>1</sup> Folgende Stellen sind verpflichtet, den mit dem Vollzug dieses Gesetzes betrauten Organen die notwendigen schriftlichen oder mündlichen Auskünfte sowie Beweise für den Vollzug dieses Gesetzes unentgeltlich bereitzustellen:
 
-<sup>3</sup> Hat der Hilfeempfänger den Sozialdienst getäuscht, so erlischt der Anspruch auf Rückerstattung nach fünf Jahren vom Zeitpunkt der festgestellten Täuschung an gerechnet, jedenfalls aber zehn Jahre nach der letzten Auszahlung. Schreibt jedoch das Strafrecht für die strafbare Handlung eine längere Verjährungsfrist vor, so gilt nur diese.
+- a) die Verwaltungsbehörden gemäss Artikel 50 VRG;
+- b) die Straf- und Zivilrechtsbehörden;
+- c) die Sozialversicherungen und privaten Organisationen, die finanzielle Leistungen ausrichten;
+- d) die Mitglieder der Unterstützungseinheit und die Personen mit einer Unterhaltspflicht diesen gegenüber;
+- e) die Arbeitgeber/innen von Personen, die Sozialhilfeleistungen erhalten oder beantragen;
+- f) die Vermieter/innen, die Wohnungen an Personen vermieten, die Sozialhilfeleistungen erhalten oder beantragen;
+- g) die Bank- und Postbankinstitute.
 
-## 4 Finanzierung
+<sup>2</sup> Besonders verpflichtet, Auskunft zu erteilen sind:
 
-#### Art. 32
+- a) das für Steuern zuständige Amt für die Steuerdaten der Personen, die Sozialhilfeleistungen erhalten, beantragen oder erhalten haben, oder der Personen, die letzteren gegenüber eine Unterhalts- oder Unterstützungspflicht haben können;
+- b) die Einwohnerkontrollen und Zivilstandbehörden;
+- c) die für die Niederlassung und den Aufenthalt von Ausländerinnen und Ausländern zuständigen Behörden;
+- d) die Ausgleichskassen;
+- e) die für den Schutz der Arbeitnehmerinnen und Arbeitnehmer und die Bekämpfung der Schwarzarbeit zuständigen Behörden;
+- f) die für den Strassenverkehr zuständigen Behörden;
+- g) die für Betreibungen und Konkurse zuständigen Behörden;
+- h) die Kindes- und Erwachsenenschutzbehörden;
+- i) die für das Grundbuch zuständigen Behörden;
+- j) die Dienststellen für Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen;
+- k) die Dienststellen, die Zulagen, Stipendien und Darlehen für die Ausbildung gewähren;
+- l) die für die Arbeitslosenversicherung zuständigen Dienststellen;
+- m) die Polizeiorgane des Kantons und der Gemeinden;
+- n) die für das Handelsregister zuständigen Behörden.
 
-**Lastenaufteilung zwischen Staat und Gemeinden – Materielle Hilfe und Massnahmen zur sozialen Eingliederung**
+<sup>3</sup> Die Personen und Behörden nach den Absätzen 1 und 2 sind namentlich verpflichtet, die notwendigen Auskünfte zu liefern für die Prüfung:
 
-<sup>1</sup> Die folgenden Ausgaben werden zu 40 % vom Staat und zu 60 % von den Gemeinden übernommen, es sei denn, dass die Bundesgesetzgebung oder internationale Vereinbarungen etwas anderes vorsehen:
+- a) der persönlichen und wirtschaftlichen Verhältnisse der Personen, die Sozialhilfeleistungen erhalten oder beantragen;
+- b) des Anspruchs dieser Personen gegenüber Dritten;
+- c) des Bestehens einer Unterhalts- oder Unterstützungspflicht;
+- d) der sozialen und beruflichen Integration dieser Personen;
+- e) des Bestehens einer Rückerstattungspflicht im Sinne dieses Gesetzes.
 
-- a) die Kosten der materiellen Hilfe nach Artikel 7;
-- b) die Kosten der Eingliederungsmassnahmen nach Artikel 4a Abs. 3.
+<sup>4</sup> Der Staatsrat legt die Liste der Dienststellen, die ihre Auskünfte elektronisch übermitteln, und die Einzelheiten für den Informationsaustausch fest.
 
-#### Art. 32a
+#### Art. 77
 
-**Lastenaufteilung zwischen Staat und Gemeinden – Ausbildung, Evaluation und spezialisierte Sozialdienste**
+**Datenbearbeitung**
 
-<sup>1</sup> Die folgenden Ausgaben werden je zur Hälfte vom Staat und den Gemeinden übernommen, es sei denn, dass die Bundesgesetzgebung oder internationale Vereinbarungen etwas anderes vorsehen:
+<sup>1</sup> Die mit dem Vollzug dieses Gesetzes betrauten Organe sind befugt, die Personendaten, einschliesslich besonders schützenswerter Daten, zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:
 
-- a) …
-- b) die Ausbildungskosten nach Artikel 21 Abs. 5;
-- c) die Evaluationskosten nach Artikel 22a Abs. 3;
-- d) die Kosten der spezialisierten Sozialdienste nach Artikel 14 Abs. 1, mit Ausnahme derjenigen, die unter die Asyl-Gesetzgebung fallen.
+- a) die bedürftigen Personen zu erfassen und zu beraten;
+- b) den Leistungsanspruch zu beurteilen sowie die Leistungen zu bemessen, auszurichten und mit denjenigen Dritter zu koordinieren;
+- c) den Grundsatz der Subsidiarität zu prüfen und Ansprüche gegenüber Dritten geltend zu machen;
+- d) den Bezug von ungerechtfertigten Leistungen zu verhindern oder einzustellen;
+- e) das Bestehen einer Rückerstattungspflicht zu prüfen;
+- f) Eingliederungsmassnahmen umzusetzen;
+- g) den Gesundheitszustand und die Beschäftigungsfähigkeit der bedürftigen Personen zu beurteilen;
+- h) die Dossierweitergabe bei einer Wohnsitzänderung zu erleichtern und die Weiterführung der administrativen Schritte bei den Massnahmen, den verfügten Sanktionen und den Rückerstattungen sicherzustellen;
+- i) die Anwendung dieses Gesetzes zu kontrollieren;
+- j) Statistiken zu erstellen.
 
-#### Art. 33
+<sup>2</sup> Die Daten werden unter Einhaltung der Datenschutzvorschriften bearbeitet.
 
-**Kanton**
+## 13 Finanzierung
 
-<sup>1</sup> Die Kosten für die materielle Hilfe nach Artikel 8 und für die materielle Hilfe, die den Freiburger Bürgern mit Wohnsitz in einem anderen Kanton oder im Ausland gewährt wurde, werden vom Kanton übernommen, sofern das Bundesrecht und internationale Vereinbarungen nicht etwas anderes vorsehen.
+#### Art. 78
 
-#### Art. 34
+**Lastenaufteilung zwischen Staat und Gemeinden**
 
-**Kostenaufteilung unter den Gemeinden – Materielle Hilfe, Eingliederungsmassnahmen und spezialisierte Sozialdienste**
+<sup>1</sup> Die folgenden Ausgaben werden zu 40 % durch den Staat und zu 60 % durch die Gemeinden übernommen, es sei denn, dass die Bundesgesetzgebung etwas anderes vorsieht:
 
-<sup>1</sup> Die Kosten nach den Artikeln 32 und 32a, die zu Lasten der Gemeinden gehen, werden unter allen Gemeinden des Bezirks aufgeteilt, in dem sich der Sozialdienst befindet.
+- a) die materielle Grundsicherung gemäss Artikel 16;
+- b) die punktuelle Hilfe gemäss Artikel 24;
+- c) die sozialberuflichen Eingliederungsmassnahmen gemäss Artikel 26, ohne diejenigen, die ihm Rahmen von Artikel 44 ergriffen werden;
+- d) die Unterstützung bei der Ausbildung gemäss Artikel 30 Abs. 1 und 2;
+- e) die Kosten der in anderen Kantonen ausgerichteten Leistungen für bedürftige Personen, die Wohnsitz im Kanton Freiburg haben.
 
-<sup>2</sup> Bestehen mehrere Sozialdienste in einem Bezirk, so teilt das Kantonale Sozialamt jährlich die Kosten unter allen Gemeinden des Bezirks auf.
+<sup>2</sup> Die folgenden Ausgaben werden zu 50 % durch den Staat und zu 50 % durch die Gemeinden übernommen, es sei denn, dass die Bundesgesetzgebung etwas anderes vorsieht:
 
-#### Art. 34a
+- a) die Ausbildungskosten nach Artikel 43 Abs. 1 Bst. i;
+- b) die Kosten für die periodische Beurteilung des Dispositivs nach Artikel 41 Abs. 1 Bst. e;
+- c) die Beiträge an die Kosten von sozialen Organisationen im Sinne von Artikel 44, mit Ausnahme der Organisationen, die unter die Asylgesetzgebung fallen;
+- d) die Kosten der sozialen Präventionsmassnahmen, die gemäss Artikel 4 Abs. 2 gemeinsam vom Staat und von den Gemeinden festgelegt werden;
+- e) die Kosten für die Einführung, Wartung und Entwicklung des gemeinsamen elektronischen Informationssystems im Sinne von Artikel 55.
 
-**Kostenaufteilung unter den Gemeinden – Betriebskosten der Sozialdienste**
+<sup>3</sup> Die Unterstützung bei der Ausbildung gemäss Artikel 30 Abs. 3 wird vollumfänglich vom Staat übernommen.
 
-<sup>1</sup> Die Betriebskosten der Sozialdienste werden unter allen Gemeinden aufgeteilt, die den jeweiligen Sozialdienst eingerichtet haben.
+#### Art. 79
 
-#### Art. 34b
+**Observation**
 
-**Kostenaufteilung unter den Gemeinden – Verteilschlüssel**
+<sup>1</sup> Die Kosten für die Observation gehen zu Lasten des Staats oder der Gemeinden der betroffenen Sozialhilferegion, je nach dem, ob die Observation von der Sozialinspektion des Sozialdiensts oder von der lokalen oder interkommunalen Polizei ausgeführt wird.
 
-<sup>1</sup> Die Kosten aus diesem Gesetz werden unter den Gemeinden im Verhältnis ihrer zivilrechtlichen Bevölkerungszahl aufgeteilt.
+#### Art. 80
 
-## 4a Bericht über die soziale Situation und die Armut
+**Aufgaben des Staates**
 
-#### Art. 34c
+<sup>1</sup> Der Staat übernimmt:
 
-**Allgemeines**
+- a) die gemäss Artikel 40 Abs. 2 gewährte materielle Grundsicherung. Vorbehalten bleibt die Bundesgesetzgebung;
+- b) die Betriebskosten für die Sozialhilfeaufgaben zugunsten der Asylsuchenden und Flüchtlinge gemäss Artikel 40 Abs. 2;
+- c) die Massnahmenkosten für die Umsetzung des Aktionsplans im Sinne von Artikel 9.
 
-<sup>1</sup> Der Staatsrat überweist dem Grossen Rat einmal pro Legislaturperiode einen Bericht über die soziale Situation und die Armut, welcher der Beobachtung der Entwicklung der Armutsproblematik im Kanton und der vorausschauenden Planung von Präventionsmassnahmen zugunsten der betroffenen Bevölkerungsgruppen dient.
+#### Art. 81
 
-<sup>2</sup> Der Bericht wird vom Kantonalen Sozialamt erstellt. Er beinhaltet einen quantitativen und einen qualitativen Teil, die ein vielschichtiges Verständnis der Armutsproblematik ermöglichen. Er kann ausserdem eine Längsschnittanalyse der Lebensverläufe enthalten.
+**Lastenaufteilung zwischen Gemeinden**
 
-#### Art. 34d
+<sup>1</sup> Die Kosten zulasten der Gemeinden nach den Artikeln 78 Abs. 1 und 79 werden vom Amt auf alle Gemeinden des Bezirks aufgeteilt.
 
-**Bearbeitung personenbezogener Daten**
+<sup>2</sup> Die Kosten zulasten der Gemeinden nach Artikel 78 Abs. 2 werden auf alle Gemeinden des Kantons aufgeteilt.
 
-<sup>1</sup> Der Bericht über die soziale Situation und die Armut basiert auf einer eigens dafür erstellten Datenbank, die folgende verfügbare Daten verwendet:
+<sup>3</sup> Die Betriebskosten der regionalen Sozialdienste und die Kosten für die vertrauensärztliche Untersuchung im Sinne von Artikel 54 werden auf alle Gemeinden der Sozialhilferegion aufgeteilt. Die vertraglich festgelegte Beteiligung des Staats an den Betriebskosten in besonderen Situationen bleibt vorbehalten.
 
-- a) Steuerdaten, die von der Kantonalen Steuerverwaltung zur Verfügung gestellt werden;
-- b) in den Einwohnerregistern der Gemeinden verzeichnete Daten, die auf der kantonalen Informatikplattform gemäss Artikel 16 des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle enthalten sind und vom Amt für Bevölkerung und Migration zur Verfügung gestellt werden;
-- c) Daten der Sozialhilfe, die vom Kantonalen Sozialamt zur Verfügung gestellt werden;
-- d) Daten in Zusammenhang mit den Ausbildungsbeiträgen, die vom Amt für Ausbildungsbeiträge zur Verfügung gestellt werden;
-- e) Daten in Zusammenhang mit den AHV/IV-Ergänzungsleistungen, die von der Kantonalen Sozialversicherungsanstalt zur Verfügung gestellt werden.
+<sup>4</sup> Die Kosten zulasten der Gemeinden werden im Verhältnis zu ihrer zivilrechtlichen Bevölkerungszahl aufgeteilt.
 
-<sup>2</sup> Die Dienststellen und Anstalten, welche die für die Erarbeitung des Berichts notwendigen Daten verarbeiten, übermitteln diese von Amtes wegen einmal pro Legislaturperiode an das für die Statistik zuständige Amt[^34d-1].
+## 14 Rechtsmittel und Strafbestimmungen
 
-<sup>3</sup> Das für die Statistik zuständige Amt ist berechtigt, zur Erfüllung seiner Aufgaben in Zusammenhang mit der Erstellung des Berichts die AHV-Nummer zu verwenden. Es führt die erforderlichen Datenabgleiche durch und übermittelt die Ergebnisse in anonymisierter Form an das kantonale Sozialamt.
-
-<sup>4</sup> Das für die Statistik zuständige Amt bewahrt die Daten, die für die Erstellung des Berichts notwendig sind, während 15 Jahren in nicht anonymisierter Form auf, damit eine Längsschnittanalyse der Lebensverläufe über drei Legislaturperioden gemacht werden kann. Diese Daten dürfen ausschliesslich für die Erstellung des Berichts verwendet werden und müssen nach Ablauf der Aufbewahrungsfrist vernichtet werden.
-
-<sup>5</sup> Der Staatsrat legt fest, welche Daten übermittelt, wie sie übermittelt und wie lange sie aufbewahrt werden müssen und schreibt vor, welche Sicherheitsmassnahmen zu ergreifen sind, damit die Vertraulichkeit und der Schutz der verarbeiteten Daten gewährleistet werden.
-
-[^34d-1]: Heute: Amt für Statistik und Daten.
-
-## 5 Rechtsmittel und Strafbestimmungen
-
-#### Art. 35
+#### Art. 82
 
 **Einsprache**
 
-<sup>1</sup> Gegen die Entscheide im Zusammenhang mit der Sozialhilfe kann innert dreissig Tagen seit der Zustellung des Entscheids bei der verfügenden Behörde schriftlich Einsprache erhoben werden.
+<sup>1</sup> Gegen jeden Sozialhilfeentscheid kann innert dreissig Tagen ab seiner Eröffnung bei der verfügenden Behörde schriftlich Einsprache erhoben werden.
 
-<sup>2</sup> Die Einsprache muss eine kurze Begründung und die Rechtsbegehren enthalten.
+<sup>2</sup> Die Einsprache muss eine kurze Begründung und die Rechtsbegehren der einsprechenden Person enthalten.
 
-#### Art. 36
+#### Art. 83
 
 **Beschwerde**
 
-<sup>1</sup> Einspracheentscheide können beim Kantonsgericht mit Beschwerde angefochten werden.
+<sup>1</sup> Einspracheentscheide können innert dreissig Tagen ab ihrer Eröffnung beim Kantonsgericht mit Beschwerde angefochten werden.
 
-#### Art. 37
+#### Art. 84
 
-**Einsprache- und Beschwerdeberechtigung**
+**Beschwerdebefugnis**
 
-<sup>1</sup> Einsprache- und beschwerdeberechtigt sind:
+<sup>1</sup> Die Beschwerdebefugnis wird im VRG geregelt.
 
-- a) die um Sozialhilfe nachsuchende Person;
-- b) die als Sozialhilfe-Wohnsitz geltende Gemeinde und das Kantonale Sozialamt gegen die Entscheide der Sozialkommissionen;
-- c) …
+<sup>2</sup> Zur Beschwerde sind insbesondere berechtigt:
 
-#### Art. 37a
+- a) die Wohnsitz- oder Aufenthaltsgemeinde;
+- b) das Amt bei Fällen, die unter das Bundesrecht fallen;
+- c) der Gemeindeverband oder die Gemeinde im Sinne von Artikel 39 Abs. 2, über die Sozialkommission, gegen Entscheide der Oberamtsperson in einem Zuständigkeitskonflikt.
+
+#### Art. 85
 
 **Strafbestimmungen**
 
-<sup>1</sup> Wer materielle Hilfe zu Unrecht, insbesondere aufgrund falscher oder unvollständiger Angaben, bezieht oder diese zu Zwecken einsetzt, die nicht diesem Gesetz entsprechen, kann mit Busse bestraft werden. Ebenfalls mit Busse wird bestraft, wer Vorschüsse der Sozialhilfe, die als Vorschuss auf Leistungen von Versicherungen oder Dritter geleistet werden, nicht zurückerstattet.
+<sup>1</sup> Auf Klage wird mit einer Busse bestraft, wer:
 
-<sup>2</sup> Für die Anzeige eines Sozialhilfemissbrauchs bei den Strafverfolgungsbehörden sind die Sozialkommission, der regionale Sozialdienst und das Amt zuständig.
+- a) eine Sozialhilfeleistung zu Zwecken einsetzt, die nicht diesem Gesetz entsprechen;
+- b) materielle Hilfe, die als Vorschuss auf Leistungen einer Versicherung oder Dritter oder auf ausstehende Mittel ausbezahlt wurde, durch eigenes Verschulden nicht zurückerstattet.
 
-<sup>3</sup> Verfolgung und Beurteilung der strafbaren Handlungen richten sich nach dem Justizgesetz.
+<sup>2</sup> In Strafverfahren wegen Verletzung von Artikel 146 oder 148a StGB oder dieses Artikels können die Rechte einer Privatklägerschaft wahrnehmen:
 
-## 6 Schluss- und Übergangsbestimmungen
+- a) die Sozialhilfebehörde;
+- b) der regionale Sozialdienst;
+- c) das Amt.
 
-#### Art. 38
+IV.
 
-**Aufhebung bisherigen Rechts**
+Übergangsbestimmungen
 
-<sup>1</sup> Es werden aufgehoben:
+Die Gemeinden verfügen über eine Frist von zwei Jahren nach Inkrafttreten dieses Gesetzes, um sich zu Gemeindeverbänden im Sinne von Artikel 45 Abs. 2 zusammenzuschliessen und dem Staatsrat die Statuten ihrer Verbände zur Genehmigung zu unterbreiten.
 
-- a) das Gesetz vom 17. Juli 1951 über die Armenfürsorge;
-- b) der Beschluss vom 12. Dezember 1942 betreffend die Beherbergung von unbemittelten Passanten.
-
-#### Art. 39
-
-**Änderung**
-
-<sup>1</sup> Das Einführungsgesetz vom 22. November 1911 zum Schweizerischen Zivilgesetzbuch für den Kanton Freiburg wird wie folgt geändert:
-
-...
-
-#### Art. 40
-
-**…**
-
-#### Art. 41
-
-**…**
-
-#### Art. 42
-
-**…**
-
-#### Art. 42a
-
-**…**
-
-#### Art. 43
-
-**Vollzug und Inkrafttreten**
-
-<sup>1</sup> Der Staatsrat wird mit dem Vollzug dieses Gesetzes beauftragt. Er bestimmt den Zeitpunkt des Inkrafttretens.[^43-1]
-
-<sup>2</sup> Innerhalb von zwei Jahren nach der Promulgierung dieses Gesetzes müssen die Gemeinden alle für die Durchführung dieses Gesetzes erforderlichen Massnahmen treffen. Kommen die Gemeinden dieser Verpflichtung nicht nach, so bildet der Staatsrat die Sozialdienste und die Sozialkommissionen auf Kosten der Gemeinden.
-
-[^43-1]: Datum des Inkrafttretens: 1. Juli 1994, mit Ausnahme des Artikels 43 Abs. 2, der schon am 7. April 1992 in Kraft getreten ist (StRB 07.04.1992).
-
-**Genehmigung**
-
-Die Änderung vom 08.09.2011 ist vom Eidgenössischen Justiz- und Polizeidepartement am 21.12.2011 genehmigt worden.
-
-BL/AGS 1991 f 657 / d 671
+2024\_074
