@@ -3,18 +3,18 @@ sr: "412.101.221.07"
 title: Ordinanza della SEFRI del 15 marzo 2018 sulla formazione professionale di base Assistente di studio medico con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/263"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2018-03-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/263/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2018-263-20240401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/263/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/263/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2018-263-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/263/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Assistente di studio medico con attestato federale di capacità (AFC)
 
-del 15 marzo 2018 (Stato 1° aprile 2024)
+del 15 marzo 2018 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>86915</td><td>Assistente di studio medico AFC Medizinische Praxisassistentin EFZ / Medizinischer Praxisassistent EFZ Assistante médicale CFC / Assistant médical CFC</td></tr>
@@ -26,10 +26,10 @@ visto l’articolo 19 della legge federale del 13 dicembre 2002[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto e durata
 
@@ -134,7 +134,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -166,13 +166,14 @@ La formazione professionale pratica in azienda comprende in media 3½ giornate a
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^7-2].
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -227,8 +228,8 @@ Il piano di formazione:
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
 [^9-1]: Il piano del 15 marzo 2018 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
-[^9-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^9-3]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^9-2]: [RS 814.501](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9534)
+[^9-3]: [RS 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -361,12 +362,13 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>5</td><td>Svolgimento di processi terapeutici</td><td>30 min.</td><td>15 %</td></tr>
 </table>
 
-- c. «cultura generale». A questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^18-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». A questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^18-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^18-3].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 21 mag. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1655](https://fedlex.data.admin.ch/eli/oc/2019/321)).
-[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 21 mag. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1655](https://fedlex.data.admin.ch/eli/oc/2019/321)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 19
 
@@ -490,7 +492,7 @@ Essa svolge in particolare i seguenti compiti:
 
 L’ordinanza della SEFRI dell’8 luglio 2009[^25-1] sulla formazione professionale di base assistente di studio medico con attestato federale di capacità (AFC) è abrogata.
 
-[^25-1]: [[RU 2009 4545](https://fedlex.data.admin.ch/eli/oc/2009/535), [2012 4577](https://fedlex.data.admin.ch/eli/oc/2012/553), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)]
+[^25-1]: [[RU 2009 4545](https://fedlex.data.admin.ch/eli/oc/2009/535); [2012 4577](https://fedlex.data.admin.ch/eli/oc/2012/553); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)]
 
 #### Art. 26
 
@@ -505,7 +507,7 @@ L’ordinanza della SEFRI dell’8 luglio 2009[^25-1] sulla formazione professio
 <sup>4</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 16–22) si applicano dal 1° gennaio 2022.
 
 [^26-1]: FF **1995** III 314
-[^26-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 21 mag. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1655](https://fedlex.data.admin.ch/eli/oc/2019/321)).
+[^26-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 21 mag. 2019, in vigore dal 1° lug. 2019 ([RU 2019 1655](https://fedlex.data.admin.ch/eli/oc/2019/321)).
 
 #### Art. 27
 
