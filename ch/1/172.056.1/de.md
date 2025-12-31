@@ -4,11 +4,11 @@ title: Bundesgesetz vom 21. Juni 2019 über das öffentliche Beschaffungswesen (
 short: BöB
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: de
-version: 2025-04-01
+version: 2026-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-126-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/de"
 
 (BöB)
 
-vom 21. Juni 2019 (Stand am 1. April 2025)
+vom 21. Juni 2019 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,10 +25,10 @@ gestützt auf Artikel 173 Absatz 2 der Bundesverfassung[^ingress-1], in Ausführ
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2017 2175](https://fedlex.data.admin.ch/eli/fga/2017/421)
-[^ingress-3]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^ingress-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^ingress-3]: [SR 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^ingress-4]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^ingress-5]: [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)
 
 ## 1. Kapitel: Gegenstand, Zweck und Begriffe
@@ -62,8 +62,8 @@ In diesem Gesetz bedeuten:
 - d. *Arbeitsbedingungen:* zwingende Vorschriften des Obligationenrechts[^3-1] über den Arbeitsvertrag, normative Bestimmungen der Gesamtarbeitsverträge und der Normalarbeitsverträge oder, wo diese fehlen, die orts- und branchenüblichen Arbeitsbedingungen;
 - e. *Arbeitsschutzbestimmungen:* Vorschriften des öffentlichen Arbeitsrechts, einschliesslich der Bestimmungen des Arbeitsgesetzes vom 13. März 1964[^3-2] und des zugehörigen Ausführungsrechts sowie der Bestimmungen zur Unfallverhütung.
 
-[^3-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-2]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^3-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-2]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## 2. Kapitel: Geltungsbereich
 
@@ -99,8 +99,8 @@ Diesem Gesetz unterstehen als Auftraggeberinnen:
 
 <sup>4</sup> Führt eine Drittperson die Vergabe eines öffentlichen Auftrags für eine oder mehrere Auftraggeberinnen durch, so untersteht diese Drittperson diesem Gesetz wie die von ihr vertretene Auftraggeberin.
 
-[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^4-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^4-2]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 5
 
@@ -209,7 +209,7 @@ Dieses Gesetz findet sodann keine Anwendung auf öffentliche Aufträge:
 - b. soweit dies erforderlich ist zum Schutz der Gesundheit oder des Lebens von Menschen oder zum Schutz der Tier- und Pflanzenwelt;
 - c. soweit deren Ausschreibung Rechte des geistigen Eigentums verletzen würde.
 
-[^10-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^10-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## 3. Kapitel: Allgemeine Grundsätze
 
@@ -241,7 +241,7 @@ Bei der Vergabe öffentlicher Aufträge beachtet die Auftraggeberin folgende Ver
 
 <sup>6</sup> Die mit der Einhaltung der Anforderungen nach den Absätzen 1–3 befassten Behörden und Kontrollorgane erstatten der Auftraggeberin Bericht über die Ergebnisse der Kontrollen und über allfällige getroffene Massnahmen.
 
-[^12-1]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^12-1]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 
 #### Art. 13
 
@@ -754,9 +754,9 @@ Die Auftraggeberin kann überdies Massnahmen nach Absatz 1 treffen, wenn hinreic
 - h. Sie verstossen gegen das Bundesgesetz vom 19. Dezember 1986[^44-4] gegen den unlauteren Wettbewerb.
 
 [^44-1]: Eingefügt durch Ziff. II 1 des BG vom 29. Sept. 2023 (Einführung einer Meldepflicht für Cyberangriffe auf kritische Infrastrukturen), in Kraft seit 1. April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^44-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^44-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-4]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^44-3]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
+[^44-4]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 45
 
@@ -980,7 +980,7 @@ Durch Beschwerde anfechtbar sind ausschliesslich die folgenden Verfügungen:
 
 Das Verfügungs- und das Beschwerdeverfahren richten sich nach den Bestimmungen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968[^55-1] (VwVG), soweit das vorliegende Gesetz nichts anderes bestimmt.
 
-[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -994,8 +994,8 @@ Das Verfügungs- und das Beschwerdeverfahren richten sich nach den Bestimmungen 
 
 <sup>4</sup> Gegen Zuschläge im freihändigen Verfahren kann nur Beschwerde führen, wer nachweist, dass sie oder er die nachgefragten Leistungen oder damit substituierbare Leistungen erbringen kann und erbringen will. Es kann nur gerügt werden, das freihändige Verfahren sei zu Unrecht angewandt oder der Zuschlag sei aufgrund von Korruption erteilt worden.
 
-[^56-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^56-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^56-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^56-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 57
 
@@ -1192,7 +1192,7 @@ Als Waren im Staatsvertragsbereich gelten:
 <tr><td>69. Kunstgegenstände, Sammlungsstücke und Antiquitäten</td><td>Kapitel 97</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl12-1]: Internationales Übereinkommen vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren ([SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686))
+[^annex2-lvlu1-lvl1-lvl12-1]: Internationales Übereinkommen vom 14. Juni 1983 über das Harmonisierte System zur Bezeichnung und Codierung der Waren ([SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229))
 
 ### 2 Lieferungen (Waren) ausserhalb des Staatsvertragsbereichs
 
@@ -1251,8 +1251,8 @@ Anhang 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
-[^annex4-lvlu1-1]: Die Schwellenwerte in Schweizerfranken gelten für die Jahre 2024 und 2025.
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 672](https://fedlex.data.admin.ch/eli/oc/2025/672)).
+[^annex4-lvlu1-1]: Die Schwellenwerte in Schweizerfranken gelten für die Jahre 2026 und 2027.
 
 ### 1 Schwellenwerte für Beschaffungen im Staatsvertragsbereich
 
@@ -1331,14 +1331,14 @@ Als Kernübereinkommen der ILO im Sinne von Artikel 12 Absatz 2 gelten die folge
 - 7\. Übereinkommen Nr. 138 vom 26. Juni 1973[^annex6-lvlu1-7] über das Mindestalter für die Zulassung zur Beschäftigung;
 - 8\. Übereinkommen Nr. 182 vom 17. Juni 1999[^annex6-lvlu1-8] über das Verbot und unverzügliche Massnahmen zur Beseitigung der schlimmsten Formen der Kinderarbeit.
 
-[^annex6-lvlu1-1]: [SR 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^annex6-lvlu1-2]: [SR 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^annex6-lvlu1-3]: [SR 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^annex6-lvlu1-4]: [SR 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^annex6-lvlu1-5]: [SR 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^annex6-lvlu1-6]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^annex6-lvlu1-7]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^annex6-lvlu1-8]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^annex6-lvlu1-1]: [SR 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^annex6-lvlu1-2]: [SR 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^annex6-lvlu1-3]: [SR 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^annex6-lvlu1-4]: [SR 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^annex6-lvlu1-5]: [SR 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^annex6-lvlu1-6]: [SR 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^annex6-lvlu1-7]: [SR 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
+[^annex6-lvlu1-8]: [SR 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 
 Anhang 7
 

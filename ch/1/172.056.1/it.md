@@ -4,11 +4,11 @@ title: Legge federale del 21 giugno 2019 sugli appalti pubblici (LAPub)
 short: LAPub
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: it
-version: 2025-04-01
+version: 2026-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-126-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/it"
 
 (LAPub)
 
-del 21 giugno 2019 (Stato 1° aprile 2025)
+del 21 giugno 2019 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,10 +25,10 @@ visto l’articolo 173 capoverso 2 della Costituzione federale[^ingress-1]; in e
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 1901](https://fedlex.data.admin.ch/eli/fga/2017/421)
-[^ingress-3]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^ingress-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^ingress-3]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^ingress-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^ingress-5]: [FF 2017 1587](https://fedlex.data.admin.ch/eli/fga/2017/417)
 
 ## Capitolo 1: Oggetto, scopo e definizioni
@@ -62,8 +62,8 @@ Nella presente legge si intende per:
 - d. *condizioni di lavoro:* le disposizioni imperative del Codice delle obbligazioni[^3-1] relative al contratto di lavoro, le disposizioni normative dei contratti collettivi di lavoro e dei contratti normali di lavoro oppure, in loro assenza, le condizioni di lavoro usuali per il luogo e il settore;
 - e. *disposizioni in materia di tutela dei lavoratori:* le disposizioni del diritto pubblico del lavoro, comprese le disposizioni della legge del 13 marzo 1964[^3-2] sul lavoro e del pertinente diritto di esecuzione, nonché le disposizioni in materia di prevenzione degli infortuni.
 
-[^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^3-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-2]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## Capitolo 2: Campo d’applicazione
 
@@ -99,8 +99,8 @@ Le imprese pubbliche e private che forniscono prestazioni di servizi pubbliche e
 
 <sup>4</sup> Il terzo che aggiudica una commessa pubblica per conto di uno o più committenti sottostà alla presente legge come il committente che rappresenta.
 
-[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^4-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^4-2]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 5
 
@@ -209,7 +209,7 @@ La presente legge non si applica se:
 - b. ciò è necessario per la tutela della salute o della vita delle persone o per la protezione della fauna e della flora;
 - c. la messa a concorso delle commesse pubbliche violerebbe diritti della proprietà intellettuale.
 
-[^10-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^10-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Capitolo 3: Principi generali
 
@@ -241,7 +241,7 @@ Nell’aggiudicazione di commesse pubbliche il committente osserva i seguenti pr
 
 <sup>6</sup> Le autorità e gli organi di controllo incaricati di verificare l’osservanza dei requisiti di cui ai capoversi 1–3 presentano al committente un rapporto sui risultati del controllo e sulle eventuali misure adottate.
 
-[^12-1]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^12-1]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 
 #### Art. 13
 
@@ -754,9 +754,9 @@ In presenza di indizi sufficienti, il committente può inoltre adottare i provve
 - h. violano la legge federale del 19 dicembre 1986[^44-4] contro la concorrenza sleale.
 
 [^44-1]: Introdotta dalla cifra II n. 1 della LF del 29 set. 2023 sulla sicurezza (Introduzione dell’obbligo di segnalare ciberattacchi a infrastrutture critiche, in vigore dal 1° apr. 2025 ([FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84); [RU 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168),; [173](https://fedlex.data.admin.ch/eli/oc/2025/173)).
-[^44-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^44-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-4]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^44-3]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
+[^44-4]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 45
 
@@ -980,7 +980,7 @@ Sono impugnabili mediante ricorso esclusivamente le decisioni concernenti:
 
 Sempre che la presente legge non disponga altrimenti, la procedura decisionale e la procedura di ricorso sono rette dalle disposizioni della legge federale del 20 dicembre 1968[^55-1] sulla procedura amministrativa (PA).
 
-[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -994,8 +994,8 @@ Sempre che la presente legge non disponga altrimenti, la procedura decisionale e
 
 <sup>4</sup> Nella procedura per incarico diretto può interporre ricorso soltanto chi prova di poter e di voler fornire le prestazioni richieste o le prestazioni intercambiabili. Si può unicamente censurare che la procedura per incarico diretto è stata applicata a torto o che l’aggiudicazione è avvenuta mediante corruzione.
 
-[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^56-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^56-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 57
 
@@ -1192,7 +1192,7 @@ Si considerano beni che rientrano nell’ambito di applicazione dei trattati int
 <tr><td>69. Oggetti d’arte, da collezione o di antichità</td><td>Cap. 97</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl12-1]: Convenzione internazionale del 14 giugno 1983 sul Sistema armonizzato di designazione e di codificazione delle merci ([RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)).
+[^annex2-lvlu1-lvl1-lvl12-1]: Convenzione internazionale del 14 giugno 1983 sul Sistema armonizzato di designazione e di codificazione delle merci ([RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)).
 
 ### 2 Forniture (beni) che non rientrano nell’ambito di applicazione dei trattati internazionali
 
@@ -1251,8 +1251,8 @@ Allegato 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Aggiornato dalla cifra I delle O del 17 dic. 2021 ([RU 2021 899](https://fedlex.data.admin.ch/eli/oc/2021/899)) e dell’8 dic. 2023, in vigore dal 1° gen. 2024 ([RU 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
-[^annex4-lvlu1-1]: I valori soglia espressi in franchi svizzeri sono applicabili per gli anni 2024 e 2025.
+[^t-1]: Aggiornato della cifre I delle O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 672](https://fedlex.data.admin.ch/eli/oc/2025/672)).
+[^annex4-lvlu1-1]: I valori soglia espressi in franchi svizzeri sono applicabili per gli anni 2026 e 2027.
 
 ### 1 Valori soglia per gli appalti pubblici che rientrano nell’ambito di applicazione dei trattati internazionali
 
@@ -1331,14 +1331,14 @@ Si considerano convenzioni fondamentali dell’OIL ai sensi dell’articolo 12 c
 - 7\. Convenzione n. 138 del 26 giugno 1973[^annex6-lvlu1-7] concernente l’età minima di ammissione all’impiego;
 - 8\. Convenzione n. 182 del 17 giugno 1999[^annex6-lvlu1-8] concernente il divieto delle forme più manifeste di sfruttamento del fanciullo sul lavoro e l’azione immediata volta alla loro abolizione.
 
-[^annex6-lvlu1-1]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^annex6-lvlu1-2]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^annex6-lvlu1-3]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^annex6-lvlu1-4]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^annex6-lvlu1-5]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^annex6-lvlu1-6]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^annex6-lvlu1-7]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^annex6-lvlu1-8]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^annex6-lvlu1-1]: [RS 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^annex6-lvlu1-2]: [RS 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^annex6-lvlu1-3]: [RS 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^annex6-lvlu1-4]: [RS 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^annex6-lvlu1-5]: [RS 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^annex6-lvlu1-6]: [RS 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^annex6-lvlu1-7]: [RS 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
+[^annex6-lvlu1-8]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 
 Allegato 7
 

@@ -4,11 +4,11 @@ title: Federal Act of 21 June 2019 on Public Procurement (PPA)
 short: PPA
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: en
-version: 2025-04-01
+version: 2026-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2020-126-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PPA)
 
-of 21 June 2019 (Status as of 1 April 2025)
+of 21 June 2019 (Status as of 1 January 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,10 +27,10 @@ based on Article 173 paragraph 2 of the Federal Constitution[^ingress-1], in app
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2017 2175](https://fedlex.data.admin.ch/eli/fga/2017/421)
-[^ingress-3]: [SR 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^ingress-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^ingress-3]: [SR 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^ingress-4]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^ingress-5]: [BBl 2017 1851](https://fedlex.data.admin.ch/eli/fga/2017/417)
 
 ## Chapter 1 Subject Matter, Purpose and Definitions
@@ -64,8 +64,8 @@ In this Act:
 - d. *terms and conditions of employment* means the mandatory provisions of the Swiss Code of Obligations[^3-1] concerning the employment contract, normative provisions of collective and standard employment contracts or, in the absence of these, the employment conditions customary in the place of work and in the sector;
 - e. *workplace health and safety regulations* are provisions of public employment law, including the provisions of the Federal Act of 13 March 1964[^3-2] on Employment in Business, Trade and Industry and the related implementing legislation, as well as the provisions on accident prevention.
 
-[^3-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-2]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^3-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-2]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## Chapter 2 Scope of Application
 
@@ -101,8 +101,8 @@ Public and private undertakings that provide public services and that have exclu
 
 <sup>4</sup> If a third party awards a public contract on behalf of one or more contracting authorities, this third party is subject to this Act in the same way as the contracting authority it represents.
 
-[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^4-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^4-2]: [SR 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 5
 
@@ -211,7 +211,7 @@ Furthermore, this Act does not apply to public contracts:
 - b. insofar as this is necessary for the protection of human health or life, or of flora and fauna;
 - c. insofar as tendering would infringe intellectual property rights.
 
-[^10-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^10-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Chapter 3 General Principles
 
@@ -243,7 +243,7 @@ When awarding public contracts, the contracting authority shall observe the foll
 
 <sup>6</sup> The authorities and supervisory bodies responsible for ensuring compliance with the requirements set out in paragraphs 1 to 3 report to the contracting authority on the results of the checks and on any measures taken.
 
-[^12-1]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^12-1]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 
 #### Art. 13
 
@@ -756,9 +756,9 @@ The contracting authority may also take measures in accordance with paragraph 1 
 - h. violated the Federal Act of 19 December 1986[^44-4] on Unfair Competition.
 
 [^44-1]: Inserted by No II 1 of the FA of 29 Sept. 2023 (Introduction of a Reporting Obligation for Cyberattacks on Critical Infrastructure), in force since 1 April 2025 ([AS 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [BBl 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^44-2]: [SR 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^44-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-4]: [SR 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-2]: [SR 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^44-3]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
+[^44-4]: [SR 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 45
 
@@ -982,7 +982,7 @@ Solely the following may be contested by appeal:
 
 Unless otherwise provided for in this Act, the decision-making and appeals procedure is governed by the provisions of the Federal Act of 20 December 1968[^55-1] on Administrative Procedure (APA).
 
-[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -996,8 +996,8 @@ Unless otherwise provided for in this Act, the decision-making and appeals proce
 
 <sup>4</sup> Only those that can prove that they can and wish to provide the goods, work or services requested or equivalent goods, work or services may appeal against awards in the direct award procedure. An appeal may be filed only on the grounds that the direct award procedure was wrongly applied or that the contract was awarded based on corruption.
 
-[^56-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^56-2]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^56-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^56-2]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 57
 
@@ -1194,7 +1194,7 @@ The following are deemed to be goods within the scope of international treaties:
 <tr><td>69. Works of art, collectors' pieces and antiques</td><td>Chapter 97</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl12-1]: International Conv. of 14 June 1983 on the Harmonized Commodity Description and Coding System ([SR 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)).
+[^annex2-lvlu1-lvl1-lvl12-1]: International Conv. of 14 June 1983 on the Harmonized Commodity Description and Coding System ([SR 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)).
 
 ### 2 Supplies of goods outside the scope of international treaties
 
@@ -1253,8 +1253,8 @@ Annex 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Revised by No I of the O of 8 Dec. 2023, in force since 1 Jan. 2024 ([AS 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
-[^annex4-lvlu1-1]: The threshold values in Swiss francs apply for the years 2024 and 2025.
+[^t-1]: Revised by No I of the O of 29 Oct. 2025, in force since 1 Jan. 2026 ([AS 2025 672](https://fedlex.data.admin.ch/eli/oc/2025/672)).
+[^annex4-lvlu1-1]: The threshold values in Swiss francs apply for the years 2026 and 2027.
 
 ### 1 Thresholds for procurements within the scope of international treaties
 
@@ -1333,14 +1333,14 @@ The following conventions are deemed to be ILO core conventions for the purposes
 - 7\. Convention No. 138 of 26 June 1973[^annex6-lvlu1-7] concerning the Minimum Age for Admission to Employment
 - 8\. Convention No. 182 of 17 June 1999[^annex6-lvlu1-8] concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour
 
-[^annex6-lvlu1-1]: [SR 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^annex6-lvlu1-2]: [SR 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^annex6-lvlu1-3]: [SR 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^annex6-lvlu1-4]: [SR 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^annex6-lvlu1-5]: [SR 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^annex6-lvlu1-6]: [SR 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^annex6-lvlu1-7]: [SR 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^annex6-lvlu1-8]: [SR 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^annex6-lvlu1-1]: [SR 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^annex6-lvlu1-2]: [SR 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^annex6-lvlu1-3]: [SR 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^annex6-lvlu1-4]: [SR 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^annex6-lvlu1-5]: [SR 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^annex6-lvlu1-6]: [SR 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^annex6-lvlu1-7]: [SR 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
+[^annex6-lvlu1-8]: [SR 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 
 Annex 7
 

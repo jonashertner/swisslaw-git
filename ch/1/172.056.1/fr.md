@@ -4,11 +4,11 @@ title: Loi fédérale du 21 juin 2019 sur les marchés publics (LMP)
 short: LMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/126"
 language: fr
-version: 2025-04-01
+version: 2026-01-01
 adopted: 2019-06-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20250401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20250401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/126/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-126-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/126/20250401/fr"
 
 (LMP)
 
-du 21 juin 2019 (État le 1<sup>er</sup> avril 2025)
+du 21 juin 2019 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,10 +25,10 @@ vu l’art. 173, al. 2, de la Constitution[^ingress-1], en exécution du Protoco
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2017 2013](https://fedlex.data.admin.ch/eli/fga/2017/421)
-[^ingress-3]: [RS 0.172.052.68](https://fedlex.data.admin.ch/eli/cc/2002/296)
-[^ingress-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^ingress-3]: [RS 0.172.052.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/481)
+[^ingress-4]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^ingress-5]: [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)
 
 ## Chapitre 1 Objet, but et définitions
@@ -62,8 +62,8 @@ Au sens de la présente loi, on entend par:
 - d. *conditions de travail:* les dispositions impératives du code des obligations[^3-1] concernant le contrat de travail, les dispositions normatives contenues dans les conventions collectives et les contrats-types de travail ou, à défaut, les conditions de travail usuelles dans la région et dans la branche;
 - e. *dispositions relatives à la protection des travailleurs:* les dispositions du droit public du travail, y compris les dispositions de la loi du 13 mars 1964 sur le travail[^3-2], les dispositions d’exécution y afférentes et les dispositions relatives à la prévention des accidents.
 
-[^3-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^3-2]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
+[^3-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-2]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
 
 ## Chapitre 2 Champ d’application
 
@@ -99,8 +99,8 @@ Les entreprises publiques ou privées qui assurent un service public et qui bén
 
 <sup>4</sup> Si un tiers passe un marché public pour le compte d’un ou de plusieurs adjudicateurs, il est soumis à la présente loi au même titre que les adjudicateurs qu’il représente.
 
-[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^4-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^4-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^4-2]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 5
 
@@ -209,7 +209,7 @@ Ne sont pas non plus soumis à la présente loi les marchés publics:
 - b. dont l’exemption est jugée nécessaire pour la protection de la santé ou de la vie des personnes ou pour la protection de la faune et de la flore;
 - c. pour lesquels le lancement d’un appel d’offres porterait atteinte aux droits de la propriété intellectuelle.
 
-[^10-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^10-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Chapitre 3 Principes généraux
 
@@ -241,7 +241,7 @@ Lors de la passation des marchés publics, l’adjudicateur observe les principe
 
 <sup>6</sup> L’organe de contrôle ou l’autorité chargés de contrôler le respect des exigences définies aux al. 1 à 3 informent l’adjudicateur des résultats de leurs contrôles et des éventuelles mesures prises.
 
-[^12-1]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^12-1]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 
 #### Art. 13
 
@@ -754,9 +754,9 @@ L’adjudicateur peut également prendre les mesures mentionnées à l’al. 1 l
 - h. viole la loi fédérale du 19 décembre 1986 contre la concurrence déloyale[^44-4].
 
 [^44-1]: Introduite par le ch. II 1 de la LF du 29 sept. 2023 (Mise en place d’une obligation de signaler les cyberattaques contre les infrastructures critiques), en vigueur depuis le 1<sup>er</sup> avr. 2025 ([RO 2024 257](https://fedlex.data.admin.ch/eli/oc/2024/257); [2025 168](https://fedlex.data.admin.ch/eli/oc/2025/168), [173](https://fedlex.data.admin.ch/eli/oc/2025/173); [FF 2023 84](https://fedlex.data.admin.ch/eli/fga/2023/84)).
-[^44-2]: [RS 128](https://fedlex.data.admin.ch/eli/cc/2022/232)
-[^44-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
-[^44-4]: [RS 241](https://fedlex.data.admin.ch/eli/cc/1988/223_223_223)
+[^44-2]: [RS 128](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40013)
+[^44-3]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
+[^44-4]: [RS 241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6122)
 
 #### Art. 45
 
@@ -980,7 +980,7 @@ Seules les décisions suivantes sont sujettes à recours:
 
 Sauf disposition contraire de la présente loi, les procédures de décision et de recours sont régies par les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA)[^55-1].
 
-[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^55-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 56
 
@@ -994,8 +994,8 @@ Sauf disposition contraire de la présente loi, les procédures de décision et 
 
 <sup>4</sup> Seules les personnes qui prouvent qu’elles peuvent et veulent fournir les prestations demandées ou des prestations équivalentes peuvent faire recours contre les adjudications de gré à gré. Ne peuvent être invoqués que l’application indue de la procédure de gré à gré et le grief selon lequel l’adjudication est entachée de corruption.
 
-[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^56-2]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^56-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^56-2]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 
 #### Art. 57
 
@@ -1189,7 +1189,7 @@ Sont considérées comme des marchandises soumises aux accords internationaux:
 <tr><td>69. Objets d’art, de collection ou d’antiquité</td><td>chap. 97</td></tr>
 </table>
 
-[^annex2-lvlu1-lvl1-lvl12-1]: Convention internationale du 14 juin 1983 sur le Système harmonisé de désignation et de codification des marchandises ([RS 0.632.11](https://fedlex.data.admin.ch/eli/cc/1987/2686_2686_2686)**)**
+[^annex2-lvlu1-lvl1-lvl12-1]: Convention internationale du 14 juin 1983 sur le Système harmonisé de désignation et de codification des marchandises ([RS 0.632.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2229)**)**
 
 ### 2 Fournitures (marchandises) non soumises aux accords internationaux
 
@@ -1248,8 +1248,8 @@ Annexe 4[^t-1]
 
 [^annex4-lvlu1-1]
 
-[^t-1]: Mise à jour par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 786](https://fedlex.data.admin.ch/eli/oc/2023/786)).
-[^annex4-lvlu1-1]: Les valeurs seuils en francs suisses sont valables pour les années 2024 et 2025.
+[^t-1]: Mise à jour par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 672](https://fedlex.data.admin.ch/eli/oc/2025/672)).
+[^annex4-lvlu1-1]: Les valeurs seuils en francs suisses sont valables pour les années 2026 et 2027.
 
 ### 1 Valeurs seuils applicables aux marchés soumis aux accords internationaux
 
@@ -1328,14 +1328,14 @@ Par conventions fondamentales de l’OIT au sens de l’art. 12, al. 2, on enten
 - 7\. Convention n<sup>o</sup> 138 du 26 juin 1973 concernant l’âge minimum d’admission à l’emploi[^annex6-lvlu1-7];
 - 8\. Convention n<sup>o</sup> 182 du 17 juin 1999 concernant l’interdiction des pires formes de travail des enfants et l’action immédiate en vue de leur élimination[^annex6-lvlu1-8].
 
-[^annex6-lvlu1-1]: [RS 0.822.713.9](https://fedlex.data.admin.ch/eli/cc/56/956_1002_1260)
-[^annex6-lvlu1-2]: [RS 0.822.719.7](https://fedlex.data.admin.ch/eli/cc/1976/689_689_689)
-[^annex6-lvlu1-3]: [RS 0.822.719.9](https://fedlex.data.admin.ch/eli/cc/2001/188)
-[^annex6-lvlu1-4]: [RS 0.822.720.0](https://fedlex.data.admin.ch/eli/cc/1973/1602_1602_1602)
-[^annex6-lvlu1-5]: [RS 0.822.720.5](https://fedlex.data.admin.ch/eli/cc/1958/485_507_507)
-[^annex6-lvlu1-6]: [RS 0.822.721.1](https://fedlex.data.admin.ch/eli/cc/1961/810_824_840)
-[^annex6-lvlu1-7]: [RS 0.822.723.8](https://fedlex.data.admin.ch/eli/cc/2001/204)
-[^annex6-lvlu1-8]: [RS 0.822.728.2](https://fedlex.data.admin.ch/eli/cc/2003/168)
+[^annex6-lvlu1-1]: [RS 0.822.713.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3613)
+[^annex6-lvlu1-2]: [RS 0.822.719.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3622)
+[^annex6-lvlu1-3]: [RS 0.822.719.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3624)
+[^annex6-lvlu1-4]: [RS 0.822.720.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3625)
+[^annex6-lvlu1-5]: [RS 0.822.720.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3627)
+[^annex6-lvlu1-6]: [RS 0.822.721.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3628)
+[^annex6-lvlu1-7]: [RS 0.822.723.8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3638)
+[^annex6-lvlu1-8]: [RS 0.822.728.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3657)
 
 Annexe 7
 
@@ -1353,5 +1353,5 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 …[^annex7-lvlu1-2]
 
-[^annex7-lvlu1-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1]
+[^annex7-lvlu1-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1]
 [^annex7-lvlu1-2]: Les mod. peuvent être consultées au [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126).
