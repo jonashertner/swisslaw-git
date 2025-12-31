@@ -4,13 +4,12 @@ number: "188.23"
 title: Gesetz der Katholischen Synode über die katholischen Kirchgemeinden des Kantons Thurgau
 short: KGG
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-11-26
+version: 2026-01-01
+version_adopted: 2025-12-05
 adopted: 2020-11-26
 in_force: 2022-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/188.23"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2437/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2988/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ KGG
 
 (KGG)
 
-vom 26.11.2020 (Stand 01.01.2022)
+vom 26.11.2020 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -98,7 +97,7 @@ vom 26.11.2020 (Stand 01.01.2022)
 
 <sup>5</sup> Ist die Leitung der Pfarrei zugleich für Pfarreien zuständig, die zu anderen Kirchgemeinden gehören, verbinden sich die betreffenden Kirchgemeinden zu einem Pfarrwahlkreis. Die Leitung gilt in allen Kirchgemeinden als gewählt, wenn sie sowohl das absolute Mehr im Pfarrwahlkreis als auch das Mehr der Kirchgemeinden erreicht; andernfalls gilt sie von keiner der Kirchgemeinden als gewählt.
 
-<sup>6</sup> Vom Volk gewählte Leitungen der Pfarreien unterliegen der Wohnsitzpflicht im Pfarrwahlkreis.
+<sup>6</sup> Vom Volk gewählte Leitungen der Pfarreien unterliegen der Wohnsitzpflicht im Amtsgebiet. Als Amtsgebiet gilt der Kanton Thurgau sowie Pfarreien, die pastoral mit einer thurgauischen Pfarrei zusammenarbeiten.
 
 <sup>7</sup> Wahlverfahren in Konstellationen, die in den vorhergehenden Absätzen nicht vorgesehen sind, regelt der Kirchenrat.
 
@@ -274,7 +273,13 @@ vom 26.11.2020 (Stand 01.01.2022)
 
 <sup>1</sup> Liegenschaften des Verwaltungsvermögens sind angemessen zu unterhalten. Für liturgisch relevante Veränderungen im Innern von Sakralräumen ist die Genehmigung des Bischofs einzuholen.
 
-<sup>2</sup> Das von der Kirchgemeinde zu verwaltende Finanzvermögen ist sicher anzulegen. Die langfristige Spezialfinanzierungsrechnung einer Liegenschaft im Finanzvermögen muss unter Einbezug der Annuität mindestens ausgeglichen sein; vorbehalten bleibt ihre Bezuschussung im Fall, dass ein übergeordnetes Interesse der Veräusserung entgegensteht, wie der Erhalt eines historischen Gebäudeensembles im Umfeld einer Kirche.
+<sup>2</sup> Das von der Kirchgemeinde zu verwaltende Finanzvermögen ist sicher anzulegen.
+
+<sup>2<sup>bis</sup></sup> Für die Verwaltung von Liegenschaften im Finanzvermögen gelten folgende Grundsätze:
+
+- 1\. langfristige Planung
+- 2\. Erzielung einer angemessenen Rendite
+- 3\. Berücksichtigung übergeordneter Interessen wie den Erhalt historischer Gebäudeensembles
 
 <sup>3</sup> Kult- und Kunstgegenstände sind sicher und sachgerecht aufzubewahren und zu pflegen.
 
