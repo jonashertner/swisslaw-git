@@ -4,7 +4,7 @@ number: "642.11.9.1"
 title: RÈGLEMENT du 11.12.2000 sur la détermination de la valeur locative (RVLoc)
 short: RVLoc
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/642.11.9.1?id=f2eaf9fe-0dbc-421a-bbe6-124b9b291643"
 ---
 
@@ -93,6 +93,7 @@ arrête
 - - 24% (indice 124) pour la période fiscale 2023.
 - - 27% (indice 127) pour la période fiscale 2024.
 - - 30% (indice 130) pour la période fiscale 2025.
+- - 32% (indice 132) pour la période fiscale 2026.
 
 <sup>3</sup> …
 
@@ -112,6 +113,6 @@ Annexes [^6-1]
 
 1
 
-[Tableau 3a Coefficient communal](https://prestations.vd.ch/pub/blv-publication/api/actes/f2eaf9fe-0dbc-421a-bbe6-124b9b291643/annexes/1?dmev=01.01.2025)
+[Tableau 3a Coefficient communal](https://prestations.vd.ch/pub/blv-publication/api/actes/f2eaf9fe-0dbc-421a-bbe6-124b9b291643/annexes/1?dmev=01.01.2026)
 
 [^6-1]: Modif. 11 du 09.05.2012: Modification Annexes, Ann. 1; entrée en vigueur au 01.05.2012 · Modif. 16 du 14.12.2016: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2017 · Modif. 19 du 27.11.2019: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2020 · Modif. 20 du 02.12.2020: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2021 · Modif. 21 du 08.12.2021: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2022
