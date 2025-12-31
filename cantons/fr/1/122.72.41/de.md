@@ -3,13 +3,12 @@ canton: FR
 number: "122.72.41"
 title: Verordnung über die Anerkennungsprämien für das Staatspersonal
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-12
+version: 2026-01-01
+version_adopted: 2025-09-01
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.72.41"
-pdf: "https://bdlf.fr.ch/api/de/versions/7673/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8302/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7673/pdf_file"
 
 Staatspersonal, Anerkennungsprämien – V
 
-vom 12.12.2022 (Fassung in Kraft getreten am 01.01.2023)
+vom 12.12.2022 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +37,9 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung gilt für das gesamte Personal, das dem StPG unterstellt ist, sowie für die Praktikantinnen und Praktikanten und für die Lernenden.
+<sup>1</sup> Diese Verordnung gilt für das gesamte Personal, das dem StPG[^1-1] unterstellt ist, sowie für die Praktikantinnen und Praktikanten und für die Lernenden.
+
+[^1-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 2
 
@@ -115,5 +116,11 @@ beschliesst:
 **Übergangsrecht**
 
 <sup>1</sup> Beim Inkraftrteten dieser Verordnung, kann die Prämienzahlung einige Monate später erfolgen.
+
+#### Art. 10
+
+**Massnahmen zur Sanierung der Kantonsfinanzen 2026-2028**
+
+<sup>1</sup> In den Jahren 2026, 2027 und 2028 setzt der Staatsrat keinen Betrag für die Prämienzahlung fest. Jegliche Prämienzahlung wird sistiert.
 
 2022\_133

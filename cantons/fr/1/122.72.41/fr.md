@@ -3,13 +3,12 @@ canton: FR
 number: "122.72.41"
 title: "Ordonnance sur les primes de reconnaissance pour le personnel de l'Etat"
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-12
+version: 2026-01-01
+version_adopted: 2025-09-01
 adopted: 2022-12-12
 in_force: 2023-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.41"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7673/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8302/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7673/pdf_file"
 
 Personnel de l'Etat, primes de reconnaissance – O
 
-du 12.12.2022 (version entrée en vigueur le 01.01.2023)
+du 12.12.2022 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -38,7 +37,9 @@ Arrête:
 
 **Champ d'application**
 
-<sup>1</sup> La présente ordonnance s'applique à l'ensemble du personnel de l'Etat soumis à la LPers ainsi qu'aux stagiaires et apprenti-e-s.
+<sup>1</sup> La présente ordonnance s'applique à l'ensemble du personnel de l'Etat soumis à la LPers[^1-1] ainsi qu'aux stagiaires et apprenti-e-s.
+
+[^1-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 #### Art. 2
 
@@ -115,5 +116,11 @@ Arrête:
 **Droit transitoire**
 
 <sup>1</sup> Lors de l'entrée en vigueur de la présente ordonnance, le versement des primes peut être reporté de quelques mois.
+
+#### Art. 10
+
+**Mesures d'assainissement des finances de l'Etat 2026-2028**
+
+<sup>1</sup> Durant les années 2026, 2027 et 2028, le Conseil d'Etat ne fixe aucun montant destiné au versement des primes. Tout versement de prime est suspendu.
 
 2022\_133
