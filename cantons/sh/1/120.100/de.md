@@ -3,20 +3,19 @@ canton: SH
 number: "120.100"
 title: Gemeindegesetz
 language: de
-version: 2025-11-01
-valid_until: 2025-12-31
-version_adopted: 2025-05-19
+version: 2026-01-01
+version_adopted: 2025-09-08
 adopted: 1998-08-17
 in_force: 2000-02-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/120.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2028/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2055/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gemeindegesetz
 
-Vom 17.08.1998 (Stand 01.11.2025)
+Vom 17.08.1998 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Schaffhausen,
 
@@ -817,6 +816,8 @@ beschliesst:
 <sup>1</sup> Für einzelne Gemeindebetriebe wird eine besondere Betriebsrechnung geführt, wenn die Gemeinde durch übergeordnetes Recht dazu verpflichtet ist oder wenn sie es für die Überprüfung der Wirtschaftlichkeit als notwendig erachtet.
 
 <sup>2</sup> Die Betriebsrechnung wird beim Jahresabschluss in die allgemeine Gemeinderechnung einbezogen. Betriebsgewinne und ‑verluste können auf Spezialfinanzierungskonten vorgetragen werden. Sie dürfen eine für die Bedürfnisse des Betriebes angemessene Höhe nicht übersteigen. Dasselbe gilt auch für Aufgaben, die aufgrund des übergeordneten Rechts oder eines allgemein verbindlichen Gemeindereglements vollständig durch Abgaben finanziert werden und für die keine separate Betriebsrechnung geführt wird.
+
+<sup>2<sup>bis</sup></sup> Das für die Gemeindeangelegenheiten zuständige Departement kann auf Gesuch hin vom Einbezug der Betriebsrechnung einer selbständigen oder unselbständigen Anstalt in die Gemeinderechnung befreien. Eine Offenlegung hat mindestens im Anhang zur Gemeinderechnung im Beteiligungs- und Gewährleistungsspiegel zu erfolgen.
 
 <sup>3</sup> …
 
