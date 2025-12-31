@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Reglement vom 15. Februar 2021 der Aufsichtsbehörde über die Bundesanwaltschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: de
-version: 2024-07-15
+version: 2026-01-01
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20240715/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20240715-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20240715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement der Aufsichtsbehörde über die Bundesanwaltschaft
 
-vom 15. Februar 2021 (Stand am 15. Juli 2024)
+vom 15. Februar 2021 (Stand am 1. Januar 2026)
 
 Die Aufsichtsbehörde über die Bundesanwaltschaft (Aufsichtsbehörde)
 
@@ -22,8 +22,8 @@ gestützt auf Artikel 27 Absatz 1 des Strafbehördenorganisationsgesetzes vom 19
 
 beschliesst:
 
-[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^ingress-2]: [SR 173.712.24](https://fedlex.data.admin.ch/eli/cc/2010/652)
+[^ingress-1]: [SR 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^ingress-2]: [SR 173.712.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5651)
 
 ## 1. Abschnitt: Aufgaben und Organisation
 
@@ -76,8 +76,10 @@ Die Aufsichtsbehörde kann im Rahmen ihrer gesetzlichen Aufgaben folgende Unters
 
 - a. Abklärungen;
 - b. Inspektionen;
-- c. Administrativuntersuchungen;
+- c.[^4-1] …
 - d. Disziplinarverfahren.
+
+[^4-1]: Aufgehoben durch Ziff. I des Beschlusses der Aufsichtsbehörde vom 17. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 731](https://fedlex.data.admin.ch/eli/oc/2025/731)).
 
 #### Art. 5
 
@@ -101,12 +103,9 @@ Für die Untersuchung von Einzelfragen kann die Aufsichtsbehörde bei der Bundes
 
 #### Art. 7
 
-**Administrativuntersuchungen**
+[^7-1]
 
-Für die Durchführung von Administrativuntersuchungen gelten die Artikel 27*a*–27*d* der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^7-1] und subsidiär das Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^7-2] sinngemäss.
-
-[^7-1]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^7-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^7-1]: Aufgehoben durch Ziff. I des Beschlusses der Aufsichtsbehörde vom 17. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 731](https://fedlex.data.admin.ch/eli/oc/2025/731)).
 
 #### Art. 8
 
@@ -114,7 +113,7 @@ Für die Durchführung von Administrativuntersuchungen gelten die Artikel 27*a*�
 
 Für das Disziplinarverfahren nach Artikel 31 Absatz 2 StBOG gelten die Artikel 16–19 der Verordnung der Bundesversammlung vom 1. Oktober 2010 über die Organisation und die Aufgaben der Aufsichtsbehörde über die Bundesanwaltschaft und subsidiär sinngemäss das Verwaltungsverfahrensgesetz vom 20. Dezember 1968[^8-1].
 
-[^8-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^8-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 9
 
@@ -176,7 +175,7 @@ Der Präsident oder die Präsidentin nimmt folgende Aufgaben wahr:
 
 <sup>3</sup> Die Aufsichtsbehörde stellt auf Vorschlag des Leiters oder der Leiterin Sekretariat das weitere Personal an und entscheidet über die Anstellungsbedingungen. Massgebend dafür sind das Bundespersonalgesetz vom 24. März 2000[^13-1] und dessen Ausführungsbestimmungen.
 
-[^13-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 14
 
@@ -275,7 +274,7 @@ Es hat insbesondere folgende Aufgaben:
 
 <sup>3</sup> Im Übrigen sind die Artikel 56–60 der Strafprozessordnung[^21-1] sinngemäss anwendbar.
 
-[^21-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^21-1]: [SR 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## 6. Abschnitt: Information
 

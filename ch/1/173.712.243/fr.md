@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Règlement du 15 février 2021 de l’autorité de surveillance du Ministère public de la Confédération
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: fr
-version: 2024-07-15
+version: 2026-01-01
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20240715/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20240715-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20240715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement de l’autorité de surveillance du Ministère public de la Confédération
 
-du 15 février 2021 (État le 15 juillet 2024)
+du 15 février 2021 (État le 1<sup>er</sup> janvier 2026)
 
 L’autorité de surveillance du Ministère public de la Confédération (autorité de surveillance),
 
@@ -22,8 +22,8 @@ vu l’art. 27, al. 1, de la loi fédérale du 19 mars 2010 sur l’organisation
 
 arrête:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^ingress-2]: [RS 173.712.24](https://fedlex.data.admin.ch/eli/cc/2010/652)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^ingress-2]: [RS 173.712.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5651)
 
 ## Section 1 Tâches et organisation
 
@@ -76,8 +76,10 @@ Dans le cadre de ses tâches légales, l’autorité de surveillance peut condui
 
 - a. vérifications;
 - b. inspections;
-- c. enquêtes administratives;
+- c.[^4-1] …
 - d. procédures disciplinaires.
+
+[^4-1]: Abrogée par le ch. I de la D de l’autorité de surveillance du 17 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 731](https://fedlex.data.admin.ch/eli/oc/2025/731)).
 
 #### Art. 5
 
@@ -101,12 +103,9 @@ Dans le cadre d’enquêtes sur des questions spécifiques, l’autorité de sur
 
 #### Art. 7
 
-**Enquêtes administratives**
+[^7-1]
 
-La réalisation d’enquêtes administratives est régie par les art. 27*a* à 27*d* de l’ordonnance du 25 novembre 1998 sur l’organisation du gouvernement et de l’administration[^7-1] et, subsidiairement, par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^7-2].
-
-[^7-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^7-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^7-1]: Abrogé par le ch. I de la D de l’autorité de surveillance du 17 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 731](https://fedlex.data.admin.ch/eli/oc/2025/731)).
 
 #### Art. 8
 
@@ -114,7 +113,7 @@ La réalisation d’enquêtes administratives est régie par les art. 27*a* à 2
 
 La procédure disciplinaire prévue à l’art. 31, al. 2, LOAP est régie par les art. 16 à 19 de l’ordonnance du 1<sup>er</sup> octobre 2010 de l’Assemblée fédérale concernant l’organisation et les tâches de l’autorité de surveillance du Ministère public de la Confédération et, subsidiairement, par la loi fédérale du 20 décembre 1968 sur la procédure administrative[^8-1].
 
-[^8-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^8-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 9
 
@@ -176,7 +175,7 @@ Le président est chargé des tâches suivantes:
 
 <sup>3</sup> L’autorité de surveillance engage les autres collaborateurs sur proposition du chef du secrétariat et décide des conditions d’engagement. La loi du 24 mars 2000 sur le personnel de la Confédération[^13-1] et ses dispositions s’appliquent.
 
-[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 14
 
@@ -275,7 +274,7 @@ Il est chargé notamment des tâches suivantes:
 
 <sup>3</sup> Pour le reste, les art. 56 à 60 du code de procédure pénale[^21-1] s’appliquent par analogie.
 
-[^21-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^21-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## Section 6 Information
 
@@ -287,7 +286,7 @@ Il est chargé notamment des tâches suivantes:
 
 <sup>3</sup> Elle dispose de son propre site Internet. Elle y publie les informations pertinentes sur ses activités.[^22-1]
 
-[^22-1]: Introduit par le ch. I de la D de l’autorité de surveillance du 15 mai 2024, en vigueur depuis le 15 juil. 2024 (RO **202****4** 275).
+[^22-1]: Introduit par le ch. I de la D de l’autorité de surveillance du 15 mai 2024, en vigueur depuis le 15 juil. 2024 ([RO 2024 275](https://fedlex.data.admin.ch/eli/oc/2024/275)).
 
 ## Section 7 Dispositions finales
 

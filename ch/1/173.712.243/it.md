@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Regolamento del 15 febbraio 2021 dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: it
-version: 2024-07-15
+version: 2026-01-01
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20240715/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20240715-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20240715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 
-del 15 febbraio 2021 (Stato 15 luglio 2024)
+del 15 febbraio 2021 (Stato 1° gennaio 2026)
 
 L’autorità di vigilanza sul Ministero pubblico della Confederazione (autorità di vigilanza),
 
@@ -22,8 +22,8 @@ visto l’articolo 27 capoverso 1 della legge del 19 marzo 2010[^ingress-1] sull
 
 decreta:
 
-[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/eli/cc/2010/444)
-[^ingress-2]: [RS 173.712.24](https://fedlex.data.admin.ch/eli/cc/2010/652)
+[^ingress-1]: [RS 173.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5641)
+[^ingress-2]: [RS 173.712.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5651)
 
 ## Sezione 1: Compiti e organizzazione
 
@@ -56,7 +56,7 @@ A tale scopo può, in particolare:
 
 <sup>4</sup> Se un membro dell’autorità di vigilanza viene a conoscenza di informazioni potenzialmente rilevanti per il diritto di vigilanza, informa tempestivamente il presidente
 
-[^2-1]: Nuovo testo giusta il n. I della dec. dell’autorità di vigilanza del 1° set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 532](https://fedlex.data.admin.ch/eli/oc/2021/532)).
+[^2-1]: Nuovo testo giusta la cifra I della dec. dell’autorità di vigilanza del 1° set. 2021, in vigore dal 1° ott. 2021 ([RU 2021 532](https://fedlex.data.admin.ch/eli/oc/2021/532)).
 
 #### Art. 3
 
@@ -76,8 +76,10 @@ L’autorità di vigilanza, nel quadro dei compiti conferiteli dalla legge, può
 
 - a. accertamenti;
 - b. ispezioni;
-- c. inchieste amministrative;
+- c.[^4-1] ...
 - d. procedimenti disciplinari.
+
+[^4-1]: Abrogata dalla cifra I d della dec. dell’autorità di vigilanza del 17 nov. 2025, con effetto al 1° gen. 2026 ([RU 2025 731](https://fedlex.data.admin.ch/eli/oc/2025/731)).
 
 #### Art. 5
 
@@ -101,12 +103,9 @@ Per le inchieste su singole questioni l’autorità di vigilanza può svolgere a
 
 #### Art. 7
 
-**Inchieste amministrative**
+[^7-1]
 
-Lo svolgimento delle inchieste amministrative è retto per analogia dagli articoli 27*a*–27*d* dell’ordinanza del 25 novembre 1998[^7-1] sull’organizzazione del Governo e dell’Amministrazione e sussidiariamente dalla legge federale del 20 dicembre 1968[^7-2] sulla procedura amministrativa.
-
-[^7-1]: [RS 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
-[^7-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^7-1]: Abrogato dalla cifra I della dec. dell’autorità di vigilanza del 17 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 731](https://fedlex.data.admin.ch/eli/oc/2025/731)).
 
 #### Art. 8
 
@@ -114,7 +113,7 @@ Lo svolgimento delle inchieste amministrative è retto per analogia dagli artico
 
 Il procedimento disciplinare di cui all’articolo 31 capoverso 2 LOAP è retto dagli articoli 16–19 dell’ordinanza dell’Assemblea federale del 1° ottobre 2010 sull’organizzazione e i compiti dell’autorità di vigilanza sul Ministero pubblico della Confederazione e sussidiariamente, per analogia, dalla legge federale del 20 dicembre 1968[^8-1] sulla procedura amministrativa.
 
-[^8-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^8-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 9
 
@@ -176,7 +175,7 @@ Il presidente adempie i seguenti compiti:
 
 <sup>3</sup> L’autorità di vigilanza assume su proposta del responsabile della segreteria gli altri collaboratori e decide in merito alle condizioni di impiego. Sono determinanti la legge del 24 marzo 2000[^13-1] sul personale federale e le sue disposizioni esecutive.
 
-[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^13-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 14
 
@@ -233,7 +232,7 @@ La segreteria adempie in particolare i seguenti compiti:
 
 <sup>5</sup> Nel caso di denunce presumibilmente o manifestamente infondate, il presidente o il vicepresidente può, con l’assenso di un altro membro, nominare un procuratore straordinario.[^17-1]
 
-[^17-1]: Introdotto dal n. I della dec. dell’autorità di vigilanza del 22 nov. 2021, in vigore dal 15 feb. 2022 ([RU 2022 10](https://fedlex.data.admin.ch/eli/oc/2022/10)).
+[^17-1]: Introdotto dalla cifra I della dec. dell’autorità di vigilanza del 22 nov. 2021, in vigore dal 15 feb. 2022 ([RU 2022 10](https://fedlex.data.admin.ch/eli/oc/2022/10)).
 
 #### Art. 18
 
@@ -275,7 +274,7 @@ La segreteria adempie in particolare i seguenti compiti:
 
 <sup>3</sup> Per il rimanente sono applicabili per analogia gli articoli 56–60 del Codice di procedura penale[^21-1].
 
-[^21-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^21-1]: [RS 312.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6214)
 
 ## Sezione 6: Informazione
 
@@ -287,7 +286,7 @@ La segreteria adempie in particolare i seguenti compiti:
 
 <sup>3</sup> L’autorità di vigilanza ha un proprio sito Internet. Vi pubblica tutte le informazioni rilevanti in merito alle sue attività.[^22-1]
 
-[^22-1]: Introdotto dal n. I della dec. dell’autorità di vigilanza del 15 mag. 2024, in vigore dal 15 lug. 2024 ([RU 2024 275](https://fedlex.data.admin.ch/eli/oc/2024/275)).
+[^22-1]: Introdotto dalla cifra I della dec. dell’autorità di vigilanza del 15 mag. 2024, in vigore dal 15 lug. 2024 ([RU 2024 275](https://fedlex.data.admin.ch/eli/oc/2024/275)).
 
 ## Sezione 7: Disposizioni finali
 
