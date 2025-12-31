@@ -4,11 +4,11 @@ title: Verordnung vom 13. Dezember 2024 über das automatisierte Fahren (VAF)
 short: VAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/50"
 language: de
-version: 2025-03-01
+version: 2026-01-01
 adopted: 2024-12-13
 in_force: 2025-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2025-50-20250301-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2025-50-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20250301/de"
 
 (VAF)
 
-vom 13. Dezember 2024 (Stand am 1. März 2025)
+vom 13. Dezember 2024 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -935,7 +935,7 @@ In besonderen Einzelfällen kann es für Fahrzeuge mit einem Automatisierungssys
 
 <sup>4</sup> Bei Abweichungen nach Absatz 2 Buchstabe d kann es die Bewilligung zeitlich begrenzen.
 
-<sup>5</sup> Das ASTRA kann auf Antrag des Hersteller oder des Importeurs verfügen, dass für führerlose Fahrzeuge anstelle von internationalen Typengenehmigungen Hersteller-Konformitätserklärungen mit Prüfbericht nach [Artikel 14 TGV](https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/de)[^50-1] für die Zulassung anwendbar sind, sofern nachgewiesen werden kann, dass die Prüfungen in Übereinstimmung mit den von der Schweiz anerkannten internationalen Regelungen nach Anhang 2 Ziffern 11 und 12 VTS[^50-2] durchgeführt wurden.
+<sup>5</sup> Das ASTRA kann auf Antrag des Hersteller oder des Importeurs verfügen, dass für führerlose Fahrzeuge anstelle von internationalen Typengenehmigungen Hersteller-Konformitätserklärungen mit Prüfbericht nach [Artikel 14 TGV](https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/de)[^50-1] für die Zulassung anwendbar sind, sofern nachgewiesen werden kann, dass die Prüfungen in Übereinstimmung mit den von der Schweiz anerkannten internationalen Regelungen nach Anhang 2 Ziffern 11 und 12 VTS[^50-2] durchgeführt wurden.[^50-3]
 
 <sup>6</sup> Das ASTRA bildet eine Begleitgruppe, welche die Kantone bei der Beurteilung von Gesuchen um die Genehmigung von Einsatzbereichen für führerlose Fahrzeuge und von Parkierungsflächen für das automatisierte Parkieren unterstützt. Der Begleitgruppe gehören Vertreterinnen und Vertreter der Zulassungsbehörden, der Polizei, der Behörden für Bau, Raumplanung und Umwelt sowie weitere Beteiligte an.
 
@@ -943,6 +943,7 @@ In besonderen Einzelfällen kann es für Fahrzeuge mit einem Automatisierungssys
 
 [^50-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^50-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^50-3]: Die Änderung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 betrifft nur den französischen und italienischen Text ([AS 2025 653](https://fedlex.data.admin.ch/eli/oc/2025/653)).
 
 #### Art. 51
 

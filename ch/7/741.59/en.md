@@ -4,11 +4,11 @@ title: Ordinance of 13 December 2024 on Automated Driving (OAD)
 short: OAD
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/50"
 language: en
-version: 2025-03-01
+version: 2026-01-01
 adopted: 2024-12-13
 in_force: 2025-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20250301/en/xml/fedlex-data-admin-ch-eli-cc-2025-50-20250301-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20250301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2025-50-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,11 +19,11 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OAD)
 
-of 13 December 2024 (Status as of 1 March 2025)
+of 13 December 2024 (Last amended on 1 January 2026)
 
 The Swiss Federal Council,
 
-based on Articles 12 paragraph 4, 25*a*-25*g*, 103 paragraph 1 and 106 paragraph <sup>2bis</sup> of the Road Traffic Act of 19 December 1958[^ingress-1] (RTA),
+based on Articles 12 paragraph 4, 25*a*–25*g*, 103 paragraph 1 and 106 paragraph 2<sup>bis</sup> of the Road Traffic Act of 19 December 1958[^ingress-1] (RTA),
 
 *ordains:*
 
@@ -937,7 +937,7 @@ In special individual cases, it may authorise derogations from the following pro
 
 <sup>4</sup> In the case of derogations in accordance with paragraph 2 letter d, it may limit the authorisation in time.
 
-<sup>5</sup> At the request of the manufacturer or importer, FEDRO may order that manufacturer’s declarations of compliance with a test report in accordance with Article 14 RVTAO[^50-1] apply to the registration of driverless vehicles instead of international type approvals, provided it can be demonstrated that the tests were carried out in accordance with the international regulations recognised by Switzerland in accordance with Annex 2 Nos. 11 and 12 RVTRO[^50-2].
+<sup>5</sup> At the request of the manufacturer or importer, FEDRO may order that manufacturer’s declarations of compliance with a test report in accordance with Article 14 RVTAO[^50-1] apply to the registration of driverless vehicles instead of international type approvals, provided it can be demonstrated that the tests were carried out in accordance with the international regulations recognised by Switzerland in accordance with Annex 2 Nos. 11 and 12 RVTRO[^50-2].[^50-3]
 
 <sup>6</sup> FEDRO shall form an advisory group that supports the cantons in assessing applications for the approval of target operational domains for driverless vehicles and parking areas for automated parking. The advisory group shall include representatives of the registration authorities, the police, the building, spatial planning and environmental authorities and other stakeholders.
 
@@ -945,6 +945,7 @@ In special individual cases, it may authorise derogations from the following pro
 
 [^50-1]: [SR 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^50-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^50-3]: The amendment in accordance with No I of the O of 15 Oct. 2025, in force since 1 Jan. 2026 relates to the French and Italian texts only ([AS 2025 653](https://fedlex.data.admin.ch/eli/oc/2025/653)).
 
 #### Art. 51
 

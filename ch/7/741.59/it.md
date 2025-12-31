@@ -4,11 +4,11 @@ title: Ordinanza del 13 dicembre 2024 sulla guida automatizzata (OGA)
 short: OGA
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/50"
 language: it
-version: 2025-03-01
+version: 2026-01-01
 adopted: 2024-12-13
 in_force: 2025-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2025-50-20250301-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2025-50-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20250301/it"
 
 (OGA)
 
-del 13 dicembre 2024 (Stato 1° marzo 2025)
+del 13 dicembre 2024 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -935,7 +935,7 @@ In singoli casi specifici può autorizzare, per veicoli con sistema di parcheggi
 
 <sup>4</sup> In caso di deroghe secondo il capoverso 2 lettera d può limitare la durata dell’autorizzazione.
 
-<sup>5</sup> L’USTRA può disporre, su richiesta del costruttore o dell’importatore, che per l’immatricolazione di veicoli senza conducente, invece delle approvazioni del tipo internazionali, siano utilizzabili dichiarazioni di conformità del costruttore con rapporto d’esame secondo l’articolo 14 l’OATV[^50-1], se è possibile dimostrare che gli esami sono stati effettuati in conformità alle regolamentazioni internazionali riconosciute dalla Svizzera di cui all’allegato 2 numeri 11 e 12 OETV[^50-2].
+<sup>5</sup> L’USTRA può disporre, su richiesta del costruttore o dell’importatore, che per l’immatricolazione di veicoli senza conducente, invece delle approvazioni del tipo internazionali, siano utilizzabili dichiarazioni di conformità del costruttore con rapporto di esame secondo l’articolo 14 l’OATV[^50-1], se è possibile dimostrare che gli esami sono stati effettuati in conformità alle regolamentazioni internazionali riconosciute dalla Svizzera di cui all’allegato 2 numeri 11 e 12 OETV[^50-2].[^50-3]
 
 <sup>6</sup> L’USTRA costituisce un gruppo di accompagnamento che assiste i Cantoni nella valutazione delle domande di autorizzazione di ambiti di impiego per veicoli senza conducente e di aree per il parcheggio automatico. Il gruppo si compone di rappresentanti delle autorità di immatricolazione, della polizia, delle autorità preposte alle costruzioni, alla pianificazione territoriale e all’ambiente nonché di altri soggetti coinvolti.
 
@@ -943,6 +943,7 @@ In singoli casi specifici può autorizzare, per veicoli con sistema di parcheggi
 
 [^50-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^50-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^50-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 653](https://fedlex.data.admin.ch/eli/oc/2025/653)).
 
 #### Art. 51
 

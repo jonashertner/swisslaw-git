@@ -4,11 +4,11 @@ title: Ordonnance du 13 décembre 2024 sur la conduite automatisée (OCAut)
 short: OCAut
 eli: "https://fedlex.data.admin.ch/eli/cc/2025/50"
 language: fr
-version: 2025-03-01
+version: 2026-01-01
 adopted: 2024-12-13
 in_force: 2025-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2025-50-20250301-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2025/50/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2025-50-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2025/50/20250301/fr"
 
 (OCAut)
 
-du 13 décembre 2024 (État le 1<sup>er</sup> mars 2025)
+du 13 décembre 2024 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -935,7 +935,7 @@ Dans des cas d’espèce particuliers, il peut autoriser, pour les véhicules é
 
 <sup>4</sup> En cas d’exceptions au sens de l’al. 2, let. d, il peut limiter l’autorisation dans le temps.
 
-<sup>5</sup> À la demande du constructeur ou de l’importateur, l’OFROU peut décider d’admettre, en vue de l’immatriculation, l’utilisation de déclarations de conformité du constructeur accompagnées d’un rapport d’expertise selon l’art. 14 ORT[^50-1], à la place des réceptions par type internationales pour les véhicules sans conducteur, pour autant qu’il puisse être démontré que les contrôles ont été réalisés conformément aux réglementations internationales reconnues par la Suisse et visées à l’annexe 2, ch. 11 et 12, OETV[^50-2].
+<sup>5</sup> À la demande du constructeur ou de l’importateur, l’OFROU peut décider d’admettre, en vue de l’immatriculation, l’utilisation de déclarations de conformité du constructeur accompagnées d’un rapport d’examen selon l’art. 14 ORT[^50-1], à la place des réceptions par type internationales pour les véhicules sans conducteur, pour autant qu’il puisse être démontré que les contrôles ont été réalisés conformément aux réglementations internationales reconnues par la Suisse et visées à l’annexe 2, ch. 11 et 12, OETV[^50-2].[^50-3]
 
 <sup>6</sup> L’OFROU constitue un groupe de suivi qui aide les cantons à évaluer les demandes d’autorisation de conditions d’utilisation des véhicules sans conducteur et pour les parkings permettant le parcage automatisé. Le groupe de suivi est composé de représentants des autorités d’immatriculation, de la police, des autorités chargées de la construction, de l’aménagement du territoire et de l’environnement ainsi que d’autres acteurs concernés.
 
@@ -943,6 +943,7 @@ Dans des cas d’espèce particuliers, il peut autoriser, pour les véhicules é
 
 [^50-1]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
 [^50-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^50-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 653](https://fedlex.data.admin.ch/eli/oc/2025/653)).
 
 #### Art. 51
 
