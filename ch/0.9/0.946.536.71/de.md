@@ -3,11 +3,11 @@ sr: "0.946.536.71"
 title: Abkommen vom 17. November 2022 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die gegenseitige Anerkennung von Konformitätsbewertungen
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/11"
 language: de
-version: 2023-02-01
+version: 2026-01-01
 adopted: 2022-11-17
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230201/de/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-11-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2023** 11
 
 Abgeschlossen am 17. November 2022 Vorläufig angewendet ab dem 1. Januar 2023 In Kraft getreten durch Notenaustausch am 1. Februar 2023[^t-1]
 
-(Stand am 1. Februar 2023)
+(Stand am 1. Januar 2026)
 
 [^t-1]: [AS 2023 97](https://fedlex.data.admin.ch/eli/oc/2023/97)
 
@@ -46,8 +46,8 @@ in Anbetracht der Tatsache, dass die engen Beziehungen zwischen den Parteien den
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.946.293.671](https://fedlex.data.admin.ch/eli/cc/2020/1071)
-[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [SR 0.946.293.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4228)
+[^ingress-2]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
@@ -63,7 +63,7 @@ sind wie folgt übereingekommen:
 
 <sup>5</sup> Die Fähigkeit einer Partei, technische Vorschriften und Konformitätsbewertungsverfahren nach Massgabe von Artikel 2 und 5 des WTO-Übereinkommens vom 15. April 1994[^1-1] über technische Handelshemmnisse zu erarbeiten, zu erlassen, anzuwenden oder zu ändern, bleibt durch dieses Abkommen unbeschränkt.
 
-[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117), Anhang 1A.6
+[^1-1]: [SR 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235), Anhang 1A.6
 
 #### Art. 2
 
@@ -401,9 +401,11 @@ Stellt eine Partei fest, dass die andere Partei die Bestimmungen dieses Abkommen
 
 <sup>1</sup> Dieses Abkommen bedarf der Ratifikation oder Genehmigung durch die Parteien gemäss ihren eigenen Verfahren. Es tritt am 1. Januar 2023 oder am Datum des Eingangs der Mitteilung der zweiten Partei über den Abschluss ihrer internen Verfahren in Kraft, je nachdem, welcher Zeitpunkt der spätere ist.
 
-<sup>2</sup> Dieses Abkommen wird für eine anfängliche Dauer von drei Jahren geschlossen. Jede Partei kann spätestens sechs Monate vor Ablauf dieser anfänglichen Dauer schriftlich um eine Verlängerung dieses Abkommens ersuchen.
+<sup>2</sup> Dieses Abkommen wird für eine anfängliche Dauer von drei Jahren geschlossen.[^29-1] Jede Partei kann spätestens sechs Monate vor Ablauf dieser anfänglichen Dauer schriftlich um eine Verlängerung dieses Abkommens ersuchen.
 
 <sup>3</sup> Ungeachtet Absatz 2 können das Vereinigte Königreich oder die Schweiz dieses Abkommen ganz oder teilweise unter Einhaltung einer sechsmonatigen Kündigungsfrist durch schriftliche Notifizierung an die andere Partei kündigen.
+
+[^29-1]: Mit Notenaustausch vom 11. Dez. 2025 haben die Schweiz und das Vereinigte Königreich von Grossbritannien und Nordirland vereinbart, das Abkommen bis zum 31. Dez. 2026 zu verlängern. Der Notenaustausch ist am 1. Jan. 2026 in Kraft getreten ([AS 2026 6](https://fedlex.data.admin.ch/eli/oc/2026/6)).
 
 #### Art. 30
 
@@ -530,7 +532,7 @@ Jede Partei führt eine aktuelle Online-Liste der ihrer Zuständigkeit unterstel
 <table>
 <tr><th>Vereinigtes Königreich</th><th>Schweiz</th></tr>
 <tr><td>Bezeichnende Behörde The Vehicle Certification Agency (VCA) The VCA Dangerous Goods Office Cleeve Road Leatherhead Surrey KT22 7NF United Kingdom tanks@vca.gov.uk</td><td>Bezeichnende Behörde Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation CH-3003 Bern Schweiz Telefon: +41 58 462 55 11 E-Mail: info@gs-uvek.admin.ch</td></tr>
-<tr><td>Für den Informationsaustausch zur Marktüberwachung zuständige Behörde Health and Safety Executive Redgrave Court Merton Road Bootle Merseyside L20 7HS United Kingdom</td><td>Für den Informationsaustausch zur Marktüberwachung zuständige Behörde Bundesamt für Verkehr Abteilung Sicherheit Sektion Umwelt CH-3003 Bern Schweiz Telefon: +41 58 462 57 11 E-Mail: umwelt@bav.admin.ch</td></tr>
+<tr><td>Für den Informationsaustausch zur Marktüberwachung zuständige Behörde Health and Safety Executive Redgrave Court Merton Road Bootle Merseyside L20 7HS United Kingdom</td><td>Für den Informationsaustausch zur Marktüberwachung zuständige Behörde Bundesamt für Verkehr Abteilung Sicherheit Sektion Umwelt CH-3003 Bern Schweiz Telefon: +41 58 462 57 11 E-Mail: umwelt@bav. admin .ch</td></tr>
 </table>
 
 ### Abschnitt IV Besondere Grundsätze für die Bezeichnung der Konformitätsbewertungsstellen
@@ -559,7 +561,7 @@ Jede Partei führt eine aktuelle Online-Liste der ihrer Zuständigkeit unterstel
 
 <table>
 <tr><th>Vereinigtes Königreich</th><th>Schweiz</th></tr>
-<tr><td>Bezeichnende Behörde Department for Business, Energy and Industrial Strategy (BEIS) 1 Victoria Street London SW1H OET United Kingdom approvedbodies@beis.gov.uk</td><td>Bezeichnende Behörde Bundesamt für Umwelt BAFU Sektion Flug-, Industrie- und Schiesslärm CH-3003 Bern Schweiz Telefon: +41 58 462 93 11 E-Mail: noise@bafu.admin.ch</td></tr>
+<tr><td>Bezeichnende Behörde Department for Business, Energy and Industrial Strategy (BEIS) 1 Victoria Street London SW1H OET United Kingdom approvedbodies@beis.gov.uk</td><td>Bezeichnende Behörde Bundesamt für Umwelt BAFU Sektion Flug-, Industrie- und Schiesslärm CH-3003 Bern Schweiz Telefon: +41 58 462 93 11 E-Mail: noise @bafu.admin.ch</td></tr>
 <tr><td>Für den Informationsaustausch zur Marktüberwachung zuständige Behörde UK Product Safety Contact Point Office for Product Safety and Standards Department for Business, Energy and Industrial Strategy (BEIS) 1 Victoria Street London SW1H OET United Kingdom +44 121 345 1201 ukproductsafetycp@beis.gov.uk</td><td>Für den Informationsaustausch zur Marktüberwachung zuständige Behörde Bundesamt für Umwelt BAFU Sektion Flug-, Industrie- und Schiesslärm CH-3003 Bern Schweiz Telefon: +41 58 462 93 11 E-Mail: noise@bafu.admin.ch</td></tr>
 </table>
 

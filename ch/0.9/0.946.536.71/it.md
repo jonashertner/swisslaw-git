@@ -3,11 +3,11 @@ sr: "0.946.536.71"
 title: Accordo del 17 novembre 2022tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sul reciproco riconoscimento in materia di valutazione della conformità
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/11"
 language: it
-version: 2023-02-01
+version: 2026-01-01
 adopted: 2022-11-17
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230201/it/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2023-11-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 17 novembre 2022 Applicato provvisoriamente dal 1° gennaio 2023 Entrato in vigore mediante scambio di note il 1° febbraio 2023[^t-1]
 
-(Stato 1° febbraio 2023)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 2023 97](https://fedlex.data.admin.ch/eli/oc/2023/97)
 
@@ -46,8 +46,8 @@ considerando che le strette relazioni tra le Parti rendono opportuna la conclusi
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.946.293.671](https://fedlex.data.admin.ch/eli/cc/2020/1071)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.946.293.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4228)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
@@ -63,7 +63,7 @@ hanno convenuto quanto segue:
 
 <sup>5</sup> Il presente Accordo non limita la facoltà delle Parti di preparare, adottare, applicare o emendare i regolamenti tecnici e le procedure di valutazione della conformità secondo gli articoli 2 e 5 dell’Accordo dell’OMC del 15 aprile 1994[^1-1] sugli ostacoli tecnici al commercio.
 
-[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)all. 1A.6
+[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)all. 1A.6
 
 #### Art. 2
 
@@ -402,9 +402,11 @@ Se una Parte constata che l’altra Parte non rispetta i termini del presente Ac
 
 <sup>1</sup> Il presente Accordo è ratificato o approvato dalle Parti conformemente alle loro rispettive procedure. Esso entra in vigore il 1° gennaio 2023 o il giorno della ricezione dell’ultima notifica trasmessa dalle Parti a conferma del completamento delle procedure interne, se posteriore.
 
-<sup>2</sup> Il presente Accordo è concluso per un periodo iniziale di tre anni. Ciascuna Parte può richiederne l’estensione per scritto almeno 6 mesi prima della scadenza del periodo iniziale.
+<sup>2</sup> Il presente Accordo è concluso per un periodo iniziale di tre anni[^29-1]. Ciascuna Parte può richiederne l’estensione per scritto almeno 6 mesi prima della scadenza del periodo iniziale.
 
 <sup>3</sup> In deroga al paragrafo 2, il Regno Unito o la Svizzera possono denunciare il presente accordo integralmente o in parte informando l’altra Parte per scritto con un preavviso di sei mesi.
+
+[^29-1]: Mediante scambio di note dell’11 dic. 2025, la Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord hanno convenuto di prorogare l’Acc. fino al 31 dic. 2026. Lo scambio di note è entrato in vigore il 1° gen. 2026 ([RU 2026 6](https://fedlex.data.admin.ch/eli/oc/2026/6)).
 
 #### Art. 30
 

@@ -3,11 +3,11 @@ sr: "0.946.536.71"
 title: Accord du 17 novembre 2022 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif à la reconnaissance mutuelle en matière d’évaluation de la conformité
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/11"
 language: fr
-version: 2023-02-01
+version: 2026-01-01
 adopted: 2022-11-17
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20230201/fr/xml/fedlex-data-admin-ch-eli-cc-2023-11-20230201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20230201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/11/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-11-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/11/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu le 17 novembre 2022 Appliqué provisoirement dès le 1<sup>er</sup> janvier 2023 Entré en vigueur par échange de notes le 1<sup>er</sup> fév. 2023[^t-1]
 
-(État le 1<sup>er</sup> février 2023)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 2023 97](https://fedlex.data.admin.ch/eli/oc/2023/97)
 
@@ -46,8 +46,8 @@ considérant que les relations étroites entre les Parties rendent appropriée l
 
 sont convenus de conclure l’Accord suivant:
 
-[^ingress-1]: [RS 0.946.293.671](https://fedlex.data.admin.ch/eli/cc/2020/1071)
-[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)
+[^ingress-1]: [RS 0.946.293.671](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4228)
+[^ingress-2]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)
 
 #### Art. 1
 
@@ -63,7 +63,7 @@ sont convenus de conclure l’Accord suivant:
 
 <sup>5</sup> Le présent Accord ne limite pas la capacité d’une Partie à élaborer, adopter, appliquer ou modifier des règlements techniques et des procédures d’évaluation de la conformité conformément aux art. 2 et 5 de l’Accord sur les obstacles techniques au commerce[^1-1].
 
-[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/eli/cc/1995/2117_2117_2117)annexe 1A.6
+[^1-1]: [RS 0.632.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2235)annexe 1A.6
 
 #### Art. 2
 
@@ -402,9 +402,11 @@ Si une Partie constate que l’autre Partie ne respecte pas les conditions du pr
 
 <sup>1</sup> Le présent Accord est ratifié ou approuvé par les Parties selon les procédures qui leur sont propres. Il entre en vigueur le 1<sup>er</sup> janvier 2023 ou à la date de réception de la dernière des notifications des Parties confirmant l’accomplissement de leurs procédures internes, la date postérieure étant retenue.
 
-<sup>2</sup> Le présent Accord est conclu pour une période initiale de trois ans. Chaque Partie peut demander par écrit sa prolongation au plus tard six mois avant l’expiration de cette période initiale.
+<sup>2</sup> Le présent Accord est conclu pour une période initiale de trois ans.[^29-1] Chaque Partie peut demander par écrit sa prolongation au plus tard six mois avant l’expiration de cette période initiale.
 
 <sup>3</sup> Nonobstant le par. 2, le Royaume-Uni ou la Suisse peuvent dénoncer le présent Accord, en tout ou en partie, par notification écrite à l’autre Partie moyennant un préavis de six mois.
+
+[^29-1]: Par échange de notes du 11 déc. 2025, la Suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord ont convenu de prolonger l’accord jusqu’au 31 déc. 2026. L’échange de notes est entré en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2026 6](https://fedlex.data.admin.ch/eli/oc/2026/6)).
 
 #### Art. 30
 
