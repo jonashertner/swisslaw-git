@@ -4,11 +4,11 @@ title: Loi fédérale du 18 décembre 1987 sur le droit international privé (LD
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20250101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/fr"
 
 (LDIP)
 
-du 18 décembre 1987 (État le 1<sup>er</sup> janvier 2025)
+du 18 décembre 1987 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -177,21 +177,29 @@ Sont compétents pour prononcer des mesures provisoires:
 
 ### XIII. Actes d’entraide judiciaire
 
-### 1. Transmission
-
-[^chap1-sec2-lvlXIII-lvl1-1]
-
-[^chap1-sec2-lvlXIII-lvl1-1]: Nouvelle teneur selon l’art. 3 ch. 3 de l’AF du 11 déc. 2009 (Approbation et mise en oeuvre de la Conv. de Lugano), en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1497](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+### 1. Principe
 
 #### Art. 11
 
 [^11-1]
 
-Les demandes d’entraide judiciaire émanant de la Suisse ou adressées à elle sont traitées par l’Office fédéral de la justice.
+<sup>1</sup> Les actes de puissance publique effectués en Suisse dans le cadre de procédures civiles étrangères, en particulier la notification d’actes judiciaires et extrajudiciaires et les actes d’obtention de preuves, se font par la voie de l’entraide judiciaire. Les chapitres I et II de la Convention de La Haye du 1<sup>er</sup> mars 1954 relative à la procédure civile[^11-2] s’appliquent.
 
-[^11-1]: Nouvelle teneur selon l’annexe 1 ch. II 18 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>2</sup> Les parties à un procès séjournant en Suisse peuvent toutefois être invitées directement à déposer des actes ou des moyens de preuve si cette invitation n’est pas assortie de la menace de sanctions pénales et si elle est notifiée par la voie de l’entraide judiciaire.
 
-### 2. Droit applicable
+<sup>3</sup> Les personnes séjournant en Suisse peuvent en outre participer à une audience à l’étranger par conférence téléphonique ou vidéoconférence ou par tout autre moyen électronique de transmission du son ou de l’image ou être interrogées par ces moyens par une personne qui y est habilitée par une autorité étrangère. Le chapitre II de la Convention de La Haye du 18 mars 1970 sur l’obtention des preuves à l’étranger en matière civile ou commerciale[^11-3] s’applique par analogie.
+
+<sup>4</sup> Sauf disposition contraire du droit fédéral, l’Office fédéral de la justice sert d’intermédiaire entre la Suisse et les autres États en matière d’entraide judiciaire.
+
+[^11-1]: Nouvelle teneur selon l’annexe de l’AF du 20 déc. 2024 concernant le recours aux moyens de communication électroniques dans les procédures civiles internationales, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [FF 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
+[^11-2]: [RS 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11-3]: [RS 0.274.132](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1201)
+
+### 2. Exécution
+
+[^chap1-sec2-lvl1-lvl2-1]
+
+[^chap1-sec2-lvl1-lvl2-1]: Nouvelle teneur selon l’annexe de l’AF du 20 déc. 2024 concernant le recours aux moyens de communication électroniques dans les procédures civiles internationales, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [FF 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 #### Art. 11a
 
@@ -203,10 +211,10 @@ Les demandes d’entraide judiciaire émanant de la Suisse ou adressées à elle
 
 <sup>3</sup> Lorsqu’une procédure conforme au droit suisse mais non reconnue à l’étranger empêcherait d’y admettre une prétention juridique digne de protection, les autorités judiciaires ou administratives suisses peuvent établir des documents officiels ou recevoir la déclaration sous serment d’un requérant selon les formes du droit étranger.
 
-<sup>4</sup> La convention de La Haye du 1<sup>er</sup> mars 1954 relative à la procédure civile[^11a-2] s’applique aux demandes d’entraide concernant la notification ou l’obtention de preuves émanant de Suisse ou adressées à elle.
+<sup>4</sup> …[^11a-2]
 
 [^11a-1]: Introduit par l’annexe 1 ch. II 18 du CPC du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6841](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11a-2]: [RS 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11a-2]: Abrogé par l’annexe de l’AF du 20 déc. 2024 concernant le recours aux moyens de communication électroniques dans les procédures civiles internationales, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [FF 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 ### 3. Avance de frais et sûretés en garantie des dépens
 
@@ -2920,7 +2928,7 @@ Sont abrogées dès l’entrée en vigueur de la présente loi:
 [^annexu1-lvlu1-lvlI-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^annexu1-lvlu1-lvlI-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^annexu1-lvlu1-lvlI-4]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
-[^annexu1-lvlu1-lvlI-5]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)837; [RO 1951 906](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)art. 1; [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617); 1992 288 annexe ch. 8. [RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 74]
+[^annexu1-lvlu1-lvlI-5]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)837; [RO 1951 906](https://fedlex.data.admin.ch/eli/oc/1951/903_906_931)art. 1; [1971 1617](https://fedlex.data.admin.ch/eli/oc/1971/1617_1617_1617); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 8. [RO 1993 274](https://fedlex.data.admin.ch/eli/oc/1993/274_274_274)art. 74]
 [^annexu1-lvlu1-lvlI-6]: [[RS 2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5701)866; [RO 1956 861](https://fedlex.data.admin.ch/eli/oc/1956/805_861_872)art. 1; **1962** 479; [1988 1776](https://fedlex.data.admin.ch/eli/oc/1988/1776_1776_1776)annexe ch. 1 let. f; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 9; [1995 1784](https://fedlex.data.admin.ch/eli/oc/1995/1784_1784_1784), [5050](https://fedlex.data.admin.ch/eli/oc/1995/5050_5050_5050)annexe ch. 3. [RO 2002 1456](https://fedlex.data.admin.ch/eli/oc/2002/226)annexe ch. I]
 [^annexu1-lvlu1-lvlI-7]: [RS 232.16](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5983)
 

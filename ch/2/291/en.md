@@ -4,11 +4,11 @@ title: Federal Act on Private International Law (PILA)
 short: PILA
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: en
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20250101/en/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20250101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/en/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PILA)
 
-of 18 December 1987 (Status as of 1 January 2025)
+of 18 December 1987 (Status as of 1 January 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -177,21 +177,29 @@ Jurisdiction to order interim measures lies with:
 
 ### XIII. Legal assistance
 
-### 1. Facilitation of requests
-
-[^chap1-sec2-lvl1-1]
-
-[^chap1-sec2-lvl1-1]: Amended by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+### 1. Principle
 
 #### Art. 11
 
 [^11-1]
 
-Requests for legal assistance between Switzerland and other states are facilitated by the Federal Office of Justice.
+<sup>1</sup> Sovereign acts carried out in Switzerland in connection with foreign civil proceedings, in particular the service of judicial and extrajudicial documents and the taking of evidence, must be carried out by way of legal assistance. Chapters I and II of the Hague Convention of 1 March 1954[^11-2] on Civil Procedure apply.
 
-[^11-1]: Amended by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, in force since 1 Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>2</sup> However, a party to proceedings who is in Switzerland may be directly requested to transmit submissions or evidence if the request is made without threat of penalty and is served by way of legal assistance.
 
-### 2. Applicable law
+<sup>3</sup> Moreover, persons who are in Switzerland may participate in a hearing abroad by telephone or video conference or other electronic means of audio or video transmission, or be questioned in the same way by a person authorised by a foreign authority. Chapter II of the Hague Convention of 18 March 1970[^11-3] on the Taking of Evidence Abroad in Civil or Commercial Matters applies by analogy.
+
+<sup>4</sup> Unless federal law provides otherwise, the Federal Office of Justice shall act as intermediary in matters of legal assistance between Switzerland and other states.
+
+[^11-1]: Amended by the Annex to the FD of 20 Dec. 2024 on the Use of Electronic Means of Communication in Crossborder Civil Proceedings, in force since 1 Jan. 2026 ([AS 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [BBl 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
+[^11-2]: [SR 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11-3]: [SR 0.274.132](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1201)
+
+### 2. Execution
+
+[^chap1-sec2-lvl2-1]
+
+[^chap1-sec2-lvl2-1]: Amended by the Annex to the FD of 20 Dec. 2024 on the Use of Electronic Means of Communication in Crossborder Civil Proceedings, in force since 1 Jan. 2026 ([AS 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [BBl 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 #### Art. 11a
 
@@ -203,10 +211,10 @@ Requests for legal assistance between Switzerland and other states are facilitat
 
 <sup>3</sup> If a form of procedure under Swiss law is not recognised abroad and as a result a right deemed worthy of protection would not be upheld there, the Swiss courts or authorities may issue documents or take a person’s oath pursuant to the form required by the foreign law.
 
-<sup>4</sup> The Hague Convention of 1 March 1954[^11a-2] on Civil Procedure applies to requests to and from Switzerland for service and the taking of evidence.
+<sup>4</sup> …[^11a-2]
 
 [^11a-1]: Inserted by Annex 1 No II 18 of the Civil Procedure Code of 19 Dec. 2008, ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11a-2]: [SR 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11a-2]: Repealed by the Annex to the FD of 20 Dec. 2024 on the Use of Electronic Means of Communication in Crossborder Civil Proceedings, with effect from 1 Jan. 2026 ([AS 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [BBl 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 ### 3. Advance of costs and security for party costs
 
@@ -777,11 +785,11 @@ If the spouses are not domiciled in Switzerland and if neither of them is a Swis
 
 #### Art. 61
 
-[^61-1]
+[^63-1]
 
 Divorce and separation are governed by Swiss law.
 
-[^61-1]: Amended by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^63-1]: Amended by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### III. Interim measures
 
@@ -797,15 +805,15 @@ Divorce and separation are governed by Swiss law.
 
 #### Art. 63
 
-<sup>1</sup> Swiss courts that have jurisdiction to hear an action for divorce or separation also have jurisdiction to rule on the subsequent effects thereof. The provisions of this Act relating to the protection of minors (Art. 85) are reserved.[^63-1]
+<sup>1</sup> Swiss courts that have jurisdiction to hear an action for divorce or separation also have jurisdiction to rule on the subsequent effects thereof. The provisions of this Act relating to the protection of minors (Art. 85) are reserved.[^65-1]
 
-<sup>1bis</sup> Swiss courts have exclusive jurisdiction to rule on claims for the division of occupational pension entitlements against a Swiss pension fund.[^63-2]
+<sup>1bis</sup> Swiss courts have exclusive jurisdiction to rule on claims for the division of occupational pension entitlements against a Swiss pension fund.[^65-2]
 
-<sup>2</sup> The subsequent effects of divorce and separation are governed by Swiss law.[^63-3] The provisions of this Act relating to the name (Art. 37 to 40), to maintenance obligations between spouses (Art. 49), to marital property relations (Art. 52 to 57), to the effects of a parent-child relationship (Art. 82 and 83), and to the protection of minors (Art. 85) are reserved.
+<sup>2</sup> The subsequent effects of divorce and separation are governed by Swiss law.[^65-3] The provisions of this Act relating to the name (Art. 37 to 40), to maintenance obligations between spouses (Art. 49), to marital property relations (Art. 52 to 57), to the effects of a parent-child relationship (Art. 82 and 83), and to the protection of minors (Art. 85) are reserved.
 
-[^63-1]: Amended by Annex No 3 of the FA of 21 June 2013 (Parental Responsibility), in force since 1 July 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
-[^63-2]: Inserted by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
-[^63-3]: Amended by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^65-1]: Amended by Annex No 3 of the FA of 21 June 2013 (Parental Responsibility), in force since 1 July 2014 ([AS 2014 357](https://fedlex.data.admin.ch/eli/oc/2014/53); [BBl 2011 9077](https://fedlex.data.admin.ch/eli/fga/2011/1580)).
+[^65-2]: Inserted by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
+[^65-3]: Amended by Annex No 3 of the FA of 19 June 2015 (Equitable Pension Division on Divorce), in force since 1 Jan. 2017 ([AS 2016 2313](https://fedlex.data.admin.ch/eli/oc/2016/379); [BBl 2013 4887](https://fedlex.data.admin.ch/eli/fga/2013/942)).
 
 ### V. Supplementing or amending decisions
 
@@ -831,7 +839,7 @@ A foreign decree of divorce or separation is recognised in Switzerland if:
 
 - a. it was issued in the state of domicile or habitual residence, or in the state of citizenship of either spouse;
 - b. it is recognised in any of the states indicated in letter a; or
-- c. it was issued in the state where the marriage was solemnised and the action cannot or cannot reasonably be expected to be brought in either of the states indicated in letter a.[^65-1]
+- c. it was issued in the state where the marriage was solemnised and the action cannot or cannot reasonably be expected to be brought in either of the states indicated in letter a.[^65-4]
 
 <sup>2</sup>
 
@@ -841,7 +849,7 @@ However, a decree that was issued in a state of which neither spouse or only the
 - b. if the defendant spouse submitted to the jurisdiction of the foreign court without reservation; or
 - c. if the defendant spouse expressly consents to recognition of the decree in Switzerland.
 
-[^65-1]: Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
+[^65-4]: Amended by Annex No 2 of the FA of 18 Dec. 2020 (Marriage for All), in force since 1 July 2022 ([AS 2021 747](https://fedlex.data.admin.ch/eli/oc/2021/747); [BBl 2019 8595](https://fedlex.data.admin.ch/eli/fga/2019/2985); [2020 1273](https://fedlex.data.admin.ch/eli/fga/2020/273)).
 
 ## Chapter 3*a* Registered Partnership
 
@@ -1093,12 +1101,12 @@ The Swiss courts referred to in Articles 79 and 80 also have jurisdiction to hea
 
 #### Art. 87
 
-<sup>1</sup> If the deceased was a Swiss citizen domiciled abroad, the Swiss judicial or administrative authorities at the testator’s place of origin have jurisdiction for the estate to the extent that the authorities in the state of domicile do not deal with the estate. In order to avoid conflicts of jurisdiction, the Swiss judicial or administrative authorities may decline jurisdiction, to the extent that the authorities in a foreign state of which the deceased was a citizen, in the state of the deceased's last habitual residence or, where the matter relates to individual assets in the estate, the state in which the assets are located deals with the estate.[^87-1]
+<sup>1</sup> If the deceased was a Swiss citizen domiciled abroad, the Swiss judicial or administrative authorities at the testator’s place of origin have jurisdiction for the estate to the extent that the authorities in the state of domicile do not deal with the estate. In order to avoid conflicts of jurisdiction, the Swiss judicial or administrative authorities may decline jurisdiction, to the extent that the authorities in a foreign state of which the deceased was a citizen, in the state of the deceased's last habitual residence or, where the matter relates to individual assets in the estate, the state in which the assets are located deals with the estate.[^96-1]
 
-<sup>2</sup> The judicial or administrative authorities at the place of origin always have jurisdiction when a Swiss citizen who had their last domicile abroad submits, in a will or a contract of succession, their entire estate or assets located in Switzerland to Swiss jurisdiction or to Swiss law without reservation as to jurisdiction.[^87-2] Article 86 paragraph 2 is reserved.
+<sup>2</sup> The judicial or administrative authorities at the place of origin always have jurisdiction when a Swiss citizen who had their last domicile abroad submits, in a will or a contract of succession, their entire estate or assets located in Switzerland to Swiss jurisdiction or to Swiss law without reservation as to jurisdiction.[^96-2] Article 86 paragraph 2 is reserved.
 
-[^87-1]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
-[^87-2]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-1]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-2]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ### 3. Jurisdiction at the location of assets
 
@@ -1261,21 +1269,21 @@ Substantive validity in terms of Article 94–95*a* comprises:
 
 <sup>1</sup>
 
-Foreign decisions, measures and documents relating to the estate, as well as rights deriving from an estate probated abroad are, subject to Article 87 paragraph 2, recognised in Switzerland:[^96-1]
+Foreign decisions, measures and documents relating to the estate, as well as rights deriving from an estate probated abroad are, subject to Article 87 paragraph 2, recognised in Switzerland:[^96-3]
 
-- a.[^96-2] if they are rendered, taken, drawn up or declared in the state of the testator’s last domicile, or if they are recognised there;
+- a.[^96-4] if they are rendered, taken, drawn up or declared in the state of the testator’s last domicile, or if they are recognised there;
 - b. if they relate to immovable property and were rendered, taken, drawn up or declared in the state in which such property is located, or if they are recognised in that state;
-- c.[^96-3] if they are rendered, taken, drawn up or declared in any one of the states of which the testator was a citizen and the testator had submitted their estate to the jurisdiction or to the law of the state concerned; or
-- d.[^96-4] if they are rendered, taken, drawn up or declared in the testator’s state of last habitual residence or any one of the states of which the testator is a citizen or, if they only relate to individual moveable assets in the estate, in the state in which these assets are located, provided the testator’s last domicile was abroad and the state concerned does not deal with the estate.
+- c.[^96-5] if they are rendered, taken, drawn up or declared in any one of the states of which the testator was a citizen and the testator had submitted their estate to the jurisdiction or to the law of the state concerned; or
+- d.[^96-6] if they are rendered, taken, drawn up or declared in the testator’s state of last habitual residence or any one of the states of which the testator is a citizen or, if they only relate to individual moveable assets in the estate, in the state in which these assets are located, provided the testator’s last domicile was abroad and the state concerned does not deal with the estate.
 
 <sup>2</sup> With respect to immovable property located in a state which claims exclusive jurisdiction, only the decisions, measures or documents originating from that state shall be recognised.
 
 <sup>3</sup> Conservatory measures ordered in the state where assets of the deceased are located shall be recognised in Switzerland.
 
-[^96-1]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
-[^96-2]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
-[^96-3]: Inserted by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
-[^96-4]: Inserted by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-3]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-4]: Amended by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-5]: Inserted by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
+[^96-6]: Inserted by No I of the FA of 22 Dec. 2023, in force since 1 Jan. 2025 ([AS 2024 330](https://fedlex.data.admin.ch/eli/oc/2024/330); [BBl 2020 3309](https://fedlex.data.admin.ch/eli/fga/2020/739)).
 
 ## Chapter 7 Property Law
 
@@ -1293,9 +1301,9 @@ The courts at the place where immovable property in Switzerland is located have 
 
 <sup>1</sup> The Swiss courts at the domicile or, in the absence of a domicile, at the habitual residence of the defendant have jurisdiction to hear actions relating to rights *in rem* in movable property.
 
-<sup>2</sup> The Swiss courts at the place where the property is located also have jurisdiction.[^98-1]
+<sup>2</sup> The Swiss courts at the place where the property is located also have jurisdiction.[^108-1]
 
-[^98-1]: Amended by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+[^108-1]: Amended by Art. 3 No 3 of the FD of 11 Dec. 2009 (Approval and Implementation of the Lugano Convention), in force since 1 Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
 
 ### 3. Cultural property
 
@@ -1404,9 +1412,9 @@ Foreign decisions on rights *in rem* in movable property are recognised in Switz
 
 - a. if they were rendered in the state of domicile of the defendant; or
 - b. if they were rendered in the state in which the property is located, provided the defendant had their habitual residence there.
-- c.[^108-1] ...
+- c.[^108-2] ...
 
-[^108-1]: Repealed by Art. 2 of the FD of 3 Oct. 2008 on the Approval and Implementation of the Convention on the Law Applicable to Certain Rights in Respect of Securities held with an Intermediary, with effect from 1 Jan. 2010 ([AS 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^108-2]: Repealed by Art. 2 of the FD of 3 Oct. 2008 on the Approval and Implementation of the Convention on the Law Applicable to Certain Rights in Respect of Securities held with an Intermediary, with effect from 1 Jan. 2010 ([AS 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
 ## Chapter 7*a* Intermediated securities
 
@@ -1715,27 +1723,27 @@ The Swiss courts at the domicile or, in the absence of a domicile, at the habitu
 
 #### Art. 130
 
-[^130-1]
+[^132-1]
 
-<sup>1</sup> Jurisdiction to hear actions relating to nuclear incidents is governed by the Convention of 29 July 1960[^130-2] on Third Party Liability in the Field of Nuclear Energy as amended by the Additional Protocol of 28 January 1964, the Protocol of 16 November 1982 and the Protocol of 12 February 2004 (the Paris Convention).
+<sup>1</sup> Jurisdiction to hear actions relating to nuclear incidents is governed by the Convention of 29 July 1960[^132-2] on Third Party Liability in the Field of Nuclear Energy as amended by the Additional Protocol of 28 January 1964, the Protocol of 16 November 1982 and the Protocol of 12 February 2004 (the Paris Convention).
 
 <sup>2</sup> If the Swiss courts have jurisdiction under this Convention, the action shall be brought in the canton in whose territory the incident occurred, or, where the place of the incident lies outside the sovereign territory of the contracting parties or cannot be determined with certainty, in the canton in whose territory the nuclear installation of the operator liable is located. If several courts have jurisdiction in accordance with these rules, the action shall be brought in the canton that in accordance with Article 13 paragraph (f) number (ii) of the Convention is most closely related to the incident and is the most affected by its effects.
 
-<sup>3</sup> The rules on jurisdiction in paragraph 2 also apply by analogy to actions arising from nuclear incidents to which the Convention does not apply. If in the case of such an action, neither the place of the incident nor that of the nuclear installation lies in Switzerland, the action may also be filed in the canton in whose territory the alleged damage occurred. If damage occurred in two or more cantons, the canton that is most affected by the incident shall have jurisdiction.[^130-3]
+<sup>3</sup> The rules on jurisdiction in paragraph 2 also apply by analogy to actions arising from nuclear incidents to which the Convention does not apply. If in the case of such an action, neither the place of the incident nor that of the nuclear installation lies in Switzerland, the action may also be filed in the canton in whose territory the alleged damage occurred. If damage occurred in two or more cantons, the canton that is most affected by the incident shall have jurisdiction.[^132-3]
 
-[^130-1]: Amended by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
-[^130-2]: [SR 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
-[^130-3]: Amended by Annex 2 No 1 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^132-1]: Amended by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008, in force since 1 Jan. 2022, published 27 Jan. 2022 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)).
+[^132-2]: [SR 0.732.44](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2779)
+[^132-3]: Amended by Annex 2 No 1 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### b. Right to information or access in connection with personal data
 
 #### Art. 130a
 
-[^130a-1]
+[^133-1]
 
 Actions to enforce the right to information or access in connection with the processing of personal data may be brought before the courts mentioned in Article 129.
 
-[^130a-1]: Inserted by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)). Amended by Annex 2 No 1 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^133-1]: Inserted by Annex No II 3 of the Nuclear Energy Liability Act of 13 June 2008 ([AS 2022 43](https://fedlex.data.admin.ch/eli/oc/2022/43); [BBl 2007 5397](https://fedlex.data.admin.ch/eli/fga/2007/761)). Amended by Annex 2 No 1 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 3. Direct action against an insurer
 
@@ -2010,11 +2018,11 @@ Where there is no valid choice of forum, or if the choice of forum is not exclus
 
 #### Art. 149c
 
-<sup>1</sup> The law applicable to trusts is governed by the Hague Convention of 1 July 1985[^149c-1] on the Law Applicable to Trusts and on their Recognition.
+<sup>1</sup> The law applicable to trusts is governed by the Hague Convention of 1 July 1985[^149b-1] on the Law Applicable to Trusts and on their Recognition.
 
 <sup>2</sup> The law designated by the Convention shall also apply when the Convention does not apply pursuant to its Article 5 or when a state is not bound to recognise a trust pursuant to Article 13 of the Convention.
 
-[^149c-1]: [SR 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
+[^149b-1]: [SR 0.221.371](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/890)
 
 ### IV. Special rules concerning publicity
 
@@ -2369,10 +2377,10 @@ A foreign bankruptcy decree shall be recognised in Switzerland on application of
 
 #### Art. 168
 
-As from the filing of the application for recognition of the foreign bankruptcy decree, the court may, at the request of the applicant, order conservatory measures as provided for in Articles 162 to 165 and 170 DEBA[^168-1]<sup>,</sup>[^168-2].
+As from the filing of the application for recognition of the foreign bankruptcy decree, the court may, at the request of the applicant, order conservatory measures as provided for in Articles 162 to 165 and 170 DEBA[^174b-1]<sup>,</sup>[^174b-2].
 
-[^168-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
-[^168-2]: Term in accordance with No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)). This has been amended throughout the text.
+[^174b-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^174b-2]: Term in accordance with No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)). This has been amended throughout the text.
 
 ### 3. Publication
 
@@ -2380,10 +2388,10 @@ As from the filing of the application for recognition of the foreign bankruptcy 
 
 <sup>1</sup> The decision on the recognition of a foreign bankruptcy decree shall be published.
 
-<sup>2</sup> The decision shall be communicated to the debt enforcement and bankruptcy office, the land registry, and the commercial registry at the place where the assets are located and, where appropriate, to the Swiss Federal Institute of Intellectual Property[^169-1]. The same applies to decisions concluding or staying the auxiliary bankruptcy proceedings, the decision to revoke the bankruptcy, and the decision to abstain from auxiliary bankruptcy proceedings.[^169-2]
+<sup>2</sup> The decision shall be communicated to the debt enforcement and bankruptcy office, the land registry, and the commercial registry at the place where the assets are located and, where appropriate, to the Swiss Federal Institute of Intellectual Property[^174c-1]. The same applies to decisions concluding or staying the auxiliary bankruptcy proceedings, the decision to revoke the bankruptcy, and the decision to abstain from auxiliary bankruptcy proceedings.[^174c-2]
 
-[^169-1]: Name in accordance with an unpublished FCD of 19 Dec. 1997.
-[^169-2]: Sentence amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^174c-1]: Name in accordance with an unpublished FCD of 19 Dec. 1997.
+[^174c-2]: Sentence amended by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### III. Legal effects
 
@@ -2473,21 +2481,21 @@ The schedule of claims shall only include:
 
 #### Art. 174b
 
-[^174b-1]
+[^174b-3]
 
 In proceedings that have a factual connection the authorities and bodies concerned may coordinate their activities among themselves and with foreign authorities and bodies.
 
-[^174b-1]: Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^174b-3]: Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### III<sup>ter</sup>. Recognition of foreign decisions on avoidance claims and similar decisions
 
 #### Art. 174c
 
-[^174c-1]
+[^174c-3]
 
 Foreign judgments on avoidance claims or otherwise relating to acts prejudicial to creditors, which are closely connected with a bankruptcy decree recognised in Switzerland, shall be recognised in accordance with Articles 25–27 if they were rendered or are recognised in the state of origin of the bankruptcy decree and the defendant was not domiciled in Switzerland.
 
-[^174c-1]: Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
+[^174c-3]: Inserted by No I of the FA of 16 March 2018, in force since 1 Jan. 2019 ([AS 2018 3263](https://fedlex.data.admin.ch/eli/oc/2018/527); [BBl 2017 4125](https://fedlex.data.admin.ch/eli/fga/2017/1054)).
 
 ### IV. Composition and similar procedures.
 
@@ -2549,7 +2557,7 @@ A composition or a similar procedure approved by a foreign authority shall be re
 
 #### Art. 179
 
-[^179-1]
+[^181-1]
 
 <sup>1</sup> The members of the arbitral tribunal shall be appointed or replaced in accordance with the agreement between the parties. Unless the parties agree otherwise, the arbitral tribunal shall comprise three members, with the parties each appointing one member; the members shall appoint a chairperson by unanimous decision.
 
@@ -2563,7 +2571,7 @@ A composition or a similar procedure approved by a foreign authority shall be re
 
 <sup>6</sup> A person who is asked to become a member of the arbitral tribunal shall without delay disclose the existence of circumstances that could give rise to legitimate doubt as to his or her independence or impartiality. This obligation applies throughout the entire proceedings.
 
-[^179-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^181-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 2. Challenging members of the arbitral tribunals
 
@@ -2577,20 +2585,20 @@ A composition or a similar procedure approved by a foreign authority shall be re
 
 <sup>1</sup>
 
-A member of the arbitral tribunal may be challenged:[^180-1]
+A member of the arbitral tribunal may be challenged:[^186-1]
 
 - a. if they lack the qualifications agreed by the parties;
 - b. if there is a ground for challenge in accordance with the rules of arbitration adopted by the parties; or
-- c.[^180-2] if circumstances exist that give rise to legitimate doubt as to his or her independence or impartiality.
+- c.[^186-2] if circumstances exist that give rise to legitimate doubt as to his or her independence or impartiality.
 
-<sup>2</sup> A party may challenge a member of the arbitral tribunal who has been appointed by that party or in whose appointment that party has participated only on grounds that have come to their attention after the appointment despite exercising due diligence.[^180-3]
+<sup>2</sup> A party may challenge a member of the arbitral tribunal who has been appointed by that party or in whose appointment that party has participated only on grounds that have come to their attention after the appointment despite exercising due diligence.[^186-3]
 
-<sup>3</sup> ...[^180-4]
+<sup>3</sup> ...[^186-4]
 
-[^180-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-2]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-3]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-4]: Repealed by No 1 of the FA of 19 June 2020, with effect from 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^186-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^186-2]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^186-3]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^186-4]: Repealed by No 1 of the FA of 19 June 2020, with effect from 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### b. Procedure
 
@@ -2622,11 +2630,11 @@ A member of the arbitral tribunal may be challenged:[^180-1]
 
 #### Art. 181
 
-[^181-1]
+[^181-2]
 
 The arbitral proceedings become pending from the time when one of the parties submits its request to the member of the arbitral tribunal designated in the arbitration agreement or, in the absence of such designation, from the time when one of the parties initiates the procedure for constituting the arbitral tribunal.
 
-[^181-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^181-2]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### VI. Procedure
 
@@ -2634,16 +2642,16 @@ The arbitral proceedings become pending from the time when one of the parties su
 
 #### Art. 182
 
-<sup>1</sup> The parties may determine the arbitral procedure, either themselves or by reference to arbitration rules; they may also make the procedure subject to a procedural law of their choice.[^182-1]
+<sup>1</sup> The parties may determine the arbitral procedure, either themselves or by reference to arbitration rules; they may also make the procedure subject to a procedural law of their choice.[^192-1]
 
 <sup>2</sup> Where the parties have not determined the procedure, the arbitral tribunal shall determine it to the extent necessary, either directly or by reference to a law or to arbitration rules.
 
 <sup>3</sup> Regardless of the procedure chosen, the arbitral tribunal shall guarantee the equal treatment of the parties and their right to be heard in adversarial proceedings.
 
-<sup>4</sup> A party that continues with the arbitration proceedings without objecting immediately to a breach of the rules of procedure of which it is aware or which it would have been aware had it exercised due diligence may not invoke this breach at a later point in the proceedings.[^182-2]
+<sup>4</sup> A party that continues with the arbitration proceedings without objecting immediately to a breach of the rules of procedure of which it is aware or which it would have been aware had it exercised due diligence may not invoke this breach at a later point in the proceedings.[^192-2]
 
-[^182-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^182-2]: Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^192-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^192-2]: Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 2. Interim and conservatory measures
 
@@ -2651,12 +2659,12 @@ The arbitral proceedings become pending from the time when one of the parties su
 
 <sup>1</sup> Unless the parties have agreed otherwise, the arbitral tribunal may, at the request of a party, order interim measures or conservatory measures.
 
-<sup>2</sup> If the party concerned does not comply voluntarily with the measure ordered, the arbitral tribunal or a party may request the assistance of the competent court. The court shall apply its own law.[^183-1]
+<sup>2</sup> If the party concerned does not comply voluntarily with the measure ordered, the arbitral tribunal or a party may request the assistance of the competent court. The court shall apply its own law.[^193-1]
 
-<sup>3</sup> The arbitral tribunal or the state court[^183-2] may make the interim or conservatory measures subject to the provision of appropriate security.
+<sup>3</sup> The arbitral tribunal or the state court[^193-2] may make the interim or conservatory measures subject to the provision of appropriate security.
 
-[^183-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^183-2]: Term in accordance with No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)). This amendment has been made throughout the text.
+[^193-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^193-2]: Term in accordance with No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)). This amendment has been made throughout the text.
 
 ### 3. Taking of evidence
 
@@ -2664,12 +2672,12 @@ The arbitral proceedings become pending from the time when one of the parties su
 
 <sup>1</sup> The arbitral tribunal takes the evidence itself.
 
-<sup>2</sup> Where state legal assistance is required for the taking of evidence, the arbitral tribunal or a party with the consent of the arbitral tribunal may request the participation of the state court at the seat of the arbitral tribunal.[^184-1]
+<sup>2</sup> Where state legal assistance is required for the taking of evidence, the arbitral tribunal or a party with the consent of the arbitral tribunal may request the participation of the state court at the seat of the arbitral tribunal.[^194-1]
 
-<sup>3</sup> The state court shall apply its own law. On request, it may apply or take account of other forms of procedure.[^184-2]
+<sup>3</sup> The state court shall apply its own law. On request, it may apply or take account of other forms of procedure.[^194-2]
 
-[^184-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^184-2]: Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^194-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^194-2]: Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### 4. Other assistance by a state court
 
@@ -2695,13 +2703,13 @@ If any further assistance by a state court is required, the court at the seat of
 
 <sup>1</sup> The arbitral tribunal shall decide on its own jurisdiction.
 
-<sup>1bis</sup> It shall decide on its jurisdiction without regard to any action having the same subject matter that is already pending between the same parties before a state court or another arbitral tribunal, unless there are substantial grounds for a stay in proceedings.[^186-1]
+<sup>1bis</sup> It shall decide on its jurisdiction without regard to any action having the same subject matter that is already pending between the same parties before a state court or another arbitral tribunal, unless there are substantial grounds for a stay in proceedings.[^186-5]
 
 <sup>2</sup> Any objection to its jurisdiction must be raised prior to any defence on the merits.
 
 <sup>3</sup> The arbitral tribunal shall, in general, decide on its jurisdiction by a preliminary decision.
 
-[^186-1]: Inserted by No I of the FA of 6 Oct. 2006 (Arbitration, Jurisdiction), in force since 1 March 2007 ([AS 2007 387](https://fedlex.data.admin.ch/eli/oc/2007/75); [BBl 2006 4677](https://fedlex.data.admin.ch/eli/fga/2006/551)[4691](https://fedlex.data.admin.ch/eli/fga/2006/553)).
+[^186-5]: Inserted by No I of the FA of 6 Oct. 2006 (Arbitration, Jurisdiction), in force since 1 March 2007 ([AS 2007 387](https://fedlex.data.admin.ch/eli/oc/2007/75); [BBl 2006 4677](https://fedlex.data.admin.ch/eli/fga/2006/551)[4691](https://fedlex.data.admin.ch/eli/fga/2006/553)).
 
 ### VIII. Decision on the merits
 
@@ -2751,7 +2759,7 @@ Unless the parties have agreed otherwise, the arbitral tribunal may render parti
 
 [^189a-1]: Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
-### IX. Finality, Action to set aside, Review
+### IX. Finality, Action to contest, Review
 
 ### 1. Action to set aside
 
@@ -2765,7 +2773,7 @@ Unless the parties have agreed otherwise, the arbitral tribunal may render parti
 
 <sup>2</sup>
 
-An arbitral award may be set aside only:
+An arbitral award may be contested only:
 
 - a. where the sole member of the arbitral tribunal[^190-1] was improperly appointed or the arbitral tribunal improperly constituted;
 - b. where the arbitral tribunal wrongly accepted or declined jurisdiction;
@@ -2773,9 +2781,9 @@ An arbitral award may be set aside only:
 - d. where the principle of equal treatment of the parties or their right to be heard in an adversary procedure were violated;
 - e. where the award is incompatible with public policy.
 
-<sup>3</sup> As regards preliminary awards, setting aside proceedings may only be initiated on the grounds of the above paragraphs 2(a) and 2(b); the time-limit runs from the communication of the award.
+<sup>3</sup> Preliminary awards may only be contested on the grounds of the above paragraphs 2 letters a and b; the time-limit for filing the appeal runs from the communication of the award.
 
-<sup>4</sup> The deadline for filing the appeal amounts to 30 days from the award being communicated.[^190-2]
+<sup>4</sup> The time-limit for filing the appeal amounts to 30 days from the award being communicated.[^190-2]
 
 [^190-1]: Term in accordance with No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 [^190-2]: Inserted by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
@@ -2813,12 +2821,12 @@ The only appeal authority is the Swiss Federal Supreme Court. The procedures are
 
 #### Art. 192
 
-<sup>1</sup> If none of the parties has their domicile, habitual residence or seat in Switzerland, they may, by a declaration in the arbitration agreement or by subsequent agreement, wholly or partly exclude all appeals against arbitral awards; the right to a review under Article 190*a* paragraph 1 letter b may not be waived. The agreement requires the form specified in Article 178 paragraph 1.[^192-1]
+<sup>1</sup> If none of the parties has their domicile, habitual residence or seat in Switzerland, they may, by a declaration in the arbitration agreement or by subsequent agreement, wholly or partly exclude all appeals against arbitral awards; the right to a review under Article 190*a* paragraph 1 letter b may not be waived. The agreement requires the form specified in Article 178 paragraph 1.[^192-3]
 
-<sup>2</sup> Where the parties have excluded all setting aside proceedings and where the awards are to be enforced in Switzerland, the New York Convention of 10 June 1958[^192-2] on the Recognition and Enforcement of Foreign Arbitral Awards applies by analogy.
+<sup>2</sup> Where the parties have excluded all setting aside proceedings and where the awards are to be enforced in Switzerland, the New York Convention of 10 June 1958[^192-4] on the Recognition and Enforcement of Foreign Arbitral Awards applies by analogy.
 
-[^192-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^192-2]: [SR 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
+[^192-3]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^192-4]: [SR 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 ### XI. Deposit and certificate of enforceability
 
@@ -2828,22 +2836,22 @@ The only appeal authority is the Swiss Federal Supreme Court. The procedures are
 
 #### Art. 193
 
-<sup>1</sup> Each party may at its own expense deposit a copy of the award with the state court at the seat of the arbitral tribunal.[^193-1]
+<sup>1</sup> Each party may at its own expense deposit a copy of the award with the state court at the seat of the arbitral tribunal.[^193-3]
 
-<sup>2</sup> At the request of a party, the state court at the seat of the arbitral tribunal shall certify the enforceability of the award.[^193-2]
+<sup>2</sup> At the request of a party, the state court at the seat of the arbitral tribunal shall certify the enforceability of the award.[^193-4]
 
 <sup>3</sup> At the request of a party, the arbitral tribunal shall certify that the award has been made in conformity with the provisions of this Act; such certificate has the same effect as the deposit of the award.
 
-[^193-1]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^193-2]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^193-3]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^193-4]: Amended by No 1 of the FA of 19 June 2020, in force since 1 Jan. 2021 ([AS 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [BBl 2018 7163](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### XII. Foreign arbitral awards
 
 #### Art. 194
 
-The recognition and enforcement of foreign arbitral awards is governed by the New York Convention of 10 June 1958[^194-1] on the Recognition and Enforcement of Foreign Arbitral Awards.
+The recognition and enforcement of foreign arbitral awards is governed by the New York Convention of 10 June 1958[^194-3] on the Recognition and Enforcement of Foreign Arbitral Awards.
 
-[^194-1]: [SR 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
+[^194-3]: [SR 0.277.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1278)
 
 ## Chapter 13 Final Provisions
 

@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 1987 sul diritto internazionale privato (L
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20250101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/it"
 
 (LDIP)
 
-del 18 dicembre 1987 (Stato 1° gennaio 2025)
+del 18 dicembre 1987 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -173,23 +173,31 @@ Sono competenti a prendere provvedimenti cautelari:
 
 [^10-1]: Nuovo testo giusta l’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
-### XIII. Assistenza giudiziaria
-
-### 1. Mediazione per l’assistenza giudiziaria
-
-[^chap1-sec2-lvlXIII-lvl1-1]
-
-[^chap1-sec2-lvlXIII-lvl1-1]: Nuovo testo giusta l’art. 3 n. 3 del DF dell’11 dic. 2009 (approvazione ed esecuzione della Conv. di Lugano), in vigore dal 1° gen. 2011 ([RU 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [FF 2009 1435](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+### 1. Principio
 
 #### Art. 11
 
 [^11-1]
 
-L’assistenza giudiziaria da e verso la Svizzera avviene per il tramite dell’Ufficio federale di giustizia.
+XIII. Assistenza giudiziaria
 
-[^11-1]: Nuovo testo giusta l’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>1</sup> Le attività sovrane esercitate in Svizzera nell’ambito di un procedimento civile estero, segnatamente la notificazione di atti giudiziali ed extragiudiziali e l’assunzione di prove, sono svolte mediante assistenza giudiziaria. Si applicano i capitoli I e II della Convenzione dell’Aia del 1° marzo 1954[^11-2] relativa alla procedura civile.
 
-### 2. Diritto applicabile
+<sup>2</sup> La parte processuale che soggiorna in Svizzera può tuttavia essere invitata direttamente a trasmettere suoi atti scritti o mezzi di prova, sempreché tale invito avvenga senza comminatoria di pena e sia notificato mediante assistenza giudiziaria.
+
+<sup>3</sup> Le persone che soggiornano in Svizzera possono inoltre partecipare a un’udienza all’estero mediante conferenza telefonica o videoconferenza o mediante un altro strumento elettronico di trasmissione audiovisiva oppure essere interrogate secondo le stesse modalità da una persona autorizzata da un’autorità estera. Il capitolo II della Convenzione dell’Aia del 18 marzo 1970[^11-3] sull’assunzione all’estero delle prove in materia civile o commerciale si applica per analogia.
+
+<sup>4</sup> Salvo che il diritto federale disponga altrimenti, l’assistenza giudiziaria da e verso la Svizzera avviene per il tramite dell’Ufficio federale di giustizia.
+
+[^11-1]: Nuovo testo giusta l’all. del DF del 20 dic. 2024 concernente l’impiego dei mezzi di comunicazione elettronici nei procedimenti civili internazionali, in vigore dal 1° gen. 2026 ([RU 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [FF 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
+[^11-2]: [RS 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11-3]: [RS 0.274.132](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1201)
+
+### 2. Esecuzione
+
+[^chap1-sec2-lvlXII-lvl2-1]
+
+[^chap1-sec2-lvlXII-lvl2-1]: Nuovo testo giusta l’all. del DF del 20 dic. 2024 concernente l’impiego dei mezzi di comunicazione elettronici nei procedimenti civili internazionali, in vigore dal 1° gen. 2026 ([RU 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [FF 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 #### Art. 11a
 
@@ -201,10 +209,10 @@ L’assistenza giudiziaria da e verso la Svizzera avviene per il tramite dell’
 
 <sup>3</sup> I tribunali e le autorità svizzeri possono stilare documenti secondo le forme del diritto straniero o ricevere la dichiarazione giurata di un richiedente qualora una forma prevista dal diritto svizzero non sia riconosciuta all’estero e quivi non si possa pertanto attuare una pretesa degna di protezione.
 
-<sup>4</sup> Alle rogatorie di notifica o di assunzioni di prove in Svizzera e dalla Svizzera è applicabile la Convenzione dell’Aia del 1° marzo 1954[^11a-2] relativa alla procedura civile.
+<sup>4</sup> ...[^11a-2]
 
 [^11a-1]: Introdotto dall’all. 1 cifra II n. 18 del Codice di procedura civile del 19 dic. 2008, in vigore dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11a-2]: [RS 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11a-2]: Abrogato dall’all. del DF del 20 dic. 2024 concernente l’impiego dei mezzi di comunicazione elettronici nei procedimenti civili internazionali, con effetto dal 1° gen. 2026 ([RU 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [FF 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 ### 3. Anticipazione delle spese e cauzione per le spese ripetibili
 
@@ -2560,17 +2568,17 @@ Se pronunciato dall’autorità competente, il decreto straniero che omologa il 
 Un arbitro può essere ricusato se:
 
 - a. non soddisfa ai requisiti convenuti dalle parti;
-- b.[^180-1] vi è un motivo di ricusa contemplato dall’ordinamento procedurale convenuto dalle parti; o
-- c.[^180-2] vi sono circostanze tali da far dubitare legittimamente della sua indipendenza o imparzialità.
+- b.[^180b-1] vi è un motivo di ricusa contemplato dall’ordinamento procedurale convenuto dalle parti; o
+- c.[^180b-2] vi sono circostanze tali da far dubitare legittimamente della sua indipendenza o imparzialità.
 
-<sup>2</sup> Una parte può ricusare un arbitro da lei nominato, o alla cui nomina ha partecipato, unicamente per motivi di cui, nonostante abbia usato la dovuta attenzione, è venuta a conoscenza soltanto dopo la nomina.[^180-3]
+<sup>2</sup> Una parte può ricusare un arbitro da lei nominato, o alla cui nomina ha partecipato, unicamente per motivi di cui, nonostante abbia usato la dovuta attenzione, è venuta a conoscenza soltanto dopo la nomina.[^180b-3]
 
-<sup>3</sup> *...*[^180-4]
+<sup>3</sup> *...*[^180b-4]
 
-[^180-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-2]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
-[^180-4]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180b-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180b-2]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180b-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^180b-4]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### b. Procedura
 
@@ -2650,13 +2658,13 @@ Il procedimento arbitrale è pendente appena una parte adisca l’arbitro o gli 
 
 Se è necessaria un’ulteriore collaborazione giudiziale, il giudice competente è quello del luogo di sede del tribunale arbitrale.
 
-**Art. 185**a[^185-1]
+**Art. 185**a[^185a-1]
 
 <sup>1</sup> Un tribunale arbitrale con sede all’estero o una parte a un procedimento arbitrale estero può chiedere la collaborazione del giudice del luogo in cui deve essere eseguito un provvedimento cautelare o conservativo. L’articolo 183 capoversi 2 e 3 si applica per analogia.
 
 <sup>2</sup> Un tribunale arbitrale con sede all’estero o, con il suo consenso, una parte a un procedimento arbitrale estero può chiedere la collaborazione del giudice del luogo in cui si deve procedere all’assunzione delle prove. L’articolo 184 capoversi 2 e 3 si applica per analogia.
 
-[^185-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
+[^185a-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4179](https://fedlex.data.admin.ch/eli/oc/2020/767); [FF 2018 6019](https://fedlex.data.admin.ch/eli/fga/2018/2548)).
 
 ### VII. Competenza
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (
 short: IPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20250101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20260101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20250101/de"
 
 (IPRG)
 
-vom 18. Dezember 1987 (Stand am 1. Januar 2025)
+vom 18. Dezember 1987 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -175,21 +175,29 @@ Zuständig zur Anordnung vorsorglicher Massnahmen sind:
 
 ### XIII. Rechtshilfe
 
-### 1. Vermittlung der Rechtshilfe
-
-[^chap1-sec2-lvlXIII-lvl1-1]
-
-[^chap1-sec2-lvlXIII-lvl1-1]: Fassung gemäss Art. 3 Ziff. 3 des BB vom 11. Dez. 2009 (Genehmigung und Umsetzung des Lugano-Übereink.), in Kraft seit 1. Jan. 2011 ([AS 2010 5601](https://fedlex.data.admin.ch/eli/oc/2010/800); [BBl 2009 1777](https://fedlex.data.admin.ch/eli/fga/2009/402)).
+### 1. Grundsatz
 
 #### Art. 11
 
 [^11-1]
 
-Die Rechtshilfe zwischen der Schweiz und anderen Staaten wird durch das Bundesamt für Justiz vermittelt.
+<sup>1</sup> Hoheitliche Handlungen, die im Rahmen eines ausländischen Zivilverfahrens in der Schweiz vorgenommen werden, insbesondere die Zustellung von gerichtlichen und aussergerichtlichen Schriftstücken und Beweisaufnahmehandlungen, haben mittels Rechtshilfe zu erfolgen. Es gelten die Kapitel I und II der Haager Übereinkunft vom 1. März 1954[^11-2] betreffend Zivilprozessrecht.
 
-[^11-1]: Fassung gemäss Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+<sup>2</sup> Eine Prozesspartei, die sich in der Schweiz aufhält, kann jedoch unmittelbar zur Übermittlung von Eingaben oder Beweismitteln aufgefordert werden, wenn die Aufforderung ohne Strafandrohung erfolgt und auf dem Rechtshilfeweg zugestellt wird.
 
-### 2. Anwendbares Recht
+<sup>3</sup> Personen, die sich in der Schweiz aufhalten, können überdies mittels Telefon- oder Videokonferenz oder eines anderen elektronischen Mittels zur Ton- oder Bildübertragung an einer Verhandlung im Ausland teilnehmen oder auf dieselbe Weise von einer durch eine ausländische Behörde ermächtigten Person befragt werden. Kapitel II des Haager Übereinkommens vom 18. März 1970[^11-3] über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen gilt sinngemäss.
+
+<sup>4</sup> Soweit das Bundesrecht nichts Anderes vorsieht, wird die Rechtshilfe zwischen der Schweiz und anderen Staaten durch das Bundesamt für Justiz vermittelt.
+
+[^11-1]: Fassung gemäss Anhang des BB vom 20. Dez. 2024 über den Einsatz elektronischer Kommunikationsmittel in grenzüberschreitenden Zivilprozessen, in Kraft seit 1. Jan. 2026 ([AS 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [BBl 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
+[^11-2]: [SR 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11-3]: [SR 0.274.132](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1201)
+
+### 2. Durchführung
+
+[^chap1-sec2-lvlXIII-lvl2-1]
+
+[^chap1-sec2-lvlXIII-lvl2-1]: Fassung gemäss Anhang des BB vom 20. Dez. 2024 über den Einsatz elektronischer Kommunikationsmittel in grenzüberschreitenden Zivilprozessen, in Kraft seit 1. Jan. 2026 ([AS 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [BBl 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 #### Art. 11a
 
@@ -201,10 +209,10 @@ Die Rechtshilfe zwischen der Schweiz und anderen Staaten wird durch das Bundesam
 
 <sup>3</sup> Die schweizerischen Gerichte oder Behörden können Urkunden nach einer Form des ausländischen Rechts ausstellen oder einem Gesuchsteller die eidesstattliche Erklärung abnehmen, wenn eine Form nach schweizerischem Recht im Ausland nicht anerkannt wird und deshalb ein schützenswerter Rechtsanspruch dort nicht durchgesetzt werden könnte.
 
-<sup>4</sup> Bei Rechtshilfeersuchen um Zustellung oder um Beweiserhebung in die Schweiz und aus der Schweiz ist die Haager Übereinkunft vom 1. März 1954[^11a-2] betreffend Zivilprozessrecht anwendbar.
+<sup>4</sup> …[^11a-2]
 
 [^11a-1]: Eingefügt durch Anhang 1 Ziff. II 18 der Zivilprozessordnung vom 19. Dez. 2008, in Kraft seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
-[^11a-2]: [SR 0.274.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1199)
+[^11a-2]: Aufgehoben durch Anhang des BB vom 20. Dez. 2024 über den Einsatz elektronischer Kommunikationsmittel in grenzüberschreitenden Zivilprozessen, mit Wirkung seit 1. Jan. 2026 ([AS 2025 684](https://fedlex.data.admin.ch/eli/oc/2025/684); [BBl 2024 792](https://fedlex.data.admin.ch/eli/fga/2024/792)).
 
 ### 3. Kostenvorschuss und Sicherheit für die Parteientschädigung
 
