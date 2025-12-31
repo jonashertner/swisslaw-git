@@ -3,20 +3,19 @@ canton: SO
 number: "212.472"
 title: Verordnung über die Führung des Grundbuches
 language: de
-version: 2023-05-01
-valid_until: 2025-12-31
-version_adopted: 2023-01-23
+version: 2026-01-01
+version_adopted: 2025-04-29
 adopted: 1995-09-26
 in_force: 1996-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/212.472"
-pdf: "https://bgs.so.ch/api/de/versions/5328/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5547/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Führung des Grundbuches
 
-Vom 26.09.1995 (Stand 01.05.2023)
+Vom 26.09.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -165,7 +164,7 @@ beschliesst:
 - a) Handänderungen sowie grundbuchliche Vorgänge, die Auswirkungen auf die Katasterschätzung haben, dem Sekretariat der Katasterschätzung; bei Handänderungen wird auch die Gegenleistung gemeldet;
 - b) Handänderungen sowie Änderungen der Grundbuchnummer von Gebäudegrundstücken der Solothurnischen Gebäudeversicherung;
 - c) Handänderungen sowie Änderungen der Grundbuchnummer von Grundstücken mit der Anmerkung Altertümerschutz der zuständigen kantonalen Stelle;
-- d) Handänderungen sowie Änderungen der Grundbuchnummer von Grundstücken mit der Anmerkung eines öffentlichen Vermessungszeichens dem Kantonsgeometer;
+- d) …
 - e) rechtsgeschäftliche Übertragungen von Wasserrechten an öffentlichen Gewässern dem Amt für Umwelt zuhanden des Wasserrechtskatasters;
 - f) Handänderungen, an denen eine solothurnische Gemeinde als Partei beteiligt ist, mit Angabe der Gegenleistung, dem Amt für Gemeinden;
 - g) Handänderungen an die Einwohnergemeinde, in deren Gebiet das Grundstück liegt.
