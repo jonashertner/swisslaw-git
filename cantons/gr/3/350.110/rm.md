@@ -4,13 +4,12 @@ number: "350.110"
 title: Ordinaziun tar la lescha introductiva tar il cudesch da procedura penala svizzer
 short: ORtLItCPP
 language: rm
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-19
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/350.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3351/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3615/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3351/pdf_file"
 
 (ORtLItCPP)
 
-dals 21-12-2010 (versiun dals 01-01-2024)
+dals 21-12-2010 (versiun dals 01-01-2026)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] sco er sin ils art. 7 al. 4, 11 al. 2, 29 al. 2, 34 al. 1 lit. c e d, 34 al. 2, 37 al. 4 lit. a e 41 al. 2 da la lescha introductiva tar il cudesch da procedura penala svizzer[^ingress-2]
 
@@ -125,9 +124,11 @@ relaschada da la regenza ils 21 da december 2010
 
 <sup>5</sup> A l'Uffizi da migraziun e da dretg civil ston vegnir communitgadas las decisiuns legalmain valaivlas, sche quest uffizi è cumpetent per lur execuziun, e las decisiuns legalmain valaivlas che pertutgan il dretg da gieus per daners.
 
-<sup>6</sup> A la polizia chantunala ston vegnir communitgads condemnaziuns, acquittaments, sistidas e disposiziuns da betg avrir l'inquisiziun penala.
+<sup>6</sup> A la Polizia chantunala ston vegnir communitgads condemnaziuns, acquittaments, sistidas, disposiziuns da betg avrir l'inquisiziun penala sco er decisiuns tenor l'artitgel 55a alinea 2 dal Cudesch penal svizzer[^6-2] e tenor l'artitgel 46b alinea 2 da la Lescha penala militara[^6-3].
 
 [^6-1]: CS [312.0](https://db.clex.ch/link/Bund/312.0/rm)
+[^6-2]: CS [311.0](https://db.clex.ch/link/Bund/311.0/rm)
+[^6-3]: CS [321.0](https://db.clex.ch/link/Bund/321.0/rm)
 
 #### Art. 7
 

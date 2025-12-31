@@ -4,13 +4,12 @@ number: "350.110"
 title: "Ordinanza della legge d'applicazione del Codice di diritto processuale penale svizzero"
 short: OLACPP
 language: it
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-19
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/350.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3351/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3615/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3351/pdf_file"
 
 (OLACPP)
 
-del 21.12.2010 (stato 01.01.2024)
+del 21.12.2010 (stato 01.01.2026)
 
 emanata dal Governo il 21 dicembre 2010
 
@@ -125,9 +124,11 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1], nonché l'art. 
 
 <sup>5</sup> All'Ufficio della migrazione e del diritto civile devono essere comunicate le decisioni passate in giudicato la cui esecuzione è di sua competenza e le decisioni passate in giudicato che riguardano il diritto in materia di giochi in denaro.
 
-<sup>6</sup> Condanne, assoluzioni, abbandoni e decreti di non luogo a procedere devono essere comunicati alla Polizia cantonale.
+<sup>6</sup> Condanne, assoluzioni, abbandoni, decreti di non luogo a procedere e decisioni devono essere comunicati alla Polizia cantonale conformemente all'articolo 55a capoverso 2 del Codice penale svizzero[^6-2] e all'articolo 46b capoverso 2 del Codice penale militare[^6-3].
 
 [^6-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
+[^6-2]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
+[^6-3]: RS [321.0](https://db.clex.ch/link/Bund/321.0/it)
 
 #### Art. 7
 

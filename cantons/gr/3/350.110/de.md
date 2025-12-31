@@ -4,13 +4,12 @@ number: "350.110"
 title: Verordnung zum Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: RVzEGzStPO
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-19
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/350.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3351/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3615/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3351/pdf_file"
 
 (RVzEGzStPO)
 
-Vom 21.12.2010 (Stand 01.01.2024)
+Vom 21.12.2010 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] sowie Art. 7 Abs. 4, Art. 11 Abs. 2, Art. 29 Abs. 2, Art. 34 Abs. 1 lit. c und d, Art. 34 Abs. 2, Art. 37 Abs. 4 lit. a und Art. 41 Abs. 2 Einführungsgesetz zur Schweizerischen Strafprozessordnung[^ingress-2]
 
@@ -125,9 +124,11 @@ von der Regierung erlassen am 21. Dezember 2010
 
 <sup>5</sup> Dem Amt für Migration und Zivilrecht sind die rechtskräftigen Entscheide mitzuteilen, für deren Vollzug es zuständig ist, und die rechtskräftigen Entscheide, die das Geldspielrecht betreffen.
 
-<sup>6</sup> Der Kantonspolizei sind Verurteilungen, Freisprüche, Einstellungen und Nichtanhandnahmeverfügungen mitzuteilen.
+<sup>6</sup> Der Kantonspolizei sind Verurteilungen, Freisprüche, Einstellungen, Nichtanhandnahmeverfügungen und Entscheide gemäss Artikel 55a Absatz 2 des Schweizerischen Strafgesetzbuches[^6-2] und Artikel 46b Absatz 2 des Militärstrafgesetzes[^6-3] mitzuteilen.
 
 [^6-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^6-2]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+[^6-3]: SR [321.0](https://db.clex.ch/link/Bund/321.0/de)
 
 #### Art. 7
 
