@@ -3,20 +3,19 @@ canton: GL
 number: I A/1/1
 title: Verfassung des Kantons Glarus
 language: de
-version: 2025-10-21
-valid_until: 2025-12-31
-version_adopted: 2010-05-02
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 1988-05-01
 in_force: 1988-05-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-A.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2602/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2603/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Glarus
 
-Vom 01.05.1988 (Stand 21.10.2025)
+Vom 01.05.1988 (Stand 01.01.2026)
 
 Das Volk des Landes Glarus, eingedenk seiner Verantwortung vor Gott, den Menschen und der Schweizerischen Eidgenossenschaft, gibt sich folgende
 
@@ -1177,7 +1176,7 @@ Verfassung:
 
 <sup>1</sup> Der Kanton fördert die Zusammenarbeit der Gemeinden.
 
-<sup>2</sup> Die Gemeinden und die Zweckverbände arbeiten bei der Erfüllung aller Aufgaben, die im gemeinsamen Interesse liegen, mit andern Gemeinden oder Zweckverbänden zusammen.
+<sup>2</sup> Die Gemeinden und die Zweckverbände arbeiten bei der Erfüllung aller Aufgaben, die im gemeinsamen Interesse liegen, mit andern Gemeinden sowie mit Kanton und Bund oder Zweckverbänden zusammen, wenn letztere auf ihrem Gebiet öffentliche Aufgaben erfüllen.
 
 <sup>3</sup> …
 
@@ -1193,9 +1192,9 @@ Verfassung:
 
 **Gemeindeautonomie**
 
-<sup>1</sup> Die Gemeinden besorgen alle örtlichen Angelegenheiten, für die weder der Bund noch der Kanton ausschliesslich zuständig sind.
+<sup>1</sup> Die Gemeinden besorgen alle örtlichen Angelegenheiten und öffentlichen Aufgaben, für die weder der Bund noch der Kanton ausschliesslich zuständig sind.
 
-<sup>2</sup> Sie bestimmen, soweit Verfassung und Gesetz nichts anderes vorsehen, ihre Organisation durch Erlass einer Gemeindeordnung selbst, wählen ihre Behörden, Angestellten und Lehrpersonen und erfüllen ihre Aufgaben nach eigenem Ermessen.
+<sup>2</sup> Sie bestimmen, soweit Verfassung und Gesetz nichts anderes vorsehen, ihre Organisation durch Erlass einer Gemeindeordnung selbst, wählen ihre Behörden und Angestellten und erfüllen ihre Aufgaben nach pflichtgemässem Ermessen.
 
 #### Art. 120
 
@@ -1249,15 +1248,21 @@ Verfassung:
 
 **Gemeindeorgane**
 
-<sup>1</sup> Notwendige Gemeindeorgane sind:
+<sup>1</sup> In den Gemeinden ohne Gemeindeparlament sind die notwendigen Gemeindeorgane:
 
 - a. die Stimmberechtigten;
 - b. die Vorsteherschaft;
-- c. die Geschäftsprüfungskommission der Gemeinde respektive ein Rechnungsprüfungsorgan einer Kirchgemeinde.
+- c. die Geschäftsprüfungskommission der Gemeinde respektive das Rechnungsprüfungsorgan der Kirchgemeinde.
+
+<sup>1a</sup> In den Gemeinden mit Gemeindeparlament sind die notwendigen Gemeindeorgane:
+
+- a. die Stimmberechtigten;
+- b. das Gemeindeparlament;
+- c. die Vorsteherschaft.
 
 <sup>2</sup> In der Gemeinde bildet der Gemeinderat die Vorsteherschaft, in der Kirchgemeinde der Kirchenrat.
 
-<sup>3</sup> Die Gemeinden können ein Gemeindeparlament einführen. Es umfasst mindestens 20 Mitglieder und konstituiert sich im Rahmen von Gesetz und Gemeindeordnung selbst.
+<sup>3</sup> Das Gemeindeparlament umfasst mindestens 20 Mitglieder. Gesetz und Gemeindeordnung regeln dessen Organisation und die Ausübung des Stimmrechts.
 
 #### Art. 129
 
@@ -1271,15 +1276,15 @@ Verfassung:
 
 **Gemeindeversammlung, Urnenwahl und Urnenabstimmung**
 
-<sup>1</sup> Die Stimmberechtigten üben das Stimmrecht grundsätzlich an der Gemeindeversammlung aus; diese tritt nach Bedarf, jährlich aber mindestens einmal, zusammen.
+<sup>1</sup> Die Stimmberechtigten üben das Stimmrecht an der Gemeindeversammlung aus; diese tritt gemäss Gesetz und Gemeindeordnung zusammen.
 
-<sup>2</sup> Eine ausserordentliche Gemeindeversammlung findet statt, wenn die Vorsteherschaft es beschliesst, wenn es von der im Gesetz bezeichneten Anzahl Stimmberechtigten unter Angabe der zu behandelnden Geschäfte verlangt wird oder wenn der Regierungsrat eine solche anordnet.
+<sup>2</sup> Eine ausserordentliche Gemeindeversammlung findet statt, wenn die Vorsteherschaft oder das Gemeindeparlament es beschliesst, wenn es von der im Gesetz bezeichneten Anzahl Stimmberechtigten unter Angabe der zu behandelnden Geschäfte verlangt wird oder wenn der Regierungsrat eine solche anordnet.
 
-<sup>3</sup> Für bestimmte Angelegenheiten können Gesetz oder Gemeindeordnung die Urnenwahl oder Urnenabstimmung vorsehen. Die Gemeindeversammlung kann ausnahmsweise auch in andern Fällen die Urnenwahl oder die Urnenabstimmung beschliessen.
+<sup>3</sup> Gesetz oder Gemeindeordnung können die Urnenwahl oder Urnenabstimmung vorsehen bzw. ausschliessen. Die Gemeindeversammlung kann ausnahmsweise auch in andern Fällen die Urnenwahl beschliessen.
 
 <sup>4</sup> Die Mitglieder des Gemeindeparlaments werden an der Urne nach dem Verhältniswahlverfahren gewählt; das Gesetz regelt die Wahlkreise.
 
-<sup>5</sup> Der Gemeindepräsident sowie die Mitglieder des Gemeinderates werden an der Urne nach dem Mehrheitswahlverfahren gewählt.
+<sup>5</sup> Der Präsident sowie die Mitglieder der Vorsteherschaft werden an der Urne nach dem Mehrheitswahlverfahren gewählt.
 
 <sup>6</sup> Das Gesetz legt die Zuständigkeiten und die Wahlverfahren für die übrigen Wahlen fest.
 
@@ -1290,44 +1295,48 @@ Verfassung:
 <sup>1</sup> Die Stimmberechtigten sind insbesondere zuständig für:
 
 - a. die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft;
-- b. die Wahl des Präsidenten sowie der Mitglieder der Geschäftsprüfungskommission oder die Wahl des Rechnungsprüfungsorgans;
-- c. die Wahl der übrigen Gemeindebehörden, Kommissionen und Angestellten, soweit diese nicht der Vorsteherschaft übertragen ist;
+- b. …
+- c. die Wahl der übrigen Gemeindebehörden, Kommissionen und Angestellten, soweit diese nicht nach Gesetz und Gemeindeordnung einem anderen Gemeindeorgan übertragen ist;
 - d. den Erlass der Gemeindeordnung;
-- e. den Erlass der übrigen Gemeindevorschriften, soweit dieser nicht in bestimmten Angelegenheiten der Vorsteherschaft übertragen ist;
-- f. die Festsetzung des Budgets;
-- g. die Genehmigung der Gemeinderechnungen und der zugehörigen Berichte der Geschäftsprüfungskommission respektive des Rechnungsprüfungsorgans;
-- h. Ausgabenbeschlüsse und Beschlüsse über Erwerb, Veräusserung und Belastung von Grundstücken, soweit nach der Gemeindeordnung nicht die Vorsteherschaft zuständig ist;
-- i. die Festsetzung des Gemeindesteuerfusses im Rahmen der kantonalen Steuergesetzgebung;
+- e. den Erlass der übrigen Gemeindevorschriften, soweit dieser nicht in bestimmten Angelegenheiten nach Gesetz oder Gemeindeordnung einem anderen Gemeindeorgan übertragen ist;
+- f.–g. …
+- h. Ausgabenbeschlüsse und Beschlüsse über Erwerb, Veräusserung und Belastung von Grundstücken, soweit nach Gesetz oder Gemeindeordnung nicht ein anderes Gemeindeorgan zuständig ist;
+- i. die Festsetzung des Gemeindesteuerfusses im Rahmen der kantonalen Steuergesetzgebung, soweit dies nicht nach Gesetz oder Gemeindeordnung dem Gemeindeparlament übertragen ist;
 - k. Beschlüsse über die Vereinigung oder Auflösung der Gemeinde und über Grenzänderungen;
-- l. Beschlüsse über die Mitgliedschaft in Zweckverbänden, über die Genehmigung und Änderung des Gründungsvertrags und des Organisationsstatuts sowie über den Abschluss weiterer Verträge;
-- m. weitere ihnen von der Vorsteherschaft vorgelegte Beschlüsse.
+- l. …
+- m. weitere ihnen von der Vorsteherschaft oder vom Gemeindeparlament vorgelegte Beschlüsse.
 
-<sup>2</sup> In den Gemeinden mit Gemeindeparlament sind die Stimmberechtigten obligatorisch zuständig für:
+<sup>1a</sup> In Gemeinden ohne Gemeindeparlament sind die Stimmberechtigten zusätzlich zuständig für:
+
+- a. die Wahl der Geschäftsprüfungskommission oder des Rechnungsprüfungsorgans;
+- b. die Festsetzung des Budgets;
+- c. die Genehmigung der Gemeinderechnungen und der zugehörigen Berichte des Geschäftsprüfungsorgans oder des Rechnungsprüfungsorgans;
+- d. Beschlüsse über die Mitgliedschaft in Zweckverbänden.
+
+<sup>2</sup> In den Gemeinden mit Gemeindeparlament sind die Stimmberechtigten zusätzlich zuständig für:
 
 - a. die Wahl der Mitglieder des Gemeindeparlaments;
-- b. die Wahl des Präsidenten sowie der Mitglieder der Vorsteherschaft;
-- c. den Erlass der Gemeindeordnung;
-- d. Beschlüsse nach Absatz 1 Buchstabe h im Rahmen der Gemeindeordnung sowie die Beschlüsse nach Absatz 1 Buchstaben i, k und l.
+- b.–d. …
 
 #### Art. 132
 
 **Dringliche Beschlussfassung**
 
-<sup>1</sup> Ein in die Zuständigkeit der Stimmberechtigten fallender Beschluss der Gemeinde kann in dringlichen Fällen ausnahmsweise stillschweigend gefasst werden, wenn der einstimmig gefasste Beschluss der Vorsteherschaft oder der mit absoluter Mehrheit gefasste Beschluss des Gemeindeparlaments öffentlich kundgemacht wird und wenn danach nicht die vom Gesetz bezeichnete Anzahl Stimmberechtigte innert Frist verlangt, dass der Beschluss als Antrag an die nächste Gemeindeversammlung oder die nächste Urnenabstimmung gelangt.
+<sup>1</sup> Ein in die Zuständigkeit der Stimmberechtigten fallender Beschluss kann in dringlichen Fällen ausnahmsweise stillschweigend gefasst werden, wenn:
+
+- a. der Beschluss mit einer absoluten Mehrheit des Gemeindeparlaments oder Einstimmigkeit der Vorsteherschaft gefasst wurde;
+- b. der Beschluss öffentlich kundgemacht wird;
+- c. nicht die vom Gesetz bezeichnete Anzahl Stimmberechtigte innert Frist verlangt, dass der Beschluss als Antrag den Stimmberechtigten vorgelegt wird.
 
 #### Art. 133
 
 **Fakultatives Referendum**
 
-<sup>1</sup> Gemeinden mit Gemeindeversammlung können in der Gemeindeordnung vorsehen, dass die Vorsteherschaft zuständig ist für:
+<sup>1</sup> Die Gemeinden bezeichnen in der Gemeindeordnung die Erlasse und Beschlüsse der Vorsteherschaft oder des Gemeindeparlaments, die dem fakultativen Referendum unterliegen.
 
-- a. bestimmte Gemeindeerlasse nach Artikel 131 Absatz 1 Buchstabe e;
-- b. Beschlüsse nach Artikel 131 Absatz 1 Buchstabe h bis zu einem bestimmten Betrag;
-- c. den Abschluss bestimmter Verträge nach Artikel 131 Absatz 1 Buchstabe l.
+<sup>2</sup> Das Gesetz regelt Fristen und Quoren.
 
-<sup>2</sup> Diese Erlasse und Beschlüsse unterstehen dem fakultativen Referendum; das Gesetz regelt Fristen und Quoren.
-
-<sup>3</sup> Gemeinden mit Gemeindeparlament bezeichnen in der Gemeindeordnung die Erlasse und Beschlüsse des Gemeindeparlaments, die dem fakultativen Referendum unterliegen oder die vom Gemeindeparlament den Stimmberechtigten zur Abstimmung vorgelegt werden.
+<sup>3</sup> …
 
 ### 6.4. Korporationen
 
