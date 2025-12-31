@@ -4,11 +4,11 @@ title: "Legge federale del 20 dicembre 1946 sull'assicurazione per la vecchiaia 
 short: LAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/837_843_843"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1946-12-20
 in_force: 1948-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20250101/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20250101-it-xml-25.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/837_843_843/20260101/it/xml/fedlex-data-admin-ch-eli-cc-63-837_843_843-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,10 +17,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/837_843_843/20250101/it"
 
 (LAVS)[^t-2][^t-1]
 
-del 20 dicembre 1946 (Stato 1° gennaio 2025)
+del 20 dicembre 1946 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^t-2]: Abbreviazione introdotta dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^t-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^t-2]: Abbreviazione introdotta dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,8 +28,8 @@ visto l’articolo 112 capoverso 1 della Costituzione federale[^ingress-1],[^ing
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^ingress-3]: FF **1946** 349 661. Il M del 24 set. 1946 non è pubblicato in italiano.
 
 ## Parte prima: Assicurazione
@@ -46,8 +46,8 @@ decreta:
 
 <sup>2</sup> Ad eccezione degli articoli 32 e 33 la LPGA non è applicabile alla concessione di sussidi per l’assistenza alle persone anziane (art. 101<sup>bis</sup>).[^1-2]
 
-[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^1-2]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^1-2]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 ### Capo primo *a*: Persone assicurate
 
@@ -101,18 +101,18 @@ Possono aderire all’assicurazione:
 <sup>5</sup> Il Consiglio federale precisa le condizioni per continuare l’assicurazione in virtù del capoverso 3 e per aderirvi in virtù del capoverso 4; fissa inoltre le modalità di recesso e di esclusione.[^1a-13]
 
 [^1a-1]: Originario art. 1.
-[^1a-2]: I titoli marginali diventano titoli centrali giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^1a-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^1a-4]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^1a-5]: [RS 974.0](https://fedlex.data.admin.ch/eli/cc/1977/1352_1352_1352)
-[^1a-6]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^1a-7]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^1a-8]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^1a-9]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^1a-10]: Nuovo testo giusta l’all. n. II 10 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
-[^1a-11]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^1a-12]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^1a-13]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^1a-2]: I titoli marginali diventano titoli centrali giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^1a-3]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^1a-4]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^1a-5]: [RS 974.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11701)
+[^1a-6]: Introdotto dalla cifra I della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^1a-7]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^1a-8]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^1a-9]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^1a-10]: Nuovo testo giusta l’all. cifra II n. 10 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^1a-11]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^1a-12]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^1a-13]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 
 #### Art. 2
 
@@ -130,18 +130,18 @@ Possono aderire all’assicurazione:
 
 <sup>6</sup> Il Consiglio federale emana disposizioni completive sull’assicurazione facoltativa, disciplina segnatamente il termine e le modalità di adesione, di recesso e di esclusione. Disciplina inoltre la determinazione e la riscossione dei contributi, nonché la concessione delle prestazioni. Può adeguare alle particolarità dell’assicurazione facoltativa la durata dell’obbligo di pagare i contributi, come pure il calcolo e il computo dei contributi.
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
-[^2-2]: Nuovo testo giusta il n. I 3 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^2-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^2-2]: Nuovo testo giusta la cifra I n. 3 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
 [^2-3]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^2-4]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^2-4]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^2-5]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^2-6]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^2-6]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### Capo secondo: Contributi
 
 [^part1-chap2-1]
 
-[^part1-chap2-1]: Il termine «contributo» è stato sostituito al termine «quota» dal n. II cpv. 1 della LF del 19 giu. 1959, a contare dal 1° gen. 1960 ([RU 1959 872](https://fedlex.data.admin.ch/eli/oc/1959/854_884_872); FF **1958** 975).
+[^part1-chap2-1]: Il termine «contributo» è stato sostituito al termine «quota» dalla cifra II cpv. 1 della LF del 19 giu. 1959, a contare dal 1° gen. 1960 ([RU 1959 872](https://fedlex.data.admin.ch/eli/oc/1959/854_884_872); FF **1958** 975).
 
 ### A. Contributi degli assicurati
 
@@ -178,14 +178,14 @@ Il capoverso 3 si applica anche agli anni civili in cui:
 - a. il matrimonio è contratto o sciolto;
 - b. il coniuge che esercita un’attività lucrativa riceve o rinvia una rendita di vecchiaia.[^3-8]
 
-[^3-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^3-2]: Introdotto dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^3-3]: Nuovo testo giusta il n. I della LF del 21 dic. 1956, in vigore dal 1° gen. 1957 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)).
-[^3-4]: Abrogate dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-5]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^3-6]: Abrogata dal n. I della LF del 30 set. 1953, con effetto dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
-[^3-7]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^3-8]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^3-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^3-2]: Introdotto dalla cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^3-3]: Nuovo testo giusta la cifra I della LF del 21 dic. 1956, in vigore dal 1° gen. 1957 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)).
+[^3-4]: Abrogate dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^3-5]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^3-6]: Abrogata dalla cifra I della LF del 30 set. 1953, con effetto dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
+[^3-7]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^3-8]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 ### II. Contributi degli assicurati che esercitano un’attività lucrativa
 
@@ -202,8 +202,8 @@ Il Consiglio federale può escludere da questo calcolo:
 - a. i redditi provenienti da un’attività lucrativa esercitata all’estero;
 - b.[^4-2] i redditi provenienti da un’attività lucrativa ottenuti dopo il raggiungimento dell’età di riferimento secondo l’articolo 21 capoverso 1, fino a una volta e mezzo l’importo della rendita di vecchiaia minima secondo l’articolo 34 capoverso 5; il Consiglio federale prevede la possibilità per gli assicurati di chiedere che tali redditi siano inclusi nel calcolo.
 
-[^4-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^4-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^4-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^4-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 5
 
@@ -224,10 +224,10 @@ Per i familiari che lavorano nell’azienda di famiglia, è considerato salario 
 
 <sup>5</sup> …[^5-4]
 
-[^5-1]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^5-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^5-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^5-4]: Introdotto dal n. I della LF del 21 dic. 1956 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)). Abrogato dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
+[^5-1]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^5-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^5-3]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^5-4]: Introdotto dalla cifra I della LF del 21 dic. 1956 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)). Abrogato dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
 
 #### Art. 6
 
@@ -237,7 +237,7 @@ Per i familiari che lavorano nell’azienda di famiglia, è considerato salario 
 
 <sup>2</sup> I contributi degli assicurati il cui datore di lavoro non è tenuto a pagare contributi possono essere riscossi, d’intesa con lo stesso, secondo il metodo previsto dall’articolo 14 capoverso 1. In simili casi, il tasso del contributo è del 4,35 per cento del salario determinante, tanto per il datore di lavoro quanto per l’assicurato.
 
-[^6-1]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^6-1]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 #### Art. 7
 
@@ -245,7 +245,7 @@ Per i familiari che lavorano nell’azienda di famiglia, è considerato salario 
 
 Il Consiglio federale può stabilire salari complessivi per i familiari che lavorano nell’azienda agricola di famiglia.
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 8
 
@@ -255,7 +255,7 @@ Il Consiglio federale può stabilire salari complessivi per i familiari che lavo
 
 <sup>2</sup> Se il reddito annuo di un’attività lucrativa indipendente è uguale o inferiore a 10 000 franchi[^8-4], l’assicurato deve pagare il contributo minimo di 435 franchi[^8-5] l’anno, salvo che tale importo sia già stato pagato sul suo salario determinante. In questo caso l’assicurato può chiedere che il contributo sul reddito dell’attività lucrativa indipendente sia riscosso al tasso più basso della tavola scalare.
 
-[^8-1]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^8-1]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 [^8-2]: Nuovo importo giusta l’art. 1 lett. a dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^8-3]: Nuovo importo giusta l’art. 1 lett. b dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 [^8-4]: Nuovo importo giusta l’art. 2 cpv. 1 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
@@ -282,13 +282,13 @@ Il reddito proveniente da un’attività lucrativa indipendente è stabilito ded
 
 <sup>4</sup> Le casse di compensazione aggiungono al reddito comunicato dalle autorità fiscali le deduzioni ammissibili secondo il diritto fiscale dei contributi di cui all’articolo 8 della presente legge, all’articolo 3 capoverso 1 della legge federale del 19 giugno 1959[^9-5] sull’assicurazione per l’invalidità (LAI) e all’articolo 27 capoverso 2 della legge del 25 settembre 1952[^9-6] sulle indennità di perdita di guadagno. A tal fine il reddito comunicato è calcolato al 100 per cento in base ai tassi di contribuzione applicabili.[^9-7]
 
-[^9-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^9-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^9-3]: Introdotta dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^9-4]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^9-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^9-6]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^9-7]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
+[^9-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^9-2]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^9-3]: Introdotta dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^9-4]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^9-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^9-6]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^9-7]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).Vedi anche la disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 9<sup>bis</sup>
 
@@ -296,7 +296,7 @@ Il reddito proveniente da un’attività lucrativa indipendente è stabilito ded
 
 Il Consiglio federale può adeguare all’indice delle rendite secondo l’articolo 33<sup>ter</sup> i limiti della tavola scalare di cui all’articolo 8 e il contributo minimo di cui agli articoli 2, 8 e 10.
 
-[^9bis-1]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^9bis-1]: Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 ### III. Contributi degli assicurati che non esercitano un’attività lucrativa
 
@@ -320,12 +320,12 @@ Pagano il contributo minimo:
 
 <sup>4</sup> Il Consiglio federale può obbligare gli istituti scolastici a segnalare alla cassa di compensazione competente gli studenti potenzialmente obbligati a versare contributi a titolo di persone non esercitanti un’attività lucrativa. Se vi acconsente, la scuola può essere incaricata di prelevare i contributi.[^10-6]
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^10-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^10-2]: Nuovo importo giusta l’art. 2 cpv. 2 dell’O del 28 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
-[^10-3]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
-[^10-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-5]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^10-6]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^10-3]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^10-4]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-5]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^10-6]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### IV. Riduzione e condono dei contributi
 
@@ -337,7 +337,7 @@ Pagano il contributo minimo:
 
 <sup>2</sup> Il contributo minimo il cui pagamento costituirebbe un onere troppo grave per le persone assicurate obbligatoriamente può essere condonato, a richiesta motivata e previa consultazione dell’autorità designata dal Cantone di domicilio. Per questi assicurati il Cantone di domicilio paga il contributo minimo. I Cantoni possono far contribuire i Comuni di domicilio al pagamento di questo contributo.
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^11-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 ### B. Contributi dei datori di lavoro
 
@@ -356,8 +356,8 @@ Sono fatte salve le convenzioni internazionali e le consuetudini stabilite dal d
 - a. l’assoggettamento all’obbligo di pagare i contributi dei datori di lavoro che non hanno uno stabilimento d’impresa in Svizzera;
 - b. l’esenzione dall’obbligo di pagare i contributi dei datori di lavoro che hanno uno stabilimento d’impresa in Svizzera.[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^12-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^12-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 13
 
@@ -365,7 +365,7 @@ Sono fatte salve le convenzioni internazionali e le consuetudini stabilite dal d
 
 Il contributo dei datori di lavoro è fissato al 4,35 per cento della somma dei salari determinanti, pagati a persone tenute al versamento dei contributi.
 
-[^13-1]: Nuovo testo giusta il n. I 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
+[^13-1]: Nuovo testo giusta la cifra I n. 5 della LF del 28 set. 2018 concernente la riforma fiscale e il finanziamento dell’AVS, in vigore dal 1° gen. 2020 ([RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)[2413](https://fedlex.data.admin.ch/eli/oc/2019/448); [FF 2018 2079](https://fedlex.data.admin.ch/eli/fga/2018/1042)).
 
 ### C. Riscossione dei contributi
 
@@ -401,17 +401,17 @@ Il Consiglio federale emana prescrizioni su:
 
 <sup>6</sup> Il Consiglio federale può inoltre stabilire che sul reddito annuo di un’attività lucrativa indipendente esercitata a titolo accessorio, che non superi l’importo della rendita mensile massima di vecchiaia, i contributi siano prelevati soltanto a richiesta dell’assicurato.[^14-11]
 
-[^14-1]: Nuovo testo giusta il n. I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
-[^14-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^14-3]: Introdotto dal n. I della LF del 16 dic. 2005, in vigore dal 1° gen. 2007 ([RU 2006 4817](https://fedlex.data.admin.ch/eli/oc/2006/741); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
-[^14-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^14-1]: Nuovo testo giusta la cifra I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
+[^14-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^14-3]: Introdotto dalla cifra I della LF del 16 dic. 2005, in vigore dal 1° gen. 2007 ([RU 2006 4817](https://fedlex.data.admin.ch/eli/oc/2006/741); [FF 2002 6087](https://fedlex.data.admin.ch/eli/fga/2002/1106)).
+[^14-4]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^14-5]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^14-6]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^14-7]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^14-8]: Abrogata dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^14-9]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^14-9]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^14-10]: Introdotto dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^14-11]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^14-11]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 14<sup>bis</sup>
 
@@ -424,7 +424,7 @@ Il Consiglio federale emana prescrizioni su:
 <sup>3</sup> La cassa di compensazione versa i supplementi al Fondo di compensazione AVS[^14bis-2]. Il Consiglio federale stabilisce la quota che le casse di compensazione possono trattenere a copertura delle loro spese.
 
 [^14bis-1]: Introdotto dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^14bis-2]: Nuovo termine giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^14bis-2]: Nuovo termine giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 15
 
@@ -434,7 +434,7 @@ Il Consiglio federale emana prescrizioni su:
 
 <sup>2</sup> Di regola l’esecuzione per i contributi si prosegue in via di pignoramento anche contro un debitore soggetto alla procedura di fallimento (art. 43 LF dell’11 apr. 1889 sulla esecuzione e sul fallimento[^15-1]).
 
-[^15-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^15-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 16
 
@@ -446,21 +446,21 @@ Il Consiglio federale emana prescrizioni su:
 
 <sup>3</sup> Il diritto alla restituzione dei contributi indebitamente pagati si estingue un anno dopo che la persona tenuta a pagare i contributi ha avuto conoscenza dell’indebito pagamento, ma in ogni caso cinque anni dopo la fine dell’anno civile in cui ha avuto luogo il pagamento indebito. In deroga all’articolo 25 capoverso 3 LPGA, per i contributi secondo gli articoli 6 capoverso 1, 8 capoverso 1 e 10 capoverso 1 il termine scade in ogni caso soltanto un anno dopo la fine dell’anno civile in cui la tassazione fiscale determinante è passata in giudicato. Se sono stati pagati contributi paritetici su prestazioni sottoposte all’imposta federale diretta sull’utile netto delle persone giuridiche, il diritto alla restituzione si estingue, in deroga all’articolo 25 capoverso 3 LPGA, un anno dopo la fine dell’anno civile in cui la tassazione fiscale è passata in giudicato.[^16-9]
 
-[^16-1]: Nuovo testo giusta il n. I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
-[^16-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^16-3]: Nuovo testo del primo e secondo per. giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^16-4]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^16-5]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^16-6]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^16-7]: Nuovo testo del per. giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^16-1]: Nuovo testo giusta la cifra I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
+[^16-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^16-3]: Nuovo testo del primo e secondo per. giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^16-4]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^16-5]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^16-6]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^16-7]: Nuovo testo del per. giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^16-8]: All’art. 20 cpv. 3, nel testo del 30 set. 1953 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102)), corrisponde ora l’art. 20 cpv. 2, nel testo del 7 ott. 1994.
-[^16-9]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^16-9]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. I della LF del 4 ott. 1968, con effetto dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^17-1]: Abrogato dalla cifra I della LF del 4 ott. 1968, con effetto dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 
 ### Capo terzo: Rendite
 
@@ -480,19 +480,19 @@ Il Consiglio federale emana prescrizioni su:
 
 <sup>3</sup> In caso di domicilio all’estero, i contributi pagati in conformità agli articoli 5, 6, 8, 10 o 13 da stranieri, originari di Stati con i quali non è stata conclusa una convenzione internazionale, possono essere rimborsati agli stessi o ai loro superstiti. Il Consiglio federale disciplina i dettagli e in particolare l’entità del rimborso.[^18-7]
 
-[^18-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^18-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^18-2]: Per. abrogato dall’all. n. 7 della la LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^18-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^18-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^18-4]: Nuovo testo del per. giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^18-5]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
-[^18-6]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^18-6]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 [^18-7]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
 
 #### Art. 19
 
 [^19-1]
 
-[^19-1]: Abrogato dal n. I della LF del 19 dic. 1963, con effetto dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
+[^19-1]: Abrogato dalla cifra I della LF del 19 dic. 1963, con effetto dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
 
 #### Art. 20
 
@@ -508,13 +508,13 @@ Possono essere compensati con prestazioni scadute:
 - b. i crediti per la restituzione di prestazioni complementari all’assicurazione per la vecchiaia, i superstiti e l’invalidità;
 - c. i crediti per la restituzione di rendite e indennità giornaliere dell’assicurazione obbligatoria contro gli infortuni, dell’assicurazione militare, dell’assicurazione contro la disoccupazione e dell’assicurazione contro le malattie.[^20-7]
 
-[^20-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
 [^20-2]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^20-3]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^20-4]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^20-5]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050). Ora: L del 25 set. 1952 sulle indennità di perdita di guadagno.
-[^20-6]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
-[^20-7]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^20-4]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^20-5]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262). Ora: L del 25 set. 1952 sulle indennità di perdita di guadagno.
+[^20-6]: [RS 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
+[^20-7]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### II. Diritto alla rendita di vecchiaia
 
@@ -526,13 +526,13 @@ Possono essere compensati con prestazioni scadute:
 
 <sup>2</sup> Il diritto alla rendita nasce il primo giorno del mese successivo al raggiungimento dell’età di riferimento. Si estingue con la morte dell’avente diritto.
 
-[^21-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^21-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 22
 
 [^22-1]
 
-[^22-1]: Abrogato dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
+[^22-1]: Abrogato dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
 
 #### Art. 22<sup>bis</sup>
 
@@ -550,9 +550,9 @@ In deroga all’articolo 20 LPGA[^22bis-3], la rendita completiva va versata al 
 
 <sup>3</sup> Sono salve disposizioni diverse pronunciate dal giudice civile nei casi di cui al capoverso 2.[^22bis-5]
 
-[^22bis-1]: Introdotto dal n. I della LF del 19 dic. 1963 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209). Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^22bis-1]: Introdotto dalla cifra I della LF del 19 dic. 1963 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209). Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^22bis-2]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
-[^22bis-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^22bis-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^22bis-4]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 [^22bis-5]: Introdotto dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
@@ -564,15 +564,15 @@ In deroga all’articolo 20 LPGA[^22bis-3], la rendita completiva va versata al 
 
 <sup>2</sup> La rendita per figli è versata di regola come la rendita cui è connessa. Sono salve le disposizioni sull’impiego appropriato (art. 20 LPGA[^22ter-2]) come pure le disposizioni diverse imposte dal giudice civile. Il Consiglio federale può disciplinare il versamento per casi speciali, in deroga all’articolo 20 LPGA, segnatamente per figli di genitori separati o divorziati.[^22ter-3]
 
-[^22ter-1]: Introdotto dal n. I della LF del 30 giu. 1972 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^22ter-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^22ter-1]: Introdotto dalla cifra I della LF del 30 giu. 1972 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^22ter-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^22ter-3]: Nuovo testo del per. 2 e 3 giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 ### III. Diritto alla rendita vedovile
 
 [^part1-chap3-lvlA-lvlIII-1]
 
-[^part1-chap3-lvlA-lvlIII-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^part1-chap3-lvlA-lvlIII-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 23
 
@@ -630,9 +630,10 @@ Il coniuge divorziato è parificato alla persona vedova se:
 
 **Concorso di rendite vedovili con rendite di vecchiaia o d’invalidità**
 
-Se una persona soddisfa contemporaneamente le condizioni per la concessione di una rendita per superstiti e di una rendita di vecchiaia o di una rendita secondo la LAI[^24b-1], è versata soltanto la rendita più elevata.
+Se una persona soddisfa contemporaneamente le condizioni per la concessione di una rendita per superstiti e di una rendita di vecchiaia o di una rendita secondo la LAI[^24b-1], è versata soltanto la rendita più elevata. Per il calcolo comparativo, la 13<sup>a</sup> mensilità della rendita di vecchiaia di cui all’articolo 34<sup>ter</sup> e, se del caso, il supplemento di rendita di cui all’articolo 34<sup>bis</sup> sono computati nella rendita di vecchiaia annua.[^24b-2]
 
-[^24b-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24b-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^24b-2]: Per. introdotto dalla cifra I della LF del 21 mar. 2025 (Attuazione della 13<sup>a</sup> mensilità della rendita di vecchiaia), in vigore dal 1° gen. 2026 ([RU 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [FF 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
 
 ### IV. Diritto alla rendita per orfani
 
@@ -650,13 +651,13 @@ Se una persona soddisfa contemporaneamente le condizioni per la concessione di u
 
 <sup>5</sup> Per figli ancora in formazione, il diritto alla rendita dura fino al termine della stessa, ma al più tardi fino a 25 anni compiuti. Il Consiglio federale può stabilire che cosa si intende per formazione.
 
-[^25-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^25-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 26 a 28
 
 [^2628-1]
 
-[^2628-1]: Abrogati dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
+[^2628-1]: Abrogati dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
 
 #### Art. 28<sup>bis</sup>
 
@@ -664,8 +665,8 @@ Se una persona soddisfa contemporaneamente le condizioni per la concessione di u
 
 Se un orfano soddisfa contemporaneamente le condizioni di una rendita per orfani e una rendita vedovile o una rendita secondo la LAI[^28bis-2], è versata soltanto la rendita più elevata. Se entrambi i genitori sono deceduti, il confronto avviene in base alla somma delle due rendite per orfani.
 
-[^28bis-1]: Introdotto dall’art. 82 della LF del 19 giu. 1959 su l’assicurazione per l’invalidità ([RU 1959 845](https://fedlex.data.admin.ch/eli/oc/1959/827_857_845); **1958** 975). Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^28bis-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^28bis-1]: Introdotto dall’art. 82 della LF del 19 giu. 1959 su l’assicurazione per l’invalidità ([RU 1959 845](https://fedlex.data.admin.ch/eli/oc/1959/827_857_845); **1958** 975). Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^28bis-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 ### B. Rendite ordinarie
 
@@ -682,9 +683,9 @@ Le rendite ordinarie sono assegnate in forma di:
 - a. rendite complete agli assicurati che hanno una durata di contribuzione[^29-2] completo;
 - b. rendite parziali agli assicurati che hanno una durata di contribuzione incompleta.[^29-3]
 
-[^29-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29-2]: Nuova espr. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^29-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^29-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^29-2]: Nuova espr. giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^29-3]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### I. Norme per il calcolo delle rendite ordinarie
 
@@ -716,7 +717,7 @@ Il Consiglio federale disciplina il computo:
 
 <sup>6</sup> Disciplina inoltre il momento in cui inizia il diritto alla rendita ricalcolata conformemente al capoverso 3.
 
-[^29bis-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^29bis-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 29<sup>ter</sup>
 
@@ -732,7 +733,7 @@ Sono considerati anni di contribuzione i periodi:
 - b. durante i quali il suo coniuge, giusta l’articolo 3 capoverso 3, ha versato almeno il doppio del contributo minimo;
 - c. durante i quali possono essere computati accrediti per compiti educativi o d’assistenza.
 
-[^29ter-1]: Originario art. 29<sup>bis</sup>. Introdotto dal n. I della LF del 21 dic. 1956 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)). Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^29ter-1]: Originario art. 29<sup>bis</sup>. Introdotto dalla cifra I della LF del 21 dic. 1956 ([RU 1957 275](https://fedlex.data.admin.ch/eli/oc/1957/262_264_275)). Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 29<sup>quater</sup>
 
@@ -744,7 +745,7 @@ La rendita è calcolata in base al reddito annuo medio. Esso si compone:
 - b. degli accrediti per compiti educativi;
 - c. degli accrediti per compiti assistenziali.
 
-[^29quater-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^29quater-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 29<sup>quinquies</sup>
 
@@ -775,15 +776,15 @@ Tuttavia, sottostanno alla ripartizione e all’attribuzione reciproca soltanto 
 
 <sup>6</sup> Il Consiglio federale disciplina la procedura. Stabilisce in particolare quale cassa di compensazione debba procedere alla ripartizione dei redditi.[^29quinquies-9]
 
-[^29quinquies-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Vedi anche le disp. fin di detta mod. alla fine del presente testo.
-[^29quinquies-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^29quinquies-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^29quinquies-4]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^29quinquies-5]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^29quinquies-6]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^29quinquies-7]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^29quinquies-8]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^29quinquies-9]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Vedi anche le disp. fin di detta mod. alla fine del presente testo.
+[^29quinquies-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-4]: Introdotta dalla cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-5]: Introdotta dalla cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-6]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29quinquies-7]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-8]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29quinquies-9]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 29<sup>sexies</sup>
 
@@ -802,10 +803,10 @@ Un accredito per compiti educativi è computato agli assicurati per gli anni dur
 
 <sup>3</sup> L’accredito per compiti educativi assegnato alle persone coniugate durante gli anni civili di matrimonio è ripartito per metà tra i coniugi. Tuttavia, la ripartizione interessa unicamente gli accrediti acquisiti durante il periodo tra il 1° gennaio che segue il compimento dei 20 anni e il 31 dicembre che precede il raggiungimento dell’età di riferimento da parte del coniuge più anziano.[^29sexies-4]
 
-[^29sexies-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^29sexies-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^29sexies-2]: Nuovo testo giusta l’all. n. 5 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); FF **1996** I1).
 [^29sexies-3]: Introdotta dall’all. n. 5 della LF del 26 giu. 1998, in vigore dal 1° gen. 2000 ([RU 1999 1118](https://fedlex.data.admin.ch/eli/oc/1999/149); FF **1996** I1).
-[^29sexies-4]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29sexies-4]: Nuovo testo del per. giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 29<sup>septies</sup>
 
@@ -829,10 +830,10 @@ Il Consiglio federale può precisare il criterio della facile raggiungibilità d
 
 <sup>6</sup> L’accredito per compiti assistenziali durante gli anni civili di matrimonio è ripartito per metà tra i coniugi. Tuttavia, la ripartizione interessa unicamente gli accrediti acquisiti durante il periodo tra il 1° gennaio che segue il compimento dei 20 anni e il 31 dicembre che precede il raggiungimento dell’età di riferimento da parte del coniuge più anziano.[^29septies-4]
 
-[^29septies-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^29septies-2]: Nuovo testo giusta il n. I 3 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
-[^29septies-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^29septies-4]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^29septies-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^29septies-2]: Nuovo testo giusta la cifra I n. 3 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° gen. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
+[^29septies-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^29septies-4]: Nuovo testo del per. giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 30
 
@@ -842,7 +843,7 @@ Il Consiglio federale può precisare il criterio della facile raggiungibilità d
 
 <sup>2</sup> La somma dei redditi rivalutati derivanti da un’attività lucrativa e gli accrediti per compiti educativi e assistenziali sono divisi per il numero di anni di contribuzione.
 
-[^30-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^30-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 30<sup>bis</sup>
 
@@ -850,11 +851,11 @@ Il Consiglio federale può precisare il criterio della facile raggiungibilità d
 
 Il Consiglio federale emana prescrizioni per il calcolo delle rendite.[^30bis-3] A tale scopo può arrotondare per eccesso o per difetto il reddito determinante e le rendite.[^30bis-4] Esso può emanare disposizioni sul computo delle frazioni di anni di contribuzione e dei corrispondenti redditi e prevedere che gli anni di contribuzione e i redditi di un’attività lucrativa nel periodo di tempo per il quale fu erogata una rendita d’invalidità non siano computati.[^30bis-5]
 
-[^30bis-1]: Introdotto dal n. I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^30bis-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^30bis-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^30bis-4]: Nuovo testo del per. giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^30bis-5]: Nuovo testo del per. giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^30bis-1]: Introdotto dalla cifra I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^30bis-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^30bis-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^30bis-4]: Nuovo testo del per. giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^30bis-5]: Nuovo testo del per. giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 30<sup>ter</sup>
 
@@ -873,10 +874,10 @@ I redditi soggetti a contribuzione dei lavoratori sono annotati nel conto indivi
 
 <sup>4</sup> I redditi delle persone che esercitano un’attività lucrativa indipendente, dei dipendenti il cui datore di lavoro non è tenuto a pagare contributi e delle persone senza attività lucrativa sono sempre annotati sotto l’anno per il quale sono fissati i contributi.[^30ter-4]
 
-[^30ter-1]: Introdotto dal n. I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^30ter-1]: Introdotto dalla cifra I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 [^30ter-2]: Introdotto dall’all. n. 13 della LF del 16 dic. 1994, in vigore dal 1° gen. 1997 ([RU 1995 1227](https://fedlex.data.admin.ch/eli/oc/1995/1227_1227_1227); [FF 1991 III 1](https://fedlex.data.admin.ch/eli/fga/1991/3_1_1_1)).
-[^30ter-3]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^30ter-4]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^30ter-3]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^30ter-4]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 31
 
@@ -884,14 +885,14 @@ I redditi soggetti a contribuzione dei lavoratori sono annotati nel conto indivi
 
 Se deve essere fissata una nuova rendita di vecchiaia in seguito all’insorgere del diritto alla rendita del coniuge o allo scioglimento del matrimonio, le regole di calcolo applicabili al primo caso di rendita sono determinanti. La nuova rendita calcolata in base a queste disposizioni dev’essere aggiornata.
 
-[^31-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^31-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^31-2]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
 
 #### Art. 32
 
 [^32-1]
 
-[^32-1]: Abrogato dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
+[^32-1]: Abrogato dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
 
 #### Art. 33
 
@@ -903,7 +904,7 @@ Se deve essere fissata una nuova rendita di vecchiaia in seguito all’insorgere
 
 <sup>3</sup> Se la persona assicurata muore prima di aver compiuto i 45 anni, al suo reddito medio dell’attività lucrativa[^33-3] per il calcolo della rendita per superstiti viene aggiunto un supplemento percentuale. Il Consiglio federale stabilisce i tassi corrispondenti in base all’età dell’assicurato al momento del decesso.
 
-[^33-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^33-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^33-2]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
 [^33-3]: Rettificato dalla Commissione di redazione dell’AF [art. 33 LRC – [RU 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
 
@@ -922,13 +923,13 @@ Se deve essere fissata una nuova rendita di vecchiaia in seguito all’insorgere
 <sup>4</sup> Per il calcolo della rendita di vecchiaia di una persona il cui coniuge beneficia o ha beneficiato di una rendita d’invalidità, il reddito annuo medio determinante al momento dell’insorgere della rendita d’invalidità è considerato come reddito giusta l’articolo 29<sup>quinquies</sup> per la durata di riscossione della rendita. Se il grado d’invalidità è inferiore al 60 per cento, è presa in considerazione soltanto una frazione corrispondente del reddito medio annuo.[^33bis-7] Il Consiglio federale disciplina i dettagli e la procedura.[^33bis-8]
 
 [^33bis-1]: Introdotto dall’art. 82 della LF del 19 giu. 1959 su l’assicurazione per l’invalidità, in vigore dal 1° gen. 1960 ([RU 1959 845](https://fedlex.data.admin.ch/eli/oc/1959/827_857_845); **1958** 975).
-[^33bis-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^33bis-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^33bis-4]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^33bis-5]: Introdotto dal n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^33bis-6]: Introdotto dal n. I della LF del 30 giu. 1972 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^33bis-2]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^33bis-3]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^33bis-4]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^33bis-5]: Introdotto dalla cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^33bis-6]: Introdotto dalla cifra I della LF del 30 giu. 1972 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 [^33bis-7]: Nuovo testo del per. giusta l’all. n. 3 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^33bis-8]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^33bis-8]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 33<sup>ter</sup>
 
@@ -944,15 +945,15 @@ Se deve essere fissata una nuova rendita di vecchiaia in seguito all’insorgere
 
 <sup>5</sup> Il Consiglio federale può emanare prescrizioni completive, arrotondare per eccesso o per difetto l’indice delle rendite e disciplinare la procedura per l’adeguamento delle rendite.
 
-[^33ter-1]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^33ter-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)).
-[^33ter-3]: Nuovo testo giusta il n. I della LF del 13 dic. 1991, in vigore dal 1° gen. 1992 ([RU 1992 1286](https://fedlex.data.admin.ch/eli/oc/1992/1286_1286_1286); [FF 1991 I 181](https://fedlex.data.admin.ch/eli/fga/1991/1_217_193_181)).
+[^33ter-1]: Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^33ter-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)).
+[^33ter-3]: Nuovo testo giusta la cifra I della LF del 13 dic. 1991, in vigore dal 1° gen. 1992 ([RU 1992 1286](https://fedlex.data.admin.ch/eli/oc/1992/1286_1286_1286); [FF 1991 I 181](https://fedlex.data.admin.ch/eli/fga/1991/1_217_193_181)).
 
 ### II. Rendite complete
 
 [^part1-chap3-lvlB-lvlII-1]
 
-[^part1-chap3-lvlB-lvlII-1]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^part1-chap3-lvlB-lvlII-1]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
 
 #### Art. 34
 
@@ -978,7 +979,7 @@ Sono applicabili le disposizioni seguenti:
 
 <sup>5</sup> L’importo minimo della rendita completa di vecchiaia di 1260 franchi corrisponde a un indice delle rendite di 229,1 punti.[^34-2]
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^34-2]: Nuovi importi giusta gli art. 3 e 4 dell’O del 18 ago. 2024 sugli adeguamenti all’evoluzione dei prezzi e dei salari nell’AVS/AI/IPG dal 2025, in vigore dal 1° gen. 2025 ([RU 2024 463](https://fedlex.data.admin.ch/eli/oc/2024/463)).
 
 #### Art. 34<sup>bis</sup>
@@ -1014,7 +1015,19 @@ Salvo in caso di riscossione anticipata della rendita di vecchiaia, le donne del
 
 <sup>5</sup> Il Consiglio federale disciplina i dettagli, in particolare il diritto delle donne con durata di contribuzione incompleta.
 
-[^34bis-1]: Introdotto dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2025 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^34bis-1]: Introdotto dalla cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2025 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+
+#### Art. 34<sup>ter</sup>
+
+**1*b*. 13<sup>a</sup> mensilità della rendita di vecchiaia**[^34ter-1]
+
+<sup>1</sup> Gli assicurati che nel mese di dicembre hanno diritto a una rendita di vecchiaia ricevono una 13<sup>a</sup> mensilità della stessa.
+
+<sup>2</sup> La 13<sup>a</sup> mensilità è versata quale supplemento della rendita di vecchiaia annua. Corrisponde a un dodicesimo della rendita di vecchiaia riscossa nell’anno civile in questione.
+
+<sup>3</sup> La 13<sup>a</sup> mensilità della rendita di vecchiaia è versata nel mese di dicembre. Se l’importo annuo della rendita di vecchiaia è versato una volta all’anno conformemente all’articolo 44 capoverso 2, la 13<sup>a</sup> mensilità è versata insieme a tale importo.
+
+[^34ter-1]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Attuazione della 13<sup>a</sup> mensilità della rendita di vecchiaia), in vigore dal 1° gen. 2026 ([RU 2025 704](https://fedlex.data.admin.ch/eli/oc/2025/704); [FF 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
 
 #### Art. 35
 
@@ -1031,9 +1044,9 @@ La somma delle due rendite per coniugi ammonta al massimo al 150 per cento dell�
 
 <sup>3</sup> Le due rendite devono essere ridotte in proporzione alla loro quota-parte alla somma delle rendite non ridotte. Il Consiglio federale disciplina i dettagli, in particolare la riduzione delle due rendite accordate agli assicurati con durata di contribuzione incompleta o che percepiscono soltanto una percentuale della rendita.[^35-3]
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^35-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^35-3]: Nuovo testo del per. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^35-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^35-3]: Nuovo testo del per. giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 35<sup>bis</sup>
 
@@ -1041,7 +1054,7 @@ La somma delle due rendite per coniugi ammonta al massimo al 150 per cento dell�
 
 Le vedove e i vedovi beneficiari di una rendita di vecchiaia hanno diritto a un supplemento del 20 per cento sulla propria rendita. La rendita e il supplemento non devono superare l’importo massimo della rendita di vecchiaia.
 
-[^35bis-1]: Introdotto dal n. I della LF del 19 dic. 1963 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209). Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo
+[^35bis-1]: Introdotto dalla cifra I della LF del 19 dic. 1963 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209). Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo
 
 #### Art. 35<sup>ter</sup>
 
@@ -1051,8 +1064,8 @@ Le vedove e i vedovi beneficiari di una rendita di vecchiaia hanno diritto a un 
 
 <sup>2</sup> In caso di differimento della riscossione di una percentuale della rendita di vecchiaia in virtù dell’articolo 39 capoverso 1, la rendita per figli è differita nella stessa misura percentuale.[^35ter-2]
 
-[^35ter-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^35ter-2]: Introdotto dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^35ter-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^35ter-2]: Introdotto dalla cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 36
 
@@ -1060,7 +1073,7 @@ Le vedove e i vedovi beneficiari di una rendita di vecchiaia hanno diritto a un 
 
 La rendita vedovile è pari all’80 per cento della rendita di vecchiaia corrispondente al reddito annuo medio determinante.
 
-[^36-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^36-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 37
 
@@ -1072,7 +1085,7 @@ La rendita vedovile è pari all’80 per cento della rendita di vecchiaia corris
 
 <sup>3</sup> I figli trovatelli ricevono una rendita per orfani pari al 60 per cento della rendita massima di vecchiaia.
 
-[^37-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^37-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 #### Art. 37<sup>bis</sup>
 
@@ -1080,7 +1093,7 @@ La rendita vedovile è pari all’80 per cento della rendita di vecchiaia corris
 
 Se per la medesima persona sono riunite le condizioni che danno diritto a una rendita per orfani e a una rendita per figli, la somma delle due rendite ammonta al massimo al 60 per cento della rendita massima di vecchiaia. L’articolo 35 si applica per analogia per determinare le modalità di riduzione.
 
-[^37bis-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^37bis-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### III. Rendite parziali
 
@@ -1094,16 +1107,16 @@ Se per la medesima persona sono riunite le condizioni che danno diritto a una re
 
 <sup>3</sup> Il Consiglio federale emana disposizioni particolari sulla graduazione delle rendite.[^38-4]
 
-[^38-1]: Nuovo testo giusta il n. I della LF del 19 giu. 1959, in vigore dal 1° gen. 1960 ([RU 1959 872](https://fedlex.data.admin.ch/eli/oc/1959/854_884_872); FF **1958** 975).
-[^38-2]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^38-3]: Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^38-4]: Introdotto dal n. I della LF del 30 giu. 1972 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^38-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 1959, in vigore dal 1° gen. 1960 ([RU 1959 872](https://fedlex.data.admin.ch/eli/oc/1959/854_884_872); FF **1958** 975).
+[^38-2]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^38-3]: Nuovo testo giusta la cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^38-4]: Introdotto dalla cifra I della LF del 30 giu. 1972 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)). Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### IV. Riscossione flessibile della rendita
 
 [^part1-chap3-lvlB-lvlIV-1]
 
-[^part1-chap3-lvlB-lvlIV-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024, art. 40*c* dal 1° gen. 2025 al 31 dic. 2033 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^part1-chap3-lvlB-lvlIV-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024, art. 40*c* dal 1° gen. 2025 al 31 dic. 2033 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
 
 #### Art. 39
 
@@ -1178,18 +1191,18 @@ Le donne della generazione di transizione a partire dai 62 anni compiuti possono
 
 <sup>3</sup> Il Consiglio federale emana disposizioni particolari e prescrizioni speciali sulle rendite parziali.[^41-6]
 
-[^41-1]: Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^41-1]: Nuovo testo giusta la cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 [^41-2]: [RU 1972 3568](https://fedlex.data.admin.ch/eli/oc/1972/__3568)
-[^41-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^41-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^41-4]: Nuovo testo giusta l’all. n. 3 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^41-5]: Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1980 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391), [1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)art. 1; [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^41-6]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^41-5]: Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1980 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391), [1979 1365](https://fedlex.data.admin.ch/eli/oc/1979/1365_1365_1365)art. 1; [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^41-6]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 
 ### C. Rendite straordinarie
 
 [^part1-chap3-lvlC-1]
 
-[^part1-chap3-lvlC-1]: Nuovo testo giusta il n. I della LF del 19 giu. 1959, in vigore dal 1° gen. 1960 ([RU 1959 872](https://fedlex.data.admin.ch/eli/oc/1959/854_884_872); FF **1958** 975).
+[^part1-chap3-lvlC-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 1959, in vigore dal 1° gen. 1960 ([RU 1959 872](https://fedlex.data.admin.ch/eli/oc/1959/854_884_872); FF **1958** 975).
 
 #### Art. 42
 
@@ -1201,8 +1214,8 @@ Le donne della generazione di transizione a partire dai 62 anni compiuti possono
 
 <sup>3</sup> I coniugi di cittadini svizzeri all’estero affiliati all’assicurazione obbligatoria che in virtù di una convenzione bilaterale o di usi internazionali, non appartengono all’assicurazione per la vecchiaia, i superstiti e l’invalidità dello Stato di domicilio, sono parificati ai coniugi di cittadini svizzeri domiciliati in Svizzera.
 
-[^42-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^42-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^42-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^42-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^42-3]: Nuovo testo del per. giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 43
@@ -1215,16 +1228,16 @@ Le donne della generazione di transizione a partire dai 62 anni compiuti possono
 
 <sup>3</sup> In deroga all’articolo 69 capoversi 2 e 3 LPGA[^43-3], le rendite straordinarie per figli e per orfani sono ridotte in quanto, aggiunte alle rendite del padre e della madre, superino l’importo massimo stabilito dal Consiglio federale.[^43-4]
 
-[^43-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^43-2]: Abrogato dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
-[^43-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^43-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^43-2]: Abrogato dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
+[^43-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^43-4]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 ### D. Assegno per grandi invalidi, contributo per l’assistenza e mezzi ausiliari
 
 [^part1-chap3-lvlD-1]
 
-[^part1-chap3-lvlD-1]: Introdotto dal n. I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
+[^part1-chap3-lvlD-1]: Introdotto dalla cifra I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta l’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure), in vigore dal 1° gen. 2012 ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)).
 
 #### Art. 43<sup>bis</sup>
 
@@ -1244,17 +1257,17 @@ Le donne della generazione di transizione a partire dai 62 anni compiuti possono
 
 <sup>5</sup> Le disposizioni della LAI[^43bis-9] sono applicabili per analogia alla valutazione della grande invalidità.[^43bis-10] Spetta agli uffici per l’assicurazione invalidità di determinare, per le casse di compensazione, il grado della grande invalidità[^43bis-11]. Il Consiglio federale può promulgare prescrizioni complementari.
 
-[^43bis-1]: Introdotto dal n. I della LF del 22 dic. 1955 ([RU 1956 707](https://fedlex.data.admin.ch/eli/oc/1956/651_703_707); FF **1955** 871). Nuovo testo giusta il n. I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^43bis-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^43bis-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^43bis-4]: Introdotto dal n. I 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-5]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^43bis-6]: Nuovo testo giusta il n. I 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)n. I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
-[^43bis-7]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43bis-1]: Introdotto dalla cifra I della LF del 22 dic. 1955 ([RU 1956 707](https://fedlex.data.admin.ch/eli/oc/1956/651_703_707); FF **1955** 871). Nuovo testo giusta la cifra I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^43bis-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^43bis-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43bis-4]: Introdotto dalla cifra I n. 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^43bis-5]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43bis-6]: Nuovo testo giusta la cifra n. 1 della LF del 13 giu. 2008 concernente il nuovo ordinamento del finanziamento delle cure, in vigore dal 1° gen. 2011 ([RU 2009 3517](https://fedlex.data.admin.ch/eli/oc/2009/432)[6847](https://fedlex.data.admin.ch/eli/oc/2009/836)cifra I; [FF 2005 1839](https://fedlex.data.admin.ch/eli/fga/2005/237)).
+[^43bis-7]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^43bis-8]: Introdotto dall’all. n. 2 della la LF del 20 mar. 1981 sull’assicurazione contro la disoccupazione, in vigore dal 1° gen. 1984 ([RU 1982 1676](https://fedlex.data.admin.ch/eli/oc/1982/1676_1676_1676)[1724](https://fedlex.data.admin.ch/eli/oc/1982/1724_1724_1724)art. 1 cpv. 1; [FF 1976 III 155](https://fedlex.data.admin.ch/eli/fga/1976/3_141_143_155)).
-[^43bis-9]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^43bis-9]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^43bis-10]: Nuovo testo del per. giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^43bis-11]: Nuova denominazione giusta il n. II della LF del 22 mar. 1991 (3<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 1992 ([RU 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^43bis-11]: Nuova denominazione giusta la cifra II della LF del 22 mar. 1991 (3<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 1992 ([RU 1991 2377](https://fedlex.data.admin.ch/eli/oc/1991/2377_2377_2377); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 43<sup>ter</sup>
 
@@ -1262,8 +1275,8 @@ Le donne della generazione di transizione a partire dai 62 anni compiuti possono
 
 Chi, sino alla fine del mese in cui raggiunge l’età di riferimento o sino al momento in cui anticipa la riscossione della totalità della rendita, ha beneficiato di un contributo per l’assistenza dell’assicurazione per l’invalidità continua a ricevere un contributo d’importo pari al massimo a quello ricevuto fino ad allora. Al diritto al contributo per l’assistenza e alla sua entità si applicano per analogia gli articoli 42<sup>quater</sup>–42<sup>octies</sup> LAI[^43ter-2].
 
-[^43ter-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^43ter-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^43ter-1]: Introdotto dall’all. n. 4 della LF del 18 mar. 2011 (6**<sup>a</sup>** revisione AI, primo pacchetto di misure ([RU 2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799); [FF 2010 1603](https://fedlex.data.admin.ch/eli/fga/2010/340)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^43ter-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 43<sup>quater</sup>
 
@@ -1275,17 +1288,17 @@ Chi, sino alla fine del mese in cui raggiunge l’età di riferimento o sino al 
 
 <sup>3</sup> Esso indica i mezzi ausiliari consegnati o sussidiati dall’assicurazione; ne disciplina la consegna, come pure la procedura, e stabilisce quali norme della LAI[^43quater-5] sono applicabili.
 
-[^43quater-1]: Originario art. 43<sup>ter</sup>. Introdotto dal n. I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta il n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^43quater-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^43quater-1]: Originario art. 43<sup>ter</sup>. Introdotto dalla cifra I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta la cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^43quater-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^43quater-3]: Nuovo testo giusta l’all. n. 3 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
 [^43quater-4]: Nuovo testo giusta l’all. n. 3 della LF del 21 mar. 2003 (4<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2004 ([RU 2003 3837](https://fedlex.data.admin.ch/eli/oc/2003/560); [FF 2001 2851](https://fedlex.data.admin.ch/eli/fga/2001/617)).
-[^43quater-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^43quater-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 ### E. Disposizioni varie
 
 [^part1-chap3-lvlE-1]
 
-[^part1-chap3-lvlE-1]: Nuova numerazione giusta il n. I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^part1-chap3-lvlE-1]: Nuova numerazione giusta la cifra I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 
 #### Art. 43<sup>quinquies</sup>
 
@@ -1293,8 +1306,8 @@ Chi, sino alla fine del mese in cui raggiunge l’età di riferimento o sino al 
 
 Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario dell’assicurazione è equilibrato e sottopone il risultato di tale esame alla Commissione federale dell’assicurazione per la vecchiaia, i superstiti e l’invalidità. Se necessario propone un emendamento della legge.[^43quinquies-2]
 
-[^43quinquies-1]: Originario art. 43<sup>quater</sup>. Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^43quinquies-2]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^43quinquies-1]: Originario art. 43<sup>quater</sup>. Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^43quinquies-2]: Nuova locuzione giusta la cifra II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 
 #### Art. 44
 
@@ -1304,9 +1317,9 @@ Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario del
 
 <sup>2</sup> Le rendite il cui importo non supera il 20 per cento della rendita minima completa sono versate, in deroga all’articolo 19 capoversi 1 e 3 LPGA[^44-2], una volta all’anno. L’avente diritto può chiedere il versamento mensile.[^44-3]
 
-[^44-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^44-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^44-3]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^44-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^44-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^44-3]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 45
 
@@ -1322,10 +1335,13 @@ Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario del
 
 <sup>2</sup> Se l’assicurato fa valere il diritto a un assegno per grandi invalidi più di dodici mesi dopo il sorgere di tale diritto, l’assegno gli è pagato soltanto per i dodici mesi precedenti la richiesta, in deroga all’articolo 24 capoverso 1 LPGA. Sono accordati pagamenti retroattivi per periodi più lunghi, se l’assicurato non poteva conoscere i fatti determinanti il suo diritto alle prestazioni e se egli presenta la sua richiesta entro dodici mesi a partire dal momento in cui ha avuto conoscenza di tali fatti.
 
+<sup>2bis</sup> In deroga all’articolo 24 capoverso 1 LPGA, il diritto agli arretrati della 13<sup>a</sup> mensilità della rendita di vecchiaia si estingue con il decesso dell’assicurato.[^46-3]
+
 <sup>3</sup> Il Consiglio federale può limitare o escludere, in deroga all’articolo 24 capoverso 1 LPGA, il pagamento di rendite ordinarie di vecchiaia arretrate, per le quali vale il rinvio.
 
 [^46-1]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^46-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^46-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^46-3]: Introdotto dalla cifra I della LF del 21 mar. 2025 (Attuazione della 13<sup>a</sup> mensilità della rendita di vecchiaia), in vigore dal 1° gen. 2026 (RU 2025 704; [FF 2024 2747](https://fedlex.data.admin.ch/eli/fga/2024/2747)).
 
 #### Art. 47
 
@@ -1343,7 +1359,7 @@ Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario del
 
 [^48bis48sexies-1]
 
-[^48bis48sexies-1]: Introdotti dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogati dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
+[^48bis48sexies-1]: Introdotti dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogati dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, con effetto dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 ### Capo quarto: Organizzazione
 
@@ -1355,8 +1371,8 @@ Il Consiglio federale fa esaminare periodicamente se lo sviluppo finanziario del
 
 L’assicurazione per la vecchiaia e per i superstiti è applicata, sotto la vigilanza della Confederazione (art. 76 LPGA[^49-2]), dai datori di lavoro e dai lavoratori nonché dalle casse di compensazione professionali, dalle casse di compensazione cantonali, dalle casse di compensazione della Confederazione e da un Ufficio centrale di compensazione (organi esecutivi).
 
-[^49-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^49-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^49-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 49a
 
@@ -1368,7 +1384,7 @@ L’assicurazione per la vecchiaia e per i superstiti è applicata, sotto la vig
 
 <sup>3</sup> Le organizzazioni specializzate degli organi esecutivi elaborano norme per l’adempimento dei requisiti di cui all’articolo 72*a* capoverso 2 lettera b.
 
-[^49a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 49b
 
@@ -1376,9 +1392,9 @@ L’assicurazione per la vecchiaia e per i superstiti è applicata, sotto la vig
 
 Il Consiglio federale può prescrivere agli organi esecutivi l’utilizzo di sistemi d’informazione sviluppati, previa consultazione degli organi interessati, per l’adempimento dei compiti previsti dall’allegato II dell’Accordo del 21 giugno 1999[^49b-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e da altre convenzioni internazionali in materia di sicurezza sociale.
 
-[^49b-1]: Originario art. 49*a*. Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. 2 n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^49b-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^49b-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^49b-1]: Originario art. 49*a*. Introdotto dalla cifra I della LF del 23 giu. 2000 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Nuovo testo giusta l’all. 2 n. 5 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^49b-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49b-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 49c
 
@@ -1401,7 +1417,7 @@ Vi registra:
 
 <sup>3</sup> L’Ufficio centrale di compensazione notifica i decessi e i cambiamenti di stato civile alle casse di compensazione e mette a disposizione degli organi di cui all’articolo 50*b* capoverso 1 i dati necessari.
 
-[^49c-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49c-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 49d
 
@@ -1424,7 +1440,7 @@ Vi registra:
 
 <sup>3</sup> L’Ufficio centrale di compensazione mette a disposizione degli organi di cui agli articoli 50*b* capoverso 1 e 153*c* capoverso 1 i dati necessari.
 
-[^49d-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49d-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 49e
 
@@ -1440,7 +1456,7 @@ Il Consiglio federale disciplina:
 - f. la sicurezza dei dati;
 - g. la partecipazione ai costi da parte degli assicuratori contro gli infortuni e dell’assicurazione militare.
 
-[^49e-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49e-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 49f
 
@@ -1460,13 +1476,13 @@ Gli organi incaricati di applicare la presente legge o di controllarne o sorvegl
 
 <sup>2</sup> Per adempiere tali compiti possono inoltre trattare o far trattare dati personali che permettono segnatamente di valutare la salute, la gravità dell’infermità fisica o psichica, i bisogni e la situazione economica dell’assicurato.
 
-[^49f-1]: Introdotto dal n. II cpv. 2 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^49f-1]: Introdotto dalla cifra II cpv. 2 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 50
 
 [^50-1]
 
-[^50-1]: Abrogato dal n. I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^50-1]: Abrogato dalla cifra I dell’O dell’AF del 21 giu. 2002, con effetto dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 50a
 
@@ -1514,28 +1530,28 @@ Negli altri casi, in deroga all’articolo 33 LPGA, i dati possono essere comuni
 
 <sup>7</sup> I dati sono di norma comunicati per scritto e gratuitamente. Il Consiglio federale può prevedere la riscossione di un emolumento qualora sia necessario un particolare dispendio di lavoro.
 
-[^50a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^50a-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^50a-3]: Nuovo testo giusta il n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^50a-4]: Introdotta dal n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^50a-5]: Nuova espr. giusta il n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^50a-6]: Introdotta dal n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^50a-7]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^50a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^50a-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^50a-3]: Nuovo testo giusta la cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^50a-4]: Introdotta dalla cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^50a-5]: Nuova espr. giusta la cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^50a-6]: Introdotta dalla cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^50a-7]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 [^50a-8]: Introdotta dall’art. 36 della LF del 18 mar. 2016 sulla registrazione delle malattie tumorali, in vigore dal 1° gen. 2020 ([RU 2018 2005](https://fedlex.data.admin.ch/eli/oc/2018/289); [FF 2014 7529](https://fedlex.data.admin.ch/eli/fga/2014/1917)).
-[^50a-9]: [RS 818.33](https://fedlex.data.admin.ch/eli/cc/2018/289)
-[^50a-10]: Introdotta dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 14 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
-[^50a-11]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
-[^50a-12]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^50a-9]: [RS 818.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9832)
+[^50a-10]: Introdotta dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. cifra II n. 14 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^50a-11]: [RS 121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4758)
+[^50a-12]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^50a-13]: Introdotto dall’all. n. 26 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^50a-14]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^50a-15]: Introdotto dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. n. II 14 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^50a-14]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^50a-15]: Introdotto dall’all. n. 8 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Abrogato dall’all. cifra II n. 14 della LF del 25 set. 2015 sulle attività informative, con effetto dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^50a-16]: Introdotta dall’all. n. 4 della LF del 14 dic. 2018 (Norme procedurali e sistemi d’informazione), in vigore dal 1° giu. 2019 ([RU 2019 1413](https://fedlex.data.admin.ch/eli/oc/2019/278); [FF 2018 1381](https://fedlex.data.admin.ch/eli/fga/2018/673)).
-[^50a-17]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^50a-18]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^50a-19]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^50a-17]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^50a-18]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^50a-19]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^50a-20]: Nuovo testo giusta l’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^50a-21]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^50a-22]: Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^50a-21]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^50a-22]: Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
 
 #### Art. 50b
 
@@ -1553,16 +1569,16 @@ Possono accedere, mediante procedura di richiamo, al registro delle prestazioni 
 
 <sup>2</sup> …[^50b-10]
 
-[^50b-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^50b-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^50b-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
-[^50b-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^50b-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^50b-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^50b-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-3]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^50b-4]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-5]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^50b-6]: Introdotta dall’all. n. 1 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^50b-7]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
+[^50b-7]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
 [^50b-8]: Introdotta dall’all. n. 1 della LF del 25 set. 2015 (Assicurazione contro gli infortuni e prevenzione degli infortuni), in vigore dal 1° gen. 2017 ([RU 2016 4375](https://fedlex.data.admin.ch/eli/oc/2016/723); [FF 2008 4703](https://fedlex.data.admin.ch/eli/fga/2008/981), [2014 6835](https://fedlex.data.admin.ch/eli/fga/2014/1712)).
-[^50b-9]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^50b-10]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-9]: Introdotta dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^50b-10]: Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 50c
 
@@ -1584,16 +1600,16 @@ Il numero AVS è inoltre assegnato a una persona se risulta necessario:[^50c-3]
 
 <sup>3</sup> Il numero AVS non deve essere composto in modo tale da permettere di risalire alla persona cui esso è assegnato.
 
-[^50c-1]: Introdotto dal n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
-[^50c-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^50c-3]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^50c-4]: Nuovo testo giusta il n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^50c-1]: Introdotto dalla cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^50c-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^50c-3]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^50c-4]: Nuovo testo giusta la cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 50d a 50g
 
 [^50d50g-1]
 
-[^50d50g-1]: Introdotti dal n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogati dal n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^50d50g-1]: Introdotti dalla cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogati dalla cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 ### B. Datori di lavoro
 
@@ -1609,10 +1625,10 @@ Il numero AVS è inoltre assegnato a una persona se risulta necessario:[^50c-3]
 
 <sup>4</sup> Il Consiglio federale può assegnare ai datori di lavoro altri compiti relativi alla riscossione dei contributi o al pagamento delle rendite.
 
-[^51-1]: Nuovo testo giusta il n. I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^51-2]: Abrogato dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
+[^51-1]: Nuovo testo giusta la cifra I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^51-2]: Abrogato dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), con effetto dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1))
 [^51-3]: Vedi anche le disp. fin della mod. del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) alla fine del presente testo.
-[^51-4]: Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^51-4]: Nuovo testo giusta la cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 
 #### Art. 52
 
@@ -1631,11 +1647,11 @@ Il numero AVS è inoltre assegnato a una persona se risulta necessario:[^50c-3]
 <sup>6</sup> La responsabilità di cui all’articolo 78 LPGA è esclusa.
 
 [^52-1]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^52-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^52-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^52-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^52-4]: Nuovo testo giusta l’all. n. 21 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
-[^52-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^52-6]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^52-5]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^52-6]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### C. Casse di compensazione
 
@@ -1656,17 +1672,17 @@ Sono autorizzate a costituire casse di compensazione professionali una o più as
 
 <sup>2</sup> Se parecchie delle associazioni indicate nel capoverso 1 costituiscono insieme una cassa di compensazione o se una siffatta associazione intende partecipare alla gestione di una cassa di compensazione esistente, ogni singola associazione deve prendere una decisione conforme al capoverso 1 lettera b per quanto concerne la gestione in comune della cassa.
 
-[^53-1]: Nuovo testo giusta il n. I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
-[^53-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^53-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^53-4]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^53-5]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^53-1]: Nuovo testo giusta la cifra I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
+[^53-2]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^53-3]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^53-4]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^53-5]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 54
 
 **b. …**[^54-1]
 
-[^54-1]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^54-1]: Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 55
 
@@ -1686,9 +1702,9 @@ La garanzia deve essere prestata, a scelta delle associazioni, mediante:
 
 <sup>4</sup> Il Consiglio federale emanerà le disposizioni particolari relative alla garanzia.
 
-[^55-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^55-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^55-2]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^55-3]: Nuovo testo giusta il n. I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^55-3]: Nuovo testo giusta la cifra I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 
 #### Art. 56
 
@@ -1719,9 +1735,9 @@ Il regolamento deve contenere disposizioni su:
 - g.[^57-1] il controllo dei datori di lavoro;
 - h.[^57-2] la partecipazione, nel caso di più associazioni fondatrici, delle associazioni alla prestazione della garanzia nel senso dell’articolo 55 e l’ordinamento del regresso nei casi in cui sono applicabili l’articolo 78 LPGA[^57-3] e l’articolo 70 della presente legge.
 
-[^57-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^57-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^57-2]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^57-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^57-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 58
 
@@ -1746,12 +1762,12 @@ Al comitato direttivo incombe:
 
 <sup>5</sup> Il regolamento può attribuire altri compiti e competenze al comitato direttivo.[^58-6]
 
-[^58-1]: Nuovo testo del terzo per. giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^58-2]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^58-3]: Per. abrogato n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^58-4]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^58-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^58-6]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-1]: Nuovo testo del terzo per. giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-2]: Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-3]: Per. abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-4]: Introdotta dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-5]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^58-6]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 59
 
@@ -1775,10 +1791,10 @@ Al comitato direttivo incombe:
 
 <sup>3</sup> Il Consiglio federale emana disposizioni particolareggiate relative alle riserve e al loro ammontare nonché allo scioglimento delle casse di compensazione professionali.[^60-4]
 
-[^60-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^60-2]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^60-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^60-4]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-2]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^60-3]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^60-4]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### II. Casse di compensazione cantonali
 
@@ -1803,14 +1819,14 @@ Il decreto cantonale necessita dell’approvazione della Confederazione e contie
 - f.[^61-7] l’approvazione del conto d’esercizio e del rapporto di gestione della cassa di compensazione;
 - g.[^61-8] l’istituzione della commissione amministrativa nonché le dimensioni, la composizione e le competenze della stessa.
 
-[^61-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del testo.
-[^61-2]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del testo.
-[^61-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^61-4]: Abrogata dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^61-5]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^61-6]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^61-7]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^61-8]: Introdotta dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del testo.
+[^61-2]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del testo.
+[^61-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-4]: Abrogata dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-5]: Introdotta dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-6]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-7]: Introdotta dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^61-8]: Introdotta dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### III. Casse di compensazione della Confederazione
 
@@ -1822,9 +1838,9 @@ Il decreto cantonale necessita dell’approvazione della Confederazione e contie
 
 <sup>2</sup> Il Consiglio federale istituisce una cassa di compensazione incaricata di applicare l’assicurazione facoltativa e di eseguire i compiti ad essa assegnati da convenzioni internazionali e di versare le prestazioni spettanti a persone all’estero. La cassa di compensazione affilia inoltre gli studenti assicurati in virtù dell’articolo 1*a* capoverso 3 lettera b.[^62-2] [^62-3]
 
-[^62-1]: Nuovo testo giusta il n. I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
-[^62-2]: Nuovo testo del per. giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^62-3]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^62-1]: Nuovo testo giusta la cifra I della LF del 30 set. 1953, in vigore dal 1° gen. 1954 ([RU 1954 102](https://fedlex.data.admin.ch/eli/oc/1954/211_217_102); FF **1953** 449).
+[^62-2]: Nuovo testo del per. giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^62-3]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 
 ### IV. Disposizioni comuni
 
@@ -1852,15 +1868,15 @@ Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 
 <sup>5</sup> …[^63-9]
 
-[^63-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^63-2]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-3]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^63-4]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-5]: Nuova designazione giusta il n. II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^63-6]: Nuovo testo giusta il n. I della LF del 19 dic. 1963 in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
-[^63-7]: Nuovo testo del secondo per. giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^63-8]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^63-9]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-2]: Nuova locuzione giusta la cifra II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-3]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^63-4]: Nuova locuzione giusta la cifra II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-5]: Nuova designazione giusta la cifra II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^63-6]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963 in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
+[^63-7]: Nuovo testo del secondo per. giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-8]: Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63-9]: Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS) ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)). Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 63a
 
@@ -1874,7 +1890,7 @@ Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 
 <sup>4</sup> Per l’esecuzione dei compiti delegati dalla Confederazione, le casse di compensazione sono vincolate esclusivamente alle istruzioni dell’autorità di vigilanza di cui all’articolo 72.
 
-[^63a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 63b
 
@@ -1886,8 +1902,8 @@ Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 
 <sup>3</sup> La responsabilità di cui all’articolo 78 LPGA e all’articolo 70 della presente legge per i compiti delle casse che vengono svolti da terzi resta alle associazioni fondatrici o ai Cantoni.
 
-[^63b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^63b-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^63b-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^63b-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 64
 
@@ -1909,13 +1925,13 @@ Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 
 <sup>6</sup> In deroga all’articolo 35 LPGA[^64-7], le controversie sull’affiliazione alle casse di compensazione sono giudicate dal competente ufficio federale. La sua decisione può essere invocata dalle casse di compensazione e dalle persone interessate entro 30 giorni dal ricevimento dell’avviso riguardante l’affiliazione.[^64-8]
 
-[^64-1]: Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^64-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^64-3]: Introdotto dal n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^64-4]: Introdotto dal n. I della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta il n. I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
-[^64-5]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^64-6]: Introdotto dal n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^64-7]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^64-1]: Nuovo testo giusta la cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^64-2]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^64-3]: Introdotto dalla cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^64-4]: Introdotto dalla cifra I della LF del 23 giu. 2000 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)). Nuovo testo giusta la cifra I dell’O dell’AF del 21 giu. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3453](https://fedlex.data.admin.ch/eli/oc/2002/511); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)).
+[^64-5]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^64-6]: Introdotto dalla cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^64-7]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^64-8]: Introdotto dall’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
 
 #### Art. 64a
@@ -1924,7 +1940,7 @@ Alle casse di compensazione incombono in particolare i compiti seguenti:[^63-1]
 
 La fissazione e il versamento delle rendite per coniugi incombono alla cassa di compensazione che deve versare la rendita del coniuge che riscuote per primo la rendita di vecchiaia; è fatto salvo l’articolo 62 capoverso 2. Il Consiglio federale disciplina la procedura.
 
-[^64a-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^64a-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 65
 
@@ -1936,7 +1952,7 @@ La fissazione e il versamento delle rendite per coniugi incombono alla cassa di 
 
 <sup>3</sup> I Governi cantonali possono istituire agenzie della cassa cantonale di compensazione per il personale dell’amministrazione e delle aziende cantonali, nonché per gli impiegati e gli operai dei Comuni.
 
-[^65-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^65-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 66
 
@@ -1948,7 +1964,7 @@ La fissazione e il versamento delle rendite per coniugi incombono alla cassa di 
 
 <sup>3</sup> Il Consiglio federale può emanare prescrizioni sui requisiti minimi richiesti per la gestione dei rischi, la gestione della qualità e il sistema di controllo interno.
 
-[^66-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
+[^66-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)). Vedi anche le disp. fin. di detta mod. alla fine del presente testo.
 
 #### Art. 66a
 
@@ -1960,7 +1976,7 @@ Le seguenti persone devono godere di buona reputazione, offrire la garanzia di u
 - b. i membri della commissione amministrativa di una cassa di compensazione cantonale;
 - c. il gerente, il suo supplente e le altre persone cui sono affidati compiti di direzione.
 
-[^66a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^66a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 66b
 
@@ -1968,7 +1984,7 @@ Le seguenti persone devono godere di buona reputazione, offrire la garanzia di u
 
 Le casse di compensazione presentano annualmente all’autorità di vigilanza un rapporto di gestione e mettono a sua disposizione gli indicatori necessari per l’esercizio della vigilanza.
 
-[^66b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^66b-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 67
 
@@ -1985,7 +2001,7 @@ Il Consiglio federale emana prescrizioni sulle modalità con cui deve essere gar
 - c. impostare la contabilità e la presentazione dei conti delle casse di compensazione;
 - d. impostare la contabilità e la presentazione dei conti dell’istituto cantonale delle assicurazioni sociali di cui fa parte una cassa di compensazione cantonale secondo l’articolo 61 capoverso 1<sup>bis</sup>.
 
-[^67-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^67-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 68
 
@@ -2001,9 +2017,9 @@ Il Consiglio federale emana prescrizioni sulle modalità con cui deve essere gar
 
 <sup>5</sup> Se una cassa di compensazione fa parte di un istituto cantonale delle assicurazioni sociali, l’ufficio di revisione di quest’ultimo deve adempiere le condizioni di cui ai capoversi 1–4 ed eseguire anche la revisione della cassa di compensazione.
 
-[^68-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^68-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^68-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^68-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^68-2]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^68-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 68a
 
@@ -2027,7 +2043,7 @@ Verifica inoltre se:
 
 <sup>5</sup> Il Consiglio federale può incaricare l’autorità di vigilanza di emanare prescrizioni particolareggiate relative all’esecuzione delle revisioni. Le casse di compensazione sono sentite in merito a queste prescrizioni.
 
-[^68a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^68a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 68b
 
@@ -2047,8 +2063,8 @@ La cassa di compensazione controlla periodicamente se i datori di lavoro che le 
 
 <sup>4</sup> Il Consiglio federale può incaricare l’autorità di vigilanza di emanare prescrizioni particolareggiate relative al controllo dei datori di lavoro.
 
-[^68b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^68b-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^68b-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^68b-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 69
 
@@ -2064,10 +2080,10 @@ La cassa di compensazione controlla periodicamente se i datori di lavoro che le 
 
 <sup>4</sup> …[^69-4]
 
-[^69-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^69-2]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^69-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^69-2]: [RS 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^69-3]: Introdotto dall’all. n. 6 della L del 17 giu. 2005 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71); [FF 2002 3243](https://fedlex.data.admin.ch/eli/fga/2002/520)).
-[^69-4]: Abrogato dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^69-4]: Abrogato dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), con effetto dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 70
 
@@ -2089,8 +2105,8 @@ La pretesa di risarcimento per danni si estingue:
 <sup>5</sup> I danni, dei quali rispondono i Cantoni, possono essere compensati con prestazioni della Confederazione.
 
 [^70-1]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^70-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^70-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^70-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^70-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### D. Ufficio centrale di compensazione
 
@@ -2114,13 +2130,13 @@ La pretesa di risarcimento per danni si estingue:
 
 <sup>6</sup> L’Ufficio centrale completa le richieste di informazioni trasmessegli dall’Ufficio centrale del 2° pilastro secondo l’articolo 58*a* della legge federale del 25 giugno 1982[^71-6] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e risponde alle medesime.[^71-7]
 
-[^71-1]: Introdotto dall’all. n. II 4 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^71-2]: Nuova locuzione giusta il n. II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^71-3]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^71-4]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^71-5]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^71-6]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^71-7]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^71-1]: Introdotto dall’all. cifra II n. 4 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^71-2]: Nuova locuzione giusta la cifra II lett. b della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^71-3]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^71-4]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^71-5]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2749](https://fedlex.data.admin.ch/eli/oc/2000/461); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^71-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^71-7]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 71a
 
@@ -2138,7 +2154,7 @@ Per la responsabilità è applicabile per analogia l’articolo 70 capoversi 1�
 
 Il Consiglio federale designa l’autorità di vigilanza.
 
-[^72-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^72-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 72a
 
@@ -2156,7 +2172,7 @@ Adempie segnatamente i seguenti compiti:
 - d. emana istruzioni per il calcolo dei contributi e delle prestazioni;
 - e. rileva indicatori presso le casse di compensazione e l’Ufficio centrale di compensazione ed elabora statistiche.
 
-[^72a-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^72a-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 72b
 
@@ -2175,7 +2191,7 @@ L’autorità di vigilanza può:
 - i. in casi motivati, esigere dal competente organo di nomina la revoca dell’ufficio di revisione dalla sua funzione;
 - j. sospendere il versamento di eventuali sussidi prelevati dal Fondo di compensazione AVS.
 
-[^72b-1]: Introdotto dal n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^72b-1]: Introdotto dalla cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 73
 
@@ -2185,10 +2201,10 @@ L’autorità di vigilanza può:
 
 <sup>2</sup> La Commissione, oltre ai compiti indicati espressamente nella presente legge, dà parere al Consiglio federale sulle questioni relative all’applicazione e all’ulteriore sviluppo dell’assicurazione per la vecchiaia e per i superstiti. Il Consiglio federale può assegnarle altri compiti. Essa ha il diritto di fare, di propria iniziativa, proposte al Consiglio federale.[^73-4]
 
-[^73-1]: Nuova denominazione giusta il n. II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^73-2]: Nuova denominazione giusta il n. II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^73-1]: Nuova denominazione giusta la cifra II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^73-2]: Nuova denominazione giusta la cifra II lett. a della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 [^73-3]: Abrogato dall’all. n. 5 della LF del 25 giu. 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità, con effetto dal 1° gen. 1985 ([RU 1983 797](https://fedlex.data.admin.ch/eli/oc/1983/797_797_797); [FF 1976 I 113](https://fedlex.data.admin.ch/eli/fga/1976/1_149_117_113)).
-[^73-4]: Nuovo testo giusta il n. I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^73-4]: Nuovo testo giusta la cifra I della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
 
 ### Capo quinto: …
 
@@ -2207,7 +2223,7 @@ L’autorità di vigilanza può:
 In deroga all’articolo 58 capoverso 1 LPGA[^84-2], i ricorsi contro decisioni delle casse cantonali di compensazione sono giudicati dal tribunale delle assicurazioni del luogo in cui ha sede la cassa di compensazione.
 
 [^84-1]: Nuovo testo giusta l’all. n. 7 della LF del 6 ott. 2000 sulla parte generale del diritto delle assicurazioni sociali, in vigore dal 1° gen. 2003 ([RU 2002 3371](https://fedlex.data.admin.ch/eli/oc/2002/510); FF **1991** II 178 766, **1994** V 897, **1999** 3896).
-[^84-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^84-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 #### Art. 85
 
@@ -2225,10 +2241,10 @@ In deroga all’articolo 58 capoverso 1 LPGA[^84-2], i ricorsi contro decisioni 
 
 <sup>3</sup> Se l’esame preliminare, anteriore o posteriore a uno scambio di scritti, rileva che il ricorso al Tribunale amministrativo federale è inammissibile o manifestamente infondato, un giudice unico può, con motivazione sommaria, pronunciare la non entrata in materia o il rigetto.[^85bis-6]
 
-[^85bis-1]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° mag. 1978 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^85bis-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^85bis-1]: Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° mag. 1978 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^85bis-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^85bis-3]: Nuovo testo giusta l’all. n. 107 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^85bis-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^85bis-4]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^85bis-5]: Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 [^85bis-6]: Nuovo testo giusta l’all. n. 107 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -2262,12 +2278,12 @@ chiunque, nella sua qualità di revisore o di aiuto revisore, procedendo a una r
 
 è punito, sempreché non si tratti di un crimine o di un delitto cui è comminata una pena più grave, con una pena pecuniaria sino a 180 aliquote giornaliere.[^87-6]
 
-[^87-1]: Introdotto dal n. II 1 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^87-2]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
-[^87-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^87-1]: Introdotto dalla cifra II n. 1 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^87-2]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^87-3]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^87-4]: Introdotto dall’all. n. 3 della LF del 6 ott. 2006 (5<sup>a</sup> revisione dell’AI), in vigore dal 1° gen. 2008 ([RU 2007 5129](https://fedlex.data.admin.ch/eli/oc/2007/722); [FF 2005 3989](https://fedlex.data.admin.ch/eli/fga/2005/719)).
-[^87-5]: Introdotto dal n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogato dal n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^87-6]: Nuovo testo della comminatoria giusta il n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^87-5]: Introdotto dalla cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS) ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)). Abrogato dalla cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^87-6]: Nuovo testo della comminatoria giusta la cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 88
 
@@ -2283,15 +2299,15 @@ chiunque non riempie o riempie in modo non conforme al vero i moduli prescritti,
 
 è punito con la multa, sempreché non si verifichi una fattispecie indicata nell’articolo 87.[^88-3]
 
-[^88-1]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
-[^88-2]: Abrogato dal n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^88-3]: Nuovo testo della comminatoria giusta il n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^88-1]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^88-2]: Abrogato dalla cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^88-3]: Nuovo testo della comminatoria giusta la cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 89
 
 [^89-1]
 
-[^89-1]: Abrogato dal n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^89-1]: Abrogato dalla cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), con effetto dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 90
 
@@ -2299,7 +2315,7 @@ chiunque non riempie o riempie in modo non conforme al vero i moduli prescritti,
 
 Le sentenze e le dichiarazioni di non doversi procedere devono essere comunicate immediatamente nel loro testo integrale alla cassa di compensazione che ha denunciato il reato.
 
-[^90-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
+[^90-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2011 (Miglioramento dell’esecuzione), in vigore dal 1° gen. 2012 ([RU 2011 4745](https://fedlex.data.admin.ch/eli/oc/2011/673); [FF 2011 497](https://fedlex.data.admin.ch/eli/fga/2011/61)).
 
 #### Art. 91
 
@@ -2309,8 +2325,8 @@ Le sentenze e le dichiarazioni di non doversi procedere devono essere comunicate
 
 <sup>2</sup> La decisione di multa deve indicare i motivi.[^91-3]
 
-[^91-1]: Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
-[^91-2]: Nuovo testo giusta il n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
+[^91-1]: Nuovo testo giusta la cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^91-2]: Nuovo testo giusta la cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1997 ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)).
 [^91-3]: Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
 
 ### Capo ottavo: Disposizioni diverse relative alla parte prima
@@ -2319,13 +2335,13 @@ Le sentenze e le dichiarazioni di non doversi procedere devono essere comunicate
 
 [^92-1]
 
-[^92-1]: Abrogato dal n. I della LF del 23 giu. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
+[^92-1]: Abrogato dalla cifra I della LF del 23 giu. 2000, con effetto dal 1° gen. 2001 ([RU 2000 2677](https://fedlex.data.admin.ch/eli/oc/2000/439); [FF 1999 4303](https://fedlex.data.admin.ch/eli/fga/1999/1_4983_4601_4303)).
 
 #### Art. 92a
 
 [^92a-1]
 
-[^92a-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Abrogato dal n. I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), con effetto dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
+[^92a-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Abrogato dalla cifra I della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), con effetto dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
 #### Art. 93
 
@@ -2378,7 +2394,7 @@ Il Fondo di compensazione AVS assume:
 
 <sup>4</sup> Il Consiglio federale emana disposizioni sull’entità delle spese assunte dal Fondo di compensazione AVS e fissa l’importo che può essere utilizzato per l’informazione generale degli assicurati.
 
-[^95-1]: Nuovo testo giusta il n. I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^95-1]: Nuovo testo giusta la cifra I della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 #### Art. 95a
 
@@ -2386,8 +2402,8 @@ Il Fondo di compensazione AVS assume:
 
 Il Fondo di compensazione AVS rimborsa alla Confederazione, oltre alle spese di cui all’articolo 95, le spese per lo sviluppo e la gestione dei sistemi d’informazione necessari per l’adempimento dei compiti previsti dall’allegato II dell’Accordo sulla libera circolazione delle persone[^95a-2].
 
-[^95a-1]: Introdotto dal n. I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
-[^95a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^95a-1]: Introdotto dalla cifra I della LF del 7 ott. 1994 (10<sup>a</sup> revisione dell’AVS) ([RU 1996 2466](https://fedlex.data.admin.ch/eli/oc/1996/2466_2466_2466); [FF 1990 II 1](https://fedlex.data.admin.ch/eli/fga/1990/2_1_1_1)). Nuovo testo giusta l’all. n. 1 della LF del 21 giu. 2019, in vigore dal 1° gen. 2021 ([RU 2020 5137](https://fedlex.data.admin.ch/eli/oc/2020/892); [FF 2018 1303](https://fedlex.data.admin.ch/eli/fga/2018/671)).
+[^95a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 96
 
@@ -2417,13 +2433,13 @@ Il Fondo di compensazione AVS rimborsa alla Confederazione, oltre alle spese di 
 
 [^100-1]
 
-[^100-1]: Abrogato dal n. II 409 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
+[^100-1]: Abrogato dalla cifra II n. 409 della LF del 15 dic. 1989 concernente l’approvazione di atti legislativi dei Cantoni da parte della Confederazione, con effetto dal 1° feb. 1991 ([RU 1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362); [FF 1988 II 1149](https://fedlex.data.admin.ch/eli/fga/1988/2_1333_1293_1149)).
 
 #### Art. 101
 
 [^101-1]
 
-[^101-1]: Abrogato dal n. I 1 della LF del 5 ott. 1984, con effetto dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^101-1]: Abrogato dalla cifra I n. 1 della LF del 5 ott. 1984, con effetto dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 
 #### Art. 101<sup>bis</sup>
 
@@ -2444,19 +2460,19 @@ L’assicurazione può accordare sussidi alle spese di personale e di organizzaz
 
 <sup>4</sup> L’assicurazione non sussidierà le spese di cui al capoverso 1 se già sussidiate in virtù di altre leggi federali.
 
-[^101bis-1]: Introdotto dal n. I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
-[^101bis-2]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
-[^101bis-3]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^101bis-1]: Introdotto dalla cifra I della LF del 24 giu. 1977 (9<sup>a</sup> revisione dell’AVS), in vigore dal 1° gen. 1979 ([RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391); [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)).
+[^101bis-2]: Nuovo testo giusta la cifra II n. 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^101bis-3]: Nuovo testo giusta la cifra II n. 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 [^101bis-4]: Nuovo testo giusta l’all. n. 7 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^101bis-5]: Nuovo testo del terzo per. giusta l’all. n. 2 della LF del 19 giu. 2020 (Ulteriore sviluppo dell’AI), in vigore dal 1° gen. 2022 ([RU 2021 705](https://fedlex.data.admin.ch/eli/oc/2021/705); [FF 2017 2191](https://fedlex.data.admin.ch/eli/fga/2017/544)).
-[^101bis-6]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^101bis-7]: Abrogato dal n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^101bis-6]: Nuovo testo giusta la cifra II n. 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^101bis-7]: Abrogato dalla cifra II n. 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), con effetto dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 101<sup>ter</sup>
 
 [^101ter-1]
 
-[^101ter-1]: Introdotto dal n. I della LF del 21 giu. 2002 ([RU 2002 3475](https://fedlex.data.admin.ch/eli/oc/2002/513); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)). Abrogato dall’all. n. 107 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^101ter-1]: Introdotto dalla cifra I della LF del 21 giu. 2002 ([RU 2002 3475](https://fedlex.data.admin.ch/eli/oc/2002/513); [FF 2002 715](https://fedlex.data.admin.ch/eli/fga/2002/114)). Abrogato dall’all. n. 107 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 ## Parte seconda: Finanziamento
 
@@ -2479,14 +2495,14 @@ Le prestazioni dell’assicurazione per la vecchiaia e per i superstiti sono fin
 
 <sup>2</sup> L’assegno per grandi invalidi è finanziato esclusivamente dalla Confederazione.[^102-8]
 
-[^102-1]: Nuovo testo giusta il n. I della LF del 19 dic. 1963, in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
-[^102-2]: Nuovo testo giusta il n. II lett. c della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
-[^102-3]: Nuovo testo giusta il n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
-[^102-4]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^102-5]: Introdotta dal n. I 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
-[^102-6]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^102-7]: Introdotta dal n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
-[^102-8]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^102-1]: Nuovo testo giusta la cifra I della LF del 19 dic. 1963, in vigore dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
+[^102-2]: Nuovo testo giusta la cifra II lett. c della LF del 4 ott. 1968, in vigore dal 1° gen. 1969 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)).
+[^102-3]: Nuovo testo giusta la cifra I n. 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^102-4]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-5]: Introdotta dalla cifra I n. 1 della LF del 5 ott. 1984, in vigore dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^102-6]: Introdotta dalla cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-7]: Introdotta dalla cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^102-8]: Nuovo testo giusta la cifra II n. 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
 
 #### Art. 103
 
@@ -2494,7 +2510,7 @@ Le prestazioni dell’assicurazione per la vecchiaia e per i superstiti sono fin
 
 Il contributo della Confederazione ammonta al 20,2 per cento delle uscite annue dell’assicurazione; da questo importo è dedotto il contributo all’assegno per grandi invalidi secondo l’articolo 102 capoverso 2.
 
-[^103-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^103-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 104
 
@@ -2504,13 +2520,13 @@ Il contributo della Confederazione ammonta al 20,2 per cento delle uscite annue 
 
 <sup>2</sup> L’importo residuo è coperto mediante le risorse generali.
 
-[^104-1]: Nuovo testo giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^104-1]: Nuovo testo giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 105 e 106
 
 [^105106-1]
 
-[^105106-1]: Abrogati dal n. I 1 della LF del 5 ott. 1984, con effetto dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
+[^105106-1]: Abrogati dalla cifra I n. 1 della LF del 5 ott. 1984, con effetto dal 1° gen. 1986 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)).
 
 ### Capo secondo: Fondo di compensazione dell’assicurazione per la vecchiaia e per i superstiti
 
@@ -2524,16 +2540,16 @@ Il contributo della Confederazione ammonta al 20,2 per cento delle uscite annue 
 
 <sup>3</sup> Il Fondo di compensazione AVS non deve, di regola, scendere sotto un importo uguale a quello delle uscite di un anno.[^107-4]
 
-[^107-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^107-2]: Nuovo testo giusta l’all. n. II 4 della LF LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^107-3]: Nuovo testo giusta il n. II 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^107-4]: Introdotto dal n. I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta il n. I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
+[^107-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^107-2]: Nuovo testo giusta l’all. cifra II n. 4 della LF LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^107-3]: Nuovo testo giusta la cifra II n. 24 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
+[^107-4]: Introdotto dalla cifra I della LF del 4 ott. 1968 ([RU 1969 120](https://fedlex.data.admin.ch/eli/oc/1969/111_120_120); [FF 1968 I 671](https://fedlex.data.admin.ch/eli/fga/1968/1_602_627_671)). Nuovo testo giusta la cifra I della LF del 30 giu. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2314](https://fedlex.data.admin.ch/eli/oc/1972/2483_2537_2314); [FF 1971 II 729](https://fedlex.data.admin.ch/eli/fga/1971/2_1057_1057_729)).
 
 #### Art. 108
 
 [^108-1]
 
-[^108-1]: Abrogato dall’all. n. II 4 della LF del 16 giu. 2017 sui fondi di compensazione, con effetto dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^108-1]: Abrogato dall’all. cifra II n. 4 della LF del 16 giu. 2017 sui fondi di compensazione, con effetto dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 
 #### Art. 109
 
@@ -2541,14 +2557,14 @@ Il contributo della Confederazione ammonta al 20,2 per cento delle uscite annue 
 
 L’amministrazione del Fondo di compensazione AVS è retta dalla legge del 16 giugno 2017[^109-2] sui fondi di compensazione.
 
-[^109-1]: Nuovo testo giusta l’all. n. II 4 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
-[^109-2]: [RS 830.2](https://fedlex.data.admin.ch/eli/cc/2017/820)
+[^109-1]: Nuovo testo giusta l’all. cifra II n. 4 della LF del 16 giu. 2017 sui fondi di compensazione, in vigore dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^109-2]: [RS 830.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9996)
 
 #### Art. 110
 
 [^110-1]
 
-[^110-1]: Abrogato dall’all. n. II 4 della LF del 16 giu. 2017 sui fondi di compensazione, con effetto dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
+[^110-1]: Abrogato dall’all. cifra II n. 4 della LF del 16 giu. 2017 sui fondi di compensazione, con effetto dal 1° gen. 2019 ([RU 2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820); [FF 2016 255](https://fedlex.data.admin.ch/eli/fga/2016/68)).
 
 ### Capo terzo: …
 
@@ -2556,13 +2572,13 @@ L’amministrazione del Fondo di compensazione AVS è retta dalla legge del 16 g
 
 [^111-1]
 
-[^111-1]: Abrogato dal n. I della LF del 17 dic. 2021 (AVS 21), con effetto dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^111-1]: Abrogato dalla cifra I della LF del 17 dic. 2021 (AVS 21), con effetto dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 
 #### Art. 112
 
 [^112-1]
 
-[^112-1]: Abrogato dal n. I della LF del 19 dic. 1963, con effetto dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
+[^112-1]: Abrogato dalla cifra I della LF del 19 dic. 1963, con effetto dal 1° gen. 1964 ([RU 1964 277](https://fedlex.data.admin.ch/eli/oc/1964/285_277_277); FF **1963** 1209).
 
 ### Capo quarto: …
 
@@ -2576,7 +2592,7 @@ L’amministrazione del Fondo di compensazione AVS è retta dalla legge del 16 g
 
 [^part3-1]
 
-[^part3-1]: Introdotta dal n. I 4 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^part3-1]: Introdotta dalla cifra I n. 4 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 
 #### Art. 153a
 
@@ -2605,18 +2621,18 @@ Ai cittadini svizzeri, islandesi, norvegesi o del Principato del Liechtenstein c
 <sup>4</sup> Nella presente legge le espressioni «Stati membri dell’Unione europea», «Stati membri della Comunità europea», «Stati dell’Unione europea» e «Stati della Comunità europea» designano gli Stati cui si applica l’Accordo sulla libera circolazione delle persone.
 
 [^153a-1]: Nuovo testo giusta l’all. n. 1 del DF del 17 giu. 2016 (estensione alla Croazia dell’Accordo sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
-[^153a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^153a-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)).
-[^153a-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)).
+[^153a-2]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^153a-3]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)).
+[^153a-4]: Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, che stabilisce le modalità di applicazione del regolamento (CE) n. 883/2004 relativo al coordinamento dei sistemi di sicurezza sociale ([RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)).
 [^153a-5]: Regolamento (CEE) n. 1408/71 del Consiglio, del 14 giugno 1971, relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2004 121](https://fedlex.data.admin.ch/eli/oc/2004/11), [2008 4219](https://fedlex.data.admin.ch/eli/oc/2008/604)[4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 4831](https://fedlex.data.admin.ch/eli/oc/2009/573)) e della Convenzione AELS riveduta.
 [^153a-6]: Regolamento (CEE) n. 574/72 del Consiglio, del 21 marzo 1972, che stabilisce le modali-tà di applicazione del regolamento (CEE) n. 1408/71 relativo all’applicazione dei regimi di sicurezza sociale ai lavoratori subordinati, ai lavoratori autonomi e ai loro familiari che si spostano all’interno della Comunità; nella versione in vigore dell’Accordo sulla libera circolazione delle persone ([RU 2005 3909](https://fedlex.data.admin.ch/eli/oc/2005/540), [2008 4273](https://fedlex.data.admin.ch/eli/oc/2008/605), [2009 621](https://fedlex.data.admin.ch/eli/oc/2009/113)[4845](https://fedlex.data.admin.ch/eli/oc/2009/574)) e della Convenzione AELS riveduta.
-[^153a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^153a-7]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 
 ## Parte quarta: Utilizzazione sistematica del numero AVS al di fuori dell’AVS
 
 [^part4-1]
 
-[^part4-1]: Introdotta dal n. I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^part4-1]: Introdotta dalla cifra I della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 153b
 
@@ -2647,7 +2663,7 @@ Soltanto le seguenti autorità, organizzazioni e persone sono autorizzate a util
 
 <sup>2</sup> Esse non possono utilizzare sistematicamente il numero AVS negli ambiti in cui il diritto applicabile lo esclude espressamente.
 
-[^153c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^153c-1]: [RS 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 153d
 
@@ -2712,7 +2728,7 @@ Il Consiglio federale può prevedere emolumenti per i servizi che l’Ufficio ce
 
 <sup>3</sup> L’articolo 79 LPGA[^153i-1] è applicabile.
 
-[^153i-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^153i-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Parte quinta: Disposizioni finali
 
@@ -2734,19 +2750,19 @@ Il Consiglio federale può prevedere emolumenti per i servizi che l’Ufficio ce
 
 [^155-1]
 
-[^155-1]: Introdotto dal n. I 1 della LF del 5 ott. 1984 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)). Abrogato dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^155-1]: Introdotto dalla cifra I n. 1 della LF del 5 ott. 1984 ([RU 1985 2002](https://fedlex.data.admin.ch/eli/oc/1985/2002_2002_2002); [FF 1981 III 677](https://fedlex.data.admin.ch/eli/fga/1981/3_737_705_677)). Abrogato dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizioni finali della modifica del 28 giugno 1974
 
 [^u1-1]
 
-[^u1-1]: [RU 1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589). Abrogate dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u1-1]: [RU 1974 1589](https://fedlex.data.admin.ch/eli/oc/1974/1589_1589_1589). Abrogate dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizioni finali della modifica del 24 giugno 1977 (9<sup>a</sup> revisione dell’AVS)
 
 [^u2-1]
 
-[^u2-1]: [RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)n. III 1; [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)
+[^u2-1]: [RU 1978 391](https://fedlex.data.admin.ch/eli/oc/1978/391_391_391)cifra III n. 1; [FF 1976 III 1](https://fedlex.data.admin.ch/eli/fga/1976/3_1_1_1)
 
 ### a. Primo adeguamento delle rendite da parte del Consiglio federale
 
@@ -2764,7 +2780,7 @@ Il Consiglio federale può prevedere emolumenti per i servizi che l’Ufficio ce
 
 [^u2-lvlu2-1]
 
-[^u2-lvlu2-1]: Abrogate dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u2-lvlu2-1]: Abrogate dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### e. Applicazione del regresso nei confronti di terzi responsabili
 
@@ -2774,7 +2790,7 @@ Il Consiglio federale può prevedere emolumenti per i servizi che l’Ufficio ce
 
 Gli articoli 72–75 LPGA[^u2-lvle-2] si applicano ai casi in cui l’evento che motiva il risarcimento si è verificato dopo l’entrata in vigore delle presenti disposizioni.
 
-[^u2-lvle-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^u2-lvle-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ### f. Applicazione del nuovo articolo 30 capoversi 2 e 2<sup>bis</sup> della LAVS
 
@@ -2784,19 +2800,19 @@ L’articolo 30 capoversi 2 e 2<sup>bis</sup> della LAVS s’applica alle rendit
 
 [^u2-lvlg-1]
 
-[^u2-lvlg-1]: Abrogata dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u2-lvlg-1]: Abrogata dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizioni finali della modifica del 20 marzo 1981
 
 [^u3-1]
 
-[^u3-1]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676), All. n. 2. Abrogate dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u3-1]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190), All. n. 2. Abrogate dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizione finale della modifica del 7 ottobre 1983
 
 [^u4-1]
 
-[^u4-1]: [RU 1984 100](https://fedlex.data.admin.ch/eli/oc/1984/100_100_100). Abrogata dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u4-1]: [RU 1984 100](https://fedlex.data.admin.ch/eli/oc/1984/100_100_100). Abrogata dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizioni finali della modifica del 7 ottobre 1994 (10<sup>a</sup> revisione dell’AVS)
 
@@ -2814,7 +2830,7 @@ L’articolo 30 capoversi 2 e 2<sup>bis</sup> della LAVS s’applica alle rendit
 
 [^u5-lvlb-1]
 
-[^u5-lvlb-1]: Abrogata dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u5-lvlb-1]: Abrogata dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ### c. Introduzione di un nuovo sistema di rendite
 
@@ -2892,7 +2908,7 @@ L’accredito transitorio può tuttavia essere computato al massimo per il numer
 
 <sup>3</sup> I datori di lavoro che il 1° gennaio 1997 hanno versato essi stessi le rendite ai dipendenti o ai loro superstiti conformemente all’articolo 51 capoverso 2 possono continuare a versare le rendite alle stesse condizioni.
 
-[^u5-lvlg-1]: [[RU 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)n. I 5]
+[^u5-lvlg-1]: [[RU 1992 1982](https://fedlex.data.admin.ch/eli/oc/1992/1982_1982_1982); [1995 510](https://fedlex.data.admin.ch/eli/oc/1995/510_510_510), [3517](https://fedlex.data.admin.ch/eli/oc/1995/3517_3517_3517)cifra I n. 5]
 
 ### h. Prestazioni accordate a cittadini di Stati che non hanno concluso convenzioni di sicurezza sociale con la Svizzera
 
@@ -2902,14 +2918,14 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 
 [^u6-1]
 
-[^u6-1]: [RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)n. I 9, 2385 cpv. 2 n. 2 lett. d; FF **1999** 3
+[^u6-1]: [RU 1999 2374](https://fedlex.data.admin.ch/eli/oc/1999/363)cifra I n. 9, 2385 cpv. 2 n. 2 lett. d; FF **1999** 3
 
 <sup>1</sup> Il decreto federale del 4 ottobre 1985[^u6-2] che stabilisce i contributi, federale e cantonale, all’assicurazione vecchiaia e superstiti è abrogato.
 
 <sup>2</sup> …[^u6-3]
 
 [^u6-2]: [[RU 1985 2006](https://fedlex.data.admin.ch/eli/oc/1985/2006_2006_2006), [1996 3441](https://fedlex.data.admin.ch/eli/oc/1996/3441_3441_3441)]
-[^u6-3]: Abrogato dal n. I 12 della LF del 19 dic. 2003 sul programma di sgravio 2003, con effetto dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
+[^u6-3]: Abrogato dalla cifra I n. 12 della LF del 19 dic. 2003 sul programma di sgravio 2003, con effetto dal 1° gen. 2005 ([RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200); [FF 2003 4857](https://fedlex.data.admin.ch/eli/fga/2003/887)).
 
 ## Disposizioni finali della modifica del 23 giugno 2000
 
@@ -2936,14 +2952,14 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 
 <sup>2</sup> Le prestazioni assistenziali attualmente versate ai cittadini svizzeri che vivono in Islanda, nel Liechtenstein o in Norvegia continueranno ad esserlo anche dopo l’entrata in vigore della modifica del 14 dicembre 2001, a concorrenza dell’importo che ricevevano fino a quel momento, fintanto che adempieranno le condizioni in materia di redditi.
 
-[^u8-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
+[^u8-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
 [^u8-3]: In vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)).
 
 ## Disposizione finale della modifica del 19 dicembre 2003
 
 [^u9-1]
 
-[^u9-1]: [RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200). Abrogate dal n. II 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^u9-1]: [RU 2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200). Abrogate dalla cifra II n. 39 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 ## Disposizioni finali della modifica del 17 dicembre 2004
 
@@ -2956,7 +2972,7 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 <sup>2</sup> Le prestazioni assistenziali attualmente corrisposte a cittadini svizzeri residenti a Cipro, in Estonia, Lettonia, Lituania, Malta, Polonia, Repubblica ceca, Repubblica slovacca, Slovenia o Ungheria, continueranno ad essere loro versate nella stessa misura anche dopo l’entrata in vigore del Protocollo del 26 ottobre 2004 relativo all’estensione dell’Accordo sulla libera circolazione ai nuovi Stati membri della CE, finché adempiono le condizioni di reddito.
 
 [^u10-2]: [RU 2006 995](https://fedlex.data.admin.ch/eli/oc/2006/179)
-[^u10-3]: Nuova espr. giusta il n. I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^u10-3]: Nuova espr. giusta la cifra I della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 ## Disposizioni finali della modifica del 23 giugno 2006
 
@@ -2981,7 +2997,7 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 <sup>2</sup> …[^u12-3]
 
 [^u12-2]: [RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)
-[^u12-3]: Abrogato dal n. I 4 della LF del 22 giu. 2007 sulla nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 607](https://fedlex.data.admin.ch/eli/fga/2007/88)).
+[^u12-3]: Abrogato dalla cifra I n. 4 della LF del 22 giu. 2007 sulla nuova impostazione della perequazione finanziaria e ripartizione dei compiti tra Confederazione e Cantoni, con effetto dal 1° gen. 2008 ([RU 2007 5953](https://fedlex.data.admin.ch/eli/oc/2007/795); [FF 2007 607](https://fedlex.data.admin.ch/eli/fga/2007/88)).
 
 ## Disposizioni transitorie della modifica del 13 giugno 2008
 
@@ -2993,7 +3009,7 @@ L’articolo 18 capoverso 2 si applica anche qualora l’evento assicurato si si
 
 <sup>2</sup> Le prestazioni assistenziali attualmente corrisposte a cittadini svizzeri residenti in Bulgaria o in Romania continueranno ad essere loro versate nella stessa misura anche dopo l’entrata in vigore del Protocollo del 27 maggio 2008 relativo all’estensione dell’Accordo sulla libera circolazione ai nuovi Stati membri della CE (Bulgaria e Romania), fintantoché adempiono le condizioni di reddito.
 
-[^u13-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/eli/cc/2009/297)
+[^u13-2]: [RS 0.142.112.681.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/212)
 
 ## Disposizione transitoria della modifica del 17 giugno 2011
 
@@ -3016,7 +3032,7 @@ L’articolo 9 capoverso 4 si applica a tutti i redditi provenienti da un’atti
 <sup>2</sup> Le prestazioni assistenziali attualmente corrisposte a cittadini svizzeri residenti in Croazia continueranno ad essere loro versate nella stessa misura anche dopo l’entrata in vigore di detto Protocollo, finché essi adempiono le condizioni in materia di reddito.
 
 [^u15-2]: [RU 2016 5251](https://fedlex.data.admin.ch/eli/oc/2016/829)
-[^u15-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^u15-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 ## Disposizione finale della modifica del 18 dicembre 2020
 
@@ -3058,7 +3074,7 @@ L’età di riferimento è di:
 - d. 64 anni e nove mesi per le donne nate nel 1963;
 - e. 65 anni per le donne nate nel 1964 o successivamente.
 
-[^u17-2]: In vigore dal 1° gennaio 2025 con effetto al 31 dicembre 2033.
+[^u17-2]: In vigore dal 1° gen. 2025 con effetto al 31 dic. 2033.
 
 ## Disposizioni finali della modifica del 17 giugno 2022 (Modernizzazione della vigilanza)
 
