@@ -4,13 +4,12 @@ number: "661.1"
 title: Gesetz über die Obwaldner Kantonalbank
 short: Kantonalbankgesetz
 language: de
-version: 2006-07-01
-valid_until: 2025-12-31
-version_adopted: 2006-01-27
+version: 2026-01-01
+version_adopted: 2025-06-27
 adopted: 2006-01-27
 in_force: 2006-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/661.1"
-pdf: "http://gdb.ow.ch/api/de/versions/138/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1941/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/138/pdf_file"
 
 (Kantonalbankgesetz)
 
-vom 27.01.2006 (Stand 01.07.2006)
+vom 27.01.2006 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -113,7 +112,7 @@ beschliesst:
 
 - a. übt die Aufsicht über die Bank aus und regelt die Modalitäten;
 - b. regelt die Modalitäten der Wahl und Abberufung des Bankrats, wählt auf eine Amtsdauer von vier Jahren die Mitglieder und das Präsidium des Bankrats und genehmigt deren Entschädigung;
-- c. bestimmt die externe Revisionsstelle;
+- c. …
 - d. prüft jährlich den Jahresbericht und gestützt auf den Revisionsbericht die Jahresrechnung der Bank und unterbreitet dem Kantonsrat Bericht und Antrag;
 - e. genehmigt auf Antrag des Bankrats abschliessend die Höhe des Dividendensatzes und die Verteilung des Bilanzgewinns;
 - f. kann Sonderprüfungen veranlassen;
@@ -130,7 +129,7 @@ beschliesst:
 
 - a. der Bankrat;
 - b. die Geschäftsleitung;
-- c. die externe bankengesetzliche Revisionsstelle;
+- c. die externe Revisionsstelle;
 - d. die interne Revisionsstelle.
 
 #### Art. 11
@@ -156,13 +155,14 @@ beschliesst:
 - c. die mit der Geschäftsleitung beauftragten Personen zu ernennen und abzuberufen;
 - d. die Aufsicht über die mit der Geschäftsleitung betrauten Personen auszuüben, namentlich im Hinblick auf die Befolgung der Gesetze, Reglemente und Weisungen;
 - e. den Jahresbericht und die Jahresrechnung zu erstellen;
-- f. in den Geschäften gemäss Art. 9 Bst. b, c, d, e, g und h dieses Gesetzes sowie bei Änderungen des Dotations- und Partizipationskapitals zuhanden des Regierungsrats Antrag zu stellen;
+- f. in den Geschäften gemäss Art. 9 Bst. b, d, e, g und h dieses Gesetzes sowie bei Änderungen des Dotations- und Partizipationskapitals zuhanden des Regierungsrats Antrag zu stellen;
 - g. die Behandlung der Berichte der externen Revisionsstelle;
 - h. die interne Revisionsstelle einzusetzen, deren Aufgaben und Zuständigkeiten zu regeln sowie deren Berichte zu prüfen;
 - i. über den Nennwert und den Ausgabekurs der Partizipationsscheine zu beschliessen;
 - k. über die Aufnahme und Rückzahlung von öffentlichen Anleihen und den Erwerb und die Veräusserung von wesentlichen Beteiligungen zu beschliessen;
 - l. über die Errichtung oder Aufhebung von Geschäftsstellen zu beschliessen;
-- m. die generellen Anstellungsbedingungen des Personals auf der Grundlage des Obligationenrechts festzulegen.
+- m. die generellen Anstellungsbedingungen des Personals auf der Grundlage des Obligationenrechts festzulegen;
+- n. die externe Revisionsstelle zu wählen, welche sowohl die bankengesetzliche wie auch die gesellschaftsrechtliche Prüfung vornimmt.
 
 <sup>3</sup> Der Bankrat ist ermächtigt, Ausschüsse zu bilden und delegierbare Rechte und Pflichten nach Massgabe eines Reglements ganz oder zum Teil an diese Ausschüsse oder einzelne Mitglieder des Bankrats zu übertragen.
 
@@ -299,5 +299,9 @@ beschliesst:
 **Informationen zum Erlass**
 
 Ursprüngliche Fundstelle: OGS 2006, 95 und 47
+
+geändert durch:
+
+\- Nachtrag vom 28. Juni 2025 (OGS 2025, 10), Botschaft und Vorlage des Regierungsrats vom 18. März 2025, Kantonsratssitzungen vom 25. März 2025 und 27. Juni 2025 (22.25.03) in Kraft seit 1. Januar 2026 (OGS 2025, 14)
 
 OGS 2006, 95
