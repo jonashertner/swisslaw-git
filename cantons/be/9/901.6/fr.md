@@ -4,13 +4,12 @@ number: "901.6"
 title: Loi sur l’encouragement de l’innovation
 short: LEI
 language: fr
-version: 2021-04-01
-valid_until: 2025-12-31
-version_adopted: 2021-02-17
+version: 2026-01-01
+version_adopted: 2025-06-03
 adopted: 2016-01-27
 in_force: 2016-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.6"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2188/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3317/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2188/pdf_file"
 
 (LEI)
 
-du 27.01.2016 (état au 01.04.2021)
+du 27.01.2016 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -58,14 +57,19 @@ arrête:
 <sup>1</sup> L’encouragement intervient par le biais
 
 - a d’aides financières temporaires à des projets;
+- a1 d’aides financières périodiques à des projets et activités d’institutions;
 - b de participations temporaires dans des sociétés qui exercent des activités concernées par la présente loi;
 - c de participations dans des sociétés immobilières.
 
-<sup>2</sup> Les instruments visés à l’alinéa 1 peuvent être combinés.
+<sup>2</sup> Les instruments visés à l’alinéa 1, lettres a, b et c sont des financements initiaux qui peuvent être combinés. Il n’est pas possible de cumuler pour une même période de subventionnement un financement initial et des aides financières périodiques.
 
-<sup>3</sup> L’encouragement constitue un financement initial.
+<sup>3</sup> …
 
-<sup>4</sup> Nul ne peut revendiquer le droit à un financement initial.
+<sup>4</sup> Nul ne peut revendiquer le droit à un encouragement.
+
+<sup>5</sup> Afin de garantir la réussite des projets et activités d’institutions visés à l’alinéa 1, lettre a1, des subventions d’encouragement à affectation liée peuvent être allouées aux hautes écoles bernoises ainsi qu’aux hôpitaux universitaires au sens de l’article 35 de la loi du 13 juin 2013 sur les soins hospitaliers (LSH)[^3-1], à condition que les activités subventionnées ne fassent pas partie des mandats de prestations qui leur ont été attribués par le canton.
+
+[^3-1]: RSB [812.11](https://www.belex.sites.be.ch/data/812.11/fr)
 
 #### Art. 4
 
@@ -81,19 +85,19 @@ arrête:
 
 <sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement informe régulièrement le public de l’exécution de la présente loi conformément aux dispositions de la législation sur l’information.
 
-<sup>2</sup> Elle informe la commission compétente du Grand Conseil des autres détails de l’exécution.
+<sup>2</sup> Elle présente régulièrement à la commission compétente du Grand Conseil un rapport exhaustif portant sur tous les instruments d’encouragement visés à l’article 3 ainsi que sur l’utilisation des moyens selon l’article 13b.
 
-## 2 Aides financières à des projets
+## 2 Aides financières destinées à des projets et activités d'institutions
 
 #### Art. 6
-
-**Forme et rapport aux autres prestations**
 
 <sup>1</sup> 1 Les aides financières sont versées sous forme de subventions forfaitaires ou de prêts remboursables.
 
 <sup>2</sup> Elles sont accordées sous forme de subventions à l’investissement ou à l’exploitation.
 
 <sup>3</sup> Elles sont subsidiaires et doivent être coordonnées avec d’autres prestations.
+
+### 2.1 Aides financières temporaires destinées à des projets
 
 #### Art. 7
 
@@ -128,9 +132,36 @@ arrête:
 
 <sup>2</sup> Dans des cas particuliers, elles peuvent être prolongées de quatre ans au plus si, en raison de circonstances externes imprévues, l’autonomie financière du projet n’est pas encore atteinte mais pourra l’être dans le cas où l’encouragement est poursuivi.
 
-#### Art. 10
+### 2.2 Aides financières périodiques destinées à des projets et activités d’institutions
 
-**Procédure**
+#### Art. 9a
+
+**Critères**
+
+<sup>1</sup> L’encouragement est destiné aux projets et activités d’institutions
+
+- a conformes aux principes de l’article 2,
+- b axées sur des innovations exploitables pour l’économie,
+- c assurant un transfert efficace de technologies et de connaissances,
+- d revêtant au moins une importance nationale,
+- e présentant une grande utilité économique,
+- f dont la réussite est attestée.
+
+<sup>2</sup> L’encouragement n’est pas destiné aux projets et activités qui font partie d’un mandat de prestations attribué par le canton à une institution de formation tertiaire.
+
+#### Art. 9b
+
+**Ampleur**
+
+<sup>1</sup> Le taux s’élève à un tiers au plus des coûts imputables.
+
+<sup>2</sup> Les projets et activités individuelles peuvent donner droit à un montant d’encouragement maximal de 16 millions de francs accordé pour une période de crédit-cadre de quatre ans. Ce montant est adapté au renchérissement tous les quatre ans en coordination avec les crédits-cadres quadriennaux de la Confédération dans le domaine de l’encouragement de la formation, de la recherche et de l’innovation.
+
+<sup>3</sup> Si un projet ou une activité présente une utilité économique exceptionnelle, le Grand Conseil peut déroger au plafond défini à l’alinéa 2.
+
+## 2a Procédure
+
+#### Art. 10
 
 <sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement définit les détails de l’encouragement dans un contrat de prestations.
 
@@ -165,6 +196,22 @@ arrête:
 <sup>2</sup> Dans des cas particuliers, la participation peut être portée à 49 pour cent au plus si cela est indispensable au maintien de la société.
 
 <sup>3</sup> L’autorité compétente en matière de dépenses décide du montant de la participation, de son aliénation et de son augmentation dans les limites prévues aux alinéas 1 et 2.
+
+## 4a Crédit-cadre
+
+#### Art. 13a
+
+**Arrêté**
+
+<sup>1</sup> Le Grand Conseil arrête en règle générale tous les quatre ans un crédit-cadre pour le financement de toutes les aides financières périodiques au titre de la présente loi.
+
+<sup>2</sup> La date de l’arrêté doit être coordonnée avec celle des crédits-cadres quadriennaux de la Confédération dans le domaine de l’encouragement de la formation, de la recherche et de l’innovation.
+
+#### Art. 13b
+
+**Utilisation**
+
+<sup>1</sup> Le Conseil-exécutif décide de l’utilisation de ce crédit-cadre.
 
 ## 5 Entrée en vigueur
 
