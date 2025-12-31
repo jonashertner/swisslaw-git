@@ -4,13 +4,12 @@ number: "723.101"
 title: Kantonale Geoinformationsverordnung
 short: kGeoIV
 language: de
-version: 2025-02-01
-valid_until: 2025-12-31
-version_adopted: 2025-01-21
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2012-10-23
 in_force: 2012-11-01
 url: "https://ar.clex.ch/app/de/texts_of_law/723.101"
-pdf: "https://ar.clex.ch/api/de/versions/1559/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1594/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1559/pdf_file"
 
 (kGeoIV)
 
-vom 23.10.2012 (Stand 01.02.2025)
+vom 23.10.2012 (Stand 01.01.2026)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
