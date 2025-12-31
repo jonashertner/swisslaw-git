@@ -4,13 +4,12 @@ number: "177.101"
 title: "Règlement concernant la loi sur la profession d'avocat"
 short: RLPAv
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-21
+version: 2026-01-01
+version_adopted: 2024-11-20
 adopted: 2002-02-20
 in_force: 2002-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/177.101"
-pdf: "https://lex.vs.ch/api/fr/versions/3143/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3402/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3143/pdf_file"
 
 (RLPAv)
 
-du 20.02.2002 (état 01.01.2023)
+du 20.02.2002 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -121,7 +120,7 @@ arrête:
 
 <sup>1</sup> Il y a deux sessions d'examen par année, l'une au printemps et l'autre en automne.
 
-<sup>2</sup> L'examen écrit est informatisé et a lieu dans les premières quinzaines de mai et de novembre.
+<sup>2</sup> L'examen écrit est informatisé et a lieu dans les premières quinzaines d'avril et d'octobre
 
 <sup>3</sup> La date des épreuves orales est fixée par la commission des examens; les candidats en sont avisés au moins une semaine à l'avance.
 
@@ -133,7 +132,7 @@ arrête:
 
 <sup>1<sup>bis</sup></sup> Est seul admis à l'examen le stagiaire titulaire d'une licence ou d'un master en droit délivrés par une université suisse, ou d'un diplôme équivalent au sens de l'article 7 alinéa 1 lettre a de la loi fédérale sur la libre circulation des avocats.
 
-<sup>2</sup> Les demandes d'inscription à l'examen sont adressées par écrit au département au plus tard le 15 mars pour la session de printemps et le 15 septembre pour la session d'automne.
+<sup>2</sup> Les demandes d'inscription à l'examen sont adressées par écrit au département au plus tard le 1<sup>er</sup> mars pour la session de printemps et le 1<sup>er</sup> septembre pour la session d'automne.
 
 <sup>3</sup> Elles ne sont admises que moyennant vérification que les conditions sont remplies sur le vu des attestations de stages de l'article 6 et versement de l'émolument suivant:
 

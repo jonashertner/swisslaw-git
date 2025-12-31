@@ -4,13 +4,12 @@ number: "177.101"
 title: Reglement betreffend das Gesetz über den Anwaltsberuf
 short: RAnwG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-21
+version: 2026-01-01
+version_adopted: 2024-11-20
 adopted: 2002-02-20
 in_force: 2002-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/177.101"
-pdf: "https://lex.vs.ch/api/de/versions/3143/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3143/pdf_file"
 
 (RAnwG)
 
-vom 20.02.2002 (Stand 01.01.2023)
+vom 20.02.2002 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -121,7 +120,7 @@ beschliesst:
 
 <sup>1</sup> Es finden jährlich zwei Prüfungssessionen statt, die eine im Frühling, die andere im Herbst.
 
-<sup>2</sup> Die schriftliche Prüfung ist computergestützt und findet in der ersten Hälfte des Monats Mai beziehungsweise November statt.
+<sup>2</sup> Die schriftliche Prüfung ist computergestützt und findet in der ersten Hälfte des Monats April beziehungsweise Oktober statt.
 
 <sup>3</sup> Das Datum der mündlichen Prüfungen wird durch die Prüfungskommission festgelegt; die Kandidaten werden mindestens eine Woche im Voraus darüber unterrichtet.
 
@@ -133,7 +132,7 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Zur Prüfung sind nur Praktikanten zugelassen, die über ein mit dem Lizentiat oder Master abgeschlossenes juristisches Studium an einer schweizerischen Hochschule oder über ein gleichwertiges Hochschuldiplom im Sinne von Artikel 7 des Bundesgesetztes über die Freizügigkeit der Anwältinnen und Anwälte verfügen.
 
-<sup>2</sup> Zulassungsgesuche sind schriftlich an das Departement zu richten, für die Frühjahrsession bis spätestens 15. März, für die Herbstsession bis spätestens 15. September.
+<sup>2</sup> Zulassungsgesuche sind schriftlich an das Departement zu richten, für die Frühjahrsession bis spätestens 1. März für die Herbstsession bis spätestens 1. September.
 
 <sup>3</sup> Sie werden nur zugelassen, wenn mittels Überprüfung festgestellt wurde, dass die Bedingungen nach Einsicht in die Praktikumsbestätigungen im Sinne von Artikel 6 erfüllt sind und die folgende Gebühr gezahlt wurde:
 
