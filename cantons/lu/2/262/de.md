@@ -4,13 +4,12 @@ number: "262"
 title: "Verordnung zum Gesetz über die Organisation der Gerichte und Behörden in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justizverordnung, JusV"
 language: de
-version: 2022-09-01
-valid_until: 2025-12-31
-version_adopted: 2022-05-10
+version: 2026-01-01
+version_adopted: 2026-09-22
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/262"
-pdf: "https://srl.lu.ch/api/de/versions/3954/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4921/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3954/pdf_file"
 
 (Justizverordnung, JusV)
 
-vom 26.03.2013 (Stand 01.09.2022)
+vom 26.03.2013 (Stand 01.01.2026)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -146,7 +145,9 @@ beschliesst:
 
 **Erweiterte Geschäftsleitung a. Zusammensetzung**
 
-<sup>1</sup> Die erweiterte Geschäftsleitung besteht aus je einem Vertreter oder einer Vertreterin der in § 13 Absatz 1 aufgeführten Gerichte, nämlich dem Präsidenten oder der Präsidentin und dem stellvertretenden Präsidenten oder der stellvertretenden Präsidentin der Gruppe sowie den Gerichtspräsidentinnen und -präsidenten der übrigen Gerichte.
+<sup>1</sup> Die erweiterte Geschäftsleitung besteht aus dem Präsidenten oder der Präsidentin und dem stellvertretenden Präsidenten oder der stellvertretenden Präsidentin der Gruppe sowie den Gerichtspräsidentinnen und Gerichtspräsidenten der in § 13 Absatz 1 a–c aufgeführten Gerichte.
+
+<sup>1<sup>bis</sup></sup> Stimmberechtigt sind die Vertreterinnen und Vertreter der in § 13 Absatz 1 a–c aufgeführten Gerichte. Bei Stimmengleichheit hat der Präsident oder die Präsidentin, bei dessen bzw. deren Abwesenheit der stellvertretende Präsident oder die stellvertretende Präsidentin der Gruppe den Stichentscheid.
 
 <sup>2</sup> …
 
@@ -251,24 +252,25 @@ beschliesst:
 
 <sup>1</sup> Die Geschäftsleitung der Gruppe bestimmt
 
-- a. einen Zentralkassier oder eine Zentralkassierin,
+- a. einen Leiter oder eine Leiterin Buchhaltung,
 - b. ein Gruppensekretariat.
 
 #### § 19
 
-**b. Zentralkassier oder -kassierin**
+**b. Leiter oder Leiterin Buchhaltung erstinstanzliche Gerichte**
 
-<sup>1</sup> Der Zentralkassier oder die Zentralkassierin
+<sup>1</sup> Der Leiter oder die Leiterin Buchhaltung erstinstanzliche Gerichte
 
 - a. führt die Rechnung der Gruppe,
-- b. ist verantwortlich für die administrative Vorbereitung des Finanzplans und des Globalbudgets nach Vorgabe der kantonalen Gerichtskasse,
+- b. ist verantwortlich für die administrative Vorbereitung des Finanzplans und des Globalbudgets nach Vorgabe des Finanz- und Rechnungswesens Gerichte (FRG),
 - c. ist verantwortlich für die administrative Bewirtschaftung des Globalbudgets,
 - d. ist verantwortlich für die Vorbereitung der Finanzberichterstattung der Gruppe,
-- e. setzt die fachtechnischen Weisungen der kantonalen Gerichtskasse um.
+- e. setzt die fachtechnischen Weisungen des FRG um,
+- f. kann für die erstinstanzlichen Gerichtsbuchhaltungen fachtechnische Weisungen erlassen.
 
 #### § 20
 
-**c. Zentralbuchhaltung**
+**c. Leitung Buchhaltung erstinstanzliche Gerichte**
 
 <sup>1</sup> Die Gruppe führt eine eigene Buchhaltung für
 
@@ -279,7 +281,7 @@ beschliesst:
 
 **d. Koordination der Rechnungsführung**
 
-<sup>1</sup> Die Gruppe kann in Absprache mit der kantonalen Gerichtskasse und mit den betroffenen Gerichten die Buchhaltung und Rechnungsführung personell koordinieren oder durch die Zentralbuchhaltung führen lassen.
+<sup>1</sup> Die Gruppe kann in Absprache mit dem FRG und mit den betroffenen Gerichten die Buchhaltung und Rechnungsführung personell koordinieren oder durch den Leiter oder die Leiterin Buchhaltung erstinstanzliche Gerichte führen lassen.
 
 ### 1.1.2.4 Ergänzende Regelungen
 
@@ -478,7 +480,7 @@ beschliesst:
 <sup>2</sup> Er oder sie erfüllt insbesondere folgende Aufgaben:
 
 - a. Vorsitz in der Geschäftsleitung,
-- b. Wahl des Leiters oder der Leiterin Zentrale Dienste,
+- b. Anstellung des Leiters oder der Leiterin Zentrale Dienste,
 - c. personelle Führung der Grundbuchverwalterinnen und -verwalter, des stellvertretenden Leiters oder der stellvertretenden Leiterin Grundbuch und des Leiters oder der Leiterin Zentrale Dienste,
 - d. Entscheid über den Ressourcenausgleich innerhalb der Gruppe,
 - e. Koordination der Einreihung der Angestellten der Grundbuchämter,
@@ -528,7 +530,7 @@ beschliesst:
 - b. administrative Bewirtschaftung des Globalbudgets,
 - c. Vorbereitung der Finanzberichterstattung der Gruppe,
 - d. Koordination des Rechnungswesens,
-- e. Umsetzung der fachtechnischen Weisungen der kantonalen Gerichtskasse,
+- e. Umsetzung der fachtechnischen Weisungen des FRG,
 - f. Umsetzung der Informatikaufgaben der Gruppe,
 - g. Reporting für Controlling und Qualitätsmanagement,
 - h. Koordination des E-Government,
@@ -626,7 +628,7 @@ beschliesst:
 
 <sup>1</sup> Die Geschäftsleitung ist zuständig für
 
-- a. die Wahl des stellvertretenden Leiters oder der stellvertretenden Leiterin Gruppe Konkursämter,
+- a. die Anstellung des stellvertretenden Leiters oder der stellvertretenden Leiterin Gruppe Konkursämter,
 - b. die Festlegung der Indikatoren für den Leistungsauftrag,
 - c. die Zuweisung von Anteilen am Leistungsauftrag und am Globalbudget,
 - d. die Koordination der individuellen Besoldungsanpassungen (IBA),
@@ -748,7 +750,7 @@ beschliesst:
 
 <sup>1</sup> An den Bezirksgerichten wird ein Verhältnis der Stellenprozente zwischen Richterstellen und Gerichtsschreiberstellen von 1:1 angestrebt.
 
-<sup>2</sup> Die Gruppe erstinstanzliche Gerichte kann Abweichungen von bis zu 50 Stellenprozenten pro Gericht selbständig vornehmen. Sie hat dabei die Budgetlimiten zu beachten.
+<sup>2</sup> …
 
 #### § 63
 
@@ -845,13 +847,15 @@ beschliesst:
 
 **Richterkollegium**
 
-<sup>1</sup> Das Richterkollegium besteht aus allen fest an das Gericht gewählten Abteilungspräsidentinnen und -präsidenten und Richterinnen und Richtern.
+<sup>1</sup> Das Richterkollegium besteht aus allen an das Gericht gewählten Abteilungspräsidentinnen und -präsidenten sowie Richterinnen und Richtern. Frei einsetzbare Richterinnen und Richter sind Mitglieder desjenigen Gerichts, an welchem sie ihren Haupteinsatz haben. Den Ort des Haupteinsatzes bestimmt die Geschäftsleitung der erstinstanzlichen Gerichte.
 
 <sup>2</sup> Es ist zuständig für
 
 - a. den Erlass der vom Kantonsgericht zu genehmigenden Geschäftsordnung,
 - b. die Konstituierung,
 - c. die Wahl des Gerichtspräsidenten oder der Gerichtspräsidentin.
+
+<sup>3</sup> Das Stimmrecht bestimmt sich nach Köpfen.
 
 #### § 71
 
@@ -955,9 +959,9 @@ beschliesst:
 
 - a. 2 Abteilungen,
 - b. 2 Abteilungspräsidentinnen und -präsidenten,
-- c. 4 Richterinnen und Richtern.
+- c. 6 Richterinnen und Richtern.
 
-<sup>2</sup> Die Summe der Stellenprozente beträgt 550.
+<sup>2</sup> Die Summe der Stellenprozente beträgt 740.
 
 #### § 79
 
@@ -983,11 +987,11 @@ beschliesst:
 
 **Frei einsetzbare Richterinnen und Richter**
 
-<sup>1</sup> Die Gruppe erstinstanzliche Gerichte verfügt über 5–11 frei einsetzbare Richterinnen und Richter.
+<sup>1</sup> Die Gruppe erstinstanzliche Gerichte verfügt über 5–8 frei einsetzbare Richterinnen und Richter.
 
-<sup>2</sup> Zwei Richterstellen dürfen nicht als Teilzeitstellen ausgestaltet werden.
+<sup>2</sup> …
 
-<sup>3</sup> Die Summe der Stellenprozente beträgt 630.
+<sup>3</sup> Die Summe der Stellenprozente beträgt 440.
 
 #### § 82
 
@@ -1270,7 +1274,7 @@ beschliesst:
 - b. Personalakten,
 - c. Untersuchungsberichte, Protokolle und Verfügungen in Aufsichts- und Disziplinarsachen,
 - d. Akten in Prüfungssachen,
-- e. Buchhaltungsakten, Kontoblätter, Rechnungsbelege und Quittungen der Gerichtskassen,
+- e. Buchhaltungsakten, Kontoblätter, Rechnungsbelege und Quittungen,
 - f. Stellungnahmen, Vernehmlassungen, Weisungen,
 - g. Leistungsaufträge, Statistiken und Rechenschaftsberichte.
 
@@ -1516,13 +1520,13 @@ beschliesst:
 
 #### § 130
 
-**Informationsbeauftragter oder Informationsbeauftragte**
+**Der oder die Kommunikations- und Medienverantwortliche Gerichtswesen**
 
-<sup>1</sup> Das Kantonsgericht bestimmt einen Informationsbeauftragten oder eine Informationsbeauftragte für das kantonale Gerichtswesen.
+<sup>1</sup> Das Kantonsgericht bestimmt einen Kommunikations- und Medienverantwortlichen oder eine Kommunikations- und Medienverantwortliche für das kantonale Gerichtswesen.
 
-<sup>2</sup> Der oder die Informationsbeauftragte ist erste Ansprechperson für Journalistinnen und Journalisten. Er oder sie erteilt Auskünfte allgemeiner Natur, leitet andere Anfragen an die fachlich zuständige Stelle weiter, koordiniert die Medienarbeit sowie die Veröffentlichungen von Entscheiden und Medienmitteilungen im Medienraum und informiert bei Bedarf über Veränderungen im Gerichtswesen.
+<sup>2</sup> Der oder die Kommunikations- und Medienverantwortliche ist erste Ansprechperson für Journalistinnen und Journalisten. Er oder sie erteilt Auskünfte allgemeiner Natur, leitet andere Anfragen an die fachlich zuständige Stelle weiter, koordiniert die Medienarbeit sowie die Veröffentlichungen von Entscheiden und Medienmitteilungen im Medienraum und informiert bei Bedarf über Veränderungen im Gerichtswesen.
 
-<sup>3</sup> Gelangen Medienanfragen direkt an andere Stellen im Gerichtswesen, sind die Journalistinnen und Journalisten an den Informationsbeauftragten oder die Informationsbeauftragte zu verweisen.
+<sup>3</sup> Gelangen Medienanfragen direkt an andere Stellen im Gerichtswesen, sind die Journalistinnen und Journalisten an den Kommunikations- und Medienverantwortlichen oder die Kommunikations- und Medienverantwortliche zu verweisen.
 
 ### 5.3 Publikationen
 
@@ -1602,5 +1606,11 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Die Verordnung tritt am 1. Juni 2013 in Kraft. Sie ist zu veröffentlichen.
+
+#### § 138
+
+**Übergangsbestimmung zur Änderung vom 11. November 2025**
+
+<sup>1</sup> Für die in der Amtsperiode 2023–2026 gewählten Richterinnen und Richter gelten die Bestimmungen nach den §§ 70, 78 und 81 bis zum Ablauf der Amtsperiode am 31. Dezember 2026 weiter.
 
 G 2013 65
