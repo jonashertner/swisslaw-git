@@ -4,11 +4,11 @@ title: "Ordinanza del 10 maggio 2017 sull'organizzazione del settore dell'energi
 short: OOSE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/316"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2017-316-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-316-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20250101/it"
 
 (OOSE)
 
-del 10 maggio 2017 (Stato 1° gennaio 2025)
+del 10 maggio 2017 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 57 capoverso 1 e 60 capoverso 1 della legge federale del 17 giugno 2016[^ingress-1] sull’approvvigionamento economico del Paese (LAP); visti gli articoli 8*c* capoversi 1 e 2 e 15*a* capoverso 3 della legge del 23 marzo 2007[^ingress-2] sull’approvvigionamento elettrico (LAEl),[^ingress-3]
+visti gli articoli 57 capoverso 1 e 60 capoverso 1 della legge del 17 giugno 2016[^ingress-1] sull’approvvigionamento del Paese (LAP); e gli articoli 8*c* capoversi 1 e 2, 15*a* capoverso 3 e 17*g* capoverso 4 della legge del 23 marzo 2007[^ingress-2] sull’approvvigionamento elettrico (LAEl),[^ingress-3]
 
 ordina:
 
 [^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^ingress-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
-[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 1
 
@@ -47,9 +47,10 @@ ordina:
 
 <sup>1</sup> La società nazionale di rete gestisce un sistema di monitoraggio per osservare la situazione in materia di approvvigionamento e i suoi sviluppi nel settore dell’energia elettrica.
 
-<sup>2</sup> Accorda al settore specializzato Energia l’accesso al sistema di monitoraggio mediante procedura di richiamo e gli presenta periodicamente un rapporto sull’evoluzione della situazione in materia di approvvigionamento.
+<sup>2</sup> Accorda all’organizzazione dell’approvvigionamento economico del Paese (AEP) l’accesso al sistema di monitoraggio mediante procedura di richiamo e le presenta periodicamente un rapporto sull’evoluzione della situazione in materia di approvvigionamento.[^1a-2]
 
 [^1a-1]: Introdotto dalla cifra I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^1a-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 1b
 
@@ -66,43 +67,44 @@ Il sistema di monitoraggio comprende dati riguardanti:
 - e. i prezzi del mercato spot e i prezzi a termine sulle piazze di contrattazione dell’energia elettrica in Europa;
 - f. le temperature e la quantità di precipitazioni in Europa centrale nonché le riserve di neve in Svizzera.[^1b-2]
 
-<sup>2</sup> I dati sono a disposizione del settore specializzato Energia per un periodo di 20 anni dalla data della loro registrazione. Il settore specializzato Energia può usarli per osservare la situazione in materia di approvvigionamento e analizzare gli sviluppi nel settore dell’energia elettrica.[^1b-3]
+<sup>2</sup> I dati sono a disposizione dell’AEP[^1b-3] per un periodo di 20 anni dalla data della loro registrazione. L’AEP può usarli per osservare la situazione in materia di approvvigionamento e analizzare gli sviluppi nel settore dell’energia elettrica.[^1b-4]
 
 <sup>3</sup> La società nazionale di rete adotta misure organizzative e tecniche per garantire la registrazione automatica del trattamento dei dati e impedire il trattamento non autorizzato dei dati. Definisce le misure in un regolamento sul trattamento dei dati.
 
 <sup>4</sup>
 
-La società nazionale di rete, in accordo con il settore specializzato Energia, può trasmettere dati aggregati o anonimizzati ai seguenti servizi, qualora ne abbiano bisogno per l’adempimento del loro mandato legale:
+La società nazionale di rete, in accordo con l’AEP, può trasmettere dati aggregati o anonimizzati ai seguenti servizi, qualora ne abbiano bisogno per l’adempimento del loro mandato legale:
 
 - a. la ElCom;
 - b. l’Ufficio federale dell’energia;
 - c. altre autorità federali e cantonali;
-- d. l’AES e la sua organizzazione incaricata di garantire l’approvvigionamento del Paese in energia elettrica (art. 1 cpv. 4).[^1b-4]
+- d. l’AES e la sua organizzazione incaricata di garantire l’approvvigionamento del Paese in energia elettrica (art. 1 cpv. 4).[^1b-5]
 
 <sup>4bis</sup>
 
-In accordo con il settore specializzato Energia, può trasmettere i dati secondo il capoverso 1 lettera d senza che siano stati aggregati o anonimizzati, se tali dati sono necessari per l’adempimento dei seguenti compiti legali:
+In accordo con l’AEP, può trasmettere i dati secondo il capoverso 1 lettera d senza che siano stati aggregati o anonimizzati, se tali dati sono necessari per l’adempimento dei seguenti compiti legali:
 
 - a. procedura di attribuzione nel quadro dell’acquisto di prestazioni di servizio relative al sistema da parte della società nazionale di rete;
 - b. analisi della situazione in materia di approvvigionamento;
 - c. sorveglianza delle riserve di energia;
-- d. verifica dei piani pluriennali della società nazionale di rete.[^1b-5]
+- d. verifica dei piani pluriennali della società nazionale di rete.[^1b-6]
 
 <sup>5</sup> I destinatari dei dati adottano le misure organizzative e tecniche necessarie a garantire che i dati siano utilizzati esclusivamente per lo scopo indicato.
 
-<sup>6</sup> La società nazionale di rete, il settore specializzato Energia e l’AES sono tenuti al segreto (art. 63 LAP) sull’osservazione della situazione in materia di approvvigionamento di energia elettrica e sulle informazioni che vi sono connesse. Possono utilizzare i dati provenienti dal sistema di monitoraggio unicamente per gli scopi dell’approvvigionamento economico del Paese.
+<sup>6</sup> La società nazionale di rete, l’AEP e l’AES sono tenuti al segreto (art. 63 LAP) sull’osservazione della situazione in materia di approvvigionamento di energia elettrica e sulle informazioni che vi sono connesse. Possono utilizzare i dati provenienti dal sistema di monitoraggio unicamente per gli scopi dell’approvvigionamento economico del Paese.
 
 [^1b-1]: Introdotto dalla cifra I dell’O del 4 mag. 2022, in vigore dal 1° giu. 2022 ([RU 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
 [^1b-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
-[^1b-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-3]: Nuovo espr. giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^1b-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
-[^1b-5]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-5]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-6]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
 
 #### Art. 2
 
-**Compiti del settore specializzato Energia**[^2-1]
+**Compiti dell’AEP**[^2-1]
 
-<sup>1</sup> Il settore specializzato Energia decide il genere e l’entità delle misure preparatorie e definisce i requisiti applicabili al sistema di monitoraggio.
+<sup>1</sup> L’AEP decide il genere e l’entità delle misure preparatorie e definisce i requisiti applicabili al sistema di monitoraggio.
 
 <sup>2</sup> Vigila sui lavori preparatori dell’AES e sulla gestione del sistema di monitoraggio ed è autorizzato a impartire all’AES e alla società nazionale di rete istruzioni al riguardo.
 
@@ -112,7 +114,23 @@ In accordo con il settore specializzato Energia, può trasmettere i dati secondo
 
 **Collaborazione**
 
-In situazioni di grave penuria il settore specializzato Energia e l’AES collaborano con l’Ufficio federale dell’energia, ElCom, la società nazionale di rete, l’esercito, la protezione della popolazione e i Cantoni.
+In situazioni di grave penuria l’AEP e l’AES collaborano con l’Ufficio federale dell’energia, ElCom, la società nazionale di rete, l’esercito, la protezione della popolazione e i Cantoni.
+
+#### Art. 3a
+
+**Trattamento dei dati per la preparazione delle misure d’intervento**[^3a-1]
+
+<sup>1</sup> L’AEP e l’AES trattano i dati necessari ai fini della preparazione delle misure d’intervento di cui agli articoli 31–34 LAP nel settore elettrico. Trattano in particolare dati di base, dati di misurazione e dati previsionali.
+
+<sup>2</sup> Raccolgono i dati attraverso la piattaforma di cui all’articolo 17*g* capoverso 1 LAEl, sempre che siano disponibili. Raccolgono i dati non disponibili su tale piattaforma direttamente presso le imprese del settore dell’energia elettrica e i consumatori finali.
+
+<sup>3</sup> Le imprese del settore dell’energia elettrica e i consumatori finali forniscono all’AEP e all’AES su richiesta i dati non disponibili sulla piattaforma di cui all’articolo 17*g* capoverso 1 LAEl e li comunicano loro in forma elettronica e con la frequenza necessaria.
+
+<sup>4</sup> L’AEP e l’AES adottano misure tecniche e organizzative per evitare il trattamento non autorizzato dei dati.
+
+<sup>5</sup> I dati di misurazione e i dati previsionali possono essere conservati per dieci anni a partire dalla data del loro rilevamento.
+
+[^3a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 4
 
@@ -138,7 +156,7 @@ Il Dipartimento federale dell’economia, della formazione e della ricerca stabi
 
 **Esecuzione**
 
-Il settore specializzato Energia esegue la presente ordinanza.
+L’AEP esegue la presente ordinanza.
 
 #### Art. 6
 

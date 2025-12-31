@@ -4,11 +4,11 @@ title: Verordnung vom 10. Mai 2017 über die Organisation zur Sicherstellung der
 short: VOEW
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/316"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2017-316-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-316-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20250101/de"
 
 (VOEW)
 
-vom 10. Mai 2017 (Stand am 1. Januar 2025)
+vom 10. Mai 2017 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 57 Absatz 1 und 60 Absatz 1 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-1] (LVG) und auf die Artikel 8*c* Absätze 1 und 2 sowie 15*a* Absatz 3 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-2] (StromVG),[^ingress-3]
+gestützt auf die Artikel 57 Absatz 1 und 60 Absatz 1 des Landesversorgungsgesetzes vom 17. Juni 2016[^ingress-1] (LVG)
+
+und auf die Artikel 8*c* Absätze 1 und 2, 15*a* Absatz 3 sowie 17*g* Absatz 4 des Stromversorgungsgesetzes vom 23. März 2007[^ingress-2] (StromVG),[^ingress-3]
 
 verordnet:
 
 [^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^ingress-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
-[^ingress-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^ingress-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 1
 
@@ -47,9 +49,10 @@ verordnet:
 
 <sup>1</sup> Die nationale Netzgesellschaft betreibt ein Monitoringsystem zur Beobachtung der Versorgungslage und von deren Entwicklung im Bereich der Elektrizitätswirtschaft.
 
-<sup>2</sup> Sie gewährt dem Fachbereich Energie im Abrufverfahren Zugriff auf das Monitoringsystem und erstattet ihm periodisch Bericht über die aktuelle Versorgungslage.
+<sup>2</sup> Sie gewährt der Organisation der wirtschaftlichen Landesversorgung (WL) im Abrufverfahren Zugriff auf das Monitoringsystem und erstattet ihr periodisch Bericht über die aktuelle Versorgungslage.[^1a-2]
 
 [^1a-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^1a-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 1b
 
@@ -66,45 +69,46 @@ Das Monitoringsystem enthält Daten über:
 - e. die Spot- und Terminmarktpreise auf den Stromhandelsplätzen in Europa;
 - f. die Temperaturen und die Niederschlagsmengen in Mitteleuropa sowie die Schneereserven in der Schweiz.[^1b-2]
 
-<sup>2</sup> Die Daten stehen dem Fachbereich Energie ab dem Zeitpunkt der Erfassung während zwanzig Jahren zur Verfügung. Der Fachbereich Energie darf die Daten zur Beobachtung der Versorgungslage und zur Analyse der Entwicklungen im Bereich der Elektrizitätswirtschaft nutzen.[^1b-3]
+<sup>2</sup> Die Daten stehen der WL[^1b-3] ab dem Zeitpunkt der Erfassung während zwanzig Jahren zur Verfügung. Die WL darf die Daten zur Beobachtung der Versorgungslage und zur Analyse der Entwicklungen im Bereich der Elektrizitätswirtschaft nutzen.[^1b-4]
 
 <sup>3</sup> Die nationale Netzgesellschaft stellt mit organisatorischen und technischen Massnahmen sicher, dass die Datenbearbeitung automatisch protokolliert und unbefugte Datenbearbeitung verhindert wird. Sie hält die Massnahmen in einem Datenbearbeitungsreglement fest.
 
 <sup>4</sup>
 
-Die nationale Netzgesellschaft darf im Einvernehmen mit dem Fachbereich Energie aggregierte oder anonymisierte Daten an die folgenden Stellen weitergeben, wenn diese Stellen die Daten zur Erfüllung ihres gesetzlichen Auftrags benötigen:
+Die nationale Netzgesellschaft darf im Einvernehmen mit der WL aggregierte oder anonymisierte Daten an die folgenden Stellen weitergeben, wenn diese Stellen die Daten zur Erfüllung ihres gesetzlichen Auftrags benötigen:
 
 - a. die ElCom;
 - b. das Bundesamt für Energie;
 - c. weitere Behörden des Bundes und der Kantone;
-- d. den VSE und an seine Organisation zur Sicherstellung der Versorgung des Landes mit Elektrizität (Art. 1 Abs. 4).[^1b-4]
+- d. den VSE und an seine Organisation zur Sicherstellung der Versorgung des Landes mit Elektrizität (Art. 1 Abs. 4).[^1b-5]
 
 <sup>4bis</sup>
 
-Sie darf im Einvernehmen mit dem Fachbereich Energie die Daten nach Absatz 1 Buchstabe d in nicht aggregierter oder nicht anonymisierter Form an die ElCom weitergeben, wenn diese die Daten zur Erfüllung der gesetzlichen Aufgaben benötigt:
+Sie darf im Einvernehmen mit der WL die Daten nach Absatz 1 Buchstabe d in nicht aggregierter oder nicht anonymisierter Form an die ElCom weitergeben, wenn diese die Daten zur Erfüllung der gesetzlichen Aufgaben benötigt:
 
 - a. beim Zuteilungsverfahren im Rahmen der Beschaffung von Systemdienstleistungen durch die nationale Netzgesellschaft;
 - b. zur Beurteilung der Versorgungslage;
 - c. zur Beaufsichtigung der Energiereserve;
-- d. zur Prüfung der Mehrjahrespläne der nationalen Netzgesellschaft.[^1b-5]
+- d. zur Prüfung der Mehrjahrespläne der nationalen Netzgesellschaft.[^1b-6]
 
 <sup>5</sup> Die Empfänger der Daten stellen mit organisatorischen und technischen Massnahmen sicher, dass die Daten ausschliesslich für den angegebenen Zweck verwendet werden.
 
-<sup>6</sup> Die nationale Netzgesellschaft, der Fachbereich Energie und der VSE unterstehen hinsichtlich der Beobachtung der Elektrizitätsversorgungslage sowie der damit zusammenhängenden Informationen der Verschwiegenheitspflicht (Art. 63 LVG). Sie dürfen die Daten aus dem Monitoringsystem ausschliesslich für die Zwecke der wirtschaftlichen Landesversorgung verwenden.
+<sup>6</sup> Die nationale Netzgesellschaft, die WL und der VSE unterstehen hinsichtlich der Beobachtung der Elektrizitätsversorgungslage sowie der damit zusammenhängenden Informationen der Verschwiegenheitspflicht (Art. 63 LVG). Sie dürfen die Daten aus dem Monitoringsystem ausschliesslich für die Zwecke der wirtschaftlichen Landesversorgung verwenden.
 
 [^1b-1]: Eingefügt durch Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
 [^1b-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
-[^1b-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-3]: Ausdruck gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^1b-4]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
-[^1b-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-5]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-6]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
 
 #### Art. 2
 
-**Aufgaben des Fachbereichs Energie**[^2-1]
+**Aufgaben der WL**[^2-1]
 
-<sup>1</sup> Der Fachbereich Energie bestimmt Art und Umfang der Vorbereitungsmassnahmen und legt die Anforderungen an das Monitoringsystem fest.
+<sup>1</sup> Die WL bestimmt Art und Umfang der Vorbereitungsmassnahmen und legt die Anforderungen an das Monitoringsystem fest.
 
-<sup>2</sup> Er überwacht die Vorbereitungsarbeiten des VSE sowie den Betrieb des Monitoringsystems und ist befugt, dem VSE und der nationalen Netzgesellschaft diesbezüglich Weisungen zu erteilen.
+<sup>2</sup> Sie überwacht die Vorbereitungsarbeiten des VSE sowie den Betrieb des Monitoringsystems und ist befugt, dem VSE und der nationalen Netzgesellschaft diesbezüglich Weisungen zu erteilen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
 
@@ -112,7 +116,23 @@ Sie darf im Einvernehmen mit dem Fachbereich Energie die Daten nach Absatz 1 Buc
 
 **Zusammenarbeit**
 
-Der Fachbereich Energie und der VSE arbeiten im Fall einer schweren Mangellage mit dem Bundesamt für Energie, der ElCom, der nationalen Netzgesellschaft, der Armee, dem Bevölkerungsschutz und den Kantonen zusammen.
+Die WL und der VSE arbeiten im Fall einer schweren Mangellage mit dem Bundesamt für Energie, der ElCom, der nationalen Netzgesellschaft, der Armee, dem Bevölkerungsschutz und den Kantonen zusammen.
+
+#### Art. 3a
+
+**Datenbearbeitung für die Vorbereitung von Interventionsmassnahmen**[^3a-1]
+
+<sup>1</sup> Die WL und der VSE bearbeiten zum Zweck der Vorbereitung von Interventionsmassnahmen nach den Artikeln 31–34 LVG im Elektrizitätsbereich die benötigten Daten. Sie bearbeiten insbesondere Stamm-, Mess- und Prognosedaten.
+
+<sup>2</sup> Sie beschaffen die Daten, soweit sie darüber verfügbar sind, über die Datenplattform nach Artikel 17*g* Absatz 1 StromVG. Die Daten, die über Datenplattform nicht verfügbar sind, beschaffen sie direkt bei den Unternehmen der Elektrizitätswirtschaft und den Endverbrauchern.
+
+<sup>3</sup> Die Unternehmen der Elektrizitätswirtschaft und die Endverbraucher liefern der WL und dem VSE die Daten, welche nicht über die Datenplattform nach Artikel 17*g* Absatz 1 StromVG verfügbar sind, auf Anfrage und melden ihnen diese in der erforderlichen Regelmässigkeit und in elektronischer Form.
+
+<sup>4</sup> Die WL und der VSE stellen mit organisatorischen und technischen Massnahmen sicher, dass die unbefugte Datenbearbeitung verhindert wird.
+
+<sup>5</sup> Die Mess- und Prognosedaten dürfen ab dem Zeitpunkt der Erfassung während 10 Jahren aufbewahrt werden.
+
+[^3a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 4
 
@@ -138,7 +158,7 @@ Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung legt im R
 
 **Vollzug**
 
-Der Fachbereich Energie vollzieht diese Verordnung.
+Die WL vollzieht diese Verordnung.
 
 #### Art. 6
 

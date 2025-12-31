@@ -4,11 +4,11 @@ title: "Ordonnance du 10 mai 2017 sur l'organisation de la branche électricité
 short: OOBE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/316"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2017-05-10
 in_force: 2017-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-316-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/316/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-316-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,19 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/316/20250101/fr"
 
 (OOSE)[^t-1]
 
-du 10 mai 2017 (État le 1<sup>er</sup> janvier 2025)
+du 10 mai 2017 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
 
 Le Conseil fédéral suisse,
 
-vu les art. 57, al. 1, et 60, al. 1, de la loi du 17 juin 2016 sur l’approvisionnement du pays (LAP)[^ingress-1], vu les art. 8*c*, al. 1 et 2, et 15*a*, al. 3, de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^ingress-2],[^ingress-3]
+vu les art. 57, al. 1, et 60, al. 1, de la loi du 17 juin 2016 sur l’approvisionnement du pays (LAP)[^ingress-1], vu les art. 8*c*, al. 1 et 2, 15*a*, al. 3, et 17*g*, al. 4, de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^ingress-2],[^ingress-3]
 
 arrête:
 
 [^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 [^ingress-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
-[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 1
 
@@ -49,9 +49,10 @@ arrête:
 
 <sup>1</sup> La société nationale du réseau de transport exploite un système de monitoring visant à suivre la situation en matière d’approvisionnement dans le secteur de l’électricité.
 
-<sup>2</sup> Elle donne au domaine Énergie l’accès au système de monitoring par procédure d’appel et rend périodiquement compte de l’évolution de la situation en matière d’approvisionnement.
+<sup>2</sup> Elle donne à l’organisation de l’approvisionnement économique du pays (AEP) l’accès au système de monitoring par procédure d’appel et rend périodiquement compte de l’évolution de la situation en matière d’approvisionnement.[^1a-2]
 
 [^1a-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
+[^1a-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 1b
 
@@ -68,43 +69,44 @@ Le système de monitoring recense des données relatives:
 - e. aux prix spot et aux prix à terme sur les marchés de l’électricité européens; et
 - f. aux températures et aux volumes des précipitations en Europe centrale et aux réserves de neige en Suisse.[^1b-2]
 
-<sup>2</sup> Les données sont mises à la disposition du domaine Énergie pendant vingt ans à partir de la date de leur saisie. Le domaine Énergie peut utiliser ces données à des fins d’observation de la situation en matière d’approvisionnement et d’analyse des évolutions dans le secteur de l’électricité.[^1b-3]
+<sup>2</sup> Les données sont mises à la disposition de l’AEP[^1b-3] pendant vingt ans à partir de la date de leur saisie. L’AEP peut utiliser ces données à des fins d’observation de la situation en matière d’approvisionnement et d’analyse des évolutions dans le secteur de l’électricité.[^1b-4]
 
 <sup>3</sup> La société nationale du réseau de transport prend des mesures organisationnelles et techniques afin de garantir une journalisation automatique du traitement des données et d’empêcher tout traitement illicite des données. Elle définit les mesures dans un règlement sur le traitement des données.
 
 <sup>4</sup>
 
-La société nationale du réseau de transport peut, en accord avec le domaine Énergie, transmettre des données agrégées ou anonymisées aux services suivants lorsque ces données sont nécessaires à l’exercice de leur mandat légal:
+La société nationale du réseau de transport peut, en accord avec l’AEP, transmettre des données agrégées ou anonymisées aux services suivants lorsque ces données sont nécessaires à l’exercice de leur mandat légal:
 
 - a. l’ElCom;
 - b. l’Office fédéral de l’énergie;
 - c. d’autres autorités fédérales ou cantonales;
-- d. l’AES et son organisation pour garantir l’approvisionnement du pays en électricité (art. 1, al. 4).[^1b-4]
+- d. l’AES et son organisation pour garantir l’approvisionnement du pays en électricité (art. 1, al. 4).[^1b-5]
 
 <sup>4bis</sup>
 
-Elle peut, en accord avec le domaine Énergie, transmettre les données visées à l’al. 1, let. d, sans qu’elles aient été agrégées ou anonymisées, à l’ElCom lorsque celle-ci en a besoin pour accomplir les tâches légales suivantes:
+Elle peut, en accord avec l’AEP, transmettre les données visées à l’al. 1, let. d, sans qu’elles aient été agrégées ou anonymisées, à l’ElCom lorsque celle-ci en a besoin pour accomplir les tâches légales suivantes:
 
 - a. les activités dans le cadre de la procédure d’attribution liée à l’acquisition de services-système par la société nationale du réseau de transport;
 - b. l’évaluation de la situation en matière d’approvisionnement;
 - c. la surveillance de la réserve d’énergie;
-- d. l’examen des plans pluriannuels de la société nationale du réseau de transport.[^1b-5]
+- d. l’examen des plans pluriannuels de la société nationale du réseau de transport.[^1b-6]
 
 <sup>5</sup> Les destinataires des données prennent des mesures organisationnelles et techniques permettant d’assurer que l’utilisation des données se limite au but indiqué.
 
-<sup>6</sup> La société nationale du réseau de transport, le domaine Énergie et l’AES sont tenus de garder le secret (art. 63 LAP) sur le suivi de la situation en matière d’approvisionnement en électricité et sur les informations qui y sont liées. Ils ne peuvent utiliser les données provenant du système de monitoring que pour servir les intérêts de l’approvisionnement économique du pays.
+<sup>6</sup> La société nationale du réseau de transport, l’AEP et l’AES sont tenus de garder le secret (art. 63 LAP) sur le suivi de la situation en matière d’approvisionnement en électricité et sur les informations qui y sont liées. Ils ne peuvent utiliser les données provenant du système de monitoring que pour servir les intérêts de l’approvisionnement économique du pays.
 
 [^1b-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 285](https://fedlex.data.admin.ch/eli/oc/2022/285)).
 [^1b-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
-[^1b-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-3]: Nouvelle expression selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1b-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
-[^1b-5]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-5]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
+[^1b-6]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 704](https://fedlex.data.admin.ch/eli/oc/2024/704)).
 
 #### Art. 2
 
-**Tâches incombant au domaine Énergie**[^2-1]
+**Tâches incombant à l’AEP**[^2-1]
 
-<sup>1</sup> Le domaine Énergie fixe le type et l’étendue des préparatifs et définit les exigences applicables au système de monitoring.
+<sup>1</sup> L’AEP fixe le type et l’étendue des préparatifs et définit les exigences applicables au système de monitoring.
 
 <sup>2</sup> Il supervise les préparatifs de l’AES et l’exploitation du système de monitoring et est habilité à donner des directives à l’AES et à la société nationale du réseau de transport en la matière.
 
@@ -114,7 +116,23 @@ Elle peut, en accord avec le domaine Énergie, transmettre les données visées 
 
 **Coopération**
 
-En cas de pénurie grave, le domaine Énergie et l’AES coopèrent avec l’Office fédéral de l’énergie, l’ElCom, la société nationale du réseau de transport, l’armée, la protection de la population et les cantons.
+En cas de pénurie grave, l’AEP et l’AES coopèrent avec l’Office fédéral de l’énergie, l’ElCom, la société nationale du réseau de transport, l’armée, la protection de la population et les cantons.
+
+#### Art. 3a
+
+**Traitement des données pour la préparation de mesures d’intervention**[^3a-1]
+
+<sup>1</sup> L’AEP et l’AES traitent les données nécessaires à la préparation des mesures d’intervention visées aux art. 31 à 34 LAP dans le secteur de l’électricité. Ils traitent notamment des données de référence, des données de mesure et des données prévisionnelles.
+
+<sup>2</sup> Ils collectent les données sur la plateforme visée à l’art. 17*g*, al. 1, LApEl pour autant qu’elles y soient disponibles. Ils collectent les données qui ne sont pas disponibles sur cette plateforme directement auprès des entreprises du secteur de l’électricité et des consommateurs finaux.
+
+<sup>3</sup> Les entreprises du secteur de l’électricité et les consommateurs finaux fournissent sur demande à l’AEP et à l’AES les données qui ne sont pas disponibles sur la plateforme visée à l’art. 17*g*, al. 1, LApEl et les leur transmettent sous forme électronique à la fréquence requise.
+
+<sup>4</sup> L’AEP et l’AES prennent des mesures organisationnelles et techniques afin d’empêcher tout traitement illicite des données.
+
+<sup>5</sup> Les données de mesure et les données prévisionnelles peuvent être conservées pendant dix ans à compter de leur saisie.
+
+[^3a-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 826](https://fedlex.data.admin.ch/eli/oc/2025/826)).
 
 #### Art. 4
 
@@ -140,7 +158,7 @@ Le Département fédéral de l’économie, de la formation et de la recherche f
 
 **Exécution**
 
-Le domaine Énergie exécute la présente ordonnance.
+L’AEP exécute la présente ordonnance.
 
 #### Art. 6
 
