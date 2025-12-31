@@ -1,22 +1,21 @@
 ---
 canton: FR
 number: "842.1.21"
-title: Ordonnance fixant le tarif provisoire applicable pour les prestations de physiothérapie
+title: Ordonnance fixant le tarif provisoire applicable pour les prestations ambulatoires de physiothérapie
 language: fr
-version: 2025-01-01
-valid_until: 2025-06-09
-version_adopted: 2025-01-14
+version: 2026-01-01
+version_adopted: 2026-01-13
 adopted: 2026-01-13
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.21"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8117/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8376/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance fixant le tarif provisoire applicable pour les prestations de physiothérapie
+# Ordonnance fixant le tarif provisoire applicable pour les prestations ambulatoires de physiothérapie
 
-du 14.01.2025 (version entrée en vigueur le 01.01.2025)
+du 13.01.2026 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,21 +25,17 @@ Considérant:
 
 Physioswiss, représentant Physiofribourg, a résilié les conventions tarifaires passées avec tarifsuisse SA, HSK SA et CSS Assurance-maladie SA au 31 décembre 2024 en vue de négocier de nouvelles conventions tarifaires.
 
-Les négociations tarifaires n'ayant pas encore abouti à fin 2024, il n'y a plus de tarif applicable à partir du 1<sup>er</sup> janvier 2025 pour la physiothérapie.
+Le canton de Fribourg a prolongé les conventions tarifaires de 2018 d'un an, soit jusqu'à fin 2025. Ainsi, il n'y a plus de tarif applicable à partir du 1<sup>er</sup> janvier 2026. Afin que les prestataires puissent facturer leurs prestations à partir du 1<sup>er</sup> janvier 2026, il faut soit un tarif négocié et approuvé par le Conseil d'Etat, soit un tarif provisoire en vigueur à cette date-là.
 
-Par courriers du 10 décembre 2024, Physioswiss a demandé au Conseil d'Etat du canton de Fribourg la prolongation de la convention tarifaire du 1<sup>er</sup> janvier 2018 passée avec HSK SA et CSS Assurance-maladie SA, jusqu'au 30 juin 2025.
+La compétence des cantons de fixer des tarifs provisoires découle de l'article 46 al. 4 LAMal. Elle a été confirmée par le Tribunal administratif fédéral et cela également pour le cas où les partenaires tarifaires n'ont pas encore déclaré l'échec des négociations (cf. arrêt C-195/2012 du 24 septembre 2012, cons. 5.3).
 
-Physioswiss a également demandé au Conseil d'Etat de fixer, pour les assureurs-maladie affiliés à tarifsuisse SA, la valeur du point tarifaire (VPT) pour les prestations de physiothérapie fournies par des physiothérapeutes (selon art. 47 OAMal) et des organisations de physiothérapie (selon art. 52 OAMal) à Fr. 1.31 au 1<sup>er</sup> janvier 2025 et de fixer une VPT provisoire de Fr. 1.31 dans l'attente du tarif définitif, avec entrée en vigueur au 1<sup>er</sup> janvier 2025.
-
-Compte tenu de ce qui précède, il s'agit pour le Conseil d'Etat, dans un premier temps, de fixer un tarif provisoire dans l'urgence, afin que les fournisseurs de prestations puissent facturer leurs prestations jusqu'à connaissance du tarif définitif. Les demandes de prolongation de convention et de fixation tarifaire seront analysées ultérieurement.
-
-Le Service de la santé publique a formellement consulté les assureurs-maladie concernés en date du 19 décembre 2024 par rapport à la fixation d'un tarif provisoire par l'Etat de Fribourg.
-
-La compétence des cantons de fixer des tarifs provisoires découle de l'art. 46 al. 4 LAMal. Elle a été confirmée par le Tribunal administratif fédéral et cela également pour le cas où les partenaires tarifaires n'ont pas encore déclaré que les négociations ont échoué (cf. arrêt C-195/2012 du 24 septembre 2012, cons. 5.3).
+De par leur urgence, les mesures provisoires excluent des investigations approfondies. Le temps à disposition ne permet pas une analyse détaillée des preuves. Les mesures provisoires reposent sur un examen sommaire de la situation de fait et de droit. C'est lors de l'approbation ou de la fixation des tarifs définitifs qu'il conviendra d'étudier de plus près les fondements de ces derniers.
 
 Si le tarif définitif ne correspond pas au tarif provisoire, les parties tarifaires devront procéder à la compensation de la différence. Le tarif provisoire n'a aucune incidence et aucun effet sur les procédures de négociation, d'approbation voire de fixation du tarif définitif. En aucun cas les parties ne pourront donc, pour la poursuite des négociations, se prévaloir du tarif provisoire.
 
-Compte tenu du fait que Physioswiss demande entre autres la prolongation de la convention tarifaire du 1<sup>er</sup> janvier 2018 passée avec HSK SA et CSS Assurance-maladie SA avec une VPT de Fr. 0.98, que tarifsuisse SA, HSK SA et CSS Assurance-maladie SA sont d'accord avec une VPT provisoire de Fr. 0.98 et que le Conseil d'Etat ne dispose pas d'éléments nouveaux qui justifieraient une VPT provisoire différente, le Conseil d'Etat fixe la VPT provisoire à hauteur de Fr. 0.98.
+Les parties ont été consultées et leurs réponses prises en compte dans la présente ordonnance.
+
+Afin de garantir pleinement la liberté contractuelle ainsi que la primauté des conventions, le tarif applicable en 2025, correspondant à une valeur du point tarifaire de Fr. 0.98, est repris et fixé, à titre de tarif provisoire pour une durée indéterminée, avec effet au 1<sup>er</sup> janvier 2026.
 
 Sur la proposition de la Direction de la santé et des affaires sociales,
 
@@ -48,10 +43,16 @@ Arrête:
 
 #### Art. 1
 
-<sup>1</sup> La valeur du point tarifaire provisoire est de Fr. 0.98 pour les prestations de physiothérapie fournies par des physiothérapeutes (selon art. 47 OAMal) et des organisations de physiothérapie (selon art. 52 OAMal).
+<sup>1</sup> La valeur provisoire du point tarifaire est de Fr. 0.98 pour les prestations ambulatoires de physiothérapie fournies par des physiothérapeutes selon l'article 47 de l'ordonnance fédérale du 27 juin 1995 sur l'assurance maladie (OAMal)[^1-1] et des organisations de physiothérapie selon l'article 52 OAMal[^1-2].
+
+<sup>2</sup> Est applicable la base de facturation fixé à la structure tarifaire pour les prestations de physiothérapie uniforme sur le plan suisse selon l'article 2 de l'ordonnance fédérale du 30 avril 2025 sur la fixation de structures tarifaires dans l'assurance-maladie[^1-3].
+
+[^1-1]: RS [832.102](https://db.clex.ch/link/Bund/832.102/fr)
+[^1-2]: RS [832.102](https://db.clex.ch/link/Bund/832.102/fr)
+[^1-3]: RS [832.102.5](https://db.clex.ch/link/Bund/832.102.5/fr)
 
 #### Art. 2
 
 <sup>1</sup> Si le tarif définitif ne correspond pas au tarif provisoire, les parties procèdent au paiement des compensations appropriées.
 
-2025\_005
+2026\_004
