@@ -1,36 +1,35 @@
 ---
 canton: VS
 number: "725.109"
-title: "Règlement sur les taxes perçues pour l'usage particulier du domaine public relatif aux voies publiques cantonales et au Léman"
+title: "Règlement sur les taxes perçues pour l'usage particulier du domaine public relatif aux voies publiques cantonales, au Rhône et au Léman"
 language: fr
-version: 2017-04-14
-valid_until: 2025-12-31
-version_adopted: 2017-04-05
+version: 2026-01-01
+version_adopted: 2025-12-10
 adopted: 2025-12-10
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/725.109"
-pdf: "https://lex.vs.ch/api/fr/versions/2308/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3550/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement sur les taxes perçues pour l'usage particulier du domaine public relatif aux voies publiques cantonales et au Léman
+# Règlement sur les taxes perçues pour l'usage particulier du domaine public relatif aux voies publiques cantonales, au Rhône et au Léman
 
-du 05.04.2017 (état 14.04.2017)
+du 10.12.2025 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 143 de la loi sur les routes du 3 septembre 1965;
+vu l'article 143 de la loi sur les routes du 3 septembre 1965 (LR);
 
-sur la proposition du Département des transports, de l'équipement et de l'environnement,
+sur la proposition du département en charge de la mobilité,
 
-arrête:
+ordonne:
 
 #### Art. 1
 
-**Champ d'application**
+**Objet et champ d'application**
 
-<sup>1</sup> Le présent règlement a pour objet la détermination des taxes perçues pour l'usage particulier du domaine public relatif aux voies publiques cantonales et au Léman et leur mode de perception.
+<sup>1</sup> Le présent règlement a pour objet la détermination des taxes perçues pour l'usage particulier du domaine public relatif aux voies publiques cantonales, au Rhône et au Léman et leur mode de perception dans la mesure où elles ne sont pas contenues dans des lois spéciales.
 
 #### Art. 2
 
@@ -38,15 +37,21 @@ arrête:
 
 <sup>1</sup> Les taxes sont fixées compte tenu de l'intérêt économique de l'autorisation ou de la concession, du bénéfice tiré par le requérant et des inconvénients qui en résultent pour le domaine public.
 
-<sup>2</sup> En principe, les taxes sont annuelles. Elles sont comprises entre 100 francs et 50'000 francs et indexées selon l'indice suisse des prix à la consommation.
+<sup>2</sup> En principe, les taxes sont annuelles. Elles sont comprises entre 100 francs et 50'000 francs.
 
 <sup>3</sup> Exceptionnellement, l'autorité compétente fixe des taxes uniques.
 
+<sup>4</sup> Les taxes sont indexées selon l'indice suisse des prix à la consommation depuis l'entrée en vigueur du présent règlement, l'indice de base étant celui de janvier 2026. L'indexation se fait annuellement et l'indice de référence étant celui de septembre de l'année facturée.
+
+<sup>5</sup> Le calcul de l'indexation se fait en multipliant le quotient des deux indices (indice de référence divisé par indice de base) par le montant de la taxe initiale.
+
+<sup>6</sup> Une taxe minimale forfaitaire est due lorsque l'autorisation ou la concession poursuivent un but d'utilité publique et que le requérant n'en retire aucun gain financier.
+
 #### Art. 3
 
-**Taxes annuelles**
+**Tarifs des taxes annuelles**
 
-<sup>1</sup> Le montant des taxes annuelles se détermine comme il suit:
+<sup>1</sup> Le montant des taxes annuelles se détermine selon les tarifs suivants:
 
 - a) terrain non aménagé (terrain nu) pour usage non commercial:
   - 1\. situé dans une localité principale, un centre-ville ou en station — 8 francs/m²
@@ -74,7 +79,7 @@ arrête:
   - 3\. situé dans un village (localité de moins de 1'000 habitants) — 12 francs/an et m²
   - 4\. situé hors localité — 6 francs/an et m²
 
-<sup>2</sup> Le montant des taxes annuelles pour l’usage particulier de place de parc se détermine comme il suit:
+<sup>2</sup> Le montant des taxes annuelles pour l’usage particulier de place de parc se détermine selon les tarifs suivants:
 
 - a) terrain non aménagé (terrain nu) pour usage non commercial:
   - 1\. situé dans une localité principale, un centre-ville ou en station — 480 francs/20m²
@@ -102,24 +107,60 @@ arrête:
   - 3\. situé dans un village (localité de moins de 1'000 habitants) — 260 francs/20m²
   - 4\. situé hors localité — 140 francs/20m²
 
-<sup>3</sup> Le montant des taxes annuelles pour l’usage particulier du Léman ou de ses berges se détermine comme il suit:
+<sup>3</sup> Le montant des taxes annuelles pour l’usage particulier du Léman ou de ses berges se détermine selon les tarifs suivants:
 
 - a) surfaces remblayées sur le Léman — 5 francs/m²
-- b) surfaces de plan d’eau (Léman) — 1 franc/m²
-- c) pontons, escaliers, ports sur/jouxtant le Léman — 8 francs/m²
-- d) utilisation de la grève du Léman — 2 francs/ml
-- e) rail et glissière posés à même le sol ou sur support — 8 francs/ml
-- f) constructions et installations sur/jouxtant le Léman — 20 francs/ml
-- g) bouées (amarrages sur corps mort en plein eau du Léman) — 300 francs/objet
-- h) installations réfrigérantes, thermo-pompage ou autre usage industriel — 0.50/l par min
-- i) câbles divers (électricité, TV, etc.) de 0 à 1'000ml — 0.20/ml
-- j) câbles divers (électricité, TV, etc.) de 1'000ml et plus — 0.10/ml
+- b) surfaces de plan d’eau (Léman) intérieur de port — 1 franc/m²
+- c) pontons, débarcadères, plongeoirs ou escaliers — 8 francs/m² (surface horizontale sur plan)
+- e) rail et glissière posés à même le sol ou sur support pour mise à l'eau — 8 francs/ml (pour la longueur installée)
+- f) constructions et installations sur/jouxtant le Léman — 20 francs/m²
+- g) bouées (amarrages sur corps mort en plein eau du Léman) — 150 francs/objet
+- h) utilisation de l'eau pour installations réfrigérantes, thermo-pompage ou autre usage industriel — 0,50 francs/l par min (débit équipé)
+- i) câbles divers (sans conduite, d'un diamètre minime) — 0,20 francs/ml
+- k) échelle d'accès (verticale) — 30 francs/objet
+- l) poteau — 50 francs/poteau
+- m) port, mur et digue — 10 francs/m²
+- n) aménagements de rive, ouvrage de protection en enrochements (y. c. sous-lacustres) — 3 francs/m²
+- o) autre ouvrage en dur sur le sol ou sur le fond du Léman (dalle en béton p. ex.) — 5 francs/m²
+- p) une conduite de diamètre jusqu'à 10cm — 2 francs/ml
+- q) une conduite de diamètre entre 10 et 20cm — 3 francs/ml
+- r) une conduite de diamètre de plus de 20cm ou plusieurs conduites regroupées ou canal technique enterré de toute largeur — 16 francs/m²
+- s) gazoduc/oléoduc — 5 francs/ml (pour tout diamètre)
+
+<sup>4</sup> Le montant des taxes annuelles pour l'usage particulier du Rhône ou de ses berges se détermine selon les tarifs suivants:
+
+- a) emplacement/emprise au sol de mât, pylône, totem/panneau publicitaire ou antenne de plus de 1m² — 20 francs/m² (surface totale de la projection au sol de l'ouvrage)
+- b) pont, passerelle, ainsi que les culées situées sur les berges — 4 francs/m² (surface totale de la projection au sol de l'ouvrage)
+- c) chemin, route d'accès — 4 francs/m²
+- d) constructions sur/jouxtant le Rhône (petites constructions, cabanes, stations de pompage, etc.) — 20 francs/m²
+- e) utilisation commerciale (kioskc, stand, etc.) — 6 francs/m²
+- f) élément linéaire (barrière, clôture, mur, palissade, etc.) — 3 francs/ml
+- g) aménagements de rive ou du lit, enrochements — 3 francs/m²
+- h) place de stationnement — 8 francs/m²
+- i) terrain non aménagé (terrain nu) privatisé — 4 francs/m²
+- j) terrain aménagé (terrain revêtu), aménagements extérieurs, terrasses, mobilier urbain, etc. — 6 francs/m²
+- k) entreposage et gestion de matériaux — 6 francs/m²
+- l) utilisation de l'eau débit jusqu'à 30'000l/min — 0,10 francs/l par min (débit équipé)
+- m) utilisation de l'eau débit dès 0,5m³/s — 7'500 francs par m³/s
+- n) chambre et regard de tirage pour câbles, ainsi que toute cellule située de part et d'autre d'une conduite — 4 francs/m²
+- o) câbles divers (sans conduite, d'un diamètre minime) — 0,20 francs/ml
+- p) une conduite de diamètre jusqu'à 10cm — 2 francs/ml
+- q) une conduite de diamètre entre 10 et 20cm — 3 francs/ml
+- r) une conduite de diamètre de plus de 20cm ou plusieurs conduites regroupées ou canal/tunnel technique enterré de toute largeur — 16 francs/m²
+- s) gazoduc/oléoduc (comprenant les dispositifs de protection) — 5 francs/ml (par tout diamètre)
+- t) ensemble de conduites en forage dirigé — 8 francs/ml (par forage dirigé)
 
 #### Art. 4
 
-**Taxes uniques**
+**Tarifs des taxes périodiques**
 
-<sup>1</sup> Pour les utilisations du domaine public décrites ci-dessous, le montant des taxes est unique et valable pour une durée de 25 ans. Il est déterminé comme suit:
+<sup>1</sup> Pour les installations de chantier provisoire, tout équipement ou surface utilisée pour une manifestation pour l'usage particulier du Rhône ou de ses berges, il est perçu une taxe selon le tarif de 0,10/m² par jour.
+
+#### Art. 5
+
+**Tarifs des taxes uniques**
+
+<sup>1</sup> Pour les utilisations du domaine public décrites ci-dessous, le montant des taxes est unique et valable pour une la durée de l'usage particulier. Il est déterminé selon les tarifs suivants:
 
 - a) panneau d'information permanent de plus de 5m² — 500 francs
 - b) panneau d'information permanent de moins de 5m² — 300 francs
@@ -132,12 +173,27 @@ arrête:
 - i) place pour installation de télécommunications/services industriels, jusqu'à 6m², à l'intérieur de localité — 400 francs
 - j) mât — 100 francs
 
-<sup>2</sup> L'autorité peut également prévoir un forfait correspondant au montant de la taxe annuelle déterminé conformément à l'article 3 du présent règlement multiplié par la durée de l'autorisation ou de la concession. Le montant forfaitaire sera compris entre 100 francs fois la durée de l'autorisation ou de la concession octroyée et 50'000 francs fois la durée de l'autorisation ou de la concession octroyée.
+<sup>2</sup> Le montant des taxes uniques pour l'usage particulier du Rhône ou des berges se détermine selon les tarifs suivants:
+
+- a) emplacement/emprise au sol de mât, pylône, totem/panneau publicitaire ou antenne jusqu'à 1m² (surface totale de projection au sol de l'ouvrage) — 100 francs
+- b) forage vertical, puits (avec ou sans ouvrage fixe au sol) — 100 francs/forage
+
+<sup>3</sup> L'autorité peut également prévoir un forfait correspondant au montant de la taxe annuelle déterminé conformément à l'article 3 du présent règlement multiplié par la durée de l'autorisation ou de la concession. Le montant forfaitaire sera compris entre 100 francs fois la durée de l'autorisation ou de la concession octroyée et 50'000 francs fois la durée de l'autorisation ou de la concession octroyée.
+
+#### Art. 6
+
+**Modalités**
+
+<sup>1</sup> La taxe annuelle est due dès le premier jour du mois de l'octroi de l'usage particulier relatif aux voies publiques cantonales, au Rhône et au Léman.
+
+<sup>2</sup> En cas de changement de l'usage particulier, résultant notamment d'un transfert, d'une division ou d'une réunion de parcelles, une nouvelles taxe annuelle est calculée sur la base de la situation mise à jour.
+
+<sup>3</sup> La taxe annuelle est due prorata temporis et jusqu'à la confirmation de la remise en état, en cas de cessation de l'usage particulier.
 
 ## T1 Disposition transitoire
 
 #### Art. T1-1
 
-<sup>1</sup> Le présent règlement s'applique à toutes les demandes d'utilisation du domaine public cantonal ou toutes les demandes de régularisation relatives à l'utilisation du domaine public cantonal déposées dès l'entrée en vigueur du présent règlement.
+<sup>1</sup> Les taxes fixées par les décisions d'utilisation du domaine public cantonal et toutes les décisions de régularisation relatives à l'utilisation du domaine public cantonal prises avant l'entrée en vigueur du présent règlement demeurent régies selon les modalités en vigueur au moment de leur calcul, et ce pendant toute la durée de validité de la décision concernée, tout au plus jusqu'à l'entrée en force d'une nouvelle décision.
 
-RCV BO/Abl. 15/2017
+RCV RO/AGS 2025-126

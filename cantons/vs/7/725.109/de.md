@@ -1,36 +1,35 @@
 ---
 canton: VS
 number: "725.109"
-title: Reglement über die Gebühren für den Sondergebrauch des öffentlichen Eigentums auf kantonalen Verkehrswegen und am Genfersee
+title: "Reglement über die Gebühren für den Sondergebrauch des öffentlichen Eigentums auf kantonalen Verkehrswegen, an der Rhone und am Genfersee"
 language: de
-version: 2017-04-14
-valid_until: 2025-12-31
-version_adopted: 2017-04-05
+version: 2026-01-01
+version_adopted: 2025-12-10
 adopted: 2025-12-10
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/725.109"
-pdf: "https://lex.vs.ch/api/de/versions/2308/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3550/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über die Gebühren für den Sondergebrauch des öffentlichen Eigentums auf kantonalen Verkehrswegen und am Genfersee
+# Reglement über die Gebühren für den Sondergebrauch des öffentlichen Eigentums auf kantonalen Verkehrswegen, an der Rhone und am Genfersee
 
-vom 05.04.2017 (Stand 14.04.2017)
+vom 10.12.2025 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 143 des Strassengesetzes vom 3. September 1965;
+eingesehen Artikel 143 des Strassengesetzes vom 3. September 1965 (StrG);
 
-auf Antrag des Departements für Verkehr, Bau und Umwelt,
+auf Antrag des für die Mobilität zuständigen Departements,
 
-beschliesst:
+verordnet:
 
 #### Art. 1
 
-**Geltungsbereich**
+**Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Das vorliegende Reglement bezweckt, die Gebühren und die Art ihrer Erhebung festzulegen, welche für den Sondergebrauch des öffentlichen Eigentums auf kantonalen Verkehrswegen und am Genfersee erhoben werden.
+<sup>1</sup> Das vorliegende Reglement setzt die Gebühren und deren Erhebungsweise für den Sondergebrauch des öffentlichen Eigentums auf kantonalen Verkehrswegen, an der Rhone und am Genfersee fest soweit dies nicht in Spezialgesetzen geregelt ist.
 
 #### Art. 2
 
@@ -38,15 +37,21 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren werden in Berücksichtigung der mit der Bewilligung oder Konzession verbundenen wirtschaftlichen Vorteile, des Interesses des Gebührenpflichtigen und der für das öffentliche Eigentum resultierenden Nachteile festgesetzt.
 
-<sup>2</sup> Die Gebühren werden in der Regel jährlich erhoben. Sie betragen zwischen 100 und 50'000 Franken und sind an den Landesindex für Konsumentenpreise gebunden.
+<sup>2</sup> Die Gebühren werden in der Regel jährlich erhoben. Sie betragen zwischen 100 und 50'000 Franken.
 
 <sup>3</sup> In Ausnahmefällen setzt die zuständige Behörde eine einmalig zu entrichtende Gebühr fest.
 
+<sup>4</sup> Ab Inkrafttreten des vorliegenden Reglements werden die Gebühren an den Landesindex der Konsumentenpreise gebunden, wobei als Basisindex derjenige vom Januar 2026 gilt. Die Indexierung erfolgt jährlich, und als Referenzindex gilt derjenige vom September des (jeweiligen) Rechnungsjahres.
+
+<sup>5</sup> Zur Berechnung der Indexierung wird der Quotient der beiden Indizes (Referenzindex geteilt durch den Basisindex) mit dem Ausgangsbetrag der Gebühr multipliziert.
+
+<sup>6</sup> Wenn die Bewilligung oder Konzession einem gemeinnützigen Zweck dient und der Gesuchsteller keinen finanziellen Gewinn daraus erzielt, ist eine pauschale Mindestgebühr zu entrichten.
+
 #### Art. 3
 
-**Jährliche Gebühren**
+**Tarife für die jährlichen Gebühren**
 
-<sup>1</sup> Der Betrag der jährlichen Gebühren bestimmt sich wie folgt:
+<sup>1</sup> Der Betrag der jährlichen Gebühren bestimmt sich nach den folgenden Tarifen:
 
 - a) unbearbeitetes Terrain (unbefestigte Fläche), bei nichtgewerblicher Nutzung:
   - 1\. in einem Hauptort, Stadtzentrum oder Tourismusort — 8 Franken/m²
@@ -74,7 +79,7 @@ beschliesst:
   - 3\. in einer Ortschaft mit unter 1'000 Einwohnern — 12 Franken/Jahr und m²
   - 4\. ausserorts — 6 Franken/Jahr und m²
 
-<sup>2</sup> Der Betrag der jährlichen Gebühren bei Sondernutzung für Parkplätze bestimmt sich wie folgt:
+<sup>2</sup> Der Betrag der jährlichen Gebühren bei der Nutzung von Parkplätzen im Sondergebrauch bestimmt sich nach den folgenden Tarifen:
 
 - a) unbearbeitetes Terrain (unbefestigte Fläche), bei nichtgewerblicher Nutzung:
   - 1\. in einem Hauptort, Stadtzentrum oder Tourismusort — 480 Franken/20m²
@@ -102,24 +107,60 @@ beschliesst:
   - 3\. in einer Ortschaft mit unter 1'000 Einwohnern — 260 Franken/20m²
   - 4\. ausserorts — 140 Franken/20m²
 
-<sup>3</sup> Der Betrag der jährlichen Gebühren bei Sondernutzung am oder auf dem Genfersee und seiner Ufer bestimmt sich wie folgt:
+<sup>3</sup> Der Betrag der jährlichen Gebühren für den Sondergebrauch des Genfersees und seiner Ufer bestimmt sich nach den folgenden Tarifen:
 
 - a) Flächen auf Uferaufschüttungen am Genfersee — 5 Franken/m²
-- b) Nutzung offener Wasserflächen (auf dem Genfersee) — 1 Franken/m²
-- c) am Genfersee liegende oder an diesen anstossende Pontons, Treppen oder Hafenplätze — 8 Franken/m²
-- d) Nutzung der Uferzone am Genfersee — 2 Franken/Lfm
-- e) Schiene auf Boden oder auf Stützen — 8 Franken/Lfm
-- f) am Genfersee anliegende oder anstossende Bauten und Anlagen — 20 Franken/Lfm
-- g) Bojen (Ankerklotze auf der offenen Wasserfläche des Genfersees) — 300 Franken/Stk.
-- h) Kühlanlagen, Wärmepumpen oder andere technische Anlagen — 0.50 Franken/l pro Min.
-- i) verschiedene Leitungen (Strom, TV, etc.) von 0 bis 1'000Lfm — 0.20 Franken/Lfm
-- j) verschiedene Leitungen (Strom, TV, etc.) ab 1'000Lfm — Franken/Lfm
+- b) Nutzung offener Wasserflächen innerhalb eines Hafens (Genfersee) — 1 Franken/m²
+- c) Pontons, Anlegestellen, Sprungbretter oder Treppen — 8 Franken/m² (horizontale Fläche auf Grundriss)
+- e) Schiene zum Einwassern auf Boden oder auf Stützen — 8 Franken/Lfm (für die installierte Länge)
+- f) Bauten und Anlagen am oder auf dem Genfersee — 20 Franken/m²
+- g) Bojen (Ankerklotze auf der offenen Wasserfläche des Genfersees) — 150 Franken/Stk.
+- h) Wassernutzung für Kühlanlagen, Wärmepumpen oder andere technische Anlagen — 0,50 Franken/l pro Min. (Ausbauwassermenge)
+- i) verschiedene Kabel (ohne Rohrleitung, mit geringem Durchmesser) — 0,20 Franken/Lfm
+- k) Zugangsleiter (vertikal) — 30 Franken/Stk.
+- l) Pfosten — 50 Franken/Pfosten
+- m) Hafen, Mauer und Damm — 10 Franken/m²
+- n) Uferbefestigung, Schutzbaute aus Steinschüttung/Blockwürfen (auch unter Wasser) — 3 Franken/m²
+- o) andere Festbaute auf Boden am Festland oder auf dem Grund des Sees (z. B. Betonplatten) — 5 Franken/m²
+- p) Rohrleitung mit einem Durchmesser bis 10cm — 2 Franken/Lfm
+- q) Rohrleitung mit einem Durchmesser von 10 bis 20cm — 3 Franken/Lfm
+- r) Rohrleitung mit einem Durchmesser ab 20cm oder Leitungsbündel bzw. Technikkanal von beliebigem Durchmesser — 16 Franken/m²
+- s) Gas-/Ölleitung — 5 Franken/Lfm (unabhängig vom Durchmesser)
+
+<sup>4</sup> Der Betrag der jährlichen Gebühren für den Sondergebrauch der Rhone und ihrer Ufer bestimmt sich nach den folgenden Tarifen:
+
+- a) Standplatz/Grundfläche für Masten, Pylonen, Werbetafeln/-säulen oder Antennen bis 1m2 — 20 Franken/m² (Gesamtfläche des Bauwerksgrundrisses)
+- b) Brücke, Steg sowie deren Widerlager am Ufer — 4 Franken/m² (Gesamtfläche des Bauwerksgrundrisses)
+- c) Weg, Zufahrtsstrasse — 4 Franken/m²
+- d) Bauten an/neben der Rhone (Kleinbauten, Hütten, Pumpwerke usw.) — 20 Franken/m²
+- e) Gewerbliche Nutzung (Kiosk, Verkaufsstand usw.) — 6 Franken/m²
+- f) Lineares Element (Barriere, Zaun, Mauer, Palisade usw.) — 3 Franken/Lfm
+- g) Ufer- oder Flussbettgestaltung, Steinschüttung/ Blockwürfe — 3 Franken/m²
+- h) Parkplatz — 8 Franken/m²
+- i) privatisierter, nicht gestalteter Boden (unbebautes Grundstück) — 4 Franken/m²
+- j) gestalteter Boden (bebautes Grundstück), Aussenanlagen, Terrassen, Stadtmöbel usw. — 6 Franken/m²
+- k) Materiallagerung und -bewirtschaftung — 6 Franken/m²
+- l) Nutzung des Wasserabflusses bis zu 30'000 l/Min. — 0,10 Franken/l pro Min. (Ausbauwassermenge)
+- m) Nutzung des Wasserabflusses ab 0,5 m³/s — 7500 Franken pro m³/s
+- n) Einstiegs- und Kabelzugschächte sowie alle Schächte an beiden Enden einer Rohrleitung — 5 Franken/m²
+- o) verschiedene Kabel (ohne Rohrleitung, mit geringem Durchmesser) — 0,20 Franken/Lfm
+- p) Rohrleitung mit einem Durchmesser bis 10cm — 2 Franken/Lfm
+- q) Rohrleitung mit einem Durchmesser von 10 bis 20cm — 3 Franken/Lfm
+- r) Rohrleitung mit einem Durchmesser ab 20cm oder Leitungsbündel bzw. Technikkanal von beliebigem Durchmesser — 16 Franken/m²
+- s) Gas-/Ölleitung (einschliesslich Schutzvorrichtungen) — 5 Franken/Lfm (unabhängig vom Durchmesser)
+- t) Leitungssatz für gesteuerte Bohrung — 8 Franken/Lfm (pro gesteuerte Bohrung)
 
 #### Art. 4
 
-**Einmalige Gebühren**
+**Tarife für die periodischen Gebühren**
 
-<sup>1</sup> Für die nachstehend aufgeführten Nutzungen des öffentlichen Eigentums wird die Gebühr einmalig erhoben und gilt für die Dauer von 25 Jahren. Sie bestimmt sich wie folgt:
+<sup>1</sup> Bei provisorischen Baustelleninstallationen sowie sämtlichen Einrichtungen oder Flächen für die Nutzung der Rhone oder ihrer Ufer im Sondergebrauch für eine Veranstaltung, wird eine Gebühr von 0,10 Franken/m² und Tag erhoben.
+
+#### Art. 5
+
+**Tarife für die einmaligen Gebühren**
+
+<sup>1</sup> Für die nachstehend aufgeführten Nutzungen des öffentlichen Eigentums wird die Gebühr einmalig erhoben und gilt für die Dauer des Sondergebrauchs. Sie bestimmt sich nach den folgenden Tarifen:
 
 - a) fest installierte Informationstafeln von über 5m² — 500 Franken
 - b) fest installierte Informationstafeln von unter 5m² — 300 Franken
@@ -132,12 +173,27 @@ beschliesst:
 - i) Standplatz für Anlagen des Fernmeldewesens/technische Anlagen bis zu 6m², innerorts — 400 Franken
 - j) Masten — 100 Franken
 
-<sup>2</sup> Die Behörde kann auch einen Pauschalbetrag festlegen, welcher aus der in Artikel 3 des vorliegenden Reglements genannten jährlichen Gebühr, multipliziert mit der Laufzeit der Bewilligung oder Konzession, errechnet wird. Diese Gebührenpauschale liegt somit zwischen 100 Franken mal die Laufzeit der Bewilligung oder Konzession und 50'000 Franken mal die Laufzeit der Bewilligung oder Konzession.
+<sup>2</sup> Der Betrag der einmaligen Gebühren für den Sondergebrauch der Rhone oder ihrer Ufer bestimmt sich nach den folgenden Tarifen:
+
+- a) Standplatz/Grundfläche für Masten, Pylonen, Werbetafeln/-säulen oder Antennen bis 1m² (Gesamtfläche des Bauwerksgrundrisses) — 100 Franken
+- b) gesteuerte Bohrung, Brunnen (mit oder ohne Festbaute auf Boden) — 100 Franken/Bohrung
+
+<sup>3</sup> Die Behörde kann auch einen Pauschalbetrag festlegen, welcher aus der in Artikel 3 des vorliegenden Reglements genannten jährlichen Gebühr, multipliziert mit der Laufzeit der Bewilligung oder Konzession, errechnet wird. Diese Gebührenpauschale liegt somit zwischen 100 Franken mal die Laufzeit der Bewilligung oder Konzession und 50'000 Franken mal die Laufzeit der Bewilligung oder Konzession.
+
+#### Art. 6
+
+**Modalitäten**
+
+<sup>1</sup> Die jährliche Gebühr wird ab dem ersten Tag des Monats fällig, an dem der Sondergebrauch des öffentlichen Eigentums auf kantonalen Verkehrswegen, an der Rhone und am Genfersee bewilligt wurde.
+
+<sup>2</sup> Im Falle einer Änderung am Sondergebrauch, insbesondere infolge Übertragung, Teilung oder Zusammenlegung von Parzellen, wird eine neue jährliche Gebühr aufgrund der aktualisierten Lage berechnet.
+
+<sup>3</sup> Die jährliche Gebühr ist pro rata temporis und bis zur Bestätigung der Wiederherstellung des ursprünglichen Zustands nach Beendigung des Sondergebrauchs zu entrichten.
 
 ## T1 Übergangsbestimmung
 
 #### Art. T1-1
 
-<sup>1</sup> Das vorliegende Reglement gilt für alle Gesuche für eine künftige Nutzung oder für die Legalisierung einer bestehenden Nutzung des öffentlichen Eigentums des Kantons, die ab dessen Inkrafttreten eingereicht werden.
+<sup>1</sup> Alle vor dem Inkrafttreten dieses Reglements erlassenen Verfügungen über Gebühren für den Gebrauch von kantonalem öffentlichem Eigentum, ebenso wie alle diesbezüglich erlassenen Legalisierungsverfügungen, behalten für ihre gesamte Gültigkeitsdauer, oder bis zum Inkrafttreten einer neuen Verfügung, ihre Gültigkeit.
 
-CSW BO/Abl. 15/2017
+CSW RO/AGS 2025-126
