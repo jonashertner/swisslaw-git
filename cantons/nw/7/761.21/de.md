@@ -4,115 +4,118 @@ number: "761.21"
 title: Vollzugsverordnung zum Gesetz über die Angebote für Personen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsverordnung, BetrV"
 language: de
-version: 2020-01-01
-corrected: 2021-11-26
-version_adopted: 2019-10-29
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.21"
-pdf: "https://gesetze.nw.ch/api/de/versions/338/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1455/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesetz über die Angebote für Personen mit besonderen Betreuungsbedürfnissen (Betreuungsverordnung, BetrV)
+# Vollzugsverordnung zum Gesetz über die Angebote für Personen mit besonderen Betreuungsbedürfnissen
 
-vom 16. Dezember 2014<sup>1</sup>
+(Betreuungsverordnung, BetrV)
+
+vom 16.12.2014 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 2, 3, 10, 11, 14, 22, 24, 33 und 39 des Gesetzes vom 22. Oktober 2014 über die Angebote für Personen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BetrG)<sup>2</sup> und Art. 43 Abs. 2 des Gesetzes vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)<sup>3</sup>,
+gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 2, 3, 10, 11, 14, 22, 24, 33 und 39 des Gesetzes vom 22. Oktober 2014 über die Angebote für Personen mit besonderen Betreuungsbedürfnissen (Betreuungsgesetz, BetrG)[^ingress-1] und Art. 43 Abs. 2 des Gesetzes vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)[^ingress-2],
 
 beschliesst:
 
-### I. ALLGEMEINE BESTIMMUNGEN
+[^ingress-1]: NG 761.2
+[^ingress-2]: NG 211.1
+
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Personen mit Behinderungen**
 
-Als behindert gelten Personen, die aufgrund von Beeinträchtigungen körperlicher, sprachlicher, sensorischer, geistiger oder psychischer Art so stark beeinträchtigt sind, dass ihre Teilnahme an Bildung, Erwerbsleben oder Gesellschaft erschwert oder verunmöglicht ist.
+<sup>1</sup> Als behindert gelten Personen, die aufgrund von Beeinträchtigungen körperlicher, sprachlicher, sensorischer, geistiger oder psychischer Art so stark beeinträchtigt sind, dass ihre Teilnahme an Bildung, Erwerbsleben oder Gesellschaft erschwert oder verunmöglicht ist.
 
 #### § 2
 
-**Betreuungsangebote**
+**Betreuungsangebote 1. stationäre Einrichtungen für volljährige Personen**
 
-### 1. stationäre Einrichtungen für volljährige Personen
-
-<sup>1</sup> Als gewerbsmässig im Sinne von Art. 3 Abs. 1 Ziff. 1 BetrG<sup>2</sup> gelten stationäre Betreuungsangebote, wenn die Betreuung und Unterkunft:
+<sup>1</sup> Als gewerbsmässig im Sinne von Art. 3 Abs. 1 Ziff. 1 BetrG[^2-1] gelten stationäre Betreuungsangebote, wenn die Betreuung und Unterkunft:
 
 - 1\. mehr als zwei Betreuungsbedürftigen gewährt werden;
-
 - 2\. über eine längere Zeitdauer angeboten werden;
-
 - 3\. eine geschäftliche Tätigkeit des Leistungserbringers oder einer durch den Leistungserbringer beauftragten Person darstellen; und
-
 - 4\. gegen eine Entschädigung gewährt werden, die den Umfang einer Umtriebsentschädigung übersteigt.
 
-<sup>2</sup> Werden den Betreuungsbedürftigen neben der Unterkunft ausschliesslich Verpflegungsmöglichkeiten angeboten, gilt dies nicht als Betreuung im Sinne von Art. 3 Abs. 1 Ziff. 1 BetrG<sup>2</sup>.
+<sup>2</sup> Werden den Betreuungsbedürftigen neben der Unterkunft ausschliesslich Verpflegungsmöglichkeiten angeboten, gilt dies nicht als Betreuung im Sinne von Art. 3 Abs. 1 Ziff. 1 BetrG[^2-2].
+
+[^2-1]: NG 761.2
+[^2-2]: NG 761.2
 
 #### § 3
 
 **2. ambulante Hilfen**
 
-<sup>1</sup> Als ambulante Hilfen gemäss Art. 3 Abs. 1 Ziff. 6 BetrG<sup>2</sup> gelten Betreuungsangebote, die:
+<sup>1</sup> Als ambulante Hilfen gemäss Art. 3 Abs. 1 Ziff. 6 BetrG[^3-1] gelten Betreuungsangebote, die:
 
 - 1\. geeignet sind, Platzierungen in stationären Betreuungseinrichtungen zu verhindern, zu ersetzen oder hinauszuzögern; oder
-
 - 2\. den Zweck haben, den notwendigen Betreuungsbedarf abzuklären.
 
-<sup>2</sup> Als gewerbsmässig im Sinne von Art. 3 Abs. 1 Ziff. 6 BetrG<sup>2</sup> gelten ambulante Hilfen, wenn sie:
+<sup>2</sup> Als gewerbsmässig im Sinne von Art. 3 Abs. 1 Ziff. 6 BetrG[^3-2] gelten ambulante Hilfen, wenn sie:
 
 - 1\. über eine längere Zeitdauer angeboten werden;
-
 - 2\. eine geschäftliche Tätigkeit des Leistungserbringers darstellen; und
-
 - 3\. gegen eine Entschädigung gewährt werden, die den Umfang einer Umtriebsentschädigung übersteigt.
+
+[^3-1]: NG 761.2
+[^3-2]: NG 761.2
 
 #### § 4
 
-**Organisation**
+**Organisation 1. Regierungsrat**
 
-- 1\. Regierungsrat Der Regierungsrat ist zuständig für:
+<sup>1</sup> Der Regierungsrat ist zuständig für:
 
 - 1\. die Erstellung der mehrjährigen Angebotsplanung;
+- 2\. die Anerkennung gemäss Art. 14 Abs. 1 Ziff. 2 BetrG[^4-1];
+- 3\. den Abschluss von Leistungsvereinbarungen gemäss Art. 16 Abs. 1 Ziff. 2 BetrG[^4-2].
 
-- 2\. die Anerkennung gemäss Art. 14 Abs. 1 Ziff. 2 BetrG<sup>2</sup>;
-
-- 3\. den Abschluss von Leistungsvereinbarungen gemäss Art. 16 Abs. 1 Ziff. 2 BetrG<sup>2</sup>.
+[^4-1]: NG 761.2
+[^4-2]: NG 761.2
 
 #### § 5
 
 **2. Direktion**
 
-<sup>1</sup> Die Direktion nimmt die Aufgaben der Verbindungsstelle gemäss der Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)<sup>4</sup> wahr.
+<sup>1</sup> Die Direktion nimmt die Aufgaben der Verbindungsstelle gemäss der Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)[^5-1] wahr.
 
 <sup>2</sup> Sie ist für alle Aufgaben zuständig, die in der Gesetzgebung keiner anderen Instanz zugewiesen sind.
 
 <sup>3</sup> Sie ist insbesondere zuständig für:
 
 - 1\. die Aufsicht über die bewilligungs- und meldepflichtigen sowie die anerkannten Betreuungsangebote und die Einhaltung der Leistungsvereinbarungen;
-
-- 2\. die Bewilligung von Betreuungsangeboten; vorbehalten bleibt Art. 10 Ziff. 1 BetrG<sup>2</sup>;
-
-- 3\. die Anerkennung von Betreuungsangeboten der Familienpflege gemäss der Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)<sup>5</sup>;
-
-- 4\. den Abschluss von Leistungsvereinbarungen bei der Familienpflege gemäss PAVO<sup>5</sup>;
-
+- 2\. die Bewilligung von Betreuungsangeboten; vorbehalten bleibt Art. 10 Ziff. 1 BetrG[^5-2];
+- 3\. die Anerkennung von Betreuungsangeboten der Familienpflege gemäss der Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO)[^5-3];
+- 4\. den Abschluss von Leistungsvereinbarungen bei der Familienpflege gemäss PAVO[^5-4];
 - 5\. die Erteilung von Kostenübernahmegarantien für anerkannte Betreuungsangebote;
-
 - 6\. die Anordnung der Rückerstattung kantonaler Beiträge;
-
 - 7\. die Koordination der Inkassohilfe gemäss § 13 Abs. 3.
+
+[^5-1]: NG 761.3
+[^5-2]: NG 761.2
+[^5-3]: SR 211.222.338
+[^5-4]: SR 211.222.338
 
 #### § 6
 
 **3. Amt**
 
-Das Amt ist für die Bewilligung der Familienpflege gemäss PAVO<sup>5</sup> zuständig.
+<sup>1</sup> Das Amt ist für die Bewilligung der Familienpflege gemäss PAVO[^6-1] zuständig.
 
-### II. BEWILLIGUNG UND ANERKENNUNG
+[^6-1]: SR 211.222.338
+
+## 2 Bewilligung und Anerkennung
 
 #### § 7
 
@@ -123,21 +126,13 @@ Das Amt ist für die Bewilligung der Familienpflege gemäss PAVO<sup>5</sup> zus
 <sup>2</sup> Dem Gesuch sind insbesondere beizulegen:
 
 - 1\. Angaben zur Organisation des Trägers;
-
 - 2\. die Personalien und Angaben zur beruflichen Qualifikation der für die Betriebsführung verantwortlichen Person;
-
 - 3\. Angaben zur Anzahl des Personals und dessen beruflicher Qualifikation;
-
 - 4\. Angaben zum Umfang der Leistungen;
-
 - 5\. Angaben zur Auslastung des Angebotes;
-
 - 6\. das Betreuungs- und Raumkonzept;
-
 - 7\. die Betriebsrechnung der letzten beiden Jahre;
-
 - 8\. das Budget des laufenden Jahres; und
-
 - 9\. bei ausserkantonalen Einrichtungen die Bewilligung des Standortkantons.
 
 <sup>3</sup> Die für die Bewilligung oder Anerkennung zuständige Instanz kann bei Bedarf weitere Unterlagen einfordern.
@@ -158,15 +153,13 @@ Das Amt ist für die Bewilligung der Familienpflege gemäss PAVO<sup>5</sup> zus
 
 **Inhalt der Bewilligung**
 
-In der Bewilligung sind insbesondere zu bezeichnen:
+<sup>1</sup> In der Bewilligung sind insbesondere zu bezeichnen:
 
 - 1\. der Umfang der Leistungen;
-
 - 2\. die Räumlichkeiten, in denen das Betreuungsangebot geleistet werden darf; und
-
 - 3\. das zahlenmässige Verhältnis zwischen Personal und betreuten Personen.
 
-### III. KOSTENÜBERNAHME
+## 3 Kostenübernahme
 
 #### § 10
 
@@ -180,13 +173,13 @@ In der Bewilligung sind insbesondere zu bezeichnen:
 
 **Eigenleistung**
 
-Die Höhe der Eigenleistung richtet sich nach dem Anhang dieser Verordnung.
+<sup>1</sup> Die Höhe der Eigenleistung richtet sich nach dem Anhang dieser Verordnung.
 
 #### § 12
 
 **Kostenübernahmegarantie**
 
-Sind die Voraussetzungen für eine Kostenübernahme durch den Kanton erfüllt, hat die Direktion mittels Verfügung eine Kostenübernahmegarantie zu gewähren.
+<sup>1</sup> Sind die Voraussetzungen für eine Kostenübernahme durch den Kanton erfüllt, hat die Direktion mittels Verfügung eine Kostenübernahmegarantie zu gewähren.
 
 #### § 13
 
@@ -202,9 +195,9 @@ Sind die Voraussetzungen für eine Kostenübernahme durch den Kanton erfüllt, h
 
 **Anpassung**
 
-Ändern sich die Verhältnisse, hat die Direktion die Kostenübernahmegarantie anzupassen.
+<sup>1</sup> Ändern sich die Verhältnisse, hat die Direktion die Kostenübernahmegarantie anzupassen.
 
-### IV. INVESTITIONSDARLEHEN
+## 4 Investitionsdarlehen
 
 #### § 15
 
@@ -224,13 +217,13 @@ Sind die Voraussetzungen für eine Kostenübernahme durch den Kanton erfüllt, h
 
 <sup>3</sup> Die Direktion ist berechtigt, vor der Auszahlung des Investitionsdarlehens vom Leistungserbringer Auskünfte und Unterlagen wie Rechnungs- und Zahlungsausweise zu verlangen.
 
-### V. SCHLUSSBESTIMMUNGEN
+## 5 Schlussbestimmungen
 
 #### § 17
 
 **Änderung der Gesundheitsverordnung**
 
-Die Vollzugsverordnung vom 3. Februar 2009 zum Gesundheitsgesetz (Gesundheitsverordnung, GesV)[^17-1] wird wie folgt geändert: …
+<sup>1</sup> Die Vollzugsverordnung vom 3. Februar 2009 zum Gesundheitsgesetz (Gesundheitsverordnung, GesV)[^17-1] wird wie folgt geändert: …
 
 [^17-1]: NG 711.11
 
@@ -238,55 +231,44 @@ Die Vollzugsverordnung vom 3. Februar 2009 zum Gesundheitsgesetz (Gesundheitsver
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Januar 2015 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2015 in Kraft.
 
-### EIGENLEISTUNGEN GEMÄSS ART. 24 BETREUUNGSGESETZ
+## A1 Anhang: Eigenleistungen gemäss Art. 24 Betreuungsgesetz
 
-### A. BEI STATIONÄREN BETREUUNGSANGEBOTEN
+#### § A1-1
 
-<sup>1</sup> Die Betreuungsbedürftigen haben für stationäre Betreuungsangebote zwingend eine Eigenleistung gemäss Art. 24 BetrG[^hABEISTATIONÄRENB-1] zu erbringen.
+**Bei stationären Betreuungsangeboten**
 
-<sup>2</sup> Die Eigenleistung beträgt bei stationären Betreuungsangeboten: 1.[^hABEISTATIONÄRENB-2] bei Bezügerinnen und Bezügern von Invalidenrenten Fr. 133.- je Tag;
+<sup>1</sup> Die Betreuungsbedürftigen haben für stationäre Betreuungsangebote zwingend eine Eigenleistung gemäss Art. 24 BetrG[^A11-1] zu erbringen.
 
-- 2\. bei minderjährigen Personen Fr. 700.- je Monat;
+<sup>2</sup> Die Eigenleistung beträgt bei stationären Betreuungsangeboten:
 
-3.[^hABEISTATIONÄRENB-3] bei kranken Personen mit einem besonders grossen Betreuungsaufwand gemäss Art. 2 Abs. 1 Ziff. 4 BetrG[^hABEISTATIONÄRENB-4] Fr. 20.- je Tag;
-
-- 4\. bei weiteren Personen Fr. 80.- je Tag.
+- 1\. bei Bezügerinnen und Bezügern von Invalidenrenten Fr. 140.– je Tag;
+- 2\. bei minderjährigen Personen Fr. 700.– je Monat;
+- 3\. bei kranken Personen mit einem besonders grossen Betreuungsaufwand gemäss Art. 2 Abs. 1 Ziff. 4 BetrG[^A11-2] Fr. 20.– je Tag;
+- 4\. bei weiteren Personen Fr. 80.– je Tag.
 
 <sup>3</sup> Als stationäre Betreuungsangebote gelten insbesondere Wohnheime, Kinderheime, Internate, Pflegefamilien und Demenzabteilungen.
 
-<sup>4</sup> Der Kostenanteil der Gemeinde gemäss Art. 43 Abs. 2 EG ZGB[^hABEISTATIONÄRENB-1] richtet sich nach Abs. 2 Ziff. 4.
+<sup>4</sup> Der Kostenanteil der Gemeinde gemäss Art. 43 Abs. 2 EG ZGB[^A11-3] richtet sich nach Abs. 2 Ziff. 4.
 
-[^hABEISTATIONÄRENB-1]: NG 211.1
-[^hABEISTATIONÄRENB-2]: Fassung gemäss Regierungsratsbeschluss vom 29. Oktober 2019, A 2019, 1898; in Kraft seit 1. Januar 2020
-[^hABEISTATIONÄRENB-3]: Fassung gemäss Regierungsratsbeschluss vom 24. September 2018, A 2018, 1662; in Kraft seit 1. Januar 2019
-[^hABEISTATIONÄRENB-4]: NG 761.2
+[^A11-1]: NG 761.2
+[^A11-2]: NG 761.2
+[^A11-3]: NG 211.1
 
-### B. BEI AMBULANTEN BETREUUNGSANGEBOTEN
+#### § A1-2
 
-<sup>1</sup> Die Eigenleistungen der Betreuungsbedürftigen gemäss Art. 24 BetrG[^hBBEIAMBULANTENBE-1] betragen bei ambulanten Betreuungsangeboten:
+**Bei ambulanten Betreuungsangeboten**
 
-- 1\. für den Aufenthalt in einer Tagesstätte oder vergleichbaren Einrichtungen Fr. 45.- je Tag;
+<sup>1</sup> Die Eigenleistungen der Betreuungsbedürftigen gemäss Art. 24 BetrG[^A12-1] betragen bei ambulanten Betreuungsangeboten:
 
-- 2\. für ambulante Hilfen, wie insbesondere die ambulante Familienunterstützung, Fr. 25.- je Tag.
+- 1\. für den Aufenthalt in einer Tagesstätte oder vergleichbaren Einrichtungen Fr. 45.– je Tag;
+- 2\. für ambulante Hilfen, wie insbesondere die ambulante Familienunterstützung, Fr. 25.– je Tag.
 
-<sup>2</sup> Für die weiteren anerkannten, ambulanten Betreuungsangebote, wie insbesondere für Hilfeleistungen gemäss Art. 42 des Bundesgesetzes über die Invalidenversicherung (IVG)[^hBBEIAMBULANTENBE-2], für begleitetes Wohnen gemäss
+<sup>2</sup> Für die weiteren anerkannten, ambulanten Betreuungsangebote, wie insbesondere für Hilfeleistungen gemäss Art. 42 des Bundesgesetzes über die Invalidenversicherung (IVG)[^A12-2], für begleitetes Wohnen gemäss Art. 108<sup>bis</sup> der Verordnung über die Invalidenversicherung (IVV)[^A12-3] oder für den Aufenthalt in einer Werkstätte, haben die Betreuungsbedürftigen keine Eigenleistung zu erbringen; vorbehalten bleiben abweichende Bestimmungen in der eidgenössischen oder kantonalen Gesetzgebung.
 
-[^hBBEIAMBULANTENBE-1]: NG 761.2
-[^hBBEIAMBULANTENBE-2]: SR 831.20
-[^hBBEIAMBULANTENBE-3]: SR 831.201
+[^A12-1]: NG 761.2
+[^A12-2]: SR 831.20
+[^A12-3]: SR 831.201
 
-### Art. 108<sup>bis</sup> der Verordnung über die Invalidenversicherung (IVV) oder für
-
-[^hBBEIAMBULANTENBE-3]
-
-den Aufenthalt in einer Werkstätte, haben die Betreuungsbedürftigen keine Eigenleistung zu erbringen; vorbehalten bleiben abweichende Bestimmungen in der eidgenössischen oder kantonalen Gesetzgebung.
-
-## Weitere Fussnoten
-
-- [1] A 2014, 2365
-- [2] NG 262.1
-- [3] NG 211.1
-- [4] NG 761.3
-- [5] SR 211.222.338
+A 2014, 2365
