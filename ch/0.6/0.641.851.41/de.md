@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: Vertrag vom 11. April 2000 zwischen der Schweizerischen Eidgenossenschaft und dem Fürstentum Liechtenstein betreffend die leistungsabhängige Schwerverkehrsabgabe im Fürstentum Liechtenstein (mit Vereinb.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: de
-version: 2022-04-01
+version: 2026-01-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2001-112-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Bereinigt durch Notenaustausch vom 28. September 2006
 
 Rückwirkend in Kraft getreten am 1. Januar 2006
 
-(Stand am 1. April 2022)
+(Stand am 1. Januar 2026)
 
 [^t-1]: [AS 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -202,7 +202,7 @@ Das Amt für Strassenverkehr[^annexu1-7-1] des Fürstentums Liechtenstein wird f
 
 Der Notenaustausch vom 22. Dezember 1995/19. Februar 1996[^annexu1-12-1] zwischen der Schweiz und dem Fürstentum Liechtenstein über die Erhebung einer Schwerverkehrsabgabe und die Abgabe für die Benützung der Nationalstrassen wird aufgehoben, soweit er die Erhebung der Schwerverkehrsabgabe auf dem Gebiet des Fürstentums Liechtenstein betrifft.
 
-[^annexu1-12-1]: [SR 0.741.751.4](https://fedlex.data.admin.ch/eli/cc/1996/1250_1250_1250)
+[^annexu1-12-1]: [SR 0.741.751.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2934)
 
 #### Art. 13
 
@@ -260,7 +260,7 @@ Verordnung des EFD vom 5. Mai 2000 über die Entschädigung der kantonalen Behö
 
 [^t-2]: <sup>a</sup> Das Datum des Inkrafttretens der Verordnungen wird den liechtensteinischen Behörden auf diplomatischem Weg bekannt gegeben.
 
-Anlage IV *[^t-3]*
+Anlage IV [^t-3]
 
 \1. Der Nettoertrag wird wie folgt verteilt:
 
@@ -273,49 +273,48 @@ Anlage IV *[^t-3]*
 
 \3. Berechnung des prozentualen Anteils des Fürstentums Liechtenstein an den vier Kriterien:
 
-3.1 Strassenlänge in km (2018)
+3.1 Strassenlänge in km (2023)
 
 <table>
-<tr><td>Schweiz *(gemäss statistischem Lexikon)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(gemäss Amt für Tiefbau und Geoinformation)*</td><td>401</td><td></td></tr>
-<tr><td>Total beider Länder</td><td>71 956</td><td></td></tr>
-<tr><td>Anteil FL</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
+<tr><td>Schweiz *(gemäss statistischem Jahrbuch)*</td><td>84 868</td><td></td></tr>
+<tr><td>Liechtenstein *(gemäss Amt für Tiefbau und Geoinformation)*</td><td>412</td><td></td></tr>
+<tr><td>Total beider Länder</td><td>85 280</td><td></td></tr>
+<tr><td>Anteil FL</td><td>412: 85 280 × 100</td><td>0,483 %</td></tr>
 </table>
 
-3.2 Wohnbevölkerung (2018)
+3.2 Wohnbevölkerung (2023)
 
 <table>
-<tr><td>Schweiz *(gemäss statistischem Lexikon)*</td><td>8 544 527</td><td></td></tr>
-<tr><td>Liechtenstein *(gemäss Amt für Statistik)*</td><td>38 378</td><td></td></tr>
-<tr><td>Total beider Länder</td><td>8 582 905</td><td></td></tr>
-<tr><td>Anteil FL</td><td>38 378 : 8 582 905 × 100</td><td>0,447 %</td></tr>
+<tr><td>Schweiz *(gemäss statistischem Jahrbuch)*</td><td>8 962 258</td><td></td></tr>
+<tr><td>Liechtenstein *(gemäss Amt für Statistik)*</td><td>40 015</td><td></td></tr>
+<tr><td>Total beider Länder</td><td>9 002 273</td><td></td></tr>
+<tr><td>Anteil FL</td><td>40 015: 9 002 273 × 100</td><td>0,444 %</td></tr>
 </table>
 
-3.3 Schwerverkehrsfahrzeuge (LKW inkl. Sattelschlepper) (2018)
+3.3 Schwerverkehrsfahrzeuge (LKW inkl. Sattelschlepper) (2023)
 
 <table>
-<tr><td>Schweiz *(gemäss statistischem Lexikon)*</td><td>52 573</td><td></td></tr>
-<tr><td>Liechtenstein *(gemäss Amt für Statistik)*</td><td>590</td><td></td></tr>
-<tr><td>Total beider Länder</td><td>53 163</td><td></td></tr>
-<tr><td>Anteil FL</td><td>590 : 53 163 × 100</td><td>1,110 %</td></tr>
+<tr><td>Schweiz *(gemäss Bundesamt für Statistik)*</td><td>54 065</td><td></td></tr>
+<tr><td>Liechtenstein *(gemäss Amt für Statistik)*</td><td>516</td><td></td></tr>
+<tr><td>Total beider Länder</td><td>54 581</td><td></td></tr>
+<tr><td>Anteil FL</td><td>516: 54 581 × 100</td><td>0,945 %</td></tr>
 </table>
 
-3.4 Gewichtsverhältnis Direktimport und -export (Aussenhandel) (2018)
+3.4 Gewichtsverhältnis Direktimport und -export (Aussenhandel) (2023)
 
-(Quelle: Statistik der Eidgenössischen Zollverwaltung*[^t-4]*)
+(Quelle: Statistik des Bundesamtes für Zoll und Grenzsicherheit)
 
 <table>
 <tr><td>Anteil CH total in t</td><td></td><td></td></tr>
-<tr><td>Einfuhr</td><td>50 298 956</td><td></td></tr>
-<tr><td>Ausfuhr</td><td>19 918 262</td><td></td></tr>
-<tr><td>Total CH Ein-/Ausfuhr</td><td>70 217 218</td><td></td></tr>
+<tr><td>Einfuhr</td><td>46 176 391</td><td></td></tr>
+<tr><td>Ausfuhr</td><td>17 505 983</td><td></td></tr>
+<tr><td>Total CH Ein-/Ausfuhr</td><td>63 682 374</td><td></td></tr>
 <tr><td>Anteil FL total in t</td><td></td><td></td></tr>
-<tr><td>Einfuhr</td><td>430 274</td><td></td></tr>
-<tr><td>Ausfuhr</td><td>370 015</td><td></td></tr>
-<tr><td>Total FL Ein-/Ausfuhr</td><td>800 289</td><td></td></tr>
-<tr><td>Total Ein-/Ausfuhr beider Länder</td><td>71 017 507</td><td></td></tr>
-<tr><td>Anteil FL</td><td>800 289 : 71 017 507 × 100</td><td>1,127 %</td></tr>
+<tr><td>Einfuhr</td><td>385 647</td><td></td></tr>
+<tr><td>Ausfuhr</td><td>323 860</td><td></td></tr>
+<tr><td>Total FL Ein-/Ausfuhr</td><td>709 507</td><td></td></tr>
+<tr><td>Total Ein-/Ausfuhr beider Länder</td><td>64 391 881</td><td></td></tr>
+<tr><td>Anteil FL</td><td>709 507: 64 391 881 × 100</td><td>1,102 %</td></tr>
 </table>
 
-[^t-3]: Bereinigt gemäss Notenaustausch vom 18. Dez. 2020 ([AS 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)) und Mitteilung vom 25. März 2022, in Kraft seit 1. April 2022 ([AS 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)).
-[^t-4]: Heute: Bundesamt für Zoll und Grenzsicherheit (siehe [AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^t-3]: Bereinigt gemäss Notenaustausch vom 9. März 2026, in Kraft seit 1. Jan. 2026 ([AS 2026 129](https://fedlex.data.admin.ch/eli/oc/2026/129)).

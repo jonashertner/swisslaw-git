@@ -3,11 +3,11 @@ sr: "0.641.851.41"
 title: Traité du 11 avril 2000 entre la Confédération suisse et la Principauté de Liechtenstein relatif à la redevance sur le trafic des poids lourds liée aux prestations dans la Principauté de Liechtenstein (avec ac.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: fr
-version: 2022-04-01
+version: 2026-01-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-112-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 11 avril 2000 Approuvé par l’Assemblée fédérale le 11 décembre 2000[^t-1] Instruments de ratification échangés le 18 décembre 2000 Entré en vigueur le 1<sup>er</sup> janvier 2001
 
-(Etat le 1<sup>er</sup> avril 2022)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -198,7 +198,7 @@ L’Office de la circulation[^annexu1-7-1] du Liechtenstein est indemnisé, par 
 
 L’échange de notes des 22 décembre 1995/19 février 1996 entre la Suisse et la Principauté de Liechtenstein sur la perception d’une redevance sur le trafic des poids lourds et la redevance pour l’utilisation des routes nationales[^annexu1-12-1] est abrogé en ce qui concerne la perception de la redevance sur le trafic des poids lourds sur le territoire de la Principauté de Liechtenstein.
 
-[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/eli/cc/1996/1250_1250_1250)
+[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2934)
 
 #### Art. 13
 
@@ -254,7 +254,7 @@ Ordonnance du DFF du 5 mai 2000 sur l’indemnisation des autorités cantonales 
 
 [^t-2]: <sup>\*</sup> La date de l’entrée en vigueur des ordonnances sera communiquée aux autorités de la Principauté de Liechtenstein par la voie diplomatique.
 
-Appendice IV*[^t-3]*
+Appendice IV[^t-3]
 
 \1. La recette nette est répartie comme il suit:
 
@@ -267,49 +267,48 @@ Appendice IV*[^t-3]*
 
 \3. Calcul du pourcentage de la part du Liechtenstein selon les quatre critères:
 
-3.1 Longueur des routes (2018)
+3.1 Longueur des routes (2023)
 
 <table>
-<tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(d’après l’Office des ponts et chaussées et de la géoinformation)*</td><td>401</td><td></td></tr>
-<tr><td>Total des deux pays</td><td>71 956</td><td></td></tr>
-<tr><td>Part du Liechtenstein</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
+<tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>84 868</td><td></td></tr>
+<tr><td>Liechtenstein *(d’après l’Office des ponts et chaussées et de la géoinformation)*</td><td>412</td><td></td></tr>
+<tr><td>Total des deux pays</td><td>85 280</td><td></td></tr>
+<tr><td>Part du Liechtenstein</td><td>412: 85 280 × 100</td><td>0,483 %</td></tr>
 </table>
 
-3.2 Population résidente (2018)
+3.2 Population résidente (2023)
 
 <table>
-<tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>8 544 527</td><td></td></tr>
-<tr><td>Liechtenstein *(d’après l’Office de la statistique)*</td><td>38 378</td><td></td></tr>
-<tr><td>Total des deux pays</td><td>8 582 905</td><td></td></tr>
-<tr><td>Part du Liechtenstein</td><td>38 378 : 8 582 905 × 100</td><td>0,447 %</td></tr>
+<tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>8 962 258</td><td></td></tr>
+<tr><td>Liechtenstein *(d’après l’Office* *de la statistique)*</td><td>40 015</td><td></td></tr>
+<tr><td>Total des deux pays</td><td>9 002 273</td><td></td></tr>
+<tr><td>Part du Liechtenstein</td><td>40 015: 9 002 273 × 100</td><td>0,444 %</td></tr>
 </table>
 
-3.3 Véhicules pour le trafic lourd (camions y compris les tracteurs à sellette) (2018)
+3.3 Véhicules pour le trafic lourd (camions y compris les tracteurs à sellette) (2023)
 
 <table>
-<tr><td>Suisse *(d’après l’Encyclopédie statistique)*</td><td>52 573</td><td></td></tr>
-<tr><td>Liechtenstein *(d’après l’Office de la statistique)*</td><td>590</td><td></td></tr>
-<tr><td>Total des deux pays</td><td>53 163</td><td></td></tr>
-<tr><td>Part du Liechtenstein</td><td>590 : 53 163 × 100</td><td>1,110 %</td></tr>
+<tr><td>Suisse *(d’après l’Office fédéral* *de la statistique)*</td><td>54 065</td><td></td></tr>
+<tr><td>Liechtenstein *(d’après l’Office* *de la statistique)*</td><td>516</td><td></td></tr>
+<tr><td>Total des deux pays</td><td>54 581</td><td></td></tr>
+<tr><td>Part du Liechtenstein</td><td>516: 54 581 × 100</td><td>0,945 %</td></tr>
 </table>
 
-3.4 Rapports de poids importation et exportation directes (commerce extérieur) (2018)
+3.4 Rapports de poids importation et exportation directes (commerce extérieur) (2023)
 
-(source: statistiques de l’Administration fédérale des douanes*[^t-4]*)
+(Source: statistiques de l’Office fédéral de la douane et de la sécurité des frontières)
 
 <table>
-<tr><td colspan="2">Part totale de la Suisse en t</td><td></td><td></td></tr>
-<tr><td colspan="2">Importation</td><td>50 298 956</td><td></td></tr>
-<tr><td colspan="2">Exportation</td><td>19 918 262</td><td></td></tr>
-<tr><td colspan="2">Total importation/exportation CH</td><td>70 217 218</td><td></td></tr>
-<tr><td colspan="2">Part totale du Liechtenstein en t</td><td></td><td></td></tr>
-<tr><td colspan="2">Importation</td><td>430 274</td><td></td></tr>
-<tr><td colspan="2">Exportation</td><td>370 015</td><td></td></tr>
-<tr><td colspan="2">Total importation/exportation liechtensteinoises</td><td>800 289</td><td></td></tr>
-<tr><td colspan="2">Total importation/exportation des deux pays:</td><td>71 017 507</td><td></td></tr>
-<tr><td>Part du Liechtenstein</td><td colspan="2">800 289 : 71 017 507 × 100</td><td>1,127 %</td></tr>
+<tr><td>Part totale de la Suisse en t</td><td></td><td></td></tr>
+<tr><td>Importation</td><td>46 176 391</td><td></td></tr>
+<tr><td>Exportation</td><td>17 505 983</td><td></td></tr>
+<tr><td>Total importation/exportation CH</td><td>63 682 374</td><td></td></tr>
+<tr><td>Part totale du Liechtenstein en t</td><td></td><td></td></tr>
+<tr><td>Importation</td><td>385 647</td><td></td></tr>
+<tr><td>Exportation</td><td>323 860</td><td></td></tr>
+<tr><td>Total importation/exportation liechtensteinoises</td><td>709 507</td><td></td></tr>
+<tr><td>Total importation/exportation des deux pays</td><td>64 391 881</td><td></td></tr>
+<tr><td>Part du Liechtenstein</td><td>709 507: 64 391 881 × 100</td><td>1,102 %</td></tr>
 </table>
 
-[^t-3]: Mis à jour par l’échange de notes du 18 déc. 2020 ([RO 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)) et la communication du 25 mars 2022, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)).
-[^t-4]: Actuellement: Office fédéral de la douane et de la sécurité des frontières (voir [RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^t-3]: Mis à jour par l’échange de notes du 9 mars 2026, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 129](https://fedlex.data.admin.ch/eli/oc/2026/129)).

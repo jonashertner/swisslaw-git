@@ -3,26 +3,24 @@ sr: "0.641.851.41"
 title: "Trattato dell' 11 aprile 2000 tra la Confederazione svizzera e il Principato del Liechtenstein concernente la tassa sul traffico pesante commisurata alle prestazioni nel Principato del Liechtenstein (con acc.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/112"
 language: it
-version: 2022-04-01
+version: 2026-01-01
 adopted: 2000-04-11
 in_force: 2001-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2001-112-20220401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/112/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2001-112-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/112/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Trattato
+# Trattato tra la Confederazione Svizzera e il Principato del Liechtenstein concernente la tassa sul traffico pesante commisurata alle prestazioni nel Principato del Liechtenstein
 
 RU **2001** 826; FF **2000** 3302
 
 Traduzione
 
-tra la Confederazione Svizzera e il Principato del Liechtenstein concernente la tassa sul traffico pesante commisurata alle prestazioni nel Principato del Liechtenstein
-
 Concluso l’11 aprile 2000 Approvato dall’Assemblea federale l’11 dicembre 2000[^t-1] Ratificato con strumenti scambiati il 18 dicembre 2000 Entrato in vigore il 1° gennaio 2001
 
-(Stato 1° aprile 2022)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 2001 825](https://fedlex.data.admin.ch/eli/oc/2001/111)
 
@@ -202,7 +200,7 @@ Per le prestazioni relative all’esecuzione della legislazione concernente la t
 
 Lo scambio di note del 22 dicembre 1995/19 febbraio 1996[^annexu1-12-1] tra la Svizzera e il Principato del Liechtenstein concernente la riscossione di una tassa sul traffico pesante e di una tassa per l’utilizzazione delle strade nazionali è abrogato, per quanto concerne la riscossione della tassa sul traffico pesante nel territorio del Principato del Liechtenstein.
 
-[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/eli/cc/1996/1250_1250_1250)
+[^annexu1-12-1]: [RS 0.741.751.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2934)
 
 #### Art. 13
 
@@ -264,7 +262,7 @@ Ordinanza del DFF del 5 maggio 2000 concernente il compenso delle autorità cant
 
 [^t-2]: <sup>\*</sup> La data dell’entrata in vigore dell’O verrà comunicata alle autorità del Liechtenstein per la via diplomatica.
 
-Allegato IV*[^t-3]*
+Allegato IV[^t-3]
 
 \1. Il provento netto è ripartito come segue:
 
@@ -277,49 +275,48 @@ Allegato IV*[^t-3]*
 
 \3. Computo della quota del Liechtenstein secondo i quattro criteri:
 
-3.1 Lunghezza della rete stradale in km (2018)
+3.1 Lunghezza della rete stradale in km (2023)
 
 <table>
-<tr><td>Svizzera *(secondo l’Enciclopedia statistica)*</td><td>71 555</td><td></td></tr>
-<tr><td>Liechtenstein *(secondo l’Ufficio per l’ingegneria civile e la geoinformazione)*</td><td>401</td><td></td></tr>
-<tr><td>Totale dei due Paesi</td><td>71 956</td><td></td></tr>
-<tr><td>Quota Liechtenstein</td><td>401 : 71 956 × 100</td><td>0,558 %</td></tr>
+<tr><td>Svizzera *(secondo l’annuario statistico)*</td><td>84 868</td><td></td></tr>
+<tr><td>Liechtenstein *(secondo l’Ufficio per* *l’ingegneria* *civile e la geoinformazione)*</td><td>412</td><td></td></tr>
+<tr><td>Totale dei due Paesi</td><td>85 280</td><td></td></tr>
+<tr><td>Quota Liechtenstein</td><td>412: 85 280 × 100</td><td>0,483 %</td></tr>
 </table>
 
-3.2 Popolazione residente (2018)
+3.2 Popolazione residente (2023)
 
 <table>
-<tr><td>Svizzera *(secondo l’Enciclopedia statistica)*</td><td>8 544 527</td><td></td></tr>
-<tr><td>Liechtenstein *(secondo l’Ufficio di statistica)*</td><td>38 378</td><td></td></tr>
-<tr><td>Totale dei due Paesi</td><td>8 582 905</td><td></td></tr>
-<tr><td>Quota Liechtenstein</td><td>38 378 : 8 582 905 × 100</td><td>0,447 %</td></tr>
+<tr><td>Svizzera *(secondo l’annuario statistico)*</td><td>8 962 258</td><td></td></tr>
+<tr><td>Liechtenstein *(secondo l’Ufficio* *di statistica)*</td><td>40 015</td><td></td></tr>
+<tr><td>Totale dei due Paesi</td><td>9 002 273</td><td></td></tr>
+<tr><td>Quota Liechtenstein</td><td>40 015: 9 002 273 × 100</td><td>0,444 %</td></tr>
 </table>
 
-3.3 Autoveicoli pesanti (autocarri inclusi i trattori a sella) (2018)
+3.3 Autoveicoli pesanti (autocarri inclusi i trattori a sella) (2023)
 
 <table>
-<tr><td>Svizzera *(secondo l’Enciclopedia statistica)*</td><td>52 573</td><td></td></tr>
-<tr><td>Liechtenstein *(secondo l’Ufficio di statistica)*</td><td>590</td><td></td></tr>
-<tr><td>Totale dei due Paesi</td><td>53 163</td><td></td></tr>
-<tr><td>Quota Liechtenstein</td><td>590 : 53 163 × 100</td><td>1,110 %</td></tr>
+<tr><td>Svizzera *(secondo l’Ufficio federale* *di statistica)*</td><td>54 065</td><td></td></tr>
+<tr><td>Liechtenstein *(secondo l’Ufficio* *di statistica)*</td><td>516</td><td></td></tr>
+<tr><td>Totale dei due Paesi</td><td>54 581</td><td></td></tr>
+<tr><td>Quota Liechtenstein</td><td>516: 54 581 × 100</td><td>0,945 %</td></tr>
 </table>
 
-3.4 Rapporto ponderale importazione-esportazione dirette (commercio esterno) (2018)
+3.4 Rapporto ponderale importazione–esportazione dirette (commercio esterno) (2023)
 
-(Fonte: Statistica dell’Amministrazione federale delle dogane*[^t-4]*)
+(Fonte: Statistica dell’Ufficio federale della dogana e della sicurezza dei confini)
 
 <table>
 <tr><td>Quota Svizzera totale in t</td><td></td><td></td></tr>
-<tr><td>Importazione</td><td>50 298 956</td><td></td></tr>
-<tr><td>Esportazione</td><td>19 918 262</td><td></td></tr>
-<tr><td>Totale Svizzera importazione/esportazione</td><td>70 217 218</td><td></td></tr>
+<tr><td>Importazione</td><td>46 176 391</td><td></td></tr>
+<tr><td>Esportazione</td><td>17 505 983</td><td></td></tr>
+<tr><td>Totale Svizzera importazione/esportazione</td><td>63 682 374</td><td></td></tr>
 <tr><td>Quota Liechtenstein totale in t</td><td></td><td></td></tr>
-<tr><td>Importazione</td><td>430 274</td><td></td></tr>
-<tr><td>Esportazione</td><td>370 015</td><td></td></tr>
-<tr><td>Totale Liechtenstein importazione/ esportazione</td><td>800 289</td><td></td></tr>
-<tr><td>Totale import./esport. dei due Paesi</td><td>71 017 507</td><td></td></tr>
-<tr><td>Quota Liechtenstein</td><td>800 289 : 71 017 507 × 100</td><td>1,127 %</td></tr>
+<tr><td>Importazione</td><td>385 647</td><td></td></tr>
+<tr><td>Esportazione</td><td>323 860</td><td></td></tr>
+<tr><td>Totale Liechtenstein importazione/ esportazione</td><td>709 507</td><td></td></tr>
+<tr><td>Totale importazione/esportazione dei due Paesi</td><td>64 391 881</td><td></td></tr>
+<tr><td>Quota Liechtenstein</td><td>709 507: 64 391 881 x 100</td><td>1,102 %</td></tr>
 </table>
 
-[^t-3]: Aggiornato dallo scambio di note del 18 dic. 2020 ([RU 2021 13](https://fedlex.data.admin.ch/eli/oc/2021/13)) e dalla comunicazione del 22 mar. 2022, in vigore dal 1° apr. 2022 ([RU 2022 297](https://fedlex.data.admin.ch/eli/oc/2022/297)).
-[^t-4]: Ora: Ufficio federale della dogana e della sicurezza dei confini (vedi [RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^t-3]: Aggiornato dallo scambio di note del 9 mar. 2026, in vigore dal 1° gen. 2026 ([RU 2026 129](https://fedlex.data.admin.ch/eli/oc/2026/129)).
