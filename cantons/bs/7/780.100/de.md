@@ -4,13 +4,12 @@ number: "780.100"
 title: Umweltschutzgesetz Basel-Stadt
 short: USG BS
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2024-01-17
+version: 2026-01-01
+version_adopted: 2025-01-15
 adopted: 1991-03-13
 in_force: 1992-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/780.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6311/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6674/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Umweltschutzgesetz | Umweltschutz
 
 (USG BS)
 
-Vom 13. März 1991 (Stand 1. Juli 2024)
+Vom 13. März 1991 (Stand 1. Januar 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -208,7 +207,7 @@ beschliesst:
 - b) die Gesamtverkehrsleistung des privaten Motorfahrzeugverkehrs auf Kantonsgebiet ausserhalb von Hochleistungsstrassen auch bei einem Wachstum der Wohnbevölkerung und einem Anstieg der Beschäftigungszahl nicht zunimmt;
 - c) umweltfreundliche Verkehrsmittel und Fortbewegungsarten bevorzugt behandelt werden;
 - d) die Gesamtverkehrsleistung auf Kantonsgebiet ausserhalb der Hochleistungsstrassen bis 2050 ausschliesslich mit Verkehrsmitteln und Fortbewegungsarten abgewickelt wird, die emissionsarm, klima- und ressourcenschonend sind;
-- e) alle Verkehrsteilnehmerinnen und Verkehrsteilnehmer vor Gefährdungen und vermeidbaren Behinderungen geschützt werden.
+- e) alle Verkehrsteilnehmerinnen und Verkehrsteilnehmer vor Gefährdungen und vermeidbaren Behinderungen geschützt werden. Der erhöhten Schutzbedürftigkeit der besonders gefährdeten Verkehrsteilnehmerinnen und Verkehrsteilnehmer ist dabei Rechnung zu tragen.
 
 <sup>3</sup> Der Regierungsrat legt für das Ziel gemäss Abs. 2 lit. d im Einklang mit der Energiegesetzgebung geeignete Ziele fest.
 
@@ -219,7 +218,11 @@ beschliesst:
 - a) bauliche Anpassungen der Verkehrsinfrastruktur sowie betriebliche Massnahmen, die die Nutzung des Strassenraumes optimieren;
 - b) verkehrslenkende Massnahmen, insbesondere die Kanalisierung des privaten Motorfahrzeugverkehrs auf verkehrsorientierte Strassen;
 - c) verkehrsbeschränkende Massnahmen wie die Verminderung und Beruhigung des privaten Motorfahrzeugverkehrs auf den siedlungsorientierten Strassen;
-- d) Fördermassnahmen zugunsten von umweltfreundlichen Verkehrsmitteln.
+- d) Fördermassnahmen zugunsten von umweltfreundlichen Verkehrsmitteln;
+- e) ein durchgehendes, sicheres, attraktives und angemessen dichtes Velowegnetz, wovon bis spätestens 10 Jahre nach Inkrafttreten dieser Bestimmung mindestens 40 km Velovorzugsrouten umgesetzt sind; parallel werden Haupt- und Nebenverbindungen bis spätestens 2042 ausgebildet; der Kanton veröffentlicht bis zur Fertigstellung des Netzes alle drei Jahre einen Bericht;
+- f) verkehrstechnische Sofortmassnahmen zur zeitnahen Behebung von Gefahrenstellen im Fuss- und Veloverkehr.
+
+<sup>5 <sup>bis</sup></sup> Das zuständige Departement legt Standards für die Planung, Projektierung und Umsetzung von kantonalen Fuss- und Veloverkehrsprojekten fest. Diese sind für die Behörden verbindlich.
 
 <sup>6</sup> Der Kanton erhebt periodisch die auf dem gesamten Kantonsgebiet erbrachten Strassenverkehrsleistungen und unterscheidet dabei nach Strassenkategorien und Fortbewegungsarten.
 
