@@ -4,13 +4,12 @@ number: "410.111"
 title: Ordonnance sur les Eglises nationales bernoises
 short: OEgN
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-11
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 2019-04-24
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/410.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3104/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3325/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3104/pdf_file"
 
 (OEgN)
 
-du 24.04.2019 (état au 01.01.2025)
+du 24.04.2019 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -481,7 +480,7 @@ arrête:
 - 6 Grandval
 - 7 La Ferrière
 - 8 La Neuveville
-- 9 Moutier
+- 9 …
 - 10 Nods
 - 11 Haute-Birse
 - 12 Renan (BE)
@@ -503,9 +502,9 @@ arrête:
 - 1 Paroisse générale de Bienne, composée de la deutschsprachige Kirchgemeinde Biel et de la paroisse française de Bienne
 - 2 Bürglen
 - 3 Gottstatt
-- 4 Lengnau
+- 4 Leugene
 - 5 Nidau
-- 6 Pieterlen
+- 6 …
 - 7 Pilgerweg Bielersee
 - 8 Sutz
 - 9 …
@@ -525,7 +524,7 @@ arrête:
 - 11 Kappelen-Werdt
 - 12 Leuzigen
 - 13 Lyss
-- 14 Oberwil bei Büren
+- 14 …
 - 15 Radelfingen
 - 16 Rapperswil-Wengi
 - 17 Rüti bei Büren
@@ -600,11 +599,10 @@ arrête:
 
 <sup>1</sup> L'arrondissement administratif de Berne-Mittelland comprend les paroisses suivantes:
 
-- 1 Paroisse générale de Berne, composée de onze paroisses: Bern-Nord, Bethlehem, Bümpliz, paroisse de l'Eglise réformée de Berne, Frieden, Heiliggeist, Matthäus Bern und Bremgarten, Münster, Nydegg, Paulus, Petrus
-- 2 Bernisch und freiburgisch Ferenbalm
-- 3 Bernisch und freiburgisch Kerzers
+- 1 Paroisse générale de Berne, composée de dix paroisses: Bern-Nord, Bethlehem, Bümpliz, paroisse de l'Eglise réformée de Berne, Frieden Heiliggeist, Matthäus Bern und Bremgarten, Münster, Nydegg, Paulus, Petrus
+- 2–3 …
 - 4 Belp, Belpberg und Toffen
-- 5 Bernisch Messen
+- 5 …
 - 6 Biglen
 - 7 Bolligen
 - 8 Frauenkappelen
@@ -625,7 +623,7 @@ arrête:
 - 23 Meikirch
 - 24 Mühleberg
 - 25 Münchenbuchsee-Moosseedorf
-- 26 Münchenwiler-Clavaleyres, Bernisch Murten
+- 26 Münchenwiler, Bernisch Murten
 - 27 Münsingen
 - 28 Muri-Gümligen
 - 29 Neuenegg
@@ -712,6 +710,19 @@ arrête:
 - 12 Ringgenberg
 - 13 Unterseen
 
+#### Art. A1-6
+
+**Paroisses transfrontalières**
+
+<sup>1</sup> Les paroisses suivantes sont transfrontalières:
+
+- 1 Ferenbalm
+- 2 Kerzers
+- 3 Messen
+- 4 Moutier
+- 5 Murten
+- 6 Oberwil bei Büren
+
 ## A2 Annexe 2 à l'article 18: nom des paroisses catholiques romaines
 
 #### Art. A2-1
@@ -722,7 +733,7 @@ arrête:
 
 - 1 La Neuveville
 - 2 Malleray-Bévilard
-- 3 Moutier
+- 3 …
 - 4 Tavannes
 - 5 Tramelan
 - 6 Vallon de Saint-Imier
@@ -788,6 +799,19 @@ arrête:
 
 - 1 Interlaken
 - 2 Oberhasli-Brienz
+
+#### Art. A2-6
+
+**Paroisses transfrontalières**
+
+<sup>1</sup> Les paroisses suivantes sont transfrontalières:
+
+- 1 Lajoux
+- 2 Les Bois
+- 3 Mervelier
+- 4 Moutier
+- 5 Undervelier
+- 6 Vermes
 
 ## A3 Annexe 3 à l'article 18: nom des paroisses catholiques chrétiennes
 
