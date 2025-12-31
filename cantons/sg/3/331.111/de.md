@@ -4,12 +4,12 @@ number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
 version: 2026-01-01
-valid_until: 2026-07-31
+corrected: 2025-11-29
 version_adopted: 2025-11-11
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3827/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -569,9 +569,9 @@ als Verordnung:[^ingress-2]
 
 <sup>4</sup> Der Versicherer tritt die Forderungen an die Sozialversicherungsanstalt ab. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
 
-<sup>5</sup> Die Sozialversicherungsanstalt tritt die vom Versicherer an sie abgetretenen Forderungen innerhalb von 30 Tagen nach deren Abtretung an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab. Diese ist zur Übernahme verpflichtet. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt des Fortsetzungsbegehrens, das zum Verlustschein führte. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
+<sup>5</sup> Die Sozialversicherungsanstalt tritt die vom Versicherer an sie abgetretenen Forderungen innerhalb von 30 Tagen nach deren Abtretung an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle ab. Diese ist zur Übernahme verpflichtet. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins. Die Information zu den abgetretenen Forderungen erfolgt elektronisch in der von der Sozialversicherungsanstalt vorgegebenen Form.
 
-<sup>6</sup> Die Übermittlung der Verlustscheine durch die Versicherer in schriftlicher oder elektronischer Form erfolgt an die Sozialversicherungsanstalt. Die Sozialversicherungsanstalt übermittelt die Verlustscheine in schriftlicher oder elektronischer Form an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt des Fortsetzungsbegehrens, das zum Verlustschein führte.
+<sup>6</sup> Die Übermittlung der Verlustscheine durch die Versicherer in schriftlicher oder elektronischer Form erfolgt an die zuständige politische Gemeinde oder an eine von dieser bezeichneten Stelle. Zuständig ist die Wohnsitzgemeinde zum Zeitpunkt der Ausstellung des Verlustscheins.
 
 <sup>7</sup> Die politische Gemeinde informiert die betroffenen Versicherten über die Gläubigerwechsel.
 
@@ -585,7 +585,7 @@ als Verordnung:[^ingress-2]
 
 **Meldung über Verlustscheine und andere Forderungen**
 
-<sup>1</sup> Der Versicherer übermittelt der Sozialversicherungsanstalt die zur Geltendmachung der an sie abgetretenen Forderungen erforderlichen Informationen und Dokumente nach [Art. 105f](https://db.clex.ch/link/Bund/832.102/de) Abs. 5 Bst. b der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38septies-1] kostenlos. Die Sozialversicherungsanstalt übermittelt die Informationen und Dokumente der zuständigen politischen Gemeinde oder der von dieser bezeichneten Stelle.
+<sup>1</sup> Der Versicherer übermittelt der zuständigen politischen Gemeinde oder der von dieser bezeichneten Stelle die zur Geltendmachung der an sie abgetretenen Forderungen erforderlichen Informationen und Dokumente nach [Art. 105f](https://db.clex.ch/link/Bund/832.102/de) Abs. 5 Bst. b der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995[^38septies-1] kostenlos.
 
 [^38septies-1]: SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
 
