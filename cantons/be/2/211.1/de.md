@@ -4,13 +4,12 @@ number: "211.1"
 title: Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG ZGB
 language: de
-version: 2025-12-01
-valid_until: 2025-12-31
-version_adopted: 2025-09-28
+version: 2026-01-01
+version_adopted: 2024-09-03
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3260/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3260/pdf_file"
 
 (EG ZGB)
 
-vom 28.05.1911 (Stand 01.12.2025)
+vom 28.05.1911 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -100,7 +99,7 @@ beschliesst:
 - e Art. 907 ZGB: Bewilligung zum Betrieb des Pfandleihgewerbes;
 - f Art. 12b Schlusstitel ZGB: Unterstellung bisheriger Adoptionen unter das neue Recht;
 - g Art. 59 Schlusstitel ZGB: Erteilung der Bewilligung zur Eheschliessung an Ausländer.
-- h Art. 246 Abs.2 OR: Begehren um Vollziehung von im Interesse des Kantons oder mehrerer Amtsbezirke liegenden Auflagen gegenüber Beschenkten;
+- h Art. 246 Abs. 2 OR: Begehren um Vollziehung von im Interesse des Kantons oder mehrerer Verwaltungskreise liegenden Auflagen gegenüber Beschenkten;
 - i Art. 359 OR: Aufstellung von Normalarbeitsverträgen;
 - k Art. 482 OR: Bewilligung der Ausgabe von Warenpapieren;
 - l Art. 515 OR: Bewilligung von Lotterien und Ausspielgeschäften;
@@ -1225,7 +1224,7 @@ beschliesst:
 
 <sup>1</sup> Das Grundbuch wird auf Grundlage der Vermessungswerke der Gemeinden und der Grundbuchblätter des kantonalen Grundbuches (Gesetz vom 27. Juni 1909 über die Bereinigung der Grundbücher im Kanton Bern)[^167-1] eingeführt.
 
-<sup>2</sup> Es kann gleichzeitig für den ganzen Kanton oder nacheinander für einzelne Bezirke oder Gemeinden eingeführt werden.
+<sup>2</sup> Es kann gleichzeitig für den ganzen Kanton oder nacheinander für einzelne Verwaltungskreise oder Gemeinden eingeführt werden.
 
 <sup>3</sup> Die Direktion für Inneres und Justiz bestimmt den Zeitpunkt der Einführung.
 

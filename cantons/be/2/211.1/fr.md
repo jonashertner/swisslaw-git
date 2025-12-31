@@ -4,13 +4,12 @@ number: "211.1"
 title: "Loi sur l'introduction du Code civil suisse *"
 short: LiCCS
 language: fr
-version: 2025-12-01
-valid_until: 2025-12-31
-version_adopted: 2025-09-28
+version: 2026-01-01
+version_adopted: 2024-09-03
 adopted: 1911-05-28
 in_force: 1912-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/211.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3260/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3261/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3260/pdf_file"
 
 (LiCCS)
 
-du 28.05.1911 (état au 01.12.2025)
+du 28.05.1911 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -100,7 +99,7 @@ décrète:
 - e Art. 907 CCS: Pour autoriser l'exercice du métier de prêteur sur gages;
 - f Art. 12 b titre final CCS: Pour la soumission au nouveau droit d'une adoption prononcée en vertu de l'ancien droit;
 - g Art. 59 Titre final CCS: Pour autoriser les étrangers à faire célébrer leur mariage.
-- h Art. 246, 2<sup>e</sup> al CO: Pour poursuivre contre le donataire l'exécution d'une charge imposée en faveur du canton ou de plusieurs districts;
+- h Art. 246, al. 2 CO: Pour poursuivre contre le donataire l'exécution d'une charge imposée en faveur du canton ou de plusieurs arrondissements administratifs;
 - i Art. 359 CO: Pour rédiger des contrats-types de travail et d'apprentissage;
 - k Art. 482 CO: Pour conférer le droit d'émettre des papiers-valeurs pour marchandises entreposées;
 - l Art. 515 CO: Pour autoriser les loteries et tirages au sort;
@@ -1227,7 +1226,7 @@ décrète:
 
 <sup>1</sup> Le registre foncier fédéral sera introduit sur la base du cadastre des communes et des feuillets du registre foncier cantonal (loi du 27 juin 1909[^167-1]).
 
-<sup>2</sup> Il peut l'être simultanément pour tout le canton ou successivement par districts ou par communes.
+<sup>2</sup> Il peut l'être simultanément pour tout le canton ou successivement par arrondissements administratifs ou par communes.
 
 <sup>3</sup> La Direction de l’intérieur et de la justice fixe l'époque de cette introduction.
 
