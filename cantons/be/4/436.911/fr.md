@@ -4,13 +4,12 @@ number: "436.911"
 title: Ordonnance sur la Haute école pédagogique germanophone
 short: OHEP
 language: fr
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-05-22
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.911"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3037/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3275/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3037/pdf_file"
 
 (OHEP)
 
-du 16.11.2022 (état au 01.08.2024)
+du 16.11.2022 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -212,9 +211,9 @@ arrête:
 
 #### Art. 18
 
-**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps des membres de la direction habilités à voter ainsi que des enseignantes et des enseignants**
+**Saisie du temps de travail, solde de vacances et solde horaire, compte épargne-temps**
 
-<sup>1</sup> Les membres de la direction de l’école habilités à voter ainsi que les enseignantes et les enseignants ne sont ni concernés par la saisie du temps de travail, ni par la réglementation relative à l’indemnisation financière du solde de vacances et du solde horaire et n’ont pas de compte épargne-temps.
+<sup>1</sup> La rectrice ou le recteur, les vice-rectrices et les vice-recteurs, les directrices et les directeurs d'instituts ainsi que les enseignantes et les enseignants ne sont concernés ni par la saisie du temps de travail, ni par la réglementation relative à l’indemnisation financière du solde de vacances et du solde horaire et n’ont pas de compte épargne-temps.
 
 #### Art. 19
 
@@ -341,6 +340,8 @@ arrête:
 **Résiliation des rapports de travail**
 
 <sup>1</sup> L'autorité d'engagement ainsi que les enseignantes et les enseignants peuvent résilier les rapports de travail par écrit pour la fin d’un semestre, moyennant un préavis de trois mois.
+
+<sup>1a</sup> À l'expiration d'une période au sens de l'article 28, alinéa 1 LPers, les rapports de travail des membres du corps enseignant peuvent être résiliés pour la fin d'un mois.
 
 <sup>2</sup> Les parties peuvent s'entendre sur un autre terme de résiliation ou un autre délai de préavis.
 
@@ -617,6 +618,11 @@ arrête:
 
 <sup>3</sup> La présidente ou le président participe au vote. En cas d'égalité des voix, sa voix est prépondérante.
 
+<sup>4</sup> La commission de recours peut rendre des décisions par voie de circulation
+
+- a si tous ses membres sont d'accord avec cette manière de procéder et
+- b si l'objet le permet.
+
 #### Art. 56
 
 **Règlement**
@@ -861,17 +867,17 @@ arrête:
 
 <sup>1</sup> La taxe perçue pour l'examen d'aptitude s'élève à 200 francs.
 
-### 8.7.2 Taxe d'inscription, taxe d'immatriculation et taxe d'études
+### 8.7.2 Taxe d'inscription et taxe d'études
 
 #### Art. 78
 
-**Taxe d'inscription et taxe d'immatriculation pour les formations de base**
+**Taxe d'inscription pour les formations de base**
 
-<sup>1</sup> La taxe d'inscription aux études s'élève à 100 francs.
+<sup>1</sup> La taxe d'inscription aux études s'élève à 150 francs.
 
-<sup>2</sup> La taxe d'immatriculation s'élève à 100 francs.
+<sup>2</sup> Un remboursement de la taxe d'inscription est exclu.
 
-<sup>3</sup> Si l'inscription aboutit à l'immatriculation, la taxe d'inscription tient lieu de taxe d'immatriculation.
+<sup>3</sup> …
 
 #### Art. 79
 
@@ -921,7 +927,7 @@ arrête:
 
 **Exemption de taxes**
 
-<sup>1</sup> La Haute école pédagogique peut exempter, en vertu d'une convention, totalement ou partiellement des taxes d’inscription et d’immatriculation, de la taxe d'études, des taxes d'examen et de la redevance pour les institutions sociales et culturelles les étudiantes et les étudiants qui étudient à la fois à la Haute école pédagogique et dans une autre haute école.
+<sup>1</sup> La Haute école pédagogique peut exempter, en vertu d'une convention, totalement ou partiellement de la taxe d’inscription, de la taxe d'études, des taxes d'examen et de la redevance pour les institutions sociales et culturelles les étudiantes et les étudiants qui étudient à la fois à la Haute école pédagogique et dans une autre haute école.
 
 ### 8.7.5 Taxe administrative
 
@@ -1052,6 +1058,14 @@ arrête:
 **Taxes d'études perçues auprès des étudiantes et des étudiants extra-cantonaux**
 
 <sup>1</sup> Sont prélevées selon l'ancien droit les taxes d'études perçues auprès des étudiantes et des étudiants extra-cantonaux qui ont commencé leurs études avant l'entrée en vigueur de la présente modification et dont le canton de domicile ne prend pas en charge les taxes d'études en vertu de l'AHES.
+
+## T2 Disposition transitoire de la modification du 19.11.2025
+
+#### Art. T2-1
+
+**Taxe d'inscription pour les formations de base**
+
+<sup>1</sup> La taxe d’inscription prévue par la présente modification est perçue pour la première fois pour l'inscription au semestre d'automne 2026.
 
 Berne, le 16 novembre 2022
 

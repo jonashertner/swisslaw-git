@@ -4,13 +4,12 @@ number: "436.911"
 title: Verordnung über die deutschsprachige Pädagogische Hochschule
 short: PHV
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-05-22
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.911"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3037/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3275/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3037/pdf_file"
 
 (PHV)
 
-vom 16.11.2022 (Stand 01.08.2024)
+vom 16.11.2022 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -212,9 +211,9 @@ beschliesst:
 
 #### Art. 18
 
-**Arbeitszeiterfassung, Ferien- und Zeitguthaben, Langzeitkonto von stimmberechtigten Mitglieder der Schulleitung sowie von Dozentinnen und Dozenten**
+**Arbeitszeiterfassung, Ferien- und Zeitguthaben, Langzeitkonto**
 
-<sup>1</sup> Die stimmberechtigten Mitglieder der Schulleitung sowie die Dozentinnen und Dozenten sind von der Arbeitszeiterfassung sowie den Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben ausgenommen und führen kein Langzeitkonto.
+<sup>1</sup> Die Rektorin oder der Rektor, die Vizerektorinnen und Vizerektoren, die Institutsleiterinnen und Institutsleiter sowie die Dozentinnen und Dozenten sind von der Arbeitszeiterfassung sowie den Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben ausgenommen und führen kein Langzeitkonto.
 
 #### Art. 19
 
@@ -341,6 +340,8 @@ beschliesst:
 **Beendigung des Arbeitsverhältnisses**
 
 <sup>1</sup> Die Anstellungsbehörde sowie die Dozentinnen und Dozenten können das Arbeitsverhältnis schriftlich und unter Wahrung einer Frist von drei Monaten jeweils auf das Ende eines Semesters beenden.
+
+<sup>1a</sup> Nach Ablauf einer Sperrfrist gemäss Artikel 28 PG ist die Beendigung jeweils auf das Ende eines Monats zulässig.
 
 <sup>2</sup> Im gegenseitigen Einvernehmen kann von Termin und Frist abgewichen werden.
 
@@ -617,6 +618,11 @@ beschliesst:
 
 <sup>3</sup> Die Präsidentin oder der Präsident stimmt mit. Sie oder er hat bei Stimmengleichheit den Stichentscheid.
 
+<sup>4</sup> Die Rekurskommission kann Beschlüsse auf dem Zirkularweg fassen, wenn
+
+- a alle Mitglieder mit diesem Verfahren einverstanden sind und
+- b es der Gegenstand erlaubt.
+
 #### Art. 56
 
 **Reglement**
@@ -861,17 +867,17 @@ beschliesst:
 
 <sup>1</sup> Die Gebühr für die Eignungsabklärung beträgt 200 Franken.
 
-### 8.7.2 Anmelde-, Immatrikulations- und Studiengebühren
+### 8.7.2 Anmelde- und Studiengebühren
 
 #### Art. 78
 
-**Anmelde- und Immatrikulationsgebühr für Grundausbildungen**
+**Anmeldegebühr für Grundausbildungen**
 
-<sup>1</sup> Die Gebühr für die Anmeldung zum Studium beträgt 100 Franken.
+<sup>1</sup> Die Gebühr für die Anmeldung zum Studium beträgt 150 Franken.
 
-<sup>2</sup> Die Immatrikulationsgebühr beträgt 100 Franken.
+<sup>2</sup> Eine Rückerstattung der Anmeldegebühr ist ausgeschlossen.
 
-<sup>3</sup> Führt die Anmeldung zur Immatrikulation, wird die Anmeldegebühr als Immatrikulationsgebühr angerechnet.
+<sup>3</sup> …
 
 #### Art. 79
 
@@ -921,7 +927,7 @@ beschliesst:
 
 **Gebührenbefreiung**
 
-<sup>1</sup> Die Pädagogische Hochschule kann Studierende, die gleichzeitig an der Pädagogischen Hochschule und an einer anderen Hochschule studieren, im Rahmen von Vereinbarungen ganz oder teilweise von der Anmelde- und Immatrikulationsgebühr, der Studiengebühr, den Prüfungsgebühren sowie der Abgabe für soziale und kulturelle Einrichtungen befreien.
+<sup>1</sup> Die Pädagogische Hochschule kann Studierende, die gleichzeitig an der Pädagogischen Hochschule und an einer anderen Hochschule studieren, im Rahmen von Vereinbarungen ganz oder teilweise von der Anmeldegebühr, der Studiengebühr, den Prüfungsgebühren sowie der Abgabe für soziale und kulturelle Einrichtungen befreien.
 
 ### 8.7.5 Verwaltungsgebühr
 
@@ -1052,6 +1058,14 @@ beschliesst:
 **Studiengebühren für ausserkantonale Studierende**
 
 <sup>1</sup> Von ausserkantonalen Studierenden, die ihr Studium vor dem Inkrafttreten dieser Änderung aufgenommen haben und deren Wohnsitzkanton keine Studiengebühren gemäss FHV übernimmt, wird die Studiengebühr nach bisherigem Recht erhoben.
+
+## T2 Übergangsbestimmung der Änderung vom 19.11.2025
+
+#### Art. T2-1
+
+**Anmeldegebühr für Grundausbildungen**
+
+<sup>1</sup> Die Anmeldegebühr gemäss dieser Änderung wird erstmals für die Anmeldung für das Herbstsemester 2026 erhoben.
 
 Bern, 16. November 2022
 
