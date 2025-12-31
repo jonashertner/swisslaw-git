@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 2018 concernente il sistema d'informazione sugl
 short: O-SIAMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2018-702-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/it"
 
 (O-SIAMV)
 
-del 31 ottobre 2018 (Stato 1° gennaio 2024)
+del 31 ottobre 2018 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,11 +25,11 @@ visto l’articolo 64*f* della legge del 15 dicembre 2000[^ingress-1] sugli agen
 
 ordina:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 1
 
@@ -89,9 +89,9 @@ Il SI AMV contiene:
 
 <sup>2</sup> Il catalogo dei dati figura nell’allegato.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^2-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
-[^2-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^2-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 3
 
@@ -115,9 +115,9 @@ Nell’ambito dei loro compiti legali, le seguenti autorità e persone possono c
 
 <sup>3</sup> I detentori di animali da reddito possono accedere online ai dati sull’uso di cui all’articolo 2 capoverso 1 lettera b numero 1 che li concernono tramite la banca dati sul traffico di animali (BDTA) ai sensi dell’ordinanza del 3 novembre 2021[^3-2] concernente Identitas AG e la banca dati sul traffico di animali. I detentori di animali da reddito senza accesso alla BDTA possono ottenere i dati dall’USAV.[^3-3]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^3-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^3-3]: Nuovo testo giusta l’all. 3 n. II 4 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^3-2]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^3-3]: Nuovo testo giusta l’all. 3 cifra II n. 4 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
 
@@ -151,9 +151,9 @@ L’Istituto svizzero per gli agenti terapeutici trasmette all’USAV:
 - a. ogni anno una lista di tutti gli antibiotici omologati con i formati disponibili;
 - b. regolarmente le nuove omologazioni e le modifiche delle omologazioni degli antibiotici.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^4-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^4-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 5
 
@@ -169,14 +169,14 @@ L’Istituto svizzero per gli agenti terapeutici trasmette all’USAV:
 
 <sup>5</sup> Per il confronto elettronico dei dati, il SI AMV può essere collegato al registro delle professioni mediche secondo l’ordinanza del 5 aprile 2017[^5-7] sul registro LPMed. Nel confronto dei dati si verifica se per la prescrizione, la dispensazione o l’uso di antibiotici vi sono le necessarie autorizzazioni e, eventualmente, il certificato di attitudine tecnica di «veterinario responsabile tecnico» (VRT).[^5-8]
 
-[^5-1]: [RS 431.031](https://fedlex.data.admin.ch/eli/cc/2011/81)
-[^5-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
-[^5-3]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^5-4]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^5-5]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
-[^5-6]: Introdotto dall’all. 4 n. II 3 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^5-7]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
-[^5-8]: Introdotto dal n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^5-1]: [RS 431.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6954)
+[^5-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^5-4]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^5-5]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^5-6]: Introdotto dall’all. 4 cifra II n. 3 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^5-7]: [RS 811.117.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9320)
+[^5-8]: Introdotto dalla cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 6
 
@@ -230,7 +230,7 @@ I dati non degni di particolare protezione possono essere comunicati alle autori
 
 <sup>3</sup> Tiene conto dei requisiti definiti nella legge del 9 ottobre 1992[^10-1] sulla statistica federale.
 
-[^10-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^10-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 #### Art. 11
 
@@ -252,9 +252,9 @@ L’USAV provvede affinché siano rispettate le disposizioni in materia di prote
 
 <sup>2</sup> Se una persona intende far valere i suoi diritti, deve presentare una domanda all’USAV nella forma prevista dall’articolo 16 dell’ordinanza del 31 agosto 2022[^13-3] sulla protezione dei dati.
 
-[^13-1]: Nuovo testo giusta l’all. 2 n. II 102 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-1]: Nuovo testo giusta l’all. 2 cifra II n. 102 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^13-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 14
 
@@ -266,7 +266,7 @@ L’USAV provvede affinché siano rispettate le disposizioni in materia di prote
 
 <sup>3</sup> Qualora i detentori di animali da reddito constatino di aver notificato dati sull’uso inesatti relativi alla loro azienda di detenzione, possono richiederne la rettifica al veterinario.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 15
 
@@ -274,8 +274,8 @@ L’USAV provvede affinché siano rispettate le disposizioni in materia di prote
 
 Le misure atte a garantire la sicurezza delle informazioni sono rette dall’ordinanza dell’8 novembre 2023[^15-2] sulla sicurezza delle informazioni.
 
-[^15-1]: Nuovo testo giusta l’all. 2 n. II 38 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-1]: Nuovo testo giusta l’all. 2 cufra II n. 38 dell’O dell’8 nov. 2023 sulla sicurezza delle informazioni, in vigore dal 1° gen. 2024 ([RU 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
+[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 16
 
@@ -285,7 +285,7 @@ Le misure atte a garantire la sicurezza delle informazioni sono rette dall’ord
 
 <sup>2</sup> La distruzione dei dati avviene dopo al massimo 30 anni.
 
-[^16-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^16-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 17
 
@@ -312,8 +312,8 @@ L’USAV emana direttive tecniche in particolare su:
 
 <sup>2</sup> I dati del SI AMV relativi agli studi veterinari e alle cliniche veterinarie possono essere utilizzati per il confronto elettronico con i dati notificati secondo gli articoli 7‒7b dell’ordinanza del 18 agosto 2004 sui medicamenti per uso veterinario nell’ambito di una notifica o di una domanda di autorizzazione.[^18-2]
 
-[^18-1]: Nuovo testo giusta l’all. 4 n. II 3 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^18-2]: Introdotto dal n. III 3 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
+[^18-1]: Nuovo testo giusta l’all. 4 cifra II n. 3 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
+[^18-2]: Introdotto dalla cifra III n. 3 dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
 
@@ -343,7 +343,7 @@ Allegato[^t-1]
 
 ## Catalogo dei dati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 3 giu. 2022, in vigore dal 1° lug. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 3 giu. 2022 ([RU 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)). Aggiornato dall’all. n. 1 dell’O del 29 ott. 2025 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)) e dalla cifra I dell’O del DFI del 20 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 822](https://fedlex.data.admin.ch/eli/oc/2025/822)).
 
 ### 1 Dati sullo smercio
 
@@ -383,7 +383,7 @@ Allegato[^t-1]
 ### 2.1.2 Azienda di detenzione di animali da reddito a cui è dispensato oppure ai cui animali è somministrato l’antibiotico
 
 - 1\. Nome e indirizzo
-- 2\. Numero BDTA oppure, per detenzioni senza numero BDTA, numero SI AMV
+- 2\. Numero BDTA o numero d’identificazione del Registro delle imprese e degli stabilimenti (numero RIS) oppure, per detenzioni senza uno di questi numeri, numero SI AMV
 
 ### 2.1.3 Terapia di gruppo per via orale
 
@@ -454,7 +454,7 @@ Allegato[^t-1]
 
 ### 2.1.6.1 Animale a cui deve essere somministrato l’antibiotico
 
-- 1\. Specie animale
+- 1\. Categoria di utilizzo
 
 ### 2.1.6.2 Dati sulla prescrizione, sulla dispensazione e sull’uso dell’antibiotico
 
@@ -462,6 +462,14 @@ Allegato[^t-1]
 - 2\. Data della dispensazione
 - 3\. Denominazione del preparato
 - 4\. Quantità dispensata
+- 5\. Indicazione
+- 6\.
+
+  Almeno due delle tre indicazioni seguenti:
+
+  - – dosaggio giornaliero per animale
+  - – numero di animali trattati
+  - – numero dei giorni di trattamento
 
 ### 2.1.7 Dati comparativi
 

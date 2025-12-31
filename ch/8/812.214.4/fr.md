@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2018 concernant le système d'information sur l
 short: O-SI ABV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-702-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/fr"
 
 (O-SI ABV)
 
-du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2024)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,10 +25,10 @@ vu l’art. 64*f* de la loi du 15 décembre 2000 sur les produits thérapeutique
 
 arrête:
 
-[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 1
@@ -90,7 +90,7 @@ Le SI ABV contient les données suivantes:
 <sup>2</sup> La liste des données figure en annexe.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^2-2]: [RS 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^2-2]: [RS 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 3
 
@@ -115,7 +115,7 @@ Les services et les personnes suivants peuvent consulter en ligne les données d
 <sup>3</sup> Les détenteurs d’animaux de rente peuvent consulter en ligne les données visées à l’art. 2, al. 1, let. b, ch.1, relatives à leur utilisation d’antibiotiques via la banque de données sur le trafic des animaux (BDTA) au sens de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^3-2]. S’ils n’ont pas un accès en ligne à la BDTA, ils peuvent demander obtenir les données à l’OSAV.[^3-3]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^3-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^3-2]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^3-3]: Nouvelle teneur selon l’annexe 3 ch. II 4 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
@@ -168,13 +168,13 @@ L’Institut suisse des produits thérapeutiques transmet à l’OSAV:
 
 <sup>5</sup> Pour la vérification électronique par recoupement des données, le SI ABV peut être connecté avec le registre des professions médicales visé dans l’ordonnance du 5 avril 2017 concernant le registre LPMéd[^5-7]. La vérification électronique par recoupement des données permet de vérifier si les autorisations requises pour la prescription, la remise ou l’utilisation d’antibiotiques et, le cas échéant, le certificat de formation continue de «vétérinaire responsable technique» sont disponibles.[^5-8]
 
-[^5-1]: [RS 431.031](https://fedlex.data.admin.ch/eli/cc/2011/81)
-[^5-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^5-1]: [RS 431.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6954)
+[^5-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
 [^5-3]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^5-4]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^5-5]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^5-4]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^5-5]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^5-6]: Introduit par l’annexe 4 ch. II 3 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^5-7]: [RS 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^5-7]: [RS 811.117.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9320)
 [^5-8]: Introduit par le ch. I de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 6
@@ -229,7 +229,7 @@ Les données non sensibles concernant les tâches d’exécution coordonnées da
 
 <sup>3</sup> Il communique les données en respectant les conditions fixées par la loi du 9 octobre 1992 sur la statistique fédérale[^10-1].
 
-[^10-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^10-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 #### Art. 11
 
@@ -252,8 +252,8 @@ L’OSAV veille au respect des dispositions sur la protection des données. Il f
 <sup>2</sup> Si une personne veut faire valoir ses droits, elle dépose une demande à l’OSAV dans la forme prévue à l’art. 16 de l’ordonnance du 31 août 2022 sur la protection des données[^13-3].
 
 [^13-1]: Nouvelle teneur selon l’annexe 2 ch. II 102 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-3]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^13-3]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 14
 
@@ -274,7 +274,7 @@ L’OSAV veille au respect des dispositions sur la protection des données. Il f
 Les mesures pour garantir la sécurité de l’information sont régies par l’ordonnance du 8 novembre 2023 sur la sécurité de l’information[^15-2].
 
 [^15-1]: Nouvelle teneur selon l’annexe 2 ch. II 38 de l’O du 8 nov. 2023 sur la sécurité de l’information, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-2]: [RS 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 16
 
@@ -284,7 +284,7 @@ Les mesures pour garantir la sécurité de l’information sont régies par l’
 
 <sup>2</sup> Les données sont détruites au plus tard 30 ans après leur saisie.
 
-[^16-1]: [RS 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^16-1]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 17
 
@@ -312,7 +312,7 @@ L’OSAV édicte des directives techniques concernant notamment:
 <sup>2</sup> Les données du SI ABV relatives aux cabinets et cliniques vétérinaires peuvent être utilisées dans le cadre d’une déclaration ou d’une demande d’autorisation pour la comparaison électronique avec les données annoncées conformément aux art. 7 à 7*b* de l’ordonnance du 18 août 2004 sur les médicaments vétérinaires[^18-2].[^18-3]
 
 [^18-1]: Nouvelle teneur selon l’annexe 4 ch. II 3 de l’O du 27 avr. 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^18-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^18-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^18-3]: Introduit par le ch. III 3 de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
@@ -343,7 +343,7 @@ Annexe[^t-1]
 
 ## Liste des données
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du 3 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du 3 juin 2022 ([RO 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)). Mise à jour par l’annexe ch. 1 de l’O du 29 oct. 2025 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)) et le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 822](https://fedlex.data.admin.ch/eli/oc/2025/822)).
 
 ### 1 Données sur la distribution
 
@@ -383,7 +383,7 @@ Annexe[^t-1]
 ### 2.1.2 Unité d’élevage d’animaux de rente à laquelle l’antibiotique a été remis ou dans laquelle l’antibiotique a été administré aux animaux
 
 - 1\. Nom et adresse
-- 2 Numéro BDTA ou, à défaut, numéro SI ABV
+- 2\. Numéro BDTA ou numéro du Registre des entreprises et des établissements (numéro REE) ou, à défaut, numéro SI ABV
 
 ### 2.1.3 Traitement d’un groupe d’animaux par voie orale
 
@@ -454,7 +454,7 @@ Annexe[^t-1]
 
 ### 2.1.6.1 Animal auquel l’antibiotique sera administré
 
-- 1\. Espèce animale
+- 1\. Catégorie d’utilisation
 
 ### 2.1.6.2 Données sur la prescription, la remise et l’utilisation de l’antibiotique
 
@@ -462,6 +462,14 @@ Annexe[^t-1]
 - 2\. Date de remise
 - 3\. Dénomination de la préparation
 - 4\. Quantité remise
+- 5\. Indication
+- 6\.
+
+  Au moins deux des trois informations suivantes:
+
+  - – dosage par animal et par jour
+  - – nombre d’animaux traités
+  - – nombre de jours de traitement
 
 ### 2.1.7 Données comparatives
 
@@ -511,7 +519,7 @@ Annexe[^t-1]
 - 9\. Dosage recommandé
 - 10\. Délai d’attente
 
-[^annexu1-lvlu1-lvl3-1]: Le code ATCvet (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) peut être consulté en anglais (version officielle) sur le site Internet du WHO Collaborating Centre for Drug Statistics Methodology à l’adresse suivante: www.whocc.no/ATCvet &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl3-1]: Le code ATCvet (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) peut être consulté en anglais (version officielle) sur le site Internet du WHO Collaborating Centre for Drug Statistics Methodology à l’adresse suivante: [www.whocc.no/ATCvet](http://www.whocc.no/ATCvet) &gt; ATCvet Index.
 
 ### 4 Données système
 

@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2018 über das Informationssystem Antibiotika 
 short: ISABV-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/702"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2018-10-31
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/702/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-702-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/702/20240101/de"
 
 (ISABV-V)
 
-vom 31. Oktober 2018 (Stand am 1. Januar 2024)
+vom 31. Oktober 2018 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,10 +25,10 @@ gestützt auf Artikel 64*f* des Heilmittelgesetzes vom 15. Dezember 2000[^ingres
 
 verordnet:
 
-[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-4]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 [^ingress-5]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 1
@@ -90,7 +90,7 @@ Das IS ABV enthält folgende Daten:
 <sup>2</sup> Der Datenkatalog ist im Anhang aufgeführt.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^2-2]: [SR 812.212.1](https://fedlex.data.admin.ch/eli/cc/2018/786)
+[^2-2]: [SR 812.212.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9361)
 
 #### Art. 3
 
@@ -115,7 +115,7 @@ Im Rahmen ihrer gesetzlichen Aufgaben können folgende Stellen und Personen Date
 <sup>3</sup> Die Nutztierhalterinnen und Nutztierhalter können die Verbrauchsdaten nach Artikel 2 Absatz 1 Buchstabe b Ziffer 1, die sie selbst betreffen, online über die Tierverkehrsdatenbank (TVD) nach der der Verordnung vom 3. November 2021[^3-2] über die Identitas AG und die Tierverkehrsdatenbank abrufen. Nutztierhalterinnen und Nutztierhalter ohne Zugang zur TVD können die Daten vom BLV beziehen.[^3-3]
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^3-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^3-2]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 [^3-3]: Fassung gemäss Anhang 3 Ziff. II 4 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 4
@@ -168,13 +168,13 @@ Das Schweizerische Heilmittelinstitut übermittelt dem BLV:
 
 <sup>5</sup> Das IS ABV kann zum elektronischen Abgleich von Daten mit dem Medizinalberuferegister nach der Registerverordnung MedBG vom 5. April 2017[^5-7] verbunden werden. Beim Datenabgleich wird geprüft, ob die für die Verschreibung, Abgabe oder Anwendung von Antibiotika erforderlichen Bewilligungen und gegebenenfalls das Fertigkeitszeugnis «fachtechnisch verantwortliche Tierärztin» oder «fachtechnisch verantwortlicher Tierarzt» (FTVT) vorliegen.[^5-8]
 
-[^5-1]: [SR 431.031](https://fedlex.data.admin.ch/eli/cc/2011/81)
-[^5-2]: [SR 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
+[^5-1]: [SR 431.031](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6954)
+[^5-2]: [SR 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
 [^5-3]: Fassung gemäss Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
-[^5-4]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^5-5]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^5-4]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^5-5]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^5-6]: Eingefügt durch Anhang 4 Ziff. II 3 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^5-7]: [SR 811.117.3](https://fedlex.data.admin.ch/eli/cc/2017/279)
+[^5-7]: [SR 811.117.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9320)
 [^5-8]: Eingefügt durch Ziff. I der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
 
 #### Art. 6
@@ -229,7 +229,7 @@ Für den koordinierten Vollzug in den Bereichen Tiergesundheit, Tierschutz, Heil
 
 <sup>3</sup> Es berücksichtigt dabei die Anforderungen des Bundesstatistikgesetzes vom 9. Oktober 1992[^10-1].
 
-[^10-1]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^10-1]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 #### Art. 11
 
@@ -252,8 +252,8 @@ Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. 
 <sup>2</sup> Will eine Person Rechte geltend machen, so muss sie in der Form nach Artikel 16 der Datenschutzverordnung vom 31. August 2022[^13-3] ein Gesuch beim BLV einreichen.
 
 [^13-1]: Fassung gemäss Anhang 2 Ziff. II 102 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^13-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^13-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^13-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^13-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 
 #### Art. 14
 
@@ -274,7 +274,7 @@ Das BLV sorgt dafür, dass die Bestimmungen zum Datenschutz eingehalten werden. 
 Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach der Informationssicherheitsverordnung vom 8. November 2023[^15-2].
 
 [^15-1]: Fassung gemäss Anhang 2 Ziff. II 38 der Informationssicherheitsverordnung vom 8. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 735](https://fedlex.data.admin.ch/eli/oc/2023/735)).
-[^15-2]: [SR 128.1](https://fedlex.data.admin.ch/eli/cc/2023/735)
+[^15-2]: [SR 128.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40166)
 
 #### Art. 16
 
@@ -284,7 +284,7 @@ Die Massnahmen zur Gewährleistung der Informationssicherheit richten sich nach 
 
 <sup>2</sup> Die Vernichtung der Daten erfolgt nach spätestens 30 Jahren.
 
-[^16-1]: [SR 152.1](https://fedlex.data.admin.ch/eli/cc/1999/354)
+[^16-1]: [SR 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
 
 #### Art. 17
 
@@ -312,7 +312,7 @@ Das BLV erlässt technische Weisungen namentlich betreffend:
 <sup>2</sup> Die Daten zu Tierarztpraxen und -kliniken aus dem IS ABV können für den elektronischen Abgleich mit den nach den Artikeln 7‒7*b* der Tierarzneimittelverordnung vom 18. August 2004[^18-2] im Rahmen einer Meldung beziehungsweise eines Bewilligungsgesuchs gemeldeten Daten verwendet werden.[^18-3]
 
 [^18-1]: Fassung gemäss Anhang 4 Ziff. II 3 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
-[^18-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
+[^18-2]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
 [^18-3]: Eingefügt durch Ziff. III 3 der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 349](https://fedlex.data.admin.ch/eli/oc/2022/349)).
 
 #### Art. 19
@@ -343,7 +343,7 @@ Anhang[^t-1]
 
 ## Datenkatalog
 
-[^t-1]: Fassung gemäss Ziff. II der V vom 3. Juni 2022, in Kraft seit 1. Juli 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)).
+[^t-1]: Fassung gemäss Ziff. II der V vom 3. Juni 2022 ([AS 2022 350](https://fedlex.data.admin.ch/eli/oc/2022/350)). Bereinigt gemäss Anhang Ziff. 1 der V vom 29. Okt. 2025 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)) und Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 822](https://fedlex.data.admin.ch/eli/oc/2025/822)).
 
 ### 1 Vertriebsdaten
 
@@ -383,7 +383,7 @@ Anhang[^t-1]
 ### 2.1.2 Nutztierhaltung, der das Antibiotikum abgegeben oder deren Tieren das Antibiotikum verabreicht wird
 
 - 1\. Name und Adresse
-- 2\. TVD-Nummer oder, bei Tierhaltungen ohne TVD-Nummer, IS-ABV-Nummer
+- 2\. TVD-Nummer oder Identifikationsnummer im Betriebs- und Unternehmensregister (BUR-Nummer) oder, bei Tierhaltungen ohne eine dieser Nummern, IS-ABV-Nummer
 
 ### 2.1.3 Orale Gruppentherapie
 
@@ -454,7 +454,7 @@ Anhang[^t-1]
 
 ### 2.1.6.1 Tier, dem das Antibiotikum verabreicht werden soll
 
-- 1\. Tierart
+- 1\. Nutzungskategorie
 
 ### 2.1.6.2 Daten zur Verschreibung, Abgabe und Anwendung des Antibiotikums
 
@@ -462,6 +462,14 @@ Anhang[^t-1]
 - 2\. Abgabedatum
 - 3\. Bezeichnung des Präparats
 - 4\. Abgegebene Menge
+- 5\. Indikation
+- 6\.
+
+  Mindestens zwei der drei folgenden Angaben:
+
+  - – Dosierung pro Tier und Tag
+  - – Anzahl behandelte Tiere
+  - – Anzahl Behandlungstage
 
 ### 2.1.7 Vergleichsdaten
 
@@ -511,7 +519,7 @@ Anhang[^t-1]
 - 9\. Dosierungsempfehlung
 - 10\. Absetzfrist
 
-[^annexu1-lvlu1-lvl3-1]: Der ATCvet-Code (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) kann auf Englisch (offizielle Fassung) auf der Webseite des WHO Collaborating Centre for Drug Statistics Methodology unter folgender Adresse abgerufen werden: www.whocc.no/ATCvet &gt; ATCvet Index.
+[^annexu1-lvlu1-lvl3-1]: Der ATCvet-Code (Anatomical Therapeutic Chemical Classification system for veterinary medicinal products) kann auf Englisch (offizielle Fassung) auf der Webseite des WHO Collaborating Centre for Drug Statistics Methodology unter folgender Adresse abgerufen werden: [www.whocc.no/ATCvet](http://www.whocc.no/ATCvet) &gt; ATCvet Index.
 
 ### 4 Systemdaten
 
