@@ -1,46 +1,43 @@
 ---
 canton: NW
 number: "311.41"
-title: Vollzugsverordnung zum Gesetz über die Ausbildungsbeiträge
+title: Verordnung zum Gesetz über die Ausbildungsbeiträge
 short: "Stipendienverordnung, StipV"
 language: de
-version: 2020-01-01
-corrected: 2021-09-08
-version_adopted: 2019-12-10
+version: 2026-01-01
+version_adopted: 2025-08-19
 adopted: 2019-12-10
 in_force: 2020-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/311.41"
-pdf: "https://gesetze.nw.ch/api/de/versions/129/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1408/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesetz über die Ausbildungsbeiträge (Stipendienverordnung, StipV)
+# Verordnung zum Gesetz über die Ausbildungsbeiträge
 
-vom 10. Dezember 2019[^t-1]
+(Stipendienverordnung, StipV)
+
+vom 10.12.2019 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 27 des Gesetzes vom 25. September 2019 über die Ausbildungsbeiträge (Stipendiengesetz, StipG)[^t-2],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung und Art. 27 des Gesetzes vom 25. September 2019 über die Ausbildungsbeiträge (Stipendiengesetz, StipG)[^ingress-1],
 
 beschliesst:
 
-[^t-1]: A 2019, 2224
-[^t-2]: NG 311.4
+[^ingress-1]: NG 311.4
 
-### I. BEITRAGSVORAUSSETZUNGEN
+## 1 Beitragsvoraussetzungen
 
 #### § 1
 
 **Ausbildungen auf der Sekundarstufe II**
 
-Die Ausbildungen der Sekundarstufe II schliessen an die obligatorische Volksschule an. Zur Sekundarstufe II zählen insbesondere folgende Ausbildungen:
+<sup>1</sup> Die Ausbildungen der Sekundarstufe II schliessen an die obligatorische Volksschule an. Zur Sekundarstufe II zählen insbesondere folgende Ausbildungen:
 
 - 1\. Berufsvorbereitungsschulen, insbesondere Brückenangebote;
-
 - 2\. Berufslehren, Berufsfachschulen, berufspraktische Bildungen und eidgenössische Berufsmaturitätsschulen gemäss dem Bundesgesetz über die Berufsbildung[^1-1];
-
 - 3\. Handelsmittelschulen, Fachmittelschulen und Gymnasien, Vorbereitungskurse auf Pädagogische Hochschulen sowie Passerellen; allfällige Austauschjahre sind eingeschlossen.
 
 [^1-1]: SR 412.10
@@ -54,13 +51,9 @@ Die Ausbildungen der Sekundarstufe II schliessen an die obligatorische Volksschu
 <sup>2</sup> Zur Tertiärstufe zählen insbesondere:
 
 - 1\. eidgenössische Berufsprüfungen oder eidgenössische höhere Fachprüfungen;
-
 - 2\. höhere Fachschulen;
-
 - 3\. Fachhochschulen;
-
 - 4\. Pädagogische Hochschulen;
-
 - 5\. Universitäten und Eidgenössische Technische Hochschulen.
 
 #### § 3
@@ -91,7 +84,7 @@ Die Ausbildungen der Sekundarstufe II schliessen an die obligatorische Volksschu
 
 <sup>3</sup> Verlängerungen der ordentlichen Ausbildungsdauer wegen Krankheit, Schwangerschaft, Militärdienst oder anderer ausserordentlicher Umstände sind zu berücksichtigen.
 
-### II. AUSBILDUNGSBEITRÄGE
+## 2 Ausbildungsbeiträge
 
 #### § 6
 
@@ -99,23 +92,15 @@ Die Ausbildungen der Sekundarstufe II schliessen an die obligatorische Volksschu
 
 <sup>1</sup> Für Ausbildungen auf der Sekundarstufe II gelten folgende jährlichen Beträge als anerkannt:
 
-- 1\. Schulgeld und Prüfungsgebühren: tatsächliche Kosten, höchstens 5‘000 Franken;
-
-- 2\. Schulmaterial, Laborgebühren und Exkursionen: 1‘200 Franken;
-
-- 3\. Reisekosten: tatsächliche Kosten der öffentlichen Verkehrsmittel, höchstens aber die Kosten eines Generalabonnements der
-
-- 2\. Klasse.
+- 1\. Schul- und Prüfungsgebühren: tatsächliche Kosten, höchstens 5'300 Franken;
+- 2\. Schulmaterial, Laborgebühren und Exkursionen: 1'300 Franken;
+- 3\. Reisekosten: tatsächliche Kosten der öffentlichen Verkehrsmittel, höchstens aber die Kosten eines Generalabonnements der 2. Klasse.
 
 <sup>2</sup> Für Ausbildungen auf der Tertiärstufe gelten folgende jährlichen Beträge als anerkannt:
 
-- 1\. Schulgeld, Studien- und Prüfungsgebühren: tatsächliche Kosten, höchstens 10‘000 Franken;
-
-- 2\. Schulmaterial, Laborgebühren und Exkursionen: 2‘100 Franken;
-
-- 3\. Reisekosten: tatsächliche Kosten der öffentlichen Verkehrsmittel, höchstens aber die Kosten eines Generalabonnements der
-
-- 2\. Klasse. Kann die Bildungsinstitution nicht oder nur erschwert mit öffentlichen Verkehrsmitteln erreicht werden, wird ein Zuschlag von 65 Prozent, insgesamt jedoch höchstens ein Betrag von 3'500 Franken gewährt.
+- 1\. Schul-, Einschreibungs- und Prüfungsgebühren: tatsächliche Kosten, höchstens 11'000 Franken;
+- 2\. Schulmaterial, Laborgebühren und Exkursionen: 2'200 Franken;
+- 3\. Reisekosten: tatsächliche Kosten der öffentlichen Verkehrsmittel, höchstens aber die Kosten eines Generalabonnements der 2. Klasse. Kann die Bildungsinstitution nicht oder nur erschwert mit öffentlichen Verkehrsmitteln erreicht werden, wird ein Zuschlag von 65 Prozent, insgesamt jedoch höchstens ein Betrag von 3'700 Franken gewährt.
 
 #### § 7
 
@@ -124,84 +109,72 @@ Die Ausbildungen der Sekundarstufe II schliessen an die obligatorische Volksschu
 <sup>1</sup> Als allgemeine Lebenshaltungskosten werden folgende jährlichen Beträge anerkannt:
 
 - 1\. Krankenkassenprämie abzüglich der gewährten Prämienverbilligung;
-
-- 2\. für Kleider, Wäsche und Taschengeld: bis 18 Jahre 1'000 Franken, ab 18 Jahre 3‘000 Franken;
-
+- 2\. für Kleider, Wäsche und Taschengeld: bis 18 Jahre 1'100 Franken, ab 18 Jahre 3'200 Franken;
 - 3\. für jedes minderjährige oder in Ausbildung stehende Kind, für dessen Unterhalt die gesuchstellende Person zu sorgen hat: 9'000 Franken.
 
-<sup>2</sup> Für ausbildungsbedingte Kosten für Unterkunft und Verpflegung ausserhalb des Elternhauses gelten folgende jährliche Beträge als anerkannt:
+<sup>2</sup> Als ausbildungsbedingte Kosten für Verpflegung werden folgende jährlichen Beträge anerkannt:
 
-- 1\. Kostgeld (Morgen-, Mittag- und Abendessen) auswärts: 5‘500 Franken;
+- 1\. Kostgeld (Morgen-, Mittag- und Abendessen) auswärts: 5'800 Franken;
+- 2\. nur Mittagessen auswärts: 3'200 Franken.
+- 3\.–4. …
 
-- 2\. nur Mittagessen auswärts: 3‘000 Franken;
+<sup>2a</sup> Als ausbildungsbedingte Kosten für Unterkunft werden folgende jährlichen Beträge anerkannt:
 
-- 3\. Logis auswärts, ausser die Anreise vom bisherigen Wohnort ist zumutbar: tatsächliche Kosten, höchstens 10'000 Franken;
+- 1\. Unterkunft auswärts, ausser die Anreise vom bisherigen Wohnort ist zumutbar: tatsächliche Kosten, höchsten 10'500 Franken;
+- 2\. Unterkunft bei den Eltern: bis zum erfüllten 25. Lebensjahr 1'500 Franken;
+- 3\. Unterkunft bei den Eltern: ab dem erfüllten 25. Lebensjahr 3'000 Franken.
 
-- 4\. Aufenthalt in einem Internat: tatsächliche Kosten, höchstens die Beträge gemäss Ziff. 1 und 3.
+<sup>2b</sup> Als ausbildungsbedingte Kosten für Verpflegung und Unterkunft bei einem Internatsaufenthalt werden die tatsächlichen Kosten, höchstens jedoch 16'300 Franken, als jährlichen Betrag anerkannt.
 
-<sup>3</sup> Ist der gesuchstellenden Person das Wohnen bei den Eltern aus Gründen wie Alter oder persönlicher Verhältnisse nicht zumutbar, werden die Lebenshaltungskosten gemäss Abs. 1 Ziff. 1 und 2 sowie Abs. 2 pauschal mit 20'000 Franken, berücksichtigt.
+<sup>3</sup> Bei gesuchstellenden Personen, die das 25. Altersjahr vollendet haben oder die aufgrund nicht zumutbarer Verhältnisse nicht bei den Eltern wohnen, werden die Lebenshaltungskosten gemäss Abs. 1 Ziff. 1 und 2, Abs. 2 sowie Abs. 2a pauschal mit 23'000 Franken berücksichtigt.
 
 <sup>4</sup> Die Ansätze gelten für Vollzeitausbildungen und für ein Jahr; für Teilzeitausbildungen werden sie anteilsmässig gekürzt.
 
 #### § 8
 
-**Zumutbare Eigenleistung**
-
-### 1. anrechenbares Einkommen
+**Zumutbare Eigenleistung 1. anrechenbares Einkommen**
 
 <sup>1</sup> Das anrechenbare Einkommen setzt sich aus dem gesamten um die steuerlich anerkannten Gewinnungskosten gekürzten Einkommen für den Beitragszeitraum zusammen.
 
 <sup>2</sup> Angerechnet werden auch:
 
 - 1\. die für sie bestimmten Versicherungsleistungen, insbesondere Renten, soweit sie nicht im steuerbaren Einkommen der Eltern enthalten sind;
-
-- 2\. von der Ehegattin oder dem Ehegatten zu erwartende Zuwendungen;
-
+- 2\. von der Ehegattin oder dem Ehegatten beziehungsweise der Partnerin oder des Partners aus eingetragener Partnerschaft zu erwartende Zuwendungen;
 - 3\. gemeinnützige Leistungen Dritter.
 
-<sup>3</sup> Bei Vollzeitausbildungen mit Verdienst wird das anrechenbare Einkommen nur zu 90 Prozent berücksichtigt.
+<sup>3</sup> Bei Vollzeitausbildungen mit Verdienst wird das anrechenbare Einkommen nur zu 80 Prozent berücksichtigt.
 
-<sup>4</sup> Auf der Sekundarstufe II werden mindestens 1‘000 Franken und auf der Tertiärstufe mindestens 4‘000 Franken als anrechenbares Einkommen berücksichtigt.
+<sup>4</sup> Auf der Sekundarstufe II werden mindestens 1'100 Franken und auf der Tertiärstufe mindestens 4'200 Franken als anrechenbares Einkommen berücksichtigt. Vom Einkommen über diesen Minimalbeträgen werden 1'800 Franken auf der Sekundarstufe II und 2'900 Franken auf der Tertiärstufe nicht zum anrechenbaren Einkommen angerechnet.
 
 #### § 9
 
 **2. Vermögensanteil**
 
-Der für die Berechnung der zumutbaren Eigenleistung anrechenbare Anteil des gesamten Reinvermögens beträgt 15 Prozent.
+<sup>1</sup> Der für die Berechnung der zumutbaren Eigenleistung anrechenbare Anteil des gesamten Reinvermögens beträgt 15 Prozent.
 
 #### § 10
 
-**Zumutbare Fremdleistung**
+**Zumutbare Fremdleistung 1. anrechenbares Einkommen**
 
-### 1. anrechenbares Einkommen
-
-Das anrechenbare Einkommen setzt sich zusammen aus:
+<sup>1</sup> Das anrechenbare Einkommen setzt sich zusammen aus:
 
 - 1\. dem Reineinkommen der direkten Bundessteuer;
-
-- 2\. 80 Prozent des im vereinfachten Verfahren abgerechneten Bruttolohns gemäss dem Bundesgesetz gegen die Schwarzarbeit (BGSA)[^h1anrechenbaresEin_2-1];
-
+- 2\. 80 Prozent des im vereinfachten Verfahren abgerechneten Bruttolohns gemäss dem Bundesgesetz gegen die Schwarzarbeit (BGSA)[^10-1];
 - 3\. 80 Prozent des quellenbesteuerten Bruttolohns;
-
 - 4\. dem Einkauf in die berufliche Vorsorge;
-
-- 5\. dem Einkauf in die berufliche Vorsorge durch den Ehepartner;
-
+- 5\. dem Einkauf in die berufliche Vorsorge durch die Ehegattin oder den Ehegatten beziehungsweise die Partnerin oder den Partner aus eingetragener Partnerschaft;
 - 6\. den getätigten Einlagen in die gebundene Selbstvorsorge (Säule 3a);
-
-- 7\. den getätigten Einlagen in die gebundene Selbstvorsorge (Säule 3a) durch die Ehepartner;
-
+- 7\. den getätigten Einlagen in die gebundene Selbstvorsorge (Säule 3a) durch die Ehegattin oder den Ehegatten beziehungsweise die Partnerin oder den Partner aus eingetragener Partnerschaft;
 - 8\. der Aufrechnung der Abzüge aus Teileinkünfteverfahren;
-
 - 9\. der Aufrechnung des Abzuges für Liegenschaftsunterhalt, abzüglich 15 Prozent der Erträge privater Liegenschaften.
 
-[^h1anrechenbaresEin_2-1]: SR 822.41
+[^10-1]: SR 822.41
 
 #### § 11
 
 **2. Vermögensanteil**
 
-Der für die Berechnung der zumutbaren Fremdleistung anrechenbare Anteil des gesamten Reinvermögens beträgt 6 Prozent.
+<sup>1</sup> Der für die Berechnung der zumutbaren Fremdleistung anrechenbare Anteil des gesamten Reinvermögens beträgt 6 Prozent.
 
 #### § 12
 
@@ -209,27 +182,21 @@ Der für die Berechnung der zumutbaren Fremdleistung anrechenbare Anteil des ges
 
 <sup>1</sup> Die stipendienrechtlichen Abzüge der Eltern oder anderer zum Unterhalt verpflichteten Personen betragen:
 
-- 1\. 68‘000 Franken, wenn sie einen gemeinsamen Haushalt führen;
-
-- 2\. je 45‘000 Franken, wenn sie keinen gemeinsamen Haushalt führen;
-
-- 3\. 55‘000 Franken für Alleinerziehende, wenn aus objektiven Gründen (z.B. Tod oder unbekannter Aufenthalt) nicht mit Leistungen von weiteren Erziehungsberechtigten oder zum Unterhalt verpflichteten Personen gerechnet werden kann.
+- 1\. 72'000 Franken, wenn sie einen gemeinsamen Haushalt führen;
+- 2\. je 48'000 Franken, wenn sie keinen gemeinsamen Haushalt führen;
+- 3\. 58'000 Franken für Alleinerziehende, wenn aus objektiven Gründen (z.B. Tod oder unbekannter Aufenthalt) nicht mit Leistungen von weiteren Erziehungsberechtigten oder zum Unterhalt verpflichteten Personen gerechnet werden kann.
 
 <sup>2</sup> Die stipendienrechtlichen Abzüge für die nicht erwerbstätigen Geschwister der gesuchstellenden Person betragen:
 
-- 1\. für Geschwister bis zum erfüllten 12. Altersjahr: je 5'500 Franken;
-
-- 2\. für Geschwister bis zum erfüllten 18. Altersjahr: je 7'000 Franken;
-
-- 3\. für Geschwister ab dem erfüllten 18. Altersjahr, die sich in einer stipendienrechtlich anerkannten Ausbildung befinden: je 12'000 Franken.
+- 1\. für Geschwister bis zum erfüllten 16. Altersjahr: je 6'500 Franken;
+- 2\. für Geschwister bis zum erfüllten 19. Altersjahr: je 8'000 Franken;
+- 3\. für Geschwister ab dem erfüllten 19. Altersjahr, die sich in einer stipendienrechtlich anerkannten Ausbildung befinden: je 12'500 Franken.
 
 #### § 13
 
-**4. Scheidung, Trennung, Auflösung der eingetragenen**
+**4. Scheidung, Trennung, Auflösung der eingetragenen Partnerschaft**
 
-### Partnerschaft
-
-<sup>1</sup> Sind die Eltern geschieden oder getrennt und leistet ein Elternteil Unterhaltsbeiträge an die gesuchstellende Person, sind die Einkommens- und Vermögensverhältnisse desjenigen Elternteils massgebend, dem die elterliche Sorge zusteht oder zuletzt zustand. Bei gemeinsamer elterlichen Sorge sind die höheren Einkommen- und Vermögensverhältnisse massgebend.
+<sup>1</sup> Sind die Eltern geschieden oder getrennt und leistet ein Elternteil Unterhaltsbeiträge an die gesuchstellende Person, sind die Einkommens- und Vermögensverhältnisse desjenigen Elternteils massgebend, dem die elterliche Sorge zusteht oder zuletzt zustand. Bei gemeinsamer elterlicher Sorge wird der Durchschnitt der Einkommens- und Vermögensverhältnisse der beiden Elternteile zugrunde gelegt.
 
 <sup>2</sup> Ist die gesuchstellende Person über 25 Jahre alt oder leistet kein Elternteil Unterhaltsbeiträge, wird der Durchschnitt der Einkommens- und Vermögensverhältnisse der beiden Elternteile zugrunde gelegt.
 
@@ -239,7 +206,7 @@ Der für die Berechnung der zumutbaren Fremdleistung anrechenbare Anteil des ges
 
 **5. teilweise Berücksichtigung**
 
-Bei teilweiser Berücksichtigung der zumutbaren Fremdleistung gemäss Art. 18 Abs. 3 StipG[^14-1] wird nur jener Teil berücksichtigt, der 40‘000 Franken übersteigt.
+<sup>1</sup> Bei teilweiser Berücksichtigung der zumutbaren Fremdleistung gemäss Art. 18 Abs. 3 StipG[^14-1] wird nur jener Teil berücksichtigt, der 42'000 Franken übersteigt.
 
 [^14-1]: NG 311.4
 
@@ -249,17 +216,16 @@ Bei teilweiser Berücksichtigung der zumutbaren Fremdleistung gemäss Art. 18 Ab
 
 <sup>1</sup> Die Pauschalen gemäss Art. 15 Abs. 2 StipG[^15-1] betragen:
 
-- 1\. 6’000 Franken für Personen in Ausbildungen auf der Sekundarstufe II;
+- 1\. 6'300 Franken für Personen in Ausbildung auf der Sekundarstufe II;
+- 2\. 12'600 Franken für Personen in Ausbildung auf der Tertiärstufe.
 
-- 2\. 12‘000 Franken für Personen in Ausbildungen auf der Tertiärstufe.
-
-<sup>2</sup> Diese Pauschalen erhöhen sich bei Personen in Ausbildung, die gegenüber Kindern unterhaltspflichtig sind, um 5‘000 Franken je Kind.
+<sup>2</sup> Diese Pauschalen erhöhen sich bei Personen in Ausbildung, die gegenüber Kindern unterhaltspflichtig sind, um 5'000 Franken je Kind.
 
 <sup>3</sup> Die Pauschalen gelten für Vollzeitausbildungen und für ein Jahr; für Teilzeitausbildungen werden sie anteilsmässig gekürzt.
 
 [^15-1]: NG 311.4
 
-### III. ORGANISATION UND VERFAHREN
+## 3 Organisation und Verfahren
 
 #### § 16
 
@@ -270,11 +236,8 @@ Bei teilweiser Berücksichtigung der zumutbaren Fremdleistung gemäss Art. 18 Ab
 <sup>2</sup> Ihr obliegt insbesondere:
 
 - 1\. die stipendienrechtliche Anerkennung von Aus- und Weiterbildungen gemäss Art. 8 StipG[^16-1];
-
 - 2\. der Entscheid über die Gesuche für Ausbildungsbeiträge;
-
 - 3\. der Entscheid über die Rückforderung von Ausbildungsbeiträgen sowie den teilweisen oder gänzlichen Verzicht auf die Rückerstattung eines Darlehens;
-
 - 4\. die Weiterleitung der statistischen Angaben zuhanden des Bundes.
 
 [^16-1]: NG 311.4
@@ -288,45 +251,35 @@ Bei teilweiser Berücksichtigung der zumutbaren Fremdleistung gemäss Art. 18 Ab
 <sup>2</sup> Sie ist insbesondere zuständig für:
 
 - 1\. die Beratung der Gesuchstellenden und ihrer gesetzlichen Vertretung;
-
 - 2\. die Information der Öffentlichkeit über das Stipendienwesen;
-
 - 3\. die Geltendmachung allfälliger Bundesbeiträge.
 
 #### § 18
 
 **Finanzverwaltung**
 
-Die Finanzverwaltung ist zuständig für:
+<sup>1</sup> Die Finanzverwaltung ist zuständig für:
 
 - 1\. die Rechnungsführung über die Ausbildungsbeiträge;
-
 - 2\. die Auszahlung der Ausbildungsbeiträge;
-
 - 3\. den Abschluss von Darlehensverträgen im Rahmen der Entscheide der zuständigen Direktion;
-
 - 4\. die Kontrolle betreffend die Verzinsung und Rückerstattung der Ausbildungsdarlehen;
-
 - 5\. das Inkasso der Rückerstattung von Ausbildungsdarlehen;
-
 - 6\. das Inkasso der Rückerstattung von Stipendien.
 
 #### § 19
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch um Ausbildungsbeiträge ist der Fachstelle für Ausbildungsbeiträge bis spätestens acht Wochen nach Ausbildungsbeginn einzureichen. Andernfalls erfolgt die anteilsmässige Auszahlung nur noch für den Rest des laufenden Ausbildungsjahres; dieses dauert vom 1. September bis zum 31. August.
+<sup>1</sup> Das Gesuch um Ausbildungsbeiträge ist der Fachstelle für Ausbildungsbeiträge bis spätestens vier Monate nach Ausbildungsbeginn einzureichen. Andernfalls erfolgt die anteilsmässige Auszahlung nur noch für den Rest des laufenden Ausbildungsjahres; dieses dauert vom 1. September bis zum 31. August.
 
 <sup>2</sup> Das Gesuch um Ausbildungsbeiträge ist auf einem amtlichen Formular einzureichen.
 
 <sup>3</sup> Dem Gesuch sind beizulegen:
 
 - 1\. die Steuerveranlagung gemäss Art. 17 Abs. 3 und Art. 18 Abs. 2 StipG[^19-1];
-
 - 2\. die Angaben zur Feststellung des zu erwartenden anrechenbaren Einkommens der gesuchstellenden Person während der Beitragszeit;
-
 - 3\. die Zeugnisse über die bisherige und die laufende Ausbildung;
-
 - 4\. der Nachweis über den Besuch der jeweiligen Ausbildung oder der Lehrvertrag.
 
 <sup>4</sup> Die Fachstelle für Ausbildungsbeiträge kann weitere Unterlagen und Auskünfte verlangen, die zur Beurteilung eines Gesuches notwendig sind.
@@ -339,28 +292,30 @@ Die Finanzverwaltung ist zuständig für:
 
 **Auszahlung**
 
-Die Auszahlung eines Jahresstipendiums erfolgt in der Regel in einer Rate.
+<sup>1</sup> Die Auszahlung eines Jahresstipendiums erfolgt in der Regel in einer Rate.
 
 #### § 21
 
 **Verfall**
 
-Darlehen verfallen, wenn sie nicht während des Ausbildungsjahres, für das sie bestimmt sind, bezogen werden.
+<sup>1</sup> Darlehen verfallen, wenn sie nicht während des Ausbildungsjahres, für das sie bestimmt sind, bezogen werden.
 
 #### § 22
 
 **Rückerstattung, Verzinsung**
 
-<sup>1</sup> Darlehen sind binnen sechs Jahren nach der Beendigung oder dem Abbruch der Ausbildung in gleichen Raten zurückzuerstatten. Die Rückzahlungspflicht beginnt im Folgejahr nach Abschluss oder Abbruch der Ausbildung. Im Darlehensvertrag wird ein Zahlungsplan vereinbart. Die jährliche Rückzahlungsrate beträgt mindestens 1‘000 Franken.
+<sup>1</sup> Darlehen sind binnen sechs Jahren nach der Beendigung oder dem Abbruch der Ausbildung in gleichen Raten zurückzuerstatten. Die Rückzahlungspflicht beginnt im Folgejahr nach Abschluss oder Abbruch der Ausbildung. Im Darlehensvertrag wird ein Zahlungsplan vereinbart. Die jährliche Rückzahlungsrate beträgt mindestens 1'000 Franken.
 
 <sup>2</sup> Auf Gesuch hin kann eine Verlängerung auf acht Jahre erfolgen. Der Restbestand ist ab dem siebten Jahr zu verzinsen. Der Zinssatz entspricht dem Verzugszins gemäss der Vollzugsverordnung zum Gesetz über die amtlichen Kosten (Gebührenverordnung, GebV)[^22-1].
 
 [^22-1]: NG 265.51
 
-### IV. SCHLUSSBESTIMMUNG
+## 4 Schlussbestimmung
 
 #### § 23
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Januar 2020 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2020 in Kraft.
+
+A 2019, 2224
