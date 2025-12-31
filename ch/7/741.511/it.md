@@ -4,11 +4,11 @@ title: "Ordinanza del 19 giugno 1995 concernente l'approvazione del tipo di veic
 short: OATV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1995-06-19
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20250701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20250701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-3997_3997_3997-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3997_3997_3997/20250701/it"
 
 (OATV)
 
-del 19 giugno 1995 (Stato 1° luglio 2025)
+del 19 giugno 1995 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 12, 103 e 106 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr),[^ingress-2]
+visti gli articoli 12, 103 e 106 capoversi 1 e 2<sup>bis</sup> della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr),[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -38,7 +38,7 @@ ordina:
 
 <sup>2</sup> Salvo disposizione contraria della presente ordinanza, si applicano a titolo completivo le prescrizioni della legge federale del 12 giungo 2009[^1-1] sulla sicurezza dei prodotti.[^1-2]
 
-[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^1-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 [^1-2]: Nuovo testo giusta la cifra I n. 4 dell’O dell’11 giu. 2010 che adegua le ordinanze settoriali in materia di sicurezza dei prodotti, in vigore dal 1° lug. 2010 ([RU 2010 2749](https://fedlex.data.admin.ch/eli/oc/2010/358)).
 
 #### Art. 2
@@ -53,24 +53,25 @@ Ai sensi della presente ordinanza s’intendono per:
 - d. approvazione parziale UE o UNECE[^2-3]: l’approvazione del tipo di un sistema o parte staccata di un veicolo, accessorio d’equipaggiamento o dispositivo di protezione, rilasciata da un’autorità secondo il diritto UE o UNECE;
 - e. certificato di conformità UE: l’attestazione rilasciata dal fabbricante che un singolo veicolo corrisponde in ogni aspetto a un’approvazione generale UE;
 - f.[^2-4] dichiarazione di conformità: la dichiarazione rilasciata per iscritto dal fabbricante secondo cui una parte staccata o un sistema di veicolo, un accessorio d’equipaggiamento o un dispositivo di protezione corrisponde alle esigenze tecniche pertinenti per l’immatricolazione in Svizzera;
-- g. esame della conformità: l’esame della conformità di un veicolo, telaio, sistema o parte staccata di veicolo, accessorio d’equipaggiamento o dispositivo di protezione con il tipo approvato, eseguito su sondaggio per campione;
+- g. verifica della conformità[^2-5]: la verifica della conformità di un veicolo, telaio, sistema o parte staccata di veicolo, accessorio d’equipaggiamento o dispositivo di protezione con il tipo approvato, eseguito su sondaggio per campione;
 - h. contrassegno di conformità: il contrassegno ufficiale che conferma che una parte o sistema di veicolo, accessorio d’equipaggiamento o dispositivo di protezione corrisponde alle prescrizioni tecniche pertinenti;
-- i.[^2-5] sistemi di veicoli: tutti i sistemi per un determinato tipo di veicolo che devono adempiere le esigenze tecniche, come l’impianto dei freni o i dispositivi di depurazione dei gas di scarico;
-- k.[^2-6] fabbricante: la persona o l’ufficio responsabile nei confronti delle autorità d’approvazione del tipo per tutte le esigenze della procedura d’approvazione del tipo come anche per la garanzia della conformità della produzione. Non è necessario che il fabbricante partecipi direttamente a tutte le fasi della fabbricazione del veicolo, del sistema o della parte staccata del veicolo, oggetto della procedura d’approvazione del tipo;
-- l.[^2-7] scheda tecnica: certificato che sostituisce l’approvazione del tipo per un veicolo con approvazione generale UE;
-- m.[^2-8] valutazione della conformità: attestazione scritta, sulla base di un rapporto di esame di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1, che l’oggetto in questione corrisponde alle prescrizioni svizzere;
-- n.[^2-9] certificazione della conformità: attestazione scritta, sulla base di un rapporto di esame[^2-10] di un organo estero, che l’oggetto in questione corrisponde alle prescrizioni svizzere.
+- i.[^2-6] sistemi di veicoli: tutti i sistemi per un determinato tipo di veicolo che devono adempiere le esigenze tecniche, come l’impianto dei freni o i dispositivi di depurazione dei gas di scarico;
+- k.[^2-7] fabbricante: la persona o l’ufficio responsabile nei confronti delle autorità d’approvazione del tipo per tutte le esigenze della procedura d’approvazione del tipo come anche per la garanzia della conformità della produzione. Non è necessario che il fabbricante partecipi direttamente a tutte le fasi della fabbricazione del veicolo, del sistema o della parte staccata del veicolo, oggetto della procedura d’approvazione del tipo;
+- l.[^2-8] scheda tecnica: certificato che sostituisce l’approvazione del tipo per un veicolo con approvazione generale UE;
+- m.[^2-9] valutazione della conformità: attestazione scritta, sulla base di un rapporto di esame di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1, che l’oggetto in questione corrisponde alle prescrizioni svizzere;
+- n.[^2-10] certificazione della conformità: attestazione scritta, sulla base di un rapporto di esame[^2-11] di un organo estero, che l’oggetto in questione corrisponde alle prescrizioni svizzere.
 
 [^2-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^2-2]: Nuova espr. giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^2-3]: Nuova espresione giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-3]: Nuova espr. giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^2-4]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
-[^2-5]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
-[^2-6]: Introdotta dalla cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
-[^2-7]: Introdotta dalla cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^2-8]: Introdotta dalla cifra I dell’O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^2-9]: Introdotta dalla cifra I dell’O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)).
-[^2-10]: Nuova espr. giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)). Di detta mod. é tenuto in tutto il testo.
+[^2-5]: Nuova espr. giusta la cifra I cpv. 3 dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-6]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
+[^2-7]: Introdotta dalla cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
+[^2-8]: Introdotta dalla cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^2-9]: Introdotta dalla cifra I dell’O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^2-10]: Introdotta dalla cifra I dell’O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 325](https://fedlex.data.admin.ch/eli/oc/2019/49)).
+[^2-11]: Nuova espr. giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)). Di detta mod. é tenuto in tutto il testo.
 
 ## Capitolo 2: Approvazione del tipo
 
@@ -103,29 +104,33 @@ Per i veicoli viene rilasciata una scheda tecnica invece di un’approvazione de
 
 **Esonero dall’approvazione del tipo**
 
-<sup>1</sup> Veicoli e telai importati per uso proprio sono esonerati dall’approvazione del tipo e possono essere notificati direttamente al Servizio cantonale d’ammissione.[^4-1]
+<sup>1</sup> I veicoli e i telai importati per uso proprio sono esonerati dall’approvazione del tipo.[^4-1]
 
 <sup>1bis</sup> ...[^4-2]
 
-<sup>2</sup> ...[^4-3]
+<sup>2</sup> Sono esonerati dall’approvazione del tipo i veicoli per i quali è disponibile un certificato di conformità UE.[^4-3]
 
-<sup>3</sup> Ogni anno, l’Ufficio federale esonera dall’approvazione del tipo i fabbricanti svizzeri per al massimo cinque veicoli o telai dello stesso tipo, della stessa variante o della stessa versione da essi prodotti.[^4-4]
+<sup>3</sup> Ogni anno sono esonerati dall’approvazione del tipo al massimo cinque veicoli o telai dello stesso tipo, della stessa variante o della stessa versione prodotti da uno stesso fabbricante svizzero.[^4-4]
 
-<sup>4</sup> I veicoli e telai esonerati dall’approvazione del tipo soggiacciono all’esame singolo[^4-5] del servizio cantonale competente per l’ammissione.
+<sup>4</sup> Importatori e fabbricanti possono richiedere un’approvazione del tipo o una scheda tecnica anche per veicoli e telai esonerati dall’approvazione del tipo.[^4-5]
+
+<sup>4bis</sup> I veicoli e i telai esonerati dall’approvazione del tipo sono soggetti all’esame secondo gli articoli 29–31 dell’ordinanza del 19 giugno 1995[^4-6] concernente le esigenze tecniche per i veicoli stradali (OETV) presso il servizio di immatricolazione cantonale competente.[^4-7]
 
 <sup>5</sup> Le parti staccate di veicoli, gli accessori d’equipaggiamento e i dispositivi di protezione muniti di un contrassegno di conformità UE, UNECE o OCSE sono esonerati dall’approvazione svizzera del tipo.
 
-<sup>6</sup> Le parti staccate di veicoli, gli accessori d’equipaggiamento e i dispositivi di protezione muniti di altri contrassegni di conformità stranieri o internazionali sono esonerati dall’approvazione del tipo, nella misura in cui i contrassegni di conformità sono stati rilasciati sulla base di prescrizioni che l’Ufficio federale delle strade (Ufficio federale) ha riconosciuto come almeno equivalenti alle prescrizioni svizzere.[^4-6]
+<sup>6</sup> Le parti staccate di veicoli, gli accessori d’equipaggiamento e i dispositivi di protezione muniti di altri contrassegni di conformità stranieri o internazionali sono esonerati dall’approvazione del tipo, nella misura in cui i contrassegni di conformità sono stati rilasciati sulla base di prescrizioni che l’Ufficio federale delle strade (Ufficio federale) ha riconosciuto come almeno equivalenti alle prescrizioni svizzere.[^4-8]
 
-<sup>7</sup> Per l’immatricolazione degli oggetti di cui all’allegato 1 numero 2 e dei veicoli trasformati è sufficiente una valutazione o una certificazione della conformità, oppure un rapporto di esame di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1.[^4-7]
+<sup>7</sup> Per l’immatricolazione degli oggetti di cui all’allegato 1 numero 2 e dei veicoli trasformati è sufficiente una valutazione o una certificazione della conformità, oppure un rapporto di esame di un organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1.[^4-9]
 
-[^4-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 [^4-2]: Introdotto dalla cifra I dell’O del 2 set. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)). Abrogato dalla cifra I dell’O del 10 giu. 2005, con effetto dal 1° ott. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-3]: Abrogato dalla cifra I dell’O del 10 giu. 2005, con effetto dal 1° ott. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-4]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-5]: O del 19 giu. 1995 concernente le esigente tecniche per i veicoli stradali, OETV ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
-[^4-6]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
-[^4-7]: Introdotto dalla cifra I dell’O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
+[^4-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^4-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^4-5]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^4-6]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^4-7]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^4-8]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° ott. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)).
+[^4-9]: Introdotto dalla cifra I dell’O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)). Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
 
 #### Art. 5
 
@@ -143,12 +148,13 @@ Il rilascio dell’approvazione del tipo compete all’Ufficio federale.
 
 <sup>2</sup> L’approvazione del tipo è rilasciata unicamente al titolare con domicilio o sede in Svizzera.
 
-<sup>3</sup> A ogni titolare dell’approvazione del tipo per veicoli o telai è attribuito un codice. Tale codice dev’essere registrato nel rapporto di perizia (mod. 13.20 A).
+<sup>3</sup> A ogni titolare dell’approvazione del tipo per veicoli o telai è attribuito un codice. Tale codice deve essere registrato nel rapporto di perizia (modulo 13.20 A).[^6-2]
 
-<sup>4</sup> Con il consenso dell’Ufficio federale, il titolare dell’approvazione del tipo può autorizzare altri importatori a utilizzare la propria approvazione del tipo oppure può cederla a un altro importatore.[^6-2]
+<sup>4</sup> Con il consenso dell’Ufficio federale, il titolare dell’approvazione del tipo può autorizzare altri importatori a utilizzare la propria approvazione del tipo oppure può cederla a un altro importatore.[^6-3]
 
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^6-2]: Introdotto dalla cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^6-3]: Introdotto dalla cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
 
 #### Art. 7
 
@@ -159,6 +165,15 @@ Il rilascio dell’approvazione del tipo compete all’Ufficio federale.
 <sup>2</sup> L’approvazione del tipo è rilasciata unicamente a persone con domicilio o sede in Svizzera. Fanno eccezione le approvazioni internazionali del tipo.
 
 <sup>3</sup> Ogni persona è autorizzata a mettere in circolazione parti di veicolo, accessori di equipaggiamento e dispositivi di protezione che corrispondono al tipo approvato e sono muniti del relativo contrassegno di conformità.
+
+#### Art. 7a
+
+**Titolari di set di dati elettronici di singoli veicoli**[^7a-1]
+
+L’Ufficio federale può attribuire un codice ai titolari di set di dati elettronici di singoli veicoli (art. 72*b* dell’ordinanza del 27 ottobre 1976[^7a-2] sull’ammissione alla circolazione [OAC]).
+
+[^7a-1]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^7a-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 8
 
@@ -223,13 +238,13 @@ L’approvazione del tipo è rilasciata se il tipo del veicolo dà tutte le gara
 
 - a. un’approvazione generale UE;
 - b. le approvazioni parziali UE;
-- c.[^13-2] le dichiarazioni di conformità del costruttore con rapporto di esame giusta l’articolo 14; oppure
+- c.[^13-2] le dichiarazioni di conformità del fabbricante con rapporto di esame giusta l’articolo 14; oppure
 - d. le approvazioni straniere o internazionali giusta l’articolo 15.
 
 <sup>2</sup> Laddove non è presentato alcun documento ai sensi del capoverso 1, l’approvazione del tipo è rilasciata in base all’esame tecnico dell’oggetto previsto nella sezione 3.[^13-3]
 
 [^13-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-[^13-2]: Nuovo testo giusta la cifra I dell’O del 6 set. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 [^13-3]: Introdotto dalla cifra I dell’O del 6 set. 2000 , in vigore dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
 
 #### Art. 14
@@ -252,7 +267,7 @@ La dichiarazione di conformità è riconosciuta se:
 
 Le approvazioni rilasciate da Stati esteri secondo il diritto nazionale o internazionale sono riconosciute ove le prescrizioni applicate siano di valore equivalente a quelle svizzere[^15-1]. Il richiedente deve fornire la prova contemporaneamente all’iscrizione.
 
-[^15-1]: OETV del 19 giu. 1995 ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)), OETV 1 del 19 giu. 1995 ([RS 741.412](https://fedlex.data.admin.ch/eli/cc/1995/4145_4145_4145)), OETV 2 del 19 giu. 1995 ([RS 741.413](https://fedlex.data.admin.ch/eli/cc/2016/821)), OETV 3 del 2 set. 1998 ([RS 741.414](https://fedlex.data.admin.ch/eli/cc/2016/822)). Vedi [RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501).
+[^15-1]: OETV del 19 giu. 1995 ([RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)), OETV 1 del 19 giu. 1995 ([RS 741.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8650)), OETV 2 del 19 giu. 1995 ([RS 741.413](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8651)), OETV 3 del 2 set. 1998 ([RS 741.414](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8652)). Vedi [RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501).
 
 #### Art. 16
 
@@ -332,7 +347,7 @@ Per esami tecnici effettuati secondo piani di controllo (art. 19*a*), gli organi
 <sup>8</sup> Il SAS informa l’Ufficio federale in merito all’adeguamento, alla sospensione e alla revoca dell’accreditamento.
 
 [^17a-1]: Introdotto dalla cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^17a-2]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^17a-2]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 #### Art. 17b
 
@@ -364,8 +379,8 @@ L’inserimento nell’allegato 2 consente la notifica secondo:
 <sup>3</sup> Gli organi che vogliono essere notificati devono presentare domanda all’Ufficio federale. È possibile presentarla contemporaneamente alla domanda di riconoscimento.
 
 [^17c-1]: Introdotto dalla cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^17c-2]: [RS 0.946.526.81](https://fedlex.data.admin.ch/eli/cc/2002/276)
-[^17c-3]: [RS 0.741.411](https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468)
+[^17c-2]: [RS 0.946.526.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4341)
+[^17c-3]: [RS 0.741.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2837)
 
 #### Art. 17d
 
@@ -400,12 +415,13 @@ Il riconoscimento per l’esecuzione di un esame tecnico è revocato:
 
 Le prescrizioni e i documenti relativi agli esami sono retti da:
 
-- a. l’ordinanza del 19 giugno 1995[^19-2] concernente le esigenze tecniche per i veicoli stradali (OETV) e dagli atti normativi e norme internazionali ivi elencati;
+- a.[^19-2] l’OETV[^19-3] e dagli atti normativi e norme internazionali ivi elencati
 - b. la presente ordinanza;
 - c. le istruzioni basate sull’OETV e sulla presente ordinanza nonché da ulteriori regolamentazioni ufficiali relative agli esami tecnici.
 
 [^19-1]: Nuovo testo giusta la cifra I dell’O del 15 gen. 2025, in vigore dal 1° mag. 2025 ([RU 2025 71](https://fedlex.data.admin.ch/eli/oc/2025/71)).
-[^19-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^19-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^19-3]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 19a
 
@@ -472,19 +488,19 @@ Se in occasione dell’esame tecnico è accertato che l’oggetto sottoposto a e
 
 [^25-1]: Nuovo testo giusta la cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 
-## Capitolo 3: Esame della conformità
+## Capitolo 3: Verifica della conformità
 
 #### Art. 26
 
 **Principi**
 
-<sup>1</sup> L’Ufficio federale può in ogni tempo ordinare esami della conformità.[^26-1]
+<sup>1</sup> L’Ufficio federale può in ogni tempo ordinare verifiche della conformità.[^26-1]
 
-<sup>2</sup> L’esame della conformità è eseguito dall’Ufficio federale sulla base dei giustificativi e dei documenti o in collaborazione con i servizi d’esame competenti.[^26-2]
+<sup>2</sup> La verifica della conformità è eseguita dall’Ufficio federale sulla base dei giustificativi e dei documenti o in collaborazione con i servizi d’esame competenti.[^26-2]
 
-<sup>2</sup> L’esame della conformità è eseguito dall’Ufficio federale sulla base di documenti e giustificativi o in collaborazione con il competente organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1.[^26-3]
+<sup>3</sup> La verifica della conformità è eseguita dall’Ufficio federale sulla base di documenti e giustificativi o in collaborazione con il competente organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1.[^26-3]
 
-<sup>4</sup> Possono essere disposti esami della conformità anche per oggetti immatricolati sulla base di una scheda tecnica, di una valutazione della conformità o di una certificazione della conformità.[^26-4]
+<sup>4</sup> Possono essere disposte verifiche della conformità anche per oggetti immatricolati sulla base di una scheda tecnica, di una valutazione della conformità o di una certificazione della conformità.[^26-4]
 
 [^26-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 [^26-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
@@ -497,9 +513,9 @@ Se in occasione dell’esame tecnico è accertato che l’oggetto sottoposto a e
 
 <sup>1</sup> L’Ufficio federale sceglie a caso il modello da esaminare tra un numero di oggetti del tipo interessato oppure incarica l’organo di controllo riconosciuto ai sensi dell’articolo 17 capoverso 1 di effettuare questa scelta.[^27-1]
 
-<sup>2</sup> L’esame della conformità è eseguito secondo le prescrizioni d’esame che erano servite da base per il rilascio dell’approvazione del tipo.
+<sup>2</sup> La verifica della conformità è eseguita secondo le prescrizioni d’esame che erano servite da base per il rilascio dell’approvazione del tipo.
 
-<sup>3</sup> Gli esami della conformità disciplinati dalle convenzioni ratificate dalla Svizzera sono eseguiti secondo le prescrizioni d’esame di tali convenzioni.
+<sup>3</sup> Le verifiche della conformità disciplinate dalle convenzioni ratificate dalla Svizzera sono eseguite secondo le prescrizioni d’esame di tali convenzioni.
 
 [^27-1]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
@@ -575,7 +591,7 @@ L’Ufficio federale revoca al titolare l’approvazione del tipo se:
 
 <sup>1</sup>
 
-L’Ufficio federale può decidere che i veicoli, le parti staccate di veicoli, gli accessori d’equipaggiamento e i dispositivi di protezione non possano essere messi in circolazione se:[^31a-3]
+L’Ufficio federale può decidere che i veicoli, le parti staccate di veicoli, gli accessori d’equipaggiamento e i dispositivi di protezione non possano essere immessi sul mercato se:[^31a-3]
 
 - a. le prove, le informazioni o gli oggetti richiesti non sono esibiti entro un termine adeguato; oppure
 - b. l’oggetto non corrisponde al tipo approvato o alle prescrizioni e se gli oggetti dello stesso tipo messi in circolazione o pronti per la vendita non sono stati richiamati, controllati e riparati entro il termine fissato.
@@ -584,13 +600,13 @@ L’Ufficio federale può decidere che i veicoli, le parti staccate di veicoli, 
 
 [^31a-1]: Introdotto dalla cifra I dell’O del 2 set. 1998, in vigore dal 1° ott. 1998 ([RU 1998 2501](https://fedlex.data.admin.ch/eli/oc/1998/2501_2501_2501)).
 [^31a-2]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
-[^31a-3]: Nuovo testo giusta la cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
+[^31a-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 
 #### Art. 31b
 
 **Richiamo**[^31b-1]
 
-<sup>1</sup> L’Ufficio federale può ordinare un richiamo sulla base di un esame della conformità o di un’altra constatazione secondo cui un oggetto non corrisponde o non corrisponde più al tipo approvato.
+<sup>1</sup> L’Ufficio federale può ordinare un richiamo sulla base di una verifica della conformità o di un’altra constatazione secondo cui un oggetto non corrisponde o non corrisponde più al tipo approvato.
 
 <sup>2</sup> Una volta ricevuto l’ordine, il titolare dell’approvazione del tipo deve avviare l’azione di richiamo. Egli è tenuto a richiamare, controllare e riassettare tutti gli oggetti dello stesso tipo messi in circolazione o pronti alla vendita.
 
@@ -608,109 +624,13 @@ Se l’Ufficio federale constata che un tipo approvato non dà tutte le garanzie
 
 [^31c-1]: Introdotto dalla cifra I dell’O del 14 ott. 2009, in vigore dal 1° apr. 2010 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)).
 
-## Capitolo 4: Emolumenti
+## Capitolo 4: ...
 
-#### Art. 32
+#### Art. 32 a 42
 
-**Campo d’applicazione**[^32-1]
+[^3242-1]
 
-L’Ufficio federale riscuote per i suoi atti ufficiali emolumenti giusta l’allegato 3.
-
-[^32-1]: Nuovo testo giusta la cifra I dell’O del 6 set. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-
-#### Art. 33
-
-**Obbligo di versare gli emolumenti**
-
-<sup>1</sup> Deve versare l’emolumento chi richiede un atto ufficiale giusta l’allegato 3. Gli esborsi sono calcolati a parte.
-
-<sup>2</sup> Se per un atto ufficiale più persone sono tenute a versare emolumenti, esse rispondono in solido.
-
-#### Art. 34
-
-**Esonero dall’obbligo di versare gli emolumenti**[^34-1]
-
-Le autorità e le istituzioni di Confederazione, Cantoni e Comuni possono essere esonerate dagli emolumenti qualora l’atto ufficiale avvenga a loro favore.
-
-[^34-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)).
-
-#### Art. 35
-
-**Preventivo**
-
-L’Ufficio federale informa preventivamente quanti sono tenuti a versare gli emolumenti sull’ammontare degli stessi qualora si tratti di atti ufficiali onerosi.
-
-#### Art. 36
-
-**Anticipo**
-
-In casi motivati l’Ufficio federale può esigere un anticipo sugli emolumenti. Se l’anticipo non è effettuato, non si procede all’atto ufficiale.
-
-#### Art. 37
-
-**Supplemento sugli emolumenti**
-
-L’Ufficio federale può prelevare supplementi fino al 50 per cento dell’emolumento giusta l’allegato 3, segnatamente se:
-
-- a.[^37-1] gli atti ufficiali, su richiesta motivata del richiedente, eccezionalmente sono trattati in modo prioritario;
-- b.[^37-2] ...
-- c. il trattamento amministrativo dei giustificativi richiede un impiego straordinario di tempo;
-- d.[^37-3] ...
-
-[^37-1]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)).
-[^37-2]: Abrogata dalla cifra I dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-[^37-3]: Abrogata dalla cifra I dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-
-#### Art. 38
-
-**Esborsi**
-
-Sono esborsi le spese relative a un singolo atto ufficiale, segnatamente:
-
-- a. spese per ricerca di giustificativi;
-- b. porti, spese per telefono e fax;
-- c. spese per stampati;
-- d. spese di viaggio e trasporto;
-- e. spese per carburante;
-- f. dazi.
-
-#### Art. 39
-
-**Riduzione o condono degli emolumenti**
-
-Per motivi importanti l’Ufficio federale può ridurre o condonare gli emolumenti, segnatamente se:
-
-- a. l’atto ufficiale è nel suo interesse;
-- b<sup>.</sup>[^39-1] dev’essere eseguita una modifica dell’approvazione del tipo senza colpa del richiedente.
-
-[^39-1]: Nuovo testo giusta la cifra I dell’O del 6 set. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
-
-#### Art. 40
-
-**Decisione**
-
-Su richiesta della persona tenuta a versare gli emolumenti, questi sono oggetto di una decisione formale.
-
-#### Art. 41
-
-**Esigibilità**
-
-<sup>1</sup>
-
-L’emolumento è esigibile:
-
-- a. con la notificazione alla persona tenuta a versarlo;
-- b. in caso d’impugnazione, al momento in cui la decisione su ricorso passa in giudicato.
-
-<sup>2</sup> Il termine di pagamento è di 30 giorni a partire dall’esigibilità.
-
-#### Art. 42
-
-**Prescrizione**
-
-<sup>1</sup> Il credito dell’emolumento si prescrive in cinque anni a partire dall’esigibilità.
-
-<sup>2</sup> La prescrizione è interrotta da ogni atto amministrativo con il quale l’emolumento è fatto valere presso la persona tenuta a versarlo.
+[^3242-1]: Abrogati dalla cifra I della cifra I dell’O del 15 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 
 ## Capitolo 5: Disposizioni penali
 
@@ -744,27 +664,35 @@ L’emolumento è esigibile:
 
 #### Art. 45
 
-**Esecuzione**
+**Esecuzione**[^45-1]
 
-<sup>1</sup> Per l’esecuzione della presente ordinanza l’Ufficio federale può emanare direttive e istruzioni. In casi speciali può permettere deroghe a singole disposizioni.[^45-1]
+<sup>1</sup>
 
-<sup>2</sup> Oltre alla verificazione di conformità giusta gli articoli 26 e seguenti, esso può disciplinare la sorveglianza dei veicoli immatricolati.
+Per l’esecuzione della presente ordinanza l’Ufficio federale può emanare direttive e istruzioni. In particolare, disciplina:
 
-[^45-1]: Nuovo testo giusta la cifra I dell’O del 6 set. 2000, in vigore dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
+- a. le procedure di trasmissione per lo scambio di documenti;
+- b. l’esonero dall’approvazione del tipo.
+
+<sup>2</sup> In casi particolari può concedere deroghe per il rilascio di un’approvazione del tipo secondo gli articoli 3 e 13, per l’esonero dall’approvazione del tipo secondo l’articolo 4 e per le approvazioni secondo il diritto straniero o internazionale di cui all’articolo 15.
+
+<sup>3</sup> Oltre alla verifica della conformità, può disciplinare la sorveglianza dei veicoli immatricolati.
+
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 
 #### Art. 46
 
-**Diritto previgente: abrogazione**
+**Modifica di un altro atto normativo**[^46-1]
 
-Sono abrogati gli articoli 98 a 104 dell’ordinanza del 27 ottobre 1976[^46-1] sull’ammissione alla circolazione di persone e veicoli alla circolazione (OAC).
+Gli articoli 98–104 OAC[^46-2] sono abrogati.
 
-[^46-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
+[^46-2]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 47
 
-**Disposizioni transitorie**
+[^47-1]
 
-Chi, prima dell’entrata in vigore della presente ordinanza, ha iscritto definitivamente per l’approvazione del tipo veicoli, telai, sistemi e parti staccate di veicoli, accessori d’equipaggiamento o dispositivi di protezione, soggiace al diritto previgente. La procedura dell’approvazione del tipo con o senza esame tecnico secondo la presente ordinanza può tuttavia essere applicata già a partire dal 1° luglio 1995.
+[^47-1]: Abrogato dalla cifra I della cifra I dell’O del 15 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 
 #### Art. 47a
 
@@ -809,8 +737,8 @@ Sottostanno all’approvazione del tipo i veicoli e oggetti seguenti, fabbricati
   - – ciclomotori leggeri;
   - – sedie a rotelle con dispositivo di propulsione elettrica e una velocità massima di 10 km/h.
 
-[^annex1-lvlu1-lvl1-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^annex1-lvlu1-lvl1-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-lvl1-1]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
+[^annex1-lvlu1-lvl1-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 2 Sistemi di veicoli, parti staccate di veicoli, accessori d’equipaggiamento e dispositivi di protezione per gli utenti dei veicoli (art. 4 cpv. 7)
 
@@ -872,7 +800,7 @@ Sottostanno all’approvazione del tipo i veicoli e oggetti seguenti, fabbricati
   - – impianti di radiocomunicazione;
   - – componenti elettroniche che influiscono sulle caratteristiche concernenti i gas di scarico, il livello sonoro o le prestazioni del veicolo e che non corrispondono al modello approvato per il tipo di veicolo.
 
-[^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1-lvlu1-lvl2-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 Allegato 2[^t-2]
 
@@ -904,42 +832,7 @@ QUINEL AG Elsihof 3 6035 Perlen
 
 Allegato 3[^t-3]
 
-(art. 32)
-
-## Emolumenti
-
-[^t-3]: Aggiornato dalla cifra II cpv. 2 dell’O del 6 sett. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)), dalla cifra II dell’O del 21 ago. 2002 ([RU 2002 3310](https://fedlex.data.admin.ch/eli/oc/2002/488)), dalla cifra II dell’O del 10 giu. 2005 ([RU 2005 4193](https://fedlex.data.admin.ch/eli/oc/2005/549)), dalla cifra II cpv. 1 delle O del 29 nov. 2006 ([RU 2007 95](https://fedlex.data.admin.ch/eli/oc/2007/24)), del 14 ott. 2009 ([RU 2009 5805](https://fedlex.data.admin.ch/eli/oc/2009/700)), dall’all. 4 n. II 10 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dalla cifra I dell’O dell’8 set. 2021, in vigore dal 1° gen. 2022 ([RU 2021 570](https://fedlex.data.admin.ch/eli/oc/2021/570)).
-
-<table>
-<tr><td>1</td><td>Emolumenti per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
-<tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
-<tr><td></td><td></td><td>Fr.</td></tr>
-<tr><td>1.1</td><td>trattamento amministrativo</td><td>200.—</td></tr>
-<tr><td>1.2</td><td>rilascio dell’approvazione del tipo o della scheda tecnica</td><td>100.—</td></tr>
-<tr><td>1.3</td><td>carta supplementare, complementi, aggiunte e correzioni</td><td>200.—</td></tr>
-<tr><td>2</td><td>…</td><td></td></tr>
-<tr><td>3</td><td>Emolumenti suppletivi per l’approvazione del tipo di veicoli e telai</td><td></td></tr>
-<tr><td></td><td>L’emolumento suppletivo ammonta per ogni veicolo immatricolato:</td><td></td></tr>
-<tr><td>3.1</td><td>Autoveicoli</td><td>5.50</td></tr>
-<tr><td>3.2</td><td>Rimorchi, motoveicoli e altri veicoli a motore</td><td>4.—</td></tr>
-<tr><td>3.3</td><td>Ciclomotori e veicoli equiparati ai ciclomotori</td><td>1.50</td></tr>
-<tr><td></td><td>Come prova dell’avvenuto pagamento dell’emolumento suppletivo per veicoli a motore e rimorchi serve una marca di controllo che il titolare dell’approvazione del tipo (secondo l’allegato 1 n. 1.1) deve incollare sul rapporto di esame per veicoli. Rapporti d’esame senza marca di controllo sono respinti. Per approvazioni del tipo eseguite volontariamente, non è necessario incollare la marca di controllo sul rapporto di esame. L’emolumento suppletivo per ciclomotori e per i veicoli equiparati ai ciclomotori è riscosso dal servizio di omologazione presso il titolare dell’approvazione del tipo sulla base di apposite liste (art. 92 cpv. 4 OAC[^annex3-lvlu1-1]). L’Ufficio federale può consultare la dichiarazione doganale.</td><td></td></tr>
-<tr><td>4</td><td>Emolumenti per le approvazioni del tipo di parti staccate di veicoli, sistemi di veicoli, accessori d’equipaggiamento e dispositivi di protezione</td><td></td></tr>
-<tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
-<tr><td></td><td></td><td>Fr.</td></tr>
-<tr><td>4.1</td><td>Approvazioni del tipo con validità nazionale</td><td>100.—</td></tr>
-<tr><td>4.2</td><td>Approvazioni del tipo con validità internazionale</td><td>300.—</td></tr>
-<tr><td>4.3</td><td>Elaborazione di un set dati di silenziatori di sostituzione e catalizzatori di sostituzione con una valutazione della conformità o una certificazione della conformità oppure con un’approvazione equivalente secondo la legislazione svizzera al fine di registrarlo sull’approvazione del tipo</td><td></td></tr>
-<tr><td></td><td>Per approvazione del tipo elaborata</td><td>50.—</td></tr>
-<tr><td>5</td><td>Emolumenti in funzione del tempo impiegato</td><td></td></tr>
-<tr><td></td><td>Per l’esame amministrativo di giustificativi e documenti l’emolumento varia tra 70 e 120 franchi per ora di lavoro impiegata. Esso dipende dal volume e dalla difficoltà del lavoro e si applica alle prestazioni che non corrispondono al volume ordinario dell’esame.</td><td></td></tr>
-<tr><td>6</td><td>Emolumenti per l’esame della conformità</td><td></td></tr>
-<tr><td></td><td>L’emolumento ammonta a:</td><td></td></tr>
-<tr><td>6.1</td><td>Forfait per esami della conformità della durata fino a 4 ore</td><td>500.—</td></tr>
-<tr><td>6.2</td><td>Per ogni ulteriore ora iniziata</td><td>100.—</td></tr>
-</table>
-
-[^annex3-lvlu1-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^t-3]: Abrogato dalla cifra II della cifra I dell’O del 15 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 651](https://fedlex.data.admin.ch/eli/oc/2025/651)).
 
 Allegato 4[^t-4]
 
@@ -947,4 +840,4 @@ Allegato 4[^t-4]
 
 Allegato 5[^t-5]
 
-[^t-5]: Abrogato dalla cifra II cpv. 3 dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363)).
+[^t-5]: Abrogato dalla cifra II cpv. 3 dell’O del 6 set. 2000, con effetto dal 1° ott. 2000 ([RU 2000 2291](https://fedlex.data.admin.ch/eli/oc/2000/363))..
