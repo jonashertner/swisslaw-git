@@ -4,13 +4,12 @@ number: "170.211"
 title: Ordonnance sur les conférences régionales
 short: OCR
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-08
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 2007-10-24
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2896/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3231/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2896/pdf_file"
 
 (OCR)
 
-du 24.10.2007 (état au 01.01.2024)
+du 24.10.2007 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -163,7 +162,7 @@ arrête:
 
 <sup>1</sup> Périmètre: La conférence régionale de Biel/Bienne-Seeland-Jura bernois englobe le territoire des arrondissements administratifs de Biel/Bienne, du Seeland et du Jura bernois (régions administratives du Seeland et du Jura bernois) qui comprennent les communes énumérées ci-dessous.
 
-<sup>2</sup> Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Evilard (Leubringen), Finsterhennen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Ins, Ipsach, Jens, Kallnach, Kappelen, La Ferrière, La Neuveville, Lengnau (BE), Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Moutier, Müntschemier, Nidau, Nods, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, , Pieterlen, Plateau de Diesse, Port, Radelfingen, Rapperswil (BE), Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüti bei Büren, Safnern, Saicourt, Sauge, Saules (BE), Schelten, Scheuren, Schüpfen, Schwadernau, Seedorf (BE), Seehof, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, St-Imier, Studen (BE), Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz, Valbirse, Villeret, Vinelz, Walperswil, Wengi, Worben.
+<sup>2</sup> Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Belprahon, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Eschert, Evilard, Finsterhennen, Gals, Gampelen, Grandval, Grossaffoltern, Hagneck, Hermrigen, Ins, Ipsach, Jens, Kallnach, Kappelen, La Ferrière, La Neuveville, Lengnau (BE), Leuzigen, Ligerz, Loveresse, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mont-Tramelan, Mörigen, Müntschemier, Nidau, Nods, Oberwil bei Büren, Orpund, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Pieterlen, Plateau de Diesse, Port, Radelfingen, Rapperswil (BE), Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Rüti bei Büren, Safnern, Saicourt, Sauge, Saules (BE), Schelten, Scheuren, Schüpfen, Schwadernau, Seedorf (BE), Seehof, Siselen, Sonceboz-Sombeval, Sonvilier, Sorvilier, St-Imier, Studen (BE), Sutz-Lattrigen, Täuffelen, Tavannes, Tramelan, Treiten, Tschugg, Twann-Tüscherz, Valbirse, Villeret, Vinelz, Walperswil, Wengi, Worben.
 
 #### Art. A1-2
 
