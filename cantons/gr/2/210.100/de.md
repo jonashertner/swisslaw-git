@@ -4,13 +4,12 @@ number: "210.100"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EGzZGB
 language: de
-version: 2025-01-01
-corrected: 2025-01-06
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3385/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3806/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3385/pdf_file"
 
 (EGzZGB)[^t-1]
 
-Vom 12.06.1994 (Stand 01.01.2025)
+Vom 12.06.1994 (Stand 01.01.2026)
 
 Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
@@ -160,11 +159,14 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **4. Die kantonale Verwaltung**
 
-<sup>1</sup> Für die sofortige Ausweisung gemäss Artikel 28b Absatz 4 ist die Kantonspolizei zuständig. Das Verfahren richtet sich nach dem Polizeigesetz[^15a-1].
+<sup>1</sup> Für die sofortige Ausweisung gemäss Artikel 28b Absatz 4 ist die Kantonspolizei zuständig. Das Verfahren richtet sich nach dem Polizeigesetz des Kantons Graubünden[^15a-1], soweit dieses die Ausweisung regelt.
 
 <sup>2</sup> …
 
+<sup>3</sup> Der Vollzug der elektronischen Überwachung von zivilrechtlichen Ausweisungen, Orts-, Annäherungs- und Kontaktverboten richtet sich nach dem Einführungsgesetz zur Schweizerischen Zivilprozessordnung[^15a-2].
+
 [^15a-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
+[^15a-2]: BR [320.100](https://www.gr-lex.gr.ch/data/320.100/de)
 
 #### Art. 16
 
@@ -300,11 +302,11 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 #### Art. 21a
 
-**II. Aufsicht über Personalfürsorgestiftungen**
+**II. Aufsicht über Einrichtungen der beruflichen Vorsorge**
 
-<sup>1</sup> Für Personalfürsorgestiftungen gelten die Interkantonale Vereinbarung über die Ostschweizer BVG- und Stiftungsaufsicht[^21a-1] und das Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^21a-2].
+<sup>1</sup> Für Einrichtungen der beruflichen Vorsorge gelten die Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin (IVBSA)[^21a-1] und das Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^21a-2].
 
-[^21a-1]: BR [219.160](https://www.gr-lex.gr.ch/data/219.160/de)
+[^21a-1]: BR [219.140](https://www.gr-lex.gr.ch/data/219.140/de)
 [^21a-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
 #### Art. 22
@@ -342,11 +344,11 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **VI. Rechtsmittel**
 
-<sup>1</sup> Verfügungen der Aufsichts- und Umwandlungsbehörde können gestützt auf das Gesetz über die Verwaltungsrechtspflege[^25a-1] an das vorgesetzte Departement weitergezogen werden.
+<sup>1</sup> Verfügungen der Aufsichts- und Umwandlungsbehörde können gemäss Zivilprozessordnung[^25a-1] an das Obergericht weitergezogen werden.
 
-<sup>2</sup> Entscheide des Departements können mit Berufung gemäss Zivilprozessordnung an das Obergericht weitergezogen werden.
+<sup>2</sup> …
 
-[^25a-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
+[^25a-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 ### 2.1.3. Allmendgenossenschaften und ähnliche Körperschaften
 
@@ -844,9 +846,9 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 <sup>1</sup> Das Obergericht ist die gerichtliche Beschwerdeinstanz.
 
-<sup>2</sup> Zwischenentscheide der Kindes- und Erwachsenenschutzbehörde können innert zehn Tagen seit ihrer Mitteilung beim Kantonsgericht angefochten werden.
+<sup>2</sup> Zwischenentscheide der Kindes- und Erwachsenenschutzbehörde können innert zehn Tagen seit ihrer Mitteilung beim Obergericht angefochten werden.
 
-<sup>3</sup> Das Kantonsgericht ist an die Parteianträge nicht gebunden und erforscht den Sachverhalt von Amtes wegen. Neue Tatsachen und Beweismittel sind zugelassen.
+<sup>3</sup> Das Obergericht ist an die Parteianträge nicht gebunden und erforscht den Sachverhalt von Amtes wegen. Neue Tatsachen und Beweismittel sind zugelassen.
 
 <sup>4</sup> Für gesetzliche und behördlich angeordnete Fristen gilt kein Fristenstillstand. Die Parteien sind darauf hinzuweisen.
 
@@ -1572,16 +1574,18 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 - 1\. für die auf die Grundstücke entfallenden Wertzuwachs-, Handänderungs- und Liegenschaftssteuern von Kanton, Gemeinden und übrigen öffentlich-rechtlichen Körperschaften;
 - 2\. für die Kosten der Ersatzvornahme der Gemeinde und des Kantons gemäss Artikel 73 Absatz 3, Artikel 79 Absatz 4, Artikel 84 Absatz 3 und Artikel 94 Absatz 3 des kantonalen Raumplanungsgesetzes[^131-1];
-- 3\. für die von den Gemeinden gestützt auf Artikel 19m des kantonalen Raumplanungsgesetzes veranlagten Mehrwertabgaben.
+- 3\. für die von den Gemeinden gestützt auf Artikel 19m des kantonalen Raumplanungsgesetzes veranlagten Mehrwertabgaben;
+- 4\. für Rückforderungsansprüche des Kantons gemäss Artikel 11 des Gesetzes über die Förderung von Wohnraum[^131-2].
 
 <sup>2</sup> Ein allen anderen Pfandrechten vorgehendes Pfandrecht besteht:
 
 - 1\. für die vom Grundeigentümer geschuldeten Prämien der Gebäudeversicherungsanstalt;
 - 2\. für die auf Liegenschaften und Gebäulichkeiten entfallenden Beiträge an öffentliche Unternehmungen (Flusskorrektionen, Wildbachverbauungen, Verkehrsanlagen, Wasserversorgungen, Kanalisationen, elektrische Anlagen, Quartierplanungen, Baulandumlegungen und dergleichen), unter Ausschluss der wiederkehrenden Benutzungsgebühren;
-- 3\. für die vom Grundeigentümer geschuldeten Beiträge gemäss Artikel 33 des Meliorationsgesetzes[^131-2].
+- 3\. für die vom Grundeigentümer geschuldeten Beiträge gemäss Artikel 33 des Meliorationsgesetzes[^131-3].
 
 [^131-1]: BR [801.100](https://www.gr-lex.gr.ch/data/801.100/de)
-[^131-2]: BR [915.100](https://www.gr-lex.gr.ch/data/915.100/de)
+[^131-2]: BR [950.250](https://www.gr-lex.gr.ch/data/950.250/de)
+[^131-3]: BR [915.100](https://www.gr-lex.gr.ch/data/915.100/de)
 
 #### Art. 132
 
@@ -1879,7 +1883,7 @@ Vom Volke angenommen am 12. Juni 1994[^ingress-1]
 
 **I. Eheliches Güterrecht 1. Güterrechtsregister**
 
-<sup>1</sup> Das Güterrechtsregister wird beim Handelsregisteramt aufbewahrt. Es führt die Verzeichnisse betreffend die Beibehaltung der Güterverbindung gemäss Artikel 9e Absatz 1 SchlT und die Unterstellung unter das neue Recht gemäss Artikel 10b Absatz 1 SchlT.
+<sup>1</sup> Das Güterrechtsregister wird beim Amt für Grundbuch und Handelsregister aufbewahrt. Es führt die Verzeichnisse betreffend die Beibehaltung der Güterverbindung gemäss Artikel 9e Absatz 1 SchlT und die Unterstellung unter das neue Recht gemäss Artikel 10b Absatz 1 SchlT.
 
 #### Art. 151
 
