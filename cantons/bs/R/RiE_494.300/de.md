@@ -4,13 +4,12 @@ number: RiE 494.300
 title: Reglement betreffend die Förderung der Bildenden Kunst durch die Gemeinde Riehen
 short: Reglement Bildende Kunst
 language: de
-version: 2022-05-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-29
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2022-03-29
 in_force: 2022-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20494.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5509/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6691/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bildende Kunst und Denkmalschutz
 
 (Reglement Bildende Kunst)
 
-Vom 29. März 2022 (Stand 1. Mai 2022)
+Vom 29. März 2022 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen,
 
@@ -104,6 +103,8 @@ beschliesst:
 <sup>1</sup> Die Kommission tritt auf Einladung des Präsidiums so oft zusammen, als es die Geschäfte erfordern. Sie ist bei Anwesenheit von vier Mitgliedern (inklusive Präsidium) beschlussfähig.
 
 <sup>2</sup> Bei Stimmengleichheit entscheidet das Präsidium.
+
+<sup>3</sup> Das Sekretariat wird von der zuständigen Verwaltungsabteilung sichergestellt.
 
 #### § 8
 
