@@ -4,13 +4,12 @@ number: "150.200"
 title: Ordinaziun davart ils dretgs politics en il chantun Grischun
 short: ODPC
 language: rm
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-08-15
+version: 2026-01-01
+version_adopted: 2025-08-12
 adopted: 2005-09-20
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3339/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3565/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3339/pdf_file"
 
 (ODPC)
 
-dals 20-09-2005 (versiun dals 01-01-2024)
+dals 20-09-2005 (versiun dals 01-01-2026)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 104 da la lescha davart ils dretgs politics en il chantun Grischun[^ingress-2]
 
@@ -316,7 +315,7 @@ relaschada da la regenza ils 20 da settember 2005
 
 **Successiun da las candidatas e dals candidats**
 
-<sup>1</sup> La glista da selecziun per la votaziun electronica sto inditgar en successiun alfabetica las candidatas ed ils candidats proponids valaivlamain, e l'emprim las candidatas ed ils candidats ch'eran gia en uffizi.
+<sup>1</sup> La glista da selecziun per la votaziun electronica sto inditgar en successiun alfabetica las candidatas ed ils candidats proponids valaivlamain. Tar las candidatas ed ils candidats ch'eran gia en uffizi, vegn ultra da quai agiuntada la remartga "fin ussa".
 
 ## 5a. Procedura d'annunzia per elecziuns da maiorz a l'urna
 

@@ -4,13 +4,12 @@ number: "150.200"
 title: Ordinanza sui diritti politici nel Cantone dei Grigioni
 short: ODPC
 language: it
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-08-15
+version: 2026-01-01
+version_adopted: 2025-08-12
 adopted: 2005-09-20
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3339/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3565/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3339/pdf_file"
 
 (ODPC)
 
-del 20.09.2005 (stato 01.01.2024)
+del 20.09.2005 (stato 01.01.2026)
 
 emanata dal Governo il 20 settembre 2005
 
@@ -316,7 +315,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 104 del
 
 **Successione dei candidati**
 
-<sup>1</sup> Sull'elenco di selezione per il voto elettronico i candidati validamente proposti devono essere elencati in ordine alfabetico, dapprima i candidati uscenti.
+<sup>1</sup> Sull'elenco di selezione per il voto elettronico i candidati validamente proposti devono essere elencati in ordine alfabetico. Nel caso di candidati uscenti deve essere aggiunta l'annotazione «uscente».
 
 ## 5a. Procedura di annuncio per elezioni svolte alle urne secondo il sistema maggioritario
 

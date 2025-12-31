@@ -4,13 +4,12 @@ number: "150.200"
 title: Verordnung über die politischen Rechte im Kanton Graubünden
 short: VPR
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-08-15
+version: 2026-01-01
+version_adopted: 2025-08-12
 adopted: 2005-09-20
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3339/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3565/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3339/pdf_file"
 
 (VPR)
 
-Vom 20.09.2005 (Stand 01.01.2024)
+Vom 20.09.2005 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 104 des Gesetzes über die politischen Rechte im Kanton Graubünden[^ingress-2]
 
@@ -316,7 +315,7 @@ von der Regierung erlassen am 20. September 2005
 
 **Reihenfolge der Kandidierenden**
 
-<sup>1</sup> Auf der Auswahlliste für die elektronische Stimmabgabe sind die gültig vorgeschlagenen Kandidierenden in alphabetischer Reihenfolge, zuerst die bisherigen Amtsinhaberinnen und Amtsinhaber, aufzuführen.
+<sup>1</sup> Auf der Auswahlliste für die elektronische Stimmabgabe sind die gültig vorgeschlagenen Kandidierenden in alphabetischer Reihenfolge aufzuführen. Bei den bisherigen Amtsinhaberinnen und Amtsinhabern ist zusätzlich der Vermerk "bisher" anzubringen.
 
 ## 5a. Anmeldeverfahren für Majorzwahlen an der Urne
 
