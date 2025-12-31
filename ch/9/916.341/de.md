@@ -4,11 +4,11 @@ title: "Verordnung vom 26. November 2003 über den Schlachtvieh- und Fleischmark
 short: SV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2003-791-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/de"
 
 (Schlachtviehverordnung, SV)
 
-vom 26. November 2003 (Stand am 1. Januar 2024)
+vom 26. November 2003 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 21 Absatz 2, 22 Absatz 4, 49, 51 Absatz 1, 177 und 180
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## 1. Kapitel: Gegenstand und Geltungsbereich
@@ -36,7 +36,7 @@ verordnet:
 
 <sup>2</sup> Sie gilt für Schlachttiere der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung, deren Fleisch, Geflügelfleisch und Schlachtnebenprodukte der in Anhang 1 Ziffer 3 der Agrareinfuhrverordnung vom 26. Oktober 2011[^1-1] aufgeführten Zolltarifnummern.[^1-2]
 
-[^1-1]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^1-1]: [SR 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 [^1-2]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 ## 2. Kapitel: Einstufung der Qualität
@@ -187,7 +187,7 @@ Nicht anrechenbare Kosten sind insbesondere:
 - b. Betriebs- und Unterhaltskosten;
 - c. Kosten für einen allfälligen Landerwerb.
 
-[^8-1]: [SR 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^8-1]: [SR 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
 [^8-2]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 9
@@ -208,7 +208,7 @@ Gesuche um Infrastrukturbeiträge sind beim Kanton einzureichen. Dem Gesuch ist 
 
 <sup>4</sup> Die Anschaffungen dürfen erst getätigt werden, wenn die Beiträge rechtskräftig verfügt sind. Das BLW kann eine vorzeitige Anschaffung bewilligen, wenn das Abwarten der Rechtskraft der Verfügung mit schwerwiegenden Nachteilen verbunden wäre. Solche Bewilligungen geben jedoch keinen Anspruch auf Beiträge.
 
-[^9-1]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^9-1]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^9-2]: Ausdruck gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Die Anpassung wurde im ganzen Text vorgenommen.
 
 ## 4. Kapitel: Marktentlastungsmassnahmen
@@ -514,7 +514,7 @@ Je Versteigerung können einer zollkontingentanteilsberechtigten Person maximal 
 <sup>2</sup> Bei den übrigen Kontingentsanteilen beträgt die Zahlungsfrist 30 Tage ab dem Ausstelldatum der Verfügung.
 
 [^19-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
-[^19-2]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
+[^19-2]: [SR 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
 [^19-3]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 #### Art. 20
@@ -539,7 +539,7 @@ Je Versteigerung können einer zollkontingentanteilsberechtigten Person maximal 
 
 <sup>3</sup> Als Bemessungsperiode gilt der Zeitraum zwischen dem 18. (1. Juli) und 7. Monat (30. Juni) vor der betreffenden Kontingentsperiode.
 
-[^21-1]: [SR 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^21-1]: [SR 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 
 #### Art. 22
 
@@ -580,17 +580,19 @@ Anrechenbar sind:
 
 <sup>3</sup> Der Schlachtbetrieb kann seine Berechtigung an Tierhalter und Tierhalterinnen nach Artikel 11*a* der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^24-3], Viehhandelsunternehmen sowie Fleischverarbeitungs- und Fleischhandelsbetriebe abtreten.
 
-<sup>4</sup> Für die Zuteilung der Kontingentsanteile werden geschlachtete Tiere nur dann angerechnet, wenn der Schlachtbetrieb bei der Meldung der Schlachtung in der Tierverkehrsdatenbank seine eigene oder die TVD-Nummer des Abtretungsempfängers oder der Abtretungsempfängerin angegeben hat.
+<sup>4</sup> Für die Zuteilung der Kontingentsanteile werden geschlachtete Tiere nur dann angerechnet, wenn der Schlachtbetrieb bei der Meldung der Schlachtung in der Tierverkehrsdatenbank seine eigene TVD-Nummer oder Identifikationsnummer im Betriebs- und Unternehmensregister (BUR-Nummer) oder diejenige des Abtretungsempfängers oder der Abtretungsempfängerin angegeben hat.[^24-4]
 
 <sup>5</sup> Das BLW teilt die Kontingentsanteile nach dem Anteil an der Zahl aller rechtmässig geltend gemachten geschlachteten Tiere zu. Die Anteile werden in Prozenten zugeteilt. Für die Zuteilung ist eine GEB erforderlich.
 
 <sup>6</sup> Als Bemessungsperiode gilt der Zeitraum zwischen dem 18. (1. Juli) und 7. Monat (30. Juni) vor der betreffenden Kontingentsperiode.
 
-<sup>7</sup> Für die Berechnung der Kontingentsanteile sind die am 31. August vor Beginn der Kontingentsperiode vorhandenen Angaben in der Tierverkehrsdatenbank und die an diesem Datum eingetragenen TVD-Nummern massgebend.
+<sup>7</sup> Für die Berechnung der Kontingentsanteile sind die am 31. August vor Beginn der Kontingentsperiode vorhandenen Angaben in der Tierverkehrsdatenbank und die an diesem Datum eingetragenen TVD- und BUR-Nummern massgebend.[^24-5]
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2015 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^24-2]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^24-3]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^24-2]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^24-3]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^24-4]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^24-5]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 24a
 
@@ -609,15 +611,14 @@ Für die Zuteilung der Anteile am Teilzollkontingent Nr. 5.7 sind die folgenden 
 
 **Gesuche um Kontingentsanteile nach der Zahl der geschlachteten Tiere**[^24b-1]
 
-<sup>1</sup> Im Gesuch um Kontingentsanteile nach der Zahl der geschlachteten Tiere sind die GEB-Nummer und die TVD-Nummer der Gesuchstellerin nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021[^24b-2] über die Identitas AG und die Tierverkehrsdatenbank anzugeben.[^24b-3]
+<sup>1</sup> Im Gesuch um Kontingentsanteile nach der Zahl der geschlachteten Tiere sind die GEB-Nummer sowie die TVD-Nummer oder die BUR-Nummer der Gesuchstellerin anzugeben.[^24b-2]
 
 <sup>2</sup> Die Gesuche sind bis zum 31. August vor Beginn der Kontingentsperiode über das Internetportal Agate einzureichen.
 
 <sup>3</sup> Für die Zuteilung der Kontingentsanteile sind die am 31. August vor Beginn der Kontingentsperiode eingetragenen GEB-Nummern massgebend.
 
 [^24b-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^24b-2]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24b-3]: Fassung gemäss Anhang 3 Ziff. II 8 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24b-2]: Fassung gemäss Anhang Ziff. 5 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### 4. Abschnitt: Verzicht auf die Verteilung
 
@@ -633,7 +634,7 @@ Bei folgenden Produkten der Zollkontingente Nr. 05 und 06 wird auf eine Regelung
 <sup>2</sup> Bei genusstauglichen Schlachtnebenprodukten für die Tiernahrungskonservenindustrie und für die Herstellung von Gelatine (ex 0206.3091, ex 0206.4191 und ex 0206.4991) des T-K Nr. 5.7 wird auf eine Regelung zur Verteilung verzichtet. Die Einfuhren unterliegen den Bestimmungen von Artikel 14 des Zollgesetzes vom 18. März 2005[^25-2].[^25-3]
 
 [^25-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^25-2]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^25-2]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^25-3]: Fassung des zweiten Satzes gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 ### 5. Abschnitt: Rindfleisch hoher Qualität
@@ -659,9 +660,9 @@ Die Bescheinigung muss:
 
 <sup>3</sup> Die Zollstelle kontrolliert die Bescheinigung.
 
-[^25a-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^25a-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^25a-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^25a-3]: [SR 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
+[^25a-3]: [SR 0.632.231.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2261)
 [^25a-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 [^25a-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
@@ -684,7 +685,7 @@ Das BLW überträgt folgende Aufgaben an eine oder mehrere private Organisatione
 
 [^26-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^26-2]: Eingefügt durch Art. 62 Abs. 2 der V vom 16. Dez. 2016 über das Schlachten und die Fleischkontrolle, in Kraft seit 1. Mai 2017 ([AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)).
-[^26-3]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^26-3]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
 [^26-4]: Fassung gemäss Ziff. I der V vom 26. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 #### Art. 27

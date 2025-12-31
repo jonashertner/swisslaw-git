@@ -4,11 +4,11 @@ title: "Ordinanza del 26 novembre 2003 concernente il mercato del bestiame da ma
 short: OBM
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2003-791-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/it"
 
 (Ordinanza sul bestiame da macello, OBM)
 
-del 26 novembre 2003 (Stato 1° gennaio 2024)
+del 26 novembre 2003 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 21 capoverso 2, 22 capoverso 4, 49, 51 capoverso 1, 177 e 180
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## Capitolo 1: Oggetto e campo d’applicazione
 
@@ -36,8 +36,8 @@ ordina:
 
 <sup>2</sup> La presente ordinanza si applica agli animali da macello delle specie bovina, suina, equina, ovina e caprina, alle loro carni, alle carni di pollame e alle frattaglie delle voci di tariffa riportate nell’allegato 1 numero 3 dell’ordinanza del 26 ottobre 2011[^1-1] sulle importazioni agricole.[^1-2]
 
-[^1-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
-[^1-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^1-1]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 ## Capitolo 2: Classificazione della qualità
 
@@ -58,8 +58,8 @@ Sono eccettuati dal capoverso 1:
 - e.[^2-1] le macellazioni eseguite su mandato dei produttori in vista della commercializzazione diretta;
 - f.[^2-2] ...
 
-[^2-1]: Introdotta dal n. I dell’O del 26 ott. 2011 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^2-2]: Introdotta dal n. I dell’O del 26 ott. 2011 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Abrogata dal n. I dell’O del 6 nov. 2013, con effetto dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^2-1]: Introdotta dalla cifra I dell’O del 26 ott. 2011 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^2-2]: Introdotta dalla cifra I dell’O del 26 ott. 2011 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Abrogata dalla cifra I dell’O del 6 nov. 2013, con effetto dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 3
 
@@ -94,11 +94,11 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 <sup>5</sup> Sui mercati pubblici sorvegliati l’organizzazione incaricata effettua una classificazione neutrale della qualità degli animali vivi della specie bovina e ovina conformemente all’articolo 26 capoverso 1 lettera a.[^3-5]
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
-[^3-2]: Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^3-3]: Introdotto dal n. I dell’O del 14 nov. 2007 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)). Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
-[^3-4]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
-[^3-5]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^3-2]: Nuovo testo giusta l’all. 3 cifra II n. 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^3-3]: Introdotto dalla cifra I dell’O del 14 nov. 2007 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-4]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^3-5]: Introdotto dalla cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 4
 
@@ -118,8 +118,8 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 <sup>3</sup> Le spese d’investimento e d’esercizio degli apparecchi tecnici sono sostenute dai macelli.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 3 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 689](https://fedlex.data.admin.ch/eli/oc/2021/689)).
 
 ## Capitolo 2*a*: Determinazione del peso di macellazione
 
@@ -149,9 +149,9 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 <sup>5</sup> L’organizzazione incaricata allestisce, prima dell’inizio dell’anno civile, un programma annuale in cui figurano i mercati pubblici designati. Tale programma indica in particolare le piazze e i giorni dei singoli mercati nonché le categorie di animali che possono essere portate sul mercato.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^6-2]: Nuova espr. giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-3]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
+[^6-2]: Nuova espr. giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° lug. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 7
 
@@ -161,7 +161,7 @@ Nei macelli seguenti l’organizzazione incaricata effettua una classificazione 
 
 <sup>2</sup> Gli animali portati sul mercato pubblico devono essere venduti all’asta mediante appello pubblico.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
 
 #### Art. 8
 
@@ -188,8 +188,8 @@ Non sono considerate spese computabili in particolare:
 - b. le spese d’esercizio e di manutenzione;
 - c. le spese di un eventuale acquisto di terreni.
 
-[^8-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
-[^8-2]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^8-1]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 9
 
@@ -209,7 +209,7 @@ Le domande per l’ottenimento di contributi d’infrastruttura devono essere pr
 
 <sup>4</sup> Gli acquisti possono essere effettuati soltanto dopo che i contributi sono divenuti oggetto di una decisione passata in giudicato. L’UFAG può autorizzare un acquisto anticipato se l’attesa del passaggio in giudicato della decisione implicherebbe gravi svantaggi. Una simile autorizzazione non dà tuttavia diritto a contributi.
 
-[^9-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^9-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 ## Capitolo 4: Provvedimenti volti a sgravare il mercato
 
@@ -238,8 +238,8 @@ In caso d’offerta eccedentaria o di altre eccedenze temporanee, l’organizzaz
 
 <sup>3</sup> L’organizzazione incaricata, applicando i prezzi usuali di mercato da essa rilevati, assegna agli assoggettati al ritiro gli animali da ritirare.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^11-2]: Nuova espr. giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^11-2]: Nuova espr. giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 12
 
@@ -249,7 +249,7 @@ In caso d’offerta eccedentaria o di altre eccedenze temporanee, l’organizzaz
 
 <sup>2</sup> L’importo della garanzia è determinato sulla base dell’entità della quota del contingente e non deve superare i 300 000 franchi.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 13
 
@@ -309,7 +309,7 @@ l contingente doganale parziale «altro» comprende i seguenti CC:[^14-3]
 [^14-1]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 26 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)).
 [^14-2]: Introdotto dall’all. 2 n. 1 dell’O del 26 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)).
 [^14-3]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 26 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)).
-[^14-4]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^14-4]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 15
 
@@ -361,12 +361,12 @@ Per periodo d’importazione s’intende:
 
 <sup>5 e <sup>6</sup></sup> ...[^16-6]
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
-[^16-2]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
+[^16-2]: Introdotto dalla cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 [^16-3]: Nuovo testo giusta l’all. 2 n. 1 dell’O del 26 ago. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)).
-[^16-4]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
-[^16-5]: Introdotto dal n. I dell’O del 9 giu. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)). Nuovo testo giusta il n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
-[^16-6]: Abrogati dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-4]: Abrogato dalla cifra I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-5]: Introdotto dalla cifra I dell’O del 9 giu. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)). Nuovo testo giusta la cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16-6]: Abrogati dalla cifra I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 #### Art. 16a
 
@@ -382,7 +382,7 @@ Per periodo d’importazione s’intende:
 
 <sup>5</sup> L’UFAG può prolungare un periodo d’importazione soltanto nella misura in cui esso non si sovrapponga al periodo d’importazione successivo né superi l’anno civile.
 
-[^16a-1]: Introdotto dal n. I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^16a-1]: Introdotto dalla cifra I dell’O del 2 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 #### Art. 16b
 
@@ -393,7 +393,7 @@ In caso di difficoltà logistiche senza colpa a livello di importazione per caus
 - a. il quantitativo ammonti almeno a 500 kg e costituisca al massimo il 5 per cento del totale delle quote del contingente assegnate sulla base di una vendita all’asta e trasferite al richiedente per essere utilizzate; e
 - b. la domanda pervenga all’UFAG prima della scadenza del periodo d’importazione.
 
-[^16b-1]: Originario art. 16*a*. Introdotto dal n. I dell’O del 26 ott. 2011 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^16b-1]: Originario art. 16*a*. Introdotto dalla cifra I dell’O del 26 ott. 2011 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)). Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### Sezione 2: Assegnazione delle quote del contingente sulla base di una vendita all’asta
 
@@ -412,8 +412,8 @@ I quantitativi d’importazione seguenti stabiliti dall’UFAG secondo l’artic
 
 <sup>3</sup> Al momento dell’assegnazione, l’UFAG può, in funzione delle offerte pervenute, aumentare o ridurre al massimo del 25 per cento il quantitativo delle categorie di carne e di prodotti carnei 5.71–5.76, 6.41 e 6.42 messo all’asta. Le ulteriori disposizioni sono pubblicate nel bando.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^17-2]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 18
 
@@ -452,13 +452,13 @@ Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato
 
 <sup>5</sup> Se, per effetto del capoverso 4, il quantitativo di contingente doganale messo all’asta non viene completamente assegnato, il quantitativo rimanente è immediatamente oggetto di un nuovo bando generale senza che siano previste quote massime di assegnazione.[^18-7]
 
-[^18-1]: Nuovo testo giusta il n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^18-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^18-4]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^18-5]: Nuova espr. giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^18-6]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18-7]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-4]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18-5]: Nuova espr. giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^18-6]: Introdotto dalla cifra III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18-7]: Introdotto dalla cifra III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 18a
 
@@ -497,12 +497,12 @@ Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato
 
 <sup>5</sup> Se, per effetto del capoverso 4, il quantitativo di contingente doganale messo all’asta non viene completamente assegnato, il quantitativo rimanente è immediatamente oggetto di un nuovo bando generale senza che siano previste quote massime di assegnazione.[^18a-6]
 
-[^18a-1]: Introdotto dal n. I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
-[^18a-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^18a-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^18a-4]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^18a-5]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
-[^18a-6]: Introdotto dal n. III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-1]: Introdotto dalla cifra I dell’O del 9 giu. 2006, in vigore dal 1° ago. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)).
+[^18a-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-4]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^18a-5]: Introdotto dalla cifra III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
+[^18a-6]: Introdotto dalla cifra III dell’O del 25 giu. 2008, in vigore dal 1° ott. 2008 ([RU 2008 3559](https://fedlex.data.admin.ch/eli/oc/2008/459)).
 
 #### Art. 19
 
@@ -512,21 +512,21 @@ Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato
 
 <sup>2</sup> Per le altre quote del contingente il termine di pagamento è di 30 giorni dalla data in cui è emanata la decisione.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
-[^19-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^19-3]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 28 ott. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
+[^19-2]: [RS 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^19-3]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 #### Art. 20
 
 [^20-1]
 
-[^20-1]: Abrogato dal n. I dell’O del 28 ott. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
+[^20-1]: Abrogato dalla cifra I dell’O del 28 ott. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
 
 ### Sezione 3: Assegnazione delle quote del contingente in base al numero di animali acquistati all’asta su mercati pubblici sorvegliati
 
 [^chap5-sec3-1]
 
-[^chap5-sec3-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^chap5-sec3-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 21
 
@@ -538,7 +538,7 @@ Per ogni asta, a ciascun titolare di quote del contingente può essere assegnato
 
 <sup>3</sup> Per periodo di calcolo s’intende il periodo dal 18° (1° luglio) al 7° mese (30 giugno) precedenti il corrispondente periodo di contingentamento.
 
-[^21-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^21-1]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 
 #### Art. 22
 
@@ -561,13 +561,13 @@ Sono computabili:
 
 <sup>2</sup> Devono essere presentate prima dell’inizio del periodo di contingentamento, entro il giorno feriale successivo al 15 agosto.
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ### Sezione 3*a*: Assegnazione delle quote del contingente in base al numero di animali macellati
 
 [^chap5-sec3a-1]
 
-[^chap5-sec3a-1]: Introdotta dal n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^chap5-sec3a-1]: Introdotta dalla cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 24
 
@@ -579,17 +579,19 @@ Sono computabili:
 
 <sup>3</sup> Il macello può cedere il suo diritto a detentori di animali secondo l’articolo 11*a* dell’ordinanza del 7 dicembre 1998[^24-3] sulla terminologia agricola, ad aziende che commerciano bestiame nonché ad aziende dedite alla trasformazione e al commercio della carne.
 
-<sup>4</sup> Per l’assegnazione delle quote del contingente gli animali macellati sono computati soltanto se al momento della notifica della macellazione alla banca dati sul traffico di animali il macello ha indicato il suo numero BDTA o il numero BDTA del beneficiario della cessione.
+<sup>4</sup> Per l’assegnazione delle quote del contingente gli animali macellati sono computati soltanto se al momento della notifica della macellazione alla banca dati sul traffico di animali il macello ha indicato il numero BDTA o il numero d’identificazione del Registro delle imprese e degli stabilimenti (numero RIS) suo o del beneficiario della cessione.[^24-4]
 
 <sup>5</sup> L’UFAG assegna le quote del contingente secondo la quota sul numero totale di animali macellati fatti valere in modo legittimo. Le quote sono assegnate in percentuale. Per l’assegnazione è necessario un PGI.
 
 <sup>6</sup> Per periodo di calcolo s’intende il periodo dal 18° (1° luglio) al 7° mese (30 giugno) precedenti il corrispondente periodo di contingentamento.
 
-<sup>7</sup> Per il calcolo delle quote del contingente sono determinanti le informazioni contenute nella banca dati sul traffico di animali il 31 agosto precedente l’inizio del periodo di contingentamento e i numeri BDTA registrati a tale data.
+<sup>7</sup> Per il calcolo delle quote del contingente sono determinanti le informazioni contenute nella banca dati sul traffico di animali il 31 agosto precedente l’inizio del periodo di contingentamento e i numeri BDTA o i numeri RIS registrati a tale data.[^24-5]
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^24-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^24-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2015 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^24-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^24-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^24-4]: Nuovo testo giusta l’all. n. 5 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^24-5]: Nuovo testo giusta l’all. n. 5 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 24a
 
@@ -602,21 +604,20 @@ Per l’assegnazione delle quote del contingente doganale parziale n. 5.7 sono d
 - c. per la categoria di carne e prodotti carnei 5.74: numero di animali macellati della specie ovina;
 - d. per la categoria di carne e di prodotti carnei 5.75: numero di animali macellati della specie caprina.
 
-[^24a-1]: Introdotto dal n. I dell’O del 6 nov. 2013 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24a-1]: Introdotto dalla cifra I dell’O del 6 nov. 2013 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Nuovo testo giusta l’all. 3 cifra II n. 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
 
 #### Art. 24b
 
 **Domande per l’ottenimento di quote del contingente in base al numero di animali macellati**[^24b-1]
 
-<sup>1</sup> Nella domanda per l’ottenimento di quote del contingente in base al numero di animali macellati vanno indicati il numero di PGI e il numero BDTA del richiedente di cui all’articolo 15 capoverso 1 dell’ordinanza del 3 novembre 2021[^24b-2] concernente Identitas AG e la banca dati sul traffico di animali.[^24b-3]
+<sup>1</sup> Nella domanda per l’ottenimento di quote del contingente in base al numero di animali macellati vanno indicati il numero di PGI nonché il numero BDTA o il numero RIS del richiedente.[^24b-2]
 
 <sup>2</sup> Le domande devono essere presentate mediante il portale Internet Agate entro il 31 agosto precedente l’inizio del periodo di contingentamento.
 
 <sup>3</sup> Per l’assegnazione delle quote del contingente sono determinanti i numeri di PGI registrati al 31 agosto precedente l’inizio del periodo di contingentamento.
 
-[^24b-1]: Introdotto dal n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^24b-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24b-3]: Nuovo testo giusta l’all. 3 n. II 8 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24b-1]: Introdotto dalla cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^24b-2]: Nuovo testo giusta l’all. n. 5 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### Sezione 4: Rinuncia alla ripartizione
 
@@ -631,15 +632,15 @@ La ripartizione delle quote del contingente per i seguenti prodotti dei continge
 
 <sup>2</sup> La ripartizione delle frattaglie alimentari per l’industria di conserve di alimenti per animali e per la fabbricazione di gelatine (ex 0206.3091, ex 0206.4191 e ex 0206.4991) del CP n. 5.7 non è disciplinata. Le importazioni sottostanno alle disposizioni dell’articolo 14 della legge del 18 marzo 2005[^25-2] sulle dogane.[^25-3]
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^25-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^25-3]: Nuovo testo del per. giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^25-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^25-3]: Nuovo testo del per. giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 ### Sezione 5: Carne bovina di alta qualità
 
 [^chap5-sec5-1]
 
-[^chap5-sec5-1]: Introdotta dall’all. 3 n. 3 dell’O del 18 apr. 2007 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali ([RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)). Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6369](https://fedlex.data.admin.ch/eli/oc/2009/778)).
+[^chap5-sec5-1]: Introdotta dall’all. 3 n. 3 dell’O del 18 apr. 2007 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali ([RU 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)). Nuovo testo giusta la cifra I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6369](https://fedlex.data.admin.ch/eli/oc/2009/778)).
 
 #### Art. 25a
 
@@ -658,11 +659,11 @@ Il certificato deve:
 
 <sup>3</sup> L’ufficio doganale controlla il certificato.
 
-[^25a-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^25a-2]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^25a-3]: [RS 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
-[^25a-4]: Nuovo testo giusta il n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^25a-5]: Introdotto dal n. I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^25a-2]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-3]: [RS 0.632.231.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2261)
+[^25a-4]: Nuovo testo giusta la cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
+[^25a-5]: Introdotto dalla cifra I dell’O del 1° nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## Capitolo 6: Delega di compiti
 
@@ -681,10 +682,10 @@ L’UFAG delega i seguenti compiti a una o più organizzazioni private:
 
 <sup>2</sup> La delega dei compiti avviene conformemente alla legge federale del 16 dicembre 1994[^26-3] sugli acquisti pubblici.[^26-4]
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^26-2]: Introdotta dall’art. 62 cpv. 2 dell’O del 16 dic. 2016 concernente la macellazione e il controllo delle carni, in vigore dal 1° mag. 2017 ([RU 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)).
-[^26-3]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
-[^26-4]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^26-3]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I n. 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. cifra II n. 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
+[^26-4]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 #### Art. 27
 
@@ -698,7 +699,7 @@ L’UFAG delega i seguenti compiti a una o più organizzazioni private:
 
 <sup>4</sup> I fornitori di prestazioni sottostanno alla sorveglianza dell’UFAG.
 
-[^27-1]: Abrogato dal n. I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
+[^27-1]: Abrogato dalla cifra I dell’O del 2 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 759](https://fedlex.data.admin.ch/eli/oc/2022/759)).
 
 ## Capitolo 7: Disposizioni finali
 
@@ -724,25 +725,25 @@ L’ordinanza del 7 dicembre 1998[^29-1] concernente il mercato del bestiame da 
 
 <sup>2</sup> Per il periodo di contingentamento 2015, al fine dell’assegnazione secondo l’articolo 24 vale, quale periodo di calcolo, il periodo dal 1° gennaio al 30 giugno 2014. Per l’assegnazione gli animali macellati sono computati, se al momento della notifica della macellazione alla banca dati sul traffico di animali il macello ha indicato il suo numero BDTA o il numero BDTA del beneficiario della cessione secondo l’articolo 24 capoverso 3.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 
 #### Art. 31 a 35
 
 [^3135-1]
 
-[^3135-1]: Abrogati dal n. IV 72 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^3135-1]: Abrogati dalla cifra IV n. 72 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 35a
 
 [^35a-1]
 
-[^35a-1]: Introdotto dal n. I dell’O del 9 giu. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)). Abrogato dal n. I dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^35a-1]: Introdotto dalla cifra I dell’O del 9 giu. 2006 ([RU 2006 2539](https://fedlex.data.admin.ch/eli/oc/2006/394)). Abrogato dalla cifra I dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 #### Art. 35b
 
 [^35b-1]
 
-[^35b-1]: Introdotto dal n. I 2 dell’O COVID-19 agricoltura del 1° apr. 2020, in vigore dal 2 apr. 2020 al 1° ott. 2020 ([RU 2020 1141](https://fedlex.data.admin.ch/eli/oc/2020/208)).
+[^35b-1]: Introdotto dalla cifra I n. 2 dell’O COVID-19 agricoltura del 1° apr. 2020, in vigore dal 2 apr. 2020 al 1° ott. 2020 ([RU 2020 1141](https://fedlex.data.admin.ch/eli/oc/2020/208)).
 
 #### Art. 36
 
@@ -756,4 +757,4 @@ L’ordinanza del 7 dicembre 1998[^29-1] concernente il mercato del bestiame da 
 
 Allegato[^t-1]
 
-[^t-1]: Abrogato dal n. II dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
+[^t-1]: Abrogato dalla cifra II dell’O del 26 ott. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).

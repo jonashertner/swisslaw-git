@@ -4,11 +4,11 @@ title: "Ordonnance du 26 novembre 2003 sur les marchés du bétail de boucherie 
 short: OBB
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/791"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2003-11-26
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/791/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2003-791-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/791/20240101/fr"
 
 (Ordonnance sur le bétail de boucherie, OBB)
 
-du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2024)
+du 26 novembre 2003 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 21, al. 2, 22, al. 4, 49, 51, al. 1, 177 et 180, al. 3, de la loi du
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 ## Chapitre 1 Objet et champ d’application
@@ -36,7 +36,7 @@ arrête:
 
 <sup>2</sup> Elle concerne les animaux de boucherie des espèces bovine, porcine, chevaline, ovine et caprine, leur viande, la viande de volaille et les sous-produits d’abattage figurant sous les numéros tarifaires indiqués à l’annexe 1, ch. 3, de l’ordonnance du 26 octobre 2011 sur les importations agricoles[^1-1].[^1-2]
 
-[^1-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^1-1]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 [^1-2]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 ## Chapitre 2 Taxation de la qualité
@@ -187,7 +187,7 @@ Ne sont pas imputables notamment les coûts suivants:
 - b. frais d’exploitation et d’entretien;
 - c. coûts pour l’achat éventuel d’un terrain.
 
-[^8-1]: [RS 912.1](https://fedlex.data.admin.ch/eli/cc/1999/46)
+[^8-1]: [RS 912.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10437)
 [^8-2]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 #### Art. 9
@@ -208,7 +208,7 @@ Les demandes de contributions à l’infrastructure sont adressées au canton. T
 
 <sup>4</sup> Les acquisitions peuvent être effectuées seulement après que la contribution a fait l’objet d’une décision exécutoire. L’OFAG peut autoriser une acquisition anticipée si l’attente de l’entrée en force de la décision comporte de graves inconvénients. Une telle autorisation ne donne cependant pas le droit de prétendre à une contribution.
 
-[^9-1]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^9-1]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^9-2]: Nouvelle expression selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)). Il a été tenu compte de cette mod. dans tout le texte.
 
 ## Chapitre 4 Mesures destinées à alléger le marché
@@ -513,7 +513,7 @@ Par enchère, 40 % au maximum du contingent partiel total mis aux enchères peuv
 <sup>2</sup> En ce qui concerne les autres parts de contingent, le délai de paiement est de 30 jours à compter de la date à laquelle la décision est rendue.
 
 [^19-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1er janv. 2016 ([RO 2015 4569](https://fedlex.data.admin.ch/eli/oc/2015/768)).
-[^19-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
+[^19-2]: [RS 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
 [^19-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
 #### Art. 20
@@ -538,7 +538,7 @@ Par enchère, 40 % au maximum du contingent partiel total mis aux enchères peuv
 
 <sup>3</sup> Est réputée période de référence, l’intervalle allant du 18<sup>e</sup> (1<sup>er</sup> juillet) au 7<sup>e</sup> mois (30 juin) précédant la période contingentaire concernée.
 
-[^21-1]: [RS 916.01](https://fedlex.data.admin.ch/eli/cc/2011/770)
+[^21-1]: [RS 916.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10463)
 
 #### Art. 22
 
@@ -579,17 +579,19 @@ Sont imputables:
 
 <sup>3</sup> L’abattoir peut transférer son droit à un détenteur d’animaux au sens de l’art. 11*a* de l’ordonnance du 7 décembre 1998 sur la terminologie agricole[^24-3], à une entreprise de marchand de bétail, à une entreprise de transformation de la viande et à une entreprise pratiquant le commerce de viande.
 
-<sup>4</sup> Pour l’attribution des parts de contingent, il est tenu compte du nombre d’animaux abattus que si l’abattoir a indiqué à la banque de données sur le trafic des animaux, au moment de l’annonce de l’abattage, son propre numéro BDTA ou le numéro BDTA de la personne à qui il transfère son droit.
+<sup>4</sup> Pour l’attribution des parts de contingent, il est tenu compte du nombre d’animaux abattus que si l’abattoir a indiqué à la banque de données sur le trafic des animaux, au moment de l’annonce de l’abattage, son propre numéro BDTA ou du Registre des entreprises et des établissements (REE) ou le numéro BDTA ou REE de la personne à qui il transfert son droit.[^24-4]
 
 <sup>5</sup> L’OFAG attribue les parts de contingent en fonction de la part au nombre d’animaux imputables abattus correctement annoncés. Les parts sont attribuées en pour-cent. Un PGI est requis pour l’attribution.
 
 <sup>6</sup> Est réputée période de référence, l’intervalle allant du 18<sup>e</sup> (1<sup>er</sup> juillet) au 7<sup>e</sup> mois (30 juin) précédant la période contingentaire concernée.
 
-<sup>7</sup> Pour le calcul des parts de contingent, sont déterminantes les données figurant dans la BDTA le 31 août précédant la période contingentaire et les numéros BDTA inscrits à cette date.
+<sup>7</sup> Pour le calcul des parts de contingent, sont déterminantes les données figurant dans la BDTA le 31 août précédant la période contingentaire et les numéros BDTA ou REE inscrits à cette date.[^24-5]
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^24-2]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^24-3]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
+[^24-2]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^24-3]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+[^24-4]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^24-5]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 24a
 
@@ -608,15 +610,14 @@ Les chiffres suivants sont déterminants pour l’attribution des parts au conti
 
 **Demandes de parts de contingents selon le nombre d’animaux abattus**[^24b-1]
 
-<sup>1</sup> Pour toute demande de part de contingent selon le nombre d’animaux abattus le numéro du PGI et le numéro BDTA selon l’art. 15, al. 1, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^24b-2] sont requis.[^24b-3]
+<sup>1</sup> Pour toute demande de part de contingent selon le nombre d’animaux abattus, le numéro du PGI et le numéro BDTA ou REE sont requis.[^24b-2]
 
 <sup>2</sup> Les demandes doivent être déposées au plus tard le 31 août précédant le début de la période contingentaire via le portail Internet Agate.
 
 <sup>3</sup> Sont déterminants pour l’attribution des parts de contingent, les numéros de PGI enregistrés le 31 août précédant le début de la période contingentaire.
 
 [^24b-1]: Introduit par le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^24b-2]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^24b-3]: Nouvelle teneur selon l’annexe 3 ch. II 8 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24b-2]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### Section 4 Renonciation à la répartition
 
@@ -632,14 +633,14 @@ Les produits suivants des contingents n°05 et 06 ne sont pas soumis à une rég
 <sup>2</sup> La répartition des abats comestibles destinés à la fabrication de conserves pour animaux et de gélatine (ex 0206.3091, ex 0206.4191 et ex 0206.4991) faisant partie du CTP n° 5.7 n’est pas réglementée. Les importations sont soumises aux dispositions de l’art. 14 de la loi du 18 mars 2005 sur les douanes[^25-2].[^25-3]
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
-[^25-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^25-2]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^25-3]: Nouvelle teneur de la phrase selon le ch. I de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6427](https://fedlex.data.admin.ch/eli/oc/2007/839)).
 
 ### Section 5 Viande bovine de premier choix
 
 [^chap5-sec5-1]
 
-[^chap5-sec5-1]: Introduite par l’annexe 3 ch. 3 de l’O du 18 avr. 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux ([RO 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)). Nouvelle teneur selon le ch. I de l'O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6369](https://fedlex.data.admin.ch/eli/oc/2009/778)).
+[^chap5-sec5-1]: Introduite par l’annexe 3 ch. 3 de l’O du 18 avr. 2007 concernant l’importation, le transit et l’exportation d’animaux et de produits animaux ([RO 2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)). Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6369](https://fedlex.data.admin.ch/eli/oc/2009/778)).
 
 #### Art. 25a
 
@@ -658,9 +659,9 @@ L’attestation doit:
 
 <sup>3</sup> Le bureau de douane contrôle l’attestation.
 
-[^25a-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^25a-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^25a-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
-[^25a-3]: [RS 0.632.231.53](https://fedlex.data.admin.ch/eli/cc/1979/2591_2596_2596)
+[^25a-3]: [RS 0.632.231.53](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2261)
 [^25a-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 [^25a-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 703](https://fedlex.data.admin.ch/eli/oc/2023/703)).
 
@@ -683,7 +684,7 @@ L’OFAG confie à une ou plusieurs organisations privées les tâches suivantes
 
 [^26-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3977](https://fedlex.data.admin.ch/eli/oc/2013/726)).
 [^26-2]: Introduit par l’art. 62 al. 2 de l’O du 16 déc. 2016 concernant l’abattage d’animaux et le contrôle des viandes, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)).
-[^26-3]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^26-3]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
 [^26-4]: Nouvelle teneur selon le ch. I de l’O du 26 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 [RO 2011 5447](https://fedlex.data.admin.ch/eli/oc/2011/773)).
 
 #### Art. 27
