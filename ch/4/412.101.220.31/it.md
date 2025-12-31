@@ -3,18 +3,18 @@ sr: "412.101.220.31"
 title: Ordinanza della SEFRI del 15 settembre 2023 sulla formazione professionale di base delle professioni con AFC nel campo professionale «Logistica»
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/565"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2023-09-15
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/565/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-565-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/565/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/565/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2023-565-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/565/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base delle professioni con AFC nel campo professionale «Logistica»
 
-del 15 settembre 2023 (Stato 1° aprile 2024)
+del 15 settembre 2023 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>95512</td><td>Impiegata in logistica AFC / Impiegato in logistica AFC Logistikerin EFZ / Logistiker EFZ Logisticienne CFC / Logisticien CFC</td></tr>
@@ -28,10 +28,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto, professioni, indirizzi professionali e durata
 
@@ -224,7 +224,7 @@ La formazione di agente del trasporto ferroviario AFC prevede, nei campi di comp
   - 3\. formare un treno ed eseguire la verifica d’esercizio,
   - 4\. movimentare e trasportare le merci pericolose.
 
-[^5-1]: [RS 742.141.21](https://fedlex.data.admin.ch/eli/cc/2009/800)
+[^5-1]: [RS 742.141.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8753)
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute, protezione dell’ambiente e sviluppo sostenibile
 
@@ -240,7 +240,7 @@ La formazione di agente del trasporto ferroviario AFC prevede, nei campi di comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^6-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^6-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -254,8 +254,8 @@ La formazione di agente del trasporto ferroviario AFC prevede, nei campi di comp
 
 <sup>3</sup> Nella professione di agente del trasporto ferroviario AFC l’azienda di tirocinio garantisce che le persone in formazione conseguano la licenza di condurre veicoli motore della categoria A40 secondo l’OVF[^7-2]. L’azienda di tirocinio si assume i costi per il conseguimento della licenza di condurre.
 
-[^7-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^7-2]: [RS 742.141.21](https://fedlex.data.admin.ch/eli/cc/2009/800)
+[^7-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^7-2]: [RS 742.141.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8753)
 
 #### Art. 8
 
@@ -294,13 +294,14 @@ L’insegnamento obbligatorio presso la scuola professionale comprende 1020–10
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^8-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^8-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^8-2].
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^8-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 9
 
@@ -514,11 +515,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>3</td><td>Colloquio professionale</td><td>20 %</td></tr>
 </table>
 
-- b. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^20-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- b. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^20-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^20-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^20-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^20-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 21
 
@@ -655,7 +657,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 9 novembre 2015[^26-1] sulla formazione professionale di base Impiegata in logistica/Impiegato in logistica con attestato federale di capacità (AFC) è abrogata.
 
-[^26-1]: [[RU 2015 5569](https://fedlex.data.admin.ch/eli/oc/2015/863); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 21, II 21; III 7; [2018 2757](https://fedlex.data.admin.ch/eli/oc/2018/407)]
+[^26-1]: [[RU 2015 5569](https://fedlex.data.admin.ch/eli/oc/2015/863); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I n. 21, cifra II n. 21, cifra III n. 7; [2018 2757](https://fedlex.data.admin.ch/eli/oc/2018/407)]
 
 #### Art. 27
 
