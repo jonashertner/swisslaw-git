@@ -4,13 +4,13 @@ number: IV B/4/3
 title: Reglement über den Bildungsgang Fachmittelschule der Kantonsschule Glarus
 short: "Reglement Fachmittelschule, RFMS"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-11
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-12
 adopted: 2020-06-12
 in_force: 2020-08-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.4.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/2523/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2592/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2523/pdf_file"
 
 (Reglement Fachmittelschule, RFMS)
 
-Vom 12.06.2020 (Stand 01.01.2025)
+Vom 12.06.2020 (Stand 01.01.2026)
 
 Der Kantonsschulrat,
 
@@ -67,7 +67,7 @@ erlässt:
 
 <sup>4</sup> Die Schulleitung erlässt eine Weisung zur Aufnahmeprüfung, in welcher sie insbesondere Anmeldung, Durchführung und Bestehen der Prüfung regelt.
 
-<sup>5</sup> Bei Lernenden von ausserkantonalen Schulen zählen die Beurteilungen durch die abgebende Schule bei der Aufnahmeprüfung nicht.
+<sup>5</sup> …
 
 <sup>6</sup> Für ausserkantonale Lernende wird eine Prüfungsgebühr erhoben.
 
@@ -75,7 +75,7 @@ erlässt:
 
 **Ausserordentliche Aufnahme**
 
-<sup>1</sup> Lernende aus ausserkantonalen, staatlich anerkannten Mittelschulen werden gemäss ihrem Promotionsstand in die Fachmittelschule aufgenommen.
+<sup>1</sup> Lernende aus ausserkantonalen, staatlich anerkannten Mittelschulen können gemäss ihrem Promotionsstand in die Fachmittelschule aufgenommen werden.
 
 <sup>2</sup> Die Schulleitung kann einer Aufnahme auch zustimmen, wenn eine gleichwertige Vorbildung nachgewiesen ist.
 
@@ -198,11 +198,11 @@ erlässt:
 
 **Promotionsrhythmus**
 
-<sup>1</sup> Die Promotionen fallen für die ersten und zweiten Klassen auf das Ende des Schuljahres.
+<sup>1</sup> Die Promotionstermine fallen für die ersten und zweiten Klassen auf das Ende des Schuljahres.
 
 <sup>2</sup> Lernende der ersten und zweiten Klassen, welche die Promotionsbedingungen nicht erfüllen, werden nicht promoviert.
 
-<sup>3</sup> Für die dritte Klasse gibt es keine Promotionsentscheide, sondern die Abschlussprüfung
+<sup>3</sup> Für die dritte Klasse gibt es keine Promotionsentscheide, sondern die Abschlussprüfung.
 
 #### Art. 15
 
