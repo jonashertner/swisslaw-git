@@ -3,18 +3,18 @@ sr: "784.101.113"
 title: "Ordonnance de l'OFCOM du 9 décembre 1997 sur les services de télécommunication et les ressources d'adressage"
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/480_480_480"
 language: fr
-version: 2025-05-01
+version: 2026-01-01
 adopted: 1997-12-09
 in_force: 1998-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20250501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/480_480_480/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-480_480_480-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/480_480_480/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFCOM sur les services de télécommunication et les ressources d’adressage
 
-du 9 décembre 1997 (État le 1<sup>er</sup> mai 2025)[^t-1]
+du 9 décembre 1997 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 25 nov. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4631](https://fedlex.data.admin.ch/eli/oc/2016/748)).
 
@@ -24,10 +24,10 @@ vu l’art. 28 de la loi du 30 avril 1997 sur les télécommunications[^ingress-
 
 arrête:
 
-[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-2]: [RS 784.101.1](https://fedlex.data.admin.ch/eli/cc/2007/166)
-[^ingress-3]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^ingress-4]: [RS 784.104.2](https://fedlex.data.admin.ch/eli/cc/2014/701)
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-2]: [RS 784.101.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9173)
+[^ingress-3]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^ingress-4]: [RS 784.104.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9197)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 12 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 19](https://fedlex.data.admin.ch/eli/oc/2017/5)).
 
 #### Art. 1
@@ -50,22 +50,22 @@ Annexe 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I des O de l’OFCOM du 10 fév. 2009 ([RO 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), du 18 nov. 2020 ([RO 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), du 23 nov. 2022 ([RO 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), du 15 mars 2023 ([RO 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), du 13 juil. 2023 ([RO 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)), du 24 janv. 2024 ([RO 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)) et du 12 mars 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 171](https://fedlex.data.admin.ch/eli/oc/2025/171)).
-[^annex1-lvlu1-1]: Le contenu des prescriptions n<sup>o</sup> 1, 4, 7 et 11 n’est pas publié au RO. Commmande: Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne; téléchargement: [www.ofcom.admin.ch](http://www.ofcom.admin.ch) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Télécommunication. Le contenu des autres prescriptions est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur [www.fedlex.admin.ch](https://www.fedlex.admin.ch/fr) &gt; Recueil officiel &gt; Éditions du RO &gt; année &gt; séquence &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Mise à jour par le ch. I des O de l’OFCOM du 10 fév. 2009 ([RO 2009 715](https://fedlex.data.admin.ch/eli/oc/2009/119)), du 18 nov. 2020 ([RO 2020 5273](https://fedlex.data.admin.ch/eli/oc/2020/912)), du 23 nov. 2022 ([RO 2022 740](https://fedlex.data.admin.ch/eli/oc/2022/740)), du 15 mars 2023 ([RO 2023 163](https://fedlex.data.admin.ch/eli/oc/2023/163)), du 13 juil. 2023 ([RO 2023 385](https://fedlex.data.admin.ch/eli/oc/2023/385)), du 24 janv. 2024 ([RO 2024 68](https://fedlex.data.admin.ch/eli/oc/2024/68)), du 12 mars 2025 ([RO 2025 171](https://fedlex.data.admin.ch/eli/oc/2025/171)) et du 15 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 580](https://fedlex.data.admin.ch/eli/oc/2025/580)).
+[^annex1-lvlu1-1]: Le contenu des prescriptions n<sup>o</sup> 1, 4 et 11 n’est pas publié au RO. Commmande: Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne; téléchargement: [www.ofcom.admin.ch](http://www.ofcom.admin.ch) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Télécommunication. Le contenu des autres prescriptions est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur [www.fedlex.admin.ch](https://www.fedlex.admin.ch/fr) &gt; Recueil officiel &gt; Éditions du RO &gt; année &gt; séquence &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 - 1\. Prescriptions techniques et administratives concernant la gestion et la mise à disposition des données d’annuaire des fournisseurs du service téléphonique public (7<sup>e</sup> édition)
-- 2\. Prescriptions techniques et administratives concernant la qualité du service universel ([10<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2023/163/fr/annexes))
-- 3\. Prescriptions techniques et administratives concernant l’acheminement et la localisation des appels d’urgence ([19<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2025/171/fr/annexes))
+- 2\. Prescriptions techniques et administratives concernant la qualité du service universel ([10 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2023/163/fr/annexes))
+- 3\. Prescriptions techniques et administratives concernant l’acheminement et la localisation des appels d’urgence ([19 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2025/171/fr/annexes))
 - 4\. Prescriptions techniques et administratives concernant les interfaces de réseaux et de services de télécommunication (7<sup>e</sup> édition)
 - 5\. …
-- 6\. Prescriptions techniques et administratives concernant les caractéristiques d’interface du service universel ([8<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2023/163/fr/annexes))
-- 7\. Prescriptions techniques et administratives concernant l’identification de la ligne appelante (3<sup>e</sup> édition)
-- 8\. Prescriptions techniques et administratives concernant le signalement des perturbations des réseaux ([2<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2022/740/fr/annexes))
-- 9\. Prescriptions techniques et administratives concernant la publication des informations relatives à la qualité des services de télécommunication ([2<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2023/385/fr/annexes))
-- 10\. Prescriptions techniques et administratives concernant la portabilité des numéros entre fournisseurs de services de télécommunication ([2<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
+- 6\. Prescriptions techniques et administratives concernant les caractéristiques d’interface du service universel ([8 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2023/163/fr/annexes))
+- 7\. Prescriptions techniques et administratives concernant l’identification de la ligne appelante ([4 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2025/580/fr/annexes))
+- 8\. Prescriptions techniques et administratives concernant le signalement des perturbations des réseaux ([2 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2022/740/fr/annexes))
+- 9\. Prescriptions techniques et administratives concernant la publication des informations relatives à la qualité des services de télécommunication ([2 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2023/385/fr/annexes))
+- 10\. Prescriptions techniques et administratives concernant la portabilité des numéros entre fournisseurs de services de télécommunication ([2 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
 - 11\. Prescriptions techniques et administratives concernant le libre choix du fournisseur des liaisons nationales et internationales (1<sup>re</sup> édition)
-- 12\. Prescriptions techniques et administratives concernant la manipulation non autorisée d’installations de télécommunication au moyen de techniques de transmission des télécommunications ([2<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
-- 13\. Prescriptions techniques et administratives concernant la sécurité des réseaux et des services exploités par les concessionnaires de radiocommunication mobile ([1<sup>re</sup> édition](https://www.fedlex.admin.ch/eli/oc/2022/740/fr/annexes))
+- 12\. Prescriptions techniques et administratives concernant la manipulation non autorisée d’installations de télécommunication au moyen de techniques de transmission des télécommunications ([2 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
+- 13\. Prescriptions techniques et administratives concernant la sécurité des réseaux et des services exploités par les concessionnaires de radiocommunication mobile ([1 <sup>re</sup> édition](https://www.fedlex.admin.ch/eli/oc/2022/740/fr/annexes))
 
 Annexe 2[^t-3]
 
@@ -79,7 +79,7 @@ Annexe 2[^t-3]
 [^annex2-lvlu1-1]: Le contenu des plans et prescriptions n° 3, 4, 7, 10, 12 à 15 n’est pas publié au RO. Il peut être obtenu auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne ou téléchargé à l’adresse [www.ofcom.admin.ch](http://www.ofcom.admin.ch) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Télécommunication. Le contenu des plans et prescriptions n<sup>o</sup> 2 est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur [www.fedlex.admin.ch](https://www.fedlex.admin.ch/fr) &gt; Recueil officiel &gt; Éditions du RO &gt; année &gt; séquence &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 - 1\. …
-- 2\. Prescriptions techniques et administratives concernant le plan de numérota-tion et la répartition des numéros E.164 ([8<sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
+- 2\. Prescriptions techniques et administratives concernant le plan de numérota-tion et la répartition des numéros E.164 ([8 <sup>e</sup> édition](https://www.fedlex.admin.ch/eli/oc/2024/68/fr/annexes))
 - 3\. Prescriptions techniques et administratives concernant le plan de numérotation télex F.69 (3<sup>e</sup> édition)
 - 4\. Prescriptions techniques et administratives concernant le plan de numérotation X.121 (2<sup>e</sup> édition)
 - 5\. et 6. …
