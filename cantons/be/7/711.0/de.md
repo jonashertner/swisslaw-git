@@ -1,23 +1,24 @@
 ---
 canton: BE
 number: "711.0"
-title: Gesetz über die Enteignung
+title: Kantonales Gesetz über die Enteignung
 short: KEntG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-08
+version: 2026-01-01
+version_adopted: 2025-06-11
 adopted: 1965-10-03
 in_force: 1966-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/711.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3066/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3322/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Enteignung
+# Kantonales Gesetz über die Enteignung
 
-vom 03.10.1965 (Stand 01.01.2023)
+(KEntG)
+
+vom 03.10.1965 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -143,9 +144,9 @@ beschliesst:
 
 <sup>1</sup> Sofern nicht Gründe für eine andere Berechnungsart dargetan sind, ist die Entschädigung bei gänzlicher Enteignung von Grundstücken so zu bemessen, dass der Enteignete imstande ist, sich angemessenen Ersatz zu beschaffen.
 
-<sup>2</sup> Bei der Bewertung sind je nach den Umständen insbesondere zu berücksichtigen:
+<sup>2</sup> Bei der Bewertung sind je nach den Umständen insbesondere zu berücksichtigen
 
-- a die geltenden oder üblichen bauordnungsrechtlichen Beschränkungen.
+- a die Lage sowie die realen Verwertungs- und Verwendungsmöglichkeiten;
 - b der erfahrungsgemäss erzielbare Ertrag;
 - c das langfristige, übliche Verhältnis zwischen Ertrag und Handelswert bei vergleichbaren Grundstücken;
 - d der Grad der Erschliessung durch Strassen, Abwasserbeseitigung, Wasser- und Energieversorgung sowie Bedienung mit öffentlichen Verkehrsmitteln;
@@ -153,6 +154,10 @@ beschliesst:
 - f die geltenden oder üblichen bauordnungsrechtlichen Beschränkungen.
 
 <sup>3</sup> Unberücksichtigt bleiben jedoch Wertänderungen, die infolge der bevorstehenden Enteignung eintreten. Vorbehalten bleiben Artikel 14 und 19 dieses Gesetzes im Falle von Teilenteignungen.
+
+<sup>4</sup> Für Kulturland im Geltungsbereich des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB)[^12-1] wird das Dreifache des ermittelten Höchstpreises gemäss Artikel 66 Absatz 1 BGBB entschädigt.
+
+[^12-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
 
 #### Art. 13
 

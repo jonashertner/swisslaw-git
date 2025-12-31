@@ -1,23 +1,24 @@
 ---
 canton: BE
 number: "711.0"
-title: "Loi sur l'expropriation"
+title: "Loi cantonale sur l’expropriation *"
 short: LCEx
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-08
+version: 2026-01-01
+version_adopted: 2025-06-11
 adopted: 1965-10-03
 in_force: 1966-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/711.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3066/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3322/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Loi sur l'expropriation
+# Loi cantonale sur l’expropriation
 
-du 03.10.1965 (état au 01.01.2023)
+(LCEx)
+
+du 03.10.1965 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -143,7 +144,7 @@ décrète:
 
 <sup>1</sup> En cas d'expropriation totale et pour autant qu'il n'y a pas de motif de choisir un autre mode de calcul, l'indemnité sera fixée de telle sorte que l'exproprié soit en mesure de se procurer une compensation équitable.
 
-<sup>2</sup> Selon les circonstances, il conviendra notamment de tenir compte pour l'estimation:
+<sup>2</sup> Selon les circonstances, il conviendra notamment de tenir compte pour l'estimation
 
 - a de la situation et des possibilités effectives de réalisation et d'utilisation;
 - b du rendement qu'il est possible de réaliser conformément à l'expérience;
@@ -153,6 +154,10 @@ décrète:
 - f des restrictions en vigueur ou d'usage apportées au droit de construire.
 
 <sup>3</sup> Il n'est cependant pas tenu compte des modifications de valeur intervenant en raison de l'expropriation projetée. Demeurent réservés les articles 14 et 19 de la présente loi en cas d'expropriations partielles.
+
+<sup>4</sup> Pour les terrains cultivables entrant dans le champ d’application de la loi fédérale du 4 octobre 1991 sur le droit foncier rural (LDFR)[^12-1], l’indemnité s’élève à trois fois le prix maximal déterminé selon l’article 66, alinéa 1 LDFR.
+
+[^12-1]: RS [211.412.11](https://db.clex.ch/link/Bund/211.412.11/fr)
 
 #### Art. 13
 
