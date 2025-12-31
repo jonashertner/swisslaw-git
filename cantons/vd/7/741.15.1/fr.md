@@ -4,7 +4,7 @@ number: "741.15.1"
 title: RÈGLEMENT du 16.11.2016 sur les émoluments perçus par le Service des automobiles et de la navigation (RE-SAN)
 short: RE-SAN
 language: fr
-version: 2024-07-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/741.15.1?id=a98c496b-c044-447f-9229-6303629369f0"
 ---
 
@@ -266,16 +266,16 @@ arrête
 <sup>3</sup> Les émoluments en lien avec les permis de cyclomoteur sont :
 
 - a. Etablissement lors d'une immatriculation : CHF 35.00
-- b. Etablissement lors d'un changement sur le permis cyclomoteur : CHF 15.00
+- b. Etablissement lors d'un changement sur le permis cyclomoteur ou avant la première immatriculation : CHF 15.00
 - c. Délivrance d'une vignette suite au renouvellement annuel de l'assurance RC, à apposer sur le permis de circulation : CHF 5.00
 - d. Délivrance d'une vignette relative à la taxe annuelle, à apposer sur la plaque de contrôle : CHF 5.00
 - e. En l'absence d'assurance responsabilité civile (RC) privée, l'assurance RC pour les cyclomoteurs est facturée selon les tarifs du contrat d'assurance collectif conclut par le service. Le montant est publié.
 
 <sup>4</sup> Le duplicata d'un permis de circulation, de navigation ou de cyclomoteur est facturé : CHF 20.00
 
-<sup>5</sup> Les permis de circulation, de navigation ou de cyclomoteur établis suite à un changement d'adresse sont gratuits.
+<sup>5</sup> Supprimé
 
-[^sectionSectionI-2]: Modif. 3 du 07.12.2022: Modification Al. 3, d; entrée en vigueur au 01.01.2023 · Modif. 6 du 19.11.2025: Modification Al. 3, b; entrée en vigueur au 01.01.2026; Modification Al. 5; entrée en vigueur au 01.01.2026; Introduction Art. 37, Al. 3; entrée en vigueur au 01.01.2026
+[^sectionSectionI-2]: Modif. 3 du 07.12.2022: Modification Al. 3, d; entrée en vigueur au 01.01.2023 · Modif. 6 du 19.11.2025: Modification Al. 3, b; entrée en vigueur au 01.01.2026; Modification Al. 5; entrée en vigueur au 01.01.2026
 
 #### Art. 16
 
@@ -602,6 +602,8 @@ arrête
 
 <sup>2</sup> Les études de dossiers ou travaux particuliers effectués par le service et qui ne font pas l'objet d'un émolument selon le présent règlement sont facturés au coût horaire.
 
+<sup>3</sup> Le traitement des actions de rappel de véhicules peut être facturé au coût horaire aux importateurs.
+
 [^36-1]: Modif. 6 du 19.11.2025: Introduction Al. 3; entrée en vigueur au 01.01.2026 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Al. 3; entrée en vigueur au 01.09.2026
 
 ### Section II Dispositions finales
@@ -622,6 +624,6 @@ Annexes [^39-1]
 
 1
 
-[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.07.2024)
+[Annexes](https://prestations.vd.ch/pub/blv-publication/api/actes/a98c496b-c044-447f-9229-6303629369f0/annexes/1?dmev=01.01.2026)
 
 [^39-1]: Modif. 3 du 07.12.2022: Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023 · Modif. 5 du 19.06.2024: Modification Annexes, Ann. 1; entrée en vigueur au 01.07.2024 · Modif. 7 du 24.06.2026: Introduction Art. 31, Al. 1, e; entrée en vigueur au 01.09.2026; Introduction Art. 32, Al. 3-5; entrée en vigueur au 01.09.2026; Introduction Art. 34, Al. 1, d; entrée en vigueur au 01.09.2026; Modification Annexes, Ann. 1; entrée en vigueur au 01.09.2026
