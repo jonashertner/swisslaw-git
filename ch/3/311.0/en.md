@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250801/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250801-en-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250801/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250801/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 August 2025)
+of 21 December 1937 (Status as of 1 January 2026)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -227,9 +227,9 @@ A person fails to comply with a duty to act if they do not prevent a legal inter
 
 #### Art. 12
 
-<sup>1</sup> Unless the law expressly provides otherwise, a person is only liable to prosecution for a felony or misdemeanour if they commit it wilfully.
+<sup>1</sup> Unless the law expressly provides otherwise, a person is only liable to prosecution for a felony or misdemeanour if they commit it intentionally.
 
-<sup>2</sup> A person commits a felony or misdemeanour wilfully if that person carries out the act in the knowledge of what they are doing and in accordance with their will. A person acts wilfully as soon as they regard the realisation of the act as being possible and accept this.
+<sup>2</sup> A person commits a felony or misdemeanour intentionally if that person carries out the act in the knowledge of what they are doing and in accordance with their will. A person acts intentionally as soon as they regard the realisation of the act as being possible and accept this.
 
 <sup>3</sup> A person commits a felony or misdemeanour through negligence if that person fails to consider or disregards the consequences of their conduct due to a culpable lack of care. A lack of care is culpable if the person fails to exercise the care that is incumbent on them in the circumstances and commensurate with their personal capabilities.
 
@@ -331,7 +331,7 @@ Any person who is not and cannot be aware that, by carrying out an act, they are
 
 #### Art. 24
 
-<sup>1</sup> Any person who has wilfully incited another to commit a felony or a misdemeanour, provided the offence is committed, incurs the same penalty as applies to the person who has committed the offence.
+<sup>1</sup> Any person who has intentionally incited another to commit a felony or a misdemeanour, provided the offence is committed, incurs the same penalty as applies to the person who has committed the offence.
 
 <sup>2</sup> Any person who attempts to incite someone to commit a felony incurs the penalty applicable to an attempt to commit that felony.
 
@@ -339,7 +339,7 @@ Any person who is not and cannot be aware that, by carrying out an act, they are
 
 #### Art. 25
 
-Any person who wilfully assists another to commit a felony or a misdemeanour shall be liable to a reduced penalty.
+Any person who intentionally assists another to commit a felony or a misdemeanour shall be liable to a reduced penalty.
 
 ### Participation in a special offence
 
@@ -636,7 +636,7 @@ The court shall reduce the sentence if:
 - b. the offender was seriously provoked by the conduct of the person suffering injury;
 - c. the offender acted in a state of extreme emotion that was excusable in the circumstances or while under serious psychological stress;
 - d. the offender has shown genuine remorse, and in particular has made reparation for the injury, damage or loss caused, insofar as this may reasonably be expected of them;
-- e. the need for punishment has been substantially reduced due to the time that has elapsed since the offence and the offender has been of good conduct in this period.
+- e. the need for punishment has been substantially reduced due to the time that has elapsed since the offence, and the offender has been of good conduct in this period.
 
 ### Effect
 
@@ -1145,7 +1145,7 @@ The competent authority makes its decisions in terms of paragraph 1 based on:
 
 <sup>1</sup> If there is the risk that a person will commit a felony or misdemeanour that they have threatened to commit, or if a person convicted of a felony or of a misdemeanour indicates the clear intention to repeat the offence, the court may, at the request of the person threatened, obtain a promise from the offender that they will not commit the offence and require them to deposit appropriate security therefor.
 
-<sup>2</sup> If the offender refuses to make the promise or fails to deposit the security within the specified period, the court may require them to make the promise or deposit the security by imposing a period of detention for security reasons. The period of detention for security reasons may not be for more than two months. It is executed in the same way as a short custodial sentence (Art. 79[^66-1]).
+<sup>2</sup> If the offender refuses to make the promise or maliciously fails to deposit the security within the specified period, the court may require them to make the promise or deposit the security by imposing a period of detention for security reasons. The period of detention for security reasons may not be for more than two months. It is executed in the same way as a short custodial sentence (Art. 79[^66-1]).
 
 <sup>3</sup> If the offender commits the felony or the misdemeanour within two years of depositing the security, the security is forfeited to the State. If no offence is committed, the security is returned.
 
@@ -1171,12 +1171,12 @@ The court shall expel foreign nationals from Switzerland for a period of 5–15 
 - f.[^66a-4] fraud (Art. 146 para. 1), fraud in relation to administrative services and charges (Art. 14 para. 1–3 of the Federal Act of 22 March 1974[^66a-5] on Administrative Criminal Law) or tax fraud, misappropriation of taxes deducted at source, or any other offence related to public charges that carries a maximum penalty of a one-year custodial sentence or more;
 - g. forced marriage, forced registered partnership (Art. 181*a*), trafficking in human beings (Art. 182), false imprisonment and abduction (Art. 183), aggravated false imprisonment and abduction (Art. 184), hostage taking (Art. 185);
 - h.[^66a-6] sexual acts with children (Art. 187 nos 1 and 1<sup>bis</sup>), sexual acts with dependent persons (Art. 188), indecent assault (Art. 189 paras 2 and 3), rape (Art. 190), sexual acts with persons incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or of dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), encouraging prostitution (Art. 195), pornography (Art. 197 para. 4 second sentence);
-- i.[^66a-7] arson (Art. 221 para. 1 and 2), wilfully causing an explosion (Art. 223 para. 1 no 1), misuse of explosives and toxic gases with criminal intent (Art. 224 para. 1), wilfully causing danger without criminal intent (Art. 225 para. 1), manufacture, concealment and transport of explosives and toxic gases (Art. 226), causing danger by means of nuclear energy, radioactivity and ionising radiation (Art. 226<sup>bis</sup>), preparatory offences (Art. 226<sup>ter</sup>), wilfully causing a flood or collapse (Art. 227 para. 1 no 1), criminal damage to electrical installations, and hydraulic or protective structures (Art. 228 no 1 para. 1), breach of construction regulations (Art. 229 para. 1), removal or non-installation of safety devices (Art. 230 Ziff. 1);
-- j.[^66a-8] wilfully causing danger by means of genetically modified or pathogenic organisms (Art. 230<sup>bis</sup> para. 1), transmission of human diseases (Art. 231), wilful contamination of drinking water (Art. 234 para. 1);
+- i.[^66a-7] arson (Art. 221 para. 1 and 2), intentionally causing an explosion (Art. 223 para. 1 no 1), misuse of explosives and toxic gases with felonious intent (Art. 224 para. 1), intentionally causing danger intentionally but without felonious intent (Art. 225 para. 1), manufacture, concealment and transport of explosives and toxic gases (Art. 226), causing danger by means of nuclear energy, radioactivity and ionising radiation (Art. 226<sup>bis</sup>), preparatory offences (Art. 226<sup>ter</sup>), intentionally causing a flood or collapse (Art. 227 para. 1 no 1), intentional criminal damage to electrical installations, and hydraulic or protective structures (Art. 228 no 1 para. 1), causing danger by breaching construction regulations (Art. 229 para. 1), removal or non-installation of safety devices (Art. 230 no 1);
+- j.[^66a-8] intentionally causing danger by means of genetically modified or pathogenic organisms (Art. 230<sup>bis</sup> para. 1), transmission of human diseases (Art. 231), intentional contamination of drinking water (Art. 234 para. 1);
 - k.[^66a-9] disruption of public traffic (Art. 237 no 1);
-- l.[^66a-10] acts preparatory to the commission of an offence (Art. 260<sup>bis</sup> para. 1 and 3), participation in or support for a criminal or terrorist organisation (Art. 260<sup>ter</sup>), endangering public safety with weapons (Art. 260<sup>quater</sup>), financing terrorism (Art. 260<sup>quinquies</sup>) or recruiting, training and travelling with a view to committing a terrorist offence (Art. 260<sup>sexies</sup>);
+- l.[^66a-10] acts preparatory to the commission of an offence (Art. 260<sup>bis</sup> para. 1 and 3), participation in or support for a criminal or terrorist organisation (Art. 260<sup>ter</sup>), endangering public safety with weapons (Art. 260<sup>quater</sup>), financing terrorism (Art. 260<sup>quinquies</sup>) or recruiting, training and travelling with the intention of committing a terrorist offence (Art. 260<sup>sexies</sup>);
 - m.<sup>.</sup> genocide (Art. 264), felonies against humanity (Art. 264*a*), serious violations of the Geneva Conventions of 12 August 1949[^66a-11] (Art. 264*c*), other war crimes (Art. 264*d*–264*h*);
-- n. wilful violations of Article 116 paragraph 3 or Article 118 paragraph 3 of the Foreign Nationals Act of 16 December 2005[^66a-12];
+- n. intentional violations of Article 116 paragraph 3 or Article 118 paragraph 3 of the Foreign Nationals Act of 16 December 2005[^66a-12];
 - o. violation of Articles 19 paragraph 2 or 20 paragraph 2 of the Narcotics Act of 3 October 1951[^66a-13] (NarcA);
 - p.[^66a-14] violation of Article 74 paragraph 4 of the Intelligence Service Act of 25 September 2015[^66a-15] (IntelSA).
 
@@ -1279,7 +1279,7 @@ If a person receives a sentence or is made subject to a measure under Articles 5
 
 - a. trafficking in human beings (Art. 182) where the offence was committed for the purpose of the sexual exploitation of a minor;
 - b. sexual acts with children (Art. 187), sexual acts with dependent persons (Art. 188) or sexual acts with minors against payment (Art. 196);
-- c.[^67-4] sexual abuse and indecent assault (Art. 189), rape (Art. 190), abuse of a person incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), indecent conduct (Art. 194), encouraging prostitution (Art. 195), unauthorised passing on of private sexual content (Art. 197*a*) or sexual harassment (Art. 198), where the offence is committed against or in front of a minor;
+- c.[^67-4] sexual abuse and indecent assault (Art. 189), rape (Art. 190), abuse of a person incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), indecent exposure (Art. 194), encouraging prostitution (Art. 195), unauthorised passing on of private sexual content (Art. 197*a*) or sexual harassment (Art. 198), where the offence is committed against or in front of a minor;
 - d.
 
   pornography (Art. 197):
@@ -1293,7 +1293,7 @@ If a person receives a sentence or is made subject to a measure under Articles 5
 
 - a.
 
-  trafficking in human beings (Art. 182) where the offence was committed for the purpose of the sexual exploitation, sexual abuse and indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), indecent conduct (Art. 194), encouraging prostitution (Art. 195), unauthorised passing on of private sexual content (Art. 197*a*) or sexual harassment (Art. 198), where the offence is committed against or in front of:[^67-6]
+  trafficking in human beings (Art. 182) where the offence was committed for the purpose of the sexual exploitation, sexual abuse and indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), indecent exposure (Art. 194), encouraging prostitution (Art. 195), unauthorised passing on of private sexual content (Art. 197*a*) or sexual harassment (Art. 198), where the offence is committed against or in front of:[^67-6]
 
   - 1\. an especially vulnerable adult victim, or
   - 2\. an adult victim who is not especially vulnerable, but who was incapable of resistance or of judgement or who was unable to defend him- or herself as a result of physical or psychological dependence;
@@ -1586,7 +1586,7 @@ If the prison inmate is released on parole or granted final release and it subse
 
 <sup>1</sup>
 
-The Commission under Article 62*d* paragraph 2 shall with a view to a transfer to an open penal institution and the authorisation of a relaxation in the execution of the sentence assess the danger to the community of the offender if:
+The Commission under Article 62*d* paragraph 2 shall, with a view to a transfer to an open penal institution and the authorisation of a relaxation in the execution of the sentence, assess the danger to the community of the offender if:
 
 - a. they have committed a felony in terms of Article 64 paragraph 1; and
 - b. the executive authority cannot satisfactorily answer the question of whether they are a danger to other prison inmates.
@@ -1781,7 +1781,7 @@ Where they show the required aptitude and the possibility exists, prison inmates
 
 <sup>1</sup> The personal effects and the accommodation of the prison inmate may be searched in the interests of maintaining order and security in the penal institution.
 
-<sup>2</sup> Prison inmates who are suspected of concealing unpermitted articles about their person or in their body, may be subjected to a body search. The search must be conducted by a person of the same gender. If the removal of clothing is required, this must be carried out in the absence of other prison inmates. Searches of body cavities must be carried out by a doctor or other medically qualified staff.
+<sup>2</sup> Prison inmates who are suspected of concealing unpermitted articles about their person or in their body, may be subjected to a body search. The search must be conducted by a person of the same sex. If the removal of clothing is required, this must be carried out in the absence of other prison inmates. Searches of body cavities must be carried out by a doctor or other medically qualified staff.
 
 ### Parole
 
@@ -2120,7 +2120,7 @@ The provisions of the First Part also apply to contraventions, subject to the fo
 
 <sup>1</sup> Unless the law provides otherwise, the maximum amount of a fine is 10,000 francs.
 
-<sup>2</sup> In its judgment, the court shall impose an alternative custodial sentence of at least one day and a maximum of three months for the event that the fine is wilfully not paid.
+<sup>2</sup> In its judgment, the court shall impose an alternative custodial sentence of at least one day and a maximum of three months for the event that the fine is culpably not paid.
 
 <sup>3</sup> The court determines the fine and the alternative custodial sentence based on the offender's circumstances so that the offender receives the sentence that is commensurate with their culpable conduct.
 
@@ -2240,7 +2240,7 @@ If a mother kills her child either during delivery or while she is under the inf
 
 #### Art. 117
 
-Any person who causes the death of another through negligence or recklessness shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who causes the death of another through negligence shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### 2. Abortion
 
@@ -2322,7 +2322,7 @@ Any physician who terminates a pregnancy in terms of Article 119 paragraph 2 and
 
 shall be liable to a custodial sentence of from one year to ten years.
 
-Any person who wilfully:
+Any person who intentionally:
 
 - a. inflicts a life-threatening injury on another;
 - b. inflicts a serious injury on the person, or on an important organ or limb of another, makes an important organ or limb unusable, makes another permanently unfit for work, infirm or mentally ill, or who disfigures the face of another badly and permanently;
@@ -2336,9 +2336,9 @@ Any person who wilfully:
 
 [^123-1]
 
-<sup>1.</sup> Any person who wilfully causes injury to the person or the health of another in any other way shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who intentionally causes injury to the person or the health of another in any other way shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-…[^123-2] [^123-3]
+…[^123-2]<sup>,</sup> [^123-3]
 
 <sup>2.</sup> The offender shall be prosecuted *ex officio*,[^123-4]
 
@@ -2433,7 +2433,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^128bis-1]
 
-Any person who wilfully and without good reason alerts a public or charitable security, rescue or emergency service, and in particular the police, fire or ambulance services shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who intentionally and without good reason alerts a public or charitable security, rescue or emergency service, and in particular the police, fire or ambulance services shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 [^128bis-1]: Inserted by No I of the FA of 17 June 1994, in force since 1 Jan. 1995 ([AS 1994 2290](https://fedlex.data.admin.ch/eli/oc/1994/2290_2290_2290)2307; [BBl 1991 II 969](https://fedlex.data.admin.ch/eli/fga/1991/2_969_933_797)).
 
@@ -2512,7 +2512,7 @@ Any person who administers or makes available for consumption to children under 
 
 #### Art. 137
 
-<sup>1.</sup> Any person who for their own or for another's unlawful gain appropriates moveable property which belongs to another shall be liable, unless the special requirements of Articles 138-140 apply, to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who, with the intention of securing an unlawful gain for themselves or another, appropriates moveable property which belongs to another shall be liable, unless the special requirements of Articles 138-140 apply, to a custodial sentence not exceeding three years or to a monetary penalty.
 
 <sup>2.</sup> If the offender has found the property or if the property has inadvertently come into their possession,
 
@@ -2526,7 +2526,7 @@ the offence shall only be prosecuted on complaint.
 
 #### Art. 138
 
-<sup>1.</sup> Any person who for their own or another's unlawful gain appropriates moveable property belonging to another but entrusted to him,
+<sup>1.</sup> Any person who, with the intention of securing an unlawful gain for themselves or another, appropriates moveable property belonging to another but entrusted to him,
 
 any person who makes unlawful use of financial assets entrusted to them for their own or another's benefit,
 
@@ -2542,7 +2542,7 @@ Misappropriation to the detriment of a relative or family member is prosecuted o
 
 #### Art. 139
 
-<sup>1.</sup> Any person who for their own or for another's unlawful gain, appropriates moveable property belonging to another person with the object of permanently depriving the owner of it shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1.</sup> Any person who, with the intention of securing an unlawful gain for themselves or another, appropriates moveable property belonging to another person with the object of permanently depriving the owner of it shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2.</sup> …[^139-1]
 
@@ -2599,13 +2599,13 @@ Any person who for their own or another's benefit unlawfully uses financial asse
 
 <sup>1</sup> Any person who unlawfully obtains energy from an installation that serves to exploit natural power, and in particular an electrical installation shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2</sup> If the offender acts for their own or for another's unlawful gain, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.
+<sup>2</sup> If the offender acts with the intention of securing an unlawful gain for themselves or another, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.
 
 ### Data theft
 
 #### Art. 143
 
-<sup>1</sup> Any person who for their own or for another's unlawful gain obtains for themselves or another data that are stored or transmitted electronically or in some similar manner and which are not intended for them and have been specially secured to prevent their access shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who, with the intention of securing an unlawful gain for themselves or another obtains for themselves or another data that are stored or transmitted electronically or in some similar manner and which are not intended for them and have been specially secured to prevent their access shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> The theft of data to the detriment of a relative or family member is prosecuted only on complaint.
 
@@ -2658,7 +2658,7 @@ Any debtor who, with the intention of causing loss to their creditors, appropria
 
 #### Art. 146
 
-<sup>1</sup> Any person who with a view to securing an unlawful gain for themselves or another wilfully induces an erroneous belief in another person by false pretences or concealment of the truth, or wilfully reinforces an erroneous belief, and thus causes that person to act to the prejudice of their own or another's financial interests, shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who, with the intention of securing an unlawful gain for themselves or another, mendaciously induces an erroneous belief in another person by false pretences or concealment of the truth, or mendaciously reinforces an erroneous belief, and thus causes that person to act to the prejudice of their own or another's financial interests, shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the offender acts for commercial gain, a custodial sentence of from six months to ten years shall be imposed.[^146-1]
 
@@ -2670,7 +2670,7 @@ Any debtor who, with the intention of causing loss to their creditors, appropria
 
 #### Art. 147
 
-<sup>1</sup> Any person who with a view to their own or another's unlawful gain, by the incorrect, incomplete or unauthorised use of data, or in a similar way, influences the electronic or similar processing or transmission of data and as a result causes the transfer of financial assets, thus occasioning loss to another, or immediately thereafter conceals such a transfer shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who, with the intention of securing an unlawful gain for themselves or another, by the incorrect, incomplete or unauthorised use of data, or in a similar way, influences the electronic or similar processing or transmission of data and as a result causes the transfer of financial assets, thus occasioning loss to another, or immediately thereafter conceals such a transfer shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the offender acts for commercial gain, a custodial sentence of from six months to ten years shall be imposed.[^147-1]
 
@@ -2682,7 +2682,7 @@ Any debtor who, with the intention of causing loss to their creditors, appropria
 
 #### Art. 148
 
-<sup>1</sup> Any person who with a view to obtaining services of a financial value and although incapable of making or unwilling to make payment uses a cheque card or credit card or similar means of payment that has been entrusted to them by the issuer thereof and thus causes loss to the issuer, shall be liable, provided the issuer and the contracting enterprise have taken reasonable measures in order to prevent the abuse of the card, to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who, with the intention of obtaining services of a financial value despite being incapable of making or unwilling to make payment, uses a cheque card or credit card or similar means of payment that has been entrusted to them by the issuer thereof and thus causes loss to the issuer, shall be liable, provided the issuer and the contracting enterprise have taken reasonable measures in order to prevent the abuse of the card, to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the offender acts for commercial gain, a custodial sentence of from six months to ten years shall be imposed.[^148-1]
 
@@ -2733,11 +2733,11 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 [^150bis-1]: Inserted by Annex No 2 of the Telecommunications Act of 30 April 1997, in force since 1 Jan. 1998 ([AS 1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187); [BBl 1996 III 1405](https://fedlex.data.admin.ch/eli/fga/1996/3_1405_1361_1297)).
 [^150bis-2]: Penalties revised by No II 1 para. 16 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 
-### Maliciously causing financial loss to another
+### Mendaciously causing financial loss to another
 
 #### Art. 151
 
-Any person who without a view to gain, by making representations or suppressing information, wilfully misleads another or wilfully reinforces an erroneous belief with the result that the person in error acts in such a way that they or another incur a financial loss shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who without a view to gain, by making representations or suppressing information, mendaciously misleads another or mendaciously reinforces an erroneous belief with the result that the person in error acts in such a way that they or another incur a financial loss shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### False statements about commercial business
 
@@ -2790,7 +2790,7 @@ Any person who, as a member of the board of directors of a company whose shares 
 
 #### Art. 155
 
-<sup>1.</sup> Any person who with a view to deceiving another in trade or business
+<sup>1.</sup> Any person who, with the intention of deceiving another in trade or business,
 
 manufactures a product which appears to have a higher commercial value than its true commercial value, in particular by being an imitation or counterfeit version of another product,
 
@@ -2806,7 +2806,7 @@ shall be liable, provided the act is not subject to a more severe penalty under 
 
 #### Art. 156
 
-<sup>1.</sup> Any person who, with a view to securing an unlawful gain for themselves or for another, induces another person by using violence or the threat of seriously detrimental consequences to behave in such a way that they or another sustain financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1.</sup> Any person who, with the intention of securing an unlawful gain for themselves or another, induces another person by using violence or the threat of seriously detrimental consequences to behave in such a way that they or another sustain financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2.</sup> If the offender acts for commercial gain, or if they repeatedly commit the offence against the same person, a custodial sentence of from six months to ten years shall be imposed.[^156-1]
 
@@ -2839,9 +2839,9 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 Any person who acts in the same manner in their capacity as the manager of a business but without specific instructions shall be liable to the same penalty.
 
-If the offender acts with a view to securing an unlawful financial gain for themselves or another, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.[^158-1]
+If the offender acts with the intention of securing an unlawful gain for themselves or another, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.[^158-1]
 
-<sup>2.</sup> Any person who, with a view to securing an unlawful gain for themselves or another, abuses the authority granted to them by statute, an official order or a legal transaction to act on behalf of another and as a result causes that other person to sustain financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>2.</sup> Any person who, with the intention of securing an unlawful gain for themselves or another, abuses the authority granted to them by statute, an official order or a legal transaction to act on behalf of another and as a result causes that other person to sustain financial loss shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>3.</sup> Criminal mismanagement to the detriment of a relative or family member is prosecuted only on complaint.
 
@@ -2885,7 +2885,7 @@ If the original offence is prosecuted only on complaint, the handling of stolen 
 
 Any person who betrays a manufacturing or trade secret that they are under a statutory or contractual duty contract not to reveal,
 
-any person who exploits for their own or for another’s advantage such a betrayal,
+any person who exploits such a betrayal for their own or for another’s advantage,
 
 shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -2955,7 +2955,7 @@ Any debtor who fails to comply with a statutory obligation to which they are sub
 
 #### Art. 167
 
-Any debtor who, in the knowledge of their inability to pay and with a view to showing preference to some of their creditors to the prejudice of others, acts in order to achieve such an aim, and in particular pays debts that are not due for payment, pays due debts in a way that differs from the normal methods, or provides security for a debt from their own means when they are not obliged to do so, shall be liable, if they are declared bankrupt or an unpaid debt certificate has been issued in their respect, to a custodial sentence not exceeding three years or to a monetary penalty.
+Any debtor who, in the knowledge of their inability to pay and with the intention of showing preference to some of their creditors to the prejudice of others, acts in order to achieve such an aim, and in particular pays debts that are not due for payment, pays due debts in a way that differs from the normal methods, or provides security for a debt from their own means when they are not obliged to do so, shall be liable, if they are declared bankrupt or an unpaid debt certificate has been issued in their respect, to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Subornation in enforcement proceedings
 
@@ -3072,7 +3072,7 @@ shall be liable on complaint to a monetary penalty.[^173-2]
 [^173-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; [BBl 1949 I 1249](https://fedlex.data.admin.ch/eli/fga/1949/1_1249_1233_613)).
 [^173-2]: Penalties revised by No II 1 of the FA of 19 June 2015 (Amendment to the Law on Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 
-### Wilful defamation
+### Intentional defamation
 
 #### Art. 174
 
@@ -3092,7 +3092,7 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 
 #### Art. 175
 
-<sup>1</sup> If the defamation, whether wilful or not, is directed at a person who is deceased or who has been declared missing presumed dead, the relatives of the deceased person or the person missing presumed dead are entitled to apply for prosecution.
+<sup>1</sup> If the defamation, whether intentional or not, is directed at a person who is deceased or who has been declared missing presumed dead, the relatives of the deceased person or the person missing presumed dead are entitled to apply for prosecution.
 
 <sup>2</sup> No offence is committed if, at the time of the statement being made, the deceased person has been dead or the missing person missing for more than 30 years.
 
@@ -3100,7 +3100,7 @@ shall be liable on complaint to a custodial sentence not exceeding three years o
 
 #### Art. 176
 
-Verbal defamation, whether wilful or not, is regarded as the equivalent of defamatory statements made in writing, in pictures, by gestures or in any other manner.
+Verbal defamation, whether intentional or not, is regarded as the equivalent of defamatory statements made in writing, in pictures, by gestures or in any other manner.
 
 ### Insult
 
@@ -3281,7 +3281,7 @@ The offender is prosecuted *ex officio* if they:
 
 - a. are the spouse of the victim and the threat was made during the marriage or within one year of divorce; or
 - a<sup>bis</sup>.[^180-1] are the registered partner of the victim and the threat was made during the registered partnership or within one year of its dissolution; or
-- b. are the heterosexual or homosexual partner of the victim, provided they are cohabiting for an unlimited period and the threat was made during this time or within one year of separation.[^180-2]
+- b. are the heterosexual or homosexual partner of the victim, provided they are or were cohabiting for an indefinite period and the threat was made during this time or within one year of separation.[^180-2]
 
 [^180-1]: Inserted by Annex No 18 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^180-2]: Inserted by No I of the FA of 3 Oct. 2003 (Prosecution of Offences within Marriage or Registered Partnerships), in force since 1 April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176)1407; [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
@@ -3304,6 +3304,16 @@ Any person who, by the use of force or the threat of serious detriment or other 
 
 [^181a-1]: Inserted by No I 6 of the FA of 15 June 2012 on Measures against Forced Marriages, in force since 1 July 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^181a-2]: Amended by Annex No 5 of the FA of 14 June 2024 (Measures against Marriages involving Minors), in force since 1 Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### Stalking
+
+#### Art. 181b
+
+[^181b-1]
+
+Any person who persistently pursues, harasses or threatens another person in a manner that is likely to significantly restrict that person’s freedom to live their life as they wish shall, on complaint, be liable to a custodial sentence not exceeding three years or a monetary penalty.
+
+[^181b-1]: Inserted by No I of the FA of 20 June 2025 (Improving Criminal Law Protection against Stalking), in force since 1 Jan. 2026 (AS **2025** 740; BBl **2024** 751, 1219)
 
 ### Trafficking in human beings
 
@@ -3389,7 +3399,7 @@ shall be liable to a custodial sentence of not less than one year.
 
 <sup>1</sup> shall be liable to a custodial sentence of not less than one year.
 
-Any person who with the intention of removing a person from the protection of the law for a prolonged period of time:
+Any person who, with the intention of removing a person from the protection of the law for a prolonged period of time:
 
 - a. on behalf of or with the acquiescence of a State or political organisation, deprives that person of their liberty, and thereafter refuses to give information as to their fate or whereabouts; or
 - b. on behalf of or with the acquiescence of a State or political organisation or in violation of a legal duty refuses to give information as to the fate or whereabouts of the person concerned.
@@ -3402,7 +3412,7 @@ Any person who with the intention of removing a person from the protection of th
 
 #### Art. 186
 
-Any person who, against the will of the lawful occupants enters a building, an apartment, a self-contained room within a building, an enclosed area, courtyard or garden forming a direct part of a building, or a clearly demarcated workplace or, despite requests from the lawful occupants to leave, remains in such a location, shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who, against the will of the lawful occupants, enters a building, an apartment, a self-contained room within a building, an enclosed area, courtyard or garden forming a direct part of a building, or a clearly demarcated workplace or, despite requests from the lawful occupants to leave, remains in such a location, shall be liable on complaint to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Title Five: Offences against Sexual Integrity
 
@@ -3524,13 +3534,13 @@ Any person who, in exercising a professional or organised extra-professional act
 
 [^193a-1]: Inserted by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-### Indecent conduct
+### Indecent exposure
 
 #### Art. 194
 
 [^194-1]
 
-<sup>1</sup> Any person who engages in an act of indecent conduct shall be liable on complaint to a fine.
+<sup>1</sup> Any person who engages in an act of indecent exposure shall be liable on complaint to a fine.
 
 <sup>2</sup> In serious cases, a monetary penalty shall be imposed. The offence shall be prosecuted on complaint.
 
@@ -3760,9 +3770,9 @@ Any person who removes a minor from or refuses to return a minor to the person h
 
 #### Art. 221
 
-<sup>1</sup> Any person who wilfully causes a fire and thus does damage to another or causes a danger to the public shall be liable to a custodial sentence of not less than one year.
+<sup>1</sup> Any person who intentionally causes a fire and thus does damage to another or causes a danger to the public shall be liable to a custodial sentence of not less than one year.
 
-<sup>2</sup> If the offender wilfully endangers the life and limb of others, the penalty is a custodial sentence of not less than three years.
+<sup>2</sup> If the offender knowingly endangers the life and limb of others, the penalty is a custodial sentence of not less than three years.
 
 <sup>3</sup> If the damage caused is minor, the penalty may be reduced to a custodial sentence of up to three years or to a monetary penalty.
 
@@ -3780,21 +3790,21 @@ Any person who removes a minor from or refuses to return a minor to the person h
 
 #### Art. 223
 
-<sup>1.</sup> Any person who wilfully causes an explosion involving gas, petrol, paraffin or a similar substance and thus knowingly endangers the life and limb or property of others shall be liable to a custodial sentence of not less than one year.
+<sup>1.</sup> Any person who intentionally causes an explosion involving gas, petrol, paraffin or a similar substance and thus knowingly endangers the life and limb or property of others shall be liable to a custodial sentence of not less than one year.
 
 If only minor loss, damage or injury is caused, a custodial sentence not exceeding three years or a monetary penalty may be imposed.
 
 <sup>2.</sup> If the offence is committed through negligence, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
-### Misuse of explosives and toxic gases with criminal intent
+### Causing danger through misuse of explosives and toxic gases with felonious intent
 
 #### Art. 224
 
-<sup>1</sup> Any person who wilfully and with criminal intent endangers the life and limb or the property of others through the use of explosives or toxic gases shall be liable to a custodial sentence of not less than one year.
+<sup>1</sup> Any person who with felonious intent endangers the life and limb or the property of others through the use of explosives or toxic gases shall be liable to a custodial sentence of not less than one year.
 
 <sup>2</sup> If only an insignificant danger to property is caused, a custodial sentence not exceeding three years or a monetary penalty may be imposed.
 
-### Misuse of explosives or toxic gases without criminal intent or through negligence
+### Causing danger through misuse of explosives or toxic gases without felonious intent or through negligence
 
 [^book2-tit7-lvlu5-1]
 
@@ -3804,7 +3814,7 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 [^225-1]
 
-<sup>1</sup> Any person who wilfully but without criminal intent endangers the life and limb or the property of others through the use of explosives or toxic gases shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who intentionally but without felonious intent endangers the life and limb or the property of others through the use of explosives or toxic gases shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the offence is committed through negligence, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
@@ -3830,9 +3840,9 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 [^226bis-1]
 
-<sup>1</sup> Any person who wilfully causes serious danger to the life or the health of people or to the property of others by means of nuclear energy, radio-active substances or ionising radiation shall be liable to a custodial sentence or a monetary penalty.
+<sup>1</sup> Any person who intentionally causes serious danger to the life or the health of people or to the property of others by means of nuclear energy, radio-active substances or ionising radiation shall be liable to a custodial sentence or a monetary penalty.
 
-<sup>2</sup> If the offence is committed through negligence, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.
+<sup>2</sup> If the offence is committed through negligence, a custodial sentence not exceeding five years or a monetary penalty shall be imposed.
 
 [^226bis-1]: Inserted by Annex No II 2 of the Nuclear Energy Act of 21 March 2003 ([AS 2004 4719](https://fedlex.data.admin.ch/eli/oc/2004/723); [BBl 2001 2665](https://fedlex.data.admin.ch/eli/fga/2001/546)). Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -3854,7 +3864,7 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 #### Art. 227
 
-<sup>1.</sup> Any person who wilfully causes a flood, the collapse of a structure or a landslide or rock fall and thus knowingly endangers the life and limb of people or the property of others shall be liable to a custodial sentence of not less than one year.
+<sup>1.</sup> Any person who intentionally causes a flood, the collapse of a structure or a landslide or rock fall and thus knowingly endangers the life and limb of people or the property of others shall be liable to a custodial sentence of not less than one year.
 
 If only minor loss, damage or injury is caused, a custodial sentence not exceeding three years or a monetary penalty may be imposed.
 
@@ -3864,7 +3874,7 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 #### Art. 228
 
-<sup>1.</sup> Any person who wilfully damages or destroys electrical installations, hydraulic structures such as dams, weirs, dikes, and floodgates, or structures erected to provide protection against natural forces such as landslides or avalanches, and thus knowingly endangers the life and limb of people or the property of others, shall be liable to a custodial sentence of not less than one year.[^228-1]
+<sup>1.</sup> Any person who intentionally damages or destroys electrical installations, hydraulic structures such as dams, weirs, dikes, and floodgates, or structures erected to provide protection against natural forces such as landslides or avalanches, and thus knowingly endangers the life and limb of people or the property of others, shall be liable to a custodial sentence of not less than one year.[^228-1]
 
 If only minor loss, damage or injury is caused, a custodial sentence not exceeding three years or a monetary penalty may be imposed.
 
@@ -3872,11 +3882,11 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 [^228-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Breach of construction regulations
+### Causing danger by breaching construction regulations
 
 #### Art. 229
 
-<sup>1</sup> Any person engaged in the management or execution of construction or demolition work who wilfully disregards the accepted rules of construction and as a result knowingly endangers the life and limb of others shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^229-1]
+<sup>1</sup> Any person engaged in the management or execution of construction or demolition work who intentionally disregards the accepted rules of construction and as a result knowingly endangers the life and limb of others shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^229-1]
 
 <sup>2</sup> If the offender disregards the accepted rules of construction through negligence, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
@@ -3886,9 +3896,9 @@ If only minor loss, damage or injury is caused, a custodial sentence not exceedi
 
 #### Art. 230
 
-<sup>1.</sup> Any person who wilfully damages, destroys, removes, otherwise renders unusable or deactivates a safety device which serves to prevent accidents in a factory or other commercial premises or on a machine,
+<sup>1.</sup> Any person who intentionally damages, destroys, removes, otherwise renders unusable or deactivates a safety device which serves to prevent accidents in a factory or other commercial premises or on a machine,
 
-any person who wilfully fails to install such a device in violation of the regulations,
+any person who intentionally fails to install such a device in violation of the regulations,
 
 and thus knowingly endangers the life and limb of others,
 
@@ -3908,7 +3918,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 <sup>1</sup>
 
-Any person who wilfully releases genetically modified or pathogenic organisms or the disrupts the operation of a facility for the research into, or the safeguarding, production or transport of such organisms shall be liable to a custodial sentence not exceeding ten years, provided they know or must reasonably believe that through their acts:
+Any person who intentionally releases genetically modified or pathogenic organisms or the disrupts the operation of a facility for the research into, or the safeguarding, production or transport of such organisms shall be liable to a custodial sentence not exceeding ten years, provided they know or must reasonably believe that through their acts:
 
 - a. they will endanger the life and limb of people; or
 - b. the natural composition of communities of animals and plants or their habitats will be seriously endangered.
@@ -3931,7 +3941,7 @@ Any person who maliciously transmits a dangerous communicable human disease shal
 
 #### Art. 232
 
-<sup>1.</sup> Any person who wilfully causes the transmission of an epizootic disease among domestic animals shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who intentionally causes the transmission of an epizootic disease among domestic animals shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 If the offender maliciously causes serious loss, damage or injury, the penalty is a custodial sentence of from one to five years.
 
@@ -3941,7 +3951,7 @@ If the offender maliciously causes serious loss, damage or injury, the penalty i
 
 #### Art. 233
 
-<sup>1.</sup> Any person who wilfully propagates a parasite or micro-organism that constitutes a danger to agriculture or forestry, shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who intentionally propagates a parasite or micro-organism that constitutes a danger to agriculture or forestry, shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 If the offender maliciously causes serious loss, damage or injury, the penalty is a custodial sentence of from one to five years.
 
@@ -3951,7 +3961,7 @@ If the offender maliciously causes serious loss, damage or injury, the penalty i
 
 #### Art. 234
 
-<sup>1</sup> Any person who wilfully contaminates drinking water intended for people or domestic animals with substances that are damaging to health shall be liable to a custodial sentence of from one month to five years or to a monetary penalty of not less than 30 daily penalty units.[^234-1]
+<sup>1</sup> Any person who intentionally contaminates drinking water intended for people or domestic animals with substances that are damaging to health shall be liable to a custodial sentence of from one month to five years or to a monetary penalty of not less than 30 daily penalty units.[^234-1]
 
 <sup>2</sup> If the offence is committed through negligence, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
@@ -3961,7 +3971,7 @@ If the offender maliciously causes serious loss, damage or injury, the penalty i
 
 #### Art. 235
 
-<sup>1.</sup> Any person who wilfully produces or treats animal feed or feedstuffs for domestic animals in such a way that they constitute a danger to the health of animals shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any person who intentionally produces or treats animal feed or feedstuffs for domestic animals in such a way that they constitute a danger to the health of animals shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 If the offender carries on a commercial operation to produce or treat animal feed that is harmful to animals, the penalty is a custodial sentence of from one month to three years or a monetary penalty of not less than 30 daily penalty units. In such cases, public notice shall be given of the conviction.[^235-1]
 
@@ -3976,7 +3986,7 @@ If the offender carries on a commercial operation to produce or treat animal fee
 
 #### Art. 236
 
-<sup>1</sup> Any person who wilfully imports, stores, offers for sale or markets animal feed or animal feedstuffs that constitute a danger to animals shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. Public notice is given of the conviction.
+<sup>1</sup> Any person who intentionally imports, stores, offers for sale or markets animal feed or animal feedstuffs that constitute a danger to animals shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. Public notice is given of the conviction.
 
 <sup>2</sup> If the offence is committed through negligence, a monetary penalty shall be imposed.[^236-1]
 
@@ -3990,7 +4000,7 @@ If the offender carries on a commercial operation to produce or treat animal fee
 
 #### Art. 237
 
-<sup>1.</sup> Any person who wilfully obstructs, disrupts or endangers public traffic, in particular traffic on the roads, on water, in the air or on rail and as a result knowingly causes danger to the life and limb or property of other people shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1.</sup> Any person who intentionally obstructs, disrupts or endangers public traffic, in particular traffic on the roads, on water, in the air or on rail and as a result knowingly causes danger to the life and limb or property of other people shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 If the offender thus knowingly endangers the life and limb of a large number of people, a custodial sentence not exceeding ten years or a monetary penalty shall be imposed.[^237-1]
 
@@ -4012,9 +4022,9 @@ If the offender thus knowingly endangers the life and limb of a large number of 
 
 #### Art. 239
 
-<sup>1.</sup> Any person who wilfully obstructs, disrupts or endangers the operation of a public service and in particular the railway, postal, telegraphic or telephone services,
+<sup>1.</sup> Any person who intentionally obstructs, disrupts or endangers the operation of a public service and in particular the railway, postal, telegraphic or telephone services,
 
-any person who wilfully obstructs, disrupts or endangers the operation of a public utility or installation which provides water, light, power or heat,
+any person who intentionally obstructs, disrupts or endangers the operation of a public utility or installation which provides water, light, power or heat,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
@@ -4034,7 +4044,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>3</sup> The offender is also liable to the foregoing penalties if they committed the act while abroad, have entered Switzerland and are not being extradited, provided the act is also an offence at the place of commission.
 
-### Falsification of money
+### Falsifying money
 
 #### Art. 241
 
@@ -4054,7 +4064,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^242-1]: Term in accordance with No II 1 para. 2 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979). This amendment has been taken into account throughout the Second Book.
 
-### Imitation of bank notes, coins or official stamps without intent to commit forgery
+### Imitating bank notes, coins or official stamps without intent to commit forgery
 
 #### Art. 243
 
@@ -4076,7 +4086,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 [^243-2]: Penalties revised by No II 1 para. 16 of the FA of 13 Dec. 2002, in force since 1 Jan. 2007 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549)3535; BBl **1999** 1979).
 [^243-3]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### Import, acquisition and storage of counterfeit money
+### Importing, acquiring and storing counterfeit money
 
 #### Art. 244
 
@@ -4128,7 +4138,7 @@ any person who makes unlawful use of equipment which is used for the production 
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-### Falsification of weights and measures
+### Falsifying weights and measures
 
 #### Art. 248
 
@@ -4168,7 +4178,7 @@ The provisions this Title also apply in the case of foreign coins, paper money, 
 
 [^251-1]
 
-<sup>1.</sup> Any person who with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for themselves or another,
+<sup>1.</sup> Any person who, with the intention of causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for themselves or another,
 
 produces a false document, falsifies a genuine document, uses the genuine signature or mark of another to produce a false document, falsely certifies or causes to be falsely certified a fact of legal significance or,
 
@@ -4213,7 +4223,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 254
 
-<sup>1</sup> Any person who damages, destroys, conceals or misappropriates a document over which they have no exclusive right of disposal, with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for themselves or another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who damages, destroys, conceals or misappropriates a document over which they have no exclusive right of disposal, with the intention of causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for themselves or another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> The suppression of documents to the detriment of a relative or family member is prosecuted only on complaint.
 
@@ -4319,7 +4329,7 @@ Any person who:
 
   participates in an organisation which pursues the objective of:
 
-  - 1\. committing violent felonies or securing a financial gain by criminal means, or
+  - 1\. committing violent felonies or securing a financial gain by felonious means, or
   - 2\. committing violent felonies aimed at intimidating the population or coercing a State or an international organisation to act or refrain from acting; or who
 
 - b. supports such an organisation in its activities.
@@ -4330,7 +4340,7 @@ Any person who:
 
 <sup>4</sup> The court has the discretion to mitigate the penalty imposed (Art. 48*a*) if the offender makes an effort to foil the activities of the organisation.
 
-<sup>5</sup> The foregoing penalties also apply to any person who commits the offence outside Switzerland provided the organisation carries out or intends to carry out its criminal activities wholly or partly in Switzerland. Article 7 paragraphs 4 and 5 applies.
+<sup>5</sup> The foregoing penalties also apply to any person who commits the offence outside Switzerland provided the organisation carries out or intends to carry out its felonious activities wholly or partly in Switzerland. Article 7 paragraphs 4 and 5 applies.
 
 [^260ter-1]: Inserted by No I of the FA of 18 March 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614)1618; [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)). Amended by Annex No II 2 of the FedD of 25 Sept. 2020 on the Approval and Implementation of the Council of Europe Convention on the Prevention of Terrorism and its Additional Protocol and the Strengthening of Criminal Justice Instruments for combating Terrorism and Organised Crime, in force since 1 July 2021 ([AS 2021 360](https://fedlex.data.admin.ch/eli/oc/2021/360); [BBl 2018 6427](https://fedlex.data.admin.ch/eli/fga/2018/2301)).
 [^260ter-2]: [SR 0.518.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1960), [0.518.23](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1964), [0.518.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1966), [0.518.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1967)
@@ -4352,17 +4362,17 @@ Any person who sells, hires, gifts, hands over or procures firearms, weapons pro
 
 [^260quinquies-1]
 
-<sup>1</sup> Any person who collects or provides funds with a view to financing a violent crime that is intended to intimidate the public or to coerce a state or international organisation into carrying out or not carrying out an act shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who collects or provides funds with the intention of financing a violent crime that is intended to intimidate the public or to coerce a state or international organisation into carrying out or not carrying out an act shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> If the person merely acknowledges the possibility that the funds may be used to finance terrorism, they shall not be liable to a penalty under this Article.
 
-<sup>3</sup> The act does not constitute the financing of a terrorist offence if it is carried out with a view to establishing or re-establishing a democratic regime or a state governed by the rule of law or with a view to exercising or safeguarding human rights.
+<sup>3</sup> The act does not constitute the financing of a terrorist offence if it is carried out with the intention of establishing or re-establishing a democratic regime or a state governed by the rule of law or with the intention of exercising or safeguarding human rights.
 
 <sup>4</sup> Paragraph 1 does not apply if the financing is intended to support acts that do not violate the rules of international law on the conduct of armed conflicts.
 
 [^260quinquies-1]: Inserted by No I 1 of the FA of 21 March 2003 (Financing of Terrorism), in force since 1 Oct. 2003 ([AS 2003 3043](https://fedlex.data.admin.ch/eli/oc/2003/417)3047; [BBl 2002 5390](https://fedlex.data.admin.ch/eli/fga/2002/841)).
 
-### Recruiting, training and travelling with a view to committing a terrorist offence
+### Recruiting, training and travelling with the intention of committing a terrorist offence
 
 #### Art. 260<sup>sexies</sup>
 
@@ -4370,7 +4380,7 @@ Any person who sells, hires, gifts, hands over or procures firearms, weapons pro
 
 <sup>1</sup> shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-Any person who, with a view to committing a violent felony aimed at intimidating the population or coercing a State or an international organisation to act or refrain from acting:
+Any person who, with the intention of committing a violent felony aimed at intimidating the population or coercing a State or an international organisation to act or refrain from acting:
 
 - a. recruits another person to commit or participate in such an offence;
 - b. accepts training or trains others in the manufacture or use of weapons, explosives, radioactive materials, poisonous gases or other devices or dangerous substances for the purpose of committing or participating in the commission of such an offence; or
@@ -4434,7 +4444,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 #### Art. 263
 
-<sup>1</sup> Any person who is incapable of forming criminal intent as a result of voluntarily induced intoxication through alcohol or drugs, and while in this state commits an act punishable as a felony or misdemeanour shall be liable to a monetary penalty.[^263-1]
+<sup>1</sup> Any person who is in a state of mental incapacity as a result of voluntarily induced intoxication through alcohol or drugs, and while in this state commits an act punishable as a felony or misdemeanour shall be liable to a monetary penalty.[^263-1]
 
 <sup>2</sup> If the offender has, in this self-induced state, committed an act for which the only penalty is a custodial sentence, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.[^263-2]
 
@@ -4498,7 +4508,7 @@ The penalty is a custodial sentence of not less than five years for any person w
   - 2\. on behalf of or with the acquiescence of a State or political organisation or in violation of a legal duty refuses to give information on the fate or whereabouts of the person concerned;
 
 - f. inflicts severe pain or suffering or serious injury, whether physical or mental, on a person in their custody or under their control;
-- g.[^264a-1] commits rape in accordance with Article 190 paragraph 2 or 3 or an indecent assault in accordance with Article 189 paragraph 2 or 3 of comparable severity on a person, abuses that person by committing a sexual act of comparable severity, or forces a person into prostitution or to be sterilised or, after she has been forcibly made pregnant, confines her unlawfully with the intent of affecting the ethnic composition of a population;
+- g.[^264a-1] commits rape in accordance with Article 190 paragraph 2 or 3 or an indecent assault in accordance with Article 189 paragraph 2 or 3 of comparable severity on a person, abuses that person by committing a sexual act of comparable severity, or forces a person into prostitution or to be sterilised or, after she has been forcibly made pregnant, confines her unlawfully with the intention of affecting the ethnic composition of a population;
 - h. expels or by other coercive acts displaces persons from an area in which they are lawfully present;
 - i. in violation of international law and for political, racist, ethnic, religious, social or other reasons, severely denies or deprives a group of people of fundamental rights in connection with an offence under Title Twelve<sup>bis</sup> or Title Twelve<sup>ter</sup> or for the purpose of the systematic oppression or domination of an ethnic group;
 - j. commits any other act of a comparable seriousness to the felonies mentioned in this paragraph and thereby causes severe pain or suffering or serious injury, whether physical or mental, to a person.
@@ -4585,11 +4595,11 @@ The penalty is a custodial sentence of not less than three years for any person 
 
 [^264e-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-### c. Recruitment and use of child soldiers
+### c. Recruiting and using child soldiers
 
 #### Art. 264f
 
-<sup>1</sup> The penalty is a custodial sentence of not less than three years for any person who enlists a child under the age of fifteen into armed forces or groups or recruiting them for this purpose or using them to participate in armed conflicts.
+<sup>1</sup> The penalty is a custodial sentence of not less than three years for any person who enlists a child under the age of fifteen into armed forces or groups or recruits them for this purpose or uses them to participate in armed conflicts.
 
 <sup>2</sup> In especially serious cases, and in particular where the offence affects a number of children or the offender acts in a cruel manner, a custodial sentence of life may be imposed
 
@@ -4616,7 +4626,7 @@ The penalty is a custodial sentence of not less than three years for any person 
 
 <sup>3</sup> In less serious cases, a custodial sentence of not less than one year may be imposed.
 
-### e. Use of prohibited weapons
+### e. Using prohibited weapons
 
 #### Art. 264h
 
@@ -4753,7 +4763,7 @@ In serious cases a life sentence may be imposed.[^266-1]
 
 [^266bis-1]
 
-<sup>1</sup> Any person who with a view to bringing about or supporting foreign operations or activities directed against the security of Switzerland, contacts a foreign state, foreign parties, or other foreign organisations or their agents, or issues or disseminates false or distorted information shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who, with the intention of bringing about or supporting foreign operations or activities directed against the security of Switzerland, contacts a foreign state, foreign parties, or other foreign organisations or their agents, or issues or disseminates false or distorted information shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> In serious cases, a custodial sentence of not less than one year shall be imposed.[^266bis-2]
 
@@ -4764,15 +4774,15 @@ In serious cases a life sentence may be imposed.[^266-1]
 
 #### Art. 267
 
-<sup>1.</sup> Any person who wilfully makes known or makes accessible to a foreign state or its agents or to the general public a secret, the preservation of which is necessary in the interests of the Confederation,[^267-1]
+<sup>1.</sup> Any person who intentionally makes known or makes accessible to a foreign state or its agents or to the general public a secret, the preservation of which is necessary in the interests of the Confederation,[^267-1]
 
-any person who falsifies, destroys, disposes of or steals documents or evidence relating to legal relations between the Confederation or a canton and a foreign state and thus endangers the interests of the Confederation or the canton, or
+any person who falsifies, destroys, disposes of or steals documents or evidence relating to legal relations between the Confederation or a canton and a foreign state and thus intentionally endangers the interests of the Confederation or the canton, or
 
 any person who, as the authorised representative of the Confederation, conducts negotiations with a foreign government which are intended to be detrimental to the Confederation,
 
 shall be liable to a custodial sentence of not less than one year.
 
-<sup>2.</sup> Any person who wilfully makes known or makes accessible to the general public a secret, the preservation of which is necessary in the interests of the Confederation shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^267-2]
+<sup>2.</sup> Any person who intentionally makes known or makes accessible to the general public a secret, the preservation of which is necessary in the interests of the Confederation shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^267-2]
 
 <sup>3.</sup> If the offence is committed through negligence, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.[^267-3]
 
@@ -4843,7 +4853,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 Any person who seeks to obtain a manufacturing or trade secret in order to make it available to an external official agency, a foreign organisation, a private enterprise, or the agents of any of these, or,
 
-any person who makes a manufacturing or trade secret available to an foreign official agency, a foreign organisation, a private enterprise, or the agents of any of these,
+any person who makes a manufacturing or trade secret available to a foreign official agency, a foreign organisation, a private enterprise, or the agents of any of these,
 
 shall be liable to a custodial sentence not exceeding three years or to a monetary penalty, or in serious cases to a custodial sentence of not less than one year.[^273-1]
 
@@ -4908,7 +4918,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 [^277-1]
 
-<sup>1.</sup> Any person who wilfully forges, falsifies, suppresses or removes a call-up order, mobilisation order or marching order, or instructions intended for those obliged to perform military service, and
+<sup>1.</sup> Any person who intentionally forges, falsifies, suppresses or removes a call-up order, mobilisation order or marching order, or instructions intended for those obliged to perform military service, and
 
 any person who makes use of such a forged or falsified order or instruction,
 
@@ -5138,7 +5148,7 @@ Any person who publicly insults an international organisation or department ther
 
 #### Art. 298
 
-Any person who wilfully removes, damages or conducts themselves in an insulting manner towards a national emblem of a foreign state, and in particular its coat of arms or flag which is publicly displayed by one of its official representatives shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any person who maliciously removes, damages or conducts themselves in an insulting manner towards a national emblem of a foreign state, and in particular its coat of arms or flag which is publicly displayed by one of its official representatives shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 ### Violation of foreign territorial sovereignty
 
@@ -5199,7 +5209,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>1.</sup> Any person who makes an accusation to the authorities that a person whom they know to be innocent has committed a felony or a misdemeanour, with the intention of causing a criminal prosecution to be brought against that person,
 
-any person who otherwise carries out malicious acts with the intention of causing a criminal prosecution to be brought against a person whom they know to be innocent,
+any person who otherwise carries out mendacious acts with the intention of causing a criminal prosecution to be brought against a person whom they know to be innocent,
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
@@ -5383,7 +5393,7 @@ Any member of an authority or a public official who abuses their official powers
 
 [^313-1]
 
-Any public official who with a view to their own or another's gain levies taxes, fees or other charges which are not due or which exceed the statutory rates shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+Any public official who, with the intention of securing a gain for themselves or another, levies taxes, fees or other charges which are not due or which exceed the statutory rates shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 [^313-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5393,7 +5403,7 @@ Any public official who with a view to their own or another's gain levies taxes,
 
 [^314-1]
 
-Any member of an authority or public official who, in the course of a legal transaction and with a view to obtaining an unlawful advantage for themselves or another, damages the public interests that they have a duty to safeguard shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+Any member of an authority or public official who, in the course of a legal transaction and, with the intention of obtaining an unlawful advantage for themselves or another, damages the public interests that they have a duty to safeguard shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 [^314-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5409,9 +5419,9 @@ Any member of an authority or public official who, in the course of a legal tran
 
 [^317-1]
 
-<sup>1.</sup> Any public official or person acting in an official capacity who wilfully forges or falsifies a document or uses the genuine signature or handwriting of another to produce a false document,
+<sup>1.</sup> Any public official or person acting in an official capacity who intentionally forges or falsifies a document or uses the genuine signature or handwriting of another to produce a false document,
 
-any public official or person acting in an official capacity who wilfully falsely certifies a fact of legal significance, and in particular falsely certifies the authenticity of a signature or handwriting or the accuracy of a copy,
+any public official or person acting in an official capacity who intentionally falsely certifies a fact of legal significance, and in particular falsely certifies the authenticity of a signature or handwriting or the accuracy of a copy,
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
@@ -5443,7 +5453,7 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 318
 
-<sup>1.</sup> Any doctor, dentist, veterinary surgeon or midwife who wilfully issues a certificate, the content of which is untrue, for the purpose of being produced to the authorities or to obtain an unlawful advantage, or which may prejudice the substantial and lawful interests of third parties shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+<sup>1.</sup> Any doctor, dentist, veterinary surgeon or midwife who intentionally issues a certificate, the content of which is untrue, for the purpose of being produced to the authorities or to obtain an unlawful advantage, or which may prejudice the substantial and lawful interests of third parties shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 If the offender has requested, accepted or secured the promise of recompense, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.[^318-1]
 
@@ -5544,7 +5554,7 @@ A breach of professional confidentiality remains an offence following the termin
 
 [^322bis-1]
 
-<sup>1</sup> Any person who, as the person responsible in terms of Article 28 paragraphs 2 and 3, wilfully fails to prevent the publication of material, the publication of which constitutes an offence shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. If the offence is committed through negligence, the penalty is a fine.
+<sup>1</sup> Any person who, as the person responsible in terms of Article 28 paragraphs 2 and 3, intentionally fails to prevent the publication of material, the publication of which constitutes an offence shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. If the offence is committed through negligence, the penalty is a fine.
 
 <sup>2</sup> If the penalty for the offence that applies to the author in accordance with Article 28 paragraph 1 is less severe, that penalty shall be imposed.
 
@@ -5568,7 +5578,7 @@ Any person who offers, promises or gives a member of a judicial or other authori
 
 shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-### Acceptance of bribes
+### Accepting bribes
 
 #### Art. 322<sup>quater</sup>
 
@@ -5586,7 +5596,7 @@ Any person who offers, promises or gives a member of a judicial or other authori
 
 [^322quinquies-1]: Amended by No I of the FA of 25 Sept. 2015 (Criminal Law on Corruption), in force since 1 July 2016 ([AS 2016 1287](https://fedlex.data.admin.ch/eli/oc/2016/257); [BBl 2014 3591](https://fedlex.data.admin.ch/eli/fga/2014/787)).
 
-### Acceptance of an advantage
+### Accepting an advantage
 
 #### Art. 322<sup>sexies</sup>
 
@@ -5706,9 +5716,9 @@ The following persons are liable to a fine:
 
 #### Art. 325
 
-Any person who wilfully or through negligence fails to comply with the statutory duty to keep proper accounts or to preserve accounts, business correspondence and business telegrams,
+Any person who intentionally or through negligence fails to comply with the statutory duty to keep proper accounts or to preserve accounts, business correspondence and business telegrams,
 
-any person who wilfully or through negligence fails to comply with the statutory duty to preserve accounts, business correspondence and business telegrams,
+any person who intentionally or through negligence fails to comply with the statutory duty to preserve accounts, business correspondence and business telegrams,
 
 shall be liable to a fine.
 
@@ -5718,7 +5728,7 @@ shall be liable to a fine.
 
 [^325bis-1]
 
-A person shall be liable to a fine if they wilfully commit any of the following acts:
+A person shall be liable to a fine if they intentionally commit any of the following acts:
 
 - a. providing false information in the report on payments made to state bodies in accordance with Article 964*d* CO[^325bis-2] or wholly or partly failing to make the required report;
 - b. failing to comply with the obligation to keep and retain reports on payments to state bodies in accordance with Article 964*h* CO.
@@ -5734,7 +5744,7 @@ A person shall be liable to a fine if they wilfully commit any of the following 
 
 <sup>1</sup>
 
-A person shall be liable to a fine not exceeding 100 000 francs if they wilfully commit any of the following acts:
+A person shall be liable to a fine not exceeding 100 000 francs if they intentionally commit any of the following acts:
 
 - a. providing false information in the reports in accordance with Articles 964*a*, 964*b* and 964*l* CO[^325ter-2] or failing to make the required reports;
 - b. failing to comply with the statutory obligation to retain and document the reports in accordance with Articles 964*c* and 964*l* CO.
@@ -5829,7 +5839,7 @@ Any person who as a management officer of an employee benefits institution is un
 
 [^327-1]
 
-Any person who wilfully fails to comply with obligations under Article 697*j* paragraphs 1–4 or Article 790*a* paragraphs 1–4 of the CO[^327-2] to give notice of beneficial owner of shares or capital contributions shall be liable to a fine.
+Any person who intentionally fails to comply with obligations under Article 697*j* paragraphs 1–4 or Article 790*a* paragraphs 1–4 of the CO[^327-2] to give notice of beneficial owner of shares or capital contributions shall be liable to a fine.
 
 [^327-1]: Amended by No I 2 of the FA of 21 June 2019 on Implementing the Recommendations of the Global Forum on Transparency and Transfer of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^327-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
@@ -5840,7 +5850,7 @@ Any person who wilfully fails to comply with obligations under Article 697*j* pa
 
 [^327a-1]
 
-A person shall be liable to a fine if they wilfully fail to keep any of the following registers in accordance with the regulations or if they infringe associated company law obligations:
+A person shall be liable to a fine if they intentionally fail to keep any of the following registers in accordance with the regulations or if they infringe associated company law obligations:
 
 - a. in the case of a company limited by shares: the share register in accordance with Article 686 paragraphs 1–3 and 5 CO[^327a-2] or the register of the beneficial owners of the shares in accordance with Article 697*l* CO;
 - b. in the case of a limited liability company: the register of contributions in accordance with Article 790 paragraphs 1–3 and 5 CO or the register of the beneficial owners of the capital contributions in accordance with Article 790*a* paragraph 5 CO in conjunction with Article 697*l* CO;
@@ -5857,7 +5867,7 @@ A person shall be liable to a fine if they wilfully fail to keep any of the foll
 
 [^327b-1]
 
-Any person who wilfully fails to comply with the any of obligations for associations specified in Articles 61*a* and 69 paragraph 2 of the Civil Code[^327b-2] shall be liable to a fine.
+Any person who intentionally fails to comply with the any of obligations for associations specified in Articles 61*a* and 69 paragraph 2 of the Civil Code[^327b-2] shall be liable to a fine.
 
 [^327b-1]: Inserted by Annex 1 No 2 of the FA of 19 March 2021, in force since 1 Jan. 2023 ([AS 2021 656](https://fedlex.data.admin.ch/eli/oc/2021/656); [2022 551](https://fedlex.data.admin.ch/eli/oc/2022/551); [BBl 2019 5451](https://fedlex.data.admin.ch/eli/fga/2019/1932)).
 [^327b-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
@@ -6613,7 +6623,7 @@ The right to grant a pardon in relation to convictions based on this Code or any
 
 <sup>1</sup> The petition for a pardon may be filed by the offender, their legal representative or, with consent of the offender, by their defence agent, spouse or registered partner.[^382-1]
 
-<sup>2</sup> In the case of political felonies and misdemeanours and in the case offences connected with political felonies or misdemeanours, the Federal Council or the cantonal government is also entitled to initiate the pardon procedure.
+<sup>2</sup> In the case of political felonies and misdemeanours and in the case of offences connected with political felonies or misdemeanours, the Federal Council or the cantonal government is also entitled to initiate the pardon procedure.
 
 <sup>3</sup> The pardons authority may stipulate that the petition for a pardon that has been refused may not be filed again before the expiry of a certain period.
 
@@ -6749,7 +6759,7 @@ This Code comes into force on 1 January 1942.
 
 <sup>1</sup> Article 46 applies to the revocation of the suspended execution of a sentence ordered under the previous law. The court may impose a monetary penalty (Art. 34–36) or community service (Art. 37–39) instead of a custodial sentence.
 
-<sup>2</sup> The secondary penalties imposed under the previous law of disqualification from holding public office (prev. Art. 51[^u2-2]), revocation of parental authority and placing under guardianship (prev. Art. 53[^u2-3]), expulsion due to conviction for an offence (prev. Art.. 55[^u2-4]), prohibition from entering premises licensed to sell alcohol (prev. Art.. 56[^u2-5]) are repealed when the new law comes into force.
+<sup>2</sup> The secondary penalties imposed under the previous law of disqualification from holding public office (prev. Art. 51[^u2-2]), revocation of parental authority and placing under guardianship (prev. Art. 53[^u2-3]), expulsion due to conviction for an offence (prev. Art. 55[^u2-4]), prohibition from entering premises licensed to sell alcohol (prev. Art. 56[^u2-5]) are repealed when the new law comes into force.
 
 <sup>3</sup> The provisions of the new law on the execution of custodial sentences (Art. 74–85, 91 and 92) and on probation assistance, conduct orders and the voluntary social supervision (Art. 93–96) also apply to offenders who were convicted under the previous law.
 
@@ -6763,7 +6773,7 @@ This Code comes into force on 1 January 1942.
 
 The cantons shall establish institutions for the implementation of measures under Articles 59 paragraph 3 and 64 paragraph 3 within ten years at the latest of these amendments coming into force.
 
-<sup>1</sup> The provisions of the new law on measures (Art. 56–65) and on the execution of measures (Art. 90) also apply to offenders who committed an offence or were convicted before the new law comes into force. However the following also applies:
+<sup>1</sup> The provisions of the new law on measures (Art. 56–65) and on the execution of measures (Art. 90) also apply to offenders who committed an offence or were convicted before the new law comes into force. However, the following also applies:
 
 - a. The retrospective ordering of indefinite incarceration in accordance with Article 65 paragraph 2 is permitted only if indefinite incarceration would have been possible on the basis of Article 42 or 43 number 1 paragraph 2 of the previous law.
 - b. The detention of young adults in a vocational training institution (Art. 100<sup>bis</sup> in its version of 18 March 1971[^u2-8]) and any measure for young adults (Art. 61) may not be for a period in excess of four years.
@@ -6796,6 +6806,6 @@ Article 305<sup>bis</sup> does not apply to aggravated tax misdemeanours as defi
 
 [^u5-1]
 
-[^u5-1]: [AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)..
+[^u5-1]: [AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670).
 
 If the offender was sentenced under the previous law to a monetary penalty of more than 180 daily penalty units within the five years prior to the offence the sentence may only be suspended (Art. 42 para. 1) where the circumstances are especially favourable.

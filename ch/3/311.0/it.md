@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250801/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250801-it-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-21 dicembre 1937 (Stato 1° agosto 2025)
+21 dicembre 1937 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1059,7 +1059,7 @@ Il giudice ordina l’internamento a vita se l’autore ha commesso un assassini
 [^64-4]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 [^64-5]: Nuovo testo giusta la cifra I della LF del 24 mar. 2006 (Correttivi in materia di sanzioni e di casellario giudiziale), in vigore dal 1° gen. 2007 ([RU 2006 3539](https://fedlex.data.admin.ch/eli/oc/2006/550); [FF 2005 4197](https://fedlex.data.admin.ch/eli/fga/2005/735)).
 
-### Fine dell’interna-mento e liberazione
+### Fine dell’internamento e liberazione
 
 #### Art. 64a
 
@@ -2121,7 +2121,7 @@ Le disposizioni della parte prima del presente Codice si applicano anche alle co
 
 <sup>4</sup> Il pagamento ulteriore della multa comporta una riduzione proporzionale della pena detentiva sostitutiva.
 
-<sup>5</sup> Per l’esazione e la commutazione si applicano per analogia gli arti-coli 35 e 36 capoverso 2.[^106-1]
+<sup>5</sup> Per l’esazione e la commutazione si applicano per analogia gli articoli 35 e 36 capoverso 2.[^106-1]
 
 [^106-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -2541,7 +2541,7 @@ L’appropriazione indebita a danno di un congiunto o di un membro della comunio
 
 <sup>3.</sup>
 
-Il colpevole è punito con una pena detentiva da sei mesi a dieci an-ni se:
+Il colpevole è punito con una pena detentiva da sei mesi a dieci anni se:
 
 - a. fa mestiere del furto;
 - b. ha perpetrato il furto come associato ad una banda intesa a commettere furti o rapine;
@@ -2848,7 +2848,7 @@ Il ricettatore è punito con la pena comminata al reato preliminare, se questa �
 
 Ove il reato preliminare sia perseguibile solo a querela di parte, la ricettazione è punibile solo se la querela è stata sporta.
 
-<sup>2.</sup> Il colpevole è punito con una pena detentiva da sei mesi a dieci an-ni se fa mestiere della ricettazione.[^160-1]
+<sup>2.</sup> Il colpevole è punito con una pena detentiva da sei mesi a dieci anni se fa mestiere della ricettazione.[^160-1]
 
 [^160-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -3282,6 +3282,16 @@ Chiunque, usando violenza o minaccia di grave danno contro una persona, o intral
 
 [^181a-1]: Introdotto dalla cifra I n. 6 della LF del 15 giu. 2012 sulle misure contro i matrimoni forzati, in vigore dal 1° lug. 2013 ([RU 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 1987](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^181a-2]: Nuovo testo giusta il l’all. n. 5 della LF del 14 giu. 2024 (Misure contro i matrimoni con minorenni), in vigore dal 1° gen. 2025 ([RU 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### Atti persecutori
+
+#### Art. 181b
+
+[^181b-1]
+
+Chiunque insistentemente segue, molesta o minaccia una persona in una maniera atta a limitarne considerevolmente il libero modo di vivere, è punito, a querela di parte, con una pena detentiva sino a tre anni o con una pena pecuniaria.
+
+[^181b-1]: Introdotto dalla cifra I della LF del 20 giu. 2025 (Migliore protezione penale contro gli atti persecutori), in vigore dal 1° gen. 2026 ([RU 2025 740](https://fedlex.data.admin.ch/eli/oc/2025/740); [FF 2024 751](https://fedlex.data.admin.ch/eli/fga/2024/751), [1219](https://fedlex.data.admin.ch/eli/fga/2024/1219)).
 
 ### Tratta di esseri umani
 
@@ -3770,7 +3780,7 @@ Se ne è derivato soltanto un danno di lieve importanza, può essere pronunciata
 
 [^225-1]
 
-<sup>1</sup> Chiunque, intenzionalmente ma senza fine delittuoso, mette in peri-colo con materie esplosive o gas velenosi la vita o l’integrità delle per-sone o la proprietà altrui è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
+<sup>1</sup> Chiunque, intenzionalmente ma senza fine delittuoso, mette in pericolo con materie esplosive o gas velenosi la vita o l’integrità delle persone o la proprietà altrui è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 <sup>2</sup> Se l’autore ha agito per negligenza, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
 
@@ -3810,7 +3820,7 @@ Se ne è derivato soltanto un danno di lieve importanza, può essere pronunciata
 
 <sup>1</sup> Chiunque prende, conformemente a un piano, disposizioni tecniche concrete o organizzative per mettere in pericolo la vita o la salute umana o la proprietà altrui di notevole valore con l’energia nucleare, sostanze radioattive o raggi ionizzanti è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria.
 
-<sup>2</sup> Chiunque produce, si procura, consegna o procura ad altri, riprende da altri, custodisce o nasconde sostanze radioattive, impianti, dispositivi o oggetti che contengono sostanze radioattive o possono emettere raggi ionizzanti, benché sappia o debba presumere che essi sono desti-nati a un uso penalmente perseguibile, è punito con una pena detentiva fino a dieci anni o con una pena pecuniaria.
+<sup>2</sup> Chiunque produce, si procura, consegna o procura ad altri, riprende da altri, custodisce o nasconde sostanze radioattive, impianti, dispositivi o oggetti che contengono sostanze radioattive o possono emettere raggi ionizzanti, benché sappia o debba presumere che essi sono destinati a un uso penalmente perseguibile, è punito con una pena detentiva fino a dieci anni o con una pena pecuniaria.
 
 <sup>3</sup> Chiunque fornisce ad altri indicazioni per fabbricare siffatte sostanze, impianti, dispositivi o oggetti, benché sappia o debba presumere che essi sono destinati a un uso penalmente perseguibile, è punito con una pena detentiva fino a cinque anni o con una pena pecuniaria.
 
@@ -3852,13 +3862,13 @@ Se ne è derivato soltanto un danno di lieve importanza, può essere pronunciata
 
 #### Art. 230
 
-<sup>1.</sup> Chiunque intenzionalmente guasta, distrugge, rimuove, rende altri-menti inservibili o mette fuori uso apparecchi destinati a prevenire gli infortuni in una fabbrica o in un’altra azienda, ovvero gl’infortuni che possono essere cagionati da macchine,
+<sup>1.</sup> Chiunque intenzionalmente guasta, distrugge, rimuove, rende altrimenti inservibili o mette fuori uso apparecchi destinati a prevenire gli infortuni in una fabbrica o in un’altra azienda, ovvero gl’infortuni che possono essere cagionati da macchine,
 
 chiunque, contrariamente alle norme applicabili, omette di collocare tali apparecchi,
 
-e mette con ciò scientemente in pericolo la vita o l’integrità delle per-sone,
+e mette con ciò scientemente in pericolo la vita o l’integrità delle persone,
 
-è punito con una pena detentiva sino a cinque anni o con una pena pe-cuniaria.[^230-1]
+è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.[^230-1]
 
 <sup>2.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza.
 
@@ -3917,7 +3927,7 @@ Se il colpevole ha, con animo abietto, cagionato un grave danno, la pena è una 
 
 #### Art. 234
 
-<sup>1</sup> Chiunque intenzionalmente inquina con materie nocive alla salute l’acqua potabile destinata alle persone o agli animali domestici, è pu-nito con una pena detentiva da un mese a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^234-1]
+<sup>1</sup> Chiunque intenzionalmente inquina con materie nocive alla salute l’acqua potabile destinata alle persone o agli animali domestici, è punito con una pena detentiva da un mese a cinque anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^234-1]
 
 <sup>2</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito per negligenza.
 
@@ -4058,11 +4068,11 @@ chiunque importa, mette in vendita o in circolazione siffatti oggetti,
 
 chiunque a valori di bollo ufficiali annullati dà l’apparenza di bolli ancora validi per usarli come tali,
 
-è punito con una pena detentiva sino a cinque anni o con una pena pe-cuniaria.
+è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 Il colpevole è punibile anche quando ha commesso il reato all’estero, se è stato arrestato nella Svizzera e non è estradato all’estero e se l’atto è punito nello Stato in cui fu compiuto.
 
-<sup>2.</sup> Chiunque usa come genuini, inalterati o validi valori di bollo uffi-ciali contraffatti, alterati od annullati, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
+<sup>2.</sup> Chiunque usa come genuini, inalterati o validi valori di bollo ufficiali contraffatti, alterati od annullati, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 [^245-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -4076,7 +4086,7 @@ Chiunque, al fine di usarle come genuine od inalterate, contraffà o altera marc
 
 chiunque usa come genuini o inalterati segni di detto genere contraffatti o alterati,
 
-è punito con una pena detentiva sino a cinque anni o con una pena pe-cuniaria.
+è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 [^246-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -4529,7 +4539,7 @@ Chiunque, nel contesto di un conflitto armato, dirige attacchi contro:
 
 [^264d-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
-### b. Trattamento medico ingiustificato, lesione dell’autodetermi- nazione sessuale e della dignità umana
+### b. Trattamento medico ingiustificato, lesione dell’autodeterminazione sessuale e della dignità umana
 
 #### Art. 264e
 
@@ -4938,7 +4948,7 @@ chiunque altera il risultato di una elezione, di una votazione, di una raccolta 
 
 è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>2.</sup> Se il colpevole ha agito in qualità ufficiale, la pena è una pena de-tentiva da un mese a tre anni o una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^282-1]
+<sup>2.</sup> Se il colpevole ha agito in qualità ufficiale, la pena è una pena detentiva da un mese a tre anni o una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^282-1]
 
 [^282-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5167,7 +5177,7 @@ chiunque arruola persone per servizi siffatti o li favorisce, è punito con una 
 
 chiunque in altro modo ordisce mene subdole per provocare un procedimento penale contro una persona che egli sa innocente,
 
-è punito con una pena detentiva sino a cinque anni o con una pena pe-cuniaria.
+è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
 <sup>2.</sup> Se la denuncia mendace concerne una contravvenzione, la pena è una pena detentiva sino a un anno o una pena pecuniaria.
 
@@ -5286,7 +5296,7 @@ Vi è caso grave segnatamente se l’autore:
 L’autore d’un crimine o d’un delitto previsto negli articoli 306 e 307 è esente da pena se ha fatto una falsa dichiarazione perché, manifestando il vero:
 
 - a. si sarebbe esposto a procedimento penale; o
-- b. avrebbe esposto a procedimento penale un congiunto o un’al-tra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta.
+- b. avrebbe esposto a procedimento penale un congiunto o un’altra persona con cui esistono relazioni personali così strette da rendere scusabile la sua condotta.
 
 [^308-1]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
@@ -5329,7 +5339,7 @@ per evadere violentemente,
 
 sono puniti con una pena detentiva da un mese a tre anni o con una pena pecuniaria non inferiore a 30 aliquote giornaliere.[^311-1]
 
-<sup>2.</sup> I compartecipi che hanno commesso atti di violenza contro le per-sone o le cose sono puniti con una pena detentiva da tre mesi a cinque anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere.[^311-2]
+<sup>2.</sup> I compartecipi che hanno commesso atti di violenza contro le persone o le cose sono puniti con una pena detentiva da tre mesi a cinque anni o con una pena pecuniaria non inferiore a 90 aliquote giornaliere.[^311-2]
 
 [^311-1]: Nuovo testo del quinto comma giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^311-2]: Nuovo testo giusta la cifra I n. 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -5668,23 +5678,25 @@ Sono puniti con la multa:
 
 ### Inosservanza delle norme legali sulla contabilità
 
-### Inosservanza delle disposizioni concernenti la relazione sui pagamenti a favore di enti statali
-
 #### Art. 325
 
 Chiunque intenzionalmente o per negligenza non ottempera all’obbligo imposto dalla legge di tenere regolarmente i libri di commercio,
 
 chiunque intenzionalmente o per negligenza non ottempera all’obbligo imposto dalla legge di conservare i libri di commercio, le lettere ed i telegrammi d’affari, è punito con la multa.
 
-**Art. 325**<sup>bis</sup> [^325-1]
+### Inosservanza delle disposizioni concernenti la relazione sui pagamenti a favore di enti statali
+
+#### Art. 325<sup>bis</sup>
+
+[^325bis-1]
 
 È punito con la multa chiunque intenzionalmente:
 
-- a. fornisce false indicazioni nella relazione sui pagamenti a favore di enti statali di cui all’articolo 964*d* CO[^325-2] oppure omette in tutto o in parte di presentare tale relazione;
+- a. fornisce false indicazioni nella relazione sui pagamenti a favore di enti statali di cui all’articolo 964*d* CO[^325bis-2] oppure omette in tutto o in parte di presentare tale relazione;
 - b. viene meno all’obbligo di tenere e conservare le relazioni sui pagamenti a favore di enti statali conformemente all’articolo 964*h* CO.
 
-[^325-1]: Introdotto dalla cifra III n. 2 della LF del 19 giu. 2020 (controprogetto indiretto all’iniziativa popolare «Per imprese responsabili – a tutela dell’essere umano e dell’ambiente»), in vigore dal 1° gen. 2022 ([RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
-[^325-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^325bis-1]: Introdotto dalla cifra III n. 2 della LF del 19 giu. 2020 (controprogetto indiretto all’iniziativa popolare «Per imprese responsabili – a tutela dell’essere umano e dell’ambiente»), in vigore dal 1° gen. 2022 ([RU 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^325bis-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Inosservanza delle disposizioni concernenti altre relazioni
 

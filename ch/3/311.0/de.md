@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250801/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250801-de-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. August 2025)
+vom 21. Dezember 1937 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -3296,6 +3296,16 @@ Wer jemanden durch Gewalt oder Androhung ernstlicher Nachteile oder durch andere
 
 [^181a-1]: Eingefügt durch Ziff. I 6 des BG vom 15. Juni 2012 über Massnahmen gegen Zwangsheiraten, in Kraft seit 1. Juli 2013 ([AS 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [BBl 2011 2185](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^181a-2]: Fassung gemäss Anhang Ziff. 5 des BG vom 14. Juni 2024 (Massnahmen gegen Minderjährigenheiraten), in Kraft seit 1. Jan. 2025 ([AS 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [BBl 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### Nachstellung
+
+#### Art. 181b
+
+[^181b-1]
+
+Wer jemanden auf eine Weise beharrlich verfolgt, belästigt oder bedroht, die geeignet ist, seine Lebensgestaltungsfreiheit erheblich zu beschränken, wird, auf Antrag, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+[^181b-1]: Eingefügt durch Ziff. I des BG vom 20. Juni 2025 (Verbesserung des strafrechtlichen Schutzes vor Nachstellung), in Kraft seit 1. Jan. 2026 ([AS 2025 740](https://fedlex.data.admin.ch/eli/oc/2025/740); [BBl 2024 751](https://fedlex.data.admin.ch/eli/fga/2024/751), [1219](https://fedlex.data.admin.ch/eli/fga/2024/1219)).
 
 ### Menschenhandel
 

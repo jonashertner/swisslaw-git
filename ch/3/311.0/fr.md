@@ -4,18 +4,18 @@ title: Code pénal suisse du 21 décembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: fr
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20250801-fr-xml-13.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20260101-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Code pénal suisse
 
-du 21 décembre 1937 (État le 1<sup>er</sup> août 2025)
+du 21 décembre 1937 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -3403,6 +3403,16 @@ Quiconque, en usant de violence envers une personne ou en la menaçant d’un do
 
 [^181a-1]: Introduit par le ch. I 6 de la LF du 15 juin 2012 concernant les mesures de lutte contre les mariages forcés, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1035](https://fedlex.data.admin.ch/eli/oc/2013/226); [FF 2011 2045](https://fedlex.data.admin.ch/eli/fga/2011/292)).
 [^181a-2]: Nouvelle teneur selon l’annexe ch. 5 de la LF du 14 juin 2024 (Mesures de lutte contre les mariages avec un mineur), en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 590](https://fedlex.data.admin.ch/eli/oc/2024/590); [FF 2023 2127](https://fedlex.data.admin.ch/eli/fga/2023/2127)).
+
+### Harcèlement
+
+#### Art. 181b
+
+[^181b-1]
+
+Quiconque, obstinément, traque, importune ou menace une personne d’une manière propre à l’entraver considérablement dans la libre détermination de sa façon de vivre, est, sur plainte, puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+
+[^181b-1]: Introduit par le ch. I de la LF du 20 juin 2025 (Amélioration de la protection pénale contre le harcèlement), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 740](https://fedlex.data.admin.ch/eli/oc/2025/740); [FF 2024 751](https://fedlex.data.admin.ch/eli/fga/2024/751), [1219](https://fedlex.data.admin.ch/eli/fga/2024/1219)).
 
 ### Traite d’êtres humains
 
