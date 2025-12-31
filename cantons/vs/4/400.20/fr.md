@@ -4,13 +4,12 @@ number: "400.20"
 title: "Ordonnance sur le personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel"
 short: OPSO
 language: fr
-version: 2022-11-01
-valid_until: 2025-12-31
-version_adopted: 2022-10-26
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.20"
-pdf: "https://lex.vs.ch/api/fr/versions/3081/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3534/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3081/pdf_file"
 
 (OPSO)
 
-du 20.06.2012 (état 01.11.2022)
+du 20.06.2012 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -317,6 +316,19 @@ ordonne:[^ingress-1]
 <sup>2</sup> L’instance de lanceur d’alerte de l’Etat du Valais établit les faits et prend les mesures nécessaires. Elle garantit notamment l'anonymat des membres du personnel.
 
 <sup>3</sup> Nul ne doit subir un désavantage sur le plan professionnel pour avoir, de bonne foi, annoncé une irrégularité.
+
+#### Art. 18b
+
+**Commission de sécurité**
+
+<sup>1</sup> Le Conseil d’Etat nomme, pour chaque période administrative, une commission de sécurité présidée par la Chancellerie d’Etat.
+
+<sup>2</sup> La commission de sécurité a pour tâche de:
+
+- a) favoriser la coordination entre les instances en charge d'assurer la protection des enseignants qui font l’objet de menaces, d’attaques présumées ou d’autres atteintes à la personnalité dans l'exercice de leur fonction ou en charge d’assurer le soutien aux enseignants confrontés à des situations conflictuelles ou critiques;
+- b) prendre les mesures utiles afin d’assurer la protection de la personnalité, notamment par l’information, la prévention, la formation, le conseil et l’accompagnement.
+
+<sup>3</sup> Le Conseil d’Etat peut arrêter par voie de directives des dispositions complémentaires.
 
 #### Art. 19
 

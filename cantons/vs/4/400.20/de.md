@@ -4,13 +4,12 @@ number: "400.20"
 title: Verordnung über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule
 short: VPOS
 language: de
-version: 2022-11-01
-valid_until: 2025-12-31
-version_adopted: 2022-10-26
+version: 2026-01-01
+version_adopted: 2025-11-19
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.20"
-pdf: "https://lex.vs.ch/api/de/versions/3081/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3534/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3081/pdf_file"
 
 (VPOS)
 
-vom 20.06.2012 (Stand 01.11.2022)
+vom 20.06.2012 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -317,6 +316,19 @@ verordnet:[^ingress-1]
 <sup>2</sup> Die Whistleblowingstelle des Staates Wallis ermittelt den Sachverhalt und trifft die erforderlichen Massnahmen. Insbesondere stellt sie die Anonymität des Personals sicher.
 
 <sup>3</sup> Niemand darf beruflich benachteiligt werden, weil er in gutem Glauben eine Unregelmässigkeit gemeldet hat.
+
+#### Art. 18b
+
+**Sicherheitskommission**
+
+<sup>1</sup> Der Staatsrat ernennt für jede Verwaltungsperiode eine von der Staatskanzlei präsidierte Sicherheitskommission.
+
+<sup>2</sup> Die Sicherheitskommission hat folgende Aufgaben:
+
+- a) die Koordination zwischen den Stellen fördern, die für den Schutz von Lehrpersonen zuständig sind, die in Ausübung ihrer Tätigkeit Bedrohungen, mutmasslichen Angriffen oder anderen Persönlichkeitsverletzungen ausgesetzt sind, oder die für die Unterstützung von Lehrpersonen in konfliktträchtigen oder kritischen Situationen zuständig sind;
+- b) die nötigen Massnahmen ergreifen, um den Persönlichkeitsschutz zu gewährleisten, insbesondere durch Information, Prävention, Schulung und Begleitung.
+
+<sup>3</sup> Der Staatsrat kann ergänzende Bestimmungen mittels Weisungen erlassen.
 
 #### Art. 19
 
