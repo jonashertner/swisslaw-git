@@ -3,11 +3,11 @@ sr: "642.118.1"
 title: "Ordinanza del DFF del 10 febbraio 1993 sulla deduzione delle spese professionali delle persone esercitanti un'attività lucrativa dipendente ai fini dell'imposta federale diretta (Ordinanza sulle spese professionali)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: it
-version: 2023-01-01
+version: 2026-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20230101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,9 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/it"
 
 (Ordinanza sulle spese professionali)[^t-1]
 
-del 10 febbraio 1993 (Stato 1° gennaio 2023)
+del 10 febbraio 1993 (Stato 1° gennaio 2026)
 
-[^t-1]: RU **1993** 1363 Nuovo testo giusta il n. I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 (RU **2006** 4887).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
 
 Il Dipartimento federale delle finanze,
 
@@ -26,8 +26,8 @@ visto l’articolo 26 della legge federale del 14 dicembre 1990[^ingress-1] sull
 
 ordina:
 
-[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/eli/cc/1992/468_468_468)
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8189)
 
 #### Art. 1
 
@@ -49,7 +49,7 @@ Le deduzioni per spese professionali sono accordate a ciascun coniuge che eserci
 
 Il Dipartimento federale delle finanze fissa in appendice le deduzioni forfettarie (art. 6 cpv. 1 e 2, art. 7 cpv. 1, art. 9 cpv. 2 e art. 10) e la deduzione per l’uso di un veicolo privato (art. 5 cpv. 2 lett. b).
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
 
 #### Art. 4
 
@@ -57,7 +57,7 @@ Il Dipartimento federale delle finanze fissa in appendice le deduzioni forfettar
 
 Il contribuente che, in luogo di una deduzione forfettaria giusta l’articolo 7 capoverso 1 e l’articolo 10, fa valere spese più elevate deve giustificare la totalità delle spese effettive e la loro necessità professionale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
 
 #### Art. 5
 
@@ -72,8 +72,8 @@ Sono considerati costi deducibili:
 - a. le spese necessarie per l’uso di mezzi di trasporto pubblici; o
 - b. i costi necessari sostenuti per ogni chilometro percorso con l’uso di un veicolo privato, se non è disponibile un mezzo di trasporto pubblico o non è ragionevole pretendere che il contribuente ne faccia uso.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
-[^5-2]: Nuovo testo giusta il n. I dell’O del DFF del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^5-2]: Nuovo testo giusta la cifra I dell’O del DFF del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
 
 #### Art. 5a
 
@@ -83,7 +83,7 @@ Sono considerati costi deducibili:
 
 <sup>2</sup> Ai fini del calcolo forfettario delle spese di trasporto, è considerato reddito mensile derivante da tale uso lo 0,9 per cento del prezzo d’acquisto del veicolo.
 
-[^5a-1]: Introdotto dal n. I dell’O del DFF del 15 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 165](https://fedlex.data.admin.ch/eli/oc/2021/165)).
+[^5a-1]: Introdotto dalla cifra I dell’O del DFF del 15 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 165](https://fedlex.data.admin.ch/eli/oc/2021/165)).
 
 #### Art. 6
 
@@ -106,9 +106,9 @@ Nel caso di spese supplementari per pasti, è concessa esclusivamente la deduzio
 
 <sup>6</sup> Le deduzioni forfettarie di cui ai capoversi 1 o 2 non possono essere rivendicate contemporaneamente con quelle indicate all’articolo 9 capoverso 2.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
-[^6-3]: Nuovo testo giusta il n. I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
 
 #### Art. 7
 
@@ -118,13 +118,13 @@ Nel caso di spese supplementari per pasti, è concessa esclusivamente la deduzio
 
 <sup>2</sup> La deduzione forfettaria va ridotta in modo adeguato se l’attività lucrativa dipendente è esercitata solamente durante una parte dell’anno o a tempo parziale.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFF del 16 apr. 2014, in vigore dal 1° gen. 2016 ([RU 2014 1109](https://fedlex.data.admin.ch/eli/oc/2014/241)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFF del 16 apr. 2014, in vigore dal 1° gen. 2016 ([RU 2014 1109](https://fedlex.data.admin.ch/eli/oc/2014/241)).
 
 #### Art. 8
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del DFF del 16 apr. 2014, con effetto dal 1° gen. 2016 ([RU 2014 1109](https://fedlex.data.admin.ch/eli/oc/2014/241)).
+[^8-1]: Abrogato dalla cifra I dell’O del DFF del 16 apr. 2014, con effetto dal 1° gen. 2016 ([RU 2014 1109](https://fedlex.data.admin.ch/eli/oc/2014/241)).
 
 #### Art. 9
 
@@ -138,7 +138,7 @@ Nel caso di spese supplementari per pasti, è concessa esclusivamente la deduzio
 
 <sup>4</sup> Sono considerate spese di trasporto necessarie le spese per il rientro regolare al domicilio fiscale nonché quelle per il trasporto dalla propria abitazione al luogo di lavoro. Esse sono deducibili fino all’importo massimo di cui all’articolo 5 capoverso 1.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DFF del 6 mar. 2015, in vigore dal 1° gen. 2016 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
 
 #### Art. 10
 
@@ -146,7 +146,7 @@ Nel caso di spese supplementari per pasti, è concessa esclusivamente la deduzio
 
 È ammessa una deduzione forfettaria giusta l’articolo 3 per le spese professionali connesse con l’esercizio di un’attività lucrativa accessoria. È salva la giustificazione di spese più elevate (art. 4).
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DFF del 3 nov. 2006, in vigore dal 1° gen. 2007 ([RU 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
 
 #### Art. 11
 
@@ -172,17 +172,17 @@ Appendice[^t-2]
 
 ## 1. Deduzioni forfettarie a partire dall’anno fiscale 2016
 
-[^t-2]: Introdotta dal n. I dell’O del DFF del 29 giu. 1994 ([RU 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nuovo testo giusta il n. II dell’O del DFF del 6 mar. 2015 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Aggiornata dal n. II dell’O del DFF del 16 set. 2022, in vigore dal 1° gen. 2023 ([RU 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
+[^t-2]: Introdotta dalla cifra I dell’O del DFF del 29 giu. 1994 ([RU 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nuovo testo giusta la cifra II dell’O del DFF del 6 mar. 2015 ([RU 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Aggiornata dalle cifre I del’O del DFF del 10 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 578](https://fedlex.data.admin.ch/eli/oc/2025/578)).
 
 <table>
 <tr><td colspan="2"></td><td colspan="4"></td><td></td><td>Fr.</td><td></td></tr>
 <tr><td colspan="3">Spese supplementari per pasti</td><td colspan="3"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="5">a. *Per i pasti presi fuori casa, rispettivamente* *in caso di lavoro a turni o notturno* (art. 6 cpv. 1 e 2)</td><td>[tab]</td><td></td><td></td><td></td></tr>
+<tr><td colspan="5">a. *Per i pasti presi fuori casa, rispettivamente* *in caso di lavoro a turni o notturno* (art. 6 cpv. 1 e 2)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– deduzione intera</td><td colspan="5">per ogni pasto principale rispettivamente al giorno</td><td></td><td>15.—</td><td></td></tr>
 <tr><td></td><td colspan="5">all’anno</td><td></td><td>3200.—</td><td></td></tr>
 <tr><td>– mezza deduzione</td><td colspan="5">per ogni pasto principale rispettivamente al giorno</td><td></td><td>7.50</td><td></td></tr>
 <tr><td></td><td colspan="5">all’anno</td><td></td><td>1600.—</td><td></td></tr>
-<tr><td colspan="4">b. *Per soggiorno fuori domicilio* (art. 9 cpv. 2)</td><td colspan="2">[tab]</td><td></td><td></td><td></td></tr>
+<tr><td colspan="4">b. *Per soggiorno fuori domicilio* (art. 9 cpv. 2)</td><td colspan="2"></td><td></td><td></td><td></td></tr>
 <tr><td>– deduzione intera</td><td colspan="5">al giorno all’anno</td><td></td><td>30.— 6400.—</td><td></td></tr>
 <tr><td>– deduzione parziale[^annexu1-lvl1-1]</td><td colspan="5">al giorno all’anno</td><td></td><td>22.50 4800.—</td><td></td></tr>
 <tr><td colspan="5">**Altre spese professionali** (art. 7 cpv. 1)</td><td></td><td></td><td></td><td></td></tr>
@@ -198,9 +198,9 @@ Appendice[^t-2]
 ## 2. Deduzione per l’uso di un veicolo privato
 
 <table>
-<tr><th></th><th colspan="2"></th><th></th><th>Fr.</th><th></th></tr>
-<tr><td colspan="2">**Deduzione per l’uso** **di** **un veicolo privato** (art. 5 cpv. 2 lett. b)</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– bicicletta, ciclomotore e motocicletta con targa di controllo su fondo giallo</td><td colspan="2">all’anno</td><td></td><td>700.–</td><td></td></tr>
-<tr><td>– motocicletta con targa di controllo su fondo bianco</td><td colspan="2">il km</td><td></td><td>–.40</td><td></td></tr>
-<tr><td>– automobile</td><td colspan="2">il km</td><td></td><td>–.70</td><td></td></tr>
+<tr><th></th><th></th><th></th><th>Fr.</th><th></th></tr>
+<tr><td colspan="2">**Deduzione per l’uso di un veicolo privato** (art. 5 cpv. 2 lett. b)</td><td></td><td></td><td></td></tr>
+<tr><td>– bicicletta, ciclomotore e motocicletta con targa di controllo su fondo giallo</td><td>all’anno</td><td></td><td>700.–</td><td></td></tr>
+<tr><td>– motocicletta con targa di controllo su fondo bianco</td><td>il km</td><td></td><td>–.40</td><td></td></tr>
+<tr><td>– automobile</td><td>il km</td><td></td><td>–.75</td><td></td></tr>
 </table>

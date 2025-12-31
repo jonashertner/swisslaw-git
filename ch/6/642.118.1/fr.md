@@ -3,11 +3,11 @@ sr: "642.118.1"
 title: "Ordonnance du DFF du 10 février 1993 sur la déduction des frais professionnels des personnes exerçant une activité lucrative dépendante en matière d'impôt fédéral direct (Ordonnance sur les frais professionnels)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/fr"
 
 (Ordonnance sur les frais professionnels)[^t-1]
 
-du 10 février 1993 (État le 1<sup>er</sup> janvier 2023)
+du 10 février 1993 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 3 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 4887](https://fedlex.data.admin.ch/eli/oc/2006/761)).
 
@@ -26,8 +26,8 @@ vu l’art. 26 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéra
 
 arrête:
 
-[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/eli/cc/1992/468_468_468)
+[^ingress-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [RS 642.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8189)
 
 #### Art. 1
 
@@ -172,7 +172,7 @@ Appendice[^t-2]
 
 ## 1. Déductions forfaitaires à partir de l’année fiscale 2016
 
-[^t-2]: Introduit par le ch. I de l’O du 29 juin 1994 ([RO 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nouvelle teneur selon le ch. I de l’O du DFF du 6 mars 2015 ([RO 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Mise à jour par le ch. II de l’O du DFF du 16 sept. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
+[^t-2]: Introduit par le ch. I de l’O du 29 juin 1994 ([RO 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Nouvelle teneur selon le ch. I de l’O du DFF du 6 mars 2015 ([RO 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Mise à jour par le ch. I de l’O du DFF du 10 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 578](https://fedlex.data.admin.ch/eli/oc/2025/578)).
 
 <table>
 <tr><th></th><th colspan="4"></th><th>fr.</th></tr>
@@ -198,9 +198,9 @@ Appendice[^t-2]
 ## 2. Déduction pour l’utilisation d’un véhicule privé
 
 <table>
-<tr><th></th><th colspan="2"></th><th></th><th>Fr.</th><th></th></tr>
-<tr><td colspan="2">**Déduction pour l’utilisation d’un véhicule privé** (art. 5, al. 2, let. b)</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– vélos, cyclomoteurs et motocycles avec plaque d’immatriculation sur fond jaune,</td><td colspan="2">par an</td><td></td><td>700.—</td><td></td></tr>
-<tr><td>– motocycles avec plaque d’immatriculation sur fond blanc</td><td colspan="2">par kilomètre parcouru</td><td></td><td>–.40</td><td></td></tr>
-<tr><td>– autos</td><td colspan="2">par kilomètre parcouru</td><td></td><td>–.70</td><td></td></tr>
+<tr><th></th><th></th><th></th><th>fr.</th><th></th></tr>
+<tr><td colspan="2">**Déduction pour l’utilisation d’un véhicule privé** (art. 5, al. 2, let. b)</td><td></td><td></td><td></td></tr>
+<tr><td>– vélos, cyclomoteurs et motocycles avec plaque d’immatriculation sur fond jaune,</td><td>par an</td><td></td><td>700.–</td><td></td></tr>
+<tr><td>– motocycles avec plaque d’immatriculation sur fond blanc</td><td>par kilomètre parcouru</td><td></td><td>–.40</td><td></td></tr>
+<tr><td>– autos</td><td>par kilomètre parcouru</td><td></td><td>–.75</td><td></td></tr>
 </table>

@@ -3,11 +3,11 @@ sr: "642.118.1"
 title: Verordnung des EFD vom 10. Februar 1993 über den Abzug der Berufskosten unselbstständig Erwerbstätiger bei der direkten Bundessteuer (Berufskostenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363"
 language: de
-version: 2023-01-01
+version: 2026-01-01
 adopted: 1993-02-10
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1363_1363_1363/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1363_1363_1363-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1363_1363_1363/20230101/de"
 
 (Berufskostenverordnung)[^t-1]
 
-vom 10. Februar 1993 (Stand am 1. Januar 2023)
+vom 10. Februar 1993 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EFD vom 6. März 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)).
 
@@ -26,8 +26,8 @@ gestützt auf Artikel 26 des Bundesgesetzes vom 14. Dezember 1990[^ingress-1] ü
 
 verordnet:
 
-[^ingress-1]: [SR 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^ingress-2]: [SR 642.118](https://fedlex.data.admin.ch/eli/cc/1992/468_468_468)
+[^ingress-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^ingress-2]: [SR 642.118](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8189)
 
 #### Art. 1
 
@@ -170,17 +170,17 @@ Anhang[^t-2]
 
 ## 1. Pauschalansätze ab dem Steuerjahr 2016
 
-[^t-2]: Eingefügt durch Ziff. I der V des EFD vom 29. Juni 1994 ([AS 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Fassung gemäss Ziff. II der V des EFD vom 6. März 2015 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Bereinigt gemäss Ziff. II der V des EFD vom 16. Sept. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 573](https://fedlex.data.admin.ch/eli/oc/2022/573)).
+[^t-2]: Eingefügt durch Ziff. I der V des EFD vom 29. Juni 1994 ([AS 1994 1673](https://fedlex.data.admin.ch/eli/oc/1994/1673_1673_1673)). Fassung gemäss Ziff. II der V des EFD vom 6. März 2015 ([AS 2015 861](https://fedlex.data.admin.ch/eli/oc/2015/163)). Bereinigt gemäss Ziff. I der V des EFD vom 10. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 578](https://fedlex.data.admin.ch/eli/oc/2025/578)).
 
 <table>
 <tr><th></th><th colspan="4"></th><th></th><th>Fr.</th><th></th></tr>
 <tr><td colspan="3">Mehrkosten für Verpflegung</td><td colspan="2"></td><td></td><td></td><td></td></tr>
-<tr><td colspan="4">a. *Bei auswärtiger Verpflegung* *bzw. Schicht- oder Nachtarbeit* (Art. 6 Abs. 1 und 2)</td><td>[tab]</td><td></td><td></td><td></td></tr>
+<tr><td colspan="4">a. *Bei auswärtiger Verpflegung* *bzw. Schicht- oder Nachtarbeit* (Art. 6 Abs. 1 und 2)</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Voller Abzug</td><td colspan="4">pro Hauptmahlzeit bzw. Tag</td><td></td><td>15.—</td><td></td></tr>
 <tr><td></td><td colspan="4">im Jahr</td><td></td><td>3200.—</td><td></td></tr>
 <tr><td>– Halber Abzug</td><td colspan="4">pro Hauptmahlzeit bzw. Tag</td><td></td><td>7.50</td><td></td></tr>
 <tr><td></td><td colspan="4">im Jahr</td><td></td><td>1600.—</td><td></td></tr>
-<tr><td colspan="2">b. *Bei auswärtigem Wochenaufenthalt* (Art. 9 Abs. 2)</td><td colspan="3">[tab]</td><td></td><td></td><td></td></tr>
+<tr><td colspan="2">b. *Bei auswärtigem Wochenaufenthalt* (Art. 9 Abs. 2)</td><td colspan="3"></td><td></td><td></td><td></td></tr>
 <tr><td>– Voller Abzug</td><td colspan="4">im Tag im Jahr</td><td></td><td>30.— 6400.—</td><td></td></tr>
 <tr><td>– Gekürzter Abzug[^annexu1-lvl1-1]</td><td colspan="4">im Tag im Jahr</td><td></td><td>22.50 4800.—</td><td></td></tr>
 <tr><td colspan="2">**Übrige Berufskosten** (Art. 7 Abs. 1)</td><td colspan="3"></td><td></td><td></td><td></td></tr>
@@ -196,9 +196,9 @@ Anhang[^t-2]
 ## 2. Abzug für die Benützung eines privaten Fahrzeugs
 
 <table>
-<tr><th></th><th colspan="2"></th><th></th><th>Fr.</th><th></th></tr>
-<tr><td colspan="2">**Abzug für die Benützung eines privaten Fahrzeugs** (Art. 5 Abs. 2 Bst. b)</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>– Fahrräder, Motorfahrräder und Motorräder mit gelbem Kontrollschild</td><td colspan="2">im Jahr</td><td></td><td>700.—</td><td></td></tr>
-<tr><td>– Motorräder mit weissem Kontrollschild</td><td colspan="2">pro Fahrkilometer</td><td></td><td>–.40</td><td></td></tr>
-<tr><td>– Autos</td><td colspan="2">pro Fahrkilometer</td><td></td><td>–.70</td><td></td></tr>
+<tr><th></th><th></th><th></th><th>Fr.</th><th></th></tr>
+<tr><td colspan="2">**Abzug für die Benützung eines privaten Fahrzeugs** (Art. 5 Abs. 2 Bst. b)</td><td></td><td></td><td></td></tr>
+<tr><td>– Fahrräder, Motorfahrräder und Motorräder mit gelbem Kontrollschild</td><td>im Jahr</td><td></td><td>700.–</td><td></td></tr>
+<tr><td>– Motorräder mit weissem Kontrollschild</td><td>pro Fahrkilometer</td><td></td><td>–.40</td><td></td></tr>
+<tr><td>– Autos</td><td>pro Fahrkilometer</td><td></td><td>–.75</td><td></td></tr>
 </table>
