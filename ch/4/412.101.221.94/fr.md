@@ -3,18 +3,18 @@ sr: "412.101.221.94"
 title: Ordonnance du SEFRI du 20 décembre 2022 sur la formation professionnelle initiale d’électricienne de réseau / électricien de réseau avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/853"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2022-12-20
 in_force: 2023-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2022-853-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/853/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-853-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/853/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’électricienne de réseau / électricien de réseau avec certificat fédéral de capacité (CFC)
 
-du 20 décembre 2022 (État le 1<sup>er</sup> avril 2024)
+du 20 décembre 2022 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>47421</td><td>Électricienne de réseau CFC / Électricien de réseau CFC Netzelektrikerin EFZ / Netzelektriker EFZ Elettricista per reti di distribuzione AFC</td></tr>
@@ -26,10 +26,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet, domaines spécifiques et durée
 
@@ -160,7 +160,7 @@ L’acquisition de compétences opérationnelles dans le domaine de compétences
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -188,13 +188,14 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -216,7 +217,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 <tr><td></td><td>Cours 7</td><td>Préparer les interventions conformément à l’ordre de travail (a1) Préparer le lieu de travail conformément à la documentation technique de l’ordre de travail (a2) Monter et démonter des éléments de l’infrastructure de réseau (b3) Monter et démonter des lignes aériennes ou de contact (b4) Monter des équipements de câbles (c1) Monter et démonter des parties d’installation dans l’infrastructure de réseau (c2) Monter des installations à basse tension, paramétrer des dispositifs de protection et de mesure (c3) Monter, raccorder et démonter des installations d’éclairage public (c4) Effectuer des mesures sur les installations d’infrastructure de réseau et les vérifier (d1) Procéder aux contrôles de l’infrastructure de réseau avant sa mise en service et les consigner (e1) Mettre en ou hors service les installations d’infrastructure de réseau (e2) Consigner les travaux réalisés dans les installations d’infrastructure de réseau (e3)</td><td>4 jours</td><td>X X X X X</td><td>X X X X X X X</td><td>X X X X X X X X</td></tr>
 <tr><td>3</td><td>Cours 8</td><td>Préparer les interventions conformément à l’ordre de travail (a1) Préparer le lieu de travail conformément à la documentation technique de l’ordre de travail (a2) Tirer et poser des câbles dans les systèmes d’acheminement de câbles (b2) Monter et démonter des éléments de l’infrastructure de réseau (b3) Monter et démonter des lignes aériennes ou de contact (b4) Monter des équipements de câbles (c1) Monter et démonter des parties d’installation dans l’infrastructure de réseau (c2) Effectuer des mesures sur les installations d’infrastructure de réseau et les vérifier (d1) Procéder aux contrôles de l’infrastructure de réseau avant sa mise en service et les consigner (e1) Mettre en ou hors service les installations d’infrastructure de réseau (e2) Consigner les travaux réalisés dans les installations d’infrastructure de réseau (e3)</td><td>4 jours</td><td>X X X X X X</td><td>X X X X X X X</td><td>X X X X X X X X</td></tr>
 <tr><td></td><td>Cours 9</td><td>Préparer les interventions conformément à l’ordre de travail (a1) Préparer le lieu de travail conformément à la documentation technique de l’ordre de travail (a2) Monter et démonter des éléments de l’infrastructure de réseau (b3) Monter et démonter des lignes aériennes ou de contact (b4) Monter des équipements de câbles (c1) Monter et démonter des parties d’installation dans l’infrastructure de réseau (c2) Monter des installations à basse tension, paramétrer des dispositifs de protection et de mesure (c3) Monter, raccorder et démonter des installations d’éclairage public (c4) Effectuer des mesures sur les installations d’infrastructure de réseau et les vérifier (d1) Assurer l’entretien des parties d’installation conformément au plan de maintenance et à la documentation technique de l’ordre de travail (d2) Analyser et localiser les perturbations simples dans l’infrastructure de réseau (d3) Procéder aux contrôles de l’infrastructure de réseau avant sa mise en service et les consigner (e1) Mettre en ou hors service les installations d’infrastructure de réseau (e2) Consigner les travaux réalisés dans les installations d’infrastructure de réseau (e3)</td><td>4 jours</td><td>X X X X X X X X X X</td><td>X X X</td><td>X X X X X X X X X X X</td></tr>
-<tr><th></th><th>Cours 10</th><th>Préparation des travaux d’infrastructure de réseau (a) Préparer les interventions conformément à l’ordre de travail (a1) Préparer le lieu de travail conformément à la documentation technique de l’ordre de travail (a2) Mettre en œuvre les mesures de sécurité sur le lieu du travail (a3) Vérifier la fonctionnalité des outils de travail et des équipements de protection individuelle (a4) Construction de l’infrastructure de réseau (b) Monter et démonter des lignes aériennes ou de contact (b4) Montage, raccordement et démontage des équipements de l’infrastructure de réseau (c) Monter des équipements de câbles (c1) Monter et démonter des parties d’installation dans l’infrastructure de réseau (c2) Monter des installations à basse tension, paramétrer des dispositifs de protection et de mesure (c3) Monter, raccorder et démonter des installations d’éclairage public (c4) Entretien et exploitation de l’infrastructure de réseau (d) Effectuer des mesures sur les installations d’infrastructure de réseau et les vérifier (d1) Analyser et localiser les perturbations simples dans l’infrastructure de réseau (d3) Clôture des travaux d’infrastructure de réseau (e) Procéder aux contrôles de l’infrastructure de réseau avant sa mise en service et les consigner (e1) Mettre en ou hors service les installations d’infrastructure de réseau (e2) Consigner les travaux réalisés dans les installations d’infrastructure de réseau (e3)</th><th>4 jours</th><th>X X X X X X X X X X X X</th><th>X X X X X X X X X X X X</th><th>X X X X X</th></tr>
+<tr><td></td><td>Cours 10</td><td>Préparation des travaux d’infrastructure de réseau (a) Préparer les interventions conformément à l’ordre de travail (a1) Préparer le lieu de travail conformément à la documentation technique de l’ordre de travail (a2) Mettre en œuvre les mesures de sécurité sur le lieu du travail (a3) Vérifier la fonctionnalité des outils de travail et des équipements de protection individuelle (a4) Construction de l’infrastructure de réseau (b) Monter et démonter des lignes aériennes ou de contact (b4) Montage, raccordement et démontage des équipements de l’infrastructure de réseau (c) Monter des équipements de câbles (c1) Monter et démonter des parties d’installation dans l’infrastructure de réseau (c2) Monter des installations à basse tension, paramétrer des dispositifs de protection et de mesure (c3) Monter, raccorder et démonter des installations d’éclairage public (c4) Entretien et exploitation de l’infrastructure de réseau (d) Effectuer des mesures sur les installations d’infrastructure de réseau et les vérifier (d1) Analyser et localiser les perturbations simples dans l’infrastructure de réseau (d3) Clôture des travaux d’infrastructure de réseau (e) Procéder aux contrôles de l’infrastructure de réseau avant sa mise en service et les consigner (e1) Mettre en ou hors service les installations d’infrastructure de réseau (e2) Consigner les travaux réalisés dans les installations d’infrastructure de réseau (e3)</td><td>4 jours</td><td>X X X X X X X X X X X X</td><td>X X X X X X X X X X X X</td><td>X X X X X</td></tr>
 <tr><td colspan="3">Total</td><td>40 jours</td><td></td><td></td><td></td></tr>
 </table>
 
@@ -307,13 +308,13 @@ L’école professionnelle documente les prestations de la personne en formation
 
 **Dossier des prestations fournies durant les cours interentreprises**
 
-<sup>1</sup> Les prestataires des cours interentreprises documentent les prestations de la personne en formation sous la forme d’un contrôle de compétence effectué après les cours suivants:
+<sup>1</sup>
 
-pour le domaine spécifique énergie: cours 3, 5, 6, 7, 9 et 10;
+Les prestataires des cours interentreprises documentent les prestations de la personne en formation sous la forme d’un contrôle de compétence effectué après les cours suivants:
 
-pour le domaine spécifique télécommunications: cours 2, 3, 5, 6, 7, 8, 9 et 10;
-
-pour le domaine spécifique lignes de contact: cours 3, 7, 8 et 9.
+- a. pour le domaine spécifique énergie: cours 3, 5, 6, 7, 9 et 10;
+- b. pour le domaine spécifique télécommunications: cours 2, 3, 5, 6, 7, 8, 9 et 10;
+- c. pour le domaine spécifique lignes de contact: cours 3, 7, 8 et 9.
 
 <sup>2</sup> Les contrôles de compétence sont sanctionnés par des notes. Celles-ci sont prises en compte pour le calcul de la note d’expérience.
 
@@ -349,23 +350,27 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 La procédure de qualification avec examen final porte sur les compétences opérationnelles dans les domaines de qualification ci-après selon les modalités suivantes:
 
-- a. travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 16 heures; les règles suivantes s’appliquent:
-- 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
-- 2\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
-- 3\. le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aide,
-- 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après et l’entretien professionnel d’une durée de 30 minutes, assortis des pondérations suivantes:
+- a.
+
+  travail pratique sous la forme d’un travail pratique prescrit (TPP) d’une durée de 16 heures; les règles suivantes s’appliquent:
+
+  - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
+  - 2\. la personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation,
+  - 3\. le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aide,
+  - 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après et l’entretien professionnel d’une durée de 30 minutes, assortis des pondérations suivantes:
 
 <table>
-<tr><th>Point d’appré-ciation</th><th>Domaine de compétences opérationnelles</th><th>Pondération</th></tr>
+<tr><th>Point d’appréciation</th><th>Domaine de compétences opérationnelles</th><th>Pondération</th></tr>
 <tr><td>1</td><td>Préparation des travaux d’infrastructure de réseau Construction de l’infrastructure de réseau Montage, raccordement et démontage des équipements de l’infrastructure de réseau Entretien et exploitation de l’infrastructure de réseau Clôture des travaux d’infrastructure de réseau</td><td>80 %</td></tr>
 <tr><td>2</td><td>Entretien professionnel</td><td>20 %</td></tr>
 </table>
 
-- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -407,7 +412,7 @@ La note d’expérience correspond à la moyenne, arrondie à la première déci
 
 <sup>3</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus l’enseignement des connaissances professionnelles, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau l’enseignement des connaissances professionnelles pendant 2 semestres au minimum, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
 
-- [tab] <sup>4</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau les deux derniers cours interentreprises évalués, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
+<sup>4</sup> Pour les personnes qui répètent l’examen final et qui ne suivent plus les cours interentreprises, l’ancienne note est prise en compte. Pour les personnes qui suivent à nouveau les deux derniers cours interentreprises évalués, seules les nouvelles notes sont prises en compte pour le calcul de la note d’expérience.
 
 #### Art. 21
 
@@ -472,11 +477,18 @@ Elle est notamment chargée des tâches suivantes:
 - b. identifier les développements qui requièrent une modification de l’ordonnance et demander à l’organisation du monde du travail compétente de proposer au SEFRI les modifications voulues;
 - c. identifier les développements qui requièrent une adaptation du plan de formation et proposer à l’organisation du monde du travail compétente d’effectuer les adaptations voulues;
 - d. prendre position sur les instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, en particulier les dispositions d’exécution relatives à la procédure de qualification avec examen final.
-- **Art. 24** Organe responsable et organisation des cours interentreprises
-- [tab] <sup>1</sup> L’organe responsable des cours interentreprises est l’organisme de formation professionnelle des électriciens de réseau.
-- [tab] <sup>2</sup> Les cantons peuvent, en concertation avec les organisations du monde du travail compétentes, confier l’organisation des cours interentreprises à une autre institution, notamment si la qualité ou l’organisation de ces cours ne peuvent plus être assurées.
-- [tab] <sup>3</sup> Ils déterminent l’organisation et le déroulement des cours interentreprises avec l’organe responsable.
-- [tab] <sup>4</sup> Les autorités cantonales compétentes ont accès aux cours en tout temps.
+
+#### Art. 24
+
+**Organe responsable et organisation des cours interentreprises**
+
+<sup>1</sup> L’organe responsable des cours interentreprises est l’organisme de formation professionnelle des électriciens de réseau.
+
+<sup>2</sup> Les cantons peuvent, en concertation avec les organisations du monde du travail compétentes, confier l’organisation des cours interentreprises à une autre institution, notamment si la qualité ou l’organisation de ces cours ne peuvent plus être assurées.
+
+<sup>3</sup> Ils déterminent l’organisation et le déroulement des cours interentreprises avec l’organe responsable.
+
+<sup>4</sup> Les autorités cantonales compétentes ont accès aux cours en tout temps.
 
 ## Section 11 Dispositions finales
 
