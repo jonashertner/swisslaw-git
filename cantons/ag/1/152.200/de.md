@@ -4,13 +4,12 @@ number: "152.200"
 title: "Gesetz über die Organisation des Grossen Rates und über den Verkehr zwischen dem Grossen Rat, dem Regierungsrat und der Justizleitung"
 short: "Geschäftsverkehrsgesetz, GVG"
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-03-14
+version: 2026-01-01
+version_adopted: 2025-06-17
 adopted: 1990-06-19
 in_force: 1991-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/152.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3341/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3884/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3341/pdf_file"
 
 (Geschäftsverkehrsgesetz, GVG)
 
-Vom 19.06.1990 (Stand 01.01.2024)
+Vom 19.06.1990 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -125,7 +124,8 @@ beschliesst:
 - a) das Präsidium,
 - b) das Büro,
 - c) die Kommissionen,
-- d) die Fraktionen.
+- d) die Fraktionen,
+- e) die Präsidentenkonferenz.
 
 ### 2.1. Das Präsidium
 
@@ -231,7 +231,7 @@ beschliesst:
 
 #### § 17
 
-**Zusammensetzung und Aufgabe**
+**Zusammensetzung und Zuständigkeit**
 
 <sup>1</sup> Mindestens fünf Mitglieder des Grossen Rates können eine Fraktion bilden.
 
@@ -249,6 +249,16 @@ beschliesst:
 
 - a) jede Fraktion erhält Fr. 1'500.– pro Fraktionsmitglied;
 - b) der Restbetrag wird als Grundentschädigung zu gleichen Teilen auf die Fraktionen verteilt.
+
+### 2.4<sup>bis</sup>. Präsidentenkonferenz
+
+#### § 18a
+
+**Zusammensetzung und Zuständigkeit**
+
+<sup>1</sup> Die Präsidentenkonferenz setzt sich aus dem Ratspräsidium sowie den Präsidentinnen und Präsidenten der Fraktionen und Kommissionen zusammen.
+
+<sup>2</sup> Sie berät über Verfahrensfragen.
 
 ### 2.5. Protokollführung und Parlamentsdienst
 
@@ -336,19 +346,57 @@ beschliesst:
 
 <sup>1</sup> Der Präsident beruft den Grossen Rat von sich aus ein, ferner dann, wenn das Büro, mindestens 20 Mitglieder oder der Regierungsrat es begehren.
 
-<sup>2</sup> Die Mitglieder sind verpflichtet, den Sitzungen beizuwohnen.
+<sup>2</sup> Die Mitglieder sind verpflichtet, an den Sitzungen teilzunehmen.
+
+#### § 26a
+
+**Virtuelle und hybride Sitzungen a) Grosser Rat**
+
+<sup>1</sup> Ist eine physische Teilnahme der Mitglieder des Grossen Rats aufgrund einer Krisensituation nicht oder nur sehr erschwert möglich, kann die Ratspräsidentin beziehungsweise der Ratspräsident die virtuelle oder hybride Durchführung von Ratssitzungen beschliessen. Anderslautende Beschlüsse des Rats bleiben vorbehalten.
+
+<sup>2</sup> Eine Krisensituation gemäss Absatz 1 liegt namentlich vor bei
+
+- a) Schadensereignissen von grosser Tragweite (Grossereignis), Katastrophen, Notlagen und bewaffneten Konflikten gemäss Art. 2 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG) vom 20. Dezember 2019[^26a-1],
+- b) natur- oder zivilisationsbedingten Schadensereignissen oder schweren Unglücksfällen, Notlagen, schweren Mangellagen, bewaffneten Konflikten oder Grossereignissen gemäss § 2 des Gesetzes über den Bevölkerungsschutz und den Zivilschutz im Kanton Aargau (Bevölkerungsschutz- und Zivilschutzgesetz Aargau, BZG-AG) vom 4. Juli 2006[^26a-2],
+- c) einer besonderen Lage gemäss Art. 6 oder einer ausserordentlichen Lage gemäss Art. 7 des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG) vom 28. September 2012[^26a-3].
+
+<sup>3</sup> Die virtuelle oder hybride Durchführung von Wahlen ist ausgeschlossen. Stille Wahlen im Rahmen von virtuellen oder hybriden Sitzungen sind zulässig.
+
+<sup>4</sup> Virtuell an Ratssitzungen teilnehmende Mitglieder haben dieselben Rechte wie physisch anwesende Mitglieder.
+
+[^26a-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de)
+[^26a-2]: SAR [515.200](https://gesetzessammlungen.ag.ch/data/515.200/de)
+[^26a-3]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de)
+
+#### § 26b
+
+**b) Kommissionen, Büro und Präsidentenkonferenz**
+
+<sup>1</sup> Für Sitzungen der Kommissionen kann deren Präsidentin beziehungsweise deren Präsident, für Sitzungen des Büros und der Präsidentenkonferenz die Ratspräsidentin beziehungsweise der Ratspräsident beschliessen, dass die Sitzungen ausnahmsweise virtuell oder hybrid durchgeführt werden.
+
+<sup>2</sup> Anderslautende Beschlüsse der Kommissionen, des Büros oder der Präsidentenkonferenz bleiben vorbehalten.
+
+#### § 26c
+
+**c) Informatiksystem, Vertraulichkeit und Datenschutz**
+
+<sup>1</sup> Die virtuellen oder hybriden Sitzungen sind in einem Verfahren und unter Einsatz eines Informatiksystems durchzuführen, welche die Authentifizierung der Teilnehmenden, den Schutz der verarbeiteten Daten, die Sicherheit der Abstimmungen und, sofern erforderlich, die Vertraulichkeit des Sitzungsinhalts gewährleisten.
+
+<sup>2</sup> Das Büro hat das Verfahren und das einzusetzende Informatiksystem jeweils im Voraus zu genehmigen.
 
 #### § 27
 
 **Verhandlungsfähigkeit**
 
-<sup>1</sup> Der Grosse Rat ist verhandlungsfähig, wenn mindestens 71 Mitglieder anwesend sind.
+<sup>1</sup> Der Grosse Rat ist verhandlungsfähig, wenn mindestens 71 Mitglieder anwesend sind. Als anwesend gilt, wer an den Sitzungen vor Ort oder virtuell gemäss § 26a teilnimmt.
 
 #### § 28
 
 **Öffentlichkeit**
 
 <sup>1</sup> Die Verhandlungen des Grossen Rates sind öffentlich.
+
+<sup>1<sup>bis</sup></sup> Virtuelle Sitzungen sind via elektronische Live-Übertragung zu veröffentlichen.
 
 <sup>2</sup> Bild- und Tonaufnahmen der Ratsverhandlungen sind unter Vorbehalt der Bestimmungen in der Geschäftsordnung gestattet.
 
@@ -360,7 +408,7 @@ beschliesst:
 
 <sup>2</sup> Die gleiche Ausstandspflicht gilt für Mitglieder von leitenden Organen von juristischen Personen des privaten und öffentlichen Rechts mit Ausnahme der Gemeinden und der Gemeindeverbände.
 
-<sup>3</sup> Das zum Ausstand verpflichtete Mitglied darf an der Beratung teilnehmen, hat aber vor der Abstimmung den Sitzungsraum unaufgefordert zu verlassen.
+<sup>3</sup> Das zum Ausstand verpflichtete Mitglied darf an der Beratung teilnehmen, hat aber vor der Abstimmung die Sitzung unaufgefordert zu verlassen.
 
 <sup>4</sup> Für die Wahlgültigkeitsprüfung gilt § 4 Abs. 2.
 
