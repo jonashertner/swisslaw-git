@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 2015 sullo scambio automatico internaziona
 short: LSAI
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/259"
 language: it
-version: 2023-09-01
+version: 2026-01-01
 adopted: 2015-12-18
 in_force: 2016-05-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2016-259-20230901-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/259/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-259-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/259/20230901/it"
 
 (LSAI)
 
-del 18 dicembre 2015 (Stato 1° settembre 2023)
+del 18 dicembre 2015 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -38,12 +38,18 @@ decreta:
 
 La presente legge disciplina l’attuazione dello scambio automatico di informazioni a fini fiscali (scambio automatico di informazioni) tra la Svizzera e uno Stato partner secondo:
 
-- a. l’Accordo multilaterale del 29 ottobre 2014[^1-1] tra Autorità Competenti concernente lo scambio automatico di informazioni relative a Conti Finanziari (Accordo SAI), allegato compreso;
-- b. altri accordi internazionali che prevedono uno scambio automatico di informazioni relative a conti finanziari.
+- a.[^1-1] l’Accordo multilaterale del 29 ottobre 2014[^1-2] tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari (Accordo SAI Conti finanziari), compresi il suo Addendum e gli allegati;
+- b. altri accordi internazionali che prevedono uno scambio automatico di informazioni relative a conti finanziari;
+- c.[^1-3] l’Accordo multilaterale dell’8 giugno 2023[^1-4] tra autorità competenti concernente lo scambio automatico di informazioni in conformità al quadro per la comunicazione di informazioni in materia di cripto-attività (Accordo SAI Cripto-attività), compreso il suo allegato;
+- d.[^1-5] altri accordi internazionali che prevedono uno scambio automatico di informazioni relative a cripto-attività.
 
 <sup>2</sup> Sono fatte salve le disposizioni derogatorie dell’accordo applicabile nel singolo caso.
 
-[^1-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^1-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^1-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^1-3]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^1-4]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^1-5]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 2
 
@@ -55,7 +61,10 @@ Nella presente legge s’intende per:
 
 - a. *accordo applicabile*: un accordo o una convenzione secondo l’articolo 1 capoverso 1 applicabile nel singolo caso;
 - b. *standard comune di comunicazione di informazioni* *(SCC)*: lo standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai conti finanziari dell’Organizzazione per la cooperazione e lo sviluppo economici (OCSE);
+- b<sup>bis</sup>.[^2-1] *quadro per la comunicazione di informazioni in materia di cripto-attività («Crypto-Asset Reporting Framework», CARF):* il quadro per la comunicazione di informazioni in materia di cripto-attività dell’OCSE;
 - c. *Stato partner*: uno Stato o un territorio con cui la Svizzera ha convenuto lo scambio automatico di informazioni;
+- c<sup>bis</sup>.[^2-2] *Stato partner SCC:* uno Stato o un territorio con cui la Svizzera ha convenuto lo scambio automatico di informazioni relative a conti finanziari;
+- c<sup>ter</sup>.[^2-3] *Stato partner CARF:* uno Stato o un territorio ai sensi della «giurisdizione partner» definita alla sezione IV parte F punto 1 dell’allegato all’Accordo SAI Cripto-attività[^2-4];
 - d.
 
   *istituto finanziario svizzero*:
@@ -63,23 +72,78 @@ Nella presente legge s’intende per:
   - 1\. un istituto finanziario residente in Svizzera, eccetto qualsiasi sua succursale situata al di fuori della Svizzera, o
   - 2\. una succursale situata in Svizzera di un istituto finanziario non residente in Svizzera;
 
+- d<sup>bis</sup>.[^2-5] *prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione:* un prestatore di servizi per le cripto-attività tenuto alla comunicazione che presenta un criterio di collegamento con la Svizzera secondo la sezione I parte A o B dell’allegato all’Accordo SAI Cripto-attività;
+- d<sup>ter</sup>.[^2-6] *prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione:* un prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione che, secondo la sezione I parti C–H dell’allegato all’Accordo SAI Cripto-attività, in Svizzera non è esonerato dagli obblighi di comunicazione e adeguata verifica in materia fiscale di cui alle sezioni II e III di tale allegato;
 - e. *conto non documentato*: un conto preesistente di una persona fisica per il quale un istituto finanziario svizzero tenuto alla comunicazione non può determinare la residenza fiscale del titolare conformemente all’accordo applicabile;
-- f.[^2-1] *numero d’identificazione fiscale svizzero per persone fisiche:* il numero AVS secondo la legge federale del 20 dicembre 1946[^2-2] sull’assicurazione per la vecchiaia e per i superstiti;
-- g. *numero d’identificazione fiscale svizzero per enti (numero IDI)*: il numero d’identificazione delle imprese secondo la legge federale del 18 giugno 2010[^2-3] sul numero d’identificazione delle imprese;
+- f.[^2-7] *numero d’identificazione fiscale svizzero per persone fisiche:* il numero AVS secondo la legge federale del 20 dicembre 1946[^2-8] sull’assicurazione per la vecchiaia e per i superstiti;
+- g. *numero d’identificazione fiscale svizzero per enti (numero IDI)*: il numero d’identificazione delle imprese secondo la legge federale del 18 giugno 2010[^2-9] sul numero d’identificazione delle imprese;
 - h. *numero d’identificazione fiscale estero*: il numero d’identificazione fiscale di un contribuente secondo il diritto dello Stato o del territorio di cui è residente fiscale;
-- i.[^2-4] *conto preesistente*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione già aperto il giorno antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
-- j.[^2-5] *nuovo conto*: un conto finanziario presso un istituto finanziario svizzero tenuto alla comunicazione aperto il giorno dell’applicazione dello scambio automatico di informazioni con uno Stato partner, o dopo tale data;
-- k. *conto di importo non rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato non supera un milione di dollari americani[^2-6] il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner;
-- l. *conto di importo rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato supera un milione di dollari americani il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner, oppure il 31 dicembre di un anno successivo.
+- i.[^2-10]
 
-<sup>2</sup> Il Consiglio federale può estendere per una durata determinata la definizione di «Giurisdizione partecipante» utilizzata negli accordi applicabili.
+  *conto preesistente:* un conto finanziario:
 
-[^2-1]: Nuovo testo giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^2-2]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^2-3]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
-[^2-4]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^2-5]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^2-6]: Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+  - 1\. già aperto, presso un istituto finanziario svizzero tenuto alla comunicazione, il giorno antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner SCC oppure, se la modifica del 26 settembre 2025 della presente legge entra in vigore precedentemente, il giorno antecedente l’entrata in vigore di tale modifica,
+  - 2\. già aperto, presso un istituto finanziario svizzero tenuto alla comunicazione, il giorno antecedente l’entrata in vigore della modifica del 26 settembre 2025 della presente legge, se il conto è considerato un conto finanziario esclusivamente in virtù dell’attuazione dell’Addendum dell’8 giugno 2023[^2-11] all’Accordo SAI Conti finanziari[^2-12];
+
+- j.[^2-13]
+
+  *nuovo conto:* un conto finanziario aperto presso un istituto finanziario svizzero tenuto alla comunicazione:
+
+  - 1\. il giorno dell’applicazione dello scambio automatico di informazioni con uno Stato partner SCC o successivamente, oppure, se la modifica del 26 settembre 2025 della presente legge entra in vigore precedentemente, il giorno dell’entrata in vigore di tale modifica o successivamente,
+  - 2\. il giorno dell’entrata in vigore della modifica del 26 settembre 2025 della presente legge o successivamente, se il conto è considerato un conto finanziario esclusivamente in virtù dell’attuazione dell’Addendum dell’8 giugno 2023 all’Accordo SAI Conti finanziari;
+
+- k. *conto di importo non rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato non supera un milione di dollari americani[^2-14] il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner SCC[^2-15];
+- l. *conto di importo rilevante*: un conto preesistente di una persona fisica il cui saldo o valore aggregato supera un milione di dollari americani il 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner SCC, oppure il 31 dicembre di un anno successivo.
+
+<sup>2</sup> ...[^2-16]
+
+<sup>3</sup> Le definizioni «[giurisdizione]» e «[aggettivo che designa la giurisdizione]» nelle sezioni I e IV parti D punto 9 e F punto 1 dell’allegato all’Accordo SAI Cripto-attività corrispondono a «Svizzera» e «svizzero», con i necessari adeguamenti grammaticali.[^2-17]
+
+<sup>4</sup> La data «[xx.xx.xxxx]» nella sezione IV parte D punti 4 e 6 dell’allegato all’Accordo SAI Cripto-attività corrisponde al giorno antecedente l’entrata in vigore della modifica del 26 settembre 2025 della presente legge.[^2-18]
+
+[^2-1]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-2]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-3]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-4]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^2-5]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-6]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-7]: Nuovo testo giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^2-8]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^2-9]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^2-10]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-11]: [RU 2025 863](https://fedlex.data.admin.ch/eli/oc/2025/863)
+[^2-12]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^2-13]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-14]: Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^2-15]: Nuova espr. giusta la cifra I cpv. 2 della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^2-16]: Abrogato dalla cifra I della LF del 26 set. 2025, con effetto dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-17]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2-18]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+
+#### Art. 2a
+
+**Accordi sulla protezione dei dati**[^2a-1]
+
+Se l’accordo applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni devono garantire almeno il livello di protezione della legge federale del 25 settembre 2020[^2a-2] sulla protezione dei dati (LPD) e della presente legge.
+
+[^2a-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^2a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
+#### Art. 2b
+
+**Commentari dell’OCSE**[^2b-1]
+
+<sup>1</sup> Gli accordi applicabili, compresi i loro allegati, sono interpretati in particolare secondo i relativi commentari.
+
+<sup>2</sup> Il Consiglio federale designa la versione determinante dei commentari.
+
+[^2b-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+
+## Sezione 2: Standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai conti finanziari
+
+[^sec2-1]
+
+[^sec2-1]: Originaria avanti art. 7. Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 3
 
@@ -102,14 +166,19 @@ Per istituti finanziari non tenuti alla comunicazione che sono organizzazioni in
 
 <sup>3</sup> Per istituto finanziario non tenuto alla comunicazione che è una banca centrale si intendono segnatamente la Banca nazionale svizzera e gli istituti interamente di sua proprietà.
 
-<sup>4</sup> Gli istituti finanziari di cui ai capoversi 1–3 sono istituti finanziari tenuti alla comunicazione in relazione a pagamenti derivanti da un obbligo detenuto in connessione con attività finanziarie commerciali svolte da un’impresa di assicurazioni specificata, un istituto di custodia o un istituto di deposito.
+<sup>4</sup>
+
+Gli istituti finanziari di cui ai capoversi 1–3 sono istituti finanziari tenuti alla comunicazione in relazione a:
+
+- a. pagamenti derivanti da un obbligo detenuto in connessione con attività finanziarie commerciali svolte da un’impresa di assicurazioni specificata, un istituto di custodia o un istituto di deposito;
+- b. un’attività di detenzione di valute digitali della banca centrale per titolari di conto che non sono istituti finanziari, enti statali, organizzazioni internazionali o banche centrali.[^3-4]
 
 <sup>5</sup>
 
 Per istituti finanziari non tenuti alla comunicazione che sono un fondo pensione ad ampia partecipazione, un fondo pensione a partecipazione ristretta, un fondo pensione di un ente statale, di un’organizzazione internazionale o di una banca centrale, o un ente che presenta un rischio ridotto di essere utilizzato a fini di sottrazione d’imposta e ha caratteristiche sostanzialmente simili a quelle degli istituti finanziari non tenuti alla comunicazione secondo l’accordo applicabile si intendono segnatamente i seguenti istituti di previdenza professionale:
 
-- a.[^3-4] gli istituti di previdenza o le altre forme di previdenza, costituiti in Svizzera ai sensi degli articoli 48 e 49 della legge federale del 25 giugno 1982[^3-5] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP), dell’articolo 89*a* capoverso 6 o 7 del Codice civile (CC)[^3-6] o dell’articolo 331 capoverso 1 del Codice delle obbligazioni (CO)[^3-7];
-- b. gli istituti di libero passaggio costituiti ai sensi degli articoli 4 capoverso 1 e 26 capoverso 1 della legge del 17 dicembre 1993[^3-8] sul libero passaggio (LFLP);
+- a.[^3-5] gli istituti di previdenza o le altre forme di previdenza, costituiti in Svizzera ai sensi degli articoli 48 e 49 della legge federale del 25 giugno 1982[^3-6] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP), dell’articolo 89*a* capoverso 6 o 7 del Codice civile (CC)[^3-7] o dell’articolo 331 capoverso 1 del Codice delle obbligazioni (CO)[^3-8];
+- b. gli istituti di libero passaggio costituiti ai sensi degli articoli 4 capoverso 1 e 26 capoverso 1 della legge del 17 dicembre 1993[^3-9] sul libero passaggio (LFLP);
 - c. gli istituti collettori secondo l’articolo 60 LPP;
 - d. i fondi di garanzia secondo gli articoli 56–59 LPP;
 - e. gli istituti di altre forme di previdenza riconosciute ai sensi dell’articolo 82 LPP;
@@ -117,7 +186,7 @@ Per istituti finanziari non tenuti alla comunicazione che sono un fondo pensione
 
 <sup>6</sup> Laddove l’accordo applicabile non prevede un termine, un emittente di carte di credito è considerato emittente di carte di credito qualificato, e quindi istituto finanziario non tenuto alla comunicazione, se al momento dell’entrata in vigore della presente legge soddisfa le condizioni previste dall’accordo applicabile. Un emittente di carte di credito che avvia l’attività dopo l’entrata in vigore della presente legge è considerato istituto finanziario non tenuto alla comunicazione se soddisfa le condizioni previste dall’accordo applicabile al più tardi entro sei mesi dall’avvio dell’attività.
 
-<sup>7</sup> Per istituti finanziari non tenuti alla comunicazione che sono un veicolo di investimento collettivo esente si intendono segnatamente gli investimenti collettivi di capitale svizzeri che sottostanno alla legge del 23 giugno 2006[^3-9] sugli investimenti collettivi e che soddisfano le condizioni previste dall’accordo applicabile in materia di partecipazioni al veicolo di investimento collettivo e di quote sotto forma di cartevalori al portatore. Il Consiglio federale stabilisce i criteri secondo cui un veicolo di investimento collettivo è un istituto finanziario non tenuto alla comunicazione. Il Consiglio federale designa i veicoli.
+<sup>7</sup> Per istituti finanziari non tenuti alla comunicazione che sono un veicolo di investimento collettivo esente si intendono segnatamente gli investimenti collettivi di capitale svizzeri che sottostanno alla legge del 23 giugno 2006[^3-10] sugli investimenti collettivi e che soddisfano le condizioni previste dall’accordo applicabile in materia di partecipazioni al veicolo di investimento collettivo e di quote sotto forma di cartevalori al portatore. Il Consiglio federale stabilisce i criteri secondo cui un veicolo di investimento collettivo è un istituto finanziario non tenuto alla comunicazione. Il Consiglio federale designa i veicoli.
 
 <sup>8</sup>
 
@@ -128,20 +197,24 @@ Laddove l’accordo applicabile non prevede un termine, i veicoli di investiment
 
 <sup>9</sup> Laddove l’accordo applicabile lo prevede, un trust è considerato un istituto finanziario non tenuto alla comunicazione purché il fiduciario del trust (trustee) sia un istituto finanziario tenuto alla comunicazione e comunichi tutte le informazioni da comunicare secondo l’accordo applicabile in merito a tutti i conti oggetto di comunicazione del trust.
 
-<sup>10</sup> ...[^3-10]
+<sup>9bis</sup> Un ente residente in Svizzera è considerato un ente di utilità pubblica qualificato e pertanto un istituto finanziario non tenuto alla comunicazione se soddisfa le condizioni stabilite dal Consiglio federale e dispone della relativa conferma da parte di un’autorità svizzera competente.[^3-11]
+
+<sup>10</sup> ...[^3-12]
 
 <sup>11</sup> Il Consiglio federale può designare quali istituti finanziari non tenuti alla comunicazione anche altri enti purché gli stessi presentino un rischio ridotto di essere utilizzati a fini di sottrazione d’imposta e abbiano caratteristiche sostanzialmente simili agli istituti finanziari non tenuti alla comunicazione secondo l’accordo applicabile. Il Consiglio federale stabilisce i criteri secondo cui altri enti sono considerati istituti finanziari non tenuti alla comunicazione.
 
 [^3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
 [^3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
 [^3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/519)
-[^3-4]: Vedi art. 41 qui appresso.
-[^3-5]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^3-6]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
-[^3-7]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^3-8]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
-[^3-9]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
-[^3-10]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^3-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^3-5]: Vedi art. 41 qui appresso.
+[^3-6]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
+[^3-7]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^3-8]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^3-9]: [RS 831.42](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10100)
+[^3-10]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^3-11]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^3-12]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 4
 
@@ -196,37 +269,35 @@ Gli istituti finanziari che non sono residenti fiscali in uno Stato o un territo
 
 #### Art. 6
 
-**Accordi sulla protezione dei dati**
+[^6-1]
 
-Se l’accordo applicabile prevede che l’autorità che trasmette le informazioni può specificare le disposizioni in materia di protezione dei dati che devono essere rispettate dall’autorità che riceve le informazioni, il Consiglio federale può concludere accordi sulla protezione dei dati. Tali disposizioni garantiscono almeno il livello di protezione della legge federale del 25 settembre 2020[^6-1] sulla protezione dei dati e della presente legge.[^6-2]
-
-[^6-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^6-2]: Nuovo testo del per. giusta l’all. 1 cifra II n. 55 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-
-## Sezione 2: Standard comune di comunicazione di informazioni
+[^6-1]: Abrogato dalla cifra I della LF del 26 set. 2025, con effetto dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 7
 
-**Applicazione e sviluppo dell’Accordo SAI**
+**Applicazione e sviluppo dell’Accordo SAI Conti finanziari[^7-1]**
 
-<sup>1</sup> Nel quadro dell’attuazione dell’Accordo SAI[^7-1] i diritti e gli obblighi degli istituti finanziari svizzeri tenuti alla comunicazione si fondano sull’allegato all’Accordo SAI e sulla presente legge.
+<sup>1</sup> Nel quadro dell’attuazione dell’Accordo SAI Conti finanziari[^7-2] i diritti e gli obblighi degli istituti finanziari svizzeri tenuti alla comunicazione si fondano sull’allegato all’Accordo SAI Conti finanziari e sulla presente legge.
 
-<sup>2</sup> Se sono di portata limitata, il Consiglio federale può riprendere le modifiche dello SCC nell’allegato all’Accordo SAI. Il Consiglio federale sottopone le altre modifiche all’Assemblea federale per approvazione.
+<sup>2</sup> Se sono di portata limitata, il Consiglio federale può riprendere le modifiche dello SCC nell’allegato dell’Accordo SAI Conti finanziari.[^7-3]
 
 <sup>3</sup>
 
 Sono considerate di portata limitata segnatamente le modifiche che:
 
 - a. non istituiscono nuovi obblighi né sopprimono diritti esistenti per le persone oggetto di comunicazione e per gli istituti finanziari svizzeri tenuti alla comunicazione;
-- b. sono soprattutto dirette alle autorità, disciplinano questioni tecnico-amministrative o non implicano importanti dispendi finanziari.
+- b.[^7-4] sono dirette alle autorità e disciplinano questioni tecnico-amministrative.
 
-[^7-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^7-1]: Nuova espr. giusta la cifra I cpv. 1 della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^7-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^7-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^7-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 8
 
-**Commentari dell’OCSE**
+[^8-1]
 
-Gli istituti finanziari svizzeri tenuti alla comunicazione attuano soltanto le modifiche ai commentari dell’OCSE sul Modello di accordo tra autorità competenti e sullo SCC che sono state integrate in una legge federale o in un’ordinanza oppure in un’istruzione dell’Amministrazione federale delle contribuzioni (AFC).
+[^8-1]: Abrogato dalla cifra I della LF del 26 set. 2025, con effetto dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 9
 
@@ -239,7 +310,7 @@ Gli istituti finanziari svizzeri tenuti alla comunicazione possono:
 - a. ricorrere a prestatori di servizi esterni per ottemperare ai loro obblighi di comunicazione e adeguata verifica; restano tuttavia responsabili dell’adempimento di tali obblighi;
 - b. applicare le loro procedure di adeguata verifica relative ai conti di importo rilevante a determinati o a tutti i conti di importo non rilevante;
 - c. applicare le loro procedure di adeguata verifica relative ai nuovi conti a determinati o a tutti i conti preesistenti; continuano ad essere applicabili le altre prescrizioni concernenti i conti preesistenti;
-- d. rinunciare a verificare, identificare o comunicare determinati o tutti i conti preesistenti di enti il cui saldo o valore aggregato al 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner non supera 250 000 dollari americani;
+- d. rinunciare a verificare, identificare o comunicare determinati o tutti i conti preesistenti di enti il cui saldo o valore aggregato al 31 dicembre antecedente l’applicazione dello scambio automatico di informazioni con uno Stato partner SCC non supera 250 000 dollari americani;
 - e. per identificare i conti oggetto di comunicazione, applicare la procedura di ricerca dell’indirizzo di residenza o la ricerca nei loro archivi elettronici a determinati o tutti i conti preesistenti di importo non rilevante di persone fisiche;
 - f. per adempiere i loro obblighi di adeguata verifica per quanto riguarda i conti preesistenti di enti, utilizzare come prove documentali qualsiasi classificazione contenuta nei loro registri riguardante il titolare del conto determinata in base a un sistema standardizzato di codificazione settoriale nazionale o internazionale, registrata dall’istituto finanziario tenuto alla comunicazione secondo le sue consuete pratiche commerciali ai fini delle procedure di lotta contro il riciclaggio di denaro o per altre finalità di legge, diverse da quelle fiscali, e applicata da detto istituto finanziario tenuto alla comunicazione prima della data determinante per classificare il conto finanziario come conto preesistente, a condizione che l’istituto finanziario tenuto alla comunicazione non sia a conoscenza, o non abbia motivo di essere a conoscenza, del fatto che tale classificazione è inesatta o inattendibile;
 - g. trattare come nuovi conti determinati o tutti i conti finanziari che sono stati aperti al più presto al momento dell’entrata in vigore della presente legge; essi possono rilevare il numero d’identificazione fiscale estero al momento dell’apertura del conto.
@@ -263,7 +334,33 @@ Il Consiglio federale stabilisce i criteri secondo cui occorre:
 
 <sup>3</sup> In caso di decesso di una persona oggetto di comunicazione, l’istituto finanziario svizzero tenuto alla comunicazione tratta il relativo conto come prima del decesso fino a quando non gli sono resi noti la successione con personalità giuridica propria o gli eredi autorizzati.
 
+<sup>4</sup>
+
+Se una persona oggetto di comunicazione è considerata una persona che esercita il controllo o che è titolare di una quota nel capitale di rischio in virtù di più di un ruolo e se l’identificazione del ruolo della persona oggetto di comunicazione è richiesta dalle procedure di lotta contro il riciclaggio di denaro, l’istituto finanziario svizzero tenuto alla comunicazione comunica:
+
+- a.
+
+  nel caso di un ente diverso da un trust o un dispositivo giuridico analogo, il ruolo gerarchicamente più rilevante di tale persona oggetto di comunicazione; la rilevanza gerarchica è stabilita secondo l’ordine seguente:
+
+  - 1\. controllo dell’ente in virtù delle quote di proprietà che in definitiva appartengono alla persona fisica,
+  - 2\. controllo della persona giuridica in altro modo,
+  - 3\. appartenenza all’organo superiore di direzione;
+
+- b.
+
+  nel caso di un trust o di un dispositivo giuridico analogo, tutti i ruoli di tale persona oggetto di comunicazione, compresi i seguenti:
+
+  - 1\. disponente,
+  - 2\. trustee,
+  - 3\. guardiano,
+  - 4\. beneficiario, e
+  - 5\. altra persona fisica che, in ultima istanza, esercita il controllo sul trust.[^10-2]
+
+<sup>5</sup> Se è residente fiscale in più di uno Stato, la persona oggetto di comunicazione è considerata persona di uno Stato oggetto di comunicazione in relazione a tutti gli Stati oggetto di comunicazione.[^10-3]
+
 [^10-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^10-2]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^10-3]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 11
 
@@ -273,12 +370,12 @@ Il Consiglio federale stabilisce i criteri secondo cui occorre:
 
 <sup>2</sup>
 
-I conti preesistenti di persone fisiche devono essere sottoposti a verifica a partire dall’applicazione dello scambio automatico di informazioni con lo Stato partner entro i seguenti termini:
+I conti preesistenti di persone fisiche devono essere sottoposti a verifica a partire dall’applicazione dello scambio automatico di informazioni con lo Stato partner SCC entro i seguenti termini:
 
 - a. conti di importo rilevante, entro un anno;
 - b. conti di importo non rilevante, entro due anni.
 
-<sup>3</sup> I conti preesistenti di enti devono essere sottoposti a verifica entro due anni dall’applicazione dello scambio automatico di informazioni con lo Stato partner.
+<sup>3</sup> I conti preesistenti di enti devono essere sottoposti a verifica entro due anni dall’applicazione dello scambio automatico di informazioni con lo Stato partner SCC.
 
 <sup>4</sup> L’istituto finanziario svizzero tenuto alla comunicazione può applicare i termini di cui ai capoversi 2 e 3 a partire dall’entrata in vigore della presente legge.
 
@@ -297,26 +394,27 @@ Un indirizzo registrato nei documenti dell’istituto finanziario svizzero tenut
   - 2\.[^11-3] negli ultimi sei anni il titolare del conto non ha avuto contatti con l’istituto finanziario svizzero tenuto alla comunicazione presso cui il conto è aperto in relazione a questo o qualsiasi altro suo conto presso tale istituto finanziario, e
   - 3\. nel caso di un contratto di assicurazione con valore di riscatto, negli ultimi sei anni l’istituto finanziario svizzero tenuto alla comunicazione non ha avuto contatti con il titolare del conto in relazione a questo o qualsiasi altro suo conto presso tale istituto finanziario.
 
-<sup>7</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione devono adottare misure organizzative volte a garantire che essi dispongano di tutte le informazioni da rilevare nel quadro dell’apertura di un conto secondo l’accordo applicabile e la presente legge, in particolare misure volte a garantire che sia trasmessa l’autocertificazione.
+<sup>7</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione devono adottare adeguate misure organizzative volte a garantire che essi dispongano di tutte le informazioni da rilevare nel quadro dell’apertura di un conto secondo l’accordo applicabile e la presente legge, in particolare misure volte a garantire che sia trasmessa l’autocertificazione.[^11-4]
 
 <sup>8</sup>
 
 Un istituto finanziario svizzero tenuto alla comunicazione può aprire un nuovo conto in assenza di un’autocertificazione del titolare del conto soltanto:
 
 - a. se il titolare del conto è un ente e l’istituto finanziario svizzero può ragionevolmente determinare, in base alle informazioni in suo possesso o pubblicamente disponibili, che il titolare del conto non è una persona oggetto di comunicazione; o
-- b. in presenza di un altro caso eccezionale; in tal caso deve aver ottenuto l’autocertificazione entro 90 giorni e averne confermato la plausibilità; il Consiglio federale definisce i casi eccezionali.[^11-4]
+- b. in presenza di un altro caso eccezionale; in tal caso deve aver ottenuto l’autocertificazione entro 90 giorni e averne confermato la plausibilità; il Consiglio federale definisce i casi eccezionali.[^11-5]
 
-<sup>9</sup> Se entro 90 giorni dall’apertura di un nuovo conto non dispone delle necessarie informazioni secondo l’accordo applicabile e la presente legge per la conferma della plausibilità dell’autocertificazione o, in un caso eccezionale secondo il capoverso 8 lettera b, non dispone dell’autocertificazione, l’istituto finanziario svizzero tenuto alla comunicazione deve chiudere il conto o bloccare i movimenti del conto fino all’ottenimento di tutte le informazioni. A tal fine dispone di un diritto di disdetta straordinario. Sono fatti salvi i casi di cui all’articolo 9 della legge del 10 ottobre 1997[^11-5] sul riciclaggio di denaro (LRD).[^11-6]
+<sup>9</sup> Se entro 90 giorni dall’apertura di un nuovo conto non dispone delle necessarie informazioni secondo l’accordo applicabile e la presente legge per la conferma della plausibilità dell’autocertificazione o, in un caso eccezionale secondo il capoverso 8 lettera b, non dispone dell’autocertificazione, l’istituto finanziario svizzero tenuto alla comunicazione deve chiudere il conto o bloccare i movimenti del conto fino all’ottenimento di tutte le informazioni. A tal fine dispone di un diritto di disdetta straordinario. Sono fatti salvi i casi di cui all’articolo 9 della legge del 10 ottobre 1997[^11-6] sul riciclaggio di denaro (LRD).[^11-7]
 
-<sup>10</sup> ...[^11-7]
+<sup>10</sup> ...[^11-8]
 
 [^11-1]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 [^11-2]: [RS 952.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11561)
 [^11-3]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-4]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-5]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
-[^11-6]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
-[^11-7]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^11-5]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-6]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^11-7]: Nuovo testo giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^11-8]: Abrogato dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
 #### Art. 12
 
@@ -328,11 +426,121 @@ Un istituto finanziario svizzero tenuto alla comunicazione può aprire un nuovo 
 
 [^12-1]: Abrogati dalla cifra I della LF del 19 giu. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
-## Sezione 3: Obbligo di iscrizione degli istituti finanziari svizzeri tenuti alla comunicazione
+## Sezione 2*a*: Quadro per la comunicazione di informazioni in materia di cripto‑attività
+
+[^sec2a-1]
+
+[^sec2a-1]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+
+#### Art. 12a
+
+**Persone escluse**
+
+<sup>1</sup>
+
+Per persone escluse che sono enti statali si intendono segnatamente:
+
+- a. la Confederazione Svizzera;
+- b. i Cantoni e i Comuni;
+- c. gli istituti e le agenzie interamente di proprietà di un ente di cui alla lettera a o b, in particolare le istituzioni, gli istituti e i fondi del sistema delle assicurazioni sociali a livello federale, cantonale e comunale.
+
+<sup>2</sup>
+
+Per persone escluse che sono organizzazioni internazionali si intendono segnatamente:
+
+- a. le organizzazioni partner di un accordo di sede con la Confederazione Svizzera;
+- b. le missioni diplomatiche, le missioni permanenti o altre rappresentanze presso organismi internazionali, le rappresentanze consolari o le missioni speciali, con status, privilegi e immunità sanciti nella Convenzione di Vienna del 18 aprile 1961[^12a-1] sulle relazioni diplomatiche, nella Convenzione di Vienna del 24 aprile 1963[^12a-2] sulle relazioni consolari o nella Convenzione dell’8 dicembre 1969[^12a-3] sulle missioni speciali.
+
+<sup>3</sup> Per persone escluse che sono banche centrali si intendono segnatamente la Banca nazionale svizzera e gli istituti interamente di sua proprietà.
+
+[^12a-1]: [RS 0.191.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/489)
+[^12a-2]: [RS 0.191.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/492)
+[^12a-3]: [RS 0.191.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/519)
+
+#### Art. 12b
+
+**Prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione**
+
+<sup>1</sup> Il Consiglio federale stabilisce i criteri secondo cui un prestatore di servizi per le cripto-attività tenuto alla comunicazione è considerato, ai fini dell’attuazione dell’Accordo SAI Cripto-attività[^12b-1], residente fiscale in Svizzera, assoggettato all’obbligo di presentare moduli contenenti informazioni fiscali o detentore di una succursale in Svizzera.
+
+<sup>2</sup> Stabilisce i criteri secondo cui la prestazione di un servizio consistente nell’eseguire operazioni di scambio per i clienti o per conto degli stessi è considerata un’attività commerciale.
+
+<sup>3</sup> Può stabilire i criteri secondo cui un prestatore di servizi per le cripto-attività tenuto alla comunicazione è considerato, ai fini dell’attuazione dell’Accordo SAI Cripto-attività, gestito a partire dalla Svizzera o avente una sede abituale di attività in Svizzera.
+
+[^12b-1]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+
+#### Art. 12c
+
+**Applicazione e sviluppo dell’Accordo SAI Cripto-attività**
+
+<sup>1</sup> Nel quadro dell’attuazione dell’Accordo SAI Cripto-attività[^12c-1], i diritti e gli obblighi dei prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione si fondano sull’allegato al suddetto Accordo e sulla presente legge.
+
+<sup>2</sup> Se sono di portata limitata, il Consiglio federale può riprendere le modifiche del CARF nell’allegato all’Accordo SAI Cripto-attività.
+
+<sup>3</sup>
+
+Sono considerate di portata limitata segnatamente le modifiche che:
+
+- a. non istituiscono nuovi obblighi né sopprimono diritti esistenti per gli utenti oggetto di comunicazione, le persone che esercitano il controllo che sono persone oggetto di comunicazione e i prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione;
+- b. sono dirette alle autorità e disciplinano questioni tecnico-amministrative.
+
+[^12c-1]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+
+#### Art. 12d
+
+**Agevolazioni nell’adempimento degli obblighi di comunicazione e adeguata verifica**
+
+I prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione possono ricorrere a prestatori di servizi esterni per ottemperare ai loro obblighi di comunicazione e adeguata verifica; restano responsabili dell’adempimento di tali obblighi.
+
+#### Art. 12e
+
+**Precisazione degli obblighi di comunicazione**
+
+<sup>1</sup> Per determinare il valore di un’operazione di pagamento al dettaglio, il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione converte l’importo in dollari americani applicando il tasso di cambio a pronti.
+
+<sup>2</sup> Il Consiglio federale stabilisce i criteri secondo cui, in caso di decesso di una persona di uno Stato oggetto di comunicazione, i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione possono trattare la sua successione come successione con personalità giuridica propria.
+
+<sup>3</sup> La comunicazione dei ruoli delle persone oggetto di comunicazione considerate persone che esercitano il controllo è retta dall’articolo 10 capoverso 4.
+
+<sup>4</sup> Se è residente fiscale in più di uno Stato, la persona oggetto di comunicazione è considerata persona di uno Stato oggetto di comunicazione in relazione a tutti gli Stati oggetto di comunicazione.
+
+#### Art. 12f
+
+**Precisazione degli obblighi di adeguata verifica**
+
+<sup>1</sup>
+
+I prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione devono adottare adeguate misure organizzative volte a garantire che l’autocertificazione sia disponibile entro i seguenti termini:
+
+- a. per gli utenti preesistenti di cripto-attività considerati persone fisiche o enti, entro 12 mesi dall’entrata in vigore della modifica del 26 settembre 2025 della presente legge;
+- b. negli altri casi, al momento in cui stabiliscono la relazione d’affari con un utente di cripto-attività.
+
+<sup>2</sup> Un prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione può stabilire o proseguire una relazione d’affari con un utente di cripto-attività in assenza di un’autocertificazione se l’utente di cripto-attività è considerato un ente e il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione può ragionevolmente determinare, in base alle informazioni in suo possesso o pubblicamente disponibili, che l’utente di cripto-attività è una persona esclusa.
+
+<sup>3</sup> Un prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione può stabilire una relazione d’affari con un utente di cripto-attività in assenza di un’autocertificazione anche in presenza di un altro caso eccezionale. In tal caso deve aver ottenuto l’autocertificazione entro 90 giorni e averne confermato la plausibilità. Il Consiglio federale definisce i casi eccezionali.
+
+<sup>4</sup>
+
+Se entro i seguenti termini non dispone delle necessarie informazioni secondo l’accordo applicabile e la presente legge per la conferma della plausibilità dell’autocertificazione o, in un caso eccezionale secondo il capoverso 3, non dispone dell’autocertificazione, il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione deve interrompere la relazione d’affari con l’utente di cripto-attività o non può effettuare operazioni pertinenti per conto di quest’ultimo fino all’ottenimento di tutte le informazioni:
+
+- a. per gli utenti preesistenti di cripto-attività considerati persone fisiche o enti, entro 12 mesi dall’entrata in vigore della modifica del 26 settembre 2025 della presente legge;
+- b. negli altri casi, entro 90 giorni dalla data in cui stabilisce la relazione d’affari con un utente di cripto-attività.
+
+<sup>5</sup> Nei casi di cui al capoverso 4, il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione dispone di un diritto di disdetta straordinario. Sono fatti salvi i casi di cui all’articolo 9 LRD[^12f-1].
+
+[^12f-1]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+
+## Sezione 3: Obbligo di iscrizione
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 13
 
-<sup>1</sup> Chi diventa un istituto finanziario svizzero tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 e alla presente legge deve iscriversi spontaneamente presso l’AFC.
+**Obbligo di iscrizione degli istituti finanziari svizzeri tenuti alla comunicazione[^13-1]**
+
+<sup>1</sup> Chi diventa un istituto finanziario svizzero tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 lettera a o b e alla presente legge deve iscriversi spontaneamente presso l’Amministrazione federale delle contribuzioni (AFC).[^13-2]
 
 <sup>2</sup>
 
@@ -343,33 +551,94 @@ Nell’iscrizione, l’istituto finanziario svizzero tenuto alla comunicazione i
 - c. la natura della sua attività;
 - d. la data dell’inizio dell’attività.
 
-<sup>3</sup> L’istituto finanziario deve informare spontaneamente l’AFC se la sua qualità di istituto finanziario svizzero tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 e alla presente legge finisce oppure se esso cessa la sua attività commerciale.
+<sup>3</sup> L’istituto finanziario deve annullare spontaneamente la propria iscrizione presso l’AFC se la sua qualità di istituto finanziario svizzero tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 lettera a o b e alla presente legge finisce oppure se esso cessa la sua attività commerciale.[^13-3]
 
-<sup>4</sup> Il trustee deve iscrivere un trust secondo l’articolo 3 capoverso 9. Il Consiglio federale disciplina i dettagli dell’iscrizione.[^13-1]
+<sup>4</sup> Il trustee deve iscrivere un trust secondo l’articolo 3 capoverso 9. Il Consiglio federale disciplina i dettagli dell’iscrizione. Il Consiglio federale disciplina i dettagli dell’iscrizione e dell’annullamento dell’iscrizione.[^13-4]<sup>,</sup> [^13-5]
 
-[^13-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^13-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^13-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^13-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^13-4]: Per. introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^13-5]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
 
-## Sezione 4: Obbligo di informazione degli istituti finanziari svizzeri tenuti alla comunicazione
+#### Art. 13a
+
+**Obbligo di iscrizione dei prestatori pertinenti di servizi per le cripto‑attività tenuti alla comunicazione**[^13a-1]
+
+<sup>1</sup> Chi diventa un prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 lettera c o d e alla presente legge deve iscriversi spontaneamente presso l’AFC.
+
+<sup>2</sup>
+
+Nell’iscrizione, il prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione indica:
+
+- a. il suo nome o la sua ditta nonché la sua sede o il suo domicilio; se si tratta di una persona giuridica o di una società senza personalità giuridica con sede statutaria all’estero o di una ditta individuale con sede all’estero, vanno indicati il nome o la ditta, il luogo della sede centrale e l’indirizzo della direzione in Svizzera;
+- b. il suo numero IDI;
+- c. la natura della sua attività;
+- d. la data dell’inizio dell’attività;
+- e. i criteri di collegamento di cui alla sezione I dell’allegato all’Accordo SAI Cripto-attività[^13a-2];
+- f. se è un prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione.
+
+<sup>3</sup> Il prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione deve annullare spontaneamente la propria iscrizione presso l’AFC se la sua qualità di prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione conformemente a un accordo secondo l’articolo 1 capoverso 1 lettera c o d e alla presente legge finisce oppure se esso cessa la sua attività commerciale.
+
+<sup>4</sup> Il Consiglio federale disciplina i dettagli dell’iscrizione e dell’annullamento dell’iscrizione.
+
+[^13a-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^13a-2]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+
+## Sezione 4: Obbligo di informazione
+
+[^sec4-1]
+
+[^sec4-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 14
 
+**Obbligo di informazione degli istituti finanziari svizzeri tenuti alla comunicazione[^14-1]**
+
 <sup>1</sup>
 
-Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle informazioni a uno Stato partner, gli istituti finanziari svizzeri tenuti alla comunicazione informano le persone oggetto di comunicazione, direttamente o per il tramite della loro parte contraente, per quanto concerne:
+Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle informazioni a uno Stato partner SCC, gli istituti finanziari svizzeri tenuti alla comunicazione informano le persone oggetto di comunicazione, direttamente o per il tramite della loro parte contraente, per quanto concerne:[^14-2]
 
 - a. la propria qualità di istituto finanziario svizzero tenuto alla comunicazione;
-- b. gli accordi secondo l’articolo 1 capoverso 1 e il loro contenuto, in particolare le informazioni da scambiare sulla base di tali accordi;
-- c. l’elenco degli Stati partner della Svizzera e il luogo di pubblicazione dell’elenco aggiornato;
-- d. l’utilizzazione autorizzata di tali informazioni in applicazione degli accordi secondo l’articolo 1 capoverso 1;
-- e. i diritti delle persone oggetto di comunicazione secondo la LPD[^14-1] e la presente legge.
+- b.[^14-3] gli accordi secondo l’articolo 1 capoverso 1 lettere a e b e il loro contenuto, in particolare le informazioni da scambiare sulla base di tali accordi;
+- c. l’elenco degli Stati partner SCC della Svizzera e il luogo di pubblicazione dell’elenco aggiornato;
+- d.[^14-4] l’utilizzazione autorizzata di tali informazioni in applicazione degli accordi secondo l’articolo 1 capoverso 1 lettere a e b;
+- e. i diritti delle persone oggetto di comunicazione secondo la LPD[^14-5] e la presente legge.
 
 <sup>2</sup> Se la comunicazione ha per oggetto un conto che è stato chiuso, l’informazione avviene un’unica volta, all’ultimo indirizzo conosciuto. L’informazione può non avvenire in caso di conti secondo l’articolo 11 capoverso 6 lettera a o b.
 
-<sup>3</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione pubblicano sui loro siti Internet un elenco, aggiornato al 31 gennaio del rispettivo anno, degli Stati partner della Svizzera oppure rimandano all’elenco del Dipartimento federale delle finanze (DFF).
+<sup>3</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione pubblicano sui loro siti Internet un elenco, aggiornato al 31 gennaio del rispettivo anno, degli Stati partner SCC della Svizzera oppure rimandano all’elenco del Dipartimento federale delle finanze (DFF).
 
 <sup>4</sup> Su richiesta, gli istituti finanziari svizzeri tenuti alla comunicazione trasmettono una copia delle comunicazioni ai titolari dei conti oggetto delle medesime.
 
-[^14-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^14-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^14-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^14-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^14-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^14-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+
+#### Art. 14a
+
+**Obbligo di informazione dei prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione**[^14a-1]
+
+<sup>1</sup>
+
+Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle informazioni a uno Stato partner CARF, i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione informano le persone oggetto di comunicazione, direttamente o per il tramite della loro parte contraente, per quanto concerne:
+
+- a. la propria qualità di prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione;
+- b. gli accordi secondo l’articolo 1 capoverso 1 lettere c e d e il loro contenuto, in particolare le informazioni da scambiare sulla base di tali accordi;
+- c. l’elenco degli Stati partner CARF della Svizzera e il luogo di pubblicazione dell’elenco aggiornato;
+- d. l’utilizzazione autorizzata di tali informazioni in applicazione degli accordi secondo l’articolo 1 capoverso 1 lettere c e d;
+- e. i diritti delle persone oggetto di comunicazione secondo la LPD[^14a-2] e la presente legge.
+
+<sup>2</sup> Se la relazione d’affari con l’utente di cripto-attività è stata chiusa, l’informazione avviene un’unica volta, all’ultimo indirizzo conosciuto.
+
+<sup>3</sup> I prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione pubblicano sui loro siti Internet un elenco, aggiornato al 31 gennaio del rispettivo anno, degli Stati partner CARF della Svizzera oppure rimandano all’elenco del DFF.
+
+<sup>4</sup> Su richiesta, i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione trasmettono una copia delle comunicazioni all’utente di cripto-attività le cui operazioni sono oggetto delle medesime.
+
+[^14a-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^14a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 ## Sezione 5: Obblighi di comunicazione e autorizzazione a comunicare
 
@@ -379,7 +648,13 @@ Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle infor
 
 <sup>1</sup> Gli istituti finanziari svizzeri tenuti alla comunicazione trasmettono annualmente per via elettronica all’AFC, entro sei mesi dalla fine dell’anno civile interessato, le dovute informazioni secondo l’accordo applicabile e le informazioni sui loro conti non documentati. Se presso l’istituto finanziario svizzero tenuto alla comunicazione non sono aperti conti oggetto di comunicazione, esso segnala tale circostanza all’AFC entro lo stesso termine.[^15-1]
 
-<sup>2</sup> L’AFC trasmette alle autorità competenti degli Stati partner entro i termini stabiliti nell’accordo applicabile le informazioni che ha ricevuto dagli istituti finanziari svizzeri tenuti alla comunicazione secondo l’accordo applicabile.
+<sup>1bis</sup> I prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione trasmettono annualmente per via elettronica all’AFC, entro sei mesi dalla fine dell’anno civile interessato, le dovute informazioni secondo l’accordo applicabile. Se nel periodo di rendicontazione un prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione non ha effettuato operazioni oggetto di comunicazione, esso segnala tale circostanza all’AFC entro lo stesso termine.[^15-2]
+
+<sup>1ter</sup> I prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione che non sono prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione comunicano all’AFC entro lo stesso termine lo Stato nel quale sono assoggettati all’obbligo di comunicazione e il criterio di collegamento di cui alla sezione I dell’allegato all’Accordo SAI Cripto-attività[^15-3] in base al quale sono assoggettati all’obbligo di comunicazione in tale Stato.[^15-4]
+
+<sup>2</sup> L’AFC trasmette alle autorità competenti degli Stati partner SCC entro i termini stabiliti nell’accordo applicabile le informazioni che ha ricevuto dagli istituti finanziari svizzeri tenuti alla comunicazione secondo l’accordo applicabile.
+
+<sup>2bis</sup> L’AFC trasmette alle autorità competenti degli Stati partner CARF entro i termini stabiliti nell’accordo applicabile le informazioni che ha ricevuto dai prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione secondo l’accordo applicabile. Entro gli stessi termini, l’AFC può trasmettere le informazioni di cui al capoverso 1<sup>ter</sup> alle autorità competenti degli Stati partner CARF.[^15-5]
 
 <sup>3</sup> L’AFC segnala alle autorità competenti degli Stati partner le restrizioni inerenti all’utilizzazione delle informazioni trasmesse e l’obbligo del segreto previsto dalle disposizioni in materia di assistenza amministrativa dell’accordo applicabile.
 
@@ -388,67 +663,80 @@ Entro il 31 gennaio dell’anno in cui avviene la prima trasmissione delle infor
 <sup>5</sup> Le informazioni trasmesse all’AFC secondo il capoverso 1 possono essere utilizzate ai fini dell’applicazione e dell’esecuzione del diritto fiscale svizzero soltanto se avrebbero potuto essere ottenute secondo il diritto svizzero.
 
 [^15-1]: Nuovo testo del per. giusta la cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^15-2]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^15-3]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^15-4]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^15-5]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 16
 
 **Prescrizione**
 
-<sup>1</sup> Il diritto alla trasmissione della comunicazione nei confronti dell’istituto finanziario svizzero tenuto alla comunicazione si prescrive in cinque anni dalla fine dell’anno civile in cui la comunicazione avrebbe dovuto essere trasmessa.
+<sup>1</sup> Il diritto alla trasmissione della comunicazione nei confronti dell’istituto finanziario svizzero tenuto alla comunicazione o del prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione si prescrive in cinque anni dalla fine dell’anno civile in cui la comunicazione avrebbe dovuto essere trasmessa.[^16-1]
 
-<sup>2</sup> La prescrizione è interrotta da ogni atto ufficiale, inteso a far valere la comunicazione, che viene portato a conoscenza dell’istituto finanziario svizzero tenuto alla comunicazione. Con l’interruzione decorre un nuovo termine di prescrizione.
+<sup>2</sup> La prescrizione è interrotta da ogni atto ufficiale inteso a far valere la comunicazione che viene portato a conoscenza dell’istituto finanziario svizzero tenuto alla comunicazione o del prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione. Con l’interruzione decorre un nuovo termine di prescrizione.[^16-2]
 
 <sup>3</sup> Il diritto si prescrive in ogni caso in 10 anni dalla fine dell’anno civile in cui la comunicazione avrebbe dovuto essere trasmessa.
 
+[^16-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^16-2]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+
 #### Art. 17
 
-**Trust considerato in un altro Stato un istituto finanziario tenuto alla comunicazione**
+**Autorizzazione a comunicare per i trust**[^17-1]
 
-Se in un altro Stato un trust è considerato un istituto finanziario tenuto alla comunicazione secondo il diritto di tale Stato, ogni trustee residente in Svizzera è autorizzato a effettuare la comunicazione per il trust all’autorità competente di tale Stato.
+Se in un altro Stato un trust è considerato un istituto finanziario tenuto alla comunicazione secondo il diritto di tale Stato o è assoggettato in un altro Stato all’obbligo di comunicazione secondo la sezione I dell’allegato all’Accordo SAI Cripto-attività[^17-2] in qualità di prestatore di servizi per le cripto-attività tenuto alla comunicazione, ogni trustee residente in Svizzera è autorizzato a effettuare la comunicazione per il trust all’autorità competente di tale Stato.
 
-## Sezione 5*a*: Obbligo di conservazione applicabile agli istituti finanziari svizzeri tenuti alla comunicazione
+[^17-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^17-2]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+
+## Sezione 5*a*: Obbligo di conservazione
 
 [^sec5a-1]
 
-[^sec5a-1]: Introdotta dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^sec5a-1]: Introdotta dalla cifra I della LF del 19 giu. 2020 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)). Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 17a
 
-Gli istituti finanziari svizzeri tenuti alla comunicazione devono conservare, conformemente alle prescrizioni dell’articolo 958*f* CO[^17a-1], i documenti che hanno elaborato e i giustificativi che hanno ottenuto per adempiere gli obblighi previsti dall’allegato all’Accordo SAI[^17a-2] e dalla presente legge.
+Gli istituti finanziari svizzeri tenuti alla comunicazione e i prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione devono conservare, conformemente alle prescrizioni dell’articolo 958*f* CO[^17a-1], i documenti che hanno elaborato e i giustificativi che hanno ottenuto per adempiere gli obblighi previsti dall’allegato all’Accordo SAI Conti finanziari[^17a-2] o dall’allegato all’Accordo SAI Cripto-attività[^17a-3] e dalla presente legge.
 
 [^17a-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^17a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^17a-3]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
 
 ## Sezione 6: Diritti e obblighi delle persone oggetto di comunicazione
 
 #### Art. 18
 
-**Obbligo di notifica di cambiamenti delle circostanze in caso di autocertificazione**
+**Obbligo di notifica di cambiamenti delle circostanze in caso di autocertificazione**[^18-1]
 
-In caso di un cambiamento delle circostanze, chi ha rilasciato un’autocertificazione secondo l’accordo applicabile e la presente legge deve notificare all’istituto finanziario svizzero tenuto alla comunicazione le nuove indicazioni pertinenti nel quadro dell’autocertificazione.
+In caso di un cambiamento delle circostanze, chi ha rilasciato un’autocertificazione secondo l’accordo applicabile e la presente legge deve notificare all’istituto finanziario svizzero tenuto alla comunicazione o al prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione le nuove indicazioni pertinenti nel quadro dell’autocertificazione.
+
+[^18-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 19
 
-**Diritti e procedura in materia di protezione dei dati**
+**Diritti e procedura in materia di protezione dei dati**[^19-1]
 
-<sup>1</sup> Per quanto concerne le informazioni raccolte dagli istituti finanziari svizzeri tenuti alla comunicazione e la loro trasmissione alle autorità competenti degli Stati partner, le persone oggetto di comunicazione hanno i diritti sanciti nella LPD[^19-1].
+<sup>1</sup> Per quanto concerne le informazioni raccolte dagli istituti finanziari svizzeri tenuti alla comunicazione e dai prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione e la loro trasmissione alle autorità competenti degli Stati partner, nei confronti di tali istituti e prestatori le persone oggetto di comunicazione hanno i diritti sanciti nella LPD[^19-2].
 
-<sup>2</sup> Rispetto all’AFC, le persone oggetto di comunicazione possono esclusivamente far valere il proprio diritto d’accesso ed esigere la rettifica dei dati inesatti a causa di errori di trasmissione. Se la trasmissione dei dati comporta per la persona oggetto di comunicazione uno svantaggio non sostenibile a causa dell’assenza di garanzie dello Stato di diritto, sono applicabili i diritti di cui all’articolo 25*a* della legge federale del 20 dicembre 1968[^19-2] sulla procedura amministrativa (PA).[^19-3]
+<sup>2</sup> Nei confronti dell’AFC, le persone oggetto di comunicazione possono far valere esclusivamente un diritto d’accesso corrispondente a quello previsto dall’articolo 25 LPD ed esigere la rettifica dei dati inesatti a causa di errori di trasmissione. Se la trasmissione dei dati comporta per la persona oggetto di comunicazione uno svantaggio non sostenibile a causa dell’assenza di garanzie dello Stato di diritto, sono applicabili i diritti di cui all’articolo 25*a* della legge federale del 20 dicembre 1968[^19-3] sulla procedura amministrativa (PA).
 
-<sup>3</sup> Se le informazioni trasmesse all’autorità competente di uno Stato partner sono rettificate in seguito a una decisione passata in giudicato, l’istituto finanziario svizzero tenuto alla comunicazione trasmette le informazioni rettificate all’AFC. Quest’ultima le inoltra all’autorità competente interessata.
+<sup>3</sup> Se le informazioni trasmesse all’autorità competente di uno Stato partner sono rettificate in seguito a una decisione passata in giudicato, l’istituto finanziario svizzero tenuto alla comunicazione o il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione trasmette le informazioni rettificate all’AFC. Quest’ultima le inoltra all’autorità competente interessata.
 
-[^19-1]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^19-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
-[^19-3]: Nuovo testo del per. giusta la cifra I 7 della LF del 18 giu. 2021 sulle procedure elettroniche in ambito fiscale, in vigore dal 1° gen. 2022 ([RU 2021 673](https://fedlex.data.admin.ch/eli/oc/2021/673); [FF 2020 4215](https://fedlex.data.admin.ch/eli/fga/2020/1111)).
+[^19-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^19-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^19-3]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ## Sezione 7: Informazioni trasmesse automaticamente dall’estero
 
 #### Art. 20
 
-**Utilizzazione del numero d’identificazione fiscale svizzero per persone fisiche**
+**Utilizzazione del numero d’identificazione fiscale svizzero per persone fisiche**[^20-1]
 
-Gli istituti finanziari tenuti alla comunicazione e le autorità competenti degli Stati partner utilizzano il numero AVS[^20-1] per la trasmissione delle informazioni concernenti persone fisiche, necessarie ai fini dello scambio automatico di informazioni.
+Gli istituti finanziari tenuti alla comunicazione, i prestatori di servizi per le cripto-attività tenuti alla comunicazione e le autorità competenti degli Stati partner utilizzano il numero AVS per la trasmissione delle informazioni concernenti persone fisiche necessarie ai fini dello scambio automatico di informazioni.
 
-[^20-1]: Nuova espr. giusta l’all. n. 21 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^20-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 21
 
@@ -470,21 +758,28 @@ Gli istituti finanziari tenuti alla comunicazione e le autorità competenti degl
 
 <sup>3</sup> Può prescrivere l’utilizzazione di determinati moduli ed esigere che determinati moduli siano trasmessi esclusivamente in forma elettronica.
 
-<sup>4</sup> Può emanare istruzioni. Queste si basano sui commentari dell’OCSE sul Modello di accordo tra autorità competenti e sullo SCC.
+<sup>4</sup> Può emanare istruzioni. Queste si basano sui commentari dell’OCSE relativi al Modello di accordo tra autorità competenti, all’Addendum dell’8 giugno 2023[^22-1] all’Accordo SAI Conti finanziari[^22-2] e allo SCC, compresa la relativa modifica, o all’Accordo SAI Cripto-attività[^22-3] e al CARF.[^22-4]
+
+[^22-1]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^22-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^22-3]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^22-4]: Nuovo testo per. giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 23
 
 **Trattamento dei dati**
 
-<sup>1</sup> Per l’adempimento dei suoi compiti secondo gli accordi applicabili e la presente legge l’AFC può trattare dati personali, inclusi quelli relativi a procedimenti e sanzioni amministrativi e penali in materia fiscale.
+<sup>1</sup> Per l’adempimento dei suoi compiti secondo gli accordi applicabili e la presente legge l’AFC può trattare dati personali e dati concernenti persone giuridiche, inclusi i dati concernenti perseguimenti o sanzioni amministrativi e penali in materia fiscale.[^23-1]
 
 <sup>2</sup> Per l’adempimento dei suoi compiti secondo gli accordi applicabili e la presente legge l’AFC può utilizzare sistematicamente i numeri d’identificazione fiscali secondo l’articolo 2 capoverso 1 lettere f–h.
+
+[^23-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 24
 
 **Sistema d’informazione**
 
-<sup>1</sup> L’AFC gestisce un sistema d’informazione per il trattamento dei dati personali, inclusi quelli relativi a procedimenti e sanzioni amministrativi e penali in materia fiscale, che ha ricevuto in base agli accordi applicabili e alla presente legge.
+<sup>1</sup> L’AFC gestisce un sistema d’informazione per il trattamento di dati personali e di dati concernenti persone giuridiche, inclusi quelli concernenti perseguimenti o sanzioni amministrativi e penali in materia fiscale.[^24-1]
 
 <sup>2</sup> I dati possono essere trattati soltanto da collaboratori dell’AFC o da specialisti controllati dall’AFC.
 
@@ -493,7 +788,7 @@ Gli istituti finanziari tenuti alla comunicazione e le autorità competenti degl
 Il sistema d’informazione serve all’AFC per l’adempimento dei suoi compiti secondo gli accordi applicabili e la presente legge. Può essere impiegato segnatamente per:
 
 - a. ricevere e inoltrare informazioni secondo gli accordi applicabili e il diritto svizzero;
-- b. tenere un registro degli istituti finanziari svizzeri tenuti alla comunicazione;
+- [tab] b<sup>bis</sup>.[^24-2] tenere un registro dei prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione;
 - c. trattare procedure legali connesse agli accordi applicabili e alla presente legge;
 - d. effettuare verifiche secondo l’articolo 28;
 - e. infliggere ed eseguire sanzioni amministrative o penali;
@@ -503,21 +798,35 @@ Il sistema d’informazione serve all’AFC per l’adempimento dei suoi compiti
 
 <sup>4</sup>
 
-Il Consiglio federale definisce i dettagli concernenti in particolare:
+Il Consiglio federale definisce i dettagli che riguardano in particolare:[^24-3]
 
 - a. l’organizzazione e la gestione del sistema d’informazione;
-- b. le categorie dei dati personali trattati;
-- c. l’elenco dei dati relativi a procedimenti e sanzioni amministrativi e penali;
+- b.[^24-4] le categorie dei dati personali e dei dati concernenti persone giuridiche trattati;
+- c.[^24-5] l’elenco dei dati concernenti perseguimenti o sanzioni amministrativi e penali;
 - d. le autorizzazioni di accesso e di trattamento;
 - e. la durata di conservazione, l’archiviazione e la distruzione dei dati.
 
 <sup>5</sup> L’AFC può concedere alle autorità svizzere a cui inoltra le informazioni secondo l’articolo 21 capoverso 1 l’accesso mediante procedura di richiamo ai dati del sistema d’informazione di cui tali autorità necessitano per l’adempimento dei loro compiti legali. Il Consiglio federale stabilisce a quali autorità e a quali dati l’AFC può concedere l’accesso.
 
+[^24-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^24-2]: Introdotta dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^24-3]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^24-4]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^24-5]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+
 #### Art. 25
 
-**Obbligo di informazione**
+**Obbligo di informazione**[^25-1]
 
-Le persone e le autorità alle quali l’AFC trasmette informazioni ricevute dall’estero secondo gli accordi applicabili e la presente legge nonché gli istituti finanziari svizzeri devono informare l’AFC in merito a tutti i fatti rilevanti ai fini dell’attuazione degli accordi e della presente legge.
+<sup>1</sup> Le persone e le autorità alle quali l’AFC trasmette informazioni ricevute dall’estero secondo gli accordi applicabili e la presente legge nonché gli istituti finanziari svizzeri e i prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione devono informare l’AFC in merito a tutti i fatti rilevanti ai fini dell’attuazione degli accordi e della presente legge.
+
+<sup>2</sup> L’AFC, l’Autorità federale di vigilanza sui mercati finanziari, gli organismi di autodisciplina di cui all’articolo 24 LRD[^25-2] e gli organismi di vigilanza di cui all’articolo 43*a* della legge del 22 giugno 2007[^25-3] sulla vigilanza dei mercati finanziari (LFINMA) possono scambiarsi le informazioni non accessibili al pubblico di cui necessitano per l’adempimento dei compiti loro assegnati dalla presente legge o dalla legislazione federale relativa alla lotta contro il riciclaggio di denaro e il finanziamento del terrorismo, in particolare dati personali e dati concernenti persone giuridiche, inclusi i dati degni di particolare protezione di cui all’articolo 5 lettera c numeri 1, 2, 5 e 6 LPD[^25-4] e all’articolo 57*r* capoverso 2 della legge del 21 marzo 1997[^25-5] sull’organizzazione del Governo e dell’Amministrazione. Possono utilizzare le informazioni ricevute solo per l’adempimento dei loro compiti. È fatto salvo l’articolo 40 LFINMA.
+
+[^25-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^25-2]: [RS 955.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11599)
+[^25-3]: [RS 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^25-4]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^25-5]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 26
 
@@ -545,27 +854,29 @@ L’obbligo del segreto non si applica:
 
 #### Art. 28
 
-**Verifiche**
+**Verifiche**[^28-1]
 
-<sup>1</sup> L’AFC verifica l’adempimento degli obblighi secondo gli accordi applicabili e la presente legge da parte degli istituti finanziari svizzeri.
+<sup>1</sup> L’AFC verifica l’adempimento degli obblighi secondo gli accordi applicabili e la presente legge da parte degli istituti finanziari svizzeri e dei prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione.
 
 <sup>2</sup>
 
 Per chiarire i fatti l’AFC può:
 
-- a. verificare in loco i libri di commercio, i documenti giustificativi e altri documenti dell’istituto finanziario o richiederne la produzione;
+- a. verificare in loco i libri di commercio, i documenti giustificativi e altri documenti dell’istituto finanziario svizzero o del prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione o richiederne la produzione;
 - b. raccogliere informazioni orali o scritte.
 
-<sup>3</sup> Se constata che l’istituto finanziario non ha adempiuto i suoi obblighi o li ha adempiuti in modo lacunoso, l’AFC gli offre la possibilità di pronunciarsi sulle lacune accertate.
+<sup>3</sup> Se constata che l’istituto finanziario svizzero o il prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione non ha adempiuto i suoi obblighi o li ha adempiuti in modo lacunoso, l’AFC gli offre la possibilità di pronunciarsi sulle lacune accertate.
 
-<sup>4</sup> Se l’istituto finanziario e l’AFC non riescono ad accordarsi, l’AFC pronuncia una decisione.
+<sup>4</sup> Se l’istituto finanziario svizzero o il prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione e l’AFC non riescono ad accordarsi, l’AFC pronuncia una decisione.
 
 <sup>5</sup>
 
 Su richiesta, l’AFC pronuncia una decisione di accertamento:
 
-- a. della qualità di istituto finanziario secondo gli accordi applicabili e la presente legge;
+- a. della qualità di istituto finanziario o di prestatore di servizi per le cripto-attività tenuto alla comunicazione secondo gli accordi applicabili e la presente legge;
 - b. del contenuto delle comunicazioni secondo gli accordi applicabili e la presente legge.
+
+[^28-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 28a
 
@@ -613,20 +924,42 @@ L’autorità competente svizzera può agire soltanto con il consenso del Consig
 
 <sup>2</sup> Finché lo Stato partner non soddisfa i requisiti dell’OCSE in materia di confidenzialità e sicurezza dei dati, l’autorità competente svizzera può sospendere di propria iniziativa lo scambio automatico di informazioni con questo Stato.[^31-1]
 
+<sup>3</sup>
+
+L’autorità competente svizzera può, di propria iniziativa, prescindere dalla trasmissione delle informazioni a uno Stato partner SCC conformemente all’Accordo SAI Conti finanziari[^31-2], compreso il relativo Addendum, o sospendere lo scambio automatico di informazioni relative a conti finanziari con uno Stato partner SCC se:
+
+- a. in base a una richiesta secondo la sezione 2 paragrafo 2 lettera a) punto ii) dell’Addendum dell’8 giugno 2023[^31-3] all’Accordo SAI Conti finanziari, il Consiglio federale ha autorizzato lo Stato partner SCC interessato a proseguire per un determinato periodo transitorio la trasmissione di informazioni alla Svizzera senza l’applicazione o il completamento delle procedure rafforzate di comunicazione e di adeguata verifica in materia fiscale secondo il suddetto Addendum e questo periodo transitorio è scaduto; o
+- b. il Consiglio federale non ha accolto la richiesta di uno Stato partner SCC secondo la sezione 2 paragrafo 2 lettera a) punto ii) dell’Addendum all’Accordo SAI Conti finanziari.[^31-4]
+
 [^31-1]: Introdotto dalla cifra I della LF del 19 giu. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5247](https://fedlex.data.admin.ch/eli/oc/2020/909); [FF 2019 6759](https://fedlex.data.admin.ch/eli/fga/2019/2796)).
+[^31-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^31-3]: [RU 2025 863](https://fedlex.data.admin.ch/eli/oc/2025/863)
+[^31-4]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 ## Sezione 10: Disposizioni penali
 
 #### Art. 32
 
-**Violazione degli obblighi di comunicazione e adeguata verifica**
+**Violazione degli obblighi di comunicazione e adeguata verifica**[^32-1]
 
 È punito con la multa fino a 250 000 franchi chiunque, intenzionalmente, viola:
 
 - a. gli obblighi di adeguata verifica concernenti la verifica dei conti e l’identificazione delle persone oggetto di comunicazione menzionati nell’accordo applicabile e negli articoli 9–12;
-- b. l’obbligo di iscrizione di cui all’articolo 13;
-- c. l’obbligo di informazione di cui all’articolo 14 capoversi 1 e 3;
-- d. gli obblighi di comunicazione di cui all’articolo 15 capoverso 1.
+- b. gli obblighi di adeguata verifica concernenti la verifica degli utenti di cripto-attività e l’identificazione degli utenti oggetto di comunicazione e delle persone che esercitano il controllo che sono oggetto di comunicazione menzionati nell’accordo applicabile e negli articoli 12*d* e 12*f*;
+- c. gli obblighi di iscrizione di cui agli articoli 13 e 13*a*;
+- d. gli obblighi di informazione di cui agli articoli 14 capoversi 1 e 3 e 14*a* capoversi 1 e 3;
+- e. gli obblighi di comunicazione di cui agli articoli 12*e* e 15 capoversi 1–1<sup>ter</sup>;
+- f. l’obbligo di conservazione di cui all’articolo 17*a*.
+
+[^32-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+
+#### Art. 32a
+
+**Violazione dell’obbligo di informazione nei confronti dell’AFC**[^32a-1]
+
+È punito con la multa fino a 100 000 franchi chiunque, intenzionalmente, viola l’obbligo di informazione nei confronti dell’AFC cui sottostanno gli istituti finanziari svizzeri o i prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione secondo l’articolo 25 capoverso 1.
+
+[^32a-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 33
 
@@ -644,9 +977,11 @@ Se la multa applicabile non supera i 50 000 franchi e se la determinazione delle
 
 #### Art. 35
 
-**Falsa autocertificazione**
+**Reati connessi all’autocertificazione**[^35-1]
 
-È punito con la multa fino a 10 000 franchi chi, intenzionalmente, fornisce a un istituto finanziario svizzero un’autocertificazione falsa oppure non comunica cambiamenti delle circostanze o in merito fornisce false indicazioni.
+È punito con la multa fino a 10 000 franchi chiunque, intenzionalmente, omette di fornire un’autocertificazione o ne fornisce una falsa a un istituto finanziario svizzero tenuto alla comunicazione o a un prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione, non gli notifica cambiamenti delle circostanze o gli fornisce false indicazioni in merito.
+
+[^35-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 #### Art. 36
 
@@ -674,22 +1009,31 @@ L’autore che denuncia spontaneamente una violazione degli obblighi è esente d
 
 #### Art. 38
 
-**Scelta degli Stati partner**
+[^38-1]
 
-Il Consiglio federale analizza le disposizioni in materia di protezione dei dati e le possibilità di regolarizzazione negli Stati partner potenziali prima di proporre all’Assemblea federale l’introduzione dello scambio automatico di informazioni con tali Stati. Nel messaggio il Consiglio federale riassume i risultati della sua analisi.
+[^38-1]: Abrogato dalla cifra I della LF del 26 set. 2025, con effetto dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
 
 ## Sezione 11: Disposizioni finali
 
 #### Art. 39
 
-**Competenza di approvazione**
+**Competenza di approvazione**[^39-1]
 
-L’Assemblea federale approva mediante decreto federale semplice:
+<sup>1</sup> L’Assemblea federale approva mediante decreto federale semplice i trattati internazionali di sua competenza concernenti l’accesso al mercato dei fornitori di servizi finanziari e la regolarizzazione fiscale dei contribuenti conclusi con Stati per cui è prevista l’inclusione nell’elenco secondo la sezione 7 paragrafo 1 lettera f) dell’Accordo SAI Conti finanziari[^39-2] o nell’elenco secondo la sezione 7 paragrafo 1 lettera g) dell’Accordo SAI Cripto-attività[^39-3].
 
-- a. l’inclusione di uno Stato nell’elenco secondo la sezione 7 paragrafo 1 lettera f dell’Accordo SAI[^39-1];
-- b. i trattati internazionali di sua competenza concernenti l’accesso al mercato di fornitori di servizi finanziari e la regolarizzazione fiscale di contribuenti conclusi con Stati di cui è prevista l’inclusione in detto elenco.
+<sup>2</sup> Il Consiglio federale decide in merito all’inclusione di uno Stato nell’elenco di cui alla sezione 7 paragrafo 1 lettera f) dell’Accordo SAI Conti finanziari o nell’elenco di cui alla sezione 7 paragrafo 1 lettera g) dell’Accordo SAI Cripto-attività.
 
-[^39-1]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+<sup>3</sup> Il Consiglio federale decide in merito alle richieste degli Stati partner CARF secondo la sezione 7 paragrafo 1 lettera c) dell’Accordo SAI Cripto-attività riguardanti l’utilizzo delle informazioni ricevute ai fini dell’accertamento, della riscossione o del recupero delle imposte di cui all’articolo 2 paragrafo 1 lettera b comma i della Convenzione del 25 gennaio 1988[^39-4] sulla reciproca assistenza amministrativa in materia fiscale (Convenzione sull’assistenza amministrativa), dell’esecuzione o del perseguimento penale inerenti a tali imposte oppure delle decisioni su ricorsi inerenti a tali imposte, per le quali tali Stati hanno formulato una riserva conformemente all’articolo 30 paragrafo 1 lettera a della Convenzione sull’assistenza amministrativa.
+
+<sup>4</sup> Può decidere di chiedere alle autorità competenti degli Stati partner CARF secondo la sezione 7 paragrafo 1 lettera c) dell’Accordo SAI Cripto-attività se le informazioni ricevute possono essere utilizzate ai fini dell’accertamento, della riscossione o del recupero delle imposte di cui all’articolo 2 paragrafo 1 lettera b commi ii–iv della Convenzione sull’assistenza amministrativa, dell’esecuzione o del perseguimento penale inerenti a tali imposte oppure delle decisioni su ricorsi inerenti a tali imposte.
+
+<sup>5</sup> Il Consiglio federale designa gli Stati partner SCC ai quali, in base a una richiesta secondo la sezione 2 paragrafo 2 lettera a) punto ii) dell’Addendum dell’8 giugno 2023[^39-5] all’Accordo SAI Conti finanziari, consente di proseguire per un determinato periodo transitorio la trasmissione di informazioni alla Svizzera senza l’applicazione o il completamento delle procedure di comunicazione e di adeguata verifica in materia fiscale rafforzate secondo l’Addendum all’Accordo SAI Conti finanziari.
+
+[^39-1]: Nuovo testo giusta la cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^39-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^39-3]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^39-4]: [RS 0.652.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2497)
+[^39-5]: [RU 2025 863](https://fedlex.data.admin.ch/eli/oc/2025/863)
 
 #### Art. 40
 
@@ -705,11 +1049,27 @@ L’Assemblea federale approva mediante decreto federale semplice:
 
 *All’entrata in vigore della modifica del 25 settembre 2015*[^41-1] *del CC*[^41-2] *(Fondazioni di previdenza a favore del personale), l’articolo 3 capoverso 5 lettera a della presente legge avrà il seguente tenore:*
 
-…[^41-3]
+...[^41-3]
 
 [^41-1]: [RU 2016 935](https://fedlex.data.admin.ch/eli/oc/2016/163)
 [^41-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^41-3]: Testo inserito qui avanti.
+
+#### Art. 41a
+
+**Disposizioni transitorie della modifica del 26 settembre 2025**[^41a-1]
+
+<sup>1</sup> Nonostante la sezione I parte A dell’allegato all’Accordo SAI Conti finanziari[^41a-2], in relazione a ciascun conto oggetto di comunicazione aperto o detenuto presso un istituto finanziario svizzero tenuto alla comunicazione il giorno antecedente l’entrata in vigore della modifica del 26 settembre 2025 della presente legge e per i periodi di rendicontazione che terminano il secondo anno civile successivo a tale data, le informazioni da comunicare secondo la sezione I parte A punti 1 lettera b e 6<sup>bis</sup> dell’allegato all’Accordo SAI Conti finanziari relative ai ruoli in virtù dei quali le persone oggetto di comunicazione sono considerate persone che esercitano il controllo o titolari di quote nel capitale di rischio dell’ente devono essere comunicate solo se sono disponibili nei dati consultabili elettronicamente conservati dall’istituto finanziario svizzero tenuto alla comunicazione.
+
+<sup>2</sup> Le persone che sono residenti fiscali in più di uno Stato possono avvalersi fino al giorno antecedente l’entrata in vigore della modifica del 26 settembre 2025 della presente legge delle disposizioni contenute negli accordi fiscali per determinare la residenza fiscale. Dopo l’entrata in vigore di tale modifica, le persone che sono residenti fiscali in più di uno Stato e che sono documentate per la prima volta o documentate nuovamente non possono più avvalersi di tali disposizioni e devono dichiarare tutti gli Stati nei quali sono residenti fiscali.
+
+<sup>3</sup> Per gli enti che dall’entrata in vigore della modifica del 26 settembre 2025 della presente legge sono considerati istituti finanziari svizzeri tenuti alla comunicazione, in relazione ai conti già aperti presso tali istituti il giorno antecedente l’entrata in vigore di tale modifica valgono gli obblighi di adeguata verifica previsti per i conti preesistenti. Si applicano i termini di cui all’articolo 11 capoversi 2‒4. I termini decorrono dall’entrata in vigore di tale modifica.
+
+<sup>4</sup> Il Consiglio federale può prevedere deroghe temporanee alle disposizioni di cui alla sezione I dell’allegato all’Accordo SAI Cripto-attività[^41a-3].
+
+[^41a-1]: Introdotto dalla cifra I della LF del 26 set. 2025, in vigore dal 1° gen. 2026 ([RU 2026 48](https://fedlex.data.admin.ch/eli/oc/2026/48); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883)).
+[^41a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^41a-3]: [RS 0.653.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40406); [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
 
 #### Art. 42
 
