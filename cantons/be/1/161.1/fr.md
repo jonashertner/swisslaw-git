@@ -4,13 +4,13 @@ number: "161.1"
 title: "Loi sur l'organisation des autorités judiciaires et du Ministère public"
 short: LOJM
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2024-09-03
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3063/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3144/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3063/pdf_file"
 
 (LOJM)
 
-du 11.06.2009 (état au 01.01.2024)
+du 11.06.2009 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -1194,6 +1194,12 @@ arrête:
 
 <sup>4</sup> Dans les litiges relevant de la loi sur l'égalité, l'autorité de conciliation statue dans une composition de cinq membres. L'autorité appelée à statuer se compose d'un président ou d'une présidente et d'une représentation paritaire d'employeurs et d'employés des secteurs privé et public, l'ensemble des représentants et représentantes étant constitué d'un nombre égal d'hommes et de femmes.
 
+### 10.5 Installation provisoire des agences des autorités judiciaires régionales du Jura bernois dans l'arrondissement administratif de Biel/Bienne
+
+#### Art. 88a
+
+<sup>1</sup> Lors du transfert de la commune de Moutier au canton du Jura, l'agence du Tribunal régional du Jura bernois-Seeland (art. 81, al. 1) et celle de l'Autorité de conciliation du Jura bernois-Seeland (art. 84, al. 4) peuvent être installées pour une durée limitée dans l'arrondissement administratif de Biel/Bienne jusqu'à ce que les locaux nécessaires à leur implantation définitive dans le Jura bernois soient disponibles.
+
 ## 11 Ministère public
 
 #### Art. 89
@@ -1237,6 +1243,8 @@ arrête:
 
 <sup>2</sup> Le Ministère public des mineurs dispose d’une agence dotée d’un service social dans chacune des régions judiciaires. L’agence du Jura bernois-Seeland a une antenne dans le Jura bernois.
 
+<sup>3</sup> Lors du transfert de la commune de Moutier au canton du Jura, l'antenne de l'agence du Jura bernois-Seeland du Ministère public des mineurs (al. 2) peut être installée pour une durée limitée dans l'arrondissement administratif de Biel/Bienne jusqu'à ce que les locaux nécessaires à son implantation définitive dans le Jura bernois soient disponibles.
+
 #### Art. 92
 
 **Ministères publics régionaux**
@@ -1251,6 +1259,8 @@ arrête:
 <sup>2</sup> Le Ministère public du Jura bernois-Seeland est compétent sur le territoire des régions administratives du Jura bernois et du Seeland; les autres ministères publics régionaux sont compétents sur le territoire des régions administratives éponymes.
 
 <sup>3</sup> Le Ministère public du Jura bernois-Seeland est doté d’une agence dans le Jura bernois.
+
+<sup>4</sup> Lors du transfert de la commune de Moutier au canton du Jura, l'agence du Ministère public du Jura bernois-Seeland (al. 3) peut être installée pour une durée limitée dans l'arrondissement administratif de Biel/Bienne jusqu'à ce que les locaux nécessaires à son implantation définitive dans le Jura bernois soient disponibles.
 
 #### Art. 93
 

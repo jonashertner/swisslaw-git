@@ -4,13 +4,13 @@ number: "161.1"
 title: Gesetz über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft
 short: GSOG
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-14
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2024-09-03
 adopted: 2009-06-11
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/161.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3063/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3144/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3063/pdf_file"
 
 (GSOG)
 
-vom 11.06.2009 (Stand 01.01.2024)
+vom 11.06.2009 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -1194,6 +1194,12 @@ beschliesst:
 
 <sup>4</sup> Bei Streitigkeiten nach dem Gleichstellungsgesetz fällt die Schlichtungsbehörde ihre Entscheide in Fünferbesetzung. Der Spruchkörper besteht aus einer oder einem Vorsitzenden und einer paritätischen Vertretung der Arbeitgeber- und Arbeitnehmerseite und des öffentlichen und privaten Bereichs; die Geschlechter müssen paritätisch vertreten sein.
 
+### 10.5 Vorübergehende Unterbringung der Aussenstellen der regionalen Gerichtsbehörden des Berner Juras im Verwaltungskreis Biel/Bienne
+
+#### Art. 88a
+
+<sup>1</sup> Im Zuge des Wechsels der Gemeinde Moutier zum Kanton Jura können die Aussenstelle des Regionalgerichts Berner Jura-Seeland (Art. 81 Abs. 1) und die Aussenstelle der Schlichtungsbehörde Berner Jura-Seeland (Art. 84 Abs. 4) für eine begrenzte Zeit im Verwaltungskreis Biel/Bienne untergebracht werden, bis die notwendigen Räumlichkeiten für ihre definitive Ansiedlung im Berner Jura zur Verfügung stehen.
+
 ## 11 Staatsanwaltschaft
 
 #### Art. 89
@@ -1237,6 +1243,8 @@ beschliesst:
 
 <sup>2</sup> Die Jugendanwaltschaft verfügt über Dienststellen mit Sozialdiensten in den vier Gerichtsregionen. Die Dienststelle Berner Jura-Seeland führt eine Aussenstelle im Berner Jura.
 
+<sup>3</sup> Im Zuge des Wechsels der Gemeinde Moutier zum Kanton Jura kann die Aussenstelle der Dienststelle Berner Jura-Seeland der Jugendanwaltschaft (Abs. 2) für eine begrenzte Zeit im Verwaltungskreis Biel/Bienne untergebracht werden, bis die notwendigen Räumlichkeiten für ihre definitive Ansiedlung im Berner Jura zur Verfügung stehen.
+
 #### Art. 92
 
 **Regionale Staatsanwaltschaften**
@@ -1251,6 +1259,8 @@ beschliesst:
 <sup>2</sup> Die Staatsanwaltschaft Berner Jura-Seeland ist zuständig für das Gebiet der Verwaltungsregionen Berner Jura und Seeland, die übrigen regionalen Staatsanwaltschaften sind je zuständig für das Gebiet der gleich bezeichneten Verwaltungsregion.
 
 <sup>3</sup> Die regionale Staatsanwaltschaft Berner Jura-Seeland führt eine Aussenstelle im Berner Jura.
+
+<sup>4</sup> Im Zuge des Wechsels der Gemeinde Moutier zum Kanton Jura kann die Aussenstelle der regionalen Staatsanwaltschaft Berner Jura-Seeland (Abs. 3) für eine begrenzte Zeit im Verwaltungskreis Biel/Bienne untergebracht werden, bis die notwendigen Räumlichkeiten für ihre definitive Ansiedlung im Berner Jura zur Verfügung stehen.
 
 #### Art. 93
 
