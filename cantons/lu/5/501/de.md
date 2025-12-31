@@ -4,13 +4,12 @@ number: "501"
 title: Gesetz über die Gymnasialbildung
 short: GymBG
 language: de
-version: 2020-01-01
-valid_until: 2025-12-31
-version_adopted: 2019-02-18
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2001-02-12
 in_force: 2001-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/501"
-pdf: "https://srl.lu.ch/api/de/versions/3817/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4664/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3817/pdf_file"
 
 (GymBG)
 
-vom 12.02.2001 (Stand 01.01.2020)
+vom 12.02.2001 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -218,7 +217,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung und die Lehrpersonen gestalten und organisieren miteinander die gesamte Schule und beteiligen sich an besonderen Schulveranstaltungen.
 
-<sup>2</sup> Sie wirken in den Organen der Schule, denen sie angehören oder in die sie gewählt wurden, mit.
+<sup>2</sup> Sie wirken in den Organen der Schule mit, denen sie angehören.
 
 <sup>3</sup> Sie wirken bei der Entwicklung und Evaluation der Schule mit und übernehmen für diese besondere Aufgaben.
 
@@ -347,8 +346,8 @@ beschliesst:
 - f. berät das Bildungs- und Kulturdepartement in allen Fragen der Gymnasialbildung,
 - g. informiert die Öffentlichkeit über das kantonale Gymnasialangebot,
 - h. nimmt bei Bedarf Schulortszuweisungen vor,
-- i. wählt den Rektor oder die Rektorin unter Mitwirkung der Schulkommission, der Schulleitung und einer Vertretung der Lehrpersonen,
-- j. wählt den Schulleiter oder die Schulleiterin der Maturitätsschule für Erwachsene unter Mitwirkung der Schulkommission und des Rektors oder der Rektorin derjenigen Kantonsschule, welcher die Maturitätsschule für Erwachsene angegliedert ist, sowie einer Vertretung der Lehrpersonen der Maturitätsschule für Erwachsene.
+- i. stellt den Rektor oder die Rektorin unter Mitwirkung der Schulkommission, der Schulleitung und einer Vertretung der Lehrpersonen an,
+- j. stellt den Schulleiter oder die Schulleiterin der Maturitätsschule für Erwachsene unter Mitwirkung der Schulkommission und des Rektors oder der Rektorin derjenigen Kantonsschule, welcher die Maturitätsschule für Erwachsene angegliedert ist, sowie einer Vertretung der Lehrpersonen der Maturitätsschule für Erwachsene an.
 
 <sup>2</sup> Sie arbeitet mit den Schulleitungen und den Schulkommissionen zusammen.
 
@@ -382,13 +381,13 @@ beschliesst:
 
 <sup>1<sup>bis</sup></sup> Die Schulleitung besteht aus dem Rektor oder der Rektorin und weiteren Schulleitungsmitgliedern. Der Schulleiter oder die Schulleiterin der Maturitätsschule für Erwachsene gehört der Schulleitung derjenigen Kantonsschule an, der sie angegliedert ist.
 
-<sup>1<sup>ter</sup></sup> Der Rektor oder die Rektorin ist den übrigen Schulleitungsmitgliedern vorgesetzt und wählt diese – mit Ausnahme des Schulleiters oder der Schulleiterin der Maturitätsschule für Erwachsene – unter Mitwirkung der Schulkommission, der zuständigen Dienststelle und einer Vertretung der Lehrpersonen.
+<sup>1<sup>ter</sup></sup> Der Rektor oder die Rektorin ist den übrigen Schulleitungsmitgliedern vorgesetzt und stellt diese – mit Ausnahme des Schulleiters oder der Schulleiterin der Maturitätsschule für Erwachsene – unter Mitwirkung der Schulkommission, der zuständigen Dienststelle und einer Vertretung der Lehrpersonen an.
 
 <sup>2</sup> Die Schulleitung
 
 - a. legt die Angebote und die Organisation der Schule im Rahmen der kantonalen Vorgaben fest und fördert deren Entwicklung,
 - b. fördert die Zusammenarbeit und koordiniert die Tätigkeiten in der Schule,
-- b<sup>bis</sup>. wählt die Lehrpersonen unter Mitwirkung der Schulkommission,
+- b<sup>bis</sup>. stellt die Lehrpersonen unter Mitwirkung der Schulkommission an,
 - c. unterstützt im Rahmen ihrer Möglichkeiten die Lernenden und die Lehrpersonen in schulischen und persönlichen Belangen und stellt die Beratung der Erziehungsberechtigten in Fragen der Ausbildung und Erziehung sicher,
 - d. informiert innerhalb der Schule und betreibt Öffentlichkeitsarbeit,
 - e. sorgt für die Durchführung der internen Evaluation sowohl der Unterrichtstätigkeit als auch der übrigen Schulveranstaltungen,
