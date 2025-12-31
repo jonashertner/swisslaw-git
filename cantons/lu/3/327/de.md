@@ -4,13 +4,12 @@ number: "327"
 title: Verordnung über den Justizvollzug
 short: JVV
 language: de
-version: 2024-10-01
-valid_until: 2025-12-31
-version_adopted: 2024-08-27
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2016-03-24
 in_force: 2016-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/327"
-pdf: "https://srl.lu.ch/api/de/versions/4263/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4578/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4263/pdf_file"
 
 (JVV)
 
-vom 24.03.2016 (Stand 01.10.2024)
+vom 24.03.2016 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -499,7 +498,7 @@ beschliesst:
 
 #### § 45
 
-**Wahl der Fachperson**
+**Bestimmung der Fachperson**
 
 <sup>1</sup> Der Vollzugs- und Bewährungsdienst bestimmt die geeignete Fachperson zur Durchführung der angeordneten Therapie.
 
@@ -746,7 +745,7 @@ beschliesst:
 
 <sup>2</sup> Die Dienststelle Militär, Zivilschutz und Justizvollzug sorgt in den Justizvollzugsanstalten Wauwilermoos und Grosshof für die seelsorgerische Betreuung der eingewiesenen Personen. Sie kann Leistungsvereinbarungen mit Dritten abschliessen.
 
-<sup>3</sup> Sie wählt je einen Seelsorger oder eine Seelsorgerin der katholischen sowie der reformierten Konfession, die mit den eingewiesenen Personen frei verkehren können.
+<sup>3</sup> Sie bestimmt je einen Seelsorger oder eine Seelsorgerin der katholischen sowie der reformierten Konfession, die mit den eingewiesenen Personen frei verkehren können.
 
 <sup>4</sup> Seelsorgerinnen und Seelsorger anderer Bekenntnisse können von der Leitung der Vollzugsanstalt zugelassen werden.
 
