@@ -4,13 +4,12 @@ number: "841.311"
 title: "Einführungsverordnung zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: EV ELG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-08-28
+version: 2026-01-01
+version_adopted: 2025-12-10
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3074/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3264/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3074/pdf_file"
 
 (EV ELG)
 
-vom 16.09.2009 (Stand 01.01.2025)
+vom 16.09.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -72,8 +71,8 @@ beschliesst:
 <sup>1</sup> Für Personen, die dauernd oder längere Zeit einen Platz der Spital- und Pflegeheimliste des Kantons Bern belegen (Art. 2 Abs. 1 Bst. a), werden als Ausgaben folgende täglichen Höchstbeträge anerkannt:
 
 - a Pflegestufe 0: — CHF 180.55
-- b Pflegestufe 1: — CHF 182.70
-- c Pflegestufe 2: — CHF 196.60
+- b Pflegestufe 1: — CHF 182.80
+- c Pflegestufe 2: — CHF 196.90
 - d Pflegestufen 3 bis 12: — CHF 203.55
 
 <sup>2</sup> Der Pflegeaufwand ist mit dem Bewohnerbeurteilungssystem BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem) oder RAI (Resident Assessment Instrument) zu erheben.

@@ -4,13 +4,12 @@ number: "841.311"
 title: "Ordonnance portant introduction de la loi fédérale sur les prestations complémentaires à l'AVS et à l'AI"
 short: Oi LPC
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-08-28
+version: 2026-01-01
+version_adopted: 2025-12-10
 adopted: 2009-09-16
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/841.311"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3074/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3264/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3074/pdf_file"
 
 (Oi LPC)
 
-du 16.09.2009 (état au 01.01.2025)
+du 16.09.2009 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -71,8 +70,8 @@ arrête:
 <sup>1</sup> Pour les personnes occupant en permanence ou pour une longue durée une place de la liste des hôpitaux et établissements médico-sociaux du canton de Berne (art. 2, al. 1, lit. a), les montants journaliers maximaux reconnus au titre de dépenses sont les suivants:
 
 - a Degré de soins 0: — CHF 180.55
-- b Degré de soins 1: — CHF 182.70
-- c Degré de soins 2: — CHF 196.60
+- b Degré de soins 1: — CHF 182.80
+- c Degré de soins 2: — CHF 196.90
 - d Degrés de soins 3 à 12: — CHF 203.55
 
 <sup>2</sup> Les soins requis sont évalués au moyen du système de classification en degrés de soins et de décompte des prestations BESA (Bewohnerinnen-Einstufungs- und Abrechnungssystem) ou de l’instrument RAI (resident assessment instrument).
