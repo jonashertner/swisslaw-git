@@ -4,13 +4,13 @@ number: "152.01"
 title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Organisationsgesetz, OrG"
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-05
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-03
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2938/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3143/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2938/pdf_file"
 
 (Organisationsgesetz, OrG)
 
-vom 20.06.1995 (Stand 01.01.2024)
+vom 20.06.1995 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -394,21 +394,9 @@ beschliesst:
 
 <sup>3</sup> Die spezifischen Bedürfnisse der französischsprachigen Minderheit werden ebenfalls berücksichtigt.
 
-### 2.3 Amtsbezirke
+### 2.3
 
-#### Art. 38
-
-<sup>1</sup> …
-
-<sup>2</sup> Das Kantonsgebiet wird in folgende 26 Amtsbezirke eingeteilt: Aarberg, Aarwangen, Bern, Biel, Büren, Burgdorf, Courtelary, Erlach, Fraubrunnen, Frutigen, Interlaken, Konolfingen, Laupen, Moutier, La Neuveville, Nidau, Niedersimmental, Oberhasli, Obersimmental, Saanen, Schwarzenburg, Seftigen, Signau, Thun, Trachselwald, Wangen.
-
-<sup>3</sup> Die Zugehörigkeit der Gemeinden zu einem Amtsbezirk und die offizielle Schreibweise ihrer Namen werden im Anhang 1 umschrieben.
-
-<sup>4</sup> Der Regierungsrat nimmt die infolge der Bildung, der Aufhebung oder des Zusammenschlusses von Gemeinden nötigen Anpassungen im Anhang vor. Er passt den Anhang an, wenn er die Änderung eines Gemeindenamens genehmigt.
-
-<sup>5</sup> …
-
-#### Art. 39
+#### Art. 38–39
 
 **…**
 
@@ -420,7 +408,7 @@ beschliesst:
 
 <sup>1</sup> Die Verwaltungsregionen und die Verwaltungskreise sind die ordentlichen dezentralen Verwaltungseinheiten des Kantons.
 
-<sup>2</sup> Eine Verwaltungsregion umfasst einen oder mehrere Verwaltungskreise und legt die Zuständigkeitsgebiete für die Grundbuchführung und die Durchführung von Schuldbetreibungen und Konkursen fest.
+<sup>2</sup> Eine Verwaltungsregion umfasst einen oder mehrere Verwaltungskreise. Sie legt die Zuständigkeitsgebiete für die Grundbuchführung und die Durchführung von Schuldbetreibungen und Konkursen fest, ausser für die Durchführung von Schuldbetreibungen und Konkursen im Berner Jura und im Seeland.
 
 <sup>3</sup> Das Kantonsgebiet wird wie folgt in fünf Verwaltungsregionen und in die entsprechenden Verwaltungskreise eingeteilt:
 
@@ -686,67 +674,11 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat wird ermächtigt, innert zwei Jahren seit Inkrafttreten dieser Änderung durch Verordnung die formalen und redaktionellen Anpassungen in Gesetzen, Dekreten und Grossratsbeschlüssen vorzunehmen.
 
-## A1 zu Artikel 38
+## A1
 
 #### Art. A1-1
 
-<sup>1</sup> Die in Artikel 38 umschriebenen Amtsbezirke umfassen folgende Gemeinden:
-
-- 1\. Deutschsprachiger Amtsbezirk Aarberg mit Hauptort Aarberg:
-  - a) Einwohnergemeinde Aarberg, Einwohnergemeinde Bargen (BE), Einwohnergemeinde Grossaffoltern, Einwohnergemeinde Kallnach, Einwohnergemeinde Kappelen, Einwohnergemeinde Lyss, Einwohnergemeinde Meikirch, Einwohnergemeinde Radelfingen, Einwohnergemeinde Rapperswil (BE), Einwohnergemeinde Schüpfen, Einwohnergemeinde Seedorf (BE).
-- 2\. Deutschsprachiger Amtsbezirk Aarwangen mit Hauptort Aarwangen:
-  - a) Einwohnergemeinde Aarwangen, Einwohnergemeinde Auswil, Einwohnergemeinde Bannwil, Einwohnergemeinde Bleienbach, Einwohnergemeinde Busswil bei Melchnau, Einwohnergemeinde Gondiswil, Einwohnergemeinde Langenthal, Einwohnergemeinde Lotzwil, Einwohnergemeinde Madiswil, Einwohnergemeinde Melchnau, Einwohnergemeinde Oeschenbach, Einwohnergemeinde Reisiswil, Einwohnergemeinde Roggwil (BE), Einwohnergemeinde Rohrbach, Einwohnergemeinde Rohrbachgraben, Einwohnergemeinde Rütschelen, Einwohnergemeinde Schwarzhäusern, Einwohnergemeinde Thunstetten, Einwohnergemeinde Ursenbach, Einwohnergemeinde Wynau.
-- 3\. Deutschsprachiger Amtsbezirk Bern mit Hauptort Bern:
-  - a) Einwohnergemeinde Bern, Einwohnergemeinde Bolligen, Einwohnergemeinde Bremgarten bei Bern, Einwohnergemeinde Ittigen, Einwohnergemeinde Kirchlindach, Einwohnergemeinde Köniz, Einwohnergemeinde Muri bei Bern, Einwohnergemeinde Oberbalm, Einwohnergemeinde Ostermundigen, Einwohnergemeinde Stettlen, Einwohnergemeinde Vechigen, Einwohnergemeinde Wohlen bei Bern, Einwohnergemeinde Zollikofen.
-- 4\. Zweisprachiger Amtsbezirk Biel mit Hauptort Biel/Bienne:
-  - a) Einwohnergemeinde Biel/Bienne, Einwohnergemeinde Leubringen.
-- 5\. Deutschsprachiger Amtsbezirk Büren mit Hauptort Büren:
-  - a) Einwohnergemeinde Arch, Einwohnergemeinde Büetigen, Einwohnergemeinde Büren an der Aare, Einwohnergemeinde Diessbach bei Büren, Einwohnergemeinde Dotzigen, Einwohnergemeinde Lengnau (BE), Einwohnergemeinde Leuzigen, Einwohnergemeinde Meienried, Einwohnergemeinde Meinisberg, Einwohnergemeinde Oberwil bei Büren, Einwohnergemeinde Pieterlen, Einwohnergemeinde Rüti bei Büren, Einwohnergemeinde Wengi.
-- 6\. Deutschsprachiger Amtsbezirk Burgdorf mit Hauptort Burgdorf:
-  - a) Einwohnergemeinde Aefligen, Einwohnergemeinde Alchenstorf, Einwohnergemeinde Bäriswil, Einwohnergemeinde Burgdorf, Einwohnergemeinde Ersigen, Einwohnergemeinde Hasle bei Burgdorf, Einwohnergemeinde Heimiswil, Einwohnergemeinde Hellsau, Einwohnergemeinde Hindelbank, Einwohnergemeinde Höchstetten, Einwohnergemeinde Kernenried, Einwohnergemeinde Kirchberg (BE), Einwohnergemeinde Koppigen, Einwohnergemeinde Krauchthal, Einwohnergemeinde Lyssach, Einwohnergemeinde Oberburg, Einwohnergemeinde Rüdtligen-Alchenflüh, Einwohnergemeinde Rumendingen, Einwohnergemeinde Rüti bei Lyssach, Einwohnergemeinde Willadingen, Einwohnergemeinde Wynigen.
-- 7\. Französischsprachiger Amtsbezirk Courtelary mit Hauptort Courtelary:
-  - a) Einwohnergemeinde Corgémont, Einwohnergemeinde Cormoret, Einwohnergemeinde Cortébert, Einwohnergemeinde Courtelary, Einwohnergemeinde La Ferrière, Einwohnergemeinde Mont-Tramelan, Einwohnergemeinde Orvin, Einwohnergemeinde Péry-La Heutte, Einwohnergemeinde Renan (BE), Einwohnergemeinde Romont (BE), Einwohnergemeinde Saint-Imier, Einwohnergemeinde Sauge Einwohnergemeinde Sonceboz-Sombeval, Einwohnergemeinde Sonvilier, Einwohnergemeinde Tramelan, Einwohnergemeinde Villeret.
-- 8\. Deutschsprachiger Amtsbezirk Erlach mit Hauptort Erlach:
-  - a) Einwohnergemeinde Brüttelen, Einwohnergemeinde Erlach, Einwohnergemeinde Finsterhennen, Einwohnergemeinde Gals, Einwohnergemeinde Gampelen, Einwohnergemeinde Ins, Einwohnergemeinde Lüscherz, Einwohnergemeinde Müntschemier, Einwohnergemeinde Siselen, Gemischte Gemeinde Treiten, Einwohnergemeinde Tschugg, Gemischte Gemeinde Vinelz.
-- 9\. Deutschsprachiger Amtsbezirk Fraubrunnen mit Hauptort Fraubrunnen:
-  - a) Einwohnergemeinde Bätterkinden, Einwohnergemeinde Deisswil bei Münchenbuchsee, Einwohnergemeinde Fraubrunnen, Einwohnergemeinde Jegenstorf, Einwohnergemeinde Iffwil, Einwohnergemeinde Mattstetten, Einwohnergemeinde Moosseedorf, Einwohnergemeinde Münchenbuchsee, Einwohnergemeinde Urtenen-Schönbühl, Einwohnergemeinde Utzenstorf, Einwohnergemeinde Wiggiswil, Einwohnergemeinde Wiler bei Utzenstorf, Einwohnergemeinde Zielebach, Einwohnergemeinde Zuzwil (BE).
-- 10\. Deutschsprachiger Amtsbezirk Frutigen mit Hauptort Frutigen:
-  - a) Einwohnergemeinde Adelboden, Gemischte Gemeinde Aeschi bei Spiez, Einwohnergemeinde Frutigen, Einwohnergemeinde Kandergrund, Einwohnergemeinde Kandersteg, Einwohnergemeinde Krattigen, Einwohnergemeinde Reichenbach im Kandertal.
-- 11\. Deutschsprachiger Amtsbezirk Interlaken mit Hauptort Interlaken:
-  - a) Einwohnergemeinde Beatenberg, Einwohnergemeinde Bönigen, Einwohnergemeinde Brienz (BE), Gemischte Gemeinde Brienzwiler, Einwohnergemeinde Därligen, Einwohnergemeinde Grindelwald, Einwohnergemeinde Gsteigwiler, Einwohnergemeinde Gündlischwand, Einwohnergemeinde Habkern, Einwohnergemeinde Hofstetten bei Brienz, Einwohnergemeinde Interlaken, Gemischte Gemeinde Iseltwald, Einwohnergemeinde Lauterbrunnen, Einwohnergemeinde Leissigen, Gemischte Gemeinde Lütschental, Einwohnergemeinde Matten bei Interlaken, Einwohnergemeinde Niederried bei Interlaken, Gemischte Gemeinde Oberried am Brienzersee, Einwohnergemeinde Ringgenberg (BE), Einwohnergemeinde Saxeten, Einwohnergemeinde Schwanden bei Brienz, Einwohnergemeinde Unterseen, Einwohnergemeinde Wilderswil.
-  - b) Dazu kommt das Gebiet des Brienzersees zwischen den Grenzen der anliegenden Gemeinden.
-- 12\. Deutschsprachiger Amtsbezirk Konolfingen mit Hauptort Schlosswil (per 1.1.2018 aufgehoben infolge Fusion mit Grosshöchstetten):
-  - a) Einwohnergemeinde Allmendingen, Einwohnergemeinde Arni (BE), Einwohnergemeinde Biglen, Einwohnergemeinde Bowil, Einwohnergemeinde Brenzikofen, Einwohnergemeinde Freimettigen, Einwohnergemeinde Grosshöchstetten, Einwohnergemeinde Häutligen, Einwohnergemeinde Herbligen, Einwohnergemeinde Kiesen, Einwohnergemeinde Konolfingen, Einwohnergemeinde Landiswil, Einwohnergemeinde Linden, Einwohnergemeinde Mirchel, Einwohnergemeinde Münsingen, Einwohnergemeinde Niederhünigen, Einwohnergemeinde Oberdiessbach, Einwohnergemeinde Oberhünigen, Einwohnergemeinde Oberthal, Einwohnergemeinde Oppligen, Einwohnergemeinde Rubigen, Einwohnergemeinde Walkringen, Einwohnergemeinde Wichtrach, Einwohnergemeinde Worb, Einwohnergemeinde Zäziwil.
-- 13\. Deutschsprachiger Amtsbezirk Laupen mit Hauptort Laupen:
-  - a) Einwohnergemeinde Ferenbalm, Einwohnergemeinde Frauenkappelen, Einwohnergemeinde Gurbrü, Einwohnergemeinde Kriechenwil, Einwohnergemeinde Laupen, Einwohnergemeinde Mühleberg, Einwohnergemeinde Münchenwiler, Einwohnergemeinde Neuenegg, Einwohnergemeinde Wileroltigen.
-- 14\. Französischsprachiger Amtsbezirk Moutier mit Hauptort Moutier:
-  - a) Gemischte Gemeinde Belprahon, Gemischte Gemeinde Champoz, Gemischte Gemeinde Corcelles (BE), Einwohnergemeinde Court, Gemischte Gemeinde Crémines, Gemischte Gemeinde Eschert, Einwohnergemeinde Grandval, Gemischte Gemeinde Loveresse, Einwohnergemeinde Moutier, Einwohnergemeinde Perrefitte, Einwohnergemeinde Petit-Val, Einwohnergemeinde Rebévelier, Einwohnergemeinde Reconvilier, Gemischte Gemeinde Roches (BE), Einwohnergemeinde Saicourt, Gemischte Gemeinde Saules (BE), Einwohnergemeinde Schelten, Einwohnergemeinde Seehof, Einwohnergemeinde Sorvilier, Einwohnergemeinde Tavannes, Gemischte Gemeinde Valbirse.
-- 15\. Französischsprachiger Amtsbezirk La Neuveville mit Hauptort La Neuveville:
-  - a) Einwohnergemeinde La Neuveville, Gemischte Gemeinde Nods, Gemischte Gemeinde Plateau de Diesse.
-- 16\. Deutschsprachiger Amtsbezirk Nidau mit Hauptort Nidau:
-  - a) Einwohnergemeinde Aegerten, Einwohnergemeinde Bellmund, Einwohnergemeinde Brügg, Einwohnergemeinde Bühl, Einwohnergemeinde Epsach, Einwohnergemeinde Hagneck, Einwohnergemeinde Hermrigen, Einwohnergemeinde Jens, Einwohnergemeinde Ipsach, Einwohnergemeinde Ligerz, Einwohnergemeinde Merzligen, Einwohnergemeinde Mörigen, Einwohnergemeinde Nidau, Einwohnergemeinde Orpund, Einwohnergemeinde Port, Einwohnergemeinde Safnern, Einwohnergemeinde Scheuren, Einwohnergemeinde Schwadernau, Einwohnergemeinde Studen, Einwohnergemeinde Sutz-Lattrigen, Einwohnergemeinde Täuffelen, Einwohnergemeinde Twann-Tüscherz, Einwohnergemeinde Walperswil, Einwohnergemeinde Worben.
-  - b) Dazu kommt das Gebiet des Bielersees zwischen der Kantonsgrenze Bern–Neuenburg und der Amtsgrenze Biel-Nidau.
-- 17\. Deutschsprachiger Amtsbezirk Niedersimmental mit Hauptort Wimmis:
-  - a) Einwohnergemeinde Därstetten, Gemischte Gemeinde Diemtigen, Einwohnergemeinde Erlenbach im Simmental, Einwohnergemeinde Oberwil im Simmental, Einwohnergemeinde Reutigen, Einwohnergemeinde Spiez, Einwohnergemeinde Wimmis.
-- 18\. Deutschsprachiger Amtsbezirk Oberhasli mit Hauptort Meiringen:
-  - a) Einwohnergemeinde Guttannen, Einwohnergemeinde Hasliberg, Einwohnergemeinde Innertkirchen, Einwohnergemeinde Meiringen, Gemischte Gemeinde Schattenhalb.
-- 19\. Deutschsprachiger Amtsbezirk Obersimmental mit Hauptort Blankenburg:
-  - a) Einwohnergemeinde Boltigen, Einwohnergemeinde Lenk, Einwohnergemeinde St. Stephan, Einwohnergemeinde Zweisimmen.
-- 20\. Deutschsprachiger Amtsbezirk Saanen mit Hauptort Saanen:
-  - a) Einwohnergemeinde Gsteig, Einwohnergemeinde Lauenen, Einwohnergemeinde Saanen.
-- 21\. Deutschsprachiger Amtsbezirk Schwarzenburg mit Hauptort Schwarzenburg:
-  - a) Einwohnergemeinde Guggisberg, Gemischte Gemeinde Rüschegg, Einwohnergemeinde Schwarzenburg.
-- 22\. Deutschsprachiger Amtsbezirk Seftigen mit Hauptort Belp:
-  - a) Einwohnergemeinde Belp, Einwohnergemeinde Burgistein, Einwohnergemeinde Gerzensee, Einwohnergemeinde Gurzelen, Einwohnergemeinde Jaberg, Einwohnergemeinde Kaufdorf, Einwohnergemeinde Kehrsatz, Einwohnergemeinde Kirchdorf (BE), Einwohnergemeinde Niedermuhlern, Einwohnergemeinde Riggisberg, Einwohnergemeinde Rüeggisberg, Einwohnergemeinde Seftigen, Einwohnergemeinde Thurnen, Einwohnergemeinde Toffen, Einwohnergemeinde Uttigen, Einwohnergemeinde Wald (BE), Einwohnergemeinde Wattenwil,
-- 23\. Deutschsprachiger Amtsbezirk Signau mit Hauptort Langnau:
-  - a) Einwohnergemeinde Eggiwil, Einwohnergemeinde Langnau im Emmental, Einwohnergemeinde Lauperswil, Einwohnergemeinde Röthenbach im Emmental, Einwohnergemeinde Rüderswil, Einwohnergemeinde Schangnau, Einwohnergemeinde Signau, Einwohnergemeinde Trub, Einwohnergemeinde Trubschachen.
-- 24\. Deutschsprachiger Amtsbezirk Thun mit Hauptort Thun:
-  - a) Einwohnergemeinde Amsoldingen, Einwohnergemeinde Blumenstein, Einwohnergemeinde Buchholterberg, Einwohnergemeinde Eriz, Einwohnergemeinde Fahrni, Einwohnergemeinde Forst-Längenbühl, Einwohnergemeinde Heiligenschwendi, Einwohnergemeinde Heimberg, Einwohnergemeinde Hilterfingen, Einwohnergemeinde Homberg, Einwohnergemeinde Horrenbach-Buchen, Einwohnergemeinde Oberhofen am Thunersee, Einwohnergemeinde Oberlangenegg, Einwohnergemeinde Pohlern, Einwohnergemeinde Sigriswil, Einwohnergemeinde Steffisburg, Einwohnergemeinde Stocken-Höfen Einwohnergemeinde Teuffenthal (BE), Einwohnergemeinde Thierachern, Einwohnergemeinde Thun, Einwohnergemeinde Uebeschi, Einwohnergemeinde Uetendorf, Einwohnergemeinde Unterlangenegg, Einwohnergemeinde Wachseldorn.
-  - b) Dazu kommt das Gebiet des Thunersees zwischen den Grenzen der anliegenden Gemeinden.
-- 25\. Deutschsprachiger Amtsbezirk Trachselwald mit Hauptort Trachselwald:
-  - a) Einwohnergemeinde Affoltern im Emmental, Einwohnergemeinde Dürrenroth, Einwohnergemeinde Eriswil, Einwohnergemeinde Huttwil, Einwohnergemeinde Lützelflüh, Einwohnergemeinde Rüegsau, Einwohnergemeinde Sumiswald, Einwohnergemeinde Trachselwald, Einwohnergemeinde Walterswil (BE), Einwohnergemeinde Wyssachen.
-- 26\. Deutschsprachiger Amtsbezirk Wangen mit Hauptort Wangen:
-  - a) Einwohnergemeinde Attiswil, Einwohnergemeinde Berken, Einwohnergemeinde Bettenhausen, Einwohnergemeinde Farnern, Einwohnergemeinde Graben, Einwohnergemeinde Heimenhausen, Einwohnergemeinde Herzogenbuchsee, Einwohnergemeinde Inkwil, Einwohnergemeinde Niederbipp, Einwohnergemeinde Niederönz, Einwohnergemeinde Oberbipp, Einwohnergemeinde Ochlenberg, Einwohnergemeinde Rumisberg, Einwohnergemeinde Seeberg, Einwohnergemeinde Thörigen, Einwohnergemeinde Walliswil bei Niederbipp, Einwohnergemeinde Walliswil bei Wangen, Einwohnergemeinde Wangen an der Aare, Einwohnergemeinde Wiedlisbach.
+**…**
 
 ## A2 zu Artikel 39a
 
@@ -755,7 +687,7 @@ beschliesst:
 <sup>1</sup> Die in Artikel 39a umschriebenen Verwaltungsregionen und Verwaltungskreise umfassen folgende Gemeinden:
 
 - 1\. Französischsprachige Verwaltungsregion Berner Jura und französischsprachiger Verwaltungskreis Berner Jura:
-  - a) Gemischte Gemeinde Belprahon, Gemischte Gemeinde Champoz, Gemischte Gemeinde Corcelles (BE), Einwohnergemeinde Corgémont, Einwohnergemeinde Cormoret, Einwohnergemeinde Cortébert, Einwohnergemeinde Court, Einwohnergemeinde Courtelary, Gemischte Gemeinde Crémines, Gemischte Gemeinde Eschert, Einwohnergemeinde Grandval, Einwohnergemeinde La Ferrière, Einwohnergemeinde La Neuveville, Gemischte Gemeinde Loveresse, Einwohnergemeinde Mont-Tramelan, Einwohnergemeinde Moutier, Einwohnergemeinde Orvin, Gemischte Gemeinde Nods, Einwohnergemeinde Perrefitte, Einwohnergemeinde Péry-La Heutte, Einwohnergemeinde Petit-Val, Gemischte Gemeinde Plateau de Diesse, Einwohnergemeinde Rebévelier, Einwohnergemeinde Reconvilier, Einwohnergemeinde Renan (BE), Gemischte Gemeinde Roches (BE), Einwohnergemeinde Romont (BE), Einwohnergemeinde Saicourt, Einwohnergemeinde Saint-Imier, Einwohnergemeinde Sauge, Gemischte Gemeinde Saules (BE), Einwohnergemeinde Schelten, Einwohnergemeinde Seehof, Einwohnergemeinde Sonceboz-Sombeval, Einwohnergemeinde Sonvilier, Einwohnergemeinde Sorvilier, Einwohnergemeinde Tavannes, Einwohnergemeinde Tramelan, Gemischte Gemeinde Valbirse, Einwohnergemeinde Villeret.
+  - a) Gemischte Gemeinde Belprahon, Gemischte Gemeinde Champoz, Gemischte Gemeinde Corcelles (BE), Einwohnergemeinde Corgémont, Einwohnergemeinde Cormoret, Einwohnergemeinde Cortébert, Einwohnergemeinde Court, Einwohnergemeinde Courtelary, Gemischte Gemeinde Crémines, Gemischte Gemeinde Eschert, Einwohnergemeinde Grandval, Einwohnergemeinde La Ferrière, Einwohnergemeinde La Neuveville, Gemischte Gemeinde Loveresse, Einwohnergemeinde Mont-Tramelan, Einwohnergemeinde Orvin, Gemischte Gemeinde Nods, Einwohnergemeinde Perrefitte, Einwohnergemeinde Péry-La Heutte, Einwohnergemeinde Petit-Val, Gemischte Gemeinde Plateau de Diesse, Einwohnergemeinde Rebévelier, Einwohnergemeinde Reconvilier, Einwohnergemeinde Renan (BE), Gemischte Gemeinde Roches (BE), Einwohnergemeinde Romont (BE), Einwohnergemeinde Saicourt, Einwohnergemeinde Saint-Imier, Einwohnergemeinde Sauge, Gemischte Gemeinde Saules (BE), Einwohnergemeinde Schelten, Einwohnergemeinde Seehof, Einwohnergemeinde Sonceboz-Sombeval, Einwohnergemeinde Sonvilier, Einwohnergemeinde Sorvilier, Einwohnergemeinde Tavannes, Einwohnergemeinde Tramelan, Gemischte Gemeinde Valbirse, Einwohnergemeinde Villeret.
 - 2\. Zweisprachige Verwaltungsregion Seeland
   - a) Verwaltungskreis Biel/Bienne: Einwohnergemeinde Aegerten, Einwohnergemeinde Bellmund, Einwohnergemeinde Biel/Bienne, Einwohnergemeinde Brügg, Einwohnergemeinde Ipsach, Einwohnergemeinde Lengnau (BE), Einwohnergemeinde Leubringen, Einwohnergemeinde Ligerz, Einwohnergemeinde Meinisberg, Einwohnergemeinde Mörigen, Einwohnergemeinde Nidau, Einwohnergemeinde Orpund, Einwohnergemeinde Pieterlen, Einwohnergemeinde Port, Einwohnergemeinde Safnern, Einwohnergemeinde Scheuren, Einwohnergemeinde Schwadernau, Einwohnergemeinde Sutz-Lattrigen, Einwohnergemeinde Twann-Tüscherz. Dazu kommt das Gebiet des Bielersees bis zur Kantonsgrenze Bern-Neuenburg.
   - b) Verwaltungskreis Seeland: Einwohnergemeinde Aarberg, Einwohnergemeinde Arch, Einwohnergemeinde Bargen (BE), Einwohnergemeinde Brüttelen, Einwohnergemeinde Büetigen, Einwohnergemeinde Bühl, Einwohnergemeinde Büren an der Aare, Einwohnergemeinde Diessbach bei Büren, Einwohnergemeinde Dotzigen, Einwohnergemeinde Epsach, Einwohnergemeinde Erlach, Einwohnergemeinde Finsterhennen, Einwohnergemeinde Gals, Einwohnergemeinde Gampelen, Einwohnergemeinde Grossaffoltern, Einwohnergemeinde Hagneck, Einwohnergemeinde Hermrigen, Einwohnergemeinde Jens, Einwohnergemeinde Ins, Einwohnergemeinde Kallnach, Einwohnergemeinde Kappelen, Einwohnergemeinde Leuzigen, Einwohnergemeinde Lüscherz, Einwohnergemeinde Lyss, Einwohnergemeinde Meienried, Einwohnergemeinde Merzligen, Einwohnergemeinde Müntschemier, Einwohnergemeinde Oberwil bei Büren, Einwohnergemeinde Radelfingen, Einwohnergemeinde Rapperswil (BE), Einwohnergemeinde Rüti bei Büren, Einwohnergemeinde Schüpfen, Einwohnergemeinde Seedorf (BE), Einwohnergemeinde Siselen, Einwohnergemeinde Studen, Einwohnergemeinde Täuffelen, Gemischte Gemeinde Treiten, Einwohnergemeinde Tschugg, Gemischte Gemeinde Vinelz, Einwohnergemeinde Walperswil, Einwohnergemeinde Wengi, Einwohnergemeinde Worben.

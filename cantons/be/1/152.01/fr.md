@@ -4,13 +4,13 @@ number: "152.01"
 title: "Loi sur l'organisation du Conseil-exécutif et de l'administration"
 short: "Loi d'organisation, LOCA"
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-05
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2024-09-03
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2938/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3143/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2938/pdf_file"
 
 (Loi d'organisation, LOCA)
 
-du 20.06.1995 (état au 01.01.2024)
+du 20.06.1995 (état au 01.01.2026)
 
 Le Grand Conseil du canton de Berne,
 
@@ -394,21 +394,9 @@ arrête:
 
 <sup>3</sup> Les sensibilités spécifiques de la minorité francophone seront également prises en compte.
 
-### 2.3 Districts
+### 2.3
 
-#### Art. 38
-
-<sup>1</sup> …
-
-<sup>2</sup> Le territoire cantonal se subdivise en 26 districts: Aarberg, Aarwangen, Bas-Simmental, Berne, Berthoud, Bienne, Büren, Cerlier, Courtelary, Fraubrunnen, Frutigen, Gessenay, Haut-Simmental, Interlaken, Konolfingen, Laupen, Moutier, La Neuveville, Nidau, Oberhasli, Schwarzenburg, Seftigen, Signau, Thoune, Trachselwald, Wangen.
-
-<sup>3</sup> L’appartenance des communes à un district et l’orthographe officielle de leurs noms sont définies à l’annexe 1.
-
-<sup>4</sup> Le Conseil-exécutif procède aux adaptations de l’annexe requises suite à la création, à la suppression ou à la fusion de communes. Il adapte l’annexe lorsqu’il approuve le changement de nom d’une commune.
-
-<sup>5</sup> …
-
-#### Art. 39
+#### Art. 38–39
 
 **…**
 
@@ -420,7 +408,7 @@ arrête:
 
 <sup>1</sup> Les régions administratives et les arrondissements administratifs sont les subdivisions administratives décentralisées ordinaires du canton.
 
-<sup>2</sup> Les régions administratives comprennent chacune un ou plusieurs arrondissements administratifs et constituent les zones de compétence des bureaux du registre foncier et des offices des poursuites et des faillites.
+<sup>2</sup> Les régions administratives comprennent chacune un ou plusieurs arrondissements administratifs. Elles constituent les zones de compétence des bureaux du registre foncier et des offices des poursuites et des faillites, excepté pour les offices des poursuites et des faillites du Jura bernois et du Seeland.
 
 <sup>3</sup> Le territoire cantonal est subdivisé comme suit en cinq régions administratives avec leurs arrondissements administratifs:
 
@@ -686,67 +674,11 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif est habilité à procéder par voie d’ordonnance dans les deux ans suivant l’entrée en vigueur de la présente modification aux adaptations formelles et rédactionnelles de lois, de décrets et d’arrêtés du Grand Conseil.
 
-## A1 Annexe 1 à l'article 38
+## A1
 
 #### Art. A1-1
 
-<sup>1</sup> Les districts énumérés à l’article 38 de la loi d’organisation se composent des communes suivantes:
-
-- 1\. District germanophone d'Aarberg, ayant pour chef-lieu Aarberg:
-  - a) Commune municipale d'Aarberg, Commune municipale de Bargen (BE), Commune municipale de Grossaffoltern, Commune municipale de Kallnach, Commune municipale de Kappelen, Commune municipale de Lyss, Commune municipale de Meikirch, Commune municipale de Radelfingen, Commune municipale de Rapperswil (BE), Commune municipale de Schüpfen, Commune municipale de Seedorf (BE).
-- 2\. District germanophone d'Aarwangen, ayant pour chef-lieu Aarwangen:
-  - a) Commune municipale d'Aarwangen, Commune municipale d'Auswil, Commune municipale de Bannwil, Commune municipale de Bleienbach, Commune municipale de Busswil bei Melchnau, Commune municipale de Gondiswil, Commune municipale de Langenthal, Commune municipale de Lotzwil, Commune municipale de Madiswil, Commune municipale de Melchnau, Commune municipale d'Öschenbach, Commune municipale de Reisiswil, Commune municipale de Roggwil (BE), Commune municipale de Rohrbach, Commune municipale de Rohrbachgraben, Commune municipale de Rütschelen, Commune municipale de Schwarzhäusern, Commune municipale de Thunstetten, Commune municipale d'Ursenbach, Commune municipale de Wynau.
-- 3\. District germanophone de Berne, ayant pour chef-lieu Bern:
-  - a) Commune municipale de Bern, Commune municipale de Bolligen, Commune municipale de Bremgarten bei Bern, Commune municipale d'Ittigen, Commune municipale de Kirchlindach, Commune municipale de Köniz, Commune municipale de Muri bei Bern, Commune municipale d'Oberbalm, Commune municipale d'Ostermundigen, Commune municipale de Stettlen, Commune municipale de Vechigen, Commune municipale de Wohlen bei Bern, Commune municipale de Zollikofen.
-- 4\. District bilingue de Bienne, ayant pour chef-lieu Biel/Bienne:
-  - a) Commune municipale de Biel/Bienne, Commune municipale d'Evilard.
-- 5\. District germanophone de Büren, ayant pour chef-lieu Büren:
-  - a) Commune municipale d'Arch, Commune municipale de Büetigen, Commune municipale de Büren an der Aare, Commune municipale de Diessbach bei Büren, Commune municipale de Dotzigen, Commune municipale de Lengnau (BE), Commune municipale de Leuzigen, Commune municipale de Meienried, Commune municipale de Meinisberg, Commune municipale d'Oberwil bei Büren, Commune municipale de Pieterlen, Commune municipale de Rüti bei Büren, Commune municipale de Wengi.
-- 6\. District germanophone de Berthoud, ayant pour chef-lieu Burgdorf:
-  - a) Commune municipale d'Aefligen, Commune municipale d'Alchenstorf, Commune municipale de Bäriswil, Commune municipale de Burgdorf, Commune municipale d'Ersigen, Commune municipale de Hasle bei Burgdorf, Commune municipale de Heimiswil, Commune municipale de Hellsau, Commune municipale de Hindelbank, Commune municipale de Höchstetten, Commune municipale de Kernenried, Commune municipale de Kirchberg (BE), Commune municipale de Koppigen, Commune municipale de Krauchtal, Commune municipale de Lyssach, Commune municipale d'Oberburg, Commune municipale de Rüdtligen–Alchenflüh, Commune municipale de Rumendingen, Commune municipale de Rüti bei Lyssach, Commune municipale de Willadingen, Commune municipale de Wynigen.
-- 7\. District francophone de Courtelary, ayant pour chef-lieu Courtelary:
-  - a) Commune municipale de Corgémont, Commune municipale de Cormoret, Commune municipale de Cortébert, Commune municipale de Courtelary, Commune municipale de La Ferrière, Commune municipale de Mont-Tramelan, Commune municipale d'Orvin, Commune municipale de Péry-La Heutte, Commune municipale de Renan (BE), Commune municipale de Romont (BE), Commune municipale de Saint-Imier, Commune municipale de Sauge, Commune municipale de Sonceboz–Sombeval, Commune municipale de Sonvilier, Commune municipale de Tramelan, Commune municipale de Villeret.
-- 8\. District germanophone de Cerlier, ayant pour chef-lieu Erlach:
-  - a) Commune municipale de Brüttelen, Commune municipale d'Erlach, Commune municipale de Finsterhennen, Commune municipale de Gals, Commune municipale de Gampelen, Commune municipale d'Ins, Commune municipale de Lüscherz, Commune municipale de Müntschemier, Commune municipale de Siselen, Commune mixte de Treiten, Commune municipale de Tschugg, Commune mixte de Vinelz.
-- 9\. District germanophone de Fraubrunnen, ayant pour chef-lieu Fraubrunnen:
-  - a) Commune municipale de Bätterkinden, Commune municipale de Deisswil bei Münchenbuchsee, Commune municipale de Fraubrunnen, Commune municipale de Jegenstorf, Commune municipale d'Iffwil, Commune municipale de Mattstetten, Commune municipale de Moosseedorf, Commune municipale de Münchenbuchsee, Commune municipale d'Urtenen-Schönbühl, Commune municipale d'Utzenstorf, Commune municipale de Wiggiswil, Commune municipale de Wiler bei Utzenstorf, Commune municipale de Zielebach, Commune municipale de Zuzwil (BE).
-- 10\. District germanophone de Frutigen, ayant pour chef-lieu Frutigen:
-  - a) Commune municipale d'Adelboden, Commune mixte d'Aeschi bei Spiez, Commune municipale de Frutigen, Commune municipale de Kandergrund, Commune municipale de Kandersteg, Commune municipale de Krattigen, Commune municipale de Reichenbach im Kandertal.
-- 11\. District germanophone d'Interlaken, ayant pour chef-lieu Interlaken:
-  - a) Commune municipale de Beatenberg, Commune municipale de Bönigen, Commune municipale de Brienz (BE), Commune mixte de Brienzwiler, Commune municipale de Därligen, Commune municipale de Grindelwald, Commune municipale de Gsteigwiler, Commune municipale de Gündlischwand, Commune municipale de Habkern, Commune municipale de Hofstetten bei Brienz, Commune municipale d'Interlaken, Commune mixte d'Iseltwald, Commune municipale de Lauterbrunnen, Commune municipale de Leissigen, Commune mixte de Lütschental, Commune municipale de Matten bei Interlaken, Commune municipale de Niederried bei Interlaken, Commune mixte d'Oberried am Brienzersee, Commune municipale de Ringgenberg (BE), Commune municipale de Saxeten, Commune municipale de Schwanden bei Brienz, Commune municipale d'Unterseen, Commune municipale de Wilderswil.
-  - b) Il comprend en outre les eaux du lac de Brienz touchant aux communes riveraines.
-- 12\. District germanophone de Konolfingen, ayant pour chef-lieu Schlosswil (abrogé au 1<sup>er</sup> janvier 2018, en raison de la fusion de Schlosswil avec Grosshöchstetten):
-  - a) Commune municipale d'Allmendingen, Commune municipale d'Arni (BE), Commune municipale de Biglen, Commune municipale de Bowil, Commune municipale de Brenzikofen, Commune municipale de Freimettigen, Commune municipale de Grosshöchstetten, Commune municipale de Häutligen, Commune municipale de Herbligen, Commune municipale de Kiesen, Commune municipale de Konolfingen, Commune municipale de Landiswil, Commune municipale de Linden, Commune municipale de Mirchel, Commune municipale de Münsingen, Commune municipale de Niederhünigen, Commune municipale d'Oberdiessbach, Commune municipale d'Oberhünigen, Commune municipale d'Oberthal, Commune municipale d'Oppligen, Commune municipale de Rubigen, Commune municipale de Walkringen, Commune municipale de Wichtrach, Commune municipale de Worb, Commune municipale de Zäziwil.
-- 13\. District germanophone de Laupen, ayant pour chef-lieu Laupen:
-  - a) Commune municipale de Ferenbalm, Commune municipale de Frauenkappelen, Commune municipale de Gurbrü, Commune municipale de Kriechenwil, Commune municipale de Laupen, Commune municipale de Mühleberg, Commune municipale de Münchenwiler, Commune municipale de Neuenegg, Commune municipale de Wileroltigen.
-- 14\. District francophone de Moutier, ayant pour chef-lieu Moutier:
-  - a) Commune mixte de Belprahon, Commune mixte de Champoz, Commune mixte de Corcelles (BE), Commune municipale de Court, Commune mixte de Crémines, Commune mixte d'Eschert, Commune municipale de Grandval, Commune mixte de Loveresse, Commune municipale de Moutier, Commune municipale de Perrefitte, Commune municipale de Petit-Val, Commune municipale de Rebévelier, Commune municipale de Reconvilier, Commune mixte de Roches (BE), Commune municipale de Saicourt, Commune mixte de Saules (BE), Commune municipale de Schelten, Commune municipale de Seehof, Commune municipale de Sorvilier, Commune municipale de Tavannes, Commune mixte de Valbirse.
-- 15\. District francophone de La Neuveville, ayant pour chef-lieu La Neuveville:
-  - a) Commune municipale de La Neuveville, Commune mixte de Nods, Commune mixte de Plateau de Diesse.
-- 16\. District germanophone de Nidau, ayant pour chef-lieu Nidau:
-  - a) Commune municipale d'Aegerten, Commune municipale de Bellmund, Commune municipale de Brügg, Commune municipale de Bühl, Commune municipale d'Epsach, Commune municipale de Hagneck, Commune municipale de Hermrigen, Commune municipale de Jens, Commune municipale d'Ipsach, Commune municipale de Ligerz, Commune municipale de Merzligen, Commune municipale de Mörigen, Commune municipale de Nidau, Commune municipale d'Orpund, Commune municipale de Port, Commune municipale de Safnern, Commune municipale de Scheuren, Commune municipale de Schwadernau, Commune municipale de Studen, Commune municipale de Sutz–Lattrigen, Commune municipale de Täuffelen, Commune municipale de Twann-Tüscherz, Commune municipale de Walperswil, Commune municipale de Worben.
-  - b) Il comprend en outre les eaux du lac de Bienne de la frontière neuchâteloise jusqu'à la limite des districts de Bienne et de Nidau.
-- 17\. District germanophone du Bas-Simmental, ayant pour chef-lieu Wimmis:
-  - a) Commune municipale de Därstetten, Commune mixte de Diemtigen, Commune municipale d'Erlenbach im Simmental, Commune municipale d'Oberwil im Simmental, Commune municipale de Reutigen, Commune municipale de Spiez, Commune municipale de Wimmis.
-- 18\. District germanophone d'Oberhasli, ayant pour chef-lieu Meiringen:
-  - a) Commune municipale de Guttannen, Commune municipale de Hasliberg, Commune municipale d'Innertkirchen, Commune municipale de Meiringen, Commune mixte de Schattenhalb.
-- 19\. District germanophone du Haut-Simmental, ayant pour chef-lieu Blankenburg:
-  - a) Commune municipale de Boltigen, Commune municipale de Lenk, Commune municipale de St. Stephan, Commune municipale de Zweisimmen.
-- 20\. District germanophone de Gessenay, ayant pour chef-lieu Saanen:
-  - a) Commune municipale de Gsteig, Commune municipale de Lauenen, Commune municipale de Saanen.
-- 21\. District germanophone de Schwarzenbourg, ayant pour chef-lieu Schwarzenburg:
-  - a) Commune municipale de Guggisberg, Commune mixte de Rüschegg, Commune municipale de Schwarzenburg.
-- 22\. District germanophone de Seftigen, ayant pour chef-lieu Belp:
-  - a) Commune municipale de Belp, Commune municipale de Burgistein, Commune municipale de Gerzensee, Commune municipale de Gurzelen, Commune municipale de Jaberg, Commune municipale de Kaufdorf, Commune municipale de Kehrsatz, Commune municipale de Kirchdorf (BE), Commune municipale de Niedermuhlern, Commune municipale de Riggisberg, Commune municipale de Rüeggisberg, Commune municipale de Seftigen, Commune municipale de Thurnen, Commune municipale de Toffen, Commune municipale d'Uttigen, Commune municipale de Wald (BE), Commune municipale de Wattenwil,
-- 23\. District germanophone de Signau, ayant pour chef-lieu Langnau:
-  - a) Commune municipale d'Eggiwil, Commune municipale de Langnau im Emmental, Commune municipale de Lauperswil, Commune municipale de Rüthenbach im Emmental, Commune municipale de Rüderswil, Commune municipale de Schangnau, Commune municipale de Signau, Commune municipale de Trub, Commune municipale de Trubschachen.
-- 24\. District germanophone de Thoune, ayant pour chef-lieu Thun:
-  - a) Commune municipale d'Amsoldingen, Commune municipale de Blumenstein, Commune municipale de Buchholterberg, Commune municipale d'Eriz, Commune municipale de Fahrni, Commune municipale de Forst-Längenbühl, Commune municipale de Heiligenschwendi, Commune municipale de Heimberg, Commune municipale de Hilterfingen, Commune municipale de Homberg, Commune municipale de Horrenbach–Buchen, Commune municipale d'Oberhofen am Thunersee, Commune municipale d'Oberlangenegg, Commune municipale de Pohlern, Commune municipale de Sigriswil, Commune municipale de Steffisburg, Commune municipale de Stocken-Höfen, Commune municipale de Teuffenthal (BE), Commune municipale de Thierachern, Commune municipale de Thun, Commune municipale d'Uebeschi, Commune municipale d'Uetendorf, Commune municipale d'Unterlangenegg, Commune municipale de Wachseldorn.
-  - b) Il comprend en outre les eaux du lac de Thoune touchant aux communes riveraines.
-- 25\. District germanophone de Trachselwald, ayant pour chef-lieu Trachselwald:
-  - a) Commune municipale d'Affoltern im Emmental, Commune municipale de Dürrenroth, Commune municipale d'Eriswil, Commune municipale de Huttwil, Commune municipale de Lützelflüh, Commune municipale de Rüegsau, Commune municipale de Sumiswald, Commune municipale de Trachselwald, Commune municipale de Walterswil (BE), Commune municipale de Wyssachen.
-- 26\. District germanophone de Wangen, ayant pour chef-lieu Wangen:
-  - a) Commune municipale d'Attiswil, Commune municipale de Berken, Commune municipale de Bettenhausen, Commune municipale de Farnern, Commune municipale de Graben, Commune municipale de Heimenhausen, Commune municipale de Herzogenbuchsee, Commune municipale d'Inkwil, Commune municipale de Niederbipp, Commune municipale de Niederönz, Commune municipale d'Oberbipp, Commune municipale d'Ochlenberg, Commune municipale de Rumisberg, Commune municipale de Seeberg, Commune municipale de Thörigen, Commune municipale de Walliswil bei Niederbipp, Commune municipale de Walliswil bei Wangen, Commune municipale de Wangen an der Aare, Commune municipale de Wiedlisbach.
+**…**
 
 ## A2 Annexe 2 à l'article 39a
 
@@ -755,7 +687,7 @@ arrête:
 <sup>1</sup> Les régions administratives et les arrondissements administratifs énumérés à l'article 39a se composent des communes suivantes:
 
 - 1\. Région administrative francophone du Jura bernois et arrondissement administratif francophone du Jura bernois
-  - a) Commune mixte de Belprahon, Commune mixte de Champoz, Commune mixte de Corcelles (BE), Commune municipale de Corgémont, Commune municipale de Cormoret, Commune municipale de Cortébert, Commune municipale de Court, Commune municipale de Courtelary, Commune mixte de Crémines, Commune mixte d'Eschert, Commune municipale de Grandval, Commune municipale de La Ferrière, Commune municipale de La Neuveville, Commune mixte de Loveresse, Commune municipale de Mont-Tramelan, Commune municipale de Moutier, Commune municipale d'Orvin, Commune mixte de Nods, Commune municipale de Perrefitte, Commune municipale de Péry-La Heutte, Commune municipale de Petit-Val, Commune mixte de Plateau de Diesse, Commune municipale de Rebévelier, Commune municipale de Reconvilier, Commune municipale de Renan (BE), Commune mixte de Roches (BE), Commune municipale de Romont (BE), Commune municipale de Saicourt, Commune municipale de Saint-Imier, Commune municipale de Sauge, Commune mixte de Saules (BE), Commune municipale de Schelten, Commune municipale de Seehof, Commune municipale de Sonceboz-Sombeval, Commune municipale de Sonvilier, Commune municipale de Sorvilier, Commune municipale de Tavannes, Commune municipale de Tramelan, Commune mixte de Valbirse, Commune municipale de Villeret.
+  - a) Commune mixte de Belprahon, Commune mixte de Champoz, Commune mixte de Corcelles (BE), Commune municipale de Corgémont, Commune municipale de Cormoret, Commune municipale de Cortébert, Commune municipale de Court, Commune municipale de Courtelary, Commune mixte de Crémines, Commune mixte d'Eschert, Commune municipale de Grandval, Commune municipale de La Ferrière, Commune municipale de La Neuveville, Commune mixte de Loveresse, Commune municipale de Mont-Tramelan, Commune municipale d'Orvin, Commune mixte de Nods, Commune municipale de Perrefitte, Commune municipale de Péry-La Heutte, Commune municipale de Petit-Val, Commune mixte de Plateau de Diesse, Commune municipale de Rebévelier, Commune municipale de Reconvilier, Commune municipale de Renan (BE), Commune mixte de Roches (BE), Commune municipale de Romont (BE), Commune municipale de Saicourt, Commune municipale de Saint-Imier, Commune municipale de Sauge, Commune mixte de Saules (BE), Commune municipale de Schelten, Commune municipale de Seehof, Commune municipale de Sonceboz-Sombeval, Commune municipale de Sonvilier, Commune municipale de Sorvilier, Commune municipale de Tavannes, Commune municipale de Tramelan, Commune mixte de Valbirse, Commune municipale de Villeret.
 - 2\. Région administrative bilingue du Seeland
   - a) Arrondissement administratif de Biel/Bienne: Commune municipale d'Aegerten, Commune municipale de Bellmund, Commune municipale de Biel/Bienne, Commune municipale de Brügg, Commune municipale d'Ipsach, Commune municipale de Lengnau (BE), Commune municipale d'Evilard, Commune municipale de Ligerz, Commune municipale de Meinisberg, Commune municipale de Mörigen, Commune municipale de Nidau, Commune municipale d'Orpund, Commune municipale de Pieterlen, Commune municipale de Port, Commune municipale de Safnern, Commune municipale de Scheuren, Commune municipale de Schwadernau, Commune municipale de Sutz-Lattrigen, Commune municipale de Twann-Tüscherz. Il comprend en outre les eaux du lac de Bienne jusqu'à la frontière cantonale Berne-Neuchâtel.
   - b) Arrondissement administratif du Seeland: Commune municipale d'Aarberg, Commune municipale d'Arch, Commune municipale de Bargen (BE), Commune municipale de Brüttelen, Commune municipale de Büetigen, Commune municipale de Bühl, Commune municipale de Büren an der Aare, Commune municipale de Diessbach bei Büren, Commune municipale de Dotzigen, Commune municipale d'Epsach, Commune municipale d'Erlach, Commune municipale de Finsterhennen, Commune municipale de Gals, Commune municipale de Gampelen, Commune municipale de Grossaffoltern, Commune municipale de Hagneck, Commune municipale de Hermrigen, Commune municipale de Jens, Commune municipale d'Ins, Commune municipale de Kallnach, Commune municipale de Kappelen, Commune municipale de Leuzigen, Commune municipale de Lüscherz, Commune municipale de Lyss, Commune municipale de Meienried, Commune municipale de Merzligen, Commune municipale de Müntschemier, Commune municipale d'Oberwil bei Büren, Commune municipale de Radelfingen, Commune municipale de Rapperswil (BE), Commune municipale de Rüti bei Büren, Commune municipale de Schüpfen, Commune municipale de Seedorf (BE), Commune municipale de Siselen, Commune municipale de Studen, Commune municipale de Täuffelen, Commune mixte de Treiten, Commune municipale de Tschugg, Commune mixte de Vinelz, Commune municipale de Walperswil, Commune municipale de Wengi, Commune municipale de Worben.
