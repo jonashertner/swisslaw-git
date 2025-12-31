@@ -4,448 +4,494 @@ number: "211.600"
 title: Ordonnance sur la mensuration officielle
 short: OcMO
 language: fr
-version: 2006-07-01
-corrected: 2017-09-04
-version_adopted: 2006-06-29
+version: 2026-01-01
+version_adopted: 2025-06-18
 adopted: 2018-03-07
 in_force: 2018-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.600"
-pdf: "https://lex.vs.ch/api/fr/versions/609/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3495/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la mensuration officielle
 
-du 29 juin 2006
+(OcMO)
+
+du 07.03.2018 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l'article 2 de la loi cantonale sur la mensuration officielle et l'information géographique du 16 mars 2006;
+vu l'article 2 de la loi sur la mensuration officielle du 16 mars 2006;
 
-sur la proposition du Département de l'économie et du territoire,
+sur la proposition du département en charge de la mensuration officielle,
 
 ordonne:
 
-### Section 1: Procédure pour la détermination des limites
-
-cantonales et communales
+## 1 Procédure pour la détermination des limites territoriales
 
 #### Art. 1
 
 **Principe**
 
-Les limites communales doivent correspondre avec les limites des biens-fonds.
+<sup>1</sup> Les limites des communes municipales (ci-après: communes) doivent correspondre avec les limites des immeubles.
 
 #### Art. 2
 
-**Procédure**
+**Limites communales et cantonales**
 
-<sup>1</sup> Si des limites communales doivent être adaptées aux limites des biens-fonds, les modifications sont réglées par convention entre les communes; celles-ci établissent les documents nécessaires à l'inscription au registre foncier.
+<sup>1</sup> Si des limites communales doivent être adaptées pour coïncider avec les limites des immeubles, les modifications sont réglées par convention entre les communes concernées; celles-ci établissent les documents nécessaires à l'inscription au registre foncier, avec l’accord des propriétaires des immeubles, si la limite de l’immeuble a déjà été approuvée.
 
 <sup>2</sup> Si les communes ne peuvent s'entendre, le Conseil d'Etat décide.
 
-<sup>3</sup> Lorsque la limite communale est en même temps limite cantonale, les modifications doivent être approuvées par l'autorité compétente des cantons concernés.
+<sup>3</sup> Lorsque la limite communale est en même temps une limite cantonale, les modifications doivent être approuvées par l’autorité compétente des cantons concernés.
+
+<sup>4</sup> Si des frontières nationales sont concernées, les autorités compétentes doivent être impliquées.
 
 #### Art. 3
 
-**Frais**
+**Frais pour la détermination des limites communales**
 
-<sup>1</sup> Les frais de géomètre pour l'établissement des plans de modification de limite intercommunale sont à la charge des communes concernées.
+<sup>1</sup> Les frais de géomètre pour l'établissement des plans modifiant les limites communales sont à la charge des communes concernées.
 
-<sup>2</sup> S'il n'est rien convenu d'autre, les frais sont répartis à parts égales entre les communes concernées.
-
-### Section 2: Procédure pour l'abornement et le premier relevé
-
-des immeubles
+<sup>2</sup> A défaut d’autre convention, les frais sont répartis à parts égales entre les communes concernées.
 
 #### Art. 4
 
-**Compétence**
+**Frontière nationale**
 
-<sup>1</sup> Après signature du contrat pour l'exécution de la mensuration officielle, seul l'ingénieur géomètre breveté adjudicataire est habilité à entreprendre des travaux dans le périmètre concerné.
+<sup>1</sup> Les limites correspondant à la frontière nationale sont déterminées sur la base du droit fédéral ou des traités internationaux.
 
-<sup>2</sup> Chaque extrait délivré par le cadastre communal ou le registre foncier doit porter la mention "mensuration officielle en cours".
+<sup>2</sup> Les limites des immeubles le long de la frontière nationale correspondent au tracé de celles-ci.
+
+<sup>3</sup> Pour toute modification de limites d’immeubles le long de la frontière nationale, l'instance de surveillance mandate un ingénieur géomètre inscrit au registre fédéral des ingénieurs géomètres (ci-après: ingénieur géomètre); cette modification est inscrite au registre foncier.
+
+<sup>4</sup> L'instance de surveillance informe l'Office fédéral de la topographie des dommages constatés ou des risques encourus par les signes de démarcation le long de la frontière nationale.
+
+## 2 Procédure pour l'abornement, le premier relevé des immeubles et le renouvellement
 
 #### Art. 5
 
-**Financement**
+**Compétence**
 
-<sup>1</sup> Le canton fait l'avance pour les communes des frais pris en compte d'abornement, de premier relevé et de renouvellement par l'octroi d'un prêt sans intérêt.
+<sup>1</sup> Seul l’ingénieur géomètre désigné à l’issue d’une procédure d’adjudication est compétent pour procéder à l’abornement, au premier relevé des immeubles ainsi qu’au renouvellement dans le périmètre concerné.
 
-<sup>2</sup> La commune doit rembourser le prêt sur une période comprise entre le début des travaux et le décompte final en fonction de l'avancement des travaux.
+<sup>2</sup> L’ingénieur géomètre désigné à l’alinéa 1 sera ensuite seul compétent pour effectuer la mise à jour permanente dans ce même périmètre.
+
+<sup>3</sup> Chaque extrait délivré par le cadastre de la commune ou par le registre foncier doit porter la mention "mensuration officielle en cours".
 
 #### Art. 6
 
 **Détermination des limites**
 
-<sup>1</sup> La publication pour l'invitation à la détermination des limites doit paraître dans le bulletin officiel du canton et à la commune concernée. En même temps, le service doit être informé par écrit du début des travaux.
+<sup>1</sup> L’avis officiel invitant à la détermination des limites des immeubles est publié dans le bulletin officiel du canton ainsi que dans la commune concernée. Parallèlement, l’instance de surveillance doit être informée par écrit du début des travaux.
 
-<sup>2</sup> Un bulletin d'information contenant le numéro de propriétaire, une brève description de la procédure, les directives pour la détermination des limites et la liste des parcelles concernées est adressé par lettre recommandée à chaque propriétaire.
+<sup>2</sup> Une circulaire d'information contenant le numéro de propriétaire, une brève description de la procédure, les directives pour la détermination des limites et la liste des immeubles concernés est adressée par lettre recommandée à chaque propriétaire.
 
-<sup>3</sup> Les limites sont déterminées sur la base des indications et des déclarations des propriétaires, des actes de mutation inscrits au registre foncier, de la description des biens-fonds du cadastre communal et des plans du cadastre, des anciens titres d'acquisition et des contrats de servitudes existants.
+<sup>3</sup> Les limites sont déterminées sur la base des indications et déclarations des propriétaires, des actes de mutation inscrits au registre foncier, de la description des immeubles figurant au cadastre communal, des plans de cadastre, des anciens titres d'acquisition et des contrats de servitudes existants.
 
-<sup>4</sup> Dans le cadre de la détermination des limites, des limites inappropriées doivent être corrigées avec l'accord des propriétaires. Il peut être procédé à des redressements et à des modifications de limites de peu d'importance.
+<sup>4</sup> Dans le cadre de la détermination des limites, les limites inappropriées doivent être corrigées avec l'accord des propriétaires. Des redressements et des modifications de limites de peu d'importance peuvent être effectués.
 
-<sup>5</sup> Pour réduire le nombre de points limites dans les courbes, le géomètre doit utiliser des arcs de cercle au lieu de cordes polygonales.
+<sup>5</sup> …
 
 #### Art. 7
 
-**Premier relevé**
+**Adresses des bâtiments**
 
-En tenant compte des directives du service, le principe de la liberté des méthodes est applicable au premier relevé.
+<sup>1</sup> Chaque bâtiment est identifié par au moins une adresse de bâtiment. Une adresse de bâtiment est composée d'un nom de rue ou de lieu dénommé, d'un numéro de maison, du numéro postal d'acheminement et du nom de localité.
+
+<sup>2</sup> Si les noms des rues et les numéros de maison font défaut, ils doivent être établis par la commune conformément aux directives de l'instance de surveillance.
+
+<sup>3</sup> Pour la dénomination des rues, il est fait référence aux recommandations des services compétents de la Confédération et du canton.
 
 #### Art. 8
 
-**Adresses des bâtiments**
+**Financement**
 
-<sup>1</sup> Afin d'obtenir sur l'ensemble du territoire la couche d'information «adresses des bâtiments», une désignation des noms de rues et une numérotation des bâtiments sont nécessaires.
+<sup>1</sup> Le canton fait l'avance, en faveur des communes, des frais pris en compte pour l’abornement, le premier relevé et le renouvellement, en octroyant un prêt sans intérêt.
 
-<sup>2</sup> Si les noms de rues et la numérotation des bâtiments manquent, les communes les établissent selon les directives du service.
+<sup>2</sup> La commune doit rembourser le prêt sur une période comprise entre le début des travaux et le décompte final, en fonction de l'avancement des travaux.
 
-### Section 3: Mise à jour permanente et périodique
+## 3 Mise à jour permanente et périodique
 
 #### Art. 9
 
-**Mise à jour**
+**Ingénieur géomètre**
 
-<sup>1</sup> Tous les éléments de la mensuration officielle sont soumis à la mise à jour.
-
-<sup>2</sup> Pour la mise à jour, le service conclut avec le géomètre officiel et son bureau un contrat d'une durée limitée.
-
-<sup>3</sup> Les tâches du géomètre officiel sont de:
-
-- a) veiller à la mise à jour permanente des éléments de la mensuration officielle;
-
-- b) exécuter les mandats de modifications de limites des immeubles et poser ou rétablir les signes de démarcation;
-
-- c) permettre la consultation des données et délivrer sur demande des extraits ou des restitutions;
-
-- d) établir les plans pour le registre foncier et attester de leur exactitude;
-
-- e) conserver les données qui leur sont confiées;
-
-- f) archiver les extraits pour le registre foncier et la documentation technique;
-
-- g) livrer, en même temps que la remise des actes de mutation au mandant, les documents nécessaires au service;
-
-- h) mettre à disposition le personnel et le matériel nécessaires à l'accomplissement de sa tâche. Les données numériques doivent pouvoir être reprises, élaborées et livrées au moyen de l'interface de la mensuration officielle;
-
-- i) livrer au service jusqu'au 31 mars le jeu de données complètement mis à jour des communes respectives pour l'année écoulée; la date limite est fixée au 31 décembre pour la dernière année du contrat;
-
-- j) livrer au service jusqu'au 31 mars la récapitulation des frais et le rapport annuel de l'année écoulée; la date limite est fixée au 31 décembre pour la dernière année du contrat.
-
-<sup>4</sup> Lors de violations graves ou répétées des devoirs, le contrat peut être rompu sans délai.
-
-<sup>5</sup> Le retrait du mandat ne donne aucun droit au géomètre officiel à prétendre à des dédommagements envers le canton.
+<sup>1</sup> Celui qui entend modifier la limite d’un immeuble mandate un ingénieur géomètre inscrit au registre des géomètres pour exécuter les travaux nécessaires.
 
 #### Art. 10
 
-**Mise à jour permanente**
+**Principe**
 
-<sup>1</sup> Les géomètres officiels sont tenus d'exécuter tous les mandats.
+<sup>1</sup> Tous les éléments de la mensuration officielle sont soumis à la mise à jour.
 
-<sup>2</sup> Ils doivent conclure une assurance responsabilité professionnelle.
+<sup>2</sup> Chaque ingénieur géomètre qui participe aux travaux de la mise à jour permanente du territoire cantonal doit s’affilier à l'infrastructure de mise à jour du canton. L’instance de surveillance conclut un contrat avec l'ingénieur géomètre et son bureau, selon un modèle obligatoire. Le contrat est au nom de l’ingénieur géomètre et de son bureau. Si plusieurs ingénieurs géomètres travaillent dans le même bureau, seuls les ingénieurs géomètres qui ont signé le contrat et payé les frais de connexion ont l’autorité de signature pour les travaux de mise à jour effectués dans la mensuration officielle. Le contrat porte notamment sur l’accès aux données et le contrôle y relatif, l’utilisation des données consultées, la protection contre les accès non autorisés aux données, les restrictions de transmission de ces données à des tiers, les émoluments et autres modalités d’intégration à l’infrastructure de mise à jour.
 
-<sup>3</sup> Les communes ou la canton sont tenus d'annoncer au moins une fois par année au géomètre officiel les modifications qui sont soumises à mise à jour. Si le géomètre officiel constate des éléments manquants qui n'ont pas été annoncés mais qui sont soumis à la mise à jour, il en informe par écrit la commune et le service. Après accord du service, il relève ensuite ces éléments.
-
-<sup>4</sup> La commune fait l'avance des frais pour la mise à jour annuelle.
-
-<sup>5</sup> Dans le cadre de la mise à jour des bâtiments, les points limites manquants sont à signaler aux propriétaires concernés et à rétablir à leur demande.
-
-<sup>6</sup> Les travaux de mise à jour sont rétribués sur la base du tarif d'honoraires TH33.
-
-<sup>7</sup> Les travaux qui ne sont pas considérés comme de la mise à jour permanente ne font pas partie du contrat de mise à jour et sont mis en soumission et adjugés selon la législation sur les marchés publics.
-
-<sup>8</sup> Le service peut mettre à disposition des communes ou de tout autre mandant ses compétences professionnelles pour la mise en soumission des travaux.
-
-### Section 4: Exigences et modalités pour les mutations
+<sup>3</sup> La présente ordonnance contient, en annexe, un tarif indicatif pour la mise à jour permanente. Pour chaque mutation, le canton perçoit un émolument calculé sur cette base auprès de l’ingénieur géomètre. Pour le calcul de l’émolument cantonal, l’ingénieur géomètre établit un décompte selon le modèle du tarif indicatif. Ce décompte doit être déposé avec la mutation sur la plateforme informatique centrale.
 
 #### Art. 11
 
-**Compétence**
+**Mise à jour permanente**
 
-<sup>1</sup> Un procès-verbal de mutation doit être établi pour toute modification de limite. En même temps que la livraison du dossier de mutation au mandant, le dossier technique de la mutation est livré au service.
+<sup>1</sup> Les propriétaires et les autorités compétentes, ou toute autre personne impliquée dans la réalisation d‘une tâche qui lui est dévolue sur la base d’une disposition légale, charge un ingénieur géomètre d’effectuer les modifications relatives aux données de la mensuration officielle, soit:
 
-<sup>2</sup> A l'exception des cas prévus dans le droit fédéral, le procès-verbal de mutation doit être établi après la pose des signes de démarcation.
+- a) la mutation des immeubles et des limites de servitudes;
+- b) le rétablissement des signes de démarcation.
 
-<sup>3</sup> Lors d'un premier relevé, d'un renouvellement, d'un remembrement et d'une rectification de limites, d'un remaniement parcellaire ou d'une expropriation, seul l'ingénieur géomètre breveté adjudicataire des travaux est responsable de la mise à jour permanente dans le périmètre concerné.
+<sup>2</sup> La commune est tenue, au moins une fois par année, de mandater un ingénieur géomètre pour la mise à jour des éléments de la mensuration officielle qui sont soumis à une procédure d'autorisation ou de mise à l'enquête officielle, soit:
+
+- a) la mutation de bâtiments;
+- b) la mutation d’objets divers;
+- c) les mutations de limites de natures, si elles ne font pas déjà l’objet d’une expropriation.
+
+<sup>3</sup> La commune avance les frais pour la mise à jour annuelle.
+
+<sup>4</sup> Dans le cadre de la mise à jour des bâtiments, les signes de démarcation manquants sont rétablis d’office après information préalable au propriétaire. S’il s’agit d’une mutation avec matérialisation différée, l’ingénieur géomètre en charge de la mutation est également responsable de la matérialisation.
+
+<sup>5</sup> L’autorité compétente mandate un ingénieur géomètre pour la mise à jour de la mensuration officielle concernant:
+
+- a) la constatation de la nature forestière, défrichement et reboisement;
+- b) les zones de protection (hauts- et bas-marais);
+- c) les périmètres des territoires en mouvements permanents;
+- d) la reconstruction et remise en état des points fixes;
+- e) la modification des limites territoriales.
+
+<sup>6</sup> Le propriétaire d’ouvrage mandate un ingénieur géomètre d’effectuer la mise à jour de la mensuration officielle lors de la construction et de la démolition de conduites soumise à la loi fédérale sur les installations de transport par conduites.
+
+<sup>7</sup> Les éléments de la mensuration officielle pour lesquels un système d'annonce peut être organisé doivent être mis à jour dans les 6 mois à compter de l'annonce par la commune. Les objets situés dans les périmètres des niveaux de tolérance 4 et 5 doivent être mis à jour dans les 12 mois à compter de l'annonce.
 
 #### Art. 12
+
+**Mise à jour lors de travaux en cours dans la mensuration officielle**
+
+<sup>1</sup> Lorsqu’un premier relevé, un renouvellement ordinaire ou technique, ou encore une numérisation préalable est en cours, l’ingénieur géomètre chargé de ces travaux doit être mandaté pour l’exécution de la mise à jour permanente.
+
+<sup>2</sup> Pendant l'exécution d'une mise à jour périodique ou lors d'adaptations particulières qui présentent un intérêt national exceptionnellement élevé, le libre choix de l’ingénieur géomètre est garanti. L’ingénieur géomètre en charge de la mise à jour permanente doit alors coordonner les travaux avec l’ingénieur géomètre chargé de la mise à jour périodique.
+
+#### Art. 13
+
+**Points fixes et points limites territoriaux**
+
+<sup>1</sup> L'ingénieur géomètre doit signaler sans tarder les points fixes et les points limites territoriaux manquants à l'instance de surveillance.
+
+<sup>2</sup> …
+
+<sup>3</sup> L'instance de surveillance coordonne la pose des signes de démarcation des points limites territoriaux.
+
+#### Art. 14
+
+**Objets projetés**
+
+<sup>1</sup> Pour les nouveaux objets projetés, la commune avise l’ingénieur géomètre qui a établi le plan de situation officiel contenu dans le permis de construire en vigueur. L’ingénieur géomètre met à jour sans tarder les données relatives aux objets projetés.
+
+<sup>2</sup> L'instance de surveillance peut donner des instructions à la commune concernant les données nécessaires pour les objets projetés.
+
+#### Art. 15
+
+**Expropriations**
+
+<sup>1</sup> Dans le cas où une expropriation concerne plusieurs immeubles, l'ingénieur géomètre convient de la marche à suivre avec l'instance de surveillance.
+
+#### Art. 16
+
+**…**
+
+#### Art. 16a
+
+**Limites de servitudes**
+
+<sup>1</sup> Les limites de servitudes font partie intégrante de la mensuration officielle pour autant qu'elles puissent être clairement définies sur le terrain.
+
+<sup>2</sup> L'instance de surveillance édicte des prescriptions relatives à la procédure et à la spécification technique des données des limites de servitude.
+
+<sup>3</sup> Les limites de servitudes ressortant des données de la mensuration officielle n'ont pas la foi publique.
+
+#### Art. 16b
+
+**Modèle de géodonnées**
+
+<sup>1</sup> DMAV constitue le modèle de géodonnées de la mensuration officielle qui s’applique pour le territoire cantonal.
+
+## 4 Exigences et modalités relatives aux mutations
+
+#### Art. 17
+
+**Compétence**
+
+<sup>1</sup> Un procès-verbal de mutation doit être établi par un ingénieur géomètre pour toute modification de limites. Parallèlement à la remise du dossier de mutation au mandant, le dossier technique relatif à la mutation doit être déposé auprès de l’instance de surveillance.
+
+<sup>2</sup> A l'exception des cas prévus par le droit fédéral, le procès-verbal de mutation doit être établi après la pose des signes de démarcation.
+
+#### Art. 18
 
 **Documents de mutation**
 
 <sup>1</sup> Le procès-verbal de mutation contient les éléments suivants:
 
-- la page titre
+- a) la page de titre;
+- b) le plan de mutation avec les surfaces partielles;
+- c) le tableau de mutation;
+- d) la description des biens-fonds selon l'ancien état;
+- e) la description des biens-fonds selon le nouvel état.
 
-- le plan de mutation avec les surfaces partielles
+<sup>2</sup> Le dossier technique à l'intention du canton comportera, en sus du procès-verbal de mutation, les levés de terrain ainsi que les calculs y relatifs.
 
-- le tableau de mutation
-
-- la description des biensfonds de l'ancien état avec indication des propriétaires
-
-- la description des biensfonds du nouvel état.
-
-<sup>2</sup> Lors d'une expropriation, le procès-verbal de mutation contient les éléments suivants:
-
-- la page titre
-
-- le plan de mutation avec les surfaces partielles
-
-- le tableau de mutation
-
-- la description des biensfonds de l'ancien état avec indication des propriétaires
-
-- la description des biensfonds du nouvel état avec indication des propriétaires.
-
-<sup>3</sup> Le dossier technique à l'intention du canton comportera, en sus du procès-verbal de mutation, les levés de terrain ainsi que les calculs y relatifs.
-
-#### Art. 13
+#### Art. 19
 
 **Mutation de bureau**
 
-<sup>1</sup> Un procès-verbal de mutation sans abornement ni mensuration préalables ne peut être établi que:
+<sup>1</sup> Un procès-verbal de mutation sans abornement ni mensuration préalable ne peut être établi que si:
 
-- a) si les lieux ne sont pas accessibles pour effectuer ces opérations et s'il n'est pas possible d'éliminer les obstacles sans causer des dégâts importants, ou
+- a) les lieux ne sont pas accessibles pour effectuer ces opérations et s'il n'est pas possible d'éliminer les obstacles sans causer des dégâts importants, ou
+- b) des morcellements importants sont effectués en relation avec un plan d'aménagement de détail dont la réalisation est imminente.
 
-- b) si des morcellements importants sont effectués en relation avec un plan d'aménagement de détail dont la réalisation est imminente.
+<sup>2</sup> L’ingénieur géomètre mandaté indique sur le procès-verbal de mutation que l'abornement et le levé interviendront ultérieurement, que les propriétaires ont eu connaissance de cette situation et qu'ils ont l’obligation d’en informer tout futur acquéreur.
 
-<sup>2</sup> Le géomètre indique sur le procès-verbal de mutation que l'abornement et le levé interviendront ultérieurement et que les propriétaires ont eu connaissance de cette situation et qu'ils s'engagent à en informer tout acquéreur ultérieur.
+<sup>3</sup> Dès que les circonstances le permettent, l’ingénieur géomètre procède d'office à la pose des signes de démarcation.
 
-<sup>3</sup> Dès que les circonstances le permettent, le géomètre procède d'office à la pose des signes de démarcation. La tolérance admise dans ce cas pour la pose des signes de démarcation correspond à la moitié de celle du niveau de tolérance défini dans cette zone.
-
-#### Art. 14
+#### Art. 20
 
 **Mutation de projet**
 
 <sup>1</sup> Un procès-verbal de mutation peut être établi sur la base d'un projet de construction lorsque l'emplacement exact d'une limite doit correspondre aux limites d'une construction projetée.
 
-<sup>2</sup> Le géomètre adjudicataire indique ce fait sur le procès-verbal de mutation et requiert du registre foncier d'opérer une mention en conséquence.
+<sup>2</sup> L’ingénieur géomètre mandaté indique ce fait sur le procès-verbal de mutation. Le registre foncier compétent procède à l’inscription d’une mention y relative. L'implantation de la construction est effectuée sous le contrôle de cet ingénieur géomètre.
 
-<sup>3</sup> L'implantation de la construction est effectuée sous le contrôle du géomètre adjudicataire.
+<sup>3</sup> Si la limite fixée sur le procès-verbal de mutation diffère de la limite du projet de construction, l’ingénieur géomètre mandaté convoque les propriétaires concernés dans le but d’adapter la limite.
 
-<sup>4</sup> Si la limite fixée sur le procès-verbal de mutation s'écarte de la construction dont elle dépend, le géomètre adjudicataire convoque les propriétaires concernés en vue de l'adaptation de la limite.
+<sup>4</sup> En cas d’accord, l’ingénieur géomètre mandaté dresse un procès-verbal de mutation; si aucun accord n’est trouvé, les parties pourront saisir l’autorité compétente en vertu du droit privé.
 
-<sup>5</sup> Si un accord peut être trouvé, le géomètre adjudicataire dresse un procès-verbal de mutation; sinon il renvoie les parties devant la juridiction civile.
+<sup>5</sup> Après l’abornement, l'ingénieur géomètre informe le registre foncier que :
 
-<sup>6</sup> Le géomètre adjudicataire requiert d'office la radiation de la mention lorsque l'emplacement correspond aux limites de la construction et en cas d'accord des propriétaires concernés sur la modification de la limite.
+- a) la mention peut être radiée;
+- b) une mutation de correction doit être effectuée, la mention pouvant être radiée seulement après exécution de cette mutation.
 
-<sup>7</sup> Dès que les circonstances le permettent, le géomètre adjudicataire procède d'office à la pose des signes de démarcation. La tolérance admise dans ce cas correspond à la moitié de celle du niveau de tolérance défini dans cette zone.
-
-#### Art. 15
-
-**Autres mutations**
-
-<sup>1</sup> Le géomètre officiel met à jour au moins une fois par année les éléments de la mensuration officielle soumis à la mise à jour.
-
-<sup>2</sup> Il livre les documents nécessaires au service immédiatement après leur introduction dans son jeu de données.
-
-### Section 5: Coordination des procédures lors d'améliorations
-
-foncières agricoles et de remembrements urbains avec la mensuration officielle
-
-#### Art. 16
-
-**Méthode combinée**
-
-<sup>1</sup> Les améliorations foncières agricoles modifiant la propriété ainsi que les remembrements urbains, s'effectuent selon la méthode combinée avec la mensuration officielle.
-
-<sup>2</sup> Cette méthode combinée signifie que les travaux de remembrement ou de remaniement parcellaire et de mensuration officielle sont réglés dans un même contrat et qu'ils sont exécutés par le même ingénieur géomètre breveté.
-
-<sup>3</sup> Les services concernés par la méthode combinée sont responsables de l'exécution et du contrôle de leurs tâches respectives.
-
-<sup>4</sup> Après le début des travaux mentionnés ci-dessus, seul l'ingénieur géomètre breveté adjudicataire est habilité à exécuter des travaux dans les périmètres concernés.
-
-<sup>5</sup> Le service fixe le périmètre et désigne les documents et les données à transmettre au géomètre officiel.
-
-<sup>6</sup> La transmission des documents et des données suit à l'inscription au registre foncier.
-
-#### Art. 17
-
-**Ancien état**
-
-<sup>1</sup> L'ancien état est dressé sur la base des données de la mensuration officielle existante.
-
-<sup>2</sup> Si la mensuration officielle fait défaut, les données doivent être déterminées selon les directives du service.
-
-#### Art. 18
-
-**Nouvel état**
-
-<sup>1</sup> Pour le report du nouvel état sur le terrain, l'implantation des points est directement contrôlée par un levé. Ce levé doit être documenté en conséquence.
-
-<sup>2</sup> Cette implantation permet de voir quels points peuvent être directement matérialisés à l'endroit prévu et quels points doivent être déplacés. Ensuite, les signes de démarcation sont posés. Ceux-ci doivent être contrôlés par une mensuration appropriée.
-
-<sup>3</sup> Afin que les coordonnées théoriques calculées puissent être reprises, la pose des signes de démarcation doit être comprise dans la moitié des tolérances du niveau de tolérance respectif. Dans ce cas, le contrôle de la pose des signes de démarcation a valeur de deuxième levé. Si un point ne peut pas être implanté à l'endroit voulu, il doit faire l'objet d'un levé contrôlé.
-
-#### Art. 19
-
-**Inscription au registre foncier**
-
-Pour l'inscription du nouvel état au registre foncier,
-
-<sup>1</sup> La mensuration officielle doit être achevée avant l'inscription du nouvel état au registre foncier.
-
-<sup>2</sup> L'inscription au registre foncier sera accompagnée des pièces suivantes:
-
-- a) un plan de situation de l'ancien état avec le périmètre approuvé;
-
-- b) un plan de situation de l'ancien état avec les servitudes et le périmètre approuvé;
-
-- c) un plan de situation du nouvel état avec le périmètre approuvé;
-
-- d) un plan de situation du nouvel état avec les servitudes et le périmètre approuvé;
-
-- e) Servitudes:
-
-- Indication de la nature des servitudes et indication des fonds servants et dominants ;
-
-- Indication des servitudes à radier ou à modifier
-
-- f) la comparaison des parcelles ancien état - nouvel état avec indication du numéro de plan, du numéro de parcelle, de la surface et du numéro de propriétaire;
-
-- g) la description des biens-fonds de l'ancien état;
-
-- h) la description des biens-fonds du nouvel état;
-
-- i) la liste des propriétaires;
-
-- j) le bulletin de propriété.
-
-### Section 6: Collaboration entre la mensuration officielle, le
-
-registre foncier et les autorités fiscales
-
-#### Art. 20
-
-**Collaboration**
-
-<sup>1</sup> Le géomètre officiel, le registre foncier et les autorités fiscales collaborent réciproquement. Ils s'échangent gratuitement les informations nécessaires à leurs tâches.
-
-<sup>2</sup> Les géomètres officiels et les autorités fiscales veillent à ce que la couche d'information biens-fonds corresponde avec celle du registre foncier.
-
-<sup>3</sup> Pour le reste, les relations entre les géomètres officiels et le registre foncier s'établiront conformément aux directives du service responsable de la géomatique et du service responsable des registres fonciers.
-
-<sup>4</sup> Les différends entre les géomètres officiels et le registre foncier sont réglés sans recours par le Conseil d'Etat.
-
-<sup>5</sup> Pour l'inscription d'une mutation, le requérant (notaire ou teneur des registres) doit demander les indications nécessaires concernant les taxes auprès des autorités fiscales compétentes.
-
-### Section 7: Procédure pour la constatation du périmètre des
-
-territoires en mouvement permanent
+## 5 Coordination des procédures avec la mensuration officielle lors d'améliorations foncières agricoles et de remembrements urbains
 
 #### Art. 21
 
-**Principe de délimitation**
+**Méthode combinée**
 
-<sup>1</sup> Les territoires en mouvement permanent visés par la présente ordonnance sont caractérisés par des mouvements de glissement permanent à grande échelle (concernant plusieurs immeubles et plusieurs hectares). Ils se produisent lentement et sur de grandes périodes.
+<sup>1</sup> Dans le cadre d’améliorations foncières agricoles impliquant une modification de limites et de remembrements urbains, la mensuration officielle s’effectue selon la méthode combinée.
 
-<sup>2</sup> Les critères prépondérants pour la désignation de ces territoires sont la couverture du sol, l'utilisation du sol mais aussi la valeur des immeubles concernés.
+<sup>2</sup> Cette méthode combinée implique que les travaux de remembrement ou de remaniement parcellaire et les travaux de mensuration officielle sont réglés dans un même contrat et qu'ils sont exécutés par le même ingénieur géomètre.
 
-<sup>3</sup> Dans la mesure où des territoires improductifs sont touchés par des glissements de terrain permanents, il peut être renoncé, compte tenu de ces critères, à la désignation de ces territoires et à l'établissement d'un périmètre correspondant.
+<sup>3</sup> Les services concernés par la méthode combinée sont responsables de l'exécution et du contrôle de leurs tâches respectives.
 
-<sup>4</sup> Pour le niveau de tolérance 5, il est possible de renoncer pour des raisons de coût à une délimitation de ces territoires.
+<sup>4</sup> Après le début des travaux mentionnés ci-dessus, seul l'ingénieur géomètre mandaté est habilité à exécuter des travaux dans les périmètres concernés.
+
+<sup>5</sup> L’instance de surveillance fixe le périmètre et désigne les documents ainsi que les données à lui transmettre.
+
+<sup>6</sup> La transmission des documents et des données à l’instance de surveillance suit l’inscription au registre foncier.
 
 #### Art. 22
 
-**Critères de délimitation**
+**Ancien état**
 
-Une délimitation de territoires en mouvement permanent est établie si les critères suivants sont remplis:
+<sup>1</sup> L’ancien état est établi sur la base des données de la mensuration officielle existante.
 
-- a) Les glissements dépassent les valeurs indicatives suivantes:
-
-Tolérances de la couche d'information des biens-fonds pour des points exactement définis, conformément à l'art.31 OTEMO NT2: Tolérance =3\*3.5 cm =10.5 cm / 10 ans = env. 1 cm / an NT3: Tolérance =3\*7 cm =21.0 cm / 10 ans = env. 2 cm / an NT4: Tolérance =3\*15 cm =45.0 cm / 10 ans = env. 5 cm / an NT5: En règle générale pas de délimitation b) En général, un laps de temps de 20 ans doit s'écouler entre la mesure 0 et la deuxième mensuration. Des mesures de répétition des points de contrôle peuvent au besoin être exécutées après dix ans.
-
-- c) Le glissement est encore actif et ne s'est pas entièrement immobilisé.
-
-- d) Les vecteurs de glissement sont à peu près parallèles à la ligne de plus grande pente (plausibilité).
-
-- e) Si l'altitude des points fixes et des points de contrôle a été déterminée, celle-ci doit aussi être utilisée dans l'appréciation de la plausibilité des glissements.
-
-- f) Si seules des parties d'une parcelle sont concernées, il faut en général englober toute la parcelle dans la "zone de glissement". L'inscription d'une mention au registre foncier s'opère aussi pour des parcelles entières.
-
-- g) La zone d'écrasement doit être intégrée dans le périmètre.
+<sup>2</sup> Si la mensuration officielle fait défaut, les données doivent être déterminées selon les directives de l’instance de surveillance.
 
 #### Art. 23
 
-**Obligation d'annonce et dépôt public**
+**Nouvel état**
 
-<sup>1</sup> Les communes, les propriétaires et les géomètres ont l'obligation d'annoncer au service les territoires connus en mouvement permanent au sens de l'article 660a de CCS avant d'entreprendre des travaux de mensuration.
+<sup>1</sup> Pour le report du nouvel état sur le terrain, l'implantation des points est directement contrôlée au moyen d’un levé, qui doit être documenté en conséquence.
 
-<sup>2</sup> Sur la base de cette annonce, le Conseil d'Etat attribue un mandat pour la délimitation du périmètre.
+<sup>2</sup> Cette implantation doit permettre de voir quels points peuvent être directement matérialisés à l'endroit prévu et quels points doivent être déplacés. Les signes de démarcation sont ensuite posés. Ceux-ci doivent être contrôlés grâce à une mensuration appropriée.
 
-<sup>3</sup> Une fois le périmètre fixé, il est mis au dépôt public pendant une durée de 30 jours; les propriétaires fonciers concernés en sont informés par publication officielle et par lettre recommandée.
-
-<sup>4</sup> Pendant la durée du dépôt public, ils peuvent former réclamation auprès du Conseil d'Etat.
+<sup>3</sup> Afin que les coordonnées théoriques calculées puissent être reprises, les exigences relatives au niveau de tolérance en vigueur doivent être respectées lors de la pose des signes de démarcation. Le contrôle effectué dans ce contexte a valeur de deuxième levé. Si un point ne peut pas être implanté à l'endroit voulu, il doit faire l'objet d'un levé contrôlé.
 
 #### Art. 24
+
+**Inscription au registre foncier**
+
+<sup>1</sup> La mensuration officielle doit être achevée avant l'inscription du nouvel état au registre foncier.
+
+<sup>2</sup> L’inscription au registre foncier sera accompagnée des pièces suivantes:
+
+- a) extraits de cadastre (pour les communes-cadastre) avec indication de la provenance (par le teneur de cadastre) et état des charges (par le registre foncier);
+- b) un plan de situation de l’ancien état avec le périmètre approuvé;
+- c) un plan de situation de l'ancien état comprenant les servitudes inscrites au registre foncier avant le remaniement du périmètre approuvé;
+- d) un plan de situation du nouvel état du périmètre approuvé;
+- e) un plan de situation du nouvel état avec l’assiette des servitudes maintenues, modifiées et/ou constituées du périmètre approuvé;
+- f) les servitudes avec:
+  - 1\. l’indication de leur nature ainsi que des fonds servants et dominants,
+  - 2\. l’indication si elles sont à radier ou à modifier;
+- g) la comparaison ancien état - nouvel état avec l’indication du numéro de plan, du numéro de l’immeuble, de la surface et du numéro de propriétaire;
+- h) la description des immeubles selon l'ancien état;
+- i) la description des immeubles selon le nouvel état, avec l’indication des propriétaires;
+- j) le bulletin de propriété.
+
+## 6 Collaboration entre la mensuration officielle, le registre foncier et les autorités fiscales
+
+#### Art. 25
+
+**Collaboration**
+
+<sup>1</sup> L’ingénieur géomètre, le registre foncier concerné et les autorités fiscales collaborent pour les travaux de la mensuration officielle. Ils s'échangent gratuitement les informations nécessaires à l’accomplissement de leurs tâches respectives.
+
+<sup>2</sup> L’instance de surveillance veille, avec l'aide des autorités fiscales, à ce que la couche d'information "biens-fonds" corresponde avec celle du registre foncier.
+
+<sup>3</sup> Pour le reste, les relations entre les ingénieurs géomètres et le registre foncier s'établiront conformément aux directives de l’autorité cantonale compétente.
+
+<sup>4</sup> Les différends entre les ingénieurs géomètres, le registre foncier et l’instance de surveillance sont réglés par le Conseil d'Etat hors procédure de recours.
+
+<sup>5</sup> Pour l'inscription d'une mutation, le requérant (notaire, teneur de registre ou particulier) doit demander les indications nécessaires concernant les taxes auprès des autorités fiscales compétentes.
+
+## 7 Procédure pour la constatation du périmètre des territoires en mouvement permanent
+
+#### Art. 26
+
+**Principe de délimitation**
+
+<sup>1</sup> Les territoires en mouvement permanent visés par la présente ordonnance sont caractérisés par des mouvements de glissement permanent à grande échelle (plusieurs immeubles et plusieurs hectares concernés). Ils se produisent lentement et sur de grandes périodes.
+
+<sup>2</sup> Les critères prépondérants pour la désignation de ces territoires sont la couverture du sol, l'utilisation du sol, mais aussi la valeur des immeubles concernés.
+
+<sup>3</sup> Dans la mesure où des territoires improductifs sont touchés par des glissements de terrain permanents, il peut être renoncé, compte tenu de ces critères, à leur désignation et à l'établissement d'un périmètre correspondant.
+
+<sup>4</sup> En ce qui concerne le niveau de tolérance 5, il est possible de renoncer pour des raisons de coût à une délimitation de ces territoires.
+
+#### Art. 27
+
+**Critères de délimitation**
+
+<sup>1</sup> Une délimitation de territoires en mouvement permanent est établie si les critères suivants sont remplis:
+
+- a) les glissements dépassent les valeurs indicatives suivantes: tolérances de la couche d'information des biens-fonds pour des points exactement définis:
+  - NT2 Tolérance =3\*3.5 cm =10.5 cm / 10 ans = env. 1cm / an
+  - NT3 Tolérance =3\*7 cm =21.0 cm / 10 ans = env. 2 cm / an
+  - NT4 Tolérance =3\*15 cm =45.0 cm / 10 ans = env. 5 cm / an
+  - NT5 En règle générale pas de délimitation
+- b) en général, un laps de temps de vingt ans doit s'écouler entre la mesure 0 et la deuxième mensuration. Des mesures de répétition des points de contrôle peuvent au besoin être exécutées après dix ans;
+- c) le glissement est encore actif et ne s'est pas entièrement immobilisé;
+- d) les vecteurs de glissement sont plus ou moins parallèles à la ligne de plus grande pente (plausibilité);
+- e) si l'altitude des points fixes et des points de contrôle a été déterminée, celle-ci doit aussi être utilisée dans l'appréciation de la plausibilité des glissements;
+- f) si seules certaines parties d'un immeuble sont concernées, il faut en général englober tout l’immeuble dans la "zone de glissement". L'inscription d'une mention au registre foncier s'opère également pour l’entier de l’immeuble;
+- g) la zone d'écrasement doit être intégrée dans le périmètre.
+
+#### Art. 28
+
+**Obligation d'annoncer et dépôt public**
+
+<sup>1</sup> Les communes, les propriétaires et les ingénieurs géomètres ont l'obligation d'annoncer à l’instance de surveillance les territoires en mouvement permanent au sens de l'article 660a CC dont ils ont connaissance, avant d'entreprendre des travaux de mensuration.
+
+<sup>2</sup> Une fois le périmètre fixé, celui-ci est mis en dépôt public pendant une durée de trente jours; les propriétaires fonciers concernés en sont informés par publication officielle et par courrier.
+
+<sup>3</sup> Pendant la durée du dépôt public, ils peuvent former une réclamation écrite auprès du Conseil d'Etat.
+
+#### Art. 29
 
 **Indications du périmètre**
 
 <sup>1</sup> Le plan du périmètre "territoire en mouvement permanent" contient les informations suivantes:
 
-- a) limites des parcelles et numéro des parcelles;
-
-- b) couverture du sol;
-
-- c) délimitation à la parcelle près de la zone de glissement;
-
-- d) indication du nord, de l'échelle;
-
-- e) titre avec nom de la commune et de la zone de glissement, date, signature du géomètre;
-
-- f) nomenclature;
-
-- g) éventuellement courbes de niveau;
-
-- h) éventuellement la répartition des zones.
+- a) la limite et le numéro des immeubles;
+- b) la couverture du sol;
+- c) la délimitation de l’immeuble près de la zone de glissement;
+- d) l’indication du nord et de l'échelle;
+- e) le titre avec le nom de la commune et de la zone de glissement, la date, la signature du géomètre;
+- f) la nomenclature;
+- g) éventuellement, les courbes de niveau;
+- h) éventuellement, la répartition des zones.
 
 <sup>2</sup> Les documents suivants accompagnent le plan du périmètre:
 
-- a) plan avec les vecteurs de glissement annuel, indication de la date de la mesure zéro et de la date de la mesure suivante;
+- a) la liste des surfaces des anciens et nouveaux immeubles, si elle existe;
+- b) la liste des propriétaires (liste faisant apparaître les immeubles avec leurs propriétaires respectifs);
+- c) le rapport technique (la raison de la délimitation, la procédure, l’éventuelle participation d'experts);
+- d) l’expertise géologique (à défaut il y a lieu de se référer à la carte de danger);
+- e) les documents concernant la procédure d'autorisation;
+- f) le support de données avec l'ancien état et la deuxième mensuration, s’il existe.
 
-- b) liste des surfaces des parcelles ancien – nouveau, si existante;
-
-- c) liste des propriétaires (liste faisant apparaître les parcelles avec leurs propriétaires respectifs);
-
-- d) rapport technique (raison de la délimitation, procédure, éventuelle participation d'experts);
-
-- e) expertise géologique (à défaut se référer à la carte de danger);
-
-- f) documents concernant la procédure d'autorisation;
-
-- g) support de données avec l'ancien état et la deuxième mensuration, si existant.
-
-#### Art. 25
+#### Art. 30
 
 **Approbation du plan du périmètre**
 
-<sup>1</sup> Lorsque les procédures de réclamation et de recours sont terminées, le conseil d'Etat approuve le plan du périmètre.
+<sup>1</sup> Lorsque les procédures de réclamation et de recours sont terminées, le Conseil d'Etat approuve le plan du périmètre.
 
-<sup>2</sup> Cette décision est publiée au Bulletin officiel et une mention est inscrite au registre foncier pour les biens-fonds concernés. Les propriétaires fonciers en sont informés par lettre recommandée du service.
+<sup>2</sup> Cette décision est publiée au bulletin officiel et une mention est inscrite au registre foncier pour les immeubles concernés sur réquisition de l’instance de surveillance.
 
-#### Art. 26
+#### Art. 31
 
 **Frais de procédure**
 
-Les frais de la procédure de délimitation sont à la charge du canton.
+<sup>1</sup> Les frais de la procédure de délimitation sont à la charge du canton.
 
-#### Art. 27
+#### Art. 32
 
 **Immobilisation du territoire en mouvement permanent**
 
-Si, un territoire en mouvement permanent est définitivement stabilisé et si cet état est confirmé par des campagnes de mesures périodiques, le Conseil d'Etat peut ordonner la suppression de la mention au registre foncier.
+<sup>1</sup> Si un territoire en mouvement permanent est définitivement stabilisé et si cet état est confirmé par des campagnes de mesures périodiques, le Conseil d'Etat peut ordonner la suppression de la mention au registre foncier.
 
-### Section 8: Dispositions finales
+## 8 Diffusion des données et émoluments
 
-#### Art. 28
+#### Art. 33
 
-**Entrée en vigueur**
+**Données et extraits de la mensuration officielle**
 
-L'ordonnance entre en vigueur avec publication au Bulletin officiel en même temps que la loi sur la mensuration officielle et l'information géographique.
+<sup>1</sup> Les données et les extraits de la mensuration officielle peuvent être obtenus gratuitement sous forme électronique auprès du canton.
 
-Ainsi adopté en Conseil d'Etat à Sion, le 29 juin 2006.
+#### Art. 34
 
-Le président du Conseil d'Etat: Thomas Burgener Le chancelier d'Etat: Henri v. Roten
+**Extraits certifiés conformes**
+
+<sup>1</sup> …
+
+<sup>2</sup> …
+
+<sup>3</sup> L'ingénieur géomètre inscrit au registre fédéral des ingénieurs géomètres, actif en Valais et auquel l'accès à la plateforme informatique centrale a été accordé, est habilité à signer des actes de mutation et à certifier des extraits.
+
+<sup>4</sup> Il facture le temps consacré à l'élaboration de l'extrait et le prix pour le certificat.
+
+<sup>5</sup> Le prix pour le certificat de conformité de l'extrait s’élève à 50 francs.
+
+#### Art. 35
+
+**Emolument pour l’infrastructure de mise à jour du canton**
+
+<sup>1</sup> L'ingénieur géomètre qui se raccorde à l'infrastructure de la mise à jour est dans l'obligation de verser l'émolument forfaitaire annuel ainsi que l'émolument par mutation.
+
+<sup>2</sup> Un ingénieur géomètre peut disposer d'un ou de plusieurs raccordements à l'infrastructure de mise à jour.
+
+<sup>3</sup> Pour l’utilisation d’une licence flottante, l’émolument forfaitaire annuel pour la première connexion s’élève à 5'000 francs. Chaque connexion supplémentaire sera facturée 4'000 francs.
+
+<sup>4</sup> Si l’accès est accordé exclusivement à un ingénieur géomètre (licence fixe), un contrat d’une durée minimale de trois ans est conclu. L’émolument annuel s’élève à 20'000 francs. A l’issue de la période contractuelle, le coût de l’émolument annuel de renouvellement est fixé à 10'000 francs.
+
+<sup>5</sup> Pour les mutations effectuées sur la plateforme informatique centrale et dont les coûts estimés selon le tarif indicatif dépassent 400 francs, l’émolument perçu par le canton s’élève à 40 francs par mutation.
+
+## 9 Dispositions finales
+
+#### Art. 36
+
+**Abrogation et modification du droit en vigueur**
+
+<sup>1</sup> Le tarif des émoluments selon l'article 11 de l'ordonnance cantonale sur l’information géographique n'est plus applicable pour la mensuration officielle.
+
+<sup>2</sup> L’ordonnance sur la mensuration officielle du 29 juin 2006 est abrogée.
+
+#### Art. 37
+
+**Libéralisation de la mensuration officielle**
+
+<sup>1</sup> La libéralisation de la mensuration officielle rentre en vigueur au 1<sup>er</sup> avril 2018.
+
+<sup>2</sup> La plateforme informatique centrale est en fonction. Les contrats de mise à jour en cours mentionnés à l’article T1-1, alinéas 1 et 2 de la loi sur la mensuration officielle seront résiliés au 31 mars 2018.
+
+<sup>3</sup> Tous les lots reconnus au standard MO93 doivent être livrés à l’autorité de surveillance au plus tard à l’entrée en vigueur de l’ordonnance, afin qu’ils puissent être intégrés sur la plateforme informatique centrale.
+
+<sup>4</sup> Pour tous les lots non reconnus au standard MO93 et dont le délai de livraison est échu, l’autorité de surveillance fixe la date limite de livraison pour la vérification, en principe au plus tard 4 mois après l’entrée en vigueur de l’ordonnance. Cet alinéa ne s’applique pas aux lots concernant l’adressage des bâtiments.
+
+<sup>5</sup> Après l’entrée en vigueur de l’ordonnance, toutes les nouvelles mutations établies dans les secteurs reconnus au standard MO93 ne sont valables que si elles sont établies sur la plateforme informatique centrale.
+
+## T1 Disposition transitoire de la modification du 18 juin 2025
+
+#### Art. T1-1
+
+<sup>1</sup> Le passage au modèle de géodonnées de la mensuration officielle au sens de l’article 16b intervient au plus tard le 31 décembre 2027 pour l’ensemble du territoire cantonal.
+
+<sup>2</sup> L'instance de surveillance peut, pour des justes motifs, demander aux ingénieurs géomètres des données conformément au modèle DMAV avant le 31 décembre 2027.
+
+RCV BO/Abl. 11/2018
