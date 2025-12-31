@@ -4,13 +4,12 @@ number: "543.111"
 title: Ausführungsbestimmungen über den Zivilschutz
 short: AB ZSG
 language: de
-version: 2021-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-11-24
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2004-12-07
 in_force: 2005-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/543.111"
-pdf: "http://gdb.ow.ch/api/de/versions/1625/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1625/pdf_file"
 
 (AB ZSG)
 
-vom 07.12.2004 (Stand 01.01.2021)
+vom 07.12.2004 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -58,8 +57,8 @@ beschliesst:
 - d. genehmigt die von der Dienststelle Zivilschutz erlassenen Weisungen (Art. 3 Abs. 2 Bst. g dieser Ausführungsbestimmungen);
 - e. stellt dem Sicherheits- und Sozialdepartement Antrag zu Begehren um Einsätze zu Gunsten der Gemeinschaft (Art. 11 dieser Ausführungsbestimmungen);
 - f. erlässt Verwarnungen nach Art. 68 Abs. 5 des Bundesgesetzes über den Bevölkerungsschutz und den Zivilschutz[^2-1];
-- g. entscheidet über die Anordnung von Schutzräumen bei weniger als 38 Zimmern nach Art. 17 Abs. 6 der Verordnung über den Zivilschutz (ZSV)[^2-2];
-- h. legt ein oder mehrere Beurteilungsgebiete nach Art. 20 Abs. 2 ZSV fest;
+- g. entscheidet über die Anordnung von Schutzräumen bei weniger als 38 Zimmern nach Art. 74 Abs. 1 der Verordnung über den Zivilschutz (ZSV)[^2-2];
+- h. legt ein oder mehrere Beurteilungsgebiete nach Art. 74 Abs. 3 ZSV fest;
 - i. entscheidet über die Erneuerung privater Schutzräume.
 
 [^2-1]: SR [520.1](https://db.clex.ch/link/Bund/520.1/de)
@@ -269,7 +268,7 @@ beschliesst:
 
 **Erstellung**
 
-<sup>1</sup> Der Regierungsrat bestimmt nach Absprache mit den Einwohnergemeinden den Standort von Schutzanlagen (Art. 4 Abs. 2 Bst. b ZSG).
+<sup>1</sup> Der Regierungsrat bestimmt nach Absprache mit den Einwohnergemeinden den Standort von Schutzanlagen (Art. 68 BZG, Art. 95 ZSV).
 
 <sup>2</sup> Die Dienststelle Zivilschutz bestimmt das Verfahren. Sie holt die Baubewilligung ein und kontrolliert den Bauablauf. Das Sicherheits- und Sozialdepartement als ausführendes Organ des Bundes kann den Bau von Schutzanlagen an Dritte vergeben.
 
@@ -357,62 +356,11 @@ beschliesst:
 
 **Ersatzbeiträge**
 
-<sup>1</sup> Die von den Hauseigentümern und Hauseigentümerinnen zu leistenden Ersatzbeiträge gemäss nachfolgender Auflistung[^31-1] sowie die aufgelaufenen Ersatzbeiträge der Gemeinden gemäss Art. 16 ZSG werden von der Dienststelle Zivilschutz eingezogen und verwaltet.
-
-<table>
-<tr><th>Anzahl Pflicht-Schutzplätze</th><th>Preis pro Schutzplatz</th><th>Totalbetrag in Fr.</th></tr>
-<tr><td>1</td><td>800.–</td><td>800.–</td></tr>
-<tr><td>2</td><td>800.–</td><td>1 600.–</td></tr>
-<tr><td>3</td><td>800.–</td><td>2 400.–</td></tr>
-<tr><td>4</td><td>800.–</td><td>3 200.–</td></tr>
-<tr><td>5</td><td>800.–</td><td>4 000.–</td></tr>
-<tr><td>6</td><td>800.–</td><td>4 800.–</td></tr>
-<tr><td>7</td><td>800.–</td><td>5 600.–</td></tr>
-<tr><td>8</td><td>800.–</td><td>6 400.–</td></tr>
-<tr><td>9</td><td>750.–</td><td>6 750.–</td></tr>
-<tr><td>10</td><td>695.–</td><td>6 950.–</td></tr>
-<tr><td>11</td><td>640.–</td><td>7 040.–</td></tr>
-<tr><td>12</td><td>620.–</td><td>7 440.–</td></tr>
-<tr><td>13</td><td>600.–</td><td>7 800.–</td></tr>
-<tr><td>14</td><td>600.–</td><td>8 400.–</td></tr>
-<tr><td>15</td><td>610.–</td><td>9 150.–</td></tr>
-<tr><td>16</td><td>595.–</td><td>9 520.–</td></tr>
-<tr><td>17</td><td>580.–</td><td>9 860.–</td></tr>
-<tr><td>18</td><td>565.–</td><td>10 170.–</td></tr>
-<tr><td>19</td><td>555.–</td><td>10 545.–</td></tr>
-<tr><td>20</td><td>545.–</td><td>10 900.–</td></tr>
-<tr><td>21</td><td>530.–</td><td>11 130.–</td></tr>
-<tr><td>22</td><td>510.–</td><td>11 220.–</td></tr>
-<tr><td>23</td><td>495.–</td><td>11 385.–</td></tr>
-<tr><td>24</td><td>485.–</td><td>11 640.–</td></tr>
-<tr><td>25</td><td>480.–</td><td>12 000.–</td></tr>
-<tr><td>26</td><td>475.–</td><td>12 350.–</td></tr>
-<tr><td>27</td><td>475.–</td><td>12 825.–</td></tr>
-<tr><td>28</td><td>470.–</td><td>13 160.–</td></tr>
-<tr><td>29</td><td>460.–</td><td>13 340.–</td></tr>
-<tr><td>30</td><td>455.–</td><td>13 650.–</td></tr>
-<tr><td>31</td><td>475.–</td><td>14 725.–</td></tr>
-<tr><td>32</td><td>475.–</td><td>15 200.–</td></tr>
-<tr><td>33</td><td>470.–</td><td>15 510.–</td></tr>
-<tr><td>34</td><td>460.–</td><td>15 640.–</td></tr>
-<tr><td>35</td><td>455.–</td><td>15 925.–</td></tr>
-<tr><td>36</td><td>450.–</td><td>16 200.–</td></tr>
-<tr><td>37</td><td>440.–</td><td>16 280.–</td></tr>
-<tr><td>38</td><td>440.–</td><td>16 720.–</td></tr>
-<tr><td>39</td><td>430.–</td><td>16 770.–</td></tr>
-<tr><td>40</td><td>425.–</td><td>17 000.–</td></tr>
-<tr><td>41</td><td>415.–</td><td>17 015.–</td></tr>
-<tr><td>42</td><td>415.–</td><td>17 430.–</td></tr>
-<tr><td>43</td><td>405.–</td><td>17 415.–</td></tr>
-<tr><td>44</td><td>405.–</td><td>17 820.–</td></tr>
-<tr><td>ab 45</td><td>400.–</td><td></td></tr>
-</table>
+<sup>1</sup> Die von den Hauseigentümern und Hauseigentümerinnen zu leistenden Ersatzbeiträge gemäss Art. 75 Abs. 2 ZSV werden von der Dienststelle Zivilschutz eingezogen und verwaltet.
 
 <sup>2</sup> Der Kanton stellt die Finanzierung der öffentlichen Schutzräume langfristig über Ersatzbeiträge sicher. Dafür wird eine Rückstellung von mindestens Fr. 500 000.– gebildet, welche ohne Zustimmung des Regierungsrates nicht unterschritten werden darf.
 
 <sup>3</sup> Die Verwendung von Ersatzbeiträgen für weitere Zivilschutzmassnahmen wird im Rahmen des Staatsvoranschlags festgelegt.
-
-[^31-1]: Die ursprünglich in einem Anhang aufgelisteten Ersatzbeiträge werden aus technischen Gründen bei Art. 31 Abs. 1 aufgeführt; die Änderungshinweise zu Abs. 1 beziehen sich auf die Liste der Ersatzbeiträge
 
 #### Art. 32
 
@@ -458,6 +406,8 @@ geändert durch
 
 \- Nachtrag zu den Ausführungsbestimmungen über den Bevölkerungsschutz vom 8. November 2016, in Kraft seit 1. Mai 2017 (OGS 2016, 63),
 
-\- Nachtrag vom 24. November 2020, in Kraft seit 1. Januar 2020 (OGS 2020, 49)
+\- Nachtrag vom 24. November 2020, in Kraft seit 1. Januar 2020 (OGS 2020, 49),
+
+\- Nachtrag vom 25. November 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 21)
 
 OGS 2004, 85
