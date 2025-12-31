@@ -4,13 +4,12 @@ number: "548"
 title: Gesetz über die Erhebung einer Gasttaxe
 short: Gasttaxengesetz
 language: de
-version: 2014-01-01
-valid_until: 2025-12-31
-version_adopted: 2012-11-29
+version: 2026-01-01
+version_adopted: 2025-06-10
 adopted: 2012-11-29
 in_force: 2014-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/548"
-pdf: "https://bl.clex.ch/api/de/versions/4278/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4279/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4278/pdf_file"
 
 (Gasttaxengesetz)
 
-Vom 29.11.2012 (Stand 01.01.2014)
+Vom 29.11.2012 (Stand 01.01.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -67,7 +66,9 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Gasttaxe beträgt pro Logiernacht CHF 3.50.
 
-<sup>2</sup> Der Regierungsrat wird beauftragt, den Betrag der Gasttaxe periodisch der Teuerung anzupassen.
+<sup>2</sup> Der Regierungsrat wird beauftragt, den Betrag der Gasttaxe periodisch der Teuerung anzupassen.[^4-1]
+
+[^4-1]: Vom Regierungsrat am 10. Juni 2025 mit RRB Nr. 2025-847 auf CHF 3.80 pro Person und Nacht erhöht mit Inkrafttreten per 1. Januar 2026.
 
 #### § 5
 
