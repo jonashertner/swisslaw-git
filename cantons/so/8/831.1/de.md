@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-25
+version: 2026-01-01
+valid_until: 2026-08-31
+version_adopted: 2025-09-03
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5496/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5593/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5496/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.01.2025)
+Vom 31.01.2007 (Stand 01.01.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -1528,9 +1528,9 @@ beschliesst:
 
 **Inkasso in Bevorschussungsfällen**
 
-<sup>1</sup> Die Bevorschussungs- und Inkassostelle treibt die bevorschussten Unterhaltsbeiträge beim Unterhaltsschuldner oder der Unterhaltsschuldnerin ein.
+<sup>1</sup> Die zuständige Fachstelle gemäss § 104 Absatz 1<sup>bis</sup> treibt die bevorschussten Unterhaltsbeiträge beim Unterhaltsschuldner oder der Unterhaltsschuldnerin ein.
 
-<sup>2</sup> Die Bevorschussungs- und Inkassostelle schöpft alle rechtlichen Möglichkeiten aus und erwirkt Zahlungen, indem sie insbesondere:
+<sup>2</sup> Sie schöpft alle rechtlichen Möglichkeiten aus und erwirkt Zahlungen, indem sie insbesondere:
 
 - a) Rechtshandlungen nach dem Bundesgesetz über die Schuldbetreibung und den Konkurs[^99-1] vornimmt;
 - b) Lohnzessionen und Direktzahlungen geltend macht;
@@ -1550,33 +1550,55 @@ beschliesst:
 
 **Ziel und Zweck**
 
-<sup>1</sup> Die Inkassohilfe bezweckt, den Unterhaltsanspruch des Kindes und den Unterhaltsanspruch geschiedener Ehegatten zu vollstrecken.
+<sup>1</sup> Die Inkassohilfe bezweckt, Unterhaltsansprüche gemäss dem Kindesrecht, dem Ehe- und Scheidungsrecht nach dem ZGB[^100-1] sowie dem Bundesgesetz über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz, PartG) vom 18. Juni 2004[^100-2] zu vollstrecken.
+
+[^100-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+[^100-2]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de).
+
+#### § 100bis
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die Inkassohilfe richtet sich nach den Vorschriften der Verordnung über die Inkassohilfe bei familienrechtlichen Unterhaltsansprüchen (InkHV) vom 6. Dezember 2019[^100bis-1]. Ergänzend kommen die nachfolgenden Bestimmungen zur Anwendung.
+
+[^100bis-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de).
 
 #### § 101
 
-**Inkassoaufträge**
+**Gegenstand**
 
-<sup>1</sup> Auf Gesuch hin führt die Bevorschussungs- und Inkassostelle in geeigneter Weise auch das Inkasso nicht bevorschusster Kinderalimente und anderer nicht einbringbarer Unterhaltsbeiträge in der Schweiz, die einer unterhaltsberechtigten Person persönlich zustehen.
+<sup>1</sup> Gegenstand der Inkassohilfe bilden Unterhaltsansprüche gemäss dem Kindesrecht, dem Ehe- und Scheidungsrecht nach dem ZGB[^101-1] sowie dem PartG[^101-2] nach Artikel 3 Absätze 1-3 InkHV[^101-3] sowie Ansprüche auf besondere Beiträge für nicht vorhergesehene ausserordentliche Bedürfnisse des Kindes gemäss Artikel 286 Absatz 3 ZGB[^101-4] und Ansprüche der unverheirateten Mutter gemäss Artikel 295 ZGB.
 
-<sup>2</sup> Die Bevorschussungs- und Inkassostelle bearbeitet auch Gesuche vom und ins Ausland. Der Regierungsrat bestimmt die kantonale Verbindungsstelle.
+<sup>2</sup> Die zuständige Fachstelle bearbeitet auch Gesuche bei grenzüberschreitenden Verhältnissen.
+
+[^101-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
+[^101-2]: SR [211.231](https://db.clex.ch/link/Bund/211.231/de).
+[^101-3]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de).
+[^101-4]: SR [210](https://db.clex.ch/link/Bund/210/de).
 
 #### § 102
 
 **Kostentragung**
 
-<sup>1</sup> Die mit dem Inkassoauftrag zusammenhängenden Vollstreckungs- und Verfahrenskosten werden von der unterhaltsberechtigten Person getragen.
+<sup>1</sup> …
 
-<sup>2</sup> Bei Erwachsenenalimenten wird zur Deckung des Verwaltungsaufwandes eine Gebühr von 4% des Inkassoerfolges erhoben. In Härtefällen und aus Billigkeitsgründen kann die Gebühr erlassen werden.
+<sup>2</sup> …
 
-<sup>3</sup> Die Inkassohilfe für Kinderunterhaltsbeiträge erfolgt unentgeltlich.
+<sup>3</sup> Die Leistungen der zuständigen Fachstelle zur Inkassohilfe für Unterhaltsbeiträge für Kinder sind unentgeltlich.
+
+<sup>4</sup> Die Leistungen der zuständigen Fachstelle zur Inkassohilfe für Unterhaltsbeiträge für andere berechtigte Personen sind in der Regel unentgeltlich. Verfügt die berechtigte Person über die erforderlichen Mittel, hat sie sich an den Kosten der Leistungen der zuständigen Fachstelle zu beteiligen.
+
+<sup>5</sup> Die Kosten für Leistungen Dritter, namentlich Betreibungs-, Verfahrens- und Übersetzungskosten, werden vom Gemeinwesen bevorschusst und sind von der verpflichteten Person zu tragen. Können sie von dieser nicht erhältlich gemacht werden, sind sie der berechtigten Person aufzuerlegen, wenn diese über die erforderlichen Mittel verfügt.
+
+<sup>6</sup> Der Regierungsrat bestimmt die massgebenden finanziellen Verhältnisse, bei welchen die berechtigte Person über die erforderlichen Mittel verfügt, und den Umfang der Kostenbeteiligung gemäss Absatz 4 in einer Verordnung.
+
+<sup>7</sup> In Bezug auf die Kosten der Inkassohilfe für familienrechtliche Ansprüche gemäss Artikel 286 Absatz 3 und Artikel 295 ZGB[^102-1] sind die Absätze 4 und 5 dieser Bestimmung sinngemäss anwendbar.
+
+[^102-1]: SR [210](https://db.clex.ch/link/Bund/210/de).
 
 #### § 103
 
-**Einstellung des Inkassoauftrages**
-
-<sup>1</sup> Der Inkassoauftrag wird eingestellt bei Rückzug des Inkassoauftrags und bei objektiver Uneinbringlichkeit, in jedem Fall aber ein Jahr nach Eingang der letzten Zahlung.
-
-<sup>2</sup> Ein allfälliger Verlustschein wird der unterhaltsberechtigten Person ausgehändigt, sobald die Betreibungskosten gedeckt sind.
+**…**
 
 #### § 104
 
@@ -1584,7 +1606,11 @@ beschliesst:
 
 <sup>1</sup> Der Kanton gewährt im Namen der Einwohnergemeinden die Hilfeleistung.
 
-<sup>2</sup> Die mit der Hilfeleistung beauftragte kantonale Stelle hört die kommunalen oder regionalen Sozialorgane an.
+<sup>1<sup>bis</sup></sup> Der Regierungsrat bezeichnet die für die Inkassohilfe zuständige Fachstelle gemäss Artikel 2 Absatz 2 InkHV[^104-1] sowie die fachlichen Anforderungen an deren Mitarbeitende in einer Verordnung.
+
+<sup>2</sup> Die mit der Hilfeleistung beauftragte Fachstelle hört die kommunalen oder regionalen Sozialorgane an.
+
+[^104-1]: SR [211.214.32](https://db.clex.ch/link/Bund/211.214.32/de).
 
 ## 4. Unterstützung und Hilfe in Lebens- und Problemlagen
 
@@ -1788,13 +1814,7 @@ beschliesst:
 
 #### § 118
 
-**Kanton**
-
-<sup>1</sup> Der Kanton führt eine Koordinationsstelle mit dem Ziel
-
-- a) Gemeinden, öffentliche und private Institutionen fachlich zu beraten;
-- b) Institutionen und Aktivitäten von älteren Menschen zu unterstützen;
-- c) Projekte zum Alter, zur Alterskultur und -partizipation zu begleiten und zu fördern.
+**…**
 
 #### § 119
 
@@ -2308,6 +2328,8 @@ beschliesst:
 
 - a) ein Arzt oder eine Ärztin den Tod festgestellt hat;
 - b) nach dem Hinschied mindestens 48 Stunden verstrichen sind.
+
+<sup>2<sup>bis</sup></sup> Eine würdige Bestattung wird auch bei Totgeburten und Fehlgeburten gewährleistet.
 
 <sup>3</sup> Eine Exhumierung erdbestatteter Personen ist von einem Organ der Einwohnergemeinde zu bewilligen.
 
