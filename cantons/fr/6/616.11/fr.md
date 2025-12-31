@@ -4,13 +4,12 @@ number: "616.11"
 title: Règlement sur les subventions
 short: RSub
 language: fr
-version: 2018-07-01
-valid_until: 2025-12-31
-version_adopted: 2018-06-05
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2000-08-22
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/616.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5910/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8646/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Subventions – R
 
 (RSub)
 
-du 22.08.2000 (version entrée en vigueur le 01.07.2018)
+du 22.08.2000 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -35,13 +34,16 @@ Arrête:
 
 #### Art. 1
 
-**Bénéficiaire extérieur à l'administration (art. 2 LSub)**
+**Bénéficiaire extérieur à l'administration (art. 2 LSub[^1-1])**
 
-<sup>1</sup> Les établissements visés par l'article 2 al. 1 et 2 de la loi du 25 novembre 1994 sur les finances de l'Etat ne sont pas considérés comme étant extérieurs à l'administration cantonale.
+<sup>1</sup> Les établissements visés par l'article 2 al. 1 et 2 de la loi du 25 novembre 1994 sur les finances de l'Etat[^1-2] ne sont pas considérés comme étant extérieurs à l'administration cantonale.
+
+[^1-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+[^1-2]: RSF [610.1](https://bdlf.fr.ch/data/610.1/fr)
 
 #### Art. 2
 
-**Contributions financées exclusivement par des tiers (art. 6 let. a LSub)**
+**Contributions financées exclusivement par des tiers (art. 6 let. a LSub[^2-1])**
 
 <sup>1</sup> Les contributions financées exclusivement par des tiers sont notamment les suivantes:
 
@@ -53,45 +55,59 @@ Arrête:
 - f) les contributions financées par le fonds de la faune, hormis celles qui sont couvertes par les apports budgétaires;
 - g) les contributions financées par le Fonds de la plus-value.
 
+[^2-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 3
 
-**Participation imposée par le droit fédéral (art. 6 let. b LSub)**
+**Participation imposée par le droit fédéral (art. 6 let. b LSub[^3-1])**
 
 <sup>1</sup> Une contribution prévue par le droit fédéral est considérée comme une participation imposée lorsque l'Etat ne dispose d'aucune liberté d'appréciation quant aux modalités d'octroi et à la détermination des montants.
+
+[^3-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
 
 ## 2 Inventaire des subventions
 
 #### Art. 4
 
-**Inventaire des subventions (art. 7 LSub)**
+**Inventaire des subventions (art. 7 LSub[^4-1])**
 
 <sup>1</sup> L'inventaire des subventions figure dans l'annexe 1 du présent règlement et est adapté régulièrement à l'évolution de la législation.
+
+[^4-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
 
 ## 3 Principes applicables en matière de législation
 
 #### Art. 5
 
-**Conformité des projets de textes (art. 8 LSub)**
+**Conformité des projets de textes (art. 8 LSub[^5-1])**
 
-<sup>1</sup> La Direction compétente examine, en collaboration avec la Direction des finances et à l'intention du Conseil d'Etat, la conformité des projets de textes normatifs concernant les subventions avec les principes fixés dans la loi sur les subventions (ci-après: la loi) et dans le présent règlement.
+<sup>1</sup> La Direction compétente examine, en collaboration avec la Direction des finances et à l'intention du Conseil d'Etat, la conformité des projets de textes normatifs concernant les subventions avec les principes fixés dans la loi sur les subventions[^5-2] (ci-après: la loi) et dans le présent règlement.
 
 <sup>2</sup> Les projets d'actes remis pour adoption ainsi que les textes accompagnant une demande de mise en consultation sont soumis à l'Administration des finances au moins dix jours avant la date limite d'inscription à l'ordre du jour du Conseil d'Etat.
 
+[^5-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+[^5-2]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 6
 
-**Aides financières instituées par le Conseil d'Etat (art. 9 al. 2 LSub)**
+**Aides financières instituées par le Conseil d'Etat (art. 9 al. 2 LSub[^6-1])**
 
-<sup>1</sup> Les limites fixées à l'article 9 al. 2 de la loi se réfèrent au total des montants octroyés en une année au titre d'aides financières instituées par la même disposition réglementaire.
+<sup>1</sup> Les limites fixées à l'article 9 al. 2 de la loi[^6-2] se réfèrent au total des montants octroyés en une année au titre d'aides financières instituées par la même disposition réglementaire.
+
+[^6-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+[^6-2]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
 
 #### Art. 7
 
-**Prêts à conditions préférentielles (art. 15 al. 1 LSub)**
+**Prêts à conditions préférentielles (art. 15 al. 1 LSub[^7-1])**
 
 <sup>1</sup> Les prêts à conditions préférentielles sont des prêts octroyés sans intérêts ou à des conditions plus avantageuses que celles qui sont habituellement pratiquées sur le marché.
 
+[^7-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 8
 
-**Capacité financière du requérant (art. 16 al. 1 LSub)**
+**Capacité financière du requérant (art. 16 al. 1 LSub[^8-1])**
 
 <sup>1</sup> La capacité financière du requérant est déterminée sur la base de sa situation au moment où l'autorité statue sur la demande de subvention, sous réserve de la législation spéciale concernant les contributions individuelles.
 
@@ -101,19 +117,23 @@ Arrête:
 
 <sup>4</sup> La capacité financière des autres personnes morales est appréciée principalement sur la base du compte d'exploitation et du bilan. Il est tenu compte également du potentiel de ressources et d'économies exploitables.
 
+[^8-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 9
 
-**Limitation de la durée d'octroi (art. 19 LSub)**
+**Limitation de la durée d'octroi (art. 19 LSub[^9-1])**
 
 <sup>1</sup> Les aides financières sont, autant que possible, prévues au titre d'aides au démarrage.
 
+[^9-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 10
 
-**Adaptation aux possibilités financières de l'Etat (art. 21 al. 2 LSub)**
+**Adaptation aux possibilités financières de l'Etat (art. 21 al. 2 LSub[^10-1])**
 
 <sup>1</sup> Les subventions nettes de fonctionnement correspondent aux subventions brutes de fonctionnement, déduction faite:
 
-- a) des montants correspondant à des exceptions définies à l'article 6 de la loi;
+- a) des montants correspondant à des exceptions définies à l'article 6 de la loi[^10-2];
 - b) des participations communales et fédérales au financement des subventions;
 - c) des restitutions et récupérations de subventions versées;
 - d) des prélèvements sur des fonds financés par des tiers, dans la mesure où ces prélèvements financent des subventions de fonctionnement.
@@ -124,47 +144,63 @@ Arrête:
 
 <sup>4</sup> Le produit de la fiscalité cantonale correspond au montant figurant sous la classe 40 du plan comptable de l'Etat.
 
-<sup>5</sup> Lorsque le budget de l'Etat prévoit le dépassement du seuil fixé à l'article 21 al. 2 de la loi, le Conseil d'Etat propose au Grand Conseil des modifications législatives en matière de subventionnement avant la fin de l'année qui suit celle du budget en question.
+<sup>5</sup> Lorsque le budget de l'Etat prévoit le dépassement du seuil fixé à l'article 21 al. 2 de la loi[^10-3], le Conseil d'Etat propose au Grand Conseil des modifications législatives en matière de subventionnement avant la fin de l'année qui suit celle du budget en question.
+
+[^10-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+[^10-2]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+[^10-3]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
 
 ## 4 Conditions d'octroi et gestion des subventions
 
 #### Art. 11
 
-**Révision et présentation des comptes (art. 29 al. 2 et 31 al. 2 LSub)**
+**Révision et présentation des comptes (art. 29 al. 2 et 31 al. 2 LSub[^11-1])**
 
 <sup>1</sup> Un mandat de révision des comptes ne peut pas être exercé par le même organe durant plus de six ans. Un cahier des charges, fixant les travaux de contrôle de l'organe de révision, peut être imposé.
 
 <sup>2</sup> Les comptes présentés doivent refléter la situation financière de manière exhaustive. Un plan comptable type peut être imposé.
 
+[^11-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 12
 
-**Observation du droit régissant les marchés publics (art. 30 LSub)**
+**Observation du droit régissant les marchés publics (art. 30 LSub[^12-1])**
 
 <sup>1</sup> Lorsque le montant des subventions cantonales octroyées est inférieur à 25'000 francs, l'application du droit régissant les marchés publics n'est pas une condition spéciale d'octroi des subventions.
 
+[^12-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 13
 
-**Ordre de priorité (art. 32 al. 2 LSub)**
+**Ordre de priorité (art. 32 al. 2 LSub[^13-1])**
 
 <sup>1</sup> L'ordre de priorité régissant le traitement des demandes de subventions est établi en se référant aux objectifs fixés dans la législation spéciale.
 
+[^13-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 14
 
-**Taux d'intérêt (art. 33 al. 3 et 37 al. 3 LSub)**
+**Taux d'intérêt (art. 33 al. 3 et 37 al. 3 LSub[^14-1])**
 
-<sup>1</sup> Les taux d'intérêt au sens des articles 33 et 37 de la loi correspondent au taux d'intérêt moratoire fixé dans l'ordonnance de la Direction des finances relative à la perception des créances fiscales.
+<sup>1</sup> Les taux d'intérêt au sens des articles 33 et 37 de la loi[^14-2] correspondent au taux d'intérêt moratoire fixé dans l'ordonnance de la Direction des finances relative à la perception des créances fiscales[^14-3].
+
+[^14-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+[^14-2]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+[^14-3]: RSF [631.131](https://bdlf.fr.ch/data/631.131/fr)
 
 #### Art. 15
 
-**Acomptes (art. 34 LSub) – Subventions de fonctionnement**
+**Acomptes (art. 34 LSub[^15-1]) – Subventions de fonctionnement**
 
 <sup>1</sup> Le versement d'acomptes sur les subventions de fonctionnement périodiques est effectué à des intervalles réguliers fixés à l'avance en fonction des dépenses effectives présumées.
 
 <sup>2</sup> Le solde est versé après présentation et adoption des comptes ou, exceptionnellement, sur la base d'un décompte provisoire de fin d'année.
 
+[^15-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 #### Art. 16
 
-**Acomptes (art. 34 LSub) – Subventions d'investissement**
+**Acomptes (art. 34 LSub[^16-1]) – Subventions d'investissement**
 
 <sup>1</sup> Le versement d'acomptes sur les subventions d'investissement est effectué après présentation d'un décompte partiel.
 
@@ -172,7 +208,13 @@ Arrête:
 
 <sup>3</sup> Le solde est versé après présentation et adoption du décompte final.
 
+[^16-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
+
 ## 5 Organisation des examens périodiques des subventions (art. 35 LSub)
+
+[^16-2]
+
+[^16-2]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
 
 #### Art. 17
 
@@ -231,13 +273,15 @@ Arrête:
 
 #### Art. 22
 
-**Dispositions transitoires (art. 42 al. 2 LSub)**
+**Dispositions transitoires (art. 42 al. 2 LSub[^22-1])**
 
 <sup>1</sup> La Direction des finances établit la liste exhaustive et détaillée de toutes les subventions versées durant l'exercice 1999.
 
 <sup>2</sup> Sur le préavis de la Direction des finances et des Directions concernées, le Conseil d'Etat détermine les subventions qui ne disposent pas d'une base légale suffisante et celles d'entre elles qu'il convient de maintenir.
 
 <sup>3</sup> Les Directions concernées sont chargées de préparer la création des bases légales des subventions dont le maintien a été admis par le Conseil d'Etat.
+
+[^22-1]: RSF [616.1](https://bdlf.fr.ch/data/616.1/fr)
 
 #### Art. 23
 

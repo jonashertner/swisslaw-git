@@ -4,13 +4,12 @@ number: "616.11"
 title: Subventionsreglement
 short: SubR
 language: de
-version: 2018-07-01
-valid_until: 2025-12-31
-version_adopted: 2018-06-05
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2000-08-22
 in_force: 2001-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/616.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/5910/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Subventionsreglement
 
 (SubR)
 
-vom 22.08.2000 (Fassung in Kraft getreten am 01.07.2018)
+vom 22.08.2000 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -35,13 +34,16 @@ beschliesst:
 
 #### Art. 1
 
-**Empfängerinnen und Empfänger ausserhalb der Kantonsverwaltung (Art. 2 SubG)**
+**Empfängerinnen und Empfänger ausserhalb der Kantonsverwaltung (Art. 2 SubG[^1-1])**
 
-<sup>1</sup> Die Anstalten nach Artikel 2 Abs. 1 und 2 des Gesetzes vom 25. November 1994 über den Finanzhaushalt des Staates gelten nicht als Empfängerinnen ausserhalb der Kantonsverwaltung.
+<sup>1</sup> Die Anstalten nach Artikel 2 Abs. 1 und 2 des Gesetzes vom 25. November 1994 über den Finanzhaushalt des Staates[^1-2] gelten nicht als Empfängerinnen ausserhalb der Kantonsverwaltung.
+
+[^1-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+[^1-2]: SGF [610.1](https://bdlf.fr.ch/data/610.1/de)
 
 #### Art. 2
 
-**Ausschliesslich von Dritten finanzierte Beiträge (Art. 6 Bst. a SubG)**
+**Ausschliesslich von Dritten finanzierte Beiträge (Art. 6 Bst. a SubG[^2-1])**
 
 <sup>1</sup> Die Beiträge, die ausschliesslich von Dritten finanziert werden, sind namentlich:
 
@@ -53,45 +55,59 @@ beschliesst:
 - f) die aus dem Fonds für das Wild finanzierten Beiträge, abgesehen von denjenigen, die durch Einlagen aus dem Voranschlag gedeckt sind;
 - g) die aus dem Mehrwertfonds finanzierten Beiträge.
 
+[^2-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 3
 
-**Durch das Bundesrecht vorgeschriebene Beteiligungen (Art. 6 Bst. b SubG)**
+**Durch das Bundesrecht vorgeschriebene Beteiligungen (Art. 6 Bst. b SubG[^3-1])**
 
 <sup>1</sup> Ein im Bundesrecht vorgesehener Beitrag gilt als vorgeschriebene Beteiligung, wenn der Staat hinsichtlich der Modalitäten für die Gewährung und die Festsetzung der Höhe keinerlei Ermessensspielraum hat.
+
+[^3-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
 
 ## 2 Verzeichnis der Subventionen
 
 #### Art. 4
 
-**Verzeichnis der Subventionen (Art. 7 SubG)**
+**Verzeichnis der Subventionen (Art. 7 SubG[^4-1])**
 
 <sup>1</sup> Das Verzeichnis der Subventionen ist im Anhang 1 zu diesem Reglement angeführt und wird regelmässig den Gesetzgebungsänderungen angepasst.
+
+[^4-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
 
 ## 3 Grundsätze für die Rechtsetzung
 
 #### Art. 5
 
-**Übereinstimmung der Textentwürfe mit den Grundsätzen (Art. 8 SubG)**
+**Übereinstimmung der Textentwürfe mit den Grundsätzen (Art. 8 SubG[^5-1])**
 
-<sup>1</sup> Die zuständige Direktion prüft in Zusammenarbeit mit der Finanzdirektion zuhanden des Staatsrates, ob die Entwürfe von rechtsetzenden Texten über die Subventionen mit den Grundsätzen des Subventionsgesetzes (das Gesetz) und dieses Reglements übereinstimmen.
+<sup>1</sup> Die zuständige Direktion prüft in Zusammenarbeit mit der Finanzdirektion zuhanden des Staatsrates, ob die Entwürfe von rechtsetzenden Texten über die Subventionen mit den Grundsätzen des Subventionsgesetzes[^5-2] (das Gesetz) und dieses Reglements übereinstimmen.
 
 <sup>2</sup> Die Erlassentwürfe, die zur Beschlussfassung abgeliefert werden, sowie die Begleittexte zu einem Gesuch um Ermächtigung, ein Vernehmlassungsverfahren zu eröffnen, werden mindestens zehn Tage vor dem Termin für die Aufnahme in die Traktandenliste des Staatsrats der Finanzverwaltung unterbreitet.
 
+[^5-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+[^5-2]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 6
 
-**Vom Staatsrat vorgesehene Finanzhilfen (Art. 9 Abs. 2 SubG)**
+**Vom Staatsrat vorgesehene Finanzhilfen (Art. 9 Abs. 2 SubG[^6-1])**
 
-<sup>1</sup> Die Grenzbeträge nach Artikel 9 Abs. 2 des Gesetzes beziehen sich auf die Gesamthöhe der Beträge, die innerhalb eines Jahres gestützt auf dieselbe reglementarische Bestimmung als Finanzhilfen gewährt werden.
+<sup>1</sup> Die Grenzbeträge nach Artikel 9 Abs. 2 des Gesetzes[^6-2] beziehen sich auf die Gesamthöhe der Beträge, die innerhalb eines Jahres gestützt auf dieselbe reglementarische Bestimmung als Finanzhilfen gewährt werden.
+
+[^6-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+[^6-2]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
 
 #### Art. 7
 
-**Darlehen zu Vorzugsbedingungen (Art. 15 Abs. 1 SubG)**
+**Darlehen zu Vorzugsbedingungen (Art. 15 Abs. 1 SubG[^7-1])**
 
 <sup>1</sup> Darlehen zu Vorzugsbedingungen sind zinslose Darlehen oder Darlehen zu günstigeren Bedingungen als marktüblich.
 
+[^7-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 8
 
-**Finanzkraft der Empfängerin oder des Empfängers (Art. 16 Abs. 1 SubG)**
+**Finanzkraft der Empfängerin oder des Empfängers (Art. 16 Abs. 1 SubG[^8-1])**
 
 <sup>1</sup> Die Finanzkraft der Empfängerin oder des Empfängers bestimmt sich auf Grund der jeweiligen Lage zum Zeitpunkt, in dem die Behörde über das Subventionsgesuch entscheidet. Vorbehalten bleibt die Spezialgesetzgebung über die Individualbeiträge.
 
@@ -101,19 +117,23 @@ beschliesst:
 
 <sup>4</sup> Die Finanzkraft der übrigen juristischen Personen wird vor allem anhand der Betriebs- und der Bestandesrechnung beurteilt. Rechnung getragen wird auch dem nutzbaren Ressourcen- und Sparpotenzial.
 
+[^8-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 9
 
-**Zeitliche Beschränkung der Gewährung (Art. 19 SubG)**
+**Zeitliche Beschränkung der Gewährung (Art. 19 SubG[^9-1])**
 
 <sup>1</sup> Die Finanzhilfen sind wenn immer möglich als Starthilfen vorzusehen.
 
+[^9-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 10
 
-**Anpassung an die finanziellen Möglichkeiten des Staates (Art. 21 Abs. 2 SubG)**
+**Anpassung an die finanziellen Möglichkeiten des Staates (Art. 21 Abs. 2 SubG[^10-1])**
 
 <sup>1</sup> Die Nettosubventionen für Funktionsausgaben entsprechen den Bruttosubventionen für Funktionsausgaben abzüglich:
 
-- a) der Beträge entsprechend den Ausnahmen nach Artikel 6 des Gesetzes;
+- a) der Beträge entsprechend den Ausnahmen nach Artikel 6 des Gesetzes[^10-2];
 - b) der Beteiligungen der Gemeinden und des Bundes an der Finanzierung der Subventionen;
 - c) der Rückerstattungen und Rückforderungen ausgerichteter Subventionen;
 - d) der Entnahmen aus von Dritten finanzierten Fonds, sofern mit diesen Entnahmen Subventionen für Funktionsaufgaben finanziert werden.
@@ -124,47 +144,63 @@ beschliesst:
 
 <sup>4</sup> Das kantonale Steueraufkommen entspricht dem Betrag in der Kontenklasse 40 des Kontenplans des Staates.
 
-<sup>5</sup> Sollten die veranschlagten Nettosubventionen die in Artikel 21 Abs. 2 des Gesetzes festgelegte Obergrenze überschreiten, so beantragt der Staatsrat dem Grossen Rat vor Ende des auf den betreffenden Voranschlag folgenden Jahres, gesetzliche Bestimmungen über Subventionen zu ändern.
+<sup>5</sup> Sollten die veranschlagten Nettosubventionen die in Artikel 21 Abs. 2 des Gesetzes[^10-3] festgelegte Obergrenze überschreiten, so beantragt der Staatsrat dem Grossen Rat vor Ende des auf den betreffenden Voranschlag folgenden Jahres, gesetzliche Bestimmungen über Subventionen zu ändern.
+
+[^10-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+[^10-2]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+[^10-3]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
 
 ## 4 Voraussetzungen für die Gewährung und die Verwaltung der Subventionen
 
 #### Art. 11
 
-**Revision und Rechnungslegung (Art. 29 Abs. 2 und 31 Abs. 2 SubG)**
+**Revision und Rechnungslegung (Art. 29 Abs. 2 und 31 Abs. 2 SubG[^11-1])**
 
 <sup>1</sup> Ein Rechnungsprüfungsmandat darf nicht während mehr als sechs Jahren vom selben Organ ausgeübt werden. Es kann ein Pflichtenheft vorgeschrieben werden, in dem die Kontrollarbeiten der Revisionsstelle festgelegt sind.
 
 <sup>2</sup> Die offen gelegten Jahresrechnungen müssen umfassend Aufschluss über die Finanzlage geben. Es kann ein Standardkontenplan vorgeschrieben werden.
 
+[^11-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 12
 
-**Einhaltung der Bestimmungen über das öffentliche Beschaffungswesen (Art. 30 SubG)**
+**Einhaltung der Bestimmungen über das öffentliche Beschaffungswesen (Art. 30 SubG[^12-1])**
 
 <sup>1</sup> Bei kantonalen Subventionen von weniger als 25'000 Franken ist die Anwendung der Bestimmungen über das öffentliche Beschaffungswesen keine besondere Bedingung für die Gewährung der Subventionen.
 
+[^12-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 13
 
-**Prioritätenordnung (Art. 32 Abs. 2 SubG)**
+**Prioritätenordnung (Art. 32 Abs. 2 SubG[^13-1])**
 
 <sup>1</sup> Für die Bearbeitung der Subventionsgesuche wird eine Prioritätenordnung aufgestellt, die die Zielsetzungen der Spezialgesetzgebung berücksichtigt.
 
+[^13-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 14
 
-**Zinssatz (Art. 33 Abs. 3 und 37 Abs. 3 SubG)**
+**Zinssatz (Art. 33 Abs. 3 und 37 Abs. 3 SubG[^14-1])**
 
-<sup>1</sup> Die Zinssätze nach den Artikeln 33 und 37 des Gesetzes entsprechen dem Satz des Verzugszinses gemäss Verordnung der Finanzdirektion über den Bezug der Steuerforderung.
+<sup>1</sup> Die Zinssätze nach den Artikeln 33 und 37 des Gesetzes[^14-2] entsprechen dem Satz des Verzugszinses gemäss Verordnung der Finanzdirektion über den Bezug der Steuerforderung[^14-3].
+
+[^14-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+[^14-2]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+[^14-3]: SGF [631.131](https://bdlf.fr.ch/data/631.131/de)
 
 #### Art. 15
 
-**Teilzahlungen (Art. 34 SubG) – Subventionen für Funktionsausgaben**
+**Teilzahlungen (Art. 34 SubG[^15-1]) – Subventionen für Funktionsausgaben**
 
 <sup>1</sup> Teilzahlungen von periodischen Subventionen für Funktionsausgaben werden in regelmässigen Abständen, die entsprechend den mutmasslichen tatsächlichen Ausgaben im Voraus bestimmt wurden, geleistet.
 
 <sup>2</sup> Der Restbetrag wird nach Vorlage und Genehmigung der Jahresrechnung oder ausnahmsweise auf der Grundlage einer provisorischen Jahresendabrechnung ausgezahlt.
 
+[^15-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 #### Art. 16
 
-**Teilzahlungen (Art. 34 SubG) – Subventionen für Investitionen**
+**Teilzahlungen (Art. 34 SubG[^16-1]) – Subventionen für Investitionen**
 
 <sup>1</sup> Teilzahlungen von Subventionen für Investitionen werden gestützt auf Teilabrechnungen geleistet.
 
@@ -172,7 +208,13 @@ beschliesst:
 
 <sup>3</sup> Der Restbetrag wird nach Vorlage und Genehmigung der Schlussabrechnung ausgezahlt.
 
+[^16-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
+
 ## 5 Organisation der periodischen Überprüfung der Subventionen (Art. 35 SubG)
+
+[^16-2]
+
+[^16-2]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
 
 #### Art. 17
 
@@ -231,13 +273,15 @@ beschliesst:
 
 #### Art. 22
 
-**Übergangsbestimmungen (Art. 42 Abs. 2 SubG)**
+**Übergangsbestimmungen (Art. 42 Abs. 2 SubG[^22-1])**
 
 <sup>1</sup> Die Finanzdirektion erstellt die vollständige und detaillierte Liste aller im Rechnungsjahr 1999 ausgezahlten Subventionen.
 
 <sup>2</sup> Der Staatsrat bestimmt nach Stellungnahme der Finanzdirektion und der betroffenen Direktionen, welche Subventionen nicht auf einer genügenden Rechtsgrundlage beruhen und welche davon beizubehalten sind.
 
 <sup>3</sup> Die zuständigen Direktionen werden mit der Ausarbeitung der Rechtsgrundlagen für diejenigen Subventionen beauftragt, deren Beibehaltung vom Staatsrat bestätigt wurde.
+
+[^22-1]: SGF [616.1](https://bdlf.fr.ch/data/616.1/de)
 
 #### Art. 23
 
