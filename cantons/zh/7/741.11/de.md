@@ -4,11 +4,10 @@ number: "741.11"
 title: Verkehrsabgabenverordnung (VAV)
 short: VAV
 language: de
-version: "2018-01-01"
-nachtrag: "99"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 1983-11-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-741_11-1983_11_23-1984_01_01-099.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-741_11-1983_11_23-1984_01_01-131.html"
 text: pdf
 ---
 
@@ -50,17 +49,45 @@ beschliesst:
 
 <sup>3</sup> Forderungen bis Fr. 6 werden nicht in Rechnung gestellt; Guthaben bis Fr. 6 werden nicht zurückerstattet.[^2-1]
 
-**Kontrollschilder**
+**Kontrollschilder a. Abtretung**
 
-§ 3.[^2-2] <sup>1</sup> Das Strassenverkehrsamt gibt bestimmte, aufgrund der abgelaufenen Reservationsfrist frei gewordene Kontrollschilder dem Meistbietenden ab.
+§ 3.[^2-2] <sup>1</sup> Natürliche Personen können Kontrollschilder, die ihnen zugeteilt sind, bis zum Ablauf der Reservationsfrist für die Zulassung eines Fahrzeugs abtreten a. an Personen, die mit ihnen in direkter Linie verwandt sind,
 
-<sup>2</sup> Kontrollschilder können abgetreten werden unter Personen, die in direkter Linie verwandt sind, unter Geschwistern, Ehegatten, eingetragenen Partnerinnen oder Partnern sowie unter Personen, die in faktischer Lebensgemeinschaft leben. Es gilt der ordentliche Gebührenansatz.[^2-3]
+- b. an ihre Geschwister,
+
+- c. an die Ehegattin oder den Ehegatten, die eingetragene Partnerin oder den eingetragenen Partner sowie die Personen, mit denen sie in einer Lebensgemeinschaft leben,
 
 **1**
 
-- 1\. 1. 18 - 99 § 3 a.[^2-2] <sup>1</sup> Das Strassenverkehrsamt vollzieht das Verkehrsabgaben- und Strassenverkehrsrecht. Abweichende Regelungen bleiben vorbehalten.
+- 1\. 1. 26 - 131
+
+- d. an juristische Personen, in deren Handelsregistereintrag sie aufgeführt sind.
+
+<sup>2</sup> Juristische Personen können Kontrollschilder, die ihnen zugeteilt sind, bis zum Ablauf der Reservationsfrist für die Zulassung eines Fahrzeugs abtreten a. an andere juristische Personen im Rahmen von Umstrukturierungen,
+
+- b. an natürliche Personen, die in ihrem Handelsregistereintrag aufgeführt sind.
+
+<sup>3</sup> Die übrigen Voraussetzungen für die Zulassung eines Fahrzeugs sind auch bei der Abtretung zu erfüllen. Es wird eine zusätzliche Gebühr erhoben.
+
+<sup>4</sup> Dem Gesuch ist eine Abtretungserklärung der bisherigen Halterin oder des bisherigen Halters beizulegen.
+
+**b. Versteigerung**
+
+§ 3 a.[^2-2] <sup>1</sup> Das Strassenverkehrsamt kann Kontrollschilder, deren Reservationsfrist abgelaufen ist, bezeichnen und für die Zulassung eines Fahrzeugs versteigern oder durch Dritte versteigern lassen.
+
+<sup>2</sup> Es legt die Einzelheiten der Teilnahmebedingungen und des Verfahrens der Versteigerung fest.
+
+<sup>3</sup> Der Reinertrag der Versteigerung fällt in die Staatskasse.
+
+**c. Direktvergabe**
+
+§ 3 b.[^2-3] <sup>1</sup> Das Strassenverkehrsamt kann Kontrollschilder, deren Reservationsfrist abgelaufen ist und die nicht zur Versteigerung bestimmt sind, direkt an Halterinnen und Halter von Fahrzeugen vergeben. Es legt die Einzelheiten des Verfahrens fest.
+
+<sup>2</sup> Die übrigen Voraussetzungen für die Zulassung eines Fahrzeugs sind auch bei der Direktvergabe zu erfüllen. Es wird eine zusätzliche Gebühr erhoben.
 
 **Vollzug**
+
+§ 3 c.[^2-4],[^2-5] <sup>1</sup> Das Strassenverkehrsamt vollzieht das Verkehrsabgaben- und Strassenverkehrsrecht. Abweichende Regelungen bleiben vorbehalten.
 
 <sup>2</sup> Im Bereich des Strassenverkehrsrechts obliegt ihm insbesondere:
 
@@ -71,22 +98,18 @@ beschliesst:
 - c. die Erteilung von Sonderbewilligungen für Fahrzeuge.
 
 [^2-1]: Eingefügt durch RRB vom 5. Dezember 1990 (OS 51, 322). In Kraft seit 1. Januar 1991.
-[^2-2]: Fassung gemäss RRB vom 13. März 2013 (OS 68, 463; ABl 2013-03-22). In Kraft seit 1. Januar 2014.
-[^2-3]: Fassung gemäss RRB vom 29. November 2006 (OS 61, 490; ABl 2006, 1696). In Kraft seit 1. Januar 2007.
+[^2-2]: Fassung gemäss RRB vom 5. März 2025 (OS 80, 126; ABl 2025-03-21). In Kraft seit 1. Januar 2026.
+[^2-3]: Eingefügt durch RRB vom 5. März 2025 (OS 80, 126; ABl 2025-03-21). In Kraft seit 1. Januar 2026.
+[^2-4]: Fassung gemäss RRB vom 13. März 2013 (OS 68, 463; ABl 2013-03-22). In Kraft seit 1. Januar 2014.
+[^2-5]: Nummerierung gemäss RRB vom 5. März 2025 (OS 80, 126; ABl 2025-03-21). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 11
 
 ### II. Ergänzende Abgabentarife
 
-**Besondere Arten von Motor-**
+**Besondere Arten von Fr. 450 Motorfahrzeugen Fr. 200 a. Motorwagen Fr. 400 Fr. 80 Fr. 150 Fr. 50**
 
 § 4.[^hIIErgänzendeAbgab-1] Die jährlichen Verkehrsabgaben betragen bei Motorwagen für:
 
-**Fr. 450**
-
-**fahrzeugen a. Motorwagen**
-
 - a. Traktoren
-
-**Fr. 200 Fr. 400 Fr. 80 Fr. 150 Fr. 50**
 
 - b. Arbeitsmaschinen bis 3500 kg Gesamtgewicht
 
@@ -108,11 +131,11 @@ beschliesst:
 
 <sup>2</sup> Übersteigt das Gesamtgewicht eines leichten Sattelmotorfahrzeuges 3500 kg, berechnet sich die Abgabe für den Gesamtgewichtsanteil über 3500 kg nach dem Tarif für Anhänger.
 
-**d. Motorräder sowie Leicht-, Klein- und dreirädrige Motorfahrzeuge**
+**d. Motorräder sowie Leicht-, Klein- und dreirädrige Motor-**
 
 § 5.[^hIIErgänzendeAbgab-1] Die jährlichen Verkehrsabgaben betragen bei besonderen Arten von Motorrädern sowie Leicht-, Klein- und dreirädrigen Motorfahrzeugen für:
 
-**Fr. 60**
+**Fr. 60 fahrzeuge**
 
 - a. Motorräder mit Seitenwagen Zuschlag zum gesetzlichen Abgabetarif für das Motorrad
 
@@ -128,9 +151,11 @@ beschliesst:
 
 § 6.[^hIIErgänzendeAbgab-3]
 
-**e. Motorfahrzeuge mit Rotationskolbenmotoren14**
+**3**
 
-§ 7. <sup>1</sup> Für Motorfahrzeuge mit Rotationskolbenmotoren wird die Verkehrsabgabe nach den Ansätzen für die betreffende Fahrzeugkategorie oder Bewilligungsart erhoben.
+- 1\. 1. 26 - 131 § 7. <sup>1</sup> Für Motorfahrzeuge mit Rotationskolbenmotoren wird die Verkehrsabgabe nach den Ansätzen für die betreffende Fahrzeugkategorie oder Bewilligungsart erhoben.
+
+**e. Motorfahrzeuge mit Rotationskolbenmotoren14**
 
 <sup>2</sup> Stellt dieser Tarif auf den Hubraum des Motors ab, gilt das Kammervolumen des Rotationskolbenmotors als Hubraum. Die Sicherheitsdirektion[^hIIErgänzendeAbgab-4] kann für die einzelnen Motorenmodelle in Berücksichtigung der technischen Voraussetzungen und der Motorenleistung anordnen, dass nur ein Teil des gesamten Kammervolumens als Hubraum angerechnet wird.
 
@@ -173,23 +198,21 @@ beschliesst:
 
 Anhänger an Arbeitskarren, Motorkarren und Motorfahrrädern sind abgabefrei.
 
-**3**
-
-- 1\. 1. 18 - 99 § 10. Für Ausnahmefahrzeuge wird die Verkehrsabgabe nach den Ansätzen für die betreffende Fahrzeugkategorie oder Bewilligungsart erhoben. Für die notwendige Sonderbewilligung ist eine zusätzliche Verkehrsabgabe zu entrichten, die von der Sicherheitsdirektion[^9-1] nach dem Ausmass der Inanspruchnahme der Strassen festgesetzt wird.
-
 [^9-1]: Fassung gemäss RRB vom 15. März 2006 (OS 61, 112; ABl 2006, 348). In Kraft seit 1. Mai 2006.
 
-#### § 11
+#### § 10
 
 **Ausnahmefahrzeuge**
+
+Für Ausnahmefahrzeuge wird die Verkehrsabgabe nach den Ansätzen für die betreffende Fahrzeugkategorie oder Bewilligungsart erhoben. Für die notwendige Sonderbewilligung ist eine zusätzliche Verkehrsabgabe zu entrichten, die von der Sicherheitsdirektion[^9-1] nach dem Ausmass der Inanspruchnahme der Strassen festgesetzt wird.
+
+#### § 11
 
 **Fahrzeuge mit wechselbarem Aufbau**
 
 Für Fahrzeuge mit auswechselbarem Aufbau oder andern Einrichtungen zu wechselweiser Verwendung in verschiedenen Abgabestufen oder -klassen ist die Verkehrsabgabe nach dem Ansatz der höheren Stufe oder Klasse zu entrichten.
 
-**Händlerschilder**
-
-§ 12.[^11-1] Die jährlichen Verkehrsabgaben betragen bei Kollektiv-Fahrzeugausweisen in Verbindung mit Händlerschildern für:
+§ 12.[^11-1] Die jährlichen Verkehrsabgaben betragen bei Kollektiv- Händlerschilder Fahrzeugausweisen in Verbindung mit Händlerschildern für:
 
 **Fr. 800 Fr. 130 Fr. 60 Fr. 250 Fr. 190 Fr. 40 Fr. 200**
 
@@ -209,9 +232,7 @@ Für Fahrzeuge mit auswechselbarem Aufbau oder andern Einrichtungen zu wechselwe
 
 § 13.[^11-2]
 
-**Tagesausweise**
-
-§ 14.[^11-1] Die Verkehrsabgaben für Tagesausweise betragen für je 24 Stunden für:
+§ 14.[^11-1] Die Verkehrsabgaben für Tagesausweise betragen für je Tagesausweise 24 Stunden für:
 
 - a. leichte Motorwagen, Sattelschlepper bis 3500 kg Gesamtgewicht, Arbeitsmaschinen Fr. 12.50
 
@@ -229,13 +250,11 @@ Für Fahrzeuge mit auswechselbarem Aufbau oder andern Einrichtungen zu wechselwe
 
 - f. landwirtschaftliche Motorfahrzeuge
 
-**Ersatzfahrzeuge**
+§ 15. Für Ersatzfahrzeuge ist neben der Verwaltungsgebühr, die Ersatzfahrzeuge für die schriftliche Bewilligung erhoben wird, keine zusätzliche Verkehrsabgabe zu entrichten.
 
-§ 15. Für Ersatzfahrzeuge ist neben der Verwaltungsgebühr, die für die schriftliche Bewilligung erhoben wird, keine zusätzliche Verkehrsabgabe zu entrichten.
+**liche Motorfahrzeuge**
 
-**Landwirtschaftliche Motorfahrzeuge**
-
-§ 16.[^11-1] Die jährlichen Verkehrsabgaben betragen bei landwirtschaftlichen Motorfahrzeugen für:
+§ 16.[^11-1] Die jährlichen Verkehrsabgaben betragen bei landwirt- Landwirtschaftschaftlichen Motorfahrzeugen für:
 
 **Fr. 80 Fr. 160 Fr. 50 Fr. 30 Fr. 30**
 
@@ -253,9 +272,11 @@ Für Fahrzeuge mit auswechselbarem Aufbau oder andern Einrichtungen zu wechselwe
 
 - f. landwirtschaftliche Ausnahme-Anhänger abgabefrei
 
-**Veteranenfahrzeuge**
+**5**
 
-§ 17.[^11-3] Die jährliche Verkehrsabgabe berechnet sich bei Veteranenfahrzeugen nach den Ansätzen für die betreffende Fahrzeugkategorie gemäss Anhang Ziff. 1–3 VAG[^11-4]. Sie beträgt höchstens Fr. 400.
+- 1\. 1. 26 - 131 § 17.[^11-3] Die jährliche Verkehrsabgabe berechnet sich bei Veteranenfahrzeugen nach den Ansätzen für die betreffende Fahrzeugkategorie gemäss Anhang Ziff. 1–3 VAG[^11-4]. Sie beträgt höchstens Fr. 400.
+
+**Veteranenfahrzeuge**
 
 **Abgaskategorien**
 
@@ -272,10 +293,6 @@ Emissionscode Abgaskategorie C00 und C01 Kategorie 1 C02 Kategorie 2 C03 oder be
 § 19.[^11-6],[^11-7] <sup>1</sup> Massgebend für die Ermässigung der Verkehrsabgaben ist während ihrer ganzen Dauer die Energieeffizienzkategorie am Tag der ersten Inverkehrsetzung des Fahrzeugs. Die gesetzliche Dauer der Ermässigung kann weder unterbrochen noch verlängert werden.
 
 <sup>2</sup> Werden Fahrzeuge, die in einem anderen Kanton oder im Ausland erstmals in Verkehr gesetzt wurden, innerhalb der gesetzlichen Dauer der Ermässigung im Kanton Zürich in Verkehr gesetzt, werden die Verkehrsabgaben ab diesem Zeitpunkt für den Rest der Frist ermässigt.
-
-**5**
-
-- 1\. 1. 18 - 99
 
 <sup>3</sup> Für Fahrzeuge, die nicht eindeutig einer Energieeffizienzkategorie zugeordnet werden können, muss der Halter den Nachweis für die Voraussetzungen einer Ermässigung erbringen. Das Strassenverkehrsamt kann eine Fahrzeugprüfung anordnen.
 
@@ -341,35 +358,30 @@ Fahrzeuge des Kantons, der Gemeinden und der von ihnen Beauftragten, die ausschl
 
 <sup>2</sup> Werden solche Fahrzeuge auch für nichtdienstliche Zwecke verwendet, so ist für sie die volle Verkehrsabgabe zu entrichten.
 
-[^26-1]: Fassung gemäss RRB vom 5. Dezember 1990 (OS 51, 322). In Kraft seit 1. Januar 1991.
+**7**
 
-#### § 27
+- 1\. 1. 26 - 131 § 27. <sup>1</sup> Personen, die wegen ihres Gebrechens zur Fortbewegung auf die Benützung eines Motorfahrzeuges angewiesen sind, wird die Verkehrsabgabe auf Gesuch hin erlassen.[^26-1]
 
 **Fahrzeuge zum Transport von Behinderten**
-
-<sup>1</sup> Personen, die wegen ihres Gebrechens zur Fortbewegung auf die Benützung eines Motorfahrzeuges angewiesen sind, wird die Verkehrsabgabe auf Gesuch hin erlassen.[^26-1]
 
 <sup>2</sup> Die gleiche Vergünstigung wird gewährt, wenn Familienangehörige oder andere nahestehende Personen ein Motorfahrzeug halten, um einen solchen Gebrechlichen zu betreuen.
 
 <sup>3</sup> Wird das Motorfahrzeug des Gebrechlichen oder seines Betreuers auch für andere Fahrten benützt, wird die Verkehrsabgabe angemessen ermässigt.
 
-<sup>4</sup> . . .[^27-1]
+<sup>4</sup> . . .[^26-2]
 
 **Konsularfahrzeuge**
 
 § 28. Fahrzeuge der Konsulate und der hohen Konsularbeamten ausländischer Nationalität sind im Rahmen der internationalen Verpflichtungen und Gepflogenheiten abgabefrei.
 
-[^27-1]: Aufgehoben durch RRB vom 5. Dezember 1990 (OS 51, 322). In Kraft seit 1. Januar 1991.
+[^26-1]: Fassung gemäss RRB vom 5. Dezember 1990 (OS 51, 322). In Kraft seit 1. Januar 1991.
+[^26-2]: Aufgehoben durch RRB vom 5. Dezember 1990 (OS 51, 322). In Kraft seit 1. Januar 1991.
 
 #### § 29
 
 **Bundesfahrzeuge**
 
 Die Fahrzeuge des Bundes sind abgabefrei. Für Fahrzeuge des Bundespersonals, die überwiegend dienstlich mit Fahrzeugausweis und Kontrollschildern des Bundes, daneben jedoch zeitweise auch ausserdienstlich mit Fahrzeugausweis und Kontrollschildern des Kantons verwendet werden, kann die Verkehrsabgabe ermässigt werden.
-
-**7**
-
-- 1\. 1. 18 - 99
 
 ### IV. Bezug
 
@@ -387,11 +399,9 @@ Die Fahrzeuge des Bundes sind abgabefrei. Für Fahrzeuge des Bundespersonals, di
 
 <sup>1</sup> Die Verkehrsabgabe ist grundsätzlich jährlich wiederkehrend in einem Betrag zu bezahlen.
 
-<sup>2</sup> Die Abgabe kann in höchstens zwei Raten, abgerechnet auf Mitte und Ende des Kalenderjahres, bezahlt werden, wenn der Jahresbetrag unter Berücksichtigung von Zuschlägen und Ermässigungen Fr. 62.50 übersteigt. Für jede Ratenzahlung ist ein Zuschlag von Fr. 8 zu entrichten.[^31-1]
+<sup>2</sup> Die Abgabe kann in höchstens zwei Raten, abgerechnet auf Mitte und Ende des Kalenderjahres, bezahlt werden, wenn der Jahresbetrag unter Berücksichtigung von Zuschlägen und Ermässigungen Fr. 62.50 übersteigt. Für jede Ratenzahlung ist ein Zuschlag von Fr. 8 zu entrichten.[^31-1] § 32. <sup>1</sup> Die gewünschte Zahlungsart ist bei der Einlösung des Fahrzeuges auf dem Anmeldeformular zu beantragen. Eine Änderung der Zahlungsart kann nur innerhalb der Zahlungsfrist für die jährlich wiederkehrende ordentliche Rechnungsstellung berücksichtigt werden.
 
 **Zahlungsart**
-
-§ 32. <sup>1</sup> Die gewünschte Zahlungsart ist bei der Einlösung des Fahrzeuges auf dem Anmeldeformular zu beantragen. Eine Änderung der Zahlungsart kann nur innerhalb der Zahlungsfrist für die jährlich wiederkehrende ordentliche Rechnungsstellung berücksichtigt werden.
 
 <sup>2</sup> Bei einem Kontrollschilderbezug nach dem 31. Mai werden die beantragten halbjährlichen Zahlungsperioden erst im folgenden Jahr wirksam.
 
@@ -433,6 +443,10 @@ Setzt der Halter sein Fahrzeug ausser Verkehr, so hat er die Verkehrsabgabe noch
 
 <sup>1</sup> Für Fahrzeuge, deren Standort vom Ausland in den Kanton Zürich verlegt wird, ist die Verkehrsabgabe vom Bezug der Kontrollschilder an, spätestens jedoch vom Zeitpunkt an zu entrichten, in welchem der Halter bundesrechtlich zum Bezug des schweizerischen Fahrzeugausweises mit schweizerischen Kontrollschildern verpflichtet ist.
 
+**9**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Für Fahrzeuge, deren Standort vom Kanton Zürich ins Ausland verlegt wird, ist die Verkehrsabgabe bis zur Rückgabe der schweizerischen Kontrollschilder zu entrichten. Vorbehalten bleiben die Sondervorschriften für provisorisch immatrikulierte Fahrzeuge.
 
 #### § 38
@@ -461,10 +475,6 @@ Der Halter, der sein Fahrzeug ausser Verkehr setzt und am gleichen Tag unter der
 
 § 39 b.[^hVaZuständigkeitbe-1] Die Einwohnerkontrolle prüft und bestätigt mit Stempel und Unterschrift die Identität des Gesuchstellers und leitet das Gesuchsformular an das Strassenverkehrsamt des Kantons Zürich weiter.
 
-**9**
-
-- 1\. 1. 18 - 99
-
 [^hVaZuständigkeitbe-1]: Eingefügt durch RRB vom 5. März 2003 (OS 58, 32). In Kraft seit 1. April 2003.
 
 ### VI. Schlussbestimmungen
@@ -484,5 +494,6 @@ Für leichte Sattelschlepper gilt § 2 der Übergangsbestimmungen zur Änderung 
 ## Weitere Fussnoten
 
 - [7] Fassung gemäss RRB vom 15. Februar 1995 (OS 53, 66).
+- [10] Fassung gemäss RRB vom 29. November 2006 (OS 61, 490; ABl 2006, 1696). In Kraft seit 1. Januar 2007.
 - [11] Eingefügt durch RRB vom 2. Juni 2010 (OS 65, 377; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
 - [12] Fassung gemäss RRB vom 2. Juni 2010 (OS 65, 377; ABl 2010, 1242). In Kraft seit 1. Juli 2010.
