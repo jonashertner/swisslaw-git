@@ -3,20 +3,19 @@ canton: VS
 number: "811.300"
 title: Verordnung über die Bereitstellung von Praktikums- und Ausbildungsplätzen für nichtuniversitäre Gesundheitsberufe
 language: de
-version: 2022-08-01
-valid_until: 2025-12-31
-version_adopted: 2021-06-16
+version: 2026-01-01
+version_adopted: 2025-10-08
 adopted: 2021-06-16
 in_force: 2021-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/811.300"
-pdf: "https://lex.vs.ch/api/de/versions/2927/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3520/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Bereitstellung von Praktikums- und Ausbildungsplätzen für nichtuniversitäre Gesundheitsberufe
 
-vom 16.06.2021 (Stand 01.08.2022)
+vom 16.06.2021 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -49,7 +48,11 @@ verordnet:
 - e) Physiotherapie - Fachhochschule (FH);
 - f) Transportsanitäter/in – Eidgenössischer Fachausweis;
 - g) Rettungsssanitäter/in – Höhere Fachschule (HF);
-- h) Medizinische Praxisassistent/in – Eidgenössisches Fähigkeitszeugnis (EFZ).
+- h) medizinische Praxisassistent/in – Eidgenössisches Fähigkeitszeugnis (EFZ);
+- i) ErgotherapeutIn - Bachelor of Science HES-SO;
+- j) ErnährungsberaterIn - Bachelor of Science HES-SO⁠;
+- k) Hebamme - Bachelor of Science HES-SO⁠;
+- l) Fachfrau/mann in medizin-technischer Radiologie - Bachelor of Science HES-SO⁠.
 
 <sup>2</sup> Ebenfalls als Gesundheitsberuf gilt der/die Fachmann/Fachfrau Betreuung (FaBe) – Eidgenössisches Fähigkeitszeugnis (EFZ) – für den Bedarf im Gesundheitswesen.
 

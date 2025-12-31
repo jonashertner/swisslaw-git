@@ -3,20 +3,19 @@ canton: VS
 number: "811.300"
 title: Ordonnance sur la mise à disposition des places de stage et d’apprentissage pour les professions non universitaires de la santé
 language: fr
-version: 2022-08-01
-valid_until: 2025-12-31
-version_adopted: 2021-06-16
+version: 2026-01-01
+version_adopted: 2025-10-08
 adopted: 2021-06-16
 in_force: 2021-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/811.300"
-pdf: "https://lex.vs.ch/api/fr/versions/2927/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3520/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la mise à disposition des places de stage et d’apprentissage pour les professions non universitaires de la santé
 
-du 16.06.2021 (état 01.08.2022)
+du 16.06.2021 (état 01.01.2026)
 
 Le Conseil d’Etat du canton du Valais
 
@@ -49,7 +48,11 @@ ordonne:
 - e) physiothérapie – haute école spécialisée (Bachelor HES);
 - f) technicien ambulancier – brevet fédéral;
 - g) ambulancier – école supérieure (ES);
-- h) assistante médicale – certificat fédéral de capacité (CFC).
+- h) assistant médical – certificat fédéral de capacité (CFC);
+- i) ergothérapie - Bachelor of Science HES-SO;
+- j) nutrition et diététique - Bachelor of Science HES-SO⁠;
+- k) sage-femme - Bachelor of Science HES-SO⁠;
+- l) technique en radiologie médicale - Bachelor of Science HES-SO⁠.
 
 <sup>2</sup> Est également prise en considération la profession d’assistant socio-éducatif (ASE) – certificat fédéral de capacité (CFC) – pour les besoins relevant du domaine de la santé.
 
