@@ -4,13 +4,12 @@ number: "17.61"
 title: "Règlement sur l'archivage"
 short: RArch
 language: fr
-version: 2019-07-01
-valid_until: 2025-12-31
-version_adopted: 2019-06-04
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2019-06-04
 in_force: 2019-07-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.61"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6055/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8417/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Archivage – R
 
 (RArch)
 
-du 04.06.2019 (version entrée en vigueur le 01.07.2019)
+du 04.06.2019 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -51,13 +50,16 @@ Arrête:
 
 **Objet et champ d'application**
 
-<sup>1</sup> Le présent règlement complète les dispositions de la loi sur l'archivage et les Archives de l'Etat (LArch) relatives:
+<sup>1</sup> Le présent règlement complète les dispositions de la loi sur l'archivage et les Archives de l'Etat (LArch)[^1-1] relatives:
 
 - a) à l'organisation de l'archivage;
 - b) aux archives historiques;
 - c) aux régimes particuliers propres à certaines catégories d'organes.
 
-<sup>2</sup> Il s'applique aux organes publics mentionnés à l'article 2 LArch.
+<sup>2</sup> Il s'applique aux organes publics mentionnés à l'article 2 LArch[^1-2].
+
+[^1-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+[^1-2]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 2
 
@@ -93,7 +95,7 @@ Arrête:
 
 **Définitions**
 
-<sup>1</sup> En complément des notions définies à l'article 3 LArch, on entend par:
+<sup>1</sup> En complément des notions définies à l'article 3 LArch[^5-1], on entend par:
 
 - a) Délai de conservation auprès de l'organe public: la durée pendant laquelle un dossier ou un document doit être conservé par l'organe public traitant pour des raisons administratives ou légales; ce délai court dès la date de clôture du dossier ou, pour les documents isolés, dès la date de leur création.
 - b) Support: tout élément matériel sur lequel est enregistrée l'information pour produire un document et qui sert à le transmettre ou à le conserver.
@@ -103,9 +105,15 @@ Arrête:
 - f) Dossier: un ensemble organisé de documents liés entre eux par leur objet ou leur usage, constitué au cours d'une période donnée définie par une date d'ouverture et une date de clôture.
 - g) Document de corbeille: un document dénué d'utilité administrative ou légale et n'ayant clairement pas vocation à être conservé.
 
+[^5-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+
 ## 2 Organisation de l'archivage
 
 ### 2.1 Gestion des archives courantes et intermédiaires (art. 6 LArch)
+
+[^5-2]
+
+[^5-2]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 6
 
@@ -160,6 +168,10 @@ Arrête:
 
 ### 2.2 Evaluation, versement et élimination (art. 7 al. 1 à 4 et 8 LArch)
 
+[^9-1]
+
+[^9-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+
 #### Art. 10
 
 **Obligation de proposer**
@@ -172,11 +184,13 @@ Arrête:
 
 **Evaluation et détermination du sort final**
 
-<sup>1</sup> L'évaluation est fondée sur les critères mentionnés à l'article 3 al. 1 let. e LArch, d'entente entre les AEF et l'organe concerné.
+<sup>1</sup> L'évaluation est fondée sur les critères mentionnés à l'article 3 al. 1 let. e LArch[^11-1], d'entente entre les AEF et l'organe concerné.
 
 <sup>2</sup> Sur la base de cette évaluation, les AEF déterminent le sort final des dossiers et documents (versement ou élimination).
 
 <sup>3</sup> L'évaluation et la détermination du sort final ont lieu en règle générale lors de l'élaboration et de la mise à jour des plans de classement et de gestion. Les résultats sont consignés dans ces derniers.
+
+[^11-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 12
 
@@ -228,6 +242,10 @@ Arrête:
 
 ### 2.4 Archivage électronique (art. 9 LArch)
 
+[^16-1]
+
+[^16-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+
 #### Art. 17
 
 **Principe et conditions-cadres**
@@ -267,17 +285,22 @@ Arrête:
 - a) la liste complète des fonds d'archives versés par les organes publics et des fonds d'archives privés, y compris ceux qui sont soumis à un délai de protection;
 - b) la liste complète des instruments de recherche existants ainsi que le contenu de ces instruments.
 
-<sup>2</sup> Toutefois, les instruments de recherche contenant des données personnelles sensibles sont soumis aux délais de protection spéciaux prévus à l'article 16 LArch.
+<sup>2</sup> Toutefois, les instruments de recherche contenant des données personnelles sensibles sont soumis aux délais de protection spéciaux prévus à l'article 16 LArch[^19-1].
+
+[^19-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 20
 
-**Délais de protection (art. 15 à 17 LArch)**
+**Délais de protection (art. 15 à 17 LArch[^20-1])**
 
 <sup>1</sup> Les AEF mettent en place une procédure de contrôle permettant de garantir le respect des délais de protection fixés par la loi.
 
 <sup>2</sup> Elles veillent en particulier au respect du délai de protection spécial auquel sont soumis les dossiers et documents classés selon des noms de personnes et qui contiennent des données personnelles sensibles au sens de la législation sur la protection des données.
 
-<sup>3</sup> L'article 17 LArch relatif à la consultation des archives par l'organe versant est réservé.
+<sup>3</sup> L'article 17 LArch[^20-2] relatif à la consultation des archives par l'organe versant est réservé.
+
+[^20-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+[^20-2]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 21
 
@@ -311,11 +334,13 @@ Arrête:
 
 #### Art. 24
 
-**Droit d'accès aux documents (art. 14 al. 1 LArch)**
+**Droit d'accès aux documents (art. 14 al. 1 LArch[^24-1])**
 
 <sup>1</sup> Pendant le délai de protection, les documents sont accessibles au public aux conditions et selon les modalités fixées par la législation sur l'information et l'accès aux documents.
 
 <sup>2</sup> La demande est traitée par l'organe versant selon les règles ordinaires du droit d'accès, avec la collaboration du personnel des AEF.
+
+[^24-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 25
 
@@ -335,11 +360,13 @@ Arrête:
 
 <sup>2</sup> Lorsque la personne concernée fait valoir un intérêt digne de protection, la demande est traitée par l'organe versant, avec la collaboration des AEF.
 
-<sup>3</sup> Dans les autres cas, la demande peut être refusée (art. 25 al. 2 LPrD). Toutefois, si elle porte sur des données classées par noms de personnes ou sur des dossiers ou documents clairement identifiés, les organes concernés y donnent suite indépendamment de l'existence d'un intérêt digne de protection.
+<sup>3</sup> Dans les autres cas, la demande peut être refusée (art. 25 al. 2 LPrD[^26-1]). Toutefois, si elle porte sur des données classées par noms de personnes ou sur des dossiers ou documents clairement identifiés, les organes concernés y donnent suite indépendamment de l'existence d'un intérêt digne de protection.
+
+[^26-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
 
 #### Art. 27
 
-**Contestation de données archivées (art. 4 LArch et art. 26 al. 3 LPrD)**
+**Contestation de données archivées (art. 4 LArch et art. 26 al. 3 LPrD[^27-1])**
 
 <sup>1</sup> La personne qui requiert l'inscription d'une mention relative au caractère litigieux ou inexact d'un document archivé doit justifier de son identité et présenter sa demande aux AEF sous la forme d'une contestation écrite.
 
@@ -349,9 +376,11 @@ Arrête:
 
 <sup>4</sup> Lorsque la demande est acceptée, l'organe versant en est informé, et la contestation est jointe au document archivé de manière à pouvoir être lue par toute personne qui consultera ce dernier.
 
+[^27-1]: RSF [17.1](https://bdlf.fr.ch/data/17.1/fr)
+
 #### Art. 28
 
-**Accès aux archives privées (art. 14 al. 5 LArch)**
+**Accès aux archives privées (art. 14 al. 5 LArch[^28-1])**
 
 <sup>1</sup> Les conditions d'accès aux fonds d'archives d'origine privée sont fixées par la convention de donation ou de dépôt dont elles font l'objet.
 
@@ -359,6 +388,8 @@ Arrête:
 
 - a) le droit d'accès fondé sur la législation sur l'information et l'accès aux documents (art. 24) ne peut pas être invoqué;
 - b) les dérogations aux délais de protection (art. 25) sont, le cas échéant, délivrées directement par les AEF.
+
+[^28-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 ### 3.3 Autres utilisations
 
@@ -396,6 +427,10 @@ Arrête:
 
 ### 3.4 Emoluments (art. 14 al. 3 LArch)
 
+[^32-1]
+
+[^32-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+
 #### Art. 33
 
 <sup>1</sup> Un émolument peut, conformément au tarif figurant dans l'Annexe 1, être perçu pour les prestations suivantes:
@@ -411,6 +446,10 @@ Arrête:
 ## 4 Régimes particuliers
 
 ### 4.1 Archivage autonome (art. 7 al. 5 LArch)
+
+[^33-1]
+
+[^33-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 34
 
@@ -471,6 +510,11 @@ Arrête:
 
 ### 4.3 Communes et collaborations intercommunales (art. 10 et 13 al. 1 LArch et art. 103 et 103<sup>bis</sup> al. 3 et 4 LCo)
 
+[^38-1][^38-2]
+
+[^38-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+[^38-2]: RSF [140.1](https://bdlf.fr.ch/data/140.1/fr)
+
 #### Art. 39
 
 **Principes**
@@ -492,9 +536,12 @@ Arrête:
 - c) la gestion des archives historiques (art. 14 al. 1, dans la mesure de leurs besoins et de leurs moyens; art. 15 al. 1);
 - d) la consultation et l'utilisation des archives historiques (art. 20 al. 1 et 2; art. 23 al. 1 – au besoin –; art. 24 al. 2, 25 al. 3, 26 al. 2, 27 al. 1 et 3, 28 al. 2 let. b, 29 al. 1 et 3, 31 al. 1, 32 et 33 al. 1).
 
-<sup>2</sup> Ils peuvent déléguer tout ou partie des tâches découlant de ces compétences conformément aux articles 10 al. 3 LArch et 103 al. 2 LCo.
+<sup>2</sup> Ils peuvent déléguer tout ou partie des tâches découlant de ces compétences conformément aux articles 10 al. 3 LArch[^40-1]et 103 al. 2 LCo[^40-2].
 
 <sup>3</sup> Même en cas de délégation, ils conservent la responsabilité générale de la bonne gestion des archives de leur commune et des établissements qui s'y rattachent.
+
+[^40-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+[^40-2]: RSF [140.1](https://bdlf.fr.ch/data/140.1/fr)
 
 #### Art. 41
 
@@ -524,7 +571,9 @@ Arrête:
 
 <sup>2</sup> Lorsqu'une association ou une agglomération est dissoute, ses archives historiques sont closes au jour où la liquidation est achevée. Le lieu et les modalités de leur conservation et de leur mise à la disposition du public sont réglés dans la décision de dissolution; à défaut, l'article 41 al. 1 s'applique.
 
-<sup>3</sup> Les communes, associations de communes et agglomérations règlent par convention l'archivage autonome prévu par l'article 10 al. 4 LArch. Au besoin, elles appliquent par analogie les articles 34 et suivants. L'organe exécutif de la collectivité concernée conserve dans tous les cas ses compétences en matière de gestion des archives courantes et intermédiaires.
+<sup>3</sup> Les communes, associations de communes et agglomérations règlent par convention l'archivage autonome prévu par l'article 10 al. 4 LArch[^43-1]. Au besoin, elles appliquent par analogie les articles 34 et suivants. L'organe exécutif de la collectivité concernée conserve dans tous les cas ses compétences en matière de gestion des archives courantes et intermédiaires.
+
+[^43-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 44
 
@@ -552,6 +601,10 @@ Arrête:
 
 ### 4.5 Eglises reconnues (art. 11 LArch)
 
+[^46-1]
+
+[^46-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
+
 #### Art. 47
 
 **Conseils et collaboration**
@@ -571,6 +624,10 @@ Arrête:
 <sup>3</sup> Elles procèdent, en principe à leurs frais, au classement, à l'inventaire, au conditionnement et au transfert de ces archives.
 
 ### 4.6 Fonds privés (art. 12 al. 1 let. e LArch)
+
+[^48-1]
+
+[^48-1]: RSF [17.6](https://bdlf.fr.ch/data/17.6/fr)
 
 #### Art. 49
 
@@ -631,8 +688,8 @@ Arrête:
 - d) Images ou photographies numériques, pages scannées en haute résolution, y compris le temps passé à leur confection:
   - 1\. par image ou photographie numérique: 5 francs
   - 2\. par page scannée en haute résolution: 5 francs
-- e) Remise d'une copie en couleurs d'armoiries de famille: 20 francs
-- f) Remise d'une copie d'acte notarié: 50 francs, frais d'impression en sus
+- e) Remise d'une copie en couleurs d'armoiries de famille: 30 francs
+- f) Remise d'une copie d'acte notarié: 60 francs, frais d'impression en sus
 - g) Envoi postal de documents: 5 francs par envoi, sous réserve de frais effectifs plus élevés.
 
 <sup>2</sup> Les autres frais (confections de copies spéciales, supports d'information électroniques, etc.) sont facturés au prix coûtant.

@@ -4,13 +4,12 @@ number: "17.61"
 title: Reglement über die Archivierung
 short: ArchR
 language: de
-version: 2019-07-01
-valid_until: 2025-12-31
-version_adopted: 2019-06-04
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2019-06-04
 in_force: 2019-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.61"
-pdf: "https://bdlf.fr.ch/api/de/versions/6055/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8417/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Archivierung – R
 
 (ArchR)
 
-vom 04.06.2019 (Fassung in Kraft getreten am 01.07.2019)
+vom 04.06.2019 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -51,13 +50,16 @@ beschliesst:
 
 **Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Dieses Reglement ergänzt die Bestimmungen des Gesetzes über die Archivierung und das Staatsarchiv (ArchG) über:
+<sup>1</sup> Dieses Reglement ergänzt die Bestimmungen des Gesetzes über die Archivierung und das Staatsarchiv (ArchG)[^1-1] über:
 
 - a) die Organisation der Archivierung;
 - b) das historische Archiv;
 - c) die Sonderregelungen für gewisse Kategorien von Organen.
 
-<sup>2</sup> Es gilt für die öffentlichen Organe gemäss Artikel 2 ArchG.
+<sup>2</sup> Es gilt für die öffentlichen Organe gemäss Artikel 2 ArchG[^1-2].
+
+[^1-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+[^1-2]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 2
 
@@ -93,7 +95,7 @@ beschliesst:
 
 **Definitionen**
 
-<sup>1</sup> Ergänzend zu den Begriffen von Artikel 3 ArchG versteht man unter:
+<sup>1</sup> Ergänzend zu den Begriffen von Artikel 3 ArchG[^5-1] versteht man unter:
 
 - a) Frist für die Aufbewahrung beim öffentlichen Organ: die Dauer, während der Dossiers oder Dokumente vom bearbeitenden öffentlichen Organ aus administrativen oder gesetzlichen Gründen aufbewahrt werden müssen; diese Frist läuft ab dem Datum, an dem das Dossier abgeschlossen wird, oder bei einem einzelnen Dokument ab dem Datum seiner Erstellung.
 - b) Datenträger: jegliches materielle Element, auf dem die Information zur Herstellung eines Dokuments gespeichert ist und das zu dessen Übertragung oder Aufbewahrung dient.
@@ -103,9 +105,15 @@ beschliesst:
 - f) Dossier: eine strukturierte Gesamtheit von Dokumenten, die unter sich durch ihren Gegenstand oder ihren Gebrauch verbunden sind und die während eines gegebenen Zeitraums, der durch ein Eröffnungs- und ein Abschlussdatum festgelegt wird, erstellt werden.
 - g) Aussonderungswürdiges Schriftgut: ein Dokument ohne administrativen oder gesetzlichen Nutzen, das eindeutig nicht aufzubewahren ist.
 
+[^5-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+
 ## 2 Organisation der Archivierung
 
 ### 2.1 Führung des laufenden Archivs und des Zwischenarchivs (Art. 6 ArchG)
+
+[^5-2]
+
+[^5-2]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 6
 
@@ -160,6 +168,10 @@ beschliesst:
 
 ### 2.2 Bewertung, Ablieferung und Vernichtung (Art. 7 Abs. 1–4 und 8 ArchG)
 
+[^9-1]
+
+[^9-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+
 #### Art. 10
 
 **Anbietepflicht**
@@ -172,11 +184,13 @@ beschliesst:
 
 **Bewertung und Bestimmen der Archivwürdigkeit**
 
-<sup>1</sup> Die Bewertung wird nach den Kriterien gemäss Artikel 3 Abs. 1 Bst. e ArchG vom StAF gemeinsam mit dem betreffenden Organ vorgenommen.
+<sup>1</sup> Die Bewertung wird nach den Kriterien gemäss Artikel 3 Abs. 1 Bst. e ArchG[^11-1] vom StAF gemeinsam mit dem betreffenden Organ vorgenommen.
 
 <sup>2</sup> Aufgrund dieser Bewertung bestimmt das StAF die Archivwürdigkeit der Dossiers und Dokumente (Ablieferung oder Vernichtung).
 
 <sup>3</sup> Die Bewertung und das Bestimmen der Archivwürdigkeit werden im Allgemeinen bei der Erarbeitung und der Nachführung der Registratur- und Verwaltungspläne vorgenommen. Die Ergebnisse werden in diesen Plänen festgehalten.
+
+[^11-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 12
 
@@ -228,6 +242,10 @@ beschliesst:
 
 ### 2.4 Elektronische Archivierung (Art. 9 ArchG)
 
+[^16-1]
+
+[^16-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+
 #### Art. 17
 
 **Grundsatz und Rahmenbedingungen**
@@ -267,17 +285,22 @@ beschliesst:
 - a) die vollständige Liste der Archivbestände, die von den öffentlichen Organen abgeliefert wurden, und der privaten Archivbestände, einschliesslich der Bestände, die einer Schutzfrist unterliegen;
 - b) die vollständige Liste der bestehenden Findmittel mit dem Inhalt dieser Hilfen.
 
-<sup>2</sup> Allerdings gelten für Findmittel, die schützenswerte Personendaten enthalten, nach Artikel 16 ArchG besondere Schutzfristen.
+<sup>2</sup> Allerdings gelten für Findmittel, die schützenswerte Personendaten enthalten, nach Artikel 16 ArchG[^19-1] besondere Schutzfristen.
+
+[^19-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 20
 
-**Schutzfristen (Art. 15–17 ArchG)**
+**Schutzfristen (Art. 15–17 ArchG[^20-1])**
 
 <sup>1</sup> Das StAF schafft ein Kontrollverfahren, mit dem sichergestellt werden kann, dass die vom Gesetz bestimmten Schutzfristen eingehalten werden.
 
 <sup>2</sup> Es sorgt insbesondere dafür, dass die besondere Schutzfrist für die Dossiers und Dokumente, die nach Personennamen geordnet sind und die besonders schützenswerte Personendaten im Sinn der Gesetzgebung über den Datenschutz enthalten, eingehalten wird.
 
-<sup>3</sup> Artikel 17 ArchG über die Einsichtnahme in das Archiv durch das abliefernde Organ bleibt vorbehalten.
+<sup>3</sup> Artikel 17 ArchG[^20-2] über die Einsichtnahme in das Archiv durch das abliefernde Organ bleibt vorbehalten.
+
+[^20-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+[^20-2]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 21
 
@@ -311,11 +334,13 @@ beschliesst:
 
 #### Art. 24
 
-**Recht auf Zugang zu Dokumenten (Art. 14 Abs. 1 ArchG)**
+**Recht auf Zugang zu Dokumenten (Art. 14 Abs. 1 ArchG[^24-1])**
 
 <sup>1</sup> Während der Schutzfrist sind Dokumente für die Öffentlichkeit gemäss den Bedingungen und Modalitäten nach der Gesetzgebung über die Information und den Zugang zu Dokumenten zugänglich.
 
 <sup>2</sup> Das Gesuch wird vom abliefernden Organ gemäss den ordentlichen Vorschriften des Zugangsrechts in Zusammenarbeit mit dem Personal des StAF behandelt.
+
+[^24-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 25
 
@@ -335,11 +360,13 @@ beschliesst:
 
 <sup>2</sup> Macht die betreffende Person ein schutzwürdiges Interesse geltend, so wird das Gesuch vom abliefernden Organ in Zusammenarbeit mit dem StAF behandelt.
 
-<sup>3</sup> In den übrigen Fällen darf das Gesuch abgelehnt werden (Art. 25 Abs. 2 DSchG). Bezieht sich dieses jedoch auf Daten, die noch nach Personennamen geordnet sind, und auf klar identifizierte Dossiers oder Dokumente, so bemühen sich die betreffenden Organe, dem Gesuch Folge zu leisten, auch wenn kein schutzwürdiges Interesse vorliegt.
+<sup>3</sup> In den übrigen Fällen darf das Gesuch abgelehnt werden (Art. 25 Abs. 2 DSchG[^26-1]). Bezieht sich dieses jedoch auf Daten, die noch nach Personennamen geordnet sind, und auf klar identifizierte Dossiers oder Dokumente, so bemühen sich die betreffenden Organe, dem Gesuch Folge zu leisten, auch wenn kein schutzwürdiges Interesse vorliegt.
+
+[^26-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
 
 #### Art. 27
 
-**Anfechtung von Archivdaten (Art. 4 ArchG und 26 Abs. 3 DSchG)**
+**Anfechtung von Archivdaten (Art. 4 ArchG und 26 Abs. 3 DSchG[^27-1])**
 
 <sup>1</sup> Wer den Eintrag eines Vermerks über den umstrittenen oder ungenauen Charakter eines archivierten Dokuments verlangt, muss seine Identität nachweisen und seinen Antrag in Form einer schriftlichen Anfechtung an das StAF richten.
 
@@ -349,9 +376,11 @@ beschliesst:
 
 <sup>4</sup> Wird der Antrag angenommen, so wird das abliefernde Organ darüber informiert, und die Anfechtung wird dem archivierten Dokument beigefügt, so dass sie von jeder Person, die das Dokument einsieht, gelesen werden kann.
 
+[^27-1]: SGF [17.1](https://bdlf.fr.ch/data/17.1/de)
+
 #### Art. 28
 
-**Zugang zu Privatarchiven (Art. 14 Abs. 5 ArchG)**
+**Zugang zu Privatarchiven (Art. 14 Abs. 5 ArchG[^28-1])**
 
 <sup>1</sup> Die Bedingungen für den Zugang zu privaten Archivbeständen werden in der entsprechenden Schenkungs- oder Hinterlegungsvereinbarung festgelegt.
 
@@ -359,6 +388,8 @@ beschliesst:
 
 - a) kann das Zugangsrecht gemäss der Gesetzgebung über die Information und den Zugang zu Dokumenten (Art. 24) nicht geltend gemacht werden;
 - b) werden die Abweichungen von den Schutzfristen (Art. 25) gegebenenfalls direkt vom StAF bewilligt.
+
+[^28-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 ### 3.3 Weitere Arten der Verwertung
 
@@ -396,6 +427,10 @@ beschliesst:
 
 ### 3.4 Gebühren (Art. 14 Abs. 3 ArchG)
 
+[^32-1]
+
+[^32-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+
 #### Art. 33
 
 <sup>1</sup> Es kann gemäss Tarif im Anhang 1 für folgende Dienstleistungen eine Gebühr verlangt werden:
@@ -411,6 +446,10 @@ beschliesst:
 ## 4 Sonderregelungen
 
 ### 4.1 Selbständige Archivierung (Art. 7 Abs. 5 ArchG)
+
+[^33-1]
+
+[^33-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 34
 
@@ -471,6 +510,11 @@ beschliesst:
 
 ### 4.3 Gemeinden und interkommunale Zusammenarbeit (Art. 10 und 13 Abs. 1 ArchG und Art. 103 und 103<sup>bis</sup> Abs. 3 und 4 GG)
 
+[^38-1][^38-2]
+
+[^38-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+[^38-2]: SGF [140.1](https://bdlf.fr.ch/data/140.1/de)
+
 #### Art. 39
 
 **Grundsätze**
@@ -492,9 +536,12 @@ beschliesst:
 - c) die Führung des historischen Archivs (Art. 14 Abs. 1, nach ihren Bedürfnissen und Mitteln; Art. 15 Abs. 1);
 - d) die Einsichtnahme und die Verwertung der historischen Archivbestände (Art. 20 Abs. 1 und 2; Art. 23 Abs. 1 – nach Bedarf –; Art. 24 Abs. 2, 25 Abs. 3, 26 Abs. 2, 27 Abs. 1 und 3, 28 Abs. 2 Bst. b, 29 Abs. 1 und 3, 31 Abs. 1, 32 und 33 Abs. 1).
 
-<sup>2</sup> Sie können die aus den Zuständigkeiten resultierenden Aufgaben gemäss den Artikeln 10 Abs. 3 ArchG und 103 Abs. 2 GG ganz oder teilweise delegieren.
+<sup>2</sup> Sie können die aus den Zuständigkeiten resultierenden Aufgaben gemäss den Artikeln 10 Abs. 3 ArchG[^40-1] und 103 Abs. 2 GG[^40-2] ganz oder teilweise delegieren.
 
 <sup>3</sup> Auch im Falle einer Delegation behalten sie die allgemeine Verantwortung für die Führung des Archivs ihrer Gemeinde und deren zugehörigen Anstalten.
+
+[^40-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+[^40-2]: SGF [140.1](https://bdlf.fr.ch/data/140.1/de)
 
 #### Art. 41
 
@@ -524,7 +571,9 @@ beschliesst:
 
 <sup>2</sup> Wird ein Verband oder eine Agglomeration aufgelöst, so wird sein oder ihr historisches Archiv am Tag, an dem die Auflösung vollzogen wird, abgeschlossen. Der Ort, an dem die Archivbestände aufbewahrt und der Öffentlichkeit zur Verfügung gestellt werden, und die entsprechenden Modalitäten werden im Auflösungsentscheid geregelt; wenn nichts anderes bestimmt wird, gilt Artikel 41 Abs. 1.
 
-<sup>3</sup> Die Gemeinden, die Gemeindeverbände und die Agglomerationen regeln in einer Vereinbarung die selbständige Archivierung nach Artikel 10 Abs. 4 ArchG. Bei Bedarf wenden sie die Bestimmungen der Artikel 34 ff. sinngemäss an. Das Exekutivorgan des betreffenden Gemeinwesens behält auf jeden Fall seine Zuständigkeit für die Führung des laufenden Archivs und des Zwischenarchivs.
+<sup>3</sup> Die Gemeinden, die Gemeindeverbände und die Agglomerationen regeln in einer Vereinbarung die selbständige Archivierung nach Artikel 10 Abs. 4 ArchG[^43-1]. Bei Bedarf wenden sie die Bestimmungen der Artikel 34 ff. sinngemäss an. Das Exekutivorgan des betreffenden Gemeinwesens behält auf jeden Fall seine Zuständigkeit für die Führung des laufenden Archivs und des Zwischenarchivs.
+
+[^43-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 44
 
@@ -552,6 +601,10 @@ beschliesst:
 
 ### 4.5 Anerkannte Kirchen (Art. 11 ArchG)
 
+[^46-1]
+
+[^46-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
+
 #### Art. 47
 
 **Beratung und Zusammenarbeit**
@@ -571,6 +624,10 @@ beschliesst:
 <sup>3</sup> Sie führen die Klassifikation, das Inventar, die notwendigen konservatorischen Arbeiten und den Transfer dieser Archivbestände grundsätzlich auf eigene Kosten durch.
 
 ### 4.6 Private Bestände (Art. 12 Abs. 1 Bst. e ArchG)
+
+[^48-1]
+
+[^48-1]: SGF [17.6](https://bdlf.fr.ch/data/17.6/de)
 
 #### Art. 49
 
@@ -631,8 +688,8 @@ beschliesst:
 - d) Digitalbilder oder ‑fotos und Seiten, die in hoher Auflösung gescannt werden, einschliesslich der Zeit für deren Anfertigung:
   - 1\. pro Digitalbild oder ‑foto: 5 Franken
   - 2\. pro Seite, die in hoher Auflösung gescannt wird: 5 Franken
-- e) Abgabe einer Farbkopie eines Familienwappens: 20 Franken
-- f) Abgabe einer notariellen Urkunde: 50 Franken, zuzüglich Druckkosten
+- e) Abgabe einer Farbkopie eines Familienwappens: 30 Franken
+- f) Abgabe einer notariellen Urkunde: 60 Franken, zuzüglich Druckkosten
 - g) Versand von Dokumenten per Post: 5 Franken pro Versand, unter Vorbehalt höherer tatsächlicher Kosten.
 
 <sup>2</sup> Die übrigen Kosten (Anfertigung von Spezialkopien, digitale Datenträger usw.) werden zum Selbstkostenpreis in Rechnung gestellt.
