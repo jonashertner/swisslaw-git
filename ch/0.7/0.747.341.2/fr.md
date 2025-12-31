@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Convention internationale de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille, du 7 juillet 1978 (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20250101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 15 décembre 1987
 
 Entrée en vigueur pour la Suisse le 15 mars 1988
 
-(État le 1<sup>er</sup> janvier 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 9 mars 1987 ([RO 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -267,7 +267,7 @@ La Convention reste ouverte à la signature, au siège de l’Organisation du 1<
 
 <sup>2.</sup> Dès l’entrée en vigueur de la Convention, son texte est transmis par le Secrétaire général au Secrétaire général de l’Organisation des Nations Unies pour être enregistré et publié conformément à l’art. 102 de la Charte des Nations Unies[^XVI-1].
 
-[^XVI-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVI-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVII
 
@@ -279,7 +279,7 @@ La Convention est établie en un seul exemplaire en langues anglaise, chinoise, 
 
 Annexe[^t-2]
 
-[^t-2]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/ Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/%20Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
+[^t-2]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Le texte de ces amendements n’est pas publié au RO. Il peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 Champ d’application le 24 janvier 2024[^t-3]
 

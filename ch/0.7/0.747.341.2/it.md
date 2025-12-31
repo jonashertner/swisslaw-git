@@ -3,11 +3,11 @@ sr: "0.747.341.2"
 title: "Convenzione internazionale del 1978 sugli standard di addestramento, abilitazione e tenuta della guardia per i marittimi, del 7 luglio 1978 (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Londra il 7 luglio 1978 Approvata dall’Assemblea federale il 9 marzo 1987[^t-1] Ratificata dalla Svizzera con strumento depositato il 15 dicembre 1987 Entrata in vigore per la Svizzera il 15 marzo 1988
 
-(Stato 1° gennaio 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 9 mar. 1987 ([RU 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -261,7 +261,7 @@ La Convenzione resterà aperta per la firma nella Sede dell’Organizzazione del
 
 <sup>2.</sup> Non appena la Convenzione entrerà in vigore, il Segretario Generale ne trasmetterà il testo al Segretario Generale delle Nazioni Unite per la registrazione e la pubblicazione, come da Articolo 102 dello Statuto delle Nazioni Unite[^XVI-1].
 
-[^XVI-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVI-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVII
 
@@ -273,7 +273,7 @@ La Convenzione è redatta in un unico esemplare nelle lingue cinese, inglese, fr
 
 Allegato[^t-2]
 
-[^t-2]: Il presente all. ed i suoi emendamenti, non sono pubblicati nella RU ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
+[^t-2]: Il presente all. ed i suoi emendamenti, non sono pubblicati nella RU ([RU 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 Campo d’applicazione il 24 gennaio 2024[^t-3]
 
@@ -462,7 +462,5 @@ Campo d’applicazione il 24 gennaio 2024[^t-3]
 <tr><td colspan="5"><sup>b</sup> La Conv. non vale per Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>c</sup> La Conv. non vale per Tokelau.</td></tr>
 </table>
-
-- [tab]
 
 [^t-3]: [RU 1988 1639](https://fedlex.data.admin.ch/eli/oc/1988/1639_1639_1639); [1989 837](https://fedlex.data.admin.ch/eli/oc/1989/837_837_837); [1990 1772](https://fedlex.data.admin.ch/eli/oc/1990/1772_1772_1772); [1991 2273](https://fedlex.data.admin.ch/eli/oc/1991/2273_2273_2273); [2005 1303](https://fedlex.data.admin.ch/eli/oc/2005/195); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2016 2553](https://fedlex.data.admin.ch/eli/oc/2016/401); [2020 3637](https://fedlex.data.admin.ch/eli/oc/2020/658); [2024 45](https://fedlex.data.admin.ch/eli/oc/2024/45). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

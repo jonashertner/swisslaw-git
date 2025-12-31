@@ -3,16 +3,18 @@ sr: "0.747.341.2"
 title: "Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten, vom 7. Juli 1978 (mit Anlage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1978-07-07
 in_force: 1988-03-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20250101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1639_1639_1639/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1639_1639_1639-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1639_1639_1639/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Fähigkeitsausweisen und den Wachdienst von Seeleuten
+
+AS **1988** 1639; BBl **1986** II 717
 
 Übersetzung
 
@@ -24,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Dezember 1987
 
 In Kraft getreten für die Schweiz am 15. März 1988
 
-(Stand am 1. Januar 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 9. März 1987 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -262,7 +264,7 @@ Das Übereinkommen liegt vom 1. Dezember 1978 bis zum 30. November 1979 am Sitz 
 
 <sup>2.</sup> Sobald das Übereinkommen in Kraft tritt, übermittelt der Generalsekretär dem Generalsekretär der Vereinten Nationen den Wortlaut zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^XVI-1].
 
-[^XVI-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^XVI-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. XVII
 
@@ -274,7 +276,7 @@ Das Übereinkommen ist in einer Urschrift in chinesischer, englischer, französi
 
 Anlage[^t-2]
 
-[^t-2]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel, eingesehen werden
+[^t-2]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1993 2512](https://fedlex.data.admin.ch/eli/oc/1993/2512_2512_2512); [2008 187](https://fedlex.data.admin.ch/eli/oc/2008/57); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286), [847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
 Geltungsbereich am 24. Januar 2024[^t-3]
 
