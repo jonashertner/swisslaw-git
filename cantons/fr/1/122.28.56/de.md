@@ -3,13 +3,12 @@ canton: FR
 number: "122.28.56"
 title: Verordnung über die Gebühren des Tiefbauamts
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-20
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 2003-12-16
 in_force: 2004-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.28.56"
-pdf: "https://bdlf.fr.ch/api/de/versions/7690/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8373/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7690/pdf_file"
 
 Tiefbauamt, Gebühren – V
 
-vom 16.12.2003 (Fassung in Kraft getreten am 01.01.2023)
+vom 16.12.2003 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -34,15 +33,17 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung regelt die Gebühren des Tiefbauamts (TBA) für folgende Verrichtungen:
 
-- a) Baubewilligungsgesuch, Ortsplanung, Detailbebauungsplan, Güterumlegung, genereller Entwässerungsplan;
+- a) Vorprüfungsgesuch und Baubewilligungsgesuch, Ortsplan, Detailbebauungsplan, Güterumlegung, genereller Entwässerungsplan;
 - b) Mobilitätsinfrastrukturplan;
 - c) Strassensignalisation;
 - d) Strassenreklamen;
 - e) Nutzungsbewilligung für öffentliche Strassen oder deren Zubehör;
 - f) …
-- g) Bootsanlegeplätze;
-- h) Gesuch um Bundesbeiträge (LSV, LRV usw.);
+- g) …
+- h) …
 - i) Messung von Lärmimmissionen.
+
+<sup>2</sup> Sie regelt auch die Abrechnung der Leistungen der Mitarbeiterinnen und Mitarbeiter des TBA für Bauarbeiten auf Kantonsstrassen mit städtebaulichem Anteil (Art. 64 MobG).
 
 #### Art. 2
 
@@ -57,7 +58,7 @@ beschliesst:
 - c) Kosten für die Inspektionen vor Ort;
 - d) Kosten für die Ausarbeitung besonderer Dokumente.
 
-<sup>2</sup> Die Grundgebühr und die Personalkosten entsprechen den vollständigen Kosten gemäss analytischer Buchhaltung.
+<sup>2</sup> …
 
 #### Art. 4
 
@@ -65,27 +66,33 @@ beschliesst:
 
 <sup>2</sup> Die Grundgebühr beträgt für (pro Fall):
 
-- a) Ortsplanung, Detailbebauungsplan, Güterumlegung, genereller Entwässerungsplan, Mobilitätsinfrastrukturplan: Fr. 300
-- b) Baubewilligungsgesuche für Dossiers, deren projektierte Arbeiten über 20'000 Franken liegen: Fr. 300
-- c) Baubewilligungsgesuche für Dossiers, deren projektierte Arbeiten unter 20'000 Franken liegen: Fr. 100
-- d) Strassensignalisationen: Fr. 100
-- e) Strassenreklamen: Fr. 50
-- f) Nutzungsbewilligungen für öffentliche Strassen oder deren Zubehör: Fr. 100
+- a) Ortsplan, Detailbebauungsplan, Güterumlegung, genereller Entwässerungsplan, Mobilitätsinfrastrukturplan: — Fr. 340
+- b) Baubewilligungsgesuche für Dossiers, deren projektierte Arbeiten über 25'000 Franken liegen: — Fr. 340
+- c) Baubewilligungsgesuche für Dossiers, deren projektierte Arbeiten unter 25'000 Franken liegen: — Fr. 100
+- d) Strassensignalisationen: — Fr. 120
+- e) Strassenreklamen: — Fr. 60
+- f) Nutzungsbewilligungen für öffentliche Strassen oder deren Zubehör: — Fr. 120
 - g) …
-- h) Bootsanlegeplätze: Fr. 100
-- i) Gesuche um Bundesbeiträge (LSV, LRV usw.): Fr. 50
+- h) …
+- i) …
 
-<sup>3</sup> Für Dossiers, die Gegenstand einer Vorprüfung sind, wird die Grundgebühr nur einmal verrechnet.
+<sup>3</sup> …
 
 #### Art. 5
 
 <sup>1</sup> Für sämtliche Leistungen, die von der Grundgebühr nicht betroffen sind oder keine Inspektion vor Ort erfordern, werden die Personalkosten auf der Grundlage der tatsächlich aufgewendeten Zeit berechnet und auf die nächste halbe Stunde aufgerundet.
 
-<sup>2</sup> Je Stunde werden 75 Franken berechnet.
+<sup>2</sup> Die Höhe der Personalkosten wird wie folgt berechnet:
+
+- a) Augenschein je Mitarbeiterin oder Mitarbeiter: — Fr. 150 /Std.
+- b) Koordinationssitzung je Mitarbeiterin oder Mitarbeiter: — Fr. 150 /Std.
+- c) Sekretariatsarbeiten: — Fr. 75 /Std.
+- d) Prüfung des Dossiers durch eine technische Sachbearbeiterin oder einen technischen Sachbearbeiter: — Fr. 100 /Std.
+- e) Prüfung des Dossiers durch eine wissenschaftliche Mitarbeiterin oder einen wissenschaftlichen Mitarbeiter: — Fr. 150 /Std.
 
 #### Art. 6
 
-<sup>1</sup> Die Kosten einer Inspektion vor Ort betragen pro Mitarbeiter und Ortsbesichtigung 75 Franken.
+**…**
 
 #### Art. 7
 
@@ -100,6 +107,14 @@ beschliesst:
 - c) Durchführung der Messungen pro Stunde: Fr. 75
 
 <sup>2</sup> Bei Messungen entlang der Kantonsstrassen werden die Gebühren nur erhoben, wenn die Immissionsgrenzwerte nicht erreicht sind.
+
+#### Art. 8a
+
+<sup>1</sup> Die Leistungen der Mitarbeiterinnen und Mitarbeiter des TBA (insbesondere die Leistungen der Projektleiterinnen und Projektleiter) für Bauarbeiten auf Kantonsstrassen mit städtebaulichem Anteil (Art. 64 MobG), werden der betreffenden Gemeinde im Verhältnis zum städtebaulichen Anteil in Rechnung gestellt.
+
+#### Art. 8b
+
+<sup>1</sup> Die Beträge werden jeweils am 1. Januar an den Landesindex der Konsumentenpreise angepasst, sofern im September der Anstieg des Index seit dem Inkrafttreten der Änderung vom 15. Dezember 2025 dieser Verordnung oder der letzten Anpassung 5 Punkte oder mehr beträgt (Referenzindex: Oktober 2025 = 107,2 Pkt.; Grundlage Dezember 2020 = 100 Pkt.).
 
 #### Art. 9
 
