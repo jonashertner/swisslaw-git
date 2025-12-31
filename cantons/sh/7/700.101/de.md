@@ -5,12 +5,12 @@ title: Verordnung zum Baugesetz
 short: BauV
 language: de
 version: 2026-01-01
-valid_until: 2026-06-30
+corrected: 2025-12-02
 version_adopted: 2025-12-02
 adopted: 1998-12-15
 in_force: 1999-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2042/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2011/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -258,7 +258,13 @@ beschliesst:
 
 <sup>4</sup> Für die Meldungen von baubewilligungsfreien Solaranlagen werden keine Gebühren erhoben.
 
-<sup>5</sup> …
+<sup>5</sup> Bis zur Inkraftsetzung der bundesrechtlichen Bestimmungen zur genügenden Anpassung von Solaranlagen an Fassaden in der Raumplanungsverordnung des Schweizerischen Bundesrats vom 28. Juni 2000 (SR 700.1) gelten Solaranlagen an einer Fassade als genügend angepasst im Sinne von Art. 54 Abs. 4 Baugesetz, wenn sie:
+
+- a nach dem Stand der Technik reflexionsarm ausgeführt sind;
+- b kompakt angeordnet sind;
+- c parallel zur Fassade verlaufen;
+- d nicht über die Fassadenflächen hinausragen; und
+- e die Fassadenfläche im rechten Winkel nicht mehr als 20 cm überragen.
 
 #### § 20quinquies
 
