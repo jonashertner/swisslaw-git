@@ -4,21 +4,21 @@ number: "265.5"
 title: Gesetz über die amtlichen Kosten
 short: "Gebührengesetz, GebG"
 language: de
-version: 2020-11-01
-corrected: 2021-11-09
-version_adopted: 2020-02-12
+version: 2026-01-01
+version_adopted: 2024-10-23
 adopted: 2001-06-27
 in_force: 2002-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/265.5"
-pdf: "https://gesetze.nw.ch/api/de/versions/103/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1439/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die amtlichen Kosten (Gebührengesetz, GebG)
+# Gesetz über die amtlichen Kosten
 
-vom 27. Juni 2001[^t-2][^t-1]
+(Gebührengesetz, GebG)
+
+vom 27.06.2001 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -26,16 +26,11 @@ gestützt auf Art. 60 der Kantonsverfassung,
 
 beschliesst:
 
-[^t-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
-[^t-2]: A 2001, 935, 1252; in Kraft seit 1. Januar 2002
-
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich**
-
-### 1. für die kantonale Verwaltung
+**Geltungsbereich 1. für die kantonale Verwaltung**
 
 <sup>1</sup> Dieses Gesetz regelt die Erhebung von amtlichen Kosten durch die kantonale Verwaltung für Amtshandlungen, Dienstleistungen, Verfügungen und Entscheide oder die Benützung öffentlicher Sachen und Einrichtungen.
 
@@ -43,11 +38,11 @@ beschliesst:
 
 #### Art. 2
 
-**2. für Gemeinden, Gemeindeverbände sowie**
+**2. für Gemeinden, Gemeindeverbände sowie kantonale und kommunale selbstständige Anstalten**
 
-kantonale und kommunale selbstständige Anstalten
+<sup>1</sup> Die Art. 3-8 und Art. 10-26 gelten auch für die Erhebung von amtlichen Kosten durch Gemeinden, Gemeindeverbände sowie kantonale und kommunale öffentlich-rechtliche Anstalten, soweit diese keine abweichenden Bestimmungen erlassen.
 
-<sup>1</sup> Die Art. 10 - 26 gelten auch für die Erhebung von amtlichen Kosten durch Gemeinden, Gemeindeverbände sowie kantonale und kommunale selbstständige Anstalten, soweit diese keine abweichenden Bestimmungen erlassen.
+<sup>1a</sup> Der Gebührentarif gemäss Art. 9 gilt für Gemeinden, Gemeindeverbände sowie kantonale und kommunale öffentlich-rechtliche Anstalten, soweit der Kanton für die Regelung der Gebühren zuständig ist.
 
 <sup>2</sup> Der administrative Rat beziehungsweise die Verwaltungsbehörde der Gemeindeverbände und Anstalten nimmt die Aufgaben und Befugnisse wahr, welche die Gebührengesetzgebung dem Regierungsrat zuweist.
 
@@ -55,23 +50,21 @@ kantonale und kommunale selbstständige Anstalten
 
 #### Art. 3
 
-**Begriffe**
+**Begriffe 1. amtliche Kosten**
 
-### 1. amtliche Kosten
-
-Die amtlichen Kosten umfassen Verwaltungs- und Benützungsgebühren sowie Auslagen.
+<sup>1</sup> Die amtlichen Kosten umfassen Verwaltungs- und Benützungsgebühren sowie Auslagen.
 
 #### Art. 4
 
 **2. Verwaltungsgebühren**
 
-Verwaltungsgebühren sind Abgaben für den Erlass von Verfügungen und Entscheiden sowie für die Inanspruchnahme oder Veranlassung von Amtshandlungen und Dienstleistungen.
+<sup>1</sup> Verwaltungsgebühren sind Abgaben für den Erlass von Verfügungen und Entscheiden sowie für die Inanspruchnahme oder Veranlassung von Amtshandlungen und Dienstleistungen.
 
 #### Art. 5
 
 **3. Benützungsgebühren**
 
-Benützungsgebühren sind Abgaben für die den Gemeingebrauch übersteigende Benützung öffentlicher Sachen oder Einrichtungen.
+<sup>1</sup> Benützungsgebühren sind Abgaben für die den Gemeingebrauch übersteigende Benützung öffentlicher Sachen oder Einrichtungen.
 
 #### Art. 6
 
@@ -80,22 +73,17 @@ Benützungsgebühren sind Abgaben für die den Gemeingebrauch übersteigende Ben
 <sup>1</sup> Als Auslagen gelten Kosten, die für Amtshandlungen, Dienstleistungen, Verfügungen und Entscheide zusätzlich anfallen, insbesondere:
 
 - 1\. Entschädigungen für Sachverständige, Beauftragte sowie Zeuginnen oder Zeugen;
-
 - 2\. Kosten für Beweiserhebungen, wissenschaftliche Untersuchungen, Gutachten, besondere Prüfungen oder die Beschaffung von Unterlagen;
-
 - 3\. Porti-, Telefon- und weitere Übermittlungskosten;
-
 - 4\. Kosten für Formulare;
-
 - 5\. Reise- und Transportkosten;
-
 - 6\. Kosten für Veröffentlichungen.
 
 <sup>2</sup> Für die Entschädigung von Zeuginnen oder Zeugen sowie von Sachverständigen sind die Bestimmungen der Gesetzgebung über die Prozesskosten[^6-1] anwendbar.
 
 [^6-1]: NG 261.11
 
-### II. ERHEBUNG VON AMTLICHEN KOSTEN
+## 2 Erhebung von amtlichen Kosten
 
 #### Art. 7
 
@@ -103,7 +91,7 @@ Benützungsgebühren sind Abgaben für die den Gemeingebrauch übersteigende Ben
 
 <sup>1</sup> Für alle Amtshandlungen, Dienstleistungen, Verfügungen und Entscheide sowie für die Benützung öffentlicher Sachen und Einrichtungen werden amtliche Kosten erhoben, sofern nicht die Unentgeltlichkeit vorgesehen ist.
 
-<sup>2</sup> Der Regierungsrat kann in Einführungsverordnungen zu bundes-rechtlichen Erlassen bestimmen, dass Amtshandlungen, Dienstleistungen, Verfügungen und Entscheide unentgeltlich sind.
+<sup>2</sup> Der Regierungsrat kann in Einführungsverordnungen zu bundesrechtlichen Erlassen bestimmen, dass Amtshandlungen, Dienstleistungen, Verfügungen und Entscheide unentgeltlich sind.
 
 #### Art. 8
 
@@ -112,28 +100,20 @@ Benützungsgebühren sind Abgaben für die den Gemeingebrauch übersteigende Ben
 <sup>1</sup> Die Verwaltung erhebt keine amtlichen Kosten:
 
 - 1\. für Auskünfte, Informationen und dergleichen ohne besonderen Aufwand;
-
 - 2\. für die Gewährung oder Verweigerung finanzieller Beitragsleistungen aller Art im erstinstanzlichen Verfahren;
-
 - 3\. für die Festlegung von Ersatzabgaben und Steuern aller Art im erstinstanzlichen Verfahren;
-
 - 4\. in Einspracheverfahren, sofern die Einsprache nicht leichtfertig oder trölerisch erfolgt ist;
-
 - 5\. in Aufsichtsbeschwerdeverfahren, sofern die Aufsichtsbeschwerde nicht leichtfertig oder trölerisch erfolgt ist.
 
 <sup>2</sup> Von Gemeinwesen werden keine amtlichen Kosten erhoben, wenn:
 
 - 1\. deren Erhebung in der Spezialgesetzgebung nicht ausdrücklich vorgesehen ist;
-
 - 2\. sie durch das Gemeinwesen nicht an Private weiterbelastet werden können;
-
 - 3\. die Verwaltungsangelegenheit keine vermögensrechtlichen Interessen betrifft.
 
 <sup>3</sup> Für die Benützung von Versammlungslokalen, welche politische oder gemeinnützige Organisationen für ihre nichtkommerzielle Tätigkeit benützen, werden in der Regel keine amtlichen Kosten erhoben.
 
-<sup>4</sup> In Einwendungsverfahren werden von Einwenderinnen und Einwendern keine amtlichen Kosten erhoben, sofern die Einwendung nicht offensichtlich missbräuchlich erfolgt. Die Kosten des Einwendungsverfahrens sind durch die Gesuchstellerinnen beziehungsweise Gesuchsteller zu tragen.[^8-1]
-
-[^8-1]: Fassung gemäss Landratsbeschluss vom 12. Februar 2020, A 2020, 327, 2029; in Kraft seit 1. November 2020
+<sup>4</sup> In Einwendungsverfahren werden von Einwenderinnen und Einwendern keine amtlichen Kosten erhoben, sofern die Einwendung nicht offensichtlich missbräuchlich erfolgt. Die Kosten des Einwendungsverfahrens sind durch die Gesuchstellerinnen beziehungsweise Gesuchsteller zu tragen.
 
 #### Art. 9
 
@@ -143,7 +123,7 @@ Benützungsgebühren sind Abgaben für die den Gemeingebrauch übersteigende Ben
 
 <sup>2</sup> Er überprüft die Gebühren regelmässig und passt sie der Kostenentwicklung an.
 
-### III. GEBÜHRENFESTSETZUNG
+## 3 Gebührenfestsetzung
 
 #### Art. 10
 
@@ -157,7 +137,7 @@ Benützungsgebühren sind Abgaben für die den Gemeingebrauch übersteigende Ben
 
 **Benützungsgebühren**
 
-Die Benützungsgebühren werden nach dem wirtschaftlichen Vorteil, der sich aus der Benützung öffentlicher Sachen und Einrichtungen ergibt, sowie nach den Grundsätzen der Äquivalenz und der Rechtsgleichheit festgesetzt.
+<sup>1</sup> Die Benützungsgebühren werden nach dem wirtschaftlichen Vorteil, der sich aus der Benützung öffentlicher Sachen und Einrichtungen ergibt, sowie nach den Grundsätzen der Äquivalenz und der Rechtsgleichheit festgesetzt.
 
 #### Art. 12
 
@@ -173,15 +153,15 @@ Die Benützungsgebühren werden nach dem wirtschaftlichen Vorteil, der sich aus 
 
 **Bewilligungsverfahren**
 
-Die Gebühren für die Verweigerung oder den Entzug von Bewilligungen richten sich nach den für die Bewilligungserteilung massgebenden Tarifen.
+<sup>1</sup> Die Gebühren für die Verweigerung oder den Entzug von Bewilligungen richten sich nach den für die Bewilligungserteilung massgebenden Tarifen.
 
 #### Art. 14
 
 **Mehrwertsteuer**
 
-Wo gebührenpflichtige Verrichtungen der Mehrwertsteuer unterliegen, wird diese zusätzlich zu den amtlichen Kosten in Rechnung gestellt.
+<sup>1</sup> Wo gebührenpflichtige Verrichtungen der Mehrwertsteuer unterliegen, wird diese zusätzlich zu den amtlichen Kosten in Rechnung gestellt.
 
-### IV. ZAHLUNGSMODALITÄTEN
+## 4 Zahlungsmodalitäten
 
 #### Art. 15
 
@@ -197,7 +177,7 @@ Wo gebührenpflichtige Verrichtungen der Mehrwertsteuer unterliegen, wird diese 
 
 **Solidarhaftung**
 
-Sind mehrere Personen zahlungspflichtig, haften sie solidarisch für die Gesamtgebühr.
+<sup>1</sup> Sind mehrere Personen zahlungspflichtig, haften sie solidarisch für die Gesamtgebühr.
 
 #### Art. 17
 
@@ -206,11 +186,8 @@ Sind mehrere Personen zahlungspflichtig, haften sie solidarisch für die Gesamtg
 <sup>1</sup> Die Verwaltung kann einen angemessenen Kostenvorschuss verlangen, sofern nicht von Amtes wegen gehandelt werden muss und die kostenpflichtige Person:
 
 - 1\. keinen festen Wohnsitz in der Schweiz hat;
-
 - 2\. mit der Bezahlung früherer amtlicher Kosten im Verzug ist;
-
 - 3\. einen Beweis veranlasst, dessen Abnahme mit verhältnismässig hohen Kosten verbunden ist;
-
 - 4\. ein Verfahren veranlasst, das mit verhältnismässig hohen Kosten verbunden ist.
 
 <sup>2</sup> Nach fruchtlosem Ablauf der für die Leistung des Kostenvorschusses angesetzten Frist wird eine kurze Nachfrist mit der Androhung angesetzt, das Verfahren abzuschreiben oder die beantragte Handlung zu unterlassen.
@@ -224,9 +201,7 @@ Sind mehrere Personen zahlungspflichtig, haften sie solidarisch für die Gesamtg
 <sup>1</sup> Die amtlichen Kosten werden fällig mit:
 
 - 1\. der Amtshandlung oder Dienstleistung;
-
 - 2\. der Rechtskraft der Verfügung oder des Entscheides;
-
 - 3\. der Zusage zur Benützung öffentlicher Sachen und Einrichtungen.
 
 <sup>2</sup> Wird die Festlegung der amtlichen Kosten angefochten, tritt die Fälligkeit mit der Rechtskraft des Beschwerdeentscheides ein.
@@ -268,9 +243,7 @@ Sind mehrere Personen zahlungspflichtig, haften sie solidarisch für die Gesamtg
 <sup>1</sup> Diejenige Instanz, welche amtliche Kosten erhoben hat, kann sie auf Gesuch hin im Einzelfall ganz oder teilweise erlassen, wenn:
 
 - 1\. die Amtshandlung oder Dienstleistung nicht zum Abschluss gelangt;
-
 - 2\. die kostenpflichtige Person sich in einer Notlage befindet oder wenn die Zahlung der amtlichen Kosten für sie eine besondere Härte bedeuten würde;
-
 - 3\. die Amtshandlung, die Dienstleistung, die Verfügung, der Entscheid oder die Benützung öffentlicher Sachen und Einrichtungen im Interesse eines gemeinnützigen Unternehmens erfolgt.
 
 <sup>2</sup> Für diesen Entscheid werden keine amtlichen Kosten erhoben.
@@ -279,10 +252,9 @@ Sind mehrere Personen zahlungspflichtig, haften sie solidarisch für die Gesamtg
 
 **Stundung**
 
-Die für das Inkasso zuständige Instanz kann amtliche Kosten auf begründetes Gesuch hin im Einzelfall stunden, wenn:
+<sup>1</sup> Die für das Inkasso zuständige Instanz kann amtliche Kosten auf begründetes Gesuch hin im Einzelfall stunden, wenn:
 
 - 1\. die kostenpflichtige Person sich in einer Notlage befindet oder die termingerechte Zahlung für sie eine besondere Härte bedeuten würde;
-
 - 2\. andere wichtige Gründe vorliegen.
 
 #### Art. 24
@@ -296,20 +268,16 @@ Die für das Inkasso zuständige Instanz kann amtliche Kosten auf begründetes G
 <sup>3</sup> Die Verjährung beginnt nicht oder steht still:
 
 - 1\. wenn ein beschwerdefähiger Entscheid verlangt wird;
-
 - 2\. während eines Einsprache- oder Beschwerdeverfahrens;
-
 - 3\. solange eine Gebührenforderung gestundet ist.
 
 <sup>4</sup> Die Verjährung beginnt neu mit:
 
 - 1\. jeder auf Feststellung der Gebührenforderung gerichteten Handlung der Verwaltung, die der gebührenpflichtigen Person zur Kenntnis gebracht wird;
-
 - 2\. jeder Anerkennung der Gebührenforderung durch die gebührenpflichtige Person;
-
 - 3\. der Einreichung eines Erlassgesuches.
 
-### V. RECHTSSCHUTZ
+## 5 Rechtsschutz
 
 #### Art. 25
 
@@ -323,37 +291,33 @@ Die für das Inkasso zuständige Instanz kann amtliche Kosten auf begründetes G
 
 **Anfechtbarkeit**
 
-Die Festlegung der amtlichen Kosten kann selbstständig oder mit der Hauptsache angefochten werden.
-
-[^26-1]: Fassung gemäss Landratsbeschluss vom 27. Mai 2015, A 2015, 881, 1338; in Kraft seit 1. Januar 2016
+<sup>1</sup> Die Festlegung der amtlichen Kosten kann selbstständig oder mit der Hauptsache angefochten werden.
 
 #### Art. 27
 
-**…[^26-1]**
+**…**
 
-### VI. VOLLZUGS- UND SCHLUSSBESTIMMUNGEN
+## 6 Vollzugs- und Schlussbestimmungen
 
 #### Art. 28
 
 **Vollzug**
 
-Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen.
 
 #### Art. 29
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts 1. Gemeindegesetz**
 
-### 1. Gemeindegesetz
+<sup>1</sup> Das Gesetz vom 28. April 1974 über Organisation und Verwaltung der Gemeinden (Gemeindegesetz)[^29-1] wird wie folgt geändert: …
 
-Das Gesetz vom 28. April 1974 über Organisation und Verwaltung der Gemeinden (Gemeindegesetz)[^h1Gemeindegesetz-1] wird wie folgt geändert: ...
-
-[^h1Gemeindegesetz-1]: NG 171.1
+[^29-1]: NG 171.1
 
 #### Art. 30
 
 **2. Einführungsgesetz zum Zivilgesetzbuch**
 
-Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch)[^30-1] wird wie folgt geändert: ...
+<sup>1</sup> Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch)[^30-1] wird wie folgt geändert: …
 
 [^30-1]: NG 211.1
 
@@ -361,7 +325,7 @@ Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilges
 
 **3. Vollziehungsverordnung 2 zum EGZGB**
 
-Die Vollziehungsverordnung vom 29. Juni 1994 zum Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches betreffend das herrenlose Land und den Untergrund (Vollziehungsverordnung 2 zum EGZGB)[^31-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Vollziehungsverordnung vom 29. Juni 1994 zum Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches betreffend das herrenlose Land und den Untergrund (Vollziehungsverordnung 2 zum EGZGB)[^31-1] wird wie folgt geändert: …
 
 [^31-1]: NG 211.15
 
@@ -369,7 +333,7 @@ Die Vollziehungsverordnung vom 29. Juni 1994 zum Gesetz über die Einführung de
 
 **4. Kantonale Zivilstandsverordnung**
 
-Die Einführungsverordnung vom 24. September 1982 zur Bundesgesetzgebung über das Zivilstandswesen (Kantonale Zivilstandsverordnung)[^32-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Einführungsverordnung vom 24. September 1982 zur Bundesgesetzgebung über das Zivilstandswesen (Kantonale Zivilstandsverordnung)[^32-1] wird wie folgt geändert: …
 
 [^32-1]: NG 212.1
 
@@ -377,7 +341,7 @@ Die Einführungsverordnung vom 24. September 1982 zur Bundesgesetzgebung über d
 
 **5. Grundbuchgesetz**
 
-Das Gesetz vom 26. April 1964 über das Grundbuch[^33-1] wird wie folgt geändert: ...
+<sup>1</sup> Das Gesetz vom 26. April 1964 über das Grundbuch[^33-1] wird wie folgt geändert: …
 
 [^33-1]: NG 214.1
 
@@ -385,7 +349,7 @@ Das Gesetz vom 26. April 1964 über das Grundbuch[^33-1] wird wie folgt geänder
 
 **6. Nomenklaturverordnung**
 
-Die Verordnung vom 20. Mai 1987 über die Erhebung und Schreibweise der Lokalnamen (Nomenklaturverordnung)[^34-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung vom 20. Mai 1987 über die Erhebung und Schreibweise der Lokalnamen (Nomenklaturverordnung)[^34-1] wird wie folgt geändert: …
 
 [^34-1]: NG 214.21
 
@@ -393,7 +357,7 @@ Die Verordnung vom 20. Mai 1987 über die Erhebung und Schreibweise der Lokalnam
 
 **7. Prozesskostenverordnung**
 
-Die Verordnung vom 8. Januar 1977 über die Kosten im Verfahren vor den Gerichten (Prozesskostenverordnung)[^35-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung vom 8. Januar 1977 über die Kosten im Verfahren vor den Gerichten (Prozesskostenverordnung)[^35-1] wird wie folgt geändert: …
 
 [^35-1]: NG 261.11
 
@@ -401,7 +365,7 @@ Die Verordnung vom 8. Januar 1977 über die Kosten im Verfahren vor den Gerichte
 
 **8. Verwaltungsrechtspflegeverordnung**
 
-Die Verordnung vom 8. Februar 1985 über das Verwaltungsverfahren und die Verwaltungsrechtspflege (Verwaltungsrechtspflegeverordnung)[^36-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung vom 8. Februar 1985 über das Verwaltungsverfahren und die Verwaltungsrechtspflege (Verwaltungsrechtspflegeverordnung)[^36-1] wird wie folgt geändert: …
 
 [^36-1]: NG 265.1
 
@@ -409,7 +373,7 @@ Die Verordnung vom 8. Februar 1985 über das Verwaltungsverfahren und die Verwal
 
 **9. Beurkundungsgebührenverordnung**
 
-Die Verordnung vom 19. April 1994 über die Beurkundungsgebühren[^37-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung vom 19. April 1994 über die Beurkundungsgebühren[^37-1] wird wie folgt geändert: …
 
 [^37-1]: NG 268.12
 
@@ -417,7 +381,7 @@ Die Verordnung vom 19. April 1994 über die Beurkundungsgebühren[^37-1] wird wi
 
 **10. Gefängnisverordnung**
 
-Die Verordnung vom 20. September 1989 über das kantonale Gefängnis (Gefängnisverordnung)[^38-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung vom 20. September 1989 über das kantonale Gefängnis (Gefängnisverordnung)[^38-1] wird wie folgt geändert: …
 
 [^38-1]: NG 273.41
 
@@ -425,7 +389,7 @@ Die Verordnung vom 20. September 1989 über das kantonale Gefängnis (Gefängnis
 
 **11. Berufsbildungsverordnung**
 
-Die Vollziehungsverordnung vom 5. Juli 1989 zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsverordnung)[^39-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Vollziehungsverordnung vom 5. Juli 1989 zum Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung (Berufsbildungsverordnung)[^39-1] wird wie folgt geändert: …
 
 [^39-1]: NG 313.11
 
@@ -433,7 +397,7 @@ Die Vollziehungsverordnung vom 5. Juli 1989 zum Einführungsgesetz zur Bundesges
 
 **12. Mittelschulgesetz**
 
-Das Gesetz vom 26. April 1987 über die kantonale Mittelschule (Mittelschulgesetz)[^40-1] wird wie folgt geändert: ...
+<sup>1</sup> Das Gesetz vom 26. April 1987 über die kantonale Mittelschule (Mittelschulgesetz)[^40-1] wird wie folgt geändert: …
 
 [^40-1]: NG 314.1
 
@@ -441,7 +405,7 @@ Das Gesetz vom 26. April 1987 über die kantonale Mittelschule (Mittelschulgeset
 
 **13. Museumsverordnung**
 
-Die Verordnung vom 2. Dezember 1983 über das Nidwaldner Museum (Museumsverordnung)[^41-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung vom 2. Dezember 1983 über das Nidwaldner Museum (Museumsverordnung)[^41-1] wird wie folgt geändert: …
 
 [^41-1]: NG 325.11
 
@@ -449,7 +413,7 @@ Die Verordnung vom 2. Dezember 1983 über das Nidwaldner Museum (Museumsverordnu
 
 **14. Bauverordnung**
 
-Die Vollziehungsverordnung vom 3. Juli 1996 zum Gesetz über die Raumplanung und das öffentliche Baurecht (Bauverordnung)[^42-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Vollziehungsverordnung vom 3. Juli 1996 zum Gesetz über die Raumplanung und das öffentliche Baurecht (Bauverordnung)[^42-1] wird wie folgt geändert: …
 
 [^42-1]: NG 611.11
 
@@ -457,7 +421,7 @@ Die Vollziehungsverordnung vom 3. Juli 1996 zum Gesetz über die Raumplanung und
 
 **15. Strassenverkehrsverordnung**
 
-Die Vollziehungsverordnung vom 21. Oktober 1967 zum Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr[^43-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Vollziehungsverordnung vom 21. Oktober 1967 zum Einführungsgesetz zur Bundesgesetzgebung über den Strassenverkehr[^43-1] wird wie folgt geändert: …
 
 [^43-1]: NG 651.11
 
@@ -465,7 +429,7 @@ Die Vollziehungsverordnung vom 21. Oktober 1967 zum Einführungsgesetz zur Bunde
 
 **16. Personenbeförderungsverordnung**
 
-Die Einführungsverordnung vom 10. Dezember 1997 zur Automobilkonzessionsverordnung (Personenbeförderungsverordnung)[^44-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Einführungsverordnung vom 10. Dezember 1997 zur Automobilkonzessionsverordnung (Personenbeförderungsverordnung)[^44-1] wird wie folgt geändert: …
 
 [^44-1]: NG 652.21
 
@@ -473,7 +437,7 @@ Die Einführungsverordnung vom 10. Dezember 1997 zur Automobilkonzessionsverordn
 
 **17. Luftfahrtsverordnung**
 
-Die Einführungsverordnung vom 24. September 1977 zur Bundesgesetzgebung über die Luftfahrt[^45-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Einführungsverordnung vom 24. September 1977 zur Bundesgesetzgebung über die Luftfahrt[^45-1] wird wie folgt geändert: …
 
 [^45-1]: NG 655.1
 
@@ -481,7 +445,7 @@ Die Einführungsverordnung vom 24. September 1977 zur Bundesgesetzgebung über d
 
 **18. Gesundheitsverordnung**
 
-Die Verordnung vom 10. Dezember 1997 über die Berufe der Gesundheitspflege (Gesundheitsverordnung)[^46-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Verordnung vom 10. Dezember 1997 über die Berufe der Gesundheitspflege (Gesundheitsverordnung)[^46-1] wird wie folgt geändert: …
 
 [^46-1]: NG 712.11
 
@@ -489,7 +453,7 @@ Die Verordnung vom 10. Dezember 1997 über die Berufe der Gesundheitspflege (Ges
 
 **19. Kantonale Lebensmittelverordnung**
 
-Die Einführungsverordnung vom 18. Dezember 1996 zur Bundesge-setzgebung über Lebensmittel und Gebrauchsgegenstände (Kantonale Lebensmittelverordnung)[^47-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Einführungsverordnung vom 18. Dezember 1996 zur Bundesgesetzgebung über Lebensmittel und Gebrauchsgegenstände (Kantonale Lebensmittelverordnung)[^47-1] wird wie folgt geändert: …
 
 [^47-1]: NG 717.1
 
@@ -497,7 +461,7 @@ Die Einführungsverordnung vom 18. Dezember 1996 zur Bundesge-setzgebung über L
 
 **20. Kantonale Gewässerschutzverordnung**
 
-Die Vollziehungsverordnung vom 8. Dezember 1974 zum Einführungsgesetz zur Bundesgesetzgebung über den Schutz der Gewässer (Gewässerschutzverordnung)[^48-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Vollziehungsverordnung vom 8. Dezember 1974 zum Einführungsgesetz zur Bundesgesetzgebung über den Schutz der Gewässer (Gewässerschutzverordnung)[^48-1] wird wie folgt geändert: …
 
 [^48-1]: NG 722.11
 
@@ -505,7 +469,7 @@ Die Vollziehungsverordnung vom 8. Dezember 1974 zum Einführungsgesetz zur Bunde
 
 **21. Berufliche Vorsorgeverordnung**
 
-Die Einführungsverordnung vom 11. Januar 1985 zur Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen und Invalidenvorsorge (Berufliche Vorsorgeverordnung)[^49-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Einführungsverordnung vom 11. Januar 1985 zur Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen und Invalidenvorsorge (Berufliche Vorsorgeverordnung)[^49-1] wird wie folgt geändert: …
 
 [^49-1]: NG741.4
 
@@ -513,7 +477,7 @@ Die Einführungsverordnung vom 11. Januar 1985 zur Bundesgesetzgebung über die 
 
 **22. Wirtschaftsförderungsgesetz**
 
-Das Gesetz vom 20. Oktober 1999 über die Förderung der Wirtschaft (Wirtschaftsförderungsgesetz)[^50-1] wird wie folgt geändert: ...
+<sup>1</sup> Das Gesetz vom 20. Oktober 1999 über die Förderung der Wirtschaft (Wirtschaftsförderungsgesetz)[^50-1] wird wie folgt geändert: …
 
 [^50-1]: NG 811.1
 
@@ -521,7 +485,7 @@ Das Gesetz vom 20. Oktober 1999 über die Förderung der Wirtschaft (Wirtschafts
 
 **23. Landwirtschaftsverordnung**
 
-Die Vollziehungsverordnung vom 23. November 1994 zum Einführungsgesetz zur Bundesgesetzgebung über die Förderung der Landwirtschaft und die Erhaltung des Bauernstandes (Landwirtschaftsverordnung)[^51-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Vollziehungsverordnung vom 23. November 1994 zum Einführungsgesetz zur Bundesgesetzgebung über die Förderung der Landwirtschaft und die Erhaltung des Bauernstandes (Landwirtschaftsverordnung)[^51-1] wird wie folgt geändert: …
 
 [^51-1]: NG 821.11
 
@@ -529,7 +493,7 @@ Die Vollziehungsverordnung vom 23. November 1994 zum Einführungsgesetz zur Bund
 
 **24. Bäuerliche Bodenrechtsverordnung**
 
-Die Einführungsverordnung vom 15. Dezember 1993 zum Bundesgesetz über das bäuerliche Bodenrecht[^52-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Einführungsverordnung vom 15. Dezember 1993 zum Bundesgesetz über das bäuerliche Bodenrecht[^52-1] wird wie folgt geändert: …
 
 [^52-1]: NG 825.11
 
@@ -537,7 +501,7 @@ Die Einführungsverordnung vom 15. Dezember 1993 zum Bundesgesetz über das bäu
 
 **25. Kantonales Waldgesetz**
 
-Das Einführungsgesetz vom 11. März 1998 zum Bundesgesetz über den Wald (Kantonales Waldgesetz)[^53-1] wird wie folgt geändert: ...
+<sup>1</sup> Das Einführungsgesetz vom 11. März 1998 zum Bundesgesetz über den Wald (Kantonales Waldgesetz)[^53-1] wird wie folgt geändert: …
 
 [^53-1]: NG 831.1
 
@@ -545,7 +509,7 @@ Das Einführungsgesetz vom 11. März 1998 zum Bundesgesetz über den Wald (Kanto
 
 **26. Bergregalverordnung**
 
-Die Vollziehungsverordnung vom 29. Juni 1994 zum Gesetz über die Gewinnung mineralischer Rohstoffe (Bergregalverordnung)[^54-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Vollziehungsverordnung vom 29. Juni 1994 zum Gesetz über die Gewinnung mineralischer Rohstoffe (Bergregalverordnung)[^54-1] wird wie folgt geändert: …
 
 [^54-1]: NG 852.11
 
@@ -553,7 +517,7 @@ Die Vollziehungsverordnung vom 29. Juni 1994 zum Gesetz über die Gewinnung mine
 
 **27. Gastgewerbegesetz**
 
-Das Gesetz vom 28. April 1996 über das Gastgewerbe und den Handel mit alkoholischen Getränken[^55-1] wird wie folgt geändert: ...
+<sup>1</sup> Das Gesetz vom 28. April 1996 über das Gastgewerbe und den Handel mit alkoholischen Getränken[^55-1] wird wie folgt geändert: …
 
 [^55-1]: NG 854.1
 
@@ -561,7 +525,7 @@ Das Gesetz vom 28. April 1996 über das Gastgewerbe und den Handel mit alkoholis
 
 **28. Kantonale Lotterieverordnung**
 
-Die Einführungsverordnung vom 5. Januar 1929 zum Bundesgesetz betreffend die Lotterien und die gewerbsmässigen Wetten[^56-1] wird wie folgt geändert: ...
+<sup>1</sup> Die Einführungsverordnung vom 5. Januar 1929 zum Bundesgesetz betreffend die Lotterien und die gewerbsmässigen Wetten[^56-1] wird wie folgt geändert: …
 
 [^56-1]: NG 932.1
 
@@ -569,7 +533,7 @@ Die Einführungsverordnung vom 5. Januar 1929 zum Bundesgesetz betreffend die Lo
 
 **29. Spielgesetz**
 
-Das Gesetz vom 2. Juli 1997 über das Geldspiel in öffentlichen Lokalen (Spielgesetz)[^57-1] wird wie folgt geändert: ...
+<sup>1</sup> Das Gesetz vom 2. Juli 1997 über das Geldspiel in öffentlichen Lokalen (Spielgesetz)[^57-1] wird wie folgt geändert: …
 
 [^57-1]: NG 933.1
 
@@ -577,12 +541,10 @@ Das Gesetz vom 2. Juli 1997 über das Geldspiel in öffentlichen Lokalen (Spielg
 
 **Aufhebung bisherigen Rechts**
 
-Folgende Erlasse werden aufgehoben:
+<sup>1</sup> Folgende Erlasse werden aufgehoben:
 
 - 1\. Verordnung vom 20. Mai 1987 über die amtlichen Kosten der kantonalen Verwaltung (Verwaltungsgebührenverordnung)[^58-1];
-
 - 2\. Verordnung vom 2. Juli 1997 über die amtlichen Kosten der Teilungsbehörden, der kommunalen Vormundschaftsbehörden und der Amtsvormundschaft (Gebührenverordnung ZGB)[^58-2];
-
 - 3\. Verordnung vom 8. Februar 1995 über die Grundbuchgebühren[^58-3].
 
 [^58-1]: NG 265.11
@@ -597,11 +559,6 @@ Folgende Erlasse werden aufgehoben:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens[^59-1] fest.
 
-[^59-1]: A 2001, 935, 1252; in Kraft seit 1. Januar 2002
+[^59-1]: In Kraft seit 1. Januar 2002
 
-## Weitere Fussnoten
-
-- [6] NG 265.5
-- [10] SR 172.042.110
-- [14] NG 262.1
-- [17] NG 265.51
+A 2001, 935, 1252
