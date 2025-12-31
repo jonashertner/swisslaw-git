@@ -4,13 +4,12 @@ number: "260"
 title: "Gesetz über die Organisation der Gerichte und Behörden in Zivil-, Straf- und verwaltungsgerichtlichen Verfahren"
 short: "Justizgesetz, JusG"
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-21
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2010-05-10
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/260"
-pdf: "https://srl.lu.ch/api/de/versions/4400/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4662/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4400/pdf_file"
 
 (Justizgesetz, JusG)
 
-vom 10.05.2010 (Stand 01.06.2025)
+vom 10.05.2010 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -376,7 +375,7 @@ beschliesst:
 - a. den Erlass der Geschäftsordnung,
 - b. den Erlass der von der Rechtsordnung vorgesehenen Verordnungen,
 - c. die Wahlvorschläge nach § 7,
-- d. die Wahl des Generalsekretärs oder der Generalsekretärin und des Stellvertreters oder der Stellvertreterin,
+- d. die Anstellung des Generalsekretärs oder der Generalsekretärin und des Stellvertreters oder der Stellvertreterin,
 - e. die Konstituierung des Kantonsgerichtes,
 - f. weitere, in der Geschäftsordnung bezeichnete Aufgaben.
 
