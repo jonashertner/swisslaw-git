@@ -4,7 +4,7 @@ number: "741.11.1"
 title: "RÈGLEMENT du 04.10.2023 d'application de la loi du 21 mars 2023 sur la taxe des véhicules automobiles et des bateaux (RTVB)"
 short: RTVB
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/741.11.1?id=1169c2ee-85ba-42cf-a109-b2474e19e4fa"
 ---
 
@@ -136,9 +136,9 @@ arrête
 - 2\. 75% si le véhicule émet de 95 à 100 gr de CO2 par km;
 - 3\. 60% si le véhicule émet de 101 à 119 gr de CO2 par km.
 - b. est majorée de:
-- 1\. 10% si le véhicule émet entre 150 et 179 gr de CO2 par km;
-- 2\. 15% si le véhicule émet entre 180 et 199 gr de CO2 par km;
-- 3\. 25% si le véhicule émet 200 gr de CO2 par km et plus.
+- 1\. 15% si le véhicule émet entre 150 et 179 gr de CO2 par km;
+- 2\. 25% si le véhicule émet entre 180 et 199 gr de CO2 par km;
+- 3\. 50% si le véhicule émet 200 gr de CO2 par km et plus.
 
 <sup>2</sup> La taxe des voitures automobiles légères, immatriculées pour la première fois dès le 1er janvier 2021 (selon le cycle d'essai des émissions de CO2 WLTP) :
 
@@ -147,11 +147,11 @@ arrête
 - 2\. 75% si le véhicule émet de 118 à 124 gr de CO2 par km;
 - 3\. 60% si le véhicule émet de 125 à 148 gr de CO2 par km.
 - b. est majorée de:
-- 1\. 10% si le véhicule émet entre 187 et 222 gr de CO2 par km;
-- 2\. 15% si le véhicule émet entre 223 et 247 gr de CO2 par km;
-- 3\. 25% si le véhicule émet 248 gr de CO2 par km et plus.
+- 1\. 15% si le véhicule émet entre 187 et 222 gr de CO2 par km;
+- 2\. 25% si le véhicule émet entre 223 et 247 gr de CO2 par km;
+- 3\. 50% si le véhicule émet 248 gr de CO2 par km et plus.
 
-<sup>3</sup> La taxe est majorée de 15% si les émissions de gr de CO2 par km ne sont pas connues.
+<sup>3</sup> La taxe est majorée de 25% si les émissions de gr de CO2 par km ne sont pas connues.
 
 [^chapterChapitreIV-1]: Modif. 1 du 19.11.2025: Modification Al. 1, b, 3; entrée en vigueur au 01.01.2026; Modification Al. 2, b, 3; entrée en vigueur au 01.01.2026 · Modif. 2 du 23.12.2025: Modification Al. 1, b, 1-3; entrée en vigueur au 01.01.2026; Modification Al. 2, b, 1-3; entrée en vigueur au 01.01.2026; Modification Al. 3; entrée en vigueur au 01.01.2026
 
