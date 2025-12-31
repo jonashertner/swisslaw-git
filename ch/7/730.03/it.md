@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2017 sulla promozione della produzione di ele
 short: OPEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: it
-version: 2025-09-10
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250910-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250910/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250910/it"
 
 (Ordinanza sulla promozione dell’energia, OPEn)
 
-del 1° novembre 2017 (Stato 10 settembre 2025)
+del 1° novembre 2017 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -160,24 +160,24 @@ Se il gestore di un impianto, in virtù dell’articolo 29*b* LEne, ha il diritt
 
 <sup>1</sup>
 
-Oltre agli impianti idroelettrici collegati con impianti di approvvigionamento di acqua potabile e di smaltimento delle acque di scarico, gli impianti idroelettrici seguenti sono esclusi dal limite inferiore di cui all’articolo 19 capoverso 4 lettera a LEne:
+Gli impianti idroelettrici seguenti sono esclusi dai limiti inferiori di cui agli articoli 19 capoverso 4 lettera a, 26 capoverso 1 e 29*a* capoverso 1 lettere a e b LEne:
 
 - a. centrali con utilizzo di acqua di dotazione;
 - b. impianti presso scolatori di piena creati in modo artificiale, canali industriali e canali di derivazione e di restituzione esistenti, sempre che non vengano provocati nuovi interventi nelle acque naturali o preziose sul piano ecologico;
-- c. impianti accessori come impianti ad acqua irrigua, centrali che utilizzano l’infrastruttura per l’innevamento artificiale o acqua di galleria.
+- c. impianti accessori come impianti idroelettrici collegati con impianti di approvvigionamento di acqua potabile, di innevamento artificiale o di smaltimento delle acque di scarico, impianti ad acqua irrigua o impianti idroelettrici per lo sfruttamento dell’acqua di galleria.
 
 <sup>2</sup>
 
-Oltre agli impianti accessori secondo l’articolo 26 capoverso 4 LEne, gli impianti idroelettrici seguenti sono esclusi dal limite inferiore di cui all’articolo 26 capoverso 1 LEne:
+Un impianto non è considerato accessorio se:
 
-- a. centrali con utilizzo di acqua di dotazione;
-- b. impianti presso scolatori di piena creati in modo artificiale, canali industriali e canali di derivazione e di restituzione esistenti, sempre che non vengano provocati nuovi interventi nelle acque naturali o preziose sul piano ecologico;
-- c.[^9-2] impianti nei quali vengono o sono state realizzate misure di risanamento di cui all’articolo 83*a* della legge federale del 24 gennaio 1991[^9-3] sulla protezione delle acque (LPAc) o all’articolo 10 della legge federale del 21 giugno 1991[^9-4] sulla pesca (LFSP), sempre che gli ampliamenti o i rinnovamenti non causino nuovo o ulteriore pregiudizio sul piano ecologico.
+- a. una delle parti dell’impianto che serve sia all’utilizzazione principale che a quella accessoria, quali prese d’acqua, condotte forzate e serbatoi di accumulo, è dimensionata per una portata massima maggiore rispetto a quanto necessario per l’utilizzazione principale; oppure
+- b. per l’utilizzazione accessoria è costruita una presa d’acqua supplementare.
 
-[^9-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
-[^9-2]: Introdotta dalla cifra I dell’O del 24 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^9-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
-[^9-4]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+<sup>3</sup> Oltre agli impianti secondo il capoverso 1 sono esclusi dai limiti inferiori di cui agli articoli 26 capoverso 1 e 29*a* capoverso 1 lettere a e b LEne gli impianti nei quali sono o sono state realizzate misure di risanamento di cui all’articolo 83*a* della legge federale del 24 gennaio 1991[^9-2] sulla protezione delle acque (LPAc) o all’articolo 10 della legge federale del 21 giugno 1991[^9-3] sulla pesca (LFSP), sempre che gli ampliamenti o i rinnovamenti non causino nuovo o ulteriore pregiudizio sul piano ecologico.
+
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^9-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^9-3]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 10
 
@@ -253,7 +253,7 @@ Al sistema di rimunerazione per l’immissione di elettricità possono partecipa
 
 <sup>4</sup> Per i gestori di impianti assoggettati all’imposta secondo gli articoli 10–13 della legge del 12 giugno 2009[^16-1] sull’IVA (LIVA), il premio per l’immissione in rete si riduce del fattore calcolato come segue, in base all’aliquota normale vigente secondo l’articolo 25 capoverso 1 LIVA e arrotondato alla quarta cifra decimale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image1.png).[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image1.png).[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Introdotto dalla cifra I dell’O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -573,6 +573,11 @@ La percentuale è la seguente:
 - a. per gli impianti idroelettrici: 5 per cento;
 - b. per gli impianti a biomassa ed eolici: 10 per cento.
 
+<sup>6</sup> Se a un impianto idroelettrico soggetto al sistema del premio di mercato fluttuante è applicabile la rimunerazione minima di cui all’articolo 15 capoverso 1<sup>bis</sup> LEne, per tale periodo vale come prezzo di mercato di riferimento la rimunerazione minima determinante di cui all’articolo 12 capoverso 1<sup>bis</sup> lettera d OEn[^30aquinquies-1].[^30aquinquies-2]
+
+[^30aquinquies-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^30aquinquies-2]: Introdotto dalla cifra II dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+
 #### Art. 30a<sup>sexies</sup>
 
 **Riduzione del premio di mercato fluttuante per i gestori soggetti ad IVA**
@@ -605,7 +610,11 @@ La percentuale è la seguente:
 
 <sup>5</sup> Se il gestore non presenta entro i termini fissati e in forma integrale la notifica di messa in esercizio o le altre informazioni necessarie per i versamenti di cui al capoverso 1 o 2, non sussiste alcun diritto alla rimunerazione fino al momento della presentazione di tali informazioni.
 
+<sup>5bis</sup> Se il gestore non presenta entro i termini fissati e in forma integrale il conteggio dei costi di costruzione di cui all’articolo 30*c*<sup>quinquies</sup> capoverso 5, il bonus per la produzione elettrica invernale non sarà versato fino a quando non sarà presentato il conteggio dei costi di costruzione.[^30aocties-1]
+
 <sup>6</sup> Se un impianto immette in rete meno elettricità rispetto alla quota di produzione rimunerata con il premio di mercato fluttuante, l’autorità competente rimunera il premio di mercato fluttuante solo per l’elettricità effettivamente immessa in rete.
+
+[^30aocties-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30a<sup>novies</sup>
 
@@ -779,21 +788,39 @@ Se l’impianto fotovoltaico soddisfa uno o più dei seguenti requisiti, l’imp
 
 - a. impianti integrati con un angolo di inclinazione di almeno 75 gradi che sono stati messi in esercizio a partire dal 1° gennaio 2022;
 - b. impianti annessi o isolati con un angolo di inclinazione di almeno 75 gradi che sono stati messi in esercizio a partire dal 1° gennaio 2023;
-- c. impianti fotovoltaici ubicati al di fuori delle zone edificabili, non annessi a un edificio né integrati al suo interno, purché abbiano una potenza minima di 150 kW e siano stati installati a un’altitudine di almeno 1500 m sul livello del mare;
+- c.[^30c-1] impianti fotovoltaici di grandi dimensioni che dal 1° ottobre al 31 marzo (semestre invernale) hanno una resa elettrica invernale specifica superiore a 500 kWh per kW di potenza e sono stati messi in esercizio a partire dal 1° gennaio 2026 (bonus per la produzione elettrica invernale);
 - d. impianti fotovoltaici di grandi dimensioni su aree adibite permanentemente al parcheggio, finora non coperte (bonus per area di parcheggio).
+
+<sup>2bis</sup> La resa elettrica invernale specifica è la resa elettrica di un impianto per kW di potenza nel semestre invernale.[^30c-2]
 
 <sup>3</sup> Se solo parti di un impianto soddisfano i requisiti per un bonus, i bonus sono concessi pro rata rispetto alle quote della potenza.
 
+<sup>3bis</sup> I requisiti per il bonus per la produzione elettrica invernale sono considerati soddisfatti per l’intero periodo di rimunerazione se nei primi tre semestri invernali completi un impianto ha in media una resa elettrica invernale specifica superiore a 500 kWh per kW di potenza. Il diritto al bonus per la produzione elettrica invernale sussiste tuttavia solo nei semestri invernali in cui l’impianto raggiunge una maggiore resa elettrica invernale specifica.[^30c-3]
+
+<sup>3ter</sup> Gli impianti che ricevono un bonus per la produzione elettrica invernale non hanno diritto al bonus per l’angolo d’inclinazione. Se dopo i primi tre semestri invernali completi i requisiti per il diritto al bonus per la produzione elettrica invernale non sono soddisfatti o se il gestore rinuncia a tale bonus, un eventuale diritto a un bonus per l’angolo d’inclinazione può essere fatto valere retroattivamente. La rinuncia deve essere notificata all’organo d’esecuzione entro un mese dalla ricezione della comunicazione che attesta il soddisfacimento dei requisiti per il diritto al bonus per la produzione elettrica invernale.[^30c-4]
+
 <sup>4</sup>
 
-L’ammontare dei bonus è il seguente:
+L’ammontare dei bonus per kWh è il seguente:
 
-- a. per il bonus per l’angolo d’inclinazione per gli impianti integrati: 2,2 ct./kWh;
-- b. per il bonus per l’angolo d’inclinazione per gli impianti annessi e isolati: 1 ct./kWh;
-- c. per il bonus per l’altitudine: 0,7 ct./kWh;
-- d. per il bonus per area di parcheggio: 1 ct./kWh.
+- a. bonus per l’angolo d’inclinazione per gli impianti integrati: 2,2 ct.;
+- b. bonus per l’angolo d’inclinazione per gli impianti annessi e isolati: 1 ct.;
+- c. bonus per la produzione elettrica invernale: 17,5 ct. moltiplicato per la maggiore resa elettrica invernale specifica diviso per la resa elettrica invernale specifica complessiva;
+- d. bonus per area di parcheggio: 1 ct.[^30c-5]
+
+<sup>4bis</sup> La maggiore resa elettrica invernale specifica è la resa elettrica di un impianto per kW di potenza nel semestre invernale che supera 500 kWh per kW di potenza.[^30c-6]
+
+<sup>4ter</sup> Il bonus per la produzione elettrica invernale è accordato solo per l’elettricità immessa nel semestre invernale. È calcolato e versato al più tardi nel terzo trimestre di ogni anno per il semestre invernale precedente.[^30c-7]
 
 <sup>5</sup> Per gli impianti fotovoltaici che vengono realizzati al di fuori di zone edificabili e soddisfano determinati ulteriori criteri è possibile effettuare aste speciali separate.
+
+[^30c-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-2]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-3]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-4]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-5]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-6]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-7]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30c<sup>bis</sup>
 
@@ -833,17 +860,29 @@ Esso rilascia un’aggiudicazione per le offerte che:
 
 <sup>3</sup> Se la potenza totale delle offerte che soddisfano le condizioni di partecipazione è inferiore al volume d’asta stabilito dal bando, il volume d’asta viene automaticamente ridotto a posteriori al 90 per cento di tale potenza offerta.
 
+<sup>4</sup> Se per un impianto viene richiesto un bonus per la produzione elettrica invernale, unitamente all’offerta deve essere presentata una simulazione della produzione elettrica prevista, che dimostri che l’impianto soddisfa presumibilmente i requisiti per ottenere il bonus.[^30cquater-1]
+
+[^30cquater-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
 #### Art. 30c<sup>quinquies</sup>
 
-**Termine, proroga e notifica di messa in esercizio**
+**Termine di messa in esercizio, proroga e obblighi di notifica[^30cquinquies-1]**
 
 <sup>1</sup> L’impianto deve essere messo in esercizio al più tardi 24 mesi dopo che l’aggiudicazione è passata in giudicato.
+
+<sup>1bis</sup> Gli impianti non annessi a un edificio né integrati al suo interno devono essere messi in esercizio al più tardi 48 mesi dopo che l’aggiudicazione è passata in giudicato.[^30cquinquies-2]
 
 <sup>2</sup> Se il richiedente non è in grado di rispettare il termine per la messa in esercizio per ragioni a lui non imputabili, l’organo d’esecuzione può prorogarlo su richiesta. La domanda va presentata per scritto entro la scadenza del termine.
 
 <sup>3</sup> La messa in esercizio deve essere notificata all’organo d’esecuzione al più tardi un mese dalla messa in esercizio.
 
 <sup>4</sup> La notifica di messa in esercizio deve contenere le indicazioni e i documenti di cui all’allegato 2.1 numero 4.2.
+
+<sup>5</sup> Nel caso di impianti per i quali viene richiesto il bonus per la produzione elettrica invernale, dopo il primo anno d’esercizio completo deve essere presentato all’organo d’esecuzione un conteggio dettagliato dei costi di costruzione.[^30cquinquies-3]
+
+[^30cquinquies-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30cquinquies-2]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30cquinquies-3]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30c<sup>sexies</sup>
 
@@ -987,11 +1026,13 @@ L’organo d’esecuzione revoca la garanzia di cui all’articolo 30*d*<sup>sex
 
 #### Art. 30e<sup>ter</sup>
 
-**Misura considerevole dell’ampliamento o del rinnovamento**
+**Misura considerevole dell’ampliamento o del rinnovamento**[^30eter-1]
 
 <sup>1</sup> L’ampliamento di un impianto di produzione di biogas o di una centrale elettrica a legna è considerato considerevole quando mediante misure costruttive la produzione di elettricità annua rapportata alla media degli ultimi tre anni d’esercizio completi prima della messa in esercizio dell’ampliamento viene aumentata almeno del 25 per cento o di 500 000 kWh.
 
-<sup>2</sup> Il rinnovamento di un impianto di produzione di biogas o di una centrale elettrica a legna è considerato considerevole quando i costi d’investimento computabili del rinnovamento raggiungono almeno l’importo di 200 000 franchi.
+<sup>2</sup> Il rinnovamento di un impianto di produzione di biogas o di una centrale elettrica a legna è considerato considerevole quando i costi d’investimento computabili del rinnovamento raggiungono almeno 200 000 franchi. I costi d’investimento computabili sono determinati secondo l’articolo 61 capoversi 1–3 e l’allegato 2.3 numeri 2.4 o 3.4.
+
+[^30eter-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30e<sup>quater</sup>
 
@@ -1000,7 +1041,9 @@ L’organo d’esecuzione revoca la garanzia di cui all’articolo 30*d*<sup>sex
 In caso di ampliamenti e rinnovamenti considerevoli, la quota della produzione netta dell’impianto rimunerata con il premio di mercato fluttuante è determinata come segue:
 
 - a. in caso di ampliamenti considerevoli: dal rapporto tra la produzione supplementare ottenuta a seguito dell’ampliamento e la produzione complessiva dopo l’ampliamento;
-- b. in caso di rinnovamenti considerevoli: dal rapporto tra i costi di investimento computabili sostenuti per il rinnovamento e i costi di investimento per un nuovo impianto di riferimento.
+- b.[^30equater-1] in caso di rinnovamenti considerevoli: dal rapporto tra i costi d’investimento computabili sostenuti per il rinnovamento e i costi d’investimento per un nuovo impianto di riferimento; i costi d’investimento computabili sono determinati secondo l’articolo 61 capoversi 1–3 e l’allegato 2.3 numeri 2.4 o 3.4.
+
+[^30equater-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30e<sup>quinquies</sup>
 
@@ -1109,7 +1152,7 @@ L’organo d’esecuzione revoca la garanzia di cui all’articolo 30*e*<sup>nov
 
 **Autorizzazione di inizio anticipato dei lavori**[^32-1]
 
-L’autorità competente può autorizzare l’inizio anticipato dei lavori negli impianti idroelettrici, a biomassa e geotermici, se attendere la garanzia di principio comporte-rebbe gravi inconvenienti. L’autorizzazione non dà alcun diritto a un contributo d’investimento.
+L’autorità competente può autorizzare l’inizio anticipato dei lavori negli impianti idroelettrici, a biomassa e geotermici, se attendere la garanzia di principio comporterebbe gravi inconvenienti. L’autorizzazione non dà alcun diritto a un contributo d’investimento.
 
 [^32-1]: Nuovo testo giusta la cifra I dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
@@ -1168,9 +1211,9 @@ Prima di un utilizzo per altri scopi o di un’alienazione l’UFE deve essere i
 
 **Termine di attesa**[^35-1]
 
-Se per la costruzione di un nuovo impianto fotovoltaico o per l’ampliamento considerevole di un impianto fotovoltaico è stata accordata una rimunerazione unica elevata, deve trascorrere almeno un anno dalla messa in esercizio di questo impianto o ampliamento per mettere in esercizio sullo stesso fondo un altro impianto fotovoltaico senza consumo proprio o un ampliamento considerevole di un tale impianto e poter chiedere una rimunerazione unica elevata.
+Se per la costruzione di un nuovo impianto fotovoltaico o per l’ampliamento considerevole di un impianto fotovoltaico è stata accordata una rimunerazione unica elevata secondo l’allegato 2.1 numero 2.10, deve trascorrere almeno un anno dalla messa in esercizio di questo impianto o ampliamento per mettere in esercizio sullo stesso fondo un altro impianto fotovoltaico senza consumo proprio o un ampliamento considerevole di un tale impianto e poter chiedere una rimunerazione unica elevata.
 
-[^35-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ## Capitolo 3*a*: Contributi di progettazione
 
@@ -1342,24 +1385,27 @@ Un impianto è considerato ampliato o rinnovato in misura considerevole se la po
 
 <sup>1ter</sup> Se solo parti di un impianto soddisfano i requisiti per un bonus, i bonus sono concessi soltanto per la potenza di tali parti.[^38-3]
 
-<sup>1quater</sup> ...[^38-4]
+<sup>1quater</sup> Gli impianti che ricevono un bonus per la produzione elettrica invernale non hanno diritto al bonus per l’angolo d’inclinazione.[^38-4]
+
+<sup>1quinquies</sup> Il bonus per la produzione elettrica invernale viene concesso solo dopo il terzo semestre invernale completo. Se in quel momento i requisiti per il bonus per la produzione elettrica invernale non sono soddisfatti o il gestore rinuncia entro un mese dalla ricezione della comunicazione che attesta il soddisfacimento di tali requisiti, può essere fatto valere un eventuale diritto a un bonus per l’angolo d’inclinazione.[^38-5]
 
 <sup>2</sup> Gli importi sono determinati nell’allegato 2.1. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) li verifica annualmente. In caso di mutamento considerevole delle circostanze esso presenta al Consiglio federale una proposta di adeguamento degli importi.
 
-<sup>3</sup> Per gli impianti fotovoltaici di grandi dimensioni che sono stati messi in esercizio dopo il 1° gennaio 2013 e fino al 31 marzo 2025 valgono gli importi per gli impianti annessi e isolati, anche se essi appartengono alla categoria degli impianti integrati.[^38-5]
+<sup>3</sup> Per gli impianti fotovoltaici di grandi dimensioni che sono stati messi in esercizio dopo il 1° gennaio 2013 e fino al 31 marzo 2025 valgono gli importi per gli impianti annessi e isolati, anche se essi appartengono alla categoria degli impianti integrati.[^38-6]
 
 <sup>4</sup> Per gli ampliamenti o i rinnovamenti considerevoli viene versato soltanto un contributo legato alla potenza equivalente all’aumento della potenza raggiunta con l’ampliamento o il rinnovamento. Non viene versato alcun contributo di base.
 
-<sup>5</sup> Se un impianto viene ampliato già prima dell’ottenimento della rimunerazione unica, il contributo di base viene versato per l’elemento dell’impianto messo in esercizio per primo e il contributo legato alla potenza in funzione della data di messa in esercizio dei singoli elementi dell’impianto.[^38-6]
+<sup>5</sup> Se un impianto viene ampliato già prima dell’ottenimento della rimunerazione unica, il contributo di base viene versato per l’elemento dell’impianto messo in esercizio per primo e il contributo legato alla potenza in funzione della data di messa in esercizio dei singoli elementi dell’impianto.[^38-7]
 
 <sup>6</sup> Nel caso di un impianto costituito da più campi fotovoltaici che rientrano in diverse categorie di impianti secondo l’articolo 6, il contributo di base è calcolato sulla scorta del valore medio degli importi ponderato in base alla potenza e il contributo legato alla potenza in funzione degli elementi della potenza per categoria.
 
 [^38-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^38-2]: Introdotto dalla cifra I dell’O del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)). Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^38-3]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38-4]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Abrogato dalla cifra I dell’O del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38-5]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38-6]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
+[^38-4]: Introdotto dalla cifra I dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38-5]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38-6]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^38-7]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)).
 
 #### Art. 38a
 
@@ -1373,14 +1419,20 @@ Un impianto è considerato ampliato o rinnovato in misura considerevole se la po
 
 <sup>4</sup> L’importo indicato nell’offerta è aumentato di uno o più bonus se sono soddisfatti i requisiti di cui all’articolo 30*c* capoverso 2.[^38a-2]
 
-<sup>5</sup> L’ammontare dei bonus è fissato nell’allegato 2.1 numero 2.7.[^38a-3]
+<sup>4bis</sup> Gli impianti che ricevono un bonus per la produzione elettrica invernale non hanno diritto al bonus per l’angolo d’inclinazione.[^38a-3]
 
-<sup>6</sup> Se solo parti di un impianto soddisfano i requisiti per un bonus, i bonus sono concessi soltanto per la potenza di tali parti.[^38a-4]
+<sup>5</sup> L’ammontare dei bonus è fissato nell’allegato 2.1 numero 2.7.[^38a-4]
+
+<sup>5bis</sup> Il bonus per la produzione elettrica invernale viene concesso solo dopo il terzo semestre invernale completo. Se in quel momento i requisiti per il bonus per la produzione elettrica invernale non sono soddisfatti o il gestore rinuncia entro un mese dalla ricezione della comunicazione che attesta il soddisfacimento di tali requisiti, può essere fatto valere un eventuale diritto a un bonus per l’angolo d’inclinazione.[^38a-5]
+
+<sup>6</sup> Se solo parti di un impianto soddisfano i requisiti per un bonus, i bonus sono concessi soltanto per la potenza di tali parti.[^38a-6]
 
 [^38a-1]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^38a-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38a-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38a-4]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^38a-3]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38a-4]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^38a-5]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38a-6]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 38b
 
@@ -1456,14 +1508,15 @@ Se sussistono presumibilmente i requisiti per il diritto e vi sono sufficienti r
 
 #### Art. 45
 
-**Termine e notifica di messa in esercizio**
+**Termine per la messa in esercizio, proroga e obblighi di notifica[^45-1]**
 
 <sup>1</sup>
 
 L’impianto deve essere messo in esercizio al più tardi:
 
 - a. 12 mesi dopo la garanzia di principio di cui all’articolo 44;
-- b. 6 anni dopo la garanzia di principio di cui all’articolo 44, se per la costruzione dell’impianto è necessario modificare le basi pianificatorie.[^45-1]
+- b. 6 anni dopo la garanzia di principio di cui all’articolo 44, se per la costruzione dell’impianto è necessario modificare le basi pianificatorie;
+- c.[^45-2] 48 mesi dopo la garanzia di principio di cui all’articolo 44, se l’impianto non è annesso a un edificio né integrato al suo interno.[^45-3]
 
 <sup>2</sup> La messa in esercizio deve essere notificata all’organo d’esecuzione al più tardi tre mesi dalla messa in esercizio.
 
@@ -1471,7 +1524,12 @@ L’impianto deve essere messo in esercizio al più tardi:
 
 <sup>4</sup> Se per ragioni non imputabili al richiedente il termine per la messa in esercizio non può essere rispettato, l’organo d’esecuzione può prorogarlo su richiesta. La richiesta deve essere presentata prima della scadenza del termine.
 
-[^45-1]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+<sup>5</sup> Nel caso di impianti per i quali viene richiesto il bonus per la produzione elettrica invernale, dopo il primo anno d’esercizio completo deve essere presentato all’organo d’esecuzione un conteggio dettagliato dei costi di costruzione.[^45-4]
+
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^45-2]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^45-3]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^45-4]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46
 
@@ -1493,25 +1551,29 @@ L’organo d’esecuzione revoca la garanzia di cui all’articolo 44 e respinge
 
 [^46-1]: Nuovo testo giusta la cifra I dell’O del 25 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 
+#### Art. 46a
+
+**Calcolo della resa elettrica invernale specifica e versamento del bonus per la produzione elettrica invernale**[^46a-1]
+
+<sup>1</sup> Se è stato presentato il conteggio dei costi di costruzione conformemente all’articolo 45 capoverso 5, dopo il terzo trimestre invernale completo l’organo d’esecuzione calcola la resa elettrica invernale specifica media.
+
+<sup>2</sup> Sulla base della resa elettrica invernale specifica media, l’organo d’esecuzione calcola il bonus per la produzione elettrica invernale e lo versa al gestore.
+
+[^46a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
 ### Sezione 5**:** **Aste per la rimunerazione unica**
 
 [^chap4-sec5-1]
 
 [^chap4-sec5-1]: Introdotta dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-#### Art. 46a
+#### Art. 46b
 
-**Competenze e condizioni di partecipazione**[^46a-1]
+**Competenze e condizioni di partecipazione**[^46b-1]
 
 Le competenze e le condizioni di partecipazione sono disciplinate dagli articoli 30*c*<sup>bis</sup> e 30*c*<sup>ter</sup>.
 
-[^46a-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-
-#### Art. 46b
-
-[^46b-1]
-
-[^46b-1]: Abrogato dalla cifra I dell’O del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^46b-1]: Originario art. 46*a*. Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 46c
 
@@ -1530,15 +1592,20 @@ Esso rilascia un’aggiudicazione per le offerte:
 
 <sup>3</sup> Se la potenza totale delle offerte che soddisfano le condizioni di partecipazione è inferiore al volume d’asta stabilito dal bando, il volume d’asta viene automaticamente ridotto a posteriori al 90 per cento di tale potenza offerta.
 
+<sup>4</sup> Se per un impianto viene richiesto un bonus per la produzione elettrica invernale, unitamente all’offerta deve essere presentata una simulazione della produzione elettrica prevista, che dimostri che l’impianto soddisfa presumibilmente i requisiti per ottenere il bonus.[^46c-4]
+
 [^46c-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^46c-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^46c-3]: Abrogata dalla cifra I dell’O del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^46c-4]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46d
 
-**Termine e notifica di messa in esercizio**
+**Termine per la messa in esercizio, proroga e obblighi di notifica[^46d-1]**
 
-<sup>1</sup> L’impianto deve essere messo in esercizio al più tardi 24 mesi dopo che l’aggiudicazione è passata in giudicato.[^46d-1]
+<sup>1</sup> L’impianto deve essere messo in esercizio al più tardi 24 mesi dopo che l’aggiudicazione è passata in giudicato.[^46d-2]
+
+<sup>1bis</sup> Gli impianti non annessi a un edificio né integrati al suo interno devono essere messi in esercizio al più tardi 48 mesi dopo che l’aggiudicazione è passata in giudicato.[^46d-3]
 
 <sup>2</sup> La messa in esercizio deve essere notificata all’organo d’esecuzione al più tardi tre mesi dalla messa in esercizio.
 
@@ -1546,7 +1613,22 @@ Esso rilascia un’aggiudicazione per le offerte:
 
 <sup>4</sup> Se per ragioni non imputabili al richiedente il termine per la messa in esercizio non può essere rispettato, l’organo d’esecuzione può prorogarlo su richiesta. La richiesta deve essere presentata prima della scadenza del termine.
 
-[^46d-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+<sup>5</sup> Nel caso di impianti per i quali viene richiesto il bonus per la produzione elettrica invernale, dopo il primo anno d’esercizio completo deve essere presentato all’organo d’esecuzione un conteggio dettagliato dei costi di costruzione.[^46d-4]
+
+[^46d-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^46d-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46d-3]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^46d-4]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
+#### Art. 46d<sup>bis</sup>
+
+**Calcolo della resa elettrica invernale specifica e versamento del bonus per la produzione elettrica invernale**[^46dbis-1]
+
+<sup>1</sup> Se è stato presentato il conteggio dei costi di costruzione conformemente all’articolo 46*d* capoverso 5, dopo il terzo trimestre invernale completo l’organo d’esecuzione calcola la resa elettrica invernale specifica media.
+
+<sup>2</sup> Sulla base della resa elettrica invernale specifica media, l’organo d’esecuzione calcola il bonus per la produzione elettrica invernale e lo versa al gestore.
+
+[^46dbis-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46e
 
@@ -1628,25 +1710,25 @@ In merito alle aste per la rimunerazione unica l’organo d’esecuzione pubblic
 
 #### Art. 46j
 
-**Garanzia di principio**
+**Garanzia di principio**[^46j-1]
 
-Se sussistono presumibilmente i requisiti per il diritto di cui all’articolo 71*a* capoverso 2 LEne e vi sono sufficienti risorse a disposizione, l’UFE garantisce la rimunerazione unica con una decisione di principio e:
+<sup>1</sup> Se sussistono presumibilmente i requisiti per il diritto di cui all’articolo 71*a* capoverso 2 LEne e vi sono sufficienti risorse a disposizione, l’UFE garantisce la rimunerazione unica con una decisione di principio e stabilisce l’importo massimo che la rimunerazione unica non deve superare. L’importo massimo è pari al 60 per cento dei costi d’investimento presumibilmente computabili.
 
-- a. calcola il presumibile ammontare della rimunerazione unica al momento in cui è data la garanzia di principio pari ai costi scoperti attesi;
-- b. stabilisce l’importo massimo, che non deve superare la rimunerazione unica pari al 60 per cento dei costi d’investimento presumibilmente computabili;
-- c. stabilisce, sulla base delle lettere a e b, il piano di pagamento di cui all’articolo 46*q.*
+<sup>2</sup> Inoltre, nella garanzia di principio l’UFE calcola i costi scoperti attesi.
+
+<sup>3</sup> Nello stabilire il piano di pagamento di cui all’articolo 46*q*, l’UFE tiene conto degli importi di cui ai capoversi 1 e 2.
+
+[^46j-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46k
 
-**Immissione parziale di elettricità e termine di messa in esercizio**
+**Termine di messa in esercizio e messa in esercizio parziale**[^46k-1]
 
-<sup>1</sup> Con la potenza della parte dell’impianto messa in esercizio e allacciata alla rete elettrica entro il 31 dicembre 2025 deve essere possibile raggiungere una produzione annua di almeno il 10 per cento della produzione attesa dell’intero impianto previsto o almeno 10 GWh di energia elettrica all’anno.[^46k-1]
+<sup>1</sup> La messa in esercizio completa deve avvenire al più tardi cinque anni dopo il giorno in cui l’ultima autorizzazione necessaria per la costruzione dell’impianto è passata in giudicato.
 
-<sup>2</sup> La messa in esercizio completa deve avvenire entro il 31 dicembre 2030.
+<sup>2</sup> Se entro il termine di cui al capoverso 1 può essere messa in esercizio solo una parte dell’impianto originariamente previsto, la rimunerazione unica viene calcolata e concessa in proporzione alla parte messa in esercizio fino a quel momento, nella misura in cui tale parte soddisfa i requisiti di cui all’articolo 71*a* capoverso 2 LEne.
 
-<sup>3</sup> Se entro il 31 dicembre 2030 può essere messa in esercizio solo una parte dell’impianto originariamente previsto, la rimunerazione unica viene calcolata e concessa in proporzione alla parte messa in esercizio fino a quel momento, nella misura in cui tale parte soddisfa i requisiti di cui all’articolo 71*a* capoverso 2 LEne.
-
-[^46k-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46k-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46l
 
@@ -1654,9 +1736,11 @@ Se sussistono presumibilmente i requisiti per il diritto di cui all’articolo 7
 
 <sup>1</sup> Dopo la messa in esercizio occorre presentare all’UFE una notifica di messa in esercizio.
 
-<sup>2</sup> Se entro il 31 dicembre 2030 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, la notifica di messa in esercizio deve essere presentata per tale parte.
+<sup>2</sup> Se entro il termine di cui all’articolo 46*k* capoverso 1 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, deve essere presentata una notifica di messa in esercizio per tale parte.[^46l-1]
 
 <sup>3</sup> La notifica di messa in esercizio deve contenere le indicazioni e i documenti di cui all’allegato 2.1 numero 5.2.
+
+[^46l-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46m
 
@@ -1671,7 +1755,9 @@ La notifica deve contenere le indicazioni e i documenti seguenti:
 - a. un conteggio dettagliato dei costi di costruzione;
 - b. un elenco dei costi d’investimento computabili e non computabili.
 
-<sup>3</sup> Se entro il 31 dicembre 2030 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, entro il 31 dicembre 2031 deve essere presentata la notifica di conclusione dei lavori per tale parte dell’impianto.
+<sup>3</sup> Se entro il termine di cui all’articolo 46*k* capoverso 1 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, deve essere presentata la notifica di conclusione dei lavori per tale parte.[^46m-1]
+
+[^46m-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46n
 
@@ -1684,13 +1770,15 @@ Su richiesta del richiedente, l’UFE può prorogare il termine per la presentaz
 
 #### Art. 46o
 
-**Notifica della produzione netta e della produzione invernale**
+**Notifica della produzione netta e della produzione invernale**[^46o-1]
 
-<sup>1</sup> Dopo il terzo anno completo di esercizio occorre notificare all’UFE la produzione netta annua dell’impianto dalla messa in esercizio completa, nonché la produzione di elettricità nel semestre invernale (1° ottobre - 31 marzo) per kW di potenza installata.
+<sup>1</sup> Dopo il terzo anno completo di esercizio occorre notificare all’UFE la produzione netta annua dell’impianto, nonché la produzione di elettricità nel semestre invernale per kW di potenza installata dalla messa in esercizio completa.
 
 <sup>2</sup> I dati relativi alla produzione netta indicano separatamente il consumo proprio e la produzione eccedente.
 
-<sup>3</sup> Se entro il 31 dicembre 2030 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, i dati da notificare si devono riferire solo a tale parte dell’impianto.
+<sup>3</sup> Se entro il termine di cui all’articolo 46*k* capoverso 1 è stata messa in esercizio solo una parte dell’impianto originariamente previsto, i dati da notificare si devono riferire solo a tale parte dell’impianto.
+
+[^46o-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46p
 
@@ -1701,10 +1789,12 @@ Su richiesta del richiedente, l’UFE può prorogare il termine per la presentaz
 Se i requisiti per il diritto di cui all’articolo 71*a* capoverso 2 LEne sussistono ancora al momento della notifica della produzione netta, l’UFE fissa definitivamente la rimunerazione unica sull’importo più basso dei seguenti valori:
 
 - a. ammontare dei costi scoperti definitivi (cpv. 2);
-- b. 60 per cento dei costi d’investimento presumibilmente computabili (art. 46*j* lett. b); o
+- b.[^46p-1] importo massimo secondo l’articolo 46*j* capoverso 1;
 - c. 60 per cento dei costi d’investimento computabili definitivi.
 
 <sup>2</sup> I costi scoperti definitivi vengono calcolati sulla base dei costi d’investimento computabili definitivi e della produzione netta media annua notificata, sulla base del tasso d’interesse calcolatorio e dello scenario dei prezzi che vigevano al momento in cui è stata data la garanzia di principio.
+
+[^46p-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46p<sup>bis</sup>
 
@@ -1913,17 +2003,23 @@ Su richiesta del richiedente, l’UFE può prorogare i termini per la messa in e
 
 #### Art. 58
 
-**Notifica della produzione netta**
+**Notifica della produzione netta**[^58-1]
 
-Dopo il quinto anno d’esercizio intero occorre notificare all’UFE la produzione netta annuale a partire dalla messa in esercizio.
+<sup>1</sup> Dopo il quinto anno d’esercizio completo occorre notificare all’UFE la produzione netta annuale a partire dalla messa in esercizio.
+
+<sup>2</sup> Se la produzione netta non influisce sulla determinazione definitiva del contributo d’investimento, l’UFE può esentare il richiedente dall’obbligo di notifica.
+
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 59
 
 **Determinazione definitiva del contributo d’investimento**[^59-1]
 
-Se al momento della notifica della produzione netta sussistono ancora tutti i requisiti per il diritto, l’UFE determina l’ammontare definitivo del contributo d’investimento sulla base dei costi d’investimento effettivamente sostenuti.
+<sup>1</sup> Se è stata notificata la produzione netta e a quel momento sussistono ancora tutti i requisiti per il diritto, l’UFE determina l’ammontare definitivo del contributo d’investimento sulla base dei costi d’investimento effettivamente sostenuti.
 
-[^59-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+<sup>2</sup> Se il richiedente è stato esentato dalla notifica della produzione netta secondo l’articolo 58 capoverso 2, il contributo d’investimento definitivo è determinato al momento della notifica di conclusione dei lavori, a condizione che a quel momento i requisiti per il diritto sussistano ancora.
+
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 60
 
@@ -2030,7 +2126,10 @@ Il rinnovamento di un altro impianto a biomassa è considerato considerevole qua
 - b. 250 000 franchi negli impianti a gas di depurazione a partire da 50 000 abitanti-equivalenti;
 - c. 100 000 franchi negli impianti a gas di depurazione fino a 50 000 abitanti-equivalenti e negli impianti a gas di discarica.
 
+<sup>4</sup> I costi d’investimento computabili sono determinati secondo l’articolo 61 capoversi 1–3 e l’allegato 2.3 numeri 4.3 o 6.3.[^68-2]
+
 [^68-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^68-2]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 69
 
@@ -2240,11 +2339,11 @@ Il contributo d’investimento è versato in tre tranche:
 
 #### Art. 81
 
-**Costi d’investimento computabili**[^81-1]
+**Costi d’investimento computabili**
 
-Sono computabili i costi d’investimento di cui all’articolo 61.
+Sono computabili i costi d’investimento di cui all’articolo 61 capoversi 1–3.[^81-1]
 
-[^81-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^81-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 82
 
@@ -2285,9 +2384,10 @@ Non sono computabili in particolare i costi:
 In caso di ampliamenti e rinnovamenti considerevoli, la quota di potenza dell’impianto dopo l’ampliamento o il rinnovamento per la quale è accordato un contributo d’investimento è determinata come segue:
 
 - a. in caso di ampliamenti considerevoli: dal rapporto tra l’aumento della potenza atteso a seguito dell’ampliamento e la potenza complessiva dopo l’ampliamento;
-- b. in caso di rinnovamenti considerevoli: dal rapporto tra i costi di investimento computabili sostenuti per il rinnovamento e i costi di investimento per un nuovo impianto di riferimento.
+- b.[^84-2] in caso di rinnovamenti considerevoli: dal rapporto tra i costi d’investimento computabili sostenuti per il rinnovamento e i costi d’investimento per un nuovo impianto di riferimento; i costi d’investimento computabili sono determinati secondo l’articolo 61 capoversi 1–3 e l’allegato 2.3 numeri 2.4, 3.4 o 6.3.
 
 [^84-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^84-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 85
 
@@ -2393,13 +2493,9 @@ Se sussistono presumibilmente i requisiti per il diritto e vi sono sufficienti r
 
 #### Art. 87g
 
-**Aggiornamento della garanzia di principio**[^87g-1]
+[^87g-1]
 
-<sup>1</sup> Dopo la presentazione della notifica dello stato di avanzamento del progetto, l’ammontare presunto del contributo d’investimento e l’importo massimo che sono stati fissati nella garanzia di principio vengono rideterminati sulla base della potenza dell’impianto prevista in base alla licenza di costruzione passata in giudicato.
-
-<sup>2</sup> Gli importi che sono stati fissati nella garanzia di principio non possono essere superati.
-
-[^87g-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87g-1]: Abrogato dalla cifra I dell’O del 26 nov. 2022, con effetto dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 87h
 
@@ -2411,9 +2507,12 @@ Se sussistono presumibilmente i requisiti per il diritto e vi sono sufficienti r
 
 **Determinazione definitiva del contributo d’investimento**[^87i-1]
 
-Se al momento della notifica di messa in esercizio sussistono ancora i requisiti per il diritto, l’organo d’esecuzione determina l’ammontare definitivo del contributo d’investimento sulla base della potenza dell’impianto effettivamente installata.
+<sup>1</sup> Se al momento della notifica di messa in esercizio sussistono ancora i requisiti per il diritto, l’organo d’esecuzione determina l’ammontare definitivo del contributo d’investimento sulla base della potenza dell’impianto effettivamente installata.
+
+<sup>2</sup> Se è stato accordato un contributo di progettazione per un progetto di energia eolica, una parte di esso sarà dedotto dalla determinazione definitiva del contributo d’investimento. Il contributo di progettazione viene ripartito equamente fra tutti gli impianti di energia eolica con autorizzazione passata in giudicato.[^87i-2]
 
 [^87i-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87i-2]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 87j
 
@@ -2421,10 +2520,10 @@ Se al momento della notifica di messa in esercizio sussistono ancora i requisiti
 
 Il contributo d’investimento è versato in due tranche:
 
-- a. il 50 per cento dell’importo massimo aggiornato secondo l’articolo 87*g*: all’inizio dei lavori;
-- b. la differenza tra l’importo di cui alla lettera a e il contributo d’investimento definitivo: dopo il passaggio in giudicato della determinazione definitiva del contributo d’investimento.
+- a. il 50 per cento dell’importo massimo secondo l’articolo 87*e* lettera b: all’inizio dei lavori;
+- b. differenza tra l’importo di cui alla lettera a e il contributo d’investimento definitivo: dopo il passaggio in giudicato della determinazione definitiva del contributo d’investimento.
 
-[^87j-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87j-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### Sezione 4: Calcolo del contributo d’investimento
 
@@ -2900,15 +2999,18 @@ L’organo d’esecuzione dispone l’esclusione di un impianto dalla concession
 
 **Valutazione**
 
-<sup>1</sup> L’UFE valuta i dati relativi ai progetti e agli impianti per i quali è stata richiesta una promozione ai sensi della presente ordinanza, ai fini della pianificazione delle risorse a disposizione del fondo per il supplemento di rete e della verifica dell’efficacia degli strumenti di promozione.
+<sup>1</sup> L’UFE valuta i dati relativi ai progetti e agli impianti per i quali è stata richiesta una promozione ai sensi della presente ordinanza, ai fini della pianificazione delle risorse a disposizione del Fondo per il supplemento rete e della verifica dell’efficacia e dell’efficienza degli strumenti di promozione.[^97-1]
 
-<sup>2</sup> Al riguardo può utilizzare tutte le indicazioni effettuate nella domanda, nelle eventuali notifiche dello stato di avanzamento del progetto e nella notifica di messa in esercizio.
+<sup>2</sup> Al riguardo può utilizzare tutte le indicazioni effettuate nella domanda, nelle eventuali notifiche dello stato di avanzamento del progetto, nella notifica di messa in esercizio e nel conteggio dei costi di costruzione.[^97-2]
 
 <sup>3</sup> Può inoltre utilizzare per le proprie valutazioni la quantità dell’elettricità prodotta, l’ammontare dei contributi di promozione versati e l’ammontare dei costi d’esecuzione.
 
 <sup>4</sup> Può pubblicare i risultati delle valutazioni.
 
 <sup>5</sup> L’organo d’esecuzione mette a disposizione dell’UFE, mensilmente o su richiesta, i dati necessari per le valutazioni.
+
+[^97-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^97-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 98
 
@@ -2970,12 +3072,32 @@ Riguardo alle rimunerazioni uniche per impianti di cui all’articolo 71*a* LEne
 - f. l’ammontare definitivo della rimunerazione unica;
 - g. la quota di promozione rispetto ai costi d’investimento computabili.[^98-6]
 
+<sup>8</sup>
+
+Riguardo al bonus per la produzione elettrica invernale nel quadro del premio di mercato fluttuante, l’UFE pubblica:
+
+- a. il numero di impianti;
+- b. la potenza complessiva degli impianti;
+- c. la produzione elettrica invernale media per kW di potenza;
+- d. la somma dei bonus per la produzione elettrica invernale concessi.[^98-7]
+
+<sup>9</sup>
+
+Riguardo al bonus per la produzione elettrica invernale nel quadro della rimunerazione unica, l’UFE pubblica:
+
+- a. il numero di impianti;
+- b. la potenza complessiva degli impianti;
+- c. la produzione elettrica invernale media per kW di potenza;
+- d. la somma dei bonus per la produzione elettrica invernale concessi.[^98-8]
+
 [^98-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^98-2]: Nuovo testo giusta la cifra I dell’O del 27 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
 [^98-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^98-4]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^98-5]: Introdotto dalla cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^98-6]: Introdotto dalla cifra I dell’O del 17 mar. 2023, in vigore dal 1° apr. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^98-7]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^98-8]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 99
 
@@ -3106,6 +3228,18 @@ Gli impianti esistenti che sono stati o saranno sostituiti completamente e che p
 
 [^108b-1]: Introdotto dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
+#### Art. 108c
+
+**Disposizione transitoria della modifica del 26 novembre 2025**[^108c-1]
+
+<sup>1</sup> Se prima dell’entrata in vigore della presente modifica a un gestore è stato accordato un bonus per l’altitudine, egli continua a riceverlo conformemente al diritto anteriore.
+
+<sup>2</sup> Se un impianto messo in esercizio dopo il 1° gennaio 2026 soddisfa i requisiti che danno diritto a un bonus per la produzione elettrica invernale, il gestore può rinunciare al bonus per l’altitudine accordato per l’impianto e fruire invece del bonus per la produzione elettrica invernale.
+
+<sup>3</sup> La rinuncia al bonus per l’altitudine deve essere comunicata all’organo d’esecuzione entro la fine di settembre dopo il terzo semestre invernale completo. Il bonus per l’altitudine concesso fino a quel momento è compensato con il bonus per la produzione elettrica invernale.
+
+[^108c-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
 #### Art. 109
 
 **Entrata in vigore**
@@ -3163,7 +3297,7 @@ Allegato 1.1[^t-1]
 - 2\.4.1 Se la quota destinata alla realizzazione delle opere idrauliche secondo lo stato della tecnica, condotte forzate incluse, è inferiore al 20 per cento dei costi di investimento complessivi del progetto, il diritto al bonus per le opere idrauliche decade. Se tale quota è superiore al 50 per cento, si ha diritto al bonus completo. Per i valori compresi fra il 20 e il 50 per cento viene effettuata un’interpolazione lineare secondo il seguente grafico. Le misure di cui all’articolo 83*a* LPAC[^annex11-lvlu1-lvl2-1] o all’articolo 10 LFSP[^annex11-lvlu1-lvl2-2] non sono computabili ai fini del bonus.
 - 2\.4.2 Le centrali con utilizzo di acqua di dotazione non hanno diritto al bonus per le opere idrauliche. Gli impianti accessori con una potenza superiore a 100 kW hanno diritto al bonus per le opere idrauliche solo fino alla potenza equivalente di 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image2.png)
 
 - 2\.4.3 Il tasso per il bonus per le opere idrauliche secondo le classi di potenza ammonta dopo il 1° gennaio 2013 a:
 
@@ -3494,7 +3628,7 @@ Allegato 1.4[^t-4]
 
 ## Impianti geotermici nel sistema di rimunerazione per l’immissione di elettricità
 
-[^t-4]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), la cifra II cpv 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) e del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-4]: Aggiornato dalle cifre II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), dalle cifra II cpv 1 delle O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 26 nov. 2022, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Definizione degli impianti
 
@@ -3511,7 +3645,7 @@ Allegato 1.4[^t-4]
 
 - 3\.1 Gli impianti geotermici devono presentare, al più tardi dall’inizio del terzo anno civile completo dopo la messa in esercizio, un coefficiente di sfruttamento globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image3.png)
 
 - 3\.2 Il periodo di valutazione rilevante per la determinazione del coefficiente di sfruttamento globale è un anno civile completo; il coefficiente di sfruttamento globale si riferisce all’energia annua misurata alla testa del pozzo con:
 - coefficiente di sfruttamento del calore = calore sfruttato diviso per energia misurata alla testa del pozzo
@@ -3588,9 +3722,9 @@ Allegato 1.4[^t-4]
 ### 7 Disposizioni transitorie
 
 - 7\.1 Per i gestori che prima del 1° gennaio 2018 hanno ottenuto per il proprio impianto una decisione positiva e hanno presentato la prima notifica completa dello stato di avanzamento del progetto secondo il diritto anteriore, vale una durata della rimunerazione di 20 anni.
-- 7\.2 Per gli impianti che sono avanzati sulla lista d’attesa in virtù dell’articolo 3*g*<sup>bis</sup> capoverso 4 lettera b numero 1 dell’ordinanza del 7 dicembre 1998 sull’energia nella versione del 2 dicembre 2016[^annex14-lvlu1-lvl7-1] sulla base della notifica completa dello stato di avanzamento del progetto, la notifica della messa in esercizio deve essere presentata al più tardi entro il 31 dicembre 2029.
+- 7\.2 Per gli impianti che sono avanzati sulla lista d’attesa in virtù dell’articolo 3*g*<sup>bis</sup> capoverso 4 lettera b numero 1 dell’ordinanza del 7 dicembre 1998 sull’energia nella versione del 2 dicembre 2016[^annex14-lvlu1-lvl7-1] sulla base della notifica completa dello stato di avanzamento del progetto, la notifica della messa in esercizio deve essere presentata al più tardi entro il 31 dicembre 2034.
 
-[^annex14-lvlu1-lvl7-1]: [RU 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)cifra I e II.
+[^annex14-lvlu1-lvl7-1]: [RU 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)cifre I e II
 
 Allegato 1.5[^t-5]
 
@@ -3598,7 +3732,7 @@ Allegato 1.5[^t-5]
 
 ## Impianti a biomassa nel sistema di rimunerazione per l’immissione di elettricità
 
-[^t-5]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), dalla cifra II cpv. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
+[^t-5]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 23 ott. 2019 ([RU 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)) e dalla cifra II cpv. 1 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
 
 ### 1 Definizione degli impianti
 
@@ -3635,7 +3769,7 @@ Allegato 1.5[^t-5]
 - 2\.2.2 Il periodo di valutazione per i requisiti energetici minimi è l’anno civile completo.
 - 2\.2.3 I cicli del vapore, in particolare il ciclo Rankine organico, le turbine a vapore e i motori a vapore, devono raggiungere un coefficiente di sfruttamento energetico globale minimo secondo il diagramma seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image4.png)
 
 - Per il calcolo del coefficiente di sfruttamento globale si utilizza il potere calorifico inferiore H<sub>u</sub> del combustibile impiegato.
 - Calcolo del coefficiente di sfruttamento elettrico = la produzione di energia elettrica divisa per la quantità di energia immessa nell’impianto a combustione.
@@ -3647,7 +3781,7 @@ Allegato 1.5[^t-5]
   - a. rendimento elettrico:
   - il modulo di cogenerazione deve raggiungere un rendimento elettrico minimo conformemente al seguente diagramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/it/xml/image/image5.png)
 
 - b.
 
@@ -3804,11 +3938,11 @@ Allegato 1.5[^t-5]
 
 Allegato 2.1[^t-6]
 
-(art. 7, 38, 41–43, 45, 46*d,* 46*i* e 46*l*)
+(art. 7, 35, 38, 41–43, 45, 46*d,* 46*i* e 46*l*)
 
 ## Rimunerazione unica per gli impianti fotovoltaici
 
-[^t-6]: Aggiornato dalla cifra II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), dalla cifra II delle O del 17 mar. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), del 29 nov. 2023 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)), dalla cifra II cpv. 1 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), dalla correzione del 23 gen. 2025 ([RU 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
+[^t-6]: Aggiornato dalle cifre II delle O del 27 feb. 2019 ([RU 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), del 25 nov. 2020 ([RU 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), del 24 nov. 2021 ([RU 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), dalle cifre II delle O del 17 mar. 2023 ([RU 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), del 29 nov. 2023 ([RU 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)), dalla cifra II cpv. 1 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), dalla correzione del 23 gen. 2025 ([RU 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)), dalle cifre II delle O del 21 mag. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Definizione degli impianti
 
@@ -3864,7 +3998,13 @@ Allegato 2.1[^t-6]
 - 2\.7 Bonus
 - 2\.7.1 Il bonus per gli impianti integrati con un angolo d’inclinazione di almeno 75 gradi ammonta a 400 franchi per kW.
 - 2\.7.2 Il bonus per gli impianti annessi o isolati con un angolo d’inclinazione di almeno 75 gradi ammonta a 200 franchi per kW.
-- 2\.7.3 Il bonus per gli impianti installati a partire da un’altitudine di 1500 m sul livello del mare ammonta a 250 franchi per kW. La prova che l’impianto non sia annesso a un edificio né integrato al suo interno dev’essere documentata mediante foto.
+- 2\.7.3
+
+  Il bonus per la produzione elettrica invernale ammonta a:
+
+  - a. per impianti senza consumo proprio, per kW: 3,50 franchi moltiplicato per la maggiore resa elettrica invernale specifica calcolata come media sui primi tre semestri invernali completi;
+  - b. per impianti con consumo proprio, per kW: 2,50 franchi moltiplicato per la maggiore resa elettrica invernale specifica calcolata come media sui primi tre semestri invernali completi.
+
 - 2\.7.4 Il bonus per area di parcheggio ammonta a 250 franchi per kW.
 - 2\.8 Per gli impianti integrati che sono stati messi in esercizio dopo il 1° gennaio 2023, valgono i seguenti importi:
 
@@ -3888,7 +4028,7 @@ Allegato 2.1[^t-6]
 <tr><td></td><td>≥100 kW</td><td>270</td><td>270</td><td>250</td></tr>
 </table>
 
-- 2\.10 Per gli impianti nuovi senza consumo proprio con una potenza inferiore a 150 kW e per gli impianti che vengono ampliati in misura considerevole con un aumento di potenza inferiore a 150 kW, il contributo legato alla potenza ammonta a 450 franchi per kW se l’impianto nuovo o ampliato è stato messo in esercizio a partire dal 1° gennaio 2023. Per questi impianti non è versato un contributo di base.
+- 2\.10 Per gli impianti nuovi senza consumo proprio con una potenza inferiore a 150 kW e per gli impianti che vengono ampliati in misura considerevole con un aumento di potenza inferiore a 150 kW, il contributo legato alla potenza per la rimunerazione unica elevata ammonta a 450 franchi per kW se l’impianto nuovo o ampliato è stato messo in esercizio a partire dal 1° gennaio 2023. Per questi impianti non è versato un contributo di base.
 
 ### 3 Domanda per gli impianti di piccole dimensioni
 
@@ -3926,7 +4066,8 @@ Allegato 2.1[^t-6]
   - e. produzione annua prevista;
   - f. consenso dei proprietari fondiari;
   - g. categoria del produttore;
-  - h. la dichiarazione che l’impianto immette in rete tutta l’elettricità prodotta oppure che si fa uso del consumo proprio secondo l’articolo 16 LEne.
+  - h. la dichiarazione che l’impianto immette in rete tutta l’elettricità prodotta oppure che si fa uso del consumo proprio secondo l’articolo 16 LEne;
+  - i. per gli impianti per i quali viene richiesto un bonus per la produzione elettrica invernale: una simulazione della produzione elettrica prevista, che dimostri che l’impianto soddisfa presumibilmente i requisiti per ottenere il bonus.
 
 - 4\.2 Notifica di messa in esercizio
 -
@@ -4076,11 +4217,11 @@ Allegato 2.2[^t-7]
 
 Allegato 2.3[^t-8]
 
-(art. 69, 74, 80*a*, 80*b,* 80*d* e 85)
+(art. 30*e*<sup>ter</sup>, 30*e*<sup>quater</sup>, 68, 69, 74, 80*a*, 80*b,* 80*d*, 84 e 85)
 
 ## Contributi d’investimento per gli impianti a biomassa
 
-[^t-8]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-8]: Nuovo testo giusta la cifra II cpv. 2 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Aggiornato dalla cifra II dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Definizione degli impianti
 
@@ -4590,28 +4731,21 @@ Allegato 3[^t-12]
 
 ## Determinazione del costo medio ponderato del capitale
 
-[^t-12]: Aggiornato dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) e dalla cifra III dell’O del 12 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^t-12]: Aggiornato dalla cifra II cpv. 1 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), dalla cifra III dell’O del 12 feb. 2025 ([RU 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)) e dalla cifra II dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Tasso d’interesse calcolatorio
 
-- Il tasso d’interesse calcolatorio corrisponde al costo medio ponderato del capitale. Il calcolo e la comunicazione si determinano, fatte salve le deroghe menzionate al numero 3, sulla scorta dell’articolo 13 capoversi 3 lettera b e 3<sup>bis</sup> in combinato disposto con l’allegato 1 dell’ordinanza del 14 marzo 2008[^annex3-lvlu1-lvl1-1] sull’approvvigionamento elettrico (OAEl).
+- Il tasso d’interesse calcolatorio corrisponde al costo medio ponderato del capitale. Il calcolo e la comunicazione si determinano, fatte salve le deroghe menzionate ai numeri seguenti, sulla scorta dell’articolo 13 capoversi 3 lettera b, 3<sup>bis</sup> e 3<sup>ter</sup> dell’ordinanza del 14 marzo 2008[^annex3-lvlu1-lvl1-1] sull’approvvigionamento elettrico (OAEl) in combinato disposto con l’allegato 1 OAEl.
 
-[^annex3-lvlu1-lvl1-1]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+[^annex3-lvlu1-lvl1-1]: [RS [734.71](https://www.fedlex.admin.ch/eli/cc/2008/226/it)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 ### 1*a* Deroga al numero 1.1 allegato 1 OAEl
 
 - Il costo del capitale proprio e il costo del capitale di terzi sono ponderati nella misura del 50 per cento ciascuno.
 
-### 2 Deroga al numero 2.4 allegato 1 OAEl
+### 2 ...
 
--
-
-  La determinazione avviene ogni anno entro la fine del mese di marzo e vale:
-
-  - a. nei contributi d’investimento, per l’anno in corso;
-  - b. nel premio di mercato, per l’anno precedente.
-
-### 3 Deroga al numero 5 allegato 1 OAEl
+### 3 Deroghe al numero 4 allegato 1 OAEl
 
 - 3\.1 Il coefficiente di leva finanziaria corrisponde a una quota del capitale complessivo pari al 50 per cento per il capitale proprio e al 50 per cento per il capitale di terzi.
 - 3\.2 L’unlevered beta è determinato sulla base di un gruppo di imprese di approvvigionamento energetico europee comparabili (peer group). Il peer group viene verificato ogni anno e se possibile migliorato. Se i dati disponibili del mercato dei capitali non consentono di costituire un peer group per determinate tecnologie, il beta viene determinato grazie a un’inchiesta svolta presso numerosi esperti del settore per valutare i pertinenti rischi degli investimenti in tale tecnologia.
@@ -4681,7 +4815,7 @@ Allegato 5[^t-14]
 
 ## Contributi alle spese d’esercizio per gli impianti a biomassa
 
-[^t-14]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dalla cifra II cpv. 1 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) e dalla cifra II dell’O del 21 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
+[^t-14]: Introdotto dalla cifra II cpv. 3 dell’O del 23 nov. 2022 ([RU 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Aggiornato dalla cifra II cpv. 1 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), dalle cifre II delle O del 21 mag. 2025 ([RU 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Definizione degli impianti
 
@@ -4697,6 +4831,7 @@ Allegato 5[^t-14]
   - b. per tutte le altre categorie: allegato 1.5 numero 2.
 
 - 2\.2 Per gli impianti che non rientrano nel finanziamento dei costi supplementari secondo l’articolo 73 capoverso 4 LEne e chiedono un contributo alle spese d’esercizio, i requisiti energetici minimi devono essere soddisfatti entro il 31 dicembre 2027.
+- 2\.3 Il periodo di valutazione per i requisiti energetici minimi delle centrali elettriche a legna è di un anno civile.
 
 ### 3 Importo del contributo
 
@@ -4776,7 +4911,7 @@ Allegato 5[^t-14]
 
   Il bonus per lo sfruttamento di calore da impianti di produzione di biogas viene accordato se nel corso di un anno civile:
 
-  - a. per gli impianti che soddisfano i requisiti per il bonus di cui al nume-ro 3.4 o 3.5: almeno il 25 per cento del calore netto viene sfruttato ester-namente;
+  - a. per gli impianti che soddisfano i requisiti per il bonus di cui al numero 3.4 o 3.5: almeno il 25 per cento del calore netto viene sfruttato esternamente;
   - b. per tutti gli altri impianti: almeno il 30 per cento del calore netto viene sfruttato esternamente.
 
 - 3\.6.2 Il bonus per lo sfruttamento del calore è cumulabile con i bonus per biomassa agricola di cui ai numeri 3.4 e 3.5.
@@ -4830,7 +4965,7 @@ Allegato 6.1[^t-15]
 
 ## Premio di mercato fluttuante per gli impianti idroelettrici
 
-[^t-15]: Introdotto dalla cifra III cpv. 3 dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-15]: Introdotto dalla cifra III cpv. 3 dell’O del 20 nov. 2024 ([RU 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Aggiornato dalla cifra II dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Definizione degli impianti
 
@@ -5002,8 +5137,8 @@ Allegato 6.1[^t-15]
   Per gli impianti controllabili con una potenza superiore a 3 MW la produzione supplementare annua corrisponde:
 
   - a. per i nuovi impianti: alla produzione netta dell’impianto, determinata con un software di ottimizzazione della centrale elettrica, alla quale viene aggiunta la nuova quantità di energia accumulabile;
-  - b. per gli ampliamenti considerevoli: alla quota della produzione netta determinata con un software di ottimizzazione della centrale elettrica per l’impianto dopo l’ampliamento; la quota corrisponde al rapporto tra il ricavo supplementare e il ricavo complessivo dopo l’ampliamento; il ricavo supplementare corrisponde alla differenza tra il ricavo ottenibile con l’impianto ampliato e il ricavo che si sarebbe potuto ottenere con l’impianto prima dell’ampliamento;
-  - c. per i rinnovamenti considerevoli: alla quota della produzione netta determinata con un software di ottimizzazione della centrale elettrica per l’impianto dopo il rinnovamento; la quota corrisponde al rapporto tra il ricavo supplementare e il ricavo complessivo dopo il rinnovamento; il ricavo supplementare corrisponde alla differenza tra il ricavo ottenibile con l’impianto rinnovato e il ricavo che si sarebbe potuto ottenere con le parti dell’impianto non rinnovate.
+  - b. per gli ampliamenti considerevoli: alla quota della produzione netta determinata con un software di ottimizzazione della centrale elettrica per l’impianto dopo l’ampliamento; la quota corrisponde al rapporto tra il ricavo supplementare e il ricavo complessivo dopo l’ampliamento; il ricavo supplementare corrisponde alla differenza tra il ricavo ottenibile con l’impianto ampliato e il ricavo che si sarebbe potuto ottenere con l’impianto prima dell’ampliamento; a tale quota viene aggiunta la nuova quantità di energia accumulabile;
+  - c. per i rinnovamenti considerevoli: alla quota della produzione netta determinata con un software di ottimizzazione della centrale elettrica per l’impianto dopo il rinnovamento; la quota corrisponde al rapporto tra il ricavo supplementare e il ricavo complessivo dopo il rinnovamento; il ricavo supplementare corrisponde alla differenza tra il ricavo ottenibile con l’impianto rinnovato e il ricavo che si sarebbe potuto ottenere con le parti dell’impianto non rinnovate; a tale quota viene aggiunta la quantità di energia accumulabile risparmiata.
 
 - 4\.3.2
 

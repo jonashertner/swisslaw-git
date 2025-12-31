@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'encouragement de la pro
 short: OEneR
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/766"
 language: fr
-version: 2025-09-10
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20250910-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250910/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-766-20260101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/766/20250910/fr"
 
 (OEneR)
 
-du 1<sup>er</sup> novembre 2017 (État le 10 septembre 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -156,28 +156,28 @@ L’exploitant d’une installation ayant le droit, en vertu de l’art. 29*b* L
 
 #### Art. 9
 
-**Exceptions à la limite inférieure pour les installations hydroélectriques**[^9-1]
+**Exceptions aux limites inférieures pour les installations hydroélectriques**[^9-1]
 
 <sup>1</sup>
 
-En plus des installations hydroélectriques liées aux installations d’approvisionnement en eau potable et aux installations d’évacuation des eaux usées, les installations hydroélectriques suivantes sont exemptées de la limite inférieure visée à l’art. 19, al. 4, let. a, LEne:
+Les installations hydroélectriques suivantes sont exemptées des limites inférieures visées aux art. 19, al. 4, let. a, 26, al. 1, et 29*a*, al. 1, let. a et b, LEne:
 
 - a. les centrales de dotation;
 - b. les installations sur canaux d’évacuation des crues artificiels, canaux industriels et canaux de dérivation ou canaux de fuite existants pour autant qu’il n’en résulte aucune atteinte supplémentaire aux cours d’eau naturels ou présentant un intérêt écologique;
-- c. les installations d’exploitation accessoire, telles que les installations hydroélectriques sur l’eau d’irrigation ou les centrales électriques en relation avec des installations d’enneigement ou avec l’utilisation de l’eau des tunnels.
+- c. les installations d’exploitation accessoire, telles que les installations hydroélectriques liées aux installations d’approvisionnement en eau potable et aux installations d’enneigement ou d’évacuation des eaux usées, les installations hydroélectriques sur l’eau d’irrigation ou les installations hydroélectriques utilisant l’eau des tunnels.
 
 <sup>2</sup>
 
-En plus des installations d’exploitation accessoire visées à l’art. 26, al. 4, LEne, les installations hydroélectriques suivantes sont également exemptées de la limite inférieure visée à l’art. 26, al. 1, LEne:
+Une installation n’est pas considérée comme installation d’exploitation accessoire si:
 
-- a. les centrales de dotation;
-- b. les installations sur canaux d’évacuation des crues artificiels, canaux industriels et canaux de dérivation ou canaux de fuite existants, pour autant qu’il n’en résulte aucune atteinte supplémentaire aux cours d’eau naturels ou présentant un intérêt écologique;
-- c.[^9-2] les installations pour lesquelles des mesures d’assainissement visées à l’art. 83*a* de la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)[^9-3] ou à l’art. 10 de la loi fédérale du 21 juin 1991 sur la pêche (LFSP)[^9-4] sont ou ont été mises en œuvre, pour autant que l’agrandissement ou la rénovation n’entraîne aucune atteinte écologique nouvelle ou supplémentaire.
+- a. l’une des parties de l’installation servant à l’exploitation principale et accessoire, telles que les prises d’eau, les conduites sous pression et les réservoirs, a des dimensions correspondant à un débit équipé supérieur à ce que requiert l’exploitation principale de l’installation, ou
+- b. une prise d’eau supplémentaire est mise en place pour l’exploitation accessoire.
 
-[^9-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
-[^9-2]: Introduite par le ch. I de l’O du 24 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 275](https://fedlex.data.admin.ch/eli/oc/2023/275)).
-[^9-3]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
-[^9-4]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
+<sup>3</sup> En plus des installations visées à l’al. 1, les installations pour lesquelles des mesures d’assainissement visées à l’art. 83*a* de la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux)[^9-2] ou à l’art. 10 de la loi fédérale du 21 juin 1991 sur la pêche (LFSP)[^9-3] sont ou ont été mises en œuvre sont exemptées des limites inférieures visées aux art. 26, al. 1, et 29*a*, al. 1, let. a et b, LEne pour autant que l’agrandissement ou la rénovation n’entraîne aucune atteinte écologique nouvelle ou supplémentaire.
+
+[^9-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^9-2]: [RS 814.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9477)
+[^9-3]: [RS 923.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10989)
 
 #### Art. 10
 
@@ -253,7 +253,7 @@ Seules les grandes installations photovoltaïques peuvent participer au système
 
 <sup>4</sup> La prime d’injection est réduite du facteur du taux normal en vigueur fixé à l’art. 25, al. 1, de la loi du 12 juin 2009 sur la TVA (LTVA)[^16-1], arrondi à la quatrième décimale, pour les exploitants assujettis à l’impôt en application des art. 10 à 13 LTVA; le facteur est calculé comme suit:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image1.png) .[^16-2]
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/fr/xml/image/image1.png) .[^16-2]
 
 [^16-1]: [RS 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 [^16-2]: Introduit par le ch. I de l’O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
@@ -573,6 +573,11 @@ Le pourcentage est de:
 - a. 5 % pour les installations hydroélectriques;
 - b. 10 % pour les installations de biomasse et les installations éoliennes.
 
+<sup>6</sup> Si la rétribution minimale visée à l’art. 15, al. 1<sup>bis</sup>, LEne déploie ses effets sur une installation hydroélectrique se trouvant dans le système de la prime de marché flottante, la rétribution minimale déterminante visée à l’art. 12, al. 1<sup>bis</sup>, let. d, OEne[^30aquinquies-1] correspond pour la période concernée au prix de marché de référence.[^30aquinquies-2]
+
+[^30aquinquies-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
+[^30aquinquies-2]: Introduit par le ch. II de l’O du 19 fév. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+
 #### Art. 30a<sup>sexies</sup>
 
 **Réduction de la prime de marché flottante pour les exploitants assujettis à la TVA**
@@ -605,7 +610,11 @@ Le pourcentage est de:
 
 <sup>5</sup> Si l’exploitant ne transmet pas l’avis de mise en service ou l’intégralité des informations nécessaires pour les versements visés à l’al. 1 ou 2 dans les délais prescrits, il n’existe aucun droit à la rétribution jusqu’à ce que ces informations soient données.
 
+<sup>5bis</sup> Si l’exploitant ne transmet pas l’intégralité du décompte détaillé des coûts de construction visé à l’art. 30*c*<sup>quinquies</sup>, al. 5, dans les délais prescrits, le bonus pour électricité hivernale ne sera pas versé avant que le décompte soit transmis.[^30aocties-1]
+
 <sup>6</sup> Si une installation injecte moins d’électricité dans le réseau que la part de la production qui serait rétribuée par la prime de marché flottante, l’autorité compétente verse cette prime uniquement pour l’électricité effectivement injectée.
+
+[^30aocties-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30a<sup>novies</sup>
 
@@ -779,21 +788,39 @@ Si l’installation photovoltaïque remplit une ou plusieurs des conditions suiv
 
 - a. installations intégrées qui présentent un angle d’inclinaison d’au moins 75 degrés et qui ont été mises en service à compter du 1<sup>er</sup> janvier 2022;
 - b. installations ajoutées ou isolées qui présentent un angle d’inclinaison d’au moins 75 degrés et qui ont été mises en service à compter du 1<sup>er</sup> janvier 2023;
-- c. installations photovoltaïques situées en dehors des zones à bâtir et qui n’ont été ni ajoutées à un bâtiment ni intégrées dans un bâtiment, si elles présentent une puissance d’au moins 150 kW et ont été mises en place à une altitude d’au moins 1500 m;
+- c.[^30c-1] grandes installations photovoltaïques dont le rendement spécifique d’électricité hivernale, du 1<sup>er</sup> octobre au 31 mars (semestre d’hiver), est supérieur à 500 kWh par kW de puissance et qui ont été mises en service à partir du 1<sup>er</sup> janvier 2026 (bonus pour l’électricité hivernale);
 - d. grandes installations photovoltaïques sises sur des aires de stationnement permanentes non couvertes avant la mise en place de ces installations (bonus pour les places de stationnement).
+
+<sup>2bis</sup> Le rendement spécifique d’électricité hivernale correspond au rendement électrique d’une installation par kW de puissance au semestre d’hiver.[^30c-2]
 
 <sup>3</sup> Si seules des parties d’une installation remplissent les conditions d’un bonus, les bonus sont accordés proportionnellement aux parts de la puissance.
 
+<sup>3bis</sup> Les conditions d’octroi du bonus pour l’électricité hivernale sont considérées comme remplies sur toute la durée de rétribution si l’installation affiche un rendement spécifique d’électricité hivernale moyen supérieur à 500 kWh par kW de puissance sur les trois premiers semestres d’hiver complets. Le droit à un bonus pour l’électricité hivernale n’existe toutefois que pour les semestres d’hiver au cours desquels l’installation atteint un rendement spécifique d’électricité hivernale supplémentaire.[^30c-3]
+
+<sup>3ter</sup> Le droit à un bonus d’angle d’inclinaison n’existe pas pour les installations recevant un bonus pour l’électricité hivernale. Si au terme des trois premiers semestres d’hiver complets, les conditions d’octroi du bonus pour l’électricité hivernale ne sont pas remplies ou si l’exploitant renonce à ce bonus, il est possible de faire valoir un éventuel droit à un bonus d’angle d’inclinaison à titre rétroactif. Si l’exploitant renonce au bonus pour l’électricité hivernale, il le communique à l’organe d’exécution au plus tard un mois après réception de la confirmation que les conditions d’octroi sont remplies.[^30c-4]
+
 <sup>4</sup>
 
-Les montants des différents bonus sont les suivants:
+Les montants des différents bonus, par kWh, sont les suivants:
 
-- a. bonus d’angle d’inclinaison pour les installations intégrées: 2,2 ct./kWh;
-- b. bonus d’angle d’inclinaison pour les installations ajoutées ou isolées: 1 ct./kWh;
-- c. bonus d’altitude: 0,7 ct./kWh;
-- d. bonus pour les places de stationnement: 1 ct./kWh.
+- a. bonus d’angle d’inclinaison pour les installations intégrées: 2,2 ct.;
+- b. bonus d’angle d’inclinaison pour les installations ajoutées ou isolées: 1 ct.;
+- c. bonus pour l’électricité hivernale: 17,5 ct. multipliés par le rendement spécifique d’électricité hivernale supplémentaire, divisés par le rendements spécifique complet d’électricité hivernale;
+- d. bonus pour les places de stationnement: 1 ct.[^30c-5]
+
+<sup>4bis</sup> Le rendement spécifique d’électricité hivernale supplémentaire correspond au rendement électrique d’une installation par kW de puissance au semestre d’hiver et qui dépasse 500 kWh par kW de puissance.[^30c-6]
+
+<sup>4ter</sup> Le bonus pour l’électricité hivernale n’est accordé que pour l’électricité injectée au semestre d’hiver. Il est calculé et versé au plus tard au troisième trimestre de chaque année pour le semestre d’hiver précédent.[^30c-7]
 
 <sup>5</sup> Pour les installations photovoltaïques qu’il est prévu de construire en dehors des zones à bâtir et remplissant certains critères supplémentaires, une mise aux enchères spéciale peut être réalisée séparément.
+
+[^30c-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-2]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-3]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-4]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-5]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-6]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30c-7]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30c<sup>bis</sup>
 
@@ -833,17 +860,29 @@ Il octroie l’adjudication aux offres:
 
 <sup>3</sup> Si la totalité de la puissance des offres qui remplissent les conditions de participation est inférieure au volume mis aux enchères, celui-ci sera automatiquement réduit à 90 % de la puissance proposée dans les offres.
 
+<sup>4</sup> Les demandes de bonus pour l’électricité hivernale doivent être accompagnées d’une simulation de la production probable d’électricité de l’installation, prouvant que les conditions d’octroi du bonus seront vraisemblablement remplies.[^30cquater-1]
+
+[^30cquater-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
 #### Art. 30c<sup>quinquies</sup>
 
-**Délai de mise en service, prolongation du délai et avis de mise en service**
+**Délai de mise en service, prolongation du délai et obligations d’annoncer[^30cquinquies-1]**
 
 <sup>1</sup> L’installation doit être mise en service au plus tard 24 mois après l’entrée en force de l’adjudication.
+
+<sup>1bis</sup> Les installations qui ne sont pas ajoutées ou intégrées à un bâtiment doivent être mises en service au plus tard 48 mois après l’entrée en force de l’adjudication.[^30cquinquies-2]
 
 <sup>2</sup> Si le requérant ne peut pas respecter le délai de mise en service pour des raisons qui ne lui sont pas imputables, l’organe d’exécution peut prolonger celui-ci sur demande. La demande doit être déposée par écrit avant l’expiration du délai.
 
 <sup>3</sup> La mise en service doit être annoncée à l’organe d’exécution au plus tard un mois à compter de la mise en service.
 
 <sup>4</sup> L’avis de mise en service doit comporter les données et les documents visés à l’annexe 2.1, ch. 4.2.
+
+<sup>5</sup> Un décompte détaillé des coûts de construction doit être remis à l’organe d’exécution après la première année complète d’exploitation pour les installations faisant l’objet d’une demande de bonus pour l’électricité hivernale.[^30cquinquies-3]
+
+[^30cquinquies-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30cquinquies-2]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^30cquinquies-3]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30c<sup>sexies</sup>
 
@@ -987,11 +1026,13 @@ L’organe d’exécution révoque la garantie visée à l’art. 30*d*<sup>sexi
 
 #### Art. 30e<sup>ter</sup>
 
-**Agrandissement ou rénovation notables**
+**Agrandissement ou rénovation notables**[^30eter-1]
 
-<sup>1</sup> L’agrandissement d’une installation de biomasse ou d’une centrale électrique à bois est réputé notable lorsque des mesures de construction permettent d’augmenter d’au moins 25 % ou d’au moins 500 000 kWh la production annuelle d’électricité par rapport à la moyenne des trois dernières années complètes d’exploitation précédant la mise en service de l’agrandissement.
+<sup>1</sup> L’agrandissement d’une installation de biogaz ou d’une centrale électrique à bois est réputé notable lorsque des mesures de construction permettent d’augmenter d’au moins 25 % ou d’au moins 500 000 kWh la production annuelle d’électricité par rapport à la moyenne des trois dernières années complètes d’exploitation précédant la mise en service de l’agrandissement.
 
-<sup>2</sup> La rénovation d’une installation de biomasse ou d’une centrale électrique à bois est réputée notable lorsque les coûts d’investissement imputables de la rénovation atteignent au moins 200 000 francs.
+<sup>2</sup> La rénovation d’une installation de biogaz ou d’une centrale électrique à bois est réputée notable lorsque les coûts d’investissement imputables de la rénovation atteignent au moins 200 000 francs. Les coûts d’investissement imputables sont déterminés conformément à l’art. 61, al. 1 à 3, et à l’annexe 2.3, ch. 2.4 ou 3.4.
+
+[^30eter-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30e<sup>quater</sup>
 
@@ -1000,7 +1041,9 @@ L’organe d’exécution révoque la garantie visée à l’art. 30*d*<sup>sexi
 Pour un agrandissement ou une rénovation notables, la part de la production nette de l’installation qui est rétribuée via la prime de marché flottante est déterminée comme suit:
 
 - a. pour un agrandissement notable: rapport entre la production supplémentaire réalisée en raison de l’agrandissement, d’une part, et la production totale après l’agrandissement, d’autre part;
-- b. pour une rénovation notable: rapport entre les coûts d’investissement imputables générés en raison de la rénovation, d’une part, et les coûts d’investissement pour une nouvelle installation de référence, d’autre part.
+- b.[^30equater-1] pour une rénovation notable: rapport entre les coûts d’investissement imputables générés en raison de la rénovation, d’une part, et les coûts d’investissement pour une nouvelle installation de référence, d’autre part; les coûts d’investissement imputables sont déterminés conformément à l’art. 61, al. 1 à 3, et à l’annexe 2.3, ch. 2.4 ou 3.4.
+
+[^30equater-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 30e<sup>quinquies</sup>
 
@@ -1168,9 +1211,9 @@ Avant une éventuelle modification d’utilisation ou une cession, les indicatio
 
 **Délai de carence**[^35-1]
 
-Lorsqu’une rétribution unique élevée a été allouée pour la réalisation d’une nouvelle installation photovoltaïque ou l’agrandissement notable d’une installation photovoltaïque, un délai minimum d’un an à compter de la mise en service de cette installation ou de cet agrandissement doit s’écouler avant qu’une autre installation photovoltaïque sans consommation propre ou l’agrandissement notable d’une telle installation soit mis en service sur le même terrain et puisse faire l’objet d’une demande de rétribution unique élevée.
+Lorsqu’une rétribution unique élevée a été allouée, conformément à l’annexe 2.1, ch. 2.10, pour la réalisation d’une nouvelle installation photovoltaïque ou l’agrandissement notable d’une installation photovoltaïque, un délai minimum d’un an à compter de la mise en service de cette installation ou de cet agrandissement doit s’écouler avant qu’une autre installation photovoltaïque sans consommation propre ou l’agrandissement notable d’une telle installation soit mis en service sur le même terrain et puisse faire l’objet d’une demande de rétribution unique élevée.
 
-[^35-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^35-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ## Chapitre 3*a* Contribution pour les études de projet
 
@@ -1342,11 +1385,13 @@ L’agrandissement ou la rénovation d’une installation est réputé notable l
 
 <sup>1ter</sup> Si seules des parties d’une installation remplissent les conditions d’un bonus, les bonus sont accordés pour la puissance de ces parties.[^38-3]
 
-<sup>1quater</sup> …[^38-4]
+<sup>1quater</sup> Les installations recevant un bonus pour l’électricité hivernale n’ont pas droit à un bonus d’angle d’inclinaison.[^38-4]
+
+<sup>1quinquies</sup> Le bonus pour l’électricité hivernale n’est octroyé qu’après trois semestres d’hiver complets. Si les conditions d’octroi du bonus pour l’électricité hivernale ne sont pas remplies à ce moment-là, ou si l’exploitant renonce à ce bonus dans un délai d’un mois après réception de la confirmation que les conditions d’octroi sont remplies, il est possible de faire valoir un éventuel droit à un bonus d’angle d’inclinaison.[^38-5]
 
 <sup>2</sup> Les taux sont fixés à l’annexe 2.1. Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) les contrôle chaque année. En cas de modification substantielle des conditions, il propose au Conseil fédéral de les adapter.
 
-<sup>3</sup> Pour les grandes installations photovoltaïques mises en service entre le 1<sup>er</sup> janvier 2013 et le 31 mars 2025, les taux pour les installations ajoutées et les installations isolées s’appliquent, même si ces installations appartiennent à la catégorie des installations intégrées.[^38-5]
+<sup>3</sup> Pour les grandes installations photovoltaïques mises en service entre le 1<sup>er</sup> janvier 2013 et le 31 mars 2025, les taux pour les installations ajoutées et les installations isolées s’appliquent, même si ces installations appartiennent à la catégorie des installations intégrées.[^38-6]
 
 <sup>4</sup> Les agrandissements et les rénovations notables bénéficient uniquement d’une contribution liée à la puissance en fonction de l’augmentation de la puissance obtenue suite à l’agrandissement ou à la rénovation. Aucune contribution de base n’est versée.
 
@@ -1357,8 +1402,9 @@ L’agrandissement ou la rénovation d’une installation est réputé notable l
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^38-2]: Introduit par le ch. I de l’O du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^38-3]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38-4]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Abrogé par le ch. I de l’O du 20 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38-5]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^38-4]: Introduit par le ch. I de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38-5]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38-6]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 38a
 
@@ -1372,14 +1418,20 @@ L’agrandissement ou la rénovation d’une installation est réputé notable l
 
 <sup>4</sup> Le taux indiqué dans l’offre est majoré d’un ou de plusieurs bonus lorsque les conditions visées à l’art. 30*c*, al. 2, sont réunies.[^38a-2]
 
-<sup>5</sup> Les montants des différents bonus sont précisés à l’annexe 2.1, ch. 2.7.[^38a-3]
+<sup>4bis</sup> Les installations recevant un bonus pour l’électricité hivernale n’ont pas droit à un bonus d’angle d’inclinaison.[^38a-3]
 
-<sup>6</sup> Si seules des parties d’une installation remplissent les conditions d’un bonus, les bonus sont accordés pour la puissance de ces parties.[^38a-4]
+<sup>5</sup> Les montants des différents bonus sont précisés à l’annexe 2.1, ch. 2.7.[^38a-4]
+
+<sup>5bis</sup> Le bonus pour l’électricité hivernale n’est octroyé qu’après trois semestres d’hiver complets. Si les conditions d’octroi du bonus pour l’électricité hivernale ne sont pas remplies à ce moment-là, ou si l’exploitant renonce à ce bonus dans un délai d’un mois après réception de la confirmation que les conditions d’octroi sont remplies, il est possible de faire valoir un éventuel droit à un bonus d’angle d’inclinaison.[^38a-5]
+
+<sup>6</sup> Si seules des parties d’une installation remplissent les conditions d’un bonus, les bonus sont accordés pour la puissance de ces parties.[^38a-6]
 
 [^38a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^38a-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38a-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^38a-4]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^38a-3]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38a-4]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^38a-5]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^38a-6]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 38b
 
@@ -1455,14 +1507,15 @@ Lorsque les conditions d’octroi sont vraisemblablement remplies et que des moy
 
 #### Art. 45
 
-**Délai et avis de mise en service**
+**Délai de mise en service, prolongation du délai et obligations d’annoncer[^45-1]**
 
 <sup>1</sup>
 
 L’installation doit être mise en service au plus tard:
 
 - a. 12 mois après l’octroi de la garantie de principe visée à l’art. 44;
-- b. 6 ans après l’octroi de la garantie de principe visée à l’art. 44 si la mise en place de l’installation implique un changement des bases en matière d’aménagement du territoire.[^45-1]
+- b. 6 ans après l’octroi de la garantie de principe visée à l’art. 44 si la mise en place de l’installation implique un changement des bases en matière d’aménagement du territoire;
+- c.[^45-2] 48 mois après la garantie de principe visée à l’art. 44 si l’installation n’est pas ajoutée ou intégrée à un bâtiment.[^45-3]
 
 <sup>2</sup> La mise en service doit être annoncée à l’organe d’exécution dans les trois mois suivant la mise en service.
 
@@ -1470,7 +1523,12 @@ L’installation doit être mise en service au plus tard:
 
 <sup>4</sup> Si le requérant ne peut pas respecter le délai de mise en service pour des raisons qui ne lui sont pas imputables, l’organe d’exécution peut prolonger celui-ci sur demande. La demande doit être déposée avant l’expiration du délai.
 
-[^45-1]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+<sup>5</sup> Un décompte détaillé des coûts de construction doit être remis à l’organe d’exécution après la première année complète d’exploitation pour les installations faisant l’objet d’une demande de bonus pour l’électricité hivernale.[^45-4]
+
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^45-2]: Introduite par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^45-3]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
+[^45-4]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46
 
@@ -1492,25 +1550,29 @@ L’organe d’exécution révoque la garantie visée à l’art. 44 et rejette 
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)).
 
+#### Art. 46a
+
+**Calcul du rendement spécifique d’électricité hivernale et paiement du bonus pour l’électricité hivernale**[^46a-1]
+
+<sup>1</sup> Si le décompte détaillé des coûts de construction a été remis conformément à l’art. 45, al. 5, l’organe d’exécution calcule, après trois semestres d’hiver complets, le rendement spécifique moyen d’électricité hivernale.
+
+<sup>2</sup> Sur la base du rendement spécifique moyen d’électricité hivernale, l’organe d’exécution calcule le bonus pour l’électricité hivernale et le verse à l’exploitant.
+
+[^46a-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
 ### Section 5 Enchères pour la rétribution unique
 
 [^chap4-sec5-1]
 
 [^chap4-sec5-1]: Introduite par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
-#### Art. 46a
+#### Art. 46b
 
-**Compétences et conditions de participation**[^46a-1]
+**Compétences et conditions de participation**[^46b-1]
 
 Les compétences et les conditions de participation sont régies par les art. 30*c*<sup>bis</sup> et 30*c*<sup>ter</sup>.
 
-[^46a-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-
-#### Art. 46b
-
-[^46b-1]
-
-[^46b-1]: Abrogé par le ch. I de l’O du 20 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^46b-1]: Anciennement art. 46*a*. Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
 #### Art. 46c
 
@@ -1529,15 +1591,20 @@ Il octroie l’adjudication aux offres qui:
 
 <sup>3</sup> Si la totalité de la puissance des offres qui remplissent les conditions de participation est inférieure au volume mis aux enchères, celui-ci sera automatiquement réduit à 90 % de la puissance proposée dans les offres.
 
+<sup>4</sup> Les demandes de bonus pour l’électricité hivernale doivent être accompagnées d’une simulation de la production probable d’électricité de l’installation, prouvant que les conditions d’octroi du bonus seront vraisemblablement remplies.[^46c-4]
+
 [^46c-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^46c-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^46c-3]: Abrogée par le ch. I de l’O du 20 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^46c-4]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46d
 
-**Délai et avis de mise en service**
+**Délai de mise en service, prolongation du délai et obligations d’annoncer[^46d-1]**
 
-<sup>1</sup> L’installation doit être mise en service au plus tard 24 mois après l’entrée en force de l’adjudication.[^46d-1]
+<sup>1</sup> L’installation doit être mise en service au plus tard 24 mois après l’entrée en force de l’adjudication.[^46d-2]
+
+<sup>1bis</sup> Les installations qui ne sont pas ajoutées ou intégrées à un bâtiment doivent être mises en service au plus tard 48 mois après l’entrée en force de l’adjudication.[^46d-3]
 
 <sup>2</sup> La mise en service doit être annoncée à l’organe d’exécution dans les trois mois suivant la mise en service.
 
@@ -1545,7 +1612,22 @@ Il octroie l’adjudication aux offres qui:
 
 <sup>4</sup> Si le requérant ne peut pas respecter le délai de mise en service pour des raisons qui ne lui sont pas imputables, l’organe d’exécution peut prolonger celui-ci sur demande. La demande doit être déposée avant l’expiration du délai.
 
-[^46d-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+<sup>5</sup> Un décompte détaillé des coûts de construction doit être remis à l’organe d’exécution après la première année complète d’exploitation pour les installations faisant l’objet d’une demande de bonus pour l’électricité hivernale.[^46d-4]
+
+[^46d-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^46d-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46d-3]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^46d-4]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
+#### Art. 46d<sup>bis</sup>
+
+**Calcul du rendement spécifique d’électricité hivernale et paiement du bonus pour l’électricité hivernale**[^46dbis-1]
+
+<sup>1</sup> Si le décompte détaillé des coûts de construction a été remis conformément à l’art. 46*d*, al. 5, l’organe d’exécution calcule, après trois semestres d’hiver complets, le rendement spécifique moyen d’électricité hivernale.
+
+<sup>2</sup> Sur la base du rendement spécifique moyen d’électricité hivernale, l’organe d’exécution calcule le bonus pour l’électricité hivernale et le verse à l’exploitant.
+
+[^46dbis-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46e
 
@@ -1627,25 +1709,25 @@ L’organe d’exécution publie les informations suivantes sur les mises aux en
 
 #### Art. 46j
 
-**Garantie de principe**
+**Garantie de principe**[^46j-1]
 
-Lorsque les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne, sont vraisemblablement remplies et que des moyens sont disponibles en suffisance, l’OFEN garantit, par voie de décision, la rétribution unique dans son principe, et:
+<sup>1</sup> Lorsque les conditions d’octroi visées à l’art. 71*a*, al. 2, LEne, sont vraisemblablement remplies et que des moyens sont disponibles en suffisance, l’OFEN garantit, par voie de décision, la rétribution unique dans son principe et fixe le montant maximal que la rétribution unique ne doit pas dépasser. Ce montant maximal s’élève à 60 % des coûts d’investissement imputables probables.
 
-- a. il calcule le montant probable auquel la rétribution unique s’élèvera au moment de l’octroi de la garantie de principe; ce montant correspond aux coûts non couverts attendus;
-- b. il calcule le montant maximal que la rétribution unique ne doit pas dépasser; ce montant s’élève à 60% des coûts d’investissement imputables probables;
-- c. se fondant sur les let. a et b, il détermine le plan de paiement visé à l’art. 46*q*.
+<sup>2</sup> L’OFEN calcule également dans la garantie de principe les coûts non couverts attendus.
+
+<sup>3</sup> En déterminant le plan de paiement visé à l’art. 46*q*, l’OFEN tient compte des montants visés aux al. 1 et 2.
+
+[^46j-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46k
 
-**Injection partielle d’électricité et délai de mise en service**
+**Délai de mise en service et mise en service partielle**[^46k-1]
 
-<sup>1</sup> La puissance de la partie de l’installation mise en service et raccordée au réseau électrique au 31 décembre 2025 doit permettre de produire chaque année au moins 10 % de la production annuelle attendue pour l’ensemble de l’installation prévue ou au moins10 GWh.[^46k-1]
+<sup>1</sup> La mise en service complète doit avoir lieu au plus tard cinq ans après l’entrée en force de la dernière autorisation requise pour la construction de l’installation.
 
-<sup>2</sup> La mise en service complète doit avoir lieu le 31 décembre 2030 au plus tard.
+<sup>2</sup> Si, dans le délai visé à l’al. 1, seule une partie de l’installation initialement prévue a été mise en service, la rétribution unique est calculée et allouée proportionnellement à la partie mise en service à cette date, pour autant que cette partie remplisse les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne.
 
-<sup>3</sup> Si, au 31 décembre 2030, seule une partie de l’installation initialement prévue a été mise en service, la rétribution unique est calculée et allouée proportionnellement à la partie mise en service à cette date, pour autant que cette partie remplisse les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne.
-
-[^46k-1]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)).
+[^46k-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46l
 
@@ -1653,9 +1735,11 @@ Lorsque les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne, s
 
 <sup>1</sup> Un avis de mise en service doit être remis à l’OFEN après la mise en service.
 
-<sup>2</sup> Si, au 31 décembre 2030, seule une partie de l’installation initialement prévue est mise en service, un avis de mise en service doit être remis pour cette partie uniquement.
+<sup>2</sup> Si, dans le délai de mise en service visé à l’art. 46*k*, al. 1, seule une partie de l’installation initialement prévue est mise en service, un avis de mise en service doit être remis pour cette partie uniquement.[^46l-1]
 
 <sup>3</sup> L’avis de mise en service doit comporter les données et les documents mentionnés à l’annexe 2.1, ch. 5.2.
+
+[^46l-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46m
 
@@ -1670,7 +1754,9 @@ Il doit comporter au moins les données et les documents suivants:
 - a. décompte détaillé des coûts de construction;
 - b. liste des coûts d’investissement imputables et des coûts d’investissement non imputables.
 
-<sup>3</sup> Si, au 31 décembre 2030, seule une partie de l’installation initialement prévue est mise en service, l’avis de fin des travaux pour cette partie doit être remis le 31 décembre 2031 au plus tard.
+<sup>3</sup> Si, dans le délai de mise en service visé à l’art. 46*k*, al. 1, seule une partie de l’installation initialement prévue est mise en service, l’avis de fin des travaux pour cette partie doit être remis.[^46m-1]
+
+[^46m-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46n
 
@@ -1683,13 +1769,15 @@ Sur demande du requérant, l’OFEN peut prolonger le délai pour la remise de l
 
 #### Art. 46o
 
-**Déclaration de la production nette et de la production hivernale**
+**Déclaration de la production nette et de la production hivernale**[^46o-1]
 
-<sup>1</sup> La production nette annuelle de l’installation depuis la mise en service complète ainsi que la production d’électricité durant le semestre d’hiver (du 1<sup>er</sup> octobre au 31 mars) par kW de puissance installée doit être déclarée à l’OFEN après la troisième année complète d’exploitation.
+<sup>1</sup> La production nette annuelle de l’installation et la production d’électricité durant le semestre d’hiver par kW de puissance installée depuis la mise en service complète doivent être déclarées à l’OFEN après la troisième année complète d’exploitation.
 
 <sup>2</sup> La consommation propre et la production excédentaire figurent séparément dans les données sur la production nette.
 
-<sup>3</sup> Si, au 31 décembre 2030, seule une partie de l’installation initialement prévue est mise en service, les données à déclarer ne concernent que cette partie de l’installation.
+<sup>3</sup> Si, dans le délai de mise en service visé à l’art. 46*k*, al. 1, seule une partie de l’installation initialement prévue est mise en service, les données à déclarer ne concernent que cette partie de l’installation.
+
+[^46o-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46p
 
@@ -1700,10 +1788,12 @@ Sur demande du requérant, l’OFEN peut prolonger le délai pour la remise de l
 Si les conditions d’octroi énumérées à l’art. 71*a*, al. 2, LEne sont encore remplies au moment de la déclaration de la production nette, l’OFEN fixe définitivement la rétribution unique en optant pour le montant le plus bas dans les valeurs ci-après:
 
 - a. montant des coûts non couverts définitifs (al. 2);
-- b. 60% des coûts d’investissement imputables probables (art. 46*j*, let. b), ou
+- b.[^46p-1] montant maximal visé à l’art. 46*j*, al. 1;
 - c. 60% des coûts d’investissement imputables définitifs.
 
 <sup>2</sup> Les coûts non couverts définitifs sont calculés sur la base des coûts d’investissement imputables définitifs et de la moyenne annuelle de la production nette déclarée, compte tenu du taux d’intérêt calculé et du scénario de prix qui s’appliquaient au moment de l’octroi de la garantie de principe.
+
+[^46p-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 46p<sup>bis</sup>
 
@@ -1914,17 +2004,23 @@ Sur demande, l’OFEN peut prolonger les délais de mise en service et de remise
 
 #### Art. 58
 
-**Déclaration de la production nette**
+**Déclaration de la production nette**[^58-1]
 
-La production nette annuelle depuis la mise en service doit être déclarée à l’OFEN après la cinquième année complète d’exploitation.
+<sup>1</sup> La production nette annuelle depuis la mise en service doit être déclarée à l’OFEN après la cinquième année complète d’exploitation.
+
+<sup>2</sup> L’OFEN peut exempter le requérant de l’obligation de déclarer si la production nette n’a aucune influence sur la fixation définitive de la contribution d’investissement.
+
+[^58-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 59
 
 **Fixation définitive de la contribution d’investissement**[^59-1]
 
-Si les conditions d’octroi sont encore remplies au moment de la déclaration de la production nette, l’OFEN fixe définitivement la contribution d’investissement en s’appuyant sur les coûts d’investissement effectifs.
+<sup>1</sup> Si la production nette a été déclarée et que les conditions d’octroi sont encore remplies à ce moment-là, l’OFEN fixe définitivement la contribution d’investissement en s’appuyant sur les coûts d’investissement effectifs.
 
-[^59-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+<sup>2</sup> Si le requérant a été exempté de déclarer la production nette sur la base de l’art. 58, al. 2, la contribution d’investissement est fixée définitivement au moment de l’avis de fin des travaux, pour autant que les conditions d’octroi soient encore remplies à ce moment-là.
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 60
 
@@ -2031,7 +2127,10 @@ La rénovation d’une autre installation de biomasse est réputée notable lors
 - b. 250 000 francs pour les installations au gaz d’épuration d’un équivalent-habitant égal ou supérieur à 50 000;
 - c. 100 000 francs pour les installations au gaz d’épuration d’un équivalent-habitant inférieur à 50 000 et les installations au gaz de décharge.
 
+<sup>4</sup> Les coûts d’investissement imputables sont déterminés conformément à l’art. 61, al. 1 à 3, et à l’annexe 2.3, ch. 4.3 ou 6.3.[^68-2]
+
 [^68-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^68-2]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 69
 
@@ -2243,9 +2342,10 @@ La contribution d’investissement est versée en trois tranches:
 
 **Coûts d’investissement imputables**[^81-1]
 
-Les coûts d’investissement visés à l’art. 61 sont imputables.
+Les coûts d’investissement visés à l’art. 61, al. 1 à 3, sont imputables.[^81-2]
 
 [^81-1]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^81-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 82
 
@@ -2286,9 +2386,10 @@ Ne sont notamment pas imputables:
 Pour un agrandissement ou une rénovation notables, la part de la puissance de l’installation après la rénovation ou l’agrandissement pour laquelle une contribution d’investissement est accordée est déterminée comme suit:
 
 - a. pour un agrandissement notable: rapport entre l’augmentation de la puissance à attendre en raison de l’agrandissement, d’une part, et la puissance totale après l’agrandissement, d’autre part;
-- b. pour une rénovation notable: rapport entre les coûts d’investissement imputables en raison de la rénovation, d’une part, et les coûts d’investissement pour une nouvelle installation de référence, d’autre part.
+- b.[^84-2] pour une rénovation notable: rapport entre les coûts d’investissement imputables en raison de la rénovation, d’une part, et les coûts d’investissement pour une nouvelle installation de référence, d’autre part; les coûts d’investissement imputables sont déterminés conformément à l’art. 61, al. 1 à 3, et à l’annexe 2.3, ch. 2.4, 3.4 ou 6.3.
 
 [^84-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^84-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 85
 
@@ -2394,13 +2495,9 @@ Lorsque les conditions d’octroi sont vraisemblablement remplies et que des moy
 
 #### Art. 87g
 
-**Mise à jour de la garantie de principe**[^87g-1]
+[^87g-1]
 
-<sup>1</sup> Après la remise de l’avis d’avancement du projet, le montant probable de la contribution d’investissement et le montant maximal qui ont été fixés dans la garantie de principe sont refixés en fonction de la puissance prévue de l’installation selon le permis de construire exécutoire.
-
-<sup>2</sup> Les montants fixés dans la garantie de principe ne doivent pas être dépassés.
-
-[^87g-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87g-1]: Abrogé par le ch. I de l’O du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 87h
 
@@ -2412,9 +2509,12 @@ Lorsque les conditions d’octroi sont vraisemblablement remplies et que des moy
 
 **Fixation définitive de la contribution d’investissement**[^87i-1]
 
-Si les conditions d’octroi sont encore remplies au moment de l’avis de mise en service, l’organe d’exécution fixe définitivement la contribution d’investissement en s’appuyant sur la puissance installée effective de l’installation.
+<sup>1</sup> Si les conditions d’octroi sont encore remplies au moment de l’avis de mise en service, l’organe d’exécution fixe définitivement la contribution d’investissement en s’appuyant sur la puissance installée effective de l’installation.
+
+<sup>2</sup> Si une contribution pour les études de projet a été accordée pour un projet d’énergie éolienne, une part de celle-ci est déduite de la contribution d’investissement lors de la fixation définitive de cette dernière. La contribution pour les études de projet est répartie de manière égale entre les installations éoliennes dont l’autorisation est entrée en force.[^87i-2]
 
 [^87i-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87i-2]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 87j
 
@@ -2422,10 +2522,10 @@ Si les conditions d’octroi sont encore remplies au moment de l’avis de mise 
 
 La contribution d’investissement est versée en deux tranches:
 
-- a. 50 % du montant maximal actualisé visé à l’art. 87*g*: au début des travaux;
-- b. la différence entre le montant précisé à la let. a et la contribution d’investissement définitive: après l’entrée en force de la fixation définitive de la contribution d’investissement.
+- a. 50 % du montant maximal visé à l’art. 87*e*, let b: au début des travaux;
+- b. la différence entre le montant visé à la let. a et la contribution d’investissement définitive: après l’entrée en force de la fixation définitive de la contribution d’investissement.
 
-[^87j-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^87j-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### Section 4 Calcul de la contribution d’investissement
 
@@ -2657,23 +2757,22 @@ Les recettes sont prises en compte conformément aux sources et aux hypothèses 
 Les coûts d’exploitation indispensables à une production efficace sont pris en compte dans le calcul des coûts de revient. Sont également pris en compte:[^90-1]
 
 - a. la redevance hydraulique;
-- b.[^90-2] les manques à gagner dus à l’électricité cédée à la collectivité publique à titre gratuit ou à prix réduit;
+- b. les manques à gagner dus à l’électricité cédée à la collectivité publique à titre gratuit ou à prix réduit;
 - c. les impôts directs, les impôts sur le bénéfice seulement s’ils correspondent à un bénéfice réel et ne sont pas dus à la collectivité publique locale sur la base d’un accord et indépendamment des bénéfices;
-- d.[^90-3]
+- d.[^90-2]
 
   les dépenses pour des prestations de services globales et la commercialisation à hauteur de:
 
   - 1\. 0,40 ct./kWh pour les centrales au fil de l’eau,
   - 2\. 0,55 ct./kWh pour les centrales à accumulation, les centrales à pompage-turbinage et les centrales à pompage-turbinage pur.
 
-<sup>2</sup> Les coûts de capital calculés sont également pris en compte en tant que coûts de revient. Le taux d’intérêt visé à l’annexe 3 s’applique. Les amortissements sont en principe effectués conformément à l’ancienne pratique pour l’installation concernée.[^90-4]
+<sup>2</sup> Les coûts de capital calculés sont également pris en compte en tant que coûts de revient. Le taux d’intérêt visé à l’annexe 3 s’applique. Les amortissements sont en principe effectués conformément à l’ancienne pratique pour l’installation concernée.[^90-3]
 
 <sup>3</sup> L’OFEN fixe dans une directive les coûts d’exploitation et de capital imputables.
 
 [^90-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-2]: Erratum du 10 sept. 2025, ne concerne que le texte italien ([RO 2025 552](https://fedlex.data.admin.ch/eli/oc/2025/552)).
-[^90-3]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
-[^90-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
+[^90-2]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^90-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 
 ### Section 2 Prime de marché et approvisionnement de base
 
@@ -2901,15 +3000,18 @@ L’organe d’exécution décide l’exclusion d’une installation du soutien 
 
 **Évaluation**
 
-<sup>1</sup> L’OFEN évalue les données sur les projets et les installations pour lesquels un encouragement a été sollicité en vertu de la présente ordonnance, en vue de la planification des moyens disponibles du fonds alimenté par le supplément et du contrôle de l’efficacité des instruments d’encouragement.
+<sup>1</sup> L’OFEN évalue les données sur les projets et les installations pour lesquels un encouragement a été sollicité en vertu de la présente ordonnance, en vue de la planification des moyens disponibles du fonds alimenté par le supplément et du contrôle de l’utilité et de l’efficacité des instruments d’encouragement.[^97-1]
 
-<sup>2</sup> Pour ce faire, il peut utiliser toutes les indications figurant dans la demande, les éventuels avis d’avancement du projet et l’avis de mise en service.
+<sup>2</sup> Pour ce faire, il peut utiliser toutes les indications figurant dans la demande, les éventuels avis d’avancement du projet, l’avis de mise en service et le décompte des coûts de construction.[^97-2]
 
 <sup>3</sup> Il peut en outre utiliser la quantité d’électricité produite, le montant des aides versées et le montant des coûts d’exécution pour ses évaluations.
 
 <sup>4</sup> Il peut publier les résultats des évaluations.
 
 <sup>5</sup> L’organe d’exécution met les données nécessaires aux évaluations à la disposition de l’OFEN chaque mois ou sur demande.
+
+[^97-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^97-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 98
 
@@ -2971,12 +3073,32 @@ En ce qui concerne les rétributions uniques pour les installations visées à l
 - f. montant définitif de la rétribution unique;
 - g. part de l’encouragement par rapport aux coûts d’investissement imputables.[^98-6]
 
+<sup>8</sup>
+
+En ce qui concerne le bonus pour l’électricité hivernale dans le cadre de la prime de marché flottante, il publie les données suivantes:
+
+- a. le nombre d’installations;
+- b. la puissance totale des installations;
+- c. la production moyenne d’électricité hivernale par kW de puissance;
+- d. la somme des bonus pour l’électricité hivernale octroyés.[^98-7]
+
+<sup>9</sup>
+
+En ce qui concerne le bonus pour l’électricité hivernale dans le cadre de la rétribution unique, il publie les données suivantes:
+
+- a. le nombre d’installations;
+- b. la puissance totale des installations;
+- c. la production moyenne d’électricité hivernale par kW de puissance;
+- d. la somme des bonus pour l’électricité hivernale octroyés.[^98-8]
+
 [^98-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^98-2]: Nouvelle teneur selon le ch. I de l’O du 27 fév. 2019, en vigueur depuis le 1<sup>er</sup> avr. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)).
 [^98-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 [^98-4]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^98-5]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)).
 [^98-6]: Introduit par le ch. I de l’O du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> avr. 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)).
+[^98-7]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+[^98-8]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 #### Art. 99
 
@@ -3107,6 +3229,18 @@ Les installations existantes qui ont été ou seront complètement remplacées e
 
 [^108b-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
 
+#### Art. 108c
+
+**Disposition transitoire relative à la modification du 26 novembre 2025**[^108c-1]
+
+<sup>1</sup> Les exploitants ayant reçu la garantie d’un bonus d’altitude pour une installation avant l’entrée en vigueur de la présente modification continuent de bénéficier du bonus sur la base de l’ancien droit.
+
+<sup>2</sup> Si une installation mise en service à partir du 1<sup>er</sup> janvier 2026 remplit les conditions d’octroi d’un bonus pour l’électricité hivernale, l’exploitant peut renoncer au bonus d’altitude qui lui a été garanti pour l’installation et bénéficier à la place du bonus pour électricité hivernale.
+
+<sup>3</sup> La renonciation au bonus d’altitude doit être communiquée à l’organe d’exécution jusqu’à la fin du mois de septembre suivant le troisième semestre d’hiver complet. Le bonus d’altitude octroyé jusqu’à ce moment-là est déduit du bonus pour l’électricité hivernale.
+
+[^108c-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
+
 #### Art. 109
 
 **Entrée en vigueur**
@@ -3164,7 +3298,7 @@ Annexe 1.1[^t-1]
 - 2\.4.1 Si la part de l’aménagement des eaux, y compris les conduites sous pression, réalisée selon l’état de la technique est inférieure à 20 % de l’ensemble des coûts d’investissement du projet, il n’existe aucun droit à un bonus d’aménagement des eaux. Si cette part est supérieure à 50 %, le droit au bonus complet est donné. Entre 20 et 50 %, le calcul repose sur une interpolation linéaire selon le graphique ci-dessous. Les mesures visées à l’art. 83*a* LEaux[^annex11-lvlu1-lvl2-1] ou visées à l’art. 10 LFSP[^annex11-lvlu1-lvl2-2] ne sont pas imputables pour le bonus.
 - 2\.4.2 Les centrales de dotation n’ont pas droit au bonus d’aménagement des eaux. Les installations d’exploitation accessoire d’une puissance supérieure à 100 kW n’ont droit au bonus d’aménagement des eaux que pour la part allant jusqu’à une puissance équivalente de 100 kW.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/fr/xml/image/image2.png)
 
 - 2\.4.3 Taux du bonus d’aménagement des eaux par classe de puissance à partir du 1<sup>er</sup> janvier 2013:
 
@@ -3493,7 +3627,7 @@ Annexe 1.4[^t-4]
 
 ## Installations géothermiques dans le système de rétribution de l’injection
 
-[^t-4]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 23 oct. 2019 ([RO 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), le ch. II al. 1 des O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) et du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-4]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 23 oct. 2019 ([RO 2019 3479](https://fedlex.data.admin.ch/eli/oc/2019/635)), le ch. II al. 1 des O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) et du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) et le ch. II de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Définition des installations
 
@@ -3510,7 +3644,7 @@ Annexe 1.4[^t-4]
 
 - 3\.1 Les installations géothermiques doivent présenter le taux d’utilisation global minimal et le taux d’utilisation de l’électricité minimal indiqués dans le graphique suivant au plus tard à compter du début de la troisième année civile complète suivant la mise en service:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/fr/xml/image/image3.png)
 
 - 3\.2 La période d’évaluation déterminante pour établir le taux d’utilisation global est l’année civile complète; le taux d’utilisation global se rapporte à l’énergie mesurée en une année à la tête de forage.
 - Taux d’utilisation de la chaleur = chaleur utilisée divisée par l’énergie à la tête de forage
@@ -3587,7 +3721,7 @@ Annexe 1.4[^t-4]
 ### 7 Dispositions transitoires
 
 - 7\.1 L’exploitant qui, pour son installation, a reçu une décision positive et a transmis l’avis complet d’avancement du projet selon l’ancien droit avant le 1<sup>er</sup> janvier 2018 bénéficie d’une durée de rétribution de 20 ans.
-- 7\.2 Pour les installations qui ont progressé dans la liste d’attente en raison de l’avis complet d’avancement du projet, conformément à l’art. 3*g*<sup>bis</sup>, al. 4, let. b, ch. 1, de l’ordonnance du 7 décembre 1998 sur l’énergie dans sa version du 2 décembre 2016[^annex14-lvlu1-lvl7-1], l’avis de mise en service doit être transmis le 31 décembre 2029 au plus tard.
+- 7\.2 Pour les installations qui ont progressé dans la liste d’attente en raison de l’avis complet d’avancement du projet, conformément à l’art. 3*g*<sup>bis</sup>, al. 4, let. b, ch. 1, de l’ordonnance du 7 décembre 1998 sur l’énergie dans sa version du 2 décembre 2016[^annex14-lvlu1-lvl7-1], l’avis de mise en service doit être transmis le 31 décembre 2034 au plus tard.
 
 [^annex14-lvlu1-lvl7-1]: [RO 2016 4617](https://fedlex.data.admin.ch/eli/oc/2016/746)ch. I et II
 
@@ -3634,7 +3768,7 @@ Annexe 1.5[^t-5]
 - 2\.2.2 La période d’évaluation pour les exigences énergétiques minimales est l’année civile complète.
 - 2\.2.3 Les cycles vapeur, en particulier les installations ORC (*Organic Rankine Cycle*), les turbines à vapeur et les moteurs à vapeur, doivent présenter un taux d’utilisation énergétique global minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/fr/xml/image/image4.png)
 
 - Le calcul du taux d’utilisation énergétique global se rapporte au pouvoir calorifique inférieur H<sub>u</sub> du combustible introduit.
 - Calcul:
@@ -3647,7 +3781,7 @@ Annexe 1.5[^t-5]
   - a. Taux d’efficacité électrique:
   - Le module CCF doit atteindre un taux d’efficacité électrique minimal correspondant au graphique suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20250910/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260101/fr/xml/image/image5.png)
 
 - b.
 
@@ -3804,11 +3938,11 @@ Annexe 1.5[^t-5]
 
 Annexe 2.1[^t-6]
 
-(art. 7, 38, 41 à 43, 45, 46*d,* 46*i* et 46*l*)
+(art. 7, 35, 38, 41 à 43, 45, 46*d,* 46*i* et 46*l*)
 
 ## Rétribution unique allouée pour les installations photovoltaïques
 
-[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), du 29 nov. 2023 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) et le ch. II al. 1 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), l’erratum du 23 janv. 2025 ([RO 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)) et le ch. II de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
+[^t-6]: Mise à jour par le ch. II des O du 27 fév. 2019 ([RO 2019 923](https://fedlex.data.admin.ch/eli/oc/2019/165)), du 25 nov. 2020 ([RO 2020 6129](https://fedlex.data.admin.ch/eli/oc/2020/1013)), du 24 nov. 2021 ([RO 2021 820](https://fedlex.data.admin.ch/eli/oc/2021/820)), le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. II des O du 17 mars 2023 ([RO 2023 144](https://fedlex.data.admin.ch/eli/oc/2023/144)), du 29 nov. 2023 ([RO 2023 764](https://fedlex.data.admin.ch/eli/oc/2023/764)) et le ch. II al. 1 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)), l’erratum du 23 janv. 2025 ([RO 2025 57](https://fedlex.data.admin.ch/eli/oc/2025/57)) et le ch. II des O du 21 mai 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Définition des installations
 
@@ -3864,7 +3998,13 @@ Annexe 2.1[^t-6]
 - 2\.7 Bonus
 - 2\.7.1 Le bonus pour les installations intégrées présentant un angle d’inclinaison d’au moins 75 degrés est de 400 francs par kW.
 - 2\.7.2 Le bonus pour les installations ajoutées ou isolées présentant un angle d’inclinaison d’au moins 75 degrés est de 200 francs par kW.
-- 2\.7.3 Le bonus pour les installations mises en place à une altitude d’au moins 1500 mètres est de 250 francs par kW. La preuve que l’installation n’a pas été ajoutée à un bâtiment ou intégrée dans un bâtiment doit être apportée au moyen de photographies.
+- 2\.7.3
+
+  Le bonus pour l’électricité hivernale se monte à:
+
+  - a. 3,50 francs multipliés par le rendement spécifique moyen d’électricité hivernale supplémentaire des trois premiers semestres d’hiver complets, pour les installations sans consommation propre, par kW;
+  - b. 2,50 francs multipliés par le rendement spécifique moyen d’électricité hivernale supplémentaire des trois premiers semestres d’hiver complets, pour les installations avec consommation propre, par kW.
+
 - 2\.7.4 Le bonus pour les places de stationnement est de 250 francs par kW.
 - 2\.8 Les taux suivants s’appliquent pour les installations intégrées mises en service à partir du 1<sup>er</sup> janvier 2023:
 
@@ -3888,7 +4028,7 @@ Annexe 2.1[^t-6]
 <tr><td></td><td>≥100 kW</td><td>270</td><td>270</td><td>250</td></tr>
 </table>
 
-- 2\.10 Pour les nouvelles installations sans consommation propre d’une puissance inférieure à 150 kW et pour les agrandissements notables d’installations sans consommation propre apportant une puissance supplémentaire inférieure à 150 kW, la contribution liée à la puissance s’élève à 450 francs par kW si l’installation ou l’agrandissement a été mis en service à partir du 1<sup>er</sup> janvier 2023. Aucune contribution de base n’est versée pour les installations sans consommation propre.
+- 2\.10 Pour les nouvelles installations sans consommation propre d’une puissance inférieure à 150 kW et pour les agrandissements notables d’installations sans consommation propre apportant une puissance supplémentaire inférieure à 150 kW, la contribution liée à la puissance pour la rétribution unique élevée s’élève à 450 francs par kW si l’installation ou l’agrandissement a été mis en service à partir du 1<sup>er</sup> janvier 2023. Aucune contribution de base n’est versée pour les installations sans consommation propre.
 
 ### 3 Demande pour les petites installations
 
@@ -3926,7 +4066,8 @@ Annexe 2.1[^t-6]
   - e. production annuelle attendue;
   - f. accord des propriétaires fonciers;
   - g. catégorie de producteur;
-  - h. déclaration selon laquelle l’installation injecte la totalité de l’électricité produite ou sert à la consommation propre au sens de l’art. 16 LEne.
+  - h. déclaration selon laquelle l’installation injecte la totalité de l’électricité produite ou sert à la consommation propre au sens de l’art. 16 LEne;
+  - i. pour les installations faisant l’objet d’une demande de bonus pour l’électricité hivernale: une simulation de la production probable d’électricité de l’installation, prouvant que les conditions d’octroi du bonus seront vraisemblablement remplies.
 
 - 4\.2 Avis de mise en service
 -
@@ -4074,11 +4215,11 @@ Annexe 2.2[^t-7]
 
 Annexe 2.3[^t-8]
 
-(art. 69, 74, 80*a*, 80*b,* 80*d* et 85)
+(art. 30*e*<sup>ter</sup>, 30*e*<sup>quater</sup>, 68, 69, 74, 80*a*, 80*b,* 80*d*, 84 et 85)
 
 ## Contribution d’investissement allouée pour les installations de biomasse
 
-[^t-8]: Nouvelle teneur selon le ch. II al. 2 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-8]: Nouvelle teneur selon le ch. II al. 2 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Mise à jour par le ch. II de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Définition des installations
 
@@ -4588,11 +4729,11 @@ Annexe 3[^t-12]
 
 ## Détermination du coût moyen pondéré du capital
 
-[^t-12]: Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)) et le ch. III de l’O du 12 fév. 2025, en vigueur depuis le 1<sup>er</sup> mars. 2025 ([RO 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)).
+[^t-12]: Mise à jour par le ch. II al. 1 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)), le ch. III de l’O du 12 fév. 2025 ([RO 2025 121](https://fedlex.data.admin.ch/eli/oc/2025/121)) et le ch. II de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Taux d’intérêt calculé
 
-- Le taux d’intérêt calculé correspond au coût moyen pondéré du capital. Sous réserve des dérogations visées au ch. 3, le calcul et la communication de ce taux se fondent sur l’art. 13, al. 3, let. b, et 3<sup>bis</sup>, en relation avec l’annexe 1, de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité (OApEl)[^annex3-lvlu1-lvl1-1].
+- Le taux d’intérêt calculé correspond au coût moyen pondéré du capital. Sous réserve des dérogations visées aux chiffres suivants, le calcul et la communication de ce taux se fondent sur l’art. 13, al. 3, let. b, 3<sup>bis</sup> et 3<sup>ter</sup> de l’ordonnance du 14 mars 2008 sur l’approvisionnement en électricité (OApEl)[^annex3-lvlu1-lvl1-1] en relation avec l’annexe 1 OApEl.
 
 [^annex3-lvlu1-lvl1-1]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
@@ -4600,16 +4741,9 @@ Annexe 3[^t-12]
 
 - Le taux de rendement des fonds propres et le taux de rendement des fonds étrangers sont chacun pondérés à raison de 50 %.
 
-### 2 Dérogation au ch. 2.4 de l’annexe 1 OApEl
+### 2 …
 
--
-
-  Le taux est fixé chaque année avant fin mars et s’applique:
-
-  - a. à l’année en cours pour les contributions d’investissement;
-  - b. à l’année précédente pour la prime de marché.
-
-### 3 Dérogation au ch. 5 de l’annexe 1 OApEl
+### 3 Dérogation au ch. 4 de l’annexe 1 OApEl
 
 - 3\.1 L’effet de levier résulte de la part au capital total, qui se monte respectivement à 50 % pour les fonds propres et à 50 % pour les fonds étrangers.
 - 3\.2 Le *unlevered beta* est déterminé sur la base d’entreprises européennes comparables (peer group) d’approvisionnement en énergie. Le groupe d’entreprises fait chaque année l’objet d’une vérification et, si possible, d’une amélioration. Si les données du marché financier disponibles ne permettent pas de former un groupe d’entreprises pour certaines technologies, le bêta est déterminé sur la base d’une enquête menée auprès de plusieurs spécialistes afin d’évaluer les risques relatifs liés aux investissements dans la technologie concernée.
@@ -4679,7 +4813,7 @@ Annexe 5[^t-14]
 
 ## Contribution aux coûts d’exploitation allouée pour les installations de biomasse
 
-[^t-14]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Mise à jour par le ch. II al. 1 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) et le ch. II de l’O du 21 mai 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)).
+[^t-14]: Introduite par le ch. II al. 3 de l’O du 23 nov. 2022 ([RO 2022 771](https://fedlex.data.admin.ch/eli/oc/2022/771)). Mise à jour par le ch. II al. 1 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)) et le ch. II des O du 21 mai 2025 ([RO 2025 383](https://fedlex.data.admin.ch/eli/oc/2025/383)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Définition des installations
 
@@ -4695,6 +4829,7 @@ Annexe 5[^t-14]
   - b. pour toutes les autres catégories: annexe 1.5, ch. 2.
 
 - 2\.2 Pour les installations qui ne bénéficient plus du financement des frais supplémentaires visé à l’art. 73, al. 4, LEne et font l’objet d’une demande de contribution aux coûts d’exploitation, les exigences énergétiques minimales doivent être satisfaites d’ici au 31 décembre 2027.
+- 2\.3 La période d’évaluation pour les exigences énergétiques minimales dans le cas des centrales électriques à bois est d’une année civile.
 
 ### 3 Taux de contribution
 
@@ -4828,7 +4963,7 @@ Annexe 6.1[^t-15]
 
 ## Prime de marché flottante allouée pour les installations hydroélectriques
 
-[^t-15]: Introduite par le ch. II al. 3 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)).
+[^t-15]: Introduite par le ch. II al. 3 de l’O du 20 nov. 2024 ([RO 2024 708](https://fedlex.data.admin.ch/eli/oc/2024/708)). Mise à jour par le ch. II de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 830](https://fedlex.data.admin.ch/eli/oc/2025/830)).
 
 ### 1 Définition des installations
 
@@ -5000,8 +5135,8 @@ Annexe 6.1[^t-15]
   Pour les installations contrôlables d’une puissance supérieure à 3 MW, la production supplémentaire annuelle correspond:
 
   - a. dans le cas des nouvelles installations: à la production nette de l’installation déterminée avec un logiciel d’optimisation de l’utilisation des centrales, à laquelle s’ajoute la quantité d’énergie pouvant désormais être stockée;
-  - b. dans le cas des agrandissements notables: à la part de la production nette déterminée avec un logiciel d’optimisation de l’utilisation des centrales pour l’installation après l’agrandissement, cette part correspondant au rapport entre les recettes supplémentaires et les recettes totales après l’agrandissement; les recettes supplémentaires correspondent à la différence entre les recettes que l’installation agrandie peut réaliser et celles qu’elle aurait pu enregistrer avant l’agrandissement;
-  - c. dans le cas des rénovations notables: à la part de la production nette déterminée avec un logiciel d’optimisation de l’utilisation des centrales pour l’installation après la rénovation, cette part correspondant au rapport entre les recettes supplémentaires et les recettes totales après la rénovation; les recettes supplémentaires correspondent à la différence entre les recettes que l’installation rénovée peut réaliser et celles qui auraient pu être enregistrées avec les parties non rénovées de l’installation.
+  - b. dans le cas des agrandissements notables: à la part de la production nette déterminée avec un logiciel d’optimisation de l’utilisation des centrales pour l’installation après l’agrandissement, cette part correspondant au rapport entre les recettes supplémentaires et les recettes totales après l’agrandissement; les recettes supplémentaires correspondent à la différence entre les recettes que l’installation agrandie peut réaliser et celles qu’elle aurait pu enregistrer avant l’agrandissement; la quantité d’énergie pouvant désormais être stockée s’ajoute à cette part;
+  - c. dans le cas des rénovations notables: à la part de la production nette déterminée avec un logiciel d’optimisation de l’utilisation des centrales pour l’installation après la rénovation, cette part correspondant au rapport entre les recettes supplémentaires et les recettes totales après la rénovation; les recettes supplémentaires correspondent à la différence entre les recettes que l’installation rénovée peut réaliser et celles qui auraient pu être enregistrées avec les parties non rénovées de l’installation; la quantité d’énergie pouvant être stockée qui a pu être préservée grâce à la rénovation s’ajoute à cette part.
 
 - 4\.3.2.
 
@@ -5284,5 +5419,3 @@ Annexe 6.3[^t-17]
   - g. production brute d’électricité et de chaleur en kWh, par année civile avant et après l’investissement;
   - h. production nette d’électricité et de chaleur ainsi qu’utilisation externe de la chaleur, par année civile avant et après l’investissement;
   - i. date prévue de mise en service.
-
-## Table des matières
