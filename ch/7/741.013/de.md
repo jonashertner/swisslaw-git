@@ -4,11 +4,11 @@ title: "Verordnung vom 28. März 2007 über die Kontrolle des Strassenverkehrs (
 short: SKV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: de
-version: 2023-04-01
+version: 2026-01-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20230401/de/xml/fedlex-data-admin-ch-eli-cc-2007-296-20230401-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-296-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/de"
 
 (Strassenverkehrskontrollverordnung, SKV)
 
-vom 28. März 2007 (Stand am 1. April 2023)
+vom 28. März 2007 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 30 Absatz 4, 55 Absatz 7, 56 Absatz 1, 57 Absatz 3 Buc
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -54,12 +54,12 @@ Es werden folgende Abkürzungen verwendet:
 
 <sup>2</sup> Nutzfahrzeuge sind Sattelschlepper und Anhänger mit einem Gesamtgewicht von mehr als 3,5 t sowie Gesellschaftswagen, Kleinbusse und Lastwagen.
 
-[^2-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^2-4]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^2-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-3]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^2-4]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 [^2-5]: Eingefügt durch Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
-[^2-6]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^2-6]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 3
 
@@ -69,8 +69,8 @@ Es werden folgende Abkürzungen verwendet:
 
 <sup>2</sup> Die Polizei wirkt helfend und verkehrserziehend, verhindert Widerhandlungen, verzeigt Fehlbare und erhebt Ordnungsbussen nach dem Ordnungsbussengesetz vom 24. Juni 1970[^3-2].
 
-[^3-1]: [SR 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^3-2]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [AS 1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: das Ordnungsbussengesetz vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^3-1]: [SR 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
+[^3-2]: [[AS 1972 734](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [AS 1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)Art. 44 Ziff. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744); [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [AS 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)Anhang Ziff. I]. Siehe heute: das Ordnungsbussengesetz vom 18. März 2016 ([SR 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)).
 
 #### Art. 4
 
@@ -108,15 +108,15 @@ Es kann anordnen:[^4-5]
 <sup>7</sup> Das ASTRA regelt im Einvernehmen mit dem BAZG die Einzelheiten der Durchführung verkehrspolizeilicher Kontrollen. Vorbehalten bleiben weitergehende Vereinbarungen der Kantone mit dem Eidgenössischen Finanzdepartement nach Artikel 97 des Zollgesetzes vom 18. März 2005[^4-10].[^4-11]
 
 [^4-1]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^4-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^4-3]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-4]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-5]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-6]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-7]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^4-7]: [SR 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^4-8]: Fassung gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-9]: Eingefügt durch Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-10]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-11]: Eingefügt durch Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 5
@@ -129,7 +129,7 @@ Es kann anordnen:[^4-5]
 
 <sup>3</sup> Die Polizei nimmt nach ihren Möglichkeiten an international organisierten Kontrollen teil.
 
-[^5-1]: [SR 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^5-1]: [SR 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 [^5-2]: Fassung gemäss Ziff. I der V vom 29. Nov. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
 
 #### Art. 6
@@ -184,7 +184,7 @@ Für die Kontrollen mit technischen Hilfsmitteln regelt das ASTRA im Einvernehme
 [^9-1]: Fassung gemäss Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
 [^9-2]: Eingefügt durch Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
 [^9-3]: Ausdruck gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^9-4]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^9-4]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^9-5]: Eingefügt durch Ziff. I der V vom 11. Mai 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
 [^9-6]: Fassung gemäss Ziff. I 2 der V vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ([AS 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
 [^9-7]: Eingefügt durch Ziff. I der V vom 11. Mai 2011 ([AS 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)). Fassung gemäss Ziff. I 2 der V vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ([AS 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
@@ -250,8 +250,8 @@ Massgebend ist der tiefere Wert der beiden Messungen. Dieser kann von der betrof
 <sup>5</sup> Das ASTRA regelt die Handhabung der Testgeräte.
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^11-2]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^11-3]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^11-2]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^11-3]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 11a
 
@@ -266,7 +266,7 @@ Massgebend ist der tiefere Wert der beiden Messungen. Dieser kann von der betrof
 <sup>4</sup> Das ASTRA regelt die Handhabung der Messgeräte.
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^11a-2]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^11a-2]: [SR 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 12
 
@@ -365,7 +365,7 @@ Das ASTRA anerkennt auf Antrag der Laboratorien Personen als Sachverständige, d
 - a. den Facharzttitel Rechtsmedizin, den Titel «Forensischer Toxikologe/Forensische Toxikologin SGRM» der Schweizerischen Gesellschaft für Rechtsmedizin oder einen gleichwertigen ausländischen Fachtitel besitzen; und
 - b. umfassende theoretische Kenntnisse und praktische Erfahrungen in der Interpretation medizinischer und toxikologischer Befunde hinsichtlich ihrer Bedeutung für die Fahrfähigkeit nachweisen.[^16-2]
 
-[^16-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^16-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^16-2]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 17
@@ -399,8 +399,8 @@ Gegenüber Führern und Führerinnen mit diplomatischen oder konsularischen Vorr
 <sup>2</sup> Bei den der ARV 1 unterstehenden Führern und Führerinnen stellen die kantonalen Behörden sicher, dass jährlich mindestens 3 Prozent der Arbeitstage kontrolliert werden; mindestens 30 Prozent dieser Kontrollen müssen im Rahmen von Strassenkontrollen und mindestens 50 Prozent im Rahmen von Betriebskontrollen erfolgen.
 
 [^20-1]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
-[^20-2]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^20-3]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^20-2]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^20-3]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 21
 
@@ -472,8 +472,8 @@ Gegenstand der Kontrollen sind:
 - i. die Aufstellungen über die Arbeits-, Lenk- und Ruhezeiten;
 - j. das Herunterladen von Daten beim digitalen Fahrtschreiber.
 
-[^22-1]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^22-2]: [SR 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^22-1]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^22-2]: [SR 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^22-3]: Fassung gemäss Ziff. I der V vom 12. Okt. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
 
 ## 3. Kapitel: Kontrolle der Fahrzeuge
@@ -513,7 +513,7 @@ Es wird mindestens eines der folgenden Kontrollverfahren durchgeführt:
 
 <sup>5</sup> Die Kontrolle des technischen Zustandes von Nutzfahrzeugen auf der Strasse erfolgt ohne behördliche Ankündigung.
 
-[^24-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^24-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^24-2]: Richtlinie 2000/30/EG des Europäischen Parlaments und des Rates vom 6. Juni 2000 über die technische Unterwegskontrolle von Nutzfahrzeugen, die in der Gemeinschaft am Strassenverkehr teilnehmen (ABl. L 203 vom 10.8.2000, S. 1; zuletzt geändert durch Richtlinie 2003/26/EG, ABl. L 90 vom 8.4.2003, S. 37)
 
 #### Art. 25
@@ -524,8 +524,8 @@ Es wird mindestens eines der folgenden Kontrollverfahren durchgeführt:
 
 <sup>2</sup> Sie kann in Zusammenarbeit mit der Zulassungsbehörde im Verkehr Abgas-Nachkontrollen nach Artikel 36 VTS durchführen.
 
-[^25-1]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^25-2]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^25-1]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^25-2]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 ### 2. Abschnitt: Gefahrgutkontrollen
 
@@ -543,7 +543,7 @@ Es wird mindestens eines der folgenden Kontrollverfahren durchgeführt:
 
 <sup>5</sup> Das ASTRA legt die Form und den Inhalt der Prüfliste und der Bescheinigung fest.
 
-[^26-1]: Richtlinie (EU) 2022/1999 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse (ABl. L 274, vom 24.10.2022, S. 1). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 13. Nov. 2022 angepasst.
+[^26-1]: Richtlinie (EU) 2022/1999 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einheitliche Verfahren für die Kontrolle von Gefahrguttransporten auf der Strasse (ABl. L 274, vom 24.10.2022, S. 1). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 13. Nov. 2022 angepasst.
 
 #### Art. 27
 
@@ -593,8 +593,8 @@ Die Polizei verhindert die Weiterfahrt, wenn der Führer oder die Führerin:
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 [^30-2]: Eingefügt durch Ziff. I der V vom 29. Nov. 2013 ([AS 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)). Fassung gemäss Ziff. I der V vom 1. Juli 2015, in Kraft seit 1. Okt. 2016 ([AS 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^30-3]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^30-4]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^30-3]: [SR 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^30-4]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 31
 
@@ -634,7 +634,9 @@ Die Polizei nimmt den Fahrzeugausweis auf der Stelle ab, wenn:
 
 <sup>2</sup> Der Fahrzeugausweis kann abgenommen werden, wenn das Fahrzeug durch seinen Zustand oder seine Ladung den Verkehr gefährdet oder vermeidbaren Lärm verursacht oder Fahrzeugausweis und Kontrollschilder missbräuchlich verwendet werden.
 
-<sup>3</sup> Mit der Abnahme des Fahrzeugausweises sind auch die Kontrollschilder zu beschlagnahmen und die Weiterfahrt zu verhindern. Das Fahrzeug kann sichergestellt und eine Nachprüfung des Fahrzeugs angeordnet werden.
+<sup>3</sup> Mit der Abnahme des Fahrzeugausweises sind auch die Kontrollschilder zu beschlagnahmen und die Weiterfahrt zu verhindern. Das Fahrzeug kann sichergestellt und eine Nachprüfung des Fahrzeugs angeordnet werden.[^32-1]
+
+[^32-1]: Die Änderungen der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 betreffen nur den französischen und italienischen Text ([AS 2025 644](https://fedlex.data.admin.ch/eli/oc/2025/644)).
 
 #### Art. 33
 
@@ -658,7 +660,7 @@ Die Polizei nimmt den Fahrzeugausweis auf der Stelle ab, wenn:
 
 <sup>3</sup> Die nach Absatz 1 angeordneten Massnahmen sind aufzuheben, wenn sich das beanstandete Fahrzeug wieder in vorschriftsgemässem Zustand befindet. Kann der vorschriftsgemässe Zustand nicht wiederhergestellt werden, so annulliert die kantonale Behörde die Ausweise und vernichtet oder entwertet die Kontrollschilder. Sie sendet die Ausweise an die Zulassungsbehörde unter Hinweis auf die Vernichtung oder Entwertung der Kontrollschilder. Der Halter oder die Halterin kann verlangen, dass ihm oder ihr entwertete Kontrollschilder zurückgegeben werden oder die Vernichtung bestätigt wird.
 
-[^34-1]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^34-1]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 35
 
@@ -678,7 +680,7 @@ Die Polizei nimmt den Fahrzeugausweis auf der Stelle ab, wenn:
 
 Die Polizei meldet Verzeigungen wegen Widerhandlungen gegen Strassenverkehrsvorschriften der für den Strassenverkehr zuständigen Behörde des Kantons, in dem der Täter oder die Täterin wohnt. Keine Meldung ist zu erstatten, wenn die Verzeigung gestützt auf Artikel 6 Absatz 4 des Ordnungsbussengesetzes vom 18. März 2016[^36-1] erfolgt.[^36-2]
 
-[^36-1]: [SR 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^36-1]: [SR 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^36-2]: Fassung des zweiten Satzes gemäss Anhang 3 Ziff. 1 der Ordnungsbussenverordnung vom 16. Jan. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 37
@@ -751,7 +753,7 @@ Die Kantone melden dem ASTRA jährlich:
 
 <sup>2</sup> Das ASTRA regelt die Form der Meldungen und das Meldeverfahren.
 
-[^44-1]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^44-1]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 45
 
@@ -877,7 +879,7 @@ Mit Busse wird bestraft, wer:
 
 In Abweichung von Artikel 20 müssen in den Jahren 2008 und 2009 jährlich lediglich 2 Prozent der Arbeitstage der der ARV 1[^50-1] unterstehenden Fahrzeugführer und ‑führerinnen kontrolliert werden.
 
-[^50-1]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^50-1]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 50a
 

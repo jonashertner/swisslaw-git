@@ -4,11 +4,11 @@ title: Ordinanza del 28 marzo 2007 sul controllo della circolazione stradale (OC
 short: OCCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: it
-version: 2023-04-01
+version: 2026-01-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20230401/it/xml/fedlex-data-admin-ch-eli-cc-2007-296-20230401-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2007-296-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/it"
 
 (OCCS)
 
-del 28 marzo 2007 (Stato 1° aprile 2023)
+del 28 marzo 2007 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 30 capoverso 4*,* 55 capoverso 7, 56 capoverso 1, 57 capovers
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -54,12 +54,12 @@ Sono utilizzate le seguenti abbreviazioni:
 
 <sup>2</sup> Sono veicoli utilitari i trattori a sella e i rimorchi con un peso totale superiore a 3,5 t nonché gli autobus, i furgoncini e gli autocarri.
 
-[^2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^2-4]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^2-5]: Introdotta dal n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
-[^2-6]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^2-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-3]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^2-4]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^2-5]: Introdotta dalla cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
+[^2-6]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 3
 
@@ -69,8 +69,8 @@ Sono utilizzate le seguenti abbreviazioni:
 
 <sup>2</sup> La polizia agisce aiutando ed educando gli utenti della strada, impedisce che siano commesse infrazioni, denuncia i contravventori e infligge multe disciplinari conformemente alla legge federale del 24 giugno 1970[^3-2] concernente le multe disciplinari.
 
-[^3-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^3-2]: [[RU 1972 666](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666), [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075), [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 n. 4, [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744). [RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)all. n. I]. Vedi ora la LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^3-1]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
+[^3-2]: [[RU 1972 666](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 n. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744). [RU 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)all. cifra I]. Vedi ora la LF del 18 mar. 2016, in vigore dal 1° gen. 2020 ([RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)).
 
 #### Art. 4
 
@@ -108,15 +108,15 @@ Può ordinare:[^4-5]
 <sup>7</sup> L’USTRA disciplina, d’intesa con l’UDSC, i particolari dell’esecuzione dei controlli in materia di polizia stradale. Sono fatti salvi accordi più particolareggiati stipulati dai Cantoni con il Dipartimento federale delle finanze conformemente all’articolo 97 della legge del 18 marzo 2005[^4-10] sulle dogane.[^4-11]
 
 [^4-1]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-3]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-4]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-5]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-6]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-7]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^4-7]: [RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^4-8]: Nuovo testo giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-9]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-10]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-11]: Introdotto dall’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 5
@@ -129,8 +129,8 @@ Può ordinare:[^4-5]
 
 <sup>3</sup> Nel limite delle proprie possibilità, la polizia partecipa ai controlli organizzati a livello internazionale.
 
-[^5-1]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
-[^5-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+[^5-1]: [RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
+[^5-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
 
 #### Art. 6
 
@@ -148,7 +148,7 @@ La polizia può deviare dal loro itinerario i veicoli a motore e i rimorchi per 
 
 [^8-1]
 
-[^8-1]: Abrogato dal n. I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+[^8-1]: Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
 
 #### Art. 9
 
@@ -181,12 +181,12 @@ Per i controlli mediante ausili tecnici, l’USTRA disciplina, d’intesa con l�
 
 <sup>4</sup> Per sperimentare nuovi ausili tecnici, l’USTRA può rilasciare un permesso d’esercizio temporaneo basato su un rapporto di prova dell’Istituto federale di metrologia e può definire i margini tecnici di tolleranza conformi allo stato della tecnica.[^9-6]
 
-[^9-1]: Introdotta dal n. I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
-[^9-2]: Nuova espr. giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^9-3]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^9-4]: Introdotto dal n. I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
-[^9-5]: Nuovo testo giusta il n. I 2 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
-[^9-6]: Introdotto dal n. I dell’O dell’11 mag. 2011 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)). Nuovo testo giusta il n. I 2 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
+[^9-1]: Introdotta dalla cifra I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
+[^9-2]: Nuova espr. giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^9-3]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
+[^9-4]: Introdotto dalla cifra I dell’O dell’11 mag. 2011, in vigore dal 1° gen. 2012 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
+[^9-5]: Nuovo testo giusta la cifra I n. 2 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
+[^9-6]: Introdotto dalla cifra I dell’O dell’11 mag. 2011 ([RU 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)). Nuovo testo giusta la cifra I n. 2 dell’O del 7 dic. 2012 (nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
 
 ## Capitolo 2: Controllo dei conducenti di veicoli
 
@@ -206,7 +206,7 @@ Per i controlli mediante ausili tecnici, l’USTRA disciplina, d’intesa con l�
 
 <sup>5</sup> Se il test preliminare relativo al consumo di alcol risulta positivo oppure nel caso in cui la polizia non abbia impiegato uno strumento per test preliminari, viene eseguito un accertamento etilometrico.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 10a
 
@@ -221,7 +221,7 @@ L’accertamento etilometrico può essere effettuato utilizzando:
 
 <sup>2</sup> Se una misurazione è effettuata mediante etilometro precursore, determinati valori possono essere riconosciuti tramite apposizione della firma (art. 11 cpv. 3).
 
-[^10a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 11
 
@@ -248,9 +248,9 @@ Fa fede il valore più basso delle due misurazioni. La persona interessata può 
 
 <sup>5</sup> L’USTRA disciplina l’uso degli etilometri precursori.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^11-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^11-3]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^11-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^11-3]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 11a
 
@@ -264,8 +264,8 @@ Fa fede il valore più basso delle due misurazioni. La persona interessata può 
 
 <sup>4</sup> L’USTRA disciplina l’uso degli etilometri probatori.
 
-[^11a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^11a-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^11a-1]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^11a-2]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 12
 
@@ -288,7 +288,7 @@ L’esame del sangue per rilevare la presenza di alcol deve essere disposto se:
 
 <sup>2</sup> L’esame del sangue può essere disposto se vi sono indizi di inabilità alla guida e non è possibile eseguire un accertamento etilometrico o se quest’ultimo non è idoneo ad accertare l’infrazione.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 12a
 
@@ -296,7 +296,7 @@ L’esame del sangue per rilevare la presenza di alcol deve essere disposto se:
 
 L’esame del sangue deve essere disposto se vi sono indizi di inabilità alla guida non attribuibili o non unicamente attribuibili all’influsso dell’alcol. È possibile disporre anche un prelievo delle urine.
 
-[^12a-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^12a-1]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 12b
 
@@ -304,7 +304,7 @@ L’esame del sangue deve essere disposto se vi sono indizi di inabilità alla g
 
 Se non è possibile stabilire chi, tra le persone coinvolte, conduceva il veicolo, possono essere sottoposte agli accertamenti di cui agli articoli 10–12*a* tutte le persone da non escludere a tal fine.
 
-[^12b-1]: Introdotto dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^12b-1]: Introdotto dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 13
 
@@ -322,9 +322,9 @@ La polizia deve informare la persona interessata in particolare sul fatto che:
 
 <sup>3</sup> L’accertamento etilometrico, il prelievo delle urine, gli accertamenti della polizia, il riconoscimento dei risultati delle misurazioni etilometriche e l’ordine di prelievo del sangue e delle urine o la conferma di tale ordine devono essere registrati in un rapporto. L’USTRA stabilisce i requisiti minimi riguardanti la forma e il contenuto del rapporto.[^13-3]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 14
 
@@ -364,8 +364,8 @@ Su proposta dei laboratori, l’USTRA riconosce la qualità di perito a persone 
 - a. possiedono il titolo di medico specialista in medicina legale, il titolo di «Tossicologo/a forense SSLM» rilasciato dalla Società svizzera di medicina legale o un titolo di specializzazione estero equivalente; e
 - b. possiedono ampie conoscenze teoriche ed esperienza pratica nell’interpretazione di reperti medici e tossicologici riguardo alla loro incidenza sull’abilità alla guida.[^16-2]
 
-[^16-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^16-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^16-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^16-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 17
 
@@ -373,8 +373,8 @@ Su proposta dei laboratori, l’USTRA riconosce la qualità di perito a persone 
 
 È possibile stabilire l’ebrietà o l’influsso di una sostanza diversa dall’alcol sulla ridotta abilità alla guida in base allo stato e al comportamento della persona sospetta o mediante l’accertamento relativo al consumo, in particolare se non è stato possibile effettuare l’accertamento etilometrico[^17-2], l’analisi preliminare per rilevare tracce di stupefacenti o di medicamenti né il prelievo del sangue.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
-[^17-2]: Nuova espr. giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+[^17-2]: Nuova espr. giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 18
 
@@ -398,9 +398,9 @@ I conducenti al beneficio di privilegi e immunità diplomatici o consolari non p
 
 <sup>2</sup> Nei confronti dei conducenti che sottostanno all’OLR 1, le autorità cantonali provvedono affinché ogni anno siano effettuati controlli durante il 3 per cento almeno dei giorni lavorativi, almeno il 30 per cento dei quali da effettuarsi nel quadro di controlli stradali e almeno il 50 per cento nel quadro di controlli nell’azienda.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
-[^20-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^20-3]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
+[^20-2]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^20-3]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 21
 
@@ -435,9 +435,9 @@ Per individuare precocemente abusi e manipolazioni del tachigrafo, la polizia pu
 
 <sup>3</sup> I dati trasmessi mediante collegamento radio devono essere distrutti dalla Polizia al più tardi entro tre ore dalla trasmissione, a meno che non facciano presumere una manipolazione o un abuso del tachigrafo. Se nel corso del controllo stradale tale sospetto non è confermato, i dati trasmessi vanno distrutti.[^21-3]
 
-[^21-1]: Nuovo testo gisuta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
-[^21-2]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
-[^21-3]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+[^21-1]: Nuovo testo gisuta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+[^21-2]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+[^21-3]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
 
 #### Art. 22
 
@@ -473,10 +473,10 @@ Sono oggetto dei controlli:
 - i. i riepiloghi del tempo di lavoro, di guida e di riposo;
 - j.[^22-4] lo scaricamento di dati da tachigrafi digitali.
 
-[^22-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^22-2]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^22-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
-[^22-4]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
+[^22-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^22-2]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
+[^22-4]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 239](https://fedlex.data.admin.ch/eli/oc/2019/40)).
 
 ## Capitolo 3: Controllo dei veicoli
 
@@ -502,9 +502,9 @@ Le autorità cantonali provvedono affinché lo stato tecnico dei veicoli sia deb
   esame dei documenti attestanti:
 
   - 1\. un recente controllo dello stato tecnico (cpv. 4),
-  - 2\. l’ultimo esame periodico giusta l’articolo 33 OETV[^24-1] o la legislazione straniera;
+  - 2\.[^24-1] l’ultimo esame periodico giusta l’articolo 33 OETV[^24-2] o la legislazione estera;
 
-- c. ispezione tecnica intesa a rilevare difetti di manutenzione, effettuata su uno, più o tutti i punti di controllo enumerati dall’allegato I numero 10 della direttiva 2000/30/CE[^24-2];
+- c. ispezione tecnica intesa a rilevare difetti di manutenzione, effettuata su uno, più o tutti i punti di controllo enumerati dall’allegato I numero 10 della direttiva 2000/30/CE[^24-3];
 - d. esame successivo giusta l’articolo 33 capoverso 1bis OETV, se i difetti di manutenzione, in particolare i difetti dei dispositivi di frenatura, possono costituire un rischio per la sicurezza.
 
 <sup>2</sup> I dispositivi di frenatura e le emissioni di gas di scarico devono essere verificati conformemente alle disposizioni dell’allegato II della direttiva 2000/30/CE.
@@ -515,8 +515,9 @@ Le autorità cantonali provvedono affinché lo stato tecnico dei veicoli sia deb
 
 <sup>5</sup> I controlli su strada dello stato tecnico dei veicoli utilitari sono effettuati senza preavviso.
 
-[^24-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^24-2]: Direttiva 2000/30/CE del Parlamento europeo e del Consiglio, del 6 giu. 2000, relativa ai controlli tecnici su strada dei veicoli commerciali circolanti nella Comunità (GU L 203 del 10.8.2000, pag. 1; modificata l’ultima volta dalla direttiva 2003/26/CE, GU L 90 dell’8.4.2003, pag. 37)
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 644](https://fedlex.data.admin.ch/eli/oc/2025/644), [686](https://fedlex.data.admin.ch/eli/oc/2025/686)).
+[^24-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^24-3]: Direttiva 2000/30/CE del Parlamento europeo e del Consiglio, del 6 giu. 2000, relativa ai controlli tecnici su strada dei veicoli commerciali circolanti nella Comunità (GU L 203 del 10.8.2000, pag. 1; modificata l’ultima volta dalla direttiva 2003/26/CE, GU L 90 dell’8.4.2003, pag. 37)
 
 #### Art. 25
 
@@ -526,8 +527,8 @@ Le autorità cantonali provvedono affinché lo stato tecnico dei veicoli sia deb
 
 <sup>2</sup> Nel traffico essa può effettuare controlli successivi dei gas di scarico giusta l’articolo 36 OETV in collaborazione con l’autorità d’immatricolazione.
 
-[^25-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^25-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^25-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 ### Sezione 2: Controllo delle merci pericolose
 
@@ -545,7 +546,7 @@ Le autorità cantonali provvedono affinché lo stato tecnico dei veicoli sia deb
 
 <sup>5</sup> L’USTRA determina la forma e il contenuto della lista di controllo e del certificato di controllo.
 
-[^26-1]: Direttiva (UE) 2022/1999 del Parlamento europeo e del Consiglio del 19 ottobre 2022 relativa a procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (GU L 274 del 24.10.2022, pag. 1). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 13 nov. 2022.
+[^26-1]: Direttiva (UE) 2022/1999 del Parlamento europeo e del Consiglio del 19 ottobre 2022 relativa a procedure uniformi in materia di controllo dei trasporti su strada di merci pericolose (GU L 274 del 24.10.2022, pag. 1). Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 13 nov. 2022.
 
 #### Art. 27
 
@@ -593,10 +594,10 @@ La polizia vieta al conducente di continuare la corsa se:
 - e. non osserva la limitazione, iscritta nella licenza di condurre, relativa all’uso di veicoli adattati alla menomazione o alla statura;
 - f. conduce un veicolo che può circolare senza licenza di circolazione e senza targhe giusta l’articolo 72 OAC[^30-4], se è dato uno dei motivi di cui all’articolo 32.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^30-2]: Introdotta dal n. I dell’O del 29 nov. 2013 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)). Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^30-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^30-4]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^30-2]: Introdotta dalla cifra I dell’O del 29 nov. 2013 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)). Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^30-3]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^30-4]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 31
 
@@ -621,8 +622,8 @@ La licenza per allievo conducente o la licenza di condurre può essere sequestra
 
 <sup>3</sup> Il sequestro della licenza per allievo conducente o della licenza di condurre per una determinata categoria, sottocategoria o categoria speciale comporta il sequestro della licenza per allievo conducente o della licenza di condurre per tutte le categorie, sottocategorie e categorie speciali, fino alla restituzione della licenza o fino a quando l’autorità di revoca ha emanato la sua decisione.
 
-[^31-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^31-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 32
 
@@ -637,7 +638,9 @@ La polizia sequestra sul posto la licenza di circolazione se:
 
 <sup>2</sup> La licenza di circolazione può essere sequestrata se il veicolo, considerato lo stato o il carico, costituisce un pericolo per la circolazione o cagiona rumore evitabile oppure se la licenza di circolazione e le targhe sono usate abusivamente.
 
-<sup>3</sup> Il sequestro della licenza di circolazione comporta anche il sequestro delle targhe e il divieto di continuare la corsa. Il veicolo può essere sequestrato e sottoposto a un esame suppletivo.
+<sup>3</sup> Il sequestro della licenza di circolazione comporta anche il sequestro delle targhe e il divieto di continuare la corsa. Il veicolo può essere sequestrato e sottoposto a controllo.[^32-1]
+
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 644](https://fedlex.data.admin.ch/eli/oc/2025/644)).
 
 #### Art. 33
 
@@ -649,7 +652,7 @@ La polizia sequestra sul posto la licenza di circolazione se:
 
 <sup>3</sup> Se i motivi che hanno originato il sequestro della licenza oppure il divieto di continuare la corsa cessano di esistere, la licenza e le targhe devono essere restituite e il veicolo deve essere riconsegnato per l’ulteriore uso.
 
-[^33-1]: Nuovo testo giusta il n. I dell’O del 22 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2022 406](https://fedlex.data.admin.ch/eli/oc/2022/406)).
+[^33-1]: Nuovo testo giusta la cifra I dell’O del 22 giu. 2022, in vigore dal 1° apr. 2023 ([RU 2022 406](https://fedlex.data.admin.ch/eli/oc/2022/406)).
 
 #### Art. 34
 
@@ -661,7 +664,7 @@ La polizia sequestra sul posto la licenza di circolazione se:
 
 <sup>3</sup> Le misure ordinate giusta il capoverso 1 devono essere annullate se il veicolo contestato è rimesso in uno stato conforme alle prescrizioni. Se non può essere ripristinato lo stato conforme alle prescrizioni, l’autorità cantonale annulla la licenza e distrugge o oblitera le targhe. Restituisce le licenze all’autorità d’immatricolazione annunciandole che le targhe sono state distrutte o obliterate. Il detentore può esigere la restituzione delle targhe obliterate o la conferma che sono state distrutte.
 
-[^34-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^34-1]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 35
 
@@ -673,7 +676,7 @@ La polizia sequestra sul posto la licenza di circolazione se:
 
 <sup>3</sup> La polizia vieta al conducente di proseguire la corsa se egli stesso o il veicolo si trovano in uno stato tale da mettere in grave pericolo la circolazione.[^35-1]
 
-[^35-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 ### Sezione 3: Notifiche degli organi di polizia
 
@@ -683,7 +686,7 @@ La polizia sequestra sul posto la licenza di circolazione se:
 
 La polizia notifica all’autorità competente in materia di circolazione stradale del Cantone di domicilio del contravventore le denunce per infrazioni alle norme della circolazione stradale. Non deve essere fatta nessuna notifica se la denuncia si basa sull’articolo 6 capoverso 4 della legge del 18 marzo 2016[^36-1] sulle multe disciplinari.[^36-2]
 
-[^36-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^36-1]: [RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^36-2]: Nuovo testo del per. giusta l’all. 3 n. 1 dell’O del 16 gen. 2019 concernente le multe disciplinari, in vigore dal 1° gen. 2020 ([RU 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 37
@@ -756,7 +759,7 @@ I Cantoni notificano ogni anno all’USTRA:
 
 <sup>2</sup> L’USTRA disciplina la forma delle notifiche e la relativa procedura.
 
-[^44-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^44-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 45
 
@@ -788,7 +791,7 @@ L’USTRA trasmette:
 
 - b.[^46-1] al «Forum internazionale dei trasporti» (International Transport Forum, ITF) dell’Organizzazione per la cooperazione e lo sviluppo economico (OCSE), ogni due anni, un rapporto sui controlli relativi ai periodi di lavoro, di guida e di riposo.
 
-[^46-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
 
 ### Sezione 3: Trattamento dei dati
 
@@ -809,7 +812,7 @@ La banca dati serve:
 
 <sup>4</sup> L’USTRA emana le necessarie istruzioni tecnico-amministrative, segnatamente il regolamento per il trattamento.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
 
 #### Art. 48
 
@@ -882,13 +885,13 @@ La banca dati contiene:
 
 In deroga all’articolo 20, negli anni 2008 e 2009 devono essere effettuati controlli soltanto nel 2 per cento dei giorni lavorativi annui dei conducenti assoggettati all’OLR 1[^50-1].
 
-[^50-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^50-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 50a
 
 [^50a-1]
 
-[^50a-1]: Introdotto dal n. I 1 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2) ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Abrogato dal n. I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
+[^50a-1]: Introdotto dalla cifra I n. 1 dell’O del 4 nov. 2009 (prima fase della Riforma delle ferrovie 2) ([RU 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)). Abrogato dalla cifra I dell’O del 1° lug. 2015, in vigore dal 1° ott. 2016 ([RU 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 51
 

@@ -4,11 +4,11 @@ title: Ordonnance du 28 mars 2007 sur le contrôle de la circulation routière (
 short: OCCR
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/296"
 language: fr
-version: 2023-04-01
+version: 2026-01-01
 adopted: 2007-03-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20230401/fr/xml/fedlex-data-admin-ch-eli-cc-2007-296-20230401-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/296/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-296-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/296/20230401/fr"
 
 (OCCR)
 
-du 28 mars 2007 (État le 1<sup>er</sup> avril 2023)
+du 28 mars 2007 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 30, al. 4, 55, al. 7, 56, al. 1, 57, al. 3, let. b, 103 et 106, al. 
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 ## Chapitre 1 Dispositions générales
 
@@ -54,12 +54,12 @@ Les abréviations suivantes sont utilisées dans la présente ordonnance:
 
 <sup>2</sup> Par véhicules utilitaires, on entend les tracteurs à sellette et les remorques d’un poids total supérieur à 3,5 t ainsi que les autocars, minibus et camions.
 
-[^2-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^2-4]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^2-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-3]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^2-4]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 [^2-5]: Introduite par le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
-[^2-6]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^2-6]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 3
 
@@ -69,8 +69,8 @@ Les abréviations suivantes sont utilisées dans la présente ordonnance:
 
 <sup>2</sup> La police agit de manière à aider et à sensibiliser les usagers de la route, empêche les conducteurs de commettre des infractions, dénonce les contrevenants et inflige des amendes d’ordre conformément à la loi fédérale du 24 juin 1970 sur les amendes d’ordre[^3-2].
 
-[^3-1]: [RS 510.710](https://fedlex.data.admin.ch/eli/cc/2004/108)
-[^3-2]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)).
+[^3-1]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
+[^3-2]: [[RO 1972 742](https://fedlex.data.admin.ch/eli/oc/1972/734_742_666); [1996 1075](https://fedlex.data.admin.ch/eli/oc/1996/1075_1075_1075); [2006 3545](https://fedlex.data.admin.ch/eli/oc/2006/551)art. 44 ch. 4; [2012 6291](https://fedlex.data.admin.ch/eli/oc/2012/744)ch. II; [2013 4669](https://fedlex.data.admin.ch/eli/oc/2013/821). [RO 2017 6559](https://fedlex.data.admin.ch/eli/oc/2017/725)annexe ch. I]. Voir actuellement la L du 18 mars 2016 ([RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)).
 
 #### Art. 4
 
@@ -108,15 +108,15 @@ Il est en droit d’ordonner:[^4-5]
 <sup>7</sup> L’OFROU règle, en accord avec l’OFDF, les modalités de l’exécution des contrôles de police routière. Les conventions allant plus loin et conclues par les cantons avec le Département fédéral des finances en vertu de l’art. 97 de la loi du 18 mars 2005 sur les douanes[^4-10] sont réservées.[^4-11]
 
 [^4-1]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^4-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 [^4-3]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-4]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-5]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-6]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-7]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^4-7]: [RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^4-8]: Nouvelle teneur selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 [^4-9]: Introduit par l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
-[^4-10]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-10]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^4-11]: Introduit par l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 5
@@ -129,7 +129,7 @@ Il est en droit d’ordonner:[^4-5]
 
 <sup>3</sup> Dans la mesure de ses moyens, la police prend part aux contrôles organisés à l’échelon international.
 
-[^5-1]: [RS 740.1](https://fedlex.data.admin.ch/eli/cc/2009/727)
+[^5-1]: [RS 740.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8603)
 [^5-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)).
 
 #### Art. 6
@@ -179,13 +179,13 @@ Pour les contrôles effectués à l’aide de moyens techniques, l’OFROU fixe,
 
 <sup>3</sup> L’OFROU fixe les exigences posées au personnel chargé des contrôles et de l’évaluation.
 
-<sup>4</sup> Pour l’expérimentation de nouveaux outils techniques, l’OFROU peut délivrer un permis d’exploitation temporaire basé sur un rapport d’essai de l’Institut fédéral de métrologie et définir les marges de sécurité en fonction de la technique.[^9-5]
+<sup>4</sup> Pour l’expérimentation de nouveaux outils techniques, l’OFROU peut délivrer un permis d’exploitation temporaire basé sur un rapport d’examen de l’Institut fédéral de métrologie et définir les marges de sécurité en fonction de la technique.[^9-5]
 
 [^9-1]: Introduite par le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
-[^9-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^9-2]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 [^9-3]: Introduit par le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)).
 [^9-4]: Nouvelle teneur selon le ch. I 2 de l’O du 7 déc. 2012 (Nouvelles bases légales en métrologie), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
-[^9-5]: Introduit par le ch. I de l’O du 11 mai 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)). Nouvelle teneur selon le ch. I 2 de l’O du 7 déc. 2012 (Nouvelles bases légales en métrologie), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7065](https://fedlex.data.admin.ch/eli/oc/2012/857)).
+[^9-5]: Introduit par le ch. I de l’O du 11 mai 2011 ([RO 2011 2355](https://fedlex.data.admin.ch/eli/oc/2011/334)). Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 644](https://fedlex.data.admin.ch/eli/oc/2025/644)).
 
 ## Chapitre 2 Contrôle des conducteurs
 
@@ -248,8 +248,8 @@ Le résultat inférieur des deux mesures est déterminant. La personne concerné
 <sup>5</sup> L’OFROU règle le maniement des éthylotests.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^11-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^11-3]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^11-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^11-3]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 11a
 
@@ -264,7 +264,7 @@ Le résultat inférieur des deux mesures est déterminant. La personne concerné
 <sup>4</sup> L’OFROU règle le maniement des éthylomètres.
 
 [^11a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^11a-2]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^11a-2]: [RS 941.210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11180)
 
 #### Art. 12
 
@@ -362,7 +362,7 @@ Sur proposition des laboratoires, l’OFROU reconnaît la qualité d’expert au
 - a. possèdent le titre de spécialiste en médecine légale, le titre de «toxicologue forensique SSML» de la Société suisse de médecine légale ou un titre de spécialisation étranger équivalent, et
 - b. justifient de connaissances théoriques et pratiques exhaustives dans l’interprétation de résultats médicaux et toxicologiques quant à leur influence sur la capacité de conduire.[^16-2]
 
-[^16-1]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^16-1]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 [^16-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 
 #### Art. 17
@@ -396,8 +396,8 @@ Les conducteurs bénéficiant de privilèges ou d’immunités diplomatiques ou 
 <sup>2</sup> Pour les conducteurs soumis à l’OTR 1, les autorités cantonales veillent à ce que, chaque année, des contrôles soient effectués sur au moins 3 % des jours de travail; au moins 30 % de ces contrôles doivent s’effectuer dans le cadre de contrôles routiers et au moins 50 % lors de contrôles d’entreprise.
 
 [^20-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
-[^20-2]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^20-3]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^20-2]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^20-3]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 
 #### Art. 21
 
@@ -469,8 +469,8 @@ Les contrôles portent sur les éléments suivants:
 - i. le récapitulatif des périodes de travail, de conduite et de repos;
 - j. le téléchargement des données du tachygraphe numérique.
 
-[^22-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^22-2]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^22-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^22-2]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^22-3]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4929](https://fedlex.data.admin.ch/eli/oc/2011/711)).
 
 ## Chapitre 3 Contrôle des véhicules
@@ -510,7 +510,7 @@ Au moins une des procédures de contrôle suivantes doit être effectuée:
 
 <sup>5</sup> Les contrôles routiers de l’état technique des véhicules utilitaires ne sont pas annoncés par l’autorité compétente.
 
-[^24-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^24-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^24-2]: Directive 2000/30/CE du Parlement européen et du Conseil du 6 juin 2000 relative au contrôle technique routier des véhicules utilitaires circulant dans la Communauté (JO L 203 du 10.8.2000, p. 1; modifiée en dernier lieu par la directive 2003/26/CE, JO L 90 du 8.4.2003, p. 37)
 
 #### Art. 25
@@ -521,8 +521,8 @@ Au moins une des procédures de contrôle suivantes doit être effectuée:
 
 <sup>2</sup> Elle peut effectuer des contrôles subséquents des gaz d’échappement selon l’art. 36 OETV sur la route et en collaboration avec l’autorité d’immatriculation.
 
-[^25-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^25-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^25-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^25-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 ### Section 2 Contrôle des marchandises dangereuses
 
@@ -540,7 +540,7 @@ Au moins une des procédures de contrôle suivantes doit être effectuée:
 
 <sup>5</sup> L’OFROU définit la forme et le contenu de la liste de contrôle et de l’attestation.
 
-[^26-1]: Directive (UE) 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (JO L 274 du 24.10.2022, p. 1). Le renvoi a été adapté au 13 nov. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^26-1]: Directive (UE) 2022/1999 du Parlement européen et du Conseil du 19 octobre 2022 concernant des procédures uniformes en matière de contrôle des transports de marchandises dangereuses par route (JO L 274 du 24.10.2022, p. 1). Le renvoi a été adapté au 13 nov. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 27
 
@@ -590,8 +590,8 @@ La police empêche le conducteur de reprendre la route:
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
 [^30-2]: Introduite par le ch. I de l’O du 29 nov. 2013 ([RO 2013 4671](https://fedlex.data.admin.ch/eli/oc/2013/822)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2016 ([RO 2015 2585](https://fedlex.data.admin.ch/eli/oc/2015/490)).
-[^30-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^30-4]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^30-3]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^30-4]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 #### Art. 31
 
@@ -631,7 +631,9 @@ La police saisit le permis de circulation sur-le-champ:
 
 <sup>2</sup> Le permis de circulation peut être saisi si le véhicule, en raison de son état ou de son chargement, présente un danger pour la circulation ou cause du bruit qui pourrait être évité ou si le permis de circulation et les plaques sont utilisés abusivement.
 
-<sup>3</sup> La saisie du permis de circulation entraîne aussi celle des plaques et l’interdiction de reprendre la route. Le véhicule peut être saisi et soumis à un contrôle.
+<sup>3</sup> La saisie du permis de circulation entraîne aussi celle des plaques et l’interdiction de reprendre la route. Le véhicule peut être saisi et soumis à un contrôle subséquent*.*[^32-1]
+
+[^32-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 644](https://fedlex.data.admin.ch/eli/oc/2025/644)).
 
 #### Art. 33
 
@@ -655,7 +657,7 @@ La police saisit le permis de circulation sur-le-champ:
 
 <sup>3</sup> Les mesures ordonnées selon l’al. 1 doivent être annulées lorsque le véhicule incriminé se trouve de nouveau dans l’état réglementaire. S’il n’est pas possible de rétablir celui-ci, l’autorité cantonale annule les permis et détruit ou rend caduques les plaques. Elle envoie les permis à l’autorité d’immatriculation en lui annonçant que les plaques ont été détruites ou rendues caduques. Le détenteur peut exiger la restitution des plaques devenues caduques ou une preuve de leur destruction.
 
-[^34-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^34-1]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 35
 
@@ -675,7 +677,7 @@ La police saisit le permis de circulation sur-le-champ:
 
 La police communique à l’autorité compétente dans le domaine de la circulation routière du canton de domicile de l’auteur les dénonciations pour cause d’infraction à des prescriptions en la matière. Il n’y a pas lieu de communiquer les dénonciations effectuées en vertu de l’art. 6, al. 4, de la loi du 18 mars 2016 sur les amendes d’ordre[^36-1].[^36-2]
 
-[^36-1]: [RS 314.1](https://fedlex.data.admin.ch/eli/cc/2017/725)
+[^36-1]: [RS 314.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6238)
 [^36-2]: Nouvelle teneur de la phrase selon l’annexe 3 ch. 1 de l’O du 16 janv. 2019 sur les amendes d’ordre, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 529](https://fedlex.data.admin.ch/eli/oc/2019/93)).
 
 #### Art. 37
@@ -748,7 +750,7 @@ Les cantons communiquent annuellement à l’OFROU:
 
 <sup>2</sup> L’OFROU règle les modalités des communications et la procédure qui s’y rapporte.
 
-[^44-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^44-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 45
 
@@ -874,7 +876,7 @@ Sera puni de l’amende quiconque:
 
 En dérogation à l’art. 20, seuls 2 % par année des jours de travail des conducteurs soumis à l’OTR 1[^50-1] devront être contrôlés en 2008 et en 2009.
 
-[^50-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^50-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 #### Art. 50a
 
