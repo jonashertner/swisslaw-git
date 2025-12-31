@@ -4,13 +4,12 @@ number: VII B/1/1
 title: Raumentwicklungs- und Baugesetz
 short: RBG
 language: de
-version: 2023-07-01
-valid_until: 2025-12-31
-version_adopted: 2023-05-07
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 2010-05-02
 in_force: 2011-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-B.1.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2425/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2425/pdf_file"
 
 (RBG)
 
-Vom 02.05.2010 (Stand 01.07.2023)
+Vom 02.05.2010 (Stand 01.01.2026)
 
 (Erlassen von der Landsgemeinde am 2. Mai 2010)
 
@@ -383,9 +382,11 @@ Vom 02.05.2010 (Stand 01.07.2023)
 
 <sup>1</sup> Baureglement und Zonenplan werden vom Gemeinderat nach Abschluss des Einspracheverfahrens nach Artikel 26 den Stimmberechtigten zum Erlass unterbreitet.
 
-<sup>2</sup> Die Stimmberechtigten können das Baureglement und den Zonenplan gesamthaft oder teilweise annehmen, gesamthaft ablehnen oder mit einem Antrag auf Änderung an den Gemeinderat zurückweisen. Abänderungsanträge zu Baureglements- oder Zonenplanvorlagen sind im Sinne von Artikel 52 des Gemeindegesetzes[^27-1] zwingend vor der Durchführung der Gemeindeversammlung einzureichen.
+<sup>2</sup> Die Stimmberechtigten können das Baureglement und den Zonenplan gesamthaft oder teilweise annehmen, gesamthaft ablehnen oder mit einem Antrag auf Änderung an den Gemeinderat zurückweisen. Abänderungsanträge zu Baureglements- oder Zonenplanvorlagen sind im Sinne von Artikel 35 des Gemeindegesetzes[^27-1] zwingend vor der Durchführung der Gemeindeversammlung einzureichen.
 
 <sup>3</sup> Der Beschluss der Stimmberechtigten ist im kantonalen Amtsblatt zu publizieren.
+
+<sup>3a</sup> In Parlamentsgemeinden ohne Gemeindeversammlung tritt das Gemeindeparlament an die Stelle der Stimmberechtigten.
 
 <sup>4</sup> Direkt Betroffenen wird der Beschluss mit einer Rechtsmittelbelehrung individuell eröffnet.
 
@@ -399,7 +400,7 @@ Vom 02.05.2010 (Stand 01.07.2023)
 
 <sup>2</sup> Sondernutzungspläne sind dem fakultativen Referendum zu unterstellen.
 
-<sup>3</sup> Das fakultative Referendum richtet sich nach Artikel 44 Absatz 2 des Gemeindegesetzes.
+<sup>3</sup> Das fakultative Referendum richtet sich nach Artikel 19 des Gemeindegesetzes.
 
 <sup>4</sup> Die Stimmberechtigten können den Sondernutzungsplan gesamthaft annehmen oder ablehnen oder mit einem Antrag auf Änderung an den Gemeinderat zurückweisen.
 
