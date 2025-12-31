@@ -4,11 +4,11 @@ title: Ordonnance du 11 septembre 1996 sur le service civil (OSCi)
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/fr"
 
 (OSCi[^t-1])
 
-du 11 septembre 1996 (État le 1<sup>er</sup> janvier 2025)
+du 11 septembre 1996 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 1996 2974](https://fedlex.data.admin.ch/eli/oc/1996/2974_2974_2974)
 
@@ -164,7 +164,7 @@ Peuvent exercer une influence sur l’affectation:
 
 ### (art. 4, al. 2, LSC)
 
-<sup>1</sup> Les exploitations agricoles peuvent être reconnues en qualité d’établissement d’affectation lorsque l’exploitant reçoit des paiements directs en vertu des art. 43, 44, 47 ou 55 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^5-2] ou des contributions cantonales en vertu des art. 63 et 64 OPD.[^5-3]
+<sup>1</sup> Les exploitations agricoles peuvent être reconnues en qualité d’établissement d’affectation lorsque l’exploitant reçoit des paiements directs en vertu des art. 43, 44, 47 ou 55 de l’ordonnance du 23 octobre 2013 sur les paiements directs (OPD)[^5-2] ou des contributions cantonales en vertu de l’art. 78 OPD.[^5-3]
 
 <sup>2</sup> Les communautés d’exploitation doivent être reconnues selon les règles fixées à l’art. 29*a* de l’ordonnance du 7 décembre 1998 sur la terminologie agricole (OTerm)[^5-4] et tous leurs membres doivent remplir les critères énoncés à l’al. 1.
 
@@ -172,7 +172,7 @@ Peuvent exercer une influence sur l’affectation:
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^5-3]: Nouvelle teneur selon l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^5-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
@@ -194,20 +194,21 @@ Le CIVI affecte les personnes astreintes:
   - 2\. pour l’exploitation de surfaces en pente et en forte pente au sens des art. 43 et 44 OPD,
   - 3\. pour des travaux de protection et d’entretien de pâturages et de surfaces relevant de la protection de la nature au sens de l’art. 29 OPD,
   - 4\. pour la lutte contre les plantes posant des problèmes au sens de l’art. 32, al. 1, OPD,
-  - 5\. pour l’exécution de projets de préservation, de promotion et de développement de paysages cultivés diversifiés au sens de l’art. 63 OPD;
+  - 5\.[^6-3] pour l’exécution de projets de promotion de la biodiversité régionale et de la qualité du paysage au sens de l’art. 78 OPD;
 
 - b. dans des exploitations agricoles qui mènent à bien des projets ou programmes visés à la let. a, pour des travaux dans le domaine d’activité «protection de la nature et de l’environnement, entretien du paysage et forêt»;
-- c.[^6-3] …
+- c.[^6-4] …
 
-<sup>2</sup> Le DEFR détermine combien de jours de service par année une personne en service peut accomplir dans les exploitations agricoles. Il se fonde à cet effet notamment sur la dimension des surfaces visées à l’al. 1, let. a, ch. 1 et 2, et sur le montant des contributions au titre des mesures visées à l’al. 1, let. a, ch 5.[^6-4]
+<sup>2</sup> Le DEFR détermine combien de jours de service par année une personne en service peut accomplir dans les exploitations agricoles. Il se fonde à cet effet notamment sur la dimension des surfaces visées à l’al. 1, let. a, ch. 1 et 2, et sur le montant des contributions au titre des mesures visées à l’al. 1, let. a, ch 5.[^6-5]
 
-<sup>3</sup> Les personnes astreintes ne peuvent être affectées dans des exploitations de pâturages communautaires ou d’estivage que pendant la période d’estivage, ainsi que les 14 jours qui précèdent cette période et les 14 jours qui la suivent. Par période d’estivage, on entend la période pendant laquelle ces exploitations accueillent le bétail estivé.[^6-5]
+<sup>3</sup> Les personnes astreintes ne peuvent être affectées dans des exploitations de pâturages communautaires ou d’estivage que pendant la période d’estivage, ainsi que les 14 jours qui précèdent cette période et les 14 jours qui la suivent. Par période d’estivage, on entend la période pendant laquelle ces exploitations accueillent le bétail estivé.[^6-6]
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 juin 2016, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
-[^6-4]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-3]: Nouvelle teneur selon l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^6-4]: Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 [^6-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-6]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -903,7 +904,7 @@ Le CIVI peut recueillir auprès de la personne astreinte des données supplémen
 
 ### (art. 19 LSC)
 
-<sup>1</sup> La personne astreinte cherche des établissements d'affectation et convient avec eux de ses périodes d'affectation. Les art. 8*a*, al. 2, 8*b*, al. 3, et 8*c*, al. 2, sont réservés.[^31a-2]
+<sup>1</sup> La personne astreinte cherche des établissements d’affectation et convient avec eux de ses périodes d’affectation. Les art. 8*a*, al. 2, 8*b*, al. 3, et 8*c*, al. 2, sont réservés.[^31a-2]
 
 <sup>2</sup> Le CIVI lui fournit les informations dont elle a besoin pour cette recherche et l’assiste à sa demande.[^31a-3]
 
@@ -2876,6 +2877,17 @@ Les personnes admises au service civil avant l’entrée en vigueur de la modifi
 <sup>2</sup> Les tarifs fixés à l’annexe 2*a* de l’ancien droit sont applicables aux affectations faisant l’objet d’une convention conclue avant l’entrée en vigueur de la modification.
 
 [^118a-1]: Introduit par le ch. I de l’O du 20 juin 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+
+#### Art. 118b
+
+**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^118b-1]
+
+<sup>1</sup> Les entreprises agricoles dont les exploitants obtiennent des contributions cantonales en vertu des art. 63 et 64 OPD[^118b-2] de l’ancien droit peuvent encore être reconnues en qualité d’établissement d’affectation selon l’art. 5, al. 1, en 2026 et 2027.
+
+<sup>2</sup> Les personnes astreintes au service civil peuvent encore être affectées en 2026 et 2027 conformément à l’art. 6, al. 1, let. a, ch. 5, de l’ancien droit.
+
+[^118b-1]: Introduit par l’annexe de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^118b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 118<sup>bis</sup>
 

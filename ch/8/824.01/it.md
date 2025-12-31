@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 settembre 1996 sul servizio civile (OSCi)"
 short: OSCi
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20250101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20260101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/it"
 
 (OSCi)
 
-dell’11 settembre 1996 (Stato 1° gennaio 2025)
+dell’11 settembre 1996 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -162,7 +162,7 @@ Possono influire sull’impiego:
 
 ### (art. 4 cpv. 2 LSC)
 
-<sup>1</sup> Le aziende agricole possono essere riconosciute quali istituti d’impiego se i gestori ricevono pagamenti diretti secondo gli articoli 43, 44, 47 o 55 dell’ordinanza del 23 ottobre 2013[^5-2] sui pagamenti diretti (OPD) o contributi del Cantone secondo gli articoli 63 e 64 OPD.[^5-3]
+<sup>1</sup> Le aziende agricole possono essere riconosciute quali istituti d’impiego se i gestori ricevono pagamenti diretti secondo gli articoli 43, 44, 47 o 55 dell’ordinanza del 23 ottobre 2013[^5-2] sui pagamenti diretti (OPD) o contributi del Cantone secondo l’articolo 78 OPD.[^5-3]
 
 <sup>2</sup> Le comunità aziendali devono essere riconosciute secondo l’articolo 29*a* dell’ordinanza del 7 dicembre 1998[^5-4] sulla terminologia agricola (OTerm) e tutti i membri devono adempiere le condizioni di cui al capoverso 1.
 
@@ -170,7 +170,7 @@ Possono influire sull’impiego:
 
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-3]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^5-3]: Nuovo testo giusta all’all. dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^5-4]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^5-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
@@ -192,20 +192,21 @@ Il CIVI impiega le persone soggette al servizio civile:
   - 2\. per lavori di gestione di superfici in zone declive e in forte pendenza di cui agli articoli 43 e 44 OPD,
   - 3\. per lavori di protezione e cura dei pascoli e delle superfici che rientrano nella protezione della natura di cui all’articolo 29 OPD,
   - 4\. per la lotta contro le piante problematiche di cui all’articolo 32 capoverso 1 OPD,
-  - 5\. per lavori legati a progetti per il mantenimento, la promozione e lo sviluppo di paesaggi rurali variati di cui all’articolo 63 OPD;
+  - 5\.[^6-3] per lo svolgimento di progetti per la biodiversità regionale e la qualità del paesaggio di cui all’articolo 78 OPD;
 
 - b. in aziende agricole che realizzano progetti o programmi di cui alla lettera a per lavori nell’ambito d’attività «protezione dell’ambiente e della natura, salvaguardia del paesaggio e foreste»;
-- c.[^6-3] ...
+- c.[^6-4] ...
 
-<sup>2</sup> Il DEFR disciplina il numero di giorni di servizio durante i quali una persona che presta servizio civile può essere impiegata ogni anno in aziende agricole. Esso tiene conto in particolare delle dimensioni delle superfici di cui al capoverso 1 lettera a numeri 1 e 2 e dell’importo dei contributi per le misure di cui al capoverso 1 lettera a numero 5.[^6-4]
+<sup>2</sup> Il DEFR disciplina il numero di giorni di servizio durante i quali una persona che presta servizio civile può essere impiegata ogni anno in aziende agricole. Esso tiene conto in particolare delle dimensioni delle superfici di cui al capoverso 1 lettera a numeri 1 e 2 e dell’importo dei contributi per le misure di cui al capoverso 1 lettera a numero 5.[^6-5]
 
-<sup>3</sup> In aziende con pascoli comunitari e in aziende d’estivazione le persone soggette al servizio civile possono essere impiegate soltanto durante il periodo d’estivazione nonché per altri 14 giorni di servizio immediatamente prima e dopo. È considerato periodo d’estivazione il periodo in cui l’azienda con pascoli comunitari o l’azienda d’estivazione in questione viene caricata con gli animali.[^6-5]
+<sup>3</sup> In aziende con pascoli comunitari e in aziende d’estivazione le persone soggette al servizio civile possono essere impiegate soltanto durante il periodo d’estivazione nonché per altri 14 giorni di servizio immediatamente prima e dopo. È considerato periodo d’estivazione il periodo in cui l’azienda con pascoli comunitari o l’azienda d’estivazione in questione viene caricata con gli animali.[^6-6]
 
 [^6-1]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° lug. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
-[^6-4]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-3]: Nuovo testo giusta all’all. dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^6-4]: Abrogata dalla cifra I dell’O del 6 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 [^6-5]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-6]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -2831,21 +2832,11 @@ Per le persone che sono state ammesse al servizio civile prima dell’entrata in
 
 [^118-1]: Nuovo testo giusta l’all. 7 cifra II n. 7 dell’O del 22 nov. 2017 concernente l’obbligo di prestare servizio militare, in vigore dal 1° gen. 2018 ([RU 2017 7405](https://fedlex.data.admin.ch/eli/oc/2017/810)).
 
-#### Art. 118a
-
-**Disposizioni transitorie della modifica del 20 giugno 2018**[^118a-1]
-
-<sup>1</sup> Se per un istituto d’impiego la categoria di cui all’Appendice 2*a* deve essere ridefinita in seguito alla modifica del 20 giugno 2018, l’istituto d’impiego paga il tributo fissato in base alla categoria precedente fino al passaggio in giudicato della modifica della decisione di riconoscimento.
-
-<sup>2</sup> Per gli impieghi concordati prima dell’entrata in vigore della modifica si applicano le tariffe di cui all’Appendice 2*a* del diritto anteriore.
-
-[^118a-1]: Introdotto dalla cifra I dell’O del 20 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
-
 #### Art. 118<sup>bis</sup>
 
 [^118bis-1]
 
-[^118bis-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dalla cifra IV n. 41 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
+[^118bis-1]: Introdotto dalla cifra I dell’O del 5 dic. 2003 ([RU 2003 5215](https://fedlex.data.admin.ch/eli/oc/2003/769)). Abrogato dalla cifra IV 41 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
 #### Art. 118<sup>ter</sup>
 
@@ -2865,6 +2856,27 @@ Per le persone che sono state ammesse al servizio civile prima dell’entrata in
 
 [^118quinquies-1]: Introdotto dalla cifra I dell’O del 15 ott. 2008 ([RU 2008 4877](https://fedlex.data.admin.ch/eli/oc/2008/683)). Abrogato dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° apr. 2009 ([RU 2009 1101](https://fedlex.data.admin.ch/eli/oc/2009/173)).
 
+#### Art. 118a
+
+**Disposizioni transitorie della modifica del 20 giugno 2018**[^118a-1]
+
+<sup>1</sup> Se per un istituto d’impiego la categoria di cui all’Appendice 2*a* deve essere ridefinita in seguito alla modifica del 20 giugno 2018, l’istituto d’impiego paga il tributo fissato in base alla categoria precedente fino al passaggio in giudicato della modifica della decisione di riconoscimento.
+
+<sup>2</sup> Per gli impieghi concordati prima dell’entrata in vigore della modifica si applicano le tariffe di cui all’Appendice 2*a* del diritto anteriore.
+
+[^118a-1]: Introdotto dalla cifra I dell’O del 20 giu. 2018, in vigore dal 1° gen. 2019 ([RU 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+
+#### Art. 118b
+
+**Disposizioni transitorie della modifica del 6 novembre 2024**[^118b-1]
+
+<sup>1</sup> Le aziende agricole i cui gestori hanno ricevuto contributi del Cantone secondo gli articoli 63 e 64 OPD[^118b-2] del diritto anteriore possono essere ancora riconosciute nel 2026 e nel 2027 quali istituti d’impiego ai sensi dell’articolo 5 capoverso 1.
+
+<sup>2</sup> Le persone soggette al servizio civile possono essere ancora impiegate nel 2026 e nel 2027 secondo l’articolo 6 capoverso 1 lettera a numero 5 del diritto anteriore.
+
+[^118b-1]: Introdotto dall’all. dell’O del 6 nov. 2024 (Contributo per la biodiversità regionale e la qualità del paesaggio), in vigore dal 1° gen. 2026 ([RU 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^118b-2]: [RS 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
+
 ## Capitolo 14: Entrata in vigore
 
 ### (art. 84 LSC)
@@ -2881,7 +2893,7 @@ Appendice 1[^t-1]
 
 ## Numero massimo di persone che prestano servizio civile in un istituto d’impiego
 
-[^t-1]: Nuovo testo giusta la cifra II dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aggiornato dalle cifre II delle O del 15 nov. 2017 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 3 giu. 2016 ([RU 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)). Aggiornato dai n. II delle O del 15 nov. 2017 ([RU 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)) e del 6 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 
 ### 1. Principio
 

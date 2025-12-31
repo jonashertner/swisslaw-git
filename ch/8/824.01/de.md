@@ -4,11 +4,11 @@ title: "Verordnung vom 11. September 1996 über den zivilen Ersatzdienst (Zivild
 short: ZDV
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1996-09-11
 in_force: 1996-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20250101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2685_2685_2685/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1996-2685_2685_2685-20260101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/2685_2685_2685/20250101/de"
 
 (Zivildienstverordnung, ZDV)
 
-vom 11. September 1996 (Stand am 1. Januar 2025)
+vom 11. September 1996 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -162,7 +162,7 @@ Auf den Einsatz Einfluss nehmen können:
 
 ### (Art. 4 Abs. 2 ZDG)
 
-<sup>1</sup> Landwirtschaftliche Betriebe können als Einsatzbetriebe anerkannt werden, wenn die Bewirtschafterin oder der Bewirtschafter Direktzahlungen nach Artikel 43, 44, 47 oder 55 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2] (DZV) oder Beiträge der Kantone nach den Artikeln 63 und 64 DZV erhält.[^5-3]
+<sup>1</sup> Landwirtschaftliche Betriebe können als Einsatzbetriebe anerkannt werden, wenn die Bewirtschafterin oder der Bewirtschafter Direktzahlungen nach Artikel 43, 44, 47 oder 55 der Direktzahlungsverordnung vom 23. Oktober 2013[^5-2] (DZV) oder Beiträge der Kantone nach Artikel 78 DZV erhält.[^5-3]
 
 <sup>2</sup> Handelt es sich um eine Betriebsgemeinschaft, so muss diese über die Anerkennung nach Artikel 29*a* der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998[^5-4] (LBV) verfügen, wobei alle Mitglieder die Voraussetzungen nach Absatz 1 erfüllen müssen.
 
@@ -170,7 +170,7 @@ Auf den Einsatz Einfluss nehmen können:
 
 [^5-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^5-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^5-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
+[^5-3]: Fassung gemäss Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^5-4]: [SR 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
 [^5-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
@@ -192,20 +192,21 @@ Das ZIVI setzt zivildienstpflichtige Personen ein:
   - 2\. zur Bewirtschaftung von Flächen in Hang- und Steillagen nach den Artikeln 43 und 44 DZV,
   - 3\. für Arbeiten zum Schutz und zur Pflege von Weiden und Naturschutzflächen nach Artikel 29 DZV,
   - 4\. zur Bekämpfung von Problempflanzen nach Artikel 32 Absatz 1 DZV,
-  - 5\. für Projektarbeiten zur Erhaltung, Förderung und Weiterentwicklung vielfältiger Kulturlandschaften nach Artikel 63 DZV;
+  - 5\.[^6-3] zur Durchführung von Projekten für die regionale Biodiversität und Landschaftsqualität nach Artikel 78 DZV;
 
 - b. in landwirtschaftlichen Betrieben, die Projekte oder Programme nach Buchstabe a durchführen, für Arbeiten im Tätigkeitsbereich «Umwelt- und Naturschutz, Landschaftspflege und Wald»;
-- c.[^6-3] …
+- c.[^6-4] …
 
-<sup>2</sup> Das WBF regelt, an wie vielen Diensttagen eine zivildienstleistende Person in landwirtschaftlichen Betrieben jährlich eingesetzt werden darf. Es berücksichtigt dabei namentlich die Grösse der Flächen nach Absatz 1 Buchstabe a Ziffern 1 und 2 und die Höhe der Beiträge für Massnahmen nach Absatz 1 Buchstabe a Ziffer 5.[^6-4]
+<sup>2</sup> Das WBF regelt, an wie vielen Diensttagen eine zivildienstleistende Person in landwirtschaftlichen Betrieben jährlich eingesetzt werden darf. Es berücksichtigt dabei namentlich die Grösse der Flächen nach Absatz 1 Buchstabe a Ziffern 1 und 2 und die Höhe der Beiträge für Massnahmen nach Absatz 1 Buchstabe a Ziffer 5.[^6-5]
 
-<sup>3</sup> In Gemeinschaftsweide- und Sömmerungsbetrieben dürfen zivildienstpflichtige Personen nur während der Sömmerungsperiode sowie zusätzlich je während 14 Diensttagen unmittelbar davor und danach eingesetzt werden. Als Sömmerungsperiode gilt die Zeit, während der der betreffende Sömmerungs- oder Gemeinschaftsweidebetrieb bestossen wird.[^6-5]
+<sup>3</sup> In Gemeinschaftsweide- und Sömmerungsbetrieben dürfen zivildienstpflichtige Personen nur während der Sömmerungsperiode sowie zusätzlich je während 14 Diensttagen unmittelbar davor und danach eingesetzt werden. Als Sömmerungsperiode gilt die Zeit, während der der betreffende Sömmerungs- oder Gemeinschaftsweidebetrieb bestossen wird.[^6-6]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 3. Juni 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1897](https://fedlex.data.admin.ch/eli/oc/2016/331)).
 [^6-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
-[^6-3]: Aufgehoben durch Ziff. II der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
-[^6-4]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-3]: Fassung gemäss Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^6-4]: Aufgehoben durch Ziff. II der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 634](https://fedlex.data.admin.ch/eli/oc/2024/634)).
 [^6-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
+[^6-6]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6687](https://fedlex.data.admin.ch/eli/oc/2017/744)).
 
 #### Art. 7
 
@@ -2844,6 +2845,17 @@ Für Personen, die vor dem Inkrafttreten der Änderung vom 22. November 2017 zum
 <sup>2</sup> Für Einsätze, die vor dem Inkrafttreten der Änderung vereinbart wurden, gelten die Tarife nach Anhang 2*a* bisherigen Rechts.
 
 [^118a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 2563](https://fedlex.data.admin.ch/eli/oc/2018/380)).
+
+#### Art. 118b
+
+**Übergangsbestimmungen zur Änderung vom 6. November 2024**[^118b-1]
+
+<sup>1</sup> Landwirtschaftliche Betriebe, deren Bewirtschafterin oder Bewirtschafter Beiträge der Kantone nach den Artikeln 63 und 64 DZV[^118b-2] des bisherigen Rechts erhalten, können in den Jahren 2026 und 2027 noch als Einsatzbetriebe nach Artikel 5 Absatz 1 anerkannt werden.
+
+<sup>2</sup> Zivildienstpflichtige Personen können in den Jahren 2026 und 2027 noch nach Artikel 6 Absatz 1 Buchstabe a Ziffer 5 des bisherigen Rechts eingesetzt werden.
+
+[^118b-1]: Eingefügt durch Anhang der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^118b-2]: [SR 910.13](https://fedlex.data.admin.ch/eli/cc/2013/765)
 
 #### Art. 118<sup>bis</sup>
 
