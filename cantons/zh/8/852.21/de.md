@@ -4,11 +4,11 @@ number: "852.21"
 title: Kinder- und Jugendheimverordnung (KJV)
 short: KJV
 language: de
-version: "2025-01-01"
-nachtrag: "127"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
+valid_until: 2026-07-01
 adopted: 2021-10-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_21-2021_10_06-2022_01_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-852_21-2021_10_06-2022_01_01-131.html"
 text: pdf
 ---
 
@@ -26,19 +26,13 @@ beschliesst:
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
-#### § 1
-
 **Vollzug**
 
-<sup>1</sup> Das Amt für Jugend und Berufsberatung (Amt) vollzieht das Kinder- und Jugendheimgesetz und diese Verordnung.
+§ 1.<sup>11</sup> <sup>1</sup> Das Amt für Jugend und Berufsberatung (Amt) vollzieht das Kinder- und Jugendheimgesetz und diese Verordnung.
 
 <sup>2</sup> Es arbeitet im Rahmen des Vollzugs insbesondere mit den Eltern sowie den Behörden und Einrichtungen der Volksschule, der Berufsbildung, des Jugendstrafrechts und des Gesundheitswesens zusammen.
 
-<sup>3</sup> Verfügungen des Amtes werden schriftlich eröffnet. Mit dem Einverständnis der Verfügungsadressatin oder des Verfügungsadressaten können sie elektronisch über ein Webportal eröffnet werden. Elektronisch eröffnete Verfügungen des Amtes bedürfen keiner Unterschrift.
-
-<sup>4</sup> Die elektronisch eröffnete Verfügung wird der Verfügungsadressatin oder dem Verfügungsadressaten im Webportal zum Abruf bereitgestellt. Das Webportal quittiert den Zeitpunkt des erstmaligen Abrufs.
-
-<sup>5</sup> Die elektronisch eröffnete Verfügung gilt im quittierten Zeitpunkt als fristauslösend mitgeteilt, spätestens jedoch am siebten Tag nach der Bereitstellung der Verfügung im Webportal.
+<sup>3</sup> Es betreibt für die elektronische Vornahme von Verfahrenshandlungen ein Webportal.
 
 #### § 2
 
@@ -54,17 +48,15 @@ In dieser Verordnung bedeuten:
 
 Leistungsbeziehende: Kinder, Jugendliche und junge Erwachsene, die eine ergänzende Hilfe zur Erziehung beziehen.
 
-**1**
-
-- 1\. 1. 25 - 127 Leistungserbringende mit Anbietende von ergänzenden Hilfen Leistungsvereinbarung (LV): zur Erziehung, die Leistungen gemäss dem Kinder- und Jugendheimgesetz im Rahmen einer Leistungsvereinbarung mit dem Amt erbringen.
+Leistungserbringende mit Anbietende von ergänzenden Hilfen Leistungsvereinbarung (LV): zur Erziehung, die Leistungen gemäss dem Kinder- und Jugendheimgesetz im Rahmen einer Leistungsvereinbarung mit dem Amt erbringen.
 
 Leistungserbringende Anbietende von ergänzenden Hilfen ohne LV: zur Erziehung, die Leistungen gemäss dem Kinder- und Jugendheimgesetz ohne LV mit dem Amt erbringen.
 
-#### § 4
+**1**
+
+- 1\. 1. 26 - 131 § 4. <sup>1</sup> Die Gesamtplanung gemäss § 6 KJG erfolgt in einem vierjährigen Prozess in den Phasen Grundlagenerarbeitung, Bedarfseinschätzung und Festlegung des Bedarfs.
 
 **Gesamtplanung**
-
-<sup>1</sup> Die Gesamtplanung gemäss § 6 KJG erfolgt in einem vierjährigen Prozess in den Phasen Grundlagenerarbeitung, Bedarfseinschätzung und Festlegung des Bedarfs.
 
 <sup>2</sup> Die Beteiligten gemäss § 6 Abs. 2 KJG werden in jeder Phase angehört.
 
@@ -156,13 +148,13 @@ pädagogische Familienhilfe
 
 - c. besondere Vorkommnisse,
 
-**3**
-
-- 1\. 1. 25 - 127
-
 - d. Entscheidungen, die einen wesentlichen Einfluss auf das Leben der Leistungsbeziehenden haben, sowie deren Meinung dazu.
 
 <sup>2</sup> Anbietende sozialpädagogischer Familienhilfe reichen die Verzeichnisse dem Amt auf Verlangen ein.
+
+**3**
+
+- 1\. 1. 26 - 131
 
 ### B. Familienpflege
 
@@ -258,7 +250,7 @@ Die Anbietenden bestätigen dem Amt die Anstellung des gemäss § 18 erforderlic
 
 **5**
 
-- 1\. 1. 25 - 127 § 20. Drei Viertel des Personalbestands gemäss § 19 müssen ausgebildete Betreuungspersonen sein. Die Anbietenden bestätigen dem Amt, dass diese Anforderung erfüllt ist.
+- 1\. 1. 26 - 131 § 20. Drei Viertel des Personalbestands gemäss § 19 müssen ausgebildete Betreuungspersonen sein. Die Anbietenden bestätigen dem Amt, dass diese Anforderung erfüllt ist.
 
 #### § 21
 
@@ -350,7 +342,7 @@ Ausländische Ausbildungen müssen von der zuständigen eidgenössischen oder ka
 
 **7**
 
-- 1\. 1. 25 - 127 § 25. Mit dem Bewilligungsgesuch bestätigen die Anbietenden, dass sie für alle im Heimpflegeangebot tätigen Personen vor Tätigkeitsaufnahme und später mindestens alle vier Jahre die folgenden Auszüge aus dem Strafregister überprüfen:
+- 1\. 1. 26 - 131 § 25. Mit dem Bewilligungsgesuch bestätigen die Anbietenden, dass sie für alle im Heimpflegeangebot tätigen Personen vor Tätigkeitsaufnahme und später mindestens alle vier Jahre die folgenden Auszüge aus dem Strafregister überprüfen:
 
 **Persönliche Eignung**
 
@@ -436,7 +428,7 @@ Die Gebühren betragen:
 
 **9**
 
-- 1\. 1. 25 - 127 § 32. Als beitragsberechtigt gelten Leistungserbringende mit LV. Das Amt schliesst mit Anbietenden ergänzender Hilfen zur Erziehung eine LV ab aufgrund
+- 1\. 1. 26 - 131 § 32. Als beitragsberechtigt gelten Leistungserbringende mit LV. Das Amt schliesst mit Anbietenden ergänzender Hilfen zur Erziehung eine LV ab aufgrund
 
 **Beitragsberechtigung und LV**
 
@@ -514,7 +506,7 @@ Die Tarife gemäss §§ 33 Abs. 1 lit. a–c und 35 Abs. 1 beruhen auf dem Lande
 
 **11**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 ### C. Anrechnung von Kosten und Erlösen im Bereich der Heimpflege
 
@@ -599,11 +591,11 @@ Zu den Kosten gemäss § 17 KJG gehören a. die den Anbietenden von ergänzenden
 
 <sup>1</sup> Das Amt teilt den Gemeinden die voraussichtlich auf sie entfallenden Anteile gemäss § 17 Abs. 1 lit. b KJG bis 30. Juni des Rechnungsjahres für das Folgejahr mit.
 
-<sup>2</sup> Die Gemeinde leistet im Rechnungsjahr Akontozahlungen im Umfang von je 50% dieses Anteils bis 31. März und bis 30. September.
-
 **13**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
+
+<sup>2</sup> Die Gemeinde leistet im Rechnungsjahr Akontozahlungen im Umfang von je 50% dieses Anteils bis 31. März und bis 30. September.
 
 <sup>3</sup> Die Abrechnung des Rechnungsjahres erfolgt bis 30. Juni des Folgejahres. Für die Berechnung der Gemeindeanteile ist der Einwohnerbestand massgebend, den das Statistische Amt per 31. Dezember des Vorjahres erhoben hat.
 
@@ -685,7 +677,7 @@ Zu den Kosten gemäss § 17 KJG gehören a. die den Anbietenden von ergänzenden
 
 **15**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Für Projektänderungen während der Ausführung ist ein Gesuch vor Beginn der entsprechenden Arbeiten zu stellen. Mit diesen darf erst nach Vorliegen der Genehmigung begonnen werden.
 
@@ -695,7 +687,7 @@ Zu den Kosten gemäss § 17 KJG gehören a. die den Anbietenden von ergänzenden
 
 <sup>5</sup> Gesuche um Genehmigung von Anschaffungen sind in der Regel spätestens drei Monate im Voraus zu stellen.
 
-<sup>6</sup> Sie sind dem Amt mit dem amtlichen Formular oder elektronisch über das Webportal einzureichen.
+<sup>6</sup> Sie sind dem Amt in Papierform mit dem amtlichen Formular oder elektronisch über das Webportal einzureichen.<sup>11</sup>
 
 <sup>7</sup> Betrifft ein Gesuch gleichzeitig ein Angebot in der Heimpflege und eine Sonderschulung nach § 36 Abs. 1 lit. b VSG, entscheidet das Amt, wenn der kostenmässig höhere Anteil in seinen Zuständigkeitsbereich fällt.
 
@@ -735,7 +727,7 @@ Werden Bauten und Anschaffungen nicht ausschliesslich von Leistungsbeziehenden g
 
 **Gesuch**
 
-<sup>1</sup> Leistungserbringende mit LV können ein Gesuch um Ausrichtung von Subventionen stellen. Das Gesuch muss dem Amt spätestens sechs Monate vor Projektbeginn mit dem amtlichen Formular oder elektronisch über das Webportal eingereicht werden.
+<sup>1</sup> Leistungserbringende mit LV können ein Gesuch um Ausrichtung von Subventionen stellen. Das Gesuch muss dem Amt spätestens sechs Monate vor Projektbeginn in Papierform mit dem amtlichen Formular oder elektronisch über das Webportal eingereicht werden.<sup>11</sup>
 
 <sup>2</sup> Dem Gesuch ist eine Projektbeschreibung mit einem Finanzierungskonzept beizulegen.
 
@@ -767,11 +759,11 @@ Werden Bauten und Anschaffungen nicht ausschliesslich von Leistungsbeziehenden g
 
 **Frist**
 
-<sup>1</sup> Anträge um Kostenübernahme werden dem Amt spätestens sechs Arbeitstage vor Beginn, Änderung oder Verlängerung des Leistungsbezugs schriftlich mit dem amtlichen Formular oder elektronisch über das Webportal eingereicht.
+<sup>1</sup> Anträge um Kostenübernahme werden dem Amt spätestens sechs Arbeitstage vor Beginn, Änderung oder Verlängerung des Leistungsbezugs in Papierform mit dem amtlichen Formular oder elektronisch über das Webportal eingereicht.<sup>11</sup>
 
 **17**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 <sup>2</sup> In Abweichung von der Frist gemäss Abs. 1 kann ein Antrag um Kostenübernahme eingereicht werden a. beim Bezug von Familien- und Heimpflege bei besonderer Dringlichkeit bis 20 Tage nach Beginn des Leistungsbezugs,
 
@@ -827,11 +819,9 @@ Wird der Leistungsbezug nicht von der KESB oder einem Gericht angeordnet, berüc
 
 <sup>2</sup> Ordnet eine KESB oder ein Gericht den Leistungsbezug an, richtet sich die Dauer der Kostenübernahmegarantie nach der entsprechenden Anordnung.
 
-#### § 63
-
 **Kostenübernahme für die Vermittlung von Pflegeplätzen in Pflegefamilien**
 
-Leistungserbringende mit LV im Bereich der Vermittlung von Pflegeplätzen in Pflegefamilien reichen dem Amt den Antrag um Kostenübernahme innerhalb von sechs Arbeitstagen seit Aufnahme ihrer Tätigkeit im Rahmen der Leistungsvereinbarung schriftlich mit dem amtlichen Formular oder elektronisch über das Webportal ein.
+§ 63.<sup>11</sup> Leistungserbringende mit LV im Bereich der Vermittlung von Pflegeplätzen in Pflegefamilien reichen dem Amt den Antrag um Kostenübernahme innerhalb von sechs Arbeitstagen seit Aufnahme ihrer Tätigkeit im Rahmen der Leistungsvereinbarung in Papierform mit dem amtlichen Formular oder elektronisch über das Webportal ein.
 
 #### § 64
 
@@ -853,7 +843,7 @@ Das Amt stellt den Entscheid über die Kostenübernahme zu:
 
 **19**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 - c. den minderjährigen Leistungsbeziehenden ab vollendetem 14. Altersjahr,
 
@@ -861,21 +851,16 @@ Das Amt stellt den Entscheid über die Kostenübernahme zu:
 
 ### 4. Abschnitt: Datenschutz
 
-#### § 66
-
-**Elektronische Aktenführung**
-
-<sup>1</sup> Das Amt führt die Akten im Anwendungsbereich dieser Verordnung in der Regel elektronisch.
-
-<sup>2</sup> Bei einer elektronischen Aktenführung werden die physischen Dokumente eingescannt und anschliessend vernichtet oder denjenigen Personen, welche die Dokumente eingereicht haben, zurückgegeben.
-
-#### § 67
+§ 66.[^h4AbschnittDatens-1]
 
 **Aktenführung und Schweigepflicht**
 
-<sup>1</sup> Die Leistungserbringenden mit LV führen über die Leistungserbringung für jede Leistungsbeziehende und jeden Leistungsbeziehenden eine schriftliche oder elektronische Akte.
+§ 67. <sup>1</sup> Die Leistungserbringenden mit LV führen über die Leistungserbringung für jede Leistungsbeziehende und jeden Leistungsbeziehenden eine schriftliche Akte.[^h4AbschnittDatens-2]
 
 <sup>2</sup> Sie wahren Stillschweigen über Feststellungen, die sie in Ausübung ihrer Tätigkeit machen.
+
+[^h4AbschnittDatens-1]: Aufgehoben durch RRB vom 26. Juni 2024 (OS 79, 377; ABl 2024-07-12). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 21
+[^h4AbschnittDatens-2]: Fassung gemäss RRB vom 26. Juni 2024 (OS 79, 377; ABl 2024-07-12). In Kraft seit 1. Januar 2026.
 
 #### § 68
 
@@ -981,7 +966,7 @@ Ziffer Raumbezeichnung
 
 **23**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 - 4\. Allgemeine Räume
 
@@ -1027,7 +1012,7 @@ Ziffer Raumbezeichnung
 
 **25**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 ### Anhang 2
 
@@ -1107,7 +1092,7 @@ Aufwand anrechenbar.
 
 **27**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 ## Weitere Fussnoten
 
@@ -1120,4 +1105,4 @@ Aufwand anrechenbar.
 - [7] SR 211.222.338.
 - [8] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 11. Oktober 2022 (OS 77, 554; ABl 2022-10-14). In Kraft seit 1. Januar 2023.
 - [9] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 16. Oktober 2023 (OS 78, 509; ABl 2023-10-20). In Kraft seit 1. Januar 2024.
-- [10] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 22. Oktober 2024 (OS 79, 473; ABl 2024-10-25). In Kraft seit 1. Januar 2025. 1. 1. 25 - 127 21
+- [10] Fassung gemäss Vfg. des Amtes für Jugend und Berufsberatung vom 22. Oktober 2024 (OS 79, 473; ABl 2024-10-25). In Kraft seit 1. Januar 2025.
