@@ -4,13 +4,12 @@ number: "125.12"
 title: Gesetz über die Gerichtsorganisation
 short: GO
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2024-03-27
 adopted: 1977-03-13
 in_force: 1977-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.12"
-pdf: "https://bgs.so.ch/api/de/versions/5524/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5525/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5524/pdf_file"
 
 (GO)
 
-Vom 13.03.1977 (Stand 01.08.2025)
+Vom 13.03.1977 (Stand 01.01.2026)
 
 Der Kantonsrat von Solothurn
 
@@ -846,6 +845,16 @@ beschliesst:
 **Grundsatz**
 
 <sup>1</sup> Die Spezialgerichte, das Jugendgericht und die Haftrichter führen ihre Verwaltung selber, soweit nicht andere Organe zuständig sind.
+
+### 3<sup>bis</sup>.5. Archivierung der Gerichtsakten
+
+#### § 60novies
+
+<sup>1</sup> Die Gerichte bewahren ihre Akten während 30 Jahren nach Eintritt der Rechtskraft in den Gerichtsarchiven geordnet und sicher auf und bieten sie anschliessend dem Staatsarchiv zur Übernahme an.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung. Er kann insbesondere abweichende Aufbewahrungsfristen für bestimmte Aktenkategorien festlegen sowie regeln, welche Akten die Gerichte vernichten können.
+
+<sup>3</sup> Soweit nichts anderes bestimmt ist, gilt die Archivgesetzgebung. Das übergeordnete Recht, insbesondere zu den Aufbewahrungsfristen, bleibt vorbehalten.
 
 ## 4. Gerichtsschreiber, Aktuare und Kanzleipersonal
 
