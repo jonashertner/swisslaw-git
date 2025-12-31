@@ -4,13 +4,12 @@ number: 867a
 title: Verordnung zum Betreuungs- und Pflegegesetz
 short: BPV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-29
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867a"
-pdf: "https://srl.lu.ch/api/de/versions/4679/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4680/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4679/pdf_file"
 
 (BPV)
 
-vom 30.11.2010 (Stand 01.01.2025)
+vom 30.11.2010 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -288,7 +287,7 @@ beschliesst:
 
 **Erbringung der Ausbildungsleistung**
 
-<sup>1</sup> Die Leistungserbringer bestimmen selbst, in welchen Berufen gemäss § 5d Absatz 2 sie Personal ausbilden, um die Ausbildungsleistung zu erbringen.
+<sup>1</sup> Die Leistungserbringer bestimmen selbst, in welchen Berufen gemäss § 5d Absatz 2 sie Personal ausbilden, um die Ausbildungsleistung zu erbringen. Die Pflicht zur Ausbildung auf Tertiärstufe als Voraussetzung für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung gemäss Artikel 36a Absatz 3 und Artikel 39 Absatz 3 in Verbindung mit Absatz 1bis KVG[^5f-1] bleibt vorbehalten.
 
 <sup>2</sup> Sie können die Ausbildungsleistung im eigenen Betrieb erbringen oder Ausbildungsverbünde mit Leistungserbringern im Sinn von § 5d Absatz 1 bilden. Mit Bewilligung der Dienststelle Soziales und Gesellschaft kann bei spezialisierten Angeboten die Ausbildungsleistung auch in einem Ausbildungsverbund mit einem Spital mit Standort im Kanton Luzern erbracht werden.
 
@@ -297,6 +296,8 @@ beschliesst:
 <sup>3</sup> …
 
 <sup>4</sup> …
+
+[^5f-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 5g
 
@@ -317,13 +318,13 @@ beschliesst:
 
 **Ausbildungsbeitrag**
 
-<sup>1</sup> Leistungserbringer, bei denen die Gegenüberstellung der zu erbringenden mit der erbrachten Ausbildungsleistung einen negativen Saldo ergibt, haben der Dienststelle Soziales und Gesellschaft einen Ausbildungsbeitrag in der Höhe des Negativsaldos zu entrichten.
+<sup>1</sup> Leistungserbringer, bei denen die Gegenüberstellung der erbrachten Ausbildungsleistung mit 95 Prozent der zu erbringenden Ausbildungsleistung einen negativen Saldo ergibt, haben der Dienststelle Soziales und Gesellschaft einen Ausbildungsbeitrag in der Höhe des Negativsaldos zu entrichten.
 
 <sup>2</sup> Bei einem positiven Saldo erhalten die Leistungserbringer von der Dienststelle Soziales und Gesellschaft einen Ausbildungsbeitrag in der Höhe des Positivsaldos. Reichen die gesamthaft eingezogenen Ausbildungsbeiträge zur vollständigen Deckung aller Positivsaldi nicht aus, werden die verfügbaren Mittel anteilmässig im Verhältnis des Grades der Übererfüllung an die Leistungserbringer verteilt.
 
-<sup>3</sup> Nicht verteilte Beiträge sind im Umfang von 20 Prozent auf das folgende Jahr zu übertragen. Der Restbetrag ist den Verbänden Curaviva Luzern, Spitex Kantonalverband Luzern (SKL) und Association Spitex privée Suisse anteilmässig im Verhältnis zu den Ausbildungsbeiträgen ihrer Mitglieder auszuzahlen und von ihnen zur Förderung der Ausbildung zu verwenden. Über die Verwendung der Mittel haben die Verbände jährlich zuhanden der Dienststelle Soziales und Gesellschaft Bericht zu erstatten.
+<sup>3</sup> Nicht verteilte Beiträge sind im Umfang von 20 Prozent auf das folgende Jahr zu übertragen. Der Restbetrag ist den Verbänden Curaviva Luzern, Spitex Kantonalverband Luzern (SKL) und Association Spitex privée Suisse anteilmässig im Verhältnis zu den Ausbildungsleistungen ihrer Mitglieder auszuzahlen und von ihnen zur Förderung der Ausbildung zu verwenden. Über die Verwendung der Mittel haben die Verbände jährlich zuhanden der Dienststelle Soziales und Gesellschaft Bericht zu erstatten.
 
-<sup>4</sup> Die Dienststelle Soziales und Gesellschaft kann einem Leistungserbringer die geschuldete Ausgleichszahlung nach Absatz 1 in begründeten Fällen ganz oder teilweise erlassen.
+<sup>4</sup> …
 
 #### § 5i
 
@@ -373,19 +374,11 @@ beschliesst:
 
 #### § 7
 
-**Übergangsbestimmungen zur Änderung vom 27. November 2020**
-
-<sup>1</sup> Auf die nach Inkrafttreten der Änderung vom 27. November 2020 auf Basis der Daten 2020 zu berechnenden Ausbildungsbeiträge ist vorbehältlich nachfolgender Abweichungen das neue Recht anwendbar.
-
-<sup>2</sup> Der für die Bemessung der zu erbringenden Ausbildungsleistung massgebliche Bedarfsfaktor (§ 5e Abs. 3) wird im Erhebungsjahr 2021 gestützt auf den kantonalen Bedarf gemäss Anhang 3 des bisherigen Rechts ermittelt.
-
-<sup>3</sup> Für Leistungserbringer der ambulanten Krankenpflege ist im Erhebungsjahr 2022 ein Erfüllungsgrad von 50 Prozent und im Erhebungsjahr 2023 ein Erfüllungsgrad von 75 Prozent des Soll-Wertes massgebend.
+**…**
 
 #### § 8
 
-**Übergangsbestimmung der Änderung vom 20. Dezember 2022**
-
-<sup>1</sup> Die Führung der Kostenrechnung durch die Leistungserbringer der ambulanten Krankenpflege gemäss § 3a Absatz 2a und die Erfassung des Pflegebedarfs durch die Leistungserbringer der Krankenpflege im Pflegeheim und in Tages- und Nachtstrukturen gemäss § 4a Absatz 1 haben spätestens ab 1. Januar 2024 zu erfolgen. Solange die Umstellung nicht vollzogen ist, gelten diesbezüglich die Vorgaben gemäss dem bisherigen Recht.
+**…**
 
 #### § 9
 
@@ -403,6 +396,12 @@ beschliesst:
 
 <sup>3</sup> In Abweichung von § 5e Absatz 4 sind die für die Bemessung der zu erbringenden Ausbildungsleistung erforderlichen Daten für das Erhebungsjahr 2025 der Dienststelle Soziales und Gesellschaft vom SKL und Curaviva Luzern zur Verfügung zu stellen.
 
+#### § 11
+
+**Übergangsbestimmung der Änderung vom 16. September 2025**
+
+<sup>1</sup> In den Erhebungsjahren 2026 und 2027 ist für die Ermittlung des Ausbildungsbeitrags gemäss § 5h Absatz 1 ein Erfüllungsgrad von 80 Prozent massgebend. Danach erhöht sich der massgebende Erfüllungsgrad bis zum Erhebungsjahr 2030 jährlich um 5 Prozent.
+
 ## A1
 
 #### § A1-1
@@ -415,21 +414,21 @@ beschliesst:
 
 <sup>1</sup> Für die Bemessung der zu erbringenden Ausbildungsleistung sind folgende Kosten pro Auszubildenden und Auszubildende und Jahr anrechenbar:
 
-- a. Ausbildungsniveau Tertiärstufe: ambulante Krankenpflege Fr. 8520 / Krankenpflege im Pflegeheim Fr. 8520
-- b. Ausbildungsniveau Sekundarstufe II EFZ: ambulante Krankenpflege Fr. 4000 / Krankenpflege im Pflegeheim Fr. 3000
-- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): ambulante Krankenpflege Fr. 2500 / Krankenpflege im Pflegeheim Fr. 2000
+- a. Ausbildungsniveau Tertiärstufe: Fr. 8520
+- b. Ausbildungsniveau Sekundarstufe II EFZ: Fr. 4000
+- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): Fr. 2500
 
 <sup>2</sup> Für die Ermittlung der erbrachten Ausbildungsleistungen sind folgende Kosten pro Auszubildenden und Auszubildende und Jahr anrechenbar:
 
 - a. Ausbildungsniveau Tertiärstufe
-  - 1\. dipl. Pflegefachmann / dipl. Pflegefachfrau HF: ambulante Krankenpflege Fr. 9000 / Krankenpflege im Pflegeheim Fr. 9000
-  - 2\. dipl. Pflegefachmann / dipl. Pflegefachfrau FH: ambulante Krankenpflege Fr. 4200 / Krankenpflege im Pflegeheim Fr. 4200
-  - 3\. Fachmann/Fachfrau Langzeitpflege und -betreuung FA: Krankenpflege im Pflegeheim Fr. 3000
+  - 1\. dipl. Pflegefachmann / dipl. Pflegefachfrau HF: Fr. 9000
+  - 2\. dipl. Pflegefachmann / dipl. Pflegefachfrau FH: Fr. 4200
+  - 3\. Fachmann/Fachfrau Langzeitpflege und -betreuung FA: Fr. 4000
 - b. Ausbildungsniveau Sekundarstufe II EFZ
-  - 1\. Fachmann/Fachfrau Gesundheit (FaGe) EFZ: ambulante Krankenpflege Fr. 4000 / Krankenpflege im Pflegeheim Fr. 3000
+  - 1\. Fachmann/Fachfrau Gesundheit (FaGe) EFZ: Fr. 4000
   - 2\. …
-  - 3\. Fachmann/Fachfrau Betreuung EFZ: Krankenpflege im Pflegeheim Fr. 3000
-- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): Assistent/Assistentin Gesundheit und Soziales EBA: ambulante Krankenpflege Fr. 2500 / Krankenpflege im Pflegeheim Fr. 2000
+  - 3\. Fachmann/Fachfrau Betreuung EFZ: Fr. 3000
+- c. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe): Assistent/Assistentin Gesundheit und Soziales EBA: Fr. 2500
 
 ## A3 Anhang 3: Kantonaler Bedarf an Abschlüssen (§ 5e Abs. 3)
 
