@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i livelli massimi per 
 short: OAOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/it"
 
 (OAOVA)
 
-del 16 dicembre 2016 (Stato 1° luglio 2025)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,7 +25,7 @@ visti gli articoli 10 capoverso 4 lettera e nonché 95 capoverso 3 dell’ordina
 
 ordina:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Sezione 1: Oggetto, campo d’applicazione e definizioni
 
@@ -73,10 +73,10 @@ Nella presente ordinanza s’intende per:
 
 <sup>2</sup> Per quanto la legislazione in materia di derrate alimentari non contenga disposizioni definitorie, per la presente ordinanza si applicano le definizioni della LPChim, dell’ordinanza del 18 maggio 2005[^2-3] sui prodotti chimici, dell’OBioc e dell’ordinanza del 12 maggio 2010[^2-4] sui prodotti fitosanitari (OPF).
 
-[^2-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^2-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-3]: [[RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 7.2; [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Vedi ora: l’O del 5 giu. 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
-[^2-4]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^2-1]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^2-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^2-3]: [[RU 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 7.2; [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)cifra I n. 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Vedi ora: l’O del 5 giu. 2015 ([RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
+[^2-4]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## Sezione 2: Determinazione e fissazione dei livelli massimi per i residui
 
@@ -107,8 +107,8 @@ Prende in considerazione in tale contesto:
 
 <sup>3</sup> I livelli massimi per i residui di antiparassitari sono fissati nell’allegato 2.
 
-[^3-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^3-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^3-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^3-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^3-3]: Regolamento (CE) n. 396/2005 del Parlamento europeo e del Consiglio, del 23 febbraio 2005, concernente i livelli massimi di residui di antiparassitari nei o sui prodotti alimentari e mangimi di origine vegetale e animale e che modifica la direttiva 91/414/CEE del Consiglio; GU L 70 del 16.3.2005, pag. 1, nella versione vincolante per l’UE.
 [^3-4]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
 
@@ -118,8 +118,8 @@ Prende in considerazione in tale contesto:
 
 Le sostanze attive di prodotti fitosanitari valutate nell’ambito dell’OPF[^4-1] o dell’OBioc[^4-2] e in base all’articolo 3 e per le quali non sono necessari livelli massimi per i residui sono elencate nell’allegato 3.
 
-[^4-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^4-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 5
 
@@ -156,8 +156,8 @@ La richiesta deve contenere:
 - c. i dati secondo gli allegati 5 e 6 OPF[^7-2], nell’ambito dei dati richiesti per la fissazione di livelli massimi per i residui di antiparassitari, oppure secondo l’articolo 14 OBioc[^7-3], compresi i dati tossicologici, i dati riguardanti i metodi analitici di routine da applicare nei laboratori di controllo e i dati relativi al metabolismo vegetale e animale.
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
-[^7-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^7-3]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^7-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^7-3]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ## Sezione 3: Superamento di livelli massimi per i residui
 
@@ -224,67 +224,49 @@ L’ordinanza del 26 giugno 1995[^12-1] sulle sostanze estranee e sui componenti
 
 Le sostanze attive autorizzate dall’Ufficio federale dell’agricoltura ai sensi dell’OPF[^13-1] e per le quali sono stati stabiliti livelli massimi di residui possono essere rilevate fino al 30 aprile 2019 in o su derrate alimentari nei livelli massimi fissati dal diritto anteriore.
 
-[^13-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^13-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 13a
 
-**Disposizioni transitorie della modifica del 12 marzo 2018**[^13a-1]
+[^13a-1]
 
-Le derrate alimentari che non soddisfano i requisiti della modifica del 12 marzo 2018 possono essere importate e fabbricate secondo il diritto anteriore fino al 30 aprile 2019 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^13a-1]: Introdotto dalla cifra I dell’O dell’USAV del 12 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1281](https://fedlex.data.admin.ch/eli/oc/2018/213)).
+[^13a-1]: Introdotto dalla cifra I dell’O dell’USAV del 12 mar. 2018 ([RU 2018 1281](https://fedlex.data.admin.ch/eli/oc/2018/213)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13b
 
-**Disposizione transitoria della modifica del 27 maggio 2020**[^13b-1]
+[^13b-1]
 
-<sup>1</sup> Le derrate alimentari non conformi alla modifica del 27 maggio 2020 possono essere importate e fabbricate secondo il diritto anteriore sino al 30 giugno 2021 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-<sup>2</sup> In deroga al capoverso 1, per le sostanze attive buprofezin, diflubenzuron e linuron nelle o sulle derrate alimentari si applicano sino al 31 dicembre 2020 i livelli massimi per i residui secondo il diritto anteriore.
-
-[^13b-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^13b-1]: Introdotto dalla cifra I dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13c
 
-**Disposizione transitoria della modifica del 26 settembre 2022**[^13c-1]
+[^13c-1]
 
-Le derrate alimentari non conformi alla modifica del 26 settembre 2022 possono essere importate e fabbricate secondo il diritto anteriore fino al 14 aprile 2023 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^13c-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^13c-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13d
 
-**Disposizione transitoria della modifica del 31 maggio 2023**[^13d-1]
+[^13d-1]
 
-Le derrate alimentari non conformi alla modifica del 31 maggio 2023 possono essere importate e fabbricate secondo il diritto anteriore fino al 1° gennaio 2024 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^13d-1]: Introdotto dalla cifra I dell’O dell’USAV del 31 mag. 2023, in vigore dal 1° lug. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
+[^13d-1]: Introdotto dalla cifra I dell’O dell’USAV del 31 mag. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13e
 
-**Disposizioni transitorie della modifica del 24 novembre 2023**[^13e-1]
+[^13e-1]
 
-<sup>1</sup> Le derrate alimentari contenenti principi attivi per i quali la modifica del 24 novembre 2023 stabilisce un livello massimo inferiore possono essere importate e fabbricate nel rispetto del livello massimo secondo il diritto anteriore fino al 1° luglio 2024 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-<sup>2</sup> In deroga al capoverso 1, le derrate alimentari contenenti le sostanze attive clotianidina e thiamethoxan possono essere consegnate ai consumatori fino al 7 marzo 2026 nel rispetto del livello massimo secondo il diritto anteriore.
-
-[^13e-1]: Introdotto dalla cifra I dell’O dell’USAV del 24 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)).
+[^13e-1]: Introdotto dalla cifra I dell’O dell’USAV del 24 nov. 2023 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13f
 
-**Disposizione transitoria della modifica del 29 maggio 2024**[^13f-1]
+[^13f-1]
 
-Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 29 maggio 2024 stabilisce un livello massimo inferiore possono essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 1° gennaio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^13f-1]: Introdotto dalla cifra I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+[^13f-1]: Introdotto dalla cifra I dell’O dell’USAV del 29 mag. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13g
 
-**Disposizione transitoria della modifica del 13 novembre 2024**[^13g-1]
+[^13g-1]
 
-Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 13 novembre 2024 stabilisce un livello massimo inferiore possono essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 1° luglio 2025 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
-
-[^13g-1]: Introdotto dalla cifra I dell’O dell’USAV del 13 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
+[^13g-1]: Introdotto dalla cifra I dell’O dell’USAV del 13 nov. 2024 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13h
 
@@ -293,6 +275,14 @@ Le derrate alimentari contenenti le sostanze attive per le quali la modifica del
 Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 2 giugno 2025 stabilisce un livello massimo inferiore possono ancora essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 1° gennaio 2026 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
 
 [^13h-1]: Introdotto dalla cifra I dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
+
+#### Art. 13i
+
+**Disposizione transitoria della modifica del 26 novembre 2025**[^13i-1]
+
+Le derrate alimentari contenenti le sostanze attive per le quali la modifica del 26 novembre 2025 stabilisce un livello massimo inferiore possono ancora essere importate e fabbricate con il livello massimo secondo il diritto anteriore fino al 30 giugno 2026 ed essere consegnate ai consumatori fino a esaurimento delle scorte.
+
+[^13i-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 14
 
@@ -339,8 +329,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dalla cifra II cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), dalla cifra II delle O dell’USAV del 31 mag. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), del 24 nov. 2023 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) e dai cifra II cpv. 1 delle O dell’USAV del 29 mag. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), del 13 nov. 2024 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)) dalla cifra II dell’O dell’USAV del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/388](https://fedlex.data.admin.ch/eli/oc/2025/388) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
+[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 27 mag. 2020 ([RU 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aggiornato dalla cifra I cpv. 1 dell’O dell’USAV del 30 giu. 2021 ([RU 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), dalla cifra II cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), dalla cifra II delle O dell’USAV del 31 mag. 2023 ([RU 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), del 24 nov. 2023 ([RU 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) e dai cifra II cpv. 1 delle O dell’USAV del 29 mag. 2024 ([RU 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), del 13 nov. 2024 ([RU 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), dalla cifra II delle O dell’USAV del 2 giu. 2025 ([RU 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)) e del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/806](https://fedlex.data.admin.ch/eli/oc/2025/806) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 

@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pe
 short: VPRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/de"
 
 (VPRH)
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2025)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 10 Absatz 4 Buchstabe e und 95 Absatz 3 der Verordnung
 
 verordnet:
 
-[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 1. Abschnitt: Gegenstand, Geltungsbereich und Begriffe
 
@@ -73,10 +73,10 @@ In dieser Verordnung bedeuten:
 
 <sup>2</sup> Soweit die Lebensmittelgesetzgebung keine Begriffsbestimmungen enthält, gelten für diese Verordnung die Begriffe des ChemG, der Chemikalienverordnung vom 18. Mai 2005[^2-3], der VBP und der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^2-4] (PSMV).
 
-[^2-1]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^2-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132), [1135](https://fedlex.data.admin.ch/eli/oc/2009/183); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: Chemikalienverordnung vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
-[^2-4]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^2-1]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^2-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^2-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132), [1135](https://fedlex.data.admin.ch/eli/oc/2009/183); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: Chemikalienverordnung vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
+[^2-4]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## 2. Abschnitt: Ermittlung und Festlegung der Rückstandshöchstgehalte
 
@@ -108,8 +108,8 @@ Es berücksichtigt dabei:
 <sup>3</sup> Die Höchstgehalte für Pestizidrückstände sind in Anhang 2 festgelegt.
 
 [^3-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
-[^3-2]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^3-3]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^3-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^3-3]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^3-4]: Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates, ABl. L 70 vom 16.3.2005, S. 1, in der in der EU jeweils verbindlichen Fassung.
 [^3-5]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
 
@@ -119,8 +119,8 @@ Es berücksichtigt dabei:
 
 Wirkstoffe von Pflanzenschutzmitteln, die im Rahmen der PSMV[^4-1] oder der VBP[^4-2] und auf der Basis von Artikel 3 beurteilt worden sind und für die keine Rückstandshöchstgehalte erforderlich sind, sind in Anhang 3 aufgeführt.
 
-[^4-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^4-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^4-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^4-2]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 5
 
@@ -157,8 +157,8 @@ Das Begehren muss enthalten:
 - c. die Angaben nach den Anhängen 5 und 6 PSMV[^7-2] im Rahmen der Datenanforderungen für die Festlegung von Rückstandshöchstgehalten für Pestizide oder nach Artikel 14 VBP[^7-3], einschliesslich der toxikologischen Daten, der Daten über Routineanalysemethoden zur Anwendung in Kontrolllaboratorien und der Daten über den Pflanzen- und Tiermetabolismus.
 
 [^7-1]: Fassung gemäss Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
-[^7-2]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^7-3]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^7-2]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^7-3]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ## 3. Abschnitt: Überschreitung von Rückstandshöchstgehalten
 
@@ -225,67 +225,49 @@ Die Verordnung des EDI vom 26. Juni 1995[^12-1] über Fremd- und Inhaltsstoffe i
 
 Wirkstoffe, die durch das Bundesamt für Landwirtschaft nach der PSMV[^13-1] über das Inverkehrbringen von Pflanzenschutzmitteln bewilligt wurden und für die Rückstandshöchstgehalte festgelegt worden sind, dürfen noch bis zum 30. April 2019 in oder auf Lebensmitteln in Höchstgehalten nach bisherigem Recht nachweisbar sein.
 
-[^13-1]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^13-1]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 13a
 
-**Übergangsbestimmung zur Änderung vom 12. März 2018**[^13a-1]
+[^13a-1]
 
-Lebensmittel, die der Änderung vom 12. März 2018 nicht genügen, dürfen noch bis zum 30. April 2019 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^13a-1]: Eingefügt durch Ziff. I der V des BLV vom 12. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1281](https://fedlex.data.admin.ch/eli/oc/2018/213)).
+[^13a-1]: Eingefügt durch Ziff. I der V des BLV vom 12. März 2018 ([AS 2018 1281](https://fedlex.data.admin.ch/eli/oc/2018/213)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13b
 
-**Übergangsbestimmung zur Änderung vom 27. Mai 2020**[^13b-1]
+[^13b-1]
 
-<sup>1</sup> Lebensmittel, die der Änderung vom 27. Mai 2020 nicht entsprechen, dürfen noch bis zum 30. Juni 2021 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-<sup>2</sup> In Abweichung von Absatz 1 gelten für die Wirkstoffe Buprofezin, Diflubenzuron, und Linuron in oder auf Lebensmitteln noch bis zum 31. Dezember 2020 die Rückstandshöchstgehalte nach bisherigem Recht.
-
-[^13b-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^13b-1]: Eingefügt durch Ziff. I der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13c
 
-**Übergangsbestimmung zur Änderung vom 26. September 2022**[^13c-1]
+[^13c-1]
 
-Lebensmittel, die der Änderung vom 26. September 2022 nicht entsprechen, dürfen noch bis zum 14. April 2023 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^13c-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Oktober 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^13c-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13d
 
-**Übergangsbestimmung zur Änderung vom 31. Mai 2023**[^13d-1]
+[^13d-1]
 
-Lebensmittel, die der Änderung vom 31. Mai 2023 nicht entsprechen, dürfen noch bis zum 1. Januar 2024 nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^13d-1]: Eingefügt durch Ziff. I der V des BLV vom 31. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
+[^13d-1]: Eingefügt durch Ziff. I der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13e
 
-**Übergangsbestimmungen zur Änderung vom 24. November 2023**[^13e-1]
+[^13e-1]
 
-<sup>1</sup> Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 24. November 2023 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 1. Juli 2024 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-<sup>2</sup> In Abweichung von Absatz 1 dürfen Lebensmittel, die die Wirkstoffe Clothianidin und Thiamethoxan enthalten, noch bis zum 7. März 2026 mit dem Höchstgehalt nach bisherigem Recht an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^13e-1]: Eingefügt durch Ziff. I der V des BLV vom 24. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)).
+[^13e-1]: Eingefügt durch Ziff. I der V des BLV vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13f
 
-**Übergangsbestimmung zur Änderung vom 29. Mai 2024**[^13f-1]
+[^13f-1]
 
-Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 29. Mai 2024 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 1. Januar 2025 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^13f-1]: Eingefügt durch Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+[^13f-1]: Eingefügt durch Ziff. I der V des BLV vom 29. Mai 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13g
 
-**Übergangsbestimmung zur Änderung vom 13. November 2024**[^13g-1]
+[^13g-1]
 
-Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 13. November 2024 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 1. Juli 2025 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
-
-[^13g-1]: Eingefügt durch Ziff. I der V des BLV vom 13. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
+[^13g-1]: Eingefügt durch Ziff. I der V des BLV vom 13. Nov. 2024 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13h
 
@@ -293,7 +275,15 @@ Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 13. Novem
 
 Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 2. Juni 2025 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 1. Januar 2026 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
 
-[^13h-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 (AS **202****5** 388).
+[^13h-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
+
+#### Art. 13i
+
+**Übergangsbestimmung zur Änderung vom 26. November 2025**[^13i-1]
+
+Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 26. November 2025 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 30. Juni 2026 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^13i-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 14
 
@@ -340,8 +330,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), Ziff. II Abs. 1 der V des BLV vom 29. Mai 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), vom 13. Nov. 2024 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)) und Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2025/388](https://fedlex.data.admin.ch/eli/oc/2025/388) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), Ziff. II Abs. 1 der V des BLV vom 29. Mai 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), vom 13. Nov. 2024 ([AS 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)) und vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/806](https://fedlex.data.admin.ch/eli/oc/2025/806) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 

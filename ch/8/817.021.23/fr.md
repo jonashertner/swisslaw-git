@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: OPOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20250701/fr"
 
 (OPOVA)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,7 +25,7 @@ vu les art. 10, al. 4, let. e, et 95, al. 3, de l’ordonnance du 16 décembre 2
 
 arrête:
 
-[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Section 1 Objet, champ d’application et définitions
 
@@ -73,10 +73,10 @@ Dans la présente ordonnance, on entend par:
 
 <sup>2</sup> Pour autant que la législation sur les denrées alimentaires n’énonce aucune définition, les définitions utilisées dans la présente ordonnance sont celles définies dans la LChim, l’ordonnance du 18 mai 2005 sur les produits chimiques[^2-3], l’OPBio et l’ordonnance du 12 mai 2010 sur les produits phytosanitaires (OPPh)[^2-4].
 
-[^2-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
-[^2-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 7.2; [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
-[^2-4]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^2-1]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^2-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^2-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 7.2; [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)).
+[^2-4]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 ## Section 2 Détermination et fixation des limites maximales de résidus
 
@@ -107,8 +107,8 @@ Il tient compte:
 
 <sup>3</sup> Les limites maximales pour les résidus de pesticides sont fixées à l’annexe 2.
 
-[^3-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^3-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^3-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^3-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
 [^3-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
 [^3-5]: Règlement (CE) n<sup>o</sup> 396/2005 du Parlement européen et du Conseil du 23 février 2005 concernant les limites maximales applicables aux résidus de pesticides présents dans ou sur les denrées alimentaires et les aliments pour animaux d’origine végétale et animale et modifiant la directive 91/414/CEE du Conseil; JO L 70 du 16.3.2005, p. 1, dans la version en vigueur dans l’UE.
@@ -120,8 +120,8 @@ Il tient compte:
 
 Les substances actives de produits phytosanitaires évaluées dans le cadre de l’OPPh[^4-1] ou de l’OPBio[^4-2] et sur la base de l’art. 3 et pour lesquelles il n’est pas nécessaire de définir une limite maximale de résidus sont mentionnées à l’annexe 3.
 
-[^4-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^4-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^4-2]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 #### Art. 5
 
@@ -158,8 +158,8 @@ La demande doit contenir:
 - c. les informations visées aux annexes 5 et 6 OPPh[^7-2] dans le cadre des prescriptions en matière de données pour l’établissement des limites maximales de résidus pour les pesticides ou selon l’art. 14 OPBio[^7-3], y compris les données toxicologiques, les données relatives aux méthodes analytiques de routine utilisées dans des laboratoires de contrôle et les données concernant le métabolisme des végétaux et des animaux.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
-[^7-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^7-3]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
+[^7-2]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^7-3]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
 
 ## Section 3 Dépassement des limites maximales de résidus
 
@@ -226,67 +226,49 @@ L’ordonnance du DFI du 26 juin 1995 sur les substances étrangères et les com
 
 Les substances actives qui ont été autorisées par l’Office fédéral de l’agriculture conformément à l’OPPh[^13-1] et pour lesquelles des limites maximales de résidus ont été fixées peuvent encore être décelées jusqu’au 30 avril 2019 dans ou sur des denrées alimentaires dans le respect des limites maximales définies selon l’ancien droit.
 
-[^13-1]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
+[^13-1]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 13a
 
-**Disposition transitoire de la modification du 12 mars 2018**[^13a-1]
+[^13a-1]
 
-Les denrées alimentaires non conformes à la modification du 12 mars 2018 de la présente ordonnance peuvent être importées et fabriquées selon l’ancien droit jusqu’au 30 avril 2019. Elles peuvent être remises au consommateur jusqu’à épuisement des stocks.
-
-[^13a-1]: Introduit par le ch. I de l’O de l’OSAV du 12 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1281](https://fedlex.data.admin.ch/eli/oc/2018/213)).
+[^13a-1]: Introduit par le ch. I de l’O de l’OSAV du 12 mars 2018 ([RO 2018 1281](https://fedlex.data.admin.ch/eli/oc/2018/213)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13b
 
-**Disposition transitoire de la modification du 27 mai 2020**[^13b-1]
+[^13b-1]
 
-<sup>1</sup> Les denrées alimentaires non conformes à la modification du 27 mai 2020 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 30 juin 2021 et remises au consommateur jusqu’à épuisement des stocks.
-
-<sup>2</sup> Par dérogation à l’al. 1, les limites maximales de résidus définies dans l’ancien droit pour les substances actives buprofézine, diflubenzuron et linuron utilisées dans ou sur les denrées alimentaires restent encore applicables jusqu’au 31 décembre 2020.
-
-[^13b-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)).
+[^13b-1]: Introduit par le ch. I de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13c
 
-**Disposition transitoire de la modification du 26 septembre 2022**[^13c-1]
+[^13c-1]
 
-Les denrées alimentaires non conformes à la modification du 26 septembre 2022 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 14 avril 2023 et remises au consommateur jusqu’à épuisement des stocks.
-
-[^13c-1]: Introduit par le ch. I de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^13c-1]: Introduit par le ch. I de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13d
 
-**Disposition transitoire de la modification du 31 mai 2023**[^13d-1]
+[^13d-1]
 
-Les denrées alimentaires non conformes à la modification du 31 mai 2023 peuvent encore être importées et fabriquées selon l’ancien droit jusqu’au 1<sup>er</sup> janvier 2024 et remises au consommateur jusqu’à épuisement des stocks.
-
-[^13d-1]: Introduit par le ch. I de l’O de l’OSAV du 31 mai 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)).
+[^13d-1]: Introduit par le ch. I de l’O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13e
 
-**Disposition transitoire de la modification du 24 novembre 2023**[^13e-1]
+[^13e-1]
 
-<sup>1</sup> Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 24 novembre 2023 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 1<sup>er</sup> juillet 2024 et remises au consommateur jusqu’à épuisement des stocks.
-
-<sup>2</sup> Par dérogation à l’al. 1, les denrées alimentaires contenant les substances actives clothianidine et thiaméthoxame peuvent encore être remises aux consommateurs jusqu’au 7 mars 2026, dans le respect des limites maximales définies dans l’ancien droit.
-
-[^13e-1]: Introduit par le ch. I de l’O de l’OSAV du 24 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)).
+[^13e-1]: Introduit par le ch. I de l’O de l’OSAV du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13f
 
-**Disposition transitoire de la modification du 29 mai 2024**[^13f-1]
+[^13f-1]
 
-Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 29 mai 2024 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 1<sup>er</sup> janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
-
-[^13f-1]: Introduit par le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+[^13f-1]: Introduit par le ch. I de l’O de l’OSAV du 29 mai 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13g
 
-**Disposition transitoire de la modification du 13 novembre 2024**[^13g-1]
+[^13g-1]
 
-Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 13 novembre 2024 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 1<sup>er</sup> juillet 2025 et remises au consommateur jusqu’à épuisement des stocks.
-
-[^13g-1]: Introduit par le ch. I de l’O de l’OSAV du 13 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)).
+[^13g-1]: Introduit par le ch. I de l’O de l’OSAV du 13 nov. 2024 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 13h
 
@@ -295,6 +277,14 @@ Les denrées alimentaires contenant des substances actives pour lesquelles une l
 Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 2 juin 2025 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 1<sup>er</sup> janvier 2026 et remises au consommateur jusqu’à épuisement des stocks.
 
 [^13h-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
+
+#### Art. 13i
+
+**Disposition transitoire de la modification du 26 novembre 2025**[^13i-1]
+
+Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 26 novembre 2025 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 30 juin 2026 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^13i-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
 
 #### Art. 14
 
@@ -341,8 +331,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), le ch. II al. 1 des O de l’OSAV du 29 mai 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), du 13 nov. 2024 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)) et le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/388](https://fedlex.data.admin.ch/eli/oc/2025/388) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)), le ch. II al. 1 des O de l’OSAV du 29 mai 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)), du 13 nov. 2024 ([RO 2024 754](https://fedlex.data.admin.ch/eli/oc/2024/754)), le ch. II des O de l’OSAV du 2 juin 2025 ([RO 2025 388](https://fedlex.data.admin.ch/eli/oc/2025/388)) et du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 806](https://fedlex.data.admin.ch/eli/oc/2025/806)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2025/806](https://fedlex.data.admin.ch/eli/oc/2025/806) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 
