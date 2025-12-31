@@ -4,13 +4,12 @@ number: "142.211.1"
 title: "Reglement über die Entschädigung von Inkonvenienzen, Spesen, Pikettdienst und ausserordentliche Arbeitszeit"
 short: REIS
 language: de
-version: 2019-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-08-14
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2016-12-06
 in_force: 2017-04-01
 url: "https://ar.clex.ch/app/de/texts_of_law/142.211.1"
-pdf: "https://ar.clex.ch/api/de/versions/1234/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1595/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1234/pdf_file"
 
 (REIS)
 
-vom 06.12.2016 (Stand 01.01.2019)
+vom 06.12.2016 (Stand 01.01.2026)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -87,7 +86,7 @@ beschliesst:
 
 **Öffentlicher Verkehr**
 
-<sup>1</sup> Für Dienstfahrten mit öffentlichen Verkehrsmitteln werden die effektiven Billettkosten vergütet. Bei häufigen Dienstfahrten werden zudem die jährlichen Kosten für ein Halbtax-Abonnement entschädigt.
+<sup>1</sup> Für Dienstfahrten mit öffentlichen Verkehrsmitteln werden die effektiven Billettkosten vergütet, sofern ein Billettbezug über den Arbeitgeber weder möglich noch zumutbar ist. Bei häufigen Dienstfahrten werden zudem die jährlichen Kosten für ein Halbtax-Abonnement entschädigt.
 
 <sup>2</sup> Den Leiterinnen und Leitern von Organisationseinheiten und deren Stellvertretungen wird ein Billett 1. Klasse vergütet. Reisen andere Angestellte zusammen mit leitenden Angestellten, wird ihnen ebenfalls ein Billett 1. Klasse vergütet.
 
@@ -127,7 +126,11 @@ beschliesst:
 
 **Verpflegung**
 
-<sup>1</sup> Für eine Hauptmahlzeit (Essen und Getränke) werden pauschal Fr. 30.- und für ein einzelnes Frühstück ohne Übernachtung Fr. 8.- vergütet, wenn sie wegen einer dienstlichen Verpflichtung auswärts eingenommen werden müssen.
+<sup>1</sup> Bei einer auswärtigen dienstlichen Verpflichtung werden folgende pauschale Entschädigungen für Mahlzeiten (Essen und Getränke) ausgerichtet:
+
+- a) Fr. 8.- für ein Frühstück, wenn der Arbeitsbeginn vor 6.00 Uhr erfolgt;
+- b) Fr. 30.- für ein Mittagessen;
+- c) Fr. 30.- für ein Abendessen, wenn die Rückkehr nach 20.00 Uhr erfolgt.
 
 <sup>2</sup> In begründeten Ausnahmefällen können höhere Auslagen vergütet werden.
 
@@ -197,8 +200,6 @@ beschliesst:
 
 #### Art. 17
 
-**Entschädigung privater Netzanschlüsse**
-
-<sup>1</sup> Der vorgeschriebene private Netzanschluss, welcher für die dienstliche Nutzung zur Verfügung gestellt werden muss, wird nach Art. 11 entschädigt.
+**…**
 
 Lf. Nr. / Abl. 1327 / 2016, S. 1641
