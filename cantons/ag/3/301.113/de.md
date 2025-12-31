@@ -4,13 +4,12 @@ number: "301.113"
 title: Verordnung zur Umsetzung des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege
 short: V Pflegeausbildung
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-12
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 2024-06-12
 in_force: 2024-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3632/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3905/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3632/pdf_file"
 
 (V Pflegeausbildung)
 
-Vom 12.06.2024 (Stand 01.07.2024)
+Vom 12.06.2024 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -58,7 +57,11 @@ beschliesst:
 - a) die Ausbildung von Berufsbildnerinnen und Berufsbildnern, die zu einem eidgenössisch anerkannten Diplom gemäss Art. 44 Abs. 1 lit. c der Verordnung über die Berufsbildung (Berufsbildungsverordnung, BBV) vom 19. November 2003[^2-1] führen, im Umfang der gesamten Kosten, abzüglich eines bereits bestehenden Kantonsbeitrags von Fr. 100.–,
 - b) die Weiterbildung von Berufsbildnerinnen und Berufsbildnern im Umfang der gesamten Kosten,
 - c) die SVEB 1 Zertifikatsausbildung im Umfang der gesamten Kosten von lit. a,
-- d) Trainings- und Transfertage im Umfang der Hälfte der Kurskosten.
+- d) Trainings- und Transfertage im Umfang der Hälfte der Kurskosten,
+- e) das Mentoringprogramm, das durch einen von diplomierten Pflegefachpersonen begleiteten Nachtdienst, das Angebot eines Sorgentelefons sowie bei Bedarf mit Mentoringstunden im Einzelsetting umgesetzt wird. Die pauschalen Entschädigungen betragen:
+  - 1\. Fr. 300.− pro begleiteten Nachtdienst,
+  - 2\. Fr. 60.− pro Sorgentelefonstunde,
+  - 3\. Fr. 300.− pro Mentoringstunde.
 
 <sup>4</sup> Spitäler (Akutsomatik, Rehabilitation und Psychiatrie) erhalten die Beiträge gemäss Absatz 2 nur für Ausbildungsleistungen, die über die Ausbildungsverpflichtung gemäss den §§ 40b und 40c des Gesundheitsgesetzes (GesG) vom 20. Januar 2009[^2-2] hinausgehen.
 
@@ -118,7 +121,7 @@ beschliesst:
 
 **Gesuch und Verfahren**
 
-<sup>1</sup> Die Antragstellenden reichen das Beitragsgesuch frühestens zwei Monate vor Beginn des Ausbildungsjahrs und spätestens am letzten Tag desjenigen Kalendermonats, der dem Kalendermonat des Beginns des entsprechenden Ausbildungsjahrs vorangeht, beim BKS mit folgenden Beilagen ein:
+<sup>1</sup> Die Antragstellenden reichen das Beitragsgesuch frühestens drei Monate vor und spätestens zwei Monate nach Beginn des Ausbildungsjahrs beim BKS mit folgenden Beilagen ein:
 
 - a) Wohnsitzbestätigung oder Arbeitsbewilligung im Kanton Aargau,
 - b) Nachweis der elterlichen Unterstützungspflichten,
