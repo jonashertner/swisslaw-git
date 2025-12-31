@@ -3,20 +3,20 @@ canton: BL
 number: "143.12"
 title: Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2026-01-01
+valid_until: 2026-05-31
+version_adopted: 2025-10-21
 adopted: 2018-06-26
 in_force: 2018-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/143.12"
-pdf: "https://bl.clex.ch/api/de/versions/4318/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4359/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Volkswirtschafts- und Gesundheitsdirektion
 
-Vom 26.06.2018 (Stand 01.01.2025)
+Vom 26.06.2018 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -269,13 +269,12 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Das AfG gliedert sich neben einem allfälligen Stabsdienst in folgende Abteilungen:
+<sup>1</sup> Das AfG gliedert sich neben einem Stabsdienst in folgende Abteilungen:
 
-- a. Alter;
-- b. Gesundheitsförderung;
+- a. Gesundheitsförderung;
+- b. Gesundheitsversorgung;
 - c. Heilmittel;
-- d. Medizinische Dienste;
-- e. Spitäler und Therapieeinrichtungen.
+- d. Medizinische Dienste.
 
 #### § 24
 
