@@ -3,20 +3,19 @@ canton: BL
 number: "643.11"
 title: Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-17
+version: 2026-01-01
+version_adopted: 2025-12-18
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.11"
-pdf: "https://bl.clex.ch/api/de/versions/4294/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4398/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 
-Vom 13.05.2003 (Stand 01.08.2025)
+Vom 13.05.2003 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -338,7 +337,9 @@ beschliesst:
 
 **Auftrag und Umsetzung**
 
-<sup>1</sup> Die Aufsicht richtet sich nach den §§ 61a und 61b des Bildungsgesetzes vom 6. Juni 2002[^17a-1].
+<sup>1</sup> Die Dienststelle BMH beaufsichtigt die Gymnasien und zieht bei Bedarf Fachexpertinnen und -experten bei.
+
+<sup>1<sup>bis</sup></sup> Die Aufsicht richtet sich nach § 61a und § 61b des Bildungsgesetzes vom 6. Juni 2002[^17a-1].
 
 <sup>2</sup> Die Dienststelle BMH hat im Rahmen der Aufsicht insbesondere folgende Aufgaben:
 
@@ -348,7 +349,7 @@ beschliesst:
 - d. Sie gibt periodisch Audits in Auftrag, die unter Einbezug der Beteiligten vor Ort ein Bild der Qualität der Arbeit an der Schule vermitteln. Sie zieht hierfür aussenstehende Expertinnen und Experten bei und kann Aufträge an Dritte erteilen.
 - e. Sie kann eine vertiefte Analyse in Auftrag geben, wenn die Funktion der Schule in einem oder mehreren Bereichen nicht gegeben oder gefährdet ist oder aber gefährdet sein könnte.
 
-[^17a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^17a-1]: [SGS 640](https://bl.clex.ch/data/640/de/art61a)
 
 #### § 17b
 
@@ -610,7 +611,7 @@ beschliesst:
 
 <sup>2</sup> Die Leitung der Konferenz wird in 4-jährigem Turnus von einer Leiterin oder einem Leiter einer Fachmittelschule wahrgenommen.
 
-<sup>3</sup> Die Leitungskonferenz der Fachmittelschulen berät und unterstützt die Hauptabteilungsleitung Berufs- und Mittelschulen der Dienstelle BMH.
+<sup>3</sup> Die Leitungskonferenz der Fachmittelschulen berät und unterstützt die Hauptabteilungsleitung Berufs- und Mittelschulen der Dienststelle BMH.
 
 <sup>4</sup> Ihre Tätigkeiten richten sich nach den in § 35a vorgesehenen Aufgaben in Bezug auf die Fachmittelschulen, soweit diese nicht der Schulleitungskonferenz Gymnasien zugeordnet sind.
 
@@ -662,7 +663,7 @@ beschliesst:
 
 <sup>2</sup> Sie hat zudem insbesondere folgende Aufgaben:
 
-- a. die Steuerung der Gymnasien, insbesondere die Budgetierung in Zusammenarbeit mit dem Generalsekretariat der BKSD;
+- a. …
 - b. die inhaltliche Verantwortung und Mitwirkung bei der Aus- und Weiterbildung der Schulleitungen;
 - c. die Kontrolle der Einhaltung kantonaler Regelungen;
 - d. die Festlegung des Anmeldetermins für die aus der Sekundarschule eintretenden Schülerinnen und Schüler in Absprache mit dem Amt für Volksschulen;
