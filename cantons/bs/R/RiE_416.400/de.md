@@ -3,13 +3,12 @@ canton: BS
 number: RiE 416.400
 title: Reglement für die Fachkommission zur Förderung von Aktivitäten im Bereich Sport der Gemeinde Riehen
 language: de
-version: 2018-05-01
-valid_until: 2025-12-31
-version_adopted: 2018-04-10
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2003-11-25
 in_force: 2004-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20416.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4413/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6692/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4413/pdf_file"
 
 Sportförderung: Reglement | Riehen: Einwohnergemeinde
 
-Vom 25. November 2003 (Stand 1. Mai 2018)
+Vom 25. November 2003 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen
 
@@ -46,7 +45,11 @@ erlässt, gestützt auf § 26 der Gemeindeordnung der Einwohnergemeinde Riehen v
 
 <sup>2</sup> Das Präsidium wird ex officio vom zuständigen Mitglied des Gemeinderats ausgeübt. Die zuständige Mitarbeiterin oder der zuständige Mitarbeiter der Gemeinde hat das Vizepräsidium ex officio. Sie oder er ist stimmberechtigt.
 
-<sup>3</sup> Die Kommission setzt sich aus mindestens einer Vertretung der Interessengemeinschaft Riehener Sportvereine (IGSR), einer Vertretung des Swisslos-Sportfonds und weiteren Fachpersonen aus dem Bereich Sport zusammen.
+<sup>3</sup> Die weiteren Mitglieder setzen sich wie folgt zusammen:
+
+- a) eine Vertretung der Interessengemeinschaft Riehener Sportvereine (IGRS);
+- b) die delegierte Person der Gemeinde in der Swisslos-Sportfonds-Kommission;
+- c) Fachpersonen aus dem Bereich Sport.
 
 #### § 4
 
@@ -55,6 +58,8 @@ erlässt, gestützt auf § 26 der Gemeindeordnung der Einwohnergemeinde Riehen v
 <sup>1</sup> Die Kommission tritt auf Einladung des Präsidiums so oft zusammen, als es die Geschäfte erfordern, mindestens aber zweimal jährlich (Frühjahr und Herbst).
 
 <sup>2</sup> Sie ist bei Anwesenheit von vier Mitgliedern (inklusive Präsidium) beschlussfähig.
+
+<sup>3</sup> Das Sekretariat wird von der zuständigen Verwaltungsabteilung sichergestellt.
 
 #### § 5
 
