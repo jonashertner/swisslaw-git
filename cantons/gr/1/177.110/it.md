@@ -4,13 +4,12 @@ number: "177.110"
 title: "Ordinanza relativa alla legge sull'amministrazione digitale"
 short: OLADig
 language: it
-version: 2024-04-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-05
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/177.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3363/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3573/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3363/pdf_file"
 
 (OLADig)
 
-del 05.03.2024 (stato 01.04.2024)
+del 05.03.2024 (stato 01.01.2026)
 
 emanata dal Governo il 5 marzo 2024
 
@@ -48,9 +47,10 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - c) responsabilità;
 - d) provvedimenti tecnici e organizzativi per salvaguardare la protezione dei dati e la sicurezza dei dati;
 - e) luogo dell'elaborazione di dati;
-- f) possibilità di comprova e audit;
+- f) controllo dell'adempimento dell'incarico;
 - g) coinvolgimento di terzi;
-- h) rimpatrio e cancellazione dei dati.
+- h) durata del contratto e presupposti per lo scioglimento del contratto nonché le sue conseguenze, in particolare il rimpatrio e la cancellazione dei dati;
+- i) sanzioni previste in caso di violazione degli obblighi.
 
 ## 2. Servizi di base
 

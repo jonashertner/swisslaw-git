@@ -4,13 +4,12 @@ number: "177.110"
 title: Verordnung zum Gesetz über die digitale Verwaltung
 short: VDVG
 language: de
-version: 2024-04-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-05
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/177.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3363/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3573/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3363/pdf_file"
 
 (VDVG)
 
-Vom 05.03.2024 (Stand 01.04.2024)
+Vom 05.03.2024 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -48,9 +47,10 @@ von der Regierung erlassen am 5. März 2024
 - c) Verantwortlichkeiten;
 - d) technische und organisatorische Massnahmen zur Wahrung des Datenschutzes und der Datensicherheit;
 - e) Ort der Datenbearbeitung;
-- f) Nachweismöglichkeit und Audits;
+- f) Kontrolle der Auftragserfüllung;
 - g) Beizug von Dritten;
-- h) Rückführung und Löschung der Daten.
+- h) Vertragsdauer und Voraussetzungen der Vertragsauflösung sowie deren Folgen, insbesondere die Rückführung und Löschung der Daten;
+- i) bei Pflichtverletzung vorgesehene Sanktionen.
 
 ## 2. Basisdienste
 

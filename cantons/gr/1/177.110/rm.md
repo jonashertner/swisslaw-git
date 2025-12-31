@@ -4,13 +4,12 @@ number: "177.110"
 title: "Ordinaziun tar la Lescha davart l'administraziun digitala"
 short: OLAD
 language: rm
-version: 2024-04-01
-valid_until: 2025-12-31
-version_adopted: 2024-03-05
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2024-03-05
 in_force: 2024-04-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/177.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3363/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3573/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3363/pdf_file"
 
 (OLAD)
 
-dals 05-03-2024 (versiun dals 01-04-2024)
+dals 05-03-2024 (versiun dals 01-01-2026)
 
 Sa basond sin l'art. 45 al. 1 da la Constituziun chantunala[^ingress-1]
 
@@ -48,9 +47,10 @@ relaschada da la Regenza ils 5 da mars 2024
 - c) responsabladads;
 - d) mesiras tecnicas ed organisatoricas per mantegnair la protecziun da datas e la segirezza da las datas;
 - e) lieu da l'elavuraziun da datas;
-- f) pussaivladad da cumprova ed audits;
+- f) controlla da l'adempliment da l'incumbensa;
 - g) engaschament da terzas persunas;
-- h) retratga e stizzada da las datas.
+- h) durada dal contract e premissas per schliar il contract sco er las consequenzas respectivas, en spezial la retratga e la stizzada da las datas;
+- i) sancziuns previsas, en cas che las obligaziuns vegnan violadas.
 
 ## 2. Servetschs da basa
 
