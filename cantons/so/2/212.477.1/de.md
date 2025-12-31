@@ -4,13 +4,12 @@ number: "212.477.1"
 title: Verordnung über die amtliche Vermessung
 short: VaV-SO
 language: de
-version: 2013-04-01
-valid_until: 2025-12-31
-version_adopted: 2012-12-18
+version: 2026-01-01
+version_adopted: 2025-04-29
 adopted: 2012-12-18
 in_force: 2013-04-01
 url: "https://bgs.so.ch/app/de/texts_of_law/212.477.1"
-pdf: "https://bgs.so.ch/api/de/versions/4168/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +18,15 @@ pdf: "https://bgs.so.ch/api/de/versions/4168/pdf_file"
 
 (VaV-SO)
 
-Vom 18.12.2012 (Stand 01.04.2013)
+Vom 18.12.2012 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
-gestützt auf das Bundesgesetz über Geoinformation (Geoinformationsgesetz, GeoIG) vom 5. Oktober 2007[^ingress-1], die Verordnung des Bundesrates über die amtliche Vermessung (VAV) vom 18. November 1992[^ingress-2], die Verordnung des Bundesrates über Geoinformation (Geoinformationsverordnung, GeoIV) vom 21. Mai 2008[^ingress-3], die Verordnung des Bundesrates über die geografischen Namen (GeoNV) vom 21. Mai 2008[^ingress-4] sowie auf §§ 250 und 266 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) vom 4. April 1954[^ingress-5]
+gestützt auf §§ 250 Absatz 3 und 266 Absatz 2 des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB) vom 4. April 1954[^ingress-1]
 
 beschliesst:
 
-[^ingress-1]: SR [510.62](https://db.clex.ch/link/Bund/510.62/de).
-[^ingress-2]: SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
-[^ingress-3]: SR [510.620](https://db.clex.ch/link/Bund/510.620/de).
-[^ingress-4]: SR [510.625](https://db.clex.ch/link/Bund/510.625/de).
-[^ingress-5]: BGS [211.1](https://bgs.so.ch/data/211.1/de).
+[^ingress-1]: BGS [211.1](https://bgs.so.ch/data/211.1/de).
 
 ## 1. Allgemeine Bestimmungen
 
@@ -47,11 +42,11 @@ beschliesst:
 
 **Fixpunkte Kategorie 2**
 
-<sup>1</sup> Das Amt für Geoinformation ist zuständig für die Verwaltung und Nachführung der Fixpunkte Kategorie 2
+<sup>1</sup> Das Amt für Geoinformation ist zuständig für die Verwaltung und Nachführung der Fixpunkte Kategorie 2.
 
-<sup>2</sup> Die Fixpunkte Kategorie 2 sind zu erhalten und auf Begehren des Amtes für Geoinformation im Grundbuch anzumerken.
+<sup>2</sup> Die Fixpunkte Kategorie 2 sind zu erhalten.
 
-<sup>3</sup> Vor der Ausführung von Arbeiten in der Forst- und Landwirtschaft, durch welche Fixpunktzeichen Kategorie 2 beseitigt oder beschädigt werden könnten, ist das Amt für Geoinformation zu benachrichtigen. Es trifft die nötigen Vorkehren.
+<sup>3</sup> Vor der Ausführung von Arbeiten im Strassenareal oder in der Forst- und Landwirtschaft, durch welche Fixpunktzeichen Kategorie 2 beseitigt oder beschädigt werden könnten, ist das Amt für Geoinformation zu benachrichtigen. Es trifft die nötigen Vorkehren.
 
 <sup>4</sup> Die Errichtung eines neuen Fixpunktzeichens ist den betroffenen Grundeigentümern oder Grundeigentümerinnen unter Hinweis auf § 266 EG ZGB anzuzeigen.
 
@@ -61,6 +56,14 @@ beschliesst:
 
 <sup>1</sup> Der Nachführungsgeometer oder die Nachführungsgeometerin hält die Fixpunkte Kategorie 3 instand.
 
+<sup>2</sup> Die Lagefixpunkte Kategorie 3 innerhalb des überbauten Gebietes haben immer eine Höhenangabe aufzuweisen.
+
+<sup>3</sup> Im überbauten Gebiet kann der durchschnittliche Punktabstand der Toleranzstufe 1 angewendet werden.
+
+<sup>4</sup> Ausserhalb des überbauten Gebietes werden, ausser bei nachgewiesener Notwendigkeit im Wald, keine neuen Lagefixpunkte Kategorie 3 erstellt und bestehende werden nicht mehr ersetzt.
+
+<sup>5</sup> Die Gemeinden können Höhenfixpunkte Kategorie 3 erstellen lassen.
+
 #### § 4
 
 **Vermarkung**
@@ -69,7 +72,7 @@ beschliesst:
 
 <sup>2</sup> Der Verursacher oder die Verursacherin und der Grundeigentümer oder die Grundeigentümerin müssen dem Nachführungsgeometer oder der Nachführungsgeometerin Beschädigungen, Versetzungen oder das Entfernen von Grenzzeichen melden.
 
-<sup>3</sup> Das Amt für Geoinformation sorgt für die Verwaltung und Nachführung der besonderen Landes- und Kantonsgrenzzeichen. Die besonderen Gemeindehoheitszeichen werden von den Gemeinden unterhalten.
+<sup>3</sup> Das Amt für Geoinformation sorgt für den Unterhalt der besonderen Landes- und Kantonsgrenzzeichen. Die besonderen Gemeindegrenzzeichen werden von den Gemeinden unterhalten.
 
 #### § 5
 
@@ -98,9 +101,7 @@ beschliesst:
 
 #### § 8
 
-**Gegenstand der laufenden Nachführung**
-
-<sup>1</sup> Die Bestandteile der amtlichen Vermessung, für deren Nachführung ein Meldewesen organisiert ist, sind laufend nachzuführen.
+**…**
 
 #### § 9
 
@@ -109,26 +110,28 @@ beschliesst:
 <sup>1</sup> Dem Nachführungsgeometer oder der Nachführungsgeometerin werden folgende Daten übermittelt:
 
 - a) durch die Amtschreibereien:
-  - 1\. im Grundbuch eingetragene Grenzänderungen, Teilungen, Vereinigungen und Neueröffnung von flächenmässig ausgeschiedenen Grundstücken;
-  - 2\. im Grundbuch eingetragene Handänderungen von Grundstücken in Gebieten von Landumlegungen;
+  - 1\. im Grundbuch eingetragene Grenzänderungen, Teilungen, Vereinigungen, Neueröffnung, Untergang und Heimfall von flächenmässig ausgeschiedenen Grundstücken;
+  - 2\. …
   - 3\. Grundbuchmutationen, die nach einer Frist von 11 Monaten nach Eingang der Mutationsurkunde und einer Mahnung unter Hinweis auf die Kostenfolgen einer Rückmutation, nicht verurkundet wurden.
 - b) durch die Baubewilligungsbehörden: rechtskräftig erteilte sowie wegen Nichtbenutzung verfallene Bau- und Abbruchbewilligungen innerhalb von 2 Wochen.
 - c) durch die Gemeinden: Änderungen von Gemeinde- und Ortschaftsnamen, Änderungen von Lokalisationen, Hausnummern, sowie Änderungen von Eidgenössischen Gebäudeidentifikatoren (EGID) oder Eingangsidentifikatoren (EDID).
 - d) durch die Solothurnische Gebäudeversicherung: projektierte Neubauten, eingeschätzte Neubauten sowie Änderungen im Grundriss von versicherten Bauten.
 
-<sup>2</sup> Der Nachführungsgeometer oder die Nachführungsgeometerin liefert der Amtschreiberei, die von ihm oder ihr unterzeichneten Mutationspläne mit Mutationstabellen für Grenzänderungen, Vereinigungen, Teilungen Löschungen und die Neueröffnung von flächenmässig ausgeschiedenen Grundstücken
+<sup>2</sup> …
 
 #### § 10
 
 **Arbeitsausführung**
 
-<sup>1</sup> Erhält der Nachführungsgeometer oder die Nachführungsgeometerin Kenntnis von Änderungen, welche die Nachführung der amtlichen Vermessung zur Folge haben, führt er oder sie diese von Amtes wegen nach.
+<sup>1</sup> Erhält der Nachführungsgeometer oder die Nachführungsgeometerin Kenntnis von Änderungen, welche eine Nachführung der amtlichen Vermessung zur Folge haben, führt er oder sie diese von Amtes wegen nach.
 
 <sup>2</sup> Der Nachführungsgeometer oder die Nachführungsgeometerin hat Aufträge für Änderungen im Vermessungswerk innert folgender Fristen zu bearbeiten:
 
 - a) Grenzmutationen: Lieferung des Mutationsplanes und Mutationstabelle so schnell wie möglich; Eintrag der rechtsgültigen Mutation innert Wochenfrist nach Eingang der Meldung der Amtschreiberei beim Nachführungsgeometer oder bei der Nachführungsgeometerin;
 - b) Eintrag projektierter Gebäude: innert 2 Wochen nach Eingang der Meldung beim Nachführungsgeometer oder bei der Nachführungsgeometerin;
-- c) Gebäudemutationen und Änderungen in anderen Informationsebenen: innert 6 Monaten nach Eingang der Meldung beim Nachführungsgeometer oder bei der Nachführungsgeometerin.
+- c) Gebäudemutationen und Änderungen in anderen Modulen: innert 6 Monaten nach Eingang der Meldung beim Nachführungsgeometer oder bei der Nachführungsgeometerin.
+
+<sup>3</sup> Der Nachführungsgeometer oder die Nachführungsgeometerin liefert der Amtschreiberei die von ihm oder ihr unterzeichneten Mutationspläne mit Mutationstabellen für Grenzänderungen, Vereinigungen, Teilungen Löschungen und die Neueröffnung von flächenmässig ausgeschiedenen Grundstücken.
 
 #### § 11
 
@@ -165,21 +168,21 @@ beschliesst:
 
 <sup>1</sup> Werden Änderungen, für die eine Mutationsurkunde erstellt worden ist, nicht innert 11 Monaten verurkundet, erlässt die Amtschreiberei eine Mahnung, in der sie die Rückmutation unter Hinweis auf die Kostenfolge androht. Die Frist von 11 Monaten beginnt, wenn die Mutationsurkunde bei der Amtschreiberei eingeht.
 
-<sup>2</sup> Bleibt die Mahnung innerhalb eines Monats unbeachtet, erstattet die Amtschreiberei dem Nachführungsgeometer oder der Nachführungsgeometerin Meldung. Diese oder diese macht die Mutation auf Kosten des Auftraggebers oder der Auftraggeberin rückgängig.
+<sup>2</sup> Bleibt die Mahnung innerhalb eines Monats unbeachtet, erstattet die Amtschreiberei dem Nachführungsgeometer oder der Nachführungsgeometerin Meldung. Dieser oder diese macht die Mutation auf Kosten des Auftraggebers oder der Auftraggeberin rückgängig.
 
 #### § 14
 
-**Behebung von Fehlern und Widersprüchen in der Informationsebene Liegenschaften**
+**Behebung von Fehlern und Widersprüchen bei den Grundstücken**
 
-<sup>1</sup> Fehler und Widersprüche in der Informationsebene Liegenschaften sind nach Bekanntwerden von Amtes wegen durch den Nachführungsgeometer oder die Nachführungsgeometerin zu beheben.
+<sup>1</sup> Fehler und Widersprüche bei den Grundstücken sind nach Bekanntwerden von Amtes wegen durch den Nachführungsgeometer oder die Nachführungsgeometerin zu beheben.
 
 <sup>2</sup> Bei Widersprüchen zwischen der amtlichen Vermessung und der Wirklichkeit erstellt der Nachführungsgeometer oder die Nachführungsgeometerin einen Berichtigungsplan.
 
 #### § 15
 
-**Fehler in den übrigen Informationsebenen**
+**Fehler in anderen Modulen**
 
-<sup>1</sup> Fehler in den übrigen Informationsebenen werden im Rahmen der laufenden Nachführung oder anlässlich der periodischen Nachführung behoben.
+<sup>1</sup> Fehler in den anderen Modulen werden im Rahmen der laufenden Nachführung oder anlässlich der periodischen Nachführung behoben.
 
 ### 2.3. Periodische Nachführung der amtlichen Vermessung
 
@@ -217,11 +220,11 @@ beschliesst:
 
 #### § 20
 
-**Gebühren (Art. 15 GeoIG, Art. 38 VAV)**
+**Gebühren (Art. 15 GeoIG, Art. 37 VAV)**
 
-<sup>1</sup> Die Abgabe von Auszügen, Auswertungen und Daten der amtlichen Vermessung erfolgt gegen Entgelt für den bei der Aufbereitung anfallenden Aufwand.
+<sup>1</sup> Die Abgabe von Auszügen, Auswertungen und Daten der amtlichen Vermessung sowie Beglaubigungen erfolgt gegen Entgelt für den bei der Bearbeitung anfallenden Aufwand.
 
-<sup>2</sup> Für die Beglaubigung wird zusätzlich eine vom Bund festgelegte Gebühr erhoben.
+<sup>2</sup> …
 
 <sup>3</sup> Im übrigen sind Zugang, Nutzung und Weitergabe der Daten der amtlichen Vermessung gebührenfrei.
 
@@ -231,17 +234,23 @@ beschliesst:
 
 **Amt für Geoinformation**
 
-<sup>1</sup> Das Amt für Geoinformation übt die kantonale Vermessungsaufsicht (Art. 42 VAV) aus. Es ist die zuständige Fachstelle des Kantons für alle Belange der amtlichen Vermessung.
+<sup>1</sup> Das Amt für Geoinformation übt die kantonale Vermessungsaufsicht (Art. 42 Verordnung über die amtliche Vermessung (VAV) vom 18. November 1992[^21-1]) aus. Es ist die zuständige Fachstelle des Kantons für alle Belange der amtlichen Vermessung.
 
 <sup>2</sup> Es leitet, überwacht und verifiziert die Arbeiten der amtlichen Vermessung.
 
 <sup>3</sup> Es sorgt für die Koordination der amtlichen Vermessung mit anderen Vermessungsvorhaben und Geoinformationssystemen.
 
+<sup>4</sup> Es ist insbesondere zuständig für die Nachführung der Daten der Module Rohrleitung, dauernde Bodenverschiebung und Toleranzstufen.
+
+<sup>5</sup> Es kann für die periodische Überprüfung der Informationssicherheit bei den nachführenden Stellen Dritte beiziehen.
+
+[^21-1]: SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
+
 #### § 22
 
 **Übertragung der Nachführungs- und Erneuerungsarbeiten**
 
-<sup>1</sup> Der Regierungsrat unterteilt das Kantonsgebiet in Nachführungskreise.
+<sup>1</sup> Nachführungskreise für die amtliche Vermessung sind die Bezirke; das Gebiet von Grenchen und Bettlach bildet einen eigenen Nachführungskreis.
 
 <sup>2</sup> Er überträgt die laufende Nachführung der amtlichen Vermessung nach öffentlicher Ausschreibung patentierten und im Geometerregister eingetragenen Ingenieur-Geometerinnen und Ingenieur-Geometern (Nachführungsgeometer bzw. Nachführungsgeometerin).
 
@@ -253,17 +262,19 @@ beschliesst:
 
 **Aufgaben der Nachführungsgeometerin oder des Nachführungsgeometers**
 
-<sup>1</sup> Dem Nachführungsgeometer bzw. der Nachführungsgeometerin obliegt die laufende Nachführung der amtlichen Vermessung.
+<sup>1</sup> Dem Nachführungsgeometer beziehungsweise der Nachführungsgeometerin obliegt die laufende Nachführung der amtlichen Vermessung derjenigen Module, die nicht durch den Bund oder den Kanton selber nachgeführt werden.
 
-<sup>2</sup> Er oder sie ist für den originalen und massgeblichen Bestand der amtlichen Vermessung zuständig.
+<sup>2</sup> Er oder sie ist für den originalen und massgeblichen Bestand derjenigen Module der amtlichen Vermessung, die nicht durch den Bund oder den Kanton selber nachgeführt werden, zuständig.
 
 <sup>3</sup> Er oder sie ist Vermessungsbehörde in seinem beziehungsweise ihrem Nachführungskreis.
+
+<sup>4</sup> Der Nachführungsgeometer beziehungsweise die Nachführungsgeometerin, ihre Stellvertretung sowie der Kantonsgeometer beziehungsweise die Kantonsgeometerin sind ermächtigt, die Mutationsurkunden zu unterzeichnen und beglaubigte Auszüge nach Artikel 37 VAV zu erstellen.
 
 #### § 24
 
 **Gemeinden (Art. 8 Abs. 2, 21 Abs. 1, 26 Abs. 2 GeoNV)**
 
-<sup>1</sup> Die Einwohnergemeinden sind zuständig für die geografischen Namen der amtlichen Vermessung, Namen der Informationsebene Nomenklatur, der Gewässer, von Ortschaften und Strassen sowie für die Gebäudeadressierung.
+<sup>1</sup> Die Gemeinden sind zuständig für die geografischen Namen der amtlichen Vermessung, Namen der Nomenklatur, der Gewässer, von Ortschaften und Strassen sowie für die Gebäudeadressierung.
 
 #### § 25
 
@@ -273,9 +284,11 @@ beschliesst:
 
 <sup>2</sup> Sie kann Gewährspersonen aus der betroffenen Gemeinde oder Region zur Auskunftserteilung beiziehen.
 
-<sup>3</sup> Die Nomenklaturkommission überprüft die Namen der Informationsebene Nomenklatur und der Gewässer beim Erheben und Nachführen auf ihre sprachliche Richtigkeit und Übereinstimmung mit den Vollzugsregelungen nach Artikel 6 GeoNV und teilt der Gemeinde ihre Empfehlungen mit.
+<sup>3</sup> Die Nomenklaturkommission überprüft die Namen der Nomenklatur und der Gewässer beim Erheben und Nachführen auf ihre sprachliche Richtigkeit und Übereinstimmung mit den Vollzugsregelungen nach Artikel 6 der Verordnung des Bundesrates über die geografischen Namen (GeoNV) vom 21. Mai 2008[^25-1] und teilt der Gemeinde ihre Empfehlungen mit.
 
 <sup>4</sup> Will die Gemeinde den Empfehlungen der Nomenklaturkommission nicht folgen, so holt sie dazu eine Stellungnahme der Eidgenössischen Vermessungsdirektion ein (Art. 9 Abs. 4 GeoNV)
+
+[^25-1]: SR [510.625](https://db.clex.ch/link/Bund/510.625/de).
 
 #### § 26
 
@@ -307,7 +320,7 @@ beschliesst:
 
 #### § 29
 
-**Unterhalt Vermessungsfixpunkte**
+**Unterhalt Fixpunkte**
 
 <sup>1</sup> Die Kosten für den Unterhalt der Lagefixpunkte 3 gehen zu Lasten der Verursacher oder falls diese nicht feststellbar sind, des Kantons.
 
@@ -335,29 +348,29 @@ beschliesst:
 
 <sup>2</sup> Das Amt für Geoinformation prüft von sich aus oder auf Verlangen die Nachführungsrechnungen.
 
-### 4.3. Erneuerung und periodische Nachführung
+### 4.3. Ersterhebung, Erneuerung und periodische Nachführung
 
 #### § 32
 
 **Kostentragung durch den Kanton**
 
-<sup>1</sup> Die nach Abzug des Bundesbeitrages verbleibenden Kosten der Erneuerung und der periodischen Nachführung mit Einschluss der Kosten der Grenzfeststellung und der Verfahren trägt der Kanton.
+<sup>1</sup> Die nach Abzug des Bundesbeitrages verbleibenden Kosten der Ersterhebung, der Erneuerung, der periodischen Nachführung und der Verfahren trägt der Kanton.
 
 ## 5. Verfahren
 
-### 5.1. Erneuerung, periodische Nachführung sowie Behebung von Fehlern und Widersprüchen
+### 5.1. Ersterhebung, Erneuerung, periodische Nachführung sowie Behebung von Fehlern und Widersprüchen
 
 #### § 33
 
 **Auflage (Art. 28 Abs. 1 VaV)**
 
-<sup>1</sup> Nach Abschluss einer Erneuerung sowie bei der Behebung von Fehlern und Widersprüchen, bei denen Grundeigentümerinnen und Grundeigentümer in ihren dinglichen Rechten berührt sind (Bearbeitung der Informationsebene Liegenschaften), legt die Nachführungsgeometerin oder der Nachführungsgeometer den Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus dem Grunddatensatz während 30 Tagen öffentlich auf.
+<sup>1</sup> Nach Abschluss einer Ersterhebung, einer Erneuerung sowie bei der Behebung von Fehlern und Widersprüchen, bei denen Grundeigentümerinnen und Grundeigentümer in ihren dinglichen Rechten berührt sind (Bearbeitung der Grundstücke), legt die Nachführungsgeometerin oder der Nachführungsgeometer den Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus den Daten der amtlichen Vermessung während 30 Tagen öffentlich auf.
 
 <sup>2</sup> Der Nachführungsgeometer oder die Nachführungsgeometerin steht während der Dauer der Auflage auf Vereinbarung hin für erläuternde Auskünfte zur Verfügung.
 
 <sup>3</sup> Beginn, Ort und Dauer der Auflage sind im Publikationsorgan der Gemeinde zu veröffentlichen.
 
-<sup>4</sup> Auf die Durchführung der öffentlichen Auflage kann verzichtet werden, wenn alle betroffenen Grundeigentümerinnen und Grundeigentümer sowie allfällige weitere an den Grundstücken dinglich berechtigten Personen der Erneuerung oder Behebung von Fehlern und Widersprüchen schriftlich zustimmen.
+<sup>4</sup> Auf die Durchführung der öffentlichen Auflage kann verzichtet werden, wenn alle betroffenen Grundeigentümerinnen und Grundeigentümer sowie allfällige weitere an den Grundstücken dinglich berechtigten Personen der Ersterhebung, der Erneuerung oder Behebung von Fehlern und Widersprüchen schriftlich zustimmen.
 
 #### § 34
 
@@ -390,11 +403,11 @@ beschliesst:
 
 #### § 37
 
-**Genehmigung und Anerkennung der Erneuerung und der periodischen Nachführung der amtlichen Vermessung**
+**Genehmigung und Anerkennung der Ersterhebung, der Erneuerung und der periodischen Nachführung der amtlichen Vermessung**
 
 <sup>1</sup> Gestützt auf den Verifikationsbericht des Amtes für Geoinformation und auf den Bericht der Nachführungsgeometerin oder des Nachführungsgeometers über die Planauflage und über die Erledigung der Einsprachen genehmigt das Bau- und Justizdepartement das erneuerte Vermessungswerk und entscheidet über Beschwerden.
 
-<sup>2</sup> Mit der Genehmigung erhalten der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus dem Grunddatensatz die Eigenschaft öffentlicher Urkunden.
+<sup>2</sup> Mit der Genehmigung erhalten der Plan für das Grundbuch und die weiteren zum Zwecke der Grundbuchführung erstellten Auszüge aus den Daten der amtlichen Vermessung die Eigenschaft öffentlicher Urkunden.
 
 <sup>3</sup> Sind die Grundeigentümer und Grundeigentümerinnen in ihren dinglichen Rechten nicht berührt, wird das Vermessungswerk durch das Amt für Geoinformation genehmigt.
 
@@ -419,6 +432,8 @@ beschliesst:
 **Übergangsbestimmungen**
 
 <sup>1</sup> Ersterhebungen gemäss Artikel 18 Absatz 1 VAV[^39-1], welche zum Zeitpunkt der Inkraftsetzung dieser Verordnung noch nicht rechtskräftig sind, werden nach den Bestimmungen der kantonalen Verordnung über die amtliche Vermessung vom 27.09.1994[^39-2] vollendet.
+
+<sup>2</sup> Daten der amtlichen Vermessung, die mit Inkrafttreten dieser Verordnung noch im Datenmodell DM01 vorliegen, werden bis zu ihrem Datenmodellwechsel nach bisherigem Recht nachgeführt.
 
 [^39-1]: SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de).
 [^39-2]: GS 93, 247 (BGS 212.477.1).
