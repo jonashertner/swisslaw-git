@@ -4,13 +4,12 @@ number: "823.111"
 title: Verordnung zur Reinhaltung der Luft
 short: "Lufthygieneverordnung, LHV"
 language: de
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-22
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 2023-11-22
 in_force: 2025-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/823.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2953/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2953/pdf_file"
 
 (Lufthygieneverordnung, LHV)
 
-vom 22.11.2023 (Stand 01.04.2025)
+vom 22.11.2023 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -292,21 +291,25 @@ beschliesst:
 
 **Ausbildungsmodule**
 
-<sup>1</sup> Die Ausbildungsmodule entsprechen der Prüfungsordnung vom 12. September 2012 über die Berufsprüfung für Feuerungskontrolleurinnen und Feuerungskontrolleure[^A11-1] der Trägerschaft gemäss Ziffer 1.2 dieser Prüfungsordnung.
+<sup>1</sup> Die Ausbildungsmodule entsprechen
+
+- a der Prüfungsordnung vom 12. September 2012 über die Berufsprüfung für Feuerungskontrolleurinnen und Feuerungskontrolleure (Prüfungsordnung 2012)[^A11-1] oder
+- b der Prüfungsordnung vom 9. Dezember 2024 über die Berufsprüfung für Feuerungskontrolleurin/ Feuerungskontrolleur in den Fachrichtungen Holz sowie Öl und Gas (Prüfungsordnung 2026)[^A11-2].
 
 <sup>2</sup>
 
 <table>
-<tr><th>Person</th><th>Kategorie</th><th>Ausbildungsmodule</th></tr>
-<tr><td>Verantwortliche Messperson</td><td>Feuerungsanlagen mit Heizöl «Extra leicht» und Gas mit einer Feuerungswärmeleistung bis zu einem Megawatt</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2 und die modulübergreifende Abschlussprüfung</td></tr>
-<tr><td>Verantwortliche Messperson</td><td>Holzfeuerungen bis 70 Kilowatt Feuerungswärmeleistung</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2, AT3, MT3, AB3 und die modulübergreifende Abschlussprüfung</td></tr>
-<tr><td>Weitere Messpersonen</td><td>Feuerungsanlagen mit Heizöl «Extra leicht» und Gas mit einer Feuerungswärmeleistung bis zu einem Megawatt</td><td>AT1, MT1 und MT2</td></tr>
-<tr><td>Weitere Messpersonen</td><td>Holzfeuerungen bis 70 Kilowatt Feuerungswärmeleistung</td><td>AT3, MT3 und VK1</td></tr>
-<tr><td>Konzessionierte Kaminfegerinnen und Kaminfeger gemäss Artikel 10 Absatz 2 des Feuerschutz- und Feuerwehrgesetz vom 20. Januar 1994 (FFG)[^A11-2]</td><td>Nichtmesspflichtige Feuerungsanlagen mit festen Brennstoffen</td><td>VK1</td></tr>
+<tr><th>Person</th><th>Kategorie</th><th>Ausbildungsmodule gemäss Prüfungsordnung 2012</th><th>Ausbildungsmodule gemäss Prüfungsordnung 2026</th></tr>
+<tr><td>Verantwortliche Messperson</td><td>Feuerungsanlagen mit Heizöl «Extra leicht» und Gas mit einer Feuerungswärmeleistung bis zu einem Megawatt</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2 und die modulübergreifende Abschlussprüfung</td><td>BP1, BP2, BP3, OG1 und die modulübergreifende Abschlussprüfung</td></tr>
+<tr><td>Verantwortliche Messperson</td><td>Holzfeuerungen bis 70 Kilowatt Feuerungswärmeleistung</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2, AT3, MT3, AB3 und die modulübergreifende Abschlussprüfung</td><td>BP1, BP2, BP3, H1 und die modulübergreifende Abschlussprüfung</td></tr>
+<tr><td>Weitere Messpersonen</td><td>Feuerungsanlagen mit Heizöl «Extra leicht» und Gas mit einer Feuerungswärmeleistung bis zu einem Megawatt</td><td>AT1, MT1 und MT2</td><td>BP1 und OG1</td></tr>
+<tr><td>Weitere Messpersonen</td><td>Holzfeuerungen bis 70 Kilowatt Feuerungswärmeleistung</td><td>AT3, MT3 und VK1</td><td>BP1, H1 und H2</td></tr>
+<tr><td>Konzessionierte Kaminfegerinnen und Kaminfeger gemäss Artikel 10 Absatz 2 des Feuerschutz- und Feuerwehrgesetzes vom 20. Januar 1994 (FFG)[^A11-3]</td><td>Nichtmesspflichtige Feuerungsanlagen mit festen Brennstoffen</td><td>VK1</td><td>H2</td></tr>
 </table>
 
-[^A11-1]: [https://www.kaminfeger.ch/files/dokumente/downloads/po-feuerungskontrolleur-2012.pdf](https://www.kaminfeger.ch/files/dokumente/downloads/po-feuerungskontrolleur-2012.pdf)
-[^A11-2]: BSG [871.11](https://www.belex.sites.be.ch/data/871.11/de)
+[^A11-1]: [https://www.becc.admin.ch/becc/public/bvz/beruf/download/2798](https://www.becc.admin.ch/becc/public/bvz/beruf/download/2798)
+[^A11-2]: [https://www.becc.admin.ch/becc/public/bvz/beruf/download/15465](https://www.becc.admin.ch/becc/public/bvz/beruf/download/15465)
+[^A11-3]: BSG [871.11](https://www.belex.sites.be.ch/data/871.11/de)
 
 Bern, 22. November 2023
 

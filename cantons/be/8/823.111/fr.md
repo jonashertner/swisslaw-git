@@ -4,13 +4,12 @@ number: "823.111"
 title: "Ordonnance cantonale sur la protection de l'air"
 short: OCPAir
 language: fr
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-22
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 2023-11-22
 in_force: 2025-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/823.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2953/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3248/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2953/pdf_file"
 
 (OCPAir)
 
-du 22.11.2023 (état au 01.04.2025)
+du 22.11.2023 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -292,21 +291,25 @@ arrête:
 
 **Modules de formation**
 
-<sup>1</sup> Les modules de formation correspondent aux dispositions du règlement du 12 septembre 2012[^A11-1] concernant l’examen professionnel de contrôleuse et contrôleur de combustion.
+<sup>1</sup> Les modules de formation correspondent aux dispositions
+
+- a du règlement du 12 septembre 2012[^A11-1] (règlement d'examen 2012) concernant l’examen professionnel de contrôleuse et contrôleur de combustion ou
+- b du règlement du 9 décembre 2024[^A11-2] (règlement d'examen 2026) concernant l’examen professionnel de contrôleuse de combustion/contrôleur de combustion (orientation bois et orientation huile et gaz).
 
 <sup>2</sup>
 
 <table>
-<tr><th>Personne</th><th>Catégorie</th><th>Modules de formation</th></tr>
-<tr><td>Personne responsable des mesures</td><td>Installations de combustion à l’huile «extra-légère» ou au gaz d'une puissance calorifique maximale d'un mégawatt</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2 et examen final englobant plusieurs modules</td></tr>
-<tr><td>Personne responsable des mesures</td><td>Installations de combustion alimentées au bois d’une puissance calorifique maximale de 70 kilowatt</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2, AT3, MT3, AB3 et examen final englobant plusieurs modules</td></tr>
-<tr><td>Autre personne effectuant des mesures</td><td>Installations de combustion à l’huile «extra-légère» ou au gaz d'une puissance calorifique maximale d'un mégawatt</td><td>AT1, MT1 et MT2</td></tr>
-<tr><td>Autre personne effectuant des mesures</td><td>Installations de combustion alimentées au bois d’une puissance calorifique maximale de 70 kilowatt</td><td>AT3, MT3 et VK1</td></tr>
-<tr><td>Ramoneuses et ramoneurs concessionnaires selon l'article 10, alinéa 2 de la loi du 20 janvier 1994 sur la protection contre le feu et sur les sapeurs-pompiers (LPFSP)[^A11-2]</td><td>Installations de combustion alimentées en combustibles solides qui ne sont pas soumises à l'obligation de mesure</td><td>VK1</td></tr>
+<tr><th>Personne</th><th>Catégorie</th><th>Modules de formation conformément au règlement d’examen 2012</th><th>Modules de formation conformément au règlement d’examen 2026</th></tr>
+<tr><td>Personne responsable des mesures</td><td>Installations de combustion à l’huile «extra-légère» ou au gaz d'une puissance calorifique maximale d'un mégawatt</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2 et examen final englobant plusieurs modules</td><td>BP1, BP2, BP3, OG1 et examen final englobant plusieurs modules</td></tr>
+<tr><td>Personne responsable des mesures</td><td>Installations de combustion alimentées au bois d’une puissance calorifique maximale de 70 kilowatt</td><td>AT1, MT1, MT2, BV1, AB1, AB2, LZ1, LZ2, AT3, MT3, AB3 et examen final englobant plusieurs modules</td><td>BP1, BP2, BP3, H1 et examen final englobant plusieurs modules</td></tr>
+<tr><td>Autre personne effectuant des mesures</td><td>Installations de combustion à l’huile «extra-légère» ou au gaz d'une puissance calorifique maximale d'un mégawatt</td><td>AT1, MT1 et MT2</td><td>BP1 et OG1</td></tr>
+<tr><td>Autre personne effectuant des mesures</td><td>Installations de combustion alimentées au bois d’une puissance calorifique maximale de 70 kilowatt</td><td>AT3, MT3 et VK1</td><td>BP1, H1 et H2</td></tr>
+<tr><td>Ramoneuses et ramoneurs concessionnaires selon l'article 10, alinéa 2 de la loi du 20 janvier 1994 sur la protection contre le feu et sur les sapeurs-pompiers (LPFSP)[^A11-3]</td><td>Installations de combustion alimentées en combustibles solides qui ne sont pas soumises à l'obligation de mesure</td><td>VK1</td><td>H2</td></tr>
 </table>
 
-[^A11-1]: [https://www.kaminfeger.ch/files/dokumente/downloads/po\_controlleur\_de\_combustion\_2012\_f.pdf](https://www.kaminfeger.ch/files/dokumente/downloads/po_controlleur_de_combustion_2012_f.pdf)
-[^A11-2]: RSB [871.11](https://www.belex.sites.be.ch/data/871.11/fr)
+[^A11-1]: [https://www.becc.admin.ch/becc/public/bvz/beruf/download/2799](https://www.becc.admin.ch/becc/public/bvz/beruf/download/2799)
+[^A11-2]: [https://www.becc.admin.ch/becc/public/bvz/beruf/download/15466](https://www.becc.admin.ch/becc/public/bvz/beruf/download/15466)
+[^A11-3]: RSB [871.11](https://www.belex.sites.be.ch/data/871.11/fr)
 
 Berne, le 22 novembre 2023
 
