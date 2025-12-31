@@ -1,287 +1,401 @@
 ---
 canton: TG
 number: "831.41"
-title: Interkantonale Vereinbarung über die Ostschweizer BVG- und Stiftungsaufsicht
+title: "Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin"
 short: IVBSA
 language: de
-version: 2007-04-01
-valid_until: 2025-12-31
-version_adopted: 2005-09-26
+version: 2026-01-01
+version_adopted: 2024-05-22
 adopted: 2024-05-22
 in_force: 2026-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/831.41"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2276/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3021/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Interkantonale Vereinbarung über die Ostschweizer BVG- und Stiftungsaufsicht
+# Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin
 
-Interkantonale Vereinbarung - Ostschweizer BVG- und Stiftungsaufsicht
+IVBSA
 
-vom 26.09.2005 (Stand 01.04.2007)
+(IVBSA)
 
-Die Kantone Glarus, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden und Thurgau
+vom 22.05.2024 (Stand 01.01.2026)
 
-**vereinbaren:**
+Die Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin vereinbaren[^ingress-1]:
+
+[^ingress-1]: Dieser Vereinbarung sind alle Vereinbarungskantone beigetreten. Sie ist am 1. Januar 2026 in Kraft getreten. Beitritt des Kantons Thurgau mit Beschluss des Grossen Rates vom 18. Dezember 2024.
 
 ## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Träger**
+**Gemeinsame Aufsichtsregion**
 
-<sup>1</sup> Die Kantone Glarus, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden und Thurgau errichten und führen gemeinsam die Ostschweizer BVG- und Stiftungsaufsicht.
+<sup>1</sup> Die Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin («Vereinbarungskantone») bilden eine gemeinsame Aufsichtsregion für die Beaufsichtigung von
 
-<sup>2</sup> Der Kanton Schaffhausen kann sich der Ostschweizer BVG- und Stiftungsaufsicht jederzeit anschliessen.
+- 1\. Einrichtungen der beruflichen Vorsorge gemäss Art. 61 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG)[^1-1],
+- 2\. klassischen Stiftungen gemäss Art. 84 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^1-2], soweit die Vereinbarungskantone diese Aufgabe der Anstalt übertragen haben.
+
+[^1-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+[^1-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 2
 
-**Rechtsnatur und Sitz**
+**Anstalt a. Grundsatz**
 
-<sup>1</sup> Die Ostschweizer BVG- und Stiftungsaufsicht ist eine öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit. Sitz ist St. Gallen.
+<sup>1</sup> Unter dem Namen «BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin» besteht eine interkantonale öffentlich-rechtliche Anstalt mit eigener Rechtspersönlichkeit und Sitz in Zürich.
 
 #### Art. 3
 
-**Aufgaben**
+**Anstalt b. Sprachen**
 
-<sup>1</sup> Die Ostschweizer BVG- und Stiftungsaufsicht erfüllt die den Kantonen nach der Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge übertragenen Aufgaben.
+<sup>1</sup> Amtssprache der Anstalt ist Deutsch.
 
-<sup>2</sup> Die Vereinbarungskantone können der Ostschweizer BVG- und Stiftungsaufsicht die nach den Bestimmungen des Schweizerischen Zivilgesetzbuches[^3-1] den Kantonen zugewiesenen Aufgaben der Oberaufsicht und der Aufsicht über die klassischen Stiftungen sowie die Funktionen als Umwandlungs- und Änderungsbehörde übertragen.
-
-[^3-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+<sup>2</sup> Die Anstalt stellt ihre Leistungen im Zusammenhang mit einer Einrichtung der beruflichen Vorsorge oder einer klassischen Stiftung in einer Amtssprache des Vereinbarungskantons zur Verfügung, in welchem die Einrichtung oder Stiftung ihren Sitz hat.
 
 #### Art. 4
 
-**Anwendbares Recht, a. Grundsatz**
+**Anstalt c. Aufgaben**
 
-<sup>1</sup> Soweit diese Vereinbarung nichts anderes bestimmt, gilt das Recht des Kantons St. Gallen.
+<sup>1</sup> Die Anstalt
+
+- 1\. erfüllt die den Kantonen nach der Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge übertragenen Aufgaben,
+- 2\. übernimmt die Aufgaben im Bereich der klassischen Stiftungen, soweit ihr die Vereinbarungskantone diese Aufgaben gemäss Art. 35 übertragen haben.
+
+<sup>2</sup> Die Vereinbarungskantone können der Anstalt weitere Aufgaben im Bereich der klassischen Stiftungen übertragen, insbesondere die Funktionen als Kantonsbehörde gemäss Art. 85, Art. 86, Art. 86a und Art. 88 ZGB und die Behandlung von Rechtsmitteln.
 
 #### Art. 5
 
-**b. Dienst- und Besoldungsrecht**
+**Anwendbares Recht**
 
-<sup>1</sup> Für die Mitarbeitenden der Ostschweizer BVG- und Stiftungsaufsicht wird das Dienst- und Besoldungsrecht des Kantons St. Gallen angewendet.
-
-<sup>2</sup> Mitarbeitende, die nach der Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge obligatorisch versichert sind, werden der Pensionskasse Thurgau angeschlossen.
+<sup>1</sup> Soweit nichts anderes bestimmt ist, ist das Recht des Kantons Zürich anwendbar.
 
 #### Art. 6
 
-**c. Rechtsschutz**
+**Personalwesen**
 
-<sup>1</sup> Verfügungen der Ostschweizer BVG- und Stiftungsaufsicht, welche die berufliche Vorsorge betreffen, können nach Art. 74 des Bundesgesetzes über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge vom 25. Juni 1982[^6-1] angefochten werden.
+<sup>1</sup> Für die Angestellten der Anstalt gilt das öffentliche Personalrecht des Kantons Zürich.
 
-<sup>2</sup> Verfügungen der Ostschweizer BVG- und Stiftungsaufsicht im Bereich der klassischen Stiftungen können nach Massgabe der Rechtspflegebestimmungen des Vereinbarungskantons, in dem sich der Sitz der Stiftung befindet, angefochten werden.
+<sup>2</sup> Der Verwaltungsrat kann im Personalreglement abweichende Bestimmungen erlassen, soweit dies aus betrieblichen Gründen erforderlich ist.
 
-[^6-1]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
+<sup>3</sup> Angestellte der Anstalt, die nach der Bundesgesetzgebung über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge obligatorisch versichert sind, sind bei einer Personalvorsorgeeinrichtung zu versichern, die nicht der Aufsicht der Anstalt untersteht.
 
 #### Art. 7
 
-**Amtliche Bekanntmachungen**
+**Rechtsschutz**
 
-<sup>1</sup> Amtliche Bekanntmachungen der Ostschweizer BVG- und Stiftungsaufsicht werden in den amtlichen Publikationsorganen der Vereinbarungskantone veröffentlicht.
+<sup>1</sup> Verfügungen der Anstalt im Bereich der beruflichen Vorsorge können gemäss Art. 74 BVG angefochten werden.
 
-## 2. Organisation
+<sup>2</sup> Verfügungen und Rechtsmittelentscheide der Anstalt im Bereich der klassischen Stiftungen können gemäss den Rechtspflegebestimmungen des Vereinbarungskantons angefochten werden, dem die Stiftung nach ihrer Bestimmung angehört.
+
+<sup>3</sup> Die übrigen Verfügungen und Erlasse der Anstalt können gemäss den Rechtspflegebestimmungen des Kantons Zürich angefochten werden.
+
+<sup>4</sup> Rechtsmittel gegen Erlasse der Anstalt haben keine aufschiebende Wirkung.
 
 #### Art. 8
 
-**Organe**
+**Amtliche Publikationen**
 
-<sup>1</sup> Organe der Ostschweizer BVG- und Stiftungsaufsicht sind:
+<sup>1</sup> Amtliche Publikationen der Anstalt werden in den amtlichen Publikationsorganen der betroffenen Vereinbarungskantone veröffentlicht.
 
-- a. die Verwaltungskommission;
-- b. die Geschäftsleitung;
-- c. die Revisionsstelle.
+## 2. Organisation
 
 #### Art. 9
 
-**Verwaltungskommission, a. Zusammensetzung**
+**Organe**
 
-<sup>1</sup> Die Regierungen der Vereinbarungskantone wählen je ein Regierungsmitglied in die Verwaltungskommission. Die Amtsdauer beträgt vier Jahre.
+<sup>1</sup> Die Organe der Anstalt sind
 
-<sup>2</sup> Die Verwaltungskommission konstituiert sich selbst.
+- 1\. der Konkordatsrat,
+- 2\. der Verwaltungsrat,
+- 3\. die Geschäftsleitung,
+- 4\. die Revisionsstelle.
 
 #### Art. 10
 
-**b. Beschlussfassung**
+**Konkordatsrat a. Zusammensetzung**
 
-<sup>1</sup> Die Verwaltungskommission ist beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist.
+<sup>1</sup> Der Konkordatsrat besteht aus je einem Mitglied der Regierungen der Vereinbarungskantone.
 
-<sup>2</sup> Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Bei Stimmengleichheit gibt die Vorsitzende oder der Vorsitzende den Stichentscheid.
+<sup>2</sup> Er konstituiert sich selbst und wählt aus seiner Mitte die Vorsitzende oder den Vorsitzenden.
 
-<sup>3</sup> Die Direktorin oder der Direktor ist antragsberechtigt und nimmt mit beratender Stimme an den Sitzungen teil.
+<sup>3</sup> Das Sekretariat des Konkordatsrates wird durch die Geschäftsleitung wahrgenommen.
 
 #### Art. 11
 
-**c. Zuständigkeit**
+**Konkordatsrat b. Beschlussfassung**
 
-<sup>1</sup> Die Verwaltungskommission:
+<sup>1</sup> Der Konkordatsrat ist beschlussfähig, wenn die Mehrheit seiner Mitglieder persönlich anwesend ist oder mit elektronischen Mitteln an der Sitzung teilnimmt.
 
-- a. wählt die Geschäftsleitung sowie nach Massgabe des Organisationsreglements der Ostschweizer BVG- und Stiftungsaufsicht leitende Mitarbeitende;
-- b. erlässt ein Organisationsreglement der Ostschweizer BVG- und Stiftungsaufsicht;
-- c. legt den Leistungsauftrag über die Führung der Ostschweizer BVG- und Stiftungsaufsicht fest;
-- d. sorgt für Qualitätssicherung und Controlling;
-- e. beschliesst über den Voranschlag;
-- f. wählt eine Revisionsstelle und nimmt von deren jährlichen Bericht Kenntnis;
-- g. genehmigt Jahresrechnung und Jahresbericht;
-- h. erlässt die für die Aufsichtstätigkeit erforderlichen verfahrensrechtlichen Bestimmungen und den Gebührentarif.
+<sup>2</sup> Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Die oder der Vorsitzende stimmt mit. Bei Stimmengleichheit gibt ihre oder seine Stimme den Ausschlag.
+
+<sup>3</sup> Beschlüsse können auf dem Zirkularweg gefasst werden. Jedes Mitglied kann eine Sitzung verlangen.
+
+<sup>4</sup> Die Präsidentin oder der Präsident des Verwaltungsrates und die Direktorin oder der Direktor nehmen an den Sitzungen mit beratender Stimme und Antragsrecht teil.
 
 #### Art. 12
 
-**Entschädigung**
+**Konkordatsrat c. Aufgaben**
 
-<sup>1</sup> Die Vereinbarungskantone regeln die Entschädigung ihrer Mitglieder der Verwaltungskommission.
+<sup>1</sup> Der Konkordatsrat
+
+- 1\. wählt die Präsidentin oder den Präsidenten und die übrigen Mitglieder des Verwaltungsrates,
+- 2\. legt die Entschädigung der Mitglieder des Verwaltungsrates fest,
+- 3\. genehmigt die Wahl oder Abberufung der Direktorin oder des Direktors,
+- 4\. wählt die Revisionsstelle,
+- 5\. genehmigt die Jahresrechnung und den Geschäftsbericht,
+- 6\. sorgt für eine angemessene Berichterstattung in den jeweiligen Vereinbarungskantonen,
+- 7\. genehmigt die Reglemente der Anstalt über die Organisation, das Personal, das Finanzwesen und die Gebühren,
+- 8\. regelt mit einem Vereinbarungskanton die Einzelheiten dessen Austritts aus der Vereinbarung,
+- 9\. legt bei Austritt des Kantons Zürich aus der Vereinbarung den Sitz der Anstalt, das anwendbare Recht und die Zuständigkeit der Gerichte neu fest,
+- 10\. entscheidet bei einvernehmlicher Auflösung der Vereinbarung über die Verwendung des Vermögens.
+
+<sup>2</sup> Er stellt bei der Wahl des Verwaltungsrates sicher, dass dessen Mitglieder unabhängig sind und über die erforderlichen Fähigkeiten verfügen.
 
 #### Art. 13
 
-**Geschäftsleitung, a. Zusammensetzung**
+**Konkordatsrat d. Entschädigung**
 
-<sup>1</sup> Die Geschäftsleitung setzt sich nach Massgabe des Organisationsreglements zusammen.
-
-<sup>2</sup> Die Direktorin oder der Direktor führt den Vorsitz.
+<sup>1</sup> Die Entschädigung der Mitglieder des Konkordatsrates ist Sache der Vereinbarungskantone.
 
 #### Art. 14
 
-**b. Aufgaben**
+**Verwaltungsrat a. Zusammensetzung und Amtsdauer**
 
-<sup>1</sup> Die Geschäftsleitung:
+<sup>1</sup> Der Verwaltungsrat besteht aus der Präsidentin oder dem Präsidenten und vier weiteren Mitgliedern.
 
-- a. besorgt nach Massgabe der gesetzlichen Bestimmungen über die Aufsicht von Vorsorgeeinrichtungen und klassische Stiftungen sowie des Organisationsreglements die operative Aufgabenerfüllung der Ostschweizer BVG- und Stiftungsaufsicht;
-- b. stellt den Geschäftsgang der Ostschweizer BVG- und Stiftungsaufsicht sicher;
-- c. wählt die Mitarbeitenden der Ostschweizer BVG- und Stiftungsaufsicht, soweit nicht die Verwaltungskommission zuständig ist;
-- d. bereitet die Geschäfte der Verwaltungskommission vor und stellt Antrag;
-- e. erfüllt alle weiteren Aufgaben, die nicht der Verwaltungskommission zugewiesen sind.
+<sup>2</sup> Die Amtsdauer beträgt vier Jahre. Zweimalige Wiederwahl ist möglich.
 
-<sup>2</sup> Die Geschäftsleitung kann unter Vorbehalt der Zustimmung der Verwaltungskommission mit anderen Kantonen Zusammenarbeitsverträge über die Bereitstellung von Dienstleistungen der Ostschweizer BVG- und Stiftungsaufsicht gegen kostendeckende Entschädigungen abschliessen.
+<sup>3</sup> Im Übrigen konstituiert sich der Verwaltungsrat selbst.
 
 #### Art. 15
 
-**Revisionsstelle**
+**Verwaltungsrat b. Beschlussfassung**
 
-<sup>1</sup> Die Revisionsstelle der Ostschweizer BVG- und Stiftungsaufsicht prüft jährlich die Jahresrechnung und erstattet der Verwaltungskommission Bericht über das Ergebnis.
+<sup>1</sup> Der Verwaltungsrat ist beschlussfähig, wenn die Mehrheit seiner Mitglieder persönlich anwesend ist oder mit elektronischen Mitteln an der Sitzung teilnimmt.
 
-## 3. Finanzhaushalt
+<sup>2</sup> Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Die Präsidentin oder der Präsident stimmt mit. Bei Stimmengleichheit gibt ihre oder seine Stimme den Ausschlag.
+
+<sup>3</sup> Beschlüsse können auf dem Zirkularweg gefasst werden. Jedes Mitglied kann eine Sitzung verlangen.
+
+<sup>4</sup> Die Direktorin oder der Direktor nimmt an den Sitzungen mit beratender Stimme und Antragsrecht teil.
 
 #### Art. 16
 
-**Einnahmen, a. Arten**
+**Verwaltungsrat c. Aufgaben**
 
-<sup>1</sup> Der Finanzbedarf der Ostschweizer BVG- und Stiftungsaufsicht wird gedeckt durch:
+<sup>1</sup> Der Verwaltungsrat
 
-- a. kostendeckende Gebühren für Amtshandlungen;
-- b. kostendeckende Entschädigungen für Dienstleistungen nach Art. 14 Abs. 2 dieser Vereinbarung.
+- 1\. führt die Anstalt in strategischer und finanzieller Hinsicht,
+- 2\. übt die unmittelbare Aufsicht über die Geschäftstätigkeit der Anstalt aus,
+- 3\. wählt die Direktorin oder den Direktor und beruft sie oder ihn ab,
+- 4\. genehmigt die Wahl der Mitglieder der Geschäftsleitung,
+- 5\. setzt das Budget und die Finanzplanung fest,
+- 6\. beschliesst über die Gewinnverwendung,
+- 7\. nimmt den Bericht der Revisionsstelle zur Kenntnis,
+- 8\. verabschiedet die Jahresrechnung und den Geschäftsbericht,
+- 9\. erlässt die Reglemente der Anstalt über die Organisation, das Personal, das Finanzwesen und die Gebühren,
+- 10\. genehmigt die Geschäftsordnung der Anstalt,
+- 11\. erlässt die Leitlinien über die Informationstätigkeit der Anstalt.
 
 #### Art. 17
 
-**b. Gebühren für Amtshandlungen**
+**Geschäftsleitung a. Zusammensetzung**
 
-<sup>1</sup> Vorsorgeeinrichtungen und klassische Stiftungen entrichten Gebühren für Amtshandlungen.
+<sup>1</sup> Die Geschäftsleitung besteht aus der Direktorin oder dem Direktor und weiteren von ihr bzw. ihm bestimmten Mitgliedern.
 
-<sup>2</sup> Der Gebührentarif bezeichnet die Amtshandlungen sowie die Mindest- und Höchstansätze. Der Ansatz beträgt bei Vorsorgeeinrichtungen maximal die Hälfte, bei klassischen Stiftungen maximal ein Viertel der Quadratwurzel aus der Bilanzsumme inklusive Rückkaufswerte, mindestens aber Fr. 150.
-
-<sup>3</sup> Die Gebühr wird bemessen nach:
-
-- a. der Bilanzsumme einschliesslich Rückkaufswerte;
-- b. Zeit- und Arbeitsaufwand.
+<sup>2</sup> Im Übrigen konstituiert sich die Geschäftsleitung selbst.
 
 #### Art. 18
 
-**Haushaltführung und Rechnungswesen**
+**Geschäftsleitung b. Aufgaben**
 
-<sup>1</sup> Für die Haushaltführung und das Rechnungswesen wird das Finanzhaushaltsrecht des Kantons St. Gallen sinngemäss angewendet.
+<sup>1</sup> Die Geschäftsleitung
+
+- 1\. führt die Anstalt in fachlicher, operativer und personeller Hinsicht,
+- 2\. erlässt die Geschäftsordnung der Anstalt,
+- 3\. erarbeitet die Entscheidungsgrundlagen des Verwaltungsrates und berichtet ihm regelmässig, bei besonderen Ereignissen unverzüglich,
+- 4\. erstellt die Jahresrechnung und verfasst den Geschäftsbericht,
+- 5\. erfüllt alle Aufgaben, die keinem anderen Organ zugewiesen sind.
 
 #### Art. 19
 
-**Haftung**
+**Revisionsstelle**
 
-<sup>1</sup> Die Ostschweizer BVG- und Stiftungsaufsicht haftet für ihre Verbindlichkeiten und für Schäden, welche ihre Organe und ihre Mitarbeitenden in Ausübung der amtlichen Tätigkeit Dritten widerrechtlich zufügen.
+<sup>1</sup> Die Revisionsstelle prüft die Jahresrechnung und erstattet dem Verwaltungsrat Bericht über das Ergebnis.
 
-<sup>2</sup> Die Vereinbarungskantone haften subsidiär. Der Anteil des einzelnen Vereinbarungskantons bemisst sich nach dem Verhältnis des Vermögens der der Ostschweizer BVG- und Stiftungsaufsicht unterstehenden Vorsorgeeinrichtungen und klassischen Stiftungen mit Sitz im Vereinbarungskanton zum Vermögen aller ihrer Aufsicht unterstehenden Vorsorgeeinrichtungen und klassischen Stiftungen.
+## 3. Finanzen
 
 #### Art. 20
 
-**Steuerbefreiung**
+**Rechnungslegung und Finanzplanung**
 
-<sup>1</sup> Die Ostschweizer BVG- und Stiftungsaufsicht ist von allen Staats-, Bezirks- und Gemeindesteuern der Vereinbarungskantone befreit.
+<sup>1</sup> Die Rechnungslegung erfolgt nach den Grundsätzen der kaufmännischen Buchführung.
 
-## 4. Streiterledigung
+<sup>2</sup> Die Anstalt erstellt eine Finanzplanung, ein Budget und einen Geschäftsbericht.
 
 #### Art. 21
 
-**Schiedsgericht, a. Zusammensetzung**
+**Finanzierung**
 
-<sup>1</sup> Streitigkeiten zwischen den Vereinbarungskantonen oder zwischen Vereinbarungskantonen und Ostschweizer BVG- und Stiftungsaufsicht werden einem Schiedsgericht unterbreitet. Jede Streitpartei bezeichnet ein Schiedsgerichtsmitglied.
-
-<sup>2</sup> Die Streitparteien bezeichnen gemeinsam:
-
-- a. eine Vorsitzende oder einen Vorsitzenden des Schiedsgerichts;
-- b. nötigenfalls weitere Schiedsgerichtsmitglieder, damit das Schiedsgericht insgesamt eine ungerade Mitgliederzahl aufweist.
-
-<sup>3</sup> Die Präsidentin oder der Präsident des Verwaltungsgerichts des Kantons St. Gallen bezeichnet die Vorsitzende oder den Vorsitzenden oder die weiteren Schiedsgerichtsmitglieder, wenn sich die Streitparteien nicht einigen.
+<sup>1</sup> Die Anstalt finanziert sich durch kostendeckende Gebühren.
 
 #### Art. 22
 
-**b. ergänzendes Recht**
+**Gebühren**
 
-<sup>1</sup> Das Schiedsgerichtsverfahren richtet sich im Übrigen nach dem Konkordat über die Schiedsgerichtsbarkeit vom 27. März 1969[^22-1].
+<sup>1</sup> Die Anstalt erhebt
 
-[^22-1]: Ausser Kraft.
+- 1\. jährliche Aufsichtsgebühren,
+- 2\. Gebühren für einzelne Prüfungen, Verfügungen und weitere Dienstleistungen.
 
-## 5. Kündigung und Auflösung der Vereinbarung
+<sup>2</sup> Die jährliche Aufsichtsgebühr bemisst sich nach der Bilanzsumme der beaufsichtigten Einrichtung einschliesslich Rückkaufswerte. Dabei werden folgende Tarife für folgende Einrichtungen unterschieden:
+
+- 1\. Sammel- und Gemeinschaftseinrichtungen,
+- 2\. übrige Vorsorgeeinrichtungen, einschliesslich Einrichtungen, die nach ihrem Zweck der beruflichen Vorsorge dienen,
+- 3\. klassische Stiftungen.
+
+<sup>3</sup> Die übrigen Gebühren bemessen sich innerhalb des von der Gebührenordnung vorgegebenen Rahmens nach Aufwand.
 
 #### Art. 23
 
-**Kündigung**
+**Eigenkapital**
 
-<sup>1</sup> Die Vereinbarungskantone können ihre Beteiligung an der Ostschweizer BVG- und Stiftungsaufsicht unter Einhaltung einer Frist von zwei Jahren auf das Ende eines Kalenderjahres kündigen.
+<sup>1</sup> Das Eigenkapital beträgt 80 bis 120 Prozent des Jahresaufwands der Anstalt.
 
-<sup>2</sup> Der Vereinbarungskanton haftet anteilmässig für die während seiner Beteiligung verursachten Haftungsfälle nach Art. 19 Abs. 2 dieser Vereinbarung.
-
-<sup>3</sup> Der austretende Vereinbarungskanton hat keinen Anspruch auf das Vermögen der Ostschweizer BVG- und Stiftungsaufsicht.
+<sup>2</sup> Wird diese Bandbreite unter- oder überschritten, erhöht bzw. senkt der Verwaltungsrat die Gebühren entsprechend.
 
 #### Art. 24
 
-**Auflösung**
+**Darlehen**
 
-<sup>1</sup> Die Vereinbarungskantone können die Vereinbarung durch übereinstimmenden Beschluss ihrer zuständigen Organe unter Einhaltung einer Frist von zwei Jahren auf das Ende eines Kalenderjahres auflösen.
+<sup>1</sup> Um die Zahlungsfähigkeit sicherzustellen, können die Vereinbarungskantone der Anstalt Darlehen gewähren.
 
-<sup>2</sup> Das vorhandene Vermögen wird anteilmässig den Vereinbarungskantonen übertragen.
+<sup>2</sup> Darlehen werden zu den Selbstkosten gewährt.
 
-<sup>3</sup> Der Anteil des einzelnen Vereinbarungskantons bemisst sich nach dem Verhältnis des Vermögens der der Ostschweizer BVG- und Stiftungsaufsicht unterstehenden Vorsorgeeinrichtungen und klassischen Stiftungen mit Sitz im Vereinbarungskanton zum Vermögen aller ihrer Aufsicht unterstehenden Vorsorgeeinrichtungen und klassischen Stiftungen.
-
-## 6. Schlussbestimmungen
+<sup>3</sup> Die Anstalt kann Darlehen jederzeit ganz oder teilweise zurückzahlen.
 
 #### Art. 25
 
-**Liquiditätssicherung**
+**Steuerbefreiung**
 
-<sup>1</sup> Der Kanton St. Gallen stellt der Ostschweizer BVG- und Stiftungsaufsicht zur Liquiditätssicherung ein Kontokorrent zur Verfügung.
+<sup>1</sup> Die Anstalt ist von den Staats-, Bezirks- und Gemeindesteuern der Vereinbarungskantone befreit.
 
 #### Art. 26
 
-**Ausstattungsbeitrag**
+**Haftung**
 
-<sup>1</sup> Der Kanton St. Gallen leistet der Ostschweizer BVG- und Stiftungsaufsicht für ihre Erstausstattung an ihrem Sitz einen Ausstattungsbeitrag von Fr. 200'000.
+<sup>1</sup> Die Anstalt haftet für ihre Verbindlichkeiten und für Schäden, die ihre Organe und ihre Angestellten in Ausübung ihrer amtlichen Tätigkeit Dritten widerrechtlich zufügen.
 
-<sup>2</sup> Der Beitrag wird mit Vollzugsbeginn dieser Vereinbarung fällig.
+<sup>2</sup> Sie schliesst Haftpflichtversicherungen ab.
+
+## 4. Streiterledigung
 
 #### Art. 27
 
-**Rechtsgültigkeit**
+**Streiterledigung**
 
-<sup>1</sup> Diese Vereinbarung bedarf zur ihrer Rechtsgültigkeit der Zustimmung der verfassungsmässig zuständigen Organe der Vereinbarungskantone.
+<sup>1</sup> Über Streitigkeiten zwischen den Vereinbarungskantonen oder zwischen Vereinbarungskantonen und der Anstalt entscheidet ein Schiedsgericht.
+
+<sup>2</sup> Jede Streitpartei bezeichnet ein Schiedsgerichtsmitglied.
+
+<sup>3</sup> Die Streitparteien bezeichnen gemeinsam
+
+- 1\. eine Vorsitzende oder einen Vorsitzenden des Schiedsgerichts,
+- 2\. ein weiteres Schiedsgerichtsmitglied, falls das Schiedsgericht ansonsten eine gerade Mitgliederzahl aufweist.
+
+<sup>4</sup> Können sich die Streitparteien nicht auf eine gemeinsame Bezeichnung einigen, bezeichnet die Präsidentin oder der Präsident des Verwaltungsgerichts des Kantons Zürich die Vorsitzende oder den Vorsitzenden und ein allfälliges weiteres Schiedsgerichtsmitglied.
+
+## 5. Austritt aus und Auflösung der Vereinbarung
 
 #### Art. 28
 
-**Vollzugsbeginn**
+**Austritt a. im Allgemeinen**
 
-<sup>1</sup> Die Regierungen der Vereinbarungskantone legen gemeinsam fest[^28-1]:
+<sup>1</sup> Jeder Vereinbarungskanton kann unter Einhaltung einer Frist von zwei Jahren auf das Ende eines Kalenderjahres aus der Vereinbarung austreten. Ein Austritt kann erstmals fünf Jahre nach Inkrafttreten dieser Vereinbarung erfolgen.
 
-- a. den Vollzugsbeginn dieser Vereinbarung;
-- b. den Termin der Tätigkeitsaufnahme der Ostschweizer BVG- und Stiftungsaufsicht.
+<sup>2</sup> Der austretende Vereinbarungskanton hat keinen Anspruch auf Anteile am Vermögen der Anstalt.
 
-<sup>2</sup> Die Vereinbarungskantone stellen sicher, dass die Akten der Vorsorgeeinrichtungen und, soweit die Vereinbarungskantone die Oberaufsicht und die Aufsicht sowie die Funktionen als Umwandlungs- und Änderungsbehörde übertragen haben, die Akten der klassischen Stiftungen am Termin der Tätigkeitsaufnahme im Besitz der Ostschweizer BVG- und Stiftungsaufsicht sind.
+<sup>3</sup> Der Konkordatsrat passt den Wortlaut des Titels sowie von Art. 1 und Art. 2 der Vereinbarung an.
 
-[^28-1]: Vollzugsbeginn am 1. April 2007, Tätigkeitsaufnahme am 1. Januar 2008; Beitritt Kanton TG gemäss RRB Nr. 619 vom 5. Juli 2005.
+<sup>4</sup> Im Übrigen wird der Austritt eines Vereinbarungskantons zwischen diesem und dem Konkordatsrat geregelt.
 
-9/2007
+#### Art. 29
+
+**Austritt b. des Kantons Zürich**
+
+<sup>1</sup> Tritt der Kanton Zürich aus der Vereinbarung aus, legt der Konkordatsrat den Sitz der Anstalt, das anwendbare Recht gemäss Art. 5 und Art. 6 Abs. 1 und die Zuständigkeit der Gerichte gemäss Art. 7 Abs. 3 und Art. 27 Abs. 4 neu fest.
+
+<sup>2</sup> Abs. 1 gilt für einen neuen Sitzkanton sinngemäss.
+
+#### Art. 30
+
+**Auflösung**
+
+<sup>1</sup> Die Vereinbarungskantone können die Vereinbarung durch übereinstimmenden Beschluss ihrer zuständigen Organe unter Einhaltung einer Frist von zwei Jahren auf das Ende eines Kalenderjahres einvernehmlich auflösen.
+
+<sup>2</sup> Der Konkordatsrat entscheidet über die Verwendung des Vermögens.
+
+## 6. Übergangs- und Schlussbestimmungen
+
+#### Art. 31
+
+**Rechtsnachfolge**
+
+<sup>1</sup> Auf den Zeitpunkt des Inkrafttretens dieser Vereinbarung gehen alle Aktiven und Passiven sowie sämtliche Verträge der BVG- und Stiftungsaufsicht des Kantons Zürich und der Ostschweizer BVG- und Stiftungsaufsicht auf die Anstalt über.
+
+#### Art. 32
+
+**Auflösung der bisherigen Anstalten**
+
+<sup>1</sup> Die BVG- und Stiftungsaufsicht des Kantons Zürich und die Ostschweizer BVG- und Stiftungsaufsicht werden mit Inkrafttreten dieser Vereinbarung aufgelöst.
+
+#### Art. 33
+
+**Haftung für Ansprüche aus der Zeit vor Inkrafttreten**
+
+<sup>1</sup> Für nicht gedeckte Haftungsansprüche aus der früheren Tätigkeit der BVG- und Stiftungsaufsicht des Kantons Zürich und der Ostschweizer BVG- und Stiftungsaufsicht haftet die Anstalt während zehn Jahren ab Inkrafttreten dieser Vereinbarung bis zum Betrag des von der jeweiligen Anstalt eingebrachten Eigenkapitals.
+
+<sup>2</sup> Darüber hinaus haften für Ansprüche aus der früheren Tätigkeit der Ostschweizer BVG- und Stiftungsaufsicht subsidiär die Kantone Glarus, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin gemäss den Haftungsregeln der Interkantonalen Vereinbarung über die Ostschweizer BVG- und Stiftungsaufsicht vom 26. September 2005.
+
+<sup>3</sup> Die Haftung des Kantons Tessin beschränkt sich auf Ansprüche, die ab seinem Beitritt zur Ostschweizer BVG- und Stiftungsaufsicht entstanden sind.
+
+#### Art. 34
+
+**Eigenkapital**
+
+<sup>1</sup> Das Anfangskapital der Anstalt besteht aus dem Eigenkapital, das von der BVG- und Stiftungsaufsicht des Kantons Zürich und der Ostschweizer BVG- und Stiftungsaufsicht eingebracht wurde.
+
+<sup>2</sup> Das Mindesteigenkapital gemäss Art. 23 Abs. 1 ist innert zehn Jahren vollständig zu äufnen.
+
+#### Art. 35
+
+**Aufgaben im Bereich der klassischen Stiftungen**
+
+<sup>1</sup> Die Anstalt übernimmt mit Inkrafttreten dieser Vereinbarung für die nachstehenden Vereinbarungskantone folgende Aufgaben im Bereich der klassischen Stiftungen:
+
+- 1\. Kanton Zürich:
+  - 1\.1. Aufsicht, soweit dafür nach dem kantonalen Recht nicht die Bezirke oder Gemeinden zuständig sind,
+  - 1\.2. Entscheid über Rekurse gegen Anordnungen der Bezirke und Gemeinden,
+  - 1\.3. Funktion als Kantonsbehörde gemäss Art. 85, Art. 86 und Art. 86a ZGB,
+  - 1\.4. Funktion als Kantonsbehörde gemäss Art. 88 ZGB, soweit dafür nach dem kantonalen Recht nicht die Bezirke oder Gemeinden zuständig sind,
+- 2\. Kanton St. Gallen:
+  - 2\.1. Aufsicht,
+  - 2\.2. Funktion als Kantonsbehörde gemäss Art. 85, Art. 86, Art. 86a und Art. 88 ZGB,
+- 3\. Kanton Thurgau: Alle Aufgaben des Kantons,
+- 4\. Kanton Tessin:
+  - 4\.1. Aufsicht,
+  - 4\.2. Funktion als Kantonsbehörde gemäss Art. 85, Art. 86, Art. 86a und Art. 88 ZGB.
+
+#### Art. 36
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Vereinbarung tritt auf den 1. Januar des Jahres in Kraft, das auf das Jahr folgt, in dem sämtliche Vereinbarungskantone der Vereinbarung beigetreten sind.
+
+<sup>2</sup> Der Konkordatsrat nimmt seine Tätigkeit auf den ersten Tag des Monats auf, der auf den Monat folgt, in dem sämtliche Vereinbarungskantone der Vereinbarung beigetreten sind.
+
+<sup>3</sup> Der Verwaltungsrat nimmt seine Tätigkeit unmittelbar nach seiner Wahl durch den Konkordatsrat auf.
+
+52/2024
