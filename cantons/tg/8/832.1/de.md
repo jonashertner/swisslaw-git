@@ -4,13 +4,13 @@ number: "832.1"
 title: Krankenversicherungsgesetz
 short: TG KVG
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-08-16
+version: 2026-01-01
+valid_until: 2026-01-31
+version_adopted: 2025-05-07
 adopted: 1995-10-25
 in_force: 1996-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2751/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3013/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ TG KVG
 
 (TG KVG)
 
-vom 25.10.1995 (Stand 01.01.2024)
+vom 25.10.1995 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -35,7 +35,7 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 - 1\. die Versicherungspflicht und die Prämienverbilligung
 - 2\. die Pflegeversorgung im Pflegeheim und im ambulanten Bereich
-- 3\. die Hilfe und Betreuung zu Hause
+- 3\. die Hauswirtschaft und Betreuung zu Hause
 - 4\. die Spitalplanung und -finanzierung
 
 <sup>3</sup> Der Regierungsrat kann ergänzende Vorschriften zur Bundesgesetzgebung, zur Pflegeversorgung sowie zur Hilfe und Betreuung zu Hause erlassen.
@@ -95,7 +95,7 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 <sup>4</sup> Versicherte mit Leistungsaufschub sind zur Mitwirkung im Case Management verpflichtet.
 
-<sup>5</sup> Die Gemeinden tragen die Kosten nach Art. 64a Abs. 4 KVG unter Anrechnung der Rückerstattungen nach Art. 64a Abs. 5 KVG.
+<sup>5</sup> Die Gemeinden tragen die Kosten unter Anrechnung der Rückerstattungen nach Art. 64a Abs. 4 KVG.
 
 ### 2.2. Prämienverbilligung
 
@@ -232,6 +232,16 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
 
+#### § 15b
+
+**Pflegeheimplanung**
+
+<sup>1</sup> Der Regierungsrat erlässt für eine bedarfsgerechte Versorgung mit stationären Pflegeleistungen eine Pflegeheimliste gestützt auf eine Pflegeheimplanung. Sie ist nach Leistungsbereichen und Leistungsgruppen gegliedert. Die Pflegeheimliste wird periodisch überprüft.
+
+<sup>2</sup> Massgeblich für die Aufnahme auf die Pflegeheimliste sind die Qualität und die Wirtschaftlichkeit der Leistungserbringung. Für die Beurteilung der Wirtschaftlichkeit werden die Kosten für Pflege, Betreuung und Pension einbezogen.
+
+<sup>3</sup> Auf der Pflegeheimliste aufgenommene Pflegeheime sind verpflichtet, Personen mit Wohnsitz im Kanton im Rahmen ihrer Kapazität aufzunehmen und die Pflegeversorgung sicherzustellen.
+
 #### § 16
 
 **Kosten- und Leistungsausweis der Pflegeheime, Fakturierung**
@@ -254,6 +264,8 @@ vom 25.10.1995 (Stand 01.01.2024)
 <sup>1</sup> Die Restfinanzierung gemäss Art. 25a Abs. 5 KVG erfolgt in Form pauschalierter Normkostenbeiträge. Der Regierungsrat legt die Normkostenbeiträge differenziert nach dem Pflegebedarf fest. Für spezialisierte Leistungsangebote mit erhöhten Anforderungen an die Pflege kann er Zuschläge vorsehen.
 
 <sup>2</sup> Massgebend ist der anrechenbare Aufwand nach Pflegebedarf für Pflegeleistungen, die in der notwendigen Qualität effizient und kostengünstig erbracht werden. Grundlage bilden die Kosten- und Leistungsausweise der auf der kantonalen Pflegeheimliste aufgeführten Heime, welche die Vorgaben des zuständigen Departements über die einheitliche und transparente Rechnungslegung erfüllen.
+
+<sup>3</sup> Verstösst ein Pflegeheim gegen die gesetzlichen Verpflichtungen gemäss § 15b Abs. 3, können die Restkostenbeiträge bis zu 30 % reduziert werden.
 
 #### § 18
 
@@ -285,17 +297,19 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 <sup>1</sup> Die Kosten der Leistungen für Unterkunft, Verpflegung und Betreuung sowie die Kosten für weitere Leistungen gehen zu Lasten der Leistungsbezügerinnen und Leistungsbezüger, soweit sie nicht von den Gemeinden verbilligt werden.
 
-### 3.2. Ambulante Pflege sowie Hilfe und Betreuung
+### 3.2. Ambulante Pflege sowie Hauswirtschaft und Betreuung
 
 #### § 22
 
-**Versorgungsangebot ambulante Pflege sowie Hilfe und Betreuung zu Hause**
+**Versorgungsangebot ambulante Pflege sowie Hauswirtschaft und Betreuung zu Hause**
 
-<sup>1</sup> Das Versorgungsangebot der ambulanten Pflege umfasst den Leistungsbereich der Pflegeleistungen der Sozialversicherungsgesetzgebung im ambulanten Bereich einschliesslich der Leistungen der ambulanten Akut- und Übergangspflege.
+<sup>1</sup> Das Versorgungsangebot der ambulanten Pflege umfasst die Leistungsbereiche der Pflegeleistungen der Sozialversicherungsgesetzgebung im ambulanten Bereich einschliesslich der Leistungen der ambulanten Akut- und Übergangspflege.
 
-<sup>2</sup> Das Versorgungsangebot der Hilfe und Betreuung zu Hause umfasst die notwendigen Dienste im hauswirtschaftlichen und betreuerischen Bereich einschliesslich Mahlzeiten- und Entlastungsdienst für Personen, die wegen Krankheit, Mutterschaft, Unfall oder Behinderung nicht in der Lage sind, ihren Haushalt selbständig zu führen.
+<sup>2</sup> Das Versorgungsangebot der Hauswirtschaft und Betreuung zu Hause umfasst die notwendigen Dienste im hauswirtschaftlichen und betreuerischen Bereich einschliesslich Mahlzeiten-, Fahr- und Entlastungsdienst für Personen, die wegen Krankheit, Mutterschaft, Unfall oder Behinderung nicht in der Lage sind, ihren Haushalt selbständig zu führen.
 
 <sup>3</sup> Die ambulante Pflege sowie die Betreuung kann auch in Tagesheimen sowie in Tages- oder Nachtstrukturen von Pflegeheimen erbracht werden.
+
+<sup>4</sup> Das Departement erlässt nach Anhörung der Branchenverbände der betroffenen Leistungserbringer und in Absprache mit dem Verband Thurgauer Gemeinden Weisungen über das Versorgungsangebot mit Leistungsbereichen und Leistungsgruppen sowie die Anforderungen an die Leistungserbringung, insbesondere betreffend Qualität und Verfügbarkeit.
 
 #### § 22a
 
@@ -309,6 +323,18 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
 
+#### § 22b
+
+**Zulassung Leistungserbringer**
+
+<sup>1</sup> Die Leistungserbringer legen ihren Tätigkeitsbereich nach Leistungsbereichen und Leistungsgruppen fest.
+
+<sup>2</sup> Der Regierungsrat kann Regelungen zu weiteren Anforderungen an die Leistungserbringer erlassen, insbesondere zum Höchstalter der Angestellten und beauftragten Pflegefachpersonen sowie zu den unter fachlicher Aufsicht tätigen Personen.
+
+<sup>3</sup> Der Regierungsrat regelt bei Bedarf die kantonalen Ausführungsbestimmungen zu Art. 36a Abs. 3 und Art. 55b KVG.
+
+<sup>6</sup> Der Regierungsrat regelt nach Anhörung der Branchenverbände der betroffenen Leistungserbringer und nach Absprache mit dem Verband Thurgauer Gemeinden die Einzelheiten der Zulassung.
+
 #### § 23
 
 **Kosten- und Leistungsausweis der ambulanten Leistungserbringer, Fakturierung**
@@ -318,10 +344,12 @@ vom 25.10.1995 (Stand 01.01.2024)
 - 1\. Kosten für Leistungen der Akut- und Übergangspflege
 - 2\. Kosten für Pflegeleistungen
 - 3\. Kosten für weitere Pflichtleistungen der Sozialversicherer wie ärztliche Behandlung, Arznei, Therapien, Therapie- und Pflegematerial
-- 4\. Kosten für Hilfe und Betreuung
+- 4\. Kosten für Hauswirtschaft und Betreuung
 - 5\. Kosten für weitere Leistungen
 
-<sup>2</sup> Das zuständige Departement regelt die einheitliche, transparente Rechnungslegung und Rechnungsstellung sowie die Datenerhebung und Datenveröffentlichung. Betriebsbezogene Daten dürfen in nicht anonymisierter Form veröffentlicht werden. Das Departement legt die anrechenbaren Kosten gemäss § 25 Abs. 3 und § 27 Abs. 2 fest.
+<sup>2</sup> Das Departement regelt die einheitliche, transparente Rechnungslegung und Rechnungsstellung sowie die Datenerhebung und Datenveröffentlichung. Betriebsbezogene Daten dürfen in nicht anonymisierter Form veröffentlicht werden, insbesondere die Pflegetarife der einzelnen Leistungserbringer gemäss § 25b.
+
+<sup>3</sup> Das Departement legt die anrechenbaren Kosten gemäss § 25–§ 25c und § 27 Abs. 2 fest. Es kann Vorgaben zur Kostenrechnungsapplikation machen.
 
 #### § 24
 
@@ -341,6 +369,32 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 <sup>3</sup> Die Festlegung der Pflegetarife erfolgt nach betriebswirtschaftlichen Kriterien unter Berücksichtigung der von den Leistungserbringern ausgewiesenen anrechenbaren Kosten und der qualitativen Besonderheiten der erbrachten Leistungen.
 
+#### § 25a
+
+**Festsetzung der Pflegetarife von Pflegeleistungen von Angehörigen**
+
+<sup>1</sup> Der Regierungsrat legt die Pflegetarife für die Restfinanzierung der zulasten der Sozialversicherungen abgerechneten Pflegeleistungen von pflegenden Angehörigen fest. Er berücksichtigt dabei die durchschnittlichen Bruttolöhne der pflegenden Angehörigen und deren Ausbildungsstand sowie einen Beitrag für deren Anleitung und fachliche Aufsicht durch Pflegefachpersonen mit Ausbildungsstand gemäss dem Bundesgesetz über die Gesundheitsberufe (GesBG)[^25a-1].
+
+<sup>2</sup> Restfinanzierungsbeiträge werden bis zum vollendeten AHV-Referenzalter der pflegenden Angehörigen gewährt.
+
+[^25a-1]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+
+#### § 25b
+
+**Kriterien für die Festlegung der Pflegetarife und der Höchstansätze**
+
+<sup>1</sup> Die Festlegung der Pflegetarife und der Höchstansätze erfolgt nach betriebswirtschaftlichen Kriterien unter Berücksichtigung der von den Leistungserbringern detailliert ausgewiesenen anrechenbaren Kosten, den erteilten Leistungsaufträgen und den qualitativen Besonderheiten der Leistungen.
+
+<sup>2</sup> Die anrechenbaren Kosten und die Höchstansätze können reduziert werden, sofern die kantonalen Qualitätsvorgaben oder Vorgaben zum Kosten- und Leistungsausweis nicht eingehalten sind.
+
+#### § 25c
+
+**Kostenübernahmepflicht der Wohnsitzgemeinde**
+
+<sup>2</sup> Sie trägt die Restfinanzierungsbeiträge gemäss § 25a und, falls sie mehrere Leistungserbringer gemäss § 22 beauftragt, die nicht zulasten der Obligatorischen Krankenpflegeversicherung verrechenbaren Koordinationsleistungen.
+
+<sup>3</sup> Die Gemeinde kann für erweiterte Leistungsaufträge und gemeinwirtschaftliche Leistungen separate Leistungsvereinbarungen abschliessen. Sie trägt die Kosten.
+
 #### § 26
 
 **Eigenanteil der Leistungsbezügerinnen und -bezüger**
@@ -349,21 +403,21 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 #### § 27
 
-**Finanzierung der Hilfe und Betreuung**
+**Finanzierung der Hauswirtschaft und Betreuung**
 
-<sup>1</sup> Die Kosten für Hilfe und Betreuung gehen grundsätzlich zu Lasten der Leistungsbezügerinnen und Leistungsbezüger, soweit sie nicht von der Gemeinde verbilligt werden.
+<sup>1</sup> Die Kosten für Hauswirtschaft und Betreuung gehen grundsätzlich zulasten der Leistungsbezügerinnen und Leistungsbezüger, soweit sie nicht von der Wohnsitzgemeinde verbilligt werden.
 
-<sup>2</sup> Bei Leistungserbringern mit kommunalem Leistungsauftrag verbilligt die Gemeinde die Leistungen um mindestens 24 % der ausgewiesenen Lohnkosten.
+<sup>2</sup> Bei Leistungserbringern mit kommunalem Leistungsauftrag verbilligt die Gemeinde die Leistungen der Hauswirtschaft um mindestens 16 % der ausgewiesenen anrechenbaren Vollkosten. Die Gemeinde kann abgestufte Tarife aufgrund der wirtschaftlichen Verhältnisse der Leistungsbezügerinnen und Leistungsbezüger festlegen.
 
-<sup>3</sup> Für den Aufenthalt in Tagesheimen, Tages- und Nachtstrukturen in Pflegeheimen sowie für die Verbilligung von Mahlzeiten, das Begleitete Wohnen (inklusive Alltags- und Sozialberatung) und den Entlastungsdienst legt der Regierungsrat in Absprache mit dem Verband der Thurgauer Gemeinden Mindestbeiträge der Gemeinden an die Leistungserbringer fest.
+<sup>3</sup> Für den Aufenthalt in Tagesheimen, Tages- und Nachtstrukturen in Pflegeheimen sowie für die Verbilligung von Mahlzeiten, das Begleitete Wohnen (inklusive Alltags- und Sozialberatung), den Fahrdienst und den Entlastungsdienst legt der Regierungsrat in Absprache mit dem Verband Thurgauer Gemeinden Mindestbeiträge der Gemeinden an die Leistungserbringer fest.
 
 <sup>4</sup> Der Regierungsrat regelt den Kreis der Berechtigten und die Einzelheiten.
 
 #### § 27a
 
-**Beiträge des Kantons an ambulante Pflege sowie Hilfe und Betreuung**
+**Beiträge des Kantons an ambulante Pflege sowie Hauswirtschaft und Betreuung**
 
-<sup>1</sup> An den Leistungen der Gemeinden für die ambulante Pflege, Hilfe und Betreuung beteiligt sich der Kanton mit einem Beitrag von 40 %.
+<sup>1</sup> An den Leistungen der Gemeinden für die ambulante Pflege, Hauswirtschaft und Betreuung beteiligt sich der Kanton mit einem Beitrag von 40 %.
 
 <sup>2</sup> Das zuständige Departement regelt in Absprache mit dem Verband Thurgauer Gemeinden die Einzelheiten sowie die Abrechnung und Abwicklung der leistungsbezogenen Beiträge gegenüber den Gemeinden.
 
@@ -376,6 +430,20 @@ vom 25.10.1995 (Stand 01.01.2024)
 <sup>2</sup> Die Leistungsvereinbarungen sind für alle Gemeinden verbindlich, sofern ihnen drei Viertel der Gemeinden zustimmen.
 
 <sup>3</sup> Die Aufteilung der Finanzierungsanteile aus den Leistungsvereinbarungen nach Abs. 1 unter den Gemeinden erfolgt aufgrund der Einwohnerzahl am 31. Dezember des Vorjahres.
+
+#### § 27c
+
+**Finanzieller Ausgleich Aus- und Weiterbildung**
+
+<sup>1</sup> Die Aufteilung der Finanzierungsanteile für Aus- und Weiterbildungsleistungen gemäss § 25 auf die Gemeinden erfolgt aufgrund der Einwohnerzahl am 31. Dezember des Vorjahres.
+
+#### § 27d
+
+**Kantonaler Vollzugsaufwand**
+
+<sup>1</sup> Die Gemeinden beteiligen sich am Vollzugsaufwand des Kantons für die ambulante Pflegeversorgung und -finanzierung mit einem Anteil von 60 %.
+
+<sup>2</sup> Die Aufteilung erfolgt aufgrund der Einwohnerzahl am 31. Dezember des Vorjahres.
 
 ## 4. Spitalplanung und -finanzierung
 
@@ -415,11 +483,9 @@ vom 25.10.1995 (Stand 01.01.2024)
 
 **Aufnahmepflicht**
 
-<sup>1</sup> Das zuständige Departement prüft die Einhaltung der Aufnahmepflicht im Sinne von Art. 41a KVG. Vorbehalten bleiben die Bestimmungen betreffend Notfallbehandlungen bei Leistungsaufschub des Versicherers gemäss der Krankenversicherungsverordnung (TG KVV)[^31-1].
+<sup>1</sup> Das Departement prüft die Einhaltung der Aufnahmepflicht im Sinne von Art. 41a KVG. Vorbehalten bleiben die Bestimmungen infolge Eintrag auf der Liste der säumigen Prämienzahlerinnen und Prämienzahler.
 
 <sup>2</sup> Der Regierungsrat kann für Leistungen der Listenspitäler an ausschliesslich grundversicherten Thurgauer Patientinnen und Patienten einen durchschnittlichen Mindestanteil pro Jahr festlegen.
-
-[^31-1]: RB [832.10](https://www.rechtsbuch.tg.ch/data/832.10/de)
 
 #### § 32
 
