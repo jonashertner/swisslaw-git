@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2024-08-01
+version: 2026-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20240801-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° agosto 2024)
+del 23 maggio 2012 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ vista la legge federale del 17 giugno 2011[^ingress-1] sulla promozione dello sp
 
 ordina:
 
-[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Titolo 1: Programmi e progetti
 
@@ -54,8 +54,8 @@ Gioventù e Sport (G+S) persegue i seguenti obiettivi:
 
 <sup>2</sup> Per favorire l’integrazione sociale, la parità tra i sessi, la salute pubblica o la promozione di G+S, l’Ufficio federale dello sport (UFSPO) può adottare misure per facilitare l’accesso di determinati gruppi di bambini e giovani a singole discipline sportive G+S o al programma G+S nel complesso.
 
-[^2-1]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^2-2]: Nuova espr. giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^2-2]: Nuova espr. giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Offerte G+S
 
@@ -124,15 +124,15 @@ In nessun caso sono ammessi:
 
 <sup>3</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) stabilisce le discipline sportive G+S.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^6-2]: Nuova espr. giusta il n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^6-3]: [RS 935.91](https://fedlex.data.admin.ch/eli/cc/2013/87)
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^6-2]: Nuova espr. giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^6-3]: [RS 935.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11134)
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^7-1]: Abrogato dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 8
 
@@ -158,12 +158,12 @@ In G+S si distinguono sei gruppi di utenti (GU). L’UFSPO ripartisce le diverse
 
 <sup>2</sup> ...[^8-6]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^8-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^8-3]: Nuovo testo giusta il n. I dell’O del 20 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
-[^8-4]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^8-5]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^8-6]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 20 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
+[^8-4]: Abrogato dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^8-5]: Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^8-6]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 
 #### Art. 9
 
@@ -183,10 +183,10 @@ Per i singoli gruppi di utenti il DDPS stabilisce:
 
 <sup>4</sup> L*’*UFSPO definisce gli altri requisiti specifici per lo svolgimento di offerte G+S nelle singole discipline sportive, attività o nei singoli gruppi di utenti.[^9-4]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^9-3]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^9-4]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ### Sezione 4: Organizzatori
 
@@ -205,7 +205,7 @@ Chi intende svolgere corsi o campi G+S in una o più discipline sportive G+S (or
 
 <sup>2</sup> Le persone giuridiche costituite come società di capitali o cooperative, nonché le persone fisiche devono svolgere la propria attività aziendale o professionale principale nell’ambito della formazione sportiva o dell’insegnamento di attività sportive.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 10a
 
@@ -230,7 +230,7 @@ Nella sua decisione l’UFSPO stabilisce:
 
 <sup>3</sup> L’organizzatore deve comunicare senza indugio all’UFSPO ogni modifica delle circostanze di cui al capoverso 1 intervenuta dopo la registrazione.
 
-[^10a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 11
 
@@ -242,8 +242,8 @@ Nella sua decisione l’UFSPO stabilisce:
 
 <sup>3</sup> Gli organizzatori di offerte G+S informano i partecipanti, i loro rappresentanti legali e i quadri interessati sui possibili rischi correlati allo svolgimento dell’attività sportiva e richiamano la loro attenzione sull’utilità di un’assicurazione contro gli infortuni e di responsabilità civile.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 12
 
@@ -257,8 +257,8 @@ Nella sua decisione l’UFSPO stabilisce:
 
 <sup>4</sup> Il DDPS stabilisce un’adeguata partecipazione alle spese a carico dei partecipanti. Le offerte della formazione dei quadri organizzate dall’Esercito sono gratuite.[^12-2]
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
-[^12-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 
 ### Sezione 5: Quadri G+S
 
@@ -281,10 +281,10 @@ Fanno parte dei quadri G+S tutti i titolari di un riconoscimento quale:
 
 <sup>3</sup> Il riconoscimento deve essere rinnovato ogni due anni. A tale scopo le persone interessate devono frequentare un corso di formazione continua.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^13-2]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^13-3]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^13-4]: Introdotto dal n. I dell’O dell’11 set. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)). Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^13-2]: Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^13-4]: Introdotto dalla cifra I dell’O dell’11 set. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)). Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 14
 
@@ -292,7 +292,7 @@ Fanno parte dei quadri G+S tutti i titolari di un riconoscimento quale:
 
 <sup>1</sup> Il DDPS disciplina l’ammissione alla formazione dei quadri, gli aspetti essenziali della formazione e la formazione continua necessaria per prolungare il riconoscimento quale quadro.
 
-<sup>2</sup> L’UFSPO definisce la struttura della formazione e della formazione continua e mette a disposizione programmi quadro di formazione per le singole offerte della formazione dei quadri.
+<sup>2</sup> L’UFSPO definisce la struttura della formazione e della formazione continua e mette a disposizione programmi quadro di formazione per le singole offerte della formazione dei quadri.[^14-1]
 
 <sup>3</sup>
 
@@ -303,6 +303,8 @@ Esso può:
 - c. definire in maniera differenziata la durata della formazione continua per le diverse discipline sportive, temi e gruppi di destinatari.
 
 <sup>4</sup> Non sussiste alcun diritto all’ammissione alla formazione dei quadri o a un determinato corso o modulo. L’UFSPO decide in merito all’ammissione nel singolo caso.
+
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 15
 
@@ -318,7 +320,7 @@ Nella loro attività i quadri G+S attuano i principi fondamentali dello sport co
 
 <sup>2</sup> L’UFSPO stabilisce la formazione necessaria per le singole attività di monitore.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 17
 
@@ -330,7 +332,7 @@ I coach G+S rappresentano il proprio organizzatore nei confronti degli uffici ca
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^18-1]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 
 #### Art. 19
 
@@ -338,7 +340,7 @@ I coach G+S rappresentano il proprio organizzatore nei confronti degli uffici ca
 
 Gli esperti G+S formano i monitori G+S, i coach G+S e altri esperti G+S.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 
 #### Art. 20
 
@@ -350,7 +352,7 @@ Gli esperti G+S formano i monitori G+S, i coach G+S e altri esperti G+S.
 
 <sup>3</sup> Se il riconoscimento di un quadro G+S decade mentre è in corso un’offerta G+S, il quadro può continuare a essere impiegato fino al termine dei corsi o dei campi già iniziati; se il quadro in questione è un coach G+S può essere impiegato fino al termine dell’offerta.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 20a
 
@@ -360,7 +362,7 @@ Gli esperti G+S formano i monitori G+S, i coach G+S e altri esperti G+S.
 
 <sup>2</sup> Al termine del procedimento penale l’UFSPO decide per l’abolizione della sospensione o per la revoca del riconoscimento.
 
-[^20a-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^20a-1]: Introdotto dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 21
 
@@ -382,13 +384,13 @@ L’UFSPO può sospendere o revocare il riconoscimento quale quadro se:
 
 <sup>3</sup> Nei casi di scarsa importanza può pronunciare un avvertimento.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-2]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-3]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-4]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
-[^21-5]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-6]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
-[^21-7]: Introdotta dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-2]: Introdotta dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-3]: Introdotta dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-4]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
+[^21-5]: Introdotta dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21-6]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
+[^21-7]: Introdotta dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 21a
 
@@ -400,7 +402,7 @@ L’UFSPO può sospendere o revocare il riconoscimento quale quadro se:
 
 <sup>3</sup> Il riconoscimento complementare «sicurezza» è valido fino al termine del quarto anno successivo a quello in cui è stato rilasciato.
 
-[^21a-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^21a-1]: Introdotto dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 ### Sezione 6: Concessione dei contributi
 
@@ -438,10 +440,10 @@ Gli organi che accordano l’autorizzazione sono:
 
 <sup>6</sup> ...[^22-4]
 
-[^22-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^22-3]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^22-4]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^22-1]: Introdotto dalla cifra I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta la cifra I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^22-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^22-4]: Abrogato dalla cifra I dell’O del 3 apr. 2020, con effetto dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 23
 
@@ -470,15 +472,15 @@ Contributi supplementari possono essere versati a:
 
 <sup>5</sup> Il DDPS stabilisce l’entità dei contributi e li adegua periodicamente al rincaro.
 
-[^23-1]: Introdotta dal n. I dell’O del 20 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
-[^23-2]: Abrogata dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^23-3]: Abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^23-1]: Introdotta dalla cifra I dell’O del 20 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
+[^23-2]: Abrogata dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^23-3]: Abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 
 #### Art. 23a
 
 [^23a-1]
 
-[^23a-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° ago. 2021 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta la cifra I dell’O del 30 giu. 2021, in vigore dal 1° ago. 2021 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 24
 
@@ -492,7 +494,7 @@ Contributi supplementari possono essere versati a:
 
 <sup>4</sup> Non sono versati contributi se i collaboratori di un ufficio cantonale G+S o dell’UFSPO svolgono la funzione di coach G+S nell’ambito della loro attività di servizio.
 
-[^24-1]: Per. abrogato dal n. I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^24-1]: Per. abrogato dalla cifra I dell’O del 15 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 
 #### Art. 25
 
@@ -547,7 +549,7 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 <sup>6</sup> Una federazione sportiva o un’associazione giovanile nazionale può essere sostenuta con contributi per più discipline sportive G+S se fornisce prestazioni per la formazione dei quadri G+S in tutte le discipline sportive G+S interessate. La determinazione dell’importo dei contributi è retta dal capoverso 4; eventuali sinergie nell’ambito della federazione sportiva o dell’associazione giovanile nazionale interessata vanno considerate per diminuire i contributi.
 
-[^27a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^27a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ### Sezione 7: Ulteriori prestazioni della Confederazione
 
@@ -563,8 +565,8 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 <sup>5</sup> ...[^28-2]
 
-[^28-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^28-2]: Abrogato dal n. I dell’O del 20 ago. 2014, con effetto dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^28-2]: Abrogato dalla cifra I dell’O del 20 ago. 2014, con effetto dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
 
 ### Sezione 8: Ulteriori disposizioni organizzative
 
@@ -578,7 +580,7 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 <sup>3</sup> L’Ufficio federale delle costruzioni e della logistica (UFCL), se necessario d’intesa con l’UFSPO, provvede alla stampa e alla distribuzione di stampati, materiale e media didattici e distinzioni.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
 
 #### Art. 30
 
@@ -592,7 +594,7 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 <sup>4</sup> L’UFSPO assume la vigilanza globale sullo svolgimento delle offerte G+S e delle offerte della formazione dei quadri. Può incaricare esperti G+S di sottoporre a un controllo di qualità le offerte G+S e le offerte della formazione dei quadri.[^30-1]
 
-[^30-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 
 #### Art. 31
 
@@ -634,7 +636,7 @@ L’UFSPO stipula un contratto di prestazione con la federazione sportiva e giov
 
 <sup>2</sup> Definisce la durata e i contenuti della formazione e della formazione continua.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 
 #### Art. 35
 
@@ -648,7 +650,7 @@ I quadri ESA nella loro attività attuano i principi di fondo dello sport corret
 
 I monitori ESA possono dirigere offerte di attività sportive destinate agli adulti. Sono escluse le attività nelle discipline sportive di cui all’articolo 6 capoverso 2 lettere a e c.
 
-[^36-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^36-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 37
 
@@ -687,15 +689,15 @@ L’UFSPO revoca il riconoscimento a un membro dei quadri in caso di:
 
 <sup>4</sup> ...[^39-3]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^39-2]: Nuovo testo giusta il n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
-[^39-3]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^39-3]: Introdotto dalla cifra I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
 
 ### Sezione 2: Ulteriori misure di promozione dello sport e dell’attività fisica
 
 [^tit1-chap3-sec2-1]
 
-[^tit1-chap3-sec2-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^tit1-chap3-sec2-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 40
 
@@ -709,9 +711,9 @@ L’UFSPO revoca il riconoscimento a un membro dei quadri in caso di:
 
 <sup>5</sup> L’Ufficio federale della sanità pubblica può organizzare o sostenere con prestazioni in natura programmi e progetti per la promozione del movimento volti alla prevenzione delle malattie non trasmissibili, a condizione che i programmi e i progetti siano svolti da organizzazioni pubbliche o private attive nella promozione dell’attività fisica.[^40-3]
 
-[^40-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^40-2]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^40-3]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^40-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^40-2]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^40-3]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ### Capitolo 4: Federazioni sportive nazionali
 
@@ -738,16 +740,16 @@ I contributi federali sono destinati:
 
 <sup>5</sup> I contributi federali destinati al sostegno dello svolgimento di allenamenti e competizioni presso impianti sportivi di importanza nazionale sono calcolati in base all’uso effettivo di tali impianti.[^41-4]
 
-[^41-1]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
-[^41-2]: Introdotta dal n. I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
-[^41-3]: Introdotta dal n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 17](https://fedlex.data.admin.ch/eli/oc/2020/5)).
-[^41-4]: Introdotto dal n. I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 17](https://fedlex.data.admin.ch/eli/oc/2020/5)).
+[^41-1]: Introdotto dalla cifra I dell’O del 20 mag. 2020, in vigore dal 1° giu. 2020 al 31 dic. 2021 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)).
+[^41-2]: Introdotta dalla cifra I dell’O del 15 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6589](https://fedlex.data.admin.ch/eli/oc/2017/729)).
+[^41-3]: Introdotta dalla cifra I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 17](https://fedlex.data.admin.ch/eli/oc/2020/5)).
+[^41-4]: Introdotto dalla cifra I dell’O del 13 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2020 17](https://fedlex.data.admin.ch/eli/oc/2020/5)).
 
 #### Art. 41a
 
 [^41a-1]
 
-[^41a-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Abrogato dal n. I dell’O del 4 nov. 2020, con effetto dal 1° dic. 2020 ([RU 2020 4579](https://fedlex.data.admin.ch/eli/oc/2020/813)).
+[^41a-1]: Introdotto dalla cifra I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Abrogato dalla cifra I dell’O del 4 nov. 2020, con effetto dal 1° dic. 2020 ([RU 2020 4579](https://fedlex.data.admin.ch/eli/oc/2020/813)).
 
 ### Capitolo 5: Impianti sportivi
 
@@ -824,7 +826,7 @@ Nei limiti in cui non siano necessari per uso proprio, a pagamento e secondo la 
 
 <sup>3</sup> Può aprire al pubblico singoli impianti sportivi e infrastrutture, gratuitamente o a pagamento.
 
-[^45a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^45a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ## Titolo 2: Formazione e ricerca
 
@@ -880,7 +882,7 @@ I Cantoni provvedono affinché vi sia a disposizione degli insegnanti di educazi
 
 Per gli apprendisti che frequentano una formazione professionale di base della durata da due a quattro anni secondo la legge federale del 13 dicembre 2002[^51-1] sulla formazione professionale, l’insegnamento regolare dell’educazione fisica nelle scuole professionali di base è obbligatorio.
 
-[^51-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^51-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 52
 
@@ -921,7 +923,7 @@ Le scuole professionali di base garantiscono che per ogni anno scolastico nell�
 
 [^tit2-chap1-sec4-1]
 
-[^tit2-chap1-sec4-1]: Introdotta dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^tit2-chap1-sec4-1]: Introdotta dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 54a
 
@@ -950,7 +952,7 @@ Esse devono:
 
 <sup>4</sup> Se gli aiuti finanziari richiesti superano i mezzi disponibili, l’UFSPO istituisce un ordine di priorità per la valutazione delle domande ai sensi dell’articolo 13 capoverso 2 della legge del 5 ottobre 1990[^54b-1] sui sussidi. È sostenuto in primo luogo lo svolgimento di offerte che servono direttamente alla formazione continua dei docenti di educazione fisica.
 
-[^54b-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^54b-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 54c
 
@@ -973,7 +975,7 @@ Gli aiuti finanziari sono calcolati in base a:
 
 [^tit2-chap2-1]
 
-[^tit2-chap2-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^tit2-chap2-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ### Sezione 1: Posizionamento e compiti
 
@@ -995,7 +997,7 @@ Essa fornisce le seguenti prestazioni nel campo delle scienze dello sport:
 
 <sup>4</sup> La SUFSM svolge i propri compiti in maniera autonoma o in collaborazione con altre istituzioni svizzere ed estere.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 55a
 
@@ -1009,7 +1011,7 @@ Essa fornisce le seguenti prestazioni nel campo delle scienze dello sport:
 
 <sup>4</sup> L’UFSPO emana per la SUFSM un regolamento sull’organizzazione.
 
-[^55a-1]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^55a-1]: Introdotto dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 55b
 
@@ -1019,7 +1021,7 @@ Essa fornisce le seguenti prestazioni nel campo delle scienze dello sport:
 
 <sup>2</sup> Per ragioni importanti, esso può destituire membri del comitato consultivo della SUFSM.
 
-[^55b-1]: Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^55b-1]: Introdotto dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 56
 
@@ -1033,7 +1035,7 @@ Sono membri della scuola universitaria:
 
   i collaboratori, che comprendono:
 
-  - 1\. il personale assegnato alla SUFSM sotto il profilo organizzativo,
+  - 1\.[^56-2] il personale assegnato alla SUFSM sotto il profilo organizzativo, comprese le persone alle quali è stata conferita la nomina di professore SUFSM;
   - 2\. il rimanente personale dell’UFSPO, sempre che assuma costantemente per la SUFSM compiti nell’insegnamento o nella ricerca;
 
 - b. gli studenti e gli uditori.
@@ -1046,7 +1048,8 @@ Sono membri della scuola universitaria:
 
 <sup>5</sup> L’UFSPO disciplina i dettagli nel regolamento sull’organizzazione.
 
-[^56-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^56-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^56-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 57
 
@@ -1066,7 +1069,7 @@ Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello spor
 - a. cicli di studio di formazione continua;
 - b. altre proposte di formazione continua.
 
-[^57-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^57-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 58
 
@@ -1076,19 +1079,19 @@ Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello spor
 
 <sup>2</sup> La SUFSM adempie compiti nella ricerca settoriale della Confederazione nel campo dello sport e dell’attività fisica, segnatamente per la consulenza politica, le perizie, la valutazione e il monitoraggio.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 59
 
 [^59-1]
 
-[^59-1]: Abrogato dal n. I dell’O dell’11 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^59-1]: Abrogato dalla cifra I dell’O dell’11 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ### Sezione 2: Cicli di studio
 
 [^tit2-chap2-sec2-1]
 
-[^tit2-chap2-sec2-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^tit2-chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 60
 
@@ -1100,8 +1103,8 @@ Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello spor
 
 <sup>3</sup> Il DDPS stabilisce la procedura d’ammissione.
 
-[^60-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
-[^60-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^60-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^60-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 61
 
@@ -1111,7 +1114,7 @@ Essa può proporre i seguenti perfezionamenti nel campo delle scienze dello spor
 
 <sup>2</sup> Il DDPS può prevedere tasse più elevate per gli studenti stranieri che al momento dell’iscrizione alla valutazione delle attitudini o alla procedura di candidatura non erano domiciliati in Svizzera.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 62
 
@@ -1136,9 +1139,9 @@ I diplomati possono utilizzare i titoli protetti di:
 
 <sup>7</sup> L’UFSPO può emanare prescrizioni sull’organizzazione dei cicli di studi, sui contenuti della formazione dei singoli cicli di studi e sullo svolgimento delle verifiche delle competenze.
 
-[^62-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
-[^62-2]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
-[^62-3]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^62-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
+[^62-2]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^62-3]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 63
 
@@ -1158,20 +1161,20 @@ La SUFSM può proporre cicli di studio di formazione continua che portano al con
 
 <sup>4</sup> Il DDPS disciplina gli indirizzi e le prestazioni di studio dei cicli di studio di formazione continua nonché i requisiti per l’ottenimento del diploma conformemente alle disposizioni d’esecuzione relative alla LPSU[^63-2].
 
-[^63-1]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
-[^63-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-1]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^63-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 63a
 
 [^63a-1]
 
-[^63a-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
+[^63a-1]: Introdotto dalla cifra I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta la cifra I dell’O del 30 giu. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022 ([RU 2021 417](https://fedlex.data.admin.ch/eli/oc/2021/417)).
 
 #### Art. 64
 
 [^64-1]
 
-[^64-1]: Abrogato dal n. I dell’O dell’11 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^64-1]: Abrogato dalla cifra I dell’O dell’11 ago. 2021, con effetto dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 65
 
@@ -1215,14 +1218,14 @@ La persona interessata ha in particolare il diritto di:
 
 <sup>5</sup> La decisione relativa a una misura disciplinare deve essere notificata per scritto, deve essere motivata e contenere l’indicazione dei rimedi giuridici.
 
-[^65-1]: Introdotta dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
-[^65-2]: Introdotta dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^65-1]: Introdotta dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^65-2]: Introdotta dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ### Capitolo 3: Ricerca scientifica e monitoraggio nel campo dello sport
 
 [^tit2-chap3-1]
 
-[^tit2-chap3-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^tit2-chap3-1]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 #### Art. 66
 
@@ -1232,7 +1235,7 @@ La persona interessata ha in particolare il diritto di:
 
 <sup>2</sup> Elabora un piano direttore della ricerca per un periodo di quattro anni. Tale piano considera anche la strategia di ricerca della SUFSM.
 
-[^66-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 29; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624), [4565](https://fedlex.data.admin.ch/eli/oc/2011/644)n. II cpv. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419). [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 cpv. 1 e 2]. Vedi ora la LF del 14 dic. 2012 ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^66-1]: [[RU 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 29; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. 3 n. 3, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)all. n. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624), [4565](https://fedlex.data.admin.ch/eli/oc/2011/644)cifra II cpv. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419). [RU 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 cpv. 1 e 2]. Vedi ora la LF del 14 dic. 2012 ([RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)).
 
 #### Art. 67
 
@@ -1272,7 +1275,7 @@ A complemento delle statistiche dell’Ufficio federale di statistica l’UFSPO 
 
 <sup>3</sup> Il DDPS designa come osservatorio dello sport e dell’attività fisica un’istituzione adeguata. Stipula con essa un contratto di prestazioni.
 
-[^70a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^70a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ## Titolo 3: Sport di prestazione
 
@@ -1313,9 +1316,9 @@ L’ammontare dell’importo si fonda su:
 
 <sup>5</sup> Per il sostegno ai congressi internazionali dedicati allo sport sono applicabili per analogia i capoversi 1 lettere a e b nonché 2 e 3.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
-[^72-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
-[^72-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-2]: Nuovo testo giusta la cifra I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-3]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
 
 #### Art. 72a
 
@@ -1348,7 +1351,7 @@ Il contributo della Confederazione si fonda su:
 
 <sup>8</sup> Essa tiene una contabilità separata per quanto concerne l’attuazione delle misure. Riferisce all’UFSPO in merito all’attuazione e all’efficacia delle misure.
 
-[^72a-1]: Introdotto dal n. I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+[^72a-1]: Introdotto dalla cifra I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
 
 #### Art. 72a<sup>bis</sup>
 
@@ -1373,7 +1376,7 @@ Il contributo massimo corrisponde al più esiguo dei seguenti importi:
 
 <sup>3</sup> Il DDPS stabilisce l’importo effettivo nel rispetto del capoverso 2.
 
-[^72abis-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72abis-1]: Introdotto dalla cifra I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
 
 #### Art. 72b
 
@@ -1387,19 +1390,19 @@ Il contributo massimo corrisponde al più esiguo dei seguenti importi:
 
 <sup>4</sup> Può collaborare con organizzazioni del mondo del lavoro nel settore della formazione professionale degli allenatori e con ulteriori istituzioni svizzere o estere nel settore della formazione degli allenatori.
 
-[^72b-1]: Originario art. 72*a*. Introdotto dal n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^72b-1]: Originario art. 72*a*. Introdotto dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 ## Titolo 4: Correttezza e sicurezza
 
 [^tit4-1]
 
-[^tit4-1]: Nuovo testo giusta l’all. 2 n. II 1 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit4-1]: Nuovo testo giusta l’all. 2 cifra II n. 1 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 ### Capitolo 1: Misure generali
 
 [^tit4-chap1-1]
 
-[^tit4-chap1-1]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
+[^tit4-chap1-1]: Introdotto dalla cifra I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
 
 #### Art. 72c
 
@@ -1560,7 +1563,7 @@ Qualora un’organizzazione sportiva trasferisca aiuti finanziari della Confeder
 
 [^tit4-chap1a-1]
 
-[^tit4-chap1a-1]: Originario cap. 1. Introdotto dall’all. 2 n. II 1 dell’O dell’7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit4-chap1a-1]: Originario cap. 1. Introdotto dall’all. 2 cifra II n. 1 dell’O dell’7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 #### Art. 73
 
@@ -1669,7 +1672,7 @@ Le autorità giudiziarie e di perseguimento penale possono trasmettere le inform
 
 [^tit4-chap2-1]
 
-[^tit4-chap2-1]: Introdotto dall’all. 2 n. II 1 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
+[^tit4-chap2-1]: Introdotto dall’all. 2 cifra II n. 1 dell’O del 7 nov. 2018 sui giochi in denaro, in vigore dal 1° gen. 2019 ([RU 2018 5155](https://fedlex.data.admin.ch/eli/oc/2018/796)).
 
 #### Art. 78a
 
@@ -1693,7 +1696,7 @@ Concede aiuti finanziari soltanto a organizzazioni sportive che nel loro ambito 
 
 <sup>4</sup> L’UFSPO può sopprimere o ridurre gli aiuti finanziari alle organizzazioni sportive qualora queste ultime violino gli obblighi di comunicazione secondo l’articolo 64 capoverso 2 della legge federale del 29 settembre 2017[^78a-1] sui giochi in denaro.
 
-[^78a-1]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^78a-1]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 
 ## Titolo 5 : Esecuzione
 
@@ -1703,7 +1706,7 @@ Concede aiuti finanziari soltanto a organizzazioni sportive che nel loro ambito 
 
 Fatte salve le disposizioni contrarie di cui all’articolo 32 LPSpo e le disposizioni derogatorie degli articoli 22–26 della presente ordinanza, sono applicabili le disposizioni del capitolo 3 della legge federale del 5 ottobre 1990[^79-1] sugli aiuti finanziari e le indennità.
 
-[^79-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^79-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 80
 
@@ -1718,8 +1721,8 @@ Fatte salve le disposizioni contrarie di cui all’articolo 32 LPSpo e le dispos
 <sup>4</sup> In caso di ritardi nel pagamento di emolumenti l’UFSPO è autorizzato a rifiutare ai debitori ulteriori prestazioni fino all’avvenuto completo pagamento.
 
 [^80-1]: Abrogato dall’art. 10 dell’O del 15 nov. 2017 sugli emolumenti dell’Ufficio federale dello sport, con effetto dal 1° gen. 2018 ([RU 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)).
-[^80-2]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
-[^80-3]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^80-2]: [RS 419.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6861)
+[^80-3]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 1° ott. 2021 ([RU 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 80a
 
@@ -1729,7 +1732,7 @@ Fatte salve le disposizioni contrarie di cui all’articolo 32 LPSpo e le dispos
 
 <sup>2</sup> Può consegnare ai propri collaboratori un’attrezzatura sportiva personale, per quanto essa sia necessaria all’adempimento dei rispettivi compiti professionali.
 
-[^80a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
+[^80a-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020, in vigore dal 1° lug. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 
 ## Titolo 6: Disposizioni finali
 
@@ -1744,10 +1747,10 @@ Sono abrogate le seguenti ordinanze:
 - 3\. ordinanza del 21 ottobre 1987[^81-3] sulla preparazione dei maestri di ginnastica e sport nelle università;
 - 4\. ordinanza del 17 ottobre 2001[^81-4] sui requisiti minimi per l’esecuzione di controlli antidoping.
 
-[^81-1]: [[RU 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703); [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981); [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392); [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018); [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472); [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387), [2966](https://fedlex.data.admin.ch/eli/oc/2000/533); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 2, [4003](https://fedlex.data.admin.ch/eli/oc/2002/642); [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703); [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 28; [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571), [5823](https://fedlex.data.admin.ch/eli/oc/2007/789)n. I 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 4.2]
-[^81-2]: [[RU 1976 1403](https://fedlex.data.admin.ch/eli/oc/1976/1403_1403_1403), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 24 cpv. 1 lett. e]
-[^81-3]: [[RU 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464),[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 22, [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
-[^81-4]: [[RU 2001 2971](https://fedlex.data.admin.ch/eli/oc/2001/437), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 6]
+[^81-1]: [[RU 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703); [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981); [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392); [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018); [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472); [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387), [2966](https://fedlex.data.admin.ch/eli/oc/2000/533); [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)all. 2 n. 2, [4003](https://fedlex.data.admin.ch/eli/oc/2002/642); [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703); [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39); [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)cifra II n. 28; [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571), [5823](https://fedlex.data.admin.ch/eli/oc/2007/789)cifra I n. 3; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)cifra I n. 4.2]
+[^81-2]: [[RU 1976 1403](https://fedlex.data.admin.ch/eli/oc/1976/1403_1403_1403); [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 24 cpv. 1 lett. e]
+[^81-3]: [[RU 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464);[1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)cifra I n. 22, [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
+[^81-4]: [[RU 2001 2971](https://fedlex.data.admin.ch/eli/oc/2001/437); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 6]
 
 #### Art. 82
 
@@ -1775,7 +1778,7 @@ Sono abrogate le seguenti ordinanze:
 
 Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre 2015 al più tardi.
 
-[^83a-1]: Introdotto dal n. I dell’O del 20 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
+[^83a-1]: Introdotto dalla cifra I dell’O del 20 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2841](https://fedlex.data.admin.ch/eli/oc/2014/489)).
 
 #### Art. 83b
 
@@ -1783,13 +1786,13 @@ Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre
 
 Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre 2019 al più tardi.
 
-[^83b-1]: Introdotto dal n. I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^83b-1]: Introdotto dalla cifra I dell’O dell’11 set. 2015, in vigore dal 1° dic. 2015 ([RU 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 
 #### Art. 83c
 
 [^83c-1]
 
-[^83c-1]: Introdotto dal n. I dell’O del 3 apr. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^83c-1]: Introdotto dalla cifra I dell’O del 3 apr. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)). Abrogato dalla cifra I dell’O del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 83d
 
@@ -1801,7 +1804,7 @@ Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre
 
 <sup>3</sup> Il servizio di segnalazione e l’organo disciplinare devono adeguare le loro disposizioni organizzative e procedurali ai requisiti degli articoli 72*f*–72*h* entro il 31 dicembre 2024.
 
-[^83d-1]: Introdotto dal n. I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta il n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
+[^83d-1]: Introdotto dalla cifra I dell’O del 20 mag. 2020 ([RU 2020 1757](https://fedlex.data.admin.ch/eli/oc/2020/345)). Nuovo testo giusta la cifra I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
 
 #### Art. 83e
 
@@ -1811,7 +1814,7 @@ Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre
 
 <sup>2</sup> L’UFSPO può conferire il riconoscimento complementare «sicurezza» alle persone che hanno assolto una formazione continua sui temi della sicurezza nelle rispettive discipline sportive entro il 31 dicembre 2025.
 
-[^83e-1]: Introdotto dal n. I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
+[^83e-1]: Introdotto dalla cifra I dell’O del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 84
 
@@ -1825,7 +1828,7 @@ Allegato[^t-1]
 
 ## Prodotti e metodi proibiti
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
 
 ### I. Prodotti proibiti
 

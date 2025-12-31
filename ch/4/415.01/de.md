@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2024-08-01
+version: 2026-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20240801-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. August 2024)
+vom 23. Mai 2012 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Sportförderungsgesetz vom 17. Juni 2011[^ingress-1] (SpoFöG)
 
 verordnet:
 
-[^ingress-1]: [SR 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
+[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## 1. Titel: Programme und Projekte
 
@@ -125,7 +125,7 @@ In keinem Fall aufgenommen werden:
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^6-2]: Ausdruck gemäss Ziff. I der V vom 25. Jan. 2023, in Kraft seit 1. März 2023 ([AS 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
-[^6-3]: [SR 935.91](https://fedlex.data.admin.ch/eli/cc/2013/87)
+[^6-3]: [SR 935.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11134)
 
 #### Art. 7
 
@@ -250,13 +250,13 @@ Das BASPO legt in seinem Entscheid fest:
 
 <sup>1</sup> Organisatoren der Kaderbildung sind das BASPO oder die Kantone.
 
-<sup>2</sup> Das BASPO kann Sport- und Jugendverbände, Fachorganisationen von Sportleiterinnen und -leitern, Bildungsinstitutionen und das Heer mit der Kaderbildung betrauen.[^12-1]
+<sup>2</sup> Das BASPO kann Sport- und Jugendverbände, Fachorganisationen von Sportleiterinnen und -leitern, Bildungsinstitutionen und die Armee mit der Kaderbildung betrauen.[^12-1]
 
 <sup>3</sup> Es erlässt Weisungen zur Kaderbildung.
 
 <sup>4</sup> Das VBS legt eine von den Teilnehmerinnen und Teilnehmern zu entrichtende angemessene Kostenbeteiligung fest. Angebote der Kaderbildung, die vom Heer durchgeführt werden, sind kostenlos.[^12-2]
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 [^12-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 3701](https://fedlex.data.admin.ch/eli/oc/2015/615)).
 
 ### 5. Abschnitt: J+S-Kader
@@ -274,7 +274,7 @@ Das J+S-Kader umfasst alle Personen mit einer Anerkennung als:
 - c.[^13-2] …
 - d.[^13-3] J+S-Expertin oder -Experte in einer J+S-Sportart oder als J+S-Expertin oder -Experte Schulsport.
 
-<sup>1</sup> <sup>bis</sup> Soweit diese Verordnung oder untergeordnete Verordnungen nichts anderes vorsehen, gelten die Bestimmungen für J+S-Leiterinnen und -Leiter gleichermassen für J+S-Leiterinnen und -Leiter Schulsport und die Bestimmungen für J+S-Expertinnen und -Experten gleichermassen für J+S-Expertinnen und -Experten Schulsport.[^13-4]
+<sup>1<sup>bis</sup></sup> Soweit diese Verordnung oder untergeordnete Verordnungen nichts anderes vorsehen, gelten die Bestimmungen für J+S-Leiterinnen und -Leiter gleichermassen für J+S-Leiterinnen und -Leiter Schulsport und die Bestimmungen für J+S-Expertinnen und -Experten gleichermassen für J+S-Expertinnen und -Experten Schulsport.[^13-4]
 
 <sup>2</sup> Wer die entsprechende Ausbildung erfolgreich absolviert hat, kann als J+S-Kadermitglied anerkannt werden. Das BASPO erteilt die Anerkennung auf Antrag des Organisators der Kaderbildung. Es kann in begründeten Fällen vom Antrag abweichen.
 
@@ -291,7 +291,7 @@ Das J+S-Kader umfasst alle Personen mit einer Anerkennung als:
 
 <sup>1</sup> Das VBS regelt die Zulassung zur Kaderbildung, die Grundzüge der Ausbildung und die erforderliche Weiterbildung zum Erhalt der Kaderanerkennung.
 
-<sup>2</sup> Das BASPO legt die Aus- und Weiterbildungsstruktur fest und stellt für die einzelnen Angebote der Kaderbildung Rahmenlehrpläne zur Verfügung.
+<sup>2</sup> Das BASPO legt die Aus- und Weiterbildungsstruktur fest und definiert die in den einzelnen Ausbildungsstufen der Kaderbildung zu erwerbenden Kompetenzen.[^14-1]
 
 <sup>3</sup>
 
@@ -302,6 +302,8 @@ Es kann:
 - c. die Dauer der Weiterbildung für unterschiedliche Sportarten, Themen oder Zielgruppen unterschiedlich lang festlegen.
 
 <sup>4</sup> Es besteht kein Rechtsanspruch auf Zulassung zur Kaderbildung oder zu einem bestimmten Kurs oder Modul. Das BASPO entscheidet über die Zulassung im Einzelfall.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 15
 
@@ -385,9 +387,9 @@ Das BASPO kann die Anerkennung eines Kadermitgliedes sistieren oder entziehen, w
 [^21-2]: Fassung gemäss Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^21-3]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^21-4]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-5]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^21-5]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^21-6]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-7]: [SR 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^21-7]: [SR 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^21-8]: Eingefügt durch Ziff. I der V vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 21a
@@ -880,7 +882,7 @@ Die Kantone sorgen dafür, dass den Lehrpersonen Sport ein stufenspezifischer Le
 
 Für Lernende der zwei- bis vierjährigen beruflichen Grundbildung nach dem Berufsbildungsgesetz vom 13. Dezember 2002[^51-1] ist der regelmässige Sportunterricht an den Berufsfachschulen obligatorisch.
 
-[^51-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^51-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 52
 
@@ -950,7 +952,7 @@ Sie müssen:
 
 <sup>4</sup> Übersteigen die beantragten Finanzhilfen die verfügbaren Mittel, so erstellt das BASPO gestützt auf Artikel 13 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^54b-1] eine Prioritätenordnung, nach der die Gesuche beurteilt werden. Dabei wird in erster Linie die Durchführung von Angeboten unterstützt, die der unmittelbaren Weiterbildung von Lehrerinnen und Lehrern, die Sport unterrichten, dienen.
 
-[^54b-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^54b-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 54c
 
@@ -1033,7 +1035,7 @@ Hochschulangehörige sind:
 
   die Mitarbeiterinnen und Mitarbeiter bestehend aus:
 
-  - 1\. dem Personal, das organisatorisch der EHSM zugeteilt ist,
+  - 1\.[^56-2] dem Personal, das organisatorisch der EHSM zugeteilt ist, einschliesslich derjenigen Personen, die die Funktionsbezeichnungen «Professorin EHSM» oder «Professor EHSM» führen,
   - 2\. dem übrigen Personal des BASPO, soweit es für die EHSM regelmässig Aufgaben in Lehre oder Forschung wahrnimmt;
 
 - b. die Studierenden und die Hörerinnen und Hörer.
@@ -1047,6 +1049,7 @@ Hochschulangehörige sind:
 <sup>5</sup> Das BASPO regelt die Einzelheiten im Organisationsreglement.
 
 [^56-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^56-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 57
 
@@ -1101,7 +1104,7 @@ Sie kann im Bereich Sportwissenschaften folgende Weiterbildungen anbieten:
 <sup>3</sup> Das VBS legt das Zulassungsverfahren fest.
 
 [^60-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
-[^60-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^60-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 61
 
@@ -1136,7 +1139,7 @@ Die Absolventinnen und Absolventen können folgende geschützte Titel führen:
 
 <sup>7</sup> Das BASPO kann Vorschriften über die Organisation der Studiengänge, die Ausbildungsinhalte der einzelnen Studiengänge und die Durchführung der Kompetenznachweise erlassen.
 
-[^62-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^62-1]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^62-2]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 [^62-3]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
@@ -1159,7 +1162,7 @@ Die EHSM kann Weiterbildungsstudiengänge anbieten, die zu einem der folgenden A
 <sup>4</sup> Das VBS regelt die Ausrichtung und die Studienleistungen der Weiterbildungsstudiengänge sowie die Anforderungen an die Abschlüsse gemäss den Ausführungsbestimmungen zum Hochschulförderungs- und -koordinationsgesetz vom 30. September 2011[^63-2].
 
 [^63-1]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
-[^63-2]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-2]: [SR 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 63a
 
@@ -1232,7 +1235,7 @@ Die betroffene Person hat insbesondere das Recht:
 
 <sup>2</sup> Es erarbeitet ein Forschungskonzept für eine Dauer von jeweils vier Jahren. Das Konzept berücksichtigt die Forschungsstrategie der EHSM.
 
-[^66-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)Art. 57 Abs. 1]. Siehe heute: das BG vom 14. Dez. 2012 über die Förderung der Forschung und der Innovation ([SR 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^66-1]: [[AS 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28); [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)Art. 19; [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)Anhang Ziff. 4, [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)Anhang Ziff. 9; [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99); [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286); [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634); [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 39; [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109); [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99); [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)Ziff. I 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 13; [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [AS 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)Art. 57 Abs. 1]. Siehe heute: das BG vom 14. Dez. 2012 über die Förderung der Forschung und der Innovation ([SR 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)).
 
 #### Art. 67
 
@@ -1693,7 +1696,7 @@ Es gewährt Finanzhilfen nur an Sportorganisationen, die in ihrem Bereich über 
 
 <sup>4</sup> Das BASPO kann Finanzhilfen an Sportorganisationen streichen oder kürzen, wenn diese ihre Meldepflichten nach Artikel 64 Absatz 2 des Geldspielgesetzes vom 29. September 2017[^78a-1] verletzen.
 
-[^78a-1]: [SR 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^78a-1]: [SR 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 
 ## 5. Titel: Vollzug
 
@@ -1703,7 +1706,7 @@ Es gewährt Finanzhilfen nur an Sportorganisationen, die in ihrem Bereich über 
 
 Unter Vorbehalt widersprechender Bestimmungen in Artikel 32 SpoFöG sowie abweichender Bestimmungen in den Artikeln 22–26 dieser Verordnung sind die Bestimmungen des 3. Kapitels des Subventionsgesetzes vom 5. Oktober 1990[^79-1] anwendbar.
 
-[^79-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^79-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 80
 
@@ -1718,7 +1721,7 @@ Unter Vorbehalt widersprechender Bestimmungen in Artikel 32 SpoFöG sowie abweic
 <sup>4</sup> Befinden sich Gebührenschuldnerinnen und -schuldner mit der Bezahlung von Gebühren im Verzug, so ist das BASPO berechtigt, sie bis zur vollständigen Bezahlung von der Erbringung weiterer Dienstleistungen auszuschliessen.
 
 [^80-1]: Aufgehoben durch Art. 10 der V vom 15. Nov. 2017 über die Gebühren des Bundesamts für Sport, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)).
-[^80-2]: [SR 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^80-2]: [SR 419.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6861)
 [^80-3]: Fassung gemäss Ziff. I der V vom 11. Aug. 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 80a
@@ -1863,7 +1866,7 @@ Corticotropin, Tetracosactid und Corticotropin-Releasingfaktoren, namentlich Cor
 
 ### 6. Wachstumshormone, insulinähnliche Wachstumsfaktoren und andere Wachstumsfaktoren
 
-**Wachstumshormon (GH)**, dessen **Fragmente** und dessen **Releasingfaktoren**, namentlich: **Fragmente des Wachstumshormons,** z. B. AOD-9604, hGH 176-191; **Wachstumshormon-Releasing Hormon** (GHRH) und dessen **Analoga**, z. B. CJC-1293, CJC-1295, Sermorelin, Somatorelin und Tesamorelin; **Wachstumshormon-Sekretagoga** (GHS), z. B. Lenomorelin (Ghrelin) und dessen Mimetika, namentlich Anamorelin, Ipamorelin, Macimorelin und Tabimorelin; **Wachstumshormon-Releasing-Peptide** (GHRP), z. B. Alexamorelin, GHRP-1, GHRP-2 (Pralmorelin), GHRP-3, GHRP-4, GHRP-5, GHRP-6 und Examorelin (Hexarelin).
+**Wachstumshormon (GH)**, dessen **Fragmente** und dessen **Releasingfaktoren**, namentlich: **Fragmente des Wachstumshormons,** z. B. AOD-9604, hGH 176-191; **Wachstumshormon-Releasing Hormon** (GHRH) und dessen **Analoga**, z. B. CJC-1293, CJC-1295, Sermorelin, Somatorelin und Tesamorelin; **Wachstumshormon-Sekretagoga** (GHS), z. B. Lenomorelin (Ghrelin) und dessen Mimetika, namentlich Anamorelin, Ipamorelin, Macimorelin und Tabimorelin; **Wachstumshormon-****Releasing-Peptide** (GHRP), z. B. Alexamorelin, GHRP-1, GHRP-2 (Pralmorelin), GHRP-3, GHRP-4, GHRP-5, GHRP-6 und Examorelin (Hexarelin).
 
 **Wachstumsfaktoren und Modulatoren der Wachstumsfaktoren**, namentlich: **Blutplättchen-Wachstumsfaktor** (PDGF); **Fibroblasten-Wachstumsfaktoren** (FGF); **Hepatozyten-Wachstumsfaktor** (HGF); **insulinähnlicher Wachstumsfaktor-1** (IGF-1) und dessen **Analoga**; **mechanisch induzierte Wachstumsfaktoren** (MGF); **Thymosin-β4** und dessen **Derivate**, z. B. TB-500; **vaskulär-endothelialer Wachstumsfaktor** (VEGF).
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2024-08-01
+version: 2026-01-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20240801-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (État le 1<sup>er</sup> août 2024)
+du 23 mai 2012 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi du 17 juin 2011 sur l’encouragement du sport (LESp)[^ingress-1], vu 
 
 arrête:
 
-[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/eli/cc/2012/460)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 415.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6814)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ## Titre 1 Programmes et projets
 
@@ -122,7 +122,7 @@ Ne sont admis en aucun cas:
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)).
 [^6-2]: Nouvelle expression selon le ch. I de l’O du 25 janv. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)). Il a été tenu compte de cette mod. dans tout le texte.
-[^6-3]: [RS 935.91](https://fedlex.data.admin.ch/eli/cc/2013/87)
+[^6-3]: [RS 935.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11134)
 
 #### Art. 7
 
@@ -289,7 +289,7 @@ Font partie des cadres J+S toutes les personnes titulaires d’un certificat:[^1
 
 <sup>1</sup> Le DDPS règle l’admission à la formation des cadres, fixe les grandes orientations de cette formation et détermine la formation continue nécessaire à l’obtention de la reconnaissance de cadre.
 
-<sup>2</sup> L’OFSPO élabore la structure de la formation et de la formation continue et met des plans d’études cadre à disposition pour les différentes offres de formation des cadres.
+<sup>2</sup> L’OFSPO élabore la structure de la formation et de la formation continue et définit les compétences à acquérir aux différents niveaux de la formation des cadres.[^14-1]
 
 <sup>3</sup>
 
@@ -300,6 +300,8 @@ Il peut:
 - c. prescrire des formations continues de durées différentes selon les sports, les thèmes et les groupes cibles.
 
 <sup>4</sup> L’admission à la formation des cadres ou à un cours ou module précis n’est pas un droit. L’OFSPO décide de l’admission au cas par cas.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 15
 
@@ -383,9 +385,9 @@ L’OFSPO peut suspendre ou retirer la reconnaissance d’un cadre J+S dans les 
 [^21-2]: Nouvelle teneur selon le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^21-3]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 [^21-4]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-5]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^21-5]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 [^21-6]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-[^21-7]: [RS 120](https://fedlex.data.admin.ch/eli/cc/1998/1546_1546_1546)
+[^21-7]: [RS 120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4735)
 [^21-8]: Introduite par le ch. I de l’O du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
 
 #### Art. 21a
@@ -878,7 +880,7 @@ Les cantons veillent à ce que les personnes qui enseignent l’éducation physi
 
 En vertu de la loi fédérale du 13 décembre 2002 sur la formation professionnelle[^51-1], l’enseignement régulier de l’éducation physique est obligatoire pour les formations professionnelles d’une durée de 2 à 4 ans.
 
-[^51-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^51-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 52
 
@@ -948,7 +950,7 @@ Elles doivent:
 
 <sup>4</sup> Si les aides financières demandées excèdent les ressources disponibles, l’OFSPO dresse, conformément à l’art. 13, al. 2, de la loi du 5 octobre 1990 sur les subventions[^54b-1], un ordre de priorité pour l’appréciation des demandes. Est soutenue en premier lieu la réalisation d’offres servant directement à la formation continue des enseignants donnant les cours d’éducation physique.
 
-[^54b-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^54b-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 54c
 
@@ -1031,7 +1033,7 @@ Les membres de la HEFSM sont:
 
   les collaborateurs, qui comprennent:
 
-  - 1\. le personnel assigné à la HEFSM sur le plan organisationnel,
+  - 1\.[^56-2] le personnel assigné à la HEFSM sur le plan organisationnel, y compris les personnes exerçant la fonction de professeur HEFSM,
   - 2\. les autres membres du personnel de l’OFSPO qui assument régulièrement des tâches pour la HEFSM dans les domaines de l’enseignement ou de la recherche;
 
 - b. les étudiants et les auditeurs.
@@ -1045,6 +1047,7 @@ Les membres de la HEFSM sont:
 <sup>5</sup> L’OFSPO règle les modalités dans le règlement d’organisation.
 
 [^56-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
+[^56-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 673](https://fedlex.data.admin.ch/eli/oc/2025/673)).
 
 #### Art. 57
 
@@ -1099,7 +1102,7 @@ Elle peut aussi proposer les formations continues suivantes dans le domaine des 
 <sup>3</sup> Le DDPS fixe les modalités de la procédure d’admission.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
-[^60-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^60-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 61
 
@@ -1134,7 +1137,7 @@ Les lauréats peuvent porter les titres protégés suivants:
 
 <sup>7</sup> L’OFSPO peut édicter des prescriptions sur l’organisation des filières d’études, le contenu des différentes filières d’études et la réalisation des évaluations de compétence.
 
-[^62-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^62-1]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 [^62-2]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 [^62-3]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
@@ -1157,7 +1160,7 @@ La HEFSM peut proposer des filières de formation continue menant aux titres sui
 <sup>4</sup> Le DDPS règle l’orientation des études et les prestations d’études à fournir dans le cadre des filières de formation continue ainsi que les exigences liées aux diplômes conformément aux dispositions d’exécution de la LEHE[^63-2].
 
 [^63-1]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
-[^63-2]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+[^63-2]: [RS 414.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6771)
 
 #### Art. 63a
 
@@ -1230,7 +1233,7 @@ La personne concernée a en particulier le droit:
 
 <sup>2</sup> Il élabore un plan de recherche pour une durée de 4 ans. Le plan tient compte de la stratégie de recherche de la HEFSM.
 
-[^66-1]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)ch. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [RO 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 al. 1]. Voir actuellement la LF du 14 déc. 2012 ([RS 420.1](https://fedlex.data.admin.ch/eli/cc/2013/786)).
+[^66-1]: [[RO 1984 28](https://fedlex.data.admin.ch/eli/oc/1984/28_28_28), [1992 1027](https://fedlex.data.admin.ch/eli/oc/1992/1027_1027_1027)art. 19, [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)annexe ch. 4 [2080](https://fedlex.data.admin.ch/eli/oc/1993/2080_2080_2080)annexe ch. 9, [1996 99](https://fedlex.data.admin.ch/eli/oc/1996/99_99_99), [2000 1858](https://fedlex.data.admin.ch/eli/oc/2000/286), [2003 4265](https://fedlex.data.admin.ch/eli/oc/2003/634), [2004 4261](https://fedlex.data.admin.ch/eli/oc/2004/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 39, [2008 433](https://fedlex.data.admin.ch/eli/oc/2008/109), [2010 651](https://fedlex.data.admin.ch/eli/oc/2010/99), [2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624)ch. I 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 13, [2013 2639](https://fedlex.data.admin.ch/eli/oc/2013/532). [RO 2013 4425](https://fedlex.data.admin.ch/eli/oc/2013/786)art. 57 al. 1]. Voir actuellement la LF du 14 déc. 2012 ([RS 420.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6865)).
 
 #### Art. 67
 
@@ -1691,7 +1694,7 @@ Il subordonne les aides financières aux organisations sportives à l’adoption
 
 <sup>4</sup> L’OFSPO peut supprimer ou réduire les aides financières octroyées aux organisations sportives qui violent leurs obligations d’informer au sens de l’art. 64, al. 2, de la loi du 29 septembre 2017 sur les jeux d’argent[^78a-1].
 
-[^78a-1]: [RS 935.51](https://fedlex.data.admin.ch/eli/cc/2018/795)
+[^78a-1]: [RS 935.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11107)
 
 ## Titre 5 Exécution
 
@@ -1701,7 +1704,7 @@ Il subordonne les aides financières aux organisations sportives à l’adoption
 
 Sous réserve de dispositions contraires figurant à l’art. 32 LESp ainsi que de dispositions dérogatoires figurant aux art. 22 à 26 de la présente ordonnance, les dispositions du chapitre 3 de la loi du 5 octobre 1990 sur les subventions[^79-1] sont applicables.
 
-[^79-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^79-1]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 80
 
@@ -1716,7 +1719,7 @@ Sous réserve de dispositions contraires figurant à l’art. 32 LESp ainsi que 
 <sup>4</sup> Il est habilité à ne pas fournir de nouvelles prestations en cas de retard de paiement des émoluments.
 
 [^80-1]: Abrogé par l’art. 10 de l’O du 15 nov. 2017 sur les émoluments de l’Office fédéral du sport, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6601](https://fedlex.data.admin.ch/eli/oc/2017/732)).
-[^80-2]: [RS 419.1](https://fedlex.data.admin.ch/eli/cc/2016/132)
+[^80-2]: [RS 419.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6861)
 [^80-3]: Nouvelle teneur selon le ch. I de l’O du 11 août 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 498](https://fedlex.data.admin.ch/eli/oc/2021/498)).
 
 #### Art. 80a
@@ -1744,7 +1747,7 @@ Sont abrogées:
 
 [^81-1]: [[RO 1987 1703](https://fedlex.data.admin.ch/eli/oc/1987/1703_1703_1703), [1990 981](https://fedlex.data.admin.ch/eli/oc/1990/981_981_981), [1994 1392](https://fedlex.data.admin.ch/eli/oc/1994/1392_1392_1392), [1996 3018](https://fedlex.data.admin.ch/eli/oc/1996/3018_3018_3018), [1998 1472](https://fedlex.data.admin.ch/eli/oc/1998/1472_1472_1472), [2000 2427](https://fedlex.data.admin.ch/eli/oc/2000/387)[2966](https://fedlex.data.admin.ch/eli/oc/2000/533), [2002 723](https://fedlex.data.admin.ch/eli/oc/2002/141)annexe 2 ch. 2 [4003](https://fedlex.data.admin.ch/eli/oc/2002/642), [2004 4593](https://fedlex.data.admin.ch/eli/oc/2004/703), [2005 257](https://fedlex.data.admin.ch/eli/oc/2005/39), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725), [2007 4297](https://fedlex.data.admin.ch/eli/oc/2007/571)[5823](https://fedlex.data.admin.ch/eli/oc/2007/789)ch. 3, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 4.2]
 [^81-2]: [[RO 1976 1403](https://fedlex.data.admin.ch/eli/oc/1976/1403_1403_1403), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 24 al. 1 let. e]
-[^81-3]: [[RO 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch I 22 3021]
+[^81-3]: [[RO 1987 1464](https://fedlex.data.admin.ch/eli/oc/1987/1464_1464_1464), [1996 2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)ch I 22 [3021](https://fedlex.data.admin.ch/eli/oc/1996/3021_3021_3021)]
 [^81-4]: [[RO 2001 2971](https://fedlex.data.admin.ch/eli/oc/2001/437), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 6]
 
 #### Art. 82
