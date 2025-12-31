@@ -3,13 +3,12 @@ canton: BS
 number: BaB 153.300
 title: Reglement für die Einbürgerungskommission
 language: de
-version: 2019-03-18
-valid_until: 2025-12-31
-version_adopted: 2019-02-26
+version: 2026-01-01
+version_adopted: 2025-10-14
 adopted: 2014-05-13
 in_force: 2014-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20153.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4633/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6671/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4633/pdf_file"
 
 Einbürgerungskommission: Reglement | Basel: Bürgergemeinde
 
-Vom 13. Mai 2014 (Stand 18. März 2019)
+Vom 13. Mai 2014 (Stand 1. Januar 2026)
 
 Der Bürgerrat der Stadt Basel
 
@@ -79,6 +78,28 @@ erlässt in Ausführung von § 14 Abs. 2 Ziff. 9 sowie von § 16 der Gemeindeord
 <sup>2</sup> In begründeten Fällen kann die Einbürgerungskommission respektive eine ihrer Kammern ein Einbürgerungsbegehren bis zu drei Jahre zurückstellen und Bürgerrechtsbewerbende danach zu einem zweiten Gespräch vorladen. Der Rückstellungsentscheid ist schriftlich und begründet mitzuteilen. Er enthält den Hinweis, dass die betroffenen Bürgerrechtsbewerbenden schriftlich eine anfechtbare, mit einer Rechtsmittelbelehrung versehene Verfügung des Bürgerrats verlangen können.
 
 <sup>3</sup> Sind für die Beurteilung eines Einbürgerungsgesuchs zusätzliche Abklärungen notwendig, so kann die Einbürgerungskommission respektive eine ihrer Kammern ihren Entscheid aufschieben und den Zentralen Diensten einen entsprechenden Abklärungsauftrag erteilen.
+
+#### § 5
+
+**Offenlegung von Interessenbindungen**
+
+<sup>1</sup> Die Mitglieder der Einbürgerungskommission beraten und stimmen ohne Instruktion.
+
+<sup>2</sup> Sie geben bei Amtsantritt ihre Interessenbindungen schriftlich bekannt und machen Angaben zu:
+
+- a) ihrer beruflichen Tätigkeit;
+- b) Tätigkeiten in Führungs- und Aufsichtsgremien in in- und ausländischen Unternehmungen, Körperschaften, Genossenschaften, Anstalten und Stiftungen des privaten und öffentlichen Rechts;
+- c) Tätigkeiten in Kommissionen oder anderen Organen des Staates (Bund, Kanton, Gemeinde), sofern die Wahl nicht durch den Bürgerrat oder den Bürgergemeinderat erfolgt.
+
+<sup>3</sup> Änderungen sind der Kanzlei des Bürgergemeinderates laufend bekanntzugeben.
+
+<sup>4</sup> Die Kanzlei des Bürgergemeinderates führt aufgrund der Angaben ein Verzeichnis, welches veröffentlicht und laufend aktualisiert wird.
+
+#### § 6
+
+**Ausstand**
+
+<sup>1</sup> Die Ausstandspflicht der Mitglieder der Einbürgerungskommission gilt für die Gesprächsführung, die Beratung und die Beschlussfassung.
 
 Schlussbestimmung
 
