@@ -3,10 +3,9 @@ canton: ZH
 number: "861.31"
 title: Tarifordnung für die Aufwendungen der ABC-Wehr
 language: de
-nachtrag: "80"
-valid_until: 2026-01-01
+nachtrag: "131"
 adopted: 2025-09-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-861_31-2012_11_26-2013_03_01-080.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-861_31-2025_09_17-2026_01_01-131.html"
 text: pdf
 ---
 
@@ -14,16 +13,16 @@ text: pdf
 
 # Tarifordnung für die Aufwendungen der ABC-Wehr
 
-(vom 26. November 2012)[^t-1],[^t-2]
+(vom 17. September 2025)[^t-1],[^t-2]
 
-Das Amt für Abfall, Wasser, Energie und Luft (AWEL) und die Gebäudeversicherung Kanton Zürich,
+Das Amt für Abfall, Wasser, Energie und Luft (AWEL) und die Gebäudeversicherung Kanton Zürich (GVZ),
 
-gestützt auf Art. 36 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-3], Art. 45 des Gewässerschutzgesetzes vom 24. Januar 1991[^t-4], § 36 Abs. 2 und § 29 Abs. 4 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen vom 24. September 1978[^t-5], § 2 der Gebührenordnung zum Vollzug des Umweltrechts vom 3. November 1993[^t-6] sowie § 13 Abs. 4 der Verordnung über den ABC-Schutz vom 28. Februar 2007[^t-7],
+gestützt auf Art. 36 des Umweltschutzgesetzes vom 7. Oktober 1983[^t-3], Art. 45 des Gewässerschutzgesetzes vom 24. Januar 1991[^t-4], § 29 Abs. 4 und § 36 Abs. 2 des Gesetzes über die Feuerpolizei und das Feuerwehrwesen vom 24. September 1978[^t-5], § 2 der Gebührenordnung zum Vollzug des Umweltrechts vom 3. November 1993[^t-6] sowie § 44 Abs. 2 der Verordnung über den ABC-Schutz vom 26. Februar 2025[^t-7],
 
 beschliessen:
 
-[^t-1]: OS 68, 68; Begründung siehe ABl 2012-12-07.
-[^t-2]: Inkrafttreten: 1. März 2013.
+[^t-1]: OS 80, 315; Begründung siehe ABl 2025-10-03.
+[^t-2]: Inkrafttreten: 1. Januar 2026.
 [^t-3]: SR 814.01.
 [^t-4]: SR 814.20.
 [^t-5]: LS 861.1.
@@ -36,7 +35,7 @@ beschliessen:
 
 <sup>1</sup> Die Tarifordnung bestimmt, welche Kosten die Verursacherin oder der Verursacher eines atomaren, biologischen oder chemischen Schadenereignisses für die Bewältigung des Ereignisses bezahlen muss. Unter die chemischen Schadenereignisse fallen auch Ereignisse mit Öl wie zum Beispiel Bodenverschmutzungen nach Verkehrsunfällen oder Ölschäden (Ölspuren) auf Strassen.
 
-<sup>2</sup> Für die Verrechnung der Aufwendungen von Feuerwehreinsätzen bei Verkehrsunfällen und Fahrzeugbränden gilt die entsprechende Tarifordnung vom 16. November 2012[^1-1].
+<sup>2</sup> Für die Verrechnung der Aufwendungen von Feuerwehreinsätzen bei Verkehrsunfällen und Fahrzeugbränden gilt die entsprechende Tarifordnung vom 4. September 2025[^1-1].
 
 [^1-1]: LS 861.32.
 
@@ -48,21 +47,21 @@ beschliessen:
 
 <sup>2</sup> Die GVZ führt eine zentrale Inkassostelle für alle Aufwendungen, die bei der Bewältigung eines Ereignisses entstehen. Dazu gehören namentlich die Kosten a. der einsatzleistenden Stützpunktfeuerwehr und der einsatzleistenden Ortsfeuerwehr,
 
-- b. des B-Fachberatungs- und des Gewässerschutzpikettdienstes sowie des Gewässerschutzlabors (AWEL),
+- b. des B-Fachberatungs- und des Gewässerschutz-Piketts des AWEL, des Gewässerschutzlabors (AWEL) sowie der Gewässerschutzfachstellen der Städte Zürich und Winterthur,
 
 - c. aus dem Einsatz von Ölsperren, Ölabscheidern, Fahrzeugen einschliesslich Ölwehrschiffen sowie weiteren Geräten,
 
-- d. für das verwendete Verbrauchsmaterial und die Entsorgung von Löschwasser,
+- d. für das verwendete Verbrauchsmaterial und die Entsorgung von kontaminiertem Löschwasser,
 
-- e. des Primärpiketts des C-Fachberatungsdienstes, Forensisches Institut der Stadtpolizei Zürich und der Wasserschutzpolizei (Stadt Zürich),
+- e. des Primärpiketts des C-Fachberatungsdienstes des Forensischen Instituts Zürich (FOR),
 
 **1**
 
-- 1\. 4. 13 - 80
+- 1\. 1. 26 - 131
 
 - f. des Sekundärpiketts des C-Fachberatungsdienstes (GVZ),
 
-- g. der kantonalen Seepolizei (Kantonspolizei),
+- g. der See- oder Flussrettungsdienste der Anrainergemeinden,
 
 - h. der beigezogenen Dritten.
 
@@ -74,17 +73,15 @@ beschliessen:
 
 <sup>1</sup> Für den Einsatz von Personal werden folgende Kosten verrechnet:
 
-- a. Feuerwehrpersonal: Fr. 125 pro Einsatzstunde für Angehörige der Milizfeuerwehren, Fr. 180 pro Einsatzstunde für Angehörige der Berufsfeuerwehren,
+- a. Feuerwehrpersonal: Fr. 130 pro Einsatzstunde für Angehörige der Milizfeuerwehren, Fr. 185 pro Einsatzstunde für Angehörige der Berufsfeuerwehren,
 
-- b. Fachberatungs- und Pikettdienste des AWEL, der Stadt Zürich (Forensisches Institut der Stadtpolizei) und der GVZ: Fr. 128 pro Einsatzstunde,
+- b. Fachberatungs- und Pikettdienste der GVZ: Fr. 140 pro Einsatzstunde,
 
-- c. übrige Einsatzkräfte wie beigezogene Expertinnen, Experten oder weitere Dritte: die von diesen in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung.
+- c. übrige Einsatzkräfte im Sinne von § 2 dieser Tarifordnung sowie beigezogene Expertinnen, Experten oder weitere Dritte: die von diesen in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung.
 
 <sup>2</sup> Die verrechenbare Einsatzzeit für das Personal dauert von der Alarmierung bis zur Entlassung, einschliesslich der Wiederherstellung der Einsatzbereitschaft der Fahrzeuge und Geräte (Retablierung). Die erste angebrochene Einsatzstunde wird als volle Stunde verrechnet. Die weitere Einsatzzeit wird auf die Viertelstunde genau verrechnet.
 
-<sup>3</sup> Die Tarife nach Absatz 1 lit. a umfassen auch die Vorhaltekosten nach § 29 Abs. 1 lit. a und c des Gesetzes über die Feuerpolizei und das Feuerwehrwesen[^3-1].
-
-[^3-1]: LS 861.1.
+<sup>3</sup> Die Tarife nach Abs. 1 lit. a umfassen auch die Vorhaltekosten nach § 29 Abs. 1 lit. a und c des Gesetzes über die Feuerpolizei und das Feuerwehrwesen.
 
 #### § 4
 
@@ -92,59 +89,53 @@ beschliessen:
 
 <sup>1</sup> Für den Einsatz von Fahrzeugen und Geräten (ohne Personal) werden folgende Kosten verrechnet:
 
-- a. ABC-Messfahrzeug Fr. 700 pro Einsatzstunde
+- a. pro Einsatzstunde:
 
-- b. Anhänger Fr. 100 pro Einsatzstunde
+- 1\. ABC-Messfahrzeug Fr. 700
 
-- c. Autodrehleiter (ADL), mind. 25 m Fr. 400 pro Einsatzstunde
+- 2\. Anhänger Fr. 100
 
-- d. Containertransportfahrzeug, leer Fr. 500 pro Fahrzeug und Einsatz
+- 3\. Autodrehleiter (ADL) / Hubrettungsfahrzeug (HRF) Fr. 400
 
-- e. Einsatzleit-/Kommandofahrzeug Fr. 300 pro Einsatzstunde
+- 4\. Einsatzleitfahrzeug Fr. 300
 
-- f. Container Umpumpequipment Fr. 2500 pro Einsatz
+- 5\. Mobiler Grosslüfter (MGL) Fr. 300
 
-- g. Gerätschaften wie: Motorspritze, Tauchpumpe, Kettensäge, Wassersauger, Lüftungsgerät usw. Fr. 40 pro Gerät pro Einsatzstunde
+- 6\. Öl-/Chemie-/Strahlenwehrfahrzeug (ABCF) Fr. 600
 
-- h. Hochleistungslüfterfahrzeug Fr. 300 pro Einsatzstunde
+- 7\. Ölwehrschiff Fr. 300
 
-- i. Hubrettungsfahrzeug Fr. 350 pro Einsatzstunde
+- 8\. Pikettfahrzeuge AWEL, B- oder C-Fachberatende (BFB, CFB) Fr. 100
 
-- j. Kreislaufgeräte Fr. 120 pro Gerät und Einsatz
+- 9\. Pionierfahrzeug (PIF) Fr. 300
 
-- k. B-Laboratorium Fr. 1500 pro Analyse und Einsatz
+- 10\. Tanklöschfahrzeug (TLF) Fr. 300
 
-- l. Öl-/Chemie-/Strahlenwehrfahrzeug (ABCF) Fr. 600 pro Einsatzstunde
+- 11\. übrige Einsatzfahrzeuge Fr. 100
 
-- m. Ölabscheider mobil Fr. 500 pro Gerät und Einsatztag
+- 12\. Grosslöschfahrzeug (GLF) Fr. 400
 
-- n. Ölsperre Glatt in Hochfelden Fr. 2400 pro Einsatz
+- b. pro Einsatz:
 
-- o. Ölsperren mobil Fr. 50 pro Element und Einsatz
+- 1\. Wechselladefahrzeuge (WLF), leer Fr. 500 pro Fahrzeug
 
-- p. Ölwehrschiff Fr. 300 pro Einsatzstunde
+- 2\. Container Umpumpequipment Fr. 5000
 
-- q. Pikettfahrzeuge AWEL, B- oder C-Fachberatende (BFB, CFB) Fr. 100 pro Einsatzstunde
+- 3\. B-Laboratorium Fr. 1500 pro Analyse
 
-- r. Pionierfahrzeug (PiF) Fr. 300 pro Einsatzstunde
+- 4\. Ölsperre Glatt in Hochfelden Fr. 2400
 
-- s. Tanklöschfahrzeug (TLF) Fr. 300 pro Einsatzstunde
+- 5\. Ölsperren-Anhänger Fr. 500
 
-- t. übrige Einsatzfahrzeuge Fr. 100 pro Einsatzstunde
-
-- u. Universallöschfahrzeug (ULF) Fr. 400 pro Einsatzstunde
-
-- v. Vollschutzanzug Fr. 150 pro Anzug und Einsatz
+- c. Ölabscheider mobil Fr. 500 pro Gerät und Einsatztag
 
 <sup>2</sup> Die verrechenbare Einsatzzeit beginnt mit der Ausfahrt des Fahrzeuges aus dem Feuerwehrlokal und endet mit dessen Rückkehr. Erfolgt die Verrechnung nach Einsatzstunden, wird die erste angebrochene Einsatzstunde als volle Stunde verrechnet. Die weitere Einsatzzeit wird auf die Viertelstunde genau verrechnet.
 
-<sup>3</sup> Die in den Fahrzeugen mitgeführten Geräte sind mit Ausnahme der Vollschutzanzüge und Kreislaufgeräte in den Fahrzeugkosten inbegriffen.
+<sup>3</sup> Die in den Fahrzeugen mitgeführten Geräte sind in den Fahrzeugkosten inbegriffen.
 
-<sup>4</sup> Die Tarife nach Absatz 1 umfassen auch die Vorhaltekosten nach § 29 Abs. 1 lit. b des Gesetzes über die Feuerpolizei und das Feuerwehrwesen[^4-1].
+<sup>4</sup> Die Tarife nach Abs. 1 umfassen auch die Vorhaltekosten nach § 29 Abs. 1 lit. b des Gesetzes über die Feuerpolizei und das Feuerwehrwesen.
 
 <sup>5</sup> Fahrzeuge und Geräte von beigezogenen Dritten werden zu den von diesen in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung, verrechnet.
-
-[^4-1]: LS 861.1.
 
 #### § 5
 
@@ -156,18 +147,10 @@ beschliessen:
 
 <sup>3</sup> Für die Reinigung von Kanalisationsanlagen und weitere Sanierungsarbeiten werden die von den ausführenden Dritten in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung, verrechnet.
 
-**3**
-
-- 1\. 4. 13 - 80
-
 <sup>4</sup> Für Untersuchungen des Gewässerschutzlabors oder von weiteren Laboratorien werden die von diesen in Rechnung gestellten Kosten, zuzüglich 3% Umtriebsentschädigung, verrechnet.
 
-<sup>5</sup> Der Personalaufwand für das Überprüfen und nötigenfalls Überarbeiten von Brandschutz- und Feuerwehreinsatzplänen wird gemäss § 3 Abs. 1 verrechnet.
-
-<sup>6</sup> Für Fehlalarme werden im Einzelfall höchstens Fr. 1800 verrechnet.
-
-#### § 6
+**3**
 
 **Personalkosten der Feuerwehren gegenüber der GVZ**
 
-Die Feuerwehren verrechnen die Personalkosten aus Einsätzen gegenüber der GVZ (zentrale Inkassostelle) zu den Tarifen der Entschädigungsverordnung ihrer Trägerorganisation (höchstens Fr. 65 pro Einsatzstunde für Angehörige der Milizfeuerwehren einschliesslich Spesen, höchstens Fr. 120 pro Einsatzstunde für Angehörige der Berufsfeuerwehren einschliesslich Spesen).
+- 1\. 1. 26 - 131 § 6. Die Feuerwehren verrechnen die Personalkosten aus Einsätzen gegenüber der GVZ (zentrale Inkassostelle) zu den Tarifen der Entschädigungsverordnung ihrer Trägerorganisation (höchstens Fr. 70 pro Einsatzstunde für Angehörige der Milizfeuerwehren einschliesslich Spesen, höchstens Fr. 125 pro Einsatzstunde für Angehörige der Berufsfeuerwehren einschliesslich Spesen).
