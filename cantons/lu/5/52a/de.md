@@ -3,20 +3,19 @@ canton: LU
 number: 52a
 title: Verordnung über die Wahlen und die übrigen personalrechtlichen Entscheide im Zuständigkeitsbereich des Kantonsgerichtes
 language: de
-version: 2013-06-01
-valid_until: 2025-12-31
-version_adopted: 2013-03-26
+version: 2026-01-01
+version_adopted: 2026-09-22
 adopted: 2010-12-17
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/52a"
-pdf: "https://srl.lu.ch/api/de/versions/2254/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4922/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Wahlen und die übrigen personalrechtlichen Entscheide im Zuständigkeitsbereich des Kantonsgerichtes
 
-vom 17.12.2010 (Stand 01.06.2013)
+vom 17.12.2010 (Stand 01.01.2026)
 
 Das Obergericht des Kantons Luzern,[^ingress-1]
 
@@ -27,9 +26,9 @@ beschliesst:
 [^ingress-1]: Gemäss Änderung vom 26. März 2013, in Kraft seit dem 1. Juni 2013 (G 2013 127), wurde im Titel, im 1. Zwischentitel sowie in den §§ 1–5 die Bezeichnung «Obergericht» durch «Kantonsgericht» ersetzt.
 [^ingress-2]: SRL Nr. [51](https://srl.lu.ch/data/51/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
 
-## 1 Wahlen
+## 1 Wahlen und Anstellungen
 
-### 1.1 Wahlen durch das Kantonsgericht
+### 1.1 Wahlen und Anstellungen durch das Kantonsgericht
 
 #### § 1
 
@@ -53,21 +52,21 @@ beschliesst:
 
 **Weitere Funktionen**
 
-<sup>1</sup> Das Kantonsgericht wählt den stellvertretenden Leiter oder die stellvertretende Leiterin Grundbuch, die Grundbuchverwalterinnen und -verwalter, die stellvertretenden Grundbuchverwalterinnen und -verwalter sowie die nicht im Sportelsystem tätigen Konkursbeamtinnen und -beamten und deren Stellvertreterinnen und Stellvertreter in das öffentlich-rechtliche Arbeitsverhältnis nach dem kantonalen Personalgesetz.
+<sup>1</sup> Das Kantonsgericht stellt den stellvertretenden Leiter oder die stellvertretende Leiterin Grundbuch, die Grundbuchverwalterinnen und -verwalter und deren Stellvertreterinnen und Stellvertreter sowie die nicht im Sportelsystem tätigen Konkursbeamtinnen und -beamten und deren Stellvertreterinnen und Stellvertreter nach dem kantonalen Personalgesetz an.
 
-<sup>2</sup> Für die Wahl des stellvertretenden Leiters oder der stellvertretenden Leiterin Grundbuch, der Grundbuchverwalterinnen und -verwalter und der stellvertretenden Grundbuchverwalterinnen und -verwalter steht dem Leiter oder der Leiterin Grundbuch ein Vorschlagsrecht zu. Der Vorschlag ist für das Kantonsgericht nicht bindend.
+<sup>2</sup> Für die Anstellung des stellvertretenden Leiters oder der stellvertretenden Leiterin Grundbuch, der Grundbuchverwalterinnen und -verwalter und der stellvertretenden Grundbuchverwalterinnen und -verwalter steht dem Leiter oder der Leiterin Grundbuch ein Vorschlagsrecht zu. Der Vorschlag ist für das Kantonsgericht nicht bindend.
 
-<sup>3</sup> Die im Sportelsystem tätigen Konkursbeamtinnen und -beamten werden vom Kantonsgericht gewählt und abberufen. Die Abberufung erfolgt in sinngemässer Anwendung der Bestimmungen über das öffentlich-rechtliche Arbeitsverhältnis nach dem kantonalen Personalgesetz.
+<sup>3</sup> Die im Sportelsystem tätigen ausserordentlichen Konkursbeamtinnen und -beamten werden vom Kantonsgericht eingesetzt und abgesetzt. Die Absetzung erfolgt in sinngemässer Anwendung der Bestimmungen über das öffentlich-rechtliche Arbeitsverhältnis nach dem kantonalen Personalgesetz.
 
-### 1.2 Wahlen durch unterstellte Gerichte und Organisationseinheiten
+### 1.2 Anstellungen durch unterstellte Gerichte und Organisationseinheiten
 
 #### § 4
 
 **Angestellte**
 
-<sup>1</sup> Die dem Kantonsgericht unterstellten Gerichte und Organisationseinheiten wählen ihre übrigen Angestellten.
+<sup>1</sup> Die dem Kantonsgericht unterstellten Gerichte und Organisationseinheiten stellen ihre übrigen Angestellten an.
 
-<sup>2</sup> Die Geschäftsleitung der Gruppe erstinstanzliche Gerichte wählt die Mitarbeitenden der zentralen Einsatzgruppe (Pool).
+<sup>2</sup> Die Geschäftsleitung der Gruppe erstinstanzliche Gerichte stellt die Mitarbeitenden der zentralen Einsatzgruppe (Pool) an.
 
 ## 2 Übrige personalrechtliche Entscheide
 
@@ -75,7 +74,7 @@ beschliesst:
 
 **Zuständige Behörde**
 
-<sup>1</sup> Das Kantonsgericht entscheidet bezüglich der Leiterinnen und Leiter der Gruppen, der Gerichts- und Abteilungspräsidentinnen und -präsidenten und der Richterinnen und Richter der erstinstanzlichen Gerichte, der Friedensrichterinnen und -richter, des Präsidenten oder der Präsidentin der Schlichtungsbehörde Miete und Pacht, des stellvertretenden Leiters oder der stellvertretenden Leiterin Grundbuch, der Grundbuchverwalterinnen und -verwalter, der stellvertretenden Grundbuchverwalterinnen und -verwalter und der Konkursbeamtinnen und -beamten über
+<sup>1</sup> Das Kantonsgericht entscheidet bezüglich der Präsidentinnen und Präsidenten sowie der Leiterinnen und Leiter der Gruppen, der Gerichts- und Abteilungspräsidentinnen und -präsidenten und der Richterinnen und Richter der erstinstanzlichen Gerichte, der Friedensrichterinnen und -richter, des Präsidenten oder der Präsidentin der Schlichtungsbehörde Miete und Pacht, des stellvertretenden Leiters oder der stellvertretenden Leiterin Grundbuch, der Grundbuchverwalterinnen und -verwalter, der stellvertretenden Grundbuchverwalterinnen und -verwalter und der Konkursbeamtinnen und -beamten über
 
 - a. die Einreihung und Festsetzung des Erstlohns,
 - b. die Bewilligung von Urlaub von mehr als zwei Monaten,
