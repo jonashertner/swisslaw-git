@@ -4,7 +4,7 @@ number: "922.03.1"
 title: "RÈGLEMENT du 07.07.2004 d'exécution de la loi du 28 février 1989 sur la faune (RLFaune)"
 short: RLFaune
 language: fr
-version: 2024-06-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/922.03.1?id=21dd947f-7594-4427-8826-31b464078f96"
 ---
 
@@ -1633,7 +1633,7 @@ arrête
 
 <sup>1</sup> L'indemnité versée pour les dommages est fixée par le service sur la base de l'expertise, en collaboration avec l'expert, et sur la base d'une directive départementale ; celle-ci fixe les taux des indemnités versées pour les dommages causés par la faune.
 
-<sup>2</sup> Les dommages inférieurs à CHF 300.- considérés par surface de culture, prairie, pâturage ou forêt ne sont pas indemnisés.
+<sup>2</sup> Les dommages inférieurs à CHF 500.- considérés par surface de culture, prairie, pâturage ou forêt ne sont pas indemnisés.
 
 <sup>3</sup> Lors du versement de l'indemnité ou de la réparation sous forme de prestation en nature prévue par la loi[^112-1] , le service peut fixer des conditions de prévention afin d'éviter de nouveaux dommages sur la même parcelle.
 
@@ -1773,16 +1773,16 @@ Annexes
 
 1
 
-[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/1?dmev=01.06.2024)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/1?dmev=01.01.2026)
 
 2
 
-[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/2?dmev=01.06.2024)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/2?dmev=01.01.2026)
 
 3
 
-[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/3?dmev=01.06.2024)
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/3?dmev=01.01.2026)
 
 4
 
-[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/4?dmev=01.06.2024)
+[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/21dd947f-7594-4427-8826-31b464078f96/annexes/4?dmev=01.01.2026)
