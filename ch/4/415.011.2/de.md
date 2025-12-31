@@ -4,11 +4,11 @@ title: Verordnung des BASPO vom 12. Juli 2012 über «Jugend und Sport» (J+S-V-
 short: J+S-V-BASPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/463"
 language: de
-version: 2022-12-01
+version: 2026-01-01
 adopted: 2012-07-12
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/de/xml/fedlex-data-admin-ch-eli-cc-2012-463-20221201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-463-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/de"
 
 (J+S-V-BASPO)
 
-vom 12. Juli 2012 (Stand am 1. Dezember 2022)
+vom 12. Juli 2012 (Stand am 1. Januar 2026)
 
 Das Bundesamt für Sport (BASPO),
 
-gestützt auf die Artikel 6 Absatz 3, 8 Absatz 1, 9 Absätze 3 und 4, 14 Absätze 2 und 3, 16 Absatz 2, 20 Absatz 2 der Sportförderungsverordnung vom 23. Mai 2012[^ingress-1] (SpoFöV), auf die Artikel 10 Absatz 2, 15 Absatz 2, 27 Absatz 3, 29 Absatz 2, 40 Absatz 4, 46 Absatz 4 der Verordnung des VBS vom 25. Mai 2012[^ingress-2] über Sportförderungsprogramme und -projekte (VSpoFöP) sowie auf Artikel 3 der Verordnung vom 24. November 2004[^ingress-3] zum Erwerbsersatzgesetz,[^ingress-4]
+gestützt auf die Artikel 6 Absatz 3, 8 Absatz 1, 9 Absätze 3 und 4, 14 Absätze 2 und 3, 16 Absatz 2, 20 Absatz 2 der Sportförderungsverordnung vom 23. Mai 2012[^ingress-1] (SpoFöV), auf die Artikel 10 Absatz 2, 15 Absatz 2, 27 Absatz 3, 29 Absatz 2, 40 Absatz 4, 46 Absatz 4 der Verordnung des VBS vom 25. Mai 2012[^ingress-2] über Sportförderungsprogramme und -projekte (VSpoFöP) sowie auf Artikel 3 der Erwerbsersatzverordnung vom 24. November 2004[^ingress-3] (EOV),[^ingress-4]
 
 verordnet:
 
-[^ingress-1]: [SR 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
-[^ingress-2]: [SR 415.011](https://fedlex.data.admin.ch/eli/cc/2012/462)
-[^ingress-3]: [SR 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^ingress-4]: Fassung gemäss Ziff. I der V des BASPO vom 16. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^ingress-1]: [SR 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
+[^ingress-2]: [SR 415.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6816)
+[^ingress-3]: [SR 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
+[^ingress-4]: Fassung gemäss Ziff. I der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ## 1. Abschnitt: J+S-Sportarten
 
@@ -42,7 +42,7 @@ verordnet:
 
 **Zuteilung der Sportarten zu den Nutzergruppen**
 
-<sup>1</sup> Sportarten der Nutzergruppe 1 sind Aikido, Akrobatikturnen, Allround, American Football, Armbrust, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Bogenschiessen, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Gewehr, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Pistole, Radball, Radquer, Reiten, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trialradsport, Trampolin, Triathlon, Turnen, Unihockey, Volleyball, Voltige, Wasserball, Wasserspringen und Wushu/Kung Fu.[^2-1]
+<sup>1</sup> Sportarten der Nutzergruppe 1 sind Aikido, Akrobatikturnen, Allround, American Football, Armbrust, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Bogenschiessen, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Gewehr, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Pistole, Radball, Radquer, Reiten, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trialradsport, Trampolin, Triathlon, Turnen, Unihockey, Volleyball, Voltige, Wasserball, Wasserspringen und Wushu/Kung-Fu.[^2-1]
 
 <sup>2</sup> Sportarten der Nutzergruppe 2 sind Bergsteigen, Biathlon, Kanusport, Rudern, Segeln, Skifahren, Skilanglauf, Skispringen, Skitouren, Snowboard, Sportklettern, Wasserfahren und Windsurfen.[^2-2]
 
@@ -52,7 +52,7 @@ verordnet:
 
 <sup>5</sup> …[^2-3]
 
-[^2-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^2-1]: Fassung gemäss Ziff. I der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 [^2-2]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 [^2-3]: Aufgehoben durch Ziff. I der V des BASPO vom 16. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
@@ -182,12 +182,13 @@ Die Struktur für die Aus- und Weiterbildung der J+S-Leiterinnen und -Leiter, de
 
 <sup>2</sup> Die verkürzten Ausbildungen in der Form von Einführungskursen dauern 1–4 Tage.
 
-<sup>3</sup> Es darf pro Kalenderjahr in der Regel nur eine weiterführende Ausbildungsstufe absolviert werden. Über Ausnahmen entscheidet die Leitung J+S des BASPO.
+<sup>3</sup> …[^10-3]
 
 <sup>4</sup> Die Unterrichtszeit pro Ausbildungstag beträgt mindestens 6 Stunden, pro Halbtag mindestens 3 Stunden.
 
 [^10-1]: Fassung gemäss Ziff. I der V des BASPO vom 16. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 [^10-2]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^10-3]: Aufgehoben durch Ziff. I der V des BASPO vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 11
 
@@ -218,41 +219,15 @@ Ein J+S-Kurs oder -Modul gilt als bestanden, wenn:
 
 <sup>2</sup> Der Organisator der Kaderbildung entscheidet auf Gesuch hin über Ausnahmen von der Teilnahmepflicht oder vom Erbringen eines erforderlichen Kompetenznachweises.
 
-<sup>3</sup>
+<sup>3</sup> Die Leistungen in geprüften Kurs- oder Modulinhalten werden mit dem Prädikat «erfüllt» oder «nicht erfüllt» bewertet.[^13-1]
 
-Die Leistungen in geprüften Kurs- oder Modulinhalten werden bewertet:
-
-- a.
-
-  mit einer der folgenden Noten:
-
-  - 1\. Note 1: ungenügend,
-  - 2\. Note 2: genügend,
-  - 3\. Note 3: gut,
-  - 4\. Note 4: sehr gut; oder
-
-- b. mit dem Prädikat «erfüllt» oder «nicht erfüllt».
+[^13-1]: Fassung gemäss Ziff. I der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 14
 
-**Empfehlung**
+[^14-1]
 
-<sup>1</sup> Ist eine Empfehlung aus einem Weiterbildungsmodul Zulassungsvoraussetzung für die Teilnahme an weiterführenden Angeboten der J+S-Kaderbildung, so gibt die Kursleitung eine diesbezügliche Einschätzung ab.
-
-<sup>2</sup>
-
-Es werden folgende Einschätzungen abgegeben:
-
-- a. sehr empfohlen;
-- b. empfohlen;
-- c. bedingt empfohlen;
-- d. nicht empfohlen.
-
-<sup>3</sup> Sind die übrigen Zulassungsvoraussetzungen erfüllt, so berechtigen die Einschätzungen nach Absatz 2 Buchstaben a und b zur Teilnahme an den weiterführenden Angeboten der Kaderbildung.
-
-<sup>4</sup> Liegt eine Einschätzung nach Absatz 2 Buchstabe c vor, so entscheidet die Leitung J+S des BASPO, ob eine Teilnahme an den weiterführenden Angeboten der Kaderbildung von weiteren Bedingungen und Auflagen abhängig gemacht wird.[^14-1]
-
-[^14-1]: Fassung gemäss Ziff. I der V des BASPO vom 16. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^14-1]: Aufgehoben durch Ziff. I der V des BASPO vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ## 4. Abschnitt: J+S-Leiterinnen und -Leiter
 
@@ -268,11 +243,12 @@ Die Anerkennungen als J+S-Leiterin oder -Leitern wird für eine bestimmte J+S-Sp
 
 **Anerkennung als J+S-Leiterin oder -Leiter Schulsport**[^16-1]
 
-<sup>1</sup> Die Anerkennung als J+S-Leiterin oder -Leiter Schulsport berechtigt zur Durchführung von Aktivitäten in folgenden J+S-Sportarten: Aikido, Akrobatikturnen, Allround, American Football, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Radball, Radquer, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Skilanglauf, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trampolin, Trialradsport, Triathlon, Turnen, Unihockey, Volleyball, Wasserball, Wasserspringen und Wushu/Kung Fu.
+<sup>1</sup> Die Anerkennung als J+S-Leiterin oder -Leiter Schulsport berechtigt zur Durchführung von Aktivitäten in folgenden J+S-Sportarten: Aikido, Akrobatikturnen, Allround, American Football, Artistic Swimming, Badminton, Bahnradsport, Baseball/Softball, Basketball, BMX, Curling, Einrad, Eishockey, Eiskunstlauf, Eisschnelllauf, Faustball, Fechten, Fussball, Geräteturnen, Golf, Gymnastik und Tanz, Handball, Hornussen, Inline Hockey, Judo, Ju-Jitsu, Karate, Kickboxing Light, Korbball, Kunstradfahren, Kunstturnen, Landhockey, Leichtathletik, Light-Contact Boxing, Mountainbike, Nationalturnen, Orientierungslauf, Parkour, Radball, Radquer, Rettungsschwimmen, Rhönrad, Rhythmische Gymnastik, Ringen, Rock’n’Roll, Rollhockey, Rollkunstlauf, Rugby, Schwimmen, Schwingen, Skilanglauf, Speedskating, Squash, Strassenradsport, Streethockey, Synchronized Skating, Tanzen Standard/Latein, Tchoukball, Tennis, Tischtennis, Trampolin, Trialradsport, Triathlon, Turnen, Unihockey, Volleyball, Wasserball, Wasserspringen und Wushu/Kung-Fu.[^16-2]
 
 <sup>2</sup> J+S-Leiterinnen und -Leiter Schulsport, die über eine gültige Anerkennung verfügen und eine J+S-Leitertätigkeit ausserhalb der Nutzergruppen 4 und 5 von J+S-Sportarten gemäss Absatz 1 ausüben wollen, können die J+S-Leiteranerkennung in der entsprechenden Sportart in ihrer Zielgruppe beantragen. Das BASPO erteilt die Anerkennung, wenn die gesuchstellende Person die Voraussetzungen für die Zulassung zur Grundausbildung als J+S-Leiterin oder J+S-Leiter in der entsprechenden Sportart erfüllt.
 
 [^16-1]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^16-2]: Fassung gemäss Ziff. I der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 17
 
@@ -392,7 +368,7 @@ Eine Entschädigung nach Artikel 1*a* Absatz 4 des Erwerbsersatzgesetzes vom 25.
 
 <sup>3</sup> Keine Entschädigung wird für Personen ausgerichtet, die zwar gestützt auf Artikel 21 Absatz 2 VSpoFöP zu einer J+S-Kadertätigkeit zugelassen worden sind, aber in der Schweiz keine Erwerbstätigkeit ausüben.[^29-5]
 
-[^29-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^29-1]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^29-2]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 [^29-3]: Aufgehoben durch Ziff. I der V des BASPO vom 16. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 [^29-4]: Fassung gemäss Ziff. I der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
@@ -414,13 +390,13 @@ Anhang 1[^t-1]
 
 ### 1. Aus- und Weiterbildung der J+S-Leiterinnen und -Leiter und der J+S-Expertinnen und ‑Experten
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/de/xml/image/image1.png)
 
 Die Module der Weiterbildung dienen dem Erhalt der Leiteranerkennung, der Wiedererlangung einer weggefallenen Leiteranerkennung oder der Vertiefung der Leiterkompetenzen. Die Module der Weiterbildungsstufe 2 bauen auf denjenigen der Weiterbildungsstufe 1 auf.
 
 ### 2. Aus- und Weiterbildung der J+S-Coaches
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/de/xml/image/image2.png)
 
 Anhang 2[^t-2]
 
@@ -447,7 +423,7 @@ Anhang 3[^t-3]
 
 ## Erforderliche Ausbildungen der J+S-Leiterinnen und -Leiter
 
-[^t-3]: Fassung gemäss Ziff. II der V des BASPO vom 30. März 2022, in Kraft seit 1. Dez. 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^t-3]: Fassung gemäss Ziff. II der V des BASPO vom 30. März 2022 ([AS 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)). Bereinigt gemäss Ziff. II Abs. 2 der V des BASPO vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ### 1. Erforderliche Anerkennungen in J+S-Sportarten
 
@@ -545,34 +521,27 @@ Anhang 3[^t-3]
 <tr><td>Wushu/Kung Fu</td><td>Wushu/Kung Fu</td></tr>
 </table>
 
-1.2 Zur Durchführung einer J+S-Aktivität in den Sportarten Bergsteigen, Lagersport/Trekking und Skitouren muss bis zum 31. Dezember 2025 zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1.1 verfügen über:
+1.2 Zur Durchführung eines J+S-Lagers in der Sportart Lagersport/Trekking muss zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1.1 verfügen über:
 
-- a) eine Grundausbildung von mehr als 8 Tagen; oder
-- b) eine Zusatzausbildung Kurs- oder Lagerleiter/in.
+- a. eine Grundausbildung von mehr als 8 Tagen; oder
+- b. eine Zusatzausbildung Lagerleiter/-in.
 
 ### 2. Erforderliche Zusatzanerkennung Sicherheit
 
-Zur Durchführung von J+S-Aktivitäten mit erhöhten Sicherheitsanforderungen in den folgenden Sportarten muss zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1 über die aufgeführte Zusatzanerkennung Sicherheit verfügen:
+Zur Durchführung von J+S-Aktivitäten mit erhöhten Sicherheitsanforderungen in den folgenden Sportarten muss zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1 über die nachstehend aufgeführte Zusatzanerkennung Sicherheit verfügen:
 
 <table>
 <tr><th>Sportart</th><th>Spezifische Aktivität</th><th>Erforderliche Zusatzanerkennung Sicherheit</th></tr>
+<tr><td>Bergsteigen</td><td>– Hochtouren mit Schwierigkeitsgrad ab WS– bis WS+ – Abgesicherte Mehrseillängenrouten</td><td>Bergsteigen mit Zusatz «Touren WS»</td></tr>
+<tr><td>Bergsteigen</td><td>– Hochtouren mit Schwierigkeitsgrad ab ZS– – Mehrseillängenrouten</td><td>Bergsteigen mit Zusatz «Hochtouren»</td></tr>
 <tr><td>Kanusport</td><td>Fahren auf Fliessgewässern mit Schwierigkeitsgrad bis Wildwasser II (Touring)</td><td>Kanusport mit Zusatz Touring oder Kanusport mit Zusatz Wildwasser</td></tr>
 <tr><td>Kanusport</td><td>Fahren auf Fliessgewässern mit Schwierigkeitsgrad grösser als Wildwasser II (Wildwasser)</td><td>Kanusport mit Zusatz Wildwasser</td></tr>
-<tr><td>Skifahren/Snowboard</td><td>Selbständige Variantenabfahrten im freien Gelände mit Schwierigkeitsgrad bis WS</td><td>Skifahren mit Zusatz Freeride</td></tr>
-</table>
-
-### 3. Erforderliche Weiterbildung Sicherheit
-
-Zur Durchführung von J+S-Aktivitäten mit erhöhten Sicherheitsanforderungen in den folgenden Sportarten muss zumindest eine eingesetzte J+S-Leiterin oder ein eingesetzter J+S-Leiter in Ergänzung zu Ziffer 1 über die aufgeführte Weiterbildung Sicherheit verfügen:
-
-<table>
-<tr><th>Sportart</th><th>Spezifische Aktivität</th><th>Erforderliche Weiterbildung Sicherheit</th></tr>
-<tr><td>Bergsteigen</td><td>– Hochtouren bis Schwierigkeitsgrad WS+ – Ausgerüstete Mehrseillängen Sportkletterrouten – Klettergärten</td><td>Kursleiter 1</td></tr>
-<tr><td>Bergsteigen</td><td>Hochtouren ohne Schwierigkeitsbegrenzung</td><td>Kursleiter 2</td></tr>
-<tr><td>Lagersport/Trekking</td><td>Wanderungen mit Übernachtung im Biwak oberhalb der Waldgrenze, die im Bereich bis und mit T3 stattfinden</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Berg»</td></tr>
-<tr><td>Lagersport/Trekking</td><td>– Aktivitäten auf Fliessgewässern mit Schwierigkeitsgrad bis Wildwasser II mit offenen Booten oder einem Floss – Anspruchsvolle Bach- und Flusstrekkings – Anspruchsvolles Flussschwimmen – Flusssurfen</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Wasser»</td></tr>
-<tr><td>Lagersport/Trekking</td><td>– Winterlager, in einer abgelegenen Gegend ohne wintersichere Zufahrt – Winterübernachtungen, die im Zelt, Iglu usw. stattfinden, ohne dass ein Lagerhaus mit wintersicherer Zufahrt schnell erreicht werden kann – Anspruchsvolle oder lange Schneeschuhwanderungen</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Winter»</td></tr>
-<tr><td>Skitouren</td><td>Skitouren ohne Gletscher und Grate, die Seileinsatz erfordern</td><td>Kursleiter 1</td></tr>
-<tr><td>Skitouren</td><td>Skitouren ohne Schwierigkeitsbegrenzung</td><td>Kursleiter 2</td></tr>
-<tr><td>Sportklettern</td><td>Sportklettern Fels</td><td>Kursleiter</td></tr>
+<tr><td>Lagersport/ Trekking</td><td>Wanderungen mit Übernachtung im Biwak oberhalb der Waldgrenze, die im Bereich bis und mit T3 stattfinden</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Berg»</td></tr>
+<tr><td>Lagersport/ Trekking</td><td>– Aktivitäten auf Fliessgewässern mit Schwierigkeitsgrad bis Wildwasser II mit offenen Booten oder einem Floss – Anspruchsvolle Bach und Flusstrekkings – Anspruchsvolles Flussschwimmen – Flusssurfen</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Wasser»</td></tr>
+<tr><td>Lagersport/ Trekking</td><td>– Winterlager, in einer abgelegenen Gegend ohne wintersichere Zufahrt – Winterübernachtungen, die im Zelt, Iglu usw. stattfinden, ohne dass ein Lagerhaus mit wintersicherer Zufahrt schnell erreicht werden kann – Anspruchsvolle oder lange Schneeschuhwanderungen</td><td>Lagersport/Trekking mit Zusatz Sicherheitsbereich «Winter»</td></tr>
+<tr><td>Skifahren</td><td>Selbständige Variantenabfahrten im freien Gelände mit Schwierigkeitsgrad bis WS</td><td>Skifahren mit Zusatz Freeride</td></tr>
+<tr><td>Snowboard</td><td>Selbständige Variantenabfahrten im freien Gelände mit Schwierigkeitsgrad bis WS</td><td>Snowboard mit Zusatz Freeride</td></tr>
+<tr><td>Skitouren</td><td>Skitouren mit Schwierigkeitsgrad ab WS bis ZS+, ohne Gletscher und Grate, die Seileinsatz erfordern</td><td>Skitouren mit Zusatz «Touren ZS»</td></tr>
+<tr><td>Skitouren</td><td>Skihochtouren mit Schwierigkeitsgrad ab S–</td><td>Skitouren mit Zusatz «Skihochtouren»</td></tr>
+<tr><td>Sportklettern</td><td>Sportklettern Fels</td><td>Sportklettern mit Zusatz «Fels»</td></tr>
 </table>

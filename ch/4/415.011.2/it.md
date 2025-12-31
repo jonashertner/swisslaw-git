@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFSPO del 12 luglio 2012 concernente «Gioventù e Sport�
 short: O-G+S-UFSPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/463"
 language: it
-version: 2022-12-01
+version: 2026-01-01
 adopted: 2012-07-12
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/it/xml/fedlex-data-admin-ch-eli-cc-2012-463-20221201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-463-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/it"
 
 (O-G+S-UFSPO)
 
-del 12 luglio 2012 (Stato 1° dicembre 2022)
+del 12 luglio 2012 (Stato 1° gennaio 2026)
 
 L’Ufficio federale dello sport (UFSPO),
 
@@ -25,10 +25,10 @@ visti gli articoli 6 capoverso 3, 8 capoverso 1, 9 capoversi 3 e 4, 14 capoversi
 
 ordina:
 
-[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
-[^ingress-2]: [RS 415.011](https://fedlex.data.admin.ch/eli/cc/2012/462)
-[^ingress-3]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
+[^ingress-2]: [RS 415.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6816)
+[^ingress-3]: [RS 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 ## Sezione 1: Discipline sportive G+S
 
@@ -36,13 +36,13 @@ ordina:
 
 [^1-1]
 
-[^1-1]: Abrogato dal n. I dell’O dell’UFSPO del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^1-1]: Abrogato dalla cifra I dell’O dell’UFSPO del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
 
 #### Art. 2
 
 **Ripartizione delle discipline sportive per gruppi di utenti**
 
-<sup>1</sup> Le discipline sportive del gruppo di utenti 1 sono: aikido, allround, artistic swimming, atletica leggera, badminton, balestra, baseball/softball, BMX, calcio, carabina, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, equitazione, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, pistola, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, squash, streethockey, tchoukball, tennis, tennistavolo, tiro con l’arco, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, volteggio e wushu/kung fu.[^2-1]
+<sup>1</sup> Le discipline sportive del gruppo di utenti 1 sono: aikido, allround, artistic swimming, atletica leggera, badminton, balestra, baseball/softball, BMX, calcio, carabina, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, equitazione, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, pistola, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, squash, streethockey, tchoukball, tennis, tennistavolo, tiro con l’arco, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, volteggio e wushu/kung-fu.[^2-1]
 
 <sup>2</sup> Le discipline sportive del gruppo di utenti 2 sono: alpinismo, arrampicata sportiva, biathlon, canoismo, canottaggio, gara nautica, salto con gli sci, sci, sci di fondo, sci escursionismo, snowboard, tavola a vela e vela.[^2-2]
 
@@ -52,9 +52,9 @@ ordina:
 
 <sup>5</sup> ...[^2-3]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
-[^2-2]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
-[^2-3]: Abrogato dal n. I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^2-3]: Abrogato dalla cifra I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 ## Sezione 2: Offerte G+S
 
@@ -68,7 +68,7 @@ ordina:
 
 <sup>3</sup> La disciplina sportiva sport di campo/trekking viene praticata esclusivamente sotto forma di campi G+S.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
 
 #### Art. 4
 
@@ -92,10 +92,10 @@ Le attività G+S elencate di seguito devono essere preventivamente autorizzate d
 
 <sup>2</sup> Gli esperti G+S che concedono l’autorizzazione di cui al capoverso 1 lettera c devono aver frequentato il modulo di formazione continua[^4-4] specifico.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
-[^4-2]: Abrogata dal n. I dell’O dell’UFSPO del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
-[^4-3]: Introdotto dal n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
-[^4-4]: Nuova espressione giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^4-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1 ° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^4-2]: Abrogata dalla cifra I dell’O dell’UFSPO del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^4-3]: Introdotto dalla cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^4-4]: Nuova espressione giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 5
 
@@ -105,8 +105,8 @@ Le attività G+S elencate di seguito devono essere preventivamente autorizzate d
 
 <sup>2</sup> ...[^5-2]
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
-[^5-2]: Abrogato dal n. I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^5-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^5-2]: Abrogato dalla cifra I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 #### Art. 6
 
@@ -114,7 +114,7 @@ Le attività G+S elencate di seguito devono essere preventivamente autorizzate d
 
 Se per l’insorgere di pericoli per la sicurezza o la salute dei partecipanti un campo deve essere interrotto prematuramente senza che sia stato possibile raggiungere la durata minima di cui all’articolo 14 OPPSpo o se per malattia o infortunio il numero minimo dei partecipanti non è rispettato, l’UFSPO stabilisce i contributi caso per caso ai sensi dell’articolo 22 OPSpo.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
 
 #### Art. 7
 
@@ -128,7 +128,7 @@ A un organizzatore non è consentito suddividere un gruppo i cui componenti norm
 
 Nella disciplina sportiva sport di campo/trekking i bambini non possono partecipare ad attività il cui svolgimento necessita di un riconoscimento complementare «sicurezza» o di una formazione continua «sicurezza» secondo l’allegato 3.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## Sezione 3: Formazione dei quadri G+S
 
@@ -138,7 +138,7 @@ Nella disciplina sportiva sport di campo/trekking i bambini non possono partecip
 
 La struttura della formazione e della formazione continua dei monitori G+S, degli esperti G+S e dei coach G+S è stabilita nell’allegato 1.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 #### Art. 10
 
@@ -183,12 +183,13 @@ La struttura della formazione e della formazione continua dei monitori G+S, degl
 
 <sup>2</sup> I cicli di formazione abbreviati sotto forma di corsi introduttivi durano da 1 a 4 giorni.
 
-<sup>3</sup> Di regola è possibile frequentare solo un livello di formazione superiore per anno civile. La direzione G+S dell’UFSPO decide in merito a eventuali eccezioni.
+<sup>3</sup> ...[^10-3]
 
 <sup>4</sup> La durata dell’insegnamento è di almeno 6 ore per una giornata di formazione e di almeno 3 ore per mezza giornata di formazione.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
-[^10-2]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^10-3]: Abrogato dalla cifra I dell’O dell’UFSPO del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 11
 
@@ -196,7 +197,7 @@ La struttura della formazione e della formazione continua dei monitori G+S, degl
 
 Gli organizzatori di diverse offerte di formazione dei quadri possono svolgere in comune parti di esse.
 
-[^11-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
 
 #### Art. 12
 
@@ -219,41 +220,15 @@ Un corso o un modulo G+S si considerano superati se:
 
 <sup>2</sup> Su richiesta degli interessati, l’UFSPO decide in merito a eccezioni riguardanti l’obbligo di frequenza e di prova delle competenze.
 
-<sup>3</sup>
+<sup>3</sup> Le prestazioni del candidato in merito ai contenuti dei corsi e moduli esaminati sono giudicate con il giudizio «superato» o «non superato».[^13-1]
 
-Le prestazioni del candidato in merito ai contenuti dei corsi e moduli esaminati sono giudicate:
-
-- a.
-
-  con le note seguenti:
-
-  - 1\. nota 1: insufficiente,
-  - 2\. nota 2: sufficiente,
-  - 3\. nota 3: buono,
-  - 4\. nota 4: ottimo; o
-
-- b. con il giudizio «superato» o «non superato».
+[^13-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 14
 
-**Raccomandazione**
+[^14-1]
 
-<sup>1</sup> Se la raccomandazione al termine di un modulo di formazione continua costituisce il presupposto per l’ammissione alle offerte di formazione superiore dei quadri G+S, la direzione del corso fornisce una raccomandazione in tal senso.
-
-<sup>2</sup>
-
-La raccomandazione è espressa con le seguenti formulazioni:
-
-- a. vivamente raccomandata;
-- b. raccomandata;
-- c. raccomandata con riserva;
-- d. non raccomandata.
-
-<sup>3</sup> Se anche gli altri requisiti per l’ammissione sono soddisfatti, la raccomandazione ai sensi del capoverso 2 lettere a e b abilita a partecipare alle offerte di formazione superiore dei quadri.
-
-<sup>4</sup> In presenza di una raccomandazione ai sensi del capoverso 2 lettera c, la direzione G+S dell’UFSPO decide se la partecipazione alle offerte di formazione superiore dei quadri deve essere assoggettata a ulteriori restrizioni o condizioni.[^14-1]
-
-[^14-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^14-1]: Abrogato dalla cifra I dell’O dell’UFSPO del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ## Sezione 4: Monitori G+S
 
@@ -263,23 +238,24 @@ La raccomandazione è espressa con le seguenti formulazioni:
 
 Il riconoscimento quale monitore G+S è attribuito per una determinata disciplina sportiva G+S o nello sport scolastico e nei gruppi di destinatari «bambini» o «giovani».
 
-[^15-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 16
 
 **Riconoscimento quale monitore G+S Sport scolastico**[^16-1]
 
-<sup>1</sup> Il riconoscimento quale monitore G+S Sport scolastico autorizza a svolgere attività nelle seguenti discipline sportive G+S: aikido, allround, artistic swimming, atletica leggera, badminton, baseball/softball, BMX, calcio, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, sci di fondo, squash, streethockey, tchoukball, tennis, tennistavolo, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, e wushu/kung fu.
+<sup>1</sup> Il riconoscimento quale monitore G+S Sport scolastico autorizza a svolgere attività nelle seguenti discipline sportive G+S: aikido, allround, artistic swimming, atletica leggera, badminton, baseball/softball, BMX, calcio, ciclismo artistico, ciclismo su pista, ciclismo su strada, ciclocross, ciclopalla, corsa d’orientamento, curling, danze standard/latine, football americano, ginnastica, ginnastica acrobatica, ginnastica agli attrezzi, ginnastica artistica, ginnastica e danza, ginnastica ritmica, giochi nazionali, golf, hockey a rotelle, hockey inline, hockey su ghiaccio, hockey su prato, hornuss, judo, ju-jitsu, karate, kickboxing light, light contact boxing, lotta, lotta svizzera, monociclo, nuoto, nuoto di salvataggio, pallacanestro, pallacesto, pallamano, pallanuoto, pallapugno, pallavolo, parkour, pattinaggio artistico, pattinaggio artistico a rotelle, pattinaggio di velocità a rotelle, pattinaggio di velocità su ghiaccio, pattinaggio sincronizzato, rampichino, rock’n’roll, rugby, ruota di Rhön, scherma, sci di fondo, squash, streethockey, tchoukball, tennis, tennistavolo, trampolino, trial in bicicletta, triathlon, tuffi, unihockey, e wushu/kung-fu.[^16-2]
 
 <sup>2</sup> I monitori G+S di sport scolastico con un riconoscimento valido e che intendono svolgere l’attività di monitore G+S al di fuori dei gruppi di utenti 4 e 5 in discipline sportive G+S di cui al capoverso 1 possono richiedere il riconoscimento quali monitori G+S nella relativa disciplina sportiva per il corrispondente gruppo di destinatari. L’UFSPO rilascia il riconoscimento se la persona che ne fa richiesta soddisfa i requisiti per l’ammissione alla formazione di base quale monitore G+S nella relativa disciplina sportiva.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 17
 
 [^17-1]
 
-[^17-1]: Abrogato dal n. I dell’O dell’UFSPO del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^17-1]: Abrogato dalla cifra I dell’O dell’UFSPO del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 18
 
@@ -289,7 +265,7 @@ Il riconoscimento quale monitore G+S è attribuito per una determinata disciplin
 
 <sup>2</sup> L’UFSPO rilascia il riconoscimento di cui al capoverso 1 se la persona che ne fa richiesta soddisfa i requisiti per l’ammissione alla formazione di base quale monitore G+S nella relativa disciplina sportiva.
 
-[^18-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^18-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 19
 
@@ -297,7 +273,7 @@ Il riconoscimento quale monitore G+S è attribuito per una determinata disciplin
 
 Gli esperti G+S riconosciuti sono titolari del riconoscimento quali monitori G+S per le rispettive discipline sportive e per i rispettivi gruppi di destinatari.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO dell’8 apr. 2020, in vigore dal 1° ott. 2021 ([RU 2020 1537](https://fedlex.data.admin.ch/eli/oc/2020/305)).
 
 #### Art. 20
 
@@ -309,13 +285,13 @@ Gli esperti G+S riconosciuti sono titolari del riconoscimento quali monitori G+S
 
 <sup>3</sup> I monitori G+S necessari ai sensi del capoverso 2 non sono considerati come monitori in più ai sensi dell’allegato 2 OPPSpo e per loro non si versa alcun importo di base ai sensi dell’allegato 3 lettera A OPPSpo.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 21
 
 [^21-1]
 
-[^21-1]: Abrogato dal n. I dell’O dell’UFSPO del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^21-1]: Abrogato dalla cifra I dell’O dell’UFSPO del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 #### Art. 22
 
@@ -327,14 +303,14 @@ Nell’ambito dei corsi G+S, allenamenti complementari della condizione fisica e
 - <sup>b.</sup> monitori G+S senza una formazione continua specifica nelle discipline sportive G+S nelle quali dispongono di un riconoscimento come monitori;
 - c.[^22-2] ...
 
-[^22-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
-[^22-2]: Abrogata dal n. I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 26 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^22-2]: Abrogata dalla cifra I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 #### Art. 23 e 24
 
 [^2324-1]
 
-[^2324-1]: Abrogati dal n. I dell’O dell’UFSPO del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
+[^2324-1]: Abrogati dalla cifra I dell’O dell’UFSPO del 26 ott. 2015, con effetto dal 1° dic. 2015 ([RU 2015 4129](https://fedlex.data.admin.ch/eli/oc/2015/693)).
 
 ## Sezione 5: ...
 
@@ -342,7 +318,7 @@ Nell’ambito dei corsi G+S, allenamenti complementari della condizione fisica e
 
 [^2526-1]
 
-[^2526-1]: Abrogati dal n. I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^2526-1]: Abrogati dalla cifra I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 ## Sezione 6: Esperti G+S
 
@@ -356,7 +332,7 @@ Nell’ambito dei corsi G+S, allenamenti complementari della condizione fisica e
 
 <sup>3</sup> ...[^27-1]
 
-[^27-1]: Abrogato dal n. I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^27-1]: Abrogato dalla cifra I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 #### Art. 28
 
@@ -371,7 +347,7 @@ Per le seguenti offerte di formazione e formazione continua dei monitori G+S son
 
 <sup>2</sup> Gli esperti G+S che si adoperano in un’offerta di formazione dei quadri possono essere chiamati ad impartire singole lezioni anche nell’ambito di un’altra offerta simultanea o quasi parallela. Per la loro attività ricevono un contributo globale una tantum.
 
-[^28-1]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^28-1]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## Sezione 7: Diritto all’indennità di perdita di guadagno
 
@@ -393,11 +369,11 @@ Un’indennità ai sensi dell’articolo 1*a* capoverso 4 della legge del 25 set
 
 <sup>3</sup> Nessuna indennità per perdita di guadagno è corrisposta alle persone che sono state autorizzate a svolgere un’attività di quadro G+S in virtù dell’articolo 21 capoverso 2 OPPSpo, ma che non esercitano un’attività lucrativa in Svizzera.[^29-5]
 
-[^29-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
-[^29-2]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
-[^29-3]: Abrogata dal n. I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
-[^29-4]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
-[^29-5]: Nuovo testo giusta il n. I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^29-1]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
+[^29-2]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^29-3]: Abrogata dalla cifra I dell’O dell’UFSPO del 16 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^29-4]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^29-5]: Nuovo testo giusta la cifra I dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 
 ## Sezione 8: Disposizione finale
 
@@ -411,17 +387,17 @@ Allegato 1[^t-1]
 
 ## Struttura della formazione e della formazione continua
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O dell’UFSPO del 16 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 
 ### 1. Formazione e formazione continua dei monitori G+S e degli esperti G+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/it/xml/image/image1.png)
 
 I moduli della formazione continua servono a prolungare il riconoscimento quale monitore, a recuperare il riconoscimento scaduto o ad approfondire le competenze utili al monitore. I moduli del livello di formazione continua 2 si basano su quelli del livello di formazione continua 1.
 
 ### 2. Formazione e formazione continua dei coach G+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/it/xml/image/image2.png)
 
 Allegato 2[^t-2]
 
@@ -448,7 +424,7 @@ Allegato 3[^t-3]
 
 ## Formazioni necessarie per i monitori G+S
 
-[^t-3]: Nuovo testo giusta il n. II dell’O dell’UFSPO del 30 mar. 2022, in vigore dal 1° dic. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O dell’UFSPO del 30 mar. 2022 ([RU 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)). Aggiornato dalla cifra II cpv. 2 dell’O dell’UFSPO del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ### 1. Riconoscimenti necessari nelle discipline sportive G+S
 
@@ -546,34 +522,27 @@ Allegato 3[^t-3]
 <tr><td>Wushu/kung fu</td><td>Wushu/kung fu</td></tr>
 </table>
 
-1.2 Per lo svolgimento di un’attività G+S nelle discipline sportive alpinismo, sci escursionismo e sport di campo/trekking almeno uno dei monitori impiegati deve disporre, a complemento di quanto indicato al numero 1 ed entro il 31 dicembre 2025, di:
+1.2 Per lo svolgimento di un campo G+S nella disciplina sportiva sport di campo/trekking almeno uno dei monitori impiegati deve disporre, a complemento di quanto indicato al numero 1.1, di:
 
 - a) una formazione di base di durata superiore a 8 giorni; o
-- b) una formazione complementare come capocorso o capocampo.
+- b) una formazione complementare come capocampo.
 
 ### 2. Riconoscimento complementare «sicurezza» richiesto
 
-Per svolgere attività G+S con elevate disposizioni di sicurezza nelle seguenti discipline sportive almeno uno dei monitori G+S impiegati deve disporre, a complemento di quanto indicato al numero 1, del relativo riconoscimento complementare «sicurezza»:
+Per svolgere attività G+S con elevate disposizioni di sicurezza nelle seguenti discipline sportive almeno uno dei monitori G+S impiegati deve disporre, a complemento di quanto indicato al numero 1, del riconoscimento complementare «sicurezza» riportato qui di seguito:
 
 <table>
 <tr><th>Disciplina sportiva</th><th>Attività specifica</th><th>Riconoscimento complementare «sicurezza» richiesto</th></tr>
-<tr><td>Canoismo</td><td>Attività in acque vive fino al grado di difficoltà II (escursioni)</td><td>Canoismo con qualifica complementare «escursioni» o canoismo con qualifica complementare «acque vive»</td></tr>
-<tr><td>Canoismo</td><td>Attività in acque vive con un grado di difficoltà superiore al II (acque vive)</td><td>Canoismo con qualifica complementare «acque vive»</td></tr>
-<tr><td>Sci/snowboard</td><td>Discese autonome fuori pista in terreno aperto fino con grado di difficoltà PD</td><td>Sci con qualifica complementare «freeride»</td></tr>
-</table>
-
-### 3. Formazione continua «sicurezza» richiesta
-
-Per svolgere attività G+S con elevate disposizioni di sicurezza nelle seguenti discipline sportive almeno uno dei monitori G+S impiegati deve disporre, a complemento di quanto indicato al numero 1, della relativa formazione continua «sicurezza»:
-
-<table>
-<tr><th>Disciplina sportiva</th><th>Attività specifica</th><th>Formazione continua «sicurezza» richiesta</th></tr>
-<tr><td>Alpinismo</td><td>– Ascensioni alpinistiche fino al grado di difficoltà PD+ – Vie attrezzate di arrampicata sportiva con più tiri – Parete di arrampicata</td><td>Capocorso 1</td></tr>
-<tr><td>Alpinismo</td><td>Ascensioni alpinistiche senza limitazioni di difficoltà</td><td>Capocorso 2</td></tr>
-<tr><td>Arrampicata sportiva</td><td>Arrampicata sportiva su roccia</td><td>Capocorso</td></tr>
-<tr><td>Sci escursionismo</td><td>Sci escursionismo senza ghiacciai e creste che richiedono il supporto di corde</td><td>Capocorso 1</td></tr>
-<tr><td>Sci escursionismo</td><td>Sci escursionismo senza limitazioni di difficoltà</td><td>Capocorso 2</td></tr>
-<tr><td>Sport di campo/trekking</td><td>Escursioni a piedi con pernottamento in bivacco al di sopra del limite della vegetazione, in un ambito fino al T3 compreso</td><td>Sport di campo/trekking con qualifica complementare nell’ambito di sicurezza «montagna»</td></tr>
-<tr><td>Sport di campo/trekking</td><td>– Attività in acque vive fino al grado di difficoltà II svolte con imbarcazioni aperte o su zattere – Trekking impegnativo su torrenti e fiumi – Nuoto impegnativo nei fiumi – Surf sul fiume</td><td>Sport di campo/trekking con qualifica complementare nell’ambito di sicurezza «acqua»</td></tr>
-<tr><td>Sport di campo/trekking</td><td>– Campo invernale in una zona isolata senza accesso garantito ai mezzi in inverno – Pernottamenti invernali in tenda, igloo ecc. senza che sia possibile raggiungere rapidamente un accampamento con accesso garantito ai mezzi in inverno – Escursione impegnativa o lunga con racchette da neve</td><td>Sport di campo/trekking con qualifica complementare nell’ambito di sicurezza «inverno»</td></tr>
+<tr><td>Alpinismo</td><td>– Gite di alta montagna dal grado di difficoltà PD- fino a PD+ – Vie a più tiri assicurate</td><td>Alpinismo con complemento «gite PD»</td></tr>
+<tr><td>Alpinismo</td><td>– Gite di alta montagna con un grado di difficoltà da AD– – Vie a più tiri</td><td>Alpinismo con complemento «gite di alta montagna»</td></tr>
+<tr><td>Canoismo</td><td>Attività in acque vive fino al grado di difficoltà II (escursioni)</td><td>Canoismo con complemento «escursioni» o canoismo con complemento «acque vive»</td></tr>
+<tr><td>Canoismo</td><td>Attività in acque vive con un grado di difficoltà superiore al II (acque vive)</td><td>Canoismo con complemento «acque vive»</td></tr>
+<tr><td>Sport di campo/ trekking</td><td>Escursioni a piedi con pernottamento in bivacco al di sopra del limite della vegetazione, in un ambito fino al T3 compreso</td><td>Sport di campo/trekking con complemento nell’ambito di sicurezza «montagna»</td></tr>
+<tr><td>Sport di campo/ trekking</td><td>– Attività in acque vive fino al grado di difficoltà II svolte con imbarcazioni aperte o su zattere – Trekking impegnativo su torrenti e fiumi – Nuoto impegnativo nei fiumi – Surf sul fiume</td><td>Sport di campo/trekking con complemento nell’ambito di sicurezza «acqua»</td></tr>
+<tr><td>Sport di campo/ trekking</td><td>– Campo invernale in una zona isolata senza accesso garantito ai mezzi in inverno – Pernottamenti invernali in tenda, igloo ecc. senza che sia possibile raggiungere rapidamente un accampamento con accesso garantito ai mezzi in inverno – Escursione impegnativa o lunga con racchette da neve</td><td>Sport di campo/trekking con complemento nell’ambito di sicurezza «inverno»</td></tr>
+<tr><td>Sci</td><td>Discese autonome fuori pista in terreno aperto con grado di difficoltà fino a PD</td><td>Sci con complemento «freeride»</td></tr>
+<tr><td>Snowboard</td><td>Discese autonome fuori pista in terreno aperto con grado di difficoltà fino a PD</td><td>Snowboard con complemento «freeride»</td></tr>
+<tr><td>Sci escursionismo</td><td>Sci escursionismo con grado di difficoltà da PD a AD+ senza ghiacciai e creste che richiedono il supporto di corde</td><td>Sci escursionismo con complemento «gite AD»</td></tr>
+<tr><td>Sci escursionismo</td><td>Gite scialpinistiche di alta montagna con grado di difficoltà da D–</td><td>Sci escursionismo con complemento «gite scialpinistiche di alta montagna»</td></tr>
+<tr><td>Arrampicata sportiva</td><td>Arrampicata sportiva su roccia</td><td>Arrampicata sportiva con complemento «roccia»</td></tr>
 </table>

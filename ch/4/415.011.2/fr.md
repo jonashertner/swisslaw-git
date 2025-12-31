@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFSPO du 12 juillet 2012 concernant «Jeunesse et sport�
 short: O OFSPO J+S
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/463"
 language: fr
-version: 2022-12-01
+version: 2026-01-01
 adopted: 2012-07-12
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/fr/xml/fedlex-data-admin-ch-eli-cc-2012-463-20221201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-463-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/463/20221201/fr"
 
 (O OFSPO J+S)
 
-du 12 juillet 2012 (Etat le 1<sup>er</sup> décembre 2022)
+du 12 juillet 2012 (État le 1<sup>er</sup> janvier 2026)
 
 L’Office fédéral du sport (OFSPO),
 
-vu les art. 6, al. 3, 8, al. 1, 9, al. 3 et 4, 14, al. 2 et 3, 16, al. 2, et 20, al. 2, de l’ordonnance du 23 mai 2012 sur l’encouragement du sport (OESp)[^ingress-1], vu les art. 10, al. 2, 15, al. 2, 27, al. 3, 29, al. 2, 40, al. 4, et 46, al. 4, de l’ordonnance du DDPS du 25 mai 2012 sur les programmes et les projets d’encouragement du sport (OPESp)[^ingress-2], vu l’art. 3 du règlement du 24 novembre 2004 sur les allocations pour perte de gain[^ingress-3],[^ingress-4]
+vu les art. 6, al. 3, 8, al. 1, 9, al. 3 et 4, 14, al. 2 et 3, 16, al. 2, et 20, al. 2, de l’ordonnance du 23 mai 2012 sur l’encouragement du sport (OESp)[^ingress-1], vu les art. 10, al. 2, 15, al. 2, 27, al. 3, 29, al. 2, 40, al. 4, et 46, al. 4, de l’ordonnance du DDPS du 25 mai 2012 sur les programmes et les projets d’encouragement du sport (OPESp)[^ingress-2], vu l’art. 3 de l’ordonnance du 24 novembre 2004 sur les allocations pour perte de gain[^ingress-3],[^ingress-4]
 
 arrête:
 
-[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/eli/cc/2012/461)
-[^ingress-2]: [RS 415.011](https://fedlex.data.admin.ch/eli/cc/2012/462)
-[^ingress-3]: [RS 834.11](https://fedlex.data.admin.ch/eli/cc/2005/187)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^ingress-1]: [RS 415.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6815)
+[^ingress-2]: [RS 415.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6816)
+[^ingress-3]: [RS 834.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10263)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ## Section 1 Sports J+S
 
@@ -185,12 +185,13 @@ La structure de la formation de base et de la formation continue des moniteurs J
 
 <sup>2</sup> Les formations abrégées sous forme de cours d’introduction durent de 1 à 4 jours.
 
-<sup>3</sup> Un seul niveau de formation peut en principe être accompli par année civile. La direction J+S de l’OFSPO décide des exceptions.
+<sup>3</sup> …[^10-3]
 
 <sup>4</sup> La durée d’enseignement par journée de formation est de 6 heures au moins, et de 3 heures au moins par demi-journée.
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^10-3]: Abrogé par le ch. I de l’O de l’OFSPO du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 11
 
@@ -221,41 +222,15 @@ Un cours ou un module J+S est réputé réussi lorsque le participant:
 
 <sup>2</sup> L’organisateur de la formation des cadres décide, sur demande, des exceptions concernant l’obligation de participation ou l’obligation d’attester que l’on dispose des compétences requises.
 
-<sup>3</sup>
+<sup>3</sup> Les prestations d’examen portant sur des contenus de cours ou de modules sont évaluées à l’aide des appréciations «réussi» ou «non réussi».[^13-1]
 
-Les prestations d’examen portant sur des contenus de cours ou de modules sont évaluées à l’aide:
-
-- a.
-
-  des notes suivantes:
-
-  - 1\. note 1: insuffisant,
-  - 2\. note 2: suffisant,
-  - 3\. note 3: bien,
-  - 4\. note 4: très bien; ou
-
-- b. des appréciations «réussi» ou «non réussi».
+[^13-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 #### Art. 14
 
-**Recommandation**
+[^14-1]
 
-<sup>1</sup> Si une recommandation émanant d’un module de formation continue est une condition d’admission à une offre de formation des cadres J+S supérieure, la direction du cours fournit une appréciation à cet effet.
-
-<sup>2</sup>
-
-Les appréciations fournies sont les suivantes:
-
-- a. vivement recommandé;
-- b. recommandé;
-- c. recommandé sous réserve;
-- d. non recommandé.
-
-<sup>3</sup> Si les autres conditions d’admission sont remplies, les appréciations au sens de l’al. 2, let. a et b, autorisent l’admission à une offre de formation des cadres supérieure.
-
-<sup>4</sup> Au cas où une appréciation au sens de l’al. 2, let. c, lui est fournie, la direction J+S de l’OFSPO décide si l’admission à une offre de formation des cadres supérieure est subordonnée à d’autres charges et conditions.[^14-1]
-
-[^14-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 16 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
+[^14-1]: Abrogé par le ch. I de l’O de l’OFSPO du 29 oct. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ## Section 4 Moniteurs J+S
 
@@ -395,7 +370,7 @@ Il est versé une indemnité au sens de l’art. 1*a*, al. 4 de la loi du 25 sep
 
 <sup>3</sup> Il n’est pas versé d’allocation pour perte de gain aux personnes qui ont été autorisées à exercer une activité de cadre J+S en vertu de l’art. 21, al. 2 OPESp mais qui n’exercent pas d’activité lucrative en Suisse.[^29-5]
 
-[^29-1]: [RS 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^29-1]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^29-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
 [^29-3]: Abrogée par le ch. I de l’O de l’OFSPO du 16 nov. 2017, avec effet au 1<sup>er</sup> janv. 2018 ([RO 2017 6595](https://fedlex.data.admin.ch/eli/oc/2017/731)).
 [^29-4]: Nouvelle teneur selon le ch. I de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
@@ -417,13 +392,13 @@ Annexe 1[^t-1]
 
 ### 1. Formation et formation continue des moniteurs J+S et des experts J+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/fr/xml/image/image1.png)
 
 Les modules de formation continue permettent de conserver une reconnaissance de moniteur J+S, de recouvrer une reconnaissance de moniteur J+S devenue caduque ou d’approfondir les compétences de moniteur J+S. Les modules de la formation continue 2 font suite à ceux de la formation continue 1.
 
 ### 2. Formation et formation continue des coachs J+S
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20221201/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/463/20260101/fr/xml/image/image2.png)
 
 Annexe 2[^t-2]
 
@@ -450,7 +425,7 @@ Annexe 3[^t-3]
 
 ## Formations requises pour les moniteurs J+S
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 30 mars 2022, en vigueur depuis le 1<sup>er</sup> déc. 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OFSPO du 30 mars 2022 ([RO 2022 219](https://fedlex.data.admin.ch/eli/oc/2022/219)). Mise à jour par le ch. II al. 2 de l’O de l’OFSPO du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 675](https://fedlex.data.admin.ch/eli/oc/2025/675)).
 
 ### 1. Reconnaissances requises dans les sports J+S
 
@@ -548,10 +523,10 @@ Annexe 3[^t-3]
 <tr><td>Wushu/kung-fu</td><td>Wushu/kung-fu</td></tr>
 </table>
 
-1.2 Jusqu’au 31 décembre 2025, pour diriger une activité J+S dans les sports alpinisme, sport de camp/trekking et excursions à skis, au moins un des moniteurs engagés devra, en complément au chiffre 1.1, avoir suivi:
+1.2 Pour diriger un camp J+S dans le sport de camp/trekking, au moins un des moniteurs engagés devra, en complément du chiffre 1.1, avoir suivi:
 
-- a) une formation de base de plus de 8 jours; ou
-- b) une formation complémentaire de chef de cours ou de chef de camp.
+- a. une formation de base de plus de 8 jours, ou
+- b. une formation complémentaire de chef de camp.
 
 ### 2. Reconnaissance supplémentaire Sécurité
 
@@ -559,23 +534,16 @@ Pour diriger des activités J+S soumises à des dispositions de sécurité parti
 
 <table>
 <tr><th>Sport</th><th>Activité spécifique</th><th>Reconnaissance supplémentaire Sécurité requise</th></tr>
-<tr><td>Canoë-kayak</td><td>Descentes de rivières d’eaux vives présentant un degré de difficulté égal ou inférieur à II (excursions)</td><td>Canoë-kayak avec complément «excursions» ou Canoë-kayak avec complément «eaux vives»</td></tr>
+<tr><td>Alpinisme</td><td>– Courses de haute montagne présentant un degré de difficulté allant de PD– à PD+ – Voies rocheuses de plusieurs longueurs, équipées</td><td>Alpinisme avec complément «Courses PD»</td></tr>
+<tr><td>Alpinisme</td><td>– Courses de haute montagne présentant un degré de difficulté égal ou supérieur à AD– – Voies rocheuses de plusieurs longueurs</td><td>Alpinisme avec complément «Courses de haute montagne»</td></tr>
+<tr><td>Canoë-kayak</td><td>Descentes de rivières d’eaux vives présentant un degré de difficulté égal ou inférieur à II (excursions)</td><td>Canoë-kayak avec complément «excursions» ou complément «eaux vives»</td></tr>
 <tr><td>Canoë-kayak</td><td>Descentes de rivières d’eaux vives présentant un degré de difficulté supérieur à II (eaux vives)</td><td>Canoë-kayak avec complément «eaux vives»</td></tr>
-<tr><td>Ski/snowboard</td><td>Descentes hors-piste autonomes sur des pentes correspondant au degré de difficulté PD</td><td>Ski avec complément «freeride»</td></tr>
-</table>
-
-### 3. Formation continue Sécurité
-
-Pour diriger des activités J+S soumises à des dispositions de sécurité particulières dans les sports suivants, au moins un des moniteurs engagés doit non seulement disposer de la ou des reconnaissances visées au chiffre 1 mais aussi avoir suivi la formation continue Sécurité:
-
-<table>
-<tr><th>Sport</th><th>Activité spécifique</th><th>Formation continue Sécurité</th></tr>
-<tr><td>Alpinisme</td><td>– Course en haute montagne jusqu’au degré de difficulté PD+ – Parcours d’escalade sportive équipés nécessitant plus d’une longueur de corde – Jardins d’escalade</td><td>Chef de cours 1</td></tr>
-<tr><td>Alpinisme</td><td>Courses en haute montagne sans limite de difficulté</td><td>Chef de cours 2</td></tr>
-<tr><td>Escalade sportive</td><td>Escalade sportive sur rocher</td><td>Chef de cours</td></tr>
-<tr><td>Excursions à skis</td><td>Excursions à skis sans glaciers ni arrêtes nécessitant l’utilisation de cordes</td><td>Chef de cours 1</td></tr>
-<tr><td>Excursions à skis</td><td>Excursions à skis sans limite de difficulté</td><td>Chef de cours 2</td></tr>
-<tr><td>Sport de camp/trekking</td><td>Excursions avec bivouac au-dessus de la limite forestière, présentant un degré de difficulté égal ou inférieur à T3</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «montagne»</td></tr>
-<tr><td>Sport de camp/trekking</td><td>– Activités en rivières d’eaux vives présentant un degré de difficulté égal ou inférieur à II en embarcation ouverte ou en radeau – Trekkings en rivières difficiles – Descentes de rivières à la nage difficiles – Surf en rivière</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «eau»</td></tr>
-<tr><td>Sport de camp/trekking</td><td>– Camps d’hiver dans une région isolée sans garantie d’accès en hiver – Bivouacs sous tente, dans un igloo, etc. sans abri en dur bénéficiant d’un accès garanti en hiver – Randonnées à raquettes, difficiles ou longues</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «hiver»</td></tr>
+<tr><td>Escalade sportive</td><td>Escalade sportive sur rocher</td><td>Escalade sportive avec complément «roche»</td></tr>
+<tr><td>Excursions à skis</td><td>Excursions à skis sans glaciers ni arêtes nécessitant l’utilisation de cordes et présentant un degré de difficulté allant de PD à AD+</td><td>Excursions à skis avec complément «Courses AD»</td></tr>
+<tr><td>Excursions à skis</td><td>Excursions à skis à partir du degré de difficulté D–</td><td>Excursions à skis avec complément «ski de randonnée en haute montagne»</td></tr>
+<tr><td>Ski</td><td>Descentes hors-piste autonomes sur des pentes présentant un degré de difficulté allant jusqu’à PD</td><td>Ski avec complément «freeride»</td></tr>
+<tr><td>Snowboard</td><td>Descentes hors-piste autonomes sur des pentes présentant un degré de difficulté allant jusqu’à PD</td><td>Snowboard avec complément «freeride»</td></tr>
+<tr><td>Sport de camp/ trekking</td><td>Excursions avec bivouac au-dessus de la limite forestière, présentant un degré de difficulté égal ou inférieur à T3</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «montagne»</td></tr>
+<tr><td>Sport de camp/ trekking</td><td>– Activités en rivières d’eaux vives présentant un degré de difficulté égal ou inférieur à II en embarcation ouverte ou en radeau – Trekkings en rivières difficiles – Descentes de rivières à la nage difficiles – Surf en rivière</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «eau»</td></tr>
+<tr><td>Sport de camp/ trekking</td><td>– Camps d’hiver dans une région isolée sans garantie d’accès en hiver – Bivouacs sous tente, dans un igloo, etc., sans abri en dur bénéficiant d’un accès garanti en hiver – Randonnées à raquettes, difficiles ou longues</td><td>Sport de camp/trekking avec complément domaine soumis à des dispositions de sécurité particulières «hiver»</td></tr>
 </table>
