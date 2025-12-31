@@ -3,20 +3,19 @@ canton: ZG
 number: "732.22"
 title: Reglement über die Abfallbewirtschaftung des Zeba
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-08-22
+version: 2026-01-01
+version_adopted: 2025-08-27
 adopted: 2005-05-19
 in_force: 2005-07-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/732.22"
-pdf: "https://bgs.zg.ch/api/de/versions/2634/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Abfallbewirtschaftung des Zeba
 
-Vom 19. Mai 2005 (Stand 1. Januar 2025)
+Vom 19. Mai 2005 (Stand 1. Januar 2026)
 
 Die Delegiertenversammlung des Zweckverbandes für die Bewirtschaftung der Abfälle,
 
@@ -221,7 +220,7 @@ beschliesst:
 
 <sup>2</sup> Die Eigentümer derjenigen Liegenschaften, denen die Sammelanlage dient, erbringen die bauseitigen Vorleistungen für die Erstellung der Unterfluranlage und tragen sämtliche damit zusammenhängenden Kosten (namentlich Baubewilligung, Aushub, Anschlüsse, Leitungsverlegung, Verankerung, Kanalisation, Denkmal- und Ortsbildauflagen, Umgebungsgestaltung). Die Verbandsgemeinde kann zu diesem Zweck ein Perimeterverfahren durchführen.
 
-<sup>2a</sup> An die Baukosten der Unterflur-Sammelanlagen für Hauskehricht entrichtet der Zeba einen Beitrag in der Höhe von maximal 10'000 Franken pro Säule. Die Baukosten beinhalten Aushub, Hinterfüllung, Umgebungsarbeiten, Oberflächenbelege, Anschlüsse, Leitungsverlegungen, Kanalisation sowie weitere Nebenkosten inklusive Anteil Bauleitungskosten.
+<sup>2a</sup> An die Baukosten der Unterflur-Sammelanlagen für Hauskehricht entrichtet der Zeba einen Beitrag in der Höhe von maximal 11'500 Franken pro Säule. Dieser Betrag wird alle fünf Jahre an den Baukostenindex des Bundesamts für Statistik (BFS) angepasst. Die Baukosten beinhalten Aushub, Hinterfüllung, Umgebungsarbeiten, Oberflächenbeläge, Anschlüsse, Leitungsverlegungen, Kanalisation sowie weitere Nebenkosten inklusive Anteil Bauleitungskosten.
 
 <sup>2b</sup> …
 
