@@ -4,11 +4,11 @@ number: "551.11"
 title: Kantonspolizeiverordnung (KapoV)
 short: KapoV
 language: de
-version: "2025-07-01"
-nachtrag: "129"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
+valid_until: 2026-07-01
 adopted: 1999-04-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_11-1999_04_28-1999_07_01-129.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_11-1999_04_28-1999_07_01-131.html"
 text: pdf
 ---
 
@@ -48,10 +48,10 @@ Die Kantonspolizei ist Kriminal-, Sicherheits- und Verkehrspolizei. Sie unterst�
 
 **Bestand des Polizeikorps**
 
-§ 3.[^1-2] Das Polizeikorps besteht aus höchstens 48 Offizierinnen und Offizieren sowie 2299 Unteroffizierinnen und Unteroffizieren, Gefreiten, Soldatinnen und Soldaten sowie Aspirantinnen und Aspiranten.
+§ 3.[^1-2] Das Polizeikorps besteht aus höchstens 48 Offizierinnen und Offizieren sowie 2325 Unteroffizierinnen und Unteroffizieren, Gefreiten, Soldatinnen und Soldaten sowie Aspirantinnen und Aspiranten.
 
 [^1-1]: Fassung gemäss RRB vom 5. November 2008 (OS 63, 595; ABl 2008, 1958). In Kraft seit 1. Januar 2009.
-[^1-2]: Fassung gemäss RRB vom 4. September 2024 (OS 79, 419; ABl 2024-09-13). In Kraft seit 1. Juli 2025.
+[^1-2]: Fassung gemäss RRB vom 4. September 2024 (OS 79, 419; ABl 2024-09-13). In Kraft seit 1. Januar 2026.
 
 #### § 4
 
@@ -65,7 +65,7 @@ Die Kantonspolizei ist Kriminal-, Sicherheits- und Verkehrspolizei. Sie unterst�
 
 **1**
 
-- 1\. 7. 25 - 129 § 5. Die Kantonspolizei wird im Rahmen der Weisungen der Sicherheitsdirektion[^4-1] durch die Kommandantin oder den Kommandanten geführt und in grundsätzlichen Angelegenheiten nach aussen vertreten. Unter Vorbehalt besonderer Anordnungen leitet die Kommandantin oder der Kommandant Katastropheneinsätze und kommandiert die Sicherheits- und Ordnungskräfte bei Unterstellungen grösserer kommunaler Verbände. Sie oder er regelt die Oberleitung der polizeilichen Ermittlungen bei Kapitalverbrechen.
+- 1\. 1. 26 - 131 § 5. Die Kantonspolizei wird im Rahmen der Weisungen der Sicherheitsdirektion[^4-1] durch die Kommandantin oder den Kommandanten geführt und in grundsätzlichen Angelegenheiten nach aussen vertreten. Unter Vorbehalt besonderer Anordnungen leitet die Kommandantin oder der Kommandant Katastropheneinsätze und kommandiert die Sicherheits- und Ordnungskräfte bei Unterstellungen grösserer kommunaler Verbände. Sie oder er regelt die Oberleitung der polizeilichen Ermittlungen bei Kapitalverbrechen.
 
 [^4-1]: Fassung gemäss RRB vom 5. November 2008 (OS 63, 595; ABl 2008, 1958). In Kraft seit 1. Januar 2009.
 
@@ -159,7 +159,7 @@ Die Kantonspolizei ist Kriminal-, Sicherheits- und Verkehrspolizei. Sie unterst�
 
 **3**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 ### B. Einreihung, Beförderung, Zulagen, Vergütungen
 
@@ -272,7 +272,7 @@ Die weiteren Bestimmungen über die Beförderungen, Zulagen und Entschädigungen
 
 **5**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 ### Übergangsrecht zur Änderung vom 5. November 2008 (OS 63, 595)
 
@@ -285,3 +285,4 @@ Die weiteren Bestimmungen über die Beförderungen, Zulagen und Entschädigungen
 ## Weitere Fussnoten
 
 - [13] Fassung gemäss RRB vom 16. Dezember 2020 (OS 76, 46; ABl 2020-12-24). In Kraft seit 1. März 2021.
+- [17] Fassung gemäss RRB vom 4. September 2024 (OS 79, 419; ABl 2024-09-13). In Kraft seit 1. Juli 2025.
