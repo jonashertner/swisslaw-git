@@ -3,18 +3,18 @@ sr: "412.101.220.02"
 title: Ordinanza della SEFRI del 18 maggio 2021 sulla formazione professionale di base Assistente del commercio al dettaglio con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/313"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2021-313-20240401-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/313/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-313-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/313/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Assistente del commercio al dettaglio con certificato federale di formazione pratica (CFP)
 
-del 18 maggio 2021 (Stato 1° aprile 2024)
+del 18 maggio 2021 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>71800</td><td>Assistente del commercio al dettaglio CFP Detailhandelsassistentin EBA/ Detailhandelsassistent EBA Assistante du commerce de détail AFP/ Assistant du commerce de détail AFP</td></tr>
@@ -26,10 +26,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto, rami di formazione e d’esame, durata
 
@@ -130,7 +130,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^6-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^6-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -161,19 +161,21 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Fatti salvi i capoversi 4 e 5, per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^8-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Fatti salvi i capoversi 4 e 5, per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^8-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^8-2].
 
-<sup>4</sup> Nella scuola professionale una parte dei contenuti di cultura generale è trasmessa insieme all’insegnamento delle conoscenze professionali nei campi di competenze operative a-b-c-d; a tal fine si tiene conto del profilo professionale specifico degli assistenti del commercio al dettaglio di livello CFP e delle relative esigenze ed esperienze professionali. I contenuti si basano sul Programma quadro per l’insegnamento della cultura generale del 27 aprile 2006[^8-2] e sono specificati nel piano di formazione nonché nel Programma nazionale per l’insegnamento della cultura generale per gli assistenti del commercio al dettaglio CFP del 19 febbraio 2021[^8-3]. Il Programma nazionale per l’insegnamento della cultura generale specifica altresì i contenuti di cultura generale che non sono trasmessi dall’insegnamento delle conoscenze professionali e che sono oggetto di lezioni di cultura generale separate.
+<sup>4</sup> Nella scuola professionale una parte dei contenuti di cultura generale è trasmessa insieme all’insegnamento delle conoscenze professionali nei campi di competenze operative a-b-c-d; a tal fine si tiene conto del profilo professionale specifico degli assistenti del commercio al dettaglio di livello CFP e delle relative esigenze ed esperienze professionali. I contenuti si basano sul Programma quadro per l’insegnamento della cultura generale del 27 aprile 2006[^8-3] e sono specificati nel piano di formazione nonché nel Programma nazionale per l’insegnamento della cultura generale per gli assistenti del commercio al dettaglio CFP del 19 febbraio 2021[^8-4]. Il Programma nazionale per l’insegnamento della cultura generale specifica altresì i contenuti di cultura generale che non sono trasmessi dall’insegnamento delle conoscenze professionali e che sono oggetto di lezioni di cultura generale separate.
 
-<sup>5</sup> Del Programma nazionale per l’insegnamento della cultura generale per gli assistenti del commercio al dettaglio CFP è responsabile l’organizzazione del mondo del lavoro «Formazione nel commercio al dettaglio in Svizzera» (FCS), che emana il programma dopo la presa di posizione della Commissione svizzera per lo sviluppo professionale e la qualità della formazione nel commercio al dettaglio. Il programma sostituisce il programma d’istituto di cui all’articolo 5 dell’ordinanza della SEFRI del 27 aprile 2006 sulle prescrizioni minime in materia di cultura generale per la formazione professionale di base.
+<sup>5</sup> Del Programma nazionale per l’insegnamento della cultura generale per gli assistenti del commercio al dettaglio CFP è responsabile l’organizzazione del mondo del lavoro «Formazione nel commercio al dettaglio in Svizzera» (FCS), che emana il programma dopo la presa di posizione della Commissione svizzera per lo sviluppo professionale e la qualità della formazione nel commercio al dettaglio. Il programma sostituisce il programma d’istituto di cui all’articolo 5 dell’ordinanza della SEFRI del 27 aprile 2006[^8-5] sulle prescrizioni minime in materia di cultura generale per la formazione professionale di base.
 
 <sup>6</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>7</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
-[^8-2]: Il programma quadro del 27 apr. 2006 per l’insegnamento della cultura generale è disponibile sul sito SEFRI: www.sefri.admin.ch &gt;Formazione &gt;Formazione professionale di base &gt; Insegnamento della cultura generale
-[^8-3]: All. 1 al piano di formazione (art. 10 cpv. 3).
+[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^8-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^8-3]: Il programma quadro del 27 apr. 2006 per l’insegnamento della cultura generale è disponibile sul sito SEFRI: www.sefri.admin.ch &gt;Formazione &gt;Formazione professionale di base &gt; Insegnamento della cultura generale
+[^8-4]: All. 1 al piano di formazione (art. 10 cpv. 3).
+[^8-5]: [[RU 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 9
 
@@ -225,7 +227,7 @@ Il piano di formazione:
 
 Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
 
-- a. attestato federale di capacità di impiegato di commercio AFC e almeno due anni di esperienza professionale nella professione;
+- attestato federale di capacità di impiegato di commercio AFC e almeno due anni di esperienza professionale nella professione;
 - b. impiegato di vendita al minuto qualificato e almeno due anni di esperienza professionale nella professione;
 - c. venditore qualificato e almeno tre anni di esperienza professionale nella professione;
 - d. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’impiegato del commercio al dettaglio AFC e almeno tre anni di esperienza professionale nella professione;
@@ -368,7 +370,7 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 17 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 383](https://fedlex.data.admin.ch/eli/oc/2022/383)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 17 giu. 2022, in vigore dal 1° ago. 2022 ([RU 2022 383](https://fedlex.data.admin.ch/eli/oc/2022/383)).
 
 #### Art. 21
 
