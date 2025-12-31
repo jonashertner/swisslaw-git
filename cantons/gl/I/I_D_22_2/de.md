@@ -4,13 +4,12 @@ number: I D/22/2
 title: Gesetz über die politischen Rechte
 short: GPR
 language: de
-version: 2018-01-01
-valid_until: 2025-12-31
-version_adopted: 2017-05-07
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 2017-05-07
 in_force: 2018-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/I-D.22.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1972/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2612/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/1972/pdf_file"
 
 (GPR)
 
-Vom 07.05.2017 (Stand 01.01.2018)
+Vom 07.05.2017 (Stand 01.01.2026)
 
 Die Landsgemeinde,
 
@@ -68,7 +67,7 @@ erlässt:
 
 <sup>4</sup> Voraussetzungen und Inhalt des Stimm- und Wahlrechts in Bundesangelegenheiten richten sich nach dem Bundesrecht.
 
-<sup>5</sup> Das Stimm- und Wahlrecht von Auslandschweizerinnen und Auslandschweizern ist auf Bundesangelegenheiten beschränkt.
+<sup>5</sup> Das Stimm- und Wahlrecht von Auslandschweizerinnen und Auslandschweizern ist auf Bundesangelegenheiten sowie auf die Wahl der beiden Ständeräte beschränkt.
 
 #### Art. 4
 
@@ -166,7 +165,7 @@ erlässt:
 
 **Persönliche Stimmabgabe**
 
-<sup>1</sup> Die persönliche Stimmabgabe an der Urne ist am Abstimmungstag in allen Stimmlokalen während mindestens einer Stunde möglich. Die Stimmlokale schliessen spätestens um 12.00 Uhr.
+<sup>1</sup> Die persönliche Stimmabgabe an der Urne ist am Abstimmungstag während mindestens einer Stunde möglich. Die Stimmlokale schliessen spätestens um 12.00 Uhr.
 
 <sup>2</sup> Die Gemeinden können die persönliche Stimmabgabe an der Urne in einem Stimmlokal oder mehreren Stimmlokalen an den Vortagen ermöglichen.
 
@@ -394,6 +393,8 @@ erlässt:
 
 <sup>1</sup> Das Wahlmaterial ist den Stimmberechtigten bei ersten Wahlgängen nach dem Mehrheitswahlverfahren sowie bei Wahlen nach dem Verhältniswahlverfahren frühestens vier und spätestens drei Wochen, bei den übrigen Wahlen spätestens zehn Tage vor dem Abstimmungstag zuzustellen.
 
+<sup>2</sup> Trifft das Wahlmaterial trotz rechtzeitigem Versand zu spät bei Stimmberechtigten im Ausland ein oder treffen die Stimm- oder Wahlzettel zu spät bei der Gemeinde ein, so können daraus keine Rechtsansprüche abgeleitet werden.
+
 #### Art. 33
 
 **Losentscheid**
@@ -417,6 +418,19 @@ erlässt:
 **Ankündigung**
 
 <sup>1</sup> Erste Wahlgänge sind durch den Regierungs- bzw. Gemeinderat bis spätestens am zwölften Donnerstag vor dem Abstimmungstag anzukündigen.
+
+#### Art. 34a
+
+**Anmeldung der Kandidatur**
+
+<sup>1</sup> Interessierte Personen können ihre Kandidatur bis spätestens am neunten Tag vor dem Wahltag anmelden:
+
+- a. bei der Staatskanzlei für kantonale Wahlen nach dem Mehrheitswahlverfahren;
+- b. bei der Gemeindekanzlei für Gemeindewahlen nach dem Mehrheitswahlverfahren.
+
+<sup>2</sup> Der Regierungsrat legt die für die Anmeldung einer Kandidatur erforderlichen Angaben fest.
+
+<sup>3</sup> Die Staats- und Gemeindekanzlei veröffentlicht die angemeldeten Kandidaturen ab dem 48. Tag vor dem Wahltag laufend auf geeignete Weise.
 
 #### Art. 35
 
@@ -444,7 +458,7 @@ erlässt:
 
 <sup>1</sup> Der zweite Wahlgang ist frühestens zwei Wochen nach dem ersten Wahlgang durchzuführen.
 
-<sup>2</sup> Massgebend ist das relative Mehr. Gewählt sind die kandidierenden Personen mit der höchsten Zahl der massgebenden Stimmen.
+<sup>2</sup> Massgebend ist das relative Mehr. Gewählt sind die Personen mit der höchsten Zahl der massgebenden Stimmen.
 
 #### Art. 38
 
@@ -511,15 +525,17 @@ erlässt:
 - a. hat eine von den übrigen Wahlvorschlägen unterscheidbare Listenbezeichnung aufzuweisen;
 - b. darf nicht mehr Personen enthalten, als Mandate auf den Wahlkreis entfallen, wobei Vorgeschlagene zweimal aufgeführt sein dürfen;
 - c. hat Namen, Vornamen, Geschlecht, Geburtsdatum, Heimatort, Beruf und Wohnadresse der Vorgeschlagenen zu enthalten;
-- d. ist von wenigstens zehn im Wahlkreis wohnhaften, stimmberechtigten Personen zu unterzeichnen;
+- d. …
 - e. muss eine für den Wahlvorschlag verantwortliche Person samt Stellvertretung bezeichnen;
-- f. ist von den Vorgeschlagenen mit ihrer Unterschrift zu bestätigen.
+- f. ist von den Vorgeschlagenen durch eigenhändige Unterschrift oder qualifizierte elektronische Signatur (Art. 4a Verwaltungsrechtspflegegesetz [VRG][^43-1]) zu bestätigen.
 
 <sup>3</sup> Pro Wahlkreis darf jede Person nur auf einem Wahlvorschlag als kandidierende Person aufgeführt sein.
 
-<sup>4</sup> Jede Person darf nur einen Wahlvorschlag unterzeichnen. Die Unterschrift kann nicht zurückgezogen werden.
+<sup>4</sup> …
 
 <sup>5</sup> Der Regierungsrat regelt die Bereinigung und Ergänzung der Wahlvorschläge sowie deren Einsehbarkeit.
+
+[^43-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
 
 #### Art. 44
 
@@ -677,21 +693,69 @@ erlässt:
 
 <sup>3</sup> Der Stimmrechtsausweis ist den Kontrollorganen beim Betreten der Landsgemeinde oder der Gemeindeversammlung auf Verlangen vorzuweisen.
 
+#### Art. 59a
+
+**Landsgemeindememorial**
+
+<sup>1</sup> Das Landsgemeindememorial ist in seiner elektronischen Form rechtlich massgeblich. Es gilt durch seine Publikation im Internet als zugänglich gemacht.
+
+<sup>2</sup> Das Landsgemeindememorial ist in physischer Form in der Staatskanzlei einsehbar.
+
+<sup>3</sup> Die Stimmberechtigten erhalten mindestens einmal pro Haushalt das Landsgemeindememorial in physischer Form.
+
+<sup>4</sup> Der Regierungsrat kann vorsehen, dass auf die Zustellung des Landsgemeindememorials in physischer Form verzichtet werden kann. Der Landrat entscheidet darüber, ab wann das Landsgemeindememorial in physischer Form nur noch auf Verlangen zugestellt wird. Der Regierungsrat regelt die Einzelheiten.
+
+<sup>5</sup> In dringlichen Fällen kann bis spätestens fünf Tage vor der Landsgemeinde:
+
+- a. eine Ergänzung des Landsgemeindememorials durch eine Publikation im Internet und einen entsprechenden Hinweis im Amtsblatt erfolgen;
+- b. das Landsgemeindememorial als Ganzes im Internet publiziert werden. Sofern es die Umstände zulassen, wird es auch in physischer Form zugestellt.
+
+<sup>6</sup> Auf Grundlage des Landsgemeindememorials können weitere Medien zugänglich gemacht werden.
+
 #### Art. 60
 
-**Unterlagen**
+**Unterlagen für die Gemeindeversammlung**
 
-<sup>1</sup> Bis spätestens zehn Tage vor dem Durchführungsdatum der Gemeindeversammlung sind folgende Unterlagen in der Gemeinde öffentlich aufzulegen und mindestens einmal pro Haushalt zuzustellen:
+<sup>1</sup> Die Unterlagen für die Gemeindeversammlung enthalten:
 
 - a. die Traktandenliste;
 - b. die Anträge und Erläuterungen des Gemeinderates;
 - c. die Anträge der Stimmberechtigten gemäss Artikel 77 mit Stellungnahmen des Gemeinderates;
 - d. die Jahresrechnung, das Budget sowie der Bericht des Rechnungsprüfungsorgans bzw. der Geschäftsprüfungskommission;
-- e. der Finanzplan.
+- e. den Finanzplan.
 
-<sup>2</sup> Die Zustellung der Unterlagen für die Landsgemeinde richtet sich nach Artikel 62 der Kantonsverfassung.
+<sup>1a</sup> Die Unterlagen sind in ihrer elektronischen Form rechtlich massgeblich. Sie gelten durch ihre Publikation im Internet als zugänglich gemacht.
 
-<sup>3</sup> In dringlichen Fällen oder bei ausserordentlichen Versammlungen kann die Zustellung der Unterlagen bis spätestens fünf Tage vor der Landsgemeinde oder der Gemeindeversammlung erfolgen.
+<sup>1b</sup> Die Unterlagen werden spätestens 21 Tage vor dem Durchführungsdatum der Gemeindeversammlung elektronisch im Internet publiziert und in physischer Form in der Gemeinde öffentlich aufgelegt.
+
+<sup>1c</sup> Die Stimmberechtigten erhalten spätestens 21 Tage vor dem Durchführungsdatum der Gemeindeversammlung mindestens einmal pro Haushalt eine zusammengefasste Form der Unterlagen in physischer Form. Darin werden sie darauf hingewiesen, dass ihnen die Unterlagen gemäss Absatz 1 auf Verlangen in physischer Form kostenlos zugestellt werden.
+
+<sup>2</sup> …
+
+<sup>3</sup> In dringlichen Fällen können bis spätestens fünf Tage vor der Gemeindeversammlung:
+
+- a. Ergänzungen der Unterlagen durch eine Publikation im Internet und einen entsprechenden Hinweis im Amtsblatt erfolgen;
+- b. die Unterlagen als Ganzes im Internet publiziert werden. Sofern es die Umstände zulassen, werden sie auf Verlangen auch in physischer Form zugestellt.
+
+<sup>4</sup> Auf Grundlage der Unterlagen für die Gemeindeversammlung können weitere Medien zugänglich gemacht werden.
+
+#### Art. 60a
+
+**Massnahmen für Stimmberechtigte mit Behinderungen**
+
+<sup>1</sup> Die Staats- oder Gemeindekanzlei setzt sich dafür ein, dass Stimmberechtigte mit Behinderungen ihr Stimmrecht an der Landsgemeinde oder an einer Gemeindeversammlung ausüben können.
+
+<sup>2</sup> Der Regierungsrat legt den Zeitpunkt fest, bis zu welchem Stimmberechtigte mit Behinderungen oder ihre Vertretung ihre Bedürfnisse vor der Landsgemeinde oder einer Gemeindeversammlung geltend machen können.
+
+#### Art. 60b
+
+**Erleichterte Teilnahme an der Landsgemeinde**
+
+<sup>1</sup> Der öffentliche Verkehr im Kanton (Bahn- und Buslinien inkl. Braunwaldbahn, Basis 2. Klasse) für die Fahrt an die Landsgemeinde sowie für die Rückfahrt von dieser ist für Stimmberechtigte und Kinder und Jugendliche bis 16 Jahre kostenlos.
+
+<sup>2</sup> Die dadurch entstehenden Kosten werden durch den Kanton getragen.
+
+<sup>3</sup> Der Regierungsrat kann weitere Massnahmen zur erleichterten Teilnahme treffen und regelt die Einzelheiten.
 
 #### Art. 61
 
@@ -743,7 +807,7 @@ erlässt:
 
 <sup>3</sup> Für die Protokollierung können technische Hilfsmittel verwendet werden. Insbesondere kann die Verhandlung auf Bild- und Tonträger aufgenommen werden.
 
-<sup>4</sup> Die Aufnahmen dürfen nicht zu anderen Zwecken verwendet werden. Vorbehalten bleibt die Veröffentlichung in amtlichen Bild- und Tonarchiven.
+<sup>4</sup> …
 
 #### Art. 65
 
@@ -822,13 +886,13 @@ erlässt:
 
 **Einreichung**
 
-<sup>1</sup> Memorialsanträge sind bei der Staatskanzlei einzureichen.
+<sup>1</sup> Memorialsanträge sind bei der Staatskanzlei schriftlich oder elektronisch einzureichen.
 
 <sup>2</sup> Der Antrag muss inhaltlich genügend bestimmt und mit einem aussagekräftigen Titel versehen sein. Der Antrag ist zu begründen und hat die für die Prüfung des Zustandekommens notwendigen Angaben zur antragstellenden Person zu enthalten.
 
 <sup>3</sup> Der Titel darf weder irreführend noch persönlichkeitsverletzend sein, zu keinen Verwechslungen Anlass geben und keine kommerzielle oder persönliche Werbung enthalten.
 
-<sup>4</sup> Der Antrag ist von den antragstellenden Personen zu unterzeichnen.
+<sup>4</sup> Der Antrag ist von den antragstellenden Personen eigenhändig zu unterzeichnen oder mit einer qualifizierten elektronischen Signatur (Art. 4a VRG) zu versehen.
 
 #### Art. 72
 
@@ -976,7 +1040,7 @@ erlässt:
 
 **Form**
 
-<sup>1</sup> Petitionen sind unter Angabe des Datums und des Wohnortes oder Sitzes schriftlich einzureichen.
+<sup>1</sup> Petitionen sind unter Angabe des Datums und des Wohnortes oder Sitzes schriftlich oder elektronisch einzureichen.
 
 #### Art. 88
 
@@ -1005,6 +1069,26 @@ erlässt:
 <sup>2</sup> Die Identität der Personen, welche die Petition eingereicht haben, darf nur mitgeteilt werden, wenn sie der Bekanntgabe zugestimmt haben.
 
 <sup>3</sup> Vorbehalten bleibt die Verfolgung strafbarer Handlungen.
+
+## 5a. Förderung der politischen Partizipation
+
+#### Art. 90a
+
+**Pilotprojekte**
+
+<sup>1</sup> Der Regierungs- oder Gemeinderat kann zur Förderung der politischen Partizipation Pilotprojekte bewilligen.
+
+<sup>2</sup> Pilotprojekte sind zu befristen und zu evaluieren.
+
+<sup>3</sup> Der Regierungs- oder Gemeinderat kann für die Dauer eines bewilligten Pilotprojekts eine befristete Verordnung erlassen. Er bezeichnet darin die für die Durchführung des Pilotprojektes zuständige Behörde und erlässt weitere notwendige Bestimmungen.
+
+<sup>4</sup> Falls es der Zweck des bewilligten Pilotprojekts erfordert, kann der Regierungs- oder Gemeinderat vom Gesetz abweichen. In solchen Fällen ist eine Verordnung zu erlassen.
+
+#### Art. 90b
+
+**Finanzierung**
+
+<sup>1</sup> Der Regierungs- oder Gemeinderat kann bewilligte Pilotprojekte im Rahmen seiner Zuständigkeit vollständig oder teilweise finanzieren.
 
 ## 6. Rechtsschutz und Strafbestimmungen
 
