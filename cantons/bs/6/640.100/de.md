@@ -4,13 +4,12 @@ number: "640.100"
 title: Gesetz über die direkten Steuern
 short: "Steuergesetz, StG"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-03-22
+version: 2026-01-01
+version_adopted: 2025-02-05
 adopted: 2000-04-12
 in_force: 2001-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/640.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6558/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6834/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Steuergesetz | Allgemeine Steuern
 
 (Steuergesetz, StG)
 
-Vom 12. April 2000 (Stand 1. Januar 2025)
+Vom 12. April 2000 (Stand 1. Januar 2026)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -1080,9 +1079,11 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 
 <sup>2</sup> Der Reingewinn aus Patenten und vergleichbaren Rechten, die in Produkten enthalten sind, ermittelt sich, indem der Reingewinn aus diesen Produkten jeweils um 6 Prozent der diesen Produkten zugewiesenen Kosten sowie um das Markenentgelt vermindert wird.
 
-<sup>3</sup> Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals ermässigt besteuert (Boxeneintritt), so wird der in vergangenen Steuerperioden bereits berücksichtigte Forschungs- und Entwicklungsaufwand im Umfang von 40 Prozent gesondert zu einem Steuersatz von 0,5 Prozent besteuert.
+<sup>3</sup> Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals ermässigt besteuert (Boxeneintritt), so wird der in vergangenen Steuerperioden bereits berücksichtigte Forschungs- und Entwicklungsaufwand im Umfang von 5 Prozent gesondert zu einem Steuersatz von 0,5 Prozent besteuert.
 
-<sup>4</sup> Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals nicht mehr ermässigt besteuert (Boxenaustritt), so wird auf Antrag der in vergangenen Steuerperioden angefallene Forschungs- und Entwicklungsaufwand im Umfang von 40 Prozent zu 0,5 Prozent an die Gewinnsteuern angerechnet. Die Anrechnung ist auf den Betrag beschränkt, der beim Eintritt nach Abs. 3 erhoben wurde. Der Antrag ist spätestens bis zur Rechtskraft der Veranlagung der Steuerperiode zu stellen, in welcher der Reingewinn aus Patenten und vergleichbaren Rechten erstmals nicht mehr ermässigt besteuert wird, ansonsten der Anspruch nach diesem Absatz erlischt.
+<sup>4</sup> Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals nicht mehr ermässigt besteuert (Boxenaustritt), so wird auf Antrag der in vergangenen Steuerperioden angefallene Forschungs- und Entwicklungsaufwand im Umfang von 5 Prozent zu 0,5 Prozent an die Gewinnsteuern angerechnet. Die Anrechnung ist auf den Betrag beschränkt, der beim Eintritt nach Abs. 3 erhoben wurde. Der Antrag ist spätestens bis zur Rechtskraft der Veranlagung der Steuerperiode zu stellen, in welcher der Reingewinn aus Patenten und vergleichbaren Rechten erstmals nicht mehr ermässigt besteuert wird, ansonsten der Anspruch nach diesem Absatz erlischt.
+
+<sup>4<sup>bis</sup></sup> Wurde der Umfang des massgebenden Forschungs- und Entwicklungsaufwandes beim Boxeneintritt zu einem anderen Prozentsatz als dem für den Boxenaustritt nach Abs. 4 massgebenden Prozentsatz bestimmt, so gilt für den Boxenaustritt der durchschnittlich anwendbare Prozentsatz während der Anwendungsdauer der Patentbox, längstens aber der letzten 10 Jahre vor dem Boxenaustritt.
 
 <sup>5</sup> Für die Fälligkeiten gelten § 194 Abs. 1 lit. a und Abs. 2 sinngemäss.
 
@@ -1126,7 +1127,7 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 
 **Entlastungsbegrenzung**
 
-<sup>1</sup> Die gesamte steuerliche Ermässigung nach § 69b Abs. 1 (Patentbox) darf nicht höher sein als 40 Prozent des steuerbaren Gewinns vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach § 77 ausgeklammert wird, und vor Abzug der vorgenannten Ermässigung.
+<sup>1</sup> Die gesamte steuerliche Ermässigung nach § 69b Abs. 1 (Patentbox) darf nicht höher sein als 5 Prozent des steuerbaren Gewinns vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach § 77 ausgeklammert wird, und vor Abzug der vorgenannten Ermässigung.
 
 <sup>2</sup> Es dürfen aus der steuerlichen Ermässigung nach § 69b Abs. 1 (Patentbox) keine Verlustvorträge resultieren.
 
@@ -1228,6 +1229,8 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 #### § 76
 
 <sup>1</sup> Die Gewinnsteuer der juristischen Personen beträgt 6,5 Prozent des steuerbaren Reingewinns.
+
+<sup>1<sup>bis</sup></sup> Ab Zeitpunkt des Inkrafttretens von § 242c geht für die Gewinnsteuer dieser Steuerperiode und der 9 darauffolgenden Steuerperioden § 242c dem § 76 Abs. 1 vor.
 
 <sup>2</sup> …
 
@@ -2064,7 +2067,9 @@ Von 100 Franken bis 403’100 Franken: 21 Franken je 100 Franken.
 - c) Rechtsgeschäfte;
 - d) Leistungen des Gemeinwesens.
 
-<sup>4</sup> Im Übrigen sind, soweit dieses Gesetz keine abweichenden Vorschriften enthält, die Bestimmungen des kantonalen Informations- und Datenschutzgesetzes sinngemäss anwendbar.
+<sup>4</sup> Im Übrigen sind, soweit dieses Gesetz keine abweichenden Vorschriften enthält, die Bestimmungen des kantonalen Gesetzes über die Information und den Datenschutz (Informations- und Datenschutzgesetz, IDG)[^141a-1] vom 9. Juni 20210 sinngemäss anwendbar.
+
+[^141a-1]: SG 910.200
 
 ### (2. Teil/2. Abschn./A.) II. Verfahrensrechtliche Stellung der steuerpflichtigen Person
 
@@ -3481,6 +3486,17 @@ für die Steuerperiode 2008 um 100 Franken.
 #### § 242b
 
 **…**
+
+### (5. Teil/IV.) 11. Zeitlich befristeter Gewinnsteuersatz
+
+#### § 242c
+
+<sup>1</sup> Ab Zeitpunkt des Inkrafttretens der vorliegenden Bestimmung gelten für die Gewinnsteuer dieser Steuerperiode und der 9 darauffolgenden Steuerperioden nachfolgende Bestimmungen:
+
+- a) Die Gewinnsteuer der juristischen Personen beträgt in Abweichung von § 76 Abs. 1: 6,5 Prozent auf den ersten 50 Millionen Franken des steuerbaren Reingewinnes. Für den Anteil des steuerbaren Reingewinnes über 50 Millionen Franken beträgt der Steuersatz 8,5 Prozent.
+- b) Juristische Personen, die nur für einen Teil ihres Gewinns im Kanton steuerpflichtig sind, entrichten die Steuern für die im Kanton steuerbaren Werte nach dem Steuersatz, der ihrem gesamten Gewinn vor internationaler und interkantonaler Steuerausscheidung entspricht.
+- c) Juristische Personen, deren steuerbarer Reingewinn gemäss § 69b ermässigt wird, entrichten die Steuern nach dem Steuersatz, der ihrem gesamten Gewinn vor Anwendung von § 69b entspricht.
+- d) Bei einem unter- oder überjährigen Geschäftsabschluss werden für die Bestimmung des Gewinnsteuersatzes nur die ordentlichen Gewinne auf zwölf Monate umgerechnet.
 
 ### (5. Teil) IV. Inkraftsetzung
 
