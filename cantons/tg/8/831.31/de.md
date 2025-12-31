@@ -4,13 +4,12 @@ number: "831.31"
 title: "Verordnung zum Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: TG ELV
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-13
+version: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/831.31"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2589/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2951/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ TG ELV
 
 (TG ELV)
 
-vom 11.12.2007 (Stand 01.01.2023)
+vom 11.12.2007 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -67,9 +66,16 @@ vom 11.12.2007 (Stand 01.01.2023)
 
 <sup>2</sup> Für den Transport nach Abs. 1 Ziff. 3 und Ziff. 4 werden nur die Kosten vergütet, die dem günstigsten Tarif der öffentlichen Transportmittel für Fahrten auf dem direkten Weg entsprechen.
 
-<sup>3</sup> Ist der versicherten Person wegen ihrer Krankheit oder Behinderung die Benützung der öffentlichen Transportmittel nicht möglich, werden die Kosten eines anderen, zumutbaren Transportmittels vergütet.
+<sup>3</sup> Ist der versicherten Person wegen ihrer Krankheit oder Behinderung die Benützung der öffentlichen Transportmittel nicht möglich, werden die Kosten eines anderen, zumutbaren Transportmittels vergütet. Als zumutbare Transportmittel gelten insbesondere:
 
-<sup>4</sup> Für private Personenwagen werden pauschal höchstens Fr. 0.70 pro km vergütet; erfolgen Abgabe oder Amortisation durch die IV, beträgt der Ansatz höchstens Fr. 0.25 pro km.
+- 1\. Heimtransporte
+- 2\. Transporte weiterer Institutionen
+- 3\. private Personentransporte
+- 4\. Taxis
+
+<sup>4</sup> Für private Personentransporte werden pauschal höchstens Fr. 0.70/km vergütet. Erfolgt die Amortisation des Transportmittels durch die IV, beträgt der Ansatz höchstens Fr. 0.25/km.
+
+<sup>5</sup> Für Transporte mit einem Taxi werden pauschal höchstens Fr. 0.70/km vergütet. Insbesondere in Notsituationen kann eine weitergehende Kostenübernahme erfolgen.
 
 #### § 5
 
@@ -175,11 +181,11 @@ vom 11.12.2007 (Stand 01.01.2023)
 
 **Familienangehörige und Partnerin oder Partner in faktischer Lebensgemeinschaft**
 
-<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung von zu Hause wohnenden Bezügerinnen und Bezügern mit einer Hilflosenentschädigung für mittelschwere oder schwere Hilflosigkeit durch Familienangehörige oder durch die Partnerin oder den Partner in faktischer Lebensgemeinschaft werden nur vergütet, wenn diese Personen
+<sup>1</sup> Werden zu Hause wohnende Bezügerinnen und Bezüger mit einer Hilflosenentschädigung für mittelschwere oder schwere Hilflosigkeit durch Familienangehörige oder durch die Partnerin oder den Partner in einer faktischen Lebensgemeinschaft unterstützt, werden die Kosten für Hilfe, Pflege und Betreuung nur vergütet, wenn die unterstützenden Personen
 
 - 1\. nicht in der EL-Berechnung eingeschlossen sind und
 - 2\. durch die Pflege und Betreuung eine länger dauernde, wesentliche Erwerbseinbusse erleiden und
-- 3\. das ordentliche Rentenalter noch nicht erreicht haben und keine vorbezogene AHV-Altersrente beziehen.
+- 3\. das AHV-Referenzalter noch nicht erreicht haben und keine vorbezogene AHV-Altersrente beziehen.
 
 <sup>2</sup> Die Kosten werden im Umfang des Erwerbsausfalls vergütet, höchstens jedoch mit Fr. 40'000 pro Jahr (einschliesslich der Sozialversicherungsabgaben).
 
@@ -191,7 +197,9 @@ vom 11.12.2007 (Stand 01.01.2023)
 
 **Tagesstätten und andere anerkannte ambulante Organisationen**
 
-<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung in anerkannten Tagesstätten im Sinne von Art. 3 Abs. 1 lit. c des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^12-1] oder in anderen anerkannten ambulanten Organisationen werden bei einem Aufenthalt von zwei bis fünf zusammenhängenden Stunden mit höchstens Fr. 50 und ab fünf zusammenhängenden Stunden mit höchstens Fr. 100 pro Tag vergütet, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist.
+<sup>1</sup> Kosten für Hilfe, Pflege und Betreuung in anerkannten Tagesstätten im Sinne von Art. 3 Abs. 1 lit. c des Bundesgesetzes über die Institutionen zur Förderung der Eingliederung von invaliden Personen (IFEG)[^12-1] werden bei einem Aufenthalt von zwei bis fünf zusammenhängenden Stunden mit höchstens Fr. 25 und ab fünf zusammenhängenden Stunden mit höchstens Fr. 50 pro Tag vergütet. Die Notwendigkeit muss ärztlich bescheinigt sein.
+
+<sup>1<sup>bis</sup></sup> Kosten für Hilfe, Pflege und Betreuung in anerkannten Tagesstätten in anderen anerkannten ambulanten Organisationen werden bei einem Aufenthalt von zwei bis fünf zusammenhängenden Stunden mit höchstens Fr. 50 und ab fünf zusammenhängenden Stunden mit höchstens Fr. 100 pro Tag vergütet. Die Notwendigkeit muss ärztlich bescheinigt sein.
 
 <sup>2</sup> Keine Kosten werden vergütet:
 
@@ -205,13 +213,13 @@ vom 11.12.2007 (Stand 01.01.2023)
 
 **Anerkannte gemeinnützige Entlastungsdienste**
 
-<sup>1</sup> Kosten für Hilfe und Betreuung zu Hause durch vom Departement anerkannte gemeinnützige Entlastungsdienste werden höchstens für 48 Stunden pro Monat vergütet. Bei einem abgestuften Tarif wird nur der tiefste Tarif angerechnet, jedoch höchstens Fr. 35 pro Stunde und Haushalt.
+<sup>1</sup> Kosten für Hilfe und Betreuung zu Hause durch vom Departement anerkannte gemeinnützige Entlastungsdienste, die pflegende und betreuende Angehörige entlasten, werden höchstens für 48 Stunden pro Monat vergütet mit höchstens Fr. 35 pro Stunde und Haushalt.
 
 #### § 13
 
 **Haushaltshilfe**
 
-<sup>1</sup> Kosten für Hilfe und Betreuung im Haushalt durch anerkannte ambulante Organisationen werden, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist, vergütet. Bei einem abgestuften Tarif wird nur der tiefste Tarif angerechnet, höchstens jedoch Fr. 25 pro Stunde und Haushalt.
+<sup>1</sup> Kosten für Hilfe und Betreuung im Haushalt durch anerkannte ambulante Organisationen werden mit höchstens Fr. 35 pro Stunde und Haushalt vergütet. Die kantonale Ausgleichskasse kann eine ärztliche Bescheinigung über die Notwendigkeit verlangen.
 
 <sup>2</sup> Kosten für Hilfe und Betreuung im Haushalt werden, sofern die Notwendigkeit der Beanspruchung im Einzelfall ärztlich bescheinigt ist, mit höchstens Fr. 25 pro Stunde und Haushalt und Fr. 4'800 pro Jahr und Haushalt (einschliesslich Sozialversicherungsabgaben) vergütet, wenn die Hilfe von einer Person erbracht wird, die
 
