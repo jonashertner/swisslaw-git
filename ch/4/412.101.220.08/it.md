@@ -3,18 +3,18 @@ sr: "412.101.220.08"
 title: Ordinanza della SEFRI del 6 novembre 2018 sulla formazione professionale di base Addetta di ristorazione/Addetto di ristorazione con certificato federale di formazione pratica (CFP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/768"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2018-11-06
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/768/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2018-768-20240401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/768/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/768/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2018-768-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/768/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Addetta di ristorazione / Addetto di ristorazione con certificato federale di formazione pratica (CFP)
 
-del 6 novembre 2018 (Stato 1° aprile 2024)
+del 6 novembre 2018 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>79024</td><td>Addetta di ristorazione CFP / Addetto di ristorazione CFP Restaurantangestellte EBA / Restaurantangestellter EBA Employée en restauration AFP / Employé en restauration AFP</td></tr>
@@ -26,10 +26,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto e durata
 
@@ -134,7 +134,7 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -164,13 +164,14 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.[^7-2]
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, ovvero nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 #### Art. 8
 
@@ -214,7 +215,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 6 novembre 2018 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professioni A–Z.
+[^9-1]: Il piano del 6 nov. 2018 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professioni A–Z.
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -232,17 +233,21 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 #### Art. 11
 
-**Numero massimo di persone in formazione in azienda**
+**Numero massimo di persone in formazione in azienda**[^11-1]
 
-<sup>1</sup> Nelle aziende che impiegano un formatore al 100 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
+<sup>1</sup> Nelle aziende che impiegano un formatore all’80 per cento o due formatori ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione.
 
-<sup>2</sup> Per ogni altro specialista impiegato al 100 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
+<sup>2</sup> Per ogni altro specialista impiegato all’80 per cento o per ogni due specialisti in più impiegati ciascuno almeno al 60 per cento può svolgere il tirocinio una persona in formazione in più.
 
 <sup>3</sup> È considerato specialista il titolare di un attestato federale di capacità, di un certificato federale di formazione pratica o di una qualifica equivalente nel campo della persona in formazione.
 
 <sup>4</sup> Nelle aziende che possono impiegare soltanto una persona in formazione una seconda persona può iniziare il tirocinio quando la prima inizia l’ultimo anno della formazione professionale di base.
 
 <sup>5</sup> In casi particolari l’autorità cantonale può autorizzare un numero maggiore di persone in formazione nelle aziende che da più anni svolgono la loro funzione di formazione con risultati particolarmente positivi.
+
+<sup>6</sup> L’azienda pianifica gli orari lavorativi dei formatori e degli specialisti affinché, durante la pratica professionale, la persona in formazione possa essere seguita da un formatore o da uno specialista.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
@@ -323,29 +328,17 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>Voce</td><td>Campi di competenze operative</td><td>Ponderazione</td></tr>
 <tr><td>1</td><td>Svolgimento di attività legate alla ristorazione</td><td>20 %</td></tr>
 <tr><td>2</td><td>Organizzazione del servizio bevande Organizzazione del servizio di ristorazione</td><td>50 %</td></tr>
-<tr><td>3</td><td>Attuazione dei processi economico-aziendali e orientati alla vendita[^18-1] Garanzia dei processi logistici e del mantenimento del valore</td><td>30 %</td></tr>
+<tr><td>3</td><td>Attuazione dei processi economico-aziendali e orientati alla vendita Garanzia dei processi logistici e del mantenimento del valore</td><td>30 %</td></tr>
 </table>
 
-- b.
-
-  «conoscenze professionali», della durata di due ore; vale quanto segue:
-
-  - 1\. l’esame per questo campo di qualificazione ha luogo verso la fine della formazione professionale di base,
-  - 2\. il campo di qualificazione è valutato con un esame scritto e comprende i campi di competenze operative sottoelencati, con la durata e le ponderazioni seguenti:
-
-<table>
-<tr><td>Voce</td><td>Campi di competenze operative</td><td>Durata</td><td>Ponderazione</td></tr>
-<tr><td>1</td><td>Svolgimento di attività legate alla ristorazione</td><td>20 min.</td><td>20 %</td></tr>
-<tr><td>2</td><td>Organizzazione del servizio bevande Organizzazione del servizio di ristorazione</td><td>80 min.</td><td>60 %</td></tr>
-<tr><td>3</td><td>Attuazione dei processi economico-aziendali e orientati alla vendita Garanzia dei processi logistici e del mantenimento del valore</td><td>20 min.</td><td>20 %</td></tr>
-</table>
-
-- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^18-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- b.[^18-1] ...
+- c.[^18-2] «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^18-3] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: La correzione del 9 lug. 2019 concerne soltanto il testo tedesco ([RU 2019 2111](https://fedlex.data.admin.ch/eli/oc/2019/391)).
-[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Abrogata dalla cifra I dell’O della SEFRI del 7 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
+[^18-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -362,12 +355,13 @@ La procedura di qualificazione con esame finale è superata se:
 
 La nota complessiva è data dalla media, arrotondata a un decimale, della somma delle note ponderate dei singoli campi di qualificazione dell’esame finale e della nota ponderata relativa all’insegnamento delle conoscenze professionali; vale la seguente ponderazione:
 
-- a. lavoro pratico: 40 per cento;
-- b. conoscenze professionali: 20 per cento;
-- c. cultura generale: 20 per cento;
-- d. nota relativa all’insegnamento delle conoscenze professionali: 20 per cento.
+- a. lavoro pratico: 50 per cento;
+- b. cultura generale: 20 per cento;
+- c. nota relativa all’insegnamento delle conoscenze professionali: 30 per cento.[^19-1]
 
 <sup>3</sup> Per nota relativa all’insegnamento delle conoscenze professionali si intende la media arrotondata al punto o al mezzo punto della somma delle quattro note delle pagelle semestrali.
+
+[^19-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 #### Art. 20
 
@@ -389,9 +383,10 @@ La nota complessiva è data dalla media, arrotondata a un decimale, della somma 
 
 In questo caso, per il calcolo della nota complessiva valgono le note sottoelencate con la seguente ponderazione:
 
-- a. lavoro pratico: 60 per cento;
-- b. conoscenze professionali: 20 per cento;
-- c. cultura generale: 20 per cento.
+- a. lavoro pratico: 80 per cento;
+- b. cultura generale: 20 per cento.[^21-1]
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 ## Sezione 9: Attestazioni e titolo
 
@@ -460,17 +455,21 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 7 dicembre 2004[^25-1] sulla formazione professionale di base Addetta di ristorazione / Addetto di ristorazione con certificato federale di formazione pratica (CFP) è abrogata.
 
-[^25-1]: [[RU 2005 1039](https://fedlex.data.admin.ch/eli/oc/2005/129); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)I 5, II 5]
+[^25-1]: [[RU 2005 1039](https://fedlex.data.admin.ch/eli/oc/2005/129); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)I n. 5, II n. 5]
 
 #### Art. 26
 
-**Disposizioni transitorie e prima applicazione di singole disposizioni**
+**Disposizioni transitorie della modifica del 7 novembre 2025 e prima applicazione di singole disposizioni**[^26-1]
 
-<sup>1</sup> Le persone che hanno iniziato la formazione di addetto di ristorazione prima dell’entrata in vigore della presente ordinanza la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2022.
+<sup>1</sup> Gli articoli 18 capoverso 1 lettera b, 19 capoverso 2 e 21 capoverso 2 della modifica del 7 novembre 2025 si applicano dal 1° gennaio 2028.
 
-<sup>2</sup> I candidati che ripetono la procedura di qualificazione con esame finale per addetto di ristorazione entro il 31 dicembre 2022 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+<sup>2</sup> Le persone che hanno iniziato la formazione di addetto di ristorazione CFP prima dell’entrata in vigore della modifica del 7 novembre 2025 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2029.
 
-<sup>3</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 16−22) si applicano dal 1° gennaio 2021.
+<sup>3</sup> Le persone che, dopo l’entrata in vigore della modifica del 7 novembre 2025, iniziano una formazione abbreviata che si conclude anteriormente alla prima applicazione degli articoli 18 capoverso 1 lettera b, 19 capoverso 2 e 21 capoverso 2, la svolgono e la portano a termine secondo il diritto anteriore, al massimo però entro il 31 dicembre 2029.
+
+<sup>4</sup> I candidati che hanno portato a termine la procedura di qualificazione con esame finale per addetto di ristorazione CFP in base al diritto anteriore e che la ripetono entro il 31 dicembre 2029 sono valutati in base al diritto anteriore.
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 7 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 #### Art. 27
 

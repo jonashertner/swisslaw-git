@@ -3,18 +3,18 @@ sr: "412.101.220.08"
 title: "Ordonnance du SEFRI du 6 novembre 2018 sur la formation professionnelle initiale d'employée / employé en restauration avec attestation fédérale de formation professionnelle (AFP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/768"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2018-11-06
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/768/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-768-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/768/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/768/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-768-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/768/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’employée / employé en restauration avec attestation fédérale de formation professionnelle (AFP)
 
-du 6 novembre 2018 (État le 1<sup>er</sup> avril 2024)
+du 6 novembre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>79024</td><td>Employée en restauration AFP / Employé en restauration AFP Restaurantangestellte EBA / Restaurantangestellter EBA Addetta di ristorazione CFP / Addetto di ristorazione CFP</td></tr>
@@ -26,10 +26,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet et durée
 
@@ -115,7 +115,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   garantie des processus logistiques et de la préservation de la valeur:
 
   - 1\. contrôler les stocks et gérer les marchandises,
-  - 2\. passer des accords avec d'autres secteurs de l’établissement,
+  - 2\. passer des accords avec d’autres secteurs de l’établissement,
   - 3\. organiser le buffet des boissons et le poste de débarrassage,
   - 4\. éviter les gaspillages et éliminer les marchandises, les déchets et les matières résiduelles,
   - 5\. mettre en œuvre des mesures pour préserver la valeur et utiliser l’énergie et le matériel de manière économe.
@@ -134,7 +134,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -164,13 +164,14 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].[^7-2]
 
 <sup>4</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 #### Art. 8
 
@@ -232,17 +233,21 @@ Les personnes ci-après remplissent les exigences posées aux formateurs:
 
 #### Art. 11
 
-**Nombre maximal de personnes en formation**
+**Nombre maximal de personnes en formation**[^11-1]
 
-<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 100 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
+<sup>1</sup> Les entreprises qui disposent d’un formateur occupé à 80 % ou de deux formateurs occupés chacun au moins à 60 % peuvent former une personne.
 
-<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 100 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
+<sup>2</sup> Une autre personne peut être formée pour chaque professionnel supplémentaire occupé à 80 % ou pour chaque groupe supplémentaire de deux professionnels occupés chacun au moins à 60 %.
 
 <sup>3</sup> Sont réputés professionnels les titulaires d’un certificat fédéral de capacité, d’une attestation fédérale de formation professionnelle ou d’une qualification équivalente dans le domaine de la personne en formation.
 
 <sup>4</sup> Dans les entreprises qui ne sont autorisées à former qu’une seule personne, une seconde personne peut commencer sa formation si la première entame sa dernière année de formation professionnelle initiale.
 
 <sup>5</sup> Dans des cas particuliers, l’autorité cantonale peut autoriser une entreprise ayant formé depuis plusieurs années des personnes avec grand succès à dépasser le nombre maximal de personnes en formation.
+
+<sup>6</sup> Les entreprises organisent le temps de travail des formateurs et des professionnels de telle manière que les personnes en formation puissent être encadrées par un formateur ou un professionnel à tout moment de leur formation en entreprise.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 ## Section 7 Dossier de formation, rapport de formation et dossiers des prestations
 
@@ -323,29 +328,17 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><th>Point d’appré-ciation</th><th>Domaine de compétences opérationnelles</th><th>Pondération</th></tr>
 <tr><td>1</td><td>Opérations en tant qu’hôte</td><td>20 %</td></tr>
 <tr><td>2</td><td>Conception du service des boissons Conception du service des mets</td><td>50 %</td></tr>
-<tr><td>3</td><td>Mise en œuvre des procédures de gestion et de vente[^18-1] Garantie des processus logistiques et de la préservation de la valeur</td><td>30 %</td></tr>
+<tr><td>3</td><td>Mise en œuvre des procédures de gestion et de vente Garantie des processus logistiques et de la préservation de la valeur</td><td>30 %</td></tr>
 </table>
 
-- b.
-
-  connaissances professionnelles d’une durée de 2 heures; les règles suivantes s’appliquent:
-
-  - 1\. le domaine de qualification est évalué vers la fin de la formation professionnelle initiale,
-  - 2\. le domaine de qualification fait l’objet d’un examen écrit et porte sur les domaines de compétences opérationnelles ci-après assortis des pondérations et des durées suivantes:
-
-<table>
-<tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles</td><td>Durée</td><td>Pondération</td></tr>
-<tr><td>1</td><td>Opérations en tant qu’hôte</td><td>20 min</td><td>20 %</td></tr>
-<tr><td>2</td><td>Conception du service des boissons Conception du service des mets</td><td>80 min</td><td>60 %</td></tr>
-<tr><td>3</td><td>Mise en œuvre des procédures de gestion et de vente Garantie des processus logistiques et de la préservation de la valeur</td><td>20 min</td><td>20 %</td></tr>
-</table>
-
-- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
+- b.[^18-1] …
+- c.[^18-2] culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-3].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^18-1]: Erratum du 9 juil. 2019, ne concerne que le texte allemand ([RO 2019 2111](https://fedlex.data.admin.ch/eli/oc/2019/391)).
-[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Abrogée par le ch. I de l’O du SEFRI du 7 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
+[^18-3]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -362,12 +355,13 @@ La procédure de qualification avec examen final est réussie si les conditions 
 
 La note globale correspond à la moyenne, arrondie à la première décimale, des notes pondérées des domaines de qualification de l’examen final et de la note d’expérience pondérée; la pondération suivante s’applique:
 
-- a. travail pratique: 40 %;
-- b. connaissances professionnelles: 20 %;
-- c. culture générale: 20 %;
-- d. note d’expérience: 20 %.
+- a. travail pratique: 50 %;
+- b. culture générale: 20 %;
+- c. note d’expérience: 30 %.[^19-1]
 
 <sup>3</sup> La note d’expérience correspond à la moyenne, arrondie à une note entière ou à une demi-note, des 4 notes semestrielles de l’enseignement des connaissances professionnelles.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 #### Art. 20
 
@@ -389,9 +383,10 @@ La note globale correspond à la moyenne, arrondie à la première décimale, de
 
 Pour le calcul de la note globale, les notes sont pondérées de la manière suivante:
 
-- a. travail pratique: 60 %;
-- b. connaissances professionnelles: 20 %;
-- c. culture générale: 20 %.
+- a. travail pratique: 80 %;
+- b. culture générale: 20 %.[^21-1]
+
+[^21-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 ## Section 9 Certificat et titre
 
@@ -464,13 +459,17 @@ L’ordonnance du SEFRI du 7 décembre 2004 sur la formation professionnelle ini
 
 #### Art. 26
 
-**Dispositions transitoires et première application de dispositions particulières**
+**Dispositions transitoires relatives à la modification du 7 novembre 2025 et première application de dispositions particulières**[^26-1]
 
-<sup>1</sup> Les personnes qui ont commencé leur formation d’employé en restauration avant l’entrée en vigueur de la présente ordonnance l’achèvent selon l’ancien droit, mais au plus tard le 31 décembre 2022.
+<sup>1</sup> Les art. 18, al. 1, let. b, 19, al. 2, et 21, al. 2, de la modification du 7 novembre 2025 sont applicables au 1<sup>er</sup> janvier 2028.
 
-<sup>2</sup> Les candidats qui répètent la procédure de qualification avec examen final d’employé en restauration jusqu’au 31 décembre 2022 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.
+<sup>2</sup> Les personnes qui ont commencé leur formation d’employé en restauration AFP avant l’entrée en vigueur de la modification du 7 novembre 2025 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2029.
 
-<sup>3</sup> Les dispositions relatives aux procédures de qualification, au certificat et au titre (art. 16 à 22) sont applicables au 1<sup>er</sup> janvier 2021.
+<sup>3</sup> Les personnes qui, après l’entrée en vigueur de la modification du 7 novembre 2025, commencent une formation raccourcie se terminant avant la première application des art. 18, al. 1, let. b, 19, al. 2, et 21, al. 2, de ladite modification la suivent et l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2029.
+
+<sup>4</sup> Les candidats qui se sont présentés à la procédure de qualification avec examen final d’employé en restauration AFP selon l’ancien droit et qui la répètent jusqu’au 31 décembre 2029 voient leurs prestations appréciées selon l’ancien droit.
+
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 7 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 733](https://fedlex.data.admin.ch/eli/oc/2025/733)).
 
 #### Art. 27
 
