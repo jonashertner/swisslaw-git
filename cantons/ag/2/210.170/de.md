@@ -3,20 +3,19 @@ canton: AG
 number: "210.170"
 title: Dekret über die Zivilstandskreise
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2024-03-26
 adopted: 2003-11-04
 in_force: 2004-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.170"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3544/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3916/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über die Zivilstandskreise
 
-Vom 04.11.2003 (Stand 01.07.2024)
+Vom 04.11.2003 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
