@@ -3,11 +3,11 @@ sr: "0.747.363.331"
 title: Protokoll von 1978 vom 17. Februar 1978 zu dem Internationalen Übereinkommen vom 1974 zum Schutz des menschlichen Lebens auf See
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: de
-version: 2025-02-25
+version: 2026-01-01
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20250225/de/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20250225-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20250225/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1982** 1321
 
 Abgeschlossen in London am 17. Februar 1978 Schweizerische Beitrittsurkunde hinterlegt am 1. April 1982 In Kraft getreten für die Schweiz am 1. Juli 1982
 
-(Stand am 25. Februar 2025)
+(Stand am 1. Januar 2026)
 
 Die Vertragsparteien dieses Protokolls
 
@@ -34,7 +34,7 @@ in der Erwägung, dass dieses Ziel am besten durch den Abschluss eines Protokoll
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^ingress-1]: [SR 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
 
 #### Art. I
 
@@ -42,7 +42,7 @@ sind wie folgt übereingekommen:
 
 Die Vertragsparteien dieses Protokolls verpflichten sich, diesem Protokoll und seiner Anlage[^I-1], die Bestandteil des Protokolls ist, Wirksamkeit zu verleihen. Jede Bezugnahme auf das Protokoll ist gleichzeitig eine Bezugnahme auf seine Anlage.
 
-[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 31, 4010 Basel eingesehen werden.
+[^I-1]: Diese Anlage und ihre Änderungen sind in der AS nicht veröffentlicht ([AS 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](http://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel eingesehen werden.
 
 #### Art. II
 
@@ -117,7 +117,7 @@ Der Depositar:
 
 <sup>(3)</sup> Sobald dieses Protokoll in Kraft tritt, übermittelt der Depositar dem Sekretariat der Vereinten Nationen eine beglaubigte Abschrift zur Registrierung und Veröffentlichung nach Artikel 102 der Charta der Vereinten Nationen[^VII-1].
 
-[^VII-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VII-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. VIII
 

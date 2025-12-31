@@ -3,11 +3,11 @@ sr: "0.747.363.331"
 title: Protocollo del 1978 del 17 febbraio 1978 relativo alla Convenzione internazionale del 1974 per la salvaguardia della vita umana in mare
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: it
-version: 2025-02-25
+version: 2026-01-01
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20250225/it/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20250225-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20250225/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Londra il 17 febbraio 1978 Strumento d’adesione depositato dalla Svizzera il 1° aprile 1982 Entrato in vigore per la Svizzera il 1° luglio 1982
 
-(Stato 25 febbraio 2025)
+(Stato 1° gennaio 2026)
 
 Le Parti contraenti del presente Protocollo,
 
@@ -34,7 +34,7 @@ Considerando che l’obiettivo può ottimamente essere raggiunto con la stipula 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
 
 #### Art. I
 
@@ -42,7 +42,7 @@ hanno convenuto quanto segue:
 
 Le Parti contraenti del presente Protocollo si impegnano a dar effetto alle disposizioni del presente Protocollo e del suo Annesso[^I-1] che ne costituisce parte integrante. Qualsiasi riferimento al presente Protocollo deve considerarsi riferimento anche al suo Annesso.
 
-[^I-1]: Questo allegato e i suoi emendamenti non sono pubblicati nella RU ([RU 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Può essere consultato in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx.](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx.%20) Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 31, 4010 Basilea.
+[^I-1]: Questo all. e i suoi emendamenti non sono pubblicati nella RU ([RU 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Possono essere consultati in inglese sul sito Internet dell’Organizzazione marittima internazionale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Lì viene aggiornato nelle risoluzioni del comitato competente dell’OMI. Il testo in francese e una versione consolidata in inglese sono disponibili per la consultazione presso l’Ufficio svizzero della navigazione marittima, Elisabethenstrasse 33, 4010 Basilea.
 
 #### Art. II
 
@@ -120,7 +120,7 @@ Il Depositario deve:
 
 <sup>3.</sup> Appena il presente Protocollo entrerà in vigore, una copia autentica legalizzata di esso sarà trasmessa dal Depositario al Segretariato delle Nazioni Unite per registrazione e pubblicazione secondo l’Articolo 102 della Carta delle Nazioni Unite[^VII-1].
 
-[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. VIII
 
@@ -274,7 +274,5 @@ Campo d’applicazione il 25 febbraio 2025[^t-1]
 <tr><td colspan="6"><sup>a</sup> Dal 25 nov. 1981 al 30 giu. 1997, il protocollo era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 giu. 1997, il protocollo è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="6"><sup>b</sup> Dal 24 ago. 1999 al 19 dic. 1999, il protocollo era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 10 dic. 1999, il Protocollo è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
-
-- [tab]
 
 [^t-1]: [RU 1982 1321](https://fedlex.data.admin.ch/eli/oc/1982/1321_1321_1321); [1983 248](https://fedlex.data.admin.ch/eli/oc/1983/248_248_248); [1984 276](https://fedlex.data.admin.ch/eli/oc/1984/276_276_276); [1985 232](https://fedlex.data.admin.ch/eli/oc/1985/232_232_232); [1986 872](https://fedlex.data.admin.ch/eli/oc/1986/872_872_872); [1987 1154](https://fedlex.data.admin.ch/eli/oc/1987/1154_1154_1154); [1989 842](https://fedlex.data.admin.ch/eli/oc/1989/842_842_842); [1990 1870](https://fedlex.data.admin.ch/eli/oc/1990/1870_1870_1870); [2005 1315](https://fedlex.data.admin.ch/eli/oc/2005/200); [2008 4605](https://fedlex.data.admin.ch/eli/oc/2008/639); [2013 3017](https://fedlex.data.admin.ch/eli/oc/2013/585); [2016 2957](https://fedlex.data.admin.ch/eli/oc/2016/493); [2021 545](https://fedlex.data.admin.ch/eli/oc/2021/545), [2025 151](https://fedlex.data.admin.ch/eli/oc/2025/151). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

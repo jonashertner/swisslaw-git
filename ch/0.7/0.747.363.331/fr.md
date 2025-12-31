@@ -3,11 +3,11 @@ sr: "0.747.363.331"
 title: Protocole de 1978 du 17 février 1978 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321"
 language: fr
-version: 2025-02-25
+version: 2026-01-01
 adopted: 1978-02-17
 in_force: 1982-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20250225/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20250225-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20250225/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/1321_1321_1321/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-1321_1321_1321-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/1321_1321_1321/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Londres le 17 février 1978 Instrument d’adhésion déposé par la Suisse le 1<sup>er</sup> avril 1982 Entré en vigueur pour la Suisse le 1<sup>er</sup> juillet 1982
 
-(État le 25 février 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 Les Parties au présent Protocole,
 
@@ -34,7 +34,7 @@ estimant que le meilleur moyen de réaliser cet objectif est de conclure un Prot
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^ingress-1]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
 
 #### Art. I
 
@@ -42,7 +42,7 @@ sont convenues de ce qui suit:
 
 Les Parties au présent Protocole s’engagent à donner effet aux dispositions du présent Protocole et de son Annexe[^I-1], qui fait partie intégrante du présent Protocole. Toute référence au présent Protocole constitue en même temps une référence à son Annexe.
 
-[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 31, 4010 Bâle.
+[^I-1]: Cette annexe et ses amendements ne sont pas publiés au RO ([RO 1987 930](https://fedlex.data.admin.ch/eli/oc/1987/930_930_930); [1993 2514](https://fedlex.data.admin.ch/eli/oc/1993/2514_2514_2514); [2024 618](https://fedlex.data.admin.ch/eli/oc/2024/618); [2025 847](https://fedlex.data.admin.ch/eli/oc/2025/847)). Le texte des amendements peut être consulté en anglais à l’adresse du site Internet de l’Organisation maritime internationale (OMI): [https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Le texte français ainsi qu’une version consolidée en anglais peut être consulté auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
 
 #### Art. II
 
@@ -120,7 +120,7 @@ Le Dépositaire:
 
 <sup>3.</sup> Dès l’entrée en vigueur du présent Protocole, le Dépositaire en transmet une copie certifiée conforme au Secrétariat de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’Article 102 de la Charte des Nations Unies[^VII-1].
 
-[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^VII-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. VIII
 
