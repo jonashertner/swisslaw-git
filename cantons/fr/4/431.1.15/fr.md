@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "431.1.15"
-title: "Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2025/26"
+title: "Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2026/27"
 language: fr
-version: 2024-12-16
-valid_until: 2025-12-31
-version_adopted: 2024-12-16
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8101/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8326/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2025/26
+# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2026/27
 
 Université, bachelor en sciences du sport et de la motricité – O
 
-du 16.12.2024 (version entrée en vigueur le 16.12.2024)
+du 09.12.2025 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -30,7 +29,9 @@ En automne 2007, la Faculté des sciences[^ingress-1] de l'Université de Fribou
 
 Rattachées à la section de médecine, ces voies d'études rencontrent un large intérêt. Ainsi, au 30 avril de chaque année, près de 100 candidats et candidates demandent leur admission pour l'année académique à venir. Cependant, les infrastructures sportives disponibles sur le plateau de Pérolles et dans ses environs ne permettent pas d'accueillir annuellement des volées de plus de 50 étudiants et étudiantes, compte tenu des normes de sécurité à respecter dans l'organisation des enseignements de la formation pratique et méthodologique. Des mesures de limitation du nombre de places d'études sont donc nécessaires.
 
-La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 21 octobre 2024. Sur la proposition de la Direction de la formation et des affaires culturelles,
+La présente ordonnance a été préavisée favorablement par le Rectorat de l'Université de Fribourg, en sa séance du 27 octobre 2025.
+
+Sur la proposition de la Direction de la formation et des affaires culturelles,
 
 Arrête:
 
@@ -40,7 +41,7 @@ Arrête:
 
 **Champ d'application et but**
 
-<sup>1</sup> La présente ordonnance s'applique à tous les candidats et toutes les candidates qui souhaitent commencer un programme d'études de niveau bachelor en SSM (branche principale ou branche complémentaire) à l'Université de Fribourg dès le semestre d'automne 2025.
+<sup>1</sup> La présente ordonnance s'applique à tous les candidats et toutes les candidates qui souhaitent commencer un programme d'études de niveau bachelor en SSM (branche principale ou branche complémentaire) à l'Université de Fribourg dès le semestre d'automne 2026.
 
 <sup>2</sup> Elle règle la limitation du nombre de places d'études ainsi que la procédure de sélection.
 
@@ -50,13 +51,13 @@ Arrête:
 
 **Capacité d'accueil**
 
-<sup>1</sup> Pour l'année académique 2025/26, la capacité d'accueil est fixée à 50 nouvelles places d'études au total, tous programmes SSM confondus.
+<sup>1</sup> Pour l'année académique 2026/27, la capacité d'accueil est fixée à 50 nouvelles places d'études au total, tous programmes SSM confondus.
 
 #### Art. 3
 
 **Test de capacités physiques et motrices (TCPM)**
 
-<sup>1</sup> Les candidats et candidates qui choisissent un programme d'études en SSM sont soumis à un TCPM. La réussite de ce test est une condition à l'admission dans l'un de ces programmes d'études.
+<sup>1</sup> Les candidats et candidates qui choisissent un programme d'études en SSM sont soumis à un Test de capacités physiques et motrices (TCPM). La réussite de ce test est une condition à l'admission dans l'un de ces programmes d'études.
 
 <sup>2</sup> Le descriptif des épreuves et des critères d'évaluation ainsi que les conditions de réussite du TCPM figurent dans une directive d'application.
 
@@ -78,7 +79,7 @@ Arrête:
 
 <sup>1</sup> Si le nombre de candidats et candidates ayant réussi le TCPM est supérieur au nombre de places d'études disponibles, celles-ci sont attribuées selon l'ordre des résultats obtenus au test.
 
-<sup>2</sup> La décision relative à l'attribution de la place d'études est communiquée aux candidats et candidates par le Décanat de la Faculté des sciences et de médecine, par écrit, au plus tard le 30 juillet 2025.
+<sup>2</sup> La décision relative à l'attribution de la place d'études est communiquée aux candidats et candidates par le Décanat de la Faculté des sciences et de médecine, par écrit, au plus tard le 30 juillet 2026.
 
 <sup>3</sup> L'attribution de la place d'études est soumise à la réserve que les autres conditions générales d'admission à l'Université de Fribourg soient remplies. Le Service d'admission et d'inscription rend sa décision indépendamment de la procédure réglée par la présente ordonnance.
 
@@ -92,7 +93,7 @@ Arrête:
 
 **Validité du TCPM**
 
-<sup>1</sup> La validité du TCPM 2025 s'applique exclusivement pour un début d'études en automne 2025. Elle ne peut être reportée à l'année académique suivante.
+<sup>1</sup> La validité du TCPM 2026 s'applique exclusivement pour un début d'études de niveau bachelor en SSM (branche principale ou branche complémentaire) en automne 2026. Elle ne peut être reportée à l'année académique suivante.
 
 #### Art. 7
 
@@ -106,11 +107,11 @@ Arrête:
 
 **Dates du TCPM**
 
-<sup>1</sup> Le TCPM a lieu les 30 juin et 1er juillet 2025.
+<sup>1</sup> Le TCPM a lieu les 6 et 7 juillet 2026.
 
-<sup>2</sup> Le délai d'inscription au TCPM est fixé au 10 juin 2025. Passé ce délai, aucune inscription n'est possible.
+<sup>2</sup> Le délai d'inscription au TCPM est fixé au 10 juin 2026. Passé ce délai, aucune inscription n'est possible.
 
-<sup>3</sup> Le délai de paiement de la taxe d'inscription au TCPM est fixé au 10 juin 2025. En cas de non-paiement de la taxe à cette date, l'inscription au TCPM est annulée.
+<sup>3</sup> Le délai de paiement de la taxe d'inscription au TCPM est fixé au 10 juin 2026. En cas de non-paiement de la taxe à cette date, l'inscription au TCPM est annulée.
 
 #### Art. 9
 
@@ -122,4 +123,4 @@ Arrête:
 
 <sup>3</sup> Les décisions du Rectorat peuvent faire l'objet d'un recours auprès de la Commission de recours de l'Université de Fribourg.
 
-2024\_106
+2025\_098
