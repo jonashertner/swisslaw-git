@@ -4,13 +4,12 @@ number: "271.215"
 title: Verordnung über die elektronische Übermittlung in Verfahren vor Verwaltungs- und Verwaltungsjustizbehörden
 short: "Übermittlungsverordnung, ÜmV"
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
-version_adopted: 2025-04-23
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 2012-05-09
 in_force: 2012-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/271.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3801/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3904/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3801/pdf_file"
 
 (Übermittlungsverordnung, ÜmV)
 
-Vom 09.05.2012 (Stand 01.06.2025)
+Vom 09.05.2012 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
