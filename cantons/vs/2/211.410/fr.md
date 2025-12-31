@@ -4,13 +4,12 @@ number: "211.410"
 title: "Règlement sur l'acquisition d'immeubles par des personnes à l'étranger"
 short: RAIE
 language: fr
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-22
+version: 2026-01-01
+version_adopted: 2026-04-22
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.410"
-pdf: "https://lex.vs.ch/api/fr/versions/3003/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3600/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3003/pdf_file"
 
 (RAIE)
 
-du 21.11.2012 (état 01.01.2022)
+du 21.11.2012 (état 01.01.2026)
 
 Le Conseil d'Etat du Canton du Valais
 
@@ -302,7 +301,6 @@ décide:
 <tr><td>Sankt-Niklaus</td><td></td></tr>
 <tr><td>Stalden</td><td></td></tr>
 <tr><td>Staldenried</td><td></td></tr>
-<tr><td>Täsch</td><td></td></tr>
 <tr><td>Törbel</td><td></td></tr>
 <tr><td>Visperterminen</td><td>Visperterminen</td></tr>
 <tr><td>Zeneggen</td><td></td></tr>
@@ -353,7 +351,6 @@ décide:
 <tr><td>Sion</td><td>Les Agettes, Mayens de l'Hôpital, Les Fontannets, l'Orée des Bois, Trois Rois</td></tr>
 <tr><td>Veysonnaz</td><td></td></tr>
 <tr><td>Chamoson</td><td>Mayens de Chamoson, Le Patier, Vérines, Neimia</td></tr>
-<tr><td>Conthey</td><td>Le Praly</td></tr>
 <tr><td>Nendaz</td><td>Nendaz-Station (sans les villages de Cerisier et La Crettaz), Saclentse (sans le village), Magrappé, Siviez</td></tr>
 <tr><td>Veysonnaz</td><td>…</td></tr>
 <tr><td>Chamoson</td><td>…</td></tr>
@@ -368,7 +365,7 @@ décide:
 <tr><td>Isérables</td><td></td></tr>
 <tr><td>Leytron</td><td>Ovronnaz, Dugny</td></tr>
 <tr><td>Martigny-Combe</td><td>Ravoire</td></tr>
-<tr><td>Riddes</td><td>La Tzoumaz, Villy, l'Eterpay</td></tr>
+<tr><td>Riddes</td><td>La Tzoumaz</td></tr>
 <tr><td>Saillon</td><td>Les Bains</td></tr>
 <tr><td>Saxon</td><td>La zone à bâtir au-dessus de la cote d'altitude 850</td></tr>
 <tr><td>Trient</td><td></td></tr>

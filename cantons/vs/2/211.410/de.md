@@ -4,13 +4,12 @@ number: "211.410"
 title: Reglement über den Erwerb von Grundstücken durch Personen im Ausland
 short: REwG
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-12-22
+version: 2026-01-01
+version_adopted: 2026-04-22
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.410"
-pdf: "https://lex.vs.ch/api/de/versions/3003/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3600/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3003/pdf_file"
 
 (REwG)
 
-vom 21.11.2012 (Stand 01.01.2022)
+vom 21.11.2012 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -302,7 +301,6 @@ beschliesst:
 <tr><td>Sankt-Niklaus</td><td></td></tr>
 <tr><td>Stalden</td><td></td></tr>
 <tr><td>Staldenried</td><td></td></tr>
-<tr><td>Täsch</td><td></td></tr>
 <tr><td>Törbel</td><td></td></tr>
 <tr><td>Visperterminen</td><td>Visperterminen</td></tr>
 <tr><td>Zeneggen</td><td></td></tr>
@@ -353,7 +351,6 @@ beschliesst:
 <tr><td>Sion</td><td>Les Agettes, Mayens de l'Hôpital, Les Fontannets, l'Orée des Bois, Trois Rois</td></tr>
 <tr><td>Veysonnaz</td><td></td></tr>
 <tr><td>Chamoson</td><td>Mayens de Chamoson, Le Patier, Vérines, Neimia</td></tr>
-<tr><td>Conthey</td><td>Le Praly</td></tr>
 <tr><td>Nendaz</td><td>Nendaz-Station (ohne die Dörfer von Cerisier und La Crettaz), Saclentse (ohne das Dorf), Magrappé, Siviez</td></tr>
 <tr><td>Veysonnaz</td><td>…</td></tr>
 <tr><td>Chamoson</td><td>…</td></tr>
@@ -368,7 +365,7 @@ beschliesst:
 <tr><td>Isérables</td><td></td></tr>
 <tr><td>Leytron</td><td>Ovronnaz, Dugny</td></tr>
 <tr><td>Martigny-Combe</td><td>Ravoire</td></tr>
-<tr><td>Riddes</td><td>La Tzoumaz, Villy, l'Eterpay</td></tr>
+<tr><td>Riddes</td><td>La Tzoumaz</td></tr>
 <tr><td>Saillon</td><td>Les Bains</td></tr>
 <tr><td>Saxon</td><td>Die Bauzone oberhalb 850 Meter</td></tr>
 <tr><td>Trient</td><td></td></tr>
