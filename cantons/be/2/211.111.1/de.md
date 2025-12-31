@@ -3,20 +3,19 @@ canton: BE
 number: "211.111.1"
 title: Direktionsverordnung über die Amtssitze der Betreibungs- und Konkursämter sowie Grundbuchämter
 language: de
-version: 2010-01-01
-valid_until: 2025-12-31
-version_adopted: 2009-10-06
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 2009-10-06
 in_force: 2010-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/211.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/803/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3310/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Direktionsverordnung über die Amtssitze der Betreibungs- und Konkursämter sowie Grundbuchämter
 
-vom 06.10.2009 (Stand 01.01.2010)
+vom 06.10.2009 (Stand 01.01.2026)
 
 Die Justiz-, Gemeinde- und Kirchendirektion des Kantons Bern,
 
@@ -29,32 +28,33 @@ beschliesst:
 
 #### Art. 1
 
-**1. Sitz der Betreibungs- und Konkursämter**
+**Sitz der Betreibungs- und Konkursämter**
 
 <sup>1</sup> Sitz der Betreibungs- und Konkursämter:
 
-- a für die Verwaltungsregion Berner Jura in Moutier,
-- b für die Verwaltungsregion Seeland in Biel,
+- a für die Verwaltungsregionen Berner Jura und Seeland in Sonceboz-Sombeval,
+- b …
 - c für die Verwaltungsregion Bern-Mittelland in Ostermundigen,
 - d für die Verwaltungsregion Emmental-Oberaargau in Langenthal,
-- e für die Verwaltungsregion Oberland in Interlaken
+- e für die Verwaltungsregion Oberland in Interlaken.
 
 #### Art. 2
 
-**a. Dienststellen des Betreibungs- und Konkursamts Seeland**
+**Dienststellen des Betreibungs- und Konkursamts Berner Jura-Seeland**
 
-<sup>1</sup> Dienststellen des Betreibungsamts Seeland:
+<sup>1</sup> Dienststellen des Betreibungsamts Berner Jura-Seeland:
 
-- a für den Verwaltungskreis Biel/Bienne in Biel,
-- b für den Verwaltungskreis Seeland in Aarberg.
+- a für den Verwaltungskreis Berner Jura in Sonceboz-Sombeval,
+- b für den Verwaltungskreis Biel/Bienne in Biel/Bienne,
+- c für den Verwaltungskreis Seeland in Aarberg.
 
-<sup>2</sup> Dienststelle des Konkursamts Seeland:
+<sup>2</sup> Dienststelle des Konkursamts Berner Jura-Seeland:
 
-für die Verwaltungsregion Seeland in Biel
+für die Verwaltungsregionen Berner Jura und Seeland in Sonceboz-Sombeval. Die Dienststelle hat zwei Standorte, einen am Sitz der Dienststelle in Sonceboz-Sombeval und einen in Biel/Bienne.
 
 #### Art. 3
 
-**b. Dienststellen des Betreibungs- und Konkursamts Bern-Mittelland**
+**Dienststellen des Betreibungs- und Konkursamts Bern-Mittelland**
 
 <sup>1</sup> Dienststelle des Betreibungsamts Bern-Mittelland:
 
@@ -66,7 +66,7 @@ für die Verwaltungsregion Bern-Mittelland in Ostermundigen
 
 #### Art. 4
 
-**c. Dienststellen des Betreibungs- und Konkursamts Emmental-Oberaargau**
+**Dienststellen des Betreibungs- und Konkursamts Emmental-Oberaargau**
 
 <sup>1</sup> Dienststellen des Betreibungsamts Emmental-Oberaargau:
 
@@ -79,7 +79,7 @@ für die Verwaltungsregion Emmental-Oberaargau in Langenthal
 
 #### Art. 5
 
-**d. Dienststellen des Betreibungs- und Konkursamts Oberland**
+**Dienststellen des Betreibungs- und Konkursamts Oberland**
 
 <sup>1</sup> Dienststellen des Betreibungsamts Oberland:
 
@@ -93,7 +93,7 @@ für die Verwaltungsregion Oberland in Interlaken
 
 #### Art. 6
 
-**2. Sitz der Grundbuchämter**
+**Sitz der Grundbuchämter**
 
 <sup>1</sup> Sitz der Grundbuchämter:
 
@@ -114,7 +114,7 @@ für die Verwaltungsregion Oberland in Interlaken
 
 #### Art. 8
 
-**3. Inkrafttreten**
+**Inkrafttreten**
 
 <sup>1</sup> Diese Direktionsverordnung tritt am 1. Januar 2010 in Kraft.
 
