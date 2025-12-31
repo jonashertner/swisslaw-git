@@ -3,30 +3,30 @@ canton: LU
 number: 740a
 title: Verordnung zum Gesetz über den Feuerschutz
 language: de
-version: 2019-07-01
-valid_until: 2025-12-31
-version_adopted: 2019-02-19
+version: 2026-01-01
+version_adopted: 2025-02-18
 adopted: 1995-06-16
 in_force: 1995-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/740a"
-pdf: "https://srl.lu.ch/api/de/versions/3414/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4566/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über den Feuerschutz
 
-vom 16.06.1995 (Stand 01.07.2019)
+vom 16.06.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
-gestützt auf die §§ 2 Absatz 4, 26 Absatz 2, 58a Absatz 2, 70 Absatz 3, 73 Absatz 2, 76 Absatz 3 und 130 des Gesetzes über den Feuerschutz vom 5. November 1957[^ingress-1],
+gestützt auf die §§ 2 Absatz 4, 26 Absatz 2, 58a Absatz 2, 70 Absatz 3, 73 Absatz 2, 76 Absatz 3, 90 Absatz 2, 94 Absatz 3 und 130 des Gesetzes über den Feuerschutz vom 5. November 1957[^ingress-1] sowie § 43 Absatz 1 des Gebäudeversicherungsgesetzes vom 29. Juni 1976[^ingress-2],
 
 auf Antrag des Finanzdepartementes,
 
 beschliesst:
 
 [^ingress-1]: SRL Nr. [740](https://srl.lu.ch/data/740/de)
+[^ingress-2]: SRL Nr. [750](https://srl.lu.ch/data/750/de)
 
 ## 1 Vorbeugender Brandschutz
 
@@ -40,7 +40,7 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Brandschutzvorschriften richten sich an Eigentümer, Besitzer und Benützer von Gebäuden, Anlagen und Einrichtungen sowie an alle Personen, welche diese planen, bauen, betreiben oder instand halten.
+<sup>1</sup> Die Brandschutzvorschriften richten sich an Personen, die Gebäude, Anlagen und Einrichtungen im Eigentum halten, besitzen oder benützen sowie an alle Personen, welche diese planen, bauen, betreiben oder instand halten.
 
 #### § 3
 
@@ -85,7 +85,7 @@ beschliesst:
 
 <sup>1</sup> Zuständig für die Erteilung und den Entzug der Bewilligung zur Ausführung von Kaminfegerarbeiten gemäss den §§ 70 und 72 des Gesetzes über den Feuerschutz vom 5. November 1957[^4-1] ist die Gebäudeversicherung.
 
-<sup>2</sup> Die Anerkennung der Gleichwertigkeit von ausländischen Diplomen in Bezug auf das eidgenössische Diplom als Kaminfegermeister erfolgt durch das Staatssekretariat für Bildung, Forschung und Innovation (SBFI).
+<sup>2</sup> Die Anerkennung der Gleichwertigkeit von ausländischen Diplomen in Bezug auf das eidgenössische Diplom als Kaminfegermeister oder als Kaminfegermeisterin erfolgt durch das Staatssekretariat für Bildung, Forschung und Innovation (SBFI).
 
 <sup>3</sup> Gewähr für die einwandfreie Ausführung der Feuerschau bietet, wer gegenüber der Gebäudeversicherung ausreichende Kenntnisse der Brandschutzvorschriften nachweisen kann und den Betrieb zweckmässig organisiert hat.
 
@@ -97,15 +97,15 @@ beschliesst:
 
 **Versicherungsdeckung**
 
-<sup>1</sup> Die Deckungssumme der Berufshaftpflichtversicherung des zugelassenen Kaminfegermeisters beträgt mindestens fünf Millionen Franken.
+<sup>1</sup> Die Deckungssumme der Berufshaftpflichtversicherung des zugelassenen Kaminfegermeisters oder der zugelassenen Kaminfegermeisterin beträgt mindestens fünf Millionen Franken.
 
 #### § 5
 
 **Reinigung**
 
-<sup>1</sup> Der Gebäudeeigentümer ist für die Einhaltung der Reinigungsfristen verantwortlich.
+<sup>1</sup> Der Gebäudeeigentümer oder die Gebäudeeigentümerin ist für die Einhaltung der Reinigungsfristen verantwortlich.
 
-<sup>2</sup> Seiner Pflicht, die Kontrollen und Reinigungen belegen zu können, kommt er namentlich mittels Rechnungen oder visierter Eintragungen im Service-Heft der Feuerungs- und Abgasanlage nach.
+<sup>2</sup> Er oder sie muss die Kontrollen und Reinigungen, namentlich mittels Rechnungen oder visierter Eintragungen im Service-Heft der Feuerungs- und Abgasanlage, belegen können.
 
 #### § 6
 
@@ -131,7 +131,7 @@ beschliesst:
 
 <sup>3</sup> Bei zweimaliger Reinigung pro Jahr ist mindestens eine Reinigung in der Heizperiode vorzunehmen.
 
-<sup>4</sup> Die Reinigungsfristen gemäss Absatz 1 gehen von einem störungsfreien Funktionieren der Feuerungsanlage bei normaler Betriebszeit und von der dabei zu erwartenden Verschmutzung aus. Bei übermässiger oder geringer Verschmutzung ist nach Rücksprache mit dem beauftragten zugelassenen Kaminfegermeister von den festgelegten Fristen abzuweichen.
+<sup>4</sup> Bei den Reinigungsfristen gemäss Absatz 1 werden ein störungsfreies Funktionieren der Feuerungsanlage bei normaler Betriebszeit und eine dabei zu erwartende Verschmutzung vorausgesetzt. Bei übermässiger oder geringer Verschmutzung ist nach Rücksprache mit dem beauftragten zugelassenen Kaminfegermeister oder der beauftragten zugelassenen Kaminfegermeisterin von den festgelegten Fristen abzuweichen.
 
 #### § 7
 
@@ -153,7 +153,60 @@ beschliesst:
 
 <sup>1</sup> Die periodischen Kontrollen von Gebäuden und Räumen, die der Aufnahme einer grösseren Anzahl von Personen dienen, sind durch die Gebäudeversicherung in der Regel alle zehn Jahre durchzuführen.
 
-## 3 Feuerwehrdienst
+## 3 Feuerwehrwesen
+
+#### § 9b
+
+**Aufgaben der regionalen Stützpunkte**
+
+<sup>1</sup> Regionale Stützpunkte leisten Einsätze und Unterstützung:
+
+- a. bei Schadenereignissen in Tunnels, Bahnanlagen und auf Strassen, einschliesslich des Strassenrettungsdienstes,
+- b. bei Ereignissen, in denen spezielle Rettungsgeräte, wie namentlich Autodrehleitern oder Hubrettungsfahrzeuge, benötigt werden,
+- c. bei einfachen Rettungen aus der Höhe und Tiefe.
+
+<sup>2</sup> Das kantonale Feuerwehrinspektorat teilt den regionalen Stützpunkten die Aufgaben- und Einsatzgebiete zu.
+
+#### § 9c
+
+**Kosten der regionalen Stützpunkte für den Strassenrettungsdienst**
+
+<sup>1</sup> Die Kosten des Unterhalts, der Ausbildung und der Ausrüstung, mit Ausnahme der Investitionskosten für die Fahrzeuge für den Strassenrettungsdienst der regionalen Stützpunkte Emmen, Hochdorf, Stadt Luzern, Schüpfheim, Region Sursee, Willisau und Wolhusen werden wie folgt getragen:
+
+- a. zu 50 Prozent durch die Gemeinden nach Massgabe ihrer Einwohnerzahl,
+- b. zu 35 Prozent durch den Kanton,
+- c. zu 15 Prozent aus den Aufwandentschädigungen für Feuerwehreinsätze gemäss § 94a des Gesetzes.
+
+<sup>2</sup> Das Feuerwehrinspektorat beschafft die Fahrzeuge für den Strassenrettungsdienst für die in Absatz 1 erwähnten Stützpunkte und finanziert sie aus den Einnahmen der Präventionsbeiträge zur Förderung des Feuer- und Elementarschadenschutzes. Die Amortisation dieser Investitionskosten wird in den Folgejahren wie folgt getragen:
+
+- a. zu 50 Prozent durch die Gemeinden nach Massgabe ihrer Einwohnerzahl,
+- b. zu 30 Prozent durch den Kanton,
+- c. zu 20 Prozent durch die Gebäudeversicherung Luzern zulasten der Präventionsbeiträge zur Förderung des Feuer- und Elementarschadenschutzes.
+
+<sup>3</sup> Das Feuerwehrinspektorat führt die Rechnung für den Strassenrettungsdienst der regionalen Stützpunkte. Es stellt den Gemeinden jeweils im ersten Quartal eines Jahres gestützt auf die im laufenden Jahr zu erwartenden Kosten sowie für die Amortisation von Investitionskosten für Fahrzeuge Rechnung. Beiträge der Gemeinden an ausserkantonale Stützpunkte sind zu berücksichtigen. Soweit die Einnahmen aus den Aufwandentschädigungen für Feuerwehreinsätze für den Kostenanteil gemäss Absatz 1c nicht ausreichen, wird der Fehlbetrag je hälftig den Gemeinden nach Massgabe ihrer Einwohnerzahl und der Luzerner Polizei in Rechnung gestellt.
+
+#### § 9d
+
+**Kostenpflicht Dritter**
+
+<sup>1</sup> Als Verkehrsdienst im Sinn von § 100 Absatz 3a des Gesetzes gelten:
+
+- a. Verkehrsregelung bei Festanlässen oder anderen öffentlichen Veranstaltungen,
+- b. Verkehrsregelung bei Unfällen im Strassenverkehr,
+- c. Verkehrsregelung zur Unterstützung der Luzerner Polizei.
+
+<sup>2</sup> Als technische Einsätze im Sinn von § 100 Absatz 3c des Gesetzes gelten:
+
+- a. Einsätze bei Fahrzeugbränden,
+- b. Einsätze bei Schiffsbränden,
+- c. Einsätze bei Wasserschäden in Gebäuden, die kein Elementarereignis darstellen,
+- d. Befreiung von Personen aus Liftanlagen,
+- e. Einsätze mit Sprungrettern oder Sprungpolstern,
+- f. Unterstützung bei Einsätzen der Luzerner Polizei oder des Rettungsdienstes,
+- g. Kontrollen von Brandmeldeanlagen bei Fehlalarmen,
+- h. Heuwehreinsätze.
+
+<sup>3</sup> Das Feuerwehrinspektorat erlässt Weisungen für die Rechnungsstellung für den Kostenersatz Dritter durch die Gemeinden der Ortsfeuerwehren und durch die Stützpunktgemeinden.
 
 #### § 10
 
