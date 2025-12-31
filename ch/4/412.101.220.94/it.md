@@ -3,20 +3,20 @@ sr: "412.101.220.94"
 title: Ordinanza della SEFRI del 14 novembre 2008 sulla formazione professionale di base Libraia/Libraio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/870"
 language: it
-version: 2013-01-01
+version: 2026-01-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/870/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2008-870-20130101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/870/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/870/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2008-870-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/870/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Libraia/Libraio con attestato federale di capacità (AFC)
 
-del 14 novembre 2008 (Stato 1° gennaio 2013)[^t-1]
+del 14 novembre 2008 (Stato 1° gennaio 2026)[^t-1]
 
-[^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2013.
+[^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2013.
 
 <table>
 <tr><td>70512</td><td>Libraia AFC/Libraio AFC Libraire CFC Buchhändlerin EFZ/Buchhändler EFZ</td></tr>
@@ -28,8 +28,8 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Oggetto e durata
 
@@ -170,13 +170,14 @@ Il piano di formazione stabilisce inoltre:
 
 **Cultura generale**
 
-<sup>1</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>1</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^11-2].
 
 <sup>2</sup> Gli insegnamenti di cultura generale considerano il profilo professionale specifico, le esigenze professionali e l’esperienza dei librai AFC; i contenuti sono definiti di conseguenza nel piano di formazione.
 
 <sup>3</sup> I contenuti degli insegnamenti di cultura generale sono impartiti nella scuola professionale nei campi d’insegnamento «lingua nazionale locale», «lingue straniere» ed «economia, politica e società».
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -356,7 +357,7 @@ La Commissione ha i seguenti compiti:
 - a. adegua costantemente, ma almeno ogni cinque anni, il piano di formazione di cui all’articolo 10 agli sviluppi economici, tecnologici e didattici. A tal fine tiene conto di eventuali nuovi aspetti organizzativi della formazione professionale di base. Gli adeguamenti devono essere apportati d’intesa con i rappresentanti della Confederazione e dei Cantoni e approvati dalla SEFRI;
 - b. richiede alla SEFRI modifiche della presente ordinanza, qualora gli sviluppi osservati interessino disposizioni della stessa, segnatamente le competenze operative di cui agli articoli 4–6.
 
-[^23-1]: [RS 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^23-1]: [RS 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
 
 ## Sezione 11: Disposizioni finali
 

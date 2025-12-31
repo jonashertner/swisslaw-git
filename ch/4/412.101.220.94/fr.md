@@ -3,18 +3,18 @@ sr: "412.101.220.94"
 title: Ordonnance du SEFRI du 14 novembre 2008 sur la formation professionnelle initiale de libraire avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/870"
 language: fr
-version: 2013-01-01
+version: 2026-01-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/870/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-870-20130101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/870/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/870/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-870-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/870/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de libraire avec certificat fédéral de capacité (CFC)\*
 
-du 14 novembre 2008 (État le 1<sup>er</sup> janvier 2013)[^t-1][^t-2]
+du 14 novembre 2008 (État le 1<sup>er</sup> janvier 2026)[^t-1][^t-2]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
@@ -23,14 +23,14 @@ du 14 novembre 2008 (État le 1<sup>er</sup> janvier 2013)[^t-1][^t-2]
 <tr><td>70512</td><td>Libraire CFC Buchhändlerin EFZ/Buchhändler EFZ Libraia AFC/Libraio AFC</td></tr>
 </table>
 
-Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI),
+Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
 vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr)[^ingress-1], vu l’art. 12 de l’ordonnance correspondante du 19 novembre 2003 (OFPr)[^ingress-2],
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet et durée
 
@@ -171,13 +171,14 @@ En outre, le plan de formation fixe:
 
 **Culture générale**
 
-<sup>1</sup> L’enseignement de la culture générale est régi par les contenus et les objectifs de la culture générale définis dans l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-1].
+<sup>1</sup> L’enseignement de la culture générale est régi par les contenus et les objectifs de la culture générale définis dans l’ordonnance du SEFRI du 9 avril 2025[^11-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-2].
 
 <sup>2</sup> L’enseignement de la culture générale tient compte du profil spécifique à la profession de libraire CFC et de ses besoins et expériences professionnels; les contenus sont précisés dans le plan de formation.
 
 <sup>3</sup> Les contenus de l’enseignement en culture générale sont dispensés à l’école professionnelle dans les domaines d’enseignement «langue nationale locale», «langues étrangères» et «économie, politique et société».
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^11-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 ## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
 
@@ -256,7 +257,7 @@ Les procédures de qualification servent à démontrer que les compétences déc
 
 #### Art. 18
 
-**Etendue et organisation de la procédure de qualification avec examen final**
+**Étendue et organisation de la procédure de qualification avec examen final**
 
 <sup>1</sup>
 
@@ -357,7 +358,7 @@ La commission est chargée des tâches suivantes:
 - a. adapter régulièrement, au moins tous les 5 ans, le plan de formation décrit à l’art. 10 aux développements économiques, technologiques et didactiques. Intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale. Toute modification requiert l’adhésion des représentants de la Confédération et des cantons ainsi que l’approbation du SEFRI;
 - b. proposer au SEFRI toute modification de la présente ordonnance induite par des développements constatés, pour autant que ceux-ci touchent aux dispositions de la présente ordonnance, notamment à celles concernant les compétences opérationnelles décrites aux art. 4 à 6.
 
-[^23-1]: [RS 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^23-1]: [RS 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
 
 ## Section 11 Dispositions finales
 

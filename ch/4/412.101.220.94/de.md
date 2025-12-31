@@ -3,20 +3,20 @@ sr: "412.101.220.94"
 title: Verordnung des SBFI vom 14. November 2008 über die berufliche Grundbildung Buchhändlerin/Buchhändler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/870"
 language: de
-version: 2013-01-01
+version: 2026-01-01
 adopted: 2008-11-14
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/870/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2008-870-20130101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/870/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/870/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2008-870-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/870/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Buchhändlerin/Buchhändler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 11. November 2008 (Stand am 1. Januar 2013)[^t-1]
+vom 11. November 2008 (Stand am 1. Januar 2026)[^t-1]
 
-[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst.
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2013 angepasst.
 
 <table>
 <tr><td>70512</td><td>Buchhändlerin EFZ/Buchhändler EFZ Libraire CFC Libraia AFC/Libraio AFC</td></tr>
@@ -28,8 +28,8 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -170,13 +170,14 @@ Der Bildungsplan legt überdies fest:
 
 **Allgemeinbildung**
 
-<sup>1</sup> Für den allgemeinbildenden Unterricht gelten die Inhalte und Ziele der Allgemeinbildung gemäss der Verordnung des SBFI vom 27. April 2006[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>1</sup> Für den allgemeinbildenden Unterricht gelten die Inhalte und Ziele der Allgemeinbildung gemäss der Verordnung des SBFI vom 9. April 2025[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^11-2].
 
 <sup>2</sup> Der allgemeinbildende Unterricht berücksichtigt das spezifische Berufsbild der Buchhändlerinnen und Buchhändler EFZ sowie ihre beruflichen Bedürfnisse und Erfahrungen; die Inhalte werden im Bildungsplan entsprechend konkretisiert.
 
 <sup>3</sup> Die Inhalte des allgemeinbildenden Unterrichts werden in der Berufsfachschule in den Unterrichtsbereichen «lokale Landesprache», «Fremdsprachen» und «Wirtschaft, Politik und Gesellschaft» vermittelt.
 
-[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
 
@@ -356,7 +357,7 @@ Die Kommission hat folgende Aufgaben:
 - a. Sie passt den Bildungsplan nach Artikel 10 den wirtschaftlichen, technologischen und didaktischen Entwicklungen laufend, mindestens aber alle 5 Jahre an. Dabei trägt sie allfälligen neuen organisatorischen Aspekten der beruflichen Grundbildung Rechnung. Die Anpassungen bedürfen der Zustimmung der Vertreterinnen und Vertreter des Bundes und der Kantone sowie der Genehmigung durch das SBFI.
 - b. Sie beantragt dem SBFI Änderungen dieser Verordnung, sofern die beobachteten Entwicklungen die Regelungen dieser Verordnung, namentlich die Handlungskompetenzen nach den Artikeln 4–6, betreffen.
 
-[^23-1]: [SR 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^23-1]: [SR 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
 
 ## 11. Abschnitt: Schlussbestimmungen
 
