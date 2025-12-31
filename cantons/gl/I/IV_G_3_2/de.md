@@ -4,13 +4,12 @@ number: IV G/3/2
 title: Einführungsgesetz zum Tierschutzgesetz und zum Tierseuchengesetz
 short: "Kantonales Tierschutz- und Tierseuchengesetz, EG zum TSchG und TSG"
 language: de
-version: 2018-07-01
-valid_until: 2025-12-31
-version_adopted: 2018-05-06
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 2012-05-06
 in_force: 2012-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-G.3.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2034/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2587/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2034/pdf_file"
 
 (Kantonales Tierschutz- und Tierseuchengesetz, EG zum TSchG und TSG)
 
-Vom 06.05.2012 (Stand 01.07.2018)
+Vom 06.05.2012 (Stand 01.01.2026)
 
 (Erlassen von der Landsgemeinde am 6. Mai 2012)
 
@@ -309,7 +308,9 @@ Vom 06.05.2012 (Stand 01.07.2018)
 
 <sup>2</sup> Für Hunde mit erhöhtem Gefährdungspotenzial, die der Bewilligungspflicht gemäss Artikel 27 wegen auswärtigen Wohnsitzes des Hundehalters nicht unterstehen, gilt im öffentlich zugänglichen Raum eine generelle Leinen- und Maulkorbpflicht.
 
-<sup>3</sup> Die Gemeinde kann die Übertretung der Leinen- und der Maulkorbpflicht mit einer Ordnungsbusse nach Artikel 89 Absatz 2 Gemeindegesetz bestrafen.
+<sup>3</sup> Die Gemeinde kann die Übertretung der Leinen- und der Maulkorbpflicht mit einer Ordnungsbusse nach Artikel 81 des Gemeindegesetzes[^31-1] bestrafen.
+
+[^31-1]: GS [II E/2](https://gesetze.gl.ch/data/II-E.2/de)
 
 #### Art. 32
 
