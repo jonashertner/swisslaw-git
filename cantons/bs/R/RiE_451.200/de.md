@@ -3,13 +3,12 @@ canton: BS
 number: RiE 451.200
 title: Reglement für die Museen im Wettsteinhaus der Gemeinde Riehen
 language: de
-version: 2018-05-01
-valid_until: 2025-12-31
-version_adopted: 2018-04-17
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 1995-09-26
 in_force: 1995-10-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20451.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4417/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6694/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4417/pdf_file"
 
 Museen: Reglement | Riehen: Einwohnergemeinde
 
-Vom 26. September 1995 (Stand 1. Mai 2018)
+Vom 26. September 1995 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen,
 
@@ -64,11 +63,11 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Kommission besteht aus einem Präsidium, einem Vizepräsidium und sieben weiteren Mitgliedern.
+<sup>1</sup> Die Kommission besteht aus einem Präsidium, einem Vizepräsidium und mindestens vier weiteren Mitgliedern.
 
 <sup>2</sup> Das Präsidium wird ex officio vom zuständigen Mitglied des Gemeinderats ausgeübt. Die Museumsleitung hat das Vizepräsidium ex officio. Sie ist stimmberechtigt.
 
-<sup>3</sup> Ein Mitglied wird vom Museum der Kulturen delegiert.
+<sup>3</sup> Ein Mitglied wird vom Museum der Kulturen delegiert. Die weiteren Mitglieder sind Fachpersonen aus den Bereichen Kultur und Kulturvermittlung.
 
 #### § 6
 
