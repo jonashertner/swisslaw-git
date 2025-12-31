@@ -4,13 +4,12 @@ number: "141.3"
 title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
-version: 2025-01-01
-corrected: 2025-01-28
-version_adopted: 2025-01-21
+version: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3630/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3824/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3630/pdf_file"
 
 (GeschR)
 
-vom 07.12.1951 (Stand 01.01.2025)
+vom 07.12.1951 (Stand 01.01.2026)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -161,7 +160,7 @@ verordnen:[^ingress-1]
 <sup>1</sup> In den Geschäftsbereich des Departementes des Innern fallen:
 
 - a) Behandlung von Beschwerden im Zusammenhang mit der Ausübung von politischen Rechten;
-- b) Aufsicht über den gesetzmässigen Bestand der Behörden (mit Ausnahme der Behörden der Schulgemeinden sowie der Organe der Zivil- und Strafrechtspflege);
+- b) Aufsicht über den gesetzmässigen Bestand der Behörden (mit Ausnahme der Organe der Zivil- und Strafrechtspflege);
 - c) Aufsicht über die politischen Gemeinden und die Spezialgemeinden, soweit nicht andere Departemente zuständig sind;
 - c<sup>bis</sup>) Änderungen im Bestand der Gemeinden;
 - c<sup>ter</sup>) Vollzug der Gesetzgebung über den Finanzausgleich;
@@ -179,6 +178,7 @@ verordnen:[^ingress-1]
 - i) Sozialversicherungen, soweit nicht andere Departemente zuständig sind;
 - i<sup>bis</sup>) Gleichstellung von Mann und Frau;
 - i<sup>ter</sup>) Integrationsförderung;
+- j) Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt sowie Menschenhandel;
 - k) Staats- und Stiftsarchiv sowie Bibliotheken;
 - l) Kulturförderung und Kulturerbe einschliesslich Denkmalpflege und Archäologie;
 - l<sup>bis</sup>) Lotteriefonds-Beitragswesen;
@@ -198,8 +198,8 @@ verordnen:[^ingress-1]
 
 <sup>1</sup> In den Geschäftskreis des Bildungsdepartementes fallen:
 
-- a) die Schulen aller Stufen (mit Ausnahme der Verkehrsschule und der landwirtschaftlichen Schulen);
-- b) Aufsicht über den gesetzmässigen Bestand der Schulbehörden;
+- a) die Schulen aller Stufen (mit Ausnahme der landwirtschaftlichen Schulen);
+- b) …
 - c) Fachaufsicht über die politischen Gemeinden und die Schulgemeinden beim Vollzug der Gesetzgebung über die Volksschule;
 - d) Lehrlingswesen und Berufsberatung;
 - e) …
