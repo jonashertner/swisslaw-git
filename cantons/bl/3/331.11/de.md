@@ -3,20 +3,19 @@ canton: BL
 number: "331.11"
 title: Verordnung zum Steuergesetz
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-17
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2005-12-13
 in_force: 2006-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/331.11"
-pdf: "https://bl.clex.ch/api/de/versions/4099/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Steuergesetz
 
-Vom 13.12.2005 (Stand 01.01.2025)
+Vom 13.12.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -124,7 +123,7 @@ beschliesst:
 - a. die Kosten der Fahrt zwischen Wohn- und Arbeitsstätte:
   - 1\. bei Benützung eines öffentlichen Verkehrsmittels (Bahn, Tram, Autobus usw.): die tatsächlichen Kosten.
   - 2\. bei Benützung eines Fahrrads, eines Motorfahrrads oder eines Motorrads mit gelbem Kontrollschild bis zu CHF 700 pro Jahr. Der Nachweis höherer Kosten bleibt vorbehalten.
-  - 3\. bei Benützung eines Motorrads oder eines Privatautos: die Auslagen, die bei Benützung eines öffentlichen Verkehrsmittels entstehen würden. Steht kein solches zur Verfügung oder kann dessen Benützung dem Steuerpflichtigen nicht zugemutet werden (z.B. bei Gebrechlichkeit, bei mehr als 1,5 km Entfernung von der nächsten Haltestelle, bei einem täglichen Zeitaufwand von mehr als 2½ Stunden), so ist pro Fahrkilometer ein Abzug bis zu CHF 0.40 für Motorräder mit weissem Kontrollschild und bis zu CHF 0.70 für Autos zulässig. Der Nachweis höherer Kosten bleibt vorbehalten. Für die Hin- und Rückfahrt über Mittag können aber höchstens die Kosten für auswärtige Verpflegung gemäss Bst. b (CHF 15 pro Tag, jedoch höchstens CHF 3'200 pro Jahr) geltend gemacht werden.
+  - 3\. bei Benützung eines Motorrads oder eines Privatautos: die Auslagen, die bei Benützung eines öffentlichen Verkehrsmittels entstehen würden. Steht kein solches zur Verfügung oder kann dessen Benützung dem Steuerpflichtigen nicht zugemutet werden (z. B. bei Gebrechlichkeit, bei mehr als 1,5 km Entfernung von der nächsten Haltestelle, bei einem täglichen Zeitaufwand von mehr als 2½ Stunden), so ist pro Fahrkilometer ein Abzug bis zu CHF 0.40 für Motorräder mit weissem Kontrollschild und bis zu CHF 0.75 für Autos zulässig. Der Nachweis höherer Kosten bleibt vorbehalten. Für die Hin- und Rückfahrt über Mittag können aber höchstens die Kosten für auswärtige Verpflegung gemäss Bst. b (CHF 15 pro Tag, jedoch höchstens CHF 3'200 pro Jahr) geltend gemacht werden.
   - 4\. bei unentgeltlicher Benützung eines Geschäftsfahrzeugs für Fahrten zwischen Wohn- und Arbeitsstätte sowie für weitere private Zwecke: Die steuerpflichtige Person kann anstelle der Abrechnung über die tatsächlichen Kosten der privaten Nutzung und des Fahrkostenabzugs nach § 29 Abs. 1 Bst. a des Steuergesetzes eine pauschale Fahrkostenberechnung vornehmen. In diesem Fall beträgt ihr Einkommen aus dieser Nutzung pro Monat pauschal 0,9 % des Kaufpreises des Fahrzeugs.
 - b. die Mehrkosten für auswärtige Verpflegung: CHF 15 für jede auswärtige Hauptmahlzeit (in der Regel nur für das Mittagessen), bei ständiger auswärtiger Verpflegung CHF 3'200 pro Jahr. Wird die Hauptmahlzeit durch den Arbeitgeber verbilligt (Kantine, Personalrestaurant, Kostenbeitrag in bar, Abgabe von Mahlzeitengutscheinen), so wird für diese Mahlzeit der halbe Abzug gewährt. Wer wegen kurzer Essenspausen gezwungen ist, mindestens einmal pro Tag eine Hauptmahlzeit beim Arbeitgeber einzunehmen (wie z.B. beim Gastgewerbe), kann pro Tag (allenfalls pro Jahr) einen halben Abzug vornehmen; die Einnahme weiterer Mahlzeiten beim Arbeitgeber gibt keinen Anspruch auf mehr als diesen halben Abzug. Kein Abzug ist mangels Mehrkosten zulässig, wenn die Hauptmahlzeiten den Steuerpflichtigen auf weniger als CHF 10 zu stehen kommen bzw. wenn der Arbeitgeber bei der Bewertung allfälliger Naturalbezüge folgende Werte unterschreitet: Mittagessen CHF 10, Abendessen CHF 8 oder CHF 21.50 pro Tag für Morgen-, Mittag- und Abendessen.
 - c. die Mehrkosten bei auswärtigem Wochenaufenthalt: Steuerpflichtige, die sich während der Woche am Arbeitsort aufhalten, jedoch regelmässig über das Wochenende nach Hause zurückkehren und daher steuerpflichtig bleiben:
@@ -289,9 +288,9 @@ beschliesst:
 
 **Vergütung für Veranlagung (§ 107a StG)**
 
-<sup>1</sup> Die Vergütung gemäss § 107a des Steuergesetzes[^14-1] für die Einschätzung der Unselbständigerwerbenden und Nichterwerbstätigen beträgt CHF 35.– pro veranlagte steuerpflichtige Person und Veranlagungsperiode und gilt für die Bearbeitung der Steuererklärungen in den Kalenderjahren 2024 und 2025.
+<sup>1</sup> Die Vergütung gemäss § 107a des Steuergesetzes[^14-1] für die Einschätzung der Unselbständigerwerbenden und Nichterwerbstätigen beträgt CHF 35.– pro veranlagte steuerpflichtige Person und Veranlagungsperiode und gilt für die Bearbeitung der Steuererklärungen in den Kalenderjahren 2026 und 2027.
 
-<sup>2</sup> Für die Bearbeitung der Steuererklärungen im Kalenderjahr 2023 beträgt die Vergütung CHF 30.–.
+<sup>2</sup> …
 
 [^14-1]: [SGS 331](https://bl.clex.ch/data/331/de/art107a)
 
@@ -372,7 +371,8 @@ beschliesst:
 - b. für das Kalenderjahr 2022 — 0,20 %;
 - c. für das Kalenderjahr 2023 — 0,20 %;
 - d. für das Kalenderjahr 2024 — 0,80 %;
-- e. für das Kalenderjahr 2025 — 0,20 %.
+- e. für das Kalenderjahr 2025 — 0,20 %;
+- f. für das Kalenderjahr 2026 — 0,10 %.
 
 <sup>2</sup> Der Verzugszins beträgt:
 
@@ -380,7 +380,8 @@ beschliesst:
 - b. für das Kalenderjahr 2022 — 5,00 %;
 - c. für das Kalenderjahr 2023 — 5,00 %;
 - d. für das Kalenderjahr 2024 — 4,75 %;
-- e. für das Kalenderjahr 2025 — 5,50 %.
+- e. für das Kalenderjahr 2025 — 5,50 %;
+- f. für das Kalenderjahr 2026 — 5,00 %.
 
 <sup>3</sup> Die Berechnung der Zinsen gemäss den Abs. 1 und 2 wird auf der Basis eines Kalenderjahres mit 365 bzw. 366 Tagen vorgenommen.
 
