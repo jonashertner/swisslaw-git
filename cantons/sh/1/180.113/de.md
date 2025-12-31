@@ -5,11 +5,12 @@ title: Verordnung über die Arbeitszeit des Staatspersonals
 short: Arbeitszeitverordnung
 language: de
 version: 2026-01-01
+corrected: 2025-12-17
 version_adopted: 2025-12-16
 adopted: 2010-08-31
 in_force: 2011-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.113"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2050/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1998/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -112,7 +113,7 @@ beschliesst:
 
 <sup>2</sup> Zeitguthaben, welche am Ende der Abrechnungsperiode die Maximalzahl an Minusstunden überschreiten, werden mit dem Lohn, mit Überstunden oder mit Ferienguthaben verrechnet. Für die gleitende Arbeitszeit gilt § 8 Abs. 4. Ausnahmsweise kann die vorgesetzte Stelle im Einvernehmen mit dem zuständigen Personaldienst eine Verrechnung aufschieben.
 
-<sup>3</sup> Ein positiver oder negativer Arbeitszeitsaldo ist bis zum Übertritt in eine andere Dienststelle oder bis zur Beendigung des Arbeitsverhältnisses möglichst auszugleichen. Die vorgesetzte Stelle legt mit den Mitarbeiterinnen und Mitarbeitern eine entsprechende Planung fest.
+<sup>3</sup> Vor Auflösung des Arbeitsverhältnisses ist ein positiver oder negativer Saldo möglichst auszugleichen. Die vorgesetzte Stelle legt mit den Mitarbeiterinnen und Mitarbeitern eine entsprechende Planung fest.
 
 <sup>4</sup> Ein positiver Saldo wird ohne Zuschlag finanziell abgegolten, wenn ein Abbau der Plusstunden aus dienstlichen Gründen, wegen Krankheit, Unfall oder Mutterschaft bis zum Austritt nicht möglich war.
 
