@@ -4,13 +4,13 @@ number: "777"
 title: Verordnung zum Gesetz über die Verkehrsabgaben und den Vollzug des eidgenössischen Strassenverkehrsrechtes
 short: Strassenverkehrsverordnung
 language: de
-version: 2025-09-01
-valid_until: 2025-12-31
-version_adopted: 2025-07-01
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-12-09
 adopted: 1986-12-09
 in_force: 1987-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/777"
-pdf: "https://srl.lu.ch/api/de/versions/4521/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4521/pdf_file"
 
 (Strassenverkehrsverordnung)
 
-vom 09.12.1986 (Stand 01.09.2025)
+vom 09.12.1986 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -303,8 +303,9 @@ beschliesst:
 
 <sup>2</sup> Davon ausgenommen ist die Übertragung von solchen Kontrollschildern
 
-- a. auf Geschwister sowie auf Personen, die in gerader Linie mit dem alten Halter oder der alten Halterin verwandt sind,
-- b. auf Ehegatten und auf eingetragene Partner,
+- a. auf Geschwister sowie auf Personen, die in gerader Linie mit dem bisherigen Halter oder der bisherigen Halterin verwandt sind,
+- b. auf den Ehegatten oder die Ehegattin sowie auf den eingetragenen Partner oder die eingetragene Partnerin,
+- b<sup>bis</sup>. auf den Lebenspartner oder die Lebenspartnerin, der oder die mit dem bisherigen Halter oder der bisherigen Halterin seit mindestens fünf Jahren ununterbrochen einen gemeinsamen Haushalt führt,
 - c. bei Übernahme von Geschäftsfahrzeugen infolge Kauf, Umstrukturierung, Namensänderung eines Unternehmens und dergleichen, sofern der neue Halter oder die neue Halterin im Handelsregister eingetragen ist,
 - d. bei Firmengründungen, wenn der Gründer oder die Gründerin das private Fahrzeug in die Firma einbringt und diese im Handelsregister eingetragen ist.
 
