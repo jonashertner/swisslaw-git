@@ -5,11 +5,12 @@ title: Verordnung über die Arbeitsverhältnisse des Staatspersonals
 short: Personalverordnung
 language: de
 version: 2026-01-01
+corrected: 2025-12-17
 version_adopted: 2025-12-16
 adopted: 2004-12-14
 in_force: 2005-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.111"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2051/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1997/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -131,11 +132,14 @@ beschliesst:
 
 **Anstellungsbefugnis**
 
-<sup>1</sup> Der Regierungsrat ist zuständig für die Anstellung von Dienststellenleiterinnen und Dienststellenleiter, deren Stellvertretungen, Mitarbeiterinnen und Mitarbeiter der Verwaltung ab Lohnband 14 sowie von Personen, die keinem Lohnband zugeordnet sind, aber eine vergleichbare Tätigkeit ausüben. Pensenanpassungen im Rahmen des bewilligten Stellenplans erfolgen durch das zuständige Departement bzw. die Staatskanzlei im Einvernehmen mit dem Personalamt.
+<sup>1</sup> Der Regierungsrat ist zuständig für die Anstellung der Mitarbeiterinnen und Mitarbeiter der Verwaltung in den Lohnbändern 10 bis 17 sowie von Personen, die keinem Lohnband zugeordnet sind, aber eine vergleichbare Tätigkeit ausüben.
 
-<sup>2</sup> Das zuständige Departement bzw. die Staatskanzlei stellt im Einvernehmen mit dem Personalamt alle übrigen Mitarbeiterinnen und Mitarbeiter an.
+<sup>2</sup> Das zuständige Departement bzw. die Staatskanzlei stellt im Einvernehmen mit dem Personalamt an:
 
-<sup>3</sup> Vorbehalten bleiben besondere Regelungen, insbesondere für Lehrpersonen, die Gerichte sowie die Anstalten.
+- a) Mitarbeiterinnen und Mitarbeiter in den Lohnbändern 1 bis 9
+- b) Aushilfskräfte und nebenberufliches Personal ohne öffentliche Funktionen
+
+<sup>3</sup> Vorbehalten bleiben besondere Regelungen, insbesondere für Lehrpersonen, für die Gerichte sowie die Anstalten in den Organisationserlassen und für WoV-Dienststellen in den entsprechenden Regelungen.
 
 #### § 11
 
@@ -188,7 +192,7 @@ beschliesst:
 
 #### § 14
 
-**Beendigung des Arbeitsverhältnisses**
+**Kündigungsfristen und ‑termine; Freistellung**
 
 <sup>1</sup> In der Probezeit kann das Arbeitsverhältnis jederzeit mit einer Frist von sieben Tagen gekündigt werden, soweit im Arbeitsvertrag keine längere Frist bis höchstens 30 Tage vereinbart worden ist. Wird die Probezeit verlängert, beträgt die Kündigungsfrist während der Verlängerung 30 Tage. Die Kündigungsfrist beträgt auch 30 Tage, wenn bei der Übernahme einer anderen Funktion eine Probezeit vereinbart wird.
 
@@ -205,7 +209,7 @@ beschliesst:
 
 <sup>6</sup> Das Arbeitsverhältnis kann im gegenseitigen Einvernehmen jederzeit aufgelöst werden.
 
-<sup>7</sup> Wird das Arbeitsverhältnis gekündigt oder im gegenseitigen Einvernehmen aufgelöst, kann die Anstellungsbehörde Mitarbeiterinnen und Mitarbeiter in begründeten Fällen bis zur Beendigung des Arbeitsverhältnisses ohne Einfluss auf die Lohnzahlung freistellen. Die Anrechnung eines anderweitig erzielten Verdienstes bleibt vorbehalten. Die Freistellung nach Art. 42 Abs. 2 des Personalgesetzes bleibt vorbehalten.
+<sup>7</sup> Die Anstellungsbehörde kann Mitarbeiterinnen und Mitarbeiter in begründeten Fällen während der Kündigungsfrist ohne Einfluss auf die Lohnzahlung freistellen. Die Anrechnung eines anderweitig erzielten Verdienstes bleibt vorbehalten. Die Freistellung nach Art. 42 Abs. 2 des Personalgesetzes bleibt vorbehalten.
 
 <sup>8</sup> Vorbehalten bleiben besondere Regelungen.
 
@@ -505,13 +509,11 @@ beschliesst:
 
 <sup>3</sup> Übersteigt die Abwesenheit infolge von Militärdienst oder anderen Dienstleistungen, bezahltem Urlaub (ausgenommen Schwangerschafts- bzw. Mutterschafts-, Vaterschafts-, Adoptions- oder Betreuungsurlaub für gesundheitlich schwer beeinträchtigte Kinder), Krankheit, Unfall oder Schwangerschaft im Kalenderjahr drei Monate oder dauert sie zusammenhängend mehr als drei Monate, so reduziert sich der Ferienanspruch für jeden weiteren ganzen Monat Abwesenheit um je einen Zwölftel.
 
-<sup>4</sup> Bezieht eine Mitarbeiterin oder ein Mitarbeiter den Urlaub des anderen Elternteils nach § 44 Abs. 1ter oder im Falle des Todes der Mutter nach § 44a Abs. 3bis erfolgt keine Kürzung des Ferienanspruchs.
-
 #### § 37
 
 **Finanzielle Abgeltung für nicht bezogene Ferien und Verrechnung zuviel bezogener Ferien**
 
-<sup>1</sup> Ferien sind bis zum Übertritt in eine andere Dienststelle oder bis zur Beendigung des Arbeitsverhältnisses möglichst zu beziehen. Nicht bezogene Ferienguthaben werden finanziell abgegolten, wenn ein Abbau aus dienstlichen Gründen, wegen Krankheit, Unfall oder Mutterschaft bis zum Übertritt oder bis zur Beendigung Arbeitsverhältnisses nicht möglich war. Bei einem Übertritt können im Einvernehmen der Anstellungsbehörde und der Mitarbeiterin oder des Mitarbeiters Ferienguthaben ganz oder teilweise auf die neue Anstellung übertragen werden. Endet das Arbeitsverhältnis infolge Todesfall, werden Ferien nicht abgegolten.
+<sup>1</sup> Eine finanzielle Abgeltung der Ferien ist nur möglich, wenn die Ferien aus dienstlichen Gründen oder wegen Krankheit oder Unfall bis zum Zeitpunkt des Austritts aus dem Staatsdienst nicht mehr bezogen werden können. Im Falle einer unbefristeten Pensenreduktion um mehr als 30% werden die Ferien aus dem entfallenden Teil ausbezahlt. Endet das Arbeitsverhältnis infolge Todesfall, werden Ferien nicht abgegolten.
 
 <sup>2</sup> Der Ferienanspruch ist mit der Lohnzahlung bei Krankheit oder Unfall vollumfänglich abgegolten, wenn im Anschluss an die Lohnzahlung das Arbeitsverhältnis aus diesen Gründen aufgelöst wird.
 
@@ -603,18 +605,6 @@ beschliesst:
 
 <sup>5</sup> Urlaub für die Dienststellenleiterin oder den Dienststellenleiter wird durch die Departementsvorsteherin oder den Departementsvorsteher gewährt.
 
-#### § 40a
-
-**Weitere Leistungen**
-
-<sup>1</sup> Der Regierungsrat bezeichnet die mit einer Gabe verbundenen persönlichen Ereignisse von Mitarbeitenden und bestimmt die dafür höchstens zu verwendenden Beträge, insbesondere bei
-
-- a) Stellenantritt;
-- b) Heirat respektive Eintragung einer Partnerschaft;
-- c) Geburt oder Adoption eines Kindes;
-- d) Jubiläum, Pensionierung und Verabschiedung;
-- e) Todesfall.
-
 ## 5 Arbeitsverhinderung, Krankheit und Unfall, Schwangerschaft, Vaterschaft
 
 #### § 41
@@ -664,13 +654,11 @@ beschliesst:
 
 #### § 44
 
-**Lohnzahlung und Bezug von Urlaub bei Schwangerschaft und Mutterschaft**
+**Lohnzahlung bei Schwangerschaft und Mutterschaft**
 
 <sup>1</sup> Mitarbeiterinnen haben bei Schwangerschaft und Mutterschaft Anspruch auf einen bezahlten Urlaub von vier Monaten, sofern das Arbeitsverhältnis bis zur Niederkunft über neun Monate gedauert hat. Hat das Arbeitsverhältnis weniger als neun Monate gedauert, besteht Anspruch auf zwei Monate Lohnzahlung und Leistungen im Ausmass der Mutterschaftsentschädigung gemäss EO. Die Berechnung der Leistungen richtet sich nach § 43 bzw. der EO. Der Arbeitgeber bevorschusst die Taggeldleistungen der EO. Diese fallen dem Arbeitgeber zu.
 
 <sup>1<sup>bis</sup></sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung gemäss EO.
-
-<sup>1<sup>ter</sup></sup> Im Falle des Todes des anderen Elternteils während der sechs Monate nach der Geburt des Kindes hat die Mitarbeiterin Anspruch auf zwei Wochen zusätzlichen Urlaub gemäss § 44a. Sie kann diesen Urlaub innert einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochenweise oder tageweise beziehen.
 
 <sup>2</sup> Der bezahlte Schwangerschafts- bzw. Mutterschaftsurlaub beginnt zwei Wochen vor dem Tag der Niederkunft. Die Vorgesetzte oder der Vorgesetzte kann der Mitarbeiterin ausnahmsweise gestatten, bis längstens zur Niederkunft zu arbeiten. Die Krankenanstalten und das Erziehungsdepartement für Lehrpersonen legen den Beginn des bezahlten Schwangerschafts- bzw. Mutterschaftsurlaubes in eigener Kompetenz fest.
 
@@ -682,24 +670,15 @@ beschliesst:
 
 #### § 44a
 
-**Urlaub des anderen Elternteils**
+**Vaterschaftsurlaub**
 
-<sup>1</sup> Anspruch auf einen bezahlten Urlaub von zwei Wochen (10 Arbeitstage) haben:
+<sup>1</sup> Der Mitarbeiter, welcher im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird, hat Anspruch auf einen bezahlten Urlaub von zwei Wochen (10 Arbeitstage).
 
-- a) Die Mitarbeiterin, die im Zeitpunkt der Geburt eines Kindes dessen rechtlicher anderer Elternteil ist.
-- b) Der Mitarbeiter, welcher im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder dies innerhalb der folgenden sechs Monate wird.
+<sup>2</sup> Der Vaterschaftsurlaub muss innert sechs Monaten nach der Geburt des Kindes bezogen werden. Er kann wochen- oder tageweise bezogen werden. Ein nicht bezogener Vaterschaftsurlaub verfällt entschädigungslos.
 
-<sup>2</sup> Der Urlaub des anderen Elternteils muss innert sechs Monaten nach der Geburt des Kindes bezogen werden, wobei diese Frist während eines Urlaubs nach § 44a Abs. 3bis stillsteht. Er kann wochen- oder tageweise bezogen werden. Ein nicht bezogener Urlaub des anderen Elternteils verfällt entschädigungslos.
-
-<sup>3</sup> Nach Möglichkeit ist der Urlaub des anderen Elternteils bis zum Austritt aus dem Arbeitsverhältnis zu beziehen. Es erfolgt keine Verlängerung des Arbeitsverhältnisses um nicht bezogene Urlaubstage und es werden auch keine Urlaubstage ausbezahlt.
+<sup>3</sup> Nach Möglichkeit ist der Vaterschaftsurlaub bis zum Austritt des Arbeitsverhältnisses zu beziehen. Es erfolgt keine Verlängerung des Arbeitsverhältnisses um nicht bezogene Vaterschaftsurlaubstage und es werden auch keine Urlaubstage ausbezahlt.
 
 <sup>4</sup> Taggeldleistungen der EO fallen dem Arbeitgeber zu.
-
-<sup>3<sup>bis</sup></sup>
-
-- a) Stirbt die Mutter am Tag der Niederkunft oder während des Mutterschaftsurlaubs, so hat der rechtlich andere Elternteil Anspruch auf einen zusätzlichen Urlaub von vier Monaten. Dieser Urlaub muss ab dem Tag nach dem Tod an aufeinanderfolgenden Tagen bezogen werden.
-- b) Der rechtliche andere Elternteil hat Anspruch auf den Urlaub gemäss lit. a, wenn das Kindesverhältnis am Todestag begründet ist oder während der 14 Wochen danach begründet wird.
-- c) Bei Hospitalisierung des Neugeborenen verlängert sich der zusätzliche Urlaub von vier Monaten nach lit. a um die Dauer der Hospitalisierung, höchstens jedoch um acht Wochen.
 
 #### § 44b
 
