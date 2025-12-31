@@ -4,13 +4,12 @@ number: "420.11"
 title: Verordnung zum Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 short: Vo EG IVöB
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-14
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 2023-11-14
 in_force: 2024-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/420.11"
-pdf: "https://bl.clex.ch/api/de/versions/3755/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4434/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3755/pdf_file"
 
 (Vo EG IVöB)
 
-Vom 14.11.2023 (Stand 01.01.2024)
+Vom 14.11.2023 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -157,7 +156,7 @@ beschliesst:
 - c. Sie sind die zuständigen Stellen zur Entgegennahme und Behandlung von Anzeigen der Arbeitnehmenden, der paritätischen Kommissionen oder von anderen Kontrollorganen bei Missachtung von Bestimmungen zum Schutz der Umwelt zuständig.
 - d. Sie zeigen festgestellte Verstösse gemäss Bst. c der Zentralen Beschaffungsstelle an.
 
-[^8-1]: Amt für Umweltschutz und Energie, Lufthygieneamt beider Basel, Fachstelle Lärmschutz des Amts für Raumplanung.
+[^8-1]: Amt für Umweltschutz und Energie, Fachstelle Lärmschutz des Amts für Raumplanung.
 
 ## 4 Zuständigkeiten
 
