@@ -4,11 +4,11 @@ title: Ordinanza del 16 dicembre 2016 concernente la macellazione e il controllo
 short: OMCC
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: it
-version: 2025-10-16
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20251016/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20251016-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-66-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/it"
 
 (OMCC)
 
-del 16 dicembre 2016 (Stato 16 ottobre 2025)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -594,24 +594,23 @@ Chi consegna animali destinati alla macellazione deve confermare per scritto al 
 La dichiarazione sanitaria per i volatili da cortile deve essere effettuata da 72 a 12 ore prima della macellazione e contenere le seguenti indicazioni aggiuntive:
 
 - a. le informazioni sulla catena alimentare secondo l’articolo 22 capoverso 1;
-- b.[^24-1] il nome e l’indirizzo del detentore di animali nonché il numero RIS dell’azienda detentrice di animali, ai sensi dell’articolo 3 capoverso 2 lettera c dell’ordinanza del 30 giugno 1993[^24-2] sul Registro delle imprese e degli stabilimenti, oppure il numero BDTA dell’azienda detentrice di animali ai sensi dell’articolo 15 capoverso 1 dell’ordinanza del 3 novembre 2021[^24-3] concernente Identitas AG e la banca dati sul traffico di animali (OIBDTA);
+- b.[^24-1] il nome e l’indirizzo del detentore di animali nonché il numero BDTA dell’azienda detentrice di animali o il numero RIS dell’azienda detentrice di animali (art. 3 cpv. 2 lett. c dell’ordinanza del 30 giugno 1993[^24-2] sul Registro delle imprese e degli stabilimenti);
 - c. il nome e l’indirizzo del macello e la data di macellazione prevista;
 - d. il numero e l’età degli animali destinati alla macellazione;
 - e. la data di stabulazione e il numero degli animali stabulati;
 - f. la data di uscita dal pollaio e il numero degli animali trasferiti;
 - g. il tasso di mortalità degli animali durante l’ingrasso;
-- h.[^24-4] il risultato dell’analisi dei campioni prelevati dal detentore di volatili da cortile per la ricerca di infezioni da *Salmonella* secondo l’articolo 257*a* capoverso 1 lettera c OFE[^24-5].
+- h.[^24-3] il risultato dell’analisi dei campioni prelevati dal detentore di volatili da cortile per la ricerca di infezioni da *Salmonella* secondo l’articolo 257*a* capoverso 1 lettera c OFE[^24-4].
 
 <sup>4</sup> La comparsa di eventi particolari nel periodo compreso tra l’invio della dichiarazione sanitaria e l’arrivo degli animali al macello deve essere comunicata oralmente al veterinario ufficiale.
 
-<sup>5</sup> Se è prescritto un certificato d’accompagnamento secondo l’articolo 12 OFE, la dichiarazione sanitaria deve essere effettuata dal detentore di animali su tale documento. Per gli animali della specie equina la dichiarazione deve avvenire nel passaporto per equide. Per gli animali della specie equina macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 27 capoverso 2 OIBDTA.[^24-6]
+<sup>5</sup> Se è prescritto un certificato d’accompagnamento secondo l’articolo 12 OFE, la dichiarazione sanitaria deve essere effettuata dal detentore di animali su tale documento. Per gli animali della specie equina la dichiarazione deve avvenire nel passaporto per equide. Per gli animali della specie equina macellati prima del 31 dicembre del rispettivo anno di nascita, queste indicazioni vanno riportate nell’attestato di registrazione di cui all’articolo 27 capoverso 2 OIBDTA.[^24-5]
 
-[^24-1]: Nuovo testo giusta l’all. 3 cifra II n. 6 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-1]: Nuovo testo giusa l’all. n. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 [^24-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
-[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
-[^24-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
-[^24-6]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-4]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^24-5]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
 
@@ -935,7 +934,9 @@ Il DFI stabilisce l’allestimento dei moduli e dei timbri.
 
 <sup>1</sup> L’USAV provvede alla gestione di un sistema d’informazione specificamente destinato all’identificazione dei bovini dai quali deve essere prelevato un campione secondo l’articolo 31 capoverso 1 lettera e.
 
-<sup>2</sup> È prelevato un campione dai bovini per i quali il sistema d’informazione rileva una corrispondenza tra il numero d’identificazione e il numero BDTA della loro azienda detentrice di animali di provenienza e i dati di cui all’articolo 40*b* lettera a numero 1 e lettera b numero 1.
+<sup>2</sup> È prelevato un campione dai bovini per i quali il sistema d’informazione rileva una corrispondenza tra il numero d’identificazione e il numero BDTA o il numero RIS della loro azienda detentrice di animali di provenienza e i dati di cui all’articolo 40*b* lettera a numero 1 e lettera b numero 1.[^40a-1]
+
+[^40a-1]: Nuovo testo giusa l’all. n. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 40b
 
@@ -952,7 +953,7 @@ Il sistema d’informazione contiene i seguenti dati:
 
 - b.
 
-  i numeri BDTA delle aziende detentrici di bovini:
+  i numeri BDTA o i numeri RIS delle aziende detentrici di bovini:[^40b-1]
 
   - 1\. che adempiono le condizioni per una sorveglianza,
   - 2\. dai quali è stato prelevato un campione;
@@ -966,7 +967,7 @@ Il sistema d’informazione contiene i seguenti dati:
 
 - d.
 
-  i numeri BDTA dei macelli:
+  i numeri BDTA o i numeri RIS dei macelli:[^40b-2]
 
   - 1\. nei quali devono essere prelevati i campioni,
   - 2\. nei quali sono stati prelevati i campioni;
@@ -981,17 +982,22 @@ Il sistema d’informazione contiene i seguenti dati:
 
 - g. i dati di accesso della persona che avvia il confronto dei dati conformemente all’articolo 40*a* capoverso 2.
 
+[^40b-1]: Nuovo testo giusa l’all. n. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^40b-2]: Nuovo testo giusa l’all. n. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+
 #### Art. 40c
 
 **Inserimento e salvataggio automatico dei dati e accesso ai dati**
 
 <sup>1</sup> L’USAV inserisce nel sistema d’informazione i dati di cui all’articolo 40*b* lettere a numero 1, b numero 1, c numero 1, d numero 1 e f numero 1.
 
-<sup>2</sup> All’arrivo dei bovini al macello, il veterinario ufficiale è responsabile dell’inserimento nel sistema d’informazione del numero d’identificazione, del numero BDTA dell’azienda detentrice di animali di provenienza e del numero BDTA del macello.
+<sup>2</sup> All’arrivo dei bovini al macello, il veterinario ufficiale è responsabile dell’inserimento nel sistema d’informazione del numero d’identificazione e del numero BDTA o del numero RIS dell’azienda detentrice di animali di provenienza nonché del numero BDTA o del numero RIS del macello.[^40c-1]
 
 <sup>3</sup> In caso di corrispondenza secondo l’articolo 40*a* capoverso 2, il sistema d’informazione salva automaticamente i dati di cui all’articolo 40*b* lettere a numero 2, b numero 2, c numero 2, e, f numero 2 e g.
 
 <sup>4</sup> Per l’accesso al sistema d’informazione le autorità cantonali notificano all’USAV i veterinari ufficiali che desiderano utilizzare il sistema d’informazione. L’USAV registra nel sistema i nominativi di queste persone e conferisce loro i necessari diritti di accesso.
+
+[^40c-1]: Nuovo testo giusa l’all. n. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 40d
 
@@ -1334,7 +1340,7 @@ Nel singolo caso, il veterinario cantonale può incaricare il veterinario uffici
 
 **Rapporto sui controlli eseguiti**[^57-1]
 
-<sup>1</sup> Un rappresentante dell’autorità cantonale di esecuzione registra i risultati del controllo degli animali da macello e del controllo delle carni nell’apposito sistema d’informazione Fleko di cui all’ordinanza del 27 aprile 2022[^57-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O-SIFA) oppure li fa trasmettere a Fleko dai sistemi informatici dei macelli. Devono essere registrati o comunicati i numeri BDTA dei macelli e i dati di cui all’allegato 3 numero 2 O-SIFA.
+<sup>1</sup> Un rappresentante dell’autorità cantonale di esecuzione registra i risultati del controllo degli animali da macello e del controllo delle carni nell’apposito sistema d’informazione Fleko di cui all’ordinanza del 27 aprile 2022[^57-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare (O‑SIFA) oppure li fa trasmettere a Fleko dai sistemi informatici dei macelli. Devono essere registrati o comunicati i numeri BDTA o i numeri RIS dei macelli e i dati di cui all’allegato 3 numero 2 O‑SIFA.[^57-3]
 
 <sup>2</sup> I risultati degli ulteriori controlli devono essere registrati e sintetizzati in una statistica. Ogni anno deve essere presentato al veterinario cantonale un rapporto generale d’attività.
 
@@ -1342,6 +1348,7 @@ Nel singolo caso, il veterinario cantonale può incaricare il veterinario uffici
 
 [^57-1]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^57-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^57-3]: Nuovo testo giusa l’all. n. 3 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### Sezione 5: Notifiche
 

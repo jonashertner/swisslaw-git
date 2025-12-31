@@ -4,11 +4,11 @@ title: Verordnung vom 16. Dezember 2016 über das Schlachten und die Fleischkont
 short: VSFK
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: de
-version: 2025-10-16
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20251016/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20251016-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-66-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/de"
 
 (VSFK)
 
-vom 16. Dezember 2016 (Stand am 16. Oktober 2025)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -597,25 +597,24 @@ Wer Tiere zur Schlachtung liefert, muss zuhanden der Fleischkontrolle eine schri
 Die Gesundheitsmeldung für Hausgeflügel muss 72 bis 12 Stunden vor der Schlachtung erfolgen und zusätzlich folgende Angaben enthalten:
 
 - a. die Informationen zur Lebensmittelkette nach Artikel 22 Absatz 1;
-- b.[^24-1] den Namen und die Adresse der Tierhalterin oder des Tierhalters sowie die BUR-Nummer der Tierhaltung nach Artikel 3 Absatz 2 Buchstabe c der Verordnung vom 30. Juni 1993[^24-2] über das Betriebs- und Unternehmensregister oder die TVD-Nummer der Tierhaltung nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021[^24-3] über die Identitas AG und die Tierverkehrsdatenbank (IdTVD-V);
+- b.[^24-1] den Namen und die Adresse der Tierhalterin oder des Tierhalters sowie die TVD-Nummer der Tierhaltung oder die BUR-Nummer der Tierhaltung (Art. 3 Abs. 2 Bst. c Verordnung vom 30. Juni 1993[^24-2] über das Betriebs- und Unternehmensregister);
 - c. den Namen und die Adresse des Schlachtbetriebs sowie das vorgesehene Datum der Schlachtung;
 - d. die Anzahl und das Alter der Tiere, die zur Schlachtung geliefert werden;
 - e. das Datum der Einstallung und die Anzahl der eingestallten Tiere;
 - f. das Datum der Ausstallung und die Anzahl der ausgestallten Tiere;
 - g. die Sterblichkeitsrate der Tiere während der Mast;
-- h.[^24-4] den Befund der Untersuchung der von der Halterin oder dem Halter von Hausgeflügel nach Artikel 257*a* Absatz 1 Buchstabe c TSV[^24-5] entnommenen Proben auf Salmonella-Infektionen.
+- h.[^24-3] den Befund der Untersuchung der von der Halterin oder dem Halter von Hausgeflügel nach Artikel 257*a* Absatz 1 Buchstabe c TSV[^24-4] entnommenen Proben auf Salmonella-Infektionen.
 
-<sup>4</sup> Das Auftreten von besonderen Ereignissen in der Zeit zwischen dem Versand der Gesundheitsmeldung und der Ankunft der Tiere im Schlachtbetrieb ist der Fleischkontrolle mündlich zu melden.[^24-6]
+<sup>4</sup> Das Auftreten von besonderen Ereignissen in der Zeit zwischen dem Versand der Gesundheitsmeldung und der Ankunft der Tiere im Schlachtbetrieb ist der Fleischkontrolle mündlich zu melden.[^24-5]
 
-<sup>5</sup> Ist ein Begleitdokument nach Artikel 12 TSV vorgeschrieben, so ist die Gesundheitsmeldung durch die Tierhalterin oder den Tierhalter auf diesem Dokument zu machen. Für Tiere der Pferdegattung hat die Meldung im Equidenpass zu erfolgen. Bei Tieren der Pferdegattung, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 27 Absatz 2 der IdTVD-V zu machen.[^24-7]
+<sup>5</sup> Ist ein Begleitdokument nach Artikel 12 TSV vorgeschrieben, so ist die Gesundheitsmeldung durch die Tierhalterin oder den Tierhalter auf diesem Dokument zu machen. Für Tiere der Pferdegattung hat die Meldung im Equidenpass zu erfolgen. Bei Tieren der Pferdegattung, die vor dem 31. Dezember ihres Geburtsjahres geschlachtet werden, sind diese Angaben in der Aufnahmebestätigung nach Artikel 27 Absatz 2 der IdTVD-V zu machen.[^24-6]
 
-[^24-1]: Fassung gemäss Anhang 3 Ziff. II 6 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-1]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 [^24-2]: [SR 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
-[^24-3]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
-[^24-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^24-5]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^24-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-4]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^24-5]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^24-6]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^24-7]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
 
@@ -940,7 +939,9 @@ Das EDI legt die Ausgestaltung der Formulare und Stempel fest.
 
 <sup>1</sup> Das BLV sorgt für den Betrieb eines Informationssystems, das der Identifizierung der Rinder dient, von denen eine Probe nach Artikel 31 Absatz 1 Buchstabe e zu nehmen ist.
 
-<sup>2</sup> Eine Probe ist von denjenigen Rindern zu nehmen, bei denen das Informationssystem eine Übereinstimmung feststellt zwischen der Identifikationsnummer und der TVD-Nummer ihrer Herkunftstierhaltung sowie den Daten nach Artikel 40*b* Buchstaben a Ziffer 1 und b Ziffer 1.
+<sup>2</sup> Eine Probe ist von denjenigen Rindern zu nehmen, bei denen das Informationssystem eine Übereinstimmung feststellt zwischen der Identifikationsnummer und der TVD- oder der BUR-Nummer ihrer Herkunftstierhaltung sowie den Daten nach Artikel 40*b* Buchstaben a Ziffer 1 und b Ziffer 1.[^40a-1]
+
+[^40a-1]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 40b
 
@@ -957,7 +958,7 @@ Das Informationssystem enthält folgende Daten:
 
 - b.
 
-  die TVD-Nummern der Tierhaltungen mit Rindern:
+  die TVD- oder die BUR-Nummer der Tierhaltungen mit Rindern:[^40b-1]
 
   - 1\. welche die Voraussetzungen für eine Überwachung erfüllen,
   - 2\. von denen eine Probe genommen wurde;
@@ -971,7 +972,7 @@ Das Informationssystem enthält folgende Daten:
 
 - d.
 
-  die TVD-Nummern der Schlachtbetriebe:
+  die TVD- oder die BUR-Nummer der Schlachtbetriebe:[^40b-2]
 
   - 1\. in denen die Proben zu nehmen sind,
   - 2\. in denen die Proben genommen wurden;
@@ -986,17 +987,22 @@ Das Informationssystem enthält folgende Daten:
 
 - g. die Zugangsdaten der Person, die den Abgleich der Daten nach Artikel 40*a* Absatz 2 auslöst.
 
+[^40b-1]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^40b-2]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+
 #### Art. 40c
 
 **Eingabe und automatische Speicherung der Daten sowie Zugriff auf die Daten**
 
 <sup>1</sup> Das BLV gibt die Daten nach Artikel 40*b* Buchstaben a Ziffer 1, b Ziffer 1, c Ziffer 1, d Ziffer 1 und f Ziffer 1 in das Informationssystem ein.
 
-<sup>2</sup> Die amtliche Tierärztin oder der amtliche Tierarzt ist verantwortlich dafür, dass bei der Ankunft von Rindern im Schlachtbetrieb deren Identifikationsnummern und die TVD-Nummer ihrer Herkunftstierhaltungen sowie die TVD-Nummer des Schlachtbetriebs im Informationssystem eingegeben werden.
+<sup>2</sup> Die amtliche Tierärztin oder der amtliche Tierarzt ist verantwortlich dafür, dass bei der Ankunft von Rindern im Schlachtbetrieb deren Identifikationsnummern und die TVD- oder die BUR-Nummer ihrer Herkunftstierhaltungen sowie die TVD- oder die BUR-Nummer des Schlachtbetriebs im Informationssystem eingegeben werden.[^40c-1]
 
 <sup>3</sup> Bei einer Übereinstimmung nach Artikel 40*a* Absatz 2 speichert das Informationssystem automatisch die Daten nach Artikel 40*b* Buchstaben a Ziffer 2, b Ziffer 2, c Ziffer 2, e, f Ziffer 2 und g.
 
 <sup>4</sup> Für den Zugriff auf das Informationssystem melden die kantonalen Behörden dem BLV die amtlichen Tierärztinnen und die amtlichen Tierärzte, die das Informationssystem nutzen wollen. Das BLV erfasst diese Personen im Informationssystem und gewährt ihnen die erforderlichen Zugriffsrechte.
+
+[^40c-1]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 40d
 
@@ -1340,7 +1346,7 @@ Die Kantonstierärztin oder der Kantonstierarzt kann die amtliche Tierärztin od
 
 **Berichterstattung über die durchgeführten Kontrollen**[^57-1]
 
-<sup>1</sup> Eine Vertreterin oder ein Vertreter der kantonalen Vollzugsbehörde erfasst die Ergebnisse der Schlachttier- und Fleischuntersuchung im Informationssystem über die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^57-2] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V) oder lässt sie aus den Systemen der Schlachtbetriebe an Fleko übermitteln. Zu erfassen oder zu übermitteln sind die TVD-Nummern der Schlachtbetriebe sowie die Daten nach Anhang 3 Ziffer 2 ISLK-V.
+<sup>1</sup> Eine Vertreterin oder ein Vertreter der kantonalen Vollzugsbehörde erfasst die Ergebnisse der Schlachttier- und Fleischuntersuchung im Informationssystem über die Ergebnisse der Schlachttier- und Fleischuntersuchungen (Fleko) nach der Verordnung vom 27. April 2022[^57-2] über Informationssysteme des BLV für die Lebensmittelkette (ISLK-V) oder lässt sie aus den Systemen der Schlachtbetriebe an Fleko übermitteln. Zu erfassen oder zu übermitteln sind die TVD- oder die BUR-Nummer der Schlachtbetriebe sowie die Daten nach Anhang 3 Ziffer 2 ISLK-V.[^57-3]
 
 <sup>2</sup> Die Ergebnisse der weiteren Kontrollen sind aufzuzeichnen und in einer Statistik zusammenzufassen. Jährlich ist ein allgemeiner Bericht über die Tätigkeit zuhanden der Kantonstierärztin oder des Kantonstierarztes zu erstellen.
 
@@ -1348,6 +1354,7 @@ Die Kantonstierärztin oder der Kantonstierarzt kann die amtliche Tierärztin od
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^57-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^57-3]: Fassung gemäss Anhang Ziff. 3 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### 5. Abschnitt: Meldungen
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 16 décembre 2016 concernant l'abattage d'animaux et le co
 short: OAbCV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/66"
 language: fr
-version: 2025-10-16
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20251016/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20251016-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/66/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-66-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/66/20251016/fr"
 
 (OAbCV)
 
-du 16 décembre 2016 (État le 16 octobre 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -599,24 +599,23 @@ Quiconque livre des animaux à l’abattage doit remettre à l’attention des o
 La déclaration sanitaire pour la volaille domestique doit être faite entre 72 et 12 heures avant l’abattage et comprendre en outre les indications suivantes:
 
 - a. les informations relatives à la chaîne alimentaire visées à l’art. 22, al. 1;
-- b.[^24-1] les nom et adresse du détenteur d’animaux ainsi que le numéro REE de l’unité d’élevage visé à l’art. 3, al. 2, let. c, de l’ordonnance du 30 juin 1993 sur le Registre des entreprises et des établissements[^24-2] ou le numéro BDTA de l’unité d’élevage visé à l’art. 15, al. 1, de l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux (OId-BDTA)[^24-3];
+- b.[^24-1] le nom et l’adresse du détenteur d’animaux ainsi que le numéro BDTA ou REE de l’unité d’élevage (art. 3, al. 2, let. c, de l’ordonnance du 30 juin 1993 sur le registre des entreprises et des établissements[^24-2]);
 - c. le nom et l’adresse de l’abattoir ainsi que la date d’abattage prévue;
 - d. le nombre d’animaux destinés à l’abattage et leur âge;
 - e. la date d’installation dans le parc avicole et le nombre d’animaux introduits;
 - f. la date de sortie du parc avicole et le nombre d’animaux sortis;
 - g. le taux de mortalité pendant l’engraissement;
-- h.[^24-4] le résultat de l’analyse des échantillons prélevés par le détenteur de volaille domestique pour le dépistage des infections à *Salmonella* prescrit par l’art. 257*a*, al. 1, let. c, OFE[^24-5].
+- h.[^24-3] le résultat de l’analyse des échantillons prélevés par le détenteur de volaille domestique pour le dépistage des infections à *Salmonella* prescrit par l’art. 257*a*, al. 1, let. c, OFE[^24-4].
 
 <sup>4</sup> La survenue d’événements particuliers durant la période comprise entre l’envoi de la déclaration sanitaire et l’arrivée des animaux à l’abattoir doit être déclarée oralement aux organes de contrôle des viandes.
 
-<sup>5</sup> Dans les cas où un document d’accompagnement est prescrit par l’art. 12 OFE, la déclaration sanitaire effectuée par le détenteur doit figurer sur ce document, et sur le passeport équin pour les animaux de l’espèce équine. Pour les animaux de l’espèce équine qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 27, al. 2, Old-BDTA.[^24-6]
+<sup>5</sup> Dans les cas où un document d’accompagnement est prescrit par l’art. 12 OFE, la déclaration sanitaire effectuée par le détenteur doit figurer sur ce document, et sur le passeport équin pour les animaux de l’espèce équine. Pour les animaux de l’espèce équine qui sont abattus avant le 31 décembre de leur année de naissance, ces indications doivent figurer dans la confirmation d’enregistrement visée à l’art. 27, al. 2, Old-BDTA.[^24-5]
 
-[^24-1]: Nouvelle teneur selon l’annexe 3 ch. II 6 de l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
+[^24-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 [^24-2]: [RS 431.903](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7035)
-[^24-3]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
-[^24-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
-[^24-5]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
-[^24-6]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
+[^24-4]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^24-5]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 
 #### Art. 25
 
@@ -940,7 +939,9 @@ Le DFI règle la forme et le contenu des formulaires et des estampilles.
 
 <sup>1</sup> L’OSAV assure l’exploitation d’un système d’information servant à identifier les bovins qui doivent faire l’objet d’un prélèvement d’échantillons conformément à l’art. 31, al. 1, let. e.
 
-<sup>2</sup> Un échantillon est prélevé chez les bovins pour lesquels le système d’information identifie une concordance entre le numéro d’identification et le numéro BDTA de leur exploitation de provenance et les données visées à l’art. 40*b*, let. a, ch. 1, et b, ch 1.
+<sup>2</sup> Un échantillon est prélevé chez les bovins pour lesquels le système d’information identifie une concordance entre le numéro d’identification et le numéro BDTA REE de leur exploitation de provenance et les données visées à l’art. 40*b*, let. a, ch. 1, et b, ch. 1.[^40a-1]
+
+[^40a-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 40b
 
@@ -957,7 +958,7 @@ Le système d’information contient les données suivantes:
 
 - b.
 
-  les numéros BDTA des unités d’élevage détenant des bovins:
+  les numéros BDTA ou REE des unités d’élevage détenant des bovins:[^40b-1]
 
   - 1\. qui remplissent les conditions pour un prélèvement d’échantillons,
   - 2\. chez lesquels un échantillon a été prélevé;
@@ -971,7 +972,7 @@ Le système d’information contient les données suivantes:
 
 - d.
 
-  les numéros BDTA des abattoirs:
+  les numéros BDTA ou REE des abattoirs:[^40b-2]
 
   - 1\. dans lesquels les échantillons doivent être prélevés,
   - 2\. dans lesquels les échantillons ont été prélevés;
@@ -986,17 +987,22 @@ Le système d’information contient les données suivantes:
 
 - g. les données d’accès de la personne qui déclenche la comparaison des données conformément à l’art. 40*a*, al. 2.
 
+[^40b-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+[^40b-2]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
+
 #### Art. 40c
 
 **Saisie et enregistrement automatique des données et accès aux données**
 
 <sup>1</sup> L’OSAV saisit dans le système d’information les données visées à l’art. 40*b*, let. a, ch. 1, b, ch. 1, c, ch. 1, d, ch. 1, et f, ch. 1.
 
-<sup>2</sup> Lorsque les bovins arrivent à l’abattoir, le vétérinaire officiel est responsable de la saisie de leurs numéros d’identification, du numéro BDTA de leur exploitation de provenance et du numéro BDTA de l’abattoir dans le système d’information.
+<sup>2</sup> Lorsque les bovins arrivent à l’abattoir, le vétérinaire officiel est responsable de la saisie de leurs numéros d’identification, du numéro BDTA ou REE de leur exploitation de provenance ainsi que du numéro BDTA ou REE de l’abattoir dans le système d’information.[^40c-1]
 
 <sup>3</sup> Lorsque le système d’information identifie une concordance au sens de l’art. 40*a*, al. 2, il enregistre automatiquement les données visées à l’art. 40*b*, let. a, ch. 2, b, ch. 2, c, ch. 2, e, f, ch. 2, et g.
 
 <sup>4</sup> S’agissant de l’accès au système d’information, les autorités cantonales annoncent à l’OSAV les vétérinaires officiels qui veulent l’utiliser. L’OSAV saisit les personnes concernées dans le système d’information et leur accorde les droits d’accès nécessaires.
+
+[^40c-1]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 #### Art. 40d
 
@@ -1084,7 +1090,7 @@ Les organes de contrôle sont rémunérés par le canton ou par la commune.
 
 [^47-1]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^47-2]: Nouvelle teneur selon le ch. II 1 de l’O du 25 avr. 2018, en vigueur depuis le 1<sup>er</sup> juin 2018 ([RO 2018 2069](https://fedlex.data.admin.ch/eli/oc/2018/292)).
-[^47-3]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^47-3]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^47-4]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 
 ### Section 2 Tâches de l’OSAV
@@ -1345,7 +1351,7 @@ Dans des cas particuliers, le vétérinaire cantonal peut charger le vétérinai
 
 **Rapport sur les contrôles effectués**[^57-1]
 
-<sup>1</sup> Un représentant de l’autorité cantonale d’exécution saisit les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes dans le système d’information Fleko prévu à cet effet, visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^57-2] ou les fait transmettre au Fleko via les systèmes informatiques de l’abattoir. Il faut saisir ou transmettre le numéro BDTA de l’abattoir et les données énumérées dans l’annexe 3, ch. 2, O-SICAL.
+<sup>1</sup> Un représentant de l’autorité cantonale d’exécution saisit les résultats du contrôle des animaux avant l’abattage et du contrôle des viandes dans le système d’information Fleko prévu à cet effet, visé dans l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire (O-SICAL)[^57-2] ou les fait transmettre au Fleko via les systèmes informatiques de l’abattoir. Il faut saisir ou transmettre le numéro BDTA ou REE de l’abattoir et les données énumérées dans l’annexe 3, ch. 2, O-SICAL.[^57-3]
 
 <sup>2</sup> Les résultats des autres contrôles effectués doivent être consignés et synthétisés dans une statistique. Chaque année, un rapport général des activités est établi à l’attention du vétérinaire cantonal.
 
@@ -1353,6 +1359,7 @@ Dans des cas particuliers, le vétérinaire cantonal peut charger le vétérinai
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 842](https://fedlex.data.admin.ch/eli/oc/2023/842)).
 [^57-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
+[^57-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### Section 5 Notifications
 
