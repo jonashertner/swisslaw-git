@@ -4,13 +4,12 @@ number: "412.214"
 title: "Verordnung über die Brückenangebote, die niederschwelligen Ausbildungsangebote und die kantonalen Integrationskurse"
 short: BbB
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-05
+version: 2026-01-01
+version_adopted: 2025-10-21
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/412.214"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2729/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2948/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ BbB
 
 (BbB)
 
-vom 25.11.2014 (Stand 01.01.2024)
+vom 25.11.2014 (Stand 01.01.2026)
 
 ## 1. Brückenangebote
 
@@ -298,7 +297,7 @@ vom 25.11.2014 (Stand 01.01.2024)
 
 **Verordnung über die berufliche Grundbildung**
 
-<sup>1</sup> § 1 bis § 10 der Verordnung des Regierungsrates über die berufliche Grundbildung (BbG)[^30-1] gelten sinngemäss, soweit diese Verordnung keine anderslautende Regelung trifft.
+<sup>1</sup> § 1 bis § 10 der Verordnung über die berufliche Grundbildung (BbG)[^30-1] gelten sinngemäss, soweit diese Verordnung keine anderslautende Regelung trifft. In Abweichung von § 7 bis § 10 BbG wird zwischen entschuldigten und unentschuldigten Absenzen unterschieden.
 
 [^30-1]: RB [412.212](https://www.rechtsbuch.tg.ch/data/412.212/de)
 
