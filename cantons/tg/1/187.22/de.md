@@ -1,24 +1,23 @@
 ---
 canton: TG
 number: "187.22"
-title: Verordnung der Evangelischen Synode des Kantons Thurgau über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche
+title: Besoldungsverordnung der Evangelischen Synode des Kantons Thurgau
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-24
+version: 2026-01-01
+version_adopted: 2025-11-17
 adopted: 2021-12-06
 in_force: 2022-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.22"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2849/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3038/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung der Evangelischen Synode des Kantons Thurgau über die Besoldung der ordinierten Amtsträger und Amtsträgerinnen in den Kirchgemeinden und des Personals der Evangelischen Landeskirche
+# Besoldungsverordnung der Evangelischen Synode des Kantons Thurgau
 
 Besoldungsverordnung Evangelische Synode
 
-vom 06.12.2021 (Stand 01.01.2025)
+vom 06.12.2021 (Stand 01.01.2026)
 
 ## I. Allgemeine Bestimmungen
 
@@ -124,7 +123,7 @@ vom 06.12.2021 (Stand 01.01.2025)
 
 ## II. Besondere Besoldungsbestimmungen
 
-### 1. Besoldung von Gemeindepfarrern und Gemeindepfarrerinnen
+### 1. Besoldung von gewählten und angestellten Pfarrern und Pfarrerinnen im Pfarramt
 
 #### § 12
 
@@ -136,7 +135,7 @@ vom 06.12.2021 (Stand 01.01.2025)
 
 **Besoldungsklassen, Einreihung**
 
-<sup>1</sup> Die Zuordnung der Pfarrstellen im Bereich der Besoldungsklassen 11 und 12 richtet sich nach einer vom Kirchenrat erarbeiteten Wegleitung und ist personenunabhängig.
+<sup>1</sup> Die Zuordnung der Pfarrstellen erfolgt im Bereich der Besoldungsklassen 11 und 12 und ist personenunabhängig.
 
 <sup>2</sup> Bei Teilzeitstellen ist die Aufgabenzuteilung im Verhältnis zum Beschäftigungsgrad zu berücksichtigen.
 
@@ -149,6 +148,12 @@ vom 06.12.2021 (Stand 01.01.2025)
 <sup>2</sup> Über die Schaffung, Änderung des Umfangs oder Aufhebung von Pfarrämtern und Teilzeitpfarrämtern entscheidet der Kirchenrat nach Rücksprache mit den Beteiligten.
 
 <sup>3</sup> Pfarrer und Pfarrerinnen, die in einem Teilzeitamt tätig sind, haben pro 20% Stellenreduktion Anspruch auf einen zusätzlichen freien Tag im Vergleich zu einem 100%-Amt.
+
+#### § 14a
+
+**Verweser und Verweserinnen**
+
+<sup>1</sup> Die Besoldung der Verweser und Verweserinnen wird vertraglich festgelegt. Sie sind in den Lohnklassen 9 bis 11 zu besolden.
 
 #### § 15
 
