@@ -3,20 +3,19 @@ canton: OW
 number: "641.420"
 title: Ausführungsbestimmungen über die Steuerveranlagung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-12
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2012-11-20
 in_force: 2013-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.420"
-pdf: "http://gdb.ow.ch/api/de/versions/1898/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1946/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Steuerveranlagung
 
-vom 20.11.2012 (Stand 01.01.2025)
+vom 20.11.2012 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -27,9 +26,9 @@ beschliesst:
 [^ingress-1]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 [^ingress-2]: GDB [641.4](http://gdb.ow.ch/data/641.4/de)
 
-## 1. Steuerperiode 2024
+## 1. Steuerperiode 2025
 
-### 1.1. Steuererklärung 2024
+### 1.1. Steuererklärung 2025
 
 #### Art. 1
 
@@ -43,7 +42,7 @@ beschliesst:
 
 **Zustellung**
 
-<sup>1</sup> Die Steuerverwaltung hat den steuerpflichtigen natürlichen Personen bis Ende Februar 2025 eine Mitteilung zuzustellen, dass die Steuererklärung 2024 einzureichen ist. Wer die Mitteilung bis Ende Februar 2025 nicht erhält, ist trotzdem verpflichtet, die Steuererklärung fristgerecht bei der Steuerverwaltung einzureichen.
+<sup>1</sup> Die Steuerverwaltung hat den steuerpflichtigen natürlichen Personen bis Ende Februar 2026 eine Mitteilung zuzustellen, dass die Steuererklärung 2025 einzureichen ist. Wer die Mitteilung bis Ende Februar 2026 nicht erhält, ist trotzdem verpflichtet, die Steuererklärung fristgerecht bei der Steuerverwaltung einzureichen.
 
 <sup>2</sup> Steuerpflichtige können bei der Steuerverwaltung eine Steuererklärung in Papierform beziehen.
 
@@ -51,7 +50,7 @@ beschliesst:
 
 **Einreichung**
 
-<sup>1</sup> Die steuerpflichtigen natürlichen Personen haben die Steuererklärung 2024 innert 60 Tagen nach Empfang der Mitteilung vollständig und wahrheitsgetreu ausgefüllt und mit den erforderlichen Beilagen versehen der kantonalen Steuerverwaltung zu übermitteln bzw. einzureichen. Gesuche um Fristerstreckung nach Art. 47 Abs. 2 StV sind bei der Steuerverwaltung einzureichen.
+<sup>1</sup> Die steuerpflichtigen natürlichen Personen haben die Steuererklärung 2025 innert 60 Tagen nach Empfang der Mitteilung vollständig und wahrheitsgetreu ausgefüllt und mit den erforderlichen Beilagen versehen der kantonalen Steuerverwaltung zu übermitteln bzw. einzureichen. Gesuche um Fristerstreckung nach Art. 47 Abs. 2 StV sind bei der Steuerverwaltung einzureichen.
 
 <sup>2</sup> Die Steuererklärungsformulare der juristischen Personen sind innerhalb von 30 Tagen seit Durchführung der Mitglieder- bzw. Generalversammlung direkt der kantonalen Steuerverwaltung zuzustellen.
 
@@ -59,11 +58,11 @@ beschliesst:
 
 **Wegleitung und Auskünfte**
 
-<sup>1</sup> Die Steuerverwaltung erlässt die Wegleitung über das Ausfüllen der Steuererklärung 2024.
+<sup>1</sup> Die Steuerverwaltung erlässt die Wegleitung über das Ausfüllen der Steuererklärung 2025.
 
 <sup>2</sup> Auskünfte erteilt die Steuerverwaltung.
 
-## 2. Steuerperiode 2025
+## 2. Steuerperiode 2026
 
 ### 2.1. Hauptveranlagung
 
@@ -71,7 +70,7 @@ beschliesst:
 
 **Steuerperiode**
 
-<sup>1</sup> Im Jahr 2025 erfolgt für die steuerpflichtigen natürlichen und juristischen Personen eine Neuveranlagung für die Kantons- und Gemeindesteuer 2025 und für die direkte Bundessteuer 2025.
+<sup>1</sup> Im Jahr 2026 erfolgt für die steuerpflichtigen natürlichen und juristischen Personen eine Neuveranlagung für die Kantons- und Gemeindesteuer 2026 und für die direkte Bundessteuer 2026.
 
 ### 2.2. Berechnungsgrundlagen
 
@@ -79,7 +78,7 @@ beschliesst:
 
 **Einkommen a. Allgemeines**
 
-<sup>1</sup> Für die Berechnung des steuerbaren Einkommens der natürlichen Personen sind die Einkünfte des Jahres 2025 massgebend. Zum steuerbaren Einkommen gehören sämtliche in Geld oder geldwerten (Naturaleinkünfte) bestehenden, wiederkehrenden oder einmaligen Einkünfte aus Erwerbstätigkeit, Vermögensertrag oder anderen Einnahmequellen.
+<sup>1</sup> Für die Berechnung des steuerbaren Einkommens der natürlichen Personen sind die Einkünfte des Jahres 2026 massgebend. Zum steuerbaren Einkommen gehören sämtliche in Geld oder geldwerten (Naturaleinkünfte) bestehenden, wiederkehrenden oder einmaligen Einkünfte aus Erwerbstätigkeit, Vermögensertrag oder anderen Einnahmequellen.
 
 #### Art. 7
 
@@ -98,7 +97,7 @@ beschliesst:
 
 **Vermögen**
 
-<sup>1</sup> Für das Vermögen ist der Stand am 31. Dezember 2025 massgebend.
+<sup>1</sup> Für das Vermögen ist der Stand am 31. Dezember 2026 massgebend.
 
 ### 2.3. Fälligkeit, Verzugszins sowie Ausgleichszins
 
@@ -114,7 +113,7 @@ beschliesst:
 
 **Verzugszins**
 
-<sup>1</sup> Für Guthaben der Bezugsbehörden wird für Schlussrechnungen gemäss Art. 248 StG und Art. 37 Bst. b StV nach Ablauf der Zahlungsfrist im Kalenderjahr 2025 ein Verzugszins von fünf Prozent in Rechnung gestellt.
+<sup>1</sup> Für Guthaben der Bezugsbehörden wird für Schlussrechnungen gemäss Art. 248 StG und Art. 37 Bst. b StV nach Ablauf der Zahlungsfrist im Kalenderjahr 2026 ein Verzugszins von fünf Prozent in Rechnung gestellt.
 
 #### Art. 11
 
@@ -130,7 +129,7 @@ beschliesst:
 
 **Natürliche Personen**
 
-<sup>1</sup> Natürliche Personen beantragen die Rückerstattung der Verrechnungssteuer mit dem Einreichen des Wertschriftenverzeichnisses. Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung 2024 eingereicht, so wird er in der Regel mit den zu entrichtenden Kantons- und Gemeindesteuern 2025 verrechnet. Verbleibt nach Verrechnung mit diesen Steuern ein Überschuss, so wird er mit Bussen, Nachsteuern, Ausgleichs- und Verzugszinsen, ausstehenden Kantons- und Gemeindesteuern oder ausstehenden direkten Bundessteuern verrechnet.
+<sup>1</sup> Natürliche Personen beantragen die Rückerstattung der Verrechnungssteuer mit dem Einreichen des Wertschriftenverzeichnisses. Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung 2025 eingereicht, so wird er in der Regel mit den zu entrichtenden Kantons- und Gemeindesteuern 2026 verrechnet. Verbleibt nach Verrechnung mit diesen Steuern ein Überschuss, so wird er mit Bussen, Nachsteuern, Ausgleichs- und Verzugszinsen, ausstehenden Kantons- und Gemeindesteuern oder ausstehenden direkten Bundessteuern verrechnet.
 
 #### Art. 13
 
@@ -144,7 +143,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Ausführungsbestimmungen gelten für die Steuerveranlagung für die Perioden 2024 und 2025.
+<sup>1</sup> Diese Ausführungsbestimmungen gelten für die Steuerveranlagung für die Perioden 2025 und 2026.
 
 **Informationen zum Erlass**
 
@@ -174,6 +173,8 @@ geändert durch:
 
 \- Nachtrag vom 14. November 2023, in Kraft seit 1. Januar 2024 (OGS 2023, 31),
 
-\- Nachtrag vom 12. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 33)
+\- Nachtrag vom 12. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 33),
+
+\- Nachtrag vom 25. November 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 20)
 
 OGS 2012, 67
