@@ -4,65 +4,56 @@ number: "520.101"
 title: Kantonale Zivilschutzverordnung
 short: KZSV
 language: de
-version: 2019-07-01
-corrected: 2024-05-31
-version_adopted: 2019-06-25
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2016-12-06
 in_force: 2017-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/520.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/71/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2045/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonale Zivilschutzverordnung (KZSV)
+# Kantonale Zivilschutzverordnung
 
-vom 6. Dezember 2016
+(KZSV)
+
+Vom 06.12.2016 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 2 Abs. 2 des Zivilschutzgesetzes (ZSG) vom 22. August 2016[^t-1],
+gestützt auf Art. 2 Abs. 2 des Zivilschutzgesetzes (ZSG) vom 22. August 2016[^ingress-1],
 
 beschliesst:
 
-[^t-1]: SHR 520.100.
+[^ingress-1]: SHR [520.100](https://rechtsbuch.sh.ch/data/520.100/de).
 
-### I. Organisation
+## 1 Organisation
 
 #### § 1
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee ist die für den Zivilschutz zuständige Verwaltungsstelle des Kantons.[^1-1]
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee ist die für den Zivilschutz zuständige Behörde des Kantons.
 
-<sup>2</sup> Sie betreibt die Zivilschutzorganisation sowie die Zivilschutzstelle.
+<sup>2</sup> Es betreibt die Zivilschutzorganisation (ZSO) sowie die Zivilschutzstelle.
 
-<sup>3</sup> Sie erfüllt sämtliche Aufgaben im Zivilschutz, die dem Kanton übertragen sind und für die keine andere Behörde zuständig ist.
-
-[^1-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1069).
+<sup>3</sup> Es erfüllt sämtliche Aufgaben im Zivilschutz, die dem Kanton übertragen sind und für die keine andere Behörde zuständig ist.
 
 #### § 2
 
 **Zivilschutzorganisation**
 
-<sup>1</sup> Die Zivilschutzorganisation (ZSO) wird von der Kommandantin oder dem Kommandanten geführt.
+<sup>1</sup> Die ZSO wird von der Kommandantin oder dem Kommandanten geführt.
 
 <sup>2</sup> Sie besteht aus Einsatzformationen, die mit folgenden Aufgaben betraut sind:
 
-- a) Führungsunterstützung,
-
-- b) Betreuung,
-
-- c) Technische Hilfe,
-
-- d) Kulturgüterschutz,
-
-- e) Logistik,
-
-- f) Unterstützung der Partnerorganisationen.
-
-Amtsblatt 2016, S. 2013
+- a) Führungsunterstützung;
+- b) Betreuung;
+- c) Technische Hilfe;
+- d) Kulturgüterschutz;
+- e) Logistik;
+- f) Unterstützung von Behörden und Partnerorganisationen.
 
 #### § 3
 
@@ -70,17 +61,15 @@ Amtsblatt 2016, S. 2013
 
 <sup>1</sup> Die Zivilschutzkommandantin oder der Zivilschutzkommandant bekleidet den Grad eines Oberstleutnants, seine Stellvertretung den Grad eines Majors.
 
-<sup>2</sup> Das Amt für Bevölkerungsschutz und Armee legt die weiteren Dienstgrade fest[^3-1]. Diese sind dem Finanzdepartement zur Genehmigung zu unterbreiten.
+<sup>2</sup> Das Amt für Bevölkerungsschutz und Armee legt die weiteren Dienstgrade fest. Diese sind dem Finanzdepartement zur Genehmigung zu unterbreiten.
 
-<sup>3</sup> Die hauptamtlichen Mitarbeitenden der ZSO werden von der Vorsteherin oder dem Vorsteher des Finanzdepartementes befördert.
+<sup>3</sup> Die Vorsteherin oder der Vorsteher des Finanzdepartementes befördert die hauptamtlichen Mitarbeitenden des Amtes für Bevölkerungsschutz und Armee, welche der ZSO zugeteilt sind.
 
-<sup>4</sup> Die ZSO kann Schutzdienstpflichtige befördern, wenn sie die erforderliche Ausbildung erfolgreich absolviert haben. Die Dienststellenleiterin oder der Dienststellenleiter des Amtes für Bevölkerungsschutz und Armee genehmigt die Beförderungen[^3-1].
+<sup>4</sup> Die ZSO kann Schutzdienstpflichtige befördern, wenn sie die erforderliche Ausbildung erfolgreich absolviert haben. Die Dienststellenleiterin oder der Dienststellenleiter des Amtes für Bevölkerungsschutz und Armee genehmigt die Beförderungen.
 
 <sup>5</sup> Es besteht kein Rechtsanspruch auf eine Beförderung zu einem bestimmten Grad.
 
-[^3-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1069).
-
-### II. Einteilung, Ausbildung und Aufgebot
+## 2 Einteilung, Ausbildung und Aufgebot
 
 #### § 4
 
@@ -88,119 +77,135 @@ Amtsblatt 2016, S. 2013
 
 <sup>1</sup> Die Dienstpflicht und die Rekrutierung der Schutzdienstpflichtigen richten sich nach Bundesrecht.
 
-<sup>2</sup> Die ZSO entscheidet über a) die Verpflichtung, Kaderfunktionen zu übernehmen;
+<sup>2</sup> Das Amt für Bevölkerungsschutz und Armee entscheidet über:
 
+- a) die Verpflichtung, Kaderfunktionen zu übernehmen;
 - b) Gesuche für die Übernahme des freiwilligen Schutzdienstes;
-
 - c) Gesuche für die überörtliche Einteilung;
-
 - d) Gesuche für die vorzeitige Entlassung aus der Schutzdienstpflicht;
+- e) den Ausschluss aus der Schutzdienstpflicht;
+- f) die Einteilung der Schutzdienstpflichtigen in die Formationen;
+- g) die Einteilung von Auslandschweizern gemäss Art. 18 der Verordnung über den Zivilschutz (ZSV)[^4-1].
 
-- e) den Ausschluss aus der Schutzdienstpflicht.
+<sup>3</sup> Gesuche nach Abs. 2 lit. b–d sind schriftlich an das Amt für Bevölkerungsschutz und Armee zu richten.
 
-<sup>3</sup> Gesuche nach Abs. 2 lit. b – d sind schriftlich an die ZSO zu richten.
+[^4-1]: SR [520.11](http://db.clex.ch/link/Bund/520.11/de).
 
 #### § 5
 
 **Sicherheitsempfindliche Funktionen**
 
-Schutzdienstpflichtige können für die Ausübung sicherheitsempfindlicher Funktionen, insbesondere zugunsten der kantonalen Führungsorganisation (KFO), der Schaffhauser Polizei und der Zivilschutzstelle, mit ihrem Einverständnis einer Sicherheitsüberprüfung gemäss Art. 10 der Verordnung über die Personensicherheitsprüfungen unterzogen werden.
+<sup>1</sup> Schutzdienstpflichtige können für die Ausübung sicherheitsempfindlicher Funktionen, insbesondere zugunsten der kantonalen Führungsorganisation (KFO), der Schaffhauser Polizei und der Zivilschutzstelle, mit ihrem Einverständnis einer Sicherheitsüberprüfung gemäss Art. 10 der Verordnung über die Personensicherheitsprüfungen[^5-1] unterzogen werden.
+
+[^5-1]: SR [128.31](http://db.clex.ch/link/Bund/128.31/de).
 
 #### § 6
 
 **Ausbildungsdienste**
 
-<sup>1</sup> Die ZSO legt jährlich das Ausbildungsprogramm für das kommende Jahr fest. Dieses enthält Angaben über die Art und das Datum der Kurse. Es ist der Hauptabteilung Bevölkerungsschutz und Armee zur Genehmigung zu unterbreiten. Es ist der Dienststellenleiterin oder dem Dienststellenleiter des Amtes für Bevölkerungsschutz und Armee zur Genehmigung zu unterbreiten[^6-1] .
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee legt jährlich die Kursplanung für das kommende Jahr fest. Diese enthält Angaben über die Art und das Datum der Kurse.
 
-<sup>2</sup> Die Schutzdienstpflichtigen werden von der Zivilschutzstelle durch das öffentliche Aufgebotstableau und das persönliche Aufgebot zu den Ausbildungsdiensten aufgeboten.
+<sup>2</sup> Die Schutzdienstpflichtigen werden von der Zivilschutzstelle durch das öffentliche und das persönliche Aufgebot zu den Ausbildungsdiensten aufgeboten.
 
-<sup>3</sup> Das öffentliche Aufgebot wird spätestens Ende November des Vorjahres elektronisch auf der Internetseite des Kantons Schaffhausen aufgeschaltet. Die Angehörigen des Zivilschutzes haben sich frühzeitig über ihre Dienstpflicht durch das öffentliche Aufgebot zu informieren.
+<sup>3</sup> Das öffentliche Aufgebot wird spätestens Ende November des Vorjahres elektronisch auf der Internetseite des Kantons Schaffhausen publiziert. Die Angehörigen des Zivilschutzes haben sich frühzeitig über ihre Dienstpflicht durch das öffentliche Aufgebot zu informieren.
 
 <sup>4</sup> Das persönliche Aufgebot wird den Schutzdienstpflichtigen mindestens sechs Wochen vor Dienstbeginn schriftlich zugestellt. Schutzdienstpflichtige, die 14 Tage vor Beginn des Dienstes das persönliche Aufgebot noch nicht erhalten haben, melden dies unverzüglich der Zivilschutzstelle.
-
-[^6-1]: Eingefügt durch RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1069).
 
 #### § 7
 
 **Einsätze bei bevölkerungsschutzrelevanten Ereignissen**
 
-<sup>1</sup> Für die Anordnung von Einsätzen bei bevölkerungsschutzrelevanten Ereignissen ist die KFO oder die ZSO zuständig. Findet der Einsatz in einem anderen Kanton oder im grenznahen Ausland statt, ist vorgängig die Zustimmung des Regierungsrates einzuholen.
+<sup>1</sup> Für die Anordnung von Einsätzen der ZSO bei bevölkerungsschutzrelevanten Ereignissen ist die KFO oder das Amt für Bevölkerungsschutz und Armee zuständig. Das Finanzdepartement ist umgehend zu informieren.
 
-<sup>2</sup> Die Zivilschutzformationen sind über die Einsatzzentrale der Schaffhauser Polizei zu beantragen.
+<sup>1a</sup> Findet der Einsatz in einem anderen Kanton oder im grenznahen Ausland statt, ist vorgängig die Zustimmung des Regierungsrates einzuholen.
 
-<sup>3</sup> Die Frist und die Form des Aufgebotes der Schutzdienstpflichtigen richten sich nach der Art des Ereignisses.
+<sup>2</sup> Der Einsatz des Zivilschutzes ist über die ZSO, die KFO oder die Einsatzzentrale der Schaffhauser Polizei zu beantragen.
+
+<sup>3</sup> Die Frist und die Form des Aufgebotes der Schutzdienstpflichtigen richten sich nach der Art und der Dringlichkeit des Ereignisses.
 
 #### § 8
 
 **Einsätze zugunsten der Gemeinschaft**
 
-<sup>1</sup> Gesuche für Einsätze zugunsten der Gemeinschaft sind mindestens ein Jahr im Voraus der ZSO zuzustellen.
+<sup>1</sup> Gesuche für Einsätze zugunsten der Gemeinschaft sind mindestens zwei Jahre im Voraus dem Amt für Bevölkerungsschutz und Armee einzureichen. In begründeten Fällen kann es auf die Einhaltung dieser Frist verzichten.
 
-<sup>2</sup> Sie entscheidet nach Rücksprache mit dem Bund über die Bewilligung der Gesuche.
+<sup>2</sup> Das Amt für Bevölkerungsschutz und Armee entscheidet über die Bewilligung der Gesuche für Einsätze zugunsten der Gemeinschaft auf kantonaler, regionaler und kommunaler Ebene.
+
+<sup>3</sup> Über die Bewilligung von Gesuchen für Einsätze zugunsten der Gemeinschaft auf nationaler Ebene entscheidet der Bund.
 
 #### § 9
 
 **Dienstbetrieb**
 
-Das Amt für Bevölkerungsschutz und Armee erlässt zur Regelung des Dienstbetriebes ein Dienstreglement, welches die Rechte und Pflichten der Schutzdienstpflichtigen festlegt[^9-1]. Dieses ist dem Finanzdepartement zur Genehmigung zu unterbreiten.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee erlässt zur Regelung des Dienstbetriebes ein Dienstreglement, welches die Rechte und Pflichten der Schutzdienstpflichtigen festlegt. Dieses ist dem Finanzdepartement zur Genehmigung zu unterbreiten.
 
-[^9-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1069).
+#### § 9bis
+
+**Meldepflicht**
+
+<sup>1</sup> Zusätzlich zur Meldepflicht nach Art. 25 ZSV[^9bis-1] teilen die Schutzdienstpflichtigen innerhalb von zwei Wochen Änderungen ihrer Mobiltelefonnummer und E-Mailadresse der Zivilschutzstelle mit.
+
+[^9bis-1]: SR [520.11](http://db.clex.ch/link/Bund/520.11/de).
 
 #### § 10
 
-**Dienstverschiebung, Urlaub und Krankheit**
+**Dienstverschiebung**
 
-<sup>1</sup> Gesuche um Dienstverschiebung und Urlaube sind vom Schutzdienstpflichtigen der Zivilschutzstelle bis spätestens 10 Tage vor Dienstbeginn schriftlich einzureichen. Sie sind zu begründen, zu datieren und vom Schutzdienstpflichtigen zu unterzeichnen.
+<sup>1</sup> Gesuche um Dienstverschiebung hat die Schutzdienstpflichtige respektive der Schutzdienstpflichtige der aufbietenden Stelle bis spätestens drei Wochen vor Dienstbeginn schriftlich einzureichen. Sie respektive er hat das Gesuch unter Beilage sachdienlicher Unterlagen zu begründen, zu datieren und zu unterzeichnen.
 
-<sup>2</sup> Die Zivilschutzstelle entscheidet über das Gesuch. Ein Anspruch auf Verschiebung besteht nicht.
+<sup>2</sup> Die Zivilschutzstelle entscheidet über das Gesuch. Ein Anspruch auf Verschiebung besteht nicht. Solange das Gesuch nicht bewilligt ist, gilt die Einrückungspflicht weiter.
 
 <sup>3</sup> Schutzdienstpflichtige, deren Dienstleistung auf ihr Gesuch hin verschoben worden ist, haben keinen Anspruch auf Nachholung des Dienstes im gleichen Kalenderjahr.
 
-<sup>4</sup> Schutzdienstpflichtige, die aus gesundheitlichen Gründen nicht einrücken können, haben die Zivilschutzstelle unverzüglich zu orientieren und ihr innert fünf Tage unaufgefordert ein ärztliches Zeugnis sowie das Dienstbüchlein zuzustellen.
+<sup>4</sup> …
 
-### III. Material
+#### § 10bis
+
+**Urlaub**
+
+<sup>1</sup> Gesuche um Urlaub hat die Schutzdienstpflichtige respektive der Schutzdienstpflichtigen der aufbietenden Stelle bis spätestens 10 Tage vor Dienstbeginn schriftlich einzureichen. Sie respektive er hat das Gesuch unter Beilage sachdienlicher Unterlagen zu begründen, zu datieren und zu unterzeichnen.
+
+<sup>2</sup> Die Zivilschutzstelle entscheidet über das Gesuch. Ein Anspruch auf Urlaub besteht nicht.
+
+<sup>3</sup> Bei Dringlichkeit kann das Gesuch auch während des Dienstes eingereicht werden. Über das Gesuch entscheidet die Leiterin oder der Leiter des Dienstanlasses. Einem allfälligen Rechtsmittel wird die aufschiebende Wirkung entzogen.
+
+#### § 10ter
+
+**Krankheit und Unfall**
+
+<sup>1</sup> Schutzdienstpflichtige, die aus gesundheitlichen Gründen nicht einrücken können, haben die aufbietende Stelle unverzüglich zu informieren und dieser unaufgefordert innert fünf Tagen ein ärztliches Zeugnis einzureichen. Dieses hat sich zur Ursache (Krankheit, Unfall oder Schwangerschaft), zum Grad und zur voraussichtlichen Dauer der Dienstunfähigkeit zu äussern.
+
+## 3 Material
 
 #### § 11
 
 **Material der ZSO**
 
-<sup>1</sup> Die ZSO bestimmt Art und Umfang des Materials und hält dieses in einem Inventar fest. Sie kontrolliert periodisch dessen Lagerung und Zustand.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee bestimmt Art und Umfang des Materials, stellt dessen Einsatzbereitschaft sicher und hält dieses in einem Inventar fest.
 
-<sup>2</sup> Die Gemeinden und die Partnerorganisationen können von der ZSO Material ausleihen, solange die ZSO das Material selbst nicht benötigt.
-
-<sup>3</sup> Die Entlehner bezeichnen für das ausgeliehene Material eine verantwortliche Person. Sie lagern, unterhalten und verwalten das Material auf eigene Kosten.
+<sup>2–3</sup> …
 
 #### § 12
 
 **Persönliche Ausrüstung**
 
-<sup>1</sup> Die Schutzdienstpflichtigen erhalten eine persönliche Ausrüstung.
+<sup>1</sup> Die Schutzdienstpflichtigen erhalten leihweise eine persönliche Ausrüstung.
 
-<sup>2</sup> Sie geben die persönliche Ausrüstung bei ihrer Entlassung aus dem Zivilschutz oder beim Wegzug aus dem Kanton wieder ab.
+<sup>2</sup> Sie geben die persönliche Ausrüstung spätestens bei ihrer Entlassung aus der Schutzdienstpflicht oder beim Wegzug aus dem Kanton wieder ab.
 
-### IV. Schutzbauten
+## 4 Schutzbauten
 
 #### § 13
 
-**Ersatzbeiträge für Schutzbauten**
+**Ersatzbeiträge und Subventionen für Schutzräume**
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee legt die Ersatzbeiträge für Schutzbauten fest, zieht diese ein und verwaltet sie in einem kantonalen Ersatzabgabe-Fonds[^13-1]. Über die erhobenen Ersatzbeiträge und deren Verwendung wird eine Kontrolle geführt. Die Höhe der erhobenen Ersatzbeiträge wird jährlich veröffentlicht.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee legt die Ersatzbeiträge für Schutzräume fest, zieht diese ein und verwaltet sie in einem kantonalen Ersatzabgabe-Fonds. Die Ersatzabgabe wird bei Baubeginn fällig.
 
-<sup>2</sup> Die Ersatzbeiträge sind vom Amt für Bevölkerungsschutz und Armee nach den Vorgaben des Bundesrechts zweckgebunden zu verwenden für[^13-1]:
+<sup>1<sup>bis</sup></sup> Über die erhobenen Ersatzbeiträge und deren Verwendung wird eine Kontrolle geführt. Die Höhe der erhobenen Ersatzbeiträge wird jährlich veröffentlicht.
 
-- a) die Erstellung, die Ausrüstung, den Betrieb, den Unterhalt und die Werterhaltung von öffentlichen Schutzräumen;
+<sup>2</sup> Es verwendet die Ersatzbeiträge zweckgebunden nach den Vorgaben des Bundesrechts.
 
-- b) die Finanzierung zusätzlicher Schutzplätze, die in Schutzräumen privater und öffentlicher Bauherren erstellt werden;
-
-- c) die Deckung der Betriebs- und Unterhaltskosten der Schutzanlagen, soweit sie den jährlichen Pauschalbeitrag des Bundes übersteigen;
-
-- d) die Planung und Durchführung der periodischen Kontrollen der Schutzräume und Zivilschutzanlagen;
-
-- e) die Alarmierung der Bevölkerung;
-
-- f) weitere Massnahmen des Zivilschutzes, insbesondere im Bereich der Anschaffung von Material und Fahrzeugen, der Ausbildung, der Führungseinrichtungen und des Kulturgüterschutzes.
-
-[^13-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1069).
+<sup>3</sup> Die Gebühren, die einen Schutzraum betreffen, die Ersatzbeiträge pro Schutzplatz sowie die Subventionen pro zusätzlichem oder öffentlichem Schutzplatz ergeben sich aus dem Anhang.
 
 #### § 14
 
@@ -210,36 +215,117 @@ Das Amt für Bevölkerungsschutz und Armee erlässt zur Regelung des Dienstbetri
 
 <sup>2</sup> Eine dauerhafte Nutzung einer Schutzanlage durch die ZSO ist mittels Vereinbarung mit der Gemeinde zu regeln.
 
-<sup>3</sup> Die Schutzanlagen der Gemeinden dürfen nur soweit zivilschutzfremd genutzt werden, als sie rechtzeitig für die vorgesehene Nutzung betriebsbereit gemacht werden können. Eine zivilschutzfremde Nutzung von Schutzanlagen wird durch das Amt für Bevölkerungsschutz und Armee geprüft und bewilligt[^14-1].
+<sup>3</sup> Die Schutzanlagen der Gemeinden dürfen nur soweit zivilschutzfremd genutzt werden, als sie innerhalb von 5 Tagen für die vorgesehene Nutzung betriebsbereit gemacht werden können. Eine zivilschutzfremde Nutzung von Schutzanlagen bewilligt das Amt für Bevölkerungsschutz und Armee.
 
-[^14-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1069).
+## 4a Kulturgüterschutz
 
-### VI. Gebühren-, Straf- und Schlussbestimmungen
+#### § 14bis
+
+**Zuständigkeit**
+
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee vollzieht alle dem Kanton gemäss der Kulturgüterschutzgesetzgebung zufallenden Aufgaben, soweit diese nicht einer anderen Instanz übertragen sind.
+
+<sup>2</sup> Es führt eine Koordinationsstelle Kulturgüterschutz, die insbesondere zuständig ist für die:
+
+- a) Führung und Koordination der Aufgaben des Kantons nach dem Bundesgesetz über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen[^14bis-1];
+- b) Definition der Zielsetzungen und Jahresplanung;
+- c) Information der Partnerorganisationen, der Besitzerinnen und Besitzer sowie der Gemeinden;
+- d) Koordination der Ausbildung im Bereich des Kulturgüterschutzes;
+- e) Führung des Verzeichnisses der zu schützenden Kulturgüter von nationaler, regionaler und lokaler Bedeutung;
+- f) Beratung und Unterstützung von Besitzerinnen und Besitzern von Kulturgütern bei der Erstellung von Notfallplanungen in Absprache mit den Einsatzkräften;
+- g) Anordnung und Budgetierung von Sicherstellungsdokumentationen, Verlegungsplanungen sowie bauliche und andere geeignete Schutzmassnahmen für Kulturgüter, die im Eigentum des Kantons stehen;
+- h) Entscheide über Anträge von Besitzerinnen und Besitzern von Kulturgütern betreffend Unterstützungsbeiträge des Kantons für Schutzmassnahmen;
+- i) Führung eines Verzeichnisses der Sicherstellungsdokumentationen;
+- j) Kontrolle von Kulturgütern im Kanton und der getroffenen Schutzmassnahmen.
+
+[^14bis-1]: SR [520.3](http://db.clex.ch/link/Bund/520.3/de).
+
+#### § 14ter
+
+**KGS Kommission: 1. Zusammensetzung**
+
+<sup>1</sup> Für die strategische Ausrichtung und Weiterentwicklung setzt der Regierungsrat eine Kommission Kulturgüterschutz (KGS) mit Vertreterinnen und Vertretern aus den folgenden Bereichen ein:
+
+- a) Baudepartement (Amt für Denkmalpflege und Archäologie sowie Hochbauamt): 3 Mitglieder;
+- b) Finanzdepartement (Amt für Bevölkerungsschutz und Armee sowie Gebäudeversicherung des Kantons Schaffhausen): 2 Mitglieder;
+- c) Staatskanzlei (Staatsarchiv): 1 Mitglied;
+- d) Stadt Schaffhausen (Museum zu Allerheiligen und Stadtarchiv): 2 Mitglieder;
+- e) Stadt Stein am Rhein (Stadtarchiv): 1 Mitglied;
+- f) Verband der Gemeindepräsidentinnen und Gemeindepräsidenten des Kantons Schaffhausen: 2 Mitglieder;
+- g) Verband der Gemeindeschreiberinnen und Gemeindeschreiber des Kantons Schaffhausen: 1 Mitglied.
+
+<sup>2</sup> Der Regierungsrat kann weitere fachkundige Mitglieder ernennen.
+
+<sup>3</sup> Er wählt die Kommissionsmitglieder auf Vorschlag des Amtes für Bevölkerungsschutz und Armee jeweils für eine Amtsperiode von vier Jahren, wobei keine Amtszeitbeschränkung gilt.
+
+<sup>4</sup> Die Kommission konstituiert sich selbst.
+
+<sup>5</sup> Sie tritt jährlich zumindest einmal zusammen.
+
+#### § 14quater
+
+**KGS Kommission: 2. Zuständigkeit**
+
+<sup>1</sup> Die Kommission ist insbesondere zuständig für:
+
+- a) die Beratung des Regierungsrates betreffend Kulturgüterschutz;
+- b) die Festsetzung der Ziele des Kulturgüterschutzes;
+- c) den Antrag an das Amt für Bevölkerungsschutz und Armee zur Bestimmung der Objekte von lokaler Bedeutung (C-Objekte);
+- d) die Beratung im Bereich der Vorbeugung (Ausbildung und Einsatzplanung);
+- e) Stellungnahmen bei Vernehmlassungen in Sachen Kulturgüterschutz zu Handen des Amtes für Bevölkerungsschutz und Armee;
+- f) die fachliche Unterstützung der Koordinationsstelle Kulturgüterschutz.
+
+<sup>2</sup> Sie stützt sich für Bauten auf die rechtskräftigen Inventare und die behördenverbindlichen Verzeichnisse der Gemeinden nach Art. 6 des Gesetzes über den Natur- und Heimatschutz im Kanton Schaffhausen[^14quater-1].
+
+<sup>3</sup> Das Inventar der Kulturgüter von lokaler Bedeutung (C-Objekte) wird aufgrund eines Vorschlags der jeweils betroffenen Gemeinde und zusammen mit dieser erstellt. Das Inventar ist wenigstens alle zehn Jahre zu überprüfen und nachzuführen.
+
+[^14quater-1]: SHR [451.100](https://rechtsbuch.sh.ch/data/451.100/de).
+
+#### § 14quinquies
+
+**KGS Kommission: 3. Entschädigung**
+
+<sup>1</sup> Die Mitglieder der KGS Kommission haben Anspruch auf eine Entschädigung für ihre Tätigkeit, sofern sie nicht Arbeitnehmende des Kantons sind. Die Auszahlung erfolgt per Jahresende.
+
+<sup>2</sup> Die Entschädigung beträgt für die Vorbereitung und die Teilnahme an Sitzungen mit einer Dauer von bis zu vier Stunden Fr. 200.--, für jede weitere volle Stunde Fr. 50.--, insgesamt aber pro Sitzung höchstens Fr. 400.--.
+
+<sup>3</sup> Die Bearbeitung von Einzelaufträgen und Sonderaufgaben wird separat zu den dafür üblichen Ansätzen entschädigt.
+
+#### § 14sexies
+
+**Kantonsbeiträge**
+
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee entscheidet über Beitragsgesuche für Schutzmassnahmen von Kulturgütern.
+
+## 5 Gebühren
 
 #### § 15
 
 **Gebühren**
 
-Das Amt für Bevölkerungsschutz und Armee erlässt für die ZSO und den Bereich Schutzbauten eine Gebührenordnung für ihre Verwaltungshandlungen[^15-1]. Die Gebührenordnung ist dem Finanzdepartement zur Genehmigung zu unterbreiten.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee erlässt für die ZSO eine Gebührenordnung für ihre Verwaltungshandlungen, welche das Finanzdepartement zu genehmigen hat.
 
-[^15-1]: Fassung gemäss RRB vom 25. Juni 2019, in Kraft getreten am 1. Juli 2019 (Amtsblatt 2019, S. 1069).
+## 6 Strafbestimmungen
 
 #### § 16
 
 **Strafverfolgung**
 
-<sup>1</sup> Zuständig für die Strafverfolgung gemäss Art. 70 des Bevölkerungs- und Zivilschutzgesetzes[^16-1] sind die ordentlichen Strafverfolgungsbehörden gemäss der Strafprozessordnung[^16-2].
+<sup>1</sup> Zuständig für die Strafverfolgung gemäss Art. 90 des Bundesgesetzes über den Bevölkerungs- und Zivilschutzgesetzes[^16-1] sind die ordentlichen Strafverfolgungsbehörden gemäss der Schweizerischen Strafprozessordnung[^16-2] und dem Justizgesetz[^16-3].
 
-<sup>2</sup> Bei leichten Fällen kann die ZSO eine Verwarnung aussprechen.
+<sup>2</sup> In leichten Fällen kann das Amt für Bevölkerungsschutz und Armee eine Verwarnung aussprechen.
 
-[^16-1]: SR 520.1.
-[^16-2]: SR 312.0.
+[^16-1]: SR [520.1](http://db.clex.ch/link/Bund/520.1/de).
+[^16-2]: SR [312.0](http://db.clex.ch/link/Bund/312.0/de).
+[^16-3]: SHR [173.200](https://rechtsbuch.sh.ch/data/173.200/de).
+
+## 7 Schlussbestimmungen
 
 #### § 17
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieser Verordnung wird die Verordnung über den Zivilschutz (Kantonale Zivilschutzverordnung, KZSV) vom 16. Dezember 2003 aufgehoben.
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung wird die Verordnung über den Zivilschutz (Kantonale Zivilschutzverordnung, KZSV) vom 16. Dezember 2003 aufgehoben.
 
 #### § 18
 
@@ -249,6 +335,6 @@ Mit dem Inkrafttreten dieser Verordnung wird die Verordnung über den Zivilschut
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^18-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
-
 [^18-1]: Amtsblatt 2016, S. 2013.
+
+Abl. 2016, S. 2013
