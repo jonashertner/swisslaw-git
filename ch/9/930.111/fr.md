@@ -4,11 +4,11 @@ title: Ordonnance du 19 mai 2010 sur la sécurité des produits (OSPro)
 short: OSPro
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/348"
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-348-20220101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-348-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20220101/fr"
 
 (OSPro)
 
-du 19 mai 2010 (État le 1<sup>er</sup> janvier 2022)
+du 19 mai 2010 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu l’art. 4, al. 1, les art. 7, 9 et 14, al. 1, de la loi du 12 juin 2009 sur 
 
 arrête:
 
-[^ingress-1]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-2]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## Section 1 Objet
 
@@ -164,12 +164,12 @@ Les prescriptions de cette section s’appliquent:
 - f. aux équipements de protection individuelle (EPI) au sens de l’ordonnance du 25 octobre 2017 sur les EPI[^19-6];
 - g. aux autres produits, dans la mesure où ils n’entrent pas dans le champ d’application des prescriptions figurant aux let. a à f ou dans celui d’autres prescriptions fédérales.
 
-[^19-1]: [<sup>RS</sup> <sup>819.14</sup>](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^19-2]: **[**[RO 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 al. 1 ch. 6; [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)annexe 2 ch. 2; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 7; [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)ch. III. [RO 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)art. 9]. Voir actuellement l’O du 25 nov. 2015 ([RS 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
-[^19-3]: [RS 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^19-4]: [[RO 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 5; [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 6. [RO 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)art. 7 al. 1]. Voir actuellement l’O du 25 nov. 2016 ([RS 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
-[^19-5]: [[RO 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 6. [RO 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)art. 7]. Voir actuellement l’O du 25 nov. 2015 sur les récipients à pression ([RS 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
-[^19-6]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^19-1]: [<sup>RS</sup> <sup>819.14</sup>](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^19-2]: **[**[RO 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 al. 1 ch. 6; [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)annexe 2 ch. 2; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 7; [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)ch. III. [RO 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)art. 9]. Voir actuellement l’O du 25 nov. 2015 ([RS 930.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11024)).
+[^19-3]: [RS 930.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11028).Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^19-4]: [[RO 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 5; [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 6. [RO 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)art. 7 al. 1]. Voir actuellement l’O du 25 nov. 2016 ([RS 930.114](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11026)).
+[^19-5]: [[RO 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 6. [RO 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)art. 7]. Voir actuellement l’O du 25 nov. 2015 sur les récipients à pression ([RS 930.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11025)).
+[^19-6]: [RS 930.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11027). Le renvoi a été adapté au 21 avril 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 20
 
@@ -199,8 +199,8 @@ Sont chargés de contrôler l’application des prescriptions sur la mise sur le
 
 <sup>4</sup> Les organes de contrôle peuvent demander à l’Office fédéral de la douane et de la sécurité des frontières[^21-2] de leur fournir, pendant un temps déterminé, des renseignements sur les importations de produits bien définis.
 
-[^21-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^21-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^21-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^21-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -253,7 +253,7 @@ Ils ordonnent les mesures nécessaires selon l’art. 10, al. 3 et 4, LSPro si:
 
 La loi fédérale du 20 décembre 1968 sur la procédure administrative[^23-1] s’applique aussi aux organes de contrôle qui ne sont pas soumis au droit public.
 
-[^23-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^23-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24
 
@@ -302,11 +302,12 @@ Les émoluments suivants sont calculés en fonction du temps consacré:
 - a. les émoluments selon art. 27;
 - b. les émoluments pour la désignation et les contrôles d’organismes d’évaluation de la conformité selon les art. 24 à 33 OAccD[^28-1], qui se rapportent à des produits conformément à cette section.
 
-<sup>2</sup> Le taux horaire est de 200 francs.
+<sup>2</sup> Le taux horaire est de 300 francs.[^28-2]
 
 <sup>3</sup> Un supplément allant jusqu’à 50 % de l’émolument ordinaire peut être perçu pour les contrôles urgents ou qui doivent être effectués en dehors des horaires de travail normaux.
 
-[^28-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^28-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^28-2]: Nouvelle teneur selon le ch. I de l’O du 5 déc. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 815](https://fedlex.data.admin.ch/eli/oc/2025/815)).
 
 #### Art. 29
 
@@ -316,7 +317,7 @@ Les émoluments suivants sont calculés en fonction du temps consacré:
 
 <sup>2</sup> Les art. 2 et 6 à 14 de l’OGEmol s’appliquent par analogie aux contrôles et aux décisions des organes de contrôle en vertu de l’art. 20.
 
-[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [RS 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## Section 6 Dispositions finales
 

@@ -4,11 +4,11 @@ title: Verordnung vom 19. Mai 2010 über die Produktesicherheit (PrSV)
 short: PrSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/348"
 language: de
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2010-348-20220101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/348/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-348-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/348/20220101/de"
 
 (PrSV)
 
-vom 19. Mai 2010 (Stand am 1. Januar 2022)
+vom 19. Mai 2010 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf den Artikel 4 Absatz 1, die Artikel 7, 9 und 14 Absatz 1 des Bunde
 
 verordnet:
 
-[^ingress-1]: [SR 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
-[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^ingress-1]: [SR 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
+[^ingress-2]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -164,12 +164,12 @@ Die Vorschriften dieses Abschnitts gelten für:
 - f. persönliche Schutzausrüstungen (PSA) im Sinne der PSA-Verordnung vom 25. Oktober 2017[^19-6];
 - g. übrige Produkte, soweit diese nicht unter den Geltungsbereich der Vor-schriften nach den Buchstaben a–f oder anderer bundesrechtlicher Regelungen fallen.
 
-[^19-1]: [SR 819.14](https://fedlex.data.admin.ch/eli/cc/2008/263)
-[^19-2]: [[AS 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 6; [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 2; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 7; [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)Ziff. III. [AS 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)Art. 9]. Siehe heute: die V vom 25. Nov. 2015 über die Sicherheit von Aufzügen ([SR 930.112](https://fedlex.data.admin.ch/eli/cc/2016/26)).
-[^19-3]: [SR 930.116](https://fedlex.data.admin.ch/eli/cc/2017/636).Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 21. April 2018 angepasst.
-[^19-4]: [[AS 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 6. [AS 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)Art. 7 Abs. 1]. Siehe heute: die Druckgeräteverordnung vom 25. Nov. 2015 ([SR 930.114](https://fedlex.data.admin.ch/eli/cc/2016/28)).
-[^19-5]: [[AS 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 6. [AS 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)Art. 7]. Siehe heute: die Druckbehälterverordnung vom 25. Nov. 2015 ([SR 930.113](https://fedlex.data.admin.ch/eli/cc/2016/27)).
-[^19-6]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 21. April 2018 angepasst.
+[^19-1]: [SR 819.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9850)
+[^19-2]: [[AS 1999 1875](https://fedlex.data.admin.ch/eli/oc/1999/310); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 6; [2005 4265](https://fedlex.data.admin.ch/eli/oc/2005/558); [2008 1785](https://fedlex.data.admin.ch/eli/oc/2008/263)Anhang 2 Ziff. 2; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 7; [2011 1755](https://fedlex.data.admin.ch/eli/oc/2011/268)Ziff. III. [AS 2016 219](https://fedlex.data.admin.ch/eli/oc/2016/26)Art. 9]. Siehe heute: die V vom 25. Nov. 2015 über die Sicherheit von Aufzügen ([SR 930.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11024)).
+[^19-3]: [SR 930.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11028).Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 21. April 2018 angepasst.
+[^19-4]: [[AS 2003 38](https://fedlex.data.admin.ch/eli/oc/2003/7), [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 5, [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 6. [AS 2016 233](https://fedlex.data.admin.ch/eli/oc/2016/28)Art. 7 Abs. 1]. Siehe heute: die Druckgeräteverordnung vom 25. Nov. 2015 ([SR 930.114](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11026)).
+[^19-5]: [[AS 2003 107](https://fedlex.data.admin.ch/eli/oc/2003/8); [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 6. [AS 2016 227](https://fedlex.data.admin.ch/eli/oc/2016/27)Art. 7]. Siehe heute: die Druckbehälterverordnung vom 25. Nov. 2015 ([SR 930.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11025)).
+[^19-6]: [SR 930.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11027). Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 21. April 2018 angepasst.
 
 #### Art. 20
 
@@ -199,8 +199,8 @@ Die Kontrolle über die Einhaltung der Vorschriften über das Inverkehrbringen o
 
 <sup>4</sup> Die Kontrollorgane können vom Bundesamt für Zoll und Grenzsicherheit[^21-2] für eine beschränkte Dauer Meldungen über die Einfuhr genau bezeichneter Produkte verlangen.
 
-[^21-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^21-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^21-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^21-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 22
 
@@ -253,7 +253,7 @@ Sie ordnen die erforderlichen Massnahmen nach Artikel 10 Absätze 3 und 4 PrSG a
 
 Das Bundesgesetz vom 20. Dezember 1968[^23-1] über das Verwaltungsverfahren ist auch für Kontrollorgane, die nicht dem öffentlichen Recht unterstehen, anwendbar.
 
-[^23-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^23-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 24
 
@@ -302,11 +302,12 @@ Die folgenden Gebühren werden nach dem Zeitaufwand bemessen:
 - a. die Gebühren nach Artikel 27;
 - b. die Gebühren für die Bezeichnung und die Kontrollen von Konformitätsbewertungsstellen nach den Artikeln 24–33 AkkBV[^28-1], die sich auf Produkte nach diesem Abschnitt beziehen;
 
-<sup>2</sup> Der Stundenansatz beträgt 200 Franken.
+<sup>2</sup> Der Stundenansatz beträgt 300 Franken.[^28-2]
 
 <sup>3</sup> Für Kontrollen, die dringlich oder ausserhalb der normalen Arbeitszeit durchgeführt werden, können Zuschläge bis zu 50 Prozent der ordentlichen Gebühr erhoben werden.
 
-[^28-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^28-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^28-2]: Fassung gemäss Ziff. I der V vom 5. Dez. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 815](https://fedlex.data.admin.ch/eli/oc/2025/815)).
 
 #### Art. 29
 
@@ -316,7 +317,7 @@ Die folgenden Gebühren werden nach dem Zeitaufwand bemessen:
 
 <sup>2</sup> Für die Kontrollen und die Verfügungen der Kontrollorgane nach Artikel 20 gelten die Artikel 2 und 6–14 AllgGebV sinngemäss.
 
-[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
+[^29-1]: [SR 172.041.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5068)
 
 ## 6. Abschnitt: Schlussbestimmungen
 
