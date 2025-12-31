@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2025-06-01
+version: 2026-01-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20250601/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. Juni 2025)
+vom 20. Dezember 1982 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf Artikel 81 des Bundesgesetzes vom 6. Oktober 2000[^ingress-1] übe
 
 verordnet:
 
-[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
-[^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-3]: [[AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 66,[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)SchlB Art. 7 Ziff. 3, 2363 Anhang Ziff. 2, **1993** 3204, **1995** 1328 Anhang Ziff. 2 3517 Ziff. I 12 5679, **2000** 2355 Anhang Ziff. 28; **2003** 232; **2004** 1677 Anhang Ziff. 4, 2617 Anhang Ziff. 12. [AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Anhang Ziff. I 3]. Siehe heute das BG vom 17. Dez. 2004 ([SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)).
+[^ingress-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
+[^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-3]: [[AS 1978 1836](https://fedlex.data.admin.ch/eli/oc/1978/1836_1836_1836); [1988 414](https://fedlex.data.admin.ch/eli/oc/1988/414_414_414); [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)Anhang Ziff. 66,[733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733)SchlB Art. 7 Ziff. 3, 2363 Anhang Ziff. 2, **1993** 3204, **1995** 1328 Anhang Ziff. 2 3517 Ziff. I 12 5679, **2000** 2355 Anhang Ziff. 28; **2003** 232; **2004** 1677 Anhang Ziff. 4, 2617 Anhang Ziff. 12. [AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Anhang Ziff. I 3]. Siehe heute das BG vom 17. Dez. 2004 ([SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)).
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ## Erster Titel: Versicherte Personen
@@ -74,16 +74,16 @@ Nicht obligatorisch versichert sind:
 <sup>2</sup> …[^2-12]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
-[^2-2]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
+[^2-2]: [SR 836.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10273)
 [^2-3]: Aufgehoben durch Ziff. I der V vom 15. Dez. 1997, mit Wirkung seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
-[^2-5]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^2-5]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^2-6]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-7]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aufgehoben durch Ziff. I der V vom 9. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^2-8]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-9]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
 [^2-10]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2024 ([AS 2023 752](https://fedlex.data.admin.ch/eli/oc/2023/752)).
-[^2-11]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-11]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^2-12]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aufgehoben durch Anhang Ziff. 3 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, mit Wirkung seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 3
@@ -102,7 +102,7 @@ Nicht obligatorisch versichert sind:
 
 [^3-1]: Fassung gemäss Anhang Ziff. 16 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^3-3]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^3-3]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^3-4]: Fassung gemäss Anhang Ziff. 16 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 4
@@ -154,7 +154,7 @@ Nicht als Lohn gelten:
 - b. Vergütungen wie Gratifikationen, Weihnachtszulagen, Erfolgsbeteiligungen, Abgabe von Arbeitnehmeraktien, Tantiemen, Treueprämien und Dienstaltersgeschenke.
 
 [^7-1]: Fassung gemäss Art. 45 Ziff. 2 der V vom 24. Nov. 2004 zum Erwerbsersatzgesetz, in Kraft seit 1. Juli 2005 ([AS 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
-[^7-2]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^7-2]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 
 #### Art. 8
 
@@ -271,7 +271,7 @@ Der Versicherer leistet einen Beitrag an:
 - b. nichtmedizinische Hilfe zu Hause, soweit diese nicht durch die Hilflosenentschädigung nach Artikel 26 abgegolten ist.
 
 [^18-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^18-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^18-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 
 #### Art. 19
 
@@ -513,7 +513,7 @@ Die Komplementärrenten werden den veränderten Verhältnissen angepasst, wenn:
 [^33-2]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33-3]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^33-4]: Eingefügt durch Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^33-5]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33-5]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 #### Art. 33a
 
@@ -545,7 +545,7 @@ Erleidet der Bezüger einer Invalidenrente der Unfallversicherung einen weiteren
 [^33b-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^33b-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^33b-3]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^33b-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^33b-4]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^33b-5]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^33b-6]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
@@ -710,7 +710,7 @@ Beim Wiederaufleben einer Rente sind die Teuerungszulagen gleich hoch, wie wenn 
 
 <sup>3</sup> Bei einem späteren Unfall gilt eine ausgekaufte Rente für die Berechnung einer Komplementärrente als fortbestehend.
 
-[^46-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^46-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^46-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 
 ### 3. Kapitel: Kürzung und Verweigerung von Versicherungsleistungen aus besonderen Gründen
@@ -817,7 +817,7 @@ Für die Meldung von Unfällen und Berufskrankheiten stellen die Versicherer une
 [^53-2]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^53-3]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^53-4]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^53-5]: [SR 837.02](https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205)
+[^53-5]: [SR 837.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10284)
 [^53-6]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 
 #### Art. 54
@@ -841,7 +841,7 @@ Der Versicherer kann bei der zuständigen Behörde die erforderlichen Auskünfte
 Der Arbeitgeber, die zuständige Stelle der Arbeitslosenversicherung oder die zuständige Durchführungsstelle der Invalidenversicherung nach Artikel 53 Absatz 1 IVG[^56-2] muss dem Versicherer alle erforderlichen Auskünfte erteilen, die Unterlagen zur Verfügung halten, die für die Klärung des Unfallsachverhaltes benötigt werden, und den Beauftragten des Versicherers freien Zutritt zum Betrieb gewähren.
 
 [^56-1]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^56-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^56-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 57
 
@@ -970,7 +970,7 @@ Hat ein Anspruchsberechtigter keine oder niedrigere Leistungen bezogen als ihm z
 Die Artikel 44 und 46–54 der Verordnung vom 27. Juni 1995[^69-2] über die Krankenversicherung gelten auch für die Zulassung der Chiropraktoren, der Personen, die auf ärztliche Anordnung hin Leistungen erbringen und der Organisationen, die solche Personen beschäftigen (medizinische Hilfspersonen) sowie der Laboratorien in der Unfallversicherung.[^69-3] Das EDI[^69-4] kann weitere medizinische Hilfspersonen bezeichnen, die innerhalb der kantonalen Bewilligung für die Unfallversicherung tätig sein können.
 
 [^69-1]: Fassung gemäss Anhang Ziff. 4 der V vom 27. Juni 1995 über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^69-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^69-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^69-3]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^69-4]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -1013,7 +1013,7 @@ Für die Ausgestaltung der Tarife sind sinngemäss anwendbar:
 <sup>2</sup> Die Tarife sind nach betriebswirtschaftlichen Kriterien zu bemessen, und es ist eine sachgerechte Struktur der Tarife zu beachten. Der Tarif darf höchstens die transparent ausgewiesenen Kosten der Leistung und die für eine effiziente Leistungserbringung erforderlichen Kosten decken.
 
 [^70-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^70-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^70-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 70a
 
@@ -1022,7 +1022,7 @@ Für die Ausgestaltung der Tarife sind sinngemäss anwendbar:
 Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung ist für die in Artikel 56 Absatz 1 UVG genannten Spitäler und Kuranstalten sinngemäss anwendbar. Die fachlich zuständigen Stellen des Bundes, der Verein Medizinaltarif-Kommission UVG und die Tarifpartner sind berechtigt, die Unterlagen einzusehen.
 
 [^70a-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^70a-2]: [SR 832.104](https://fedlex.data.admin.ch/eli/cc/2002/418)
+[^70a-2]: [SR 832.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10142)
 
 #### Art. 70b
 
@@ -1035,7 +1035,7 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 <sup>3</sup> Für die Datenbekanntgabe nach Artikel 56 Absatz 3<sup>bis</sup> UVG, die Übermittlung der Daten, die Sicherheit und die Aufbewahrung der Daten sind die Artikel 59*f*, 59*g* und 59*i* der Verordnung vom 27. Juni 1995[^70b-2] über die Krankenversicherung (KVV) sinngemäss anwendbar.[^70b-3]
 
 [^70b-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^70b-2]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^70b-2]: [SR 832.102](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10135)
 [^70b-3]: Eingefügt durch Anhang Ziff. 3 der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 70c
@@ -1063,7 +1063,7 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 <sup>3</sup> Das EDI kann für die Vergütung der zur Heilung dienlichen Mittel und Gegenstände einen Tarif aufstellen.
 
 [^71-1]: Aufgehoben durch Ziff. I der V vom 9. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^71-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^71-2]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^71-3]: Fassung gemäss Anhang Ziff. 4 der V vom 27. Juni 1995 über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
 
 ## Fünfter Titel: Organisation
@@ -1081,7 +1081,7 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 <sup>2</sup> Die Arbeitgeber, die zuständigen Stellen der Arbeitslosenversicherung und die Durchführungsstellen der Invalidenversicherung nach Artikel 53 Absatz 1 IVG sind verpflichtet, die Informationen an die Arbeitnehmer oder Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes weiterzugeben und insbesondere über die Möglichkeit der Abredeversicherung zu informieren.
 
 [^72-1]: Fassung gemäss Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^72-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^72-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 72a
 
@@ -1092,8 +1092,8 @@ Die Verordnung vom 3. Juli 2002[^70a-2] über die Kostenermittlung und die Leist
 <sup>2</sup> Sind für diese Auskünfte besondere Nachforschungen oder andere Arbeiten nötig, die Kosten verursachen, so kann in sinngemässer Anwendung von Artikel 16 der Verordnung vom 10. September 1969[^72a-2] über Kosten und Entschädigungen im Verwaltungsverfahren eine Gebühr erhoben werden. Vorbehalten bleibt Artikel 19 der Datenschutzverordnung vom 31. August 2022[^72a-3].[^72a-4]
 
 [^72a-1]: Eingefügt durch Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
-[^72a-2]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
-[^72a-3]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^72a-2]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
+[^72a-3]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
 [^72a-4]: Fassung des zweiten Satzes gemäss Anhang 2 Ziff. II 120 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ### 2. Abschnitt: Schweizerische Unfallversicherungsanstalt
@@ -1290,7 +1290,7 @@ Das Gesuch um Registrierung muss schriftlich und in drei Exemplaren eingereicht 
 
 [^90-1]: Ausdruck gemäss Ziff. I Abs. 3 der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^90-2]: Fassung gemäss Anhang Ziff. 4 der V vom 27. Juni 1995 über die Krankenversicherung, in Kraft seit 1. Jan. 1996 ([AS 1995 3867](https://fedlex.data.admin.ch/eli/oc/1995/3867_3867_3867)).
-[^90-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^90-3]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 [^90-4]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 91
@@ -1321,7 +1321,7 @@ Die Wahl einer Krankenkasse schliesst die Wahl des Versicherers ein, mit dem die
 
 Die Ersatzkasse ordnet im Reglement die Beitragspflicht der einzelnen Versicherer. Sie setzt die Höhe der Beiträge der Versicherer jährlich fest. Ist ein Versicherer mit den für ihn festgesetzten Beiträgen nicht einverstanden, so erlässt die Ersatzkasse eine Verfügung nach Artikel 5 des Bundesgesetz vom 20. Dezember 1968[^94-1] über das Verwaltungsverfahren.[^94-2]
 
-[^94-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^94-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^94-2]: Fassung des letzten Satzes gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 #### Art. 95
@@ -1338,7 +1338,7 @@ Die Ersatzkasse ordnet im Reglement die Beitragspflicht der einzelnen Versichere
 
 **Aufgaben der Ersatzkasse bei Grossereignissen**[^95a-1]
 
-<sup>1</sup> Bei Grossereignissen legt die Ersatzkasse die Prämienzuschläge nach Artikel 90 Absatz 4 UVG einheitlich für alle Versicherer nach Artikel 68 UVG jährlich in Promillen des versicherten Verdiensts pro Versicherungszweig so fest, dass die laufenden Kosten gemäss den Meldungen der einzelnen Versicherer zum geschätzten Gesamtschadenaufwand und die erbrachten Zahlungen nach Artikel 78 UVG voraussichtlich gedeckt werden können. Der Gesamtschadenaufwand wird nach anerkannten aktuariellen Grundsätzen geschätzt. Die Teuerungszulagen und die Anpassung der Hilflosenentschädigungen infolge Erhöhung des höchstversicherten Verdienstes werden nicht berücksichtigt.
+<sup>1</sup> Bei Grossereignissen legt die Ersatzkasse die Prämienzuschläge nach Artikel 90 Absatz 4 UVG einheitlich für alle Versicherer nach Artikel 68 UVG jährlich in Promillen des versicherten Verdiensts pro Versicherungszweig so fest, dass die laufenden Kosten gemäss den Meldungen der einzelnen Versicherer zum geschätzten Gesamtschadenaufwand und die erbrachten Zahlungen nach Artikel 78 UVG abzüglich der zu erwartenden Regressansprüche voraussichtlich gedeckt werden können. Der Gesamtschadenaufwand wird nach anerkannten aktuariellen Grundsätzen geschätzt. Die Teuerungszulagen und die Anpassung der Hilflosenentschädigungen infolge Erhöhung des höchstversicherten Verdienstes werden nicht berücksichtigt.[^95a-2]
 
 <sup>2</sup> Der Ausgleichsfonds vergütet den Versicherern den vom Grossereignis verursachten Aufwand für die Schäden und die Schadenbearbeitung, der die Schwelle für ein Grossereignis nach Artikel 78 Absatz 1 UVG übersteigt. Die Schwelle wird für Berufsunfälle und für Nichtberufsunfälle separat berechnet.
 
@@ -1346,9 +1346,13 @@ Die Ersatzkasse ordnet im Reglement die Beitragspflicht der einzelnen Versichere
 
 <sup>4</sup> Die Ersatzkasse kann die Forderungen der Versicherer abschliessend abgelten, bevor alle Unfallschäden vollständig abgewickelt sind. Bei einer Auflösung des Ausgleichsfonds werden die verbliebenen Mittel für Berufsunfälle den versicherten Betrieben und für Nichtberufsunfälle ihren Angestellten durch Reduktionen der Nettoprämien zurückerstattet.
 
+<sup>4bis</sup> Für die abschliessende Abgeltung der Forderungen kann die Ersatzkasse zusätzlich zu den Prämienzuschlägen nach Absatz 1 finale Prämienzuschläge festlegen. Sie legt diese so fest, dass die zu erwartenden verbleibenden Kosten, die durch Unfallschäden verursacht wurden, abzüglich der zu erwartenden Regressansprüche voraussichtlich gedeckt werden können. Die Schätzung dieser Kosten basiert auf den Meldungen der Versicherer und den Statistiken über alle Schadensfälle des betroffenen Versicherungszweiges.[^95a-3]
+
 <sup>5</sup> Die Ersatzkasse führt eine aggregierte Fondsrechnung. Sie regelt die Organisation des Ausgleichsfonds und die Einzelheiten der Durchführung der Finanzierung in einem Reglement.
 
 [^95a-1]: Eingefügt durch Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
+[^95a-2]: Fassung gemäss Ziff. I der V vom 12. Sept. 2025, in Kraft seit 1. Jan. 2026 (AS **20****25** 599).
+[^95a-3]: Eingefügt durch Ziff. I der V vom 12. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 599](https://fedlex.data.admin.ch/eli/oc/2025/599)).
 
 #### Art. 96
 
@@ -1493,8 +1497,8 @@ Zur Beschaffung versicherungstechnischer Grundlagen sind insbesondere Statistike
 
 [^105-1]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^105-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
-[^105-3]: [SR 431.835](https://fedlex.data.admin.ch/eli/cc/1994/1908_1908_1908)
-[^105-4]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^105-3]: [SR 431.835](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7025)
+[^105-4]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^105-5]: Fassung gemäss Anhang 3 Ziff. 21 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 ### 2. Abschnitt: Aufgaben der Kantone
@@ -1562,8 +1566,8 @@ Für jedes Rechnungsjahr sind zu erstellen:
 <sup>4</sup> Die Suva stellt ihre finanzielle Sicherheit in einem jährlichen Bericht an den Bundesrat dar. Der Bericht legt insbesondere die vorhandenen anrechenbaren Eigenmittel der Suva und die erforderlichen Eigenmittel offen. Letztere werden mit Hilfe eines Modells zur Quantifizierung der relevanten Risiken und Szenarien für zukünftige Entwicklungen so festgelegt, dass bei einem voraussichtlichen Jahrhundertverlust die Forderungen gedeckt werden können. Die vorhandenen anrechenbaren Eigenmittel müssen höher als die erforderlichen Eigenmittel sein.
 
 [^111-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^111-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^111-3]: [SR 832.121](https://fedlex.data.admin.ch/eli/cc/2015/840)
+[^111-2]: [SR 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
+[^111-3]: [SR 832.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10162)
 
 #### Art. 112
 
@@ -1639,7 +1643,7 @@ Die Prämien werden auf dem versicherten Verdienst im Sinne von Artikel 22 Absä
 [^115-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^115-3]: Eingefügt durch Ziff. I der V vom 21. Okt. 1987 ([AS 1987 1498](https://fedlex.data.admin.ch/eli/oc/1987/1498_1498_1498)). Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^115-4]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Fassung gemäss Art. 45 Ziff. 2 der V vom 24. Nov. 2004 zum Erwerbsersatzgesetz, in Kraft seit 1. Juli 2005 ([AS 2005 1251](https://fedlex.data.admin.ch/eli/oc/2005/187)).
-[^115-5]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
+[^115-5]: [SR 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
 [^115-6]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^115-7]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^115-8]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
@@ -1699,9 +1703,9 @@ Die Prämien werden auf dem versicherten Verdienst im Sinne von Artikel 22 Absä
 <sup>2</sup> Die kantonalen Ausgleichskassen können mit den bei ihnen angeschlossenen Arbeitgebern und den Versicherern verabreden, gegen angemessene Vergütung die Prämien zusammen mit den Beträgen der AHV zu erheben. Für Verbandsausgleichskassen gelten die Artikel 131 und 132 der Verordnung vom 31. Oktober 1947[^118-4] über die AHV.
 
 [^118-1]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^118-2]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
+[^118-2]: [SR 822.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9926)
 [^118-3]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^118-4]: [SR 831.101](https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185)
+[^118-4]: [SR 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
 #### Art. 119
 
@@ -1776,7 +1780,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 
 [^125-1]: Fassung gemäss Ziff. I der V vom 22. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 2913](https://fedlex.data.admin.ch/eli/oc/2000/511)).
 [^125-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
-[^125-3]: [SR 172.041.0](https://fedlex.data.admin.ch/eli/cc/1969/760_780_777)
+[^125-3]: [SR 172.041.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5066)
 [^125-4]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
 ### 2. Kapitel: Verhältnis zu anderen Sozialversicherungszweigen
@@ -1797,7 +1801,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 
 <sup>6</sup> …[^126-3]
 
-[^126-1]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^126-1]: [SR 833.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10252)
 [^126-2]: Fassung gemäss Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^126-3]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2002, mit Wirkung seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 
@@ -1834,7 +1838,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 <sup>3</sup> Bei einem Unfall im Rahmen eines Programms zur vorübergehenden Beschäftigung oder eines Berufspraktikums entspricht das Taggeld demjenigen, das der versicherten Person ohne Programm zur vorübergehenden Beschäftigung oder Berufspraktikum ausgerichtet würde.
 
 [^129-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^129-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^129-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 130
 
@@ -1851,7 +1855,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 <sup>5</sup> Bei Teilarbeitslosigkeit gelten die Absätze 1–4 sinngemäss.
 
 [^130-1]: Fassung gemäss Ziff. I der V vom 9. Nov. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^130-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^130-2]: [SR 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
 
 #### Art. 131
 
@@ -1900,7 +1904,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 <sup>4</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes erbringt die Unfallversicherung die ganze Leistung unabhängig von der Höhe des Grades der Arbeitsunfähigkeit, bis die Massnahme der Invalidenversicherung wiederaufgenommen wird oder aus medizinischer Sicht wiederaufgenommen werden könnte. Die Unfallversicherung bestimmt in Rücksprache mit der Durchführungsstelle der Invalidenversicherung den Zeitpunkt, in dem die Massnahme der Invalidenversicherung wiederaufgenommen werden könnte.
 
 [^132a-1]: Eingefügt durch Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^132a-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^132a-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 132b
 
@@ -1913,7 +1917,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 <sup>3</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die eine Rente der Invalidenversicherung beziehen, reduziert sich der versicherte Verdienst nach Absatz 2 um den Prozentsatz des Invaliditätsgrads nach Artikel 28*a* IVG[^132b-2]. Wurde im Sinne von Artikel 15 Absatz 2 des Gesetzes ein höherer Verdienst erzielt, gilt dieser versicherte Verdienst als Grundlage für die Bemessung der Rente.
 
 [^132b-1]: Eingefügt durch Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
-[^132b-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^132b-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 132c
 
@@ -1955,9 +1959,9 @@ Die Prämien werden festgesetzt in Promillen:
 
 <sup>3</sup> Der Versicherer kann in begründeten Fällen, namentlich bei bestehenden erheblichen und dauernden Gesundheitsschädigungen sowie bei Vorliegen einer besonderen Gefährdung im Sinne von Artikel 78 Absatz 2 der Verordnung vom 19. Dezember 1983[^134-3] über die Unfallverhütung, den Abschluss der Versicherung ablehnen.[^134-4]
 
-[^134-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^134-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^134-2]: Fassung gemäss Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
-[^134-3]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
+[^134-3]: [SR 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
 [^134-4]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 135
@@ -2029,7 +2033,7 @@ In der freiwilligen Versicherung werden Teuerungszulagen nur so weit gewährt, a
 
 <sup>2</sup> Das BAG ist berechtigt, gegen Entscheide der kantonalen Schiedsgerichte, der kantonalen Versicherungsgerichte und des Bundesverwaltungsgerichts Beschwerde beim Bundesgericht zu erheben.
 
-[^140a-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^140a-1]: [SR 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Elfter Titel: Schlussbestimmungen
 
@@ -2141,7 +2145,7 @@ Das in Buchstabe a Buchstaben a–d der Übergangsbestimmungen der Änderung vom
 
 [^147c-1]: Eingefügt durch Anhang Ziff. 9 der V vom 30. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 506](https://fedlex.data.admin.ch/eli/oc/2023/506)).
 [^147c-2]: [AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92)
-[^147c-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^147c-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### 4. Kapitel: Inkrafttreten
 
@@ -2159,7 +2163,7 @@ Diese Verordnung tritt am 1. Januar 1984 in Kraft.
 
 <sup>2</sup> Werden laufende Renten der AHV oder der IV nach den Übergangsbestimmungen der 10. AHV-Revision[^u1-2] durch Altersrenten oder Invalidenrenten nach neuem Recht ersetzt, so erfolgt keine Neuberechnung der Komplementärrenten.
 
-[^u1-2]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^u1-2]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 Anhang 1[^t-1]
 
@@ -2221,7 +2225,7 @@ Anhang 2[^t-2]
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2232,7 +2236,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2245,7 +2249,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20250601/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20260101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>
