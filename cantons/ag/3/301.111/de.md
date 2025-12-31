@@ -4,13 +4,12 @@ number: "301.111"
 title: Verordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2025-07-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2025-04-02
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3815/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3851/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3815/pdf_file"
 
 (GesV)
 
-Vom 11.11.2009 (Stand 01.07.2025)
+Vom 11.11.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -466,6 +465,8 @@ beschliesst:
 - c) Normansatz.
 
 <sup>3</sup> Beauftragt ein Leistungserbringer einen anderen Leistungserbringer zur Erbringung gewisser Ausbildungsleistungen, so werden nur dem Auftraggeber die entsprechenden Ausbildungspunkte angerechnet. Entsprechende Vereinbarungen und deren Änderungen sind schriftlich abzuschliessen und dem Departement Gesundheit und Soziales unverzüglich einzureichen.
+
+<sup>4</sup> Die Definition und Festlegung der nicht formalisierten Ausbildungsleistung (nfA) richtet sich nach Anhang 4.
 
 #### § 29d
 
