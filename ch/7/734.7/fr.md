@@ -4,11 +4,11 @@ title: "Loi du 23 mars 2007 sur l'approvisionnement en électricité (LApEl)"
 short: LApEl
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/418"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2007-03-23
 in_force: 2007-07-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20250101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-418-20260101-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/418/20250101/fr"
 
 (LApEl)
 
-du 23 mars 2007 (État le 1<sup>er</sup> janvier 2025)
+du 23 mars 2007 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -365,11 +365,13 @@ Les principes suivants s’appliquent aux installations solaires et éoliennes d
 
 <sup>1</sup> Chaque gestionnaire de réseau fixe les principes qui sont appliqués à la planification du réseau.
 
-<sup>2</sup> Lorsqu’il fixe ces principes, il doit notamment tenir compte du fait que, en règle générale, une extension de réseau ne pourra être prévue que si une optimisation ou un renforcement ne suffisent pas à garantir un réseau sûr, performant et efficace pendant toute la durée de l’horizon de planification.
+<sup>2</sup> Lorsqu’il fixe ces principes, le gestionnaire de réseau tient notamment compte du fait que, en règle générale, une extension de réseau ne peut être prévue que si une optimisation, y compris le recours à la flexibilité, ou un renforcement ne suffisent pas à garantir un réseau sûr, performant et efficace pendant toute la durée de l’horizon de planification.[^9b-1]
 
 <sup>3</sup> L’ElCom peut définir les exigences minimales à respecter.
 
 <sup>4</sup> Le Conseil fédéral peut obliger les gestionnaires de réseau à publier leurs principes.
+
+[^9b-1]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 9c
 
@@ -444,7 +446,7 @@ Les gestionnaires de réseau rendent facilement accessibles les informations né
 
 - a. les tarifs d’utilisation du réseau;
 - b. les tarifs de l’électricité;
-- c. …
+- c. les tarifs de mesure;
 - d. le montant annuel de la rémunération pour l’utilisation du réseau;
 - e. les exigences techniques et d’exploitation minimales pour le raccordement au réseau;
 - f. les bases de calcul des éventuelles contributions aux coûts de réseau;
@@ -456,7 +458,7 @@ Les factures adressées aux consommateurs finaux doivent être transparentes et 
 
 - a. le montant facturé pour l’électricité;
 - b. la rémunération pour l’utilisation du réseau;
-- c. …
+- c. le montant facturé pour le mesurage;
 - d. les redevances et les prestations fournies à des collectivités publiques;
 - e. le supplément perçu sur le réseau visé à l’art. 35 LEne[^12-2];
 - f. les coûts liés à la réserve d’énergie selon l’art. 8*b*;
@@ -492,32 +494,36 @@ L’accès au réseau peut être refusé, motivation écrite à l’appui, dans 
 
 #### Art. 14
 
-**Rémunération pour l’utilisation du réseau**
+**Rémunération pour l’utilisation du réseau et tarifs d’utilisation du réseau[^14-1]**
 
-<sup>1</sup> La rémunération pour l’utilisation du réseau ne doit pas dépasser la somme des coûts imputables et des redevances et prestations fournies à des collectivités publiques.
+<sup>1</sup> La rémunération pour l’utilisation du réseau ne doit pas dépasser la somme des coûts imputables et des redevances et prestations fournies à des collectivités publiques. Les différences de couverture doivent être compensées dans les meilleurs délais.[^14-2]
 
 <sup>2</sup> La rémunération pour l’utilisation du réseau doit être versée par les consommateurs finaux par point de prélèvement.
 
 <sup>3</sup>
 
-Les tarifs d’utilisation du réseau doivent:
+Elle est perçue sur la base des tarifs d’utilisation du réseau. Ces derniers sont fixés pour une année par les gestionnaires de réseau et doivent:[^14-3]
 
-- a. présenter des structures simples et refléter les coûts occasionnés par les consommateurs finaux;
+- a.[^14-4] présenter des structures compréhensibles et refléter les coûts occasionnés par les consommateurs finaux;
 - b. être fixés indépendamment de la distance entre le point d’injection et le point de prélèvement;
-- c.[^14-1] se baser sur le profil de soutirage et être uniformes par niveau de tension et par catégorie de clients pour le réseau d’un même gestionnaire;
-- d.[^14-2] …
-- e.[^14-3] tenir compte d’une infrastructure de réseau et d’une utilisation de l’électricité efficaces.
+- c.[^14-5] se baser sur le profil de soutirage et être uniformes par niveau de tension et par catégorie de clients pour le réseau d’un même gestionnaire;
+- d.[^14-6] …
+- e.[^14-7] tenir compte d’une infrastructure de réseau et d’une utilisation de l’électricité efficaces et créer des incitations pour une exploitation du réseau stable et sûre.
 
-<sup>3bis</sup> La rémunération pour l’utilisation du réseau ne peut pas inclure les coûts facturés individuellement par les gestionnaires de réseau.[^14-4]
+<sup>3bis</sup> Les tarifs d’utilisation du réseau ne peuvent pas inclure les coûts facturés individuellement par les gestionnaires de réseau.[^14-8]
 
 <sup>4</sup> Les cantons prennent des mesures propres à réduire les différences disproportionnées entre les tarifs d’utilisation du réseau pratiqués sur leur territoire. Si ces mesures ne suffisent pas, le Conseil fédéral en prend d’autres. Il peut en particulier prévoir l’institution d’un fonds de compensation auquel tous les gestionnaires de réseau sont tenus de participer. L’efficacité de l’exploitation du réseau ne doit pas être compromise. Si des gestionnaires de réseau fusionnent, un délai transitoire de cinq ans est prévu pour adapter les tarifs.
 
 <sup>5</sup> Les prestations découlant des concessions hydrauliques en vigueur, notamment la fourniture d’énergie, ne sont pas touchées par les dispositions sur la rémunération pour l’utilisation du réseau.
 
-[^14-1]: Nouvelle teneur selon l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^14-2]: Abrogée par le ch. I de la LF du 12 déc. 2014, avec effet au 1<sup>er</sup> juin 2015 ([RO 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [FF 2014 3833](https://fedlex.data.admin.ch/eli/fga/2014/926)[3843](https://fedlex.data.admin.ch/eli/fga/2014/928)).
-[^14-3]: Nouvelle teneur selon l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
-[^14-4]: Introduit par le ch. I de la LF du 12 déc. 2014, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [FF 2014 3833](https://fedlex.data.admin.ch/eli/fga/2014/926)[3843](https://fedlex.data.admin.ch/eli/fga/2014/928)).
+[^14-1]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14-2]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14-3]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14-4]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14-5]: Nouvelle teneur selon l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)).
+[^14-6]: Abrogée par le ch. I de la LF du 12 déc. 2014, avec effet au 1<sup>er</sup> juin 2015 ([RO 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [FF 2014 3833](https://fedlex.data.admin.ch/eli/fga/2014/926)[3843](https://fedlex.data.admin.ch/eli/fga/2014/928)).
+[^14-7]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^14-8]: Introduit par le ch. I de la LF du 12 déc. 2014 ([RO 2015 1309](https://fedlex.data.admin.ch/eli/oc/2015/272); [FF 2014 3833](https://fedlex.data.admin.ch/eli/fga/2014/926)[3843](https://fedlex.data.admin.ch/eli/fga/2014/928)). Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 14<sup>bis</sup>
 
@@ -600,16 +606,22 @@ Par analogie avec l’al 1, aucune rémunération n’est due pour l’utilisati
 - b. pour faire fonctionner les pompes des centrales de pompage-turbinage et que la quantité d’électricité ainsi produite est à nouveau injectée dans le réseau à 50 Hz, ou
 - c. pour des raisons d’efficacité, du réseau 50 Hz au lieu de la centrale de pompage-turbinage elle-même, à condition que cela permette d’éviter un pompage et un turbinage simultanés dans cette centrale.
 
-<sup>4</sup> …
+<sup>4</sup>
+
+Dans les cas suivants, les gestionnaires de réseau remboursent, sur demande et au maximum au tarif déterminant au moment du soutirage, la rémunération pour l’utilisation du réseau aux exploitants des installations concernées:
+
+- a. pour les installations de stockage avec consommation finale: un remboursement correspondant à la quantité d’électricité qui est réinjectée après soutirage du réseau et stockage;
+- b. pour les installations transformant l’électricité en hydrogène, gaz ou carburants synthétiques: un remboursement correspondant à la quantité d’électricité réinjectée dans le réseau après reconversion en courant;
+- c. pour les installations transformant l’électricité en hydrogène, gaz, combustibles ou carburants synthétiques: un remboursement correspondant à la quantité d’électricité soutirée du réseau pour la transformer en ces substrats chimiques qui peuvent être stockés; ce droit est limité aux installations pilotes et de démonstration exploitées avec de l’électricité provenant d’énergies renouvelables, dont la puissance totale ne dépasse pas 200 MW.
 
 <sup>5</sup>
 
 Le Conseil fédéral peut:
 
-- a. …
+- a. mettre à la charge des exploitants des installations les coûts des mesures nécessaires pour faire la preuve des quantités d’électricité visées à l’al. 4;
 - b. régler d’autres modalités de l’interaction entre les réseaux à 50 Hz et à 16,7 Hz.
 
-<sup>6</sup> …
+<sup>6</sup> Il arrête en outre la réglementation nécessaire concernant le remboursement aux installations pilotes et de démonstration (al. 4, let. c) et en limite la durée de manière que seules soient concernées les installations qui profitent déjà du remboursement au 31 décembre 2034.
 
 [^14a-1]: Introduit par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve des al. 4, 5, let. a, et 6, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
@@ -617,7 +629,7 @@ Le Conseil fédéral peut:
 
 **Coûts de réseau imputables**
 
-<sup>1</sup> Les coûts de réseau imputables englobent les coûts d’exploitation et les coûts de capital d’un réseau sûr, performant et efficace ainsi que, à titre exceptionnel, les coûts de mesures novatrices pour des réseaux intelligents dans la mesure où ils présentent les fonctionnalités déterminées par le Conseil fédéral. Ils comprennent un bénéfice d’exploitation approprié.[^15-1]
+<sup>1</sup> On entend par coûts de réseau imputables les coûts d’exploitation et les coûts de capital d’un réseau sûr, performant et efficace.[^15-1]
 
 <sup>2</sup>
 
@@ -625,23 +637,24 @@ On entend par coûts d’exploitation les coûts des prestations directement li�
 
 - a.[^15-2] les coûts des services-système et les coûts liés à la réserve d’énergie;
 - b. les coûts de l’entretien des réseaux;
-- c. les indemnités accordées pour l’octroi de droits et de servitudes en lien avec l’exploitation du réseau.[^15-3]
+- c. les indemnités accordées pour l’octroi de droits et de servitudes en lien avec l’exploitation du réseau;
+- d.[^15-3] les coûts d’utilisation de la flexibilité.[^15-4]
 
 <sup>3</sup>
 
 Les coûts de capital doivent être déterminés sur la base des coûts initiaux d’achat ou de construction des installations existantes. Sont seuls imputables en tant que coûts de capital:
 
 - a. les amortissements comptables;
-- b. les intérêts calculés sur les valeurs patrimoniales nécessaires à l’exploitation des réseaux.
+- b.[^15-5] les intérêts calculés sur les valeurs patrimoniales nécessaires à l’exploitation des réseaux, y compris un bénéfice d’exploitation approprié.
 
 <sup>3bis</sup>
 
-Le Conseil fédéral définit les conditions et l’étendue de l’imputablité ainsi que l’attribution aux coûts d’exploitation et de capital pour:
+Le Conseil fédéral règle le traitement des différences de couverture résultant de périodes tarifaires antérieures, en particulier si elles portent intérêt et, le cas échéant, à combien celui-ci se monte, et les délais applicables à leur compensation. Il règle également les conditions et l’étendue de l’imputabilité ainsi que l’attribution des coûts suivants aux coûts d’exploitation et de capital:[^15-6]
 
-- a. les coûts des systèmes de mesure, de commande et de réglage intelligents, y compris certains coûts de sensibilisation dans le domaine de la réduction de la consommation;
-- b. les coûts des mesures d’information nécessaires et spécifiques au projet prises par le gestionnaire de réseau dans le cas des projets soumis à approbation selon l’art. 16 de la loi du 24 juin 1902 sur les installations électriques[^15-4];
+- a.[^15-7] les coûts des systèmes de commande et de réglage intelligents;
+- b. les coûts des mesures d’information nécessaires et spécifiques au projet prises par le gestionnaire de réseau dans le cas des projets soumis à approbation selon l’art. 16 de la loi du 24 juin 1902 sur les installations électriques[^15-8];
 - c. les émoluments versés par le gestionnaire de réseau en vertu de l’art. 3*a*, al. 2, de la loi sur les installations électriques;
-- d. les coûts des mesures novatrices selon l’al. 1.[^15-5]
+- d.[^15-9] les coûts des mesures innovantes concernant les réseaux intelligents dotés de fonctions spécifiques; ces coûts ne sont qu’exceptionnellement imputables.[^15-10]
 
 <sup>4</sup>
 
@@ -650,11 +663,16 @@ Le Conseil fédéral fixe:
 - a. les bases de calcul des coûts d’exploitation et de capital;
 - b. les principes régissant la répercussion des coûts ainsi que des redevances et des prestations fournies à des collectivités publiques de manière uniforme et conforme au principe de l’origine des coûts, en tenant compte de l’injection d’électricité à des niveaux de tension inférieurs.
 
-[^15-1]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15-1]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 [^15-2]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^15-3]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^15-4]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
-[^15-5]: Introduit par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15-3]: Introduite par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-4]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^15-5]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-6]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-7]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-8]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^15-9]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-10]: Introduit par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 15a
 
@@ -751,33 +769,57 @@ Les recettes provenant de procédures d’attribution axées sur les règles du 
 [^17-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> oct. 2017 ([RO 2017 4999](https://fedlex.data.admin.ch/eli/oc/2017/537); [FF 2016 8081](https://fedlex.data.admin.ch/eli/fga/2016/1952)[8103](https://fedlex.data.admin.ch/eli/fga/2016/1954)).
 [^17-2]: Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
-### Section 2*a* Systèmes de mesure et de commande
+### Section 2*a* Systèmes de mesure
 
 [^chap3-sec2a-1]
 
-[^chap3-sec2a-1]: Introduite par l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^chap3-sec2a-1]: Introduite par l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 17a
 
+**Responsabilité, tarifs et rémunération du mesurage**
+
+<sup>1</sup> Les gestionnaires de réseau sont responsables des systèmes de mesure dans leur zone de desserte.
+
+<sup>2</sup> Ils fixent des tarifs de mesure conformes au principe de causalité.
+
+<sup>3</sup> Sur la base de ces tarifs, ils perçoivent la rémunération au titre de la mesure par point de mesure. Cette rémunération ne doit pas dépasser les coûts de mesure imputables. Les différences de couverture doivent être compensées dans les meilleurs délais.
+
+<sup>4</sup> On entend par coûts imputables les coûts d’exploitation et de capital générés par une mesure efficace et fiable auprès des consommateurs finaux, des producteurs et des gestionnaires d’installations de stockage; les coûts de capital incluent un bénéfice d’exploitation approprié.
+
+<sup>5</sup> Le Conseil fédéral fixe les bases de calcul des coûts imputables pour la mesure. Il peut fixer des plafonds pour les tarifs et définir les conditions auxquelles les différences de couverture résultant de périodes tarifaires antérieures portent intérêt.
+
+#### Art. 17a<sup>bis</sup>
+
 **Systèmes de mesure intelligents**
 
-<sup>1</sup> Un système de mesure intelligent installé chez le consommateur final, le producteur ou l’agent de stockage est une installation de mesure servant à enregistrer l’énergie électrique qui permet une transmission bidirectionnelle des données et qui enregistre le flux d’énergie effectif et sa variation en temps réel.
+<sup>1</sup> Un système de mesure intelligent installé chez le consommateur final, le producteur ou le gestionnaire d’installation de stockage est une installation de mesure servant à enregistrer l’énergie électrique qui permet une transmission bidirectionnelle des données et qui enregistre le flux d’énergie effectif et sa variation au fil du temps.
 
-<sup>2</sup> Le Conseil fédéral peut édicter des prescriptions concernant l’introduction de tels systèmes de mesure intelligents. Il tient compte à cet égard des normes internationales et des recommandations des organisations spécialisées reconnues. Il peut notamment obliger les exploitants de réseau à faire procéder à l’installation de systèmes de mesure intelligents jusqu’à une date déterminée chez tous les consommateurs finaux, les producteurs et les agents de stockage ou chez certaines catégories d’entre eux.
+<sup>2</sup> Le Conseil fédéral peut édicter des prescriptions concernant l’introduction de tels systèmes de mesure intelligents. Il tient compte à cet égard des normes internationales et des recommandations des organisations spécialisées reconnues. Il prévoit l’obligation, pour les gestionnaires de réseau, de procéder, à partir d’une date déterminée, à l’installation de systèmes de mesure intelligents chez tous les consommateurs finaux, les producteurs et les gestionnaires d’installations de stockage ou chez certaines catégories d’entre eux.
 
-<sup>3</sup>
+<sup>3</sup> Les gestionnaires de réseau doivent équiper d’un système de mesure intelligent les participants à un groupement pour la consommation propre ou à une communauté électrique locale ainsi que les gestionnaires d’installations de stockage qui en font la demande. Le Conseil fédéral fixe un délai raisonnable de quelques mois pour cet équipement, indépendamment des dispositions d’exécution du droit antérieur.
 
-En tenant compte de la législation fédérale concernant la métrologie, le Conseil fédéral peut définir les exigences techniques minimales auxquelles les systèmes de mesure intelligents doivent répondre et les autres caractéristiques, équipements et fonctions complémentaires qu’ils doivent présenter, notamment par rapport:
+<sup>4</sup>
 
-- a. à la transmission des données de mesure;
-- b. au support des systèmes tarifaires;
-- c. au support d’autres services et applications.
+En tenant compte de la législation fédérale concernant la métrologie, le Conseil fédéral peut définir les exigences techniques minimales auxquelles les systèmes de mesure intelligents doivent répondre et les autres caractéristiques, équipements et fonctions complémentaires qu’ils doivent présenter, notamment en ce qui concerne:
 
-### Section 2*b* …
+- a. la transmission des données de mesure, y compris la consultation de ses propres données de mesure et de leur qualité;
+- b. le support des systèmes tarifaires;
+- c. le support d’autres services et applications.
+
+<sup>5</sup> Le Conseil fédéral prévoit au moins que les consommateurs finaux disposent à partir de l’introduction des systèmes de mesure intelligents d’un aperçu numérique convivial de leurs valeurs de courbe de charge, d’une comparaison avec les consommateurs finaux comparables et avec la consommation au cours des années précédentes ainsi que d’indications sur les potentiels d’économie.
+
+<sup>6</sup> Les consommateurs finaux, les producteurs et les gestionnaires d’installations de stockage doivent pouvoir consulter leurs données de mesure au moment de leur saisie dans un format conforme au standard international via une interface sur le système de mesure intelligent.
+
+<sup>7</sup> Si le système de mesure intelligent mis en place par le gestionnaire de réseau ne leur permet pas de consulter leurs données de mesure sous la forme prescrite par la loi, ils ont le droit de compléter le système de mesure par un compteur d’électricité supplémentaire, aux frais du gestionnaire de réseau, à hauteur d’un plafond fixé par le Conseil fédéral. Ces coûts ne sont pas des coûts de mesure imputables du gestionnaire de réseau.
+
+<sup>8</sup> L’ajout d’un compteur nécessite une autorisation de l’ElCom. Celle-ci fixe au préalable un délai de 30 jours au gestionnaire de réseau pour remédier aux défauts existants.
+
+### Section 2*b* Systèmes de commande et de réglage, flexibilité
 
 [^chap3-sec2b-1]
 
-[^chap3-sec2b-1]: Entre en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^chap3-sec2b-1]: Introduit par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 17b
 
@@ -801,23 +843,70 @@ Le Conseil fédéral peut édicter des prescriptions concernant l’utilisation 
 
 #### Art. 17c
 
-**Protection des données**[^17c-1]
+**Utilisation de la flexibilité**[^17c-1]
 
-<sup>1</sup> La loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^17c-2] s’applique au traitement de données personnelles en lien avec des systèmes de mesure, de commande ou de réglage intelligents. La LPD s’applique par analogie aux traitements de données concernant des personnes morales.[^17c-3]
+<sup>1</sup> La flexibilité découlant de la gestion du soutirage, du stockage et de l’injection de l’électricité, appartient au consommateur final, au producteur et au gestionnaire d’installation de stockage concernés (détenteurs de flexibilité). Quiconque veut utiliser cette flexibilité peut y avoir accès par contrat.
 
-<sup>2</sup> Le Conseil fédéral édicte les dispositions d’exécution concernant le traitement des données. Il peut prévoir des dispositions particulières, notamment en relation avec les mesures de la courbe de charge.
+<sup>2</sup> Les gestionnaires d’un réseau de distribution peuvent utiliser la flexibilité au service du réseau dans leur zone de desserte. Ils concluent avec les détenteurs de flexibilité des contrats non discriminatoires, incluant leur rétribution.
 
-[^17c-1]: Introduit par l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
-[^17c-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
-[^17c-3]: Nouvelle teneur selon l’annexe 1 ch. II 59 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+<sup>3</sup> Les gestionnaires d’un réseau de distribution peuvent, en dérogation à l’art. 17*b*, al. 3, recourir aux flexibilités existantes lorsqu’ils utilisent des systèmes de commande et de réglage intelligents, tant que les détenteurs de flexibilité ne s’y opposent pas. Le Conseil fédéral détermine la manière dont les gestionnaires d’un réseau de distribution doivent informer les détenteurs de la flexibilité de l’utilisation de ces systèmes ainsi que les modalités de leur interdiction. S’il s’avère que les possibilités d’accès des gestionnaires d’un réseau de distribution ainsi que leur utilisation effective de la flexibilité conduisent à ce que le potentiel d’autres types d’utilisations de la flexibilité soit peu exploité, le Conseil fédéral peut prévoir des mesures visant à mieux exploiter ce potentiel. Ces mesures peuvent être prises au détriment des gestionnaires d’un réseau de distribution et consister notamment en une limitation des dérogations à l’art. 17*b*, al. 3, ou en l’introduction de formes de commercialisation appropriées pour la flexibilité. Le Conseil fédéral présente chaque année un rapport à ce sujet.
 
-### Section 2*c* …
+<sup>4</sup>
 
-#### Art. 17d et 17e
+Les gestionnaires d’un réseau de distribution peuvent, dans leur zone de desserte, recourir à la flexibilité au service du réseau pour les utilisations garanties suivantes:
 
-[^17d17e-1]
+- a. ajustement d’une part déterminée de l’injection au point de raccordement;
+- b. utilisation en cas de menace immédiate et importante pour la sécurité de l’exploitation du réseau.
 
-[^17d17e-1]: Entrent en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+<sup>5</sup> Le recours aux utilisations garanties leur est assuré même si elles vont à l’encontre de droits d’utilisation détenus par des tiers ou si le détenteur de flexibilité s’y oppose. Les gestionnaires d’un réseau de distribution informent chaque année l’ElCom des utilisations effectuées conformément à l’al. 4, let. b.
+
+<sup>6</sup> Le Conseil fédéral fixe les modalités relatives aux al. 3 à 5.
+
+[^17c-1]: Introduit par l’annexe ch. II 9 de la L du 30 sept. 2016 sur l’énergie ([RO 2017 6839](https://fedlex.data.admin.ch/eli/oc/2017/762); [FF 2013 6771](https://fedlex.data.admin.ch/eli/fga/2013/1476)). Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+### Section 2*c* Communautés électriques locales
+
+[^chap3-sec2c-1]
+
+[^chap3-sec2c-1]: Introduite par le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+
+#### Art. 17d
+
+**Constitution de communautés électriques locales**
+
+<sup>1</sup> Les consommateurs finaux, les producteurs d’électricité issue des énergies renouvelables et les gestionnaires d’installations de stockage peuvent se regrouper dans le cadre d’une communauté électrique locale et commercialiser au sein de cette communauté l’électricité qu’ils ont eux-mêmes produite.
+
+<sup>2</sup>
+
+Les participants doivent:
+
+- a. être raccordés au réseau d’électricité dans la même zone de desserte, au même niveau de réseau et être proches localement;
+- b. être tous équipés d’un système de mesure intelligent, et
+- c. présenter ensemble un volume minimum fixé par le Conseil fédéral pour la production d’électricité par rapport à la puissance de raccordement.
+
+<sup>3</sup> Le Conseil fédéral détermine l’étendue géographique autorisée d’une communauté électrique locale et, ce faisant, la proximité géographique requise des membres. L’étendue ne peut excéder le territoire d’une commune.
+
+<sup>4</sup> Le gestionnaire du réseau de distribution équipe chaque participant à une communauté électrique locale d’un système de mesure intelligent.
+
+<sup>5</sup> Les participants à la communauté électrique locale règlent entre eux leur relation, notamment les modalités de leur approvisionnement provenant de l’électricité produite par la communauté. Ils nomment une personne qui les représente auprès du gestionnaire de réseau de distribution.
+
+<sup>6</sup> Le Conseil fédéral règle les modalités, notamment concernant les relations des participants entre eux et la répartition des coûts administratifs et des coûts de distribution entre le gestionnaire du réseau de distribution, la communauté électrique locale et les participants.
+
+#### Art. 17e
+
+**Approvisionnement de la communauté, utilisation du réseau et rémunération**
+
+<sup>1</sup> L’électricité produite par la communauté électrique locale peut être librement commercialisée au sein de celle-ci. Le réseau de distribution peut être utilisé à cette fin.
+
+<sup>2</sup> Pour couvrir les besoins en électricité restants, les consommateurs finaux ayant droit à l’accès au réseau peuvent exercer ce droit de manière indépendante. Les besoins en électricité restants des consommateurs captifs et des consommateurs finaux qui ne font pas usage de leur droit d’accès au réseau sont couverts dans l’approvisionnement de base.
+
+<sup>3</sup> Pour l’utilisation du réseau de distribution, les membres d’une communauté électrique locale peuvent prétendre à un tarif d’utilisation du réseau réduit assorti d’une réduction pour le soutirage d’électricité autoproduite. Cette réduction s’élève au maximum à 60 % du tarif usuel. Le Conseil fédéral en fixe le montant sur la base des différentes configurations topologiques des communautés électriques locales, de sorte que ce montant diminue plus le nombre de niveaux de réseau impliqués dans la configuration concernée est élevé.
+
+<sup>4</sup> La rémunération pour l’utilisation du réseau et la rémunération pour la fourniture d’électricité dans l’approvisionnement de base sont dues au gestionnaire de réseau de distribution par les différents consommateurs finaux.
+
+<sup>5</sup> Aux fins de facturation, le gestionnaire de réseau de distribution détermine la part que représentent l’électricité autoproduite commercialisée dans le périmètre de la communauté électrique locale en utilisant le réseau de distribution et le reste de l’électricité fournie à la communauté. Sur cette base, il détermine les montants dus par chacun des consommateurs finaux pour leur prélèvement respectif. Ces derniers peuvent convenir d’une répartition différente des coûts dans leurs rapports internes.
+
+<sup>6</sup> À la demande du gestionnaire de réseau de distribution ou de la communauté électrique locale, la facture, ventilée en fonction de l’électricité fournie aux différents consommateurs finaux, est adressée à la communauté, que ce soit pour l’utilisation du réseau ou pour la fourniture d’électricité dans l’approvisionnement de base. Les consommateurs finaux restent les débiteurs du gestionnaire de réseau.
 
 ### Section 2*d* Échange de données et plateforme
 
@@ -1049,12 +1138,20 @@ La société nationale a notamment les tâches suivantes:
 Elle a, en cas de litige ou d’office, notamment les tâches suivantes:
 
 - a. statuer sur l’accès au réseau et sur les conditions d’utilisation du réseau; elle peut accorder l’accès au réseau à titre provisionnel;
-- b. à d.[^22-1] …
+- b. vérifier les tarifs et la rémunération pour l’utilisation du réseau et pour la fourniture d’électricité dans l’approvisionnement de base ainsi que les tarifs de mesure et la rémunération perçue au titre de la mesure visés à l’art. 17*a*, al. 2 et 3; les redevances et les prestations fournies à des collectivités publiques sont réservées; l’ElCom peut ordonner une réduction des tarifs ou interdire l’augmentation de ceux-ci;
+- c. statuer sur l’autorisation des indemnisations visées à l’art. 15*b*, al. 3, l’ajout d’un compteur visé à l’art. 17*a*<sup>bis</sup>, al. 8, et l’utilisation des recettes visées à l’art. 17, al. 5;
+- d.
+
+  prendre les décisions suivantes concernant l’utilisation de la flexibilité au service du réseau:
+
+  - 1\. statuer sur les utilisations garanties,
+  - 2\. adapter les rémunérations abusives;
+
 - e. ordonner si nécessaire, par voie de décision, en relation avec des mesures en cas de menace pour la sécurité de l’exploitation du réseau de transport (art. 20*a*), la conclusion d’une convention entre les différentes parties, dont elle fixe la teneur minimale; l’ElCom statue en outre sur la recevabilité et les coûts des mesures ordonnées et des mesures de substitution décrétées en cas de non-respect des mesures ordonnées;
 - f. prendre les décisions concernant la réserve d’énergie (art. 8*b*), notamment prononcer des sanctions ou ordonner d’autres mesures;
-- g. contrôler les coûts et les rémunérations de l’exploitant de la plateforme visé à l’art. 17*h*, al. 1, pour la création et l’exploitation de la plateforme, son indépendance et la limitation de ses activités aux tâches prévues.[^22-2]
+- g. contrôler les coûts et les rémunérations de l’exploitant de la plateforme visé à l’art. 17*h*, al. 1, pour la création et l’exploitation de la plateforme, son indépendance et la limitation de ses activités aux tâches prévues.[^22-1]
 
-<sup>2bis</sup> L’ElCom examine le plan pluriannuel soumis par la société nationale du réseau de transport et se prononce en particulier sur la nécessité des projets présentés. Elle communique par écrit à ladite société le résultat de son examen dans un délai de neuf mois après le dépôt du plan.[^22-3]
+<sup>2bis</sup> L’ElCom examine le plan pluriannuel soumis par la société nationale du réseau de transport et se prononce en particulier sur la nécessité des projets présentés. Elle communique par écrit à ladite société le résultat de son examen dans un délai de neuf mois après le dépôt du plan.[^22-2]
 
 <sup>3</sup> L’ElCom observe et surveille l’évolution des marchés de l’électricité en vue d’assurer un approvisionnement sûr et abordable dans toutes les régions du pays. À cet effet, elle vérifie notamment l’état et l’entretien du réseau de transport ainsi que l’adéquation régionale des investissements de la société nationale du réseau de transport.
 
@@ -1064,9 +1161,8 @@ Elle a, en cas de litige ou d’office, notamment les tâches suivantes:
 
 <sup>6</sup> L’ElCom informe le public sur son activité et présente un rapport d’activité annuel au Conseil fédéral.
 
-[^22-1]: Jusqu’au 31 déc. 2025, l’ancienne version de l’art. 22, al. 2, let. b et c s’applique (RO **2007** 3425): <sup>2</sup> L’ElCom est notamment compétente pour: b. vérifier d’office les tarifs et la rémunération pour l’utilisation du réseau ainsi que les tarifs de l’électricité; les redevances et les prestations fournies à des collectivités publiques sont réservées; elle peut ordonner une réduction ou interdire une augmentation; c. statuer sur l’utilisation des recettes au sens de l’art. 17, al. 5.
-[^22-2]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve des let. b à d, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679), [789](https://fedlex.data.admin.ch/eli/oc/2024/789); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
-[^22-3]: Introduit par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
+[^22-1]: Nouvelle teneur selon le ch. I 2 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2025, sous réserve des let. b à d, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^22-2]: Introduit par le ch. I 2 de la LF du 15 déc. 2017 sur la transformation et l’extension des réseaux électriques, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2019 1349](https://fedlex.data.admin.ch/eli/oc/2019/264); [FF 2016 3679](https://fedlex.data.admin.ch/eli/fga/2016/785)).
 
 #### Art. 22a
 
