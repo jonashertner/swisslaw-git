@@ -3,18 +3,18 @@ sr: "412.101.220.14"
 title: "Ordonnance du SEFRI du 21 août 2020 sur la formation professionnelle initiale d'assistante socio-éducative / assistant socio-éducatif avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/678"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2020-08-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-678-20240401-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-678-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’assistante socio-éducative / assistant socio-éducatif avec certificat fédéral de capacité (CFC)
 
-du 21 août 2020 (État le 1<sup>er</sup> avril 2024)
+du 21 août 2020 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>94308</td><td>Assistante socio-éducative CFC / assistant socio-éducatif CFC</td></tr>
@@ -32,10 +32,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet, orientations et durée
 
@@ -202,7 +202,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -229,7 +229,7 @@ Dans le cadre d’une formation initiale en école, la formation à la pratique 
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1600 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
-<tr><th colspan="2">Enseignement</th><th colspan="2">1<sup><sup>re</sup></sup> année</th><th colspan="2">2<sup><sup>e</sup></sup> année</th><th colspan="2">3<sup><sup>e</sup></sup> année</th><th>Total</th></tr>
+<tr><th colspan="2">Enseignement</th><th colspan="2">1<sup>re</sup> année</th><th colspan="2">2<sup>e</sup> année</th><th colspan="2">3<sup>e</sup> année</th><th>Total</th></tr>
 <tr><td colspan="2">a. Connaissances professionnelles</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">– Mise en œuvre de compétences transversales</td><td colspan="2">60</td><td colspan="2">120</td><td colspan="2">60</td><td>240</td></tr>
 <tr><td colspan="2">– Accompagnement au quotidien</td><td colspan="2">200</td><td colspan="2">40</td><td colspan="2"></td><td>240</td></tr>
@@ -244,13 +244,14 @@ Dans le cadre d’une formation initiale en école, la formation à la pratique 
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -420,11 +421,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>2</td><td>Gestes adéquats dans des situations d’accompagnement spécifiques Soutien à l’éducation et au développement, maintien et amélioration de la qualité de vie</td><td>60 min</td><td></td><td>30 %</td></tr>
 </table>
 
-- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-1].
+- c. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^17-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^17-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 18
 
@@ -525,7 +527,7 @@ Elle est notamment chargée des tâches suivantes:
 
 **Organe responsable et organisation des cours interentreprises**
 
-<sup>1</sup> Les organes responsables des cours interentreprises sont les organisations du monde du travail cantonales et régionales «Ortra social» ou «Ortra santé-social»;
+<sup>1</sup> Les organes responsables des cours interentreprises sont les organisations du monde du travail cantonales et régionales «Ortra social» ou «Ortra santé-social».
 
 <sup>2</sup> Les cantons peuvent, en concertation avec les organisations du monde du travail compétentes, confier l’organisation des cours interentreprises à une autre institution, notamment si la qualité ou l’organisation de ces cours ne peuvent plus être assurées.
 
