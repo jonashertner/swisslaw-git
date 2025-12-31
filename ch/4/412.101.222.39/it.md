@@ -3,18 +3,18 @@ sr: "412.101.222.39"
 title: Ordinanza della SEFRI del 28 ottobre 2022 sulla formazione professionale di base Sviluppatrice business digitale / Sviluppatore business digitale con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/674"
 language: it
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2022-10-28
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/674/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-674-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/674/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/674/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-674-20260101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/674/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Sviluppatrice business digitale / Sviluppatore business digitale con attestato federale di capacità (AFC)
 
-del 28 ottobre 2022 (Stato 1° gennaio 2023)
+del 28 ottobre 2022 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>69201</td><td>Sviluppatrice business digitale AFC / Sviluppatore business digitale AFC Entwicklerin digitales Business EFZ / Entwickler digitales Business EFZ Developpeuse de business numérique CFC / Developpeur de business numérique CFC</td></tr>
@@ -26,8 +26,8 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Oggetto e durata
 
@@ -169,13 +169,14 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 
 <sup>3</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>4</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>4</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^7-2].
 
 <sup>5</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>6</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -332,13 +333,16 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>3</td><td>Presentazione e colloquio professionale</td><td>30 %</td></tr>
 </table>
 
-- 5\. la presentazione e il colloquio professionale durano complessivamente un’ora;
+-
 
-- b. il campo di qualificazione «cultura generale» è esaminato secondo l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+  - 5\. la presentazione e il colloquio professionale durano complessivamente un’ora;
+
+- b. il campo di qualificazione «cultura generale» è esaminato secondo l’ordinanza della SEFRI del 9 aprile 2025[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^18-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 19
 

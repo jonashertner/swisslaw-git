@@ -3,18 +3,18 @@ sr: "412.101.222.39"
 title: Ordonnance du SEFRI du 28 octobre 2022 sur la formation professionnelle initiale de développeuse de business numérique / développeur de business numérique avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/674"
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2022-10-28
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/674/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-674-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/674/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/674/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-674-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/674/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de développeuse de business numérique / développeur de business numérique avec certificat fédéral de capacité (CFC)
 
-du 28 octobre 2022 (État le 1<sup>er</sup> janvier 2023)
+du 28 octobre 2022 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>69201</td><td>Développeuse de business numérique CFC / Développeur de business numérique CFC Entwicklerin digitales Business EFZ / Entwickler digitales Business EFZ Sviluppatrice business digitale AFC / Sviluppatore business digitale AFC</td></tr>
@@ -26,8 +26,8 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet et durée
 
@@ -169,13 +169,14 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 
 <sup>3</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>4</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>4</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>5</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>6</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -332,13 +333,16 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>3</td><td>Présentation et entretien professionnel</td><td>30 %</td></tr>
 </table>
 
-- 5\. la présentation et l’entretien professionnel durent 1 heure au total.
+-
 
-- b. le domaine de qualification «culture générale» est évalué conformément aux dispositions de l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+  - 5\. la présentation et l’entretien professionnel durent 1 heure au total.
+
+- b. le domaine de qualification «culture générale» est évalué conformément aux dispositions de l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
