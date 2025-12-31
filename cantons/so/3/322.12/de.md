@@ -3,20 +3,19 @@ canton: SO
 number: "322.12"
 title: Verordnung über die Jugendstrafrechtspflege
 language: de
-version: 2011-02-01
-valid_until: 2025-12-31
-version_adopted: 2010-11-09
+version: 2026-01-01
+version_adopted: 2024-12-17
 adopted: 1992-03-24
 in_force: 1992-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/322.12"
-pdf: "https://bgs.so.ch/api/de/versions/3335/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5515/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Jugendstrafrechtspflege
 
-Vom 24.03.1992 (Stand 01.02.2011)
+Vom 24.03.1992 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -173,9 +172,25 @@ beschliesst:
 
 #### § 18
 
-**Aufbewahrung**
+**Aufbewahrung bei der Jugendanwaltschaft**
 
-<sup>1</sup> Wenn die beschuldigte Person das 25. Altersjahr erreicht hat, sind die Akten und die Registratur zu vernichten, wenn sie nicht nach den archiv-rechtlichen Bestimmungen dem Staatsarchiv abzuliefern sind.
+<sup>1</sup> Die Verfahrensakten werden im Amtsarchiv aufbewahrt, bis die beschuldigte, verurteilte oder freigesprochene Person oder die Person, gegen welche das Verfahren eingestellt worden ist, das 25. Altersjahr vollendet hat. Vorbehalten bleiben die folgenden Bestimmungen.
+
+<sup>2</sup> Von Straftaten, bei welchen die Verfolgungsverjährung mindestens bis zum vollendeten 25. Altersjahr des Opfers dauert, werden die Verfahrensakten in jedem Fall so lange im Amtsarchiv aufbewahrt.
+
+<sup>3</sup> Die Verfahrensakten werden in jedem Fall so lange im Amtsarchiv aufbewahrt, als ein Tätigkeits-, Kontakt- oder Rayonverbot nach Artikel 16a oder 19b des Bundesgesetzes über das Jugendstrafrecht (Jugendstrafgesetz, JStG) vom 20. Juni 2003[^18-1] in Kraft ist.
+
+<sup>4</sup> Beantragt die Vollzugsbehörde eine Verwahrung, gehen die Verfahrensakten an das Erwachsenengericht und werden dort nach den für dieses geltenden Aufbewahrungsfristen aufbewahrt.
+
+[^18-1]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de).
+
+#### § 18bis
+
+**Ablieferung an das Staatsarchiv**
+
+<sup>1</sup> Das Staatsarchiv übernimmt die Verfahrensakten spätestens 10 Jahre nach Ablauf der Aufbewahrungsfrist teilweise.
+
+<sup>2</sup> In den Fällen gemäss § 18 Absatz 4 richtet sich die Ablieferung der Verfahrensakten nach den für das Erwachsenengericht geltenden Bestimmungen.
 
 ## 5. Schlussbestimmungen
 
