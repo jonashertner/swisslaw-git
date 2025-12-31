@@ -3,20 +3,19 @@ canton: GL
 number: VII E/1/2/1
 title: Verordnung über den Vollzug der Energiegesetzgebung
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-13
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2001-09-04
 in_force: 2001-10-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.2.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2388/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2606/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Vollzug der Energiegesetzgebung
 
-Vom 04.09.2001 (Stand 01.01.2023)
+Vom 04.09.2001 (Stand 01.01.2026)
 
 Der Regierungsrat,
 
@@ -435,6 +434,28 @@ verordnet:
 **Zumutbare Massnahmen**
 
 <sup>1</sup> Die aufgrund einer Verbrauchsanalyse zu realisierenden Massnahmen sind für Grossverbraucher zumutbar, wenn sie dem Stand der Technik entsprechen sowie über die Nutzungsdauer der Investition wirtschaftlich und nicht mit wesentlichen betrieblichen Nachteilen verbunden sind.
+
+#### Art. 11d
+
+**Befreiung von den Bewilligungsgebühren bei förderungswürdigen Anlagen**
+
+<sup>1</sup> Gemäss Artikel 26 Absatz 5 der Verordnung zum Energiegesetz von den Bewilligungsgebühren befreit sind Anlagen zur Wärmegewinnung, die:
+
+- a. massgeblich zur Versorgung von in der kommunalen Energieplanung ausgewiesenen Prioritätsgebieten für Fernwärme beitragen; und
+- b. im Jahresmittel zu mehr als 75 Prozent mit Wärme aus erneuerbaren Energien betrieben werden.
+
+<sup>2</sup> Für weitere Anlagen zur Wärme- oder Kältegewinnung kann im Einzelfall eine ganze oder teilweise Befreiung von den Bewilligungsgebühren erfolgen, wenn an ihnen ein öffentliches Interesse besteht.
+
+#### Art. 11e
+
+**Befreiung von der jährlichen Abgabe**
+
+<sup>1</sup> Gemäss Artikel 6 Absatz 1a des Energiegesetzes von der jährlichen Abgabe befreit sind:
+
+- a. nicht-freistehende Fotovoltaikanlagen an oder auf Gebäuden und Infrastrukturanlagen (bspw. Parkplätzen, Lärmschutzwänden, Staumauern, Lawinenverbauungen);
+- b. freistehende Fotovoltaikanlagen, die für die Winterstromproduktion optimiert sind.
+
+<sup>2</sup> Für weitere Anlagen der Alternativenergie und Betriebe mit grosser volkswirtschaftlicher oder kommunaler Bedeutung kann im Einzelfall eine ganze oder teilweise Befreiung von der jährlichen Abgabe erfolgen, wenn an ihnen ein öffentliches Interesse besteht.
 
 ## 6 Schlussbestimmungen
 
