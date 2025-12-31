@@ -3,18 +3,18 @@ sr: "412.101.220.03"
 title: Verordnung des SBFI vom 18. Mai 2021 über die berufliche Grundbildung Detailhandelsfachfrau/Detailhandelsfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/314"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2021-314-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-314-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Detailhandelsfachfrau/Detailhandelsfachmann mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 18. Mai 2021 (Stand am 1. April 2024)
+vom 18. Mai 2021 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>71900</td><td>Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ Gestionnaire du commerce de détail CFC Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio AFC</td></tr>
@@ -26,10 +26,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## 1. Abschnitt: Gegenstand, Schwerpunkte, Ausbildungs- und Prüfungsbranchen und Dauer
 
@@ -170,7 +170,7 @@ In den Handlungskompetenzbereichen a–d ist der Aufbau der Handlungskompetenzen
 
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
-[^6-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^6-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Umfang der Bildung an den einzelnen Lernorten und Unterrichtssprache
 
@@ -188,7 +188,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <table>
 <tr><td>Unterricht</td><td>1. Lehrjahr</td><td>2. Lehrjahr</td><td>3. Lehrjahr</td><td>Total</td></tr>
-<tr><td>a. Berufskenntnisse</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Berufskenntnisse</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Gestalten von Kundenbeziehungen</td><td>160</td><td>160</td><td>80</td><td>400</td></tr>
 <tr><td>– Bewirtschaften und Präsentieren von Produkten und Dienstleistungen</td><td>80</td><td>120</td><td>80</td><td>280</td></tr>
 <tr><td>– Erwerben, Einbringen und Weiterentwickeln von Produkte- und Dienstleistungskenntnissen</td><td>80</td><td>80</td><td>0</td><td>160</td></tr>
@@ -201,19 +201,21 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt unter dem Vorbehalt der Absätze 4 und 5 die Verordnung des SBFI vom 27. April 2006[^8-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt unter dem Vorbehalt der Absätze 4 und 5 die Verordnung des SBFI vom 9. April 2025[^8-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^8-2].
 
-<sup>4</sup> Teile der Inhalte der Allgemeinbildung werden in der Berufsfachschule zusammen mit den Berufskenntnissen in den Handlungskompetenzbereichen a–d vermittelt; dabei werden das spezifische Berufsbild der Detailhandelsfachfrau und des Detailhandelsfachmanns auf Stufe EFZ und ihre beruflichen Bedürfnisse und Erfahrungen berücksichtigt. Die Inhalte stützen sich auf den Rahmenlehrplan vom 27. April 2006[^8-2] für den allgemeinbildenden Unterricht ab und sind im Bildungsplan sowie im Nationalen Lehrplan Allgemeinbildung vom 3. Dezember 2020[^8-3] für Detailhandelsfachfrauen und Detailhandelsfachmänner EFZ konkretisiert. Der Nationale Lehrplan Allgemeinbildung konkretisiert ebenfalls die Inhalte der Allgemeinbildung, die nicht durch den Unterricht in den Berufskenntnissen abgedeckt und Gegenstand eines separaten allgemeinbildenden Unterrichtes sind.
+<sup>4</sup> Teile der Inhalte der Allgemeinbildung werden in der Berufsfachschule zusammen mit den Berufskenntnissen in den Handlungskompetenzbereichen a–d vermittelt; dabei werden das spezifische Berufsbild der Detailhandelsfachfrau und des Detailhandelsfachmanns auf Stufe EFZ und ihre beruflichen Bedürfnisse und Erfahrungen berücksichtigt. Die Inhalte stützen sich auf den Rahmenlehrplan vom 27. April 2006[^8-3] für den allgemeinbildenden Unterricht ab und sind im Bildungsplan sowie im Nationalen Lehrplan Allgemeinbildung vom 3. Dezember 2020[^8-4] für Detailhandelsfachfrauen und Detailhandelsfachmänner EFZ konkretisiert. Der Nationale Lehrplan Allgemeinbildung konkretisiert ebenfalls die Inhalte der Allgemeinbildung, die nicht durch den Unterricht in den Berufskenntnissen abgedeckt und Gegenstand eines separaten allgemeinbildenden Unterrichtes sind.
 
-<sup>5</sup> Der Nationale Lehrplan Allgemeinbildung wird von der zuständigen Organisation der Arbeitswelt «Bildung Detailhandel Schweiz» (BDS) verantwortet. Er wird nach Stellungnahme der Schweizerischen Kommission für Berufsentwicklung und Qualität im Detailhandel von BDS erlassen. Er ersetzt die Schullehrpläne gemäss Artikel 5 der Verordnung des SBFI vom 27. April 2006 über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>5</sup> Der Nationale Lehrplan Allgemeinbildung wird von der zuständigen Organisation der Arbeitswelt «Bildung Detailhandel Schweiz» (BDS) verantwortet. Er wird nach Stellungnahme der Schweizerischen Kommission für Berufsentwicklung und Qualität im Detailhandel von BDS erlassen. Er ersetzt die Schullehrpläne gemäss Artikel 5 der Verordnung des SBFI vom 27. April 2006[^8-5] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
 
 <sup>6</sup> Unterrichtssprache ist die Landessprache des Schulortes. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>7</sup> Zweisprachiger Unterricht in der Landessprache des Schulortes und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
-[^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
-[^8-2]: Der Rahmenlehrplan vom 27. April 2006 für den allgemeinbildenden Unterricht ist zu finden auf der Website des SBFI unter: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Bildung &gt; Berufliche Grundbildung &gt; Allgemein bildender Unterricht
-[^8-3]: Anhang 1 zum Bildungsplan (Art. 10 Abs. 3)
+[^8-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^8-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^8-3]: Der Rahmenlehrplan vom 27. April 2006 für den allgemeinbildenden Unterricht ist zu finden auf der Website des SBFI unter: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Bildung &gt; Berufliche Grundbildung &gt; Allgemein bildender Unterricht
+[^8-4]: Anhang 1 zum Bildungsplan (Art. 10 Abs. 3)
+[^8-5]: [[AS 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 9
 

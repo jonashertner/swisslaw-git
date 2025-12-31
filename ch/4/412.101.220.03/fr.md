@@ -3,18 +3,18 @@ sr: "412.101.220.03"
 title: Ordonnance du SEFRI du 18 mai 2021 sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/314"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2021-05-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/314/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-314-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/314/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de gestionnaire du commerce de détail avec certificat fédéral de capacité (CFC)
 
-du 18 mai 2021 (État le 1<sup>er</sup> avril 2024)
+du 18 mai 2021 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>71900</td><td>Gestionnaire du commerce de détail CFC Detailhandelsfachfrau EFZ / Detailhandelsfachmann EFZ Impiegata del commercio al dettaglio AFC / Impiegato del commercio al dettaglio AFC</td></tr>
@@ -26,10 +26,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet, domaines spécifiques, branches de formation et d’examens et durée
 
@@ -170,7 +170,7 @@ Les personnes en formation doivent obligatoirement acquérir les compétences op
 
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
-[^6-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^6-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Étendue de la formation dans les différents lieux de formation et langue d’enseignement
 
@@ -188,7 +188,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <table>
 <tr><td>Enseignement</td><td>1<sup>re</sup> année</td><td>2<sup>e</sup> année</td><td>3<sup>e</sup> année</td><td>Total</td></tr>
-<tr><td>a. Connaissances professionnelles</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Connaissances professionnelles</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Gestion des relations avec les clients</td><td>160</td><td>160</td><td>80</td><td>400</td></tr>
 <tr><td>– Gestion et présentation des produits et prestations</td><td>80</td><td>120</td><td>80</td><td>280</td></tr>
 <tr><td>– Acquisition, intégration et développement des connaissances sur les produits et prestations</td><td>80</td><td>80</td><td>0</td><td>160</td></tr>
@@ -201,19 +201,21 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^8-1], sous réserve des al. 4 et 5.
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^8-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^8-2], sous réserve des al. 4 et 5.
 
-<sup>4</sup> Une partie des contenus de l’enseignement de culture générale est couvert par l’enseignement des connaissances professionnelles dans les domaines de compétences opérationnelles a à d; le profil spécifique à la profession de gestionnaire du commerce de détail de niveau CFC ainsi que les besoins et les expériences professionnels requis pour cette profession sont pris en compte à cet égard. Les contenus reposent sur le plan d’études cadre du 27 avril 2006 pour l’enseignement de la culture générale dans la formation professionnelle initiale[^8-2] et sont précisés dans le plan de formation ainsi que dans le plan d’études national du 3 décembre 2020 pour la culture générale chez les gestionnaires du commerce de détail CFC[^8-3] (annexe 1 du plan de formation). Le plan d’études national précise également les contenus de la culture générale qui ne sont pas couverts par l’enseignement des connaissances professionnelles et qui font l’objet d’un enseignement de culture générale distinct.
+<sup>4</sup> Une partie des contenus de l’enseignement de culture générale est couvert par l’enseignement des connaissances professionnelles dans les domaines de compétences opérationnelles a à d; le profil spécifique à la profession de gestionnaire du commerce de détail de niveau CFC ainsi que les besoins et les expériences professionnels requis pour cette profession sont pris en compte à cet égard. Les contenus reposent sur le plan d’études cadre du 27 avril 2006 pour l’enseignement de la culture générale dans la formation professionnelle initiale[^8-3] et sont précisés dans le plan de formation ainsi que dans le plan d’études national du 3 décembre 2020 pour la culture générale chez les gestionnaires du commerce de détail CFC[^8-4] (annexe 1 du plan de formation). Le plan d’études national précise également les contenus de la culture générale qui ne sont pas couverts par l’enseignement des connaissances professionnelles et qui font l’objet d’un enseignement de culture générale distinct.
 
-<sup>5</sup> Le plan d’études national pour la culture générale chez les gestionnaires de détail CFC est placé sous la responsabilité de l’organisation du monde du travail compétente, Formation du commerce de détail Suisse (FCS). Il est édicté par la FCS après prise de position de la Commission suisse pour le développement de la profession et la qualité de la formation dans le commerce de détail. Il remplace les plans d’études école visés à l’art. 5 de l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale.
+<sup>5</sup> Le plan d’études national pour la culture générale chez les gestionnaires de détail CFC est placé sous la responsabilité de l’organisation du monde du travail compétente, Formation du commerce de détail Suisse (FCS). Il est édicté par la FCS après prise de position de la Commission suisse pour le développement de la profession et la qualité de la formation dans le commerce de détail. Il remplace les plans d’études école visés à l’art. 5 de l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^8-5].
 
 <sup>6</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>7</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^8-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
-[^8-2]: Le plan d’études cadre du 27 avril 2006 pour l’enseignement de la culture générale dans la formation professionnelle initiale est disponible sur le site du SEFRI à l’adresse suivante: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Formation &gt; Formation professionnelle initiale &gt; Enseignement de la culture générale
-[^8-3]: Annexe 1 du plan de formation (art. 10, al. 3)
+[^8-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^8-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^8-3]: Le plan d’études cadre du 27 avril 2006 pour l’enseignement de la culture générale dans la formation professionnelle initiale est disponible sur le site du SEFRI à l’adresse suivante: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt; Formation &gt; Formation professionnelle initiale &gt; Enseignement de la culture générale
+[^8-4]: Annexe 1 du plan de formation (art. 10, al. 3)
+[^8-5]: [[RO 2006 3301](https://fedlex.data.admin.ch/eli/oc/2006/510); [2014 255](https://fedlex.data.admin.ch/eli/oc/2014/43), [557](https://fedlex.data.admin.ch/eli/oc/2014/115)]
 
 #### Art. 9
 
@@ -265,7 +267,7 @@ Le plan de formation:
 
 Les personnes ci-après remplissent les exigences posées aux formateurs:
 
-- a. les gestionnaires du commerce de détail CFC justifiant d’au moins 2 ans d’expérience professionnelle dans la profession;
+- les gestionnaires du commerce de détail CFC justifiant d’au moins 2 ans d’expérience professionnelle dans la profession;
 - b. les gestionnaires de vente qualifiés justifiant d’au moins 2 ans d’expérience professionnelle dans la profession;
 - c. les vendeurs qualifiés justifiant d’au moins 3 ans d’expérience professionnelle dans la profession;
 - d. les titulaires d’un CFC dans une profession apparentée justifiant des connaissances professionnelles requises propres aux gestionnaires du commerce de détail CFC et d’au moins 3 ans d’expérience professionnelle dans la profession;
