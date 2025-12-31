@@ -4,7 +4,7 @@ number: "814.31.1"
 title: "RÈGLEMENT du 16.11.1979 d'application de la loi du 17 septembre 1974 sur la protection des eaux contre la pollution (RLPEP)"
 short: RLPEP
 language: fr
-version: 1993-12-03
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/814.31.1?id=16de9ecf-f999-4ded-bdae-f5df6f651178"
 ---
 
@@ -485,19 +485,19 @@ arrête
 
 **Particuliers [^53-2]**
 
-<sup>1</sup> Les particuliers, titulaires d'une autorisation du département pour le déversement des eaux usées épurées provenant de leurs bâtiments dans une eau publique ou privée ou dans le sous-sol, paient à l'Etat une taxe unique, lors de l'octroi de l'autorisation, ainsi qu'une redevance annuelle calculée à raison de Fr. 0.15 par mille francs de valeur du bâtiment (valeur du jour suivant l'indice de l'Etablissement cantonal d'assurance contre l'incendie et les éléments naturels) et de Fr. 40.- au minimum.
+<sup>1</sup> Les particuliers, titulaires d'une autorisation du département pour le déversement des eaux usées épurées provenant de leurs bâtiments dans une eau publique ou privée ou dans le sous-sol, paient à l'Etat une taxe unique, lors de l'octroi de l'autorisation, ainsi qu'une redevance annuelle calculée à raison de Fr. 0.20 par mille francs de valeur du bâtiment (valeur du jour suivant l'indice de l'Etablissement cantonal d'assurance contre l'incendie et les éléments naturels) et de Fr. 80.- au minimum.
 
-<sup>2</sup> La redevance annuelle est due dès l'octroi de l'autorisation selon les modalités suivantes:
+<sup>2</sup> La redevance annuelle est due dès l'octroi de l'autorisation. Elle est perçue au prorata temporis.
 
-- a. en cas d'octroi de l'autorisation entre le 1er janvier et le 30 juin, la redevance est perçue intégralement,
-- b. en cas d'octroi de l'autorisation entre le 1er juillet et le 30 septembre, la redevance est perçue au prorata temporis,
-- c. en cas d'octroi de l'autorisation entre le 1er octobre et le 31 décembre, la redevance annuelle est perçue à compter du 1er janvier de l'année suivante.
+- a. ...
+- b. ...
+- c. ...
 
-<sup>3</sup> La redevance annuelle reste due lors de la radiation de l'autorisation selon les modalités suivantes:
+<sup>3</sup> Lors de la radiation de l'autorisation, la redevance annuelle est due au prorata temporis.
 
-- a. en cas de radiation de l'autorisation entre le 1er janvier et le 31 mars, la redevance annuelle n'est plus perçue,
-- b. en cas de radiation de l'autorisation entre le 1er avril et le 30 juin, la redevance est perçue prorata temporis,
-- c. en cas de radiation de l'autorisation entre le 1er juillet et le 31 décembre, la redevance est perçue intégralement.
+- a. ...
+- b. ...
+- c. ...
 
 [^53-2]: Modif. 1 du 09.11.1983: Modification Art. 54; entrée en vigueur au 01.01.1984 · Modif. 3 du 13.12.1991: Modification Art. 54; entrée en vigueur au 01.01.1992 · Modif. 7 du 08.10.2025: Modification Al. 1-2; entrée en vigueur au 01.01.2026; Abrogation Al. 2, a-c; entrée en vigueur au 01.01.2026; Modification Al. 3; entrée en vigueur au 01.01.2026; Abrogation Al. 3, a-c; entrée en vigueur au 01.01.2026
 
