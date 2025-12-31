@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Dezember 2021 über die Förderung der ausserschulisch
 short: KJFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/864"
 language: de
-version: 2022-08-26
+version: 2026-01-01
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220826/de/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220826-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-864-20260101-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/de"
 
 (Kinder- und Jugendförderungsverordnung, KJFV)
 
-vom 3. Dezember 2021 (Stand am 26. August 2022)
+vom 3. Dezember 2021 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -92,10 +92,10 @@ Es ist zuständig:
 
 <sup>3</sup> Bei der Beurteilung der Finanzhilfegesuche berücksichtigt das BSV gemäss Artikel 12 Absätze 1 und 2 SuG Finanzhilfen, die von anderen Bundesbehörden gewährt werden.
 
-<sup>4</sup> …[^4-2]
+<sup>4</sup> Es berücksichtigt bei der Bemessung der Finanzhilfen die Reserven der privaten Trägerschaft.[^4-2]
 
 [^4-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^4-2]: Tritt am 1. Jan. 2026 in Kraft (Art. 48 Abs. 2).
+[^4-2]: In Kraft seit 1. Jan. 2026 (Art. 48 Abs. 2).
 
 #### Art. 5
 
@@ -825,7 +825,7 @@ Gewichtung: 1
 
 <table>
 <tr><td>sprachregional gemäss Art. 1 Bst. a</td><td>0 Punkte</td></tr>
-<tr><td>in allen Kantonen einer Sprachregion</td><td>1 Punkt</td></tr>
+<tr><td>in allen Kantonen einer Sprachregion</td><td>1 Punkte</td></tr>
 <tr><td>in zwei Sprachregionen</td><td>2 Punkte</td></tr>
 <tr><td>in mehr als zwei Sprachregionen</td><td>3 Punkte</td></tr>
 </table>
@@ -1100,7 +1100,9 @@ Gewichtung: 1
 <tr><td>mehr als</td><td>39</td><td>Versammlungen</td><td>3 Punkte</td></tr>
 </table>
 
-Anhang 2 (Art. 30 Abs. 4 und 5 sowie 33 Abs. 3)
+Anhang 2
+
+(Art. 30 Abs. 4 und 5 sowie 33 Abs. 3)
 
 ## Finanzhilfen an private Trägerschaften für die Aus- und Weiterbildung
 

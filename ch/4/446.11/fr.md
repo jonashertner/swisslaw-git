@@ -4,11 +4,11 @@ title: "Ordonnance du 3 décembre 2021 sur l’encouragement des activités extr
 short: OEEJ
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/864"
 language: fr
-version: 2022-08-26
+version: 2026-01-01
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220826/fr/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220826-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-864-20260101-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/fr"
 
 (Ordonnance sur l’encouragement de l’enfance et de la jeunesse, OEEJ)
 
-du 3 décembre 2021 (État le 26 août 2022)
+du 3 décembre 2021 (Etat le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -92,10 +92,10 @@ Il est chargé:
 
 <sup>3</sup> L’OFAS tient compte de l’allocation d’aides financières par d’autres autorités fédérales dans l’appréciation des demandes d’octroi d’aides financières, conformément à l’art. 12, al. 1 et 2, LSu.
 
-<sup>4</sup> …[^4-2]
+<sup>4</sup> Il tient compte des réserves des organismes privés dans le calcul des aides financières.[^4-2]
 
 [^4-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^4-2]: Entre en vigueur le 1<sup>er</sup> janv. 2026 (art. 48, al. 2).
+[^4-2]: En vigueur depuis le 1<sup>er</sup> janv. 2026 (art. 48, al. 2).
 
 #### Art. 5
 
@@ -814,8 +814,8 @@ Définition: nombre de membres de moins de 25 ans
 <table>
 <tr><td>0 à</td><td>499</td><td>membres</td><td>0 point</td></tr>
 <tr><td>500 à</td><td>2 999</td><td>membres</td><td>1 point</td></tr>
-<tr><td>3 000 à</td><td>11 999</td><td>membres</td><td>2 points</td></tr>
-<tr><td>plus de</td><td>11 999</td><td>membres</td><td>3 points</td></tr>
+<tr><td>3 000 à</td><td>11 999</td><td>membres</td><td>2 point</td></tr>
+<tr><td>plus de</td><td>11 999</td><td>membres</td><td>3 point</td></tr>
 </table>
 
 ### B. Activité dans plusieurs régions linguistiques

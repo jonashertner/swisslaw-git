@@ -4,11 +4,11 @@ title: "Ordinanza del 3 dicembre 2021 sulla promozione delle attività extrascol
 short: OPAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/864"
 language: it
-version: 2022-08-26
+version: 2026-01-01
 adopted: 2021-12-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20220826/it/xml/fedlex-data-admin-ch-eli-cc-2021-864-20220826-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/864/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-864-20260101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/864/20220826/it"
 
 (Ordinanza sulla promozione delle attività giovanili extrascolastiche, OPAG)
 
-del 3 dicembre 2021 (Stato 26 agosto 2022)
+del 3 dicembre 2021 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero
 
@@ -92,7 +92,7 @@ Nella presente ordinanza e nella LPAG s’intende per:
 
 <sup>3</sup> Nella valutazione delle richieste di aiuti finanziari, l’UFAS tiene conto degli aiuti finanziari concessi da altre autorità federali, conformemente all’articolo 12 capoversi 1 e 2 LSu.
 
-<sup>4</sup> ...[^4-2]
+<sup>4</sup> Nel calcolo degli aiuti finanziari tiene conto delle riserve delle istituzioni private.[^4-2]
 
 [^4-1]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
 [^4-2]: In vigore dal 1° gen. 2026 (art. 48 cpv. 2).
