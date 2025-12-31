@@ -3,20 +3,19 @@ canton: OW
 number: "641.421"
 title: Ausführungsbestimmungen über die Digitalisierung des Steuerverfahrens
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-05
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2023-12-05
 in_force: 2024-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.421"
-pdf: "http://gdb.ow.ch/api/de/versions/1843/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1973/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Digitalisierung des Steuerverfahrens
 
-vom 05.12.2023 (Stand 01.01.2024)
+vom 05.12.2023 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -63,11 +62,13 @@ beschliesst:
 
 <sup>3</sup> Mit der Registrierung im Kundenportal kann die Steuererklärung elektronisch eingereicht oder die Frist zur Einreichung der Steuererklärung verlängert werden.
 
+<sup>4</sup> Mit der Registrierung im Kundenportal erklärt sich der Nutzer oder die Nutzerin mit den im Kundenportal publizierten Nutzungsbedingungen vollumfänglich einverstanden.
+
 #### Art. 4
 
 **Steuerkonto**
 
-<sup>1</sup> Im Kundenportal kann die Aktivierung des Steuerkontos beantragt werden. Nach Zustimmung zu den Nutzungsbedingungen wird dem bzw. der Steuerpflichtigen ein Aktivierungscode zugesandt. Der Versand erfolgt mit A-Post Plus an den Wohn- resp. Hauptsitz des oder der Steuerpflichtigen.
+<sup>1</sup> Im Kundenportal kann die Aktivierung des Steuerkontos mit der persönlichen Personenidentifikationsnummer (PID) beantragt werden. Dies gilt ebenso für Ehepaare. Nach Zustimmung zu den Nutzungsbedingungen wird dem bzw. der Steuerpflichtigen ein Aktivierungscode zugesandt. Der Versand erfolgt mit A-Post Plus an den Wohn- resp. Hauptsitz des oder der Steuerpflichtigen.
 
 <sup>2</sup> Mit dem Steuerkonto können im Kundenportal persönliche Steuerdaten und Steuerdokumente eingesehen werden und es kann mit der Steuerverwaltung verschlüsselt kommuniziert werden.
 
@@ -282,6 +283,8 @@ Aufgehobene Erlasse:
 
 \- Ausführungsbestimmungen über die Digitalisierung von Steuerakten vom 1. Dezember 2015 (OGS 2016, 68)
 
-\- Ausführungsbestimmungen über die elektronische Einreichung der Steuererklärung vom 5. Dezember 2017 (OGS 2017, 60, OGS 2021, 49)
+\- Ausführungsbestimmungen über die elektronische Einreichung der Steuererklärung vom 5. Dezember 2017 (OGS 2017, 60, OGS 2021, 49),
+
+\- AB über die Nachführung zum Nachtrag zum Steuergesetz 2026 vom 25. November 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 22)
 
 OGS 2023, 37
