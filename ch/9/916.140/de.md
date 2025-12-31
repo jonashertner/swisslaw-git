@@ -3,11 +3,11 @@ sr: "916.140"
 title: Verordnung vom 14. November 2007 über den Rebbau und die Einfuhr von Wein (Weinverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250701-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-833-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250701/de"
 
 (Weinverordnung)
 
-vom 14. November 2007 (Stand am 1. Juli 2025)
+vom 14. November 2007 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,9 +24,9 @@ gestützt auf die Artikel 60 Absatz 4, 63 Absätze 2, 4 und 5, 64 Absätze 1, 2 
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 ## 1. Abschnitt: Rebpflanzungen
@@ -43,11 +43,11 @@ verordnet:
 
 **Neuanpflanzung**
 
-<sup>1</sup> Als Neuanpflanzung gilt das Anpflanzen von Reben auf einer Fläche, die länger als zehnJahre nicht als Rebfläche bewirtschaftet wurde.
+<sup>1</sup> Als Neuanpflanzung gilt das Anpflanzen von Reben auf einer Fläche, die seit dem 1. Januar 2016 nicht als Rebfläche bewirtschaftet worden war.[^2-1]
 
 <sup>2</sup>
 
-Neuanpflanzungen für die Weinerzeugung werden nur an Standorten bewilligt, deren Eignung für den Weinbau nachgewiesen wird. Dabei sind insbesondere zu berücksichtigen:[^2-1]
+Neuanpflanzungen für die Weinerzeugung werden nur an Standorten bewilligt, deren Eignung für den Weinbau nachgewiesen wird. Dabei sind insbesondere zu berücksichtigen:[^2-2]
 
 - a. die Höhenlage;
 - b. die Hangneigung und -richtung;
@@ -62,7 +62,8 @@ Neuanpflanzungen für die Weinerzeugung werden nur an Standorten bewilligt, dere
 
 <sup>5</sup> Der Kanton regelt das Bewilligungs- und das Meldeverfahren. Er sieht für das Bewilligungsverfahren vor, dass die kantonalen Fachstellen für Natur- und Landschaftsschutz angehört werden.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
 
 #### Art. 3
 
@@ -72,7 +73,7 @@ Neuanpflanzungen für die Weinerzeugung werden nur an Standorten bewilligt, dere
 
 Als Erneuerung gilt:
 
-- a. die Wiederbepflanzung einer Rebfläche nach einem weniger als zehn Jahre dauernden Unterbruch der Bewirtschaftung;
+- a.[^3-1] die Wiederbepflanzung einer Rebfläche nach einem Unterbruch der Bewirtschaftung;
 - b. das Aufpfropfen einer anderen Traubensorte; oder
 - c. das Nachsetzen einzelner Stöcke, wenn es dazu führt, dass die Einträge im Rebbaukataster nicht mehr zutreffen.
 
@@ -81,6 +82,8 @@ Als Erneuerung gilt:
 <sup>3</sup> Erneuerungen von Rebflächen von höchstens 400 m<sup>2</sup>, deren Produkte ausschliesslich dem privaten Eigengebrauch der Bewirtschafterin bzw. des Bewirtschafters dienen, sind nicht meldepflichtig. Der Kanton kann jedoch eine Meldepflicht vorsehen.
 
 <sup>4</sup> Der Kanton regelt das Meldeverfahren.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
 
 #### Art. 4
 
@@ -116,11 +119,12 @@ Zur Weinerzeugung sind nur Rebflächen zugelassen:
 - b. auf denen vor 1999 rechtmässig gewerblicher Weinbau betrieben wurde;
 - c. für die das Bundesamt für Landwirtschaft (BLW)[^5-1] vor 1999 die Neuanpflanzung bewilligt hat und die innerhalb von zehn Jahren seit der Bewilligung bepflanzt wurden.
 
-<sup>2</sup> Wird die Bewirtschaftung einer Rebfläche während mehr als zehn Jahren unterbrochen, so fällt die Zulassung dahin.
+<sup>2</sup> …[^5-2]
 
 <sup>3</sup> Der Verkauf von Wein sowie von Trauben oder Traubenmost zum Zweck der Weinerzeugung ist verboten, wenn diese Produkte von Rebflächen stammen, die nicht zur Weinerzeugung zugelassen sind.
 
 [^5-1]: Ausdruck gemäss Ziff. I der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)). Die Anpassung wurde im ganzen Text vorgenommen.
+[^5-2]: Aufgehoben durch Ziff. I der V vom 29. Okt. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
 
 #### Art. 6
 
@@ -324,7 +328,7 @@ Trauben und Traubenmoste, die für die Verarbeitung zu Wein bestimmt sind, sowie
 
 <sup>3</sup> Ein Wein mit KUB/AOC kann immer deklassiert werden, auch wenn die Abweichung für Weine mit KUB/AOC, die in den önologischen Verfahren und Behandlungen erwähnt wird, die vom Eidgenössischen Departement des Innern (EDI) gemäss Artikel 14 Absatz 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^27-1] (LGV) zugelassen sind, angewendet wurde.[^27-2]
 
-[^27-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^27-2]: Eingefügt durch Ziff. II 1 der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
 
 ## 3*a*. Abschnitt: Begriffsbestimmungen und Anforderungen an Schweizer Wein
@@ -364,7 +368,7 @@ Bei Schweizer Wein, der ohne Anreicherungsprozess gewonnen wird, darf der Gesamt
 Die Süssung von Schweizer Wein mit KUB/AOC ist verboten. Die Kantone können die Süssung von Wein mit KUB/AOC zulassen, wenn die vom EDI nach Artikel 14 Absatz 1 LGV[^27c-2] erlassenen Bestimmungen über die Süssung von Wein erfüllt sind.
 
 [^27c-1]: Fassung gemäss Ziff. II 1 der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
-[^27c-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27c-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 27d
 
@@ -401,13 +405,15 @@ Er darf nur mit Schweizer Wein verschnitten werden, wenn die folgenden Vorschrif
 
 <sup>1</sup> Bei Schweizer Wein muss anstelle der Sachbezeichnung «Wein» die Bezeichnung der Klasse verwendet werden, der er gemäss Artikel 63 Absatz 1 des Landwirtschaftsgesetzes vom 29. April 1998 angehört.
 
-<sup>2</sup> Auf der Etikette von Schweizer Wein der Klasse «Wein mit kontrollierter Ursprungsbezeichnung» muss zusätzlich der jeweilige geografische Ursprung angegeben werden.
+<sup>2</sup> Auf der Etikette von Schweizer Wein der Klasse «Wein mit kontrollierter Ursprungsbezeichnung» muss zusätzlich der jeweilige geografische Ursprung angegeben werden. Die Bezeichnung «Wein mit kontrollierter Ursprungsbezeichnung» kann mit «KUB/AOC» abgekürzt werden.[^27e-1]
 
 <sup>3</sup> Auf der Etikette von Schweizer Wein der Klasse «Landwein» muss zusätzlich die jeweilige Herkunftsangabe aufgeführt werden.
 
 <sup>4</sup> Auf der Etikette von Schweizer Wein der Klasse «Tafelwein» muss zusätzlich «Schweizer» angegeben werden. Zusätzliche Angaben, wie Angaben über Ursprung, Herkunft, Weinsorte oder Jahrgang, sind verboten.
 
 <sup>5</sup> Die Absätze 1–4 gelten auch für Schweizer Likörwein.
+
+[^27e-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
 
 #### Art. 27e<sup>bis</sup>
 
@@ -432,7 +438,7 @@ Er darf nur mit Schweizer Wein verschnitten werden, wenn die folgenden Vorschrif
 Schweizer und ausländische Weine, Schaumweine und Likörweine müssen bezüglich der Begriffe, der önologischen Verfahren und Behandlungen sowie der Kennzeichnung die vom EDI nach Artikel 14 Absatz 1 und 36 Absätze 3 und 4 LGV[^27f-2] erlassenen Bestimmungen einhalten.
 
 [^27f-1]: Fassung gemäss Ziff. II 1 der V vom 28. Mai 2025, in Kraft seit 1. Juli 2025 ([AS 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
-[^27f-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27f-2]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## 4. Abschnitt: Weinlesekontrolle
 
@@ -507,7 +513,7 @@ Sie verfügen über ein elektronisches System, das einen automatischen Abgleich 
 
 **Überwachung der Eigenkontrolle durch die Kantone**[^30a-1]
 
-<sup>1</sup> Die Kantone überwachen die Eigenkontrolle der Einkellerinnen und Einkellerer während der Weinlese. Jeder Einkellerungsbetrieb wird mindestens alle sechs Jahre kontrolliert.
+<sup>1</sup> Die Kantone überwachen die Eigenkontrolle der Einkellerinnen und Einkellerer ab dem Beginn der Weinlese bis zur Erstellung des Kellerblatts nach Absatz 4. Jeder Einkellerungsbetrieb wird mindestens alle sechs Jahre kontrolliert.[^30a-2]
 
 <sup>2</sup>
 
@@ -536,12 +542,13 @@ Das Kellerblatt enthält die Erntemengen in kg mindestens pro:
 
 Auf dem Kellerblatt muss die Einkellerin oder der Einkellerer über eine der folgenden Nummern eindeutig identifizierbar sein:
 
-- a. Unternehmens-Identifikationsnummer (UID) nach dem Bundesgesetz vom 18. Juni 2010[^30a-2] über die Unternehmens-Identifikationsnummer;
-- b. Nummer des Betriebs- und Unternehmungsregisters (BUR) nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^30a-3].
+- a. Unternehmens-Identifikationsnummer (UID) nach dem Bundesgesetz vom 18. Juni 2010[^30a-3] über die Unternehmens-Identifikationsnummer;
+- b. Nummer des Betriebs- und Unternehmungsregisters (BUR) nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^30a-4].
 
 [^30a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30a-2]: [SR 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^30a-3]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^30a-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
+[^30a-3]: [SR 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^30a-4]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 #### Art. 30b
 
@@ -559,13 +566,13 @@ Sie informieren das BLW nach dessen Vorgaben bis Ende März des auf die Weinlese
 - d. die festgestellten Verstösse gegen die Bestimmungen der Artikel 21–24 und 29;
 - e. die Anzahl angeordneter Deklassierungen nach Artikel 30*a* Absatz 3.
 
-<sup>3</sup> Sie teilen dem BLW bis Ende November des laufenden Jahres die Rebflächen nach der Erhebung für die Rebbau-Statistik in Anhang 1 Ziffer 09.44. der Bundesstatistikverordnung vom 30. April 2025[^30b-2] mit.[^30b-3]
+<sup>3</sup> Sie teilen dem BLW bis Ende August des laufenden Jahres die Rebflächen nach der Erhebung für die Rebbau-Statistik nach Anhang 1 Ziffer 09.44. der Bundesstatistikverordnung vom 30. April 2025[^30b-2] mit.[^30b-3]
 
 <sup>4</sup> Sie reichen dem BLW bis Ende Januar des auf die Weinlese folgenden Jahres einen Weinlesebericht ein, der sämtliche statistischen Angaben nach der Erhebung für die Rebbau-Statistik enthält.[^30b-4]
 
 [^30b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
-[^30b-3]: Fassung gemäss Anhang 3 Ziff. 24 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30b-2]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^30b-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
 [^30b-4]: Fassung gemäss Anhang 3 Ziff. 24 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 31
@@ -758,7 +765,7 @@ Die Kontrollstelle nimmt die Kontrolle entsprechend den möglichen Risiken vor. 
 <sup>5</sup> Sie verfügt im Beanstandungsfall die erforderlichen Massnahmen und übt das Antragsrecht gemäss Artikel 172 des Landwirtschaftsgesetzes vom 29. April 1998 aus.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^35-2]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^35-2]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)).
 
 #### Art. 35a
 
@@ -895,7 +902,7 @@ Zollkontingentsanteile für das «contingent particulier» werden nur Personen z
 
 <sup>3</sup> Zollkontingentsanteile für das «contingent particulier» im Umfang von jährlich 10 000 hl werden gemäss dem Französisch-Schweizerischen Protokoll vom 11. Juni 1965[^45-1] betreffend die Verwaltung des für die Belieferung der schweizerischen Privatkundschaft mit französischen Weinen bestimmten Kontingentes zugeteilt. Die Einfuhren werden dem Zollkontingent nicht angerechnet.
 
-[^45-1]: [SR 0.946.293.492.1](https://fedlex.data.admin.ch/eli/cc/1965/549_553_547)
+[^45-1]: [SR 0.946.293.492.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4225)
 
 #### Art. 46
 

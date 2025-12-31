@@ -3,11 +3,11 @@ sr: "916.140"
 title: "Ordinanza del 14 novembre 2007 concernente la viticoltura e l'importazione di vino (Ordinanza sul vino)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/833"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2007-11-14
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20250701-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/833/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2007-833-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/833/20250701/it"
 
 (Ordinanza sul vino)
 
-del 14 novembre 2007 (Stato 1° luglio 2025)
+del 14 novembre 2007 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -24,9 +24,9 @@ visti gli articoli 60 capoverso 4, 63 capoversi 2, 4 e 5, 64 capoversi 1, 2 e 4,
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4010)
 [^ingress-4]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 ## Sezione 1: Impianti viticoli
@@ -43,11 +43,11 @@ ordina:
 
 **Nuovi impianti**
 
-<sup>1</sup> Per nuovo impianto si intende l’impianto di vigneti su una superficie che non è stata coltivata a vite da più di dieci anni.
+<sup>1</sup> Per nuovo impianto s’intende l’impianto di vigneti su una superficie che non è stata coltivata a vite dal 1° gennaio 2016.[^2-1]
 
 <sup>2</sup>
 
-I nuovi impianti per la produzione di vino sono autorizzati soltanto su terreni dei quali è provata l’idoneità alla viticoltura. Al riguardo occorre in particolare considerare:[^2-1]
+I nuovi impianti per la produzione di vino sono autorizzati soltanto su terreni dei quali è provata l’idoneità alla viticoltura. Al riguardo occorre in particolare considerare:[^2-2]
 
 - a. l’altitudine;
 - b. la declività e l’esposizione del declivio;
@@ -58,12 +58,13 @@ I nuovi impianti per la produzione di vino sono autorizzati soltanto su terreni 
 
 <sup>3</sup> Per nuovi impianti non destinati alla produzione vinicola, i Cantoni possono sostituire l’obbligo dell’autorizzazione con l’obbligo della notifica.
 
-<sup>4</sup> Non abbisognano di autorizzazione i nuovi impianti unici di una superficie inferiore a 400 m<sup>2</sup> i cui prodotti servono esclusivamente al fabbisogno privato del gestore[^2-2], sempreché quest’ultimo non possieda né coltivi nessun’altra vigna. Il Cantone può nondimeno fissare una superficie inferiore a 400 m<sup>2</sup> e prevedere l’obbligo di notifica.
+<sup>4</sup> Non abbisognano di autorizzazione i nuovi impianti unici di una superficie inferiore a 400 m<sup>2</sup> i cui prodotti servono esclusivamente al fabbisogno privato del gestore[^2-3], sempreché quest’ultimo non possieda né coltivi nessun’altra vigna. Il Cantone può nondimeno fissare una superficie inferiore a 400 m<sup>2</sup> e prevedere l’obbligo di notifica.
 
 <sup>5</sup> Il Cantone disciplina la procedura di autorizzazione e di notifica. Per la procedura di autorizzazione prevede che siano sentiti i servizi cantonali per la protezione della natura e del paesaggio.
 
-[^2-1]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
-[^2-2]: Nuova espr. giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)).
+[^2-3]: Nuova espr. giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -73,7 +74,7 @@ I nuovi impianti per la produzione di vino sono autorizzati soltanto su terreni 
 
 È data ricostituzione se:
 
-- a. sulla superficie viticola la vite è estirpata e ripiantata dopo un’interruzione della coltivazione di meno di dieci anni;
+- a.[^3-1] sulla superficie viticola la vite è estirpata e ripiantata;
 - b. la varietà del vitigno è modificaa mediante un sovrainnesto; o
 - c. singoli ceppi sono sostituiti e, per questo fatto, le iscrizioni nel catasto viticolo non sono più veritiere.
 
@@ -82,6 +83,8 @@ I nuovi impianti per la produzione di vino sono autorizzati soltanto su terreni 
 <sup>3</sup> Ricostituzioni di superfici viticole inferiori a 400 m<sup>2</sup>, i cui prodotti servono esclusivamente al fabisogno privato del gestore, non sottostanno all’obbligo di notifica. Il Cantone può nondimeno prevedere in simili casi tale obbligo.
 
 <sup>4</sup> Il Cantone disciplina la procedura di notifica.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
 
 #### Art. 4
 
@@ -117,12 +120,13 @@ Possono essere coltivate per la produzione di vino le superfici viticole:
 - b. sulle quali è stata praticata regolarmente prima del 1999 la produzione vinicola professionale;
 - c. per le quali l’Ufficio federale dell’agricoltura (UFAG) [^5-1] ha autorizzato prima del 1999 un impianto e sulle quali l’impianto di vigneti è stato effettivamente eseguito nel termine di dieci anni dal rilascio dell’autorizzazione.
 
-<sup>2</sup> Se la gestione di una superficie viticola viene interrotta per più di dieci anni, l’autorizzazione non è più valida.
+<sup>2</sup> ...[^5-2]
 
-<sup>3</sup> La vendita di vino, come pure di uve o di mosto d’uva destinati alla produzione di vino è vietata se questi prodotti provengono da superfici viticole non autorizzate per la produzione di vino.[^5-2]
+<sup>3</sup> La vendita di vino, come pure di uve o di mosto d’uva destinati alla produzione di vino è vietata se questi prodotti provengono da superfici viticole non autorizzate per la produzione di vino.[^5-3]
 
 [^5-1]: Nuova espr. giusta la cifra I dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3965](https://fedlex.data.admin.ch/eli/oc/2013/723)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^5-2]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
+[^5-2]: Abrogato dalla cifra I dell’O del 29 ott. 2025, con effetto dal 1° gen. 2026 ([RU 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
 
 #### Art. 6
 
@@ -331,7 +335,7 @@ Le uve e i mosti destinati all’elaborazione, come pure i vini classificati in 
 Un vino classificato come vino DOC può sempre essere declassato a vino di una classe inferiore, anche se è stata applicata la deroga per i vini DOC menzionata nelle pratiche e nei trattamenti enologici consentiti stabiliti dal Dipartimento federale dell’interno (DFI) ai sensi dell’articolo 14 capoverso 1 dell’ordinanza del 16 dicembre 2016[^27-2] sulle derrate alimentari e gli oggetti d’uso (ODerr).[^27-3]
 
 [^27-1]: [RU 2008 3931](https://fedlex.data.admin.ch/eli/oc/2008/528)
-[^27-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 [^27-3]: Introdotto dalla cifra II n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
 
 ## Sezione 3*a* *:* Definizioni ed esigenze relative ai vini svizzeri
@@ -373,7 +377,7 @@ Il limite massimo del titolo alcolometrico totale può essere superiore al 15 pe
 L’edulcorazione dei vini svizzeri DOC è vietata. I Cantoni possono autorizzare l’edulcorazione dei vini DOC se sono adempiute le condizioni sull’edulcorazione dei vini emanate dal DFI secondo l’articolo 14 capoverso 1 ODerr[^27c-2].
 
 [^27c-1]: Nuovo testo giusta la cifra II n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
-[^27c-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27c-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 27d
 
@@ -410,13 +414,15 @@ Possono essere tagliati con vini svizzeri soltanto se sono rispettate le seguent
 
 <sup>1</sup> I vini svizzeri devono recare, invece della denominazione specifica «vino», il nome della categoria a cui appartengono in virtù dell’articolo 63 capoverso 1 della legge del 29 aprile 1998 sull’agricoltura.
 
-<sup>2</sup> L’etichetta dei vini svizzeri della categoria «vini a denominazione di origine controllata» deve inoltre contenere la corrispondente origine geografica.
+<sup>2</sup> L’etichetta dei vini svizzeri della categoria «vini a denominazione di origine controllata» deve inoltre contenere la corrispondente origine geografica. Il nome «vini a denominazione di origine controllata» può essere abbreviato con «DOC».[^27e-1]
 
 <sup>3</sup> L’etichetta dei vini svizzeri della categoria «vini con indicazione geografica tipica» deve inoltre contenere l’indicazione della corrispondente provenienza geografica.
 
 <sup>4</sup> L’etichetta dei vini svizzeri della categoria «vino da tavola» deve inoltre contenere l’indicazione «svizzero». È vietata l’aggiunta di altre indicazioni quali origine, provenienza, vitigno o annata.
 
 <sup>5</sup> I capoversi 1–4 sono altresì applicabili al vino liquoroso svizzero.
+
+[^27e-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
 
 #### Art. 27e<sup>bis</sup>
 
@@ -441,7 +447,7 @@ Possono essere tagliati con vini svizzeri soltanto se sono rispettate le seguent
 I vini, i vini spumanti e i vini liquorosi svizzeri ed esteri devono soddisfare le disposizioni in materia di definizioni, pratiche e trattamenti enologici e caratterizzazione emanate dal DFI secondo gli articoli 14 capoverso 1 e 36 capoversi 3 e 4 ODerr[^27f-2].
 
 [^27f-1]: Nuovo testo giusta la cifra II n. 1 dell’O del 28 mag. 2025, in vigore dal 1° lug. 2025 ([RU 2025 369](https://fedlex.data.admin.ch/eli/oc/2025/369)).
-[^27f-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^27f-2]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 ## Sezione 4: Controllo della vendemmia
 
@@ -516,7 +522,7 @@ Essi dispongono di un sistema elettronico che consente un confronto automatico t
 
 **Sorveglianza sull’autocontrollo da parte dei Cantoni**[^30a-1]
 
-<sup>1</sup> I Cantoni vigilano sull’autocontrollo del vinificatore durante la vendemmia. Ogni azienda d’incantinamento è controllata almeno ogni sei anni.
+<sup>1</sup> I Cantoni vigilano sull’autocontrollo del vinificatore dall’inizio della vendemmia fino all’allestimento delle schede delle forniture di cui al capoverso 4. Ogni azienda d’incantinamento è controllata almeno ogni sei anni.[^30a-2]
 
 <sup>2</sup>
 
@@ -545,12 +551,13 @@ La scheda delle forniture comprende i quantitativi raccolti in kg almeno per:
 
 Sulla scheda delle forniture il vinificatore deve essere identificabile in modo univoco mediante uno dei seguenti numeri:
 
-- a. numero d’identificazione delle imprese (IDI) in virtù della legge federale del 18 giugno 2010[^30a-2] sul numero d’identificazione delle imprese;
-- b. numero del registro delle imprese e degli stabilimenti (RIS) giusta la legge del 9 ottobre 1992[^30a-3] sulla statistica federale.
+- a. numero d’identificazione delle imprese (IDI) in virtù della legge federale del 18 giugno 2010[^30a-3] sul numero d’identificazione delle imprese;
+- b. numero del registro delle imprese e degli stabilimenti (RIS) giusta la legge del 9 ottobre 1992[^30a-4] sulla statistica federale.
 
 [^30a-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30a-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
-[^30a-3]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^30a-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
+[^30a-3]: [RS 431.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6953)
+[^30a-4]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 #### Art. 30b
 
@@ -568,13 +575,13 @@ Essi informano l’UFAG, secondo le sue prescrizioni, entro fino marzo dell’an
 - d. sulle infrazioni constatate alle disposizioni degli articoli 21–24 e 29;
 - e. sul numero di declassamenti ordinati giusta l’articolo 30*a* capoverso 3.
 
-<sup>3</sup> Essi comunicano all’UFAG, entro fine novembre dell’anno in corso, le superfici viticole definite per la rilevazione per la statistica della viticoltura di cui al numero 09.44 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^30b-2] sulla statistica federale.[^30b-3]
+<sup>3</sup> Essi comunicano all’UFAG, entro fine agosto dell’anno in corso, le superfici viticole definite per la rilevazione per la statistica della viticoltura di cui al numero 09.44 dell’allegato 1 dell’ordinanza del 30 aprile 2025[^30b-2] sulla statistica federale.[^30b-3]
 
 <sup>4</sup> Essi presentano all’UFAG, entro fine gennaio dell’anno successivo alla vendemmia, un rapporto della vendemmia che comprende tutti i dati statistici contenuti nella rilevazione per la statistica della viticoltura.[^30b-4]
 
 [^30b-1]: Introdotto dalla cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^30b-2]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/2025/318)
-[^30b-3]: Nuovo testo giusta l’all. 3 n. 24 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
+[^30b-2]: [[RS 431.011](https://www.fedlex.admin.ch/eli/cc/1993/2093_2093_2093/it)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^30b-3]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 719](https://fedlex.data.admin.ch/eli/oc/2025/719)).
 [^30b-4]: Nuovo testo giusta l’all. 3 n. 24 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 31
@@ -767,7 +774,7 @@ L’organo di controllo effettua il controllo in funzione dei possibili rischi. 
 <sup>5</sup> In caso di contestazione l’organo di controllo dispone i provvedimenti necessari ed esercita il diritto di querela giusta l’articolo 172 della legge del 29 aprile 1998 sull’agricoltura.
 
 [^35-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^35-2]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
+[^35-2]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116.]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9709)).
 
 #### Art. 35a
 
@@ -843,7 +850,7 @@ L’organo di controllo ha inoltre i seguenti obblighi:
 <sup>4</sup> I servizi federali e cantonali forniscono all’organo di controllo, su sua domanda, ogni informazione utile alla sua attività.
 
 [^40-1]: Nuovo testo giusta la cifra I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6123](https://fedlex.data.admin.ch/eli/oc/2017/676)).
-[^40-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^40-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 41
 
@@ -904,7 +911,7 @@ Le quote del «contingent particulier» sono assegnate solo a persone che:
 
 <sup>3</sup> Le quote del «contingent particulier» sono assegnate ogni anno per un volume di 10 000 hl secondo il protocollo franco-svizzero dell’11 giugno 1965[^45-1] concernente l’amministrazione di vini francesi destinati alla clientela particolare svizzera. Le importazioni non sono computate nel contingente doganale.
 
-[^45-1]: [RS 0.946.293.492.1](https://fedlex.data.admin.ch/eli/cc/1965/549_553_547)
+[^45-1]: [RS 0.946.293.492.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4225)
 
 #### Art. 46
 
