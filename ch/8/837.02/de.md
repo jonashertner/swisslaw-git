@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2025-11-01
+version: 2026-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20251101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20251101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. November 2025)
+vom 31. August 1983 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -178,7 +178,7 @@ Der Arbeitsausfall von teilweise Arbeitslosen (Art. 10 Abs. 2 Bst. b AVIG) ist a
 
 <sup>1bis</sup> Versicherte nach Absatz 1, die sich im Anschluss an die obligatorische Schulpflicht der Arbeitsvermittlung zur Verfügung stellen, können während der Wartezeit nach Absatz 1 an einem Motivationssemester nach Artikel 64*a* Absatz 1 Buchstabe c AVIG teilnehmen.[^6-4]
 
-<sup>1ter</sup> Versicherte nach Absatz 1 können während der Wartezeit an einem Berufspraktikum nach Artikel 64*a* Absatz 1 Buchstabe b AVIG teilnehmen, wenn die durchschnittliche Arbeitslosenquote der vergangenen sechs Monate in der Schweiz 3,3 Prozent übersteigt.[^6-5]
+<sup>1ter</sup> Versicherte nach Absatz 1 können während der Wartezeit an einem Berufspraktikum nach Artikel 64*a* Absatz 1 Buchstabe b AVIG teilnehmen.[^6-5]
 
 <sup>2</sup> Die übrigen Versicherten, die von der Erfüllung der Beitragszeit befreit sind, müssen eine Wartezeit von fünf Tagen bestehen.
 
@@ -193,7 +193,7 @@ Die Wartezeit nach Absatz 4 fällt dahin:
 - a. zwei Monate nach Beendigung des Arbeitsverhältnisses, das sie begründet;
 - b. wenn das Arbeitsverhältnis ununterbrochen mindestens ein Jahr gedauert hat;
 - c. wenn das Arbeitsverhältnis nach Absatz 4 aus wirtschaftlichen Gründen vorzeitig aufgelöst wird;
-- d. wenn je Kontrollperiode insgesamt nicht mehr als fünf Arbeitstage nachgewiesen werden.
+- d.[^6-7] wenn je Kontrollperiode nicht mehr als fünf Tage kontrollierter Arbeitslosigkeit ausgewiesen werden.
 
 <sup>6</sup> Die Wartezeit ist zusätzlich zur allgemeinen Wartezeit nach Artikel 18 Absatz 1 AVIG zu bestehen. Als Wartezeit gelten nur diejenigen Tage, für die der Versicherte die Anspruchsvoraussetzungen (Art. 8 Abs. 1 AVIG) erfüllt.
 
@@ -201,8 +201,9 @@ Die Wartezeit nach Absatz 4 fällt dahin:
 [^6-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^6-4]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^6-5]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^6-5]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 [^6-6]: Aufgehoben durch Ziff. I der V vom 11. März 2011, mit Wirkung seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^6-7]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 6a
 
@@ -280,11 +281,13 @@ Erhält der Versicherte eine Ferienentschädigung in der Höhe von mindestens 20
 
 ### (Art. 11 Abs. 5 AVIG)
 
-<sup>1</sup> Hat der Versicherte gegen die Einstellung der Lohnzahlung, die mit einem Verfahren zur Auflösung seines öffentlichrechtlichen Dienstverhältnisses verbunden ist, Beschwerde erhoben, so ist der bis zum Abschluss des Hauptverfahrens erlittene Arbeitsausfall des Versicherten vorläufig anrechenbar. Die Kasse zahlt die Entschädigung aus, wenn der Versicherte alle Anspruchsvoraussetzungen erfüllt und insbesondere vermittlungsfähig ist.
+<sup>1</sup> Hat der Versicherte gegen die Einstellung der Lohnzahlung, die mit einem Verfahren zur Auflösung seines öffentlichrechtlichen Dienstverhältnisses verbunden ist, Beschwerde erhoben, so ist der bis zum Abschluss des Hauptverfahrens erlittene Arbeitsausfall des Versicherten vorläufig anrechenbar. Die Arbeitslosenkasse[^10-1] zahlt die Entschädigung aus, wenn der Versicherte alle Anspruchsvoraussetzungen erfüllt und insbesondere vermittlungsfähig ist.
 
-<sup>2</sup> Mit der Zahlung gehen die im Verfahren festgestellten oder vom Arbeitgeber anerkannten Lohn- und Schadenersatzansprüche des Versicherten im Umfang der Entschädigung auf die Kasse über; diese muss die Ansprüche unverzüglich beim Arbeitgeber geltend machen.
+<sup>2</sup> Mit der Zahlung gehen die im Verfahren festgestellten oder vom Arbeitgeber anerkannten Lohn- und Schadenersatzansprüche des Versicherten im Umfang der Entschädigung auf die Arbeitslosenkasse über; diese muss die Ansprüche unverzüglich beim Arbeitgeber geltend machen.
 
-<sup>3</sup> Zeigt das Beschwerdeverfahren, dass der Versicherte durch sein Verhalten, insbesondere wegen Verletzung arbeitsvertraglicher Pflichten, dem Arbeitgeber Anlass zur Auflösung des Arbeitsverhältnisses gegeben hat, so stellt ihn die Kasse in der Anspruchsberechtigung ein und fordert die zu viel bezahlten Taggelder von ihm zurück.
+<sup>3</sup> Zeigt das Beschwerdeverfahren, dass der Versicherte durch sein Verhalten, insbesondere wegen Verletzung arbeitsvertraglicher Pflichten, dem Arbeitgeber Anlass zur Auflösung des Arbeitsverhältnisses gegeben hat, so stellt ihn die Arbeitslosenkasse in der Anspruchsberechtigung ein und fordert die zu viel bezahlten Taggelder von ihm zurück.
+
+[^10-1]: Ausdruck gemäss Ziff. I Abs. 2 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 10a
 
@@ -466,7 +469,7 @@ Ein ähnlicher Grund im Sinne von Artikel 14 Absatz 2 liegt insbesondere vor, we
 
 [^15-2]
 
-<sup>1</sup> Bei der Abklärung der Vermittlungsfähigkeit von Behinderten wirken die kantonalen Amtsstellen und die Kassen mit den zuständigen Organen der Invalidenversicherung zusammen. Einzelheiten regelt das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^15-3] im Einvernehmen mit dem Eidgenössischen Departement des Innern.[^15-4]
+<sup>1</sup> Bei der Abklärung der Vermittlungsfähigkeit von Behinderten wirken die kantonalen Amtsstellen und die Arbeitslosenkassen mit den zuständigen Organen der Invalidenversicherung zusammen. Einzelheiten regelt das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF)[^15-3] im Einvernehmen mit dem Eidgenössischen Departement des Innern.[^15-4]
 
 <sup>2</sup> Absatz 1 gilt ebenfalls, wenn Stellen der obligatorischen Unfallversicherung, der Krankenversicherung, der Militärversicherung oder der beruflichen Vorsorge bei der Abklärung der Anspruchsberechtigung oder bei der Vermittlung von Behinderten beteiligt sind.
 
@@ -692,17 +695,18 @@ Die zuständige Amtsstelle verfügt auf Gesuch hin, dass:
 
 <sup>2</sup> Als Tage kontrollierter Arbeitslosigkeit zählen Tage, an denen der Versicherte die Anspruchsvoraussetzungen erfüllt.
 
-<sup>3</sup> Der Versicherte hat den Bezug seiner kontrollfreien Tage spätestens 14 Tage im Voraus der zuständigen Amtsstelle zu melden. Ohne entschuldbaren Grund gelten die kontrollfreien Tage auch bei Nichtantritt als bezogen. Die kontrollfreien Tage können nur wochenweise bezogen werden.
+<sup>3</sup> Der Versicherte hat den Bezug seiner kontrollfreien Tage spätestens 14 Tage im Voraus der zuständigen Amtsstelle zu melden. Ohne entschuldbaren Grund gelten die kontrollfreien Tage auch bei Nichtantritt als bezogen. Die kontrollfreien Tage sind grundsätzlich wochenweise zu beziehen. Werden die Beratung und die Vermittlung nicht beeinträchtigt, so kann die zuständige Amtsstelle einen tageweisen Bezug gewähren.[^27-2]
 
 <sup>4</sup> Der Versicherte, der während eines Zwischenverdienstes ihm nach Arbeitsvertrag zustehende Ferien bezieht, hat auch für diese Zeit Anspruch auf Zahlungen nach Artikel 41*a*. Die während des Zwischenverdienstes bezogenen Ferientage werden von den bis zum Ferienbeginn erworbenen kontrollfreien Tagen abgezogen.
 
 <sup>5</sup> Nimmt der Versicherte an einer arbeitsmarktlichen Massnahme teil, so kann er während dieser Zeit höchstens so viele kontrollfreie Tage beziehen, wie sich auf Grund der Gesamtdauer dieser Massnahme ergeben. Kontrollfreie Tage können nur in Absprache mit dem Programmverantwortlichen bezogen werden.
 
-<sup>6</sup> Die versicherte Person darf die kontrollfreien Tage weder unmittelbar vor noch während noch unmittelbar nach der Stellensuche im Ausland (Art. 64 der Verordnung [EG] Nr. 883/2004[^27-2]) beziehen. Sie muss sich nach dem Auslandaufenthalt persönlich bei der zuständigen Amtsstelle melden und dort ihren Anspruch auf kontrollfreie Tage geltend machen.[^27-3]
+<sup>6</sup> Die versicherte Person darf die kontrollfreien Tage weder unmittelbar vor noch während noch unmittelbar nach der Stellensuche im Ausland (Art. 64 der Verordnung [EG] Nr. 883/2004[^27-3]) beziehen. Sie muss sich nach dem Auslandaufenthalt persönlich bei der zuständigen Amtsstelle melden und dort ihren Anspruch auf kontrollfreie Tage geltend machen.[^27-4]
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^27-2]: Siehe Fussnote zu Art. 18 Abs. 5.
-[^27-3]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^27-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^27-3]: Siehe Fussnote zu Art. 18 Abs. 5.
+[^27-4]: Eingefügt durch Ziff. I der V vom 28. Mai 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 27a
 
@@ -727,7 +731,7 @@ Als Kontrollperiode gilt jeder Kalendermonat.
 
 #### Art. 28
 
-**Kassenwahl und Kassenwechsel**[^28-1]
+**Arbeitslosenkassenwahl und Kassenwechsel**[^28-1]
 
 ### (Art. 20 Abs. 1 AVIG)
 
@@ -772,15 +776,19 @@ Zur Geltendmachung ihres Anspruchs für die weiteren Kontrollperioden legt die v
 
 **Auszahlung der Entschädigung und Bescheinigung für die Steuerbehörde**[^30-1]
 
-### (Art. 19 ATSG; Art. 20, 96*b* und 97*a* AVIG)
+### (Art. 19 ATSG, Art. 20 und 96*b* AVIG)
+
+[^30-2]
 
 <sup>1</sup> Die Arbeitslosenkasse zahlt die Entschädigung für die abgelaufene Kontrollperiode in der Regel im Lauf des folgenden Monats aus.
 
 <sup>2</sup> Die versicherte Person erhält eine schriftliche Abrechnung.
 
-<sup>3</sup> Die Arbeitslosenkasse stellt der versicherten Person zuhanden der Steuerbehörden eine Bescheinigung über die erhaltenen Leistungen aus. In Kantonen, die eine direkte Übermittlung dieser Bescheinigung vorsehen, wird sie der kantonalen Steuerbehörde elektronisch übermittelt (Art. 97*a* Abs. 1 Bst. c<sup>bis</sup> und Abs. 8 AVIG).
+<sup>3</sup> Die Arbeitslosenkasse stellt der versicherten Person zuhanden der Steuerbehörden eine Bescheinigung über die erhaltenen Leistungen aus.[^30-3]
 
 [^30-1]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^30-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 31
 
@@ -843,10 +851,10 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 <sup>1</sup> Der Zuschlag für die Kinder- und Ausbildungszulagen richtet sich nach dem Familienzulagengesetz des Kantons, in dem die versicherte Person wohnt.[^34-1]
 
-<sup>2</sup> Die Ausgleichsstelle der Arbeitslosenversicherung gibt den Durchführungsorganen im Einvernehmen mit dem Bundesamt für Sozialversicherungen jährlich die Ansätze und die wichtigsten Anspruchsvoraussetzungen bekannt.[^34-2]
+<sup>2</sup> Die Ausgleichsstelle der Arbeitslosenversicherung gibt den anderen Durchführungsstellen im Einvernehmen mit dem Bundesamt für Sozialversicherungen (BSV) jährlich die Ansätze und die wichtigsten Anspruchsvoraussetzungen bekannt.[^34-2]
 
 [^34-1]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^34-2]: Fassung gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^34-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 35
 
@@ -856,17 +864,18 @@ Im Sinne von Artikel 22 Absatz 2 Buchstabe c AVIG berücksichtigt werden Invalid
 
 [^35-1]
 
-<sup>1</sup> Die Kasse zieht den Arbeitnehmeranteil des AHV/IV/EO-Beitrages von den Taggeldern nach den Artikeln 18 ff. und 59*c*<sup>bis</sup> Absatz 1 AVIG ab.[^35-2]
+<sup>1</sup> Die Arbeitslosenkasse zieht den Arbeitnehmeranteil des AHV/IV/EO-Beitrages von den Taggeldern nach den Artikeln 18 ff. und 59*c*<sup>bis</sup> Absatz 1 AVIG ab.[^35-2]
 
-<sup>2</sup> Das Bundesamt für Sozialversicherungen regelt im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung[^35-3] die Beitragsabrechnung mit der AHV/IV/EO, die Meldung der auf den individuellen Konten der AHV einzutragenden Einkommen sowie die Deckung der daraus entstehenden Kosten.
+<sup>2</sup> Das BSV[^35-3] regelt im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung[^35-4] die Beitragsabrechnung mit der AHV/IV/EO, die Meldung der auf den individuellen Konten der AHV einzutragenden Einkommen sowie die Deckung der daraus entstehenden Kosten.
 
-<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung überprüft bei ihren periodischen Kontrollen (Art. 109 und 110) die AHV-Beitrags-Abzüge der Kasse und die Meldungen an das Arbeitsloseninformationssystem. Sie veranlasst die nötigen Berichtigungen und gibt dem Bundesamt für Sozialversicherungen ihre Revisionsbemerkungen bekannt.
+<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung überprüft bei ihren periodischen Kontrollen (Art. 109 und 110) die AHV-Beitrags-Abzüge der Arbeitslosenkasse und die Meldungen an das Arbeitsloseninformationssystem. Sie veranlasst die nötigen Berichtigungen und gibt dem BSV ihre Revisionsbemerkungen bekannt.
 
 <sup>4</sup> Die Eidgenössische Finanzkontrolle überprüft die von der Ausgleichsstelle der Arbeitslosenversicherung zuhanden der Zentralen Ausgleichsstelle der AHV erstellte AHV-Abrechnung sowie die Beitragsüberweisungen. Sie kontrolliert ausserdem die Meldungen, welche die Ausgleichsstelle der Arbeitslosenversicherung der Zentralen Ausgleichsstelle der AHV zur Führung der individuellen Konten liefert.
 
 [^35-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^35-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^35-3]: Ausdruck gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^35-3]: Ausdruck gemäss Ziff. I Abs. 1 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^35-4]: Ausdruck gemäss Ziff. I der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 36
 
@@ -1193,9 +1202,11 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 
 #### Art. 47
 
-**Weiterbildung im Betrieb**
+**Weiterbildung**
 
 ### (Art. 31 AVIG)
+
+[^47-1]
 
 <sup>1</sup> Der Anspruch auf Kurzarbeitsentschädigung bleibt bestehen, wenn der Arbeitgeber mit Einwilligung der kantonalen Amtsstelle die ausfallende Arbeitszeit ganz oder teilweise zur Weiterbildung der betroffenen Arbeitnehmer verwendet.
 
@@ -1207,6 +1218,8 @@ Die kantonale Amtsstelle darf ihre Einwilligung nur geben, wenn die Weiterbildun
 - b. durch sachkundige Personen nach einem zum voraus festgelegten Programm durchgeführt wird;
 - c. von der üblichen Tätigkeit im Betrieb klar getrennt ist und
 - d. nicht im alleinigen oder überwiegenden Interesse des Arbeitgebers liegt.
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 48
 
@@ -1467,22 +1480,22 @@ Zur Voranmeldung der Kurzarbeit muss der Arbeitgeber nebst den Angaben nach Arti
 
 #### Art. 60
 
-**Kassenwahl und Kassenwechsel**
+**Arbeitslosenkassenwahl und Kassenwechsel**
 
 ### (Art. 36 Abs. 2 Bst. c und 38 Abs. 1 AVIG)
 
-<sup>1</sup> Der Arbeitgeber kann für jede Betriebsabteilung (Art. 52) eine Kasse wählen.
+<sup>1</sup> Der Arbeitgeber kann für jede Betriebsabteilung (Art. 52) eine Arbeitslosenkasse wählen.
 
 <sup>2</sup>
 
-Hat der Arbeitgeber die Kurzarbeit angemeldet und eine Kasse bezeichnet, so darf er während der Zweijahresfrist (Art. 35 Abs. 1 AVIG) die Kasse nur wechseln, wenn:
+Hat der Arbeitgeber die Kurzarbeit angemeldet und eine Arbeitslosenkasse bezeichnet, so darf er während der Zweijahresfrist (Art. 35 Abs. 1 AVIG) die Arbeitslosenkasse nur wechseln, wenn:
 
-- a. die Kasse sein Entschädigungsgesuch wegen Unzuständigkeit zurückweist;
-- b. der Betrieb nicht mehr im örtlichen oder sachlichen Tätigkeitsbereich (Art. 78 Abs. 2 AVIG) der bisherigen Kasse liegt.
+- a. die Arbeitslosenkasse sein Entschädigungsgesuch wegen Unzuständigkeit zurückweist;
+- b. der Betrieb nicht mehr im örtlichen oder sachlichen Tätigkeitsbereich (Art. 78 Abs. 2 AVIG) der bisherigen Arbeitslosenkasse liegt.
 
-<sup>3</sup> Hat der Arbeitgeber innert der letzten zwei Jahre Schlechtwetterentschädigung geltend gemacht, so kann er die Kurzarbeitsentschädigung nur dann bei einer andern Kasse geltend machen, wenn eine Voraussetzung nach Absatz 2 erfüllt ist.
+<sup>3</sup> Hat der Arbeitgeber innert der letzten zwei Jahre Schlechtwetterentschädigung geltend gemacht, so kann er die Kurzarbeitsentschädigung nur dann bei einer andern Arbeitslosenkasse geltend machen, wenn eine Voraussetzung nach Absatz 2 erfüllt ist.
 
-<sup>4</sup> Die Ausgleichsstelle der Arbeitslosenversicherung kann einen Kassenwechsel bewilligen, wenn der Arbeitgeber nachweist, dass die bisherige Kasse nicht in der Lage ist, den Entschädigungsfall ordnungsgemäss abzuwickeln, oder dass sie bei der Erledigung eines früheren Entschädigungsfalles schwerwiegende Fehler begangen hat.
+<sup>4</sup> Die Ausgleichsstelle der Arbeitslosenversicherung kann einen Kassenwechsel bewilligen, wenn der Arbeitgeber nachweist, dass die bisherige Arbeitslosenkasse nicht in der Lage ist, den Entschädigungsfall ordnungsgemäss abzuwickeln, oder dass sie bei der Erledigung eines früheren Entschädigungsfalles schwerwiegende Fehler begangen hat.
 
 <sup>5</sup> Bei einem Kassenwechsel erhält die neue Arbeitslosenkasse Zugriffsrechte auf die Daten des entsprechenden Versichertenfalls sinngemäss nach Artikel 28 Absatz 3.[^60-1]
 
@@ -1653,7 +1666,7 @@ Die Frist für die Geltendmachung des Entschädigungsanspruchs beginnt mit dem e
 
 ### (Art. 47 Abs. 2 AVIG)
 
-Läuft für den Betrieb eine Zweijahresfrist für Kurzarbeitsentschädigung (Art. 35 Abs. 1 AVIG) oder hat er innert der letzten zwei Jahre Schlechtwetterentschädigung geltend gemacht, so kann er einen neuen Entschädigungsanspruch nur dann bei einer andern Kasse geltend machen, wenn eine Voraussetzung nach Artikel 60 Absatz 2 erfüllt ist.
+Läuft für den Betrieb eine Zweijahresfrist für Kurzarbeitsentschädigung (Art. 35 Abs. 1 AVIG) oder hat er innert der letzten zwei Jahre Schlechtwetterentschädigung geltend gemacht, so kann er einen neuen Entschädigungsanspruch nur dann bei einer andern Arbeitslosenkasse geltend machen, wenn eine Voraussetzung nach Artikel 60 Absatz 2 erfüllt ist.
 
 #### Art. 71a
 
@@ -1687,7 +1700,7 @@ Arbeitnehmer, die das Mindestalter für die Beitragspflicht in der AHV noch nich
 
 ### (Art. 51 AVIG)
 
-Die Kasse darf eine Insolvenzentschädigung nur ausrichten, wenn der Arbeitnehmer seine Lohnforderung glaubhaft macht.
+Die Arbeitslosenkasse darf eine Insolvenzentschädigung nur ausrichten, wenn der Arbeitnehmer seine Lohnforderung glaubhaft macht.
 
 [^74-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 
@@ -1718,17 +1731,17 @@ Als gleiches Arbeitsverhältnis im Sinne von Artikel 52 Absatz 1 AVIG gilt auch 
 
 <sup>1</sup>
 
-Die Kasse entrichtet auf der Insolvenzentschädigung die Beiträge (Arbeitnehmer- und Arbeitgeberanteil) für:
+Die Arbeitslosenkasse entrichtet auf der Insolvenzentschädigung die Beiträge (Arbeitnehmer- und Arbeitgeberanteil) für:
 
 - a. die AHV/IV/EO und die Arbeitslosenversicherung an die AHV-Ausgleichskasse des Arbeitgebers;
 - b. die obligatorische Unfallversicherung an den zuständigen Unfallversicherer;
 - c. die obligatorische berufliche Vorsorge an die Vorsorgeeinrichtung des Arbeitgebers.
 
-<sup>2</sup> Die Höhe der Beiträge für die obligatorische berufliche Vorsorge ergibt sich aus dem Reglement der Vorsorgeeinrichtung; die Kasse entrichtet nur die auf den koordinierten Lohn entfallenden Beiträge.
+<sup>2</sup> Die Höhe der Beiträge für die obligatorische berufliche Vorsorge ergibt sich aus dem Reglement der Vorsorgeeinrichtung; die Arbeitslosenkasse entrichtet nur die auf den koordinierten Lohn entfallenden Beiträge.
 
-<sup>3</sup> Den Arbeitnehmeranteil zieht die Kasse von der auszurichtenden Insolvenzentschädigung ab.
+<sup>3</sup> Den Arbeitnehmeranteil zieht die Arbeitslosenkasse von der auszurichtenden Insolvenzentschädigung ab.
 
-<sup>4</sup> Die Ausgleichsstelle der Arbeitslosenversicherung regelt im Einvernehmen mit dem Bundesamt für Sozialversicherungen das Verfahren.
+<sup>4</sup> Die Ausgleichsstelle der Arbeitslosenversicherung regelt im Einvernehmen mit dem BSV das Verfahren.
 
 <sup>5</sup> Für die Überprüfung der Abzüge gilt Artikel 35 Absatz 3 sinngemäss.
 
@@ -1764,11 +1777,11 @@ Die versicherte Person, die Insolvenzentschädigung beansprucht, muss der zustä
 
 #### Art. 78
 
-**Zusammenarbeit der Kassen**
+**Zusammenarbeit der Arbeitslosenkassen**
 
 ### (Art. 53 AVIG)
 
-Die zuständige Kasse kann öffentliche Kassen anderer Kantone für die Erledigung von Entschädigungsfällen zur Mithilfe heranziehen.
+Die zuständige Arbeitslosenkasse kann öffentliche Arbeitslosenkassen anderer Kantone für die Erledigung von Entschädigungsfällen zur Mithilfe heranziehen.
 
 #### Art. 79
 
@@ -1776,7 +1789,7 @@ Die zuständige Kasse kann öffentliche Kassen anderer Kantone für die Erledigu
 
 ### (Art. 54 AVIG)
 
-Verfahrensanträge, die für die Kasse mit einem Kostenrisiko verbunden sind, darf sie nur mit Zustimmung der Ausgleichsstelle der Arbeitslosenversicherung stellen. Dasselbe gilt für betreibungsrechtliche Klagen.
+Verfahrensanträge, die für die Arbeitslosenkasse mit einem Kostenrisiko verbunden sind, darf sie nur mit Zustimmung der Ausgleichsstelle der Arbeitslosenversicherung stellen. Dasselbe gilt für betreibungsrechtliche Klagen.
 
 #### Art. 80
 
@@ -1784,9 +1797,9 @@ Verfahrensanträge, die für die Kasse mit einem Kostenrisiko verbunden sind, da
 
 ### (Art. 54 Abs. 2 AVIG)
 
-<sup>1</sup> Müssen Forderungen im Ausland geltend gemacht werden, so unterbreitet die Kasse den Fall mit allen Unterlagen der Ausgleichsstelle der Arbeitslosenversicherung.
+<sup>1</sup> Müssen Forderungen im Ausland geltend gemacht werden, so unterbreitet die Arbeitslosenkasse den Fall mit allen Unterlagen der Ausgleichsstelle der Arbeitslosenversicherung.
 
-<sup>2</sup> Erscheint die Durchsetzung der Forderung zweifelhaft oder muss mit Umtrieben gerechnet werden, die in keinem vertretbaren Verhältnis zum Ergebnis stehen, so kann die Ausgleichsstelle der Arbeitslosenversicherung die Kasse ermächtigen, auf die Geltendmachung der Forderung zu verzichten.
+<sup>2</sup> Erscheint die Durchsetzung der Forderung zweifelhaft oder muss mit Umtrieben gerechnet werden, die in keinem vertretbaren Verhältnis zum Ergebnis stehen, so kann die Ausgleichsstelle der Arbeitslosenversicherung die Arbeitslosenkasse ermächtigen, auf die Geltendmachung der Forderung zu verzichten.
 
 ### Fünftes Kapitel: Arbeitsmarktliche Massnahmen
 
@@ -1920,7 +1933,7 @@ Die Ausgleichsstelle kann Kontrollen der arbeitsmarktlichen Massnahmen im Sinne 
 
 ### (Art. 59*c*<sup>bis</sup> Abs. 3 AVIG)
 
-<sup>1</sup> Wer an einer Bildungs- oder Beschäftigungsmassnahme teilnimmt, muss der Kasse mit den Rechnungen für die Auslagen eine Bescheinigung einreichen, in der die Leitung der Massnahme die Notwendigkeit der Anschaffung bestätigt.
+<sup>1</sup> Wer an einer Bildungs- oder Beschäftigungsmassnahme teilnimmt, muss der Arbeitslosenkasse mit den Rechnungen für die Auslagen eine Bescheinigung einreichen, in der die Leitung der Massnahme die Notwendigkeit der Anschaffung bestätigt.
 
 <sup>2</sup> Als Reisekosten bewilligt die kantonale Amtsstelle der versicherten Person unter Berücksichtigung der Dauer der Massnahme die Auslagen für die Billette oder Abonnemente 2. Klasse der öffentlichen Verkehrsmittel innerhalb der Landesgrenzen. Ausnahmsweise erhält die versicherte Person einen Betrag entsprechend den nachgewiesenen notwendigen Auslagen für die Benützung eines privaten Fahrzeugs, wenn kein öffentliches Verkehrsmittel zur Verfügung steht oder dessen Benützung ihr nicht zugemutet werden kann. Die kantonale Amtsstelle bestimmt den der versicherten Person für Unterkunft und Verpflegung am Ort der Bildungs- oder Beschäftigungsmassnahme zustehenden Beitrag.
 
@@ -1955,11 +1968,11 @@ Der Veranstalter der Massnahme darf von den teilnehmenden Personen keine Beiträ
 
 [^86-1]
 
-<sup>1</sup> Die Kasse zahlt die Vergütungen in der Regel zusammen mit dem Taggeld aus, wenn der Versicherte die Auslagen bis Ende der Kontrollperiode (Art. 18 Abs. 2 AVIG) nachweist. Kursbesucher, die keine Taggelder beziehen, legen ihre Unterlagen der Kasse jeweils bis Monatsende vor. Rechnungen für Kursbeiträge sowie für grössere Anschaffungen von Lehrmitteln können der Kasse zur direkten Bezahlung eingereicht werden.
+<sup>1</sup> Die Arbeitslosenkasse zahlt die Vergütungen in der Regel zusammen mit dem Taggeld aus, wenn der Versicherte die Auslagen bis Ende der Kontrollperiode (Art. 18 Abs. 2 AVIG) nachweist. Kursbesucher, die keine Taggelder beziehen, legen ihre Unterlagen der Arbeitslosenkasse jeweils bis Monatsende vor. Rechnungen für Kursbeiträge sowie für grössere Anschaffungen von Lehrmitteln können der Arbeitslosenkasse zur direkten Bezahlung eingereicht werden.
 
 <sup>2</sup> Die Vergütungen werden nicht ausgerichtet, wenn sie der Versicherte nicht spätestens drei Monate nach Ablauf des Monats, in dem die betreffenden Kosten angefallen sind, geltend macht. Unzustellbare Vergütungen verfallen nach drei Jahren.
 
-<sup>3</sup> An die Reisekosten sowie an die Auslagen für Unterkunft und Verpflegung darf die Kasse einen Vorschuss gewähren, wenn der Versicherte sonst in eine wirtschaftliche Notlage gerät.
+<sup>3</sup> An die Reisekosten sowie an die Auslagen für Unterkunft und Verpflegung darf die Arbeitslosenkasse einen Vorschuss gewähren, wenn der Versicherte sonst in eine wirtschaftliche Notlage gerät.
 
 [^86-1]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -1990,12 +2003,14 @@ Als anrechenbare Kosten der Bildungsmassnahme gelten:
 - c. die Prämien der Berufsunfall- und Sachversicherung;
 - d. die erforderlichen Unterkunfts- und Verpflegungskosten;
 - e. die zur Durchführung erforderlichen Transportkosten für Material und notwendige Ausrüstungen sowie die Kosten der Leitung und der Lehrkräfte für die Reise an den Ort, an dem die Massnahme stattfindet;
-- f. die erforderlichen Projektierungs‑, Kapital- und Raumkosten.
+- f.[^88-3] die erforderlichen Projektierungs-, Fremdkapital- und Raumkosten.
 
-<sup>2</sup> Die Träger der Bildungsmassnahmen führen ein Inventar über die mit Beiträgen der Arbeitslosenversicherung angeschafften Lehrmittel und Materialien. Diese dürfen nur mit Zustimmung der Ausgleichsstelle veräussert werden. Der dem geleisteten Beitrag entsprechende Anteil am Erlös wird dem Ausgleichsfonds zurückerstattet.
+<sup>2</sup> Die Träger der Bildungsmassnahmen führen ein Inventar über die mit Beiträgen der Arbeitslosenversicherung angeschafften Lehrmittel und Materialien. Diese dürfen nur mit Zustimmung der zuständigen Amtsstelle veräussert werden. Der dem geleisteten Beitrag entsprechende Anteil am Erlös wird dem Ausgleichsfonds der Arbeitslosenversicherung zurückerstattet.[^88-4]
 
 [^88-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^88-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^88-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^88-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 89
 
@@ -2019,7 +2034,7 @@ Die Vermittlung einer versicherten Person gilt als erschwert, wenn sie bei der h
 - b. körperlich, psychisch oder geistig behindert ist;
 - c.[^90-3] ungenügende berufliche Voraussetzungen hat;
 - d. bereits 150 Taggelder bezogen hat;
-- e.[^90-4] in einer Zeit erhöhter Arbeitslosigkeit nach Artikel 6 Absatz 1<sup>ter</sup> mangelnde berufliche Erfahrungen hat.[^90-5]
+- e.[^90-4] in einer Zeit erhöhter Arbeitslosigkeit mangelnde berufliche Erfahrungen hat.[^90-5]
 
 <sup>1bis</sup> Die Einarbeitungszuschüsse dürfen für längstens zwölf Monate ausgerichtet werden, wenn aufgrund der persönlichen Verhältnisse des Versicherten davon ausgegangen werden muss, dass das Einarbeitungsziel in sechs Monaten nicht erreicht werden kann.[^90-6]
 
@@ -2027,14 +2042,14 @@ Die Vermittlung einer versicherten Person gilt als erschwert, wenn sie bei der h
 
 <sup>3</sup> Die kantonale Amtsstelle klärt beim Arbeitgeber ab, ob die Voraussetzungen zur Gewährung von Einarbeitungszuschüssen erfüllt sind. Sie kann verlangen, dass die Bedingungen nach Artikel 65 Buchstaben b und c AVIG schriftlich vereinbart werden.
 
-<sup>4</sup> Die Kasse richtet die Einarbeitungszuschüsse dem Arbeitgeber aus. Dieser zahlt sie mit dem vereinbarten Lohn dem Versicherten aus.
+<sup>4</sup> Die Arbeitslosenkasse richtet die Einarbeitungszuschüsse dem Arbeitgeber aus. Dieser zahlt sie mit dem vereinbarten Lohn dem Versicherten aus.
 
 <sup>5</sup> Die Ausgleichsstelle kann für die Bemessung der Zuschüsse Richtlinien erlassen.
 
 [^90-1]: Fassung gemäss Ziff. I der V vom 19. Nov. 2003, in Kraft seit 1. Jan. 2004 ([AS 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 [^90-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^90-3]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^90-4]: Eingefügt durch Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^90-4]: Eingefügt durch Ziff. I der V vom 11. März 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)). Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 [^90-5]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^90-6]: Eingefügt durch Ziff. I der V vom 28. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^90-7]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2127,11 +2142,11 @@ Die versicherte Person erleidet eine finanzielle Einbusse, wenn bei ihrer neuen 
 
 <sup>1</sup> Für die Frist zur Einreichung des Gesuches um einen Pendlerkostenbeitrag oder einen Beitrag an Wochenaufenthalter gilt Artikel 81*e* Absatz 1 sinngemäss.[^95-2]
 
-<sup>2</sup> Der Versicherte muss der kantonalen Amtsstelle mit dem Gesuch um einen Pendlerkostenbeitrag oder einen Beitrag an Wochenaufenthalter die von ihm gewählte Kasse angeben. Er kann die Kasse nur wechseln, wenn eine der Voraussetzungen nach Artikel 28 Absatz 2 erfüllt ist.
+<sup>2</sup> Der Versicherte muss der kantonalen Amtsstelle mit dem Gesuch um einen Pendlerkostenbeitrag oder einen Beitrag an Wochenaufenthalter die von ihm gewählte Arbeitslosenkasse angeben. Er kann die Arbeitslosenkasse nur wechseln, wenn eine der Voraussetzungen nach Artikel 28 Absatz 2 erfüllt ist.
 
-<sup>3</sup> Die kantonale Amtsstelle teilt ihren Entscheid dem Versicherten und der Kasse mit.
+<sup>3</sup> Die kantonale Amtsstelle teilt ihren Entscheid dem Versicherten und der Arbeitslosenkasse mit.
 
-<sup>4</sup> Pendlerkostenbeiträge und Beiträge an Wochenaufenthalter werden monatlich ausgerichtet, nachdem der Versicherte der Kasse die erforderlichen Belege eingereicht hat. Die Kasse darf einen Vorschuss bis zu zwei Dritteln des voraussichtlichen Monatsbetrages gewähren, wenn der Versicherte sonst in eine wirtschaftliche Notlage gerät.
+<sup>4</sup> Pendlerkostenbeiträge und Beiträge an Wochenaufenthalter werden monatlich ausgerichtet, nachdem der Versicherte der Arbeitslosenkasse die erforderlichen Belege eingereicht hat. Die Arbeitslosenkasse darf einen Vorschuss bis zu zwei Dritteln des voraussichtlichen Monatsbetrages gewähren, wenn der Versicherte sonst in eine wirtschaftliche Notlage gerät.
 
 <sup>5</sup> Die Leistungen werden nicht ausgerichtet, wenn sie der Versicherte nicht spätestens drei Monate nach Ablauf des Monats, in dem die betreffenden Kosten angefallen sind, geltend macht. Unzustellbare Beiträge verfallen nach drei Jahren.
 
@@ -2194,10 +2209,11 @@ Das Gesuch muss mindestens enthalten:
 
 <sup>3</sup> Die zuständige Bürgschaftsorganisation entscheidet innert vier Wochen nach Zustellung des Gesuches und stellt eine Kopie ihres Entscheides der kantonalen Amtsstelle zu.
 
-<sup>4</sup> Wird eine Bürgschaft nach dem Bundesgesetz vom 6. Oktober 2006[^95c-2] über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen gewährt, so übernimmt der Ausgleichsfonds zugunsten der Bürgschaftsorganisation zusätzlich 20 Prozent des Verlustrisikos. Die kantonale Amtsstelle erlässt eine Verfügung über den vom Ausgleichsfonds garantierten Betrag.
+<sup>4</sup> Wird eine Bürgschaft nach dem Bundesgesetz vom 6. Oktober 2006[^95c-2] über die Finanzhilfen an gewerbeorientierte Bürgschaftsorganisationen gewährt, so übernimmt der Ausgleichsfonds der Arbeitslosenversicherung[^95c-3] zugunsten der Bürgschaftsorganisation zusätzlich 20 Prozent des Verlustrisikos. Die kantonale Amtsstelle erlässt eine Verfügung über den vom Ausgleichsfonds der Arbeitslosenversicherung garantierten Betrag.
 
 [^95c-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^95c-2]: [SR 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
+[^95c-3]: Ausdruck gemäss Ziff. I Abs. 3 der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Diese Änd. wurde im ganzen Erlass berücksichtigt, ausser in den in der AS genannten Bestimmungen.
 
 #### Art. 95d
 
@@ -2264,18 +2280,20 @@ Als anrechenbare Kosten der Durchführung einer Beschäftigungsmassnahme gelten:
 - c. die Prämien für die Berufsunfall- und die Sachversicherung;
 - d. die erforderlichen Unterkunfts- und Verpflegungskosten;
 - e. die erforderlichen Kosten für Transporte und Reisen zum Einsatzort;
-- f. die erforderlichen Projektierungs‑, Kapital- und Raumkosten.
+- f.[^97-3] die erforderlichen Projektierungs-, Fremdkapital- und Raumkosten.
 
 <sup>2</sup> Der jeweilige Bildungs- und Beschäftigungsanteil einer Beschäftigungsmassnahme ist massgebend für die entsprechende Anwendung von Absatz 1 dieses Artikels und Artikel 88 Absatz 1 zur Berechnung des Ersatzes der notwendigen Auslagen.
 
 <sup>3</sup> Der Veranstalter legt die Abrechnungen der Ausgleichsstelle vor. Diese kann eine periodische Abrechnung verlangen.
 
-<sup>4</sup> Der Träger führt ein Inventar über die mit Beiträgen der Arbeitslosenversicherung angeschafften Ausrüstungen und Materialien. Diese dürfen nur mit Zustimmung der Ausgleichsstelle veräussert werden. Der dem geleisteten Beitrag entsprechende Anteil am Erlös wird dem Ausgleichsfonds zurückerstattet.
+<sup>4</sup> Der Träger führt ein Inventar über die mit Beiträgen der Arbeitslosenversicherung angeschafften Ausrüstungen und Materialien. Diese dürfen nur mit Zustimmung der zuständigen Amtsstelle veräussert werden. Der dem geleisteten Beitrag entsprechende Anteil am Erlös wird dem Ausgleichsfonds der Arbeitslosenversicherung zurückerstattet.[^97-4]
 
 <sup>5</sup> Die Zusprechung von Beiträgen an Beschäftigungsmassnahmen kann mit Auflagen verbunden werden.
 
 [^97-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^97-2]: Fassung gemäss Ziff. I der V vom 11. März 2011, in Kraft seit 1. April 2011 ([AS 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^97-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^97-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 97a
 
@@ -2387,19 +2405,21 @@ Als anrechenbare Kosten gelten in der Regel:
 
 #### Art. 103
 
-**Meldepflicht der Kassen**
+**Meldepflicht der Arbeitslosenkassen**
 
 ### (Art. 79 Abs. 1 AVIG)
 
-Die Kassen melden der Ausgleichsstelle der Arbeitslosenversicherung die für die Geschäftsführung verantwortlichen Personen sowie jeden Wechsel bei diesen Personen.
+Die Arbeitslosenkassen melden der Ausgleichsstelle der Arbeitslosenversicherung die für die Geschäftsführung verantwortlichen Personen sowie jeden Wechsel bei diesen Personen.
 
 #### Art. 104
 
-**Form der Auszahlung**
+**Form der Auszahlung**[^104-1]
 
-### (Art. 79 Abs. 3 AVIG)
+### (Art. 81 Abs. 1 Bst. c AVIG)
 
-Die Kassen zahlen die Leistungen der Arbeitslosenversicherung soweit möglich bargeldlos aus.
+Die Arbeitslosenkassen zahlen die Leistungen der Arbeitslosenversicherung per Überweisung aus.
+
+[^104-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 105
 
@@ -2407,7 +2427,7 @@ Die Kassen zahlen die Leistungen der Arbeitslosenversicherung soweit möglich ba
 
 ### (Art. 81 Abs. 1 Bst. d AVIG)
 
-<sup>1</sup> Die Kassen verwenden das Betriebskapital für die laufenden Auszahlungen. Sie sorgen für ausreichende Liquidität und für die sichere Aufbewahrung der Vermögenswerte.
+<sup>1</sup> Die Arbeitslosenkassen verwenden das Betriebskapital für die laufenden Auszahlungen. Sie sorgen für ausreichende Liquidität und für die sichere Aufbewahrung der Vermögenswerte.
 
 <sup>2</sup> …[^105-1]
 
@@ -2425,7 +2445,7 @@ Die Kassen zahlen die Leistungen der Arbeitslosenversicherung soweit möglich ba
 
 ### (Art. 81 Abs. 1 Bst. c AVIG)
 
-Die Kassen erstellen auf Ende jedes Monats nach den Weisungen der Ausgleichsstelle eine Betriebsrechnung samt den erforderlichen statistischen Angaben. Sie reichen sie bis spätestens am 10. des folgenden Monats der Ausgleichsstelle ein.
+Die Arbeitslosenkassen erstellen auf Ende jedes Monats nach den Weisungen der Ausgleichsstelle eine Betriebsrechnung samt den erforderlichen statistischen Angaben. Sie reichen sie bis spätestens am 10. des folgenden Monats der Ausgleichsstelle ein.
 
 [^107-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
@@ -2435,9 +2455,9 @@ Die Kassen erstellen auf Ende jedes Monats nach den Weisungen der Ausgleichsstel
 
 ### (Art. 81 Abs. 1 Bst. e AVIG)
 
-<sup>1</sup> Die Kassen führen ihre Bücher nach den Weisungen der Ausgleichsstelle.
+<sup>1</sup> Die Arbeitslosenkassen führen ihre Bücher nach den Weisungen der Ausgleichsstelle.
 
-<sup>2</sup> Das Rechnungsjahr entspricht dem Kalenderjahr. Die Kassen reichen Betriebsrechnung und Bilanz des Rechnungsjahres bis Ende Januar der Ausgleichsstelle ein.[^108-2]
+<sup>2</sup> Das Rechnungsjahr entspricht dem Kalenderjahr. Die Arbeitslosenkassen reichen Betriebsrechnung und Bilanz des Rechnungsjahres bis Ende Januar der Ausgleichsstelle ein.[^108-2]
 
 [^108-1]: Fassung gemäss Ziff. I der V vom 28. Aug. 1991, in Kraft seit 1. Jan. 1992 ([AS 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^108-2]: Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
@@ -2477,9 +2497,10 @@ Die Prüfungen der Geschäftsführung bei den ALV-Durchführungsstellen umfassen
 
 <sup>1</sup> Die Ausgleichsstelle und die von ihr beauftragten Treuhandstellen prüfen jährlich die Rechnungsführung sowie periodisch und stichprobenweise das Inventar der Anlagen, die vom Ausgleichsfonds der Arbeitslosenversicherung finanziert wurden.
 
-<sup>2</sup> Hat ein Kassenträger bereits eine Treuhandstelle mit der Revision anderer von ihm getragener Institutionen oder seiner eigenen Geschäftsstelle beauftragt, so kann die Ausgleichsstelle auf seinen Antrag, dieselbe Treuhandstelle mit der Rechnungsprüfung der ALV-Kasse beauftragen. Dem Gesuch ist stattzugeben, wenn die Treuhandstelle die Voraussetzungen nach Artikel 109 Absatz 3 erfüllt und aus ihrer Wahl als Revisionsstelle keine Nachteile zu gewärtigen sind. Auftraggeber gegenüber der Treuhandstelle ist in jedem Fall die Ausgleichsstelle. Die beauftragte Treuhandstelle ist an die Weisungen der Ausgleichsstelle gebunden.
+<sup>2</sup> …[^109a-2]
 
 [^109a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^109a-2]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 109b
 
@@ -2502,9 +2523,9 @@ Die Ausgleichsstelle und die von ihr beauftragten Treuhandstellen prüfen period
 
 [^110-2]
 
-<sup>1</sup> Die Ausgleichsstelle prüft in regelmässigen Abständen vollumfänglich oder stichprobenweise, ob die Auszahlungen der Kassen rechtmässig sind.[^110-3]
+<sup>1</sup> Die Ausgleichsstelle prüft in regelmässigen Abständen vollumfänglich oder stichprobenweise, ob die Auszahlungen der Arbeitslosenkassen rechtmässig sind.[^110-3]
 
-<sup>2</sup> Die Kassen bewahren die Akten über die Versicherungsfälle vollständig und geordnet auf. Die Ausgleichsstelle kann jederzeit Einsicht nehmen.
+<sup>2</sup> Die Arbeitslosenkassen bewahren die Akten über die Versicherungsfälle vollständig und geordnet auf. Die Ausgleichsstelle kann jederzeit Einsicht nehmen.
 
 <sup>3</sup> Die Kassenrevision erstreckt sich auf die Vorgänge seit der letzten Revision. Liegt die letzte Revision weniger als ein Jahr zurück, so können sämtliche Vorgänge der letzten zwölf Monate geprüft werden. Die strafrechtliche Verjährungsfrist ist massgebend, wenn durch eine strafbare Handlung auf die Auszahlung eingewirkt wurde.[^110-4]
 
@@ -2524,7 +2545,7 @@ Die Ausgleichsstelle und die von ihr beauftragten Treuhandstellen prüfen period
 
 [^111-2]
 
-<sup>1</sup> Die Ausgleichsstelle hält das Ergebnis der Revision der Auszahlungen in einem schriftlichen Bericht fest und gibt es der Kasse sowie dem Träger in der Regel innert 60 Tagen bekannt.
+<sup>1</sup> Die Ausgleichsstelle hält das Ergebnis der Revision der Auszahlungen in einem schriftlichen Bericht fest und gibt es der Arbeitslosenkasse sowie dem Träger in der Regel innert 60 Tagen bekannt.
 
 <sup>2</sup> Sie eröffnet mittels Verfügung dem Arbeitgeber das Ergebnis der Arbeitgeberkontrolle. Der Arbeitslosenkasse obliegt das Inkasso allfälliger zurückgeforderter Beträge auf der Grundlage dieser Verfügung.[^111-3]
 
@@ -2550,7 +2571,7 @@ Die Ausgleichsstelle und die von ihr beauftragten Treuhandstellen prüfen period
 
 ### (Art. 88 Abs. 2<sup><sup>ter</sup></sup> AVIG)
 
-Erwirkt der Arbeitgeber missbräuchlich eine Kurzarbeits- oder Schlechtwetterentschädigung so berechnet sich der zu zahlende Betrag, indem die missbräuchlich erwirkte Entschädigung mit dem Zweifachen des Ergebnisses aus der Division der missbräuchlich angegebenen Stunden durch die gesamten der Kasse gemeldeten Stunden multipliziert wird.
+Erwirkt der Arbeitgeber missbräuchlich eine Kurzarbeits- oder Schlechtwetterentschädigung so berechnet sich der zu zahlende Betrag, indem die missbräuchlich erwirkte Entschädigung mit dem Zweifachen des Ergebnisses aus der Division der missbräuchlich angegebenen Stunden durch die gesamten der Arbeitslosenkasse gemeldeten Stunden multipliziert wird.
 
 [^111b-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -2560,11 +2581,11 @@ Erwirkt der Arbeitgeber missbräuchlich eine Kurzarbeits- oder Schlechtwetterent
 
 ### (Art. 83 Abs. 1 Bst. d AVIG)
 
-<sup>1</sup> Die Kasse kann innert einer Frist von 30 Tagen nach Zustellung des Revisionsberichtes gegen die vorläufigen Beanstandungen Einwendungen erheben sowie fehlende Belege beibringen oder unvollständige ergänzen.
+<sup>1</sup> Die Arbeitslosenkasse kann innert einer Frist von 30 Tagen nach Zustellung des Revisionsberichtes gegen die vorläufigen Beanstandungen Einwendungen erheben sowie fehlende Belege beibringen oder unvollständige ergänzen.
 
-<sup>2</sup> Die Ausgleichsstelle kann diese Frist erstrecken, wenn die Kasse vor Ablauf schriftlich ein begründetes Gesuch stellt.
+<sup>2</sup> Die Ausgleichsstelle kann diese Frist erstrecken, wenn die Arbeitslosenkasse vor Ablauf schriftlich ein begründetes Gesuch stellt.
 
-<sup>3</sup> Die Ausgleichsstelle kann die verspätete Aktenergänzung ablehnen, wenn die Kasse wiederholt und in gröblicher Weise die Akten unvollständig vorgelegt hat.
+<sup>3</sup> Die Ausgleichsstelle kann die verspätete Aktenergänzung ablehnen, wenn die Arbeitslosenkasse wiederholt und in gröblicher Weise die Akten unvollständig vorgelegt hat.
 
 #### Art. 113
 
@@ -2572,9 +2593,9 @@ Erwirkt der Arbeitgeber missbräuchlich eine Kurzarbeits- oder Schlechtwetterent
 
 ### (Art. 83 Abs. 1 Bst. d AVIG)
 
-<sup>1</sup> Nach Ablauf der Einwendungsfrist erteilt die Ausgleichsstelle der Kasse die erforderlichen Weisungen.
+<sup>1</sup> Nach Ablauf der Einwendungsfrist erteilt die Ausgleichsstelle der Arbeitslosenkasse die erforderlichen Weisungen.
 
-<sup>2</sup> Sie bezeichnet die beanstandeten Auszahlungen, die vom Empfänger zurückzufordern sind, und belastet gleichzeitig der Kasse die entsprechenden Beträge.
+<sup>2</sup> Sie bezeichnet die beanstandeten Auszahlungen, die vom Empfänger zurückzufordern sind, und belastet gleichzeitig der Arbeitslosenkasse die entsprechenden Beträge.
 
 <sup>3</sup> Für beanstandete Auszahlungen, die nicht zurückgefordert werden können, macht sie allfällige Schadenersatzansprüche gegenüber dem Träger geltend.
 
@@ -2598,7 +2619,7 @@ Erwirkt der Arbeitgeber missbräuchlich eine Kurzarbeits- oder Schlechtwetterent
 
 ### (Art. 82 Abs. 5, 83 und 85*g* Abs. 5 AVIG)
 
-Das WBF legt die Grundlage für die Berechnung der Haftungsrisikovergütung des Ausgleichsfonds an die Kassenträger und die Kantone sowie die Vergütungssumme und deren Ausrichtung fest.
+Das WBF legt die Grundlage für die Berechnung der Haftungsrisikovergütung des Ausgleichsfonds der Arbeitslosenversicherung an die Kassenträger und die Kantone sowie die Vergütungssumme und deren Ausrichtung fest.
 
 [^114a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)). Fassung gemäss Ziff. I der V vom 24. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
 
@@ -2610,13 +2631,13 @@ Das WBF legt die Grundlage für die Berechnung der Haftungsrisikovergütung des 
 
 [^115-2]
 
-<sup>1</sup> Die Ausgleichsstelle kann den Träger auf sein Gesuch hin von der Ersatzpflicht befreien, wenn er glaubhaft macht, dass die Kasse an der fehlerhaften Auszahlung nur ein leichtes Verschulden trifft.
+<sup>1</sup> Die Ausgleichsstelle kann den Träger auf sein Gesuch hin von der Ersatzpflicht befreien, wenn er glaubhaft macht, dass die Arbeitslosenkasse an der fehlerhaften Auszahlung nur ein leichtes Verschulden trifft.
 
-<sup>2</sup> Der Träger muss das Befreiungsgesuch innert 90 Tagen stellen, nachdem die Kasse von der Uneinbringlichkeit der Rückforderung Kenntnis erhalten hat.
+<sup>2</sup> Der Träger muss das Befreiungsgesuch innert 90 Tagen stellen, nachdem die Arbeitslosenkasse von der Uneinbringlichkeit der Rückforderung Kenntnis erhalten hat.
 
-<sup>3</sup> Die Befreiung von der Ersatzpflicht ist ausgeschlossen, wenn die Kasse entgegen der Weisung der Ausgleichsstelle die zu Unrecht erfolgte Auszahlung nicht vom Empfänger zurückgefordert hat.
+<sup>3</sup> Die Befreiung von der Ersatzpflicht ist ausgeschlossen, wenn die Arbeitslosenkasse entgegen der Weisung der Ausgleichsstelle die zu Unrecht erfolgte Auszahlung nicht vom Empfänger zurückgefordert hat.
 
-<sup>4</sup> Artikel 114 sowie die Absätze 1 und 2 dieses Artikels gelten sinngemäss, wenn die Kasse von sich aus eine zu Unrecht erfolgte Auszahlung zurückfordert.
+<sup>4</sup> Artikel 114 sowie die Absätze 1 und 2 dieses Artikels gelten sinngemäss, wenn die Arbeitslosenkasse von sich aus eine zu Unrecht erfolgte Auszahlung zurückfordert.
 
 [^115-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 [^115-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2637,27 +2658,27 @@ Die Artikel 109–115 gelten sinngemäss auch für die Kantone bezüglich ihrer 
 
 <sup>1</sup> Überträgt die Ausgleichsstelle die Revision der Auszahlungen dem Kanton oder einer anderen Stelle, so leistet sie einen angemessenen Kostenbeitrag.
 
-<sup>2</sup> Die Revisionsstelle hält das Ergebnis der Revision in einem schriftlichen Bericht fest und gibt es der Kasse, dem Träger und der Ausgleichsstelle in der Regel innert 60 Tagen bekannt. Das weitere Verfahren richtet sich nach den Artikeln 113–115.
+<sup>2</sup> Die Revisionsstelle hält das Ergebnis der Revision in einem schriftlichen Bericht fest und gibt es der Arbeitslosenkasse, dem Träger und der Ausgleichsstelle in der Regel innert 60 Tagen bekannt. Das weitere Verfahren richtet sich nach den Artikeln 113–115.
 
 #### Art. 117
 
-**Zuweisung der Mittel an die Kassen**
+**Zuweisung der Mittel an die Arbeitslosenkassen**
 
 ### (Art. 83 Abs. 1 Bst. g AVIG)
 
-Bei der Zuweisung der Mittel an die Kassen berücksichtigt die Ausgleichsstelle den Stand des Betriebskapitals und den voraussichtlichen Bedarf.
+Bei der Zuweisung der Mittel an die Arbeitslosenkassen berücksichtigt die Ausgleichsstelle den Stand des Betriebskapitals und den voraussichtlichen Bedarf.
 
 #### Art. 117a
 
-**Anstellung von Personal zulasten des Ausgleichsfonds**[^117a-1]
+**Anstellung von Personal zulasten des Ausgleichsfonds der Arbeitslosenversicherung**[^117a-1]
 
 ### (Art. 92 Abs. 3 AVIG)
 
-Über die Anstellung von Personal für die Ausgleichsstelle zulasten des Ausgleichsfonds der Versicherung entscheidet die Ausgleichsstelle abschliessend.
+Über die Anstellung von Personal für die Ausgleichsstelle zulasten des Ausgleichsfonds der Arbeitslosenversicherung entscheidet die Ausgleichsstelle abschliessend.
 
 [^117a-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000, in Kraft seit 1. Jan. 2001 ([AS 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 
-### 2. Abschnitt: Ausgleichsfonds
+### 2. Abschnitt: Ausgleichsfonds der Arbeitslosenversicherung
 
 #### Art. 118
 
@@ -2665,7 +2686,7 @@ Bei der Zuweisung der Mittel an die Kassen berücksichtigt die Ausgleichsstelle 
 
 ### (Art. 84 AVIG)
 
-<sup>1</sup> Kontrollstelle für den Ausgleichsfonds ist die Eidgenössische Finanzkontrolle.
+<sup>1</sup> Kontrollstelle für den Ausgleichsfonds der Arbeitslosenversicherung ist die Eidgenössische Finanzkontrolle.
 
 <sup>2</sup> Sie prüft die Jahresrechnung des Ausgleichsfonds und gibt die Prüfungsergebnisse dem Bundesrat bekannt. Die Beschlüsse der Aufsichtskommission kann sie nicht überprüfen.
 
@@ -2827,7 +2848,7 @@ Die Abrechnung muss mindestens enthalten:
 - d. Sozialversicherungsbeiträge; und
 - e. die Kosten für die besuchten arbeitsmarktlichen Massnahmen.
 
-<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung übermittelt dem Bundesamt für Sozialversicherungen eine Kopie der Abrechnung.
+<sup>3</sup> Die Ausgleichsstelle der Arbeitslosenversicherung übermittelt dem BSV eine Kopie der Abrechnung.
 
 <sup>4</sup> Die Zentrale Ausgleichsstelle der AHV prüft die Abrechnung und vergütet die Leistungen nach Artikel 94*a* AVIG.
 
@@ -2854,13 +2875,13 @@ Die Aufsichtskommission kann Aufgaben nach Artikel 89 AVIG einem Ausschuss über
 
 #### Art. 121b
 
-**Vermögensanlage des Ausgleichsfonds**[^121b-1]
+**Vermögensanlage des Ausgleichsfonds der Arbeitslosenversicherung**[^121b-1]
 
 ### (Art. 89 Abs. 1 AVIG)
 
-<sup>1</sup> Die Aufsichtskommission entscheidet über die Anlage der Mittel*.*
+<sup>1</sup> Die Aufsichtskommission entscheidet über die Anlage der Mittel.
 
-<sup>2</sup> Die Eidgenössische Finanzverwaltung legt die Gelder des Ausgleichsfonds auf Grund der von der Aufsichtskommission festgelegten Anlagestrategie und der Anlagerichtlinien an. Sie erstattet der Aufsichtskommission regelmässig über ihre Anlagetätigkeit Bericht.
+<sup>2</sup> Die Eidgenössische Finanzverwaltung legt die Gelder des Ausgleichsfonds der Arbeitslosenversicherung auf Grund der von der Aufsichtskommission festgelegten Anlagestrategie und der Anlagerichtlinien an. Sie erstattet der Aufsichtskommission regelmässig über ihre Anlagetätigkeit Bericht.
 
 [^121b-1]: Eingefügt durch Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -2874,11 +2895,13 @@ Die Aufsichtskommission kann Aufgaben nach Artikel 89 AVIG einem Ausschuss über
 
 <sup>1</sup> Die durch den Beitragsbezug entstandenen Kosten werden den AHV-Ausgleichskassen mit einer pauschalen Entschädigung vergütet.
 
-<sup>2</sup> Die Entschädigung der Ausgleichskasse richtet sich nach der Zahl der angeschlossenen Arbeitgeber und nach der durchschnittlichen AHV/IV/EO-Beitragssumme je Arbeitgeber. Das Bundesamt für Sozialversicherungen setzt die Entschädigungsansätze im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung fest.
+<sup>2</sup> Die Entschädigung der AHV-Ausgleichskasse richtet sich nach der Zahl der angeschlossenen Arbeitgeber und nach der durchschnittlichen AHV/IV/EO-Beitragssumme je Arbeitgeber. Das BSV setzt die Entschädigungsansätze im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung fest.[^122-1]
 
-<sup>3</sup> Das Bundesamt für Sozialversicherungen bestimmt die Stichjahre für die Berechnung, ermittelt die Rechnungselemente und setzt die Entschädigungen im einzelnen fest.
+<sup>3</sup> Das BSV bestimmt die Stichjahre für die Berechnung, ermittelt die Rechnungselemente und setzt die Entschädigungen im einzelnen fest.
 
-<sup>4</sup> AHV-Ausgleichskassen, die nachweisen, dass die Entschädigung die Kosten des Beitragsbezuges offensichtlich nicht deckt, können beim Bundesamt für Sozialversicherungen eine angemessene zusätzliche Entschädigung verlangen. Dieses Amt entscheidet im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung.
+<sup>4</sup> AHV-Ausgleichskassen, die nachweisen, dass die Entschädigung die Kosten des Beitragsbezuges offensichtlich nicht deckt, können beim BSV eine angemessene zusätzliche Entschädigung verlangen. Dieses Amt entscheidet im Einvernehmen mit der Ausgleichsstelle der Arbeitslosenversicherung.
+
+[^122-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 122a
 
@@ -2916,7 +2939,7 @@ Die Aufsichtskommission kann Aufgaben nach Artikel 89 AVIG einem Ausschuss über
 
 <sup>1</sup>
 
-Die Vereinbarung nach Artikel 92 Absatz 6 AVIG regelt die Zusammenarbeit zwischen dem Bund und dem Träger der Kasse beim Vollzug von Artikel 81 AVIG. Sie gibt dem Träger leistungsorientierte Anreize für einen effizienten Vollzug. Sie regelt insbesondere:
+Die Vereinbarung nach Artikel 92 Absatz 6 AVIG regelt die Zusammenarbeit zwischen dem Bund und dem Träger der Arbeitslosenkasse beim Vollzug von Artikel 81 AVIG. Sie gibt dem Träger leistungsorientierte Anreize für einen effizienten Vollzug. Sie regelt insbesondere:
 
 - a. die Umsetzung der Ziele des AVIG-Vollzuges;
 - b. die Indikatoren zur Messung der Leistung;
@@ -2926,7 +2949,7 @@ Die Vereinbarung nach Artikel 92 Absatz 6 AVIG regelt die Zusammenarbeit zwische
 - f. das Reporting;
 - g. die Dauer der Vereinbarung und die Kündigung.
 
-<sup>2</sup> Das WBF kann die Ausarbeitung der Vereinbarung sowie die Evaluation der erreichten Wirkungen einer durch die Ausgleichsstelle geleiteten Kommission übertragen, in welcher die Kassen vertreten sind.
+<sup>2</sup> Das WBF kann die Ausarbeitung der Vereinbarung sowie die Evaluation der erreichten Wirkungen einer durch die Ausgleichsstelle geleiteten Kommission übertragen, in welcher die Arbeitslosenkassen vertreten sind.
 
 <sup>3</sup> Hat ein Träger für ein Kalenderjahr die Vereinbarung nicht unterzeichnet, so wird die Vergütung seiner anrechenbaren Kosten auf Grund der erzielten Leistung festgelegt. Die Bemessung der Leistungsindikatoren erfolgt analog der Leistungsvereinbarung nach Artikel 92 Absatz 6 AVIG, die das WBF mit den anderen Kassenträgern abgeschlossen hat. Befindet sich die Leistung einer Arbeitslosenkasse innerhalb der neutralen Zone oder in der Bonuszone, so werden dem Träger 100 Prozent der anrechenbaren Kosten nach der Verordnung vom 12. Februar 1986[^122b-2] über die Verwaltungskostenentschädigung der Arbeitslosenkassen entschädigt. Befindet sich die Leistung in der Maluszone, so wird die Malusregelung der Leistungsvereinbarung angewendet, die mit den anderen Trägern abgeschlossen wurde.
 
@@ -2947,7 +2970,7 @@ Die Vereinbarung nach Artikel 92 Absatz 7 AVIG regelt die Zusammenarbeit zwische
 
 - a. die Umsetzung der Ziele des AVIG-Vollzuges;
 - b. die Indikatoren zur Messung der Wirkungen;
-- c. die Rahmenbedingungen für den Betrieb der Vollzugsstellen;
+- c.[^122c-2] die Rahmenbedingungen für den Betrieb der Durchführungsstellen;
 - d. die Leistungen der Ausgleichsstelle und der Kantone;
 - e. das Reporting;
 - f. die Dauer der Vereinbarung und die Kündigung.
@@ -2961,6 +2984,7 @@ Die Vereinbarung nach Artikel 92 Absatz 7 AVIG regelt die Zusammenarbeit zwische
 <sup>5</sup> Hat ein Kanton die vorgeschlagene Vereinbarung nicht unterzeichnet, so bestimmt das WBF per Verfügung darüber, in welchem Umfang diese angewendet wird.
 
 [^122c-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2000 ([AS 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)). Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^122c-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 123
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2025-11-01
+version: 2026-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20251101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20251101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 1<sup>er</sup> novembre 2025)
+du 31 août 1983 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -178,7 +178,7 @@ La perte de travail des assurés partiellement sans emploi (art. 10, al. 2, let.
 
 <sup>1bis</sup> Les assurés visés à l’al. 1 qui, ayant terminé l’école obligatoire, se mettent à la disposition du service de l’emploi, peuvent, pendant le délai d’attente prévu à l’al. 1, participer à un semestre de motivation visé à l’art. 64*a*, al. 1, let. c, LACI.[^6-4]
 
-<sup>1ter</sup> Les assurés visés à l’al. 1 peuvent participer à un stage professionnel visé à l’art. 64*a*, al. 1, let. b, LACI pendant le délai d’attente lorsque le taux de chômage moyen des six derniers mois dépasse 3,3 % en Suisse.[^6-5]
+<sup>1ter</sup> Les assurés visés à l’al. 1 peuvent participer à un stage professionnel visé à l’art. 64*a*, al. 1, let. b, LACI pendant le délai d’attente.[^6-5]
 
 <sup>2</sup> Les autres assurés libérés des conditions relatives à la période de cotisation doivent observer un délai d’attente de cinq jours.
 
@@ -193,7 +193,7 @@ Le délai d’attente visé à l’al. 4 devient caduc:
 - a. deux mois après le terme du rapport de travail sur lequel il repose;
 - b. lorsque le rapport de travail a duré au moins un an sans interruption;
 - c. lorsqu’un rapport de travail relevant de l’al. 4 a cessé avant terme pour des motifs d’ordre économique, ou
-- d. lorsque l’assuré ne justifie pas de plus de cinq jours de travail par période de contrôle.
+- d.[^6-7] lorsque l’assuré ne justifie pas de plus de cinq jours de chômage contrôlé par période de contrôle.
 
 <sup>6</sup> Le délai d’attente spécial doit être observé en sus du délai d’attente général visé à l’art. 18, al. 1, LACI. Ne sont réputés délais d’attente que les jours pour lesquels l’assuré remplit les conditions donnant droit à l’indemnité.
 
@@ -201,8 +201,9 @@ Le délai d’attente visé à l’al. 4 devient caduc:
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^6-4]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^6-5]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^6-5]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 [^6-6]: Abrogé par le ch. I de l’O du 11 mars 2011, avec effet au 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^6-7]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 6a
 
@@ -280,11 +281,13 @@ Si l’assuré a touché une indemnité de vacances représentant 20 pour cent o
 
 ### (art, 11, al. 4, LACI)
 
-<sup>1</sup> Si l’assuré a interjeté recours contre une suspension du versement de son salaire, liée à une procédure visant à mettre fin à un rapport de service fondé sur le droit public, la perte de travail que subit l’assuré est prise provisoirement en considération jusqu’au terme de la procédure principale. La caisse verse l’indemnité lorsque l’assuré remplit toutes les conditions dont dépend le droit à l’indemnité et qu’il est notamment apte au placement.
+<sup>1</sup> Si l’assuré a interjeté recours contre une suspension du versement de son salaire, liée à une procédure visant à mettre fin à un rapport de service fondé sur le droit public, la perte de travail que subit l’assuré est prise provisoirement en considération jusqu’au terme de la procédure principale. La caisse de chômage[^10-1] verse l’indemnité lorsque l’assuré remplit toutes les conditions dont dépend le droit à l’indemnité et qu’il est notamment apte au placement.
 
-<sup>2</sup> Par son versement, la caisse se substitue, jusqu’à concurrence du montant de l’indemnité, à l’assuré en ce qui concerne les droits de celui-ci au salaire et à des dommages-intérêts, droits à établir par la procédure en cours ou reconnus par l’employeur; la caisse est tenue de faire valoir sans délai ses droits envers l’employeur.
+<sup>2</sup> Par son versement, la caisse de chômage se substitue, jusqu’à concurrence du montant de l’indemnité, à l’assuré en ce qui concerne les droits de celui-ci au salaire et à des dommages-intérêts, droits à établir par la procédure en cours ou reconnus par l’employeur; la caisse de chômage est tenue de faire valoir sans délai ses droits envers l’employeur.
 
-<sup>3</sup> Si la procédure de recours révèle que, par son comportement et notamment par la violation des devoirs lui incombant en vertu de son contrat de travail, l’assuré a donné à son employeur des motifs justifiant la cessation du rapport de service, la caisse le suspend dans l’exercice de son droit et exige de lui qu’il rembourse les indemnités journalières reçues en trop.
+<sup>3</sup> Si la procédure de recours révèle que, par son comportement et notamment par la violation des devoirs lui incombant en vertu de son contrat de travail, l’assuré a donné à son employeur des motifs justifiant la cessation du rapport de service, la caisse de chômage le suspend dans l’exercice de son droit et exige de lui qu’il rembourse les indemnités journalières reçues en trop.
+
+[^10-1]: Nouvelle expression selon le ch. I al. 2 de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Il a été tenu compte de cette mod. dans tout le texte, sauf dans les disp. mentionnées dans le RO.
 
 #### Art. 10a
 
@@ -466,7 +469,7 @@ Constitue notamment une raison semblable au sens de l’art. 14, al. 2, LACI, le
 
 [^15-2]
 
-<sup>1</sup> Pour déterminer l’aptitude au placement des handicapés, les autorités cantonales et les caisses coopèrent avec les organes compétents de l’assurance-invalidité. Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^15-3] règle les modalités en accord avec le Département fédéral de l’intérieur.[^15-4]
+<sup>1</sup> Pour déterminer l’aptitude au placement des handicapés, les autorités cantonales et les caisses de chômage[^15-3] coopèrent avec les organes compétents de l’assurance-invalidité. Le Département fédéral de l’économie, de la formation et de la recherche (DEFR)[^15-4] règle les modalités en accord avec le Département fédéral de l’intérieur.[^15-5]
 
 <sup>2</sup> L’al. 1 est également applicable lorsque des institutions de l’assurance-accidents obligatoire, de l’assurance-maladie, de l’assurance militaire ou de la prévoyance professionnelle sont impliquées dans l’examen du droit à l’indemnité ou dans le placement de handicapés.
 
@@ -474,8 +477,9 @@ Constitue notamment une raison semblable au sens de l’art. 14, al. 2, LACI, le
 
 [^15-1]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 [^15-2]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3945](https://fedlex.data.admin.ch/eli/oc/2002/620)).
-[^15-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
-[^15-4]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
+[^15-3]: Nouvelle expression selon le ch. I al. 2 de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Il a été tenu compte de cette mod. dans tout le texte, sauf dans les disp. mentionnées dans le RO.
+[^15-4]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Il a été tenu compte de cette mod. dans tout le texte.
+[^15-5]: Nouvelle teneur selon le ch. I de l’O du 22 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2921](https://fedlex.data.admin.ch/eli/oc/2000/515)).
 
 #### Art. 16
 
@@ -656,11 +660,12 @@ L’office compétent décide à la demande de l’assuré de:
 
 - a. dispenser ce dernier, pendant une semaine au plus, de l’obligation d’être apte au placement afin qu’il puisse prendre part à une élection ou une votation d’importance nationale à l’étranger, ou l’autoriser à déplacer la date de son entretien de conseil et de contrôle si ce dernier tombe pendant les trois jours précédant ou suivant le jour du scrutin;
 - b. dispenser l’assuré gravement handicapé de l’obligation de se présenter aux entretiens de conseil et de contrôle à l’office compétent, lorsque les circonstances l’exigent et que le conseil et le contrôle sont assurés d’une autre manière;
-- c. dispenser l’assuré, pendant trois semaines au plus, de l’obligation de se présenter aux entretiens de conseil et de contrôle s’il doit se rendre à l’étranger pour un entretien d’embauche, s’il effectue un stage d’essai, ou encore s’il se soumet à un test d’aptitude professionnelle sur le lieu de travail;
+- c.[^25-2] dispenser l’assuré, pendant trois semaines au plus, de l’obligation de se présenter aux entretiens de conseil et de contrôle s’il doit se rendre à l’étranger pour un entretien d’embauche, s’il effectue un stage d’orientation professionnelle ou s’il se soumet à un test d’aptitude professionnelle sur le lieu de travail;
 - d. autoriser l’assuré à déplacer la date de son entretien de conseil et de contrôle s’il apporte la preuve qu’il ne peut se libérer à la date convenue en raison d’un événement contraignant, notamment parce qu’il doit se déplacer pour se présenter à un employeur;
 - e. dispenser l’assuré, pendant trois jours au plus, de l’obligation d’être apte au placement lorsqu’il est directement touché par un événement familial particulier, notamment en cas de mariage, de naissance ou de décès, ou pour soigner un enfant malade ou un proche parent. Si la date de cet événement coïncide avec la date convenue pour l’entretien de conseil et de contrôle, une nouvelle date est fixée.
 
 [^25-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 25a
 
@@ -697,17 +702,18 @@ L’office compétent décide à la demande de l’assuré de:
 
 <sup>2</sup> Comptent comme jours de chômage contrôlé les jours pendant lesquels l’assuré remplit les conditions du droit à l’indemnité.
 
-<sup>3</sup> L’assuré doit aviser l’office compétent de son intention de prendre des jours sans contrôle au moins deux semaines à l’avance. S’il renonce ensuite à les prendre sans motif valable, il n’y aura plus droit. Il ne peut prendre ses jours sans contrôle que par semaine entière.
+<sup>3</sup> L’assuré doit aviser l’office compétent de son intention de prendre des jours sans contrôle au moins deux semaines à l’avance. S’il renonce ensuite sans motif valable à les prendre, il n’y a plus droit. En principe, les jours sans contrôle doivent être pris par semaine entière. L’office compétent peut accorder la prise individuelle de jours sans contrôle si elle ne nuit ni au conseil ni au placement.[^27-2]
 
 <sup>4</sup> L’assuré qui prend les vacances auxquelles il a droit en vertu du droit du travail pendant qu’il réalise un gain intermédiaire a droit aux paiements visés à l’art. 41*a* pendant cette période. Les jours de vacances qu’il a pris pendant qu’il réalisait un gain intermédiaire sont déduits des jours sans contrôle accumulés avant le début des vacances.
 
 <sup>5</sup> L’assuré qui participe à une mesure relative au marché du travail ne peut toucher pendant cette période que le nombre de jours sans contrôle auxquels il a droit en fonction de la durée totale de la mesure. Les jours sans contrôle ne peuvent être pris qu’avec l’accord du responsable du programme.
 
-<sup>6</sup> L’assuré ne peut pas prendre de jours sans contrôle immédiatement avant ou après son séjour à l’étranger au titre de l’art. 64 du règlement (CE) n<sup>o</sup> 883/2004[^27-2], ni pendant ce séjour. À son retour, il doit se présenter à l’office compétent pour y faire valoir des jours sans contrôle.[^27-3]
+<sup>6</sup> L’assuré ne peut pas prendre de jours sans contrôle immédiatement avant ou après son séjour à l’étranger au titre de l’art. 64 du règlement (CE) n<sup>o</sup> 883/2004[^27-3], ni pendant ce séjour. À son retour, il doit se présenter à l’office compétent pour y faire valoir des jours sans contrôle.[^27-4]
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^27-2]: Cf. note de bas de page relative à l’art. 18, al. 5.
-[^27-3]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^27-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^27-3]: Cf. note de bas de page relative à l’art. 18, al. 5.
+[^27-4]: Introduit par le ch. I de l’O du 28 mai 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 27a
 
@@ -732,15 +738,15 @@ Chaque mois civil constitue une période de contrôle.
 
 #### Art. 28
 
-**Choix de la caisse et changement de caisse**[^28-1]
+**Choix de la caisse de chômage et changement de caisse de chômage**[^28-1]
 
 ### (art. 20, al. 1, LACI)
 
 <sup>1</sup> L’assuré est informé des caisses de chômage à sa disposition et en choisit une au plus tard lors du premier entretien de conseil et de contrôle (art. 20*a*).
 
-<sup>2</sup> Durant le délai-cadre d’indemnisation, l’assuré n’est autorisé à changer de caisse que s’il quitte le domaine d’activité de la caisse. Le changement doit s’opérer au début d’une période de contrôle, sauf s’il a lieu à la fin du délai-cadre d’indemnisation.
+<sup>2</sup> Durant le délai-cadre d’indemnisation, l’assuré n’est autorisé à changer de caisse de chômage que s’il quitte le domaine d’activité de la caisse de chômage. Le changement doit s’opérer au début d’une période de contrôle, sauf s’il a lieu à la fin du délai-cadre d’indemnisation.
 
-<sup>3</sup> En cas de changement de caisse, la nouvelle caisse acquiert les droits d’accès aux données du cas de l’assuré correspondant dès le début de la période de contrôle suivante. L’ancienne caisse de chômage conserve les droits d’accès pour les besoins de procédures en cours.
+<sup>3</sup> En cas de changement de caisse de chômage, la nouvelle caisse de chômage acquiert les droits d’accès aux données du cas de l’assuré correspondant dès le début de la période de contrôle suivante. L’ancienne caisse de chômage conserve les droits d’accès pour les besoins de procédures en cours.
 
 [^28-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
@@ -777,15 +783,19 @@ Afin de faire valoir son droit à l’indemnité pour les périodes de contrôle
 
 **Versement des indemnités et attestation pour l’autorité fiscale**[^30-1]
 
-### (art. 19 LPGA; art. 20, 96*b* et 97*a* LACI<sup>)</sup>
+### (art. 19 LPGA: art. 20 et 96*b* LACI)
+
+[^30-2]
 
 <sup>1</sup> La caisse de chômage verse les indemnités pour la période de contrôle écoulée en règle générale dans le courant du mois suivant.
 
 <sup>2</sup> L’assuré reçoit un décompte écrit.
 
-<sup>3</sup> La caisse de chômage remet à l’assuré à l’intention des autorités fiscales une attestation faisant état des prestations reçues. Dans les cantons qui en prévoient la possibilité, l’attestation est transmise directement par voie électronique à l’autorité fiscale cantonale (art. 97*a*, al. 1, let. c<sup>bis</sup>, et 8, LACI).
+<sup>3</sup> La caisse de chômage remet à l’assuré à l’intention des autorités fiscales une attestation faisant état des prestations reçues.[^30-3]
 
 [^30-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^30-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 31
 
@@ -861,11 +871,11 @@ Sont prises en considération au sens de l’art. 22, al. 2, let. c, LACI les re
 
 [^35-1]
 
-<sup>1</sup> La caisse prélève la part du travailleur à la cotisation AVS/AI/APG sur les indemnités journalières selon les art. 18 ss et 59*c*<sup>bis</sup>, al. 1, LACI.[^35-2]
+<sup>1</sup> La caisse de chômage prélève la part du travailleur à la cotisation AVS/AI/APG sur les indemnités journalières selon les art. 18 ss et 59*c*<sup>bis</sup>, al. 1, LACI.[^35-2]
 
 <sup>2</sup> L’OFAS règle, en accord avec le SECO, le décompte de cotisation à l’AVS/AI/APG, l’inscription des revenus à porter aux comptes individuels de l’AVS ainsi que la couverture des frais qui en résultent.[^35-3]
 
-<sup>3</sup> L’organe de compensation de l’assurance-chômage vérifie, lors de ses contrôles périodiques (art. 109 et 110), les prélèvements de la cotisation AVS par la caisse et leur enregistrement dans le système d’information de l’assurance-chômage. Il procède aux rectifications nécessaires et communique le résultat de ses révisions à l’OFAS.[^35-4]
+<sup>3</sup> L’organe de compensation de l’assurance-chômage vérifie, lors de ses contrôles périodiques (art. 109 et 110), les prélèvements de la cotisation AVS par la caisse de chômage et leur enregistrement dans le système d’information de l’assurance-chômage. Il procède aux rectifications nécessaires et communique le résultat de ses révisions à l’OFAS.[^35-4]
 
 <sup>4</sup> Le Contrôle fédéral des finances examine le décompte AVS établi par l’organe de compensation de l’assurance-chômage à l’intention de la Centrale de compensation de l’AVS ainsi que les virements des cotisations. Il contrôle en outre les données que l’organe de compensation de l’assurance-chômage fournit à la Centrale de compensation de l’AVS pour la tenue des comptes individuels.
 
@@ -1199,20 +1209,24 @@ Il y a faute grave lorsque, sans motif valable, l’assuré:
 
 #### Art. 47
 
-**Perfectionnement professionnel dans l’entreprise**
+**Formation continue[^47-1]**
 
-### (art. 31 LACI)
-
-<sup>1</sup> Le droit à l’indemnité en cas de réduction de l’horaire de travail subsiste lorsque l’employeur utilise complètement ou partiellement, avec l’accord de l’autorité cantonale, le temps de travail qui est supprimé pour perfectionner sur le plan professionnel les travailleurs concernés.
+<sup>1</sup> Le droit à l’indemnité en cas de réduction de l’horaire de travail subsiste lorsque l’employeur utilise complètement ou partiellement, avec l’accord de l’autorité cantonale, la perte de travail pour la formation continue des travailleurs concernés.[^47-2]
 
 <sup>2</sup>
 
-L’autorité cantonale n’est habilitée à donner son accord qu’à condition que le perfectionnement professionnel:
+L’autorité cantonale n’est habilitée à donner son accord qu’à condition que la formation continue:[^47-3]
 
 - a. procure des connaissances ou des techniques de travail dont le travailleur puisse tirer profit également lors d’un changement d’emploi ou qui lui soient indispensables pour conserver sa place de travail actuelle;
-- b. soit organisé par des personnes compétentes selon un programme établi à l’avance;
-- c. soit rigoureusement séparé des activités usuelles de l’entreprise et
+- b.[^47-4] soit organisée par des personnes compétentes selon un programme établi à l’avance;
+- c.[^47-5] soit rigoureusement séparée des activités usuelles de l’entreprise, et
 - d. ne serve pas les intérêts exclusifs ou prépondérants de l’employeur.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-4]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-5]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 48
 
@@ -1474,24 +1488,24 @@ Avec son préavis de réduction de l’horaire de travail, l’employeur doit, e
 
 #### Art. 60
 
-**Choix de la caisse et changement de caisse**
+**Choix de la caisse de chômage et changement de caisse de chômage**
 
 ### (art. 36, al. 2, let. c et 38, al. 1, LACI)
 
-<sup>1</sup> L’employeur peut choisir une caisse pour chacun des secteurs d’exploitation (art. 52).
+<sup>1</sup> L’employeur peut choisir une caisse de chômage pour chacun des secteurs d’exploitation (art. 52).
 
 <sup>2</sup>
 
-Lorsque l’employeur a annoncé la réduction de l’horaire de travail et choisi une caisse, il ne peut en changer, dans une période de deux ans (art. 35, al. 1, LACI), qu’à la condition que:
+Lorsque l’employeur a annoncé la réduction de l’horaire de travail et choisi une caisse de chômage, il ne peut en changer, dans une période de deux ans (art. 35, al. 1, LACI), qu’à la condition que:
 
-- a. la caisse refuse sa demande d’indemnisation parce qu’elle n’est pas compétente;
-- b. l’entreprise n’entre plus dans le champ d’activité de l’ancienne caisse à raison du lieu ou de la matière (art. 78, al. 2, LACI).
+- a. la caisse de chômage refuse sa demande d’indemnisation parce qu’elle n’est pas compétente;
+- b. l’entreprise n’entre plus dans le champ d’activité de l’ancienne caisse de chômage à raison du lieu ou de la matière (art. 78, al. 2, LACI).
 
-<sup>3</sup> Lorsque l’employeur a fait valoir des indemnités en cas d’intempéries au cours des deux dernières années, il ne peut faire valoir des indemnités en cas de réduction de l’horaire de travail auprès d’une autre caisse que s’il remplit l’une des deux conditions figurant à l’al. 2.
+<sup>3</sup> Lorsque l’employeur a fait valoir des indemnités en cas d’intempéries au cours des deux dernières années, il ne peut faire valoir des indemnités en cas de réduction de l’horaire de travail auprès d’une autre caisse de chômage que s’il remplit l’une des deux conditions figurant à l’al. 2.
 
-<sup>4</sup> L’organe de compensation de l’assurance-chômage peut autoriser un changement de caisse si l’employeur prouve que l’ancienne caisse n’est pas en mesure de régler le cas d’indemnisation conformément aux prescriptions ou qu’elle a commis de graves erreurs dans le règlement d’un cas d’indemnisation précédent.
+<sup>4</sup> L’organe de compensation de l’assurance-chômage peut autoriser un changement de caisse de chômage si l’employeur prouve que l’ancienne caisse de chômage n’est pas en mesure de régler le cas d’indemnisation conformément aux prescriptions ou qu’elle a commis de graves erreurs dans le règlement d’un cas d’indemnisation précédent.
 
-<sup>5</sup> En cas de changement de caisse, la nouvelle caisse acquiert les droits d’accès aux données du cas de l’assuré correspondant de manière analogue à l’art. 28, al. 3.[^60-1]
+<sup>5</sup> En cas de changement de caisse de chômage, la nouvelle caisse de chômage acquiert les droits d’accès aux données du cas de l’assuré correspondant de manière analogue à l’art. 28, al. 3.[^60-1]
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
@@ -1656,11 +1670,11 @@ Le délai pour exercer le droit à l’indemnité commence à courir le jour qui
 
 #### Art. 71
 
-**Changement de caisse**
+**Changement de caisse de chômage**
 
 ### (art. 47, al. 2, LACI)
 
-Lorsqu’en matière d’indemnité en cas de réduction de l’horaire de travail, un délai de deux ans court pour l’entreprise (art. 35, al. 1, LACI) ou que celle-ci a fait valoir des indemnités en cas d’intempéries au cours des deux dernières années, elle ne peut faire valoir de nouvelles indemnités auprès d’une autre caisse que si elle remplit une des conditions mentionnées à l’art. 60, al. 2.
+Lorsqu’en matière d’indemnité en cas de réduction de l’horaire de travail, un délai de deux ans court pour l’entreprise (art. 35, al. 1, LACI) ou que celle-ci a fait valoir des indemnités en cas d’intempéries au cours des deux dernières années, elle ne peut faire valoir de nouvelles indemnités auprès d’une autre caisse de chômage que si elle remplit une des conditions mentionnées à l’art. 60, al. 2.
 
 #### Art. 71a
 
@@ -1694,7 +1708,7 @@ Les travailleurs qui n’ont pas encore atteint l’âge minimum pour cotiser à
 
 ### (art. 51 LACI)
 
-La caisse n’est autorisée à verser une indemnité en cas d’insolvabilité que lorsque le travailleur rend plausible sa créance de salaire envers l’employeur.
+La caisse de chômage n’est autorisée à verser une indemnité en cas d’insolvabilité que lorsque le travailleur rend plausible sa créance de salaire envers l’employeur.
 
 [^74-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 
@@ -1725,15 +1739,15 @@ Compte comme même rapport de travail au sens de l’art. 52, al. 1, LACI, égal
 
 <sup>1</sup>
 
-La caisse prélève sur l’indemnité en cas d’insolvabilité les cotisations (parts du travailleur et de l’employeur) à:
+La caisse de chômage prélève sur l’indemnité en cas d’insolvabilité les cotisations (parts du travailleur et de l’employeur) à:
 
 - a. l’AVS/AI/APG et l’assurance-chômage à l’intention de la caisse de compensation AVS de l’employeur;
 - b. l’assurance-accidents obligatoire à l’intention de l’assureur compétent;
 - c. la prévoyance professionnelle obligatoire à l’intention de l’institution de prévoyance de l’employeur.
 
-<sup>2</sup> Le montant des cotisations à la prévoyance professionnelle obligatoire dépend du règlement de l’institution de prévoyance; la caisse ne prélève que les cotisations à percevoir sur le salaire coordonné.
+<sup>2</sup> Le montant des cotisations à la prévoyance professionnelle obligatoire dépend du règlement de l’institution de prévoyance; la caisse de chômage ne prélève que les cotisations à percevoir sur le salaire coordonné.
 
-<sup>3</sup> La caisse déduit la part du travailleur de l’indemnité à verser en cas d’insolvabilité.
+<sup>3</sup> La caisse de chômage déduit la part du travailleur de l’indemnité à verser en cas d’insolvabilité.
 
 <sup>4</sup> L’organe de compensation de l’assurance-chômage règle la procédure en accord avec l’OFAS.[^76-1]
 
@@ -1773,11 +1787,11 @@ L’assuré qui prétend à une indemnité pour insolvabilité doit fournir à l
 
 #### Art. 78
 
-**Collaboration des caisses**
+**Collaboration des caisses de chômage**
 
 ### (art. 53 LACI)
 
-Lorsque la caisse compétente a besoin d’aide, elle peut associer les caisses publiques d’autres cantons au règlement de cas d’indemnisation.
+Lorsque la caisse de chômage compétente a besoin d’aide, elle peut associer les caisses de chômage publiques d’autres cantons au règlement de cas d’indemnisation.
 
 #### Art. 79
 
@@ -1785,7 +1799,7 @@ Lorsque la caisse compétente a besoin d’aide, elle peut associer les caisses 
 
 ### (art. 54 LACI)
 
-La caisse n’est autorisée à engager des procédures pouvant entraîner des frais pour le créancier qu’avec le consentement de l’organe de compensation de l’assurance-chômage. Il en va de même des actions relevant du droit des poursuites.
+La caisse de chômage n’est autorisée à engager des procédures pouvant entraîner des frais pour le créancier qu’avec le consentement de l’organe de compensation de l’assurance-chômage. Il en va de même des actions relevant du droit des poursuites.
 
 #### Art. 80
 
@@ -1793,9 +1807,9 @@ La caisse n’est autorisée à engager des procédures pouvant entraîner des f
 
 ### (art. 54, al. 2, LACI)
 
-<sup>1</sup> Lorsqu’il est nécessaire de faire valoir une créance à l’étranger, la caisse soumet le cas à l’organe de compensation de l’assurance-chômage et lui remet le dossier complet.
+<sup>1</sup> Lorsqu’il est nécessaire de faire valoir une créance à l’étranger, la caisse de chômage soumet le cas à l’organe de compensation de l’assurance-chômage et lui remet le dossier complet.
 
-<sup>2</sup> Lorsque l’exigibilité de la créance est douteuse ou qu’il faut s’attendre à des complications sans rapport avec le résultat escompté, l’organe de compensation de l’assurance-chômage peut autoriser la caisse à renoncer à faire valoir la créance.
+<sup>2</sup> Lorsque l’exigibilité de la créance est douteuse ou qu’il faut s’attendre à des complications sans rapport avec le résultat escompté, l’organe de compensation de l’assurance-chômage peut autoriser la caisse de chômage à renoncer à faire valoir la créance.
 
 ### Chapitre 5 Mesures relatives au marché du travail
 
@@ -1803,7 +1817,11 @@ La caisse n’est autorisée à engager des procédures pouvant entraîner des f
 
 [^tit2-chap5-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 
-### Section 1 Reconversion, perfectionnement, intégration
+### Section 1 Reconversion, formation continue, intégration
+
+[^tit2-chap5-sec1-1]
+
+[^tit2-chap5-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 81
 
@@ -1929,7 +1947,7 @@ L’organe de compensation peut contrôler les mesures relatives au marché du t
 
 ### (art. 59*c*<sup>bis</sup>, al. 3, LACI)
 
-<sup>1</sup> La personne qui participe à une mesure de formation ou d’emploi doit remettre à la caisse les factures relatives aux dépenses, en y joignant une attestation de la direction de la mesure certifiant que ces dépenses sont indispensables.
+<sup>1</sup> La personne qui participe à une mesure de formation ou d’emploi doit remettre à la caisse de chômage les factures relatives aux dépenses, en y joignant une attestation de la direction de la mesure certifiant que ces dépenses sont indispensables.
 
 <sup>2</sup> Au titre des frais de déplacement, l’autorité cantonale accorde à l’assuré, en tenant compte de la durée de la mesure, un montant correspondant aux dépenses pour les billets ou abonnements de 2<sup>e</sup> classe des moyens de transport public à l’intérieur du pays. Exceptionnellement, elle autorise que les frais occasionnés par l’utilisation d’un moyen de transport privé soient remboursés à l’assuré, sur présentation d’un justificatif, lorsqu’il n’y a pas de moyen de transport public ou qu’on ne peut raisonnablement exiger de l’assuré qu’il l’utilise. L’autorité cantonale fixe la contribution revenant à l’assuré au titre des frais de logement et de subsistance au lieu où se déroule la mesure de formation.
 
@@ -1964,11 +1982,11 @@ L’organisateur de la mesure ne peut percevoir de frais d’écolage ni de cont
 
 [^86-1]
 
-<sup>1</sup> En règle générale, la caisse rembourse l’assuré en même temps qu’elle lui verse les indemnités journalières, pour autant que celui-ci apporte la preuve de ses dépenses jusqu’à la fin de la période de contrôle (art. 18, al. 2, LACI). Les participants à un cours qui ne reçoivent pas d’indemnités journalières présentent leurs documents à la caisse pour la fin de chaque mois. Les factures concernant les frais d’écolage ainsi que les achats importants de matériel de cours peuvent être remises à la caisse qui les réglera directement.
+<sup>1</sup> En règle générale, la caisse de chômage rembourse l’assuré en même temps qu’elle lui verse les indemnités journalières, pour autant que celui-ci apporte la preuve de ses dépenses jusqu’à la fin de la période de contrôle (art. 18, al. 2, LACI). Les participants à un cours qui ne reçoivent pas d’indemnités journalières présentent leurs documents à la caisse de chômage pour la fin de chaque mois. Les factures concernant les frais d’écolage ainsi que les achats importants de matériel de cours peuvent être remises à la caisse de chômage qui les réglera directement.
 
 <sup>2</sup> Le remboursement n’a pas lieu lorsque l’assuré ne l’a pas fait valoir au plus tard trois mois après la fin du mois au cours duquel les frais ont été occasionnés Les remboursements non réclamés se prescrivent par trois ans.
 
-<sup>3</sup> La caisse peut verser une avance sur l’indemnisation des frais de déplacement ainsi que de logement et de subsistance, lorsqu’à défaut d’une telle avance l’assuré tomberait dans un état de nécessité.
+<sup>3</sup> La caisse de chômage peut verser une avance sur l’indemnisation des frais de déplacement ainsi que de logement et de subsistance, lorsqu’à défaut d’une telle avance l’assuré tomberait dans un état de nécessité.
 
 [^86-1]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -1999,12 +2017,14 @@ Sont réputés frais à prendre en compte pour l’organisation d’une mesure d
 - c. les primes de l’assurance-accidents professionnels et de l’assurance-chose;
 - d. les frais nécessaires de logement et de repas;
 - e. les frais de transport du matériel et des équipements nécessaires à la mesure de formation ainsi que les frais de voyage des responsables de la mesure de formation et du corps enseignant jusqu’à l’endroit où celle-ci a lieu;
-- f. les frais nécessaires de projet, de capital investi et de locaux.
+- f.[^88-3] les frais nécessaires de projet, de capital étranger et de locaux.
 
-<sup>2</sup> L’organisation responsable de la mesure de formation dresse un inventaire du matériel didactique et autre acheté à l’aide des contributions de l’assurance-chômage. Ce matériel ne peut être aliéné qu’avec l’accord de l’organe de compensation. Le produit de la vente correspondant à la part de la subvention versée est restitué au fonds de compensation.
+<sup>2</sup> L’organisation responsable de la mesure de formation dresse un inventaire du matériel didactique et autre acheté à l’aide des contributions de l’assurance-chômage. Ce matériel ne peut être aliéné qu’avec l’accord de l’autorité compétente. Le produit de la vente correspondant à la part de la subvention versée est restitué au fonds de compensation de l’assurance-chômage.[^88-4]
 
 [^88-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^88-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^88-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^88-4]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 89
 
@@ -2028,7 +2048,7 @@ Le placement d’un assuré est réputé difficile lorsque, compte tenu de la si
 - b. de son handicap physique, psychique ou mental,
 - c.[^90-2] d’antécédents professionnels lacunaires;
 - d. du fait qu’il a déjà touché 150 indemnités journalières;
-- e.[^90-3] de son manque d’expériences professionnelles lors d’une période de chômage élevé au sens de l’art. 6, al. 1<sup>ter</sup>.[^90-4]
+- e.[^90-3] de son manque d’expériences professionnelles lors d’une période de chômage élevé.[^90-4]
 
 <sup>1bis</sup> Les allocations d’initiation au travail peuvent être versées durant une période de douze mois au maximum si la situation personnelle de l’assuré laisse présumer que le but de l’initiation au travail ne peut être atteint en six mois.[^90-5]
 
@@ -2036,13 +2056,13 @@ Le placement d’un assuré est réputé difficile lorsque, compte tenu de la si
 
 <sup>3</sup> L’autorité cantonale vérifie auprès de l’employeur si les conditions dont dépend l’octroi d’allocations d’initiation au travail sont remplies. Elle peut exiger que les conditions selon l’art. 65, let. b et c, LACI fasse l’objet d’un contrat écrit.
 
-<sup>4</sup> La caisse verse les allocations d’initiation au travail à l’employeur. Celui-ci les verse à son tour à l’assuré avec le salaire convenu.
+<sup>4</sup> La caisse de chômage verse les allocations d’initiation au travail à l’employeur. Celui-ci les verse à son tour à l’assuré avec le salaire convenu.
 
 <sup>5</sup> L’organe de compensation peut donner des directives pour le calcul des allocations.
 
 [^90-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 [^90-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^90-3]: Introduite par le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^90-3]: Introduite par le ch. I de l’O du 11 mars 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)). Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 [^90-4]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^90-5]: Introduit par le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^90-6]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2135,11 +2155,11 @@ L’assuré subit un désavantage financier lorsque, dans sa nouvelle activité:
 
 <sup>1</sup> L’art. 81*e*, al. 1, s’applique par analogie au délai de dépôt de la demande de contribution aux frais de déplacement quotidien ou de déplacement et de séjour hebdomadaires.[^95-2]
 
-<sup>2</sup> Avec sa requête en vue d’obtenir une contribution aux frais de déplacement quotidien ou aux frais de déplacement et de séjour hebdomadaires, l’assuré doit indiquer à l’autorité cantonale la caisse qu’il a choisie. Il ne peut changer de caisse que s’il remplit l’une des conditions posées à l’art. 28, al. 2.
+<sup>2</sup> Avec sa requête en vue d’obtenir une contribution aux frais de déplacement quotidien ou aux frais de déplacement et de séjour hebdomadaires, l’assuré doit indiquer à l’autorité cantonale la caisse de chômage qu’il a choisie. Il ne peut changer de caisse de chômage que s’il remplit l’une des conditions posées à l’art. 28, al. 2.
 
-<sup>3</sup> L’autorité cantonale communique sa décision à l’assuré et à la caisse.
+<sup>3</sup> L’autorité cantonale communique sa décision à l’assuré et à la caisse de chômage.
 
-<sup>4</sup> Les contributions aux frais de déplacement quotidien et celles aux frais de déplacement et de séjour hebdomadaires sont versées mensuellement après que l’assuré a remis à la caisse les pièces justificatives nécessaires. La caisse est autorisée à faire une avance pouvant atteindre au plus les deux tiers du montant mensuel probable, lorsqu’à défaut d’une telle avance l’assuré tomberait dans un état de nécessité.
+<sup>4</sup> Les contributions aux frais de déplacement quotidien et celles aux frais de déplacement et de séjour hebdomadaires sont versées mensuellement après que l’assuré a remis à la caisse de chômage les pièces justificatives nécessaires. La caisse de chômage est autorisée à faire une avance pouvant atteindre au plus les deux tiers du montant mensuel probable, lorsqu’à défaut d’une telle avance l’assuré tomberait dans un état de nécessité.
 
 <sup>5</sup> Les prestations ne sont plus versées lorsque l’assuré n’a pas fait valoir son droit au plus tard trois mois après la fin du mois au cours duquel les frais ont été occasionnés. Les contributions non remboursées se prescrivent par trois ans.
 
@@ -2199,10 +2219,11 @@ La demande doit contenir au moins:
 
 <sup>3</sup> L’organisation de cautionnement compétente statue dans les quatre semaines qui suivent l’expédition de la demande et envoie une copie de sa décision à l’autorité cantonale.
 
-<sup>4</sup> Si un cautionnement est accordé en vertu de la loi du 6 octobre 2006 sur les aides financières aux organisations de cautionnement en faveur des petites et moyennes entreprises[^95c-2], le fonds de compensation prend à sa charge la couverture de 20 % supplémentaires des risques de perte au profit de l’organisation de cautionnement. L’autorité cantonale rend une décision sur le montant garanti par le fonds de compensation.
+<sup>4</sup> Si un cautionnement est accordé en vertu de la loi du 6 octobre 2006 sur les aides financières aux organisations de cautionnement en faveur des petites et moyennes entreprises[^95c-2], le fonds de compensation de l’assurance-chômage[^95c-3] prend à sa charge la couverture de 20 % supplémentaires des risques de perte au profit de l’organisation de cautionnement. L’autorité cantonale rend une décision sur le montant garanti par le fonds de compensation de l’assurance-chômage.
 
 [^95c-1]: Introduit par le ch. I de l’O du 11 déc. 1995 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^95c-2]: [RS 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
+[^95c-3]: Nouvelle expression selon le ch. I al. 3 de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Il a été tenu compte de cette mod. dans tout le texte, sauf dans les disp. mentionnées dans le RO.
 
 #### Art. 95d
 
@@ -2272,18 +2293,20 @@ Sont réputés frais à prendre en compte pour l’organisation d’une mesure d
 - c. les primes de l’assurance-accidents professionnels et de l’assurance-chose;
 - d. les frais nécessaires de logement et de repas;
 - e. les frais de voyage ainsi que les frais de transport du matériel et des équipements nécessaires à l’exécution de la mesure d’emploi jusqu’à l’endroit où la mesure se déroule;
-- f. les frais nécessaires de projet, de capital investi et de locaux.
+- f.[^97-3] les frais nécessaires de projet, de capital étranger et de locaux.
 
 <sup>2</sup> La part de formation et la part d’occupation dans la mesure d’emploi sont déterminantes pour l’application respective de l’al. 1 du présent article et de l’art. 88, al. 1, dans le calcul des frais d’organisation indispensables.
 
 <sup>3</sup> L’organisateur de la mesure d’emploi présente le décompte à l’organe de compensation. Celui-ci peut exiger un décompte périodique.
 
-<sup>4</sup> L’organisation responsable de la mesure d’emploi tient un inventaire des équipements et du matériel achetés à l’aide des contributions de l’assurance-chômage. Ces équipements et ce matériel ne peuvent être aliénés qu’avec l’accord de l’organe de compensation. Le produit de la vente correspondant à la part de la subvention versée est restitué au fonds de compensation.
+<sup>4</sup> L’organisation responsable de la mesure d’emploi tient un inventaire des équipements et du matériel achetés à l’aide des contributions de l’assurance-chômage. Ces équipements et ce matériel ne peuvent être aliénés qu’avec l’accord de l’autorité compétente. Le produit de la vente correspondant à la part de la subvention versée est restitué au fonds de compensation de l’assurance-chômage.[^97-4]
 
 <sup>5</sup> L’allocation de subventions pour les mesures d’emploi peut être assortie de charges.
 
 [^97-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^97-2]: Nouvelle teneur selon le ch. I de l’O du 11 mars 2011, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^97-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^97-4]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 97a
 
@@ -2395,19 +2418,21 @@ En règle générale sont pris en compte:
 
 #### Art. 103
 
-**Communication obligatoire des caisses**
+**Communication obligatoire des caisses de chômage**
 
 ### (art. 79, al. 1, LACI)
 
-Les caisses communiquent à l’organe de compensation de l’assurance-chômage les noms des responsables de leur gestion ainsi que tout changement parmi ces personnes.
+Les caisses de chômage communiquent à l’organe de compensation de l’assurance-chômage les noms des responsables de leur gestion ainsi que tout changement parmi ces personnes.
 
 #### Art. 104
 
-**Forme des versements**
+**Forme des versements**[^104-1]
 
-### (art. 79, al. 3, LACI)
+### (art. 81, al. 1, let. c, LACI)
 
-Les caisses versent les prestations de l’assurance-chômage autant que possible par virement.
+Les caisses de chômage versent les prestations de l’assurance-chômage par virement.
+
+[^104-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 105
 
@@ -2415,7 +2440,7 @@ Les caisses versent les prestations de l’assurance-chômage autant que possibl
 
 ### (art. 81, al. 1, let. d, LACI)
 
-<sup>1</sup> Les caisses utilisent le fonds de roulement pour leurs versements courants. Elles veillent à disposer de liquidités en suffisance et à mettre en sûreté les valeurs en capital.
+<sup>1</sup> Les caisses de chômage utilisent le fonds de roulement pour leurs versements courants. Elles veillent à disposer de liquidités en suffisance et à mettre en sûreté les valeurs en capital.
 
 <sup>2</sup> …[^105-1]
 
@@ -2433,7 +2458,7 @@ Les caisses versent les prestations de l’assurance-chômage autant que possibl
 
 ### (art. 81, al. 1, let. c, LACI)
 
-À la fin de chaque mois, les caisses établissent, conformément aux instructions de l’organe de compensation, un compte d’exploitation incluant les données statistiques nécessaires. Elles le remettent à l’organe de compensation au plus tard le 10 du mois suivant.
+À la fin de chaque mois, les caisses de chômage établissent, conformément aux instructions de l’organe de compensation, un compte d’exploitation incluant les données statistiques nécessaires. Elles le remettent à l’organe de compensation au plus tard le 10 du mois suivant.
 
 [^107-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
@@ -2443,9 +2468,9 @@ Les caisses versent les prestations de l’assurance-chômage autant que possibl
 
 ### (art. 81, al. 1, let. e, LACI)
 
-<sup>1</sup> Les caisses tiennent leurs livres de comptes en se conformant aux instructions de l’organe de compensation.
+<sup>1</sup> Les caisses de chômage tiennent leurs livres de comptes en se conformant aux instructions de l’organe de compensation.
 
-<sup>2</sup> L’année comptable correspond à l’année civile. Les caisses remettent le compte d’exploitation et le bilan de l’année comptable à l’organe de compensation à la fin du mois de janvier au plus tard.[^108-2]
+<sup>2</sup> L’année comptable correspond à l’année civile. Les caisses de chômage remettent le compte d’exploitation et le bilan de l’année comptable à l’organe de compensation à la fin du mois de janvier au plus tard.[^108-2]
 
 [^108-1]: Nouvelle teneur selon le ch. I de l’O du 28 août 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^108-2]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
@@ -2483,11 +2508,12 @@ Les révisions de la gestion des organes d’exécution de l’assurance-chômag
 
 ### (art. 83, al. 1, let. c, LACI)
 
-<sup>1</sup> L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examinent chaque année les comptes des caisses. Ils procèdent à un contrôle périodique par sondages de l’inventaire des placements financés par le fonds de compensation de l’assurance-chômage.
+<sup>1</sup> L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examinent chaque année les comptes des caisses de chômage. Ils procèdent à un contrôle périodique par sondages de l’inventaire des placements financés par le fonds de compensation de l’assurance-chômage.
 
-<sup>2</sup> Lorsque le fondateur d’une caisse a déjà mandaté un bureau fiduciaire de la révision d’autres institutions dont il a la charge ou de sa propre caisse, l’organe de compensation peut, sur demande du fondateur de la caisse, confier le contrôle de la comptabilité de la caisse de chômage au même bureau fiduciaire. La demande est agréée pour autant que ladite fiduciaire satisfasse aux conditions de l’art. 109, al. 3, et que ce choix ne présente aucun inconvénient. Le mandant est dans tous les cas l’organe de compensation. Le mandataire est lié aux directives de l’organe de compensation.
+<sup>2</sup> …[^109a-2]
 
 [^109a-1]: Introduit par le ch. I de l’O du 11 déc. 1995, en vigueur depuis le 1<sup>er</sup> janv. 1996 ([RO 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^109a-2]: Abrogé par le ch. I de l’O du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 109b
 
@@ -2510,11 +2536,11 @@ L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examin
 
 [^110-2]
 
-<sup>1</sup> L’organe de compensation de l’assurance-chômage contrôle à intervalles réguliers, soit de manière approfondie soit par sondages, si les versements des caisses ont été effectués à bon droit.[^110-3]
+<sup>1</sup> L’organe de compensation de l’assurance-chômage contrôle à intervalles réguliers, soit de manière approfondie soit par sondages, si les versements des caisses de chômage ont été effectués à bon droit.[^110-3]
 
-<sup>2</sup> Les caisses conservent, dans leur intégralité et en bon ordre, les dossiers relatifs aux cas d’assurance. L’organe de compensation peut les consulter en tout temps.
+<sup>2</sup> Les caisses de chômage conservent, dans leur intégralité et en bon ordre, les dossiers relatifs aux cas d’assurance. L’organe de compensation peut les consulter en tout temps.
 
-<sup>3</sup> La révision des caisses porte sur les dossiers ouverts depuis la dernière révision. Lorsque moins d’un an s’est écoulé depuis la dernière révision, le contrôle peut porter sur l’ensemble des dossiers des douze derniers mois. Le délai de prescription fixé par la législation pénale est déterminant lorsqu’un acte punissable a eu pour effet l’obtention d’un versement.[^110-4]
+<sup>3</sup> La révision des caisses de chômage porte sur les dossiers ouverts depuis la dernière révision. Lorsque moins d’un an s’est écoulé depuis la dernière révision, le contrôle peut porter sur l’ensemble des dossiers des douze derniers mois. Le délai de prescription fixé par la législation pénale est déterminant lorsqu’un acte punissable a eu pour effet l’obtention d’un versement.[^110-4]
 
 <sup>4</sup> L’organe de compensation de l’assurance-chômage et les bureaux fiduciaires qu’il a mandatés contrôlent périodiquement par sondages auprès des employeurs les indemnités versées en cas de réduction de l’horaire de travail ou en cas d’intempéries.[^110-5]
 
@@ -2532,9 +2558,9 @@ L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examin
 
 [^111-2]
 
-<sup>1</sup> L’organe de compensation consigne le résultat de la révision des versements dans un rapport écrit dont il donne connaissance à la caisse et à son fondateur dans un délai de 60 jours, en règle générale.
+<sup>1</sup> L’organe de compensation consigne le résultat de la révision des versements dans un rapport écrit dont il donne connaissance à la caisse de chômage et à son fondateur dans un délai de 60 jours, en règle générale.
 
-<sup>2</sup> Il communique à l’employeur, par voie de décision, le résultat du contrôle effectué auprès de ce dernier. La caisse se charge de l’encaissement des éventuels montants à rembourser en se fondant sur la décision de l’organe de compensation.[^111-3]
+<sup>2</sup> Il communique à l’employeur, par voie de décision, le résultat du contrôle effectué auprès de ce dernier. La caisse de chômage se charge de l’encaissement des éventuels montants à rembourser en se fondant sur la décision de l’organe de compensation.[^111-3]
 
 [^111-1]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^111-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2558,7 +2584,7 @@ L’organe de compensation et les bureaux fiduciaires qu’il a mandatés examin
 
 ### (art. 88, al. 2<sup><sup>ter</sup></sup>, LACI)
 
-Si l’employeur perçoit abusivement l’indemnité allouée en cas de réduction de l’horaire de travail ou en cas d’intempéries, le montant qu’il doit payer équivaut au montant de l’indemnité perçue abusivement multiplié par le double du rapport entre les heures déclarées abusivement et le nombre total d’heures annoncées à la caisse.
+Si l’employeur perçoit abusivement l’indemnité allouée en cas de réduction de l’horaire de travail ou en cas d’intempéries, le montant qu’il doit payer équivaut au montant de l’indemnité perçue abusivement multiplié par le double du rapport entre les heures déclarées abusivement et le nombre total d’heures annoncées à la caisse de chômage.
 
 [^111b-1]: Introduit par le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -2568,11 +2594,11 @@ Si l’employeur perçoit abusivement l’indemnité allouée en cas de réducti
 
 ### (art. 83, al. 1, let. d, LACI)
 
-<sup>1</sup> Dans un délai de trente jours à compter de la remise du rapport de révision, la caisse peut présenter des objections aux contestations provisoires ainsi que joindre ou compléter les pièces justificatives manquantes ou incomplètes.
+<sup>1</sup> Dans un délai de trente jours à compter de la remise du rapport de révision, la caisse de chômage peut présenter des objections aux contestations provisoires ainsi que joindre ou compléter les pièces justificatives manquantes ou incomplètes.
 
-<sup>2</sup> L’organe de compensation peut prolonger ce délai si la caisse présente par écrit, avant son expiration, une demande motivée.
+<sup>2</sup> L’organe de compensation peut prolonger ce délai si la caisse de chômage présente par écrit, avant son expiration, une demande motivée.
 
-<sup>3</sup> L’organe de compensation peut refuser les documents complétés tardivement lorsque la caisse a présenté à plusieurs reprises des dossiers incomplets ou mal tenus.
+<sup>3</sup> L’organe de compensation peut refuser les documents complétés tardivement lorsque la caisse de chômage a présenté à plusieurs reprises des dossiers incomplets ou mal tenus.
 
 #### Art. 113
 
@@ -2580,21 +2606,21 @@ Si l’employeur perçoit abusivement l’indemnité allouée en cas de réducti
 
 ### (art. 83, al. 1, let. d, LACI)
 
-<sup>1</sup> À l’expiration du délai imparti à la caisse pour présenter ses objections, l’organe de compensation lui donne les instructions nécessaires.
+<sup>1</sup> À l’expiration du délai imparti à la caisse de chômage pour présenter ses objections, l’organe de compensation lui donne les instructions nécessaires.
 
-<sup>2</sup> Il désigne les versements contestés dont le remboursement doit être exigé du bénéficiaire et met du même coup les montants correspondants à la charge de la caisse.
+<sup>2</sup> Il désigne les versements contestés dont le remboursement doit être exigé du bénéficiaire et met du même coup les montants correspondants à la charge de la caisse de chômage.
 
 <sup>3</sup> Pour les versements contestés dont on ne peut exiger le remboursement, l’organe de compensation fait valoir envers le fondateur ses prétentions éventuelles en dommages-intérêts.
 
 #### Art. 114
 
-**Obligation du fondateur de la caisse et du canton de réparer le dommage**[^114-1]
+**Obligation du fondateur de la caisse de chômage et du canton de réparer le dommage**[^114-1]
 
 ### (art. 82, 83, al. 1, let. f, et 85*g* LACI)
 
-<sup>1</sup> Lorsqu’il n’est pas possible d’obtenir le remboursement d’un versement erroné, le fondateur de la caisse ou le canton responsable est tenu de réparer le dommage.
+<sup>1</sup> Lorsqu’il n’est pas possible d’obtenir le remboursement d’un versement erroné, le fondateur de la caisse de chômage ou le canton responsable est tenu de réparer le dommage.
 
-<sup>2</sup> Le fondateur de la caisse ou le canton responsable prend à sa charge 10 000 francs au plus par cas, à moins qu’il ait causé le dommage intentionnellement ou en n’observant pas les instructions de l’organe de compensation dans un cas particulier ou en commettant des actes punissables.
+<sup>2</sup> Le fondateur de la caisse de chômage ou le canton responsable prend à sa charge 10 000 francs au plus par cas, à moins qu’il ait causé le dommage intentionnellement ou en n’observant pas les instructions de l’organe de compensation dans un cas particulier ou en commettant des actes punissables.
 
 <sup>3</sup> L’organe de compensation annule la décision lorsque, sur recours du bénéficiaire de prestations, il a été décidé définitivement que le versement était légal ou n’était pas indubitablement erroné.
 
@@ -2602,11 +2628,11 @@ Si l’employeur perçoit abusivement l’indemnité allouée en cas de réducti
 
 #### Art. 114a
 
-**Bonification pour risque de responsabilité octroyée aux fondateurs des caisses et aux cantons**[^114a-1]
+**Bonification pour risque de responsabilité octroyée aux fondateurs des caisses de chômage et aux cantons**[^114a-1]
 
 ### (art. 82, al. 5, 83 et 85*g*, al. 5, LACI)
 
-Le DEFR fixe la base de calcul appliquée par l’organe de compensation pour la bonification pour risque de responsabilité octroyée aux fondateurs des caisses et aux cantons, ainsi que le montant de la bonification et les modalités de son versement.
+Le DEFR fixe la base de calcul appliquée par l’organe de compensation pour la bonification pour risque de responsabilité octroyée aux fondateurs des caisses de chômage et aux cantons, ainsi que le montant de la bonification et les modalités de son versement.
 
 [^114a-1]: Introduit par le ch. I de l’O du 15 nov. 2000 ([RO 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
 
@@ -2618,13 +2644,13 @@ Le DEFR fixe la base de calcul appliquée par l’organe de compensation pour la
 
 [^115-3]
 
-<sup>1</sup> À la demande du fondateur, l’organe de compensation peut le libérer de son obligation de réparer le dommage lorsqu’il rend plausible que la caisse n’a commis qu’une faute légère en effectuant le versement des prestations indues.[^115-4]
+<sup>1</sup> À la demande du fondateur, l’organe de compensation peut le libérer de son obligation de réparer le dommage lorsqu’il rend plausible que la caisse de chômage n’a commis qu’une faute légère en effectuant le versement des prestations indues.[^115-4]
 
-<sup>2</sup> Le fondateur doit présenter la demande de libération dans les 90 jours après que la caisse a eu connaissance de l’inexigibilité du remboursement.
+<sup>2</sup> Le fondateur doit présenter la demande de libération dans les 90 jours après que la caisse de chômage a eu connaissance de l’inexigibilité du remboursement.
 
-<sup>3</sup> La libération de l’obligation de réparer est exclue lorsque, contrairement aux instructions de l’organe de compensation, la caisse n’a pas exigé du destinataire qu’il rembourse les prestations indues.[^115-5]
+<sup>3</sup> La libération de l’obligation de réparer est exclue lorsque, contrairement aux instructions de l’organe de compensation, la caisse de chômage n’a pas exigé du destinataire qu’il rembourse les prestations indues.[^115-5]
 
-<sup>4</sup> L’art. 114 ainsi que les al. 1 et 2 s’appliquent par analogie lorsque la caisse réclame d’elle-même le remboursement d’un versement erroné.
+<sup>4</sup> L’art. 114 ainsi que les al. 1 et 2 s’appliquent par analogie lorsque la caisse de chômage réclame d’elle-même le remboursement d’un versement erroné.
 
 [^115-1]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 [^115-2]: Nouvelle teneur selon le ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2648,27 +2674,27 @@ Les art. 109 à 115 s’appliquent par analogie aux cantons s’agissant de leur
 
 <sup>1</sup> Lorsque l’organe de compensation délègue la révision des versements au canton ou à un autre organe, il participe équitablement aux frais.
 
-<sup>2</sup> L’organe de révision consigne les résultats de sa révision dans un rapport écrit qu’il communique à la caisse, au fondateur et à l’organe de compensation dans un délai de soixante jours en règle générale. La procédure ultérieure se déroule selon les art. 113 à 115.
+<sup>2</sup> L’organe de révision consigne les résultats de sa révision dans un rapport écrit qu’il communique à la caisse de chômage, au fondateur et à l’organe de compensation dans un délai de soixante jours en règle générale. La procédure ultérieure se déroule selon les art. 113 à 115.
 
 #### Art. 117
 
-**Attribution des ressources aux caisses**
+**Attribution des ressources aux caisses de chômage**
 
 ### (art. 83, al. 1, let. g. LACI)
 
-En attribuant les ressources aux caisses, l’organe de compensation tient compte de l’état du fonds de roulement et des besoins probables.
+En attribuant les ressources aux caisses de chômage, l’organe de compensation tient compte de l’état du fonds de roulement et des besoins probables.
 
 #### Art. 117a
 
-**Engagement de personnel à charge du fonds de compensation**[^117a-1]
+**Engagement de personnel à charge du fonds de compensation de l’assurance-chômage**[^117a-1]
 
 ### (art. 92, al. 3, LACI)
 
-L’organe de compensation décide définitivement de l’engagement du personnel à charge du fonds de compensation de l’assurance.
+L’organe de compensation décide définitivement de l’engagement du personnel à charge du fonds de compensation de l’assurance-chômage.
 
 [^117a-1]: Introduit par le ch. I de l’O du 15 nov. 2000, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 
-### Section 2 Fonds de compensation
+### Section 2 Fonds de compensation de l’assurance-chômage
 
 #### Art. 118
 
@@ -2676,9 +2702,9 @@ L’organe de compensation décide définitivement de l’engagement du personne
 
 ### (art. 84 LACI)
 
-<sup>1</sup> Le Contrôle fédéral des finances est l’organe de contrôle du fonds de compensation.
+<sup>1</sup> Le Contrôle fédéral des finances est l’organe de contrôle du fonds de compensation de l’assurance-chômage.
 
-<sup>2</sup> Il examine les comptes annuels du fonds de compensation et communique les résultats de son contrôle au Conseil fédéral. Il n’est pas habilité à vérifier les décisions de la commission de surveillance.
+<sup>2</sup> Il examine les comptes annuels du fonds de compensation de l’assurance-chômage et communique les résultats de son contrôle au Conseil fédéral. Il n’est pas habilité à vérifier les décisions de la commission de surveillance.
 
 ### Section 3 Autorités cantonales
 
@@ -2695,18 +2721,19 @@ La compétence de l’autorité cantonale à raison du lieu se détermine:
 - a. d’après le lieu où l’assuré se soumet au contrôle obligatoire, pour l’indemnité de chômage (art. 18);
 - b. d’après le lieu de l’entreprise, pour l’indemnité en cas de réduction de l’horaire de travail;
 - c. d’après le lieu de l’entreprise, pour l’indemnité en cas d’intempéries;
-- d. d’après le siège de l’institution requérante, pour les subventions en faveur d’institutions de reconversion et de perfectionnement professionnels ou de programmes d’emploi temporaire;
-- e. d’après le lieu de domicile de l’assuré, pour tous les autres cas.[^119-1]
+- d.[^119-1] d’après le siège de l’institution requérante, pour les subventions en faveur d’institutions de reconversion et de formation continue ou de programmes d’emploi temporaire;
+- e. d’après le lieu de domicile de l’assuré, pour tous les autres cas.[^119-2]
 
 <sup>2</sup> Est déterminant le moment où la décision est prise.
 
-<sup>3</sup> Est compétente pour statuer sur une demande de remise de l’obligation de restituer les prestations l’autorité cantonale du canton dans lequel l’assuré était domicilié lorsque la décision de restitution lui a été notifiée.[^119-2]
+<sup>3</sup> Est compétente pour statuer sur une demande de remise de l’obligation de restituer les prestations l’autorité cantonale du canton dans lequel l’assuré était domicilié lorsque la décision de restitution lui a été notifiée.[^119-3]
 
-<sup>4</sup> Lorsqu’une autorité doute de sa compétence, elle en discute avec l’autorité qui pourrait également être compétente. Si les deux autorités ne parviennent pas à tomber d’accord, elles s’adressent à l’organe de compensation; celui-ci désigne l’autorité compétente.[^119-3]
+<sup>4</sup> Lorsqu’une autorité doute de sa compétence, elle en discute avec l’autorité qui pourrait également être compétente. Si les deux autorités ne parviennent pas à tomber d’accord, elles s’adressent à l’organe de compensation; celui-ci désigne l’autorité compétente.[^119-4]
 
-[^119-1]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^119-2]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^119-3]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^119-2]: Nouvelle teneur selon le ch. I de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^119-3]: Nouvelle teneur selon le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-4]: Introduit par le ch. I de l’O du 24 nov. 1999, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 
 #### Art. 119a
 
@@ -2865,13 +2892,13 @@ La commission de surveillance peut déléguer à une sous-commission des tâches
 
 #### Art. 121b
 
-**Placement de la fortune du fonds de compensation**[^121b-1]
+**Placement de la fortune du fonds de compensation de l’assurance-chômage**[^121b-1]
 
 ### (art. 89, al. 1, LACI)
 
 <sup>1</sup> La Commission de surveillance statue sur les placements de la fortune.
 
-<sup>2</sup> L’Administration fédérale des finances place la fortune du fonds de compensation conformément à la stratégie de placement fixée par la Commission de surveillance et aux directives en matière de placement. Elle informe régulièrement la Commission de surveillance des placements effectués.
+<sup>2</sup> L’Administration fédérale des finances place la fortune du fonds de compensation de l’assurance-chômage conformément à la stratégie de placement fixée par la Commission de surveillance et aux directives en matière de placement. Elle informe régulièrement la Commission de surveillance des placements effectués.
 
 [^121b-1]: Introduit par ch. I de l’O du 28 mai 2003, en vigueur depuis le 1<sup>er</sup> juil. 2003 ([RO 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -2941,7 +2968,7 @@ L’accord de prestations selon l’art. 92, al. 6, LACI régit la coopération 
 - f. le reporting;
 - g. la durée de l’accord et les règles de dénonciation.
 
-<sup>2</sup> Le DEFR peut confier l’élaboration de l’accord ainsi que l’évaluation des résultats obtenus à une commission dirigée par l’organe de compensation, dans laquelle les caisses sont représentées.
+<sup>2</sup> Le DEFR peut confier l’élaboration de l’accord ainsi que l’évaluation des résultats obtenus à une commission dirigée par l’organe de compensation, dans laquelle les caisses de chômage sont représentées.
 
 <sup>3</sup> Si un fondateur ne signe pas l’accord pour une année civile, les frais à prendre en compte sont remboursés sur la base des prestations fournies. Les indicateurs de prestations sont mesurés conformément à l’accord de prestations visé à l’art. 92, al. 6, LACI que le DEFR a conclu avec les autres fondateurs de caisses. Si les indicateurs de prestations d’une caisse se situent dans la zone neutre ou dans la zone de bonus, les frais pris en compte selon l’ordonnance du 12 février 1986 sur l’indemnisation des frais d’administration des caisses de chômage[^122b-2] sont entièrement remboursés au fondateur. Si cet indice se trouve dans la zone de malus, le système de malus de l’accord de prestations conclu avec les autres fondateurs est appliqué.
 

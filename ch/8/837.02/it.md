@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2025-11-01
+version: 2026-01-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20251101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20251101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20251101/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° novembre 2025)
+del 31 agosto 1983 (Stato 1° gennaio 2026)
 
 [^t-1]: Nuova abbreviazione giusta la cifra I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -91,9 +91,10 @@ Qualora la durata dell’occupazione sia inferiore ad un anno, il limite massimo
 
 ### (art. 6 e 92 cpv. 1 LADI)
 
-I datori di lavoro ed i lavoratori non devono pagare sui loro contributi all’assicurazione-disoccupazione alcuna quota per le spese amministrative alla cassa di compensazione AVS.
+I datori di lavoro ed i lavoratori non devono pagare sui loro contributi all’assicurazione contro la disoccupazione[^2a-2] alcuna quota per le spese amministrative alla cassa di compensazione AVS.
 
 [^2a-1]: Originario art. 2.
+[^2a-2]: Nuova espr. giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 ## Titolo 2: Prestazioni
 
@@ -180,7 +181,7 @@ La perdita di lavoro di persone parzialmente disoccupate (art. 10 cpv. 2 lett. b
 
 <sup>1bis</sup> Gli assicurati di cui al capoverso 1 che, dopo aver terminato la scuola dell’obbligo, si mettono a disposizione dell’ufficio di collocamento possono partecipare a un semestre di motivazione secondo l’articolo 64*a* capoverso 1 lettera c LADI durante il periodo di attesa di cui al capoverso 1.[^6-4]
 
-<sup>1ter</sup> Gli assicurati di cui al capoverso 1 possono partecipare a un periodo di pratica professionale secondo l’articolo 64*a* capoverso 1 lettera b LADI durante il periodo di attesa se il tasso di disoccupazione medio degli ultimi sei mesi in Svizzera supera il 3,3 per cento.[^6-5]
+<sup>1ter</sup> Gli assicurati di cui al capoverso 1 possono partecipare a un periodo di pratica professionale secondo l’articolo 64*a* capoverso 1 lettera b LADI durante il periodo di attesa.[^6-5]
 
 <sup>2</sup> Gli altri assicurati esonerati dall’adempimento del periodo di contribuzione devono compiere un periodo di attesa di cinque giorni.
 
@@ -195,7 +196,7 @@ Il periodo di attesa ai sensi del capoverso 4 non dev’essere compiuto:
 - a. se sono trascorsi due mesi dalla fine del rapporto di lavoro che lo determina;
 - b. se il rapporto di lavoro è durato ininterrottamente almeno un anno;
 - c. se il rapporto di lavoro secondo il capoverso 4 viene sciolto prematuramente per motivi economici;
-- d. se, per un periodo di controllo, l’assicurato non comprova più di cinque giorni di lavoro.
+- d.[^6-7] se, per un periodo di controllo, l’assicurato non effettua più di cinque giorni di disoccupazione controllata.
 
 <sup>6</sup> Il periodo di attesa dev’essere compiuto ulteriormente al periodo di attesa generale di cui all’articolo 18 capoverso 1 LADI. Sono considerati periodi di attesa soltanto i giorni per i quali l’assicurato adempie le condizioni che danno diritto all’indennità (art. 8 cpv. 1 LADI).
 
@@ -203,8 +204,9 @@ Il periodo di attesa ai sensi del capoverso 4 non dev’essere compiuto:
 [^6-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^6-3]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^6-4]: Introdotto dalla cifra I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^6-5]: Introdotto dalla cifra I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^6-5]: Introdotto dalla cifra I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 [^6-6]: Abrogato dalla cifra I dell’O dell’11 mar. 2011, con effetto dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^6-7]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 6a
 
@@ -282,11 +284,13 @@ Se l’assicurato ha riscosso un’indennità di vacanze, costituente almeno il 
 
 ### (art. 11 cpv. 5 LADI)
 
-<sup>1</sup> Se l’assicurato ha interposto ricorso contro la sospensione del pagamento di salario nel quadro di un procedimento inteso allo scioglimento del suo rapporto di servizio di diritto pubblico, la perdita di lavoro subita dall’assicurato sino al termine del procedimento principale è computata provvisoriamente. La cassa paga l’indennità qualora l’assicurato adempia tutte le altre condizioni da cui dipende il diritto all’indennità ed in particolare sia idoneo al collocamento.
+<sup>1</sup> Se l’assicurato ha interposto ricorso contro la sospensione del pagamento di salario nel quadro di un procedimento inteso allo scioglimento del suo rapporto di servizio di diritto pubblico, la perdita di lavoro subita dall’assicurato sino al termine del procedimento principale è computata provvisoriamente. La cassa di disoccupazione[^10-1] paga l’indennità qualora l’assicurato adempia tutte le altre condizioni da cui dipende il diritto all’indennità ed in particolare sia idoneo al collocamento.
 
-<sup>2</sup> Con il pagamento, i diritti dell’assicurato al salario o al risarcimento, accertati nel procedimento o riconosciuti dal datore di lavoro, sono trasferiti alla cassa sino a concorrenza dell’importo dell’indennità; la cassa deve far valere senza indugio i diritti presso il datore di lavoro.
+<sup>2</sup> Con il pagamento, i diritti dell’assicurato al salario o al risarcimento, accertati nel procedimento o riconosciuti dal datore di lavoro, sono trasferiti alla cassa di disoccupazione sino a concorrenza dell’importo dell’indennità; la cassa di disoccupazione deve far valere senza indugio i diritti presso il datore di lavoro.
 
-<sup>3</sup> Se il procedimento ricorsuale rivela che l’assicurato, mediante il suo comportamento, in particolare la violazione di obblighi incombentigli in virtù del suo contratto di lavoro, ha fornito al datore di lavoro il motivo per lo scioglimento del rapporto di lavoro, la cassa lo sospende nell’esercizio del suo diritto ed esige da lui la restituzione delle indennità giornaliere pagate in più.
+<sup>3</sup> Se il procedimento ricorsuale rivela che l’assicurato, mediante il suo comportamento, in particolare la violazione di obblighi incombentigli in virtù del suo contratto di lavoro, ha fornito al datore di lavoro il motivo per lo scioglimento del rapporto di lavoro, la cassa di disoccupazione lo sospende nell’esercizio del suo diritto ed esige da lui la restituzione delle indennità giornaliere pagate in più.
+
+[^10-1]: Nuova espr. giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Di detta mod. é tenuto conto in tutto i testo tranne nelle disp. menzionate nella RU.
 
 #### Art. 10a
 
@@ -468,7 +472,7 @@ Vi è motivo analogo ai sensi dell’articolo 14 capoverso 2 LADI segnatamente s
 
 [^15-2]
 
-<sup>1</sup> Per stabilire l’idoneità al collocamento degli impediti fisici o psichici, i servizi cantonali e le casse cooperano con gli organi competenti dell’assicurazione-invalidità. Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^15-3] disciplina i particolari d’intesa con il Dipartimento federale dell’interno.[^15-4]
+<sup>1</sup> Per stabilire l’idoneità al collocamento degli impediti fisici o psichici, i servizi cantonali e le casse di disoccupazione cooperano con gli organi competenti dell’assicurazione-invalidità. Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^15-3] disciplina i particolari d’intesa con il Dipartimento federale dell’interno.[^15-4]
 
 <sup>2</sup> Il capoverso 1 è parimente applicabile, qualora all’esame del diritto all’indennità o al collocamento degli impediti fisici o psichici partecipino organi dell’assicurazione-infortuni obbligatoria, dell’assicurazione-malattie, dell’assicurazione militare o della previdenza professionale.
 
@@ -601,7 +605,7 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 
 <sup>1</sup> Gli organi esecutivi di cui all’articolo 76 capoverso 1 lettere a–d LADI informano gli assicurati sui loro diritti e obblighi, in particolare sulla procedura di annuncio e sull’obbligo di evitare o abbreviare la disoccupazione.
 
-<sup>2</sup> Le casse di disoccupazione informano gli assicurati sui diritti e sugli obblighi derivanti dai propri compiti (art. 81 LADI).
+<sup>2</sup> Le casse di disoccupazione di disoccupazione informano gli assicurati sui diritti e sugli obblighi derivanti dai propri compiti (art. 81 LADI).
 
 <sup>3</sup> I servizi competenti informano gli assicurati sui diritti e sugli obblighi derivanti dai propri compiti (art. 85 e 85*b* LADI).
 
@@ -698,17 +702,18 @@ Su richiesta dell’assicurato, il servizio competente decide di:
 
 <sup>2</sup> Sono considerati giorni di disoccupazione controllata quelli durante i quali l’assicurato adempie i presupposti da cui dipende il diritto all’indennità.
 
-<sup>3</sup> L’assicurato deve informare con almeno 14 giorni di anticipo il servizio competente della sua intenzione di prendere i giorni esenti dall’obbligo di controllo cui ha diritto. Se poi rinuncia ad avvalersene senza motivo scusabile, tali giorni sono nondimeno considerati presi. I giorni esenti dall’obbligo di controllo possono essere presi soltanto in blocchi settimanali.
+<sup>3</sup> L’assicurato deve informare con almeno 14 giorni di anticipo il servizio competente della sua intenzione di prendere i giorni esenti dall’obbligo di controllo cui ha diritto. Se poi rinuncia ad avvalersene senza motivo scusabile, tali giorni sono nondimeno considerati presi. I giorni esenti dall’obbligo di controllo devono, di regola, essere presi in blocchi settimanali. Il servizio competente può autorizzare la fruizione a giorni singoli purché ciò non pregiudichi né la consulenza né il collocamento.[^27-2]
 
 <sup>4</sup> L’assicurato che, durante un guadagno intermedio, prende le vacanze cui ha diritto in virtù del contratto di lavoro conserva anche per questo periodo il diritto a pagamenti secondo l’articolo 41*a*. I giorni di vacanza presi durante il guadagno intermedio sono dedotti dai giorni esenti dall’obbligo di controllo accumulati sino all’inizio delle vacanze.
 
 <sup>5</sup> L’assicurato che partecipa a un provvedimento inerente al mercato del lavoro può disporre, durante questo periodo, di un numero di giorni esenti dall’obbligo di controllo non superiore a quello cui dà diritto la durata complessiva del provvedimento. I giorni esenti dall’obbligo di controllo possono essere presi soltanto d’intesa con il responsabile del programma.
 
-<sup>6</sup> L’assicurato non può prendere giorni esenti dall’obbligo di controllo né immediatamente prima né durante né immediatamente dopo il suo soggiorno all’estero (art. 64 del regolamento [CE] n. 883/2004[^27-2]). Al suo ritorno, deve presentarsi personalmente al servizio competente e farvi valere il proprio diritto ai giorni esenti dall’obbligo di controllo.[^27-3]
+<sup>6</sup> L’assicurato non può prendere giorni esenti dall’obbligo di controllo né immediatamente prima né durante né immediatamente dopo il suo soggiorno all’estero (art. 64 del regolamento [CE] n. 883/2004[^27-3]). Al suo ritorno, deve presentarsi personalmente al servizio competente e farvi valere il proprio diritto ai giorni esenti dall’obbligo di controllo.[^27-4]
 
 [^27-1]: Nuovo testo giusta la cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^27-2]: Cfr. nota a piè di pagina relativa all’art. 18 cpv. 5.
-[^27-3]: Introdotto dalla cifra I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^27-3]: Cfr. nota a piè di pagina relativa all’art. 18 cpv. 5.
+[^27-4]: Introdotto dalla cifra I dell’O del 28 mag. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)). Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 27a
 
@@ -778,15 +783,19 @@ Al fine di far valere il suo diritto all’indennità per gli ulteriori periodi 
 
 **Pagamento delle indennità e attestato per le autorità fiscali**[^30-1]
 
-### (art. 19 LPGA; art. 20, 96*b* e 97*a* LADI)
+### (art. 19 LPGA; art. 20 e 96*b* LADI)
+
+[^30-2]
 
 <sup>1</sup> La cassa di disoccupazione paga l’indennità per il periodo di controllo trascorso di regola nel corso del mese seguente.
 
 <sup>2</sup> L’assicurato riceve un conteggio scritto.
 
-<sup>3</sup> La cassa di disoccupazione consegna all’assicurato, a destinazione delle autorità fiscali, un attestato concernente le prestazioni ricevute. Nei Cantoni che ne prevedono la possibilità, l’attestato è trasmesso alle autorità fiscali cantonali direttamente per via elettronica (art. 97*a* cpv. 1 lett. c<sup>bis</sup> e cpv. 8 LADI).
+<sup>3</sup> La cassa di disoccupazione consegna all’assicurato, a destinazione delle autorità fiscali, un attestato concernente le prestazioni ricevute.[^30-3]
 
 [^30-1]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 31
 
@@ -849,10 +858,11 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 <sup>1</sup> Il supplemento corrispondente agli assegni legali per figli e la formazione è calcolato secondo la legge disciplinante gli assegni familiari del Cantone dove risiede l’assicurato.[^34-1]
 
-<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione comunica annualmente agli organi esecutivi, d’intesa con l’Ufficio federale delle assicurazioni sociali, le aliquote e i principali presupposti del diritto agli assegni.[^34-2]
+<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione comunica annualmente agli organi esecutivi, d’intesa con l’Ufficio federale delle assicurazioni sociali (UFAS)[^34-2], le aliquote e i principali presupposti del diritto agli assegni.[^34-3]
 
 [^34-1]: Nuovo testo giusta la cifra I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
-[^34-2]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^34-2]: Nuova espr. giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^34-3]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 35
 
@@ -862,13 +872,13 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 [^35-1]
 
-<sup>1</sup> La cassa deduce la parte del contributo AVS/AI/IPG del lavoratore dalle indennità giornaliere secondo gli articoli 18 e seguenti e 59*c*<sup>bis</sup> capoverso 1 LADI.[^35-2]
+<sup>1</sup> La cassa di disoccupazione deduce la parte del contributo AVS/AI/IPG del lavoratore dalle indennità giornaliere secondo gli articoli 18 e seguenti e 59*c*<sup>bis</sup> capoverso 1 LADI.[^35-2]
 
-<sup>2</sup> L’Ufficio federale delle assicurazioni sociali disciplina, d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione[^35-3], il conteggio dei contributi con l’AVS/AI/IPG, l’annuncio dei redditi che devono essere iscritti nei conti individuali dell’AVS e la copertura dei costi risultanti.
+<sup>2</sup> L’UFAS disciplina, d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione[^35-3], il conteggio dei contributi con l’AVS/AI/IPG, l’annuncio dei redditi che devono essere iscritti nei conti individuali dell’AVS e la copertura dei costi risultanti.
 
-<sup>3</sup> L’Ufficio di compensazione dell’assicurazione-disoccupazione verifica, all’atto dei suoi controlli periodici (art. 109 e 110), le deduzioni dei contributi AVS da parte della cassa e le notificazioni al sistema di informazione dell’assicurazione-disoccupazione. Dispone le necessarie rettificazioni e comunica le corrispondenti osservazioni all’Ufficio federale delle assicurazioni sociali.
+<sup>3</sup> L’Ufficio di compensazione dell’assicurazione contro la disoccupazione verifica, all’atto dei suoi controlli periodici (art. 109 e 110), le deduzioni dei contributi AVS da parte della cassa di disoccupazione e le notificazioni al sistema di informazione dell’assicurazione contro la disoccupazione. Dispone le necessarie rettificazioni e comunica le corrispondenti osservazioni all’UFAS.
 
-<sup>4</sup> Il controllo federale delle finanze esamina il conteggio AVS compilato dall’Ufficio di compensazione dell’assicurazione-disoccupazione per l’Ufficio centrale di compensazione dell’AVS, nonché i versamenti dei contributi. Controlla inoltre i dati forniti dall’Ufficio di compensazione dell’assicurazione-disoccupazione all’Ufficio centrale di compensazione dell’AVS per la tenuta dei conti individuali.
+<sup>4</sup> Il controllo federale delle finanze esamina il conteggio AVS compilato dall’Ufficio di compensazione dell’assicurazione contro la disoccupazione per l’Ufficio centrale di compensazione dell’AVS, nonché i versamenti dei contributi. Controlla inoltre i dati forniti dall’Ufficio di compensazione dell’assicurazione contro la disoccupazione all’Ufficio centrale di compensazione dell’AVS per la tenuta dei conti individuali.
 
 [^35-1]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^35-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
@@ -884,13 +894,14 @@ Sono prese in considerazione ai sensi dell’articolo 22 capoverso 2 lettera c L
 
 <sup>1</sup> I dettagli e la procedura sono retti dalla legislazione sull’assicurazione contro gli infortuni[^36-3].[^36-4]
 
-<sup>2</sup> Il contributo del fondo di compensazione ammonta a un terzo del premio dell’assicurazione obbligatoria contro gli infortuni non professionali.[^36-5]
+<sup>2</sup> Il contributo del fondo di compensazione dell’assicurazione contro la disoccupazione[^36-5] ammonta a un terzo del premio dell’assicurazione obbligatoria contro gli infortuni non professionali.[^36-6]
 
 [^36-1]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^36-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^36-3]: [RS 832.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10189)
 [^36-4]: Nuovo testo giusta l’all. n. 4 dell’O del 9 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
-[^36-5]: Introdotto dalla cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^36-5]: Nuova espr. giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)). Di detta mod. é tenuto conto in tutto i testo tranne nelle disp. menzionate nella RU.
+[^36-6]: Introdotto dalla cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
 #### Art. 37
 
@@ -1197,20 +1208,26 @@ Vi è colpa grave se l’assicurato, senza valido motivo:
 
 #### Art. 47
 
-**Perfezionamento professionale nell’azienda**
+**Formazione continua[^47-1]**
 
 ### (art. 31 LADI)
 
-<sup>1</sup> Il diritto all’indennità per lavoro ridotto sussiste anche quando il datore di lavoro, con il consenso del servizio cantonale, utilizza completamente o parzialmente il tempo di lavoro soppresso per il perfezionamento professionale dei lavoratori colpiti.
+<sup>1</sup> Il diritto all’indennità per lavoro ridotto sussiste anche quando il datore di lavoro, con il consenso del servizio cantonale, utilizza completamente o parzialmente la perdita di lavoro per la formazione continua dei lavoratori colpiti.[^47-2]
 
 <sup>2</sup>
 
-Il servizio cantonale può dare il suo consenso soltanto se il perfezionamento professionale:
+Il servizio cantonale può dare il suo consenso soltanto se la formazione continua:[^47-3]
 
 - a. procura capacità o conoscenze di cui il lavoratore può beneficiare anche nel caso di mutamento d’impiego o che gli sono indispensabili per mantenere il posto di lavoro attuale;
-- b. è organizzato da persone competenti secondo un programma prestabilito;
-- c. e rigorosamente separato dall’attività usuale dell’azienda; e
+- b.[^47-4] è organizzata da persone competenti secondo un programma prestabilito;
+- c.[^47-5] è rigorosamente separata dall’attività usuale dell’azienda; e
 - d. non giova esclusivamente o preponderantemente agli interessi del datore di lavoro.
+
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^47-5]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 48
 
@@ -1471,22 +1488,22 @@ Con il preannuncio di lavoro ridotto, il datore di lavoro deve, in più delle in
 
 #### Art. 60
 
-**Scelta e mutamento della cassa**
+**Scelta e mutamento della cassa di disoccupazione**
 
 ### (art. 36 cpv. 2 lett. c e 38 cpv. 1 LADI)
 
-<sup>1</sup> Il datore di lavoro può scegliere una cassa per ognuno dei settori d’esercizio (art. 52).
+<sup>1</sup> Il datore di lavoro può scegliere una cassa di disoccupazione per ognuno dei settori d’esercizio (art. 52).
 
 <sup>2</sup>
 
-Il datore di lavoro, se ha annunciato il lavoro ridotto e scelto una cassa, può cambiarla entro un periodo di due anni (art. 35 cpv. 1 LADI) soltanto se:
+Il datore di lavoro, se ha annunciato il lavoro ridotto e scelto una cassa di disoccupazione, può cambiarla entro un periodo di due anni (art. 35 cpv. 1 LADI) soltanto se:
 
-- a. la cassa respinge la sua domanda di indennità essendo incompetente;
-- b. l’azienda non appartiene più al campo d’attività locale o materiale della cassa (art. 78 cpv. 2 LADI).
+- a. la cassa di disoccupazione respinge la sua domanda di indennità essendo incompetente;
+- b. l’azienda non appartiene più al campo d’attività locale o materiale della cassa di disoccupazione (art. 78 cpv. 2 LADI).
 
-<sup>3</sup> Il datore di lavoro, se ha fatto valere indennità per intemperie nel corso dell’ultimo biennio, può far valere indennità per lavoro ridotto presso un’altra cassa soltanto se soddisfa una delle condizioni di cui al capoverso 2.
+<sup>3</sup> Il datore di lavoro, se ha fatto valere indennità per intemperie nel corso dell’ultimo biennio, può far valere indennità per lavoro ridotto presso un’altra cassa di disoccupazione soltanto se soddisfa una delle condizioni di cui al capoverso 2.
 
-<sup>4</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può autorizzare un mutamento di cassa se il datore di lavoro prova che la cassa precedente non è in grado di sbrigare il caso conformemente alle prescrizioni o ha commesso gravi errori nel disbrigo di un caso antecedente.
+<sup>4</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può autorizzare un mutamento di cassa di disoccupazione se il datore di lavoro prova che la cassa di disoccupazione precedente non è in grado di sbrigare il caso conformemente alle prescrizioni o ha commesso gravi errori nel disbrigo di un caso antecedente.
 
 <sup>5</sup> Al mutamento di cassa, la nuova cassa di disoccupazione acquisisce i diritti di accesso ai dati del pertinente caso assicurativo per analogia all’articolo 28 capoverso 3.[^60-1]
 
@@ -1653,11 +1670,11 @@ Il termine per esercitare il diritto all’indennità decorre dal primo giorno d
 
 #### Art. 71
 
-**Mutamento di cassa**
+**Mutamento di cassa di disoccupazione**
 
 ### (art. 47 cpv. 2 LADI)
 
-Se per l’azienda, in materia di indennità per lavoro ridotto, decorre un termine di due anni (art. 35 cpv. 1 LADI) oppure se l’azienda ha fatto valere indennità per intemperie durante i due ultimi anni, essa può far valere nuove indennità presso un’altra cassa soltanto se soddisfa una delle condizioni indicate nell’articolo 60 capoverso 2.
+Se per l’azienda, in materia di indennità per lavoro ridotto, decorre un termine di due anni (art. 35 cpv. 1 LADI) oppure se l’azienda ha fatto valere indennità per intemperie durante i due ultimi anni, essa può far valere nuove indennità presso un’altra cassa di disoccupazione soltanto se soddisfa una delle condizioni indicate nell’articolo 60 capoverso 2.
 
 #### Art. 71a
 
@@ -1691,7 +1708,7 @@ I lavoratori che non hanno ancora raggiunto l’età minima di contribuzione all
 
 ### (art. 51 LADI)
 
-La cassa può pagare l’indennità per insolvenza soltanto se il lavoratore rende verosimile il credito salariale verso il datore di lavoro.
+La cassa di disoccupazione può pagare l’indennità per insolvenza soltanto se il lavoratore rende verosimile il credito salariale verso il datore di lavoro.
 
 [^74-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 
@@ -1724,17 +1741,17 @@ La cassa può pagare l’indennità per insolvenza soltanto se il lavoratore ren
 
 <sup>1</sup>
 
-La cassa preleva dall’indennità per insolvenza i contributi (quota del lavoratore e del datore di lavoro):
+La cassa di disoccupazione preleva dall’indennità per insolvenza i contributi (quota del lavoratore e del datore di lavoro):
 
-- a. all’AVS/AI/IPG e all’assicurazione-disoccupazione, per la cassa di compensazione AVS del datore di lavoro;
+- a. all’AVS/AI/IPG e all’assicurazione contro la disoccupazione, per la cassa di compensazione AVS del datore di lavoro;
 - b. all’assicurazione-infortuni obbligatoria, per l’istituto d’assicurazione competente;
 - c. alla previdenza professionale obbligatoria, per l’istituto di previdenza del datore di lavoro.
 
-<sup>2</sup> L’importo dei contributi alla previdenza professionale obbligatoria risulta dal regolamento dell’istituto di previdenza; la cassa preleva soltanto i contributi corrispondenti al salario coordinato.
+<sup>2</sup> L’importo dei contributi alla previdenza professionale obbligatoria risulta dal regolamento dell’istituto di previdenza; la cassa di disoccupazione preleva soltanto i contributi corrispondenti al salario coordinato.
 
-<sup>3</sup> La cassa deduce la quota del lavoratore dall’indennità per insolvenza.
+<sup>3</sup> La cassa di disoccupazione deduce la quota del lavoratore dall’indennità per insolvenza.
 
-<sup>4</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione disciplina la procedura d’intesa con l’Ufficio federale delle assicurazioni sociali.
+<sup>4</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione disciplina la procedura d’intesa con l’UFAS.
 
 <sup>5</sup> L’articolo 35 capoverso 3 è applicabile per analogia alla verifica delle deduzioni.
 
@@ -1772,11 +1789,11 @@ L’assicurato che fa valere il diritto all’indennità per insolvenza deve pre
 
 #### Art. 78
 
-**Collaborazione delle casse**
+**Collaborazione delle casse di disoccupazione**
 
 ### (art. 53 LADI)
 
-La cassa competente può far capo a casse pubbliche di altri Cantoni per il disbrigo dei casi di indennità.
+La cassa di disoccupazione competente può far capo a casse di disoccupazione pubbliche di altri Cantoni per il disbrigo dei casi di indennità.
 
 #### Art. 79
 
@@ -1784,7 +1801,7 @@ La cassa competente può far capo a casse pubbliche di altri Cantoni per il disb
 
 ### (art. 54 LADI)
 
-La cassa può proporre procedimenti che le possono provocare spese soltanto con il consenso dell’ufficio di compensazione dell’assicurazione contro la disoccupazione. Lo stesso vale per le azioni risultanti dal diritto sull’esecuzione.
+La cassa di disoccupazione può proporre procedimenti che le possono provocare spese soltanto con il consenso dell’ufficio di compensazione dell’assicurazione contro la disoccupazione. Lo stesso vale per le azioni risultanti dal diritto sull’esecuzione.
 
 #### Art. 80
 
@@ -1792,9 +1809,9 @@ La cassa può proporre procedimenti che le possono provocare spese soltanto con 
 
 ### (art. 54 cpv. 2 LADI)
 
-<sup>1</sup> Se un credito deve essere fatto valere all’estero, la cassa sottopone il caso all’ufficio di compensazione dell’assicurazione contro la disoccupazione con tutti gli atti.
+<sup>1</sup> Se un credito deve essere fatto valere all’estero, la cassa di disoccupazione sottopone il caso all’ufficio di compensazione dell’assicurazione contro la disoccupazione con tutti gli atti.
 
-<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può autorizzare la cassa a rinunciare all’esercizio dei suoi diritti, se l’esigibilità del credito appare dubbia o se sono prevedibili complicazioni oppure spese sproporzionate.
+<sup>2</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione può autorizzare la cassa di disoccupazione a rinunciare all’esercizio dei suoi diritti, se l’esigibilità del credito appare dubbia o se sono prevedibili complicazioni oppure spese sproporzionate.
 
 ### Capitolo 5: Provvedimenti inerenti al mercato del lavoro
 
@@ -1802,7 +1819,11 @@ La cassa può proporre procedimenti che le possono provocare spese soltanto con 
 
 [^tit2-chap5-1]: Nuovo testo giusta la cifra I dell’O del 19 nov. 2003, in vigore dal 1° gen. 2004 ([RU 2003 4861](https://fedlex.data.admin.ch/eli/oc/2003/714)).
 
-### Sezione 1: Riqualificazione, perfezionamento e reintegrazione professionali
+### Sezione 1: Riqualificazione, formazione continua e reintegrazione
+
+[^tit2-chap5-sec1-1]
+
+[^tit2-chap5-sec1-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 81
 
@@ -1928,7 +1949,7 @@ L’ufficio di compensazione può controllare i provvedimenti inerenti al mercat
 
 ### (art. 59*c*<sup>bis</sup> cpv. 3 LADI)
 
-<sup>1</sup> Il partecipante a un provvedimento di formazione o di occupazione deve consegnare alla cassa le fatture relative alle spese, corredandole di un’attestazione nella quale la direzione del provvedimento certifica la necessità dell’acquisto.
+<sup>1</sup> Il partecipante a un provvedimento di formazione o di occupazione deve consegnare alla cassa di disoccupazione le fatture relative alle spese, corredandole di un’attestazione nella quale la direzione del provvedimento certifica la necessità dell’acquisto.
 
 <sup>2</sup> Come spese di viaggio, il servizio cantonale accorda all’assicurato, tenendo conto della durata del provvedimento, un importo corrispondente al costo dei biglietti o degli abbonamenti di seconda classe per i mezzi di trasporto pubblici all’interno del Paese. Eccezionalmente, l’assicurato riceve l’equivalente delle spese comprovate cagionate dall’utilizzazione di un mezzo di trasporto privato, se non è disponibile un mezzo di trasporto pubblico oppure se l’utilizzazione di questo non può essere ragionevolmente pretesa. Il servizio cantonale stabilisce il contributo spettante all’assicurato per le spese di vitto e alloggio nel luogo in cui si svolge il provvedimento di formazione o di occupazione.
 
@@ -1963,11 +1984,11 @@ L’organizzatore del provvedimento non può riscuotere dai partecipanti quote d
 
 [^86-1]
 
-<sup>1</sup> La cassa rimborsa l’assicurato, di regola, con il pagamento delle indennità giornaliere, se egli comprova le spese entro la fine del periodo di controllo (art. 18 cpv. 2 LADI). I partecipanti a un corso, che non riscuotono indennità giornaliere, presentano i loro documenti alla cassa entro la fine di ogni mese. Le fatture concernenti le quote d’iscrizione e gli acquisti importanti di materiale didattico possono essere consegnate alla cassa per il pagamento diretto.
+<sup>1</sup> La cassa di disoccupazione rimborsa l’assicurato, di regola, con il pagamento delle indennità giornaliere, se egli comprova le spese entro la fine del periodo di controllo (art. 18 cpv. 2 LADI). I partecipanti a un corso, che non riscuotono indennità giornaliere, presentano i loro documenti alla cassa di disoccupazione entro la fine di ogni mese. Le fatture concernenti le quote d’iscrizione e gli acquisti importanti di materiale didattico possono essere consegnate alla cassa di disoccupazione per il pagamento diretto.
 
 <sup>2</sup> Il rimborso non è eseguito qualora l’assicurato non l’abbia fatto valere il più tardi tre mesi dopo la fine del mese durante il quale le spese sono state operate. Gli importi non recapitabili si prescrivono in tre anni.
 
-<sup>3</sup> La cassa può versare un’anticipazione per le spese di viaggio, di vitto ed alloggio, se altrimenti l’assicurato cadrebbe nel bisogno.
+<sup>3</sup> La cassa di disoccupazione può versare un’anticipazione per le spese di viaggio, di vitto ed alloggio, se altrimenti l’assicurato cadrebbe nel bisogno.
 
 [^86-1]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 
@@ -1998,12 +2019,14 @@ Sono considerate spese computabili per l’organizzazione di provvedimenti di fo
 - c. i premi dell’assicurazione contro gli infortuni professionali e dell’assicurazione cose;
 - d. le spese necessarie di vitto e alloggio;
 - e. le spese di trasporto del materiale e delle attrezzature necessarie nonché le spese di viaggio dei responsabili del provvedimento di formazione e del corpo insegnante sino al luogo in cui si svolge il provvedimento;
-- f. le spese necessarie per la progettazione, per il capitale investito e per i locali.
+- f.[^88-3] le spese necessarie per la progettazione, per il capitale di terzi e per i locali.
 
-<sup>2</sup> I responsabili del provvedimento di formazione devono allestire un inventario del materiale didattico e dell’altro materiale acquistato mediante i sussidi dell’assicurazione contro la disoccupazione. Tale materiale può essere alienato soltanto con il consenso dell’ufficio di compensazione. Sul relativo ricavo dev’essere rimborsata, al fondo di compensazione, una quota corrispondente al sussidio.
+<sup>2</sup> I responsabili del provvedimento di formazione allestiscono un inventario del materiale didattico e dell’altro materiale acquistato mediante i sussidi dell’assicurazione contro la disoccupazione. Tale materiale può essere alienato soltanto con il consenso del servizio competente. Sul relativo ricavo dev’essere rimborsata, al fondo di compensazione dell’assicurazione contro la disoccupazione, una quota corrispondente al sussidio.[^88-4]
 
 [^88-1]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^88-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^88-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^88-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 89
 
@@ -2027,7 +2050,7 @@ Un assicurato è considerato difficilmente collocabile se, tenuto conto della si
 - b. è impedito fisicamente, psichicamente o mentalmente;
 - c.[^90-2] ha requisiti professionali insufficienti;
 - d. ha già riscosso 150 indennità giornaliere;
-- e.[^90-3] dispone di scarsa esperienza professionale in un periodo di elevata disoccupazione secondo l’articolo 6 capoverso 1<sup>ter</sup>.[^90-4]
+- [tab] e.[^90-3] dispone di scarsa esperienza professionale in un periodo di elevata disoccupazione. [^90-4]
 
 <sup>1bis</sup> Gli assegni per il periodo di introduzione possono essere versati per un periodo di 12 mesi al massimo se, in base alla situazione personale dell’assicurato, si deve dedurre che lo scopo dell’introduzione al lavoro non possa essere raggiunto in sei mesi.[^90-5]
 
@@ -2035,13 +2058,13 @@ Un assicurato è considerato difficilmente collocabile se, tenuto conto della si
 
 <sup>3</sup> Il servizio cantonale esamina presso il datore di lavoro se sono adempiuti i presupposti della concessione dell’assegno per il periodo di introduzione. Può esigere che le condizioni di cui all’articolo 65 lettere b e c della LADI siano convenute per scritto.
 
-<sup>4</sup> La cassa paga gli assegni per il periodo d’introduzione al datore di lavoro. Questi li versa con il salario convenuto all’assicurato.
+<sup>4</sup> La cassa di disoccupazione paga gli assegni per il periodo d’introduzione al datore di lavoro. Questi li versa con il salario convenuto all’assicurato.
 
 <sup>5</sup> L’ufficio di compensazione può emanare direttive per il calcolo degli assegni.
 
 [^90-1]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^90-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
-[^90-3]: Introdotta dalla cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^90-3]: Introdotta dalla cifra I dell’O dell’11 mar. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)). Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 [^90-4]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 [^90-5]: Introdotto dalla cifra I dell’O del 28 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^90-6]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2134,11 +2157,11 @@ L’assicurato subisce una perdita finanziaria qualora, nella sua nuova attivit�
 
 <sup>1</sup> L’articolo 81*e* capoverso 1 si applica per analogia al termine di presentazione della domanda di sussidio per le spese di pendolare o di sussidio per le spese di soggiornante settimanale.[^95-2]
 
-<sup>2</sup> L’assicurato deve indicare al servizio cantonale, con la domanda di un sussidio per le spese di pendolare o di un sussidio per le spese di soggiornante settimanale, la cassa che ha scelto. Può cambiare cassa soltanto se ha adempiuto una delle condizioni di cui all’articolo 28 capoverso 2.
+<sup>2</sup> L’assicurato deve indicare al servizio cantonale, con la domanda di un sussidio per le spese di pendolare o di un sussidio per le spese di soggiornante settimanale, la cassa di disoccupazione che ha scelto. Può cambiare cassa di disoccupazione soltanto se ha adempiuto una delle condizioni di cui all’articolo 28 capoverso 2.
 
-<sup>3</sup> Il servizio cantonale comunica la sua decisione all’assicurato e alla cassa.
+<sup>3</sup> Il servizio cantonale comunica la sua decisione all’assicurato e alla cassa di disoccupazione.
 
-<sup>4</sup> I sussidi per le spese di pendolare ed i sussidi per le spese di soggiornante settimanale sono pagati mensilmente dopo che l’assicurato abbia consegnato alla cassa i necessari documenti giustificativi. La cassa può versare un’anticipazione pari al massimo ai due terzi del sussidio mensile presunto, se altrimenti l’assicurato cadrebbe nel bisogno.
+<sup>4</sup> I sussidi per le spese di pendolare ed i sussidi per le spese di soggiornante settimanale sono pagati mensilmente dopo che l’assicurato abbia consegnato alla cassa di disoccupazione i necessari documenti giustificativi. La cassa di disoccupazione può versare un’anticipazione pari al massimo ai due terzi del sussidio mensile presunto, se altrimenti l’assicurato cadrebbe nel bisogno.
 
 <sup>5</sup> Le prestazioni non sono pagate se l’assicurato non fa valere il suo diritto il più tardi tre mesi dopo la fine del mese nel corso del quale le spese sono state cagionate. I sussidi non recapitabili si prescrivono in tre anni.
 
@@ -2201,7 +2224,7 @@ La domanda deve contenere almeno:
 
 <sup>3</sup> L’organizzazione di fideiussione competente decide entro quattro settimane dalla consegna della domanda e invia una copia della sua decisione al servizio cantonale.
 
-<sup>4</sup> Se è concessa una fideiussione in virtù della legge federale del 6 ottobre 2006[^95c-2] sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese, il fondo di compensazione prende ulteriormente a carico il 20 per cento dei rischi di perdita a beneficio dell’organizzazione di fideiussione. Il servizio cantonale emana una decisione concernente l’importo garantito dal fondo di compensazione.
+<sup>4</sup> Se è concessa una fideiussione in virtù della legge federale del 6 ottobre 2006[^95c-2] sugli aiuti finanziari alle organizzazioni che concedono fideiussioni alle piccole e medie imprese, il fondo di compensazione dell’assicurazione contro la disoccupazione prende ulteriormente a carico il 20 per cento dei rischi di perdita a beneficio dell’organizzazione di fideiussione. Il servizio cantonale emana una decisione concernente l’importo garantito dal fondo di compensazione dell’assicurazione contro la disoccupazione.
 
 [^95c-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)). Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
 [^95c-2]: [RS 951.25](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11526)
@@ -2271,18 +2294,20 @@ Sono considerate spese computabili per l’esecuzione di provvedimenti di occupa
 - c. i premi dell’assicurazione contro gli infortuni professionali e dell’assicurazione cose;
 - d. le spese necessarie di vitto e alloggio;
 - e. le necessarie spese di trasporto del materiale e di viaggio al luogo d’esecuzione del programma;
-- f. le spese necessarie per la progettazione, per il capitale investito e per i locali.
+- f.[^97-3] le spese necessarie per la progettazione, per il capitale di terzi e per i locali.
 
 <sup>2</sup> La quota di formazione e la quota di occupazione in un provvedimento di occupazione sono determinanti per l’applicazione rispettiva del capoverso 1 del presente articolo e dell’articolo 88 capoverso 1 ai fini del calcolo delle spese di esecuzione necessarie.
 
 <sup>3</sup> L’organizzatore del provvedimento di occupazione presenta il conteggio all’ufficio di compensazione. Quest’ultimo può esigere un conteggio periodico.
 
-<sup>4</sup> I responsabili del provvedimento di occupazione allestiscono un inventario delle attrezzature e del materiale acquistato mediante i sussidi dell’assicurazione contro la disoccupazione. Tali acquisti possono essere alienati soltanto con il consenso dell’ufficio di compensazione. Sul relativo ricavo dev’essere rimborsata, al fondo di compensazione, una quota corrispondente al sussidio.
+<sup>4</sup> I responsabili del provvedimento di occupazione allestiscono un inventario delle attrezzature e del materiale acquistato mediante i sussidi dell’assicurazione contro la disoccupazione. Tali acquisti possono essere alienati soltanto con il consenso del servizio competente. Sul relativo ricavo dev’essere rimborsata, al fondo di compensazione dell’assicurazione contro la disoccupazione, una quota corrispondente al sussidio.[^97-4]
 
 <sup>5</sup> L’assegnazione di sussidi per provvedimenti inerenti al mercato del lavoro può essere vincolata a oneri.
 
 [^97-1]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^97-2]: Nuovo testo giusta la cifra I dell’O dell’11 mar. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1179](https://fedlex.data.admin.ch/eli/oc/2011/172)).
+[^97-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^97-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 97a
 
@@ -2358,7 +2383,7 @@ Sono di regola considerate spese computabili:
 - b. le spese indispensabili per la compilazione dei rapporti;
 - c. le spese per l’acquisto delle attrezzature e dei materiali necessari.
 
-<sup>2</sup> La commissione di sorveglianza stabilisce, nella sua decisione, l’aliquota di sussidio applicabile, tra il 20 e il 50 per cento delle spese computabili. Al riguardo tiene conto delle altre fonti di finanziamento e dell’importanza del progetto per l’assicurazione-disoccupazione.
+<sup>2</sup> La commissione di sorveglianza stabilisce, nella sua decisione, l’aliquota di sussidio applicabile, tra il 20 e il 50 per cento delle spese computabili. Al riguardo tiene conto delle altre fonti di finanziamento e dell’importanza del progetto per l’assicurazione contro la disoccupazione.
 
 <sup>3</sup> L’assegnazione di sussidi può essere vincolata a oneri.
 
@@ -2394,19 +2419,21 @@ Sono di regola considerate spese computabili:
 
 #### Art. 103
 
-**Obbligo delle casse di annunciare**
+**Obbligo delle casse di disoccupazione di annunciare**
 
 ### (art. 79 cpv. 1 LADI)
 
-Le casse annunciano all’ufficio di compensazione dell’assicurazione contro la disoccupazione i nomi ed ogni mutamento delle persone responsabili della loro gestione.
+Le casse di disoccupazione annunciano all’ufficio di compensazione dell’assicurazione contro la disoccupazione i nomi ed ogni mutamento delle persone responsabili della loro gestione.
 
 #### Art. 104
 
-**Forma dei pagamenti**
+**Forma dei pagamenti**[^104-1]
 
-### (art. 79 cpv. 3 LADI)
+### (art. 81 cpv. 1 lett. c LADI)
 
-Le casse versano le prestazioni dell’assicurazione-disoccupazione per quanto possibile non in contanti.
+Le casse di disoccupazione versano le prestazioni dell’assicurazione contro la disoccupazione tramite bonifico.
+
+[^104-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 105
 
@@ -2414,7 +2441,7 @@ Le casse versano le prestazioni dell’assicurazione-disoccupazione per quanto p
 
 ### (art. 81 cpv. 1 lett. d LADI)
 
-<sup>1</sup> Le casse utilizzano il capitale d’esercizio per i pagamenti correnti. Provvedono per una liquidità sufficiente e per una sicura conservazione dei valori patrimoniali.
+<sup>1</sup> Le casse di disoccupazione utilizzano il capitale d’esercizio per i pagamenti correnti. Provvedono per una liquidità sufficiente e per una sicura conservazione dei valori patrimoniali.
 
 <sup>2</sup> ...[^105-1]
 
@@ -2432,7 +2459,7 @@ Le casse versano le prestazioni dell’assicurazione-disoccupazione per quanto p
 
 ### (art. 81 cpv. 1 lett. c LADI)
 
-Alla fine di ogni mese, le casse compilano, conformemente alle istruzioni dell’ufficio di compensazione, un conto d’esercizio comprensivo dei dati statistici necessari. Lo presentano a detto ufficio il più tardi entro il 10 del mese seguente.
+Alla fine di ogni mese, le casse di disoccupazione compilano, conformemente alle istruzioni dell’ufficio di compensazione, un conto d’esercizio comprensivo dei dati statistici necessari. Lo presentano a detto ufficio il più tardi entro il 10 del mese seguente.
 
 [^107-1]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
@@ -2442,39 +2469,41 @@ Alla fine di ogni mese, le casse compilano, conformemente alle istruzioni dell�
 
 ### (art. 81 cpv. 1 lett. e LADI)
 
-<sup>1</sup> Le casse tengono i loro libri contabili secondo le istruzioni dell’ufficio di compensazione.
+<sup>1</sup> Le casse di disoccupazione tengono i loro libri contabili secondo le istruzioni dell’ufficio di compensazione.
 
-<sup>2</sup> L’anno contabile corrisponde all’anno civile. Le casse presentano all’ufficio di compensazione il conto d’esercizio e il bilancio dell’anno contabile entro la fine di gennaio.[^108-2]
+<sup>2</sup> L’anno contabile corrisponde all’anno civile. Le casse di disoccupazione presentano all’ufficio di compensazione il conto d’esercizio e il bilancio dell’anno contabile entro la fine di gennaio.[^108-2]
 
 [^108-1]: Nuovo testo giusta la cifra I dell’O del 28 ago. 1991, in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)).
 [^108-2]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 
 ### Capitolo 2: Altri organi esecutivi
 
-### Sezione 1: Ufficio di compensazione dell’assicurazione-disoccupazione
+### Sezione 1: Ufficio di compensazione dell’assicurazione contro la disoccupazione
 
 #### Art. 109
 
-**Controllo della gestione degli uffici di esecuzione dell’assicurazione contro la disoccupazione**[^109-1]
+**Controllo della gestione degli organi esecutivi dell’assicurazione contro la disoccupazione[^109-2]**[^109-1]
 
 ### (art. 83 e 92 LADI)
 
 <sup>1</sup>
 
-Il controllo della gestione degli uffici di esecuzione dell’assicurazione contro la disoccupazione comprende:
+Il controllo della gestione degli organi esecutivi dell’assicurazione contro la disoccupazione comprende:[^109-3]
 
 - a. il controllo della tenuta dei conti e dell’inventario (art. 109*a*);
 - b. il controllo delle applicazioni informatiche (art. 109*b*);
 - c. la revisione dei pagamenti e i controlli presso i datori di lavoro (art. 110);
-- d.[^109-2] il controllo del modo in cui i servizi competenti eseguono la legge.
+- d.[^109-4] il controllo del modo in cui i servizi competenti eseguono la legge.
 
 <sup>2</sup> L’ufficio di compensazione può incaricare un ufficio fiduciario del controllo.
 
-<sup>3</sup> ...[^109-3]
+<sup>3</sup> ...[^109-5]
 
 [^109-1]: Nuovo testo giusta la cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^109-2]: Introdotta dalla cifra I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
-[^109-3]: Abrogato dalla cifra I dell’O del 15 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
+[^109-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^109-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^109-4]: Introdotta dalla cifra I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
+[^109-5]: Abrogato dalla cifra I dell’O del 15 nov. 2000, con effetto dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 
 #### Art. 109a
 
@@ -2484,9 +2513,10 @@ Il controllo della gestione degli uffici di esecuzione dell’assicurazione cont
 
 <sup>1</sup> L’ufficio di compensazione e gli uffici fiduciari da esso incaricati controllano annualmente la tenuta dei conti nonché, periodicamente e per sondaggio, l’inventario dei collocamenti finanziati dal fondo di compensazione dell’assicurazione contro la disoccupazione.
 
-<sup>2</sup> Se il responsabile di una cassa ha già incaricato un ufficio fiduciario della revisione di altre istituzioni di cui è titolare o della sua propria cassa, l’ufficio di compensazione può, a sua domanda, incaricare lo stesso ufficio anche del controllo contabile della cassa di disoccupazione. La domanda è accolta se l’ufficio fiduciario adempie le condizioni di cui all’articolo 109 capoverso 3 e se comunque la scelta di siffatto ufficio non comporta inconvenienti. Mandante nei confronti dell’ufficio fiduciario è in ogni caso l’ufficio di compensazione. L’ufficio fiduciario incaricato è vincolato alle istruzioni dell’ufficio di compensazione.
+<sup>2</sup> ...[^109a-2]
 
 [^109a-1]: Introdotto dalla cifra I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
+[^109a-2]: Abrogato dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 109b
 
@@ -2509,11 +2539,11 @@ L’ufficio di compensazione e gli uffici fiduciari da esso incaricati controlla
 
 [^110-2]
 
-<sup>1</sup> L’ufficio di compensazione verifica ad intervalli regolari, sia in modo approfondito che per sondaggio, la legittimità dei pagamenti eseguiti dalle casse.[^110-3]
+<sup>1</sup> L’ufficio di compensazione verifica ad intervalli regolari, sia in modo approfondito che per sondaggio, la legittimità dei pagamenti eseguiti dalle casse di disoccupazione.[^110-3]
 
-<sup>2</sup> Le casse conservano, integralmente e in buon ordine, gli atti sui casi assicurativi. L’ufficio di compensazione può consultarli in ogni momento.
+<sup>2</sup> Le casse di disoccupazione conservano, integralmente e in buon ordine, gli atti sui casi assicurativi. L’ufficio di compensazione può consultarli in ogni momento.
 
-<sup>3</sup> La revisione delle casse si estende ai fatti accaduti dall’ultima revisione. Se dall’ultima revisione è trascorso meno di un anno, il controllo può concernere tutti i fatti degli ultimi 12 mesi. Se un pagamento è stato ottenuto mediante un reato, è determinante il termine della prescrizione penale.[^110-4]
+<sup>3</sup> La revisione delle casse di disoccupazione si estende ai fatti accaduti dall’ultima revisione. Se dall’ultima revisione è trascorso meno di un anno, il controllo può concernere tutti i fatti degli ultimi 12 mesi. Se un pagamento è stato ottenuto mediante un reato, è determinante il termine della prescrizione penale.[^110-4]
 
 <sup>4</sup> L’ufficio di compensazione e gli uffici fiduciari da esso incaricati controllano per sondaggio presso i datori di lavoro le indennità pagate per lavoro ridotto e per intemperie.[^110-5]
 
@@ -2531,9 +2561,9 @@ L’ufficio di compensazione e gli uffici fiduciari da esso incaricati controlla
 
 [^111-2]
 
-<sup>1</sup> L’ufficio di compensazione annota il risultato della revisione dei pagamenti in un rapporto scritto che comunica alla cassa e al titolare, di regola entro 60 giorni.
+<sup>1</sup> L’ufficio di compensazione annota il risultato della revisione dei pagamenti in un rapporto scritto che comunica alla cassa di disoccupazione e al titolare, di regola entro 60 giorni.
 
-<sup>2</sup> Esso comunica al datore di lavoro, mediante decisione formale, il risultato del controllo effettuato presso quest’ultimo. La cassa si occupa della riscossione degli eventuali importi da rimborsare basandosi sulla decisione dell’ufficio di compensazione.[^111-3]
+<sup>2</sup> Esso comunica al datore di lavoro, mediante decisione formale, il risultato del controllo effettuato presso quest’ultimo. La cassa di disoccupazione si occupa della riscossione degli eventuali importi da rimborsare basandosi sulla decisione dell’ufficio di compensazione.[^111-3]
 
 [^111-1]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 [^111-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2557,7 +2587,7 @@ L’ufficio di compensazione e gli uffici fiduciari da esso incaricati controlla
 
 ### (art. 88 cpv. 2<sup>ter</sup> LADI)
 
-Il datore di lavoro che riscuote indebitamente l’indennità per lavoro ridotto o per intemperie deve pagare una penalità equivalente all’importo dell’indennità percepita abusivamente moltiplicato per il doppio del rapporto tra le ore dichiarate indebitamente e il numero totale di ore annunciate alla cassa.
+Il datore di lavoro che riscuote indebitamente l’indennità per lavoro ridotto o per intemperie deve pagare una penalità equivalente all’importo dell’indennità percepita abusivamente moltiplicato per il doppio del rapporto tra le ore dichiarate indebitamente e il numero totale di ore annunciate alla cassa di disoccupazione.
 
 [^111b-1]: Introdotto dalla cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -2567,11 +2597,11 @@ Il datore di lavoro che riscuote indebitamente l’indennità per lavoro ridotto
 
 ### (art. 83 cpv. 1 lett. d LADI)
 
-<sup>1</sup> La cassa, entro un termine di 30 giorni dalla consegna del rapporto di revisione, può sollevare obiezioni contro le contestazioni provvisorie e presentare o completare i documenti giustificativi mancanti o incompleti.
+<sup>1</sup> La cassa di disoccupazione, entro un termine di 30 giorni dalla consegna del rapporto di revisione, può sollevare obiezioni contro le contestazioni provvisorie e presentare o completare i documenti giustificativi mancanti o incompleti.
 
-<sup>2</sup> L’ufficio di compensazione può prorogare questo termine se la cassa presenta per scritto, prima della scadenza, una domanda motivata.
+<sup>2</sup> L’ufficio di compensazione può prorogare questo termine se la cassa di disoccupazione presenta per scritto, prima della scadenza, una domanda motivata.
 
-<sup>3</sup> Può respingere il completamento tardivo degli atti, se la cassa ha presentato reiteratamente atti gravemente incompleti.
+<sup>3</sup> Può respingere il completamento tardivo degli atti, se la cassa di disoccupazione ha presentato reiteratamente atti gravemente incompleti.
 
 #### Art. 113
 
@@ -2579,21 +2609,21 @@ Il datore di lavoro che riscuote indebitamente l’indennità per lavoro ridotto
 
 ### (art. 83 cpv. 1 lett. d LADI)
 
-<sup>1</sup> L’ufficio di compensazione, trascorso il termine di obiezione, dà alla cassa le istruzioni necessarie.
+<sup>1</sup> L’ufficio di compensazione, trascorso il termine di obiezione, dà alla cassa di disoccupazione le istruzioni necessarie.
 
-<sup>2</sup> Designa i pagamenti contestati, di cui al beneficiario dev’essere chiesta la restituzione, e addebita simultaneamente alla cassa gli importi corrispondenti.
+<sup>2</sup> Designa i pagamenti contestati, di cui al beneficiario dev’essere chiesta la restituzione, e addebita simultaneamente alla cassa di disoccupazione gli importi corrispondenti.
 
 <sup>3</sup> Per i pagamenti contestati, di cui la restituzione non può essere chiesta, l’ufficio di compensazione fa valere verso il titolare le sue eventuali pretese di risarcimento.
 
 #### Art. 114
 
-**Obbligo di risarcimento dei danni da parte del titolare della cassa o del Cantone**[^114-1]
+**Obbligo di risarcimento dei danni da parte del titolare della cassa di disoccupazione o del Cantone**[^114-1]
 
 ### (art. 82, 83 cpv. 1 lett. f e 85*g* LADI)
 
-<sup>1</sup> Se non è possibile ottenere il rimborso di un versamento indebito, il titolare della cassa o il Cantone responsabile deve risarcire i danni.
+<sup>1</sup> Se non è possibile ottenere il rimborso di un versamento indebito, il titolare della cassa di disoccupazione o il Cantone responsabile deve risarcire i danni.
 
-<sup>2</sup> Il titolare della cassa o il Cantone responsabile si assume per ogni caso al massimo 10 000 franchi, salvo se il danno è stato causato intenzionalmente, per inosservanza di un’istruzione dell’ufficio di compensazione in relazione a un caso specifico o mediante reati.
+<sup>2</sup> Il titolare della cassa di disoccupazione o il Cantone responsabile si assume per ogni caso al massimo 10 000 franchi, salvo se il danno è stato causato intenzionalmente, per inosservanza di un’istruzione dell’ufficio di compensazione in relazione a un caso specifico o mediante reati.
 
 <sup>3</sup> L’ufficio di compensazione annulla la decisione quando, su ricorso del beneficiario di prestazioni, è stato stabilito con decisione passata in giudicato che il versamento era legale o non era indubitabilmente errato.
 
@@ -2601,11 +2631,11 @@ Il datore di lavoro che riscuote indebitamente l’indennità per lavoro ridotto
 
 #### Art. 114a
 
-**Indennità per il rischio di responsabilità ai titolari delle casse e ai Cantoni**[^114a-1]
+**Indennità per il rischio di responsabilità ai titolari delle casse di disoccupazione e ai Cantoni**[^114a-1]
 
 ### (art. 82 cpv. 5, 83 e 85*g* cpv. 5 LADI)
 
-Il DEFR determina la base di calcolo dell’indennità per il rischio di responsabilità ai titolari delle casse e ai Cantoni applicata dall’ufficio di compensazione, nonché l’ammontare della stessa e le modalità del versamento.
+Il DEFR determina la base di calcolo dell’indennità per il rischio di responsabilità ai titolari delle casse di disoccupazione e ai Cantoni applicata dall’ufficio di compensazione, nonché l’ammontare della stessa e le modalità del versamento.
 
 [^114a-1]: Introdotto dalla cifra I dell’O del 15 nov. 2000 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)). Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5529](https://fedlex.data.admin.ch/eli/oc/2010/791)).
 
@@ -2617,13 +2647,13 @@ Il DEFR determina la base di calcolo dell’indennità per il rischio di respons
 
 [^115-2]
 
-<sup>1</sup> L’ufficio di compensazione può liberare il titolare, su domanda dello stesso, dall’obbligo di risarcimento qualora egli renda plausibile che il versamento errato è dovuto soltanto a colpa lieve della cassa.
+<sup>1</sup> L’ufficio di compensazione può liberare il titolare, su domanda dello stesso, dall’obbligo di risarcimento qualora egli renda plausibile che il versamento errato è dovuto soltanto a colpa lieve della cassa di disoccupazione.
 
-<sup>2</sup> Il titolare deve presentare la domanda di liberazione dall’obbligo di risarcimento entro 90 giorni dopo che la cassa ha avuto conoscenza dell’inesigibilità del rimborso.
+<sup>2</sup> Il titolare deve presentare la domanda di liberazione dall’obbligo di risarcimento entro 90 giorni dopo che la cassa di disoccupazione ha avuto conoscenza dell’inesigibilità del rimborso.
 
-<sup>3</sup> La liberazione dall’obbligo di risarcimento è esclusa se, contrariamente alle istruzioni dell’ufficio di compensazione, la cassa non ha richiesto al destinatario il rimborso delle prestazioni indebite.
+<sup>3</sup> La liberazione dall’obbligo di risarcimento è esclusa se, contrariamente alle istruzioni dell’ufficio di compensazione, la cassa di disoccupazione non ha richiesto al destinatario il rimborso delle prestazioni indebite.
 
-<sup>4</sup> L’articolo 114 nonché i capoversi 1 e 2 del presente articolo si applicano per analogia se la cassa reclama di moto proprio il rimborso di un versamento errato.
+<sup>4</sup> L’articolo 114 nonché i capoversi 1 e 2 del presente articolo si applicano per analogia se la cassa di disoccupazione reclama di moto proprio il rimborso di un versamento errato.
 
 [^115-1]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 [^115-2]: Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
@@ -2644,27 +2674,27 @@ Gli articoli 109–115 si applicano per analogia anche ai Cantoni per quanto con
 
 <sup>1</sup> L’ufficio di compensazione, se delega la revisione dei pagamenti al Cantone o a un altro ente, partecipa equamente alle spese.
 
-<sup>2</sup> L’ufficio di revisione annota il risultato della revisione dei pagamenti in un rapporto scritto che comunica alla cassa, al titolare e all’ufficio di compensazione, di regola entro un termine di 60 giorni. La procedura successiva è disciplinata secondo gli articoli 113 a 115.
+<sup>2</sup> L’ufficio di revisione annota il risultato della revisione dei pagamenti in un rapporto scritto che comunica alla cassa di disoccupazione, al titolare e all’ufficio di compensazione, di regola entro un termine di 60 giorni. La procedura successiva è disciplinata secondo gli articoli 113 a 115.
 
 #### Art. 117
 
-**Assegnazione dei mezzi alle casse**
+**Assegnazione dei mezzi alle casse di disoccupazione**
 
 ### (art. 83 cpv. 1 lett. g LADI)
 
-L’ufficio di compensazione, assegnando i mezzi alle casse, tiene conto dello stato del capitale d’esercizio e del probabile fabbisogno.
+L’ufficio di compensazione, assegnando i mezzi alle casse di disoccupazione, tiene conto dello stato del capitale d’esercizio e del probabile fabbisogno.
 
 #### Art. 117a
 
-**Impiego di personale a carico del fondo di compensazione**[^117a-1]
+**Impiego di personale a carico del fondo di compensazione dell’assicurazione contro la disoccupazione**[^117a-1]
 
 ### (art. 92 cpv. 3 LADI)
 
-L’ufficio di compensazione decide definitivamente circa l’impegno del proprio personale a carico del fondo di compensazione dell’assicurazione.
+L’ufficio di compensazione decide definitivamente circa l’impegno del proprio personale a carico del fondo di compensazione dell’assicurazione contro la disoccupazione.
 
 [^117a-1]: Introdotto dalla cifra I dell’O del 15 nov. 2000, in vigore dal 1° gen. 2001 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)).
 
-### Sezione 2: Fondo di compensazione
+### Sezione 2: Fondo di compensazione dell’assicurazione contro la disoccupazione
 
 #### Art. 118
 
@@ -2672,9 +2702,9 @@ L’ufficio di compensazione decide definitivamente circa l’impegno del propri
 
 ### (art. 84 LADI)
 
-<sup>1</sup> Il controllo federale delle finanze è l’organo di controllo del fondo di compensazione.
+<sup>1</sup> Il controllo federale delle finanze è l’organo di controllo del fondo di compensazione dell’assicurazione contro la disoccupazione.
 
-<sup>2</sup> Esamina il conto annuale del fondo di compensazione e comunica i risultati al Consiglio federale. Non è autorizzato a verificare le decisioni della commissione di sorveglianza.
+<sup>2</sup> Esamina il conto annuale del fondo di compensazione dell’assicurazione contro la disoccupazione e comunica i risultati al Consiglio federale. Non è autorizzato a verificare le decisioni della commissione di sorveglianza.
 
 ### Sezione 3: Servizi cantonali
 
@@ -2691,18 +2721,19 @@ La competenza locale del servizio cantonale è determinata:
 - a. secondo il luogo in cui l’assicurato adempie l’obbligo di controllo, riguardo all’indennità di disoccupazione (art. 18);
 - b. secondo il luogo dell’azienda, riguardo all’indennità per lavoro ridotto;
 - c. secondo il luogo dell’azienda, riguardo all’indennità per intemperie;
-- d. secondo la sede dell’istituzione richiedente, riguardo ai sussidi per i corsi di riqualificazione e di perfezionamento o per i programmi di occupazione temporanea;
-- e. secondo il luogo di domicilio dell’assicurato, in tutti gli altri casi.[^119-1]
+- d.[^119-1] secondo la sede dell’istituzione richiedente, riguardo ai sussidi per i corsi di riqualificazione e di formazione continua o per i programmi di occupazione temporanea;
+- e. secondo il luogo di domicilio dell’assicurato, in tutti gli altri casi.[^119-2]
 
 <sup>2</sup> Determinante è il momento in cui è presa la decisione.
 
-<sup>3</sup> Competente a decidere su una domanda di condono è il servizio cantonale del Cantone in cui l’assicurato era domiciliato al momento in cui gli è stata notificata la decisione di restituzione.[^119-2]
+<sup>3</sup> Competente a decidere su una domanda di condono è il servizio cantonale del Cantone in cui l’assicurato era domiciliato al momento in cui gli è stata notificata la decisione di restituzione.[^119-3]
 
-<sup>4</sup> Un servizio, se ha dubbi riguardo alla sua competenza, si accorda con il servizio che potrebbe essere parimenti competente. Se non giungono a un accordo, tali servizi si rivolgono all’ufficio di compensazione; questi designa il servizio competente.[^119-3]
+<sup>4</sup> Un servizio, se ha dubbi riguardo alla sua competenza, si accorda con il servizio che potrebbe essere parimenti competente. Se non giungono a un accordo, tali servizi si rivolgono all’ufficio di compensazione; questi designa il servizio competente.[^119-4]
 
-[^119-1]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^119-2]: Nuovo testo giusta la cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^119-3]: Introdotto dalla cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
+[^119-2]: Nuovo testo giusta la cifra I dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^119-3]: Nuovo testo giusta la cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
+[^119-4]: Introdotto dalla cifra I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
 
 #### Art. 119a
 
@@ -2778,7 +2809,7 @@ Il servizio cantonale competente disciplina la collaborazione tra gli uffici di 
 - a. a informare l’URC sugli sforzi intrapresi in vista del collocamento e a notificargli i casi di comportamenti errati degli assicurati;
 - b.[^119cbis-2] a fornire all’URC le informazioni necessarie a quest’ultimo per svolgere il suo compito di osservazione del mercato di lavoro mediante il sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI).
 
-<sup>3</sup> Gli uffici di collocamento privati possono essere indennizzati mediante il fondo di compensazione per le prestazioni fornite. L’ufficio di compensazione determina le prestazioni che danno diritto a un’indennità e l’importo della stessa.
+<sup>3</sup> Gli uffici di collocamento privati possono essere indennizzati mediante il fondo di compensazione dell’assicurazione contro la disoccupazione per le prestazioni fornite. L’ufficio di compensazione determina le prestazioni che danno diritto a un’indennità e l’importo della stessa.
 
 <sup>4</sup> I dati concernenti gli assicurati o gli impieghi liberi possono essere trasmessi agli uffici di collocamento privati o a terzi soltanto previo consenso degli assicurati e dei datori di lavoro interessati.
 
@@ -2812,9 +2843,9 @@ L’ufficio di compensazione approva le domande di partecipazione temporanea all
 
 ### (art. 87 LADI)
 
-<sup>1</sup> L’ufficio centrale di compensazione dell’AVS versa ogni mese i contributi disponibili all’ufficio di compensazione dell’assicurazione-disoccupazione.
+<sup>1</sup> L’ufficio centrale di compensazione dell’AVS versa ogni mese i contributi disponibili all’ufficio di compensazione dell’assicurazione contro la disoccupazione.
 
-<sup>2</sup> Trasmette all’ufficio di compensazione dell’assicurazione-disoccupazione, entro il 30 aprile dell’anno seguente, un conteggio da cui risultino gli introiti in contributi dell’esercizio annuo, articolati secondo le singole casse di compensazione AVS.
+<sup>2</sup> Trasmette all’ufficio di compensazione dell’assicurazione contro la disoccupazione, entro il 30 aprile dell’anno seguente, un conteggio da cui risultino gli introiti in contributi dell’esercizio annuo, articolati secondo le singole casse di compensazione AVS.
 
 #### Art. 120a
 
@@ -2834,7 +2865,7 @@ Questo conteggio deve contenere almeno i dati seguenti:
 - d. contributi alle assicurazioni sociali; e
 - e. spese per i provvedimenti svolti inerenti al mercato del lavoro.
 
-<sup>3</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione trasmette una copia del conteggio all’Ufficio federale delle assicurazioni sociali.
+<sup>3</sup> L’ufficio di compensazione dell’assicurazione contro la disoccupazione trasmette una copia del conteggio all’UFAS.
 
 <sup>4</sup> L’Ufficio centrale di compensazione dell’AVS verifica il conteggio e rimborsa le prestazioni di cui all’articolo 94a LADI.
 
@@ -2861,13 +2892,13 @@ La Commissione di sorveglianza può delegare a un comitato i compiti di cui all�
 
 #### Art. 121b
 
-**Collocamento del patrimonio del fondo di compensazione**[^121b-1]
+**Collocamento del patrimonio del fondo di compensazione dell’assicurazione contro la disoccupazione**[^121b-1]
 
 ### (art. 89 cpv. 1 LADI)
 
 <sup>1</sup> La Commissione di sorveglianza decide in merito ai collocamenti del patrimonio.
 
-<sup>2</sup> L’Amministrazione federale delle finanze colloca il patrimonio del fondo di compensazione secondo la strategia di collocamento fissata dalla Commissione di sorveglianza e secondo le norme di collocamento. Essa informa regolarmente la Commissione di sorveglianza sui collocamenti effettuati.
+<sup>2</sup> L’Amministrazione federale delle finanze colloca il patrimonio del fondo di compensazione dell’assicurazione contro la disoccupazione secondo la strategia di collocamento fissata dalla Commissione di sorveglianza e secondo le norme di collocamento. Essa informa regolarmente la Commissione di sorveglianza sui collocamenti effettuati.
 
 [^121b-1]: Introdotto dalla cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
 
@@ -2881,11 +2912,13 @@ La Commissione di sorveglianza può delegare a un comitato i compiti di cui all�
 
 <sup>1</sup> Le spese di riscossione dei contributi sono rimborsate alle casse di compensazione AVS in forma di una indennità globale.
 
-<sup>2</sup> L’indennità alla cassa di compensazione è calcolata secondo il numero dei datori di lavoro affiliati e l’importo medio dei contributi AVS/AI/IPG per datore di lavoro. L’Ufficio federale delle assicurazioni sociali stabilisce le aliquote di risarcimento d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione.
+<sup>2</sup> L’indennità alla cassa di compensazione AVS è calcolata secondo il numero dei datori di lavoro affiliati e l’importo medio dei contributi AVS/AI/IPG per datore di lavoro. L’UFAS stabilisce le aliquote di risarcimento d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione.[^122-1]
 
-<sup>3</sup> L’Ufficio federale delle assicurazioni sociali determina gli anni di riferimento per il calcolo, fornisce gli elementi di calcolo e stabilisce i singoli risarcimenti.
+<sup>3</sup> L’UFAS determina gli anni di riferimento per il calcolo, fornisce gli elementi di calcolo e stabilisce i singoli risarcimenti.
 
-<sup>4</sup> Le casse di compensazione AVS, le quali provino che il risarcimento non copre manifestamente le loro spese di riscossione dei contributi, possono esigere dall’Ufficio federale delle assicurazioni sociali un’adeguata indennità complementare. L’Ufficio risolve d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione.
+<sup>4</sup> Le casse di compensazione AVS, le quali provino che il risarcimento non copre manifestamente le loro spese di riscossione dei contributi, possono esigere dall’UFAS un’adeguata indennità complementare. L’Ufficio risolve d’intesa con l’ufficio di compensazione dell’assicurazione contro la disoccupazione.
+
+[^122-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 122a
 
@@ -2917,13 +2950,13 @@ La Commissione di sorveglianza può delegare a un comitato i compiti di cui all�
 
 #### Art. 122b
 
-**Convenzione sulle prestazioni con i titolari delle casse**[^122b-1]
+**Convenzione sulle prestazioni con i titolari delle casse di disoccupazione**[^122b-1]
 
 ### (art. 92 cpv. 6 LADI)
 
 <sup>1</sup>
 
-La convenzione sulle prestazioni secondo l’articolo 92 capoverso 6 LADI disciplina la cooperazione tra la Confederazione e il titolare della cassa nell’esecuzione dell’articolo 81 LADI. Con incentivi imperniati sulle prestazioni, essa induce i titolari a effettuare un’esecuzione efficiente. Disciplina in particolare:
+La convenzione sulle prestazioni secondo l’articolo 92 capoverso 6 LADI disciplina la cooperazione tra la Confederazione e il titolare della cassa di disoccupazione nell’esecuzione dell’articolo 81 LADI. Con incentivi imperniati sulle prestazioni, essa induce i titolari a effettuare un’esecuzione efficiente. Disciplina in particolare:
 
 - a. l’attuazione degli obiettivi dell’esecuzione della legge;
 - b. gli indicatori concernenti la valutazione degli effetti;
@@ -2933,7 +2966,7 @@ La convenzione sulle prestazioni secondo l’articolo 92 capoverso 6 LADI discip
 - f. il «reporting»;
 - g. la durata della convenzione e la denuncia.
 
-<sup>2</sup> Il DEFR può affidare l’elaborazione della convenzione e la valutazione dei risultati ottenuti a una commissione diretta dall’ufficio di compensazione, nella quale sono rappresentate le casse.
+<sup>2</sup> Il DEFR può affidare l’elaborazione della convenzione e la valutazione dei risultati ottenuti a una commissione diretta dall’ufficio di compensazione, nella quale sono rappresentate le casse di disoccupazione.
 
 <sup>3</sup> Se un titolare non ha firmato la convenzione in un anno civile, i costi computabili sono rimborsati in base alla prestazione. La valutazione degli indicatori concernenti la prestazione è effettuata analogamente alla convenzione sulle prestazioni secondo l’articolo 92 capoverso 6 LADI, conclusa tra il DEFR e gli altri titolari di casse. Se la prestazione di una cassa si situa nella zona neutra o nella zona del bonus, i costi computabili secondo l’ordinanza del 12 febbraio 1986[^122b-2] concernente il rimborso delle spese amministrative delle casse di disoccupazione sono interamente rimborsati al titolare. Se la prestazione si trova nella zona del malus, è applicato il disciplinamento del malus della convenzione sulle prestazioni conclusa con gli altri titolari.
 
@@ -2954,7 +2987,7 @@ La convenzione sulle prestazioni secondo l’articolo 92 capoverso 7 LADI discip
 
 - a. l’attuazione degli obiettivi dell’esecuzione della legge;
 - b. gli indicatori concernenti la valutazione degli effetti;
-- c. le condizioni quadro per l’esercizio degli organi d’esecuzione;
+- c.[^122c-2] le condizioni quadro per l’esercizio degli organi esecutivi;
 - d. le prestazioni dell’ufficio di compensazione e dei Cantoni;
 - e. il «reporting»;
 - f. la durata della convenzione e la denuncia.
@@ -2968,6 +3001,7 @@ La convenzione sulle prestazioni secondo l’articolo 92 capoverso 7 LADI discip
 <sup>5</sup> Se un Cantone non ha firmato la convenzione, il DEFR determina, mediante decisione formale, in che misura la convenzione debba essere applicata.
 
 [^122c-1]: Introdotto dalla cifra I dell’O del 15 nov. 2000 ([RU 2000 3097](https://fedlex.data.admin.ch/eli/oc/2000/563)). Nuovo testo giusta la cifra I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
+[^122c-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 814](https://fedlex.data.admin.ch/eli/oc/2025/814)).
 
 #### Art. 123
 
@@ -3079,7 +3113,7 @@ La persona interessata può esigere dai servizi d’elaborazione dei dati che:
 
 ### (art. 100 cpv. 3 LADI)
 
-<sup>1</sup> La competenza del tribunale cantonale delle assicurazioni per giudicare i ricorsi contro le decisioni delle casse è disciplinata in analogia con gli articoli 77 e 119.[^128-2]
+<sup>1</sup> La competenza del tribunale cantonale delle assicurazioni per giudicare i ricorsi contro le decisioni delle casse di disoccupazione è disciplinata in analogia con gli articoli 77 e 119.[^128-2]
 
 <sup>2</sup> Il tribunale cantonale delle assicurazioni è competente per giudicare i ricorsi contro le decisioni di un servizio dello stesso Cantone.
 
