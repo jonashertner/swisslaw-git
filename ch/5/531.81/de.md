@@ -4,11 +4,11 @@ title: Verordnung vom 4. Mai 2022 über die Organisation zur Sicherstellung der 
 short: VOGW
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/278"
 language: de
-version: 2023-06-01
+version: 2026-01-01
 adopted: 2022-05-04
 in_force: 2022-05-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/278/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2022-278-20230601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/278/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2022-278-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20230601/de"
 
 (VOGW)
 
-vom 4. Mai 2022 (Stand am 1. Juni 2023)
+vom 4. Mai 2022 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 57 Absatz 1 und 60 Absatz 1 des Landesversorgungsgeset
 
 verordnet:
 
-[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [SR 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -113,4 +113,7 @@ Der Fachbereich Energie vollzieht diese Verordnung.
 
 <sup>3</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2025 verlängert.[^7-1]
 
+<sup>4</sup> Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2030 verlängert.[^7-2]
+
 [^7-1]: Eingefügt durch Ziff. I der V vom 10. Mai 2023, in Kraft seit 1. Juni 2023 ([AS 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^7-2]: Eingefügt durch Ziff. I der V vom 19. Sept. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 585](https://fedlex.data.admin.ch/eli/oc/2025/585)).

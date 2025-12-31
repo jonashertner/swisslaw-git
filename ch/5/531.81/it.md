@@ -4,11 +4,11 @@ title: Ordinanza del 4 maggio 2022 sull’organizzazione del settore del gas per
 short: OOSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/278"
 language: it
-version: 2023-06-01
+version: 2026-01-01
 adopted: 2022-05-04
 in_force: 2022-05-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/278/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2022-278-20230601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/278/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2022-278-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20230601/it"
 
 (OOSG)
 
-del 4 maggio 2022 (Stato 1° giugno 2023)
+del 4 maggio 2022 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 57 capoverso 1 e 60 capoverso 1 della legge del 17 giugno 201
 
 ordina:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -37,7 +37,7 @@ ordina:
 
 <sup>3</sup> Nell’esercizio delle sue funzioni tutela gli interessi dei consumatori di gas naturale e vettori energetici gassosi provenienti da fonti rinnovabili.
 
-[^1-1]: Abrogato dal n. I dell’O del 10 mag. 2023, con effetto dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^1-1]: Abrogato dalla cifra I dell’O del 10 mag. 2023, con effetto dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
 
 #### Art. 1a
 
@@ -45,7 +45,7 @@ ordina:
 
 Il settore specializzato Energia gestisce un sistema di monitoraggio per osservare la situazione in materia di approvvigionamento e i suoi sviluppi nel settore del gas.
 
-[^1a-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^1a-1]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
 
 #### Art. 1b
 
@@ -61,7 +61,7 @@ Il settore specializzato Energia gestisce un sistema di monitoraggio per osserva
 
 <sup>5</sup> Il settore specializzato Energia, l’ASIG e la sua organizzazione d’intervento in caso di crisi sono tenuti al segreto (art. 63 LAP) sull’osservazione della situazione in materia di approvvigionamento e sulle informazioni che vi sono connesse. Possono utilizzare i dati provenienti dal sistema di monitoraggio unicamente per gli scopi dell’approvvigionamento economico del Paese.
 
-[^1b-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^1b-1]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
 
 #### Art. 2
 
@@ -73,7 +73,7 @@ Il settore specializzato Energia gestisce un sistema di monitoraggio per osserva
 
 <sup>3</sup> Le imprese che non sono membri dell’ASIG possono assoggettarsi volontariamente all’organizzazione d’intervento in caso di crisi.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
 
 #### Art. 3
 
@@ -89,7 +89,7 @@ Il settore specializzato Energia gestisce un sistema di monitoraggio per osserva
 
 In situazioni di grave penuria il settore specializzato Energia e l’ASIG collaborano con l’UFE, l’Ufficio federale della protezione della popolazione, l’esercito nonché altri organi federali e cantonali competenti.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
 
 #### Art. 5
 
@@ -113,4 +113,7 @@ Il settore specializzato Energia esegue la presente ordinanza.
 
 <sup>3</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2025.[^7-1]
 
-[^7-1]: Introdotto dal n. I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+<sup>4</sup> La durata di validità della presente ordinanza è prorogata sino al 31 dicembre 2030.[^7-2]
+
+[^7-1]: Introdotto dalla cifra I dell’O del 10 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^7-2]: Introdotto dalla cifra I dell’O del 19 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 585](https://fedlex.data.admin.ch/eli/oc/2025/585)).

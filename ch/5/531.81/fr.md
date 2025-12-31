@@ -4,11 +4,11 @@ title: Ordonnance du 4 mai 2022 sur l’organisation du secteur gazier pour gara
 short: OOSG
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/278"
 language: fr
-version: 2023-06-01
+version: 2026-01-01
 adopted: 2022-05-04
 in_force: 2022-05-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/278/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2022-278-20230601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/278/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-278-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/278/20230601/fr"
 
 (OOSG)
 
-du 4 mai 2022 (État le 1<sup>er</sup> juin 2023)
+du 4 mai 2022 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,7 +25,7 @@ vu les art. 57, al. 1, et 60, al. 1, de la loi du 17 juin 2016 sur l’approvisi
 
 arrête:
 
-[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/eli/cc/2017/308)
+[^ingress-1]: [RS 531](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7641)
 
 #### Art. 1
 
@@ -113,4 +113,7 @@ Le domaine Énergie exécute la présente ordonnance.
 
 <sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2025.[^7-1]
 
+<sup>4</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2030.[^7-2]
+
 [^7-1]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 233](https://fedlex.data.admin.ch/eli/oc/2023/233)).
+[^7-2]: Introduit par le ch. I de l’O du 19 sept. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 585](https://fedlex.data.admin.ch/eli/oc/2025/585)).
