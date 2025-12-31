@@ -3,18 +3,18 @@ sr: "412.101.220.63"
 title: Ordinanza della SEFRI del 18 ottobre 2016 sulla formazione professionale di base Gestrice della cura di tessili / Gestore della cura di tessili con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/614"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2016-10-18
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/614/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2016-614-20240401-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/614/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/614/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-614-20260101-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/614/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Gestrice della cura di tessili / Gestore della cura di tessili con attestato federale di capacità (AFC)
 
-del 18 ottobre 2016 (Stato 1° aprile 2024)
+del 18 ottobre 2016 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>80607</td><td>Gestrice della cura di tessili AFC / Gestore della cura di tessili AFC Fachfrau Textilpflege EFZ / Fachmann Textilpflege EFZ Gestionnaire en entretien des textiles CFC</td></tr>
@@ -30,7 +30,7 @@ ordina:[^ingress-5]
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 [^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 [^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
-[^ingress-5]: Nuovo testo giusta il n. I 42 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^ingress-5]: Nuovo testo giusta la cifra I n. 42 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 1: Oggetto, orientamenti e durata
 
@@ -129,7 +129,7 @@ Lo sviluppo delle competenze operative nei campi di competenze operative a ed e 
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 #### Art. 5
 
@@ -172,14 +172,15 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^7-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^7-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^7-3].
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale nella variante standard del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 [^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -203,7 +204,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>3</sup> Nell’ultimo semestre della formazione professionale di base non si svolgono corsi interaziendali.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 ## Sezione 5: Piano di formazione
 
@@ -228,8 +229,8 @@ Il piano di formazione:
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti per la promozione della qualità della formazione professionale di base con indicazione del centro di distribuzione.[^9-3]
 
 [^9-1]: Il piano del 16 novembre 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/bvz/index.html?lang=it) &gt; Professione A–Z
-[^9-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
-[^9-3]: Nuovo testo giusta il n. III 16 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^9-3]: Nuovo testo giusta la cifra III n. 16 dell’O della SEFRI del 24 nov. 2017 concernente la modifica delle ordinanze sulla formazione professionale in merito al divieto di svolgere lavori pericolosi, in vigore dal 1° gen. 2018 ([RU 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -350,12 +351,13 @@ Nelle procedure di qualificazione con esame finale vengono esaminate, nel modo i
 <tr><td>4</td><td>Rifinitura dei tessili</td><td>60 Min.</td><td>30 %</td></tr>
 </table>
 
-- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 27 aprile 2006[^17-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per questo campo di qualificazione fa stato l’ordinanza della SEFRI del 9 aprile 2025[^17-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^17-3].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 [^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
@@ -453,7 +455,7 @@ Essa svolge in particolare i compiti seguenti:
 - c. se osserva sviluppi che richiedono una modifica del piano di formazione, presenta all’organizzazione del mondo del lavoro competente una proposta di adeguamento del piano di formazione;
 - d. esprime un parere riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuoverne la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.
 
-[^22-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 #### Art. 23
 
@@ -497,7 +499,7 @@ Essa svolge in particolare i compiti seguenti:
 
 <sup>3</sup> Le disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (art. 17 cpv. 1 lett. a) si applicano dal 1° gennaio 2027.
 
-[^25a-1]: Introdotto dal n. I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
+[^25a-1]: Introdotto dalla cifra I dell’O della SEFRI del 16 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 719](https://fedlex.data.admin.ch/eli/oc/2023/719)).
 
 #### Art. 26
 
