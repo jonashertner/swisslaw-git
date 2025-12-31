@@ -4,13 +4,13 @@ number: "860.31"
 title: Verordnung über die Leistungen für Menschen mit Behinderungen
 short: BLV
 language: de
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-11
+version: 2026-01-01
+valid_until: 2026-10-31
+version_adopted: 2025-12-10
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3195/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3267/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3195/pdf_file"
 
 (BLV)
 
-vom 22.11.2023 (Stand 01.07.2025)
+vom 22.11.2023 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -344,11 +344,9 @@ beschliesst:
 
 **Gewichtung**
 
-<sup>1</sup> Die BPS gewichtet die geprüften und bereinigten Leistungsstunden, indem sie diese mit folgenden Referenzansätzen multipliziert:
+<sup>1</sup> Die BPS gewichtet die geprüften und bereinigten Leistungsstunden, indem sie diese mit Referenzansätzen multipliziert.
 
-- a A-Leistungen mit dem Referenzansatz — 1
-- b B-Leistungen mit dem Referenzansatz — 0,81
-- c C-Leistungen mit dem Referenzansatz — 0,54
+<sup>2</sup> Die Referenzansätze für die A-, B- und C-Leistungen werden berechnet, indem die Höhe der Entschädigung der jeweiligen Leistung (Art. 44 Abs. 1 Bst. a, b oder c) durch die Höhe der Entschädigung der A-Leistung (Art. 44 Abs. 1 Bst. a) dividiert wird.
 
 #### Art. 27
 
@@ -473,9 +471,9 @@ beschliesst:
 
 **Anforderungen an die Ausbildung**
 
-<sup>1</sup> A-Leistungen können nur Personen erbringen, die grundsätzlich eine einschlägige Ausbildung auf Tertiärstufe abgeschlossen haben.
+<sup>1</sup> A-Leistungen können nur Personen erbringen, die grundsätzlich eine einschlägige Ausbildung auf Tertiärstufe abgeschlossen haben, sowie Angehörige.
 
-<sup>2</sup> B-Leistungen können nur Personen erbringen, die grundsätzlich eine einschlägige Ausbildung auf Sekundarstufe II abgeschlossen haben.
+<sup>2</sup> B-Leistungen können nur Personen erbringen, die grundsätzlich eine einschlägige Ausbildung auf Sekundarstufe II abgeschlossen haben, sowie Angehörige.
 
 <sup>3</sup> C-Leistungen können ohne einschlägige Ausbildung erbracht werden.
 
@@ -494,7 +492,7 @@ beschliesst:
 
 - a angestellten Assistenzpersonen,
 - b beauftragten gelegentlichen Assistenzdienstleistenden,
-- c angestellten Angehörigen.
+- c …
 
 #### Art. 43
 
@@ -516,16 +514,16 @@ beschliesst:
 
 <sup>1</sup> Assistenzleistungen werden pro effektiv bezogene Leistungsstunde wie folgt entschädigt:
 
-- a A-Leistungen zu — CHF 65.15
+- a A-Leistungen zu — CHF 65.75
 - b B-Leistungen zu — CHF 52.95
 - c C-Leistungen zu — CHF 35.30
 - d Leistungen, die durch Angehörige erbracht werden, zu — CHF 25.00
 
 <sup>2</sup> Vor- und nachgelagerte Leistungen bei Assistenzdienstleistenden werden pauschalisiert und wie folgt entschädigt:
 
-- a für A-Leistungen — 11,9 % von CHF 65.15
-- b für B-Leistungen — 12,7 % von CHF 52.95
-- c für C-Leistungen — 14,9 % von CHF 35.30
+- a für A-Leistungen — CHF 7.81
+- b für B-Leistungen — CHF 6.74
+- c für C-Leistungen — CHF 5.27
 
 ### 5.1.2 Bedarfsstufen
 
@@ -551,11 +549,7 @@ beschliesst:
 
 #### Art. 47
 
-<sup>1</sup> Die Tarife der nicht-personalen Leistungen für reguläre Assistenzdienstleistende betragen bei
-
-- a A-Leistungen — 7,7 % von CHF 65.15
-- b B-Leistungen — 9,4 % von CHF 52.95
-- c C-Leistungen — 14,2 % von CHF 35.30
+<sup>1</sup> Die Tarife der nicht-personalen Leistungen für reguläre Assistenzdienstleistende betragen bei A-, B- und C-Leistungen jeweils 5.00 Franken.
 
 <sup>2</sup> Gelegentlichen Assistenzdienstleistenden werden keine nicht-personalen Leistungen ausgerichtet.
 
@@ -569,21 +563,42 @@ beschliesst:
 
 <sup>1</sup> Die Tarife für nicht-personale Leistungen für Plätze eines Wohnheims, die anerkannt sind, betragen pro
 
-- a einem Drittel eines Aufenthaltstags — CHF 85.70
-- b zwei Dritteln eines Aufenthaltstags — CHF 106.40
-- c ganzem Aufenthaltstag — CHF 127.10
+- a einem Drittel eines Aufenthaltstags — CHF 87.40
+- b zwei Dritteln eines Aufenthaltstags — CHF 109.70
+- c ganzem Aufenthaltstag — CHF 132.00
 - d Abwesenheitstag — CHF 65.00
 
-<sup>2</sup> Von den Tarifen nach Absatz 1 müssen jeweils 34.90 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat verbucht werden.
+<sup>2</sup> Von den Tarifen nach Absatz 1 müssen jeweils 34.00 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden.
 
-<sup>3</sup> Die Tarife für nicht-personale Leistungen für Plätze eines Wohnheims, die anerkannt und auf der Pflegeheimliste sind, betragen pro
+<sup>3</sup> Die Tarife für nicht-personale Leistungen (ab Pflegestufe 3) für Plätze eines Wohnheims, die anerkannt und auf der Pflegeheimliste sind, betragen pro
 
-- a einem Drittel eines Aufenthaltstags — CHF 146.10
-- b zwei Dritteln eines Aufenthaltstags — CHF 158.70
-- c ganzem Aufenthaltstag — CHF 171.25
+- a einem Drittel eines Aufenthaltstags — CHF 146.00
+- b zwei Dritteln eines Aufenthaltstags — CHF 158.50
+- c ganzem Aufenthaltstag — CHF 170.95
 - d Abwesenheitstag — CHF 133.55
 
-<sup>4</sup> Von den Tarifen nach Absatz 3 müssen jeweils 34.90 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat verbucht werden.
+<sup>3a</sup> Die Tarife für nicht-personale Leistungen (Pflegestufe 2) für Plätze eines Wohnheims, die anerkannt und auf der Pflegeheimliste sind, betragen pro
+
+- a einem Drittel eines Aufenthaltstags — CHF 139.40
+- b zwei Dritteln eines Aufenthaltstags — CHF 151.80
+- c ganzem Aufenthaltstag — CHF 164.30
+- d Abwesenheitstag — CHF 126.90
+
+<sup>3b</sup> Die Tarife für nicht-personale Leistungen (Pflegestufe 1) für Plätze eines Wohnheims, die anerkannt und auf der Pflegeheimliste sind, betragen pro
+
+- a einem Drittel eines Aufenthaltstags — CHF 125.30
+- b zwei Dritteln eines Aufenthaltstags — CHF 137.70
+- c ganzem Aufenthaltstag — CHF 150.20
+- d Abwesenheitstag — CHF 112.80
+
+<sup>3c</sup> Die Tarife für nicht-personale Leistungen (Pflegestufe 0) für Plätze eines Wohnheims, die anerkannt und auf der Pflegeheimliste sind, betragen pro
+
+- a einem Drittel eines Aufenthaltstags — CHF 123.00
+- b zwei Dritteln eines Aufenthaltstags — CHF 135.50
+- c ganzem Aufenthaltstag — CHF 147.95
+- d Abwesenheitstag — CHF 110.55
+
+<sup>4</sup> Von den Tarifen nach Absatz 3 bis 3c müssen jeweils 34.00 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden.
 
 #### Art. 49
 
@@ -591,21 +606,42 @@ beschliesst:
 
 <sup>1</sup> Die Tarife für nicht-personale Leistungen für Plätze eines Wohnheims, die nicht anerkannt sind, betragen pro
 
-- a einem Drittel eines Aufenthaltstags — CHF 78.80
-- b zwei Dritteln eines Aufenthaltstags — CHF 97.60
-- c ganzem Aufenthaltstag — CHF 116.40
+- a einem Drittel eines Aufenthaltstags — CHF 80.65
+- b zwei Dritteln eines Aufenthaltstags — CHF 101.30
+- c ganzem Aufenthaltstag — CHF 122.00
 - d Abwesenheitstag — CHF 60.00
 
-<sup>2</sup> Von den Tarifen nach Absatz 1 müssen jeweils 29.90 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat verbucht werden.
+<sup>2</sup> Von den Tarifen nach Absatz 1 müssen jeweils 29.00 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden.
 
-<sup>3</sup> Die Tarife für nicht-personale Leistungen für Plätze eines Wohnheims, die nicht anerkannt, aber auf der Pflegeheimliste sind, betragen pro
+<sup>3</sup> Die Tarife für nicht-personale Leistungen (ab Pflegestufe 3) für Plätze eines Wohnheims, die nicht anerkannt, aber auf der Pflegeheimliste sind, betragen pro
 
-- a einem Drittel eines Aufenthaltstags — CHF 146.10
-- b zwei Dritteln eines Aufenthaltstags — CHF 158.70
-- c ganzem Aufenthaltstag — CHF 171.25
+- a einem Drittel eines Aufenthaltstags — CHF 146.00
+- b zwei Dritteln eines Aufenthaltstags — CHF 158.50
+- c ganzem Aufenthaltstag — CHF 170.95
 - d Abwesenheitstag — CHF 133.55
 
-<sup>4</sup> Von den Tarifen nach Absatz 3 müssen jeweils 34.90 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat verbucht werden.
+<sup>3a</sup> Die Tarife für nicht-personale Leistungen (Pflegestufe 2) für Plätze eines Wohnheims, die nicht anerkannt, aber auf der Pflegeheimliste sind, betragen pro
+
+- a einem Drittel eines Aufenthaltstags — CHF 139.40
+- b zwei Dritteln eines Aufenthaltstags — CHF 151.80
+- c ganzem Aufenthaltstags — CHF 164.30
+- d Abwesenheitstag — CHF 126.90
+
+<sup>3b</sup> Die Tarife für nicht-personale Leistungen (Pflegestufe 1) für Plätze eines Wohnheims, die nicht anerkannt, aber auf der Pflegeheimliste sind, betragen pro
+
+- a einem Drittel eines Aufenthaltstags — CHF 125.30
+- b zwei Dritteln eines Aufenthaltstags — CHF 137.70
+- c ganzem Aufenthaltstag — CHF 150.20
+- d Abwesenheitstag — CHF 112.80
+
+<sup>3c</sup> Die Tarife für nicht-personale Leistungen (Pflegestufe 0) für Plätze eines Wohnheims, die nicht anerkannt, aber auf der Pflegeheimliste sind, betragen pro
+
+- a einem Drittel eines Aufenthaltstags — CHF 123.00
+- b zwei Dritteln eines Aufenthaltstags — CHF 135.50
+- c ganzem Aufenthaltstag — CHF 147.95
+- d Abwesenheitstag — CHF 110.55
+
+<sup>4</sup> Von den Tarifen nach Absatz 3 bis 3c müssen jeweils 34.00 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden.
 
 #### Art. 50
 
@@ -613,12 +649,12 @@ beschliesst:
 
 <sup>1</sup> Die Tarife für nicht-personale Leistungen für Plätze anderer betreuter kollektiver Wohnformen betragen pro
 
-- a einem Drittel eines Aufenthaltstags — CHF 67.60
-- b zwei Dritteln eines Aufenthaltstags — CHF 80.10
-- c ganzem Aufenthaltstag — CHF 92.70
+- a einem Drittel eines Aufenthaltstags — CHF 69.00
+- b zwei Dritteln eines Aufenthaltstags — CHF 83.00
+- c ganzem Aufenthaltstag — CHF 97.00
 - d Abwesenheitstag — CHF 55.00
 
-<sup>2</sup> Von den Tarifen nach Absatz 1 müssen jeweils 24.90 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat verbucht werden.
+<sup>2</sup> Von den Tarifen nach Absatz 1 müssen jeweils 24.00 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden.
 
 ### 5.2.2.2 Tarife für Menschen mit Behinderungen, die keine jährlichen Ergänzungsleistungen beziehen
 
@@ -626,21 +662,21 @@ beschliesst:
 
 <sup>1</sup> Beziehen Menschen mit Behinderungen keine Ergänzungsleistungen, können Wohnheime und andere betreute kollektive Wohnformen die Tarife der nicht-personalen Leistungen frei festlegen.
 
-<sup>2</sup> Von den Tarifen nach Absatz 1 müssen mindestens folgende Beträge als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat verbucht werden:
+<sup>2</sup> Von den Tarifen nach Absatz 1 müssen mindestens folgende Beträge als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden:
 
-- a bei Plätzen in Wohnheimen, die anerkannt sind: — CHF 34.90
-- b bei Plätzen in Wohnheimen, die anerkannt und auf der Pflegeheimliste sind: — CHF 34.90
-- c bei Plätzen in Wohnheimen, die nicht anerkannt sind: — CHF 29.90
-- d bei Plätzen in Wohnheimen, die nicht anerkannt, aber auf der Pflegeheimliste sind: — CHF 34.90
-- e bei Plätzen in anderen betreuten kollektiven Wohnformen: — CHF 24.90
+- a bei Plätzen in Wohnheimen, die anerkannt sind — CHF 34.00
+- b bei Plätzen in Wohnheimen, die anerkannt und auf der Pflegeheimliste sind — CHF 34.00
+- c bei Plätzen in Wohnheimen, die nicht anerkannt sind — CHF 29.00
+- d bei Plätzen in Wohnheimen, die nicht anerkannt, aber auf der Pflegeheimliste sind — CHF 34.00
+- e bei Plätzen in anderen betreuten kollektiven Wohnformen — CHF 24.00
 
 ### 5.2.3 Tarife in anerkannten Tagesstätten
 
 #### Art. 52
 
-<sup>1</sup> Die Tarife der nicht-personalen Leistungen für anerkannte Tagesstätten betragen pro ganzem Präsenztag 50.90 Franken und pro halbem Präsenztag 25.45 Franken.
+<sup>1</sup> Die Tarife der nicht-personalen Leistungen für anerkannte Tagesstätten betragen pro ganzem Präsenztag 50.70 Franken und pro halbem Präsenztag 25.35 Franken.
 
-<sup>2</sup> Von den Tarifen nach Absatz 1 müssen pro ganzem Präsenztag 19.15 Franken und pro halbem Präsenztag 9.60 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat verbucht werden.
+<sup>2</sup> Von den Tarifen nach Absatz 1 müssen pro ganzem Präsenztag 18.70 Franken und pro halbem Präsenztag 9.35 Franken als Infrastrukturpauschale zweckgebunden verwendet und in der Buchhaltung separat ausgewiesen werden.
 
 ## 6 Abrechnung der personalen Leistungen
 
@@ -1097,26 +1133,26 @@ beschliesst:
 <tr><th>Bedarfsstufe</th><th>Leistungsstunden pro Monat</th><th>Leistungsstunden pro Monat</th><th>Beitrag pro Monat</th><th>max. Beitrag pro Tag</th></tr>
 <tr><td></td><td>von</td><td>bis</td><td>in CHF</td><td>in CHF</td></tr>
 <tr><td>0</td><td>0</td><td>3,9</td><td>0</td><td>0</td></tr>
-<tr><td>1</td><td>4</td><td>7,9</td><td>388</td><td>12.90</td></tr>
-<tr><td>2</td><td>8</td><td>11,9</td><td>648</td><td>21.60</td></tr>
-<tr><td>3</td><td>12</td><td>15,9</td><td>909</td><td>30.30</td></tr>
-<tr><td>4</td><td>16</td><td>19,9</td><td>1169</td><td>39.00</td></tr>
-<tr><td>5</td><td>20</td><td>23,9</td><td>1430</td><td>47.65</td></tr>
-<tr><td>6</td><td>24</td><td>27,9</td><td>1691</td><td>56.35</td></tr>
-<tr><td>7</td><td>28</td><td>33,9</td><td>2016</td><td>67.20</td></tr>
-<tr><td>8</td><td>34</td><td>39,9</td><td>2407</td><td>80.25</td></tr>
-<tr><td>9</td><td>40</td><td>45,9</td><td>2798</td><td>93.25</td></tr>
-<tr><td>10</td><td>46</td><td>51,9</td><td>3189</td><td>106.30</td></tr>
-<tr><td>11</td><td>52</td><td>57,9</td><td>3580</td><td>119.35</td></tr>
-<tr><td>12</td><td>58</td><td>63,9</td><td>3971</td><td>132.35</td></tr>
-<tr><td>13</td><td>64</td><td>75,9</td><td>4557</td><td>151.90</td></tr>
-<tr><td>14</td><td>76</td><td>87,9</td><td>5339</td><td>177.95</td></tr>
-<tr><td>15</td><td>88</td><td>99,9</td><td>6121</td><td>204.05</td></tr>
-<tr><td>16</td><td>100</td><td>111,9</td><td>6903</td><td>230.10</td></tr>
-<tr><td>17</td><td>112</td><td>123,9</td><td>7684</td><td>256.15</td></tr>
-<tr><td>18</td><td>124</td><td>135,9</td><td>8466</td><td>282.20</td></tr>
-<tr><td>19</td><td>136</td><td>147,9</td><td>9248</td><td>308.25</td></tr>
-<tr><td>20</td><td>148</td><td>160</td><td>10'033</td><td>334.40</td></tr>
+<tr><td>1</td><td>4</td><td>7,9</td><td>391</td><td>13.05</td></tr>
+<tr><td>2</td><td>8</td><td>11,9</td><td>654</td><td>21.80</td></tr>
+<tr><td>3</td><td>12</td><td>15,9</td><td>917</td><td>30.55</td></tr>
+<tr><td>4</td><td>16</td><td>19,9</td><td>1180</td><td>39.35</td></tr>
+<tr><td>5</td><td>20</td><td>23,9</td><td>1443</td><td>48.10</td></tr>
+<tr><td>6</td><td>24</td><td>27,9</td><td>1706</td><td>56.85</td></tr>
+<tr><td>7</td><td>28</td><td>33,9</td><td>2035</td><td>67.85</td></tr>
+<tr><td>8</td><td>34</td><td>39,9</td><td>2429</td><td>81.00</td></tr>
+<tr><td>9</td><td>40</td><td>45,9</td><td>2824</td><td>94.15</td></tr>
+<tr><td>10</td><td>46</td><td>51,9</td><td>3218</td><td>107.30</td></tr>
+<tr><td>11</td><td>52</td><td>57,9</td><td>3613</td><td>120.45</td></tr>
+<tr><td>12</td><td>58</td><td>63,9</td><td>4007</td><td>133.60</td></tr>
+<tr><td>13</td><td>64</td><td>75,9</td><td>4599</td><td>153.30</td></tr>
+<tr><td>14</td><td>76</td><td>87,9</td><td>5388</td><td>179.60</td></tr>
+<tr><td>15</td><td>88</td><td>99,9</td><td>6177</td><td>205.90</td></tr>
+<tr><td>16</td><td>100</td><td>111,9</td><td>6966</td><td>232.20</td></tr>
+<tr><td>17</td><td>112</td><td>123,9</td><td>7755</td><td>258.50</td></tr>
+<tr><td>18</td><td>124</td><td>135,9</td><td>8544</td><td>284.80</td></tr>
+<tr><td>19</td><td>136</td><td>147,9</td><td>9333</td><td>311.10</td></tr>
+<tr><td>20</td><td>148</td><td>160</td><td>10'126</td><td>337.45</td></tr>
 </table>
 
 ## A2 Anhang 2 zu Artikel 29 und 46
@@ -1131,16 +1167,16 @@ beschliesst:
 <tr><th>Bedarfsstufen</th><th>Leistungsstunden pro Monat</th><th>Leistungsstunden pro Monat</th><th>Beitrag pro Präsenztag</th></tr>
 <tr><td></td><td>von</td><td>bis</td><td>in CHF</td></tr>
 <tr><td>0</td><td>0</td><td>3,9</td><td>0</td></tr>
-<tr><td>1</td><td>4</td><td>7,9</td><td>17.90</td></tr>
-<tr><td>2</td><td>8</td><td>11,9</td><td>29.90</td></tr>
-<tr><td>3</td><td>12</td><td>15,9</td><td>42.00</td></tr>
-<tr><td>4</td><td>16</td><td>22,9</td><td>58.50</td></tr>
-<tr><td>5</td><td>23</td><td>29,9</td><td>79.50</td></tr>
-<tr><td>6</td><td>30</td><td>36,9</td><td>100.60</td></tr>
-<tr><td>7</td><td>37</td><td>43,9</td><td>121.60</td></tr>
-<tr><td>8</td><td>44</td><td>55,9</td><td>150.20</td></tr>
-<tr><td>9</td><td>56</td><td>67,9</td><td>186.30</td></tr>
-<tr><td>10</td><td>68</td><td>80</td><td>222.50</td></tr>
+<tr><td>1</td><td>4</td><td>7,9</td><td>18.05</td></tr>
+<tr><td>2</td><td>8</td><td>11,9</td><td>30.20</td></tr>
+<tr><td>3</td><td>12</td><td>15,9</td><td>42.30</td></tr>
+<tr><td>4</td><td>16</td><td>22,9</td><td>59.00</td></tr>
+<tr><td>5</td><td>23</td><td>29,9</td><td>80.30</td></tr>
+<tr><td>6</td><td>30</td><td>36,9</td><td>101.50</td></tr>
+<tr><td>7</td><td>37</td><td>43,9</td><td>122.80</td></tr>
+<tr><td>8</td><td>44</td><td>55,9</td><td>151.60</td></tr>
+<tr><td>9</td><td>56</td><td>67,9</td><td>188.00</td></tr>
+<tr><td>10</td><td>68</td><td>80</td><td>224.60</td></tr>
 </table>
 
 Bern, 22. November 2023

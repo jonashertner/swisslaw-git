@@ -4,13 +4,13 @@ number: "860.31"
 title: Ordonnance sur les prestations de soutien aux personnes en situation de handicap
 short: OPHand
 language: fr
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-11
+version: 2026-01-01
+valid_until: 2026-10-31
+version_adopted: 2025-12-10
 adopted: 2023-11-22
 in_force: 2024-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3195/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3267/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3195/pdf_file"
 
 (OPHand)
 
-du 22.11.2023 (état au 01.07.2025)
+du 22.11.2023 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -344,11 +344,9 @@ arrête:
 
 **Pondération**
 
-<sup>1</sup> Le SEB pondère les heures de prestations vérifiées et corrigées en les multipliant par les taux de référence suivants:
+<sup>1</sup> Le SEB pondère les heures de prestations vérifiées et corrigées en les multipliant par les taux de référence.
 
-- a 1 — pour les prestations de catégorie A,
-- b 0,81 — pour les prestations de catégorie B,
-- c 0,54 — pour les prestations de catégorie C.
+<sup>2</sup> Les taux de référence sont calculés, pour les prestations de catégories A, B et C, en divisant le montant de la rétribution de la prestation concernée (art. 44, al. 1, lit. a, b ou c) par celui de la rétribution de la prestation de catégorie A (art. 44, al. 1, lit. a).
 
 #### Art. 27
 
@@ -473,9 +471,9 @@ arrête:
 
 **Exigences en matière de formation**
 
-<sup>1</sup> Les prestations de catégorie A peuvent être fournies uniquement par des personnes ayant en principe achevé une formation spécifique du degré tertiaire.
+<sup>1</sup> Les prestations de catégorie A peuvent être fournies uniquement par des personnes ayant en principe achevé une formation spécifique du degré tertiaire, et par leurs proches.
 
-<sup>2</sup> Les prestations de catégorie B peuvent être fournies uniquement par des personnes ayant en principe achevé une formation spécifique du degré secondaire II.
+<sup>2</sup> Les prestations de catégorie B peuvent être fournies uniquement par des personnes ayant en principe achevé une formation spécifique du degré secondaire II, et par leurs proches.
 
 <sup>3</sup> La fourniture de prestations de catégorie C ne nécessite aucune formation spécifique.
 
@@ -494,7 +492,7 @@ arrête:
 
 - a par le personnel d’assistance qu’elles emploient;
 - b par les prestataires d’assistance occasionnels qu’elles mandatent;
-- c par les proches qu'elles emploient.
+- c …
 
 #### Art. 43
 
@@ -516,16 +514,16 @@ arrête:
 
 <sup>1</sup> Les prestations d’assistance sont rétribuées par heure effective de prestation fournie selon les tarifs suivants:
 
-- a CHF 65.15 — pour les prestations de catégorie A,
+- a CHF 65.75 — pour les prestations de catégorie A,
 - b CHF 52.95 — pour les prestations de catégorie B,
 - c CHF 35.30 — pour les prestations de catégorie C,
 - d CHF 25.00 — pour les prestations fournies par des proches.
 
 <sup>2</sup> Les prestations de préparation et de suivi fournies par des prestataires d’assistance sont rétribuées de manière forfaitaire comme suit:
 
-- a 11,9 % de CHF 65.15 — pour les prestations de catégorie A,
-- b 12,7 % de CHF 52.95 — pour les prestations de catégorie B,
-- c 14,9 % de CHF 35.30 — pour les prestations de catégorie C.
+- a CHF 7.81 — pour les prestations de catégorie A,
+- b CHF 6.74 — pour les prestations de catégorie B,
+- c CHF 5.27 — pour les prestations de catégorie C.
 
 ### 5.1.2 Degrés de besoins
 
@@ -551,11 +549,7 @@ arrête:
 
 #### Art. 47
 
-<sup>1</sup> Les tarifs des prestations indirectes fournies par des prestataires d’assistance réguliers se montent à
-
-- a 7,7 % de CHF 65.15 — pour les prestations de catégorie A,
-- b 9,4 % de CHF 52.95 — pour les prestations de catégorie B,
-- c 14,2 % de CHF 35.30 — pour les prestations de catégorie C.
+<sup>1</sup> Les tarifs des prestations indirectes fournies par des prestataires d’assistance réguliers se montent à 5 francs pour les prestations A, B et C.
 
 <sup>2</sup> Aucune prestation indirecte n’est payée aux prestataires d’assistance occasionnels.
 
@@ -569,21 +563,42 @@ arrête:
 
 <sup>1</sup> Les tarifs des prestations indirectes fournies pour des places reconnues en home se montent à
 
-- a CHF 85.70 — pour un tiers de journée de séjour,
-- b CHF 106.40 — pour deux tiers de journée de séjour,
-- c CHF 127.10 — pour une journée complète de séjour,
+- a CHF 87.40 — pour un tiers de journée de séjour,
+- b CHF 109.70 — pour deux tiers de journée de séjour,
+- c CHF 132.00 — pour une journée complète de séjour,
 - d CHF 65.00 — pour une journée d’absence.
 
-<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 34.90 francs, à utiliser conformément à son affectation et à inscrire séparément dans la comptabilité.
+<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 34 francs, à utiliser conformément à son affectation et à attester séparément dans la comptabilité.
 
-<sup>3</sup> Les tarifs des prestations indirectes fournies pour des places reconnues en home figurant sur la liste des établissements médico-sociaux (EMS) se montent à
+<sup>3</sup> Les tarifs des prestations indirectes (depuis le degré de soins 3) fournies pour des places reconnues en home figurant sur la liste des établissements médico-sociaux (EMS) se montent à
 
-- a CHF 146.10 — pour un tiers de journée de séjour,
-- b CHF 158.70 — pour deux tiers de journée de séjour,
-- c CHF 171.25 — pour une journée complète de séjour,
+- a CHF 146.00 — pour un tiers de journée de séjour,
+- b CHF 158.50 — pour deux tiers de journée de séjour,
+- c CHF 170.95 — pour une journée complète de séjour,
 - d CHF 133.55 — pour une journée d’absence.
 
-<sup>4</sup> Les tarifs selon l’alinéa 3 comprennent un forfait d’infrastructure de 34.90 francs, à utiliser conformément à son affectation et à inscrire séparément dans la comptabilité.
+<sup>3a</sup> Les tarifs des prestations indirectes (degré de soins 2) fournies pour des places reconnues en home figurant sur la liste des établissements médico-sociaux (EMS) se montent à
+
+- a CHF 139.40 — pour un tiers de journée de séjour,
+- b CHF 151.80 — pour deux tiers de journée de séjour,
+- c CHF 164.30 — pour une journée complète de séjour,
+- d CHF 126.90 — pour une journée d’absence.
+
+<sup>3b</sup> Les tarifs des prestations indirectes (degré de soins 1) fournies pour des places reconnues en home figurant sur la liste des établissements médico-sociaux (EMS) se montent à
+
+- a CHF 125.30 — pour un tiers de journée de séjour,
+- b CHF 137.70 — pour deux tiers de journée de séjour,
+- c CHF 150.20 — pour une journée complète de séjour,
+- d CHF 112.80 — pour une journée d’absence.
+
+<sup>3c</sup> Les tarifs des prestations indirectes (degré de soins 0) fournies pour des places reconnues en home figurant sur la liste des établissements médico-sociaux (EMS) se montent à
+
+- a CHF 123.00 — pour un tiers de journée de séjour,
+- b CHF 135.50 — pour deux tiers de journée de séjour,
+- c CHF 147.95 — pour une journée complète de séjour,
+- d CHF 110.55 — pour une journée d’absence.
+
+<sup>4</sup> Les tarifs selon les alinéas 3 à 3c comprennent un forfait d’infrastructure de 34 francs, à utiliser conformément à son affectation et à attester séparément dans la comptabilité.
 
 #### Art. 49
 
@@ -591,21 +606,42 @@ arrête:
 
 <sup>1</sup> Les tarifs des prestations indirectes fournies pour des places non reconnues en home se montent à
 
-- a CHF 78.80 — pour un tiers de journée de séjour,
-- b CHF 97.60 — pour deux tiers de journée de séjour,
-- c CHF 116.40 — pour une journée complète de séjour,
+- a CHF 80.65 — pour un tiers de journée de séjour,
+- b CHF 101.30 — pour deux tiers de journée de séjour,
+- c CHF 122.00 — pour une journée complète de séjour,
 - d CHF 60.00 — pour une journée d’absence.
 
-<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 29.90 francs, à utiliser conformément à son affectation et à inscrire séparément dans la comptabilité.
+<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 29 francs, à utiliser conformément à son affectation et à attester séparément dans la comptabilité.
 
-<sup>3</sup> Les tarifs des prestations indirectes fournies pour des places non reconnues en home mais figurant sur la liste des EMS se montent à
+<sup>3</sup> Les tarifs des prestations indirectes (depuis le degré de soins 3) fournies pour des places non reconnues en home mais figurant sur la liste des EMS se montent à
 
-- a CHF 146.10 — pour un tiers de journée de séjour,
-- b CHF 158.70 — pour deux tiers de journée de séjour,
-- c CHF 171.25 — pour une journée complète de séjour,
+- a CHF 146.00 — pour un tiers de journée de séjour,
+- b CHF 158.50 — pour deux tiers de journée de séjour,
+- c CHF 170.95 — pour une journée complète de séjour,
 - d CHF 133.55 — pour une journée d’absence.
 
-<sup>4</sup> Les tarifs selon l’alinéa 3 comprennent un forfait d’infrastructure de 34.90 francs, à utiliser conformément à son affectation et à inscrire séparément dans la comptabilité.
+<sup>3a</sup> Les tarifs des prestations indirectes (degré de soins 2) fournies pour des places non reconnues en home mais figurant sur la liste des EMS se montent à
+
+- a CHF 139.40 — pour un tiers de journée de séjour,
+- b CHF 151.80 — pour deux tiers de journée de séjour,
+- c CHF 164.30 — pour une journée complète de séjour,
+- d CHF 126.90 — pour une journée d’absence.
+
+<sup>3b</sup> Les tarifs des prestations indirectes (degré de soins 1) fournies pour des places non reconnues en home mais figurant sur la liste des EMS se montent à
+
+- a CHF 125.30 — pour un tiers de journée de séjour,
+- b CHF 137.70 — pour deux tiers de journée de séjour,
+- c CHF 150.20 — pour une journée complète de séjour,
+- d CHF 112.80 — pour une journée d’absence.
+
+<sup>3c</sup> Les tarifs des prestations indirectes (degré de soins 0) fournies pour des places non reconnues en home mais figurant sur la liste des EMS se montent à
+
+- a CHF 123.00 — pour un tiers de journée de séjour,
+- b CHF 135.50 — pour deux tiers de journée de séjour,
+- c CHF 147.95 — pour une journée complète de séjour,
+- d CHF 110.55 — pour une journée d’absence.
+
+<sup>4</sup> Les tarifs selon les alinéas 3 à 3c comprennent un forfait d’infrastructure de 34 francs, à utiliser conformément à son affectation et à attester séparément dans la comptabilité.
 
 #### Art. 50
 
@@ -613,12 +649,12 @@ arrête:
 
 <sup>1</sup> Les tarifs des prestations indirectes fournies pour des places dans d’autres formes de logement collectif avec encadrement se montent à
 
-- a CHF 67.60 — pour un tiers de journée de séjour,
-- b CHF 80.10 — pour deux tiers de journée de séjour,
-- c CHF 92.70 — pour une journée complète de séjour,
+- a CHF 69.00 — pour un tiers de journée de séjour,
+- b CHF 83.00 — pour deux tiers de journée de séjour,
+- c CHF 97.00 — pour une journée complète de séjour,
 - d CHF 55.00 — pour une journée d’absence.
 
-<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 24.90 francs, à utiliser conformément à son affectation et à inscrire séparément dans la comptabilité.
+<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 24 francs, à utiliser conformément à son affectation et à attester séparément dans la comptabilité.
 
 ### 5.2.2.2 Tarifs applicables aux personnes en situation de handicap ne bénéficiant pas de prestations complémentaires annuelles
 
@@ -626,21 +662,21 @@ arrête:
 
 <sup>1</sup> Les homes et les autres formes de logement collectif avec encadrement peuvent fixer librement les tarifs des prestations indirectes fournies aux personnes en situation de handicap qui ne bénéficient pas de prestations complémentaires.
 
-<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure du montant minimal suivant, à utiliser conformément à son affectation et à inscrire séparément dans la comptabilité:
+<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure du montant minimal suivant, à utiliser conformément à son affectation et à attester séparément dans la comptabilité:
 
-- a CHF 34.90 — pour les places reconnues en home,
-- b CHF 34.90 — pour les places reconnues en home figurant sur la liste des EMS,
-- c CHF 29.90 — pour les places non reconnues en home,
-- d CHF 34.90 — pour les places non reconnues en home figurant sur la liste des EMS,
-- e CHF 24.90 — pour les places dans d’autres formes de logement collectif avec encadrement.
+- a CHF 34.00 — pour les places reconnues en home,
+- b CHF 34.00 — pour les places reconnues en home figurant sur la liste des EMS,
+- c CHF 29.00 — pour les places non reconnues en home,
+- d CHF 34.00 — pour les places non reconnues en home figurant sur la liste des EMS,
+- e CHF 24.00 — pour les places dans d’autres formes de logement collectif avec encadrement.
 
 ### 5.2.3 Tarifs des centres de jour reconnus
 
 #### Art. 52
 
-<sup>1</sup> Les tarifs des prestations indirectes fournies dans des centres de jour reconnus se montent à 50.90 francs par journée complète de présence et à 25.45 francs par demi-journée de présence.
+<sup>1</sup> Les tarifs des prestations indirectes fournies par des centres de jour reconnus se montent à 50.70 francs par journée complète de présence et à 25.35 francs par demi-journée de présence.
 
-<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 19.15 francs par journée complète de présence et de 9.60 francs par demi-journée de présence, à utiliser conformément à son affectation et à inscrire séparément dans la comptabilité.
+<sup>2</sup> Les tarifs selon l’alinéa 1 comprennent un forfait d’infrastructure de 18.70 francs par journée complète de présence et de 9.35 francs par demi-journée de présence, à utiliser conformément à son affectation et à attester séparément dans la comptabilité.
 
 ## 6 Décompte des prestations individuelles
 
@@ -1097,26 +1133,26 @@ arrête:
 <tr><th>Degré de besoins</th><th>Heures de prestations par mois</th><th>Heures de prestations par mois</th><th>Contribution par mois</th><th>Contribution maximale par jour</th></tr>
 <tr><td></td><td>de</td><td>à</td><td>en CHF</td><td>en CHF</td></tr>
 <tr><td>0</td><td>0</td><td>3,9</td><td>0</td><td>0</td></tr>
-<tr><td>1</td><td>4</td><td>7,9</td><td>388</td><td>12.90</td></tr>
-<tr><td>2</td><td>8</td><td>11,9</td><td>648</td><td>21.60</td></tr>
-<tr><td>3</td><td>12</td><td>15,9</td><td>909</td><td>30.30</td></tr>
-<tr><td>4</td><td>16</td><td>19,9</td><td>1169</td><td>39.00</td></tr>
-<tr><td>5</td><td>20</td><td>23,9</td><td>1430</td><td>47.65</td></tr>
-<tr><td>6</td><td>24</td><td>27,9</td><td>1691</td><td>56.35</td></tr>
-<tr><td>7</td><td>28</td><td>33,9</td><td>2016</td><td>67.20</td></tr>
-<tr><td>8</td><td>34</td><td>39,9</td><td>2407</td><td>80.25</td></tr>
-<tr><td>9</td><td>40</td><td>45,9</td><td>2798</td><td>93.25</td></tr>
-<tr><td>10</td><td>46</td><td>51,9</td><td>3189</td><td>106.30</td></tr>
-<tr><td>11</td><td>52</td><td>57,9</td><td>3580</td><td>119.35</td></tr>
-<tr><td>12</td><td>58</td><td>63,9</td><td>3971</td><td>132.35</td></tr>
-<tr><td>13</td><td>64</td><td>75,9</td><td>4557</td><td>151.90</td></tr>
-<tr><td>14</td><td>76</td><td>87,9</td><td>5339</td><td>177.95</td></tr>
-<tr><td>15</td><td>88</td><td>99,9</td><td>6121</td><td>204.05</td></tr>
-<tr><td>16</td><td>100</td><td>111,9</td><td>6903</td><td>230.10</td></tr>
-<tr><td>17</td><td>112</td><td>123,9</td><td>7684</td><td>256.15</td></tr>
-<tr><td>18</td><td>124</td><td>135,9</td><td>8466</td><td>282.20</td></tr>
-<tr><td>19</td><td>136</td><td>147,9</td><td>9248</td><td>308.25</td></tr>
-<tr><td>20</td><td>148</td><td>160</td><td>10'033</td><td>334.40</td></tr>
+<tr><td>1</td><td>4</td><td>7,9</td><td>391</td><td>13.05</td></tr>
+<tr><td>2</td><td>8</td><td>11,9</td><td>654</td><td>21.80</td></tr>
+<tr><td>3</td><td>12</td><td>15,9</td><td>917</td><td>30.55</td></tr>
+<tr><td>4</td><td>16</td><td>19,9</td><td>1180</td><td>39.35</td></tr>
+<tr><td>5</td><td>20</td><td>23,9</td><td>1443</td><td>48.10</td></tr>
+<tr><td>6</td><td>24</td><td>27,9</td><td>1706</td><td>56.85</td></tr>
+<tr><td>7</td><td>28</td><td>33,9</td><td>2035</td><td>67.85</td></tr>
+<tr><td>8</td><td>34</td><td>39,9</td><td>2429</td><td>81.00</td></tr>
+<tr><td>9</td><td>40</td><td>45,9</td><td>2824</td><td>94.15</td></tr>
+<tr><td>10</td><td>46</td><td>51,9</td><td>3218</td><td>107.30</td></tr>
+<tr><td>11</td><td>52</td><td>57,9</td><td>3613</td><td>120.45</td></tr>
+<tr><td>12</td><td>58</td><td>63,9</td><td>4007</td><td>133.60</td></tr>
+<tr><td>13</td><td>64</td><td>75,9</td><td>4599</td><td>153.30</td></tr>
+<tr><td>14</td><td>76</td><td>87,9</td><td>5388</td><td>179.60</td></tr>
+<tr><td>15</td><td>88</td><td>99,9</td><td>6177</td><td>205.90</td></tr>
+<tr><td>16</td><td>100</td><td>111,9</td><td>6966</td><td>232.20</td></tr>
+<tr><td>17</td><td>112</td><td>123,9</td><td>7755</td><td>258.50</td></tr>
+<tr><td>18</td><td>124</td><td>135,9</td><td>8544</td><td>284.80</td></tr>
+<tr><td>19</td><td>136</td><td>147,9</td><td>9333</td><td>311.10</td></tr>
+<tr><td>20</td><td>148</td><td>160</td><td>10'126</td><td>337.45</td></tr>
 </table>
 
 ## A2 Annexe 2 aux articles 29 et 46
@@ -1131,16 +1167,16 @@ arrête:
 <tr><th>Degré de besoins</th><th>Heures de prestations par mois</th><th>Heures de prestations par mois</th><th>Contribution par journée de présence</th></tr>
 <tr><td></td><td>de</td><td>à</td><td>en CHF</td></tr>
 <tr><td>0</td><td>0</td><td>3,9</td><td>0</td></tr>
-<tr><td>1</td><td>4</td><td>7,9</td><td>17.90</td></tr>
-<tr><td>2</td><td>8</td><td>11,9</td><td>29.90</td></tr>
-<tr><td>3</td><td>12</td><td>15,9</td><td>42.00</td></tr>
-<tr><td>4</td><td>16</td><td>22,9</td><td>58.50</td></tr>
-<tr><td>5</td><td>23</td><td>29,9</td><td>79.50</td></tr>
-<tr><td>6</td><td>30</td><td>36,9</td><td>100.60</td></tr>
-<tr><td>7</td><td>37</td><td>43,9</td><td>121.60</td></tr>
-<tr><td>8</td><td>44</td><td>55,9</td><td>150.20</td></tr>
-<tr><td>9</td><td>56</td><td>67,9</td><td>186.30</td></tr>
-<tr><td>10</td><td>68</td><td>80</td><td>222.50</td></tr>
+<tr><td>1</td><td>4</td><td>7,9</td><td>18.05</td></tr>
+<tr><td>2</td><td>8</td><td>11,9</td><td>30.20</td></tr>
+<tr><td>3</td><td>12</td><td>15,9</td><td>42.30</td></tr>
+<tr><td>4</td><td>16</td><td>22,9</td><td>59.00</td></tr>
+<tr><td>5</td><td>23</td><td>29,9</td><td>80.30</td></tr>
+<tr><td>6</td><td>30</td><td>36,9</td><td>101.50</td></tr>
+<tr><td>7</td><td>37</td><td>43,9</td><td>122.80</td></tr>
+<tr><td>8</td><td>44</td><td>55,9</td><td>151.60</td></tr>
+<tr><td>9</td><td>56</td><td>67,9</td><td>188.00</td></tr>
+<tr><td>10</td><td>68</td><td>80</td><td>224.60</td></tr>
 </table>
 
 Berne, le 22 novembre 2023
