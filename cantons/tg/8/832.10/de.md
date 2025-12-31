@@ -4,13 +4,12 @@ number: "832.10"
 title: Krankenversicherungsverordnung
 short: TG KVV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-03
+version: 2026-01-01
+version_adopted: 2026-03-31
 adopted: 2011-12-20
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/832.10"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2859/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3027/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ TG KVV
 
 (TG KVV)
 
-vom 20.12.2011 (Stand 01.01.2025)
+vom 20.12.2011 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -46,7 +45,7 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 <sup>4</sup> Das Departement beauftragt die kantonale Ausgleichskasse als kantonale Durchführungsstelle auf der Grundlage von Leistungsvereinbarungen mit Vollzugsaufgaben in den Bereichen Prämienverbilligung, Pflegefinanzierung und Versicherungspflicht.
 
-<sup>5</sup> Es beauftragt die kantonale Dienststelle für Statistik auf der Grundlage einer Leistungsvereinbarung mit der Bearbeitung von Daten der Leistungserbringer zur Qualitätsentwicklung.
+<sup>5</sup> Es beauftragt das Amt für Daten und Statistik auf der Grundlage einer Leistungsvereinbarung mit der Bearbeitung von Daten der Leistungserbringer zur Qualitätsentwicklung.
 
 ## 2. Vollstreckung der Prämienzahlungspflicht
 
@@ -153,13 +152,13 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 <sup>1</sup> Die Prämienverbilligungen betragen:
 
-- 1\. Fr. 3'396 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 2\. Fr. 2'544 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
-- 3\. Fr. 1'692 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 1\. Fr. 3'408 bis zum Steuerbetrag von Fr. 400 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 2\. Fr. 2'556 bis zum Steuerbetrag von Fr. 600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
+- 3\. Fr. 1'704 bis zum Steuerbetrag von Fr. 800 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen
 - 4\. …
-- 5\. Fr. 1'200 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
-- 6\. Fr. 6'108 für erwachsene Sozialhilfeempfänger
-- 7\. Fr. 1'200 für Sozialhilfeempfänger bis zum 18. Altersjahr
+- 5\. Fr. 1'236 für Kinder bis zum Steuerbetrag von Fr. 1'600 einfache satzbestimmende Steuer zu 100 % und ohne steuerbares Vermögen der Eltern
+- 6\. Fr. 6'132 für erwachsene Sozialhilfeempfänger
+- 7\. Fr. 1'236 für Sozialhilfeempfänger bis zum 18. Altersjahr
 
 #### § 15
 
@@ -250,7 +249,7 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Pflegeheimliste**
 
-<sup>1</sup> Der Regierungsrat erlässt für eine bedarfsgerechte Versorgung mit stationären Pflegeleistungen eine Pflegeheimliste gestützt auf eine Pflegeheimplanung.
+<sup>1</sup> Die Pflegeheimliste gilt als Leistungsauftrag gemäss Art. 36a Abs. 3 KVG. Der Regierungsrat erlässt die zu erbringende Ausbildungsleistung mit separatem Beschluss für alle Leistungserbringer.
 
 #### § 25a
 
@@ -274,19 +273,30 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Ausserkantonale Pflegeheimaufenthalte**
 
-<sup>1</sup> Die Pflegeheime sind verpflichtet, freie Plätze auf der Webseite von Curaviva Thurgau aufzuführen.
+<sup>1</sup> Die Pflegeheime sind verpflichtet, freie Plätze auf der Webseite von Curaviva Thurgau tagesaktuell aufzuführen, unterteilt in Plätze in offenen und in geschützten Wohnformen. Pflegeheime mit Zertifizierung in Palliative Care müssen an der gleichen Stelle als solche gekennzeichnet sein.
 
 <sup>2</sup> Der Kanton gliedert sich entlang der direkten Verbindung zwischen den Städten Frauenfeld, Weinfelden und Kreuzlingen in zwei Teile, wobei diese Städte zu beiden Kantonsteilen zählen.
 
-<sup>3</sup> Belegt die versicherte Person mit einem datierten Ausdruck, dass zum Zeitpunkt ihres Entscheides zum Heimeintritt, jedoch höchstens einen Monat vor dem effektiven Heimeintritt, kein Pflegeheimplatz im Kantonsteil ihres Wohnortes verfügbar ist, gelten die Beiträge der Restkostenfinanzierung des Standortkantons des Leistungserbringers gemäss Art. 25a Abs. 5 KVG.
+<sup>3</sup> Der Kanton übernimmt die Restfinanzierung nach den Regeln des Standortkantons im Sinne von Art. 25a Abs. 5 KVG, wenn die versicherte Person nachweist, dass zum Zeitpunkt ihres Entscheides zum Heimeintritt kein Pflegeheimplatz im Kantonsteil gemäss Abs. 2, in dem sie wohnt, verfügbar ist. Als Nachweis ist der datierte Ausdruck der Webseite gemäss Abs. 1 an die kantonale Durchführungsstelle einzureichen. Der Ausdruck darf nicht älter als einen Monat vor dem effektiven Heimeintritt sein.
+
+<sup>4</sup> Für einen Platz in einer geschützten Wohnform muss die versicherte Person für den Nachweis gemäss Abs. 3 vor ihrem Eintritt in ein Pflegeheim ausserhalb des Kantons schriftliche Bestätigungen aller Pflegeheime ihres Kantonsteils einreichen, wonach diese bis zur Bettenlimite gemäss Pflegeheimliste ausgelastet sind.
+
+<sup>5</sup> Die versicherte Person hat keinen Anspruch auf ein Einbettzimmer.
 
 #### § 26b
 
 **Sterbehospiz**
 
-<sup>1</sup> Von einer Ärztin oder einem Arzt mit Weiterbildung in Palliativmedizin verschriebene Aufenthalte in einem Hospiz gemäss Pflegeheimliste des Standortkantons werden wie folgt abgegolten:
+<sup>1</sup> Aufenthalte in einem Hospiz werden nur gemäss Abs. 1<sup>bis</sup> abgegolten, wenn sie von Ärztinnen oder Ärzten mit Weiterbildung in Palliativmedizin verordnet sind und wenn das Hospiz die folgenden Voraussetzungen kumulativ erfüllt:
 
-- 1\. Betrag in Höhe der Beiträge des Standortkantons an die Pflegerestkosten gemäss Art. 25a KVG inklusive allfälliger Zuschläge pro Pflegetag
+- 1\. Es ist auf der Pflegeheimliste des Standortkantons aufgeführt.
+- 2\. Es besitzt eine eigenständige Palliative Care-Abteilung.
+- 3\. Es ist spitalnah geführt und unmittelbar an die notwendige medizinische Akutversorgung angebunden.
+- 4\. Es hat den Nachweis erbracht, dass es eine durchgehende 24-stündige Behandlung durch Ärztinnen oder Ärzte mit Weiterbildung in Palliativmedizin, inklusive einer lückenlosen, mit der Patientensituation vertrauten ärztlichen Stellvertretung, sicherstellt.
+
+<sup>1<sup>bis</sup></sup> Die Abgeltung setzt sich wie folgt zusammen:
+
+- 1\. Betrag in Höhe der hoheitlich festgelegten Beiträge des Standortkantons an die Pflegerestkosten gemäss Art. 25a KVG inklusive allfälliger Zuschläge bis maximal Fr. 350 pro Pflegetag
 - 2\. Beitrag von Fr. 97 pro Tag an die Betreuungs- und Vorhalteleistungen
 
 <sup>2</sup> Die Abgeltung erfolgt jeweils nach schriftlicher Geltendmachung direkt an das Sterbehospiz.
@@ -295,7 +305,7 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Bedarfserfassungssysteme**
 
-<sup>1</sup> Die Pflegeheime verwenden für die Bedarfserfassung der stationären Langzeitpflege die aktuellen Bedarfsabklärungssysteme BESA oder RAI / RUG NH.
+<sup>1</sup> Die Pflegeheime verwenden für die Bedarfserfassung der stationären Langzeitpflege die aktuellen Bedarfsabklärungssysteme BESA oder RAI / RUG NH, zusätzlich ab 1. Juli 2026 InterRAI LTCF.
 
 #### § 28
 
@@ -313,7 +323,7 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Datenbearbeitung und Datenveröffentlichung**
 
-<sup>1</sup> Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
+<sup>1</sup> Das Amt für Gesundheit und das Amt für Daten und Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
 
 <sup>2</sup> Es können insbesondere Daten über den Rechtsträger, die Rechtsform, das Leistungsangebot, die Pflegeleistungen, die Kosten der Pflege- und Betreuungsleistungen sowie der Hotellerie und das Verhältnis zwischen Fach- und Verwaltungspersonal sowie übrigem Personal veröffentlicht werden.
 
@@ -340,19 +350,39 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Zuständigkeit**
 
-<sup>1</sup> Die kantonale Ausgleichskasse ist für die Festsetzung, Auszahlung und allfällige Rückforderung der Restfinanzierungsbeiträge für stationäre Pflegeleistungen im Pflegeheim zuständig.
+<sup>1</sup> Die kantonale Durchführungsstelle ist für die Festsetzung, Auszahlung und allfällige Rückforderung der Restfinanzierungsbeiträge für stationäre Pflegeleistungen im Pflegeheim zuständig.
 
-<sup>2</sup> Der Kanton trägt die Kosten der kantonalen Ausgleichskasse, die Gemeinden die Kosten der AHV-Gemeindezweigstellen.
+<sup>2</sup> Der Kanton trägt die Kosten der kantonalen Durchführungsstelle.
 
 #### § 33
 
 **Geltendmachung**
 
-<sup>1</sup> Gesuche um Ausrichtung der Restfinanzierung sind schriftlich bei der AHV-Gemeindezweigstelle am Wohnsitz des Leistungsbezügers oder der Leistungsbezügerin einzureichen.
+<sup>1</sup> Gesuche um Ausrichtung der Restfinanzierungsbeiträge sind bei der kantonalen Durchführungsstelle einzureichen.
 
-<sup>2</sup> Für die monatliche Weitergewährung der Restfinanzierung muss jeweils die Rechnung des Pflegeheims bei der kantonalen Ausgleichskasse eingereicht werden.
+<sup>1<sup>bis</sup></sup> Die Einreichung eines Gesuchs hat in der Regel elektronisch in der von der kantonalen Durchführungsstelle vorgegebenen Form zu erfolgen.
 
-<sup>3</sup> Bezieht der Gesuchsteller oder die Gesuchstellerin Ergänzungsleistungen oder werden solche beantragt, wird die monatliche Restfinanzierung zusätzlich zu den Ergänzungsleistungen ausgerichtet. Sofern aufgrund der Prüfung kein Anspruch auf Ergänzungsleistungen besteht, ist die EL-Anmeldung als Gesuch um Ausrichtung der Restfinanzierung zu betrachten.
+<sup>1<sup>ter</sup></sup> Die Einreichung der Rechnung des Pflegeheims gilt als Gesuch um Ausrichtung der Restfinanzierungsbeiträge.
+
+<sup>1<sup>quater</sup></sup> Zur Einreichung legitimiert sind insbesondere die Heimbewohnerin oder der Heimbewohner sowie das Pflegeheim.
+
+<sup>2</sup> Für die monatliche Weitergewährung der Restfinanzierungsbeiträge muss jeweils die Rechnung des Pflegeheims bei der kantonalen Durchführungsstelle eingereicht werden.
+
+<sup>3</sup> …
+
+#### § 33a
+
+**Prüfung und Weiterverarbeitung**
+
+<sup>1</sup> Die Prüfung des Anspruchs auf Restfinanzierungsbeiträge sowie die Weiterverarbeitung kann automatisiert erfolgen.
+
+#### § 33b
+
+**Auszahlung**
+
+<sup>1</sup> Die kantonale Durchführungsstelle zahlt die Restfinanzierungsbeiträge aus.
+
+<sup>2</sup> Sie zahlt die Restfinanzierungsbeiträge an ein Pflegeheim aus, sofern dieses das Gesuch um Ausrichtung von Restfinanzierungsbeiträgen direkt gestellt hat.
 
 #### § 34
 
@@ -368,25 +398,37 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Rückforderung**
 
-<sup>1</sup> Zu Unrecht ausgerichtete Beiträge für die Restfinanzierung sind zurückzuerstatten.
+<sup>1</sup> Zu Unrecht ausgerichtete Restfinanzierungsbeiträge sind zurückzuerstatten.
+
+<sup>2</sup> Zu Unrecht einem Pflegeheim direkt ausgerichtete Restfinanzierungsbeiträge sind von diesem zurückzuerstatten. Es kann sich nicht auf das Vorliegen einer grossen Härte berufen.
+
+<sup>3</sup> Die kantonale Durchführungsstelle kann den Rückforderungsbetrag mit zukünftigen auszurichtenden Restfinanzierungsbeiträgen verrechnen.
 
 #### § 38
 
 **Abrechnung gegenüber den Gemeinden**
 
-<sup>1</sup> Die kantonale Ausgleichskasse erstellt die Schlussabrechnung über die Restfinanzierung pro Kalenderjahr zuhanden des Departementes für Finanzen und Soziales jeweils bis zum 31. Januar. Für die Abrechnung gegenüber den Gemeinden sind die tatsächlich ausbezahlten Beträge pro Kalenderjahr massgebend.
+<sup>1</sup> Die kantonale Durchführungsstelle erstellt die Schlussabrechnung über die Restfinanzierung pro Kalenderjahr zuhanden des Departementes für Finanzen und Soziales jeweils bis zum 31. Januar. Für die Abrechnung gegenüber den Gemeinden sind die tatsächlich ausbezahlten Beträge pro Kalenderjahr massgebend.
 
-### 4.2. Ambulante Pflege sowie Hilfe und Betreuung
+### 4.2. Ambulante Pflege sowie Hauswirtschaft und Betreuung
 
 #### § 39
 
-**Spitexorganisationen, Tagesheime, Tages- und Nachtstrukturen**
+**Zulassung Spitexorganisationen, Tagesheime, Tages- und Nachtstrukturen**
 
 <sup>1</sup> Private und öffentlich-rechtliche Spitexorganisationen, gemeindeeigene Spitexdienste sowie Tagesheime, Tages- und Nachtstrukturen bedürfen gemäss § 24 des Gesetzes über das Gesundheitswesen (GG)[^39-1] einer gesundheitspolizeilichen Bewilligung. Sie werden als Leistungserbringer im Sinne des KVG zugelassen, sofern sie über eine solche verfügen und die weiteren Voraussetzungen der KVV betreffend Abrechnung zulasten der obligatorischen Krankenpflegeversicherung erfüllen. Sie sind als Abgabestelle für Mittel und Gegenstände gemäss Art. 55 KVV zugelassen.
 
-<sup>2</sup> Der Spitexorganisation wird ein Leistungsauftrag gemäss Art. 36a Abs. 3 KVG erteilt, wenn sie eine im Verhältnis zum kantonalen Bedarf im Versorgungsbereich angemessene Ausbildungsleistung in der praktischen Ausbildung von Pflegefachfrauen und Pflegefachmännern nach GesBG im Kanton Thurgau erbringt. Das zugrundeliegende Ausbildungskonzept muss mit einer Fachschule im Kanton Thurgau oder in einem angrenzenden Kanton erstellt worden sein. Die Ausbildungskapazitäten werden nach § 70a ff. TG KVV festgelegt. Ab Ersterteilung einer Zulassung bis zum Einbezug in die Berechnungen gilt eine Ausbildungskapazität von mindestens acht Praktikumswochen pro ganzes Kalenderjahr an Studierende Pflege HF oder FH, wofür der eingehaltene minimale Stellenplan für den Kanton Thurgau an erforderlichem qualifiziertem Personal gemäss Art. 51 KVV ausreichend ist.
+<sup>2</sup> Der Spitexorganisation wird unter folgenden kumulativen Voraussetzungen ein Leistungsauftrag gemäss Art. 36a Abs. 3 KVG erteilt:
+
+- 1 Sie erbringt im Kanton Thurgau eine im Verhältnis zum kantonalen Bedarf im Versorgungsbereich angemessene Ausbildungsleistung in der praktischen Ausbildung von Pflegefachfrauen und Pflegefachmännern gemäss Bundesgesetz über die Gesundheitsberufe (GesBG)[^39-2].
+- 2 Sie verfügt über ein Ausbildungskonzept mit unterzeichneter Vereinbarung mit einer Fachschule im Kanton Thurgau oder in einem angrenzenden Kanton, mit der die Einhaltung des Rahmenlehrplanes durch die Fachschule und die Spitexorganisation zugesichert wird.
+
+<sup>3</sup> Ab Ersterteilung einer Zulassung bis zum Einbezug in die Berechnungen gilt eine Ausbildungskapazität von mindestens acht Praktikumswochen pro ganzes Kalenderjahr an Studierende Pflege HF oder FH, wofür der eingehaltene minimale Stellenplan für den Kanton Thurgau an erforderlichem qualifiziertem Personal gemäss Art. 51 KVV ausreichend ist.
+
+<sup>4</sup> Wird die Ausbildungskapazität in einer Kooperation gemäss § 70b erbracht, muss die Spitexorganisation mit Zulassung im Kanton Thurgau nachweisen, dass die Ausbildungsleistung im Kanton Thurgau erbracht wird.
 
 [^39-1]: RB [810.1](https://www.rechtsbuch.tg.ch/data/810.1/de)
+[^39-2]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
 
 #### § 40
 
@@ -394,7 +436,9 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 <sup>1</sup> Leistungserbringer der ambulanten Pflege führen eine Leistungserfassung und eine Kostenrechnung, welche die Kostenarten, die Kostenstellen und die Kostenträger umfasst. Für die Rechnungslegung ist das aktuelle Finanzmanual des Spitex Verbandes Schweiz massgebend.
 
-<sup>2</sup> Dem Kostenträger Pflege werden nur Leistungen der ambulanten Pflege gemäss Art. 25a Abs. 1 KVG zugeordnet. Die Akut- und Übergangspflege gemäss Art. 25a Abs. 2 KVG ist als separater Kostenträger zu führen.
+<sup>2</sup> Dem Kostenträger Pflege werden nur Leistungen der ambulanten Pflege gemäss Art. 25a Abs. 1 KVG zugeordnet. Die Leistungen gemäss Art. 7 Abs. 2 KLV und deren Kosten sind in die Kategorien gemäss Art. 7 Abs. 2 lit. a, lit. b und lit. c KLV zu unterteilen, letztere zusätzlich in «Grundpflege» und «Grundpflege pflegende Angehörige».
+
+<sup>3</sup> Die Akut- und Übergangspflege gemäss Art. 25a Abs. 2 KVG sowie weitere Leistungen wie Hauswirtschaft, Mahlzeitendienst und Entlastungsdienst sind als separate Kostenträger zu führen.
 
 #### § 41
 
@@ -410,13 +454,27 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 <sup>1</sup> Die Leistungserbringer geben die für die Festlegung der anrechenbaren Kosten und für die Vergleichbarkeit der Leistungserbringer der ambulanten Pflege notwendigen Daten kostenlos bekannt, insbesondere diejenigen gemäss Art. 59a KVG.
 
+<sup>2</sup> Die Leistungserbringer stellen dem Amt für Gesundheit und dem Amt für Daten und Statistik die detaillierte Kostenrechnung und weitere Daten für die Festlegung der anrechenbaren Kosten, die Berechnungen der Pflegetarife und Höchstansätze nach § 25 und § 25a bis § 25c TG KVG vollständig, fristgerecht und kostenlos zur Verfügung.
+
+<sup>3</sup> Das Amt für Gesundheit erlässt Vorgaben zu Inhalt, Form und Terminen der Datenlieferungen. Die detaillierte Kostenrechnung ist bis am 31. März des dem Geschäftsjahr folgenden Jahres dem Amt für Gesundheit einzureichen.
+
 #### § 43
 
 **Datenbearbeitung und Datenveröffentlichung**
 
-<sup>1</sup> Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
+<sup>1</sup> Das Amt für Gesundheit und das Amt für Daten und Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen.
 
-<sup>2</sup> Es können insbesondere Daten über den Rechtsträger, die Rechtsform, das Leistungsangebot, die Leistungen und die Pflegetage, die Kosten der Pflegeleistungen sowie der Hilfe zu Hause und das Verhältnis zwischen Fach- und Verwaltungspersonal sowie übrigem Personal veröffentlicht werden.
+<sup>2</sup> Es können insbesondere Daten über den Rechtsträger, die Rechtsform, das Leistungsangebot, die Leistungen und die Pflegetage, die Kosten der Pflegeleistungen sowie der Hauswirtschaft zu Hause und das Verhältnis zwischen Fach- und Verwaltungspersonal sowie übrigem Personal veröffentlicht werden.
+
+#### § 43a
+
+**Pflegetarife von Pflegeleistungen von Angehörigen**
+
+<sup>1</sup> Als pflegende Angehörige gelten sowohl Personen, die mit der pflegebedürftigen Person verwandt sind, als auch Eheleute sowie Personen in eingetragenen Partner- und Lebensgemeinschaften sowie Personen aus dem engen Lebensumfeld, die regelmässige und substanzielle Unterstützung leisten und die Verantwortung und Verbindlichkeit dafür übernehmen, selbst wenn die Unterstützung nicht entschädigt wird.
+
+<sup>2</sup> Pflegeleistungen von Angehörigen umfassen die Massnahmen gemäss Art. 7 Abs. 2 lit. c KLV, die durch Angehörige nach Abs. 1 erbracht werden.
+
+<sup>3</sup> Der Pflegetarif nach Abs. 1 beträgt Fr. 50.50.
 
 #### § 44
 
@@ -454,13 +512,13 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Abrechnungen der beitragsberechtigten Organisationen**
 
-<sup>1</sup> Die Organisation führt für die Beiträge der Gemeinden gemäss § 25 TG KVG und gemäss § 44 in der periodischen Rechnungsstellung als elektronische Zusammenstellung für die administrative Rechnungsprüfung durch die Gemeinde auf:
+<sup>1</sup> Die Organisation führt für die Beiträge der Gemeinden gemäss § 25 und § 27 Abs. 2 TG KVG und gemäss § 44 in der periodischen Rechnungsstellung als elektronische Zusammenstellung für die administrative Rechnungsprüfung durch die Gemeinde auf:
 
 - 1\. Name, Vorname, Adresse und Geburtsdatum der Leistungsbezügerinnen und ‑bezüger
 - 2\. Datum des Leistungsbeginns und -endes in der Rechnungsperiode
 - 3\. Total der für die Gemeinde in der Rechnungsperiode abgerechneten Beitragssumme sowie die beitragsberechtigten Stunden je Leistungsbereich
 
-<sup>2</sup> Bis zum 31. Januar des Folgejahres stellt die Organisation der Gemeinde sowie der Dienststelle für Statistik eine Zusammenstellung für das Gesamtjahr zu. Diese enthält für die Gemeinde die Angaben gemäss Abs. 1 sowie für die Dienststelle für Statistik die Angaben gemäss Abs. 1 Ziff. 3.
+<sup>2</sup> Bis zum 31. Januar des Folgejahres stellt die Organisation der Gemeinde sowie dem Amt für Daten und Statistik eine Zusammenstellung für das Gesamtjahr zu. Diese enthält für die Gemeinde die Angaben gemäss Abs. 1 und für das Amt für Daten und Statistik die Angaben gemäss Abs. 1 Ziff. 3.
 
 <sup>3</sup> Die Gemeinden können in den Leistungsvereinbarungen auf die Angaben in der Rechnungsstellung sowie auf eine Zusammenstellung für das Gesamtjahr teilweise oder vollständig verzichten.
 
@@ -470,27 +528,25 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Berechnung Kantonsbeitrag**
 
-<sup>1</sup> Zur Geltendmachung des Kantonsbeitrags reicht die Gemeinde der kantonalen Finanzverwaltung das Erhebungsformular elektronisch und in Papierform bis zum 30. Juni des Folgejahres ein. Massgebend für den Beitrag im Beitragsjahr sind die genehmigte Jahresrechnung und die geltend gemachten, anrechenbaren Leistungsstunden der Gemeinden des Vorjahres.
+<sup>1</sup> Zur Geltendmachung des Kantonsbeitrags reicht die Gemeinde der kantonalen Finanzverwaltung das rechtsgültig unterzeichnete Erhebungsformular und die Bearbeitungsdatei elektronisch bis zum 30. Juni des Folgejahres ein. Massgebend für den Beitrag im Beitragsjahr sind die genehmigte Jahresrechnung und die geltend gemachten anrechenbaren Leistungsstunden der Gemeinden des Vorjahres.
 
-<sup>2</sup> Anrechenbar sind Aufwendungen gemäss Art. 25a KVG, § 25 TG KVG, § 27 Abs. 2 und Abs. 3 TG KVG, einschliesslich Abgeltungen für gemeinwirtschaftliche Leistungen, namentlich:
+<sup>2</sup> Anrechenbar sind Aufwendungen gemäss Art. 25a KVG sowie § 25, § 27 Abs. 2 und Abs. 3 TG KVG, einschliesslich Abgeltungen für gemeinwirtschaftliche Leistungen, namentlich:
 
-\- Restkosten der Pflege gemäss Art. 25a KVG
+- 1\. Restkosten der Pflege gemäss Art. 25a KVG inklusive Aus- und Weiterbildungsleistungen, spezialisierte Angebote mit erhöhten Anforderungen, in Leistungsaufträgen ausgewiesene Koordinationsleistungen gemäss § 25c TG KVG und erweiterte Leistungsaufträge gemäss § 25c TG KVG
+- 2\. Hauswirtschaftliche Unterstützung und Haushaltshilfe
+- 3\. Aufenthalte in Tagesheimen und Tages- und Nachtstrukturen
+- 4\. Begleitetes Wohnen
+- 5\. Fahrdienste
+- 6\. Mahlzeitendienste
+- 7\. Sozialbetreuung und -beratung
 
-\- Hauswirtschaftliche Unterstützung und Haushaltshilfe
+<sup>3</sup> Der Kantonsbeitrag an die Gemeinde beträgt 40 % der von ihr geltend gemachten anrechenbaren Kosten. Gemeinden, die Beiträge nicht fristgerecht geltend machen, verwirken ihren Anspruch auf Kantonsbeiträge an diese Aufwendungen.
 
-\- Aufenthalte in Tagesheimen und Tages- und Nachtstrukturen
+#### § 44d
 
-\- Begleitetes Wohnen
+**Kantonaler Vollzugsaufwand**
 
-\- Entlastung von betreuenden Angehörigen
-
-\- Fahrdienste
-
-\- Mahlzeitendienste
-
-\- Sozialbetreuung und -beratung
-
-<sup>3</sup> Der Kantonsbeitrag an die Gemeinde beträgt 40 % der von ihr geltendgemachten, anrechenbaren Kosten.
+<sup>1</sup> Der Vollzugsaufwand des Kantons wird vom Beitrag gemäss § 44c in Abzug gebracht. Er wird im Auszahlungsentscheid des Departements ausgewiesen.
 
 ### 4.3. Akut- und Übergangspflege
 
@@ -577,6 +633,12 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 <sup>3</sup> Mit der Spitalplanung ist eine Konzentration der Leistungsaufträge und Standorte anzustreben.
 
+#### § 52a
+
+**Abgabestelle für Mittel und Gegenstände**
+
+<sup>1</sup> Innerkantonale Listenspitäler der Thurgauer Spitallisten Akutsomatik, Psychiatrie und Rehabilitation sind an allen Standorten der ambulanten und stationären Leistungserbringung als Abgabestelle für Mittel und Gegenstände gemäss Art. 55 KVV zugelassen.
+
 #### § 53
 
 **Leistungsaufträge**
@@ -635,7 +697,7 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Daten**
 
-<sup>1</sup> Die Listenspitäler stellen dem Amt für Gesundheit und der Dienststelle für Statistik die Daten gemäss Art. 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit und die Dienststelle für Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen
+<sup>1</sup> Die Listenspitäler stellen dem Amt für Gesundheit und dem Amt für Daten und Statistik die Daten gemäss Art. 59a KVG vollständig, fristgerecht und kostenlos zur Verfügung. Das Amt für Gesundheit und das Amt für Daten und Statistik dürfen betriebsbezogene Daten und Daten nach Art. 59a KVG bearbeiten und veröffentlichen. Veröffentlichte Daten dürfen keine Rückschlüsse auf natürliche Personen zulassen
 
 <sup>2</sup> Für die betriebliche Rechnungslegung sind die Richtlinien des Branchenverbandes Hplus (Rekole) verbindlich anzuwenden.
 
@@ -728,7 +790,9 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 **Universitäre Lehre und Forschung**
 
-<sup>1</sup> Die Abgeltung von Leistungen für universitäre Lehre und Forschung gemäss § 37 des Gesetzes erfolgt nach Massgabe der Ostschweizer Spitalvereinbarung vom 17. August 2011.
+<sup>1</sup> Die Abgeltung von Leistungen für universitäre Lehre und Forschung gemäss § 37 TG KVG erfolgt nach Massgabe der Interkantonalen Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen (Weiterbildungsvereinbarung, WFV)[^64-1].
+
+[^64-1]: RB [832.60](https://www.rechtsbuch.tg.ch/data/832.60/de)
 
 #### § 65
 
@@ -830,6 +894,28 @@ vom 20.12.2011 (Stand 01.01.2025)
 
 <sup>4</sup> Innerhalb der Versorgungsbereiche werden die Ausbildungskapazitäten je Gesundheitsberuf auf die Leistungserbringer aufgeteilt. Dies erfolgt je nach Leistungsbereich insbesondere unter Berücksichtigung der Vollzeitäquivalente, der Betten gemäss Betriebsbewilligung oder der zulasten der Sozialversicherungen verrechneten Leistungen.
 
+#### § 70d
+
+**Massnahmen, wenn die Ausbildungskapazität nicht erreicht wird[^70d-1]**
+
+<sup>1</sup> Erreicht ein Leistungserbringer die festgelegte Ausbildungskapazität nicht, muss er dem Amt für Gesundheit Massnahmen zur Erreichung der Kapazität unterbreiten.
+
+<sup>2</sup> Das Amt für Gesundheit kann zusätzliche Massnahmen zulasten des Leistungserbringers anordnen.
+
+<sup>3</sup> Die Pflicht zur Leistung der Ersatzabgabe gemäss § 15a, § 22a und § 38 TG KVG ist davon unberührt.
+
+[^70d-1]: Mit RRB Nr. 427 vom 11. Juni 2024 ursprünglich auf den 1. Januar 2026 in Kraft gesetzt. Mit RRB Nr. 181 vom 31. März 2026 Inkraftsetzung auf den 1. Januar 2027 aufgeschoben.
+
+#### § 70e
+
+**Ersatzabgabe[^70e-1]**
+
+<sup>1</sup> Die Ersatzabgabe pro Praktikumswoche, die unter der festgelegten Ausbildungskapazität liegt, beträgt Fr. 3'600 für den Beruf Pflegefachmann und Pflegefachfrau.
+
+<sup>2</sup> Die Abrechnungsperiode entspricht dem Kalenderjahr.
+
+[^70e-1]: Mit RRB Nr. 427 vom 11. Juni 2024 ursprünglich auf den 1. Januar 2026 in Kraft gesetzt. Mit RRB Nr. 181 vom 31. März 2026 Inkraftsetzung auf den 1. Januar 2027 aufgeschoben.
+
 #### § 70f
 
 **Beitrag an die praktische Ausbildung**
@@ -839,7 +925,7 @@ vom 20.12.2011 (Stand 01.01.2025)
 - 1\. Fr. 400 pro Praktikumswoche
 - 2\. Fr. 550 pro Praktikumswoche für die Ausbildung in einer nachgewiesenen Kooperation
 
-<sup>2</sup> Die Leistungserbringer reichen dem Amt für Gesundheit die Daten der erbrachten Ausbildungsleistungen gemäss den Vorgaben bis zum 15. März des Folgejahres ein.
+<sup>2</sup> Die Leistungserbringer reichen dem Amt für Gesundheit die Daten der erbrachten Ausbildungsleistungen gemäss den Vorgaben bis zum 30. November des Beitragsjahres ein.
 
 <sup>3</sup> Wer die Daten nicht rechtzeitig einreicht, verwirkt seinen Anspruch auf Beiträge an die praktische Ausbildung.
 
