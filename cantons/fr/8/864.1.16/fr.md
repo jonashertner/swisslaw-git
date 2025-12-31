@@ -3,13 +3,12 @@ canton: FR
 number: "864.1.16"
 title: "Arrêté fixant les émoluments administratifs pour les autorisations et approbations données en application de la législation sur le travail dans l'industrie, l'artisanat et le commerce"
 language: fr
-version: 2003-01-01
-valid_until: 2025-12-31
-version_adopted: 2003-04-08
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 1975-03-03
 in_force: 1975-03-03
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/864.1.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7442/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8355/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7442/pdf_file"
 
 Travail dans l'industrie, l'artisanat et le commerce, émoluments – A
 
-du 03.03.1975 (version entrée en vigueur le 01.01.2003)
+du 03.03.1975 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -45,36 +44,36 @@ Arrête:
 <sup>1</sup> Les émoluments pour toute autorisation accordée en application de la loi sur le travail (LT) sont les suivants:
 
 - a) Approbation des plans de construction, de transformation ou d'agrandissement d'entreprises industrielles (art. 7 LT et art. 1 al. 2 OLT4):
-  - 1\. volume de la construction 0–999 m³: — Fr. 150
-  - 2\. volume de la construction 1000–4999 m³: — Fr. 250
-  - 3\. volume de la construction 5000–19'999 m³: — Fr. 550
-  - 4\. volume de la construction 20'000–79'999 m³: — Fr. 1400
-  - 5\. volume de la construction au-dessus de 80'000 m³: — Fr. 1800
-- b) Autorisation d'exploiter (art. 7 LT): 50 % des émoluments fixés pour l'approbation des plans, mais au minimum 80 francs
+  - 1\. volume de la construction 0–999 m³: — Fr. 190
+  - 2\. volume de la construction 1000–4999 m³: — Fr. 320
+  - 3\. volume de la construction 5000–19'999 m³: — Fr. 690
+  - 4\. volume de la construction 20'000–79'999 m³: — Fr. 1750
+  - 5\. volume de la construction au-dessus de 80'000 m³: — Fr. 2250
+- b) Autorisation d'exploiter (art. 7 LT): 50 % des émoluments fixés pour l'approbation des plans, mais au minimum 100 francs.
 - c) …
 - d) Travail de nuit (art. 17 LT et art. 40 OLT1) (temporaire, régulier ou périodique):
-  - 1\. jusqu'à 7 nuits: — Fr. 100
-  - 2\. à partir de 8 nuits: — Fr. 200
+  - 1\. jusqu'à 7 nuits: — Fr. 125
+  - 2\. à partir de 8 nuits: — Fr. 250
 - e) Travail du dimanche (art. 19 LT et art. 40 OLT1) (temporaire, régulier ou périodique):
-  - 1\. jusqu'à 4 dimanches: — Fr. 100
-  - 2\. à partir de 5 dimanches: — Fr. 300
+  - 1\. jusqu'à 4 dimanches: — Fr. 125
+  - 2\. à partir de 5 dimanches: — Fr. 375
 - f) Travail à trois équipes ou davantage (art. 24 LT et art. 40 OLT1) (temporaire ou périodique):
-  - 1\. jusqu'à 7 jours: — Fr. 100
-  - 2\. à partir de 8 jours: — Fr. 300
+  - 1\. jusqu'à 7 jours: — Fr. 125
+  - 2\. à partir de 8 jours: — Fr. 375
 - g) …
-- h) Travail continu (art. 25 LT) pour une durée de trois mois: Fr. 200. Cet émolument est applicable jusqu'à concurrence de l'occupation de 10 travailleurs; il est majoré de 10 francs pour chaque travailleur en sus, mais au maximum de 400 francs.
-- i) Autorisation d'occuper des jeunes gens de moins de 15 ans (art. 30 LT): 20 francs par enfant.
+- h) Travail continu (art. 25 LT) pour une durée de trois mois: Fr. 250. Cet émolument est applicable jusqu'à concurrence de l'occupation de 10 travailleurs; il est majoré de 10 francs pour chaque travailleur en sus, mais au maximum de 500 francs;
+- i) Autorisation d'occuper des jeunes gens de moins de 15 ans (art. 30 LT): 25 francs par enfant.
 
 #### Art. 2
 
-<sup>1</sup> Le Service public de l'emploi, par sa structure chargée de la protection des travailleurs, perçoit pour toute autorisation d'installer et d'exploiter des générateurs de vapeur et des récipients sous pression un émolument (par installation) de 200 francs.
+<sup>1</sup> Le Service public de l'emploi, par sa structure chargée de la protection des travailleurs, perçoit pour toute autorisation d'installer et d'exploiter des générateurs de vapeur et des récipients sous pression un émolument (par installation) de 250 francs.
 
 #### Art. 2bis
 
 <sup>1</sup> Le Service public de l'emploi, par sa structure chargée de la protection des travailleurs, perçoit un émolument pour tout préavis émis conformément à l'article 7 de la loi du 8 février 1966 d'exécution de la LT:
 
-- a) préavis sans démarche particulière: — Fr. 100
-- b) préavis avec démarche particulière: — Fr. 150 à 1000
+- a) préavis sans démarche particulière: — Fr. 125
+- b) préavis avec démarche particulière: — Fr. 190 à 1250
 
 <sup>2</sup> Les démarches préalables à la mise à l'enquête publique ne sont pas considérées comme démarches particulières.
 

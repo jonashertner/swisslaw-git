@@ -3,13 +3,12 @@ canton: FR
 number: "864.1.16"
 title: "Beschluss betreffend die Verwaltungsgebühren für Bewilligungen und Genehmigungen in Anwendung der Gesetzgebung über die Arbeit in der Industrie, im Gewerbe und im Handel"
 language: de
-version: 2003-01-01
-valid_until: 2025-12-31
-version_adopted: 2003-04-08
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 1975-03-03
 in_force: 1975-03-03
 url: "https://bdlf.fr.ch/app/de/texts_of_law/864.1.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7442/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8355/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7442/pdf_file"
 
 Arbeit in Industrie, Gewerbe und Handel, Gebühren – B
 
-vom 03.03.1975 (Fassung in Kraft getreten am 01.01.2003)
+vom 03.03.1975 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -45,36 +44,36 @@ beschliesst:
 <sup>1</sup> Die Gebühren für Bewilligungen, die in Anwendung des Arbeitsgesetzes (ArG) erteilt werden, werden wie folgt festgesetzt:
 
 - a) Plangenehmigungen für den Bau, den Umbau und die Vergrösserungen von industriellen Betrieben (Art. 7 ArG und Art. 1 Abs. 2 ArGV 4):
-  - 1\. Bauvolumen 0–999 m³: — Fr. 150
-  - 2\. Bauvolumen 1000–4999 m³: — Fr. 250
-  - 3\. Bauvolumen 5000–19'999 m³: — Fr. 550
-  - 4\. Bauvolumen 20'000–79'999 m³: — Fr. 1400
-  - 5\. Bauvolumen 80'000 m³ und mehr: — Fr. 1800
-- b) Betriebsbewilligung (Art. 7 ArG): 50 % der für die Plangenehmigung festgesetzten Gebühr, mindestens jedoch 80 Franken.
+  - 1\. Bauvolumen 0–999 m³: — Fr. 190
+  - 2\. Bauvolumen 1000–4999 m³: — Fr. 320
+  - 3\. Bauvolumen 5000–19'999 m³: — Fr. 690
+  - 4\. Bauvolumen 20'000–79'999 m³: — Fr. 1750
+  - 5\. Bauvolumen 80'000 m³ und mehr: — Fr. 2250
+- b) Betriebsbewilligung (Art. 7 ArG): 50 % der für die Plangenehmigung festgesetzten Gebühr, mindestens jedoch 100 Franken.
 - c) …
 - d) Nachtarbeit (Art. 17 ArG und Art. 40 ArGV 1) (vorübergehend, dauernd oder regelmässig wiederkehrend):
-  - 1\. bis 7 Nächte: — Fr. 100
-  - 2\. ab 8 Nächten: — Fr. 200
+  - 1\. bis 7 Nächte: — Fr. 125
+  - 2\. ab 8 Nächten: — Fr. 250
 - e) Sonntagsarbeit (Art. 19 ArG und Art. 40 ArGV 1) (vorübergehend, dauernd oder regelmässig wiederkehrend):
-  - 1\. bis 4 Sonntage: — Fr. 100
-  - 2\. ab 5 Sonntagen: — Fr. 300
+  - 1\. bis 4 Sonntage: — Fr. 125
+  - 2\. ab 5 Sonntagen: — Fr. 375
 - f) Drei- oder Mehrschichtbetrieb (Art. 24 ArG und Art. 40 ArGV 1) (vorübergehend oder regelmässig wiederkehrend):
-  - 1\. bis 7 Tage: — Fr. 100
-  - 2\. ab 8 Tagen: — Fr. 300
+  - 1\. bis 7 Tage: — Fr. 125
+  - 2\. ab 8 Tagen: — Fr. 375
 - g) …
-- h) Ununterbrochene Arbeit (Art. 25 ArG) für die Dauer von 3 Monaten: Fr. 200. Diese Gebühr gilt bei Beschäftigung von bis zu 10 Personen; sie erhöht sich um 10 Franken für jeden Arbeitnehmer, höchstens jedoch um 400 Franken.
-- i) Bewilligung für die Beschäftigung Jugendlicher unter 15 Jahren (Art. 30 ArG): 20 Franken je Jugendlichen.
+- h) Ununterbrochene Arbeit (Art. 25 ArG) für die Dauer von 3 Monaten: Fr. 250. Diese Gebühr gilt bei Beschäftigung von bis zu 10 Personen; sie erhöht sich um 10 Franken für jeden weiteren Arbeitnehmer, höchstens jedoch um 500 Franken.
+- i) Bewilligung für die Beschäftigung Jugendlicher unter 15 Jahren (Art. 30 ArG): 25 Franken je Jugendlichen.
 
 #### Art. 2
 
-<sup>1</sup> Die Stelle für den Arbeitnehmerschutz beim Amt für den Arbeitsmarkt erhebt für jede Bewilligung zur Aufstellung und Inbetriebnahme von Druckluftgefässen und Dampfkesselanlagen eine Gebühr von 200 Franken pro Einrichtung.
+<sup>1</sup> Die Stelle für den Arbeitnehmerschutz beim Amt für den Arbeitsmarkt erhebt für jede Bewilligung zur Aufstellung und Inbetriebnahme von Druckluftgefässen und Dampfkesselanlagen eine Gebühr von 250 Franken pro Einrichtung.
 
 #### Art. 2bis
 
 <sup>1</sup> Die Stelle für den Arbeitnehmerschutz beim Amt für den Arbeitsmarkt erhebt für Stellungnahmen gemäss Artikel 7 des Ausführungsgesetzes vom 8. Februar 1966 zum ArG folgende Gebühr:
 
-- a) Stellungnahme ohne besonderen Aufwand: — Fr. 100
-- b) Stellungnahme mit besonderem Aufwand: — Fr. 150 bis 1000
+- a) Stellungnahme ohne besonderen Aufwand: — Fr. 125
+- b) Stellungnahme mit besonderem Aufwand: — Fr. 190 bis 1250
 
 <sup>2</sup> Die Vorbereitung einer öffentlichen Auflage gilt nicht als besonderer Aufwand.
 
