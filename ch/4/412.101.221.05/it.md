@@ -3,18 +3,18 @@ sr: "412.101.221.05"
 title: Ordinanza della SEFRI del 21 aprile 2009 sulla formazione professionale di base Doratrice corniciaia/Doratore corniciaio con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/421"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2009-04-21
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2009-421-20240401-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Doratrice corniciaia/Doratore corniciaio con attestato federale di capacità (AFC)
 
-del 21 aprile 2009 (Stato 1° aprile 2024)
+del 21 aprile 2009 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>31604</td><td>Doratrice corniciaia AFC/Doratore corniciaio AFC Vergolderin-Einrahmerin EFZ/Vergolder-Einrahmer EFZ Doreuse-Encadreuse CFC/Doreur-Encadreur CFC</td></tr>
@@ -26,11 +26,11 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
-[^ingress-5]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
+[^ingress-5]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Sezione 1: Oggetto e durata
 
@@ -119,8 +119,8 @@ La competenza sociale e personale comprende conoscenze e capacità nei seguenti 
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo d’infortunio; tali precauzioni particolari sono fissate in allegato al piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^7-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Parti svolte dai luoghi di formazione e lingua d’insegnamento
 
@@ -163,16 +163,17 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione delle fonti.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 [^10-2]: Il piano è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professioni A‒Z
 
 #### Art. 11
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^11-2].
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -187,8 +188,8 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 - c. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività del doratore corniciaio AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
 - d. diploma di formazione professionale superiore con almeno due anni di esperienza professionale nel campo d’insegnamento.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^12-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 #### Art. 13
 
@@ -204,16 +205,16 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>5</sup> In casi particolari l’autorità cantonale può autorizzare il superamento del numero massimo di persone in formazione nelle aziende di tirocinio che da più anni svolgono la loro funzione di formazione con un successo superiore alla media.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^13-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^13-3]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^13-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^13-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^13-3]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^13-4]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Sezione 7: Documentazione dell’apprendimento, rapporto di formazione e documentazione delle prestazioni
 
 [^sec7-1]
 
-[^sec7-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^sec7-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 #### Art. 14
 
@@ -223,7 +224,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>2</sup> Almeno una volta al semestre il formatore controlla e firma la documentazione dell’apprendimento e la discute con la persona in formazione.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 #### Art. 14a
 
@@ -237,7 +238,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 <sup>4</sup> Se nonostante le misure concordate gli obiettivi non sono raggiunti o se è a rischio il buon esito della formazione, il formatore lo comunica per iscritto alle parti contraenti e all’autorità cantonale.
 
-[^14a-1]: Introdotto dal n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^14a-1]: Introdotto dalla cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 #### Art. 15
 
@@ -245,7 +246,7 @@ Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche
 
 Gli operatori della formazione scolastica e della formazione di base organizzata dalla scuola documentano le prestazioni delle persone in formazione nelle materie insegnate e consegnano loro una pagella alla fine di ogni semestre.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Sezione 8: Procedure di qualificazione
 
@@ -262,8 +263,8 @@ Gli operatori della formazione scolastica e della formazione di base organizzata
   - 2\.[^16-1] ha svolto almeno tre anni di tale esperienza professionale nel campo del doratore corniciaio AFC, e
   - 3\.[^16-2] rende verosimile il possesso dei requisiti per la rispettiva procedura di qualificazione.
 
-[^16-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^16-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^16-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 #### Art. 17
 
@@ -281,11 +282,12 @@ L’esame finale della procedura di qualificazione valuta i campi di qualificazi
 
 - a. «lavoro pratico», sotto forma di lavoro pratico individuale della durata da 36 a 48 ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 - b. «conoscenze professionali», della durata di quattro ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame è scritto oppure sia scritto sia orale. Se si svolge un esame orale, la durata massima è di un’ora;
-- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^18-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^18-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^18-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 19
 
@@ -311,7 +313,7 @@ Per il calcolo della nota complessiva valgono le note sotto elencate con la segu
 - c. cultura generale: 20 per cento;
 - d. nota relativa all’insegnamento professionale: 20 per cento.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 #### Art. 20
 
@@ -354,7 +356,7 @@ Se l’attestato federale di capacità è stato conseguito mediante procedura di
 
 [^sec10-1]
 
-[^sec10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^sec10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 #### Art. 23
 
@@ -389,10 +391,10 @@ Essa svolge in particolare i compiti seguenti:
   - 1\. riguardo agli strumenti per la validazione degli apprendimenti acquisiti;
   - 2\. riguardo agli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, in particolare sulle disposizioni esecutive per la procedura di qualificazione con esame finale.[^23-4]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^23-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^23-2]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 [^23-3]: [[RU 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)n. II. [RU 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)n. II 1]
-[^23-4]: Nuovo testo giusta il n. I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
+[^23-4]: Nuovo testo giusta la cifra I dell’O della SEFRI del 11 dic. 2017, in vigore dal 1° feb. 2018 ([RU 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Sezione 11: Disposizioni finali
 

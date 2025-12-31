@@ -3,18 +3,18 @@ sr: "412.101.221.05"
 title: Ordonnance du SEFRI du 21 avril 2009 sur la formation professionnelle initiale de doreuse-encadreuse/doreur-encadreur avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/421"
 language: fr
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2009-04-21
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2009-421-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/421/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-421-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/421/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de doreuse‑encadreuse/doreur-encadreur avec certificat fédéral de capacité (CFC)\*
 
-du 21 avril 2009 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 21 avril 2009 (État le 1<sup>er</sup> janvier 2026)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -28,10 +28,10 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:[^ingress-5]
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Section 1 Objet et durée
@@ -122,7 +122,7 @@ Les compétences sociales et personnelles concernent les connaissances et les ap
 <sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^7-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Section 4 Parts assumées par les différents lieux de formation et langue d’enseignement
 
@@ -172,9 +172,10 @@ Le plan de formation:
 
 **Culture générale**
 
-L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-1].
+L’enseignement de la culture générale est régi par l’ordonnance du SEFRI 9 avril 2025[^11-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-2].
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^11-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 ## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
 
@@ -286,11 +287,12 @@ La procédure de qualification avec examen final porte sur les domaines de quali
 
 - a. travail pratique d’une durée de 36 à 48 heures sous la forme d’un travail pratique individuel (TPI). Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
 - b. connaissances professionnelles d’une durée de 4 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit ou des examens écrit et oral. Si un examen oral est organisé, il dure 1 heure au maximum.
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
@@ -396,7 +398,7 @@ Elle est notamment chargée des tâches suivantes:
 
 [^23-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 [^23-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
-[^23-3]: [RS 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^23-3]: [RS 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
 [^23-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 11 déc. 2017, en vigueur depuis le 1<sup>er</sup> fév 2018 ([RO 2018 51](https://fedlex.data.admin.ch/eli/oc/2018/21)).
 
 ## Section 11 Dispositions finales
