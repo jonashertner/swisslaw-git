@@ -3,20 +3,20 @@ sr: "412.101.221.82"
 title: Verordnung des SBFI vom 31. Juli 2012 über die berufliche Grundbildung Fotografin/Fotograf mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/603"
 language: de
-version: 2013-01-01
+version: 2026-01-01
 adopted: 2012-07-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/603/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2012-603-20130101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/603/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/603/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-603-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/603/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Fotografin/Fotograf mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 31. Juli 2012 (Stand am 1. Januar 2013)[^t-1]
+vom 31. Juli 2012 (Stand am 1. Januar 2026)[^t-1]
 
-[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2013 angepasst.
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2013 angepasst.
 
 <table>
 <tr><td>90602</td><td>Fotografin EFZ/Fotograf EFZ Photographe CFC Fotografa AFC/Fotografo AFC</td></tr>
@@ -28,8 +28,8 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -213,9 +213,10 @@ Der Bildungsplan legt überdies fest:
 
 **Allgemeinbildung**
 
-Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^9-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^9-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^9-2].
 
-[^9-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^9-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^9-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
 
@@ -310,11 +311,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualif
 
 - a. Praktische Arbeit, als vorgegebene praktische Arbeit (VPA) im Umfang von 24 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
 - b. Berufskenntnisse, im Umfang von 4 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung schriftlich geprüft.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^17-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^17-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^17-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
