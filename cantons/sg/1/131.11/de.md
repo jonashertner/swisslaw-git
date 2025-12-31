@@ -5,11 +5,12 @@ title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
 version: 2026-01-01
+corrected: 2025-12-17
 version_adopted: 2025-12-03
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3846/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3844/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -253,7 +254,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Staatswirtschaftliche Kommission prüft aufgrund von Berichten und durch eigene Kontrollen:
 
-- a) die Amtsführung der Regierung, der ihr nachgeordneten Behörden und Dienststellen, der kantonalen Fachstelle für Datenschutz, der Organisationen mit kantonaler Beteiligung[^15-1] sowie von Privaten, soweit ihnen Staatsaufgaben übertragen sind;
+- a) die Amtsführung der Regierung, der ihr nachgeordneten Behörden und Dienststellen, der kantonalen Fachstelle für Datenschutz sowie der selbständigen öffentlich-rechtlichen Anstalten;
 - a<sup>bis</sup>) die Umsetzung der Strategie der Aussenbeziehungen und der zwischenstaatlichen Vereinbarungen;
 - b) die Planung und Steuerung der Staatstätigkeit und das Ergebnis des Regierungscontrollings;
 - b<sup>bis</sup>) …
@@ -270,8 +271,6 @@ als Reglement:[^ingress-7]
 - e) Berichte und Anträge der Regierung über Fristverlängerungen zur Behandlung von Initiativbegehren.
 
 <sup>4</sup> …
-
-[^15-1]: Art. [94a](https://www.gesetzessammlung.sg.ch/data/140.1/de/art94a) StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
 
 #### Art. 16
 
@@ -350,7 +349,15 @@ als Reglement:[^ingress-7]
 
 #### Art. 20
 
-**…**
+**Erneuerung**
+
+<sup>1</sup> Die ununterbrochene Zugehörigkeit zu einer ständigen Kommission ist auf sechs Jahre beschränkt.
+
+<sup>2</sup> Die Kommissionspräsidentin oder der Kommissionspräsident darf der Kommission insgesamt acht Jahre angehören, davon höchstens sechs Jahre als Präsidentin oder Präsident.
+
+<sup>3</sup> Diese Beschränkungen gelten nicht für die Redaktionskommission.
+
+<sup>4</sup> …
 
 ### b) nichtständige Kommissionen
 
@@ -392,25 +399,22 @@ als Reglement:[^ingress-7]
 
 **Befugnisse**
 
-<sup>1</sup> Die Kommission hat Anspruch auf alle Informationen, die zur Erfüllung ihrer Aufgabe geeignet und erforderlich sind. Zur Wahrnehmung dieses Anspruchs kann sie im Rahmen ihres Auftrags:
+<sup>1</sup> Die Kommission kann im Rahmen ihres Auftrags:
 
-- a) die das Geschäft betreffenden Akten einsehen. In Akten, die unter das Amtsgeheimnis[^23-1] fallen, nimmt die Kommission durch eine Abordnung Einsicht;
-- b) Mitarbeitende des Kantons und von Organisationen mit kantonaler Beteiligung[^23-2] sowie von Privaten, soweit ihnen Staatsaufgaben übertragen sind, über Sachverhalte befragen;
+- a) die das Geschäft betreffenden Akten einsehen; in Akten, die unter das Amtsgeheimnis[^23-1] fallen, nimmt die Kommission durch eine Abordnung Einblick;
+- b) Mitarbeitende des Staates und seiner Anstalten über Sachverhalte befragen;
 - c) Besichtigungen durchführen;
 - d) sachverständige Dritte befragen und Gutachten einholen;
 - e) Interessenvertreterinnen und Interessenvertreter anhören.
 
-<sup>1<sup>bis</sup></sup> Die Kommission entscheidet eigenständig, wie sie ihre Informationsrechte ausübt. Diesbezügliche Entscheide der Kommission können nicht an den Kantonsrat weitergezogen werden.
-
-<sup>2</sup> Handelt es sich um ein Strafverfahren, ein Disziplinarverfahren oder eine Verantwortlichkeitsklage,[^23-3] kann die Kommission Auskunftspersonen einvernehmen.
+<sup>2</sup> Handelt es sich um ein Strafverfahren, ein Disziplinarverfahren oder eine Verantwortlichkeitsklage,[^23-2] kann die Kommission Auskunftspersonen einvernehmen.
 
 <sup>3</sup> Ergeben sich in derselben Sache aus Vorladungen Kosten von mehr als Fr. 3000.– und aus Gutachten Kosten von mehr als Fr. 4500.–, ist die Zustimmung des Präsidiums einzuholen.
 
-<sup>4</sup> Die Kommission ist an die Grundsätze der Gewaltenteilung gebunden.
+<sup>4</sup> Die Kommission ist an die Grundsätze der Gewaltentrennung gebunden.
 
-[^23-1]: Art. [67](https://www.gesetzessammlung.sg.ch/data/143.1/de/art67) PersG, sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de); Art. 320 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
-[^23-2]: Art. [94a](https://www.gesetzessammlung.sg.ch/data/140.1/de/art94a) StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
-[^23-3]: Siehe auch Art. [12](https://www.gesetzessammlung.sg.ch/data/161.3/de/art12) Abs. 2 Bst. a DG, sGS [161.3](https://www.gesetzessammlung.sg.ch/data/161.3/de); Art. [23](https://www.gesetzessammlung.sg.ch/data/962.1/de/art23) Abs. 2 EG-StPO; Art. [10](https://www.gesetzessammlung.sg.ch/data/161.1/de/art10) Abs. 2 VG, sGS [161.1](https://www.gesetzessammlung.sg.ch/data/161.1/de).
+[^23-1]: Art. [68](https://www.gesetzessammlung.sg.ch/data/140.1/de/art68) f. StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de); Art. 320 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+[^23-2]: Siehe auch Art. [12](https://www.gesetzessammlung.sg.ch/data/161.3/de/art12) Abs. 2 Bst. a DG, sGS [161.3](https://www.gesetzessammlung.sg.ch/data/161.3/de); Art. [23](https://www.gesetzessammlung.sg.ch/data/962.1/de/art23) Abs. 2 EG-StPO; Art. [10](https://www.gesetzessammlung.sg.ch/data/161.1/de/art10) Abs. 2 VG, sGS [161.1](https://www.gesetzessammlung.sg.ch/data/161.1/de).
 
 #### Art. 23bis
 
@@ -434,13 +438,13 @@ als Reglement:[^ingress-7]
 
 #### Art. 23quater
 
-**Bestellung**
+**Bestellung und Erneuerung**
 
 <sup>1</sup> Der Kantonsrat wählt die Vertretungen zu Beginn der Amtsdauer.
 
 <sup>2</sup> Er legt auf Antrag des Präsidiums Grösse und Zusammensetzung der Vertretungen fest. Dabei berücksichtigt er Ziel und Zweck der Gremien.
 
-<sup>3</sup> …
+<sup>3</sup> Die ununterbrochene Zugehörigkeit zu einer Vertretung ist auf sechs Jahre beschränkt.
 
 ### 4. Fraktionen
 
