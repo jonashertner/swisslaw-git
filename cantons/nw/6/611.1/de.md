@@ -4,13 +4,13 @@ number: "611.1"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Planungs- und Baugesetz, PBG"
 language: de
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-18
+version: 2026-01-01
+valid_until: 2026-03-31
+version_adopted: 2024-10-23
 adopted: 2014-05-21
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1365/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1446/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1365/pdf_file"
 
 (Planungs- und Baugesetz, PBG)[^t-1]
 
-vom 21.05.2014 (Stand 01.04.2025)
+vom 21.05.2014 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -1334,10 +1334,7 @@ beschliesst:
 
 <sup>2</sup> Für diese Benützung kann eine Verwaltungsgebühr und eine Benützungsgebühr erhoben werden.
 
-<sup>3</sup> Die Höhe der Gebühren ist zu regeln:
-
-- 1\. für kantonales Eigentum durch den Regierungsrat in einer Verordnung;
-- 2\. für kommunales Eigentum durch den Gemeinderat in einem Reglement.
+<sup>3</sup> Die Höhe der Gebühren und das Verfahren sind für kantonales Eigentum durch den Kanton und für kommunales Eigentum durch die Gemeinde zu regeln.
 
 <sup>4</sup> Die Bestimmungen des Strassengesetzes[^94-1] bleiben vorbehalten.
 
@@ -1950,9 +1947,9 @@ beschliesst:
 
 **Begriff**
 
-<sup>1</sup> Der Gemeinderat kann vor Einreichung eines Baugesuchs zur Abklärung wichtiger Bau- und Nutzungsfragen ersucht werden.
+<sup>1</sup> Die Baubewilligungsbehörde kann vor Einreichung eines Baugesuchs zur Abklärung wichtiger Bau- und Nutzungsfragen ersucht werden.
 
-<sup>2</sup> Vorabklärungen des Gemeinderates stellen keine verbindlichen Entscheide dar.
+<sup>2</sup> Vorabklärungen der Baubewilligungsbehörde stellen keine verbindlichen Entscheide dar.
 
 ### 7.2.2 Ordentliches Verfahren
 
@@ -2303,7 +2300,7 @@ beschliesst:
 
 **Anzeigepflicht**
 
-<sup>1</sup> Der Gemeinderat ist zur Strafanzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
+<sup>1</sup> Der Gemeinderat und die Baukommission sind zur Anzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
 
 ## 11 Vollzugs , Übergangs- und Schlussbestimmungen
 
