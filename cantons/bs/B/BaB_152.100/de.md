@@ -3,22 +3,22 @@ canton: BS
 number: BaB 152.100
 title: Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2024-10-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-18
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-12-09
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6405/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 
-Bürgergemeinderat: Geschäftsordnung | Basel: Bürgergemeinde
+Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. Oktober 2024)
+Vom 9. September 1986 (Stand 1. Januar 2026)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -88,9 +88,11 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 #### § 7
 
-**Sitzungsgeld**
+**Entschädigung**
 
-<sup>1</sup> Die Mitglieder des Bürgergemeinderates erhalten für jede Sitzung im Plenum und für jede Kommissionssitzung ein angemessenes Sitzungsgeld, abgestuft nach ihren jeweiligen Funktionen als Präsident/ Präsidentin, Protokollführer und Mitglied.
+<sup>1</sup> Die Mitglieder des Bürgergemeinderates erhalten für jede Sitzung im Plenum und für jede Kommissionssitzung ein angemessenes Sitzungsgeld, abgestuft nach ihren jeweiligen Funktionen als Präsidentin oder Präsident, Protokollführerin oder Protokollführer und Mitglied.
+
+<sup>1<sup>bis</sup></sup> Die Mitglieder des Bürgergemeinderates können für weitere Tätigkeiten nach Zeitaufwand entschädigt werden.
 
 <sup>2</sup> Der Bürgergemeinderat kann im Sinne einer Spesenpauschale zusätzlich einen angemessenen Grundbetrag festlegen.
 
@@ -117,6 +119,24 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 <sup>1</sup> Zu Wahlen und Beschlüssen des Bürgergemeinderates ist die Anwesenheit von mindestens 21 Mitgliedern erforderlich.
 
 <sup>2</sup> Um die Beschlussfähigkeit festzustellen, kann der Präsident/die Präsidentin jederzeit einen Namensaufruf anordnen.
+
+#### § 10a
+
+**Offenlegung von Interessenbindungen**
+
+<sup>1</sup> Die Mitglieder des Bürgergemeinderats und seiner Kommissionen beraten und stimmen ohne Instruktion.
+
+<sup>2</sup> Sie geben bei Amtsantritt ihre Interessenbindungen schriftlich bekannt.
+
+<sup>3</sup> Änderungen sind der Kanzlei des Bürgergemeinderats laufend bekanntzugeben.
+
+<sup>4</sup> Die Interessenbindungen werden in einem Verzeichnis abgebildet. Das Verzeichnis wird veröffentlicht.
+
+#### § 10b
+
+**Ausstand**
+
+<sup>1</sup> Die Ausstandspflicht der Mitglieder des Bürgergemeinderats und seiner Kommissionen gilt für die Vorbereitung, die Beratung und die Beschlussfassung im Plenum und in den Kommissionen.
 
 #### § 11
 
@@ -178,13 +198,7 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 #### § 19
 
-**Ausstand bei Abstimmungen**
-
-<sup>1</sup> Ein Mitglied hat weder Sitz noch Stimme bei der Beschlussfassung über ein Rechtsgeschäft oder einen Rechtsstreit zwischen ihm, seinem Ehegatten, einer mit ihm in gerader Linie oder in der Seitenlinie bis zum zweiten Grad (Geschwister, Schwager, Schwägerin) verwandten Person einerseits und der Bürgergemeinde, ihren Institutionen oder den ihrer Aufsicht unterstellten Stiftungen und Korporationen anderseits. Dasselbe gilt für Personen, die der Verwaltung, der Direktion oder der Kontrollstelle von beteiligten Handelsgesellschaften, Genossenschaften und Vereinen angehören.
-
-<sup>2</sup> Ein Ausstand findet nicht statt bei Behandlung und Entscheidung von Geschäften, welche die Bürgergemeinde, ihre Institutionen oder die ihrer Aufsicht unterstellten Stiftungen und Korporationen im allgemeinen betreffen.
-
-<sup>3</sup> Erheben sich über die Frage eines Ausstandes Zweifel, so können sowohl der Beteiligte als auch die oben bezeichneten Verwandten desselben an der Beratung über diese Vorfrage zur Erteilung von Erläuterungen teilnehmen; bei der Abstimmung darüber sind sie hingegen im Ausstand.
+**…**
 
 ### 3. Wahlen
 
