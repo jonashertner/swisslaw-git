@@ -4,84 +4,85 @@ number: "520.100"
 title: Zivilschutzgesetz
 short: ZSG
 language: de
-version: 2017-01-01
-corrected: 2024-06-18
-version_adopted: 2016-08-22
+version: 2026-01-01
+version_adopted: 2025-08-25
 adopted: 2016-08-22
 in_force: 2017-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/520.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/405/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2066/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Zivilschutzgesetz (ZSG)
+# Zivilschutzgesetz
 
-vom 22. August 2016
+(ZSG)
 
-Der Kantonsrat Schaffhausen
+Vom 22.08.2016 (Stand 01.01.2026)
 
-beschliesst als Gesetz:
+Der Kantonsrat Schaffhausen,
 
-## A. Allgemeine Bestimmungen
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Gegenstand**
 
-Dieses Gesetz regelt die Erfüllung der dem Zivilschutz im Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz (BZG)[^1-1] und im kantonalen Bevölkerungsschutzgesetz (BevSG)[^1-2] übertragenen Aufgaben sowie die Finanzierung dieser Aufgaben.
+<sup>1</sup> Dieses Gesetz regelt die Erfüllung der im Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz (BZG)[^1-1], im Bundesgesetz über den Schutz der Kulturgüter bei bewaffneten Konflikten, bei Katastrophen und in Notlagen (KGSG)[^1-2] und im kantonalen Bevölkerungsschutzgesetz (BevSG)[^1-3] dem Kanton und den Gemeinden übertragenen Aufgaben, namentlich im Bereich des Zivilschutzes, der Schutzbauten und des Kulturgüterschutzes sowie deren Finanzierung.
 
-[^1-1]: SR 520.1.
-[^1-2]: SHR 500.100.
+[^1-1]: SR [520.1](http://db.clex.ch/link/Bund/520.1/de).
+[^1-2]: SR [520.3](http://db.clex.ch/link/Bund/520.3/de).
+[^1-3]: SHR [500.100](https://rechtsbuch.sh.ch/data/500.100/de).
 
 #### Art. 2
 
-**Zuständigketen**
+**Zuständigkeiten**
 
-<sup>1</sup> Der Kanton erfüllt zugunsten der Gemeinden und des Kantons die Aufgaben im Bereich des Zivilschutzes.
+<sup>1</sup> Der Kanton erfüllt die Aufgaben im Bereich des Zivilschutzes, der Schutzbauten und im Kulturgüterschutz, sofern nichts anderes geregelt ist.
 
-<sup>2</sup> Der Regierungsrat bestimmt die für den Zivilschutz zuständige kantonale Behörde und erlässt die erforderlichen Ausführungsbestimmungen.
+<sup>2</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen.
 
 <sup>3</sup> Die Gemeinden unterstützen den Kanton und erfüllen die Aufgaben, die ihnen dieses Gesetz überträgt.
 
-## B. Organisation des Zivilschutzes
+## 2 Organisation des Zivilschutzes
 
 #### Art. 3
 
 **Zivilschutzorganisation**
 
-<sup>1</sup> Die zuständige kantonale Behörde betreibt eine Zivilschutzorganisation.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee betreibt eine Zivilschutzorganisation.
 
 <sup>2</sup> Soweit nach eidgenössischem oder kantonalem Recht keine besonderen Zuständigkeiten festgelegt sind, erfüllt die Zivilschutzorganisation im Zusammenhang mit bevölkerungsschutzrelevanten Ereignissen:
 
-Amtsblatt 2016, S. 1301, S. 1900 a) Leistungen bei Elementarschäden;
+- a) den Schutz und die Rettung der Bevölkerung
+- b) die Unterstützung der Führungsorgane
+- c) die Betreuung schutzsuchender Personen
+- d) den Schutz der Kulturgüter
+- e) die Unterstützung der Partnerorganisationen, Behörden und von Dritten.
 
-- b) die Bereitstellung der Schutzinfrastruktur;
+<sup>3</sup> Sie kann zudem eingesetzt werden für:
 
-- c) die Betreuung schutzsuchender und obdachloser Personen;
-
-- d) den Schutz der Kulturgüter;
-
-- e) die Unterstützung der anderen Partnerorganisationen und der zivilen Führungsorgane.
-
-<sup>3</sup> Sie leistet Instandstellungsarbeiten und Einsätze zugunsten der Gemeinschaft.
+- a) präventive Massnahmen zur Verhinderung oder Minderung von Schäden
+- b) Instandstellungsarbeiten nach Schadenereignissen
+- c) Einsätze zugunsten der Gemeinschaft.
 
 #### Art. 4
 
 **Formationen der Zivilschutzorganisation**
 
-<sup>1</sup> Die Zivilschutzorganisation gliedert sich in Formationen.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee definiert die Formationen der Zivilschutzorganisation.
 
-<sup>2</sup> Die Formationen richten sich nach dem Gefährdungspotenzial sowie den topografischen und soziodemografischen Verhältnissen im Kanton.
+<sup>2</sup> Die Formationen richten sich nach dem Gefährdungspotenzial im Kanton.
 
 #### Art. 5
 
-**Aufgebot für Zivilschutzeinsätze**
+**Zivilschutzeinsätze**
 
-<sup>1</sup> Der Kanton kann die Formationen aufbieten bei bevölkerungsschutzrelevanten Ereignissen und nach den Vorgaben des Bundes für Instandstellungsarbeiten sowie für Einsätze zugunsten der Gemeinschaft auf kantonaler, regionaler oder kommunaler Ebene.
+<sup>1</sup> Der Kanton kann die Zivilschutzorganisation aufbieten bei bevölkerungsschutzrelevanten Ereignissen, welche das Kantonsgebiet, andere Kantone oder das benachbarte grenznahe Ausland betreffen sowie für Einsätze zugunsten der Gemeinschaft auf kantonaler, regionaler oder kommunaler Ebene.
 
-<sup>2</sup> Die Gemeinden können beim Kanton Formationen beantragen bei bevölkerungsschutzrelevanten Ereignissen, für Instandstellungsarbeiten und für Einsätze zugunsten der Gemeinschaft, soweit diese ihr Gemeindegebiet betreffen.
+<sup>2</sup> Die Gemeinden, Partnerorganisationen und Dritte können beim Kanton Leistungen bei bevölkerungsschutzrelevanten Ereignissen und für Instandstellungsarbeiten sowie für Einsätze zugunsten der Gemeinschaft beantragen.
 
 <sup>3</sup> Einsätze in einem anderen Kanton oder im grenznahen Ausland bedürfen neben den bundesrechtlichen Bewilligungsvoraussetzungen der Zustimmung des Regierungsrates.
 
@@ -89,45 +90,48 @@ Amtsblatt 2016, S. 1301, S. 1900 a) Leistungen bei Elementarschäden;
 
 **Material**
 
-<sup>1</sup> Die Zivilschutzorganisation sorgt für das Einsatzmaterial des Zivilschutzes, die Fahrzeuge und die persönliche Ausrüstung der Schutzdienstpflichtigen.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee sorgt für die Beschaffung und die Einsatzbereitschaft des Materials und der Fahrzeuge der Zivilschutzorganisation sowie für die persönliche Ausrüstung der Schutzdienstpflichtigen.
 
-<sup>2</sup> Das Zivilschutzmaterial ist in enger Zusammenarbeit mit den weiteren Partnern des Bevölkerungsschutzes und unter Berücksichtigung der Empfehlungen des Bundes zu beschaffen.
+<sup>2</sup> Das Material ist in enger Zusammenarbeit mit den weiteren Partnerorganisationen und unter Berücksichtigung der Empfehlungen des Bundes sowie interkantonaler Gremien des Bevölkerungsschutzes zu beschaffen.
+
+<sup>3</sup> Die Partnerorganisationen und Behörden sind im Rahmen von Leistungsaufträgen für die Beschaffung von spezifischem Einsatzmaterial zuständig.
 
 #### Art. 7
 
 **Aus- und Weiterbildung**
 
-<sup>1</sup> Die Zivilschutzorganisation führt die Grund- und die Kaderausbildung, die Weiterbildung sowie die Wiederholungskurse der Schutzdienstpflichtigen durch und betreibt hierfür eine Ausbildungsanlage.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee führt die Grund-, Fach- und Kaderausbildung sowie die Weiterbildung der Schutzdienstpflichtigen durch. Es betreibt eine Ausbildungsinfrastruktur.
 
-<sup>2</sup> Inhalt und Dauer der Aus- und Weiterbildung richten sich nach den bundesrechtlichen Vorgaben, den Einsatzschwerpunkten und dem Gefährdungspotenzial im Kanton.
+<sup>1<sup>bis</sup></sup> Die Zivilschutzorganisation führt gemäss Vorgaben des Amtes für Bevölkerungsschutz und Armee die Ausbildungsdienste der Formationen durch.
 
-<sup>3</sup> Aus- und Weiterbildung können mit anderen Kantonen organisiert und durchgeführt werden.
+<sup>2</sup> Inhalt und Dauer der Aus- und Weiterbildung richten sich nach den bundesrechtlichen Vorgaben und dem Gefährdungspotenzial im Kanton.
+
+<sup>3</sup> Aus- und Weiterbildung können mit anderen Kantonen, dem Bund, Partnerorganisationen und Dritten organisiert und durchgeführt werden.
 
 #### Art. 8
 
 **Zivilschutzstelle**
 
-<sup>1</sup> Die zuständige kantonale Behörde betreibt eine Zivilschutzstelle.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee betreibt eine Zivilschutzstelle.
 
 <sup>2</sup> Die Zivilschutzstelle ist verantwortlich für:
 
-- a) die Einteilung der Schutzdienstpflichtigen in die Formationen und deren Aufgebot zur Ausbildung und für Zivilschutzeinsätze;
+- a) die Einteilung der Schutzdienstpflichtigen in die Formationen und deren Aufgebot zur Aus- und Weiterbildung und für Einsätze
+- b) die Personalkontrollführung
+- c) das Disziplinarstrafwesen
+- d) die Administration der Aus- und Weiterbildung sowie der Einsätze.
 
-- b) die Personalkontrollführung;
+<sup>3</sup> …
 
-- c) das Disziplinarstrafwesen.
-
-<sup>3</sup> Sie unterstützt die Zivilschutzorganisation bei der Besorgung der administrativen Belange.
-
-## C. Schutzbauten und Kulturgüterschutz
+## 3 Schutzbauten und Kulturgüterschutz
 
 #### Art. 9
 
-**Schutzbauten (Schutzräume und Schutzanlagen)**
+**Schutzräume**
 
-<sup>1</sup> Die zuständige kantonale Behörde steuert nach den Vorgaben des Bundes den Schutzraumbau und die Zuweisung der Bevölkerung, legt den Bedarf an Schutzanlagen fest und nimmt die entsprechenden Kontrolltätigkeiten vor.
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee steuert nach den Vorgaben des Bundes den Schutzraumbau und die Zuweisung der Bevölkerung.
 
-<sup>2</sup> In Gebieten, in denen nicht genügend Schutzanlagen vorhanden sind, erstellt der Kanton im Einvernehmen mit den Gemeinden neue Anlagen. Soweit diese auf Gemeindegebiet zu erstellen sind, ist von den Gemeinden ein geeignetes Grundstück unentgeltlich zur Verfügung zu stellen. Eigentümer dieser neu zu erstellenden Anlagen ist der Kanton. Durch Vereinbarung zwischen der betroffenen Gemeinde und dem Kanton können die Eigentumsverhältnisse abweichend geregelt werden.
+<sup>2</sup> Die Eigentümerin bzw. der Eigentümer ist verantwortlich für die Sicherstellung der Betriebsbereitschaft und den Unterhalt des Schutzraumes. Mittels Vereinbarung mit dem Kanton können die Zuständigkeiten abweichend geregelt werden.
 
 <sup>3</sup> Die Eigentumsverhältnisse der Schutzanlagen bleiben bestehen, ausgenommen der Kanton und die betroffene Gemeinde einigen sich auf eine Handänderung.
 
@@ -135,19 +139,61 @@ Amtsblatt 2016, S. 1301, S. 1900 a) Leistungen bei Elementarschäden;
 
 <sup>5</sup> Werden Schutzbauten aufgehoben, sind die dafür ausgerichteten Kantonsbeiträge analog der bundesrechtlichen Rückerstattungspflicht für Bundesbeiträge von den Gemeinden zurückzuerstatten. Abschreibungen werden angemessen berücksichtigt.
 
+<sup>6</sup> Die Gemeinden sind verpflichtet, Bauvorhaben dem Amt für Bevölkerungsschutz und Armee zur Prüfung der Schutzraumbaupflicht zu melden. Die Baufreigabe darf erst erfolgen, wenn ein rechtskräftiger Entscheid über die Schutzraumbaupflicht vorliegt.
+
+#### Art. 9a
+
+**Schutzanlagen**
+
+<sup>1</sup> Das Amt für Bevölkerungsschutz und Armee legt den Bedarf an Schutzanlagen fest und nimmt die erforderlichen Kontrolltätigkeiten wahr.
+
+<sup>2</sup> In Gebieten, in denen nicht genügend Schutzanlagen vorhanden sind, erstellt der Kanton im Einvernehmen mit den Gemeinden neue Anlagen. Soweit diese auf Gemeindegebiet zu erstellen sind, ist von den Gemeinden ein geeignetes Grundstück unentgeltlich zur Verfügung zu stellen, wobei vorzusehen ist, dass der Kanton Eigentümer dieser neu zu erstellenden Baute wird. Durch Vereinbarung zwischen der betroffenen Gemeinde und dem Kanton können die Eigentumsverhältnisse gemäss Zivilrecht abweichend geregelt werden.
+
+<sup>3</sup> Die Eigentümerin bzw. der Eigentümer ist verantwortlich für die Sicherstellung der Betriebsbereitschaft und den Unterhalt der Schutzanlagen. Durch Vereinbarung mit dem Kanton können die Zuständigkeiten abweichend geregelt werden.
+
+<sup>4</sup> Werden Schutzanlagen aufgehoben, sind die dafür ausgerichteten Kantonsbeiträge analog der bundesrechtlichen Rückerstattungspflicht für Bundesbeiträge von den Gemeinden zurückzuerstatten. Abschreibungen werden angemessen berücksichtigt.
+
 #### Art. 10
 
-**Kulturgüterschutz**
+**Zuständigkeiten des Kantons im Kulturgüterschutz**
 
-<sup>1</sup> Der Schutz der Kulturgüter durch bauliche, dokumentarische und organisatorische Massnahmen ist Sache des Besitzers.
+<sup>1</sup> Der Kanton ist für die Schutzmassnahmen für inventarisierte Kulturgüter zuständig, die in seinem Eigentum stehen oder ihm mit seinem Einverständnis anvertraut sind, soweit diese Aufgabe nicht den Bund trifft. Der Regierungsrat bezeichnet die für den Kulturgüterschutz zuständige kantonale Stelle und kann eine beratende Kommission einsetzen.
 
-<sup>2</sup> Die Sicherstellung des Kulturgüterschutzes obliegt der Zivilschutzorganisation. Diese überwacht den Vollzug des Bundesrechts und beantragt bei den zuständigen kantonalen oder kommunalen Instanzen die notwendigen Massnahmen. Darunter fällt insbesondere die Erstellung der erforderlichen Schutzräume für bewegliche Kulturgüter.
+<sup>2</sup> Der Kanton bezeichnet nach Rücksprache mit den Gemeinden die Kulturgüter von lokaler Bedeutung (C-Objekte).
 
-## D. Kostentragung
+<sup>3</sup> Der Kanton ist berechtigt, im Kanton vorhandene, inventarisierte Kulturgüter und die getroffenen Schutzmassnahmen zu kontrollieren.
+
+#### Art. 10a
+
+**Zuständigkeiten der Gemeinden im Kulturgüterschutz**
+
+<sup>1</sup> Die Gemeinden sind für die Schutzmassnahmen für inventarisierte Kulturgüter zuständig, die in ihrem Eigentum stehen oder ihnen mit ihrem Einverständnis anvertraut sind.
+
+<sup>2</sup> Die Gemeinden unterstützen den Kanton beim Kulturgüterschutz, namentlich bei der Inventarisierung.
+
+#### Art. 10b
+
+**Aufgaben der Eigentümerinnen und Eigentümer**
+
+<sup>1</sup> Grundsätzlich sind die Eigentümerinnen und Eigentümer bzw. Besitzerinnen und Besitzer von Kulturgütern für deren Schutz zuständig. Der Kanton kann Eigentümerinnen und Eigentümer bzw. Besitzerinnen und Besitzer von inventarisierten Kulturgütern verpflichten, die erforderlichen baulichen und technischen Massnahmen zu deren Schutz zu treffen oder zu dulden.
+
+<sup>2</sup> Wer Schäden an inventarisierten Kulturgut feststellt, hat dies dem Kanton unverzüglich zu melden.
+
+#### Art. 10c
+
+**Kantonsbeiträge**
+
+<sup>1</sup> Der Kanton kann sich auf Antrag finanziell an den Kosten für bauliche und technische Schutzmassnahmen von inventarisierten Kulturgütern beteiligen, sofern die Eigentümerin oder der Eigentümer des inventarisierten Kulturguts nachweislich auf eine finanzielle Unterstützung angewiesen ist.
+
+<sup>2</sup> Die Höhe des Kantonsbeitrags liegt zwischen 15 und 35 Prozent der anrechenbaren Kosten. Die Standortgemeinde, in der sich das inventarisierte Kulturgut befindet, ist verpflichtet, zusätzlich einen Beitrag von in der Regel zwei Dritteln des Kantonsbeitrags zu leisten. Die Kantonsbeiträge richten sich nach der Bedeutung des Kulturguts, nach dessen Erhaltungszustand und nach der Qualität der Schutzmassnahmen.
+
+<sup>3</sup> Auf Kantons- und Gemeindebeiträge besteht kein Rechtsanspruch. Sie werden im Rahmen der bewilligten Kredite gewährt. Kantonsbeiträge können mit Auflagen und Bedingungen verbunden werden.
+
+## 4 Kostentragung
 
 #### Art. 11
 
-**Kanton**
+**Kanton und Gemeinden**
 
 <sup>1</sup> Der Kanton trägt die Kosten der ihm obliegenden zivilschutzrechtlichen Aufgaben, sofern weder das Bundesrecht noch dieses Gesetz etwas anderes vorsehen.
 
@@ -169,39 +215,43 @@ Amtsblatt 2016, S. 1301, S. 1900 a) Leistungen bei Elementarschäden;
 
 <sup>2</sup> Besteht an einer Veranstaltung ein überwiegendes öffentliches Interesse, können sich die betroffenen Gemeinden und der Kanton an den Kosten beteiligen.
 
-<sup>3</sup> Der Regierungsrat setzt die Gebührenansätze für die Einsätze zugunsten der Gemeinschaft fest.
+<sup>3</sup> Unter Berücksichtigung von Abs. 1 und 2 bestimmt das Amt für Bevölkerungsschutz und Armee die zu erhebenden Kosten, zu denen insbesondere die Einsatzteilnehmerkosten, die Verpflegungs-, Transport- und Unterkunftskosten sowie die Gebrauchs- und Wiederinstandstellungskosten der persönlichen Ausrüstung, des Materials und der Fahrzeuge gehören. Der Kostenteiler ist im voraus mittels Vereinbarung zu bestimmen.
 
 #### Art. 14
 
 **Ersatzbeiträge**
 
-Im Falle einer Dispensation von der Schutzraumpflicht werden von der zuständigen kantonalen Behörde Ersatzbeiträge erhoben, verwaltet und gemäss dem Bundesgesetz über den Bevölkerungsschutz und Zivilschutz eingesetzt.
+<sup>1</sup> Im Falle einer Dispensation von der Schutzraumpflicht erhebt das Amt für Bevölkerungsschutz und Armee Ersatzbeiträge, verwaltet diese Gelder und setzt sie gemäss dem Bevölkerungs- und Zivilschutzgesetz[^14-1] ein.
 
-## E. Schadenersatzansprüche und Strafverfolgung
+<sup>2</sup> Die Ersatzbeiträge fliessen in den kantonalen Ersatzbeiträgefonds. Der Regierungsrat legt die Höhe der zu erhebenden und auszurichtenden Ersatzbeiträge nach Massgabe der Bundesvorgaben fest.
+
+[^14-1]: SR [520.1](http://db.clex.ch/link/Bund/520.1/de).
+
+## 5 Schadenersatzansprüche und Strafverfolgung
 
 #### Art. 15
 
 **Vermögensrechtliche Ansprüche**
 
-Das zuständige Departement entscheidet über Schadenersatzansprüche und Rückgriffsforderungen im Sinne von Art. 67 Abs. 1 BZG. Dessen Entscheid kann an die zuständige Stelle des Bundes weitergezogen werden.
+<sup>1</sup> Das zuständige Departement entscheidet über Schadenersatzansprüche und Rückgriffsforderungen im Sinne von Art. 87 Abs. 1 BZG. Dessen Entscheid kann an die zuständige Stelle des Bundes weitergezogen werden.
 
 #### Art. 16
 
 **Strafverfolgung**
 
-<sup>1</sup> Strafverfolgung von Widerhandlungen gegen die gesetzlichen Bestimmungen im Bereich des Zivilschutzes richten sich nach Art. 68 ff. BZG
+<sup>1</sup> Strafverfolgung von Widerhandlungen gegen die gesetzlichen Bestimmungen im Bereich des Zivilschutzes richten sich nach Art. 88 ff. BZG.
 
-<sup>2</sup> In leichten Fällen kann auf die Einleitung eines Strafverfahrens verzichten und eine Verwarnung durch die zuständige kantonale Behörde ausgesprochen werden.
+<sup>2</sup> In leichten Fällen kann auf die Einleitung eines Strafverfahrens verzichtet werden und eine Verwarnung durch durch das Amt für Bevölkerungsschutz und Armee ausgesprochen werden.
 
-## F. Schlussbestimmungen
+## 6 Schlussbestimmungen
 
 #### Art. 17
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieses Gesetzes wird Art. 2 Abs. 2 lit. h des Gemeindegesetzes vom 17. August 1998[^17-1] aufgehoben.
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird Art. 2 Abs. 2 lit. h des Gemeindegesetzes vom 17. August 1998[^17-1] aufgehoben.
 
-[^17-1]: SHR 120.100.
+[^17-1]: SHR [120.100](https://rechtsbuch.sh.ch/data/120.100/de).
 
 #### Art. 18
 
@@ -211,7 +261,9 @@ Mit dem Inkrafttreten dieses Gesetzes wird Art. 2 Abs. 2 lit. h des Gemeindegese
 
 <sup>2</sup> Es tritt zusammen mit dem kantonalen Bevölkerungsschutzgesetz (BevSG) in Kraft. Der Regierungsrat bestimmt das Inkrafttreten[^18-1].
 
-<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^18-2] und in die kantonale Gesetzessammlung aufzunehmen. Fussnoten:
+<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^18-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
 [^18-1]: In Kraft getreten am 1. Januar 2017 (Amtsblatt 2016, S. 1900).
 [^18-2]: Amtsblatt 2016, S. 1301.
+
+Abl. 2016, S. 1301, S. 1900
