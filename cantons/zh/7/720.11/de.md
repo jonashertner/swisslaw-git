@@ -4,10 +4,10 @@ number: "720.11"
 title: Submissionsverordnung (SVO)
 short: SVO
 language: de
-nachtrag: "122"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2023-06-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-720_11-2023_06_28-2023_10_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-720_11-2023_06_28-2023_10_01-131.html"
 text: pdf
 ---
 
@@ -60,7 +60,9 @@ Diese Verordnung regelt die Einzelheiten für die Vergabe von Aufträgen, die vo
 
 **1**
 
-1.10. 23 - 122 e. die zur Zahlung fälligen Steuern und Sozialabgaben bezahlt haben,
+- 1\. 1. 26 - 131
+
+- e. die zur Zahlung fälligen Steuern und Sozialabgaben bezahlt haben,
 
 - f. keine unzulässigen Wettbewerbsabreden getroffen haben,
 
@@ -110,9 +112,14 @@ Die Auftraggeberin oder der Auftraggeber kann insbesondere die im Anhang genannt
 
 - c. die Unabänderlichkeit der Angebote und Anträge auf Teilnahme gewährleistet ist.
 
-<sup>2</sup> Sie müssen mit einer der qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 über die elektronische Signatur[^7-1] versehen sein.
+<sup>2</sup> Sie müssen versehen werden mit[^7-1] a. einer qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016 über die elektronische Signatur[^7-2],
 
-[^7-1]: SR 943.03.
+- b. einer Signatur gemäss dem europäischen Standard eIDAS gemäss Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates vom 23. Juli 2014 oder
+
+- c. einer gleichwertigen Signatur.
+
+[^7-1]: Fassung gemäss RRB vom 9. Juli 2025 (OS 80, 279; ABl 2025-07-25). In Kraft seit 1. Januar 2026.
+[^7-2]: SR 943.03.
 
 #### § 8
 
@@ -156,19 +163,24 @@ Das Generalsekretariat der Baudirektion erstellt die Statistik gemäss Art. 50 A
 
 <sup>1</sup> Die internen Kontrollorgane der Auftraggeberin oder des Auftraggebers überwachen die Einhaltung des Beschaffungsrechts.
 
+**3**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Die Direktionen und die obersten kantonalen Gerichte beaufsichtigen die Vergabestellen in ihrem Zuständigkeitsbereich.
 
 <sup>3</sup> Die Aufsicht über die Gemeinden richtet sich nach dem Gemeindegesetz vom 20. April 2015[^12-1].
 
-**3**
+**Kommission Beschaffungswesen**
 
-1.10. 23 - 122 § 13. <sup>1</sup> Der Regierungsrat wählt auf seine Amtsdauer eine verwaltungsinterne Kommission für das öffentliche Beschaffungswesen. Diese unterstützt und begleitet den koordinierten Vollzug des Beschaffungsrechts.
+§ 13.[^12-2] <sup>1</sup> Der Regierungsrat wählt auf seine Amtsdauer eine verwaltungsinterne Kommission Beschaffungswesen.
 
-**Kommission für das öffentliche Beschaffungswesen**
+<sup>2</sup> Diese unterstützt und begleitet den koordinierten Vollzug des Beschaffungsrechts und sorgt für die Optimierung des kantonalen Beschaffungswesens.
 
-<sup>2</sup> Eine Vertreterin oder ein Vertreter der Baudirektion hat den Vorsitz.
+<sup>3</sup> Den Vorsitz haben je eine Vertreterin oder ein Vertreter der Finanzdirektion und der Baudirektion gemeinsam.
 
 [^12-1]: LS 131.1.
+[^12-2]: Fassung gemäss RRB vom 9. Juli 2025 (OS 80, 279; ABl 2025-07-25). In Kraft seit 1. Januar 2026.
 
 ### Anhang (§ 5)
 
@@ -216,7 +228,9 @@ Das Generalsekretariat der Baudirektion erstellt die Statistik gemäss Art. 50 A
 
 **5**
 
-1.10. 23 - 122 14. bei Planungswettbewerben objektspezifische Nachweise, insbesondere hinsichtlich Ausbildung, Leistungsfähigkeit und Praxis der Anbieterin oder des Anbieters,
+- 1\. 1. 26 - 131
+
+- 14\. bei Planungswettbewerben objektspezifische Nachweise, insbesondere hinsichtlich Ausbildung, Leistungsfähigkeit und Praxis der Anbieterin oder des Anbieters,
 
 - 15\. Erklärung zu Anzahl und Funktion der in den drei Jahren vor der Ausschreibung bei der Anbieterin oder dem Anbieter beschäftigten Personen,
 
