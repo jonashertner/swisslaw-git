@@ -4,11 +4,11 @@ title: "Ordonnance du 31 octobre 2018 sur la protection des végétaux contre le
 short: OSaVé
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/682"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-682-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-682-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20240101/fr"
 
 (Ordonnance sur la santé des végétaux, OSaVé)
 
-du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2024)
+du 31 octobre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -82,13 +82,13 @@ Au sens de la présente ordonnance, on entend par:
 
 - f. *plantation:* toute opération de placement de végétaux en vue d’assurer leur croissance, leur reproduction ou leur multiplication;
 - g. *végétaux destinés à la plantation:* les végétaux destinés à rester plantés, à être plantés ou à être replantés;
-- g<sup>bis</sup>.[^2-1] *zone infestée*: une zone dans laquelle la dissémination d’un organisme de quarantaine est si avancée que son éradication n’y est plus possible;
-- h. *foyer d’infestation:* des plantes individuelles infestées par des organismes nuisibles particulièrement dangereux et leurs environs immédiats hors de la zone infestée, y compris les plantes présumées infestées;
-- i.[^2-2] *zone tampon*: une zone indemne qui entoure un foyer d’infestation ou une zone infestée;
+- g<sup>bis</sup>.[^2-1] *zone infestée:* une zone dans laquelle la dissémination d’un organisme de quarantaine est si avancée que son éradication n’y est plus possible et où, par conséquent, seules des mesures d’enrayement sont encore appliquées;
+- h.[^2-2] *foyer d’infestation:* des végétaux isolés situés hors de la zone infestée, qui sont infestés ou présumés infestés par des organismes nuisibles particulièrement dangereux et sont soumis à des mesures d’éradication; les environs immédiats des végétaux font également partie du foyer d’infestation;
+- i.[^2-3] *zone tampon*: une zone indemne qui entoure un foyer d’infestation ou une zone infestée;
 - j. *mise en circulation:* le transfert ou la remise de marchandises, à titre onéreux ou non;
 - k. *pays tiers:* tous les pays hormis la Suisse, la Principauté de Liechtenstein et les États membres de l’Union européenne (UE); les Îles Canaries, Ceuta, Melilla et les départements et territoires français d’Outre-Mer sont considérés comme des pays tiers;
 - l. *manipulation:* toute activité en rapport avec des organismes nuisibles particulièrement dangereux et des marchandises, en particulier l’importation, la mise en circulation, la possession/le stockage, la multiplication et la dissémination;
-- m. *importation:* le transfert de marchandises sur le territoire suisse, y compris les enclaves douanières suisses (art. 3, al. 3, de la loi du 18 mars 2005 sur les douanes[^2-3]) et la Principauté de Liechtenstein;
+- m. *importation:* le transfert de marchandises sur le territoire suisse, y compris les enclaves douanières suisses (art. 3, al. 3, de la loi du 18 mars 2005 sur les douanes[^2-4]) et la Principauté de Liechtenstein;
 - n. *transit:* le transport de marchandises non dédouanées à travers la Suisse;
 - o. *unité commerciale:* la plus petite unité commerciale ou autre unité de marchandise applicable au stade de commercialisation concerné, qui est identifiable par son homogénéité de composition, d’origine et d’autres éléments pertinents;
 - p. *lot:* un ensemble d’unités commerciales;
@@ -97,9 +97,10 @@ Au sens de la présente ordonnance, on entend par:
 - s. *certificat phytosanitaire:* le document officiel utilisé pour le commerce de marchandises avec des pays tiers, confirmant que celles-ci sont conformes aux exigences en matière de santé des végétaux du pays de destination;
 - t. *vecteur:* un organisme vivant qui dissémine des organismes nuisibles particulièrement dangereux d’un végétal infesté à un autre.
 
-[^2-1]: Introduite par le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
-[^2-3]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^2-1]: Introduite par le ch. I de l’O du 3 nov. 2021 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)). Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^2-4]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 3
 
@@ -256,11 +257,17 @@ Lorsqu’une entreprise qui fait le commerce de marchandises soupçonne ou const
 
 <sup>2</sup> La vérification est basée sur le diagnostic d’un laboratoire désigné par le SPF.
 
-<sup>3</sup> Dans l’attente du diagnostic, le service cantonal compétent prend des mesures appropriées au sens de l’art. 13, al. 1, let. a à d et i.[^10-1]
+<sup>3</sup> Dans l’attente du diagnostic, le service cantonal compétent prend des mesures appropriées au sens de l’art. 13, al. 1, let. a à e et i.[^10-1]
 
-<sup>4</sup> Lorsque le soupçon concerne une entreprise agréée, le SPF est compétent pour les mesures visées aux al. 1 et 3.
+<sup>4</sup>
 
-[^10-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 (RO **202****3** 701).
+Lorsque le soupçon concerne une entreprise agréée, le SPF est compétent pour les mesures visées aux al. 1 et 3; la compétence relève toutefois du service cantonal lorsque les conditions suivantes sont remplies:
+
+- a. le soupçon concerne une marchandise qui ne relève pas de l’art. 60, al. 1 et 2, ou 89;
+- b. aucune des marchandises visées à l’art. 60, al. 1 et 2, ou 89 utilisées par l’entreprise n’est connue en tant qu’hôte ou porteuse de l’organisme de quarantaine, et qu’il peut être exclu que l’organisme de quarantaine puisse contaminer ces marchandises.[^10-2]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ### Section 3 Information des entreprises concernées et du public
 
@@ -276,9 +283,13 @@ Lorsqu’une entreprise qui fait le commerce de marchandises soupçonne ou const
 
 #### Art. 12
 
-**Information du public**
+**Information du public et des personnes concernées**[^12-1]
 
-En cas de confirmation de la présence d’un organisme de quarantaine prioritaire par un laboratoire désigné par le SPF, l’office compétent informe, en accord avec le service cantonal compétent, le public des mesures qui ont été prises et des mesures qui seront encore prises.
+<sup>1</sup> En cas de confirmation de la présence d’un organisme de quarantaine prioritaire par un laboratoire désigné par le SPF, l’office compétent informe le public, dans les plus brefs délais et en accord avec le service cantonal compétent, de la présence de cet organisme et du danger qu’il représente.
+
+<sup>2</sup> Le service cantonal compétent informe dans les plus brefs délais le public et les personnes concernées des mesures qui ont été prises et des mesures prévues.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ### Section 4 Mesures d’éradication
 
@@ -294,7 +305,7 @@ Si la présence d’un organisme de quarantaine est constatée, l’office comp�
 - b. la mise en quarantaine des cultures et marchandises dont il y a lieu de présumer qu’elles sont infestées; si la vérification révèle qu’elles ne sont pas infestées, la quarantaine est levée;
 - c. le séquestre des marchandises infestées ou dont il y a lieu de présumer qu’elles sont infestées ainsi que du matériel avec lequel elles sont entrées en contact;
 - d. l’utilisation appropriée des marchandises infestées ou dont il y a lieu de présumer qu’elles sont infestées afin d’exclure la dissémination d’organismes de quarantaine;
-- e. l’interdiction de la culture ou de la plantation de végétaux hôtes dans une parcelle infestée par un organisme de quarantaine ou par son vecteur tant qu’il existe un risque d’infestation;
+- e.[^13-1] l’interdiction de la culture ou de la plantation de végétaux hôtes dans une parcelle infestée ou présumée infestée par un organisme de quarantaine ou par son vecteur tant que l’infestation ou le risque d’infestation existe;
 - f. l’interdiction de la culture ou de la plantation de végétaux très sensibles à des organismes de quarantaine;
 - g. l’élimination des végétaux visés à la let. f dans les alentours de cultures sensibles;
 - h. la prescription de mesures contre les vecteurs qui empêchent la dissémination de l’organisme de quarantaine concerné;
@@ -309,15 +320,26 @@ Il enquête sans tarder, le cas échéant conjointement avec le SPF, sur l’ori
 - a. si cette présence est susceptible d’être liée à la mise en circulation ou au déplacement de marchandises, et
 - b. s’il est possible que l’organisme de quarantaine se soit disséminé à d’autres marchandises.
 
-<sup>4</sup> Lorsque l’infestation concerne une entreprise agréée, le SPF est compétent pour les mesures visées à l’al. 1 et pour les vérifications visées à l’al. 3.
+<sup>4</sup>
 
-<sup>5</sup> Pour assurer une application uniforme et appropriée des mesures de lutte contre des organismes de quarantaine, l’office compétent peut édicter des directives après avoir entendu les services cantonaux concernés.
+Lorsque le soupçon concerne une entreprise agréée, le SPF est compétent pour les mesures visées à l’al. 1 et pour les vérifications visées à l’al. 3; la compétence relève toutefois du service cantonal lorsque les conditions suivantes sont remplies:
+
+- a. le soupçon concerne une marchandise qui ne relève pas de l’art. 60, al. 1 et 2, ou 89;
+- b. aucune des marchandises visées à l’art. 60, al. 1 et 2, ou 89 utilisées par l’entreprise n’est connue en tant qu’hôte ou porteuse de l’organisme de quarantaine, et qu’il peut être exclu que l’organisme de quarantaine puisse contaminer ces marchandises.[^13-2]
+
+<sup>5</sup> Pour assurer une application uniforme et appropriée des mesures de lutte contre des organismes de quarantaine, l’office compétent peut édicter des directives, des plans d’urgence ou des aides à l’exécution. Préalablement à l’édiction, il consulte les services cantonaux concernés.[^13-3]
+
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^13-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 14
 
-**Définition d’un plan d’action en cas de présence d’organismes de quarantaine prioritaires**
+**Définition d’un plan d’action en cas de présence d’organismes de quarantaine prioritaires**[^14-1]
 
-Si la présence d’un organisme de quarantaine à traiter à titre prioritaire est constatée, le service cantonal compétent établit un calendrier d’exécution des mesures d’éradication ou d’enrayement définies.
+Si la présence d’un organisme de quarantaine à traiter à titre prioritaire est constatée, le service cantonal compétent établit un plan d’action en accord avec l’office compétent. Le plan prévoit un calendrier d’exécution des mesures d’éradication ou d’enrayement définies par l’office compétent et détermine les compétences pour la mise en œuvre de ces mesures.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 15
 
@@ -344,7 +366,7 @@ Après avoir consulté l’office compétent, le service cantonal compétent ren
 
 **Délimitation des zones infestées et des zones tampon correspondantes**[^16-1]
 
-<sup>1</sup> L’office compétent délimite les zones infestées et les zones tampon correspondantes en accord avec les services compétents des cantons concernés.
+<sup>1</sup> En accord avec les services compétents des cantons concernés et après les avoir consultés, l’office compétent délimite la zone dans laquelle il peut ordonner le déploiement de mesures d’enrayement. Cette zone comprend la zone infestée et une zone tampon.[^16-2]
 
 <sup>2</sup> La taille de la zone tampon est proportionnée au risque de dissémination de l’organisme par voie naturelle ou du fait d’activités humaines.
 
@@ -353,6 +375,7 @@ Après avoir consulté l’office compétent, le service cantonal compétent ren
 <sup>4</sup> L’office compétent publie la délimitation de la zone infestée dans la Feuille officielle suisse du commerce ou d’une autre manière appropriée.
 
 [^16-1]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 17
 
@@ -746,7 +769,7 @@ Le DEFR et le DETEC peuvent prévoir, pour l’importation de certaines marchand
 
 **Autorisation exceptionnelle**[^39a-1]
 
-<sup>1</sup> Le SPF peut, pour autant que la dissémination d’organismes de quarantaine puisse être exclue, autoriser sur demande l’importation de marchandises qui ne remplissent pas les conditions visées à l’art. 38*a* aux fins selon l’art. 37, al. 1.
+<sup>1</sup> Le SPF peut autoriser sur demande l’importation de marchandises qui ne remplissent pas les conditions visées à l’art. 38*a* aux fins visées à l’art. 37, al. 1, pour autant que la dissémination d’organismes de quarantaine puisse être exclue. Il peut aussi autoriser l’importation à d’autres fins en cas de grave pénurie de cette marchandise.[^39a-2]
 
 <sup>2</sup>
 
@@ -759,6 +782,7 @@ L’autorisation règle en particulier:
 - e. les charges visant à réduire au maximum le risque d’établissement et de dissémination d’organismes de quarantaine.
 
 [^39a-1]: Introduit par le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^39a-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ### Section 3 Transferts de marchandises dans des zones protégées
 
@@ -792,7 +816,7 @@ Le DEFR et le DETEC fixent pour chaque zone protégée:
 
 **Autorisation exceptionnelle**
 
-<sup>1</sup> Le SPF peut, pour autant que la dissémination d’organismes de quarantaine puisse être exclue, autoriser sur demande le transfert d’une marchandise selon l’art. 40, al. 1, let. a, dans une zone protégée aux fins selon l’art. 37, al. 1.[^42-1]
+<sup>1</sup> Le SPF peut autoriser sur demande le transfert de marchandises visées à l’art. 40, al. 1, let. a, dans une zone protégée aux fins visées à l’art. 37, al. 1, pour autant que la dissémination d’organismes de quarantaine puisse être exclue. Il peut aussi autoriser le transfert à d’autres fins autres en cas de grave pénurie de cette marchandise.[^42-1]
 
 <sup>2</sup>
 
@@ -806,7 +830,7 @@ L’autorisation règle en particulier:
 - f. la charge selon laquelle l’envoi doit être accompagné de l’autorisation lors de l’importation et du déplacement;
 - g.[^42-2] les charges visant à réduire au maximum le risque d’établissement et de dissémination d’organismes de quarantaine.
 
-[^42-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^42-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 [^42-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
 #### Art. 42a
@@ -1090,15 +1114,28 @@ Aucun passeport phytosanitaire n’est requis:
 
 **Passeport phytosanitaire pour les marchandises importées de pays tiers**[^61-1]
 
-Le SPF délivre un passeport phytosanitaire pour la mise en circulation de marchandises soumises au passeport phytosanitaire qui sont importées de pays tiers ou à contrôler lors du transit en vertu de l’art. 55 s’il a constaté que les conditions applicables au passeport phytosanitaire sont remplies.
+<sup>1</sup>
 
-[^61-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+Dès lors que le SPF a constaté que les conditions applicables au passeport phytosanitaire sont remplies, il établit les passeports phytosanitaires suivants sur la base du certificat délivré par le pays tiers:
+
+- a. passeport permettant la mise en circulation de marchandises importées de pays tiers;
+- b. passeport permettant le transit de marchandises en vertu de l’art. 55.
+
+<sup>2</sup>
+
+Si l’importateur est une entreprise agréée au sens de l’art. 76, il peut établir le passeport phytosanitaire . Jusqu’à l’établissement de ce dernier, la marchandise concernée doit être accompagnée des documents suivants:
+
+- a. une copie certifiée conforme par le SPF du certificat phytosanitaire délivré par le pays tiers; ou
+- b. un document émis par le SPF contenant les informations requises issues du système de notification électronique visé à l’art. 103 du règlement (UE) 2016/2031[^61-2], pour autant que le certificat phytosanitaire ou une copie du certificat phytosanitaire établi par le pays tiers soit accessible dans ce système.
+
+[^61-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^61-2]: Règlement (UE) 2016/2031 du Parlement européen et du Conseil du 26 octobre 2016 relatif aux mesures de protection contre les organismes nuisibles aux végétaux, modifiant les règlements du Parlement européen et du Conseil (UE) n<sup>o</sup> 228/2013, (UE) n<sup>o</sup> 652/2014 et (UE) n<sup>o</sup> 1143/2014 et abrogeant les directives du Conseil 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE et 2007/33/CE, JO L 317 du 23.11.2016, p. 4; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2024/3115, JO L, 2024/3115, 16.12.2024.
 
 #### Art. 62
 
 **Autorisation exceptionnelle**[^62-1]
 
-<sup>1</sup> Le SPF peut, pour autant que la dissémination d’organismes de quarantaine puisse être exclue, autoriser sur demande la mise en circulation de marchandises qui ne remplissent pas les conditions visées à l’art. 59*a* aux fins selon l’art. 37, al. 1.
+<sup>1</sup> Le SPF peut autoriser sur demande la mise en circulation de marchandises qui ne remplissent pas les conditions visées à l’art. 59*a* aux fins visées à l’art. 37, al. 1, pour autant que la dissémination d’organismes de quarantaine puisse être exclue. Il peut aussi autoriser la mise en circulation à d’autres fins autres en cas de grave pénurie de cette marchandise.[^62-2]
 
 <sup>2</sup>
 
@@ -1111,6 +1148,7 @@ L’autorisation règle en particulier:
 - e. les charges visant à réduire au maximum le risque d’établissement et de dissémination d’organismes de quarantaine.
 
 [^62-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^62-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 63
 
@@ -1767,11 +1805,20 @@ Les offices compétents peuvent déléguer les tâches ci-après à l’OFDF, au
 
 - a. à l’OFDF, après accord préalable: les contrôles à l’importation visés aux art. 49 et 50;
 - b. aux services cantonaux compétents: l’établissement des certificats phytosanitaires visés aux art. 57 à 59;
-- c. aux organisations de contrôle indépendantes visées à l’art. 180 de la loi du 29 avril 1998 sur l’agriculture et aux art. 32 et 50*a* de la loi du 4 octobre 1991 sur les forêts: les contrôles des entreprises visés aux art. 78 et 91 et les contrôles spécifiques à l’importation.
+- c.[^106-1]
+
+  aux organisations de contrôle indépendantes visées à l’art. 180 de la loi du 29 avril 1998 sur l’agriculture et aux art. 32 et 50*a* de la loi du 4 octobre 1991 sur les forêts:
+
+  - 1\. les contrôles relatifs au passeport phytosanitaire, notamment les contrôles concernant les autorisations exceptionnelles visées aux art. 42 et 62,
+  - 2\. les contrôles à l’importation prévus à la section 4 du chapitre 6 (art. 43 à 54),
+  - 3\. les contrôles dans le cadre de la procédure d’agrément visée à l’art. 77,
+  - 4\. les contrôles des entreprises visés aux art. 78 et 91.
 
 <sup>2</sup> Les organisations de contrôle peuvent percevoir des émoluments couvrant leurs frais.
 
 <sup>3</sup> Les organes de police compétents en vertu du droit cantonal ainsi que les agents de la douane, de la poste, des chemins de fer, des compagnies de navigation et des aéroports sont tenus de seconder, dans l’accomplissement de leurs tâches, les organes chargés d’exécuter les mesures de santé des végétaux.
+
+[^106-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ## Chapitre 12 Procédure d’opposition
 
@@ -2150,7 +2197,7 @@ Annexe 6[^t-1]
 <tr><td colspan="2">1 Nom et adresse de l’exportateur</td><td colspan="3">2 **Certificat phytosanitaire** **N°**</td></tr>
 <tr><td colspan="2">3 Nom et adresse déclarés du destinataire</td><td colspan="3">4 **Organisation de protection des végétaux de** À: Organisation(s) de protection des végétaux de</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Lieu d’origine</td></tr>
-<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/fr/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Point d’entrée déclaré</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Marques des colis; nombre et nature des colis; nature de la marchandise; nom botanique des végétaux</td><td>9 Quantité déclarée</td></tr>
 <tr><td colspan="5">10 Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été: – inspectés et/ou testés suivant des procédures officielles appropriées, et – estimés exempts d’organismes de quarantaine, comme spécifié par la partie contractante importatrice, et jugés conformes aux exigences phytosanitaires de la partie contractante importatrice, y compris à celles concernant les organismes réglementés non de quarantaine. Les végétaux, produits végétaux ou autres articles réglementés sont réputés pratiquement exempts d’autres organismes nuisibles.</td></tr>
@@ -2172,7 +2219,7 @@ Le présent certificat n’entraîne aucune responsabilité financière pour le 
 <tr><td colspan="2">1 Nom et adresse de l’exportateur</td><td colspan="3">2 **Certificat phytosanitaire** **de réexportation** **N°**</td></tr>
 <tr><td colspan="2">3 Nom et adresse déclarés du destinataire</td><td colspan="3">4 **Organisation de protection des végétaux de** À: Organisation(s) de protection des végétaux de</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Lieu d’origine</td></tr>
-<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Moyen(s) de transport déclaré(s)</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/fr/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Point d’entrée déclaré</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Marques des colis; nombre et nature des colis; nature de la marchandise; nom botanique des végétaux</td><td>9 Quantité déclarée</td></tr>
 <tr><td colspan="5">10 Il est certifié que les végétaux, produits végétaux ou autres articles réglementés décrits ci-dessus ont été importés en ……………… (partie contractante de réexportation) en provenance de ……………… (partie contractante d’origine) et ont fait l’objet du certificat phytosanitaire n<sup>o</sup> ………………, – dont (\*) l’original ◻ la copie authentifiée ◻ est joint(e) au présent certificat – qu’ils sont (\*) emballés ◻ remballés ◻ dans les emballages d’origine ◻ dans de nouveaux emballages ◻ – que, d’après le certificat phytosanitaire (\*) original ◻ et une inspection supplémentaire ◻, ils sont jugés conformes aux exigences phytosanitaires en vigueur de la partie contractante importatrice, et – qu’au cours de l’emmagasinage en ……………… (partie contractante de réexportation) l’envoi n’a pas été exposé au risque d’infestation ou d’infection. (\*)Mettre une croix dans la case appropriée</td></tr>
@@ -2189,7 +2236,7 @@ Le présent certificat n’entraîne aucune responsabilité financière pour le 
 ### 3. Certificat de préexportation (modèle)
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/fr/xml/image/image1.png)1 **Certificat de préexportation** **N° CH / Numéro individuel de référence interne** Le présent document est délivré par l’autorité suisse compétente conformément à l’ordonnance sur la santé des végétaux (RS 916.20), sur demande d’un entrepreneur, afin que les autorités compétentes d’États membres de l’UE soient informées des procédés phytosanitaires spécifiques qui ont été appliqués.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/fr/xml/image/image1.png)1 **Certificat de préexportation** **N° CH / Numéro individuel de référence interne** Le présent document est délivré par l’autorité suisse compétente conformément à l’ordonnance sur la santé des végétaux (RS 916.20), sur demande d’un entrepreneur, afin que les autorités compétentes d’États membres de l’UE soient informées des procédés phytosanitaires spécifiques qui ont été appliqués.</td></tr>
 <tr><td colspan="3">2 Nom du pays d’origine et nom de l’autorité déclarante compétente (et, si souhaité, logo de l’autorité compétente du pays d’origine)</td></tr>
 <tr><td colspan="3">3 Entrepreneur</td></tr>
 <tr><td colspan="2">4 Description de l’envoi</td><td>5 Quantité déclarée</td></tr>

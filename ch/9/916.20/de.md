@@ -4,11 +4,11 @@ title: "Verordnung vom 31. Oktober 2018 über den Schutz von Pflanzen vor besond
 short: PGesV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/682"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2018-10-31
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-682-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-682-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/682/20240101/de"
 
 (Pflanzengesundheitsverordnung, PGesV)
 
-vom 31. Oktober 2018 (Stand am 1. Januar 2024)
+vom 31. Oktober 2018 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -82,13 +82,13 @@ Im Sinne dieser Verordnung sind:
 
 - f. *Anpflanzen:* jede Massnahme des Ein- oder Ansetzens von Pflanzen, um deren späteres Wachstum oder spätere Fortpflanzung oder Vermehrung zu gewährleisten;
 - g. *zum Anpflanzen bestimmte Pflanzen:* Pflanzen, die angepflanzt bleiben, angepflanzt werden oder wiederangepflanzt werden sollen;
-- g<sup>bis</sup>.[^2-1] *Befallszone*: Gebiet, in dem die Verbreitung eines Quarantäneorganismus so weit fortgeschritten ist, dass in diesem Gebiet die Tilgung des Organismus nicht mehr möglich ist;
-- h. *Befallsherd:* einzelne von besonders gefährlichen Schadorganismen befallene Pflanzen und ihre unmittelbare Umgebung ausserhalb der Befallszone, einschliesslich Pflanzen mit Befallsverdacht;
-- i.[^2-2] *Pufferzone:* befallsfreies Gebiet, das eine Befallszone oder einen Befallsherd umgibt;
+- g<sup>bis</sup>.[^2-1] *Befallszone:* Gebiet, in dem die Verbreitung eines Quarantäneorganismus so weit fortgeschritten ist, dass in diesem Gebiet die Tilgung des Organismus nicht mehr möglich ist und daher nur noch Eindämmungsmassnahmen durchgeführt werden;
+- h.[^2-2] *Befallsherd:* einzelne Pflanzen ausserhalb der Befallszone, die von besonders gefährlichen Schadorganismen befallen sind oder bei denen ein Befallsverdacht besteht und die daher Tilgungsmassnahmen unterstehen; zum Befallsherd gehört auch die unmittelbare Umgebung der Pflanzen;
+- i.[^2-3] *Pufferzone:* befallsfreies Gebiet, das eine Befallszone oder einen Befallsherd umgibt;
 - j. *Inverkehrbringen:* die entgeltliche und unentgeltliche Übertragung oder Überlassung von Waren;
 - k. *Drittländer:* alle Länder ausser der Schweiz, dem Fürstentum Liechtenstein und den Mitgliedstaaten der Europäischen Union (EU); die Kanarischen Inseln, Ceuta, Melilla und Frankreichs Überseedepartemente und -territorien gelten als Drittländer;
 - l. *Umgang:* jede Tätigkeit im Zusammenhang mit besonders gefährlichen Schadorganismen und Waren, insbesondere das Einführen, Inverkehrbringen, Halten, Vermehren und Verbreiten;
-- m. *Einfuhr:* das Überführen von Waren in das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Art. 3 Abs. 3 des Zollgesetzes vom 18. März 2005[^2-3]) und des Fürstentums Liechtenstein;
+- m. *Einfuhr:* das Überführen von Waren in das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Art. 3 Abs. 3 des Zollgesetzes vom 18. März 2005[^2-4]) und des Fürstentums Liechtenstein;
 - n. *Durchfuhr:* das Befördern unverzollter Waren durch die Schweiz;
 - o. *Handelseinheit:* die kleinste im Handel oder auf der betreffenden Vermarktungsstufe anderweitig verwendbare Einheit von Waren, die aufgrund ihrer Homogenität hinsichtlich Zusammensetzung, Ursprung und anderer relevanter Elemente identifizierbar sind;
 - p. *Partie:* Gesamtheit von Handelseinheiten;
@@ -97,9 +97,10 @@ Im Sinne dieser Verordnung sind:
 - s. *Pflanzengesundheitszeugnis:* amtliches Dokument für den Handel von Waren mit Drittländern, das bestätigt, dass die Ware die Pflanzengesundheitsvorschriften des Empfängerlandes erfüllt;
 - t. *Vektor:* ein lebender Organismus, der besonders gefährliche Schadorganismen von einer infizierten Pflanze auf eine andere überträgt.
 
-[^2-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
-[^2-2]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
-[^2-3]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^2-1]: Eingefügt durch Ziff. I der V vom 3. Nov. 2021 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)). Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^2-4]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 
 #### Art. 3
 
@@ -254,11 +255,17 @@ Hat ein Betrieb, der gewerbsmässig mit Waren umgeht, den Verdacht oder stellt e
 
 <sup>2</sup> Die Abklärung erfolgt auf der Grundlage einer Diagnose eines vom EPSD benannten Laboratoriums.
 
-<sup>3</sup> Solange die Diagnose nicht vorliegt, ergreift der zuständige kantonale Dienst angemessene Massnahmen nach Artikel 13 Absatz 1 Buchstaben a–d und i.[^10-1]
+<sup>3</sup> Solange die Diagnose nicht vorliegt, ergreift der zuständige kantonale Dienst angemessene Massnahmen nach Artikel 13 Absatz 1 Buchstaben a–e und i.[^10-1]
 
-<sup>4</sup> Betrifft der Verdacht einen zugelassenen Betrieb, so ist der EPSD für die Massnahmen nach den Absätzen 1 und 3 zuständig.
+<sup>4</sup>
 
-[^10-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 701](https://fedlex.data.admin.ch/eli/oc/2023/701)).
+Betrifft der Verdacht einen zugelassenen Betrieb, so ist der EPSD für die Massnahmen nach den Absätzen 1 und 3 zuständig; die Zuständigkeit bleibt hingegen beim kantonalen Dienst, wenn:
+
+- a. der Verdacht eine Ware betrifft, die nicht unter Artikel 60 Absätze 1 und 2 oder 89 fällt; und
+- b. von den Waren nach Artikel 60 Absätze 1 und 2 oder 89, mit denen der Betrieb umgeht, keine als Wirt oder Träger des Quarantäneorganismus bekannt ist, und ausgeschlossen werden kann, dass der Quarantäneorganismus diese Waren befallen kann.[^10-2]
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ### 3. Abschnitt: Information betroffener Betriebe und der Öffentlichkeit
 
@@ -274,9 +281,13 @@ Hat ein Betrieb, der gewerbsmässig mit Waren umgeht, den Verdacht oder stellt e
 
 #### Art. 12
 
-**Information der Öffentlichkeit**
+**Information der Öffentlichkeit sowie der betroffenen Personen**[^12-1]
 
-Wurde das Auftreten eines prioritären Quarantäneorganismus von einem vom EPSD benannten Laboratorium bestätigt, so informiert das zuständige Bundesamt, in Absprache mit der zuständigen kantonalen Stelle, die Öffentlichkeit über die Massnahmen, die ergriffen wurden und noch ergriffen werden.
+<sup>1</sup> Wurde das Auftreten eines prioritären Quarantäneorganismus von einem vom EPSD benannten Laboratorium bestätigt, so informiert das zuständige Bundesamt, in Absprache mit der zuständigen kantonalen Stelle, so rasch wie möglich die Öffentlichkeit über das Auftreten des prioritären Quarantäneorganismus und die Gefahr, die von ihm ausgeht.
+
+<sup>2</sup> Die zuständige kantonale Stelle informiert die betroffenen Personen sowie die Öffentlichkeit so rasch wie möglich über die bereits ergriffenen und die geplanten Massnahmen.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ### 4. Abschnitt: Tilgungsmassnahmen
 
@@ -292,7 +303,7 @@ Wird das Auftreten eines Quarantäneorganismus festgestellt, so bestimmt das zus
 - b. das Unter-Quarantäne-Stellen von Kulturen und Waren, bei denen davon auszugehen ist, dass sie befallen sind; ergibt die Abklärung, dass sie nicht befallen sind, werden sie aus der Quarantäne entlassen;
 - c. die Beschlagnahmung von Waren, die befallen sind oder bei denen davon auszugehen ist, dass sie befallen sind, sowie von damit in Berührung gekommenem Material;
 - d. die Verwertung von Waren, die befallen sind oder bei denen davon auszugehen ist, dass sie befallen sind, auf eine Art, die geeignet ist, die Verbreitung von Quarantäneorganismen auszuschliessen;
-- e. das Verbot des Anbaus oder des Anpflanzens von Wirtspflanzen in einer von einem Quarantäneorganismus oder seinem Vektor befallenen Parzelle, bis das Befallsrisiko nicht mehr besteht;
+- e.[^13-1] das Verbot des Anbaus oder des Anpflanzens von Wirtspflanzen in einer Parzelle, die von einem Quarantäneorganismus oder seinem Vektor befallen ist oder bei der von einem solchen Befall auszugehen ist, bis der Befall beziehungsweise das Befallsrisiko nicht mehr besteht;
 - f. das Verbot des Anbaus oder des Anpflanzens von Pflanzen, die für einen Quarantäneorganismus stark anfällig sind;
 - g. das Entfernen von Pflanzen nach Buchstabe f in der Umgebung von anfälligen Kulturen;
 - h. Massnahmen gegen Vektoren, die die Ausbreitung des betroffenen Quarantäneorganismus verhindern;
@@ -307,15 +318,26 @@ Er ermittelt so schnell wie möglich, gegebenenfalls zusammen mit dem EPSD, die 
 - a. das Auftreten mit dem Inverkehrbringen oder dem Standortwechsel von Waren zusammenhängen könnte; und
 - b. die Möglichkeit besteht, dass sich der Quarantäneorganismus auf andere Waren ausgebreitet hat.
 
-<sup>4</sup> Betrifft der Befall einen zugelassenen Betrieb, so ist der EPSD für das Ergreifen der Massnahmen nach Absatz 1 und für die Abklärungen nach Absatz 3 zuständig.
+<sup>4</sup>
 
-<sup>5</sup> Das zuständige Bundesamt kann nach Anhörung der betroffenen kantonalen Dienste Richtlinien erlassen, die gewährleisten, dass die Massnahmen zur Bekämpfung von Quarantäneorganismen einheitlich und sachgerecht durchgeführt werden.
+Betrifft der Verdacht einen zugelassenen Betrieb, so ist der EPSD für das Ergreifen der Massnahmen nach Absatz 1 und für die Abklärungen nach Absatz 3 zuständig; die Zuständigkeit bleibt hingegen beim kantonalen Dienst wenn:
+
+- a. der Verdacht eine Ware betrifft, die nicht unter Artikel 60 Absätze 1 und 2 oder 89 fällt; und
+- b. von den Waren nach Artikel 60 Absätze 1 und 2 oder 89, mit denen der Betrieb umgeht, keine als Wirt oder Träger des Quarantäneorganismus bekannt ist, und ausgeschlossen werden kann, dass der Quarantäneorganismus diese Waren befallen kann.[^13-2]
+
+<sup>5</sup> Das zuständige Bundesamt kann Richtlinien, Notfallpläne oder Vollzugshilfen erlassen, die gewährleisten, dass die Massnahmen zur Bekämpfung von Quarantäneorganismen einheitlich und sachgerecht durchgeführt werden. Vor dem Erlass hört das zuständige Bundesamt die betroffenen kantonalen Dienste an.[^13-3]
+
+[^13-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^13-3]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 14
 
-**Festlegung eines Aktionsplans bei prioritären Quarantäneorganismen**
+**Festlegung eines Aktionsplans bei prioritären Quarantäneorganismen**[^14-1]
 
-Wird das Auftreten eines prioritär zu behandelnden Quarantäneorganismus festgestellt, so legt der zuständige kantonale Dienst einen Zeitplan zur Umsetzung der festgelegten Tilgungs- oder Eindämmungsmassnahmen fest.
+Wird das Auftreten eines prioritär zu behandelnden Quarantäneorganismus festgestellt, so erarbeitet der zuständige kantonale Dienst in Absprache mit dem zuständigen Bundesamt einen Aktionsplan. Dieser umfasst einen Zeitplan zur Umsetzung der vom zuständigen Bundesamt bestimmten Tilgungs- oder Eindämmungsmassnahmen sowie die Zuständigkeiten für die Umsetzung dieser Massnahmen.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 15
 
@@ -342,7 +364,7 @@ Der zuständige kantonale Dienst verzichtet nach Absprache mit dem zuständigen 
 
 **Ausscheidung von Befallszonen und dazugehörigen Pufferzonen**[^16-1]
 
-<sup>1</sup> Das zuständige Bundesamt grenzt in Absprache mit den zuständigen Diensten der betroffenen Kantone die Befallszonen und die dazugehörigen Pufferzonen ab.
+<sup>1</sup> Das zuständige Bundesamt grenzt in Absprache mit den zuständigen Diensten der betroffenen Kantone das Gebiet ab, in dem es nach Anhörung dieser Dienste die Durchführung von Eindämmungsmassnahmen anordnen kann. Das Gebiet umfasst die Befallszone und eine Pufferzone.[^16-2]
 
 <sup>2</sup> Die Festlegung der Ausdehnung der Pufferzone richtet sich nach dem Risiko, das besteht, dass der Organismus sich auf natürlichem Weg oder wegen einer Tätigkeit des Menschen ausbreitet.
 
@@ -351,6 +373,7 @@ Der zuständige kantonale Dienst verzichtet nach Absprache mit dem zuständigen 
 <sup>4</sup> Das zuständige Bundesamt veröffentlicht die Ausscheidung einer Befallszone im Schweizerischen Handelsamtsblatt oder auf andere geeignete Weise.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 687](https://fedlex.data.admin.ch/eli/oc/2021/687)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 17
 
@@ -742,7 +765,7 @@ Das WBF und das UVEK können die Einfuhr von Waren, von denen erfahrungsgemäss 
 
 **Ausnahmebewilligung**[^39a-1]
 
-<sup>1</sup> Der EPSD kann, sofern die Ausbreitung von Quarantäneorganismen ausgeschlossen werden kann, die Einfuhr von Waren, welche die Voraussetzungen nach Artikel 38*a* nicht erfüllen, auf Gesuch hin zu den Zwecken nach Artikel 37 Absatz 1 bewilligen.
+<sup>1</sup> Der EPSD kann die Einfuhr von Waren, welche die Voraussetzungen nach Artikel 38*a* nicht erfüllen, zu den Zwecken nach Artikel 37 Absatz 1 auf Gesuch hin bewilligen, wenn die Ausbreitung von Quarantäneorganismen ausgeschlossen werden kann. Besteht für die Ware ein akuter Versorgungsengpass, so kann er die Einfuhr auch zu anderen Zwecken bewilligen.[^39a-2]
 
 <sup>2</sup>
 
@@ -755,6 +778,7 @@ Die Bewilligung regelt insbesondere:
 - e. Auflagen, um das Risiko einer Ansiedlung und Ausbreitung von Quarantäneorganismen zu minimieren.
 
 [^39a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^39a-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ### 3. Abschnitt: Überführung von Waren in Schutzgebiete
 
@@ -788,7 +812,7 @@ Das WBF und das UVEK legen für jedes Schutzgebiet fest:
 
 **Ausnahmebewilligung**
 
-<sup>1</sup> Der EPSD kann, sofern die Ausbreitung von Quarantäneorganismen ausgeschlossen werden kann, die Überführung einer Ware nach Artikel 40 Absatz 1 Buchstabe a in ein Schutzgebiet auf Gesuch hin zu den Zwecken nach Artikel 37 Absatz 1 bewilligen.[^42-1]
+<sup>1</sup> Der EPSD kann die Überführung von Waren nach Artikel 40 Absatz 1 Buchstabe a in ein Schutzgebiet zu den Zwecken nach Artikel 37 Absatz 1 auf Gesuch hin bewilligen, wenn die Ausbreitung von Quarantäneorganismen ausgeschlossen werden kann. Besteht für die Ware ein akuter Versorgungsengpass, so kann er die Überführung auch zu anderen Zwecken bewilligen.[^42-1]
 
 <sup>2</sup>
 
@@ -802,7 +826,7 @@ Die Bewilligung regelt insbesondere:
 - f. Auflage, dass bei der Einfuhr und beim Standortwechsel die Bewilligung der Ware beiliegen muss;
 - g.[^42-2] Auflagen, um das Risiko einer Ansiedlung und Ausbreitung von Quarantäneorganismen zu minimieren.
 
-[^42-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^42-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 [^42-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
 
 #### Art. 42a
@@ -1086,15 +1110,28 @@ Kein Pflanzenpass ist erforderlich:
 
 **Pflanzenpass für Waren aus Drittländern**[^61-1]
 
-Der Pflanzenpass für das Inverkehrbringen von pflanzenpasspflichtigen Waren, die aus einem Drittland eingeführt werden oder nach Artikel 55 bei der Durchfuhr zu kontrollieren sind, wird vom EPSD ausgestellt, wenn er festgestellt hat, dass die Voraussetzungen für den Pflanzenpass erfüllt sind.
+<sup>1</sup>
 
-[^61-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+Die folgenden Pflanzenpässe werden vom EPSD auf der Grundlage des vom Drittland ausgestellten Pflanzengesundheitszeugnisses ausgestellt, sofern er festgestellt hat, dass die Voraussetzungen für den Pflanzenpass erfüllt sind:
+
+- a. Pflanzenpass für das Inverkehrbringen von pflanzenpasspflichtigen Waren, die aus einem Drittland eingeführt werden;
+- b. Pflanzenpass für die Durchfuhr von pflanzenpasspflichtigen Waren nach Artikel 55.
+
+<sup>2</sup>
+
+Ist der Importeur ein für das Ausstellen von Pflanzenpässen zugelassener Betrieb (Art. 76), so kann der Pflanzenpass von ihm ausgestellt werden. Bis der Pflanzenpass ausgestellt ist, muss der betreffenden Ware beigefügt sein:
+
+- a. eine vom EPSD ausgestellte amtlich beglaubigte Kopie des vom Drittland ausgestellten Pflanzengesundheitszeugnisses; oder
+- b. ein vom EPSD erstelltes Dokument mit den erforderlichen Informationen aus dem Informationssystem nach Artikel 103 der Verordnung (EU) 2016/2031[^61-2], sofern das vom Drittland ausgestellte Pflanzengesundheitszeugnis oder eine digitale Kopie davon in diesem System zugänglich ist.
+
+[^61-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
+[^61-2]: Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates vom 26. Oktober 2016 über Massnahmen zum Schutz vor Pflanzenschädlingen, zur Änderung der Verordnungen (EU) Nr. 228/2013, (EU) Nr. 652/2014 und (EU) Nr. 1143/2014 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinien 69/464/EWG, 74/647/EWG, 93/85/EWG, 98/57/EG, 2000/29/EG, 2006/91/EG und 2007/33/EG des Rates, ABl. L 317 vom 23.11.2016, S. 4; zuletzt geändert durch Verordnung (EU) Nr. 2024/3115, ABl. L, 2024/3115, 16.12.2024.
 
 #### Art. 62
 
 **Ausnahmebewilligung**[^62-1]
 
-<sup>1</sup> Der EPSD kann, sofern die Ausbreitung von Quarantäneorganismen ausgeschlossen werden kann, das Inverkehrbringen von Waren, welche die Voraussetzungen nach Artikel 59*a* nicht erfüllen, auf Gesuch hin zu den Zwecken nach Artikel 37 Absatz 1 bewilligen.
+<sup>1</sup> Der EPSD kann das Inverkehrbringen von Waren, welche die Voraussetzungen nach Artikel 59*a* nicht erfüllen, den zu den Zwecken nach Artikel 37 Absatz 1 auf Gesuch hin bewilligen, wenn die Ausbreitung von Quarantäneorganismen ausgeschlossen werden kann. Besteht für die Ware ein akuter Versorgungsengpass, so kann er das Inverkehrbringen auch zu anderen Zwecken bewilligen.[^62-2]
 
 <sup>2</sup>
 
@@ -1107,6 +1144,7 @@ Die Bewilligung regelt insbesondere:
 - e. Auflagen, um das Risiko einer Ansiedlung und Ausbreitung von Quarantäneorganismen zu minimieren.
 
 [^62-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2020, in Kraft seit 1. Aug. 2020 ([AS 2020 3063](https://fedlex.data.admin.ch/eli/oc/2020/554)).
+[^62-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 #### Art. 63
 
@@ -1760,11 +1798,20 @@ Die zuständigen Bundesämter können dem BAZG, den zuständigen kantonalen Dien
 
 - a. dem BAZG im gegenseitigen Einvernehmen: die Kontrollen bei der Einfuhr nach den Artikeln 49 und 50;
 - b. den zuständigen kantonalen Diensten: das Ausstellen von Pflanzengesundheitszeugnissen nach den Artikeln 57–59;
-- c. den unabhängigen Kontrollorganisationen nach Artikel 180 des Landwirtschaftsgesetzes vom 29. April 1998 beziehungsweise nach den Artikeln 32 und 50*a* des Waldgesetzes vom 4. Oktober 1991: die Kontrollen der Betriebe nach den Artikeln 78 und 91 sowie spezifische Kontrollen bei der Einfuhr.
+- c.[^106-1]
+
+  den unabhängigen Kontrollorganisationen nach Artikel 180 des Landwirtschaftsgesetzes vom 29. April 1998 beziehungsweise nach den Artikeln 32 und 50*a* des Waldgesetzes vom 4. Oktober 1991 die folgenden Kontrollen:
+
+  - 1\. Kontrollen im Zusammenhang mit dem Pflanzenpass, insbesondere Kontrollen für Ausnahmebewilligungen nach den Artikeln 42 und 62,
+  - 2\. Einfuhrkontrollen nach dem 4. Abschnitt des 6. Kapitels (Art. 43−54),
+  - 3\. Kontrollen im Rahmen des Zulassungsverfahrens nach Artikel 77,
+  - 4\. Kontrollen der Betriebe nach den Artikeln 78 und 91.
 
 <sup>2</sup> Die Kontrollorganisationen dürfen für ihre Kontrolltätigkeit kostendeckende Gebühren verfügen.
 
 <sup>3</sup> Die nach kantonalem Recht zuständigen Polizeiorgane sowie das Personal der Zoll‑, Post‑, Bahn-, Schifffahrts- und Flughafenverwaltungen haben die mit den Pflanzengesundheitsmassnahmen betrauten Organe bei der Erfüllung ihrer Aufgaben zu unterstützen.
+
+[^106-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 721](https://fedlex.data.admin.ch/eli/oc/2025/721)).
 
 ## 12. Kapitel: Einspracheverfahren
 
@@ -2142,7 +2189,7 @@ Anhang 6[^t-1]
 <tr><td colspan="2">1 Name und Adresse des Exporteurs</td><td colspan="3">2 **Pflanzengesundheitszeugnis** **Nr.**</td></tr>
 <tr><td colspan="2">3 Name und Adresse des angegebenen Empfängers</td><td colspan="3">4 **Pflanzenschutzdienst von** an den (die) Pflanzenschutzdienst(e) von</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Ursprungsort</td></tr>
-<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Angegebene Eingangsstelle</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Unterscheidungsmerkmale: Zahl und Beschreibung der Packstücke; Art der Ware; botanischer Name der Pflanzen</td><td>9 Angegebene Menge</td></tr>
 <tr><td colspan="5">10 Hiermit wird bestätigt, dass die oben beschriebenen Pflanzen, Pflanzenerzeugnisse oder anderen geregelten Gegenstände: – nach geeigneten Verfahren amtlich untersucht und/oder getestet wurden und – für frei von Quarantäneorganismen, die von der einführenden Vertragspartei benannt wurden, befunden wurden und dass sie die geltenden phytosanitären Vorschriften der einführenden Vertragspartei, einschliesslich der Vorschriften für geregelte Nicht-Quarantäneorganismen, entsprechen. Die beschriebenen Pflanzen, Pflanzenerzeugnisse oder anderen geregelten Gegenstände gelten als praktisch frei von anderen Schadorganismen.</td></tr>
@@ -2164,7 +2211,7 @@ Mit dem gegenständigen Zeugnis wird seitens des Eidgenössischen Pflanzenschutz
 <tr><td colspan="2">1 Name und Adresse des Exporteurs</td><td colspan="3">2 **Pflanzengesundheitszeugnis** **für die Wiederausfuhr** **Nr.**</td></tr>
 <tr><td colspan="2">3 Name und Adresse des angegebenen Empfängers</td><td colspan="3">4 **Pflanzenschutzdienst von** an den (die) Pflanzenschutzdienst(e) von</td></tr>
 <tr><td colspan="2"></td><td colspan="3">5 Ursprungsort</td></tr>
-<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/de/xml/image/image1.png)</td></tr>
+<tr><td colspan="2">6 Angegebene(s) Transportmittel</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="2">7 Angegebene Eingangsstelle</td><td colspan="3"></td></tr>
 <tr><td colspan="4">8 Unterscheidungsmerkmale: Zahl und Beschreibung der Packstücke; Art der Ware; botanischer Name der Pflanzen</td><td>9 Angegebene Menge</td></tr>
 <tr><td colspan="5">10 Hiermit wird bestätigt, dass die oben beschriebenen Pflanzen, Pflanzenerzeugnisse oder anderen geregelten Gegenstände aus ……………… (Ursprungsvertragspartei) nach ……………… (wiederausführende Vertragspartei) eingeführt wurden und dass ihnen das Pflanzengesundheitszeugnis Nr. ……………, – dessen (\*) Original ◻ beglaubigte Kopie ◻ in der Anlage vorliegt, beigefügt war – dass sie (\*) verpackt ◻ umgepackt ◻ in den ursprünglichen ◻ neuen ◻ Behältern sind und – dass sie (\*) aufgrund des ursprünglichen Pflanzengesundheitszeugnisses ◻ und einer zusätzlichen Überprüfung ◻ als mit den derzeit geltenden phytosanitären Vorschriften der einführenden Vertragspartei konform befunden wurden und – dass die Sendung während der Lagerung in ……………… (wiederausführende Vertragspartei) nicht dem Risiko eines Befalls oder einer Infizierung ausgesetzt war. (\*) Zutreffendes ankreuzen</td></tr>
@@ -2181,7 +2228,7 @@ Mit dem gegenständigen Zeugnis wird seitens des Eidgenössischen Pflanzenschutz
 ### 3. Muster für das Vorausfuhrzeugnis
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20240101/de/xml/image/image2.png)1 **Vorausfuhrzeugnis** **Nr. CH / Interne individuelle Referenznummer** Dieses Dokument wird von der zuständigen Behörde der Schweiz gemäss der Pflanzengesundheitsverordnung (SR 916.20) auf Antrag eines Unternehmers ausgestellt, um den zuständigen Behörden von EU-Mitgliedstaaten mitzuteilen, dass bestimmte Pflanzenschutzverfahren angewendet wurden.</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/682/20260101/de/xml/image/image2.png)1 **Vorausfuhrzeugnis** **Nr. CH / Interne individuelle Referenznummer** Dieses Dokument wird von der zuständigen Behörde der Schweiz gemäss der Pflanzengesundheitsverordnung (SR 916.20) auf Antrag eines Unternehmers ausgestellt, um den zuständigen Behörden von EU-Mitgliedstaaten mitzuteilen, dass bestimmte Pflanzenschutzverfahren angewendet wurden.</td></tr>
 <tr><td colspan="3">2 Name des Ursprungslands und Name der erklärenden zuständigen Behörde (und falls erwünscht, Logo der zuständigen Behörde des Ursprungslands)</td></tr>
 <tr><td colspan="3">3 Unternehmer</td></tr>
 <tr><td colspan="2">4 Beschreibung der Sendung</td><td>5 Angegebene Menge</td></tr>
