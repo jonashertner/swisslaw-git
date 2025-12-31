@@ -3,24 +3,23 @@ canton: ZG
 number: "154.312"
 title: Anforderungsprofil für die vom Regierungsrat gewählten Mitglieder des Vorstands der Zuger Pensionskasse
 language: de
-version: 2014-02-22
-valid_until: 2025-12-31
-version_adopted: 2014-02-18
+version: 2026-01-01
+version_adopted: 2025-04-29
 adopted: 2014-02-18
 in_force: 2014-02-18
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.312"
-pdf: "https://bgs.zg.ch/api/de/versions/1298/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2690/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Anforderungsprofil für die vom Regierungsrat gewählten Mitglieder des Vorstands der Zuger Pensionskasse
 
-Vom 18. Februar 2014 (Stand 22. Februar 2014)
+Vom 18. Februar 2014 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Zug,
 
-gestützt auf § 11 Abs. 1 des Gesetzes über die Zuger Pensionskasse vom 29. August 2013[^ingress-1],
+gestützt auf § 11 Abs. 1 des Gesetzes über die Zuger Pensionskasse (Pensionskassengesetz, PKG) vom 29. August 2013[^ingress-1],
 
 beschliesst:
 
@@ -68,7 +67,7 @@ beschliesst:
 
 <sup>1</sup> Nimmt ein Mitglied des Regierungsrats Einsitz im Vorstand der Zuger Pensionskasse, so regelt sich die Entschädigung nach § 5 Abs. 4 des Gesetzes über die Rechtsstellung der Mitglieder des Regierungsrates (Rechtsstellungsgesetz) vom 1. Februar 1990[^4-1].
 
-<sup>2</sup> Andere vom Regierungsrat gewählte Mitglieder des Vorstands der Zuger Pensionskasse erfüllen ihre Aufgabe für den Vorstand ausserhalb der Arbeitszeit ohne Entlöhnung. Sie erhalten die von der Zuger Pensionskasse auszurichtende übliche Entschädigung.
+<sup>2</sup> Andere vom Regierungsrat gewählte Mitglieder des Vorstands der Zuger Pensionskasse erfüllen ihre Aufgabe für den Vorstand während der Arbeitszeit. Die von der Zuger Pensionskasse auszurichtende übliche Entschädigung fällt in die Staatskasse.
 
 [^4-1]: BGS [151.2](https://bgs.zg.ch/data/151.2/de)
 
