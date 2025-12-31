@@ -3,20 +3,19 @@ canton: OW
 number: "641.412"
 title: Ausführungsbestimmungen über den steuerlichen Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-26
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 1995-01-03
 in_force: 1995-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/641.412"
-pdf: "http://gdb.ow.ch/api/de/versions/1908/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1972/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über den steuerlichen Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
 
-vom 03.01.1995 (Stand 01.01.2025)
+vom 03.01.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -155,6 +154,8 @@ Geändert durch:
 
 \- Nachtrag vom 30. November 2021, in Kraft seit 1. Januar 2022 (OGS 2021, 47),
 
-\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38)
+\- Mantelerlass über die Anpassung von Ausführungsbestimmungen im Steuerbereich vom 26. November 2024, in Kraft seit 1. Januar 2025 (OGS 2024, 38),
+
+\- AB über die Nachführung zum Nachtrag zum Steuergesetz 2026 vom 25. November 2025, in Kraft seit 1. Januar 2026 (OGS 2025, 22)
 
 OGS 1995, 57
