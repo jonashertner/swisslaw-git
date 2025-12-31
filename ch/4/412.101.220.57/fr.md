@@ -3,18 +3,18 @@ sr: "412.101.220.57"
 title: Ordonnance du SEFRI du 3 mai 2024 sur la formation professionnelle initiale de praticienne en denrées alimentaires AFP / praticien en denrées alimentaires AFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/237"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2024-05-03
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/237/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-237-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/237/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/237/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-237-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/237/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de praticienne en denrées alimentaires AFP / praticien en denrées alimentaires AFP
 
-du 3 mai 2024 (État le 1<sup>er</sup> janvier 2025)
+du 3 mai 2024 (État le 1<sup>er</sup> janvier 2026)
 
 <table>
 <tr><td>21417</td><td>Praticienne en denrées alimentaires AFP / Praticien en denrées alimentaires AFP Lebensmittelpraktikerin EBA / Lebensmittelpraktiker EBA Addetta alimentarista CFP / Addetto alimentarista CFP</td></tr>
@@ -26,9 +26,9 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Section 1 Objet et durée
 
@@ -144,13 +144,14 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 <sup>2</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>3</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>4</sup> La langue d’enseignement est la langue nationale, dans sa forme standard, du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>5</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 ## Section 5 Plan de formation
 
@@ -281,11 +282,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>3</td><td>Entretien professionnel</td><td>20 %</td></tr>
 </table>
 
-- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^16-1].
+- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^16-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^16-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins 2 experts aux examens.
 
-[^16-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^16-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^16-2]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 17
 
@@ -380,7 +382,7 @@ Elle est notamment chargée des tâches suivantes:
 
 L’ordonnance du SEFRI du 25 juillet 2007 sur la formation professionnelle initiale de praticienne en denrées alimentaires / praticien en denrées alimentaires avec attestation fédérale de formation professionnelle (AFP)[^21-1] est abrogée.
 
-[^21-1]: [[RO 2007 5099](https://fedlex.data.admin.ch/eli/oc/2007/719); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)ch I 37 et II 37; **2024** 156]
+[^21-1]: [[RO 2007 5099](https://fedlex.data.admin.ch/eli/oc/2007/719); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)ch I [37](https://fedlex.data.admin.ch/eli/oc/2017/13)et II 37; **2024** 156]
 
 #### Art. 22
 
