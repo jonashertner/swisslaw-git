@@ -4,189 +4,145 @@ number: "497.800"
 title: Vertrag über die Römerstadt Augusta Raurica
 short: Römervertrag
 language: de
-version: 1999-01-01
-valid_until: 2025-12-31
-version_adopted: 1998-05-26
+version: 2026-01-01
+version_adopted: 2025-07-01
 adopted: 2025-07-01
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/497.800"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3700/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6753/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vertrag über die Römerstadt Augusta Raurica
 
-Römerstadt Augusta Raurica: Vertrag | Denkmalschutz / Archäologische Forschung[^t-1][^t-2]
+Denkmalschutz / Archäologische Forschung
 
 (Römervertrag)
 
-Vom 26. Mai 1998 (Stand 1. Januar 1999)
+Vom 1. Juli 2025 (Stand 1. Januar 2026)
 
-Der Kanton Basel-Landschaft, vertreten durch den Regierungsrat, dieser vertreten durch Regierungspräsident Peter Schmid, Vorsteher der Erziehungs- und Kulturdirektion;
+Zwischen den Kantonen Basel-Stadt, Basel-Landschaft und Aargau sowie der Historischen und Antiquarischen Gesellschaft und der Stiftung Pro Augusta Raurica wird,
 
-der Kanton Basel-Stadt, vertreten durch den Regierungsrat, dieser vertreten durch Regierungsrat Stefan Cornaz, Vorsteher des Erziehungsdepartementes;
+gestützt auf § 3 Abs. 1 i. V. m. § 4 Abs. 1 Bst. b) des Kulturfördergesetzes des Kantons Basel-Stadt vom 21. Oktober 2009[^ingress-1]; § 17 des Gesetzes über die Kulturförderung des Kantons Basel-Landschaft (KFG BL) vom 4. Juni 2015[^ingress-2] sowie § 3 Abs. 2 des Kulturgesetzes des Kantons Aargau (KG) vom 31. März 2009[^ingress-3],
 
-der Kanton Aargau, vertreten durch den Regierungsrat, dieser vertreten durch Regierungsrat PeterWertli, Vorsteher des Erziehungsdepartementes;
+folgender Vertrag abgeschlossen:
 
-die Historische und Antiquarische Gesellschaft, vertreten durch Dr. Fritz Nagel, Vorsteher;
-
-die Stiftung Pro Augusta Raurica, vertreten durch Dr. Hansjörg Reinau, Präsident,
-
-schliessen folgenden Vertrag über die Römerstadt Augusta Raurica:
-
-[^t-1]: Ermächtigung des Regierungsrates des Kantons Basel-Stadt durch RRB vom 26. 5. 1998.
-[^t-2]: Dieser Vertrag ist undatiert. Das angegebene Beschlussdatum entspricht dem Datum der Ermächtigung.
+[^ingress-1]: SG [494.300](https://www.gesetzessammlung.bs.ch/data/494.300/de)
+[^ingress-2]: SGS [600](https://db.clex.ch/link/BL/600/de)
+[^ingress-3]: SAR [495.200](https://db.clex.ch/link/AG/495.200/de)
 
 #### § 1
 
-**Zweck**
+**Gegenstand**
 
-<sup>1</sup> Die römische Stadt Augusta Raurica und das Kastell Kaiseraugst sind als Kulturdenkmäler von nationaler Bedeutung der Nachwelt zu erhalten.
+<sup>1</sup> Der Vertrag regelt die Aufgaben und Zuständigkeiten der Vertragsparteien im Zusammenhang mit der Römerstadt Augusta Raurica (römische Stadt) und des spätantiken Kastells Kaiseraugst (Kastell).
 
-<sup>2</sup> Der Öffentlichkeitsarbeit und der sorgfältigen archäologischen Betreuung aller Bodeneingriffe ist besondere Beachtung zu schenken.
-
-<sup>3</sup> Die antiken Fundgegenstände sind zu erhalten, wissenschaftlich zu bearbeiten und der Öffentlichkeit zugänglich zu machen.
+<sup>2</sup> Der Vertragsperimeter umfasst im Kanton Basel-Landschaft die Einwohnergemeinde Augst sowie angrenzende Gebiete der Einwohnergemeinden Pratteln, Füllinsdorf und Giebenach und im Kanton Aargau die Einwohnergemeinde Kaiseraugst.
 
 #### § 2
 
 **Grundsatz**
 
-<sup>1</sup> Die Vertragsparteien verpflichten sich, die in diesem Vertrag übernommenen Aufgaben im Rahmen ihrer Rechtsordnungen beziehungsweise ihrer Stiftungs- oder Vereinsstatute in zeit- und zweckmässiger Art und Weise zu erfüllen.
+<sup>1</sup> Die Vertragsparteien verpflichten sich, die in diesem Vertrag übernommenen Aufgaben im Rahmen ihrer Rechtsordnungen beziehungsweise ihrer Stiftungs- oder Vereinsstatute zeit- und sachgerecht zu erfüllen.
 
-<sup>2</sup> Diese vertragliche Verpflichtung umfasst insbesondere:
-
-- a) die Durchführung von vorgängigen Rettungsgrabungen bei anstehenden Bauprojekten und gegebenenfalls von Forschungsgrabungen;
-- b) die Dokumentation, Inventarisierung und wissenschaftliche Bearbeitung der Grabungsbefunde und der Fundgegenstände;
-- c) die Ausführung der notwendigen Arbeiten zur Erhaltung der Denkmäler (Ruinen) und Fundgegenstände;
-- d) die Führung des Römermuseums mit dem Römerhaus;
-- e) die Vermittlung der Kulturgeschichte der Römerstadt;
-- f) die Anbringung eines angemessenen Hinweises an beweglichen und unbeweglichen Objekten sowie in Publikationen auf die Vertragspartner und Vertragspartnerinnen, die finanziell oder ideell beteiligt sind.
+<sup>2</sup> Die Vertragsparteien sowie Dritte, die sich finanziell oder auf andere Weise an der Aufgabenerfüllung beteiligen, werden in angemessener Weise sichtbar gemacht.
 
 #### § 3
 
-**Grabungen**
+**Schutz und Erhalt**
 
-<sup>1</sup> Der Kanton Basel-Landschaft:
+<sup>1</sup> Die Monumente und Bodendenkmäler der römischen Stadt und des Kastells sind zu schützen und als Kulturdenkmäler von nationaler Bedeutung der Nachwelt langfristig zu erhalten.
 
-- a) führt die Koordination der Dokumentationsarbeiten und der Archivierung aller Grabungen im Vertragsgebiet durch;
-- b) betreibt die zentrale Archivierung aller Grabungsdokumente der Römerstadt;
-- c) führt die Grabungen auf dem Gebiet der Einwohnergemeinden Augst und angrenzender Gebiete der Einwohnergemeinden Pratteln, Füllinsdorf und Giebenach durch.
+<sup>2</sup> Die Konservierung und Restaurierung der Monumente und Bodendenkmäler erfolgen nach aktuellen wissenschaftlichen Standards.
 
-<sup>2</sup> Der Kanton Aargau führt die Grabungen auf seinem Kantonsgebiet durch.
+<sup>3</sup> Der Kanton Basel-Landschaft beaufsichtigt sämtliche Konservierungen und Restaurierungen inklusive der zugehörigen Dokumentationen im Vertragsperimeter.
 
 #### § 4
 
-**Römermuseum**
+**Untersuchung und Dokumentation**
 
-<sup>1</sup> Hauptaufgaben des Römermuseums sind die Vermittlung der Kulturgeschichte der Römerstadt sowie die wissenschaftliche Betreuung und Aufbewahrung aller inventarisierten Fundbestände.
+<sup>1</sup> Sämtliche Bodeneingriffe sind auf ihre archäologische Bedeutsamkeit hin zu prüfen und gegebenenfalls gemäss aktuellen archäologischen Standards zu untersuchen und zu dokumentieren. Archäologische Funde sind zu bergen und zu inventarisieren.
 
-<sup>2</sup> Im Römermuseum werden die römerzeitlichen und spätantiken Fundgegenstände aus dem Vertragsgebiet wissenschaftlich betreut, inventarisiert, aufbewahrt und ausgestellt. Der Kanton Basel-Landschaft haftet für die erforderliche Sorgfalt gegen Schaden und Verlust.
+<sup>2</sup> Die Kantone Basel-Landschaft und Aargau führen die Ausgrabungen auf ihrem Kantonsgebiet durch.
 
-<sup>3</sup> Prähistorische und mittelalterlich-neuzeitliche Fundgegenstände aus dem Vertragsgebiet fallen unter dieselbe Regelung, soweit sie für die Erreichung des Vertragszweckes unmittelbar von Bedeutung sind.
-
-<sup>4</sup> Die Vertragsparteien stellen die in ihrem Besitz befindlichen Fundgegenstände aus dem Vertragsgebiet dem Römermuseum zur vertragsgemässen Verwendung als Deposita zur Verfügung. Über die Ausleihe von Gegenständen mit einem Versicherungswert von über CHF 10'000 (z.B. sämtliche Teile des Silberschatzes) an Dritte entscheidet der Eigentümer oder die Eigentümerin. Er oder sie entscheidet auch über die Anfertigung von Repliken zu Verkaufszwecken, wenn der Versicherungswert der ihnen zugrunde liegenden Originale mehr als CHF l'000 beträgt.
-
-<sup>5</sup> Das Römermuseum steht für weitere Ausstellungen und Aktivitäten über diese Epoche offen.
-
-<sup>6</sup> Das Römermuseum wird vom Kanton Basel-Landschaft betrieben.
+<sup>3</sup> Der Kanton Basel-Landschaft koordiniert die Dokumentationsarbeiten und die Archivierung sämtlicher Ausgrabungen im Vertragsperimeter.
 
 #### § 5
 
-**Konserverierung und Restaurierung der römischen Ruinen und der Fundgegenstände**
+**Sammlung und Archiv**
 
-<sup>1</sup> Die römischen Ruinen und die Fundgegenstände im Vertragsgebiet werden nach wissenschaftlichen Grundsätzen konserviert, restauriert und unterhalten.
+<sup>1</sup> Die archäologischen Funde (Sammlung) und die archäologischen Dokumentationen (Archiv) sind sachgerecht aufzubewahren, zu inventarisieren und zu erschliessen.
 
-<sup>2</sup> Der Kanton Basel-Landschaft führt die Aufsicht über alle Konservierungen und Restaurierungen im Vertragsgebiet.
+<sup>2</sup> Der Kanton Basel-Landschaft ist verantwortlich für die Konservierung und Restaurierung der von ihm verwalteten Fundgegenstände aus dem Vertragsperimeter. Er haftet für die Beschädigung und den Verlust dieser Objekte.
 
-<sup>3</sup> Er betreibt die Werkstätten zur Fundkonservierung.
+<sup>3</sup> Der Kanton Basel-Landschaft führt in Augst ein zentrales Sammlungszentrum, welches die Sammlung und das Archiv betreut, und betreibt die zur Fundkonservierung erforderlichen Werkstätten.
+
+<sup>4</sup> Die Vertragsparteien stellen die in ihrem Besitz befindlichen Fundgegenstände aus dem Vertragsperimeter dem Sammlungszentrum zur vertragsgemässen Verwendung als Deposita zur Verfügung.
+
+<sup>5</sup> Über die Ausleihe von Gegenständen mit einem Versicherungswert von über Fr. 25'000 an Dritte und die Anfertigung von Repliken zu Verkaufszwecken, wenn der Versicherungswert der ihnen zugrundeliegenden Originale mehr als Fr. 2'500 beträgt, entscheidet die Eigentümerschaft.
 
 #### § 6
 
-**Grundeigentum**
+**Auswertung und Forschung**
 
-<sup>1</sup> Der Kanton Basel-Landschaft verwaltet die von den Vertragsparteien zum archäologischen Schutz erworbenen Grundstücke im Vertragsgebiet und nutzt sie im Rahmen des Vertragszweckes unentgeltlich.
+<sup>1</sup> Der Kanton Basel-Landschaft koordiniert die Grundlagenerhebung sowie die Auswertungs- und Forschungsarbeiten zur Erweiterung des historischen Wissens über die römische Stadt und das Kastell. Er stellt der Wissenschaft alle verfügbaren Informationsquellen zur Verfügung.
 
-<sup>2</sup> Der Kanton Basel-Landschaft übernimmt die Werkeigentümerhaftung. Er tritt gegenüber Dritten im Rahmen seiner vertraglichen Verpflichtungen als Bevollmächtigter der Eigentümer und Eigentümerinnen auf.
-
-<sup>3</sup> Beabsichtigte Veränderungen in den Eigentumsverhältnissen an den Grundstücken und in ihrer jeweiligen Nutzung sind allen Vertragsparteien frühzeitig zur Kenntnis zu bringen.
+<sup>2</sup> Die Berichterstattung umfasst insbesondere die Herausgabe von Jahresberichten und Publikationen, die über die Ergebnisse der wissenschaftlichen Arbeit informieren.
 
 #### § 7
 
-**Finanzielles**
+**Vermittlung und Öffentlichkeitsarbeit**
 
-<sup>1</sup> Der Kanton Basel-Landschaft trägt, unter Vorbehalt der nachfolgenden Bestimmungen, alle sich aus diesem Vertrag ergebenden Kosten.
+<sup>1</sup> Der Kanton Basel-Landschaft betreibt in Augst ein Museum und ein Vermittlungszentrum für römische Kulturgeschichte und Archäologie.
 
-<sup>2</sup> Der Kanton Basel-Stadt leistet einen Pauschalbeitrag von CHF 100'000 per annum.
+<sup>2</sup> Der Öffentlichkeit werden archäologische Methoden, kulturgeschichtliches Wissen und die Ergebnisse der wissenschaftlichen Arbeit mittels Ausstellungen, Vermittlungsangeboten, Publikationen und anderen Medien auf lebendige Art präsentiert und erläutert.
 
-<sup>3</sup> Der Kanton Aargau übernimmt:
+<sup>3</sup> Das Museum ist als Freilichtmuseum ein nachhaltiger und naturnaher Begegnungs- und Erlebnisort.
 
-- a) die effektiven Kosten für die Ausgrabungen auf seinem Kantonsgebiet;
-- b) die effektiven Kosten für den Ruinendienst und die Konservierungen und Restaurierungen an Fundgegenständen und Denkmälern aus bzw. auf seinem Kantonsgebiet;
-- c) einen jährlichen Pauschalbeitrag von CHF 80'000 an das Römermuseum für die Inventarisierung, Lagerbewirtschaftung und museologische Aufbereitung der Kaiseraugster Fundgegenstände.
+<sup>4</sup> Die Zusammenarbeit des Museums und des Vermittlungszentrums mit Museen in den Kantonen Basel-Stadt und Aargau wird vertraglich geregelt.
 
-<sup>4</sup> Die Einzelheiten gemäss Absatz 3 werden zwischen dem Kanton Basel-Landschaft und dem Kanton Aargau geregelt.
-
-<sup>5</sup> Die Stiftung Pro Augusta Raurica und die Historische und Antiquarische Gesellschaft zu Basel verpflichten sich im Rahmen ihres jeweiligen Stiftungs- und Vereinszweckes zur Mithilfe bei der Erreichung des Vertragszieles.
+<sup>5</sup> Der Kanton Basel-Landschaft legt die Gebühren für den Eintritt und die Dienstleistungen des Museums und des Vermittlungszentrums fest. Für Bildungsinstitutionen aus den 3 Vertragskantonen ist der Museumseintritt unentgeltlich.
 
 #### § 8
 
-**Kommission Augusta Raurica**
+**Grundeigentum**
 
-<sup>1</sup> Die Kommission Augusta Raurica amtet als Experten-, Informations- und Koordinationsgremium im Interesse der Römerstadt Augusta Raurica und des Kastells Kaiseraugst.
+<sup>1</sup> Der Kanton Basel-Landschaft verwaltet die von den Vertragsparteien zum archäologischen Schutz erworbenen Grundstücke im Vertragsperimeter und nutzt sie im Rahmen des Vertragszweckes unentgeltlich.
 
-<sup>2</sup> Die Kommission wird von den zuständigen Stellen regelmässig über die Angelegenheiten von Augusta Raurica informiert. Sie wird vor wichtigen Entscheidungen rechtzeitig angehört.
+<sup>2</sup> Die Kantone Basel-Landschaft und Aargau übernehmen die Werkeigentümerhaftung für die Grundstücke auf ihrem Kantonsgebiet und treten gegenüber Dritten im Rahmen ihrer vertraglichen Verpflichtungen als Bevollmächtigte der Eigentümerschaft auf.
 
-<sup>3</sup> Sie besteht aus je einem Mitglied der Vertragspartner.
-
-<sup>4</sup> Der Kanton Basel-Landschaft und der Kanton Aargau entsenden je ein weiteres Mitglied in die Kommission.
-
-<sup>5</sup> Die Einwohnergemeinden Augst und Kaiseraugst entsenden je ein Mitglied in die Kommission.
-
-<sup>6</sup> Alle Mitglieder werden vom Regierungsrat des Kantons Basel-Landschaft auf Vorschlag des jeweiligen Vertragspartners und der beiden Einwohnergemeinden gewählt.
-
-<sup>7</sup> Die Kommission konstituiert sich selbst.
-
-<sup>8</sup> Die Leitung der Römerstadt Augusta Raurica nimmt beratend an den Sitzungen der Kommission teil und führt das Sekretariat der Kommission.
+<sup>3</sup> Beabsichtigte Veränderungen bei den Eigentumsverhältnissen an den Grundstücken und ihrer jeweiligen Nutzung sind allen Vertragsparteien frühzeitig zur Kenntnis zu bringen.
 
 #### § 9
 
-**Kündigung**
+**Finanzierung und Mithilfe**
 
-<sup>1</sup> Dieser Vertrag kann unter Einhaltung einer Kündigungsfrist von 4 Jahren jeweils auf das Jahresende gekündigt werden.
+<sup>1</sup> Der Kanton Basel-Landschaft trägt, unter Vorbehalt der nachfolgenden Bestimmungen, alle sich aus diesem Vertrag ergebenden Kosten.
+
+<sup>2</sup> Der Kanton Aargau übernimmt:
+
+- a) bei den Monumenten und Bodendenkmälern auf seinem Kantonsgebiet die Kosten für:
+  - 1\. Schutz und Erhalt (§ 3),
+  - 2\. Untersuchung und Dokumentation (§ 4);
+- b) einen Kostenanteil für Sammlung und Archiv (§ 5).
+
+<sup>3</sup> Die Kantone Basel-Landschaft und Aargau regeln die Einzelheiten zur Kostenübernahme und zum Kostenanteil gemäss Absatz 2 in einem Leistungsvertrag.
+
+<sup>4</sup> Der Kanton Basel-Stadt leistet einen Pauschalbeitrag in der Höhe von Fr. 100'000.– pro Kalenderjahr.
+
+<sup>5</sup> Die Stiftung Pro Augusta Raurica und die Historische und Antiquarische Gesellschaft zu Basel verpflichten sich im Rahmen ihres jeweiligen Stiftungs- beziehungsweise Vereinszwecks zur Mithilfe bei der Aufgabenerfüllung.
 
 #### § 10
 
-**Schlussbestimmungen**
+**Kündigung**
 
-<sup>1</sup> Der Vertrag über die Römerforschung vom 10. März / 29. April / 3. Juni / 12. August / 11. September 1975 wird aufgehoben.
+<sup>1</sup> Der Vertrag kann von jeder Vertragspartei unter Einhaltung einer Kündigungsfrist von 4 Jahren jeweils auf das Jahresende hin gekündigt werden.
 
-<sup>2</sup> Dieser Vertrag tritt am 1. Januar 1999 in Kraft.
+<sup>2</sup> Die verbleibenden Vertragsparteien verständigen sich rechtzeitig über Weiterführung, Anpassung oder Auflösung des Vertrags.
 
-Erziehungs- und Kulturdirektion des Kantons Basel-Landschaft
+Der Vertrag ist zu publizieren[^footer-1]. Er tritt am 1. Januar 2026 in Kraft. Auf den gleichen Zeitpunkt wird der Vertrag über die Römerstadt Augusta Raurica (Römervertrag) vom 24. März 1998 aufgehoben.
 
-Regierungspräsident Peter Schmid
+KB 17.01.2021
 
-Vom Regierungsrat des Kantons Basel-Landschaft genehmigt am 24. März 1998.
-
-Erziehungsdepartement des Kantons Basel-Stadt
-
-Regierungsrat Stefan Cornaz
-
-Erziehungsdepartement des Kantons Aargau
-
-Regierungsrat Peter Wertli
-
-Vom Regierungsrat des Kantons Aargau genehmigt am 31. März 1998.
-
-Historische und Antiquarische Gesellschaft zu Basel
-
-Der Vorsteher: Dr. Fritz Nagel
-
-Der Statthalter: Dr. Franz Egger
-
-Stiftung Pro Augusta Raurica
-
-Der Präsident: Dr. Hansjörg Reinau
-
-00.00.0000
+[^footer-1]: Publiziert am 17. Januar 2026.
