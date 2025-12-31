@@ -4,13 +4,12 @@ number: "351.53"
 title: Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen
 short: VKB
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-13
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/351.53"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3435/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3832/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3435/pdf_file"
 
 (VKB)
 
-vom 11.12.2007 (Stand 01.01.2023)
+vom 11.12.2007 (Stand 01.01.2026)
 
 Die Regierung des Kantons St.Gallen
 
@@ -171,16 +170,24 @@ als Verordnung:[^ingress-2]
 
 **Angebote des betreuten Wohnens a) Anerkennung**
 
-<sup>1</sup> Anbieter des betreuten Wohnens reichen das Gesuch um Anerkennung dem Amt für Soziales ein. Es enthält:
+<sup>1</sup> Anbieter des betreuten Wohnens reichen das Gesuch um Anerkennung beim zuständigen Departement ein. Es enthält:
 
 - a) Bedarfsausweis der zuständigen Behörde;
 - b) Angaben zur Trägerschaft des Angebots;
 - c) Nachweis, wonach die Bauten die Vorgaben der Norm SIA 500 «Hindernisfreie Bauten» erfüllen. Kann der Nachweis nicht erbracht werden, ist die fehlende Notwendigkeit konzeptionell zu begründen;
 - d) Beschreibung des Leistungsangebots, insbesondere Sicherheitsleistungen und Bereitstellung der Grundbetreuung.
 
-<sup>2</sup> Das Departement des Innern erteilt und entzieht die Anerkennung von Anbietern des betreuten Wohnens.
+<sup>2</sup> Das zuständige Departement:
 
-<sup>3</sup> Zuständige Stelle für die regelmässige Überprüfung der Anerkennungsvoraussetzungen ist das Amt für Soziales.
+- a) erteilt und entzieht die Anerkennung von Anbietern des betreuten Wohnens;
+- b) überprüft regelmässig die Anerkennungsvoraussetzungen.
+
+<sup>3</sup> …
+
+<sup>4</sup> Zuständiges Departement ist:
+
+- a) das Departement des Innern für Anbieter des betreuten Wohnens, die nicht auf der Pflegeheimliste aufgeführt sind;
+- b) das Gesundheitsdepartement für Anbieter des betreuten Wohnens, die auf der Pflegeheimliste aufgeführt sind.
 
 #### Art. 9b
 
