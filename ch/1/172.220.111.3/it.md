@@ -4,11 +4,11 @@ title: Ordinanza del 3 luglio 2001 sul personale federale (OPers)
 short: OPers
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/319"
 language: it
-version: 2025-02-01
+version: 2026-01-01
 adopted: 2001-07-03
 in_force: 2002-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20250201-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/319/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2001-319-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/319/20250201/it"
 
 (OPers)
 
-del 3 luglio 2001 (Stato 1° febbraio 2025)
+del 3 luglio 2001 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -68,7 +68,7 @@ Non sottostanno alla presente ordinanza:
 [^1-4]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
 [^1-5]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^1-6]: Nuovo testo giusta la cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^1-7]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1, **1998** 1822 art. 2; **1999** 2374 cifra I n. 2; **2003** 187 all. cifra II 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra I n. 1]. Vedi ora la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
+[^1-7]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687); [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)cifra I n. 21; [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 n. 3; [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)all. n. 4; [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)all. n. 17, [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 n. 1; [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 cpv. 2 e all. n. 1, **1998** 1822 art. 2; **1999** 2374 cifra I n. 2; **2003** 187 all. cifra II n. 2. [RU 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra I n. 1]. Vedi ora la LF del 13 dic. 2002 ([RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)).
 [^1-8]: [RS 822.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9920)
 [^1-9]: Nuovo testo giusta l’art. 42 n. 1 dell’O del 2 dic. 2005 sul personale impiegato per la promozione della pace, il rafforzamento dei diritti dell’uomo e l’aiuto umanitario, in vigore dal 1° gen. 2006 ([RU 2005 5607](https://fedlex.data.admin.ch/eli/oc/2005/764)).
 [^1-10]: [RS 172.220.111.9](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5376)
@@ -226,7 +226,7 @@ I Dipartimenti prendono le misure mirate per:
 
 I dipartimenti prendono le misure di promozione del plurilinguismo di cui agli articoli 6–8*d* dell’ordinanza del 4 giugno 2010[^7-2] sulle lingue.
 
-[^7-1]: Nuovo testo giusta la cifra I I 3 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^7-1]: Nuovo testo giusta la cifra II n. 3 dell’O del 27 ago. 2014, in vigore dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^7-2]: [RS 441.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7102)
 
 #### Art. 8
@@ -377,7 +377,11 @@ I Dipartimenti provvedono, tenendo conto delle esigenze di servizio, a che gli i
 
 [^14-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
-### Sezione 2: Colloquio con il collaboratore e valutazione del personale
+### Sezione 2: Dialogo e valutazione del personale
+
+[^chap2-sec2-1]
+
+[^chap2-sec2-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 15
 
@@ -385,48 +389,36 @@ I Dipartimenti provvedono, tenendo conto delle esigenze di servizio, a che gli i
 
 ### (art. 4 cpv. 3 LPers)
 
-<sup>1</sup> Una volta all’anno i superiori effettuano con ogni loro collaboratore un colloquio e una valutazione.
+<sup>1</sup> I superiori promuovono il dialogo con i propri collaboratori fornendo loro riscontri in merito alla collaborazione, alle prestazioni e al comportamento. I collaboratori possono ricevere riscontri anche da altri collaboratori o richiederli agli stessi.
 
-<sup>2</sup> Il colloquio serve allo sviluppo professionale del collaboratore, a verificarne la situazione lavorativa e a convenire gli obiettivi.[^15-1]
+<sup>2</sup> I superiori effettuano la valutazione del personale nel quadro del colloquio annuale con i collaboratori.
 
-<sup>3</sup> La valutazione del personale costituisce la base per l’evoluzione dello stipendio, attuata in funzione degli obiettivi convenuti in materia di prestazioni, comportamento e capacità.
+<sup>3</sup> Il colloquio serve alla valutazione delle prestazioni e del comportamento, allo sviluppo professionale dei collaboratori nonché a verificare la situazione lavorativa e gestionale.
 
-<sup>3bis</sup> L’evoluzione dello stipendio è concessa solo se l’impiegato, nonostante assenze prolungate, è stato presente sufficientemente a lungo durante il periodo di valutazione per poterne valutare le prestazioni, il comportamento e le capacità.[^15-2]
+<sup>4</sup> Se un impiegato è assente per un periodo prolungato durante il periodo di valutazione, la valutazione del personale è effettuata se l’impiegato è stato presente sufficientemente a lungo per poter valutare l’adempimento dei requisiti di cui all’articolo 16 capoverso 1.
 
-<sup>4</sup> Il colloquio con il collaboratore e la valutazione del personale si effettuano nel rispetto degli obiettivi fondamentali dell’Amministrazione federale in materia di politica del personale.
-
-<sup>5</sup> Il collaboratore fornisce annualmente riscontri al proprio superiore sul modo in cui gestisce l’unità.[^15-3]
-
-[^15-1]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
-[^15-2]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^15-3]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+<sup>5</sup> Il collaboratore fornisce ai propri superiori riscontri sul loro comportamento gestionale.
 
 #### Art. 16
 
-**Criteri di valutazione**
+**Criteri di valutazione e motivazione**
 
 ### (art. 4 cpv. 3 LPers)
 
-<sup>1</sup> Criteri extraprofessionali quali sesso, età, lingua, posizione, nazionalità o religione non devono intervenire nella valutazione del personale e nella fissazione dello stipendio. Nell’ambito della formazione ai colloqui di valutazione, della loro preparazione e del loro svolgimento è indispensabile prestare particolare attenzione agli eventuali influssi che tali criteri possono esercitare sulla percezione e sul giudizio.
+<sup>1</sup>
 
-<sup>2</sup> I collaboratori sono informati sui principi determinanti per il colloquio, la valutazione del personale e la retribuzione.
+Ai fini della valutazione delle prestazioni e del comportamento sono determinanti:
+
+- a. l’adempimento dei requisiti menzionati nella descrizione del posto e nel codice di comportamento per il personale dell’Amministrazione federale;
+- b. il raggiungimento di eventuali obiettivi convenuti.
+
+<sup>2</sup> Se i requisiti di cui al capoverso 1 sono stati adempiuti ampiamente, non adempiuti pienamente o non adempiuti, i superiori ne forniscono le motivazioni per scritto.
+
+<sup>3</sup> Criteri extraprofessionali quali sesso, età, lingua, posizione, nazionalità o religione non devono intervenire nella valutazione del personale e nei riscontri periodici.
 
 #### Art. 17
 
-**Livelli di valutazione**[^17-1]
-
-### (art. 4 cpv. 3 LPers)
-
-Le prestazioni e il comportamento degli impiegati sono valutati come segue:
-
-- a. livello di valutazione 4: molto buono;
-- b. livello di valutazione 3: buono;
-- c.[^17-2] livello di valutazione 2: sufficiente;
-- d.[^17-3] livello di valutazione 1: insufficiente.
-
-[^17-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3403](https://fedlex.data.admin.ch/eli/oc/2014/592)).
-[^17-2]: La correzione del 22 dic. 2015 concerne solo il testo francese ([RU 2015 5919](https://fedlex.data.admin.ch/eli/oc/2015/903)).
-[^17-3]: La correzione del 22 dic. 2015 concerne solo il testo francese ([RU 2015 5919](https://fedlex.data.admin.ch/eli/oc/2015/903)).
+Abrogato
 
 ### Sezione 3: Coordinamento e rapporti
 
@@ -467,7 +459,7 @@ Il servizio specializzato nelle questioni di politica del personale è l’Uffic
 [^18-2]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-3]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-4]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^18-5]: Abrogata dalla cifra I I 3 dell’O del 27 ago. 2014, con effetto dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
+[^18-5]: Abrogata dalla cifra II n. 3 dell’O del 27 ago. 2014, con effetto dal 1° ott. 2014 ([RU 2014 2987](https://fedlex.data.admin.ch/eli/oc/2014/504)).
 [^18-6]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-7]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^18-8]: Introdotta dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
@@ -559,13 +551,13 @@ I rapporti vertono in particolare su:
 - c. la soddisfazione procurata dal lavoro;
 - d. la qualifica del personale.
 
-<sup>3</sup> Il DFF informa ogni anno il Consiglio federale in merito alla ripartizione degli stipendi secondo i quattro livelli di valutazione e all’assegnazione di premi di prestazione e di altri assegni importanti e ne espone le conseguenze finanziarie.[^21-1]
+<sup>3</sup> Il DFF informa ogni anno il Consiglio federale in merito all’evoluzione dello stipendio attuata in funzione delle valutazioni del personale nonché all’assegnazione di premi di prestazione e di altri assegni importanti e ne espone le ripercussioni finanziarie.[^21-1]
 
 <sup>4</sup> Per riferire in modo puntuale ed esaustivo, i Dipartimenti impiegano il sistema informatico di gestione del personale dell’Amministrazione federale.
 
 <sup>5</sup> Il DFF può effettuare inchieste presso il personale e le unità amministrative.
 
-[^21-1]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 ## Capitolo 3: Costituzione, modifica e risoluzione del rapporto di lavoro
 
@@ -762,19 +754,21 @@ Il contratto di lavoro concluso con i collaboratori personali dei capi di Dipart
 Per le seguenti categorie di personale il periodo di prova può essere fissato per contratto a sei mesi al massimo:
 
 - a. personale militare;
-- b.[^27-2] aspiranti del Corpo delle guardie di confine e delle dogane nonché collaboratori del Controllo dei metalli preziosi;
+- b.[^27-2] aspiranti al titolo di specialista dogana e sicurezza dei confini in formazione nonché collaboratori del Controllo dei metalli preziosi;
 - c. ispettori fiscali dell’Amministrazione federale delle contribuzioni;
 - d. persone nominate dal Consiglio federale secondo l’articolo 2 capoverso 1;
 - e. collaboratori del Servizio delle attività informative della Confederazione aventi regolarmente accesso a informazioni sensibili;
 - f.[^27-3] periti revisori ed esperti in valutazioni del Controllo federale delle finanze;
-- g.[^27-4] impiegati del DFAE soggetti all’obbligo di trasferimento o che sono impiegati all’estero, ad eccezione degli impiegati che sono assunti a tempo determinato per la durata di una formazione.
+- g.[^27-4] impiegati del DFAE soggetti all’obbligo di trasferimento o che sono impiegati all’estero, ad eccezione degli impiegati che sono assunti a tempo determinato per la durata di una formazione;
+- h.[^27-5] assistenti di sicurezza pubblica dell’Ufficio federale di polizia.
 
 <sup>3</sup> Di comune intesa le parti possono rinunciare al periodo di prova o concordarne uno più breve.
 
 [^27-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^27-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^27-3]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^27-4]: Introdotta dalla cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^27-5]: Introdotta dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 28
 
@@ -848,53 +842,73 @@ Qualora il datore di lavoro, trascorso il periodo di prova, disdica il rapporto 
 
 #### Art. 31
 
-**Risoluzione del rapporto di lavoro per colpa**
+**Cessazione del diritto alla continuazione del rapporto di lavoro e al sostegno alla transizione professionale in caso di risoluzione del rapporto di lavoro**[^31-1]
 
 ### (art. 19 cpv. 1 e 2 LPers)
 
-<sup>1</sup>
+Non sussiste alcun diritto alla continuazione del rapporto di lavoro e al sostegno alla transizione professionale di cui all’articolo 19 capoversi 1 e 2 LPers:
 
-La risoluzione del rapporto di lavoro è considerata come dovuta a una colpa dell’impiegato se:
+- a. in caso di risoluzione di contratti di lavoro a tempo determinato e indeterminato per uno dei motivi menzionati nell’articolo 10 capoverso 3 lettere a–d e f LPers oppure per un altro motivo oggettivo dovuto a colpa dell’impiegato;
+- b. in caso di disdetta senza preavviso;
+- c. se un impiegato soggetto all’obbligo di trasferimento rinuncia volontariamente alla cittadinanza svizzera;
+- d. se un impiegato soggetto all’obbligo di trasferimento rifiuta di trasferirsi.
 
-- a.[^31-1] il datore di lavoro risolve il rapporto per uno dei motivi menzionati nell’articolo 10 capoversi 3 lettere a–d o 4 LPers oppure per un altro motivo oggettivo dovuto a una colpa dell’impiegato;
-- b. l’impiegato rifiuta di svolgere, presso un datore di lavoro secondo l’articolo 3 LPers, un altro lavoro che si può ragionevolmente pretendere da lui;
-- c.[^31-2] l’impiegato del DFAE soggetto all’obbligo di trasferimento rinuncia volontariamente alla cittadinanza svizzera;
-- d. l’impiegato soggetto all’obbligo di trasferimento si rifiuta di trasferirsi.
-
-<sup>2</sup> …[^31-3]
-
-[^31-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^31-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^31-3]: Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^31-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 31a
 
-**Disdetta in caso d’impedimento al lavoro per malattia o infortunio**[^31a-1]
+**Misure in caso di incapacità o inattitudine**[^31a-1]
+
+### (art. 19 cpv. 1 *LPers*)
+
+In caso di incapacità o inattitudine dell’impiegato, prima di recedere dal rapporto di lavoro il datore di lavoro si adopera per offrirgli un’altra occupazione ragionevolmente esigibile.
+
+[^31a-1]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+
+#### Art. 31b
+
+**Disdetta in caso d’impedimento al lavoro per malattia o infortunio**[^31b-1]
 
 ### (art. 10 cpv. 3 e 12 cpv. 2 LPers)
 
-<sup>1</sup> In caso di impedimento al lavoro per malattia o infortunio, una volta decorso il periodo di prova il datore di lavoro può disdire il rapporto di lavoro in via ordinaria al più presto al termine di un periodo di impedimento al lavoro durato almeno due anni.[^31a-2]
+<sup>1</sup> In caso di impedimento al lavoro per malattia o infortunio, una volta decorso il periodo di prova il datore di lavoro può disdire il rapporto di lavoro in via ordinaria al più presto al termine di un periodo di impedimento al lavoro durato almeno due anni.[^31b-2]
 
-<sup>2</sup> Se un motivo di disdetta secondo l’articolo 10 capoverso 3 LPers esisteva già prima dell’inizio dell’impedimento al lavoro per malattia o infortunio, il datore di lavoro può disdire il rapporto di lavoro prima del termine del periodo di cui al capoverso 1 una volta decorsi i periodi di protezione in virtù dell’articolo 336*c* capoverso 1 lettera b CO[^31a-3], a condizione che il motivo di disdetta sia stato comunicato all’impiegato prima dell’inizio dell’impedimento al lavoro. È fatta salva la disdetta fondata sull’articolo 10 capoverso 3 lettera c LPers, a condizione che l’incapacità o l’inattitudine sia dovuta a motivi di salute.[^31a-4]
+<sup>2</sup> Se un motivo di disdetta secondo l’articolo 10 capoverso 3 LPers esisteva già prima dell’inizio dell’impedimento al lavoro per malattia o infortunio, il datore di lavoro può disdire il rapporto di lavoro prima del termine del periodo di cui al capoverso 1 una volta decorsi i periodi di protezione in virtù dell’articolo 336*c* capoverso 1 lettera b CO[^31b-3], a condizione che il motivo di disdetta sia stato comunicato all’impiegato prima dell’inizio dell’impedimento al lavoro. È fatta salva la disdetta fondata sull’articolo 10 capoverso 3 lettera c LPers, a condizione che l’incapacità o l’inattitudine sia dovuta a motivi di salute.[^31b-4]
 
-<sup>3</sup> In caso di impedimento al lavoro a seguito di una nuova malattia o di un nuovo infortunio o a seguito del ripetersi di una malattia o di conseguenze di un infortunio, il periodo di cui al capoverso 1 ricomincia a decorrere, a condizione che precedentemente l’impiegato sia stato abile al lavoro secondo il proprio tasso di occupazione per almeno 12 mesi consecutivi. Le assenze di breve durata non sono prese in considerazione. In caso di passaggio a un’altra unità amministrativa secondo l’articolo 1 capoverso 1 nel quadro di un provvedimento d’integrazione secondo l’articolo 11*a*, il periodo non riprende a decorrere.[^31a-5] [^31a-6]
+<sup>3</sup> In caso di impedimento al lavoro a seguito di una nuova malattia o di un nuovo infortunio o a seguito del ripetersi di una malattia o di conseguenze di un infortunio, il periodo di cui al capoverso 1 ricomincia a decorrere, a condizione che precedentemente l’impiegato sia stato abile al lavoro secondo il proprio tasso di occupazione per almeno 12 mesi consecutivi. Le assenze di breve durata non sono prese in considerazione. In caso di passaggio a un’altra unità amministrativa secondo l’articolo 1 capoverso 1 nel quadro di un provvedimento d’integrazione secondo l’articolo 11*a*, il periodo non riprende a decorrere.[^31b-5] [^31b-6]
 
 <sup>4</sup> Se l’impiegato si rifiuta di collaborare ai provvedimenti d’integrazione di cui all’articolo 11*a* oppure non segue le prescrizioni mediche secondo l’articolo 56 capoverso 4, il datore di lavoro può disdire il rapporto di lavoro prima del termine del periodo di cui al capoverso 1, a condizione che esista un motivo di disdetta secondo l’articolo 10 capoversi 3 e 4 LPers.
 
 <sup>5</sup> Il datore di lavoro può disdire per inattitudine, prima del termine del periodo di cui al capoverso 1, il rapporto di lavoro di un impiegato nei confronti del quale l’assicurazione per l’invalidità ha riconosciuto una permanente incapacità parziale al lavoro, a condizione che gli sia offerto un lavoro ragionevolmente esigibile. La disdetta può avvenire al più presto con effetto dall’inizio del versamento della rendita d’invalidità.
 
-[^31a-1]: Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^31a-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^31a-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
-[^31a-4]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
-[^31a-5]: Per. introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
-[^31a-6]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^31b-1]: Originario art. 31*a*. Introdotto dalla cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^31b-2]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^31b-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^31b-4]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^31b-5]: Per. introdotto dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^31b-6]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
 
 #### Art. 32
 
-[^32-1]
+**Avvertimento, disdetta e attribuzione a un posto che richiede requisiti minori**[^32-1]
 
-[^32-1]: Abrogato dalla cifra I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+### (art. 10 *cpv*. 3 LPers)
+
+<sup>1</sup> Prima di disdire il rapporto di lavoro, il datore di lavoro concorda misure di sviluppo con l’impiegato, se tale provvedimento appare opportuno. Se non sono concordate misure di sviluppo o se, nonostante le misure, l’obiettivo perseguito non è raggiunto, il datore di lavoro invia per scritto un avvertimento all’impiegato. Gli impartisce un termine adeguato affinché migliori le prestazioni o il comportamento.
+
+<sup>2</sup>
+
+È possibile rinunciare a un avvertimento se:
+
+- a. fin dall’inizio sembra privo di possibilità di successo;
+- b. il motivo della disdetta non è imputabile all’impiegato; oppure
+- c. il rapporto di fiducia tra le parti è già irrimediabilmente compromesso.
+
+<sup>3</sup> Se, dopo la scadenza del termine di cui al capoverso 1, l’impiegato non adempie o non adempie pienamente i requisiti posti alle prestazioni e al comportamento di cui all’articolo 16 capoverso 1, il datore di lavoro può disdire il rapporto di lavoro.
+
+<sup>4</sup> Invece di disdire il rapporto di lavoro, il datore di lavoro può attribuire all’impiegato un posto che richiede requisiti minori. Se il posto attribuito è inquadrato in una classe inferiore di stipendio, la classe di stipendio e lo stipendio sono adeguati nel contratto di lavoro. L’articolo 52*a* non è applicabile.
+
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 33 e 34
 
@@ -906,7 +920,7 @@ La risoluzione del rapporto di lavoro è considerata come dovuta a una colpa del
 
 [^34a-1]
 
-[^34a-1]: Introdotto dalla cifra I I 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, con effetto dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Vedi tuttavia le disp. trans. all’art. 8 di detta mod.
+[^34a-1]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, con effetto dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)). Vedi tuttavia le disp. trans. all’art. 8 di detta mod.
 
 #### Art. 35
 
@@ -1032,23 +1046,47 @@ Qualora la capacità di rendimento di una persona sia ridotta a causa di problem
 
 ### (art. 15 LPers)
 
-<sup>1</sup> L’importo massimo della classe di stipendio stabilita nel contratto di lavoro, compresa un’eventuale assegnazione a una classe superiore ai sensi dell’articolo 52 capoverso 6, funge da base di calcolo dell’evoluzione dello stipendio in funzione della valutazione del personale e dell’esperienza.
+<sup>1</sup>
 
-<sup>2</sup> Se le prestazioni corrispondono al livello di valutazione 4, lo stipendio è aumentato del 3–4 per cento ogni anno fino a raggiungere l’importo massimo della classe di stipendio.[^39-2]
+L’evoluzione dello stipendio dell’impiegato si basa su una curva di evoluzione. La curva di evoluzione dello stipendio inizia, senza anni di esperienza computabili, con il 110 per cento dell’importo minimo della classe di stipendio e aumenta come indicato di seguito:
 
-<sup>3</sup> Se le prestazioni corrispondono al livello di valutazione 3, lo stipendio è aumentato del 1,5–2,5 per cento ogni anno fino a raggiungere l’importo massimo della classe di stipendio.[^39-3]
+- a. per gli anni di esperienza da 1 a 5: del 2,75 per cento all’anno dell’importo minimo della classe di stipendio;
+- b. per gli anni di esperienza da 6 a 10: del 2,25 per cento all’anno dell’importo minimo della classe di stipendio;
+- c. per gli anni di esperienza da 11 a 15: dell’1,75 per cento all’anno dell’importo minimo della classe di stipendio;
+- d. per gli anni di esperienza da 16 a 20: dell’1,25 per cento all’anno dell’importo minimo della classe di stipendio.
 
-<sup>4</sup> Se le prestazioni corrispondono al livello di valutazione 2, lo stipendio può essere aumentato dell’1 per cento al massimo ogni anno fino a raggiungere l’importo massimo della classe di stipendio.[^39-4]
+<sup>2</sup> Ogni anno i superiori ricevono una proposta per l’evoluzione dello stipendio degli impiegati. Tale proposta è calcolata sulla base dell’andamento della curva di evoluzione dello stipendio in funzione degli anni di esperienza e del rapporto tra lo stipendio attuale e la curva di evoluzione dello stipendio. Il DFF disciplina i dettagli relativi al calcolo.
 
-<sup>5</sup> Se le prestazioni corrispondono al livello di valutazione 1, lo stipendio può essere diminuito ogni anno al massimo del 4 per cento dell’importo massimo della classe di stipendio.[^39-5]
+<sup>3</sup> Se un impiegato soddisfa i requisiti di cui all’articolo 16 capoverso 1, i superiori richiedono un’evoluzione dello stipendio secondo la proposta di cui al capoverso 2.
 
-<sup>6</sup> Gli uffici federali e le unità amministrative ad essi equiparabili stabiliscono lo stipendio su domanda dei superiori diretti degli impiegati. I dipartimenti, gli uffici federali e le unità amministrative ad essi equiparabili possono emanare direttive.
+<sup>4</sup> Se un impiegato è assente per un periodo prolungato durante il periodo di valutazione, l’evoluzione dello stipendio è concessa se l’impiegato è stato presente sufficientemente a lungo per permettere di valutare l’adempimento dei requisiti di cui all’articolo 16 capoverso 1.
 
-[^39-1]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
-[^39-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^39-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^39-4]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^39-5]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+<sup>5</sup> Gli uffici federali e le unità amministrative a essi equiparabili stabiliscono l’evoluzione dello stipendio di cui al capoverso 3 e all’articolo 39*a* capoversi 1–3 su richiesta dei superiori diretti. Possono delegare la decisione a unità amministrative subordinate o ai superiori. I dipartimenti possono emanare direttive.
+
+<sup>6</sup> I collaboratori ricevono chiarimenti sulle basi di calcolo dello stipendio e della sua evoluzione.
+
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+
+#### Art. 39a
+
+**Scostamenti dalla proposta di evoluzione dello stipendio**[^39a-1]
+
+### (art. 15 LPers)
+
+<sup>1</sup>
+
+Se un impiegato adempie ampiamente i requisiti di cui all’articolo 16 capoverso 1, i superiori possono richiedere uno scostamento verso l’alto dalla proposta di cui all’articolo 39 capoverso 2 come segue:
+
+- a. fino allo 0,5 per cento dello stipendio attuale, se lo stipendio è pari o superiore al valore della curva di evoluzione dello stipendio di cui all’articolo 39 capoverso 1, al massimo fino all’importo massimo previsto dalla classe di stipendio;
+- b. fino all’1,0 per cento dello stipendio attuale, se lo stipendio è inferiore al valore della curva di evoluzione dello stipendio di cui all’articolo 39 capoverso 1.
+
+<sup>2</sup> Se un impiegato non adempie pienamente i requisiti di cui all’articolo 16 capoverso 1, i superiori richiedono una riduzione adeguata della proposta di evoluzione dello stipendio.
+
+<sup>3</sup> Se un impiegato non adempie i requisiti di cui all’articolo 16 capoverso 1, i superiori propongono di rinunciare all’evoluzione dello stipendio. Un’evoluzione negativa dello stipendio non è possibile.
+
+<sup>4</sup> Uno scostamento dalla proposta di evoluzione dello stipendio di cui ai capoversi 1–3 va motivata per scritto al collaboratore.
+
+[^39a-1]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 40
 
@@ -1058,7 +1096,7 @@ Qualora la capacità di rendimento di una persona sia ridotta a causa di problem
 
 Se lo stipendio è troppo basso rispetto ad altri stipendi, l’autorità competente ai sensi dell’articolo 2 può adeguarlo. L’adeguamento può avvenire in una volta sola o a tappe e non può superare il 10 per cento dell’importo massimo della classe di stipendio stabilita nel contratto di lavoro. Lo stipendio così adeguato non può superare l’importo massimo della classe di stipendio.
 
-[^40-1]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^40-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 41
 
@@ -1070,17 +1108,13 @@ Lo stipendio è versato in tredici parti.
 
 #### Art. 42
 
-**Misure speciali e responsabilità**[^42-1]
+**Responsabilità per il budget del personale**[^42-1]
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Se le prestazioni corrispondono al livello di valutazione 1, occorre prevedere misure di sviluppo o l’attribuzione a un posto meno esigente. È necessario tenere adeguatamente conto anche di situazioni sociali difficili. Se, nonostante le misure adottate, le prestazioni non migliorano, il rapporto di lavoro è disdetto.
+Le unità amministrative competenti per stabilire l’evoluzione dello stipendio e i premi di prestazione sono responsabili dell’osservanza del proprio budget del personale.
 
-<sup>2</sup> Se il posto attribuito è inquadrato in una classe inferiore di stipendio, la classe di stipendio e lo stipendio sono adeguati nel contratto di lavoro. L’articolo 52*a* non è applicabile.
-
-<sup>3</sup> Le unità amministrative competenti per stabilire gli stipendi e i premi di prestazione garantiscono l’osservanza del proprio budget del personale.
-
-[^42-1]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 ### Sezione 2: Supplementi di stipendio
 
@@ -1124,7 +1158,7 @@ La compensazione del rincaro è versata su:
 [^44-1]: Introdotta dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
 [^44-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 [^44-3]: Introdotta dall’all. n. 2 dell’O del 31 ott. 2007 sugli assegni familiari ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogata dalla cifra I dell’O del 13 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^44-4]: Abrogato dalla cifra I 1 dell’O del 5 nov. 2008, con effetto dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^44-4]: Abrogato dalla cifra I n. 1 dell’O del 5 nov. 2008, con effetto dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 44a
 
@@ -1181,13 +1215,13 @@ Possono essere versate indennità per:
 
 <sup>2</sup> Le indennità di funzione non devono superare la differenza tra l’importo massimo della classe di stipendio stabilita nel contratto di lavoro e l’importo massimo stabilito per la funzione con classe di stipendio superiore.[^46-1]
 
-[^46-1]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^46-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 47
 
 [^47-1]
 
-[^47-1]: Abrogato dalla cifra I 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, con effetto dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^47-1]: Abrogato dalla cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, con effetto dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 48
 
@@ -1207,9 +1241,10 @@ Possono essere versate indennità per:
 
 <sup>1</sup> Le prestazioni straordinarie e le prestazioni che richiedono particolare impegno possono essere ricompensate con premi di prestazione.
 
-<sup>2</sup> Non si possono versare premi di prestazione agli impiegati le cui prestazioni corrispondono ai livelli di valutazione 1 e 2.
+<sup>2</sup> Non si possono versare premi di prestazione agli impiegati che non adempiono i requisiti di cui all’articolo 16 capoverso 1.[^49-2]
 
 [^49-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3403](https://fedlex.data.admin.ch/eli/oc/2014/592)).
+[^49-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 49a
 
@@ -1217,11 +1252,9 @@ Possono essere versate indennità per:
 
 ### (art. 15 LPers)
 
-<sup>1</sup> Per ricompensare immediatamente impieghi e prestazioni particolari possono essere assegnati premi in natura fino al controvalore di 500 franchi.
+Per ricompensare immediatamente impieghi e prestazioni particolari possono essere versati premi in natura fino a un controvalore di 500 franchi all’anno.
 
-<sup>2</sup> Non si possono versare premi spontanei agli impiegati le cui prestazioni corrispondono al livello di valutazione 1.
-
-[^49a-1]: Introdotto dalla cifra I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3403](https://fedlex.data.admin.ch/eli/oc/2014/592)).
+[^49a-1]: Introdotto dalla cifra I dell’O del 15 ott. 2014 ([RU 2014 3403](https://fedlex.data.admin.ch/eli/oc/2014/592)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 49b
 
@@ -1229,17 +1262,12 @@ Possono essere versate indennità per:
 
 ### (art. 15 LPers)
 
-<sup>1</sup>
-
-La somma dei premi di prestazione e dei premi spontanei non può superare, per anno civile:
-
-- a. il 10 per cento dell’importo massimo della classe di stipendio stabilita nel contratto di lavoro per i dipendenti che percepiscono lo stipendio massimo della loro classe;
-- b. il 5 per cento dell’importo massimo della classe di stipendio stabilita nel contratto di lavoro per i dipendenti che non percepiscono ancora lo stipendio massimo della loro classe.[^49b-2]
+<sup>1</sup> La somma dei premi di prestazione non può superare, per anno civile, il 10 per cento dello stipendio annuo.[^49b-2]
 
 <sup>2</sup> Gli uffici federali e le unità amministrative ad essi equiparabili stabiliscono su domanda dei superiori diretti degli impiegati l’ammontare dei premi di prestazione e dei premi spontanei.
 
 [^49b-1]: Introdotto dalla cifra I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3403](https://fedlex.data.admin.ch/eli/oc/2014/592)).
-[^49b-2]: Nuovo testo giusta la cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
+[^49b-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 50
 
@@ -1270,9 +1298,9 @@ L’assegno familiare è versato fino a quando i figli compiono il 18° anno d�
 
 L’autorità competente secondo l’articolo 2 versa all’impiegato prestazioni che integrano l’assegno familiare, nella misura in cui questo è inferiore a:
 
-- a. 4063 franchi per il primo figlio che ha diritto all’assegno;
-- b. 2623 franchi per ogni ulteriore figlio che ha diritto all’assegno;
-- c.[^51a-2] 3000 franchi per ogni ulteriore figlio che ha diritto all’assegno, ha compiuto il quindicesimo anno d’età e segue una formazione.
+- a. 4891 franchi per il primo figlio che ha diritto all’assegno;
+- b. 3223 franchi per ogni ulteriore figlio che ha diritto all’assegno;
+- c. 3530 franchi per ogni ulteriore figlio che ha diritto all’assegno, che ha compiuto il quindicesimo anno d’età e segue una formazione.[^51a-2]
 
 <sup>2</sup>
 
@@ -1290,7 +1318,7 @@ L’importo delle prestazioni integrative corrisponde alla differenza tra l’im
 <sup>5</sup> Prestazioni integrative secondo il capoverso 4 sono versate anche per figliastri e affiliati con domicilio all’estero, se sono soddisfatte le condizioni di cui agli articoli 4 e 5 dell’ordinanza del 31 ottobre 2007[^51a-8] sugli assegni familiari.[^51a-9]
 
 [^51a-1]: Introdotto dall’all. n. 2 dell’O del 31 ott. 2007 sugli assegni familiari, in vigore dal 1° gen. 2009 ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)).
-[^51a-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
+[^51a-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^51a-3]: [RS 836.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10277)
 [^51a-4]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^51a-5]: Introdotto dalla cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
@@ -1337,8 +1365,8 @@ L’importo delle prestazioni integrative corrisponde alla differenza tra l’im
 [^52-2]: Nuovo testo giusta la cifra I dell’O del 24 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4009](https://fedlex.data.admin.ch/eli/oc/2018/647)).
 [^52-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5395](https://fedlex.data.admin.ch/eli/oc/2020/936)).
 [^52-4]: Abrogato dalla cifra I dell’O del 22 dic. 2004, con effetto dal 1° gen. 2005 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^52-5]: Introdotto dalla cifra I 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
-[^52-6]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^52-5]: Introdotto dalla cifra I n. 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)). Nuovo testo giusta la cifra I dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 843](https://fedlex.data.admin.ch/eli/oc/2021/843)).
+[^52-6]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 52a
 
@@ -1720,7 +1748,13 @@ Il DFF ha i compiti seguenti:
 
 <sup>4</sup> Gli impiegati assegnati alle classi di stipendio 1–17 e gli impiegati che ricevono dal datore di lavoro contributi supplementari ai sensi dell’articolo 3 capoverso 2 lettera a o b dell’ordinanza del 20 febbraio 2013[^64b-4] concernente il pensionamento in particolari categorie di personale non possono convenire l’orario di lavoro basato sulla fiducia.[^64b-5]
 
-<sup>5</sup> In luogo della compensazione per lavoro aggiuntivo, lavoro straordinario e saldi attivi dell’orario flessibile, gli impiegati che hanno convenuto l’orario di lavoro basato sulla fiducia ricevono una compensazione annua sotto forma di indennità in contanti pari al 6 per cento del salario annuo. In luogo dell’indennità in contanti e d’intesa con il superiore, a titolo eccezionale gli impiegati possono prendere dieci giorni di compensazione oppure chiedere l’accreditamento di 100 ore su un conto di congedo sabbatico.[^64b-6]
+<sup>5</sup>
+
+In luogo della compensazione per lavoro aggiuntivo, lavoro straordinario e saldi attivi dell’orario flessibile, gli impiegati che hanno convenuto l’orario di lavoro basato sulla fiducia ricevono una compensazione annua sotto forma di indennità in contanti pari al 6 per cento del salario annuo. In luogo dell’indennità in contanti e d’intesa con il superiore, a titolo eccezionale gli impiegati possono richiedere i seguenti accrediti o compensazioni:
+
+- a. 10 giorni di compensazione; o
+- b. 5 giorni di compensazione e il 3 per cento dello stipendio annuo; o
+- c. 100 ore su un conto di congedo sabbatico.[^64b-6]
 
 <sup>6</sup> I giorni di compensazione devono essere presi nel corso dell’anno civile in cui nasce il diritto agli stessi. Ove ciò non fosse possibile per ragioni di malattia, infortunio o congedo di maternità, essi devono essere presi nel corso dell’anno successivo. I giorni di compensazione non presi per qualsiasi altro motivo decadono senza indennità.
 
@@ -1729,7 +1763,7 @@ Il DFF ha i compiti seguenti:
 [^64b-3]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
 [^64b-4]: [RS 172.220.111.35](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5366)
 [^64b-5]: Nuovo testo giusta la cifra I dell’O del 12 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 285](https://fedlex.data.admin.ch/eli/oc/2021/285)).
-[^64b-6]: Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^64b-6]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 65
 
@@ -2136,9 +2170,9 @@ Non è versata alcuna indennità a persone:
 - d.[^78-9] il cui rapporto di lavoro è stato risolto di comune intesa per motivi di politica aziendale o del personale e alle quali il datore di lavoro fornisce prestazioni secondo l’articolo 106;
 - e.[^78-10] che ricevono prestazioni in caso di pensionamento anticipato di cui all’articolo 105*b*.
 
-<sup>4</sup> Le persone che, durante il periodo in cui ricevono un’indennità di cui ai capoversi 1–2<sup>bis</sup>, iniziano un nuovo rapporto di lavoro o mandato presso un datore di lavoro di cui all’articolo 3 LPers devono restituire la parte di indennità corrispondente alla durata della sovrapposizione del periodo dell’indennità e di quello del nuovo rapporto di lavoro o mandato. Le persone interessate comunicano immediatamente al datore di lavoro precedente la conclusione di un nuovo contratto di lavoro o mandato.[^78-11]
+<sup>4</sup> ...[^78-11]
 
-<sup>4bis</sup> L’indennità da rimborsare secondo il capoverso 4 si riduce nella misura della differenza tra l’indennità versata e il reddito stabilito nel nuovo contratto di lavoro o mandato, sempre che il nuovo reddito sia inferiore all’indennità di partenza.[^78-12]
+<sup>4bis</sup> ...[^78-12]
 
 <sup>4ter</sup> Una volta all’anno il DFF rileva i dati concernenti i casi in cui è stata versata un’indennità ai sensi dei capoversi 1–2<sup>bis</sup> ed è stato costituito un nuovo rapporto di lavoro con uno dei datori di cui all’articolo 1 capoverso 1 nel corso dei 12 mesi precedenti. Esso informa le unità amministrative in merito alle indennità versate.[^78-13]
 
@@ -2154,10 +2188,24 @@ Non è versata alcuna indennità a persone:
 [^78-8]: Nuovo testo giusta la cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-9]: Introdotta dalla cifra I dell’O del 2 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 [^78-10]: Introdotta dalla cifra I dell’O del 22 nov. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6737](https://fedlex.data.admin.ch/eli/oc/2017/753)).
-[^78-11]: Nuovo testo giusta la cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
-[^78-12]: Introdotto dalla cifra I dell’O del 19 ott. 2022, in vigore dal 1° gen. 2023 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)).
+[^78-11]: Abrogato dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^78-12]: Introdotto dalla cifra I dell’O del 19 ott. 2022 ([RU 2022 616](https://fedlex.data.admin.ch/eli/oc/2022/616)). Abrogato dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^78-13]: Originario cpv. 4<sup>bis</sup>. Introdotto dalla cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^78-14]: Introdotto dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nuovo testo giusta la cifra I dell’O del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+
+#### Art. 78a
+
+**Obbligo di comunicazione e restituzione di indennità**[^78a-1]
+
+### (art. 19 cpv. 3, 4 e 6 lett. b LPers)
+
+<sup>1</sup> Le persone che ricevono o hanno ricevuto un’indennità di cui all’articolo 78 capoversi 1–2<sup>bis</sup> devono comunicare immediatamente al datore di lavoro precedente se iniziano un’attività lucrativa indipendente o dipendente durante il periodo per il quale ricevono o hanno ricevuto un’indennità.
+
+<sup>2</sup> Le persone che durante il periodo per il quale ricevono o hanno ricevuto un’indennità di cui all’articolo 78 capoversi 1–2<sup>bis</sup> conseguono un reddito da attività lucrativa indipendente o dipendente devono restituire la parte di indennità corrispondente alla sovrapposizione tra la durata dell’indennità e la nuova attività lucrativa.
+
+<sup>3</sup> L’indennità da restituire si riduce della differenza tra l’indennità versata e il reddito derivante dalla nuova attività lucrativa, sempre che il nuovo reddito sia inferiore all’indennità di cui all’articolo 78 capoversi 1–2<sup>bis</sup>.
+
+[^78a-1]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 79
 
@@ -2249,10 +2297,10 @@ Sono considerati minori costi:
 
 <sup>2</sup> Sono soggetti del tutto o in parte all’adeguamento al potere d’acquisto, per eccesso o per difetto, lo stipendio, le prestazioni che integrano l’assegno familiare di cui all’articolo 51*a*, gli importi forfettari per attività di pubbliche relazioni e le indennità per le spese sul luogo di lavoro.[^83-1]
 
-<sup>3</sup> …[^83-2]
+<sup>3</sup> Al termine del loro impegno in organizzazioni internazionali, gli impiegati di cui all’articolo 2 capoverso 1, fatti salvi i capimissione, sono impiegati nella funzione svolta prima del loro congedo o in un’altra funzione ragionevolmente esigibile. Se ciò non è possibile, il rapporto di lavoro è disdetto in virtù dell’articolo 10 capoverso 3 lettera e LPers, dietro versamento di un’indennità di cui all’articolo 78 capoversi 1 e 2<sup>bis</sup> corrispondente al massimo a uno stipendio annuo.[^83-2]
 
 [^83-1]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^83-2]: Introdotto dall’all. n. 2 dell’O del 31 ott. 2007 sugli assegni familiari ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Abrogato dalla cifra I dell’O del 6 mar. 2009, con effetto dal 1° gen. 2009 ([RU 2009 1137](https://fedlex.data.admin.ch/eli/oc/2009/184)).
+[^83-2]: Introdotto dall’all. n. 2 dell’O del 31 ott. 2007 sugli assegni familiari ([RU 2008 145](https://fedlex.data.admin.ch/eli/oc/2008/52)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 84
 
@@ -2318,13 +2366,13 @@ Per organizzazioni internazionali ai sensi della presente disposizione si intend
 - c. il Centro per il controllo democratico delle forze armate di Ginevra;
 - d. il Centro internazionale per lo sminamento umanitario di Ginevra.[^88-4]
 
-<sup>3</sup> Al termine del loro impegno in organizzazioni internazionali, le persone di cui all’articolo 2 capoverso 1, fatti salvi i capimissione, vengono impiegate nella funzione svolta prima del loro congedo o in un’altra funzione ragionevolmente esigibile. Se ciò non è possibile, il rapporto di lavoro è disdetto conformemente all’articolo 10 capoverso 3 lettera e LPers, dietro versamento di un’indennità di partenza che corrisponde al massimo a uno stipendio annuo.[^88-5]
+<sup>3</sup> Al termine del loro impegno in organizzazioni internazionali, gli impiegati di cui all’articolo 2 capoverso 1, fatti salvi i capimissione, sono impiegati nella funzione svolta prima del loro congedo o in un’altra funzione ragionevolmente esigibile. Se ciò non è possibile, il rapporto di lavoro è disdetto in virtù dell’articolo 10 capoverso 3 lettera e LPers, dietro versamento di un’indennità di cui all’articolo 78 capoversi 1 e 2<sup>bis</sup> corrispondente al massimo a uno stipendio annuo.[^88-5]
 
 [^88-1]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^88-2]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 [^88-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^88-4]: Introdotto dall’all. n. 4 dell’O del 7 dic. 2007 sullo Stato ospite ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)). Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
-[^88-5]: Introdotto dalla cifra I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+[^88-5]: Introdotto dalla cifra I dell’O del 20 nov. 2013 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 ## Capitolo 4*a*: Previdenza professionale
 
@@ -2348,7 +2396,7 @@ Per organizzazioni internazionali ai sensi della presente disposizione si intend
 
 <sup>4</sup> …[^88a-4]
 
-[^88a-1]: Nuovo testo giusta la cifra I I 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^88a-1]: Nuovo testo giusta la cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 [^88a-2]: Nuovo testo giusta la cifra I dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
 [^88a-3]: Abrogato dalla cifra I dell’O del 20 giu. 2014, con effetto dal 1° ago. 2014 ([RU 2014 2171](https://fedlex.data.admin.ch/eli/oc/2014/367)).
 [^88a-4]: Abrogato dalla cifra I dell’O del 12 ott. 2016, con effetto dal 1° dic. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)).
@@ -2480,7 +2528,7 @@ Un persistente elevato carico fisico o psichico secondo il capoverso 1bis letter
 
 [^88k-1]
 
-[^88k-1]: Introdotto dalla cifra I I 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
+[^88k-1]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Abrogato dalla cifra I dell’O del 2 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4507](https://fedlex.data.admin.ch/eli/oc/2016/734)).
 
 #### Art. 88l
 
@@ -2552,7 +2600,7 @@ Se nel singolo caso non è possibile escludere conflitti d’interesse, l’auto
 
 <sup>3</sup> Il DFF stabilisce il reddito da prendere in considerazione e il modo in cui deve essere versato.
 
-[^92-1]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^92-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
 
 #### Art. 93
 
@@ -2715,7 +2763,7 @@ Un conflitto d’interesse può sussistere in particolare se:
 
 <sup>2</sup> I costi per gli estratti sono assunti dal datore di lavoro.
 
-[^94e-1]: Introdotto dall’all. 8 cifra II 2 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^94e-1]: Introdotto dall’all. 8 cifra II n. 2 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 
 #### Art. 94f
 
@@ -2727,7 +2775,7 @@ Un conflitto d’interesse può sussistere in particolare se:
 
 <sup>2</sup> L’elenco delle funzioni, i livelli di controllo e la procedura di controllo sono disciplinati nell’OCSP.
 
-[^94f-1]: Introdotto dall’all. 8 cifra II 2 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
+[^94f-1]: Introdotto dall’all. 8 cifra II n. 2 dell’O dell’8 nov. 2023 sui controlli di sicurezza relativi alle persone, in vigore dal 1° gen. 2024 ([RU 2023 736](https://fedlex.data.admin.ch/eli/oc/2023/736)).
 [^94f-2]: [RS 128.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40162)
 
 #### Art. 95
@@ -2926,13 +2974,13 @@ Un posto all’interno dell’Amministrazione federale è ritenuto ragionevolmen
 
 - a. la relativa classe di stipendio è inferiore alla precedente di tre classi al massimo;
 - b. il tragitto con i mezzi di trasporto pubblici per recarsi sul posto di lavoro e per rientrare al proprio domicilio richiede complessivamente quattro ore al massimo; e
-- c.[^104a-1] tenuto conto della sua formazione preliminare, della lingua e dell’età, dopo aver concluso il periodo di introduzione l’impiegato è in grado di raggiungere gli obiettivi di prestazione e di comportamento corrispondenti al livello di valutazione 3.
+- c.[^104a-1] tenuto conto della sua formazione preliminare, della lingua e dell’età, dopo aver concluso il periodo di introduzione l’impiegato è in grado di adempiere i requisiti relativi alle prestazioni e al comportamento menzionati nella descrizione del posto.
 
 <sup>2</sup> In deroga al capoverso 1 lettera a, per gli impiegati che hanno compiuto il 55° anno d’età e il cui posto rientra nella classe di stipendio 24 o in una classe superiore, un posto all’interno dell’Amministrazione federale è ragionevolmente esigibile se la sua classe di stipendio è inferiore di cinque classi al massimo.
 
 <sup>3</sup> I posti esterni all’Amministrazione federale sono ritenuti ragionevolmente esigibili se le condizioni generali d’impiego e le condizioni del cambiamento di posto sono comparabili a quelle nell’Amministrazione federale.
 
-[^104a-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3403](https://fedlex.data.admin.ch/eli/oc/2014/592)).
+[^104a-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 104b
 
@@ -3171,15 +3219,17 @@ Sussistono motivi di politica aziendale o del personale in particolare se:
 
 <sup>1</sup> Come misura atta a creare un clima di fiducia, il capo del DFF istituisce un comitato di seguito delle parti sociali quale organo consultivo. Compiti, organizzazione e composizione del comitato di seguito costituiscono l’oggetto della dichiarazione d’intenti periodica secondo l’articolo 107 capoverso 3.
 
-<sup>2</sup> Il comitato di seguito segue in particolare la prassi dei colloqui con il collaboratore, della valutazione del personale e della rimunerazione.
+<sup>2</sup> Il comitato di seguito osserva in particolare la prassi delle valutazioni del personale e dell’evoluzione dello stipendio.[^108-1]
 
-<sup>3</sup> Il seguito si riferisce per principio a dati impersonali relativi a tutte le funzioni e classi di stipendio. Sono considerati dati impersonali le osservazioni di ordine generale rese anonime che concernono l’applicazione delle disposizioni sul colloquio con il collaboratore, la valutazione del personale e la rimunerazione.
+<sup>3</sup> L’osservazione si riferisce fondamentalmente a dati impersonali relativi a tutte le funzioni e classi di stipendio. Sono considerati dati impersonali le osservazioni di ordine generale rese anonime che concernono l’applicazione delle disposizioni sulla valutazione del personale e sull’evoluzione dello stipendio.[^108-2]
 
-<sup>4</sup> …[^108-1]
+<sup>4</sup> …[^108-3]
 
 <sup>5</sup> Il comitato di seguito può istituire un comitato paritetico per trattare singoli casi. Ne possono far parte anche persone che non sono membri del comitato di seguito. Il comitato paritetico formula le sue raccomandazioni all’attenzione del comitato di seguito.
 
-[^108-1]: Abrogato dalla cifra I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^108-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^108-2]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^108-3]: Abrogato dalla cifra I dell’O del 1° mag. 2013, con effetto dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
 
 #### Art. 109
 
@@ -3250,48 +3300,51 @@ I termini di prescrizione per pretese derivanti dal rapporto di lavoro sono disc
 
 Il DFAE può, d’intesa con il DFF, emanare disposizioni derogatorie per il personale soggetto all’obbligo di trasferimento e per il personale impiegato all’estero nei seguenti settori:
 
-- a. articoli 15–17: colloquio con il collaboratore e valutazione del personale;
+- a.[^114-1] articoli 15–16: dialogo e valutazione del personale;
 - b. articolo 38: stipendio in caso di occupazione a tempo parziale;
 - c. articolo 39: evoluzione dello stipendio;
 - d. articolo 43: indennità di residenza;
 - e. articolo 44: compensazione del rincaro;
 - f. articolo 46: indennità di funzione;
-- g.[^114-1] articolo 49: premi di prestazione;
+- g.[^114-2] articolo 49: premi di prestazione;
 - h. articolo 52: valutazione della funzione;
-- h<sup>bis</sup>.[^114-2] articolo 52*a*: inquadramento di una funzione in una classe inferiore di stipendio;
+- h<sup>bis</sup>.[^114-3] articolo 64*b*: orario di lavoro basato sulla fiducia;
 - i. articolo 53: organi di valutazione;
 - j. articolo 63: prestazioni in caso di infortunio professionale;
 - k. articolo 64: tempo di lavoro;
-- k<sup>bis</sup>.[^114-3] articolo 64*a*: orario di lavoro basato sulla fiducia;
+- k<sup>bis</sup>.[^114-4] articolo 64*b*: orario di lavoro basato sulla fiducia;
 - l. articolo 65: lavoro aggiuntivo e lavoro straordinario;
 - m. articolo 66: giorni di libero;
 - n. articolo 67: vacanze;
 - o. articolo 68: congedi;
-- o<sup>bis</sup>.[^114-4] articolo 75*a* capoverso 2: Custodia di bambini complementare alla famiglia;
-- o<sup>ter</sup>.[^114-5] articolo 75*b*: Diritto al rimborso dei costi per la custodia di bambini complementare alla famiglia;
-- p.[^114-6] articolo 78 capoverso 2 lettera k: versamento d’indennità al personale della DSC;
-- q.[^114-7] articolo 78 capoverso 2<sup>bis</sup>: indennità al personale della DSC per cessazione del rapporto di lavoro intervenuta di comune accordo;
-- r. e s.[^114-8] …
+- o<sup>bis</sup>.[^114-5] articolo 75*a* capoverso 2: Custodia di bambini complementare alla famiglia;
+- o<sup>ter</sup>.[^114-6] articolo 75*b*: Diritto al rimborso dei costi per la custodia di bambini complementare alla famiglia;
+- p.[^114-7] articolo 78 capoverso 2 lettera k: versamento d’indennità al personale della DSC;
+- q.[^114-8] articolo 78 capoverso 2<sup>bis</sup>: indennità al personale della DSC per cessazione del rapporto di lavoro intervenuta di comune accordo;
+- r. e s.[^114-9] …
 
 <sup>3</sup> Nel determinare le retribuzioni e altre misure a favore del personale secondo gli articoli 63 e 81–88 si tiene conto della situazione peculiare del personale distaccato. Il DFAE, d’intesa con il DFF, stabilisce nelle disposizioni d’esecuzione in quale misura considerare altre persone di accompagnamento oltre ai membri della famiglia e disciplina i particolari.
 
-<sup>4</sup> Il DFAE emana, d’intesa con il DFF, prescrizioni concernenti l’indicizzazione dei luoghi d’impiego, classificati per difficoltà delle condizioni di vita, basandosi in merito sull’indice di 100 punti della Città di Berna, e stabilisce i luoghi d’impiego dove regnano condizioni di vita molto difficili.[^114-9]
+<sup>4</sup> Il DFAE emana, d’intesa con il DFF, prescrizioni concernenti l’indicizzazione dei luoghi d’impiego, classificati per difficoltà delle condizioni di vita, basandosi in merito sull’indice di 100 punti della Città di Berna, e stabilisce i luoghi d’impiego dove regnano condizioni di vita molto difficili.[^114-10]
 
-[^114-1]: Nuovo testo giusta la cifra I 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
-[^114-2]: Originaria lett. r. Introdotta dalla cifra I dell’O del 22 dic. 2004, in vigore dal 1° gen. 2005 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)).
-[^114-3]: Originaria lett. s. Introdotta dalla cifra I dell’O del 5 dic. 2008, in vigore dal 1° gen. 2009 ([RU 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)).
-[^114-4]: Introdotta dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-1]: Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^114-2]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale, in vigore dal 1° feb. 2009 ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)).
+[^114-3]: Originaria lett. r. Introdotta dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^114-4]: Originaria lett. s. Introdotta dalla cifra I dell’O del 5 dic. 2008 ([RU 2008 6411](https://fedlex.data.admin.ch/eli/oc/2008/861)). Nuovo testo giusta la cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 [^114-5]: Introdotta dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-6]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-6]: Introdotta dalla cifra I dell’O del 24 nov. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
 [^114-7]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
-[^114-8]: Abrogate dalla cifra I dell’O del 24 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
-[^114-9]: Introdotto dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, in vigore dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
+[^114-8]: Nuovo testo giusta la cifra I dell’O del 1° mag. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)).
+[^114-9]: Abrogate dalla cifra I dell’O del 24 nov. 2010, con effetto dal 1° gen. 2011 ([RU 2010 5793](https://fedlex.data.admin.ch/eli/oc/2010/821)).
+[^114-10]: Introdotto dall’art. 7 dell’O del 20 feb. 2013 concernente il pensionamento in particolari categorie di personale, in vigore dal 1° lug. 2013 ([RU 2013 771](https://fedlex.data.admin.ch/eli/oc/2013/154)).
 
 #### Art. 115
 
 **Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS)**
 
 ### (art. 37 LPers)
+
+<sup>1</sup>
 
 Il DDPS può, d’intesa con il DFF, emanare disposizioni derogatorie applicabili al personale militare:[^115-1]
 
@@ -3300,15 +3353,36 @@ Il DDPS può, d’intesa con il DFF, emanare disposizioni derogatorie applicabil
 - c. articolo 24: luogo di lavoro, mobilità e impiego all’estero;
 - d. articolo 37: stipendio iniziale;
 - e. articolo 48: indennità speciali;
-- e<sup>bis</sup>.[^115-2] articolo 60*a*: riduzione del tasso di occupazione dopo la nascita o l’adozione; la deroga può concernere soltanto gli impiegati per i quali una riduzione del tasso di occupazione è impossibile per motivi di servizio;
+- e<sup>bis</sup>.[^115-2] ...
 - f. articolo 64: tempo di lavoro;
 - g. articolo 65: lavoro aggiuntivo e lavoro straordinario;
 - h. articolo 67: vacanze;
+- h<sup>bis</sup>.[^115-3] articolo 71: veicoli di servizio personali;
 - i. articolo 72: spese;
 - j. articolo 102: responsabilità penale.
 
+<sup>2</sup>
+
+Il DDPS può, d’intesa con il DFF, emanare disposizioni derogatorie applicabili al personale del DDPS impiegato all’estero per una durata compresa tra due mesi e due anni:
+
+- a. articolo 44: compensazione del rincaro;
+- b. articolo 64: tempo di lavoro;
+- c. articolo 64*b*: orario di lavoro basato sulla fiducia;
+- d. articolo 65: lavoro aggiuntivo e lavoro straordinario;
+- e. articolo 66: giorni festivi;
+- f. articolo 67: vacanze;
+- g. articolo 68: congedi;
+- h. articolo 72: spese;
+- i. articolo 75*a*: custodia di bambini complementare alla famiglia;
+- j. articolo 75*b*: diritto al rimborso dei costi per la custodia di bambini complementare alla famiglia.[^115-4]
+
+<sup>3</sup> Il DDPS emana, d’intesa con il DFF, le disposizioni per il personale di cui al capoverso 2, necessarie per l’esecuzione degli articoli 81–88.[^115-5]
+
 [^115-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
-[^115-2]: Introdotta dalla cifra I dell’O del 20 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)).
+[^115-2]: Introdotta dalla cifra I dell’O del 20 nov. 2013 ([RU 2013 4397](https://fedlex.data.admin.ch/eli/oc/2013/780)). Abrogata dalla cifra I dell’O del 3 set. 2025, con effetto dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^115-3]: Introdotta dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^115-4]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+[^115-5]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 #### Art. 116
 
@@ -3359,7 +3433,7 @@ Esso può, d’intesa con il Dipartimento federale dell’interno, emanare dispo
 
 [^116a-1]
 
-[^116a-1]: Introdotto dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Abrogato dalla cifra I I 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, con effetto dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^116a-1]: Introdotto dalla cifra I dell’O del 22 dic. 2004 ([RU 2005 3](https://fedlex.data.admin.ch/eli/oc/2005/2)). Abrogato dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, con effetto dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116b
 
@@ -3392,7 +3466,7 @@ All’inizio del congedo di prepensionamento ai sensi dell’articolo 34 le pers
 [^116c-2]: Art. 33 nella versione del 3 lug. 2001 ([RU 2001 2206](https://fedlex.data.admin.ch/eli/oc/2001/319)), cpv. 1–3<sup>bis</sup> nella versione dell’O del 5 dic. 2003 concernente l’abrogazione e la modifica di ordinanze in relazione con la nuova regolamentazione del personale militare ([RU 2003 5011](https://fedlex.data.admin.ch/eli/oc/2003/745)); art. 16 dell’O del 2 dic. 1991 sulle prestazioni in caso di pensionamento anticipato di dipendenti in speciali rapporti di servizio, nella versione della modifica del 28 giu. 2000 ([RU 2000 2429](https://fedlex.data.admin.ch/eli/oc/2000/388)).
 [^116c-3]: Nuovo testo giusta la cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6417](https://fedlex.data.admin.ch/eli/oc/2009/785)).
 [^116c-4]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
-[^116c-5]: Nuovo testo giusta la cifra I I 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
+[^116c-5]: Nuovo testo giusta la cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA, in vigore dal 1° lug. 2008 ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)).
 
 #### Art. 116d
 
@@ -3482,6 +3556,20 @@ Lo stipendio di impiegati che all’entrata in vigore della modifica del 12 magg
 [^116l-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^116l-4]: [RS 831.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10007)
 
+#### Art. 116m
+
+**Disposizioni transitorie della modifica del 3 settembre 2025**[^116m-1]
+
+<sup>1</sup> Per gli impiegati assunti con il sistema salariale precedente, lo stipendio al 1° gennaio 2027 corrisponde allo stipendio precedente sommato all’indennità di residenza applicabile il 31 dicembre 2026.
+
+<sup>2</sup> Se lo stipendio al 31 dicembre 2026 sommato all’indennità di residenza applicabile è inferiore allo stipendio iniziale previsto nella classe di stipendio per il corrispondente anno di esperienza, lo stipendio al 1° gennaio 2027 è aumentato fino a raggiungere tale stipendio iniziale.
+
+<sup>3</sup> L’evoluzione dello stipendio decisa nel 2026 secondo l’articolo 39 capoverso 5 ha effetto dal 1° gennaio 2027 sulla base dello stipendio di cui al capoverso 1.
+
+<sup>4</sup> L’importo delle indennità di funzione e delle indennità in funzione del mercato del lavoro concesse prima del 1° gennaio 2027 è calcolato secondo il diritto vigente.
+
+[^116m-1]: Introdotto dalla cifra I dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
+
 #### Art. 117
 
 **Entrata in vigore**
@@ -3510,11 +3598,11 @@ Allegato 2[^t-2]
 
 ## Componenti dello stipendio assicurabile
 
-[^t-2]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Aggiornato dalla cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)), dalle cifre I delle O del 1° mag. 2013 ([RU 2013 1515](https://fedlex.data.admin.ch/eli/oc/2013/354)) e del 12 giu. 2015, in vigore dal 1° ago. 2015 ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)).
+[^t-2]: Introdotto dalla cifra II n. 3 dell’O del 21 mag. 2008 concernente modifiche del diritto federale in seguito al cambiamento di primato presso PUBLICA ([RU 2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)). Aggiornato dalla cifra I n. 1 dell’O del 5 nov. 2008 concernente l’ottimizzazione del sistema salariale del personale federale ([RU 2008 5643](https://fedlex.data.admin.ch/eli/oc/2008/785)), del 12 giu. ([RU 2015 2243](https://fedlex.data.admin.ch/eli/oc/2015/417)) e dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
 - a. stipendio mensile secondo l’articolo 36 e stipendio mensile degli impiegati della Confederazione secondo l’articolo 12 capoverso 2 OPers-PRA[^annex2-lvlu1-1], ma al massimo lo stipendio mensile del dipartimento da cui proviene l’impiegato. L’evoluzione dello stipendio secondo l’articolo 39 capoversi 1–5 e gli adeguamenti straordinari dello stipendio secondo l’articolo 40 fino all’importo massimo della classe di stipendio;
 - b. lo stipendio orario, giornaliero oppure medio secondo l’articolo 38 capoverso 2;
-- c. le indennità di residenza secondo gli articoli 43 e 114 capoverso 2 lettera d;
+- c. ...
 - d. la compensazione del rincaro secondo gli articoli 44 capoverso 2 lettere a e b, e–g e 114 capoverso 2 lettera e;
 - e. le indennità di funzione secondo gli articoli 46 e 114 capoverso 2 lettera f nonché l’articolo 17 OPers-PRA;
 - f. …
@@ -3533,9 +3621,9 @@ Allegato 3[^t-3]
 
 ## Calcolo dell’indennità in caso di risoluzione del rapporto di lavoro
 
-[^t-3]: Introdotto dalla cifra II dell’O del 12 ott. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)). Nuovo testo giusta la cifra II dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)).
+[^t-3]: Introdotto dalla cifra II dell’O del 12 ott. 2016 ([RU 2016 3637](https://fedlex.data.admin.ch/eli/oc/2016/611)). Nuovo testo giusta la cifra II dell’O del 13 nov. 2019 ([RU 2019 3803](https://fedlex.data.admin.ch/eli/oc/2019/693)). Aggiornato dalla cifra II dell’O del 3 set. 2025, in vigore dal 1° gen. 2026 ([RU 2025 569](https://fedlex.data.admin.ch/eli/oc/2025/569)).
 
-- 1\. In caso di risoluzione del rapporto di lavoro l’indennità è calcolata secondo la seguente tabella:
+- 1\. In caso di risoluzione del rapporto di lavoro (art. 78) l’indennità è calcolata secondo la seguente tabella:
 
 <table>
 <tr><td>Durata d’impiego in anni</td><td>Indennità in stipendi mensili</td></tr>
@@ -3556,6 +3644,6 @@ Allegato 3[^t-3]
 </table>
 
 - 2\. Le indennità corrispondenti alla durata d’impiego e all’età sono sommate.
-- 3\. In presenza di motivi validi, segnatamente situazioni sociali difficili, l’indennità di partenza calcolata secondo il capoverso 1 può essere aumentata al massimo a 12 stipendi mensili.
+- 3\. In presenza di motivi validi, segnatamente situazioni sociali difficili, l’indennità calcolata secondo il capoverso 1 può essere aumentata al massimo a 12 stipendi mensili.
 - 4\. Le interruzioni della durata d’impiego non sono prese in considerazione, sempre che non superino la durata di tre anni.
 - 5\. Ai fini del calcolo degli anni d’età e d’impiego, gli anni interrotti sono arrotondati per eccesso.
