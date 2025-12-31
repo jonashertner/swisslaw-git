@@ -3,22 +3,21 @@ canton: BS
 number: "772.400"
 title: Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-14
+version: 2026-01-01
+version_adopted: 2025-12-11
 adopted: 2023-12-14
 in_force: 2024-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6322/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6742/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen von IWB Industrielle Werke Basel für Leistungen im Bereich Elektrizität
 
-Leistungen im Bereich Elektrizität: Ausführungsbestimmungen | Energie- und Wasserversorgung
+Energie- und Wasserversorgung
 
-Vom 14. Dezember 2023 (Stand 1. Juli 2024)
+Vom 14. Dezember 2023 (Stand 1. Januar 2026)
 
 Der Verwaltungsrat von IWB Industrielle Werke Basel,
 
@@ -34,7 +33,7 @@ beschliesst:
 
 #### § 1
 
-<sup>1</sup> Diese Ausführungsbestimmungen konkretisieren die Leistungen von IWB Industrielle Werke Basel (IWB) aus dem öffentlichen Auftrag im Bereich Elektrizität. Sie bilden zusammen mit den anwendbaren gesetzlichen Bestimmungen, dem Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie vom 4. Juli 2011, dem Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011, den Werkvorschriften (§ 5 Abs. 3 IWB-Gesetz) und, soweit in diesen Ausführungsbestimmungen nicht abweichend geregelt, den Branchenempfehlungen des Verbands Schweizerischer Elektrizitätsunternehmen (VSE) (alle Dokumente in ihrer jeweils aktuellen Version) die Grundlage für das Rechtsverhältnis von IWB mit ihren Kundinnen und Kunden, mit Drittlieferantinnen und Drittlieferanten und Arealnetzeigentümerinnen und Arealnetzeigentümern.
+<sup>1</sup> Diese Ausführungsbestimmungen konkretisieren die Leistungen von IWB Industrielle Werke Basel aus dem öffentlichen Auftrag im Bereich Elektrizität. Sie bilden zusammen mit den anwendbaren gesetzlichen Bestimmungen, dem Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie vom 27. Juni 2024, dem Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität vom 3. Juli 2025, den Werkvorschriften (§ 5 Abs. 3 IWB-Gesetz) und, soweit in diesen Ausführungsbestimmungen nicht abweichend geregelt, den Branchenempfehlungen des Verbands Schweizerischer Elektrizitätsunternehmen (VSE) (alle Dokumente in ihrer jeweils aktuellen Version) die Grundlage für das Rechtsverhältnis von IWB mit ihren Kundinnen und Kunden, mit Drittlieferantinnen und Drittlieferanten und Arealnetzeigentümerinnen und Arealnetzeigentümern.
 
 <sup>2</sup> Die Rückspeisung und Vergütung überschüssiger dezentral erzeugter Energie in das Verteilnetz von IWB wird von diesen Ausführungsbestimmungen nicht erfasst und richtet sich nach den anwendbaren gesetzlichen Bestimmungen.
 
@@ -45,7 +44,9 @@ beschliesst:
 <sup>1</sup> Kundinnen und Kunden:
 
 - a) bei Netzanschlüssen (§§ 8 ff.) die Eigentümerin oder der Eigentümer von Grundstücken bzw. elektrischen Anlagen, welche an das Verteilnetz von IWB angeschlossen sind bzw. angeschlossen werden sollen;
-- b) in allen übrigen Fällen, insbesondere bei Energielieferungen (§§ 29 ff.), die Eigentümerin oder der Eigentümer, bei Miet- oder Pachtverhältnissen die Mieterin oder der Mieter bzw. die Pächterin oder der Pächter von Grundstücken, Häusern, gewerblichen Räumen und Wohnungen mit Niederspannungsinstallationen, die an das Verteilnetz von IWB oder ein Arealnetz im Sinne von § 35 Abs. 1 angeschlossen sind und deren Energieverbrauch über Messeinrichtungen erfasst oder in besonderen Fällen pauschal festgelegt wird.
+- b) bei Energielieferungen (§§ 29 ff.), die Eigentümerin oder der Eigentümer, bei Miet- oder Pachtverhältnissen die Mieterin oder der Mieter bzw. die Pächterin oder der Pächter von Grundstücken, Häusern, gewerblichen Räumen und Wohnungen, die an das Verteilnetz von IWB oder ein Arealnetz im Sinne von § 35 Abs. 1 angeschlossen sind und deren Energieverbrauch über Messeinrichtungen erfasst oder in besonderen Fällen pauschal festgelegt wird;
+- c) bei Zusammenschlüssen zum Eigenverbrauch (ZEV) gemäss Art. 17 Abs. 1 des Energiegesetzes vom 30. September 2016 (EnG) (ZEV unter Eigentümerinnen und Eigentümern) der ZEV;
+- d) bei ZEV gemäss Art. 17 Abs. 2 EnG (ZEV für Mieterinnen und Mieter bzw. Pächterinnen und Pächter) die Eigentümerin oder der Eigentümer, der den ZEV für ihre bzw. seine Mieterinnen und Mieter bzw. Pächterinnen und Pächter errichtet hat.
 
 <sup>2</sup> Drittlieferantinnen und Drittlieferanten: Stromlieferantinnen und Stromlieferanten (IWB selbst oder Dritte), die im Verteilnetzgebiet von IWB freie Kundinnen und Kunden mit Energie beliefern, indem sie die von den betreffenden Kundinnen und Kunden bezogene Energie in ihre Bilanzgruppe einstellen.
 
@@ -53,9 +54,9 @@ beschliesst:
 
 <sup>4</sup> Elektrische Anlagen: Anlagen mit elektrischen Betriebsmitteln zur Erzeugung, Speicherung, Übertragung, Umwandlung, Verteilung, Messung und Verbrauch von elektrischer Energie.
 
-<sup>5</sup> Netzanschlusspunkt (Verknüpfungspunkt): Verbindungspunkt zwischen der Versorgungsleitung, dem Transformatorenabgangsfeld oder dem Übergabefeld und der Anschlussleitung zu den Kundinnen und Kunden. Der Netzanschlusspunkt liegt an einem Punkt im Verteilnetz, an welchem weitere Kundinnen und Kunden angeschlossen sind oder angeschlossen werden können.
+<sup>5</sup> Netzanschlusspunkt (Verknüpfungspunkt): Verbindungspunkt zwischen der Versorgungsleitung, dem Transformatorenabgangsfeld oder dem Übergabefeld in der Übergabestation (§ 21 Abs. 3) und der Anschlussleitung der Kundinnen und Kunden. Der Netzanschlusspunkt liegt an einem Punkt im Verteilnetz, an welchem weitere Kundinnen und Kunden angeschlossen sind oder angeschlossen werden können.
 
-<sup>6</sup> Übergabepunkt (Hausanschluss-/Anschlusspunkt): auf Netzebene 7: die Eingangsklemme des Anschlussüberstromunterbrechers im Hausanschlusskasten bzw. im Einspeisefeld; auf den Netzebenen 5 und 3: die Eingangsklemme des Lasttrennschalters im Einspeisefeld.
+<sup>6</sup> Übergabepunkt (Hausanschluss-/Anschlusspunkt): auf Netzebene 7: die Eingangsklemme des Anschlussüberstromunterbrechers im Hausanschlusskasten bzw. im Einspeisefeld; auf den Netzebenen 5 und 3 die Eingangsklemme des Lasttrennschalters im Einspeisefeld. Bei spezifischen Kundenbedürfnissen kann der Übergabepunkt im Anschlussvertrag (§ 11) abweichend geregelt werden.
 
 <sup>7</sup> Netzanschluss: die Anschlussleitung vom Netzanschlusspunkt bis zum Übergabepunkt.
 
@@ -71,9 +72,12 @@ beschliesst:
 
 **Netzgebiet und Anschlussgarantie**
 
-<sup>1</sup> IWB betreibt auf dem Gebiet des Kantons Basel-Stadt und ausserkantonal auf den durch Verfügung zugewiesenen Gebieten (zusammen das «Netzgebiet») ein Verteilnetz für Elektrizität (Art. 4 Abs. 1 lit. i des Bundesgesetzes über die Stromversorgung [Stromversorgungsgesetz, StromVG] vom 23. März 2007). Das Verteilnetz steht im Eigentum von IWB (Art. 15a des Bundesgesetzes betreffend die elektrischen Schwach- und Starkstromanlagen [Elektrizitätsgesetz, EleG] vom 24. Juni 1902) und umfasst die Versorgungsleitungen, die Anschlussleitungen und die Nebenanlagen zur Übertragung und Verteilung von Elektrizität (wie beispielsweise Unterwerke, Transformatorenstationen, Übergabestationen und Verteilkästen).
+<sup>1</sup> IWB betreibt auf dem Gebiet des Kantons Basel-Stadt und ausserkantonal auf den durch Verfügung zugewiesenen Gebieten (zusammen das «Netzgebiet von IWB») ein Verteilnetz für Elektrizität (Art. 4 Abs. 1 lit. i des Bundesgesetzes über die Stromversorgung [Stromversorgungsgesetz, StromVG] vom 23. März 2007[^3-1]). Das Verteilnetz steht im Eigentum von IWB (Art. 15a des Bundesgesetzes betreffend die elektrischen Schwach- und Starkstromanlagen [Elektrizitätsgesetz, EleG] vom 24. Juni 1902[^3-2]) und umfasst die Versorgungsleitungen, die Anschlussleitungen und die Nebenanlagen zur Übertragung und Verteilung von Elektrizität (wie beispielsweise Unterwerke, Transformatorenstationen, Übergabestationen und Verteilkästen).
 
-<sup>2</sup> IWB gewährleistet, dass im Netzgebiet alle Kundinnen und Kunden innerhalb der Bauzone sowie ganzjährig bewohnte Liegenschaften und Siedlungen ausserhalb der Bauzone an das Verteilnetz angeschlossen werden. Für das Anschlussverfahren gelten §§ 9 ff.
+<sup>2</sup> IWB gewährleistet, dass im Netzgebiet von IWB alle Kundinnen und Kunden innerhalb der Bauzone sowie ganzjährig bewohnte Liegenschaften und Siedlungen ausserhalb der Bauzone an das Verteilnetz angeschlossen werden. Für das Anschlussverfahren gelten §§ 9 ff.
+
+[^3-1]: SR [734.7](https://db.clex.ch/link/Bund/734.7/de)
+[^3-2]: SR [734.0](https://db.clex.ch/link/Bund/734.0/de)
 
 #### § 4
 
@@ -81,9 +85,9 @@ beschliesst:
 
 <sup>1</sup> Soweit möglich und wirtschaftlich sinnvoll, verlegt IWB das Verteilnetz auf Allmend (öffentlichem Grund und Boden). Die Kosten für die Nutzung der Allmend zum Bau, Betrieb und Unterhalt des Verteilnetzes (Konzessionsgebühren) werden den Kundinnen und Kunden nach den gesetzlichen Vorgaben in Rechnung gestellt.
 
-<sup>2</sup> Muss für elektrische Anlagen des Verteilnetzes Privatareal in Anspruch genommen werden, kann IWB die dazu erforderlichen Rechte durch Vertrag oder Enteignung von der Eigentümerin oder dem Eigentümer erwerben (§ 32 IWB-Gesetz). Soweit die elektrischen Anlagen dem belasteten Grundstück dienen, sind sie von der belasteten Grundeigentümerin oder dem belasteten Grundeigentümer entschädigungslos zu dulden.
+<sup>2</sup> Muss für elektrische Anlagen des Verteilnetzes Privatareal in Anspruch genommen werden, kann IWB die dazu erforderlichen Rechte durch Vertrag oder Enteignung von der Eigentümerin oder dem Eigentümer erwerben (§ 32 IWB-Gesetz). Soweit die elektrischen Anlagen dem belasteten Grundstück dienen, sind sie von der belasteten Eigentümerin oder dem belasteten Eigentümer entschädigungslos zu dulden.
 
-<sup>3</sup> Zu den elektrischen Anlagen des Verteilnetzes ist IWB oder den Beauftragten von IWB jederzeit Zugang zu gewähren, erforderlichenfalls auch die Zufahrt mit Fahrzeugen und Material. Die betroffenen Grundeigentümerinnen und Grundeigentümer werden, soweit möglich, von IWB vorgängig informiert.
+<sup>3</sup> Zu den elektrischen Anlagen des Verteilnetzes ist IWB oder den Beauftragten von IWB jederzeit Zugang zu gewähren, erforderlichenfalls auch die Zufahrt mit Fahrzeugen und Material. Die betroffenen Eigentümerinnen und Eigentümer werden, soweit möglich, von IWB vorgängig informiert.
 
 #### § 5
 
@@ -109,7 +113,7 @@ beschliesst:
 
 **Gebühren und Tarife**
 
-<sup>1</sup> Für den Anschluss an das Verteilnetz und die Nutzung der Netzinfrastruktur erhebt IWB die im Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 publizierten Gebühren und Tarife.
+<sup>1</sup> Für den Anschluss an das Verteilnetz und die Nutzung der Netzinfrastruktur erhebt IWB die im Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität publizierten Gebühren und Tarife.
 
 <sup>2</sup> Erfolgt ein Aus- oder Umbau des Verteilnetzes im ausschliesslichen Interesse einzelner Kundinnen oder Kunden, werden diesen die von den Gebühren und Tarifen nicht gedeckten Kosten zusätzlich in Rechnung gestellt (Verursacherprinzip).
 
@@ -123,9 +127,9 @@ beschliesst:
 
 <sup>2</sup> IWB bestimmt, auf welcher Netzebene der Netzanschluss erfolgt. Massgebend für die Netzanschlussebene ist die individuelle Anschlussleistung der Kundin oder des Kunden:
 
-- a) Bis zu einer Anschlussleistung von 630 kVA erfolgt der Netzanschluss auf Netzebene 7.
-- b) Bei einer Anschlussleistung grösser 630 kVA erfolgt der Netzanschluss auf Netzebene 7 oder auf Netzebene 5.
-- c) Bei einer Anschlussleistung grösser 7 MVA erfolgt der Netzanschluss auf Netzebene 5 oder auf Netzebene 3.
+- a) bis zu einer Anschlussleistung von 630 kVA erfolgt der Netzanschluss auf Netzebene 7;
+- b) bei einer Anschlussleistung grösser 630 kVA erfolgt der Netzanschluss auf Netzebene 7 oder auf Netzebene 5;
+- c) bei einer Anschlussleistung grösser 7 MVA erfolgt der Netzanschluss auf Netzebene 5 oder auf Netzebene 3.
 
 <sup>3</sup> IWB bestimmt den Netzanschlusspunkt (§ 2 Abs. 5).
 
@@ -164,9 +168,9 @@ beschliesst:
 
 **Anschlussvertrag**
 
-<sup>1</sup> Die Modalitäten und Kosten des Netzanschlusses werden in einem Anschlussvertrag festgelegt. Der Anschlussvertrag kommt zustande, wenn die Kundin oder der Kunde den Netzanschluss zu den von IWB offerierten Bedingungen (Anschlussofferte) bestellt.
+<sup>1</sup> Die Modalitäten und Kosten des Netzanschlusses werden in einem Anschlussvertrag festgelegt.
 
-<sup>2</sup> Die Anschlussofferte von IWB hat eine Gültigkeit von 3 Monaten. Lässt die Kundin oder der Kunde diese Frist verstreichen, so ist ein neues Anschlussgesuch bei IWB einzureichen.
+<sup>2</sup> Die für den Anschlussvertrag von IWB offerierten Bedingungen haben eine Gültigkeit von 3 Monaten. In begründeten Einzelfällen kann IWB eine abweichende Gültigkeit vorsehen. Lässt die Kundin oder der Kunde die Frist verstreichen, verfällt die Anschlussofferte und ist für den Netzanschluss ein neues Anschlussgesuch einzureichen.
 
 #### § 12
 
@@ -182,7 +186,7 @@ beschliesst:
 
 **Erstellung**
 
-<sup>1</sup> Der Netzanschluss (§ 2 Abs. 7) wird von IWB erstellt. IWB bestimmt, wie und wo der Netzanschluss verlegt wird. Bei Netzanschlüssen auf Netzebene 7 entscheidet IWB ausserdem, wo der Hausanschlusskasten bzw. das Einspeisefeld platziert wird. Das Einspeisefeld ist von den Kundinnen und Kunden nach den Vorgaben von IWB bauseits zu erstellen.
+<sup>1</sup> Der Netzanschluss (§ 2 Abs. 7) wird von IWB erstellt. IWB bestimmt, wie und wo der Netzanschluss verlegt wird. Bei Netzanschlüssen auf Netzebene 7 bestimmt IWB ausserdem den Standort des Hausanschlusskastens bzw. des Einspeisefeldes. Das Einspeisefeld ist von den Kundinnen und Kunden nach den Vorgaben von IWB bauseits zu erstellen.
 
 <sup>2</sup> Für den Netzanschluss werden in der Regel erdverlegte Kabel verwendet. Die dadurch bedingten Tiefbauarbeiten auf Allmend erfolgen durch IWB. Tiefbauarbeiten auf dem Grundstück der Kundin oder des Kunden (einschliesslich allenfalls erforderlicher Rückbauten oder Abholzungen) erfolgen bei Netzanschlüssen auf Netzebene 7 nach Wahl der Kundin oder des Kunden entweder durch IWB oder durch die Kundin oder den Kunden bzw. durch von der Kundin oder dem Kunden beauftragte Dritte. Bei Netzanschlüssen auf den Netzebenen 5 oder 3 sind die Tiefbauarbeiten auf dem Grundstück der Kundin oder des Kunden bauseits durch die Kundin oder den Kunden bzw. durch von der Kundin oder dem Kunden beauftragte Dritte nach den Vorgaben von IWB vorzunehmen.
 
@@ -216,7 +220,7 @@ beschliesst:
 
 **Kosten**
 
-<sup>1</sup> Für die Erstellung, den Betrieb und den Unterhalt eines Netzanschlusses für ein Grundstück oder eine elektrische Anlage (mit Ausnahme von Energieerzeugungsanlagen [EEA]) erhebt IWB Anschlussgebühren in Form eines Netzanschluss- und eines Netzkostenbeitrags gemäss Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011.
+<sup>1</sup> Für die Erstellung, den Betrieb und den Unterhalt eines Netzanschlusses für ein Grundstück oder eine elektrische Anlage (mit Ausnahme von Energieerzeugungsanlagen [EEA]) erhebt IWB Anschlussgebühren in Form eines Netzanschluss- und eines Netzkostenbeitrags gemäss Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität.
 
 <sup>2</sup> Bei Netzanschlüssen mit spezieller Verlegungsart, spezieller Leitungsführung, mit Rückbauten oder Abholzungen werden den Kundinnen und Kunden neben den Anschlussgebühren die mit den zusätzlichen baulichen Massnahmen verbundenen Kosten (Ist-Kosten) in Rechnung gestellt. Eine spezielle Verlegungsart oder Leitungsführung kann erforderlich sein, wenn im Bereich der Anschlussleitung kein normaler Baugrund mit Erdboden oder Asphaltoberfläche vorhanden ist.
 
@@ -224,7 +228,7 @@ beschliesst:
 
 <sup>4</sup> Die Anschlusskosten für temporäre Netzanschlüsse regelt § 22 Abs. 4.
 
-<sup>5</sup> Wird der Netzanschluss von den Kundinnen und Kunden nicht in vollem Umfang beansprucht, ausser Betrieb genommen oder abgebrochen, haben die Kundinnen und Kunden keinen Anspruch auf teilweise oder vollständige Rückerstattung ihrer Kosten gemäss § 17. Für die Ausserbetriebnahme von Netzanschlüssen gilt im Übrigen § 27.
+<sup>5</sup> Wird der Netzanschluss von den Kundinnen und Kunden nicht in vollem Umfang beansprucht, ausser Betrieb genommen oder zurückgebaut, haben die Kundinnen und Kunden keinen Anspruch auf teilweise oder vollständige Rückerstattung ihrer Kosten gemäss § 17. Für die Ausserbetriebnahme von Netzanschlüssen gilt im Übrigen § 27.
 
 ### 2.4 Transformatorenstationen
 
@@ -236,7 +240,7 @@ beschliesst:
 
 <sup>2</sup> IWB bestimmt die technischen Details für den Bau und Betrieb der Transformatorenstation. Es gelten die Technischen Richtlinien für Transformatorenstationen am 12 kV-Netz von IWB
 
-<sup>3</sup> IWB übernimmt sämtliche für die Erstellung der Transformatorenstation erforderlichen Tiefbauarbeiten auf Allmend. Tiefbauarbeiten auf den Grundstücken der Kundinnen und Kunden erfolgen nach deren Wahl entweder durch IWB oder durch die Kundinnen und Kunden bzw. durch von diesen beauftragte Dritte. Bei den Tiefbauarbeiten sind die Vorgaben von IWB einzuhalten.
+<sup>3</sup> IWB übernimmt sämtliche für die Erstellung der Transformatorenstation erforderlichen Tiefbauarbeiten auf Allmend. Tiefbauarbeiten auf dem Grundstück der Kundin oder des Kunden werden nach Wahl der Kundin oder des Kunden entweder durch IWB oder nach Vorgabe von IWB durch die Kundin oder den Kunden bzw. einen durch von diesen beauftragten Dritten ausgeführt.
 
 <sup>4</sup> Eigentümerin der Transformatorenstation ist IWB. Für den Transformatorenraum gilt § 19 Abs. 2.
 
@@ -246,7 +250,7 @@ beschliesst:
 
 <sup>1</sup> IWB bestimmt den Standort der Transformatorenstation. Bei der Standortbestimmung werden, soweit möglich, die Wünsche der Kundin oder des Kunden berücksichtigt. In der Regel befindet sich die Transformatorenstation auf dem Grundstück der Kundin oder des Kunden, an der Grundstücksgrenze zur Allmend.
 
-<sup>2</sup> Die Kundin oder der Kunde hat für die Transformatorenstation einen den Vorgaben von IWB entsprechenden Raum (Transformatorenraum mit Türen, Lüftungsanlage und Montagedeckel) kostenlos zur Verfügung zu stellen, zu erhalten und IWB jederzeit Zutritt zu gewähren. Es gelten die Technischen Richtlinien für Transformatorenstationen am 12 kV-Netz von IWB. Eigentümerin bzw. Eigentümer des Transformatorenraumes bleibt die Kundin bzw. der Kunde. Beansprucht IWB auf dem Grundstück der Kundin oder des Kunden zusätzlichen Raum, erhält die Kundin oder der Kunde für die von IWB ausschliesslich für die Netzversorgung (beispielsweise für Netztransformatoren) genutzten Flächen eine einmalige Entschädigungszahlung.
+<sup>2</sup> Die Kundin oder der Kunde hat für die Transformatorenstation einen den Vorgaben von IWB entsprechenden Raum (Transformatorenraum) kostenlos zur Verfügung zu stellen und IWB jederzeit Zutritt zu gewähren. Es gelten die Technischen Richtlinien für Transformatorenstationen am 12 kV-Netz von IWB. Eigentümerin bzw. Eigentümer des Transformatorenraumes bleibt die Kundin bzw. der Kunde. Beansprucht IWB auf dem Grundstück der Kundin oder des Kunden zusätzlichen Raum, erhält die Kundin oder der Kunde für die von IWB ausschliesslich für die Netzversorgung (beispielsweise für Netztransformatoren) genutzten Flächen eine einmalige Entschädigungszahlung.
 
 <sup>3</sup> Ist die Kundin oder der Kunde nicht in der Lage, auf ihrem bzw. seinem Grundstück einen den Vorgaben von IWB entsprechenden Raum für die Transformatorenstation zur Verfügung zu stellen, wird die Transformatorenstation, soweit möglich, ausserhalb des Grundstücks errichtet. Die Kosten für den ausserhalb des Grundstücks in Anspruch genommenen Raum und die zusätzlichen Anschlussleitungen (Kabel und Trasse) hat die Kundin oder der Kunde zu tragen.
 
@@ -274,7 +278,7 @@ beschliesst:
 
 <sup>3</sup> In der Regel ist für den Anschluss einer privaten Transformatoren- bzw. Umspannstation an das Verteilnetz von IWB eine Übergabestation (standardmässig bestehend aus einem oder zwei Eingangsfeldern, einem Übergabemessfeld und einem Übergabefeld) erforderlich. Die Übergabestation wird durch IWB erstellt, betrieben und unterhalten. Sie steht im Eigentum von IWB. Die Kosten für die Übergabestation und deren Anbindung an das Verteilnetz gehen zu Lasten von IWB und werden über die Gebühren und Tarife finanziert. Für den Netzanschluss (§ 2 Abs. 7) gilt § 17. Die Verantwortung für die elektrischen Einrichtungen hinter dem Übergabepunkt trägt die Kundin oder der Kunde. Sämtliche Tiefbauarbeiten auf dem Grundstück der Kundin oder des Kunden sowie auf zusätzlich beanspruchten Grundstücken Dritter sind bauseits nach den Vorgaben von IWB durch die Kundin oder den Kunden bzw. durch von der Kundin oder dem Kunden beauftragte Dritte vorzunehmen.
 
-<sup>4</sup> Für den Betrieb der Übergabestation hat die Kundin oder der Kunde IWB einen den Vorgaben von IWB entsprechenden Raum kostenlos zur Verfügung zu stellen, zu erhalten und IWB oder den Beauftragten von IWB jederzeit Zugang zu gewähren. Es gelten die Vorgaben von IWB, insbesondere die Technischen Richtlinien für Transformatorenstationen am 12 kV-Netz. Ist die Kundin oder der Kunde nicht in der Lage, auf ihrem bzw. seinem Grundstück einen den Vorgaben von IWB entsprechenden Raum für die Übergabestation zur Verfügung zu stellen, wird die Übergabestation, soweit möglich, ausserhalb des Grundstücks der Kundin oder des Kunden errichtet. Die Kosten für den ausserhalb des Grundstücks der Kundin oder des Kunden in Anspruch genommenen Raum und die zusätzlichen Anschlussleitungen (Kabel und Trasse) hat die Kundin oder der Kunde zu tragen.
+<sup>4</sup> Für den Betrieb der Übergabestation hat die Kundin oder der Kunde IWB einen den Vorgaben von IWB entsprechenden Raum kostenlos zur Verfügung zu stellen, zu erhalten und IWB oder den Beauftragten von IWB jederzeit Zugang zu gewähren. Es gelten die Vorgaben von IWB, insbesondere die Technischen Richtlinien für Transformatorenstationen am 12 kV-Netz. Ist die Kundin oder der Kunde nicht in der Lage, auf ihrem bzw. seinem Grundstück einen den Vorgaben von IWB entsprechenden Raum für die Übergabestation zur Verfügung zu stellen, wird die Übergabestation ausserhalb des Grundstücks der Kundin oder des Kunden errichtet. Die Kosten für den ausserhalb des Grundstücks der Kundin oder des Kunden in Anspruch genommenen Raum und die zusätzlichen Anschlussleitungen (Kabel und Trasse) hat die Kundin oder der Kunde zu tragen.
 
 <sup>5</sup> Zur Feststellung des Energieverbrauchs ist in der privaten Transformatoren- bzw. Umspannstation durch die Kundin oder den Kunden bzw. durch von der Kundin oder dem Kunden beauftragte Dritte bauseits nach den Vorgaben von IWB ein Zählerfeld zu erstellen, in das die erforderlichen Messmittel von IWB installiert werden können. Die Inbetriebnahme der Messmittel erfolgt durch IWB.
 
@@ -290,7 +294,7 @@ beschliesst:
 
 <sup>3</sup> Temporäre Netzanschlüsse werden von IWB erstellt. IWB bestimmt den Netzanschlusspunkt (Kabelverteilkasten oder Transformatorenstation). Für Baustromanschlüsse wird von IWB ein Baustromkasten (Übergabekasten mit Messeinrichtung) bereitgestellt. Die elektrischen Einrichtungen hinter dem Netzanschlusspunkt bzw. hinter dem Baustromkasten liegen in der Verantwortung der Kundin oder des Kunden und sind auf deren bzw. dessen Kosten durch einen von der Kundin oder dem Kunden beauftragten Elektroinstallateur zu erstellen. Es gelten die Vorschriften von § 28.
 
-<sup>4</sup> Für temporäre Netzanschlüsse erhebt IWB die im Gebührentarif von IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 bezeichneten Gebühren.
+<sup>4</sup> Für temporäre Netzanschlüsse erhebt IWB die im Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität bezeichneten Gebühren.
 
 ### 2.6 Änderungen und Erneuerung von Netzanschlüssen
 
@@ -298,11 +302,11 @@ beschliesst:
 
 **Änderungen durch IWB**
 
-<sup>1</sup> Aufgrund netztechnischer, sicherheitstechnischer oder wirtschaftlicher Gründe ist IWB berechtigt, den Standort des Netzanschlusspunktes (§ 2 Abs. 5), den Standort des Übergabepunktes (§ 2 Abs. 6) oder die Netzeigenschaften (z.B. Spannung, Strom oder Netzform) zu ändern. Kommt es zu einer solchen Änderung, wird die betroffene Kundin oder der betroffene Kunde von IWB vorgängig informiert.
+<sup>1</sup> Aufgrund netztechnischer, sicherheitstechnischer oder wirtschaftlicher Gründe ist IWB berechtigt, den Standort des Netzanschlusspunktes (§ 2 Abs. 5), den Standort des Übergabepunktes (§ 2 Abs. 6) oder die Netzeigenschaften (insbesondere die Spannung oder die Netzform) zu ändern. Über eine solche Änderung wird die betroffene Kundin oder der betroffene Kunde von IWB vorgängig informiert.
 
-<sup>2</sup> Die Kundinnen und Kunden haben die Änderungen entschädigungslos zu dulden. Soweit erforderlich, haben sie ihre elektrischen Anlagen und Hausinstallationen (§ 28), einschliesslich Verbindungsleitung zwischen Hausanschlusskasten und Hauptverteilung, den Änderungen entsprechend anzupassen und die damit verbundenen Kosten zu tragen.
+<sup>2</sup> Die Kundinnen und Kunden haben die Änderung entschädigungslos zu dulden. Soweit erforderlich, haben sie ihre elektrischen Anlagen und Hausinstallationen (§ 28), einschliesslich Verbindungsleitung zwischen Hausanschlusskasten und Hauptverteilung, den Änderungen entsprechend anzupassen und die damit verbundenen Kosten zu tragen.
 
-<sup>3</sup> Anschlussgebühren (§ 17 Abs. 1) werden bei Änderungen durch IWB nicht erhoben.
+<sup>3</sup> Ist mit der Änderung zugleich eine Erneuerung des Netzanschlusses verbunden, gelten ergänzend die Regelungen von § 25.
 
 #### § 24
 
@@ -314,21 +318,29 @@ beschliesst:
 - b) bei Anschlussverstärkungen werden der Kundin oder dem Kunden die Kosten gemäss § 17 für den neuen Netzanschluss in Rechnung gestellt, wobei auf den zu zahlenden Netzkostenbeitrag der von der Kundin oder dem Kunden für den bestehenden Netzanschluss bereits bezahlte Netzkostenbeitrag angerechnet wird;
 - c) bei einem Wechsel der Netzebene werden der Kundin oder dem Kunden die Anschlussgebühren gemäss § 17 Abs. 1 für den neuen Anschluss sowie zusätzlich die von den Anschlussgebühren des alten Anschlusses nicht gedeckten Kapitalkosten in Rechnung gestellt. Für die Ermittlung der Kosten des alten Anschlusses kann eine synthetische Bewertung erfolgen.
 
-<sup>2</sup> Der Abbruch von Netzanschlüssen ist von den Kundinnen und Kunden mittels Formular bei IWB zu beantragen.
+<sup>2</sup> Die Änderung von Netzanschlüssen erfolgt durch IWB oder durch Beauftragte von IWB.
 
-<sup>3</sup> Der Abbruch erfolgt durch IWB oder den Beauftragten von IWB. Die Kosten für die Ausserbetriebnahme und die Erstellungskosten für den bestehenden Anschluss hat die Kundin oder der Kunde zu tragen. Bei einem Netzanschlussalter bis und mit 10 Jahren hat die Kundin oder der Kunde die Kosten vollständig zu tragen. Ab einem Netzanschlussalter von 11 Jahren reduzieren sich die von der Kundin oder dem Kunden zu tragenden Kosten um 2.5 % pro weiterem Jahr.
+<sup>3</sup> …
 
 <sup>4</sup> Erfordern die Änderungen aus Abs. 1 die Errichtung einer Transformatorenstation, gelten die Regelungen von §§ 18 ff. entsprechend. Für die Ausserbetriebnahme von Netzanschlüssen gilt § 27.
 
-<sup>5</sup> Bei einer Änderung des Netzanschlusses aufgrund von Eigenverbrauch oder aufgrund eines Zusammenschlusses zum Eigenverbrauch gilt in Bezug auf die damit für IWB verbundenen Kapitalkosten die Regelung der aktuell gültigen Stromversorgungsverordnung (StromVV) vom 14. März 2008. Die Kapitalkosten können mittels synthetischer Bewertung ermittelt werden. Bereits bezahlte Netzanschlussbeiträge werden auf die Kapitalkosten angerechnet. Bei einer Reduktion erfolgt keine Vergütung.
+<sup>5</sup> Bei einer Änderung des Netzanschlusses aufgrund von Eigenverbrauch oder aufgrund eines Zusammenschlusses zum Eigenverbrauch gilt in Bezug auf die damit für IWB verbundenen Kapitalkosten die Regelung der Stromversorgungsverordnung vom 14. März 2008 (StromVV)[^24-1]. Die Kapitalkosten können mittels synthetischer Bewertung ermittelt werden. Bereits bezahlte Netzanschlussbeiträge werden auf die Kapitalkosten angerechnet. Bei einer Reduktion erfolgt keine Vergütung.
+
+[^24-1]: SR [734.71](https://db.clex.ch/link/Bund/734.71/de)
 
 #### § 25
 
 **Erneuerung**
 
-<sup>1</sup> IWB ist berechtigt, sofern technisch oder wirtschaftlich erforderlich, bestehende Netzanschlüsse und vorgelagerte Transformatorenstationen zu erneuern, entweder selbst oder durch beauftragte Dritte.
+<sup>1</sup> IWB ist berechtigt, sofern technisch oder wirtschaftlich erforderlich, bestehende Netzanschlüsse und vorgelagerte Anlagenkomponenten (insbesondere Transformatoren- und Übergabestationen) zu erneuern, entweder selbst oder durch beauftragte Dritte.
 
 <sup>2</sup> Im Rahmen der Erneuerung ist IWB berechtigt, den Netzanschluss auf den tatsächlichen Leistungsbedarf, basierend auf der maximalen Wirkleistung der letzten 3 Jahre, anzupassen. Kommt es zu einer solchen Anpassung, ist die Kundin oder der Kunde verpflichtet, die Hausinstallationen (§§ 28 ff.) an die neuen Verhältnisse anzupassen.
+
+<sup>3</sup> Die Erneuerung von Netzanschlüssen erfolgt grundsätzlich im Zuge eines koordinierten Netzersatzes gemäss Art. 13 der Vorschriften des Baudepartementes für die Ausführung von Grabarbeiten in der Allmend. Die betroffene Kundin bzw. der betroffene Kunde wird von IWB vorgängig informiert. Kann die Erneuerung nicht im Zuge eines koordinierten Netzersatzes umgesetzt werden, erfolgt die Erneuerung des Netzanschlusses im Einzelersatz. In beiden Fällen gilt § 11 entsprechend.
+
+<sup>4</sup> Für die Erneuerung von Netzanschlüssen erhebt IWB eine Anschlussersatzgebühr. Die Höhe der Anschlussersatzgebühr richtet sich nach dem Anschlussalter im Zeitpunkt der Erneuerung. Für jedes Anschlussjahr erhebt IWB einen Betrag in Höhe von 2.5 Prozent der im Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität definierten Anschlussersatzgebühr. Ab einem Anschlussalter von 40 Jahren wird der Kundin bzw. dem Kunden die im Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität definierte Anschlussersatzgebühr in voller Höhe in Rechnung gestellt.
+
+<sup>5</sup> Erfolgt eine von IWB im koordinierten Netzersatz vorgesehene Erneuerung des Netzanschlusses aus einem im Verantwortungsbereich der Kundin bzw. des Kunden liegenden Grund im Einzelersatz und entstehen im Einzelersatz ausserordentliche Kosten, ist IWB berechtigt, dem Kunden bzw. der Kundin neben der Anschlussersatzgebühr gemäss Abs. 4 diese Kosten in Rechnung zu stellen.
 
 ### 2.7 Unterbrechung von Netzanschlüssen (Liefersperre)
 
@@ -339,7 +351,7 @@ beschliesst:
 - a) Elektrizität rechtswidrig bezieht (Leistungserschleichung);
 - b) elektrische Geräte/Einrichtungen verwendet, die den geltenden Vorgaben widersprechen oder eine Gefahr für Personen oder Sachen darstellen;
 - c) bei unzulässigen Netzrückwirkungen aus ihrer bzw. seiner elektrischen Anlage trotz Aufforderung durch IWB keine Abhilfe schafft;
-- d) IWB oder den Beauftragten von IWB die Zutrittsrechte verweigert;
+- d) IWB oder den Beauftragten von IWB das Zutrittsrecht, die Änderung des Netzanschlusses gemäss § 23 Abs. 1 oder die Erneuerung des Netzanschlusses gemäss §§ 23, 25 Abs. 1 verweigert und dadurch eine Gefahr für Personen oder Sachen besteht;
 - e) ihren bzw. seinen Zahlungs- oder Sicherstellungspflichten gegenüber IWB trotz zweifacher schriftlicher Mahnung nicht nachkommt;
 - f) sich gegenüber einer Drittlieferantin oder einem Drittlieferanten unter bestimmten Voraussetzungen mit einer Liefersperre einverstanden erklärt hat, die vertraglich vereinbarten Voraussetzungen eingetreten sind und die Drittlieferantin oder der Drittlieferant von IWB eine Liefersperre verlangt (§ 34 Abs. 3).
 
@@ -351,7 +363,7 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 <sup>4</sup> Die Liefersperre befreit die Kundinnen und Kunden nicht von der Erfüllung ihrer Pflichten (insbesondere Zahlungspflichten) gegenüber IWB.
 
-<sup>5</sup> Für die Sperrung und Entsperrung des Netzanschlusses erhebt IWB Gebühren. Die Gebühren werden der Kundin oder dem Kunden bzw. der Drittlieferantin oder dem Drittlieferanten, die oder der von IWB die Liefersperre begehrt, in Rechnung gestellt.
+<sup>5</sup> Für die Sperrung und Entsperrung von Netzanschlüssen erhebt IWB Gebühren gemäss Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität. Die Gebühren werden der Kundin oder dem Kunden bzw. der Drittlieferantin oder dem Drittlieferanten, die oder der von IWB die Liefersperre begehrt, in Rechnung gestellt.
 
 ### 2.8 Ausserbetriebnahme von Netzanschlüssen und Transformatorenstationen
 
@@ -361,7 +373,7 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 <sup>2</sup> Für die Ausserbetriebnahme von Transformatorenstationen gilt Abs. 1 entsprechend, doch ist der Antrag mindestens 12 Monate vor der gewünschten Stilllegung der Transformatorenstation bei IWB einzureichen.
 
-<sup>3</sup> Die Ausserbetriebnahme von Netzanschlüssen und Anlagenkomponenten von Transformatorenstationen (einschliesslich Demontage der Messeinrichtungen) erfolgt durch IWB oder den Beauftragten von IWB. Die Kundin oder der Kunde trägt die mit der Ausserbetriebnahme verbundenen Kosten. Zusätzlich wird der Kundin oder dem Kunden der Restwert des Netzanschlusses bzw. der Anlagenkomponenten gemäss § 24 Abs. 5 in Rechnung gestellt. Abweichende vertragliche Regelungen bleiben vorbehalten.
+<sup>3</sup> Die Ausserbetriebnahme von Netzanschlüssen und Anlagenkomponenten von Transformatorenstationen (einschliesslich Demontage der Messeinrichtungen) erfolgt durch IWB oder Beauftragte von IWB. Die Kundin bzw. der Kunde trägt die mit der Ausserbetriebnahme verbundenen Kosten.
 
 <sup>4</sup> Bei Anschlüssen auf Allmend haben die mit der Ausserbetriebnahme verbundenen Tiefbauarbeiten durch die antragstellende Kundin oder den antragstellenden Kunden zu erfolgen. Auch hat die Kundin oder der Kunde die damit verbundenen Kosten zu tragen.
 
@@ -371,7 +383,7 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 <sup>1</sup> Für die Hausinstallationen (Art. 14 EleG) hinter dem Übergabepunkt (§ 2 Abs. 6), einschliesslich Verbindungsleitung zwischen Hausanschlusskasten und Hauptverteilung, sind die Kundinnen und Kunden verantwortlich.
 
-<sup>2</sup> Die Erstellung, Erweiterung oder Änderung von Hausinstallationen haben durch eine Elektroinstallationsfirma mit Installationsbewilligung des Eidgenössischen Starkstrominspektorats (ESTI) zu erfolgen. Massgebend ist die Verordnung über elektrische Niederspannungsinstallationen (Niederspannungs-Installationsverordnung, NIV) vom 7. November 2001. Die gemäss NIV geforderten Anzeigen und Nachweise sind von der beauftragten Installationsfirma, soweit möglich, über das Onlineportal für Elektroinstallateure bei IWB einzureichen.
+<sup>2</sup> Die Erstellung, Erweiterung oder Änderung von Hausinstallationen haben durch eine Elektroinstallationsfirma mit Installationsbewilligung des ESTI zu erfolgen. Massgebend ist die Verordnung über elektrische Niederspannungsinstallationen (Niederspannungs-Installationsverordnung, NIV) vom 7. November 2001[^28-1]. Die gemäss NIV geforderten Anzeigen und Nachweise sind von der beauftragten Installationsfirma, soweit möglich, über das Onlineportal für Elektroinstallateure bei IWB einzureichen.
 
 <sup>3</sup> Die Kundin oder der Kunde trägt die Verantwortung und die Kosten für die ordnungsgemässe Erdung der Hausinstallation (inklusive Nullungserdung). Wasserleitungen dürfen grundsätzlich nicht für die Erdung von elektrischen Anlagen benutzt werden. Bestehende Erdungen über Wasserleitungen sind spätestens bei der Erneuerung der Wasserleitungen durch eine separate Erdung (z.B. Fundament-, Tiefen-, Banderder) zu ersetzen.
 
@@ -380,6 +392,8 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 <sup>5</sup> Die ordnungsgemässe Fertigstellung der Hausinstallation ist Voraussetzung für die Inbetriebnahme von Netzanschlüssen.
 
 <sup>6</sup> Im Übrigen (insbesondere für die Kontrolle der Hausinstallationen) gelten die Vorgaben der NIV.
+
+[^28-1]: SR [734.27](https://db.clex.ch/link/Bund/734.27/de)
 
 ## 3. Netzbetrieb und Energielieferung
 
@@ -409,7 +423,7 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 - d) bei behördlicher Anordnung;
 - e) bei Instandhaltungs-, Instandsetzungs- oder Erweiterungsarbeiten am Verteilnetz;
 - f) in den Fällen von § 26 (Liefersperre);
-- g) bei Kundinnen und Kunden mit Wahltarif für unterbrechbare Verbraucher zu den im Gebührentarif von IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2022 genannten Bedingungen.
+- g) bei Kundinnen und Kunden mit Wahltarif für unterbrechbare Verbraucher zu den im Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität genannten Bedingungen.
 
 <sup>3</sup> Einschränkungen der Energielieferung werden von IWB auf das notwendige Mass beschränkt und, soweit möglich (insbesondere im Fall von Instandsetzungs- und Erweiterungsarbeiten am Verteilnetz), den betroffenen Kundinnen und Kunden im Voraus angezeigt.
 
@@ -423,44 +437,72 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 <sup>1</sup> Im Rahmen der Grundversorgung (Art. 6 StromVG) werden von IWB beliefert:
 
-- a) Kundinnen und Kunden mit einem Jahresverbrauch unter 100 MWh pro Verbrauchsstätte (feste Endverbraucherinnen und Endverbraucher, Art. 6 Abs. 2 StromVG);
-- b) Kundinnen und Kunden mit einem Jahresverbrauch von mindestens 100 MWh, die von ihrem Anspruch auf Netzzugang (Art. 13 StromVG, Art. 11 StromVV) keinen Gebrauch machen.
+- a) Kundinnen und Kunden mit einem Jahresverbrauch unter 100 MWh pro Verbrauchsstätte (feste Endverbraucherinnen und Endverbraucher, Art. 6 Abs. 2 StromVG), soweit die Kundin oder der Kunde die Elektrizität nicht in einer lokalen Elektrizitätsgemeinschaft (Art. 17d StromVG) bezieht;
+- b) Kundinnen und Kunden mit einem Jahresverbrauch von mindestens 100 MWh, die von ihrem Anspruch auf Netzzugang (Art. 13 StromVG, Art. 11 StromVV) keinen Gebrauch machen und ihre Elektrizität nicht in einer lokalen Elektrizitätsgemeinschaft (Art. 17d StromVG) beziehen.
 
 <sup>2</sup> Das Grundversorgungsverhältnis entsteht mit der schriftlichen Anmeldung der Kundin oder des Kunden bei IWB, spätestens jedoch mit dem Energiebezug. Bei einem Energiebezug in leerstehenden Räumen oder von unbenützten Anlagen kommt das Grundversorgungsverhältnis mit der Grund- bzw. Hauseigentümerin bzw. dem Grund- bzw. Hauseigentümer zustande.
 
 <sup>3</sup> Das Grundversorgungverhältnis endet:
 
 - a) mit Geltendmachung des Netzzugangs (gemäss § 32) und rechtsgültigem Wechsel in den freien Markt;
-- b) in allen anderen Fällen: mit der Abmeldung der Kundin oder des Kunden bei IWB. Bis zur Abmeldung haftet die Kundin oder der Kunde für den an ihrem bzw. seinem Messpunkt gemessenen Energieverbrauch. Die Abmeldung hat spätestens 30 Kalendertage vor dem gewünschten Abmeldetermin zu erfolgen. In der Abmeldung sind die alte und neue Adresse und der gewünschte Abmeldetermin anzugeben. Nach der Abmeldung erhält die Kundin oder der Kunde von IWB eine Endabrechnung.
+- b) in allen anderen Fällen: mit der Abmeldung der Kundin oder des Kunden bei IWB. Bis zur Abmeldung haftet die Kundin oder der Kunde für den an ihrem bzw. seinem Messpunkt gemessenen Energieverbrauch. Die Abmeldung hat spätestens 30 Kalendertage vor dem gewünschten Abmeldetermin zu erfolgen. Bei der Abmeldung sind die alte und neue Adresse und der gewünschte Abmeldetermin anzugeben. Die Informationspflichten der Vertreterin oder des Vertreters einer lokalen Elektrizitätsgemeinschaft gemäss § 32a bleiben unberührt. Nach der Abmeldung erhält die Kundin oder der Kunde von IWB eine Endabrechnung.
 
 <sup>4</sup> Mit Beendigung des Grundversorgungsverhältnisses werden alle zum Beendigungszeitpunkt bestehenden offenen Forderungen von IWB gegenüber der Kundin oder dem Kunden zur Zahlung fällig.
 
-<sup>5</sup> Die Grundversorgung erfolgt zum Eigenverbrauch der Kundinnen und Kunden. Eine Weiterleitung der Energie an Dritte ist nicht gestattet, es sei denn, die Weiterleitung erfolgt an Personen in Untermiete von Räumen oder mit Bewilligung von IWB. Eine Bewilligung wird in der Regel erteilt, wenn die Weiterleitung an temporäre, mobile Anlagen oder innerhalb bestehender Arealnetze erfolgt. Bei einer bewilligten Weitergabe an Dritte dürfen auf die Tarife von IWB keine Zuschläge erhoben werden.
+<sup>5</sup> Die Grundversorgung erfolgt für den eigenen Verbrauch der Kundinnen und Kunden. Eine Weiterleitung der Energie an Kundinnen und Kunden im freien Markt ist nicht gestattet. Eine Weiterleitung an andere grundversorgte Kundinnen und Kunden ist gestattet, wenn die Weiterleitung im Rahmen einer Untervermietung von Räumen oder mit Bewilligung von IWB erfolgt. Eine Bewilligung wird grundsätzlich erteilt, wenn die Weiterleitung an temporäre, mobile Anlagen oder innerhalb bestehender Arealnetze erfolgt. Bei einer bewilligten Weitergabe dürfen auf die Tarife von IWB keine Zuschläge erhoben werden.
 
-<sup>6</sup> Die Grundversorgung von IWB erfolgt zu den im Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie vom 4. Juli 2011 und den im Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 publizierten Tarifen. Die Grundversorgungstarife setzen sich zusammen aus einem Energietarif, einem Netznutzungstarif und den jeweils anwendbaren Abgaben und Leistungen an das Gemeinwesen. Abweichende Grundversorgungstarife in einem schriftlichen tarifvertretenden Stromliefervertrag bleiben vorbehalten.
+<sup>6</sup> Für die Grundversorgung erhebt IWB die Tarife gemäss Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie, die im Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität publizierten Netznutzungs- und Messtarife sowie die jeweils anwendbaren Abgaben und Leistungen an das Gemeinwesen. Abweichende Regelungen in einem schriftlichen tarifvertretenden Stromliefervertrag bleiben vorbehalten.
 
-### 3.3 Energielieferung für Kundinnen und Kunden im freien Markt
+### 3.3 Energielieferung ausserhalb der Grundversorgung
 
 #### § 32
 
-**Voraussetzungen**
+**Energielieferung an Kundinnen und Kunden im freien Markt**
 
-<sup>1</sup> Kundinnen und Kunden mit Netzzugang können über das Verteilnetz von IWB ihre Energie im freien Markt beziehen. Die Netzbereitstellung für Energielieferungen im freien Markt setzt kumulativ voraus, dass:
+<sup>1</sup> Kundinnen und Kunden mit Netzzugang gemäss Art. 13 Abs. 1 StromVG können über das Verteilnetz von IWB ihre Energie im freien Markt beziehen. Die Netzbereitstellung für Energielieferungen im freien Markt setzt kumulativ voraus, dass:
 
 - a) nach den aktuellen gesetzlichen Regelungen ein Anspruch auf Netzzugang besteht und
-- b) der Netzzugang ordnungsgemäss beantragt und von IWB gewährt wurde; Der Antrag ist mittels Formular einzureichen. Unvollständige und/oder fehlerhafte Anträge werden von IWB zurückgewiesen.
+- b) der Netzzugang ordnungsgemäss beantragt und von IWB gewährt wurde; der Antrag ist mittels Formular einzureichen. Unvollständige und/oder fehlerhafte Anträge werden von IWB zurückgewiesen.
 
-<sup>2</sup> Wird der Netzzugang für eine Kundin oder einen Kunden von Dritten beantragt (insbesondere Drittlieferantinnen bzw. Drittlieferanten oder Dienstleisterinnen bzw. Dienstleister), versichern diese mit dem Antrag gegenüber IWB, von der betroffenen Kundin oder vom betroffenen Kunden ordnungsgemäss bevollmächtigt zu sein. Sie haften gegenüber IWB für alle aus einer fehlenden Bevollmächtigung resultierenden Schäden. Auf Wunsch von IWB ist eine Vollmacht der Kundin bzw. des Kunden vorzulegen (mittels Formular).
+<sup>2</sup> Wird der Netzzugang für eine Kundin oder einen Kunden von einem Dritten beantragt (insbesondere einer Drittlieferantin oder einem Drittlieferanten), versichert der Dritte mit dem Antrag gegenüber IWB, von der betroffenen Kundin oder vom betroffenen Kunden ordnungsgemäss bevollmächtigt zu sein. Sie oder er haftet gegenüber IWB für alle aus einer fehlenden Bevollmächtigung resultierenden Schäden. Die Vollmacht der Kundin bzw. des Kunden ist IWB vorzulegen.
+
+<sup>3</sup> Mit Gewährung des Netzzugangs entsteht zwischen IWB und der Kundin oder dem Kunden ein Netznutzungsverhältnis zu den Bedingungen dieser Ausführungsbestimmungen. Ergänzende Regelungen in einem individuellen Netznutzungsvertrag bleiben vorbehalten.
+
+#### § 32a
+
+**Energielieferung an Teilnehmerinnen und Teilnehmer von lokalen Elektrizitätsgemeinschaften (LEG) gemäss Art. 17d StromVG**
+
+<sup>1</sup> Kundinnen und Kunden, die an einer lokalen Elektrizitätsgemeinschaft beteiligt sind, können über das Verteilnetz von IWB die von der lokalen Elektrizitätsgemeinschaft selbst produzierte Elektrizität beziehen. Die Netzbereitstellung setzt voraus, dass die gesetzlichen Voraussetzungen gegeben sind und die lokale Elektrizitätsgemeinschaft bei IWB ordnungsgemäss angemeldet wurde.
+
+<sup>2</sup> Die Anmeldung hat mittels Online-Formular über die Internetseite von IWB zu erfolgen. Mit der Anmeldung sind IWB alle für die Abwicklung der Energielieferung in der lokalen Elektrizitätsgemeinschaft erforderlichen Angaben zur Verfügung zu stellen (insbesondere die Namen und Adressen aller Teilnehmerinnen und Teilnehmer sowie die technischen Daten aller teilnehmenden Erzeugungsanlagen und Speicher).
+
+<sup>3</sup> Die lokale Elektrizitätsgemeinschaft hat eine Vertreterin oder einen Vertreter zu bezeichnen. Die Vertreterin oder der Vertreter vertritt die lokale Elektrizitätsgemeinschaft und deren Teilnehmerinnen und Teilnehmer gegenüber IWB. An die Teilnehmerinnen und Teilnehmer der lokalen Elektrizitätsgemeinschaft gerichtete Rechnungen und sonstige Verfügungen, Aufforderungen und Erklärungen von IWB können den Teilnehmerinnen und Teilnehmern der lokalen Elektrizitätsgemeinschaft durch Zustellung an die Vertreterin oder den Vertreter wirksam mitgeteilt werden.
+
+<sup>4</sup> Die Vertreterin oder der Vertreter hat IWB über jede nachträgliche Änderung in der lokalen Elektrizitätsgemeinschaft zu informieren (insbesondere über Ein- und Austritte und geänderte technische Daten der Erzeugungsanlagen oder Speicher). Die Information hat so früh wie möglich zu erfolgen. Ein- und Austritte sind spätestens einen Monat im Voraus zu melden.
+
+### 3.3<sup>bis</sup> Netznutzung und Ersatzversorgung
+
+#### § 32b
+
+**Netznutzung**
+
+<sup>1</sup> Die Bereitstellung des Verteilnetzes für Kundinnen und Kunden im freien Markt (§ 32) erfolgt zu den im Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität publizierten Tarifen. Anwendbare Abgaben und Leistungen an Gemeinwesen werden den Kundinnen und Kunden zusätzlich in Rechnung gestellt. Die Rechnungsstellung erfolgt an die Kundin oder den Kunden, soweit die Kundin oder der Kunde nicht gemäss Art. 7a StromVV Rechnungstellung an die Drittlieferantin oder den Drittlieferanten verlangt. Schuldnerin bzw. Schuldner gegenüber IWB bleibt in jedem Fall die Kundin bzw. der Kunde.
+
+<sup>2</sup> Die Bereitstellung des Verteilnetzes für den Bezug von selbst erzeugter Elektrizität in einer lokalen Elektrizitätsgemeinschaft (§ 32a) erfolgt, wenn und solange die Voraussetzungen von § 32a Abs. 1 gegeben sind, zu einem reduzierten Netznutzungstarif gemäss Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität. Anwendbare Abgaben und Leistungen an Gemeinwesen werden in voller Höhe in Rechnung gestellt. Die Rechnungsstellung erfolgt nach Wahl von IWB entweder an die lokale Elektrizitätsgemeinschaft oder an die Teilnehmerinnen oder Teilnehmer, sofern die Gemeinschaft bzw. deren Vertreterin oder Vertreter nicht selbst Rechnungsstellung an die Gemeinschaft verlangt. Schuldnerin bzw. Schuldner gegenüber IWB bleibt die Teilnehmerin oder der Teilnehmer. Für Zahlungsfristen und Liefersperren gelten § 34 Abs. 3 und 4 entsprechend.
+
+<sup>3</sup> Betreiberinnen und Betreibern von Speichern mit Endverbrauch oder von Anlagen zur Umwandlung von Elektrizität in Wasserstoff oder synthetische Gase oder Brennstoffe erstattet IWB das Netznutzungsentgelt nach Massgabe von Art. 14a StromVG und den ergänzenden Bestimmungen der StromVV auf Antrag zurück.
+
+<sup>4</sup> Betreiberinnen und Betreiber von Speichern ohne Endverbrauch schulden für den Energiebezug über das Verteilnetz von IWB kein Netznutzungsentgelt. Gleiches gilt für Betreiberinnen und Betreiber von Kraftwerken, soweit der Energiebezug für den Eigenbedarf des Kraftwerks erfolgt.
 
 #### § 33
 
-**Netznutzung und Ersatzversorgung**
+**Ersatzversorgung für Kundinnen und Kunden im freien Markt**
 
-<sup>1</sup> Mit Wirksamwerden des Netzzugangs entsteht zwischen IWB und der Kundin oder dem Kunden ein Netznutzungsverhältnis zu den Bedingungen dieser Ausführungsbestimmungen. Zusätzliche Regelungen in einem individuellen Netznutzungsvertrag bleiben vorbehalten.
+<sup>1</sup> …
 
-<sup>2</sup> Für die Nutzung des Verteilnetzes von IWB werden den Kundinnen und Kunden die im Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 publizierten Netznutzungstarife und die jeweils anwendbaren Abgaben und Leistungen an das Gemeinwesen in Rechnung gestellt. Auf Verlangen einer Kundin oder eines Kunden stellt IWB die Rechnung der Drittlieferantin oder dem Drittlieferanten der Kundin bzw. des Kunden zu (zwecks einheitlicher Rechnungsstellung). Schuldnerin bzw. Schuldner des Netznutzungsentgelts gegenüber IWB bleibt ungeachtet dessen die Kundin bzw. der Kunde.
+<sup>2</sup> …
 
-<sup>3</sup> Bezieht die Kundin oder der Kunde über das Verteilnetz von IWB ihre bzw. seine elektrische Energie ohne rechtsgültigen, gemäss § 34 Absatz 1 lit. a) ordnungsgemäss gemeldeten Stromliefervertrag mit einem Drittlieferanten, entsteht automatisch ein Ersatzversorgungsvertrag mit IWB und wird der Kundin oder dem Kunden die bezogene elektrische Energie zu den auf der Webseite von IWB publizierten Konditionen in Rechnung gestellt.
+<sup>3</sup> Bezieht eine Kundin oder ein Kunde über das Verteilnetz von IWB ihre bzw. seine elektrische Energie im freien Markt ohne rechtsgültigen, gemäss § 34 Absatz 1 lit. a) ordnungsgemäss gemeldeten Stromliefervertrag mit einem Drittlieferanten, entsteht automatisch ein Ersatzversorgungsvertrag mit IWB und wird der Kundin oder dem Kunden die bezogene elektrische Energie zu den auf der Webseite von IWB publizierten Konditionen in Rechnung gestellt.
 
 <sup>4</sup> Das Ersatzversorgungsverhältnis endet mit dem gemäss § 34 Absatz 1 lit. a) ordnungsgemäss gemeldeten Lieferbeginn einer Drittlieferantin oder eines Drittlieferanten.
 
@@ -472,15 +514,15 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 - a) unverzüglich, spätestens 10 Kalendertage vor Lieferbeginn: Messpunkt, Name und Adresse der Vertragspartnerin oder des Vertragspartners sowie Dauer des Stromliefervertrages;
 - b) unverzüglich, spätestens 10 Arbeitstage vor Vertragsende: Ablauf des Stromliefervertrages (infolge Fristablauf oder Kündigung), Wechsel der Lieferantin oder des Lieferanten;
-- c) unverzüglich: Wunsch der Kundin oder des Kunden nach einheitlicher Rechnungsstellung (Art. 9 StromVV); ausstehende Rechnungen der Kundin oder des Kunden, falls diese oder dieser für die Energielieferung und Netznutzung eine einheitliche Rechnung erhält; Änderungen der Stammdaten des standardisierten Datenaustauschs (SDAT).
+- c) unverzüglich: Wunsch der Kundin oder des Kunden nach einheitlicher Rechnungsstellung (Art. 7a StromVV und § 33 Abs. 2 ); ausstehende Rechnungen der Kundin oder des Kunden, falls diese oder dieser für die Energielieferung und Netznutzung eine einheitliche Rechnung erhält; Änderungen der Stammdaten des standardisierten Datenaustauschs (SDAT).
 
 <sup>2</sup> Weitere Informationspflichten und abweichende Fristen gemäss jeweils aktueller Branchenempfehlung bleiben vorbehalten. Die Informationen sind IWB fristgerecht per E-Mail ⁠(wechselprozess@iwb.ch) oder mittels elektronischem Datenaustausch gemäss SDAT zukommen zu lassen.
 
-<sup>3</sup> Verlangt die Kundin oder der Kunde eine einheitliche Rechnungsstellung durch die Drittlieferantin oder den Drittlieferanten (Art. 9 StromVV), stellt IWB die Rechnung für die Netznutzung der Drittlieferantin oder dem Drittlieferanten zu (§ 33). Diese oder dieser hat den Rechnungsbetrag ohne Abzug innerhalb von 30 Tagen ab Rechnungsstellung zu begleichen.
+<sup>3</sup> Verlangt die Kundin oder der Kunde eine einheitliche Rechnungsstellung durch die Drittlieferantin oder den Drittlieferanten (§ 33 Abs. 2), stellt IWB die Rechnung für die Netznutzung der Drittlieferantin oder dem Drittlieferanten zu (§ 33). Diese oder dieser hat den Rechnungsbetrag ohne Abzug innerhalb von 30 Tagen ab Rechnungsstellung zu begleichen.
 
 <sup>4</sup> IWB informiert die Drittlieferantin oder den Drittlieferanten über allfällige Liefersperren (§ 26). IWB verfügt auf deren oder dessen Wunsch Liefersperren, wenn die zwischen der Drittlieferantin oder dem Drittlieferanten und der Kundin oder dem Kunden vertraglich vereinbarten Voraussetzungen einer Liefersperre eingetreten sind (§ 26). Die Erfüllung der Sperrvoraussetzungen ist IWB plausibel darzulegen.
 
-<sup>5</sup> IWB liefert der Drittlieferantin oder dem Drittlieferanten die notwendigen Messdaten der Kundin oder des Kunden (Art. 8 Abs. 3 StromVV). Als notwendige Messdaten gelten die abrechnungsrelevanten Verbrauchsdaten der Kundin oder des Kunden. Auf Begehren der Drittlieferantin oder des Drittlieferanten liefert IWB zusätzliche Daten und Informationen, wenn und soweit ein Einverständnis der betroffenen Kundin oder des betroffenen Kunden gegeben ist (Art. 8 Abs. 4 StromVV). Das Einverständnis der Kundin oder des Kunden ist IWB schriftlich vorzulegen.
+<sup>5</sup> IWB liefert der Drittlieferantin oder dem Drittlieferanten die notwendigen Messdaten der Kundin oder des Kunden. Als notwendige Messdaten gelten die abrechnungsrelevanten Verbrauchsdaten der Kundin oder des Kunden. Auf Begehren der Drittlieferantin oder des Drittlieferanten liefert IWB zusätzliche Daten und Informationen, wenn und soweit ein Einverständnis der betroffenen Kundin oder des betroffenen Kunden gegeben ist (Art. 8 Abs. 4 StromVV). Das Einverständnis der Kundin oder des Kunden ist IWB schriftlich vorzulegen.
 
 <sup>6</sup> Der Informationsaustausch zwischen IWB und der Drittlieferantin oder dem Drittlieferanten erfolgt kostenlos, ebenso die Bereitstellung der notwendigen Messdaten durch IWB. Für die Bereitstellung zusätzlicher Daten und Informationen wird der Drittlieferantin oder dem Drittlieferanten von IWB eine kostendeckende Entschädigung in Rechnung gestellt.
 
@@ -508,7 +550,7 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 <sup>1</sup> Arealnetzeigentümerinnen und Arealnetzeigentümer sind verpflichtet, IWB für die Versorgung der an das Arealnetz angeschlossenen Kundinnen und Kunden ihre Netzinfrastruktur und die damit verbundenen Systemdienstleistungen zur Verfügung zu stellen. Sie haben jederzeit einen sicheren, unterbruchfreien Transport der elektrischen Energie in Form von Dreiphasen-Wechselstrom innerhalb der üblichen Toleranzen für Spannung und Frequenz bis zu den Ausspeisepunkten (Messpunkten) der an das Arealnetz angeschlossenen Kundinnen und Kunden zu gewährleisten.
 
-<sup>2</sup> Arealnetzeigentümerinnen und Arealnetzeigentümer haben alle für den Elektrizitätstransport vom Übergabepunkt (§ 2 Abs. 6) bis zu den Messpunkten der angeschlossenen Kundinnen und Kunden erforderlichen Anpassungen an den arealinternen Netzanschlussleitungen vorzunehmen und die Dimensionierung der Netzanschluss- und Bezugsleistung mit den Kundinnen und Kunden zu regeln.
+<sup>2</sup> Arealnetzeigentümerinnen und Arealnetzeigentümer haben alle für den Elektrizitätstransport vom Übergabepunkt (§ 2 Abs. 6) bis zu den Messpunkten der angeschlossenen Kundinnen und Kunden erforderlichen Anpassungen an den arealinternen Anschlussleitungen vorzunehmen und die Dimensionierung der Netzanschluss- und Bezugsleistung mit den Kundinnen und Kunden zu regeln.
 
 <sup>3</sup> Arealnetzeigentümerinnen und Arealnetzeigentümer haben sicherzustellen, dass durch das Arealnetz keine unzulässigen Netzrückwirkungen (§ 5 Abs. 2) entstehen. Sie haben sämtliche zur Vermeidung unzulässiger Netzrückwirkungen erforderlichen Massnahmen zu treffen und die damit verbundenen Kosten zu tragen. Sie haften für sämtliche Schäden, die auf unzulässige Netzrückwirkungen des Arealnetzes zurückzuführen sind.
 
@@ -518,21 +560,29 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 #### § 37
 
-**Auflösung bestehender Arealnetze / Ausschluss neuer Arealnetze**
+**(Teil-)Auflösung bestehender Arealnetze / Ausschluss neuer Arealnetze**
 
 <sup>1</sup> Bei einer wesentlichen Umnutzung des Areals hat die Arealnetzeigentümerin oder der Arealnetzeigentümer das Arealnetz aufzulösen und sind die Kundinnen und Kunden auf dem Areal direkt an das Verteilnetz von IWB anzuschliessen. Die Arealnetzeigentümerin oder der Arealnetzeigentümer hat, soweit notwendig, die Elektroinstallationen auf dem Areal so anzupassen, dass ein direkter Anschluss an das Verteilnetz von IWB mit separater Messung der einzelnen Kundinnen und Kunden erfolgen kann. Sie oder er trägt sämtliche damit verbundenen Kosten.
 
-<sup>2</sup> Von einer wesentlichen Umnutzung im Sinne von Abs. 1 ist insbesondere dann auszugehen, wenn der ursprüngliche Zweck des Areals (z.B. Industriebetrieb) nicht mehr gegeben ist, wenn ein Gelände neu erschlossen wird oder wenn Parzellen neu aufgeteilt werden.
+<sup>2</sup> Eine wesentliche Umnutzung im Sinne von Abs. 1 liegt insbesondere vor, wenn der ursprüngliche Zweck des Areals (z.B. Industriebetrieb) nicht mehr gegeben ist.
 
-<sup>3</sup> Abweichende zwingende gesetzliche Regelungen vorbehalten, dürfen neue Arealnetze im Netzgebiet von IWB nicht erstellt werden.
+<sup>2<sup>bis</sup></sup> Die Arealnetzeigentümerin oder der Arealnetzeigentümer hat IWB über eine geplante wesentliche Umnutzung des Areals so früh wie möglich, spätestens 12 Monate im Voraus, zu informieren. Für den direkten Anschluss von Kundinnen und Kunden auf dem Areal an das Verteilnetz von IWB ist ein Anschlussverfahren gemäss §§ 9 ff. durchzuführen. Ergibt die netztechnische Vorabklärung (§ 10), dass der direkte Anschluss an das Verteilnetz von IWB bis zum geplanten Termin der Arealnetzauflösung nicht realisiert werden. kann, hat die Arealnetzeigentümerin oder der Arealnetzeigentümer das Arealnetz bis zum Zeitpunkt der Realisierbarkeit selbständig und auf eigene Kosten weiter zu betreiben und findet § 36 weiterhin Anwendung.
+
+<sup>2<sup>ter</sup></sup> Bei einer wesentlichen Umnutzung nur eines Teils des Areals gelten in Bezug auf den umgenutzten Arealteil die Regelungen von § 37 Abs. 1 – 2<sup>bis</sup> entsprechend (Teilauflösung).
+
+<sup>3</sup> Abweichende zwingende gesetzliche Regelungen vorbehalten, dürfen im Netzgebiet von IWB bestehende Arealnetze nicht erweitert und neue Arealnetze nicht erstellt werden.
 
 #### § 38
 
 **Eigenverbrauch und Zusammenschluss zum Eigenverbrauch (ZEV)**
 
-<sup>1</sup> An das Verteilnetz von IWB (direkt oder indirekt über ein Arealnetz) angeschlossene Kundinnen und Kunden können ihre elektrische Energie aus eigenen oder aus von Dritten betriebenen EEA beziehen. Sie können sich zum gemeinsamen Eigenverbrauch zusammenschliessen.
+<sup>1</sup> …
 
-<sup>2</sup> Die Voraussetzungen für den Zusammenschluss zum Eigenverbrauch und die mit dem Zusammenschluss verbundenen Rechte und Pflichten richten sich nach dem Energiegesetz (EnG) vom 30. September 2016 und der Energieverordnung (EnV) vom 1. November 2017 des Bundes. Die gegenüber IWB bestehenden gesetzlichen Meldepflichten sind mittels Formular zu erfüllen.
+<sup>2</sup> Die Voraussetzungen für Eigenverbrauch (Art. 16 EnG) und für Zusammenschlüsse zum Eigenverbrauch (Art. 17 EnG) im Netzgebiet von IWB richten sich nach den gesetzlichen Vorgaben. Bei der Auflösung eines Zusammenschlusses zum Eigenverbrauch mit eigenem Arealnetz gilt ergänzend § 37.
+
+<sup>3</sup> Die für die Bildung eines Zusammenschlusses zum Eigenverbrauch unter Inanspruchnahme von Anschlussleitungen notwendigen Informationen können von der Eigentümerin oder vom Eigentümer bei IWB angefragt werden. IWB stellt die angefragten Informationen innerhalb von 15 Arbeitstagen nach Eingang der Anfrage zur Verfügung.
+
+<sup>4</sup> Die gesetzlich geforderten Mitteilungen des Zusammenschlusses zum Eigenverbrauch an IWB haben mittels Formular zu erfolgen.
 
 ## 4. Messung und Messdatenbereitstellung
 
@@ -540,19 +590,35 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 #### § 39
 
-<sup>1</sup> Für das Messwesen und die Informationsprozesse im Netzgebiet trägt grundsätzlich IWB die Verantwortung (Art. 8 StromVV) und gelten §§ 40 ff.
+<sup>1</sup> Im Netzgebiet von IWB ist IWB für das Messwesen zuständig (Art. 17a StromVG). Die Messung und Messdatenbereitstellung durch IWB erfolgt nach den anwendbaren gesetzlichen Bestimmungen und den ergänzenden Regelungen von §§ 40 ff.
 
-<sup>2</sup> Die Verantwortung für die interne Verbrauchsmessung bei einem Zusammenschluss zum Eigenverbrauch trägt die Grundeigentümerin oder der Grundeigentümer bzw. der Zusammenschluss zum Eigenverbrauch.
+<sup>2</sup> …
 
 ### 4.2 Messmittel
 
 #### § 40
 
-**Bereitstellung, Art des Messmittels**
+**Bereitstellung von Messmitteln**
 
-<sup>1</sup> Zur Feststellung der von den Kundinnen und Kunden bezogenen Energiemengen (Wirk- und Blindenergie) sowie zur Feststellung der bezogenen Leistung und der in das Verteilnetz von IWB eingespeisten Energie (Wirk- und Blindenergie) stellt IWB den Kundinnen und Kunden Messmittel zur Verfügung. Die Messmittel bestehen aus einem Elektrizitätszähler und allfälligen Schaltapparaten, insbesondere Steuerungs- und Regelungseinrichtungen, und stehen im Eigentum von IWB. Die Art der von IWB eingesetzten Messmittel richtet sich nach den Vorgaben der StromVV.
+<sup>1</sup> Zur Feststellung der vom Verteilnetz bezogenen Energiemengen (Wirk- und Blindenergie), der bezogenen Leistung sowie zur Feststellung der eingespeisten Energiemengen (Wirk- und Blindenergie) erhält jede Endverbraucherin und jeder Endverbraucher im Netzgebiet von IWB ein Messmittel.
 
-<sup>2</sup> In begründeten Einzelfällen kann IWB von der Bereitstellung eines Messmittels absehen und den betroffenen Kundinnen und Kunden für die bezogene Energiemenge eine Tarifpauschale gemäss § 5 des Gebührentarifs der IWB Industrielle Werke Basel für die elektrischer Energie vom 4. Juli 2011 und für die Netznutzung eine Tarifpauschale gemäss § 8 Abs. 5 des Gebührentarifs der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 in Rechnung stellen.
+<sup>2</sup> In begründeten Einzelfällen kann IWB von der Bereitstellung eines Messmittels gemäss § 40 Abs. 1 absehen. In diesem Fall gelten die Tarifpauschalen gemäss § 5 Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie und gemäss § 12 Abs. 4 Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität.
+
+<sup>3</sup> Betreiberinnen und Betreiber von Energieerzeugungsanlagen mit einer Leistung von mehr als 30 kVA erhalten für die Produktionsmessung ihrer Energieerzeugungsanlage ein zusätzliches Messmittel.
+
+<sup>4</sup> Für Energieerzeugungsanlagen mit einer Leistung bis zu 30 kVA, für Speicher mit Endverbrauch und für Anlagen zur Umwandlung von Elektrizität in Wasserstoff, synthetische Gase, Brenn- oder Treibstoffe sowie für Teilnehmerinnen und Teilnehmer von Zusammenschlüssen zum Eigenverbrauch werden Messmittel auf Antrag bereitgestellt. Der Antrag hat durch oder mit Vollmacht der Produzentin oder des Produzenten, der Betreiberin oder des Betreibers des Speichers bzw. der Teilnehmerin oder des Teilnehmers des Zusammenschlusses zum Eigenverbrauch zu erfolgen.
+
+#### § 40a
+
+**Art des Messmittels**
+
+<sup>1</sup> IWB bestimmt die Art des Messmittels gemäss den anwendbaren gesetzlichen Bestimmungen.
+
+<sup>2</sup> In der Regel werden intelligente Messmittel bereitgestellt (Art. 17a<sup>bis</sup> StromVG). Kundinnen und Kunden haben keinen Anspruch auf analoge elektromechanische Messmittel.
+
+<sup>3</sup> Kann ein intelligentes Messmittel nicht installiert werden, weil die Kundin oder der Kunde deren Einsatz verweigert, werden ihr oder ihm zusätzlich zum Messentgelt (§ 44) die Mehrkosten der Messung in Rechnung gestellt. IWB ist ausserdem berechtigt, den Einsatz eines intelligenten Messmittels im Rahmen eines Verwaltungsverfahrens vor der Elektrizitätskommission (ElCom) rechtlich durchzusetzen.
+
+<sup>4</sup> Die bereitgestellten Messmittel (Elektrizitätszähler sowie allfällige Schaltapparate und Kommunikationseinrichtungen) stehen im Eigentum von IWB.
 
 #### § 41
 
@@ -560,15 +626,17 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 <sup>1</sup> Der Standort des Messmittels wird von IWB nach Massgabe der anwendbaren Werkvorschriften im Einvernehmen mit der Kundin oder dem Kunden bestimmt.
 
-<sup>2</sup> Die Kundinnen und Kunden haben IWB hinreichenden Platz für die Messmittel kostenlos zur Verfügung zu stellen. Dies gilt auch in Arealnetzen, wenn und soweit eine Messung durch IWB durchgeführt werden muss. Die Kundinnen und Kunden haben die für den Anschluss der Messmittel notwendigen Installationen durchführen zu lassen, den Zugang zu den Messmitteln freizuhalten und jederzeit Zutritt zu gewähren. Sie haben sicherzustellen, dass die Messmittel nicht beschädigt werden.
+<sup>2</sup> Die Kundinnen und Kunden haben IWB den für die Messmittel (einschliesslich allfälliger Schaltapparate und Kommunikationseinrichtungen) erforderlichen Platz kostenlos zur Verfügung zu stellen. Dies umfasst auch die Bereitstellung von Raum für Leitungswege (beispielsweise mittels Leerrohren oder Kabelkanälen) und gilt sowohl im Verteilnetz von IWB als auch in Arealnetzen, wenn und soweit eine Messung durch IWB durchgeführt werden muss. Die Kundinnen und Kunden haben die für den Anschluss der Messmittel notwendigen Installationen durchführen zu lassen, den Zugang zu den Messmitteln freizuhalten und jederzeit Zutritt zu gewähren. Sie haben sicherzustellen, dass die Messmittel nicht beschädigt werden.
 
 ### 4.3 Instandhaltung des Messmittels
 
 #### § 42
 
-<sup>1</sup> IWB trägt die Verantwortung für die Instandhaltung der Messmittel. IWB kann die Instandhaltung selbst durchführen oder Dritte mit der Instandhaltung beauftragen.
+<sup>1</sup> IWB trägt die Verantwortung für die Instandhaltung der von ihr bereitgestellten Messmittel. IWB kann die Instandhaltung selbst durchführen oder Dritte mit der Instandhaltung beauftragen.
 
-<sup>2</sup> Die Prüfung der Messmittel richtet sich nach den Vorgaben der Messmittelverordnung (MessMV) vom 15. Februar 2006.
+<sup>2</sup> Die Prüfung der Messmittel richtet sich nach den Vorgaben der Messmittelverordnung vom 15. Februar 2006 (MessMV)[^42-1].
+
+[^42-1]: SR [941.210](https://db.clex.ch/link/Bund/941.210/de)
 
 ### 4.4 Manipulationen am Messmittel
 
@@ -582,13 +650,13 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 #### § 44
 
-<sup>1</sup> Die Kosten für die von IWB im Rahmen von § 40 Abs. 1 bereitgestellten Messmittel und für deren Instandhaltung werden den Kundinnen und Kunden über das Netznutzungsentgelt in Rechnung gestellt.
+<sup>1</sup> Für die bereitgestellten Messmittel erhebt IWB das im Gebührentarif der IWB Industrielle Werke Basel für den Anschluss, die Nutzung des Netzes für elektrische Energie und die Messung der Elektrizität bezeichnete Messentgelt. Die Abrechnung zusätzlicher Kosten gemäss § 40a Abs. 3 bleibt vorbehalten.
 
-<sup>2</sup> Die Anschaffungs- und wiederkehrenden Kosten für Messmittel, die den Kundinnen und Kunden auf deren Wunsch zusätzlich bereitgestellt werden, sind über das Netznutzungsentgelt nicht abgegolten und werden den betreffenden Kundinnen und Kunden zusätzlich in Rechnung gestellt.
+<sup>2</sup> …
 
-<sup>3</sup> Bezieht die Kundin oder der Kunde über ein von IWB zur Verfügung gestelltes Messmittel keine Energie und fällt daher kein Netznutzungsentgelt an oder liegt das angefallene Netznutzungsentgelt unter dem im Gebührentarif der IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 publizierten Minimalentgelt, wird der Kundin oder dem Kunden für die Bereitstellung des Messmittels und dessen Instandhaltung das Minimalentgelt in Rechnung gestellt.
+<sup>3</sup> Das Messentgelt ist unabhängig vom Energieverbrauch am Messpunkt geschuldet.
 
-<sup>4</sup> Zu gross oder zu klein dimensionierte Messmittel von Kundinnen und Kunden können von IWB jederzeit auf die tatsächlich bezogene Leistung umgebaut werden. Ist der Umbau auf fehlerhafte Angaben der Kundin oder des Kunden im Netzanschlussvertrag zurückzuführen, trägt die Kundin oder der Kunde die damit verbundenen Kosten.
+<sup>4</sup> Zu gross oder zu klein dimensionierte Messmittel von Kundinnen und Kunden können von IWB jederzeit auf die tatsächlich bezogene Leistung angepasst werden. Ist der Umbau auf fehlerhafte Angaben der Kundin oder des Kunden zurückzuführen, trägt die Kundin oder der Kunde die damit verbundenen Kosten.
 
 ### 4.6 Messdaten
 
@@ -596,29 +664,33 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 **Auslesung der Messdaten**
 
-<sup>1</sup> Messdaten (Zählerstände) von mechanischen/elektromechanischen Elektrizitätszählern sind von den Kundinnen und Kunden in der für die Rechnungsstellung notwendigen Häufigkeit abzulesen und IWB bekanntzugeben. Die Kundinnen und Kunden erhalten dazu jeweils eine Aufforderung von IWB. Kommt eine Kundin oder ein Kunde dieser Aufforderung nicht nach, ist IWB berechtigt, den Energieverbrauch der Kundin oder des Kunden anhand der Messdaten aus der Vergangenheit zu schätzen oder die Ablesung selbst vorzunehmen. Nimmt IWB die Ablesung selbst vor, werden der Kundin oder dem Kunden die dadurch verursachten Kosten in Rechnung gestellt.
+<sup>1</sup> Messdaten (Zählerstände) von mechanischen/elektromechanischen Messmitteln sind von den Kundinnen und Kunden in der für die Rechnungsstellung notwendigen Häufigkeit abzulesen und IWB bekanntzugeben. Die Kundinnen und Kunden erhalten dazu eine Aufforderung von IWB.
 
-<sup>2</sup> Messdaten von Smart Metern werden von IWB in der Regel fernausgelesen. Für den Umgang mit diesen Daten gelten die Vorgaben der StromVV.
+<sup>1<sup>bis</sup></sup> Unterlässt eine Kundin oder ein Kunde die Bekanntgabe, ist IWB berechtigt, die Ablesung selbst vorzunehmen oder den Energieverbrauch anhand der Messdaten aus der Vergangenheit zu schätzen.
+
+<sup>1<sup>ter</sup></sup> Die Kosten einer Ablesung durch IWB gehen zu Lasten der Kundin oder des Kunden.
+
+<sup>2</sup> Messdaten von intelligenten Messmitteln werden von IWB in der Regel fernausgelesen. Sofern die Fernauslesung der Messdaten eines intelligenten Messmittels ausnahmsweise nicht erfolgen kann, gilt Abs. 1 entsprechend. Für den Umgang mit den Daten gelten die Vorgaben der StromVV.
 
 #### § 46
 
 **Richtigkeit der Messdaten**
 
-<sup>1</sup> Die erhobenen Messdaten gelten bis zum Beweis des Gegenteils als richtig und sind Grundlage für die Abrechnung der Netznutzungsgebühren sowie der bezogenen oder abgegebenen Elektrizität.
+<sup>1</sup> Die erhobenen Messdaten gelten bis zum Beweis des Gegenteils als richtig und sind Grundlage für die Abrechnung der Netznutzungsentgelte sowie der bezogenen oder abgegebenen Elektrizität.
 
-<sup>2</sup> Wird die Richtigkeit der Messdaten durch die Kundin oder den Kunden bestritten, kann sie bzw. er eine Prüfung der Zähler durch IWB oder eine andere zuständige Stelle gemäss Messmittelverordnung (MessVV vom 15. Februar 2006 (SR [941.210](https://db.clex.ch/link/Bund/941.210/de))) verlangen. IWB ist in diesem Fall berechtigt, einen zusätzlichen Zähler zu installieren. Die Kundin oder der Kunde hat den dafür erforderlichen Platz zur Verfügung zu stellen. In Streitfällen ist der Befund des Instituts für Metrologie (METAS) massgebend. Die Kosten der Prüfung und einer allfälligen Auswechslung der Zähler trägt diejenige Partei, welche durch das Prüfergebnis ins Unrecht versetzt wird.
+<sup>2</sup> Wird die Richtigkeit der Messdaten durch die Kundin oder den Kunden bestritten, kann sie bzw. er eine Prüfung der Messmittel durch IWB oder eine andere zuständige Stelle gemäss MessMV verlangen. IWB ist in diesem Fall berechtigt, ein zusätzliches Messmittel zu installieren. Die Kundin oder der Kunde hat den dafür erforderlichen Platz zur Verfügung zu stellen. In Streitfällen ist der Befund des Instituts für Metrologie (METAS) massgebend. Die Kosten der Prüfung und einer allfälligen Auswechslung des Messmittels trägt diejenige Partei, welche durch das Prüfergebnis ins Unrecht versetzt wird.
 
 #### § 47
 
 **Fehlmessungen**
 
-<sup>1</sup> Bei festgestelltem Fehlanschluss oder bei Fehlanzeige eines Zählers über die gesetzlich zulässige Toleranz hinaus wird der Bezug von Elektrizität soweit möglich aufgrund einer technischen Prüfung ermittelt. Die Kosten der Prüfung trägt IWB, wenn das Prüfungsergebnis ausserhalb der gesetzlichen Toleranz liegt.
+<sup>1</sup> Bei festgestelltem Fehlanschluss oder bei Fehlanzeige eines Messmittels über die gesetzlich zulässige Toleranz hinaus wird der Bezug von Elektrizität soweit möglich aufgrund einer technischen Prüfung ermittelt. Die Kosten der Prüfung trägt IWB, wenn das Prüfungsergebnis ausserhalb der gesetzlichen Toleranz liegt.
 
-<sup>2</sup> Kann der Fehlanschluss oder die Fehlanzeige eines Zählers nach Grösse und Dauer einwandfrei ermittelt werden, so sind die Abrechnungen für diese Zeit, jedoch höchstens für die Dauer von fünf Jahren, zu berichtigen.
+<sup>2</sup> Kann der Fehlanschluss oder die Fehlanzeige eines Messmittels nach Grösse und Dauer einwandfrei ermittelt werden, so sind die Abrechnungen für diese Zeit, jedoch höchstens für die Dauer der anwendbaren gesetzlichen Verjährungsfrist, zu berichtigen.
 
 <sup>3</sup> Lässt sich das Mass der Korrektur durch eine technische Prüfung nicht bestimmen, wird der Bezug auf der Basis der vor der letzten Feststellung des Fehlers abgelesenen Zähleranzeige und unter angemessener Berücksichtigung der Angaben der Kundin oder des Kunden von IWB festgelegt. Lässt sich der Zeitpunkt für das Eintreten der Störung nicht feststellen, so können die Angaben der Kundin oder des Kunden nur für die beanstandete Ableseperiode berücksichtigt werden.
 
-<sup>4</sup> Treten in einer Hausinstallation Energieverluste durch Erdschluss, Kurzschluss oder andere Ursachen auf, so hat die Kundin oder der Kunde keinen Anspruch auf Reduktion der Gebühr des durch die Zähler registrierten Energieverbrauchs.
+<sup>4</sup> Treten in einer Hausinstallation Energieverluste durch Erdschluss, Kurzschluss oder andere Ursachen auf, so hat die Kundin oder der Kunde keinen Anspruch auf Reduktion der Gebühr des durch die Messmittel registrierten Energieverbrauchs.
 
 ## 5. Haftung
 
@@ -632,7 +704,7 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 #### § 49
 
-<sup>1</sup> Im Zusammenhang mit dem Netzanschluss, der Grundversorgung, der Netznutzung und dem Messwesen (§ 39) erhebt IWB Gebühren. Die Gebühren sind im Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie vom 4. Juli 2011 und im Gebührentarif von IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011 publiziert und verstehen sich ohne Steuern und sonstige Abgaben. Steuern und Abgaben werden den Kundinnen und Kunden zusätzlich in Rechnung gestellt. Für die Rechnungsstellung und Zahlung gelten die nachfolgenden §§ 50 ff.
+<sup>1</sup> Im Zusammenhang mit dem Netzanschluss, der Grundversorgung, der Netznutzung und dem Messwesen (§ 39) erhebt IWB Gebühren. Die Gebühren sind im Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität sowie im Gebührentarif der IWB Industrielle Werke Basel für die elektrische Energie publiziert und verstehen sich ohne Steuern und sonstige Abgaben. Steuern und sonstige Abgaben werden den Kundinnen und Kunden zusätzlich in Rechnung gestellt. Für die Rechnungsstellung und Zahlung gelten §§ 50 ff.
 
 <sup>2</sup> Für die in Abs. 1 nicht genannten zusätzlichen Leistungen gelten die zwischen IWB und der Kundin oder dem Kunden vereinbarten Preise. Für die Rechnungsstellung und Zahlung gelten, soweit anwendbar und soweit keine abweichende vertragliche Regelung besteht, die nachfolgenden §§ 50 ff. entsprechend.
 
@@ -730,9 +802,11 @@ Kundin oder der Kunde beim Regierungsrat des Kantons Basel-Stadt Rekurs erheben 
 
 #### § 58
 
-<sup>1</sup> IWB erhebt für ihre Aufwendungen im Bereich der öffentlichen Beleuchtung und der öffentlichen Uhren im Kanton Basel-Stadt bei ihren Kundinnen und Kunden einen kostendeckenden verbrauchsabhängigen Zuschlag auf das Netznutzungsentgelt. Die Höhe des Netzzuschlags ergibt sich aus dem Gebührentarif von IWB Industrielle Werke Basel betreffend den Anschluss und die Nutzung des Netzes für elektrische Energie vom 4. Juli 2011. Allfällige Über- oder Unterdeckungen der Einnahmen aus dem Netzzuschlag werden den Kundinnen und Kunden über eine Rechnungsperiode von 3 Jahren gutgeschrieben oder belastet.
+<sup>1</sup> IWB erhebt für ihre Aufwendungen im Bereich der öffentlichen Beleuchtung und der öffentlichen Uhren im Kanton Basel-Stadt bei den Kundinnen und Kunden einen kostendeckenden verbrauchsabhängigen Zuschlag auf das Netznutzungsentgelt. Die Höhe des Zuschlags richtet sich nach dem Gebührentarif der IWB Industrielle Werke Basel für den Anschluss und die Nutzung des Netzes für elektrische Energie sowie die Messung von Elektrizität. Allfällige Über- oder Unterdeckungen der Einnahmen aus dem Netzzuschlag werden den Kundinnen und Kunden über eine Rechnungsperiode von drei Jahren gutgeschrieben oder belastet.
 
-<sup>2</sup> Die in den Gemeinden Bettingen und Riehen für die öffentliche Beleuchtung und die öffentlichen Uhren erhobenen Netzzuschläge werden von IWB an die Gemeinden Bettingen und Riehen zurückerstattet. Die Einzelheiten dazu werden zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen oder Riehen bilateral geregelt.
+<sup>2</sup> Die in den Gemeinden Bettingen und Riehen für die öffentliche Beleuchtung und die öffentlichen Uhren erhobenen Netzzuschläge werden von IWB an die Gemeinden Bettingen und Riehen zurückerstattet. Die Einzelheiten dazu werden zwischen dem Kanton Basel-Stadt und den Gemeinden Bettingen oder Riehen vertraglich geregelt.
+
+*Schlussbestimmung*
 
 Diese Ausführungsbestimmungen sind zu publizieren; sie treten am 1. Juli 2024 in Kraft.
 
