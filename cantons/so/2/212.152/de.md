@@ -4,13 +4,12 @@ number: "212.152"
 title: Verordnung über die Aufsicht über Stiftungen
 short: VAS
 language: de
-version: 2019-10-01
-valid_until: 2025-12-31
-version_adopted: 2019-06-11
+version: 2026-01-01
+version_adopted: 2025-09-23
 adopted: 1998-10-19
 in_force: 1999-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/212.152"
-pdf: "https://bgs.so.ch/api/de/versions/4857/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5582/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4857/pdf_file"
 
 (VAS)
 
-Vom 19.10.1998 (Stand 01.10.2019)
+Vom 19.10.1998 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -131,7 +130,7 @@ beschliesst:
 <sup>1</sup> Die Stiftung reicht der Aufsichtsbehörde alljährlich innerhalb von 6 Monaten seit Ablauf des Rechnungsjahres die folgenden Unterlagen ein:
 
 - a) die vom Stiftungsrat genehmigte, rechtsgültig unterzeichnete Jahresrechnung mit Bilanz, Betriebsrechnung und Anhang mit den Vorjahreszahlen,
-- b) ein Verzeichnis der Vermögensanlagen,
+- b) …
 - c) den Bericht der Revisionsstelle,
 - d) gegebenenfalls den umfassenden Bericht nach Artikel 728b Absatz 1 OR [^7-1]
 - e) ein Verzeichnis der personellen Zusammensetzung ihrer Organe mit dem Hinweis über die Zeichnungsberechtigung,
