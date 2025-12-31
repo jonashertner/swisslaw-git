@@ -4,13 +4,12 @@ number: "700.100"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: Baugesetz
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2024-12-16
 adopted: 1997-12-01
 in_force: 1999-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/700.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1996/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2017/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1996/pdf_file"
 
 (Baugesetz)
 
-Vom 01.12.1997 (Stand 01.08.2025)
+Vom 01.12.1997 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Schaffhausen,
 
@@ -49,29 +48,9 @@ beschliesst:
 
 <sup>2</sup> Die Behörden nehmen Anregungen und Einwände entgegen, prüfen diese bei der weiteren Bearbeitung und beantworten sie in geeigneter Form.
 
-#### Art. 3a
+#### Art. 3a–3b
 
-**Energie, Vorbildfunktion, Information**
-
-<sup>1</sup> Kanton, Gemeinden sowie andere Körperschaften und Anstalten des öffentlichen Rechtes verhalten sich in ihrem Bereich bezüglich der effizienten Nutzung und dem Einsatz erneuerbarer Energie vorbildlich. Insbesondere gilt die Vorbildfunktion für die Erstellung, die Ausrüstung und den Betrieb von öffentlichen Gebäuden und Anlagen.
-
-<sup>1<sup>bis</sup></sup> Sie haben tiefgreifende Umbau- und Sanierungsmassnahmen an ihren Gebäuden mindestens nach dem Minergie-Standard oder vergleichbaren Standards auszuführen. Bei Neubauten sind grundsätzlich der Minergie-P oder vergleichbare Standards einzuhalten.
-
-<sup>1<sup>ter</sup></sup> Sind diese Anforderungen nachweislich nicht sinnhaft oder nur mit einem sehr hohen Aufwand zu erreichen, kann ausnahmsweise davon abgewichen werden.
-
-<sup>2</sup> Kanton und Gemeinden informieren und beraten bezüglich der Möglichkeiten einer sparsamen und rationellen Energienutzung sowie der Nutzung erneuerbarer und umweltverträglich produzierter Energien. Kanton und Gemeinden koordinieren ihre Aktivitäten.
-
-<sup>3</sup> Der Kanton führt eine Energiefachstelle und kann Dritte beiziehen.
-
-#### Art. 3b
-
-**Auskunftspflicht**
-
-<sup>1</sup> Die politischen Gemeinden sowie die Energieversorgungsunternehmen, Energieproduzenten und grossen Energieverbraucher sind verpflichtet, den für den Vollzug dieses Gesetzes zuständigen Stellen die erforderlichen Auskünfte zu erteilen.
-
-<sup>2</sup> Die Auskünfte umfassen qualitative und quantitative Informationen über die aktuellen und zukünftigen Energieflüsse, die Energieproduktion und die Verbraucher. Die Informationen dienen als Grundlage für die Energiericht-, Quartier und Netzplanung sowie die Umsetzung der Optimierungsmassnahmen in Betriebsstätten.
-
-<sup>3</sup> Die erhobenen Grundlagen für die Informationstätigkeit des Kantons sowie dem Ersatz von Elektroheizungen und Elektroboiler ermöglichen den Vollzug und lassen keine Rückschlüsse auf detaillierte Verbrauchswerte und ‑profile zu.
+**…**
 
 ## 2 Kantonale Planung
 
@@ -129,13 +108,18 @@ beschliesst:
 - 8\. die Baukonstruktionen, Baumaterialien und die Anwendbarkeit von technischen Normen öffentlicher und privater Organisationen
 - 9\. die Erhaltung schöner oder geschichtlich wertvoller Kultur- und Baudenkmäler, Landschafts-, Orts-, Quartier- und Strassenbilder sowie Naturobjekte und Schutzgebiete
 - 10\. Einfriedungen und Geländeveränderungen
-- 11\. Solaranlagen, Mobilfunk- und Aussenantennen, Art und Standort von Reklamen und Firmenschildern
+- 11\. Mobilfunk- und Aussenantennen, Art und Standort von Reklamen und Firmenschildern
 - 12\. die Anlegung von Einstellräumen für Fahr- und Motorfahrräder auf privatem Grund bei Neu-, Umbauten und Zweckänderungen und über die Pflicht zur Erstellung von Abstellplätzen für Motorfahrzeuge auf privatem Grund bei Neu-, Umbauten und Zweckänderungen oder – falls die Abstellplätze nicht oder nicht in ausreichendem Masse bereitgestellt werden können oder dürfen (Art. 36) – zum Einkauf in öffentliche und private Parkierungsanlagen oder zur Leistung einer zweckgebundenen Ablösungszahlung
 - 13\. die Anlegung oder Beibehaltung geeigneter Kinderspielplätze, die Errichtung von grösseren Gemeinschaftsanlagen oder den Einkauf in bereits bestehende oder künftige öffentliche Kinderspielplätze
 - 14\. die Anlegung von Abstellplätzen für Abfuhrgut und Kehrichtbehälter auf privatem Grund
 - 15\. die Sicherung angemessener Wohnflächenanteile
 - 16\. behindertengerechtes Bauen
 - 17\. die Baukontrolle sowie die Voraussetzungen und das Verfahren zum Bezug neuer Wohnungen und Arbeitsräume
+- 18\. Erleichterungen für Solaranlagen im Sinne von Art. 54 Abs. 4
+- 19\. ein Verschotterungs- und Versiegelungsverbot von Grün- und Freiflächen in besiedelten oder hochwassergefährdeten Gebieten
+- 20\. die bodensparende und möglichst mehrgeschossige Bauweise in Industrie-, Gewerbe- und Dienstleitungszonen
+- 21\. die unterirdische Anordnung von Parkierungsflächen von verkehrsintensiven Einrichtungen und die Voraussetzungen für Ausnahmen in begründeten Fällen
+- 22\. Standorte von Unternehmen mit hoher Abwärmemenge und deren Nutzung
 
 <sup>2</sup> Ausserdem erlassen die Gemeinden die Ausführungsbestimmungen, für die sie aufgrund ausdrücklicher Gesetzesvorschrift zuständig sind.
 
@@ -175,6 +159,22 @@ beschliesst:
 
 <sup>5</sup> Kommt zwischen den Grundeigentümerinnen und Grundeigentümern und dem Gemeinwesen keine Einigung zustande, ist die Enteignung nach dem Enteignungsgesetz durchzuführen. Das Enteignungsverfahren beschränkt sich auf die Behandlung der angemeldeten Forderungen.
 
+#### Art. 9a
+
+**2a. Speziallandwirtschaftszonen**
+
+<sup>1</sup> Speziallandwirtschaftszonen sind Zonen für Bauten und Anlagen der Landwirtschaft, welche über die innere Aufstockung hinausgehen. Sie müssen im Sinne des Konzentrationsprinzips wenn möglich an eine bestehende Bauzone (primär Arbeitszone) anschliessen. Zudem müssen Bauten und Anlagen dieser Zone landschaftsverträglich eingeordnet werden können.
+
+<sup>2</sup> Speziallandwirtschaftszonen dürfen insbesondere in folgenden Gebieten nicht ausgeschieden werden:
+
+- a) in schützenswerten Landschaften von nationaler Bedeutung gemäss BLN
+- b) in schützenswerten Landschaften von kantonaler Bedeutung, ausgenommen in der Nähe eines bestehenden Betriebs
+- c) in Biotopen von nationaler und kantonaler Bedeutung gemäss Bundesinventaren, kantonalen Inventaren oder kantonalem Richtplan; ausgenommen in der Nähe eines bestehenden Betriebs
+- d) in Zuströmbereichen
+- e) in weiteren vom kantonalen Richtplan zu bezeichnenden Gebieten
+
+<sup>3</sup> Die Gemeinden können weitere Kriterien für das Ausscheiden von Speziallandwirtschaftszonen festlegen.
+
 #### Art. 10
 
 **Zonenplan: Materialabbauzone**
@@ -206,6 +206,12 @@ beschliesst:
 <sup>4</sup> Die Gemeinden können in ihren Bauordnungen für kleine Änderungen des Zonenplanes ein vereinfachtes Verfahren vorsehen und den Gemeinderat zur Beschlussfassung für zuständig erklären.
 
 <sup>5</sup> Gegen die Änderung von Zonenplänen kann Rekurs beim Regierungsrat erheben, wer davon berührt ist und ein schutzwürdiges Interesse an der Aufhebung oder Änderung des Beschlusses dartut. Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen.
+
+<sup>6</sup> Wenn vor Obergericht Beschwerde gegen Rekursentscheide des Regierungsrats im Zusammenhang mit Änderungen der Nutzungsplanung erhoben wird, so kann dennoch eine Baubewilligung gestützt auf die revidierten, aber noch nicht rechtskräftigen Regelungen erlassen werden, wenn:
+
+- a) die betroffene Gemeinde mit der vorgezogenen Anwendung einverstanden ist
+- b) die das Bauvorhaben betreffenden Bauvorschriften unbestritten sind und
+- c) der Regierungsrat zustimmt
 
 #### Art. 12
 
@@ -542,13 +548,7 @@ beschliesst:
 
 #### Art. 39a
 
-**Weitere Anforderungen an Bauten und Anlagen: Ladeinfrastruktur für E-Mobilität**
-
-<sup>1</sup> Neubauten und tiefgreifende Umbauten sind mit einer Ladeinfrastruktur für Elektrofahrzeuge auszurüsten. Der Ausbaustandard richtet sich nach der Gebäudenutzung.
-
-<sup>2</sup> Bestehende öffentlich zugängliche Parkhäuser und Parkplätze mit mehr als 60 Parkeinheiten sind bis 2030 mit Ladeinfrastruktur für Elektrofahrzeuge nachzurüsten.
-
-<sup>3</sup> Der Regierungsrat regelt die Einzelheiten und die Ausnahmen.
+**…**
 
 #### Art. 40
 
@@ -570,205 +570,9 @@ beschliesst:
 
 <sup>2</sup> Vorbehalten bleiben weitere öffentlich-rechtliche Vorschriften und die Bestimmungen des Privatrechts über den Schutz vor übermässigen Einwirkungen.
 
-#### Art. 42
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Allgemeines**
-
-<sup>1</sup> Bei Bauten und Anlagen, welche geheizt oder gekühlt werden können, sind alle notwendigen Vorkehren zu treffen, damit niedrige, dem jeweiligen Stand der Technik entsprechende Energiebedarfswerte sowie entsprechend niedrige Verluste an Wärme und Kälte erreicht werden. Auf die wirtschaftliche Tragbarkeit ist Rücksicht zu nehmen; überwiegende öffentliche Interessen sind zu wahren. Diese Anforderungen sind zu beachten:
-
-- a) bei Neubauten und bewilligungspflichtigen Änderungen bestehender Bauten und Anlagen, die sich wesentlich auf den Energiehaushalt des Gebäudes auswirken
-- b) bei Neuinstallationen sowie bei Ersatz und wesentlichen Änderungen haustechnischer Anlagen oder Anlagen im Freien wie Heizungs-, Wassererwärmungs-, Lüftungs-, Klima- und Kühlanlagen
-
-<sup>2</sup> Sofern kein Baubewilligungsverfahren erforderlich ist, sorgt die Eigentümerin bzw. der Eigentümer oder die bzw. der Nutzungsberechtigte selbst für die Einhaltung der energierechtlichen Vorschriften.
-
-<sup>3</sup> Bei bestehenden Bauten sind durch Wärmedämm-Massnahmen bedingte Abweichungen von Grenzabstand, Baulinie, Ausnützungsziffer und Gebäudeabmessung zulässig. Bei beheizten neuen Gebäuden, welche mindestens den Minergie-, MuKEn-Standard oder einen vergleichbaren Baustandard erreichen, wird die Überschreitung von maximal 20 cm für die Wärmedämmung oder Anlage zur besseren Nutzung einheimischer erneuerbarer Energien bei der Berechnung insbesondere der Gebäudehöhe, der Gebäude-, Grenz-, Gewässer-, Strassen- oder Parkplatzabstände und bei den Baulinien nicht mitgezählt.
-
-<sup>4</sup> Der Regierungsrat erlässt die näheren Vorschriften und legt die zulässigen Energiebedarfswerte sowie die Wärme- und Kälteverluste fest. Die Einhaltung dieser Vorschriften kann der privaten Kontrolle unterstellt werden. Das Baudepartement unterstützt die Gemeinden beim Vollzug.
-
-#### Art. 42a
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Anforderungen an Neubauten**
-
-<sup>1</sup> Neubauten und Erweiterungen von bestehenden Bauten sind so auszurüsten, dass ihr Energiebedarf für Heizung, Warmwasser, Lüftung und Klimatisierung dem Stand der Technik entspricht.
-
-<sup>1<sup>bis</sup></sup> Neubauten erzeugen einen Teil ihrer benötigten Elektrizität selber oder sparen den entsprechenden Anteil Energie ein.
-
-<sup>2</sup> Der Regierungsrat regelt die Anforderungen und die Ausnahmen.
-
-#### Art. 42b
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Verbrauchsabhängige Heiz- und Warmwasserkostenabrechnung**
-
-<sup>1</sup> Zentral beheizte Neubauten mit mindestens fünf Wärmebezügern sind mit den nötigen Geräten zur Erfassung des individuellen Wärmeverbrauchs für Warmwasser auszurüsten.
-
-<sup>2</sup> Bestehende Gebäude mit zentraler Wärmeversorgung für fünf oder mehr Nutzeinheiten sind bei einer Gesamterneuerung des Heizungs- oder Warmwassersystems inkl. Verteilung mit den Geräten zur Erfassung des individuellen Wärmeverbrauchs für Heizung und Warmwasser auszurüsten.
-
-<sup>3</sup> Bestehende Gebäudegruppen mit zentraler Wärmeversorgung sind pro Gebäude mit den Geräten zur Erfassung des Wärmeverbrauchs für Heizung auszurüsten, wenn an einem oder mehreren Gebäuden die Gebäudehülle zu über 75% saniert wird.
-
-<sup>4</sup> Die Gebäudeeigentümer haben die notwendigen Geräte zur Erfassung und Regulierung des individuellen Wärmeverbrauchs für Heizung und Warmwasser zu installieren und zu unterhalten.
-
-<sup>5</sup> Der Regierungsrat regelt die Einzelheiten und die Ausnahmen durch eine Verordnung.
-
-#### Art. 42c
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Elektrizitätserzeugungsanlagen**
-
-<sup>1</sup> Die Erstellung von Elektrizitätserzeugungsanlagen mit fossilen Brennstoffen ist zulässig, wenn die im Betrieb entstehende Wärme fachgerecht und möglichst vollständig genutzt wird.
-
-<sup>2</sup> Die Erstellung von Elektrizitätserzeugungsanlagen mit erneuerbaren Brennstoffen ist zulässig, wenn die im Betrieb entstehende Wärme fachgerecht und weitgehend genutzt wird.
-
-<sup>3</sup> Ausgenommen von der Wärmenutzung sind Elektrizitätserzeugungsanlagen, die keine Verbindung zum öffentlichen Elektrizitätsverteilnetz haben, die Notstrom erzeugen oder die für Probeläufe von höchstens 50 Stunden pro Jahr betrieben werden.
-
-#### Art. 42d
+#### Art. 42–42n
 
 **…**
-
-#### Art. 42e
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Förderprogramm Energie**
-
-<sup>1</sup> Der Kanton erstellt ein Förderprogramm Energie, welches periodisch dem Stand der Technik und neuen Entwicklungen angepasst wird.
-
-<sup>2</sup> Beiträge werden für Projekte und Aktionen geleistet, die der rationellen Energienutzung, der Nutzung erneuerbarer Energien und der Nutzung von Umgebungs-, Erd- und Abwärme dienen. In der Regel richten sich die Beiträge nach der eingesparten oder substituierten nicht erneuerbaren Energiemenge.
-
-<sup>3</sup> Betreibern von gemeinschaftlichen, noch nicht voll ausgelasteten Energieerzeugungsanlagen kann für längstens zehn Jahre ein zinsloses Darlehen gewährt werden.
-
-<sup>4</sup> Der Gesamtbetrag der jährlich zu vergebenden Beiträge und Darlehen hängt von der Ausgabenbewilligung durch den Kantonsrat auf dem Budgetweg ab. Auf Beiträge oder Darlehen besteht kein Rechtsanspruch.
-
-#### Art. 42ebis
-
-**Energie- und Klimafonds**
-
-<sup>1</sup> Der Kanton errichtet einen Energie- und Klimafonds. Dieser bezweckt:
-
-- a) Die Förderung erneuerbarer Energien, der Energieeffizienz und die Reduktion klimaschädlicher Gase. Dazu wird ein Fonds für den Teilbereich «Energie / Klimaschutz» geführt
-- b) Die Förderung von Massnahmen zur Anpassung an den Klimawandel. Dazu wird ein Fonds für den Teilbereich «Klimaanpassung» geführt
-
-<sup>2</sup> Der Fonds wird durch allgemeine Staatsmittel geäufnet.
-
-<sup>3</sup> Der Kantonsrat legt den Staatsbeitrag im Voranschlag fest. Dabei soll gewährleistet werden, dass für das Budgetjahr inklusive Fondsbestand in der Regel folgende kantonalen Mittel zur Verfügung stehen:
-
-- a) Fonds Teilbereich «Energie / Klimaschutz»: Fr. 2'000'000.00 bis Fr. 6'000'000.00
-- b) Fonds Teilbereich «Klimaanpassung»: Fr. 1'000'000.00 bis Fr. 3'000'000.00
-
-<sup>4</sup> Die durch die Kantonsmittel ausgelösten Bundesmittel werden in den beiden Fonds gemäss Abs. 1 lit. a und lit. b separat ausgewiesen.
-
-<sup>5</sup> Der Regierungsrat informiert jährlich über die Verwendung der Mittel und über die damit erzielten Wirkungen.
-
-#### Art. 42eter
-
-**Finanzhilfen Energie / Klimaschutz**
-
-<sup>1</sup> Finanzhilfen können an indirekte und direkte Massnahmen gewährt werden welche:
-
-- a) eine effiziente Energienutzung ermöglichen, eine Senke von klimaschädlichen Gasen fördern oder den Ausstoss von klimaschädlichen Gasen reduzieren oder
-- b) die Nutzung von erneuerbaren und umweltverträglich produzierten Energien, insbesondere Elektrizität aus Neuanlagen, welche Sonnenenergie, Biomasse, Geothermie, Windenergie und Wasserkraft verwenden oder
-- c) die Nutzung von Abwärme ermöglichen
-
-#### Art. 42equater
-
-**Finanzhilfen Klimaanpassung**
-
-<sup>1</sup> Finanzhilfen können an direkte oder indirekte Massnahmen zur Anpassung an das sich verändernde Klima gewährt werden, welche:
-
-- a) entstehende Risiken durch den Klimawandel senken oder
-- b) den Gleichschritt in der Anpassung in den verschiedenen Gemeinden ermöglichen oder
-- c) Anreize für ökologisch sinnvolle Vorhaben schaffen
-
-#### Art. 42f
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Ortsfeste elektrische Widerstandsheizungen**
-
-<sup>1</sup> Die Neuinstallation ortsfester elektrischer Widerstandsheizungen zur Gebäudebeheizung ist nicht zulässig. Notheizungen sind in begrenztem Umfang zulässig.
-
-<sup>2</sup> Der Ersatz von ortsfesten elektrischen Widerstandsheizungen mit Wasserverteilsystem durch eine ortsfeste elektrische Widerstandsheizung ist nicht zulässig.
-
-<sup>3</sup> Bestehende ortsfeste elektrische Widerstandsheizungen mit Wasserverteilsystem sind innert 10 Jahre durch Anlagen mit dem Stand der Technik zu ersetzen.
-
-<sup>3<sup>bis</sup></sup> Bestehende dezentrale, ortsfeste elektrische Widerstandsheizungen zur Gebäudebeheizung sind im Rahmen eines tiefgreifenden Umbaus spätestens aber nach 15 Jahren durch Systeme zu ersetzen, welche den Anforderungen dieses Gesetzes entsprechen.
-
-<sup>3<sup>ter</sup></sup> Der Regierungsrat regelt die Ausnahmen.
-
-<sup>4</sup> Eine ortsfeste elektrische Widerstandsheizung darf nicht als Zusatzheizung eingesetzt werden.
-
-#### Art. 42fbis
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Elektrische Warmwasseraufbereitungen**
-
-<sup>1</sup> Bestehende zentrale Wassererwärmer, welche ausschliesslich direkt elektrisch beheizt werden, sind bei Wohnnutzungen innert 15 Jahre durch Wassererwärmer zu ersetzen, welche den Anforderungen dieses Gesetzes entsprechen.
-
-<sup>2</sup> Bestehende dezentrale, ortsfeste Wassererwärmer, welche ausschliesslich direkt elektrisch beheizt werden, sind im Rahmen eines tiefgreifenden Umbaus durch Systeme zu ersetzen, welche den Anforderungen dieses Gesetzes entsprechen.
-
-<sup>3</sup> Der Regierungsrat regelt die Ausnahmen.
-
-#### Art. 42g
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Kühlung und Befeuchtung**
-
-<sup>1</sup> Für Neuanlagen und beim Ersatz für bestehende Anlagen für die Kühlung, Be- und Entfeuchtung von Räumen sind besonders effiziente Anlagen einzusetzen oder diese sind mit erneuerbarer Energie zu betreiben.
-
-<sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
-
-#### Art. 42h
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Grenzwerte für Elektrizitätsbedarf**
-
-<sup>1</sup> Neubauten und Umnutzungen, welche Geschossflächen von insgesamt mehr als 1'000 m² für Dienstleistungen, gewerbliche oder öffentliche Nutzungen enthalten, haben für diese Flächen die vom Regierungsrat für verbindlich erklärten Grenzwerte für den spezifischen Elektrizitätsbedarf für Beleuchtung, Lüftung und Kälte einzuhalten oder einen Teil der Elektrizität, zusätzlich zu Art. 42a Abs. 1<sup>bis</sup>, zu erzeugen.
-
-#### Art. 42i
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Beheizte Freibäder**
-
-<sup>1</sup> Der Bau neuer und die Sanierung bestehender beheizter Freiluftbäder sowie der Ersatz und die wesentliche Änderung der technischen Einrichtungen zu deren Beheizung sind nur zulässig, wenn sie mit erneuerbarer Energie oder mit nicht anderweitig nutzbarer Abwärme betrieben werden.
-
-<sup>2</sup> Elektrische Wärmepumpen dürfen zur Beheizung eingesetzt werden, wenn eine Abdeckung der Wasserfläche gegen Wärmeverluste vorhanden ist.
-
-#### Art. 42j
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Heizungen im Freien**
-
-<sup>1</sup> Der Bau neuer und die Sanierung bestehender ortsfester Heizungen im Freien sind nur zulässig, wenn sie mit erneuerbarer Energie oder mit nicht anderweitig nutzbarer Abwärme betrieben werden.
-
-<sup>2</sup> Ausnahmen können bewilligt werden, wenn:
-
-- a) die Sicherheit von Personen und Sachen oder der Schutz technischer Einrichtungen den Betrieb einer Heizung im Freien erfordert und
-- b) bauliche und betriebliche Massnahmen nicht ausführbar oder unverhältnismässig sind und
-- c) die Heizung im Freien mit einer temperatur- und feuchteabhängigen Regelung ausgerüstet ist
-
-#### Art. 42k
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Optimierungsmassnahmen in Betriebsstätten**
-
-<sup>1</sup> Betriebsstätten mit einem jährlichen Wärmeverbrauch von mehr als fünf Gigawattstunden oder einem jährlichen Elektrizitätsverbrauch von mehr als zweihundert Megawattstunden können durch die zuständige kantonale Behörde verpflichtet werden, ihren Energieverbrauch zu analysieren und zumutbare Massnahmen zur Verbrauchsoptimierung zu realisieren.
-
-<sup>2</sup> Abs. 1 ist nicht anwendbar für Grossverbraucher, die sich verpflichten, individuell oder in einer Gruppe von der zuständigen kantonalen Behörde vorgegebene Ziele für die Entwicklung des Energieverbrauchs einzuhalten. Überdies kann sie die zuständige kantonale Behörde von der Einhaltung näher zu bezeichnender energetischer Vorschriften entbinden.
-
-#### Art. 42l
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Gebäudeenergieausweis**
-
-<sup>1</sup> Wird in Gerichts- oder Verwaltungsverfahren auf einen Energieausweis für Gebäude abgestellt, ist der vom zuständigen Departement bezeichnete kantonale Gebäudeenergieausweis zu verwenden.
-
-#### Art. 42m
-
-**…**
-
-#### Art. 42n
-
-**Weitere Anforderungen an Bauten und Anlagen: Energiehaushalt: Erneuerbare Energie beim Wärmeerzeugerersatz**
-
-<sup>1</sup> Beim Ersatz des Wärmeerzeugers in bestehenden Bauten mit hohem Energieverbrauch für Heizung und Warmwasser sind diese so auszurüsten, dass ein Anteil des bisherigen Energiebedarfs eingespart oder mit erneuerbaren Energien abgedeckt werden.
-
-<sup>2</sup> Der Regierungsrat legt diesen Anteil zwischen 20 Prozent und 50 Prozent fest.
-
-<sup>3</sup> Der Bezug erneuerbarer oder mit erneuerbaren Energien hergestellter synthetischer Brennstoffe ist als Ersatzlösung zulässig sofern:
-
-- 1\. beim Bezug von gasförmigen Brennstoffen der Energielieferant die Umsetzung gegenüber den Vollzugsbehörden gewährleisten kann und in die entsprechenden Daten Einsicht gewährt
-- 2\. beim Bezug von flüssigen Brennstoffen für die Baubewilligung des Wärmeerzeugerersatzes der Nachweis für die einmalige Hinterlegung von Zertifikaten für die Lebensdauer von 20 Jahren erbracht wurde
-- 3\. diese in der Schweiz aus grösstenteils schweizerischen Rohstoffen produziert wurden und
-- 4\. die Zertifizierung und Bilanzierung durch eine unabhängige zentrale Stelle vorgenommen wird und deren Daten für die Vollzugsbehörden transparent sind
-
-<sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
 
 #### Art. 43
 
@@ -882,7 +686,7 @@ beschliesst:
 - a) die Errichtung neuer und die Erneuerung, Änderung und Erweiterung bestehender Hoch- und Tiefbauten, inkl. kulturhistorisch sowie gesundheits- oder baupolizeilich und energetisch bedeutsame bauliche Massnahmen im Freien, an der Aussenhülle und im Innern bestehender Bauten
 - b) die Änderung der Zweckbestimmung von Bauten und Anlagen oder Teilen hiervon
 - c) den Abbruch oder die Wiederherstellung einer Baute oder eines Teils davon
-- d) die Errichtung von Jauchegruben sowie von Mauern und Einfriedungen, wenn sie die Höhe von 1.5 m übersteigen
+- d) die Errichtung von Jauchegruben sowie von Mauern und Einfriedungen sowie Solarzäunen, wenn sie die Höhe von 1.5 m übersteigen
 - e) die Einrichtung von Abstellflächen für Motorfahrzeuge, Lagerungsplätzen, Ablagerungs- und Materialentnahmestellen, Zelt- und Campingplätzen
 - f) Antennen- und Reklameanlagen
 - g) Bohrungen und Geländeveränderungen, die zum gewachsenen Boden eine Niveaudifferenz von mehr als 1.5 m bewirken oder welche mehr als 200 m³ Aufschüttungen oder Abgrabungen umfassen
@@ -890,7 +694,9 @@ beschliesst:
 
 <sup>3</sup> Bei öffentlichen Bauten gilt das in diesem Abschnitt geregelte Verfahren nur soweit, als die einschlägigen Gesetze nichts anderes vorschreiben.
 
-<sup>4</sup> In Bau- und in Landwirtschaftszonen bedürfen auf Dächern genügend angepasste Solaranlagen keiner Baubewilligung. Solche Vorhaben sind der zuständigen Behörde zu melden. Solaranlagen auf Kultur- und Naturdenkmälern von kantonaler oder nationaler Bedeutung bedürfen stets einer Baubewilligung. Sie dürfen solche Denkmäler nicht wesentlich beeinträchtigen. Die Gemeinden können für Solaranlagen bestimmte, ästhetisch wenig empfindliche Typen von Bauzonen festlegen, in denen auch Solaranlagen, die nicht auf Dächern angebracht werden, ohne Baubewilligung erstellt werden können. Grundsätzlich gehen die Interessen an der Nutzung der Solarenergie auf bestehenden oder neuen Bauten den ästhetischen Anliegen vor.
+<sup>4</sup> In Bau- und in Landwirtschaftszonen bedürfen auf Dächern und an Fassaden genügend angepasste Solaranlagen keiner Baubewilligung. Solche Vorhaben sind der zuständigen Behörde zu melden. Solaranlagen auf oder an Kultur- und Naturdenkmälern oder in Schutzzonen von kantonaler oder nationaler Bedeutung bedürfen stets einer Baubewilligung. Sie dürfen solche Denkmäler nicht wesentlich beeinträchtigen. Die Gemeinden können für Solaranlagen bestimmte, ästhetisch wenig empfindliche Typen von Bauzonen festlegen, in denen auch Solaranlagen, die nicht auf Dächern und an Fassaden angebracht werden, ohne Baubewilligung erstellt werden können. Grundsätzlich gehen die Interessen an der Nutzung der Solarenergie auf bestehenden oder neuen Bauten den ästhetischen Anliegen vor.
+
+<sup>4<sup>bis</sup></sup> In Arbeitszonen bedürfen Solaranlagen auf Dächern und an Fassaden keiner Baubewilligung, auch wenn sie nach Art. 32a RPV nicht genügend angepasst sind.
 
 <sup>5</sup> Mit Ausnahme von Abs. 4 richtet sich die Bewilligungspflicht ausschliesslich nach kantonalem Recht. Bauliche Massnahmen geringfügiger Bedeutung sind durch Verordnung von der Bewilligungspflicht zu befreien. Von der Bewilligungspflicht befreite Massnahmen haben keine Grenzabstandsvorschriften und keinen Baulinienabstand einzuhalten. Wird eine Strasse oder ein Platz nachträglich erweitert, sind von der Baubewilligungspflicht befreite bauliche Massnahmen ohne Anspruch auf Entschädigung zu entfernen.
 
@@ -1066,7 +872,7 @@ beschliesst:
 
 <sup>4</sup> Verzichten die Beigeladenen während des Rekursverfahrens auf die Prozessführung, ist damit das Recht auf die Erhebung weiterer Rechtsmittel verwirkt; andernfalls wird ihnen der Entscheid wie einer Partei eröffnet.
 
-<sup>5</sup> Privatrechtlich begründete Einsprachen gegen ein Bauvorhaben sind innert 20 Tagen ab Erhalt des Baurechtsentscheides zur Erwirkung eines Bauverbotes schriftlich beim zuständigen Richter zu erheben.
+<sup>5</sup> …
 
 #### Art. 70
 
@@ -1222,7 +1028,7 @@ beschliesst:
 
 **Vollzug: Grundbuchanmerkungen**
 
-<sup>1</sup> Nebst den im Gesetz ausdrücklich vorgesehenen Fällen hat der Gemeinderat sämtliche Baulinienpläne mit der Umschreibung von Zweck und Wirkung der Baulinien sowie die Quartierpläne samt Sonderbauvorschriften im Grundbuch anmerken zu lassen.
+<sup>1</sup> Nebst den im Gesetz ausdrücklich vorgesehenen Fällen hat der Gemeinderat die Quartierpläne samt Sonderbauvorschriften im Grundbuch anmerken zu lassen. Baulinienpläne können im Grundbuch eingetragen werden, wenn dies aufgrund der Verhältnisse angezeigt ist.
 
 <sup>2</sup> Der Regierungsrat kann noch in weiteren Fällen die Anmerkung öffentlich-rechtlicher Eigentumsbeschränkungen im Grundbuch vorschreiben, vorbehältlich der Genehmigung durch den Bundesrat.
 
@@ -1331,13 +1137,13 @@ beschliesst:
 
 <sup>1</sup> Gebäude: Gebäude sind ortsfeste Bauten, die zum Schutz von Menschen, Tieren oder Sachen eine feste Überdachung und in der Regel weitere Abschlüsse aufweisen.
 
-<sup>2</sup> Kleinbauten: Kleinbauten sind freistehende Gebäude, die in ihren Dimensionen die folgenden Masse nicht überschreiten und die nur Nebennutzflächen enthalten: Gebäudegrundfläche 50 m², Fassadenhöhe 3.5 m und Gesamthöhe 5 m.
+<sup>2</sup> Kleinbauten: Kleinbauten sind freistehende Gebäude, die eine Gebäudefläche von höchstens 50 m² aufweisen, bei Schrägdachbauten eine traufseitige Fassadenhöhe von 3.5 m und eine Gesamthöhe von 4.5 m, bei Flachdachbauten eine Gesamthöhe von 3.5 m nicht überschreiten und die nur Nebennutzflächen enthalten.
 
 <sup>3</sup> Anbauten: Anbauten sind mit einem anderen Gebäude zusammengebaut, überschreiten in ihren Dimensionen die zulässigen Masse gemäss Abs. 2 nicht und enthalten nur Nebennutzflächen.
 
-<sup>4</sup> Unterirdische Bauten: Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen vollständig unter dem massgebenden, respektive unter dem tiefer gelegten Terrain liegen.
+<sup>4</sup> Unterirdische Bauten: Unterirdische Bauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen vollständig unter dem massgebenden, respektive unter dem tiefer gelegten Terrain liegen. Erschliessungen, Geländer und Brüstungen, welche das massgebende Terrain um mehr als 1.5 m überragen, sind als separate Bau- oder Anlageteile zu beurteilen.
 
-<sup>5</sup> Unterniveaubauten: Unterniveaubauten sind Gebäude, die höchstens bis zu 0.5 m über das massgebende, respektive über das tiefer gelegte Terrain hinausragen.
+<sup>5</sup> Unterniveaubauten: Unterniveaubauten sind Gebäude, die mit Ausnahme der Erschliessung sowie der Geländer und Brüstungen höchstens bis zu 0.5 m über das massgebende, respektive über das tiefer gelegte Terrain hinausragen. Erschliessungen, Geländer und Brüstungen, welche das massgebende Terrain um mehr als 1.5 m überragen, sind als separate Bau- oder Anlageteile zu beurteilen.
 
 #### Art. A1-3
 
