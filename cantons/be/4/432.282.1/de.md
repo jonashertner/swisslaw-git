@@ -4,13 +4,12 @@ number: "432.282.1"
 title: Direktionsverordnung über das besondere Volksschulangebot
 short: BVSDV
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-11-23
+version: 2026-01-01
+version_adopted: 2026-06-26
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.282.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2447/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2447/pdf_file"
 
 (BVSDV)
 
-vom 23.11.2021 (Stand 01.01.2022)
+vom 23.11.2021 (Stand 01.01.2026)
 
 Die Bildungs- und Kulturdirektion des Kantons Bern,
 
@@ -39,7 +38,7 @@ beschliesst:
 - a die Kilometerentschädigung für Schülertransporte,
 - b die Berichterstattung und das Controlling,
 - c die Gebühr für die Mahlzeiten,
-- d den Zuschlag für Psychomotorik, Logopädie und abteilungsweisen Unterricht,
+- d …
 - e die Klassengrösse und die Höhe der Pauschalen für Förderlektionen, allgemeine Betriebskosten und Infrastrukturkosten für die Abgeltung der Kosten der besonderen Volksschulen,
 - f die Ausgabenbewilligung.
 
@@ -95,15 +94,11 @@ beschliesst:
 
 ## 5 Abgeltung der Kosten der besonderen Volksschulen
 
-### 5.1 Zuschlag für Psychomotorik, Logopädie und abteilungsweisen Unterricht
+### 5.1
 
 #### Art. 7
 
-<sup>1</sup> Der Zuschlag gemäss Artikel 49 BVSV beträgt
-
-- a 12,5 Lektionen für den Zyklus 1,
-- b 7,75 Lektionen für den Zyklus 2,
-- c 3,5 Lektionen für den Zyklus 3.
+**…**
 
 ### 5.2 Klassengrösse
 
@@ -123,15 +118,17 @@ beschliesst:
 
 **Förderlektionen**
 
-<sup>1</sup> Die Höhe der Pauschale für Förderlektionen beträgt pro Schulwoche und Förderlektion 2450 Franken pro Kind.
+<sup>1</sup> Die Höhe der Pauschale für Förderlektionen beträgt für das Kalenderjahr 2026 pro Schulwoche und Förderlektion 2607.80 Franken pro Kind.
 
 <sup>2</sup> Die Anzahl Förderlektionen pro Kind wird in der Leistungsvereinbarung festgelegt.
+
+<sup>3</sup> Die Pauschale wird jährlich an die Lohnerhöhung und den Teuerungsausgleich für das Kantonspersonal angepasst.
 
 #### Art. 10
 
 **Allgemeine Betriebskosten**
 
-<sup>1</sup> Die Höhe der Pauschale für die allgemeinen Betriebskosten beträgt für das Kalenderjahr 2022 pro Klasse 85'000 Franken.
+<sup>1</sup> Die Höhe der Pauschale für die allgemeinen Betriebskosten beträgt für das Kalenderjahr 2026 pro Klasse 92'770.90 Franken.
 
 <sup>2</sup> Die Anzahl Klassen wird in der Leistungsvereinbarung festgelegt.
 
@@ -139,7 +136,7 @@ beschliesst:
 
 **Infrastrukturkosten für Mobilien**
 
-<sup>1</sup> Die Höhe der Pauschale für die Kosten der Mobilien beträgt für das Kalenderjahr 2022 pro Klasse 9080 Franken.
+<sup>1</sup> Die Höhe der Pauschale für die Kosten der Mobilien beträgt für das Kalenderjahr 2026 pro Klasse 10'308 Franken.
 
 <sup>2</sup> Die Anzahl Klassen wird in der Leistungsvereinbarung festgelegt.
 
@@ -147,9 +144,9 @@ beschliesst:
 
 **Infrastrukturkosten für Immobilien**
 
-<sup>1</sup> Die Höhe der Pauschale für die Kosten der Immobilien beträgt für das Kalenderjahr 2022 pro Klasse 43'875 Franken, vorbehalten bleibt Absatz 2.
+<sup>1</sup> Die Höhe der Pauschale für die Kosten der Immobilien beträgt für das Kalenderjahr 2026 pro Klasse 49'811 Franken, vorbehalten bleibt Absatz 2.
 
-<sup>2</sup> Für Angebote mit Unterbringung, die vollzeitlich genutzt werden, beträgt die Höhe der Pauschale für das Kalenderjahr 2022 pro Klasse 40'500 Franken.
+<sup>2</sup> Für Angebote mit Unterbringung, die vollzeitlich genutzt werden, beträgt die Höhe der Pauschale für das Kalenderjahr 2026 pro Klasse 45'979 Franken.
 
 <sup>3</sup> Die Anzahl Klassen wird in der Leistungsvereinbarung festgelegt.
 

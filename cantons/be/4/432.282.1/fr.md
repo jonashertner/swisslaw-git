@@ -4,13 +4,12 @@ number: "432.282.1"
 title: "Ordonnance de Direction sur l'offre spécialisée de l'école obligatoire"
 short: ODOSEO
 language: fr
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-11-23
+version: 2026-01-01
+version_adopted: 2026-06-26
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.282.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2447/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3386/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2447/pdf_file"
 
 (ODOSEO)
 
-du 23.11.2021 (état au 01.01.2022)
+du 23.11.2021 (état au 01.01.2026)
 
 La Direction de l'instruction publique et de la culture du canton de Berne,
 
@@ -39,7 +38,7 @@ arrête:
 - a l’indemnisation kilométrique du transport d’élèves,
 - b le rapport à établir et le controlling,
 - c l'émolument pour les repas,
-- d le supplément pour les mesures de psychomotricité et de logopédie ainsi que pour l’enseignement par sections de classe,
+- d …
 - e la taille des classes et le montant des forfaits pour les leçons de soutien, les frais d’exploitation généraux et les frais d’infrastructure visant à indem-niser les frais supportés par les établissements particuliers de la scolarité obligatoire,
 - f l'autorisation des dépenses.
 
@@ -95,15 +94,11 @@ arrête:
 
 ## 5 Indemnisation des frais supportés par les établissements particuliers de la scolarité obligatoire
 
-### 5.1 Supplément pour les mesures de psychomotricité et de logopédie ainsi que pour l’enseignement par sections de classe
+### 5.1
 
 #### Art. 7
 
-<sup>1</sup> Le supplément au sens de l’article 49 OOSEO s’élève à
-
-- a 12,5 leçons pour le cycle 1,
-- b 7,75 leçons pour le cycle 2,
-- c 3,5 leçons pour le cycle 3.
+**…**
 
 ### 5.2 Taille des classes
 
@@ -123,15 +118,17 @@ arrête:
 
 **Leçons de soutien**
 
-<sup>1</sup> Le forfait pour les leçons de soutien s’élève à 2450 francs par enfant, semaine d’école et leçon de soutien.
+<sup>1</sup> Le forfait pour les leçons de soutien s’élève à 2607,80 francs par enfant, semaine d’école et leçon de soutien pour l’année civile 2026.
 
 <sup>2</sup> Le nombre de leçons de soutien par enfant est fixé dans la convention de prestations.
+
+<sup>3</sup> Le forfait est adapté chaque année à la hausse des salaires et à la compensation du renchérissement pour le personnel du canton.
 
 #### Art. 10
 
 **Frais d’exploitation généraux**
 
-<sup>1</sup> Le forfait pour les frais d’exploitation généraux s’élève à 85'000 francs par classe pour l’année civile 2022.
+<sup>1</sup> Le forfait pour les frais d’exploitation généraux s’élève à 92'770,90 francs par classe pour l’année civile 2026.
 
 <sup>2</sup> Le nombre de classes est fixé dans la convention de prestations.
 
@@ -139,7 +136,7 @@ arrête:
 
 **Frais d’infrastructure pour les biens meubles**
 
-<sup>1</sup> Le forfait pour les frais d’infrastructures pour les biens meubles s’élève à 9080 francs par classe pour l’année civile 2022.
+<sup>1</sup> Le forfait pour les frais d’infrastructures pour les biens meubles s’élève à 10'308 francs par classe pour l’année civile 2026.
 
 <sup>2</sup> Le nombre de classes est fixé dans la convention de prestations.
 
@@ -147,9 +144,9 @@ arrête:
 
 **Frais d’infrastructure pour les immeubles**
 
-<sup>1</sup> Le forfait pour les frais d’infrastructure pour les immeubles s’élève à 43'875 francs par classe pour l’année civile 2022, l’alinéa 2 étant réservé.
+<sup>1</sup> Le forfait pour les frais d’infrastructure pour les immeubles s’élève à 49'811 francs par classe pour l’année civile 2026, l’alinéa 2 étant réservé.
 
-<sup>2</sup> Pour les offres avec hébergement qui sont utilisées à plein temps, le forfait s’élève à 40'500 francs par classe pour l’année civile 2022.
+<sup>2</sup> Pour les offres avec hébergement qui sont utilisées à plein temps, le forfait s’élève à 45'979 francs par classe pour l’année civile 2026.
 
 <sup>3</sup> Le nombre de classes est fixé dans la convention de prestations.
 
