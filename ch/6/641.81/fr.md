@@ -4,11 +4,11 @@ title: "Loi fédérale du 19 décembre 1997 concernant une redevance sur le traf
 short: LRPL
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: fr
-version: 2025-03-01
+version: 2026-01-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20250301/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20250301-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-24-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/fr"
 
 (Loi relative à une redevance sur le trafic des poids lourds, LRPL)
 
-du 19 décembre 1997 (État le 1<sup>er</sup> mars 2025)
+du 19 décembre 1997 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu les art. 74, 84 et 85 de la Constitution[^ingress-1],[^ingress-2] vu le messa
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^ingress-3]: [FF 1996 V 505](https://fedlex.data.admin.ch/eli/fga/1996/5_521_505_407)
 
@@ -37,7 +37,7 @@ arrête:
 
 #### Art. 1
 
-**...[^1-1]**
+**…[^1-1]**
 
 <sup>1</sup> La redevance sur le trafic des poids lourds liée aux prestations (redevance) doit assurer la couverture à long terme des coûts d’infrastructure et des coûts occasionnés à la collectivité par ce trafic, dans la mesure où celui-ci ne compense pas ces coûts par d’autres prestations ou redevances.
 
@@ -72,9 +72,9 @@ La redevance est perçue sur les véhicules lourds immatriculés en Suisse ou à
 
 <sup>2</sup> Pour le transport des personnes par véhicules lourds, la redevance est forfaitaire. Elle se monte à 5000 francs par année au plus. Le Conseil fédéral peut l’échelonner en fonction des différentes catégories de véhicules.
 
-<sup>3</sup> Les trajets effectués dans le trafic combiné non accompagné donnent droit à un remboursement forfaitaire. Le Conseil fédéral règle les modalités.[^4-1]
+<sup>3</sup> …[^4-1]
 
-[^4-1]: Introduit par l’art. 6, ch. 1 de la loi du 8 oct. 1999 sur le transfert du trafic, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727); [FF 2007 4147](https://fedlex.data.admin.ch/eli/fga/2007/648)).
+[^4-1]: Introduit par l’art. 6, ch. 1 de la loi du 8 oct. 1999 sur le transfert du trafic ([RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Abrogé par l’annexe ch. II 1 de la LF du 21 mars 2025 sur le transport de marchandises, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 5
 
@@ -177,7 +177,7 @@ Pour l’introduction de la redevance et l’adaptation des tarifs, le Conseil f
 
 <sup>3</sup> La Confédération verse des contributions aux cantons pour les contrôles du trafic des poids lourds.[^10-1]
 
-[^10-1]: Introduit par l’art. 6, ch. 1 de la loi du 8 oct. 1999 sur le transfert du trafic, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727); [FF 2007 4147](https://fedlex.data.admin.ch/eli/fga/2007/648)).
+[^10-1]: Introduit par l’art. 6, ch. 1 de la loi du 8 oct. 1999 sur le transfert du trafic, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 
 #### Art. 11
 
@@ -271,9 +271,9 @@ La redevance est perçue au moins une fois par année.
 
 <sup>3</sup> Les décisions entrées en force concernant la créance fiscale sont assimilées à des jugements exécutoires au sens des art. 80 ss de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^14-3].
 
-[^14-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^14-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^14-2]: Nouvelle teneur selon l’annexe ch. 11 de la loi du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^14-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^14-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 14a
 
@@ -318,7 +318,7 @@ Sur demande de l’OFDF, l’autorité cantonale d’immatriculation refuse ou r
 
 <sup>4</sup> L’assistance judiciaire entre les autorités fédérales et cantonales se fonde sur l’art. 30 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^16-1].
 
-[^16-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^16-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 17
 
@@ -378,7 +378,7 @@ Lors de la répartition des contributions entre les cantons conformément à l�
 - d. l’imposition des véhicules à moteur.
 
 [^19-1]: Introduit par l’annexe ch. II 3 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19-2]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^19-2]: [RS 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
 [^19-3]: Nouvelle teneur selon le ch. II de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 [^19-4]: Introduit par le ch. II de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
@@ -389,7 +389,7 @@ Lors de la répartition des contributions entre les cantons conformément à l�
 Les cantons utilisent les moyens supplémentaires qui leur reviennent à la suite de l’augmentation de la redevance depuis 2008 pour l’allocation de contributions pour le maintien de la qualité des routes principales dans les régions de montagne et les régions périphériques conformément à l’art. 14 de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien[^19a-2].
 
 [^19a-1]: Introduit par l’annexe ch. II 3 de la LF du 30 sept. 2016 sur le fonds pour les routes nationales et pour le trafic d’agglomération, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1899](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19a-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^19a-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 
 ## Section 6 Dispositions pénales et voies de droit
 
@@ -456,7 +456,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque intentionnellement:
 <sup>2</sup> L’OFDF est l’autorité de poursuite et de jugement.
 
 [^22-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
-[^22-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^22-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 23
 
@@ -493,7 +493,7 @@ Est puni d’une amende de 20 000 francs au plus quiconque intentionnellement:
 
 <sup>2</sup> L’entrée en vigueur de la loi entraîne l’abrogation de l’ordonnance du 26 octobre 1994[^24-2] réglant la redevance sur le trafic des poids lourds.
 
-[^24-1]: [RS **1** 3; RO **1994** 1100, **1999** 742]. Actuellement: art. 196 ch. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^24-1]: [[RS 1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4713)3; RO **1994** 1100, **1999** 742]. Actuellement: art. 196 ch. 2 de la Cst. du 18 avr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^24-2]: [[RO 1994 2509](https://fedlex.data.admin.ch/eli/oc/1994/2509_2509_2509), [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 ch. 19, [1999 1750](https://fedlex.data.admin.ch/eli/oc/1999/277)[3585](https://fedlex.data.admin.ch/eli/oc/1999/510). [RO 2000 98](https://fedlex.data.admin.ch/eli/oc/2000/24)art. 24 al. 2 [1169](https://fedlex.data.admin.ch/eli/oc/2000/191)]
 
 #### Art. 25

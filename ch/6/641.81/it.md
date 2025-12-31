@@ -4,18 +4,18 @@ title: "Legge federale del 19 dicembre 1997 concernente una tassa sul traffico p
 short: LTTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: it
-version: 2025-03-01
+version: 2026-01-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20250301/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20250301-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2000-24-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente una tassa sul traffico pesante commisurata alle prestazioni (Legge sul traffico pesante, LTTP)
 
-del 19 dicembre 1997 (Stato 1° marzo 2025)
+del 19 dicembre 1997 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -23,7 +23,7 @@ visti gli articoli 74, 84 e 85 della Costituzione federale[^ingress-1];[^ingress
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^ingress-3]: [FF 1996 V 407](https://fedlex.data.admin.ch/eli/fga/1996/5_521_505_407)
 
@@ -70,9 +70,9 @@ La tassa è riscossa sui veicoli pesanti a motore e i rimorchi immatricolati in 
 
 <sup>2</sup> I veicoli adibiti al trasporto di persone sono sottoposti a tassa forfettaria. La tassa annua non supera 5000 franchi. Il Consiglio federale può graduarla secondo le categorie di veicoli.
 
-<sup>3</sup> I tragitti effettuati in traffico combinato non accompagnato danno diritto a una restituzione forfettaria. Il Consiglio federale disciplina i dettagli.[^4-1]
+<sup>3</sup> ...[^4-1]
 
-[^4-1]: Introdotto dall’art. 6 n. 1 della LF dell’8 ott. 1999 sul trasferimento del traffico, in vigore dal 1° gen. 2001 ([RU 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727); [FF 2007 3997](https://fedlex.data.admin.ch/eli/fga/2007/648)).
+[^4-1]: Introdotto dall’art. 6 n. 1 della LF dell’8 ott. 1999 sul trasferimento del traffico ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Abrogato dall’all. cifra II n. 1 della LF del 21 mar. 2025 sul trasporto di merci per ferrovia, per idrovia e con impianti a fune, con effetto dal 1° gen. 2026 ([RU 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 5
 
@@ -175,7 +175,7 @@ All’introduzione della tassa e ad ogni aumento della tariffa il Consiglio fede
 
 <sup>3</sup> La Confederazione versa contributi ai Cantoni per finanziare i controlli sul traffico pesante.[^10-1]
 
-[^10-1]: Introdotto dall’art. 6 n. 1 della LF dell’8 ott. 1999 sul trasferimento del traffico, in vigore dal 1° gen. 2001 ([RU 2009 5949](https://fedlex.data.admin.ch/eli/oc/2009/727); [FF 2007 3997](https://fedlex.data.admin.ch/eli/fga/2007/648)).
+[^10-1]: Introdotto dall’art. 6 n. 1 della LF dell’8 ott. 1999 sul trasferimento del traffico, in vigore dal 1° gen. 2001 ([RU 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
 
 #### Art. 11
 
@@ -269,9 +269,9 @@ La tassa è riscossa almeno una volta all’anno.
 
 <sup>3</sup> Le decisioni passate in giudicato relative al credito fiscale sono parificate alle sentenze esecutive di cui agli articoli 80 segg. della legge federale dell’11 aprile 1889[^14-3] sull’esecuzione e sul fallimento.
 
-[^14-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^14-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^14-2]: Nuovo testo giusta l’all. n. 11 della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^14-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^14-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 14a
 
@@ -316,7 +316,7 @@ Su richiesta dell’UDSC, l’autorità cantonale competente per l’ammissione 
 
 <sup>4</sup> L’assistenza in materia penale tra le autorità federali e cantonali si fonda sull’articolo 30 della legge federale del 22 marzo 1974[^16-1] sul diritto penale amministrativo.
 
-[^16-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^16-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 17
 
@@ -376,7 +376,7 @@ La ripartizione della quota dei Cantoni secondo il capoverso 1 considera le ripe
 - d. l’imposizione fiscale dei veicoli a motore.
 
 [^19-1]: Introdotto dall’all. cifra II n. 3 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19-2]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^19-2]: [RS 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
 [^19-3]: Nuovo testo giusta la cifra II della LF del 30 set. 2024, in vigore dal 1° mar. 2025 ([RU 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204))
 [^19-4]: Introdotto dalla cifra II della LF del 30 set. 2024, in vigore dal 1° mar. 2025 ([RU 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [FF 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204))
 
@@ -387,7 +387,7 @@ La ripartizione della quota dei Cantoni secondo il capoverso 1 considera le ripe
 I mezzi supplementari che dal 2008 spettano ai Cantoni in seguito all’aumento della tassa sono impiegati per versare contributi per il mantenimento del sostrato qualitativo delle strade principali nelle regioni di montagna e nelle regioni periferiche secondo l’articolo 14 della legge federale del 22 marzo 1985[^19a-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo.
 
 [^19a-1]: Introdotto dall’all. cifra II n. 3 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19a-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^19a-2]: [RS 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 
 ## Sezione 6: Disposizioni penali e rimedi giuridici
 
@@ -454,7 +454,7 @@ Sono considerate infrazioni fiscali:
 <sup>2</sup> L’UDSC è l’autorità di perseguimento e giudizio.
 
 [^22-1]: Nuovo testo giusta la cifra I della LF del 17 mar. 2023, in vigore dal 1° mag. 2024 ([RU 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [FF 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
-[^22-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^22-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 23
 
@@ -491,7 +491,7 @@ Sono considerate infrazioni fiscali:
 
 <sup>2</sup> Con l’entrata in vigore della legge è abrogata l’ordinanza del 26 ottobre 1994[^24-2] concernente la tassa sul traffico pesante.
 
-[^24-1]: [CS **1** 3; [RU 1994 1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), **1999** 742]. Vedi ora l’art. 196 n. 2 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^24-1]: [CS **1** 3; [RU 1994 1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), **1999** 742]. Vedi ora l’art. 196 n. 2 della Cost. federale del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^24-2]: [[RU 1994 2509](https://fedlex.data.admin.ch/eli/oc/1994/2509_2509_2509); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 cifra II n. 12; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)art. 1 n. 19; [1999 1750](https://fedlex.data.admin.ch/eli/oc/1999/277), 3385]
 
 #### Art. 25

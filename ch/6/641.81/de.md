@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 19. Dezember 1997 über eine leistungsabhängige Schwer
 short: SVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/24"
 language: de
-version: 2025-03-01
+version: 2026-01-01
 adopted: 1997-12-19
 in_force: 2000-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20250301/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20250301-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/24/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2000-24-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/24/20250301/de"
 
 (Schwerverkehrsabgabegesetz, SVAG)
 
-vom 19. Dezember 1997 (Stand am 1. März 2025)
+vom 19. Dezember 1997 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -27,7 +27,7 @@ nach Einsicht in die Botschaft des Bundesrates vom 11. September 1996[^ingress-3
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
 [^ingress-3]: [BBl 1996 V 521](https://fedlex.data.admin.ch/eli/fga/1996/5_521_505_407)
 
@@ -74,9 +74,9 @@ Die Abgabe wird auf den im In- und Ausland immatrikulierten (in- und ausländisc
 
 <sup>2</sup> Für den Personentransport wird die Abgabe pauschal erhoben. Sie beträgt höchstens 5000 Franken pro Jahr. Der Bundesrat kann die Abgabe nach Fahrzeugkategorien abstufen.
 
-<sup>3</sup> Für Fahrten im unbegleiteten kombinierten Verkehr besteht Anspruch auf eine pauschale Rückerstattung. Der Bundesrat regelt die Einzelheiten.[^4-1]
+<sup>3</sup> …[^4-1]
 
-[^4-1]: Eingefügt durch Art. 6 Ziff. 1 des Verkehrsverlagerungsgesetzes vom 8. Okt. 1999, in Kraft seit 1. Jan. 2001 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^4-1]: Eingefügt durch Art. 6 Ziff. 1 des Verkehrsverlagerungsgesetzes vom 8. Okt. 1999 ([AS 2000 2864](https://fedlex.data.admin.ch/eli/oc/2000/495); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Aufgehoben durch Anhang Ziff. II 1 des Gütertransportgesetzes vom 21. März 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [BBl 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 5
 
@@ -273,9 +273,9 @@ Die Abgabe wird mindestens einmal jährlich erhoben.
 
 <sup>3</sup> Die rechtskräftigen Verfügungen der Abgabeforderung sind vollstreckbaren gerichtlichen Urteilen im Sinne der Artikel 80 ff. des Bundesgesetzes vom 11. April 1889[^14-3] über Schuldbetreibung und Konkurs gleichgestellt.
 
-[^14-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^14-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
 [^14-2]: Fassung gemäss Anhang Ziff. 11 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
-[^14-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^14-3]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 14a
 
@@ -320,7 +320,7 @@ Auf Antrag des BAZG verweigert oder entzieht die kantonale Verkehrszulassungsbeh
 
 <sup>4</sup> Die Gewährung der Amtshilfe in Strafsachen zwischen Bundes- und kantonalen Behörden richtet sich nach Artikel 30 des Bundesgesetzes vom 22. März 1974[^16-1] über das Verwaltungsstrafrecht.
 
-[^16-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^16-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 17
 
@@ -380,7 +380,7 @@ Bei der Verteilung des Anteils der Kantone nach Absatz 1 sind die besonderen Aus
 - d. der steuerlichen Belastung des Motorfahrzeugverkehrs.
 
 [^19-1]: Eingefügt durch Anhang Ziff. II 3 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19-2]: [SR 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^19-2]: [SR 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
 [^19-3]: Fassung gemäss Ziff. II des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [BBl 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 [^19-4]: Eingefügt durch Ziff. II des BG vom 27. Sept. 2024, in Kraft seit 1. März 2025 ([AS 2025 104](https://fedlex.data.admin.ch/eli/oc/2025/104); [BBl 2023 2204](https://fedlex.data.admin.ch/eli/fga/2023/2204)).
 
@@ -391,7 +391,7 @@ Bei der Verteilung des Anteils der Kantone nach Absatz 1 sind die besonderen Aus
 Die Mittel, die den Kantonen aus der Erhöhung der Abgabe ab 2008 zusätzlich zustehen, werden für die Ausrichtung von Beiträgen zur Substanzerhaltung der Hauptstrassen in Berggebieten und Randregionen nach Artikel 14 des Bundesgesetzes vom 22. März 1985[^19a-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel verwendet.
 
 [^19a-1]: Eingefügt durch Anhang Ziff. II 3 des BG vom 30. Sept. 2016 über den Fonds für die Nationalstrassen und den Agglomerationsverkehr, in Kraft seit 1. Jan. 2018 ([AS 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [BBl 2015 2065](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^19a-2]: [SR 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
+[^19a-2]: [SR 725.116.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8462)
 
 ## 6. Abschnitt: Strafbestimmungen und Rechtsmittel
 
@@ -458,7 +458,7 @@ Mit Busse bis 20 000 Franken wird bestraft, wer vorsätzlich:
 <sup>2</sup> Verfolgende und urteilende Behörde ist das BAZG.
 
 [^22-1]: Fassung gemäss Ziff. I des BG vom 17. März 2023, in Kraft seit 1. Mai 2024 ([AS 2024 131](https://fedlex.data.admin.ch/eli/oc/2024/131); [BBl 2022 2323](https://fedlex.data.admin.ch/eli/fga/2022/2323)).
-[^22-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^22-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 23
 
@@ -495,7 +495,7 @@ Mit Busse bis 20 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>2</sup> Die Schwerverkehrsabgabe-Verordnung vom 26. Oktober 1994[^24-2] wird mit dem Inkrafttreten des Gesetzes aufgehoben.
 
-[^24-1]: [[AS 1994 1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Siehe heute Art. 196 Ziff. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^24-1]: [[AS 1994 1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099); [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)]. Siehe heute Art. 196 Ziff. 2 der BV vom 18. April 1999 ([SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 [^24-2]: [[AS 1994 2509](https://fedlex.data.admin.ch/eli/oc/1994/2509_2509_2509); [1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)Anhang 1 Ziff. II 12; [1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)Art. 1 Ziff. 19; [1999 1750](https://fedlex.data.admin.ch/eli/oc/1999/277), [3585](https://fedlex.data.admin.ch/eli/oc/1999/510)]
 
 #### Art. 25
