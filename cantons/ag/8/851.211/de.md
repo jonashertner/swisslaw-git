@@ -4,13 +4,12 @@ number: "851.211"
 title: Sozialhilfe- und Präventionsverordnung
 short: SPV
 language: de
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-03-19
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2002-08-28
 in_force: 2003-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/851.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3814/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3910/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3814/pdf_file"
 
 (SPV)
 
-Vom 28.08.2002 (Stand 01.07.2025)
+Vom 28.08.2002 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -58,7 +57,7 @@ beschliesst:
 
 **SKOS-Richtlinien**
 
-<sup>1</sup> Für die Sozialhilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien (SKOS-Richtlinien) in der ab 1. Januar 2025 geltenden Fassung gemäss Anhang verbindlich. Vorbehalten bleiben die in dieser Verordnung sowie im SPG beziehungsweise dessen Ausführungserlassen enthaltenen Ausnahmen.
+<sup>1</sup> Für die Sozialhilfe sind die von der Schweizerischen Konferenz für Sozialhilfe erlassenen Richtlinien (SKOS-Richtlinien) in der ab 1. Januar 2026 geltenden Fassung gemäss Anhang verbindlich. Vorbehalten bleiben die in dieser Verordnung sowie im SPG beziehungsweise dessen Ausführungserlassen enthaltenen Ausnahmen.
 
 ## 2. Sozialhilfe
 
@@ -879,11 +878,15 @@ beschliesst:
 
 <sup>1</sup> Für Flüchtlinge gelten die §§ 47 Abs. 2 und 51 Abs. 5 SPG sinngemäss, solange der Bund dem Kanton Abgeltungen leistet.
 
+<sup>1<sup>bis</sup></sup> Für Schutzbedürftige mit Aufenthaltsbewilligung gilt die Kostentragung gemäss Absatz 1, solange und zum gleichen Anteil wie der Bund dem Kanton Abgeltungen für Schutzbedürftige mit Aufenthaltsbewilligung leistet.
+
 <sup>2</sup> Die Gemeinde stellt dem Kantonalen Sozialdienst für Flüchtlinge sowie für die vom Kanton gemäss § 51 Abs. 1 lit. b, c und d SPG voll zu vergütenden Sozialhilfekosten innert drei Monaten nach Quartalsende Rechnung. Massgebend für die Zuordnung der erbrachten Leistungen zu einem Quartal ist deren Fälligkeit.
 
 <sup>2<sup>bis</sup></sup> In Fällen, in denen der Anspruch auf Kostenersatz noch nicht feststeht, beginnt die Verwirkungsfrist gemäss Absatz 2 erst mit Vorliegen eines vollstreckbaren Entscheids zu laufen. Dies gilt insbesondere bei ungeklärtem Unterstützungswohnsitz oder ungeklärtem aufenthaltsrechtlichen Status der betroffenen Person.
 
 <sup>2<sup>ter</sup></sup> In Fällen, in denen eine sozialhilfebeziehende Person gemäss Absatz 2 eine Rechnung erst nach Eintritt der Fälligkeit bei der Gemeinde einreicht, ist das Zahlungsdatum der Gemeinde massgebend für die Zuordnung der erbrachten Leistung zu einem Quartal.
+
+<sup>2<sup>quater</sup></sup> Für Schutzbedürftige mit Aufenthaltsbewilligung übernommene Kosten gilt Absatz 2 sinngemäss.
 
 <sup>3</sup> …
 
