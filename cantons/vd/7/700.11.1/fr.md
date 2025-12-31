@@ -4,7 +4,7 @@ number: "700.11.1"
 title: "RÈGLEMENT du 19.09.1986 d'application de la loi du 4 décembre 1985 sur l'aménagement du territoire et les constructions (RLATC)"
 short: RLATC
 language: fr
-version: 2023-08-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/700.11.1?id=12fdc2a6-5c95-4ad5-9433-0801702d6d2b"
 ---
 
@@ -667,15 +667,15 @@ arrête
 - a. elle s'intègre au bâti existant ;
 - b. son volume ne dépasse pas 2 m3 ;
 - c. elle ne porte pas atteinte à d'autres intérêts publics prépondérants ;
-- d. le rapport entre sa puissance de chauffe, la puissance acoustique maximale de nuit et la distance minimale au récepteur, selon les valeurs déterminées dans les tableaux contenus à l'annexe IV, est respecté.
+- d. le rapport entre sa puissance de chauffe, la puissance acoustique et la distance minimale au récepteur, selon les valeurs déterminées dans les tableaux contenus à l'annexe IV, est respecté.
 
 <sup>3</sup> Les pompes à chaleur air/eau et air/air installées à l'extérieur d'un bâtiment doivent être placées et orientées de manière à minimiser autant que possible les immissions de bruit auprès des voisins et dans le respect du principe de prévention (art. 11 LPE).
 
 <sup>4</sup> Les installations visées aux alinéas 1 et 2 doivent être annoncées à la commune au moyen du formulaire d'annonce mis à disposition par le service en charge de l'environnement en y joignant le plan de situation et la fiche technique. L'article 103, alinéas 4 et 5 de la loi, est applicable pour le surplus.
 
-<sup>5</sup> A une altitude de plus de 1'000 mètres, une pompe à chaleur air/eau ou air/air n'est dispensée d'autorisation que pour un bâtiment existant Minergie ou équivalent. L'équivalence Minergie est admise pour un bâtiment dont la performance énergétique correspond au minimum à la classe C de la catégorie enveloppe du Certificat énergétique cantonal des bâtiments (CECB). L'installation d'un chauffe-eau à pompe à chaleur n'est pas visée par la présente disposition.
+<sup>5</sup> ...
 
-[^68b-1]: Modif. 17 du 14.06.2023: Introduction Art. 68c; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Modification Al. 2, d; entrée en vigueur au 01.01.2026; Abrogation Al. 5; entrée en vigueur au 01.01.2026; Introduction Art. 69, Al. 1, 1, k-m; entrée en vigueur au 01.01.2026
+[^68b-1]: Modif. 17 du 14.06.2023: Introduction Art. 68c; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Modification Al. 2, d; entrée en vigueur au 01.01.2026; Abrogation Al. 5; entrée en vigueur au 01.01.2026
 
 #### Art. 69
 
@@ -686,7 +686,7 @@ arrête
 - 1\. un plan de situation extrait du plan cadastral et portant les indications suivantes:
 - a. le nom et prénom ou la raison sociale du propriétaire du fonds;
 - b. les noms et prénoms ou la raison sociale des propriétaires voisins;
-- c. les coordonnées cartographiques du bâtiment concerné ou projeté avec indication sur le plan de leur localisation;
+- c. les coordonnées moyennes du projet;
 - d. l'indication des limites de construction, des limites de zones, l'affectation réglementaire et les servitudes;
 - e. le projet de construction, selon les cotes tirées du plan établi par l'architecte;
 - f. les distances de la construction aux limites du terrain et, au besoin, aux bâtiments existants ainsi que la distance au lac et cours d'eau si celle-ci est inférieure à 20 m;
@@ -694,7 +694,12 @@ arrête
 - h. en cas de transformation, de démolition ou de changement de destination, le numéro d'assurance et la note au recensement architectural du ou des bâtiments;
 - i. le ou les accès des véhicules;
 - j. les limites ou l'indication des secteurs de protection des eaux.
+- - ...
+- k. la référence architecte dans chaque nouveau bâtiment, lorsque le projet contient plusieurs nouveaux bâtiments;
+- l. le numéro d'entrée de l'adresse officielle projetée, lorsque déjà attribué par la commune;
+- m. la nécessité de mettre à jour le plan du registre foncier une fois le projet réalisé.
 - - L'ingénieur géomètre breveté authentifie la conformité du plan de situation au plan cadastral mis à jour et les indications mentionnées.
+- - L'ingénieur géomètre breveté transmet les informations relatives aux bâtiments et aux adresses projetés au service en charge de la mensuration officielle.
 - 1bis. s'agissant des objets pouvant être dispensés d'enquête publique ou des transformations ou des changements d'affectation de constructions ou d'installations conformes aux dispositions légales et réglementaires n'impliquant pas de modification de volumes ou de surfaces au sol, un extrait cadastral ou une copie du plan de situation à jour comportant les indications nécessaires;
 - 2\. les plans à l'échelle du 1 :100 ou du 1 :50 des sous-sols, rez-de-chaussée, étages et combles avec destination de tous les locaux et l'indication des mesures de prévention contre les incendies ; pour les constructions de grandes dimensions ou présentant des éléments répétitifs, l'échelle du 1 :200 peut être autorisée par la municipalité qui indique, cas échéant, les parties du projet devant être établies à l'échelle du 1 :100;
 - 3\. les coupes nécessaires à la compréhension du projet comprenant les profils du terrain naturel et aménagé;
@@ -1133,19 +1138,19 @@ Annexes [^91-1]
 
 1
 
-[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.08.2023)
+[Annexe I](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/1?dmev=01.01.2026)
 
 2
 
-[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.08.2023)
+[Annexe II](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/2?dmev=01.01.2026)
 
 3
 
-[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.08.2023)
+[Annexe III](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/3?dmev=01.01.2026)
 
 4
 
-[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/4?dmev=01.08.2023)
+[Annexe IV](https://prestations.vd.ch/pub/blv-publication/api/actes/12fdc2a6-5c95-4ad5-9433-0801702d6d2b/annexes/4?dmev=01.01.2026)
 
 [^90-1]: Modif. 6 du 14.05.2001: Modification Art. 91; entrée en vigueur au 14.05.2001
-[^91-1]: Modif. 2 du 27.08.1990: Modification Ann; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Modification Ann; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Ann; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Ann; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Ann; entrée en vigueur au 01.11.2006 · Modif. 16 du 14.12.2022: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2023 · Modif. 17 du 14.06.2023: Introduction Annexes, Ann. 4; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Introduction Art. 69, Al. 1, 1, k-m; entrée en vigueur au 01.01.2026; Modification Annexes, Ann. 4; entrée en vigueur au 01.01.2026
+[^91-1]: Modif. 2 du 27.08.1990: Modification Ann; entrée en vigueur au 01.10.1990 · Modif. 3 du 23.12.1993: Modification Ann; entrée en vigueur au 01.02.1994 · Modif. 6 du 14.05.2001: Modification Ann; entrée en vigueur au 14.05.2001 · Modif. 7 du 16.12.2004: Modification Ann; entrée en vigueur au 01.12.2004 · Modif. 9 du 04.10.2006: Modification Ann; entrée en vigueur au 01.11.2006 · Modif. 16 du 14.12.2022: Modification Annexes, Ann. 2; entrée en vigueur au 01.01.2023 · Modif. 17 du 14.06.2023: Introduction Annexes, Ann. 4; entrée en vigueur au 01.08.2023 · Modif. 18 du 01.10.2025: Modification Annexes, Ann. 4; entrée en vigueur au 01.01.2026
