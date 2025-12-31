@@ -3,18 +3,18 @@ sr: "832.121.1"
 title: "Ordonnance de l'OFSP du 25 novembre 2015 sur l'établissement des comptes et la présentation des rapports dans le domaine de l'assurance-maladie sociale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/841"
 language: fr
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/841/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-841-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/841/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/841/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-841-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/841/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OFSP sur l’établissement des comptes et la présentation des rapports dans le domaine de l’assurance-maladie sociale
 
-du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2024)
+du 25 novembre 2015 (État le 1<sup>er</sup> janvier 2026)
 
 L’Office fédéral de la santé publique (OFSP),
 
@@ -75,5 +75,5 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O de l’OFSP du 29 oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 667](https://fedlex.data.admin.ch/eli/oc/2021/667)).
-[^annexu1-lvlu1-1]: Le plan comptable n’est pas publié au RO. Il peut être obtenu auprès de l’Office fédéral de la santé publique, Division Surveillance de l’assurance, 3003 Berne ou consulté sur son site à l’adresse suivante: [www.ofsp.admin.ch](https://www.bag.admin.ch/bag/fr/home/versicherungen/krankenversicherung/krankenversicherung-versicherer-aufsicht/reporting/rechnungslegungundberichterstattung.html) &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Présentation des rapports &gt; Présentation des comptes et des rapports. La version du 1<sup>er</sup> janvier 2022 est applicable.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 23 juin 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 425](https://fedlex.data.admin.ch/eli/oc/2025/425)).
+[^annexu1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [htt p s://fe dlex.data.admin.ch/eli/oc/2025/425](https://fedlex.data.admin.ch/eli/oc/2025/425) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

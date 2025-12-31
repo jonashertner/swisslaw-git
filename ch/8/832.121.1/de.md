@@ -3,18 +3,18 @@ sr: "832.121.1"
 title: Verordnung des BAG vom 25. November 2015 über Rechnungslegung und Berichterstattung in der sozialen Krankenversicherung
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/841"
 language: de
-version: 2024-01-01
+version: 2026-01-01
 adopted: 2015-11-25
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/841/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2015-841-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/841/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/841/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2015-841-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/841/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BAG über Rechnungslegung und Berichterstattung in der sozialen Krankenversicherung
 
-vom 25. November 2015 (Stand am 1. Januar 2024)
+vom 25. November 2015 (Stand am 1. Januar 2026)
 
 Das Bundesamt für Gesundheit (BAG),
 
@@ -75,5 +75,5 @@ Anhang[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II der V des BAG vom 29. Okt. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 667](https://fedlex.data.admin.ch/eli/oc/2021/667)).
-[^annexu1-lvlu1-1]: In der AS nicht veröffentlicht. Das Dokument kann beim Bundesamt für Gesundheit, Abteilung Versicherungsaufsicht, 3003 Bern, bezogen oder unter [www.bag.admin.ch](https://www.bag.admin.ch/bag/de/home/versicherungen/krankenversicherung/krankenversicherung-versicherer-aufsicht/reporting/rechnungslegungundberichterstattung.html) &gt; Themen &gt; Versicherungen &gt; Krankenversicherung &gt; Versicherer und Aufsicht &gt; Reporting &gt; Rechnungslegung und Berichterstattung eingesehen werden. Es gilt die Fassung vom 1. Januar 2022.
+[^t-1]: Fassung gemäss Ziff. I der V des BAG vom 23. Juni 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 425](https://fedlex.data.admin.ch/eli/oc/2025/425)).
+[^annexu1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2025/425](https://fedlex.data.admin.ch/eli/oc/2025/425) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
