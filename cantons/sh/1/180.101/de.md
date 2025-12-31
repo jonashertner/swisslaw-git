@@ -4,13 +4,13 @@ number: "180.101"
 title: Verordnung über die Entlöhnung des Staatspersonals
 short: Lohnverordnung
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-06-11
+version: 2026-01-01
+valid_until: 2026-04-30
+version_adopted: 2025-12-16
 adopted: 2005-09-27
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1853/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2049/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://rechtsbuch.sh.ch/api/de/versions/1853/pdf_file"
 
 (Lohnverordnung)
 
-Vom 27.09.2005 (Stand 01.08.2024)
+Vom 27.09.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
@@ -185,13 +185,13 @@ beschliesst:
 
 **Jubiläumsgabe[^12-1]**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter erhalten nach 15 beim Kanton geleisteten Dienstjahren eine Jubiläumsgabe von Fr. 2'000.00 (Vollpensum), nach 25 und nach 40 Dienstjahren eine Jubiläumsgabe in der Höhe eines Zwölftels des Jahresbruttolohnes.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter erhalten nach 10 beim Kanton geleisteten Dienstjahren eine Jubiläumsgabe von Fr. 500.00 (Vollpensum), nach 15 beim Kanton geleisteten Dienstjahren eine Jubiläumsgabe von Fr. 2'000.00 (Vollpensum), nach 25 und nach 40 Dienstjahren eine Jubiläumsgabe in der Höhe eines Zwölftels des Jahresbruttolohnes.
 
 <sup>2</sup> Für den Jubiläumstag wird ein freier Arbeitstag gewährt. Er soll nach Möglichkeit am Jubiläumstag bezogen werden.
 
 <sup>3</sup> Bei Teilzeitbeschäftigung oder wechselndem Beschäftigungsgrad ist für die Berechnung der Jubiläumsgabe der in den letzten zwölf Monaten bezogene Lohn massgebend.
 
-<sup>4</sup> Bei Wiedereintritt werden frühere Dienstjahre angerechnet, ebenfalls die beim Kanton absolvierten Lehrjahre. Nicht berücksichtigt wird die nebenamtliche Tätigkeit.
+<sup>4</sup> Bei Wiedereintritt werden frühere Dienstjahre angerechnet, sofern der Unterbruch nicht mehr als 4 Jahre gedauert hat. Die beim Kanton absolvierten Lehrjahre werden als Dienstjahre angerechnet. Nicht berücksichtigt wird die nebenamtliche Tätigkeit.
 
 <sup>5</sup> Die Jubiläumsgabe kann, sofern es der Dienstbetrieb zulässt, in Form von zusätzlichen freien Tagen, längstens 22 Arbeitstagen, bezogen werden.
 
@@ -279,8 +279,6 @@ beschliesst:
 
 #### § T1
 
-**Übergangsbestimmung zur Änderung vom 27. November 2018 (§ 12)**
-
-<sup>1</sup> Er gilt für Dienstjubiläen ab dem 1. Januar 2019. Bereits früher in freie Tage umgewandelte oder bis 31. Dezember anfallende Gaben sind nach der bisherigen Regelung weiterhin in Zeitform zu beziehen, soweit nichts anderes vorgeschrieben ist.
+**…**
 
 Abl. 2005, S. 1259
