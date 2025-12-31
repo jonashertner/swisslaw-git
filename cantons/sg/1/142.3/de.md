@@ -4,13 +4,12 @@ number: "142.3"
 title: Gesetz über E-Government
 short: E-GovG
 language: de
-version: 2019-01-01
-corrected: 2019-11-04
-version_adopted: 2018-11-20
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2018-11-20
 in_force: 2019-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/142.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2514/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3839/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2514/pdf_file"
 
 (E-GovG)
 
-vom 20.11.2018 (Stand 01.01.2019)
+vom 20.11.2018 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -91,13 +90,27 @@ als Gesetz:[^ingress-2]
 
 #### Art. 6
 
-**Zusammenarbeit zwischen öffentlichen Organen und Dritten**
+**Zusammenarbeit zwischen öffentlichen Organen und Dritten a) Grundsatz**
 
-<sup>1</sup> Ein öffentliches Organ kann Dritten über ein E-Government-Portal insbesondere folgende Dienste anbieten:
+<sup>1</sup> Ein öffentliches Organ kann Dritten über ein E-Government-Portal E-Government-Services anbieten. Diese umfassen insbesondere:
 
 - a) elektronische und rechtsverbindliche Übermittlung von Daten und Eingaben an ein öffentliches Organ;
 - b) elektronischer Bezug von Daten und Leistungen von einem öffentlichen Organ;
-- c) Zugang zu einem E-Government-Konto, das insbesondere die elektronische Verwaltung und Führung von Daten ermöglicht.
+- c) elektronische Verwaltung und Führung von Daten.
+
+#### Art. 6a
+
+**b) elektronische Authentifizierung**
+
+<sup>1</sup> Wer einen E-Government-Service nutzt, authentifiziert sich vorgängig über einen zentralen elektronischen Zugang und erfasst die hierfür erforderlichen Personendaten.
+
+<sup>2</sup> Der Kanton stellt hierfür eine technische Lösung bereit.
+
+<sup>3</sup> Je nach Schutzbedarf des angeforderten E-Government-Services gelten unterschiedliche Vertrauensstufen.
+
+<sup>4</sup> Die bei der elektronischen Authentifizierung erfassten Personendaten können an ein E-Government-Portal bekanntgegeben werden, wenn dies für die Nutzung eines E-Government-Services erforderlich ist.
+
+<sup>5</sup> Das Kooperationsgremium regelt die Einzelheiten der elektronischen Authentifizierung, insbesondere das Verfahren, die Vertrauensstufen sowie die Vertretung für Personen und Organisationen, durch Verordnung.
 
 #### Art. 7
 
@@ -117,7 +130,7 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Kanton und politische Gemeinden sind Träger der E-Government St.Gallen (nachfolgend eGovSG).
 
-<sup>2</sup> Die GovSG ist eine öffentlich-rechtliche Anstalt des Kantons St.Gallen mit eigener Rechtspersönlichkeit und Sitz in der Stadt St.Gallen. Die Firma der eGovSG wird im Statut festgelegt.
+<sup>2</sup> Die eGovSG ist eine öffentlich-rechtliche Anstalt des Kantons St.Gallen mit eigener Rechtspersönlichkeit und Sitz in der Stadt St.Gallen. Die Firma der eGovSG wird im Statut festgelegt.
 
 #### Art. 9
 
