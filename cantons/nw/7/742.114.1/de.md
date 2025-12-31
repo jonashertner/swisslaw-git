@@ -1,25 +1,24 @@
 ---
 canton: NW
 number: "742.114.1"
-title: Regierungsratsbeschluss betreffend die Ausbildungsleistungen der Spitäler in den Jahren 2024 und 2025
+title: Regierungsratsbeschluss betreffend die Ausbildungsleistungen der Spitäler im Jahr 2026
 short: Spitalliste zu den Ausbildungsleistungen
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-10
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2025-09-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.114.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1303/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1419/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Regierungsratsbeschluss betreffend die Ausbildungsleistungen der Spitäler in den Jahren 2024 und 2025
+# Regierungsratsbeschluss betreffend die Ausbildungsleistungen der Spitäler im Jahr 2026
 
 (Spitalliste zu den Ausbildungsleistungen)
 
-vom 10.09.2024 (Stand 01.07.2024)
+vom 16.09.2025 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -35,7 +34,7 @@ beschliesst:
 
 **Pflegefachpersonen HF und FH**
 
-<sup>1</sup> Die Spital Nidwalden AG hat gestützt auf Art. 4 Abs. 2 des Pflegeausbildungsförderungsgesetzes (PAFG)[^Ziff1-1] in den Jahren 2024 und 2025 mindestens zwölf Pflegefachpersonen HF und FH auszubilden (Vollzeitäquivalent).
+<sup>1</sup> Die Spital Nidwalden AG hat gestützt auf Art. 4 Abs. 2 des Pflegeausbildungsförderungsgesetzes (PAFG)[^Ziff1-1] im Jahr 2026 mindestens zwölf Pflegefachpersonen HF und FH auszubilden (Vollzeitäquivalent).
 
 [^Ziff1-1]: NG 712.1
 
@@ -43,8 +42,8 @@ beschliesst:
 
 **Fachpersonen Gesundheit**
 
-<sup>1</sup> Die Spital Nidwalden AG hat gestützt auf Art. 4 Abs. 2 PAFG[^Ziff2-1] in den Jahren 2024 und 2025 mindestens 14 Fachpersonen Gesundheit auszubilden (Vollzeitäquivalent).
+<sup>1</sup> Die Spital Nidwalden AG hat gestützt auf Art. 4 Abs. 2 PAFG[^Ziff2-1] im Jahr 2026 mindestens 14 Fachpersonen Gesundheit auszubilden (Vollzeitäquivalent).
 
 [^Ziff2-1]: NG 712.1
 
-2024-026
+2025-043
