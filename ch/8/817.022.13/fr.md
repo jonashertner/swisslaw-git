@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: ORésDAlan
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-154-20250701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-154-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20250701/fr"
 
 (ORésDAlan)[^t-1]
 
-du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2025)
+du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 mars 2018, en vigueur depuis le 1<sup>er</sup> mai 2018 ([RO 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -120,27 +120,29 @@ Les résidus de substances actives qui figuraient jusqu’à présent dans les l
 
 #### Art. 7a
 
-**Disposition transitoire relative à la modification du 23 octobre 2019**[^7a-1]
+[^7a-1]
 
-Les résidus de substances actives non conformes à la modification du 23 octobre 2019 ne doivent plus être présents dans les denrées alimentaires d’origine animale à partir du 1<sup>er</sup> janvier 2021.
-
-[^7a-1]: Introduit par le ch. I de l’O de l’OSAV du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
+[^7a-1]: Introduit par le ch. I de l’O de l’OSAV du 23 oct. 2019 ([RO 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 7b
 
-**Disposition transitoire relative à la modification du 14 février 2022**[^7b-1]
+[^7b-1]
 
-Les résidus de substances actives non conformes à la modification du 14 février 2022 relative à la liste 1 de l’annexe ne doivent plus être présents dans les denrées alimentaires d’origine animale à partir du 14 mars 2023.
-
-[^7b-1]: Introduit par le ch. I de l’O de l’OSAV du 14 fév. 2022, en vigueur depuis le 15 mars 2022 ([RO 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+[^7b-1]: Introduit par le ch. I de l’O de l’OSAV du 14 fév. 2022 ([RO 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 7c
 
-**Disposition transitoire relative à la modification du 2 juin 2025**[^7c-1]
+[^7c-1]
 
-Les résidus de substances actives non conformes à la modification du 2 juin 2025 relative aux listes 1, 2 et 5 de l’annexe ne doivent plus être présents dans les denrées alimentaires d’origine animale à partir du 31 décembre 2025.
+[^7c-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025 ([RO 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
-[^7c-1]: Introduit par le ch. I de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)).
+#### Art. 7d
+
+**Disposition transitoire relative à la modification du 26 novembre 2025**[^7d-1]
+
+Les résidus de substances pharmacologiquement actives non conformes à la modification du 26 novembre 2025 relative à la liste 1 de l’annexe ne doivent plus être présents dans les denrées alimentaires d’origine animale à partir du 1<sup>er</sup> juillet 2026.
+
+[^7d-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 8
 
@@ -154,13 +156,13 @@ Annexe[^t-2]
 
 ## Listes des limites maximales de résidus
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 2 juin 2025, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 2 juin 2025 ([RO 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)). Mise à jour par le ch. II de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 ### 1 Liste des limites maximales de résidus de substances pharmacologiquement actives dans des denrées alimentaires d’origine animale
 
 Les limites maximales de résidus de substances pharmacologiquement actives sont fixées dans le tableau 1 de l’annexe du règlement (UE) n<sup>o</sup> 37/2010[^annexu1-lvlu1-lvl1-1].
 
-[^annexu1-lvlu1-lvl1-1]: Règlement (UE) n<sup>o</sup> 37/2010 de la Commission du 22 décembre 2009 relatif aux substances pharmacologiquement actives et à leur classification en ce qui concerne les limites maximales de résidus dans les aliments d’origine animale, JO L 15 du 20.1.2010, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2024/860, JO L, 2024/860, 19.3.2024.
+[^annexu1-lvlu1-lvl1-1]: Règlement (UE) n<sup>o</sup> 37/2010 de la Commission du 22 décembre 2009 relatif aux substances pharmacologiquement actives et à leur classification en ce qui concerne les limites maximales de résidus dans les aliments d’origine animale, JO L 15 du 20.1.2010, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2025/1908, JO L, 2025/1908, 25.9.2025.
 
 ### 2 Liste des limites maximales de résidus d’additifs utilisés dans l’alimentation animale admises dans les denrées alimentaires d’origine animale
 
@@ -176,7 +178,7 @@ Champ d’application
 
 <table>
 <tr><th>1</th><th>2</th><th>3</th><th></th><th>3</th></tr>
-<tr><th>**Principe actif**</th><th>**Champ d****’****application**</th><th>**Espèce animale**</th><th>**Denrées alimentaires**</th><th>**Limite maximale de résidus en µg/kg**</th></tr>
+<tr><th>**Principe actif**</th><th>**Champ d’application**</th><th>**Espèce animale**</th><th>**Denrées alimentaires**</th><th>**Limite maximale de résidus en µg/kg**</th></tr>
 <tr><td>Somme de l’adonirubine et de la canthaxanthine</td><td>S</td><td>Saumon</td><td>Muscle</td><td>10 000</td></tr>
 <tr><td>"</td><td>S</td><td>Truite</td><td>Muscle</td><td>8 000</td></tr>
 <tr><td>Canthaxanthine</td><td>S</td><td>Poulets d’engraissement et espèces mineures de volailles d’engraissement, Volailles pondeuses et volailles destinées à la ponte</td><td>Jaune d’œuf</td><td>30 000</td></tr>

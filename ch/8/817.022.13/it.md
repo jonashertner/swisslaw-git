@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 16 dicembre 2016 concernente i limiti massimi per i
 short: ORDOA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: it
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20250701/it/xml/fedlex-data-admin-ch-eli-cc-2017-154-20250701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20250701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-154-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20250701/it"
 
 (ORDOA)[^t-1]
 
-del 16 dicembre 2016 (Stato 1° luglio 2025)
+del 16 dicembre 2016 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -43,7 +43,7 @@ La presente ordinanza non si applica:
 - b. ai contaminanti di cui all’ordinanza del DFI del 16 dicembre 2016[^1-2] sui contaminanti;
 - c. alle derrate alimentari che provengono da animali a cui, nell’ambito di sperimentazioni cliniche, sono state somministrate sostanze farmacologicamente attive non autorizzate.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFI del 28 mar. 2018, in vigore dal 1° mag. 2018 ([RU 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 [^1-2]: [RS 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
 
 #### Art. 2
@@ -120,27 +120,29 @@ I residui delle sostanze attive che finora erano elencate nelle liste a e b dell
 
 #### Art. 7a
 
-**Disposizione transitoria della modifica del 23 ottobre 2019**[^7a-1]
+[^7a-1]
 
-I residui delle sostanze attive non conformi alla modifica del 23 ottobre 2019 non possono più essere presenti nelle derrate alimentari di origine animale dal 1° gennaio 2021.
-
-[^7a-1]: Introdotto dal n. I dell’O del USAV del 23 ott. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
+[^7a-1]: Introdotto dalla cifra I dell’O dell’USAV del 23 ott. 2019 ([RU 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)). Abrogato dalla cifra I dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 7b
 
-**Disposizione transitoria della modifica del 14 febbraio 2022**[^7b-1]
+[^7b-1]
 
-I residui delle sostanze attive non conformi alla modifica dell’allegato elenco 1 del 14 febbraio 2022 non possono più essere presenti nelle derrate alimentari di origine animale dal 14 marzo 2023.
-
-[^7b-1]: Introdotto dal n. I dell’O del USAV del 14 feb. 2022, in vigore dal 15 mar. 2022 ([RU 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+[^7b-1]: Introdotto dalla cifra I dell’O dell’USAV del 14 feb. 2022 ([RU 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)). Abrogato dalla cifra I dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 7c
 
-**Disposizione transitoria relativa alla modifica del 2 giugno 2025**[^7c-1]
+[^7c-1]
 
-I residui di sostanze attive non conformi alla modifica del 2 giugno 2025 concernente gli elenchi 1, 2 e 5 dell’allegato non devono più essere presenti nelle derrate alimentari di origine animale dal 31 dicembre 2025.
+[^7c-1]: Introdotto dalla cifra I dell’O dell’USAF del 2 giu. 2025 ([RU 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)). Abrogato dalla cifra I dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
-[^7c-1]: Itrodotto dalla cifra I dell’O dell’USAF del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)).
+#### Art. 7d
+
+**Disposizione transitoria della modifica del 26 novembre 2025**[^7d-1]
+
+I residui di sostanze farmacologicamente attive non conformi alla modifica del 26 novembre 2025 concernente l’elenco 1 dell’allegato non devono più essere presenti nelle derrate alimentari di origine animale dal 1° luglio 2026.
+
+[^7d-1]: Introdotto dalla cifra I dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 8
 
@@ -154,13 +156,13 @@ Allegato[^t-2]
 
 ## Elenco dei limiti massimi per i residui
 
-[^t-2]: Nuovo testo giusta la cifra II dell’O dell’USAF del 2 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O dell’USAF del 2 giu. 2025 ([RU 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)). Aggiornato dalla cifra II dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 ### 1 Elenco dei limiti massimi autorizzati per i residui di sostanze farmacologicamente attive nelle derrate alimentari di origine animale e classificazione di tali sostanze
 
-I limiti massimi per i residui di sostanze farmacologicamente attive sono fissati nella tabella 1 dell’allegato del regolamento (UE) n. 37/2010[^annexu1-lvlu1-lvl1-1]
+I limiti massimi per i residui di sostanze farmacologicamente attive sono fissati nella tabella 1 dell’allegato del regolamento (UE) n. 37/2010[^annexu1-lvlu1-lvl1-1].
 
-[^annexu1-lvlu1-lvl1-1]: Regolamento (UE) n. 37/2010 della Commissione, del 22 dicembre 2009, concernente le sostanze farmacologicamente attive e la loro classificazione per quanto riguarda i limiti massimi di residui negli alimenti di origine animale, GU L 15, del 20.1.2010, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2024/860, GU L, 2024/860, 19.3.2024.
+[^annexu1-lvlu1-lvl1-1]: Regolamento (UE) n. 37/2010 della Commissione, del 22 dicembre 2009, concernente le sostanze farmacologicamente attive e la loro classificazione per quanto riguarda i limiti massimi di residui negli alimenti di origine animale, GU L 15, del 20.1.2010, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2025/1908, GU L, 2025/1908, 25.9.2025.
 
 ### 2 Elenco dei limiti massimi per i residui di additivi per alimenti per animali nelle derrate alimentari di origine animale
 

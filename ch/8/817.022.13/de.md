@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für R�
 short: VRLtH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/154"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20250701/de/xml/fedlex-data-admin-ch-eli-cc-2017-154-20250701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/154/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-154-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/154/20250701/de"
 
 (VRLtH)[^t-1]
 
-vom 16. Dezember 2016 (Stand am 1. Juli 2025)
+vom 16. Dezember 2016 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 28. März 2018, in Kraft seit 1. Mai 2018 ([AS 2018 1245](https://fedlex.data.admin.ch/eli/oc/2018/200)).
 
@@ -120,27 +120,29 @@ Rückstände von Wirkstoffen, die bisher in den Listen a und b von Anhang 2 der 
 
 #### Art. 7a
 
-**Übergangsbestimmung zur Änderung vom 23. Oktober 2019**[^7a-1]
+[^7a-1]
 
-Rückstände von Wirkstoffen, die der Änderung vom 23. Oktober 2019 nicht entsprechen, dürfen ab dem 1. Januar 2021 nicht mehr in Lebensmitteln tierischer Herkunft vorhanden sein.
-
-[^7a-1]: Eingefügt durch Ziff. I der V des BLV vom 23. Okt. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)).
+[^7a-1]: Eingefügt durch Ziff. I der V des BLV vom 23. Okt. 2019 ([AS 2019 3359](https://fedlex.data.admin.ch/eli/oc/2019/613)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 7b
 
-**Übergangsbestimmung zur Änderung vom 14. Februar 2022**[^7b-1]
+[^7b-1]
 
-Rückstände von Wirkstoffen, die der Änderung des Anhangs Liste 1 vom 14. Februar 2022 nicht entsprechen, dürfen ab dem 14. März 2023 nicht mehr in Lebensmitteln tierischer Herkunft vorhanden sein.
-
-[^7b-1]: Eingefügt durch Ziff. I der V des BLV vom 14. Febr. 2022, in Kraft seit 15. März 2022 ([AS 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)).
+[^7b-1]: Eingefügt durch Ziff. I der V des BLV vom 14. Febr. 2022 ([AS 2022 123](https://fedlex.data.admin.ch/eli/oc/2022/123)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 7c
 
-**Übergangsbestimmung zur Änderung vom 2. Juni 2025**[^7c-1]
+[^7c-1]
 
-Rückstände von Wirkstoffen, die der Änderung vom 2. Juni 2025 in Bezug auf die Listen 1, 2 und 5 des Anhangs nicht entsprechen, dürfen ab dem 31. Dezember 2025 nicht mehr in Lebensmitteln tierischer Herkunft vorhanden sein.
+[^7c-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025 ([AS 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)). Aufgehoben durch Ziff. I der V des BLV vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
-[^7c-1]: Eingefügt durch Ziff. I der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 (AS **202****5** 390).
+#### Art. 7d
+
+**Übergangsbestimmung zur Änderung vom 26. November 2025**[^7d-1]
+
+Rückstände von pharmakologisch wirksamen Stoffen, die der Änderung vom 26. November 2025 in Bezug auf die Liste 1 des Anhangs nicht entsprechen, dürfen ab dem 1. Juli 2026 nicht mehr in Lebensmitteln tierischer Herkunft vorhanden sein.
+
+[^7d-1]: Eingefügt durch Ziff. I der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 #### Art. 8
 
@@ -154,13 +156,13 @@ Anhang[^t-2]
 
 ## Listen der Rückstandshöchstgehalte
 
-[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 2. Juni 2025, in Kraft seit 1. Juli 2025 ([AS 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)).
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 2. Juni 2025 ([AS 2025 390](https://fedlex.data.admin.ch/eli/oc/2025/390)). Bereinigt gemäss Ziff. II der V des BLV vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 808](https://fedlex.data.admin.ch/eli/oc/2025/808)).
 
 ### 1 Liste der zulässigen Höchstgehalte für Rückstände von pharmakologisch wirksamen Stoffen in Lebensmitteln tierischer Herkunft
 
 Die Höchstgehalte für Rückstände von pharmakologisch wirksamen Stoffen sind in Tabelle 1 des Anhangs der Verordnung (EU) Nr. 37/2010[^annexu1-lvlu1-lvl1-1] festgelegt.
 
-[^annexu1-lvlu1-lvl1-1]: Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs, ABl. L 15 vom 20.1.2010, S. 1, zuletzt geändert durch Durchführungsverordnung (EU) 2024/860, ABl. L, 2024/860, 19.3.2024.
+[^annexu1-lvlu1-lvl1-1]: Verordnung (EU) Nr. 37/2010 der Kommission vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs, ABl. L 15 vom 20.1.2010, S. 1, zuletzt geändert durch die Durchführungsverordnung (EU) 2025/1908, ABl. L, 2025/1908, 25.9.2025.
 
 ### 2 Liste der Höchstgehalte für Rückstände von Futtermittelzusatzstoffen in Lebensmitteln tierischer Herkunft
 
@@ -211,9 +213,9 @@ Anwendungszweck
 </table>
 
 [^annexu1-lvlu1-lvl2-1]: [SR 916.307](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10674)
-[^annexu1-lvlu1-lvl2-2]: Veröffentlichung als Liste 2.5 von Anhang 2 auf der Internetseite www.agroscope.admin.ch &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen
+[^annexu1-lvlu1-lvl2-2]: Veröffentlichung als Liste 2.5 von Anhang 2 auf der Internetseite: [www.agroscope.admin.ch](http://www.agroscope.admin.ch) &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen
 [^annexu1-lvlu1-lvl2-3]: [SR 916.307.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10675)
-[^annexu1-lvlu1-lvl2-4]: Veröffentlichung als Liste 2.4d von Anhang 2 auf der Internetseite www.agroscope.admin.ch &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen
+[^annexu1-lvlu1-lvl2-4]: Veröffentlichung als Liste 2.4d von Anhang 2 auf der Internetseite: [www.agroscope.admin.ch](http://www.agroscope.admin.ch) &gt; Themen &gt; Nutztiere &gt; Futtermittel &gt; Futtermittelkontrolle &gt; Gesetzliche Grundlagen
 
 ### 3 [Liste der Höchstgehalte für Rückstände von Futtermittelzusatzstoffen (Kokzidiostatika und Histomonostatika) in Lebensmitteln tierischer Herkunft aufgrund von Verschleppung in Futtermitteln für Nichtzieltierarten](https://www.fedlex.admin.ch/eli/cc/2017/154/de)
 
