@@ -3,18 +3,18 @@ sr: "412.101.221.15"
 title: Verordnung des SBFI vom 16. Februar 2023 über die berufliche Grundbildung Zeichnerin EFZ / Zeichner EFZ
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/85"
 language: de
-version: 2025-09-05
+version: 2026-01-01
 adopted: 2023-02-16
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/85/20250905/de/xml/fedlex-data-admin-ch-eli-cc-2023-85-20250905-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/85/20250905/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/85/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2023-85-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/85/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Zeichnerin EFZ / Zeichner EFZ
 
-vom 16. Februar 2023 (Stand am 5. September 2025)
+vom 16. Februar 2023 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>64013</td><td>Zeichnerin EFZ / Zeichner EFZ Dessinatrice CFC / Dessinateur CFC Disegnatrice AFC / Disegnatore AFC</td></tr>
@@ -210,13 +210,14 @@ Fachrichtungen Architektur, Ingenieurbau und Landschaftsarchitektur
 
 <sup>2</sup> Bei den Lektionenzahlen sind geringfügige Verschiebungen zwischen den Lehrjahren innerhalb des gleichen Handlungskompetenzbereichs in Absprache mit den zuständigen kantonalen Behörden und den zuständigen Organisationen der Arbeitswelt möglich. Das Erreichen der vorgegebenen Bildungsziele muss in jedem Fall gewährleistet sein.
 
-<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+<sup>3</sup> Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^7-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^7-2].
 
 <sup>4</sup> Unterrichtssprache ist die Landessprache des Schulorts. Die Kantone können neben dieser Unterrichtssprache andere Unterrichtssprachen zulassen.
 
 <sup>5</sup> Zweisprachiger Unterricht in der Landessprache des Schulorts und in einer weiteren Landessprache oder in Englisch ist empfohlen.
 
 [^7-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 8
 
@@ -286,7 +287,7 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 16. Februar 2023 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z
+[^9-1]: Der Bildungsplan vom 16. Februar 2023 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](https://www.bvz.admin.ch) &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Fachliche Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -425,12 +426,13 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die Handlungskompetenzen
 <tr><td>2</td><td>Modellieren von digitalen Modellen und Zeichnen von Plänen Erstellen von Visualisierungen und physischen Modellen Unterstützen der Projektleitung</td><td>60 Min.</td><td>25 %</td></tr>
 </table>
 
-- c. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 27. April 2006[^17-1] über Mindestvorschriften für die Allge-meinbildung in der beruflichen Grundbildung.[^17-2]
+- c. Allgemeinbildung: Der Qualifikationsbereich richtet sich nach der Verord-nung des SBFI vom 9. April 2025[^17-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^17-2].[^17-3]
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
 [^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
-[^17-2]: Berichtigung vom 5. Sept. 2025 ([AS 2025 545](https://fedlex.data.admin.ch/eli/oc/2025/545)).
+[^17-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^17-3]: Berichtigung vom 5. Sept. 2025 ([AS 2025 545](https://fedlex.data.admin.ch/eli/oc/2025/545)).
 
 #### Art. 18
 
