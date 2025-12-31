@@ -3,194 +3,191 @@ canton: NW
 number: "331.13"
 title: Verordnung über den Schutz bedrohter Tiere und Pflanzen
 language: de
-version: 2006-01-01
-corrected: 2021-09-07
-version_adopted: 2005-11-29
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2025-12-16
 in_force: 2026-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/331.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/177/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1480/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Schutz bedrohter Tiere und Pflanzen
 
-vom 29. November 2005[^t-1]
+vom 16.12.2025 (Stand 01.01.2026)
 
-Der Regierungsrat von Nidwalden, gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 21 des Gesetzes vom 4. Februar 2004 über den Natur- und Landschaftsschutz (Naturschutzgesetz)[^t-2], beschliesst:
+Der Regierungsrat von Nidwalden,
 
-[^t-1]: A 2005, 1867
-[^t-2]: NG 331.1
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 21 des Gesetzes vom 4. Februar 2004 über den Natur- und Landschaftsschutz (Naturschutzgesetz, NSchG)[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: NG 331.1
 
 #### § 1
 
 **Gegenstand**
 
-Diese Verordnung regelt in Ergänzung zu den kantonalen und eidgenössischen Schutzbestimmungen den Schutz der bedrohten Tiere und Pflanzen und bestimmt die geschützten Arten sowie die Pflanzenschutzgebiete.
+<sup>1</sup> Diese Verordnung regelt in Ergänzung zu den kantonalen und eidgenössischen Schutzbestimmungen den Schutz der bedrohten Tiere und Pflanzen und bestimmt die geschützten Arten sowie die Pflanzenschutzgebiete.
 
 #### § 2
 
 **Geschützte Pflanzen**
 
-<sup>1</sup> Das Pflücken, Ausgraben, Ausreissen oder Schädigen der geschützten Pflanzen sowie der Handel mit diesen ist verboten.
-
-<sup>2</sup> Die folgenden Pflanzen sind geschützt:
-
-### Pteridophyta, Angiospermae Farn- und Blütenpflanzen
-
-Alisma plantago-aquatica L. Gemeiner Froschlöffel Allium victorialis L. Allermannsharnisch Amelanchier ovalis Medik. Felsenmispel Anemone narcissiflora L. Narzissenblütige Anemone Anemone ranunculoides L. Gelbes Windröschen Anthericum liliago L. Astlose Graslilie Anthericum ramosum L. Ästige Graslilie Carlina vulgaris L. Gemeine Eberwurz, Golddistel Dianthus sylvestris Wulfen Stein-Nelke Leontopodium alpinum Cass. Edelweiss
-
-**1**
-
-**3**
-
-1.1.2006 - 41 Menyanthes trifoliata L. Fieberklee Primula acaulis (L.) L. Schaftlose Schlüsselblume Pulsatilla alpina subsp. apiifolia Schwefel-Anemone (Scop.) Nyman Pulsatilla vernalis (L.) Mill. Frühlings-Anemone, Pelz-Anemone Aquilegia vulgaris L. Gemeine Akelei Narcissus poëticus L. Weisse Garten-Narzisse Narcissus pseudonarcissus L. Gelbe Narzisse, Osterglocke Narcissus radiiflorus Salisb. Weisse Berg-Narzisse Viola cenisia L. Mont-Cenis-Stiefmütterchen Andromeda polifolia L. Rosmarinheide Cytisus scoparius (L.) Link Besenginster Daphne laureola L. Lorbeer-Seidelbast Dianthus armeria L. Rauhe Nelke Draba fladnizensis Wulfen Flattnitzer Hungerblümchen Galanthus nivalis L. (Garten) Schneeglöckchen Muscari racemosum (L.) Mill. Gemeine Bisamhyazinthe Ophioglossum vulgatum L. Natterzunge Potentilla palustris (L.) Scop. Blutauge Salix breviserrata Flod. Myrten-Weide Salix pentandra L. Lorbeer-Weide Salix repens L. Moor-Weide Saxifraga aspera L. Rauher Steinbrech Saxifraga biflora subsp. macropetala Grossblütiger Steinbrech (Engl.) Rouy & E. G. Camus Saxifraga cotyledon L. Strauss-Steinbrech Saxifraga muscoides All. Flachblättriger Steinbrech Scilla bifolia L. Zweiblättrige Meerzwiebel, Blaustern Thelypteris palustris Schott Sumpffarn, Sumpfwurmfarn Typha angustifolia L. Schmalblättriger Rohrkolben Asplenium septentrionale (L.) Hoffm. Nördlicher Streifenfarn Cyclamen purpurascens Mill. Zyklamen, Gemeines Alpenveilchen Minuartia verna (L.) Hiern Frühlings-Miere Salix fragilis L. Bruch-Weide Saxifraga caesia L. Blaugrüner Steinbrech Achillea ptarmica L. Sumpf-Schafgarbe Acorus calamus L. Kalmus Agrostemma githago L. Kornrade Alopecurus geniculatus L. Geknieter Fuchsschwanz Althaea hirsuta L. Rauhhaariger Eibisch Amaranthus albus L. Weisser Amarant Arabis nova Vill. Felsen-Gänsekresse Avena fatua L. Flug-Hafer Brachypodium rupestre Felsen-Zwenke (Host) Roem. & Schult.
-
-Bromus arvensis L. Acker-Trespe Bromus grossus DC. Dickährige Trespe Calamintha nepetoides Jord. Katzenminzenartige Bergminze Callitriche hamulata W. D. J. Koch Hakiger Wasserstern Callitriche stagnalis Scop. Gemeiner Wasserstern Campanula rapunculus L. Rapunzel-Glockenblume Capsella rubella Reut. Rötliches Hirtentäschchen Carex appropinquata Schumach. Gedrängtährige Segge Carex diandra Schrank Draht-Segge Carex otrubae Podp. Otrubas Segge Carex praecox Schreb. s.str. Frühzeitige Segge Carex strigosa Huds. Dünnährige Segge Catabrosa aquatica (L.) P. Beauv. Quellgras Catapodium rigidum (L.) C. E. Hubb. Steifgras Centaurium pulchellum (Sw.) Druce Kleines Tausendgüldenkraut Cerastium arvense L. s.str. Acker-Hornkraut Cerastium brachypetalum Pers. s.str. Kleinblütiges Hornkraut Cerastium pumilum Curtis Niedriges Hornkraut
-
-**5**
-
-1.1.2006 - 41 Cicuta virosa L. Wasserschierling Coronopus didymus (L.) Sm. Zweiknotiger Krähenfuss Cynosurus echinatus L. Stacheliges Kammgras Cyperus fuscus L. Schwarzbraunes Cypergras Cyperus longus L. Langästiges Cypergras Datura stramonium L. Stechapfel Descurainia sophia (L.) Prantl Sophienkraut Dianthus armeria L. Rauhe Nelke Diplotaxis muralis (L.) DC. Mauer-Doppelsame Diplotaxis tenuifolia (L.) DC. Schmalblättriger Doppelsame Dipsacus pilosus L. Behaarte Karde Duchesnea indica (Andrews) Focke Scheinerdbeere Eleocharis mamillata H. Lindb. Zitzen-Sumpfried Epipactis microphylla (Ehrh.) Sw. Kleinblättrige Sumpfwurz Epipactis muelleri Godfery Muellers Sumpfwurz Eragrostis pilosa (L.) P. Beauv. Behaartes Liebesgras Erysimum cheiranthoides L. Acker-Schotendotter Euphorbia exigua L. Kleine Wolfsmilch Euphrasia drosocalyx Freyn Drüsiger Augentrost Filipendula vulgaris Moench Knollige Spierstaude Galeopsis bifida Boenn. Ausgerandeter Hohlzahn Galeopsis ladanum L. Acker-Hohlzahn Galium glaucum L. Blaugrüner Waldmeister Galium tricornutum Dandy Dreihörniges Labkraut Galium verum subsp. wirtgenii Wirtgens Labkraut (F. W. Schultz) Oborny Gnaphalium uliginosum L. Sumpf-Ruhrkraut Hypericum pulchrum L. Schönes Johanniskraut Impatiens balfourii Hook. f. Balfours Springkraut Inula salicina L. Weiden-Alant Iris sibirica L. Sibirische Schwertlilie Isolepis setacea (L.) R. Br. Moorried Laburnum anagyroides Medik. Gewöhnlicher Goldregen Lathyrus nissolia L.
-
-**Gras-Platterbse Wilder Reis Schutt-Kresse Flachs-Lolch Steifer Lolch Wald-Geissblatt Moorbärlapp Kleinblütiger Honigklee Mispel Kahler Fichtenspargel Weisse Berg-Narzisse Grosse Teichrose Eselsdistel Natterzunge Hügel-Mohn Niederliegendes Glaskraut Waldmoor-Läusekraut Sand-Wegerich Fadenförmiges Laichkraut Schweizerisches Laichkraut**
-
-Leersia oryzoides (L.) Sw.
-
-Lepidium ruderale L.
-
-Lolium remotum Schrank Lolium rigidum Gaudin Lonicera periclymenum L.
-
-Lycopodiella inundata (L.) Holub Melilotus indicus (L.) All.
-
-Mespilus germanica L.
-
-Monotropa hypophegea Wallr.
-
-Narcissus radiiflorus Salisb.
-
-Nuphar lutea (L.) Sm.
-
-Onopordum acanthium L.
-
-Ophioglossum vulgatum L.
-
-Papaver dubium L. s.str.
-
-Parietaria judaica L.
-
-Pedicularis sylvatica L.
-
-Plantago arenaria Waldst. & Kit.
-
-Potamogeton filiformis Pers.
-
-Potamogeton helveticus (G. Fisch.) W. Koch Potamogeton pusillus L.
-
-**Palermer Laichkraut Palermer Laichkraut Norwegisches Fingerkraut Niederliegendes Fingerkraut Transsilvanische Traubenkirsche**
-
-Potamogeton pusillus L.
-
-Potentilla norvegica L.
-
-Potentilla supina L.
-
-Prunus padus subsp. petraea (Tausch) Domin Pulmonaria mollis aggr.
-
-**Weiches Lungenkraut Acker-Hahnenfuss Grosser Sumpf-Hahnenfuss Gift-Hahnenfuss Runzliger Rapsdotter Färber-Reseda**
-
-Ranunculus arvensis L.
-
-Ranunculus lingua L.
-
-Ranunculus sceleratus L.
-
-Rapistrum rugosum (L.) All.
-
-Reseda luteola L.
-
-1.1.2006 - 41 Rhinanthus angustifolius C. C. Gmel. Kahler Klappertopf Rorippa islandica (Gunnerus) Borbás Gemeine Sumpfkresse Rosa micrantha Sm.
-
-**Kleinblütige Rose Stumpfblättrige Rose Venuskamm Blumenbinse Silge Sumpf-Kreuzkraut Rosskümmel Ackernelke Mariendistel Weisser Senf Ungarische Rauke Kleinfrüchtiger Igelkolben**
-
-Rosa obtusifolia Desv.
-
-Scandix pecten-veneris L.
-
-Scheuchzeria palustris L.
-
-Selinum carvifolia (L.) L.
-
-Senecio paludosus L.
-
-Silaum silaus (L.) Schinz & Thell.
-
-Silene noctiflora L.
-
-Silybum marianum (L.) Gaertn.
-
-Sinapis alba L.
-
-Sisymbrium altissimum L.
-
-Sparganium erectum subsp.
-
-microcarpum (Neuman) Domin Sparganium erectum subsp. neglectum Übersehener Igelkolben (Beeby) K. Richt.
-
-**Acker-Spark, Spörgel Trauben-Gamander Sumpffarn, Sumpfwurmfarn Kleine Simsenlilie Knäuelkerbel Habermark, Wiesen-Bocksbart Erdbeer-Klee Schmalblättriger Rohrkolben Feld-Ulme**
-
-Spergula arvensis L.
-
-Teucrium botrys L.
-
-Thelypteris palustris Schott Tofieldia pusilla (Michx.) Pers.
-
-Torilis nodosa (L.) Gaertn.
-
-Tragopogon pratensis L. s.str.
-
-Trifolium fragiferum L.
-
-Typha angustifolia L.
-
-Ulmus minor Mill.
-
-Vaccaria hispanica (Mill.) Rauschert Kuhnelke Valeriana pratensis Dierb.
-
-**Wiesen-Baldrian Weisser Germer Filziges Wollkraut Acker-Ehrenpreis Dunkelblättriges Veilchen**
-
-Veratrum album L. s.str.
-
-Verbascum phlomoides L.
-
-Veronica agrestis L.
-
-Viola alba subsp. scotophylla (Jord.) Nyman Woodsia alpina (Bolton) Gray
-
-**Alpen-Wimperfarn**
-
-**Moose (Laub-, Leber- und Hornmoose)**
-
-### Bryophyta
-
-Anastrophyllum hellerianum (Lindenb.) Schust. Bryoerythrophyllum rubrum (Geh.) Chen Buxbaumia viridis (Lam. & DC.) Moug. & Nestl. Cephalozia leucantha (Lindenb.) Schust. Ctenidium procerrimum (Mol.) Lindb. Dicranodontium asperulum (Mitt.) Broth. Dicranum viride (Sull. & Lesq.) Lindb. Ditrichum pusillum (Hedw.) Hampe Encalypta longicolla Bruch Geocalyx graveolens (Schrad.) Nees Hypnum hamulosum Schimp. Hypnum sauteri Schimp. Leptodontium styracum (Jur.) Limpr. Porella cordaeana (Hüb.) Moore Saelania glaucescens (Hedw.) Broth. Scapania curta (Mart.) Dum.
-
-**Grünes Koboldmoos**
-
-**Grünes Besenmoos**
-
-**ein Schlafmoos**
-
-**Grossflechten**
-
-### Lichenes
-
-Biatora ocelliformis (Nyl.) Arnold 1971 Pachyphiale carneola (Ach.) Arnold 1871 Pannaria conoplea (Ach.) Bory 1828 Physcia clementei (Ach.) Bory 1828 Ramalina thrausta (Ach.) Nyl 1860
-
-**7**
-
-1.1.2006 - 41
+<sup>1</sup> Das Pflücken, Ausgraben, Ausreissen oder Schädigen der geschützten wildlebenden Pflanzen sowie der Handel mit diesen ist verboten.
+
+<sup>2</sup> Die folgenden Farn- und Blütenpflanzen sind geschützt:
+
+<table>
+<tr><th>Pteridophyta, Angiospermae</th><th>Farn- und Blütenpflanzen</th></tr>
+<tr><td>Achillea ptarmica L.</td><td>Sumpf-Schafgarbe</td></tr>
+<tr><td>Agrimonia procera Wallr.</td><td>Wohlriechender Odermennig</td></tr>
+<tr><td>Allium victorialis</td><td>Allermannsharnisch</td></tr>
+<tr><td>Alopecurus aequalis Sobol.</td><td>Rotgelber Fuchsschwanz</td></tr>
+<tr><td>Alopecurus geniculatus L.</td><td>Geknieter Fuchsschwanz</td></tr>
+<tr><td>Anagallis minima (L.) E. H. L. Krause</td><td>Kleinling</td></tr>
+<tr><td>Aquilegia atrata</td><td>Dunkle Akelei</td></tr>
+<tr><td>Aquilegia vulgaris L.</td><td>Gemeine Akelei</td></tr>
+<tr><td>Bromus arvensis L.</td><td>Acker-Trespe</td></tr>
+<tr><td>Bromus racemosus L.</td><td>Gewöhnliche Trauben-Trespe</td></tr>
+<tr><td>Butomus umbellatus L.</td><td>Schwanenblume</td></tr>
+<tr><td>Calamintha nepeta (L.) Savi</td><td>Drüsige Bergminze</td></tr>
+<tr><td>Callitriche platycarpa Kütz.</td><td>Flachfrüchtiger Wasserstern</td></tr>
+<tr><td>Callitriche stagnalis Scop.</td><td>Gemeiner Wasserstern</td></tr>
+<tr><td>Carex diandra Schrank</td><td>Draht-Segge</td></tr>
+<tr><td>Carex dioica L.</td><td>Zweihäusige Segge</td></tr>
+<tr><td>Carex heleonastes L. f.</td><td>Torf-Segge</td></tr>
+<tr><td>Carex lasiocarpa Ehrh.</td><td>Behaartfrüchtige Segge</td></tr>
+<tr><td>Carex otrubae Podp.</td><td>Hain-Segge</td></tr>
+<tr><td>Catabrosa aquatica (L.) P. Beauv.</td><td>Quellgras</td></tr>
+<tr><td>Centaurium pulchellum (Sw.) Druce</td><td>Kleines Tausendgüldenkraut</td></tr>
+<tr><td>Ceratophyllum demersum L.</td><td>Raues Hornblatt</td></tr>
+<tr><td>Chara aspera Willd.</td><td>Rauhe Armleuchteralge</td></tr>
+<tr><td>Chara filiformis Hertzsch</td><td>Faden-Armleuchteralge</td></tr>
+<tr><td>Chara tomentosa L.</td><td>Hornblättrige Armleuchteralge, Geweih-Armleuchteralge</td></tr>
+<tr><td>Chara vulgaris L.</td><td>Gewöhnliche Armleuchteralge</td></tr>
+<tr><td>Cicuta virosa L.</td><td>Wasserschierling</td></tr>
+<tr><td>Crepis tectorum L.</td><td>Dach-Pippau</td></tr>
+<tr><td>Cyclamen purpurascens Mill.</td><td>Europäisches Alpenveilchen</td></tr>
+<tr><td>Cyperus flavescens L.</td><td>Gelbliches Cypergras</td></tr>
+<tr><td>Cyperus fuscus L.</td><td>Schwarzbraunes Cypergras</td></tr>
+<tr><td>Draba incana L.</td><td>Graues Felsenblümchen</td></tr>
+<tr><td>Dryopteris cristata (L.) A. Gray</td><td>Kamm-Wurmfarn</td></tr>
+<tr><td>Eleocharis mamillata H. Lindb.</td><td>Zitzen-Sumpfried</td></tr>
+<tr><td>Eleocharis uniglumis (Link) Schult.</td><td>Einspelziges Sumpfried</td></tr>
+<tr><td>Filipendula vulgaris Moench</td><td>Knollige Spierstaude</td></tr>
+<tr><td>Fragaria moschata Duchesne</td><td>Moschus-Erdbeere</td></tr>
+<tr><td>Galanthus nivalis L.</td><td>Schneeglöckchen</td></tr>
+<tr><td>Gentiana cruciata L.</td><td>Kreuzblättriger Enzian</td></tr>
+<tr><td>Gentiana germanica Willd.</td><td>Deutscher Enzian</td></tr>
+<tr><td>Helianthemum nummularium (L.) Mill. subsp. nummularium</td><td>Gewöhnliches Sonnenröschen</td></tr>
+<tr><td>Hyoscyamus niger L.</td><td>Bilsenkraut</td></tr>
+<tr><td>Hypericum pulchrum L.</td><td>Schönes Johanniskraut</td></tr>
+<tr><td>Isolepis setacea (L.) R. Br.</td><td>Moorried</td></tr>
+<tr><td>Juncus bulbosus L.</td><td>Knollen-Binse</td></tr>
+<tr><td>Kobresia simpliciuscula (Wahlenb.) Mack.</td><td>Schuppenried</td></tr>
+<tr><td>Lappula squarrosa (Retz.) Dumort.</td><td>Stechender Igelsame</td></tr>
+<tr><td>Leontopodium alpinum Cass.</td><td>Edelweiss</td></tr>
+<tr><td>Lolium remotum Schrank</td><td>Flachs-Lolch</td></tr>
+<tr><td>Lolium rigidum Gaudin</td><td>Steifer Lolch</td></tr>
+<tr><td>Lolium temulentum L.</td><td>Taumel-Lolch</td></tr>
+<tr><td>Lycopodiella inundata (L.) Holub</td><td>Moorbärlapp</td></tr>
+<tr><td>Mespilus germanica L.</td><td>Mispel</td></tr>
+<tr><td>Meum athamanticum Jacq.</td><td>Bärenwurz</td></tr>
+<tr><td>Narcissus pseudonarcissus L.</td><td>Osterglocke</td></tr>
+<tr><td>Narcissus radiiflorus Salisb.</td><td>Weisse Berg-Narzisse</td></tr>
+<tr><td>Nitella opaca (Bruzelius) C. Agardh</td><td>Dunkle Glanzleuchteralge</td></tr>
+<tr><td>Ophioglossum vulgatum L.</td><td>Natterzunge</td></tr>
+<tr><td>Orobanche lutea Baumg.</td><td>Gelbe Sommerwurz</td></tr>
+<tr><td>Orobanche salviae F. W. Schultz</td><td>Salbei-Sommerwurz</td></tr>
+<tr><td>Oxytropis halleri D. W. J. Koch</td><td>Hallers Spitzkiel</td></tr>
+<tr><td>Pedicularis sylvatica L.</td><td>Waldmoor-Läusekraut</td></tr>
+<tr><td>Pleurospermum austriacum (L.) Hoffm.</td><td>Rippensame</td></tr>
+<tr><td>Polygonum lapathifolium subsp. brittingeri (Opiz) Jáv.</td><td>Brittingers Knöterich</td></tr>
+<tr><td>Potamogeton ×decipiens Nolte</td><td>Weidenblättriges Laichkraut</td></tr>
+<tr><td>Potamogeton ×nitens Weber</td><td>Schimmerndes Laichkraut</td></tr>
+<tr><td>Potamogeton coloratus Hornem.</td><td>Gefärbtes Laichkraut</td></tr>
+<tr><td>Potamogeton filiformis Pers.</td><td>Fadenförmiges Laichkraut</td></tr>
+<tr><td>Potamogeton friesii Rupr.</td><td>Fries' Laichkraut</td></tr>
+<tr><td>Potamogeton gramineus L.</td><td>Grasblättriges Laichkraut</td></tr>
+<tr><td>Potamogeton helveticus (G. Fisch.) W. Koch</td><td>Schweizerisches Laichkraut</td></tr>
+<tr><td>Potamogeton nodosus Poir.</td><td>Flutendes Laichkraut</td></tr>
+<tr><td>Potamogeton pusillus L.</td><td>Palermer Laichkraut</td></tr>
+<tr><td>Potentilla supina L.</td><td>Niederliegendes Fingerkraut</td></tr>
+<tr><td>Ranunculus arvensis L.</td><td>Acker-Hahnenfuss</td></tr>
+<tr><td>Ranunculus circinatus Sibth.</td><td>Starrer Wasserhahnenfuss</td></tr>
+<tr><td>Ranunculus lingua L.</td><td>Grosser Sumpf-Hahnenfuss</td></tr>
+<tr><td>Ranunculus reptans L.</td><td>Wurzelnder Sumpf-Hahnenfuss</td></tr>
+<tr><td>Ranunculus sceleratus L.</td><td>Gift-Hahnenfuss</td></tr>
+<tr><td>Reseda luteola L.</td><td>Färber-Reseda</td></tr>
+<tr><td>Rhinanthus angustifolius C. C. Gmel.</td><td>Kahler Klappertopf</td></tr>
+<tr><td>Rhynchospora fusca (L.) W. T. Aiton</td><td>Rotbraunes Schnabelried</td></tr>
+<tr><td>Rosa tomentella Léman</td><td>Flaum-Rose</td></tr>
+<tr><td>Rumex pulcher L.</td><td>Schöner Ampfer</td></tr>
+<tr><td>Salix repens L.</td><td>Moor-Weide</td></tr>
+<tr><td>Scheuchzeria palustris L.</td><td>Blumenbinse</td></tr>
+<tr><td>Schoenus ferrugineus L.</td><td>Rostrote Kopfbinse</td></tr>
+<tr><td>Schoenus nigricans L.</td><td>Schwärzliche Kopfbinse</td></tr>
+<tr><td>Scutellaria galericulata L.</td><td>Sumpf-Helmkraut</td></tr>
+<tr><td>Sedum villosum L.</td><td>Moor-Mauerpfeffer</td></tr>
+<tr><td>Selaginella helvetica (L.) Link</td><td>Schweizer Moosfarn</td></tr>
+<tr><td>Selinum carvifolia (L.) L.</td><td>Silge</td></tr>
+<tr><td>Senecio paludosus L.</td><td>Sumpf-Greiskraut</td></tr>
+<tr><td>Senecio erraticus Bertol.</td><td>Spreizendes Kreuzkraut</td></tr>
+<tr><td>Serratula tinctoria L. subsp. tinctoria</td><td>Färber-Scharte</td></tr>
+<tr><td>Silaum silaus (L.) Schinz & Tell.</td><td>Wiesen-Silge</td></tr>
+<tr><td>Sparganium emersum Rehmann</td><td>Einfacher Igelkolben</td></tr>
+<tr><td>Spirodela polyrhiza (L.) Schleid.</td><td>Teichlinse</td></tr>
+<tr><td>Staphylea pinnata L.</td><td>Pimpernuss</td></tr>
+<tr><td>Tephroseris capitata (Wahlenb.) Griseb. & Schenk</td><td>Kopf-Aschkraut</td></tr>
+<tr><td>Teucrium botrys L.</td><td>Trauben-Gamander</td></tr>
+<tr><td>Thelypteris palustris Schott</td><td>Sumpffarn</td></tr>
+<tr><td>Tolypella glomerata (Desv.) Leonh.</td><td>Kleine Baumleuchteralge</td></tr>
+<tr><td>Tragopogon pratensis L. subsp. pratensis</td><td>Gewöhnlicher Wiesenbocksbart</td></tr>
+<tr><td>Turritis glabra L.</td><td>Turmkraut</td></tr>
+<tr><td>Typha angustifolia L.</td><td>Schmalblättriger Rohrkolben</td></tr>
+<tr><td>Utricularia australis R. Br.</td><td>Südlicher Wasserschlauch</td></tr>
+<tr><td>Utricularia vulgaris L.</td><td>Gewöhnlicher Wasserschlauch</td></tr>
+<tr><td>Veronica agrestis L.</td><td>Acker-Ehrenpreis</td></tr>
+<tr><td>Viola mirabilis L.</td><td>Wunder-Veilchen</td></tr>
+</table>
+
+<sup>3</sup> Die folgenden Moose sind geschützt:
+
+<table>
+<tr><th>Bryophyta</th><th>Moose (Laub-, Leber- und Hornmoose)</th></tr>
+<tr><td>Andreaea rothii F.Weber & D.Mohr</td><td>Roths Klaffmoos</td></tr>
+<tr><td>Brotherella lorentziana (Lorentz) M.Fleisch.</td><td>Ölglanzmoos</td></tr>
+<tr><td>Bryoerythrophyllum rubrum (Geh.) P.C.Chen</td><td>Stachelspitziges Rostmoos</td></tr>
+<tr><td>Buxbaumia viridis (Lam. & DC.) Moug. & Nestl.</td><td>Grünes Koboldmoos</td></tr>
+<tr><td>Cephalozia leucantha Spruce</td><td>Weissliches Kopflebermoos</td></tr>
+<tr><td>Crossocalyx hellerianus (Lindenb.) Meyl.</td><td>Hellers Fieder-Lebermoos</td></tr>
+<tr><td>Dicranodontium asperulum (Mitt.) Broth.</td><td>Raues Brutblattmoos</td></tr>
+<tr><td>Dicranum viride (Sull. & Lesq.) Lindb.</td><td>Grünes Besenmoos</td></tr>
+<tr><td>Ditrichum pusillum (Hedw.) Hampe</td><td>Zwerg-Grasmoos</td></tr>
+<tr><td>Geocalyx graveolens (Schrad.) Nees</td><td>Erdkelch-Lebermoos</td></tr>
+<tr><td>Leptodontium styriacum (Jur.) Limpr.</td><td>Steirisches Dachmoos</td></tr>
+<tr><td>Microhypnum sauteri (Schimp.) Jan Kučera & Ignatov</td><td>Zierliches Schlafmoos</td></tr>
+<tr><td>Porella cordaeana (Huebener) Moore</td><td>Bach-Pfefferlebermoos</td></tr>
+<tr><td>Pseudostereodon procerrimus (Molendo) M.Fleisch.</td><td>Üppiges Schlafmoos</td></tr>
+<tr><td>Saelania glaucescens (Hedw.) Broth.</td><td>Wachsmoos</td></tr>
+<tr><td>Scapania curta (Mart.) Dumort.</td><td>Erd-Spatenlebermoos</td></tr>
+<tr><td>Scapania helvetica Gottsche</td><td>Schweizer Spatenlebermoos</td></tr>
+<tr><td>Stereodon hamulosus (Schimp.) Lindb.</td><td>Haken-Schlafmoos</td></tr>
+<tr><td>Ulota macrospora Baur & Warnst.</td><td>Grosssporiges Krausblattmoos</td></tr>
+</table>
+
+<sup>4</sup> Die folgenden Flechten sind geschützt:
+
+<table>
+<tr><th>Lichenes</th><th>Flechten</th></tr>
+<tr><td>Biatora ocelliformis (Nyl.) Arnold</td><td>Augen-Stäbchenflechte</td></tr>
+<tr><td>Pachyphiale carneola (Ach.) Arnold</td><td>Fleischfarbene Fettflechte</td></tr>
+<tr><td>Pannaria conoplea (Ach.) Bory</td><td>Blaugraue Tuchflechte</td></tr>
+<tr><td>Physcia clementei (Turner) Maas Geest.</td><td>Clements Schwielenflechte</td></tr>
+<tr><td>Ramalina thrausta (Ach.) Nyl</td><td>Engelshaar-Astflechte</td></tr>
+</table>
 
 #### § 3
 
@@ -198,158 +195,190 @@ Biatora ocelliformis (Nyl.) Arnold 1971 Pachyphiale carneola (Ach.) Arnold 1871 
 
 <sup>1</sup> Das Fangen, Verletzen oder Töten der geschützten Tiere sowie der Handel mit diesen ist verboten.
 
-<sup>2</sup> Die folgenden Tiere sind geschützt:
+<sup>2</sup> Vom Verbot des Handels ausgenommen sind Blutegel, die für medizinische Zwecke verwendet werden.
 
-**Ringelwürmer Blutegel**
+<sup>3</sup> Der folgende Ringelwurm ist geschützt:
 
-### Annelida
+<table>
+<tr><th>Annelida</th><th>Ringelwürmer</th></tr>
+<tr><td>Hirudo officinalis L.</td><td>Blutegel</td></tr>
+</table>
 
-Hirudo officinalis L.
+<sup>4</sup> Die folgenden Weichtiere sind geschützt:
 
-**Weichtiere (Schnecken, Muscheln) Grosse Erbsenmuschel Flache Teichmuschel Quell-Blasenschnecke Riemen-Tellerschnecke Gekielte Tellerschnecke Alpen-Puppenschnecke Flache Federkiemenschnecke Gestreifte Windelschnecke Weitgenabelte Kristallschnecke**
+<table>
+<tr><th>Mollusca</th><th>Weichtiere (Schnecken, Muscheln)</th></tr>
+<tr><td>Pisidium amnicum (O. F. Müller)</td><td>Grosse Erbsenmuschel</td></tr>
+<tr><td>Anodonta anatina L.</td><td>Flache Teichmuschel</td></tr>
+<tr><td>Physa fontinalis L.</td><td>Quell-Blasenschnecke</td></tr>
+<tr><td>Bathyomphalus contortus L.</td><td>Riemen-Tellerschnecke</td></tr>
+<tr><td>Planorbis carinatus (O. F. Müller)</td><td>Gekielte Tellerschnecke</td></tr>
+<tr><td>Pupilla alpicola (Charpentier)</td><td>Alpen-Puppenschnecke</td></tr>
+<tr><td>Valvata cristata (O. F. Müller)</td><td>Flache Federkiemenschnecke</td></tr>
+<tr><td>Vertigo substriata (Jeffreys)</td><td>Gestreifte Windelschnecke</td></tr>
+<tr><td>Vitrea contracta (Westerlund)</td><td>Weitgenabelte Kristallschnecke</td></tr>
+</table>
 
-### Mollusca
+<sup>5</sup> Die folgenden Insekten sind geschützt:
 
-Pisidium amnicum (O. F. Müller) Anodonta anatina L.
+<sup>5.1</sup>
 
-Physa fontinalis L.
+<table>
+<tr><th>Insecta: Odonata</th><th>Insekten: Libellen</th></tr>
+<tr><td>Sympetrum pedemontanum (Allioni)</td><td>Gebänderte Heidelibelle</td></tr>
+</table>
 
-Bathyomphalus contortus L. Planorbis carinatus (O. F. Müller) Pupilla alpicola (Charpentier) Valvata cristata (O. F. Müller) Vertigo substriata (Jeffreys) Vitrea contracta (Westerlund)
+<sup>5.2</sup>
 
-**Insekten**
+<table>
+<tr><th>Insecta: Orthoptera</th><th>Insekten: Geradflügler (Heuschrecken, Grillen)</th></tr>
+<tr><td>Chorthippus montanus (Charpentier)</td><td>Sumpfgrashüpfer</td></tr>
+<tr><td>Chrysochraon dispar (Germar)</td><td>Grosse Goldschrecke</td></tr>
+<tr><td>Conocephalus fuscus (Fabricius)</td><td>Langflügelige Schwertschrecke</td></tr>
+<tr><td>Leptophyes punctatissima (Bosc)</td><td>Punktierte Zartschrecke</td></tr>
+<tr><td>Mecostethus parapleurus (Hagenbach)</td><td>Grüne Lauchschrecke</td></tr>
+<tr><td>Metrioptera brachyptera L.</td><td>Kurzflüglige Beissschrecke</td></tr>
+<tr><td>Phaneroptera falcata (Poda)</td><td>Gemeine Sichelschrecke</td></tr>
+<tr><td>Pteronemobius heydenii (Fischer)</td><td>Sumpfgrille</td></tr>
+</table>
 
-### Insecta
+<sup>5.3</sup>
 
-**Libellen Gebänderte Heidelibelle**
+<table>
+<tr><th>Insecta: Lepidoptera</th><th>Insekten: Schmetterlinge</th></tr>
+<tr><td>Apatura iris (L.)</td><td>Grosser Schillerfalter</td></tr>
+<tr><td>Argynnis adippe (Denis & Schiffmüller)</td><td>Märzveilchenfalter</td></tr>
+<tr><td>Argynnis niobe L.</td><td>Stiefmütterchenperlmutterfalter</td></tr>
+<tr><td>Aricia agestis (Denis & Schiffmüller)</td><td>Dunkelbrauner Bläuling</td></tr>
+<tr><td>Boloria thore (Hübner)</td><td>Alpenperlmutterfalter</td></tr>
+<tr><td>Boloria titania (Esper)</td><td>Natterwurzperlmutterfalter</td></tr>
+<tr><td>Brenthis ino (Rottemburg)</td><td>Violetter Silberfalter</td></tr>
+<tr><td>Callophrys rubi L.</td><td>Brombeerzipfelfalter</td></tr>
+<tr><td>Carcharodus floccifera (Zeller)</td><td>Heilziest-Dickkopffalter</td></tr>
+<tr><td>Erebia aethiops (Esper)</td><td>Waldteufel, Hundsgrasfalter</td></tr>
+<tr><td>Erebia meolans (De Prunner)</td><td>Gelbbindenmohrenfalter</td></tr>
+<tr><td>Hamearis lucina (L.)</td><td>Frühlingsscheckenfalter</td></tr>
+<tr><td>Melitaea athalia (Rottemburg)</td><td>Wachtelweizenscheckenfalter</td></tr>
+<tr><td>Melitaea diamina (Lang)</td><td>Silberscheckenfalter</td></tr>
+<tr><td>Nymphalis antiopa (L.)</td><td>Trauermantel</td></tr>
+<tr><td>Polyommatus coridon (Poda)</td><td>Silbergrüner Bläuling</td></tr>
+<tr><td>Pyrgus malvae (Elwes & Edwards)</td><td>Kleiner nördlicher Würfelfalter, Gewöhnlicher Würfelfalter</td></tr>
+<tr><td>Zygaena fausta (Linnaeus)</td><td>Bergkronwicken-Widderchen</td></tr>
+</table>
 
-### Odonata
+<sup>5.4</sup>
 
-Sympetrum pedemontanum (Allioni)
+<table>
+<tr><th>Insecta: Coleoptera</th><th>Insekten: Käfer</th></tr>
+<tr><td>Berinelsonius hyperboreus (Gyll.)</td><td>ein Schnellkäfer</td></tr>
+<tr><td>Leptusa toumayeffi Scheerpeltz</td><td>ein Kurzflügler</td></tr>
+<tr><td>Notiophilus rufipes Curtis</td><td>ein Laufkäfer</td></tr>
+<tr><td>Oreonebria bluemlisalpicola Szallies&Schüle</td><td>ein Laufkäfer</td></tr>
+<tr><td>Stenus alpicola Fauvel</td><td>ein Kurzflügler</td></tr>
+<tr><td>Trechus pertyi Heer</td><td>ein Laufkäfer</td></tr>
+<tr><td>Trechus schyberosiae Szallies&Schüle</td><td>ein Laufkäfer</td></tr>
+<tr><td>Timarcha goettingensis (L.)</td><td>ein Blattkäfer</td></tr>
+</table>
 
-**Geradflügler (Heuschrecken, Grillen) Sumpfgrashüpfer Grosse Goldschrecke Langflügelige Schwertschrecke Punktierte Zartschrecke**
+<sup>5.5</sup>
 
-### Orthoptera
+<table>
+<tr><th>Insecta: Ephemeroptera</th><th>Insekten: Eintagsfliegen</th></tr>
+<tr><td>Ephemera vulgata L.</td><td>gemeine Eintagsfliege</td></tr>
+<tr><td>Ecdyonurus dispar (Curtis)</td><td>kein deutscher Name</td></tr>
+</table>
 
-Chorthippus montanus (Charpentier) Chrysochraon dispar (Germar) Conocephalus fuscus (Fabricius) Leptophyes punctatissima (Bosc) Mecostethus parapleurus (Hagenbach) Grüne Lauchschrecke Metrioptera brachyptera L. Phaneroptera falcata (Poda) Pteronemobius heydenii (Fischer)
+<sup>5.6</sup>
 
-### Lepidoptera, Papilionidea Tagfalter
+<table>
+<tr><th>Insecta: Hymenoptera</th><th>Insekten: Hautflügler</th></tr>
+<tr><td>Andrena cineraria L</td><td>eine Sandbiene, Erdbiene</td></tr>
+<tr><td>Andrena clarkella (Kirby)</td><td>eine Sandbiene, Erdbiene</td></tr>
+<tr><td>Nomada hirtipes Perez</td><td>eine Wespenbiene</td></tr>
+<tr><td>Nomada leucophthalma (Kirby)</td><td>eine Wespenbiene</td></tr>
+<tr><td>Coelioxys inermis (Kirby)</td><td>eine Kegelbiene</td></tr>
+</table>
 
-Apatura iris (L.) Grosser Schillerfalter Argynnis adippe (Denis & Schiffmüller) Märzveilchenfalter Argynnis niobe L. Stiefmütterchenperlmutterfalter Aricia agestis (Denis & Schiffmüller) Dunkelbrauner Bläuling Boloria thore (Hübner) Alpenperlmutterfalter Boloria titania (Esper) Natterwurzperlmutterfalter Brenthis ino (Rottemburg) Violetter Silberfalter Callophrys rubi L. Brombeerzipfelfalter Erebia aethiops (Esper) Waldteufel, Hundsgrasfalter Erebia meolans (De Prunner) Gelbbindenmohrenfalter Hamearis lucina (L.) Frühlingsscheckenfalter Melitaea athalia (Rottemburg) Wachtelweizenscheckenfalter Melitaea diamina (Lang) Silberscheckenfalter Nymphalis antiopa (L.) Trauermantel Polyommatus coridon (Poda) Silbergrüner Bläuling Pyrgus malvae (Elwes & Edwards) Kleiner nördlicher Würfelfalter, Gewöhnlicher Würfelfalter
+<sup>6</sup> Die folgenden Säugetiere sind geschützt:
 
-### Coleoptera Käfer
+<sup>6.1</sup>
 
-Notiophilus rufipes Curtis Ein Laufkäfer
+<table>
+<tr><th>Mammalia: Insectivora</th><th>Säugetiere: Insektenfresser</th></tr>
+<tr><td>Erinaceus europaeus L.</td><td>Igel</td></tr>
+<tr><td>Soricidae, sp.</td><td>Spitzmäuse, alle Arten</td></tr>
+</table>
 
-### Ephemeroptera Eintagsfliegen
+<sup>6.2</sup>
 
-Ephemera vulgata L. Eine Eintagsfliege Ecdyonurus dispar (Curtis) Eine Eintagsfliege
-
-### Hymenoptera Hautflügler
-
-**Kurzflüglige Beissschrecke Gemeine Sichelschrecke Sumpfgrille**
-
-Andrena cineraria L Eine Sandbiene, Erdbiene Andrena clarkella (Kirby) Eine Sandbiene, Erdbiene Nomada hirtipes Perez Eine Wespenbiene Nomada leucophthalma (Kirby) Eine Wespenbiene Coelioxys inermis (Kirby) Eine Kegelbiene
-
-**9**
-
-1.1.2006 - 41
-
-### Mammalia Säugetiere
-
-### Insectivora Insektenfresser
-
-Erinaceus europaeus L. Igel Soricidae, sp. Spitzmäuse, alle Arten
-
-### Rodentia Nagetiere
-
-Gliridae, sp. Schläfer, alle Arten
+<table>
+<tr><th>Mammali: Rodentia</th><th>Säugetiere: Nagetiere</th></tr>
+<tr><td>Gliridae, sp.</td><td>Schläfer, alle Arten</td></tr>
+</table>
 
 #### § 4
 
 **Hecken und Feldgehölze**
 
-<sup>1</sup> Hecken und Feldgehölze dürfen weder beseitigt noch zum Absterben gebracht werden. Das sachgemässe Zurückschneiden ist gestattet.
+<sup>1</sup> Hecken und Feldgehölze einheimischer Arten dürfen weder beseitigt noch zum Absterben gebracht werden. Das sachgemässe Zurückschneiden ist gestattet.
 
-<sup>2</sup> Die zuständige Direktion kann aus wichtigen Gründen die Beseitigung gestatten. Die Leistung des Ersatzes richtet sich nach Art. 26 des Naturschutzgesetzes.
-
-<sup>3</sup> Hecken und Feldgehölze, die nachweislich nach dem Inkrafttreten dieser Verordnung neu gesetzt wurden und nicht als Ersatz- oder Ausgleichsmassnahme für einen Eingriff in den Naturhaushalt oder das Landschaftsbild erstellt wurden, können mit Bewilligung der zuständigen Direktion ohne Ersatzpflicht beseitigt werden.
+<sup>2</sup> Einheimische Gehölzarten dürfen nicht durch gebietsfremde Arten ersetzt werden. Natürlich absterbende Heckenteile sind mit einheimischen Arten zu ersetzen oder aufwachsen zu lassen.
 
 #### § 5
 
-**Pflanzenschutzgebiete**
+**Pflanzenschutzgebiete 1. Gebiete**
 
-<sup>1</sup> In den Pflanzenschutzgebieten ist jedes Pflücken, Ausgraben, Ausreissen, Beschädigen und Überdecken von wildwachsenden Pflanzen und Pilzen verboten.
+<sup>1</sup> In den Pflanzenschutzgebieten ist jedes Pflücken, Ausgraben, Ausreissen, Beschädigen und Überdecken von einheimischen wildwachsenden Pflanzen und Pilzen verboten.
 
 <sup>2</sup> Der Unterhalt bestehender Wanderwege und Waldstrassen sowie die herkömmliche land- und forstwirtschaftliche Nutzung bleiben gestattet.
 
-<sup>3</sup> Auf die Pflanzenschutzgebiete wird im Gelände hingewiesen.
+<sup>3</sup> Für das Mountainbiken gilt ein Weggebot.
 
-<sup>4</sup> Als Pflanzenschutzgebiete werden folgende Gebiete bestimmt:
+<sup>4</sup> Auf die Pflanzenschutzgebiete wird im Gelände hingewiesen.
 
-- 1\. Arvi- und Gräfimattgrat mit Gipfel des Schafbergs;
+<sup>5</sup> Geschützt sind folgende Gebiete:
 
-Grenzen nach Landeskarte 1:25 000:
-
-Punkt 1567 (Arvigrat) - Kantonsgrenze Arvigrat Gräfimattgrat bis Punkt 2106 Schluchberg, durch die Chälen in nördlicher Richtung über Gräfimattstaffel (1737), Schellenfluehütte (1693) nach Egg (1633), dem Waldsaum (Fussweg) entlang zurück nach Punkt 1567;
-
-**2.**
-
-Widderfeld und Bockialp und anschliessender Südhang von Oberarni, Grenzen nach Landeskarte 1:25 000:
-
-Storegg (1742) längs Kantonsgrenze über Widderfeldstock, Nünalp-horn, Juchlipass (2171), dem Fussweg entlang über Steinböden, Oberarni (1788), Eggen, Staffel (1612), Haltenhütte (1340), Grabenhütte, Zingeli (1467), Steinweid, nach Zingel (1516), nach Westen zum südlichen Ausläufer des Salistockes, über den Salistock Hüenderegg - Punkt 1523, Punkt 1414 zum Luterseebach auf Höhe 1340, dem Luterseebach entlang zurück zum Storeggpass; Jochpass; Grenzen nach Landeskarte 1:25 000:
-
-**3.**
-
-Station Trübsee (1796) dem Fussweg nach zum Trübsee und dessen südöstlichem Ufer entlang zum alten Saumweg und weiter nach Jochpass (2207), der Kantonsgrenze folgend über Punkt 2297 Jochstock (2563) nach Rotstöckli (2901), unter Rotegg (2751), Stand (2456), Lauberngrat (2444) Langwand, bis zum Punkt, wo die Kantonsgrenze mit dem Pfaffenwandweg zusammentrifft, diesem entlang zurück nach Station Trübsee (1796); Gipfelpartien des Kaiserstuhls und der Bietstöcke (Bannalp); Grenzen nach Landeskarte 1:25 000:
-
-**4.**
-
-Walegg (Punkt 1943), längs Kantonsgrenze über Walengrat, Walenstöcke, Rigidalstock, Laucherenstock, Ruchstock, Hasenstöck, Bannalperschonegg, Kaiserstuhl, Oberalpgrat zur Sinsgäuerschonegg (Punkt 1924), dem Sinsgäuerbach entlang zur Hüethütte (1518), dem Fussweg entlang durch den Brändliwald über Punkt 1731 nach Bannalp, Chrüzhütte (1713), in gerader Linie zum Staudamm und vom Ende desselben der Luftlinie nach nach Oberfeld (1861), dem Fussweg entlang zur Walegg (Punkt 1943);
-
-**5.**
-
-Bleikigrat, Musenalp, Bärfallen;
-
-Grenzen nach Landeskarte 1:25 000:
-
-Bleikigrat (Punkt 1592), in südwestlicher und später in südlicher Richtung dem Fussweg entlang über Punkt 1487, Bleiki, Bleikigraben (1303) nach Ahorn (1346), dem Fussweg entlang über Marchboden nach Bärenfallen (1580), Stutz (1485) Rieteliwald (Punkt 1509) Winterhalteneggen nach Punkt 1413, dem Fussweg entlang zurück nach Bleikigrat (1592);
-
-**6.**
-
-Chlewenstock; Grenzen nach Landeskarte 1:25 000:
-
-Die Abgrenzung bildet der rings um den Chlewenstock verlaufende Wanderweg;
-
-**7.**
-
-Bielalp, Mattalp bis auf die Gipfel des Schynberg, Risettenstock, Schwalmis und Heitliberg, ferner Fernital; Grenzen nach Landeskarte 1:25 000:
-
-**11**
-
-1.1.2006 - 41 Vom südlichen Teil des Pflanzenschutzgebietes Chlewenstock bei Staffel Punkt 1532 über Mälchgädeli, untere Büelhütte, nach Satteli Punkt 1757, über den Grat zum Schynberg (2145) und Risettenstock (2290), der Kantonsgrenze entlang über Hinterjochli, Schwalmis (2246), Vorderjochli (2002), Jochlistock (2069), Gandispitz (1996) zum Zingel (1901), dem Fussweg entlang über Fulplatten (1603), Wandeli, Haseneggli, Stelli um den Nordhang des Heitlibergs herum über Engiloch zurück nach Staffel (1532);
-
-- 8\. Pilatusgebiet; Grenzen nach Landeskarte 1:25 000:
-
-Unterlauelen (Punkt 1063), dem Rümligbach nach aufwärts (Kantonsgrenze) zum Spielbach, diesem entlang über Schränzenloch, Gemsmätteli, Tomlishorn (2128), Oberhaupt (2067), Steiglihorn (1968), Kellenbach (1382), Krummhorn (1253), Haslihorn (1961) nach Delliegg (435), dem Seeufer entlang um den Lopper herum nach Punkt 436 (Hergiswil), dem Waldsaum entlang über Hinterrengg (790), Brändli (1061), Büchsen (965) nach Gschwend (1216), dem Fussweg entlang über Fräkmünt (1310), Fräkmüntegg (1466), Oberlauelen (1332) zurück nach Unterlauelen (1063);
-
-- 9\. Stanserhorn; Grenzen gemäss Landeskarte 1:25 000:
-
-Kantonsgrenze (Punkt 1863), Lochfluh, in nordöstlicher Richtung bis zum Fussweg, dem Fussweg entlang an Punkt 1458 vorbei bis Punkt 1452 (Mälchgaden), dem Fussweg entlang bis zum Schnittpunkt mit dem Fussweg nach Stanserhorn neben dem ehemaligen Bahngeleise, von da an in südlicher Richtung bis Punkt 1597, dem Fussweg entlang nach Rinderalp (Punkt 1637), weiter in südlicher Richtung dem Fussweg entlang bis Ober-Chneu (Punkt 1425), dem Fussweg entlang bis Chrinnen (Punkt 1546), dem Fussweg entlang bis 400 m nördlich des Chli-Horn (Kantonsgrenze), der Kantonsgrenze entlang bis Punkt 1863;
-
-- 10\. Grueblital; Grenzen nach Koordinaten:
-
-682 830 / 201 500, 682 950 / 202 080, 682 840 / 202 250, 682 720 / 202 170, 682 650 / 201 990, 682 760 / 201 780, 682 810 / 201 800. Im südlichen Teil, wo der Poligonzug im Bereich des Waldrandes verläuft, gilt der Waldrand als Grenze.
+- 1\. Arvi- und Gräfimattgrat mit Gipfel des Schafbergs (Anhang 1);
+- 2\. Widderfeld und Bockialp und anschliessender Südhang von Oberarni (Anhang 2);
+- 3\. Jochpass (Anhang 3):
+- 4\. Gipfelpartien des Kaiserstuhls und der Walenstöcke (Anhang 4);
+- 5\. Bleikigrat, Musenalp, Bärfallen (Anhang 5);
+- 6\. Chlewenstock (Anhang 6);
+- 7\. Gipfelpartien des Oberbauenstocks, Schwalmis, Schinberg, Elfer, Zwelfer, Brisen, Haldigrat, Mäderen, Sinsgäuer Schonegg (Anhang 7);
+- 8\. Pilatusgebiet (Anhang 8);
+- 9\. Stanserhorn (Anhang 9);
+- 10\. Grueblital (Anhang 10).
 
 #### § 6
 
-**Aufhebung bisherigen Rechts**
+**2. Grenzen**
 
-Die Verordnung vom 24. September 1973 über den Schutz der Pflanzen[^6-1] wird aufgehoben.
+<sup>1</sup> Die vom Regierungsrat festgelegten Grenzen der Pflanzenschutzgebiete sind verbindlich; sie werden dem Geoinformationssystem Nidwalden (GIS) gemeldet und sind durch dieses zu veröffentlichen.
 
-[^6-1]: A 1973, 1237 1.1.2006 - 41 13
+<sup>2</sup> Die Grenzen der Schutzgebiete sind im Gelände an öffentlich zugänglichen Strassen und Wanderwegen zu signalisieren.
 
 #### § 7
 
-**Inkrafttreten**
+**Schutzgebiete der Nidwaldner Haarschnecke 1. Grundsatz**
 
-Diese Verordnung tritt auf den 1. Januar 2006 in Kraft.
+<sup>1</sup> Die Schutzgebiete gemäss § 5 Abs. 5 Ziff. 4 und 7 stellen den Schutz der Smaragdgebiete im Sinne der Berner Konvention[^7-1] sicher und dienen dem Schutz der Nidwaldner Haarschnecke (Raeticella biconicus). Es ist alles zu unterlassen, was den Lebensraum dieser Tiere beeinträchtigt.
+
+<sup>2</sup> Die Fachstelle für Natur- und Landschaftsschutz errichtet ein Monitoring für die Beobachtung von langfristigen Veränderungen in der Population der Tiere.
+
+[^7-1]: SR 0.455
+
+#### § 8
+
+**2. Nutzung**
+
+<sup>1</sup> Die bisherige extensive landwirtschaftliche Nutzung kann im Umfang und in der Intensität beibehalten werden. Viehwege und versehrte oder von Blockstürzen betroffene Weideteile können bei Bedarf im bisherigen Umfang wiederhergestellt werden.
+
+<sup>2</sup> Wanderwege sind in ihrer Linienführung und in ihrem Ausbaugrad beizubehalten.
+
+<sup>3</sup> Mit Zustimmung der Fachstelle für Natur- und Landschaftsschutz können bei Bedarf neue Wasserstellen gegraben und Fassungen erneuert werden.
+
+<sup>4</sup> Bei baulichen Massnahmen oder Nutzungsänderungen kann die Fachstelle für Natur- und Landschaftsschutz ein Fachgutachten zu den Auswirkungen des Projektes auf die Tiere und ihren Lebensraum verlangen.
+
+## A Anhänge
+
+2025-058
