@@ -4,7 +4,7 @@ number: "172.55.1"
 title: RÈGLEMENT du 08.01.2001 fixant les émoluments en matière administrative (RE-Adm)
 short: RE-Adm
 language: fr
-version: 2025-07-02
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.55.1?id=0b2eb4a9-80fc-432f-a4b0-a71e30313111"
 ---
 
@@ -35,7 +35,9 @@ arrête
 
 <sup>1</sup> Le Département de la sécurité et de l'environnement perçoit les émoluments suivants :
 
-- 1\. Duplicata d'un livret de service : Fr. 50.- à Fr. 100.-
+- 1\. Duplicata d'un livre de service
+- a. avant l'école de recrues : Fr. 100.-
+- b. après l'école de recrues : Fr. 200.-
 - 1a. ...
 - 2\. Permis d'achat de matières explosibles
 - a. jusqu'à 25 kg : Fr. 10.- à Fr. 80.-
