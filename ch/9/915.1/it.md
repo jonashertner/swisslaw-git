@@ -3,11 +3,11 @@ sr: "915.1"
 title: Ordinanza del 3 novembre 2021 concernente la consulenza agricola e in economia domestica rurale (Ordinanza sulla consulenza agricola)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/684"
 language: it
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/684/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-684-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/684/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-684-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20220101/it"
 
 (Ordinanza sulla consulenza agricola)
 
-del 3 novembre 2021 (Stato 1° gennaio 2022)
+del 3 novembre 2021 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -24,7 +24,7 @@ visti gli articoli 136 capoversi 4 e 5, nonché 177 capoverso 1 della legge del 
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Sezione 1: Oggetto e campo di applicazione
 
@@ -102,7 +102,9 @@ La centrale di consulenza ha i compiti seguenti:
 
 <sup>3</sup> Agridea sostiene in particolare i suoi membri e i servizi di consulenza dei Cantoni.
 
-<sup>4</sup> L’Ufficio federale dell’agricoltura (UFAG) e la Conferenza dei direttori cantonali dell’agricoltura stipulano una convenzione sulle prestazioni nella quale indicano ad Agridea i campi d’attività prioritari e attività specifiche.
+<sup>4</sup> L’Ufficio federale dell’agricoltura (UFAG), la Conferenza dei direttori cantonali dell’agricoltura e Agridea stipulano di volta in volta per quattro anni una convenzione quadro nella quale definiscono i campi d’attività prioritari, gli ambiti tematici e le attività specifiche di Agridea nell’ambito dei compiti di cui all’articolo 4.[^5-1]
+
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 #### Art. 6
 
@@ -140,23 +142,31 @@ Il personale specializzato di Agridea e dei servizi di consulenza di organizzazi
 
 #### Art. 8
 
-**Aiuti finanziari per Agridea**
+**Aiuti finanziari per Agridea**[^8-1]
 
-<sup>1</sup> Nell’ambito dei crediti autorizzati, sulla base della convenzione sulle prestazioni di cui all’articolo 5 capoverso 4, l’UFAG concede ad Agridea aiuti finanziari per eseguire i compiti di cui all’articolo 4.
+<sup>1</sup> Nell’ambito dei crediti autorizzati, sulla base della convenzione quadro di cui all’articolo 5 capoverso 4, l’UFAG concede ad Agridea aiuti finanziari per eseguire i compiti di cui all’articolo 4.
 
-<sup>2</sup> La concessione degli aiuti finanziari è disciplinata sotto forma di un contratto tra l’UFAG e Agridea. Questo disciplina l’importo dell’aiuto finanziario nel quadro dei mezzi finanziari autorizzati dal Parlamento, la durata dell’aiuto finanziario e il resoconto annuale.
+<sup>2</sup>
+
+La concessione degli aiuti finanziari è disciplinata sotto forma di un contratto tra l’UFAG e Agridea. Questo disciplina in particolare:
+
+- a. l’importo dell’aiuto finanziario e le tranche annuali;
+- b. i campi d’attività prioritari, gli ambiti tematici e le attività specifiche oggetto del sostegno;
+- c. le esigenze qualitative per quanto riguarda l’attuazione della strategia imprenditoriale e il conseguimento degli obiettivi aziendali di Agridea;
+- d. la durata dell’aiuto finanziario;
+- e. il resoconto annuale.
 
 <sup>3</sup>
 
-Agridea fa un resoconto annuale all’UFAG sulle sue attività e sull’impiego dei mezzi finanziari. A tal fine fornisce all’UFAG i documenti seguenti:
+Agridea fa un resoconto annuale all’UFAG sulle sue attività e sull’impiego dei mezzi finanziari. A tal fine gli mette a disposizione i seguenti documenti:
 
 - a. il rapporto d’esercizio;
 - b. il consuntivo;
-- c. il preventivo;
-- d. il programma d’attività annuale;
-- e. il rapporto annuale sul conseguimento degli obiettivi secondo la convenzione sulle prestazioni;
+- c. il preventivo per l’anno successivo;
+- d. il programma d’attività per l’anno successivo;
+- e. il rapporto annuale sul programma d’attività dell’anno precedente, sull’attuazione della strategia imprenditoriale e sul conseguimento degli obiettivi aziendali.
 
-<sup>4</sup> Per l’adempimento dei suoi compiti può ricorrere a prestazioni di terzi.
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 #### Art. 9
 
@@ -196,19 +206,22 @@ Nell’ambito dei crediti autorizzati, l’UFAG concede aiuti finanziari ai serv
 
 <sup>1</sup> L’UFAG, su richiesta, può concedere aiuti finanziari a promotori provenienti dalla filiera agroalimentare per accertamenti preliminari in vista dello sviluppo di progetti innovativi.
 
-<sup>2</sup> Gli accertamenti preliminari in vista dello sviluppo di progetti innovativi sono finalizzati a consentire al promotore di pianificare progetti innovativi e di verificarne la fattibilità, in particolare nell’ottica di progetti di sviluppo regionale di cui all’articolo 93 capoverso 1 lettera c LAgr e di progetti sulle risorse secondo gli articoli 77*a* e 77*b* LAgr.
+<sup>2</sup> Gli accertamenti preliminari in vista dello sviluppo di progetti innovativi sono finalizzati a consentire al promotore di pianificare progetti innovativi e di verificarne la fattibilità, in particolare nell’ottica di progetti di sviluppo regionale secondo l’articolo 87*a* capoverso 1 lettera c LAgr e di progetti sulle risorse secondo gli articoli 77*a* e 77*b* LAgr.[^11-1]
 
 <sup>3</sup>
 
 Criteri determinanti per la concessione di aiuti finanziari sono:
 
-- a. l’orientamento degli obiettivi del progetto, degli obiettivi parziali, delle fasi d’intervento e dei gruppi target ai requisiti per lo sviluppo di un progetto innovativo, in particolare ai requisiti dei progetti di cui al capoverso 2;
+- a.[^11-2] l’orientamento degli obiettivi del progetto, delle fasi d’intervento e dei gruppi target ai requisiti per lo sviluppo di un progetto innovativo, in particolare ai requisiti dei progetti di cui al capoverso 2;
 - b. le competenze e le responsabilità dei promotori; e
 - c. il preventivo con la comprova dei fondi propri del promotore.
 
 <sup>4</sup> Gli aiuti finanziari ammontano al 50 per cento al massimo dei costi per gli accertamenti preliminari, ma al massimo a 20 000 franchi.
 
 <sup>5</sup> L’UFAG emana una decisione.
+
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 ## Sezione 4: Disposizioni finali
 

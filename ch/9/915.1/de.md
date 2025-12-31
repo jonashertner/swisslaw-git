@@ -3,11 +3,11 @@ sr: "915.1"
 title: Verordnung vom 3. November 2021 über die landwirtschaftliche und die bäuerlich-hauswirtschaftliche Beratung (Landwirtschaftsberatungsverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/684"
 language: de
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/684/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-684-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/684/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-684-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20220101/de"
 
 (Landwirtschaftsberatungsverordnung)
 
-vom 3. November 2021 (Stand am 1. Januar 2022)
+vom 3. November 2021 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -24,7 +24,7 @@ gestützt auf die Artikel 136 Absätze 4 und 5 sowie 177 Absatz 1 des Landwirtsc
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## 1. Abschnitt: Gegenstand und Geltungsbereich
 
@@ -102,7 +102,9 @@ Die Beratungszentrale hat die folgenden Aufgaben:
 
 <sup>3</sup> Die Agridea unterstützt insbesondere ihre Mitglieder und die Beratungsdienste der Kantone.
 
-<sup>4</sup> Das Bundesamt für Landwirtschaft (BLW) und die Konferenz der kantonalen Landwirtschaftsdirektoren schliessen eine Leistungsvereinbarung ab, in der sie der Agridea prioritäre Handlungsfelder und spezifische Tätigkeiten vorgeben.
+<sup>4</sup> Das Bundesamt für Landwirtschaft (BLW), die Konferenz der kantonalen Landwirtschaftsdirektoren und die Agridea schliessen jeweils für vier Jahre eine Rahmenvereinbarung ab, in der sie die prioritären Handlungsfelder, die Schwerpunktthemen und die spezifischen Tätigkeiten der Agridea im Rahmen der Aufgaben nach Artikel 4 festlegen.[^5-1]
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 #### Art. 6
 
@@ -140,23 +142,31 @@ Das Fachpersonal der Agridea und der Beratungsdienste von Organisationen sind in
 
 #### Art. 8
 
-**Finanzhilfen für die Agridea**
+**Finanzhilfen für die Agridea**[^8-1]
 
-<sup>1</sup> Das BLW gewährt der Agridea auf der Grundlage der Leistungsvereinbarung nach Artikel 5 Absatz 4 im Rahmen der bewilligten Kredite Finanzhilfen zur Erfüllung der Aufgaben nach Artikel 4.
+<sup>1</sup> Das BLW gewährt der Agridea auf der Grundlage der Rahmenvereinbarung nach Artikel 5 Absatz 4 im Rahmen der bewilligten Kredite Finanzhilfen zur Erfüllung der Aufgaben nach Artikel 4.
 
-<sup>2</sup> Die Gewährung der Finanzhilfen wird in Form eines Vertrags zwischen dem BLW und der Agridea geregelt. Der Vertrag regelt die Höhe der Finanzhilfe im Rahmen der durch das Parlament bewilligten Mittel, die Dauer der Finanzhilfe und die jährliche Berichterstattung.
+<sup>2</sup>
+
+Die Gewährung der Finanzhilfen wird in Form eines Vertrags zwischen dem BLW und der Agridea geregelt. Der Vertrag regelt insbesondere:
+
+- a. die Höhe der Finanzhilfe und die jährlichen Tranchen;
+- b. die unterstützten prioritären Handlungsfelder, Schwerpunktthemen und spezifischen Tätigkeiten;
+- c. die Qualitätserfordernisse in Bezug auf die Umsetzung der Unternehmensstrategie und auf die Erreichung der Unternehmensziele der Agridea;
+- d. die Dauer der Finanzhilfe;
+- e. die jährliche Berichterstattung.
 
 <sup>3</sup>
 
-Die Agridea berichtet dem BLW jährlich über ihre Tätigkeiten und die Mittelverwendung. Zu diesem Zweck stellt sie dem BLW die folgenden Dokumente zu:
+Die Agridea berichtet dem BLW jährlich über ihre Tätigkeiten und die Verwendung der Mittel. Zu diesem Zweck stellt sie dem BLW die folgenden Dokumente zur Verfügung:
 
 - a. den Geschäftsbericht;
 - b. die Jahresrechnung;
-- c. das Jahresbudget;
-- d. das jährliche Tätigkeitsprogramm;
-- e. den jährlichen Bericht über die Erreichung der Ziele nach der Leistungsvereinbarung.
+- c. das Budget für das Folgejahr;
+- d. das Tätigkeitsprogramm für das Folgejahr;
+- e. den jährlichen Bericht über das Tätigkeitsprogramm des Vorjahres, die Umsetzung der Unternehmensstrategie und die Erreichung der Unternehmensziele.
 
-<sup>4</sup> Sie kann für die Erfüllung ihrer Aufgaben Leistungen von Dritten beziehen.
+[^8-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 #### Art. 9
 
@@ -196,19 +206,22 @@ Das BLW gewährt im Rahmen der bewilligten Kredite Finanzhilfen an Beratungsdien
 
 <sup>1</sup> Das BLW kann auf Gesuch hin Trägerschaften aus der Land- und Ernährungswirtschaft Finanzhilfen für Vorabklärungen zur Entwicklung innovativer Projekte gewähren.
 
-<sup>2</sup> Vorabklärungen zur Entwicklung innovativer Projekte dienen der Trägerschaft zur Planung und Prüfung der Durchführbarkeit innovativer Projekte insbesondere im Hinblick auf Projekte zur regionalen Entwicklung nach Artikel 93 Absatz 1 Buchstabe c LwG und Ressourcenprojekte nach den Artikeln 77*a* und 77*b* LwG.
+<sup>2</sup> Vorabklärungen zur Entwicklung innovativer Projekte dienen der Trägerschaft zur Planung und Prüfung der Durchführbarkeit innovativer Projekte insbesondere im Hinblick auf Projekte zur regionalen Entwicklung nach Artikel 87*a* Absatz 1 Buchstabe c LwG und Ressourcenprojekte nach den Artikeln 77*a* und 77*b* LwG.[^11-1]
 
 <sup>3</sup>
 
 Massgebende Kriterien für die Gewährung von Finanzhilfen sind:
 
-- a. die Ausrichtung der Projektziele, der Teilziele, der Handlungsschritte und der Zielgruppe auf die Anforderungen zur Entwicklung eines innovativen Projekts, insbesondere auf die Anforderungen der Projekte nach Absatz 2;
+- a.[^11-2] die Ausrichtung der Projektziele, der Handlungsschritte und der Zielgruppe auf die Anforderungen zur Entwicklung eines innovativen Projekts, insbesondere auf die Anforderungen der Projekte nach Absatz 2;
 - b. die Kompetenzen und Verantwortlichkeiten der Trägerschaften; und
 - c. das Budget mit Eigenmittelnachweis der Trägerschaft.
 
 <sup>4</sup> Die Finanzhilfen belaufen sich auf höchstens 50 Prozent der Kosten für die Vorabklärung, höchstens aber 20 000 Franken.
 
 <sup>5</sup> Das BLW erlässt eine Verfügung.
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 ## 4. Abschnitt: Schlussbestimmungen
 

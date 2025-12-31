@@ -3,11 +3,11 @@ sr: "915.1"
 title: Ordonnance du 3 novembre 2021 sur la vulgarisation agricole et la vulgarisation en économie familiale rurale (Ordonnance sur la vulgarisation agricole)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/684"
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2021-11-03
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/684/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-684-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/684/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-684-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/684/20220101/fr"
 
 (Ordonnance sur la vulgarisation agricole)
 
-du 3 novembre 2021 (Etat le 1<sup>er</sup> janvier 2022)
+du 3 novembre 2021 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -24,7 +24,7 @@ vu les art. 136, al. 4 et 5, et 177, al. 1, de la loi du 29 avril 1998 sur l’a
 
 arrête:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Section 1 Objet et champ d’application
 
@@ -102,7 +102,9 @@ La centrale de vulgarisation a les tâches suivantes:
 
 <sup>3</sup> Agridea soutient en particulier ses membres et les services de vulgarisation des cantons.
 
-<sup>4</sup> L’Office fédéral de l’agriculture (OFAG) et la Conférence des directeurs cantonaux de l’agriculture concluent une convention de prestations dans laquelle ils prescrivent les champs d’action prioritaires et les activités spécifiques d’Agridea.
+<sup>4</sup> L’Office fédéral de l’agriculture (OFAG), la Conférence des directeurs cantonaux de l’agriculture et Agridea concluent, pour une durée de quatre ans, un convention-cadre où ils définissent les champs d’action prioritaires d’Agridea, les grandes lignes de son action et ses activités spécifiques dans le cadre des tâches visées à l’art. 4.[^5-1]
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 #### Art. 6
 
@@ -140,23 +142,31 @@ Le personnel professionnel d’Agridea et des services de vulgarisation des orga
 
 #### Art. 8
 
-**Aides financières pour Agridea**
+**Aides financières pour Agridea**[^8-1]
 
-<sup>1</sup> Sur la base de la convention de prestations visée à l’art. 5, al. 4, l’OFAG octroie à Agridea, dans le cadre du crédit autorisé, des aides financières pour l’accomplissement des tâches visées à l’art. 4.
+<sup>1</sup> L’OFAG octroie à Agridea, sur la base de la convention-cadre visée à l’art. 5, al. 4, et dans les limites du crédit autorisé, des aides financières pour l’accomplissement des tâches visées à l’art. 4.
 
-<sup>2</sup> L’octroi des aides financières est réglé sous forme d’un contrat entre l’OFAG et Agridea. Le contrat règle le montant de l’aide financière dans le cadre des fonds approuvés par le Parlement, la durée de l’aide financière et l’établissement de rapports annuels.
+<sup>2</sup>
+
+L’octroi des aides financières est réglé sous forme d’un contrat entre l’OFAG et Agridea. Le contrat règle notamment:
+
+- a. le montant de l’aide financière et des acomptes annuels;
+- b. les champs d’action prioritaires, les grandes lignes de l’action et les activités spécifiques soutenus;
+- c. les exigences de qualité concernant la réalisation de la stratégie et des objectifs d’entreprise d’Agridea;
+- d. la durée de l’aide financière;
+- e. l’établissement de rapports annuels.
 
 <sup>3</sup>
 
-Agridea rend un rapport annuel à l’OFAG sur ses activités et l’utilisation des fonds. Dans ce but, elle fournit les documents suivants à l’OFAG:
+Agridea rend un rapport annuel à l’OFAG sur ses activités et sur l’utilisation des fonds. À cet effet, elle fournit à l’OFAG les documents suivants:
 
 - a. le rapport de gestion;
 - b. les comptes annuels;
-- c. le budget annuel;
-- d. le programme d’activités annuel;
-- e. le rapport annuel sur la réalisation des objectifs figurant dans la convention de prestations.
+- c. le budget de l’année suivante;
+- d. le programme d’activités de l’année suivante;
+- e. le rapport annuel sur le programme d’activités de l’année précédente ainsi que sur la réalisation de la stratégie et des objectifs de l’entreprise.
 
-<sup>4</sup> Elle peut faire appel à des prestations de tiers pour la réalisation de ses tâches.
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 #### Art. 9
 
@@ -196,19 +206,22 @@ L’OFAG octroie des aides financières aux services de vulgarisation des organi
 
 <sup>1</sup> L’OFAG peut octroyer, sur demande, des aides financières à des porteurs de projet issus du secteur agroalimentaire pour des études préliminaires en vue du développement de projets innovants.
 
-<sup>2</sup> Les études préliminaires en vue du développement de projets innovants servent au porteur de projet à planifier et à examiner la faisabilité de projets innovants, notamment dans la perspective des projets en faveur du développement régional visés à l’art. 93, al. 1, let. c, LAgr et des projets d’utilisation durable des ressources visés aux art. 77*a* et 77*b*, LAgr.
+<sup>2</sup> Les études préliminaires en vue du développement de projets innovants servent au porteur de projet à planifier et à examiner la faisabilité de projets innovants, notamment dans la perspective des projets en faveur du développement régional visés à l’art. 87*a*, al. 1, let. c, LAgr et des projets d’utilisation durable des ressources visés aux art. 77*a* et 77*b* LAgr.[^11-1]
 
 <sup>3</sup>
 
 Les critères déterminants pour l’octroi d’aides financières sont:
 
-- a. l’alignement, des étapes de réalisation et des groupes cibles sur les exigences du développement d’un projet innovant, notamment sur les exigences des projets visés à l’al. 2;
+- a.[^11-2] l’alignement des objectifs des projets, des étapes de réalisation et des groupes cibles sur les exigences du développement d’un projet innovant, notamment sur les exigences des projets visés à l’al. 2;
 - b. les compétences et les responsabilités des porteurs de projet, et
 - c. le budget avec le justificatif des fonds propres du porteur de projet.
 
 <sup>4</sup> Les aides financières s’élèvent au plus à 50 % des coûts de l’étude préliminaire, sans toutefois dépasser 20 000 francs.
 
 <sup>5</sup> L’OFAG rend une décision.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
+[^11-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 717](https://fedlex.data.admin.ch/eli/oc/2025/717)).
 
 ## Section 4 Dispositions finales
 
