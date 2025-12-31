@@ -4,13 +4,12 @@ number: "121.1"
 title: Gesetz über das Kantons- und das Gemeindebürgerrecht
 short: "Kantonales Bürgerrechtsgesetz, kBüG"
 language: de
-version: 2018-01-01
-corrected: 2023-08-02
-version_adopted: 2017-06-28
+version: 2026-01-01
+version_adopted: 2025-08-27
 adopted: 2017-06-28
 in_force: 2018-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/121.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/624/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://gesetze.nw.ch/api/de/versions/624/pdf_file"
 
 (Kantonales Bürgerrechtsgesetz, kBüG)
 
-vom 28.06.2017 (Stand 01.01.2018)
+vom 28.06.2017 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 12 und 60 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 2014 über das Schweizer Bürgerrecht (Bürgerrechtsgesetz, BüG)[^ingress-1],
+gestützt auf Art. 12 und Art. 60 Abs. 1 der Kantonsverfassung, in Ausführung des Bundesgesetzes vom 20. Juni 2014 über das Schweizer Bürgerrecht (Bürgerrechtsgesetz, BüG)[^ingress-1],
 
 beschliesst:
 
@@ -63,9 +62,12 @@ beschliesst:
 
 <sup>3</sup> Das Amt tritt auf das Einbürgerungsgesuch nicht ein, wenn:
 
-- 1\. die Gesuchsunterlagen zur Person nicht oder nicht vollständig vorhanden sind und das Gesuch nicht gültig unterzeichnet ist;
+- 1\. die Gesuchsunterlagen zur Person nicht oder nicht vollständig vorhanden sind oder das Gesuch nicht gültig unterzeichnet ist;
 - 2\. die formellen Voraussetzungen nicht erfüllt sind;
-- 3\. es im Abrufverfahren im Strafregister[^3-1] Einträge feststellt oder ein Strafverfahren hängig ist;
+- 3\. es im Strafregister-Informationssystem VOSTRA[^3-1] gestützt auf das Erwachsenenstrafrecht Einträge zu Grundurteilen, nachträglichen Entscheiden oder hängigen Strafverfahren feststellt, über einen Zeitraum von:
+  - a) zehn Jahren vor der Gesuchseinreichung durch volljährige ausländische Bewerberinnen und Bewerber;
+  - b) fünf Jahren vor der Gesuchseinreichung durch volljährige Schweizer Bewerberinnen und Bewerber;
+- 3a. es im Strafregister-Informationssystem VOSTRA gestützt auf das Jugendstrafrecht Einträge zu Grundurteilen, nachträglichen Entscheiden oder hängigen Strafverfahren feststellt, über einen Zeitraum von fünf Jahren vor der Gesuchseinreichung durch alle Bewerberinnen und Bewerber;
 - 4\. der erforderliche Sprachnachweis nicht vorliegt, soweit die Bewerberin oder der Bewerber davon nicht befreit ist; oder
 - 5\. ein ungenügender Sprachnachweis vorliegt.
 
@@ -85,9 +87,9 @@ beschliesst:
 
 <sup>1</sup> Jede Bewerberin oder jeder Bewerber, die oder der in ein Einbürgerungsgesuch einbezogen ist, hat die Einbürgerungsvoraussetzungen altersentsprechend und während der gesamten Dauer des Einbürgerungsverfahrens zu erfüllen.
 
-<sup>2</sup> Erfüllt eine Bewerberin oder ein Bewerber die Einbürgerungsvoraussetzungen nicht oder nicht mehr, ist das Gesuch mit allen einbezogenen Bewerberinnen oder Bewerbern abzuweisen.
+<sup>2</sup> Erfüllt eine Bewerberin oder ein Bewerber die Einbürgerungsvoraussetzungen in einem gemeinsamen Gesuch nicht oder nicht mehr, kann das Verfahren von den übrigen einbezogenen Bewerberinnen und Bewerbern selbständig fortgeführt werden.
 
-<sup>3</sup> Wird gegen eine Bewerberin oder einen Bewerber während eines hängigen Einbürgerungsverfahrens ein Strafverfahren eröffnet, wird das Einbürgerungsverfahren bis zur rechtskräftigen Erledigung des Strafverfahrens sistiert.
+<sup>3</sup> Wird gegen eine Bewerberin oder einen Bewerber während eines hängigen Einbürgerungsverfahrens ein Strafverfahren eröffnet, wird deren oder dessen Einbürgerungsverfahren bis zur rechtskräftigen Erledigung des Strafverfahrens sistiert. Bei einem gemeinsamen Gesuch kann das Verfahren von den übrigen einbezogenen Bewerberinnen und Bewerbern selbständig fortgeführt werden.
 
 #### Art. 6
 
@@ -95,32 +97,51 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden und der Kanton sichern die Einbürgerungsbewilligung zu oder erteilen diese, wenn die Bewerberin oder der Bewerber:
 
-- 1\. die Voraussetzungen gemäss Art. 9 beziehungsweise Art. 10 BüG2 erfüllt; und
+- 1\. die Voraussetzungen gemäss Art. 9 beziehungsweise Art. 10 BüG[^6-1] erfüllt; und
 - 2\. unmittelbar vor der Einreichung des Gesuches einen ununterbrochenen Aufenthalt von fünf Jahren im Kanton und in der Gemeinde nachweist.
 
 <sup>2</sup> Art. 9 Abs. 2 BüG ist für die Berechnung der Aufenthaltsdauer in der Gemeinde nicht anwendbar.
 
+[^6-1]: SR 141.0
+
 #### Art. 7
 
-**3. materielle Voraussetzungen a) allgemein**
+**3. materielle Voraussetzungen a) ausländische Bewerberinnen und Bewerber**
 
-<sup>1</sup> Die Gemeinden und der Kanton sichern die Einbürgerungsbewilligung zu oder erteilen diese, wenn die Bewerberin oder der Bewerber:
+<sup>1</sup> Die Gemeinden und der Kanton sichern die Einbürgerungsbewilligung zu beziehungsweise erteilen diese, wenn ausländische Bewerberinnen und Bewerber:
 
-- 1\. die Voraussetzungen gemäss Art. 11 und 12 BüG erfüllt;
-- 2\. erfolgreich integriert ist, indem sie oder er insbesondere:
-  - a) mit den schweizerischen, kantonalen und kommunalen Lebensverhältnissen, Sitten und Gebräuchen vertraut ist;
-  - b) die Rechtsordnung beachtet und einen unbescholtenen Leumund besitzt; und
-  - c) fähig ist, sich im Alltag in Wort und Schrift in deutscher Sprache verständlich auszudrücken;
-- 3\. ihren oder seinen Verpflichtungen nachgekommen ist und voraussichtlich auch inskünftig nachkommen kann; und
-- 4\. sich wirtschaftlich erhalten kann und geordnete finanzielle Verhältnisse ausweist.
+- 1\. die Voraussetzungen gemäss Art. 11 und 12 BüG[^7-1] erfüllen;
+- 2\. erfolgreich integriert sind, indem sie insbesondere:
+  - a) mit den schweizerischen, kantonalen und kommunalen Lebensverhältnissen, Sitten und Gebräuchen vertraut sind;
+  - b) die öffentliche Sicherheit und Ordnung beachten; und
+  - c) fähig sind, sich im Alltag in Wort und Schrift in deutscher Sprache verständlich auszudrücken;
+- 3\. ihren Verpflichtungen nachgekommen sind und voraussichtlich auch inskünftig nachkommen können; und
+- 4\. sich wirtschaftlich erhalten können sowie geordnete finanzielle Verhältnisse ausweisen.
 
 <sup>2</sup> Der Regierungsrat legt in einer Verordnung fest, wie die Verpflichtungen gemäss Abs. 1 Ziff. 3 zu erfüllen sind.
 
+[^7-1]: SR 141.0
+
+#### Art. 7a
+
+**b) Schweizer Bewerberinnen und Bewerber**
+
+<sup>1</sup> Die Gemeinden und der Kanton sichern die Einbürgerungsbewilligung zu beziehungsweise erteilen diese, wenn Schweizer Bewerberinnen und Bewerber:
+
+- 1\. erfolgreich integriert sind, indem sie insbesondere:
+  - a) mit den kantonalen und kommunalen Lebensverhältnissen, Sitten und Gebräuchen vertraut sind;
+  - b) die öffentliche Sicherheit und Ordnung beachten; und
+  - c) fähig sind, sich im Alltag in Wort und Schrift in deutscher Sprache verständlich auszudrücken;
+- 2\. ihren Verpflichtungen nachgekommen sind und voraussichtlich auch inskünftig nachkommen können; und
+- 3\. geordnete finanzielle Verhältnisse ausweisen.
+
+<sup>2</sup> Der Regierungsrat legt in einer Verordnung fest, wie die Verpflichtungen gemäss Abs. 1 Ziff. 2 zu erfüllen sind.
+
 #### Art. 8
 
-**b) im Besonderen**
+**c) besondere Fälle**
 
-<sup>1</sup> Reicht eine minderjährige Person selbständig ein Einbürgerungsgesuch ein, sind die Voraussetzungen gemäss Art. 7 Abs. 1 Ziff. 3 und 4 bei den Eltern zu prüfen.
+<sup>1</sup> Reicht eine minderjährige Person selbständig ein Einbürgerungsgesuch ein, sind die Voraussetzungen gemäss Art. 7 Abs. 1 Ziff. 3 und 4 beziehungsweise Art. 7a Abs. 1 Ziff. 2 und 3 bei den Eltern zu prüfen.
 
 <sup>2</sup> Bewerberinnen oder Bewerber bis zum vollendeten 25. Altersjahr, die sich in Ausbildung befinden, haben entweder ihre wirtschaftliche Erhaltungsfähigkeit oder diejenige der Eltern im Rahmen der familienrechtlichen Unterhaltsansprüche zu belegen.
 
@@ -128,7 +149,7 @@ beschliesst:
 
 #### Art. 9
 
-**c) Sprachnachweis**
+**d) Sprachnachweis**
 
 <sup>1</sup> Zum Nachweis der erfolgreichen Verständigung in Wort und Schrift hat die Bewerberin oder der Bewerber auf eigene Kosten einen Sprachnachweis einer durch die Direktion anerkannten Sprachinstitution zu erbringen.
 
@@ -141,13 +162,23 @@ beschliesst:
 
 <sup>4</sup> Analphabeten haben einen Alphabetisierungskurs zu absolvieren und den erforderlichen mündlichen Sprachnachweis zu erbringen.
 
+#### Art. 9a
+
+**e) Beachten der öffentlichen Sicherheit und Ordnung**
+
+<sup>⁠1</sup> Die öffentliche Sicherheit und Ordnung gilt von den Bewerberinnen und Bewerbern als beachtet, sofern im Strafregister-Informationssystem⁠ VOSTRA[^9a-1] kein Eintrag gemäss Art. 3 Abs. 3 Ziff. 3 oder 3a besteht.
+
+<sup>2</sup> Die Bewerberinnen und Bewerber haben in einer Erklärung zusätzlich zu bestätigen, dass sie auch im Ausland keine strafbaren Handlungen begangen haben, die in der Schweiz zu einem Eintrag im Strafregister-Informationssystem VOSTRA führen würden.
+
+[^9a-1]: SR 331
+
 #### Art. 10
 
 **Einbürgerungsverfahren 1. gemeinsamer Bürgerrechtserwerb**
 
-<sup>1</sup> Ausländerinnen und Ausländer können das Schweizer Bürgerrecht nur gemeinsam mit dem Kantons- und dem Gemeindebürgerrecht erwerben.
+<sup>1</sup> Ausländische Bewerberinnen und Bewerber können das Schweizer Bürgerrecht nur gemeinsam mit dem Kantons- und dem Gemeindebürgerrecht erwerben.
 
-<sup>2</sup> Schweizer Bürgerinnen und Bürger können das Kantonsbürgerrecht nur gemeinsam mit dem Gemeindebürgerrecht erwerben.
+<sup>2</sup> Schweizer Bewerberinnen und Bewerber können das Kantonsbürgerrecht nur gemeinsam mit dem Gemeindebürgerrecht erwerben.
 
 #### Art. 11
 
@@ -155,8 +186,8 @@ beschliesst:
 
 <sup>1</sup> Mit Eintritt der Rechtskraft des kantonalen Einbürgerungsentscheids erwerben:
 
-- 1\. die Schweizer Bürgerinnen und Bürger das Gemeinde- und das Kantonsbürgerrecht;
-- 2\. die Ausländerinnen und Ausländer das Schweizer, das Kantons- und das Gemeindebürgerrecht.
+- 1\. die Schweizer Bewerberinnen und Bewerber das Gemeinde- und das Kantonsbürgerrecht;
+- 2\. die ausländischen Bewerberinnen und Bewerber das Bürgerrecht der Schweiz, des Kantons und der Gemeinde.
 
 <sup>2</sup> Kantonsbürgerinnen und Kantonsbürger erwerben das Gemeindebürgerrecht mit Eintritt der Rechtskraft des kommunalen Einbürgerungsentscheids.
 
@@ -164,32 +195,32 @@ beschliesst:
 
 **3. Zuständigkeit a) Gemeindebürgerrecht**
 
-<sup>1</sup> Über das Gemeindebürgerrecht entscheidet:
+<sup>1</sup> Der Gemeinderat entscheidet über:
 
-- 1\. der Gemeinderat bei Gesuchen von Nidwaldner Bürgerinnen und Bürgern;
-- 2\. der Gemeinderat durch Zusicherung bei Gesuchen:
-  - a) ausserkantonaler Schweizer Bürgerinnen und Bürger;
-  - b) minderjähriger Ausländerinnen und Ausländer;
-- 3\. die Gemeindeversammlung durch Zusicherung bei Gesuchen volljähriger Ausländerinnen und Ausländer sowie in das Gesuch einbezogener, minderjähriger Kinder.
+- 1\. die Erteilung des Gemeindebürgerrechts für Kantonsbürgerinnen und Kantonsbürger;
+- 2\. die Zusicherung des Gemeindebürgerrechts in den übrigen ordentlichen Einbürgerungsverfahren.
+- 3\. …
+
+<sup>2</sup> Die Gemeinden können diese Zuständigkeit in der Gemeindeordnung einer vom Gemeinderat gewählten Einbürgerungskommission mit mindestens fünf Mitgliedern übertragen. Ein Mitglied hat dem Gemeinderat anzugehören.
 
 #### Art. 13
 
 **b) Kantonsbürgerrecht**
 
-<sup>1</sup> Über das Kantonsbürgerrecht entscheidet:
+<sup>1</sup> Die Direktion entscheidet über:
 
-- 1\. die Direktion bei Gesuchen von:
-  - a) ausserkantonalen Schweizer Bürgerinnen und Bürgern;
-  - b) minderjährigen Ausländerinnen und Ausländern.
-- 2\. der Landrat durch Zusicherung bei Gesuchen von volljährigen Ausländerinnen und Ausländern sowie in das Gesuch einbezogener, minderjähriger Kinder beziehungsweise der Regierungsrat gemäss Art. 17 Abs. 2.
+- 1\. die Erteilung des Kantonsbürgerrechts an Schweizer Bürgerinnen und Bürger, wenn die Zusicherung des Gemeindebürgerrechts vorliegt;
+- 2\. die Zusicherung des Kantonsbürgerrechts an ausländische Bewerberinnen und Bewerbern, wenn die Zusicherung des Gemeindebürgerrechts vorliegt.
+
+<sup>2</sup> Der Regierungsrat entscheidet über die Erteilung des Kantonsbürgerrechts an ausländische Bewerberinnen und Bewerber, sobald die eidgenössische Einbürgerungsbewilligung vorliegt.
 
 #### Art. 14
 
-**c) massgebender Zeitpunkt**
+**c) Eintritt der Volljährigkeit**
 
 <sup>1</sup> Die Zuständigkeit der Instanzen richtet sich im kantonalen und im kommunalen Einbürgerungsverfahren ausländischer Bewerberinnen oder Bewerber nach dem Alter zum Zeitpunkt des jeweiligen Einbürgerungsentscheides.
 
-<sup>2</sup> Werden in ein Gesuch ihrer Eltern oder Elternteile einbezogene Minderjährige während eines Einbürgerungsverfahrens volljährig, bleibt das Gesuch unverändert bestehen.
+<sup>2</sup>
 
 #### Art. 15
 
@@ -199,23 +230,9 @@ beschliesst:
 
 <sup>2</sup> Die Zusicherung des Gemeindebürgerrechts verliert nach Ablauf von zwei Jahren ihre Gültigkeit, sofern das Kantonsbürgerrecht noch nicht erteilt worden ist; sie kann vom Gemeinderat in begründeten Fällen um ein Jahr verlängert werden.
 
-#### Art. 16
+#### Art. 16–17
 
-**5. Verfahren innerhalb der Gemeindeversammlung**
-
-<sup>1</sup> Liegt an einer Gemeindeversammlung kein Antrag oder nur ein nicht hinreichend oder nicht zulässig begründeter Antrag auf Abweisung des Einbürgerungsgesuchs vor, entfällt eine Abstimmung; die kommunale Einbürgerung gilt als zugesichert.
-
-<sup>2</sup> Liegt ein hinreichend und zulässig begründeter Antrag auf Abweisung des Einbürgerungsgesuchs vor, ist darüber an der Urne innerhalb der Gemeindeversammlung abzustimmen.
-
-<sup>3</sup> Werden in einem Abweisungsantrag hinreichende Gründe vorgebracht, zu denen sich die Bewerberin oder der Bewerber bisher noch nicht äussern konnte beziehungsweise die vorberatende Behörde keine Stellung nehmen kann, geht das Gesuch zu weiteren Abklärungen an diese zurück.
-
-#### Art. 17
-
-**6. Beurteilung auf kantonaler Ebene**
-
-<sup>1</sup> Liegt die Zusicherung des Gemeindebürgerrechts vor, entscheidet der Landrat auf Antrag des Regierungsrates über die Zusicherung des Kantonsbürgerrechts an volljährige Ausländerinnen und Ausländer.
-
-<sup>2</sup> Nach der Erteilung der eidgenössischen Einbürgerungsbewilligung entscheidet der Regierungsrat über das Kantonsbürgerrecht.
+**…**
 
 #### Art. 18
 
@@ -228,20 +245,7 @@ beschliesst:
 
 #### Art. 19
 
-**8. Schutz der Privatsphäre**
-
-<sup>1</sup> Die Einbürgerungsbehörden haben die Privatsphäre der Bewerberinnen und Bewerber zu achten.
-
-<sup>2</sup> Den Stimmberechtigten können die folgenden Daten über die Bewerberinnen oder Bewerber bekannt gegeben werden:
-
-- 1\. Name, Vorname;
-- 2\. Geburtsdatum, Geburtsort;
-- 3\. Zivilstand, Familienverhältnisse;
-- 4\. Staatsangehörigkeit;
-- 5\. Wohnadresse;
-- 6\. Wohnsitzdauer in der Schweiz, im Kanton und in der Gemeinde;
-- 7\. Lebenslauf;
-- 8\. Einbürgerungsmotiv.
+**…**
 
 ### 3.2 Erleichterte Einbürgerung
 
@@ -263,7 +267,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt kann bei der Anhörung durch den Bund gemäss Art. 25 Abs. 1 BüG[^21-1] vor der Gutheissung eines Gesuches um erleichterte Einbürgerung Stellung nehmen.
 
-<sup>2</sup> Es hört bei Bedarf den Gemeinderat der betroffenen Gemeinde an.
+<sup>2</sup> Es hört bei Bedarf die betroffene Gemeinde an.
 
 [^21-1]: SR 141.0
 
@@ -275,7 +279,7 @@ beschliesst:
 
 <sup>1</sup> Das Amt kann bei der Anhörung durch den Bund gemäss Art. 29 Abs. 1 BüG[^22-1] vor der Gutheissung eines Gesuches um Wiedereinbürgerung Stellung nehmen.
 
-<sup>2</sup> Es hört bei Bedarf den Gemeinderat der betroffenen Gemeinde an.
+<sup>2</sup> Es hört bei Bedarf die betroffene Gemeinde an.
 
 [^22-1]: SR 141.0
 
@@ -314,7 +318,7 @@ beschliesst:
 
 <sup>1</sup> Ordentliche Einbürgerungen können vom Regierungsrat nichtig erklärt werden, wenn sie durch falsche Angaben oder Verheimlichung erheblicher Tatsachen erschlichen worden sind. Die weiteren Voraussetzungen richten sich nach Art. 36 BüG[^25-1].
 
-<sup>2</sup> Der Regierungsrat kann bei Bedarf den Gemeinderat der betroffenen Gemeinde anhören.
+<sup>2</sup> Er hört bei Bedarf die betroffene Gemeinde an.
 
 [^25-1]: SR 141.0
 
@@ -334,9 +338,9 @@ beschliesst:
 
 **Entlassung aus dem Kantons- und Gemeindebürgerrecht 1. Zuständigkeit**
 
-<sup>1</sup> Kantonsbürgerinnen und Kantonsbürger, die unter Beibehaltung eines anderen Kantonsbürgerrechts auf das Nidwaldner Kantons- und Gemeindebürgerrecht verzichten wollen, können auf Gesuch hin durch die Direktion entlassen werden.
+<sup>1</sup> Die Direktion kann auf Gesuch hin Kantonsbürgerinnen und Kantonsbürger, die unter Beibehaltung eines anderen Kantonsbürgerrechts auf das Nidwaldner Kantons- und Gemeindebürgerrecht verzichten wollen, aus diesem entlassen.
 
-<sup>2</sup> Kantonsbürgerinnen und Kantonsbürger, die unter Beibehaltung eines Nidwaldner Gemeindebürgerrechts auf das Bürgerrecht einer andern Nidwaldner Gemeinde verzichten wollen, können auf Gesuch hin durch den Gemeinderat entlassen werden.
+<sup>2</sup> Die Gemeinde kann auf Gesuch hin Kantonsbürgerinnen und Kantonsbürger, die unter Beibehaltung eines anderen Nidwaldner Gemeindebürgerrechts auf ihr Bürgerrecht verzichten wollen, aus diesem entlassen.
 
 #### Art. 28
 
@@ -366,7 +370,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat entscheidet gemäss Art. 43 BüG[^30-1] über den Besitz des Kantons- und Gemeindebürgerrechts, wenn dieser fraglich ist.
 
-<sup>2</sup> Er hört den Gemeinderat der betroffenen Gemeinde an.
+<sup>2</sup> Er hört die betroffenen Gemeinden an.
 
 [^30-1]: SR 141.0
 
@@ -381,7 +385,7 @@ beschliesst:
 - 1\. religiöse und weltanschauliche Ansichten;
 - 2\. politische Tätigkeiten;
 - 3\. die Gesundheit;
-- 4\. Massnahmen der Sozialhilfe;
+- 4\. Massnahmen der Sozialhilfe bei ausländischen Bewerberinnen und Bewerbern;
 - 5\. Beachtung familienrechtlicher Unterhaltspflichten;
 - 6\. Betreibungs- und Konkursverfahren;
 - 7\. Steuerakten, insbesondere Steuerrückstände, Steuerstrafen und Zahlungsverhalten bei Steuerrechnungen;
@@ -405,13 +409,14 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Gegen ablehnende Entscheide der Gemeindeversammlung kann binnen 20 Tagen nach erfolgter Zustellung Beschwerde beim Regierungsrat erhoben werden.
+<sup>1</sup> Das Rechtsmittelverfahren richtet sich nach dem Verwaltungsrechtspflegegesetz[^33-1].
 
-<sup>2</sup> Gegen ablehnende Entscheide des Landrates kann binnen 20 Tagen nach erfolgter Zustellung Beschwerde beim Verwaltungsgericht erhoben werden.
+<sup>2</sup> Eine Beschwerde ist nur gegen ablehnende Entscheide zulässig. Vorbehalten bleibt die Kostenbeschwerde gemäss Gebührengesetzgebung[^33-2].
 
-<sup>3</sup> Im Übrigen richten sich die Rechtsmittel nach dem Verwaltungsrechtspflegegesetz[^33-1].
+<sup>3</sup> …
 
 [^33-1]: NG 265.1
+[^33-2]: NG 265.5
 
 #### Art. 34
 
@@ -434,7 +439,7 @@ beschliesst:
 
 [^35-1]: NG 265.5
 
-## 8 Vollzugs , Übergangs- und Schlussbestimmungen
+## 8 Vollzugs-, Übergangs- und Schlussbestimmungen
 
 #### Art. 36
 
