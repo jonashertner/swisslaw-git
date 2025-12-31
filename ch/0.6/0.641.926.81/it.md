@@ -3,11 +3,11 @@ sr: "0.641.926.81"
 title: "Accordo del 26 ottobre 2004 tra la Confederazione Svizzera e l'Unione europea sullo scambio automatico di informazioni finanziarie per migliorare l'adempimento fiscale interna¬zionale (con allegati, prot., memorandum d'intesa e dichiarazioni)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/444"
 language: it
-version: 2017-01-01
+version: 2026-01-01
 adopted: 2004-10-26
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/444/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2005-444-20170101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/444/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/444/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2005-444-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/444/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -30,10 +30,10 @@ Approvato dall’Assemblea federale il 17 giugno 2016[^t-4]
 
 Entrato in vigore tramite scambio di note il 1° gennaio 2017
 
-(Stato 1° gennaio 2017)
+(Stato 1° gennaio 2026)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 17 dic. 2004 ([RU 2005 2557](https://fedlex.data.admin.ch/eli/oc/2005/443)).
-[^t-2]: Applicato, a partire dal 1° lug. 2005, giusta l’ultimo par. dell’Acc. in forma di scambio di lettere del 26 ott. 2004 tra la Comunità europea e la Confederazione Svizzera relativo alla data d’applicazione dell’Accordo tra la Comunità europea e la Confederazione Svizzera che stabilisce misure equivalenti a quelle definite nella direttiva 2003/48/CE del Consiglio, del 3 giu. 2003, in materia di tassazione dei redditi da risparmio sotto forma di pagamenti di interessi ([RS 0.641.926.811](https://fedlex.data.admin.ch/eli/cc/2005/445)).
+[^t-2]: Applicato, a partire dal 1° lug. 2005, giusta l’ultimo par. dell’Acc. in forma di scambio di lettere del 26 ott. 2004 tra la Comunità europea e la Confederazione Svizzera relativo alla data d’applicazione dell’Accordo tra la Comunità europea e la Confederazione Svizzera che stabilisce misure equivalenti a quelle definite nella direttiva 2003/48/CE del Consiglio, del 3 giu. 2003, in materia di tassazione dei redditi da risparmio sotto forma di pagamenti di interessi ([RS 0.641.926.811](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2472)).
 [^t-3]: [RU 2016 5003](https://fedlex.data.admin.ch/eli/oc/2016/804); [FF 2015 7585](https://fedlex.data.admin.ch/eli/fga/2015/2144)
 [^t-4]: Art. 1 cpv. 1 del DF del 17 giu. 2016 ([RU 2016 501](https://fedlex.data.admin.ch/eli/oc/2016/87)).
 
@@ -77,10 +77,13 @@ hanno deciso di concludere il seguente accordo:
 - j) «Conto Oggetto di Comunicazione della Svizzera»: un Conto Finanziario gestito da una Istituzione Finanziaria Tenuta alla Comunicazione di uno Stato membro e detenuto da una o più Persone della Svizzera Oggetto di Comunicazione o da un Entità Non Finanziaria Passiva avente una o più Persone che Esercitano il Controllo che è una Persona della Svizzera Oggetto di Comunicazione;
 - k) «Persona di uno Stato membro»: una persona fisica o un’Entità identificata da una Istituzione Finanziaria della Svizzera Tenuta alla Comunicazione come residente in uno Stato membro secondo le procedure di adeguata verifica, conformi agli allegati I e II, o il patrimonio di un *de cuius* che era residente in uno Stato membro;
 - l) «Persona della Svizzera»: una persona fisica o un’Entità identificata da un’Istituzione Finanziaria Tenuta alla Comunicazione di uno Stato membro come residente in Svizzera secondo le procedure di adeguata verifica, conformi agli allegati I e II, o il patrimonio di un *de cuius* che era residente in Svizzera.
+- m)[^1-1] «Quadro per la comunicazione di informazioni in materia di cripto-attività»: il quadro internazionale per lo scambio automatico di informazioni in materia di cripto-attività (comprensivo dei commenti) elaborato dall’OCSE con i paesi del G20 e approvato dall’OCSE il 26 agosto 2022;
+- [tab] n)– t)[^1-2]
+- u)[^1-3] «Comitato congiunto»: il comitato responsabile del buon funzionamento e della corretta attuazione del titolo 2 a norma dell’articolo 4*p*.
 
 \2) Ogni termine con iniziali maiuscole non altrimenti definito nel presente accordo avrà il significato che gli viene attribuito in quel momento:
 
-- i. per gli Stati membri, dalla direttiva 2011/16/UE del Consiglio relativa alla cooperazione amministrativa nel settore fiscale[^1-1] oppure, ove pertinente, dal diritto nazionale dello Stato membro che applica l’accordo; e
+- i. per gli Stati membri, dalla direttiva 2011/16/UE del Consiglio relativa alla cooperazione amministrativa nel settore fiscale[^1-4] oppure, ove pertinente, dal diritto nazionale dello Stato membro che applica l’accordo; e
 - ii. per la Svizzera, dal suo diritto nazionale, coerentemente con il significato di cui agli allegati I e II.
 
 Ogni termine non altrimenti definito nel presente accordo o negli allegati I o II avrà, a meno che il contesto non richieda un’altra interpretazione o che l’Autorità Competente di uno Stato membro e l’Autorità Competente della Svizzera non concordino un’interpretazione comune conformemente all’articolo 7 (compatibilmente con il diritto nazionale), il significato che gli viene attribuito in quel momento dalla legislazione della giurisdizione che applica il presente accordo:
@@ -88,7 +91,10 @@ Ogni termine non altrimenti definito nel presente accordo o negli allegati I o I
 - i. per gli Stati membri, dalla direttiva 2011/16/UE del Consiglio relativa alla cooperazione amministrativa nel settore fiscale oppure, ove pertinente, dal diritto nazionale dello Stato membro interessato;
 - ii. per la Svizzera, dal diritto nazionale, tenendo presente che qualsiasi significato attribuito dalle leggi fiscali applicabili della giurisdizione interessata (uno Stato membro o la Svizzera) prevale sul significato attribuito al termine da altre leggi della stessa giurisdizione.
 
-[^1-1]: GU L 64 dell’11.3.2011, pag. 1.
+[^1-1]: Introdotta dall’art. 1 cpv. 4 del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^1-2]: Entrano in vigore successivamente ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^1-3]: Introdotta dall’art. 1 cpv. 4 del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^1-4]: GU L 64 dell’11.3.2011, pag. 1.
 
 #### Art. 2
 
@@ -100,8 +106,15 @@ Ogni termine non altrimenti definito nel presente accordo o negli allegati I o I
 
 Le informazioni da scambiare sono, nel caso di uno Stato membro in relazione a ciascun Conto Oggetto di Comunicazione della Svizzera e nel caso della Svizzera in relazione a ciascun Conto Oggetto di Comunicazione di uno Stato membro:
 
-- a) il nome, l’indirizzo, il NIF e, nel caso di Persone Fisiche, la data e il luogo di nascita per ciascuna Persona Oggetto di Comunicazione che è Titolare di Conto e, nel caso di un’Entità che è Titolare di Conto e che, dopo l’applicazione delle procedure di adeguata verifica in materia fiscale conformemente agli allegati I e II, è identificata come avente una o più Persone che Esercitano il Controllo che sono Persone Oggetto di Comunicazione, il nome, l’indirizzo e il NIF dell’Entità e il nome, l’indirizzo, il NIF e la data e il luogo di nascita di ogni Persona Oggetto di Comunicazione;
-- b) il numero di conto (o equivalente funzionale in assenza di un numero di conto);
+- a)[^2-1]
+
+  le seguenti:
+
+  - i. il nome, l’indirizzo, il NIF o i NIF e, nel caso di persone fisiche, la data e il luogo di nascita per ciascuna Persona Oggetto di Comunicazione che è Titolare di Conto e se il Titolare di Conto ha presentato un’autocertificazione valida,
+  - ii. nel caso di un’Entità che è Titolare di Conto e che, dopo l’applicazione delle procedure di adeguata verifica in materia fiscale conformemente agli allegati I e II, è identificata come avente una o più Persone che Esercitano il Controllo che sono Persone Oggetto di Comunicazione, il nome, l’indirizzo e il NIF o i NIF dell’Entità e il nome, l’indirizzo, il NIF o i NIF e la data e il luogo di nascita di ogni Persona Oggetto di Comunicazione, nonché il ruolo o i ruoli in virtù dei quali ciascuna Persona Oggetto di Comunicazione è una Persona che esercita il Controllo dell’Entità e se per ciascuna Persona Oggetto di Comunicazione è stata presentata un’autocertificazione valida, e
+  - iii. se il conto è un conto congiunto, incluso il numero dei Titolari del conto congiunto;
+
+- b)[^2-2] il numero di conto (o equivalente funzionale in assenza di un numero di conto), il tipo di conto e se si tratta di un Conto Preesistente o di un Nuovo Conto;
 - c) il nome e l’eventuale numero di identificazione dell’Istituzione Finanziaria Tenuta alla Comunicazione;
 - d) il saldo o il valore del conto (compreso, nel caso di un Contratto di Assicurazione per il quale è Misurabile un Valore Maturato o di un Contratto di Rendita, il Valore Maturato o il valore di riscatto) alla fine del pertinente anno solare o di altro adeguato periodo di rendicontazione ovvero, se il conto è stato chiuso nel corso di tale anno o periodo, la chiusura del conto;
 - e)
@@ -111,8 +124,16 @@ Le informazioni da scambiare sono, nel caso di uno Stato membro in relazione a c
   - i. l’importo totale lordo degli interessi, l’importo totale lordo dei dividendi, nonché l’importo totale lordo degli altri redditi generati in relazione alle attività detenute nel conto che in ogni caso sono pagati o accreditati sul conto (o in relazione al conto) nel corso dell’anno solare o di altro adeguato periodo di rendicontazione, e
   - ii. gli introiti totali lordi derivanti dalla vendita o dal riscatto delle Attività Finanziarie pagati o accreditati sul conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione in relazione al quale l’Istituzione Finanziaria Tenuta alla Comunicazione ha agito in qualità di custode, intermediario, intestatario o altrimenti come agente per il Titolare del Conto;
 
-- f) nel caso di un Conto di Deposito, l’importo totale lordo degli interessi pagati o accreditati sul conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione; e
+- f) nel caso di un Conto di Deposito, l’importo totale lordo degli interessi pagati o accreditati sul conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione;
+- f*a*)[^2-3] nel caso di Quote nel Capitale di Rischio detenute in un’Entità di Investimento che è un dispositivo giuridico, il ruolo o i ruoli in virtù dei quali la Persona Oggetto di Comunicazione è un detentore di Quote nel Capitale di Rischio; e
 - g) nel caso di un conto non descritto al paragrafo 2, lettera e) o f), l’importo totale lordo pagato o accreditato al Titolare del Conto in relazione allo stesso nel corso dell’anno solare o di altro adeguato periodo di rendicontazione in relazione al quale l’Istituzione Finanziaria Tenuta alla Comunicazione è l’obbligato o il debitore, compreso l’importo complessivo di eventuali pagamenti di riscatto effettuati al Titolare del Conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione.
+
+<sup>3.</sup> Nonostante il paragrafo 2, lettera e), punto ii), e se l’Istituzione Finanziaria Tenuta alla Comunicazione non decide diversamente ai sensi dell’allegato I, sezione I, parte F, in relazione a qualsiasi gruppo di conti chiaramente identificato, gli introiti lordi derivanti dalla vendita o dal riscatto di un’Attività Finanziaria non devono essere scambiati nella misura in cui siano scambiati dall’Autorità Competente della Svizzera con l’Autorità Competente di uno Stato membro o dall’Autorità Competente di uno Stato membro con l’Autorità Competente della Svizzera secondo il Quadro per la comunicazione di informazioni in materia di cripto-attività.[^2-4]
+
+[^2-1]: Nuovo testo giusta l’art. 1 cpv. 6 lett. a (i) del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^2-2]: Nuovo testo giusta l’art. 1 cpv. 6 lett. a (i) del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^2-3]: Introdotta dall’art. 1 cpv. 6 lett. a (iii) del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^2-4]: Introdotto dall’art. 1 cpv. 6 lett. b del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
 
 #### Art. 3
 
@@ -124,15 +145,97 @@ Le informazioni da scambiare sono, nel caso di uno Stato membro in relazione a c
 
 <sup>3.</sup> In relazione all’articolo 2, paragrafo 2, le informazioni devono essere scambiate riguardo al primo anno a decorrere dall’entrata in vigore del protocollo di modifica firmato il 27 maggio 2015 e a tutti gli anni successivi e saranno scambiate entro i nove mesi successivi al termine dell’anno solare a cui si riferiscono.
 
-<sup>4.</sup> Le Autorità Competenti scambieranno automaticamente le informazioni di cui all’articolo 2 secondo uno standard comune di comunicazione in un linguaggio di marcatura estensibile (Extensible Markup Language).
+3 *a*. Nonostante il paragrafo 3, per i conti considerati come Conto Oggetto di Comunicazione esclusivamente in virtù delle modifiche al presente accordo apportate dal protocollo di modifica del 20 ottobre 2025, e, in relazione a tutti i Conti Oggetto di Comunicazione, per le informazioni aggiuntive da scambiare a norma delle modifiche apportate all’articolo 2, paragrafo 2, del suddetto protocollo di modifica, le informazioni devono essere scambiate con riguardo al primo anno a decorrere dalla data di applicazione provvisoria di tale protocollo di modifica e a tutti gli anni successivi.[^3-1]
 
-<sup>5.</sup> Le Autorità Competenti concorderanno uno o più metodi di trasmissione dei dati, comprendenti standard di cifratura.
+3 *b*. Nonostante i paragrafi 3 e *3a*, in relazione a ciascun Conto Oggetto di Comunicazione detenuto da un’Istituzione Finanziaria Tenuta alla Comunicazione al 31 dicembre precedente la data di applicazione provvisoria del protocollo di modifica del 20 ottobre 2025 e per i periodi di riferimento che terminano entro il secondo anno solare successivo a tale data, le informazioni relative al ruolo o ai ruoli in virtù dei quali ciascuna Persona Oggetto di Comunicazione è una Persona che Esercita il Controllo o un detentore di Quote nel Capitale di Rischio devono essere scambiate laddove comunicate dall’Istituzione Finanziaria Tenuta alla Comunicazione in conformità dell’allegato I, sezione I, parte A, punto 1, lettera b), e parte A, punto 6*a*.[^3-2]
+
+<sup>4.</sup> Le Autorità Competenti scambieranno automaticamente le informazioni di cui all’articolo 2 secondo uno standard comune di comunicazione in linguaggio di marcatura estensibile (*Extensible Markup Language*) utilizzando il sistema comune di trasmissione approvato dall’OCSE o qualsiasi altro sistema appropriato per la trasmissione dei dati che possa essere concordato in futuro.[^3-3]
+
+<sup>5.</sup> ...[^3-4]
+
+[^3-1]: Introdotto dall’art. 1 cpv. 7 lett. a del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^3-2]: Introdotto dall’art. 1 cpv. 7 lett. a del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^3-3]: Nuovo testo giusta l’art. 1 cpv. 7 lett. b del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^3-4]: Abrogato dall’art. 1 cpv. 7 lett. c del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
 
 #### Art. 4
 
 **Cooperazione ai fini della conformità e dell’applicazione**
 
 L’Autorità Competente di uno Stato membro informerà l’Autorità Competente della Svizzera, e l’Autorità Competente della Svizzera informerà l’Autorità Competente di uno Stato membro, quando la prima Autorità Competente (notificante) ha motivo di ritenere che un errore possa essere stato all’origine di una comunicazione inesatta o incompleta conformemente all’articolo 2 o che un’Istituzione Finanziaria Tenuta alla Comunicazione non abbia rispettato gli obblighi di comunicazione applicabili e le procedure di adeguata verifica conformi agli allegati I e II. L’Autorità Competente notificata adotterà tutte le misure previste dal diritto nazionale per ovviare agli errori o alla non conformità oggetto della notifica.
+
+## Titolo 2: Assistenza in materia di recupero
+
+[^tit2-1]
+
+[^tit2-1]: Introdotto dall’art. 1 cpv. 8 del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2025 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816))
+
+### Capo 1: ...
+
+#### Art. 4a–4c
+
+[^4a4c-1]
+
+[^4a4c-1]: Entrano in vigore successivamente ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Capo 2: ...
+
+#### Art. 4d
+
+[^4d-1]
+
+[^4d-1]: Entra in vigore successivamente ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Capo 3: ...
+
+#### Art. 4e
+
+[^4e-1]
+
+[^4e-1]: Entra in vigore successivamente ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Capo 4: ...
+
+#### Art. 4f–4o
+
+[^4f4o-1]
+
+[^4f4o-1]: Entrano in vigore successivamente ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Capo 5: Attuazione e applicazione
+
+#### Art. 4p
+
+**Comitato congiunto**
+
+<sup>1</sup> Le parti contraenti istituiscono un Comitato congiunto composto da rappresentanti delle parti contraenti. Il Comitato congiunto assicura il corretto funzionamento e la corretta attuazione del presente titolo.
+
+<sup>2</sup>
+
+Il Comitato congiunto formula raccomandazioni per promuovere gli obiettivi del presente titolo e adotta decisioni:
+
+- a) relative all’adozione di moduli standard per la comunicazione relativa alle domande a norma del presente titolo e per gli strumenti uniformi di cui all’articolo 4*h*, paragrafo 1, e all’articolo 4*k*, paragrafo 2;
+- b) sull’uso delle lingue nelle domande, negli strumenti uniformi e in altri moduli standard utilizzati per l’assistenza a norma del presente titolo e in altri documenti di accompagnamento di cui all’articolo 4*h* e all’articolo 4*k*, paragrafo 2;
+- c) che istituiscono i mezzi di trasmissione delle domande e delle comunicazioni, qualora il Comitato congiunto ritenga che il sistema comune di trasmissione approvato dall’OCSE non debba più essere utilizzato per la comunicazione relativa alle domande di cui al presente titolo;
+- d) che adottano le norme di attuazione relative alle modalità pratiche e alle procedure amministrative relative all’organizzazione dei contatti di cui all’articolo 4*c*;
+- e) che adottano le norme relative alla conversione delle somme da recuperare e al trasferimento delle somme recuperate;
+- f) che modificano i riferimenti agli atti giuridici dell’Unione europea e della Svizzera contenuti nel presente titolo;
+- g) che stabiliscono e adottano norme di attuazione relative all’importo per il quale uno Stato non è tenuto a concedere l’assistenza di cui all’articolo 4*m*, paragrafo 2;
+- h) che stabiliscono e adottano norme sui dati statistici che gli Stati devono raccogliere per quanto riguarda l’applicazione del presente titolo e sulla data entro la quale le parti contraenti devono comunicare per via elettronica al Comitato congiunto un elenco di tali dati statistici;
+- i) che stabiliscono e adottano norme di attuazione in merito alle modalità pratiche e alle procedure amministrative relative all’esecuzione della domanda di recupero, comprese disposizioni sugli interessi di mora e sulle modalità di rateizzazione per i debitori;
+- j) che stabiliscono e adottano norme di attuazione relative alle modalità pratiche e alle procedure amministrative per le controversie di cui all’articolo 4*j*;
+- k) che stabiliscono e adottano norme di attuazione relative alle modalità pratiche e alle procedure amministrative per le modifiche o i ritiri delle domande di assistenza in materia di recupero;
+- l) che stabiliscono una procedura per la conclusione di un accordo sul livello dei servizi, garantendo la qualità tecnica e la quantità dei servizi per il funzionamento dei sistemi di comunicazione e di scambio di informazioni, e concludono, se necessario, un accordo sul livello dei servizi.
+
+<sup>3</sup> Il Comitato congiunto delibera all’unanimità delle parti contraenti. Le decisioni del Comitato congiunto sono vincolanti per le parti contraenti. Il Comitato congiunto adotta il proprio regolamento interno.
+
+Le parti contraenti si impegnano a far adottare le decisioni di cui al paragrafo 2 dal Comitato congiunto entro un periodo di 12 mesi dall’entrata in vigore del presente titolo.
+
+Qualora le parti contraenti non riescano a raggiungere un accordo per adottare le decisioni di cui al paragrafo 2, ciascuna parte nomina un rappresentante e avvia discussioni bilaterali per risolvere in via amichevole le questioni in sospeso entro 12 mesi.
+
+<sup>4</sup> Il Comitato congiunto si riunisce almeno una volta all’anno e riesamina il funzionamento e l’efficacia del presente titolo ogni cinque anni. Ciascuna parte contraente può chiedere la convocazione di una riunione. Le mansioni di presidente vengono espletate a turno da ciascuna delle parti contraenti. La data, il luogo e l’ordine del giorno delle riunioni sono stabiliti di comune intesa tra le parti contraenti.
+
+<sup>5</sup> Se una parte contraente desidera che il presente titolo sia riveduto, ne informa il Comitato congiunto. Le modifiche del presente titolo entrano in vigore dopo l’espletamento delle rispettive procedure interne.
 
 #### Art. 5
 
@@ -234,18 +337,27 @@ Il presente accordo si applica, da una parte, ai territori degli Stati membri in
 
 *In fede di che*, i plenipotenziari hanno apposto le loro firme in calce al presente protocollo di modifica. Fatto a Bruxelles, il ventisette maggio duemilaquindici. Per la Confederazione Svizzera: Jacques de Watteville Per l’Unione europea: Janis Reirs e Pierre Moscovici
 
-Allegato I
+Allegato I[^t-5]
 
 ## Standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai Conti Finanziari
+
+[^t-5]: Aggiornato dall’art. 1 cpv. 11 del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
 
 («Standard comune di comunicazione di informazioni»)
 
 ### Sezione I: Obblighi generali di comunicazione
 
-A. Fatte salve le parti da C a E, ciascuna Istituzione Finanziaria Tenuta alla Comunicazione deve trasmettere all’Autorità Competente della propria giurisdizione (uno Stato membro o la Svizzera) le seguenti informazioni relative a ogni Conto Oggetto di Comunicazione ivi registrato:
+A. Fatte salve le parti da C a F, ciascuna Istituzione Finanziaria Tenuta alla Comunicazione deve trasmettere all’Autorità Competente della propria giurisdizione (uno Stato membro o la Svizzera) relativamente a ogni Conto Oggetto di Comunicazione ivi registrato:
 
-- 1\. il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza (uno Stato membro o la Svizzera), il NIF o i NIF e, nel caso di Persone Fisiche, la data e il luogo di nascita per ciascuna Persona Oggetto di Comunicazione che è Titolare di Conto e, nel caso di un’Entità che è Titolare di Conto e che, dopo l’applicazione delle procedure di adeguata verifica in materia fiscale conformemente alle sezioni V, VI e VII, è identificata come avente una o più Persone che Esercitano il Controllo che sono Persone Oggetto di Comunicazione, il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza (uno Stato membro o la Svizzera) di residenza e il NIF o i NIF dell’Entità e il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza (uno Stato membro o la Svizzera), il NIF o i NIF e la data e il luogo di nascita di ogni Persona Oggetto di Comunicazione;
-- 2\. il numero di conto (o equivalente funzionale in assenza di un numero di conto);
+- 1\.
+
+  le informazioni seguenti:
+
+  - a) il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza (uno Stato membro o la Svizzera), il NIF o i NIF e, nel caso di persone fisiche, la data e il luogo di nascita per ciascuna Persona Oggetto di Comunicazione che è Titolare di Conto e se il Titolare di Conto ha presentato un’autocertificazione valida,
+  - b) nel caso di un’Entità che è Titolare di Conto e che, dopo l’applicazione delle procedure di adeguata verifica in materia fiscale conformemente alle sezioni V, VI e VII, è identificata come avente una o più Persone che Esercitano il Controllo che sono Persone Oggetto di Comunicazione, il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza (uno Stato membro, la Svizzera o un’altra giurisdizione) e il NIF o i NIF dell’Entità e il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza (uno Stato membro o la Svizzera), il NIF o i NIF e la data e il luogo di nascita di ogni Persona Oggetto di Comunicazione, nonché il ruolo o i ruoli in virtù dei quali ciascuna Persona Oggetto di Comunicazione è una Persona che esercita il Controllo dell’Entità e se per ciascuna Persona Oggetto di Comunicazione è stata presentata un’autocertificazione valida, e
+  - c) se il conto è un conto congiunto, incluso il numero dei Titolari del conto congiunto;
+
+- 2\. il numero di conto (o equivalente funzionale in assenza di un numero di conto), il tipo di conto e se si tratta di un Conto Preesistente o di un Nuovo Conto;
 - 3\. il nome e l’eventuale numero di identificazione dell’Istituzione Finanziaria Tenuta alla Comunicazione;
 - 4\. il saldo o il valore del conto (compreso, nel caso di un Contratto di Assicurazione per il quale è Misurabile un Valore Maturato o di un Contratto di Rendita, il Valore Maturato o il valore di riscatto) alla fine del pertinente anno solare o di altro adeguato periodo di rendicontazione ovvero, se il conto è stato chiuso nel corso di tale anno o periodo, la chiusura del conto;
 - 5\.
@@ -255,16 +367,19 @@ A. Fatte salve le parti da C a E, ciascuna Istituzione Finanziaria Tenuta alla C
   - a) l’importo totale lordo degli interessi, l’importo totale lordo dei dividendi, nonché l’importo totale lordo degli altri redditi generati in relazione alle attività detenute nel conto in ogni caso pagati o accreditati sul conto (o in relazione al conto) nel corso dell’anno solare o di altro adeguato periodo di rendicontazione, e
   - b) gli introiti totali lordi derivanti dalla vendita o dal riscatto delle Attività Finanziarie pagati o accreditati sul conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione in relazione al quale l’Istituzione Finanziaria Tenuta alla Comunicazione ha agito in qualità di custode, intermediario, intestatario o altrimenti come agente per il Titolare del Conto;
 
-- 6\. nel caso di un Conto di Deposito, l’importo totale lordo degli interessi pagati o accreditati sul conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione; e
+- 6\. nel caso di un Conto di Deposito, l’importo totale lordo degli interessi pagati o accreditati sul conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione;
+- 6*a*. nel caso di Quote nel Capitale di Rischio detenute in un’Entità di Investimento che è un dispositivo giuridico, il ruolo o i ruoli in virtù dei quali la Persona Oggetto di Comunicazione è un detentore di Quote nel Capitale di Rischio; e
 - 7\. nel caso di conti diversi da quelli di cui alla parte A, punti 5 e 6, l’importo totale lordo pagato o accreditato al Titolare del Conto in relazione al conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione in relazione al quale l’Istituzione Finanziaria Tenuta alla Comunicazione è l’obbligato o il debitore, compreso l’importo complessivo di eventuali pagamenti di riscatto effettuati al Titolare del Conto nel corso dell’anno solare o di altro adeguato periodo di rendicontazione.
 
 B. Le informazioni trasmesse devono indicare la valuta nella quale è denominato ciascun importo.
 
-C. Nonostante la parte A, punto 1, in relazione a ciascun Conto Oggetto di Comunicazione che corrisponda a un Conto Preesistente non sussiste l’obbligo di comunicare il NIF o i NIF o la data di nascita se l’uno o l’altro di tali dati non compaiono negli archivi dell’Istituzione Finanziaria Tenuta alla Comunicazione e né il diritto nazionale né gli strumenti giuridici dell’Unione (se applicabili) ne impongono la raccolta da parte della suddetta Istituzione. Tuttavia, un’Istituzione Finanziaria Tenuta alla Comunicazione è tenuta a impegnarsi in misura ragionevole per ottenere il NIF o i NIF e la data di nascita in relazione a Conti Preesistenti entro la fine del secondo anno solare che segue l’anno in cui i Conti Preesistenti sono stati individuati come Conti Oggetto di Comunicazione.
+C. Nonostante la parte A, punto 1, in relazione a ciascun Conto Oggetto di Comunicazione che corrisponda a un Conto Preesistente non sussiste l’obbligo di comunicare il NIF o i NIF o la data di nascita se l’uno o l’altro di tali dati non compaiono negli archivi dell’Istituzione Finanziaria Tenuta alla Comunicazione e né il diritto nazionale né gli strumenti giuridici dell’Unione europea (se applicabili) ne impongono la raccolta da parte della suddetta Istituzione. Tuttavia un’Istituzione Finanziaria Tenuta alla Comunicazione è tenuta a impegnarsi in misura ragionevole per ottenere il NIF o i NIF e la data di nascita in relazione a Conti Preesistenti entro la fine del secondo anno solare che segue l’anno in cui i Conti Preesistenti sono stati individuati come Conti Oggetto di Comunicazione e ogniqualvolta è tenuta ad aggiornare le informazioni relative al Conto Preesistente in conformità delle Procedure antiriciclaggio (AML/KYC) nazionali.
 
 D. Nonostante la parte A, punto 1, non sussiste l’obbligo di comunicare il NIF se quest’ultimo non è rilasciato dallo Stato membro interessato, dalla Svizzera o da un’altra giurisdizione di residenza.
 
 E. Nonostante la parte A, punto 1, non sussiste l’obbligo di comunicare il luogo di nascita a meno che l’Istituzione Finanziaria Tenuta alla Comunicazione sia altrimenti tenuta a ottenerlo e comunicarlo in base al diritto nazionale e tale luogo sia disponibile tra i dati rintracciabili elettronicamente conservati dall’Istituzione Finanziaria Tenuta alla Comunicazione.
+
+F. Nonostante la parte A, punto 5, lettera b), e se l’Istituzione Finanziaria Tenuta alla Comunicazione non decide diversamente per un gruppo di conti chiaramente identificato, gli introiti lordi derivanti dalla vendita o dal riscatto di un’Attività Finanziaria non devono essere comunicati nella misura in cui sono comunicati dall’Istituzione Finanziaria Tenuta alla Comunicazione secondo il Quadro per la comunicazione di informazioni in materia di cripto-attività.
 
 ### Sezione II: Obblighi generali di adeguata verifica in materia fiscale
 
@@ -412,7 +527,7 @@ A. Procedure di verifica per l’identificazione dei conti di Entità per i qual
 
 - 2\. Determinare se l’Entità è un’Entità non finanziaria passiva con una o più Persone che Esercitano il Controllo che sono Persone Oggetto di Comunicazione. Riguardo a un titolare di un nuovo conto di Entità (compresa un’Entità che è una Persona Oggetto di Comunicazione), l’Istituzione Finanziaria Tenuta alla Comunicazione deve determinare se il Titolare del Conto è un’Entità non finanziaria passiva con una o più Persone che Esercitano il Controllo che sono Persone Oggetto di Comunicazione. Se una delle Persone che Esercitano il Controllo su un’Entità non finanziaria passiva è una Persona Oggetto di Comunicazione, il conto deve essere considerato come un Conto Oggetto di Comunicazione. Nell’effettuare tale determinazione l’Istituzione Finanziaria Tenuta alla Comunicazione deve seguire le procedure di cui alla parte A, punto 2, lettere da a) a c), nell’ordine più appropriato alle circostanze.
   - a) Determinare se il Titolare del Conto è un’Entità non finanziaria passiva. Al fine di determinare se il Titolare del Conto è un’Entità non finanziaria passiva, l’Istituzione Finanziaria Tenuta alla Comunicazione deve considerare come attendibile un’autocertificazione del Titolare del Conto per determinare il suo status, a meno che, in base alle informazioni in suo possesso o pubblicamente disponibili, non possa ragionevolmente determinare che il Titolare del Conto è un’Entità non finanziaria attiva o un’Istituzione Finanziaria diversa da un’Entità di investimento di cui alla parte A, punto 6, lettera b), della sezione VIII che non è un’Istituzione Finanziaria di una Giurisdizione Partecipante.
-  - b) Determinare le Persone che Esercitano il Controllo sul Titolare del Conto. Al fine di determinare le Persone che Esercitano il Controllo su un Titolare del Conto, un’Istituzione Finanziaria Tenuta alla Comunicazione può considerare come attendibili le informazioni raccolte e conservate secondo le Procedure AML/KYC.
+  - b) Determinare le Persone che Esercitano il Controllo sul Titolare del Conto. Al fine di determinare le Persone che Esercitano il Controllo su un Titolare del Conto, un’Istituzione Finanziaria Tenuta alla Comunicazione può considerare come attendibili le informazioni raccolte e conservate secondo le Procedure AML/KYC, a condizione che tali procedure siano conformi alle raccomandazioni del GAFI del 2012. Se non è giuridicamente tenuta ad applicare Procedure AML/KYC conformi alle raccomandazioni del GAFI del 2012, l’Istituzione Finanziaria Tenuta alla Comunicazione deve applicare procedure sostanzialmente analoghe al fine di determinare le Persone che Esercitano il Controllo.
   - c) Determinare se una persona che esercita il controllo su un’Entità non finanziaria passiva è una Persona Oggetto di Comunicazione. Al fine di determinare se una persona che esercita il controllo su un’Entità non finanziaria passiva è una Persona Oggetto di Comunicazione, un’Istituzione Finanziaria Tenuta alla Comunicazione può considerare come attendibile un’autocertificazione da parte del Titolare del Conto o di detta persona che esercita il controllo.
 
 ### Sezione VII: Regole supplementari di adeguata verifica in materia fiscale
@@ -420,6 +535,8 @@ A. Procedure di verifica per l’identificazione dei conti di Entità per i qual
 Nell’attuazione delle procedure di adeguata verifica in materia fiscale sopra descritte si applicano le regole supplementari seguenti:
 
 A. Attendibilità delle autocertificazioni e delle Prove Documentali. Un’Istituzione Finanziaria Tenuta alla Comunicazione non può considerare attendibili un’autocertificazione o Prove Documentali qualora essa sia a conoscenza o abbia motivo di essere a conoscenza che l’autocertificazione o le Prove Documentali sono inesatte o inattendibili.
+
+A *a*. Mancanza temporanea di autocertificazione. Nel caso eccezionale in cui un’Istituzione Finanziaria Tenuta alla Comunicazione non possa ottenere in tempo utile un’autocertificazione per un Nuovo Conto al fine di ottemperare agli obblighi di adeguata verifica in materia fiscale e di comunicazione in relazione al periodo di rendicontazione nel quale è stato aperto il conto, l’Istituzione Finanziaria Tenuta alla Comunicazione deve applicare le procedure di adeguata verifica in materia fiscale per i Conti Preesistenti fino a quando tale autocertificazione non sia stata ottenuta e convalidata.
 
 B. Procedure alternative applicabili ai Conti Finanziari detenuti da Persone Fisiche che sono beneficiarie di un Contratto di Assicurazione per il quale è Misurabile un Valore Maturato o di un Contratto di Rendita e ai Contratti di Assicurazione di gruppo per i quali è Misurabile un Valore Maturato o ai Contratti di Rendita di gruppo. Un’Istituzione Finanziaria Tenuta alla Comunicazione può presumere che una Persona Fisica che sia il beneficiario (diverso dal proprietario) di un Contratto di Assicurazione per il quale è Misurabile un Valore Maturato o di un Contratto di Rendita che riceve un’indennità di decesso non sia una Persona Oggetto di Comunicazione e può considerare tale Conto Finanziario come diverso da un Conto Oggetto di Comunicazione, a meno che l’Istituzione Finanziaria Tenuta alla Comunicazione non abbia effettiva conoscenza, o non abbia motivo di essere a conoscenza, del fatto che il beneficiario è una Persona Oggetto di Comunicazione. Un’Istituzione Finanziaria Tenuta alla Comunicazione ha motivo di essere a conoscenza che un beneficiario di un Contratto di Assicurazione per il quale è Misurabile un Valore Maturato o di un Contratto di Rendita è una Persona Oggetto di Comunicazione se le informazioni raccolte dall’Istituzione Finanziaria Tenuta alla Comunicazione e associate al beneficiario contengono *indicia* di cui alla parte B della sezione III. Se un’Istituzione Finanziaria Tenuta alla Comunicazione ha effettiva conoscenza, o ha motivo di essere a conoscenza, del fatto che il beneficiario è una Persona Oggetto di Comunicazione, l’Istituzione Finanziaria Tenuta alla Comunicazione deve seguire le procedure di cui alla parte B della sezione III.
 
@@ -466,32 +583,53 @@ A. Istituzione Finanziaria tenuta alla Comunicazione
 
   - i. il periodo di tre anni che termina il 31 dicembre (ovvero l’ultimo giorno di un esercizio non coincidente con l’anno solare) precedente all’anno in cui viene effettuata la determinazione; o
   - ii. il periodo nel corso del quale l’Entità è esistita.
+  - 5\.
 
-- 5\. Per «Istituzione di Deposito» si intende ogni Entità che accetta depositi nell’ambito della propria ordinaria attività bancaria o similare.
-- 6\.
+    Per «Istituzione di Deposito» si intende ogni Entità che:
 
-  Per «Entità di Investimento» si intende ogni Entità:
+    - a) accetta depositi nell’ambito della propria ordinaria attività bancaria o similare; o
+    - b) detiene Prodotti Specificati di Moneta Elettronica o Valute Digitali della Banca Centrale a beneficio dei clienti.
 
-  - a)
+  - 6\.
 
-    che svolge quale attività economica principale una o più delle seguenti attività o operazioni per un cliente o per conto di un cliente:
+    Per «Entità di Investimento» si intende ogni Entità:
 
-    - i. negoziazione di strumenti del mercato monetario (assegni, cambiali, certificati di deposito, strumenti derivati ecc.), valuta estera, strumenti su cambi, su tassi d’interesse e su indici, valori mobiliari o negoziazione di future su merci quotate,
-    - ii. gestione individuale e collettiva di portafoglio, o
-    - iii. altre forme di investimento, amministrazione o gestione di attività finanziarie o denaro per conto di terzi;
-    - [tab] oppure
+    - a)
 
-  - b) il cui reddito lordo è principalmente attribuibile a investimenti, reinvestimenti o negoziazione di attività finanziarie, se l’Entità è gestita da un’altra Entità che è un’Istituzione di Deposito, un’Istituzione di Custodia, un’Impresa di Assicurazioni Specificata o un’Entità di investimento di cui alla parte A, punto 6, lettera a).
+      che svolge quale attività economica principale una o più delle seguenti attività o operazioni per un cliente o per conto di un cliente:
 
-Un’Entità è considerata come impegnata principalmente in una o più attività economiche di cui alla parte A, punto 6, lettera a), o il reddito lordo di un’Entità è attribuibile principalmente all’investimento, al reinvestimento o alla negoziazione di Attività Finanziarie ai fini della parte A, punto 6, lettera b), se il reddito lordo dell’Entità attribuibile alle attività pertinenti è pari o superiore al 50 per cento del reddito lordo dell’Entità nel corso del minore tra:
+      - i) negoziazione di strumenti del mercato monetario (assegni, cambiali, certificati di deposito, strumenti derivati ecc.), valuta estera, strumenti su cambi, su tassi d’interesse e su indici, valori mobiliari o negoziazione di future su merci quotate;
+      - ii) gestione individuale e collettiva di portafoglio; o
+      - iii) altre forme di investimento, amministrazione o gestione di Attività Finanziarie, denaro o Cripto-attività Pertinenti per conto di terzi; o
 
-- i. il periodo di tre anni che termina il 31 dicembre precedente all’anno in cui viene effettuata la determinazione; o
-- ii. il periodo nel corso del quale l’Entità è esistita. Il termine «Entità di investimento» non include un’Entità che è un’Entità Non Finanziaria attiva perché tale Entità soddisfa uno dei criteri di cui alla parte D, punto 9, lettere da d) a g).
+    - b) il cui reddito lordo è principalmente attribuibile a investimenti, reinvestimenti o negoziazione di Attività Finanziarie o di Cripto-attività Pertinenti, se l’Entità è gestita da un’altra Entità che è un’Istituzione di Deposito, un’Istituzione di Custodia, un’Impresa di Assicurazioni Specificata o un’Entità di investimento di cui alla parte A, punto 6, lettera a).
 
-Il presente paragrafo va interpretato in conformità alla definizione di «istituzione Finanziaria» di cui alle raccomandazioni del gruppo di azione finanziaria internazionale (GAFI).
+  - Un’Entità è considerata come impegnata principalmente in una o più attività economiche di cui alla parte A, punto 6, lettera a), o il reddito lordo di un’Entità è attribuibile principalmente all’investimento, al reinvestimento o alla negoziazione di Attività Finanziarie o di Cripto-attività Pertinenti ai fini della parte A, punto 6, lettera b), se il reddito lordo dell’Entità attribuibile alle attività pertinenti è pari o superiore al 50 % del reddito lordo dell’Entità nel corso del minore tra: i) il periodo di tre anni che termina il 31 dicembre precedente all’anno in cui viene effettuata la determinazione; o ii) il periodo nel corso del quale l’Entità è esistita. Ai fini della parte A, punto 6), lettera a), punto iii), il termine «altre forme di investimento, amministrazione o gestione di Attività Finanziarie, denaro o Cripto-attività Pertinenti per conto di terzi» non comprende la prestazione di servizi consistenti in Operazioni di Cambio per i clienti o per conto di clienti. Il termine «Entità di Investimento» non include un’Entità che è un’Entità non Finanziaria Attiva perché tale Entità soddisfa uno dei criteri di cui alla parte D, punto 9, lettere da d) a g).
+  - Il presente paragrafo va interpretato in conformità della definizione di «istituzione finanziaria» di cui alle raccomandazioni del gruppo di azione finanziaria internazionale (GAFI).
 
-- 7\. Il termine «Attività Finanziaria» include valori mobiliari (ad esempio azioni o titoli di una società di capitali, partecipazioni o quote in qualità di beneficiario effettivo in società di persone o trust diffusi o quotati in borsa, pagherò, obbligazioni o altri titoli di credito), quote in società di persone, merci quotate, swap (ad esempio swap su tassi di interesse, swap di valute, swap di basi, cap di tasso di interesse, floor di tasso di interesse, swap su merci quotate, swap su titoli azionari, swap su indici azionari e accordi analoghi), Contratti Assicurativi o Contratti di Rendita, o qualsiasi quota di partecipazione (inclusi contratti su future o forward od opzioni) in valori mobiliari, in società di persone, in merci quotate, in swap, in Contratti di Assicurazione o Contratti di Rendita. Il termine «Attività Finanziaria» non include un interesse diretto e non debitorio in un bene immobiliare.
+- 7\. Il termine «Attività Finanziaria» include valori mobiliari (ad esempio azioni o titoli di una società di capitali, partecipazioni o quote in qualità di beneficiario effettivo in società di persone o trust diffusi o quotati in borsa, pagherò, obbligazioni o altri titoli di credito), quote in società di persone, merci quotate, swap (ad esempio swap su tassi di interesse, swap di valute, swap di basi, cap di tasso di interesse, floor di tasso di interesse, swap su merci quotate, swap su titoli azionari, swap su indici azionari e accordi analoghi), Contratti Assicurativi o Contratti di Rendita, o qualsiasi quota di partecipazione (inclusi contratti su future o forward od opzioni) in valori mobiliari, in Cripto-attività Pertinenti, in società di persone, in merci quotate, in swap, in Contratti di Assicurazione o Contratti di Rendita. Il termine «Attività Finanziaria» non include un interesse diretto e non debitorio in un bene immobiliare.
 - 8\. Per «Impresa di Assicurazioni Specificata» si intende ogni Entità che è un’impresa di assicurazioni (o la holding di un’impresa di assicurazioni) che emette Contratti di Assicurazione per i quali è Misurabile un Valore Maturato o Contratti di Rendita o è obbligata a effettuare pagamenti in relazione a tali contratti.
+- 9\.
+
+  Per «Prodotto Specificato di Moneta Elettronica» si intende qualsiasi prodotto che sia:
+
+  - a) una rappresentazione digitale di un’unica Moneta Fiduciaria;
+  - b) emesso al ricevimento di fondi per effettuare operazioni di pagamento;
+  - c) rappresentato da un credito nei confronti dell’emittente denominato nella medesima Moneta Fiduciaria;
+  - d) accettato in pagamento da una persona fisica o giuridica diversa dall’emittente; e
+  - e) in virtù degli obblighi normativi cui l’emittente è soggetto, rimborsabile in qualsiasi momento e al valore nominale nella medesima Moneta Fiduciaria su richiesta del detentore del prodotto.
+
+- Il termine «Prodotto Specificato di Moneta Elettronica» non comprende un prodotto creato al solo scopo di facilitare il trasferimento di fondi da un cliente a un’altra persona su istruzioni del cliente. Un prodotto non è creato al solo scopo di facilitare il trasferimento di fondi se, nel corso della normale attività economica dell’Entità trasferente, i fondi connessi a tale prodotto sono detenuti più di 60 giorni dopo il ricevimento delle istruzioni per facilitare il trasferimento o, in mancanza di istruzioni, se i fondi connessi a tale prodotto sono detenuti più di 60 giorni dopo il loro ricevimento.
+- 10\. Per «Valuta Digitale della Banca Centrale» si intende qualsiasi Moneta Fiduciaria digitale emessa da una Banca Centrale o da un’altra autorità monetaria.
+- 11\. Per «Moneta Fiduciaria» si intende la moneta ufficiale di una giurisdizione, emessa da una giurisdizione o dalla Banca Centrale o dall’autorità monetaria designata da una giurisdizione, rappresentata da banconote o monete fisiche o da moneta in diverse forme digitali, comprese le riserve bancarie e le Valute Digitali della Banca Centrale. Il termine comprende anche la moneta di banca commerciale e i prodotti di moneta elettronica (compresi i Prodotti Specificati di Moneta Elettronica).
+- 12\. Per «Cripto-attività» si intende una rappresentazione digitale del valore che si basa su una tecnologia di registro distribuito crittograficamente protetta o su una tecnologia analoga per convalidare e proteggere le operazioni.
+- 13\. Per «Cripto-attività Pertinenti» si intende qualsiasi Cripto-attività che non sia una Valuta Digitale della Banca Centrale, un Prodotto Specificato di Moneta Elettronica o qualsiasi Cripto-attività per la quale il Prestatore di Servizi per le Cripto-attività tenuto alla comunicazione ha adeguatamente stabilito che non possa essere utilizzata a fini di pagamento o di investimento.
+- 14\.
+
+  Per «Operazione di Cambio» si intende:
+
+  - a) qualsiasi scambio tra Cripto-attività Pertinenti e Monete Fiduciarie; e
+  - b) qualsiasi scambio tra una o più forme di Cripto-attività Pertinenti.
 
 B. Istituzione Finanziaria Non Tenuta alla Comunicazione
 
@@ -499,11 +637,18 @@ B. Istituzione Finanziaria Non Tenuta alla Comunicazione
 
   Per «Istituzione Finanziaria Non Tenuta alla Comunicazione» si intende qualsiasi Istituzione Finanziaria che è:
 
-  - a) un’Entità Statale, un’Organizzazione Internazionale o una Banca Centrale, tranne per quanto riguarda un pagamento derivante da un obbligo detenuto in connessione con un tipo di Attività Finanziaria commerciale svolta da un’Impresa di Assicurazioni Specificata, un’Istituzione di Custodia o un’Istituzione di Deposito;
+  - a)
+
+    un’Entità Statale, un’Organizzazione Internazionale o una Banca Centrale, tranne per quanto riguarda:
+
+    - i) un pagamento derivante da un obbligo detenuto in connessione con un tipo di attività finanziaria commerciale svolta da un’Impresa di Assicurazioni Specificata, un’Istituzione di Custodia o un’Istituzione di Deposito, o
+    - ii) un’attività di detenzione di Valute Digitali della Banca Centrale per Titolari di Conti che non sono Istituzioni Finanziarie, Entità Statali, Organizzazioni Internazionali o Banche Centrali;
+
   - b) un Fondo Pensione ad Ampia Partecipazione, un Fondo Pensione a Partecipazione Ristretta, un Fondo Pensione di un’Entità statale, di un’Organizzazione Internazionale o di una Banca Centrale o un Emittente Qualificato di Carte di Credito;
   - c) qualsiasi altra Entità che presenta un rischio ridotto di essere utilizzata a fini di evasione fiscale, ha caratteristiche sostanzialmente simili a quelle di una delle Entità di cui alla parte B, punto 1, lettere a) e b), è definita nel diritto nazionale come Istituzione Finanziaria Non Tenuta alla Comunicazione, è contemplata dall’articolo 8, paragrafo 7 bis, della direttiva 2011/16/UE del Consiglio relativa alla cooperazione amministrativa nel settore fiscale e comunicata alla Svizzera e, per la Svizzera, viene comunicata alla Commissione europea, a condizione che il suo status di Istituzione Finanziaria Non Tenuta alla Comunicazione non pregiudichi il conseguimento degli scopi del presente accordo;
-  - d) un Veicolo di Investimento Collettivo Esente; o
-  - e) un *trust*, nella misura in cui il rispettivo *trustee* è un’Istituzione Finanziaria Non Tenuta alla Comunicazione e comunica tutte le informazioni che devono essere comunicate conformemente alla sezione I in relazione a tutti i Conti Oggetto di Comunicazione del trust.
+  - d) un Veicolo di Investimento Collettivo Esente;
+  - e) un *trust*, nella misura in cui il rispettivo *trustee* è un’Istituzione Finanziaria Non Tenuta alla Comunicazione e comunica tutte le informazioni che devono essere comunicate conformemente alla sezione I in relazione a tutti i Conti Oggetto di Comunicazione del trust; o
+  - f) un’Entità Qualificata Senza Scopo di Lucro Svizzera.
 
 - 2\. Per «Entità Statale» si intende il governo di uno Stato membro, della Svizzera o di un’altra giurisdizione, ogni suddivisione politica di uno Stato membro, della Svizzera o di un’altra giurisdizione (che, per evitare ogni ambiguità, include uno Stato, una provincia, una contea o un comune) e ogni agenzia o ente strumentale interamente detenuti da uno Stato membro, della Svizzera o di un’altra giurisdizione o da uno o più dei soggetti precedenti (ciascuno dei quali costituisce un’«Entità Statale»). Questa categoria comprende le parti integranti, le entità controllate e le suddivisioni politiche di uno Stato membro, della Svizzera o di un’altra giurisdizione.
   - a) Una «parte integrante» di uno Stato membro, della Svizzera o di un’altra giurisdizione designa qualsiasi persona, organizzazione, agenzia, ufficio, fondo, ente strumentale o altro organismo comunque designato, che costituisce un’autorità direttiva di uno Stato membro, della Svizzera o di un’altra giurisdizione. Gli utili netti dell’autorità direttiva devono essere accreditati sul conto della stessa o su altri conti dello Stato membro, della Svizzera o di un’altra giurisdizione, e nessuna frazione di tali utili può maturare a beneficio di un privato. Una parte integrante non comprende alcuna persona fisica che sia un rappresentante del governo, un funzionario o un amministratore che agisce a titolo privato o personale.
@@ -569,6 +714,16 @@ B. Istituzione Finanziaria Non Tenuta alla Comunicazione
   - c) il veicolo di investimento collettivo attui le procedure di adeguata verifica di cui alle sezioni da II a VII e comunichi ogni informazione che deve essere comunicata relativamente a tali azioni, quando queste ultime sono presentate per il riscatto o per altro pagamento; e
   - d) il veicolo di investimento collettivo disponga di politiche e procedure per garantire che tali azioni siano riscattate o immobilizzate al più presto, e comunque entro due anni dall’entrata in vigore del protocollo di modifica firmato il 27 maggio 2015.
 
+- 10\.
+
+  Per «Entità Qualificata Senza Scopo di Lucro Svizzera» si intende un’Entità residente in Svizzera che ha ottenuto conferma da un’autorità competente svizzera che tale Entità soddisfa tutte le seguenti condizioni:
+
+  - a) è costituita e gestita in Svizzera esclusivamente per scopi religiosi, caritatevoli, scientifici, artistici, culturali, atletici o educativi; o è costituita e gestita in Svizzera ed è un’organizzazione professionale, un’unione di operatori economici, una camera di commercio, un’organizzazione del lavoro, un’organizzazione agricola o orticola, un’associazione civica o un’organizzazione attiva esclusivamente per la promozione dell’assistenza sociale;
+  - b) è esente dall’imposta sul reddito in Svizzera;
+  - c) non ha azionisti o soci che hanno un interesse a titolo di proprietari o di beneficiari sul suo reddito o sul patrimonio;
+  - d) le leggi applicabili della Svizzera o gli atti costitutivi dell’Entità non consentono che il reddito o patrimonio dell’Entità siano distribuiti o destinati a beneficio di un privato o di un’Entità non caritatevole, se non nell’ambito degli scopi di natura caritatevole dell’Entità, a titolo di pagamento di una remunerazione congrua per i servizi resi, oppure a titolo di pagamento del valore equo di mercato di beni acquistati dall’Entità; e
+  - e) le leggi applicabili della Svizzera o gli atti costitutivi dell’Entità prevedono che, all’atto della liquidazione o dello scioglimento dell’Entità, tutto il suo patrimonio sia distribuito a un’Entità Statale o altra Entità che soddisfi le condizioni di cui alle lettere da a) a e), o sia devoluto al governo della Svizzera o a una sua suddivisione politica.
+
 C. Conto Finanziario
 
 - 1\.
@@ -586,7 +741,14 @@ C. Conto Finanziario
   - c) qualsiasi Contratto di Assicurazione per il quale è Misurabile un Valore Maturato e qualsiasi Contratto di Rendita emesso da o intrattenuto presso un’Istituzione Finanziaria, diverso da una rendita vitalizia immediata, non trasferibile e non collegata a investimenti che è emessa nei confronti di una Persona Fisica e prevede la monetizzazione di una pensione o di un’indennità di invalidità prevista in base a un conto che è un Conto Escluso.
   - L’espressione «Conto Finanziario» non comprende alcun conto che sia un Conto Escluso.
 
-- 2\. L’espressione «Conto di Deposito» comprende qualsiasi conto commerciale, conto corrente, libretto di risparmio, conto a termine o Conto di Deposito a risparmio oppure un conto che è comprovato da un certificato di deposito, certificato di risparmio, certificato di investimento, certificato di debito, o altro strumento analogo gestito da un’Istituzione Finanziaria nell’ambito della propria ordinaria attività bancaria o similare. Un Conto di Deposito include anche un importo detenuto da un’impresa di assicurazioni sulla base di un contratto di investimento garantito o analogo accordo di pagamento o accredito dei relativi interessi.
+- 2\.
+
+  L’espressione «Conto di Deposito» comprende qualsiasi conto commerciale, conto corrente, libretto di risparmio, conto a termine o conto di deposito a risparmio oppure un conto che è comprovato da un certificato di deposito, certificato di risparmio, certificato di investimento, certificato di debito, o altro strumento analogo gestito da un’Istituzione di Deposito. Un Conto di Deposito include anche:
+
+  - a) un importo detenuto da un’impresa di assicurazioni sulla base di un contratto di investimento garantito o analogo accordo di pagamento o accredito dei relativi interessi;
+  - b) un conto o un conto nozionale che rappresenta tutti i Prodotti Specificati di Moneta Elettronica detenuti a beneficio di un cliente; e
+  - c) un conto sul quale sono detenute una o più Valute Digitali della Banca Centrale a beneficio di un cliente.
+
 - 3\. Per «Conto di Custodia» si intende un conto (diverso da un Contratto di Assicurazione o da un Contratto di Rendita) che detiene una o più Attività Finanziarie a beneficio di un’altra persona.
 - 4\. Per «Quota nel Capitale di Rischio» si intende, nel caso di una società di persone che è un’Istituzione Finanziaria, una partecipazione al capitale o agli utili della società di persone. Nel caso di un *trust* che costituisce un’Istituzione Finanziaria, una Quota nel Capitale di Rischio si considera detenuta da qualsiasi persona considerata come un disponente o beneficiario di tutto o di una parte del *trust*, o qualsiasi altra Persona fisica che, in ultima istanza, esercita il controllo effettivo sul trust. Una Persona Oggetto di Comunicazione sarà considerata un beneficiario di un *trust* se essa ha il diritto di ricevere dal *trust*, direttamente o indirettamente (ad esempio, attraverso un intestatario), una distribuzione obbligatoria o può ricevere, direttamente o indirettamente, una distribuzione discrezionale.
 - 5\. Per «Contratto di Assicurazione» si intende un contratto (diverso da un Contratto di Rendita) in base al quale l’emittente si impegna a pagare un importo al verificarsi di uno specifico evento che implichi mortalità, morbilità, infortuni, responsabilità o rischio patrimoniale.
@@ -613,7 +775,7 @@ C. Conto Finanziario
 
   Per «Conto Preesistente» si intende:
 
-  - a) un Conto Finanziario detenuto presso un’Istituzione Finanziaria Tenuta alla Comunicazione alla data del 31 dicembre che precede l’entrata in vigore del protocollo di modifica firmato il 27 maggio 2015;
+  - a) un Conto Finanziario detenuto presso un’Istituzione Finanziaria Tenuta alla Comunicazione al 31 dicembre che precede l’entrata in vigore del protocollo di modifica del 27 maggio 2015 o, se il conto è considerato un Conto Finanziario esclusivamente in virtù delle modifiche apportate al presente accordo dal protocollo di modifica del 20 ottobre 2025, al 31 dicembre che precede la data di applicazione provvisoria del suddetto protocollo di modifica;
   - b)
 
     uno Stato membro o la Svizzera ha la possibilità di includere nell’espressione «Conto Preesistente» tutti i Conti Finanziari del titolare di un conto, indipendentemente dalla data di apertura del Conto Finanziario, se:
@@ -624,7 +786,7 @@ C. Conto Finanziario
     - iv. l’apertura del Conto Finanziario non richiede la fornitura di informazioni sul cliente nuove, aggiuntive o modificate da parte del Titolare del Conto se non ai fini del presente accordo.
 
 - Prima dell’entrata in vigore del protocollo di modifica firmato il 27 maggio 2015, gli Stati membri comunicano alla Svizzera e la Svizzera comunica alla Commissione europea se è stata esercitata l’opzione di cui alla presente lettera b). La Commissione europea può coordinare la trasmissione della comunicazione dagli Stati membri alla Svizzera e la Commissione europea trasmette la comunicazione dalla Svizzera agli Stati membri. Tutte le eventuali modifiche dell’esercizio di quest’opzione da parte di uno Stato membro o della Svizzera vengono comunicate nello stesso modo.
-- 10\. Per «Nuovo Conto» si intende un Conto Finanziario detenuto presso un’Istituzione Finanziaria Tenuta alla Comunicazione, aperto all’entrata in vigore del protocollo di modifica firmato il 27 maggio 2015 o successivamente, a meno che esso non sia considerato come un Conto Preesistente ai sensi della definizione ampliata di Conto Preesistente di cui alla parte C, punto 9.
+- 10\. Per «Nuovo Conto» si intende un Conto Finanziario detenuto presso un’Istituzione Finanziaria Tenuta alla Comunicazione, aperto all’entrata in vigore del protocollo di modifica del 27 maggio 2015 o successivamente, oppure, se il conto è considerato un Conto Finanziario esclusivamente in virtù delle modifiche apportate al presente accordo dal protocollo di modifica del 20 ottobre 2025, alla data di applicazione provvisoria del suddetto protocollo di modifica o successivamente, a meno che esso non sia considerato un Conto Preesistente ai sensi della definizione ampliata di Conto Preesistente di cui alla parte C, punto 9.
 - 11\. Per «Conto preesistente di Persona Fisica» si intende un Conto Preesistente detenuto da una o più Persone Fisiche.
 - 12\. Per «Nuovo Conto di Persona Fisica» si intende un Nuovo Conto detenuto da una o più Persone Fisiche.
 - 13\. Per «Conto preesistente di Entità» si intende un Conto preesistente detenuto da una o più Entità.
@@ -685,7 +847,17 @@ C. Conto Finanziario
 
     - iii. l’obbligo di un’Istituzione Finanziaria che finanzia un prestito garantito da un bene immobile di accantonare una parte del pagamento con l’unico obiettivo di facilitare il successivo pagamento di imposte o assicurazioni relative al bene immobile,
     - iv. l’obbligo di un’Istituzione Finanziaria esclusivamente al fine di facilitare il successivo pagamento di imposte;
+    - v)
 
+      la costituzione o l’aumento di capitale di una società, a condizione che il conto soddisfi i requisiti seguenti:
+
+      - – il conto è utilizzato esclusivamente per depositare capitali destinati alla costituzione o all’aumento di capitale di una società come previsto dalla legge,
+      - – tutti gli importi detenuti sul conto sono bloccati fino a quando l’Istituzione Finanziaria Tenuta alla Comunicazione non ottiene una conferma indipendente in merito alla costituzione o all’aumento di capitale,
+      - – dopo la costituzione o l’aumento di capitale il conto è chiuso o trasformato in un conto intestato alla società,
+      - – eventuali rimborsi derivanti dalla mancata costituzione o dal mancato aumento di capitale, al netto delle commissioni per il prestatore di servizi e di commissioni analoghe, sono versati esclusivamente alle persone che hanno contribuito gli importi, e
+      - – il conto non è stato costituito più di 12 mesi prima;
+
+  - e *a*) un Conto di Deposito che rappresenta tutti Prodotti Specificati di Moneta Elettronica detenuti a beneficio di un cliente, se la media mobile del saldo o del valore aggregato di fine giornata del conto a 90 giorni durante un qualsiasi periodo di 90 giorni consecutivi non ha superato i 10 000 USD o un importo equivalente denominato nella valuta nazionale di ciascuno Stato membro o della Svizzera in nessun giorno dell’anno solare o di altro adeguato periodo di rendicontazione.
   - f)
 
     un Conto di Deposito che soddisfi i seguenti requisiti:
@@ -698,17 +870,7 @@ C. Conto Finanziario
 D. Conto Oggetto di Comunicazione
 
 - 1\. Per «Conto Oggetto di Comunicazione» si intende un Conto detenuto da una o più Persone Oggetto di Comunicazione o da un’Entità Non Finanziaria Passiva avente una o più Persone che Esercitano il Controllo che sono Persone Oggetto di Comunicazione, a condizione che sia stato identificato in quanto tale secondo le procedure di adeguata verifica in materia fiscale di cui alle sezioni da II a VII.
-- 2\.
-
-  Per «Persona Oggetto di Comunicazione» si intende una Persona residente in una Giurisdizione Oggetto di Comunicazione diversa da:
-
-  - i. una società di capitali i cui titoli sono regolarmente scambiati su uno o più mercati dei valori mobiliari regolamentati;
-  - ii. una società di capitali che è un’Entità Collegata di una società di capitali di cui al punto i);
-  - iii. un’Entità Statale;
-  - iv. un’Organizzazione Internazionale;
-  - v. una Banca Centrale; o
-  - vi. un’Istituzione Finanziaria.
-
+- 2\. Per «Persona Oggetto di Comunicazione» si intende una Persona residente in una Giurisdizione Oggetto di Comunicazione diversa da: i) un’Entità i cui titoli sono regolarmente scambiati su uno o più mercati dei valori mobiliari regolamentati; ii) un’Entità che è un’Entità Collegata di un’Entità di cui al punto i); iii) un’Entità Statale; iv) un’Organizzazione Internazionale; v) una Banca Centrale; o vi) un’Istituzione Finanziaria.
 - 3\. Per «Persona di una Giurisdizione Oggetto di Comunicazione» si intende una Persona Fisica o un’Entità che è residente in una Giurisdizione Oggetto di Comunicazione ai sensi della normativa fiscale di tale giurisdizione, o il patrimonio di un *de cuius* che era residente in una Giurisdizione Oggetto di Comunicazione. A tal fine, un’Entità come una società di persone, una società a responsabilità limitata o un analogo dispositivo giuridico, che non abbia un luogo di residenza ai fini fiscali è considerata come residente nella giurisdizione in cui è situata la sua sede di direzione effettiva.
 - 4\. Per «Giurisdizione Oggetto di Comunicazione» si intende la Svizzera, in relazione a uno Stato membro, o uno Stato membro, in relazione alla Svizzera, nell’ambito dell’obbligo di fornire le informazioni specificate nella sezione I.
 - 5\.
@@ -717,13 +879,7 @@ D. Conto Oggetto di Comunicazione
 
   - a) qualsiasi Stato membro per quanto riguarda le comunicazioni alla Svizzera;
   - b) la Svizzera per quanto riguarda le comunicazioni a uno Stato membro; o
-  - c)
-
-    qualsiasi altra giurisdizione:
-
-    - i. con cui lo Stato membro in questione o la Svizzera, a seconda dei casi, ha concluso un accordo in base al quale l’altra giurisdizione fornirà le informazioni di cui alla sezione I, e
-    - ii. che figura in un elenco pubblicato da tale Stato membro o dalla Svizzera e notificato alla Svizzera, rispettivamente alla Commissione europea;
-
+  - c) qualsiasi altra giurisdizione: i) con cui lo Stato membro in questione o la Svizzera, a seconda dei casi, ha concluso un accordo in base al quale l’altra giurisdizione fornirà le informazioni di cui alla sezione I; e ii) che figura in un elenco pubblicato da tale Stato membro o dalla Svizzera.
   - d)
 
     per quanto riguarda gli Stati membri, qualsiasi altra giurisdizione:
@@ -786,6 +942,7 @@ E. Varie
   - d) i bilanci sottoposti a revisione, le informative commerciali ai terzi, le istanze di fallimento o le relazioni dell’autorità di regolamentazione del mercato mobiliare.
   - Per quanto riguarda i Conti Preesistenti di Entità, ciascuno Stato membro o la Svizzera può autorizzare le Istituzioni Finanziarie Tenute alla Comunicazione a utilizzare come Prove Documentali qualsiasi classificazione contenuta nei loro registri riguardante il Titolare del Conto determinata in base a un sistema standardizzato di codificazione industriale, registrata dall’Istituzione Finanziaria Tenuta alla Comunicazione secondo le sue consuete pratiche commerciali ai fini delle Procedure AML/KYC o per altre finalità di legge (diverse da quelle fiscali) e applicata da detta Istituzione Finanziaria Tenuta alla Comunicazione prima della data utilizzata per classificare il Conto Finanziario come Conto Preesistente, a condizione che l’Istituzione Finanziaria Tenuta alla Comunicazione non sia a conoscenza o abbia motivo di essere a conoscenza che tale classificazione è inesatta o inattendibile. Per «sistema standardizzato di codificazione industriale» si intende un sistema di codificazione utilizzato allo scopo di classificare le imprese in base alla tipologia di attività esercitata per finalità diverse da quelle fiscali.
   - Prima dell’entrata in vigore del protocollo di modifica firmato il 27 maggio 2015, gli Stati membri comunicano alla Svizzera e la Svizzera comunica alla Commissione europea se è stata esercitata l’opzione di cui al presente comma. La Commissione europea può coordinare la trasmissione della comunicazione dagli Stati membri alla Svizzera e la Commissione europea trasmette la comunicazione dalla Svizzera agli Stati membri. Tutte le eventuali modifiche dell’esercizio di quest’opzione da parte di uno Stato membro o della Svizzera vengono comunicate nello stesso modo.
+  - 7\. Per «Servizio di Verifica Statale» si intende un processo elettronico messo a disposizione di un’Istituzione Finanziaria Tenuta alla Comunicazione da una Giurisdizione Oggetto di Comunicazione al fine di accertare l’identità e la residenza fiscale del Titolare di Conto o di una Persona che Esercita il Controllo.
 
 ### Sezione IX: Efficace attuazione
 
@@ -796,6 +953,10 @@ Ciascuno Stato membro e la Svizzera sono tenuti ad adottare norme e procedure am
 - 3\. procedure amministrative intese a verificare il rispetto delle procedure di comunicazione e di adeguata verifica in materia fiscale da parte delle Istituzioni Finanziarie Tenute alla Comunicazione; procedure amministrative intese a monitorare un’Istituzione Finanziaria Tenuta alla Comunicazione nel caso di conti non documentati;
 - 4\. procedure amministrative intese a garantire che le Entità e i conti definiti nel diritto nazionale come Istituzioni Finanziarie Non Tenute alla Comunicazione e Conti Esclusi continuino a presentare un rischio ridotto di essere utilizzati a fini di evasione fiscale; e
 - 5\. efficaci disposizioni di attuazione per affrontare i casi di non conformità.
+
+### Sezione X: Misure transitorie
+
+Nonostante la sezione I, parte A, punto 1, lettera b), e parte A, punto 6*a*, in relazione a ciascun Conto Oggetto di Comunicazione detenuto presso un’Istituzione Finanziaria Tenuta alla Comunicazione al 31 dicembre che precede la data di applicazione provvisoria del protocollo di modifica del 20 ottobre 2025 e per i periodi di rendicontazione che terminano il secondo anno solare successivo a tale data, le informazioni relative al ruolo o ai ruoli in virtù dei quali ciascuna Persona Oggetto di Comunicazione è una Persona che Esercita il Controllo o un detentore di una Quota nel Capitale di Rischio dell’Entità devono essere comunicate solo se tali informazioni sono disponibili nei dati consultabili elettronicamente conservati dall’Istituzione Finanziaria Tenuta alla Comunicazione.
 
 Allegato II
 
@@ -831,9 +992,11 @@ Allegato II
 - 6\. Indirizzo della sede principale dell’Entità
 - Uno dei requisiti di cui all’allegato I, sezione VIII, parte E, punto 6, lettera c), prevede che, con riferimento a un’Entità, la documentazione ufficiale comprenda l’indirizzo della sede principale dell’Entità nello Stato membro, in Svizzera o in altra giurisdizione in cui l’Entità stessa dichiara di essere residente o nello Stato membro, in Svizzera o in altra giurisdizione in cui essa è costituita o organizzata. L’indirizzo della sede principale dell’Entità è generalmente il luogo in cui è situata la sede di direzione effettiva. L’indirizzo dell’Istituzione Finanziaria presso cui l’Entità intrattiene un conto, una casella postale o un indirizzo utilizzato esclusivamente a fini postali non è l’indirizzo della sede principale dell’Entità, a meno che tale indirizzo sia l’unico utilizzato dall’Entità e figuri come sede legale nei documenti organizzativi dell’Entità stessa. Inoltre, un indirizzo fornito subordinatamente a istruzioni miranti a conservare tutta la posta all’indirizzo stesso non è l’indirizzo della sede principale dell’Entità.
 
-Allegato III
+Allegato III[^t-6]
 
 ## Elenco delle Autorità Competenti delle Parti Contraenti
+
+[^t-6]: Aggiornato dall’art. 1 cpv. 12 del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
 
 Le Autorità Competenti ai fini del presente accordo sono:
 
@@ -864,8 +1027,7 @@ Le Autorità Competenti ai fini del presente accordo sono:
 - y) nella Repubblica di Slovenia: Minister za finance o un mandatario;
 - z) nella Repubblica slovacca: Minister financií o un mandatario;
 - aa) nella Repubblica di Finlandia: Valtiovarainministeriö/Finansministeriet o un mandatario;
-- ab) nel Regno di Svezia: Chefen för Finansdepartementet o un mandatario;,
-- ac) nel Regno Unito di Gran Bretagna e Irlanda del Nord e nei territori europei delle cui relazioni esterne è responsabile il Regno Unito: i Commissioners of Inland Revenue o i loro rappresentanti autorizzati e le Autorità Competenti di Gibilterra, che il Regno Unito designerà in conformità degli Accordi conclusi con riguardo alle autorità di Gibilterra nel contesto degli strumenti dell’UE e della CE e dei relativi trattati, come notificati agli Stati membri e alle istituzioni dell’Unione europea il 19 aprile 2000, una copia dei quali viene notificata alla Svizzera dal Segretario generale del Consiglio dell’Unione europea ai fini dell’applicazione anche al presente accordo.
+- ab) nel Regno di Svezia: Chefen för Finansdepartementet o un mandatario.
 
 ## Protocollo
 
@@ -889,17 +1051,21 @@ In occasione della firma del presente protocollo di modifica tra la Confederazio
 
 ## Dichiarazioni delle parti contraenti
 
+[^annexIII-lvlu3-1]
+
+[^annexIII-lvlu3-1]: Aggiornato dall’art. 1 cpv. 13 e 14 del Prot. del 20 ott. 2025, applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
 ### Dichiarazione congiunta delle parti contraenti relativa all’entrata in vigore del protocollo di modifica
 
 Le parti contraenti si aspettano che i requisiti previsti dalla Costituzione della Svizzera e dal diritto dell’Unione per quanto riguarda l’entrata in vigore degli accordi internazionali saranno soddisfatti in tempo utile affinché il protocollo di modifica possa entrare in vigore il 1° gennaio 2017. Esse adotteranno tutte le misure in loro potere per conseguire tale obiettivo.
 
 ### Dichiarazione congiunta delle parti contraenti relativa all’accordo e agli allegati
 
-Le parti contraenti convengono che i commenti sul modello di accordo tra Autorità Competenti e sullo standard comune di comunicazione di informazioni elaborato dall’OCSE dovrebbero essere una fonte illustrativa o interpretativa allo scopo di assicurare un’applicazione coerente dell’accordo e degli allegati.
+Le parti contraenti convengono, per quanto riguarda l’attuazione dell’accordo e degli allegati quali modificati dal protocollo di modifica del 20 ottobre 2025, che i commenti sul modello di accordo tra autorità competenti e sullo standard comune di comunicazione di informazioni elaborato dall’OCSE, nonché i commenti all’addendum del 2023 al modello di accordo tra autorità competenti elaborato dall’OCSE e all’aggiornamento del 2023 dello standard comune di comunicazione di informazioni, dovrebbero essere una fonte illustrativa o interpretativa allo scopo di assicurare un’applicazione coerente dell’accordo e degli allegati.
 
 ### Dichiarazione congiunta delle parti contraenti relativa all’articolo 5 dell’accordo
 
-Le parti contraenti convengono che il commento all’articolo 26 del modello di convenzione dell’OCSE per la tassazione del reddito e del patrimonio dovrebbe essere una fonte di interpretazione per l’applicazione dell’articolo 5 relativo allo scambio di informazioni su richiesta.
+Le parti contraenti convengono che l’articolo 5 dell’accordo è allineato al più recente standard dell’OCSE sulla trasparenza e lo scambio di informazioni in materia fiscale sancito all’articolo 26 del modello di convenzione fiscale dell’OCSE. Le parti contraenti convengono pertanto che il commento all’articolo 26 del modello di convenzione fiscale dell’OCSE sui redditi e sul patrimonio dovrebbe essere una fonte di interpretazione per l’applicazione dell’articolo 5.
 
 ### Dichiarazione congiunta delle parti contraenti relativa alla sezione III, parte A, dell’allegato I dell’accordo
 

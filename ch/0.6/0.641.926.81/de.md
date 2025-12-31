@@ -3,11 +3,11 @@ sr: "0.641.926.81"
 title: "Abkommen vom 26. Oktober 2004 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Union über den automatischen Informationsaustausch über Finanzkonten zur Förderung der Steuerehrlichkeit bei internationalen Sachverhalten (mit Anhängen, Prot., Memorandum und Erkl.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/444"
 language: de
-version: 2017-01-01
+version: 2026-01-01
 adopted: 2004-10-26
 in_force: 2005-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/444/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2005-444-20170101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/444/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/444/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2005-444-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/444/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -30,10 +30,10 @@ Von der Bundesversammlung genehmigt am 17. Juni 2016[^t-4]
 
 In Kraft getreten durch Notenaustausch am 1. Januar 2017
 
-(Stand am 1. Januar 2017)
+(Stand am 1. Januar 2026)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 17. Dez. 2004 ([AS 2005 2557](https://fedlex.data.admin.ch/eli/oc/2005/443)).
-[^t-2]: Angewendet ab dem 1. Juli 2005 gemäss dem letzten Abs. des Abk. in Form eines Briefwechsels vom 26. Okt. 2004 zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Zeitpunkt der Anwendung des Abkommens zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über Regelungen, die den in der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinserträgen festgelegten Regelungen gleichwertig sind ([SR 0.641.926.811](https://fedlex.data.admin.ch/eli/cc/2005/445)).
+[^t-2]: Angewendet ab dem 1. Juli 2005 gemäss dem letzten Abs. des Abk. in Form eines Briefwechsels vom 26. Okt. 2004 zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Zeitpunkt der Anwendung des Abkommens zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über Regelungen, die den in der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinserträgen festgelegten Regelungen gleichwertig sind ([SR 0.641.926.811](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2472)).
 [^t-3]: [AS 2016 5003](https://fedlex.data.admin.ch/eli/oc/2016/804); [BBl 2015 9199](https://fedlex.data.admin.ch/eli/fga/2015/2144)
 [^t-4]: [AS 2016 5001](https://fedlex.data.admin.ch/eli/oc/2016/803)
 
@@ -70,11 +70,14 @@ sind wie folgt übereingekommen:
 - i) «Mitgliedstaatliches Meldepflichtiges Konto» ein von einem Meldenden Schweizerischen Finanzinstitut geführtes Finanzkonto, dessen Kontoinhaber eine oder mehrere Meldepflichtige Personen eines Mitgliedstaats sind oder ein passiver NFE, der von einer oder mehreren Meldepflichtigen Personen eines Mitgliedstaats beherrscht wird;
 - j) «Schweizerisches Meldepflichtiges Konto» ein von einem Meldenden Mitgliedstaatlichen Finanzinstitut geführtes Finanzkonto, dessen Kontoinhaber eine oder mehrere Schweizerische Meldepflichtige Personen sind oder ein Passiver NFE, der von einer oder mehreren Schweizerischen Meldepflichtigen Personen beherrscht wird;
 - k) «Person eines Mitgliedstaats» eine natürliche Person oder einen Rechtsträger, die beziehungsweise der von einem Meldenden Schweizerischen Finanzinstitut anhand von Verfahren zur Erfüllung der Sorgfaltspflichten nach den Anhängen I und II als in einem Mitgliedstaat ansässig identifiziert wird, oder einen Nachlass einer in einem Mitgliedstaat ansässigen Person;
-- l) «Schweizerische Person» eine natürliche Person oder einen Rechtsträger, die beziehungsweise der von einem Meldenden Mitgliedstaatlichen Finanzinstitut anhand von Verfahren zur Erfüllung der Sorgfaltspflichten nach den Anhängen I und II als in der Schweiz ansässig identifiziert wird, oder einen Nachlass einer in der Schweiz ansässigen Person.
+- l) «Schweizerische Person» eine natürliche Person oder einen Rechtsträger, die beziehungsweise der von einem Meldenden Mitgliedstaatlichen Finanzinstitut anhand von Verfahren zur Erfüllung der Sorgfaltspflichten nach den Anhängen I und II als in der Schweiz ansässig identifiziert wird, oder einen Nachlass einer in der Schweiz ansässigen Person;
+- m)[^1-1] «Melderahmen für Kryptowerte» den von der OECD mit den G20-Ländern entwickelten und von der OECD am 26. August 2022 gebilligten internationalen Rahmen für den automatischen Austausch von Informationen über Kryptowerte (einschliesslich der Kommentare);
+- n)–t)[^1-2] …
+- u)[^1-3] «Gemischter Ausschuss» den Ausschuss, der für das reibungslose Funktionieren und die ordnungsgemässe Durchführung des Titels 2 gemäss Artikel 4*p* verantwortlich ist.
 
 \2) Jeder in diesem Abkommen nicht anderweitig definierte grossgeschriebene Ausdruck hat die Bedeutung, die ihm zum jeweiligen Zeitpunkt:
 
-- i) für die Mitgliedstaaten nach der Richtlinie 2011/16/EU über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung[^1-1] oder gegebenenfalls nach dem innerstaatlichen Recht des Mitgliedstaats, der das Abkommen anwendet; und
+- i) für die Mitgliedstaaten nach der Richtlinie 2011/16/EU über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung[^1-4] oder gegebenenfalls nach dem innerstaatlichen Recht des Mitgliedstaats, der das Abkommen anwendet; und
 - ii) für die Schweiz nach ihrem innerstaatlichen Recht zukommt, wobei diese Bedeutung mit der in den Anhängen I und II festgelegten Bedeutung übereinstimmt.
 
 Jeder in diesem Abkommen oder in den Anhängen I und II nicht anderweitig definierte Ausdruck hat, sofern der Zusammenhang nichts anderes erfordert oder die Zuständigen Behörden eines Mitgliedstaats und die Zuständigen Behörden der Schweiz sich nicht gemäss Artikel 7 (im Rahmen ihres innerstaatlichen Rechts) auf eine gemeinsame Bedeutung einigen, die Bedeutung, die ihm zum jeweiligen Zeitpunkt nach dem Recht des dieses Abkommen anwendenden Staates:
@@ -82,7 +85,10 @@ Jeder in diesem Abkommen oder in den Anhängen I und II nicht anderweitig defini
 - i) für die Mitgliedstaaten nach der Richtlinie 2011/16/EU über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung oder gegebenenfalls nach dem innerstaatlichen Recht des betreffenden Mitgliedstaats; und
 - ii) für die Schweiz nach ihrem innerstaatlichen Recht zukommt, wobei die Bedeutung nach dem in dem betreffenden Staat (einem Mitgliedstaat oder der Schweiz) geltenden Steuerrecht Vorrang hat vor einer Bedeutung, die dem Ausdruck nach dem sonstigen Recht dieses Staates zukommt.
 
-[^1-1]: ABl. L 64 vom 11.3.2011, S. 1.
+[^1-1]: Eingefügt durch Art. 1 Abs. 4 des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^1-2]: Treten zu einem späteren Zeitpunkt in Kraft ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^1-3]: Eingefügt durch Art. 1 Abs. 4 des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^1-4]: ABl. L 64 vom 11.3.2011, S. 1.
 
 #### Art. 2
 
@@ -94,8 +100,15 @@ Jeder in diesem Abkommen oder in den Anhängen I und II nicht anderweitig defini
 
 Die auszutauschenden Informationen sind im Fall eines Mitgliedstaats in Bezug auf jedes schweizerische meldepflichtige Konto und im Fall der Schweiz in Bezug auf jedes mitgliedstaatliche meldepflichtige Konto:
 
-- a) Name, Anschrift, Steueridentifikationsnummer, Geburtsdatum und -ort (bei natürlichen Personen) jeder meldepflichtigen Person, die Inhaber des Kontos ist, sowie bei einem Rechtsträger, der Kontoinhaber ist und für den nach Anwendung von Verfahren zur Erfüllung der Sorgfaltspflichten nach den Anhängen I und II eine oder mehrere beherrschende Personen ermittelt wurden, die meldepflichtige Personen sind, Name, Anschrift und Steueridentifikationsnummer des Rechtsträgers sowie Name, Anschrift, Steueridentifikationsnummer, Geburtsdatum und -ort jeder meldepflichtigen Person;
-- b) Kontonummer (oder funktionale Entsprechung, wenn keine Kontonummer vorhanden);
+- a)[^2-1]
+
+  Folgende:
+
+  - i) Name, Anschrift, Steueridentifikationsnummer(n) sowie Geburtsdatum und -ort (bei natürlichen Personen) jeder meldepflichtigen Person, die Kontoinhaber des Kontos ist, und ob der Kontoinhaber eine gültige Selbstauskunft vorgelegt hat,
+  - ii) bei einem Rechtsträger, der Kontoinhaber ist und für den nach Anwendung von Verfahren zur Erfüllung der Sorgfaltspflichten nach den Anhängen I und II eine oder mehrere beherrschende Personen ermittelt wurden, die meldepflichtige Personen sind, Name, Anschrift und Steueridentifikationsnummer(n) des Rechtsträgers sowie Name, Anschrift, Steueridentifikationsnummer(n) und Geburtsdatum und -ort jeder meldepflichtigen Person sowie die Rolle(n), aufgrund derer jede meldepflichtige Person eine beherrschende Person des Rechtsträgers ist, und ob für jede meldepflichtige Person eine gültige Selbstauskunft vorgelegt wurde, und
+  - iii) ob das Konto ein Gemeinschaftskonto ist, einschliesslich der Anzahl der Kontoinhaber des Gemeinschaftskontos;
+
+- b)[^2-2] die Kontonummer (oder funktionale Entsprechung, wenn keine Kontonummer vorhanden ist), die Art des Kontos und ob es sich beim Konto um ein bestehendes Konto oder ein Neukonto handelt;
 - c) Name und (gegebenenfalls) Identifikationsnummer des meldenden Finanzinstituts;
 - d) Kontosaldo oder -wert (einschliesslich des Barwerts oder Rückkaufwerts bei rückkaufsfähigen Versicherungs- oder Rentenversicherungsverträgen) zum Ende des betreffenden Kalenderjahrs oder eines anderen geeigneten Meldezeitraums oder, wenn das Konto im Laufe des Jahres beziehungsweise Zeitraums aufgelöst wurde, die Auflösung des Kontos;
 - e)
@@ -105,8 +118,16 @@ Die auszutauschenden Informationen sind im Fall eines Mitgliedstaats in Bezug au
   - i) Gesamtbruttobetrag der Zinsen, Gesamtbruttobetrag der Dividenden und Gesamtbruttobetrag anderer Einkünfte, die mittels der auf dem Konto vorhandenen Vermögenswerte erzielt und jeweils auf das Konto (oder in Bezug auf das Konto) im Laufe des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums eingezahlt oder dem Konto gutgeschrieben wurden, sowie
   - ii) Gesamtbruttoerlöse aus der Veräusserung oder dem Rückkauf von Finanzvermögen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden und für die das meldende Finanzinstitut als Verwahrstelle, Makler, Bevollmächtigter oder anderweitig als Vertreter für den Kontoinhaber tätig war;
 
-- f) bei Einlagenkonten der Gesamtbruttobetrag der Zinsen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden; und
+- f) bei Einlagenkonten der Gesamtbruttobetrag der Zinsen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden;
+- f*a*)[^2-3] bei Eigenkapitalbeteiligung an einem Investmentunternehmen, das ein Rechtsgebilde ist, die Rolle(n), aufgrund derer die meldepflichtige Person Inhaberin einer Eigenkapitalbeteiligung ist; und
 - g) bei allen Konten, die nicht unter Buchstabe e oder f fallen, der Gesamtbruttobetrag, der in Bezug auf das Konto während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber gezahlt oder ihm gutgeschrieben wurde und für den das meldende Finanzinstitut Schuldner ist, einschliesslich der Gesamthöhe aller Einlösungsbeträge, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber geleistet wurden.
+
+<sup>3.</sup> Ungeachtet des Absatzes 2 Buchstabe e Ziffer ii sind die Bruttoerlöse aus der Veräusserung oder dem Rückkauf von Finanzvermögen nicht zu melden, soweit diese Bruttoerlöse aus der Veräusserung oder dem Rückkauf eines solchen Finanzvermögens von der zuständigen Behörde der Schweiz mit der zuständigen Behörde eines Mitgliedstaats oder von der zuständigen Behörde eines Mitgliedstaats mit der zuständigen Behörde der Schweiz im Rahmen des Melderahmens für Kryptowerte ausgetauscht werden, es sei denn, das meldende Finanzinstitut hat nach Anhang I Abschnitt I Unterabschnitt F jeweils für eine eindeutig identifizierte Gruppe dieser Konten anderweitig entschieden.[^2-4]
+
+[^2-1]: Fassung gemäss Art. 1 Abs. 6 Bst. a Ziff. i des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^2-2]: Fassung gemäss Art. 1 Abs. 6 Bst. a Ziff. i des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^2-3]: Eingefügt durch Art. 1 Abs. 6 Bst. a Ziff. iii des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^2-4]: Eingefügt durch Art. 1 Abs. 6 Bst. b des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
 
 #### Art. 3
 
@@ -118,15 +139,97 @@ Die auszutauschenden Informationen sind im Fall eines Mitgliedstaats in Bezug au
 
 <sup>3.</sup> Im Hinblick auf Artikel 2 Absatz 2 sind für das erste Jahr, das mit Inkrafttreten des am 27. Mai 2015 unterzeichneten Änderungsprotokolls beginnt, und alle Folgejahre Informationen auszutauschen; der Austausch erfolgt innerhalb von neun Monaten nach Ablauf des Kalenderjahrs, auf das sie sich beziehen.
 
-<sup>4.</sup> Die zuständigen Behörden tauschen die in Artikel 2 beschriebenen Informationen automatisch in einem XML-Schema für den gemeinsamen Meldestandard aus.
+3*a*. Ungeachtet des Absatzes 3 sind für Konten, die allein aufgrund der mit dem Änderungsprotokoll vom 20. Oktober 2025 vorgenommenen Änderungen an diesem Abkommen als meldepflichtiges Konto behandelt werden, und – hinsichtlich aller meldepflichtiger Konten – für die zusätzlichen Informationen, die gemäss den mit diesem Änderungsprotokoll an Artikel 2 Absatz 2 vorgenommenen Änderungen auszutauschen sind, die Informationen für das erste Jahr ab dem Datum der vorläufigen Anwendung dieses Änderungsprotokolls und für alle nachfolgenden Jahre auszutauschen.[^3-1]
 
-<sup>5.</sup> Die zuständigen Behörden verständigen sich über ein oder mehrere Datenübertragungsverfahren einschliesslich Verschlüsselungsstandards.
+3*b*. Ungeachtet der Absätze 3 und 3a müssen für jedes meldepflichtige Konto, das ab dem 31. Dezember des Jahres vor dem Datum der vorläufigen Anwendung des Änderungsprotokolls vom 20. Oktober 2025 von einem meldepflichtigen Finanzinstitut geführt wird, und für Berichtszeiträume, die mit dem zweiten Kalenderjahr nach diesem Datum enden, Angaben über die Rolle(n), aufgrund derer jede meldepflichtige Person eine beherrschende Person oder eine Inhaberin einer Eigenkapitalbeteiligung am Rechtsträger ist, ausgetauscht werden, wenn diese vom meldepflichtigen Finanzinstitut im Einklang mit Anhang I Abschnitt I Unterabschnitt A Absatz 1 Buchstabe b sowie Unterabschnitt A Absatz 6*a* gemeldet werden.[^3-2]
+
+<sup>4.</sup> Die zuständigen Behörden tauschen die in Artikel 2 beschriebenen Informationen automatisch in einem XML-Schema für den gemeinsamen Meldestandard aus, indem sie das von der OECD gebilligte gemeinsame Übertragungssystem oder jedes andere geeignete Datenübertragungssystem, das künftig beschlossen werden könnte, nutzen.[^3-3]
+
+<sup>5.</sup> …[^3-4]
+
+[^3-1]: Eingefügt durch Art. 1 Abs. 7 Bst. a des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^3-2]: Eingefügt durch Art. 1 Abs. 7 Bst. a des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^3-3]: Fassung gemäss Art. 1 Abs. 7 Bst. b des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+[^3-4]: Aufgehoben durch Art. 1 Abs. 7 Bst. c des Prot. vom 20. Okt. 2025, vorläufig nicht mehr angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
 
 #### Art. 4
 
 **Zusammenarbeit bei der Einhaltung und Durchsetzung des Abkommens**
 
 Die zuständige Behörde eines Mitgliedstaats unterrichtet die zuständige Behörde der Schweiz und die zuständige Behörde der Schweiz unterrichtet die zuständige Behörde eines Mitgliedstaats, wenn die erstgenannte (unterrichtende) zuständige Behörde Grund zu der Annahme hat, dass ein Fehler zu einer unrichtigen oder unvollständigen Informationsübermittlung nach Artikel 2 geführt hat oder dass ein meldendes Finanzinstitut die geltenden Meldepflichten und Verfahren zur Erfüllung der Sorgfaltspflichten nach den Anhängen I und II nicht einhält. Die unterrichtete zuständige Behörde ergreift sämtliche nach ihrem innerstaatlichen Recht zur Verfügung stehenden geeigneten Massnahmen, um gegen die in der Unterrichtung beschriebenen Fehler oder Fälle von Nichteinhaltung vorzugehen.
+
+## Titel 2: Amtshilfe bei der Beitreibung
+
+[^tit2-1]
+
+[^tit2-1]: Eingefügt durch Art. 1 Abs. 8 des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Kapitel 1: …
+
+#### Art. 4a–4c
+
+[^4a4c-1]
+
+[^4a4c-1]: Treten zu einem späteren Zeitpunkt in Kraft ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Kapitel 2: …
+
+#### Art. 4d
+
+[^4d-1]
+
+[^4d-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Kapitel 3: …
+
+#### Art. 4e
+
+[^4e-1]
+
+[^4e-1]: Tritt zu einem späteren Zeitpunkt in Kraft ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Kapitel 4: …
+
+#### Art. 4f–4o
+
+[^4f4o-1]
+
+[^4f4o-1]: Treten zu einem späteren Zeitpunkt in Kraft ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
+### Kapitel 5: Durchführung und Anwendung
+
+#### Art. 4p
+
+**Gemischter Ausschuss**
+
+<sup>1</sup> Die Vertragsparteien richten einen gemischten Ausschuss ein, der sich aus Vertretern der Vertragsparteien zusammensetzt. Der gemischte Ausschuss stellt sicher, dass dieser Titel ordnungsgemäss funktioniert und durchgeführt wird.
+
+<sup>2</sup>
+
+Der gemischte Ausschuss gibt Empfehlungen zur Förderung der Ziele dieses Titels ab und nimmt Beschlüsse an:
+
+- a. zur Annahme von Standardformblättern für die Kommunikation im Rahmen von Ersuchen nach diesem Titel und für die in Artikel 4*h* Absatz 1 und Artikel 4*k* Absatz 2 genannten einheitlichen Titel;
+- b. zur Verwendung der Sprachen in den Ersuchen, in den einheitlichen Titeln und in anderen Standardformblättern, die für die Amtshilfe nach diesem Titel verwendet werden, sowie in anderen begleitenden Dokumenten gemäss Artikel 4*h* und Artikel 4*k* Absatz 2;
+- c. zur Festlegung der Übermittlungswege für Ersuchen und Mitteilungen, wenn der gemischte Ausschuss der Auffassung ist, dass das von der OECD gebilligte gemeinsame Übertragungssystem nicht mehr für die Übermittlung von Ersuchen nach diesem Titel verwendet werden sollte;
+- d. zu Durchführungsbestimmungen zu den praktischen Modalitäten und Verwaltungsverfahren für die Organisation der in Artikel 4*c* genannten Kontaktstellen;
+- e. zu Vorschriften für die Umrechnung der beizutreibenden Beträge und die Überweisung der beigetriebenen Beträge;
+- f. zur Änderung der in diesem Titel enthaltenen Verweise auf Rechtsvorschriften der Europäischen Union und der Schweiz;
+- g. zur Festlegung und zum Erlass von Durchführungsbestimmungen über den Betrag, für den ein Staat nicht verpflichtet ist, Amtshilfe nach Artikel 4*m* Absatz 2 zu leisten;
+- h. zur Festlegung und zum Erlass von Regeln für die statistischen Daten, die von den Staaten im Zusammenhang mit der Anwendung dieses Titels zu erheben sind, und für den Zeitpunkt, bis zu dem die Vertragsparteien dem gemischten Ausschuss auf elektronischem Wege eine Liste dieser statistischen Daten zu übermitteln haben;
+- i. zur Festlegung und zum Erlass von Durchführungsbestimmungen über die praktischen Modalitäten und Verwaltungsverfahren für die Erledigung des Beitreibungsersuchens, einschliesslich Bestimmungen über Verzugszinsen und über Ratenzahlungsvereinbarungen für Schuldner;
+- j. zur Festlegung und zum Erlass von Durchführungsbestimmungen über die praktischen Modalitäten und Verwaltungsverfahren für die in Artikel 4*j* genannten Streitigkeiten;
+- k. zur Festlegung und zum Erlass von Durchführungsbestimmungen über die praktischen Modalitäten und Verwaltungsverfahren bei Änderungen oder Rücknahmen von Ersuchen um Amtshilfe bei der Beitreibung;
+- l. zur Festlegung eines Verfahrens für den Abschluss einer Dienstleistungsvereinbarung, das die technische Qualität und die Quantität der für das Funktionieren der Mitteilungs- und Informationsaustauschsysteme vorgesehenen Dienste sicherstellt, sowie im Bedarfsfall zum Abschluss einer Dienstleistungsvereinbarung.
+
+<sup>3</sup> Der gemischte Ausschuss arbeitet nach dem Prinzip der Einstimmigkeit der Vertragsparteien. Beschlüsse des gemischten Ausschusses sind für die Vertragsparteien verbindlich. Der gemischte Ausschuss gibt sich eine Geschäftsordnung.
+
+Die Vertragsparteien verpflichten sich, zu veranlassen, dass die in Absatz 2 genannten Beschlüsse innerhalb von 12 Monaten nach Inkrafttreten dieses Titels vom gemischten Ausschuss erlassen werden.
+
+Erzielen die Vertragsparteien keine Einigung über den Erlass der in Absatz 2 genannten Beschlüsse, so benennt jede Partei einen Vertreter und nimmt bilaterale Gespräche auf, um die noch offenen Fragen innerhalb von 12 Monaten gütlich beizulegen.
+
+<sup>4</sup> Der gemischte Ausschuss tritt mindestens einmal jährlich zusammen und überprüft alle fünf Jahre die Funktionsweise und die Wirksamkeit dieses Titels. Jede Vertragspartei kann die Einberufung einer Sitzung des Ausschusses beantragen. Den Vorsitz des gemischten Ausschusses führt abwechselnd eine der beiden Vertragsparteien. Datum, Ort und Tagesordnung der Sitzungen werden von den Vertragsparteien einvernehmlich festgelegt.
+
+<sup>5</sup> Wünscht eine Vertragspartei eine Änderung dieses Titels, so setzt sie den gemischten Ausschuss davon in Kenntnis. Änderungen an diesem Titel treten nach Abschluss der jeweiligen internen Verfahren in Kraft.
 
 #### Art. 5
 
@@ -226,16 +329,25 @@ Dieses Abkommen gilt für die Gebiete der Mitgliedstaaten, in denen der Vertrag 
 
 *Zu Urkund dessen* haben die unterzeichneten Bevollmächtigten ihre Unterschriften unter dieses Änderungsprotokoll gesetzt. Geschehen zu Brüssel am siebenundzwanzigsten Mai zweitausendfünfzehn. Für die Schweizerische Eidgenossenschaft: Jacques de Watteville Für die Europäische Union: Janis Reirs et Pierre Moscovici
 
-Anhang I
+Anhang I[^t-5]
 
 ## Gemeinsamer Melde- und Sorgfaltsstandard für Informationen über Finanzkonten («gemeinsamer Meldestandard»)
 
+[^t-5]: Bereinigt gemäss Art. 1 Abs. 11 des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
 ### Abschnitt I: Allgemeine Meldepflichten
 
-A. Vorbehaltlich der Unterabschnitte C bis E muss jedes meldende Finanzinstitut für jedes meldepflichtige Konto dieses meldenden Finanzinstituts der zuständigen Behörde seines Staates (eines Mitgliedstaats oder der Schweiz) die folgenden Informationen melden:
+A. Vorbehaltlich der Unterabschnitte C bis F muss jedes meldende Finanzinstitut für jedes meldepflichtige Konto dieses meldenden Finanzinstituts der zuständigen Behörde seines Staates (eines Mitgliedstaats oder der Schweiz) Folgendes melden:
 
-- 1\. Name, Anschrift, Ansässigkeitsstaat(en) (ein Mitgliedstaat oder die Schweiz), Steueridentifikationsnummer(n) sowie Geburtsdatum und -ort (bei natürlichen Personen) jeder meldepflichtigen Person, die Inhaber des Kontos ist, sowie bei einem Rechtsträger, der Kontoinhaber ist und für den nach Anwendung der Verfahren zur Erfüllung der Sorgfaltspflichten nach den Abschnitten V, VI und VII eine oder mehrere beherrschende Personen ermittelt wurden, die meldepflichtige Personen sind, Name, Anschrift, Ansässigkeitsstaat(en) (ein Mitgliedstaat, die Schweiz oder ein anderer Staat) und Steueridentifikationsnummer(n) des Rechtsträgers sowie Name, Anschrift, Ansässigkeitsstaat(en) (ein Mitgliedstaat oder die Schweiz), Steueridentifikationsnummer(n), Geburtsdatum und -ort jeder meldepflichtigen Person;
-- 2\. Kontonummer (oder funktionale Entsprechung, wenn keine Kontonummer vorhanden);
+- 1\.
+
+  die folgenden Informationen:
+
+  - a) Name, Anschrift, Ansässigkeitsstaat(en) (ein Mitgliedstaat oder die Schweiz), Steueridentifikationsnummer(n) sowie Geburtsdatum und -ort (bei natürlichen Personen) jeder meldepflichtigen Person, die Kontoinhaber des Kontos ist, und ob der Kontoinhaber eine gültige Selbstauskunft vorgelegt hat,
+  - b) sowie bei einem Rechtsträger, der Kontoinhaber ist und für den nach Anwendung der Verfahren zur Erfüllung der Sorgfaltspflichten nach den Abschnitten V, VI und VII eine oder mehrere beherrschende Personen ermittelt wurden, die meldepflichtige Personen sind, Name, Anschrift, Ansässigkeitsstaat(en) (ein Mitgliedstaat, die Schweiz oder ein anderer Staat) und Steueridentifikationsnummer(n) des Rechtsträgers sowie Name, Anschrift, Ansässigkeitsstaat(en) (ein Mitgliedstaat oder die Schweiz), Steueridentifikationsnummer(n) sowie Geburtsdatum und -ort jeder meldepflichtigen Person sowie die Rolle(n), aufgrund derer jede dieser meldepflichtigen Personen eine beherrschende Person des Rechtsträgers ist und ob jede meldepflichtige Person eine gültige Selbstauskunft vorgelegt hat, und
+  - c) ob das Konto ein Gemeinschaftskonto ist, einschliesslich der Anzahl der Kontoinhaber des Gemeinschaftskontos;
+
+- 2\. die Kontonummer (oder funktionale Entsprechung, wenn keine Kontonummer vorhanden ist), die Art des Kontos und ob es sich beim Konto um ein bestehendes Konto oder ein Neukonto handelt;
 - 3\. Name und (gegebenenfalls) Identifikationsnummer des meldenden Finanzinstituts;
 - 4\. Kontosaldo oder -wert (einschliesslich des Barwerts oder Rückkaufwerts bei rückkaufsfähigen Versicherungs- oder Rentenversicherungsverträgen) zum Ende des betreffenden Kalenderjahrs oder eines anderen geeigneten Meldezeitraums oder, wenn das Konto im Laufe des Jahres beziehungsweise Zeitraums aufgelöst wurde, die Auflösung des Kontos;
 - 5\.
@@ -245,16 +357,19 @@ A. Vorbehaltlich der Unterabschnitte C bis E muss jedes meldende Finanzinstitut 
   - a) Gesamtbruttobetrag der Zinsen, Gesamtbruttobetrag der Dividenden und Gesamtbruttobetrag anderer Einkünfte, die mittels der auf dem Konto vorhandenen Vermögenswerte erzielt und jeweils auf das Konto (oder in Bezug auf das Konto) im Laufe des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums eingezahlt oder dem Konto gutgeschrieben wurden, sowie
   - b) Gesamtbruttoerlöse aus der Veräusserung oder dem Rückkauf von Finanzvermögen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden und für die das meldende Finanzinstitut als Verwahrstelle, Makler, Bevollmächtigter oder anderweitig als Vertreter für den Kontoinhaber tätig war;
 
-- 6\. bei Einlagenkonten der Gesamtbruttobetrag der Zinsen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden; und
+- 6\. bei Einlagenkonten der Gesamtbruttobetrag der Zinsen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden;
+- 6*a*. bei Eigenkapitalbeteiligung an einem Investmentunternehmen, das ein Rechtsgebilde ist, die Rolle(n), aufgrund derer die meldepflichtige Person Inhaberin einer Eigenkapitalbeteiligung ist; und
 - 7\. bei allen anderen Konten, die nicht unter Unterabschnitt A Nummer 5 oder 6 fallen, der Gesamtbruttobetrag, der in Bezug auf das Konto während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber gezahlt oder ihm gutgeschrieben wurde und für den das meldende Finanzinstitut Schuldner ist, einschliesslich der Gesamthöhe aller Einlösungsbeträge, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber geleistet wurden.
 
 B. In den gemeldeten Informationen muss die Währung genannt werden, auf die die Beträge lauten.
 
-C. Ungeachtet des Unterabschnitts A Nummer 1 müssen Steueridentifikationsnummer(n) und Geburtsdatum in Bezug auf meldepflichtige Konten, die bestehende Konten sind, nicht gemeldet werden, wenn diese Steueridentifikationsnummer(n) beziehungsweise dieses Geburtsdatum nicht in den Unterlagen des meldenden Finanzinstituts enthalten ist und nicht nach innerstaatlichem Recht oder (falls anwendbar) anderen Rechtsinstrumenten der Europäischen Union von diesem meldenden Finanzinstitut zu erfassen sind. Ein meldendes Finanzinstitut ist jedoch verpflichtet, angemessene Anstrengungen zu unternehmen, um bei bestehenden Konten die Steueridentifikationsnummer(n) und das Geburtsdatum bis zum Ende des zweiten Kalenderjahrs, das dem Jahr folgt, in dem bestehende Konten als meldepflichtige Konten identifiziert wurden, zu beschaffen.
+C. Ungeachtet des Unterabschnitts A Nummer 1 müssen Steueridentifikationsnummer(n) und Geburtsdatum in Bezug auf meldepflichtige Konten, die bestehende Konten sind, nicht gemeldet werden, wenn diese Steueridentifikationsnummer(n) beziehungsweise dieses Geburtsdatum nicht in den Unterlagen des meldenden Finanzinstituts enthalten ist und nicht nach innerstaatlichem Recht oder (falls anwendbar) anderen Rechtsinstrumenten der Europäischen Union von diesem meldenden Finanzinstitut zu erfassen sind. Ein meldendes Finanzinstitut ist jedoch verpflichtet, angemessene Anstrengungen zu unternehmen, um in Bezug auf bestehende Konten die Steueridentifikationsnummer(n) und das Geburtsdatum bis zum Ende des zweiten Kalenderjahrs zu beschaffen, das auf das Jahr folgt, in dem bestehende Konten als meldepflichtige Konten identifiziert wurden, und wann immer es dazu verpflichtet ist, die Informationen über das bereits bestehende Konto gemäss den inländischen Verfahren zur Bekämpfung der Geldwäsche zu aktualisieren.
 
 D. Ungeachtet des Unterabschnitts A Nummer 1 ist die Steueridentifikations-nummer nicht zu melden, wenn von dem betreffenden Mitgliedstaat, der Schweiz oder einem anderen Ansässigkeitsstaat keine Steueridentifikationsnummer ausgegeben wird.
 
 E. Ungeachtet des Unterabschnitts A Nummer 1 ist der Geburtsort nicht zu melden, es sei denn, das meldende Finanzinstitut hat ihn nach innerstaatlichem Recht zu beschaffen und zu melden und er ist in den elektronisch durchsuchbaren Daten des meldenden Finanzinstituts verfügbar.
+
+F. Ungeachtet des Unterabschnitts A Nummer 5 Buchstabe b und sofern das meldende Finanzinstitut in Bezug auf eine eindeutig identifizierte Gruppe von Konten nicht anderweitig entscheidet, müssen die Bruttoerlöse aus der Veräusserung oder dem Rückkauf von Finanzvermögen nicht gemeldet werden, soweit diese Bruttoerlöse aus der Veräusserung oder dem Rückkauf dieses Finanzvermögens vom meldenden Finanzinstitut im Rahmen des Melderahmens für Kryptowerte gemeldet werden.
 
 ### Abschnitt II: Allgemeine Sorgfaltspflichten
 
@@ -402,7 +517,7 @@ A. Überprüfungsverfahren für die Identifizierung meldepflichtiger Konten von 
 
 - 2\. Feststellung, ob der Rechtsträger ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt. Bei einem Kontoinhaber eines Neukontos eines Rechtsträgers (einschliesslich eines Rechtsträgers, der eine meldepflichtige Person ist) muss das meldende Finanzinstitut feststellen, ob der Kontoinhaber ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt. Handelt es sich bei einer beherrschenden Person eines passiven NFE um eine meldepflichtige Person, so ist das Konto als meldepflichtiges Konto zu betrachten. Bei diesen Feststellungen muss das meldende Finanzinstitut die unter Unterabschnitt A Nummer 2 Buchstaben a bis c aufgeführten Leitlinien in der jeweils geeignetsten Reihenfolge befolgen.
   - a) Feststellung, ob der Kontoinhaber ein passiver NFE ist. Zur Feststellung, ob der Kontoinhaber ein passiver NFE ist, muss sich das meldende Finanzinstitut auf eine Selbstauskunft des Kontoinhabers zum Nachweis seines Status verlassen, es sei denn, das meldende Finanzinstitut kann anhand von in seinem Besitz befindlichen oder öffentlich verfügbaren Informationen in vertretbarer Weise feststellen, dass der Kontoinhaber ein aktiver NFE ist oder ein anderes Finanzinstitut als ein unter Abschnitt VIII Unterabschnitt A Nummer 6 Buchstabe b beschriebenes Investmentunternehmen, bei dem es sich nicht um ein Finanzinstitut eines teilnehmenden Staates handelt.
-  - b) Feststellung der beherrschenden Personen eines Kontoinhabers. Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäsche (AML/KYC) erhobenen und verwahrten Informationen verlassen.
+  - b) Feststellung der beherrschenden Personen eines Kontoinhabers. Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäsche erhobenen und verwahrten Informationen verlassen, solange diese im Einklang mit den FATF-Empfehlungen von 2012 stehen. Ist das meldende Finanzinstitut rechtlich nicht verpflichtet, die Verfahren zur Bekämpfung der Geldwäsche im Einklang mit den FATF-Empfehlungen von 2012 anzuwenden, wendet es zur Feststellung der beherrschenden Personen im Wesentlichen ähnliche Verfahren an.
   - c) Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist. Zur Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist, kann sich ein meldendes Finanzinstitut auf eine Selbstauskunft des Kontoinhabers oder dieser beherrschenden Person verlassen.
 
 ### Abschnitt VII: Besondere Sorgfaltsvorschriften
@@ -410,6 +525,8 @@ A. Überprüfungsverfahren für die Identifizierung meldepflichtiger Konten von 
 Bei der Durchführung der vorstehenden Verfahren zur Erfüllung der Sorgfaltspflichten gelten die folgenden zusätzlichen Vorschriften:
 
 A. Verlass auf Selbstauskünfte und Belege. Ein meldendes Finanzinstitut darf sich nicht auf eine Selbstauskunft oder auf Belege verlassen, wenn ihm bekannt ist oder bekannt sein müsste, dass die Selbstauskunft oder die Belege nicht zutreffend oder unglaubwürdig sind.
+
+A *a*. Vorübergehendes Fehlen einer Selbstauskunft. In Ausnahmefällen, in denen ein meldendes Finanzinstitut eine Selbstauskunft für ein Neukonto nicht rechtzeitig erhalten kann, wendet das meldende Finanzinstitut, um seinen Sorgfalts- und Meldepflichten in Bezug auf den Berichtszeitraum, in dem das Konto eröffnet wurde, nachzukommen, die Verfahren zur Erfüllung der Sorgfaltspflicht für bereits bestehende Konten an, bis diese Selbstauskunft erlangt und validiert ist.
 
 B. Alternative Verfahren für Finanzkonten begünstigter natürlicher Personen eines rückkaufsfähigen Versicherungsvertrags oder eines Rentenversicherungsvertrags und für rückkaufsfähige Gruppenversicherungsverträge oder Gruppenrentenversicherungsverträge. Ein meldendes Finanzinstitut kann davon ausgehen, dass eine begünstigte natürliche Person (mit Ausnahme des Eigentümers) eines rückkaufsfähigen Versicherungsvertrags oder eines Rentenversicherungsvertrags, die eine Todesfallleistung erhält, keine meldepflichtige Person ist, und dieses Finanzkonto als ein nicht meldepflichtiges Konto betrachten, es sei denn, dem meldenden Finanzinstitut ist bekannt oder müsste bekannt sein, dass der Begünstigte eine meldepflichtige Person ist. Einem meldenden Finanzinstitut müsste bekannt sein, dass ein Begünstigter eines rückkaufsfähigen Versicherungsvertrags oder eines Rentenversicherungsvertrags eine meldepflichtige Person ist, wenn die vom meldenden Finanzinstitut erhobenen und dem Begünstigten zugeordneten Informationen Indizien im Sinne des Abschnitts III Unterabschnitt B enthalten. Ist einem meldenden Finanzinstitut tatsächlich bekannt oder müsste ihm bekannt sein, dass der Begünstigte eine meldepflichtige Person ist, so muss das meldende Finanzinstitut die Verfahren in Abschnitt III Unterabschnitt B einhalten.
 
@@ -457,28 +574,49 @@ A. Meldendes Finanzinstitut
   - i) während des dreijährigen Zeitraums, der am 31. Dezember (oder dem letzten Tag eines nicht einem Kalenderjahr entsprechenden Abrechnungszeitraums) vor dem Bestimmungsjahr endet; oder
   - ii) während des Zeitraums des Bestehens des Rechtsträgers, je nachdem, welcher Zeitraum kürzer ist.
 
-- 5\. Der Ausdruck «Einlageninstitut» bedeutet einen Rechtsträger, der im Rahmen gewöhnlicher Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit Einlagen entgegennimmt.
+- 5\.
+
+  Der Ausdruck «Einlageninstitut» bedeutet einen Rechtsträger, der:
+
+  - a) im Rahmen gewöhnlicher Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit Einlagen entgegennimmt; oder
+  - b) spezifizierte elektronische Geldprodukte oder digitale Zentralbankwährungen zugunsten seiner Kunden hält.
+
 - 6\. Der Ausdruck «Investmentunternehmen» bedeutet einen Rechtsträger,
   - a)
 
     der gewerblich vorwiegend eine oder mehrere der folgenden Tätigkeiten für einen Kunden ausübt:
 
     - i) Handel mit Geldmarktinstrumenten (zum Beispiel Schecks, Wechsel, Einlagenzertifikate, Derivate), Devisen, Wechselkurs-, Zins- und Indexinstrumenten, übertragbaren Wertpapieren oder Warentermingeschäfte,
-    - ii) individuelle und kollektive Vermögensverwaltung oder
-    - iii) sonstige Arten der Anlage oder Verwaltung von Finanzvermögen oder Kapital im Auftrag Dritter;
+    - ii) individuelle und kollektive Vermögensverwaltung, oder
+    - iii) sonstige Arten der Anlage oder Verwaltung von Finanzvermögen, Kapital oder relevanten Kryptowerten im Auftrag Dritter; oder
 
-  - [tab] oder
-  - b) dessen Bruttoeinkünfte vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder dem Handel damit zuzurechnen sind, wenn der Rechtsträger von einem anderen Rechtsträger verwaltet wird, bei dem es sich um ein Einlageninstitut, ein Verwahrinstitut, eine spezifizierte Versicherungsgesellschaft oder ein unter Unterabschnitt A Nummer 6 Buchstabe a beschriebenes Investmentunternehmen handelt.
+  - b) dessen Bruttoeinkünfte vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder relevanten Kryptowerten oder dem Handel damit zuzurechnen sind, wenn der Rechtsträger von einem anderen Rechtsträger verwaltet wird, bei dem es sich um ein Einlageinstitut, ein Verwahrinstitut, eine spezifizierte Versicherungsgesellschaft oder ein unter Unterabschnitt A Nummer 6 Buchstabe a beschriebenes Investmentunternehmen handelt.
 
-Ein Rechtsträger übt gewerblich vorwiegend eine oder mehrere der unter Unterabschnitt A Nummer 6 Buchstabe a beschriebenen Tätigkeiten aus beziehungsweise die Bruttoeinkünfte eines Rechtsträgers sind vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder dem Handel damit im Sinne des Buchstaben b zuzurechnen, wenn die den entsprechenden Tätigkeiten zuzurechnenden Bruttoeinkünfte des Rechtsträgers mindestens 50 Prozent der Bruttoeinkünfte des Rechtsträgers entsprechen, und zwar entweder:
-
-- i) während des dreijährigen Zeitraums, der am 31. Dezember des Jahres vor dem Bestimmungsjahr endet; oder
-- ii) während des Zeitraums des Bestehens des Rechtsträgers, je nachdem, welcher Zeitraum kürzer ist. Der Ausdruck «Investmentunternehmen» umfasst nicht einen Rechtsträger, bei dem es sich aufgrund der Erfüllung der Kriterien in Unterabschnitt D Nummer 9 Buchstaben d bis g um einen aktiven NFE handelt.
-
-Dieser Unterabschnitt ist auf eine Weise auszulegen, die mit dem Wortlaut der Definition von «Finanzinstitut» in den Empfehlungen der Arbeitsgruppe Finanzielle Massnahmen gegen Geldwäsche («Financial Action Task Force on Money Laundering» – FATF) vereinbar ist.
-
-- 7\. Der Ausdruck «Finanzvermögen» umfasst Wertpapiere (zum Beispiel Anteile am Aktienkapital einer Kapitalgesellschaft, Beteiligungen oder wirtschaftliches Eigentum an den Beteiligungen an einer in Streubesitz befindlichen oder börsennotierten Personengesellschaft oder einem Trust sowie Obligationen, Anleihen, Schuldverschreibungen oder sonstige Schuldurkunden), Beteiligungen an Personengesellschaften, Warengeschäften, Swaps (zum Beispiel Zinsswaps, Währungsswaps, Basisswaps, Zinscaps, Zinsfloors, Warenswaps, Aktienswaps, Aktienindexswaps und ähnliche Vereinbarungen), Versicherungs- oder Rentenversicherungsverträge oder Beteiligungen (darunter börsengehandelte und nicht börsengehandelte Termingeschäfte und Optionen) an Wertpapieren, Beteiligungen an Personengesellschaften, Warengeschäften, Swaps oder Versicherungs- oder Rentenverträgen. Der Ausdruck «Finanzvermögen» umfasst keine nicht fremdfinanzierten unmittelbaren Immobilienbeteiligungen.
+- Ein Rechtsträger übt gewerblich vorwiegend eine oder mehrere der in Unterabschnitt A Nummer 6 Buchstabe a beschriebenen Tätigkeiten aus, beziehungsweise die Bruttoeinkünfte eines Rechtsträgers sind vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder relevanten Kryptowerten oder dem Handel damit im Sinne von Unterabschnitt A Nummer 6 Buchstabe b zuzurechnen, wenn die den entsprechenden Tätigkeiten zuzurechnenden Bruttoeinkünfte des Rechtsträgers mindestens 50 % der Bruttoeinkünfte des Rechtsträgers entsprechen, und zwar entweder: i) während des Dreijahreszeitraums, der am 31. Dezember des Jahres vor dem Bestimmungsjahr endet, oder ii) während des Zeitraums des Bestehens des Rechtsträgers, je nachdem, welcher Zeitraum kürzer ist. Für die Zwecke des Unterabschnitts A Nummer 6 Buchstabe a Ziffer iii schliesst der Ausdruck «sonstige Arten der Anlage oder Verwaltung von Finanzvermögen, Kapital oder relevanten Kryptowerten im Auftrag Dritter» nicht die Erbringung von Dienstleistungen ein, die Tauschgeschäfte für oder im Namen von Kunden bewirken. Der Ausdruck «Investmentunternehmen» umfasst nicht einen Rechtsträger, bei dem es sich aufgrund der Erfüllung der Kriterien in Unterabschnitt D Nummer 9 Buchstaben d bis g um einen aktiven NFE handelt.
+- Dieser Unterabschnitt ist auf eine Weise auszulegen, die mit dem Wortlaut der Definition von «Finanzinstitut» in den Empfehlungen der Arbeitsgruppe Finanzielle Massnahmen gegen Geldwäsche («Financial Action Task Force on Money Laundering» – FATF) vereinbar ist.
+- 7\. Der Ausdruck «Finanzvermögen» umfasst Wertpapiere (zum Beispiel Anteile am Aktienkapital einer Kapitalgesellschaft, Beteiligungen oder wirtschaftliches Eigentum an den Beteiligungen an einer in Streubesitz befindlichen oder börsennotierten Personalgesellschaft oder einem Trust sowie Obligationen, Anleihen, Schuldverschreibungen oder sonstige Schuldurkunden), Beteiligungen an Personengesellschaften, Warengeschäfte, Swaps (zum Beispiel Zinsswaps, Währungsswaps, Basisswaps, Zinscaps, Zinsfloors, Warenswaps, Aktienswaps, Aktienindexswaps und ähnliche Vereinbarungen), Versicherungs- oder Rentenversicherungsverträge oder Beteiligungen (darunter börsengehandelte und nicht börsengehandelte Termingeschäfte und Optionen) an Wertpapieren, relevanten Kryptowerten, Beteiligungen an Personengesellschaften, Warengeschäften, Swaps oder Versicherungs- oder Rentenversicherungsverträgen. Der Ausdruck «Finanzvermögen» umfasst keine nicht fremdfinanzierten unmittelbaren Immobilienbeteiligungen.
 - 8\. Der Ausdruck «spezifizierte Versicherungsgesellschaft» bedeutet einen Rechtsträger, bei dem es sich um eine Versicherungsgesellschaft (oder die Holdinggesellschaft einer Versicherungsgesellschaft) handelt, die einen rückkaufsfähigen Versicherungsvertrag oder einen Rentenversicherungsvertrag abschliesst oder zur Leistung von Zahlungen in Bezug auf einen solchen Vertrag verpflichtet ist.
+- 9\.
+
+  Der Ausdruck «spezifiziertes elektronisches Geldprodukt» bedeutet jedes Produkt, das:
+
+  - a) eine digitale Darstellung einer einzigen FIAT-Währung ist;
+  - b) gegen Zahlung eines Geldbetrags ausgegeben wird, um damit Zahlungsvorgänge durchzuführen;
+  - c) eine Forderung gegenüber dem Emittenten darstellt, die auf dieselbe FIAT-Währung lautet;
+  - d) von einer anderen natürlichen oder juristischen Person als dem Emittenten als Zahlungsmittel angenommen wird; und
+  - e) kraft der für den Emittenten geltenden regulatorischer Anforderungen auf Antrag des Inhabers des Produkts für dieselbe FIAT-Währung jederzeit und zum Nennwert zurückgenommen wird.
+
+- Der Ausdruck «spezifiziertes elektronisches Geldprodukt» umfasst keine Produkte, die ausschliesslich zum Zweck der Erleichterung der Übertragung von Geldmitteln von einem Kunden an eine andere Person gemäss den Anweisungen des Kunden geschaffen wurden. Ein Produkt wird nicht ausschliesslich zum Zweck der Erleichterung der Übertragung von Geldmitteln geschaffen, wenn die mit diesem Produkt verbundenen Geldmittel im Rahmen der normalen Geschäftstätigkeit des übertragenden Rechtsträgers entweder länger als 60 Tage nach Erhalt von Anweisungen zur Erleichterung der Übertragung gehalten werden oder die mit diesem Produkt verbundenen Geldmittel bei fehlenden Anweisungen länger als 60 Tage nach Erhalt dieser Geldmittel gehalten werden.
+- 10\. Der Ausdruck «digitale Zentralbankwährung» bedeutet jede digitale FIAT-Währung, die von einer Zentralbank oder einer anderen Währungsbehörde ausgegeben wird.
+- 11\. Der Ausdruck «FIAT-Währung» bedeutet die offizielle Währung eines Staates, die von einem Staat oder der von einem Staat bestimmten Zentralbank oder Währungsbehörde ausgegeben wird, und zwar in Form von physischen Banknoten oder Münzen oder Geld in verschiedenen digitalen Formen, einschliesslich Bankreserven und digitalen Zentralbankwährungen. Der Ausdruck umfasst auch Geschäftsbankgeld und elektronische Geld-Produkte (einschliesslich spezifizierter elektronischer Geldprodukte).
+- 12\. Der Ausdruck «Kryptowert» bezeichnet eine digitale Darstellung eines Wertes, der auf einer kryptografisch gesicherten Distributed-Ledger-Technologie oder einer ähnlichen Technologie beruht, um Transaktionen zu validieren und zu sichern.
+- 13\. Der Ausdruck «relevanter Kryptowert» bedeutet jegliche Kryptowerte, die keine digitale Zentralbankwährung, kein spezifiziertes elektronisches Geldprodukt oder keine Kryptowerte sind, für die der meldende Anbieter von Krypto-Dienstleistungen hinreichend festgestellt hat, dass sie nicht für Zahlungs- oder Investitionszwecke verwendet werden können.
+- 14\.
+
+  Der Ausdruck «Tauschgeschäft» bedeutet jeglichen:
+
+  - a) Tausch zwischen relevanten Kryptowerten und FIAT-Währungen; und
+  - b) Tausch zwischen einer oder mehreren Formen von relevanten Kryptowerten.
 
 B. Nicht meldendes Finanzinstitut
 
@@ -486,11 +624,18 @@ B. Nicht meldendes Finanzinstitut
 
   Der Ausdruck «nicht meldendes Finanzinstitut» bedeutet ein Finanzinstitut, bei dem es sich um Folgendes handelt:
 
-  - a) einen staatlichen Rechtsträger, eine internationale Organisation oder eine Zentralbank, ausser bei Zahlungen, die aus einer Verpflichtung im Zusammenhang mit gewerblichen Finanzaktivitäten stammen, die denen einer spezifizierten Versicherungsgesellschaft, eines Verwahr- oder eines Einlageninstituts entsprechen;
+  - a)
+
+    einen staatlichen Rechtsträger, eine internationale Organisation oder eine Zentralbank, ausser:
+
+    - i) bei Zahlungen, die aus einer Verpflichtung in Zusammenhang mit gewerblichen Finanzaktivitäten stammen, die denen einer spezifizierten Versicherungsgesellschaft, eines Verwahrinstituts oder eines Einlageninstituts entsprechen, oder
+    - ii) bei der Führung digitaler Zentralbankwährungen für Kontoinhaber, bei denen es sich nicht um Finanzinstitute, staatliche Rechtsträger, internationale Organisationen oder Zentralbanken handelt;
+
   - b) einen Altersvorsorgefonds mit breiter Beteiligung, einen Altersvorsorgefonds mit geringer Beteiligung, einen Pensionsfonds eines staatlichen Rechtsträgers, einer internationalen Organisation oder einer Zentralbank oder einen qualifizierten Kreditkartenanbieter;
   - c) einen sonstigen Rechtsträger, bei dem ein geringes Risiko besteht, dass er zur Steuerhinterziehung missbraucht wird, der im Wesentlichen ähnliche Eigenschaften wie die in Unterabschnitt B Nummer 1 Buchstaben a und b genannten Rechtsträger aufweist, nach innerstaatlichem Recht als nicht meldendes Finanzinstitut gilt und – in Bezug auf die Mitgliedstaaten – in der Liste nach Artikel 8 Absatz 7a der Richtlinie 2011/16/EU des Rates über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung aufgeführt ist und der Schweiz gemeldet wurde beziehungsweise – in Bezug auf die Schweiz – der Europäischen Kommission mitgeteilt wurde, sofern sein Status als nicht meldendes Finanzinstitut dem Zweck dieses Abkommens nicht entgegensteht;
-  - d) einen ausgenommenen Organismus für die gemeinsame Anlagen; oder
-  - e) einen Trust, soweit der Treuhänder des Trusts ein meldendes Finanzinstitut ist und sämtliche nach Abschnitt I zu meldenden Informationen zu sämtlichen meldepflichtigen Konten des Trusts meldet.
+  - d) einen ausgenommenen Organismus für die gemeinsame Anlagen;
+  - e) einen Trust, soweit der Treuhänder des Trusts ein meldendes Finanzinstitut ist und sämtliche nach Abschnitt I zu meldenden Informationen zu sämtlichen meldepflichtigen Konten des Trusts meldet; oder
+  - f) einen Schweizerischen qualifizierten gemeinnützigen Rechtsträger.
 
 - 2\. Der Ausdruck «staatlicher Rechtsträger» bedeutet die Regierung eines Mitgliedstaats, der Schweiz oder eines anderen Staates, eine Gebietskörperschaft eines Mitgliedstaats, der Schweiz oder eines anderen Staates (wobei es sich, um Zweifel auszuräumen, unter anderen um einen Gliedstaat, eine Provinz, einen Landkreis oder eine Gemeinde handeln kann) oder eine Behörde oder Einrichtung, die sich im Alleineigentum eines Mitgliedstaats, der Schweiz oder eines anderen Staates oder einer oder mehrerer Gebietskörperschaften befindet (jeweils ein «staatlicher Rechtsträger»). Diese Kategorie besteht aus den wesentlichen Instanzen, beherrschten Rechtsträgern und Gebietskörperschaften eines Mitgliedstaats, der Schweiz oder eines anderen Staates.
   - a) Eine «wesentliche Instanz» eines Mitgliedstaats, der Schweiz oder eines anderen Staates bedeutet unabhängig von ihrer Bezeichnung eine Person, eine Organisation, eine Behörde, ein Amt, einen Fonds, eine Einrichtung oder eine sonstige Stelle, die eine Regierungsbehörde eines Mitgliedstaats, der Schweiz oder eines anderen Staates darstellt. Die Nettoeinkünfte der Regierungsbehörde müssen ihrem eigenen Konto oder sonstigen Konten des Mitgliedstaats, der Schweiz oder eines anderen Staates gutgeschrieben werden, ohne dass ein Teil davon einer Privatperson zugutekommt. Eine wesentliche Instanz umfasst nicht eine natürliche Person, bei der es sich um einen in seiner Eigenschaft als Privatperson handelnden Regierungsvertreter, Beamten oder Verwalter handelt.
@@ -556,6 +701,16 @@ B. Nicht meldendes Finanzinstitut
   - c) der Organismus für gemeinsame Anlagen die in den Abschnitten II bis VII aufgeführten Verfahren zur Erfüllung der Sorgfaltspflichten durchführt und alle meldepflichtigen Informationen zu diesen Anteilen meldet, wenn diese zum Einlösen oder zu sonstiger Zahlung vorgelegt werden; und
   - d) der Organismus für gemeinsame Anlagen über Massnahmen und Verfahren verfügt, um sicherzustellen, dass die betreffenden Anteile so bald wie möglich und auf jeden Fall innerhalb von zwei Jahren nach dem Inkrafttreten des am 27. Mai 2015 unterzeichneten Änderungsprotokolls eingelöst werden oder nicht mehr verkehrsfähig sind.
 
+- 10\.
+
+  Der Ausdruck «Schweizerischer qualifizierter gemeinnütziger Rechtsträger» bedeutet einen in der Schweiz ansässigen Rechtsträger, der von einer zuständigen schweizerischen Behörde die Bestätigung erhalten hat, dass dieser Rechtsträger alle folgenden Bedingungen erfüllt:
+
+  - a) Er wird in der Schweiz ausschliesslich für religiöse, gemeinnützige, wissenschaftliche, künstlerische, kulturelle, sportliche oder erzieherische Zwecke errichtet und betrieben, oder er wird in der Schweiz errichtet und betrieben und ist ein Berufsverband, eine Vereinigung von Geschäftsleuten, eine Handelskammer, ein Arbeitnehmerverband, ein Landwirtschafts- oder Gartenbauverband, eine Bürgervereinigung oder eine Organisation, die ausschliesslich zur Förderung der sozialen Wohlfahrt betrieben wird.
+  - b) Er ist in der Schweiz von der Einkommensteuer befreit.
+  - c) Er hat keine Anteilseigner oder Mitglieder, die Eigentums- oder Nutzungsrechte an seinen Einkünften oder Vermögenswerten haben;
+  - d) Nach dem geltenden Recht der Schweiz oder den Gründungsunterlagen des Rechtsträgers dürfen die Einkünfte und Vermögenswerte des Rechtsträgers nicht an eine Privatperson oder einen nicht gemeinnützigen Rechtsträger ausgeschüttet werden, ausser in Übereinstimmung mit der Ausübung der gemeinnützigen Tätigkeit des Rechtsträgers oder als Zahlung einer angemessenen Vergütung für erbrachte Leistungen oder als Zahlung in Höhe des entsprechenden Marktwerts eines vom Rechtsträger erworbenen Vermögensgegenstands; und
+  - e) nach dem geltenden Recht der Schweiz oder den Gründungsunterlagen des Rechtsträgers müssen bei der Liquidation oder Auflösung des Rechtsträgers alle seine Vermögenswerte an einen staatlichen Rechtsträger oder eine andere Organisation verteilt werden, die die in den Buchstaben a bis e genannten Bedingungen erfüllen oder der Regierung der Schweiz oder einer ihrer Gebietskörperschaften anheimfallen.
+
 C. Finanzkonto
 
 - 1\.
@@ -573,7 +728,14 @@ C. Finanzkonto
   - c) von einem Finanzinstitut ausgestellte oder verwaltete rückkaufsfähige Versicherungsverträge und Rentenversicherungsverträge, mit Ausnahme von nicht mit einer Kapitalanlage verbundenen und nicht übertragbaren sofortigen Leibrenten, die auf natürliche Personen lauten und eine Altersvorsorge- oder Invaliditätsleistung monetisieren, die aufgrund eines Kontos erbracht wird, bei dem es sich um ein ausgenommenes Konto handelt.
 
 - Der Ausdruck «Finanzkonto» umfasst keine Konten, bei denen es sich um ausgenommene Konten handelt.
-- 2\. Der Ausdruck «Einlagenkonto» umfasst Geschäfts-, Giro-, Spar- und Terminkonten sowie Konten, die durch Einlagenzertifikate, Sparbriefe, Investmentzertifikate, Schuldtitel oder vergleichbare Instrumente verbrieft sind, die von einem Finanzinstitut im Rahmen gewöhnlicher Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit geführt werden. Ein Einlagenkonto umfasst auch Beträge, die von einer Versicherungsgesellschaft aufgrund eines garantierten Kapitalanlagevertrags oder einer ähnlichen Vereinbarung zur Zahlung oder Gutschrift von Zinsen auf diese Beträge gehalten werden.
+- 2\.
+
+  Der Ausdruck «Einlagenkonto» umfasst Geschäfts-, Giro-, Spar- und Terminkonten sowie Konten, die durch Einlagenzertifikate, Sparbriefe, Investmentzertifikate, Schuldtitel oder vergleichbare Instrumente verbrieft sind, die von einem Einlageninstitut geführt werden. Ein Einlagenkonto umfasst auch:
+
+  - a) Beträge, die von einer Versicherungsgesellschaft aufgrund eines garantierten Kapitalanlagevertrags oder einer ähnlichen Vereinbarung zur Zahlung oder Gutschrift von Zinsen auf diese Beträge gehalten werden;
+  - b) ein Konto oder ein fiktives Konto, das sämtliche spezifizierten elektronischen Geldprodukte repräsentiert, die zugunsten eines Kunden gehalten werden; und
+  - c) ein Konto, auf dem eine oder mehrere digitale Zentralbankwährungen zugunsten eines Kunden gehalten werden.
+
 - 3\. Der Ausdruck «Verwahrkonto» bedeutet ein Konto (nicht jedoch einen Versicherungs- oder Rentenversicherungsvertrag), in dem Finanzvermögen zugunsten eines Dritten verwahrt wird.
 - 4\. Der Ausdruck «Eigenkapitalbeteiligung» bedeutet im Fall einer Personengesellschaft, die ein Finanzinstitut ist, entweder eine Kapital- oder eine Gewinnbeteiligung an der Personengesellschaft. Im Fall eines Trusts, der ein Finanzinstitut ist, gilt eine Eigenkapitalbeteiligung als von einer Person gehalten, die als Treugeber oder Begünstigter des gesamten oder eines Teils des Trusts betrachtet wird, oder von einer sonstigen natürlichen Person, die den Trust tatsächlich beherrscht. Eine meldepflichtige Person gilt als Begünstigter eines Trusts, wenn sie berechtigt ist, unmittelbar oder mittelbar (zum Beispiel durch einen Bevollmächtigten) eine Pflichtausschüttung aus dem Trust zu erhalten, oder unmittelbar oder mittelbar eine freiwillige Ausschüttung aus dem Trust erhalten kann.
 - 5\. Der Ausdruck «Versicherungsvertrag» bedeutet einen Vertrag (nicht jedoch einen Rentenversicherungsvertrag), bei dem sich der Versicherungsgeber bereit erklärt, bei Eintritt eines konkreten Ereignisses im Zusammenhang mit einem Todesfall-, Krankheits-, Unfall-, Haftungs- oder Sachschadenrisiko einen Betrag zu zahlen.
@@ -600,7 +762,7 @@ C. Finanzkonto
 
   Der Ausdruck «bestehendes Konto» bedeutet:
 
-  - a) ein Finanzkonto, das zum 31. Dezember des Jahres vor Inkrafttreten des am 27. Mai 2015 unterzeichneten Änderungsprotokolls von einem meldenden Finanzinstitut geführt wird.
+  - a) ein Finanzkonto, das ab dem 31. Dezember des Jahres vor Inkrafttreten des Änderungsprotokolls vom 27. Mai 2015 oder – wenn das Konto allein aufgrund der mit dem Änderungsprotokoll vom 20. Oktober 2025 vorgenommenen Änderungen an diesem Abkommen als Finanzkonto behandelt wird – ab dem 31. Dezember des Jahres vor dem Datum der vorläufigen Anwendung des letztgenannten Änderungsprotokolls von einem meldenden Finanzinstitut geführt wird.
   - b)
 
     Ein Mitgliedstaat oder die Schweiz hat die Möglichkeit, den Ausdruck «bestehendes Konto» auf jedes Finanzkonto eines Kontoinhabers ungeachtet des Zeitpunkts der Eröffnung dieses Finanzkontos zu erweitern, wenn:
@@ -612,7 +774,7 @@ C. Finanzkonto
 
   - Vor Inkrafttreten des am 27. Mai 2015 unterzeichneten Änderungsprotokolls teilen die Mitgliedstaaten der Schweiz und teilt die Schweiz der Europäischen Kommission mit, ob sie von der Option unter diesem Buchstaben Gebrauch gemacht haben. Die Europäische Kommission leitet die Mitteilung der Schweiz an alle Mitgliedstaaten weiter und kann die Weiterleitung der Mitteilungen der Mitgliedstaaten an die Schweiz koordinieren. Jedwede Änderungen bei der Ausübung dieser Option durch einen Mitgliedstaat oder die Schweiz werden auf dieselbe Weise mitgeteilt.
 
-- 10\. Der Ausdruck «Neukonto» bedeutet ein von einem meldenden Finanzinstitut geführtes Finanzkonto, das zum oder nach dem Inkrafttreten des am 27. Mai 2015 unterzeichneten Änderungsprotokolls eröffnet wird, sofern es nicht als bestehendes Konto nach Unterabschnitt C Nummer 9 Buchstabe b behandelt wird.
+- 10\. Der Ausdruck «Neukonto» bedeutet ein von einem meldenden Finanzinstitut geführtes Finanzkonto, das zum oder nach dem Inkrafttreten des Änderungsprotokolls vom 27. Mai 2015 oder – wenn das Konto allein aufgrund der mit dem Änderungsprotokoll vom 20. Oktober 2025 vorgenommenen Änderungen an diesem Abkommen als Finanzkonto behandelt wird – zum oder nach dem Tag der vorläufigen Anwendung des letztgenannten Änderungsprotokolls eröffnet wird, sofern es nicht als bestehendes Konto im Sinne der erweiterten Bestimmung des Begriffs «bestehendes Konto» nach Unterabschnitt C Nummer 9 behandelt wird.
 - 11\. Der Ausdruck «bestehendes Konto natürlicher Personen» bedeutet ein bestehendes Konto, dessen Inhaber eine oder mehrere natürliche Personen sind.
 - 12\. Der Ausdruck «Neukonto natürlicher Personen» bedeutet ein Neukonto, dessen Inhaber eine oder mehrere natürliche Personen sind.
 - 13\. Der Ausdruck «bestehendes Konto von Rechtsträgern» bedeutet ein bestehendes Konto, dessen Inhaber ein oder mehrere Rechtsträger sind.
@@ -669,15 +831,25 @@ C. Finanzkonto
 
     einem Verkauf, einem Tausch oder einer Vermietung eines unbeweglichen oder beweglichen Vermögensgegenstands, sofern das Konto folgende Voraussetzungen erfüllt:
 
-    - - Das Konto wird ausschliesslich mit einer Anzahlung, einer Einlage in einer zur Sicherung einer unmittelbar mit der Transaktion verbundenen Verpflichtung angemessenen Höhe oder einer ähnlichen Zahlung finanziert oder mit Finanzvermögen, das im Zusammenhang mit dem Verkauf, dem Tausch oder der Vermietung des Vermögensgegenstands auf das Konto eingezahlt wird.
-    - - Das Konto wird nur zur Sicherung der Verpflichtung des Käufers zur Zahlung des Kaufpreises für den Vermögensgegenstand, der Verpflichtung des Verkäufers zur Begleichung von Eventualverbindlichkeiten beziehungsweise der Verpflichtung des Vermieters oder Mieters zur Begleichung von Schäden im Zusammenhang mit dem Mietobjekt nach dem Mietvertrag eingerichtet und genutzt.
-    - [tab] - Die Vermögenswerte des Kontos, einschliesslich der daraus erzielten Einkünfte, werden bei Verkauf, Tausch oder Übertragung des Vermögensgegenstands beziehungsweise Ende des Mietvertrags zugunsten des Käufers, Verkäufers, Vermieters oder Mieters ausgezahlt oder auf andere Weise verteilt (auch zur Erfüllung einer Verpflichtung einer dieser Personen).
-    - - Das Konto ist nicht ein im Zusammenhang mit einem Verkauf oder Tausch von Finanzvermögen eingerichtetes Margin-Konto oder ähnliches Konto.
-    - - Das Konto steht nicht in Verbindung mit einem Konto nach Unterabschnitt C Nummer 17 Buchstabe f.
+    - – Das Konto wird ausschliesslich mit einer Anzahlung, einer Einlage in einer zur Sicherung einer unmittelbar mit der Transaktion verbundenen Verpflichtung angemessenen Höhe oder einer ähnlichen Zahlung finanziert oder mit Finanzvermögen, das im Zusammenhang mit dem Verkauf, dem Tausch oder der Vermietung des Vermögensgegenstands auf das Konto eingezahlt wird.
+    - – Das Konto wird nur zur Sicherung der Verpflichtung des Käufers zur Zahlung des Kaufpreises für den Vermögensgegenstand, der Verpflichtung des Verkäufers zur Begleichung von Eventualverbindlichkeiten beziehungsweise der Verpflichtung des Vermieters oder Mieters zur Begleichung von Schäden im Zusammenhang mit dem Mietobjekt nach dem Mietvertrag eingerichtet und genutzt.
+    - – Die Vermögenswerte des Kontos, einschliesslich der daraus erzielten Einkünfte, werden bei Verkauf, Tausch oder Übertragung des Vermögensgegenstands beziehungsweise Ende des Mietvertrags zugunsten des Käufers, Verkäufers, Vermieters oder Mieters ausgezahlt oder auf andere Weise verteilt (auch zur Erfüllung einer Verpflichtung einer dieser Personen).
+    - – Das Konto ist nicht ein im Zusammenhang mit einem Verkauf oder Tausch von Finanzvermögen eingerichtetes Margin-Konto oder ähnliches Konto.
+    - – Das Konto steht nicht in Verbindung mit einem Konto nach Unterabschnitt C Nummer 17 Buchstabe f.
 
-  - iii) einer Verpflichtung eines Finanzinstituts, das ein durch Immobilien besichertes Darlehen verwaltet, zur Zurücklegung eines Teils einer Zahlung ausschliesslich zur Ermöglichung der Entrichtung von Steuern oder Versicherungsbeiträgen im Zusammenhang mit den Immobilien zu einem späteren Zeitpunkt; oder
-  - iv) einer Verpflichtung eines Finanzinstituts ausschliesslich zur Ermöglichung der Entrichtung von Steuern zu einem späteren Zeitpunkt.
+  - iii) einer Verpflichtung eines Finanzinstituts, das ein durch Immobilien besichertes Darlehen verwaltet, zur Zurücklegung eines Teils einer Zahlung ausschliesslich zur Ermöglichung der Entrichtung von Steuern oder Versicherungsbeiträgen im Zusammenhang mit den Immobilien zu einem späteren Zeitpunkt;
+  - iv) einer Verpflichtung eines Finanzinstituts ausschliesslich zur Ermöglichung der Entrichtung von Steuern zu einem späteren Zeitpunkt; oder
+  - v)
 
+    einer Gründung oder Kapitalerhöhung einer Gesellschaft, sofern das Konto die folgenden Anforderungen erfüllt:
+
+    - – das Konto wird ausschliesslich zur Hinterlegung von Kapital verwendet, das gemäss den gesetzlichen Vorschriften für die Gründung oder Kapitalerhöhung einer Gesellschaft verwendet werden soll,
+    - – alle auf dem Konto gehaltenen Beträge werden gesperrt, bis das meldende Finanzinstitut eine unabhängige Bestätigung über die Gründung oder Kapitalerhöhung erhält,
+    - – das Konto wird nach der Gründung oder Kapitalerhöhung geschlossen oder in ein Konto auf den Namen der Gesellschaft umgewandelt,
+    - – jegliche Rückzahlungen, die sich aus einer nicht erfolgten Gründung oder Kapitalerhöhung ergeben, werden abzüglich der Gebühren für Dienstleister und ähnlicher Gebühren ausschliesslich an die Personen geleistet, die die Beträge eingezahlt haben, und
+    - – das Konto wurde vor nicht mehr als 12 Monaten eingerichtet.
+
+- e *a*) ein Einlagenkonto, das sämtliche spezifizierten elektronischen Geldprodukte repräsentiert, die zugunsten eines Kunden gehalten werden, wenn der gleitende durchschnittliche 90-Tage-Gesamtkontosaldo oder -wert während eines beliebigen Zeitraums von 90 aufeinanderfolgenden Tagen an keinem Tag im Kalenderjahr oder in einem anderen geeigneten Berichtszeitraum 10 000 USD oder einen auf die Landeswährung eines Mitgliedstaats oder der Schweiz lautenden Betrag im Gegenwert von 10 000 USD übersteigt.
 - f)
 
   Ein Einlagenkonto, das folgende Voraussetzungen erfüllt:
@@ -694,11 +866,11 @@ D. Meldepflichtiges Konto
 
   Der Ausdruck «meldepflichtige Person» bedeutet eine Person eines meldepflichtigen Staates, jedoch nicht:
 
-  - i) eine Kapitalgesellschaft, deren Aktien regelmässig an einer oder mehreren anerkannten Wertpapierbörsen gehandelt werden;
-  - ii) eine Kapitalgesellschaft, die ein verbundener Rechtsträger einer Kapitalgesellschaft nach Ziffer i ist;
-  - iii) einen staatlichen Rechtsträger;
-  - iv) eine internationale Organisation;
-  - v) eine Zentralbank; oder
+  - i) einen Rechtsträger, dessen Anteile regelmässig an einer oder mehreren anerkannten Wertpapierbörsen gehandelt werden,
+  - ii) einen Rechtsträger, der ein verbundener Rechtsträger eines Rechtsträgers nach Ziffer i ist,
+  - iii) einen staatlichen Rechtsträger,
+  - iv) eine internationale Organisation,
+  - v) eine Zentralbank, oder
   - vi) ein Finanzinstitut.
 
 - 3\. Der Ausdruck «Person eines meldepflichtigen Staates» bedeutet eine natürliche Person oder einen Rechtsträger, die beziehungsweise der nach dem Steuerrecht eines meldepflichtigen Staates in diesem ansässig ist, oder einen Nachlass eines Erblassers, der in einem meldepflichtigen Staat ansässig war. In diesem Sinne gilt ein Rechtsträger, bei dem keine steuerliche Ansässigkeit vorliegt, beispielsweise eine Personengesellschaft, eine Limited Liability Partnership oder ein ähnliches Rechtsgebilde, als in dem Staat ansässig, in dem sich der Ort seiner tatsächlichen Geschäftsleitung befindet.
@@ -714,7 +886,7 @@ D. Meldepflichtiges Konto
     einen anderen Staat:
 
     - i) mit dem je nach Zusammenhang der betreffende Mitgliedstaat oder die Schweiz ein Abkommen geschlossen hat, wonach dieser andere Staat die in Abschnitt I genannten Informationen übermittelt, und
-    - ii) der in einer von dem Mitgliedstaat beziehungsweise der Schweiz veröffentlichten und der Schweiz beziehungsweise der Europäischen Kommission mitgeteilten Liste aufgeführt ist;
+    - ii) der in einer von dem Mitgliedstaat beziehungsweise der Schweiz veröffentlichten Liste aufgeführt ist;
 
   - d)
 
@@ -779,6 +951,8 @@ E. Sonstige Begriffsbestimmungen
   - In Bezug auf bestehende Konten von Rechtsträgern haben jeder Mitgliedstaat und die Schweiz die Möglichkeit, einem meldenden Finanzinstitut zu gestatten, als Beleg jede Einstufung in seinen Unterlagen in Bezug auf den Kontoinhaber zu verwenden, die auf der Grundlage eines standardisierten Branchenkodierungssystems ermittelt wurde, die das meldende Finanzinstitut im Einklang mit seiner üblichen Geschäftspraxis für die Zwecke von Verfahren zur Bekämpfung der Geldwäsche (AML/KYC) oder zu anderen gesetzlichen Zwecken (ausser zu Steuerzwecken) dokumentiert und vor dem Datum eingeführt hat, an dem das Finanzkonto als bestehendes Konto eingestuft wurde, sofern dem meldenden Finanzinstitut nicht bekannt ist oder nicht bekannt sein müsste, dass diese Einstufung nicht zutreffend oder unglaubwürdig ist. Der Ausdruck «standardisiertes Branchenkodierungssystem» bedeutet ein Kodierungssystem, das zur Einstufung von Einrichtungen nach Art der Geschäftstätigkeit zu anderen Zwecken als zu Steuerzwecken verwendet wird.
   - Vor Inkrafttreten des am 27. Mai 2015 unterzeichneten Änderungsprotokolls teilen die Mitgliedstaaten der Schweiz und teilt die Schweiz der Europäischen Kommission mit, ob sie von dieser Option Gebrauch gemacht haben. Die Europäische Kommission leitet die Mitteilung der Schweiz an alle Mitgliedstaaten weiter und kann die Weiterleitung der Mitteilungen der Mitgliedstaaten an die Schweiz koordinieren. Jedwede Änderungen bei der Ausübung dieser Option durch einen Mitgliedstaat oder die Schweiz werden auf dieselbe Weise mitgeteilt.
 
+- 7\. Der Ausdruck «staatlicher Überprüfungsdienst» bedeutet ein elektronisches Verfahren, das ein meldepflichtiger Staat einem meldenden Finanzinstitut zur Feststellung der Identität und der steuerlichen Ansässigkeit eines Kontoinhabers oder einer beherrschenden Person zur Verfügung stellt.
+
 ### Abschnitt IX: Wirksame Umsetzung
 
 Jeder Mitgliedstaat und die Schweiz muss über entsprechende Vorschriften und Verwaltungsverfahren verfügen, um die wirksame Umsetzung und die Einhaltung der oben beschriebenen Melde- und Sorgfaltspflichten sicherzustellen, einschliesslich:
@@ -788,6 +962,10 @@ Jeder Mitgliedstaat und die Schweiz muss über entsprechende Vorschriften und Ve
 - 3\. Verwaltungsverfahren zur Überprüfung, ob die meldenden Finanzinstitute die Melde- und Sorgfaltspflichten einhalten; Verwaltungsverfahren zur Nachprüfung eines meldenden Finanzinstituts, wenn nicht dokumentierte Konten gemeldet werden;
 - 4\. Verwaltungsverfahren zur Sicherstellung, dass bei den Rechtsträgern und Konten, die nach innerstaatlichem Recht als nicht meldende Finanzinstitute beziehungsweise ausgenommene Konten gelten, weiterhin ein geringes Risiko besteht, dass sie zur Steuerhinterziehung missbraucht werden; sowie
 - 5\. wirksamer Durchsetzungsbestimmungen bei Nichteinhaltung der Vorschriften.
+
+### Abschnitt X: Übergangsmassnahmen
+
+Ungeachtet des Abschnitts I Unterabschnitt A Nummer 1 Buchstabe b und Unterabschnitt A Nummer 6*a* müssen für jedes meldepflichtige Konto, das ab dem 31. Dezember des Jahres vor dem Datum der vorläufigen Anwendung des Änderungsprotokolls vom 20. Oktober 2025 von einem meldenden Finanzinstitut geführt wird, und für Berichtszeiträume, die mit dem zweiten Kalenderjahr nach diesem Datum enden, nur dann Angaben über die Funktion(en), aufgrund derer jede meldepflichtige Person eine beherrschende Person oder eine Inhaberin einer Eigenkapitalbeteiligung am Rechtsträger ist, gemeldet werden, wenn diese Informationen in den elektronisch durchsuchbaren Daten des meldenden Finanzinstituts verfügbar sind.
 
 Anhang II
 
@@ -823,9 +1001,11 @@ Anhang II
 - 6\. Anschrift des Hauptsitzes eines Rechtsträgers
 - Eine der in Anhang I Abschnitt VII Unterabschnitt E Nummer 6 Buchstabe c beschriebenen Anforderungen ist, dass amtliche Dokumente in Bezug auf einen Rechtsträger entweder die Anschrift des Hauptsitzes des Rechtsträgers in dem Mitgliedstaat, der Schweiz oder dem anderen teilnehmenden Staat umfassen müssen, in dem er ansässig zu sein behauptet, oder den Mitgliedstaat, die Schweiz oder den anderen teilnehmenden Staat, in dem der Rechtsträger eingetragen oder gegründet wurde. Die Anschrift des Hauptsitzes des Rechtsträgers ist im Allgemeinen der Ort, an dem sich seine tatsächliche Geschäftsleitung befindet. Die Anschrift des Finanzinstituts, bei dem der Rechtsträger ein Konto führt, ein Postfach oder eine reine Postanschrift ist nicht die Anschrift des Hauptsitzes des Rechtsträgers, es sei denn, diese Anschrift ist die einzige, die von dem Rechtsträger verwendet wird, und erscheint als eingetragene Anschrift des Rechtsträgers in dessen Geschäftsdokumenten. Ferner ist eine Anschrift, die mit der Anweisung angegeben wird, den gesamten Schriftverkehr postlagernd an diese Anschrift zu richten, nicht die Anschrift des Hauptsitzes des Rechtsträgers.
 
-Anhang III
+Anhang III[^t-6]
 
 ## Liste der zuständigen Behörden der Vertragsparteien
+
+[^t-6]: Bereinigt gemäss Art. 1 Abs. 12 des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
 
 Für die Zwecke dieses Abkommens gelten als «zuständige Behörden»:
 
@@ -856,8 +1036,7 @@ Für die Zwecke dieses Abkommens gelten als «zuständige Behörden»:
 - y) in der Republik Slowenien: Minister za finance oder ein Beauftragter;
 - z) in der Slowakischen Republik: Minister financií oder ein Beauftragter;
 - aa) in der Republik Finnland: Valtiovarainministeriö/Finansministeriet oder ein Beauftragter;
-- ab) im Königreich Schweden: Chefen för Finansdepartementet oder ein Beauftragter;
-- ac) im Vereinigten Königreich Grossbritannien und Nordirland und den europäischen Hoheitsgebieten, für deren Aussenbeziehungen das Vereinigte Königreich verantwortlich ist: die Commissioners of Inland Revenue oder ihr Beauftragter und die zuständige Behörde in Gibraltar, welche das Vereinigte Königreich benennen wird gemäss der am 19. April 2000 den Mitgliedstaaten und den Organen der Europäischen Union notifizierten Regelung betreffend die Behörden Gibraltars im Rahmen der EU- und EG-Rechtsakte und damit in Beziehung stehende Verträge («Agreed Arrangements relating to Gibraltar authorities in the context of EU and EC instruments and related treaties»), von der der Schweiz eine Kopie durch das Generalsekretariat des Rates der Europäischen Union notifiziert wird und welche auf dieses Abkommen Anwendung findet.
+- ab) im Königreich Schweden: Chefen för Finansdepartementet oder ein Beauftragter.
 
 ## Protokoll
 
@@ -881,17 +1060,21 @@ Anlässlich der Unterzeichnung des Änderungsprotokolls zwischen der Schweizeris
 
 ## Erklärungen der Vertragsparteien
 
+[^annexIII-lvlu3-1]
+
+[^annexIII-lvlu3-1]: Bereinigt gemäss Art. 1 Abs. 13 und 14 des Prot. vom 20. Okt. 2025, vorläufig angewendet ab dem 1. Jan. 2026 ([AS 2025 816](https://fedlex.data.admin.ch/eli/oc/2025/816)).
+
 ### Gemeinsame Erklärung der Vertragsparteien zum Inkrafttreten des Änderungsprotokolls
 
 Die Vertragsparteien erklären, dass ihrer Erwartung nach die verfassungsrechtlichen Anforderungen der Schweiz und die rechtlichen Anforderungen der Europäischen Union in Bezug auf den Abschluss internationaler Übereinkünfte rechtzeitig erfüllt sein werden, damit das Änderungsprotokoll am ersten Tag des Januar 2017 in Kraft treten kann. Sie werden alle ihnen zu Gebote stehenden Massnahmen ergreifen, um dies zu erreichen.
 
 ### Gemeinsame Erklärung der Vertragsparteien zum Abkommen und zu den Anhängen
 
-Die Vertragsparteien kommen überein, dass die Kommentare zu dem OECD-Muster für eine Vereinbarung zwischen den zuständigen Behörden und zu dem gemeinsamen Meldestandard bei der Durchführung des Abkommens und der Anhänge als Referenz oder zur Auslegung herangezogen werden sollten, um eine einheitliche Anwendung zu gewährleisten.
+Die Vertragsparteien kommen im Hinblick auf die Durchführung des durch das Änderungsprotokoll vom 20. Oktober 2025 geänderten Abkommens und der Anhänge überein, dass die Kommentare zum OECD-Muster für eine Vereinbarung zwischen den zuständigen Behörden und zu dem gemeinsamen Meldestandard sowie die Kommentare zum Addendum zum OECD-Muster für eine Vereinbarung zwischen den zuständigen Behörden von 2023 und zur Aktualisierung des gemeinsamen Meldestandards von 2023 als Referenz oder zur Auslegung herangezogen werden sollten, um eine einheitliche Anwendung zu gewährleisten.
 
 ### Gemeinsame Erklärung der Vertragsparteien zu Artikel 5 des Abkommens
 
-Die Vertragsparteien kommen überein, dass der Kommentar zu Artikel 26 des OECD-Musterabkommens zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen bei der Anwendung von Artikel 5 über den Informationsaustausch auf Ersuchen zur Auslegung herangezogen werden sollte.
+Die Vertragsparteien kommen überein, dass Artikel 5 des Abkommens mit dem aktuellen OECD-Standard für Transparenz und Informationsaustausch in Steuersachen, der in Artikel 26 des OECD-Musterabkommens verankert ist, übereinstimmt. Daher kommen die Vertragsparteien im Hinblick auf die Umsetzung von Artikel 5 überein, dass der Kommentar zu Artikel 26 des OECD-Musterabkommens zur Vermeidung von Doppelbesteuerung von Einkommen und Vermögen zur Auslegung herangezogen werden sollte.
 
 ### Gemeinsame Erklärung der Vertragsparteien zu Anhang I Abschnitt III Unterabschnitt A des Abkommens
 
