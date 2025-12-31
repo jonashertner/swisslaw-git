@@ -4,11 +4,11 @@ number: "161"
 title: Gesetz über die politischen Rechte (GPR)
 short: GPR
 language: de
-version: "2025-07-01"
-nachtrag: "129"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
+valid_until: 2026-07-01
 adopted: 2003-09-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-129.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-161-2003_09_01-2005_01_01-131.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Die politischen Rechte und Pflichten sind:
 
 **1**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Der politische Wohnsitz bestimmt sich nach den Bestimmungen des Bundesgesetzes über die politischen Rechte<sup>10</sup>.
 
@@ -149,7 +149,7 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 - a. der Regierungsrat für kantonale Wahlen und Abstimmungen,
 
-- b. der Bezirksrat für Wahlen im Bezirk, c.<sup>21</sup> der Gemeindevorstand<sup>34</sup> der Sitzgemeinde eines Zweckverbandes, eines Notariatskreises oder eines Betreibungskreises bei Wahlen und Abstimmungen in dessen Gebiet,
+- b. der Bezirksrat für Wahlen im Bezirk, c.<sup>53</sup> der Gemeindevorstand der Sitzgemeinde eines Zweckverbands, eines Notariatskreises, eines Friedensrichterkreises oder eines Betreibungskreises bei Wahlen und Abstimmungen in dessen Gebiet,
 
 - d. der Gemeindevorstand<sup>34</sup> für Wahlen und Abstimmungen in der Gemeinde.
 
@@ -159,13 +159,11 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 § 13.<sup>51</sup>
 
-**Gemeindewahlbüro a. Im Allgemeinen**
-
-§ 14. <sup>1</sup> In jeder politischen Gemeinde besteht ein Wahlbüro von mindestens fünf Mitgliedern.
-
 **3**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131 § 14. <sup>1</sup> In jeder politischen Gemeinde besteht ein Wahlbüro von mindestens fünf Mitgliedern.
+
+**Gemeindewahlbüro a. Im Allgemeinen**
 
 <sup>2</sup> Die Gemeindeordnung kann die Mitgliederzahl erhöhen oder dies dem Gemeindevorstand übertragen.<sup>50</sup>
 
@@ -249,7 +247,7 @@ Bei Urnenwahlen und Urnenabstimmungen sowie bei geheimen Wahlen und Abstimmungen
 
 **5**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Die Gemeinden sind berechtigt, das Programm auch für kommunale Wahlen und Abstimmungen einzusetzen. Kostenlos steht es ihnen zur Verfügung:<sup>21</sup> a. an den vom Bund oder vom Kanton bezeichneten Wahl- oder Abstimmungsdaten,
 
@@ -315,7 +313,7 @@ a.<sup>50</sup> Mitglied des Kantonsrates, der Oberstaatsanwaltschaft oder der O
 
 **7**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 - d. die Leiterin oder den Leiter der Finanzkontrolle gegenüber jedem Amt und jeder andern Anstellung auf der Ebene des Kantons oder eines Bezirks.
 
@@ -403,7 +401,7 @@ a.<sup>34</sup> Gemeindevorstand, Rechnungsprüfungskommission, Schulpflege und 
 
 **9**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Die Amtsdauer endet mit dem Beginn der Amtsdauer des erneuerten Organs.
 
@@ -479,7 +477,7 @@ Die Mitglieder der Organe haben Anspruch auf Ersatz der Auslagen und auf eine an
 
 **11**
 
-- 1\. 7. 25 - 129 § 40.<sup>34</sup> In den Gemeinden werden folgende Organe und Behörden, soweit vorhanden, wie folgt gewählt oder ernannt:
+- 1\. 1. 26 - 131 § 40.<sup>34</sup> In den Gemeinden werden folgende Organe und Behörden, soweit vorhanden, wie folgt gewählt oder ernannt:
 
 **b. Organe der Gemeinden**
 
@@ -573,7 +571,7 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 **13**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Bei der Wahl der Mitglieder des Regierungsrates und des Ständerates sind die Wahlvorschläge der zuständigen Stelle bis zum elften Montag vor der Wahl (76. Tag) einzureichen.
 
@@ -619,9 +617,13 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 <sup>4</sup> Stimmen die zunächst vorgeschlagenen mit den definitiv vorgeschlagenen Personen nicht überein, werden die Namen der definitiv Vorgeschlagenen veröffentlicht.
 
+#### § 54
+
 **Stille Wahl a. Anwendungsbereich**
 
-§ 54.<sup>50</sup> <sup>1</sup> Die stille Wahl ist möglich bei Wahlen gemäss § 39 lit. b und c.
+<sup>1</sup> Die stille Wahl ist möglich bei Wahlen gemäss<sup>53</sup> a. § 39 lit. b und c,
+
+- b. § 40 lit. a Ziff. 5, wenn sich mehrere Gemeinden zu einem Friedensrichterkreis zusammengeschlossen haben.
 
 <sup>2</sup> Sie ist möglich bei Gemeindewahlen, soweit die Gemeindeordnung die stille Wahl vorsieht.
 
@@ -651,15 +653,15 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 § 56.<sup>50</sup> Die Verordnung regelt, mit welchen Angaben die Namen auf den Wahlvorschlägen, dem Wahlzettel und dem Beiblatt ergänzt werden.
 
+**15**
+
+- 1\. 1. 26 - 131
+
 ### B. Anordnung, Wahl- und Abstimmungsunterlagen
 
 **Anordnung a. Zuständigkeit, Inhalt und Veröffentlichung**
 
 § 57.<sup>50</sup> <sup>1</sup> Wahlen und Abstimmungen an der Urne werden von der wahlleitenden Behörde angeordnet.
-
-**15**
-
-- 1\. 7. 25 - 129
 
 <sup>2</sup> Die Anordnung umfasst insbesondere:
 
@@ -755,7 +757,7 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 **17**
 
-- 1\. 7. 25 - 129 § 63. <sup>1</sup> Die wahlleitende Behörde veröffentlicht die Abstimmungsvorlage und den Beleuchtenden Bericht spätestens drei Wochen vor dem Abstimmungstag.
+- 1\. 1. 26 - 131 § 63. <sup>1</sup> Die wahlleitende Behörde veröffentlicht die Abstimmungsvorlage und den Beleuchtenden Bericht spätestens drei Wochen vor dem Abstimmungstag.
 
 **e. Veröffentlichung21**
 
@@ -833,7 +835,7 @@ Die Verordnung regelt das Wahlverfahren für Teilämter.
 
 **19**
 
-- 1\. 7. 25 - 129 § 69.<sup>50</sup> Bei der brieflichen Stimmabgabe legt die stimmberechtigte Person folgende Unterlagen in das Antwortkuvert:
+- 1\. 1. 26 - 131 § 69.<sup>50</sup> Bei der brieflichen Stimmabgabe legt die stimmberechtigte Person folgende Unterlagen in das Antwortkuvert:
 
 **Briefliche Stimmabgabe a. Vorgaben**
 
@@ -921,7 +923,7 @@ Das Wahlbüro ermittelt a.<sup>21</sup> die Zahl der Stimmenden, bestehend aus d
 
 **21**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Als Ergebnis einer Wahl oder Abstimmung gilt der Zusammenzug der Auswertungsergebnisse der Wahlbüros und der Ausgang der Wahl oder Abstimmung.
 
@@ -1021,7 +1023,7 @@ Die Ergebnisse der Wahl oder Abstimmung werden in einem Protokoll festgehalten, 
 
 **23**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Die Wahlunterlagen werden den Stimmberechtigten spätestens zehn Tage vor dem zweiten Wahlgang zugestellt. Wurde auf den Wahltag eine eidgenössische Abstimmung angeordnet, gilt § 62.
 
@@ -1081,7 +1083,7 @@ Für die Kantonsratswahlen bestehen folgende Wahlkreise: I. Stadt Zürich, Stadt
 
 <sup>1</sup> Die bereinigten Wahlvorschläge heissen Listen.
 
-<sup>2</sup> Listen, die in der laufenden Amtsdauer im Rat vertreten sind, erhalten Listennummern in der Reihenfolge der bei der letzten Wahl im Kanton erhaltenen Parteistimmen, beginnend mit der Liste mit den meisten Parteistimmen.<sup>50</sup>
+<sup>2</sup> Listen, die in der laufenden Amtsdauer im Rat vertreten sind, erhalten Listennummern in der Reihenfolge der bei der letzten Wahl im Kanton erreichten Wählerzahl gemäss § 103, beginnend mit der Liste mit der höchsten Wählerzahl.<sup>54</sup>
 
 <sup>3</sup> Den übrigen Listen wird unter Aufsicht der Vorsteherin oder des Vorstehers der Direktion durch Losentscheid eine Listennummer zugewiesen. Listen aus verschiedenen Wahlkreisen, aber mit gleicher Bezeichnung, erhalten dieselbe Listennummer.
 
@@ -1089,7 +1091,7 @@ Für die Kantonsratswahlen bestehen folgende Wahlkreise: I. Stadt Zürich, Stadt
 
 **25**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>5</sup> Die Direktion teilt den Vertreterinnen und Vertretern der Wahlvorschläge die Listennummer bis zum achten Freitag vor der Wahl mit.
 
@@ -1159,7 +1161,7 @@ Neben den in § 71 lit. a und b genannten Werten ermittelt das Wahlbüro zusätz
 
 <sup>2</sup> Besteht eine Liste nur in einem Wahlkreis, bildet sie ebenfalls eine Listengruppe.
 
-<sup>3</sup> Eine Listengruppe nimmt an der Sitzverteilung nur teil, wenn entweder<sup>47</sup> a. wenigstens eine ihrer Listen mindestens 5% aller Parteistimmen des betreffenden Wahlkreises erhalten hat oder b. ihre Listen zusammen mindestens 3% aller Parteistimmen im ganzen Kanton erhalten haben.
+<sup>3</sup> Eine Listengruppe nimmt an der Sitzverteilung nur teil, wenn entweder<sup>47</sup> a. wenigstens eine ihrer Listen mindestens 5% aller Parteistimmen des betreffenden Wahlkreises erhalten hat oder b.<sup>54</sup> ihre Wählerzahl gemäss § 103 mindestens 3% der Wählerzahlen aller Listengruppen im ganzen Kanton entspricht.
 
 #### § 103
 
@@ -1177,7 +1179,7 @@ Neben den in § 71 lit. a und b genannten Werten ermittelt das Wahlbüro zusätz
 
 **27**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Die Direktion legt für jeden Wahlkreis einen Wahlkreis-Divisor und für jede Listengruppe einen Listengruppen-Divisor so fest, dass bei einem Vorgehen nach Abs. 1 a.<sup>28</sup> jeder Wahlkreis die ihm von der Direktion zugewiesene Zahl von Sitzen erhält,
 
@@ -1231,7 +1233,7 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 <sup>2</sup> Listen, die in der laufenden Amtsdauer im Nationalrat vertreten sind, erhalten Listennummern in der Reihenfolge der bei der letzten Wahl erhaltenen Parteistimmen im Kanton, beginnend mit der Liste mit den meisten Parteistimmen.
 
-<sup>3</sup> Listen, die in der laufenden Amtsdauer nicht im Nationalrat, aber im Kantonsrat vertreten sind, erhalten die nachfolgenden Listennummern in der Reihenfolge der bei der letzten Kantonsratswahl erhaltenen Parteistimmen.
+<sup>3</sup> Listen, die in der laufenden Amtsdauer nicht im Nationalrat, aber im Kantonsrat vertreten sind, erhalten die nachfolgenden Listennummern in der Reihenfolge der bei der letzten Kantonsratswahl erreichten Wählerzahl gemäss § 103.<sup>54</sup>
 
 <sup>4</sup> Listen, die nicht unter Abs. 2 oder 3 fallen und die in einer Unterlistenverbindung mit einer Liste stehen, die in der laufenden Amtszeit im Nationalrat vertreten ist, erhalten die nachfolgenden Listennummern in der Reihenfolge der bei der letzten Nationalratswahl erhaltenen Parteistimmen.
 
@@ -1259,7 +1261,7 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **29**
 
-- 1\. 7. 25 - 129 § 114.<sup>19</sup>
+- 1\. 1. 26 - 131 § 114.<sup>19</sup>
 
 §§ 115–118.<sup>43</sup>
 
@@ -1355,7 +1357,7 @@ Auf die konstituierende Sitzung des Kantonsrates hin stellt der Regierungsrat Be
 
 **31**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>4</sup> Die Direktion stellt innert drei Monaten nach Einreichung der Initiative fest, ob sie zustande gekommen ist, und veröffentlicht dieses Ergebnis. Ist die Volksinitiative nicht zustande gekommen, wird sie dem Kantonsrat zur weiteren Behandlung als Einzelinitiative überwiesen.
 
@@ -1435,7 +1437,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **33**
 
-- 1\. 7. 25 - 129 § 135.<sup>21</sup> Hat der Kantonsrat die Ausarbeitung einer Umsetzungsvorlage mit oder ohne Gegenvorschlag beschlossen, unterbreitet ihm der Regierungsrat die entsprechende Vorlage innert der in der Verordnung bezeichneten Frist.
+- 1\. 1. 26 - 131 § 135.<sup>21</sup> Hat der Kantonsrat die Ausarbeitung einer Umsetzungsvorlage mit oder ohne Gegenvorschlag beschlossen, unterbreitet ihm der Regierungsrat die entsprechende Vorlage innert der in der Verordnung bezeichneten Frist.
 
 **Umsetzungsvorlage a. Antrag des Regierungsrates**
 
@@ -1509,7 +1511,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **35**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 [^hDGemeinsameBestim-1]: LS 101.
 
@@ -1597,7 +1599,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **37**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Für die Unterzeichnung genügt die Angabe des Namens und die Unterschrift.
 
@@ -1687,7 +1689,7 @@ der allgemeinen Anregung<sup>20</sup>
 
 **39**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Die Urnenabstimmung findet innert sechs Monaten nach dem Beschluss über die Gültigkeit der Initiative statt.
 
@@ -1775,7 +1777,7 @@ Für Volks- und Einzelinitiativen in Parlamentsgemeinden gelten §§ 122–139 b
 
 **41**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 - c. An die Stelle eines Kantonsratsbeschlusses tritt ein Beschluss der Delegiertenversammlung.
 
@@ -1859,7 +1861,7 @@ Hat der Kantonsrat vor Inkrafttreten dieser Gesetzesänderung eine Vorlage besch
 
 **43**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 ### Übergangsbestimmungen zur Änderung vom 28. August 2017
 
@@ -1927,7 +1929,7 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 
 **45**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
 
 <sup>28</sup> Fassung gemäss G über die Unterstellung der Steuerrekurskommissionen und der Baurekurskommissionen unter das Verwaltungsgericht vom 13. September 2010 (OS 65, 953; ABl 2010, 266). In Kraft seit 1. Januar 2011.
 
@@ -1979,6 +1981,10 @@ Im Zeitpunkt des Inkrafttretens der Änderung vom 30. November 2020 gewählte Mi
 
 <sup>52</sup> Eingefügt durch Gesetz über die Anpassung der Wählbarkeitsvoraussetzungen für die obersten kantonalen Gerichte vom 25. September 2023 (OS 79, 217). In Kraft seit 1. Juli 2025.
 
+<sup>53</sup> Fassung gemäss G vom 12. Mai 2025 (OS 80, 289; ABl 2023-11-10). In Kraft seit 1. Januar 2026.
+
+<sup>54</sup> Fassung gemäss G vom 30. Juni 2025 (OS 80, 292; ABl 2024-04-12). In Kraft seit 1. Januar 2026.
+
 **47**
 
-- 1\. 7. 25 - 129
+- 1\. 1. 26 - 131
