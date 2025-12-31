@@ -4,13 +4,13 @@ number: "732.111.1"
 title: Strassenverordnung
 short: SV
 language: de
-version: 2024-02-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-20
+version: 2026-01-01
+valid_until: 2026-09-30
+version_adopted: 2025-09-17
 adopted: 2008-10-29
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/732.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2987/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3235/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2987/pdf_file"
 
 (SV)
 
-vom 29.10.2008 (Stand 01.02.2024)
+vom 29.10.2008 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
