@@ -4,13 +4,13 @@ number: "301.215"
 title: Pflegeverordnung
 short: PflV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-25
+version: 2026-01-01
+valid_until: 2026-06-30
+version_adopted: 2025-07-02
 adopted: 2012-11-21
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.215"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3661/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3866/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3661/pdf_file"
 
 (PflV)
 
-Vom 21.11.2012 (Stand 01.01.2025)
+Vom 21.11.2012 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -230,7 +230,7 @@ beschliesst:
 
 <sup>2</sup> Das Departement beurteilt den Bedarf auf einen Planungshorizont von in der Regel 10 Jahren.
 
-<sup>3</sup> Bei geplanten Erweiterungs- oder Neubauprojekten kann das Departement einer Trägerschaft die Aufnahme auf die Pflegeheimliste mit einer gewissen Bettenzahl provisorisch zusichern. Der Baubeginn hat innert der drei darauf folgenden Jahren zu erfolgen, ansonsten fällt die Reservierung automatisch dahin. Die Trägerschaft hat das Departement jährlich unaufgefordert über Projektstand und Projektverlauf schriftlich zu informieren.
+<sup>3</sup> Bei geplanten Erweiterungs- oder Neubauprojekten kann das Departement einer Trägerschaft die Aufnahme auf die Pflegeheimliste mit einer gewissen Bettenzahl provisorisch zusichern. Der Baubeginn hat innert der drei darauf folgenden Jahre zu erfolgen, ansonsten fällt die Reservierung automatisch dahin. Die Trägerschaft hat das Departement jährlich unaufgefordert über Projektstand und Projektverlauf schriftlich zu informieren.
 
 <sup>4</sup> Bestehen Anzeichen, dass das Projekt nicht oder nur mit erheblicher Verzögerung realisiert wird oder unterbleibt die Information gemäss Absatz 3, trifft das Departement geeignete Massnahmen. Insbesondere kann es die provisorische Zusicherung widerrufen.
 
