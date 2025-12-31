@@ -4,13 +4,12 @@ number: "215.341.1"
 title: Ordonnance cantonale sur la mensuration officielle
 short: OCMO
 language: fr
-version: 2025-02-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-18
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 1997-03-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.341.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3117/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3313/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,16 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3117/pdf_file"
 
 (OCMO)
 
-du 05.03.1997 (état au 01.02.2025)
+du 05.03.1997 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
-vu les articles 12, 13, alinéa 2, 17, alinéa 2, 23, alinéa 2 et 42, alinéa 1 de l’ordonnance fédérale du 18 novembre 1992 sur la mensuration officielle (OMO)[^ingress-1] et l’article 67 de la loi cantonale du 8 juin 2015 sur la géoinformation (LCGéo)[^ingress-2]
+vu les articles 12, 13, alinéa 2, 17, alinéa 2, 23, alinéa 3 et 42, alinéa 1 de l’ordonnance fédérale du 18 novembre 1992 sur la mensuration officielle (OMO)[^ingress-1], l’article 32, alinéas 2 et 3 de l’ordonnance du DDPS du 24 août 2023 sur la mensuration officielle (OMO-DDPS)[^ingress-2] et l’article 67 de la loi cantonale du 8 juin 2015 sur la géoinformation (LCGéo)[^ingress-3],
 
 arrête:
 
-[^ingress-1]: RS 211.432.2
-[^ingress-2]: RSB 215.341
+[^ingress-1]: RS [211.432.2](https://db.clex.ch/link/Bund/211.432.2/fr)
+[^ingress-2]: RS [211.432.21](https://db.clex.ch/link/Bund/211.432.21/fr)
+[^ingress-3]: RSB [215.341](https://www.belex.sites.be.ch/data/215.341/fr)
 
 ## 1 Mise à jour permanente et gestion des données de la mensuration officielle
 
@@ -147,7 +147,7 @@ arrête:
 
 <sup>1</sup> Le géomètre conservateur ou la géomètre conservatrice et le bureau du registre foncier se prêtent mutuellement assistance. Ils fournissent gratuitement les renseignements nécessaires à l'accomplissement de leurs tâches.
 
-<sup>2</sup> Le géomètre conservateur ou la géomètre conservatrice veille à ce que la couche d'information «biens-fonds» concorde avec le registre foncier. Les données de la première ne peuvent être modifiées à titre définitif qu'après avoir été inscrites au second.
+<sup>2</sup> Le géomètre conservateur ou la géomètre conservatrice veille à ce que les immeubles de la mensuration officielle concordent avec le registre foncier. Les données des premiers ne peuvent être modifiées à titre définitif qu'après avoir été inscrites au second.
 
 <sup>3</sup> Au surplus, les relations entre le géomètre conservateur ou la géomètre conservatrice et le bureau du registre foncier sont régies par les instructions de la Direction de l’intérieur et de la justice.
 
@@ -157,7 +157,7 @@ arrête:
 
 **Réquisition d'inscription et suppression des affaires en cours**
 
-<sup>1</sup> L'inscription au registre foncier des affaires en cours relevant de la couche d'information «biens-fonds» doit être requise dans l'année qui suit l'établissement de l'acte de mutation. Le géomètre conservateur ou la géomètre conservatrice renseigne le mandant ou la mandante à ce sujet.
+<sup>1</sup> L'inscription au registre foncier des affaires en cours relevant des immeubles doit être requise dans l'année qui suit l'établissement de l'acte de mutation. Le géomètre conservateur ou la géomètre conservatrice renseigne le mandant ou la mandante à ce sujet.
 
 <sup>2</sup> Le bureau du registre foncier peut, pour de justes motifs, prolonger le délai de réquisition d'inscription sur demande du mandant ou de la mandante, ou, à défaut, du propriétaire foncier ou de la propriétaire foncière. La demande de prolongation doit être adressée par écrit au bureau du registre foncier compétent avant l'échéance du délai d'une année.
 
@@ -243,6 +243,12 @@ arrête:
 
 <sup>2</sup> Il coordonne le financement et les décomptes conformément à l’article 56 LCGéo.
 
+## 3c Modèle de géodonnées de la mensuration officielle
+
+#### Art. 16e
+
+<sup>1</sup> Le canton est tenu, en vertu du droit fédéral, de procéder au passage au nouveau modèle de géodonnées de la mensuration officielle et de mettre en œuvre ce dernier.
+
 ## 4 Dispositions finales
 
 #### Art. 17
@@ -281,6 +287,14 @@ arrête:
 #### Art. T2-1
 
 <sup>1</sup> Jusqu'au 31 décembre 2012, la valeur du point est déterminée conformément à l'annexe 2.
+
+## T3 Disposition transitoire de la modification du 26.11.2025
+
+#### Art. T3-1
+
+<sup>1</sup> Les communes bénéficient d’un délai courant jusqu’au 31 décembre 2027 pour le passage au nouveau modèle de géodonnées de la mensuration officielle conformément à l’article 32, alinéa 2 OMO-DDPS.
+
+<sup>2</sup> Les communes bénéficient également d’un délai courant jusqu’au 31 décembre 2027 pour le passage du langage de description INTERLIS 1 au format INTERLIS 2 conformément à l’article 32, alinéa 3 OMO-DDPS.
 
 Berne, le 11 novembre 2015
 

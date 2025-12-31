@@ -4,13 +4,12 @@ number: "215.341.1"
 title: Kantonale Verordnung über die amtliche Vermessung
 short: KVAV
 language: de
-version: 2025-02-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-18
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 1997-03-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.341.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3117/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3313/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,17 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3117/pdf_file"
 
 (KVAV)
 
-vom 05.03.1997 (Stand 01.02.2025)
+vom 05.03.1997 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
-gestützt auf Artikel 12, Artikel 13 Absatz 2, Artikel 17 Absatz 2, Artikel 23 Absatz 2 und Artikel 42 Absatz 1 der Verordnung des Bundesrats vom 18. November 1992 über die amtliche Vermessung (VAV)[^ingress-1] sowie Artikel 67 des Kantonalen Geoinformationsgesetzes vom 8. Juni 2015 (KGeoIG)[^ingress-2],
+gestützt auf Artikel 12, Artikel 13 Absatz 2, Artikel 17 Absatz 2, Artikel 23 Absatz 3 und Artikel 42 Absatz 1 der Verordnung des Bundesrates vom 18. November 1992 über die amtliche Vermessung (VAV)[^ingress-1], Artikel 32 Absatz 2 und 3 der Verordnung des VBS vom 24. August 2023 über die amtliche Vermessung (VAV-VBS)[^ingress-2] sowie Artikel 67 des Kantonalen Geoinformationsgesetzes vom 8. Juni 2015 (KGeoIG)[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: SR 211.432.2
-[^ingress-2]: BSG 215.341
+[^ingress-1]: SR [211.432.2](https://db.clex.ch/link/Bund/211.432.2/de)
+[^ingress-2]: SR [211.432.21](https://db.clex.ch/link/Bund/211.432.21/de)
+[^ingress-3]: BSG [215.341](https://www.belex.sites.be.ch/data/215.341/de)
 
 ## 1 Laufende Nachführung und Bewirtschaftung der Daten der amtlichen Vermessung
 
@@ -145,7 +145,7 @@ beschliesst:
 
 <sup>1</sup> Die Nachführungsgeometerinnen und -geometer und das Grundbuchamt unterstützen sich gegenseitig. Sie erteilen die zur Erfüllung ihrer Aufgaben erforderlichen Auskünfte unentgeltlich.
 
-<sup>2</sup> Die Nachführungsgeometerinnen und -geometer sorgen dafür, dass die Informationsebene «Liegenschaften» mit dem Grundbuch übereinstimmt. Daten der Informationsebene «Liegenschaften» dürfen erst nach Eintrag im Grundbuch definitiv geändert werden.
+<sup>2</sup> Die Nachführungsgeometerinnen und -geometer sorgen dafür, dass die Grundstücke der amtlichen Vermessung mit dem Grundbuch übereinstimmen. Daten der Grundstücke dürfen erst nach Eintrag im Grundbuch definitiv geändert werden.
 
 <sup>3</sup> Im übrigen richtet sich der Geschäftsverkehr zwischen den Nachführungsgeometerinnen und -geometern und den Grundbuchämtern nach den Weisungen der Direktion für Inneres und Justiz.
 
@@ -155,13 +155,13 @@ beschliesst:
 
 **Anmeldung und Aufhebung von projektierten Geschäften**
 
-<sup>1</sup> Projektierte Geschäfte der Informationsebene "Liegenschaften" sind innerhalb eines Jahres seit Erstellung der Mutationsakten zur grundbuchlichen Behandlung anzumelden. Die Nachführungsgeometerin oder der Nachführungsgeometer informiert die Auftraggebenden darüber.
+<sup>1</sup> Projektierte Geschäfte von Grundstücken sind innerhalb eines Jahres seit Erstellung der Mutationsakten zur grundbuchlichen Behandlung anzumelden. Die Nachführungsgeometerin oder der Nachführungsgeometer informiert die Auftraggeberinnen und Auftraggeber darüber.
 
-<sup>2</sup> Das Grundbuchamt kann die Anmeldungsfrist aus wichtigen Gründen verlängern. Die Auftraggebenden oder, bei deren Fehlen, die Grundeigentümerinnen und Grundeigentümer stellen das Verlängerungsgesuch schriftlich vor Ablauf der einjährigen Frist beim zuständigen Grundbuchamt.
+<sup>2</sup> Das Grundbuchamt kann die Anmeldungsfrist aus wichtigen Gründen verlängern. Die Auftraggeberinnen und Auftraggeber oder, bei deren Fehlen, die Grundeigentümerinnen und Grundeigentümer stellen das Verlängerungsgesuch schriftlich vor Ablauf der einjährigen Frist beim zuständigen Grundbuchamt.
 
 <sup>3</sup> Die Nachführungsgeometerin oder der Nachführungsgeometer hebt Geschäfte auf, die nicht innerhalb der einjährigen oder der verlängerten Frist angemeldet worden sind, wenn das Grundbuchamt sie dazu auffordert
 
-<sup>4</sup> Die Kosten der Aufhebung der Mutation und der allfälligen Rückvermarkung tragen die Auftraggebenden.
+<sup>4</sup> Die Kosten der Aufhebung der Mutation und der allfälligen Rückvermarkung tragen die Auftraggeberinnen und Auftraggeber.
 
 #### Art. 12b
 
@@ -241,6 +241,12 @@ beschliesst:
 
 <sup>2</sup> Sie koordiniert die Finanzierung und Abrechnung nach Artikel 56 KGeoIG.
 
+## 3c Geodatenmodell der amtlichen Vermessung
+
+#### Art. 16e
+
+<sup>1</sup> Der Kanton ist gemäss Bundesrecht verpflichtet, den Wechsel zum neuen Geodatenmodell der amtlichen Vermessung zu vollziehen und umzusetzen.
+
 ## 4 Schlussbestimmungen
 
 #### Art. 17
@@ -277,6 +283,14 @@ beschliesst:
 #### Art. T2-1
 
 <sup>1</sup> Bis zum 31. Dezember 2012 wird der Taxpunktwert nach Anhang 2 bestimmt.
+
+## T3 Übergangsbestimmung der Änderung vom 26.11.2025 \*
+
+#### Art. T3-1
+
+<sup>1</sup> Für den Wechsel zum neuen Geodatenmodell der amtlichen Vermessung gemäss Artikel 32 Absatz 2 VAV-VBS wird den Gemeinden eine Frist bis zum 31. Dezember 2027 gesetzt.
+
+<sup>2</sup> Für den Übergang der Beschreibungssprache von INTERLIS 1 zu INTERLIS 2 gemäss Artikel 32 Absatz 3 VAV-VBS wird den Gemeinden ebenfalls eine Frist bis zum 31. Dezember 2027 gesetzt.
 
 Bern, 5. März 1997
 
