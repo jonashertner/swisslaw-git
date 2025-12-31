@@ -4,13 +4,12 @@ number: "170.111"
 title: Gemeindeverordnung
 short: GV
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-15
+version: 2026-01-01
+version_adopted: 2024-11-13
 adopted: 1998-12-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2947/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3489/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2947/pdf_file"
 
 (GV)
 
-vom 16.12.1998 (Stand 01.01.2024)
+vom 16.12.1998 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -379,11 +378,11 @@ beschliesst:
 
 **2 Verfahren**
 
-<sup>1</sup> Genehmigungspflichtige Reglemente sind der Regierungsstatthalterin oder dem Regierungsstatthalter in drei originalunterzeichneten Exemplaren einzureichen.
+<sup>1</sup> Genehmigungspflichtige Reglemente sind der zuständigen Genehmigungsbehörde in drei originalunterzeichneten Exemplaren einzureichen.
 
 <sup>2</sup> Der Eingabe ist eine Bestätigung beizulegen, wonach die Auflage ordnungsgemäss durchgeführt worden ist.
 
-<sup>3</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter überweist das Reglement mit allfälligen Bemerkungen an die Genehmigungsbehörde.
+<sup>3</sup> …
 
 #### Art. 41
 
@@ -442,15 +441,17 @@ beschliesst:
 
 **Zugang zu Erlassen**
 
-<sup>1</sup> Die nachgeführten Erlasse können bei der Gemeinde bezogen werden; sie kann dafür kostendeckende Gebühren erheben.
+<sup>1</sup> Die Gemeinde stellt ihre nachgeführten Erlasse in digitaler Form im Internet zur Verfügung.
+
+<sup>2</sup> Die Erlasse können bei der Gemeinde auf Nachfrage in Papierform bezogen werden; sie kann dafür kostendeckende Gebühren erheben.
 
 #### Art. 48
 
-**Information des Kantons**
+**Gültigkeit nicht genehmigungspflichtiger Erlasse**
 
-<sup>1</sup> Die Gemeinden überweisen der Regierungsstatthalterin oder dem Regierungsstatthalter je eine Kopie aller Erlasse für sich und zuhanden der zuständigen kantonalen Fachstelle.
+<sup>1</sup> …
 
-<sup>2</sup> Ist unklar, welche Fassung eines nicht der Genehmigung unterliegenden Erlasses gültig ist, hat die Gemeinde die gültige Fassung vorzulegen und nachzuweisen.
+<sup>2</sup> Ist unklar, welche Fassung eines nicht genehmigungspflichtigen Erlasses gültig ist, hat die Gemeinde die gültige Fassung vorzulegen und nachzuweisen.
 
 #### Art. 49
 
@@ -778,8 +779,8 @@ beschliesst:
 - b Einlagen in und Entnahmen aus Rücklagen der Globalbudgetbereiche,
 - c Entnahmen aus der Neubewertungsreserve,
 - d Einlagen in und Entnahmen aus der Schwankungsreserve,
-- e zusätzliche Abschreibungen,
-- f Einlagen in und Entnahmen aus Spezialfinanzierungen Übertragung Verwaltungsvermögen nach Artikel 85a und
+- e …
+- f Einlagen in und Entnahmen aus Spezialfinanzierungen Übertragung Verwaltungsvermögen gemäss Artikel 85a und
 - g die Abtragung des Bilanzfehlbetrags.
 
 ### 8.2.4.4 Investitionsrechnung
@@ -912,7 +913,7 @@ beschliesst:
 
 <sup>3</sup> Die Neubewertung gemäss Anhang 1 erfolgt
 
-- a bei Liegenschaften mit Ausnahme von Baurechten mindestens alle fünf Jahre sowie bei Änderung des amtlichen Werts,
+- a bei Liegenschaften und Baurechten mindestens alle fünf Jahre sowie bei Änderung des amtlichen Werts,
 - b jährlich bei allen andern Vermögenswerten.
 
 <sup>4</sup> Die Bilanzwerte sind bei eingetretenen dauerhaften Wertverminderungen oder Verlusten sofort zu berichtigen.
@@ -947,37 +948,13 @@ beschliesst:
 
 <sup>5</sup> Darlehen und Beteiligungen können im Umfang früher getätigter und nachgewiesener Abschreibungen bis höchstens zum Anschaffungswert aufgewertet werden, wenn der Verkehrswert mindestens gleich hoch wie der neue Buchwert ist.
 
-#### Art. 84
+<sup>6</sup> Occasionen werden über die Restnutzungsdauer ab Kaufdatum abgeschrieben. Grundlage ist die Nutzungsdauer ab erster Inbetriebnahme.
 
-**Zusätzliche Abschreibungen 1 Grundsätze**
+<sup>7</sup> Sofern die Gemeinde bei einem Provisorium im Kreditbeschluss eine kürzere Nutzungsdauer festlegt, als die Anlagekategorie vorsieht, wird das Provisorium über diese Dauer abgeschrieben.
 
-<sup>1</sup> Einwohnergemeinden, gemischte Gemeinden, Gesamtkirchgemeinden und Kirchgemeinden nehmen zusätzliche Abschreibungen vor, wenn im entsprechenden Rechnungsjahr
+#### Art. 84–85
 
-- a in der Erfolgsrechnung ein Ertragsüberschuss ausgewiesen wird und
-- b die ordentlichen Abschreibungen kleiner als die Nettoinvestitionen sind.
-
-<sup>1a</sup> Weist die Gemeinde einen Bilanzfehlbetrag auf, ist zuerst dieser abzutragen, bevor zusätzliche Abschreibungen vorgenommen werden.
-
-<sup>2</sup> Bei gebührenfinanzierten Spezialfinanzierungen sind keine zusätzlichen Abschreibungen zulässig.
-
-<sup>3</sup> Zusätzliche Abschreibungen sind zu budgetieren.
-
-<sup>4</sup> Beim Jahresabschluss errechnete höhere zusätzliche Abschreibungen sind zwingend vorzunehmen.
-
-#### Art. 85
-
-**2 Berechnung und Verbuchung**
-
-<sup>1</sup> Die zusätzlichen Abschreibungen entsprechen der Differenz Nettoinvestitionen zu ordentlichen Abschreibungen, aber höchstens dem Ertragsüberschuss. Es wird nur der Allgemeine Haushalt berücksichtigt.
-
-<sup>2</sup> Die zusätzlichen Abschreibungen werden auf der Passivseite im Konto zusätzliche Abschreibungen bilanziert.
-
-<sup>3</sup> Sie werden zugunsten des Kontos Bilanzüberschuss/-fehlbetrag aufgelöst, wenn
-
-- a im Rechnungsjahr ein Aufwandüberschuss des Allgemeinen Haushalts resultiert und
-- b das Verhältnis zwischen Bilanzüberschuss und Summe der Steuereinnahmen und Zahlungen aus oder an den Finanzausgleich unter einen bestimmen Wert fällt.
-
-<sup>4</sup> Die Berechnungsformel, der massgebende Wert je nach Gemeindeart und die maximale Höhe der Auflösung gemäss Absatz 3 richten sich nach Anhang 3.
+**…**
 
 #### Art. 85a
 
@@ -1003,7 +980,7 @@ beschliesst:
 
 **Burgergemeinden und andere steuerpflichtige Körperschaften**
 
-<sup>1</sup> Bei Burgergemeinden und anderen steuerpflichtigen öffentlich-rechtlichen Körperschaften gelten für Abschreibungen, Rückstellungen, Rücklagen und Wertberichtigungen die Vorschriften der Steuergesetzgebung.
+<sup>1</sup> Bei Burgergemeinden und anderen steuerpflichtigen öffentlich-rechtlichen Körperschaften gelten für die Aktivierung, Abschreibungen, Rückstellungen, Rücklagen und Wertberichtigungen die Vorschriften der Steuergesetzgebung.
 
 ### 8.2.6 Spezialfinanzierungen
 
@@ -1151,7 +1128,7 @@ beschliesst:
 
 **Abweichende Regelungen der Gemeinden**
 
-<sup>1</sup> Die Gemeinden können durch ein Reglement von den Artikeln 100 Absätze 2, 3 und 4, 101, 105, 108, 109 Absätze 2 und 3, 111 sowie 112 Absätze 2 und 3 abweichen.
+<sup>1</sup> Die Gemeinden können durch Reglement von den Artikeln 100 Absätze 2 bis 4, 101, 105, 108, 109 Absätze 2 und 3, 111 sowie 112 Absätze 2 bis 4 abweichen.
 
 #### Art. 100
 
@@ -1277,6 +1254,8 @@ beschliesst:
 <sup>2</sup> Nachkredite sind dem zuständigen Organ zu unterbreiten, bevor weitere Verpflichtungen eingegangen werden.
 
 <sup>3</sup> Wird ein Nachkredit erst beantragt, wenn die Gemeinde bereits verpflichtet ist, kann sie abklären lassen, ob die Sorgfaltspflicht verletzt worden ist und ob weitere Schritte einzuleiten sind.
+
+<sup>4</sup> Für teuerungs- oder währungsbedingte Mehrkosten muss kein Nachkredit beschlossen werden, falls der Kreditbeschluss eine Preisstands- oder Wechselkursklausel enthält.
 
 #### Art. 113
 
@@ -1414,7 +1393,7 @@ beschliesst:
 
 <sup>2</sup> Das Amt für Gemeinden und Raumordnung prüft gestützt auf diese Bescheinigung, ob es aufsichtsrechtliche Massnahmen gestützt auf Artikel 142 einleiten muss und beschafft sich so zudem allgemeine Finanzdaten und Informationen zur Beurteilung der Finanzlage der Gemeinden.
 
-<sup>3</sup> Die Gemeinden reichen die Bescheinigung dem Amt für Gemeinden und Raumordnung mit Kopie an das Regierungsstatthalteramt vor Ende Juli ein.
+<sup>3</sup> Die Gemeinden reichen die Bescheinigung dem Amt für Gemeinden und Raumordnung vor Ende Juli ein.
 
 <sup>4</sup> Die Direktion für Inneres und Justiz erlässt nähere Vorschriften zum Inhalt der «Bescheinigung der Gemeinde zur Jahresrechnung».
 
@@ -1655,6 +1634,16 @@ beschliesst:
 - 3\. Die Weitergeltung der Ausnahmebewilligung bezieht sich ausschliesslich auf das im Zeitpunkt der Einführung von HRM2 bestehende und von der Verfügung erfasste Verwaltungsvermögen.
 
 <sup>3</sup> Ausnahme: Burgergemeinden und andere steuerpflichtige öffentlich-rechtliche Körperschaften schreiben das bestehende Verwaltungsvermögen gemäss der Steuergesetzgebung ab.
+
+## T3 Übergangsbestimmungen der Änderung vom 13.11.2024
+
+#### Art. T3-1
+
+**Auflösung zusätzlicher Abschreibungen**
+
+<sup>1</sup> Der Saldo des Kontos "zusätzliche Abschreibungen" wird auf den 1. Januar 2026 vollumfänglich in den Bilanzüberschuss übertragen.
+
+<sup>2</sup> Es ist eine Bilanzbuchung innerhalb des Eigenkapitals vorzunehmen.
 
 Bern, 16. Dezember 1998
 

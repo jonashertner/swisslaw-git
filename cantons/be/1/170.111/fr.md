@@ -4,13 +4,12 @@ number: "170.111"
 title: Ordonnance sur les communes
 short: OCo
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-15
+version: 2026-01-01
+version_adopted: 2024-11-13
 adopted: 1998-12-16
 in_force: 1999-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2947/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3489/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2947/pdf_file"
 
 (OCo)
 
-du 16.12.1998 (état au 01.01.2024)
+du 16.12.1998 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -379,11 +378,11 @@ arrête:
 
 **2 Procédure**
 
-<sup>1</sup> Les règlements soumis à l'approbation du canton doivent être remis au préfet ou à la préfète en trois exemplaires munis des signatures originales.
+<sup>1</sup> Les règlements soumis à l'approbation du canton doivent être remis à l’autorité compétente en trois exemplaires munis des signatures originales.
 
 <sup>2</sup> Un certificat attestant le déroulement régulier du dépôt public sera joint au règlement.
 
-<sup>3</sup> Le préfet ou la préfète transmet le règlement accompagné de ses remarques éventuelles à l'autorité d'approbation.
+<sup>3</sup> …
 
 #### Art. 41
 
@@ -442,13 +441,15 @@ arrête:
 
 **Accès aux actes législatifs**
 
-<sup>1</sup> Les actes législatifs mis à jour doivent être disponibles auprès de la commune, qui peut les remettre contre un émolument couvrant les coûts.
+<sup>1</sup> Les communes rendent accessibles en format numérique leurs actes législatifs mis à jour sur Internet.
+
+<sup>2</sup> Les actes législatifs peuvent être obtenus sur demande en format papier auprès de la commune; cette dernière peut les remettre contre un émolument couvrant les coûts.
 
 #### Art. 48
 
-**Information du canton**
+**Validité des actes législatifs non soumis à l'approbation cantonale**
 
-<sup>1</sup> Les communes remettent au préfet ou à la préfète une copie de tous leurs actes législatifs à son intention et une copie à l'intention du service cantonal spécialisé compétent.
+<sup>1</sup> …
 
 <sup>2</sup> En cas d'incertitude dans la détermination de la teneur valable d'un acte législatif non soumis à l'approbation cantonale, la commune doit produire la teneur en vigueur et attester sa validité.
 
@@ -782,7 +783,7 @@ arrête:
 - b les attributions aux réserves provenant de l’enveloppe budgétaire et les prélèvements sur de telles réserves;
 - c les prélèvements sur la réserve liée à la réévaluation du patrimoine financier;
 - d les attributions à la réserve de fluctuation et les prélèvements sur cette réserve;
-- e les amortissements supplémentaires;
+- e …
 - f les attributions au financement spécial «transfert de patrimoine administratif» et les prélèvements sur ce financement en application de l’article 85a ainsi que
 - g l’amortissement du découvert du bilan.
 
@@ -916,7 +917,7 @@ arrête:
 
 <sup>3</sup> Une réévaluation en application de l’annexe 1 a lieu
 
-- a tous les cinq ans au moins ainsi qu’en cas de modification de la valeur officielle pour les biens-fonds, droits de superficie exceptés,
+- a tous les cinq ans au moins ainsi qu’en cas de modification de la valeur officielle pour les biens-fonds et les droits de superficie,
 - b annuellement pour toutes les autres valeurs patrimoniales.
 
 <sup>4</sup> Les valeurs inscrites au bilan doivent être immédiatement rectifiées en cas de dépréciation effective durable ou de perte.
@@ -951,37 +952,13 @@ arrête:
 
 <sup>5</sup> Les prêts et les participations peuvent être revalorisés à hauteur des amortissements effectués précédemment et prouvés, mais jusqu’à concurrence du prix d’acquisition au plus, à condition que la valeur vénale soit au moins égale à la nouvelle valeur comptable.
 
-#### Art. 84
+<sup>6</sup> Les biens d'occasion sont amortis en fonction de leur durée résiduelle d'utilisation à compter de leur date d'acquisition. La base est la durée d'utilisation depuis la première mise en service.
 
-**Amortissements supplémentaires 1 Principes**
+<sup>7</sup> Si la commune prévoit, dans la décision d'octroi d'un crédit destiné à des installations provisoires, une durée d'utilisation inférieure à celle qui est applicable à la catégorie d'immobilisations en question, les installations provisoires sont amorties en fonction de la durée prévue.
 
-<sup>1</sup> Les communes municipales, les communes mixtes, les paroisses générales et les paroisses comptabilisent des amortissements supplémentaires lorsque, pour l'exercice considéré,
+#### Art. 84–85
 
-- a le compte de résultats enregistre un excédent de revenus, et que
-- b les amortissements ordinaires sont inférieurs aux investissements nets.
-
-<sup>1a</sup> En cas de découvert de son bilan, la commune ou la paroisse l’amortit avant de comptabiliser des amortissements supplémentaires.
-
-<sup>2</sup> Les amortissements supplémentaires ne sont pas admis dans le cas des financements spéciaux alimentés par des émoluments.
-
-<sup>3</sup> Les amortissements supplémentaires doivent être inscrits au budget.
-
-<sup>4</sup> Les amortissements supplémentaires calculés lors de la clôture qui sont supérieurs aux montants budgétés doivent impérativement être comptabilisés.
-
-#### Art. 85
-
-**2 Calcul et comptabilisation**
-
-<sup>1</sup> Les amortissements supplémentaires correspondent à la différence entre les investissements nets et les amortissements ordinaires, mais seulement jusqu'à concurrence de l'excédent de revenus. Seul le compte général est pris en considération.
-
-<sup>2</sup> Les amortissements supplémentaires sont inscrits au passif du bilan, dans le compte ad hoc.
-
-<sup>3</sup> La réserve ainsi constituée est dissoute en faveur du compte «excédent/découvert du bilan» dans la mesure où
-
-- a l’exercice se solde par un excédent de charges du compte général et
-- b le rapport entre l’excédent du bilan d’une part, et la somme des rentrées fiscales et du montant versé ou reçu au titre de la péréquation financière d’autre part, se situe en-deçà d’une valeur donnée.
-
-<sup>4</sup> La formule de calcul, la valeur déterminante selon le type de commune et le montant maximal de la dissolution au sens de l’alinéa 3 sont fixés à l’annexe 3.
+**…**
 
 #### Art. 85a
 
@@ -1007,7 +984,7 @@ arrête:
 
 **Communes bourgeoises et autres collectivités soumises à l’impôt**
 
-<sup>1</sup> Dans le cas des communes bourgeoises et d’autres collectivités de droit public soumises à l’impôt, les amortissements, les provisions, les réserves d’amortissement et les rectifications de valeur sont régis par les prescriptions de la législation fiscale.
+<sup>1</sup> Dans le cas des communes bourgeoises et des autres collectivités de droit public soumises à l’impôt, l'inscription à l'actif, les amortissements, les provisions, les réserves d’amortissement et les rectifications de valeur sont régis par les prescriptions de la législation fiscale.
 
 ### 8.2.6 Financements spéciaux
 
@@ -1155,7 +1132,7 @@ arrête:
 
 **Dispositions dérogatoires des communes**
 
-<sup>1</sup> Les communes peuvent déroger par voie réglementaire aux articles 100, alinéas 2, 3 et 4, 101, 105, 108, 109, alinéas 2 et 3, 111 et 112, alinéas 2 et 3.
+<sup>1</sup> Les communes peuvent déroger par voie réglementaire aux articles 100, alinéas 2 à 4, 101, 105, 108, 109, alinéas 2 et 3, 111 et 112, alinéas 2 à 4.
 
 #### Art. 100
 
@@ -1281,6 +1258,8 @@ arrête:
 <sup>2</sup> Les crédits supplémentaires sont soumis à l'organe compétent avant que de nouveaux engagements financiers ne soient contractés.
 
 <sup>3</sup> Si un crédit supplémentaire n'est demandé qu'une fois que la commune a déjà contracté des engagements, cette dernière peut faire examiner s'il y a eu violation du devoir de diligence et si des mesures doivent être prises.
+
+<sup>4</sup> Les dépenses additionnelles liées au renchérissement ou à l'évolution des devises ne requièrent pas de décision d’octroi de crédit supplémentaire pour autant que la décision d'octroi de crédit comporte une clause d’indexation des prix ou des taux de change.
 
 #### Art. 113
 
@@ -1420,7 +1399,7 @@ arrête:
 
 <sup>2</sup> L’Office des affaires communales et de l’organisation du territoire examine, sur la base de cette attestation, s’il doit engager une procédure portant sur des mesures de surveillance conformément à l’article 142, et se procure en outre des données financières et des informations générales qui lui permettent d’évaluer la situation financière des communes.
 
-<sup>3</sup> Les communes remettent l’attestation à l’Office des affaires communales et de l’organisation du territoire et une copie à la préfecture compétente avant la fin de juillet.
+<sup>3</sup> Les communes remettent l’attestation à l’Office des affaires communales et de l’organisation du territoire avant la fin de juillet.
 
 <sup>4</sup> La Direction de l’intérieur et de la justice édicte les modalités de détail sur le contenu de l’«attestation de la commune relative aux comptes annuels».
 
@@ -1661,6 +1640,16 @@ arrête:
 - 3\. Le maintien de la validité des dérogations ne s'applique qu'au patrimoine administratif existant au moment de l'introduction du MCH2 et visé par la décision.
 
 <sup>3</sup> Exception: Les communes bourgeoises et les autres collectivités de droit public soumises à l'impôt amortissent le patrimoine administratif existant en application de la législation fiscale.
+
+## T3 Disposition transitoire de la modification du 13.11.2024
+
+#### Art. T3-1
+
+**Dissolution des amortissements supplémentaires**
+
+<sup>1</sup> Le solde du compte «amortissements supplémentaires» est intégralement transféré dans l'excédent du bilan au 1<sup>er</sup> janvier 2026.
+
+<sup>2</sup> La comptabilisation au bilan a lieu dans les capitaux propres.
 
 Berne, 16 décembre 1998
 
