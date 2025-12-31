@@ -3,11 +3,11 @@ sr: "0.142.113.672"
 title: "Accordo del 25 febbraio 2019 tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall'Unione europea e dall'Accordo sulla libera circolazione delle persone (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1059"
 language: it
-version: 2021-03-01
+version: 2026-01-01
 adopted: 2019-02-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210301-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ RU **2020** 6451
 
 Concluso il 25 febbraio 2019 Approvato dall’Assemblea federale il 25 settembre 2020[^t-1] Applicato provvisoriamente dal 1° gennaio 2021 Entrato in vigore mediante scambio di note il 1° marzo 2021[^t-2]
 
-(Stato 1° marzo 2021)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85)
 [^t-2]: [RU 2021 86](https://fedlex.data.admin.ch/eli/oc/2021/86)
@@ -367,42 +367,13 @@ La Svizzera e il Regno Unito possono esigere dai frontalieri che richiedano un d
 
 <sup>3.</sup> I cittadini di una Parte che erano frontalieri nell’altra Parte prima della data stabilita e che hanno conservato questo status possono acquistare beni immobili nell’altra Parte nella quale sono frontalieri, conformemente all’allegato I articolo 25 paragrafo 3 ALC.
 
-### Capo 4: Prestatori di servizi
+### Capo 4: ...
 
-#### Art. 23
+#### Art. 23 e 24
 
-**Diritti dei prestatori di servizi**
+[^2324-1]
 
-<sup>1.</sup>
-
-Con riferimento all’articolo 5 e all’allegato I articolo 17 ALC, i prestatori di servizi provenienti dalla Svizzera e dal Regno Unito hanno il diritto di continuare a prestare i loro servizi sul territorio dell’altra Parte alla data stabilita o dopo di essa per un periodo non superiore a 90 giorni di lavoro effettivo per anno civile. A tal fine valgono le seguenti condizioni:
-
-- i) tali persone prestano i loro servizi sulla base di un contratto di servizio scritto[^23-1] la cui conclusione è avvenuta e la cui esecuzione è iniziata prima della data stabilita;
-- ii) la prestazione dei servizi non può continuare oltre il termine di un periodo di cinque anni a partire dalla data stabilita, a meno che tale periodo non sia prorogato conformemente al paragrafo 2.
-
-<sup>2.</sup> Prima del termine del periodo di cui al paragrafo 1 punto (ii) e di ogni periodo successivo di cinque anni, le Parti riesaminano congiuntamente, in seno al Comitato misto, se prorogare il periodo di cui al paragrafo 1 punto (ii). Qualora ritengano che non ci siano motivi validi che giustifichino una mancata proroga del periodo, le Parti prorogano il periodo di ulteriori cinque anni per decisione del Comitato misto.
-
-<sup>3.</sup> Il presente articolo decade qualora sia concluso e reso applicabile tra le Parti un accordo relativo alla circolazione delle persone fisiche ai fini della prestazione di servizi conformemente ai diritti e agli obblighi delle Parti ai sensi dell’Accordo generale sugli scambi dei servizi dell’Organizzazione mondiale del commercio.
-
-<sup>4.</sup> Gli allegati II e III dell’ALC si applicano per analogia. A tal fine ogni riferimento a uno «Stato membro» nel titolo II della direttiva 2005/36/CE[^23-2] del Parlamento europeo e del Consiglio e nella direttiva 77/249/CEE[^23-3] del Consiglio è considerato applicabile soltanto alla Svizzera e al Regno Unito in modo tale che per esercitare la loro professione i prestatori di servizi debbano essere stabiliti in Svizzera o nel Regno Unito. Ai fini dell’applicazione dell’allegato II, le disposizioni del titolo II del regolamento (CE) n. 883/2004[^23-4] del Parlamento europeo e del Consiglio sono applicabili durante i periodi di cui al paragrafo 1 ai prestatori di servizi che non rientrano o non rientrano più nel disposto dell’articolo 25.
-
-<sup>5.</sup> I prestatori di servizi ai sensi del presente articolo godono del diritto di ingresso e di uscita dalla Svizzera e dal Regno Unito conformemente all’articolo 13 del presente Accordo.
-
-<sup>6.</sup> La Svizzera e il Regno Unito possono limitare i diritti dei prestatori di servizi ai sensi del presente articolo conformemente all’articolo 17 del presente Accordo.
-
-[^23-1]: Per maggiore certezza, il termine «scritto» comprende anche la forma elettronica.
-[^23-2]: Direttiva 2005/36/CE del Parlamento europeo e del Consiglio, del 7 settembre 2005, relativa al riconoscimento delle qualifiche professionali (GU L 255 del 30.9.2005, pag. 22).
-[^23-3]: Direttiva 77/249/CEE del Consiglio, del 22 marzo 1977, intesa a facilitare l’esercizio effettivo della libera prestazione di servizi da parte degli avvocati (GU L 78 del 26.3.1977, pag. 17).
-[^23-4]: Regolamento (CE) n. 883/2004 del Parlamento europeo e del Consiglio, del 29 aprile 2004, relativo al coordinamento dei sistemi di sicurezza sociale (GU L 166 del 30.4.2004, pag. 1).
-
-#### Art. 24
-
-**Rilascio di un documento attestante i diritti dei prestatori di servizi**
-
-La Svizzera e il Regno Unito possono esigere dai prestatori di servizi che richiedano un documento:
-
-- a) che attesti la titolarità dei diritti di cui al presente titolo; o
-- b) che conferisca i diritti di cui al presente titolo.
+[^2324-1]: Il 13 nov. 2025, entrambe le Parti hanno convenuto di non prorogare l’art. 23 para. 2. Di conseguenza, dal 1° gen. 2026 gli art. 23 e 24 dell’Acc. non sono più applicabili ([RU 2026 4](https://fedlex.data.admin.ch/eli/oc/2026/4)).
 
 ## Parte terza: Coordinamento dei sistemi di sicurezza sociale
 

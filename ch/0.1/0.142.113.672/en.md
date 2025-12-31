@@ -3,11 +3,11 @@ sr: "0.142.113.672"
 title: Agreement of 25 February 2019 between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on Citizens’ Rights following the Withdrawal of the United Kingdom from the European Union and the Free Movement of Persons Agreement
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1059"
 language: en
-version: 2021-03-01
+version: 2026-01-01
 adopted: 2019-02-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210301-en-xml-11.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20260101/en/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20260101-en-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/en"
 
 AS **2020** 6451
 
-English is not an official language of the Swiss Confederation.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
 Concluded on 25 February 2019 Adopted by the Federal Assembly on 25 September 2020[^t-1] Provisionally applied from 1 January 2021 Brought into force by an exchange of notes on 1 March 2021[^t-2]
 
-(Status as of 1 March 2021)
+(Last amended on 1 January 2026)
 
 [^t-1]: [AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85)
 [^t-2]: [AS 2021 86](https://fedlex.data.admin.ch/eli/oc/2021/86)
@@ -367,42 +367,13 @@ Switzerland and the United Kingdom may require frontier workers to apply for a d
 
 <sup>3.</sup> Nationals of a Party who were frontier workers in the other Party prior to the specified date and who have retained their status as frontier workers shall be permitted to acquire immovable property in the other Party in which they are frontier working as provided in Article 25 paragraph 3 of Annex I to the FMOPA.
 
-### Chapter 4 Persons providing services
+### Chapter 4 …
 
-#### Art. 23
+#### Art. 23 and 24
 
-**Rights of persons providing services**
+[^2324-1]
 
-<sup>1.</sup>
-
-With reference to Article 5 of FMOPA as well as Article 17 of Annex I to the FMOPA, persons providing services from Switzerland and the United Kingdom shall have the right to continue providing services in the territory of the other Party on or after the specified date for a period not exceeding 90 days of actual work in a calendar year subject to the following conditions:
-
-- i) persons providing services must do so on the basis of a written service contract[^23-1] which was concluded, and the performance of which started, prior to the specified date;
-- ii) the provision of services may not continue beyond the period ending 5 years after the specified date, unless the period is extended in accordance with paragraph 2.
-
-<sup>2.</sup> Prior to the end of the period specified in paragraph 1(ii) and prior to the end of each subsequent 5-year period, the Parties shall jointly review through the Joint Committee whether to extend the period specified in paragraph 1 (ii). Where the Parties agree there are no compelling grounds to decline to extend the period, the Parties shall extend the period for a further 5 years by decision of the Joint Committee.
-
-<sup>3.</sup> This Article shall be superseded in circumstances where an agreement dealing with the movement of natural persons for the purposes of the supply of services in accordance with the Parties’ rights and obligations under the General Agreement on Trade in Services of the World Trade Organisation is concluded and applied between the Parties.
-
-<sup>4.</sup> Annexes II and III of the FMOPA shall apply accordingly. For this purpose, any reference in Title II of Directive 2005/36/EC[^23-2] of the European Parliament and of the Council and in Council Directive 77/249/EEC[^23-3] to «Member State» shall be considered to apply only to the United Kingdom and Switzerland so as to provide that persons providing services must be established in the United Kingdom or Switzerland for the purpose of pursuing their profession. For the purposes of applying Annex II, the provisions of Title II of Regulation (EC) No 883/2004[^23-4] of the European Parliament and of the Council shall be applied during the periods provided for in paragraph 1 of this Article to persons providing services who are not or are no longer covered by Article 25.
-
-<sup>5.</sup> Persons providing services in accordance with this Article shall enjoy the right to enter and exit Switzerland and the United Kingdom in accordance with Article 13 of this Agreement.
-
-<sup>6.</sup> Switzerland and the United Kingdom may restrict the rights of persons providing services pursuant to this Article in accordance with Article 17 of this Agreement.
-
-[^23-1]: For greater certainty, «written» shall include in electronic form.
-[^23-2]: Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (OJ L 255, 30.9.2005, p. 22)
-[^23-3]: Council Directive 77/249/EEC of 22 March 1977 to facilitate the effective exercise by lawyers of freedom to provide services (OJ L 78, 26.3.1977, p. 17)
-[^23-4]: Regulation (EC) No 883/2004 of the European Parliament and of the Council of 29 April 2004 on the coordination of social security systems (OJ L 166, 30.4.2004, p.1)
-
-#### Art. 24
-
-**Issuance of a document identifying rights of persons providing services**
-
-Switzerland and the United Kingdom may require persons providing services to apply for a document which:
-
-- a) certifies that they have rights under this Title; or
-- b) confers the rights under this Title.
+[^2324-1]: On 13 Nov. 2025, the two parties agreed not to extend para. 2 of Art. 23. Consequently, Arts 23 and 24 of the Agreement ceased to apply on 1 Jan. 2026 ([AS 2026 4](https://fedlex.data.admin.ch/eli/oc/2026/4)).
 
 ## Part Three Coordination of Social Security Systems
 

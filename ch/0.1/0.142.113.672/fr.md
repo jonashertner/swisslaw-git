@@ -3,11 +3,11 @@ sr: "0.142.113.672"
 title: "Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l'Union européenne et de la fin de l'applicabilité de l'accord sur la libre circulation des personnes (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1059"
 language: fr
-version: 2021-03-01
+version: 2026-01-01
 adopted: 2019-02-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210301-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ RO **2020** 6451
 
 Conclu le 25 février 2019 Approuvé par l’Assemblée fédérale le 25 sept. 2020[^t-1] Appliqué provisoirement dès le 1<sup>er</sup> janvier 2021 Entré en vigueur par échange de notes le 1<sup>er</sup> mars 2021[^t-2]
 
-(État le 1<sup>er</sup> mars 2021)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85)
 [^t-2]: [RO 2021 86](https://fedlex.data.admin.ch/eli/oc/2021/86)
@@ -367,42 +367,13 @@ La Suisse et le Royaume-Uni peuvent exiger des travailleurs frontaliers qu’ils
 
 <sup>3.</sup> Le ressortissant d’une partie qui travaillait comme frontalier sur le territoire de l’autre partie avant la date spécifiée et qui a conservé son statut de travailleur frontalier est autorisé à acquérir un immeuble sur le territoire de l’autre partie conformément à l’art. 25, par. 3, de l’annexe I de l’ALCP.
 
-### Chapitre 4 Prestataires de services
+### Chapitre 4 …
 
-#### Art. 23
+#### Art. 23 et 24
 
-**Droits des prestataires de services**
+[^2324-1]
 
-<sup>1.</sup>
-
-Conformément aux art. 5 de l’ALCP et 17 de l’annexe I de l’ALCP, les prestataires de services de la Suisse et du Royaume-Uni ont le droit de continuer de fournir des services sur le territoire de l’autre partie à la date spécifiée ou après cette date, pour une période n’excédant pas 90 jours de travail effectif par année civile, aux conditions suivantes:
-
-- i) les prestataires de services doivent exercer leur activité en vertu d’un contrat de services écrit[^23-1] ayant été conclu et dont l’exécution a débuté avant la date spécifiée;
-- ii) la prestation de services ne peut se poursuivre au-delà de la période qui prend fin cinq ans après la date spécifiée, sauf prolongation de cette période conformément au par. 2.
-
-<sup>2.</sup> Avant la fin de la période indiquée au par. 1 point (ii) et avant la fin de chaque période subséquente de cinq ans, les parties examinent conjointement, par l’intermédiaire du Comité mixte, s’il convient de prolonger la période indiquée au par. 1 point (ii). Lorsque les parties conviennent qu’aucun motif impérieux ne s’y oppose, elles prolongent la période de cinq années supplémentaires par décision du Comité mixte.
-
-<sup>3.</sup> Le présent article est remplacé si un accord régissant la circulation des personnes physiques aux fins de la prestation de services conformément aux droits et aux obligations des parties découlant de l’Accord général sur le commerce de services de l’Organisation mondiale du commerce est conclu et appliqué entre les parties.
-
-<sup>4.</sup> Les annexes II et III de l’ALCP s’appliquent en conséquence. À cette fin, toute référence à un «État membre» dans le titre II de la directive 2005/36/CE[^23-2] du Parlement européen et du Conseil et dans la directive 77/249/CEE[^23-3] est réputée s’appliquer uniquement au Royaume-Uni et à la Suisse de sorte que les prestataires de services soient tenus d’être établis au Royaume-Uni ou en Suisse pour exercer leur activité. Aux fins de l’application de l’annexe II, les dispositions du titre II du règlement (CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil[^23-4] s’appliquent pendant les périodes prévues au par. 1 du présent article aux prestataires de services qui ne sont pas ou ne sont plus couverts par l’art. 25.
-
-<sup>5.</sup> Les personnes fournissant des services conformément au présent article jouissent du droit d’entrer en Suisse et au Royaume-Uni et d’en sortir conformément à l’art. 13 du présent Accord.
-
-<sup>6.</sup> La Suisse et le Royaume-Uni peuvent restreindre les droits des prestataires de services énoncés dans le présent article conformément à l’art. 17 du présent Accord.
-
-[^23-1]: Il est entendu que «écrit» englobe la forme électronique.
-[^23-2]: Directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles (JO L 255 du 30.9.2005, p. 22)
-[^23-3]: Directive 77/249/CEE du Conseil du 22 mars 1977 tendant à faciliter l’exercice effectif de la libre prestation de services par les avocats (JO L 78 du 26.3.1977, p. 17)
-[^23-4]: Règlement(CE) n<sup>o</sup> 883/2004 du Parlement européen et du Conseil du 29 avril 2004 sur la coordination des systèmes de sécurité sociale (JO L 166 du 30.4.2004, p. 1)
-
-#### Art. 24
-
-**Délivrance d’un document indiquant les droits des prestataires de services**
-
-La Suisse et le Royaume-Uni peuvent exiger des prestataires de services qu’ils demandent un document:
-
-- a) attestant qu’ils ont les droits prévus par le présent titre, ou
-- b) conférant les droits prévus par le présent titre.
+[^2324-1]: Le 13 nov. 2025, les deux parties ont convenu de ne pas prolonger l’art. 23, par. 2. En conséquence, les art. 23 et 24 de l’accord ne sont plus applicables depuis le 1<sup>er</sup> janv. 2026 ([RO 2026 4](https://fedlex.data.admin.ch/eli/oc/2026/4)).
 
 ## Troisième partie Coordination des systèmes de sécurité sociale
 

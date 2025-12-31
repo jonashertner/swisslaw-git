@@ -3,11 +3,11 @@ sr: "0.142.113.672"
 title: Abkommen vom 25. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1059"
 language: de
-version: 2021-03-01
+version: 2026-01-01
 adopted: 2019-02-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210301-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich v
 
 Abgeschlossen am 25. Februar 2019 Von der Bundesversammlung genehmigt am 25. September 2020[^t-1] Vorläufig angewendet ab 1. Januar 2021 In Kraft getreten durch Notenaustausch am 1. März 2021[^t-2]
 
-(Stand am 1. März 2021)
+(Stand am 1. Januar 2026)
 
 [^t-1]: [AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85)
 [^t-2]: [AS 2021 86](https://fedlex.data.admin.ch/eli/oc/2021/86)
@@ -369,42 +369,13 @@ Die Schweiz und das Vereinigte Königreich können von Grenzgängerinnen und Gre
 
 <sup>3.</sup> Staatsangehörige einer Partei, die vor dem festgelegten Stichtag im Hoheitsgebiet der anderen Partei Grenzgängerin oder Grenzgänger waren und ihren Grenzgängerstatus beibehalten haben, sind zum Erwerb von Immobilien im Hoheitsgebiet der anderen Partei, in dem sie Grenzgängerin oder Grenzgänger sind, gemäss Artikel 25 Absatz 3 von Anhang I zum FZA berechtigt.
 
-### Kapitel 4: Dienstleistungserbringende
+### Kapitel 4: …
 
-#### Art. 23
+#### Art. 23 und 24
 
-**Rechte der Dienstleistungserbringenden**
+[^2324-1]
 
-<sup>1.</sup>
-
-In Bezug auf Artikel 5 des FZA sowie Artikel 17 von Anhang I zum FZA sind Dienstleistungserbringende aus der Schweiz und aus dem Vereinigten Königreich berechtigt, am oder nach dem festgelegten Stichtag Dienstleistungen im Hoheitsgebiet der anderen Partei zu erbringen, deren Dauer 90 tatsächliche Arbeitstage pro Kalenderjahr nicht überschreitet. Dabei gelten folgende Bedingungen:
-
-- i) die Erbringung der Dienstleistung hat gestützt auf einen schriftlichen Vertrag[^23-1] zu erfolgen, der vor dem festgelegten Stichtag abgeschlossen wurde und mit dessen Ausführung vor dem festgelegten Stichtag begonnen wurde;
-- ii) die Erbringung der Dienstleistung darf nicht über den Zeitraum hinaus dauern, der fünf Jahre nach dem festgelegten Stichtag endet, es sei denn, der Zeitraum wird gemäss Absatz 2 verlängert.
-
-<sup>2.</sup> Vor dem Ende des in Absatz 1 (ii) genannten Zeitraums und vor dem Ende jedes darauffolgenden Fünfjahreszeitraums überprüfen die Parteien gemeinsam im Gemischten Ausschuss, ob der in Absatz 1 (ii) genannte Zeitraum zu verlängern ist. Kommen die Parteien überein, dass keine zwingenden Gründe vorliegen, die gegen eine Verlängerung des Zeitraums sprechen, verlängern die Parteien durch Beschluss des Gemischten Ausschusses den Zeitraum um weitere fünf Jahre.
-
-<sup>3.</sup> Dieser Artikel wird hinfällig, wenn ein Abkommen zur Regelung des Personenverkehrs zwecks Dienstleistungserbringung im Einklang mit den Rechten und Pflichten der Parteien nach dem Allgemeinen Abkommen über den Handel mit Dienstleistungen (GATS) der Welthandelsorganisation (WTO) abgeschlossen und angewendet wird.
-
-<sup>4.</sup> Anhänge II und III des FZA finden sinngemäss Anwendung. Zu diesem Zweck soll jede Bezugnahme auf «Mitgliedstaat» in Titel II der Richtlinie 2005/36/EG[^23-2] des Europäischen Parlaments und des Rates und in der Richtlinie 77/249/EWG[^23-3] des Rates nur für die Schweiz und das Vereinigte Königreich gelten, um zu gewährleisten, dass Dienstleistungserbringende, zur Ausübung ihres Berufs in der Schweiz oder im Vereinigten Königreich niedergelassen sein müssen. Zwecks Anwendung von Anhang II sollen die Bestimmungen der Verordnung (EG) 883/2004[^23-4] des Europäischen Parlaments und Rates während der in Absatz 1 dieses Artikels vorgesehenen Dauer auf Dienstleistungserbringende angewendet werden, die nicht oder nicht mehr von Artikel 25 erfasst werden.
-
-<sup>5.</sup> Dienstleistungserbringende im Sinne dieses Artikels sind berechtigt, gemäss Artikel 13 dieses Abkommens in die Schweiz und in das Vereinigte Königreich einzureisen und auszureisen.
-
-<sup>6.</sup> Die Schweiz und das Vereinigte Königreich können gemäss Artikel 17 dieses Abkommens die Rechte von Dienstleistungserbringenden unter diesem Artikel beschränken.
-
-[^23-1]: Im Interesse grösserer Rechtssicherheit: «Schriftlich» beinhaltet auch die elektronische Form.
-[^23-2]: Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22)
-[^23-3]: Richtlinie 77/249/EWG des Rates vom 22. März 1977 zur Erleichterung des freien Dienstleistungsverkehrs der Rechtsanwälte (ABl. L 78 vom 26.3.1977, S. 17)
-[^23-4]: Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 zur Koordinierung der Systeme der sozialen Sicherheit (ABl. L 166 vom 30.4.2004, S. 1)
-
-#### Art. 24
-
-**Ausstellung eines Dokuments über die Rechte von Dienstleistungserbringenden**
-
-Die Schweiz und das Vereinigte Königreich können von Dienstleistungserbringenden die Beantragung eines Dokuments verlangen, das:
-
-- a) bescheinigt, dass diese über die in diesem Titel vorgesehenen Rechte verfügen; oder
-- b) die in diesem Titel vorgesehenen Rechte verleiht.
+[^2324-1]: Am 13. Nov. 2025 haben die beiden Parteien vereinbart, Art. 23 Abs. 2 zu nicht verlängern. Daher sind die Art. 23 und 24 des Abk. seit dem 1. Jan. 2026 nicht mehr anwendbar ([AS 2026 4](https://fedlex.data.admin.ch/eli/oc/2026/4)).
 
 ## Teil Drei: Koordinierung der Systeme der sozialen Sicherheit
 
