@@ -4,11 +4,11 @@ title: "Ordinanza del 15 giugno 2001 sugli addetti alla sicurezza per il traspor
 short: OSAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/268"
 language: it
-version: 2016-07-01
+version: 2026-01-01
 adopted: 2001-06-15
 in_force: 2001-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/268/20160701/it/xml/fedlex-data-admin-ch-eli-cc-2001-268-20160701-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20160701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/268/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2001-268-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20160701/it"
 
 (Ordinanza sugli addetti alla sicurezza, OSAS)
 
-del 15 giugno 2001 (Stato 1° luglio 2016)
+del 15 giugno 2001 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 30 capoverso 5, 103 capoverso 1 e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale; visti gli articoli 5 capoverso 1 e 24 capoverso 1 della legge del 25 settembre 2015[^ingress-2] sul trasporto di merci,[^ingress-3]
+visti gli articoli 30 capoverso 5, 103 capoverso 1 e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale; visti gli articoli 7 capoverso 1 e 31 capoverso 1 della legge del 21 marzo 2025[^ingress-2] sul trasporto di merci,[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-3]: Nuovo testo giusta la cifra II 3 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-3]: Nuovo testo giusta l’all. cifra II n. 3 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -60,9 +60,9 @@ Nella presente ordinanza si intende per:
 - b.[^3-1] merci pericolose: sostanze o oggetti designati come tali nell’ordinanza del 29 novembre 2002[^3-2] concernente il trasporto di merci pericolose su strada (SDR) e nell’ordinanza del 31 ottobre 2012[^3-3] concernente il trasporto di merci pericolose per ferrovia e tramite impianti di trasporto a fune[^3-4].
 
 [^3-1]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2513](https://fedlex.data.admin.ch/eli/oc/2005/429)).
-[^3-2]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^3-3]: [RS 742.401.6](https://fedlex.data.admin.ch/eli/cc/1996/3436_3436_3436)
-[^3-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2013.
+[^3-2]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^3-3]: [RS 742.401.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8816)
+[^3-4]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2013.
 
 ## Sezione 2: Doveri dell’impresa
 
@@ -161,8 +161,8 @@ Sono in particolare tenuti a verificare:
 
 [^11-1]: Nuovo testo giusta la cifra I dell’O del 31 ott. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6539](https://fedlex.data.admin.ch/eli/oc/2012/784)).
 [^11-2]: Introdotta dalla cifra I dell’O dell’8 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5365](https://fedlex.data.admin.ch/eli/oc/2006/817)).
-[^11-3]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^11-4]: Il RID (All. I al CIM – [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) non è pubblicato né nella RU né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
+[^11-3]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^11-4]: Il RID (All. I al CIM – [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) non è pubblicato né nella RU né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
 
 #### Art. 12
 
@@ -203,8 +203,8 @@ Essa può limitarsi a uno o due mezzi di trasporto e a uno o più dei seguenti s
 - d. classi 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 8, 9;
 - e.[^14-4] classe 3 numeri ONU 1202, 1203, 1223, 3475 e carburante avio classificato ai numeri ONU 1268 e 1863.
 
-[^14-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^14-2]: Il RID (All. I al CIM – [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) non è pubblicato né nella RU né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
+[^14-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^14-2]: Il RID (All. I al CIM – [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) non è pubblicato né nella RU né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
 [^14-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5365](https://fedlex.data.admin.ch/eli/oc/2006/817)).
 [^14-4]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5089](https://fedlex.data.admin.ch/eli/oc/2008/706)).
 
@@ -259,8 +259,8 @@ L’attestato di formazione contiene le seguenti indicazioni:
 
 <sup>4</sup> Per sostenere l’esame volto a prolungare il documento comprovante l’istruzione non è necessario un attestato di formazione.
 
-[^18-1]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
-[^18-2]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^18-1]: [RS 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
+[^18-2]: [RS 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
 
 #### Art. 19
 
@@ -277,8 +277,8 @@ L’attestato di formazione contiene le seguenti indicazioni:
 <sup>4</sup> All’inizio di ogni anno, gli organi preposti agli esami comunicano alle autorità d’esecuzione le date degli stessi.
 
 [^19-1]: Introdotto dalla cifra I dell’O del 10 giu. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2513](https://fedlex.data.admin.ch/eli/oc/2005/429)).
-[^19-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^19-3]: Il RID (All. I al CIM - [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) non è pubblicato né nella RU, né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch
+[^19-2]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^19-3]: Il RID (All. I al CIM - [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) non è pubblicato né nella RU, né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch
 
 #### Art. 20
 
@@ -315,8 +315,8 @@ Un organo preposto agli esami deve:
 
 <sup>5</sup> Gli organi preposti agli esami tengono un elenco dei documenti comprovanti l’istruzione rilasciati e prolungati. Tale elenco può essere consultato da chiunque.
 
-[^21-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^21-2]: Il RID (All. I al CIM - [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) non è pubblicato né nella RU, né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch
+[^21-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^21-2]: Il RID (All. I al CIM - [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) non è pubblicato né nella RU, né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch
 
 #### Art. 22
 
@@ -324,16 +324,16 @@ Un organo preposto agli esami deve:
 
 Sono riconosciuti come equivalenti i documenti esteri comprovanti l’istruzione rilasciati in applicazione della direttiva 2008/68/CE[^22-2] della sezione 1.8.3 ADR[^22-3] o della sezione 1.8.3 RID[^22-4].
 
-[^22-1]: Nuovo testo giusta la cifra II 3 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^22-1]: Nuovo testo giusta la cifra II n. 3 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^22-2]: Direttiva 2008/68/CE del Parlamento europeo e del Consiglio, del 24 settembre 2008, relativa al trasporto interno di merci pericolose, GU L 260 del 30.9.2008, pag. 13.
-[^22-3]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^22-4]: Il regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID, appendice C alla Convenzione del 9 maggio 1980 relativa ai trasporti internazionali per ferrovia, COTIF; [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) nella versione modificata dal Protocollo di modifica del 3 giugno 1999, non è pubblicato nella RU. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
+[^22-3]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^22-4]: Il regolamento concernente il trasporto internazionale ferroviario delle merci pericolose (RID, appendice C alla Convenzione del 9 maggio 1980 relativa ai trasporti internazionali per ferrovia, COTIF; [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) nella versione modificata dal Protocollo di modifica del 3 giugno 1999, non è pubblicato nella RU. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
 
 ## Sezione 5: Disposizioni penali
 
 [^sec5-1]
 
-[^sec5-1]: Nuovo testo giusta la cifra II 3 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^sec5-1]: Nuovo testo giusta la cifra II n. 3 dell’all. all’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 23
 
@@ -416,7 +416,7 @@ Sono esenti dall’obbligo di designare addetti alla sicurezza:
   - a. container-cisterna di cantiere di cui all’appendice 1 numero 1.6.14.4[^annexu1-lvlu1-3] SDR[^annexu1-lvlu1-4];
   - b. 2 unità di irradiazione n. ONU 2916 con un’attività al massimo 10 volte superiore al valore A2 (o al valore A1 in caso di particolari fonti radioattive) o 2 sonde isotopiche n. ONU 3332 per unità di trasporto.
 
-[^annexu1-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^annexu1-lvlu1-2]: Il RID (All. I al CIM – [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) non è pubblicato né nella RU né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
-[^annexu1-lvlu1-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) con effetto dal 1° gen. 2019.
-[^annexu1-lvlu1-4]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^annexu1-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annexu1-lvlu1-2]: Il RID (All. I al CIM – [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) non è pubblicato né nella RU né nella RS. Lo stampato è ottenibile presso l’Ufficio federale delle costruzioni e della logistica (UFCL), Vendita di pubblicazioni federali, 3003 Berna, www.bundespublikationen.ch.
+[^annexu1-lvlu1-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) con effetto dal 1° gen. 2019.
+[^annexu1-lvlu1-4]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)

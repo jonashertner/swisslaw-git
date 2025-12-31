@@ -4,11 +4,11 @@ title: "Verordnung vom 15. Juni 2001 über Gefahrgutbeauftragte für die Beförd
 short: GGBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/268"
 language: de
-version: 2016-07-01
+version: 2026-01-01
 adopted: 2001-06-15
 in_force: 2001-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/268/20160701/de/xml/fedlex-data-admin-ch-eli-cc-2001-268-20160701-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20160701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/268/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2001-268-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20160701/de"
 
 (Gefahrgutbeauftragtenverordnung, GGBV)
 
-vom 15. Juni 2001 (Stand am 1. Juli 2016)
+vom 15. Juni 2001 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 30 Absatz 5, 103 Absatz 1 und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] sowie die Artikel 5 Absatz 1 und 24 Absatz 1 des Gütertransportgesetzes vom 25. September 2015[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 30 Absatz 5, 103 Absatz 1 und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] sowie die Artikel 7 Absatz 1 und 31 Absatz 1 des Gütertransportgesetzes vom 21. März 2025[^ingress-2],[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-3]: Fassung gemäss Anhang Ziff. II 3 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-3]: Fassung gemäss Anhang Ziff. II 3 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -60,9 +60,9 @@ In dieser Verordnung bedeuten:
 - b.[^3-1] Gefährliche Güter: Stoffe oder Gegenstände, die in der Verordnung vom 29. November 2002[^3-2] über die Beförderung gefährlicher Güter auf der Strasse (SDR) und in der Verordnung vom 31. Oktober 2012[^3-3] über die Beförderung gefährlicher Güter mit Eisenbahnen und Seilbahnen[^3-4] als solche bezeichnet sind.
 
 [^3-1]: Fassung gemäss Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2513](https://fedlex.data.admin.ch/eli/oc/2005/429)).
-[^3-2]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^3-3]: [SR 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785)
-[^3-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2013 angepasst.
+[^3-2]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^3-3]: [SR 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825)
+[^3-4]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2013 angepasst.
 
 ## 2. Abschnitt: Pflichten der Unternehmungen
 
@@ -161,8 +161,8 @@ Sie haben insbesondere zu überprüfen:
 
 [^11-1]: Fassung gemäss Ziff. I der V vom 31. Okt. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6539](https://fedlex.data.admin.ch/eli/oc/2012/784)).
 [^11-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5365](https://fedlex.data.admin.ch/eli/oc/2006/817)).
-[^11-3]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^11-4]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern (www.bundespublikationen.ch) bezogen werden.
+[^11-3]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^11-4]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.ch](http://www.bundespublikationen.ch), bezogen werden.
 
 #### Art. 12
 
@@ -203,8 +203,8 @@ Sie kann sich auf einen oder zwei Verkehrsträger sowie auf eines oder mehrere d
 - d. Klassen 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 8, 9;
 - e.[^14-4] Klasse 3 UN-Nummern 1202, 1203, 1223, 3475 und Flugbenzin der UN‑Nummern 1268 und 1863.
 
-[^14-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^14-2]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern (www.bundespublikationen.ch) bezogen werden.
+[^14-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^14-2]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.ch](http://www.bundespublikationen.ch), bezogen werden.
 [^14-3]: Fassung gemäss Ziff. I der V vom 8. Dez. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5365](https://fedlex.data.admin.ch/eli/oc/2006/817)).
 [^14-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5089](https://fedlex.data.admin.ch/eli/oc/2008/706)).
 
@@ -259,8 +259,8 @@ Die Ausbildungsbescheinigung enthält folgende Angaben:
 
 <sup>4</sup> Für die Ablegung der Prüfung zur Verlängerung des Schulungsnachweises bedarf es keiner Ausbildungsbescheinigung.
 
-[^18-1]: [SR 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
-[^18-2]: [SR 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^18-1]: [SR 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
+[^18-2]: [SR 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
 
 #### Art. 19
 
@@ -277,8 +277,8 @@ Die Ausbildungsbescheinigung enthält folgende Angaben:
 <sup>4</sup> Die Prüfungsstellen haben die Prüfungsdaten den Vollzugsbehörden jeweils zu Beginn des Jahres mitzuteilen.
 
 [^19-1]: Eingefügt durch Ziff. I der V vom 10. Juni 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2513](https://fedlex.data.admin.ch/eli/oc/2005/429)).
-[^19-2]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^19-3]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, www.bundespublikationen.ch, bezogen werden.
+[^19-2]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^19-3]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.ch](http://www.bundespublikationen.ch), bezogen werden.
 
 #### Art. 20
 
@@ -315,8 +315,8 @@ Eine Prüfungsstelle muss:
 
 <sup>5</sup> Die Prüfungsstellen führen eine Liste der erteilten und verlängerten Schulungsnachweise. Die Liste kann von jedermann eingesehen werden.
 
-[^21-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^21-2]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern (www.bundespublikationen.ch) bezogen werden.
+[^21-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^21-2]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.ch](http://www.bundespublikationen.ch), bezogen werden.
 
 #### Art. 22
 
@@ -326,8 +326,8 @@ Ausländische Schulungsnachweise, die in Anwendung der Richtlinie Nr. 2008/68/EG
 
 [^22-1]: Fassung gemäss Anhang Ziff. II 3 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^22-2]: Richtlinie Nr. 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland, ABl. L 260 vom 30.9.2008, S. 13.
-[^22-3]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^22-4]: Das RID (Anhang C zum Übereinkommen vom 9. Mai 1980 über den internationalen Eisenbahnverkehr; COTIF; [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) in der Fassung des Änderungsprotokolls vom 3. Juni 1999 ([SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern (www.bundespublikationen.ch) bezogen werden.
+[^22-3]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^22-4]: Das RID (Anhang C zum Übereinkommen vom 9. Mai 1980 über den internationalen Eisenbahnverkehr; COTIF; [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) in der Fassung des Änderungsprotokolls vom 3. Juni 1999 ([SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)) wird in der AS nicht veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.ch](http://www.bundespublikationen.ch), bezogen werden.
 
 ## 5. Abschnitt: Strafbestimmungen
 
@@ -416,7 +416,7 @@ Von der Pflicht, Gefahrgutbeauftragte zu ernennen, befreit sind:
   - a. Baustellentanks nach Anhang 1 Ziffer 1.6.14.4[^annexu1-lvlu1-3] SDR[^annexu1-lvlu1-4];
   - b. 2 Bestrahlungseinheiten UN 2916 mit einer maximalen Aktivität des 10‑fachen A2‑Wertes (bzw. A1‑Wertes bei Strahlenquellen in besonderer Form) oder 2 Isotopensonden UN 3332 je Beförderungseinheit.
 
-[^annexu1-lvlu1-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^annexu1-lvlu1-2]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern (www.bundespublikationen.ch bezogen werden.
-[^annexu1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
-[^annexu1-lvlu1-4]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^annexu1-lvlu1-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annexu1-lvlu1-2]: Das RID (Anlage I zur CIM – [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) wird weder in der AS noch in der SR veröffentlicht. Separatdrucke können beim Bundesamt für Bauten und Logistik (BBL), Verkauf Bundespublikationen, 3003 Bern, [www.bundespublikationen.ch](http://www.bundespublikationen.ch), bezogen werden.
+[^annexu1-lvlu1-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
+[^annexu1-lvlu1-4]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)

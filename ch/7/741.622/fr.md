@@ -4,11 +4,11 @@ title: "Ordonnance du 15 juin 2001 sur les conseillers à la sécurité pour le 
 short: OCS
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/268"
 language: fr
-version: 2016-07-01
+version: 2026-01-01
 adopted: 2001-06-15
 in_force: 2001-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/268/20160701/fr/xml/fedlex-data-admin-ch-eli-cc-2001-268-20160701-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20160701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/268/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-268-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/268/20160701/fr"
 
 (Ordonnance sur les conseillers à la sécurité, OCS)
 
-du 15 juin 2001 (État le 1<sup>er</sup> juillet 2016)
+du 15 juin 2001 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 30, al. 5, 103, al. 1, et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière[^ingress-1] vu les art. 5, al. 1, et 24, al. 1, de la loi du 25 septembre 2015 sur le transport de marchandises[^ingress-2],[^ingress-3]
+vu les art. 30, al. 5, 103, al. 1, et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière[^ingress-1], vu les art. 7, al. 1, et 31, al. 1, de la loi du 21 mars 2025 sur le transport de marchandises[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-3]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 25 mai 2016 sur le transport des marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-3]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 ## Section 1 Dispositions générales
 
@@ -60,8 +60,8 @@ Au sens de la présente ordonnance, on entend par:
 - b.[^3-1] marchandises dangereuses, les matières ou les objets désignés comme tels dans l’ordonnance du 29 novembre 2002 relative au transport des marchandises dangereuses par route (SDR)[^3-2] et dans l’ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuses par chemin de fer et par installation à câbles[^3-3].
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2513](https://fedlex.data.admin.ch/eli/oc/2005/429)).
-[^3-2]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^3-3]: [RS 742.412](https://fedlex.data.admin.ch/eli/cc/2012/785). Le renvoi a été adapté au 1<sup>er</sup> janv. 2013 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^3-2]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^3-3]: [RS 742.412](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8825). Le renvoi a été adapté au 1<sup>er</sup> janv. 2013 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 ## Section 2 Obligations des entreprises
 
@@ -160,8 +160,8 @@ Il leur incombe notamment d’examiner:
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6539](https://fedlex.data.admin.ch/eli/oc/2012/784)).
 [^11-2]: Introduite par le ch. I de l’O du 8 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5365](https://fedlex.data.admin.ch/eli/oc/2006/817)).
-[^11-3]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^11-4]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.bundespublikationen.ch.
+[^11-3]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^11-4]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, [www.bundespublikationen.ch](http://www.bundespublikationen.ch).
 
 #### Art. 12
 
@@ -203,8 +203,8 @@ Elle peut se limiter à un ou deux modes de transport et à une ou plusieurs des
 - d. classes 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 8, 9;
 - e.[^14-4] classe 3 n<sup>os</sup> ONU 1202, 1203, 1223, 3475 et carburant aviation classé sous les n<sup>os</sup> 1268 et 1863.
 
-[^14-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^14-2]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.bundespublikationen.ch.
+[^14-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^14-2]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, [www.bundespublikationen.ch](http://www.bundespublikationen.ch).
 [^14-3]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5365](https://fedlex.data.admin.ch/eli/oc/2006/817)).
 [^14-4]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5089](https://fedlex.data.admin.ch/eli/oc/2008/706)).
 
@@ -259,8 +259,8 @@ Elle contient les indications suivantes:
 
 <sup>4</sup> La personne qui se présente à l’examen pour prolonger son certificat de formation n’a pas besoin d’attestation de cours.
 
-[^18-1]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
-[^18-2]: [RS 814.501.261](https://fedlex.data.admin.ch/eli/cc/2017/503)
+[^18-1]: [RS 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
+[^18-2]: [RS 814.501.261](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9536)
 
 #### Art. 19
 
@@ -277,8 +277,8 @@ Elle contient les indications suivantes:
 <sup>4</sup> Les organes chargés des examens doivent communiquer les dates de ces derniers aux autorités d’exécution au début de chaque année.
 
 [^19-1]: Introduit par le ch. I de l’O du 10 juin 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2513](https://fedlex.data.admin.ch/eli/oc/2005/429)).
-[^19-2]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^19-3]: Le RID (annexe I de la CIM; RS **0****.****742.403.1**) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.bundespublikationen.ch.
+[^19-2]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^19-3]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, [www.bundespublikationen.ch](http://www.bundespublikationen.ch).
 
 #### Art. 20
 
@@ -315,8 +315,8 @@ Tout organe chargé des examens doit:
 
 <sup>5</sup> Les organes chargés des examens tiennent une liste des certificats de formation délivrés et prolongés. Elle peut être consultée par tout un chacun.
 
-[^21-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^21-2]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, www.bundespublikationen.ch.
+[^21-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^21-2]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne, [www.bundespublikationen.ch](http://www.bundespublikationen.ch).
 
 #### Art. 22
 
@@ -324,16 +324,16 @@ Tout organe chargé des examens doit:
 
 Les certificats de formation étrangers qui ont été établis en application de la directive n<sup>o</sup> 2008/68/CE[^22-2], de la section 1.8.3 ADR[^22-3] ou de la section 1.8.3 RID[^22-4] sont reconnus comme équivalents.
 
-[^22-1]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 25 mai 2016 sur le transport des marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^22-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 25 mai 2016 sur le transport des marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 [^22-2]: Directive 2008/68/CE du Parlement européen et du Conseil du 24 septembre 2008 relative au transport intérieur des marchandises dangereuses, JO L 260 du 30.9.2008, p. 13.
-[^22-3]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^22-4]: Le RID (App. C à la Conv. du 9 mai 1980 relative aux transports internationaux ferroviaires; COTIF; [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) dans la teneur du Prot. de modification du 3 juin 1999 ([RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) n’est pas publié au RO. Des tirés à part peuvent être commandés auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente de publications fédérales, 3003 Berne (www.publicationsfederales.admin.ch).
+[^22-3]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^22-4]: Le RID (App. C à la Conv. du 9 mai 1980 relative aux transports internationaux ferroviaires; COTIF; [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) dans la teneur du Prot. de modification du 3 juin 1999 ([RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)) n’est pas publié au RO. Des tirés à part peuvent être commandés auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente de publications fédérales, 3003 Berne ([www.publicationsfederales.admin.ch](http://www.publicationsfederales.admin.ch)).
 
 ## Section 5 Dispositions pénales
 
 [^sec5-1]
 
-[^sec5-1]: Nouvelle teneur selon le ch. II 3 de l’annexe à l’O du 25 mai 2016 sur le transport des marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^sec5-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 25 mai 2016 sur le transport des marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
 
 #### Art. 23
 
@@ -416,7 +416,7 @@ Sont exemptées de l’obligation de désigner des conseillers à la sécurité:
   - a. aux conteneurs-citernes de chantier selon l’appendice 1, par. 1.6.14.4[^annexu1-lvlu1-3] SDR[^annexu1-lvlu1-4];
   - b. à 2 unités de radiographie n<sup>o</sup> ONU 2916 d’une activité maximale de dix fois la valeur A2 (ou A1 s’il s’agit de sources de radiation sous forme spéciale) ou à 2 sondes à isotopes n<sup>o</sup> ONU 3332 par unité de transport.
 
-[^annexu1-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
-[^annexu1-lvlu1-2]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
-[^annexu1-lvlu1-3]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^annexu1-lvlu1-4]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
+[^annexu1-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
+[^annexu1-lvlu1-2]: Le RID (annexe I de la CIM; [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)) n’est publié ni au RO ni au RS. Des tirés à part peuvent être obtenus auprès de l’OFCL, Vente des publications fédérales, 3003 Berne.
+[^annexu1-lvlu1-3]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^annexu1-lvlu1-4]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
