@@ -4,7 +4,7 @@ number: "962.41.6"
 title: "RÈGLEMENT du 31.10.2018 sur le Fonds d'encouragement à la prévention des dommages provoqués par les éléments naturels (RFEPDEN)"
 short: RFEPDEN
 language: fr
-version: 2019-09-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/962.41.6?id=aba9764f-92f0-4c45-ab6d-5b12b851c02a"
 ---
 
@@ -52,33 +52,33 @@ arrête
 
 <sup>2</sup> Les conditions cumulatives suivantes doivent être remplies :
 
-- a. Le bâtiment a subi un dommage présentant une possibilité de réitération causé par un élément naturel au sens de l'article 9 LAIEN, ou le bâtiment est exposé au risque manifeste de subir un tel dommage, avéré ou confirmé par une expertise même s'il n'apparaît pas sur une zone de danger cartographiée ou non cartographiée ;
+- a. Le bâtiment a subi un dommage présentant une possibilité de réitération causé par un élément naturel au sens de l'article 9 LAIEN ou le bâtiment est exposé au risque manifeste de subir un tel dommage. L'ECA peut demander qu'une expertise soit produite afin de confirmer l'exposition au risque du bâtiment.
 - b. La mise en place des mesures de prévention permettra une amélioration significative de la protection du bâti, sur le plan des risques humains, matériels ou financiers et est jugée économiquement adaptée (en termes de coûts / efficacité) ;
-- c. Une maintenance appropriée des mesures de prévention pourra être effectuée par l'assuré ou la commune ;
+- c. Une maintenance appropriée des mesures de prévention devra être effectuée par l'assuré ou la commune;
 - d. Le bâtiment est assuré auprès de l'ECA contre les dommages causés par les éléments naturels.
 
-[^chapterChapitreII-1]: Modif. 1 du 17.12.2025: Modification Al. 2, a,c; entrée en vigueur au 01.01.2026; Introduction Art. 4, Al. 1, l; entrée en vigueur au 01.01.2026; Introduction Art. 10, Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026; Introduction Art. 12, Al. 3; entrée en vigueur au 01.01.2026
+[^chapterChapitreII-1]: Modif. 1 du 17.12.2025: Modification Al. 2, a,c; entrée en vigueur au 01.01.2026
 [^2-1]: Loi du 17.11.1952 concernant l'assurance des bâtiments et du mobilier contre l'incendie et les éléments naturels ([BLV 963.41](https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.41?id=6752fd2c-215b-4dff-9bd6-e0e0587e2cd4))
 
 #### Art. 3
 
 **[^2-2]**
 
-<sup>1</sup> Les mesures pouvant faire l'objet d'une participation financière sont définies dans un catalogue de mesures établi et tenu à jour par l'ECA, préalablement soumis à la Commission cantonale en matière de dangers naturels (CCDN) pour validation.
+<sup>1</sup> Les mesures pouvant faire l'objet d'une participation financière sont définies dans un catalogue de prestations établi et tenu à jour par l'ECA, préalablement soumis à la Commission interservices des dangers naturels (CIDN) pour préavis à l'attention de la Commission cantonale en matière de dangers naturels (CCDN) pour validation.
 
-<sup>2</sup> Peuvent notamment faire l'objet d'une participation financière les frais induits par la mise en place de mesures de prévention du type :
+<sup>2</sup> Peuvent notamment faire l'objet d'une participation financière les frais induits par la mise en place de prestations de prévention du type :
 
-- a. Cloisonnement et étanchéification des ouvertures dans l'enveloppe d'un bâtiment ;
-- b. Surélévations et seuils (bâtiment ou équipement) ;
-- c. Aménagements extérieurs ou aux abords immédiats d'un bâtiment ;
-- d. Travaux sur l'enveloppe du bâtiment ;
-- e. Mesures collectives pour un secteur bâti ou pour un ensemble de bâtiments ;
-- f. Assainissement des espaces et équipements intérieurs ;
-- g. Outils d'alerte ou d'automatisation de mesures préventives.
+- a. Etudes et diagnotics
+- b. Toiture, couverture et éléments associés
+- c. Structure et façades
+- d. Espaces extérieurs
+- e. Organisation et systèmes d'alerte
+- f. ...
+- g. ...
 
-<sup>3</sup> Peuvent également faire l'objet d'une participation financière les frais d'expertise et d'étude ainsi que les prestations et matériaux nécessaires à l'élaboration des mesures de protection.
+<sup>3</sup> Peuvent également faire l'objet d'une participation financière les prestations et matériaux nécessaires à l'élaboration des mesures de protection.
 
-[^2-2]: Modif. 1 du 17.12.2025: Modification Al. 1-2; entrée en vigueur au 01.01.2026; Modification Al. 2, a-e; entrée en vigueur au 01.01.2026; Abrogation Al. 2, f-g; entrée en vigueur au 01.01.2026; Modification Al. 3; entrée en vigueur au 01.01.2026; Introduction Art. 4, Al. 1, l; entrée en vigueur au 01.01.2026; Introduction Art. 10, Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026; Introduction Art. 12, Al. 3; entrée en vigueur au 01.01.2026
+[^2-2]: Modif. 1 du 17.12.2025: Modification Al. 1-2; entrée en vigueur au 01.01.2026; Modification Al. 2, a-e; entrée en vigueur au 01.01.2026; Abrogation Al. 2, f-g; entrée en vigueur au 01.01.2026; Modification Al. 3; entrée en vigueur au 01.01.2026
 
 #### Art. 4
 
@@ -86,19 +86,20 @@ arrête
 
 <sup>1</sup> Les mesures suivantes sont exclues de l'aide financière :
 
-- a. Mesures nécessaires pour le respect d'obligations légales ;
+- a. Mesures nécessaires pour le respect d'obligations légales, notamment pour les constructions neuves et les changements d'affectation. La transformation de parties existantes de bâtiments est réservée;
 - b. Mesures pour la correction de défauts de construction, de planification ou de réalisation du bâti actuel ;
 - c. Mesures dont la finalité n'est pas celle de la protection contre les dangers naturels ;
-- d. Mesures dont le rapport coût/efficacité est disproportionné ;
+- d. ...
 - e. Entretien et travaux de maintenance des mesures faisant l'objet des participations financières octroyées par l'ECA ;
 - f. Entretien ou réparations de mesures déjà réalisées ;
-- g. Mesures collectives dont le financement est de la compétence d'autorités communales, cantonales ou fédérales en application des législations sur les forêts et les eaux ;
+- g. Mesures collectives dont le financement est de la compétence d'autorités communales, cantonales ou fédérales;
 - h. Mesures de protection individuelle ("à l'objet") qui se substitueraient à des projets de mesures collectives planifiées ;
 - i. Mesures de protection mobiles, sauf exceptions. Des mesures mobiles peuvent être prises en considération si la preuve de leur efficacité est apportée et si elles font partie intégrante d'un concept organisationnel ;
-- j. Mesures qui ne respecteraient pas les règles de l'art, les normes ou l'état de la technique ;
+- j. Mesures qui ne respecteraient pas la législation applicable en la matière, les normes, les états de la technique ou les règles de l'art;
 - k. Mesures collectives dont la finalité n'est pas la protection des bâtiments assurés.
+- l. Equipements destinés à l'évacuation des eaux des biens-fonds.
 
-[^3-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, a; entrée en vigueur au 01.01.2026; Abrogation Al. 1, d; entrée en vigueur au 01.01.2026; Modification Al. 1, g,j; entrée en vigueur au 01.01.2026; Introduction Al. 1, l; entrée en vigueur au 01.01.2026; Introduction Art. 10, Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026; Introduction Art. 12, Al. 3; entrée en vigueur au 01.01.2026
+[^3-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Modification Al. 1, a; entrée en vigueur au 01.01.2026; Abrogation Al. 1, d; entrée en vigueur au 01.01.2026; Modification Al. 1, g,j; entrée en vigueur au 01.01.2026; Introduction Al. 1, l; entrée en vigueur au 01.01.2026
 
 #### Art. 5
 
@@ -134,23 +135,31 @@ arrête
 
 **[^8-1]**
 
-<sup>1</sup> L'octroi de la participation financière est valable pour une durée de 18 mois dès la notification de la décision.
+<sup>1</sup> L'octroi de la participation financière est valable pour une durée de 2 ans dès la notification de la décision.
 
 <sup>2</sup> Les projets qui nécessitent un temps de réalisation plus long peuvent bénéficier sur demande d'une prolongation de la durée de validité de la participation financière.
 
-[^8-1]: Modif. 1 du 17.12.2025: Introduction Art. 4, Al. 1, l; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Art. 10, Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026; Introduction Art. 12, Al. 3; entrée en vigueur au 01.01.2026
+[^8-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
 
 #### Art. 10
 
 **[^9-1]**
 
-<sup>1</sup> Le montant de la participation financière est fixé sur la base de l'effort financier consenti par le bénéficiaire et du coût de la mesure au regard des bénéfices attendus. Le montant minimal est de CHF 1'000.-. Le montant maximal ne dépassera pas le 50% des coûts des réalisations faisant l'objet de la participation financière et se limitera en tous les cas à 5% de la valeur d'assurance du bâtiment.
+<sup>1</sup> Le montant maximal ne dépassera pas le 80% des coûts des réalisations faisant l'objet de la participation financière et pourra s'élever jusqu'à 100% des frais d'étude.
+
+<sup>1bis</sup> Le montant maximal de la participation financière est de CHF 500'000.- par projet (études et réalisations).
+
+<sup>1ter</sup> Le montant maximal de la participation financière se limitera en tous les cas à 10% de la valeur d'assurance du bâtiment.
 
 <sup>2</sup> Sauf circonstances particulières justifiées, le montant final de la participation financière ne peut être supérieur à celui pour lequel l'ECA s'est engagé.
 
 <sup>3</sup> L'ECA établit une directive précisant ces critères et les modalités de calcul.
 
-[^9-1]: Modif. 1 du 17.12.2025: Introduction Art. 4, Al. 1, l; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026; Introduction Art. 12, Al. 3; entrée en vigueur au 01.01.2026
+<sup>4</sup> Dans certains cas, le paiement de participations financières n'excédant pas 30'000 CHF pour les coûts des réalisations et les frais d'étude peut être effectué selon une procédure simplifiée.
+
+<sup>5</sup> Le Conseil d'Etat peut autoriser l'ECA à procéder, par l'allocation de participations financières, à des actions spéciales destinées à encourager l'acquisition ou l'installation de moyens de prévention ou de lutte contre les éléments naturels. Il fixe les conditions de ces actions ainsi que le montant de la participation financière de l'ECA. Ces actions doivent être limitées dans le temps.
+
+[^9-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026
 
 #### Art. 11
 
@@ -166,7 +175,9 @@ arrête
 
 <sup>2</sup> Des versements d'acomptes sont possibles dans des cas exceptionnels dûment justifiés. Ces acomptes sont payés sur présentation des factures et justificatifs de paiement.
 
-[^11-1]: Modif. 1 du 17.12.2025: Introduction Art. 4, Al. 1, l; entrée en vigueur au 01.01.2026; Introduction Art. 10, Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 3; entrée en vigueur au 01.01.2026
+<sup>3</sup> Lorsque les participations financières sont octroyées à une commune en sa qualité de propriétaire, le calcul est basé sur le montant HT (à l'exception des sous-entités communales ne bénéficiant pas du remboursement de la TVA).
+
+[^11-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026; Introduction Al. 3; entrée en vigueur au 01.01.2026
 
 #### Art. 13
 
@@ -178,6 +189,6 @@ arrête
 
 **[^13-1]**
 
-<sup>1</sup> Le Département du territoire et de l'environnement est chargé de l'exécution du présent règlement qui entre en vigueur le 1er septembre 2019.
+<sup>1</sup> Le Département de la jeunesse, de l'environnement et de la sécurité est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2026.
 
-[^13-1]: Modif. 1 du 17.12.2025: Introduction Art. 4, Al. 1, l; entrée en vigueur au 01.01.2026; Introduction Art. 10, Al. 1bis,1ter,4,5; entrée en vigueur au 01.01.2026; Introduction Art. 12, Al. 3; entrée en vigueur au 01.01.2026; Modification Al. 1; entrée en vigueur au 01.01.2026
+[^13-1]: Modif. 1 du 17.12.2025: Modification Al. 1; entrée en vigueur au 01.01.2026
