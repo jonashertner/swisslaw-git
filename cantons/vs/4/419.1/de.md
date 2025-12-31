@@ -1,162 +1,231 @@
 ---
 canton: VS
 number: "419.1"
-title: Gesetz über die Pädagogische Hochschule Wallis
-short: PH-VS
+title: "Gesetz über die Pädagogische Hochschule Wallis *"
+short: GPH
 language: de
-version: 2012-09-01
-corrected: 2017-09-06
-version_adopted: 2011-09-14
+version: 2026-01-01
+version_adopted: 2024-05-15
 adopted: 1996-10-04
 in_force: 1997-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/419.1"
-pdf: "https://lex.vs.ch/api/de/versions/478/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3374/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Pädagogische Hochschule Wallis (PH-VS)
+# Gesetz über die Pädagogische Hochschule Wallis
 
-vom 4. Oktober 1996
+(GPH)
+
+vom 04.10.1996 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 13, 27, Absatz 5 und 31, Absatz 1 der Kantonsverfassung;
-
-eingesehen die Artikel 74 bis 74e und 90c des Gesetzes vom 4. Juli 1962 über das öffentliche Erziehungswesen;
+eingesehen die Artikel 27, 28, 29, 30, 31, 32, 33, 34, 35, 41, 59, 62, 63, 64, 65, 69, 75 und 76 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich vom 30. September 2011 (Hochschulförderungs- und-koordinationsgesetz, HFKG);
 
 auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-<sup>2</sup> Ziel des Gesetzes
+**Ziel des Gesetzes**
 
-<sup>1</sup> Das vorliegende Gesetz errichtet und organisiert die Pädagogische Hochschule Wallis (PH-VS).
+<sup>1</sup> Das vorliegende Gesetz definiert das juristische Statut und die Aufträge der Pädagogischen Hochschule Wallis (PH-VS).
 
-<sup>2</sup> Es legt die Aufträge fest.
+<sup>2</sup> …
 
 #### Art. 2
 
-<sup>2</sup> Allgemeine Organisation
+**Allgemeine Organisation**
 
-<sup>1</sup> Die PH-VS untersteht dem Departement für Erziehung, Kultur und Sport (nachfolgend: das Departement).
+<sup>1</sup> Die PH-VS untersteht der Oberaufsicht des Staatsrates, welcher der PH-VS einen Leistungsauftrag erteilt.
+
+<sup>1<sup>bis</sup></sup> Das für Bildung zuständige Departement (nachfolgend: Departement) gewährleistet die Aufsicht über die Anwendung des Leistungsauftrags, welcher der PH-VS erteilt wird.
 
 <sup>2</sup> Sie kann mit anderen Ausbildungsstätten innerhalb oder ausserhalb des Kantons in einem Verbundsystem organisiert werden.
 
+<sup>3</sup> Die Bestimmungen des Gesetzes über die Förderung von Hochschulen und Forschung (FHFG) betreffend die Aufsicht, den Schutz der Titel und den Schutz vor Diskriminierung und Betrug bleiben vorbehalten.
+
 #### Art. 3
 
-**Unterrichtsstufe**
+**Juristisches Statut und Lokalisierung**
 
-Die PH-VS ist eine Bildungsinstitution der tertiären Stufe.
+<sup>1</sup> Die PH-VS ist eine autonome Bildungsinstitution des öffentlichen Rechts mit eigener Rechtspersönlichkeit.
+
+<sup>2</sup> Die PH-VS ist eine Institution des tertiären Bereichs für die pädagogische Berufsausbildung.
+
+<sup>3</sup> Die Unterrichtsstandorte der PH-VS sind im Gesetz zur Standortbestimmung der kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe und über den Beitrag der Standortgemeinden festgelegt.
 
 #### Art. 4
 
-<sup>2</sup> Aufträge der Schule
+**Aufträge der Schule**
 
-<sup>1</sup> Die PH-VS hat als Hauptaufgabe, die berufliche Grundausbildung der Kandidaten für den Unterricht, namentlich an den Kindergärten, Primarschulen und an den Schulen der Sekundarstufe I und/oder II sicherzustellen. Sie fördert die Entfaltung ihrer Persönlichkeit. Sie gewährleistet ein Anforderungsniveau, das die interkantonale und internationale Anerkennung der durch sie verliehenen Lehrerermächtigungen ermöglicht.
+<sup>1</sup> Die PH-VS hat als Hauptaufgabe, die Ausbildung der Kandidaten für den Unterricht, namentlich auf der Primarstufe, auf der Sekundarstufe I und/oder II und für die schulische Heilpädagogik sicherzustellen. Sie fördert die Entfaltung ihrer Persönlichkeit. Sie gewährleistet ein Anforderungsniveau, das die interkantonale und internationale Anerkennung der durch sie verliehenen Lehrerermächtigungen ermöglicht.
 
-<sup>2</sup> Sie organisiert die Zusatzausbildung sowie die Fort- und Weiterbildung der Lehrpersonen für den Kindergarten und die Primarschule.
+<sup>2</sup> Sie organisiert die Zusatzausbildungen sowie die Fort- und Weiterbildung der Lehrpersonen.
 
-<sup>3</sup> Sie übernimmt bei Bedarf die Organisation der Zusatzausbildung sowie der Fort- und Weiterbildung der Lehrpersonen der Sekundarstufe I und II (der OS und der MS).
+<sup>3</sup> …
 
-<sup>4</sup> Sie kann an der Ausbildung von Personen, die im Erziehungssektor tätig sind, mitwirken.
+<sup>4</sup> Sie kann insbesondere an der Ausbildung von Personen, die im Erziehungssektor tätig sind, mitwirken.
 
-<sup>5</sup> Sie entwickelt Forschungsarbeiten im Erziehungsbereich in Zusammenarbeit namentlich mit den zuständigen Stellen des Departements.
+<sup>5</sup> Sie unternimmt Forschungs- und Entwicklungsarbeiten im Erziehungsbereich.
 
-<sup>6</sup> Sie stellt die pädagogische Beratung sicher.
+<sup>6</sup> Sie bietet Dienstleistungen, insbesondere im Rahmen der pädagogischen Beratung und Fachberatung an.
 
-<sup>7</sup> Der Staatsrat kann ihr andere Aufträge zuweisen. Er bestimmt den Rahmen und die Dauer derselben.
+<sup>7</sup> Sie fördert die Zweisprachigkeit.
+
+<sup>8</sup> Der Staatsrat kann ihr andere Aufträge erteilen. Er bestimmt den Rahmen und die Dauer derselben.
+
+#### Art. 4a
+
+**Qualitätssicherung und Qualitätsentwicklung**
+
+<sup>1</sup> Mittels ihres Qualitätssystems kontrolliert und verbessert die PH-VS periodisch ihren allgemeinen Betrieb sowie die Ausführungsqualität ihrer Aufträge.
 
 #### Art. 5
 
-**Gleichstellung**
+**Chancengleichheit**
 
-Im vorliegenden Gesetz gilt die Bezeichnung der Person, des Status oder der Funktion unterschiedslos für Mann oder Frau.
+<sup>1</sup> Die PH-VS fördert die Chancengleichheit und die tatsächliche Gleichstellung zwischen Mann und Frau in der Ausführung ihrer Aufträge.
 
-### 2. Kapitel: Grundausbildung der Kandidaten für Unterricht an Kindergärten und Primarschulen
+#### Art. 5a
 
-### 1. Abschnitt: Dauer der Ausbildung - Zulassungsbedingungen
+**Strategischer Plan**
+
+<sup>1</sup> Am Anfang der Legislatur wird zwischen dem Departement und der Direktion der PH-VS gemäss Artikel 37 Absatz 1 des Bundesgesetzes über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG) ein mehrjähriger strategischer Plan erarbeitet.
+
+#### Art. 5b
+
+**Wissenschaftliche Prinzipien**
+
+<sup>1</sup> Die PH-VS befolgt die grundlegenden wissenschaftlichen Prinzipien der Berufsdeontologie.
+
+<sup>2</sup> Die Unterrichts- und Forschungsfreiheit ist garantiert und zwar innerhalb der Pflichten, welche die verschiedenen Personalkategorien der PH-VS begrenzen und unter Beachtung des Leistungsauftrags.
+
+#### Art. 5c
+
+**Nachwuchsförderung**
+
+<sup>1</sup> Die PH-VS fördert die Entwicklung der Kompetenzen ihres Lehrpersonals.
+
+<sup>2</sup> Die PH-VS beteiligt sich in Zusammenarbeit mit anderen Schulen an den Bestrebungen der Nachwuchsförderung in den Bereichen Pädagogik, Didaktik und Erziehungswissenschaft. Sie kann sich in Form einer Co-Direktion oder einer geteilten Trägerschaft an doktoralen Ausbildungen beteiligen.
+
+#### Art. 5d
+
+**Finanzverwaltung und Buchhaltung**
+
+<sup>1</sup> Die PH-VS verfügt über ihre eigene Buchhaltung gemäss den schweizerischen Buchhaltungsnormen.
+
+<sup>2</sup> Die PH-VS stattet sich mit den nötigen Instrumenten für die Finanzverwaltung aus.
+
+<sup>3</sup> Die PH-VS verfügt über ihre eigenen Konten und ist dafür verantwortlich.
+
+<sup>4</sup> Die PH-VS kann namentlich für strategische Projekte und zum Ausgleich von Schwankungen im Zusammenhang mit den Tätigkeiten über eine Reserve verfügen. Diese Reserve wird aus früheren Ertrags- oder Aufwandüberschüssen gespeist, die ihr verrechnet, auf das folgende Rechnungsjahr übertragen und in der Bilanz auf einem besonderen Konto mit dem Namen "Reservefonds" unter den Eigenmitteln verbucht werden.
+
+<sup>5</sup> Sie verbucht auf ihre Konten den gesamten Aufwand und Ertrag sowie alle Ausgaben und Einnahmen für den Betrieb und die Investitionen, welche zugunsten des Staates getätigt werden.
+
+<sup>6</sup> Mittels Leistungsauftrag und Globalbudget überträgt der Staatsrat der PH-VS seine bedürfnisgerechten Ansprüche und stellt die nötigen Ressourcen zur Verfügung, damit diese die erteilten Aufträge erfüllen kann.
+
+<sup>7</sup> Die Jahresbuchhaltung der PH-VS wird vom Staatsrat genehmigt und untersteht der Kontrolle des Finanzinspektorates des Staates Wallis.
+
+<sup>8</sup> Der Staatsrat genehmigt eine Verordnung für die Finanzverwaltung der PH-VS.
+
+#### Art. 5e
+
+**Interne Organisation**
+
+<sup>1</sup> Im Rahmen der Bestimmungen des vorliegenden Gesetzes organisiert sich die PH-VS selber und ist verantwortlich für ihre eigene Verwaltung.
+
+<sup>2</sup> Das Personal ist gegen die wirtschaftlichen Folgen des Alters, der Invalidität und des Todes bei der Pensionskasse des Staates Wallis (PKWAL) versichert.
+
+#### Art. 5f
+
+**Teilnahme der Personen, die zur Institution gehören**
+
+<sup>1</sup> Die verschiedenen Kategorien des Personals und der Studierenden sind als konstituierte Körperschaften definiert.
+
+<sup>2</sup> Die konstituierten Körperschaften nehmen in der konsultativen Form am Funktionieren und an der Entwicklung der PH-VS teil und können Vorschläge unterbreiten.
+
+## 2 Ausbildung für den Unterricht auf der Primarstufe
+
+### 2.1 Dauer der Ausbildung - Zulassungsbedingungen
 
 #### Art. 6
 
-<sup>2</sup> Dauer der Ausbildung
+**Dauer der Ausbildung**
 
-<sup>1</sup> Die Ausbildung der Kandidaten für den Unterricht an den Kindergärten und Primarklassen dauert im Prinzip drei Jahre.
+<sup>1</sup> Die Ausbildung der Kandidaten für das Lehramt in den Klassen der Primarstufe dauert im Prinzip drei Jahre.
 
 <sup>2</sup> Die Probezeit, die Praktika, die Diplomschlussarbeit und die eventuellen Sprachaufenthalte sind in dieser Zeitspanne enthalten.
+
+<sup>3</sup> Der Staatsrat legt die Bedingungen für die Verlängerung des Studiums aus begründeten Motiven für Studierende, die ihr Studium nicht in der vorgegebenen Zeit abgeschlossen haben, in einer Verordnung fest.
 
 #### Art. 7
 
 **Zulassung**
 
-<sup>1</sup> Die Kandidaten zur Ausbildung für den Unterricht an den Kindergärten und Primarschulen müssen im Besitze eines eidgenössisch anerkannten Maturitätsausweises sein.
+<sup>1</sup> Die Kandidaten zur Ausbildung für das Lehramt auf der Primarstufe müssen im Besitz eines eidgenössisch anerkannten Maturitätsausweises sein oder von Titeln, die mit den interkantonalen und eidgenössischen Bestimmungen konform sind.
 
-<sup>2</sup> Das Departement entscheidet über die Gleichwertigkeit anderer Vorbildungen.
+<sup>2</sup> Der Staatsrat legt die angeforderten Titel für die Zulassung an der PH-VS in einer Verordnung fest.
 
-<sup>3</sup> Es definiert die zusätzlichen Anforderungen für Kandidaten, die sich nicht über eine Maturität ausweisen können.
+<sup>3</sup> …
+
+<sup>4</sup> Die Aufnahme von Studierenden kann ausnahmsweise begrenzt werden, dies in Fällen in denen, aufgrund der ungenügend grossen Aufnahmekapazität der PH-VS oder der fehlenden Praxisplätze, die Ausbildung nicht mehr garantiert werden kann.
 
 #### Art. 8
 
 **Probezeit**
 
-<sup>1</sup> Die ersten Ausbildungswochen an der PH-VS beinhalten eine Probezeit, während der die zum Unterrichten notwendigen Eigenschaften und Motivationen evaluiert werden.
+<sup>1</sup> Das erste Ausbildungssemester an der PH-VS wird in Form einer Probezeit organisiert, während der die zum Unterrichten notwendigen Eigenschaften und Motivationen evaluiert werden.
 
-<sup>2</sup> Alle Kandidaten haben diese Probezeit zu absolvieren, nur jene, deren Fähigkeiten und Kompetenzen in den beobachteten Situationen als genügend erscheinen, werden zur weiteren Ausbildung an der PH-VS zugelassen.
+<sup>2</sup> Alle Kandidaten haben diese Probezeit zu absolvieren. Nur jene, deren Fähigkeiten und Kompetenzen in den beobachteten Situationen als genügend erscheinen, werden zur Weiterführung ihrer Ausbildung innerhalb der Institution zugelassen.
 
-<sup>3</sup> Die Kandidaten können sich zur Probezeit höchstens zweimal melden.
+<sup>3</sup> …
 
-<sup>4</sup> Eine Verordnung des Staatsrates legt deren Organisation und die Bedingungen fest.
+<sup>4</sup> Der Staatsrat legt die Organisation und die Bedingungen der Probezeit in einer Verordnung fest.
 
 #### Art. 9
 
-<sup>2</sup> Finanzielle Beteiligung der Studenten
+**Finanzielle Beteiligung, Rechte und Pflichten der Studierenden**
 
-Der Staatsrat legt die zu entrichtenden Beträge für die Probezeit, das Schulgeld pro Semester sowie für die verschiedenen Spesen fest.
+<sup>1</sup> Der Staatsrat legt die Einschreibegebühr, das Schulgeld pro Semester, die Beiträge für die Zusatzausbildungen und die anderen Beiträge, die Rechte und Pflichten sowie die Sanktionen gegenüber den Studierenden in einem Reglement fest.
 
-### 2. Abschnitt: Ausbildungsbereiche und Ausbildungsgänge
+### 2.2 Ausbildungsbereiche und Ausbildungsgänge
 
 #### Art. 10
 
 **Ausbildungsbereiche**
 
-Das Programm der PH-VS umfasst folgende Ausbildungsbereiche:
+<sup>1</sup> Das Unterrichtsprogramm der PH-VS umfasst folgende Ausbildungsbereiche:
 
-- a) pädagogische, psychologische und soziologische Ausbildung;
-
-- b) Ausbildung in allgemeiner Didaktik und in Fachdidaktik;
-
-- c) praktische Ausbildung verzahnt mit der theoretischen;
-
-- d) fachwissenschaftliche Ausbildung;
-
-- e) Ausbildung in den musischen und kulturellen Fächern;
-
-- f) Einführung in die Forschungsarbeit auf dem Gebiet der Human- und Erziehungswissenschaften.
+- a) die pädagogische, psychologische und soziologische Ausbildung;
+- b) die Ausbildung in der allgemeinen Didaktik und in der Fachdidaktik;
+- c) die praktische Ausbildung verbunden mit der theoretischen;
+- d) die fachwissenschaftliche Ausbildung;
+- e) die Ausbildung in musischen und kulturellen Fächern;
+- f) die Einführung in die Forschungsarbeit auf dem Gebiet der Human- und Erziehungswissenschaften.
 
 #### Art. 11
 
-**Ausbildungsgänge**
+**Ausbildungsfelder**
 
-<sup>1</sup> Die Grundausbildung für die Lehrpersonen ist im Prinzip die gleiche für den ganzen Kanton.
+<sup>1</sup> Die Ausbildung für den Unterricht auf der Primarstufe ist im Prinzip die gleiche für den ganzen Kanton.
 
-<sup>2</sup> Auf Vorschlag der PH-VS und im Hinblick auf die Entwicklung der pädagogischen, gesellschaftlichen und schulischen Bedürfnisse entscheidet der Staatsrat über Differenzierungen sowohl, was die Ausbildungsgänge wie auch die Unterrichtsfächer oder die vorgeschlagenen Optionen betrifft.
+<sup>2</sup> Auf Vorschlag der PH-VS und im Hinblick auf die Entwicklung der Forschung im Rahmen der Pädagogik und der gesellschaftlichen und schulischen Bedürfnisse entscheidet der Staatsrat über Differenzierungen sowohl, was die Ausbildungsstufen wie auch die Unterrichtsfächer oder die vorgeschlagenen Optionen betrifft.
 
 #### Art. 12
 
 **Studienplan**
 
-<sup>1</sup> Entsprechend den Grundsätzen der Teilautonomie legt der Staatsrat in einem Reglement den Rahmenlehrplan fest; dieser präzisiert namentlich folgende Punkte:
+<sup>1</sup> Der Staatsrat validiert den Rahmenlehrplan der PH-VS, auf Vorschlag des Departements; dieser präzisiert namentlich folgende Punkte:
 
-- a) Unterrichtsprogramm;
-
-- b) Form und Art der Forschungsarbeiten;
-
-- c) Organisation der Pflichtfächer, der Wahl- und Freifächer.
+- a) das Unterrichtsprogramm;
+- b) die Form und Art der Forschungsarbeiten;
+- c) die Organisation der Pflichtfächer, der Wahl- und Freifächer.
 
 <sup>2</sup> Der Studienplan wird regelmässig angepasst.
 
@@ -168,7 +237,9 @@ Das Programm der PH-VS umfasst folgende Ausbildungsbereiche:
 
 <sup>2</sup> Die Praktika werden unter der Verantwortung von speziell ausgebildeten Lehrpersonen in Absprache mit den zuständigen kommunalen oder regionalen Behörden absolviert.
 
-### 3. Abschnitt: Prüfungen und verliehene Titel
+<sup>3</sup> Das Departement unterstützt die PH-VS in ihrer Zusammenarbeit mit den Schuldirektionen, damit Praktikumsplätze und ausgebildete Praktikumslehrpersonen zur Verfügung stehen.
+
+### 2.3 Prüfungen und verliehene Titel
 
 #### Art. 14
 
@@ -176,11 +247,11 @@ Das Programm der PH-VS umfasst folgende Ausbildungsbereiche:
 
 <sup>1</sup> Im Laufe der Studien und bei Abschluss derselben absolvieren die Studenten der PH-VS Prüfungen, durch welche sowohl die Kompetenzen wie auch die Kenntnisse evaluiert werden.
 
-<sup>2</sup> Ein Reglement legt die Promotionsbedingungen fest. Dasselbe gilt für die Abschlussexamen zur Erlangung der Lehrermächtigung.
+<sup>2</sup> Das Reglement legt die Promotionsbedingungen fest. Dasselbe gilt für die Abschlussexamen zur Erlangung der Lehrermächtigung.
 
 #### Art. 15
 
-<sup>2</sup> Diplomschlussarbeit
+**Diplomschlussarbeit**
 
 <sup>1</sup> Jeder Student hat während seiner Ausbildung eine Diplomschlussarbeit zu erstellen.
 
@@ -188,133 +259,117 @@ Das Programm der PH-VS umfasst folgende Ausbildungsbereiche:
 
 #### Art. 16
 
-**Zweite Landessprache**
+**Sprachen**
 
-<sup>1</sup> Bei Studienende werden von jedem Studenten als genügend erachtete Kenntnisse der zweiten Landessprache gefordert.
+<sup>1</sup> Bei Studienende werden von jedem Studenten als genügend erachtete Kenntnisse der zweiten kantonalen Sprache gefordert. Der Staatsrat legt das Anforderungsniveau fest.
 
-<sup>2</sup> Die PH-VS ist besorgt, jegliche Initiative zur Verbesserung der Fremdsprachenkompetenz zu unterstützen.
+<sup>2</sup> Die PH-VS fördert jegliche Initiative zur Verbesserung dieser Sprachbeherrschung. Sie trägt dazu bei, die gegenseitige Kenntnis und das gegenseitige Verständnis zwischen den beiden Sprachteilen des Kantons zu verstärken und entwickelt in dieser Richtung eine Kultur und eine Kompetenz in der Förderung und in der Anwendung der beiden kantonalen Sprachen und Kulturen.
 
-[^16-1]: Änderung vom 12.05.2000 GS/VS 2001, 15 1.01.2001
+<sup>3</sup> Der Unterricht in den Studiengängen wird auf Französisch und/oder auf Deutsch erteilt. Gewisse Kurse können in einer anderen Sprache unterrichtet werden.
 
-#### Art. 16bis
+<sup>4</sup> Die PH-VS kann Ausbildungen anbieten, die zum Abschluss eines Diploms mit dem Vermerk "zweisprachig" französisch/deutsch führt.
 
-[^16-1]
+<sup>5</sup> Bei Studienende werden von jedem Studenten als genügend erachtete Kenntnisse im Englischen gefordert. Der Staatsrat legt das Anforderungsniveau fest.
 
-<sup>1</sup> Die theoretische Ausbildung und die berufspraktischen Ausbildungen dauern sechs Semester. Mindestens zwei Semester dieser theoretischen Ausbildung und der berufspraktischen Ausbildungen werden in der anderen Sprachregion des Kantons durchgeführt.
+#### Art. 16a
 
-<sup>2</sup> Der Staatsrat legt in einem Reglement die einzelnen Bestimmungen sowie die Fragen der Gleichwertigkeit fest.
+**Verlauf des Studiums**
+
+<sup>1</sup> Die theoretische Ausbildung und die berufspraktischen Ausbildungen dauern sechs Semester. Ein Drittel der Studiendauer wird in der anderen Sprachregion des Kantons durchgeführt.
+
+<sup>2</sup> …
 
 #### Art. 17
 
 **Verliehene Titel**
 
-<sup>1</sup> Die PH-VS schlägt dem Departement die Verleihung der Lehrermächtigungen vor.
+<sup>1</sup> Die PH-VS verleiht die Lehrermächtigungen für die Primarstufe, die durch das Department validiert werden und die den Bestimmungen der Erziehungsdirektorenkonferenz (nachfolgend: EDK) entsprechen.
 
-<sup>2</sup> Der Staatsrat kann über die Verleihung anderer Titel entscheiden.
+<sup>2</sup> …
 
-### 3. Kapitel: Fort-, Weiter- und Zusatzausbildung
+## 3 Fort-, Weiter- und Zusatzausbildung
 
 #### Art. 18
 
-<sup>2</sup> Verantwortlichkeit
+**Verantwortlichkeit**
 
-<sup>1</sup> Die PH-VS übernimmt die Verantwortung für die Weiter- und Zusatzausbildung und zwar in den nachfolgenden Bereichen:
+<sup>1</sup> Die PH-VS übernimmt die Verantwortung für die Weiter- und Zusatzausbildung der Lehrpersonen der Primar-, Sekundar- und Tertiärstufe und zwar in den nachfolgenden Bereichen:
 
-- a) Ausarbeitung eines Ausbildungskonzeptes;
-
-- b) Erarbeitung der Programme;
-
-- c) Organisation, Evaluation, Kontrolle, Qualitätssicherung;
-
-- d) Verbreitung der Information;
-
-- e) individuelle und gemeinsame Ausbildungsprojekte;
-
-- f) Wiedereinstieg in den Lehrberuf;
-
-- g) Begleitung von schulinternen Projekten.
+- a) die Ausarbeitung eines Ausbildungskonzeptes;
+- b) die Erarbeitung der Programme;
+- c) die Organisation, die Evaluation, die Kontrollen, die Qualitätssicherung;
+- d) die Verbreitung der Information;
+- e) die individuellen und gemeinsamen Ausbildungsprojekte;
+- f) der Wiedereinstieg in den Lehrberuf;
+- g) die Begleitung von schulinternen Projekten.
+- h) …
 
 <sup>2</sup> Sie arbeitet mit den zuständigen Stellen des Departements bei der Definition und der Bestimmung der Prioritäten sowie der schulischen und erzieherischen Bedürfnisse hinsichtlich der festgelegten Zielsetzungen zusammen.
 
 #### Art. 19
 
-**Kommission, Ernennung, Zusammensetzung**
-
-<sup>1</sup> Der PH-VS steht eine Beratungs- und Unterstützungskommission zur Seite.
-
-<sup>2</sup> Die Kommission wird vom Staatsrat ernannt.
-
-<sup>3</sup> Die PH-Direktion, die den Vorsitz übernimmt sowie die beiden Adjunkte gehören ihr von Rechts wegen an.
-
-<sup>4</sup> Die anderen Mitglieder werden unter den Hauptpartnern des Erziehungsbereichs innerhalb und ausserhalb des Kantons ausgewählt.
+**…**
 
 #### Art. 20
 
 **Zusatzausbildung**
 
-Bei Bedarf und im Einverständnis mit dem Departement organisiert die PH-VS Zusatzausbildungsangebote z.B. für Praktikumslehrer, Direktoren, Fachberater, Mediatoren, Lehrpersonen für Spezialfächer.
+<sup>1</sup> Bei Bedarf und im Einverständnis mit dem Departement organisiert die PH-VS Zusatzausbildungsangebote z.B. für Praktikumslehrer, Direktoren, Fachberater, Mediatoren, Lehrpersonen für Spezialfächer.
 
 #### Art. 21
 
-<sup>2</sup> Verliehene Titel
+**Verliehene Titel**
 
-<sup>1</sup> Das Departement verleiht:
+<sup>1</sup> Die PH-VS verleiht:
 
 - a) die Bestätigung für absolvierte Fort- und Weiterbildungsaktivitäten;
-
 - b) die Zeugnisse für Zusatzausbildungen;
+- c) certificates of advanced studies (CAS), diplomas of advanced studies (DAS) und masters of advanced studies (MAS).
 
-- c) Masters of advanced studies (MAS).
+<sup>2</sup> Der Staatsrat kann die Erteilung von anderen Titeln durch die PH-VS genehmigen.
 
-<sup>2</sup> Der Staatsrat kann über die Verleihung anderer Titel entscheiden.
-
-### 4. Kapitel: Zusatzausbildung für Lehrpersonen der Sekundarstufe I und II
+## 4 Ausbildung für den Unterricht auf der Sekundarstufe I und/oder II
 
 #### Art. 22
 
-<sup>2</sup> Ausbildungsstätten
+**Ausbildungsstätten**
 
-<sup>1</sup> Die Inhaber eines anerkannten Titels, der durch eine Hochschule für den Unterricht in den Schulen der Sekundarstufe I und/oder II verliehen worden ist, oder eines gleichwertigen Titels erwerben die psychopädagogische, didaktische und praktische Ausbildung entweder an der Universität oder an einer Ausbildungsstätte, die einen Titel zur Lehrermächtigung verleiht.
+<sup>1</sup> Die Inhaber eines Hochschultitels oder eines gleichwertigen Titels in einem unterrichtbaren Fach, gemäss den Bestimmungen der EDK, erwerben die Ausbildung in der Didaktik, in der Praxis und in der Erziehungswissenschaft, alternierend mit Praxiseinsätzen auf dem Terrain an einer Ausbildungsinstitution, die einen Titel zur Lehrermächtigung verleiht.
 
 <sup>2</sup> Die PH-VS wird beauftragt, diese Ausbildung anzubieten. Sie stellt ein Anforderungsniveau sicher, das eine interkantonale und internationale Anerkennung der von ihr verliehenen Lehrermächtigungen gewährleistet.
 
 #### Art. 23
 
-<sup>2</sup> Psychopädagogische, didaktische und praktische Ausbildung
+**Ausbildung in der Didaktik, in der Praxis und in der Erziehungswissenschaft**
 
-<sup>1</sup> Die psychopädagogische, didaktische und praktische Ausbildung umfasst einen theoretischen Unterricht an der PH-VS sowie Praktika auf der Sekundarstufe I oder II.
+<sup>1</sup> Die Ausbildung in der Didaktik, in der Praxis und in der Erziehungswissenschaft, alternierend mit Praxiseinsätzen auf dem Terrain, umfasst einen theoretischen Unterricht an der PH-VS sowie Praktika auf der Sekundarstufe I oder II.
 
 <sup>2</sup> Die organisatorischen Modalitäten der in Absatz 1 vorgesehenen Ausbildung sowie die Modalitäten der Praktika werden in einer Verordnung des Staatsrats bestimmt, die insbesondere Folgendes festlegt:
 
 - a) die Zulassungsbedingungen;
-
 - b) die Dauer und den Ablauf der Ausbildung;
-
 - c) die Ausbildungsbereiche und -gebiete;
-
 - d) die Studienpläne;
-
 - e) die Bewertung der Kenntnisse;
-
 - f) die Diplomschlussarbeit;
-
 - g) die verliehenen Titel;
-
 - h) die Bedingungen der finanziellen Beteiligung der Kandidaten.
 
 #### Art. 24
 
-<sup>2</sup> Verliehene Titel
+**Verliehene Titel**
 
-Auf Vorschlag der PH-VS verleiht das Departement Titel für die Lehrermächtigung in der Sekundarstufe I und/oder II gemäss den Bestimmungen der Erziehungsdirektorenkonferenz (EDK).
+<sup>1</sup> Die PH-VS verleiht die Titel für die Lehrermächtigung in der Sekundarstufe I und/oder II, die vom Departement validiert werden, gemäss den Bestimmungen der EDK.
 
-### 5. Kapitel: Besondere Ausbildungsgänge
+<sup>2</sup> …
+
+## 5 Besondere Ausbildungsgänge
 
 #### Art. 25
 
 **Grundausbildung**
 
-<sup>1</sup> Die Kandidaten für Ausbildung in Hauswirtschaft, in technisch angewandtem Gestalten, in musischen und andern ähnlichen Fächern müssen sich grundsätzlich über eine eidgenössisch anerkannte Maturität ausweisen.
+<sup>1</sup> Die Kandidaten für Ausbildung in Hauswirtschaft, in technisch angewandtem Gestalten, in musischen und anderen ähnlichen Fächern müssen grundsätzlich über eine eidgenössisch anerkannte Maturität verfügen.
 
 <sup>2</sup> Das Departement entscheidet über die Gleichwertigkeit anderer Vorbildungen.
 
@@ -322,73 +377,119 @@ Auf Vorschlag der PH-VS verleiht das Departement Titel für die Lehrermächtigun
 
 #### Art. 26
 
-Psychopädagogische, didaktische und praktische Ausbildung, spezifische Ausbildung der unterrichteten Fächer
+**Ausbildung für die schulische Heilpädagogik**
 
-<sup>1</sup> Die psychopädagogische, didaktische und praktische Ausbildung sowie die fachspezifische Ausbildung werden entweder an einer kantonalen oder interkantonalen Institution erworben, welche berechtigt ist, die Lehrermächtigung zu verleihen.
+<sup>1</sup> Die PH-VS ist befugt, eine Ausbildung in schulischer Heilpädagogik zu organisieren und zu erteilen. Sie verleiht die Titel, die vom Departement validiert werden, gemäss den Bestimmungen der EDK.
 
-<sup>2</sup> Bei Bedarf kann diese Aufgabe der PH-VS anvertraut werden; gegebenenfalls trifft sie die nötigen Vereinbarungen.
+<sup>2</sup> Die Organisationsmodalitäten sind in Artikel 22 Absatz 2 und Artikel 23 Absatz 2 des vorliegenden Gesetzes vorgesehen.
 
 #### Art. 27
 
-**Ausbildung von Fächergruppenlehrpersonen**
+**Pluridisziplinäre Ausbildung**
 
 <sup>1</sup> Die Ausbildungsprogramme sind so konzipiert, dass sie den Unterricht in mehreren Fächern oder Lernbereichen ermöglichen.
 
 <sup>2</sup> Sie werden in Zusammenarbeit mit den andern verantwortlichen Ausbildungspartnern erstellt und sind im Sinne eines Baukastensystems zu organisieren.
 
-### 6. Kapitel: Organe
+## 6 Organe
 
 #### Art. 28
 
-<sup>2</sup> Departement für Erziehung, Kultur und Sport
+**Departement**
 
-Das Departement hat in allen Fällen, für die nicht der Staatsrat zuständig ist, die Entscheidungsbefugnis. Es hat namentlich folgende Aufgaben zu erfüllen:
+<sup>1</sup> Das Departement hat in allen Fällen, für die nicht der Staatsrat zuständig ist, die Entscheidungsbefugnis.
 
-- a) es legt die Rahmenlehrpläne fest und unterbreitet sie dem Staatsrat zur Billigung;
+- a) …
+- b) …
+- c) …
+- d) …
 
-- b) es schlägt dem Staatsrat die Ernennung des Direktors und des Lehrpersonals vor;
+<sup>2</sup> Es hat namentlich folgende Aufgaben zu erfüllen:
 
-- c) es verleiht die Lehrermächtigungen;
+- a) es übt die Aufsicht über die PH-VS bezüglich des Leistungsauftrags aus;
+- b) es validiert die Lehrermächtigungen;
+- c) es entscheidet über die Politik in der Fort-, Weiter- und Zusatzausbildung gemäss den Bedürfnissen der Schulen.
 
-- d) es entscheidet über die Politik in der Fort-, Weiter- und Zusatzausbildung gemäss den Bedürfnissen der Schule.
+<sup>3</sup> Das Departement unterbreitet dem Staatsrat den Rahmenstudienplan zur Validierung.
+
+<sup>4</sup> Das Departement schlägt dem Staatsrat die Anstellung des Direktors und der Direktionsadjunkten vor.
+
+#### Art. 28a
+
+**Direktion**
+
+<sup>1</sup> Die Direktion ist für den allgemeinen Betrieb der PH-VS zuständig.
+
+<sup>2</sup> Sie besteht aus einem Direktor und aus Direktionsadjunkten.
+
+<sup>3</sup> Die Direktion hat namentlich die Pflicht, für die PH-VS Folgendes zu gewährleisten:
+
+- a) Erreichung der Zielsetzungen und Erfüllung des an die PH-VS erteilten Leistungsauftrags;
+- b) Erfüllung der direkt vom Staat Wallis erteilten Aufgaben und Aufträge.
+
+<sup>4</sup> Die Direktion beteiligt sich an der Ausarbeitung des mehrjährigen strategischen Planes und des Leistungsauftrages zwischen dem Staatsrat und der PH-VS und des darin vorgesehenen Finanz- und Entwicklungsplans.
+
+<sup>5</sup> Der Direktor vertritt die PH-VS, insbesondere gegenüber dem Staat Wallis und den verschiedenen Partnern.
+
+<sup>6</sup> Die Direktion ist für die Anstellung des Personals im Rahmen des von den zuständigen Behörden bewilligten Budgets und der in diesem Gesetz definierten Befugnisse zuständig.
+
+<sup>7</sup> Die Direktion kann für jeden Bereich und jeden Sektor eine Führungsequipe bestehend aus verschiedenen Verantwortlichen konstituieren.
+
+<sup>8</sup> Die Direktion entscheidet unter Vorbehalt von besonderen Bestimmungen über alle Beschwerden.
 
 #### Art. 29
 
-**Direktionsrat**
+**Strategischer Rat der PH-VS**
 
-<sup>1</sup> Der Direktionsrat der PH-VS beaufsichtigt den pädagogischen und administrativen Bereich der Institution.
+<sup>1</sup> Der strategische Rat der PH-VS wird beauftragt, die PH-VS in ihrer Entwicklung, in ihren Infrastrukturen und in ihrem Image zu unterstützen.
 
-<sup>2</sup> Er sorgt dafür, dass die Ausbildungsprojekte den Bedürfnissen der Walliser Schule entsprechen, sowohl in der Grundausbildung wie in der Fort- und Weiterbildung.
+<sup>2</sup> Er sorgt dafür, dass die Ausbildungsprojekte der PH-VS in der Grundausbildung wie in der Fort- und Weiterbildung den Bedürfnissen der Walliser Schule entsprechen.
 
 <sup>3</sup> Die Zusammensetzung, Organisation und Verantwortlichkeit werden vom Staatsrat definiert.
 
+#### Art. 29a
+
+**Pädagogische Kommission**
+
+<sup>1</sup> Die pädagogische Kommission der PH-VS wird mit der Unterstützung und der Beratung der PH-VS in ihrem pädagogischen Bereich beauftragt. Sie kann sich in Unterkommissionen organisieren.
+
+<sup>2</sup> Die Kommission wird von der Direktion der PH-VS ernannt.
+
+<sup>3</sup> Der Direktor, der den Vorsitz übernimmt, sowie die Adjunkten gehören ihr von Rechts wegen an.
+
+<sup>4</sup> Die anderen Mitglieder werden unter den Hauptpartnern im Erziehungsbereich und den Vertretern der konstituierten Körperschaften der PH-VS ausgewählt.
+
 #### Art. 30
 
-<sup>2</sup> Konferenz des Lehrpersonals
+**Allgemeine Konferenz der Mitarbeitenden**
 
-<sup>1</sup> Die allgemeine Konferenz des Lehrpersonals versammelt sich so oft es von der Direktion für notwendig erachtet wird.
+<sup>1</sup> Die allgemeine Konferenz der Mitarbeitenden versammelt sich so oft es von der Direktion als notwendig erachtet wird.
 
-<sup>2</sup> Aufgehoben.
+<sup>1<sup>bis</sup></sup> Je nach Themen kann die Direktion eine reduzierte Konferenz einberufen, die aus den betroffenen konstituierten Körperschaften besteht.
 
-<sup>3</sup> Die Konferenz hat vor allem folgende Aufgaben:
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Die Direktion setzt eine Konferenz der Delegierten der betroffenen konstituierten Körperschaften ein, deren Mitglieder in einer unabhängigen Form von der allgemeinen Konferenz der Mitarbeitenden ernannt werden.
+
+<sup>2<sup>ter</sup></sup> Die allgemeine Konferenz der Mitarbeitenden oder die Konferenz der Delegierten der betroffenen konstituierten Körperschaften werden für eine ausserordentliche Sitzung einberufen, wenn ein Drittel ihrer Mitglieder einen schriftlichen und unterschriebenen Antrag macht.
+
+<sup>3</sup> Die allgemeine Konferenz der Mitarbeitenden hat vor allem folgende Aufgaben:
 
 - a) sie arbeitet an der Abklärung der für die Schulorganisation wichtigen Fragen mit;
-
 - b) sie prüft und unterbreitet der Direktion Änderungen des Studienplans;
+- c) sie äussert ihre Meinung bei der Evaluation der Unterrichtskompetenzen.
 
-- c) sie äussert ihre Meinung bei der Verleihung der Lehrermächtigung.
+<sup>4</sup> Die Mitarbeitenden der PH-VS können sich in einer Vereinigung im Sinne des ZGB zusammenschliessen.
 
 #### Art. 31
 
 **Studentenvereinigung**
 
-<sup>1</sup> Die Studierenden der PH-VS können sich in einer Vereinigung zusammenschliessen.
+<sup>1</sup> Die Studierenden der PH-VS können sich in einer Vereinigung im Sinne des ZGB zusammenschliessen.
 
 <sup>2</sup> Die Vereinigung kann bei Fragen der Studienorganisation, der Anforderungen zur Erlangung der Lehrermächtigung, der kulturellen und pädagogischen Animation konsultiert werden.
 
-### 7. Kapitel: Lehrpersonal, Mittelbau, technisches und
-
-administratives Personal, Praktikumslehrer und pädagogische Fachberater
+## 7 Lehrpersonal, administratives und technisches Personal, Praktikumslehrpersonen und pädagogische Fachberater
 
 #### Art. 32
 
@@ -396,145 +497,147 @@ administratives Personal, Praktikumslehrer und pädagogische Fachberater
 
 <sup>1</sup> Das Lehrpersonal setzt sich zusammen aus:
 
-- a) dem Direktor;
+- a) dem Direktionspersonal bestehend aus dem Direktor und den Direktionsadjunkten;
+- b) dem Unterrichtspersonal bestehend aus den Professoren, den Lehrbeauftragten, den Professoren/Lehrbeauftragten und dem Mittelbau;
+- c) …
+- d) …
 
-- b) den Adjunkten;
+<sup>2</sup> Das Direktionspersonal wird vom Staatsrat angestellt und das Unterrichtspersonal wird von der PH-VS angestellt.
 
-- c) den Professoren/Lehrbeauftragten;
+<sup>3</sup> Die Direktion der PH-VS definiert die verschiedenen Rollen, Funktionen und Verantwortlichkeiten innerhalb des Lehrpersonals.
 
-- d) den Lehrbeauftragten.
+#### Art. 32a
 
-<sup>2</sup> Das Lehrpersonal wird vom Staatsrat angestellt.[^32-1]
+**Gastdozent**
 
-[^32-1]: Fassung gemäss Art. 92 Ziff. 3 des Gesetzes Abl. Nr. 38/2011 1.09.2012 über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule vom 14.09.2011
-
-#### Art. 32bis
-
-<sup>2</sup> Gastreferenten
-
-Die Direktion der PH-VS kann mit dem Einverständnis der Dienststelle für tertiäre Bildung für eine bestimmte Zeitdauer, aber maximal für ein Jahr Gastreferenten anstellen.
+<sup>1</sup> Die PH-VS kann Gastdozenten befristet anstellen.
 
 #### Art. 33
 
-<sup>2</sup> Direktion
+**Direktor**
 
-<sup>1</sup> Der Staatsrat stellt den Direktor der PH-VS an. Er legt dessen Pflichtenheft fest.[^33-1]
+<sup>1</sup> Der Staatsrat stellt den Direktor der PH-VS an. Er legt dessen Pflichtenheft fest.
 
-<sup>2</sup> Aufgehoben.
-
-[^33-1]: Fassung gemäss Art. 92 Ziff. 3 des Gesetzes Abl. Nr. 38/2011 1.09.2012 über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule vom 14.09.2011
+<sup>2</sup> …
 
 #### Art. 34
 
-<sup>2</sup> Adjunkten des Direktors
+**Direktionsadjunkten**
 
-<sup>1</sup> Der Staatsrat stellt auf Vormeinung des Direktors zwei Adjunkten an, die für eine oder mehrere Aufträge der Schule zuständig sind. Ihre Aufgaben werden in einem Pflichtenheft geregelt.[^34-1]
+<sup>1</sup> Der Staatsrat stellt auf Vormeinung des Direktors die Direktionsadjunkten an, die für eine oder mehrere Aufträge der Schule zuständig sind. Ihre Aufgaben werden in einem Pflichtenheft geregelt.
 
-<sup>2</sup> Aufgehoben.
-
-[^34-1]: Fassung gemäss Art. 92 Ziff. 3 des Gesetzes Abl. Nr. 38/2011 1.09.2012 über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule vom 14.09.2011
+<sup>2</sup> …
 
 #### Art. 35
 
-<sup>2</sup> Qualifikation der Professoren/Lehrbeauftragten
+**Anstellungsbedingungen des Unterrichtspersonals**
 
-<sup>1</sup> Die Professoren/Lehrbeauftragten der PH-VS müssen im Besitze eines von einer Universität verliehenen oder eines als gleichwertig anerkannten Titels sein, sich über Unterrichtserfahrung ausweisen können und eine Zusatzausbildung in Erziehungswissenschaften abgeschlossen haben.
+<sup>1</sup> Die Professoren, die Lehrbeauftragten und die Professoren/Lehrbeauftragten der PH-VS müssen die folgenden Bedingungen erfüllen:
 
-<sup>2</sup> Aufgehoben.
+- a) über einen Titel einer Hochschule oder eines als gleichwertig anerkannten Titels verfügen;
+- b) über ausgewiesene Unterrichtserfahrung verfügen;
+- c) eine Zusatzausbildung in Erziehungswissenschaften abgeschlossen haben.
 
-<sup>3</sup> Für die Grundausbildung der Lehrpersonen der Sekundarschulen müssen die Professoren/Lehrbeauftragten für Psychopädagogik und allgemeine Didaktik über ein universitäres Nachdiplomstudium in einem Bereich der Erziehungswissenschaften oder eine für gleichwertig befundene Ausbildung verfügen. Ausserdem müssen sie entweder eine praktische Lehrerfahrung an einer Orientierungs- und Mittelschule, eine Ausbildung als Erwachsenenbildner oder eine als gleichwertig angesehene Erfahrung vorweisen können.
+<sup>2</sup> …
+
+<sup>3</sup> Für die Ausbildung für den Unterricht auf der Sekundarstufe müssen die Professoren, die Lehrbeauftragten und die Professoren/Lehrbeauftragten für Erziehungswissenschaft und Didaktik über ein universitäres Nachdiplomstudium in einem Bereich der Erziehungswissenschaften oder eine für gleichwertig befundene Ausbildung verfügen. Ausserdem müssen sie entweder eine praktische Lehrerfahrung auf Sekundarstufe, eine Ausbildung als Erwachsenenbildner oder eine als gleichwertig anerkannte Erfahrung vorweisen können.
+
+<sup>4</sup> Die Anstellungsbedingungen des Mittelbaus werden in der Verordnung betreffend das Statut des Personals der Pädagogischen Hochschule Wallis definiert.
 
 #### Art. 36
 
-<sup>2</sup> Rechte, Pflichten, Besoldung
+**Statut, Rechte und Pflichten, Besoldung des Lehrpersonals**
 
-<sup>1</sup> Alle Rechte und Pflichten des Lehrpersonals sind in einer vom Staatsrat erlassenen und vom Grossen Rat gebilligten Verordnung festgehalten.
+<sup>1</sup> Der Staatsrat legt die Statuten und die Rechte und Pflichten des Lehrpersonals in einer Verordnung fest.
 
-<sup>2</sup> Die Arbeitszeit der Professoren/Lehrbeauftragten wird jährlich durch die Direktion zwischen den Aufgaben der Professoren/Lehrbeauftragten (Art. 14 der Verordnung betreffend das Statut des Personals der Pädagogischen Hochschule Wallis) und der Lehrbeauftragten (Art. 15 der Verordnung betreffend das Statut des Personals der Pädagogischen Hochschule Wallis) aufgeteilt.
+<sup>2</sup> Die Arbeitszeit der Professoren/Lehrbeauftragten wird jährlich von der Direktion zwischen den Aufgaben der Professoren und der Lehrbeauftragten aufgeteilt.
 
-<sup>3</sup> Zum Erlangen des Titels eines Professoren/Lehrbeauftragten muss die betreffende Lehrperson für einen Beschäftigungsgrad von mindestens 50 Prozent ernannt sein und einen Beschäftigungsgrad von mindestens acht Prozent, der der gängigen Unterrichtsaktivität gewidmet ist, ausweisen können.
+<sup>3</sup> Zum Erlangen des Titels eines Professors/Lehrbeauftragten muss die betreffende Lehrperson für einen Beschäftigungsgrad von mindestens fünfzig Prozent ernannt sein und einen Beschäftigungsgrad von mindestens acht Prozent im Rahmen der gängigen Unterrichtsaktivität ausweisen können.
 
-<sup>4</sup> Die Besoldung des Lehrpersonals ist im Gesetz über die Besoldung des Lehrpersonals der Lehranstalten des Kantons Wallis für eine höhere berufliche Ausbildung vorgesehen.
+<sup>4</sup> Die Besoldung des Lehrpersonals ist im Gesetz über die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vorgesehen.
 
 <sup>5</sup> Die Jahreslöhne der Professoren/Lehrbeauftragten hängen von der prozentualen Aufgabenzuteilung ab.
 
-#### Art. 36bis
+<sup>6</sup> Das Unterrichtspersonal, welches nicht über die in Artikel 35 des vorliegenden Gesetzes verlangten Qualifikationen verfügt, erhält einen tieferen Lohn. Dieser ist mit dem Titel verbunden, über den es verfügt, und wird gemäss der Lohnskala für die Lehrpersonen vorgesehen, die im Gesetz über die Besoldung des Personals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule (GBOS) definiert ist.
 
-<sup>3</sup> Mittelbau
+#### Art. 36a
+
+**Mittelbau**
 
 <sup>1</sup> Mitglieder des Mittelbaus sind:
 
 - a) die wissenschaftlichen Adjunkte;
-
 - b) die Assistenten.
 
-<sup>2</sup> Im Allgemeinen wirken die Mitglieder des Mittelbaus an den Lehrtätigkeiten, an den Forschungs- und Entwicklungsarbeiten und an den Dienstleistungen mit. Ihr Tätigkeitsbereich kann gemäss den Weisungen der Direktion ausgedehnt werden.
+<sup>2</sup> Grundsätzlich beteiligen sich die Mitglieder des Mittelbaus an den Lehrtätigkeiten, den Forschungs- und Entwicklungsarbeiten und den Dienstleistungen. Ihr Tätigkeitsbereich kann gemäss den Weisungen der Direktion erweitert werden.
 
-<sup>3</sup> Die Rechte und Pflichten des Mittelbaus werden in der Verordnung betreffend das Statut des Personals der Pädagogischen Hochschule Wallis geregelt. Ihre Besoldung wird entsprechend der Gesetzgebung festgelegt, welche das Gehalt des Personals des Staates Wallis regelt.[^36bis-1]
-
-[^36bis-1]: Fassung gemäss Art. 92 Ziff. 3 des Gesetzes Abl. Nr. 38/2011 1.09.2012 über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule vom 14.09.2011
+<sup>3</sup> Die Mitglieder des Mittelbaus erhalten eine Besoldung gemäss Lohntabelle der Lehrpersonen im GBOS, dies in Verbindung mit dem Titel, über den sie verfügen.
 
 #### Art. 37
 
-<sup>4</sup> Technisches und administratives Personal
+**Administratives und technisches Personal**
 
-Die Dienstverhältnisse des technischen und des administrativen Personals sind im Gesetz über das Personal des Staates Wallis geregelt.
+<sup>1</sup> Das administrative und technische Personal wird von der PH-VS angestellt.
+
+<sup>2</sup> Die Dienstverhältnisse des administrativen und technischen Personals sind im Gesetz über das Personal des Staates Wallis (kGPers) geregelt.
 
 #### Art. 38
 
 **Praktikumslehrpersonen**
 
-<sup>1</sup> Die Praktikumslehrpersonen sind erfahrene, speziell dazu ausgebildete Lehrpersonen.
+<sup>1</sup> Die Praktikumslehrpersonen sind erfahrene Lehrpersonen, die über eine zertifizierte Ausbildung verfügen.
 
-<sup>2</sup> Ihr Pflichtenheft wird vom Staatsrat festgelegt.
+<sup>2</sup> Ihr Pflichtenheft wird von der PH-VS festgelegt.
 
-#### Art. 38bis
+<sup>3</sup> Der Staatsrat legt die allgemeinen Rahmenbedingungen der Aufträge und ihre Besoldung in einem Reglement fest.
 
-<sup>2,4</sup> Fachberater
+#### Art. 38a
 
-Die Fachberater sind in der Regel Lehrpersonen der Primarschulen und der Sekundarschulen I und II, die durch das zuständige Departement je nach Bedarf in Teilzeit und/oder für eine beschränkte Dauer angestellt werden, um besondere Aufgaben oder Aufträge bei den Lehrpersonen ihrer Stufe wahrzunehmen.
+**Pädagogische Fachberater**
 
-### 8. Kapitel: Schlussbestimmungen
+<sup>1</sup> Die pädagogischen Fachberater sind in der Regel Lehrpersonen der Primar- und der Sekundarstufe I oder II, die durch das Departement auf Vorschlag der PH-VS je nach Bedarf in Teilzeit und/oder für eine beschränkte Dauer angestellt werden, um besondere Aufgaben oder Aufträge bei den Lehrpersonen ihrer Stufe wahrzunehmen.
+
+<sup>2</sup> Das Statut, die Rechte und die Pflichten der pädagogischen Fachberater sind in dem Gesetz über das Personal der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule (GPOS) und in der Verordnung betreffend das Statut des Personals der Pädagogischen Hochschule Wallis vorgesehen.
+
+<sup>3</sup> Die Besoldung der pädagogischen Fachberater ist im GBOS und in der Verordnung betreffend das Statut des Personals der Pädagogischen Hochschule Wallis geregelt.
+
+## 7a Rechtsmittel
+
+#### Art. 38b
+
+**Instanz und Verfahren**
+
+<sup>1</sup> Die Kandidaten und die an der PH-VS immatrikulierten Studierenden können die Beschlussbehörde durch den Reklamationsweg ergreifen, dessen Verfahren in einem Reglement der PH-VS festgelegt ist. Der Beschluss über die Reklamation kann mittels eines Rekurses beim Staatsrat in einer Frist von 30 Tagen angefochten werden.
+
+<sup>2</sup> Die anderen Rekurse, die aus der Anwendung des hiesigen Gesetzes stammen, werden in erster Instanz dem Staatsrat unterbreitet. Die Verfahren wird durch das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) geregelt.
+
+<sup>3</sup> Die Beschlüsse des Staatsrates können beim Kantonsgericht angefochten werden. Dessen Verfahren wird vom VVRG geregelt.
+
+## 8 Schlussbestimmungen
 
 #### Art. 39
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Das vorliegende Gesetz gilt nicht für das gemäss dem Gesetz vom 4. Juli 1962 über das öffentliche Unterrichtswesen und den entsprechenden Ausführungsbestimmungen ausgebildete Lehrpersonal.
+<sup>1</sup> Das vorliegende Gesetz gilt nicht für das gemäss dem Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962 und den entsprechenden Ausführungsbestimmungen ausgebildete Lehrpersonal.
 
-<sup>2</sup> Artikel 20 des vorliegenden Gesetzes bleibt vorbehalten.
+<sup>2</sup> …
 
-<sup>3</sup> Studenten der Lehrerseminarien, die im Juni des Jahres 2000 die Promotion nicht schaffen, können die Prüfungen laut den von der Direktion festgelegten Bestimmungen wiederholen.
+<sup>3</sup> …
 
-<sup>4</sup> Das Reglement vom 30. November 1977 über die Lehrerseminarien bleibt in Kraft für alle, die bis zum Jahr 2000 ihr Studium mit dem pädagogischen Reifezeugnis abschliessen.
+<sup>4</sup> Das Reglement über die Lehrerseminarien vom 30. November 1977 bleibt in Kraft für alle, die bis zum Jahr 2000 ihr Studium mit dem pädagogischen Reifezeugnis abschliessen.
+
+#### Art. 39a
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Staatsrat erlässt auf dem Verordnungs- und dem Reglementsweg alle nötigen Ausführungsbestimmungen zum vorliegenden Gesetz.
 
 #### Art. 40
 
-<sup>1</sup> Abänderung des Gesetzes vom 4. Juli 1962 über das öffentliche
+**Abänderung des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962**
 
-Unterrichtswesen Nachfolgende Artikel des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962 werden wie folgt geändert:
-
-#### Art. 74
-
-**, Abs. 5**
-
-Die berufsspezifische Ausbildung erfolgt an einer Schule des tertiären Bereichs: der Höheren Pädagogischen Lehranstalt (PH).
-
-#### Art. 74c
-
-**, und 74d**
-
-In diesen Artikeln wird im französischen Text «PH» durch «PH» ersetzt.
-
-#### Art. 74e
-
-Der Staatsrat erlässt Bestimmungen über besondere Massnahmen zur Aufnahme der Kandidaten an die PH, zur Betreuung der Lehrpersonen, besonders der Junglehrer (streichen: Übungsklassen), zur Schaffung, von neuen Abteilungen oder spezieller Kurse.
-
-Der Staatsrat regelt alle besonderen Fälle.
-
-#### Art. 90c
-
-Der Staatsrat überträgt der PH die Verantwortung für die Fort- und Weiterbildung.
+<sup>1</sup> Das Gesetz über das öffentliche Unterrichtswesen vom 4. Juli 1962 wird geändert.
 
 #### Art. 41
 
@@ -544,17 +647,10 @@ Der Staatsrat überträgt der PH die Verantwortung für die Fort- und Weiterbild
 
 <sup>2</sup> Der Staatsrat legt den Zeitpunkt seines Inkrafttretens fest.
 
-So angenommen in zweiter Lesung im Grossen Rate zu Sitten, den 4. Oktober 1996.
+## T1 Übergangsbestimmung der Änderung vom 09.11.2006
 
-Der Präsident des Grossen Rates: Hermann Fux Die Schriftführer: Herbert Marty, Florian Boisset
+#### Art. T1-1
 
-### Titel und Änderungen Veröffentlichung Inkrafftreten
+<sup>1</sup> Die Lehrpersonen, welche durch den Staatsratsentscheid vom 24. Januar 2001 zu Professoren ernannt worden sind, behalten dieses Statut und diebetreffende Besoldung bis zum 31. August 2007.
 
-**1.07.1997**
-
-GS/VS 1997, 55
-
-## Weitere Fussnoten
-
-- [2] Änderung vom 9.11.2006 GS/VS 2007, 81 1.09.2006
-- [3] Änderung vom 14.02.2008 Abl. Nr. 10/2008 1.09.2008
+CSW RO/AGS 1997 f 52, 339 | d 54, 347
