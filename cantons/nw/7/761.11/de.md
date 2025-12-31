@@ -1,25 +1,24 @@
 ---
 canton: NW
 number: "761.11"
-title: Vollzugsverordnung zum Gesetz über die Sozialhilfe
+title: Verordnung zum Gesetz über die Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2025-03-18
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2014-12-16
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/761.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1361/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung zum Gesetz über die Sozialhilfe
+# Verordnung zum Gesetz über die Sozialhilfe
 
 (Sozialhilfeverordnung, SHV)
 
-vom 16.12.2014 (Stand 01.04.2025)
+vom 16.12.2014 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -164,7 +163,7 @@ beschliesst:
 
 <sup>1</sup> Die Bemessung der wirtschaftlichen Sozialhilfe:
 
-- 1\. orientiert sich an den Empfehlungen der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien)[^8-1] in der Fassung per 1. Januar 2021 (5. Ausgabe), mit Ergänzung per 1. Januar 2022 und per 1. Januar 2023;
+- 1\. orientiert sich an den Empfehlungen der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien)[^8-1] in der Fassung per 1. Januar 2021 (5. Ausgabe), mit Ergänzungen per 1. Januar 2022, per 1. Januar 2023, per 1. Januar 2024, per 1. Januar 2025 und per 1. Januar 2026;
 - 2\. richtet sich nach den in Anhang 1 aufgeführten Abweichungen von den SKOS-Richtlinien und den in Anhang 2 verbindlich erklärten Richtlinien der kantonalen Sozialkommission.
 
 <sup>2</sup> Der Anhang 1 geht den SKOS-Richtlinien vor.
