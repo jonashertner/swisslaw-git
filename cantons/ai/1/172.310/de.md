@@ -4,13 +4,13 @@ number: "172.310"
 title: Personalverordnung
 short: PeV
 language: de
-version: 2022-04-01
-valid_until: 2025-12-31
-version_adopted: 2022-02-07
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-10-20
 adopted: 1998-11-30
 in_force: 1999-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.310"
-pdf: "https://ai.clex.ch/api/de/versions/2025/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2411/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2025/pdf_file"
 
 (PeV)
 
-vom 30.11.1998 (Stand 01.04.2022)
+vom 30.11.1998 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
@@ -60,6 +60,8 @@ beschliesst:
 <sup>3</sup> …
 
 <sup>4</sup> Unter den Begriff des Departements gemäss dieser Verordnung und den darauf beruhenden Ausführungserlassen fällt auch die vom Ratschreiber geleitete Ratskanzlei.
+
+<sup>5</sup> Die Gerichtspräsidenten nehmen in ihrem Bereich die in den Personalerlassen des Kantons den Departementsvorstehern zugeschiedenen personalrechtlichen Pflichten und Rechte wahr.
 
 #### Art. 4
 
@@ -203,7 +205,7 @@ beschliesst:
 
 **Dienstleistung**
 
-<sup>1</sup> Die Mitarbeitenden sind zur persönlichen Dienstleistung verpflichtet. Sie haben ihre volle Arbeitskraft ihrem Dienst zu widmen und die Obliegenheiten treu und gewissenhaft zu erfüllen. Sie haben alles zu tun, was die Interessen des Arbeitgebers fördert, und alles zu unterlassen, was sie beeinträchtigt.
+<sup>1</sup> Die Mitarbeitenden sind zur persönlichen Dienstleistung verpflichtet. Sie haben ihre volle Arbeitskraft ihrem Dienst zu widmen und die Obliegenheiten treu, sorgfältig und gewissenhaft zu erfüllen. Sie haben innerhalb und ausserhalb des Dienstes die Interessen des Arbeitgebers zu wahren.
 
 #### Art. 19
 
@@ -219,7 +221,7 @@ beschliesst:
 
 **Sorgfalt und Interessenwahrung**
 
-<sup>1</sup> Die Mitarbeitenden haben die ihnen übertragene Arbeit sorgfältig auszuführen und die Interessen des Arbeitgebers inner- und ausserhalb des Dienstes in guten Treuen zu wahren.
+<sup>1</sup> …
 
 #### Art. 21
 
@@ -305,16 +307,9 @@ beschliesst:
 
 **Lohnfortzahlung bei Krankheit und Unfall**
 
-<sup>1</sup> Werden Mitarbeitende aus Gründen, die in ihrer Person liegen, wie Krankheit, Unfall oder die Erfüllung gesetzlicher Pflichten ohne ihr Verschulden an der Arbeitsleistung verhindert, so hat der Arbeitgeber für eine beschränkte Zeit den darauf entfallenden Lohn zu entrichten, samt einer angemessenen Vergütung für ausfallenden Naturallohn, sofern das Arbeitsverhältnis mehr als drei Monate gedauert hat oder für mehr als drei Monate eingegangen worden ist.
+<sup>1</sup> Werden Mitarbeitende aus Gründen, die in ihrer Person liegen, wie Krankheit, Unfall oder die Erfüllung gesetzlicher Pflichten ohne ihr Verschulden an der Arbeitsleistung verhindert, so hat der Arbeitgeber für sechs Monate den darauf entfallenden Nettolohn zu entrichten, samt einer angemessenen Vergütung für ausfallenden Naturallohn, sofern das Arbeitsverhältnis mehr als drei Monate gedauert hat oder für mehr als drei Monate eingegangen worden ist.
 
-<sup>2</sup> Bei unverschuldeter Arbeitsverhinderung beträgt die Dauer der Fortzahlung der Besoldung
-
-- a) im 1. und 2. Dienstjahr: — 4 Wochen,
-- b) ab dem 3. Dienstjahr: — 8 Wochen,
-- c) ab dem 5. Dienstjahr: — 12 Wochen,
-- d) ab dem 11. Dienstjahr: — 16 Wochen,
-- e) ab dem 15. Dienstjahr: — 20 Wochen,
-- f) ab dem 20. Dienstjahr: — 24 Wochen,
+<sup>2</sup> …
 
 <sup>3</sup> Ist die Krankheit oder der Unfall auf grobes Selbstverschulden zurückzuführen, kann die Standeskommission die Lohnfortzahlung nach freiem Ermessen kürzen oder entziehen.
 
@@ -326,12 +321,12 @@ beschliesst:
 
 <sup>1</sup> Hinsichtlich des Lohnes bei obligatorischem Militärdienst, Rotkreuzdienst, Zivilschutz und Zivildienst gilt:
 
-- 1\. Bei der Rekrutierung sowie bei Dienstleistungen von bis zu vier Wochen pro Jahr wird der Lohn vollständig ausgezahlt.
-- 2\. Bei Dienstleistungen, welche vier Wochen pro Jahr übersteigen, wird der Lohnanteil zu 70% ausbezahlt. Mitarbeitende mit Unterstützungspflichten erhalten 90%.
+- 1\. Bei der Rekrutierung sowie bei Dienstleistungen von bis zu 16 Wochen pro Jahr wird der Lohn vollständig ausgezahlt.
+- 2\. Bei Dienstleistungen, welche 16 Wochen pro Jahr übersteigen, wird der Lohnanteil zu 70% ausbezahlt. Mitarbeitende mit Unterstützungspflichten erhalten 90%.
 
 <sup>2</sup> Die Entschädigung der Erwerbsersatzordnung fällt dem Arbeitgeber zu, soweit sie die Lohnzahlung während der Dienstzeit nicht übersteigt. Dies gilt auch für Dienstleistungen während Ferien, arbeitsfreien Tagen oder bezahltem Urlaub.
 
-<sup>3</sup> Die Standeskommission regelt die Rückvergütung bei Auflösung des Anstellungsverhältnisses während der Dienstzeit oder vor Ablauf von 12 Monaten nach Wiederaufnahme der Arbeit.
+<sup>3</sup> …
 
 #### Art. 30a
 
@@ -347,11 +342,11 @@ beschliesst:
 
 **Mutterschaftsurlaub**
 
-<sup>1</sup> Mitarbeiterinnen haben ab dem Tag der Niederkunft einen bezahlten Mutterschaftsurlaub von 14 Wochen.
+<sup>1</sup> Mitarbeiterinnen haben ab dem Tag der Niederkunft einen bezahlten Mutterschaftsurlaub von 16 Wochen.
 
 <sup>2</sup> Bei einer Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die Zeit, während welcher die Mutterschaftsversicherung zusätzliche Entschädigungen ausrichtet.
 
-<sup>3</sup> Nach fünf Dienstjahren hat die Mutter Anspruch auf Verlängerung des Mutterschaftsurlaubes um drei Monate unbezahlten Urlaub, sofern die betrieblichen Verhältnisse dies zulassen und das Anstellungsverhältnis danach fortgesetzt wird.
+<sup>3</sup> …
 
 #### Art. 31a
 
@@ -371,9 +366,9 @@ beschliesst:
 
 **Lohnfortzahlung im Todesfall**
 
-<sup>1</sup> Im Todesfall von Mitarbeitenden besteht für den Sterbemonat Anspruch auf die volle Besoldung.
+<sup>1</sup> Im Todesfall von Mitarbeitenden besteht für den Sterbemonat und zwei weitere Monate Anspruch auf die volle Besoldung.
 
-<sup>2</sup> Sind minderjährige Kinder oder andere unterstützungsbedürftige Personen vorhanden, wird für weitere zwei Monate die Rente der Pensionskasse auf die Höhe des bisherigen Lohnes ergänzt.
+<sup>2</sup> Sind minderjährige Kinder oder andere unterstützungsbedürftige Personen vorhanden, wird für weitere drei Monate die Rente der Pensionskasse auf die Höhe des bisherigen Lohnes ergänzt.
 
 <sup>3</sup> Von den Sozialversicherungen ausgerichtete Renten und Leistungen im Todesfall werden an die Lohnfortzahlung im Todesfall angerechnet, so dass den Angehörigen der Mitarbeitenden höchstens 100% des letzten Lohnes ausgerichtet wird.
 
@@ -455,10 +450,10 @@ beschliesst:
 <sup>1</sup> Die Kündigungsfrist beträgt:
 
 - a) während der Probezeit 7 Tage;
-- b) im ersten Dienstjahr einen Monat;
-- c) ab dem 2. Dienstjahr drei Monate.
+- b) nach der Probezeit drei Monate.
+- c) …
 
-<sup>2</sup> Die Standeskommission kann für bestimmte Funktionen oder Personen längere Kündigungsfristen festlegen.
+<sup>2</sup> Die Standeskommission kann für bestimmte Funktionen oder Personen andere Kündigungsfristen festlegen.
 
 <sup>3</sup> Nach Beendigung der Probezeit ist die Kündigung jeweils auf das Ende eines Monats auszusprechen.
 
