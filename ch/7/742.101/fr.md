@@ -4,11 +4,11 @@ title: Loi fédérale du 20 décembre 1957 sur les chemins de fer (LCdF)
 short: LCdF
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/335_341_347"
 language: fr
-version: 2024-07-01
+version: 2026-01-01
 adopted: 1957-12-20
 in_force: 1958-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20240701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/335_341_347/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1958-335_341_347-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/335_341_347/20240701/fr"
 
 (LCdF[^t-1])
 
-du 20 décembre 1957 (État le 1<sup>er</sup> juillet 2024)
+du 20 décembre 1957 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Abréviation introduite par le ch. I de la LF du 20 mars 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 853](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)).
 
@@ -27,7 +27,7 @@ vu les art. 81, 87 et 87*a* de la Constitution[^ingress-1],[^ingress-2] vu le me
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. II 3 de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305)).
 [^ingress-3]: [FF 1956 I 205](https://fedlex.data.admin.ch/eli/fga/1956/1_213_205_)
 
@@ -73,7 +73,7 @@ Les entreprises ferroviaires sont des entreprises qui:
 
 [^3-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^3-2]: Selon le ch. II 13 de la loi du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010, les titres marginaux sont transformés en titres médians, les ch. et les let. ne sont pas repris ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^3-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^3-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^3-4]: Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 
 #### Art. 4
@@ -126,7 +126,7 @@ Les entreprises ferroviaires sont des entreprises qui:
 [^5-1]: Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^5-2]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^5-3]: Nouvelle teneur selon le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^5-4]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
+[^5-4]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
 [^5-5]: Introduit par l’annexe 7 ch. II 5 de la LF du 21 juin 2019 sur les marchés publics, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126); [FF 2017 1695](https://fedlex.data.admin.ch/eli/fga/2017/417)).
 
 #### Art. 6
@@ -162,7 +162,7 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 - b. renouveler les concessions.[^6-3]
 
 [^6-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^6-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^6-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^6-3]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 
 #### Art. 7
@@ -238,7 +238,7 @@ L’OFT retire l’agrément de sécurité en tout temps, sans indemnisation, en
 
 <sup>1</sup> Quiconque veut effectuer des transports ferroviaires doit être en possession d’une licence d’entreprise de transport ferroviaire (autorisation d’accès au réseau) et d’un certificat de sécurité. Le Conseil fédéral peut prévoir des dérogations pour les transports ferroviaires strictement locaux ainsi que pour les transports sur des tronçons à voie étroite et sur des tronçons non interopérables à voie normale.[^8c-2]
 
-<sup>2</sup> ...[^8c-3]
+<sup>2</sup> …[^8c-3]
 
 <sup>3</sup>
 
@@ -252,7 +252,7 @@ L’entreprise doit respecter les prescriptions légales suisses, notamment:
 [^8c-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^8c-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^8c-3]: Abrogé par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
-[^8c-4]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^8c-4]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 8d
 
@@ -313,7 +313,7 @@ L’OFT retire l’autorisation d’accès au réseau et le certificat de sécur
 
 <sup>1</sup> Le gestionnaire d’infrastructure autorise les entreprises de transport ferroviaire à accéder sans discrimination à son réseau.[^9a-2]
 
-<sup>2 et <sup>3</sup></sup> ...[^9a-3]
+<sup>2 et <sup>3</sup></sup> …[^9a-3]
 
 <sup>4</sup> Toute entreprise qui souhaite effectuer un transport peut demander l’accès au réseau pour un itinéraire défini dans le temps et l’espace (sillon). Au plus tard un mois avant la mise en service, elle présente une autorisation d’accès au réseau ou mandate une entreprise de transport ferroviaire pour effectuer le transport. L’entreprise qui effectue le transport doit présenter le certificat de sécurité au plus tard au début des courses.[^9a-4]
 
@@ -362,6 +362,8 @@ Dans le cadre d’une stratégie d’utilisation du réseau, le Conseil fédéra
 
 <sup>3</sup> Le prix du sillon est fixé de manière non discriminatoire. Il doit couvrir au moins les coûts marginaux occasionnés normalement par l’utilisation d’un tronçon moderne; ces coûts sont calculés par l’OFT pour la catégorie de tronçon concernée.
 
+<sup>3bis</sup> L’OFT peut fixer un prix du sillon inférieur aux coûts marginaux pour les prestations de manœuvre en transport de marchandises.[^9c-2]
+
 <sup>4</sup> Le prix du sillon prend en compte en particulier les différents coûts liés au réseau, l’impact des véhicules sur l’environnement, ainsi que la demande.
 
 <sup>5</sup> S’agissant du transport régulier de voyageurs, le prix du sillon doit couvrir les coûts marginaux calculés par l’OFT pour les diverses catégories de tronçon et la part des recettes déterminée par l’autorité concédante.
@@ -369,6 +371,7 @@ Dans le cadre d’une stratégie d’utilisation du réseau, le Conseil fédéra
 <sup>6</sup> Le Conseil fédéral définit les principes applicables au calcul du prix du sillon et en règle la publication. Lors de la définition de ces principes, il veille à ce que les prix du sillon soient les mêmes sur les lignes comparables et que les capacités ferroviaires soient exploitées de manière optimale.
 
 [^9c-1]: Anciennement art. 9*b*. Introduit par le ch. I de la LF du 20 mars 1998 ([RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 809](https://fedlex.data.admin.ch/eli/fga/1997/1__809_)). Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
+[^9c-2]: Introduit par l’annexe ch. II 3 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 ## Chapitre 2*a* Service d’attribution des sillons
 
@@ -419,8 +422,8 @@ Le service d’attribution des sillons remplit les tâches suivantes:
 
 <sup>6</sup> Le Conseil fédéral peut exclure des parties du réseau de la compétence du service d’attribution des sillons, notamment les tronçons à voie étroite et les tronçons non interopérables à voie normale.
 
-[^9f-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
-[^9f-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^9f-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
+[^9f-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 9g
 
@@ -450,7 +453,7 @@ Les organes du service d’attribution des sillons sont:
 
 <sup>7</sup> Ils signalent immédiatement tout changement dans leurs liens d’intérêts au conseil d’administration. Celui-ci en informe le Conseil fédéral dans le cadre de son rapport annuel de gestion. Si un lien d’intérêts est incompatible avec la fonction au conseil d’administration et si le membre le maintient, le conseil d’administration propose au Conseil fédéral de révoquer la personne concernée.
 
-[^9h-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9h-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 9i
 
@@ -470,7 +473,7 @@ Le conseil d’administration remplit les tâches suivantes:
 - j. il veille à la mise en place d’un système de contrôle interne et d’un système de gestion des risques appropriés au service d’attribution des sillons;
 - k. il établit et approuve un rapport de gestion annuel; il soumet le rapport de gestion révisé pour approbation au Conseil fédéral; en même temps, il lui propose de donner décharge au conseil d’administration et lui soumet une proposition sur l’emploi du bénéfice; il publie le rapport de gestion après son approbation par le Conseil fédéral.
 
-[^9i-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^9i-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 9j
 
@@ -511,7 +514,7 @@ Elle remplit les tâches suivantes:
 
 <sup>2</sup> Le service d’attribution des sillons est l’employeur.
 
-[^9l-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^9l-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 9m
 
@@ -546,7 +549,7 @@ Le conseil d’administration édicte des dispositions d’exécution concernant
 
 <sup>2</sup> Le service d’attribution des sillons est affilié à la Caisse de prévoyance de la Confédération.
 
-[^9n-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^9n-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 9o
 
@@ -563,7 +566,7 @@ Le service d’attribution des sillons finance ses activités au moyen:
 
 <sup>3</sup> Les indemnités de la Confédération couvrent les coûts des tâches visées à l’art. 9*v*, al. 4.
 
-[^9o-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^9o-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 9p
 
@@ -708,7 +711,7 @@ L’OFT a le droit d’annuler les décisions et les dispositions prises par les
 <sup>2</sup> La LTrans[^14-2] ne s’applique pas aux rapports concernant des audits, des contrôles d’exploitation et des inspections de l’OFT ni aux autres documents officiels qui contiennent des données personnelles concernant la sécurité technique ou d’exploitation.
 
 [^14-1]: Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^14-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
+[^14-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
 
 #### Art. 14a
 
@@ -756,11 +759,11 @@ Les entreprises ferroviaires déclarent aux autorités suivantes les accidents o
 <sup>4</sup> Le Conseil fédéral règle l’organisation de la commission. Il peut regrouper cet organe avec la commission visée à l’art. 25 de la loi fédérale du 21 décembre 1948 sur l’aviation[^15a-6].
 
 [^15a-1]: Introduit par l’annexe de la LF du 1<sup>er</sup> oct. 2010 ([RO 2011 1119](https://fedlex.data.admin.ch/eli/oc/2011/165); [FF 2009 4405](https://fedlex.data.admin.ch/eli/fga/2009/850)). Nouvelle teneur selon l’annexe ch. 2 de la LF du 16 juin 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5607](https://fedlex.data.admin.ch/eli/oc/2017/605); [FF 2016 6913](https://fedlex.data.admin.ch/eli/fga/2016/1536)).
-[^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^15a-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 [^15a-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^15a-4]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^15a-5]: Introduit par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
-[^15a-6]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^15a-6]: [RS 748.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9033)
 
 #### Art. 15b
 
@@ -792,7 +795,7 @@ Afin d’élucider les faits, le bureau d’enquête peut ordonner les mesures s
 [^15b-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^15b-3]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^15b-4]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
-[^15b-5]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^15b-5]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^15b-6]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 
 #### Art. 15c
@@ -844,7 +847,7 @@ Après avoir procédé à un examen fondé sur le principe de la proportionnalit
 <sup>2</sup> Ils peuvent traiter des données personnelles, y compris les données sensibles visées à l’art. 16, al. 1<sup>bis</sup>, dans la mesure où cela est nécessaire à la sécurité de l’infrastructure, en particulier à sa construction et à son exploitation. Cette disposition est également applicable aux tiers qui accomplissent les tâches des gestionnaires d’infrastructure. Ces derniers restent responsables du respect des prescriptions relatives à la protection des données.
 
 [^16a-1]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)). Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
-[^16a-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^16a-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 
 #### Art. 16b
 
@@ -976,7 +979,7 @@ Il peut:
 [^18-1]: Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^18-2]: Introduit par le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
 [^18-3]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^18-4]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^18-4]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 #### Art. 18a
 
@@ -987,8 +990,8 @@ Il peut:
 <sup>2</sup> Si une expropriation est nécessaire, la loi fédérale du 20 juin 1930 sur l’expropriation (LEx)[^18a-3] s’applique au surplus.
 
 [^18a-1]: Introduit par le ch. I de la LF du 8 oct. 1982 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Nouvelle teneur selon l’annexe ch. 13 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^18a-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^18a-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18a-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^18a-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18b
 
@@ -1010,7 +1013,7 @@ La demande d’approbation des plans doit être adressée avec les documents req
 <sup>3</sup> La procédure visée à l’art. 15 LEx[^18c-2] s’applique aux autres actes préparatoires, à la mise au point du projet et à la consolidation des bases de décision. L’autorité chargée de l’approbation des plans statue sur les objections de tiers.
 
 [^18c-1]: Introduit par le ch. I de la LF du 8 oct. 1982 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^18c-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18c-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18d
 
@@ -1020,7 +1023,7 @@ La demande d’approbation des plans doit être adressée avec les documents req
 
 <sup>2</sup> La demande doit être publiée dans les organes officiels des cantons et des communes concernés et mise à l’enquête pendant 30 jours.
 
-<sup>3</sup> ...[^18d-2]
+<sup>3</sup> …[^18d-2]
 
 [^18d-1]: Introduit par le ch. I de la LF du 8 oct. 1982 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^18d-2]: Abrogé par l’annexe ch. 13 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
@@ -1042,9 +1045,9 @@ La demande d’approbation des plans doit être adressée avec les documents req
 <sup>3</sup> Les communes font valoir leurs intérêts par voie d’opposition.
 
 [^18f-1]: Introduit par le ch. I de la LF du 8 oct. 1982 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^18f-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^18f-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^18f-3]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^18f-4]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18f-4]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^18f-5]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 #### Art. 18g
@@ -1055,7 +1058,7 @@ La procédure d’élimination des divergences au sein de l’administration fé
 
 [^18g-1]: Introduit par le ch. I de la LF du 8 oct. 1982 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^18g-2]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^18g-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^18g-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 18h
 
@@ -1069,7 +1072,7 @@ La procédure d’élimination des divergences au sein de l’administration fé
 
 <sup>4</sup> Si des raisons majeures le justifient, l’autorité chargée de l’approbation des plans peut prolonger de trois ans au plus la durée de validité de sa décision. Toute prolongation est exclue si les conditions déterminantes de fait ou de droit ont changé sensiblement depuis l’entrée en force de la décision.
 
-<sup>5</sup> ...[^18h-3]
+<sup>5</sup> …[^18h-3]
 
 [^18h-1]: Introduit par le ch. I de la LF du 8 oct. 1982 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^18h-2]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
@@ -1101,13 +1104,13 @@ La procédure simplifiée d’approbation des plans s’applique:
 
 <sup>1</sup> Après clôture de la procédure d’approbation des plans, des procédures de conciliation et d’estimation sont ouvertes, au besoin, devant la commission fédérale d’estimation (commission d’estimation), conformément à la LEx[^18k-3].[^18k-4]
 
-<sup>2</sup> ...[^18k-5]
+<sup>2</sup> …[^18k-5]
 
 <sup>3</sup> Le président de la commission d’estimation peut autoriser l’envoi en possession anticipé lorsque la décision d’approbation des plans est exécutoire. L’expropriant est présumé subir un préjudice sérieux s’il ne bénéficie pas de l’entrée en possession anticipée. Au surplus, l’art. 76 LEx est applicable.
 
 [^18k-1]: Introduit par le ch. I de la LF du 8 oct. 1982 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)). Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^18k-2]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
-[^18k-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18k-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^18k-4]: Nouvelle teneur selon l’annexe ch. 13 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 [^18k-5]: Abrogé par l’annexe ch. 13 de la LF du 19 juin 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
@@ -1172,7 +1175,7 @@ Avant d’autoriser une installation annexe, l’autorité cantonale consulte l�
 
 [^18o-1]: Anciennement art. 18*c*. Introduit par le ch. I de la LF du 8 oct. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1985 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)).
 [^18o-2]: Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^18o-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18o-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18p
 
@@ -1217,7 +1220,7 @@ Avant d’autoriser une installation annexe, l’autorité cantonale consulte l�
 
 [^18r-1]: Anciennement art. 18*f*. Introduit par le ch. I de la LF du 8 oct. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1985 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)).
 [^18r-2]: Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
-[^18r-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18r-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 18s
 
@@ -1227,7 +1230,7 @@ Avant d’autoriser une installation annexe, l’autorité cantonale consulte l�
 
 <sup>2</sup> Les décisions portant sur la suppression d’alignements sont publiées dans les communes concernées, avec mention du délai de recours.
 
-<sup>3</sup> Les dispositions relatives à l’enrichissement illégitime s’appliquent par analogie aux cas où une indemnité a été versée. En cas d’aliénation, c’est le nouveau propriétaire qui est tenu à restitution. Les litiges sont tranchés par la commission d’estimation. ...[^18s-3]
+<sup>3</sup> Les dispositions relatives à l’enrichissement illégitime s’appliquent par analogie aux cas où une indemnité a été versée. En cas d’aliénation, c’est le nouveau propriétaire qui est tenu à restitution. Les litiges sont tranchés par la commission d’estimation. …[^18s-3]
 
 [^18s-1]: Anciennement art. 18*g*. Introduit par le ch. I de la LF du 8 oct. 1982, en vigueur depuis le 1<sup>er</sup> janv. 1985 ([RO 1984 1429](https://fedlex.data.admin.ch/eli/oc/1984/1429_1429_1429); [FF 1981 I 349](https://fedlex.data.admin.ch/eli/fga/1981/1_325_349_313)).
 [^18s-2]: Nouvelle teneur selon le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
@@ -1250,7 +1253,7 @@ Outre les alignements prévus par la présente loi, des alignements peuvent êtr
 
 #### Art. 18u
 
-***...*[^18u-2]**[^18u-1]
+***…*[^18u-2]**[^18u-1]
 
 <sup>1</sup> Les restrictions à la propriété fondées sur les art. 18*n* à 18*t* donnent droit à une indemnité pleine et entière si elles ont les mêmes effets qu’une expropriation. L’art. 21 est réservé. Les conditions existant au moment où la restriction à la propriété déploie ses effets sont déterminantes pour le calcul de l’indemnité.
 
@@ -1264,7 +1267,7 @@ Outre les alignements prévus par la présente loi, des alignements peuvent êtr
 
 [^18u-1]: Introduit par le ch. I 9 de la LF du 18 juin 1999 sur la coordination et la simplification des procédures de décision, en vigueur depuis le 1<sup>er</sup> janv. 2000 ([RO 1999 3071](https://fedlex.data.admin.ch/eli/oc/1999/472); FF **1998** 2221).
 [^18u-2]: Abrogé par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^18u-3]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^18u-3]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^18u-4]: Nouvelle teneur de la phrase selon l’annexe ch. 13 de la LF du 19 juin 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4085](https://fedlex.data.admin.ch/eli/oc/2020/748); [FF 2018 4817](https://fedlex.data.admin.ch/eli/fga/2018/1660)).
 
 ### Section 6 Remembrement
@@ -1275,7 +1278,7 @@ Outre les alignements prévus par la présente loi, des alignements peuvent êtr
 
 #### Art. 18v
 
-***...*[^18v-2]**[^18v-1]
+***…*[^18v-2]**[^18v-1]
 
 <sup>1</sup> Si les droits réels nécessaires à la réalisation d’un projet peuvent être obtenus par un remembrement mais que le canton n’y procède pas de son propre chef, l’autorité chargée de l’approbation des plans lui demande de l’ordonner dans un délai fixé par elle en vertu du droit cantonal. Si ce délai n’est pas respecté, la procédure ordinaire, qui comprend l’expropriation, est appliquée.
 
@@ -1564,7 +1567,7 @@ Les organes de contrôle de l’OFT peuvent:
 
 [^23i-1]: Introduite par le ch. I de la LF du 29 sept. 2023 (Mise en œuvre du volet technique du 4<sup>e</sup> paquet ferroviaire de l’UE), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 152](https://fedlex.data.admin.ch/eli/oc/2024/152); [FF 2023 703](https://fedlex.data.admin.ch/eli/fga/2023/703)).
 [^23i-2]: Nouvelle teneur selon le ch. I 28 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^23i-3]: [RS 930.11](https://fedlex.data.admin.ch/eli/cc/2010/347)
+[^23i-3]: [RS 930.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11020)
 
 #### Art. 23j
 
@@ -1810,10 +1813,10 @@ L’OFT et ses mandataires règlent par écrit le contenu et l’ampleur de la t
 <sup>8</sup> L’art. 9 LPD[^37-5] est applicable.[^37-6]
 
 [^37-1]: Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^37-2]: [RS 152.3](https://fedlex.data.admin.ch/eli/cc/2006/355)
-[^37-3]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
-[^37-4]: [RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)
-[^37-5]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^37-2]: [RS 152.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4937)
+[^37-3]: [RS 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
+[^37-4]: [RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)
+[^37-5]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^37-6]: Nouvelle teneur selon l’annexe 1 ch. II 61 de la LF du 25 sept. 2020 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 6565](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 37a
@@ -1834,7 +1837,7 @@ L’OFT et ses mandataires règlent par écrit le contenu et l’ampleur de la t
 
 #### Art. 38
 
-**...[^38-2]**[^38-1]
+**…[^38-2]**[^38-1]
 
 <sup>1</sup> L’entreprise qui constate ou cause une interruption de l’exploitation doit en aviser immédiatement les autres entreprises concernées et convenir avec elles des mesures à prendre. Sauf en cas de force majeure, le transport régulier des voyageurs doit être maintenu en détournant le trafic ou en recourant à d’autres moyens de transport.
 
@@ -1875,7 +1878,7 @@ L’OFT et ses mandataires règlent par écrit le contenu et l’ampleur de la t
 
 #### Art. 40
 
-**...[^40-2]**[^40-1]
+**…[^40-2]**[^40-1]
 
 <sup>1</sup>
 
@@ -1916,7 +1919,7 @@ Après avoir entendu les intéressés, l’OFT règle les litiges relatifs aux q
 <sup>4</sup> La RailCom édicte un règlement relatif à son organisation et à sa direction (règlement de service), soumis à l’approbation du Conseil fédéral.
 
 [^40a-1]: Introduit par le ch. I de la LF du 20 mars 1998 ([RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835); [FF 1997 I 853](https://fedlex.data.admin.ch/eli/fga/1997/1_909_853_809)). Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^40a-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^40a-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 40a<sup>bis</sup>
 
@@ -1929,7 +1932,7 @@ Après avoir entendu les intéressés, l’OFT règle les litiges relatifs aux q
 <sup>3</sup> Les rapports de service sont soumis à la LPers[^40abis-2].
 
 [^40abis-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)). Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^40abis-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^40abis-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 40a<sup>ter</sup>
 
@@ -1942,7 +1945,7 @@ La RailCom statue sur les litiges concernant:
 - a. l’octroi de l’accès au réseau;
 - b. les conventions d’accès au réseau;
 - c. le calcul du prix du sillon;
-- d. l’accès aux installations de transbordement du transport combiné et aux voies de raccordement cofinancées par la Confédération;
+- d.[^40ater-2] l’accès aux installations de transbordement et de chargement du transport combiné cofinancées par la Confédération ainsi qu’à l’infrastructure portuaire destinée au transport de marchandises sur le Rhin;
 - e. l’exécution de tâches systémiques;
 - f. le droit de participation visé à l’art. 37*a*.
 
@@ -1962,10 +1965,11 @@ Elle surveille:
 
 <sup>5</sup> Elle coordonne ses activités avec les régulateurs étrangers. Elle peut échanger avec eux les informations et les données requises.
 
-<sup>6</sup> La loi du 6 octobre 1995 sur les cartels[^40ater-2] n’est pas applicable au domaine de l’accès au réseau.
+<sup>6</sup> La loi du 6 octobre 1995 sur les cartels[^40ater-3] n’est pas applicable au domaine de l’accès au réseau.
 
 [^40ater-1]: Introduit par l’annexe ch. II 3 de la L du 25 sept. 2015 sur le transport de marchandises ([RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3687](https://fedlex.data.admin.ch/eli/fga/2014/923)). Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020, excepté l’al. 1, let. f, en vigueur à partir du 1<sup>er</sup> janv. 2021 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^40ater-2]: [RS 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^40ater-2]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^40ater-3]: [RS 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 
 #### Art. 40a<sup>quater</sup>
 
@@ -1990,9 +1994,9 @@ Elle surveille:
 <sup>4</sup> Le président ouvre la procédure d’office ou en confirmant par écrit la réception du recours ou de l’action.
 
 [^40aquinquies-1]: Introduit par l’annexe ch. II 3 de la L du 25 sept. 2015 sur le transport de marchandises ([RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3687](https://fedlex.data.admin.ch/eli/fga/2014/923)). Nouvelle teneur selon le ch. I 3 de la LF du 28 sept. 2018 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1889](https://fedlex.data.admin.ch/eli/oc/2020/393); [FF 2016 8399](https://fedlex.data.admin.ch/eli/fga/2016/2093)).
-[^40aquinquies-2]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^40aquinquies-3]: [RS 173.32](https://fedlex.data.admin.ch/eli/cc/2006/352)
-[^40aquinquies-4]: [RS 273](https://fedlex.data.admin.ch/eli/cc/1948/485_473_421)
+[^40aquinquies-2]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^40aquinquies-3]: [RS 173.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5621)
+[^40aquinquies-4]: [RS 273](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6141)
 
 #### Art. 40a<sup>sexies</sup>
 
@@ -2051,10 +2055,10 @@ Il répond des dommages causés:
 <sup>3</sup> Dans la mesure où la responsabilité visée par l’al. 2 n’est pas réglée dans la loi sur le transport de voyageurs ou dans la loi du 25 septembre 2015 sur le transport de marchandises[^40b-5], seules les dispositions du code des obligations en matière de droit des contrats sont applicables.[^40b-6]
 
 [^40b-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^40b-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^40b-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^40b-3]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 25 sept. 2015 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3687](https://fedlex.data.admin.ch/eli/fga/2014/923)).
-[^40b-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^40b-5]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
+[^40b-4]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^40b-5]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
 [^40b-6]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 25 sept. 2015 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3687](https://fedlex.data.admin.ch/eli/fga/2014/923)).
 
 #### Art. 40b<sup>bis</sup>
@@ -2102,7 +2106,7 @@ Constitue notamment un tel fait:
 
 À moins que la présente loi n’en dispose autrement, la responsabilité est régie par les dispositions du code des obligations[^40f-1] concernant les actes illicites.
 
-[^40f-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^40f-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Chapitre 5 Prestations particulières en faveur des administrations publiques
 
@@ -2133,7 +2137,7 @@ Sauf dispositions contraires de la présente loi et sauf conventions contraires 
 
 <sup>1</sup> Les entreprises de chemins de fer sont tenues, dans les limites de leur capacité, d’exécuter pour l’armée et l’administration militaire les transports ordonnés par les organes militaires compétents. Sont réservées les exceptions et restrictions décidées par le Conseil fédéral.
 
-<sup>2</sup> ...[^43-1]
+<sup>2</sup> …[^43-1]
 
 <sup>3</sup> Si des mesures extraordinaires de sûreté doivent être prises pour l’exécution de transports militaires, les frais en seront à la charge de la Confédération.
 
@@ -2199,11 +2203,13 @@ L’aménagement de l’infrastructure ferroviaire poursuit les objectifs suivan
 
 - b.
 
-  trafic marchandises:
+  transport de marchandises:[^48a-1]
 
   - 1\. transférer le trafic lourd transalpin,
   - 2\. améliorer les trafics intérieur, d’importation et d’exportation,
   - 3\. améliorer la disponibilité des sillons.
+
+[^48a-1]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 48b
 
@@ -2241,7 +2247,9 @@ L’aménagement de l’infrastructure ferroviaire poursuit les objectifs suivan
 
 <sup>1</sup> Les entreprises ferroviaires et les tiers chargés de réaliser les mesures d’aménagement de l’infrastructure ferroviaire (sociétés maîtres d’ouvrage) élaborent les projets correspondants, les coordonnent avec les besoins de la maintenance et les réalisent.
 
-<sup>2</sup> Ils tiennent compte en permanence, selon le principe de l’optimisation microéconomique et macroéconomique, du progrès de la technique ferroviaire, de l’amélioration organisationnelle et de l’évolution du transport de voyageurs ainsi que du trafic marchandises.
+<sup>2</sup> Ils tiennent compte en permanence, selon le principe de l’optimisation microéconomique et macroéconomique, du progrès de la technique ferroviaire, de l’amélioration organisationnelle et de l’évolution du transport de voyageurs ainsi que de celle du transport de marchandises.[^48e-1]
+
+[^48e-1]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 48f
 
@@ -2270,7 +2278,7 @@ L’aménagement de l’infrastructure ferroviaire poursuit les objectifs suivan
 
 **Principes**[^49-1]
 
-<sup>1</sup> Sous réserve de l’art. 9*b*, la Confédération prend à sa charge la part principale du financement de l’infrastructure.
+<sup>1</sup> Sous réserve de l’art. 9*c*, la Confédération prend à sa charge la part principale du financement de l’infrastructure.[^49-2]
 
 <sup>2</sup> Les cantons participent au financement de l’infrastructure.
 
@@ -2283,6 +2291,7 @@ Sont exclus des prestations fédérales versées en vertu de la présente loi, s
 - c. qui servent à acheminer uniquement de faibles volumes de marchandises.
 
 [^49-1]: Nouvelle teneur selon le ch. II 3 de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305)).
+[^49-2]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 50
 
@@ -2347,7 +2356,7 @@ Les décisions du DETEC peuvent faire l’objet d’un recours conformément aux
 <sup>3</sup> Les prêts conditionnellement remboursables de la Confédération peuvent être convertis en capital propre sous réserve des décisions requises par le droit des sociétés anonymes. La Confédération peut renoncer au remboursement de prêts pour participer aux assainissements de bilan nécessaires ou si le canton renonce également à ce remboursement.
 
 [^51b-1]: Introduit par le ch. II 3 de la LF du 21 juin 2013 sur le financement et l’aménagement de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 651](https://fedlex.data.admin.ch/eli/oc/2015/106); [FF 2012 1371](https://fedlex.data.admin.ch/eli/fga/2012/305)).
-[^51b-2]: [RS 742.140](https://fedlex.data.admin.ch/eli/cc/2015/107)
+[^51b-2]: [RS 742.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8742)
 
 #### Art. 52
 
@@ -2527,7 +2536,7 @@ L’infrastructure comprend toutes les constructions, installations et équipeme
 - c. les installations de sécurité;
 - d. les installations d’accueil;
 - e. les gares de triage ainsi que les installations de réception et de formation des trains;
-- f. les installations publiques de chargement, constituées de voies et de places de chargement permettant le transbordement autonome et indépendant de marchandises (voies de débord);
+- f.[^62-2] les installations publiques de chargement, constituées de voies et de places de chargement (voies de débord);
 - g. les véhicules moteurs de manœuvre dans les gares de triage;
 - h. les bâtiments de service et les locaux nécessaires à l’entretien et à l’exploitation de l’infrastructure visée aux let. a à g.
 
@@ -2555,6 +2564,7 @@ Font partie des chemins de fer au sens de la présente loi, mais pas de l’infr
 <sup>4</sup> La fourniture des prestations de transport de marchandises ou de voyageurs ne fait pas non plus partie de l’infrastructure.
 
 [^62-1]: Nouvelle teneur selon l’annexe ch. II 3 de la L du 25 sept. 2015 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3687](https://fedlex.data.admin.ch/eli/fga/2014/923)).
+[^62-2]: Nouvelle teneur selon l’annexe ch. II 3 de la LF du 21 mars 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 63
 
@@ -2593,7 +2603,7 @@ Les infrastructures mentionnées à l’art. 62, al. 1 et 2, sont exonérées de
 <sup>3</sup> Elle établit un compte pour le secteur de l’infrastructure dans les comptes de résultat.
 
 [^66-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^66-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^66-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 67
 
@@ -2809,7 +2819,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 - d.[^86a-4] exploite ou fait exploiter une installation sans la concession d’infrastructure ou l’agrément de sécurité visés à l’art. 5 ou au mépris des obligations, conditions, charges ou prescriptions qui en résultent;
 - e.[^86a-5] exploite ou fait exploiter un véhicule sans l’autorisation d’accès au réseau ou le certificat de sécurité visés à l’art. 8*c* ou au mépris des obligations, conditions, charges ou prescriptions qui en résultent;
 - f. enregistre, conserve, utilise ou publie des signaux vidéo en violation de l’art. 16*b*;
-- g.[^86a-6] ...
+- g.[^86a-6] …
 
 <sup>2</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.[^86a-7]
 
@@ -2864,7 +2874,7 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 Les actes punissables en vertu du code pénal[^88-2] sont poursuivis d’office lorsqu’ils sont commis contre des employés d’entreprises ferroviaires concessionnaires au sens de l’art. 5 dans l’exercice de leurs fonctions.
 
 [^88-1]: Nouvelle teneur selon l’annexe ch. 2 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
-[^88-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^88-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 88a
 
@@ -2872,7 +2882,7 @@ Les actes punissables en vertu du code pénal[^88-2] sont poursuivis d’office 
 
 <sup>1</sup> La poursuite des infractions aux dispositions du présent chapitre relève de la compétence des cantons.
 
-<sup>2</sup> ...[^88a-2]
+<sup>2</sup> …[^88a-2]
 
 [^88a-1]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^88a-2]: Abrogé par l’annexe ch. 2 de la LF du 26 sept. 2014, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 3205](https://fedlex.data.admin.ch/eli/oc/2015/598); [FF 2013 6441](https://fedlex.data.admin.ch/eli/fga/2013/1358)).
@@ -2895,7 +2905,7 @@ L’OFT peut retirer des autorisations, des permis ou des certificats provisoire
 <sup>4</sup> Les mesures visées aux al. 1 à 3 peuvent être prononcées indépendamment de l’ouverture et de l’issue d’une procédure pénale.
 
 [^89-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^89-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^89-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 
 #### Art. 89a
 
@@ -2917,8 +2927,8 @@ Les autorités pénales et policières signalent aux autorités compétentes tou
 <sup>3</sup> La RailCom poursuit et juge les infractions au présent article. La loi fédérale du 22 mars 1974 sur le droit pénal administratif[^89b-3] est applicable.
 
 [^89b-1]: Introduit par le ch. I 4 de la LF du 16 mars 2012 sur la 2<sup>e</sup> partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
-[^89b-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> juil. 2020 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)). Il a été tenu compte de cette mod. dans tout le texte.
-[^89b-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^89b-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> juil. 2020 en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)). Il a été tenu compte de cette mod. dans tout le texte.
+[^89b-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 90
 
@@ -2945,7 +2955,7 @@ Les autorités pénales et policières signalent aux autorités compétentes tou
 <sup>4</sup> Les concessions d’infrastructure qui ont été octroyées avant l’entrée en vigueur de la présente disposition sont réputées présentant un intérêt public au sens de l’art. 6, al. 1, let. a, de la présente loi lorsqu’elles bénéficient d’indemnités versées au titre de l’infrastructure.[^91-4]
 
 [^91-1]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
-[^91-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^91-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
 [^91-3]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 [^91-4]: Introduit par le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
@@ -2963,8 +2973,8 @@ Les autorités pénales et policières signalent aux autorités compétentes tou
 
 <sup>2</sup> Il en est de même pour le concordat. Est applicable l’art. 52, ch. 1 et 3 à 7, de la loi fédérale du 25 septembre 1917 concernant la constitution de gages sur les entreprises de chemins de fer et de navigation et la liquidation forcée de ces entreprises.
 
-[^93-1]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^93-2]: [RS 742.211](https://fedlex.data.admin.ch/eli/cc/34/19_20_22)
+[^93-1]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^93-2]: [RS 742.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8788)
 [^93-3]: Nouvelle teneur selon le ch. II 13 de la LF du 20 mars 2009 sur la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5597](https://fedlex.data.admin.ch/eli/oc/2009/679); [FF 2005 2269](https://fedlex.data.admin.ch/eli/fga/2005/325), [2007 2517](https://fedlex.data.admin.ch/eli/fga/2007/425)).
 
 #### Art. 94
@@ -3013,26 +3023,26 @@ Sont abrogés les actes législatifs suivants, sous réserve des droits et créa
 - 17\. L’arrêté fédéral du 18 décembre 1918 concernant le secours aux entreprises de transport en souffrance[^96-17].
 - 18\. L’arrêté fédéral du 22 octobre 1937 instituant une aide en faveur des entreprises privées de chemin de fer et de navigation dont l’exploitation est compromise par la crise[^96-18].
 
-<sup>3</sup> ...[^96-19]
+<sup>3</sup> …[^96-19]
 
-[^96-1]: [RS **7** 3; RO **1949** I 569 art. 55 let. b]
-[^96-2]: [RS **8** 597]
-[^96-3]: [RS **7** 219]
-[^96-4]: [RS **7** 222]
-[^96-5]: [RS **7** 118; [RO 1949 500](https://fedlex.data.admin.ch/eli/oc/1949/498_500_502)art. 55 let. c [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 17. [RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835)ch. II al. 1]
-[^96-6]: [RS **7** 987]
-[^96-7]: [RS **3** 521]
-[^96-8]: [RS **7** 27; [RO 1958 341](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 al. 1 ch. 8 et al. 3, **1986** 1974 art. 53 ch. 5, **2010** 1881 annexe 1 ch. II 23. [RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565)art. 11 al. 1]
-[^96-9]: [RS 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
-[^96-10]: [RS **7** 31]
-[^96-11]: [RS **7** 236; [RO 1958 341](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 al. 1 ch. 11. [RO 2003 210](https://fedlex.data.admin.ch/eli/oc/2003/28)ch. I 13]
-[^96-12]: [RS **7** 393]
-[^96-13]: [RS **7** 243]
-[^96-14]: [RS **7** 248; RO **1950** I 367 art. 1 et 2]
+[^96-1]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)3; RO **1949** I 569 art. 55 let. b]
+[^96-2]: [[RS 8](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9225)597]
+[^96-3]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)219]
+[^96-4]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)222]
+[^96-5]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)118; [RO 1949 500](https://fedlex.data.admin.ch/eli/oc/1949/498_500_502)art. 55 let. c [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 17. [RO 1998 2835](https://fedlex.data.admin.ch/eli/oc/1998/2835_2835_2835)ch. II al. 1]
+[^96-6]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)987]
+[^96-7]: [[RS 3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6193)521]
+[^96-8]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)27; [RO 1958 341](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 al. 1 ch. 8 et al. 3, **1986** 1974 art. 53 ch. 5, **2010** 1881 annexe 1 ch. II 23. [RO 2011 3961](https://fedlex.data.admin.ch/eli/oc/2011/565)art. 11 al. 1]
+[^96-9]: [RS 744.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8875)
+[^96-10]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)31]
+[^96-11]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)236; [RO 1958 341](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347)art. 96 al. 1 ch. 11. [RO 2003 210](https://fedlex.data.admin.ch/eli/oc/2003/28)ch. I 13]
+[^96-12]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)393]
+[^96-13]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)243]
+[^96-14]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)248; RO **1950** I 367 art. 1 et 2]
 [^96-15]: [RO **1950** I 367]
-[^96-16]: [RS **7** 242]
-[^96-17]: [RS **7** 246]
-[^96-18]: [RS **7** 247]
+[^96-16]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)242]
+[^96-17]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)246]
+[^96-18]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)247]
 [^96-19]: La mod. peut être consultée au [RO 1958 341](https://fedlex.data.admin.ch/eli/oc/1958/335_341_347).
 
 #### Art. 96a
@@ -3134,8 +3144,8 @@ Le Conseil fédéral fixe la date jusqu’à laquelle une entreprise peut prouve
 - a. ils sont employés par le service précédemment chargé de l’attribution des sillons;
 - b. le versement par PUBLICA de leurs rentes de vieillesse, de survivants ou d’invalidité provenant de la prévoyance professionnelle a commencé avant l’entrée en vigueur de la modification du 28 septembre 2018.
 
-[^u6-2]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
-[^u6-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^u6-2]: [RS 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
+[^u6-3]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 Annexe[^t-2]
 
