@@ -5,12 +5,12 @@ title: Sozialhilfegesetz
 short: SHG
 language: de
 version: 2026-01-01
-valid_until: 2026-02-28
+corrected: 2025-12-06
 version_adopted: 2025-11-11
 adopted: 1998-09-27
 in_force: 1999-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/381.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3833/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3710/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -256,15 +256,6 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Sie wird rechtzeitig gewährt und bei Bedarf mit betreuender Sozialhilfe verbunden.
 
 <sup>3</sup> Sie wird so geleistet, dass sie weder durch die hilfebedürftige Person noch durch ihre Familienangehörigen missbraucht werden kann. Bietet die hilfebedürftige Person keine Gewähr für die bestimmungsgemässe Verwendung, können Leistungen an berechtigte Dritte ausgerichtet werden.
-
-<sup>4</sup> Sozialhilfe für Wohn- und Nebenkosten für anerkannte Flüchtlinge und vorläufig aufgenommene Flüchtlinge wird:
-
-- a) grundsätzlich als Sachleistung ausgerichtet;
-- b) in Ausnahmefällen als Geldleistung ausgerichtet, insbesondere wenn:
-  - 1\. dies dem Integrationsziel dient und
-  - 2\. die bisherige und die neue Wohnsitzgemeinde dem Wohnsitzwechsel zustimmen.
-
-<sup>5</sup> Flüchtlinge mit Landesverweisung werden von der Sozialhilfe ausgeschlossen. Es wird ausschliesslich Nothilfe gewährt. Diese wird grundsätzlich als Sachleistung ausgerichtet.
 
 #### Art. 11
 
