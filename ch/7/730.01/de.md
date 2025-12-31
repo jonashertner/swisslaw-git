@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2025-10-30
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20251030/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20251030-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 30. Oktober 2025)
+vom 1. November 2017 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -29,30 +29,52 @@ verordnet:
 [^ingress-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
-## 1. Kapitel: Gegenstand
+## 1. Kapitel: Allgemeine Bestimmungen
+
+[^chap1-1]
+
+[^chap1-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 #### Art. 1
 
+**Gegenstand[^1-1]**
+
 Diese Verordnung regelt:
 
-- a.[^1-1] den Herkunftsnachweis für Elektrizität und die Stromkennzeichnung;
-- a<sup>bis</sup>.[^1-2] den Herkunftsnachweis für Brenn- und Treibstoffe;
+- a.[^1-2] den Herkunftsnachweis für Elektrizität und die Stromkennzeichnung;
+- a<sup>bis</sup>.[^1-3] den Herkunftsnachweis für Brenn- und Treibstoffe;
 - b. die Raumplanung im Zusammenhang mit dem Ausbau erneuerbarer Energien;
 - c. die Einspeisung netzgebundener Energie und den Eigenverbrauch;
 - d. die wettbewerblichen Ausschreibungen für Effizienzmassnahmen;
-- e.[^1-3] die Geothermie-Garantien;
+- e.[^1-4] die Geothermie-Garantien;
 - f. die Entschädigung für Sanierungsmassnahmen bei Wasserkraftanlagen;
 - g. den Netzzuschlag;
 - h. die sparsame und effiziente Energienutzung in Gebäuden und Unternehmen;
-- h<sup>bis</sup>.[^1-4] die Effizienzsteigerungen durch Elektrizitätslieferanten;
+- h<sup>bis</sup>.[^1-5] die Effizienzsteigerungen durch Elektrizitätslieferanten;
 - i. die Fördermassnahmen im Energiebereich;
 - j. die internationale Zusammenarbeit im Anwendungsbereich des EnG;
 - k. die Untersuchung der Wirkungen und die Datenbearbeitung.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^1-2]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^1-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^1-4]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-3]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^1-5]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 1a
+
+**Zwischenziele für den Ausbau von erneuerbaren Energien**[^1a-1]
+
+<sup>1</sup> Für den Ausbau der Produktion von Elektrizität aus erneuerbaren Energien, ausgenommen aus Wasserkraft, entspricht das Zwischenziel für das Jahr 2030 einer Produktion von gesamthaft mindestens 23 000 GWh.
+
+<sup>2</sup>
+
+Die Zwischenziele für das Jahr 2030 betreffend den Ausbau der Produktion von Elektrizität aus erneuerbaren Energien entsprechen:
+
+- a. für Photovoltaikanlagen: einer Produktion von gesamthaft mindestens 18 700 GWh;
+- b. für Windenergieanlagen: einer Produktion von gesamthaft mindestens 2300 GWh.
+
+[^1a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ## 2. Kapitel: Herkunftsnachweise und Stromkennzeichnung
 
@@ -575,15 +597,33 @@ Der Netzbetreiber hat abzunehmen und zu vergüten:
 
 **Vergütung**
 
-<sup>1</sup> Können sich Produzentin oder Produzent und Netzbetreiber nicht einigen, so richtet sich die Vergütung nach den Kosten des Netzbetreibers für den Bezug gleichwertiger Elektrizität bei Dritten sowie den Gestehungskosten der eigenen Produktionsanlagen; die Kosten für allfällige Herkunftsnachweise werden nicht berücksichtigt. Die Gleichwertigkeit bezieht sich auf die technischen Eigenschaften der Elektrizität, insbesondere auf die Energiemenge und das Leistungsprofil sowie auf die Steuer- und Prognostizierbarkeit.
+<sup>1</sup> Der für die Festlegung der Vergütung erforderliche vierteljährlich gemittelte Marktpreis entspricht dem Referenz-Marktpreis nach Artikel 15 Absätze 1 und 3 der Energieförderungsverordnung vom 1. November 2017[^12-1].[^12-2]
+
+<sup>1bis</sup>
+
+Die Minimalvergütung für Anlagen mit einer Leistung von weniger als 150 kW beträgt:
+
+- a. für sämtliche Photovoltaikanlagen mit einer Leistung von weniger als 30 kW: 6 Rp./kWh;
+- b.
+
+  für Photovoltaikanlagen mit Eigenverbrauch und einer Leistung ab 30 kW anteilsmässig:
+
+  - 1\. für die Leistung von weniger als 30 kW: 6 Rp./kWh,
+  - 2\. für die Leistung ab 30 kW: 0 Rp./kWh;
+
+- c. für Photovoltaikanlagen ohne Eigenverbrauch mit einer Leistung ab 30 kW: 6,2 Rp./kWh;
+- d. für Wasserkraftanlagen: 12 Rp./kWh.[^12-3]
 
 <sup>2</sup> Bei der Vergütung für Elektrizität aus fossil und teilweise fossil befeuerten Wärme-Kraft-Kopplungsanlagen ergibt sich der Marktpreis aus den Stundenpreisen am Spotmarkt im Day-ahead-Handel für das Marktgebiet Schweiz.
 
-<sup>3</sup> Für Elektrizitätserzeugungsanlagen, deren Installation nicht der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^12-1] unterliegen und die nicht mit einem intelligenten Messsystem nach Artikel 8*a* StromVV[^12-2] ausgestattet sind, kann der Netzbetreiber abweichend von Artikel 11 und den Absätzen 1 und 2 eine angemessene jährliche Pauschale für die Vergütung der eingespeisten Elektrizität vorsehen.[^12-3]
+<sup>3</sup> Für Elektrizitätserzeugungsanlagen, deren Installation nicht der Bewilligungspflicht nach Artikel 6 der Niederspannungs-Installationsverordnung vom 7. November 2001[^12-4] unterliegen und die nicht mit einem intelligenten Messsystem nach Artikel 8*a* StromVV[^12-5] ausgestattet sind, kann der Netzbetreiber abweichend von Artikel 11 und den Absätzen 1 und 2 eine angemessene jährliche Pauschale für die Vergütung der eingespeisten Elektrizität vorsehen.[^12-6]
 
-[^12-1]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^12-2]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
-[^12-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^12-1]: [SR 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^12-2]: Fassung gemäss Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+[^12-3]: Eingefügt durch Ziff. I der V vom 19. Febr. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+[^12-4]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-5]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+[^12-6]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
 
@@ -1022,9 +1062,9 @@ Ob eine Endverbraucherin oder ein Endverbraucher Anspruch auf Rückerstattung ha
 
 **Zielvereinbarung**
 
-<sup>1</sup> Wer die Rückerstattung des Netzzuschlags beantragen will, muss zusammen mit einem nach Artikel 49 Absatz 1 Buchstabe a beauftragten Dritten einen Vorschlag für eine Zielvereinbarung erarbeiten und ihn dem BFE bis spätestens drei Monate vor Abschluss des Geschäftsjahres, für das die Rückerstattung beantragt wird, zur Prüfung einreichen.
+<sup>1</sup> Wer die Rückerstattung des Netzzuschlags beantragen will, muss zusammen mit einem vom BFE zertifizierten Dritten einen Vorschlag für eine Zielvereinbarung erarbeiten und ihn dem BFE bis spätestens drei Monate vor Abschluss des Geschäftsjahres, für das die Rückerstattung beantragt wird, zur Prüfung einreichen. [^39-1]
 
-<sup>1bis</sup> Die Zielvereinbarung umfasst alle Massnahmen mit einer Amortisationsdauer von bis zu sechs Jahren. Bei Infrastrukturmassnahmen, insbesondere bei Massnahmen an Gebäuden, an langlebigen Anlagen und an Anlagen, die auf mehrere Produkte oder Prozesse ausgerichtet sind, gilt eine Amortisationsdauer von bis zu zwölf Jahren.[^39-1]
+<sup>1bis</sup> Die Zielvereinbarung umfasst alle Massnahmen mit einer Amortisationsdauer von bis zu sechs Jahren. Bei Infrastrukturmassnahmen, insbesondere bei Massnahmen an Gebäuden, an langlebigen Anlagen und an Anlagen, die auf mehrere Produkte oder Prozesse ausgerichtet sind, gilt eine Amortisationsdauer von bis zu zwölf Jahren.[^39-2]
 
 <sup>2</sup> Die Zielvereinbarung hat eine Laufzeit von mindestens 10 Jahren mit Beginn am 1. Januar. Sie muss jedes Geschäftsjahr, für das die Rückerstattung beantragt wird, vollständig umfassen.
 
@@ -1032,7 +1072,8 @@ Ob eine Endverbraucherin oder ein Endverbraucher Anspruch auf Rückerstattung ha
 
 <sup>4</sup> Die Zielvereinbarung ist eingehalten, wenn die Energieeffizienz während der Laufzeit der Zielvereinbarung nicht in mehr als zwei aufeinanderfolgenden Jahren und insgesamt in nicht mehr als der Hälfte der Jahre unter dem für das betreffende Jahr festgelegten Energieeffizienzziel liegt.
 
-[^39-1]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^39-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
+[^39-2]: Eingefügt durch Ziff. I der V vom 24. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 40
 
@@ -1207,11 +1248,13 @@ Als wesentliche Erneuerungen nach Artikel 45 Absatz 3 Buchstabe c EnG gelten ins
 
 <sup>1</sup> Für Zielvereinbarungen des Bundes mit Unternehmen, die sowohl im Rahmen des Vollzugs der Vorschriften des Bundes über Zielvereinbarungen als auch im Rahmen des Vollzugs kantonaler Vorschriften über Zielvereinbarungen mit Grossverbrauchern nach Artikel 46 Absatz 3 EnG verwendet werden, zieht der Bund die Kantone bei der Erarbeitung der generellen Anforderungen mit ein.
 
-<sup>2</sup> Wer eine solche Zielvereinbarung verwenden will, erarbeitet zusammen mit einem nach Artikel 49 Absatz 1 Buchstabe a beauftragten Dritten einen entsprechenden Vorschlag und reicht diesen dem BFE zur Prüfung ein. Für die Überprüfung der Einhaltung der Zielvereinbarung ist das BFE zuständig.
+<sup>2</sup> Wer eine solche Zielvereinbarung verwenden will, erarbeitet zusammen mit einem vom BFE zertifizierten Dritten einen entsprechenden Vorschlag und reicht diesen dem BFE zur Prüfung ein. Für die Überprüfung der Einhaltung der Zielvereinbarung ist das BFE zuständig. [^51-1]
 
 <sup>3</sup> Es kann die Aufgaben nach Absatz 2 auf Gesuch eines Kantons auch übernehmen, wenn die Zielvereinbarung ausschliesslich für den Vollzug der kantonalen Vorschriften über Zielvereinbarungen mit Grossverbrauchern nach Artikel 46 Absatz 3 EnG verwendet wird.
 
 <sup>4</sup> Es kann Dritte mit den Aufgaben nach Absatz 2 beauftragen.
+
+[^51-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ## 7*a*. Kapitel: Effizienzsteigerungen durch Elektrizitätslieferanten
 
@@ -1982,14 +2025,13 @@ Für nicht rückerstattungsberechtigte Endverbraucherinnen und Endverbraucher na
 
 **Übergangsbestimmung zur Änderung vom 20. November 2024: Effizienzsteigerung durch Elektrizitätslieferanten**[^80b-1]
 
-<sup>1</sup> Elektrizitätslieferanten können beim BFE bis zum 30. April 2025 für Massnahmen, die sie vom 1. Januar 2022 bis zum 31. Dezember 2024 umgesetzt haben und welche die Anforderungen nach Artikel 51*b* erfüllen und keine nicht anrechenbare Massnahmen nach Artikel 51*c* sind, die Anrechenbarkeit beantragen. Früher durchgeführte Massnahmen sind nicht anrechenbar.[^80b-2]
+<sup>1</sup> Elektrizitätslieferanten können beim BFE bis zum 30. April 2025 für Massnahmen, die sie vom 1. Januar 2022 bis zum 31. Dezember 2024 umgesetzt haben und welche die Anforderungen nach Artikel 51*b* erfüllen und keine nicht anrechenbare Massnahmen nach Artikel 51*c* sind, die Anrechenbarkeit beantragen. Früher durchgeführte Massnahmen sind nicht anrechenbar.
 
 <sup>2</sup> Werden die Massnahmen für anrechenbar erklärt, so können die damit erreichten Stromeinsparungen bis längstens der dritten Zielvorgabe nach Inkrafttreten der Änderung vom 20. November 2024 zur Erfüllung der Zielvorgaben angerechnet werden.
 
 <sup>3</sup> Lieferungen aus geltenden Verträgen von Elektrizitätslieferanten mit Endverbraucherinnen und Endverbrauchern, die von ihrem Anspruch auf Netzzugang Gebrauch gemacht haben und deren Vertragsabschluss vor dem 1. Januar 2024 liegt, sind bis zum 31. Dezember 2027 von der Berechnung des Referenzstromabsatzes ausgenommen. Die Elektrizitätslieferanten melden dem BFE die entsprechenden Lieferungen des Vorjahres jeweils bis zum 30. April.
 
 [^80b-1]: Eingefügt durch Ziff. I der V vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^80b-2]: Die Berichtigung vom 30. Okt. 2025 betrifft nur den italienischen Text ([AS 2025 664](https://fedlex.data.admin.ch/eli/oc/2025/664)).
 
 #### Art. 81
 
@@ -2112,11 +2154,13 @@ Anhang 2[^t-2]
 [^annex2-lvlu1-lvl4-1]: [SR 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 [^annex2-lvlu1-lvl4-2]: [SR 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
-Anhang 3
+Anhang 3[^t-3]
 
 (Art. 28–30 und 32)
 
 ## Entschädigung für Sanierungsmassnahmen bei Wasserkraftanlagen
+
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ### 1 Anforderungen an das Gesuch
 
@@ -2172,7 +2216,13 @@ Anhang 3
   - a. Steuern;
   - b. Kosten für den Unterhalt von Anlagen;
   - c. Kosten für Massnahmen, die dem Inhaber einer Wasserkraftanlage bereits anderweitig entschädigt werden;
-  - d. wiederkehrende Kosten, soweit diese später als 40 Jahre nach der Umsetzung der Massnahmen anfallen.
+  - d. wiederkehrende Kosten, soweit diese später als 40 Jahre nach der Umsetzung der Massnahmen anfallen;
+  - e.
+
+    bei Grenzwasserkraftanlagen: der Kostenanteil, der den schweizerischen Hoheitsanteil übersteigt; anrechenbar ist dieser Kostenanteil dagegen bei:
+
+    - 1\. Laufkraftwerken, bei denen alle Anlagenteile auf Schweizer Gebiet liegen, und
+    - 2\. alpinen Speicherkraftwerken, sofern die nach Artikel 83*a* GSchG und Artikel 10 BGF zu sanierenden Gewässerstrecken ausschliesslich auf Schweizer Gebiet liegen.
 
 Anhang 4
 
@@ -2188,13 +2238,13 @@ Anhang 4
 - 1\.2 Grossforschungsanlage der Eidgenössischen Technischen Hochschule Lausanne
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Anhang 5[^t-3]
+Anhang 5[^t-4]
 
 (Art. 43 Abs. 1 und 3)
 
 ## Berechnung der Bruttowertschöpfung
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-4]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019, in Kraft seit 1. Jan. 2020 ([AS 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Bei Unternehmen, die der ordentlichen Revision nach Artikel 727 Absatz 1 OR[^annex5-lvlu1-1] unterliegen (Art. 43 Abs. 1), berechnet sich die Bruttowertschöpfung wie folgt:
 
@@ -2242,13 +2292,13 @@ Anhang 6
 
 - Bei vollständiger Rückerstattung nach Artikel 39 Absatz 1 des Gesetzes beträgt der Rückerstattungssatz 100 Prozent. Bei teilweiser Rückerstattung nach Artikel 39 Absatz 2 des Gesetzes ist der Rückerstattungssatz nach Ziffer 1 massgebend.
 
-Anhang 6a[^t-4]
+Anhang 6a[^t-5]
 
 (Art. 54*a* Abs. 1 und 4 und 54*b* Abs. 1 und 3)
 
 ## Förderung nach Artikel 50*a* EnG: Voraussetzungen und Beiträge
 
-[^t-4]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+[^t-5]: Eingefügt durch Anhang 3 der Klimaschutz-Verordnung vom 27. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
 
 ### 1 Ersatz von Heizöl- und Erdgasheizungen und ortsfesten elektrischen Widerstandsheizungen
 

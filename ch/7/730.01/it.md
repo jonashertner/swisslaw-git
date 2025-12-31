@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2025-10-30
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20251030/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20251030-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260101-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 30 ottobre 2025)
+del 1° novembre 2017 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -29,30 +29,52 @@ ordina:
 [^ingress-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^ingress-3]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
-## Capitolo 1: Oggetto
+## Capitolo 1: Disposizioni generali
+
+[^chap1-1]
+
+[^chap1-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 #### Art. 1
 
+**Oggetto[^1-1]**
+
 La presente ordinanza disciplina:
 
-- a.[^1-1] la garanzia di origine per l’elettricità e l’etichettatura dell’elettricità;
-- a<sup>bis</sup>.[^1-2] la garanzia di origine per combustibili e carburanti;
+- a.[^1-2] la garanzia di origine per l’elettricità e l’etichettatura dell’elettricità;
+- a<sup>bis</sup>.[^1-3] la garanzia di origine per combustibili e carburanti;
 - b. la pianificazione del territorio in relazione al potenziamento delle energie rinnovabili;
 - c. l’immissione di energia di rete e il consumo proprio;
 - d. i bandi di gara per misure di efficienza;
-- e.[^1-3] le garanzie per la geotermia;
+- e.[^1-4] le garanzie per la geotermia;
 - f. l’indennizzo per le misure di risanamento concernenti gli impianti idroelettrici;
 - g. il supplemento rete;
 - h. l’impiego parsimonioso ed efficiente dell’energia negli edifici e nelle imprese;
-- h<sup>bis</sup>.[^1-4] i miglioramenti dell’efficienza energetica da parte dei fornitori di elettricità;
+- h<sup>bis</sup>.[^1-5] i miglioramenti dell’efficienza energetica da parte dei fornitori di elettricità;
 - i. le misure di promozione nel settore dell’energia;
 - j. la collaborazione internazionale nell’ambito di applicazione della LEne;
 - k. la verifica degli effetti e il trattamento dei dati.
 
-[^1-1]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^1-2]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^1-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^1-4]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-3]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-4]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^1-5]: Introdotta dalla cifra I dell’O del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 1a
+
+**Obiettivi intermedi per il potenziamento delle energie rinnovabili**[^1a-1]
+
+<sup>1</sup> Per l’incremento della produzione di elettricità da energie rinnovabili, esclusa la forza idrica, l’obiettivo intermedio per il 2030 è una produzione complessiva di almeno 23 000 GWh.
+
+<sup>2</sup>
+
+Gli obiettivi intermedi per il 2030 concernenti l’incremento della produzione di elettricità da energie rinnovabili sono:
+
+- a. per gli impianti fotovoltaici: una produzione complessiva di almeno 18 700 GWh;
+- b. per gli impianti eolici: una produzione complessiva di almeno 2300 GWh.
+
+[^1a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ## Capitolo 2: Garanzie di origine ed etichettatura dell’elettricità
 
@@ -575,15 +597,33 @@ Il gestore di rete deve ritirare e rimunerare:
 
 **Rimunerazione**
 
-<sup>1</sup> Se il produttore e il gestore di rete non trovano un accordo, la rimunerazione è stabilita in funzione dei costi che il gestore di rete sostiene per l’acquisto di elettricità equivalente presso terzi e dei costi di produzione dei propri impianti; i costi per le garanzie di origine non sono considerati. Il termine «equivalente» si riferisce alle caratteristiche tecniche dell’elettricità, in particolare alla quantità di energia e al profilo della potenza nonché alla possibilità di pilotare e prevedere la produzione.
+<sup>1</sup> Il prezzo di mercato medio trimestrale necessario per stabilire la rimunerazione corrisponde al prezzo di mercato di riferimento secondo l’articolo 15 capoversi 1 e 3 dell’ordinanza del 1° novembre 2017[^12-1] sulla promozione dell’energia.[^12-2]
+
+<sup>1bis</sup>
+
+La rimunerazione minima per impianti con una potenza inferiore a 150 kW ammonta a:
+
+- a. per tutti gli impianti fotovoltaici con una potenza inferiore a 30 kW: 6 ct./kWh;
+- b.
+
+  per impianti fotovoltaici con consumo proprio e una potenza a partire da 30 kW:
+
+  - 1\. per la quota di potenza inferiore a 30 kW: 6 ct./kWh,
+  - 2\. per la quota di potenza a partire da 30 kW: 0 ct./kWh;
+
+- c. per impianti fotovoltaici senza consumo proprio con una potenza a partire da 30 kW: 6,2 ct./kWh;
+- d. per impianti idroelettrici: 12 ct./kWh.[^12-3]
 
 <sup>2</sup> Nella rimunerazione dell’elettricità da impianti di cogenerazione alimentati interamente o parzialmente con vettori energetici fossili il prezzo di mercato risulta dai prezzi orari sul mercato spot (day-ahead) per l’area di mercato Svizzera.
 
-<sup>3</sup> Per gli impianti di produzione di elettricità la cui installazione non è soggetta all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^12-1] sugli impianti a bassa tensione e che non sono dotati di un sistema di misurazione intelligente di cui all’articolo 8*a* OAEl[^12-2], il gestore di rete può prevedere, in deroga all’articolo 11 e ai capoversi 1 e 2, un adeguato importo forfettario annuale per la rimunerazione dell’elettricità immessa.[^12-3]
+<sup>3</sup> Per gli impianti di produzione di elettricità la cui installazione non è soggetta all’obbligo di autorizzazione di cui all’articolo 6 dell’ordinanza del 7 novembre 2001[^12-4] sugli impianti a bassa tensione e che non sono dotati di un sistema di misurazione intelligente di cui all’articolo 8*a* OAEl[^12-5], il gestore di rete può prevedere, in deroga all’articolo 11 e ai capoversi 1 e 2, un adeguato importo forfettario annuale per la rimunerazione dell’elettricità immessa.[^12-6]
 
-[^12-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^12-2]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
-[^12-3]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^12-1]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^12-2]: Nuovo testo giusta la cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+[^12-3]: Introdotto dalla cifra I dell’O del 19 feb. 2025, in vigore dal 1° gen. 2026 ([RU 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+[^12-4]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-5]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+[^12-6]: Introdotto dalla cifra I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
 
@@ -1026,9 +1066,9 @@ L’eventuale diritto del consumatore finale al rimborso è valutato in relazion
 
 **Convenzione sugli obiettivi**
 
-<sup>1</sup> Chi intende presentare una domanda di rimborso del supplemento rete deve elaborare, in collaborazione con un terzo incaricato ai sensi dell’articolo 49 capoverso 1 lettera a, una proposta di convenzione sugli obiettivi e sottoporla all’esame dell’UFE al più tardi tre mesi prima della fine dell’anno contabile per il quale intende chiedere il rimborso.
+<sup>1</sup> Chi intende presentare una domanda di rimborso del supplemento rete deve elaborare, in collaborazione con un terzo certificato dall’UFE, una proposta di convenzione sugli obiettivi e sottoporla all’esame dell’UFE al più tardi tre mesi prima della fine dell’anno contabile per il quale intende chiedere il rimborso.[^39-1]
 
-<sup>1bis</sup> La convenzione sugli obiettivi ingloba tutte le misure che presentano una durata di ammortamento non superiore a sei anni. Nel caso di misure infrastrutturali, in particolare misure relative a edifici, a impianti a lunga durata di vita o orientati su diversi prodotti o processi, vale una durata di ammortamento non superiore a dodici anni.[^39-1]
+<sup>1bis</sup> La convenzione sugli obiettivi ingloba tutte le misure che presentano una durata di ammortamento non superiore a sei anni. Nel caso di misure infrastrutturali, in particolare misure relative a edifici, a impianti a lunga durata di vita o orientati su diversi prodotti o processi, vale una durata di ammortamento non superiore a dodici anni.[^39-2]
 
 <sup>2</sup> La convenzione sugli obiettivi ha una durata minima di dieci anni a decorrere dal 1° gennaio. La convenzione deve comprendere interamente ogni anno contabile per il quale è richiesto il rimborso.
 
@@ -1036,7 +1076,8 @@ L’eventuale diritto del consumatore finale al rimborso è valutato in relazion
 
 <sup>4</sup> La convenzione sugli obiettivi si considera rispettata se il grado di efficienza energetica durante il periodo di validità della convenzione resta al di sotto dell’obiettivo di efficienza energetica fissato per l’anno in questione per non più di due anni consecutivi e complessivamente per non più della metà degli anni previsti.
 
-[^39-1]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
+[^39-2]: Introdotto dalla cifra I dell’O del 24 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 40
 
@@ -1211,11 +1252,13 @@ Per rinnovamenti considerevoli ai sensi dell’articolo 45 capoverso 3 lettera c
 
 <sup>1</sup> Per le convenzioni sugli obiettivi stipulate tra la Confederazione e le imprese nell’ambito dell’esecuzione sia di prescrizioni della Confederazione in materia di convenzioni sugli obiettivi sia di prescrizioni cantonali in materia di convenzioni sugli obiettivi con grandi consumatori secondo l’articolo 46 capoverso 3 LEne, nella redazione dei requisiti generali la Confederazione coinvolge i Cantoni.
 
-<sup>2</sup> Chi intende utilizzare una tale convenzione sugli obiettivi, elabora una corrispondente proposta insieme a un terzo incaricato secondo l’articolo 49 capoverso 1 lettera a e la trasmette per l’esame all’UFE. La verifica del rispetto della convenzione sugli obiettivi compete all’UFE.
+<sup>2</sup> Chi intende utilizzare una tale convenzione sugli obiettivi, elabora in collaborazione con un terzo certificato dall’UFE una corrispondente proposta e la sottopone all’esame dell’UFE. La verifica del rispetto della convenzione sugli obiettivi compete all’UFE.[^51-1]
 
 <sup>3</sup> L’UFE può assumersi, su richiesta di un Cantone, i compiti di cui al capoverso 2 anche quando la convenzione sugli obiettivi è utilizzata esclusivamente per l’esecuzione delle prescrizioni cantonali in materia di convenzioni sugli obiettivi con grandi consumatori secondo l’articolo 46 capoverso 3 LEne.
 
 <sup>4</sup> Esso può incaricare terzi dello svolgimento dei compiti di cui al capoverso 2.
+
+[^51-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ## Capitolo 7*a*: Miglioramenti dell’efficienza energetica da parte dei fornitori di elettricità
 
@@ -2115,11 +2158,13 @@ Allegato 2[^t-2]
 [^annex2-lvlu1-lvl4-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 [^annex2-lvlu1-lvl4-2]: [RS 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
-Allegato 3
+Allegato 3[^t-3]
 
 (art. 28–30 e 32)
 
 ## Indennizzo per le misure di risanamento concernenti impianti idroelettrici
+
+[^t-3]: Aggiornato dalla cifra II dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ### 1 Requisiti della domanda
 
@@ -2175,7 +2220,13 @@ Allegato 3
   - a. le imposte;
   - b. i costi di manutenzione degli impianti;
   - c. i costi per le misure già indennizzate in altro modo al titolare dell’impianto idroelettrico;
-  - d. i costi ricorrenti, purché siano trascorsi oltre 40 anni dall’attuazione delle misure.
+  - d. i costi ricorrenti, purché siano trascorsi oltre 40 anni dall’attuazione delle misure;
+  - e.
+
+    per gli impianti idroelettrici sul confine: la quota dei costi che supera la quota corrispondente alla sovranità svizzera; questa quota dei costi è invece computabile:
+
+    - 1\. per le centrali ad acqua fluente nelle quali tutte le componenti dell’impianto sono situate in territorio svizzero, e
+    - 2\. per le centrali alpine ad accumulazione, a condizione che i tratti di corsi d’acqua da risanare ai sensi degli articoli 83a LPAc e 10 LFSP siano situati esclusivamente in territorio svizzero.
 
 Allegato 4
 
@@ -2191,13 +2242,13 @@ Allegato 4
 - 1\.2 Grande impianto di ricerca del Politecnico federale di Losanna
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Allegato 5[^t-3]
+Allegato 5[^t-4]
 
 (art. 43 cpv. 1 e 3)
 
 ## Calcolo del plusvalore lordo
 
-[^t-3]: Nuovo testo giusta la cifra II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-4]: Nuovo testo giusta la cifra II dell’O del 23 ott. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Per le imprese che soggiacciono alla revisione ordinaria secondo l’articolo 727 capoverso 1 CO[^annex5-lvlu1-1] (art. 43 cpv. 1), il plusvalore lordo si calcola nel modo seguente:
 
@@ -2245,13 +2296,13 @@ Allegato 6
 
 - In caso di rimborso totale in base all’articolo 39 capoverso 1 LEne l’aliquota di rimborso è pari al 100 per cento. In caso di rimborso parziale in base all’articolo 39 capoverso 2 LEne è determinante l’aliquota di rimborso secondo il numero 1.
 
-Allegato 6a[^t-4]
+Allegato 6a[^t-5]
 
 (art. 54*a* cpv. 1 e 4 e 54*b* cpv. 1 e 3)
 
 ## Promozione secondo l’articolo 50*a* LEne: condizioni e contributi
 
-[^t-4]: Introdotto dall’all. 3 dell’O del 27 nov. 2024 sulla protezione del clima, in vigore dal 1° gen. 2025 ([RU 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+[^t-5]: Introdotto dall’all. 3 dell’O del 27 nov. 2024 sulla protezione del clima, in vigore dal 1° gen. 2025 ([RU 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
 
 ### 1 Sostituzione di impianti di riscaldamento a olio combustibile, gas naturale ed elettrici a resistenza fissi
 

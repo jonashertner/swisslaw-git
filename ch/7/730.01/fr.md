@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2025-10-30
+version: 2026-01-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20251030/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20251030-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20251030/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 30 octobre 2025)
+du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -29,30 +29,52 @@ arrête:
 [^ingress-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
 
-## Chapitre 1 Objet
+## Chapitre 1 Dispositions générales
+
+[^chap1-1]
+
+[^chap1-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 #### Art. 1
 
+**Objet[^1-1]**
+
 La présente ordonnance règle:
 
-- a.[^1-1] la garantie d’origine pour l’électricité et le marquage de l’électricité;
-- a<sup>bis</sup>.[^1-2] la garantie d’origine pour les combustibles et les carburants;
+- a.[^1-2] la garantie d’origine pour l’électricité et le marquage de l’électricité;
+- a<sup>bis</sup>.[^1-3] la garantie d’origine pour les combustibles et les carburants;
 - b. l’aménagement du territoire dans le cadre du développement des énergies renouvelables;
 - c. l’injection d’énergie de réseau et la consommation propre;
 - d. les appels d’offres publics pour les mesures d’efficacité;
-- e.[^1-3] les garanties pour la géothermie;
+- e.[^1-4] les garanties pour la géothermie;
 - f. l’indemnisation des mesures d’assainissement dans le cas d’installations hydroélectriques;
 - g. le supplément perçu sur le réseau;
 - h. l’utilisation économe et efficace de l’énergie dans les bâtiments et les entreprises;
-- h<sup>bis</sup>.[^1-4] les gains d’efficacité par les fournisseurs d’électricité;
+- h<sup>bis</sup>.[^1-5] les gains d’efficacité par les fournisseurs d’électricité;
 - i. les mesures d’encouragement dans le domaine de l’énergie;
 - j. la coopération internationale dans le champ d’application de la LEne;
 - k. l’analyse des impacts et le traitement des données.
 
-[^1-1]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^1-2]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^1-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
-[^1-4]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
+[^1-2]: Nouvelle teneur selon le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-3]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+[^1-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 783](https://fedlex.data.admin.ch/eli/oc/2022/783)).
+[^1-5]: Introduite par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
+
+#### Art. 1a
+
+**Objectifs intermédiaires pour le développement des énergies renouvelables**[^1a-1]
+
+<sup>1</sup> L’objectif intermédiaire pour l’année 2030 pour le développement de la production d’électricité issue d’énergies renouvelables, énergie hydraulique non comprise, correspond à une production d’au moins 23 000 GWh au total.
+
+<sup>2</sup>
+
+Les objectifs intermédiaires pour l’année 2030 concernant le développement de la production d’électricité issue d’énergies renouvelables correspondent à:
+
+- a. une production d’au moins 18 700 GWh au total pour les installations photovoltaïques;
+- b. une production d’au moins 2300 GWh au total pour les installations éoliennes.
+
+[^1a-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ## Chapitre 2 Garanties d’origine et marquage de l’électricité
 
@@ -574,15 +596,33 @@ Les gestionnaires de réseau sont tenus de reprendre et de rétribuer:
 
 **Rétribution**
 
-<sup>1</sup> Si le producteur et le gestionnaire du réseau ne peuvent pas s’entendre, la rétribution sera basée sur les coûts du gestionnaire de réseau pour l’achat d’électricité équivalente auprès de tiers et sur les coûts de revient des propres installations de production; les coûts d’éventuelles garanties d’origine ne sont pas pris en compte. L’équivalence se réfère aux caractéristiques techniques de l’électricité, en particulier à la quantité d’énergie et au profil de puissance, ainsi qu’à la possibilité de régler et de prévoir la production.
+<sup>1</sup> Le prix de marché moyen sur un trimestre nécessaire au calcul de la rétribution correspond au prix de marché de référence visé à l’art. 15, al. 1 et 3, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’encouragement de la production d’électricité issue d’énergies renouvelables[^12-1].[^12-2]
+
+<sup>1bis</sup>
+
+La rétribution minimale pour les installations d’une puissance inférieure à 150 kW est:
+
+- a. de 6 ct./kWh pour toutes les installations photovoltaïques d’une puissance inférieure à 30 kW;
+- b.
+
+  pour les installations photovoltaïques avec consommation propre d’une puissance égale ou supérieure à 30 kW, déterminée selon une pondération, à savoir:
+
+  - 1\. 6 ct./kWh pour la puissance inférieure à 30 kW,
+  - 2\. 0 ct./kWh pour la puissance égale ou supérieure à 30 kW;
+
+- c. de 6,2 ct./kWh pour les installations photovoltaïques sans consommation propre d’une puissance égale ou supérieure à 30 kW;
+- d. de 12 ct./kWh pour les installations hydroélectriques.[^12-3]
 
 <sup>2</sup> Dans le cas de la rétribution de l’électricité issue d’installations de couplage chaleur-force à combustibles fossiles et en partie fossiles, le prix du marché résulte des tarifs horaires sur le marché spot pour le commerce du jour d’avant (day-ahead) concernant le marché suisse.
 
-<sup>3</sup> Pour une installation produisant de l’électricité et dont les travaux d’installation ne sont pas soumis au régime de l’autorisation visé à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^12-1] et qui n’est pas équipée d’un système de mesure intelligent au sens de l’art. 8*a* OApEl[^12-2], le gestionnaire de réseau peut prévoir, en dérogation à l’art. 11 et aux al. 1 et 2, un forfait annuel approprié pour rétribuer l’électricité injectée.[^12-3]
+<sup>3</sup> Pour une installation produisant de l’électricité et dont les travaux d’installation ne sont pas soumis au régime de l’autorisation visé à l’art. 6 de l’ordonnance du 7 novembre 2001 sur les installations à basse tension[^12-4] et qui n’est pas équipée d’un système de mesure intelligent au sens de l’art. 8*a* OApEl[^12-5], le gestionnaire de réseau peut prévoir, en dérogation à l’art. 11 et aux al. 1 et 2, un forfait annuel approprié pour rétribuer l’électricité injectée.[^12-6]
 
-[^12-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
-[^12-2]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
-[^12-3]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
+[^12-1]: [RS 730.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8507)
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du 19 fév. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+[^12-3]: Introduit par le ch. I de l’O du 19 fév. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 138](https://fedlex.data.admin.ch/eli/oc/2025/138)).
+[^12-4]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^12-5]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
+[^12-6]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 762](https://fedlex.data.admin.ch/eli/oc/2023/762)).
 
 #### Art. 13
 
@@ -1021,9 +1061,9 @@ L’existence ou non du droit au remboursement, dévolu à un consommateur final
 
 **Convention d’objectifs**
 
-<sup>1</sup> Quiconque souhaite demander le remboursement du supplément doit élaborer une proposition de convention d’objectifs en collaboration avec un tiers mandaté visé à l’art. 49, al. 1, let. a, et la soumettre à l’OFEN pour examen, au plus tard trois mois avant la clôture de l’exercice pour lequel il demande le remboursement.
+<sup>1</sup> Quiconque souhaite demander le remboursement du supplément doit élaborer une proposition de convention d’objectifs en collaboration avec un tiers certifié par l’OFEN et la soumettre à l’OFEN pour examen, au plus tard trois mois avant la clôture de l’exercice pour lequel il demande le remboursement.[^39-1]
 
-<sup>1bis</sup> La convention d’objectifs inclut toutes les mesures ayant une durée d’amortissement de six ans au plus. Pour les mesures relatives aux infrastructures, notamment les mesures touchant les bâtiments ou les installations dont la durée de vie est longue ou qui comprennent plusieurs produits ou processus, une durée d’amortissement de douze ans au plus s’applique.[^39-1]
+<sup>1bis</sup> La convention d’objectifs inclut toutes les mesures ayant une durée d’amortissement de six ans au plus. Pour les mesures relatives aux infrastructures, notamment les mesures touchant les bâtiments ou les installations dont la durée de vie est longue ou qui comprennent plusieurs produits ou processus, une durée d’amortissement de douze ans au plus s’applique.[^39-2]
 
 <sup>2</sup> La convention d’objectifs a une durée d’au moins dix ans et débute le 1<sup>er</sup> janvier. Elle doit comprendre chaque exercice dans sa totalité pour lequel un remboursement est demandé.
 
@@ -1031,7 +1071,8 @@ L’existence ou non du droit au remboursement, dévolu à un consommateur final
 
 <sup>4</sup> La convention d’objectifs est respectée si l’efficacité énergétique pendant toute la durée de la convention d’objectifs n’est pas inférieure à l’objectif d’efficacité énergétique fixé pour l’année considérée pendant plus de deux années consécutives et dans l’ensemble pendant plus de la moitié des années.
 
-[^39-1]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
+[^39-2]: Introduit par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 828](https://fedlex.data.admin.ch/eli/oc/2021/828)).
 
 #### Art. 40
 
@@ -1206,11 +1247,13 @@ Sont en particulier réputées rénovations notables au sens de l’art. 45, al.
 
 <sup>1</sup> Pour les conventions d’objectifs de la Confédération avec des entreprises qui sont utilisées tant dans le cadre de l’exécution des dispositions de la Confédération sur les conventions d’objectifs que dans celui de l’exécution des dispositions cantonales sur les conventions d’objectifs passées avec les grands consommateurs conformément à l’art. 46, al. 3, LEne, la Confédération associe les cantons à la définition des exigences générales.
 
-<sup>2</sup> Quiconque souhaite utiliser une telle convention d’objectifs doit élaborer une proposition de convention correspondante avec un tiers mandaté conformément à l’art. 49, al. 1, let. a, et la soumettre à l’OFEN. L’OFEN est compétent pour vérifier que la convention d’objectifs est respectée.
+<sup>2</sup> Quiconque souhaite utiliser une telle convention d’objectifs doit élaborer une proposition de convention correspondante avec un tiers certifié par l’OFEN et la soumettre à l’OFEN. L’OFEN est compétent pour vérifier que la convention d’objectifs est respectée.[^51-1]
 
 <sup>3</sup> Sur demande d’un canton, l’OFEN peut aussi assumer les tâches visées à l’al. 2 si la convention d’objectifs est utilisée exclusivement pour l’exécution des dispositions cantonales sur les conventions d’objectifs passées avec les grands consommateurs conformément à l’art. 46, al. 3, LEne.
 
 <sup>4</sup> L’OFEN peut charger des tiers des tâches visées à l’al. 2.
+
+[^51-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ## Chapitre 7*a* Gains d’efficacité par les fournisseurs d’électricité
 
@@ -1980,14 +2023,13 @@ Pour les consommateurs finaux visés à l’art. 39, al. 3, 1<sup>re</sup> phras
 
 **Dispositions transitoires concernant la modification du 20 novembre 2024: gains d’efficacité par les fournisseurs d’électricité**[^80b-1]
 
-<sup>1</sup> Les fournisseurs d’électricité ont jusqu’au 30 avril 2025 pour demander à l’OFEN si les mesures mises en œuvre du 1<sup>er</sup> janvier 2022 au 31 décembre 2024 qui remplissent les exigences visées à l’art. 51*b* et qui ne sont pas des mesures non prises en compte visées à l’art. 51*c* peuvent être prises en compte. Les mesures mises en œuvre antérieurement ne sont pas prises en compte.[^80b-2]
+<sup>1</sup> Les fournisseurs d’électricité ont jusqu’au 30 avril 2025 pour demander à l’OFEN si les mesures mises en œuvre du 1<sup>er</sup> janvier 2022 au 31 décembre 2024 qui remplissent les exigences visées à l’art. 51*b* et qui ne sont pas des mesures non prises en compte visées à l’art. 51*c* peuvent être prises en compte. Les mesures mises en œuvre antérieurement ne sont pas prises en compte.
 
 <sup>2</sup> Si l’OFEN déclare que les mesures peuvent être prises en compte, les économies d’électricité ainsi réalisées peuvent être prises en compte au plus tard dans le cadre du troisième objectif après l’entrée en vigueur de la modification du 20 novembre 2024 concernant la réalisation des objectifs.
 
 <sup>3</sup> Les livraisons de fournisseurs d’électricité au titre de contrats conclus avant le 1<sup>er</sup> janvier 2024 avec des consommateurs finaux ayant fait usage de leur droit d’accès au réseau ne sont pas prises en compte dans le calcul du volume de référence en matière de vente d’électricité jusqu’au 31 décembre 2027. Les fournisseurs d’électricité annoncent à l’OFEN, au plus tard le 30 avril de chaque année, les livraisons correspondantes de l’année précédente.
 
 [^80b-1]: Introduit par le ch. I de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 702](https://fedlex.data.admin.ch/eli/oc/2024/702)).
-[^80b-2]: Erratum du 30 oct. 2025, ne concerne que le texte italien ([RO 2025 664](https://fedlex.data.admin.ch/eli/oc/2025/664)).
 
 #### Art. 81
 
@@ -2110,11 +2152,13 @@ Annexe 2[^t-2]
 [^annex2-lvlu1-lvl4-1]: [RS 510.62](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7338)
 [^annex2-lvlu1-lvl4-2]: [RS 510.624](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7350)
 
-Annexe 3
+Annexe 3[^t-3]
 
 (art. 28 à 30 et 32)
 
 ## Indemnisation de mesures d’assainissement dans le cas d’installations hydroélectriques
+
+[^t-3]: Mise à jour par le ch. II de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 829](https://fedlex.data.admin.ch/eli/oc/2025/829)).
 
 ### 1 Exigences applicables à la demande
 
@@ -2170,7 +2214,13 @@ Annexe 3
   - a. les impôts;
   - b. les coûts d’entretien des installations;
   - c. les coûts de mesures pour lesquelles le détenteur d’une installation hydroélectrique est déjà indemnisé d’une autre manière;
-  - d. les coûts récurrents, pour autant qu’ils interviennent plus de 40 ans après le début de la réalisation des mesures.
+  - d. les coûts récurrents, pour autant qu’ils interviennent plus de 40 ans après le début de la réalisation des mesures;
+  - e.
+
+    pour les installations hydroélectriques frontalières, la part des coûts dépassant la part de souveraineté suisse; cette part des coûts est en revanche imputable pour:
+
+    - 1\. les centrales au fil de l’eau dont toutes les parties se trouvent en territoire suisse, et
+    - 2\. les centrales à accumulation alpines, pour autant que les tronçons de cours d’eau à assainir selon l’art. 83*a* LEaux ou l’art. 10 LFSP se trouvent exclusivement en territoire suisse.
 
 Annexe 4
 
@@ -2186,13 +2236,13 @@ Annexe 4
 - 1\.2 Grandes installations de recherche de l’École polytechnique fédérale de Lausanne
 - TCV Tokamak (Tokamak à Configuration Variable)
 
-Annexe 5[^t-3]
+Annexe 5[^t-4]
 
 (art. 43, al. 1 et 3)
 
 ## Calcul de la valeur ajoutée brute
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O du 23 oct. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 3465](https://fedlex.data.admin.ch/eli/oc/2019/633)).
 
 Dans le cas des entreprises qui répondent aux exigences de la révision ordinaire selon l’art. 727, al. 1, CO[^annex5-lvlu1-1] (art. 43, al. 1), la valeur ajoutée brute est calculée comme suit:
 
@@ -2240,13 +2290,13 @@ Annexe 6
 
 - En cas de remboursement intégral conformément à l’art. 39, al. 1, de la loi, le taux de remboursement est de 100 %. En cas de remboursement partiel conformément à l’art. 39, al. 2, de la loi, le taux de remboursement ressortant du ch. 1 est déterminant.
 
-Annexe 6a[^t-4]
+Annexe 6a[^t-5]
 
 (art. 54*a*, al. 1 et 4, et 54*b*, al. 1 et 3)
 
 ## Encouragement au sens de l’art. 50*a* LEne: conditions et montants de contribution
 
-[^t-4]: Introduite par l’annexe 3 de l’O du 27 nov. 2024 sur la protection du climat, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
+[^t-5]: Introduite par l’annexe 3 de l’O du 27 nov. 2024 sur la protection du climat, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 772](https://fedlex.data.admin.ch/eli/oc/2024/772)).
 
 ### 1 Remplacement de chauffages au mazout ou au gaz naturel et de chauffages électriques fixes à résistances
 
