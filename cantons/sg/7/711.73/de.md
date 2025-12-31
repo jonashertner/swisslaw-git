@@ -1,64 +1,56 @@
 ---
 canton: SG
 number: "711.73"
-title: Verordnung über den Erlass der Motorfahrzeugsteuer für emissionsarme Motorfahrzeuge
+title: Verordnung über die Strassenverkehrsabgaben
 short: SVAV
 language: de
-version: 2021-01-01
-valid_until: 2025-12-31
-version_adopted: 2020-11-10
+version: 2026-01-01
+version_adopted: 2025-03-04
 adopted: 2025-03-04
 in_force: 2026-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/711.73"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3052/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3764/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Erlass der Motorfahrzeugsteuer für emissionsarme Motorfahrzeuge
+# Verordnung über die Strassenverkehrsabgaben
 
-vom 09.12.2008 (Stand 01.01.2021)
+(SVAV)
+
+vom 04.03.2025 (Stand 01.01.2026)
 
 Die Regierung des Kantons St.Gallen
 
 erlässt
 
-gestützt auf Art. 12<sup>bis</sup> des Gesetzes über die Strassenverkehrsabgaben vom 5. Januar 1978[^ingress-1]
+in Ausführung von [Art. 12<sup>bis</sup>](https://www.gesetzessammlung.sg.ch/data/711.70/de/art12bis) Abs. 3 des Gesetzes über die Strassenverkehrsabgaben vom 5. Januar 1978[^ingress-1]
 
 als Verordnung:[^ingress-2]
 
-[^ingress-1]: sGS [711.70](https://www.gesetzessammlung.sg.ch/data/711.70/de)
-[^ingress-2]: Im Amtsblatt veröffentlicht am 22. Dezember 2008, ABl 2008, 3973; in Vollzug ab 1. Januar 2009.
+[^ingress-1]: sGS [711.70](https://www.gesetzessammlung.sg.ch/data/711.70/de).
+[^ingress-2]: Abgekürzt SVAV. In Vollzug ab 1. Januar 2026.
 
 #### Art. 1
 
-**Steuererlass a) Grundsatz**
+**Anreizmodell Personenwagen**
 
-<sup>1</sup> Die einfache Steuer wird für leichte Motorwagen der Energieeffizienzklasse A erlassen.
+<sup>1</sup> Für Personenwagen, die bei ihrer ersten Inverkehrsetzung im Kanton St.Gallen der besten oder zweitbesten Energieeffizienz-Kategorie nach den bundesrechtlichen Vorschriften[^1-1] angehören, wird die einfache Steuer im Jahr der ersten Inverkehrsetzung und in den drei folgenden Jahren für die beste Energieeffizienz-Kategorie um 50 Prozent und für die zweitbeste Energieeffizienz-Kategorie um 25 Prozent reduziert.
+
+<sup>2</sup> Für Personenwagen, die den beiden besten Energieeffizienz-Kategorien angehören und in einem anderen Kanton oder im Ausland erstmals in Verkehr gesetzt wurden und innerhalb der Frist nach Abs. 1 dieser Bestimmung im Kanton St.Gallen besteuert werden, wird die einfache Steuer ab Beginn der Steuerpflicht im Kanton St.Gallen für den Rest dieser Frist reduziert.
+
+<sup>3</sup> Für Personenwagen, die erstmals vor dem 1. Oktober 2002 in Verkehr gesetzt wurden, über keine Energieeffizienz-Etikette verfügen oder der schlechtesten Energieeffizienz-Kategorie angehören, wird die einfache Steuer um 25 Prozent erhöht. Für Personenwagen, die der zweitschlechtesten Energieeffizienz-Kategorie angehören, wird die einfache Steuer um 12,5 Prozent erhöht.
+
+[^1-1]: Vgl. Anhang 4.1 der eidg Energieeffizienzverordnung vom 1. November 2017, SR [730.02](https://db.clex.ch/link/Bund/730.02/de).
 
 #### Art. 2
 
-**b) Ausnahmen**
+**Anreizmodell andere Fahrzeuge**
 
-<sup>1</sup> Vom Steuererlass ausgenommen sind:
+<sup>1</sup> Bei anderen Fahrzeugen, die beim Betrieb kein CO₂ ausstossen, insbesondere elektrisch oder mit Wasserstoff angetrieben werden, wird die einfache oder allenfalls ermässigte[^2-1] Steuer im Jahr der ersten Inverkehrsetzung und in den drei folgenden Jahren um 25 Prozent reduziert.
 
-- a) leichte Motorwagen, die mehr als 95 g CO₂ je km, berechnet nach dem Europäischen Fahrzyklus (NEFZ), oder mehr als 118 g CO₂ je km, berechnet nach der Worldwide Harmonized Light Vehicles Test Procedure (WLTP), ausstossen;
-- b) Dieselfahrzeuge, die über keinen serienmässig eingebauten Dieselpartikelfilter verfügen.
+<sup>2</sup> Für Fahrzeuge, die in einem anderen Kanton oder im Ausland erstmals in Verkehr gesetzt wurden und innerhalb der Frist nach Abs. 1 dieser Bestimmung im Kanton St.Gallen besteuert werden, wird die einfache oder die ermässigte Steuer ab Beginn der Steuerpflicht im Kanton St.Gallen für den Rest dieser Frist reduziert.
 
-<sup>2</sup> Für leichte Motorwagen, die vor dem 1. Januar 2021 in Verkehr gesetzt wurden, gilt ein Grenzwert von 130 g CO₂ je km, berechnet nach NEFZ.
+[^2-1]: Vgl. Art. 12 des Gesetzes über die Strassenverkehrsabgaben vom 5. Januar 1978, sGS [711.70](https://www.gesetzessammlung.sg.ch/data/711.70/de).
 
-#### Art. 3
-
-**Massgebender Zeitpunkt**
-
-<sup>1</sup> Für die Zugehörigkeit eines leichten Motorwagens zur Energieeffizienzklasse A ist der Zeitpunkt der ersten Inverkehrsetzung massgebend.
-
-<sup>2</sup> …
-
-#### Art. 4
-
-**Vollzugsbeginn**
-
-<sup>1</sup> Dieser Erlass wird ab 1. Januar 2009 angewendet.
-
-nGS 44–25
+nGS 2025-010
