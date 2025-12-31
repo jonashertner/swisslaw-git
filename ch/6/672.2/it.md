@@ -4,11 +4,11 @@ title: Legge federale del 18 giugno 2021 concernente l’esecuzione delle conven
 short: LECF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/703"
 language: it
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2021-06-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/703/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2021-703-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/703/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2021-703-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20220101/it"
 
 (LECF)
 
-del 18 giugno 2021 (Stato 1° gennaio 2022)
+del 18 giugno 2021 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -365,11 +365,15 @@ Il Consiglio federale disciplina:
 - a. la procedura per lo sgravio delle imposte svizzere riscosse alla fonte sui redditi di capitali previsto da un trattato internazionale;
 - b. la procedura per il computo delle imposte riscosse dall’altro Stato contraente sulle imposte dovute in Svizzera previsto da un trattato internazionale;
 - c. le condizioni alle quali uno stabilimento d’impresa svizzero di un’impresa estera può chiedere il computo d’imposta per i redditi provenienti da uno Stato terzo gravati da imposte non recuperabili;
-- d. l’assoggettamento alla giurisdizione amministrativa federale delle decisioni pronunciate dall’AFC in virtù della convenzione applicabile e aventi per oggetto imposte dell’altro Stato contraente; esso parifica, per la loro esecuzione, tali decisioni alle decisioni concernenti le imposte federali.
+- d. l’assoggettamento alla giurisdizione amministrativa federale delle decisioni pronunciate dall’AFC in virtù della convenzione applicabile e aventi per oggetto imposte dell’altro Stato contraente; esso parifica, per la loro esecuzione, tali decisioni alle decisioni concernenti le imposte federali;
+- e.[^35-1] la ripartizione tra la Confederazione e i Cantoni degli importi che, in virtù di una convenzione in ambito fiscale, sono versati da un altro Stato contraente o devono essere versati a un altro Stato contraente.
 
 <sup>2</sup> Il Consiglio federale può delegare al Dipartimento federale delle finanze (DFF) la competenza di emanare disposizioni processuali.
 
-<sup>3</sup> Il DFF disciplina, d’intesa con i Cantoni, la loro partecipazione ai pagamenti garantiti dalla Svizzera all’altro Stato contraente in virtù di una convenzione in ambito fiscale.
+<sup>3</sup> ...[^35-2]
+
+[^35-1]: Introdotta dall’all. del DF del 14 giu. 2024 che approva e traspone nel diritto svizzero un Accordo aggiuntivo alla Convenzione tra la Svizzera e la Francia per evitare le doppie imposizioni, in vigore dal 1° gen. 2026 ([RU 2025 504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^35-2]: Abrogato dall’all. del DF del 14 giu. 2024 che approva e traspone nel diritto svizzero un Accordo aggiuntivo alla Convenzione tra la Svizzera e la Francia per evitare le doppie imposizioni, con effetto dal 1° gen. 2026 ([RU 2025 504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 36
 

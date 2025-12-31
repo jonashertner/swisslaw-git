@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Juni 2021 über die Durchführung von internationale
 short: StADG
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/703"
 language: de
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2021-06-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/703/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2021-703-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/703/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2021-703-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20220101/de"
 
 (StADG)
 
-vom 18. Juni 2021 (Stand am 1. Januar 2022)
+vom 18. Juni 2021 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -365,11 +365,15 @@ Der Bundesrat regelt:
 - a. das Verfahren der staatsvertraglich vereinbarten Entlastung von an der Quelle erhobenen schweizerischen Steuern auf Kapitalerträgen;
 - b. das Verfahren der staatsvertraglich vereinbarten Anrechnung von Steuern des andern Vertragsstaats an die in der Schweiz geschuldeten Steuern;
 - c. unter welchen Voraussetzungen eine schweizerische Betriebsstätte eines ausländischen Unternehmens für Erträge aus einem Drittstaat, die mit nicht rückforderbaren Steuern belastet sind, die Steueranrechnung beanspruchen kann;
-- d. die Unterstellung der nach dem anwendbaren Abkommen zu treffenden Entscheide und Verfügungen der ESTV, welche Steuern des andern Vertragsstaats zum Gegenstand haben, unter die eidgenössische Verwaltungsgerichtsbarkeit; er stellt diese Entscheide und Verfügungen in Bezug auf ihre Vollstreckbarkeit den Entscheide über Bundessteuern gleich.
+- d. die Unterstellung der nach dem anwendbaren Abkommen zu treffenden Entscheide und Verfügungen der ESTV, welche Steuern des andern Vertragsstaats zum Gegenstand haben, unter die eidgenössische Verwaltungsgerichtsbarkeit; er stellt diese Entscheide und Verfügungen in Bezug auf ihre Vollstreckbarkeit den Entscheide über Bundessteuern gleich;
+- e.[^35-1] die Aufteilung zwischen Bund und Kantonen der Beträge, die die Schweiz aufgrund eines Abkommens im Steuerbereich von einem anderen Vertragsstaat erhält oder an einen anderen Vertragsstaat überweisen muss.
 
 <sup>2</sup> Er kann den Erlass von Verfahrensbestimmungen dem Eidgenössischen Finanzdepartement (EFD) übertragen.
 
-<sup>3</sup> Das EFD regelt im Einvernehmen mit den Kantonen deren Beteiligung an Zahlungen, die die Schweiz dem andern Vertragsstaat in einem Abkommen im Steuerbereich zugesichert hat.
+<sup>3</sup> …[^35-2]
+
+[^35-1]: Eingefügt durch Anhang des BB vom 14. Juni 2024 über die Genehmigung und die Umsetzung eines Zusatzabkommens zum Doppelbesteuerungsabkommen zwischen der Schweiz und Frankreich, in Kraft seit 1. Jan. 2026 ([AS 2025 504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^35-2]: Aufgehoben durch Anhang des BB vom 14. Juni 2024 über die Genehmigung und die Umsetzung eines Zusatzabkommens zum Doppelbesteuerungsabkommen zwischen der Schweiz und Frankreich, mit Wirkung seit 1. Jan. 2026 ([AS 2025 504](https://fedlex.data.admin.ch/eli/oc/2025/504); [BBl 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 36
 
@@ -377,7 +381,7 @@ Der Bundesrat regelt:
 
 <sup>1</sup> Das Bundesgesetz vom 22. Juni 1951[^36-1] über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung wird aufgehoben.
 
-<sup>2</sup> ...[^36-2]
+<sup>2</sup> …[^36-2]
 
 [^36-1]: [[AS 1951 889](https://fedlex.data.admin.ch/eli/oc/1951/889_891_917); [2013 231](https://fedlex.data.admin.ch/eli/oc/2013/31)Anhang Ziff. 5; [2017 5517](https://fedlex.data.admin.ch/eli/oc/2017/593); [2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)Ziff. I 4]
 [^36-2]: Die Änderung kann unter [AS 2021 703](https://fedlex.data.admin.ch/eli/oc/2021/703)konsultiert werden.

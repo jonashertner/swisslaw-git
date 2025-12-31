@@ -4,11 +4,11 @@ title: Loi fédérale du 18 juin 2021 relative à l’exécution des conventions
 short: LECF
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/703"
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2021-06-18
 in_force: 2022-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/703/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-703-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/703/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2021-703-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/703/20220101/fr"
 
 (LECF)
 
-du 18 juin 2021 (État le 1<sup>er</sup> janvier 2022)
+du 18 juin 2021 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -365,11 +365,15 @@ Le Conseil fédéral règle:
 - a. la procédure à suivre pour le dégrèvement prévu par une convention internationale des impôts suisses prélevés à la source sur des revenus de capitaux;
 - b. la procédure à suivre pour l’imputation prévue par une convention internationale des impôts perçus par l’autre État contractant sur les impôts dus en Suisse;
 - c. les conditions auxquelles un établissement stable d’une entreprise étrangère qui est situé en Suisse peut demander une imputation d’impôt pour les revenus provenant de pays tiers soumis à des impôts non récupérables;
-- d. la soumission à la juridiction administrative fédérale des prononcés et décisions que l’AFC rend en vertu de la convention applicable et qui ont pour objet des impôts de l’autre État contractant; il assimile ces prononcés et décisions, pour leur exécution, aux décisions portant sur les impôts fédéraux.
+- d. la soumission à la juridiction administrative fédérale des prononcés et décisions que l’AFC rend en vertu de la convention applicable et qui ont pour objet des impôts de l’autre État contractant; il assimile ces prononcés et décisions, pour leur exécution, aux décisions portant sur les impôts fédéraux;
+- e.[^35-1] la répartition entre la Confédération et les cantons des montants qui, en vertu d’une convention dans le domaine fiscal, sont reçus d’un autre État contractant ou doivent être versés à un autre État contractant.
 
 <sup>2</sup> Le Conseil fédéral peut déléguer au Département fédéral des finances (DFF) la compétence d’édicter des dispositions de procédure.
 
-<sup>3</sup> Le DFF règle en accord avec les cantons le montant de leur participation aux versements que la Suisse a garantis à l’autre État contractant dans une convention dans le domaine fiscal.
+<sup>3</sup> …[^35-2]
+
+[^35-1]: Introduite par l’annexe de l’AF du 14 juin 2024 concernant l’approbation et la mise en œuvre d’un avenant à la convention contre les doubles impositions entre la Suisse et la France, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
+[^35-2]: Abrogé par l’annexe de l’AF du 14 juin 2024 concernant l’approbation et la mise en œuvre d’un avenant à la convention contre les doubles impositions entre la Suisse et la France, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 504](https://fedlex.data.admin.ch/eli/oc/2025/504); [FF 2023 2744](https://fedlex.data.admin.ch/eli/fga/2023/2744)).
 
 #### Art. 36
 
