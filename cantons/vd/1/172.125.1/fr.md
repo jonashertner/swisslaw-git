@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "172.125.1"
-title: "ARRÊTÉ du 11.12.2024 fixant pour l'année 2025 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais"
+title: "ARRÊTÉ du 19.11.2025 fixant pour l'année 2026 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais"
 language: fr
-version: 2025-01-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.125.1?id=d4e70792-8aa6-49a5-9d3e-ded7a46ad552"
+version: 2026-01-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.125.1?id=5cded68a-7595-4a64-96c9-2c322432e4b4"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ fixant pour l'année 2025 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais
+# ARRÊTÉ fixant pour l'année 2026 les montants forfaitaires versés aux membres du Conseil d'Etat au titre d'allocations pour frais
 
-du 11 décembre 2024
+du 19 novembre 2025
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -23,11 +23,11 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> L'allocation au titre de remboursement des frais de transport professionnel se monte à CHF 9'000.-.
+<sup>1</sup> L'allocation au titre de remboursement des frais de transport professionnel se monte à CHF 3'000.-.
 
 #### Art. 2
 
-<sup>1</sup> L'allocation au titre de remboursement des frais de représentation se monte à CHF 14'800.-.
+<sup>1</sup> L'allocation au titre de remboursement des frais de représentation se monte à CHF 21'000.-.
 
 #### Art. 3
 
@@ -35,4 +35,4 @@ arrête
 
 #### Art. 4
 
-<sup>1</sup> La Chancellerie d'Etat est chargée de l'exécution du présent arrêté qui entre en vigueur le 1er janvier 2025.
+<sup>1</sup> La Chancellerie d'Etat est chargée de l'exécution du présent arrêté qui entre en vigueur le 1er janvier 2026.
