@@ -4,13 +4,12 @@ number: "131.11"
 title: Règlement du Tribunal cantonal précisant son organisation et son fonctionnement
 short: RTC
 language: fr
-version: 2016-11-01
-valid_until: 2025-12-31
-version_adopted: 2016-10-13
+version: 2026-01-01
+version_adopted: 2025-08-28
 adopted: 2012-11-22
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/131.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8329/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8402/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Tribunal cantonal, organisation et fonctionnement – R
 
 (RTC)
 
-du 22.11.2012 (version entrée en vigueur le 01.11.2016)
+du 22.11.2012 (version entrée en vigueur le 01.01.2026)
 
 Le Tribunal cantonal du canton de Fribourg
 
@@ -73,9 +72,13 @@ Arrête:
 - d) la proposition au Grand Conseil du président ou de la présidente du Tribunal cantonal;
 - e) l'élection du vice-président ou de la vice-présidente du Tribunal cantonal ainsi que du troisième membre de la commission administrative et de son suppléant ou de sa suppléante;
 - f) l'engagement du ou de la secrétaire général-e et de tous les greffiers et toutes les greffières sur la proposition de la commission administrative en accord, le cas échéant, avec la ou les cours ou le ou la juge concernés;
-- g) la formulation de préavis sur l'affectation des juges itinérants selon l'article 10a al. 2 LJ;
-- h) l'adoption de recommandations et directives contraignantes au sens de l'article 35 al. 2 LJ;
-- i) la désignation de la cour compétente dans les cas prévus par l'article 35a al. 1 LJ.
+- g) la formulation de préavis sur l'affectation des juges itinérants selon l'article 10a al. 2 LJ[^4-1];
+- h) l'adoption de recommandations et directives contraignantes au sens de l'article 35 al. 2 LJ[^4-2];
+- i) la désignation de la cour compétente dans les cas prévus par l'article 35a al. 1 LJ[^4-3].
+
+[^4-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+[^4-2]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
+[^4-3]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 5
 
@@ -103,7 +106,7 @@ Arrête:
 
 **Désignation et tâches**
 
-<sup>1</sup> Hormis les juges à mi-temps et la présidence du Conseil de la magistrature, chaque juge a le devoir d'accepter sa désignation en vue de l'élection à la fonction de président ou présidente du Tribunal cantonal.
+<sup>1</sup> Hormis la présidence du Conseil de la magistrature, chaque juge dont le taux d'occupation est de 70 % ou supérieur a le devoir d'accepter sa désignation en vue de l'élection à la fonction de président ou présidente du Tribunal cantonal.
 
 <sup>2</sup> La présidence assume la direction générale du Tribunal cantonal. Elle le représente et agit, signe et s'exprime en son nom.
 
@@ -201,7 +204,9 @@ Arrête:
 
 <sup>2</sup> Il ou elle est l'interlocuteur ou l'interlocutrice pour les questions liées à la gestion générale des cours en collaboration avec le greffier présidentiel ou la greffière présidentielle.
 
-<sup>3</sup> Sur délégation du Tribunal plénier, il ou elle formule les préavis sur l'affectation des juges itinérants selon l'article 10a al. 2 LJ.
+<sup>3</sup> Sur délégation du Tribunal plénier, il ou elle formule les préavis sur l'affectation des juges itinérants selon l'article 10a al. 2 LJ[^12-1].
+
+[^12-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 13
 
@@ -262,9 +267,11 @@ Arrête:
 
 <sup>2</sup> La Deuxième Cour d'appel civil connaît en outre des causes civiles placées par la loi dans la compétence d'une instance cantonale unique, sauf celles qui relèvent de l'assurance complémentaire à l'assurance-maladie sociale (art. 28 let. e ci-après).
 
-<sup>3</sup> En matière d'arbitrage, la Deuxième Cour d'appel civil est l'autorité judiciaire compétente pour statuer sur les recours et les demandes en révision ainsi que pour recevoir la sentence en dépôt et attester son caractère exécutoire selon l'article 356 al. 1 du code du 19 décembre 2008 de procédure civile.
+<sup>3</sup> En matière d'arbitrage, la Deuxième Cour d'appel civil est l'autorité judiciaire compétente pour statuer sur les recours et les demandes en révision ainsi que pour recevoir la sentence en dépôt et attester son caractère exécutoire selon l'article 356 al. 1 du code du 19 décembre 2008 de procédure civile[^17-1].
 
 <sup>4</sup> La Deuxième Cour d'appel civil est compétente pour examiner et transmettre les entraides internationales entrantes au sens de la Convention de La Haye du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile ou commerciale.
+
+[^17-1]: RS [272](https://db.clex.ch/link/Bund/272/fr)
 
 #### Art. 18
 
@@ -274,13 +281,17 @@ Arrête:
 
 **Chambre des poursuites et faillites**
 
-<sup>1</sup> La Chambre des poursuites et faillites exerce la surveillance sur les offices de poursuites et l'Office des faillites. A ce titre, elle connaît notamment des plaintes contre les mesures d'exécution forcée prises par ceux-ci (art. 13 et 17 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite).
+<sup>1</sup> La Chambre des poursuites et faillites exerce la surveillance sur les offices de poursuites et l'Office des faillites. A ce titre, elle connaît notamment des plaintes contre les mesures d'exécution forcée prises par ceux-ci (art. 13 et 17 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^19-1]).
+
+[^19-1]: RS [281.1](https://db.clex.ch/link/Bund/281.1/fr)
 
 #### Art. 20
 
 **Cour de protection de l'enfant et de l'adulte**
 
-<sup>1</sup> La Cour de protection de l'enfant et de l'adulte connaît de tous les recours contre les décisions rendues par l'autorité de protection de l'enfant et de l'adulte ou par son président ou sa présidente (art. 8 de la loi du 15 juin 2012 concernant la protection de l'enfant et de l'adulte).
+<sup>1</sup> La Cour de protection de l'enfant et de l'adulte connaît de tous les recours contre les décisions rendues par l'autorité de protection de l'enfant et de l'adulte ou par son président ou sa présidente (art. 8 de la loi du 15 juin 2012 concernant la protection de l'enfant et de l'adulte[^20-1]).
+
+[^20-1]: RSF [212.5.1](https://bdlf.fr.ch/data/212.5.1/fr)
 
 #### Art. 20a
 
@@ -288,19 +299,27 @@ Arrête:
 
 <sup>1</sup> Chaque cour civile connaît en outre des recours en matière de rétribution des avocats ou avocates ainsi que des frais judiciaires dans les domaines qui relèvent de sa compétence.
 
-<sup>2</sup> En cas de récusation d'office non contestée de première instance au sens de l'article 18 al. 1<sup>bis</sup> LJ, chaque cour civile désigne, dans les domaines qui relèvent de sa compétence, la ou les personnes appelées à remplacer le ou la juge unique ou l'autorité collégiale récusée.
+<sup>2</sup> En cas de récusation d'office non contestée de première instance au sens de l'article 18 al. 1<sup>bis</sup> LJ[^20a-1], chaque cour civile désigne, dans les domaines qui relèvent de sa compétence, la ou les personnes appelées à remplacer le ou la juge unique ou l'autorité collégiale récusée.
+
+[^20a-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 21
 
 **Chambre pénale**
 
-<sup>1</sup> La Chambre pénale est l'autorité de recours au sens des articles 20 du code du 5 octobre 2007 de procédure pénale suisse (CPP) et 7 al. 1 let. c de la loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux mineurs (PPMin).
+<sup>1</sup> La Chambre pénale est l'autorité de recours au sens des articles 20 du code du 5 octobre 2007 de procédure pénale suisse (CPP)[^21-1] et 7 al. 1 let. c de la loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux mineurs (PPMin)[^21-2].
+
+[^21-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^21-2]: RS [312.1](https://db.clex.ch/link/Bund/312.1/fr)
 
 #### Art. 22
 
 **Cour d'appel pénal**
 
-<sup>1</sup> La Cour d'appel pénal est la juridiction d'appel au sens des articles 21 CPP et 7 al. 1 let. d PPMin.
+<sup>1</sup> La Cour d'appel pénal est la juridiction d'appel au sens des articles 21 CPP[^22-1] et 7 al. 1 let. d PPMin[^22-2].
+
+[^22-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+[^22-2]: RS [312.1](https://db.clex.ch/link/Bund/312.1/fr)
 
 #### Art. 23
 
@@ -399,17 +418,19 @@ Arrête:
 
 <sup>1</sup> Les cours siègent à trois juges.
 
-<sup>2</sup> L'article 44 al. 2 LJ est réservé.
+<sup>2</sup> L'article 44 al. 2 LJ[^29-1] est réservé.
+
+[^29-1]: RSF [130.1](https://bdlf.fr.ch/data/130.1/fr)
 
 #### Art. 30
 
 **Circulation du rapport**
 
-<sup>1</sup> Le rapport est mis en circulation avec le dossier auprès des juges appelés à statuer. La circulation se termine chez la présidence.
+<sup>1</sup> Le rapport est mis en circulation par voie électronique auprès des juges appelés à statuer et du greffier ou de la greffière. La circulation se termine en principe auprès de la présidence de Cour. La date du jugement est celle de la date de l'accord de la présidence de Cour, respectivement du dernier juge amené à se prononcer. Le dossier physique est mis à disposition.
 
-<sup>2</sup> Chaque juge atteste par sa signature, apposée sur la feuille de circulation, qu'il ou elle a pris connaissance du dossier. Il ou elle donne son accord aux propositions du rapport, indique d'éventuelles observations ou formule une contre-proposition motivée. Il ou elle indique la date à laquelle il ou elle transmet le dossier.
+<sup>2</sup> Chaque juge remplit et date la feuille de circulation sous sa forme électronique ou adresse un courriel aux juges et au greffier ou à la greffière pour donner son accord avec le rapport, indiquer d'éventuelles observations, formuler une contre-proposition ou demander des délibérations.
 
-<sup>3</sup> Lorsque le rapport est rédigé sous forme de projet de décision, il est en principe procédé à une seule circulation. Lorsque tel n'est pas le cas, le projet de décision établi sur la base du rapport approuvé fait l'objet d'une nouvelle circulation.
+<sup>3</sup> Pour le surplus, il est fait référence aux processus de circulation digitale établis pour les cours civiles et pénales d'une part, et pour les cours administratives d'autre part.
 
 #### Art. 31
 

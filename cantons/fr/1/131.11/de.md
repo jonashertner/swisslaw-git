@@ -4,13 +4,12 @@ number: "131.11"
 title: Reglement des Kantonsgerichts betreffend seine Organisation und seine Arbeitsweise
 short: RKG
 language: de
-version: 2016-11-01
-valid_until: 2025-12-31
-version_adopted: 2016-10-13
+version: 2026-01-01
+version_adopted: 2025-08-28
 adopted: 2012-11-22
 in_force: 2013-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/131.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8329/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kantonsgericht, Organisation und Arbeitsweise – R
 
 (RKG)
 
-vom 22.11.2012 (Fassung in Kraft getreten am 01.11.2016)
+vom 22.11.2012 (Fassung in Kraft getreten am 01.01.2026)
 
 Das Kantonsgericht des Staates Freiburg
 
@@ -73,9 +72,13 @@ beschliesst:
 - d) der Vorschlag zuhanden des Grossen Rates für die Wahl der Präsidentin oder des Präsidenten des Kantonsgerichts;
 - e) die Wahl der Vizepräsidentin oder des Vizepräsidenten des Kantonsgerichts sowie des dritten Mitglieds der Verwaltungskommission und seiner Stellvertreterin oder seines Stellvertreters;
 - f) die Anstellung der Generalsekretärin oder des Generalsekretärs und aller Gerichtsschreiberinnen und -schreiber, auf Antrag der Verwaltungskommission und gegebenenfalls im Einverständnis mit dem betroffenen Gerichtshof oder den betroffenen Gerichtshöfen bzw. der Richterin oder dem Richter;
-- g) die Verfassung der Stellungnahme zur Zuteilung der gerichtsunabhängigen Richterinnen und Richter gemäss Artikel 10a Abs. 2 JG;
-- h) die Abgabe von Empfehlungen und der Erlass von verbindlichen Richtlinien im Sinne von Artikel 35 Abs. 2 JG;
-- i) die Bezeichnung des zuständigen Gerichtshofs in den Fällen nach Artikel 35a Abs. 1 JG.
+- g) die Verfassung der Stellungnahme zur Zuteilung der gerichtsunabhängigen Richterinnen und Richter gemäss Artikel 10a Abs. 2 JG[^4-1];
+- h) die Abgabe von Empfehlungen und der Erlass von verbindlichen Richtlinien im Sinne von Artikel 35 Abs. 2 JG[^4-2];
+- i) die Bezeichnung des zuständigen Gerichtshofs in den Fällen nach Artikel 35a Abs. 1 JG[^4-3].
+
+[^4-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+[^4-2]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
+[^4-3]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 5
 
@@ -103,7 +106,7 @@ beschliesst:
 
 **Bezeichnung und Aufgaben**
 
-<sup>1</sup> Abgesehen von den Richterinnen und Richtern im Halbzeitpensum und dem Präsidium des Justizrats ist jede Richterin und jeder Richter verpflichtet, die Aufstellung für die Wahl der Präsidentin oder des Präsidenten des Kantonsgerichts anzunehmen.
+<sup>1</sup> Abgesehen von der Präsidentin oder dem Präsidenten des Justizrats ist jede Richterin und jeder Richter mit einem Beschäftigungsgrad von mindestens 70 % verpflichtet, die Aufstellung für die Wahl als Präsidentin oder Präsident des Kantonsgerichts anzunehmen.
 
 <sup>2</sup> Dem Präsidium obliegt die allgemeine Leitung des Kantonsgerichts. Es vertritt das Kantonsgericht und handelt, zeichnet und spricht in dessen Namen.
 
@@ -201,7 +204,9 @@ beschliesst:
 
 <sup>2</sup> In Zusammenarbeit mit der Präsidialgerichtsschreiberin oder dem Präsidialgerichtsschreiber ist sie oder er Ansprechperson bei Fragen zur allgemeinen Geschäftsführung der Gerichtshöfe.
 
-<sup>3</sup> Im Auftrag des Gesamtgerichts verfasst sie oder er die Stellungnahmen zur Zuteilung der gerichtsunabhängigen Richterinnen und Richter gemäss Artikel 10a Abs. 2 JG.
+<sup>3</sup> Im Auftrag des Gesamtgerichts verfasst sie oder er die Stellungnahmen zur Zuteilung der gerichtsunabhängigen Richterinnen und Richter gemäss Artikel 10a Abs. 2 JG[^12-1].
+
+[^12-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 13
 
@@ -262,9 +267,11 @@ beschliesst:
 
 <sup>2</sup> Der Zweite Zivilappellationshof entscheidet darüber hinaus über Zivilsachen, die das Gesetz in die Zuständigkeit einer einzigen kantonalen Instanz legt, mit Ausnahme jener im Bereich der Zusatzversicherung zur sozialen Krankenversicherung (Art. 28 Bst. e hienach).
 
-<sup>3</sup> In Schiedsgerichtssachen ist der Zweite Zivilappellationshof die zuständige gerichtliche Behörde für die Behandlung der Beschwerden und Revisionsgesuche und die Entgegennahme des Schiedsspruchs zur Hinterlegung und die Bescheinigung der Vollstreckbarkeit gemäss Artikel 356 Abs. 1 der Zivilprozessordnung vom 19. Dezember 2008.
+<sup>3</sup> In Schiedsgerichtssachen ist der Zweite Zivilappellationshof die zuständige gerichtliche Behörde für die Behandlung der Beschwerden und Revisionsgesuche und die Entgegennahme des Schiedsspruchs zur Hinterlegung und die Bescheinigung der Vollstreckbarkeit gemäss Artikel 356 Abs. 1 der Zivilprozessordnung vom 19. Dezember 2008[^17-1].
 
 <sup>4</sup> Der Zweite Zivilappellationshof ist zuständig für die Prüfung und Weiterleitung der eingehenden internationalen Rechtshilfegesuche im Sinne des Übereinkommens von Den Haag vom 18. März 1970 über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen.
+
+[^17-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
 
 #### Art. 18
 
@@ -274,13 +281,17 @@ beschliesst:
 
 **Schuldbetreibungs- und Konkurskammer**
 
-<sup>1</sup> Die Schuldbetreibungs- und Konkurskammer übt die Aufsicht über die Betreibungsämter und das Konkursamt aus. Sie entscheidet insbesondere über Beschwerden gegen von diesen angeordnete Zwangsvollstreckungsmassnahmen (Art. 13 und 17 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs).
+<sup>1</sup> Die Schuldbetreibungs- und Konkurskammer übt die Aufsicht über die Betreibungsämter und das Konkursamt aus. Sie entscheidet insbesondere über Beschwerden gegen von diesen angeordnete Zwangsvollstreckungsmassnahmen (Art. 13 und 17 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs[^19-1]).
+
+[^19-1]: SR [281.1](https://db.clex.ch/link/Bund/281.1/de)
 
 #### Art. 20
 
 **Kindes- und Erwachsenenschutzhof**
 
-<sup>1</sup> Der Kindes- und Erwachsenenschutzhof entscheidet über alle Beschwerden gegen Entscheide der Kindes- und Erwachsenenschutzbehörde oder deren Präsidentin oder Präsident (Art. 8 des Gesetzes vom 15. Juni 2012 über den Kindes- und Erwachsenenschutz).
+<sup>1</sup> Der Kindes- und Erwachsenenschutzhof entscheidet über alle Beschwerden gegen Entscheide der Kindes- und Erwachsenenschutzbehörde oder deren Präsidentin oder Präsident (Art. 8 des Gesetzes vom 15. Juni 2012 über den Kindes- und Erwachsenenschutz[^20-1]).
+
+[^20-1]: SGF [212.5.1](https://bdlf.fr.ch/data/212.5.1/de)
 
 #### Art. 20a
 
@@ -288,19 +299,27 @@ beschliesst:
 
 <sup>1</sup> Jeder Zivilgerichtshof entscheidet zudem in seinen Zuständigkeitsbereichen über Beschwerden, welche die Vergütung von Anwältinnen und Anwälten und die Gerichtskosten betreffen.
 
-<sup>2</sup> Im Fall eines nicht strittigen, erstinstanzlichen Ausstandes von Amtes wegen im Sinne von Artikel 18 Abs. 1<sup>bis</sup> JG bestimmt jeder Zivilgerichtshof in seinen Zuständigkeitsbereichen eine oder mehrere Stellvertreterinnen oder Stellvertreter für das in den Ausstand getretene Einzel- oder Kollegialgericht.
+<sup>2</sup> Im Fall eines nicht strittigen, erstinstanzlichen Ausstandes von Amtes wegen im Sinne von Artikel 18 Abs. 1<sup>bis</sup> JG[^20a-1] bestimmt jeder Zivilgerichtshof in seinen Zuständigkeitsbereichen eine oder mehrere Stellvertreterinnen oder Stellvertreter für das in den Ausstand getretene Einzel- oder Kollegialgericht.
+
+[^20a-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 21
 
 **Strafkammer**
 
-<sup>1</sup> Die Strafkammer ist die Beschwerdeinstanz im Sinn der Artikel 20 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO) und 7 Abs. 1 Bst. c der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009 (JStPO).
+<sup>1</sup> Die Strafkammer ist die Beschwerdeinstanz im Sinn der Artikel 20 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (StPO)[^21-1] und 7 Abs. 1 Bst. c der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009 (JStPO)[^21-2].
+
+[^21-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^21-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### Art. 22
 
 **Strafappellationshof**
 
-<sup>1</sup> Der Strafappellationshof ist das Berufungsgericht im Sinn der Artikel 21 StPO und 7 Abs. 1 Bst. d JStPO.
+<sup>1</sup> Der Strafappellationshof ist das Berufungsgericht im Sinn der Artikel 21 StPO[^22-1] und 7 Abs. 1 Bst. d JStPO[^22-2].
+
+[^22-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^22-2]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 
 #### Art. 23
 
@@ -399,17 +418,19 @@ beschliesst:
 
 <sup>1</sup> Die Gerichtshöfe tagen mit drei Richterinnen und Richtern.
 
-<sup>2</sup> Artikel 44 Abs. 2 JG bleibt vorbehalten.
+<sup>2</sup> Artikel 44 Abs. 2 JG[^29-1] bleibt vorbehalten.
+
+[^29-1]: SGF [130.1](https://bdlf.fr.ch/data/130.1/de)
 
 #### Art. 30
 
 **Zirkulation des Berichts**
 
-<sup>1</sup> Der Bericht wird mit den Akten bei den Richterinnen und Richtern, die am Entscheid mitwirken, in Zirkulation gesetzt. Die Zirkulation endet beim Präsidium.
+<sup>1</sup> Der Bericht wird bei den Richterinnen und Richtern, die am Entscheid mitwirken, und bei der Gerichtsschreiberin oder dem Gerichtsschreiber elektronisch in Zirkulation gesetzt. Die Zirkulation endet grundsätzlich beim Präsidium des Gerichtshofs. Das Urteil trägt das Datum der Zustimmung des Präsidiums des Gerichtshofs oder der Richterin oder des Richters, die oder der zuletzt Stellung zu nehmen hat. Die physische Akte wird zur Verfügung gestellt.
 
-<sup>2</sup> Jede Richterin und jeder Richter bestätigt mit ihrer oder seiner Unterschrift auf dem Zirkulationsblatt, dass sie oder er von den Akten Kenntnis genommen hat. Sie oder er gibt ihre oder seine Zustimmung zu den Anträgen des Berichts, bringt allfällige Bemerkungen an oder stellt einen begründeten Gegenantrag. Sie oder er vermerkt das Datum, an dem sie oder er die Akten weiterleitet.
+<sup>2</sup> Jede Richterin und jeder Richter füllt das elektronische Zirkulationsblatt aus und datiert es oder sendet den Richterinnen und Richtern sowie der Gerichtsschreiberin oder dem Gerichtsschreiber eine E-Mail, um dem Bericht zuzustimmen, allfällige Bemerkungen anzubringen, einen Gegenantrag zu stellen oder eine Urteilsberatung zu verlangen.
 
-<sup>3</sup> Ist der Bericht in der Form eines Entscheidentwurfs abgefasst, so findet grundsätzlich nur eine Zirkulation statt. Ist dies nicht der Fall, so wird der auf Grundlage des genehmigten Berichts erstellte Entscheidentwurf erneut in Zirkulation gesetzt.
+<sup>3</sup> Im Übrigen wird auf die Prozesse der elektronischen Zirkulation verwiesen, die einerseits für die Zivil- und Strafgerichtshöfe und andererseits für die Verwaltungsgerichtshöfe festgelegt werden.
 
 #### Art. 31
 
