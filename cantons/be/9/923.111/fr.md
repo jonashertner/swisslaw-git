@@ -4,13 +4,12 @@ number: "923.111"
 title: Ordonnance sur la pêche
 short: OPê
 language: fr
-version: 2024-02-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-06
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 1995-09-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/923.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3005/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3237/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3005/pdf_file"
 
 (OPê)
 
-du 20.09.1995 (état au 01.02.2024)
+du 20.09.1995 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -80,7 +79,7 @@ arrête:
 <sup>2</sup> Les cours d’eau et tronçons de cours d’eau suivants peuplés principalement de poissons nobles sont des eaux soumises à patente:
 
 - 1\. l’Aar, du barrage de Räterichsboden jusqu’à son embouchure dans le lac de Brienz,
-- 2\. la Birse, de sa source jusqu’à la frontière entre les cantons de Berne et du Jura,
+- 2\. la Birse, sur le territoire du canton de Berne,
 - 3\. l’Emme, de l’embouchure du Bärselbach (Kemmeriboden) jusqu’à la frontière entre les cantons de Berne et de Soleure,
 - 4\. l’Engstligen,
 - 5\. la Fildrich,

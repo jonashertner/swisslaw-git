@@ -4,13 +4,12 @@ number: "923.111"
 title: Verordnung über die Fischerei
 short: FiV
 language: de
-version: 2024-02-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-06
+version: 2026-01-01
+version_adopted: 2025-09-17
 adopted: 1995-09-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/923.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3005/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3237/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3005/pdf_file"
 
 (FiV)
 
-vom 20.09.1995 (Stand 01.02.2024)
+vom 20.09.1995 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -80,7 +79,7 @@ beschliesst:
 <sup>2</sup> Folgende Fliessgewässer und Gewässerabschnitte mit vorwiegendem Edelfischbestand sind Patentgewässer:
 
 - 1\. Aare, vom Stauwehr Räterichsboden bis zur Einmündung in den Brienzersee,
-- 2\. Birs, von der Quelle bis zur Kantonsgrenze Bern/Jura,
+- 2\. Birs, auf dem Gebiet des Kantons Bern,
 - 3\. Emme, von der Einmündung des Bärselbachs (Kemmeriboden) bis zur Kantonsgrenze Bern/Solothurn,
 - 4\. Engstligen,
 - 5\. Fildrich,
