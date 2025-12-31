@@ -4,13 +4,12 @@ number: "341.11"
 title: "Ordonnance sur l'exécution judiciaire"
 short: OEJ
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-07
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 2018-08-22
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2771/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3254/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2771/pdf_file"
 
 (OEJ)
 
-du 22.08.2018 (état au 01.01.2023)
+du 22.08.2018 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -42,9 +41,15 @@ arrête:
 
 **Office de l'exécution judiciaire**
 
-<sup>1</sup> L'Office de l'exécution judiciaire est le service compétent de la Direction de la sécurité en matière d'exécution judiciaire. L'article 2 est réservé.
+<sup>1</sup> L'Office de l'exécution judiciaire est le service compétent de la Direction de la sécurité en matière d'exécution judiciaire. Les articles 1a et 2 sont réservés.
 
 <sup>2</sup> L'Office de l'exécution judiciaire édicte un règlement d'organisation.
+
+#### Art. 1a
+
+**Police cantonale (POCA)**
+
+<sup>1</sup> La Police cantonale (POCA) est le service compétent de la Direction de la sécurité pour le transport des personnes détenues qui se trouvent en exécution judiciaire.
 
 #### Art. 2
 
@@ -95,7 +100,7 @@ arrête:
 
 #### Art. 6
 
-<sup>1</sup> Les prisons du canton de Berne sont la Prison régionale de Berne, la Prison régionale de Berthoud, la Prison régionale de Bienne, la Prison régionale de Moutier et la Prison régionale de Thoune.
+<sup>1</sup> Les prisons du canton de Berne sont la Prison régionale de Berne, la Prison régionale de Berthoud, la Prison régionale de Bienne et la Prison régionale de Thoune.
 
 ### 1.2.3 Établissements pénitentiaires
 
@@ -145,23 +150,18 @@ arrête:
 
 - a de peines privatives de liberté,
 - b de mesures ambulatoires de droit pénal pendant l'exécution d'une peine privative de liberté prononcée simultanément,
-- c d'internements.
+- c d'internements,
+- d de mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté.
 
 <sup>2</sup> Il n'accueille que des hommes adultes.
 
-### 1.2.4 Foyer d'éducation Lory
+<sup>3</sup> Dans des cas exceptionnels, il peut accueillir des femmes adultes et des personnes mineures pour l'exécution de mesures au sens de l'alinéa⁠ 1, lettre d.
+
+### 1.2.4
 
 #### Art. 11
 
-<sup>1</sup> Le Foyer d'éducation Lory sert à l'exécution
-
-- a de mesures pénales de protection entraînant la privation de liberté et de privations de liberté au sens de la loi fédérale du 20 juin 2003 régissant la condition pénale des mineurs (droit pénal des mineurs, DPMin)[^11-1],
-- b de mesures de protection de l'enfant au sens du Code civil suisse du 10 décembre 1907 (CC)[^11-2].
-
-<sup>2</sup> Il n'accueille que des femmes mineures.
-
-[^11-1]: RS [311.1](https://db.clex.ch/link/Bund/311.1/fr)
-[^11-2]: RS [210](https://db.clex.ch/link/Bund/210/fr)
+**…**
 
 ### 1.2.5 Autres établissements d'exécution
 
@@ -197,7 +197,7 @@ arrête:
 
 <sup>2</sup> La demande doit comporter notamment les indications et les documents suivants:
 
-- a autorisation d'exploiter délivrée en vertu de la législation sur l'aide sociale ou demande d'octroi d'une autorisation sur la base de l'article 14, alinéa 2 LEJ,
+- a autorisation d'exploiter délivrée en vertu de la législation sur les programmes d'action sociale ou demande d'octroi d'une autorisation sur la base de l'article 14, alinéa 2 LEJ,
 - b emplacement, plan et répartition des espaces de l'établissement,
 - c organigramme,
 - d programme d'exploitation et de sécurité,
@@ -239,7 +239,7 @@ arrête:
 
 <sup>1</sup> Les établissements privés qui souhaitent obtenir une autorisation d'exploiter en vertu de l'article 14, alinéa 2 LEJ doivent déposer une demande auprès de l'Office de l'exécution judiciaire.
 
-<sup>2</sup> La demande est soumise à la législation sur l'aide sociale par analogie, notamment pour ce qui est des indications et des documents qu'elle doit comporter.
+<sup>2</sup> La demande est soumise à la législation sur les programmes d'action sociale par analogie, notamment pour ce qui est des indications et des documents qu'elle doit comporter.
 
 <sup>3</sup> La Direction de la sécurité statue sur la demande.
 
@@ -247,7 +247,7 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> L'Office de l'exécution judiciaire exerce la surveillance sur l'exploitation des établissements privés en appliquant la législation sur l'aide sociale par analogie; il informe la Direction de la sécurité périodiquement et en cas d'événement particulier.
+<sup>1</sup> L'Office de l'exécution judiciaire exerce la surveillance sur l'exploitation des établissements privés en appliquant la législation sur les programmes d'action sociale par analogie; il informe la Direction de la sécurité périodiquement et en cas d'événement particulier.
 
 <sup>2</sup> Il est habilité à effectuer des visites de contrôle pour s'assurer du respect des prescriptions légales et des conditions liées à l'autorisation, à demander des rapports et à charger des spécialistes de réaliser des contrôles.
 
@@ -329,13 +329,15 @@ arrête:
 
 #### Art. 25
 
-**Transfert**
+**Transport**
 
-<sup>1</sup> Lorsque le placement est ordonné par une autorité cantonale bernoise, l'Office de l'exécution judiciaire se charge du transport en cas de transfert d'un établissement qui lui est rattaché à un autre établissement du canton de Berne.
+<sup>1</sup> La POCA assure le transport nécessaire des personnes détenues qui se trouvent en exécution judiciaire, en particulier en cas de transfert ou de comparution devant un tribunal ou une autorité dans le canton.
 
-<sup>2</sup> Il peut se charger du transport au sens de l'alinéa 1 lorsque le placement est ordonné par une autorité d'un autre canton ou par la Confédération.
+<sup>2</sup> …
 
-<sup>3</sup> Il peut faire appel à la Police cantonale ou aux services de sauvetage en cas de besoin.
+<sup>3</sup> La POCA peut faire appel aux services de sauvetage en cas de besoin.
+
+<sup>4</sup> Elle décide quelles mesures de sûreté sont nécessaires en s'appuyant sur une évaluation du risque faite par l'établissement d'exécution d'où part le transport.
 
 #### Art. 26
 
@@ -366,7 +368,7 @@ arrête:
 
 <sup>2</sup> Les tâches domestiques et d'éducation équivalent en principe à du travail.
 
-<sup>3</sup> Les personnes étrangères doivent disposer d'un droit de séjour en Suisse et être habilitées à y exercer une activité professionnelle ou à y suivre une formation ou un perfectionnement.
+<sup>3</sup> …
 
 #### Art. 28
 
@@ -381,7 +383,7 @@ arrête:
 - e si les circonstances personnelles, familiales ou professionnelles de la personne condamnée ne s'y opposent pas et
 - f s'il y a lieu de présumer que la personne condamnée saura assumer les contraintes liées à cette forme d'exécution et n'abusera pas de la confiance qui lui est faite.
 
-<sup>2</sup> Les personnes étrangères doivent disposer d'un droit de séjour en Suisse.
+<sup>2</sup> …
 
 #### Art. 29
 
@@ -400,7 +402,7 @@ arrête:
 
 <sup>2</sup> Les tâches domestiques et d'éducation équivalent en principe à du travail.
 
-<sup>3</sup> Les personnes étrangères doivent disposer d'un droit de séjour en Suisse et être habilitées à y exercer une activité professionnelle ou à y suivre une formation ou un perfectionnement.
+<sup>3</sup> …
 
 #### Art. 30
 
@@ -1246,7 +1248,8 @@ arrête:
 
 <sup>1</sup> Les dispositions suivantes de la section 2.1 s'appliquent par analogie au déroulement et à l'aménagement de l'arrestation provisoire, de la garde et de la garde prolongée ainsi que de la détention provisoire et de la détention pour des motifs de sûreté concernant des adultes, sauf disposition contraire prévue ci-après:
 
-- a admission et hébergement, selon les articles 32 et 33,
+- a transport, selon l'article 25,
+- a1 admission et hébergement, selon les articles 32 et 33,
 - b valeurs patrimoniales, selon l'article 48,
 - c objets, selon les articles 49 à 51,
 - d formation et perfectionnement, selon l'article 53, alinéa 1,
@@ -1266,7 +1269,8 @@ arrête:
 
 <sup>1</sup> Les dispositions suivantes de la section 2.1 s'appliquent par analogie au déroulement et à l'aménagement de l'arrestation provisoire, de la garde et de la garde prolongée ainsi que de la détention provisoire et de la détention pour des motifs de sûreté concernant des mineurs, sauf disposition contraire prévue ci-après:
 
-- a admission et hébergement, selon les articles 32 et 33,
+- a transport, selon l'article 25,
+- a1 admission et hébergement, selon les articles 32 et 33,
 - b valeurs patrimoniales, selon l'article 48,
 - c objets, selon les articles 49 à 51,
 - d assistance médicale et alimentation, selon les articles 61 à 66,
@@ -1286,7 +1290,7 @@ arrête:
 
 #### Art. 106
 
-<sup>1</sup> Le placement dans un établissement d'exécution doit reposer sur un motif de détention au sens du CPP, de la loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux mineurs (procédure pénale applicable aux mineurs, PPMin)[^106-1], de la procédure pénale militaire du 23 mars 1979 (PPM)[^106-2] ou de la loi du ■■■ sur la police (LPol)[^106-3].
+<sup>1</sup> Le placement dans un établissement d'exécution doit reposer sur un motif de détention au sens du CPP, de la loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux mineurs (procédure pénale applicable aux mineurs, PPMin)[^106-1], de la procédure pénale militaire du 23 mars 1979 (PPM)[^106-2] ou de la loi du 10 février 2019 sur la police (LPol)[^106-3].
 
 [^106-1]: RS [312.1](https://db.clex.ch/link/Bund/312.1/fr)
 [^106-2]: RS [322.1](https://db.clex.ch/link/Bund/322.1/fr)
@@ -1413,7 +1417,8 @@ arrête:
 
 <sup>1</sup> Les dispositions suivantes de la section 2.1 s'appliquent par analogie au déroulement et à l'aménagement des mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté, sauf disposition contraire prévue dans la LiLFAE ou ci-après:
 
-- a admission et hébergement, selon les articles 32 et 33,
+- a transport, selon l'article 25,
+- a1 admission et hébergement, selon les articles 32 et 33,
 - b objets, selon les articles 49 à 51,
 - c assistance médicale et alimentation, selon les articles 61 à 66,
 - d relations avec le monde extérieur, selon les articles 67 à 74,
@@ -1610,11 +1615,21 @@ arrête:
 
 #### Art. 130
 
-<sup>1</sup> Les établissements d'exécution et les véhicules de transport peuvent, sur autorisation du chef ou de la cheffe de l'Office de l'exécution judiciaire, être équipés d'instruments techniques destinés à la surveillance visuelle et à l'enregistrement de données.
+**Établissements d'exécution**
 
-<sup>2</sup> La décision d'exploiter des données enregistrées dans les cas prévus par la loi est prise par deux membres de la direction de l'établissement d'exécution ou de celle du service de transport. L'exploitation par des autorités pénales est réservée.
+<sup>1</sup> La cheffe ou le chef de l'Office de l'exécution judiciaire est compétent pour autoriser le recours à des instruments techniques destinés à la surveillance visuelle et à l'enregistrement de données au sein des établissements d'exécution.
+
+<sup>2</sup> La décision d'exploiter des données enregistrées dans les cas prévus par la loi est prise par deux membres de la direction de l'établissement d'exécution. L'exploitation dans le cadre du CPP est réservée.
 
 <sup>3</sup> Le chef ou la cheffe de l'Office de l'exécution judiciaire doit être informée préalablement, motifs à l'appui, de l'exploitation de données enregistrées.
+
+#### Art. 130a
+
+**Véhicules de transport**
+
+<sup>1</sup> La commandante ou le commandant de la Police cantonale est compétent pour autoriser le recours à des instruments techniques destinées à la surveillance visuelle et à l'enregistrement de données dans les véhicules de transport.
+
+<sup>2</sup> La décision d'exploiter des données enregistrées dans les cas prévus par la loi est prise par la commandante ou par le commandant de la Police cantonale. L'exploitation dans le cadre du CPP est réservée.
 
 ### 3.3 Surveillance électronique au moyen d'instruments techniques
 
@@ -1641,7 +1656,7 @@ arrête:
 
 #### Art. 133
 
-<sup>1</sup> La direction de l'établissement d'exécution établit un plan de gestion des crises et des urgences, dans lequel elle détermine les processus à suivre pour garantir la sécurité en cas de situation extraordinaire, telle que notamment
+<sup>1</sup> La direction de l'établissement d'exécution établit, en concertation avec la POCA, un plan de gestion des crises et des urgences, dans lequel elle détermine les processus à suivre pour garantir la sécurité en cas de situation extraordinaire, telle que notamment
 
 - a incendie,
 - b catastrophe naturelle,

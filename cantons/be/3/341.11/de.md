@@ -4,13 +4,12 @@ number: "341.11"
 title: Verordnung über den Justizvollzug
 short: "Justizvollzugsverordnung, JVV"
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-12-07
+version: 2026-01-01
+version_adopted: 2025-11-05
 adopted: 2018-08-22
 in_force: 2018-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2771/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3254/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2771/pdf_file"
 
 (Justizvollzugsverordnung, JVV)
 
-vom 22.08.2018 (Stand 01.01.2023)
+vom 22.08.2018 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,9 +41,15 @@ beschliesst:
 
 **Amt für Justizvollzug (AJV)**
 
-<sup>1</sup> Das Amt für Justizvollzug (AJV) ist die für den Justizvollzug zuständige Stelle der Sicherheitsdirektion. Artikel 2 bleibt vorbehalten.
+<sup>1</sup> Das Amt für Justizvollzug (AJV) ist die für den Justizvollzug zuständige Stelle der Sicherheitsdirektion. Die Artikel 1a und 2 bleiben vorbehalten.
 
 <sup>2</sup> Es erlässt ein Organisationsreglement.
+
+#### Art. 1a
+
+**Kantonspolizei (KAPO)**
+
+<sup>1</sup> Die Kantonspolizei (KAPO) ist die zuständige Stelle der Sicherheitsdirektion für Transporte von eingewiesenen Personen, die sich im Justizvollzug befinden.
 
 #### Art. 2
 
@@ -95,7 +100,7 @@ beschliesst:
 
 #### Art. 6
 
-<sup>1</sup> Der Kanton Bern verfügt über die Regionalgefängnisse Bern, Biel, Burgdorf, Moutier und Thun.
+<sup>1</sup> Der Kanton Bern verfügt über die Regionalgefängnisse Bern, Biel, Burgdorf und Thun.
 
 ### 1.2.3 Justizvollzugsanstalten
 
@@ -145,23 +150,18 @@ beschliesst:
 
 - a Freiheitsstrafen,
 - b ambulanten strafrechtlichen Massnahmen während des Vollzugs einer gleichzeitig ausgesprochenen Freiheitsstrafe,
-- c Verwahrungen.
+- c Verwahrungen,
+- d freiheitsentziehenden Zwangsmassnahmen des Ausländerrechts.
 
 <sup>2</sup> Sie nimmt nur männliche Erwachsene auf.
 
-### 1.2.4 Jugendheim Lory
+<sup>3</sup> In Ausnahmefällen kann sie für den Vollzug gemäss Absatz 1 Buchstabe d weibliche Erwachsene sowie Jugendliche aufnehmen.
+
+### 1.2.4
 
 #### Art. 11
 
-<sup>1</sup> Das Jugendheim Lory dient dem Vollzug von
-
-- a freiheitsentziehenden strafrechtlichen Schutzmassnahmen und Freiheitsentzügen nach dem Bundesgesetz vom 20. Juni 2003 über das Jugendstrafrecht (Jugendstrafgesetz, JStG)[^11-1],
-- b Kindesschutzmassnahmen nach dem Schweizerischen Zivilgesetzbuch vom 10. Dezember 1907 (ZGB)[^11-2].
-
-<sup>2</sup> Es nimmt nur weibliche Jugendliche auf.
-
-[^11-1]: SR [311.1](https://db.clex.ch/link/Bund/311.1/de)
-[^11-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+**…**
 
 ### 1.2.5 Weitere Vollzugseinrichtungen
 
@@ -197,7 +197,7 @@ beschliesst:
 
 <sup>2</sup> Das Gesuch muss insbesondere folgende Angaben und Unterlagen enthalten:
 
-- a die Betriebsbewilligung nach der Sozialhilfegesetzgebung oder das Gesuch für eine Betriebsbewilligung gemäss Artikel 14 Absatz 2 JVG,
+- a die Betriebsbewilligung nach der Gesetzgebung über die sozialen Leistungsangebote oder das Gesuch für eine Betriebsbewilligung gemäss Artikel 14 Absatz 2 JVG,
 - b den Standort, den Grundriss und den Raumplan,
 - c das Organigramm,
 - d das Betriebs- und Sicherheitskonzept,
@@ -239,7 +239,7 @@ beschliesst:
 
 <sup>1</sup> Die privaten Einrichtungen haben ein Gesuch für eine Betriebsbewilligung gemäss Artikel 14 Absatz 2 JVG beim AJV einzureichen.
 
-<sup>2</sup> Das Gesuch muss sinngemäss insbesondere die Angaben und Unterlagen nach der Sozialhilfegesetzgebung enthalten.
+<sup>2</sup> Das Gesuch muss sinngemäss insbesondere die Angaben und Unterlagen nach der Gesetzgebung über die sozialen Leistungsangebote enthalten.
 
 <sup>3</sup> Die Sicherheitsdirektion entscheidet über das Gesuch.
 
@@ -247,7 +247,7 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Das AJV übt die Aufsicht über den Betrieb in den privaten Einrichtungen sinngemäss nach der Sozialhilfegesetzgebung aus und informiert die Sicherheitsdirektion periodisch und im Ereignisfall.
+<sup>1</sup> Das AJV übt die Aufsicht über den Betrieb in den privaten Einrichtungen sinngemäss nach der Gesetzgebung über die sozialen Leistungsangebote aus und informiert die Sicherheitsdirektion periodisch und im Ereignisfall.
 
 <sup>2</sup> Es kann mit Kontrollbesuchen überprüfen, ob die gesetzlichen Vorschriften und die Bewilligungsauflagen eingehalten werden, Berichte einholen und Kontrollen durch Fachpersonen anordnen.
 
@@ -329,13 +329,15 @@ beschliesst:
 
 #### Art. 25
 
-**Verlegung**
+**Transporte**
 
-<sup>1</sup> Das AJV ist zuständig für den Transport bei Verlegungen von einer Vollzugseinrichtung des AJV in eine andere Vollzugseinrichtung des Kantons Bern bei Einweisungen durch Behörden des Kantons Bern.
+<sup>1</sup> Die KAPO stellt die notwendigen Transporte von im Justizvollzug eingewiesenen Personen sicher, insbesondere bei Verlegungen und zur Wahrnehmung von Terminen vor Gerichten oder Behörden im Kanton.
 
-<sup>2</sup> Es kann den Transport gemäss Absatz 1 bei Einweisungen durch eine Behörde eines anderen Kantons oder des Bundes übernehmen.
+<sup>2</sup> …
 
-<sup>3</sup> Bei Bedarf können die Kantonspolizei und die Rettungsdienste beigezogen werden.
+<sup>3</sup> Bei Bedarf können die Rettungsdienste beigezogen werden.
+
+<sup>4</sup> Die KAPO entscheidet über die nötigen Sicherheitsmassnahmen basierend auf einer Risikoeinschätzung der Vollzugseinrichtung, von der aus der Transport durchgeführt wird.
 
 #### Art. 26
 
@@ -366,7 +368,7 @@ beschliesst:
 
 <sup>2</sup> Haus- und Erziehungsarbeit ist der Arbeit grundsätzlich gleichgestellt.
 
-<sup>3</sup> Ausländische Staatsangehörige müssen über ein Aufenthaltsrecht in der Schweiz und über eine Zulassung zur Ausübung einer Erwerbstätigkeit oder zu einer Aus- und Weiterbildung verfügen.
+<sup>3</sup> …
 
 #### Art. 28
 
@@ -381,7 +383,7 @@ beschliesst:
 - e die persönlichen, familiären oder beruflichen Verhältnisse der verurteilten Person nicht dagegen sprechen und
 - f anzunehmen ist, dass die verurteilte Person der Belastung dieser Vollzugsform gewachsen ist und das entgegengebrachte Vertrauen nicht missbraucht.
 
-<sup>2</sup> Ausländische Staatsangehörige müssen über ein Aufenthaltsrecht in der Schweiz verfügen.
+<sup>2</sup> …
 
 #### Art. 29
 
@@ -400,7 +402,7 @@ beschliesst:
 
 <sup>2</sup> Haus- und Erziehungsarbeit ist der Arbeit grundsätzlich gleichgestellt.
 
-<sup>3</sup> Ausländische Staatsangehörige müssen über ein Aufenthaltsrecht in der Schweiz und über eine Zulassung zur Ausübung einer Erwerbstätigkeit oder zu einer Aus- und Weiterbildung verfügen.
+<sup>3</sup> …
 
 #### Art. 30
 
@@ -1246,7 +1248,8 @@ beschliesst:
 
 <sup>1</sup> Die Durchführung und Ausgestaltung der vorläufigen Festnahme, des polizeilichen Gewahrsams, des Sicherheitsgewahrsams sowie der Untersuchungs- und Sicherheitshaft an Erwachsenen erfolgt sinngemäss nach den folgenden Bestimmungen von Abschnitt 2.1, soweit nachfolgend keine abweichenden Regelungen getroffen werden:
 
-- a Eintritt und Unterkunft gemäss den Artikeln 32 und 33,
+- a Transporte gemäss Artikel 25,
+- a1 Eintritt und Unterkunft gemäss den Artikeln 32 und 33,
 - b Vermögenswerte gemäss Artikel 48,
 - c Gegenstände gemäss den Artikeln 49 bis 51,
 - d Aus- und Weiterbildung gemäss Artikel 53 Absatz 1,
@@ -1266,7 +1269,8 @@ beschliesst:
 
 <sup>1</sup> Die Durchführung und Ausgestaltung der vorläufigen Festnahme, des polizeilichen Gewahrsams, des Sicherheitsgewahrsams sowie der Untersuchungs- und Sicherheitshaft an Jugendlichen erfolgt sinngemäss nach den folgenden Bestimmungen von Abschnitt 2.1, soweit nachfolgend keine abweichenden Regelungen getroffen werden:
 
-- a Eintritt und Unterkunft gemäss den Artikeln 32 und 33,
+- a Transporte gemäss Artikel 25,
+- a1 Eintritt und Unterkunft gemäss den Artikeln 32 und 33,
 - b Vermögenswerte gemäss Artikel 48,
 - c Gegenstände gemäss den Artikeln 49 bis 51,
 - d Gesundheitsfürsorge und Ernährung gemäss den Artikeln 61 bis 66,
@@ -1286,7 +1290,7 @@ beschliesst:
 
 #### Art. 106
 
-<sup>1</sup> Die Einweisung in die Vollzugseinrichtung muss sich auf einen Haftgrund gemäss der StPO, der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009 (Jugendstrafprozessordnung, JStPO)[^106-1], dem Militärstrafprozess vom 23. März 1979 (MStP)[^106-2] oder dem Polizeigesetz vom ■■■ (PolG)[^106-3] stützen.
+<sup>1</sup> Die Einweisung in die Vollzugseinrichtung muss sich auf einen Haftgrund gemäss der StPO, der Schweizerischen Jugendstrafprozessordnung vom 20. März 2009 (Jugendstrafprozessordnung, JStPO)[^106-1], dem Militärstrafprozess vom 23. März 1979 (MStP)[^106-2] oder dem Polizeigesetz vom 10. Februar 2019 (PolG)[^106-3] stützen.
 
 [^106-1]: SR [312.1](https://db.clex.ch/link/Bund/312.1/de)
 [^106-2]: SR [322.1](https://db.clex.ch/link/Bund/322.1/de)
@@ -1413,7 +1417,8 @@ beschliesst:
 
 <sup>1</sup> Die Durchführung der freiheitsentziehenden Zwangsmassnahmen des Ausländerrechts erfolgt sinngemäss nach den folgenden Bestimmungen von Abschnitt 2.1, soweit im EG AuG und AsylG und nachfolgend keine abweichenden Regelungen getroffen werden:
 
-- a Eintritt und Unterkunft gemäss den Artikeln 32 und 33,
+- a Transporte gemäss Artikel 25,
+- a1 Eintritt und Unterkunft gemäss den Artikeln 32 und 33,
 - b Gegenstände gemäss den Artikeln 49 bis 51,
 - c Gesundheitsfürsorge und Ernährung gemäss den Artikeln 61 bis 66,
 - d Beziehungen zur Aussenwelt gemäss den Artikeln 67 bis 74,
@@ -1610,11 +1615,21 @@ beschliesst:
 
 #### Art. 130
 
-<sup>1</sup> Die Vollzugseinrichtungen und Transportfahrzeuge können nach Genehmigung der Vorsteherin oder des Vorstehers des AJV mit technischen Geräten zur visuellen Überwachung und Aufzeichnung ausgerüstet werden.
+**Vollzugseinrichtungen**
 
-<sup>2</sup> Der Entscheid über eine Auswertung von aufgezeichneten Daten in den gesetzlich vorgesehenen Fällen wird von zwei Mitgliedern der Leitung der Vollzugseinrichtung oder des Transportdienstes getroffen. Vorbehalten bleibt die Auswertung durch die Strafbehörden.
+<sup>1</sup> Die Vorsteherin oder der Vorsteher des AJV genehmigt den Einsatz von technischen Geräten zur visuellen Überwachung und Aufzeichnung in Vollzugseinrichtungen.
+
+<sup>2</sup> Der Entscheid über eine Auswertung von aufgezeichneten Daten in den gesetzlich vorgesehenen Fällen wird von zwei Mitgliedern der Leitung der Vollzugseinrichtung getroffen. Vorbehalten bleibt die Auswertung im Rahmen der StPO.
 
 <sup>3</sup> Die Vorsteherin oder der Vorsteher des AJV ist vorgängig unter Angabe der Gründe über eine Auswertung von aufgezeichneten Daten zu informieren.
+
+#### Art. 130a
+
+**Transportfahrzeuge**
+
+<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant genehmigt den Einsatz von technischen Geräten zur visuellen Überwachung und Aufzeichnung in Transportfahrzeugen.
+
+<sup>2</sup> Der Entscheid über eine Auswertung von aufgezeichneten Daten in den gesetzlich vorgesehenen Fällen wird von der Polizeikommandantin oder dem Polizeikommandanten getroffen. Vorbehalten bleibt die Auswertung im Rahmen der StPO.
 
 ### 3.3 Elektronische Überwachung mit technischen Geräten
 
@@ -1641,7 +1656,7 @@ beschliesst:
 
 #### Art. 133
 
-<sup>1</sup> Die Leitung der Vollzugseinrichtung legt in einem Krisen- und Notfallkonzept die Abläufe zur Gewährleistung der Sicherheit in ausserordentlichen Situationen fest, wie namentlich
+<sup>1</sup> Die Leitung der Vollzugseinrichtung legt unter Einbezug der KAPO in einem Krisen- und Notfallkonzept die Abläufe zur Gewährleistung der Sicherheit in ausserordentlichen Situationen fest, wie namentlich
 
 - a Brand,
 - b Elementarereignisse,
