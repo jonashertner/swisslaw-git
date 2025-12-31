@@ -5,11 +5,12 @@ title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
 version: 2026-01-01
+corrected: 2025-08-13
 version_adopted: 2025-04-22
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3568/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3566/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -435,24 +436,11 @@ concluda:
 
 #### Art. 27
 
-**Cedels da votar e cedels electorals 1. cuntegn**
-
-<sup>1</sup> Per votaziuns sur d'ina chaussa cuntegna il cedel da votar la dumonda da votaziun ed il spazi per dar la resposta.
-
-<sup>2</sup> Per las elecziuns chantunalas e regiunalas da maiorz cuntegna il cedel electoral:
-
-- a) cun ina numeraziun cuntinuanta, ils nums e prenums da las candidatas e dals candidats che figureschan sin las propostas electoralas valaivlas, e quai mintgamai en successiun alfabetica; plinavant las ulteriuras indicaziuns davart las candidatas ed ils candidats (annada, professiun, domicil ed eventualmain appartegnientscha ad ina partida u ad ina gruppaziun sco er – per candidatas e candidats ch'eran gia en uffizi – la remartga "fin ussa");
-- b) davant mintga num in champ per far ina crusch.
-
-#### Art. 27a
-
-**2. emplenir**
+**Cedels da votar e cedels electorals**
 
 <sup>1</sup> Per la votaziun ston vegnir duvrads ils cedels da votar ed ils cedels electorals uffizials.
 
 <sup>2</sup> Ils cedels da votar ed ils cedels electorals ston vegnir emplenids respectivamain midads persunalmain ed a maun. L'artitgel 25 alinea 2 resta resalvà.
-
-<sup>3</sup> Sin ils cedels electorals per las elecziuns chantunalas e regiunalas da maiorz sto la vusch vegnir exprimida cun far ina crusch (x) tar las candidatas ed ils candidats en il champ previs tar ils nums prestampads. Sch'i vegn fatga ina crusch tar il num d'ina persuna proponida e sche quest num vegn a medem temp stritgà, na vegn la vusch betg quintada.
 
 #### Art. 28
 
@@ -557,11 +545,9 @@ concluda:
 
 #### Art. 33
 
-**3. cedels electorals u cedels da votar vids, vuschs vidas**
+**3. cedels electorals u cedels da votar vids**
 
-<sup>1</sup> Tar las elecziuns chantunalas e regiunalas da maiorz valan cedels electorals sco vids, sch'i n'è vegnì scrit insumma nagut sin els.
-
-<sup>2</sup> Cedels da votar valan sco vids, sch'els na cuntegnan nagina resposta a la dumonda ch'è vegnida suttamessa a la votaziun. Sch'in cedel da votar cuntegna pliras dumondas, valan las dumondas betg respundidas sco vuschs vidas.
+<sup>1</sup> Cedels electorals u cedels da votar valan sco vids, sch'els na cuntegnan nagin num respectivamain nagina resposta a la dumonda ch'è vegnida suttamessa a la votaziun. Sch'in cedel da votar cuntegna pliras dumondas, valan las dumondas betg respundidas sco vuschs vidas.
 
 #### Art. 34
 
@@ -576,8 +562,6 @@ concluda:
 - e) parts essenzialas mancan;
 - f) els cuntegnan "quel(s) u quella(s) fin ussa" u chaussas sumegliantas.
 
-<sup>1<sup>bis</sup></sup> Tar elecziuns chantunalas e regiunalas da maiorz èn cedels electorals er nunvalaivels, sch'il dumber da cruschs fatgas tar ils nums surpassa il dumber da persunas che pon vegnir elegidas.
-
 <sup>2</sup> Tar la votaziun per correspundenza èn ils cedels electorals u ils cedels da votar ultra da quai nunvalaivels, sche:
 
 - a) l'attest dal dretg da votar manca u n'è betg suttascrit;
@@ -589,21 +573,15 @@ concluda:
 
 #### Art. 35
 
-**5. vuschs nunvalaivlas tar elecziuns communalas da maiorz senza cedels electorals per far ina crusch**
+**5. vuschs nunvalaivlas tar elecziuns**
 
-<sup>1</sup> Per elecziuns communalas da maiorz senza cedels electorals per far ina crusch valan, areguard la nunvalaivladad da vuschs, las regulaziuns da l'alinea 2 e da l'alinea 3, uschenavant ch'il dretg communal na prescriva betg insatge auter.
-
-- a) …
-- b) …
-- c) …
-
-<sup>2</sup> Ina vusch è nunvalaivla, sch'ella:
+<sup>1</sup> Ina vusch è nunvalaivla, sch'ella:
 
 - a) vegn dada ad ina persuna che na po betg vegnir elegida;
 - b) vegn dada ad ina persuna ch'è gia menziunada sin il medem cedel electoral (cumulaziun);
-- c) procura per dubis giustifitgads, per tgi ch'ella vala.
+- c) lascha avert dubis motivads per tgi ch'ella valia.
 
-<sup>3</sup> Sch'in cedel electoral cuntegna dapli nums valaivels che persunas che pon vegnir elegidas, èn las vuschs da memia nunvalaivlas. Ils nums vegnan stritgads da sut ensi e da dretga a sanestra.
+<sup>2</sup> Sch'in cedel electoral cuntegna dapli nums valaivels che persunas che pon vegnir elegidas, èn las vuschs da memia nunvalaivlas. Ils nums vegnan stritgads da sut ensi e da dretga a sanestra.
 
 #### Art. 36
 

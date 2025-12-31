@@ -5,11 +5,12 @@ title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
 version: 2026-01-01
+corrected: 2025-08-13
 version_adopted: 2025-04-22
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3568/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3566/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -435,24 +436,11 @@ beschliesst:
 
 #### Art. 27
 
-**Stimm- und Wahlzettel 1. Inhalt**
-
-<sup>1</sup> Der Stimmzettel enthält bei Sachabstimmungen die Abstimmungsfrage und den Raum zur Beantwortung.
-
-<sup>2</sup> Der Wahlzettel enthält bei den kantonalen und regionalen Majorzwahlen:
-
-- a) mit fortlaufender Nummerierung die auf den gültigen Wahlvorschlägen aufgeführten Namen und Vornamen der Kandidierenden in alphabetischer Reihenfolge und die weiteren Angaben zu den Kandidierenden (Jahrgang, Berufsbezeichnung, Wohnort und gegebenenfalls Zugehörigkeit zu einer Partei oder Gruppierung sowie bei bisherigen Amtsinhaberinnen und Amtsinhabern den Vermerk "bisher");
-- b) vor jedem Namen ein Feld zum Ankreuzen.
-
-#### Art. 27a
-
-**2. Ausfüllen**
+**Stimm- und Wahlzettel**
 
 <sup>1</sup> Für die Stimmabgabe müssen die amtlichen Stimm- und Wahlzettel benutzt werden.
 
 <sup>2</sup> Stimm- und Wahlzettel müssen persönlich und handschriftlich ausgefüllt beziehungsweise geändert werden. Artikel 25 Absatz 2 bleibt vorbehalten.
-
-<sup>3</sup> Auf den Wahlzetteln für die kantonalen und regionalen Majorzwahlen sind für die Stimmabgabe die vorgedruckten Namen der Kandidierenden im vorgesehenen Feld anzukreuzen (x). Wird der Name einer vorgeschlagenen Person angekreuzt und zugleich gestrichen, wird die Stimme nicht gezählt.
 
 #### Art. 28
 
@@ -557,11 +545,9 @@ beschliesst:
 
 #### Art. 33
 
-**3. Leere Wahl- oder Stimmzettel, leere Stimmen**
+**3. Leere Wahl- oder Stimmzettel**
 
-<sup>1</sup> Wahlzettel gelten bei den kantonalen und regionalen Majorzwahlen als leer, wenn sie überhaupt nicht beschriftet worden sind.
-
-<sup>2</sup> Stimmzettel gelten als leer, wenn sie keine Antwort auf die zur Abstimmung unterbreitete Frage enthalten. Wenn ein Stimmzettel mehrere Fragen umfasst, gelten unbeantwortete Fragen als leere Stimmen.
+<sup>1</sup> Wahl- oder Stimmzettel gelten als leer, wenn sie keinen Namen beziehungsweise keine Antwort auf die zur Abstimmung unterbreitete Frage enthalten. Wenn ein Stimmzettel mehrere Fragen umfasst, gelten die unbeantworteten Fragen als leere Stimmen.
 
 #### Art. 34
 
@@ -576,8 +562,6 @@ beschliesst:
 - e) wesentliche Teile fehlen;
 - f) sie auf die "Bisherigen" oder ähnlich lauten.
 
-<sup>1<sup>bis</sup></sup> Bei den kantonalen und regionalen Majorzwahlen sind überdies Wahlzettel ungültig, bei denen die Zahl der angekreuzten Namen die Zahl der zu wählenden Personen übersteigt.
-
 <sup>2</sup> Bei der brieflichen Stimmabgabe sind die Wahl- oder Stimmzettel zudem ungültig, wenn:
 
 - a) der Stimmrechtsausweis nicht beiliegt oder nicht unterschrieben ist;
@@ -589,21 +573,15 @@ beschliesst:
 
 #### Art. 35
 
-**5. Ungültige Stimmen bei kommunalen Majorzwahlen ohne Wahlzettel zum Ankreuzen**
+**5. Ungültige Stimmen bei Wahlen**
 
-<sup>1</sup> Bei kommunalen Majorzwahlen ohne Wahlzettel zum Ankreuzen gelten bezüglich der Ungültigkeit von Stimmen die Regelungen gemäss Absatz 2 und Absatz 3, soweit das Gemeinderecht nichts bestimmt.
-
-- a) …
-- b) …
-- c) …
-
-<sup>2</sup> Eine Stimme ist ungültig, wenn sie:
+<sup>1</sup> Eine Stimme ist ungültig wenn sie:
 
 - a) einer nicht wählbaren Person gilt;
-- b) auf eine Person lautet, deren Namen derselbe Wahlzettel bereits enthält (Kumulation);
-- c) begründete Zweifel darüber offenlässt, wem sie gilt.
+- b) auf eine Person lautet, die derselbe Stimmzettel bereits enthält (Kumulation);
+- c) begründete Zweifel darüber offen lässt, wem sie gilt.
 
-<sup>3</sup> Enthält ein Wahlzettel mehr gültige Namen als Personen zu wählen sind, sind die überzähligen Stimmen ungültig. Die Namen werden von unten nach oben und von rechts nach links gestrichen.
+<sup>2</sup> Enthält ein Wahlzettel mehr gültige Namen, als Personen zu wählen sind, sind die überzähligen Stimmen ungültig. Die Namen werden von unten nach oben und von rechts nach links gestrichen.
 
 #### Art. 36
 

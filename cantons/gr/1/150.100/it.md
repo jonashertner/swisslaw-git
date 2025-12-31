@@ -5,11 +5,12 @@ title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
 version: 2026-01-01
+corrected: 2025-08-13
 version_adopted: 2025-04-22
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3568/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3566/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -435,24 +436,11 @@ decide:
 
 #### Art. 27
 
-**Schede elettorali e di voto 1. Contenuto**
+**Schede elettorali e di voto**
 
-<sup>1</sup> In caso di votazioni su oggetti, la scheda di voto contiene la domanda posta in votazione e lo spazio per la risposta.
+<sup>1</sup> Per l'esercizio del diritto di voto devono essere utilizzate le schede elettorali e di voto ufficiali.
 
-<sup>2</sup> In caso di elezioni cantonali e regionali secondo il sistema maggioritario la scheda elettorale contiene:
-
-- a) con numerazione progressiva, i cognomi e i nomi dei candidati figuranti sulle proposte di candidatura valide in ordine alfabetico e le ulteriori informazioni relative ai candidati (anno di nascita, designazione della professione, domicilio ed eventualmente appartenenza a un partito o a un gruppo nonché, nel caso di candidati uscenti, l'annotazione "uscente");
-- b) prima di ogni nome, una casella nella quale apporre una crocetta.
-
-#### Art. 27a
-
-**2. Compilazione**
-
-<sup>1</sup> Per l'espressione del voto devono essere utilizzate le schede elettorali e di voto ufficiali.
-
-<sup>2</sup> Le schede elettorali e di voto devono essere compilate rispettivamente modificate personalmente e a mano. È fatto salvo l'articolo 25 capoverso 2.
-
-<sup>3</sup> Sulle schede elettorali per le elezioni cantonali e regionali secondo il sistema maggioritario, per esprimere il voto occorre apporre una crocetta (x) nella casella prevista accanto ai nomi prestampati dei candidati. Se il nome di una persona proposta viene segnato con una crocetta e al contempo viene cancellato, il voto non viene considerato.
+<sup>2</sup> Le schede elettorali e di voto devono essere compilate rispettivamente modificate personalmente e a mano. E' fatto salvo l'articolo 25 capoverso 2.
 
 #### Art. 28
 
@@ -557,11 +545,9 @@ decide:
 
 #### Art. 33
 
-**3. Schede elettorali o di voto bianche, voti in bianco**
+**3. Schede elettorali o di voto bianche**
 
-<sup>1</sup> In caso di elezioni cantonali e regionali secondo il sistema maggioritario le schede elettorali sono considerate bianche se non vi è stata apposta nessuna scritta.
-
-<sup>2</sup> Le schede di voto sono considerate bianche se non riportano alcuna risposta alla domanda posta in votazione. Se una scheda di voto contiene più domande, le domande senza risposta sono considerate come voti in bianco.
+<sup>1</sup> Le schede elettorali o di voto sono considerate bianche se non riportano alcun nome rispettivamente alcuna risposta alla domanda posta in votazione. Se una scheda di voto contiene più domande, le domande senza risposta sono considerate come voti in bianco.
 
 #### Art. 34
 
@@ -576,8 +562,6 @@ decide:
 - e) mancano parti essenziali;
 - f) figurano indicazioni come "finora" e simili.
 
-<sup>1<sup>bis</sup></sup> In caso di elezioni cantonali e regionali secondo il sistema maggioritario sono inoltre considerate nulle le schede elettorali sulle quali il numero dei nomi segnati con una crocetta è superiore al numero di persone da eleggere.
-
 <sup>2</sup> In caso di voto per corrispondenza le schede elettorali o di voto sono inoltre nulle se:
 
 - a) la carta di legittimazione non è allegata o firmata;
@@ -589,21 +573,15 @@ decide:
 
 #### Art. 35
 
-**5. Voti nulli in caso di elezioni comunali secondo il sistema maggioritario senza schede elettorali a crocette**
+**5. Suffragi nulli in caso di elezioni**
 
-<sup>1</sup> Se il diritto comunale non stabilisce nulla al riguardo, in caso di elezioni comunali secondo il sistema maggioritario senza schede elettorali a crocette, per quanto riguarda la nullità di voti fanno stato le regolamentazioni di cui al capoverso 2 e al capoverso 3.
+<sup>1</sup> Un suffragio è nullo se:
 
-- a) …
-- b) …
-- c) …
+- a) viene dato ad una persona non eleggibile;
+- b) viene dato ad una persona già figurante sulla stessa scheda (cumulazione);
+- c) permangono dubbi riguardo alla sua attribuzione.
 
-<sup>2</sup> Un voto è nullo se:
-
-- a) viene dato a una persona non eleggibile;
-- b) viene dato a una persona il cui nome figura già sulla stessa scheda elettorale (cumulazione);
-- c) permangono dubbi fondati riguardo alla sua attribuzione.
-
-<sup>3</sup> Se una scheda elettorale contiene più nomi validi rispetto al numero di persone da eleggere, i voti eccedenti sono nulli. I nomi vengono cancellati dal basso verso l'alto e da destra verso sinistra.
+<sup>2</sup> Se una scheda elettorale contiene più nomi validi rispetto al numero di persone da eleggere, i suffragi eccedenti sono nulli. I nomi vengono cancellati dal basso verso l'alto e da destra verso sinistra.
 
 #### Art. 36
 
