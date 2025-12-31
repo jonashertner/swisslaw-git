@@ -4,13 +4,12 @@ number: "312.1"
 title: Gesetz über die Volksschule
 short: "Volksschulgesetz, VSG"
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-25
+version: 2026-01-01
+version_adopted: 2024-10-23
 adopted: 2002-04-17
 in_force: 2002-08-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/312.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1338/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1441/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1338/pdf_file"
 
 (Volksschulgesetz, VSG)
 
-vom 17.04.2002 (Stand 01.08.2025)
+vom 17.04.2002 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -196,17 +195,16 @@ beschliesst:
 - 5\. Zuteilung der finanziellen Mittel, über welche die Schulleitung im Rechnungsjahr verfügen kann;
 - 6\. Genehmigung des Schulprogramms;
 - 7\. Erlass von Hausordnungen;
-- 8\. Anstellung und Entlassung der Lehrpersonen und der übrigen Mitarbeitenden, vorbehalten bleibt Art. 20 Abs. 2 des Bildungsgesetzes[^14-1];
+- 8\. …
 - 9\. Aufsicht und Beurteilung der Schulleitung;
 - 10\. Sicherstellung der Beurteilung der Lehrpersonen;
 - 11\. Aufsicht über den Schulbetrieb; er führt zu diesem Zweck auch Schulbesuche durch;
 - 12\. Anordnung von Massnahmen zur Qualitätsförderung;
 - 13\. Aufsicht über die Einhaltung der Schulpflicht.
 
-<sup>3</sup> Im Übrigen richten sich seine Aufgaben nach den Bestimmungen des Gemeindegesetzes[^14-2] über den administrativen Rat.
+<sup>3</sup> Im Übrigen richten sich seine Aufgaben nach den Bestimmungen des Gemeindegesetzes[^14-1] über den administrativen Rat.
 
-[^14-1]: NG 311.1
-[^14-2]: NG 171.1
+[^14-1]: NG 171.1
 
 #### Art. 15
 
@@ -214,7 +212,7 @@ beschliesst:
 
 <sup>1</sup> Wird eine Schulgemeinde aufgehoben, treten an die Stelle des Schulrats der Gemeinderat und eine Schulkommission.
 
-<sup>2</sup> Der Gemeinderat hat alle Aufgaben des Schulrats, soweit diese nicht durch die Gemeindeordnung der Schulkommission übertragen werden. Die Aufgaben gemäss Art. 14 Abs. 2 Ziff. 6–13 sind in jedem Fall der Schulkommission zu übertragen.
+<sup>2</sup> Der Gemeinderat nimmt alle Aufgaben des Schulrats wahr, soweit die Gemeinden diese nicht in der Gesetzgebung der Schulkommission übertragen. Die Aufgaben gemäss Art. 14 Abs. 2 Ziff. 6 ff. sind in jedem Fall der Schulkommission zu übertragen.
 
 <sup>3</sup> Die Gemeindeordnung legt fest, ob die Schulkommission vom Gemeinderat oder von den Stimmberechtigten gewählt wird. Die Mitgliederzahl wird ebenfalls in der Gemeindeordnung bestimmt. Das für die Schule zuständige Mitglied des Gemeinderates präsidiert die Schulkommission.
 
@@ -622,6 +620,8 @@ beschliesst:
 
 <sup>4</sup> …
 
+<sup>5</sup> Der Schulrat kann die Massnahmen gemäss Abs. 3 Ziff. 1 und 2 in einer Verordnung der Schulleitung übertragen.
+
 #### Art. 55
 
 **Ausschluss**
@@ -782,7 +782,7 @@ beschliesst:
 
 <sup>1</sup> Schülerinnen und Schüler, die eine Privatschule besuchen, können bei der Schulgemeinde ihres Wohnsitzes die in der Volksschule den Schülerinnen und Schülern abgegebenen obligatorischen Lehrmittel unentgeltlich beziehen.
 
-<sup>2</sup> Sie haben an ihrem Wohnort Anspruch auf Therapien gemäss Art. 40 Abs. 3 einschliesslich der dafür nötigen Abklärungen. Der Schulrat entscheidet über Art und Umfang der Leistungen.
+<sup>2</sup> Sie haben an ihrem Wohnort Anspruch auf Therapien einschliesslich der dafür nötigen Abklärungen. Der Schulrat entscheidet über Art und Umfang der Leistungen.
 
 <sup>3</sup> Im Übrigen besteht kein Anspruch auf die von der öffentlichen Volksschule zur Verfügung gestellten Leistungen.
 
