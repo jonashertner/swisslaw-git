@@ -4,13 +4,12 @@ number: "650"
 title: Gesetz über Abgaben und Beiträge im Tourismus
 short: Tourismusgesetz
 language: de
-version: 2013-06-01
-valid_until: 2025-12-31
-version_adopted: 2012-05-14
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 1996-01-30
 in_force: 1996-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/650"
-pdf: "https://srl.lu.ch/api/de/versions/2345/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4640/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/2345/pdf_file"
 
 (Tourismusgesetz)
 
-vom 30.01.1996 (Stand 01.06.2013)
+vom 30.01.1996 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz bezweckt die Förderung des Tourismus. Es regelt die Finanzierung der Förderungsmassnahmen und die Zuständigkeiten.
 
-<sup>2</sup> Bei allen Massnahmen ist ein umweltverträglicher, qualitätsorientierter und regional angepasster Tourismus anzustreben. Die natürlichen Lebensgrundlagen, Natur, Landschaft und Ortsbilder sind zu schonen.
+<sup>2</sup> Bei allen Massnahmen ist ein umwelt- und gesellschaftsverträglicher, qualitätsorientierter und regional angepasster Tourismus anzustreben. Die natürlichen Lebensgrundlagen, Natur, Landschaft und Ortsbilder sind zu schonen.
 
 #### § 2
 
@@ -75,21 +74,36 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Für die Finanzierung des Tourismusmarketings erhebt der Kanton eine Beherbergungsabgabe.
+<sup>1</sup> Für die Finanzierung der Tourismusförderung erhebt der Kanton eine Beherbergungsabgabe.
+
+<sup>2</sup> Die Tourismusförderung verfolgt eine volkswirtschaftlich positive Wirkung sowie die nachhaltige Entwicklung des Tourismus. Das Tourismusleitbild gibt den strategischen Rahmen und die Umsetzungsschwerpunkte vor.
 
 #### § 5
 
-**Träger des Tourismusmarketings**
+**Träger der Tourismusförderung**
 
-<sup>1</sup> Das Tourismusmarketing ist Sache der touristischen Organisationen.
+<sup>1</sup> Die Tourismusförderung ist grundsätzlich Sache der touristischen Organisationen.
 
 #### § 6
 
 **Leistungsvereinbarungen**
 
-<sup>1</sup> Die Zuteilung von Einnahmen aus der Beherbergungsabgabe setzt eine Leistungsvereinbarung zwischen der touristischen Organisation und dem Kanton voraus. Darin werden insbesondere die zu erbringenden Leistungen, die mit dem Tourismusmarketing angestrebten Ziele und die Berichterstattung festgelegt.
+<sup>1</sup> Die Zuteilung von Einnahmen aus der Beherbergungsabgabe setzt eine Leistungsvereinbarung zwischen der touristischen Organisation und dem Kanton voraus.
 
-<sup>2</sup> Leistungsvereinbarungen werden mit touristischen Organisationen abgeschlossen, die Tourismusmarketing mit überregionaler Bedeutung betreiben.
+<sup>1 <sup>bis</sup></sup> In der Leistungsvereinbarung ist Folgendes festzulegen:
+
+- a. zu erbringende Leistungen,
+- b. die mit der Tourismusförderung angestrebten Ziele,
+- c. verbindliche Parameter,
+- d. Art und Form der Berichterstattung.
+
+<sup>2</sup> Leistungsvereinbarungen werden mit touristischen Organisationen abgeschlossen, die Tourismusförderung mit überregionaler Bedeutung betreiben.
+
+#### § 6a
+
+**Projektbezogene Beiträge**
+
+<sup>1</sup> Der Kanton kann aus den Einnahmen der kantonalen Beherbergungsabgabe projektbezogene Beiträge an Massnahmen der Tourismusförderung gewähren. Für deren Finanzierung ist keine Leistungsvereinbarung nach § 6 notwendig.
 
 #### § 7
 
@@ -97,9 +111,11 @@ beschliesst:
 
 <sup>1</sup> Eine Beherbergungsabgabe hat zu entrichten, wer
 
-- a. gegen Entgelt in Hotels, Motels, Gasthäusern, Fremdenpensionen, Jugendherbergen und andern Beherbergungsbetrieben Gäste aufnimmt,
-- b. Fremdenzimmer, Ferienwohnungen, Ferienhäuser, Camping- oder Caravaningplätze vermietet,
+- a. gegen Entgelt in Hotels, Motels, Gasthäusern, Pensionen, Jugendherbergen und anderen Beherbergungsbetrieben Gäste aufnimmt,
+- b. gegen Entgelt oder andere geldwerte Gegenleistungen insbesondere Zimmer, Ferienwohnungen, Ferienhäuser, Camping- oder Caravaningplätze sowie Campingstellplätze zur Verfügung stellt,
 - c. gewinnorientierte Schulen auf Internatsbasis betreibt.
+
+<sup>2</sup> Die Abgabepflicht besteht auch, wenn die Angebote gemäss Absatz 1 über Dritte publiziert, vermarktet oder vermittelt werden, oder wenn der Beherbergungsvertrag über Dritte oder auf anderem Wege zustande kommt.
 
 #### § 8
 
@@ -107,17 +123,20 @@ beschliesst:
 
 <sup>1</sup> Von der Abgabepflicht ausgenommen sind
 
-- a. Anstalten des Bundes, des Kantons und der Gemeinden,
-- b. juristische Personen, die im Sinn von § 70 des Steuergesetzes[^8-1] steuerbefreit sind und ohne Gewinnabsicht Spitäler, Heilstätten, Schulinternate, Alters-, Ferien- und Erholungsheime betreiben,
+- a. …
+- b. juristische Personen, die im Sinn von § 70 des Steuergesetzes[^8-1] steuerbefreit sind und ohne Gewinnabsicht insbesondere Spitäler, Heilstätten, Schulinternate, Alters-, Ferien- und Erholungsheime betreiben,
 - c. Sport-, Touristen- und Jugendvereinigungen, soweit sie ihre Unterkunftshäuser für eigene Zwecke verwenden,
-- d. Privatpersonen, die Zimmer an abgabepflichtige Beherbergungsbetriebe vermieten. Die Zimmer werden den betreffenden Beherbergungsbetrieben zugerechnet.
+- d. Privatpersonen, die Zimmer an abgabepflichtige Beherbergungsbetriebe vermieten. Die Zimmer werden den betreffenden Beherbergungsbetrieben zugerechnet,
+- e. Beherbergende, die Land für Zeltlager für Kinder und Jugendliche unter 16 Jahren zur Verfügung stellen.
 
 <sup>2</sup> Keine Abgaben sind zu entrichten für die Beherbergung von
 
-- a. Kindern unter 12 Jahren,
-- b. Jugendlichen unter 16 Jahren in Jugendherbergen,
-- c. Militärpersonen sowie Angehörigen der Feuerwehr und des Zivilschutzes, die sich aus dienstlichen Gründen am Abgabeort aufhalten,
-- d. Personen mit steuerrechtlichem Wohnsitz am Abgabeort.
+- a. Kindern und Jugendlichen unter 16 Jahren,
+- b. …
+- c. Personen, die sich aus dienstlichen Gründen am Abgabeort aufhalten, insbesondere Angehörige der Armee, der Polizei, der Feuerwehr und des Zivilschutzes,
+- d. Personen mit steuerrechtlichem Wohnsitz am Abgabeort,
+- e. Fahrenden,
+- f. Flüchtlingen und Asylsuchenden.
 
 [^8-1]: SRL Nr. [620](https://srl.lu.ch/data/620/de)
 
@@ -125,9 +144,9 @@ beschliesst:
 
 **Höhe der Abgabe**
 
-<sup>1</sup> Die Beherbergungsabgabe beträgt 50 Rappen je Person und Logiernacht.
+<sup>1</sup> Die Beherbergungsabgabe beträgt 110 Rappen je Person und Logiernacht.
 
-<sup>2</sup> Der Regierungsrat kann die Abgabe auf maximal 80 Rappen erhöhen. Eine Erhöhung ist mindestens zwei Jahre vorher festzulegen. Er berücksichtigt dabei die finanziellen Bedürfnisse der touristischen Organisationen.
+<sup>2</sup> Der Regierungsrat kann die Abgabe auf maximal 150 Rappen erhöhen. Eine Erhöhung ist mindestens ein Jahr vorher auf Beginn eines neuen Kalenderjahres festzulegen. Der Regierungsrat berücksichtigt dabei den Mittelbedarf der Tourismusförderung in Abstimmung mit den touristischen Organisationen.
 
 #### § 10
 
@@ -149,9 +168,9 @@ beschliesst:
 
 **Zweck und Höhe der Abgabe**
 
-<sup>1</sup> Die Gemeinden sind ermächtigt, zusätzlich zur kantonalen Beherbergungsabgabe eine örtliche Beherbergungsabgabe je Person und Logiernacht zur Finanzierung des örtlichen Tourismusmarketings zu erheben.
+<sup>1</sup> Die Gemeinden sind ermächtigt, zusätzlich zur kantonalen Beherbergungsabgabe eine örtliche Beherbergungsabgabe je Person und Logiernacht zur Finanzierung der örtlichen Tourismusförderung zu erheben.
 
-<sup>2</sup> Die örtliche Beherbergungsabgabe darf nicht höher sein als die jeweilige kantonale Beherbergungsabgabe.
+<sup>2</sup> Die örtliche Beherbergungsabgabe darf maximal 150 Rappen je Person und Logiernacht betragen.
 
 #### § 13
 
@@ -177,9 +196,11 @@ beschliesst:
 
 <sup>2</sup> Sie kann erhoben werden für jede Übernachtung von Gästen
 
-- a. in Hotels, Motels, Gasthäusern, Fremdenpensionen, Jugendherbergen und anderen Beherbergungsbetrieben,
-- b. in Fremdenzimmern, Ferienwohnungen, Ferienhäusern, auf Camping- oder Caravaningplätzen,
+- a. in Hotels, Motels, Gasthäusern, Pensionen, Jugendherbergen und anderen Beherbergungsbetrieben,
+- b. in Zimmern, Ferienwohnungen, Ferienhäusern, auf Camping- oder Caravaningplätzen, auf Campingstellplätzen und dergleichen,
 - c. in gewinnorientierten Schulen auf Internatsbasis.
+
+<sup>2<sup>bis</sup></sup> Die Abgabepflicht besteht auch, wenn die Angebote gemäss Absatz 2 über Dritte publiziert, vermarktet oder vermittelt werden, oder wenn der Beherbergungsvertrag über Dritte oder auf anderem Wege zustande kommt.
 
 <sup>3</sup> Wer auf seinem Grundeigentum (Art. 655 ZGB) übernachtet, kann ebenfalls taxpflichtig erklärt werden, wenn sie oder er den gesetzlichen Wohnsitz nicht in der Gemeinde hat.
 
@@ -199,9 +220,11 @@ beschliesst:
 
 <sup>2</sup> Als Bemessungsgrundlage für die Kurtaxe dienen insbesondere die am Ort angebotenen Einrichtungen, Veranstaltungen und Dienstleistungen für die Gäste.
 
-<sup>3</sup> Eigentümerinnen und Eigentümer von Ferienhäusern, Ferienwohnungen, Zelten und Wohnwagen können ihre Taxen in Form einer Jahrespauschale entrichten, ebenso Dauermieterinnen und -mieter, die solche Wohnungen für mindestens drei Monate im Kalenderjahr mieten. Gäste in Beherbergungsbetrieben gemäss § 15 Absatz 2a bezahlen ihre Kurtaxe auch bei Daueraufenthalt pro Logiernacht.
+<sup>3</sup> Eigentümerinnen und Eigentümer von Ferienhäusern, Ferienwohnungen, Zelten und Wohnwagen können ihre Taxen in Form einer Jahrespauschale entrichten, ebenso Dauermieterinnen und -mieter, die solche Objekte für mindestens drei Monate im Kalenderjahr mieten. Mit der Pauschale sind alle Übernachtungen der taxpflichtigen Person, ihrer Angehörigen und Gäste sowie Übernachtungen von Dritten bei gelegentlicher Vermietung des Objektes abgegolten. Gäste in Beherbergungsbetrieben gemäss § 15 Absatz 2a bezahlen ihre Kurtaxe auch bei Daueraufenthalt pro Logiernacht.
 
-<sup>4</sup> Als Bemessungsgrundlage für die Jahrespauschale dienen insbesondere die am Ort angebotenen Einrichtungen, Veranstaltungen und Dienstleistungen für die Gäste und die Anzahl Betten im bewohnten Raum.
+<sup>3<sup>bis</sup></sup> Bei gewerblich vermieteten Ferienhäusern und Ferienwohnungen ist die Jahrespauschale nicht zulässig. Als gewerbliche Vermietung gilt auch die Vermietung von privaten Ferienhäusern und Ferienwohnungen, wenn die Eigentümerinnen und Eigentümer diese mehr als eine festgelegte Anzahl Tage pro Jahr entgeltlich vermieten. Die Frist nach Tagen ist durch die Gemeinde im Reglement nach § 18 Absatz 2 zu bestimmen.
+
+<sup>4</sup> Als Bemessungsgrundlage für die Jahrespauschale dienen insbesondere die am Ort angebotenen Einrichtungen, Veranstaltungen und Dienstleistungen für die Gäste und die Anzahl Betten, Zimmer oder die Wohnfläche im bewohnten Raum.
 
 <sup>5</sup> In Streitfällen entscheidet die Gemeinde.
 
@@ -221,7 +244,8 @@ beschliesst:
 - f. die Ablieferungstermine für die Kurtaxen,
 - g. weitere Taxbefreiungen und Taxermässigungen,
 - h. die Verwendung der Kurtaxen,
-- i. die Aufsicht und die Rechnungsablage.
+- i. die Aufsicht und die Rechnungsablage,
+- j. die Frist nach Tagen für die gewerbliche Vermietung nach § 17 Absatz 3<sup>bis</sup>.
 
 <sup>3</sup> Die Gemeinde beaufsichtigt die Beauftragten hinsichtlich Inkasso, Verwaltung und Verwendung der Kurtaxen. Diese sind verpflichtet, zuhanden der Gemeinde jährlich Rechnung über die Kurtaxen abzulegen.
 
@@ -231,7 +255,7 @@ beschliesst:
 
 **Grundsatz und Zweck**
 
-<sup>1</sup> Die Gemeinden können von selbständigerwerbenden natürlichen und juristischen Personen, deren Tätigkeit ganz oder teilweise auf die Befriedigung der Nachfrage nach touristischen Leistungen gerichtet ist, eine Abgabe auf dem tourismusbedingten Umsatz erheben.
+<sup>1</sup> Die Gemeinden können von selbständigerwerbenden natürlichen und juristischen Personen, deren Tätigkeit ganz oder teilweise auf die Befriedigung der Nachfrage nach touristischen Leistungen gerichtet ist, eine Abgabe auf den tourismusbedingten Umsatz oder auf eine andere von der Gemeinde festgelegte geeignete Bemessungsgrundlage erheben.
 
 <sup>2</sup> Der Ertrag der Abgabe ist für touristische Massnahmen zu verwenden, die im überwiegenden Interesse der Abgabepflichtigen liegen. Die Abgaben dürfen nicht für die Finanzierung von ordentlichen Gemeindeaufgaben verwendet werden.
 
@@ -239,7 +263,9 @@ beschliesst:
 
 **Höhe, Veranlagung; Befreiung von der Abgabe**
 
-<sup>1</sup> Objekt bildet der im Kalenderjahr erzielte tourismusbedingte Umsatz in der Gemeinde ansässiger Betriebe beziehungsweise Betriebsteile. Er umfasst alle durch Dienstleistungen und Warenverkäufe an Touristinnen und Touristen erzielten Einnahmen.
+<sup>1</sup> Objekt bildet der im Kalenderjahr erzielte tourismusbedingte Umsatz in der Gemeinde ansässiger Betriebe beziehungsweise Betriebsteile oder eine andere von der Gemeinde festgelegte geeignete Bemessungsgrundlage. Der tourismusbedingte Umsatz umfasst alle durch Dienstleistungen und Warenverkäufe an Touristinnen und Touristen erzielten Einnahmen.
+
+<sup>1<sup>bis</sup></sup> Wird die Tourismusabgabe auf den tourismusbedingten Umsatz erhoben, so gelten die Absätze 2 bis 4.
 
 <sup>2</sup> Die jährliche Abgabe je Betrieb beziehungsweise Betriebsteil darf 1 Promille des tourismusbedingten Umsatzes nicht überschreiten. Die Abgabe kann als Pauschale erhoben werden. Die Pauschale wird nach der approximativen Höhe des tourismusbedingten Umsatzes abgestuft.
 
@@ -260,17 +286,51 @@ beschliesst:
 - a. die maximale Höhe der Abgabe,
 - b. die Verwendung der Abgabe,
 - c. das Inkasso und die Verwaltung der Abgabe,
-- d. die Aufsicht und die Rechnungsablage.
+- d. die Aufsicht und die Rechnungsablage,
+- e. das Abgabeobjekt,
+- f. der genaue Kreis der Abgabepflichtigen.
 
 <sup>3</sup> …
 
 ### 2.4 Gemeinsame Bestimmungen
 
+#### § 21a
+
+**Auskunfts- und Mitwirkungspflicht**
+
+<sup>1</sup> Abgabepflichtige und Dritte haben den zuständigen Stellen auf deren Antrag die für den Vollzug der Abgabenerhebung notwendigen Daten in geeigneter Form zur Verfügung zu stellen.
+
+<sup>2</sup> Die Modalitäten dieser Auskunfts- und Mitwirkungspflicht können vertraglich geregelt werden.
+
+#### § 21b
+
+**Digitalisierung der Abgabenerhebung**
+
+<sup>1</sup> Die Gemeinden können eine gemeinsame elektronische Plattform zur Erhebung der Abgaben nach diesem Gesetz einrichten. Der Regierungsrat kann deren Verwendung für obligatorisch erklären. Der Kanton kann sich an den Kosten für Errichtung und Betrieb angemessen beteiligen.
+
+<sup>2</sup> Die elektronische Plattform dient der Erfassung von Daten, die den zuständigen Stellen bei der Erhebung der Abgaben nach diesem Gesetz dienen. Diese Daten umfassen insbesondere:
+
+- a. Anzahl der Gäste,
+- b. Alterskategorie der Gäste (über oder unter 16 Jahren),
+- c. Anzahl Logiernächte,
+- d. Angaben über Beherbergende,
+- e. Angaben über die Bemessungsgrundlagen für die Erhebung der Kurtaxen nach § 17 und der kommunalen Tourismusabgabe nach § 19 f.
+
+<sup>3</sup> Die zuständigen Stellen sind:
+
+- a. die Gemeinden oder die von ihnen beauftragten Stellen,
+- b. die Beherbergenden,
+- c. weitere vom Regierungsrat in einer Verordnung bezeichnete Stellen.
+
+<sup>4</sup> Die Daten können zu statistischen Zwecken genutzt werden.
+
+<sup>5</sup> Der Regierungsrat regelt das Nähere in der Verordnung.
+
 #### § 22
 
 **Widerhandlungen**
 
-<sup>1</sup> Abgabepflichtige, welche die ihnen obliegenden Melde- und Mitwirkungspflichten verletzen oder durch Verschweigen von Tatsachen oder durch unrichtige Angaben schuldhaft bewirken, dass keine oder zu niedrige Beherbergungsabgaben, Kurtaxen oder Tourismusabgaben abgeliefert werden, sind mit Busse bis zu 10 000 Franken zu bestrafen. Anstiftung und Gehilfenschaft sind strafbar.
+<sup>1</sup> Auskunftspflichtige nach § 21a und Abgabepflichtige, welche die ihnen obliegenden Melde- und Mitwirkungspflichten verletzen oder durch Verschweigen von Tatsachen oder durch unrichtige Angaben schuldhaft bewirken, dass keine oder zu niedrige Beherbergungsabgaben, Kurtaxen oder Tourismusabgaben abgeliefert werden, sind mit Busse bis zu 10 000 Franken zu bestrafen. Anstiftung und Gehilfenschaft sind strafbar.
 
 <sup>2</sup> Die vorenthaltenen Beherbergungsabgaben, Kurtaxen und Tourismusabgaben sind nachzuzahlen. Der zu leistende Verzugszins entspricht dem jeweils gültigen Zinsfuss für Nachsteuern gemäss kantonalem Steuerrecht.
 
@@ -303,7 +363,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Der Kanton leistet im Rahmen der vom Kantonsrat jährlich bewilligten Kredite Beiträge an das Tourismusmarketing der touristischen Organisationen.
+<sup>1</sup> Der Kanton leistet im Rahmen der vom Kantonsrat jährlich bewilligten Kredite Beiträge an die Tourismusförderung der touristischen Organisationen.
 
 <sup>2</sup> Beitragsberechtigt sind touristische Organisationen, die mit dem Kanton eine Leistungsvereinbarung gemäss § 6 Absatz 1 abgeschlossen haben.
 
