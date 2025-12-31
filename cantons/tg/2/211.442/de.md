@@ -4,13 +4,12 @@ number: "211.442"
 title: Geoinformationsverordnung
 short: TG GeoIV
 language: de
-version: 2020-07-01
-valid_until: 2025-12-31
-version_adopted: 2020-06-23
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/211.442"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2457/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/3010/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ TG GeoIV
 
 (TG GeoIV)
 
-vom 22.11.2011 (Stand 01.07.2020)
+vom 22.11.2011 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -52,7 +51,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 <sup>1</sup> Eine beratende Mitwirkung des GIV ist insbesondere in folgenden Bereichen zu gewährleisten:
 
-- 1\. Erstellung und Überarbeitung des Geobasisdatenkatalogs;
+- 1\. Erstellung und Überarbeitung des Geobasisdatenkatalogs und des Verzeichnisses der kantonalen Ergänzungen zum Katalog der Geobasisdaten des Bundesrechts;
 - 2\. Festlegung der Normen für Geobasisdaten und Geometadaten;
 - 3\. Festlegung der Geodaten- und Darstellungsmodelle;
 - 4\. Erarbeitung von Weisungen für Geodienste;
@@ -72,36 +71,23 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Anhänge, Verzeichnis**
 
-<sup>1</sup> Die Anhänge zu dieser Verordnung enthalten:
+<sup>1</sup> Es werden die Geobasisdaten des kantonalen Rechts gemäss Anhang 1 geführt.
 
-- 1\. Anhang 1: Katalog der Geobasisdaten des kantonalen Rechts;
-- 2\. Anhang 2: Andere elektronisch direkt zugängliche Geodaten;
-- 3\. Anhang 3: Preisliste für Geodatenbezug.
+<sup>2</sup> Es werden die Geodaten gemäss Anhang 2 geführt.
 
-<sup>2</sup> Das Amt für Geoinformation führt ein Verzeichnis der kantonalen Ergänzungen zum Katalog der Geobasisdaten des Bundesrechts.
+<sup>3</sup> Für den Bezug von Geodaten gelten die Preise gemäss Anhang 3.
 
-<sup>3</sup> Die Anhänge und das Verzeichnis werden unter Mitwirkung der nach der Fachgesetzgebung zuständigen Stellen vom Departement periodisch überprüft.
+<sup>4</sup> Das Amt für Geoinformation führt ein Verzeichnis der kantonalen Ergänzungen zum Katalog der Geobasisdaten des Bundesrechts.
 
 #### § 6
 
-**Geobasisdatenkatalog**
-
-<sup>1</sup> Der Katalog der Geobasisdaten des kantonalen Rechts umfasst folgende Spalten:
-
-- 1\. Bezeichnung des Datensatzes;
-- 2\. Rechtsgrundlage;
-- 3\. zuständige Stelle;
-- 4\. Georeferenzdaten;
-- 5\. Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (Aufnahme und Information über laufende Änderungen);
-- 6\. Zugangsberechtigungsstufe;
-- 7\. Download-Dienst;
-- 8\. Identifikator.
+**…**
 
 #### § 7
 
 **Verbindliche Normen**
 
-<sup>1</sup> Das Amt für Geoinformation bezeichnet unter Mitwirkung der übrigen zuständigen Ämter des Kantons die für Geobasisdaten und Geometadaten verbindlichen Normen.
+<sup>1</sup> Das Amt für Geoinformation bezeichnet unter Mitwirkung der übrigen zuständigen Ämter des Kantons die für Geobasisdaten, andere elektronisch direkt zugängliche Geodaten und Geometadaten verbindlichen Normen.
 
 <sup>2</sup> Es berücksichtigt dabei die Vorgaben des Bundes und den Stand der Technik.
 
@@ -111,13 +97,13 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Amtlicher Lage- und Höhenbezug**
 
-<sup>1</sup> Der Lagebezug und der Höhenbezug der Geobasisdaten richten sich unter Berücksichtigung der festgelegten Übergangsfristen nach den geodätischen Beschreibungen des Bundesrechts.
+<sup>1</sup> Der Lagebezug und der Höhenbezug der Geodaten richten sich unter Berücksichtigung der festgelegten Übergangsfristen nach den geodätischen Beschreibungen des Bundesrechts.
 
 #### § 9
 
 **Transformation anderer Bezugssysteme**
 
-<sup>1</sup> Für Geobasisdaten, welche andere räumliche Bezugssysteme verwenden, muss die nach der jeweiligen Fachgesetzgebung zuständige Stelle die Transformation in die amtlichen Bezugssysteme und Bezugsrahmen gewährleisten.
+<sup>1</sup> Für Geodaten, die andere räumliche Bezugssysteme verwenden, muss die nach der jeweiligen Fachgesetzgebung zuständige Stelle die Transformation in die amtlichen Bezugssysteme und Bezugsrahmen gewährleisten.
 
 ## 3. Geodaten- und Darstellungsmodelle
 
@@ -125,7 +111,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Grundsatz**
 
-<sup>1</sup> Jedem Thema des Geobasisdatenkatalogs wird mindestens ein Geodatenmodell zugeordnet.
+<sup>1</sup> Jedem Thema des Geobasisdatenkatalogs und des Verzeichnisses der kantonalen Ergänzungen zu den Geobasisdaten des Bundesrechts wird mindestens ein Geodatenmodell zugeordnet.
 
 #### § 11
 
@@ -134,6 +120,8 @@ vom 22.11.2011 (Stand 01.07.2020)
 <sup>1</sup> Auf Antrag der nach der jeweiligen Fachgesetzgebung zuständigen kantonalen Stelle gibt das Departement ein Geodatenmodell vor und beschreibt dieses. Es legt darin die Struktur und den Detaillierungsgrad fest.
 
 <sup>2</sup> Ein Geodatenmodell wird innerhalb des fachgesetzlichen Rahmens bestimmt durch die fachlichen Anforderungen und den Stand der Technik.
+
+<sup>3</sup> Das Departement kann den durch das Bundesrecht vorgeschriebenen Inhalt der amtlichen Vermessung in eigenständigen Geodatenmodellen erweitern und weitergehende Anforderungen an die Vermessung vorschreiben.
 
 #### § 12
 
@@ -145,7 +133,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Darstellungsmodelle**
 
-<sup>1</sup> Auf Antrag der nach der jeweiligen Fachgesetzgebung zuständigen kantonalen Stelle gibt das Departement ein oder mehrere Darstellungsmodelle vor und beschreibt diese. Es legt insbesondere den Detaillierungsgrad, die Signaturen und die Legenden fest.
+<sup>1</sup> Die nach der jeweiligen Fachgesetzgebung zuständige kantonale Stelle kann in ihrem Fachbereich ein oder mehrere Darstellungsmodelle vorgeben und beschreibt diese. Die Beschreibung legt insbesondere den Detaillierungsgrad, die Signaturen und die Legenden fest.
 
 <sup>2</sup> Ein Darstellungsmodell wird innerhalb des fachgesetzlichen Rahmens bestimmt durch:
 
@@ -159,11 +147,11 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Geometadaten**
 
-<sup>1</sup> Alle Geobasisdaten werden durch Geometadaten beschrieben.
+<sup>1</sup> Alle Geobasisdaten und die anderen elektronisch direkt zugänglichen Geodaten werden durch Geometadaten beschrieben.
 
 <sup>2</sup> Das Departement legt die Norm für die Geometadaten fest.
 
-<sup>3</sup> Geometadaten unterstehen sinngemäss den gleichen Vorschriften wie die entsprechenden Geobasisdaten.
+<sup>3</sup> Geometadaten unterstehen sinngemäss den gleichen Vorschriften wie die entsprechenden Geodaten.
 
 ## 4. Verfügbarkeit und Archivierung
 
@@ -171,11 +159,11 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Nachhaltige Verfügbarkeit**
 
-<sup>1</sup> Geobasisdaten sind so aufzubewahren, dass sie in Bestand und Qualität erhalten bleiben.
+<sup>1</sup> Geobasisdaten und andere elektronisch direkt zugängliche Geodaten sind so aufzubewahren, dass sie in Bestand und Qualität erhalten bleiben.
 
-<sup>2</sup> Die Geobasisdaten sind nach anerkannten Normen und nach dem Stand der Technik zu sichern. Insbesondere sind die Daten periodisch in geeignete Datenformate auszulagern und separat sicher aufzubewahren.
+<sup>2</sup> Die Geobasisdaten und die anderen elektronisch direkt zugänglichen Geodaten sind nach anerkannten Normen und nach dem Stand der Technik zu sichern. Insbesondere sind die Daten periodisch in geeignete Datenformate auszulagern und separat sicher aufzubewahren.
 
-<sup>3</sup> Für die zuständigen kantonalen Stellen bewahrt das Amt für Geoinformation die Geobasisdaten auf.
+<sup>3</sup> Die in der Zuständigkeit des Kantons liegenden Geobasisdaten und anderen elektronisch direkt zugänglichen Geodaten bewahrt das Amt für Geoinformation auf.
 
 #### § 16
 
@@ -192,15 +180,25 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Historisierung**
 
-<sup>1</sup> Das Amt für Geoinformation stellt sicher, dass die Geobasisdaten, die eigentümer- oder behördenverbindliche Beschlüsse abbilden, nach anerkannten Normen und nach dem Stand der Technik historisiert werden.
+<sup>1</sup> Geobasisdaten, die eigentümer- oder behördenverbindliche Beschlüsse abbilden, werden so historisiert, dass jeder Rechtszustand mit hinreichender Sicherheit und vertretbarem Aufwand innert nützlicher Frist rekonstruiert werden kann.
+
+<sup>2</sup> Für die Historisierung der Geobasisdaten und der anderen elektronisch direkt zugänglichen Geodaten ist die nach § 9 TG GeoIG zuständige Stelle verantwortlich.
+
+<sup>3</sup> Bei Geobasisdaten, die in der Zuständigkeit der Gemeinden liegen, kann die Historisierung durch die nach § 9 TG GeoIG zuständige kantonale Stelle unter Beizug der Gemeinden wahrgenommen werden.
+
+<sup>4</sup> Die Historisierungsmethode wird dokumentiert.
 
 #### § 18
 
 **Archivierung**
 
-<sup>1</sup> Das Staatsarchiv ist zuständig für die Archivierung jener Geobasisdaten, für die nach der Fachgesetzgebung nicht der Bund zuständig ist.
+<sup>1</sup> Bei Geodaten, die in der Zuständigkeit des Kantons liegen, richtet sich die Archivierung nach dem Gesetz über Aktenführung und Archivierung (ArchivG)[^18-1].
 
-<sup>2</sup> Es erstellt ein Archivierungskonzept nach den Vorgaben des Bundesrechts.
+<sup>1<sup>bis</sup></sup> Bei Geobasisdaten, die in der Zuständigkeit der Gemeinden liegen, stellen diese gemäss ArchivG die Archivierung sicher.
+
+<sup>2</sup> Das Staatsarchiv erstellt ein Archivierungskonzept nach den Vorgaben des Bundesrechts.
+
+[^18-1]: RB [432.10](https://www.rechtsbuch.tg.ch/data/432.10/de)
 
 ## 5. Zugang und Nutzung
 
@@ -208,19 +206,19 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Zugangsberechtigungsstufen**
 
-<sup>1</sup> Die Geobasisdaten werden folgenden Zugangsberechtigungsstufen zugewiesen:
+<sup>1</sup> Die Geobasisdaten und die anderen elektronisch direkt zugänglichen Geodaten werden folgenden Zugangsberechtigungsstufen zugewiesen:
 
-- 1\. öffentlich zugängliche Geobasisdaten: Stufe A;
-- 2\. beschränkt öffentlich zugängliche Geobasisdaten: Stufe B;
-- 3\. nicht öffentlich zugängliche Geobasisdaten: Stufe C.
+- 1\. öffentlich zugänglich: Stufe A
+- 2\. beschränkt öffentlich zugänglich: Stufe B
+- 3\. nicht öffentlich zugänglich: Stufe C
 
-<sup>2</sup> Im Geobasisdatenkatalog sind die Zugangsberechtigungsstufen der Geobasisdaten festgelegt.
+<sup>2</sup> Im Geobasisdatenkatalog und im Verzeichnis der kantonalen Ergänzungen zum Katalog der Geobasisdaten des Bundesrechts sind die Zugangsberechtigungsstufen der Geobasisdaten und der anderen elektronisch direkt zugänglichen Geodaten festgelegt.
 
 #### § 20
 
 **Zugang**
 
-<sup>1</sup> Der Zugang zu den Geobasisdaten der einzelnen Zugangsberechtigungsstufen richtet sich nach den entsprechenden Regelungen des Bundes.
+<sup>1</sup> Der Zugang zu den Geobasisdaten und den anderen elektronisch direkt zugänglichen Geodaten der einzelnen Zugangsberechtigungsstufen richtet sich nach den entsprechenden Regelungen des Bundes.
 
 #### § 21
 
@@ -228,17 +226,31 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 <sup>1</sup> Die Regelungen des Bundes betreffend Nutzung, Einwilligung, Datenschutz, Quellenangabe, vertragliche Regelungen sowie Vernichtung widerrechtlich genutzter Geobasisdaten gelten sinngemäss.
 
+#### § 21a
+
+**Offene Verwaltungsdaten**
+
+<sup>1</sup> Gemäss § 6 Abs. 3 Open Government Data Verordnung (OGDV)[^21a-1] macht das Amt für Geoinformation die im Zuständigkeitsbereich des Kantons liegenden Geobasisdaten und anderen elektronisch zugänglichen Geodaten der Zugangsberechtigungsstufe A durch Geodienste als offene Verwaltungsdaten zugänglich.
+
+<sup>2</sup> Bei offenen Verwaltungsdaten gilt die Einwilligung zur Nutzung als erteilt.
+
+<sup>3</sup> Bei übermässiger, unangemessener oder missbräuchlicher Nutzung kann der Zugang eingeschränkt oder verweigert werden.
+
+<sup>4</sup> Zur Verhinderung von übermässiger, unangemessener oder missbräuchlicher Nutzung kann die zuständige Stelle den freien Zugang durch geeignete Instrumente, einschliesslich der Erfassung von IP-Adressen, überwachen.
+
+[^21a-1]: RB [170.72](https://www.rechtsbuch.tg.ch/data/170.72/de)
+
 ## 6. Geodienste
 
 #### § 22
 
-**Dienste für Geobasisdaten**
+**Dienste für Geobasisdaten und andere elektronisch direkt zugängliche Geodaten**
 
-<sup>1</sup> Die Geobasisdaten werden durch folgende Geodienste zugänglich und nutzbar gemacht:
+<sup>1</sup> Die Geobasisdaten und die anderen elektronisch direkt zugänglichen Geodaten werden durch folgende Geodienste zugänglich und nutzbar gemacht:
 
-- 1\. durch Darstellungsdienste: alle Geobasisdaten der Zugangsberechtigungsstufen A und B;
-- 2\. durch Download-Dienste: die im Geobasisdatenkatalog entsprechend bezeichneten Geobasisdaten;
-- 3\. durch Suchdienste: die Geometadaten der Geobasisdaten.
+- 1\. durch Darstellungsdienste: alle Geodaten der Zugangsberechtigungsstufen A und B
+- 2\. durch Download-Dienste: die im Geobasisdatenkatalog und im Verzeichnis der kantonalen Ergänzungen zum Katalog der Geobasisdaten des Bundesrechts entsprechend bezeichneten Geodaten
+- 3\. durch Suchdienste: die Geometadaten der Geodaten
 
 #### § 23
 
@@ -254,12 +266,12 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Bereichsübergreifende Geodienste**
 
-<sup>1</sup> Das Amt für Geoinformation betreibt die folgenden bereichsübergreifenden Geodienste:
+<sup>1</sup> Das Amt für Geoinformation betreibt die folgenden bereichsübergreifenden Geodienste für Geobasisdaten und andere elektronisch direkt zugängliche Geodaten:
 
-- 1\. vernetzter Suchdienst für die Geometadaten aller Geobasisdaten;
-- 2\. vernetzter Suchdienst für Geodienste im Sinne dieser Verordnung;
-- 3\. Dienst für die Transformation zwischen den amtlichen Bezugsrahmen;
-- 4\. vernetzter Zugang zu den Geobasisdaten.
+- 1\. vernetzter Suchdienst für die Geometadaten aller Geodaten
+- 2\. vernetzter Suchdienst für Geodienste im Sinne dieser Verordnung
+- 3\. …
+- 4\. vernetzter Zugang zu den Geodaten
 
 #### § 25
 
@@ -275,15 +287,15 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 **Unentgeltlicher Zugang**
 
-<sup>1</sup> Die nach der jeweiligen Fachgesetzgebung zuständigen Stellen von Kanton und Gemeinden sowie der von diesen beauftragten Ver- und Entsorgungsbetriebe gewähren sich auf Anfrage gegenseitig unentgeltlichen Zugang zu Geobasisdaten der Zugangsberechtigungsstufen A und B.
+<sup>1</sup> Die nach der jeweiligen Fachgesetzgebung zuständigen Stellen von Kanton und Gemeinden sowie der von diesen beauftragten Ver- und Entsorgungsbetriebe gewähren sich auf Anfrage gegenseitig unentgeltlichen Zugang zu Geobasisdaten und anderen elektronisch direkt zugänglichen Geodaten der Zugangsberechtigungsstufen A und B.
 
 #### § 27
 
 **Einschränkung des Zugangs**
 
-<sup>1</sup> Zu Geobasisdaten der Zugangsberechtigungsstufe C wird der Zugang nur gewährt, soweit:
+<sup>1</sup> Zu Geobasisdaten und anderen elektronisch direkt zugängliche Geodaten der Zugangsberechtigungsstufe C wird der Zugang nur gewährt, soweit
 
-- 1\. die anfragende Stelle nachweist, dass sie die Daten für die Erfüllung ihres gesetzlichen Auftrages benötigt;
+- 1\. die anfragende Stelle nachweist, dass sie die Daten für die Erfüllung ihres gesetzlichen Auftrages benötigt,
 - 2\. der Zugang die innere oder äussere Sicherheit nicht gefährdet.
 
 ## 8. Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen
@@ -307,7 +319,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 <sup>3</sup> Es erlässt die notwendigen ergänzenden Regelungen, insbesondere bezüglich:
 
 - 1\. Bereitstellung, Prüfung und Abgabe der Daten sowie Bestätigung der Anforderungserfüllung;
-- 2\. Aufbau und Betrieb der Datensammelstellen;
+- 2\. Aufbau und Betrieb der Datenverwaltungsstellen
 - 3\. Einzelheiten des Beglaubigungsverfahrens;
 - 4\. Qualitätssicherung.
 
@@ -318,7 +330,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 <sup>1</sup> Die Zuständigkeiten für die Führung und den Betrieb des Katasters gliedern sich nach folgenden Funktionen:
 
 - 1\. Bereitstellung der Daten;
-- 2\. Datensammelstellen;
+- 2\. Verwaltung und Nachführung der Daten
 - 3\. Katasterführung;
 - 4\. Auszüge und Beglaubigungen.
 
@@ -328,7 +340,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 <sup>1</sup> Die Bereitstellung der Daten obliegt den nach der jeweiligen Fachgesetzgebung zuständigen Stellen von Kanton und Gemeinden. Diese können für die Bereitstellung der Daten Private beauftragen.
 
-<sup>2</sup> Die Daten sind zeitgerecht und in der verlangten Qualität den Datensammelstellen zur Verfügung zu stellen.
+<sup>2</sup> Die Daten sind zeitgerecht und in der verlangten Qualität den Datenverwaltungsstellen zur Verfügung zu stellen.
 
 <sup>3</sup> Im Übrigen richten sich die Aufgaben nach Art. 5 ÖREBKV[^31-1].
 
@@ -336,13 +348,13 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 #### § 32
 
-**Datensammelstellen**
+**Verwaltung und Nachführung der Daten**
 
-<sup>1</sup> Datensammelstelle für Daten im Zuständigkeitsbereich des Kantons ist das Amt für Geoinformation.
+<sup>1</sup> Datenverwaltungsstelle für Daten im Zuständigkeitsbereich des Kantons ist das Amt für Geoinformation.
 
-<sup>2</sup> Die Gemeinden betreiben für Daten in ihrem Zuständigkeitsbereich eine eigene Datensammelstelle oder beauftragen Private oder das Amt für Geoinformation mit dem Betrieb einer Datensammelstelle.
+<sup>2</sup> Die Gemeinden betreiben für Daten in ihrem Zuständigkeitsbereich eine eigene Datenverwaltungsstelle oder beauftragen Private oder das Amt für Geoinformation mit dem Betrieb einer Datenverwaltungsstelle.
 
-<sup>3</sup> Die Datensammelstellen, die von den Gemeinden oder von beauftragten Privaten betrieben werden, prüfen die Daten gemäss den kantonalen Vorgaben und übermitteln sie an das Amt für Geoinformation.
+<sup>3</sup> Die Datenverwaltungsstellen, die von den Gemeinden oder von beauftragten Privaten betrieben werden, verwalten und führen die Daten nach, prüfen die Daten gemäss den kantonalen Vorgaben und übermitteln sie an das Amt für Geoinformation.
 
 #### § 33
 
@@ -356,25 +368,23 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 <sup>1</sup> Auszüge aus dem Kataster werden vom Amt für Geoinformation mittels Darstellungsdienst zugänglich gemacht.
 
-<sup>2</sup> Für die Beglaubigung der Auszüge nach Art. 14 und Art. 15 ÖREBKV[^34-1] sind die im betreffenden Gebiet zuständigen Nachführungsgeometer beziehungsweise deren stellvertretende Person berechtigt.
-
-[^34-1]: SR [510.622.4](https://db.clex.ch/link/Bund/510.622.4/de)
+<sup>2</sup> Für die Beglaubigung der Auszüge nach Art. 14 ÖREBKV sind die im betreffenden Gebiet zuständigen Nachführungsgeometer beziehungsweise deren stellvertretende Person berechtigt.
 
 #### § 35
 
-**Laufende Änderungen, Vorpublikation**
+**Laufende Änderungen**
 
-<sup>1</sup> Der Geobasisdatenkatalog bezeichnet die Datensätze, bei denen Informationen über laufende Änderungen mit dem Kataster verknüpft sind (Vorpublikation).
+<sup>1</sup> …
 
 <sup>2</sup> Die für den Erlass zuständige Stelle veranlasst spätestens mit Beginn der öffentlichen Auflage den entsprechenden Eintrag.
 
-<sup>3</sup> Der Eintrag in den Kataster entfaltet keine Rechtswirkungen.
+<sup>3</sup> Der Eintrag in den Kataster entfaltet keine Rechtswirkungen, ausser die Fachgesetzgebung sieht bei laufenden Änderungen mit Vorwirkung eine andere Regelung vor.
 
 #### § 36
 
 **Nachführung**
 
-<sup>1</sup> Die für den Erlass zuständige Stelle hat innert 20 Tagen nach Inkrafttreten einer öffentlich-rechtlichen Eigentumsbeschränkung deren Eintrag in den Kataster zu veranlassen. Der Kataster ist laufend zu aktualisieren.
+<sup>1</sup> Nach Inkrafttreten einer öffentlich-rechtlichen Eigentumsbeschränkung ist diese innert 20 Tagen in den Kataster einzutragen. Der Kataster ist laufend zu aktualisieren.
 
 #### § 37
 
@@ -426,6 +436,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 - 5\. Kommunikation;
 - 6\. Fernwärme;
 - 7\. Entwässerungen, die gemäss kantonalem Meliorationsrecht erstellt wurden.
+- 8\. Kantonale Strassenentwässerung
 
 #### § 42
 
@@ -443,7 +454,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 <sup>2</sup> Die Gemeinden betreiben für Daten in ihrem Zuständigkeitsbereich eine eigene Datensammelstelle oder beauftragen Private oder das Amt für Geoinformation mit dem Betrieb einer Datensammelstelle.
 
-<sup>3</sup> Die Datensammelstellen, die von den Gemeinden oder von beauftragten Privaten betrieben werden, prüfen die Daten gemäss den kantonalen Vorgaben und übermitteln sie an das Amt für Geoinformation.
+<sup>3</sup> Die Datensammelstellen prüfen die Daten gemäss den kantonalen Vorgaben und übermitteln sie an das Amt für Geoinformation.
 
 #### § 43
 
@@ -471,7 +482,7 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 <sup>2</sup> Für den Bezug der Geodaten gemäss Anhang 3 können die dort festgelegten Beträge verlangt werden. Für den Bezug anderer aufgearbeiteter und bereitgestellter Geodaten kann der Betrag vereinbart werden.
 
-<sup>3</sup> Für den Bezug von Geodaten über das Portal opendata.swiss werden keine Kosten erhoben.
+<sup>3</sup> Für den Bezug von Geodaten gemäss § 21a mit Ausnahme der im Anhang 3 bezeichneten Geodaten werden keine Kosten erhoben.
 
 ## 11. Schlussbestimmungen
 
@@ -483,10 +494,10 @@ vom 22.11.2011 (Stand 01.07.2020)
 
 <sup>2</sup> …
 
+<sup>3</sup> Der Wechsel zum neuen Geodatenmodell der amtlichen Vermessung DMAV Version 1.0 ist bis zum 31. Dezember 2027 oder bis zum Ablauf einer vom Bund verlängerten Frist zu vollziehen.
+
 #### § 46
 
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt zusammen mit dem Gesetz über Geoinformation auf den 1. Januar 2012 in Kraft.
+**…**
 
 ABl. 47/2011
