@@ -4,13 +4,12 @@ number: "170.511"
 title: Direktionsverordnung über den Finanzhaushalt der Gemeinden
 short: FHDV
 language: de
-version: 2019-07-01
-valid_until: 2025-12-31
-version_adopted: 2019-05-21
+version: 2026-01-01
+version_adopted: 2024-11-13
 adopted: 2005-02-23
 in_force: 2005-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/170.511"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1679/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3085/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1679/pdf_file"
 
 (FHDV)
 
-vom 23.02.2005 (Stand 01.07.2019)
+vom 23.02.2005 (Stand 01.01.2026)
 
 Die Justiz-, Gemeinde- und Kirchendirektion des Kantons Bern,
 
@@ -300,11 +299,9 @@ beschliesst:
 <sup>1</sup> Die Tabelle «Ergebnisse der Finanzplanung» stellt die Entwicklung für das Basisjahr und die Prognoseperiode von mindestens folgenden Werten dar:
 
 - a Bilanzüberschuss oder Bilanzfehlbetrag,
-- b Reserven,
-- c Bilanzüberschuss oder Bilanzfehlbetrag einschliesslich zusätzliche Abschreibungen,
+- b–c …
 - d Jahresergebnis (Allgemeiner Haushalt),
-- e Einlage in finanzpolitische Reserve oder Entnahme aus finanzpolitischer Reserve,
-- f Jahresergebnis vor Einlage in finanzpolitische Reserve oder Entnahme aus finanzpolitischer Reserve,
+- e–f …
 - g Steuerertrag Natürliche Personen,
 - h Steuerertrag Juristische Personen,
 - i Bruttoschulden,
@@ -691,7 +688,7 @@ beschliesst:
 - d Bestätigung über die Durchführung von Plausibilitätskontrollen,
 - e Bestätigung über die Durchführung der Zwischenrevision,
 - f Bestätigung über die Durchführung der Revision und Erstellung des Bestätigungsberichts,
-- g Angabe zusätzlicher Abschreibungen einschliesslich Höhe ordentlicher Abschreibungen und Nettoinvestitionen für die Berechnung,
+- g …
 - h Bestand Bilanzüberschuss, bzw. Bilanzfehlbetrag,
 - i Bestand der Vorschüsse Spezialfinanzierung,
 - k Entnahmen aus den Spezialfinanzierungen nach Artikel 85a Absatz 5 GV,
@@ -701,7 +698,7 @@ beschliesst:
 
 <sup>2</sup> Die Bescheinigung der Gesamtkirchgemeinden und Kirchgemeinden enthält zusätzlich verschiedene Positionen aus der Jahresrechnung.
 
-<sup>3</sup> Die Bescheinigung der übrigen gemeinderechtlichen Körperschaften enthält die Punkte gemäss Absatz 1, jedoch anstelle der Angaben gemäss Buchstabe g Aussagen zur Finanzplanung.
+<sup>3</sup> Die Bescheinigung der übrigen gemeinderechtlichen Körperschaften enthält die Punkte gemäss Absatz 1 und Aussagen zur Finanzplanung.
 
 <sup>4</sup> Die Bescheinigung erfolgt mit dem amtlichen Formular des AGR.
 

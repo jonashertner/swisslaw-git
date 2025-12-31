@@ -4,13 +4,12 @@ number: "170.511"
 title: Ordonnance de Direction sur la gestion financière des communes
 short: ODGFCo
 language: fr
-version: 2019-07-01
-valid_until: 2025-12-31
-version_adopted: 2019-05-21
+version: 2026-01-01
+version_adopted: 2024-11-13
 adopted: 2005-02-23
 in_force: 2005-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/170.511"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1679/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3085/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1679/pdf_file"
 
 (ODGFCo)
 
-du 23.02.2005 (état au 01.07.2019)
+du 23.02.2005 (état au 01.01.2026)
 
 La Direction de la justice, des affaires communales et des affaires ecclésiastiques du canton de Berne,
 
@@ -303,11 +302,9 @@ arrête:
 <sup>1</sup> Le tableau des «résultats de la planification financière» présente l'évolution, durant la période de base et la période de planification, en tous les cas
 
 - a de l’excédent ou du découvert du bilan,
-- b des réserves,
-- c de l’excédent ou du découvert du bilan, y compris les amortissements supplémentaires,
+- b–c …
 - d du résultat annuel (compte général),
-- e des attributions à la réserve de politique financière et des prélèvements sur cette réserve,
-- f du résultat annuel avant les attributions à la réserve de politique financière ou les prélèvements sur cette réserve,
+- e–f …
 - g du revenu de l'impôt des personnes physiques,
 - h du revenu de l'impôt des personnes morales,
 - i des dettes brutes,
@@ -698,7 +695,7 @@ arrête:
 - d attestation de l’organisation de contrôles de plausibilité,
 - e attestation de l’organisation d’une révision intermédiaire,
 - f attestation de l’organisation de la révision et de la rédaction du rapport à ce sujet,
-- g montant des amortissements supplémentaires, y compris le montant des amortissements ordinaires et des investissements nets à la base du calcul de celui-ci,
+- g …
 - h état de l’excédent ou du découvert du bilan,
 - i état des avances aux financements spéciaux,
 - k état des prélèvements sur les financements spéciaux au sens de l’article 85a, alinéa 5 OCo,
@@ -708,7 +705,7 @@ arrête:
 
 <sup>2</sup> L'attestation des paroisses générales et des paroisses contient en outre différents postes extraits des comptes annuels.
 
-<sup>3</sup> L'attestation des autres collectivités de droit communal contient les données prévues à l'alinéa 1; des commentaires sur la planification financière remplacent cependant les données mentionnées à la lettre g.
+<sup>3</sup> L'attestation des autres collectivités de droit communal contient les données prévues à l'alinéa 1 ainsi que des commentaires sur la planification financière.
 
 <sup>4</sup> L’attestation est établie au moyen du formulaire officiel de l’OACOT.
 
