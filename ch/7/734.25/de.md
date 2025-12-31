@@ -4,11 +4,11 @@ title: Verordnung vom 2. Februar 2000 über das Plangenehmigungsverfahren für e
 short: VPeA
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: de
-version: 2025-08-01
+version: 2026-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20250801/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20250801-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/de"
 
 (VPeA)
 
-vom 2. Februar 2000 (Stand am 1. August 2025)
+vom 2. Februar 2000 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 3, 4 Absatz 3, 15*e* Absatz 2, 15*f* Absatz 3, 15*g* A
 
 verordnet:
 
-[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-1]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 [^ingress-2]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 
 ## 1. Abschnitt: Gegenstand und Geltungsbereich
@@ -59,13 +59,13 @@ Sie gilt nicht für die Erstellung und die Änderung von:
 <sup>4</sup> Für elektrische Anlagen, die ganz oder überwiegend dem Eisenbahn- oder Trolleybusverkehr dienen, gilt die Verordnung vom 2. Februar 2000[^1-8] über das Plangenehmigungsverfahren für Eisenbahnanlagen.
 
 [^1-1]: Aufgehoben durch Ziff. I der V vom 4. Juni 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-2]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^1-2]: [SR 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
 [^1-3]: Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^1-4]: Fassung gemäss Ziff. I der V vom 4. Juni 2021, in Kraft seit 1. Juli 2021 ([AS 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-5]: [SR 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^1-6]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 4 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
-[^1-7]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
-[^1-8]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^1-5]: [SR 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^1-6]: [[AS 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)Art. 19 Ziff. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 4 Ziff. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 2. [AS 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)Art. 29]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
+[^1-7]: [[AS 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)Anhang 4 Ziff. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)Ziff. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)Anhang Ziff. 4]. Siehe heute: die V vom 25. Nov. 2015 ([SR 734.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8591)).
+[^1-8]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## 1*a*. Abschnitt: Sachplanverfahren
 
@@ -101,7 +101,7 @@ Die folgenden Vorhaben betreffend Leitungen mit einer Nennspannung von 220 kV od
 <sup>2</sup> Das BFE hört die zuständigen Fachstellen des Bundes und der betroffenen Kantone zu den Unterlagen der Gesuchstellerin an. Es kann zusätzlich auch gesamtschweizerisch tätige Umweltschutzorganisationen anhören. Nach Prüfung der eingegangenen Stellungnahmen entscheidet das BFE, ob ein Sachplanverfahren durchgeführt werden muss.
 
 [^1b-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1b-2]: [SR 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^1b-2]: [SR 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 
 #### Art. 1c
 
@@ -110,7 +110,7 @@ Die folgenden Vorhaben betreffend Leitungen mit einer Nennspannung von 220 kV od
 Ein Vorhaben, das voraussichtlich der Sachplanpflicht unterliegt und dessen Bedarf von der Elektrizitätskommission bestätigt wurde (Art. 22 Abs. 2<sup>bis</sup> des Stromversorgungsgesetzes vom 23. März 2007[^1c-2]) oder anderweitig nachgewiesen wird, kann als Vororientierung in den Sachplan eingetragen werden.
 
 [^1c-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1c-2]: [SR 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^1c-2]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 1d
 
@@ -142,65 +142,70 @@ Bevor die Gesuchstellerin dem BFE die Durchführung des Sachplanverfahrens für 
 
 Dem Antrag sind die folgenden Unterlagen beizulegen:
 
-- a. eine Begründung für das Vorhaben sowie Angaben zu dessen Bedarf;
+- a. eine Begründung für das Vorhaben sowie Angaben zum Bedarf;
 - b. die Koordinationsvereinbarung und die Unterlagen nach Artikel 1*d*.
 
-<sup>3</sup> Das BFE übermittelt die Unterlagen den in der Raumordnungskonferenz des Bundes vertretenen Ämtern zu einer ersten Stellungnahme. Die Frist für die Stellungnahme beträgt zwei Monate.
+<sup>3</sup> Das BFE erstellt eine verbindliche Terminplanung für die Mitglieder der Begleitgruppe (Art. 15*g* Abs. 2 EleG) und die weiteren betroffenen Fachstellen von Bund und Kantonen. Die Terminplanung erfolgt auf der Grundlage der Unterlagen der Gesuchstellerin und unter Berücksichtigung der gesetzlichen Frist von zwei Jahren (Art. 15*f* Abs. 3 EleG).
 
-<sup>4</sup>
+<sup>4</sup> Das BFE übermittelt die Unterlagen zum Sachplanverfahren den in der Raumordnungskonferenz des Bundes vertretenen Stellen.
 
-Nach Eingang der Stellungnahmen setzt das BFE innert zwei Monaten eine projektspezifische Begleitgruppe ein, in der folgende Stellen und Organisationen mit je einer Stimme vertreten sind:
+<sup>5</sup>
+
+In der Begleitgruppe nehmen folgende Stellen und Organisationen Einsitz:
 
 - a. das Bundesamt für Raumentwicklung;
 - b. das Bundesamt für Umwelt;
 - c. weitere betroffene Bundesämter;
 - d. die Eidgenössische Elektrizitätskommission;
 - e. das Inspektorat;
-- f. jeder betroffene Kanton;
-- g. die gesamtschweizerisch tätigen Umweltschutzorganisationen;
+- f. die betroffenen Kantone;
+- g. eine Vertretung der gesamtschweizerisch tätigen Umweltschutzorganisationen;
 - h. die Gesuchstellerin.
 
-[^1e-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+<sup>6</sup> Das BFE führt den Begleitgruppenprozess. Den einzelnen Mitgliedern der Begleitgruppe kommt eine beratende Funktion im Rahmen ihres Fachbereichs zu.
+
+[^1e-1]: Eingefügt durch Ziff. I der V vom 3. April 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
 
 #### Art. 1f
 
 **Festsetzung des Planungsgebiets**[^1f-1]
 
-<sup>1</sup> Das BFE stellt der Begleitgruppe die Unterlagen zum Planungsgebiet zur Stellungnahme zu. Es kann für die Besichtigung von möglichen Planungsgebieten Begehungen mit der Begleitgruppe organisieren.
+<sup>1</sup> Das BFE übermittelt den Mitgliedern der Begleitgruppe die vollständigen Unterlagen zur Festsetzung des Planungsgebiets zur Stellungnahme. Es kann für die Besichtigung von möglichen Planungsgebieten Begehungen mit der Begleitgruppe organisieren.
 
-<sup>2</sup> Die Begleitgruppe empfiehlt dem BFE aufgrund einer gesamtheitlichen Betrachtung innerhalb von zwei Monaten nach Erhalt aller benötigten Unterlagen ein Planungsgebiet. Das Planungsgebiet muss so gross sein, dass darin mehre Planungskorridore ausgearbeitet werden können.
+<sup>2</sup> Es erarbeitet gestützt auf die Stellungnahmen und Empfehlungen der Mitglieder der Begleitgruppe den Entwurf des Objektblatts mit Bericht für das Planungsgebiet.
 
-<sup>3</sup> Das BFE erarbeitet gestützt auf die Empfehlung der Begleitgruppe den Entwurf des Objektblatts mit Bericht für das Planungsgebiet und eröffnet das Anhörungs- und Mitwirkungsverfahren nach Artikel 19 der Raumplanungsverordnung vom 28. Juni 2000[^1f-2] (RPV).
+<sup>3</sup> Es führt eine Ämterkonsultation durch und eröffnet das Anhörungs- und das Mitwirkungsverfahren nach Artikel 19 der Raumplanungsverordnung vom 28. Juni 2000[^1f-2] (RPV).
 
-<sup>4</sup> Nach der Bereinigung des Entwurfs führt das BFE eine Ämterkonsultation durch. Es veranlasst innerhalb von zwei Monaten nach Abschluss der Ämterkonsultation die Festsetzung des Planungsgebiets durch den Bundesrat.
+<sup>4</sup> Ergeben sich aufgrund des Anhörungs- und des Mitwirkungsverfahrens wesentliche Änderungen am Entwurf des Objektblatts mit Bericht für das Planungsgebiet, so führt es erneut eine Ämterkonsultation durch.
 
-<sup>5</sup> Es kann in Fällen nach Artikel 1*d* Absatz 3 und bei einstimmiger Rückmeldung durch die Mitglieder der Begleitgruppe auf eine formelle Festsetzung des Planungsgebiets verzichten und der Gesuchstellerin das Planungsgebiet direkt mitteilen.
+<sup>5</sup> Es beantragt nach Abschluss von Ämterkonsultation, Anhörungs- und Mitwirkungsverfahren die Festsetzung des Planungsgebiets durch den Bundesrat.
 
-[^1f-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1f-2]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+<sup>6</sup> Es kann in Fällen nach Artikel 1*d* Absatz 3 und bei einstimmiger Rückmeldung der Mitglieder der Begleitgruppe auf eine formelle Festsetzung des Planungsgebiets verzichten und der Gesuchstellerin das Planungsgebiet direkt mitteilen.
+
+[^1f-1]: Eingefügt durch Ziff. I der V vom 3. April 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^1f-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 1g
 
 **Festsetzung des Planungskorridors**[^1g-1]
 
-<sup>1</sup> Die Gesuchstellerin erarbeitet unter Einbezug der betroffenen Kantone in der Regel mindestens zwei Planungskorridore und reicht dem BFE die erforderlichen Unterlagen ein.
+<sup>1</sup> Das BFE übermittelt den Mitgliedern der Begleitgruppe die vollständigen Unterlagen zur Festsetzung des Planungskorridors zur Stellungnahme. Es kann für die Besichtigung von möglichen Planungskorridoren eine Begehung mit der Begleitgruppe organisieren.
 
-<sup>2</sup> Das BFE übermittelt der Begleitgruppe die vollständigen Unterlagen innert 30 Tagen nach Eingang. Es kann für die Besichtigung von möglichen Planungskorridoren eine Begehung mit der Begleitgruppe organisieren.
+<sup>2</sup> Es erarbeitet gestützt auf die Stellungnahmen und Empfehlungen der Mitglieder der Begleitgruppe den Entwurf des Objektblatts mit Bericht für den Planungskorridor und die anzuwendende Übertragungstechnologie.
 
-<sup>3</sup> Die Begleitgruppe empfiehlt dem BFE aufgrund einer gesamtheitlichen Betrachtung innerhalb von zwei Monaten nach Erhalt aller benötigten Unterlagen einen Planungskorridor und die anzuwendende Übertragungstechnologie, namentlich ob die Leitung als Freileitung oder als Erdkabel erstellt werden soll.
+<sup>3</sup> Es führt eine Ämterkonsultation durch und eröffnet das Anhörungs- und das Mitwirkungsverfahren nach Artikel 19 RPV[^1g-2].
 
-<sup>4</sup> Es erarbeitet gestützt auf die Empfehlung der Begleitgruppe den Entwurf des Objektblatts mit Bericht für den Planungskorridor und die anzuwendende Übertragungstechnologie und eröffnet das Anhörungs- und Mitwirkungsverfahren nach Artikel 19 RPV[^1g-2].
+<sup>4</sup> Ergeben sich aufgrund des Anhörungs- und des Mitwirkungsverfahrens wesentliche Änderungen am Entwurf des Objektblatts mit Bericht für den Planungskorridor und für die anzuwendende Übertragungstechnologie, so führt es eine weitere Ämterkonsultation durch.
 
 <sup>5</sup>
 
-Nach der Bereinigung des Entwurfs führt es eine Ämterkonsultation durch. Es veranlasst innerhalb von zwei Monaten nach Abschluss der Ämterkonsultation die Festsetzung des Planungskorridors sowie der anzuwendenden Übertragungstechnologie durch:
+Es beantragt nach Abschluss von Ämterkonsultation, Anhörungs- und Mitwirkungsverfahren die Festsetzung des Planungskorridors und der anzuwendenden Übertragungstechnologie durch:
 
 - a. den Bundesrat in Fällen nach Artikel 21 Absatz 1 RPV;
-- b.[^1g-3] das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) in Fällen nach Artikel 21 Absatz 4 RPV.
+- b. das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) in Fällen nach Artikel 21 Absatz 4 RPV.
 
-[^1g-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1g-2]: [SR 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
-[^1g-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^1g-1]: Eingefügt durch Ziff. I der V vom 3. April 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^1g-2]: [SR 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 ## 2. Abschnitt: Plangenehmigungsverfahren
 
@@ -235,7 +240,7 @@ Die Unterlagen, die dem Inspektorat zur Genehmigung einzureichen sind, müssen a
 [^2-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 [^2-2]: Eingefügt durch Ziff. I der V vom 24. Juni 2009, in Kraft seit 1. Sept. 2009 ([AS 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
 [^2-3]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^2-4]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^2-4]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-5]: Eingefügt durch Ziff. I 5 der V vom 19. Aug. 2020 über die Anpassung des Verordnungsrechts infolge der Änderung des Bundesgesetzes über die Enteignung, in Kraft seit 1. Jan. 2021 ([AS 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 3
@@ -248,7 +253,7 @@ Die Unterlagen, die dem Inspektorat zur Genehmigung einzureichen sind, müssen a
 
 <sup>3</sup> Die Betreiberinnen von Schwachstromanlagen sind verpflichtet, die Informationen unentgeltlich zur Verfügung zu stellen, die für die Erstellung der Planunterlagen erforderlich sind.
 
-[^3-1]: [SR 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^3-1]: [SR 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
 
 #### Art. 4
 
@@ -298,7 +303,7 @@ Ergeben sich während des Plangenehmigungsverfahrens wesentliche Änderungen geg
 
 <sup>1</sup>
 
-Für die Behandlung eines Plangenehmigungsgesuches gelten für das Inspektorat in der Regel die folgenden Fristen:
+Für die Behandlung eines Plangenehmigungsgesuchs gelten für das Inspektorat die folgenden Fristen:[^8-2]
 
 - a. zehn Arbeitstage vom Eingang des vollständigen Gesuches bis zur Übermittlung an die Kantone und betroffenen Bundesbehörden;
 - b. 30 Arbeitstage für die Ausfertigung des Entscheides nach Abschluss der Einspracheverhandlungen und dem Vorliegen der Stellungnahmen der Behörden.
@@ -308,12 +313,13 @@ Für die Behandlung eines Plangenehmigungsgesuches gelten für das Inspektorat i
 Die Behandlungsfristen stehen still während der Zeit, die benötigt wird für:
 
 - a. die Ergänzung oder die Überarbeitung der Unterlagen durch die Gesuchstellerin;
-- b. die Erstellung von Gutachten oder zusätzlichen Berichten.[^8-2]
+- b. die Erstellung von Gutachten oder zusätzlichen Berichten.[^8-3]
 
 <sup>3</sup> Im vereinfachten Plangenehmigungsverfahren darf die Behandlungsfrist für das ganze Verfahren in der Regel 20 Arbeitstage nicht überschreiten.
 
 [^8-1]: Fassung gemäss Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^8-2]: Fassung gemäss Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^8-3]: Fassung gemäss Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 
 #### Art. 8a
 
@@ -321,11 +327,11 @@ Die Behandlungsfristen stehen still während der Zeit, die benötigt wird für:
 
 <sup>1</sup>
 
-Für die Behandlung eines Plangenehmigungsgesuchs gelten für das BFE in der Regel die folgenden Fristen:
+Für die Behandlung eines Plangenehmigungsgesuchs gelten für das BFE die folgenden Fristen:[^8a-2]
 
-- a.[^8a-2] …
-- b.[^8a-3] drei Monate ab der Überweisung des Verfahrens durch das Inspektorat bis zur Durchführung einer Einspracheverhandlung;
-- c. acht Monate für die Ausfertigung des Entscheides nach Abschluss der Einspracheverhandlung und Eingang der Stellungnahmen der Behörden.
+- a.[^8a-3] …
+- b.[^8a-4] drei Monate ab der Überweisung des Verfahrens durch das Inspektorat bis zur Durchführung einer Einspracheverhandlung;
+- c.[^8a-5] sechs Monate für die Ausfertigung des Entscheides nach Abschluss des Schriftenwechsels.
 
 <sup>2</sup>
 
@@ -335,8 +341,10 @@ Die Behandlungsfristen stehen still während der Zeit, die benötigt wird für:
 - b. die Erstellung von Gutachten oder zusätzlichen Berichten.
 
 [^8a-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^8a-2]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
-[^8a-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^8a-3]: Aufgehoben durch Ziff. I der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-5]: Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
 
 #### Art. 8b
 
@@ -359,39 +367,50 @@ Benötigt die Gesuchstellerin für die Ergänzung der Gesuchsunterlagen, die Era
 
 #### Art. 9a
 
-**Ausnahmen von der Plangenehmigungspflicht**[^9a-1]
+**Genehmigungsfreie Instandhaltungsarbeiten**[^9a-1]
 
-<sup>1</sup> Keiner Plangenehmigung bedürfen Instandhaltungsarbeiten und geringfügige technische Änderungen an Anlagen, wenn dabei keine besonderen Auswirkungen auf die Umwelt zu erwarten sind.
+<sup>1</sup> Keiner Plangenehmigung bedürfen Instandhaltungsarbeiten an Anlagen, wenn dabei keine besonderen Auswirkungen auf die Umwelt zu erwarten sind.
 
 <sup>2</sup>
 
 Als Instandhaltungsarbeiten gelten sämtliche Arbeiten, die dazu dienen, den Bestand einer Anlage im genehmigten Umfang sicherzustellen, insbesondere:
 
 - a. der gleichwertige Ersatz von Anlageteilen;
-- b. Reparaturen, Korrosions- und Fäulnisschutz- sowie Sanierungsmassnahmen; und
+- b. Reparaturen, Korrosions- und Fäulnisschutz- sowie Sanierungsmassnahmen;
 - c. die Erneuerung der Aussenanstriche von Anlageteilen im gleichen Farbton.
 
-<sup>3</sup>
+<sup>3</sup> Das Inspektorat entscheidet im Zweifelsfall über die Plangenehmigungspflicht.
 
-Als geringfügige technische Änderungen gelten, sofern dadurch das Erscheinungsbild der Anlage nicht wesentlich verändert wird:
+<sup>4</sup> Die Betriebsinhaberin dokumentiert die ausgeführten Instandhaltungsarbeiten zuhanden des Inspektorats.
 
-- a. der Ersatz von Erdseilen durch Erdseile mit integrierten Lichtwellenleitern sowie deren Verwendung zur Durchleitung von Daten der Betriebsinhaberin oder Dritter;
-- b. Massnahmen zur Phasen-, Verlust- und Lärmoptimierung von Leitungen, sofern der massgebende Strom nach Anhang 1 Ziffer 13 Absatz 2 NISV[^9a-2] nicht dauerhaft erhöht wird;
+[^9a-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Fassung gemäss Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+
+#### Art. 9a<sup>bis</sup>
+
+**Genehmigungsfreie Änderungen**[^9abis-1]
+
+<sup>1</sup>
+
+Keiner Plangenehmigung bedürfen folgende Änderungen, wenn dabei keine besonderen Auswirkungen auf die Umwelt zu erwarten sind und das Erscheinungsbild der Anlage nicht wesentlich verändert wird:
+
+- a. der Ersatz von Erdseilen durch Erdseile mit integrierten Lichtwellenleitern sowie die Verwendung von Erdseilen zur Durchleitung von Daten der Betriebsinhaberin oder Dritter;
+- b. Massnahmen zur Phasen-, Verlust- und Lärmoptimierung von Leitungen;
 - c. der Ersatz von Isolatoren durch Isolatoren anderer Bauart;
-- d. der Ersatz von Kabeln in bestehenden Rohranlagen durch Kabel anderer Bauart, sofern weder die Rohrbelegung verändert noch der massgebende Strom nach Anhang 1 Ziffer 13 Absatz 2 NISV dauerhaft erhöht wird;
-- e. der Ersatz von Transformatoren in bestehenden Stationen durch Transformatoren des gleichen Typs mit höherer Leistung; und
-- f.[^9a-3] die Umsetzung von Vorkehren zum Vogelschutz nach Artikel 30 Leitungsverordnung vom 30. März 1994[^9a-4].
+- d. der Ersatz von Kabeln in bestehenden Rohranlagen durch Kabel anderer Bauart;
+- e. der Ersatz von Transformatoren in bestehenden Stationen durch Transformatoren des gleichen Typs;
+- f. die Umsetzung von Vorkehren zum Vogelschutz nach Artikel 30 der Leitungsverordnung vom 30. März 1994[^9abis-2];
+- g. die Erhöhung der Betriebsspannung auf maximal 220 kV sowie das Versetzen oder das Anpassen der Ausleger an bestehenden Masten;
+- h. der Ersatz einzelner Masten ausserhalb von Objekten nach Artikel 5 des Bundesgesetzes vom 1. Juli 1966[^9abis-3] über den Natur- und Heimatschutz durch Masten mit ähnlichen Dimensionen;
+- i. der Ersatz von bestehenden Transformatorenstationen bis zu einer Nennspannung von 36 kV durch Anlagen mit ähnlichen Dimensionen am gleichen Standort innerhalb der Bauzone;
+- j. die Erstellung von genügend angepassten Solaranlagen auf Transformatorenstationen bis zu einer Nennspannung von 36 kV.
 
-<sup>4</sup> Bei Instandhaltungsarbeiten entscheidet das Inspektorat im Zweifelsfall über die Plangenehmigungspflicht.
+<sup>2</sup> Die Betriebsinhaberin muss dem Inspektorat Änderungen nach Absatz 1 vor der beabsichtigten Ausführung schriftlich melden. Das Inspektorat teilt ihr innert 20 Tagen nach Eingang der Meldung mit, ob ein Plangenehmigungsverfahren durchgeführt werden muss.
 
-<sup>5</sup> Geringfügige technische Änderungen zeigt die Betriebsinhaberin dem Inspektorat vor der beabsichtigten Ausführung schriftlich an. Das Inspektorat teilt innert 20 Tagen nach Eingang der Anzeige mit, ob ein Plangenehmigungsverfahren durchgeführt werden muss.
+<sup>3</sup> Die Betriebsinhaberin dokumentiert die ausgeführten Änderungen zuhanden des Inspektorats.
 
-<sup>6</sup> Die Betriebsinhaberin dokumentiert gegenüber dem Inspektorat die ausgeführten Instandhaltungsarbeiten und Änderungen.
-
-[^9a-1]: Eingefügt durch Ziff. I der V vom 9. Okt. 2013 ([AS 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Fassung gemäss Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^9a-2]: [SR 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
-[^9a-3]: Eingefügt durch Ziff. II der V vom 25. Juni 2025, in Kraft seit 1. Aug. 2025 ([AS 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
-[^9a-4]: [SR 734.31](https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233)
+[^9abis-1]: Eingefügt durch Ziff. I der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^9abis-2]: [SR 734.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8586)
+[^9abis-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9b
 
@@ -418,7 +437,7 @@ Betrifft ein Vorhaben eine Anlage mit einer Nennspannung von 36 kV oder weniger,
 Müssen für eine bestehende, rechtskräftig bewilligte Anlage Rechte erneuert oder zusätzlich erworben werden, ohne dass die Anlage baulich geändert wird, so bestimmt sich das Verfahren ausschliesslich nach dem Bundesgesetz vom 20. Juni 1930[^9d-2] über die Enteignung und es bedarf keiner Plangenehmigung.
 
 [^9d-1]: Eingefügt durch Ziff. I der V vom 3. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^9d-2]: [SR 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^9d-2]: [SR 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## 3. Abschnitt: Bau und Inbetriebnahme
 

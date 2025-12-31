@@ -4,11 +4,11 @@ title: "Ordonnance du 2 février 2000 sur la procédure d'approbation des plans 
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: fr
-version: 2025-08-01
+version: 2026-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20250801/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20250801-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/fr"
 
 (OPIE)
 
-du 2 février 2000 (État le 1<sup>er</sup> août 2025)
+du 2 février 2000 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 3, 4, al. 3, 15*e*, al. 2, 15*f*, al. 3, 15*g*, al. 3, 15*h*, al. 3, 15*k*, 16, al. 7, et 16*a*<sup>bis</sup>, al. 2, de la loi du 24 juin 1902 sur les installations électriques[^ingress-1],[^ingress-2]
+vu les art. 3, 4, al. 3, 15*e*, al. 2, 15*f*, al. 3, 15*g*, al. 3, 15*h*, al. 3, 15*k*, 16, al. 7, et 16*a*<sup>bis</sup>, al. 2, de la loi du 24 juin 1902 sur les installations électriques (LIE)[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
 
 ## Section 1 Objet et champ d’application
 
@@ -59,13 +59,13 @@ Elle n’est pas applicable à l’établissement ou à la modification:
 <sup>4</sup> Les installations électriques destinées exclusivement ou principalement à l’exploitation de lignes de chemins de fer ou de trolleybus sont régies par l’ordonnance du 2 février 2000 sur la procédure d’approbation des plans des installations ferroviaires[^1-8].
 
 [^1-1]: Abrogé par le ch. I de l’O du 4 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^1-2]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
 [^1-3]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^1-4]: Nouvelle teneur selon le ch. I de l’O du 4 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-5]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^1-6]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
-[^1-7]: [[RO 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 4. [RO 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
-[^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^1-5]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^1-6]: [[RO 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016), [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 ch. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127)ch. I 3, [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 23, [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)annexe 3 ch. II 4, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 1 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 1, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 2. [RO 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
+[^1-7]: [[RO 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 26, [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)annexe 4 ch. II 2 [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)ch. I 2, [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)annexe ch. 4. [RO 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Voir actuellement l’O du 25 nov. 2015 ([RS 734.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8591)).
+[^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## Section 1*a* Procédure de plan sectoriel
 
@@ -101,7 +101,7 @@ Les projets suivants concernant des lignes d’une tension nominale égale ou su
 <sup>2</sup> L’OFEN consulte les services compétents de la Confédération et des cantons concernés au sujet des documents remis par le requérant. Il peut également consulter des organisations nationales de protection de l’environnement. Après examen des prises de position reçues, l’OFEN décide si une procédure de plan sectoriel doit être menée.
 
 [^1b-1]: Introduit par le ch. I de l’O du 9 oct. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1b-2]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^1b-2]: [RS 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 
 #### Art. 1c
 
@@ -110,7 +110,7 @@ Les projets suivants concernant des lignes d’une tension nominale égale ou su
 Un projet qui est vraisemblablement assujetti à l’obligation d’être fixé dans un plan sectoriel et dont la nécessité a été confirmée par la Commission fédérale de l’électricité (art. 22, al. 2<sup>bis</sup>, de la loi du 23 mars 2007 sur l’approvisionnement en électricité[^1c-2]) ou qui est démontrée d’une autre manière peut être inscrit dans le plan sectoriel comme information préalable.
 
 [^1c-1]: Introduit par le ch. I de l’O du 9 oct. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1c-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^1c-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 1d
 
@@ -145,11 +145,13 @@ Les documents suivants doivent être joints à la demande:
 - a. une justification du projet et des informations sur sa nécessité;
 - b. l’accord de coordination et les documents énoncés à l’art. 1*d*.
 
-<sup>3</sup> L’OFEN transmet les documents aux offices représentés au sein de la Conférence de la Confédération pour l’organisation du territoire et leur demande d’émettre une première prise de position. Le délai pour ce faire est de deux mois.
+<sup>3</sup> L’OFEN établit un calendrier contraignant pour les membres du groupe d’accompagnement (art. 15*g*, al. 2, LIE) et pour les autres services concernés de la Confédération et des cantons. Ce calendrier se fonde sur les documents remis par le requérant et tient compte du délai légal de deux ans (art. 15*f*, al. 3, LIE).
 
-<sup>4</sup>
+<sup>4</sup> L’OFEN transmet les documents relatifs à la procédure de plan sectoriel aux services représentés au sein de la Conférence de la Confédération pour l’organisation du territoire.
 
-Après réception des prises de position, l’OFEN forme dans les deux mois un groupe d’accompagnement spécifique au projet, qui est composé de représentants des services et organisations suivants, chaque service ou organisation y disposant d’une voix:
+<sup>5</sup>
+
+Les services et organisations suivants siègent dans le groupe d’accompagnement:
 
 - a. Office fédéral du développement territorial;
 - b. Office fédéral de l’environnement;
@@ -157,50 +159,53 @@ Après réception des prises de position, l’OFEN forme dans les deux mois un g
 - d. Commission fédérale de l’électricité;
 - e. inspection;
 - f. cantons concernés;
-- g. organisations nationales de protection de l’environnement;
+- g. personne représentant les organisations nationales de protection de l’environnement;
 - h. requérant.
 
-[^1e-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+<sup>6</sup> L’OFEN dirige le processus dans lequel le groupe d’accompagnement est impliqué. Les membres du groupe ont un rôle consultatif dans leur domaine de spécialisation.
+
+[^1e-1]: Introduit par le ch. I de l’O du 3 avr. 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
 
 #### Art. 1f
 
 **Détermination de la zone de planification**[^1f-1]
 
-<sup>1</sup> L’OFEN transmet au groupe d’accompagnement les documents sur la zone de planification en vue d’une prise de position. Il peut organiser une visite des zones de planification potentielles avec ledit groupe.
+<sup>1</sup> L’OFEN transmet les documents complets sur la détermination de la zone de planification aux membres du groupe d’accompagnement en vue d’une prise de position. Il peut organiser une visite des zones de planification potentielles avec ledit groupe.
 
-<sup>2</sup> Sur la base d’un examen d’ensemble, le groupe d’accompagnement recommande une zone de planification à l’OFEN dans les deux mois suivant la réception de tous les documents nécessaires. La zone de planification doit être suffisamment grande pour permettre l’élaboration de plusieurs corridors de planification.
+<sup>2</sup> Il établit le projet de la fiche d’objet et son rapport sur la zone de planification en s’appuyant sur les prises de position et les recommandations des membres du groupe d’accompagnement.
 
-<sup>3</sup> L’OFEN établit le projet de la fiche d’objet et son rapport sur la zone de planification en s’appuyant sur la recommandation du groupe d’accompagnement et ouvre la procédure de consultation et de participation en vertu de l’art. 19 de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^1f-2].
+<sup>3</sup> Il mène une procédure de consultation des offices et ouvre la procédure de consultation et de participation en vertu de l’art. 19 de l’ordonnance du 28 juin 2000 sur l’aménagement du territoire (OAT)[^1f-2].
 
-<sup>4</sup> Après avoir remanié le projet de la fiche d’objet et son rapport, l’OFEN mène une procédure de consultation des offices. Dans les deux mois suivant la clôture de cette procédure, il demande au Conseil fédéral de déterminer la zone de planification.
+<sup>4</sup> Si, au vu des résultats de la procédure de consultation et de participation, des modifications importantes sont apportées au projet de la fiche d’objet et son rapport sur la zone de planification, il mène une nouvelle consultation des offices.
 
-<sup>5</sup> Dans les cas visés à l’art. 1*d*, al. 3, et en cas de réponse unanime des membres du groupe d’accompagnement, l’OFEN peut renoncer à la détermination formelle de la zone de planification et communiquer cette dernière directement au requérant.
+<sup>5</sup> Après la clôture de la procédure de consultation des offices, de la procédure de consultation et de la procédure de participation, il demande au Conseil fédéral de déterminer la zone de planification.
 
-[^1f-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1f-2]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+<sup>6</sup> Dans les cas visés à l’art. 1*d*, al. 3, et en cas de réponse unanime des membres du groupe d’accompagnement, il peut renoncer à la détermination formelle de la zone de planification et communiquer cette dernière directement au requérant.
+
+[^1f-1]: Introduit par le ch. I de l’O du 3 avr. 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^1f-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 1g
 
 **Détermination du corridor de planification**[^1g-1]
 
-<sup>1</sup> En règle générale, le requérant élabore au moins deux corridors de planification avec la participation des cantons concernés et fournit les documents nécessaires à l’OFEN.
+<sup>1</sup> L’OFEN transmet les documents complets concernant le corridor de planification aux membres du groupe d’accompagnement en vue d’une prise de position. Il peut organiser une visite des corridors de planification potentiels avec ledit groupe.
 
-<sup>2</sup> L’OFEN transmet les documents complets au groupe d’accompagnement dans les 30 jours suivant leur réception. Il peut organiser une visite des corridors de planification potentiels avec ledit groupe.
+<sup>2</sup> Il établit le projet de la fiche d’objet et son rapport sur le corridor de planification et sur la technologie de transport à utiliser en s’appuyant sur les prises de position et les recommandations des membres du groupe d’accompagnement.
 
-<sup>3</sup> Dans un délai de deux mois à compter de la réception de tous les documents nécessaires, le groupe d’accompagnement recommande à l’OFEN, sur la base d’un examen d’ensemble, un corridor de planification et la technologie de transport à utiliser, telle qu’une ligne aérienne ou une ligne souterraine.
+<sup>3</sup> Il mène une procédure de consultation des offices et ouvre la procédure de consultation et de participation en vertu de l’art. 19 OAT[^1g-2].
 
-<sup>4</sup> L’OFEN établit le projet de la fiche d’objet et son rapport sur le corridor de planification et la technologie de transport à utiliser en s’appuyant sur la recommandation du groupe d’accompagnement et ouvre la procédure de consultation et de participation en vertu de l’art. 19 OAT[^1g-2].
+<sup>4</sup> Si, au vu des résultats de la procédure de consultation et de participation, des modifications importantes sont apportées au projet de la fiche d’objet et son rapport sur le corridor de planification et sur la technologie de transport à utiliser, il mène une nouvelle consultation des offices.
 
 <sup>5</sup>
 
-Après avoir remanié le projet de la fiche d’objet et son rapport, l’OFEN mène une procédure de consultation des offices. Dans les deux mois suivant la clôture de cette procédure, il demande la détermination du corridor de planification et de la technologie de transport à utiliser:
+Après la clôture de la procédure de consultation des offices, de la procédure de consultation et de la procédure de participation, il demande la détermination du corridor de planification et de la technologie de transport à utiliser:
 
 - a. au Conseil fédéral dans les cas ressortant de l’art. 21, al. 1, OAT;
-- b.[^1g-3] au Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) dans les cas ressortant de l’art. 21, al. 4, OAT.
+- b. au Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) dans les cas ressortant de l’art. 21, al. 4, OAT.
 
-[^1g-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1g-2]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
-[^1g-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^1g-1]: Introduit par le ch. I de l’O du 3 avr. 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^1g-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 ## Section 2 Procédure d’approbation des plans
 
@@ -236,7 +241,7 @@ Les dossiers de demande soumis à l’approbation de l’inspection doivent cont
 [^2-2]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 [^2-3]: Introduite par le ch. I de l’O du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
 [^2-4]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^2-5]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^2-5]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 [^2-6]: Introduit par le ch. I 5 de l’O du 19 août 2020 portant adaptation d’ordonnances en raison de la modification de la LF sur l’expropriation, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 3
@@ -249,7 +254,7 @@ Les dossiers de demande soumis à l’approbation de l’inspection doivent cont
 
 <sup>3</sup> Les exploitants d’installations à courant faible sont tenus de fournir gratuitement toutes les informations nécessaires à l’élaboration des documents accompagnant le plan.
 
-[^3-1]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^3-1]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
 
 #### Art. 4
 
@@ -299,7 +304,7 @@ Si des modifications importantes sont apportées au projet initial par suite de 
 
 <sup>1</sup>
 
-En règle générale, l’inspection traite la demande d’approbation des plans dans les délais suivants:
+L’inspection traite la demande d’approbation des plans dans les délais suivants:[^8-2]
 
 - a. dix jours ouvrables entre la réception de la requête complète et la transmission aux cantons et aux services fédéraux concernés;
 - b. 30 jours ouvrables pour l’établissement de la décision après la conclusion des négociations concernant les oppositions et la réception des avis des autorités.
@@ -309,12 +314,13 @@ En règle générale, l’inspection traite la demande d’approbation des plans
 Les délais de traitement ne courent pas pendant le temps nécessaire:
 
 - a. à l’adaptation ou à la modification des documents par le requérant;
-- b. à la réalisation d’expertises ou de rapports complémentaires.[^8-2]
+- b. à la réalisation d’expertises ou de rapports complémentaires.[^8-3]
 
 <sup>3</sup> Dans le cas d’une procédure d’approbation des plans simplifiée, le délai applicable à l’ensemble de la procédure ne doit pas en règle générale dépasser 20 jours ouvrables.
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 
 #### Art. 8a
 
@@ -322,11 +328,11 @@ Les délais de traitement ne courent pas pendant le temps nécessaire:
 
 <sup>1</sup>
 
-En règle générale, l’OFEN traite la demande d’approbation des plans dans les délais suivants:
+L’OFEN traite la demande d’approbation des plans dans les délais suivants:[^8a-2]
 
-- a.[^8a-2] …
-- b.[^8a-3] trois mois à compter de la transmission du dossier par l’inspection jusqu’à la conduite de négociations sur les oppositions;
-- c. huit mois pour l’établissement de la décision après la conclusion des négociations concernant les oppositions et la réception des avis des autorités.
+- a.[^8a-3] …
+- b.[^8a-4] trois mois à compter de la transmission du dossier par l’inspection jusqu’à la conduite de négociations sur les oppositions;
+- c.[^8a-5] six mois pour l’établissement de la décision à compter de la fin de l’échange d’écritures.
 
 <sup>2</sup>
 
@@ -336,8 +342,10 @@ Les délais de traitement ne courent pas pendant le temps nécessaire:
 - b. à la réalisation d’expertises ou de rapports complémentaires.
 
 [^8a-1]: Introduit par le ch. I de l’O du 9 oct. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^8a-2]: Abrogée par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
-[^8a-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^8a-3]: Abrogée par le ch. I de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-5]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
 
 #### Art. 8b
 
@@ -360,39 +368,50 @@ Si le requérant a besoin de plus de trois mois pour adapter les documents de de
 
 #### Art. 9a
 
-**Exceptions à l’obligation d’approbation des plans**[^9a-1]
+**Exceptions à l’obligation d’approbation des plans pour des travauxd’entretien**[^9a-1]
 
-<sup>1</sup> Aucune approbation des plans n’est nécessaire pour des travaux d’entretien et des petites modifications techniques des installations lorsqu’aucune conséquence particulière pour l’environnement n’est à escompter.
+<sup>1</sup> Aucune approbation des plans n’est nécessaire pour les travaux d’entretien d’une installation lorsqu’aucun effet particulier sur l’environnement n’est à escompter.
 
 <sup>2</sup>
 
 On entend par travaux d’entretien tous les travaux destinés à assurer l’exploitation d’une installation conformément à ce qui a été approuvé, notamment:
 
 - a. le remplacement équivalent de parties de l’installation;
-- b. les réparations, les mesures de protection contre la corrosion et la décomposition ainsi que les mesures d’assainissement, et
-- c. le renouvellement de la peinture extérieure des parties de l’installation dans la même couleur.
+- b. les réparations, les mesures de protection contre la corrosion et la décomposition ainsi que les mesures d’assainissement;
+- c. le renouvellement de la peinture extérieure de parties de l’installation dans la même couleur.
 
-<sup>3</sup>
+<sup>3</sup> En cas de doute, l’inspection décide de l’obligation d’approbation des plans.
 
-On entend par petites modifications techniques, les modifications qui n’altèrent pas sensiblement l’aspect extérieur de l’installation:
+<sup>4</sup> L’exploitant documente à l’intention de l’inspection les travaux d’entretien effectués.
 
-- a. le remplacement des fils de terre par des fils de terre avec conducteurs à fibres optiques intégrés ainsi que leur utilisation pour acheminer les données de l’exploitant ou de tiers;
-- b. les mesures visant à optimiser les phases, les pertes et le bruit des lignes, pour autant que le courant déterminant visé à l’annexe 1, ch. 13, al. 2, ORNI[^9a-2] ne soit pas augmenté durablement;
+[^9a-1]: Introduit par le ch. I de l’O du 9 oct. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nouvelle teneur selon le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+
+#### Art. 9a<sup>bis</sup>
+
+**Exceptions à l’obligation d’approbation des plans pour des modifications**[^9abis-1]
+
+<sup>1</sup>
+
+Aucune approbation des plans n’est nécessaire pour les modifications suivantes lorsqu’aucun effet particulier sur l’environnement n’est à escompter et que l’aspect extérieur de l’installation n’est pas sensiblement altéré:
+
+- a. le remplacement de fils de terre par des fils de terre avec conducteurs à fibres optiques intégrés et l’utilisation de fils de terre pour acheminer les données de l’exploitant ou de tiers;
+- b. les mesures visant à optimiser les phases, les pertes et le bruit des lignes:
 - c. le remplacement des isolants par des isolants d’un autre type de construction;
-- d. le remplacement des câbles dans les canalisations existantes par des câbles d’un autre type de construction, pour autant que la configuration dans les tubes ne change pas et que le courant déterminant visé à l’annexe 1, ch. 13, al. 2, ORNI ne soit pas augmenté durablement;
-- e. le remplacement de transformateurs sur des stations existantes par des transformateurs de même type dotés d’une puissance supérieure, et
-- f.[^9a-3] la mise en œuvre des mesures de protection des oiseaux visées à l’art. 30 de l’ordonnance du 30 mars 1994 sur les lignes électriques[^9a-4].
+- d. le remplacement des câbles dans les canalisations existantes par des câbles d’un autre type de construction;
+- e. le remplacement de transformateurs sur des stations existantes par des transformateurs de même type;
+- f. la mise en œuvre de mesures à des fins de protection des oiseaux visées à l’art. 30 de l’ordonnance du 30 mars 1994 sur les lignes électriques[^9abis-2];
+- g. l’augmentation de la tension d’exploitation à 220 kV au maximum ainsi que le déplacement ou l’adaptation des consoles de pylônes existants;
+- h. le remplacement de pylônes isolés se trouvant en dehors d’objets visés à l’art. 5 de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^9abis-3] par des pylônes de dimensions similaires;
+- i. le remplacement de stations transformatrices existantes d’une tension nominale égale ou inférieure à 36 kV par des installations de dimensions similaires sur le même site à l’intérieur de la zone à bâtir;
+- j. la construction d’installations solaires suffisamment adaptées sur des stations transformatrices d’une tension nominale égale ou inférieure à 36 kV.
 
-<sup>4</sup> En cas de doute concernant des travaux d’entretien, l’inspection décide de l’obligation d’approbation des plans.
+<sup>2</sup> L’exploitant doit annoncer par écrit à l’inspection les modifications mentionnées à l’al. 1 qu’il prévoit d’exécuter. L’inspection lui indique dans les 20 jours suivant la réception de cette annonce si une procédure d’approbation des plans est nécessaire.
 
-<sup>5</sup> L’exploitant présente par écrit les petites modifications techniques à l’inspection avant l’exécution envisagée. L’inspection indique dans les 20 jours suivant la réception de cette annonce si une procédure d’approbation des plans est nécessaire.
+<sup>3</sup> L’exploitant documente à l’intention de l’inspection les modifications effectuées.
 
-<sup>6</sup> L’exploitant documente à l’intention de l’inspection les modifications et les travaux d’entretien effectués.
-
-[^9a-1]: Introduit par le ch. I de l’O du 9 oct. 2013 ([RO 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nouvelle teneur selon le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^9a-2]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
-[^9a-3]: Introduite par le ch. II de l’O du 25 juin 2025, en vigueur depuis le 1<sup>er</sup> août 2025 ([RO 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
-[^9a-4]: [RS 734.31](https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233)
+[^9abis-1]: Introduit par le ch. I de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^9abis-2]: [RS 734.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8586)
+[^9abis-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9b
 
@@ -419,7 +438,7 @@ Lorsqu’un projet concerne une installation d’une tension nominale égale ou 
 Si des droits doivent être renouvelés ou acquis en plus pour une installation existante au bénéfice d’une décision entrée en force sans que celle-ci ne soit modifiée sur le plan architectural, la procédure relève exclusivement de la loi fédérale du 20 juin 1930 sur l’expropriation[^9d-2] et aucune approbation des plans n’est requise.
 
 [^9d-1]: Introduit par le ch. I de l’O du 3 avr. 2019, en vigueur depuis le 1<sup>er</sup> juin 2019 ([RO 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^9d-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^9d-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Section 3 Début des travaux et mise en service
 

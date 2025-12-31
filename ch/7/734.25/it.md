@@ -4,11 +4,11 @@ title: "Ordinanza del 2 febbraio 2000 sulla procedura d'approvazione dei piani d
 short: OPIE
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/123"
 language: it
-version: 2025-08-01
+version: 2026-01-01
 adopted: 2000-02-02
 in_force: 2000-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20250801/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20250801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/123/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2000-123-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/123/20250801/it"
 
 (OPIE)
 
-del 2 febbraio 2000 (Stato 1° agosto 2025)
+del 2 febbraio 2000 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 3, 4 capoverso 3, 15*e* capoverso 2, 15*f* capoverso 3, 15*g*
 
 ordina:
 
-[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^ingress-1]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
 [^ingress-2]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 
 ## Sezione 1: Oggetto e campo d’applicazione
@@ -59,13 +59,13 @@ Essa non è applicabile ai piani che concernono la costruzione e la modifica di:
 <sup>4</sup> Agli impianti elettrici che servono solo o principalmente i veicoli ferroviari o i filoveicoli si applica l’ordinanza del 2 febbraio 2000[^1-8] sulla procedura d’approvazione dei piani di impianti ferroviari.
 
 [^1-1]: Abrogato dalla cifra I dell’O del 4 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-2]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^1-2]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
 [^1-3]: Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
 [^1-4]: Nuovo testo giusta la cifra I dell’O del 4 giu. 2021, in vigore dal 1° lug. 2021 ([RU 2021 371](https://fedlex.data.admin.ch/eli/oc/2021/371)).
-[^1-5]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
-[^1-6]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 cifra II 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 cifra II, 12749; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653). [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/eli/cc/2016/17)).
-[^1-7]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV 26; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 cifra II 2, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)cifra I 2; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4. [RU 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Vedi ora l’O del 25 nov. 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva ([RS 734.6](https://fedlex.data.admin.ch/eli/cc/2016/19)).
-[^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^1-5]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
+[^1-6]: [[RU 1997 1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016); [2000 734](https://fedlex.data.admin.ch/eli/oc/2000/123)art. 19 n. 2 [762](https://fedlex.data.admin.ch/eli/oc/2000/127); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 23; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 cifra II n. 4; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 cifra II, 12749; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653). [RU 2016 105](https://fedlex.data.admin.ch/eli/oc/2016/17)art. 29]. Vedi ora l’O del 25 nov. 2015 ([RS 734.26](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8582)).
+[^1-7]: [[RU 1998 963](https://fedlex.data.admin.ch/eli/oc/1998/963_963_963); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)cifra IV n. 26; [2010 2583](https://fedlex.data.admin.ch/eli/oc/2010/348)all. 4 cifra II n. 2, [2749](https://fedlex.data.admin.ch/eli/oc/2010/358)cifra I n. 2; [2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)all. n. 4. [RU 2016 143](https://fedlex.data.admin.ch/eli/oc/2016/19)art. 23]. Vedi ora l’O del 25 nov. 2015 sugli apparecchi e i sistemi di protezione destinati a essere utilizzati in atmosfera potenzialmente esplosiva ([RS 734.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8591)).
+[^1-8]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 ## Sezione 1*a*: Procedura del piano settoriale
 
@@ -101,7 +101,7 @@ I seguenti progetti riguardanti linee con una tensione nominale pari o superiore
 <sup>2</sup> L’UFE consulta i competenti servizi della Confederazione e dei Cantoni coinvolti in merito ai documenti presentati dal richiedente. Esso può altresì consultare le organizzazioni di protezione dell’ambiente attive a livello nazionale. Dopo aver esaminato i pareri pervenuti, l’UFE decide se deve essere svolta una procedura del piano settoriale.
 
 [^1b-1]: Introdotto dalla cifra I dell’O del 9 ott. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1b-2]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^1b-2]: [RS 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 
 #### Art. 1c
 
@@ -110,7 +110,7 @@ I seguenti progetti riguardanti linee con una tensione nominale pari o superiore
 Un progetto presumibilmente soggetto all’obbligo di elaborare un piano settoriale e la cui necessità è stata confermata dalla Commissione federale dell’energia elettrica (art. 22 cpv. 2<sup>bis</sup> della L del 23 mar. 2007[^1c-2] sull’approvvigionamento elettrico) o è dimostrata in altro modo, può essere inserito nel piano settoriale come informazione preliminare.
 
 [^1c-1]: Introdotto dalla cifra I dell’O del 9 ott. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1c-2]: [RS 734.7](https://fedlex.data.admin.ch/eli/cc/2007/418)
+[^1c-2]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
 
 #### Art. 1d
 
@@ -145,62 +145,67 @@ Alla domanda devono essere allegati i seguenti documenti:
 - a. una motivazione per il progetto e indicazioni circa la sua necessità;
 - b. l’accordo di coordinamento e i documenti di cui all’articolo 1*d*.
 
-<sup>3</sup> L’UFE trasmette i documenti agli uffici rappresentati nella Conferenza sull’assetto del territorio affinché presentino un primo parere entro due mesi.
+<sup>3</sup> L’UFE redige un piano delle scadenze vincolante per i membri del gruppo di accompagnamento (art. 15*g* cpv. 2 LIE) nonché per tutti gli altri servizi competenti della Confederazione e dei Cantoni coinvolti. Il piano delle scadenze è definito in base ai documenti del richiedente nel rispetto del termine legale di due anni (art. 15*f* cpv. 3 LIE).
 
-<sup>4</sup>
+<sup>4</sup> L’UFE trasmette i documenti relativi alla procedura del piano settoriale ai servizi rappresentati nella Conferenza sull’assetto del territorio.
 
-Una volta ricevuti i pareri, entro due mesi l’UFE istituisce un gruppo di accompagnamento specifico al progetto nel quale sono rappresentati, con un voto ciascuno, i seguenti servizi e organizzazioni:
+<sup>5</sup>
+
+Al gruppo di accompagnamento partecipano i seguenti servizi e organizzazioni:
 
 - a. l’Ufficio federale dello sviluppo territoriale;
 - b. l’Ufficio federale dell’ambiente;
-- c. altri uffici federali coinvolti;
+- c. altri Uffici federali coinvolti;
 - d. la Commissione federale dell’energia elettrica;
 - e. l’Ispettorato;
-- f. ogni Cantone coinvolto;
-- g. le organizzazioni di protezione dell’ambiente attive a livello nazionale;
+- f. i Cantoni coinvolti;
+- g. una rappresentanza delle organizzazioni di protezione dell’ambiente attive a livello nazionale;
 - h. il richiedente.
 
-[^1e-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
+<sup>6</sup> L’UFE conduce il processo del gruppo di accompagnamento. I singoli membri del gruppo di accompagnamento hanno una funzione consultiva nei limiti del loro rispettivo settore di competenza.
+
+[^1e-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
 
 #### Art. 1f
 
 **Definizione della zona di pianificazione quale dato acquisito**[^1f-1]
 
-<sup>1</sup> L’UFE trasmette al gruppo di accompagnamento i documenti relativi alla zona di pianificazione affinché si pronunci in merito. Al fine di ispezionare possibili zone di pianificazione può organizzare sopralluoghi con il gruppo di accompagnamento.
+<sup>1</sup> L’UFE trasmette ai membri del gruppo di accompagnamento la documentazione completa per la definizione della zona di pianificazione quale dato acquisito affinché si pronunci in merito in un parere. Al fine di ispezionare possibili zone di pianificazione può organizzare sopralluoghi con il gruppo di accompagnamento.
 
-<sup>2</sup> Sulla base di un esame d’insieme, entro due mesi dal ricevimento di tutti i documenti necessari il gruppo di accompagnamento raccomanda all’UFE una zona di pianificazione. La zona di pianificazione deve essere sufficientemente ampia da consentire al suo interno l’elaborazione di diversi corridoi di pianificazione.
+<sup>2</sup> Sulla base dei pareri e delle raccomandazioni dei membri del gruppo di accompagnamento redige la bozza della scheda di coordinamento e il relativo rapporto per la zona di pianificazione.
 
-<sup>3</sup> Sulla base della raccomandazione del gruppo di accompagnamento, l’UFE redige la bozza della scheda di coordinamento con rapporto per la zona di pianificazione e avvia la procedura di audizione e di partecipazione secondo l’articolo 19 dell’ordinanza del 28 giugno 2000[^1f-2] sulla pianificazione del territorio (OPT).
+<sup>3</sup> Svolge la consultazione degli Uffici e avvia la procedura di audizione e di partecipazione secondo l’articolo 19 dell’ordinanza del 28 giugno 2000[^1f-2] sulla pianificazione del territorio (OPT).
 
-<sup>4</sup> Dopo la modifica della bozza, l’UFE svolge la consultazione degli uffici. Entro due mesi dalla conclusione della consultazione degli uffici chiede al Consiglio federale la definizione della zona di pianificazione quale dato acquisito.
+<sup>4</sup> Se a seguito della procedura di audizione e di partecipazione vengono apportate modifiche sostanziali alla bozza della scheda di coordinamento e al relativo rapporto per la zona di pianificazione, svolge un’ulteriore consultazione degli Uffici.
 
-<sup>5</sup> Nei casi di cui all’articolo 1*d* capoverso 3 e con l’accordo unanime dei membri del gruppo d’accompagnamento, esso può rinunciare a una definizione formale della zona di pianificazione quale dato acquisito e comunicare direttamente la zona di pianificazione al richiedente.
+<sup>5</sup> Dopo la conclusione della consultazione degli Uffici e della procedura di audizione e di partecipazione chiede al Consiglio federale di definire la zona di pianificazione quale dato acquisito.
 
-[^1f-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1f-2]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
+<sup>6</sup> Nei casi di cui all’articolo 1*d* capoverso 3 e con l’accordo unanime dei membri del gruppo d’accompagnamento può rinunciare a una definizione formale della zona di pianificazione quale dato acquisito e comunicare direttamente la zona di pianificazione al richiedente.
+
+[^1f-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^1f-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 #### Art. 1g
 
 **Definizione del corridoio di pianificazione quale dato acquisito**[^1g-1]
 
-<sup>1</sup> In collaborazione con i Cantoni interessati, il richiedente elabora di regola almeno due corridoi di pianificazione e presenta all’UFE i necessari documenti.
+<sup>1</sup> L’UFE trasmette ai membri del gruppo di accompagnamento la documentazione completa per la definizione del corridoio di pianificazione quale dato acquisito affinché si pronunci in merito in un parere. Al fine di ispezionare i possibili corridoi di pianificazione può organizzare sopralluoghi con il gruppo di accompagnamento.
 
-<sup>2</sup> Entro 30 giorni dal ricevimento, l’UFE trasmette i documenti completi al gruppo di accompagnamento. Al fine di ispezionare possibili corridoi di pianificazione può organizzare un sopralluogo con il gruppo di accompagnamento.
+<sup>2</sup> Sulla base dei pareri e delle raccomandazioni dei membri del gruppo di accompagnamento redige la bozza della scheda di coordinamento e il relativo rapporto per il corridoio di pianificazione e per la tecnologia di trasporto da impiegare.
 
-<sup>3</sup> Sulla base di un esame d’insieme, entro due mesi dal ricevimento di tutti i documenti necessari il gruppo di accompagnamento raccomanda all’UFE un corridoio di pianificazione e la tecnologia di trasporto da impiegare, ovvero linea aerea o cavo interrato.
+<sup>3</sup> Svolge la consultazione degli Uffici e avvia la procedura di audizione e di partecipazione secondo l’articolo 19 OPT[^1g-2].
 
-<sup>4</sup> Sulla base della raccomandazione del gruppo di accompagnamento, l’UFE redige la bozza della scheda di coordinamento con rapporto per il corridoio di pianificazione e la tecnologia di trasporto da impiegare e avvia la procedura di audizione e di partecipazione secondo l’articolo 19 OPT[^1g-2].
+<sup>4</sup> Se a seguito della procedura di audizione e di partecipazione vengono apportate modifiche sostanziali alla bozza della scheda di coordinamento e al relativo rapporto per il corridoio di pianificazione e per la tecnologia di trasporto da impiegare, svolge un’ulteriore consultazione degli Uffici.
 
 <sup>5</sup>
 
-Dopo la modifica della bozza esso svolge la consultazione degli uffici. Entro due mesi dalla conclusione della consultazione degli uffici, esso chiede la definizione del corridoio di pianificazione e della tecnologia di trasporto da impiegare:
+Dopo la conclusione della consultazione degli Uffici e della procedura di audizione e di partecipazione chiede la definizione quale dato acquisito del corridoio di pianificazione e della tecnologia di trasporto da impiegare:
 
 - a. al Consiglio federale nei casi di cui all’articolo 21 capoverso 1 OPT;
-- b.[^1g-3] al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) nei casi di cui all’articolo 21 capoverso 4 OPT.
+- b. al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC) nei casi di cui all’articolo 21 capoverso 4 OPT.
 
-[^1g-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^1g-2]: [RS 700.1](https://fedlex.data.admin.ch/eli/cc/2000/310)
-[^1g-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^1g-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^1g-2]: [RS 700.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8353)
 
 ## Sezione 2: Procedura d’approvazione dei piani
 
@@ -236,8 +241,8 @@ I documenti da allegare alla domanda da presentare all’Ispettorato per l’app
 [^2-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 [^2-3]: Introdotta dalla cifra I dell’O del 24 giu. 2009, in vigore dal 1° set. 2009 ([RU 2009 3507](https://fedlex.data.admin.ch/eli/oc/2009/429)).
 [^2-4]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^2-5]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
-[^2-6]: Introdotto dalla cifra I 5 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
+[^2-5]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
+[^2-6]: Introdotto dalla cifra I n. 5 dell’O del 19 ago. 2020 che adegua ordinanze a seguito della modifica della legge federale sull’espropriazione, in vigore dal 1° gen. 2021 ([RU 2020 3995](https://fedlex.data.admin.ch/eli/oc/2020/744)).
 
 #### Art. 3
 
@@ -249,7 +254,7 @@ I documenti da allegare alla domanda da presentare all’Ispettorato per l’app
 
 <sup>3</sup> Gli esercenti di impianti a corrente debole sono obbligati a mettere gratuitamente a disposizione le informazioni necessarie all’allestimento dei piani.
 
-[^3-1]: [RS 734.1](https://fedlex.data.admin.ch/eli/cc/1994/1185_1185_1185)
+[^3-1]: [RS 734.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8571)
 
 #### Art. 4
 
@@ -299,7 +304,7 @@ Se, sulla base delle obiezioni presentate nel corso della procedura d’approvaz
 
 <sup>1</sup>
 
-Per la trattazione di una domanda d’approvazione dei piani l’Ispettorato applica di regola i seguenti termini:
+Per la trattazione di una domanda d’approvazione dei piani l’Ispettorato applica i seguenti termini:[^8-2]
 
 - a. dieci giorni lavorativi dal ricevimento della domanda completa all’inoltro ai Cantoni e alle autorità federali interessate;
 - b. 30 giorni lavorativi per redigere la decisione dopo la conclusione delle trattative concernenti le opposizioni e il ricevimento dei pareri delle autorità.
@@ -309,12 +314,13 @@ Per la trattazione di una domanda d’approvazione dei piani l’Ispettorato app
 I termini di trattazione rimangono sospesi durante il periodo necessario per:
 
 - a. il completamento o la rielaborazione dei documenti da parte del richiedente;
-- b. l’allestimento di perizie o rapporti supplementari.[^8-2]
+- b. l’allestimento di perizie o rapporti supplementari.[^8-3]
 
 <sup>3</sup> Nella procedura semplificata il termine di trattazione applicabile all’intera procedura non deve superare di regola i 20 giorni lavorativi.
 
 [^8-1]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^8-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^8-3]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
 
 #### Art. 8a
 
@@ -322,11 +328,11 @@ I termini di trattazione rimangono sospesi durante il periodo necessario per:
 
 <sup>1</sup>
 
-Per la trattazione di una domanda d’approvazione dei piani, l’UFE applica di regola i termini seguenti:
+Per la trattazione di una domanda d’approvazione dei piani l’UFE applica i seguenti termini:[^8a-2]
 
-- a.[^8a-2] …
-- b.[^8a-3] tre mesi dal trasferimento della procedura da parte dell’Ispettorato fino alla conduzione di una trattativa concernente le opposizioni;
-- c. otto mesi per redigere la decisione dopo la conclusione della trattativa concernente le opposizioni e il ricevimento dei pareri delle autorità.
+- a.[^8a-3] …
+- b.[^8a-4] tre mesi dal trasferimento della procedura da parte dell’Ispettorato fino alla conduzione di una trattativa concernente le opposizioni;
+- c.[^8a-5] sei mesi per redigere la decisione dopo la conclusione dello scambio di scritti.
 
 <sup>2</sup>
 
@@ -336,8 +342,10 @@ I termini di trattazione rimangono sospesi durante il periodo necessario per:
 - b. l’allestimento di perizie o rapporti supplementari.
 
 [^8a-1]: Introdotto dalla cifra I dell’O del 9 ott. 2013, in vigore dal 1° dic. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)).
-[^8a-2]: Abrogata dalla cifra I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
-[^8a-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-2]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^8a-3]: Abrogata dalla cifra I dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-4]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 807](https://fedlex.data.admin.ch/eli/oc/2022/807)).
+[^8a-5]: Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
 
 #### Art. 8b
 
@@ -360,39 +368,50 @@ Qualora il richiedente necessiti di più di tre mesi per completare i documenti 
 
 #### Art. 9a
 
-**Deroghe all’obbligo di approvazione dei piani**[^9a-1]
+**Lavori di manutenzione non soggetti ad approvazione**[^9a-1]
 
-<sup>1</sup> I lavori di manutenzione e le modifiche tecniche di lieve entità degli impianti non necessitano dell’approvazione dei piani se non si prevedono particolari ripercussioni sull’ambiente.
+<sup>1</sup> I lavori di manutenzione degli impianti non necessitano dell’approvazione dei piani se non si prevedono particolari ripercussioni sull’ambiente.
 
 <sup>2</sup>
 
 Sono considerati lavori di manutenzione tutti i lavori destinati a garantire l’esercizio di un impianto nella misura autorizzata, in particolare:
 
 - a. la sostituzione equivalente di parti dell’impianto;
-- b. le riparazioni, le misure anticorrosione e contro il degrado nonché le misure di risanamento; e
+- b. le riparazioni, le misure anticorrosione e contro il degrado nonché le misure di risanamento;
 - c. il rinnovo della tinteggiatura esterna di parti dell’impianto nella stessa tonalità.
 
-<sup>3</sup>
+<sup>3</sup> In caso di dubbio circa l’obbligo d’approvazione dei piani decide l’Ispettorato.
 
-Sono considerate modifiche tecniche di lieve entità, se non si altera in maniera sostanziale l’aspetto esterno dell’impianto:
+<sup>4</sup> Il gestore documenta all’Ispettorato i lavori di manutenzione eseguiti.
 
-- a. la sostituzione delle funi di guardia con funi di guardia dotate di fibra ottica integrata nonché il loro utilizzo per la trasmissione di dati del gestore o di terzi;
-- b. le misure di ottimizzazione delle fasi nonché di riduzione delle perdite e dell’inquinamento fonico delle linee, fintanto che la corrente determinante di cui all’allegato 1 numero 13 capoverso 2 ORNI[^9a-2] non viene aumentata in modo permanente;
+[^9a-1]: Introdotto dalla cifra I dell’O del 9 ott. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nuovo testo giusta la cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+
+#### Art. 9a<sup>bis</sup>
+
+**Modifiche non soggette ad approvazione**[^9abis-1]
+
+<sup>1</sup>
+
+Le seguenti modifiche non necessitano dell’approvazione dei piani se non si prevedono particolari ripercussioni sull’ambiente e se non si altera in maniera sostanziale l’aspetto esterno dell’impianto:
+
+- a. la sostituzione delle funi di guardia con funi di guardia dotate di fibra ottica integrata nonché l’utilizzo di funi di guardia per la trasmissione di dati del gestore o di terzi;
+- b. le misure di ottimizzazione delle fasi nonché di riduzione delle perdite e dell’inquinamento fonico delle linee;
 - c. la sostituzione del modello di costruzione degli isolatori;
-- d. la sostituzione del modello di costruzione dei cavi in tubazioni esistenti, fintanto che non viene modificata la disposizione all’interno delle tubazioni e la corrente determinante di cui all’allegato 1 numero 13 capoverso 2 ORNI non viene aumentata in modo permanente;
-- e. la sostituzione di trasformatori delle stazioni esistenti con trasformatori dello stesso tipo aventi una potenza superiore;
-- f.[^9a-3] l’attuazione di misure per la protezione dei volatili secondo l’articolo 30 dell’ordinanza del 30 marzo 1994[^9a-4] sulle linee elettriche.
+- d. la sostituzione del modello di costruzione dei cavi in tubazioni esistenti;
+- e. la sostituzione di trasformatori delle stazioni esistenti con trasformatori dello stesso tipo;
+- f. l’attuazione di misure per la protezione dei volatili secondo l’articolo 30 dell’ordinanza del 30 marzo 1994[^9abis-2] sulle linee elettriche;
+- g. l’aumento della tensione di esercizio fino a un massimo di 220 kV e il riposizionamento o l’adattamento delle mensole sui tralicci esistenti;
+- h. la sostituzione di singoli tralicci che si trovano al di fuori degli oggetti di cui all’articolo 5 della legge federale del 1° luglio 1966[^9abis-3] sulla protezione della natura e del paesaggio con tralicci di dimensioni simili;
+- i. la sostituzione di stazioni di trasformazione esistenti aventi una tensione nominale massima di 36 kV con impianti di dimensioni simili nella stessa ubicazione all’interno della zona edificabile;
+- j. l’installazione di impianti solari sufficientemente adattati sulle stazioni di trasformazione aventi una tensione nominale massima di 36 kV.
 
-<sup>4</sup> In caso di dubbio circa l’obbligo d’approvazione dei piani per lavori di manutenzione decide l’Ispettorato.
+<sup>2</sup> Il gestore deve notificare per scritto all’Ispettorato le modifiche di cui al capoverso 1 prima dell’esecuzione prevista. Entro 20 giorni dal ricevimento della notifica l’Ispettorato gli comunica se deve essere eseguita una procedura di autorizzazione dei piani.
 
-<sup>5</sup> Prima dell’esecuzione prevista il gestore notifica per scritto all’Ispettorato le modifiche tecniche di lieve entità. Entro 20 giorni dal ricevimento della notifica l’Ispettorato comunica se deve essere eseguita una procedura d’approvazione dei piani.
+<sup>3</sup> Il gestore documenta all’Ispettorato le modifiche eseguite.
 
-<sup>6</sup> Il gestore documenta all’Ispettorato i lavori di manutenzione e le modifiche eseguiti.
-
-[^9a-1]: Introdotto dalla cifra I dell’O del 9 ott. 2013 ([RU 2013 3509](https://fedlex.data.admin.ch/eli/oc/2013/653)). Nuovo testo giusta la cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^9a-2]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
-[^9a-3]: Introdotta dalla cifra II dell’O del 25 giu. 2025, in vigore dal 1° ago. 2025 ([RU 2025 451](https://fedlex.data.admin.ch/eli/oc/2025/451)).
-[^9a-4]: [RS 734.31](https://fedlex.data.admin.ch/eli/cc/1994/1233_1233_1233)
+[^9abis-1]: Introdotto dalla cifra I dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 682](https://fedlex.data.admin.ch/eli/oc/2025/682)).
+[^9abis-2]: [RS 734.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8586)
+[^9abis-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 #### Art. 9b
 
@@ -419,7 +438,7 @@ Per un progetto riguardante un impianto con una tensione nominale pari o inferio
 Se per un impianto esistente per il quale è stata rilasciata un’autorizzazione definitiva devono essere rinnovati o acquistati diritti, senza alcuna modifica edilizia all’impianto, la procedura è determinata esclusivamente dalla legge federale del 20 giugno 1930[^9d-2] sulla espropriazione e non è richiesta l’approvazione dei piani.
 
 [^9d-1]: Introdotto dalla cifra I dell’O del 3 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1367](https://fedlex.data.admin.ch/eli/oc/2019/267)).
-[^9d-2]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^9d-2]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 ## Sezione 3: Inizio dei lavori e attivazione
 
