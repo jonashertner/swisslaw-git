@@ -3,20 +3,19 @@ canton: VS
 number: "901.100"
 title: Verordnung zum Gesetz über die Regionalpolitik
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-01-26
+version: 2026-01-01
+version_adopted: 2026-03-18
 adopted: 2009-12-09
 in_force: 2010-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/901.100"
-pdf: "https://lex.vs.ch/api/de/versions/3012/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3591/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Gesetz über die Regionalpolitik
 
-vom 09.12.2009 (Stand 01.01.2022)
+vom 09.12.2009 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -245,7 +244,7 @@ verordnet:
 - b) Östlich Raron: Bister, Bettmeralp;
 - c) Brig: Simplon, Zwischbergen;
 - d) Visp: Eisten, Saas Grund, Embd, Staldenried, Randa, Törbel, Saas Almagell, Saas Balen;
-- e) Westlich Raron: Blatten, Ferden, Eischoll, Kippel;
+- e) Westlich Raron: Blatten, Ferden, Eischoll, Kippel, Wiler;
 - f) Leuk: Albinen, Oberems, Ergisch, Guttet-Feschel, Inden;
 - g) Herens: Evolène, Saint-Martin, Hérémence, Mont-Noble;
 - h) Martigny: Isérables, Trient;

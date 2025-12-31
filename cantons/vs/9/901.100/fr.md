@@ -3,20 +3,19 @@ canton: VS
 number: "901.100"
 title: Ordonnance sur la loi sur la politique régionale
 language: fr
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-01-26
+version: 2026-01-01
+version_adopted: 2026-03-18
 adopted: 2009-12-09
 in_force: 2010-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/901.100"
-pdf: "https://lex.vs.ch/api/fr/versions/3012/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3591/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la loi sur la politique régionale
 
-du 09.12.2009 (état 01.01.2022)
+du 09.12.2009 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -245,7 +244,7 @@ ordonne:
 - b) Rarogne oriental: Bister, Bettmeralp;
 - c) Brigue: Simplon, Zwischbergen;
 - d) Viège: Eisten, Saas Grund, Embd, Staldenried, Randa, Törbel, Saas Almagell, Saas Balen;
-- e) Rarogne occidental: Blatten, Ferden, Eischoll, Kippel;
+- e) Rarogne occidental: Blatten, Ferden, Eischoll, Kippel, Wiler;
 - f) Loèche: Albinen, Oberems, Ergisch, Guttet-Feschel, Inden;
 - g) Herens: Evolène, Saint-Martin, Hérémence, Mont-Noble;
 - h) Martigny: Isérables, Trient;
