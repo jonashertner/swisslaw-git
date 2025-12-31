@@ -4,11 +4,11 @@ title: "Ordonnance du 27 novembre 2024 relative à la loi fédérale sur les obj
 short: OCI
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/772"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2024-11-27
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-772-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2024-772-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20250101/fr"
 
 (Ordonnance sur la protection du climat, OCl)
 
-du 27 novembre 2024 (État le 1<sup>er</sup> janvier 2025)
+du 27 novembre 2024 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu les art. 3, al. 5, 4, al. 2, 6, al. 3, 7, 11, al. 1, et 13, al. 1, de la loi 
 
 arrête:
 
-[^ingress-1]: [RS 814.310](https://fedlex.data.admin.ch/eli/cc/2023/655)
-[^ingress-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-1]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
+[^ingress-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ## Chapitre 1 Dispositions générales
 
@@ -54,7 +54,7 @@ La présente ordonnance régit:
 
 <sup>4</sup> La conversion des émissions de gaz à effet de serre en équivalents CO<sub>2</sub> (éq.‑CO<sub>2</sub>) repose sur les valeurs prévues à l’annexe 1 de l’ordonnance du 30 novembre 2012 sur le CO<sub>2</sub>[^2-1].
 
-[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ## Chapitre 2 Feuilles de route
 
@@ -75,7 +75,7 @@ Les feuilles de route pour les entreprises visées à l’art. 5 LCl contiennent
 
 <sup>2</sup> Les feuilles de route élaborées par les entreprises du secteur financier afin de rendre les flux financiers compatibles avec les objectifs climatiques respectent les exigences minimales relatives aux plans de transition visés à l’art. 3, al. 3, let. a, de l’ordonnance du 23 novembre 2022 relative au rapport sur les questions climatiques[^3-1].
 
-[^3-1]: [RS 221.434](https://fedlex.data.admin.ch/eli/cc/2022/747)
+[^3-1]: [RS 221.434](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40081)
 
 #### Art. 4
 
@@ -196,7 +196,7 @@ Une aide financière est octroyée aux entreprises suivantes uniquement si elles
 
 <sup>5</sup> Des seuils plus bas que ceux prévus à l’annexe 2 peuvent être fixés dans le cadre d’un appel d’offres.
 
-[^11-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^11-1]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 #### Art. 12
 
@@ -220,10 +220,10 @@ Une aide financière est octroyée aux entreprises suivantes uniquement si elles
 
 <sup>3</sup>
 
-Une association professionnelle peut déposer une demande pour un programme de branche, pour autant que les mesures sont mises en œuvre uniquement dans les entreprises de la branche qui emploient moins de 250 personnes et qui présentent:
+Une association professionnelle peut déposer une demande pour un programme de branche, pour autant que les mesures sont mises en œuvre uniquement dans les entreprises de la branche qui:
 
-- a. une consommation de chaleur de 5 GWh au plus par année, ou
-- b. une consommation d’électricité de 0,5 GWh au plus par année.
+- a. emploient moins de 250 personnes, et
+- b. présentent par année une consommation de chaleur de 5 GWh au plus et une consommation d’électricité de 0,5 GWh au plus.[^13-1]
 
 <sup>4</sup>
 
@@ -247,6 +247,8 @@ La demande contient les informations suivantes:
 <sup>7</sup> Si la demande concerne des contributions d’exploitation, elle indique comment les mesures seront poursuivies après la cessation de l’aide financière.
 
 <sup>8</sup> L’OFEN peut exiger des informations complémentaires dans la mesure où elles lui sont nécessaires pour évaluer la demande.
+
+[^13-1]: Nouvelle teneur selon le ch. III de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 14
 
@@ -554,7 +556,7 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 La modification de l’ordonnance du 1<sup>er</sup> novembre 2017 sur l’énergie[^34-1] est réglée dans l’annexe 3.
 
-[^34-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^34-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 35
 
@@ -656,7 +658,7 @@ Annexe 2
 - 3\.6 Si le CO<sub>2</sub> capté est stocké temporairement dans des produits, la demande d’aide financière doit être déposée par l’entreprise qui utilise le CO<sub>2</sub> capté. La feuille de route de l’entreprise qui capte le CO<sub>2</sub> doit également être jointe à la demande.
 - 3\.7 Si les mesures de stockage des émissions de CO<sub>2</sub> englobent l’ensemble de la chaîne de procédés, à savoir du captage à l’utilisation ou au stockage, l’ensemble de la chaîne de procédés est décrit dans la feuille de route.
 
-[^annex2-lvlu1-lvl3-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex2-lvlu1-lvl3-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 4 Délais d’atteinte des seuils
 

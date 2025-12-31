@@ -4,11 +4,11 @@ title: "Verordnung vom 27. November 2024 zum Bundesgesetz über die Ziele im Kli
 short: KlV
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/772"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2024-11-27
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2024-772-20250101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2024-772-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20250101/de"
 
 (Klimaschutz-Verordnung, KlV)
 
-vom 27. November 2024 (Stand am 1. Januar 2025)
+vom 27. November 2024 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 3 Absatz 5, 4 Absatz 2, 6 Absatz 3, 7, 11 Absatz 1 und
 
 verordnet:
 
-[^ingress-1]: [SR 814.310](https://fedlex.data.admin.ch/eli/cc/2023/655)
-[^ingress-2]: [SR 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-1]: [SR 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
+[^ingress-2]: [SR 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -54,7 +54,7 @@ Diese Verordnung regelt:
 
 <sup>4</sup> Für die Umrechnung der Treibhausgasemissionen in CO<sub>2</sub>-Äquivalente (CO<sub>2</sub>eq) sind die Werte gemäss Anhang 1 der CO<sub>2</sub>-Verordnung vom 30. November 2012[^2-1] zu verwenden.
 
-[^2-1]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^2-1]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ## 2. Kapitel: Fahrpläne
 
@@ -75,7 +75,7 @@ Fahrpläne für Unternehmen gemäss Artikel 5 KlG müssen mindestens enthalten:
 
 <sup>2</sup> Für Fahrpläne für die klimaverträgliche Ausrichtung der Finanzmittelflüsse von Unternehmen der Finanzbranche gelten die Mindestanforderungen an den Transitionsplan nach Artikel 3 Absatz 3 Buchstabe a der Verordnung vom 23. November 2022[^3-1] über die Berichterstattung über Klimabelange.
 
-[^3-1]: [SR 221.434](https://fedlex.data.admin.ch/eli/cc/2022/747)
+[^3-1]: [SR 221.434](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40081)
 
 #### Art. 4
 
@@ -196,7 +196,7 @@ Den folgenden Betreibern wird eine Finanzhilfe nur ausgerichtet, wenn sie zusät
 
 <sup>5</sup> Im Rahmen der Ausschreibungen können tiefere Schwellenwerte als jene nach Anhang 2 vorgesehen werden.
 
-[^11-1]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^11-1]: [SR 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 #### Art. 12
 
@@ -220,10 +220,10 @@ Den folgenden Betreibern wird eine Finanzhilfe nur ausgerichtet, wenn sie zusät
 
 <sup>3</sup>
 
-Ein Branchenverband kann ein Gesuch für ein Branchenprogramm einreichen, sofern die Massnahmen ausschliesslich in Unternehmen der Branche umgesetzt werden, die weniger als 250 Mitarbeitende beschäftigen und höchstens folgenden Energieverbrauch haben:
+Ein Branchenverband kann ein Gesuch für ein Branchenprogramm einreichen, sofern die Massnahmen ausschliesslich in Unternehmen der Branche umgesetzt werden, die:
 
-- a. jährlicher Wärmeverbrauch von höchstens fünf Gigawattstunden; oder
-- b. jährlicher Elektrizitätsverbrauch von höchstens einer halben Gigawattstunde.
+- a. weniger als 250 Mitarbeitende beschäftigen; und
+- b. jährlich höchstens fünf Gigawattstunden Wärme und jährlich höchstens eine halbe Gigawattstunde Elektrizität verbrauchen.[^13-1]
 
 <sup>4</sup>
 
@@ -247,6 +247,8 @@ Das Gesuch muss die folgenden Angaben enthalten:
 <sup>7</sup> Werden mit dem Gesuch Betriebsbeiträge beantragt, so ist darzulegen, wie die Massnahmen weitergeführt werden, nachdem die Finanzhilfe endet.
 
 <sup>8</sup> Das BFE kann zusätzliche Informationen verlangen, soweit dies für die Beurteilung des Gesuchs notwendig ist.
+
+[^13-1]: Fassung gemäss Ziff. III der V vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 14
 
@@ -554,7 +556,7 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 Die Änderung der Energieverordnung vom 1. November 2017[^34-1] wird in Anhang 3 geregelt.
 
-[^34-1]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^34-1]: [SR 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 35
 
@@ -656,7 +658,7 @@ Anhang 2
 - 3\.6 Wird das abgeschiedene CO<sub>2</sub> in Produkten temporär gespeichert, so ist das Gesuch um Finanzhilfe vom Unternehmen einzureichen, welches das abgeschiedene CO<sub>2</sub> nutzt. Mit dem Gesuch ist auch der Fahrplan des Unternehmens einzureichen, welches das CO<sub>2</sub> abscheidet.
 - 3\.7 Umfassen die Massnahmen zur Speicherung der CO<sub>2</sub>-Emissionen die gesamte Prozesskette von der Abscheidung bis zur Nutzung oder Speicherung, so ist im Fahrplan die gesamte Prozesskette zu beschreiben.
 
-[^annex2-lvlu1-lvl3-1]: [SR 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex2-lvlu1-lvl3-1]: [SR 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 4 Fristen für die Erreichung der Schwellenwerte
 

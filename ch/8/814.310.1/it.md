@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2024 concernente la legge federale sugli obiet
 short: OOCli
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/772"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2024-11-27
 in_force: 2025-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2024-772-20250101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/772/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2024-772-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/772/20250101/it"
 
 (Ordinanza sulla protezione del clima, OOCli)
 
-del 27 novembre 2024 (Stato 1° gennaio 2025)
+del 27 novembre 2024 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 3 capoverso 5, 4 capoverso 2, 6 capoverso 3, 7, 11 capoverso 
 
 ordina:
 
-[^ingress-1]: [RS 814.310](https://fedlex.data.admin.ch/eli/cc/2023/655)
-[^ingress-2]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^ingress-1]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
+[^ingress-2]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 
 ## Capitolo 1: Disposizioni generali
 
@@ -54,7 +54,7 @@ La presente ordinanza disciplina:
 
 <sup>4</sup> Per la conversione delle emissioni di gas serra in CO<sub>2</sub> equivalenti (CO<sub>2</sub>eq) sono utilizzati i valori secondo l’allegato 1 dell’ordinanza del 30 novembre 2012[^2-1] sul CO<sub>2</sub>.
 
-[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^2-1]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 ## Capitolo 2: Cronoprogrammi
 
@@ -75,7 +75,7 @@ I cronoprogrammi per imprese secondo l’articolo 5 LOCli comprendono almeno:
 
 <sup>2</sup> Ai cronoprogrammi per l’orientamento dei flussi finanziari delle imprese del settore finanziario verso investimenti rispettosi del clima si applicano i requisiti minimi relativi a un piano di transizione di cui all’articolo 3 capoverso 3 lettera a dell’ordinanza del 23 novembre 2022[^3-1] concernente la relazione sulle questioni climatiche.
 
-[^3-1]: [RS 221.434](https://fedlex.data.admin.ch/eli/cc/2022/747)
+[^3-1]: [RS 221.434](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40081)
 
 #### Art. 4
 
@@ -196,7 +196,7 @@ Agli operatori indicati di seguito è concesso un aiuto finanziario soltanto se 
 
 <sup>5</sup> Nell’ambito dei bandi di gara possono essere previsti valori soglia più bassi rispetto a quelli indicati nell’allegato 2.
 
-[^11-1]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+[^11-1]: [RS 641.711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8149)
 
 #### Art. 12
 
@@ -220,10 +220,10 @@ Agli operatori indicati di seguito è concesso un aiuto finanziario soltanto se 
 
 <sup>3</sup>
 
-Un’associazione di categoria può presentare domanda per un programma di settore se i provvedimenti sono realizzati esclusivamente in imprese del settore che occupano meno di 250 collaboratori e che:
+Un’associazione di categoria può presentare domanda per un programma di settore se i provvedimenti sono realizzati esclusivamente in imprese del settore che:
 
-- a. presentano un consumo annuo di calore pari al massimo a 5 GWh; o
-- b. presentano un consumo annuo di elettricità pari al massimo a 0,5 GWh.
+- a. occupano meno di 250 collaboratori; e
+- b. presentano un consumo annuo di calore pari al massimo a 5 Gwh e di elettricità pari al massimo a 0,5 GWh.[^13-1]
 
 <sup>4</sup>
 
@@ -247,6 +247,8 @@ La domanda deve contenere le seguenti indicazioni:
 <sup>7</sup> Se la domanda comprende contributi d’esercizio, occorre illustrare in che modo saranno portati avanti i provvedimenti dopo la cessazione dell’aiuto finanziario.
 
 <sup>8</sup> L’UFE può richiedere ulteriori informazioni se necessario per la valutazione della domanda.
+
+[^13-1]: Nuovo testo giusta la cifra III dell’O del 19 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 14
 
@@ -554,7 +556,7 @@ Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle 
 
 La modifica dell’ordinanza del 1° novembre 2017[^34-1] sull’energia è disciplinata nell’allegato 3.
 
-[^34-1]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
+[^34-1]: [RS 730.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8496)
 
 #### Art. 35
 
@@ -656,7 +658,7 @@ Allegato 2
 - 3\.6 Se il CO<sub>2</sub> catturato è immagazzinato temporaneamente in prodotti, la domanda di aiuto finanziario deve essere presentata dall’impresa che utilizza il CO<sub>2</sub> catturato. Alla domanda va allegato il cronoprogramma dell’impresa che cattura il CO<sub>2</sub>.
 - 3\.7 Se i provvedimenti per lo stoccaggio delle emissioni di CO<sub>2</sub> riguardano l’intera catena di processo, dalla cattura fino all’utilizzo o allo stoccaggio, nel cronoprogramma deve essere descritta l’intera catena di processo.
 
-[^annex2-lvlu1-lvl3-1]: [RS 814.600](https://fedlex.data.admin.ch/eli/cc/2015/891)
+[^annex2-lvlu1-lvl3-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 4 Scadenze per il raggiungimento dei valori soglia
 
