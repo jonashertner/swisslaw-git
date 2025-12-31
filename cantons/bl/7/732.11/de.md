@@ -4,13 +4,12 @@ number: "732.11"
 title: Verordnung zum Zivilschutzgesetz im Kanton Basel-Landschaft
 short: Vo ZSG BL
 language: de
-version: 2025-05-01
-valid_until: 2025-12-31
-version_adopted: 2025-04-01
+version: 2026-01-01
+version_adopted: 2025-11-25
 adopted: 2022-05-31
 in_force: 2022-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/732.11"
-pdf: "https://bl.clex.ch/api/de/versions/4258/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4365/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4258/pdf_file"
 
 (Vo ZSG BL)
 
-Vom 31.05.2022 (Stand 01.05.2025)
+Vom 31.05.2022 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -230,6 +229,8 @@ beschliesst:
 
 <sup>4</sup> Der Schutzplatzbedarf ist gedeckt, wenn für mindestens 110 % der ständigen Wohnbevölkerung einer Einwohnergemeinde oder eines Beurteilungsgebietes Schutzplätze vorhanden sind.
 
+<sup>5</sup> Das AMB kann bei Wohnhäusern mit weniger als 38 Zimmern den Bau von Schutzräumen anordnen, sofern in der betroffenen Einwohnergemeinde oder im betroffenen Beurteilungsgebiet Schutzplätze für weniger als 110 % der ständigen Wohnbevölkerung vorhanden sind. Bei Wohnhäusern mit weniger als 15 Zimmern kann dies nur auf Antrag der betroffenen Einwohnergemeinde angeordnet werden.
+
 #### § 21
 
 **Gemeinsame Schutzräume**
@@ -238,13 +239,13 @@ beschliesst:
 
 #### § 22
 
-**Ersatzbeiträge / Schutzraumbaupflicht**
+**Ausnahmen von der Schutzraumbau- und Ersatzbeitragspflicht**
 
 <sup>1</sup> Sind in Einwohnergemeinden oder in einem Beurteilungsgebiet für mindestens 110 % der ständigen Wohnbevölkerung Schutzplätze vorhanden, die den vom Bund festgelegten Mindestanforderungen entsprechen und abgenommen sind, können Ersatzbeiträge geleistet werden.
 
 <sup>2</sup> Das AMB kann Ausnahmen von der Pflicht zum Erstellen von Schutzplätzen sowie von der Leistung von Ersatzbeiträgen nach den Vorgaben des Bundes bewilligen.
 
-<sup>3</sup> Das AMB kann in Einwohnergemeinden oder in einem Beurteilungsgebiet mit weniger als 1'000 Einwohnerinnen und Einwohnern im Einverständnis mit der betroffenen Einwohnergemeinde auch bei Wohnhäusern mit weniger als 38 Zimmern den Bau von Schutzräumen anordnen.
+<sup>3</sup> …
 
 #### § 23
 
@@ -358,17 +359,17 @@ beschliesst:
 
 #### § 30
 
-**Aufhebung von Schutzanlagen**
+**Aufhebung und Stilllegung von Schutzanlagen**
 
-<sup>1</sup> Für die Aufhebung von Schutzanlagen ist dem AMB ein Gesuch zuhanden des Bundes einzureichen.
+<sup>1</sup> Für die Aufhebung und Stilllegung von Schutzanlagen ist dem AMB ein Gesuch zuhanden des Bundes einzureichen.
 
 #### § 31
 
 **Ersatzbeiträge**
 
-<sup>1</sup> Für einen nicht erstellten Schutzplatz ist eine Ersatzabgabe von CHF 700.– zu entrichten.
+<sup>1</sup> …
 
-<sup>2</sup> Die Ersatzbeiträge sind dem Kanton zu entrichten.
+<sup>2</sup> Die vom AMB verfügten Ersatzbeiträge sind dem Kanton zu entrichten.
 
 #### § 32
 
@@ -391,6 +392,8 @@ beschliesst:
 <sup>1</sup> Für Baugesuche, die nach dem Inkrafttreten dieser Verordnung erstmalig beim Bauinspektorat eingereicht werden, gelten bei der Festlegung der Höhe der Ersatzbeiträge die Bestimmungen dieser Verordnung.
 
 <sup>2</sup> Für Baugesuche, die vor dem Inkrafttreten dieser Verordnung erstmalig beim Bauinspektorat eingereicht wurden, gelten für die Festlegung der Höhe der Ersatzbeiträge die Bestimmungen der bisherigen Verordnung.
+
+<sup>3</sup> Für Baugesuche, die vor dem Inkrafttreten der Änderung dieser Verordnung vom 25. November 2025 erstmalig beim Bauinspektorat eingereicht wurden, gelten für die Höhe der Ersatzbeiträge die Bestimmungen der bisherigen Verordnung.
 
 ## 7 Haftpflichtversicherung, Strafwesen und Haftung
 
