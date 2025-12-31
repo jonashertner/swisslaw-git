@@ -4,13 +4,12 @@ number: "126.3"
 title: Gesamtarbeitsvertrag
 short: GAV
 language: de
-version: 2025-09-01
-valid_until: 2025-12-31
-version_adopted: 2025-08-26
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2004-10-25
 in_force: 2005-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/126.3"
-pdf: "https://bgs.so.ch/api/de/versions/5562/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5590/pdf_file"
 text: pdf
 ---
 
@@ -18,7 +17,7 @@ text: pdf
 
 # Gesamtarbeitsvertrag (GAV)
 
-vom 25. Oktober 2004 (Stand 1. September 2025)
+vom 25. Oktober 2004 (Stand 1. Januar 2026)
 
 zwischen dem Kanton Solothurn vertreten durch den Regierungsrat
 
@@ -675,7 +674,7 @@ gen.
 
 - c) während der Schwangerschaft sowie 16 Wochen nach der Niederkunft einer Arbeitnehmerin;
 
-c<sup>bis</sup>) vor dem Ende des verlängerten Mutterschaftsurlaubs nach § 190 Absatz 2<sup>ter</sup> GAV;[^44-1] c<sup>ter</sup>) solange der Anspruch auf Betreuungsurlaub nach § 114<sup>bis</sup> GAV besteht, längstens aber während 6 Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;[^44-2] d) während ein Arbeitnehmer oder eine Arbeitnehmerin mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundes- oder Kantonsbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
+c<sup>bis</sup>) vor dem Ende des verlängerten Mutterschaftsurlaubs nach § 190 Abs. 2<sup>ter</sup> GAV, zwischen dem Beginn des Urlaubs nach § 190 Abs. 2<sup>quater</sup> GAV und dem letzten bezogenen Urlaubstag, längstens aber während drei Monaten ab dem Ende der Sperrfrist nach Bst. c sowie während des Urlaubs nach § 190<sup>quater</sup> GAV;[^44-1] c<sup>ter</sup>) solange der Anspruch auf Betreuungsurlaub nach § 114<sup>bis</sup> GAV besteht, längstens aber während 6 Monaten ab dem Tag, an dem die Rahmenfrist zu laufen beginnt;[^44-2] d) während ein Arbeitnehmer oder eine Arbeitnehmerin mit Zustimmung des Arbeitgebers an einer von der zuständigen Bundes- oder Kantonsbehörde angeordneten Dienstleistung für eine Hilfsaktion im Ausland teilnimmt.
 
 <sup>2</sup> Die Kündigung, die während einer in Absatz 1 festgesetzten Sperrfrist erklärt wird, ist nichtig.
 
@@ -683,7 +682,7 @@ c<sup>bis</sup>) vor dem Ende des verlängerten Mutterschaftsurlaubs nach § 190
 
 <sup>4</sup> Gilt für die Beendigung des Arbeitsverhältnisses ein Endtermin, wie z.B. das Ende eines Monats, und fällt dieser nicht mit dem Ende der fortgesetzten Kündigungsfrist zusammen, so verlängert sich diese bis zum nächstfolgenden Endtermin.
 
-[^44-1]: § 44 Absatz 1 Buchstabe cbis eingefügt am 26. September 2023.
+[^44-1]: § 44 Absatz 1 Buchstabe cbis Fassung vom 16. Dezember 2025.
 [^44-2]: § 44 Absatz 1 Buchstabe cter eingefügt am 26. September 2023.
 
 #### § 45
@@ -823,9 +822,7 @@ des Beamtenverhältnisses (§ 33 StPG)
 
 <sup>1</sup> Wird eine Stelle aufgehoben und kann kein anderer Arbeitsbereich zugewiesen werden oder wird das Anstellungsverhältnis eines Beamten oder einer Beamtin nicht erneuert, kann der Regierungsrat eine Abgangsentschädigung von höchstens einem Jahreslohn zusprechen, die in der Regel wie folgt bestimmt wird:
 
-**a)**
-
-Die Abgangsentschädigung entspricht nach fünf Dienstjahren einem Monatslohn. Für jedes zusätzliche Dienstjahr wird die Abgangsentschädigung um einen Monatslohn erhöht. Die Zahl der Dienstjahre entspricht der Anstellungsdauer. Bei der Berechnung der Dienstjahre werden Zeiten nicht mitgerechnet, während denen das Anstellungsverhältnis mehr als 3 Monate mit unbezahltem Urlaub unterbrochen war.
+- a) Die Abgangsentschädigung entspricht nach fünf Dienstjahren einem Monatslohn. Für jedes zusätzliche Dienstjahr wird die Abgangsentschädigung um einen Monatslohn erhöht. Die Zahl der Dienstjahre entspricht der Anstellungsdauer. Bei der Berechnung der Dienstjahre werden Zeiten nicht mitgerechnet, während denen das Anstellungsverhältnis mehr als 3 Monate mit unbezahltem Urlaub unterbrochen war.
 
 - b) Unterbricht ein Vater oder eine Mutter wegen der Kindererziehung die Anstellung beim Arbeitgeber, werden die Jahre der Kinderbetreuung bis zum vollendeten sechsten Altersjahr ganz und bis zum vollendeten zehnten Altersjahr zur Hälfte als Dienstjahre angerechnet. Es können höchstens zehn Dienstjahre angerechnet werden.
 
@@ -1498,13 +1495,13 @@ Arbeitsfreie Tage, welche in die Ferien fallen, dürfen nachbezogen werden, wenn
 
 <sup>1</sup> Der Ferienanspruch wird verhältnismässig gekürzt, wenn die Arbeit wegen Militär-, Zivil- oder Zivilschutzdienst oder wegen Krankheit oder Unfall länger als drei Monate versäumt wird. Der minimale Ferienanspruch beträgt drei Wochen. Vorbehalten bleiben die Absätze 2 bis 4.
 
-<sup>2</sup> Bei freiwilligem, unbesoldetem Urlaub richtet sich der Ferienanspruch nach der Beschäftigungsdauer im Kalenderjahr. Der Ferienanspruch wird anteilmässig gekürzt. Mutterschafts-, Vaterschaftsurlaub und bezahlter Urlaub führen nicht zu einer Kürzung des Ferienanspruchs.[^107-1]
+<sup>2</sup> Bei freiwilligem, unbesoldetem Urlaub richtet sich der Ferienanspruch nach der Beschäftigungsdauer im Kalenderjahr. Der Ferienanspruch wird anteilmässig gekürzt. Mutterschafts-, Vaterschafts- und Adoptionsurlaub und bezahlter Urlaub führen nicht zu einer Kürzung des Ferienanspruchs.[^107-1]
 
 <sup>3</sup> Der Ferienanspruch ist mit der Lohnfortzahlung bei Krankheit oder Unfall vollumfänglich abgegolten, wenn im Anschluss an die Lohnfortzahlung das Dienstverhältnis aus diesen Gründen aufgelöst werden muss.
 
 <sup>4</sup> Bei vorläufiger Amtseinstellung mit Gehaltsentzug (§ 25 Abs. 5 des Verantwortlichkeitsgesetzes vom 26. Juni 1966; BGS 124.21), bei vorübergehender Einstellung im Amt mit Entzug der Besoldung (§ 25 Abs. 1 Ziff. 3 Verantwortlichkeitsgesetz) oder bei Freistellung mit Kürzung oder Entzug der Besoldung (§ 51 GAV) wird der Ferienanspruch verhältnismässig gekürzt.
 
-[^107-1]: § 107 Absatz 2 Fassung vom 15. Dezember 2020.
+[^107-1]: § 107 Absatz 2 Fassung vom 16. Dezember 2025.
 
 #### § 108
 
@@ -1690,15 +1687,13 @@ Arbeitnehmende haben für Tätigkeiten in Personalverbänden Anspruch auf besold
 
 <sup>2</sup> Allfällige Erwerbsausfallentschädigungen fallen an den Arbeitgeber, soweit besoldeter Urlaub für den ganzen Kurs in Anspruch genommen wird.
 
-[^120-1]: § 121 Fassung vom 26. September 2023.
+[^120-1]: § 121 Fassung vom 16. Dezember 2025.
 
 #### § 121
 
 **Maximale jährliche Urlaubsdauer**[^120-1]
 
-### Je Kalenderjahr dürfen höchstens 20 besoldete Urlaubstage (einschliesslich Urlaube zur Ausübung öffentlicher Ämter) gewährt werden. Die Urlaube
-
-aus persönlichen und familiären Gründen (§ 114 GAV), infolge Betreuungsurlaub (§ 114<sup>bis</sup> GAV) und der Mutterschaft- sowie Vaterschaftsurlaub (§ 190 ff. GAV) bleiben für die Berechnung der maximalen Urlaubsdauer unberücksichtigt.
+Je Kalenderjahr dürfen höchstens 20 besoldete Urlaubstage (einschliesslich Urlaube zur Ausübung öffentlicher Ämter) gewährt werden. Die Urlaube aus persönlichen und familiären Gründen (§ 114 GAV) und der Mutterschafts-, Vaterschafts- und Adoptionsurlaub (§ 190 ff. GAV) bleiben für die Berechnung der maximalen Urlaubsdauer unberücksichtigt.
 
 3.2. Unbezahlter Urlaub
 
@@ -2339,16 +2334,21 @@ Scheiden Arbeitnehmende wegen Invalidität oder Alter aus, so haben sie Anspruch
 
 <sup>2</sup> Der Amtschef oder die Amtschefin meldet die Auszahlung der Anstellungsbehörde.
 
-- d. Leistungen bei Krankheit, Unfall, Militärdienst, Mutterschaft und Vaterschaft[^172-1]
+- d. Leistungen bei Krankheit, Unfall, Militärdienst,
+
+[^172-1]: Kapitelüberschrift Fassung vom 16. Dezember 2025.
+
+### Mutterschaft, Vaterschaft und Adoption
+
+[^172-1]
 
 - 1\. Krankheit und Unfall
 
-[^172-1]: Kapitelüberschrift Fassung vom 15. Dezember 2020.
-[^172-2]: § 173 Absatz 2-4 Fassung vom 9. Mai 2016.
+[^hMutterschaftVaters-1]: § 173 Absatz 2-4 Fassung vom 9. Mai 2016.
 
 #### § 173
 
-**Vorgehen bei Krankheit und Unfall**[^172-2]
+**Vorgehen bei Krankheit und Unfall**[^hMutterschaftVaters-1]
 
 <sup>1</sup> Bei Arbeitsverhinderung ist der oder die Vorgesetzte unverzüglich zu benachrichtigen.
 
@@ -2568,9 +2568,9 @@ Im Militärdienst erkrankte oder verunfallte Arbeitnehmende haben Anspruch auf d
 
 Die vorstehenden Bestimmungen gelten auch für die weiblichen Arbeitnehmenden, die beim militärischen Frauendienst (inkl. Rotkreuzdienst) eingeteilt sind.
 
-- 4\. Mutterschafts- und Vaterschaftsurlaub[^189-1]
+- 4\. Mutterschafts-, Vaterschafts- und Adoptionsurlaub[^189-1]
 
-[^189-1]: Titel Fassung vom 15. Dezember 2020.
+[^189-1]: Überschrift Fassung vom 16. Dezember 2025.
 [^189-2]: Sachüberschrift Fassung vom 15. Dezember 2020.
 
 #### § 190
@@ -2596,13 +2596,15 @@ satzgesetz, EOG, SR 834.1) geltend machen.[^hAbsatz1Buchstabeb-1]
 
 <sup>2ter</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Mutterschaftsurlaub um die verlängerte Dauer der Ausrichtung der Mutterschaftsentschädigung.[^hAbsatz1Buchstabeb-2]
 
-<sup>3</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub erlischt in jedem Fall am Ende des Anstellungsverhältnisses. Befristete Anstellungsverhältnisse von Arbeitnehmerinnen, welche sich im Zeitpunkt des Ablaufs der Befristung im Mutterschaftsurlaub befinden, verlängern sich bis zum Ende des Mutterschafsurlaubs.[^hAbsatz1Buchstabeb-3]
+<sup>2quater</sup> Im Falle des Todes des andern Elternteils während der sechs Monate nach der Geburt des Kindes hat die Arbeitnehmerin Anspruch auf zwei Wochen zusätzlichen Urlaub; sie kann diesen Urlaub innert einer Rahmenfrist von sechs Monaten ab dem Tag nach dem Tod wochen- oder tageweise beziehen.[^hAbsatz1Buchstabeb-3]
+
+<sup>3</sup> Der Anspruch auf bezahlten Mutterschaftsurlaub erlischt in jedem Fall am Ende des Anstellungsverhältnisses. Befristete Anstellungsverhältnisse von Arbeitnehmerinnen, welche sich im Zeitpunkt des Ablaufs der Befristung im Mutterschaftsurlaub befinden, verlängern sich bis zum Ende des Mutterschafsurlaubs.[^hAbsatz1Buchstabeb-4]
 
 <sup>4</sup> Bei wechselndem Beschäftigungsgrad (Stundenlohn) richtet sich der Lohn während des Urlaubs nach dem Durchschnittslohn in den 12 Monaten vor Beginn des Urlaubs.
 
 <sup>5</sup> Wechselt die Arbeitnehmende während des Mutterschaftsurlaubs die Stelle, so dauert dieser an, sofern der Stellenwechsel ohne Unterbruch und innerhalb des Geltungsbereichs dieses GAV stattfindet.
 
-§ 190<sup>bis</sup>.[^hAbsatz1Buchstabeb-4] Anspruch bei Vaterschaft
+§ 190<sup>bis</sup>.[^hAbsatz1Buchstabeb-5] Anspruch bei Vaterschaft
 
 <sup>1</sup> Der rechtliche Vater hat Anspruch auf einen bezahlten Vaterschaftsurlaub von 10 Arbeitstagen.
 
@@ -2610,13 +2612,14 @@ satzgesetz, EOG, SR 834.1) geltend machen.[^hAbsatz1Buchstabeb-1]
 
 [^hAbsatz1Buchstabeb-1]: § 190 Absatz 2bis Fassung vom 26. September 2023.
 [^hAbsatz1Buchstabeb-2]: § 190 Absatz 2ter eingefügt am 26. September 2023.
-[^hAbsatz1Buchstabeb-3]: § 190 Absatz 3 Fassung vom 1. Juli 2025.
-[^hAbsatz1Buchstabeb-4]: § 190bis eingefügt am 15. Dezember 2020.
-[^hAbsatz1Buchstabeb-5]: § 190bis Absatz 2 Fassung vom 26. September 2023.
+[^hAbsatz1Buchstabeb-3]: § 190 Absatz 2quater eingefügt am 16. Dezember 2025.
+[^hAbsatz1Buchstabeb-4]: § 190 Absatz 3 Fassung vom 1. Juli 2025.
+[^hAbsatz1Buchstabeb-5]: § 190bis eingefügt am 15. Dezember 2020.
+[^hAbsatz1Buchstabeb-6]: § 190bis Absatz 2 Fassung vom 26. September 2023.
 
 ### EOG, SR 834.1) geltend machen.
 
-[^hAbsatz1Buchstabeb-5]
+[^hAbsatz1Buchstabeb-6]
 
 <sup>3</sup> Der Anspruch auf bezahlten Vaterschaftsurlaub endet:
 
@@ -2634,12 +2637,44 @@ satzgesetz, EOG, SR 834.1) geltend machen.[^hAbsatz1Buchstabeb-1]
 
 <sup>5</sup> Wechselt der Arbeitnehmende während des Vaterschaftsurlaubs die Stelle, so dauert dieser an, sofern der Stellenwechsel ohne Unterbruch und innerhalb des Geltungsbereichs dieses GAV stattfindet.
 
-[^hEOGSR8341gelte-1]: § 191 Fassung vom 6. Dezember 2005.
-[^hEOGSR8341gelte-2]: Sachüberschrift Fassung vom 15. Dezember 2020.
+§ 190<sup>ter</sup>.[^hEOGSR8341gelte-1] Anspruch auf Adoption
+
+<sup>1</sup> Nimmt der oder die Arbeitnehmende ein Kind zur Adoption auf, so hat er oder sie bei Erfüllung der Voraussetzungen gemäss Artikel 16t Bundesgesetz über den Erwerbsersatz für Dienstleistende, bei Mutterschaft und bei Vaterschaft (Erwerbsersatzgesetz, EOG, SR 834.1) Anspruch auf einen bezahlten Adoptionsurlaub von 10 Arbeitstagen.
+
+<sup>2</sup> Der Adoptionsurlaub kann von einem Elternteil bezogen oder unter den Eltern aufgeteilt werden. Ein gleichzeitiger Bezug ist ausgeschlossen.
+
+<sup>3</sup> Solange der oder die Anspruchsberechtigte bezahlten Adoptionsurlaub erhält, darf er oder sie keine Adoptionsentschädigung im Sinne von Artikel 17 Absatz 1 Buchstabe b EOG geltend machen.
+
+<sup>4</sup> Der Anspruch auf bezahlten Adoptionsurlaub endet:
+
+- a) nach Ablauf der Rahmenfrist von einem Jahr;
+
+- b) am Ende des Anstellungsverhältnisses;
+
+- c) nach Ausschöpfung der Taggelder;
+
+- d) wenn das Kind stirbt.
+
+<sup>5</sup> Bei wechselndem Beschäftigungsgrad (Stundenlohn) richtet sich der Lohn während des Urlaubs nach dem Durchschnittslohn in den 12 Monaten vor Beginn des Urlaubs.
+
+<sup>6</sup> Wechselt der oder die Arbeitnehmende während des Adoptionsurlaubs die Stelle, so dauert dieser an, sofern der Stellenwechsel ohne Unterbruch und innerhalb des Geltungsbereichs dieses GAV stattfindet.
+
+§ 190<sup>quater</sup>.[^hEOGSR8341gelte-2] Im Fall des Todes der Mutter
+
+<sup>1</sup> Stirbt die Mutter am Tag der Niederkunft oder während der 14 Wochen danach, so hat der andere Elternteil Anspruch auf einen Urlaub von 14 Wochen; dieser Urlaub muss ab dem Tag nach dem Tod an aufeinanderfolgenden Tagen bezogen werden.
+
+<sup>2</sup> Der andere Elternteil hat Anspruch auf den Urlaub, wenn das Kindesverhältnis am Todestag begründet ist oder während der 14 Wochen danach begründet wird.
+
+<sup>3</sup> Bei Hospitalisierung des Neugeborenen verlängert sich der Urlaub nach Absatz 1 um die Dauer der Hospitalisierung, höchstens jedoch um acht Wochen.
+
+[^hEOGSR8341gelte-1]: § 190ter eingefügt am 16. Dezember 2025.
+[^hEOGSR8341gelte-2]: § 19quater eingefügt am 16. Dezember 2025.
+[^hEOGSR8341gelte-3]: § 191 Fassung vom 6. Dezember 2005.
+[^hEOGSR8341gelte-4]: Sachüberschrift Fassung vom 15. Dezember 2020.
 
 #### § 191
 
-**Beginn und Dauer des Mutterschaftsurlaubs[^hEOGSR8341gelte-2]**[^hEOGSR8341gelte-1]
+**Beginn und Dauer des Mutterschaftsurlaubs[^hEOGSR8341gelte-4]**[^hEOGSR8341gelte-3]
 
 <sup>1</sup> Der Mutterschaftsurlaub beginnt mit der Niederkunft.
 
@@ -2653,23 +2688,34 @@ satzgesetz, EOG, SR 834.1) geltend machen.[^hAbsatz1Buchstabeb-1]
 
 <sup>1</sup> Der Anspruch auf Vaterschaftsurlaub entsteht mit der Geburt des Kindes.
 
-<sup>2</sup> Der Vaterschaftsurlaub ist innerhalb von 6 Monaten nach der Geburt zu beziehen. Er kann am Stück oder tageweise bezogen werden.
+<sup>2</sup> Der Vaterschaftsurlaub ist innerhalb von 6 Monaten nach der Geburt zu beziehen. Er kann am Stück oder tageweise bezogen werden. Die Frist steht während des Urlaubs nach § 190quater GAV still.[^191-2]
 
 <sup>3</sup> Der Bezug eines Vaterschaftsurlaubes bewirkt keine Kürzung des jährlichen Ferienanspruches.
 
-[^191-1]: § 191bis eingefügt am 15. Dezember 2020.
+§ 191<sup>ter</sup>.[^191-3] Beginn und Dauer des Adoptionsurlaubs
 
-#### § 192
+<sup>1</sup> Der Anspruch auf Adoptionsurlaub entsteht mit der Aufnahme des Kindes.
 
-**Unbezahlter Mutterschaftsurlaub und Vaterschaftsurlaub**
+<sup>2</sup> Der Adoptionsurlaub ist innerhalb von einem Jahr nach der Aufnahme des Kindes zu beziehen. Er kann am Stück oder tageweise bezogen werden.
+
+<sup>3</sup> Der Bezug eines Adoptionsurlaubes bewirkt keine Kürzung des jährlichen Ferienanspruches.
+
+§ 192.[^191-4] Unbezahlter Mutterschafts-, Vaterschafts- und Adoptionsurlaub
 
 <sup>1</sup> Im Anschluss an den Mutterschaftsurlaub ist der Arbeitnehmenden auf schriftliches Gesuch hin unbezahlter Urlaub zu gewähren, wenn betriebliche Gründe dem nicht entgegenstehen.
 
 <sup>2</sup> Dem Vater ist auf schriftliches Gesuch hin unbezahlter Urlaub zur Kinderbetreuung zu gewähren, wenn betriebliche Gründe dem nicht entgegenstehen.
 
-<sup>3</sup> Die Einzelheiten des unbezahlten Mutterschafts- und Vaterschaftsurlaubes richten sich nach den allgemeinen Bestimmungen über den unbezahlten Urlaub.
+<sup>2bis</sup> Den adoptierenden Eltern ist auf schriftliches Gesuch hin unbezahlter Ur-laub zur Kinderbetreuung zu gewähren, wenn betriebliche Gründe dem nicht entgegenstehen.
+
+<sup>3</sup> Die Einzelheiten des unbezahlten Mutterschafts-, Vaterschafts- und Adoptionsurlaubes richten sich nach den allgemeinen Bestimmungen über den unbezahlten Urlaub.
 
 - 5\. Lohn nach dem Tod
+
+[^191-1]: § 191bis eingefügt am 15. Dezember 2020.
+[^191-2]: § 191bis Absatz 2 Fassung vom 16. Dezember 2025.
+[^191-3]: § 191ter eingefügt am 16. Dezember 2025.
+[^191-4]: § 192 Fassung vom 16. Dezember 2025.
 
 #### § 193
 
@@ -4673,14 +4719,14 @@ Die Rechtspraktikantinnen und Rechtspraktikanten haben für die Dauer des Rechts
 
 - c) eine Entschädigung für Ferien nach dem Allgemeinen Teil der Normativen Bestimmungen GAV;
 
-- d) Lohnfortzahlung bei Krankheit, Unfall, Militär-, Zivil- oder Zivilschutzdienst sowie Mutterschaft und Vaterschaft nach dem Allgemeinen Teil der Normativen Bestimmungen GAV;[^328-2]
+- d) Lohnfortzahlung bei Krankheit, Unfall, Militär-, Zivil- oder Zivilschutzdienst sowie Mutterschaft, Vaterschaft und Adoption nach dem Allgemeinen Teil der Normativen Bestimmungen GAV;[^328-2]
 
 - e) Versicherungsschutz gegen Berufsunfälle sowie, nach den Bestimmungen der Bundesgesetzgebung über die Unfallversicherung, auch gegen Nichtbetriebsunfälle;
 
 - f) die Entschädigungen nach der Bundesgesetzgebung über die Erwerbsersatzordnung bei Militär- und Zivilschutzdienstleistungen anstelle der Pauschalentschädigung nach Buchstabe a.
 
 [^328-1]: § 328 Buchstabe a Fassung vom 4. Dezember 2018.
-[^328-2]: § 328 Buchstabe d Fassung vom 15. Dezember 2020.
+[^328-2]: § 328 Buchstabe d Fassung vom 16. Dezember 2025.
 
 ### Normative Bestimmungen, Besonderer Teil: VII. Einzelregelungen Verwaltung (NB BT Verwaltung)
 
@@ -4937,9 +4983,9 @@ Jeder Unterrichtsausfall ist der direkt vorgesetzten Stelle zu melden.
 
 <sup>1</sup> Für vorhersehbaren Ausfall des Unterrichts hat die Lehrperson bei der direkt vorgesetzten Schulbehörde um Urlaub nachzusuchen. Dieser wird bis zu zwei Wochen von ihr, für eine längere Dauer vom Departement für Bildung und Kultur gewährt.
 
-<sup>2</sup> Diese Regelung gilt nicht für den Mutterschafts- und Vaterschaftsurlaub.[^344-1]
+<sup>2</sup> Diese Regelung gilt nicht für den Mutterschafts-, Vaterschafts- und Adoptionsurlaub.[^344-1]
 
-[^344-1]: § 344 Absatz 2 Fassung vom 15. Dezember 2020.
+[^344-1]: § 344 Absatz 2 Fassung vom 16. Dezember 2025.
 
 #### § 345
 
@@ -5333,7 +5379,9 @@ Die formelle Anzeige bei sexueller Belästigung oder Mobbing nach § 221 und 234
 
 <sup>1</sup> § 359 bis 366 GAV (Altersentlastung) treten am 1. Februar 2005 in Kraft.
 
-<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11). § 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
+<sup>2</sup> § 372 bis 375 GAV (Zusatzlektionen) treten am 1. Februar 2005 in Kraft. Die Entschädigung für Zusatzstunden, die vor dem 1. Februar 2005 geleistet worden sind, richtet sich nach den bisher geltenden Bestimmungen (LehrerbesoldungsVO, KRB vom 17. Mai 1995; BGS 126.515.851.11).
+
+§ 383<sup>bis</sup>.[^383-1] Übergangsbestimmung zur Änderung vom 20. Juni 2011 Für Lehrpersonen und Lehrbeauftragte in bereits bestehenden Anstellungsverhältnissen gilt:
 
 - a) Für diejenigen, die die fachlichen oder pädagogischen Anforderungen nach neuem Recht nicht erfüllen, gilt die bisherige Einreihung weiter;
 
@@ -5362,11 +5410,7 @@ Kategorie Voraussetzung Lehrpersonen Diplom gemäss Art. 11 des Reglementes übe
 
 **21**
 
-Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehre-
-
-rinnen- und Arbeitslehrerinnenpatente)
-
-Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte[^384-3] tent Absolvierende der Studienvarianten «Querein- 18
+Diplom gemäss Art. 19\* des Reglementes über die 20 Anerkennung von Hochschuldiplomen für Lehrkräfte der Sekundarstufe I vom 26. August 1999[^384-2] (ausgenommen sind Hauswirtschaftslehrerinnen- und Arbeitslehrerinnenpatente) Sekundarstufenpatente oder Sonderpädagogik- 20 bzw. Heilpädagogik-Patente anderer Kantone Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 20 nenpatent mit Präsenzstudium als Fachvertiefung von mindestens 100 Stunden Hauswirtschaftslehrerinnen- und Arbeitslehrerin- 17 nenpatent Lehrbeauf- Hochschuldiplom oder kantonales Primarschulpa- 18 tragte[^384-3] tent Absolvierende der Studienvarianten «Querein- 18
 
 stieg» oder «BachelorPlus/MasterPlus»
 
@@ -5751,9 +5795,9 @@ Jeder Unterrichtsausfall ist der Schulleitung zu melden.
 
 <sup>1</sup> Für vorhersehbaren Ausfall des Unterrichts hat die Lehrperson bei der Schulleitung in der Regel sechs Wochen vor Beginn desselben um Urlaub nachzusuchen. Dieser wird bis zu zwei Wochen von ihr, für eine längere Dauer vom Departement für Bildung und Kultur gewährt.
 
-<sup>2</sup> Diese Regelung gilt nicht für den Mutterschafts- und Vaterschaftsurlaub.[^409-1]
+<sup>2</sup> Diese Regelung gilt nicht für den Mutterschafts-, Vaterschafts- und Adoptionsurlaub.[^409-1]
 
-[^409-1]: § 409 Absatz 2 Fassung vom 15. Dezember 2020.
+[^409-1]: § 409 Absatz 2 Fassung vom 16. Dezember 2025.
 
 #### § 410
 
@@ -5887,9 +5931,9 @@ Das Departement für Bildung und Kultur kann, wenn triftige Gründe vorliegen, d
 
 <sup>2</sup> Der Urlaub wird bis zu zehn Halbtagen pro Schuljahr bei dem oder der Vorsitzenden der Schulleitung, für eine längere Dauer auf Antrag des oder der Vorsitzenden der Schulleitung vom Amt für Mittelschulen und Hochschulen gewährt.
 
-<sup>3</sup> Diese Regelungen gelten nicht für den Mutterschafts- und Vaterschaftsurlaub.[^415-1]
+<sup>3</sup> Diese Regelung gilt nicht für den Mutterschafts-, Vaterschafts- und Adoptionsurlaub.[^415-1]
 
-[^415-1]: § 415 Absatz 3 Fassung vom 15. Dezember 2020.
+[^415-1]: § 415 Absatz 3 Fassung vom 16. Dezember 2025.
 
 #### § 416
 
@@ -6261,9 +6305,7 @@ Der Besondere Teil Berufsschule regelt die Abweichungen und Ergänzungen gegenü
 
 <sup>2</sup> Soweit das Pensum oder ein Teil davon voraussichtlich nicht für mehr als zwei Jahre sichergestellt ist, wird im unbefristeten Vertrag der gesicherte Pensenteil (Sockelpensum) und ein darüber hinausgehender Pensenrahmen von höchstens fünf Lektionen (Maximalpensum) für den nicht gesicherten Pensenteil festgelegt.
 
-<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt.
-
-§ 454<sup>bis</sup>.[^454-1] Befristete Anstellung
+<sup>3</sup> Angeordnete Pensenerhöhungen im festgelegten Pensenrahmen werden wirksam, wenn die Lehrperson nicht innert 10 Tagen seit Erhalt der schriftlichen Mitteilung schriftlich ihren Verzicht auf die Erhöhung erklärt. § 454<sup>bis</sup>.[^454-1] Befristete Anstellung
 
 <sup>1</sup> Lehrpersonen werden soweit befristet angestellt, als mit dem Pensenrahmen die Unsicherheit in der Pensenfestlegung nicht abgedeckt werden kann.
 
@@ -6373,9 +6415,9 @@ Jeder Unterrichtsausfall ist der direkt vorgesetzten Stelle zu melden.
 
 <sup>1</sup> Für vorhersehbaren Ausfall des Unterrichts hat die Lehrperson beim Direktor oder der Direktorin in der Regel sechs Wochen vor Beginn desselben um Urlaub nachzusuchen. Dieser wird bis zu zwei Wochen von ihm oder ihr, für eine längere Dauer vom Departement für Bildung und Kultur gewährt.
 
-<sup>2</sup> Diese Regelung gilt nicht für den Mutterschafts- und Vaterschaftsurlaub.[^459-1]
+<sup>2</sup> Diese Regelung gilt nicht für den Mutterschafts-, Vaterschafts- und Adoptionsurlaub.[^459-1]
 
-[^459-1]: § 459 Absatz 2 Fassung vom 15. Dezember 2020.
+[^459-1]: § 459 Absatz 2 Fassung vom 16. Dezember 2025.
 
 #### § 460
 
@@ -6480,9 +6522,9 @@ Das Departement für Bildung und Kultur kann, wenn triftige Gründe vorliegen, d
 
 <sup>2</sup> Der Urlaub wird bis zu zehn Halbtagen pro Schuljahr vom Direktor oder der Direktorin, für eine längere Dauer auf Antrag des Direktors oder der Direktorin vom Amt für Berufsbildung und Berufsberatung gewährt.
 
-<sup>3</sup> Diese Regelungen gelten nicht für den Mutterschafts- und Vaterschaftsurlaub.[^466-1]
+<sup>3</sup> Diese Regelung gilt nicht für den Mutterschafts-, Vaterschafts- und Adoptionsurlaub.[^466-1]
 
-[^466-1]: § 466 Absatz 3 Fassung vom 15. Dezember 2020.
+[^466-1]: § 466 Absatz 3 Fassung vom 16. Dezember 2025.
 
 #### § 467
 
@@ -7139,7 +7181,9 @@ Inkrafttreten GAV am 1. Januar 2005 (§ 21).[^520-1]
 
 - 1\. Juli 2025 am 1. August 2025;
 
-- 26\. August 2025 am 1. September 2025.
+- 26\. August 2025 am 1. September 2025;
+
+- 16\. Dezember 2025 am 1. Januar 2026.
 
 [^520-1]: Titel XI aufgehoben am 8. Juni 2010.
 
