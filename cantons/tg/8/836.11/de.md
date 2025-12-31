@@ -4,13 +4,12 @@ number: "836.11"
 title: Familienzulagenverordnung
 short: TG FamZV
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-07-04
+version: 2026-01-01
+version_adopted: 2025-05-06
 adopted: 2008-11-11
 in_force: 2009-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/836.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2714/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2900/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ TG FamZV
 
 (TG FamZV)
 
-vom 11.11.2008 (Stand 01.01.2024)
+vom 11.11.2008 (Stand 01.01.2026)
 
 #### § 1
 
@@ -73,7 +72,7 @@ vom 11.11.2008 (Stand 01.01.2024)
 
 **Beiträge an die kantonale Familienausgleichskasse**
 
-<sup>1</sup> Die Beiträge der Selbständigerwerbenden, der Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer nicht beitragspflichtiger Arbeitgeber an die kantonale Familienausgleichskasse betragen 1.5 % des AHV-pflichtigen Einkommens.
+<sup>1</sup> Die Beiträge der Selbständigerwerbenden, der Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer nicht beitragspflichtiger Arbeitgeber an die kantonale Familienausgleichskasse betragen 1.4 % des AHV-pflichtigen Einkommens.
 
 <sup>1<sup>bis</sup></sup> Die Beiträge der Selbständigerwerbenden einerseits und die Beiträge der Arbeitgeber und der Arbeitnehmerinnen und Arbeitnehmer nicht beitragspflichtiger Arbeitgeber andererseits sind separat auszuweisen.
 
