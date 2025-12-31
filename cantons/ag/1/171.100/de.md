@@ -4,13 +4,13 @@ number: "171.100"
 title: Gesetz über die Einwohnergemeinden
 short: "Gemeindegesetz, GG"
 language: de
-version: 2024-07-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-12
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-06-17
 adopted: 1978-12-19
 in_force: 1981-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/171.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3602/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3886/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3602/pdf_file"
 
 (Gemeindegesetz, GG)
 
-Vom 19.12.1978 (Stand 01.07.2024)
+Vom 19.12.1978 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -306,7 +306,7 @@ beschliesst:
 - l) der Erlass und die Änderung des Dienst- und Besoldungsreglementes für das Gemeindepersonal;
 - m) die Beschlussfassung über die Verteilung des Vermögens und von Schulden bei Neuzuteilung von Gemeindegebieten und bei Bildung neuer Gemeinden;
 - n) die Beschlussfassung über den Beitritt zu einem Gemeindeverband, einen allfälligen Austritt sowie über die Auflösung eines Verbandes;
-- o) die Beschlussfassung über Änderung oder Neubildung von Gemeindenamen, -wappen und -siegeln;
+- o) die Beschlussfassung über Änderung oder Neubildung von Gemeindenamen, ‑wappen und ‑siegeln;
 - p) die Beschlussfassung über die dem obligatorischen Referendum unterliegenden Gegenstände;
 - q) die ihr durch die Gesetzgebung und die Gemeindeordnung, gestützt auf § 18 Abs. 1 lit. d–f, übertragen werden.
 
@@ -516,9 +516,11 @@ beschliesst:
 
 <sup>1</sup> Für die Verhandlungsfähigkeit des Gemeinderates bedarf es der absoluten Mehrheit des Rates.
 
-<sup>2</sup> Für die Gültigkeit eines Beschlusses ist die Mehrheit der Stimmen der anwesenden Mitglieder erforderlich.
+<sup>2</sup> Für die Gültigkeit eines Beschlusses ist die Mehrheit der Stimmen der anwesenden Mitglieder erforderlich. Als anwesend gilt, wer an den Sitzungen vor Ort oder virtuell gemäss Absatz 4 teilnimmt.
 
 <sup>3</sup> Die Sitzungen des Gemeinderates sind nicht öffentlich.
+
+<sup>4</sup> Der Gemeinderat kann in einem Reglement vorsehen, dass seine Sitzungen ausnahmsweise virtuell oder hybrid durchgeführt werden können.
 
 #### § 43
 
@@ -765,12 +767,18 @@ beschliesst:
 
 **5. Einberufung**
 
-<sup>1</sup> Der Einwohnerrat tritt auf Einladung seines Präsidenten zusammen:
+<sup>1</sup> Der Einwohnerrat tagt auf Einladung seines Präsidenten:
 
 - a) zur Behandlung des Budgets, der Jahresrechnung mit Rechenschaftsbericht und der Kreditabrechnungen,
 - b) wenn es der Präsident für notwendig erachtet,
 - c) auf Begehren von 20 % der Ratsmitglieder oder 5 % der Stimmberechtigten unter Angabe der Gründe,
 - d) auf Begehren des Gemeinderates.
+
+<sup>2</sup> Der Einwohnerrat kann in seinem Geschäftsreglement vorsehen, dass seine Sitzungen und diejenigen seiner Organe virtuell oder hybrid durchgeführt werden können.
+
+<sup>3</sup> Für die virtuelle oder hybride Durchführung von Sitzungen des Einwohnerrats gelten die Voraussetzungen einer Krisensituation gemäss § 26a Abs. 1 und 2 GVG gleichermassen.
+
+<sup>4</sup> Die virtuellen oder hybriden Sitzungen sind in einem Verfahren und unter Einsatz eines Informatiksystems durchzuführen, welche die Authentifizierung der Teilnehmenden, den Schutz der verarbeiteten Daten, die Sicherheit der Abstimmungen und, sofern erforderlich, die Vertraulichkeit des Sitzungsinhalts gewährleisten.
 
 #### § 70
 
