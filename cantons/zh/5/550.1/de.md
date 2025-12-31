@@ -4,11 +4,10 @@ number: "550.1"
 title: Polizeigesetz (PolG)
 short: PolG
 language: de
-version: "2022-01-01"
-nachtrag: "115"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2007-04-23
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-550_1-2007_04_23-2009_07_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-550_1-2007_04_23-2009_07_01-131.html"
 text: pdf
 ---
 
@@ -69,7 +68,7 @@ Dieses Gesetz umschreibt die Aufgaben der Polizei und die Art und Weise ihrer Er
 
 **1**
 
-- 1\. 1. 22 - 115 § 4.[^3-1] <sup>1</sup> Ausgehend von Hinweisen oder eigenen Wahrnehmungen, tätigt die Polizei Vorermittlungen, um festzustellen, ob
+- 1\. 1. 26 - 131 § 4.[^3-1] <sup>1</sup> Ausgehend von Hinweisen oder eigenen Wahrnehmungen, tätigt die Polizei Vorermittlungen, um festzustellen, ob
 
 **Vorermittlung und Vorverfahren**
 
@@ -102,6 +101,12 @@ Die Polizei leistet den Justiz- und Verwaltungsbehörden Amts- und Vollzugshilfe
 **Schutz privater Rechte**
 
 Die Polizei kann ausnahmsweise vorsorgliche Massnahmen zum Schutz privater Rechte treffen, wenn deren Bestand glaubhaft gemacht wird, gerichtlicher Schutz nicht rechtzeitig erlangt werden kann und ohne polizeiliche Hilfe die Ausübung des Rechts vereitelt oder wesentlich erschwert würde.
+
+**Bewilligung für gesteigerten Gemeingebrauch**
+
+§ 7 a.[^7-1] Demonstrationen, Kundgebungen und andere Veranstaltungen, die zu gesteigertem Gemeingebrauch führen, bedürfen einer vorgängigen Bewilligung durch das zuständige Gemeinwesen.
+
+[^7-1]: Eingefügt durch G vom 30. Juni 2025 (OS 80, 336; ABl 2023-03-17). In Kraft seit 1. Januar 2026.
 
 ### 3. Abschnitt: Aufgabenerfüllung im Allgemeinen
 
@@ -171,15 +176,19 @@ Die Polizei trifft im Einzelfall auch ohne besondere gesetzliche Grundlage unauf
 
 - b. unbeteiligten Dritten Gelegenheit, sich zu entfernen.
 
-<sup>2</sup> Keine Androhung ist erforderlich, wenn a. die Gefahr nur durch sofortigen Einsatz unmittelbaren Zwangs abgewendet werden kann oder b. es offensichtlich ist, dass der Einsatz unmittelbaren Zwangs bevorsteht.
-
 **3**
 
-- 1\. 1. 22 - 115 § 15. Werden Personen durch den Einsatz unmittelbaren Zwangs verletzt, leistet ihnen die Polizei den notwendigen Beistand und verschafft ärztliche Hilfe, soweit es die Umstände zulassen.
+- 1\. 1. 26 - 131
 
-#### § 16
+<sup>2</sup> Keine Androhung ist erforderlich, wenn a. die Gefahr nur durch sofortigen Einsatz unmittelbaren Zwangs abgewendet werden kann oder b. es offensichtlich ist, dass der Einsatz unmittelbaren Zwangs bevorsteht.
+
+#### § 15
 
 **Hilfepflicht der Polizei**
+
+Werden Personen durch den Einsatz unmittelbaren Zwangs verletzt, leistet ihnen die Polizei den notwendigen Beistand und verschafft ärztliche Hilfe, soweit es die Umstände zulassen.
+
+#### § 16
 
 **Fesselung**
 
@@ -251,7 +260,7 @@ Wenn es zur Erfüllung polizeilicher Aufgaben notwendig ist, darf die Polizei pr
 
 **5**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 26 - 131
 
 <sup>5</sup> Die Polizei darf die zur Identifikation von Personen erforderlichen Angaben in den Meldescheinen der Gästekontrolle von Beherbergungsbetrieben sowie in den Neuzuzugsmeldungen von Gemeinden zur Gefahrenabwehr, zur Strafverfolgung und zur Vollstreckung von Strafurteilen elektronisch abrufen sowie systematisch und automatisiert in den für die Fahndung bestimmten polizeilichen Systemen überprüfen. Der Regierungsrat regelt das Nähere.[^21-2]
 
@@ -327,15 +336,15 @@ Die Polizei darf eine Person in Gewahrsam nehmen, wenn a. sie sich selber, ander
 
 Auf Ersuchen der zuständigen Stelle führt die Polizei eine Person dieser Stelle vor oder einer anderen Stelle zu.
 
-**Zuführung von minderjährigen und unter umfassender Beistandschaft stehenden Personen**
-
-§ 29.[^28-1] <sup>1</sup> Die Polizei darf eine minderjährige oder unter umfassender Beistandschaft stehende Person in ihre Obhut nehmen, wenn sich die Person a. der elterlichen oder der von der Kindes- und Erwachsenenschutzbehörde (KESB) angeordneten Aufsicht entzieht,
-
-- b. an Orten aufhält, wo ihr eine Gefahr für ihre körperliche, sexuelle oder psychische Integrität droht.
-
 **7**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 26 - 131 § 29.[^28-1] <sup>1</sup> Die Polizei darf eine minderjährige oder unter umfassender Beistandschaft stehende Person in ihre Obhut nehmen, wenn sich die Person
+
+**Zuführung von minderjährigen und unter umfassender Beistandschaft stehenden Personen**
+
+- a. der elterlichen oder der von der Kindes- und Erwachsenenschutzbehörde (KESB) angeordneten Aufsicht entzieht,
+
+- b. an Orten aufhält, wo ihr eine Gefahr für ihre körperliche, sexuelle oder psychische Integrität droht.
 
 <sup>2</sup> Die Polizei führt die Person ohne Verzug der Inhaberin oder dem Inhaber der elterlichen Sorge oder Obhut, der zuständigen KESB oder einer von diesen Stellen bezeichneten Stelle zu.
 
@@ -402,13 +411,15 @@ Der Transport von in Gewahrsam genommenen, festgenommenen oder gefangenen Person
 
 <sup>2</sup> Als Kontaktnahmen nach Abs. 1 gelten auch die Vorbereitung und der Abschluss von Scheingeschäften und Testkäufen.
 
-<sup>3</sup> Das Polizeikommando kann die eingesetzte Person mit einer Legende ausstatten. Herstellung, Veränderung und Gebrauch von amtlichen Dokumenten wie Pässe, Identitätskarten und Führerausweise bedürfen der Genehmigung durch das Zwangsmassnahmengericht.
-
 **9**
 
-- 1\. 1. 22 - 115 § 32 e.[^hFÜberwachungsmassn-3] <sup>1</sup> Zur Verhinderung und Erkennung von Straftaten kann das Polizeikommando mit Genehmigung des Zwangsmassnahmengerichts ausserhalb eines Strafverfahrens verdeckte Vorermittlerinnen und Vorermittler einsetzen, die unter einer auf Dauer angelegten falschen Identität durch aktives und zielgerichtetes Verhalten versuchen, zu anderen Personen Kontakte zu knüpfen und zu ihnen ein Vertrauensverhältnis aufzubauen.
+- 1\. 1. 26 - 131
+
+<sup>3</sup> Das Polizeikommando kann die eingesetzte Person mit einer Legende ausstatten. Herstellung, Veränderung und Gebrauch von amtlichen Dokumenten wie Pässe, Identitätskarten und Führerausweise bedürfen der Genehmigung durch das Zwangsmassnahmengericht.
 
 **Verdeckte Vorermittlung**
+
+§ 32 e.[^hFÜberwachungsmassn-3] <sup>1</sup> Zur Verhinderung und Erkennung von Straftaten kann das Polizeikommando mit Genehmigung des Zwangsmassnahmengerichts ausserhalb eines Strafverfahrens verdeckte Vorermittlerinnen und Vorermittler einsetzen, die unter einer auf Dauer angelegten falschen Identität durch aktives und zielgerichtetes Verhalten versuchen, zu anderen Personen Kontakte zu knüpfen und zu ihnen ein Vertrauensverhältnis aufzubauen.
 
 <sup>2</sup> Eine verdeckte Vorermittlung kann angeordnet werden, wenn a. hinreichende Anhaltspunkte dafür vorhanden sind, dass es zu Straftaten im Sinne von Art. 286 Abs. 2 StPO kommen könnte,
 
@@ -429,7 +440,7 @@ Der Transport von in Gewahrsam genommenen, festgenommenen oder gefangenen Person
 [^hFÜberwachungsmassn-1]: Fassung gemäss G vom 5. November 2012 (OS 68, 79; ABl 2012, 655). In Kraft seit 1. März 2013.
 [^hFÜberwachungsmassn-2]: SR 311.0.
 [^hFÜberwachungsmassn-3]: Eingefügt durch G vom 5. November 2012 (OS 68, 79; ABl 2012, 655). In Kraft seit 1. März 2013.
-[^hFÜberwachungsmassn-4]: Aufgehoben durch Urteil des Bundesgerichts vom 1. Oktober 2014 (1C\_653/ 2012) (OS 69, 476).
+[^hFÜberwachungsmassn-4]: Aufgehoben durch Urteil des Bundesgerichts vom 1. Oktober 2014 (1C\_653/ 2012) (OS 69, 476). 1. 1. 26 - 131 23
 [^hFÜberwachungsmassn-5]: SR 362.0.
 
 ### G. Wegweisung und Fernhaltung von Personen
@@ -486,17 +497,19 @@ Die Polizei darf eine Person von einem Ort wegweisen oder für längstens 24 Stu
 
 - e. sie sich in einem die freie Willensbildung ausschliessenden Zustand oder in hilfloser Lage befindet und die Durchsuchung zu ihrem Schutz erforderlich ist.
 
+**11**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Die Durchsuchung wird von einer Person gleichen Geschlechts vorgenommen, es sei denn, die Massnahme ertrage keinen Aufschub.
 
 <sup>3</sup> Für weitergehende körperliche Untersuchungen beauftragt die Polizei eine Ärztin oder einen Arzt oder anderes medizinisches Fachpersonal.
 
-**11**
-
-- 1\. 1. 22 - 115 § 36. <sup>1</sup> Die Polizei darf Fahrzeuge, Behältnisse und andere Gegenstände öffnen und durchsuchen, wenn
+#### § 36
 
 **Gegenstände**
 
-- a. sie sich bei Personen befinden, die gemäss § 35 durchsucht werden dürfen,
+<sup>1</sup> Die Polizei darf Fahrzeuge, Behältnisse und andere Gegenstände öffnen und durchsuchen, wenn a. sie sich bei Personen befinden, die gemäss § 35 durchsucht werden dürfen,
 
 - b. dies zum Schutz von Angehörigen der Polizei oder anderer Personen erforderlich ist,
 
@@ -578,6 +591,10 @@ anderen Gegenständen
 
 - b. öffentliche Arbeiten oder die bestimmungsgemässe Nutzung des öffentlich zugänglichen Raumes behindern oder gefährden oder
 
+**13**
+
+- 1\. 1. 26 - 131
+
 - c. eine erhebliche Gefährdung für Personen, Tiere oder Gegenstände von namhaftem Wert darstellen.
 
 #### § 42
@@ -587,10 +604,6 @@ anderen Gegenständen
 <sup>1</sup> Die Massnahme wird der betroffenen Person angedroht. In dringenden Fällen kann von der Androhung abgesehen werden.
 
 <sup>2</sup> Die Rückgabe kann von der Zahlung der Kosten abhängig gemacht werden.
-
-**13**
-
-- 1\. 1. 22 - 115
 
 [^42-1]: Fassung gemäss G vom 5. November 2012 (OS 68, 79; ABl 2012, 655). In Kraft seit 1. März 2013.
 
@@ -672,11 +685,11 @@ anderen Gegenständen
 
 <sup>2</sup> Erleiden Angehörige oder Hilfskräfte einer kommunalen Polizei im Zusammenhang mit der Dienstausübung einen Schaden, so stehen ihnen wenigstens jene Rechtsansprüche zu, über welche die Angehörigen und Hilfskräfte der Kantonspolizei gemäss § 42 lit. b des Personalgesetzes[^48-1] verfügen.
 
-<sup>3</sup> Hat die amtliche Tätigkeit zu ausserkantonalen Einsätzen entsandter kantonaler oder kommunaler Angehöriger der Polizei oder Hilfskräfte eine persönliche Haftung zur Folge, so werden sie gemäss § 28 des Haftungsgesetzes vom 14. September 1969[^48-2] wie bei Einsätzen im Kanton Zürich schadlos gehalten.
-
 **15**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 26 - 131
+
+<sup>3</sup> Hat die amtliche Tätigkeit zu ausserkantonalen Einsätzen entsandter kantonaler oder kommunaler Angehöriger der Polizei oder Hilfskräfte eine persönliche Haftung zur Folge, so werden sie gemäss § 28 des Haftungsgesetzes vom 14. September 1969[^48-2] wie bei Einsätzen im Kanton Zürich schadlos gehalten.
 
 [^48-1]: LS 177.10.
 [^48-2]: LS 170.1; heute: Haftungsgesetz.
@@ -751,13 +764,15 @@ anderen Gegenständen
 
 <sup>6</sup> Die für die Polizei zuständige Direktion regelt die Zugriffsrechte für die Benutzerinnen und Benutzer.
 
-<sup>7</sup> Die Löschung von Daten, die sich auf Strafverfahren beziehen, erfolgt nach Ablauf der Aktenaufbewahrungsvorschriften der StPO. Darüber hinaus erfolgt die Löschung von Daten nach Massgabe der vom Regierungsrat festgesetzten Aufbewahrungsvorschriften.
-
 **17**
 
-- 1\. 1. 22 - 115 § 54 a.[^53-3] <sup>1</sup> Die Strafbehörden teilen der Polizei zur Nachführung der polizeilichen Datenbearbeitungssysteme Freisprüche sowie Einstellungen und Nichtanhandnahmen von Strafverfahren innert 14 Tagen seit Eintritt der Rechtskraft mit.
+- 1\. 1. 26 - 131
+
+<sup>7</sup> Die Löschung von Daten, die sich auf Strafverfahren beziehen, erfolgt nach Ablauf der Aktenaufbewahrungsvorschriften der StPO. Darüber hinaus erfolgt die Löschung von Daten nach Massgabe der vom Regierungsrat festgesetzten Aufbewahrungsvorschriften.
 
 **Nachführung von Datensystemen**
+
+§ 54 a.[^53-3] <sup>1</sup> Die Strafbehörden teilen der Polizei zur Nachführung der polizeilichen Datenbearbeitungssysteme Freisprüche sowie Einstellungen und Nichtanhandnahmen von Strafverfahren innert 14 Tagen seit Eintritt der Rechtskraft mit.
 
 <sup>2</sup> Die oder der Beauftragte für den Datenschutz überwacht die Aktualität und die Nachführung der in den Datenbearbeitungssystemen gespeicherten Daten in der Regel alle zwei Jahre und aus besonderem Anlass.
 
@@ -816,11 +831,9 @@ Wenn Private der Polizei bei der Ausübung einer dienstlichen Verrichtung Hilfe 
 
 ### B. Kostenersatz
 
-#### § 58
-
 **Polizeiliche Leistungen**
 
-<sup>1</sup> Die Polizei kann Kostenersatz verlangen a. von der Veranstalterin oder vom Veranstalter eines Anlasses, der einen ausserordentlichen Polizeieinsatz erfordert,
+§ 58.[^hBKostenersatz-1] <sup>1</sup> Die Polizei kann Kostenersatz verlangen a. von der Veranstalterin oder vom Veranstalter eines Anlasses, der einen ausserordentlichen Polizeieinsatz erfordert,
 
 - b. von der Verursacherin oder vom Verursacher eines Polizeieinsatzes, wenn diese oder dieser vorsätzlich oder grobfahrlässig gehandelt hat,
 
@@ -828,7 +841,19 @@ Wenn Private der Polizei bei der Ausübung einer dienstlichen Verrichtung Hilfe 
 
 <sup>2</sup> Bei Veranstaltungen, die ganz oder teilweise im öffentlichen Interesse liegen oder einem ideellen Zweck dienen, kann der Kostenersatz herabgesetzt oder ganz erlassen werden.
 
-<sup>3</sup> Bei bewilligten Veranstaltungen, die der Ausübung des verfassungsmässig garantierten Demonstrationsrechts dienen, werden den Veranstaltern keine Kosten auferlegt, sofern sie nicht grobfahrlässig gegen Auflagen der Bewilligung verstossen haben.
+<sup>3</sup> Die Polizei muss von der Verursacherin oder dem Verursacher eines ausserordentlichen Polizeieinsatzes Kostenersatz verlangen, wenn diese oder dieser vorsätzlich gehandelt hat.
+
+<sup>4</sup> Sie verrechnet die Kosten eines ausserordentlichen Polizeieinsatzes ab dem Zeitpunkt, in dem Leistungen erforderlich werden, die über den Grundauftrag zur Verhinderung polizeiwidriger Zustände hinausgehen.
+
+<sup>5</sup> Sie auferlegt die Kosten der Verursacherin oder dem Verursacher anteilmässig nach Massgabe ihres bzw. seines konkreten Beitrags.
+
+**19**
+
+- 1\. 1. 26 - 131
+
+<sup>6</sup> Bei bewilligten Veranstaltungen, die der Ausübung des verfassungsmässig garantierten Demonstrationsrechts dienen, werden der Veranstalterin oder dem Veranstalter keine Kosten auferlegt, ausser sie bzw. er hat vorsätzlich oder grobfahrlässig gegen Auflagen der Bewilligung verstossen.
+
+[^hBKostenersatz-1]: Fassung gemäss G vom 30. Juni 2025 (OS 80, 336; ABl 2023-03-17). In Kraft seit 1. Januar 2026.
 
 #### § 59
 
@@ -847,10 +872,6 @@ Fallen bei Sicherstellung, Fernhaltung, Wegschaffung, Aufbewahrung, Vorkehrungen
 § 59 a.[^h9AbschnittPrivat-1] <sup>1</sup> Sicherheitsdienstleistungen umfassen die Tätigkeiten von Kontroll- und Aufsichtsdiensten, insbesondere a. Türsteherdiensten,
 
 - b. Bewachungs- und Überwachungsdiensten,
-
-**19**
-
-- 1\. 1. 22 - 115
 
 - c. Schutzdiensten für Personen und Güter mit erhöhter Gefährdung,
 
@@ -912,6 +933,10 @@ Fallen bei Sicherstellung, Fernhaltung, Wegschaffung, Aufbewahrung, Vorkehrungen
 
 § 59 g.[^h9AbschnittPrivat-1] <sup>1</sup> Die Bewilligung wird befristet oder definitiv entzogen, wenn a. die Voraussetzungen gemäss § 59 c nicht mehr erfüllt sind oder b. Bestimmungen dieses Gesetzes oder Auflagen verletzt wurden.
 
+**21**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Personen kann verboten werden, in Sicherheitsunternehmen tätig zu sein, wenn a. sie wegen eines Verbrechens oder Vergehens verurteilt worden sind,
 
 - b. sie wiederholt gegen die Verhaltenspflichten nach § 59 f verstossen haben,
@@ -929,10 +954,6 @@ Fallen bei Sicherstellung, Fernhaltung, Wegschaffung, Aufbewahrung, Vorkehrungen
 § 59 i.[^h9AbschnittPrivat-1] <sup>1</sup> Die Bewilligungsbehörde ist befugt, zur Erfüllung ihrer Aufgaben Personendaten, einschliesslich besonderer Personendaten, zu bearbeiten.
 
 <sup>2</sup> Sie führt ein Verzeichnis über die erteilten und verweigerten Bewilligungen sowie über die erteilten Berufsverbote. Das Verzeichnis mit den erteilten Bewilligungen wird veröffentlicht.
-
-**21**
-
-- 1\. 1. 22 - 115
 
 <sup>3</sup> Sie kann den Sicherheitsunternehmen auf Ersuchen Auskunft erteilen, ob über die Person, die das Unternehmen anzustellen gedenkt, ein Berufsverbot verfügt wurde.
 
@@ -985,4 +1006,4 @@ Die nachstehenden Gesetze werden wie folgt geändert:
 
 ## Weitere Fussnoten
 
-- [28] Fassung gemäss G über die Information und den Datenschutz vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020. 1. 1. 22 - 115 23
+- [28] Fassung gemäss G über die Information und den Datenschutz vom 25. November 2019 (OS 75, 263; ABl 2018-07-13). In Kraft seit 1. Juni 2020.
