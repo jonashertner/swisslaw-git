@@ -4,13 +4,13 @@ number: "422.211"
 title: Verordnung über die Berufs- und Weiterbildung
 short: VBW
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
+version: 2026-01-01
+valid_until: 2026-07-31
 version_adopted: 2025-05-21
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3822/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3856/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3822/pdf_file"
 
 (VBW)
 
-Vom 07.11.2007 (Stand 01.08.2025)
+Vom 07.11.2007 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -726,9 +726,13 @@ beschliesst:
 
 **Anzahl Lernende**
 
-<sup>1</sup> Für die Erhebung der Anzahl Lernenden in aargauischen Lehrverhältnissen und der Anzahl Lernenden ohne Lehrvertrag wird auf den Stichtag der jährlichen nationalen Bildungsstatistik des Bundesamts für Statistik abgestellt.
+<sup>1</sup> Zur Berechnung des Pauschalbeitrags des Kantons gemäss § 47 GBW sind massgebend:
 
-<sup>2</sup> Für Lernende ohne Lehrvertrag ist der stipendienrechtliche Wohnsitz massgebend.
+- a) Anzahl Lernende in aargauischen Lehrverhältnissen in Angeboten der beruflichen Grundbildung, einschliesslich lehrbegleitender Lehrgänge zur eidgenössischen Berufsmaturität (BM I), ohne Repetierende,
+- b) Anzahl Lernende in Angeboten der Vorbereitung auf die berufliche Grundbildung und in Lehrgängen zur eidgenössischen Berufsmaturität für gelernte Berufsleute (BM II) mit stipendienrechtlichem Wohnsitz gemäss Art. 4 Abs. 2 und 3 BFSV im Kanton Aargau,
+- c) Anzahl Lernende in Angeboten der beruflichen Grundbildung für Erwachsene (Nachholbildung) mit zivilrechtlichem Wohnsitz im Kanton Aargau am Tag des Entscheids über die Zulassung zum Qualifikationsverfahren gemäss § 42a.
+
+<sup>2</sup> Zur Erhebung der Anzahl Lernenden wird auf den Stichtag der jährlichen nationalen Bildungsstatistik des Bundesamts für Statistik abgestellt.
 
 <sup>3</sup> Die erhobene Anzahl Lernende ist für die Berechnung des Pauschalbeitrags des folgenden Jahrs massgebend.
 
@@ -740,11 +744,21 @@ beschliesst:
 
 **Jahrespflichtlektionenzahlen**
 
-<sup>1</sup> Die Pflichtlektionenzahlen ergeben sich aus den eidgenössischen Ausbildungsreglementen beziehungsweise den eidgenössischen Verordnungen über die berufliche Grundbildung. Wo solche Verordnungen fehlen, wird der jeweilige Rahmenlehrplan respektive die jeweilige Lektionentafel zur Bestimmung der Pflichtlektionenzahl herangezogen.
+<sup>1</sup> Die Pflichtlektionenzahlen ergeben sich aus den eidgenössischen Verordnungen über die berufliche Grundbildung. Wo solche Verordnungen fehlen, wird der jeweilige Rahmenlehrplan respektive die jeweilige Lektionentafel zur Bestimmung der Pflichtlektionenzahl herangezogen.
 
-<sup>2</sup> Bei Lehrgängen der beruflichen Grundbildung für Erwachsene (Nachholbildung) werden die nach Absatz 1 ermittelten Pflichtlektionenzahlen halbiert.
+<sup>1<sup>bis</sup></sup> Bei inhaltlichen Überschneidungen mit dem Berufsmaturitätsunterricht wird nur die effektiv erteilte Lektionenzahl im jeweiligen Fach berücksichtigt.
 
-<sup>3</sup> Für die Berechnung der durchschnittlichen Jahrespflichtlektionenzahl wird die nach Absatz 1 und 2 ermittelte Pflichtlektionenzahl durch die Anzahl Jahre der ganzen Ausbildungsdauer geteilt.
+<sup>2</sup> Bei Lehrgängen der beruflichen Grundbildung für Erwachsene (Nachholbildung) werden die gemäss Absatz 1 ermittelten Pflichtlektionenzahlen halbiert.
+
+<sup>3</sup> Für die Berechnung der durchschnittlichen Jahrespflichtlektionenzahl wird die gemäss den Absätzen 1, 1<sup>bis</sup> und 2 ermittelte Pflichtlektionenzahl durch die Anzahl Jahre der ganzen Ausbildungsdauer geteilt.
+
+#### § 51a
+
+**Pauschalbeitrag bei Repetierenden**
+
+<sup>1</sup> Der Pauschalbeitrag des Kantons für Repetierende berechnet sich wie folgt: Anzahl Repetierende multipliziert mit der Anzahl Lektionen der wiederholten Handlungskompetenzbereiche beziehungsweise Fächer und der Pflichtlektionenpauschale.
+
+<sup>2</sup> Es werden nur Pauschalbeiträge für Repetierende bezahlt, für die der Kanton Aargau im Zeitpunkt des nicht erfolgreichen Qualifikationsverfahrens zahlungspflichtig war und sofern nicht in einem anderen Kanton ein neuer Lehrvertrag abgeschlossen wird.
 
 #### § 52
 
