@@ -5,12 +5,12 @@ title: Energieverordnung
 short: "Energieverordnung, EnerV"
 language: de
 version: 2026-01-01
-valid_until: 2026-11-30
+corrected: 2025-12-17
 version_adopted: 2025-12-16
 adopted: 2005-02-15
 in_force: 2005-04-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.101"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2052/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2037/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -509,7 +509,7 @@ beschliesst:
 - 1\. die fachgerechte Umsetzung einer Haupt-Standardlösung gemäss Anhang 4 (SL1 bis SL5) gewährleistet ist oder
 - 2\. die fachgerechte Umsetzung von drei oder vier Kombinations-Standardlösungen gemäss Anhang 4 (SL7 bis SL16) im Umfang gemäss § 26d Abs. 1 gewährleistet ist oder
 - 3\. die Zertifizierung des Gebäudes nach Minergie ausgewiesen ist oder
-- 4\. die Klasse A, B, C oder D bei der Gebäudehülleneffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist oder
+- 4\. die Klasse B bei der Gebäudehülleneffizienz gemäss Gebäudeenergieausweis der Kantone (GEAK) erreicht ist oder
 - 5\. für die betroffenen Bauten und Gebäudegruppen die Baubewilligung nach dem 1. Januar 2011 erteilt wurde
 
 <sup>3</sup> Bei flüssigen Brennstoffen sind die Zertifikate für die ganze Betriebsdauer (20 Jahre) zusammen mit dem Kaufbeleg vor Baubeginn der Anlage der Bewilligungsbehörde einzureichen.
