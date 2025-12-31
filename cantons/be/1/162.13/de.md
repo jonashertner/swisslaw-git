@@ -4,13 +4,12 @@ number: "162.13"
 title: Informationsreglement der Zivil- und Strafgerichtsbarkeit
 short: IR ZSG
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-17
+version: 2026-01-01
+version_adopted: 2025-11-28
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/162.13"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2929/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3327/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2929/pdf_file"
 
 (IR ZSG)
 
-vom 12.11.2010 (Stand 01.01.2024)
+vom 12.11.2010 (Stand 01.01.2026)
 
 Das Obergericht des Kantons Bern,
 
@@ -213,9 +212,9 @@ beschliesst:
 
 <sup>1</sup> Medienschaffende, die regelmässig für in der Schweiz erscheinende oder niedergelassene Medien über die Rechtsprechung der Zivil- und Strafgerichtsbehörden Bericht erstatten wollen, können beim Obergericht ein schriftliches Gesuch um Akkreditierung einreichen.
 
-<sup>2</sup> Die Geschäftsleitung erteilt die Akkreditierung, wenn die Gesuchstellerin oder der Gesuchsteller die Voraussetzungen für die Eintragung in das Berufsregister erfüllt; dem Gesuch sind nebst Lebenslauf, Foto und E-Mail-Adresse die entsprechenden Unterlagen wie Presseausweis und Bestätigung der Arbeitgeberin oder des Arbeitgebers oder dergleichen beizulegen.
+<sup>2</sup> Die Generalsekretärin oder der Generalsekretär erteilt die Akkreditierung, wenn die Gesuchstellerin oder der Gesuchsteller die Voraussetzungen für die Eintragung in das Berufsregister erfüllt; dem Gesuch sind nebst Lebenslauf, Foto und E-Mail-Adresse die entsprechenden Unterlagen wie Presseausweis und Bestätigung der Arbeitgeberin oder des Arbeitgebers oder dergleichen beizulegen.
 
-<sup>3</sup> Die Akkreditierung wird verweigert, wenn begründete Zweifel an der Vertrauenswürdigkeit der Gesuchstellerin oder des Gesuchstellers bestehen.
+<sup>3</sup> Die Akkreditierung wird verweigert, wenn begründete Zweifel an der Vertrauenswürdigkeit der Gesuchstellerin oder des Gesuchstellers bestehen. Die Gesuchstellerin oder der Gesuchsteller kann in diesen Fällen eine anfechtbare Verfügung der Geschäftsleitung verlangen.
 
 #### Art. 17
 
@@ -263,7 +262,7 @@ beschliesst:
 
 <sup>1</sup> Die Akkreditierung erfolgt für eine Dauer von vier Jahren. Die Medienschaffenden haben rechtzeitig um Erneuerung der Akkreditierung nachzusuchen.
 
-<sup>2</sup> Die Geschäftsleitung hebt die Akkreditierung auf, wenn die Voraussetzungen für deren Erteilung nicht mehr gegeben sind.
+<sup>2</sup> Die Generalsekretärin oder der Generalsekretär hebt die Akkreditierung auf, wenn die Voraussetzungen für deren Erteilung nicht mehr gegeben sind. Die von der Aufhebung betroffenen Medienschaffenden können in diesen Fällen eine anfechtbare Verfügung der Geschäftsleitung verlangen.
 
 <sup>3</sup> Akkreditierte Medienschaffende, die gegen die Vorschriften dieses Reglements verstossen, können verwarnt werden. In schweren Fällen wird die Akkreditierung vorübergehend oder dauerhaft entzogen. Die Gerichte melden dem Obergericht festgestellte Verstösse.
 

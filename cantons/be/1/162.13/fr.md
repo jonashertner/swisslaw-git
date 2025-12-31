@@ -4,13 +4,12 @@ number: "162.13"
 title: "Règlement sur l’information par les juridictions civile et pénale *"
 short: RI JCP
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-11-17
+version: 2026-01-01
+version_adopted: 2025-11-28
 adopted: 2010-11-12
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.13"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2929/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3327/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2929/pdf_file"
 
 (RI JCP)
 
-du 12.11.2010 (état au 01.01.2024)
+du 12.11.2010 (état au 01.01.2026)
 
 La Cour suprême du canton de Berne,
 
@@ -213,9 +212,9 @@ arrête:
 
 <sup>1</sup> Les professionnels des médias qui entendent tenir régulièrement la chronique de l’activité judiciaire des autorités judiciaires civiles et pénales pour les médias paraissant ou établis en Suisse doivent demander leur accréditation par écrit à la Cour suprême.
 
-<sup>2</sup> Le directoire accorde l’autorisation si le requérant ou la requérante remplit les conditions d’inscription au registre professionnel; la demande doit être accompagnée d’un curriculum vitae, d’une photo, de l’adresse électronique, ainsi que d’un dossier contenant la carte de presse, une attestation de l’employeur ou tout autre document équivalent.
+<sup>2</sup> Le secrétaire général ou la secrétaire générale accorde l’autorisation si le requérant ou la requérante remplit les conditions d’inscription au registre professionnel; la demande doit être accompagnée d’un curriculum vitae, d’une photo, de l’adresse électronique, ainsi que d’un dossier contenant la carte de presse, une attestation de l’employeur ou tout autre document équivalent.
 
-<sup>3</sup> L’accréditation peut être refusée lorsqu’il existe des doutes sérieux que celui ou celle qui la sollicite n’est pas digne de confiance.
+<sup>3</sup> L’accréditation est refusée lorsqu’il existe des doutes sérieux que celui ou celle qui la sollicite soit digne de confiance. Dans ces cas, le requérant ou la requérante peut demander une ordonnance attaquable du directoire.
 
 #### Art. 17
 
@@ -263,7 +262,7 @@ arrête:
 
 <sup>1</sup> L’accréditation vaut pour une durée de quatre ans. Les professionnels des médias doivent présenter leur requête de renouvellement de l’accréditation en temps utile.
 
-<sup>2</sup> Le directoire révoque l’accréditation si les conditions posées à son octroi ne sont plus réunies.
+<sup>2</sup> Le secrétaire général ou la secrétaire générale révoque l’accréditation si les conditions posées à son octroi ne sont plus réunies. Dans ces cas, les professionnels des médias concernés par la révocation peuvent demander une ordonnance attaquable du directoire.
 
 <sup>3</sup> Les professionnels des médias accrédités qui enfreignent les dispositions du présent règlement peuvent recevoir un avertissement. Dans les cas graves, l’accréditation sera provisoirement ou durablement retirée. Les tribunaux communiquent à la Cour suprême les infractions constatées.
 
