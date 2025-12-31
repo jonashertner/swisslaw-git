@@ -4,13 +4,12 @@ number: "705.1"
 title: Baugesetz
 short: BauG
 language: de
-version: 2024-12-31
-valid_until: 2025-12-31
-version_adopted: 2024-12-12
+version: 2026-01-01
+version_adopted: 2025-02-13
 adopted: 2025-02-13
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/705.1"
-pdf: "https://lex.vs.ch/api/de/versions/3430/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3555/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3430/pdf_file"
 
 (BauG)
 
-vom 15.12.2016 (Stand 31.12.2024)
+vom 13.02.2025 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -41,7 +40,7 @@ verordnet:[^ingress-1]
 
 <sup>1</sup> Das vorliegende Gesetz regelt die Erstellung, die Änderung, den Abbruch, den Wiederaufbau sowie den Unterhalt von Bauten und Anlagen einheitlich. Es sorgt namentlich dafür, dass Letztere den Anforderungen der öffentlichen Gesundheit, der öffentlichen Sicherheit und des Umweltschutzes entsprechen sowie eine hohe Qualität des überbauten Gebietes und seiner Umgebung gewährleisten.
 
-<sup>2</sup> Es befolgt unter Achtung des Privateigentums die Ziele und Grundsätze des eidgenössischen und kantonalen Raumplanungsrechts.
+<sup>2</sup> Es gewährleistet unter Achtung des Privateigentums die Einhaltung der Ziele und Grundsätze des eidgenössischen und kantonalen Raumplanungsrechts.
 
 #### Art. 2
 
@@ -54,61 +53,138 @@ verordnet:[^ingress-1]
 - c) Gewerbezonen;
 - d) Industriezonen;
 - e) Zonen für öffentliche Bauten und Anlagen;
-- f) Zonen zur Ausübung von Sport und Erholung innerhalb des Perimeters der Bauzonen oder direkt an diese angeschlossen, wenn sie eine Gesamtfläche von drei Hektaren nicht übersteigen.
+- f) Zonen zur Ausübung von Sport und Erholung innerhalb des Perimeters der Bauzonen oder direkt an diese angeschlossen, wenn sie eine Gesamtfläche von 3 Hektaren nicht übersteigen.
 
 <sup>2</sup> Die Kantonale Baukommission (nachstehend: KBK) ist für Bauvorhaben ausserhalb der Bauzonen zuständig, insbesondere in:
 
 - a) Landwirtschaftszonen;
 - b) Schutzzonen;
 - c) Kleinsiedlungen ausserhalb der Bauzone wie Weiler- und Erhaltungszonen;
-- d) Gebiete mit traditioneller Streubauweise;
+- d) Gebieten mit traditioneller Streubauweise;
 - e) Zonen mit als landschaftsprägend geschützten Bauten wie Maiensässzonen;
 - f) übrigen Zonen zur Ausübung von Sport und Erholung;
 - g) Zonen für Abbau und Deponien;
-- h) Waldarealen;
-- i) übrigen Nutzungszonen.
+- h) Waldarealen.
 
-<sup>3</sup> Die KBK ist ebenfalls für Bauvorhaben zuständig, bei denen sich die Gemeinde in einem Interessenkonflikt befindet, insbesondere, weil sie Eigentümerin des Grundstücks ist oder durch ein anderes dingliches Recht am Bauvorhaben beteiligt ist.
+<sup>3</sup> Die KBK ist für Bauvorhaben zuständig, die im Perimeter eines kantonalen Nutzungsplans liegen.
 
-#### Art. 2a
+<sup>4</sup> Die KBK ist für Bauvorhaben zuständig, bei denen sich die Gemeinde in einem Interessenkonflikt befindet, insbesondere weil sie Eigentümerin des Grundstücks ist oder durch ein anderes dingliches Recht am Bauvorhaben beteiligt ist. Wenn die Beteiligung der Gemeinde von geringem Umfang ist, kann die KBK ihre Zuständigkeit der Gemeinde übertragen. In diesem Fall teilt die Gemeinde ihren endgültigen Bauentscheid der KBK mit. In der Verordnung werden die Fälle festgelegt, in denen die Zuständigkeit von Amtes wegen bei der Gemeindebehörde liegt.
+
+<sup>5</sup> Der Entscheid zur Übertragung der Zuständigkeit ist Teil des öffentlich aufgelegten Dossiers. Er kann nicht Gegenstand einer separaten Beschwerde bilden.
+
+<sup>6</sup> Fällt ein bestimmtes Bauvorhaben in die Zuständigkeit sowohl der Gemeinde als auch der KBK, namentlich, wenn es sich in zwei verschiedenen Zonen befindet, kann die KBK unter Vorbehalt der Zustimmung der Gemeinde sowie des Gesuchstellers entscheiden, das Baugesuch als Ganzes zu behandeln. Dieser Entscheid muss vor der öffentlichen Auflage erfolgen.
+
+#### Art. 3
+
+**Behörden und Aufgaben der Kantonsverwaltung**
+
+<sup>1</sup> Das Departement im Sinne des vorliegenden Gesetzes ist das für das Bauwesen zuständige Departement.
+
+<sup>2</sup> Die Dienststelle im Sinne des vorliegenden Gesetzes ist die für Rechtsangelegenheiten zuständige Dienststelle des Departements.
+
+<sup>3</sup> Die Dienststelle stellt der Öffentlichkeit allgemeine Informationen über die geltenden Bauvorschriften zur Verfügung.
+
+<sup>4</sup> Die Dienststelle beantwortet allgemeine Fragen der zuständigen Baubehörden auf kommunaler, kantonaler und eidgenössischer Ebene.
+
+<sup>5</sup> Wenn ein Bauvorhaben von öffentlichem Interesse ist, kann die Dienststelle den Gesuchstellern besondere Unterstützung bieten.
+
+<sup>6</sup> Die Dienststelle richtet das Sekretariat der Kantonalen Baukommission (nachstehend: SKBK) ein, dessen Aufgaben in der Bauverordnung (BauV) geregelt sind.
+
+<sup>7</sup> Die Dienststelle richtet einen Informationsschalter für Baubehörden (nachstehend: ISBB) ein, dessen Aufgaben in der BauV geregelt sind.
+
+#### Art. 4
+
+**Kantonale Baukommission (KBK) a) Status**
+
+<sup>1</sup> Die KBK ist eine interdisziplinäre und unabhängige Behörde. Sie ist administrativ dem Departement angegliedert.
+
+#### Art. 5
+
+**b) Zusammensetzung**
+
+<sup>1</sup> Die KBK besteht aus fünf Mitgliedern, mindestens je ein Architekt, ein Jurist und ein Ingenieur:
+
+- a) die Juristen müssen über ein Lizenziat in Rechtswissenschaften oder einen Master in Rechtswissenschaften einer Schweizer Universität verfügen;
+- b) die Architekten müssen über ein von einer Schweizer Hochschule verliehenes Architekturdiplom oder Doktorat oder über ein vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) als gleichwertig anerkanntes ausländisches Diplom verfügen;
+- c) die Ingenieure müssen über ein von einer Schweizer Hochschule verliehenes Ingenieurdiplom oder Doktorat oder über ein vom Staatssekretariat für Bildung, Forschung und Innovation (SBFI) als gleichwertig anerkanntes ausländisches Diplom verfügen.
+
+<sup>2</sup> Die Mitglieder müssen nachweisen, dass sie eine der beiden Amtssprachen perfekt und die andere sehr gut beherrschen.
+
+<sup>3</sup> Ein Mitglied der KBK muss aus den Einwohnern der heutigen Bezirke Goms, Brig, Visp, Raron und Leuk gewählt werden; eines aus den Einwohnern der Bezirke Siders, Sitten, Ering und Gundis und eines aus den Einwohnern der Bezirke Martinach, Entremont, Saint-Maurice und Monthey. Die zwei übrigen Mitglieder werden aus allen Bezirken des Kantons gewählt.
+
+#### Art. 6
+
+**c) Ernennungsbehörde, Amtsdauer und Vergütung**
+
+<sup>1</sup> Die Mitglieder werden vom Staatsrat für eine Amtsperiode ernannt.
+
+<sup>2</sup> Die Amtsdauer der Mitglieder kann höchstens zweimal verlängert werden.
+
+<sup>3</sup> Der Staatsrat legt die Vergütung der Mitglieder fest.
+
+#### Art. 7
+
+**d) Funktionsweise**
+
+<sup>1</sup> Die KBK tagt mit fünf Mitgliedern.
+
+<sup>2</sup> Die KBK ist nur dann beschlussfähig, wenn mindestens drei Mitglieder anwesend sind.
+
+<sup>3</sup> Die Mitglieder ernennen für die Dauer der Amtsperiode aus ihren Reihen einen Präsidenten.
+
+<sup>4</sup> Wenn der Präsident bei einer Sitzung nicht anwesend ist, bestimmen die anwesenden Mitglieder bei der Eröffnung der Sitzung, wer die Sitzung leiten soll.
+
+<sup>5</sup> Der Leiter des SKBK nimmt an den Sitzungen der KBK teil. Er hat eine beratende Stimme. Er kann sich von einem anderen Mitarbeiter des SKBK vertreten lassen.
+
+<sup>6</sup> Die KBK stimmt dem vom SKBK vorgelegten Entscheidentwurf mit Mehrheit der anwesenden Mitglieder zu oder lehnt ihn ab. Bei Stimmengleichheit der anwesenden Mitglieder hat der Präsident den Stichentscheid.
+
+<sup>7</sup> Bei Angelegenheiten von geringer Bedeutung, wie der Verlängerung der Gültigkeit einer Bau- oder einer Wohnbewilligung, kann der Präsident oder in dessen Abwesenheit und auf Delegation hin eines der Mitglieder allein entscheiden. Die KBK verabschiedet ein internes Reglement, das die Anwendung der vorliegenden Bestimmung regelt.
+
+<sup>8</sup> Die KBK kann die Kompetenz zur Durchführung einer Einigungsverhandlung, zur Vornahme einer Ortsschau oder zur Durchführung einer Koordinationssitzung mit dem Gesuchsteller an eines ihrer Mitglieder delegieren.
+
+<sup>9</sup> Im Falle eines Interessenkonflikts treten die Mitglieder der KBK gemäss den Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege (VVRG) in den Ausstand.
+
+#### Art. 8
 
 **Digitale Plattform**
 
-<sup>1</sup> Der Kanton stellt eine kantonale digitale Plattform, eConstruction (nachstehend: Plattform), zur Verfügung, welche die Einleitung und Verwaltung aller Verfahrenshandlungen (namentlich Baugesuche, Anzeigen, Ermahnungen, Aufforderungen, Benachrichtigungen) ermöglicht, die im vorliegenden Gesetz und seiner Verordnung vorgesehen sind, mit Ausnahme der Aufsichtsverfahren.
+<sup>1</sup> Der Kanton stellt eine kantonale digitale Plattform, eConstruction (nachstehend: Plattform), zur Verfügung, welche die Einleitung und Verwaltung aller Verfahrenshandlungen (namentlich Gesuche um Vorentscheid, Baugesuche, Meldungen, Ermahnungen, Aufforderungen, Benachrichtigungen) ermöglicht, die im vorliegenden Gesetz und in seiner Verordnung vorgesehen sind, mit Ausnahme der Aufsichts- und Beschwerdeverfahren.
 
 <sup>2</sup> Für die Dossiers in ihrer Zuständigkeit kann eine Gemeinde auf die Benutzung der Plattform verzichten, ebenso ein Beteiligter, dem die Benutzung der Plattform von der zuständigen Behörde angeboten wird. Die Gemeinden müssen ihren Entscheid, auf die Benutzung der Plattform zu verzichten, im Amtsblatt veröffentlichen. Andernfalls müssen sie den Beteiligten die Möglichkeit bieten, die Plattform zu nutzen.
 
-<sup>3</sup> Über die Zugangsberechtigungen der Verwaltungsbehörden, die sich zu den auf der Plattform eingereichten Dossiers äussern müssen, bestimmen die gemäss Artikel 2 des vorliegenden Gesetzes zuständigen Behörden.
+<sup>3</sup> Über die Zugangsberechtigungen der Verwaltungsbehörden, die sich zu den auf der Plattform eingereichten Dossiers äussern müssen, bestimmt die gemäss Artikel 2 des vorliegenden Gesetzes zuständige Behörde.
 
-<sup>4</sup> Abgesehen von Ausnahmen gemäss vorliegendem Gesetz oder dessen Verordnung gilt die Validierung der auf der Plattform eingereichten Dokumente als eigenhändige Unterschrift. Die Plattform stellt für jede Kommunikation und jedes Dokument sicher, dass der Inhalt nicht verändert wird (Authentizität) und dass die Hinterlegung der digitalen Daten einem bestimmten Zeitpunkt zugeordnet werden kann (Zeitstempel).
+<sup>4</sup> Während des gesamten Verfahrens müssen die Parteien Zugang zum vollständigen Dossier haben; die im Gesetz vorgesehenen Ausnahmen bleiben vorbehalten.
 
-<sup>4<sup>bis</sup></sup> Um die Validierung vorzunehmen, ist eine verifizierte digitale Identität erforderlich.
+<sup>5</sup> Abgesehen von Ausnahmen gemäss vorliegendem Gesetz oder dessen Verordnung gilt die Validierung der auf der Plattform eingereichten Dokumente als eigenhändige Unterschrift. Die Plattform stellt für jede Kommunikation und jedes Dokument sicher, dass der Inhalt nicht verändert wird (Authentizität) und dass die Erfassung der digitalen Daten einem bestimmten Zeitpunkt zugeordnet werden kann (Zeitstempel).
 
-<sup>5</sup> Der Staatsrat erlässt ein Reglement für Zugang und Benutzung der kantonalen digitalen Plattform eConstruction (nachstehend: ReC).
+<sup>6</sup> Um die Validierung vorzunehmen, ist eine verifizierte digitale Identität erforderlich.
 
-<sup>6</sup> Die von den Verwaltungsbehörden zur Validierung von Dokumenten auf der Plattform verwendeten Systeme müssen den im ReC hinsichtlich Technik und Sicherheit festgesetzten Anforderungen entsprechen.
+<sup>7</sup> Der Staatsrat erlässt ein Reglement für den Zugang zur und die Benutzung der kantonalen digitalen Plattform eConstruction (nachstehend: ReC).
 
-<sup>7</sup> Die Datenschutzbestimmungen bleiben ausdrücklich vorbehalten.
+<sup>8</sup> Die von den Verwaltungsbehörden zur Validierung von Dokumenten auf der Plattform verwendeten Systeme müssen den im ReC hinsichtlich Technik und Sicherheit festgesetzten Anforderungen entsprechen.
 
-#### Art. 2b
+<sup>9</sup> Die Datenschutzbestimmungen bleiben ausdrücklich vorbehalten.
+
+#### Art. 9
 
 **Einleitung und Ablauf des Verfahrens**
 
 <sup>1</sup> Wird die Benutzung der Plattform von der zuständigen Behörde angeboten, hat der Beteiligte für jedes einzelne baurechtliche Verfahren die Wahl, ob es im digitalen Format oder im Papierformat eingeleitet und geführt werden soll. Hat er seine Wahl getroffen, erfolgen das Verfahren und alle damit verbundenen Mitteilungen, bis hin zur Archivierung des Dossiers, im gewählten Format. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
 
-<sup>2</sup> Der Beteiligte, der das digitale Format gewählt hat, muss jederzeit damit rechnen, dass ihm auf der Plattform eine Mitteilung zugestellt wird. Eine Mitteilung kann einen Link enthalten, den der Beteiligte abrufen muss. Die zuständige Behörde ist in keiner Weise für die Folgen verantwortlich, die sich aus einer unregelmässigen oder verspäteten Konsultation der Plattform und der dort kommunizierten Mitteilungen und Links ergeben. Dasselbe gilt, wenn die Plattform und die dort kommunizierten Mitteilungen und Links nicht konsultiert werden.
+<sup>2</sup> Der Beteiligte, der das digitale Format gewählt hat, muss jederzeit damit rechnen, dass ihm auf der Plattform eine Mitteilung zugestellt wird. Eine Mitteilung kann einen Link enthalten, den der Beteiligte abrufen muss. Die zuständige Behörde ist in keiner Weise für die Folgen einer unregelmässigen oder verspäteten Konsultation der Plattform und der dort kommunizierten Mitteilungen und Links verantwortlich. Dasselbe gilt, wenn die Plattform und die dort kommunizierten Mitteilungen und Links nicht konsultiert werden.
 
-<sup>3</sup> Mit der Wahl des digitalen Formats verpflichtet sich der Beteiligte, die Plattform auf eine Weise zu konsultieren, dass er einerseits die darauf von der zuständigen Behörde eingegebenen Mitteilungen zur Kenntnis nehmen und andererseits allfällige Links in diesen Mitteilungen rechtzeitig abrufen kann.
+<sup>3</sup> Mit der Wahl des digitalen Formats verpflichtet sich der Beteiligte, die Plattform so zu konsultieren, dass er einerseits die darauf von der zuständigen Behörde eingegebenen Mitteilungen zur Kenntnis nehmen und andererseits allfällige Links in diesen Mitteilungen rechtzeitig abrufen kann.
 
 <sup>4</sup> Im Papierformat behandelte Dossiers werden von der zuständigen Behörde digitalisiert und archiviert.
 
-#### Art. 2c
+#### Art. 10
 
 **Kommunikation, Fristenberechnung, Zeitstempel und Fehlen der qualifizierten elektronischen Signatur auf der Plattform**
 
 <sup>1</sup> Jede digitale Kommunikation einer Behörde erfolgt durch die Hinterlegung einer Nachricht an den Beteiligten auf der Plattform. Der Abruf dieser Nachricht durch den Beteiligten gilt als Zustellzeitpunkt der Nachricht und der darin enthaltenen Links. Wird die Nachricht nicht abgerufen, so gelten sie und die darin enthaltenen Links spätestens 7 Tage nach ihrer Hinterlegung auf der Plattform als zugestellt und abgerufen.
 
-<sup>2</sup> Jede digitale Kommunikation einer Behörde sowie jeder Abruf der Nachricht auf der Plattform erhalten einen Zeitstempel, mit dem sich der genaue Zeitpunkt der Hinterlegung einer Nachricht an den Beteiligten sowie der Zeitpunkt des Abrufs einer Nachricht auf der Plattform bestimmen lassen.
+<sup>2</sup> Jede digitale Kommunikation einer Behörde sowie jeder Abruf einer Nachricht erhalten einen Zeitstempel, mit dem sich der genaue Zeitpunkt der Hinterlegung einer Nachricht an den Beteiligten sowie der Zeitpunkt des Abrufs einer Nachricht auf der Plattform bestimmen lassen.
 
 <sup>3</sup> Jede digitale Kommunikation eines Beteiligten erhält einen Zeitstempel, mit dem sich der genaue Zeitpunkt der Kommunikation bestimmen lässt.
 
@@ -116,7 +192,7 @@ verordnet:[^ingress-1]
 
 <sup>5</sup> Fehlt die erforderliche qualifizierte elektronische Signatur, so setzt die Behörde dem Beteiligten eine Frist, um diesen Mangel zu beheben. Wird die fehlende Signatur fristgerecht nachgereicht, gilt der Mangel als behoben. Andernfalls sind das Dokument, für das die qualifizierte elektronische Signatur erforderlich ist, sowie dessen allfällige Beilagen unzulässig.
 
-#### Art. 2d
+#### Art. 11
 
 **Eröffnung der Entscheide**
 
@@ -130,89 +206,89 @@ verordnet:[^ingress-1]
 
 ### 2.1 Allgemeines
 
-#### Art. 3
+#### Art. 12
 
 **Kommunale Reglementierung**
 
-<sup>1</sup> Die kommunalen Bau- und Zonenreglemente (nachstehend: BZR) legen sämtliche erforderlichen Vollzugsbestimmungen fest, insbesondere betreffend die Dimensionierung der Bauten und Anlagen (namentlich Abstände, Höhen und Geschosse), die Bauziffern (Typen und Werte) und die Bauweise, dies unter Einhaltung der Bestimmungen des übergeordneten Rechts, insbesondere, was die Definition materieller Vorschriften betrifft.
+<sup>1</sup> Die Gemeinden sind verpflichtet, in ihrem kommunalen Bau- und Zonenreglement (nachstehend: BZR) alle Ausführungsbestimmungen zu erlassen, die für eine kohärente Ortsplanung erforderlich sind. Die Art und der Inhalt dieser Bestimmungen werden entsprechend den Besonderheiten jeder Zone festgelegt und müssen in jedem Fall dem übergeordneten Recht entsprechen, insbesondere was die Begriffe und Vermessungsmethoden betrifft.
 
-<sup>2</sup> Die Gemeinden können abweichende Vorschriften nur erlassen, wenn die Baugesetzgebung dies ausdrücklich vorsieht.
+<sup>2</sup> Die Gemeinden können nur abweichende Vorschriften erlassen, wenn die Baugesetzgebung dies ausdrücklich vorsieht.
 
-<sup>3</sup> Die Gemeinden können unter Einhaltung der ausschliesslich durch das kantonale Recht geregelten Definitionen strengere materielle Baupolizeivorschriften erlassen.
+<sup>3</sup> Die Gemeinden können unter Einhaltung der ausschliesslich durch das übergeordnete Recht geregelten Definitionen strengere materielle Baupolizeivorschriften erlassen.
 
-#### Art. 4
+#### Art. 13
 
-**Anwendung anderer Gesetzgebungen, Regelungen und Normen**
+**Anwendung anderer Gesetzgebungen, Reglementierungen und Normen**
 
-<sup>1</sup> Die Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe (nachstehend: IVHB) gelangt zur Anwendung, wenn das kantonale oder kommunale Recht Vorschriften unter Verwendung der Definitionen der IVHB erlässt. Die kantonale Gesetzgebung und die Gemeindereglemente können Begriffe, die nicht in der IVHB enthalten sind, einführen.
+<sup>1</sup> Die Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe (nachstehend: IVHB) gelangt zur Anwendung, wenn das kantonale oder kommunale Recht Vorschriften unter Verwendung der Definitionen der IVHB erlässt. Die kantonale Gesetzgebung und die kommunalen Reglementierungen können Begriffe einführen, sofern diese nicht in der IVHB oder in der anwendbaren kantonalen Baugesetzgebung enthalten sind.
 
 <sup>2</sup> Vorbehalten bleiben öffentlich-rechtliche Bestimmungen, die sich aus Spezialgesetzgebungen ergeben.
 
-<sup>3</sup> Wenn es im kantonalen Gesetz und im kommunalen Reglement keine Vorschrift gibt, kann sich die zuständige Behörde an den Regeln orientieren, welche Fachorganisationen in technischen Normen erlassen haben.
+<sup>3</sup> Wenn es in der kantonalen Gesetzgebung und in der kommunalen Reglementierung keine Vorschriften gibt, kann sich die zuständige Behörde an den Regeln orientieren, welche Fachorganisationen in technischen Normen erlassen haben.
 
-<sup>4</sup> Vorbehalten bleiben privatrechtliche Bestimmungen, insbesondere das kantonale Einführungsgesetz zum Schweizerischen Zivilgesetzbuch.
+<sup>4</sup> Vorbehalten bleiben privatrechtliche Bestimmungen, insbesondere das kantonale Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (EGZGB).
 
-#### Art. 5
+#### Art. 14
 
 **Besitzstandsgarantie**
 
-<sup>1</sup> Bestehende, nach altem Recht rechtmässig erstellte Bauten und Anlagen, die den geltenden Plänen oder Vorschriften widersprechen, dürfen unterhalten, umgebaut, erweitert, wieder aufgebaut oder umgenutzt werden.
+<sup>1</sup> Bestehende, im Einklang mit altem Recht erstellte Bauten und Anlagen, die den geltenden Plänen oder Vorschriften widersprechen, dürfen unterhalten, umgebaut, erweitert, wieder aufgebaut oder umgenutzt werden.
 
-<sup>2</sup> Im Rahmen der Interessenabwägung ist dem Heimat- und Denkmalschutz und den öffentlichen oder privaten Interessen angemessen Rechnung zu tragen.
+<sup>2</sup> Im Rahmen der Interessenabwägung ist dem Schutz des baulichen Erbes und den öffentlichen oder privaten Interessen angemessen Rechnung zu tragen.
 
 <sup>3</sup> Die Besitzstandsgarantie ausserhalb der Bauzone wird durch das Bundesrecht geregelt.
 
-<sup>4</sup> Die Gemeinden können in ihren BZR vorsehen, dass das Vergrössern, der Wiederaufbau und die Zweckänderung nur auf der Grundlage eines Sondernutzungsplans möglich sind.
+<sup>4</sup> Die Gemeinden können in ihren BZR vorsehen, dass Vergrösserungen, Wiederaufbau und Zweckänderung nur auf der Grundlage eines Sondernutzungsplans möglich sind.
 
-<sup>5</sup> Für Bauvorhaben in der Nähe einer Kantonsstrasse bleibt die Bewilligung nach der Strassengesetzgebung vorbehalten.
+<sup>5</sup> Vorbehalten bleiben die Bewilligung nach der Strassengesetzgebung für Bauvorhaben in der Nähe einer Kantonsstrasse sowie weitere Bestimmungen aus Spezialgesetzen.
 
-#### Art. 6
+#### Art. 15
 
 **Ausnahmen**
 
-<sup>1</sup> Ausnahmen von den Nutzungsvorschriften der Bauzonen sowie von den übrigen Bauvorschriften können von der zuständigen Behörde bewilligt werden, wenn ausserordentliche Verhältnisse oder wichtige Gründe vorliegen und weder öffentliche noch überwiegende private Interessen eines Nachbarn beeinträchtigt werden.
+<sup>1</sup> Ausnahmen von den Nutzungsvorschriften der Bauzone sowie von den übrigen Bauvorschriften können von der zuständigen Behörde bewilligt werden, wenn ausserordentliche Verhältnisse oder wichtige Gründe vorliegen und weder öffentliche noch überwiegende private Interessen eines Nachbarn beeinträchtigt werden.
 
 <sup>2</sup> Ausnahmen für jederzeit entfernbare Klein- oder Fahrnisbauten können auf Zusehen hin bewilligt werden, wenn der Gesuchsteller ein hinreichendes Interesse geltend machen kann und wenn keine öffentlichen oder überwiegenden privaten Interessen eines Nachbarn beeinträchtigt werden.
 
-<sup>3</sup> Bei Bauvorhaben mit traditionellem oder experimentellem Charakter (sowohl in architektonischer als auch in bautechnischer Hinsicht) können die zuständigen Behörden unter Beachtung der Rechte Dritter sowie des Landschafts- und Ortsbildschutzes Ausnahmen von den im vorliegenden Gesetz, in seinen Ausführungsbestimmungen und in den BZR festgelegten Vorschriften bewilligen.
+<sup>3</sup> Bei Bauvorhaben mit traditionellem oder experimentellem Charakter, sowohl in architektonischer als auch in bautechnischer Hinsicht, können die zuständigen Behörden unter Beachtung der Rechte Dritter sowie des Landschafts- und Ortsbildschutzes Ausnahmen von den im vorliegenden Gesetz, in seinen Ausführungsbestimmungen und in den BZR festgelegten Vorschriften bewilligen.
 
-<sup>4</sup> Ausnahmebewilligungen können für eine bestimmte Dauer oder mit dem Vorbehalt jederzeitigen Widerrufs gewährt werden. Nach Ablauf der Befristung oder nach deren Widerruf ist die bewilligte Baute oder Anlage vom jeweiligen Eigentümer innert angemessener Frist zu entfernen. Er hat keinen Anspruch auf Entschädigung.
+<sup>4</sup> Ausnahmebewilligungen können für eine bestimmte Dauer oder mit dem Vorbehalt jederzeitigen Widerrufs gewährt werden. Nach Ablauf der Befristung oder nach dem Widerruf der Ausnahmebewilligung ist die bewilligte Baute oder Anlage vom jeweiligen Eigentümer innert angemessener Frist zu entfernen; er hat keinen Anspruch auf Entschädigung.
 
 <sup>5</sup> Ausnahmebewilligungen können an Bedingungen geknüpft und mit Auflagen verbunden werden. Zulässig sind insbesondere Bedingungen, wonach:
 
 - a) im Enteignungsfall für wertvermehrende Aufwendungen im Rahmen von Arbeiten, die aufgrund einer Ausnahmebewilligung ausgeführt werden, keine Entschädigung geleistet wird;
-- b) Bauten und Anlagen, die nur im Hinblick auf einen bestimmten Zweck bewilligt werden, nicht umgenutzt, abparzelliert oder in Stockwerkeigentum aufgeteilt werden dürfen;
+- b) Bauten und Anlagen, die im Hinblick auf einen bestimmten Zweck bewilligt werden, nicht umgenutzt, abparzelliert oder in Stockwerkeigentum aufgeteilt werden dürfen;
 - c) eine Sicherheit für die Einhaltung von Pflichten, die mit der Baubewilligung verbunden sind, zu leisten ist.
 
 <sup>6</sup> Die Befristung, die Wegbedingung der Entschädigung (Beseitigungs- und Mehrwertrevers), die Zweckentfremdungs-, Abparzellierungs- und Aufteilungsverbote sowie die Pflicht zur Sicherheitsleistung sind vor Baubeginn im Grundbuch anzumerken.
 
-<sup>7</sup> Die Ausnahmebewilligungen ausserhalb der Bauzone werden durch das Bundesrecht geregelt. Die Unterschutzstellung von Bauten und Anlagen ausserhalb der Bauzone ist von Fall zu Fall von der KBK zu beschliessen.
+<sup>7</sup> Ausnahmebewilligungen ausserhalb der Bauzone werden durch das Bundesrecht geregelt. Die raumplanungsrechtliche Unterschutzstellung von Bauten und Anlagen ausserhalb der Bauzone kann von Fall zu Fall von der KBK beschlossen werden.
 
 ### 2.2 Vorschriften über die Bodennutzung
 
 ### 2.2.1 Abstände
 
-#### Art. 7
+#### Art. 16
 
 **Grenzabstand und Gebäudeabstand**
 
 <sup>1</sup> Der Grenzabstand ist die Entfernung zwischen der projizierten Fassadenlinie und der Parzellengrenze. Der Gebäudeabstand ist die Entfernung zwischen den projizierten Fassadenlinien zweier Gebäude.
 
-<sup>2</sup> Vorspringende Gebäudeteile werden bei der Abstandberechnung nicht berücksichtigt. Vorbehalten bleiben die spezifischen Vorschriften der Strassengesetzgebung betreffend die vorspringenden Gebäudeteile.
+<sup>2</sup> Vorspringende Gebäudeteile werden bei der Abstandsberechnung nicht berücksichtigt. Vorbehalten bleiben die spezifischen Vorschriften über Vorsprünge in der Strassengesetzgebung und die Brandschutzvorschriften.
 
-<sup>3</sup> Unterirdische Bauten unterstehen nicht den Regeln über die Bauabstände und können bis an die Grundstückgrenzen gebaut werden.
+<sup>3</sup> Unterirdische Bauten unterstehen nicht den Regeln über die Abstände und können bis an die Grundstückgrenzen gebaut werden. Für bestimmte Bauten können die Gemeinden in ihrem BZR Ausnahmen vorsehen.
 
-<sup>4</sup> Die Abstände gegenüber Strassen werden durch die Strassengesetzgebung und die Gemeindereglemente bestimmt.
+<sup>4</sup> Abstände gegenüber Strassen werden durch die Strassengesetzgebung und die kommunale Reglementierung bestimmt.
 
-<sup>5</sup> Setzen die Gemeinden einen Mindestabstand in Abhängigkeit zur Fassadenhöhe fest, so gilt für den Begriff der Fassadenhöhe die Definition gemäss IVHB. Die Gemeinden können Bestimmungen über den Einbezug von Lukarnen und anderer analoger Bauten zur Berechnung der Fassadenhöhe erlassen.
+<sup>5</sup> Setzen die Gemeinden einen Mindestabstand in Abhängigkeit von der Fassadenhöhe fest, so gilt für den Begriff der Fassadenhöhe die Definition gemäss IVHB. Die Gemeinden können Bestimmungen über den Einbezug von Lukarnen und anderer analoger Bauten zur Berechnung der Fassadenhöhe erlassen.
 
-#### Art. 8
+#### Art. 17
 
 **Festlegung der Abstände**
 
 <sup>1</sup> Die Gemeinden legen grundsätzlich für jeden Zonentyp ihres Nutzungsplans einen Grenz- und Gebäudeabstand fest. Ebenso legen sie für An- und Kleinbauten grundsätzlich einen verminderten Grenzabstand fest.
 
-<sup>2</sup> Die Gemeinden können darauf verzichten, für jeden Zonentyp ihres Zonennutzungsplans eines Grenz- und Gebäudeabstand festzulegen, sofern durch andere Vorschriften für eine kohärente Ortsplanung gesorgt ist.
+<sup>2</sup> Die Gemeinden können darauf verzichten, für jeden Zonentyp ihres Zonennutzungsplans einen Grenz- und Gebäudeabstand festzulegen, sofern durch andere Vorschriften für eine kohärente Ortsplanung gesorgt ist.
 
 <sup>3</sup> Die Gemeinden können unter speziellen Bedingungen durch einen Sondernutzungsplan Abweichungen von ihren im BZR festgelegten Gebäudeabständen zulassen.
 
@@ -220,127 +296,133 @@ verordnet:[^ingress-1]
 
 <sup>5</sup> Durch Errichtung einer Dienstbarkeit der Grundeigentümer können die Grenzabstände unter Wahrung des Gebäudeabstands geändert werden. Diese Dienstbarkeit ist ebenfalls zugunsten der Gemeinde im Grundbuch einzutragen.
 
-#### Art. 9
+#### Art. 18
 
 **Baulinien**
 
 <sup>1</sup> Baulinien begrenzen die Bebauung und dienen insbesondere der Sicherung bestehender und geplanter Anlagen und Flächen sowie der baulichen Gestaltung.
 
-<sup>2</sup> Baulinien werden insbesondere entlang von Verkehrsanlagen und Leitungen sowie Natur- und Kulturobjekten festgelegt. Die Verfahren und die Festsetzung der Baulinien werden durch die Spezialgesetzgebung und durch die kommunalen Reglemente festgelegt.
+<sup>2</sup> Baulinien werden insbesondere entlang von Verkehrsanlagen, Leitungen sowie Natur- und Kulturobjekten und Landwirtschaftszonen festgelegt. Die Verfahren und die Festsetzung der Baulinien werden durch die Spezialgesetzgebung und durch die kommunalen Reglementierungen festgelegt.
 
 <sup>3</sup> Gestaltungsbaulinien bestimmen die Lage und die Umrisse der Bauten oder legen den Verlauf der Fassadenflucht fest. Rückwärtige Baulinien und Innenbaulinien legen die zulässige horizontale Bautiefe und die Grösse der Innenhöfe fest. Die Gestaltungsbaulinien können im Rahmen eines Planungsverfahrens festgelegt werden.
 
-<sup>4</sup> Baulinien gehen den allgemeinen Abstandsvorschriften vor.
+<sup>4</sup> Baulinien gehen den allgemeinen Abstandsvorschriften vor, auch in Fällen, in denen der allgemeine Abstand einschränkender ist.
 
-#### Art. 10
+#### Art. 19
 
-**Vorbehalte zugunsten Spezialgesetzgebungen**
+**Vorbehalte von Spezialgesetzgebungen**
 
-<sup>1</sup> Vorbehalten bleiben in anderen Gesetzgebungen festgesetzte einzuhaltende Abstände oder Freiräume, insbesondere aus dem Bereich des Brandschutzes, des Forst- oder Gewässerschutzrechts.
+<sup>1</sup> Vorbehalten bleiben in anderen Gesetzgebungen festgesetzte einzuhaltende Abstände und Freiräume, insbesondere aus dem Bereich des Brandschutzes, des Forst- oder Gewässerschutzrechts. Sie haben Vorrang vor weniger einschränkenden Baulinien.
 
-### 2.2.2 Höhenbegriffe - Höhenmasse
+### 2.2.2 Höhen
 
-#### Art. 11
+#### Art. 20
 
-**Gesamthöhe**
+**Gesamthöhe und massgebendes Terrain**
 
 <sup>1</sup> Die Gesamthöhe ist der grösste Höhenunterschied zwischen dem höchsten Punkt der Dachkonstruktion und dem lotrecht darunter auf dem massgebenden Terrain liegenden Punkt.
 
-<sup>2</sup> Als massgebendes Terrain gilt der natürlich gewachsene Boden. Kann dieser infolge früherer Abgrabungen und Aufschüttungen nicht mehr festgestellt werden, ist vom natürlichen Geländeverlauf der Umgebung auszugehen. Aus raumplanerischen oder erschliessungstechnischen Gründen kann das massgebende Terrain in einem Planungsverfahren abweichend festgelegt werden.
+<sup>2</sup> Als massgebendes Terrain gilt der natürlich gewachsene Boden. Kann dieser infolge früherer Abgrabungen und Aufschüttungen nicht mehr festgestellt werden, ist vom natürlichen Geländeverlauf der Umgebung auszugehen. Aus raumplanerischen oder erschliessungstechnischen Gründen kann das massgebende Terrain in einem Planungs- oder Baubewilligungsverfahren abweichend festgelegt werden.
 
-<sup>3</sup> Bei Gebäuden, die in der Höhe oder in der Lage (IVHB: Situation) gestaffelt sind, wird die Gesamthöhe für jeden Gebäudeteil separat ermittelt.
+<sup>3</sup> Die Gemeinden können für Gebäude eine Seitenhöhe festlegen. Die Definition der Seitenhöhe ist identisch mit dem Begriff der Fassadenhöhe gemäss IVHB, wonach die Fassadenhöhe den grössten Höhenunterschied zwischen der Schnittlinie der Fassadenflucht und der Oberkante der Dachkonstruktion darstellt.
 
-<sup>4</sup> Dachaufbauten werden bei der Berechnung der Gesamthöhe nicht mitgerechnet.
+<sup>4</sup> Bei Gebäuden, die in der Höhe oder in der Situation gestaffelt sind, wird die Gesamthöhe für jeden Gebäudeteil separat ermittelt.
 
-#### Art. 12
+<sup>5</sup> Dachaufbauten werden bei der Berechnung der Gesamthöhe nicht mitgerechnet.
+
+#### Art. 21
 
 **Aushubhöhe**
 
-<sup>1</sup> Die Aushubhöhe entspricht der Differenz der Höhe zwischen dem natürlich gewachsenen Boden und dem tiefsten Punkt des gestalteten Bodens, in der Verlängerung der Gesamthöhe. Die Bauverordnung (nachstehend: BauV) kann für spezifische Fälle vorsehen, dass die Aushubhöhe nicht in der Verlängerung der Gesamthöhe gemessen wird.
+<sup>1</sup> Die Aushubhöhe entspricht der Differenz der Höhe zwischen dem natürlich gewachsenen Boden und dem tiefsten Punkt des gestalteten Bodens, in der Verlängerung der Gesamthöhe. Die BauV kann für spezifische Fälle vorsehen, dass die Aushubhöhe nicht in der Verlängerung der Gesamthöhe gemessen wird.
 
-#### Art. 13
+#### Art. 22
 
 **Gesamthöhe mit Aushub**
 
-<sup>1</sup> Die Gesamthöhe mit Aushub entspricht der Summe der Gesamthöhe und der Aushubhöhe.
+<sup>1</sup> Die Gesamthöhe mit Aushub entspricht der Summe der Gesamthöhe des Gebäudes und der Aushubhöhe.
 
-#### Art. 14
+#### Art. 23
 
 **Kumulierte Höhe mit Aushub**
 
 <sup>1</sup> Die kumulierte Höhe mit Aushub entspricht der Differenz zwischen dem höchsten Punkt der Dachkonstruktion des höchsten gestaffelten Gebäudeteils und dem tiefsten Punkt des gestalteten Bodens.
 
-#### Art. 15
+#### Art. 24
 
-**Festlegung der Höhe**
+**Festlegung der Höhen**
 
-<sup>1</sup> Die Gemeinden legen für jeden Zonentyp in der Bauzone eine Gesamthöhe und eine Aushubhöhe fest. Ausserdem können sie eine Gesamthöhe mit Aushub und eine kumulierte Höhe mit Aushub festlegen.
+<sup>1</sup> Die Gemeinden legen für jeden Bauzonentyp einen Höchstwert für die Gesamthöhe und die Aushubhöhe fest, der eingehalten werden muss. Alternativ können sie eine maximale Gesamthöhe mit Aushub als kumulierten Wert festlegen.
+
+<sup>2</sup> In bestimmten, durch die BauV festgelegten Fällen werden Abgrabungen für Garageneinfahrten und Hauszugänge nicht zur Gesamthöhe mit Aushubhöhe gezählt.
+
+<sup>3</sup> Die Gemeinden können in Freihaltezonen und in Zonen für öffentliche Bauten und Anlagen auf die Festlegung von Höhen verzichten.
 
 ### 2.2.3 Vollgeschosse
 
-#### Art. 16
+#### Art. 25
 
 **Definition und Festlegung**
 
 <sup>1</sup> Als Vollgeschosse gelten alle Geschosse von Gebäuden, ausser Unter-, Dach- und Attikageschosse. Die Vollgeschosszahl wird für jeden Gebäudeteil separat ermittelt.
 
-<sup>2</sup> Die Gemeinden können für jeden Zonentyp eine minimale oder maximale Vollgeschosszahl festlegen.
+<sup>2</sup> Die Gemeinden können für jeden Zonentyp eine minimale oder eine maximale Vollgeschosszahl festlegen.
 
 ### 2.2.4 Nutzungsziffern
 
-#### Art. 17
+#### Art. 26
 
 **Anrechenbare Grundstückfläche**
 
 <sup>1</sup> Die anrechenbare Grundstückfläche (aGSF) bildet die Grundlage zur Berechnung der Nutzungsziffern und entspricht den in der entsprechenden Bauzone liegenden Grundstücksflächen oder Grundstücksteilen.
 
-<sup>2</sup> Die Fläche der Zufahrten und Privatstrassen auf dem anrechenbaren Grundstück wird berücksichtigt.
+<sup>2</sup> Die Fläche der Zufahrten auf dem anrechenbaren Grundstück wird berücksichtigt.
 
 <sup>3</sup> Die Fläche der Hauszufahrten wird angerechnet. Nicht angerechnet werden die Flächen der Grund-, Grob- und Feinerschliessung.
 
-#### Art. 18
+#### Art. 27
 
 **Nutzungsziffern**
 
-<sup>1</sup> Die Geschossflächenziffer (GFZ) ist das Verhältnis der Summe aller Geschossflächen (GF) zur anrechenbaren Grundstücksfläche (aGSF). Die Summe aller Geschossflächen besteht aus den Haupt- und Nebennutzflächen, den Verkehrs-, Konstruktions- und Funktionsflächen. Nicht angerechnet werden Flächen, deren lichte Höhe unter 1.80 Meter liegt.
+<sup>1</sup> Die Geschossflächenziffer (GFZ) ist das Verhältnis der Summe aller Geschossflächen (GF) zur anrechenbaren Grundstücksfläche (aGSF). Die Summe aller GF besteht aus den Haupt- und Nebennutzflächen, den Verkehrs-, Konstruktions- und Funktionsflächen. Nicht angerechnet werden Flächen, deren lichte Höhe unter 1,80 Meter liegt.
 
-<sup>2</sup> Die Überbauungsziffer (ÜZ) ist das Verhältnis der anrechenbaren Gebäudefläche (aGbF) zur anrechenbaren Grundstücksfläche (aGSF). Als anrechenbare Gebäudefläche gilt die Fläche innerhalb der projizierten Fassadenlinie.
+<sup>2</sup> Die Überbauungsziffer (ÜZ) ist das Verhältnis der anrechenbaren Gebäudefläche (aGbF) zur anrechenbaren Grundstücksfläche (aGSF). Als aGbF gilt die Fläche innerhalb der projizierten Fassadenlinie.
 
 <sup>3</sup> Die Baumassenziffer (BMZ) ist das Verhältnis des Bauvolumens über dem massgebenden Terrain (BVm) zur anrechenbaren Grundstücksfläche (aGSF). Als Bauvolumen über dem massgebenden Terrain gilt das Volumen des Baukörpers in seinen Aussenmassen.
 
-<sup>4</sup> Die Grünflächenziffer (GZ) ist das Verhältnis der anrechenbaren Grünfläche (aGrF) zur anrechenbaren Grundstücksfläche (aGSF). Als anrechenbare Grünfläche gelten natürliche und/oder bepflanzte Bodenflächen eines Grundstücks, die nicht versiegelt sind und die nicht als Abstellflächen dienen.
+<sup>4</sup> Die Grünflächenziffer (GZ) ist das Verhältnis der anrechenbaren Grünfläche (aGrF) zur anrechenbaren Grundstücksfläche (aGSF). Als aGrF gelten natürliche und/oder bepflanzte Bodenflächen eines Grundstücks, die nicht versiegelt sind und die nicht als Abstellflächen dienen.
 
-#### Art. 19
+#### Art. 28
 
 **Festlegung**
 
-<sup>1</sup> Die Gemeinden können eine oder mehrere Nutzungsziffern einfügen und für jede ihrer Bauzonen die Art und den Höchstwert der Nutzungsziffern festlegen.
+<sup>1</sup> Die Gemeinden können eine oder mehrere Nutzungsziffern einführen und für jede ihrer Bauzonen die Art und den Höchstwert der Nutzungsziffer festlegen.
 
-<sup>2</sup> Falls sie ganz oder teilweise auf die Festlegung einer Nutzungsziffer verzichten, müssen sie andere Vorschriften erlassen, um eine kohärente Ortsplanung sicherzustellen.
+<sup>2</sup> Mit dem Ziel einer verdichteten Bauweise können die Gemeinden für Neubauten in jeder ihrer Bauzonen eine minimale Nutzungsziffer festsetzen. Vorbehalten bleiben die Sonderbestimmungen der Raumplanung, sofern diese andere Begrenzungen für das Ausmass der Bodennutzung vorsehen.
 
-<sup>3</sup> Mit dem Ziel einer verdichteten Bauweise können die Gemeinden für Neubauten in jeder ihrer Bauzonen eine minimale Nutzungsziffer festsetzen. Vorbehalten bleiben die Sonderbestimmungen der Raumplanung, sofern diese andere Begrenzungen für das Ausmass der Bodennutzung vorsehen.
+#### Art. 29
 
-#### Art. 20
+**Übertragung von Nutzungsziffern**
 
-**Nutzungsübertragung**
+<sup>1</sup> Die beteiligten Grundeigentümer können mittels Dienstbarkeitsvertrag vereinbaren, dass die nicht beanspruchte Ausnützung auf eine andere Bauparzelle übertragen wird.
 
-<sup>1</sup> Die beteiligten Grundeigentümer können mittels Dienstbarkeitsvertrag vereinbaren, dass die noch nicht beanspruchte Ausnützung auf eine andere Bauparzelle übertragen wird.
-
-<sup>2</sup> Die Übertragung ist nur auf in derselben Bauzone gelegene Grundstücke zulässig und sofern die fragliche Zone dadurch nicht zweckentfremdet oder zonenwidrig genutzt wird. Die Übertragung über eine hauptsächlich der Feinerschliessung dienenden Strasse hinweg ist möglich.
+<sup>2</sup> Die Übertragung von Nutzungsziffern zwischen Grundstücken ist zulässig, sofern sie in einer Bauzone mit derselben Nutzung liegen. Die Übertragung darf auch erfolgen, wenn die Grundstücke durch Zonen eines anderen Typs getrennt sind. Die Übertragung darf nicht zu einer Zweckentfremdung oder zonenwidrigen Nutzung der fraglichen Zone führen.
 
 <sup>3</sup> Die Dienstbarkeit ist vor Baubeginn ebenfalls zugunsten der Gemeinde im Grundbuch einzutragen.
 
-#### Art. 21
+#### Art. 30
 
 **Zuschläge**
 
 <sup>1</sup> In der BauV wird festgelegt, in welchen Fällen ein Zuschlag auf die Nutzungsziffern gewährt werden kann, insbesondere bei Sondernutzungsplänen, Gebäuden mit einem besonders tiefen Energieverbrauch, kommerziell genutzten Erdgeschossen oder Gebäuden der Hotellerie.
 
-<sup>2</sup> Weder die kommunalen Reglemente noch andere kantonale Spezialgesetzgebungen dürfen Regeln betreffend Nutzungszuschläge oder das Nichtberücksichtigen von Flächen oder Volumen festlegen.
+<sup>2</sup> Wenn ein Bauvorhaben aufgrund der Zweckbestimmung der gesamten oder eines Teils der Gebäudeflächen einen Zuschlag auf die Nutzungsziffer erhält, muss der Baubewilligungsentscheid eine Auflage zur Beibehaltung der Zweckbestimmung enthalten, die im Grundbuch angemerkt wird.
+
+<sup>3</sup> Weder die kommunale Reglementierung noch andere kantonale Spezialgesetzgebungen dürfen Regeln betreffend Nutzungszuschläge oder die Nichtberücksichtigung von Flächen oder Volumen festlegen. Die BauV kann Fälle vorsehen, in denen die Gemeinden in der kommunalen Reglementierung Bestimmungen über Nutzungszuschläge erlassen können.
 
 ### 2.2.5 Bauweise
 
-#### Art. 22
+#### Art. 31
 
 **Geschlossene Bauweise**
 
@@ -348,13 +430,13 @@ verordnet:[^ingress-1]
 
 - a) wenn das BZR es vorsieht;
 - b) wenn das Nachbargebäude an der Grundstücksgrenze steht und die geschlossene Bauweise hinsichtlich Architektur und Hygiene zulässig ist;
-- c) durch Errichtung eines gegenseitigen Grenz- oder Anbaurechts, das ebenfalls zugunsten der Gemeinde im Grundbuch eingetragen ist.
+- c) durch Begründung eines gegenseitigen Grenzbaurechts, das ebenfalls zugunsten der Gemeinde im Grundbuch eingetragen ist.
 
 <sup>2</sup> Verzichtet einer der Eigentümer nach Begründung des Anbaurechts auf die geschlossene Bauweise, hat er den doppelten gesetzlichen Grenzabstand einzuhalten.
 
 ### 2.2.6 Kontrolle der Einhaltung der Bauvorschriften und Register
 
-#### Art. 23
+#### Art. 32
 
 **Kontrolle**
 
@@ -362,138 +444,150 @@ verordnet:[^ingress-1]
 
 <sup>2</sup> Die Gemeinden, bei Überprüfung ihrer Register, sowie der patentierte, im eidgenössischen Register eingetragene Geometer, der ein Mutationsprotokoll für eine Grenzänderung oder Parzelleneinteilung vornimmt, vergewissern sich, dass die materiellen Vorschriften eingehalten werden.
 
-#### Art. 24
+#### Art. 33
 
-**Register und Verzeichnis**
+**Verzeichnis**
 
-<sup>1</sup> Die Gemeinden führen ein Register mit einem Verzeichnis der beanspruchten Landflächen in der Bauzone. Dieses Register ist bei Bedarf durch einen Situationsplan zu ergänzen. Es ist öffentlich und jährlich der für die Raumplanung zuständigen kantonalen Dienststelle vorzulegen.
-
-<sup>2</sup> Sie führen auch ein Verzeichnis, das alle durch den Gemeinderat und die KBK erteilten Baubewilligungen enthält (unter Angabe der topographischen Koordinaten, der Parzellen- und der Plannummer).
+<sup>1</sup> Die Gemeinden führen ein Verzeichnis, das alle durch den Gemeinderat und die KBK erteilten Baubewilligungen enthält (unter Angabe der topografischen Koordinaten, der Parzellen- und der Plannummer).
 
 ### 2.3 Vorschriften über die Einordnung, das Erscheinungsbild und die Umgebungsgestaltung
 
-#### Art. 25
+#### Art. 34
 
 **Einordnung und Erscheinungsbild**
 
 <sup>1</sup> Bauten und Anlagen müssen sich namentlich hinsichtlich Grösse, Lage, Form, Material und Farbe in die bauliche und landschaftliche Umgebung einordnen.
 
-<sup>2</sup> Bauten, Anlagen und Aussenanlagen sind so zu gestalten und zu unterhalten, dass sie sich harmonisch in die landschaftliche und bauliche Umgebung einfügen und so ein qualitativ ansprechendes Erscheinungsbild gewährleisten.
+<sup>2</sup> Bauten, Anlagen und Aussenanlagen sind so zu gestalten und zu unterhalten, dass sie sich harmonisch in die landschaftliche und bauliche Umgebung einfügen.
 
-#### Art. 26
+#### Art. 35
 
 **Material- und Farbwahl**
 
-<sup>1</sup> Materialien und Farben von Fassaden und Dächer haben der Baute ein einheitliches, harmonisches und an den Standort angepasstes Erscheinungsbild zu verleihen.
+<sup>1</sup> Materialien und Farben von Fassaden und Dächern haben der Baute ein einheitliches, harmonisches und an den Standort angepasstes Erscheinungsbild zu verleihen.
 
-<sup>2</sup> Die zuständige Entscheidbehörde kann in Form einer Bedingung im Bauentscheid verlangen, dass ihr spätestens bei Meldung des Baubeginns entsprechende Muster zur Genehmigung vorzulegen sind.
+<sup>2</sup> Die zuständige Behörde kann in Form einer Bedingung in der Baubewilligung verlangen, dass ihr spätestens bei Meldung des Baubeginns Muster zur Genehmigung vorzulegen sind.
 
-#### Art. 27
+#### Art. 36
 
 **Veränderungen des natürlich gewachsenen Bodens, Aufschüttungen, Abtragungen und Stützmauern**
 
 <sup>1</sup> Veränderungen des natürlich gewachsenen Bodens haben so gering wie möglich auszufallen. Das Bauvorhaben ist an die Geländeform anzupassen. Der gestaltete Boden muss sich harmonisch in die benachbarten Parzellen einfügen.
 
-<sup>2</sup> Die Gemeinden können für jeden Bauzonentyp vom natürlich gewachsenen Boden ausgehende maximale Höhen für Aufschüttungen und Abtragungen festlegen, damit eine genügende Einordnung der Baute in das bestehende Gelände sichergestellt werden kann.
+<sup>2</sup> Die Gemeinden können für jeden Bauzonentyp vom natürlich gewachsenen Boden ausgehende maximale Höhen für Aufschüttungen und Abtragungen festlegen, damit eine ausreichende Einordnung der Baute in das bestehende Gelände sichergestellt werden kann.
 
-<sup>3</sup> Beim Bau von Stützmauern oder vergleichbaren Bauwerken auf der Grenze oder innerhalb der Parzelle sowie beim Gefälle des gestalteten Bodens ist auf die Charakteristik des natürlich gewachsenen Bodens, insbesondere auf die Geländeform und seine Beschaffenheit, Rücksicht zu nehmen.
+<sup>3</sup> Beim Bau von Stützmauern oder vergleichbaren Bauwerken auf der Grenze oder innerhalb einer Parzelle sowie beim Gefälle des gestalteten Bodens ist auf die Charakteristik des natürlich gewachsenen Bodens, insbesondere auf die Geländeform und seine Beschaffenheit, Rücksicht zu nehmen.
 
 <sup>4</sup> Die Vorschriften der Strassengesetzgebung insbesondere betreffend Mauern und Zäune, Hecken und Bäume bleiben vorbehalten.
 
 ### 2.4 Technische Vorschriften
 
-#### Art. 28
+#### Art. 37
 
-**Sicherheit und Hygiene**
+**Baukunst, Sicherheit und Hygiene**
 
-<sup>1</sup> Bauten und Anlagen müssen den anerkannten Regeln der Baukunde entsprechen. Sie müssen den Anforderungen an den Brandschutz sowie den gesundheits- und gewerbepolizeilichen Anforderungen entsprechen.
+<sup>1</sup> Bauten und Anlagen müssen den anerkannten Regeln der Baukunst entsprechen. Sie müssen namentlich den Anforderungen an den Brand-, Naturgefahren- und Erdbebenschutz sowie den gesundheits- und gewerbepolizeilichen Vorschriften entsprechen.
 
 <sup>2</sup> Bauten und Anlagen dürfen die Sicherheit und Gesundheit von Personen nicht gefährden und das Eigentum Dritter nicht beeinträchtigen.
 
-<sup>3</sup> Bauherren und ihre Auftragnehmer sind für die Einhaltung der Vorschriften und der anerkannten Regeln der Baukunde verantwortlich.
+<sup>3</sup> Bauherren und ihre Vertreter sind für die Einhaltung der Vorschriften und der anerkannten Regeln der Baukunst verantwortlich. Auch sind sie für Schäden verantwortlich, die aus der Verletzung dieser Vorschriften und Regeln resultieren. Die kantonalen und eidgenössischen Strafbestimmungen bleiben vorbehalten.
 
-<sup>4</sup> Arbeiterunterkünfte, Verpflegungsörtlichkeiten, Baustelleneinrichtungen und alle Aktivitäten im Zusammenhang mit Bauvorgängen müssen den Anforderungen an die Hygiene und an die Unfallverhütung entsprechen.
+<sup>4</sup> Arbeiterunterkünfte, Speiseräume, Baustelleneinrichtungen und alle Aktivitäten im Zusammenhang mit Bauvorgängen müssen den anerkannten Anforderungen und Regeln in Sachen Hygiene und Unfallverhütung entsprechen.
 
-#### Art. 29
+<sup>5</sup> Die zuständige Behörde haftet nicht für Schäden, die dadurch entstehen, dass Bauherren und deren Vertreter gegen die Vorschriften dieses Gesetzes verstossen.
+
+#### Art. 38
 
 **Spielplätze und Aussenräume**
 
-<sup>1</sup> Das BZR kann vorschreiben, dass der Bauherr beim Bau von mehreren Wohneinheiten von der zuständigen Behörde verpflichtet werden kann, ausreichend Spielplätze für Kinder zu schaffen. Ihre Zweckbestimmung kann durch Errichtung einer Dienstbarkeit zugunsten der Gemeinde gesichert werden.
+<sup>1</sup> Das BZR kann vorschreiben, dass der Bauherr beim Bau von mehreren Wohneinheiten von der zuständigen Behörde verpflichtet werden kann, ausreichend Spielplätze für Kinder zu schaffen. Ihre Zweckbestimmung kann durch Errichtung einer Dienstbarkeit zugunsten der Gemeinde gesichert werden. Alternativ kann die Gemeinde eine zweckgebundene Ersatzleistung erheben, sofern sich das Bauvorhaben in der Nachbarschaft eines öffentlichen Spielplatzes befindet.
 
-<sup>2</sup> Die Aussenräume sind so zu gestalten, dass sie den Anforderungen an eine gute Wohnqualität entsprechen.
+<sup>2</sup> Das BZR kann Anforderungen an die Umgebungsgestaltung vorsehen.
 
-#### Art. 30
+#### Art. 39
 
 **Parkplätze**
 
-<sup>1</sup> Die Pflichten im Zusammenhang mit Parkplätzen (obligatorische Einrichtung, Anzahl, Abmessungen, Standort, gemeinsame Flächen, Ausnahmeregelungen und Ersatzleistungen) werden durch die Strassengesetzgebung und die kommunalen Reglemente geregelt.
+<sup>1</sup> Die Pflichten im Zusammenhang mit Parkplätzen (obligatorische Einrichtung, Anzahl, Abmessungen, Standort, gemeinsame Flächen, Ausnahmeregelungen und Ersatzleistungen) werden durch die Strassengesetzgebung und die Normen des Schweizerischen Verbandes der Strassen- und Verkehrsfachleute geregelt. Die Gemeinden können im Rahmen der hier festgelegten Grundsätze Parkierungsreglemente erlassen.
 
-<sup>2</sup> Die Gemeinden können in ihrem BZR eine Pflicht zur Einrichtung von Parkplätzen für alle Arten von Fahrzeugen vorsehen, namentlich solche für Fahr- und Motorräder. Sie können ebenfalls vorschreiben, dass die Parkplätze für bestimmte Typen von Bauten und Anlagen unterirdisch erstellt werden müssen.
+<sup>2</sup> Wenn ein Projekt den durchschnittlichen Tagesverkehr voraussichtlich bedeutend erhöht, können die Pflichten im Zusammenhang mit Parkplätzen in einem Mobilitätsplan festgelegt werden. Dieser Plan muss dem vom Staatsrat erlassenen Reglement entsprechen. Im Reglement des Staatsrates werden die Ziele, Ausrichtungen und Modalitäten des Mobilitätsplans festgelegt. Die Anforderungen gemäss Strassengesetz und die im kantonalen Richtplan vorgesehenen Fälle sind vorbehalten.
 
-#### Art. 31
+<sup>3</sup> Gemeinden, die ein Parkplatzkonzept verabschiedet haben, können in ihrem BZR Sektoren vorsehen, in denen die Zahl der Parkplätze die in der VSS-Norm vorgesehene Bandbreite unterschreitet. Der Mindestinhalt eines Parkplatzkonzepts wird in einem Reglement des Staatsrates festgelegt.
+
+<sup>4</sup> Die Gemeinden können zudem insbesondere für bestimmte Arten von Bauten und Anlagen verlangen, dass die Parkplätze unterirdisch oder mit einem nicht versiegelten Boden oder mit begrünten Überdachungen erstellt werden.
+
+#### Art. 40
 
 **Umwelt und Immissionen**
 
-<sup>1</sup> Bauten und Anlagen dürfen nicht zu Einwirkungen auf die Nachbarschaft führen, die dem BZR widersprechen.
+<sup>1</sup> Bauten und Anlagen dürfen nicht zu Auswirkungen auf die Nachbarschaft führen, die dem BZR widersprechen.
 
-<sup>2</sup> Im Grenzbereich zu Wohnzonen ist auf diese Rücksicht zu nehmen. Im Baubewilligungsverfahren können die erforderlichen Bedingungen und Auflagen verfügt oder Projektänderungen verlangt werden.
+<sup>2</sup> Wenn bei einem Bauvorhaben solche Auswirkungen auf benachbarte Wohngebiete möglich sind, muss dies im Rahmen der Interessenabwägung berücksichtigt werden. Im Baubewilligungsverfahren können die erforderlichen Bedingungen und Auflagen verfügt oder Projektänderungen verlangt werden.
 
 <sup>3</sup> Vorbehalten bleiben die Vorschriften der Umweltschutzgesetzgebung.
 
-#### Art. 32
+#### Art. 41
 
 **Energietechnische Bauvorschriften**
 
-<sup>1</sup> Bei bestehenden Gebäuden, die umgebaut oder erneuert werden, um die Anforderungen der kantonalen Gesetzgebung betreffend die rationelle Energienutzung in Bauten und Anlagen zu erfüllen oder um ein von der zuständigen Kantonsbehörde anerkanntes Label zu erhalten:
+<sup>1</sup> Bei bestehenden Gebäuden, die umgebaut oder erneuert werden, um die Anforderungen der kantonalen Energiegesetzgebung zu erfüllen oder um ein von der zuständigen Kantonsbehörde anerkanntes Label zu erhalten:
 
-- a) wird die Überschreitung von maximal 20 Zentimeter für die Wärmedämmung oder Solaranlagen weder bei der Berechnung insbesondere der Gebäudehöhe, der Gebäude-, Grenz-, Gewässer-, Strassen- oder Parkplatzabstände noch bei den Baulinien angerechnet;
-- b) wird eine Zusatzdämmung an Fassaden, einschliesslich Aussenverkleidung, bei der Berechnung der Nutzungsziffern nicht angerechnet.
+- a) wird die Überschreitung von maximal 20 cm für Wärmedämmung oder Solaranlagen weder bei der Berechnung insbesondere der Gebäudehöhe, der Gebäude-, Grenz-, Gewässer-, Strassen- oder Parkplatzabstände noch bei den Baulinien angerechnet;
+- b) wird eine Zusatzdämmung an Fassaden, einschliesslich Aussenverkleidung, bei der Berechnung der Nutzungsziffer nicht angerechnet.
 
 <sup>2</sup> Absatz 1 geht den kantonalen oder kommunalen Bestimmungen bezüglich Bauabstände, Bauhöhen, Baulinien und Berechnung der Nutzungsziffern vor. Vorbehalten bleiben insbesondere die feuerpolizeilichen Vorschriften (Baustoffe) und die Spezialgesetzgebung des Heimatschutzes.
 
-<sup>3</sup> Bei einem Neubau wird eine Überschreitung bis zu 20 Zentimeter der im BZR festgelegten Gesamthöhe des Gebäudes zugelassen, sofern die Anforderungen an die Wärmedämmung von Dächern gemäss BauV erfüllt sind.
+#### Art. 42
 
-#### Art. 33
+**Vorbehalte von Spezialgesetzgebungen**
 
-**Vorbehalte zugunsten von Spezialgesetzgebungen**
-
-<sup>1</sup> Vorbehalten bleiben technische Anforderungen, die sich aus anderen Gesetzgebungen ergeben, wie die technischen Vorschriften zur Naturgefahrenprävention oder zu einer behindertengerechten Bauweise.
+<sup>1</sup> Vorbehalten bleiben technische Anforderungen, die sich aus anderen Gesetzgebungen ergeben, wie technische Vorschriften zur Naturgefahrenprävention oder zu einer behindertengerechten Bauweise.
 
 ## 3 Baubewilligung
 
 ### 3.1 Allgemeine Bestimmungen
 
-#### Art. 34
+#### Art. 43
 
 **Baubewilligungspflicht**
 
-<sup>1</sup> Baubewilligungspflichtig sind die Errichtung, Umgestaltung, Erweiterung, Erneuerung, Zweckänderung und der Abbruch sämtlicher künstlich geschaffener und auf Dauer angelegter Einrichtungen, die eine Auswirkung auf die Raumplanung, den Umweltschutz oder das Baupolizeiwesen haben. Die Baubewilligungspflicht für Anlagen zur Nutzung von Energie aus erneuerbaren Quellen wie Solaranlagen oder Wärmepumpen wird, unter Vorbehalt des Bundesrechts, in der BauV geregelt, in der insbesondere der betroffene Anlagentyp sowie die zu erfüllenden Bedingungen definiert werden.
+<sup>1</sup> Baubewilligungspflichtig sind die Errichtung, Umgestaltung, Erweiterung, Erneuerung, Zweckänderung und der Abbruch sämtlicher künstlich geschaffener und auf Dauer angelegter Einrichtungen, die eine Auswirkung auf die Raumplanung, den Umweltschutz oder das Baupolizeiwesen haben.
 
-#### Art. 35
+<sup>2</sup> Die Baubewilligungspflicht für Anlagen, die erneuerbare Energien nutzen, wie Solaranlagen, Wärmepumpen oder der Anschluss an eine Fernheizung, wird in der BauV geregelt, die namentlich die Art der Anlagen sowie die von ihnen zu erfüllenden Bedingungen definiert. Für diese Anlagen kann in der BauV das Baubewilligungsverfahren durch ein Meldeverfahren ersetzt werden. Vorbehalten bleiben die Bestimmungen des Bundesrechts.
+
+<sup>3</sup> Für unbedeutende Bauten und Anlagen, geringfügige Veränderungen des natürlich gewachsenen Bodens und andere in der Verordnung definierte Bauten und Anlagen wird ein vereinfachtes Bewilligungsverfahren eingeführt.
+
+#### Art. 44
 
 **Ausnahme von der Bewilligungspflicht nach dem vorliegenden Gesetz**
 
-<sup>1</sup> Keiner Baubewilligung nach dem vorliegenden Gesetz bedürfen Bauten und Anlagen, die nach der eidgenössischen Gesetzgebung der kantonalen Bauhoheit ganz oder teilweise entzogen sind. Der kantonalen Hoheit entzogen sind insbesondere Bauten betreffend die Landesverteidigung, die Bahnanlagen, die Nationalstrassen, die Schifffahrt, die Luftfahrt, die Rohrleitungsanlagen zur Gasversorgung, die Atomanlagen sowie die Seil- und Standseilbahnanlagen.
+<sup>1</sup> Keiner Baubewilligung nach dem vorliegenden Gesetz bedürfen Bauten und Anlagen, die nach der eidgenössischen Gesetzgebung der kantonalen Bauhoheit ganz oder teilweise entzogen sind. Der kantonalen Hoheit entzogen sind insbesondere Bauten und Anlagen für die Landesverteidigung, die Bahnanlagen, die Nationalstrassen, die Schifffahrt, die Luftfahrt, die Rohrleitungsanlagen zur Gasversorgung, die Atomanlagen, die elektrischen Leitungen sowie die Luftseil- und Standseilbahnanlagen.
 
-<sup>2</sup> Keiner Baubewilligung nach dem vorliegenden Gesetz bedürfen Bauten und Anlagen, deren Bewilligung Gegenstand eines besonderen kantonalrechtlichen Verfahrens bilden, insbesondere die öffentlichen Strassen, die Strukturverbesserungsprojekte, die Wasserbauprojekte, die Skilifte, die Projekte zur Wasserkraftnutzung, die Bauwerke für Wege des Freizeitverkehrs sowie die Schutzbauten gegen Naturgefahren.
+<sup>2</sup> Keiner Baubewilligung nach dem vorliegenden Gesetz bedürfen Bauten und Anlagen, deren Bewilligung Gegenstand eines besonderen kantonsrechtlichen Verfahrens bildet, insbesondere öffentliche Strassen, Strukturverbesserungsprojekte, Wasserbauprojekte, Skilifte, Projekte zur Wasserkraftnutzung, Bauwerke für Wege des Freizeitverkehrs sowie Schutzbauten gegen Naturgefahren.
 
-#### Art. 36
+<sup>3</sup> Bauvorhaben, die weder einer Baubewilligung noch dem Meldeverfahren unterliegen, werden in der BauV festgelegt.
+
+<sup>4</sup> Veränderungen des natürlich gewachsenen Bodens ausserhalb der Bauzone mit einer Fläche bis zu 2’000 m² und einer Höhe bis zu 50 cm durch die Zufuhr von Erdmaterial sind von der Baubewilligungspflicht ausgenommen. Diese Massnahmen unterliegen jedoch dem Meldefahren gemäss Artikel 48 des vorliegenden Gesetzes. Die anwendbaren Bedingungen und Verfahren werden in der BauV festgelegt.
+
+<sup>5</sup> Weder einer Baubewilligung noch dem Meldeverfahren gemäss vorliegendem Gesetz unterliegen ausserhalb der Bauzone und nur für die Parzellen, die nicht als Fruchtfolgeflächen klassiert sind, Veränderungen des natürlich gewachsenen Bodens (Aufschüttungen und Abgrabungen) mit einer Fläche bis zu 500 m² und/oder einer Höhe beziehungsweise Tiefe von 100 cm.
+
+#### Art. 45
 
 **Anwendbare Verfahrensbestimmungen**
 
-<sup>1</sup> Das Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege (nachstehend: VVRG) findet Anwendung, sofern die Baugesetzgebung keine besonderen Bestimmungen enthält.
+<sup>1</sup> Das VVRG findet Anwendung, sofern die Baugesetzgebung keine besonderen Bestimmungen enthält.
 
 ### 3.2 Gesuch um Auskunft und Gesuch um Vorentscheid
 
-#### Art. 37
+#### Art. 46
 
 **Gesuch um Auskunft**
 
-<sup>1</sup> Auf der Grundlage summarischer Bauakten kann bei der zuständigen Behörde ein Gesuch um Auskunft über die Bebaubarkeit eines Grundstücks eingereicht werden.
+<sup>1</sup> Auf der Grundlage summarischer Bauakten kann bei der zuständigen Behörde ein Gesuch um Auskunft über die Bebaubarkeit eines bestimmten Grundstücks eingereicht werden.
 
 <sup>2</sup> Das Gesuch um Auskunft gilt nicht als Baugesuch. Die erteilte Auskunft bindet die zuständige Behörde nicht und kann nicht Gegenstand einer Beschwerde sein.
 
-#### Art. 38
+#### Art. 47
 
 **Gesuch um Vorentscheid**
 
@@ -507,365 +601,447 @@ verordnet:[^ingress-1]
 
 ### 3.3 Baubewilligungsverfahren
 
-### 3.3.1 Baugesuch
+### 3.3.1 Melde- und Baubewilligungsverfahren
 
-#### Art. 39
+#### Art. 48
+
+**Meldeverfahren**
+
+<sup>1</sup> Unterliegt ein Bauvorhaben dem Meldeverfahren, übermittelt der Gesuchsteller der zuständigen Behörde innerhalb der Meldefrist die vorgeschriebenen Unterlagen. Wenn keine Meldefrist festgelegt ist, muss die Meldung mindestens 30 Tage vor Beginn der Arbeiten übermittelt werden. Die Meldung hat nach Wahl des Meldepflichtigen im Papierformat oder im digitalen Format über die Plattform zu erfolgen.
+
+<sup>2</sup> Stellt die zuständige Behörde fest, dass die Voraussetzungen für das Meldeverfahren nicht erfüllt sind, teilt sie dies dem Gesuchsteller vor Beginn der Arbeiten mit. Auf Verlangen des Gesuchstellers eröffnet sie ihm eine Verfügung, in der festgestellt wird, dass das Vorhaben baubewilligungspflichtig ist.
+
+<sup>3</sup> Meldet sich die zuständige Behörde vor Baubeginn nicht beim Gesuchsteller, so ist dieses Schweigen einer Verfügung gleichzusetzen, mit der festgestellt wird, dass die Voraussetzungen für das Meldeverfahren erfüllt sind.
+
+<sup>4</sup> Vorbehalten bleiben die auferlegten Bedingungen und das Einholen weiterer Bewilligungen, die nach anderen Gesetzen erforderlich sind, namentlich die Bewilligung zur Wasserentnahme oder die Bohrbewilligung.
+
+#### Art. 49
 
 **Baugesuch**
 
-<sup>1</sup> Der Gesuchsteller leitet das Verfahren mit der Einreichung des Baugesuchs bei der zuständigen Behörde ein.
+<sup>1</sup> Der Gesuchsteller leitet das Verfahren ein, indem er bei der zuständigen Behörde ein Baugesuch einreicht.
 
-<sup>1<sup>bis</sup></sup> Baugesuche in Zuständigkeit des Gemeinderats einer Gemeinde, die auf die Benutzung der Plattform verzichtet, sind dieser in Papierform einzureichen.
+<sup>2</sup> Gesuche, die in die Zuständigkeit des Gemeinderats einer Gemeinde fallen, die auf die Nutzung der Plattform verzichtet hat, sind bei dieser Gemeinde in Papierform einzureichen.
 
-<sup>2</sup> Das Baugesuch muss alle Angaben und Unterlagen enthalten, die für die Prüfung des Baugesuchs und der weiteren Bewilligungsgesuche notwendig sind.
+<sup>3</sup> Das Gesuch muss alle Angaben und Unterlagen enthalten, die für dessen Prüfung sowie für die Prüfung der weiteren erforderlichen Bewilligungsgesuche erforderlich sind.
 
-<sup>3</sup> Erfordert das Bauvorhaben Ausnahmen, so ist dem Baugesuch das begründete Ausnahmegesuch beizufügen.
+<sup>4</sup> Sind für das Bauvorhaben Ausnahmen erforderlich, so ist das begründete Ausnahmegesuch dem Baugesuch beizulegen.
 
-<sup>4</sup> Das Baugesuch wird vom Planverfasser, vom Grundeigentümer und vom Gesuchsteller oder dessen Vertreter eigenhändig unterschrieben (Papierformat) oder validiert (digitales Format). Bei Vorhandensein mehrerer Eigentümer gelten für die Zustimmung insbesondere die Regeln des Zivilrechts.
+<sup>5</sup> Das Baugesuch wird vom Planverfasser, vom Grundeigentümer und vom Gesuchsteller oder seinem Auftragnehmer handschriftlich unterzeichnet (Papierformat) oder validiert (digitales Format). Bei mehreren Eigentümern richten sich die Zustimmungsregeln insbesondere nach dem Zivilrecht.
 
-<sup>5</sup> Das Baugesuch gilt zugleich als Gesuch für die weiteren Bewilligungen, die für das Bauvorhaben erforderlich sind.
+<sup>6</sup> Das Baugesuch gilt auch für andere Bewilligungen, die das Bauvorhaben erfordert.
 
-#### Art. 39a
+<sup>7</sup> Bei Bauvorhaben von öffentlichem Interesse ersetzt die Einleitung eines Enteignungsverfahrens nach dem Enteignungsgesetz (kEntG) die Unterschrift des Grundeigentümers. Die Baubewilligung wird von der Rechtskraft des Enteignungsentscheids abhängig gemacht.
 
-**Anhörung der kantonalen Organe durch die Gemeinden**
+#### Art. 50
 
-<sup>1</sup> Nachdem die Gemeinde die Konformität des Bauvorhabens mit den Bestimmungen des vorliegenden Gesetzes und seiner Verordnung, für deren Anwendung ​sie verantwortlich ist, geprüft hat, kann sie das vollständige Dossier (einschliesslich der besonderen Unterlagen) an das KBS weiterleiten, damit dieses das Bauvorhaben den ​betroffenen kantonalen Dienststellen unterbreitet. Unabhängig vom gewählten Format erfolgt die Weiterleitung des Dossiers an die zuständigen kantonalen Stellen über die Plattform.
+**Konsultation der kantonalen Organe durch die Gemeinden**
 
-<sup>2</sup> Baugesuche für Vorhaben, die aufgrund gesetzlicher Vorschriften zwingend der Anhörung einer kantonalen Fachdienststelle bedürfen, sind dem KBS unabhängig vom für das Verfahren gewählten Format über die Plattform zu ​übermitteln. Daraufhin konsultiert das KBS ausschliesslich die zwingend anzuhörenden kantonalen Organe. Der Gemeinde steht es frei, weitere Vormeinungen kantonaler Dienststellen einzufordern.
+<sup>1</sup> Baugesuche, die aufgrund gesetzlicher Vorschriften zwingend die Konsultation eines betroffenen kantonalen Organs erfordern, müssen, sofern das Dossier alle für die Konsultation der betroffenen Organe notwendigen Dokumente enthält, von der Gemeinde auf der Plattform an den ISBB übermittelt werden, unabhängig davon, welches Format für das Verfahren gewählt wurde. Daraufhin konsultiert der ISBB ausschliesslich die zwingend anzuhörenden kantonalen Organe.
 
-<sup>3</sup> Die begründeten Vormeinungen der kantonalen Dienststellen, die sich auf die Anwendung von zwingenden spezialgesetzlichen Vorschriften beziehen, müssen die gesetzlichen Bestimmungen, auf die sie sich stützen, enthalten.
+<sup>2</sup> Der Gemeinde steht es frei, über den ISBB weitere Vormeinungen kantonaler Organe einzufordern.
 
-<sup>4</sup> Im Vernehmlassungsfall teilt das KBS dem Gemeinderat innert 30 Tagen nach Erhalt der vollständigen Bauakten das Ergebnis der Stellungnahmen der kantonalen Dienststellen mit. Muss diese Frist aus zwingenden Gründen verlängert werden, sind die Beteiligten unter Angabe der Gründe über diese Fristverlängerung zu benachrichtigen.
+<sup>3</sup> Die Baudossiers können bereits während der öffentlichen Auflage an den ISBB übermittelt werden.
 
-#### Art. 40
+<sup>4</sup> Die Vormeinungen der kantonalen Organe, die sich auf die Anwendung von zwingenden spezialgesetzlichen Vorschriften beziehen, müssen begründet sein und die gesetzlichen Bestimmungen, auf die sie sich stützen, enthalten.
 
-**Planverfasser - Qualität**
+<sup>5</sup> Im Konsultationsfall teilt der ISBB dem Gemeinderat innert 30 Tagen nach Erhalt des vollständigen Baudossiers das Ergebnis der Stellungnahmen der kantonalen Organe mit. Muss diese Frist aus zwingenden Gründen verlängert werden, sind die Beteiligten unter Angabe der Gründe über diese Fristverlängerung zu benachrichtigen. Die Frist kann nur einmal verlängert werden. Nach Ablauf der verlängerten Frist gelten die Stellungnahmen der Organe, die noch keine Vormeinung abgegeben haben, als positiv.
+
+#### Art. 51
+
+**Planverfasser – Qualifikation**
 
 <sup>1</sup> Mit Ausnahme von unbedeutenden Bauten und Anlagen müssen die Baupläne erstellt worden sein:
 
-- a) von einem Inhaber eines Bachelor- oder Masterabschlusses im Bauwesen, insbesondere einer Eidgenössischen Technischen Hochschule, einer Fachhochschule oder einer als gleichwertig einzustufenden Schule;
-- b) von einem Inhaber eines Diploms einer Höheren Fachschule für Technik (HF) im Bereich des Bauwesens;
-- c) von einem Inhaber eines eidgenössischen Meisterdiploms oder eines eidgenössischen Fachausweises, der im Bereich des Bauwesens tätig ist;
-- d) von einer im Berufsregister REG A, B oder C eingetragenen Person.
+- a) von einem Inhaber eines Bachelors oder höherwertigen Abschlusses im technischen Bereich des betreffenden Bauvorhabens, ausgestellt von einer Eidgenössischen Technischen Hochschule, einer Schweizer Universität, einer Schweizer Fachhochschule oder einer als gleichwertig einzustufenden Schule;
+- b) von einem Inhaber eines Diploms einer Höheren Fachschule für Technik (HF) im technischen Bereich des betreffenden Bauvorhabens;
+- c) von einem Inhaber eines eidgenössischen Meisterdiploms oder eines eidgenössischen Fachausweises, der im technischen Bereich des betreffenden Bauvorhabens tätig ist;
+- d) von einer Person, die im Berufsregister REG A, B oder C im technischen Bereich des betreffenden Bauvorhabens eingetragen ist.
 
-<sup>2</sup> Der Begriff "unbedeutend" ist in der BauV definiert.
+<sup>2</sup> Der Begriff «unbedeutend» und die Kriterien der Gleichwertigkeit werden in der BauV definiert.
 
-#### Art. 41
+#### Art. 52
 
 **Sistierung der Behandlung eines Baugesuchs**
 
-<sup>1</sup> Die Behandlung eines Baugesuchs kann, obwohl das Bauvorhaben gesetzeskonform erscheint, sistiert werden, falls es im Widerspruch zu einer vorgesehenen Nutzungsplanänderung oder Änderung des BZR steht.
+<sup>1</sup> Die Behandlung eines Baugesuchs kann, auch wenn das Bauvorhaben gesetzeskonform erscheint, sistiert werden, falls es im Widerspruch zu einer vorgesehenen Nutzungsplanänderung oder Änderung des BZR steht.
 
-<sup>2</sup> Eine Sistierung ist nur zulässig, wenn der Gemeinderat zumindest definitiv über die Änderung entschieden hat.
+<sup>2</sup> Eine Sistierung ist nur zulässig, wenn der Gemeinderat zumindest den endgültigen Beschluss gefasst hat, eine solche Änderung vorzunehmen.
 
-<sup>3</sup> Die Sistierung bleibt aufrechterhalten, wenn innerhalb von zwölf Monaten nach Bekanntgabe der Sistierung die öffentliche Auflage der Änderung erfolgt.
+<sup>3</sup> Die Sistierung bleibt aufrechterhalten, wenn innerhalb von 12 Monaten nach Bekanntgabe der Sistierung die öffentliche Auflage der Änderung erfolgt. Die Sistierung kann bis maximal 24 Monaten dauern.
 
 ### 3.3.2 Publikation und öffentliche Auflage
 
-#### Art. 42
+#### Art. 53
 
 **Publikation**
 
-<sup>1</sup> Alle baubewilligungspflichtigen Vorhaben sind von der zuständigen Behörde spätestens 30 Tage nach Erhalt der vollständigen Akten öffentlich aufzulegen.
+<sup>1</sup> Alle baubewilligungspflichtigen Vorhaben sind von der zuständigen Behörde spätestens 30 Tage nach Erhalt des vollständigen Dossiers des Gesuchstellers öffentlich aufzulegen.
 
-<sup>2</sup> Die Publikation hat im kantonalen Amtsblatt zu erfolgen.
+<sup>2</sup> Die öffentliche Auflage erfolgt durch Publikation im Amtsblatt.
 
 <sup>3</sup> Für unbedeutende Arbeiten und Projektänderungen, die keine Interessen Dritter betreffen, kann von einer öffentlichen Auflage abgesehen werden. Der Gesuchsteller wird über den Verzicht auf die öffentliche Auflage benachrichtigt.
 
-#### Art. 43
+#### Art. 54
 
-**Inhalt der Publikation**
+**Inhalt der Publikation der öffentlichen Auflage im Amtsblatt**
 
-<sup>1</sup> Die Publikation muss Folgendes enthalten:
+<sup>1</sup> Die Publikation der öffentlichen Auflage im Amtsblatt muss zwingend und ausschliesslich enthalten:
 
-- a) die Namen des Baugesuchstellers und des Planverfassers;
-- b) die genaue Bezeichnung der Bauparzelle (Nummer, Plan und Ortsname), die Koordinaten der topographischen Karte, den Namen des Grundeigentümers sowie die Art des Bauvorhabens;
-- c) die Nutzungszone und den Hinweis auf allenfalls geltende Sonderbauvorschriften für Detailnutzungs- oder Quartierpläne;
-- d) allenfalls die Angabe darüber, dass das Bauvorhaben Ausnahmen im Sinne der geltenden Gesetzgebung benötigt;
-- e) die Art und Weise der Einsichtnahme in die Baugesuchsakten, der Einsprachemöglichkeit mit Angabe der Einsprachefrist.
+- a) den Namen und Vornamen beziehungsweise die Firma des Gesuchstellers und des Planverfassers;
+- b) die genaue Bezeichnung der Bauparzelle (Nummer, Plan und Ortsname, gegebenenfalls Bereich), die Koordinaten der topografischen Karte, den Namen und Vornamen beziehungsweise die Firma des Grundeigentümers sowie die Art des Bauvorhabens;
+- c) die Nutzungszone und allenfalls den Hinweis auf geltende Sonderbauvorschriften für Detailnutzungs- oder Quartierpläne;
+- d) allenfalls die Angabe, dass das Bauvorhaben Ausnahmen im Sinne der geltenden Gesetzgebung benötigt;
+- e) die Art und Weise der Einsichtnahme in das Baugesuchsdossier und der Einsprachemöglichkeit mit Angabe der Einsprachefrist;
+- f) allenfalls den Hinweis, dass ein Umweltverträglichkeitsbericht existiert und auf die gleiche Art und Weise eingesehen werden kann.
 
-#### Art. 44
+<sup>2</sup> Die zuständige Behörde stellt sicher, dass nur die in Absatz 1 genannten Informationen im Amtsblatt publiziert werden.
 
-**Auflage**
+#### Art. 55
 
-<sup>1</sup> Das Baugesuch, die zugehörigen Pläne und die weiteren Unterlagen können von jeder am Bauvorhaben interessierten Person während der Einsprachefrist bei der zuständigen Behörde eingesehen werden. Die Dossiers in der Kompetenz der KBK können auch bei der Gemeindeverwaltung eingesehen werden.
+**Konsultation des öffentlich aufgelegten Dossiers**
+
+<sup>1</sup> Das Baugesuch, die zugehörigen Pläne und die weiteren Unterlagen können während der Einsprachefrist von jeder am Bauvorhaben interessierten Person bei der zuständigen Behörde eingesehen werden. Die Baugesuche in der Zuständigkeit der KBK können auch bei der Gemeindeverwaltung eingesehen werden. Interessierte Personen können gegen eine entsprechende Gebühr eine Kopie der öffentlich aufgelegten Dokumente erhalten.
 
 <sup>2</sup> Wird das digitale Format verwendet, erfolgt die Einsichtnahme durch die interessierten Personen mittels des bei der öffentlichen Auflage publizierten Dossiercodes.
 
+<sup>3</sup> Die einsehbaren Informationen über natürliche oder juristische Personen beschränken sich auf den Namen und Vornamen beziehungsweise die Firma, unter Vorbehalt anderer Daten, die für die Kontrolle der in anderen Gesetzen festgelegten Bedingungen erforderlich sind. Die zuständige Behörde stellt sicher, dass nur diese Daten eingesehen werden können.
+
+<sup>4</sup> Der Umgang mit öffentlich aufgelegten Dokumenten darf unabhängig von den verwendeten Mitteln und dem Verfahren nur zum Zweck erfolgen, es den interessierten Personen zu ermöglichen, ihre Einsprachelegitimation zu prüfen und gegebenenfalls Einsprache zu erheben.
+
 ### 3.3.3 Einsprache
 
-#### Art. 45
+#### Art. 56
 
-**Einsprachegrund**
-
-<sup>1</sup> Mit der Einsprache gegen ein Bauvorhaben kann nur die Verletzung öffentlich-rechtlicher Bestimmungen geltend gemacht werden.
-
-#### Art. 46
-
-**Einsprachebefugnis**
+**Einsprachelegitimation**
 
 <sup>1</sup> Zur Einsprache sind befugt:
 
 - a) Personen, die durch das Bauvorhaben unmittelbar in ihren eigenen schützenswerten Interessen betroffen sind;
 - b) jede andere natürliche oder juristische Person, die durch das Gesetz ermächtigt ist, Einsprache zu erheben.
 
-#### Art. 47
+#### Art. 57
 
-**Frist und Form**
+**Frist und Einsprachegründe**
 
 <sup>1</sup> Die Einsprachefrist beträgt 30 Tage und beginnt mit der Publikation im Amtsblatt.
 
+<sup>2</sup> Mit der Einsprache kann nur die Verletzung öffentlich-rechtlicher Bestimmungen geltend gemacht werden.
+
+#### Art. 58
+
+**Form**
+
+<sup>1</sup> Einsprachen sind insbesondere in Bezug auf die Einsprachelegitimation zu begründen.
+
 <sup>2</sup> Die Einsprachen sind schriftlich, im digitalen Format oder im Papierformat, bei der in der Publikation als zuständig bezeichneten Behörde einzureichen.
 
-<sup>2<sup>bis</sup></sup> Bei Bauvorhaben, die vom Gesuchsteller auf der Plattform eingeleitet wurden, muss die Einsprache mit einer eigenhändigen Unterschrift versehen sein, wenn der Einsprecher das Papierformat wählt, und mit einer qualifizierten elektronischen Signatur, wenn er das digitale Format wählt. Hat er seine Wahl getroffen, erfolgen die Einsprache und alle mit ihr verbundenen Benachrichtigungen, Stellungnahmen und übrigen Mitteilungen, bis hin zur Archivierung des Dossiers, im gewählten Format. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
+<sup>3</sup> Bei Baubewilligungsverfahren, die vom Gesuchsteller auf der Plattform eingeleitet wurden, muss die Einsprache mit einer eigenhändigen Unterschrift versehen sein, wenn der Einsprecher das Papierformat wählt, und mit einer qualifizierten elektronischen Signatur, wenn er das digitale Format wählt. Hat er seine Wahl getroffen, erfolgen die Einsprache und alle damit verbundenen Benachrichtigungen, Stellungnahmen und übrigen Mitteilungen, die ihn betreffen, bis hin zur Archivierung des Dossiers, im gewählten Format. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
 
-<sup>2<sup>ter</sup></sup> Eine Einsprache gegen ein vom Gesuchsteller im Papierformat eingereichtes Bauvorhaben muss zwingend im Papierformat erfolgen.
+<sup>4</sup> Eine Einsprache gegen ein vom Gesuchsteller im Papierformat eingereichtes Bauvorhaben muss zwingend im Papierformat erfolgen.
 
-<sup>2<sup>quater</sup></sup> Einsprachen sind insbesondere in Bezug auf die Einsprachelegitimation zu begründen.
+<sup>5</sup> Wird das digitale Format verwendet und wird die Einsprache im Papierformat erhoben, digitalisiert die zuständige Behörde die Einsprache und erfasst sie auf der Plattform. Dasselbe gilt für alle anderen Dokumente, die bei der zuständigen Behörde im Papierformat eingehen.
 
-<sup>2<sup>quinquies</sup></sup> Wird das digitale Format verwendet und wird die Einsprache im Papierformat erhoben, digitalisiert die zuständige Behörde die Einsprache und gibt sie auf der Plattform ein. Dasselbe gilt für alle anderen Dokumente, die bei der zuständigen Behörde im Papierformat eingehen.
+<sup>6</sup> Bei gemeinsamen Einsprachen ist ein Vertreter zu bezeichnen. Fehlt diese Bezeichnung, so gilt bei einer Verwendung des Papierformats der Erstunterzeichnete als Vertreter; bei einer Verwendung des digitalen Formats gilt als Vertreter, wer die Einsprache als erster mit qualifizierter elektronischer Signatur unterzeichnet hat.
 
-<sup>3</sup> Bei gemeinsamen Einsprachen ist ein Vertreter zu bezeichnen. Fehlt diese Bezeichnung, so gilt bei einer Verwendung des Papierformats der Erstunterzeichnete als Vertreter; bei einer Verwendung des digitalen Formats gilt als Vertreter, wer die Einsprache als erster validiert hat.
-
-#### Art. 48
+#### Art. 59
 
 **Rechtsverwahrung**
 
-<sup>1</sup> Die Rechtsverwahrung bezweckt die Orientierung des Baugesuchstellers und der Behörde über private Rechte, die durch das Bauvorhaben betroffen sind, und über Entschädigungsansprüche, die daraus abgeleitet werden könnten.
+<sup>1</sup> Die Rechtsverwahrung bezweckt die Orientierung des Gesuchstellers und der Behörde über private Rechte, die durch das Bauvorhaben betroffen sind, und über allfällige Entschädigungsansprüche.
 
-<sup>2</sup> Zur Anmeldung einer Rechtsverwahrung ist innert der Einsprachefrist jedermann befugt, der zivilrechtlich rechts- und handlungsfähig ist.
+<sup>2</sup> Zur Anmeldung einer Rechtsverwahrung ist innert der Einsprachefrist jeder befugt, der zivilrechtlich rechts- und handlungsfähig ist.
 
-#### Art. 49
+<sup>3</sup> Die zuständige Behörde nimmt die Rechtsverwahrung zur Kenntnis und fügt sie ihrem endgültigen Entscheid bei. Rechtsverwahrer sind nicht Verfahrenspartei.
+
+#### Art. 60
 
 **Einigungsverhandlung**
 
-<sup>1</sup> Sind gegen das Baugesuch Einsprachen eingereicht worden, so kann die zuständige Baubewilligungsbehörde die Beteiligten zu einer Einigungsverhandlung vorladen. Sie kann dies auch im Falle von Rechtsverwahrungen tun.
+<sup>1</sup> Sind gegen das Baugesuch Einsprachen eingereicht worden, so kann die zuständige Behörde die Beteiligten zu einer Einigungsverhandlung vorladen. Sie kann dies auch im Falle von Rechtsverwahrungen tun.
 
-<sup>2</sup> Über das Verhandlungsergebnis und die unerledigten Einsprachen kann ein Protokoll geführt werden.
+<sup>2</sup> Über das Verhandlungsergebnis und die unerledigten Einsprachen kann Protokoll geführt werden.
 
 ### 3.3.4 Bauentscheid
 
-#### Art. 50
+#### Art. 61
 
 **Bauentscheid**
 
 <sup>1</sup> Der Bauentscheid umfasst die Beurteilung des Baugesuchs, der zugehörigen Ausnahmegesuche sowie der unerledigten Einsprachen.
 
-<sup>2</sup> Der Bauentscheid kann Bedingungen und Auflagen enthalten, deren Anmerkung im Grundbuch angeordnet werden kann.
+<sup>2</sup> Der Bauentscheid kann Bedingungen und Auflagen enthalten, deren Anmerkung im Grundbuch angeordnet werden kann. Dieselben Regeln sind analog für das baupolizeiliche Verfahren anwendbar.
 
-<sup>3</sup> Für Bauten und Anlagen, die eigens zum Zweck einer bestimmten Tätigkeit errichtet werden und deren Entfernung mit Beendigung dieser Tätigkeit gerechtfertigt ist, namentlich für besondere landwirtschaftliche, gewerbliche oder industrielle Bauten, kann die zuständige Behörde in der Baubewilligung verlangen, dass die Baute nach Beendigung der Tätigkeit wieder beseitigt werden muss. Zur Gewährleistung der Beseitigung der Baute kann die zuständige Behörde vor Erteilung der Bewilligung vom Gesuchsteller zudem verlangen, dass er die erforderlichen Sicherheiten in Form einer Garantie oder eines Grundpfandes erbringt.
+<sup>3</sup> Für Bauten und Anlagen, die eigens zum Zweck einer bestimmten Tätigkeit errichtet werden und deren Entfernung mit Beendigung dieser Tätigkeit gerechtfertigt ist, namentlich für besondere landwirtschaftliche, gewerbliche oder industrielle Bauten und Anlagen, kann die zuständige Behörde in der Baubewilligung verlangen, dass die Baute oder Anlage nach Beendigung der Tätigkeit wieder beseitigt werden muss. Zur Gewährleistung der Beseitigung der Baute oder Anlage kann die zuständige Behörde vor Erteilung der Bewilligung vom Gesuchsteller zudem verlangen, dass er die erforderlichen Sicherheiten in Form einer Garantie oder eines Grundpfandes erbringt. Die zuständige Behörde kann dies auch in Fällen verlangen, in denen besondere Umstände dies rechtfertigen, namentlich wenn die Baute oder Anlage auf einer anderen Baute oder Anlage errichtet wird, deren langfristiges Bestehen nicht wahrscheinlich ist.
 
 <sup>4</sup> Gleichzeitig mit dem Bauentscheid hat die Behörde des massgeblichen Verfahrens den Betroffenen die weiteren erforderlichen Bewilligungen in dem für das Baubewilligungsverfahren verwendeten Format zu eröffnen, soweit dem keine Bestimmungen der Spezialgesetzgebung entgegenstehen. Die kantonalen Spezialbewilligungen bilden integralen Bestandteil des Bauentscheids der KBK.
 
-<sup>5</sup> Die Gemeinden fällen ihren Entscheid innert acht Wochen ab Ende der öffentlichen Auflage oder gegebenenfalls ab Erhalt der vollständigen Bauakten.
+<sup>5</sup> Die Gemeinden fällen ihren Entscheid innert 8 Wochen ab Ende der öffentlichen Auflage oder gegebenenfalls ab Erhalt des vollständigen Baudossiers, was namentlich das vom Gesuchsteller eingereichte Baugesuchsdossier, die Vormeinungen der konsultierten Organe sowie spezielle Dokumente umfasst.
 
-#### Art. 51
+<sup>6</sup> In Fällen, in denen vom Eigentümer des Grundstücks eine Konzession erteilt wurde, übermittelt die Baubewilligungsbehörde der Konzessionsbehörde unverzüglich eine Kopie ihres Entscheids.
+
+#### Art. 62
 
 **Geltungsdauer**
 
-<sup>1</sup> Die Baubewilligung erlischt, wenn mit der Ausführung des Bauvorhabens nicht innerhalb von drei Jahren seit ihrem Rechtskrafteintritt begonnen wird. Der Bau gilt als begonnen, sobald bedeutende Arbeiten erfolgt sind, insbesondere wenn die Erdarbeiten abgeschlossen sind oder wenn ein für das Projekt erforderlicher bedeutender Aushub stattgefunden hat. Bei Gebäuden gilt die Ausführung des Bauvorhabens in jedem Fall als begonnen, wenn die Fundamentskonsolen oder die Bodenplatte erstellt sind.
+<sup>1</sup> Die Baubewilligung erlischt, wenn mit der Ausführung des Bauvorhabens nicht innerhalb von 3 Jahren seit ihrem Rechtskrafteintritt begonnen wird. Der Bau gilt als begonnen, sobald bedeutende Arbeiten erfolgt sind, insbesondere wenn die Erdarbeiten abgeschlossen sind oder wenn ein für das Bauvorhaben erforderlicher bedeutender Aushub vorgenommen wurde. Die Ausführung des Bauvorhabens gilt in jedem Fall als begonnen, wenn die Fundamentskonsolen oder die Bodenplatte erstellt sind.
 
-<sup>2</sup> Die Frist beginnt nicht zu laufen oder wird gehemmt, wenn von der Baubewilligung aus rechtlichen Gründen kein Gebrauch gemacht werden kann und der Inhaber der Baubewilligung unverzüglich die notwendigen Schritte zur Beseitigung der Ausführungshindernisse unternimmt.
+<sup>2</sup> Die Frist beginnt nicht zu laufen oder wird ausgesetzt, wenn von der Baubewilligung aus rechtlichen Gründen kein Gebrauch gemacht werden kann und der Inhaber der Baubewilligung unverzüglich die notwendigen Schritte zur Beseitigung der Ausführungshindernisse unternimmt.
 
-<sup>3</sup> Umfasst die gleiche Bewilligung mehrere Gebäude, ist die Frist gewahrt, wenn innerhalb von fünf Jahren seit Rechtskrafteintritt mit dem Bau eines Gebäudes begonnen wird.
+<sup>3</sup> Die zuständige Baubewilligungsbehörde kann die Geltungsdauer einer Baubewilligung aus wichtigen Gründen um höchstens 3 Jahre verlängern. Die Verlängerung ist ausgeschlossen, wenn sich die zum Zeitpunkt des Bauentscheids massgebenden tatsächlichen oder rechtlichen Verhältnisse verändert haben.
 
-<sup>4</sup> Die zuständige Baubewilligungsbehörde kann die Geltungsdauer einer Bewilligung aus hinreichenden Gründen um höchstens drei Jahre verlängern. Die Verlängerung ist ausgeschlossen, wenn sich die zum Zeitpunkt des Bauentscheids massgebenden tatsächlichen oder rechtlichen Verhältnisse verändert haben.
+#### Art. 63
+
+**Pflichten des Inhabers einer Baubewilligung**
+
+<sup>1</sup> Der Inhaber einer Baubewilligung oder sein Vertreter ist verpflichtet:
+
+- a) während der Dauer der Bauarbeiten am Eingang der Baustelle auf seine Kosten eine Bescheinigung der Baubewilligung anzubringen, wenn die zuständige Behörde dies in der Baubewilligung verlangt;
+- b) der zuständigen Behörde den Baubeginn und die Beendigung der Bauarbeiten mitzuteilen. Vorbehalten bleibt die Verpflichtung der Meldung an andere Behörden, insbesondere an das für den Zivilschutz zuständige Amt.
+
+<sup>2</sup> In der Baubewilligung werden diese Pflichten als Auflagen aufgeführt.
 
 ### 3.3.5 Beschwerde
 
-#### Art. 52
+#### Art. 64
 
-**Beschwerde - Aufschiebende Wirkung**
+**Beschwerde – Aufschiebende Wirkung**
 
-<sup>1</sup> Bauentscheide können innert 30 Tagen seit ihrer Eröffnung mit schriftlicher und begründeter Beschwerde beim Staatsrat angefochten werden.
+<sup>1</sup> Entscheide können innert 30 Tagen seit ihrer Eröffnung mit schriftlicher und begründeter Beschwerde beim Staatsrat und Entscheide der KBK mit schriftlicher und begründeter Beschwerde beim Kantonsgericht angefochten werden. Zwischenentscheide sind nur dann mit Beschwerde anfechtbar, wenn sie einen nicht wiedergutzumachenden Nachteil bewirken können.
 
-<sup>2</sup> Die Beschwerde hat keine aufschiebende Wirkung. Diese kann jedoch von Amtes wegen oder auf Gesuch hin angeordnet werden.
+<sup>2</sup> Die Beschwerde hat keine aufschiebende Wirkung; diese kann jedoch von Amtes wegen oder auf Gesuch hin angeordnet werden.
 
-<sup>3</sup> Das Gesuch um Gewährung der aufschiebenden Wirkung ist innert einer Frist von zehn Tagen zu stellen. Bis zur rechtskräftigen Erledigung des Gesuchs betreffend die aufschiebende Wirkung darf mit den Bauarbeiten nicht begonnen werden. Der Entscheid über die aufschiebende Wirkung ist innert einer Frist von drei Monaten ab Eingang des Gesuchs zu fällen.
+<sup>3</sup> Das Gesuch um Gewährung der aufschiebenden Wirkung ist innert einer Frist von 10 Tagen zu stellen. Bis zur rechtskräftigen Erledigung des Gesuchs betreffend die aufschiebende Wirkung darf mit den Bauarbeiten nicht begonnen werden. Der Entscheid über die aufschiebende Wirkung ist innert einer Frist von 3 Monaten ab Eingang des Gesuchs zu fällen.
 
-<sup>4</sup> Der Inhaber einer Bewilligung für den vollständigen oder teilweisen Abbruch eines Gebäudes darf davon nicht Gebrauch machen, bevor sie rechtskräftig ist.
+<sup>4</sup> Die aufschiebende Wirkung einer Beschwerde wird auf Antrag entzogen, sofern der Bauherr bei Gutheissung der Beschwerde verbindlich verpflichtet wird, den ursprünglichen Zustand wiederherzustellen und vorher eine Sicherheitsleistung für die mutmasslichen Kosten dieser Wiederherstellung zu leisten (z. B. Bankgarantie).
 
-<sup>5</sup> Mit Ausnahme der Entscheide bezüglich der aufschiebenden Wirkung und allfälliger vorsorglicher Massnahmen obliegt die Baupolizei während des Beschwerdeverfahrens der erstinstanzlichen Behörde.
+<sup>5</sup> Der Inhaber einer Bewilligung für den vollständigen oder teilweisen Abbruch eines Gebäudes darf erst von dieser Gebrauch machen, wenn sie rechtskräftig ist.
 
-<sup>6</sup> Wurde die aufschiebende Wirkung auf Antrag des Beschwerdeführers angeordnet, so kann von diesem die Leistung von Sicherheiten für Verfahrenskosten und für allfällige Parteientschädigung verlangt werden. Werden die Sicherheiten nicht innert der von der zuständigen Behörde festgelegten Frist geleistet, so wird die verfügte aufschiebende Wirkung hinfällig.
+<sup>6</sup> Mit Ausnahme der Entscheide bezüglich der aufschiebenden Wirkung und allfälliger vorsorglicher Massnahmen obliegt die Baupolizei während des Beschwerdeverfahrens der erstinstanzlichen Behörde.
 
-#### Art. 53
+<sup>7</sup> Wurde die aufschiebende Wirkung auf Gesuch des Beschwerdeführers angeordnet, so wird von diesem die Leistung von Sicherheiten für Verfahrenskosten und für eine allfällige Parteientschädigung verlangt. Werden die Sicherheiten nicht innert der von der zuständigen Behörde festgelegten Frist geleistet, so wird die verfügte aufschiebende Wirkung hinfällig.
+
+#### Art. 65
 
 **Schaden**
 
-<sup>1</sup> Der Beschwerdeführer hat den durch das Gesuch um aufschiebende Wirkung entstandenen Schaden zu ersetzen, wenn er arglistig oder grobfahrlässig gehandelt hat.
-
-<sup>2</sup> Die Schadenersatzklage ist nach Wahl des Klägers beim Zivilrichter, in dessen Kreis das vom Baugesuch betroffene Grundstück liegt, oder am Wohnsitz des Beschwerdeführers zu erheben.
+<sup>1</sup> Der Beschwerdeführer hat den durch das Gesuch um aufschiebende Wirkung entstandenen Schaden in Anwendung der zivilrechtlichen Bestimmungen zu ersetzen, wenn er arglistig oder grobfahrlässig gehandelt hat.
 
 ## 4 Baupolizei
 
-#### Art. 54
+#### Art. 66
 
-**Zuständigkeiten und Oberaufsicht**
+**Zuständigkeiten**
 
 <sup>1</sup> Die Baupolizei ist Aufgabe der zuständigen Baubewilligungsbehörde.
 
-<sup>2</sup> Der Staatsrat übt die Oberaufsicht über die Baupolizei aus. Für ihn handelt das zuständige Departement.
+<sup>2</sup> Die Organe der Baupolizei treffen im Rahmen ihrer Zuständigkeit alle Massnahmen, die zur Anwendung des vorliegenden Gesetzes erforderlich sind.
 
-<sup>3</sup> Die Organe der Baupolizei treffen im Rahmen ihrer Zuständigkeit alle Massnahmen, die zur Durchführung des vorliegenden Gesetzes erforderlich sind.
+#### Art. 67
 
-#### Art. 55
-
-**Aufgaben**
+**Aufgaben der Organe der Baupolizei**
 
 <sup>1</sup> Den Baupolizeibehörden obliegt insbesondere:
 
-- a) die Wiederherstellung des rechtmässigen Zustands bei widerrechtlicher Bauausführung oder bei nachträglicher Missachtung von Bauvorschriften, Bedingungen und Auflagen;
-- b) die Beseitigung von Störungen der öffentlichen Ordnung, die von unvollendeten, mangelhaft unterhaltenen oder anderweitig ordnungswidrigen Bauten und Anlagen ausgehen;
-- c) die Erteilung oder Verweigerung der Wohn- oder Nutzungsbewilligung;
+- a) die Anordnung der Wiederherstellung des rechtmässigen Zustands bei widerrechtlicher Bauausführung oder bei nachträglicher Missachtung von Bauvorschriften, Bedingungen und Auflagen;
+- b) die Anordnung der Beseitigung von Störungen der öffentlichen Ordnung, die von unvollendeten, mangelhaft unterhaltenen oder anderweitig ordnungswidrigen Bauten und Anlagen ausgehen;
+- c) die Erteilung, die Verweigerung oder der Widerruf der Wohn- oder Nutzungsbewilligung;
 - d) die Erstellung eines Protokolls über die begangenen Widerhandlungen.
 
-<sup>2</sup> Zur Feststellung des Sachverhalts können die Organe der Baupolizei namentlich:
+<sup>2</sup> Zur Feststellung des Sachverhalts dürfen die Organe der Baupolizei namentlich:
 
 - a) Anhörungen durchführen;
 - b) Grundstücke betreten, Baustellen, Räume und andere Anlagen inspizieren;
-- c) von den angesprochenen Personen alle Auskünfte, wie auch alle nötigen Dokumente über die sich in Ausführung befindlichen Arbeiten und die früheren Belege über das Objekt verlangen.
+- c) von den befragten Personen, den derzeitigen oder früheren Eigentümern oder Drittbehörden alle Auskünfte wie auch alle nötigen Dokumente über die sich in Ausführung befindlichen Arbeiten und die früheren Belege über das Objekt verlangen;
+- d) Bestandsaufnahmen, Probebohrungen oder Analysen durchführen oder durchführen lassen.
 
-<sup>3</sup> Der Inhaber einer Baubewilligung oder sein Vertreter ist verpflichtet:
+<sup>3</sup> Die Gemeindeangestellten und die Angestellten des Kantons Wallis, die für diesen Zweck vom Gemeinderat respektive vom Staatsrat eingesetzt wurden, sind verpflichtet, die KBK über alle Bauarbeiten an ausserhalb der Bauzonen befindlichen Objekten zu informieren, die ohne Baubewilligung, unter Nichteinhaltung der erteilten Bewilligung oder unter Verletzung anderer Vorschriften ausgeführt werden. Die gleichen Verpflichtungen gelten für Personen, die Mitglied der zuständigen Baubewilligungsbehörde sind. Die Interventionskosten der Gemeinden werden dem Kanton in Rechnung gestellt.
 
-- a) während der Dauer der Bauarbeiten am Eingang der Baustelle auf seine Kosten eine Bescheinigung der Baubewilligung anzubringen, wenn die zuständige Behörde dies in der Baubewilligung verlangt;
-- b) der zuständigen Behörde den Baubeginn und die Beendigung der Bauarbeiten mitzuteilen. Vorbehalten bleibt die Verpflichtung der Anzeige an andere Behörden, insbesondere an das für den Zivilschutz zuständige Amt.
-
-<sup>4</sup> Die Gemeindearbeiter und das Staatspersonal, die für diesen Zweck vom Gemeinderat respektive vom Staatsrat eingesetzt wurden, sind verpflichtet, die KBK über alle Bauarbeiten an ausserhalb der Bauzonen befindlichen Objekten zu informieren, die ohne Baubewilligung, in Nichteinhaltung der erteilten Bewilligung oder in Verletzung anderer Vorschriften ausgeführt werden. Die Interventionskosten der Gemeinden werden dem Kanton in Rechnung gestellt.
-
-#### Art. 56
+#### Art. 68
 
 **Einstellung der Bauarbeiten und Benützungsverbot**
 
-<sup>1</sup> Wird ein Bauvorhaben ohne Baubewilligung oder in Abweichung von einer erteilten Baubewilligung ausgeführt oder werden bei der Ausführung eines bewilligten Vorhabens Vorschriften verletzt, verfügt die zuständige Behörde die totale oder teilweise Einstellung der Bauarbeiten und lässt diese befolgen. Wenn es die Umstände erfordern, kann sie für widerrechtlich erstellte Bauten und Anlagen ein Benützungsverbot erlassen.
+<sup>1</sup> Wird ein Bauvorhaben ohne Baubewilligung oder in Abweichung von einer erteilten Baubewilligung ausgeführt oder werden bei der Ausführung eines bewilligten Vorhabens Vorschriften verletzt, verfügt die zuständige Behörde die vollständige oder teilweise Einstellung der Bauarbeiten und sorgt für deren Befolgung.
 
-<sup>2</sup> Diese Verfügungen sind unverzüglich vollstreckbar und eine Beschwerde gegen sie hat keine aufschiebende Wirkung.
+<sup>2</sup> Wenn es die Umstände erfordern, namentlich bei fehlender Wohn- oder Nutzungsbewilligung, aus Sicherheits- oder Umweltschutzgründen, kann sie ein vollständiges oder teilweises Verbot der Bewohnung oder Nutzung der Bauten und Anlagen erlassen.
 
-#### Art. 57
+<sup>3</sup> Die anderen Organe der Baupolizei, namentlich die Inspektoren der Baupolizei, die der zuständigen Behörde unterstellt sind, können ebenfalls die Einstellung der Arbeiten und, bei unmittelbarer Gefahr für die Sicherheit von Menschen, Tieren oder der Umwelt, das Verbot der Bewohnung oder Nutzung anordnen.
+
+<sup>4</sup> Diese Verfügungen sind unverzüglich vollstreckbar und eine Beschwerde gegen sie hat keine aufschiebende Wirkung. Die zuständige Behörde kann ihre Anmerkung im Grundbuch verlangen.
+
+#### Art. 69
 
 **Wiederherstellung des rechtmässigen Zustands und Legalisierung**
 
 <sup>1</sup> Wird ein Bauvorhaben ohne Baubewilligung oder in Abweichung von einer erteilten Baubewilligung ausgeführt oder werden bei der Ausführung eines bewilligten Vorhabens Vorschriften verletzt, setzt die zuständige Behörde dem Störer (Zustandsstörer und/oder Verhaltensstörer) eine angemessene Frist zur Abgabe einer Stellungnahme zu den ausgeführten Bauarbeiten.
 
-<sup>2</sup> Ist eine Legalisierung der Baute nicht von vornherein ausgeschlossen, so gewährt die Behörde zur Legalisierung der ausgeführten Arbeiten eine angemessene Frist zur Eingabe eines Baugesuchs. Wird innert der gewährten Frist kein Gesuch eingereicht, lässt die Behörde auf Kosten des Störers ein Baugesuchsdossier erarbeiten. Zur Sicherstellung der Forderungen und Zinsen der Erstellung des Dossier und des Verfahrens verfügt das durchführende Gemeinwesen über ein gesetzliches Pfandrecht, vorrangig vor allen anderen auf dem Grundstück lastenden Pfandrechten, das zur Gültigkeit keiner Eintragung in das Grundbuch bedarf.
+<sup>2</sup> Ist eine Legalisierung der Baute nicht von vornherein ausgeschlossen, so gewährt die Behörde eine angemessene Frist zur Eingabe eines Baugesuchs zur Legalisierung der ausgeführten Arbeiten. Wird innert der gewährten Frist kein Gesuch eingereicht, erlässt die Behörde eine Verfügung zur Wiederherstellung des rechtmässigen Zustands.
 
-<sup>3</sup> Ist eine Legalisierung der Baute von vornherein offensichtlich ausgeschlossen, so erlässt die Behörde eine Verfügung zur Wiederherstellung des rechtmässigen Zustands. Diese Verfügung muss die genaue Bezeichnung der Massnahmen, die zur Herbeiführung des rechtmässigen Zustands zu treffen sind, die Frist, innert welcher die verfügten Massnahmen auszuführen sind, die Androhung der Ersatzvornahme von Amtes wegen im Unterlassungsfall sowie die Rechtsmittelbelehrung enthalten.
+<sup>3</sup> Ist eine Legalisierung der Baute von vornherein offensichtlich ausgeschlossen, so erlässt die zuständige Behörde eine Verfügung zur Wiederherstellung des rechtmässigen Zustands. Diese Verfügung muss die genaue Bezeichnung der Massnahmen, die zur Herbeiführung des rechtmässigen Zustands zu treffen sind, die Frist zur Umsetzung, die Androhung der Ersatzvornahme von Amtes wegen im Unterlassungsfall sowie die Rechtsmittelbelehrung enthalten. Die zuständige Behörde kann ihre Anmerkung im Grundbuch verlangen.
 
-<sup>4</sup> Nach Ablauf von zehn Jahren, seitdem die Rechtswidrigkeit erkennbar war, kann die Wiederherstellung des rechtmässigen Zustands nur verlangt werden, wenn zwingende öffentliche Interessen es erfordern. Die absolute Verjährung beträgt 20 Jahre nach Beendigung der Bauarbeiten.
+<sup>4</sup> Nach Ablauf von 10 Jahren, seitdem die Rechtswidrigkeit erkennbar war, kann die Wiederherstellung des rechtmässigen Zustands nur verlangt werden, wenn zwingende öffentliche Interessen es erfordern. Die absolute Verjährung beträgt 20 Jahre nach Beendigung der Bauarbeiten.
 
-#### Art. 58
+<sup>5</sup> Ausserhalb der Bauzone gelten die bundesrechtlichen Vorschriften und Bedingungen für die Wiederherstellung des ursprünglichen Zustandes.
+
+#### Art. 70
 
 **Störung der öffentlichen Ordnung**
 
 <sup>1</sup> Die Landschaft, die Umwelt, das Ortsbild, die Sicherheit und die Gesundheit von Personen sowie erhebliche Sachwerte dürfen nicht durch unvollendete, mangelhaft unterhaltene, beschädigte oder vorschriftswidrig betriebene Bauten und Anlagen beeinträchtigt werden.
 
-<sup>2</sup> Wer die öffentliche Ordnung in der genannten Weise stört, ist von der Baupolizeibehörde zur Behebung der Störung innert angemessener Frist aufzufordern. Ist der Störer unbekannt, so ist die Aufforderung an den Eigentümer des Grundstücks zu richten, von dem die Störung ausgeht.
+<sup>2</sup> Gestützt auf die Raumplanungsgesetzgebung unter Schutz gestellte Gebäude müssen so instandgehalten werden, dass die Schutzwürdigkeit gewährleistet ist. Die Vorschriften über die Unterhaltspflicht für Gebäude, die aufgrund einer Spezialgesetzgebung unter Schutz gestellt wurden, bleiben vorbehalten.
 
-#### Art. 59
+<sup>3</sup> Wer die öffentliche Ordnung in der genannten Weise stört oder die Instandhaltung eines unter Schutz gestellten Gebäudes unterlässt, ist von der Baupolizeibehörde zur Behebung der Störung innert angemessener Frist aufzufordern. Ist der Störer unbekannt, so ist die Aufforderung an den Eigentümer des Grundstücks zu richten, von dem die Störung ausgeht.
+
+#### Art. 71
 
 **Beseitigung nicht mehr genutzter oder nicht mehr betriebener Bauten und Anlagen**
 
-<sup>1</sup> Wenn eine Baute und Anlage nicht mehr genutzt oder betrieben wird und aus Gründen des Landschaftsschutzes, der Raumentwicklung, des Umweltschutzes, der Gesundheit oder der Sicherheit ein überwiegendes öffentliches Interesse an ihrer Beseitigung besteht, kann die Baupolizeibehörde vom Eigentümer, Baurechtsnehmer oder jeder anderen Person, welche die Herrschaft über die Baute oder Anlage hat oder hatte, verlangen, dass sie zur Deckung der Kosten für die Beseitigung der Baute oder Anlage und die vollständige Wiederherstellung des ursprünglichen Zustands sowie zur Deckung der Kosten einer allfälligen Ersatzvornahme eine Sicherheitsleistung in angemessener Form (Personalsicherheiten, Realsicherheiten, andere Sicherheiten) erbringt.
+<sup>1</sup> Wenn Bauten und Anlagen nicht mehr genutzt oder betrieben werden und aus Gründen des Landschaftsschutzes, der Raumplanung, des Umweltschutzes, der Gesundheit oder der Sicherheit ein überwiegendes öffentliches Interesse an ihrer Beseitigung besteht, kann die Baupolizeibehörde vom Eigentümer, Baurechtsnehmer oder jeder anderen Person, welche die Herrschaft über die Baute oder Anlage hat oder hatte, verlangen, dass sie zur Deckung der Kosten für die Beseitigung der Baute oder Anlage und die vollständige Wiederherstellung des ursprünglichen Zustands sowie zur Deckung der Kosten einer allfälligen Ersatzvornahme eine Sicherheitsleistung in angemessener Form (Personalsicherheiten, Realsicherheiten, andere Sicherheiten) erbringt.
 
-<sup>2</sup> Bevor die Behörde die Sicherheitsleistung anordnet, setzt sie eine angemessene Frist für die Stellungnahme zu Art, Umfang und Modalitäten der Sicherheit. Die Höhe der Sicherheit wird unter Berücksichtigung von Art, Aufwand und Besonderheiten der auszuführenden Arbeiten festgelegt. Die Behörde und der Empfänger der Anordnung können sich auf die Bedingungen der Sicherheit einigen, so dass diese nicht verfügt werden muss.
+<sup>2</sup> Bevor die Behörde die Sicherheitsleistung anordnet, setzt sie eine angemessene Frist für die Stellungnahme zu Art, Umfang und Modalitäten der Sicherheit. Die Höhe der Sicherheit wird unter Berücksichtigung von Art, Aufwand und Besonderheiten der auszuführenden Arbeiten festgelegt. Die Behörde und der Empfänger der Anordnung können sich auf die Bedingungen der Sicherheit einigen, sodass diese nicht verfügt werden muss.
 
-<sup>3</sup> Sind die Voraussetzungen von Absatz 1 erfüllt, setzt die Baupolizeibehörde eine angemessene Frist für die Beseitigung der Baute und Anlage und die Wiederherstellung des ursprünglichen Zustands, unter Androhung der Ersatzvornahme.
+<sup>3</sup> Sind die Voraussetzungen von Absatz 1 erfüllt, setzt die Baupolizeibehörde eine angemessene Frist für die Beseitigung der Baute oder Anlage und die Wiederherstellung des ursprünglichen Zustands, unter Androhung einer Ersatzvornahme.
 
-<sup>4</sup> Entscheide betreffend die Sicherheitsleistungen sowie die Beseitigung der Baute und Anlage und die Wiederherstellung des ursprünglichen Zustands können auch gefällt werden, wenn dies in der Baubewilligung nicht erwähnt ist.
+<sup>4</sup> Entscheide betreffend die Sicherheitsleistungen sowie die Beseitigung der Baute oder Anlage und die Wiederherstellung des ursprünglichen Zustands können auch gefällt werden, wenn dies in der Baubewilligung nicht erwähnt ist.
 
 <sup>5</sup> Die Veräusserung oder die Teilung einer Liegenschaft, für die von einer Behörde eine Massnahme gemäss vorliegendem Artikel angeordnet wurde, ist von dieser Behörde zu bewilligen. Die zuständige Behörde lässt im Grundbuch die Anmerkung eintragen, dass die Liegenschaft mit einer Massnahme gemäss vorliegendem Artikel belastet ist.
 
-#### Art. 60
+#### Art. 72
 
 **Ersatzvornahme**
 
-<sup>1</sup> Verfügungen nach den Artikeln des vorliegenden Titels, die sofort vollstreckbar oder rechtskräftig sind, setzt die zuständige Behörde zwangsweise durch, wenn der Pflichtige trotz Androhung der Ersatzvornahme der Verfügung nicht nachkommt.
+<sup>1</sup> Verfügungen nach den Artikeln des vorliegenden Titels, die sofort vollstreckbar oder rechtskräftig sind, setzt die zuständige Behörde zwangsweise durch, wenn der Pflichtige trotz Androhung der Ersatzvornahme den Verfügungen nicht nachkommt.
 
-<sup>2</sup> Besteht unmittelbare und ernste Gefahr für Personen oder erhebliche Sachwerte, so handelt die zuständige Behörde ohne weiteres Verfahren.
+<sup>2</sup> Besteht unmittelbare und ernste Gefahr für Personen oder erhebliche Sachwerte oder die Gefahr einer schweren Beeinträchtigung der Umwelt, so handelt die zuständige Behörde ohne weiteres Verfahren. Wenn die Behörde bewilligungspflichtige Massnahmen ergreift, sind die Massnahmen Gegenstand eines nachträglichen Bewilligungsverfahrens.
 
 <sup>3</sup> Die Kosten der Ersatzvornahme sind vom Pflichtigen zu tragen. Das durchführende Gemeinwesen verfügt für Forderungen und Zinsen über ein gesetzliches Pfandrecht, vorrangig vor allen anderen auf dem Grundstück lastenden Pfandrechten, das zur Gültigkeit keiner Eintragung in das Grundbuch bedarf.
 
-<sup>4</sup> Vernachlässigt eine Baupolizeibehörde ihre Pflichten, verfügt an ihrer Stelle der Staatsrat die erforderlichen Massnahmen. Die Gemeinde haftet gegenüber dem Staat für die Kosten dieser Intervention.
+<sup>4</sup> Die zuständige Behörde kann die Unterstützung der Kantonspolizei anfordern, wenn die Umstände dies erfordern, insbesondere um einer drohenden Störung der öffentlichen Ordnung vorzubeugen oder die Sicherheit der Beteiligten zu gewährleisten.
 
-#### Art. 60a
+#### Art. 73
 
-**Einleitung und Abwicklung des baupolizeilichen Verfahrens**
+**Einleitung und Ablauf des baupolizeilichen Verfahrens**
 
-<sup>1</sup> Die Baupolizeibehörden richten ihre erste Korrespondenz im Papierformat an den Störer. Wird die Nutzung der Plattform angeboten, setzen die Baupolizeibehörden dem Störer eine Frist, innerhalb der er mitteilen muss, ob das Verfahren im Papierformat oder im digitalen Format geführt werden soll. Antwortet der Störer nicht innerhalb der gesetzten Frist, ist das Papierformat zu verwenden.
+<sup>1</sup> Die Baupolizeibehörden richten ihre erste Korrespondenz im Papierformat an den Störer. Wird die Nutzung der Plattform angeboten, setzen die Baupolizeibehörden dem Störer eine Frist, innerhalb derer er mitteilen muss, ob das Verfahren im Papierformat oder im digitalen Format geführt werden soll. Antwortet der Störer nicht innerhalb der gesetzten Frist, ist das Papierformat zu verwenden.
 
-<sup>2</sup> Sobald das für das Verfahren gewählte Format bestimmt ist, wird das Verfahren bis zur Archivierung des Dossiers in diesem Format weitergeführt. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
+<sup>2</sup> Solange der Störer das Verfahrensformat nicht gewählt hat, können die Organe der Baupolizei ihre Handlungen im Papierformat durchführen.
 
-<sup>3</sup> Im Übrigen gelten die für das Baubewilligungsverfahren anwendbaren Bestimmungen des vorliegenden Gesetzes und seiner Verordnung sinngemäss auch für die baupolizeilichen Verfahren, soweit das vorliegende Gesetz und seine Verordnung nichts anderes vorsehen.
+<sup>3</sup> Sobald das für das Verfahren gewählte Format bestimmt ist, wird das Verfahren bis zur Archivierung des Dossiers in diesem Format weitergeführt. In Ausnahmefällen kann die Behörde auf begründetes Gesuch hin einer Änderung des Formats zustimmen.
+
+<sup>4</sup> Im Übrigen gelten die für das Baubewilligungsverfahren anwendbaren Bestimmungen des vorliegenden Gesetzes und seiner Verordnung sinngemäss auch für die baupolizeilichen Verfahren, soweit das vorliegende Gesetz und seine Verordnung nichts anderes vorsehen.
 
 ## 5 Strafbestimmungen
 
-#### Art. 61
+#### Art. 74
 
-**Straftatbestände und Strafandrohungen**
+**Straftatbestände und Sanktionen**
 
-<sup>1</sup> Mit einer Busse von 1'000 bis 100'000 Franken wird von der zuständigen Behörde bestraft:
+<sup>1</sup> Mit einer Busse zwischen 1’000 und 100’000 Franken wird von der zuständigen Behörde bestraft:
 
-- a) wer als Verantwortlicher (insbesondere als Eigentümer, Gesuchsteller, Projektverantwortlicher, Bauherr, Architekt, Ingenieur, Bauleiter, Bauunternehmer) Bauarbeiten ausführt oder ausführen lässt, ohne im Besitze einer Baubewilligung zu sein, oder dessen Baubewilligung noch nicht rechtskräftig geworden ist, der zuständigen Behörde den Baubeginn und die Beendigung der Bauarbeiten nicht anzeigt, die Bedingungen und Auflagen der erteilten Baubewilligung nicht einhält, eine Baubewilligung aufgrund ungenauer Angaben beantragt, ohne Wohn- oder Nutzungsbewilligung eine Baute oder Anlage bewohnt, vermietet oder benutzt, baupolizeilichen Anordnungen nicht nachkommt, die ihm gegenüber ergangen sind;
+- a) wer als Verantwortlicher (insbesondere als Eigentümer, Gesuchsteller, Projektverantwortlicher, Bauherr, Architekt, Ingenieur, Bauleiter, Bauunternehmer) Bauarbeiten ausführt oder ausführen lässt, ohne im Besitze einer Baubewilligung zu sein, oder dessen Baubewilligung noch nicht rechtskräftig geworden ist, der zuständigen Behörde den Baubeginn und die Beendigung der Bauarbeiten nicht anzeigt, die Bedingungen und Auflagen der erteilten Baubewilligung nicht einhält, eine Baubewilligung aufgrund ungenauer Angaben beantragt, ohne Wohn- oder Nutzungsbewilligung eine Baute oder Anlage bewohnt, vermietet oder nutzt, baupolizeilichen Anordnungen nicht nachkommt, die ihm gegenüber ergangen sind;
 - b) wer einer ihm vom vorliegenden Gesetz auferlegten Verpflichtung nicht nachkommt;
 - c) wer in irgendeiner anderen Weise gegen die Bestimmungen des vorliegenden Gesetzes oder dessen Ausführungsbestimmungen verstösst.
 
-<sup>2</sup> In schweren Fällen, insbesondere bei Ausführung von Bauten und Anlagen trotz rechtskräftigem Bauabschlag, bei Verletzung der Vorschriften aus Habgier oder im Wiederholungsfall, kann die Busse bis auf 200'000 Franken erhöht werden. Ausserdem sind widerrechtliche Gewinne gemäss den Bestimmungen des Schweizerischen Strafgesetzbuches einzuziehen.
+<sup>2</sup> In leichten Fällen kann die Busse reduziert werden.
 
-<sup>3</sup> Eine Busse von mindestens 10'000 Franken wird gegenüber demjenigen ausgesprochen, der Bauarbeiten weiterführt oder Bauten und Anlagen weiterhin benutzt, obwohl ihm eine Baueinstellung oder ein Benützungsverbot zugestellt wurde.
+<sup>3</sup> In schweren Fällen, insbesondere bei Ausführung von Bauvorhaben trotz rechtskräftigem Bauabschlag, bei Verletzung der Vorschriften aus Habgier oder im Wiederholungsfall oder bei nicht wiedergutzumachendem Schaden, kann die Busse bis auf 500’000 Franken erhöht werden. Unrechtmässige Gewinne werden eingezogen. Sind die Gewinne nicht mehr vorhanden oder können sie nicht oder nur mit erheblichem Aufwand eingezogen werden, zum Beispiel bei einer Überführung ins Ausland, so spricht die zuständige Behörde eine Ersatzforderung aus. Die Bestimmungen des Schweizerischen Strafgesetzbuches sind sinngemäss auf die Einziehung von Gewinnen und die Ersatzforderung anwendbar.
 
-<sup>4</sup> Wird einer Wiederherstellungsverfügung nicht innert der gewährten Frist nachgekommen, spricht die zuständige Behörde eine Busse aus. Beschliesst die zuständige Behörde, ausnahmsweise eine weitere Frist zu gewähren, so erhöht sich die Busse mit jeder weiteren gewährten Frist.
+<sup>4</sup> Eine Busse von mindestens 10’000 Franken wird gegenüber demjenigen ausgesprochen, der Bauarbeiten weiterführt oder Bauten und Anlagen weiterhin benutzt, obwohl ihm eine Arbeitseinstellung oder ein Wohn- oder Benützungsverbot zugestellt wurde.
 
-<sup>5</sup> Vorbehalten bleiben strengere Strafbestimmungen anderer Gesetzgebungen.
+<sup>5</sup> Wird einer Wiederherstellungsverfügung nicht innert der gewährten Frist nachgekommen, spricht die zuständige Behörde eine Busse aus. Beschliesst die zuständige Behörde, ausnahmsweise eine weitere Frist zu gewähren, ungeachtet der Nichterfüllung, so erhöht sich die Busse mit jeder weiteren gewährten Frist.
 
-#### Art. 62
+<sup>6</sup> Vorbehalten bleiben strengere Strafbestimmungen anderer Gesetzgebungen.
+
+<sup>7</sup> Stellt die Behörde fest, dass möglicherweise eine Straftat begangen wurde, die von einer anderen Behörde verfolgt wird, zeigt sie den Fall dieser Behörde an und übermittelt ihr die Informationen aus ihren Dossiers.
+
+#### Art. 75
 
 **Verjährung**
 
-<sup>1</sup> Die Widerhandlungen verjähren nach sieben Jahren.
+<sup>1</sup> Die Strafverfolgung verjährt 7 Jahre nach Begehung der Straftat. Die Verjährung läuft nicht während einer vom Betroffenen beantragten Sistierung des Verfahrens.
 
-#### Art. 63
+<sup>2</sup> Die Strafe verjährt nach 3 Jahren. Die Verjährung beginnt, sobald der Strafentscheid rechtskräftig und vollstreckbar ist.
+
+#### Art. 76
 
 **Verschiedene Bestimmungen**
 
-<sup>1</sup> Bussen bis zu 5'000 Franken sind nach der Schwere der Widerhandlung und des Verschuldens zu bemessen. Andere Strafzumessungsgründe muss die zuständige Behörde nicht berücksichtigen.
+<sup>1</sup> Bussen bis zu 5’000 Franken sind nach der Schwere der Widerhandlung und des Verschuldens zu bemessen; andere Strafzumessungsgründe muss die zuständige Behörde nicht berücksichtigen.
 
-<sup>2</sup> Wird eine Widerhandlung bei der Geschäftsführung einer juristischen Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspersönlichkeit oder sonst in Ausübung geschäftlicher oder dienstlicher Verrichtungen für einen Dritten begangen, so kann die Behörde diese zur Bezahlung der Busse verurteilen und deren widerrechtlichen Gewinn einziehen.
+<sup>2</sup> Wird eine Widerhandlung bei der Geschäftsführung einer juristischen Person, Kollektiv- oder Kommanditgesellschaft, Einzelfirma oder Personengesamtheit ohne Rechtspersönlichkeit oder sonst in Ausübung geschäftlicher oder dienstlicher Verrichtungen für einen Dritten begangen, so kann die Behörde diese zur Bezahlung der Busse verurteilen und deren widerrechtlichen Gewinn einziehen oder sie zu einer Ersatzforderung verpflichten.
 
-<sup>3</sup> Staat und Gemeinden können im Strafverfahren Parteirechte ausüben. Sie sind befugt, auch hinsichtlich des Strafmasses Berufung einzulegen.
+<sup>3</sup> Der Staat, vertreten durch den Staatsrat, und die Gemeinden können im Strafverfahren Parteirechte ausüben. Sie sind befugt, auch hinsichtlich des Schuldpunkts, der Strafart oder des Strafmasses Beschwerde oder Berufung einzulegen.
 
 <sup>4</sup> Falls das vorliegende Gesetz keine besonderen Bestimmungen enthält, gelangen die eidgenössischen und kantonalen Strafgesetzgebungen zur Anwendung.
 
-## 6 Kosten und Parteientschädigungen
+## 6 Oberaufsicht
 
-#### Art. 64
+#### Art. 77
+
+**Zuständigkeit**
+
+<sup>1</sup> Der Staatsrat übt, über das zuständige Departement, die Oberaufsicht im öffentlichen Baurecht aus.
+
+<sup>2</sup> Er kann die Untersuchung oder bestimmte Untersuchungsaufgaben an die Dienststelle oder eine von ihm ernannte Ad-hoc-Arbeitsgruppe delegieren.
+
+<sup>3</sup> Lässt eine zuständige Baubehörde eine Situation fortbestehen, die eine Gefahr für die körperliche Unversehrtheit oder die Gesundheit von Personen oder eine ernste Gefahr für die Umwelt darstellt, kann die Dienststelle die erforderlichen vorsorglichen Massnahmen anordnen. Ihr Entscheid wird unverzüglich der Aufsichtsbehörde zur Bestätigung mitgeteilt. Diese kann den Entscheid der Dienststelle innerhalb von 30 Tagen ganz oder teilweise widerrufen.
+
+#### Art. 78
+
+**Voruntersuchung**
+
+<sup>1</sup> Wenn die Aufsichtsbehörde von einer Situation erfährt, die in ihre Zuständigkeit fallen könnte, fordert sie die betroffene zuständige Behörde auf, sich zu äussern, und setzt ihr eine Frist zur Stellungnahme, bevor sie ein Aufsichtsverfahren einleitet.
+
+<sup>2</sup> Die Aufsichtsbehörde kann die Einleitung eines Aufsichtsverfahrens aussetzen und sich über die Entwicklung der Lage informieren lassen. Sie kann der betroffenen zuständigen Behörde Massnahmen empfehlen, die sie für angemessen hält. Diese Empfehlungen sind für die betroffene zuständige Behörde nicht bindend.
+
+<sup>3</sup> Stellt sich heraus, dass der Sachverhalt nicht in den Zuständigkeitsbereich der Aufsichtsbehörde fällt, verzichtet diese auf die Einleitung eines Verfahrens und schliesst den Fall ab. Sie setzt die betroffene zuständige Behörde davon in Kenntnis. In klaren Fällen kann sie auch auf die Eröffnung eines Verfahrens verzichten und den Fall abschliessen, ohne die betroffene zuständige Behörde vorher anzuhören.
+
+#### Art. 79
+
+**Aufsichtsverfahren**
+
+<sup>1</sup> Besteht der Verdacht, dass eine zuständige Behörde ihre Aufgaben im Bereich des öffentlichen Baurechts vernachlässigt, sich ihren gesetzlichen Verpflichtungen entzieht, gegen die einschlägigen gesetzlichen Bestimmungen verstösst oder Anfragen der Aufsichtsbehörde nicht oder nicht vollständig beantwortet, so eröffnet die Aufsichtsbehörde formell ein Verfahren und informiert die betreffende zuständige Behörde darüber.
+
+<sup>2</sup> Unter Vorbehalt der Bestimmungen dieses Kapitels findet das Verfahren nach dem Gemeindegesetz (GemG) sinngemäss Anwendung.
+
+#### Art. 80
+
+**Kosten**
+
+<sup>1</sup> Alle durch das Aufsichtsverfahren verursachten Kosten sind, sofern ein Fehlverhalten festgestellt wurde, von der beaufsichtigten Behörde zu tragen.
+
+## 7 Kosten und Parteientschädigungen
+
+#### Art. 81
 
 **Kosten und Parteientschädigungen**
 
-<sup>1</sup> Die Gemeinden, die KBK und das Kantonale Bausekretariat erheben für ihre Tätigkeiten im Baubewilligungsverfahren gesonderte Kosten. Diese Kosten beinhalten die Gebühren und die Auslagen.
+<sup>1</sup> Die Gemeinden, die KBK und der ISBB erheben für ihre Tätigkeiten im Baubewilligungsverfahren gesonderte Kosten. Diese Kosten beinhalten die Gebühren und die Auslagen, einschliesslich der Kosten für Gutachten.
 
-<sup>2</sup> Die von der KBK und vom Kantonalen Bausekretariat erhobenen Kosten werden durch einen Beschluss des Staatsrates festgelegt. Die Gebühren können zwischen mindestens 100 Franken und maximal 4'000 Franken pro behandeltes Dossier und pro erteilte Baubewilligung betragen. Bei komplexen Dossiers, namentlich solchen, die eine Rodungsbewilligung oder eine Umweltverträglichkeitsprüfung beinhalten, kann der Betrag auf maximal 15'000 Franken erhöht werden.
+<sup>2</sup> Die von der KBK und vom ISBB erhobenen Kosten werden durch einen Beschluss des Staatsrates festgelegt. Die von den Gemeinden erhobenen Kosten werden durch einen vom zuständigen Gemeinderat beschlossenen Tarif festgelegt. Die Gebühren können zwischen mindestens 100 Franken und höchstens 4’000 Franken pro behandeltes Dossier und pro erteilte Baubewilligung betragen. Bei komplexen Dossiers, namentlich solchen, die eine Rodungsbewilligung, ein Gutachten oder eine Umweltverträglichkeitsprüfung beinhalten, kann der Betrag auf maximal 15’000 Franken erhöht werden.
 
-<sup>3</sup> Die Kosten betreffend die Baupolizei sind im VVRG geregelt.
+<sup>3</sup> Im Übrigen sind die Kosten und Parteientschädigungen im VVRG und im Gesetz betreffend den Tarif der Kosten und Entschädigungen vor Gerichts- oder Verwaltungsbehörden (GTar) geregelt.
 
-<sup>4</sup> Darüber hinaus sind die Kosten und Parteientschädigungen im VVRG geregelt.
+#### Art. 82
 
-#### Art. 65
+**Kosten für Baubewilligungen**
 
-**Kostentragung des Bewilligungsverfahrens und der Baupolizei**
-
-<sup>1</sup> Der Gesuchsteller oder sein Vertreter trägt die Kosten für die Erteilung oder die Verweigerung der Baubewilligung.
+<sup>1</sup> Der Gesuchsteller trägt die Kosten für die Erteilung oder die Verweigerung der Baubewilligung.
 
 <sup>2</sup> Dem Einsprecher können die Kosten auferlegt werden, die er durch offensichtlich unbegründete Einsprachen verursacht hat oder wenn er offensichtlich nicht einspracheberechtigt ist.
 
-#### Art. 66
+#### Art. 83
 
 **Kostenvorschuss**
 
-<sup>1</sup> Die zuständige Behörde kann jederzeit vom Gesuchsteller oder von seinem Vertreter und von den Einsprechern, unter Ansetzung einer angemessenen Frist und mit dem Hinweis, dass im Unterlassungsfalle auf das Gesuch respektive auf die Einsprache nicht eingetreten wird, einen angemessenen Kostenvorschuss verlangen.
+<sup>1</sup> Die zuständige Behörde kann jederzeit vom Gesuchsteller, unter Ansetzung einer angemessenen Frist und mit dem Hinweis, dass im Unterlassungsfalle auf das Baugesuch nicht eingetreten wird, einen angemessenen Kostenvorschuss verlangen.
 
-## 7 Schlussbestimmung
+<sup>2</sup> Wenn eine Einsprache offensichtlich unbegründet erscheint oder dem Einsprecher die Einsprachelegitimation offensichtlich fehlt, teilt die Behörde dies dem Einsprecher mit und verlangt von ihm einen Kostenvorschuss.
 
-#### Art. 67
+## 8 Schlussbestimmung
+
+#### Art. 84
 
 **Vollzug**
 
@@ -875,41 +1051,53 @@ verordnet:[^ingress-1]
 
 - a) die Anwendung der baurechtlichen Vorschriften in besonderen Fällen;
 - b) das Baubewilligungsverfahren, insbesondere das Baugesuch, die beizubringenden Unterlagen, die vorläufige Prüfung, die Eröffnung der Entscheide;
-- c) die Organisation, die Zusammensetzung und die Aufgaben der KBK sowie des Kantonalen Bausekretariats, inklusive die Entscheidkompetenz des Präsidenten der KBK in Fällen von untergeordneter Bedeutung;
+- c) die Organisation und die Aufgaben der KBK, des ISBB sowie des SKBK, inklusive die Entscheidkompetenz des Präsidenten der KBK in Fällen von geringer Bedeutung;
 - d) die Baupolizei;
 - e) die Gültigkeit, die Dauer und die Verlängerung der Baubewilligung sowie den Baubeginn.
 
-## T1 Übergangsbestimmung
+## T1 Übergangsbestimmungen
 
 #### Art. T1-1
 
-**Anpassung der Vorschriften und Übergangsbestimmungen**
+**Allgemeine Übergangsbestimmungen**
 
-<sup>1</sup> Das vorliegende Gesetz ist ab seinem Inkrafttreten anwendbar. Sämtliche nach seinem Inkrafttreten gefällten Entscheide sind darauf zu stützen. Die folgenden Sonderbestimmungen sind anwendbar, bis die neuen kantonalen Bestimmungen innerhalb der im vorliegenden Artikel vorgegebenen Frist im BZR eingefügt worden sind:
+<sup>1</sup> Das vorliegende Gesetz ist ab seinem Inkrafttreten anwendbar. Sämtliche nach seinem Inkrafttreten gefällten Entscheide sind darauf zu stützen. Vorbehalten bleiben die Bestimmungen des vorliegenden Kapitels.
 
-- a) die Ausnützungsziffer nach altem Recht wird mit Inkrafttreten des vorliegenden Gesetzes durch die GFZ ersetzt. Eine Tabelle im Anhang zur BauV gibt für die bisherigen Werte der Ausnützungsziffer die entsprechenden GFZ-Werte an. Die Einführung der neuen Bauziffer soll keinesfalls zu einer Verringerung des Baupotenzials führen;
-- b) bis die kantonalen Bestimmungen im BZR eingefügt worden sind, werden die Gesamthöhe und die Fassadenhöhe nach altem Recht berechnet.
+<sup>2</sup> Die BZR müssen bis am 31. Dezember 2030 angepasst werden. Wenn die Legislative einer Gemeinde der Revision zugestimmt hat, kann der Staatsrat durch einen im Amtsblatt veröffentlichten Entscheid diese Frist für die betroffene Gemeinde bis zum Eintritt der Rechtskraft eines Homologationsentscheids verlängern.
 
-<sup>2</sup> Die BZR müssen bis 31. Dezember 2029 angepasst werden.
+<sup>3</sup> Solange die BZR nicht nach Massgabe von Absatz 2 angepasst wurden:
 
-<sup>3</sup> Während der Übergangsfrist können rein redaktionelle und nicht materiell-rechtliche Anpassungen wie terminologische Neubestimmungen und die Änderung von Verweisen auf das neue Recht sowie der Hinweis auf den Vorrang der neuen kantonalen Gesetzgebung Gegenstand eines Gemeinderatsbeschlusses sein.
+- a) wird die Ausnützungsziffer nach altem Recht durch die GFZ ersetzt. Anhang 1 zur BauV gibt für die bisherigen Werte der Ausnützungsziffer die entsprechenden GFZ-Werte an. Die Einführung der GFZ soll keinesfalls zu einer Verringerung des Baupotenzials führen;
+- b) müssen die vor der Revision des BZR genehmigten Quartierpläne oder Detailnutzungspläne die neuen Nutzungsziffern verwenden, ohne sich auf das alte Recht berufen zu können, auch wenn dieses vorteilhafter ist; das Reglement dieser Spezialpläne kann jedoch die Nutzungszuschläge vorsehen, welche die Gemeinden gemäss BauV in ihr BZR aufnehmen können, auch wenn dies noch nicht geschehen ist;
+- c) die Gesamthöhe und die Fassadenhöhe werden nach altem Recht berechnet;
+- d) die Bestimmungen über die Geschosse sind direkt anwendbar, selbst wenn die Regelungen des BZR strenger sein sollten, und zwar bis zur Anpassung des BZR im Sinne von Absatz 2.
 
-<sup>4</sup> Personen, welche die Mindestqualifikationen für die Erarbeitung von Plänen nicht erfüllen, erhalten eine Frist von fünf Jahren ab Inkrafttreten des vorliegenden Gesetzes, um die erforderlichen Kompetenzen oder Anerkennungen zu erwerben.
+#### Art. T1-2
 
-## T2 Übergangsbestimmung der Änderung vom 11. Februar 2021
+**Beschwerde und Aufsicht**
 
-#### Art. T2-1
+<sup>1</sup> Beschwerdeverfahren richten sich nach dem Recht, das zum Zeitpunkt gilt, zu dem die erstinstanzliche Behörde ihren Entscheid gefällt hat.
 
-<sup>1</sup> Der Zeitplan für die Initialisierung der Plattform wird vom Staatsrat festgelegt. Der Staatsrat stellt ebenfalls für jede Gemeinde und das KBS einzeln fest, dass die Plattform funktionstüchtig ist.
+<sup>2</sup> Das auf das Oberaufsichtsverfahren anwendbare Recht richtet sich nach dem Zeitpunkt der Einleitung des Verfahrens.
 
-<sup>2</sup> In den 6 Monaten nach der Feststellung der Funktionstüchtigkeit der Plattform in einer Gemeinde oder beim KBS durch den Staatsrat werden in Papierform eingereichte Dossier von der zuständigen Behörde kostenlos digitalisiert und auf der Plattform eingegeben.
+#### Art. T1-3
 
-## T3 Übergangsbestimmung der Änderung vom 15. September 2022
+**Digitale Plattform**
 
-#### Art. T3-1
+<sup>1</sup> Der Zeitplan für die Initialisierung der Plattform wird vom Staatsrat festgelegt. Der Staatsrat stellt für jede Gemeinde und das SKBK einzeln fest, dass die Plattform funktionstüchtig ist.
 
-<sup>1</sup> Das vorliegende Gesetz ist ab seinem Inkrafttreten anwendbar, auch auf die von ihm geregelten hängigen Verfahren.
+<sup>2</sup> In den 6 Monaten nach der Feststellung der Funktionstüchtigkeit der Plattform in einer Gemeinde oder beim SKBK durch den Staatsrat werden in Papierform eingereichte Dossier von der zuständigen Behörde kostenlos digitalisiert und auf der Plattform erfasst.
 
-<sup>2</sup> Die in Artikel 2a des vorliegenden Gesetzes erwähnten Verfahren werden bis zum 31. Dezember 2024 implementiert und auf der Plattform der Öffentlichkeit zugänglich gemacht. Die Implementierung eines Verfahrens auf der Plattform und seine öffentliche Zugänglichkeit werden vom für Bauwesen zuständigen Departement im Amtsblatt bekannt gegeben.
+<sup>3</sup> Die in Artikel 8 des vorliegenden Gesetzes erwähnten Verfahren werden bis zum 31. Dezember 2026 implementiert und auf der Plattform der Öffentlichkeit zugänglich gemacht. Die Implementierung eines Verfahrens auf der Plattform und seine öffentliche Zugänglichkeit werden vom Departement im Amtsblatt bekanntgegeben.
 
-CSW BO/Abl. 1/2017, 31/2017
+#### Art. T1-4
+
+**Planverfasser**
+
+<sup>1</sup> Ebenfalls als Planverfasser im Sinne von Artikel 51 anerkannt ist ein Inhaber eines EFZ als Zeichner der Fachrichtung Architektur oder Bauingenieurwesen, der als Unterschriftsberechtigter oder Bevollmächtigter eines Unternehmens, dessen eingetragener Zweck belegt, dass es im technischen Bereich des eingereichten Bauvorhabens tätig ist, während 10 Jahren bis zu Inkrafttreten des vorliegenden Gesetzes individuell oder kollektiv im Handelsregister eingetragen ist.
+
+<sup>2</sup> Im Falle einer Streichung der Unterschriftsberechtigung oder der Vollmacht kann eine neue Unterschriftsberechtigung oder Vollmacht berücksichtigt werden. Die gesamte Dauer der Unterschriftsberechtigung oder der Vollmacht muss mindestens 10 Jahre bis zum Inkrafttreten des vorliegenden Gesetzes im technischen Bereich des eingereichten Bauvorhabens betragen.
+
+<sup>3</sup> Der Gesuchsteller übermittelt der zuständigen Behörde Auszüge aus dem Handelsregister und alle anderen Unterlagen, die belegen, dass die Bedingungen des vorliegenden Artikels erfüllt sind.
+
+CSW RO/AGS 2025-118
