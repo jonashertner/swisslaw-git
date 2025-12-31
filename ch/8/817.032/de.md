@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den mehrjährigen nationalen Kontrollpl
 short: MNKPV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: de
-version: 2025-02-01
+version: 2026-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20250201/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20250201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20250201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2020-459-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20250201/de"
 
 (MNKPV)
 
-vom 27. Mai 2020 (Stand am 1. Februar 2025)
+vom 27. Mai 2020 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,11 +25,11 @@ gestützt auf Artikel 32 Absatz 2<sup>bis</sup> des Tierschutzgesetzes vom 16. D
 
 verordnet:
 
-[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-3]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-4]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-5]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-3]: [SR 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-4]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-5]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -93,8 +93,8 @@ Die Bestimmungen des 3. und 4. Abschnitts gelten nicht für die Kontrollen von:
   - 2\. für Kennzeichnungen betreffend landwirtschaftliche Erzeugnisse, die nach einem völkerrechtlichen Vertrag in der Schweiz geschützt sind,
   - 3\. für die Deklaration von in der Schweiz verbotenen Produktionsmethoden nach Artikel 18 LwG.
 
-[^2-1]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^2-2]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^2-1]: [SR 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^2-2]: [SR 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 
 #### Art. 3
 
@@ -165,7 +165,7 @@ Der MNKP wird regelmässig an die in Artikel 2 genannten Bereiche angepasst und 
 
 <sup>7</sup> Die Änderungen werden dem WBF und dem EDI zur Genehmigung vorgelegt.
 
-[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^6-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 
 ## 3. Abschnitt: Prozesskontrolle
 
@@ -189,7 +189,7 @@ Folgende Betriebe müssen mindestens einmal innerhalb der maximalen Zeitspanne, 
 
 <sup>5</sup> Das BLV kann die maximalen Zeitspannen zwischen den Grundkontrollen der Liste 3 in Anhang 1 bei Bedarf anpassen.
 
-[^7-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^7-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 8
 
@@ -217,7 +217,7 @@ Nebst den Grundkontrollen können zusätzliche Kontrollen vorgenommen werden, in
 
 <sup>2</sup> Privatrechtliche Stellen müssen gestützt auf die Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^9-1] nach der Norm «SN EN ISO/IEC 17020, 2012, Konformitätsbewertung − Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen»[^9-2] akkreditiert sein.
 
-[^9-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^9-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^9-2]: Die genannten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ## 4. Abschnitt: Spezifische Bestimmungen für die Primärproduktion
@@ -239,13 +239,13 @@ Die Bestimmungen des 3. und 4. Abschnitts gelten für die Kontrollen in der Prim
 
 <sup>2</sup> Die Kontrollbereiche für die Primärproduktion sind im Anhang 2 aufgeführt.
 
-[^10-1]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^10-2]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^10-3]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^10-4]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^10-5]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^10-1]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+[^10-2]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^10-3]: [SR 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^10-4]: [SR 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
+[^10-5]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^10-6]: Fassung gemäss Anhang 3 Ziff. II 5 der V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank, in Kraft seit 1. Jan. 2022 ([AS 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^10-7]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^10-7]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 11
 
@@ -255,7 +255,7 @@ Die Bestimmungen des 3. und 4. Abschnitts gelten für die Kontrollen in der Prim
 
 <sup>2</sup> Sie koordinieren die Grundkontrollen, die auf den in Artikel 10 Absatz 1 genannten Verordnungen basieren, mit den Grundkontrollen nach Artikel 1 Absatz 2 VKKL. Verwaltungskontrollen nach Artikel 3 Buchstabe g sind von der Koordination ausgenommen.
 
-[^11-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^11-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 
 #### Art. 12
 
@@ -292,8 +292,8 @@ Im Bereich Tierschutz sind mindestens folgende Anteile der jährlichen Kontrolle
 
 <sup>3</sup> Das BLW und das BLV legen fest, welche Daten in welchem Umfang in jedem Informationssystem zu erfassen sind.
 
-[^14-1]: [SR 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^14-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^14-1]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^14-2]: [SR 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^14-3]: Fassung gemäss Anhang 4 Ziff. II 4 der V vom 27. April 2022 über Informationssysteme des BLV für die Lebensmittelkette, in Kraft seit 1. Juni 2022 ([AS 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 15
@@ -302,7 +302,7 @@ Im Bereich Tierschutz sind mindestens folgende Anteile der jährlichen Kontrolle
 
 Stellt eine Kontrollperson einen offensichtlichen Verstoss gegen eine Bestimmung einer Verordnung nach Artikel 10 Absatz 1 dieser Verordnung oder nach Artikel 1 Absatz 2 VKKL[^15-1] fest, so ist der Verstoss den dafür zuständigen Vollzugsbehörden zu melden, selbst wenn die Kontrollperson nicht den Auftrag hatte, die Einhaltung der betreffenden Bestimmungen zu kontrollieren.
 
-[^15-1]: [SR 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^15-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 
 #### Art. 16
 
@@ -436,14 +436,14 @@ Anhang 1[^t-1]
 <tr><td>2.17</td><td>Viehhandelsunternehmen</td><td>2</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu2-1]: [SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^annex1-lvlu1-lvlu2-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^annex1-lvlu1-lvlu2-1]: [SR 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^annex1-lvlu1-lvlu2-2]: [SR 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### Liste 3: Betriebe, die der Meldepflicht nach den Artikeln 20 und 62 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016 unterstehen
 
 [^annex1-lvlu1-lvlu3-1]
 
-[^annex1-lvlu1-lvlu3-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex1-lvlu1-lvlu3-1]: [SR 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 <table>
 <tr><th>Code</th><th>Betriebskategorie</th><th>Zeitspanne zwischen zwei Kontrollen (max. Anzahl Jahre)</th></tr>
@@ -559,11 +559,13 @@ Anhang 1[^t-1]
 <tr><td>E1</td><td>Trinkwasserversorgung</td><td>4</td></tr>
 </table>
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 10 Abs. 2)
 
 ## Spezifische Kontrollbereiche in der Primärproduktion
+
+[^t-2]: Bereinigt gemäss Anhang Ziff. 2 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 <table>
 <tr><th>Bereich</th><th>Verordnung</th></tr>
@@ -572,16 +574,16 @@ Anhang 2
 <tr><td>1.3 Hygiene in der Milchproduktion</td><td>Verordnung vom 23. November 2005 über die Primärproduktion Milchprüfungsverordnung vom 20. Oktober 2010[^annex2-lvlu1-2]</td></tr>
 <tr><td>1.4 Tierarzneimittel</td><td>Tierarzneimittelverordnung vom 18. August 2004[^annex2-lvlu1-3]</td></tr>
 <tr><td>1.5 Tiergesundheit und Tierseuchen</td><td>Tierseuchenverordnung vom 27. Juni 1995[^annex2-lvlu1-4]</td></tr>
-<tr><td>1.6 Tierverkehr</td><td>TVD-Verordnung vom 26. Oktober 2011[^annex2-lvlu1-5]</td></tr>
+<tr><td>1.6 Tierverkehr</td><td>Verordnung vom 3. November 2021[^annex2-lvlu1-5] über die Identitas AG und die Tierverkehrsdatenbank</td></tr>
 <tr><td>1.7 Tierschutz (auch als Teil des ökologischen Leistungsnach- weises und als Bedingung für Beiträge zur Erhaltung der Freibergerrasse)</td><td>Tierschutzverordnung vom 23. April 2008[^annex2-lvlu1-6]</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [SR 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^annex2-lvlu1-2]: [SR 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^annex2-lvlu1-3]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^annex2-lvlu1-4]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^annex2-lvlu1-5]: [SR 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^annex2-lvlu1-6]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex2-lvlu1-1]: [SR 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^annex2-lvlu1-2]: [SR 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
+[^annex2-lvlu1-3]: [SR 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^annex2-lvlu1-4]: [SR 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^annex2-lvlu1-5]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^annex2-lvlu1-6]: [SR 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Anhang 3
 

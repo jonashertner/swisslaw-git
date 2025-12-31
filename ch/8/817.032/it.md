@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sul piano di controllo nazionale pluriennal
 short: OPCNP
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/459"
 language: it
-version: 2025-02-01
+version: 2026-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20250201/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20250201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20250201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/459/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-459-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/459/20250201/it"
 
 (OPCNP)
 
-del 27 maggio 202 (Stato 1° febbraio 2025)
+del 27 maggio 2020 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,11 +25,11 @@ visto l’articolo 32 capoverso 2<sup>bis</sup> della legge federale del 16 dice
 
 ordina:
 
-[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-3]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-4]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^ingress-5]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^ingress-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^ingress-3]: [RS 817.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9645)
+[^ingress-4]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^ingress-5]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 ## Sezione 1: Disposizioni generali
 
@@ -93,8 +93,8 @@ Le disposizioni delle sezioni 3 e 4 non si applicano ai controlli:
   - 2\. designazioni di prodotti agricoli che in Svizzera sono protette da un trattato internazionale,
   - 3\. la dichiarazione di prodotti ottenuti secondo metodi vietati in Svizzera secondo l’articolo 18 LAgr.
 
-[^2-1]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
-[^2-2]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^2-1]: [RS 916.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10651)
+[^2-2]: [RS 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 
 #### Art. 3
 
@@ -165,7 +165,7 @@ Il PCNP è adattato regolarmente agli ambiti di cui all’articolo 2 e riveduto 
 
 <sup>7</sup> Le modifiche vengono proposte per approvazione al DEFR e al DFI.
 
-[^6-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta modifica è tenuto conto in tutto il presente testo.
+[^6-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta modifica è tenuto conto in tutto il presente testo.
 
 ## Sezione 3: Controllo dei processi
 
@@ -189,7 +189,7 @@ Le seguenti aziende devono essere sottoposte a un controllo di base almeno una v
 
 <sup>5</sup> L’USAV può modificare, se necessario, l’intervallo massimo tra i controlli di base fissato nellʼelenco 3 dell’allegato 1.
 
-[^7-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^7-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 #### Art. 8
 
@@ -217,7 +217,7 @@ Oltre ai controlli di base, si possono eseguire controlli supplementari, segnata
 
 <sup>2</sup> Gli organi di diritto privato devono essere accreditati ai sensi dell’ordinanza del 17 giugno 1996[^9-1] sull’accreditamento e sulla designazione in base alla norma «SN EN ISO/IEC 17020, 2012 Valutazione di conformità – Requisiti per il funzionamento di vari tipi di organismi che eseguono ispezioni»[^9-2].
 
-[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
+[^9-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
 [^9-2]: Le norme citate possono essere consultate e ordinate a pagamento presso l’Associazione svizzera di normazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch.
 
 ## Sezione 4: Disposizioni specifiche per la produzione primaria
@@ -239,13 +239,13 @@ Le disposizioni delle sezioni 3 e 4 si applicano ai controlli nella produzione p
 
 <sup>2</sup> Gli ambiti di controllo per la produzione primaria sono elencati nell’allegato 2.
 
-[^10-1]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^10-2]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^10-3]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^10-4]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^10-5]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
+[^10-1]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
+[^10-2]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^10-3]: [RS 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^10-4]: [RS 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
+[^10-5]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
 [^10-6]: Nuovo testo giusta l’all. 3 cifra II n. 5 dell’O del 3 nov. 2021 concernente Identitas AG e la banca dati sul traffico di animali, in vigore dal 1° gen. 2022 ([RU 2021 751](https://fedlex.data.admin.ch/eli/oc/2021/751)).
-[^10-7]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
+[^10-7]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 #### Art. 11
 
@@ -255,7 +255,7 @@ Le disposizioni delle sezioni 3 e 4 si applicano ai controlli nella produzione p
 
 <sup>2</sup> Coordinano i controlli di base secondo le ordinanze di cui all’articolo 10 capoverso 1 con i controlli di base di cui all’articolo 1 capoverso 2 OCoC. I controlli amministrativi di cui allʼarticolo 3 lettera g sono esclusi dal coordinamento.
 
-[^11-1]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^11-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 
 #### Art. 12
 
@@ -292,8 +292,8 @@ Nellʼambito della protezione degli animali, almeno la seguente percentuale dei 
 
 <sup>3</sup> L’UFAG e l’USAV stabiliscono la tipo e l’ampiezza dei dati che devono essere registrati in ogni sistema d’informazione.
 
-[^14-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
-[^14-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^14-1]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^14-2]: [RS 916.408](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10854)
 [^14-3]: Nuovo testo giusta l’all. 4 cifra II n. 4 dell’O del 27 apr. 2022 concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare, in vigore dal 1° giu. 2022 ([RU 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272)).
 
 #### Art. 15
@@ -302,7 +302,7 @@ Nellʼambito della protezione degli animali, almeno la seguente percentuale dei 
 
 Una persona addetta al controllo che constata una palese violazione di una disposizione di un’ordinanza di cui all’articolo 10 capoverso 1 della presente ordinanza o di cui all’articolo 1 capoverso 2 OCoC[^15-1], deve segnalarla alle competenti autorità d’esecuzione anche se non aveva il compito di controllare l’osservanza di tale disposizione.
 
-[^15-1]: [RS 910.15](https://fedlex.data.admin.ch/eli/cc/2018/673)
+[^15-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 
 #### Art. 16
 
@@ -439,14 +439,14 @@ Allegato 1[^t-1]
 <tr><td>2.17</td><td>Azienda che commercia bestiame</td><td>2</td></tr>
 </table>
 
-[^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)
-[^annex1-lvlu1-lvlu2-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^annex1-lvlu1-lvlu2-1]: [RS 817.190](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9724)
+[^annex1-lvlu1-lvlu2-2]: [RS 916.441.22](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10874)
 
 ### Elenco 3 Aziende soggette all’obbligo di notifica di cui agli articoli 20 e 62 dell’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso
 
 [^annex1-lvlu1-lvlu3-1]
 
-[^annex1-lvlu1-lvlu3-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^annex1-lvlu1-lvlu3-1]: [RS 817.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9647)
 
 <table>
 <tr><th>Codice</th><th>Categoria d’azienda</th><th>Intervallo tra due controlli (n. max di anni)</th></tr>
@@ -562,11 +562,13 @@ Allegato 1[^t-1]
 <tr><td>E1</td><td>Sistema di approvvigionamento di acqua potabile</td><td>4</td></tr>
 </table>
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 10 cpv. 2)
 
 ## Ambiti di controllo specifici nella produzione primaria
+
+[^t-2]: Aggiornato dall’all. n. 2 dell’O del 29 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 <table>
 <tr><th>Ambito</th><th>Ordinanza</th></tr>
@@ -575,16 +577,16 @@ Allegato 2
 <tr><td>1.3 Igiene nella produzione lattiera</td><td>Ordinanza del 23 novembre 2005 concernente la produzione primaria Ordinanza del 20 ottobre 2010[^annex2-lvlu1-2] sul controllo del latte</td></tr>
 <tr><td>1.4 Medicamenti veterinari</td><td>Ordinanza del 18 agosto 2004[^annex2-lvlu1-3] sui medicamenti per uso veterinario</td></tr>
 <tr><td>1.5 Salute degli animali ed epizoozie</td><td>Ordinanza del 27 giugno 1995[^annex2-lvlu1-4] sulle epizoozie</td></tr>
-<tr><td>1.6 Traffico di animali</td><td>Ordinanza BDTA del 26 ottobre 2011[^annex2-lvlu1-5]</td></tr>
+<tr><td>1.6 Traffico di animali</td><td>Ordinanza del 3 novembre 2021[^annex2-lvlu1-5] concernente Identitas AG e la banca dati sul traffico di animali</td></tr>
 <tr><td>1.7 Protezione degli animali (anche come parte della prova che le esigenze ecologiche sono rispettate e come condizione relativa ai contributi per la conservazione della razza Franches-Montagnes)</td><td>Ordinanza del 23 aprile 2008[^annex2-lvlu1-6] sulla protezione degli animali</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: [RS 916.020](https://fedlex.data.admin.ch/eli/cc/2005/752)
-[^annex2-lvlu1-2]: [RS 916.351.0](https://fedlex.data.admin.ch/eli/cc/2010/713)
-[^annex2-lvlu1-3]: [RS 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
-[^annex2-lvlu1-4]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
-[^annex2-lvlu1-5]: [RS 916.404.1](https://fedlex.data.admin.ch/eli/cc/2021/751)
-[^annex2-lvlu1-6]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^annex2-lvlu1-1]: [RS 916.020](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10474)
+[^annex2-lvlu1-2]: [RS 916.351.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10753)
+[^annex2-lvlu1-3]: [RS 812.212.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9369)
+[^annex2-lvlu1-4]: [RS 916.401](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10836)
+[^annex2-lvlu1-5]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
+[^annex2-lvlu1-6]: [RS 455.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7198)
 
 Allegato 3
 
