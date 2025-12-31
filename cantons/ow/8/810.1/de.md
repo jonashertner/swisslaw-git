@@ -4,13 +4,12 @@ number: "810.1"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-06-25
+version: 2026-01-01
+version_adopted: 2025-06-27
 adopted: 2015-12-03
 in_force: 2016-02-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/810.1"
-pdf: "http://gdb.ow.ch/api/de/versions/1847/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1963/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "http://gdb.ow.ch/api/de/versions/1847/pdf_file"
 
 (GesG)
 
-vom 03.12.2015 (Stand 01.01.2022)
+vom 03.12.2015 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -126,14 +125,7 @@ beschliesst:
 
 #### Art. 7
 
-**Kantonale Organe a. Kantonsrat**
-
-<sup>1</sup> Der Kantonsrat übt die Oberaufsicht über das Kantonsspital aus und ist insbesondere zuständig für:
-
-- a. die Erteilung des Leistungsauftrags an das Kantonsspital;
-- b. die Genehmigung des jährlichen leistungsbezogenen Kredits des Kantonsspitals sowie allfälliger Zusatzkredite für Erweiterungen des Leistungsauftrags;
-- c. die Beschlussfassung über Ausgaben für Landerwerb und Bauinvestitionen des Kantonsspitals, die nicht in die Zuständigkeit des Regierungsrats oder des Spitalrats fallen, unter Vorbehalt des Finanzreferendums;
-- d. die Genehmigung des Rechenschaftsberichts und der Jahresrechnung des Kantonsspitals.
+**…**
 
 #### Art. 8
 
@@ -141,14 +133,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat übt die Aufsicht über den Vollzug des Gesundheitsgesetzes aus und ist insbesondere zuständig für:
 
-- a. die Antragstellung über den Leistungsauftrag an das Kantonsspital;
-- b. die Antragstellung über den jährlichen leistungsbezogenen Kredit zur Erfüllung des Leistungsauftrags des Kantonsspitals und allfälliger Zusatzkredite bei dessen Erweiterung;
-- c. die Antragstellung für Landerwerb und Bauinvestitionen des Kantonsspitals, sofern nicht der Regierungsrat selber den entsprechenden Entscheid zu treffen hat, sowie Entscheide über Um- und Neubauvorhaben bei Spitalliegenschaften mit Gesamtkosten von über einer Million Franken, welche das Kantonsspital im Rahmen seiner verfügbaren Mittel selber finanziert;
-- d. den Abschluss von Rechtsgeschäften mit dinglichem Charakter im Zusammenhang mit dem Kantonsspital;
-- e. den Abschluss der Leistungsvereinbarung mit dem Kantonsspital;
-- f. die Antragstellung zur Genehmigung des Rechenschaftsberichts und der Jahresrechnung des Kantonsspitals;
-- g. die Regelung der Modalitäten der Wahl und der Abberufung des Spitalrats, die Wahl der Mitglieder und des Präsidiums des Spitalrats und die Genehmigung von deren Entschädigung;
-- h. die Wahl der Revisionsstelle des Kantonsspitals;
+- a.–h. …
 - i. die Anstellung des Kantonsarztes bzw. der Kantonsärztin, des Kantonszahnarztes bzw. der Kantonszahnärztin und des Kantonsapothekers bzw. der Kantonsapothekerin;
 - k. die Regelung des Wartegelds für Hebammen;
 - l. die Regelung der Gesundheitskontrollen, der Gesundheitsberatungen und der zahnprophylaktischen Massnahmen während der obligatorischen Schulzeit. Er kann in diesem Rahmen bestimmte Untersuchungen und Massnahmen als obligatorisch erklären, die Kostenverteilung regeln und, nach Anhörung der betreffenden Berufsorganisationen, die Tarife und Taxen für die entsprechenden Dienstleistungen festlegen;
@@ -179,16 +164,14 @@ beschliesst:
 - d. die Abwehr von Gesundheitsgefährdungen, insbesondere die Bekämpfung übertragbarer Krankheiten des Menschen;
 - e. die Aufsicht über Personen und Einrichtungen, die Menschen behandeln oder pflegen (Art. 31 ff. und Art. 74 ff. dieses Gesetzes);
 - f. die Erteilung und der Entzug der betreffenden Berufsausübungs-, Assistenten- und Betriebsbewilligungen (Art. 31 ff., Art. 44 ff. und Art. 72 dieses Gesetzes);
-- g. die Erarbeitung des Leistungsauftrags an das Kantonsspital und des jährlichen leistungsbezogenen Kredits[^9-3] in Zusammenarbeit mit dem Spitalrat des Kantonsspitals;
-- h. die Organisation einer geeigneten Verwaltungssteuerung, um die Qualität, die Wirksamkeit und die Wirtschaftlichkeit des Kantonsspitals laufend zu überprüfen;
+- g.–h. …
 - i. die Organisation und die Durchführung der Gesundheitskontrollen und Gesundheitsberatungen (Art. 5 Abs. 1 Bst. i dieses Gesetzes).
 
-<sup>3</sup> Das Sicherheits- und Sozialdepartement[^9-4] kann Befugnisse auf den Kantonsarzt bzw. die Kantonsärztin, den Kantonsapotheker bzw. die Kantonsapothekerin und den Kantonszahnarzt bzw. die Kantonszahnärztin übertragen.
+<sup>3</sup> Das Sicherheits- und Sozialdepartement[^9-3] kann Befugnisse auf den Kantonsarzt bzw. die Kantonsärztin, den Kantonsapotheker bzw. die Kantonsapothekerin und den Kantonszahnarzt bzw. die Kantonszahnärztin übertragen.
 
 [^9-1]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 [^9-2]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
-[^9-3]: Die Erarbeitung des jährlichen leistungsbezogenen Kredits erfolgt durch das Finanzdepartement in Zusammenarbeit mit dem Spitalrat des Kantonsspitals (OGS 2022, 20)
-[^9-4]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
+[^9-3]: Gestützt auf Art. 11c Abs. 3 des Publikationsgesetzes (GDB [131.1](http://gdb.ow.ch/data/131.1/de)) formlos auf den 1. Juli 2022 angepasst (OGS 2022, 20)
 
 #### Art. 10
 
@@ -204,59 +187,9 @@ beschliesst:
 
 <sup>1</sup> Das Volkswirtschaftsdepartement sorgt mittels Richtlinien für einen einheitlichen Vollzug des Nichtraucherschutzes (Art. 67 dieses Gesetzes).
 
-#### Art. 12
+#### Art. 12–14
 
-**f. Spitalrat**
-
-<sup>1</sup> Der aus fünf bis sieben Mitgliedern bestehende Spitalrat ist das oberste Organ des Kantonsspitals. Ihm obliegt insbesondere:
-
-- a. die Aufsicht über die Geschäftsführung des Kantonsspitals;
-- b. das Festlegen der strategischen Ausrichtung und des Leistungsangebots des Kantonsspitals im Rahmen des Leistungsauftrags;
-- c. die Genehmigung des Finanzplans (einschliesslich der Investitionsplanung für Spitalbauten und Betriebseinrichtungen über zehn Jahre), des Detailbudgets sowie die Antragstellung an den Regierungsrat in Bezug auf den jährlichen leistungsbezogenen Kredit, die Jahresrechnung und den Rechenschaftsbericht;
-- d. die Beschlussfassung über die Verwendung spitaleigener Fonds, sofern die Reglemente nicht andere Organe dafür vorsehen, und die Verwendung von Zuwendungen;
-- e. die Antragstellung über Um- und Neubauvorhaben bei Spitalliegenschaften sowie, im Einvernehmen mit dem Regierungsrat, Entscheide über Um- und Neubauvorhaben bei Spitalliegenschaften mit Gesamtkosten von bis zu einer Million Franken, welche das Kantonsspital im Rahmen seiner verfügbaren Mittel selber finanziert;
-- f. die Festlegung des Stellenplans im Rahmen des Detailbudgets;
-- g. die Anstellung des Spitaldirektors bzw. der Spitaldirektorin sowie der Chefärzte und Chefärztinnen;
-- h. die Bezeichnung des Vizepräsidenten bzw. der Vizepräsidentin und des Sekretärs bzw. der Sekretärin des Spitalrats des Kantonsspitals;
-- i. die Festlegung der generellen Anstellungsbedingungen;
-- k. der Abschluss der Leistungsvereinbarung mit dem Kanton;
-- l. die Festlegung und Veröffentlichung der Taxen des Kantonsspitals sowie der Abschluss von Verträgen mit Sozial- und Privatversicherern;
-- m. der Erlass und die Veröffentlichung eines Organisations- und Geschäftsreglements, welches insbesondere auch die Aufgaben und die Zusammensetzung der Spitalleitung als beratendes Organ der Spitaldirektion regelt;
-- n. der Abschluss von Zusammenarbeitsverträgen mit anderen Spitälern und öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen;
-- o. die Festlegung der Grundsätze des Rechnungswesens;
-- p. die Antragstellung zur Wahl der Revisionsstelle des Kantonsspitals.
-
-<sup>2</sup> In den Spitalrat können auch Mitglieder gewählt werden, welche die Stimmrechtsvoraussetzung nicht erfüllen.
-
-#### Art. 13
-
-**g. Spitaldirektion**
-
-<sup>1</sup> Die Spitaldirektion ist das operative Führungsorgan und ist insbesondere verantwortlich für:
-
-- a. das Finanz- und Rechnungswesen nach anerkannten betriebswirtschaftlichen Grundsätzen;
-- b. den Einkauf;
-- c. das Personalwesen;
-- d. die Versicherungen;
-- e. die wirtschaftlichen und technischen Versorgungs- und Dienstbetriebe;
-- f. den Unterhalt der Gebäude und Einrichtungen;
-- g. die Vorbereitung der Sitzungen und den Vollzug der Beschlüsse des Spitalrats.
-
-<sup>2</sup> Sie bereitet die Geschäfte zuhanden des Spitalrats vor.
-
-<sup>3</sup> Der Direktor oder die Direktorin des Kantonsspitals vertritt dieses nach aussen.
-
-#### Art. 14
-
-**h. Revisionsstelle des Kantonsspitals**
-
-<sup>1</sup> Die Revisionsstelle muss sinngemäss die Anforderungen an die Befähigung nach Art. 727a ff. des Schweizerischen Obligationenrechts[^14-1] erfüllen. Sie prüft jährlich die Rechnung nach den gesetzlichen Vorschriften und den anerkannten schweizerischen Revisionsgrundsätzen.
-
-<sup>2</sup> Sie erstattet dem Spitalrat Bericht und Antrag zuhanden des Regierungsrats.
-
-<sup>3</sup> Die internen und externen Berichte der Revisionsstelle sind der Finanzkontrolle zuzustellen.
-
-[^14-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+**…**
 
 #### Art. 15
 
@@ -351,61 +284,13 @@ beschliesst:
 
 **Grundversorgung**
 
-<sup>1</sup> Zur Erbringung von stationären und ambulanten Spitalleistungen, insbesondere der Grundversorgung, wird in Sarnen ein Kantonsspital mit mindestens folgenden Abteilungen geführt: Innere Medizin, Chirurgie, Gynäkologie/Geburtshilfe und Anästhesie. Das Kantonsspital arbeitet zur Standortsicherung eng mit anderen Spitälern, öffentlichen oder privaten Institutionen und Organisationen sowie mit weiteren Personen zusammen.
+<sup>1</sup> Der Kanton gewährleistet den Betrieb eines Spitals mit Standort in Sarnen (Kantonsspital). Für dieses gelten die besonderen gesetzlichen Bestimmungen.
 
 <sup>2</sup> Der Kanton stellt eine psychiatrische Grundversorgung sicher. Das entsprechende Angebot kann als Abteilung des Kantonsspitals geführt oder durch eine Vereinbarung gemäss Art. 5 Abs. 3 dieses Gesetzes mit öffentlichen oder privaten Institutionen und Organisationen sowie anderen Personen sichergestellt werden.
 
-#### Art. 23
+#### Art. 23–27
 
-**Rechtsform und Aufgabenerfüllung**
-
-<sup>1</sup> Das Kantonsspital ist eine öffentlich-rechtliche Anstalt ohne eigene Rechtspersönlichkeit.
-
-<sup>2</sup> Es wird nach den Grundsätzen der neuen Verwaltungsführung (New Public Management) geführt.
-
-<sup>3</sup> Der Regierungsrat erlässt Vorschriften über die Führung des Kantonsspitals als Regiebetrieb nach den Grundsätzen der neuen Verwaltungsführung.
-
-#### Art. 24
-
-**Unternehmerische Tätigkeit**
-
-<sup>1</sup> Das Kantonsspital ist in seiner unternehmerischen Tätigkeit frei, sofern dies mit den Aufgaben und dem Leistungsauftrag nach diesem Gesetz vereinbar ist.
-
-<sup>2</sup> Es kann:
-
-- a. seine Dienstleistungen öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen anbieten;
-- b. mit öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen zusammenarbeiten;
-- c. sich mit öffentlichen oder privaten Institutionen und Organisationen sowie weiteren Personen zu Organisationseinheiten zusammenschliessen und gemeinsame Dienstleistungsbetriebe führen.
-
-<sup>3</sup> Weitergehende Kooperationen und Allianzen oder die Führung von Betriebszweigen des Kantonsspitals durch öffentliche oder private Institutionen und Organisationen sowie weitere Personen bedürfen der Genehmigung durch den Regierungsrat.
-
-<sup>4</sup> Gewinne sind vom Kantonsspital, vorbehältlich der zuerst vorzunehmenden Abtragung von allfälligen Defiziten aus den Vorjahren, primär für strategierelevante Projekte einzusetzen, sofern dafür ein Bedarf ausgewiesen ist.
-
-#### Art. 25
-
-**Dienstverhältnis**
-
-<sup>1</sup> Das Dienstverhältnis mit dem Spitaldirektor bzw. der Spitaldirektorin sowie den Chefärzten und Chefärztinnen wird im Rahmen der gesetzlichen Vorschriften durch einen öffentlich-rechtlichen Vertrag begründet. Von den allgemeinen Vorschriften über den Staatsdienst kann abgewichen werden, wenn es die besonderen Verhältnisse des Spitalbetriebs erfordern.
-
-<sup>2</sup> Das übrige Personal wird mit einem zivilrechtlichen Arbeitsvertrag angestellt. Soweit die generellen Anstellungsbedingungen des Spitals oder die Normalarbeitsverträge keine abweichende Regelung enthalten, gelten die Bestimmungen des Schweizerischen Obligationenrechts[^25-1].
-
-[^25-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
-
-#### Art. 26
-
-**Rechtsverhältnis und Haftung**
-
-<sup>1</sup> Das Rechtsverhältnis zwischen dem Kantonsspital und den Patienten und Patientinnen richtet sich nach dem öffentlichen Recht.
-
-<sup>2</sup> Für Verbindlichkeiten sowie Dritten zugefügten Schaden haftet der Kanton gemäss Haftungsgesetz[^26-1].
-
-[^26-1]: GDB [130.3](http://gdb.ow.ch/data/130.3/de)
-
-#### Art. 27
-
-**Ergänzende Vorschriften**
-
-<sup>1</sup> Der Spitalrat legt die näheren Vorschriften über die Organisation und den Betrieb des Kantonsspitals in einem Organisations- und Geschäftsreglement fest.
+**…**
 
 ### 3.2. Pflege- und Betagtenheime
 
@@ -1015,9 +900,7 @@ beschliesst:
 
 <sup>2</sup> Sie betreiben zudem eine angemessene Prävention, um die Gesundheitsgefährdung frühzeitig zu erkennen, das Eintreten von Krankheiten und Unfällen möglichst zu vermeiden und die Auswirkungen von deren Folgen zu verringern.
 
-<sup>3</sup> Das Finanzdepartement[^65-1] und das Sicherheits- und Sozialdepartement initiieren, unterstützen und koordinieren Massnahmen und Projekte zur Gesundheitsförderung und Prävention, wobei sie sich jeweils an den nationalen Zielen des Bundes orientieren und den Bedürfnissen des Kantons, der Einwohnergemeinden sowie den involvierten Partnern Rechnung tragen. Sie können eigene Massnahmen treffen oder Beiträge an die Kosten der Massnahmen Dritter leisten.
-
-[^65-1]: Auf den 1. Juli 2022 wurden die Aufgaben des Finanzdepartements dem Sicherheits- und Sozialdepartement übertragen (OGS 2022, 20)
+<sup>3</sup> Das Sicherheits- und Sozialdepartement initiiert, unterstützt und koordiniert Massnahmen und Projekte zur Gesundheitsförderung und Prävention, wobei es sich jeweils an den nationalen Zielen des Bundes orientiert und den Bedürfnissen des Kantons, der Einwohnergemeinden sowie den involvierten Partnern Rechnung trägt. Es kann eigene Massnahmen treffen oder Beiträge an die Kosten der Massnahmen Dritter leisten.
 
 #### Art. 66
 
@@ -1330,17 +1213,7 @@ beschliesst:
 
 #### Art. 79
 
-**Rechtsmittel im Bereich des Kantonsspitals**
-
-<sup>1</sup> Beschwerden von Patienten und Patientinnen sind an den zuständigen Chefarzt bzw. die zuständige Chefärztin, den Leiter bzw. die Leiterin Pflegedienst oder den Direktor bzw. die Direktorin zu richten.
-
-<sup>2</sup> Beschwerden der Mitarbeiter bzw. Mitarbeiterinnen sind an den direkten Vorgesetzten bzw. an die direkte Vorgesetzte zu richten.
-
-<sup>3</sup> Wird keine Einigung erreicht, so können Patienten und Patientinnen sowie Mitarbeiter bzw. Mitarbeiterinnen bei der Spitaldirektion Beschwerde führen.
-
-<sup>4</sup> Gegen Verfügungen und Entscheide der Spitaldirektion kann innerhalb von 30 Tagen schriftlich und begründet Beschwerde beim Spitalrat geführt werden.
-
-<sup>5</sup> Verfügungen und Entscheide des Spitalrats können innert 30 Tagen mit Beschwerde an den Regierungsrat weitergezogen werden.
+**…**
 
 ## 12. Schluss- und Übergangsbestimmungen
 
@@ -1418,6 +1291,8 @@ Geändert durch:
 
 \- Nachtrag vom 28. Juni 2019 (OGS 2019, 33), Botschaft und Vorlage des Regierungsrats vom 9. April 2019, Kantonsratssitzungen vom 23. Mai und 28.Juni 2019 (22.19.06), in Kraft seit 1. Januar 2020 (OGS 2019, 40),
 
-\- Nachtrag vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41)
+\- Nachtrag vom 25. Juni 2021 (OGS 2021, 23), Botschaft und Vorlage des Regierungsrats vom 9. März 2021), Kantonsratssitzungen vom 27. Mai und 25. Juni 2021 (22.21.01), Volksabstimmung vom 28. November 2021 (ABl 2021, 1747), in Kraft seit 1. Januar 2022 (OGS 2021, 41),
+
+\- Spitalgesetz vom 27. Juni 2025 (OGS 2025, 21a), Botschaft und Vorlage des Regierungsrats vom 18. Februar 2025, Kantonsratssitzungen vom 22. Mai und 27. Juni 2025 (22.25.02), in Kraft 1. Januar 2025 (OGS 2025, 33)
 
 OGS 2015, 64
