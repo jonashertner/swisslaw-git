@@ -4,11 +4,11 @@ title: Ordinanza del 23 novembre 2016 sullo scambio automatico internazionale di
 short: OSAIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/786"
 language: it
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2016-786-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-786-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/it"
 
 (OSAIn)
 
-del 23 novembre 2016 (Stato 1° gennaio 2022)
+del 23 novembre 2016 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -27,15 +27,34 @@ ordina:
 
 [^ingress-1]: [RS 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 
-## Sezione 1: …
+## Capitolo 1: Standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai conti finanziari
+
+[^chap1-1]
+
+[^chap1-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+### Sezione 1: ...
 
 #### Art. 1
 
 [^1-1]
 
-[^1-1]: Abrogato dal n. I dell’O del 7 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
+[^1-1]: Abrogato dalla cifra I dell’O del 7 nov. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
 
-## Sezione 2: Istituti finanziari non tenuti alla comunicazione
+### Sezione 1*a*: Versione determinante dei commentari dell’OCSE
+
+[^chap1-sec1a-1]
+
+[^chap1-sec1a-1]: Introdotta dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+#### Art. 1a
+
+La versione determinante secondo l’articolo 2*b* capoverso 2 LSAI dei commentari dell’Organizzazione per la cooperazione e lo sviluppo economici (OCSE) relativi al Modello di accordo tra autorità competenti e allo standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai conti finanziari (SCC) è quella del 27 marzo 2017[^1a-1]. La versione determinante dei commentari dell’OCSE relativi all’Addendum all’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari e alla modifica dello SCC è quella dell’8 giugno 2023[^1a-2].
+
+[^1a-1]: I commentari possono essere consultati gratuitamente all’indirizzo [www.oecd.org](http://www.oecd.org) &gt; Topics &gt; Taxation &gt; Tax Transparency and International Co-operation &gt; Related Publications &gt; Standard for Automatic Exchange of Financial Account Information in Tax Matters, Second Edition.
+[^1a-2]: I commentari possono essere consultati gratuitamente all’indirizzo [www.oecd.org](http://www.oecd.org) &gt; Topics &gt; Taxation &gt; Tax Transparency and International Co-operation &gt; Related Publications &gt; International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 Update to the Common Reporting Standard.
+
+### Sezione 2: Istituti finanziari non tenuti alla comunicazione
 
 #### Art. 2
 
@@ -45,15 +64,19 @@ ordina:
 
 Sono considerati istituti finanziari non tenuti alla comunicazione secondo l’articolo 3 capoverso 7 LSAI i seguenti veicoli di investimento collettivo purché tutte le partecipazioni siano detenute da o per il tramite di persone fisiche o enti che non sono persone oggetto di comunicazione e siano soddisfatte le condizioni secondo l’articolo 3 capoverso 8 LSAI:
 
-- a. i fondi contrattuali di investimento secondo gli articoli 25–35 della legge del 23 giugno 2006[^2-1] sugli investimenti collettivi (LICol);
-- b. le società di investimento a capitale variabile secondo gli articoli 36–52 LICol;
-- c. le società in accomandita per investimenti collettivi di capitale secondo gli articoli 98–109 LICol;
+- a.[^2-1] i fondi contrattuali di investimento secondo gli articoli 25–27 e 118*a*–118*p* della legge del 23 giugno 2006[^2-2] sugli investimenti collettivi (LICol);
+- b.[^2-3] le società di investimento a capitale variabile secondo gli articoli 36–52 e 118*a*–118*p* LICol;
+- c.[^2-4] le società in accomandita per investimenti collettivi di capitale secondo gli articoli 98–109 e 118*a*–118*p* LICol;
 - d. le società di investimento a capitale fisso secondo gli articoli 110–118 LICol;
 - e. le società d’investimento svizzere quotate in una borsa svizzera nella forma di società anonime secondo l’articolo 2 capoverso 3 LICol.
 
-<sup>2</sup> Tali veicoli sono tuttavia considerati istituti finanziari tenuti alla comunicazione qualora le partecipazioni siano detenute da o per il tramite di entità non finanziarie passive secondo lo standard comune di comunicazione (SCC) il cui controllo è esercitato da persone oggetto di comunicazione.
+<sup>2</sup> Tali veicoli sono tuttavia considerati istituti finanziari tenuti alla comunicazione qualora le partecipazioni siano detenute da o per il tramite di entità non finanziarie passive secondo lo SCC il cui controllo è esercitato da persone oggetto di comunicazione.[^2-5]
 
-[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-3]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-5]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 3
 
@@ -72,28 +95,41 @@ Sono considerati istituti finanziari non tenuti alla comunicazione secondo l’a
 
 [^4-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
-#### Art. 5
+#### Art. 5 e 6
 
-**Associazioni**
+[^56-1]
 
-Sono considerate istituti finanziari non tenuti alla comunicazione secondo l’articolo 3 capoverso 11 LSAI le associazioni che non si prefiggono uno scopo economico costituite e organizzate in Svizzera.
+[^56-1]: Abrogati dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
-#### Art. 6
+#### Art. 6a
 
-**Fondazioni**
+**Enti di utilità pubblica qualificati**[^6a-1]
 
-Sono considerate istituti finanziari non tenuti alla comunicazione secondo l’articolo 3 capoverso 11 LSAI le fondazioni costituite e organizzate in Svizzera che:
+<sup>1</sup>
 
-- a. perseguono uno scopo pubblico o di utilità pubblica e destinano i loro utili esclusivamente e irrevocabilmente a tali fini; oppure
-- b. perseguono scopi ideali e i cui utili non superano i 20 000 franchi e sono esclusivamente e irrevocabilmente destinati a tali fini.
+Ad eccezione delle società di capitali secondo gli articoli 620–827 del Codice delle obbligazioni (CO)[^6a-2] e delle società cooperative con un capitale sociale secondo gli articoli 828–926 CO, sono considerati enti di utilità pubblica qualificati secondo l’articolo 3 capoverso 9<sup>bis</sup> LSAI gli enti residenti in Svizzera che soddisfano le seguenti condizioni:
+
+- a. sono costituiti e gestiti in Svizzera esclusivamente per un fine religioso, benefico, scientifico, artistico, culturale, sportivo o educativo, oppure sono costituiti e gestiti in Svizzera quali associazioni professionali, associazioni economiche, camere di commercio, associazioni dei lavoratori, associazioni degli agricoltori o degli orticoltori, associazioni civiche o organizzazioni che perseguono esclusivamente la promozione del benessere sociale;
+- b. in Svizzera sono esentati dall’imposta sul reddito o dall’imposta sull’utile;
+- c. non hanno azionisti o soci che detengono diritti di proprietà o di godimento sui loro redditi o valori patrimoniali;
+- d. secondo il diritto svizzero o gli atti costitutivi degli enti, i loro redditi o valori patrimoniali non possono essere distribuiti o utilizzati a beneficio di un privato o di un ente non avente utilità pubblica, se non nell’ambito dell’esercizio dell’attività di utilità pubblica dell’ente, a titolo di pagamento di una remunerazione congrua per servizi resi, oppure a titolo di pagamento del valore di mercato di un bene patrimoniale acquistato dall’ente;
+- e. secondo il diritto svizzero o gli atti costitutivi degli enti, all’atto della loro liquidazione o scioglimento, i loro valori patrimoniali sono trasferiti a un ente statale o a un ente che soddisfa le condizioni di cui alle lettere a–e, oppure sono devoluti al Governo svizzero, a un Cantone o a un Comune.
+
+<sup>2</sup> Le condizioni di cui al capoverso 1 sono considerate soddisfatte se gli enti interessati sono esentati dall’imposta federale diretta in virtù dell’articolo 56 lettera g o h della legge federale del 14 dicembre 1990[^6a-3] sull’imposta federale diretta (LIFD).
+
+<sup>3</sup> Vale come conferma secondo l’articolo 3 capoverso 9<sup>bis</sup> LSAI in particolare una decisione di esenzione dall’imposta secondo l’articolo 56 lettera g o h LIFD oppure un’iscrizione in un registro cantonale pubblico delle istituzioni esentate dall’imposta.
+
+[^6a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^6a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^6a-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogato dal n. I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^7-1]: Abrogato dalla cifra I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
-## Sezione 3: Conti esclusi
+### Sezione 3: Conti esclusi
 
 #### Art. 8
 
@@ -105,27 +141,11 @@ Sono considerate istituti finanziari non tenuti alla comunicazione secondo l’a
 
 [^8-1]: [RS 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
 
-#### Art. 9
+#### Art. 9 a 11
 
-**Conti per il versamento di capitale**
+[^911-1]
 
-Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare i conti per il versamento di capitale come conti esclusi secondo l’articolo 4 capoverso 3 LSAI purché:
-
-- a. i conti siano utilizzati esclusivamente per il deposito del capitale destinato alla costituzione o all’aumento di capitale di una società;
-- b. una volta costituita la società o effettuato l’aumento di capitale, i conti siano chiusi o i fondi trasferiti su un conto intestato alla società; e
-- c. eventuali rimborsi dovuti alla mancata costituzione della società o al mancato aumento di capitale o a un versamento di capitale in eccesso vadano esclusivamente alle persone che hanno versato il capitale.
-
-#### Art. 10
-
-**Conti di associazioni**
-
-Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come conti esclusi secondo l’articolo 4 capoverso 3 LSAI i conti delle associazioni che non si prefiggono uno scopo economico, costituite e organizzate in Svizzera.
-
-#### Art. 11
-
-**Conti di fondazioni**
-
-Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come conti esclusi secondo l’articolo 4 capoverso 3 LSAI i conti delle fondazioni costituite e organizzate in Svizzera purché le fondazioni soddisfino le condizioni di cui all’articolo 6 lettere a e b della presente ordinanza.
+[^911-1]: Abrogati dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 12
 
@@ -137,7 +157,7 @@ Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come
 - b. i comproprietari abbiano convenuto un regolamento per l’uso e l’amministrazione secondo l’articolo 647 del Codice civile (CC)[^12-3] in cui è stabilito che i valori patrimoniali finanziari amministrati dalla comunione di comproprietari sono utilizzati esclusivamente per spese riguardanti i beni in comproprietà; e
 - c. tale regolamento per l’uso e l’amministrazione sia menzionato nel registro fondiario secondo l’articolo 649*a* capoverso 2 CC.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 [^12-2]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
 [^12-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
@@ -155,28 +175,19 @@ Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come
 
 Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come conti esclusi secondo l’articolo 4 capoverso 3 LSAI i conti non rivendicati secondo l’articolo 11 capoverso 6 lettere a e b LSAI il cui saldo o valore alla fine dell’anno civile o di altro adeguato periodo di rendicontazione o al momento della chiusura del conto ammonta a 1000 dollari americani al massimo.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogato dal n. I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^15-1]: Abrogato dalla cifra I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 16
 
-**Conti di moneta elettronica**
+[^16-1]
 
-<sup>1</sup>
-
-Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come conti esclusi secondo l’articolo 4 capoverso 3 LSAI i conti di moneta elettronica purché:
-
-- a. i conti offrano esclusivamente mezzi di pagamento sotto forma di moneta elettronica per il pagamento scritturale di beni e servizi, per il prelievo in contanti o per il traffico scritturale dei pagamenti tra privati, per le cui transazioni è necessario un credito depositato elettronicamente;
-- b. il limite di credito convenuto per contratto non superi 10 000 franchi oppure 10 000 dollari americani o euro;
-- c. qualsiasi pagamento eccedente 10 000 franchi oppure 10 000 dollari americani o euro sia rimborsato al titolare del conto entro 60 giorni; e
-- d. sui conti non siano accreditati interessi.
-
-<sup>2</sup> Per moneta elettronica si intende qualsiasi valore monetario depositato elettronicamente sotto forma di credito nei confronti dell’emittente di moneta elettronica che sia emesso dietro ricevimento di fondi per effettuare operazioni di pagamento e che sia accettato da persone fisiche o giuridiche diverse dall’emittente di moneta elettronica.
+[^16-1]: Abrogato dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 17
 
@@ -184,7 +195,7 @@ Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come
 
 Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare i conti di persone defunte, fino allo scioglimento della comunione ereditaria, come conti il cui unico titolare è una successione con personalità giuridica propria e quindi come conti esclusi purché il decesso della persona sia stato loro comunicato mediante un testamento già aperto, da un atto di morte o in altra forma adeguata.
 
-## Sezione 4: Istituti finanziari residenti in Svizzera
+### Sezione 4: Istituti finanziari residenti in Svizzera
 
 #### Art. 18
 
@@ -192,10 +203,11 @@ Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare i co
 
 Sono considerati residenti in Svizzera secondo l’articolo 5 capoverso 1 LSAI:
 
-- a. gli istituti finanziari che sono illimitatamente assoggettati a imposta in Svizzera o che vantano un’appartenenza economica secondo l’articolo 4 capoverso 1 lettera b o l’articolo 51 capoverso 1 lettera b della legge federale del 14 dicembre 1990[^18-1] sull’imposta federale diretta;
+- a.[^18-1] gli istituti finanziari che sono illimitatamente assoggettati a imposta in Svizzera o che vantano un’appartenenza economica secondo l’articolo 4 capoverso 1 lettera b o l’articolo 51 capoverso 1 lettera b LIFD[^18-2];
 - b. gli istituti finanziari esentati da imposta che sono stati costituiti secondo il diritto svizzero.
 
-[^18-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^18-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^18-2]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 19
 
@@ -209,13 +221,13 @@ I trust regolamentati all’estero come veicoli di investimento collettivo non s
 
 È considerata sede della direzione secondo l’articolo 5 capoverso 2 lettera b LSAI il luogo in cui è ubicata l’amministrazione effettiva in Svizzera.
 
-## Sezione 5: Disposizioni alternative del commentario dell’OCSE relativo allo SCC
+### Sezione 5: Disposizioni alternative del commentario dell’OCSE relativo allo SCC
 
 #### Art. 21
 
 Le disposizioni alternative del commentario dell’OCSE relativo allo SCC sono contenute nell’allegato. Sono applicabili nella misura in cui l’accordo applicabile nel singolo caso non lo escluda.
 
-## Sezione 6: Precisazione degli obblighi generali di comunicazione
+### Sezione 6: Precisazione degli obblighi generali di comunicazione
 
 #### Art. 22
 
@@ -269,7 +281,7 @@ Con conto di deposito si intendono anche:
 
 Gli istituti finanziari svizzeri tenuti alla comunicazione possono trattare come fosse una componente del valore attuale il rimborso dei premi non utilizzati di un contratto di assicurazione con valore di riscatto o di un contratto assicurativo di rendita non collegato a investimenti di capitale.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 25
 
@@ -299,9 +311,9 @@ Possono indicare gli importi nelle seguenti valute:
 - c. in franchi svizzeri; o
 - d. in dollari americani.
 
-[^26-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
-## Sezione 7: Precisazione degli obblighi di adeguata verifica
+### Sezione 7: Precisazione degli obblighi di adeguata verifica
 
 #### Art. 27
 
@@ -317,7 +329,7 @@ Rientrano in tali eccezioni segnatamente:
 - b. il cambiamento del titolare del conto su ordine di un giudice o di un’autorità;
 - c. l’inizio di un diritto del beneficiario nei confronti di un trust o di un istituto giuridico analogo in virtù del suo atto costitutivo o atto di fondazione.
 
-[^27-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 28
 
@@ -350,24 +362,112 @@ Prima di soddisfare un diritto esigibile l’istituto finanziario svizzero tenut
 
 [^30-1]
 
-[^30-1]: Abrogato dal n. I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^30-1]: Abrogato dalla cifra I dell’O dell’11 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
-## Sezione 8: Obbligo di iscrizione degli istituti finanziari svizzeri tenuti alla comunicazione
+## Capitolo 2: Quadro per la comunicazione di informazioni in materia di cripto‑attività
+
+[^chap2-1]
+
+[^chap2-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+### Sezione 1: Versione determinante dei commentari dell’OCSE
+
+#### Art. 30a
+
+La versione determinante secondo l’articolo 2*b* capoverso 2 LSAI dei commentari dell’OCSE relativi all’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni in conformità al quadro per la comunicazione di informazioni in materia di cripto‑attività e al quadro per la comunicazione di informazioni in materia di cripto-attività («Crypto-Asset Reporting Framework», CARF) è quella dell’8 giugno 2023[^30a-1].
+
+[^30a-1]: I commentari possono essere consultati gratuitamente all’indirizzo [www.oecd.org](http://www.oecd.org) &gt; Topics &gt; Taxation &gt; Tax Transparency and International Co-operation &gt; Related Publications &gt; International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 Update to the Common Reporting Standard.
+
+### Sezione 2: Prestatori pertinenti di servizi per le cripto-attività tenuti alla comunicazione
+
+#### Art. 30b
+
+<sup>1</sup> Sono considerati residenti fiscali in Svizzera secondo l’articolo 12*b* capoverso 1 LSAI i prestatori di servizi per le cripto-attività tenuti alla comunicazione che vantano un’appartenenza personale in Svizzera secondo l’articolo 3 o l’articolo 50 LIFD[^30b-1].
+
+<sup>2</sup>
+
+È considerato assoggettato all’obbligo di presentare moduli contenenti informazioni fiscali secondo l’articolo 12*b* capoverso 1 LSAI chi in Svizzera è tenuto a presentare una dichiarazione d’imposta o una dichiarazione di informazioni fiscali. Sono considerate tali:
+
+- a. la dichiarazione d’imposta per l’imposta federale diretta;
+- b. la dichiarazione d’imposta per le imposte dirette dei Cantoni;
+- c. le attestazioni di cui all’articolo 129 capoverso 1 lettera c LIFD;
+- d. le attestazioni secondo le disposizioni di legge cantonali volte ad attuare l’articolo 45 capoverso 1 lettera c della legge federale del 14 dicembre 1990[^30b-2] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni.
+
+<sup>3</sup> I prestatori di servizi per le cripto-attività tenuti alla comunicazione sono considerati detentori di una succursale in Svizzera secondo l’articolo 12*b* capoverso 1 LSAI purché vantino un’appartenenza economica in Svizzera secondo l’articolo 4 capoverso 1 lettera b o l’articolo 51 capoverso 1 lettera b LIFD.
+
+<sup>4</sup>
+
+La prestazione di un servizio consistente nell’eseguire operazioni di scambio per i clienti o per conto degli stessi è considerata un’attività commerciale secondo l’articolo 12*b* capoverso 2 LSAI se la persona fisica o l’ente che presta il servizio:
+
+- a. durante un anno civile realizza con tale attività commerciale un ricavo lordo superiore a 50 000 franchi;
+- b. durante un anno civile stabilisce con oltre 20 clienti o mantiene con almeno 20 clienti relazioni d’affari che non si limitano a un’unica prestazione di tale servizio;
+- c. ha la facoltà illimitata di disporre di cripto-attività di clienti che in qualsiasi momento superano i 5 milioni di franchi; o
+- d. presta servizi consistenti nell’eseguire operazioni di scambio il cui volume complessivo supera i 2 milioni di franchi per anno civile.
+
+[^30b-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^30b-2]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+
+### Sezione 3: Precisazione degli obblighi di comunicazione
+
+#### Art. 30c
+
+In caso di decesso di una persona di uno Stato oggetto di comunicazione, i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione possono trattare la sua successione come successione con personalità giuridica propria fino allo scioglimento della comunione ereditaria. La successione è considerata una persona oggetto di comunicazione dell’ultimo Stato o territorio di cui la persona deceduta era residente fiscale.
+
+### Sezione 4: Precisazione degli obblighi di adeguata verifica
+
+#### Art. 30d
+
+**Inizio di una relazione d’affari con un utente di cripto-attività**
+
+<sup>1</sup> Sono considerate eccezioni secondo l’articolo 12*f* capoverso 3 LSAI i casi in cui una relazione d’affari con un utente di cripto-attività inizia senza che il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione vi contribuisca o possa impedirlo.
+
+<sup>2</sup>
+
+Rientrano in tali eccezioni segnatamente:
+
+- a. il cambiamento dell’utente di cripto-attività su ordine di un giudice o di un’autorità;
+- b. l’inizio di un diritto del beneficiario nei confronti di un trust o di un istituto giuridico analogo in virtù del suo atto costitutivo o atto di fondazione.
+
+#### Art. 30e
+
+**Chiusura della relazione d’affari**
+
+<sup>1</sup> Se una relazione d’affari è chiusa prima dello scadere dei termini secondo l’articolo 12*f* capoversi 1, 3 e 4 LSAI e la verifica della relazione d’affari da parte del prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione non si è ancora conclusa al momento della chiusura, il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione può considerare l’utente di cripto-attività e la persona che esercita il controllo persone che non sono oggetto di comunicazione.
+
+<sup>2</sup> Se una relazione d’affari di un utente è chiusa a seguito di un cambiamento delle circostanze e la verifica della relazione d’affari conseguente a tale cambiamento delle circostanze non è stata ancora completata al momento della chiusura, il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione non deve considerare il cambiamento delle circostanze ai fini della comunicazione.
+
+## Capitolo 3: Disposizioni comuni
+
+[^chap3-1]
+
+[^chap3-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+### Sezione 1: Obbligo di iscrizione
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 31
 
-<sup>1</sup> Un istituto finanziario svizzero è tenuto a iscriversi presso l’Amministrazione federale delle contribuzioni (AFC) al più tardi entro la fine dell’anno civile in cui diventa istituto finanziario svizzero tenuto alla comunicazione.
+<sup>1</sup> Un istituto finanziario svizzero o un prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione deve iscriversi presso l’Amministrazione federale delle contribuzioni (AFC) al più tardi entro la fine dell’anno civile in cui diventa istituto finanziario svizzero tenuto alla comunicazione o prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione.
 
-<sup>2</sup> Un istituto finanziario svizzero tenuto alla comunicazione deve annullare la propria iscrizione presso l’AFC al più tardi entro la fine dell’anno civile in cui finisce la sua qualità di istituto finanziario svizzero tenuto alla comunicazione oppure cessa la sua attività commerciale.
+<sup>2</sup> Un istituto finanziario svizzero tenuto alla comunicazione o un prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione deve annullare la propria iscrizione presso l’AFC al più tardi entro la fine dell’anno civile in cui finisce la sua qualità di istituto finanziario svizzero tenuto alla comunicazione o di prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione oppure cessa la sua attività commerciale.
 
-<sup>3</sup> La comunicazione inviata dall’istituto finanziario svizzero tenuto alla comunicazione all’AFC, secondo la quale presso l’istituto finanziario non sono aperti conti finanziari oggetto di comunicazione, non è considerata come annullamento dell’iscrizione.[^31-1]
+<sup>3</sup>
 
-<sup>4</sup> Il trustee deve anteporre la sigla «TDT=» al nome di un trust che deve essere iscritto secondo l’articolo 13 capoverso 4 LSAI. L’articolo 13 capoversi 2 e 3 LSAI si applica per analogia.[^31-2]
+Non è considerata come annullamento dell’iscrizione:
 
-[^31-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^31-2]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+- a. la comunicazione inviata all’AFC nella quale l’istituto finanziario svizzero tenuto alla comunicazione dichiara di non detenere conti finanziari oggetto di comunicazione o nella quale il prestatore svizzero di servizi per le cripto-attività tenuto alla comunicazione dichiara di non avere utenti oggetto di comunicazione;
+- b. la comunicazione del prestatore pertinente di servizi per le cripto-attività tenuto alla comunicazione secondo l’articolo 15 capoverso 1<sup>ter</sup> LSAI.
 
-## Sezione 9: Informazioni trasmesse automaticamente dall’estero
+<sup>4</sup> Il trustee deve anteporre la sigla «TDT=» al nome di un trust che deve essere iscritto secondo l’articolo 13 capoverso 4 LSAI. L’articolo 13 capoversi 2 e 3 LSAI è applicabile per analogia.
+
+### Sezione 2: Informazioni trasmesse automaticamente dall’estero
+
+[^chap3-sec2-1]
+
+[^chap3-sec2-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 32
 
@@ -384,9 +484,13 @@ I Cantoni comunicano all’AFC entro due mesi dalla fine di ogni anno civile:
 
 <sup>4</sup> Ai collaboratori di tali autorità è concesso l’accesso a queste informazioni mediante procedura di richiamo soltanto se utilizzano l’autenticazione a due fattori, di cui uno deve essere costituito da un elemento d’identificazione fisico, univoco e non falsificabile.
 
-[^32-1]: Nuova espr. giusta l’all. n. II 25 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^32-1]: Nuova espr. giusta l’all. cifra II n. 25 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
-## Sezione 10: Sistema d’informazione
+## Sezione 3: Sistema d’informazione
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 33
 
@@ -400,9 +504,11 @@ I Cantoni comunicano all’AFC entro due mesi dalla fine di ogni anno civile:
 
 #### Art. 34
 
-**Categorie dei dati personali trattati**
+**Categorie di dati personali e di dati concernenti persone giuridiche trattati**[^35b-1]
 
-L’AFC può procedere al trattamento dei dati personali che le sono trasmessi in virtù dell’accordo applicabile.
+L’AFC può procedere al trattamento dei dati personali e dei dati concernenti persone giuridiche che le sono trasmessi in virtù dell’accordo applicabile.
+
+[^35b-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 35
 
@@ -410,28 +516,64 @@ L’AFC può procedere al trattamento dei dati personali che le sono trasmessi i
 
 L’AFC distrugge i dati al più tardi entro 20 anni a contare dalla fine dell’anno civile in cui li ha ricevuti.
 
-## Sezione 11: Disposizioni finali
+## Capitolo 4: Disposizioni finali
 
-[^sec11-1]
+[^sec4-1]
 
-[^sec11-1]: Nuovo testo giusta il n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^sec4-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 35a
 
-**Disposizione transitoria della modifica dell’11 novembre 2020**[^35a-1]
+**Disposizione transitoria della modifica dell’11 novembre 2020**[^18-3]
 
-In relazione ai conti già aperti il giorno antecedente l’entrata in vigore della modifica dell’11 novembre 2020 e per i quali l’istituto finanziario svizzero tenuto alla comunicazione dispone di un’autocertificazione che non contiene un numero d’identificazione fiscale, si applicano le regole secondo la sezione I parte C dell’allegato all’Accordo multilaterale del 29 ottobre 2014[^35a-2] tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari.
+In relazione ai conti già aperti il giorno antecedente l’entrata in vigore della modifica dell’11 novembre 2020 e per i quali l’istituto finanziario svizzero tenuto alla comunicazione dispone di un’autocertificazione che non contiene un numero d’identificazione fiscale, si applicano le regole secondo la sezione I parte C dell’allegato all’Accordo multilaterale del 29 ottobre 2014[^18-4] tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari.
 
-[^35a-1]: Introdotto dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^35a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^18-3]: Introdotto dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^18-4]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+
+#### Art. 35b
+
+**Disposizioni transitorie della modifica del 26 novembre 2025**[^19-1]
+
+<sup>1</sup>
+
+Nei primi tre anni successivi all’entrata in vigore della modifica del 26 novembre 2025 i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione sono esonerati dagli obblighi di comunicazione e adeguata verifica in materia fiscale secondo l’Accordo multilaterale dell’8 giugno 2023[^19-2] tra autorità competenti concernente lo scambio automatico di informazioni in conformità al quadro per la comunicazione di informazioni in materia di cripto-attività (Accordo SAI Cripto-attività) e la LSAI se sono soddisfatte le condizioni seguenti:
+
+- a. i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione presentano un criterio di collegamento secondo la sezione I parte A CARF con un altro Stato o territorio che, secondo la sezione I parti C‒F CARF, prevale sul criterio di collegamento con la Svizzera;
+- b. lo Stato o il territorio non attua lo scambio automatico di informazioni relative a cripto-attività al momento dell’entrata in vigore della modifica;
+- c. i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione non sarebbero assoggettati a tali obblighi di comunicazione e adeguata verifica in materia fiscale in Svizzera se tale Stato o territorio avesse attuato lo scambio automatico di informazioni relative a cripto-attività al momento dell’entrata in vigore della modifica.
+
+<sup>2</sup>
+
+Nel periodo in questione i prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione sono inoltre esonerati dagli obblighi di comunicazione e adeguata verifica in materia fiscale secondo l’Accordo SAI Cripto-attività e la LSAI per quanto riguarda le operazioni effettuate tramite le loro succursali situate in un altro Stato o territorio se sono soddisfatte le condizioni seguenti:
+
+- a. lo Stato o il territorio non attua lo scambio automatico di informazioni relative a cripto-attività al momento dell’entrata in vigore della modifica;
+- b. la succursale sarebbe assoggettata in questo Stato o territorio agli obblighi previsti dal CARF per quanto riguarda le operazioni effettuate per il suo tramite se tale Stato o territorio avesse attuato lo scambio automatico di informazioni relative a cripto-attività al momento dell’entrata in vigore della modifica.
+
+<sup>3</sup> In deroga al capoverso 1, conformemente alla sezione I parte B dell’allegato all’Accordo SAI Cripto-attività una succursale svizzera di un prestatore di servizi per le cripto-attività tenuto alla comunicazione è assoggettata in Svizzera agli obblighi secondo l’Accordo SAI Cripto-attività e la LSAI per quanto riguarda le operazioni effettuate per il suo tramite.
+
+<sup>4</sup> I prestatori svizzeri di servizi per le cripto-attività tenuti alla comunicazione che conformemente al capoverso 1 sono esonerati dagli obblighi di comunicazione e adeguata verifica in materia fiscale devono comunicare all’AFC, oltre alle indicazioni di cui all’articolo 13*a* capoverso 2 LSAI, lo Stato o il territorio nel quale sarebbero assoggettati all’obbligo di comunicazione, così come il criterio di collegamento di cui alla sezione I parte A CARF in base al quale sarebbero assoggettati all’obbligo di comunicazione in tale Stato o territorio.
+
+<sup>5</sup> Per gli enti di cui agli articoli 5 e 6 del diritto anteriore che dall’entrata in vigore della modifica sono considerati istituti finanziari svizzeri tenuti alla comunicazione, in relazione ai conti già aperti presso tali istituti il giorno antecedente l’entrata in vigore della modifica valgono gli obblighi di adeguata verifica previsti per i conti preesistenti. Si applicano i termini di cui all’articolo 11 capoversi 2‒4 LSAI, che decorrono dall’entrata in vigore della modifica.
+
+<sup>6</sup> Ai conti di cui all’articolo 9 del diritto anteriore già aperti o detenuti il giorno antecedente l’entrata in vigore della modifica si applica il termine di cui alla sezione VIII parte C punto 17 lettera e comma v quinto trattino dell’allegato all’Accordo multilaterale del 29 ottobre 2014[^19-3] tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari, che decorre dall’entrata in vigore della modifica.
+
+<sup>7</sup> Dall’entrata in vigore della modifica, gli istituti finanziari svizzeri tenuti alla comunicazione presso i quali sono già aperti conti di cui agli articoli 10 e 11 del diritto anteriore che non sono detenuti da un istituto finanziario devono verificare questi conti. In relazione ai conti già aperti presso tali istituti il giorno antecedente l’entrata in vigore della modifica valgono gli obblighi di adeguata verifica previsti per i conti preesistenti. Si applicano i termini di cui all’articolo 11 capoversi 2‒4 LSAI, che decorrono dall’entrata in vigore della modifica.
+
+<sup>8</sup> Le disposizioni sulle cripto-attività di cui alla modifica del 26 novembre 2025 della presente ordinanza e alla modifica del 26 settembre 2025[^19-4] della LSAI non sono applicabili nel 2026.
+
+[^19-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^19-2]: RS …; [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^19-3]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^19-4]: [FF 2025 2894](https://fedlex.data.admin.ch/eli/fga/2025/2894)
 
 #### Art. 36
 
-**Entrata in vigore[^36-1]**
+**Entrata in vigore[^20-1]**
 
 La presente ordinanza entra in vigore il 1° gennaio 2017.
 
-[^36-1]: Introdotta dal n. I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^20-1]: Introdotta dalla cifra I dell’O dell’11 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 Allegato
 

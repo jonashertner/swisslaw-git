@@ -4,11 +4,11 @@ title: Verordnung vom 23. November 2016 über den internationalen automatischen 
 short: AIAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/786"
 language: de
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2016-786-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2016-786-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/de"
 
 (AIAV)
 
-vom 23. November 2016 (Stand am 1. Januar 2022)
+vom 23. November 2016 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -27,15 +27,34 @@ verordnet:
 
 [^ingress-1]: [SR 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 
-## 1. Abschnitt: …
+## 1. Kapitel: Gemeinsamer Melde- und Sorgfaltsstandard für Informationen über Finanzkonten
+
+[^chap1-1]
+
+[^chap1-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+### 1. Abschnitt: …
 
 #### Art. 1
 
 [^1-1]
 
-[^1-1]: Aufgehoben durch Ziff. I der V vom 7. November 2018, mit Wirkung seit 1. Januar 2019 ([AS 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
+[^1-1]: Aufgehoben durch Ziff. I der V vom 7. Nov. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
 
-## 2. Abschnitt: Nicht meldende Finanzinstitute
+### 1*a*. Abschnitt: Massgebende Fassung der OECD-Kommentare
+
+[^chap1-sec1a-1]
+
+[^chap1-sec1a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+#### Art. 1a
+
+Die nach Artikel 2*b* Absatz 2 AIAG massgebende Fassung der Kommentare der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) zum Muster für eine Vereinbarung zwischen den zuständigen Behörden und zum Gemeinsamen Melde- und Sorgfaltsstandard für Informationen über Finanzkonten (GMS) ist jene vom 27. März 2017[^1a-1]. Die massgebende Fassung der Kommentare der OECD zum Addendum zur Multilateralen Vereinbarung zwischen den zuständigen Behörden über den automatischen Austausch von Informationen über Finanzkonten und zur Änderung des GMS ist jene vom 8. Juni 2023[^1a-2].
+
+[^1a-1]: Diese Kommentare können kostenlos abgerufen werden unter: [www.oecd.org](http://www.oecd.org) &gt; Topics &gt; Taxation &gt; Tax Transparency and International Co-operation &gt; Related Publications &gt; Standard for Automatic Exchange of Financial Account Information in Tax Matters, Second Edition.
+[^1a-2]: Diese Kommentare können kostenlos abgerufen werden unter [www.oecd.org](http://www.oecd.org) &gt; Topics &gt; Taxation &gt; Tax Transparency and International Co-operation &gt; Related Publications &gt; International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 Update to the Common Reporting Standard.
+
+### 2. Abschnitt: Nicht meldende Finanzinstitute
 
 #### Art. 2
 
@@ -45,15 +64,19 @@ verordnet:
 
 Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 7 AIAG gelten die folgenden Organismen für gemeinsame Anlagen, sofern sämtliche Beteiligungen von oder über natürliche Personen oder Rechtsträger, die keine meldepflichtigen Personen sind, gehalten werden und die Voraussetzungen nach Artikel 3 Absatz 8 AIAG erfüllt sind:
 
-- a. vertragliche Anlagefonds nach den Artikeln 25–35 des Kollektivanlagengesetzes vom 23. Juni 2006[^2-1] (KAG);
-- b. Investmentgesellschaften mit variablem Kapital nach den Artikeln 36–52 KAG;
-- c. Kommanditgesellschaften für kollektive Kapitalanlagen nach den Artikeln 98–109 KAG;
+- a.[^2-1] vertragliche Anlagefonds nach den Artikeln 25–27 und 118*a*–118*p* des Kollektivanlagengesetzes vom 23. Juni 2006[^2-2] (KAG);
+- b.[^2-3] Investmentgesellschaften mit variablem Kapital nach den Artikeln 36–52 und 118*a*–118*p* KAG;
+- c.[^2-4] Kommanditgesellschaften für kollektive Kapitalanlagen nach den Artikeln 98–109 und 118*a*–118*p* KAG;
 - d. Investmentgesellschaften mit festem Kapital nach den Artikeln 110–118 KAG;
 - e. an einer Schweizer Börse kotierte Investmentgesellschaften in Form von schweizerischen Aktiengesellschaften nach Artikel 2 Absatz 3 KAG.
 
-<sup>2</sup> Diese Organismen gelten jedoch als meldende Finanzinstitute, sofern Beteiligungen von oder über passive Non Financial Entities (NFEs) nach dem gemeinsamen Meldestandard (GMS) gehalten werden, deren beherrschende Personen meldepflichtig sind.
+<sup>2</sup> Diese Organismen gelten jedoch als meldende Finanzinstitute, sofern Beteiligungen von oder über passive Non Financial Entities (NFEs) nach dem GMS gehalten werden, deren beherrschende Personen meldepflichtig sind.[^2-5]
 
-[^2-1]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-2]: [SR 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-3]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-4]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-5]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 3
 
@@ -72,28 +95,41 @@ Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 11 AIAG gelten Zentralv
 
 [^4-1]: [SR 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
-#### Art. 5
+#### Art. 5 und 6
 
-**Vereine**
+[^56-1]
 
-Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 11 AIAG gelten in der Schweiz errichtete und organisierte Vereine, die nicht wirtschaftliche Zwecke verfolgen.
+[^56-1]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
-#### Art. 6
+#### Art. 6a
 
-**Stiftungen**
+**Qualifizierte gemeinnützige Rechtsträger**[^6a-1]
 
-Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 11 AIAG gelten in der Schweiz errichtete und organisierte Stiftungen, die:
+<sup>1</sup>
 
-- a. öffentliche oder gemeinnützige Zwecke verfolgen und ihre Gewinne ausschliesslich und unwiderruflich diesen Zwecken widmen; oder
-- b. ideelle Zwecke verfolgen, Gewinne von höchstens 20 000 Franken erzielen und diese ausschliesslich und unwiderruflich diesen Zwecken widmen.
+Mit Ausnahme von Kapitalgesellschaften nach den Artikeln 620–827 des Obligationenrechts (OR)[^6a-2] und Genossenschaften mit einem Anteilscheinkapital nach den Artikeln 828–926 OR gelten in der Schweiz ansässige Rechtsträger als qualifizierte gemeinnützige Rechtsträger nach Artikel 3 Absatz 9<sup>bis</sup> AIAG, wenn sie die folgenden Voraussetzungen erfüllen:
+
+- a. Sie werden in der Schweiz und ausschliesslich für religiöse, gemeinnützige, wissenschaftliche, künstlerische, kulturelle, sportliche oder erzieherische Zwecke errichtet und betrieben oder sie werden in der Schweiz errichtet und betrieben und sind Berufsverbände, Wirtschaftsverbände, Handelskammern, Arbeitnehmerverbände, Landwirtschafts- oder Gartenbauverbände, Bürgervereinigungen oder Organisationen, die ausschliesslich zur Förderung der sozialen Wohlfahrt betrieben werden.
+- b. Sie sind in der Schweiz von der Einkommens- beziehungsweise Gewinnsteuer befreit.
+- c. Sie haben keine Anteilseignerinnen oder Anteilseigner oder Mitglieder, die Eigentums- oder Nutzungsrechte an ihren Einkünften oder Vermögenswerten haben.
+- d. Nach schweizerischem Recht oder nach den Gründungsunterlagen der Rechtsträger dürfen ihre Einkünfte und Vermögenswerte nicht an eine Privatperson oder einen nicht gemeinnützigen Rechtsträger ausgeschüttet oder zu deren Gunsten verwendet werden, ausser in Übereinstimmung mit der Ausübung der gemeinnützigen Tätigkeit des Rechtsträgers, als Zahlung einer angemessenen Vergütung für erbrachte Leistungen oder als Zahlung für einen vom Rechtsträger erworbenen Vermögensgegenstand in der Höhe des entsprechenden Marktwerts.
+- e. Nach schweizerischem Recht oder nach den Gründungsunterlagen der Rechtsträger werden bei ihrer Liquidation oder Auflösung ihre Vermögenswerte an einen staatlichen Rechtsträger oder einen Rechtsträger, der die Voraussetzungen nach den Buchstaben a–e erfüllt, übertragen oder sie fallen der Regierung der Schweiz, eines Kantons oder einer Gemeinde anheim.
+
+<sup>2</sup> Die Voraussetzungen nach Absatz 1 gelten als erfüllt, wenn die jeweiligen Rechtsträger nach Artikel 56 Buchstabe g oder h des Bundesgesetzes vom 14. Dezember 1990[^6a-3] über die direkte Bundessteuer (DBG) von der direkten Bundessteuer befreit sind.
+
+<sup>3</sup> Als Bestätigung nach Artikel 3 Absatz 9<sup>bis</sup> AIAG gilt insbesondere eine Verfügung über die Steuerbefreiung nach Artikel 56 Buchstabe g oder h DBG oder ein Eintrag in einem öffentlich zugänglichen kantonalen Verzeichnis der steuerbefreiten Institutionen.
+
+[^6a-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^6a-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^6a-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Aufgehoben durch Ziff. I der V vom 11. November 2020, mit Wirkung seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^7-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
-## 3. Abschnitt: Ausgenommene Konten
+### 3. Abschnitt: Ausgenommene Konten
 
 #### Art. 8
 
@@ -105,27 +141,11 @@ Als nicht meldende Finanzinstitute nach Artikel 3 Absatz 11 AIAG gelten in der S
 
 [^8-1]: [SR 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
 
-#### Art. 9
+#### Art. 9–11
 
-**Kapitaleinzahlungskonten**
+[^911-1]
 
-Meldende schweizerische Finanzinstitute können Kapitaleinzahlungskonten als ausgenommene Konten nach Artikel 4 Absatz 3 AIAG behandeln, sofern:
-
-- a. die Konten ausschliesslich zur Hinterlegung des Kapitals bei Gründung oder Kapitalerhöhung einer Gesellschaft verwendet werden;
-- b. die Konten nach der Gründung oder Kapitalerhöhung aufgelöst oder in Konten überführt werden, die auf die Gesellschaft lauten; und
-- c. allfällige Rückzahlungen aufgrund nicht erfolgter Gründung oder Kapitalerhöhung oder zu viel einbezahlten Kapitals ausschliesslich an die Personen gehen, die das Kapital einbezahlt haben.
-
-#### Art. 10
-
-**Konten von Vereinen**
-
-Meldende schweizerische Finanzinstitute können Konten von in der Schweiz errichteten und organisierten Vereinen, die nicht wirtschaftliche Zwecke verfolgen, als ausgenommene Konten nach Artikel 4 Absatz 3 AIAG behandeln.
-
-#### Art. 11
-
-**Konten von Stiftungen**
-
-Meldende schweizerische Finanzinstitute können Konten von in der Schweiz errichteten und organisierten Stiftungen als ausgenommene Konten nach Artikel 4 Absatz 3 AIAG behandeln, sofern die Stiftungen die Voraussetzungen nach Artikel 6 Buchstaben a und b dieser Verordnung erfüllen.
+[^911-1]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 12
 
@@ -137,7 +157,7 @@ Meldende schweizerische Finanzinstitute können Konten von Miteigentümergemeins
 - b. die Miteigentümerinnen und Miteigentümer eine Nutzungs- und Verwaltungsordnung nach Artikel 647 des Zivilgesetzbuches[^12-3] (ZGB) vereinbart haben, in der festgelegt wird, dass die von der Miteigentümergemeinschaft verwalteten finanziellen Vermögenswerte ausschliesslich für Aufwendungen im Zusammenhang mit der im Miteigentum stehenden Sache verwendet werden; und
 - c. diese Nutzungs- und Verwaltungsordnung nach Artikel 649*a* Absatz 2 ZGB im Grundbuch angemerkt ist.
 
-[^12-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^12-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 [^12-2]: [SR 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
 [^12-3]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
@@ -155,28 +175,19 @@ Meldende schweizerische Finanzinstitute können Konten von Stockwerkeigentümerg
 
 Meldende schweizerische Finanzinstitute können nachrichtenlose Konten nach Artikel 11 Absatz 6 Buchstaben a und b AIAG, bei denen der Kontostand oder -wert am Ende des Kalenderjahres oder eines anderen geeigneten Meldezeitraums oder im Zeitpunkt der Kontoauflösung höchstens 1000 US-Dollar beträgt, als ausgenommene Konten nach Artikel 4 Absatz 3 AIAG behandeln.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Aufgehoben durch Ziff. I der V vom 11. November 2020, mit Wirkung seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^15-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 16
 
-**E-Geld-Konten**
+[^16-1]
 
-<sup>1</sup>
-
-Meldende schweizerische Finanzinstitute können E-Geld-Konten als ausgenommene Konten nach Artikel 4 Absatz 3 AIAG behandeln, sofern:
-
-- a. die Konten ausschliesslich für E-Geld-Zahlungsmittel zum bargeldlosen Bezahlen von Waren und Dienstleistungen, zum Bargeldbezug oder zum bargeldlosen Zahlungsverkehr zwischen Privatpersonen, bei denen ein elektronisch gespeichertes Guthaben Voraussetzung für die Transaktion ist, verwendet werden;
-- b. eine vertraglich vereinbarte Guthabenlimite von höchstens 10 000 Franken oder US-Dollar oder Euro gilt;
-- c. jede Überzahlung über 10 000 Franken oder US-Dollar oder Euro hinaus der Kontoinhaberin oder dem Kontoinhaber innerhalb von 60 Tagen zurückerstattet wird; und
-- d. den Konten keine Zinsen gutgeschrieben werden.
-
-<sup>2</sup> Als E-Geld gilt jeder elektronisch gespeicherte monetäre Wert in Form einer Forderung gegenüber dem Herausgeber von E-Geld, der gegen Zahlung eines Geldbetrags ausgestellt wird, um damit Zahlungsvorgänge durchzuführen, und der auch von anderen natürlichen oder juristischen Personen als dem Herausgeber von E-Geld angenommen wird.
+[^16-1]: Aufgehoben durch Ziff. I der V vom 26. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 17
 
@@ -184,18 +195,20 @@ Meldende schweizerische Finanzinstitute können E-Geld-Konten als ausgenommene K
 
 Meldende schweizerische Finanzinstitute können Konten von Erblasserinnen und Erblassern bis zur Auflösung der Erbengemeinschaft wie Konten, deren ausschliesslicher Inhaber ein Nachlass mit eigener Rechtspersönlichkeit ist, und damit als ausgenommene Konten behandeln, sofern ihnen der Tod der Erblasserin oder des Erblassers durch ein eröffnetes Testament, eine Todesurkunde oder in anderer geeigneter Form mitgeteilt worden ist.
 
-## 4. Abschnitt: Ansässigkeit von Finanzinstituten in der Schweiz
+### 4. Abschnitt: Ansässigkeit von Finanzinstituten in der Schweiz
 
 #### Art. 18
 
 **Steuerpflichtige und steuerbefreite Finanzinstitute**
 
-Als in der Schweiz ansässig nach Artikel 5 Absatz 1 AIAG gelten:
+Als nach Artikel 5 Absatz 1 AIAG in der Schweiz ansässig gelten:[^18-1]
 
-- a. Finanzinstitute, die in der Schweiz unbeschränkt steuerpflichtig sind oder eine wirtschaftliche Zugehörigkeit nach Artikel 4 Absatz 1 Buchstabe b oder Artikel 51 Absatz 1 Buchstabe b des Bundesgesetzes vom 14. Dezember 1990[^18-1] über die direkte Bundessteuer begründen;
+- a.[^18-2] Finanzinstitute, die in der Schweiz unbeschränkt steuerpflichtig sind oder eine wirtschaftliche Zugehörigkeit nach Artikel 4 Absatz 1 Buchstabe b oder 51 Absatz 1 Buchstabe b DBG[^18-3] begründen;
 - b. steuerbefreite Finanzinstitute, die nach schweizerischem Recht errichtet worden sind.
 
-[^18-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^18-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^18-2]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^18-3]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 19
 
@@ -209,13 +222,13 @@ Trusts, die im Ausland als Organismen für gemeinsame Anlagen reguliert sind, ge
 
 Als Ort der Geschäftsleitung nach Artikel 5 Absatz 2 Buchstabe b AIAG gilt der Ort der tatsächlichen Verwaltung in der Schweiz.
 
-## 5. Abschnitt: Alternativbestimmungen des OECD-Kommentars zum GMS
+### 5. Abschnitt: Alternativbestimmungen des OECD-Kommentars zum GMS
 
 #### Art. 21
 
 Die Alternativbestimmungen des OECD-Kommentars zum GMS sind im Anhang enthalten. Sie gelten, sofern das im Einzelfall anwendbare Abkommen ihre Anwendung nicht ausschliesst.
 
-## 6. Abschnitt: Präzisierung der allgemeinen Meldepflichten
+### 6. Abschnitt: Präzisierung der allgemeinen Meldepflichten
 
 #### Art. 22
 
@@ -297,7 +310,7 @@ Sie können die Beträge in den folgenden Währungen angeben:
 - c. in Franken; oder
 - d. in US-Dollar.
 
-## 7. Abschnitt: Präzisierung der Sorgfaltspflichten
+### 7. Abschnitt: Präzisierung der Sorgfaltspflichten
 
 #### Art. 27
 
@@ -313,7 +326,7 @@ Als solche Ausnahmen gelten namentlich:
 - b. Wechsel des Kontoinhabers oder der Kontoinhaberin infolge gerichtlicher oder behördlicher Anordnung;
 - c. Entstehung eines Begünstigtenanspruchs gegenüber einem Trust oder einem ähnlichen Rechtsgebilde auf der Grundlage von dessen Errichtungsakt oder Stiftungsurkunde.
 
-[^27-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^27-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 28
 
@@ -346,23 +359,112 @@ Das meldende schweizerische Finanzinstitut muss vor Erfüllung des fälligen Ans
 
 [^30-1]
 
-[^30-1]: Aufgehoben durch Ziff. I der V vom 11. November 2020, mit Wirkung seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^30-1]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
-## 8. Abschnitt: Registrierungspflicht der meldenden schweizerischen Finanzinstitute
+## 2. Kapitel: Melderahmen für Kryptowerte
+
+[^chap2-1]
+
+[^chap2-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+### 1. Abschnitt: Massgebende Fassung der OECD-Kommentare
+
+#### Art. 30a
+
+Die nach Artikel 2*b* Absatz 2 AIAG massgebende Fassung der Kommentare der OECD zur Multilateralen Vereinbarung zwischen den zuständigen Behörden über den automatischen Informationsaustausch nach dem Melderahmen für Kryptowerte und zum Melderahmen für Kryptowerte (MRK) ist jene vom 8. Juni 2023[^30a-1].
+
+[^30a-1]: Diese Kommentare können kostenlos abgerufen werden unter: [www.oecd.org](http://www.oecd.org) &gt; Topics &gt; Taxation &gt; Tax Transparency and International Co-operation &gt; Related Publications &gt; International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 Update to the Common Reporting Standard.
+
+### 2. Abschnitt: Relevante meldende Anbieter von Kryptodienstleistungen
+
+#### Art. 30b
+
+<sup>1</sup> Als nach Artikel 12*b* Absatz 1 AIAG in der Schweiz steuerlich ansässig gelten meldende Anbieter von Kryptodienstleistungen, die in der Schweiz eine persönliche Zugehörigkeit nach Artikel 3 oder 50 DBG[^30b-1] begründen.
+
+<sup>2</sup>
+
+Als nach Artikel 12*b* Absatz 1 AIAG einer Pflicht zur Einreichung von Steuerinformationsformularen unterliegend gilt, wer verpflichtet ist, in der Schweiz eine Steuererklärung oder eine Steuerinformationserklärung einzureichen. Als solche gelten:
+
+- a. die Steuererklärung für die direkte Bundessteuer;
+- b. die Steuererklärung für die direkten Steuern der Kantone;
+- c. Bescheinigungen nach Artikel 129 Absatz 1 Buchstabe c DBG;
+- d. Bescheinigungen nach den kantonalen Gesetzesbestimmungen zur Umsetzung von Artikel 45 Absatz 1 Buchstabe c des Steuerharmonisierungsgesetzes vom 14. Dezember 1990[^30b-2].
+
+<sup>3</sup> Als nach Artikel 12*b* Absatz 1 AIAG über eine Zweigniederlassung in der Schweiz verfügend gelten meldende Anbieter von Kryptodienstleistungen, sofern sie in der Schweiz eine wirtschaftliche Zugehörigkeit nach Artikel 4 Absatz 1 Buchstabe b oder 51 Absatz 1 Buchstabe b DBG begründen.
+
+<sup>4</sup>
+
+Nach Artikel 12*b* Absatz 2 AIAG als gewerblich gilt das Erbringen einer Dienstleistung zur Durchführung von Tauschgeschäften für oder im Auftrag von Kundinnen oder Kunden, wenn die die Dienstleistung erbringende natürliche Person oder der die Dienstleistung erbringende Rechtsträger:
+
+- a. damit pro Kalenderjahr einen Bruttoerlös von mehr als 50 000 Franken erzielt;
+- b. pro Kalenderjahr mit mehr als 20 Kundinnen oder Kunden Geschäftsbeziehungen aufnimmt, die sich nicht auf ein einmaliges Erbringen dieser Dienstleistungen beschränken, oder pro Kalenderjahr mindestens 20 solche Beziehungen unterhält;
+- c. unbefristete Verfügungsmacht über Kryptowerte von Kundinnen oder Kunden hat, die zu einem beliebigen Zeitpunkt 5 Millionen Franken überschreiten; oder
+- d. Dienstleistungen zur Durchführung von Tauschgeschäften erbringt, deren Gesamtvolumen 2 Millionen Franken pro Kalenderjahr überschreitet.
+
+[^30b-1]: [SR 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^30b-2]: [SR 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+
+### 3. Abschnitt: Präzisierung der Meldepflichten
+
+#### Art. 30c
+
+Schweizerische meldende Anbieter von Kryptodienstleistungen können im Todesfall einer Person eines meldepflichtigen Staates den Nachlass dieser Person bis zur Auflösung der Erbengemeinschaft als Nachlass mit eigener Rechtspersönlichkeit behandeln. Der Nachlass gilt als meldepflichtige Person jenes Staates oder Hoheitsgebiets, in dem die verstorbene Person zuletzt steuerlich ansässig war.
+
+### 4. Abschnitt: Präzisierung der Sorgfaltspflichten
+
+#### Art. 30d
+
+**Entstehung einer Geschäftsbeziehung mit einer Kryptowertnutzerin oder einem Kryptowertnutzer**
+
+<sup>1</sup> Als Ausnahmen nach Artikel 12*f* Absatz 3 AIAG gelten Fälle, in denen eine Geschäftsbeziehung mit einer Kryptowertnutzerin oder einem Kryptowertnutzer entsteht, ohne dass der schweizerische meldende Anbieter von Kryptodienstleistungen zur Entstehung beiträgt oder diese verhindern kann.
+
+<sup>2</sup>
+
+Als solche Ausnahmen gelten namentlich:
+
+- a. Wechsel der Kryptowertnutzerin oder des Kryptowertnutzers infolge gerichtlicher oder behördlicher Anordnung;
+- b. Entstehung eines Begünstigtenanspruchs gegenüber einem Trust oder einem ähnlichen Rechtsgebilde auf der Grundlage von dessen Errichtungsakt oder Stiftungsurkunde.
+
+#### Art. 30e
+
+**Auflösung der Geschäftsbeziehung**
+
+<sup>1</sup> Wird eine Geschäftsbeziehung vor Ablauf der Fristen nach Artikel 12*f* Absätze 1, 3 und 4 AIAG aufgelöst und ist die Überprüfung der Geschäftsbeziehung durch den schweizerischen meldenden Anbieter von Kryptodienstleistungen bis zum Zeitpunkt der Auflösung noch nicht abgeschlossen, so kann der schweizerische meldende Anbieter von Kryptodienstleistungen die Kryptowertnutzerin oder den Kryptowertnutzer und die beherrschende Person als nicht meldepflichtige Person betrachten.
+
+<sup>2</sup> Wird eine Geschäftsbeziehung einer Nutzerin oder eines Nutzers nach einer Änderung der Gegebenheiten aufgelöst und ist die sich aus der Änderung der Gegebenheiten ergebende Nachprüfung der Geschäftsbeziehung im Zeitpunkt der Auflösung noch nicht abgeschlossen, so muss der schweizerische meldende Anbieter von Kryptodienstleistungen die Änderung der Gegebenheiten für die Meldung nicht berücksichtigen.
+
+## 3. Kapitel: Gemeinsame Bestimmungen
+
+[^chap3-1]
+
+[^chap3-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+### 1. Abschnitt: Registrierungspflicht
+
+[^chap3-sec1-1]
+
+[^chap3-sec1-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 31
 
-<sup>1</sup> Ein schweizerisches Finanzinstitut muss sich bei der Eidgenössischen Steuerverwaltung (ESTV) spätestens bis zum Ende des Kalenderjahres anmelden, in dem es zu einem meldenden schweizerischen Finanzinstitut wird.
+<sup>1</sup> Ein schweizerisches Finanzinstitut oder ein relevanter meldender Anbieter von Kryptodienstleistungen muss sich bei der Eidgenössischen Steuerverwaltung (ESTV) spätestens bis zum Ende des Kalenderjahres anmelden, in dem es zu einem meldenden schweizerischen Finanzinstitut beziehungsweise er zu einem relevanten meldenden Anbieter von Kryptodienstleistungen wird.
 
-<sup>2</sup> Ein meldendes schweizerisches Finanzinstitut muss sich bei der ESTV spätestens bis zum Ende des Kalenderjahres abmelden, in dem die Eigenschaft als meldendes schweizerisches Finanzinstitut endet oder die Geschäftstätigkeit aufgegeben wird.
+<sup>2</sup> Ein meldendes schweizerisches Finanzinstitut oder ein relevanter meldender Anbieter von Kryptodienstleistungen muss sich bei der ESTV spätestens bis zum Ende des Kalenderjahres abmelden, in dem die Eigenschaft als meldendes schweizerisches Finanzinstitut beziehungsweise als relevanter meldender Anbieter von Kryptodienstleistungen endet oder die Geschäftstätigkeit aufgegeben wird.
 
-<sup>3</sup> Nicht als Abmeldung gilt die Mitteilung des meldenden schweizerischen Finanzinstituts an die ESTV, dass es keine meldepflichtigen Finanzkonten führt.
+<sup>3</sup>
 
-<sup>4</sup> Bei einem Trust, der nach Artikel 13 Absatz 4 AIAG anzumelden ist, muss die oder der Trustee vor dem Namen des Trusts den Zusatz «TDT=» hinzufügen. Artikel 13 Absätze 2 und 3 AIAG ist sinngemäss anwendbar.[^31-1]
+Nicht als Abmeldung gilt:
 
-[^31-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+- a. die Mitteilung des meldenden schweizerischen Finanzinstituts oder des schweizerischen meldenden Anbieters von Kryptodienstleistungen an die ESTV, dass es keine meldepflichtigen Finanzkonten führt beziehungsweise er keine meldepflichtigen Nutzerinnen oder Nutzer hat;
+- b. die Meldung des relevanten meldenden Anbieters von Kryptodienstleistungen gemäss Artikel 15 Absatz 1<sup>ter</sup> AIAG.
 
-## 9. Abschnitt: Vom Ausland automatisch übermittelte Informationen
+<sup>4</sup> Bei einem Trust, der nach Artikel 13 Absatz 4 AIAG anzumelden ist, muss die oder der Trustee vor dem Namen des Trusts den Zusatz «TDT=» hinzufügen. Artikel 13 Absätze 2 und 3 AIAG ist sinngemäss anwendbar.
+
+### 2. Abschnitt: Vom Ausland automatisch übermittelte Informationen
+
+[^chap3-sec2-1]
+
+[^chap3-sec2-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 32
 
@@ -379,9 +481,13 @@ Die Kantone melden der ESTV innerhalb von zwei Monaten nach Ende jedes Kalenderj
 
 <sup>4</sup> Mitarbeiterinnen und Mitarbeiter dieser Behörde haben nur dann auf diese Informationen Zugriff im Abrufverfahren, wenn sie sich durch zwei Faktoren authentifizieren, wobei einer der Faktoren ein physisches, eindeutiges und fälschungssicheres Identifikationsmerkmal sein muss.
 
-[^32-1]: Ausdruck gemäss Anhang Ziff. II 25 der V vom 17. November 2021, in Kraft seit 1. Januar 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^32-1]: Ausdruck gemäss Anhang Ziff. II 25 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
-## 10. Abschnitt: Informationssystem
+### 3. Abschnitt: Informationssystem
+
+[^chap3-sec3-1]
+
+[^chap3-sec3-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 33
 
@@ -395,9 +501,11 @@ Die Kantone melden der ESTV innerhalb von zwei Monaten nach Ende jedes Kalenderj
 
 #### Art. 34
 
-**Kategorien der bearbeiteten Personendaten**
+**Kategorien der bearbeiteten Personendaten und Daten juristischer Personen**[^34-1]
 
-Die ESTV kann die ihr gemäss dem anwendbaren Abkommen übermittelten Personendaten bearbeiten.
+Die ESTV kann die ihr gemäss dem anwendbaren Abkommen übermittelten Personendaten und Daten juristischer Personen bearbeiten.
+
+[^34-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 35
 
@@ -405,11 +513,11 @@ Die ESTV kann die ihr gemäss dem anwendbaren Abkommen übermittelten Personenda
 
 Die ESTV vernichtet die Daten spätestens 20 Jahre nach Ablauf des Kalenderjahres, in dem sie diese erhalten hat.
 
-## 11. Abschnitt: Schlussbestimmungen
+## 4. Kapitel: Schlussbestimmungen
 
-[^sec11-1]
+[^sec3-1]
 
-[^sec11-1]: Fassung gemäss Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^sec3-1]: Fassung gemäss Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 35a
 
@@ -417,8 +525,44 @@ Die ESTV vernichtet die Daten spätestens 20 Jahre nach Ablauf des Kalenderjahre
 
 In Bezug auf Konten, die am Tag vor Inkrafttreten der Änderung vom 11. November 2020 geführt werden und für die dem meldenden schweizerischen Finanzinstitut eine Selbstauskunft vorliegt, die keine Steueridentifikationsnummer enthält, sind die Regeln nach Abschnitt I Unterabschnitt C der Beilage zur multilateralen Vereinbarung vom 29. Oktober 2014[^35a-2] der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten anwendbar.
 
-[^35a-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^35a-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 [^35a-2]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+
+#### Art. 35b
+
+**Übergangsbestimmungen zur Änderung vom 26. November 2025**[^35b-1]
+
+<sup>1</sup>
+
+Die ersten drei Jahre nach Inkrafttreten der Änderung vom 26. November 2025 sind schweizerische meldende Anbieter von Kryptodienstleistungen von den Melde- und Sorgfaltspflichten nach der Multilateralen Vereinbarung vom 8. Juni 2023[^35b-2] der zuständigen Behörden über den automatischen Informationsaustausch nach dem Melderahmen für Kryptowerte (AIA-Vereinbarung Kryptowerte) und dem AIAG befreit, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die schweizerischen meldenden Anbieter von Kryptodienstleistungen verfügen über einen Anknüpfungspunkt nach Abschnitt I Unterabschnitt A MRK zu einem anderen Staat oder Hoheitsgebiet, der nach Abschnitt I Unterabschnitte C–F MRK dem Anknüpfungspunkt zur Schweiz vorgeht.
+- b. Der Staat oder das Hoheitsgebiet setzt den automatischen Informationsaustausch über Kryptowerte zum Zeitpunkt des Inkrafttretens der Änderung nicht um.
+- c. Die schweizerischen meldenden Anbieter von Kryptodienstleistungen würden diesen Melde- und Sorgfaltspflichten in der Schweiz nicht unterstehen, wenn dieser Staat oder dieses Hoheitsgebiet den automatischen Informationsaustausch über Kryptowerte zum Zeitpunkt des Inkrafttretens der Änderung umgesetzt hätte.
+
+<sup>2</sup>
+
+Schweizerische meldende Anbieter von Kryptodienstleistungen sind in diesem Zeitraum zudem befreit von den Melde- und Sorgfaltspflichten nach der AIA-Vereinbarung Kryptowerte und dem AIAG in Bezug auf Transaktionen, die über ihre Zweigniederlassungen in einem anderen Staat oder Hoheitsgebiet durchgeführt werden, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Der Staat oder das Hoheitsgebiet setzt den automatischen Informationsaustausch über Kryptowerte zum Zeitpunkt des Inkrafttretens der Änderung nicht um.
+- b. Die Zweigniederlassung würde in diesem Staat oder Hoheitsgebiet in Bezug auf die über sie durchgeführten Transaktionen den Pflichten nach dem MRK unterstehen, wenn der Staat oder das Hoheitsgebiet den automatischen Informationsaustausch über Kryptowerte zum Zeitpunkt des Inkrafttretens der Änderung umgesetzt hätte.
+
+<sup>3</sup> In Abweichung von Absatz 1 untersteht eine Schweizer Zweigniederlassung eines meldenden Anbieters von Kryptodienstleistungen gemäss Abschnitt I Unterabschnitt B der Beilage zur AIA-Vereinbarung Kryptowerte in Bezug auf die über sie durchgeführten Transaktionen den Pflichten nach der AIA-Vereinbarung Kryptowerte und dem AIAG in der Schweiz.
+
+<sup>4</sup> Die schweizerischen meldenden Anbieter von Kryptodienstleistungen, die nach Absatz 1 von den Melde- und Sorgfaltspflichten befreit sind, müssen der ESTV zusätzlich zu den Angaben nach Artikel 13*a* Absatz 2 AIAG jenen Staat oder jenes Hoheitsgebiet melden, in dem sie der Meldepflicht unterstehen würden, sowie den Anknüpfungspunkt nach Abschnitt I Unterabschnitt A MRK, aufgrund dessen sie in diesem Staat oder Hoheitsgebiet der Meldepflicht unterstehen würden.
+
+<sup>5</sup> Für Rechtsträger nach den Artikeln 5 und 6 des bisherigen Rechts, die ab Inkrafttreten der Änderung als meldende schweizerische Finanzinstitute gelten, gelten in Bezug auf Konten, die am Tag vor dem Inkrafttreten der Änderung geführt werden, die Sorgfaltspflichten für bestehende Konten. Es gelten die Fristen nach Artikel 11 Absätze 2–4 AIAG, wobei der Fristenlauf mit dem Inkrafttreten der Änderung beginnt.
+
+<sup>6</sup> Für Konten nach Artikel 9 des bisherigen Rechts, die am Tag vor dem Inkrafttreten der Änderung geführt oder gehalten werden, gilt die Frist nach Abschnitt VIII Unterabschnitt C Nummer 17 Buchstabe e Ziffer v fünfter Strich der Beilage zur Multilateralen Vereinbarung vom 29. Oktober 2014[^35b-3] der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten, wobei der Fristenlauf mit dem Inkrafttreten der Änderung beginnt.
+
+<sup>7</sup> Meldende schweizerische Finanzinstitute, die Konten nach den Artikeln 10 und 11 des bisherigen Rechts führen, welche nicht von einem Finanzinstitut gehalten werden, müssen diese Konten ab Inkrafttreten der Änderung überprüfen. In Bezug auf Konten, die am Tag vor dem Inkrafttreten der Änderung geführt werden, gelten die Sorgfaltspflichten für bestehende Konten. Es gelten die Fristen nach Artikel 11 Absätze 2–4 AIAG, wobei der Fristenlauf mit dem Inkrafttreten der Änderung beginnt.
+
+<sup>8</sup> Die Bestimmungen zu Kryptowerten nach der Änderung vom 26. November 2025 der vorliegenden Verordnung und der Änderung vom 26. September 2025[^35b-4] des AIAG finden im Jahr 2026 keine Anwendung.
+
+[^35b-1]: Eingefügt durch Ziff. I der V vom 26. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^35b-2]: SR …; [BBl 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^35b-3]: [SR 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^35b-4]: [BBl 2025 2894](https://fedlex.data.admin.ch/eli/fga/2025/2894)
 
 #### Art. 36
 
@@ -426,7 +570,7 @@ In Bezug auf Konten, die am Tag vor Inkrafttreten der Änderung vom 11. November
 
 Diese Verordnung tritt am 1. Januar 2017 in Kraft.
 
-[^36-1]: Eingefügt durch Ziff. I der V vom 11. November 2020, in Kraft seit 1. Januar 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^36-1]: Eingefügt durch Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 Anhang
 

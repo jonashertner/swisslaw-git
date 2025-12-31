@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 2016 sur l'échange international automatique 
 short: OEAR
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/786"
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2016-11-23
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-786-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/786/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-786-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/786/20220101/fr"
 
 (OEAR)
 
-du 23 novembre 2016 (État le 1<sup>er</sup> janvier 2022)
+du 23 novembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -27,13 +27,32 @@ arrête:
 
 [^ingress-1]: [RS 653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8225)
 
+## Chapitre 1 Norme commune de déclaration et de diligence raisonnable concernant les renseignements relatifs aux comptes financiers
+
+[^chap1-1]
+
+[^chap1-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
 ## Section 1 …
 
 #### Art. 1
 
 [^1-1]
 
-[^1-1]: Abrogé par le ch. I de l’O du 7 novembre 2018, avec effet au 1<sup>er</sup> janvier 2019 ([RO 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
+[^1-1]: Abrogé par le ch. I de l’O du 7 nov. 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4333](https://fedlex.data.admin.ch/eli/oc/2018/700)).
+
+### Section 1*a* Version applicable des commentaires de l’OCDE
+
+[^chap2-sec1-1]
+
+[^chap2-sec1-1]: Introduite par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+#### Art. 1a
+
+En vertu de l’art. 2*b*, al. 2, LEAR, la version applicable des commentaires de l’Organisation de coopération et de développement économiques (OCDE) sur le modèle d’accord entre autorités compétentes et sur la norme commune en matière de déclaration et de diligence raisonnable concernant les renseignements relatifs aux comptes financiers (NCD) est celle du 27 mars 2017[^30a-1]. La version applicable des commentaires de l’OCDE sur l’Addendum à l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers et sur les modifications de la NCD est celle du 8 juin 2023[^30a-2].
+
+[^30a-1]: Ces commentaires peuvent être consultés gratuitement à l’adresse suivante: [www.ocde.org](http://www.ocde.org) &gt; Thèmes &gt; Fiscalité &gt; Transparence fiscale et coopération internationale &gt; Publications associées &gt; Norme d’échange automatique de renseignements relatifs aux comptes financiers en matière fiscale, seconde édition.
+[^30a-2]: Ces commentaires peuvent être consultés gratuitement à l’adresse suivante: [www.ocde.org](http://www.ocde.org) &gt; Thèmes &gt; Fiscalité &gt; Transparence fiscale et coopération internationale &gt; Publications associées &gt; Normes internationales d’échange automatique de renseignements en matière fiscale: Cadre de déclaration des Crypto-actifs et mise à jour 2023 de la Norme commune de déclaration.
 
 ## Section 2 Institutions financières non déclarantes
 
@@ -45,15 +64,19 @@ arrête:
 
 Par institution financière non déclarante selon l’art. 3, al. 7, LEAR, on entend les organismes de placement collectif énumérés ci-après, dans la mesure où toutes les participations sont détenues par des personnes physiques ou des entités qui ne sont pas des personnes devant faire l’objet d’une déclaration ou par l’intermédiaire de ces personnes ou entités et si les conditions énumérées à l’art. 3, al. 8, LEAR sont remplies:
 
-- a. les fonds de placements contractuels selon les art. 25 à 35 de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^2-1];
-- b. les sociétés d’investissement à capital variable selon les art. 36 à 52 LPCC;
-- c. les sociétés en commandite de placements collectifs selon les art. 98 à 109 LPCC;
+- a.[^2-1] les fonds de placement contractuels selon les art. 25 à 27 et 118*a* à 118*p* de la loi du 23 juin 2006 sur les placements collectifs (LPCC)[^2-2];
+- b.[^2-3] les sociétés d’investissement à capital variable selon les art. 36 à 52 et 118*a* à 118*p* LPCC;
+- c.[^2-4] les sociétés en commandite de placements collectifs selon les art. 98 à 109 et 118*a* à 118*p* LPCC;
 - d. les sociétés d’investissement à capital fixe selon les art. 110 à 118 LPCC;
 - e. les sociétés d’investissement cotées à une bourse suisse qui revêtent la forme de sociétés anonymes suisses selon l’art. 2, al. 3, LPCC.
 
-<sup>2</sup> Les organismes susmentionnés sont toutefois considérés comme des institutions financières déclarantes si les participations sont détenues par des entités non financières (ENF) passives selon la norme commune de déclaration (NCD) ou par l’intermédiaire de celles-ci, lorsqu’elles sont elles-mêmes contrôlées par des personnes devant faire l’objet d’une déclaration.
+<sup>2</sup> Ces organismes sont toutefois réputés institutions financières déclarantes si les participations sont détenues par des entités non financières (ENF) passives selon la NCD ou par l’intermédiaire de celles-ci, dans la mesure où ces entités sont contrôlées par des personnes devant faire l’objet d’une déclaration.[^2-5]
 
-[^2-1]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-2]: [RS 951.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11533)
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-4]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^2-5]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 3
 
@@ -72,26 +95,39 @@ Sont réputés institutions financières non déclarantes selon l’art. 3, al. 
 
 [^4-1]: [RS 958.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11626)
 
-#### Art. 5
+#### Art. 5 et 6
 
-**Associations**
+[^56-1]
 
-Sont réputées institutions financières non déclarantes selon l’art. 3, al. 11, LEAR les associations à but non lucratif constituées et organisées en Suisse.
+[^56-1]: Abrogés par le ch. I de l’O du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
-#### Art. 6
+#### Art. 6a
 
-**Fondations**
+**Entité d’utilité publique qualifiée**[^6a-1]
 
-Sont réputées institutions financières non déclarantes selon l’art. 3, al. 11, LEAR les fondations constituées et organisées en Suisse qui:
+<sup>1</sup>
 
-- a. poursuivent des buts de service public ou d’utilité publique et dont le bénéfice est exclusivement et irrévocablement affecté à ces buts, ou qui
-- b. poursuivent des buts idéaux et dont le bénéfice, inférieur ou égal à 20 000 francs est exclusivement et irrévocablement affecté à ces buts.
+Les entités résidentes de Suisse, à l’exception des sociétés de capitaux visées aux art. 620 à 827 du code des obligations (CO)[^6a-2] et des sociétés coopératives avec un capital social visées aux art. 828 à 926 CO, sont réputées entités d’utilité publique qualifiées selon l’art. 3, al. 9<sup>bis</sup>, LEAR si elles remplissent les conditions suivantes:
+
+- a. elles sont constituées et exploitées en Suisse exclusivement à des fins religieuses, caritatives, scientifiques, artistiques, culturelles, sportives ou éducatives, ou elles sont constituées et exploitées en Suisse et sont des fédérations professionnelles, des associations économiques, des chambres de commerce, des organisations syndicales, agricoles ou horticoles, des organisations civiques ou des organismes dont l’objet exclusif est de promouvoir le bien-être social;
+- b. elles sont exonérées d’impôt sur le revenu ou d’impôt sur le bénéfice en Suisse;
+- c. elles n’ont aucun actionnaire ni aucun membre disposant d’un droit de propriété ou de jouissance sur leurs recettes ou leurs actifs;
+- d. le droit suisse ou les documents constitutifs des entités excluent que leurs recettes ou leurs actifs soient distribués à des personnes physiques ou à des organismes à but lucratif ou soient utilisés à leur bénéfice, à moins que cette utilisation ne soit en relation avec les activités caritatives de l’entité ou n’intervienne à titre de rémunération raisonnable pour services prestés ou à titre de paiement pour un bien acquis par l’entité à sa juste valeur marchande;
+- e. le droit suisse ou les documents constitutifs des entités imposent que, lors de la liquidation ou de la dissolution des entités, tous leurs actifs soient transférés à une entité publique ou à une entité remplissant les conditions visées aux let. a à e, ou soient dévolus au gouvernement suisse ou à un canton ou une commune.
+
+<sup>2</sup> Les conditions énumérées à l’al. 1 sont considérées comme remplies lorsque les entités concernées sont exonérées de l’impôt fédéral direct en vertu de l’art. 56, let. g ou h, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD)[^6a-3].
+
+<sup>3</sup> Valent notamment attestation au sens de l’art. 3, al. 9<sup>bis</sup>, LEAR la décision relative à l’exonération d’impôt en vertu de l’art. 56, let. g ou h, LIFD ou l’inscription dans un registre cantonal public des institutions exonérées d’impôt.
+
+[^6a-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^6a-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^6a-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 7
 
 [^7-1]
 
-[^7-1]: Abrogé par le ch. I de l’O du 11 novembre 2020, avec effet au 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^7-1]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## Section 3 Comptes exclus
 
@@ -101,45 +137,29 @@ Sont réputées institutions financières non déclarantes selon l’art. 3, al.
 
 <sup>1</sup> Sont réputés comptes exclus selon l’art. 4, al. 3, LEAR, les comptes de dépôt et les comptes conservateurs détenus par des avocats ou des notaires agréés en Suisse ou par un cabinet d’avocats ou de notaires agréés en Suisse organisé sous forme de société et dont les clients sont les ayants droit économiques des valeurs qui y sont déposées.
 
-<sup>2</sup> Les valeurs qui peuvent être déposées sur de tels comptes et les conditions régissant leur détention se fondent sur l’Accord du 14 février 2013 entre la Suisse et les États-Unis d’Amérique sur leur coopération visant à faciliter la mise en œuvre du FATCA[^8-1].
+<sup>2</sup> Les valeurs qui peuvent être déposées sur de tels comptes et les conditions régissant leur détention se fondent sur l’Accord du 14 février 2013 entre la Suisse et les États-Unis d’Amérique sur leur coopération visant à faciliter la mise en œuvre du FATCA[^35a-1].
 
-[^8-1]: [RS 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
+[^35a-1]: [RS 0.672.933.63](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2583)
 
-#### Art. 9
+#### Art. 9 à 11
 
-**Comptes de consignation de capital**
+[^35b-1]
 
-Les institutions financières suisses déclarantes peuvent traiter les comptes de consignation comme des comptes exclus selon l’art. 4, al. 3, LEAR, si:
-
-- a. les comptes sont utilisés exclusivement aux fins du dépôt du capital lors de la fondation ou de l’augmentation de capital d’une société;
-- b. après la fondation ou l’augmentation de capital, les comptes sont clôturés ou transférés sur des comptes au nom de la société, et que
-- c. les éventuels remboursements découlant du fait que la fondation ou l’augmentation de capital n’a pas eu lieu ou qu’un surplus de capital a été investi sont versés exclusivement aux personnes qui ont fait un apport en capital.
-
-#### Art. 10
-
-**Comptes d’associations**
-
-Les institutions financières suisses déclarantes peuvent traiter les comptes d’associations à but non lucratif constituées et organisées en Suisse comme des comptes exclus selon l’art. 4, al. 3, LEAR.
-
-#### Art. 11
-
-**Comptes de fondations**
-
-Les institutions financières suisses déclarantes peuvent traiter les comptes de fondations constituées et organisées en Suisse qui remplissent les conditions prévues par l’art. 6, let. a et b, de la présente ordonnance comme des comptes exclus selon l’art. 4, al. 3, LEAR.
+[^35b-1]: Abrogés par le ch. I de l’O du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 12
 
-**Comptes de communautés de copropriétaires**[^12-1]
+**Comptes de communautés de copropriétaires**[^36-1]
 
 Les institutions financières suisses déclarantes peuvent traiter les comptes de communautés de copropriétaires comme des comptes exclus au sens de l’art. 4, al. 3, LEAR si:
 
-- a. les parts de copropriété sont immatriculées au registre foncier conformément à l’art. 23 de l’ordonnance du 23 septembre 2011 sur le registre foncier[^12-2];
-- b. les copropriétaires ont conclu un règlement d’utilisation et d’administration conformément à l’art. 647 du code civil (CC)[^12-3], prévoyant que les actifs financiers administrés par la communauté de copropriétaires sont utilisés exclusivement pour financer les dépenses liées à l’objet en copropriété, et que
+- a. les parts de copropriété sont immatriculées au registre foncier conformément à l’art. 23 de l’ordonnance du 23 septembre 2011 sur le registre foncier[^36-2];
+- b. les copropriétaires ont conclu un règlement d’utilisation et d’administration conformément à l’art. 647 du code civil (CC)[^36-3], prévoyant que les actifs financiers administrés par la communauté de copropriétaires sont utilisés exclusivement pour financer les dépenses liées à l’objet en copropriété, et que
 - c. le règlement d’utilisation et d’administration est mentionné au registre foncier conformément à l’art. 649*a*, al. 2, CC.
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^12-2]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
-[^12-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^36-2]: [RS 211.432.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5787)
+[^36-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 
 #### Art. 13
 
@@ -155,28 +175,19 @@ Les institutions financières suisses déclarantes peuvent traiter les comptes d
 
 Les institutions financières suisses déclarantes peuvent traiter les comptes inactifs au sens de l’art. 11, al. 6, let. a et b, LEAR dont le solde ou la valeur ne dépasse pas 1000 dollars américains à la fin de l’année civile ou de toute autre période de déclaration appropriée ou au moment de leur résiliation comme comptes exclus au sens de l’art. 4, al. 3, LEAR.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 15
 
 [^15-1]
 
-[^15-1]: Abrogé par le ch. I de l’O du 11 novembre 2020, avec effet au 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^15-1]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 16
 
-**Comptes en monnaie électronique**
+[^16-1]
 
-<sup>1</sup>
-
-Les institutions financières suisses déclarantes peuvent traiter les comptes en monnaie électronique comme des comptes exclus selon l’art. 4, al. 3, LEAR, si:
-
-- a. ces comptes offrent exclusivement des moyens de paiement en monnaie électronique, servant au paiement sans numéraire de biens et services, au retrait d’espèces ou aux opérations de paiement sans numéraire entre particuliers, pour lesquels un avoir enregistré sous forme électronique conditionne les transactions;
-- b. un plafond contractuel de l’avoir enregistré sous forme électronique n’excédant pas 10 000 francs ou dollars américains ou euros s’applique;
-- c. tout paiement excédant 10 000 francs ou dollars américains ou euros est remboursé au détenteur du compte dans un délai de 60 jours, et que
-- d. le compte n’est crédité d’aucun intérêt.
-
-<sup>2</sup> Par monnaie électronique, on entend toute valeur monétaire enregistrée sous forme électronique à titre de créance sur un émetteur de moyens de paiement en monnaie électronique, émise en contrepartie de fonds pour exécuter des opérations de paiement et acceptée en tant que paiement par d’autres personnes physiques ou morales que l’émetteur.
+[^16-1]: Abrogé par le ch. I de l’O du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 17
 
@@ -190,12 +201,14 @@ Jusqu’à la dissolution de la communauté héréditaire, les institutions fina
 
 **Institutions financières assujetties à l’impôt et institutions financières exonérées**
 
-Par résidentes de Suisse selon l’art. 5, al. 1, LEAR, on entend:
+Sont réputées résidentes de Suisse selon l’art. 5, al. 1, LEAR:[^18-1]
 
-- a. les institutions financières qui sont assujetties à l’impôt de façon illimitée en Suisse ou qui fondent un rattachement économique selon l’art. 4, al. 1, let. b, ou 51, al. 1, let. b, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^18-1];
+- a.[^18-2] les institutions financières qui sont assujetties à l’impôt de façon illimitée en Suisse ou qui fondent un rattachement économique selon les art. 4, al. 1, let. b, ou 51, al. 1, let. b, LIFD[^18-3];
 - b. les institutions financières exonérées qui ont été constituées selon le droit suisse.
 
-[^18-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^18-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^18-2]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^18-3]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 19
 
@@ -297,7 +310,7 @@ Elles peuvent indiquer les montants dans les monnaies suivantes:
 - c. en francs, ou
 - d. en dollars américains.
 
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 ## Section 7 Précisions concernant les obligations de diligence raisonnable
 
@@ -315,7 +328,7 @@ Font notamment partie de ces exceptions:
 - b. le changement du titulaire du compte sur ordre d’un tribunal ou d’une autorité;
 - c. la naissance d’un droit d’un bénéficiaire envers un *trust* ou une autre institution analogue sur la base de son acte constitutif ou de son acte de fondation.
 
-[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 #### Art. 28
 
@@ -348,24 +361,112 @@ Avant l’exécution de la prétention arrivée à échéance, l’institution f
 
 [^30-1]
 
-[^30-1]: Abrogé par le ch. I de l’O du 11 novembre 2020, avec effet au 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^30-1]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
-## Section 8 Obligation d’enregistrement faite aux institutions financières suisses déclarantes
+## Chapitre 2 Cadre de déclaration des crypto-actifs
+
+[^chap2-1]
+
+[^chap2-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+### Section 1 Version applicable des commentaires de l’OCDE
+
+#### Art. 30a
+
+En vertu de l’art. 2*b*, al. 2, LEAR, la version applicable des commentaires de l’OCDE sur le Cadre de déclaration des crypto-actifs (CDC) et sur l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs au CDC est celle du 8 juin 2023[^30a-3].
+
+[^30a-3]: Ces commentaires peuvent être consultés gratuitement à l’adresse suivante: [www.ocde.org](http://www.ocde.org) &gt; Thèmes &gt; Fiscalité &gt; Transparence fiscale et coopération internationale &gt; Publications associées &gt; Normes internationales d’échange automatique de renseignements en matière fiscale: Cadre de déclaration des Crypto-actifs et mise à jour 2023 de la Norme commune de déclaration.
+
+### Section 2 Prestataires de services sur crypto-actifs déclarants pertinents
+
+#### Art. 30b
+
+<sup>1</sup> Sont considérés résidents de Suisse à des fins fiscales selon l’art. 12*b*, al. 1, LEAR les prestataires de services sur crypto-actifs déclarants qui peuvent justifier d’un rattachement personnel en Suisse en vertu des art. 3 ou 50 LIFD[^30b-1].
+
+<sup>2</sup>
+
+Sont réputés soumis à l’obligation de déposer des déclarations de renseignements visée à l’art. 12*b*, al. 1, LEAR les prestataires de services sur crypto-actifs déclarants qui sont tenus de déposer une déclaration fiscale ou une déclaration de renseignements fiscaux. Sont considérées comme telles:
+
+- a. la déclaration pour l’impôt fédéral direct;
+- b. la déclaration pour l’impôt direct des cantons;
+- c. les attestations selon l’art. 129, al. 1, let. c, LIFD;
+- d. les attestations selon les dispositions cantonales de mise en œuvre de l’art. 45, al. 1, let. c, de la loi fédérale du 14 décembre 1990 sur l’harmonisation des impôts directs des cantons et des communes[^30b-2].
+
+<sup>3</sup> Sont considérés disposer d’une succursale en Suisse selon l’art. 12*b*, al. 1, LEAR les prestataires de services sur crypto-actifs déclarants, dans la mesure où ils peuvent justifier d’un rattachement économique en Suisse en vertu des art. 4, al. 1, let. b, ou 51, al. 1, let. b, LIFD.
+
+<sup>4</sup>
+
+Sont réputées agir en qualité d’entreprise selon l’art. 12*b*, al. 2, LEAR les personnes physiques ou les entités qui rendent un service sous la forme de transactions d’échange pour ou au nom de clients, dans la mesure où elles répondent à l’un des critères suivants:
+
+- a. elles tirent de ces activités un produit brut de plus de 50 000 francs par année civile;
+- b. elles établissent, avec plus de 20 clients par année civile, des relations d’affaires ne se limitant pas à la fourniture de ce type de service à une seule occasion ou entretiennent au moins 20 relations de ce type par année civile;
+- c. elles ont un pouvoir de disposition d’une durée illimitée sur des crypto-actifs de leurs clients dont la valeur dépasse 5 millions de francs à un moment donné;
+- d. elles rendent un service sous la forme de transactions d’échange dont le volume total dépasse 2 millions de francs par année civile.
+
+[^30b-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^30b-2]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
+
+### Section 3 Précisions concernant les obligations de déclaration
+
+#### Art. 30c
+
+Les prestataires de services sur crypto-actifs déclarants suisses peuvent, en cas de décès d’une personne d’un État soumis à déclaration, traiter sa succession comme une succession dotée d’une personnalité juridique propre jusqu’à la dissolution de la communauté héréditaire. La succession est considérée comme une personne devant faire l’objet d’une déclaration dans le dernier État ou territoire dont la personne décédée était résidente à des fins fiscales.
+
+### Section 4 Précisions concernant les obligations de diligence raisonnable
+
+#### Art. 30d
+
+**Établissement d’une relation d’affaires avec un utilisateur de crypto‑actifs**
+
+<sup>1</sup> Sont considérés comme des exceptions selon l’art. 12*f*, al. 3, LEAR les cas dans lesquels une relation d’affaires avec un utilisateur de crypto-actifs est établie sans que le prestataire de services sur crypto-actifs déclarant suisse y contribue ou puisse s’y opposer.
+
+<sup>2</sup>
+
+Font notamment partie de ces exceptions:
+
+- a. le changement d’utilisateur de crypto-actifs sur ordre d’un tribunal ou d’une autorité;
+- b. la naissance d’un droit d’un bénéficiaire envers un trust ou une autre institution analogue sur la base de son acte constitutif ou de son acte de fondation.
+
+#### Art. 30e
+
+**Résiliation de la relation d’affaires**
+
+<sup>1</sup> Lorsqu’une relation d’affaires est résiliée avant l’échéance des délais fixés à l’art. 12*f*, al. 1, 3 et 4, LEAR et que le prestataire de services sur crypto-actifs déclarant suisse n’a pas achevé l’examen de la relation d’affaires jusqu’au moment de sa résiliation, celui-ci peut considérer l’utilisateur de crypto-actifs ou la personne détenant le contrôle comme une personne ne devant pas faire l’objet d’une déclaration.
+
+<sup>2</sup> Lorsqu’une relation d’affaires d’un utilisateur est résiliée après un changement de circonstances et que l’examen ultérieur de la relation d’affaires, nécessaire du fait que les circonstances ont changé, n’est pas achevé au moment de la résiliation, le prestataire de services sur crypto-actifs déclarant suisse ne doit pas tenir compte du changement de circonstances dans sa déclaration.
+
+## Chapitre 3 Dispositions communes
+
+[^chap3-1]
+
+[^chap3-1]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+
+## Section 1 Obligation d’enregistrement
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 31
 
-<sup>1</sup> Lorsqu’une institution financière suisse devient une institution financière suisse déclarante, elle a l’obligation de s’annoncer au plus tard jusqu’à la fin de l’année civile auprès de l’Administration fédérale des contributions (AFC).
+<sup>1</sup> Toute institution financière suisse ou tout prestataire de services sur crypto-actifs déclarant pertinent qui devient une institution financière suisse déclarante ou un prestataire de services sur crypto-actifs déclarant pertinent a l’obligation de s’annoncer au plus tard jusqu’à la fin de l’année civile auprès de l’Administration fédérale des contributions (AFC).
 
-<sup>2</sup> Lorsque sa qualité d’institution financière suisse déclarante prend fin ou lorsqu’elle cesse son activité commerciale, l’institution financière est tenue d’annoncer sa radiation du registre à l’AFC au plus tard à la fin de l’année civile.
+<sup>2</sup> Lorsque leur qualité d’institution financière suisse déclarante ou de prestataire de services sur crypto-actifs déclarant pertinent prend fin ou lorsqu’ils cessent leur activité commerciale, l’institution financière suisse déclarante ou le prestataire de services sur crypto-actifs déclarant pertinent sont tenus d’annoncer leur radiation du registre à l’AFC au plus tard à la fin de l’année civile.
 
-<sup>3</sup> La communication adressée à l’AFC dans laquelle l’institution financière suisse déclarante indique qu’aucun compte financier déclarable n’est ouvert auprès d’elle n’est pas considérée comme une radiation du registre.[^31-1]
+<sup>3</sup>
 
-<sup>4</sup> Le *trustee* doit ajouter le préfixe «TDT=» devant le nom d’un *trust* devant être inscrit conformément à l’art. 13, al. 4, LEAR. L’art. 13, al. 2 et 3, LEAR est applicable par analogie.[^31-2]
+Ne sont pas considérées comme une radiation du registre:
 
-[^31-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^31-2]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+- a. la communication adressée à l’AFC dans laquelle l’institution financière suisse déclarante ou le prestataire de services sur crypto-actifs déclarant suisse indique qu’aucun compte financier déclarable n’est ouvert auprès d’eux ou qu’ils ne disposent d’aucun utilisateur soumis à déclaration;
+- b. la communication visée à l’art. 15, al. 1<sup>ter</sup>, LEAR du prestataire de services sur crypto-actifs déclarant pertinent.
 
-## Section 9 Renseignements transmis automatiquement de l’étranger
+<sup>4</sup> Pour un *trust* qui doit être inscrit conformément à l’art. 13, al. 4, LEAR, le *trustee* doit ajouter la mention «TDT=» devant le nom du *trust*. L’art. 13, al. 2 et 3, LEAR est applicable par analogie.
+
+## Section 2 Renseignements transmis automatiquement de l’étranger
+
+[^sec2-1]
+
+[^sec2-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 32
 
@@ -382,10 +483,14 @@ Les cantons communiquent à l’AFC au plus tard deux mois après la fin de chaq
 
 <sup>4</sup> Les collaborateurs de ces autorités n’ont accès aux renseignements au moyen d’une procédure d’appel que s’ils disposent d’une authentification à deux facteurs, dont l’un doit être un élément d’identification physique, incontestable et infalsifiable.
 
-[^32-1]: Nouvelle expression selon l’annexe ch. II 25 de l’O du 17 novembre 2021, en vigueur depuis le 1<sup>er</sup> janvier 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
-[^32-2]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^32-1]: Nouvelle expression selon l’annexe ch. II 25 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^32-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
-## Section 10 Système d’information
+## Section 3 Système d’information
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 33
 
@@ -399,9 +504,11 @@ Les cantons communiquent à l’AFC au plus tard deux mois après la fin de chaq
 
 #### Art. 34
 
-**Catégories de données personnelles traitées**
+**Catégories de données personnelles et de données concernant des personnes morales traitées**[^34-1]
 
-L’AFC est habilitée à traiter les données personnelles qui lui ont été transmises en vertu de la convention applicable.
+L’AFC est habilitée à traiter les données personnelles et les données concernant des personnes morales qui lui ont été transmises en vertu de la convention applicable.
+
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 35
 
@@ -409,28 +516,64 @@ L’AFC est habilitée à traiter les données personnelles qui lui ont été tr
 
 L’AFC détruit les données au plus tard 20 ans après la fin de l’année civile durant laquelle elle les a obtenues.
 
-## Section 11 Dispositions finales
+## Chapitre 4 Dispositions finales
 
-[^sec11-1]
+[^chap4-1]
 
-[^sec11-1]: Nouvelle teneur selon le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^chap4-1]: Nouvelle teneur selon le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
 
 #### Art. 35a
 
-**Disposition transitoire relative à la modification du 11 novembre 2020**[^35a-1]
+**Disposition transitoire relative à la modification du 11 novembre 2020**[^35a-2]
 
-En ce qui concerne les comptes déjà ouverts le jour précédant l’entrée en vigueur de la modification du 11 novembre 2020 et pour lesquels l’institution financière suisse déclarante dispose d’une autocertification ne comportant pas de numéro d’identification fiscale, les règles visées à la section I, par. C, de l’annexe à l’Accord multilatéral du 29 octobre 2014 entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers[^35a-2] sont applicables.
+En ce qui concerne les comptes déjà ouverts le jour précédant l’entrée en vigueur de la modification du 11 novembre 2020 et pour lesquels l’institution financière suisse déclarante dispose d’une autocertification ne comportant pas de numéro d’identification fiscale, les règles visées à la section I, par. C, de l’annexe à l’Accord multilatéral du 29 octobre 2014 entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers[^35a-3] sont applicables.
 
-[^35a-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
-[^35a-2]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^35a-2]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^35a-3]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+
+#### Art. 35b
+
+**Dispositions transitoires relatives à la modification du 26 novembre 2025**[^35b-2]
+
+<sup>1</sup>
+
+Pendant les trois premières années suivant l’entrée en vigueur de la modification du 26 novembre 2025, les prestataires de services sur crypto-actifs déclarants suisses sont libérés des obligations de déclaration et de diligence raisonnable selon l’Accord multilatéral du 8 juin 2023 entre autorités compétentes concernant l’échange automatique de renseignements relatifs au Cadre de déclaration des crypto-actifs (accord EAR crypto-actifs)[^35b-3] et la LEAR si les conditions suivantes sont remplies:
+
+- a. les prestataires de services sur crypto-actifs déclarants suisses ont un lien selon la section I, par. A, CDC avec un autre État ou territoire qui prévaut sur le lien avec la Suisse en vertu de la section I, par. C à F, CDC;
+- b. l’État ou le territoire ne met pas en œuvre l’échange automatique de renseignements relatifs aux crypto-actifs à la date de l’entrée en vigueur de la présente modification;
+- c. les prestataires de services sur crypto-actifs déclarants suisses ne seraient pas soumis à ces obligations de déclaration et de diligence raisonnable en Suisse si cet État ou ce territoire avait mis en œuvre l’échange automatique de renseignements relatifs aux crypto-actifs à la date de l’entrée en vigueur de la présente modification.
+
+<sup>2</sup>
+
+Pendant cette période, les prestataires de services sur crypto-actifs déclarants suisses sont en outre libérés des obligations de déclaration et de diligence raisonnable selon l’accord EAR crypto-actifs et la LEAR pour les transactions qui sont effectuées par l’intermédiaire de leurs succursales situées dans un autre État ou territoire si les conditions suivantes sont remplies:
+
+- a. l’État ou le territoire ne met pas en œuvre l’échange automatique de renseignements relatifs aux crypto-actifs à la date de l’entrée en vigueur de la présente modification;
+- b. la succursale située dans cet État ou ce territoire serait soumise aux obligations selon le CDC dans cet État ou ce territoire pour les transactions qui sont effectuées par son intermédiaire si cet État ou ce territoire avait mis en œuvre l’échange automatique de renseignements relatifs aux crypto-actifs à la date de l’entrée en vigueur de la présente modification.
+
+<sup>3</sup> En dérogation à l’al. 1, une succursale suisse d’un prestataire de services sur crypto-actifs déclarant, conformément à la section I, par. B, de l’annexe à l’accord EAR crypto-actifs, est soumise aux obligations prévues par l’accord EAR crypto-actifs et la LEAR en Suisse pour les transactions qui sont effectuées par son intermédiaire.
+
+<sup>4</sup> Les prestataires de services sur crypto-actifs déclarants suisses qui sont libérés des obligations de déclaration et de diligence raisonnable en vertu de l’al. 1 doivent communiquer à l’AFC, outre les renseignements visés à l’art. 13*a*, al. 2, LEAR, l’État ou le territoire dans lequel ils seraient soumis à l’obligation de déclaration ainsi que le lien au sens de la section I, par. A, CDC en raison duquel ils seraient soumis à cette obligation dans cet État ou ce territoire.
+
+<sup>5</sup> Les entités visées aux art. 5 et 6 de l’ancien droit qui sont réputées institutions financières déclarantes suisses à partir de l’entrée en vigueur de la présente modification sont soumises, pour ce qui est des comptes ouverts le jour précédant l’entrée en vigueur de cette modification, aux obligations de diligence raisonnable définies pour les comptes préexistants. Les délais fixés à l’art. 11, al. 2 à 4, LEAR s’appliquent, le délai commençant à courir à partir de l’entrée en vigueur de la présente modification.
+
+<sup>6</sup> Pour les comptes visés à l’art. 9 de l’ancien droit qui sont déjà gérés ou détenus le jour précédant l’entrée en vigueur de la présente modification, le délai fixé à la section VIII, par. C, al. 17, let. e, ch. v, 5<sup>e</sup> tiret, de l’annexe à l’Accord multilatéral du 29 octobre 2014 entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers[^35b-4] s’applique et commence à courir à partir de l’entrée en vigueur de la présente modification.
+
+<sup>7</sup> Les institutions financières déclarantes suisses gérant des comptes visés aux art. 10 et 11 de l’ancien droit qui ne sont pas détenus par une institution financière doivent vérifier ces comptes à partir de l’entrée en vigueur de la présente modification. Pour les comptes ouverts le jour précédant l’entrée en vigueur de la présente modification, les obligations de diligence raisonnable définies pour les comptes préexistants sont applicables. Les délais fixés à l’art. 11, al. 2 à 4, LEAR s’appliquent, le délai commençant à courir à partir de l’entrée en vigueur de la présente modification.
+
+<sup>8</sup> Les dispositions relatives aux crypto-actifs prévues par la présente modification et par la modification du 26 septembre 2025[^35b-5] de la LEAR ne s’appliquent pas en 2026.
+
+[^35b-2]: Introduit par le ch. I de l’O du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 817](https://fedlex.data.admin.ch/eli/oc/2025/817)).
+[^35b-3]: RS …; [FF 2025 886](https://fedlex.data.admin.ch/eli/fga/2025/886)
+[^35b-4]: [RS 0.653.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2499)
+[^35b-5]: [FF 2025 2894](https://fedlex.data.admin.ch/eli/fga/2025/2894)
 
 #### Art. 36
 
-**Entrée en vigueur[^36-1]**
+**Entrée en vigueur[^36-4]**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2017.
 
-[^36-1]: Introduit par le ch. I de l’O du 11 novembre 2020, en vigueur depuis le 1<sup>er</sup> janvier 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
+[^36-4]: Introduit par le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5251](https://fedlex.data.admin.ch/eli/oc/2020/910)).
 
 Annexe
 
