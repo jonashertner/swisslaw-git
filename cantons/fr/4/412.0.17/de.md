@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.17"
 title: Beschluss über die Gebühren für die Schlussprüfungen an den Schulen der Sekundarstufe 2
 language: de
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-23
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 1990-01-16
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.17"
-pdf: "https://bdlf.fr.ch/api/de/versions/8205/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8350/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8205/pdf_file"
 
 Schulen der Sekundarstufe 2, Gebühren für die Schlussprüfungen – B
 
-vom 16.01.1990 (Fassung in Kraft getreten am 01.08.2025)
+vom 16.01.1990 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -54,7 +53,7 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für die Schlussprüfungen an den der Direktion für Bildung und kulturelle Angelegenheiten (die Direktion) unterstellten Schulen der Sekundarstufe 2 betragen:
 
-- a) 250 Franken für die Schülerinnen und Schüler, deren Eltern im Kanton Wohnsitz haben;
+- a) 280 Franken für die Schülerinnen und Schüler, deren Eltern im Kanton Wohnsitz haben;
 - b) 650 Franken für die Schülerinnen und Schüler, deren Eltern in einem anderen Kanton Wohnsitz haben;
 - c) 900 Franken für die Schülerinnen und Schüler, deren Eltern im Ausland Wohnsitz haben.
 

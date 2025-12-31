@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.17"
 title: "Arrêté fixant les taxes d'examens finals des écoles du secondaire du deuxième degré"
 language: fr
-version: 2025-08-01
-valid_until: 2025-12-31
-version_adopted: 2025-06-23
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 1990-01-16
 in_force: 1991-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.17"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8205/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8350/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8205/pdf_file"
 
 Ecoles du secondaire du deuxième degré, taxes des examens finals – A
 
-du 16.01.1990 (version entrée en vigueur le 01.08.2025)
+du 16.01.1990 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -54,7 +53,7 @@ Arrête:
 
 <sup>1</sup> Les taxes des examens finals des écoles du secondaire du deuxième degré dépendant de la Direction de la formation et des affaires culturelles (ci-après: la Direction) s'élèvent à:
 
-- a) 250 francs pour les élèves dont les parents sont domiciliés dans le canton;
+- a) 280 francs pour les élèves dont les parents sont domiciliés dans le canton;
 - b) 650 francs pour les élèves dont les parents sont domiciliés dans un autre canton;
 - c) 900 francs pour les élèves dont les parents sont domiciliés à l'étranger.
 
