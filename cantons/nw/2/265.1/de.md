@@ -4,13 +4,13 @@ number: "265.1"
 title: Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege
 short: "Verwaltungsrechtspflegegesetz, VRG"
 language: de
-version: 2023-08-01
-valid_until: 2025-12-31
-version_adopted: 2023-03-29
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2024-10-23
 adopted: 1985-02-08
 in_force: 1985-02-08
 url: "https://gesetze.nw.ch/app/de/texts_of_law/265.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1289/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1438/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1289/pdf_file"
 
 (Verwaltungsrechtspflegegesetz, VRG)
 
-vom 08.02.1985 (Stand 01.08.2023)
+vom 08.02.1985 (Stand 01.01.2026)
 
 Der Landrat von Nidwalden,
 
@@ -619,6 +619,17 @@ beschliesst:
 
 <sup>2</sup> Durch den Entscheid erledigt die Behörde alle Anträge der Parteien.
 
+#### Art. 55a
+
+**Präsidialentscheid**
+
+<sup>1</sup> Präsidialentscheide sind durch die Vorsitzende oder den Vorsitzenden beziehungsweise die Stellvertretung zu erlassen.
+
+<sup>2</sup> Präsidialentscheide sind zulässig für:
+
+- 1\. Verfahrensleitende Entscheide;
+- 2\. Entscheide, die in der kantonalen Gesetzgebung der oder dem Vorsitzenden zugewiesen sind.
+
 #### Art. 56
 
 **Inhalt**
@@ -657,7 +668,7 @@ beschliesst:
 - 4\. für Amtsstellen: der Amtsvorsteher oder sein Stellvertreter;
 - 5\. für Verwaltungen von kantonalen oder kommunalen Anstalten: der Vorsitzende und der Schreiber.
 
-<sup>2</sup> Verfahrensleitende Entscheide und nicht selbständig anfechtbare Zwischenentscheide können durch den Vorsitzenden sowie in seinem Auftrag durch den Schreiber, den Sekretär oder den Sachbearbeiter unterzeichnet werden.
+<sup>2</sup> …
 
 #### Art. 58
 
