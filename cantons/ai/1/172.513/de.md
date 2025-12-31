@@ -4,13 +4,13 @@ number: "172.513"
 title: Gebührentarif
 short: GebT
 language: de
-version: 2023-03-01
-valid_until: 2025-12-31
-version_adopted: 2023-02-14
+version: 2026-01-01
+valid_until: 2026-12-31
+version_adopted: 2025-12-02
 adopted: 2019-09-17
 in_force: 2020-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/172.513"
-pdf: "https://ai.clex.ch/api/de/versions/2206/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2206/pdf_file"
 
 (GebT)
 
-vom 17.09.2019 (Stand 01.03.2023)
+vom 17.09.2019 (Stand 01.01.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -39,7 +39,7 @@ beschliesst:
 
 **Stundenansatz (Art. 5 Abs 2 GebV)**
 
-<sup>1</sup> Wird eine Gebühr nach Aufwand erhoben, beträgt der Stundenansatz 120.--, soweit kein andererer Ansatz vorgesehen ist.
+<sup>1</sup> Wird eine Gebühr nach Aufwand erhoben, beträgt der Stundenansatz 180.--, soweit kein andererer Ansatz vorgesehen ist.
 
 #### Art. 3
 
@@ -67,7 +67,7 @@ beschliesst:
 
 - 1\. Beglaubigung einer Unterschrift — 20.--
 - 2\. Beglaubigung einer Fotokopie, je Kopie — 10.--
-- 3\. Apostillen und andere Überbeglaubigungen — 20.--
+- 3\. Apostillen und andere Überbeglaubigungen — 40.--
 - 4\. Handelsregistersachen
   - 4\.1 Beglaubigter Handelsregisterauszug — 30.--
   - 4\.2 Beglaubigung anderer Kopien, je Kopie — 5.--
@@ -95,7 +95,7 @@ beschliesst:
 <sup>1</sup> Die Gebühren betragen:
 
 - 1\. Namensänderung (Art. 30 ZGB) — 60.-- bis 360.--
-- 2\. Prüfung von Stiftungsrechnungen (Art. 84 ZGB), Verfügungen der Stiftungsaufsicht — 100.-- bis 2'000.--
+- 2\. Prüfung von Stiftungsrechnungen (Art. 84 ZGB), Verfügungen der Stiftungsaufsicht — 200.-- bis 2'000.--
 - 3\. Bewilligung der Adoption (Art. 268 ZGB) — 300.-- bis 3'000.--
 
 #### Art. 9
@@ -123,17 +123,17 @@ beschliesst:
 <sup>1</sup> Im Erbschaftswesen betragen die Gebühren:
 
 - 1\. Erbenermittlung
-  - 1\.1 Grundgebühr — 60.--
-  - 1\.2 zusätzlich pro Erbe — 7.--
+  - 1\.1 Grundgebühr — 200.--
+  - 1\.2 zusätzlich pro Erbe (inkl. Vorverstorbene) — 10.--
 - 2\. öffentlicher Erbenaufruf: — pro Publikationsorgan 100.--, zuzüglich Inseratekosten
-- 3\. Präsidialverfügungen und Teilungsverträge — pro Seite 30.--
+- 3\. Eröffnungsverfügungen und Teilungsverträge — pro Seite 75.--
 - 4\. Annahme- und Ausschlagungserklärungen und Vollmachten — pro Seite 30.--
-- 5\. Bewilligung eines öffentlichen Inventars (Art. 580 ff. ZGB) — 60.-- bis 120.--
+- 5\. Bewilligung eines öffentlichen Inventars, einer Erbschaftsverwaltung oder einer Erbenvertretung — 200.-- bis 1'000.--
 - 6\. Amtliche Liquidation
   - 6\.1 Anordnung — 150.--- bis 750.--
   - 6\.2 Durchführung: — von den Nachlassaktiven 3% bis 5 %, mind. 750.--
 - 7\. Entgegennahme, Registrierung, Aufbewahrung und Herausgabe letztwilliger Verfügungen und Erbverträge inkl. Bescheinigung, einmalige Gebühr — pro Stück 100.--
-- 8\. Willensvollstreckerbescheinigung — 75.--
+- 8\. Willensvollstreckerbescheinigung — pro Seite 75.--
 - 9\. Ausfertigung einer Erbbescheinigung — pro Seite 75.--
 
 <sup>2</sup> Gebühren nach Aufwand werden erhoben für:
@@ -144,6 +144,8 @@ beschliesst:
 - 4\. Erbenversammlungen
 - 5\. Mitwirkung bei und Durchführung der amtlichen Teilung
 
+<sup>3</sup> Bei der Erhebung der Gebühren nach Aufwand im Erbschaftswesen beträgt der Stundenansatz 180.--.
+
 #### Art. 11
 
 **Grundbuch**
@@ -151,49 +153,49 @@ beschliesst:
 <sup>1</sup> Für Eintragungen in das Grundbuch betragen die Gebühren:
 
 - 1\. Handänderung infolge Kauf, Tausch, Schenkung, freiwilliger Versteigerung, Urteil oder einer anderen Erwerbsart (ausgenommen Ersitzung und erbrechtliche Übernahme)
-  - 1\.1 öffentlich beurkundete Handänderungen: vom Handänderungswert — 1‰ , mind. 50.--
-  - 1\.2 nicht öffentlich beurkundete Handänderungen: vom Handänderungswert — 2‰ , mind. 100.--
+  - 1\.1 öffentlich beurkundete Handänderungen: vom Handänderungswert — 1‰, mind. 100.--
+  - 1\.2 nicht öffentlich beurkundete Handänderungen: vom Handänderungswert — 2‰, mind. 200.--
 - 2\. Handänderung infolge Erbgang oder Ersitzung — 100.--
-- 3\. Handänderung infolge Erbteilung: vom Handänderungswert — 2‰, mind. 100.--
-- 4\. Berichtigung einer Eintragung zufolge Ein- und Austritts von Mitgliedern einer Gesellschaft oder einer Gemeinschaft zur gesamten Hand oder wegen Änderungen der Gesellschaftsform oder des Firmennamens oder in anderen Fällen der Gesamtnachfolge — 50.-- bis 500.--
-- 5\. Eigentumsübertragungen aufgrund des Fusionsgesetzes: vom Handänderungswert — 2‰, mind. 100.--
-- 6\. Schuldbrief (Bei Neuerrichtung von Schuldbriefen unter gleichzeitiger Löschung bestehender Pfandrechte ist die Gebühr auf die Differenz zwischen der bisherigen und der neuen Belastung zu erheben; sie beträgt jedoch mind. 50.--, sofern eine öffentliche Beurkundung erforderlich oder mind. 100.-- sofern keine öffentliche Beurkundung erforderlich ist):
-  - 6\.1 öffentlich beurkundete Errichtung: vom Pfandrechtsbetrag — 1‰ , mind. 50.--
-  - 6\.2 nicht öffentliche beurkundete Errichtung: vom Pfandrechtsbetrag — 2‰ , mind. 100.--, höchst. 4'000.--
-- 7\. Grundpfandverschreibung (Bei Neuerrichtung von Grundpfandverschreibungen unter gleichzeitiger Löschung bestehender Pfandrechte ist die Gebühr auf die Differenz zwischen der bisherigen und der neuen Belastung zu erheben; sie beträgt jedoch mind. 50.--.): vom zu sichernden Betrag — ‰ , mind. 50.--, höchst. 2'000.--
-- 8\. Erhöhung der Pfandsumme, je Grundpfandverschreibung: von der Differenz der Pfandsummen — 1‰ , mind. 50.--, höchst. 2'000.--
-- 9\. Herabsetzung der Pfandsumme, je Grundpfandverschreibung — 40.--
-- 10\. Rang- und Vorgangsänderung, je Pfandrecht — 20.--
+- 3\. Handänderung infolge Erbteilung: vom Handänderungswert — 2‰, mind. 200.--
+- 4\. Berichtigung einer Eintragung zufolge Ein- und Austritts von Mitgliedern einer Gesellschaft oder einer Gemeinschaft zur gesamten Hand oder wegen Änderungen der Gesellschaftsform oder des Firmennamens oder in anderen Fällen der Gesamtnachfolge — 100.-- bis 500.--
+- 5\. Eigentumsübertragungen aufgrund des Fusionsgesetzes: vom Handänderungswert — 2‰, mind. 200.--
+- 6\. Errichtung von Grundpfandrechten (bei Neuerrichtung von Grundpfandrechten unter gleichzeitiger Löschung bestehender Grundpfandrechte ist die Gebühr auf die Differenz zwischen der bisherigen und der neuen Belastung zu erheben; sie beträgt jedoch mind. 50.--, sofern eine öffentliche Beurkundung erforderlich oder mind. 100.-- sofern keine öffentliche Beurkundung erforderlich ist):
+  - 6\.1 öffentlich beurkundete Errichtung: von der Pfandsumme — 1‰, mind. 50.--, höchst. 2'000.--
+  - 6\.2 nicht öffentliche beurkundete Errichtung: von der Pfandsumme — 2‰, mind. 100.--, höchst. 4'000.--
+- 7\. …
+- 8\. Erhöhung der Pfandsumme, je Grundpfandrecht: von der Differenz der Pfandsummen — 1‰ , mind. 50.--, höchst. 2'000.--
+- 9\. Herabsetzung der Pfandsumme, je Grundpfandrecht — 40.--
+- 10\. Rang- und Vorgangsänderung, je Grundpfandrecht — 20.--
 - 11\. Pfandvermehrungen oder Pfandentlassungen
-  - 11\.1 je altrechtliches Pfandrecht — 5.---
-  - 11\.2 je neurechtliches Pfandrecht — 20.---
-- 12\. Wiederauszahlungsklausel, je Pfandrecht — 20.--
-- 13\. Vormerkungen im Gläubigerregister — 10.--
+  - 11\.1 je altrechtliches Grundpfandrecht — 5.---
+  - 11\.2 je neurechtliches Grundpfandrecht — 20.---
+- 12\. Umwandlung, je Grundpfandrecht — 150.--
+- 13\. Gläubigerregistereintrag — 10.--
 - 14\. Löschungen von Grundpfandrechten
-  - 14\.1 je altrechtliches Pfandrecht — gebührenfrei
-  - 14\.2 je neurechtliches Pfandrecht — 10.--
+  - 14\.1 je altrechtliches Grundpfandrecht — gebührenfrei
+  - 14\.2 je neurechtliches Grundpfandrecht — 10.--
   - 14\.3 Löschungen im Interesse einer Reduktion der Stückzahl der Pfandtitel können nach Ermessen des Grundbuchverwalters gebührenfrei erfolgen.
-  - 14\.4 Zustimmungserklärung der vertraglich nachgehenden Grundpfandgläubiger — 10.--
-- 15\. Dienstbarkeiten und Grundlasten, je Recht — 30.-- bis 1000.--
-- 16\. Textliche Änderungen bestehender Dienstbarkeiten oder Nachträge zu solchen, je Dienstbarkeit — 20.-- bis 400.--
-- 17\. Prüfung und Bereinigung eingetragener Dienstbarkeiten bei Grenzmutationen — 10.--
+  - 14\.4 Zustimmungserklärung für Rangrücktritte — 20.--
+- 15\. Dienstbarkeiten und Grundlasten, je Recht — 100.-- bis 1000.--
+- 16\. Textliche Änderungen bestehender Dienstbarkeiten oder Nachträge zu solchen, je Dienstbarkeit — 100.-- bis 400.--
+- 17\. Prüfung und Bereinigung eingetragener Rechtsverhältnisse bei Grenzmutationen — 10.--
 - 18\. Löschung, je Dienstbarkeit oder Grundlast — 10.--
 - 19\. Vormerkungen
-  - 19\.1 Kaufs-, Rückkaufs- und Vorkaufsrechte — 60.-- bis 500.--
-  - 19\.2 Rückfallsrecht bei Schenkungen — 60.--
-  - 19\.3 Nachrückungsrecht bei Grundpfandrechten — 60.--
-  - 19\.4 Pacht- und Mietverträge — 60.-- bis 500.--
-  - 19\.5 Verfügungsbeschränkungen nach SchKG — 10.--
-  - 19\.6 Vorläufige Eintragungen — 30.-- bis 300.--
-  - 19\.7 Alle übrigen Vormerkungen — 30.-- bis 300.--
+  - 19\.1 Kaufs-, Rückkaufs- und Vorkaufsrechte — 100.-- bis 1000.--
+  - 19\.2 …
+  - 19\.3 …
+  - 19\.4 Pacht- und Mietverträge — 100.-- bis 500.--
+  - 19\.5 Verfügungsbeschränkungen nach SchKG — 60.--
+  - 19\.6 Vorläufige Eintragungen — 60.-- bis 300.--
+  - 19\.7 Alle übrigen Vormerkungen — 60.-- bis 300.--
   - 19\.8 Löschungen je Vormerkung — 10.--
 - 20\. Anmerkungen
   - 20\.1 Öffentlich-rechtliche Eigentumsbeschränkungen sowie Verfügungsbeschränkungen (sofern nicht nach übergeordnetem Recht gebührenfrei) — 60.-- bis 100.--
-  - 20\.2 Zugehör — 100.--
+  - 20\.2 …
   - 20\.3 Übrige Anmerkungen — 60.-- bis 400.--
   - 20\.4 Löschungen je Anmerkung (sofern nicht nach übergeordnetem Recht gebührenfrei) — 10.--
 - 21\. Miteintragungen
-  - 21\.1 Eintragung des Eigentumsübergangs — 60.--
+  - 21\.1 Eintragung des Eigentumsübergangs — 100.--
   - 21\.2 Grundpfandrechte — 60.-- bis 200.--
   - 21\.3 Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen — 60.--
 - 22\. Mit- und Stockwerkeigentum
@@ -202,14 +204,16 @@ beschliesst:
 - 23\. Übrige Verrichtungen:'
   - 23\.1 Teilung, Vereinigung oder Grenzänderung von Grundstücken — 200.-- bis 2'000.--
   - 23\.2 Grundbuchauszüge — 30.-- bis 600.--
-  - 23\.3 Bescheinigungen — 20.-- bis 200.--
+  - 23\.3 Bescheinigungen und Vollmachten — 20.-- bis 200.--
   - 23\.4 Eröffnung und Schliessung von Grundbuchblättern — 20.--
   - 23\.5 Schuldübernahmeanzeigen — 10.--
   - 23\.6 Vermessungsauftrag an den Grundbuchgeometer — 10.--
   - 23\.7 Anzeigen an Amtsstellen — 10.--
   - 23\.8 Namensänderungen und Sitzverlegungen juristischer Personen — 20.-- bis 200.--
   - 23\.9 Namensänderung natürlicher Personen infolge Änderungen des Zivilstands — gebührenfrei
-  - 23\.10 Gantgebühr bei Grundstückversteigerungen (Nach Erteilung des Zuschlags werden Gebühren wie bei Verträgen auf Eigentumsübertragung erhoben) — 500.-- bis 5'000.--
+  - 23\.10 …
+  - 23\.11 Nachführung von Geometerdaten, pro Grundstück — 25.--
+  - 23\.12 Durchführung von Vorkaufsrechtsverfahren — 50.-- bis 300.--
 
 <sup>2</sup> Gebühren für Beurkundungen und Beglaubigungen werden zusätzlich zu den Gebühren für die Eintragungen erhoben.
 
@@ -242,29 +246,31 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für Beurkundungen des Eherechts, des Partnerschaftsgesetzes, des Erwachsenenschutzrechts, des Erbrechts sowie für vorbereitende Verrichtungen betragen:
 
-- 1\. Abschluss, Änderung und Aufhebung von Eheverträgen (Art. 184 ZGB) und Vermögensverträgen (Art. 25 PartnG) — 150.-- bis 1'200.--
-- 2\. Vorsorgeauftrag (Art. 361 ZGB) — 150.-- bis 1'200.--
-- 3\. öffentliche letztwillige Verfügung (Art. 499 ZGB) — 150.-- bis 1'200.--
-- 4\. Entwurf für letztwillige Verfügung — 75.-- bis 1'200.--
-- 5\. Erbvertrag (Art. 512 ZGB) — 150.-- bis 1'200.--
+- 1\. Abschluss, Änderung und Aufhebung von Eheverträgen (Art. 184 ZGB) und Vermögensverträgen (Art. 25 PartnG) — 250.-- bis 2'000.--
+- 2\. Vorsorgeauftrag (Art. 361 ZGB) — 200.-- bis 2'000.--
+- 3\. öffentliche letztwillige Verfügung (Art. 499 ZGB) — 250.-- bis 2'000.--
+- 4\. Entwurf für letztwillige Verfügung — 200.-- bis 2'000.--
+- 5\. Erbvertrag (Art. 512 ZGB) — 350.-- bis 3'000.--
+- 6\. Zuschlag für öffentliche Beurkundungen ausser Haus — 200.-- bis 1'000.--
 
 <sup>2</sup> Die Gebühren für sachenrechtliche Beurkundungen betragen:
 
 - 1\. Handänderungsvertrag und Vorvertrag dazu: je 1‰ des Handänderungswerts, mindestens 60.--;
-- 2\. Errichtung von Schuldbriefen: 1‰ des Pfandrechtsbetrags, mindestens 60.--, höchstens 2000.--;
-- 3\. Errichtung von Grundpfandverschreibungen: 1‰ des zu sichernden Betrags (bei Neuerrichtung von Grundpfandverschreibungen unter gleichzeitiger Löschung bestehender Pfandrechte: 1‰ der Differenz zwischen der bisherigen und der neuen Belastung), mindestens 60.--, höchstens 2'000.--;
-- 4\. Erhöhung der Pfandsumme je Grundpfandverschreibung: 1‰ der Differenz der Pfandsummen, mindestens 60.--, höchstens 2'000.--;
-- 5\. Vorgangsänderung: je Pfandrecht — 20.--
-- 6\. Änderung der Zins-, Kündigungs- oder Abzahlungsbestimmungen: Je Pfandrecht — 20.--
-- 7\. Wiederauszahlungsklausel: je Pfandrecht — 20.--
+- 2\. …
+- 3\. Errichtung von Grundpfandrechten: 1‰ der Pfandsumme (bei Neuerrichtung von Grundpfandrechten unter gleichzeitiger Löschung bestehender Grundpfandrechte: 1‰ der Differenz zwischen der bisherigen und der neuen Belastung), mindestens 50.--, höchstens 2'000.--;
+- 4\. Erhöhung der Pfandsumme je Grundpfandrecht: 1‰ der Differenz der Pfandsummen, mindestens 50.--, höchstens 2'000.--;
+- 5\. Pfandvermehrung: je Grundpfandrecht — 20.--
+- 6\. …
+- 7\. Umwandlung: je Grundpfandrecht — 50.--
 - 8\. Dienstbarkeiten und Grundlasten und Vorverträge dazu
   - 8\.1 selbständige und dauernde Rechte: je Recht — 200.-- bis 2'000.--
   - 8\.2 übrige Dienstbarkeiten und Grundlasten: je Recht — 100.-- bis 1'000.--
 - 9\. Kaufs-, Rückkaufs- und Vorkaufsrechte: je Recht — 100.-- bis 1'000.--
-- 10\. Rückfallsrecht bei Schenkungen — 60.--
-- 11\. Nachrückungsrecht bei Grundpfandrechten — 60.--
-- 12\. Begründung oder Abänderung von Mit- oder Stockwerkeigentum — 300.-- bis 3'000.--
+- 10\. alle übrigen Vormerkungen — 60.-- bis 300.--
+- 11\. …
+- 12\. Begründung oder Abänderung von Mit- oder Stockwerkeigentum — 100.-- bis 5'000.--
 - 13\. Verträge, die auf Verlangen der Parteien öffentlich beurkundet werden — 100.-- bis 1'000.--
+- 14\. Teilung, Vereinigung oder Grenzänderung von Grundstücken — 200.-- bis 2'000.--
 
 <sup>3</sup> Die Gebühren für handelsregisterrechtliche Beurkundungen betragen:
 
@@ -296,9 +302,9 @@ beschliesst:
 <sup>1</sup> Die Gebühren der Polizei betragen:
 
 - 1\. Tatbestandsrapporte
-  - 1\.1 kleine — 100.--
-  - 1\.2 mittlere — 250.--
-  - 1\.3 grosse — 500.--
+  - 1\.1 kleine — 150.--
+  - 1\.2 mittlere — 300.--
+  - 1\.3 grosse — 550.--
 - 2\. Kriminalpolizei, kriminaltechnische Dienste und Testverfahren
   - 2\.1 kleine Berichte der kriminaltechnischen Dienste — 100.--
   - 2\.2 mittlere Berichte der kriminaltechnischen Dienste — 250.--
@@ -383,9 +389,9 @@ beschliesst:
 <sup>1</sup> Die Gebühren der Einwohnerkontrolle betragen:
 
 - 1\. Heimatausweis
-  - 1\.1 Neuausstellung für ein Jahr — 15.--
-  - 1\.2 Verlängerung für ein weiteres Jahr — 10.--
-- 2\. Wohnsitzbescheinigung — 10.--
+  - 1\.1 Neuausstellung für ein Jahr — 20.--
+  - 1\.2 …
+- 2\. Wohnsitzbescheinigung — 20.--
 - 3\. Anmeldung zur Wohnsitznahme
   - 3\.1 pro erwachsene Person — 20.--
   - 3\.2 pro Kind (bis vollendetes 18. Altersjahr) — 10.--
@@ -393,7 +399,7 @@ beschliesst:
   - 4\.1 Anmeldung für ein Jahr — 40.--
   - 4\.2 Verlängerung für ein weiteres Jahr — 25.--
 - 5\. Zivilstandsänderung, Adressänderung, Umregistrierung — 10.--
-- 6\. Adressauskünfte, Überprüfen der Personalien, Bestätigungen, pro Adresse — 1.-- bis 8.--
+- 6\. Adressauskünfte, Überprüfen der Personalien, Bestätigungen, pro Adresse — 10.--
 - 7\. Lebensbescheinigung — 10.--
 - 8\. umfangreiche Abklärungen — nach Aufwand
 
@@ -435,7 +441,7 @@ beschliesst:
 - 3\. 4-Monats-Bewilligungen — 35.-- bis 70.--
 - 4\. Bewilligungen für Grenzgängerinnen und Grenzgänger — 35.-- bis 70.--
 - 5\. Ersatzgesuche — 35.-- bis 70.--
-- 6\. Bewilligung zum Stellenantritt oder -wechsel — 35.-- bis 70.--
+- 6\. Bewilligung zum Stellenantritt oder -wechsel — 95.--
 - 7\. Umfangreiche Abklärungen — nach Aufwand
 
 <sup>2</sup> Für besonders aufwändige Verrichtungen kann die Gebühr angemessen erhöht werden.
@@ -494,6 +500,14 @@ beschliesst:
   - 7\.2 Bewilligung von Gesuchen von Personen mit Wohnsitz im Kanton Appenzell I.Rh., wenn keine Baubewilligung erforderlich ist — gebührenfrei
   - 7\.3 Entfernung unbewilligter Aussenreklamen, die trotz Aufforderung nicht entfernt wurden — 100.--
 
+#### Art. 24a
+
+**Feuerungskontrolle**
+
+<sup>1</sup> Für die ordentliche Feuerungskontrolle von messpflichtigen Öl-, Gas- und Holzfeuerungen wird eine pauschale Grundgebühr von Fr. 35.– bei der Anlageeigentümerin oder bei dem Anlageeigentümer erhoben.
+
+<sup>2</sup> Bei den der privaten Kontrolle unterstellten Anlagen wird die Grundgebühr beim privaten Kontrolleur erhoben.
+
 #### Art. 25
 
 **Öffentlicher Verkehr**
@@ -512,13 +526,13 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren beim Vollzug des Gesundheitsgesetzes und der Ausführungserlasse dazu betragen:
 
-- 1\. Erteilung, Verweigerung und Entzug von Berufsausübungsbewilligungen, ohne Inspektion
+- 1\. Behandlung von Gesuchen um Berufsausübungsbewilligungen, ohne Inspektion
   - 1\.1 bei medizinischen Berufen — 500.-- bis 2'000.--
   - 1\.2 bei anderen Berufen des Gesundheitswesens — 200.-- bis 1'500.--
-- 2\. Erteilung, Verweigerung und Entzug von Bewilligungen zum Betrieb privater Einrichtungen der Gesundheitsversorgung und von Wohn- und Pflegeeinrichtungen, ohne Inspektion — 500.-- bis 2'500.--
-- 3\. Inspektion der Praxen und der Infrastruktur bewilligungspflichtiger Gesundheitsfachpersonen und Betriebe — 200.-- bis 1'000.--
-- 4\. Verlängerung von befristeten Bewilligungen — 100.-- bis 1'500.--
-- 5\. Verfügungen über Disziplinarmassnahmen — 200.-- bis 1'000.--
+- 2\. Behandlung von Gesuchen um Bewilligungen zum Betrieb privater Einrichtungen der Gesundheitsversorgung und von Wohn- und Pflegeeinrichtungen, ohne Inspektion — 500.-- bis 2'500.--
+- 3\. Inspektion der Praxen und der Infrastruktur bewilligungspflichtiger Gesundheitsfachpersonen und Betriebe — 200.-- bis 2'000.--
+- 4\. Verlängerung von befristeten Bewilligungen und Änderung von Betriebsbewilligungen aufgrund von veränderten räumlichen oder betrieblichen Verhältnissen — 50.-- bis 1'500.--
+- 5\. Verfügungen über Disziplinarmassnahmen — 200.-- bis 2'000.--
 
 <sup>2</sup> Die Gebühr für die Aufbewahrung von Krankengeschichten durch den Kanton oder von ihm Beauftragte beträgt:
 
@@ -529,9 +543,9 @@ beschliesst:
 
 <sup>4</sup> Die Gebühren für Bewilligungen und Kontrollen nach der Gesetzgebung über die Heilmittel (Art. 35 GesG) und über die Betäubungsmittel betragen:
 
-- 1\. Erteilung, Verweigerung oder Entzug einer Bewilligung zur Führung einer Apotheke, einer Drogerie oder einer Privatapotheke einer Medizinalperson — 250.--bis 2'500.--
+- 1\. Behandlung von Gesuchen um Bewilligungen zur Führung einer Apotheke, einer Drogerie oder einer Privatapotheke einer Medizinalperson — 250.-- bis 2'500.--
 - 2\. Inspektionen in Apotheken, Drogerien, Privatapotheken von Medizinalpersonen und in anderen Detailhandelsbetrieben, die Arzneimittel abgeben
-  - 2\.1 ohne wesentliche Beanstandungen — 200.-- bis 1'000.--
+  - 2\.1 ohne wesentliche Beanstandungen — 200.-- bis 2'000.--
   - 2\.2 bei wesentlichen Beanstandungen, bei Nachinspektionen und bei ausserordentlichen Inspektionen — nach Aufwand
 - 3\. Bewilligung für die Abgabe von Arzneimitteln und Tierarzneimitteln im Detailhandel und im Rahmen der Berufsausübung — 200.-- bis 2'000.--
 - 4\. Bewilligung zur Lagerung von Blut oder Blutprodukten — 200.-- bis 1'000.--
@@ -540,8 +554,9 @@ beschliesst:
 
 <sup>5</sup> Die Gebühren für den Vollzug der Krankenversicherungsgesetzgebung betragen:
 
-- 1\. Entscheid über Zulassung von Leistungserbringenden zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung — 200.-- bis 2'000.--
+- 1\. Entscheid über Zulassung von Leistungserbringenden zur Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung — 200.-- bis 2'000.--
 - 2\. Inspektionen — 200.-- bis 3'000.--
+- 3\. Bestätigung über die Erfüllung der gesetzlichen Voraussetzungen für die Tätigkeit zu Lasten der obligatorischen Krankenpflegeversicherung für angestellte Personen — 100.-- bis 500.--
 
 #### Art. 28
 
@@ -569,11 +584,16 @@ beschliesst:
 
 - 1\. Vollzug der Gesetzgebung über die Direktzahlungen (DZV)
   - 1\.1 Administration und Kontrolle — 60.-- bis 500.--
-  - 1\.2 Nachkontrollen — nach Aufwand
+  - 1\.2 Nachkontrollen, pro Stunde — 70.--
+  - 1\.3 Mehraufwand durch Nichteinhaltung von Fristen — 30.-- bis 300.--
 - 2\. Milchwirtschaft: Kontroll- und Laborkosten (Hemmstoffe) — gebührenfrei
 - 3\. Bodenrechtskommission
-  - 3\.1 Kommissionsentscheide (Art. 3 Abs. 1 EG BGBB) — 30.-- bis 500.--
-  - 3\.2 Präsidialentscheide (Art. 3 Abs. 2 BGBB): — 60.-- bis 300.--
+  - 3\.1 Kommissionsentscheide (Art. 3 Abs. 1 EG BGBB) — 50.-- bis 500.--
+  - 3\.2 Präsidialentscheide (Art. 3 Abs. 2 EG BGBB): — 60.-- bis 500.--
+- 4\. Landwirtschaftliche Beratung, pro Stunde — 70.--
+- 5\. Pachtrecht
+  - 5\.1 Pachtzinsberechnung — 50.--
+  - 5\.2 Mehraufwand aufgrund von weiteren Abklärungen, pro Stunde — 70.--
 
 #### Art. 30
 
