@@ -4,13 +4,12 @@ number: "815.122"
 title: Einführungsverordnung zur eidgenössischen Epidemiengesetzgebung
 short: EV EpG
 language: de
-version: 2022-07-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-08
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2611/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3269/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2611/pdf_file"
 
 (EV EpG)
 
-vom 09.12.2015 (Stand 01.07.2022)
+vom 09.12.2015 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -106,13 +105,7 @@ beschliesst:
 
 #### Art. 11a
 
-**Covid-19-Impfungen in Apotheken**
-
-<sup>1</sup> Apothekerinnen und Apotheker, die gestützt auf Artikel 19 Absatz 2 der Verordnung vom 24. Oktober 2001 über die beruflichen Tätigkeiten im Gesundheitswesen (Gesundheitsverordnung, GesV)[^11a-1] über eine Bewilligung zur Durchführung von Impfungen verfügen, sind ermächtigt und beauftragt, an gesunden Personen ab 16 Jahren Covid-19-Impfungen in der Apotheke vorzunehmen.
-
-<sup>2</sup> Sie können die Durchführung der Covid-19-Impfungen sowie der saisonalen Grippeimpfungen unter ihrer fachlichen Aufsicht und Verantwortung an Pharma-Assistentinnen und Pharma-Assistenten sowie an diplomierte Pflegefachpersonen übertragen, sofern diese über eine entsprechende Weiterbildung verfügen.
-
-[^11a-1]: BSG [811.111](https://www.belex.sites.be.ch/data/811.111/de)
+**…**
 
 #### Art. 11b
 

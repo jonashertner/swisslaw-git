@@ -4,13 +4,12 @@ number: "815.122"
 title: Ordonnance portant introduction de la législation fédérale sur les épidémies
 short: OiLEp
 language: fr
-version: 2022-07-01
-valid_until: 2025-12-31
-version_adopted: 2022-06-08
+version: 2026-01-01
+version_adopted: 2025-11-12
 adopted: 2015-12-09
 in_force: 2016-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.122"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2611/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3269/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2611/pdf_file"
 
 (OiLEp)
 
-du 09.12.2015 (état au 01.07.2022)
+du 09.12.2015 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -106,13 +105,7 @@ arrête:
 
 #### Art. 11a
 
-**Vaccination contre le COVID-19 en pharmacie**
-
-<sup>1</sup> Les pharmaciennes et pharmaciens autorisés à administrer des vaccins sur la base de l'article 19, alinéa 2 de l'ordonnance du 24 octobre 2001 sur les activités professionnelles dans le secteur sanitaire (ordonnance sur la santé publique, OSP)[^11a-1] sont habilités à et chargés de vacciner des personnes en bonne santé dès 16 ans contre le COVID-19 dans les pharmacies.
-
-<sup>2</sup> Ils peuvent déléguer l’administration des vaccins contre le COVID-19 et contre la grippe saisonnière à des assistantes et assistants en pharmacie, ainsi qu'à du personnel soignant diplômé, placés sous leur surveillance et leur responsabilité, pour autant que ces personnes aient suivi une formation continue appropriée.
-
-[^11a-1]: RSB [811.111](https://www.belex.sites.be.ch/data/811.111/fr)
+**…**
 
 #### Art. 11b
 
