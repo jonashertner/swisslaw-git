@@ -3,20 +3,19 @@ canton: SO
 number: "614.159.13"
 title: "Steuerverordnung Nr. 13: Abzüge für Berufskosten"
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-09-21
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 1987-05-19
 in_force: 1987-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/614.159.13"
-pdf: "https://bgs.so.ch/api/de/versions/5145/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5577/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuerverordnung Nr. 13: Abzüge für Berufskosten
 
-Vom 19.05.1987 (Stand 01.01.2022)
+Vom 19.05.1987 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -68,10 +67,10 @@ beschliesst:
 - c) bei Benützung eines Motorfahrrades oder eines Motorrades mit gelbem Kontrollschild, wenn die Entfernung zwischen Wohn- und Arbeitsstätte mindestens 1 km (einfache Wegstrecke) beträgt: bis 700 Franken;
 - d) bei Benützung eines Motorrades oder eines Privatautos, wenn die Entfernung zwischen Wohn- und Arbeitsstätte mindestens 1 km (einfache Wegstrecke) beträgt: der Betrag, den der Steuerpflichtige bei Benützung des zur Verfügung stehenden öffentlichen Verkehrsmittels hätte auslegen müssen; steht kein solches zur Verfügung oder kann dessen Benützung dem Steuerpflichtigen aus beachtlichen Gründen nicht zugemutet werden (z.B. wegen Gebrechlichkeit, beachtenswerter Entfernung der Wohn- oder Arbeitsstätte von der nächsten Haltestelle; ungünstigen Fahrplanes usw.) so können abgezogen werden:
   - 1\. für Motorräder mit weissem Kontrollschild: 40 Rappen/km;
-  - 2\. für Autos für die ersten 10'000 km 70 Rappen/km;
-  - 3\. für Autos für die nächsten 10'000 km 55 Rappen/km;
-  - 4\. für Autos für die nächsten 10'000 km 45 Rappen/km;
-  - 5\. für Autos für jeden weiteren km 35 Rappen/km.
+  - 2\. für Autos: 75 Rappen/km;
+  - 3\. …
+  - 4\. …
+  - 5\. …
 
 <sup>2</sup> Für die Hin- und Rückfahrt über Mittag kann höchstens der Abzug für auswärtige Verpflegung nach § 4 Absatz 1 geltend gemacht werden.
 
