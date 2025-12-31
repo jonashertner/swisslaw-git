@@ -4,11 +4,11 @@ title: "Ordonnance du 23 octobre 2013 sur les paiements directs versés dans l'a
 short: OPD
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: fr
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20251201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20251201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20251201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-765-20260101-fr-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20251201/fr"
 
 (Ordonnance sur les paiements directs, OPD)
 
-du 23 octobre 2013 (État le 1<sup>er</sup> décembre 2025)
+du 23 octobre 2013 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -64,15 +64,9 @@ Les paiements directs comprennent les types de paiements directs suivants:
   - 2\. contribution pour la production dans des conditions difficiles,
   - 3\. contribution pour terres ouvertes et cultures pérennes;
 
-- c.
-
-  les contributions à la biodiversité:
-
-  - 1\. contribution pour la qualité,
-  - 2\. contribution pour la mise en réseau;
-
-- d. la contribution à la qualité du paysage;
-- e.[^2-1]
+- c.[^2-1] la contribution à la biodiversité;
+- d.[^2-2] …
+- e.[^2-3]
 
   les contributions au système de production:
 
@@ -85,25 +79,15 @@ Les paiements directs comprennent les types de paiements directs suivants:
   - 7\. contributions au bien-être des animaux,
   - 8\. contribution pour une durée de vie productive plus longue des vaches;
 
-- f.
-
-  les contributions à l’utilisation efficiente des ressources:
-
-  - 1\. et 2.[^2-2] …
-  - 3\. contribution pour l’utilisation de techniques d’application précise des produits phytosanitaires,
-  - 4\.[^2-3] …
-  - 5\.[^2-4] contribution pour l’alimentation biphase des porcs appauvrie en matière azotée,
-  - 6\.[^2-5] …
-  - 7\.[^2-6] …
-
+- e<sup>bis</sup>.[^2-4] la contribution à la biodiversité régionale et à la qualité du paysage;
+- f.[^2-5] …
 - g. la contribution de transition.
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023, sous réserve du ch. 8, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-2]: Abrogés par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-3]: Introduit par le ch. I de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Abrogé par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-4]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^2-5]: Introduit par le ch. I de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Abrogé par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-6]: Introduit par le ch. I de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Abrogé par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^2-2]: Abrogée par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023, sous réserve du ch. 8, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-4]: Introduite par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^2-5]: Abrogée par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### Chapitre 2 Conditions
 
@@ -136,11 +120,11 @@ N’ont pas droit aux contributions les personnes physiques ou les sociétés de
 - a. elles assument une fonction dirigeante pour le compte de la personne morale, ou
 - b. elles détiennent une participation de plus d’un quart au capital-actions, au capital social ou aux droits de vote de la personne morale.[^3-2]
 
-<sup>3</sup> Les personnes morales domiciliées en Suisse ainsi que les communes et les cantons peuvent avoir droit aux contributions à la biodiversité et à la qualité du paysage, pour autant qu’ils soient considérés comme exploitants de l’entreprise agricole. Sont exceptées les personnes morales, dont on peut supposer qu’elles ont été créées pour contourner la limite d’âge ou les exigences en matière de formation.[^3-3]
+<sup>3</sup> Les personnes morales domiciliées en Suisse ainsi que les communes et les cantons peuvent avoir droit à la contribution à la biodiversité et à la contribution à la biodiversité régionale et à la qualité du paysage, pour autant qu’ils soient considérés comme exploitants de l’entreprise agricole. Sont exceptées les personnes morales dont on peut supposer qu’elles ont été créées pour contourner la limite d’âge ou les exigences en matière de formation.[^3-3]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^3-2]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^3-3]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^3-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 4
 
@@ -265,7 +249,7 @@ Les prescriptions de la législation sur la protection des animaux applicables �
 
 <sup>2</sup>
 
-Sont imputables en tant que surfaces de promotion de la biodiversité les surfaces visées aux art. 55, al. 1, let. a à k, n et p, et 71*b*, ainsi qu’à l’annexe 1, ch. 3, et les arbres visés à l’art. 55, al. 1<sup>bis</sup>, qui:[^14-1]
+Sont imputables en tant que surfaces de promotion de la biodiversité les surfaces visées aux art. 55, al. 1, let. a à k et n, 71*b* et 78, ainsi qu’à l’annexe 1, ch. 3, et les arbres visés à l’art. 55, al. 1<sup>bis</sup>, qui:[^14-1]
 
 - a. sont situées sur la surface de l’exploitation et à une distance de 15 km au maximum par la route du centre d’exploitation ou d’une unité de production, et
 - b. appartiennent à l’exploitant ou se situent sur les terres affermées par l’exploitant.
@@ -274,12 +258,12 @@ Sont imputables en tant que surfaces de promotion de la biodiversité les surfac
 
 <sup>4</sup> En ce qui concerne les bandes semées pour organismes utiles dans les cultures pérennes visées à l’art. 71*b*, al. 1, let. b, 5 % de la surface de cultures pérennes sont imputables.[^14-3]
 
-<sup>5</sup> …[^14-4]
+<sup>5</sup> Les surfaces qui font partie de projets visés à l’art. 78 sont imputables lorsqu’elles correspondent à des milieux naturels présentant un intérêt écologique et ne sont pas des surfaces de promotion de la biodiversité au sens de l’art. 55, al. 1.[^14-4]
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^14-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^14-3]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^14-4]: Introduit par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogé par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^14-4]: Introduit par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 14a
 
@@ -568,13 +552,13 @@ Si un plan d’exploitation visé à l’annexe 2, ch. 2, prévoit des exigences
 
 <sup>3</sup> Des bandes refuge aménagées dans une prairie extensive (art. 55, al. 1, let. a), dans une prairie peu intensive (art. 55, al. 1, let. b) ou dans une prairie riveraine (art. 55, al. 1, let. g) donnent droit à des contributions à concurrence de 20 % au plus de la surface de la prairie.[^35-5]
 
-<sup>4</sup> Les surfaces dont l’utilisation et la protection font l’objet d’un accord écrit avec le service cantonal en vertu de la LPN[^35-6] et qui ne sont de ce fait pas utilisées chaque année, ne donnent droit, les années où elles ne sont pas exploitées, qu’aux contributions à la biodiversité (art. 55), à la qualité du paysage (art. 63) et à la contribution de base des contributions à la sécurité de l’approvisionnement (art. 50).
+<sup>4</sup> Les surfaces dont l’utilisation et la protection font l’objet d’un accord écrit avec le service cantonal en vertu de la LPN[^35-6] et qui ne sont de ce fait pas utilisées chaque année, ne donnent droit, les années où elles ne sont pas exploitées, qu’à la contribution à la biodiversité (art. 55), à la contribution à la biodiversité régionale et à la qualité du paysage (art. 78 et 79) et à la contribution de base des contributions à la sécurité de l’approvisionnement (art. 50).[^35-7]
 
 <sup>5</sup> Les surfaces exploitées par tradition dans la zone limitrophe étrangère visées à l’art. 17, al. 2, OTerm ne donnent droit qu’à la contribution de base des contributions à la sécurité de l’approvisionnement (art. 50) et à la contribution pour les terres ouvertes et les cultures pérennes (art. 53).
 
-<sup>6</sup> Les surfaces herbagères et les surfaces à litière riches en espèces dans la région d’estivage (art. 55, al. 1, let. o) ne donnent droit qu’à des contributions à la biodiversité.
+<sup>6</sup> Les surfaces herbagères et les surfaces à litière riches en espèces dans la région d’estivage (art. 55, al. 1, let. o) donnent droit à la contribution à la biodiversité et à la contribution à la biodiversité régionale et à la qualité du paysage.[^35-8]
 
-<sup>7</sup> Les surfaces aménagées en pépinières ou affectées à la culture de plantes forestières, de sapins de Noël, de plantes ornementales, de chanvre non cultivé pour l’utilisation des fibres ou des graines et les surfaces sous serres reposant sur des fondations en dur ne donnent droit à aucune contribution.[^35-7]
+<sup>7</sup> Les surfaces aménagées en pépinières ou affectées à la culture de plantes forestières, de sapins de Noël, de plantes ornementales, de chanvre non cultivé pour l’utilisation des fibres ou des graines et les surfaces sous serres reposant sur des fondations en dur ne donnent droit à aucune contribution.[^35-9]
 
 [^35-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^35-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
@@ -582,7 +566,9 @@ Si un plan d’exploitation visé à l’annexe 2, ch. 2, prévoit des exigences
 [^35-4]: Introduit par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogé par le ch. I de l’O du 1<sup>er</sup> nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^35-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^35-6]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^35-7]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^35-7]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^35-8]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^35-9]: Nouvelle teneur selon le ch. I de l’O du 3 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### Section 2 Effectifs déterminants d’animaux
 
@@ -944,7 +930,11 @@ La charge minimale en bétail par hectare de surface herbagère permanente est l
 
 [^54-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
-### Chapitre 3 Contributions à la biodiversité
+### Chapitre 3 Contribution à la biodiversité
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### Section 1 Dispositions générales
 
@@ -952,7 +942,7 @@ La charge minimale en bétail par hectare de surface herbagère permanente est l
 
 <sup>1</sup>
 
-Les contributions à la biodiversité sont versées par hectare pour les surfaces de promotion de la biodiversité suivantes, en propre ou en fermage:[^55-1]
+La contribution à la biodiversité est versée par hectare pour les surfaces de promotion de la biodiversité suivantes, en propre ou en fermage:[^55-1]
 
 - a. prairies extensives;
 - b. prairies peu intensives;
@@ -969,15 +959,10 @@ Les contributions à la biodiversité sont versées par hectare pour les surface
 - m.[^55-4] …
 - n. surfaces viticoles présentant une biodiversité naturelle;
 - o. surfaces herbagères et surfaces à litière riches en espèces dans la région d’estivage;
-- p. surfaces de promotion de la biodiversité spécifiques à la région;
-- q.[^55-5] …
+- p.[^55-5] …
+- q.[^55-6] …
 
-<sup>1bis</sup>
-
-Les contributions à la biodiversité sont versées par arbre pour les arbres suivants, en propre ou en fermage:[^55-6]
-
-- a. arbres fruitiers haute-tige;
-- b. arbres isolés indigènes adaptés au site et allées d’arbres.[^55-7]
+<sup>1bis</sup> La contribution à la biodiversité est versée par arbre fruitier haute-tige, en propre ou en fermage.[^55-7]
 
 <sup>2</sup> Pour les surfaces mentionnées à l’al. 1, let. a, b et e, les contributions sont échelonnées par zones.
 
@@ -999,20 +984,24 @@ Pour les surfaces suivantes, les contributions ne sont versées que dans les zon
 
 <sup>8</sup> Les contributions visées à l’al. 1, let. o, sont limitées sur la base de la charge effective en bétail.[^55-12]
 
-[^55-1]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^55-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^55-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^55-3]: Abrogée par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^55-4]: Abrogée par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^55-5]: Introduite par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
-[^55-6]: Nouvelle teneur selon le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^55-7]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^55-5]: Abrogée par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^55-6]: Introduite par le ch. I de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^55-7]: Introduit par le ch. I de l’O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^55-8]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^55-9]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^55-10]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^55-11]: Introduit par le ch. I de l’O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^55-12]: Introduit par le ch. I de l’O du 16 sept. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
-### Section 2 Contribution pour la qualité de la biodiversité
+### Section 2 Contribution
+
+[^tit2-chap3-sec2-1]
+
+[^tit2-chap3-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 56
 
@@ -1045,17 +1034,18 @@ L’exploitant est tenu d’exploiter les surfaces de promotion de la biodiversi
 
 Il est tenu d’exploiter les arbres visés à l’art. 55, al. 1<sup>bis</sup>, conformément aux exigences pendant la durée suivante:
 
-- a. arbres fruitiers haute-tige du niveau de qualité I, arbres isolés indigènes adaptés au site et allées d’arbres: pendant au moins une année;
+- a.[^57-4] arbres fruitiers haute-tige du niveau de qualité I: pendant au moins une année;
 - b. arbres fruitiers haute-tige du niveau de qualité II: pendant au moins 8 ans.
 
 <sup>2</sup> Les cantons peuvent accorder à un exploitant une période minimale plus courte lorsqu’il a aménagé ailleurs une surface de même étendue ou le même nombre d’arbres et contribue ainsi mieux à la biodiversité ou à la protection des ressources naturelles.
 
-<sup>3</sup> Concernant les surfaces de promotion de la biodiversité visées à l’al. 1, let. d, et les arbres visés à l’al. 1<sup>bis</sup>, let. b, le canton peut harmoniser les durées d’engagement des contributions des niveaux de qualité I et II avec celles des contributions pour la mise en réseau visées à l’art. 61 et des contributions à la qualité du paysage visées à l’art. 63, octroyées pour la même surface ou pour les mêmes arbres.[^57-4]
+<sup>3</sup> S’agissant des surfaces de promotion de la biodiversité visées à l’al. 1, let. d, et des arbres visés à l’al. 1<sup>bis</sup>, let. b, le canton peut harmoniser les durées d’engagement des contributions des niveaux de qualité I et II avec celles de la contribution à la biodiversité régionale et à la qualité du paysage visée à l’art. 78, lorsqu’elles sont octroyées pour la même surface ou pour les mêmes arbres.[^57-5]
 
 [^57-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^57-2]: Abrogée par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^57-3]: Introduite par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
-[^57-4]: Introduit par le ch. I de l’O du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^57-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^57-5]: Introduit par le ch. I de l’O du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 58
 
@@ -1079,7 +1069,7 @@ Aucun produit phytosanitaire ne doit être utilisé sur les surfaces de promotio
 
 <sup>5</sup> Le produit de la fauche de surfaces de promotion de la biodiversité doit être évacué, à l’exception du produit de la fauche des ourlets sur terres assolées, des jachères florales, des jachères tournantes et des surfaces viticoles présentant une biodiversité naturelle.[^58-4]
 
-<sup>6</sup> Des tas de branchages et de litière peuvent être aménagés pour des motifs relevant de la protection de la nature, ou dans le cadre de projets de mise en réseau.[^58-5]
+<sup>6</sup> Des petites structures peuvent être aménagées pour des motifs relevant de la protection de la nature, ou dans le cadre de projets de promotion de la biodiversité régionale et de la qualité du paysage visés à l’art. 79.[^58-5]
 
 <sup>7</sup> L’utilisation de girobroyeurs à cailloux est interdite. Le broyage de l’herbe n’est autorisé que dans les ourlets sur terres assolées, les jachères florales, les jachères tournantes, les surfaces viticoles présentant une biodiversité naturelle et au pied des arbres situés sur des surfaces de promotion de la biodiversité, ainsi que sur les surfaces herbagères et à litière riches en espèces dans la région d’estivage, conformément aux prescriptions de l’art. 29, al. 4 à 8.[^58-6]
 
@@ -1093,7 +1083,7 @@ Aucun produit phytosanitaire ne doit être utilisé sur les surfaces de promotio
 [^58-2]: Introduite par le ch. I de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Abrogée par le ch. I de l’O du 6 nov. 2024, avec effet au 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^58-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^58-4]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^58-5]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^58-5]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^58-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^58-7]: Abrogé par le ch. I de l’O du 1<sup>er</sup> nov. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^58-8]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
@@ -1147,99 +1137,21 @@ Aucun produit phytosanitaire ne doit être utilisé sur les surfaces de promotio
 
 [^60-1]: Abrogé par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
-### Section 3 Contribution pour la mise en réseau
+### Section 3 …
 
-#### Art. 61
+#### Art. 61et 62
 
-**Contribution**
+[^6162-1]
 
-<sup>1</sup> La Confédération soutient des projets des cantons visant à la promotion de la mise en réseau et de l’exploitation appropriée de surfaces de promotion de la biodiversité visées à l’art. 55, al. 1, let. a à k, n et p, ainsi que d’arbres visés à l’art. 55, al. 1<sup>bis</sup>.[^61-1]
+[^6162-1]: Abrogés par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
-<sup>2</sup> Elle accorde son soutien lorsque les cantons versent des contributions aux exploitants pour la réalisation de mesures de mise en réseau convenues par contrat.
+### Chapitre 4 …
 
-<sup>3</sup> Le canton fixe les taux des contributions pour la mise en réseau.
+#### Art. 63 et 64
 
-<sup>4</sup> La Confédération prend en charge au maximum 90 % des contributions fixées par le canton selon l’al. 3, mais au plus à hauteur des montants visés à l’annexe 7, ch. 3.2.1.
+[^6364-1]
 
-[^61-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-
-#### Art. 62
-
-**Conditions et charges**
-
-<sup>1</sup>
-
-La contribution pour la mise en réseau est versée lorsque les surfaces et les arbres:
-
-- a. satisfont aux exigences du niveau de qualité I visées à l’art 58 et à l’annexe 4;
-- b. remplissent les exigences du canton concernant la mise en réseau;
-- c. sont aménagées et exploitées conformément aux directives d’un projet régional de mise en réseau, approuvé par le canton.[^62-1]
-
-<sup>2</sup> Les exigences du canton en matière de mise en réseau de surfaces de promotion de la biodiversité doivent être équivalentes aux exigences minimales définies à l’annexe 4, let. B. Elles doivent être approuvées par l’OFAG, après consultation de l’OFEV.[^62-2]
-
-<sup>3</sup> Un projet de mise en réseau dure huit ans; il est reconductible. L’exploitant s’engage à exploiter les surfaces conformément à ce qui a été convenu jusqu’à l’échéance de la durée du projet.
-
-<sup>3bis</sup> …[^62-3]
-
-<sup>4</sup> Le canton peut harmoniser la durée d’engagement visée à l’al. 3 avec celles des contributions des niveaux de qualité I et II visées à l’art. 57 et des contributions à la qualité du paysage visées à l’art. 63, octroyées pour la même surface ou pour les mêmes arbres.[^62-4]
-
-<sup>5</sup>
-
-Pour les surfaces donnant droit à des contributions pour la mise en réseau, le canton peut:
-
-- a. fixer des prescriptions dérogeant à celles du niveau de qualité I si cela est nécessaire pour les espèces cibles;
-- b. autoriser la prise en compte d’autres petites structures dans la part maximale de 20 % visée à l’art. 35, al. 2.[^62-5]
-
-<sup>6</sup> Les prescriptions visées à l’al. 5, let. a, doivent être convenues par écrit entre l’exploitant et le canton.[^62-6]
-
-[^62-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^62-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^62-3]: Introduit par le ch. I de l’O du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Abrogé par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^62-4]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^62-5]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^62-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-
-### Chapitre 4 Contribution à la qualité du paysage
-
-#### Art. 63
-
-**Contribution**
-
-<sup>1</sup> La Confédération soutient des projets cantonaux de préservation, promotion et développement de paysages cultivés diversifiés.
-
-<sup>2</sup> Elle accorde son soutien à un projet à condition que le canton verse des contributions aux exploitants pour des mesures de promotion de la qualité du paysage convenues par contrat, que les exploitants mettent en œuvre sur la surface de l’exploitation au sens de l’art. 13 OTerm[^63-1] ou sur une surfaces d’estivage au sens de l’art. 24 OTerm, qu’ils possèdent en propre ou qu’ils ont pris à bail.
-
-<sup>3</sup> Le canton fixe les taux des contributions allouées par mesure.
-
-<sup>4</sup> La Confédération prend en charge au maximum 90 % des contributions fixées par le canton selon l’al. 3, mais au plus les montants visés à l’annexe 7, ch. 4.1.
-
-[^63-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-
-#### Art. 64
-
-**Projets**
-
-<sup>1</sup>
-
-Les projets cantonaux doivent remplir les exigences minimales suivantes:
-
-- a. les objectifs doivent reposer sur des concepts régionaux existants ou être développés dans la région en collaboration avec les milieux intéressés;
-- b. les mesures doivent être axées sur les objectifs régionaux;
-- c. les contributions sont fixées par mesure en fonction du coût et de la valeur de cette mesure.
-
-<sup>2</sup> Le canton doit transmettre à l’OFAG les demandes d’autorisation et de financement d’un projet, accompagnées d’un rapport de projet, en vue de la vérification des exigences minimales. La demande doit être déposée avant le 31 octobre de l’année précédant le début de la mise en œuvre du projet.
-
-<sup>3</sup> L’OFAG autorise les projets et leur financement.
-
-<sup>4</sup> La contribution fédérale est octroyée pour les projets d’une durée de huit ans.
-
-<sup>5</sup> Le canton peut harmoniser la durée d’engagement visées à l’al. 4 avec celles des contributions des niveaux de qualité I et II visées à l’art. 57 et des contributions à la qualité du paysage visées à l’art. 61, octroyées pour la même surface ou pour les mêmes arbres. L’OFAG prend également en compte les mesures qui ont été convenues après le début du projet.[^64-1]
-
-<sup>6</sup> La dernière année de la période de mise en œuvre, le canton transmet un rapport d’évaluation à l’OFAG pour chaque projet.
-
-<sup>7</sup> La contribution fédérale est versée annuellement.
-
-[^64-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^6364-1]: Abrogés par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### Chapitre 5 Contributions au système de production
 
@@ -1338,7 +1250,7 @@ Aucune contribution n’est versée pour:
 - a. le maïs;
 - b. les céréales ensilées;
 - c. les cultures spéciales;
-- d.[^68-2] les surfaces de promotion de la biodiversité visées à l’art. 55, à l’exception des céréales en lignes de semis espacées lorsqu’il s’agit de surfaces de promotion de la biodiversité spécifiques à la région;
+- d.[^68-2] les surfaces de promotion de la biodiversité visées à l’art. 55;
 - e. les cultures dans lesquelles les insecticides et fongicides ne doivent pas être utilisés en vertu de l’art. 18, al. 1 à 5.
 
 <sup>3</sup>
@@ -1367,7 +1279,7 @@ En dérogation à l’al. 3, les traitements suivants sont autorisés:
 <sup>7</sup> Sur demande, les céréales destinées à la production de semences et agréées en vertu de l’ordonnance d’exécution relative à l’ordonnance du 7 décembre 1998 sur le matériel de multiplication[^68-5] peuvent être exemptées de l’exigence énoncée à l’al. 3. Les exploitants annoncent les surfaces et cultures principales concernées au service cantonal compétent.
 
 [^68-1]: Nouvelle teneur selon le ch. III de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^68-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^68-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^68-3]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 [^68-4]: La liste est disponible sous [www.swissgranum.ch](http://www.swissgranum.ch).
 [^68-5]: [RS 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
@@ -1463,7 +1375,7 @@ La contribution pour le non-recours aux herbicides dans les grandes cultures et 
 
 Aucune contribution visée à l’al. 1 n’est versée pour:
 
-- a.[^71a-1] les surfaces de promotion de la biodiversité selon l’art. 55, à l’exception des céréales en lignes de semis espacées, lorsqu’il s’agit de surfaces de promotion de la biodiversité spécifiques à la région, et des surfaces viticoles présentant une biodiversité naturelle;
+- a.[^71a-1] les surfaces de promotion de la biodiversité selon l’art. 55, à l’exception des surfaces viticoles présentant une biodiversité naturelle;
 - b. les bandes semées pour organismes utiles dans les terres ouvertes selon l’art. 71*b*, al. 1, let. a;
 - c. la culture de champignons;
 - d. les surfaces cultivées toute l’année sous abri.
@@ -1514,7 +1426,7 @@ L’utilisation d’herbicides est autorisée dans:
 
 <sup>3.</sup> pour l’élimination des fanes.
 
-[^71a-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^71a-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### Section 4 Contribution pour la biodiversité fonctionnelle sous forme d’une contribution pour les bandes semées pour organismes utiles
 
@@ -1540,22 +1452,17 @@ La contribution pour la biodiversité fonctionnelle est versée par hectare sous
 
 <sup>2</sup> En ce qui concerne les bandes semées pour organismes utiles dans les cultures pérennes, les contributions ne sont octroyées que pour 5 % de la surface de la culture pérenne.
 
-<sup>3</sup>
-
-Aucune contribution n’est versée pour les bandes semées pour organismes utiles visées à l’al. 1, let. b, dans le cas:
-
-- a. des surfaces viticoles présentant une biodiversité naturelle selon l’art. 55, al. 1, let. n;
-- b. des surfaces de promotion de la biodiversité spécifiques à la région selon l’art. 55, al. 1, let. p.
+<sup>3</sup> Aucune contribution n’est versée pour les bandes semées pour organismes utiles visées à l’al. 1, let. b, sur les surfaces viticoles présentant une biodiversité naturelle selon l’art. 55, al. 1, let. n.[^71b-1]
 
 <sup>4</sup> Les bandes semées pour organismes utiles doivent être ensemencées avant le 15 mai.
 
-<sup>5</sup> Pour l’ensemencement des bandes pour organismes utiles, seuls les mélanges de semences appropriés pour le domaine d’utilisation visés à l’annexe 4*a*, let. B, peuvent être utilisés.[^71b-1]
+<sup>5</sup> Pour l’ensemencement des bandes pour organismes utiles, seuls les mélanges de semences appropriés pour le domaine d’utilisation visés à l’annexe 4*a*, let. B, peuvent être utilisés.[^71b-2]
 
-<sup>5bis</sup> L’OFAG définit les mélanges de semences pour les bandes semées pour organismes utiles à l’annexe 4*a*, let. B. Ce faisant, il tient compte de l’utilité écologique et agronomique, des risques et de la méthode conformément aux critères de l’annexe 4a, let. A. La pondération des critères se fonde sur l’objectif visé et le domaine d’utilisation.[^71b-2]
+<sup>5bis</sup> L’OFAG définit les mélanges de semences pour les bandes semées pour organismes utiles à l’annexe 4*a*, let. B. Ce faisant, il tient compte de l’utilité écologique et agronomique, des risques et de la méthode conformément aux critères de l’annexe 4a, let. A. La pondération des critères se fonde sur l’objectif visé et le domaine d’utilisation.[^71b-3]
 
-<sup>5ter</sup> La composition des mélanges de semences appropriés est publiée par l’OFAG le 1<sup>er</sup> janvier de chaque année[^71b-3].[^71b-4]
+<sup>5ter</sup> La composition des mélanges de semences appropriés est publiée par l’OFAG le 1<sup>er</sup> janvier de chaque année[^71b-4].[^71b-5]
 
-<sup>5quater</sup> L’OFAG peut autoriser des modifications de la composition des mélanges de semences destinés à être utilisés dans certaines exploitations agricoles, notamment pour mieux promouvoir la biodiversité ou pour éviter des problèmes dans l’assolement.[^71b-5]
+<sup>5quater</sup> L’OFAG peut autoriser des modifications de la composition des mélanges de semences destinés à être utilisés dans certaines exploitations agricoles, notamment pour mieux promouvoir la biodiversité ou pour éviter des problèmes dans l’assolement.[^71b-6]
 
 <sup>6</sup>
 
@@ -1575,13 +1482,13 @@ Elles doivent être ensemencées à la fréquence suivante:
   - 1\. bandes semées annuelles: tous les ans,
   - 2\. bandes semées pluriannuelles: tous les cinq ans;
 
-- b. bandes semées dans les cultures pérennes: tous les cinq ans.[^71b-6]
+- b. bandes semées dans les cultures pérennes: tous les cinq ans.[^71b-7]
 
-<sup>7bis</sup> Si l’emplacement s’y prête, le canton peut autoriser une prolongation des bandes semées pour organismes utiles pluriannuelles qui se trouvent sur le même site.[^71b-7]
+<sup>7bis</sup> Si l’emplacement s’y prête, le canton peut autoriser une prolongation des bandes semées pour organismes utiles pluriannuelles qui se trouvent sur le même site.[^71b-8]
 
 <sup>8</sup>
 
-Les bandes semées pour organismes utiles doivent couvrir:[^71b-8]
+Les bandes semées pour organismes utiles doivent couvrir:[^71b-9]
 
 - a. bandes semées sur terres ouvertes: toute la longueur de la culture, pendant au moins 100 jours sans fauche;
 - b. bandes semées dans les cultures pérennes: au moins 5 % de la surface de la culture pérenne, au même emplacement pendant quatre années consécutives.
@@ -1590,10 +1497,10 @@ Les bandes semées pour organismes utiles doivent couvrir:[^71b-8]
 
 La fumure et l’utilisation de produits phytosanitaires ne sont pas autorisées dans les bandes semées pour organismes utiles. Seuls sont admis des traitements plante par plante ou des traitements de foyers de plantes posant des problèmes:
 
-- a. bandes semées pour organismes utiles sur les terres ouvertes: à l’aide d’herbicides admis sur la base de l’OPPh[^71b-9] pour utilisation sur les surfaces de promotion de la biodiversité sur les terres ouvertes;
+- a. bandes semées pour organismes utiles sur les terres ouvertes: à l’aide d’herbicides admis sur la base de l’OPPh[^71b-10] pour utilisation sur les surfaces de promotion de la biodiversité sur les terres ouvertes;
 - b. bandes semées pour organismes utiles dans les cultures pérennes: à l’aide de tous les herbicides autorisés dans l’arboriculture et la viticulture sur la base de l’OPPh.
 
-<sup>10</sup> Seuls les insecticides visés dans l’ordonnance du 22 septembre 1997 sur l’agriculture biologique[^71b-10], à l’exception du Spinosad, peuvent être employés dans les cultures pérennes, entre le 15 mai et le 15 septembre, dans les rangs où est aménagée une bande semée pour organismes utiles.
+<sup>10</sup> Seuls les insecticides visés dans l’ordonnance du 22 septembre 1997 sur l’agriculture biologique[^71b-11], à l’exception du Spinosad, peuvent être employés dans les cultures pérennes, entre le 15 mai et le 15 septembre, dans les rangs où est aménagée une bande semée pour organismes utiles.
 
 <sup>11</sup> Seules les bandes semées pour organismes utiles dans les cultures pérennes peuvent être empruntées par des véhicules.
 
@@ -1604,22 +1511,23 @@ Les bandes semées pour organismes utiles peuvent être fauchées comme suit:
 - a. bandes semées pluriannuelles sur terres ouvertes: à partir de la 2<sup>e</sup> année sur la moitié de la surface au maximum entre le 1<sup>er</sup> octobre et le 1<sup>er</sup> mars;
 - b. bandes semées dans les cultures pérennes: en alternance sur la moitié de la surface, l’intervalle entre deux fauches de la même surface devant être au minimum de six semaines.
 
-<sup>13</sup> Les bandes semées pour organismes utiles dans les cultures pérennes peuvent être fauchées et broyées.[^71b-11]
+<sup>13</sup> Les bandes semées pour organismes utiles dans les cultures pérennes peuvent être fauchées et broyées.[^71b-12]
 
-<sup>14</sup> Une coupe de nettoyage est autorisée pendant la première année en cas de forte pression des mauvaises herbes.[^71b-12]
+<sup>14</sup> Une coupe de nettoyage est autorisée pendant la première année en cas de forte pression des mauvaises herbes.[^71b-13]
 
-[^71b-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-3]: La composition valable pour les mélanges de semences appropriés est disponible sous [www.blw.admin.ch/fr/contributions-systeme-production](https://www.blw.admin.ch/fr/contributions-systeme-production).
-[^71b-4]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^71b-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-3]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-4]: La composition valable pour les mélanges de semences appropriés est disponible sous [www.blw.admin.ch/fr/contributions-systeme-production](https://www.blw.admin.ch/fr/contributions-systeme-production).
 [^71b-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-6]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-7]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-8]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-9]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^71b-10]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
-[^71b-11]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-6]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-7]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-8]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-9]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-10]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^71b-11]: [RS 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^71b-12]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-13]: Introduit par le ch. I de l’O du 1<sup>er</sup> nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### Section 5 Contributions pour l’amélioration de la fertilité du sol
 
@@ -1968,54 +1876,93 @@ Aucune contribution n’est versée:
 
 [^77-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-#### Art. 78 à 81
+### Chapitre 5*a* Contribution à la biodiversité régionale et à la qualité du paysage
 
-[^7881-1]
+[^tit2-chap5a-1]
 
-[^7881-1]: Abrogés par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^tit2-chap5a-1]: Introduit par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
-### Chapitre 6 Contributions à l’utilisation efficiente des ressources
+#### Art. 78
 
-[^tit2-chap6-1]
+**Contribution**[^78-1]
 
-[^tit2-chap6-1]: Anciennement avant l’art. 77.
+<sup>1</sup> La Confédération soutient les projets cantonaux encourageant la mise en réseau des surfaces de promotion de la biodiversité et la mise en œuvre d’autres mesures de promotion de la biodiversité et visant la préservation, la promotion et le développement de la diversité des paysages cultivés.
 
-### Section 1 Contribution pour l’utilisation de techniques d’application précise
+<sup>2</sup> Elle accorde son soutien à un projet à condition que le canton verse des contributions aux exploitants pour des mesures convenues de promotion de la biodiversité régionale et de la qualité du paysage et que les exploitants les mettent en œuvre sur la surface de l’exploitation au sens de l’art. 13 OTerm[^78-2] ou sur une surface d’estivage au sens de l’art. 24 OTerm, qu’ils possèdent en propre ou qu’ils ont pris à bail.
 
-[^tit2-chap6-sec1-1]
+<sup>3</sup> Des contributions peuvent être allouées pour des surfaces sur lesquelles sont menés des recherches ou des essais visant à améliorer la biodiversité régionale ou la qualité du paysage.
 
-[^tit2-chap6-sec1-1]: Anciennement section 3.
+<sup>4</sup> Le canton fixe les taux des contributions allouées par mesure.
+
+<sup>5</sup> La Confédération prend en charge au maximum 90 % des contributions fixées par le canton selon l’al. 3, mais au plus les montants visés à l’annexe 7, ch. 5a.
+
+<sup>6</sup> La contribution fédérale est versée annuellement.
+
+[^78-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^78-2]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+
+#### Art. 79
+
+**Exigences applicables aux projets cantonaux**[^79-1]
+
+<sup>1</sup>
+
+Les projets cantonaux doivent remplir les exigences suivantes:
+
+- a. les objectifs dans le domaine de la qualité du paysage renforcent les caractéristiques du paysage régional conformément aux bases techniques cantonales et créent des incitations particulières favorisant des paysages exceptionnels;
+- b. les objectifs quantitatifs de surfaces et de qualité dans le domaine de la biodiversité régionale se fondent sur les bases techniques cantonales;
+- c. les contributions sont fixées en fonction du coût et de la valeur de la mesure;
+- d. les espèces cibles et les espèces caractéristiques sont définies et les mesures tiennent compte de la promotion de ces espèces;
+- e. l’exploitation, ciblée et conforme aux objectifs de protection des biotopes inscrits dans des inventaires nationaux et régionaux selon les art. 18*a* et 18*b* LPN[^79-2] est assurée.
+
+<sup>2</sup> Au plus tard durant la quatrième année du projet, les cantons doivent proposer un conseil technique individuel ou équivalent en vue de la mise en œuvre des mesures.
+
+[^79-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^79-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+
+#### Art. 80
+
+**Procédure**[^80-1]
+
+<sup>1</sup> Le canton élabore le projet en collaboration avec les milieux concernés.
+
+<sup>2</sup> Il dépose auprès de l’OFAG les demandes d’autorisation et de financement du projet.
+
+<sup>3</sup>
+
+La demande doit être déposée dans les délais suivants:
+
+- a. ébauche de projet: au plus tard le 31 octobre de l’année précédant le dépôt de la demande;
+- b. demande: au plus tard le 30 juin de l’année précédant le début prévu du projet.
+
+<sup>4</sup> Les projets de promotion de la biodiversité régionale et de la qualité du paysage durent huit ans. Le canton peut harmoniser les durées d’engagement avec celles des contributions des niveaux de qualité I et II visées à l’art. 57, lorsqu’elles sont octroyées pour la même surface ou pour les mêmes arbres. L’exploitant doit mettre en œuvre les mesures annuelles jusqu’à l’échéance de la durée du projet.
+
+<sup>5</sup> Les cantons peuvent demander d’autres mesures tout au long de la durée du projet. Le canton surveille l’avancée du projet et entreprend les adaptations nécessaires.
+
+<sup>6</sup>
+
+Pour les surfaces donnant droit à des contributions à la biodiversité régionale et à la qualité du paysage, le canton peut:
+
+- a. fixer des prescriptions dérogeant aux exigences du niveau de qualité I, si les espèces cibles l’exigent;
+- b. autoriser d’autres petites structures qui seront comptabilisées dans la part maximale visée à l’art. 35, al. 2.
+
+<sup>7</sup> La dernière année de la durée du projet, le canton remet un rapport d’évaluation à l’OFAG pour chaque projet au plus tard le 30 juin, accompagné, le cas échéant, d’une demande pour un projet subséquent.
+
+[^80-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+
+#### Art. 81
+
+[^81-1]
+
+[^81-1]: Abrogé par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
+### Chapitre 6 …
 
 #### Art. 82
 
-<sup>1</sup> Une contribution unique est octroyée pour l’acquisition de tout pulvérisateur neuf permettant une application précise des produits phytosanitaires.[^82-1]
+[^82-1]
 
-<sup>2</sup>
-
-Sont considérées comme des techniques d’application précise:
-
-- a.[^82-2] la pulvérisation sous-foliaire;
-- b. les pulvérisateurs anti-dérive utilisés dans les cultures pérennes.
-
-<sup>3</sup> La technique de pulvérisation sous-foliaire est un dispositif complémentaire de protection des plantes dont on peut équiper les engins de pulvérisation conventionnels. Elle permet d’utiliser au moins 50 % des buses pour le traitement de la partie inférieure des végétaux et de la face inférieure des feuilles.
-
-<sup>4</sup>
-
-Sont considérés comme pulvérisateurs anti-dérive:
-
-- a.[^82-3] les turbodiffuseurs et les pulvérisateurs à jets projetés, avec flux d’air horizontal orientable;
-- b.[^82-4] les turbodiffuseurs et les pulvérisateurs à jets projetés avec flux d’air horizontal orientable et détecteur de végétation;
-- c. les pulvérisateurs sous tunnel (recyclage de l’air et du liquide).
-
-<sup>5</sup> Les pulvérisateurs anti-dérive sont conçus ou équipés de telle façon que la dérive est réduite d’au moins 50 %, même sans l’utilisation de buses anti-dérive.
-
-<sup>6</sup> Les contributions sont versées jusqu’en 2024.[^82-5]
-
-[^82-1]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^82-2]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^82-3]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^82-4]: Nouvelle teneur selon le ch. I de l’O du 29 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^82-5]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^82-1]: Abrogé par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 82a
 
@@ -2023,36 +1970,11 @@ Sont considérés comme pulvérisateurs anti-dérive:
 
 [^82a-1]: Introduit par le ch. I de l’O du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Abrogé par le ch. I de l’O du 13 avr. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-### Section 2 Contribution pour une alimentation biphase des porcs appauvrie en matière azotée
+#### Art. 82b et 82c
 
-[^tit2-chap6-sec2-1]
+[^82b82c-1]
 
-[^tit2-chap6-sec2-1]: Anciennement section 5. Introduite par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-
-#### Art. 82b
-
-**Contribution**
-
-<sup>1</sup> La contribution pour l’alimentation biphase des porcs appauvrie en matière azotée est octroyée par UGB selon l’annexe 7, ch. 7, OTerm[^82b-1].
-
-<sup>2</sup> Les contributions sont versées jusqu’en 2026.[^82b-2]
-
-[^82b-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^82b-2]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-
-#### Art. 82c
-
-**Conditions et charges**[^82c-1]
-
-<sup>1</sup> La ration alimentaire doit présenter une valeur nutritive adaptée aux besoins des animaux. La ration alimentaire totale de l’ensemble des porcs détenus dans l’exploitation ne doit pas dépasser la valeur limite de protéines brutes en grammes par mégajoule d’énergie digestible porcs (g/MJ EDP), spécifique à l’exploitation et fixée à l’annexe 6*a*, ch. 2 et 3.
-
-<sup>2</sup> Dans l’engraissement des porcs, au moins deux rations alimentaires ayant des teneurs différentes en protéines brutes en g/MJ EDP doivent être utilisées pendant la durée de l’engraissement. La ration alimentaire utilisée en phase finale de l’engraissement doit représenter, par rapport à la matière sèche, au moins 30 % des aliments utilisés pendant la durée de l’engraissement.
-
-<sup>3</sup> L’effectif de porcs déterminant pour le calcul de la valeur limite est fixé selon l’annexe 6*a*, ch. 1.
-
-<sup>4</sup> Les enregistrements concernant l’alimentation et les aliments pour animaux, ainsi que la vérification du respect de la valeur limite, sont régis par l’annexe 6*a*, ch. 4 et 5.
-
-[^82c-1]: Nouvelle teneur selon le ch. I de l’O du 13 avr. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^82b82c-1]: Introduits par le ch. I de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Abrogés par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 82d à 82g
 
@@ -2210,17 +2132,18 @@ Pour la coordination planifiée des contrôles conformément à l’ordonnance d
 - a. les PER;
 - b. la contribution à la biodiversité;
 - c. la contribution au système de production;
-- d. la contribution à l’utilisation efficiente des ressources.
+- d.[^97-3] …
 
-<sup>2</sup> En s’inscrivant, l’exploitant doit choisir un organe de contrôle selon l’art. 7 OCCEA pour le contrôle des PER.[^97-3]
+<sup>2</sup> En s’inscrivant, l’exploitant doit choisir un organe de contrôle selon l’art. 7 OCCEA pour le contrôle des PER.[^97-4]
 
-<sup>3</sup> Les cantons peuvent fixer un délai ultérieur pour les inscriptions visées à l’al. 1 si la planification coordonnée des contrôles est assurée et que le délai pour la transmission des données mentionnée à l’art. 4, al. 1, let. c, de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^97-4] est respecté.[^97-5]
+<sup>3</sup> Les cantons peuvent fixer un délai ultérieur pour les inscriptions visées à l’al. 1 si la planification coordonnée des contrôles est assurée et que le délai pour la transmission des données mentionnée à l’art. 4, al. 1, let. c, de l’ordonnance du 23 octobre 2013 sur les systèmes d’information dans le domaine de l’agriculture (OSIAgr)[^97-5] est respecté.[^97-6]
 
 [^97-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
 [^97-2]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-[^97-3]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-[^97-4]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
-[^97-5]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^97-3]: Abrogée par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^97-4]: Nouvelle teneur selon le ch. I de l’O du 11 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^97-5]: [RS 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^97-6]: Introduit par le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
 #### Art. 98
 
@@ -2243,18 +2166,18 @@ La demande doit comprendre notamment les indications suivantes:
 
 - a. les types de paiements directs mentionnés à l’art. 2 qu’il sollicite;
 - b.[^98-3] les données probables sur l’exploitation et les structures à la date du 1<sup>er</sup> mai, conformément à l’OSIAgr;
-- c. les surfaces de promotion de la biodiversité reportées sur une carte, sans les arbres fruitiers haute-tige, les arbres isolés indigènes et les allées d’arbres adaptés au site; les cantons peuvent exiger l’enregistrement de la demande via le système d’information géographique;
+- c.[^98-4] …
 - d.
 
   pour les contributions dans la région d’estivage:
 
-  - 1\.[^98-4] la catégorie et le nombre des lamas et alpagas estivés,
+  - 1\.[^98-5] la catégorie et le nombre des lamas et alpagas estivés,
   - 2\. la date de la montée à l’alpage,
   - 3\. la date probable de la désalpe,
   - 4\. les modifications éventuelles de la surface pâturable utilisable,
   - 5\. les surfaces herbagères et les surfaces à litière riches en espèces dans la région d’estivage;
 
-- e. les indications indispensables pour le calcul des contributions au système de production et à l’utilisation efficiente des ressources;
+- e.[^98-6] les indications nécessaires pour le calcul des contributions au système de production;
 - f. les mutations de surfaces et l’adresse des exploitations concernées par ces transferts, avec indication du nom de l’ancien et du nouvel exploitant;
 - g. les paiements directs de l’Union européenne touchés l’année précédente pour les surfaces exploitées par tradition dans la zone limitrophe étrangère.
 
@@ -2267,14 +2190,16 @@ La demande doit comprendre notamment les indications suivantes:
 Le canton décide:
 
 - a. si la demande doit être déposée sur support papier ou par voie électronique;
-- b.[^98-5] si les requêtes qui sont déposées par voie électronique peuvent être munies d’une signature électronique qualifiée au sens de l’art. 2, let. e, de la loi du 18 mars 2016 sur la signature électronique[^98-6].
+- b.[^98-7] si les requêtes qui sont déposées par voie électronique peuvent être munies d’une signature électronique qualifiée au sens de l’art. 2, let. e, de la loi du 18 mars 2016 sur la signature électronique[^98-8].
 
 [^98-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^98-2]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^98-3]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^98-4]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^98-5]: Nouvelle teneur selon l’annexe ch. II 9 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^98-6]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^98-4]: Abrogée par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^98-5]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^98-6]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^98-7]: Nouvelle teneur selon l’annexe ch. II 9 de l’O du 23 nov. 2016 sur la signature électronique, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^98-8]: [RS 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 99
 
@@ -2371,14 +2296,15 @@ Les exploitants qui déposent une demande pour certains types de paiements direc
 
 <sup>3</sup> Le canton peut déléguer les tâches à effectuer selon les al. 1 et 2. Les dispositions de l’OCCEA[^104-1] doivent être respectées. Le canton règle les modalités de la rémunération des tâches mandatées.
 
-<sup>4</sup> Il ne peut pas déléguer aux porteurs du projet l’exécution des contrôles de l’exploitation d’objets dans le cadre de projets de mise en réseau et de qualité du paysage.
+<sup>4</sup> Il ne peut pas déléguer aux porteurs du projet l’exécution des contrôles de l’exploitation d’objets dans le cadre de projets de promotion de la biodiversité régionale et de la qualité du paysage.[^104-2]
 
 <sup>5</sup> Il effectue sur son territoire une surveillance par sondage de l’activité de contrôle des organes de contrôle.
 
-<sup>6</sup> …[^104-2]
+<sup>6</sup> …[^104-3]
 
 [^104-1]: [RS 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
-[^104-2]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^104-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^104-3]: Abrogé par le ch. I de l’O du 11 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 ### Chapitre 4 Sanctions administratives
 
@@ -2432,23 +2358,25 @@ Sont notamment considérés comme cas de force majeure:
 
 #### Art. 107a
 
-**Abandon de l’adaptation des contributions d’estivage, des contributions à la biodiversité et des contributions à la qualité du paysage en cas de désalpe précoce causée par la présence de grands prédateurs**[^107a-1]
+**Abandon de l’adaptation des contributions d’estivage, de la contribution à la biodiversité et de la contribution à la biodiversité régionale et à la qualité du paysage en cas de désalpe précoce causée par la présence de grands prédateurs[^107a-2]**[^107a-1]
 
 <sup>1</sup>
 
 Si des exploitations d’estivage et des exploitations de pâturages communautaires doivent effectuer prématurément une désalpe en raison de la mise en danger des animaux de rente par les grands prédateurs, le canton peut:
 
 - a. renoncer à adapter la contribution d’estivage selon l’art. 49, al. 2, let. c;
-- b octroyer la contribution à la biodiversité selon l’annexe 7, ch. 3.1.1, ch. 12, et la contribution à la qualité du paysage selon l’annexe 7, ch. 4.1, let. b, à hauteur de la totalité du montant des contributions versées l’année précédente, même si la charge en bétail est inférieure à la charge usuelle.
+- b.[^107a-3] octroyer la contribution à la biodiversité selon l’annexe 7, ch. 3.1.1, ch. 12, et la contribution à la biodiversité régionale et à la qualité du paysage selon l’annexe 7, ch. 5a.1, à hauteur de la totalité du montant des contributions versées l’année précédente, même si la charge en bétail est inférieure à la charge usuelle.
 
 <sup>2</sup> Après la première autorisation de non-adaptation des contributions, le canton peut renoncer à l’adaptation des contributions au maximum une fois encore au cours des quatre années suivantes pour le même alpage.
 
-<sup>3</sup> L’exploitant doit déposer la demande de non-adaptation des contributions auprès de l’autorité désignée par le canton concerné. Celle-ci tient compte, lors de l’évaluation de la demande, des mesures de protection raisonnables visées à l’art. 10<sup>quinquies</sup> de l’ordonnance du 29 février 1988 sur la chasse[^107a-2] et consulte les spécialistes cantonaux compétents pour la protection des troupeaux et la chasse. Les cantons règlent la procédure.
+<sup>3</sup> L’exploitant doit déposer la demande de non-adaptation des contributions auprès de l’autorité désignée par le canton concerné. Celle-ci tient compte, lors de l’évaluation de la demande, des mesures de protection raisonnables visées à l’art. 10<sup>quinquies</sup> de l’ordonnance du 29 février 1988 sur la chasse[^107a-4] et consulte les spécialistes cantonaux compétents pour la protection des troupeaux et la chasse. Les cantons règlent la procédure.
 
 <sup>4</sup> Le canton annonce à l’OFAG à la fin du mois de novembre les demandes de désalpe précoce en raison de la présence de grands prédateurs. L’OFAG fixe la forme et le contenu de l’annonce.
 
 [^107a-1]: Introduit par le ch. I de l’O du 2 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^107a-2]: [RS 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+[^107a-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^107a-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^107a-4]: [RS 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
 
 ### Chapitre 5 Fixation des contributions, décompte et versement
 
@@ -2479,7 +2407,9 @@ Si des exploitations d’estivage et des exploitations de pâturages communautai
 
 <sup>4</sup> Les contributions qui n’ont pu être versées sont prescrites après cinq ans. Le canton doit les restituer à l’OFAG.
 
-<sup>5</sup> Les contributions d’estivage, les contributions pour les surfaces herbagères et les surfaces à litière riches en espèces dans la région d’estivage et les contributions à la qualité du paysage dans la région d’estivage peuvent être versées au consortage ou à la coopérative d’alpage si cela permet de simplifier notablement le travail administratif. Lorsque les contributions sont versées à une collectivité de droit public (commune, bourgeoisie), au moins 80 % du montant sont reversés aux détenteurs de bétail titulaires d’un droit d’estivage.
+<sup>5</sup> Les contributions d’estivage, les contributions pour les surfaces herbagères et les surfaces à litière riches en espèces dans la région d’estivage et la contribution à la biodiversité régionale et à la qualité du paysage dans la région d’estivage peuvent être versées au consortage ou à la coopérative d’alpage si cela permet de simplifier notablement le travail administratif. Lorsque les contributions sont versées à une collectivité de droit public (commune, bourgeoisie), au moins 80 % du montant sont reversés aux détenteurs de bétail titulaires d’un droit d’estivage.[^109-1]
+
+[^109-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 109a
 
@@ -2696,6 +2626,24 @@ Pour le calcul de la correction linéaire selon le module complémentaire 6 et d
 
 [^115h-1]: Introduit par le ch. I de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^115h-2]: En vigueur le 1<sup>er</sup> janv. 2027.
+
+#### Art. 115i
+
+**Dispositions transitoires relatives à la modification du 6 novembre 2024**[^115i-1]
+
+<sup>1</sup> La contribution pour la mise en réseau et la contribution à la qualité du paysage sont encore versées conformément à l’ancien droit en 2026 et 2027. Les réductions sont effectuées conformément à l’ancien droit.
+
+<sup>2</sup> La contribution à l’utilisation efficiente des ressources pour l’alimentation biphase des porcs appauvrie en matière azotée est encore versée conformément à l’ancien droit en 2026. Les réductions sont effectuées conformément à l’ancien droit.
+
+<sup>3</sup> La contribution à la biodiversité régionale et à la qualité du paysage visée à l’art. 78 est versée pour la première fois en 2028. Les surfaces faisant partie de projets selon l’art. 78 sont imputables pour la première fois en 2028 dans les surfaces de promotion de la biodiversité selon l’art. 14, al. 2.
+
+<sup>4</sup> Les arbres isolés indigènes adaptés au site et les allées d’arbres visés à l’art. 55, al. 1<sup>bis</sup>, let. b, de l’ancien droit sont encore imputables en tant que surfaces de promotion de la biodiversité selon l’art. 14 en 2026 et 2027. Les réductions sont effectuées conformément à l’ancien droit.
+
+<sup>5</sup> Les surfaces de promotion de la biodiversité spécifiques à la région visées à l’art. 55, al. 1, let. p, de l’ancien droit sont encore imputables en tant que surfaces de promotion de la biodiversité selon l’art. 14 en 2026 et 2027. Les réductions sont effectuées conformément à l’ancien droit.
+
+<sup>6</sup> La contribution pour le non-recours aux produits phytosanitaires dans les grandes cultures visée à l’art. 68 de l’ancien droit et la contribution pour le non-recours aux herbicides dans les grandes cultures et les cultures spéciales visée à l’art. 71*a* de l’ancien droit sont encore versées en 2026 et 2027 pour les céréales en lignes de semis espacées, lorsqu’il s’agit de surfaces de promotion de la biodiversité spécifiques à la région.
+
+[^115i-1]: Introduit par le ch. I de l’O du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 116
 
@@ -3225,7 +3173,7 @@ Annexe 4[^t-3]
 
 ## Conditions que doivent remplir les surfaces de promotion de la biodiversité
 
-[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), l’erratum du 7 fév. 2017 ([RO 2017 513](https://fedlex.data.admin.ch/eli/oc/2017/90)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-3]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), l’erratum du 7 fév. 2017 ([RO 2017 513](https://fedlex.data.admin.ch/eli/oc/2017/90)), le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), le ch. II des O du 6 nov. 2024 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) et du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### A Surfaces de promotion de la biodiversité
 
@@ -3439,12 +3387,7 @@ Annexe 4[^t-3]
 
 - 12\.2.11 Les critères du niveau de qualité II peuvent être remplis en commun. Les cantons règlent la procédure.
 
-### 13 Arbres isolés indigènes adaptés au site et allées d’arbres
-
-### 13.1 Niveau de qualité I
-
-- 13\.1.1 L’espacement entre deux arbres donnant droit à une contribution est de 10 m au moins.
-- 13\.1.2 Aucun engrais ne doit être épandu sous les arbres dans un rayon de 3 m.
+### 13 …
 
 ### 14 Surfaces viticoles présentant une biodiversité naturelle
 
@@ -3467,7 +3410,7 @@ Annexe 4[^t-3]
 ### 14.2 Niveau de qualité II
 
 - 14\.2.1 La qualité floristique visée à l’art. 59 est déterminée à l’aide de plantes indicatrices ou des structures favorisant la biodiversité. Les plantes indicatrices signalent un sol pauvre en substances fertilisantes et une végétation riche en espèces et doivent se rencontrer régulièrement. Les structures favorisant la biodiversité doivent se rencontrer régulièrement.
-- 14\.2.2 Concernant les surfaces qui remplissent les critères du niveau de qualité II pour les contributions à la biodiversité, des dérogations aux principes du niveau de qualité I peuvent être autorisées en accord avec les services cantonaux de protection de la nature.
+- 14\.2.2 Concernant les surfaces qui remplissent les critères du niveau de qualité II pour la contribution à la biodiversité, des dérogations aux principes du niveau de qualité I peuvent être autorisées en accord avec les services cantonaux de protection de la nature.
 
 ### 15 Surfaces herbagères et surfaces à litière riches en espèces dans la région d’estivage
 
@@ -3482,27 +3425,7 @@ Annexe 4[^t-3]
 [^annex4-lvlu1-lvlA-lvl15-lvl151-1]: [RS 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^annex4-lvlu1-lvlA-lvl15-lvl151-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
-### 16 Surface de promotion de la biodiversité spécifique à la région
-
-### 16.1 Niveau de qualité I
-
-- 16\.1.1 Définition: milieux naturels présentant un intérêt écologique, mais qui ne correspondent pas aux éléments visés aux ch. 1 à 15 et 17.
-- 16\.1.2 Les charges et les conditions d’autorisation sont définies par le service cantonal de protection de la nature, en accord avec le service cantonal de l’agriculture et l’OFAG.
-
-### B Mise en réseau
-
-### 1 État initial
-
-- 1\.1
-
-  Un périmètre est délimité et reporté sur un plan. Celui-ci indique l’état initial des différents habitats naturels. Les éléments suivants, au minimum, doivent figurer sur le plan:
-
-  - a. surface de promotion de la biodiversité(SPB), y compris le niveau de qualité;
-  - b. les objets répertoriés dans les inventaires de la Confédération et des cantons;
-  - c. les milieux naturels à importante valeur écologique situés à l’intérieur ou à l’extérieur de la surface agricole utile;
-  - d. la région d’estivage, les forêts, les zones de protection des eaux souterraines et les zones à bâtir.
-
-- 1\.2 L’état initial est décrit.
+### B …
 
 ### 2 Définition des objectifs
 
@@ -3714,7 +3637,7 @@ Annexe 6[^t-6]
 
 ## Exigences spécifiques relatives aux contributions pour le bien‑être des animaux
 
-[^t-6]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 des O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) et du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-6]: Nouvelle teneur selon le ch. II al. 2 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)[7789](https://fedlex.data.admin.ch/eli/oc/2017/891)). Mise à jour par le ch. II des O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)) et du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 des O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)) et du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), le ch. II de l’O du 6 nov. 2024 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) et l’annexe ch. 4 de l’O du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### A Exigences relatives aux contributions SST
 
@@ -3764,11 +3687,11 @@ Annexe 6[^t-6]
   L’entrave dans une aire de repos conforme SST est admise dans les situations suivantes:
 
   - a. dans le cas des femelles en chaleur, pendant deux jours au maximum;
-  - b. durant deux jours au plus avant un transport, pour autant que le numéro d’identification des animaux entravés selon l’ordonnance du 26 octobre 2011 sur la BDTA[^annex6-lvlu1-lvlA-lvl2-2] des animaux concernés et la date du transport aient été notés dans un journal avant la dérogation;
+  - b. durant deux jours au plus avant un transport, pour autant que le numéro d’identification des animaux entravés visé dans l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux[^annex6-lvlu1-lvlA-lvl2-2] et la date du transport aient été notés dans un journal avant la dérogation;
   - c. dans le cas des génisses en gestation avancée, qui sont gardées dans une stabulation entravée après le vêlage, elles peuvent y être déplacées au plus tôt dix jours avant la date présumée du vêlage.
 
 [^annex6-lvlu1-lvlA-lvl2-1]: La norme peut être consultée gratuitement auprès de l’Office fédéral de l’agriculture, 3003 Berne ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
-[^annex6-lvlu1-lvlA-lvl2-2]: [[RO 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)annexe ch. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)annexe ch. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)annexe ch. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 ch. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)annexe ch. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663); [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)annexe 4 ch. 9; [2020 2521](https://fedlex.data.admin.ch/eli/oc/2020/461)ch. II 1; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)annexe ch. 1]. Voir actuellement l’O du 3 nov. 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux ([RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849))
+[^annex6-lvlu1-lvlA-lvl2-2]: [RS 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 ### 3 Équidés
 
@@ -3961,7 +3884,7 @@ Annexe 6[^t-6]
 
   - a. pendant 10 jours avant la date probable de mise bas et pendant 10 jours suivant la mise bas;
   - b. en cas d’intervention pratiquée sur l’animal;
-  - c. durant deux jours au plus avant un transport, pour autant que le numéro BDTA des animaux concernés et la date du transport aient été notés dans un document avant la dérogation;
+  - c. durant deux jours au plus avant un transport, pour autant que le numéro d’identification des animaux entravés visé dans l’ordonnance du 3 novembre 2021 relative à Identitas SA et à la banque de données sur le trafic des animaux et la date du transport aient été notés dans un journal avant la dérogation;
   - d. dans la mesure où cela est nécessaire durant l’affourragement, la traite ou le nettoyage de l’aire d’exercice.
 
 - 2\.4
@@ -4169,11 +4092,11 @@ Annexe 6a[^t-7]
 
 Annexe 7[^t-8]
 
-(art. 61, al. 4, 63, al. 4, 83, al. 1, et 86, al. 3)
+(art. 78, al. 4, 83, al. 1, 86, al. 3, et 107*a*, al. 1, let. b)
 
 ## Taux des contributions
 
-[^t-8]: Mise à jour par le ch. II al. 1 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), le ch. II des O du 20 mai 2015 ([RO 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. I de l’O du 15 fév. 2017 ([RO 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), les ch. II et III de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II al. 1 et III de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-8]: Mise à jour par le ch. II des O du 20 mai 2015 ([RO 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II al. 1 et III de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), le ch. II des O du 6 nov. 2024 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) et du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 1 Contributions au paysage cultivé
 
@@ -4279,7 +4202,7 @@ Annexe 7[^t-8]
 
 - 2\.3.1 La contribution pour terres ouvertes et cultures pérennes s’élève à 400 francs par hectare et par an.
 
-### 3 Contributions à la biodiversité
+### 3 Contribution à la biodiversité
 
 ### 3.1 Contribution à la qualité
 
@@ -4313,7 +4236,6 @@ Annexe 7[^t-8]
 <tr><td>*10.* *Surfaces viticoles présentant une biodiversité naturelle*</td><td>–</td><td colspan="2">1100</td></tr>
 <tr><td>*11.* *Prairies riveraines*</td><td>300</td><td colspan="2"></td></tr>
 <tr><td>*12.* *Surfaces herbagères et surfaces à litière riches en espèces dans la région d’estivage*</td><td>–</td><td colspan="2">150, mais au max 300 par PN</td></tr>
-<tr><td>*13.* *Surface de promotion de la biodiversité spécifique de la région*</td><td>–</td><td colspan="2">–</td></tr>
 </table>
 
 - 3\.1.2 Les contributions sont les suivantes:
@@ -4323,29 +4245,12 @@ Annexe 7[^t-8]
 <tr><th></th><th>I</th><th colspan="2">II</th></tr>
 <tr><th></th><th>fr./arbre et an</th><th colspan="2">fr./arbre et an</th></tr>
 <tr><td>*1.* *Arbres fruitiers à haute-tige* *Noyers*</td><td>13.50 13.50</td><td colspan="2">31.50 16.50</td></tr>
-<tr><td>*2.* *Arbres isolés adaptés au site et allées d’arbres*</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td>*2.* *…*</td><td></td><td colspan="2"></td></tr>
 </table>
 
-### 3.2 Contribution pour la mise en réseau
+### 3.2 …
 
-- 3\.2.1 La Confédération prend en charge au maximum 90 % des montants suivants par an:
-
-<table>
-<tr><td>a. par ha de pâturage extensif et pâturage boisé</td><td>500 fr.</td></tr>
-<tr><td>b. par ha de surfaces visées au ch. 3.1.1, ch. 1 à 3, 5 à 11 et 13</td><td>1000 fr.</td></tr>
-<tr><td>c. par arbre visé au ch. 3.1.2, ch. 1 et 2</td><td>5 fr.</td></tr>
-</table>
-
-### 4 Contribution à la qualité du paysage
-
-- 4\.1 La Confédération prend en charge au maximum 90 % des montants suivants par projet et par an:
-
-<table>
-<tr><td>a. par ha SAU d’exploitations agricoles ayant conclu une convention</td><td>360 fr.</td></tr>
-<tr><td>b. par PN de la charge usuelle dans les exploitations d’estivage ou de pâturages communautaires ayant conclu une convention</td><td>240 fr.</td></tr>
-</table>
-
-- 4\.2 La Confédération met par année à la disposition des cantons pour les projets de qualité du paysage visés à l’art. 64 un maximum de 120 francs par ha de surface agricole utile et un maximum de 80 francs par PN de la charge usuelle dans la région d’estivage*.*
+### 4 …
 
 ### 5 Contributions au système de production
 
@@ -4478,6 +4383,10 @@ Annexe 7[^t-8]
   - a. pour les vaches laitières: entre 10 francs pour une moyenne de 3 vêlages et 100 francs pour une moyenne de 7 vêlages et plus;
   - b. pour les autres vaches: entre 10 francs pour une moyenne de 4 vêlages et 100 francs pour une moyenne de 8 vêlages et plus.
 
+### 5a Contribution à la biodiversité régionale et à la qualité du paysage
+
+- 5a.1 La Confédération met, par année, à la disposition des cantons pour les projets de promotion de la biodiversité régionale et de la qualité du paysage visés à l’art. 78 un maximum de 250 francs par hectare de surface agricole utile et un maximum de 130 francs par PN de la charge usuelle dans la région d’estivage.
+
 ### 6 Contributions à l’utilisation efficiente des ressources
 
 ### 6.1 Contribution pour l’utilisation de techniques d’application précise
@@ -4496,11 +4405,11 @@ Annexe 7[^t-8]
 
 Annexe 8[^t-9]
 
-(art. 105, al. 1, 115*a*, al. 1 et 2, 115*c*, al. 2, 115*f*, al. 2, et 115*g*, al. 2)
+(art. 105, al. 1, 115*a*, al. 1 et 2, 115*c*, al. 2, 115*f*, al. 2, 115*g*, al. 2, et 115*i*, al. 1, 2, 4 et 5)
 
 ## Réduction des paiements directs
 
-[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), les errata des 17 janv. 2017 ([RO 2017 133](https://fedlex.data.admin.ch/eli/oc/2017/40)), 26 sept. 2017 ([RO 2017 5061](https://fedlex.data.admin.ch/eli/oc/2017/551)), 14 nov. 2017 ([RO 2017 6021](https://fedlex.data.admin.ch/eli/oc/2017/662)) et le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II de l’O du 6 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-9]: Nouvelle teneur selon le ch. II al. 2 de l’O du 29 oct. 2014 ([RO 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Mise à jour par le ch. II des O du 28 oct. 2015 ([RO 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), du 16 sept. 2016 ([RO 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), le ch. II al. 1 de l’O du 18 oct. 2017 ([RO 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), le ch. II des O du 11 nov. 2020 ([RO 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), du 3 nov. 2021 ([RO 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), le ch. II al. 1 de l’O du 13 avr. 2022 ([RO 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), le ch. II de l’O du 2 nov. 2022 ([RO 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), le ch. II al. 1 de l’O du 1<sup>er</sup> nov. 2023 ([RO 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) et le ch. II des O du 6 nov. 2024 ([RO 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) et du 6 nov. 2024 (Contribution à la biodiversité régionale et à la qualité du paysage), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 1 Généralités
 
@@ -4575,9 +4484,8 @@ Annexe 8[^t-9]
 <tr><td></td><td>Indications trop élevées</td><td>Correction des données et réduction supplémentaire correspondant à la différence entre les contributions (données déclarées moins les données correctes).</td></tr>
 <tr><td>b. Déclaration incorrecte des surfaces dans les terrains en pente (art. 98, 100 et 105)</td><td>Les données concernant l’utilisation ne sont pas correctes La surface ou partie de surface n’est pas classée dans la bonne catégorie de déclivité</td><td>Pour tous les manquements: correction des données, nouveau calcul de la contribution pour surfaces en forte pente et réduction supplémentaire de 1000 fr.</td></tr>
 <tr><td>c. Déclaration incorrecte relative des surfaces selon la zone (art. 98, 100 et 105)</td><td>Les données concernant la zone ne sont pas correctes La surface ou partie de surface n’est pas classée dans la bonne zone</td><td>Pour tous les manquements: correction des données et réduction supplémentaire de 200 fr./ha de surface concernée</td></tr>
-<tr><td>d. Déclaration incorrecte des arbres isolés et des arbres fruitiers haute-tige (art. 98, 100 et 105)</td><td>Indication trop basse</td><td>Pas de correction</td></tr>
-<tr><td></td><td>Indication trop élevée</td><td>Correction des données et réduction supplémentaire de 50 fr. par arbre concerné</td></tr>
-<tr><td>e. Déclaration incorrecte de la catégorie, du niveau de qualité ou de la mise en réseau des arbres isolés et des arbres fruitiers haute-tige (art. 98, 100 et 105)</td><td>Indication erronée</td><td>Pour tous les manquements: correction des données et réduction supplémentaire de 50 fr. par arbre concerné</td></tr>
+<tr><td>d. Déclaration incorrecte des arbres fruitiers haute-tige (art. 98, 100 et 105)</td><td>Indication trop basse Indication trop élevée</td><td>Pas de correction Correction des données et réduction supplémentaire de 50 fr. par arbre concerné</td></tr>
+<tr><td>e. Déclaration incorrecte de la catégorie ou du niveau de qualité des arbres fruitiers haute-tige (art. 98, 100 et 105)</td><td>Indication erronée</td><td>Pour tous les manquements: correction des données et réduction supplémentaire de 50 fr. par arbre concerné</td></tr>
 </table>
 
 - 2\.1.7 Exploitation par l’entreprise
@@ -4734,13 +4642,13 @@ Annexe 8[^t-9]
 - Lorsque l’autorité compétente accorde un délai pour l’assainissement des installations de stockage, aucune réduction en vertu de la let. a n’est appliquée si un manquement est constaté au cours de cette période.
 
 <table>
-<tr><td>Manquement concernant le point de contrôle</td><td>Réduction</td></tr>
+<tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
 <tr><td>a. Stockage non conforme d’engrais de ferme liquides (art. 13, al. 2<sup>bis</sup>)</td><td>300 fr.</td></tr>
 <tr><td>b. Pas d’utilisation, ou utilisation non conforme, des techniques diminuant les émissions lors de l’épandage de lisier ou de produits liquides de méthanisation</td><td>300 fr. / ha × surface concernée en ha</td></tr>
 <tr><td>c. Les appareils utilisés pour l’épandage diminuant les émissions de lisier et de produits liquides de méthanisation ne remplissent pas les conditions techniques requises</td><td>300 fr. par appareil non conforme utilisé La réduction n’est effectuée que si le manquement est encore présent après l’expiration du délai supplémentaire accordé</td></tr>
 </table>
 
-### 2.4 Contributions à la biodiversité: contributions à la qualité
+### 2.4 Contribution à la biodiversité
 
 - 2\.4.1 Les réductions consistent en des déductions de montants forfaitaires ou d’un pourcentage des contributions à la qualité du niveau de qualité I (CQ I) et II (CQ II). Les CQ I et CQ II sont réduites selon le type de surface de promotion de la biodiversité (art. 55) pour la surface ou les arbres concernés.
 - 2\.4.2 Si plusieurs manquements sont constatés en même temps pour un type de surface de promotion de la biodiversité au même niveau de qualité, les réductions ne sont pas cumulées. Seul le manquement donnant lieu à la réduction la plus élevée est pris en compte. Cela ne s’applique pas aux ch. 2.4.19 à 2.4.24.
@@ -4860,14 +4768,7 @@ Annexe 8[^t-9]
 <tr><td>d. Q II: Le nombre d’arbres ne reste pas constant (art. 59, annexe 4, ch. 12.2.7)</td><td>Par arbre manquant: 200 % × CQ II</td></tr>
 </table>
 
-- 2\.4.18 Arbres isolés indigènes adaptés au site et allées d’arbres
-
-<table>
-<tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
-<tr><td>a. Conditions et charges non respectées (art. 58, annexe 4, ch. 13.1)</td><td>200 fr.</td></tr>
-<tr><td>b. Fumure sous les arbres dans un rayon de moins de 3 m (annexe 4, ch. 13.1)</td><td>200 fr.</td></tr>
-</table>
-
+- 2\.4.18 …
 - 2\.4.19 Surfaces viticoles présentant une biodiversité naturelle
 
 <table>
@@ -4877,13 +4778,7 @@ Annexe 8[^t-9]
 <tr><td>c. Q II: nombre insuffisant de plantes indicatrices ou trop peu ou pas de structures favorisant la biodiversité (art. 59, annexe 4, ch. 14.2)</td><td>Aucune; versement de la CQ II uniquement pour les surfaces présentant suffisamment de plantes indicatrices ou de structures</td></tr>
 </table>
 
-- 2\.4.20 Surfaces de promotion de la biodiversité spécifiques à la région
-
-<table>
-<tr><th>Manquement concernant le point de contrôle</th><th>Réduction</th></tr>
-<tr><td>Charges selon des exigences spécifiques non respectées (art. 58, annexe 4, ch. 16.1)</td><td>200 fr.</td></tr>
-</table>
-
+- 2\.4.20 …
 - 2\.4.21 …
 - 2\.4.22 Fossés humides, mares, étangs
 
@@ -4906,21 +4801,7 @@ Annexe 8[^t-9]
 <tr><td>Conditions et charges non respectées; bordure tampon large de moins de 50 cm; des engrais ou produits phytosanitaires ont été utilisés (annexe 1, ch. 3.1 et 3.2.3)</td><td>Chaque manquement: 200 fr.</td></tr>
 </table>
 
-### 2.4*a* Contributions à la biodiversité: contribution pour la mise en réseau
-
-- 2\.4a.1 Les réductions des contributions doivent être fixées par le canton dans le cadre du projet régional de mise en réseau. Elles doivent correspondre au moins aux réductions mentionnées aux ch. 2.4a.2 et 2.4a.3.
-- 2\.4a.2 Si les conditions et les charges du projet régional de mise en réseau approuvé par le canton ne sont pas intégralement respectées, et s’il s’agit d’une première infraction, il s’agit de réduire au minimum les contributions de l’année en cours et d’exiger la restitution des contributions de l’année précédente. La réduction s’applique aux surfaces et aux éléments concernés par l’inobservation.
-- 2\.4a.3 La récidive entraîne non seulement la déchéance de l’éligibilité aux contributions pour l’année en cours, mais encore la restitution de toutes les contributions versées pour le projet en cours. La réduction s’applique aux surfaces et aux éléments concernés par l’inobservation.
-- 2\.4a.4 En cas de perte de terres affermées, les contributions ne peuvent pas être réduites ou supprimées pour raison de non-respect de la période d’engagement.
-- 2\.4a.5 Aucune réduction n’est effectuée en cas de renonciation annoncée conformément à l’art. 100*a*.
-- 2\.4a.6 Pour les surfaces visées à l’art. 55, al. 5 et 6, aucune contribution pour la mise en réseau n’est versée.
-
-### 2.5 Contributions pour la qualité du paysage
-
-- 2\.5.1 Les réductions des contributions doivent être fixées par le canton dans le cadre des conventions contractuelles passées pour le projet: elles doivent correspondre au moins aux réductions mentionnées aux ch. 2.5.2 et 2.5.3.
-- 2\.5.2 La première inobservation des conditions et des charges entraîne au moins la réduction des contributions de l’année en cours et la restitution de celles reçues l’année précédente. La réduction s’applique aux surfaces et aux éléments concernés par l’inobservation.
-- 2\.5.3 La récidive entraîne non seulement la déchéance de l’éligibilité aux contributions pour l’année en cours, mais encore la restitution de toutes les contributions versées pour le projet en cours. La réduction s’applique aux surfaces et aux éléments concernés par l’inobservation.
-- 2\.5.4 En cas de perte de terres affermées, les contributions ne peuvent pas être réduites ou supprimées pour raison de non-respect de la période d’engagement.
+### 2.5 …
 
 ### 2.5a Contributions pour l’agriculture biologique
 
@@ -5235,6 +5116,14 @@ Annexe 8[^t-9]
 <tr><td>Les exigences en matière de bien-être des animaux ou les dérogations autorisées par l’OFAG ne sont pas respectées (art. 76*a*)</td><td>Réduction analogue aux ch. 2.9.1 à 2.9.4</td></tr>
 </table>
 
+### 2.9a Contribution à la biodiversité régionale et à la qualité du paysage
+
+- 2\.9a.1 Les réductions des contributions sont fixées par le canton dans le cadre des conventions liées au projet. Elles correspondent au moins aux réductions mentionnées aux ch. 2.9a.2 et 2.9a.3.
+- 2\.9a.2 La première inobservation des conditions et des charges entraîne au moins la réduction des contributions de l’année en cours et la restitution de celles reçues l’année précédente. La réduction s’applique aux surfaces et aux éléments pour lesquels les conditions et les charges n’ont pas été intégralement respectées.
+- 2\.9a.3 La récidive entraîne non seulement l’exclusion du droit aux contributions pour l’année en cours, mais encore la restitution de toutes les contributions versées pour le projet en cours. La réduction s’applique aux surfaces et aux éléments pour lesquels les conditions et les charges n’ont pas été intégralement respectées.
+- 2\.9a.4 Si l’obligation d’être conseillé n’est pas respectée, la réduction est de 1000 francs.
+- 2\.9a.5 En cas de perte de terres affermées, les contributions ne peuvent pas être réduites ou supprimées par le canton pour raison de non-respect de la période d’engagement.
+
 ### 2.10 Contributions à l’utilisation efficiente des ressources
 
 - 2\.10.1 Les réductions ont lieu au moyen de déductions de montants forfaitaires ou via un pourcentage des contributions à l’utilisation efficiente des ressources.
@@ -5418,9 +5307,9 @@ Les réductions consistent en des déductions de montants forfaitaires. Les réd
 
 - 3\.8.2 Aucune réduction n’est effectuée en cas de renonciation annoncée conformément à l’art. 100*a*.
 
-### 3.9 Contributions à la qualité du paysage
+### 3.9 Réduction de la contribution à la biodiversité régionale et à la qualité du paysage
 
-Les dispositions du ch. 2.5 s’appliquent également aux exploitations d’esti**v**age et aux exploitations de pâturages communautaires.
+Les dispositions du ch. 2.9a s’appliquent également aux exploitations d’estivage et aux exploitations de pâturages communautaires.
 
 ### 3.10 Dispositions pertinentes pour l’agriculture visées à l’art. 105, al. 1, let. d (législation en matière de protection des eaux, de l’environnement, de la nature et du paysage et de la protection des animaux)
 

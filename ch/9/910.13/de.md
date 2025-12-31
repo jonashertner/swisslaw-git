@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Oktober 2013 über die Direktzahlungen an die Landwir
 short: DZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/765"
 language: de
-version: 2025-12-01
+version: 2026-01-01
 adopted: 2013-10-23
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20251201/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20251201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20251201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/765/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2013-765-20260101-de-xml-13.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/765/20251201/de"
 
 (Direktzahlungsverordnung, DZV)
 
-vom 23. Oktober 2013 (Stand am 1. Dezember 2025)
+vom 23. Oktober 2013 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -64,15 +64,9 @@ Die Direktzahlungen umfassen folgende Direktzahlungsarten:
   - 2\. Produktionserschwernisbeitrag,
   - 3\. Beitrag für die offene Ackerfläche und für Dauerkulturen;
 
-- c.
-
-  Biodiversitätsbeiträge:
-
-  - 1\. Qualitätsbeitrag,
-  - 2\. Vernetzungsbeitrag;
-
-- d. Landschaftsqualitätsbeitrag;
-- e.[^2-1]
+- c.[^2-1] Biodiversitätsbeitrag;
+- d.[^2-2] …
+- e.[^2-3]
 
   Produktionssystembeiträge:
 
@@ -85,25 +79,15 @@ Die Direktzahlungen umfassen folgende Direktzahlungsarten:
   - 7\. Tierwohlbeiträge,
   - 8\. Beitrag für die längere Nutzungsdauer von Kühen;
 
-- f.
-
-  Ressourceneffizienzbeiträge:
-
-  - 1\. und 2.[^2-2] …
-  - 3\. Beitrag für den Einsatz von präziser Applikationstechnik,
-  - 4\.[^2-3] …
-  - 5\.[^2-4] Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen,
-  - 6\.[^2-5] …
-  - 7\.[^2-6] …
-
+- e<sup>bis</sup>.[^2-4] Beitrag für regionale Biodiversität und Landschaftsqualität;
+- f.[^2-5] …
 - g. Übergangsbeitrag.
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023, Ziff. 8 in Kraft seit 1. Jan. 2024 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-2]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-3]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-4]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^2-5]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^2-6]: Eingefügt durch Ziff. I der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^2-2]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023, Ziff. 8 in Kraft seit 1. Jan. 2024 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^2-4]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^2-5]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 2. Kapitel: Voraussetzungen
 
@@ -136,10 +120,10 @@ Nicht beitragsberechtigt ist eine natürliche Person oder eine Personengesellsch
 - a. in leitender Funktion für die juristische Person tätig ist; oder
 - b. über eine Beteiligung von mehr als einem Viertel am Aktien-, Stamm- oder Grundkapital oder an den Stimmrechten der juristischen Person verfügt.[^3-1]
 
-<sup>3</sup> Für Biodiversitäts- und Landschaftsqualitätsbeiträge sind auch juristische Personen mit Sitz in der Schweiz sowie Kantone und Gemeinden beitragsberechtigt, sofern sie Bewirtschafterinnen des Betriebs sind. Davon ausgenommen sind juristische Personen, bei denen davon ausgegangen werden kann, dass sie zur Umgehung der Altersgrenze oder der Ausbildungsanforderungen gegründet wurden.[^3-2]
+<sup>3</sup> Für den Biodiversitätsbeitrag und für den Beitrag für regionale Biodiversität und Landschaftsqualität sind auch juristische Personen mit Sitz in der Schweiz sowie Kantone und Gemeinden beitragsberechtigt, sofern sie Bewirtschafterinnen oder Bewirtschafter des Betriebs sind. Davon ausgenommen sind juristische Personen, bei denen davon ausgegangen werden kann, dass sie zur Umgehung der Altersgrenze oder der Ausbildungsanforderungen gegründet wurden.[^3-2]
 
 [^3-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^3-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^3-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 4
 
@@ -190,7 +174,7 @@ Direktzahlungen werden nur ausgerichtet, wenn auf dem Betrieb ein Arbeitsbedarf 
 
 <sup>2</sup> Der Arbeitsaufwand berechnet sich nach dem «ART-Arbeitsvoranschlag 2009» von Agroscope, in der Version des Jahres 2013[^6-1].
 
-[^6-1]: Der Arbeitsvoranschlag kann heruntergeladen werden unter [www.agroscope.admin.ch/arbeitsvoranschlag](http://www.agroscope.admin.ch/arbeitsvoranschlag)
+[^6-1]: Der Arbeitsvoranschlag kann heruntergeladen werden unter: [www.agroscope.admin.ch/arbeitsvoranschlag](http://www.agroscope.admin.ch/arbeitsvoranschlag)
 
 #### Art. 7
 
@@ -264,7 +248,7 @@ Die für die landwirtschaftliche Produktion massgebenden Vorschriften der Tiersc
 
 <sup>2</sup>
 
-Als Biodiversitätsförderflächen anrechenbar sind Flächen nach den Artikeln 55 Absatz 1 Buchstaben a–k, n und p und 71*b* und nach Anhang 1 Ziffer 3 sowie Bäume nach Artikel 55 Absatz 1<sup>bis</sup>, wenn diese Flächen und Bäume: [^14-1]
+Als Biodiversitätsförderflächen anrechenbar sind Flächen nach den Artikeln 55 Absatz 1 Buchstaben a–k und n, 71*b* und 78 und nach Anhang 1 Ziffer 3 sowie Bäume nach Artikel 55 Absatz 1<sup>bis</sup>, wenn diese Flächen und Bäume:[^14-1]
 
 - a. sich auf der Betriebsfläche und in einer Fahrdistanz von höchstens 15 km zum Betriebszentrum oder zu einer Produktionsstätte befinden; und
 - b. im Eigentum oder auf dem Pachtland des Bewirtschafters oder der Bewirtschafterin sind.
@@ -273,12 +257,12 @@ Als Biodiversitätsförderflächen anrechenbar sind Flächen nach den Artikeln 5
 
 <sup>4</sup> Bei Nützlingsstreifen in Dauerkulturen nach Artikel 71*b* Absatz 1 Buchstabe b sind 5 Prozent der Fläche der Dauerkultur anrechenbar.[^14-3]
 
-<sup>5</sup> …[^14-4]
+<sup>5</sup> Flächen in Projekten nach Artikel 78 sind anrechenbar, wenn sie ökologisch wertvolle natürliche Lebensräume fördern und keiner Biodiversitätsförderfläche nach Artikel 55 Absatz 1 entsprechen.[^14-4]
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^14-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^14-3]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^14-4]: Eingefügt durch Ziff. I der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^14-4]: Eingefügt durch Ziff. I der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 14a
 
@@ -566,13 +550,13 @@ Enthält ein allfälliger Bewirtschaftungsplan nach Anhang 2 Ziffer 2 weitergehe
 
 <sup>3</sup> Rückzugsstreifen auf extensiv genutzten Wiesen (Art. 55 Abs. 1 Bst. a), auf wenig intensiv genutzten Wiesen (Art. 55 Abs. 1 Bst. b) sowie auf Uferwiesen (Art. 55 Abs. 1 Bst. g) berechtigen bis zu einem Anteil von höchstens 20 Prozent an der Wiesenfläche zu Beiträgen.[^35-5]
 
-<sup>4</sup> Flächen, für die nach dem NHG[^35-6] eine schriftliche Nutzungs- und Schutzvereinbarung mit der kantonalen Fachstelle besteht und die deswegen nicht jährlich genutzt werden, berechtigen in den Jahren ohne Nutzung nur zu Biodiversitätsbeiträgen (Art. 55), zum Landschaftsqualitätsbeitrag (Art. 63) und zum Basisbeitrag der Versorgungssicherheitsbeiträge (Art. 50).
+<sup>4</sup> Flächen, für die nach dem NHG[^35-6] eine schriftliche Nutzungs- und Schutzvereinbarung mit der kantonalen Fachstelle besteht und die deswegen nicht jährlich genutzt werden, berechtigen in den Jahren ohne Nutzung nur zum Biodiversitätsbeitrag (Art. 55), zum Beitrag für regionale Biodiversität und Landschaftsqualität (Art. 78 und 79) sowie zum Basisbeitrag der Versorgungssicherheitsbeiträge (Art. 50).[^35-7]
 
 <sup>5</sup> Angestammte Flächen in der ausländischen Grenzzone nach Artikel 17 Absatz 2 LBV berechtigen nur zum Basisbeitrag der Versorgungssicherheitsbeiträge (Art. 50) und zum Beitrag für die offene Ackerfläche und für die Dauerkulturen (Art. 53).
 
-<sup>6</sup> Artenreiche Grün- und Streueflächen im Sömmerungsgebiet (Art. 55 Abs. 1 Bst. o) berechtigen nur zu Biodiversitätsbeiträgen.
+<sup>6</sup> Artenreiche Grün- und Streueflächen im Sömmerungsgebiet (Art. 55 Abs. 1 Bst. o) berechtigen zum Biodiversitätsbeitrag und zum Beitrag für regionale Biodiversität und Landschaftsqualität.[^35-8]
 
-<sup>7</sup> Zu keinen Beiträgen berechtigen Flächen, die mit Baumschulen, Forstpflanzen, Christbäumen, Zierpflanzen, Hanf, der nicht zur Nutzung der Fasern oder der Samen angebaut wird, oder Gewächshäusern mit festem Fundament belegt sind.[^35-7]
+<sup>7</sup> Zu keinen Beiträgen berechtigen Flächen, die mit Baumschulen, Forstpflanzen, Christbäumen, Zierpflanzen, Hanf, der nicht zur Nutzung der Fasern oder der Samen angebaut wird, oder Gewächshäusern mit festem Fundament belegt sind.[^35-9]
 
 [^35-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^35-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
@@ -580,7 +564,9 @@ Enthält ein allfälliger Bewirtschaftungsplan nach Anhang 2 Ziffer 2 weitergehe
 [^35-4]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aufgehoben durch Ziff. I der V vom 1. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^35-5]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^35-6]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
-[^35-7]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
+[^35-7]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^35-8]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^35-9]: Fassung gemäss Ziff. I der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)).
 
 ### 2. Abschnitt: Massgebende Tierbestände
 
@@ -942,7 +928,11 @@ Der Mindesttierbesatz auf Dauergrünflächen beträgt pro Hektare:
 
 [^54-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
-### 3. Kapitel: Biodiversitätsbeiträge
+### 3. Kapitel: Biodiversitätsbeitrag
+
+[^tit2-chap3-1]
+
+[^tit2-chap3-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -950,7 +940,7 @@ Der Mindesttierbesatz auf Dauergrünflächen beträgt pro Hektare:
 
 <sup>1</sup>
 
-Biodiversitätsbeiträge werden pro Hektare für folgende eigene oder gepachtete Biodiversitätsförderflächen gewährt:[^55-1]
+Der Biodiversitätsbeitrag wird pro Hektare für folgende eigene oder gepachtete Biodiversitätsförderflächen gewährt:[^55-1]
 
 - a. extensiv genutzte Wiesen;
 - b. wenig intensiv genutzte Wiesen;
@@ -967,15 +957,10 @@ Biodiversitätsbeiträge werden pro Hektare für folgende eigene oder gepachtete
 - m.[^55-4] …
 - n. Rebflächen mit natürlicher Artenvielfalt;
 - o. artenreiche Grün- und Streueflächen im Sömmerungsgebiet;
-- p. regionsspezifische Biodiversitätsförderflächen;
-- q.[^55-5] …
+- p.[^55-5] …
+- q.[^55-6] …
 
-<sup>1bis</sup>
-
-Biodiversitätsbeiträge werden pro Baum für folgende eigene oder gepachtete Bäume gewährt:[^55-6]
-
-- a. Hochstamm-Feldobstbäume;
-- b. einheimische standortgerechte Einzelbäume und Alleen.[^55-7]
+<sup>1bis</sup> Der Biodiversitätsbeitrag wird pro eigenen oder gepachteten Hochstamm-Feldobstbaum gewährt.[^55-7]
 
 <sup>2</sup> Für Flächen nach Absatz 1 Buchstaben a, b und e werden die Beiträge nach Zonen abgestuft.
 
@@ -997,20 +982,24 @@ Für folgende Flächen werden die Beiträge nur in folgenden Zonen oder Gebieten
 
 <sup>8</sup> Die Beiträge nach Absatz 1 Buchstabe o werden aufgrund der effektiven Bestossung begrenzt.[^55-12]
 
-[^55-1]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
+[^55-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^55-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^55-3]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^55-4]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^55-5]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
-[^55-6]: Fassung gemäss Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
-[^55-7]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^55-5]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^55-6]: Eingefügt durch Ziff. I der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^55-7]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^55-8]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^55-9]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
 [^55-10]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^55-11]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)). Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^55-12]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016, in Kraft seit 1. Jan. 2017 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)).
 
-### 2. Abschnitt: Qualitätsbeitrag für die Biodiversität
+### 2. Abschnitt: Beitrag
+
+[^tit2-chap3-sec2-1]
+
+[^tit2-chap3-sec2-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 56
 
@@ -1043,17 +1032,18 @@ Der Bewirtschafter oder die Bewirtschafterin ist verpflichtet, die Biodiversitä
 
 Er oder sie ist verpflichtet, Bäume nach Artikel 55 Absatz 1<sup>bis</sup> während folgender Dauer entsprechend zu bewirtschaften:
 
-- a. Hochstamm-Feldobstbäume der Qualitätsstufe I und einheimische standortgerechte Einzelbäume und Alleen: während mindestens eines Jahres;
+- a.[^57-4] Hochstamm-Feldobstbäume der Qualitätsstufe I: während mindestens eines Jahres;
 - b. Hochstamm-Feldobstbäume der Qualitätsstufe II: während mindestens acht Jahren.
 
 <sup>2</sup> Die Kantone können für einen Bewirtschafter oder eine Bewirtschafterin eine verkürzte Mindestdauer bewilligen, wenn er oder sie an einem andern Ort die gleiche Fläche oder die gleiche Anzahl Bäume anlegt und damit die Biodiversität besser gefördert oder der Ressourcenschutz verbessert wird.
 
-<sup>3</sup> Für Biodiversitätsförderflächen nach Absatz 1 Buchstabe d und für Bäume nach Absatz 1<sup>bis</sup> Buchstabe b kann der Kanton die Verpflichtungsdauern der Beiträge der Qualitätsstufen I und II mit den Verpflichtungsdauern des Vernetzungsbeitrags nach Artikel 61 und des Landschaftsqualitätsbeitrags nach Artikel 63 auf derselben Fläche oder für dieselben Bäume abstimmen.[^57-4]
+<sup>3</sup> Für Biodiversitätsförderflächen nach Absatz 1 Buchstabe d und für Bäume nach Absatz 1<sup>bis</sup> Buchstabe b kann der Kanton die Verpflichtungsdauern der Beiträge der Qualitätsstufen I und II mit der Verpflichtungsdauer des Beitrags für regionale Biodiversität und Landschaftsqualität nach Artikel 78 auf derselben Fläche oder für dieselben Bäume abstimmen.[^57-5]
 
 [^57-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 [^57-2]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 [^57-3]: Eingefügt durch Ziff. I der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
-[^57-4]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^57-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^57-5]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 58
 
@@ -1077,7 +1067,7 @@ Auf Biodiversitätsförderflächen dürfen keine Pflanzenschutzmittel ausgebrach
 
 <sup>5</sup> Das Schnittgut von Biodiversitätsförderflächen ist abzuführen, mit Ausnahme von Schnittgut auf Säumen auf Ackerland, Bunt- und Rotationsbrachen sowie Rebflächen mit natürlicher Artenvielfalt.[^58-4]
 
-<sup>6</sup> Ast- und Streuehaufen dürfen angelegt werden, wenn es aus Gründen des Naturschutzes oder im Rahmen von Vernetzungsprojekten geboten ist.[^58-5]
+<sup>6</sup> Kleinstrukturen dürfen angelegt werden, wenn es aus Gründen des Naturschutzes oder im Rahmen von Projekten zur Förderung der regionalen Biodiversität und der Landschaftsqualität nach Artikel 79 geboten ist.[^58-5]
 
 <sup>7</sup> Der Einsatz von Steinbrechmaschinen ist nicht zulässig. Das Mulchen ist nur zulässig auf Säumen auf Ackerland, Bunt- und Rotationsbrachen, Rebflächen mit natürlicher Artenvielfalt und auf den Baumscheiben von auf Biodiversitätsförderflächen stehenden Bäumen sowie auf artenreichen Grün- und Streueflächen im Sömmerungsgebiet gemäss den Vorschriften nach Artikel 29 Absätze 4*–*8.[^58-6]
 
@@ -1091,7 +1081,7 @@ Auf Biodiversitätsförderflächen dürfen keine Pflanzenschutzmittel ausgebrach
 [^58-2]: Eingefügt durch Ziff. I der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^58-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 [^58-4]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^58-5]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
+[^58-5]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^58-6]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^58-7]: Aufgehoben durch Ziff. I der V vom 1. Nov. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 [^58-8]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
@@ -1147,99 +1137,21 @@ Auf Biodiversitätsförderflächen dürfen keine Pflanzenschutzmittel ausgebrach
 
 [^60-1]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
 
-### 3. Abschnitt: Vernetzungsbeitrag
+### 3. Abschnitt: …
 
-#### Art. 61
+#### Art. 61 und 62
 
-**Beitrag**
+[^6162-1]
 
-<sup>1</sup> Der Bund unterstützt Projekte der Kantone zur Förderung der Vernetzung und der angepassten Bewirtschaftung von Biodiversitätsförderflächen nach Artikel 55 Absatz 1 Buchstaben a–k, n und p sowie Bäumen nach Artikel 55 Absatz 1<sup>bis</sup>.[^61-1]
+[^6162-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
-<sup>2</sup> Er gewährt die Unterstützung, wenn der Kanton Bewirtschaftern und Bewirtschafterinnen Beiträge für vertraglich vereinbarte Massnahmen zur Vernetzung ausrichtet.
+### 4. Kapitel: …
 
-<sup>3</sup> Der Kanton legt die Beitragsansätze für die Vernetzung fest.
+#### Art. 63 und 64
 
-<sup>4</sup> Der Bund übernimmt maximal 90 Prozent des vom Kanton festgelegten Beitrags nach Absatz 3, höchstens jedoch die Beträge nach Anhang 7 Ziffer 3.2.1.
+[^6364-1]
 
-[^61-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-
-#### Art. 62
-
-**Voraussetzungen und Auflagen**
-
-<sup>1</sup>
-
-Der Vernetzungsbeitrag wird gewährt, wenn die Flächen und Bäume:
-
-- a. die Anforderungen an die Qualitätsstufe I nach Artikel 58 und Anhang 4 erfüllen;
-- b. den Anforderungen des Kantons an die Vernetzung entsprechen;
-- c. nach den Vorgaben eines vom Kanton genehmigten regionalen Vernetzungsprojekts angelegt und bewirtschaftet werden.[^62-1]
-
-<sup>2</sup> Die Anforderungen des Kantons an die Vernetzung müssen den Mindestanforderungen nach Anhang 4 Buchstabe B entsprechen. Sie müssen vom BLW nach Anhörung des BAFU genehmigt werden.[^62-2]
-
-<sup>3</sup> Ein Vernetzungsprojekt dauert jeweils acht Jahre. Der Bewirtschafter oder die Bewirtschafterin muss die Fläche bis zum Ablauf der Projektdauer entsprechend bewirtschaften.
-
-<sup>3bis</sup> …[^62-3]
-
-<sup>4</sup> Der Kanton kann die Verpflichtungsdauer nach Absatz 3 mit den Verpflichtungsdauern der Beiträge der Qualitätsstufen I und II nach Artikel 57 und des Landschaftsqualitätsbeitrags nach Artikel 63 auf derselben Fläche oder für dieselben Bäume abstimmen.[^62-4]
-
-<sup>5</sup>
-
-Für Flächen, für die ein Vernetzungsbeitrag ausgerichtet wird, kann der Kanton:
-
-- a. von den Anforderungen der Qualitätsstufe I abweichende Vorschriften festlegen, wenn dies aufgrund der Zielarten erforderlich ist;
-- b. weitere Kleinstrukturen zur Anrechnung an den Höchstanteil nach Artikel 35 Absatz 2 bewilligen.[^62-5]
-
-<sup>6</sup> Die Vorschriften nach Absatz 5 Buchstabe a sind zwischen dem Bewirtschafter oder der Bewirtschafterin und dem Kanton schriftlich zu vereinbaren.[^62-6]
-
-[^62-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^62-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^62-3]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-[^62-4]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^62-5]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^62-6]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-
-### 4. Kapitel: Landschaftsqualitätsbeitrag
-
-#### Art. 63
-
-**Beitrag**
-
-<sup>1</sup> Der Bund unterstützt Projekte der Kantone zur Erhaltung, Förderung und Weiterentwicklung vielfältiger Kulturlandschaften.
-
-<sup>2</sup> Er gewährt die Unterstützung, wenn der Kanton Bewirtschaftern und Bewirtschafterinnen Beiträge für vertraglich vereinbarte Massnahmen zur Landschaftsqualität ausrichtet, die diese auf der eigenen oder einer gepachteten Betriebsfläche nach Artikel 13 LBV[^63-1] oder auf der eigenen oder gepachteten Sömmerungsfläche nach Artikel 24 LBV umsetzen.
-
-<sup>3</sup> Der Kanton legt die Beitragsansätze pro Massnahme fest.
-
-<sup>4</sup> Der Bund übernimmt maximal 90 Prozent des vom Kanton festgelegten Beitrags nach Absatz 3, höchstens jedoch die Beträge nach Anhang 7 Ziffer 4.1.
-
-[^63-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-
-#### Art. 64
-
-**Projekte**
-
-<sup>1</sup>
-
-Projekte der Kantone müssen folgende Mindestanforderungen erfüllen:
-
-- a. Die Ziele müssen auf bestehenden regionalen Konzepten basieren oder in der Region zusammen mit den interessierten Kreisen entwickelt werden.
-- b. Die Massnahmen müssen auf die regionalen Ziele ausgerichtet sein.
-- c. Die Beiträge pro Massnahme müssen sich an Kosten und Werten der Massnahme orientieren.
-
-<sup>2</sup> Der Kanton muss dem BLW Gesuche um Bewilligung eines Projekts und um dessen Finanzierung zusammen mit einem Projektbericht zur Überprüfung der Mindestanforderungen einreichen. Das Gesuch muss bis zum 31. Oktober des Jahres vor Beginn der Projektdauer eingereicht werden.
-
-<sup>3</sup> Das BLW bewilligt die Projekte und deren Finanzierung.
-
-<sup>4</sup> Der Beitrag des Bundes wird für Projekte ausgerichtet, die acht Jahre dauern.
-
-<sup>5</sup> Der Kanton kann die Verpflichtungsdauer nach Absatz 4 mit den Verpflichtungsdauern der Beiträge der Qualitätsstufen I und II nach Artikel 57 und des Vernetzungsbeitrags nach Artikel 61 auf derselben Fläche oder für dieselben Bäume abstimmen. Das BLW berücksichtigt auch Massnahmen, die nach Beginn des Projekts vereinbart werden.[^64-1]
-
-<sup>6</sup> Im letzten Jahr der Umsetzungsperiode reicht der Kanton dem BLW pro Projekt einen Evaluationsbericht ein.
-
-<sup>7</sup> Der Beitrag des Bundes wird jährlich ausgerichtet.
-
-[^64-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^6364-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 5. Kapitel: Produktionssystembeiträge
 
@@ -1338,7 +1250,7 @@ Kein Beitrag wird ausgerichtet für:
 - a. Mais;
 - b. Getreide siliert;
 - c. Spezialkulturen;
-- d.[^68-2] Biodiversitätsförderflächen nach Artikel 55; mit Ausnahme von Getreide in weiter Reihe als regionsspezifische Biodiversitätsförderfläche;
+- d.[^68-2] Biodiversitätsförderflächen nach Artikel 55;
 - e. Kulturen, für die nach Artikel 18 Absätze 1–5 Insektizide und Fungizide nicht angewendet werden dürfen.
 
 <sup>3</sup>
@@ -1367,9 +1279,9 @@ In Abweichung von Absatz 3 sind erlaubt:
 <sup>7</sup> Getreide für die Saatgutproduktion, das nach der Ausführungsverordnung zur Vermehrungsmaterial-Verordnung vom 7. Dezember 1998[^68-5] zugelassen ist, kann auf Gesuch hin von der Anforderung nach Absatz 3 ausgenommen werden. Die Bewirtschafter und Bewirtschafterinnen melden der zuständigen kantonalen Amtsstelle die betreffenden Flächen und Hauptkulturen.
 
 [^68-1]: Fassung gemäss Ziff. III der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^68-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^68-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 [^68-3]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^68-4]: Die Liste ist einsehbar unter [www.swissgranum.ch](http://www.swissgranum.ch).
+[^68-4]: Die Liste ist einsehbar unter: [www.swissgranum.ch](http://www.swissgranum.ch).
 [^68-5]: [SR 916.151](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10635)
 
 #### Art. 69
@@ -1463,7 +1375,7 @@ Der Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen w
 
 Kein Beitrag nach Absatz 1 wird ausgerichtet für:
 
-- a.[^71a-1] Biodiversitätsförderflächen nach Artikel 55, mit Ausnahme von Getreide in weiter Reihe als regionsspezifische Biodiversitätsförderfläche und Rebflächen mit natürlicher Artenvielfalt;
+- a.[^71a-1] Biodiversitätsförderflächen nach Artikel 55, mit Ausnahme von Rebflächen mit natürlicher Artenvielfalt;
 - b. Nützlingsstreifen auf offener Ackerfläche nach Artikel 71*b* Absatz 1 Buchstabe a;
 - c. den Anbau von Pilzen;
 - d. Kulturen in ganzjährig geschütztem Anbau.
@@ -1513,7 +1425,7 @@ Der Herbizideinsatz ist erlaubt:
   - 2\. bei Bandbehandlung ab der Saat auf maximal 50 Prozent der Fläche, und
   - 3\. zur Eliminierung der Stauden.
 
-[^71a-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^71a-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 4. Abschnitt: Beitrag für die funktionale Biodiversität in Form eines Beitrags für Nützlingsstreifen
 
@@ -1539,22 +1451,17 @@ Der Beitrag für die funktionale Biodiversität wird als Beitrag für Nützlings
 
 <sup>2</sup> Für Nützlingsstreifen in Dauerkulturen werden nur für 5 Prozent der Fläche der Dauerkultur Beiträge ausgerichtet.
 
-<sup>3</sup>
-
-Kein Beitrag wird ausgerichtet für Nützlingsstreifen nach Absatz 1 Buchstabe b in:
-
-- a. Rebflächen mit natürlicher Artenvielfalt nach Artikel 55 Absatz 1 Buchstabe n;
-- b. regionsspezifischen Biodiversitätsförderflächen nach Artikel 55 Absatz 1 Buchstabe p.
+<sup>3</sup> Kein Beitrag wird ausgerichtet für Nützlingsstreifen nach Absatz 1 Buchstabe b in Rebflächen mit natürlicher Artenvielfalt nach Artikel 55 Absatz 1 Buchstabe n.[^71b-1]
 
 <sup>4</sup> Die Nützlingsstreifen müssen vor dem 15. Mai angesät werden.
 
-<sup>5</sup> Für Ansaaten von Nützlingsstreifen dürfen nur die für den jeweiligen Einsatzbereich geeigneten Saatmischungen nach Anhang 4*a* Buchstabe B verwendet werden.[^71b-1]
+<sup>5</sup> Für Ansaaten von Nützlingsstreifen dürfen nur die für den jeweiligen Einsatzbereich geeigneten Saatmischungen nach Anhang 4*a* Buchstabe B verwendet werden.[^71b-2]
 
-<sup>5bis</sup> Das BLW nimmt die Saatmischungen für Nützlingsstreifen in Anhang 4*a* Buchstabe B auf. Dabei berücksichtigt es den ökologischen und agronomischen Nutzen, die Risiken und die Methodik gemäss den Kriterien in Anhang 4*a* Buchstabe A. Die Gewichtung der Kriterien richtet sich nach der Zielsetzung und dem Einsatzbereich der Saatmischung.[^71b-2]
+<sup>5bis</sup> Das BLW nimmt die Saatmischungen für Nützlingsstreifen in Anhang 4*a* Buchstabe B auf. Dabei berücksichtigt es den ökologischen und agronomischen Nutzen, die Risiken und die Methodik gemäss den Kriterien in Anhang 4*a* Buchstabe A. Die Gewichtung der Kriterien richtet sich nach der Zielsetzung und dem Einsatzbereich der Saatmischung.[^71b-3]
 
-<sup>5ter</sup> Die Zusammensetzungen der geeigneten Saatmischungen werden vom BLW jeweils per 1. Januar veröffentlicht[^71b-3].[^71b-4]
+<sup>5ter</sup> Die Zusammensetzungen der geeigneten Saatmischungen werden vom BLW jeweils per 1. Januar veröffentlicht[^71b-4].[^71b-5]
 
-<sup>5quater</sup> Das BLW kann Änderungen der Zusammensetzung von Saatmischungen für die Anwendung auf einzelnen landwirtschaftlichen Betrieben bewilligen, insbesondere zur besseren Biodiversitätsförderung oder zur Vermeidung von Problemen in der Fruchtfolge.[^71b-5]
+<sup>5quater</sup> Das BLW kann Änderungen der Zusammensetzung von Saatmischungen für die Anwendung auf einzelnen landwirtschaftlichen Betrieben bewilligen, insbesondere zur besseren Biodiversitätsförderung oder zur Vermeidung von Problemen in der Fruchtfolge.[^71b-6]
 
 <sup>6</sup>
 
@@ -1574,13 +1481,13 @@ Sie müssen in folgender Frequenz angesät werden:
   - 1\. einjährige Nützlingsstreifen: jährlich neu,
   - 2\. mehrjährige Nützlingsstreifen: jedes fünfte Jahr neu;
 
-- b. Nützlingsstreifen in Dauerkulturen: jedes fünfte Jahr neu.[^71b-6]
+- b. Nützlingsstreifen in Dauerkulturen: jedes fünfte Jahr neu.[^71b-7]
 
-<sup>7bis</sup> An geeigneten Standorten kann der Kanton eine Verlängerung des mehrjährigen Nützlingsstreifens am gleichen Standort bewilligen.[^71b-7]
+<sup>7bis</sup> An geeigneten Standorten kann der Kanton eine Verlängerung des mehrjährigen Nützlingsstreifens am gleichen Standort bewilligen.[^71b-8]
 
 <sup>8</sup>
 
-Die Nützlingsstreifen müssen bedecken:[^71b-8]
+Die Nützlingsstreifen müssen bedecken:[^71b-9]
 
 - a. Nützlingsstreifen auf offener Ackerfläche: während mindestens 100 Tagen ohne Schnitt die ganze Länge der Ackerkultur;
 - b. Nützlingsstreifen in Dauerkulturen: während vier aufeinanderfolgenden Jahren am selben Ort insgesamt mindestens 5 Prozent der Fläche der Dauerkultur.
@@ -1589,10 +1496,10 @@ Die Nützlingsstreifen müssen bedecken:[^71b-8]
 
 In den Nützlingsstreifen sind die Düngung und der Einsatz von Pflanzenschutzmitteln nicht erlaubt. Zulässig sind nur Einzelstock- oder Nesterbehandlungen von Problempflanzen mit:
 
-- a. Nützlingsstreifen auf offener Ackerfläche: Herbiziden, die gestützt auf die PSMV[^71b-9] für die Anwendung auf Biodiversitätsförderflächen auf offener Ackerfläche zugelassen sind;
+- a. Nützlingsstreifen auf offener Ackerfläche: Herbiziden, die gestützt auf die PSMV[^71b-10] für die Anwendung auf Biodiversitätsförderflächen auf offener Ackerfläche zugelassen sind;
 - b. Nützlingsstreifen in Dauerkulturen: allen gestützt auf die PSMV im Obstbau und Weinbau zugelassenen Herbiziden.
 
-<sup>10</sup> In Dauerkulturen dürfen in den Reihen, in denen ein Nützlingsstreifen besteht, zwischen dem 15. Mai und dem 15. September nur Insektizide nach der Bio-Verordnung vom 22. September 1997[^71b-10] mit Ausnahme von Spinosad ausgebracht werden.
+<sup>10</sup> In Dauerkulturen dürfen in den Reihen, in denen ein Nützlingsstreifen besteht, zwischen dem 15. Mai und dem 15. September nur Insektizide nach der Bio-Verordnung vom 22. September 1997[^71b-11] mit Ausnahme von Spinosad ausgebracht werden.
 
 <sup>11</sup> Nur die Nützlingsstreifen in Dauerkulturen dürfen befahren werden.
 
@@ -1603,22 +1510,23 @@ Nützlingsstreifen dürfen wie folgt geschnitten werden:
 - a. mehrjähriger Nützlingsstreifen auf offener Ackerfläche: ab dem zweiten Standjahr maximal die Hälfte der Fläche zwischen dem 1. Oktober und dem 1. März;
 - b. Nützlingsstreifen in Dauerkulturen: alternierend die Hälfte der Fläche, wobei der zeitliche Abstand zwischen zwei Schnitten derselben Fläche mindestens sechs Wochen betragen muss.
 
-<sup>13</sup> Nützlingsstreifen in Dauerkulturen dürfen geschnitten und gemulcht werden.[^71b-11]
+<sup>13</sup> Nützlingsstreifen in Dauerkulturen dürfen geschnitten und gemulcht werden.[^71b-12]
 
-<sup>14</sup> Bei grossem Unkrautdruck kann im ersten Standjahr ein Reinigungsschnitt vorgenommen werden.[^71b-12]
+<sup>14</sup> Bei grossem Unkrautdruck kann im ersten Standjahr ein Reinigungsschnitt vorgenommen werden.[^71b-13]
 
-[^71b-1]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-2]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-3]: Die jeweils geltenden Zusammensetzungen der geeigneten Saatmischungen sind abrufbar unter: [www.blw.admin.ch/de/produktionssystembeitraege](https://www.blw.admin.ch/de/produktionssystembeitraege).
-[^71b-4]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^71b-2]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-3]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-4]: Die jeweils geltenden Zusammensetzungen der geeigneten Saatmischungen sind abrufbar unter: [www.blw.admin.ch/de/produktionssystembeitraege](https://www.blw.admin.ch/de/produktionssystembeitraege).
 [^71b-5]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-6]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-7]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-8]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
-[^71b-9]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
-[^71b-10]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
-[^71b-11]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-6]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-7]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-8]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-9]: Fassung gemäss Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-10]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
+[^71b-11]: [SR 910.18](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10418)
 [^71b-12]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
+[^71b-13]: Eingefügt durch Ziff. I der V vom 1. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)).
 
 ### 5. Abschnitt: Beiträge für die Verbesserung der Bodenfruchtbarkeit
 
@@ -1965,52 +1873,93 @@ Kein Beitrag wird gewährt:
 
 [^77-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-#### Art. 78–81
+### 5*a*. Kapitel: Beitrag für regionale Biodiversität und Landschaftsqualität
 
-[^7881-1]
+[^tit2-chap5a-1]
 
-[^7881-1]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^tit2-chap5a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
-### 6. Kapitel: Ressourceneffizienzbeiträge
+#### Art. 78
 
-[^tit2-chap6-1]
+**Beitrag**[^78-1]
 
-[^tit2-chap6-1]: Ursprünglich: vor Art 77.
+<sup>1</sup> Der Bund unterstützt Projekte der Kantone zur Förderung der Vernetzung von Biodiversitätsförderflächen und zur Umsetzung weiterer biodiversitätsfördernder Massnahmen sowie zur Förderung, Erhaltung und Weiterentwicklung vielfältiger Kulturlandschaften.
 
-### 1. Abschnitt: Beitrag für den Einsatz von präziser Applikationstechnik
+<sup>2</sup> Er gewährt die Unterstützung, wenn der Kanton Bewirtschaftern und Bewirtschafterinnen Beiträge für vereinbarte Massnahmen zur Förderung der regionalen Biodiversität und der Landschaftsqualität ausrichtet und der Bewirtschafter oder die Bewirtschafterin diese auf der eigenen oder einer gepachteten Betriebsfläche nach Artikel 13 LBV[^78-2] oder auf der eigenen oder gepachteten Sömmerungsfläche nach Artikel 24 LBV umsetzt.
 
-[^tit2-chap6-sec1-1]
+<sup>3</sup> Beiträge können für Flächen ausgerichtet werden, auf denen Untersuchungen und Versuche durchgeführt werden, die zum Ziel haben, die regionale Biodiversität oder die Landschaftsqualität zu verbessern.
 
-[^tit2-chap6-sec1-1]: Ursprünglich: 3. Abschnitt.
+<sup>4</sup> Der Kanton legt die Beitragsansätze pro Massnahme fest.
+
+<sup>5</sup> Der Bund übernimmt höchstens 90 Prozent des vom Kanton festgelegten Beitrags nach Absatz 3, höchstens jedoch die Beträge nach Anhang 7 Ziffer 5a.
+
+<sup>6</sup> Der Beitrag des Bundes wird jährlich ausgerichtet.
+
+[^78-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^78-2]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
+
+#### Art. 79
+
+**Anforderungen an die Projekte der Kantone**[^79-1]
+
+<sup>1</sup>
+
+Die Projekte der Kantone müssen folgende Anforderungen erfüllen:
+
+- a. Die Ziele im Bereich Landschaftsqualität stärken den regionalen Landschaftscharakter gemäss den kantonalen fachlichen Grundlagen und schaffen besondere Anreize für herausragende Landschaften.
+- b. Quantitative Flächenziele sowie Qualitätsziele in Bereich regionale Biodiversität orientieren sich an den kantonalen fachlichen Grundlagen.
+- c. Die Beiträge pro Massnahme orientieren sich an Kosten und Werten der Massnahme.
+- d. Ziel- und Leitarten sind definiert und deren Förderung wird durch die Massnahmen berücksichtigt.
+- e. Die zielgerichtete und schutzzielkonforme Bewirtschaftung von Biotopflächen in nationalen und regionalen Inventaren nach den Artikeln 18*a* und 18*b* NHG[^79-2] ist sichergestellt.
+
+<sup>2</sup> Die Kantone müssen bis spätestens im vierten Jahr der Projektdauer eine einzelbetriebliche oder eine gleichwertige Fachberatung zur Umsetzung der Massnahmen anbieten.
+
+[^79-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^79-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+
+#### Art. 80
+
+**Verfahren**[^80-1]
+
+<sup>1</sup> Der Kanton erarbeitet das Projekt zusammen mit den betroffenen Kreisen.
+
+<sup>2</sup> Er reicht dem BLW die Gesuche um Bewilligung des Projekts und um dessen Finanzierung ein.
+
+<sup>3</sup>
+
+Für die Einreichung gelten folgende Fristen:
+
+- a. Projektentwurf: bis zum 31. Oktober des Jahres vor der Gesucheinreichung;
+- b. Gesuch: bis zum 30. Juni des Jahres vor dem geplanten Projektbeginn.
+
+<sup>4</sup> Ein Projekt zur Förderung der regionalen Biodiversität und der Landschaftsqualität dauert jeweils acht Jahre. Der Kanton kann die Verpflichtungsdauer mit den Verpflichtungsdauern der Beiträge der Qualitätsstufen I und II nach Artikel 57 auf derselben Fläche oder für dieselben Bäume abstimmen. Der Bewirtschafter oder die Bewirtschafterin muss die jährlichen Massnahmen bis zum Ablauf der Projektdauer umsetzen.
+
+<sup>5</sup> Die Kantone können im Verlauf der Projektdauer weitere Massnahmen beantragen. Der Kanton überwacht den Projektfortschritt und leitet notwendige Projektanpassungen ein.
+
+<sup>6</sup>
+
+Für Flächen, für die ein Beitrag für regionale Biodiversität und Landschaftsqualität ausgerichtet wird, kann der Kanton:
+
+- a. von den Anforderungen der Qualitätsstufe I abweichende Vorschriften festlegen, wenn dies aufgrund der Zielarten erforderlich ist;
+- b. weitere Kleinstrukturen zur Anrechnung an den Höchstanteil nach Artikel 35 Absatz 2 bewilligen.
+
+<sup>7</sup> Im letzten Jahr der Projektdauer reicht der Kanton dem BLW bis zum 30. Juni pro Projekt einen Evaluationsbericht gemeinsam mit einem Gesuch für ein allfälliges Folgeprojekt ein.
+
+[^80-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+
+#### Art. 81
+
+[^81-1]
+
+[^81-1]: Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+
+### 6. Kapitel: …
 
 #### Art. 82
 
-<sup>1</sup> Für die Anschaffung von Neugeräten mit präziser Applikationstechnik zur Ausbringung von Pflanzenschutzmitteln wird ein einmaliger Beitrag pro Pflanzenschutzgerät ausgerichtet.
+[^82-1]
 
-<sup>2</sup>
-
-Als präzise Applikationstechnik gelten:
-
-- a.[^82-1] die Unterblattspritztechnik;
-- b. driftreduzierende Spritzgeräte in Dauerkulturen.
-
-<sup>3</sup> Als Unterblattspritztechnik gilt eine Zusatzvorrichtung für konventionelle Pflanzenschutzgeräte, die es erlaubt, dass mindestens 50 Prozent der Düsen für die Behandlung der unteren Pflanzenteile sowie der Blattunterseiten eingesetzt werden.
-
-<sup>4</sup>
-
-Als driftreduzierende Spritzgeräte gelten:
-
-- a.[^82-2] Spritzgebläse mit horizontaler Luftstromlenkung;
-- b. Spritzgebläse mit Vegetationsdetektor und horizontaler Luftstromlenkung;
-- c. Tunnelrecyclingsprühgerät.
-
-<sup>5</sup> Driftreduzierende Spritzgeräte sind so konzipiert oder ausgerüstet, dass auch ohne den Einsatz von driftreduzierenden Düsen mindestens 50 Prozent der Drift reduziert wird.
-
-<sup>6</sup> Die Beiträge werden bis 2024 ausgerichtet.[^82-3]
-
-[^82-1]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^82-2]: Fassung gemäss Ziff. I der V vom 29. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)).
-[^82-3]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^82-1]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art 82a
 
@@ -2018,37 +1967,11 @@ Als driftreduzierende Spritzgeräte gelten:
 
 [^82a-1]: Eingefügt durch Ziff. I der V vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)). Aufgehoben durch Ziff. I der V vom 13. April 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
 
-### 2. Abschnitt: Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen
+#### Art. 82b und 82c
 
-[^tit2-chap6-sec2-1][^tit2-chap6-sec2-2]
+[^82b82c-1]
 
-[^tit2-chap6-sec2-1]: Ursprünglich: 5. Abschnitt. Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^tit2-chap6-sec2-2]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-
-#### Art. 82b
-
-**Beitrag**
-
-<sup>1</sup> Der Beitrag für die stickstoffreduzierte Phasenfütterung von Schweinen wird pro GVE nach Ziffer 7 des Anhangs der LBV[^82b-1] ausgerichtet.
-
-<sup>2</sup> Die Beiträge werden bis 2026 ausgerichtet.[^82b-2]
-
-[^82b-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
-[^82b-2]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
-
-#### Art. 82c
-
-**Voraussetzungen und Auflagen**[^82c-1]
-
-<sup>1</sup> Die Futterration muss einen an den Bedarf der Tiere angepassten Nährwert aufweisen. Die gesamten Futterrationen aller auf dem Betrieb gehaltenen Schweine dürfen den nach Anhang 6*a* Ziffern 2 und 3 festgelegten betriebsspezifischen Grenzwert an Rohprotein in Gramm pro Megajoule verdauliche Energie Schwein (g/MJ VES) nicht überschreiten.
-
-<sup>2</sup> In der Schweinemast müssen während der Mastdauer mindestens zwei Futterrationen mit unterschiedlichem Gehalt an Rohprotein in g/MJ VES eingesetzt werden. Die in der Endmastphase eingesetzte Futterration muss, bezogen auf die Trockensubstanz, mindestens 30 Prozent der während der Mastdauer eingesetzten Futtermittel ausmachen.
-
-<sup>3</sup> Der zur Berechnung des Grenzwerts massgebende Bestand an Schweinen wird nach Anhang 6*a* Ziffer 1 ermittelt.
-
-<sup>4</sup> Die Aufzeichnungen zu Fütterung und Futtermitteln und die Überprüfung der Einhaltung des Grenzwerts richten sich nach Anhang 6*a* Ziffern 4 und 5.
-
-[^82c-1]: Fassung gemäss Ziff. I der V vom 13. April 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)).
+[^82b82c-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 82d–82g
 
@@ -2201,22 +2124,24 @@ Massgebend sind die Werte der letzten zwei Steuerjahre, die bis zum Ende des Bei
 
 <sup>1</sup>
 
-Der Bewirtschafter oder die Bewirtschafterin muss für die koordinierte Planung der Kontrollen nach der Kontrollkoordinationsverordnung vom 31. Oktober 2018[^97-1] (VKKL) bis spätestens am 31. August vor dem Beitragsjahr bei der vom Wohnsitzkanton oder, bei juristischen Personen, bei der vom Sitzkanton bezeichneten Behörde die Anmeldung einreichen für:[^97-2]
+Der Bewirtschafter oder die Bewirtschafterin muss für die koordinierte Planung der Kontrollen nach der Kontrollkoordinationsverordnung vom 31. Oktober 2018[^97-1] (VKKL) bis zum 31. August vor dem Beitragsjahr bei der vom Wohnsitzkanton oder, bei juristischen Personen, bei der vom Sitzkanton bezeichneten Behörde die Anmeldung einreichen für:[^97-2]
 
 - a. den ÖLN;
-- b. die Biodiversitätsbeiträge;
+- b.[^97-3] den Biodiversitätsbeitrag;
 - c. die Produktionssystembeiträge;
-- d. die Ressourceneffizienzbeiträge.
+- d.[^97-4] …
 
-<sup>2</sup> Mit der Anmeldung muss der Bewirtschafter oder die Bewirtschafterin eine Kontrollstelle nach Artikel 7 VKKL für die Kontrolle des ÖLN bestimmen.[^97-3]
+<sup>2</sup> Mit der Anmeldung muss der Bewirtschafter oder die Bewirtschafterin eine Kontrollstelle nach Artikel 7 VKKL für die Kontrolle des ÖLN bestimmen.[^97-5]
 
-<sup>3</sup> Die Kantone können für die Anmeldungen nach Absatz 1 spätere Anmeldetermine festlegen, wenn die koordinierte Planung der Kontrollen weiterhin sichergestellt ist und die Frist für die Datenübermittlung nach Artikel 4 Absatz 1 Buchstabe c der Verordnung vom 23. Oktober 2013[^97-4] über Informationssysteme im Bereich der Landwirtschaft (ISLV) eingehalten wird.[^97-5]
+<sup>3</sup> Die Kantone können für die Anmeldungen nach Absatz 1 spätere Anmeldetermine festlegen, wenn die koordinierte Planung der Kontrollen weiterhin sichergestellt ist und die Frist für die Datenübermittlung nach Artikel 4 Absatz 1 Buchstabe c der Verordnung vom 23. Oktober 2013[^97-6] über Informationssysteme im Bereich der Landwirtschaft (ISLV) eingehalten wird.[^97-7]
 
 [^97-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
-[^97-2]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-[^97-3]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
-[^97-4]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
-[^97-5]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
+[^97-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^97-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^97-4]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^97-5]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^97-6]: [SR 919.117.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10953)
+[^97-7]: Eingefügt durch Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
 
 #### Art. 98
 
@@ -2239,18 +2164,18 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 
 - a. die Direktzahlungsarten nach Artikel 2, für die Beiträge beantragt werden;
 - b.[^98-3] die voraussichtlichen Betriebs- und Strukturdaten am 1. Mai gemäss der ISLV;
-- c. die auf einer Karte eingezeichneten Biodiversitätsförderflächen, mit Ausnahme der Hochstamm-Feldobstbäume und der einheimischen standortgerechten Einzelbäumen und Alleen; die Kantone können eine Erfassung über das geografische Informationssystem verlangen;
+- c.[^98-4] …
 - d.
 
   bei Beiträgen im Sömmerungsgebiet:
 
-  - 1\.[^98-4] die Kategorie und die Anzahl der gesömmerten Lamas und Alpakas,
+  - 1\.[^98-5] die Kategorie und die Anzahl der gesömmerten Lamas und Alpakas,
   - 2\. das Auffuhrdatum,
   - 3\. das voraussichtliche Abfahrtsdatum,
   - 4\. Veränderungen bei der nutzbaren Weidefläche,
   - 5\. die artenreichen Grün- und Streueflächen im Sömmerungsgebiet;
 
-- e. die erforderlichen Angaben für die Festsetzung der Produktionssystem- und der Ressourceneffizienzbeiträge;
+- e.[^98-6] die erforderlichen Angaben für die Festsetzung der Produktionssystembeiträge;
 - f. Flächenänderungen, die Adresse der davon betroffenen Betriebe sowie die bisherigen und die neuen Bewirtschafter und Bewirtschafterinnen;
 - g. die für angestammte Flächen in der ausländischen Grenzzone für das Vorjahr erhaltenen Direktzahlungen der EU.
 
@@ -2263,14 +2188,16 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 Der Kanton bestimmt:
 
 - a. ob das Gesuch in Papierform oder elektronisch einzureichen ist;
-- b.[^98-5] ob Gesuche, die elektronisch eingereicht werden, mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^98-6] über die elektronische Signatur versehen werden können.
+- b.[^98-7] ob Gesuche, die elektronisch eingereicht werden, mit einer qualifizierten elektronischen Signatur nach Artikel 2 Buchstabe e des Bundesgesetzes vom 18. März 2016[^98-8] über die elektronische Signatur versehen werden können.
 
 [^98-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^98-2]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
 [^98-3]: Fassung gemäss Ziff. I der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)).
-[^98-4]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^98-5]: Fassung gemäss Anhang Ziff. II 9 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
-[^98-6]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
+[^98-4]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), mit Wirkung seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^98-5]: Fassung gemäss Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2024 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
+[^98-6]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^98-7]: Fassung gemäss Anhang Ziff. II 9 der V vom 23. Nov. 2016 über die elektronische Signatur, in Kraft seit 1. Jan. 2017 ([AS 2016 4667](https://fedlex.data.admin.ch/eli/oc/2016/753)).
+[^98-8]: [SR 943.03](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11301)
 
 #### Art. 99
 
@@ -2367,14 +2294,15 @@ Bewirtschafter und Bewirtschafterinnen, die ein Gesuch für bestimmte Direktzahl
 
 <sup>3</sup> Der Kanton kann die im Zusammenhang mit den Absätzen 1 und 2 erforderlichen Arbeiten delegieren. Die Vorgaben der VKKL[^104-1] sind einzuhalten. Der Kanton regelt die Abgeltung der delegierten Arbeiten.
 
-<sup>4</sup> Er kann Kontrollen über die Bewirtschaftung von Objekten in Vernetzungs- und Landschaftsqualitätsprojekten nicht an die Projektträgerschaft delegieren.
+<sup>4</sup> Er kann Kontrollen über die Bewirtschaftung von Objekten in Projekten zur Förderung der regionalen Biodiversität und der Landschaftsqualität nicht an die Projektträgerschaft delegieren.[^104-2]
 
 <sup>5</sup> Er überwacht die Kontrolltätigkeit der Kontrollstellen in seinem Kantonsgebiet stichprobenmässig.
 
-<sup>6</sup> …[^104-2]
+<sup>6</sup> …[^104-3]
 
 [^104-1]: [SR 910.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10415)
-[^104-2]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
+[^104-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^104-3]: Aufgehoben durch Ziff. I der V vom 11. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)).
 
 ### 4. Kapitel: Verwaltungssanktionen
 
@@ -2426,23 +2354,25 @@ Als höhere Gewalt gelten insbesondere:
 
 #### Art. 107a
 
-**Verzicht auf Anpassung des Sömmerungs-, Biodiversitäts- und Landschaftsqualitätsbeitrags bei vorzeitiger Abalpung aufgrund von Grossraubtieren**[^107a-1]
+**Verzicht auf Anpassung der Sömmerungsbeiträge, des Biodiversitätsbeitrags sowie des Beitrags für regionale Biodiversität und Landschaftsqualität bei vorzeitiger Abalpung aufgrund von Grossraubtieren[^107a-2]**[^107a-1]
 
 <sup>1</sup>
 
 Werden Sömmerungs- und Gemeinschaftsweidebetriebe aufgrund einer Gefährdung der Nutztiere durch Grossraubtiere vorzeitig abgealpt, so kann der Kanton:
 
 - a. auf eine Anpassung des Sömmerungsbeitrags nach Artikel 49 Absatz 2 Buchstabe c verzichten;
-- b. den Biodiversitätsbeitrag nach Anhang 7 Ziffer 3.1.1 Ziffer 12 sowie den Landschaftsqualitätsbeitrag nach Anhang 7 Ziffer 4.1 Buchstabe b in der vollen Höhe der ausbezahlten Beiträge des Vorjahres ausrichten, auch wenn die Bestossung den Normalbesatz unterschreitet.
+- b.[^107a-3] den Biodiversitätsbeitrag nach Anhang 7 Ziffer 3.1.1 Ziffer 12 und den Beitrag für regionale Biodiversität und Landschaftsqualität nach Anhang 7 Ziffer 5a.1 in der vollen Höhe der ausbezahlten Beiträge des Vorjahres ausrichten, auch wenn die Bestossung den Normalbesatz unterschreitet.
 
 <sup>2</sup> Nach der erstmaligen Bewilligung des Verzichts auf die Anpassung der Beiträge kann der Kanton in den nachfolgenden vier Jahren auf derselben Alp höchstens ein weiteres Mal auf die Anpassung der Beiträge verzichten.
 
-<sup>3</sup> Der Bewirtschafter oder die Bewirtschafterin hat das Gesuch auf Verzicht der Anpassung der Beiträge bei der vom zuständigen Kanton bezeichneten Behörde einzureichen. Diese berücksichtigt bei der Beurteilung der Gesuche die zumutbaren Schutzmassnahmen nach Artikel 10<sup>quinquies</sup> der Jagdverordnung vom 29. Februar 1988[^107a-2] und bezieht die zuständigen kantonalen Fachpersonen für den Herdenschutz und die Jagd ein. Die Kantone regeln das Verfahren.
+<sup>3</sup> Der Bewirtschafter oder die Bewirtschafterin hat das Gesuch auf Verzicht der Anpassung der Beiträge bei der vom zuständigen Kanton bezeichneten Behörde einzureichen. Diese berücksichtigt bei der Beurteilung der Gesuche die zumutbaren Schutzmassnahmen nach Artikel 10<sup>quinquies</sup> der Jagdverordnung vom 29. Februar 1988[^107a-4] und bezieht die zuständigen kantonalen Fachpersonen für den Herdenschutz und die Jagd ein. Die Kantone regeln das Verfahren.
 
 <sup>4</sup> Die Kantone melden dem BLW jeweils Ende November die Gesuche für vorzeitige Abalpungen aufgrund von Grossraubtieren. Das BLW bestimmt Form und Inhalte der Meldung.
 
 [^107a-1]: Eingefügt durch Ziff. I der V vom 2. Nov. 2022, in Kraft seit 1. Jan. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)).
-[^107a-2]: [SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
+[^107a-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^107a-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
+[^107a-4]: [SR 922.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10980)
 
 ### 5. Kapitel: Festsetzung der Beiträge, Abrechnung und Auszahlung
 
@@ -2473,7 +2403,9 @@ Werden Sömmerungs- und Gemeinschaftsweidebetriebe aufgrund einer Gefährdung de
 
 <sup>4</sup> Beiträge, die nicht zugestellt werden können, verfallen nach fünf Jahren. Der Kanton muss sie dem BLW zurückerstatten.
 
-<sup>5</sup> Die Sömmerungsbeiträge, die Beiträge für artenreiche Grün- und Streueflächen im Sömmerungsgebiet und der Landschaftsqualitätsbeitrag im Sömmerungsgebiet können an die Alpkorporation oder Alpgenossenschaft ausbezahlt werden, wenn so eine wesentliche administrative Vereinfachung erreicht wird. Ist eine öffentlich-rechtliche Körperschaft, namentlich eine Gemeinde oder Bürgergemeinde, beitragsberechtigt, so muss diese den Tierhalter und den Tierhalterinnen mit den entsprechenden Sömmerungsrechten mindestens 80 Prozent des Beitrags auszahlen.
+<sup>5</sup> Die Sömmerungsbeiträge, die Beiträge für artenreiche Grün- und Streueflächen im Sömmerungsgebiet und der Beitrag für regionale Biodiversität und Landschaftsqualität im Sömmerungsgebiet können an die Alpkorporation oder Alpgenossenschaft ausbezahlt werden, wenn so eine wesentliche administrative Vereinfachung erreicht wird. Ist eine öffentlich-rechtliche Körperschaft, namentlich eine Gemeinde oder Bürgergemeinde, beitragsberechtigt, so muss diese den Tierhaltern und Tierhalterinnen mit den entsprechenden Sömmerungsrechten mindestens 80 Prozent des Beitrags auszahlen.[^109-1]
+
+[^109-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 109a
 
@@ -2604,7 +2536,7 @@ Die Beiträge werden für die Jahre 2015 und 2016 nicht gekürzt für:
 Für die Berechnung der linearen Korrektur gemäss Zusatzmodul 6 und der Import/Export-Bilanz gemäss Zusatzmodul 7 der Suisse-Bilanz, Auflage 1.8[^115b-2], kann der Kanton für die Jahre 2015 und 2016 die Referenzperiode selbst festlegen. Für die Mastpoulets ist die Berechnungsperiode das Kalenderjahr.
 
 [^115b-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)).
-[^115b-2]: Die Zusatzmodule 6 und 7 der Suisse-Bilanz sind abrufbar unter unter: [www.blw.admin.ch/de/oekologischer-leistungsnachweis](http://www.blw.admin.ch/de/oekologischer-leistungsnachweis).
+[^115b-2]: Die Zusatzmodule 6 und 7 der Suisse-Bilanz sind abrufbar unter: [www.blw.admin.ch/de/oekologischer-leistungsnachweis](http://www.blw.admin.ch/de/oekologischer-leistungsnachweis).
 
 #### Art. 115c
 
@@ -2690,6 +2622,24 @@ Für die Berechnung der linearen Korrektur gemäss Zusatzmodul 6 und der Import/
 
 [^115h-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
 [^115h-2]: Noch nicht in Kraft.
+
+#### Art. 115i
+
+**Übergangsbestimmungen zur Änderung vom 6. November 2024**[^115i-1]
+
+<sup>1</sup> Der Vernetzungsbeitrag des bisherigen Rechts und der Landschaftsqualitätsbeitrag des bisherigen Rechts werden in den Jahren 2026 und 2027 noch ausgerichtet. Die Kürzungen richten sich nach dem bisherigen Recht.
+
+<sup>2</sup> Der Ressourceneffizienzbeitrag für die stickstoffreduzierte Phasenfütterung von Schweinen des bisherigen Rechts wird im Jahr 2026 noch ausgerichtet. Die Kürzungen richten sich nach dem bisherigen Recht.
+
+<sup>3</sup> Der Beitrag für regionale Biodiversität und Landschaftsqualität nach Artikel 78 wird im Jahr 2028 das erste Mal ausgerichtet. Flächen in Projekten nach Artikel 78 sind im Jahr 2028 erstmals an die Biodiversitätsförderfläche nach Artikel 14 Absatz 2 anrechenbar.
+
+<sup>4</sup> Die einheimischen standortgerechten Einzelbäume und Alleen nach Artikel 55 Absatz 1<sup>bis</sup> Buchstabe b des bisherigen Rechts sind in den Jahren 2026 und 2027 noch als Biodiversitätsförderflächen nach Artikel 14 anrechenbar. Die Kürzungen richten sich nach dem bisherigen Recht.
+
+<sup>5</sup> Die regionsspezifischen Biodiversitätsförderflächen nach Artikel 55 Absatz 1 Buchstabe p des bisherigen Rechts sind in den Jahren 2026 und 2027 noch als Biodiversitätsförderflächen nach Artikel 14 anrechenbar. Die Kürzungen richten sich nach dem bisherigen Recht.
+
+<sup>6</sup> Für Getreide in weiter Reihe als regionsspezifische Biodiversitätsförderfläche des bisherigen Rechts wird der Beitrag für den Verzicht auf Pflanzenschutzmittel im Ackerbau nach Artikel 68 des bisherigen Rechts und der Beitrag für den Verzicht auf Herbizide im Ackerbau und in Spezialkulturen nach Artikel 71*a* des bisherigen Rechts in den Jahren 2026 und 2027 noch ausgerichtet.
+
+[^115i-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 #### Art. 116
 
@@ -2906,7 +2856,7 @@ Anhang 1[^t-1]
 - 5\.1.6 Ist die Ursache für einen Bodenabtrag nach Ziffer 5.1.2 auf einer Bewirtschaftungsparzelle unklar, so stellt die zuständige kantonale Stelle die Ursache fest. Sie sorgt in der Folge für ein abgestimmtes Vorgehen zur Verhinderung von Erosion im entsprechenden Gebiet.
 - 5\.1.7 Die Kontrollen werden gezielt nach Regen-Ereignissen auf gefährdeten Standorten durchgeführt. Die zuständigen kantonalen Stellen führen eine Liste mit den festgestellten Bodenabträgen.
 
-[^annex1-lvlu1-lvl5-lvl51-1]: Das Merkblatt ist abrufbar unter [www.agridea.ch](http://www.agridea.ch) &gt; Publikationen &gt; Umwelt, Natur, Landschaft &gt; Ressourcenschutz (Boden, Wasser, Luft) &gt; Wie-viel-Erde-geht-verloren?
+[^annex1-lvlu1-lvl5-lvl51-1]: Das Merkblatt ist abrufbar unter: [www.agridea.ch](http://www.agridea.ch) &gt; Publikationen &gt; Umwelt, Natur, Landschaft &gt; Ressourcenschutz (Boden, Wasser, Luft) &gt; Wie-viel-Erde-geht-verloren?
 
 ### 6 Auswahl und gezielte Anwendung von Pflanzenschutzmitteln
 
@@ -3083,7 +3033,7 @@ Anhang 1[^t-1]
 - 9\.7 Entlang von Flachmooren, Trockenwiesen und ‑weiden sowie Amphibienlaichgebieten sind die Bewirtschaftungsvorschriften und Ausmasse der Pufferzonen nach den Artikeln 18*a* und 18*b* NHG[^annex1-lvlu1-lvl9-3] einzuhalten.
 
 [^annex1-lvlu1-lvl9-1]: [SR 814.201](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9478)
-[^annex1-lvlu1-lvl9-2]: Das Merkblatt ist abrufbar unter [www.agridea.ch](http://www.agridea.ch) &gt; Übersicht &gt; Publikationen &gt; Pflanzenbau, Umwelt, Natur, Landschaft &gt; Beiträge und Bedingungen im Ökoausgleich.
+[^annex1-lvlu1-lvl9-2]: Das Merkblatt ist abrufbar unter: [www.agridea.ch](http://www.agridea.ch) &gt; Übersicht &gt; Publikationen &gt; Pflanzenbau, Umwelt, Natur, Landschaft &gt; Beiträge und Bedingungen im Ökoausgleich.
 [^annex1-lvlu1-lvl9-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
 Anhang 2[^t-2]
@@ -3222,7 +3172,7 @@ Anhang 4[^t-3]
 
 ## Voraussetzungen für Biodiversitätsförderflächen
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), Ziff. II Abs. 1 der V vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) und Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), Ziff. II Abs. 1 der V vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) und vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### A Biodiversitätsförderflächen
 
@@ -3438,12 +3388,7 @@ Anhang 4[^t-3]
 
 - 12\.2.11 Die Kriterien der Qualitätsstufe II können überbetrieblich erfüllt werden. Die Kantone regeln das Verfahren.
 
-### 13 Einheimische standortgerechte Einzelbäume und Alleen
-
-### 13.1 Qualitätsstufe I
-
-- 13\.1.1 Der Abstand zwischen zwei zu Beiträgen berechtigenden Bäumen beträgt mindestens 10 m.
-- 13\.1.2 Unter den Bäumen darf in einem Radius von mindestens 3 m kein Dünger ausgebracht werden.
+### 13 …
 
 ### 14 Rebflächen mit natürlicher Artenvielfalt
 
@@ -3466,7 +3411,7 @@ Anhang 4[^t-3]
 ### 14.2 Qualitätsstufe II
 
 - 14\.2.1 Die floristische Qualität nach Artikel 59 wird anhand von Indikatorpflanzen und anhand von für die Biodiversität förderliche Strukturen erhoben. Die Indikatorpflanzen weisen auf einen nährstoffarmen Boden und artenreichen Bestand hin und müssen regelmässig vorkommen. Die für die Biodiversität förderlichen Strukturen müssen regelmässig vorkommen.
-- 14\.2.2 Für Flächen, welche die Kriterien der Qualitätsstufe II für die Biodiversitätsbeiträge erfüllen, können im Einvernehmen mit der kantonalen Naturschutzfachstelle Ausnahmen von den Grundsätzen der Qualitätsstufe I bewilligt werden.
+- 14\.2.2 Für Flächen, welche die Kriterien der Qualitätsstufe II für den Biodiversitätsbeitrag erfüllen, können im Einvernehmen mit der kantonalen Naturschutzfachstelle Ausnahmen von den Grundsätzen der Qualitätsstufe I bewilligt werden.
 
 ### 15 Artenreiche Grün- und Streueflächen im Sömmerungsgebiet
 
@@ -3481,80 +3426,7 @@ Anhang 4[^t-3]
 [^annex4-lvlu1-lvlA-lvl15-lvl151-1]: [SR 910.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10428)
 [^annex4-lvlu1-lvlA-lvl15-lvl151-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 
-### 16 Regionsspezifische Biodiversitätsförderflächen
-
-### 16.1 Qualitätsstufe I
-
-- 16\.1.1 Begriff: ökologisch wertvolle natürliche Lebensräume, die keinem der nach den Ziffern 1–15 und 17 beschriebenen Elemente entsprechen.
-- 16\.1.2 Die Auflagen und Bewilligung sind von der kantonalen Naturschutzfachstelle in Absprache mit dem kantonalen Landwirtschaftsamt und dem BLW festzulegen.
-
-### B Vernetzung
-
-### 1 Ausgangszustand
-
-- 1\.1
-
-  Ein abgegrenztes Gebiet muss definiert und auf einem Plan dargestellt werden. Dieser muss den Ausgangszustand der einzelnen Lebensräume aufzeigen. Im Plan müssen mindestens folgende Elemente aufgeführt werden:
-
-  - a. Biodiversitätsförderflächen, einschliesslich der jeweiligen Qualitätsstufe;
-  - b. in den Inventaren des Bundes und Kantons aufgeführte Objekte;
-  - c. bedeutende ökologische Lebensräume innerhalb und ausserhalb der landwirtschaftlichen Nutzfläche;
-  - d. Sömmerungsgebiet, Wald, Grundwasserschutzzonen, Bauzonen.
-
-- 1\.2 Der Ausgangszustand muss beschrieben werden.
-
-### 2 Definition der Ziele
-
-- 2\.1 Die Ziele im Hinblick auf die Förderung der floristischen und faunistischen Vielfalt sind zu definieren. Sie müssen auf publizierten nationalen, regionalen oder lokalen Inventaren, wissenschaftlichen Grundlagen, Zielvorstellungen oder Leitbildern basieren. Sie müssen das spezifische Entwicklungspotenzial für Flora und Fauna des bezeichneten Gebietes berücksichtigen.
-- 2\.2
-
-  Die Ziele müssen folgende Anforderungen erfüllen:
-
-  - a. Ziel- und Leitarten sind zu definieren. Zielarten sind Arten, die gefährdet sind und für die das Projektgebiet eine besondere Verantwortung trägt. Leitarten sind Arten, die für das Projektgebiet charakteristisch sind oder waren. Wenn im Perimeter Zielarten vorkommen, müssen diese berücksichtigt werden. Die Auswahl und das effektive und potenzielle Vorkommen der Ziel- und Leitarten muss durch Feldbegehungen überprüft werden.
-  - b. Wirkungsziele sind zu definieren. Sie orientieren über die angestrebte Wirkung im Hinblick auf die gewählten Ziel- und Leitarten. Die Ziel- und Leitarten sind durch das Projekt zu erhalten oder zu fördern.
-  - c.
-
-    Quantitative Umsetzungsziele sind zu definieren. Der Typ der zu fördernden Biodiversitätsförderfläche, ihre minimale Quantität sowie ihre Lage müssen festgelegt werden. Im Talgebiet und in den Bergzonen I und II muss pro Zone für die erste achtjährige Vernetzungsperiode ein Zielwert von mindestens 5 Prozent der landwirtschaftlichen Nutzfläche als ökologisch wertvolle Biodiversitätsförderflächen angestrebt werden. Für die weiteren Vernetzungsperioden muss ein Zielwert von 12–15 Prozent Biodiversitätsförderfläche der landwirtschaftlichen Nutzfläche pro Zone, wovon mindestens 50 Prozent der Biodiversitätsförderflächen ökologisch wertvoll sein müssen, vorgegeben werden. Als ökologisch wertvoll gelten Biodiversitätsförderflächen, die:
-
-    - – die Anforderungen der Qualitätsstufe II erfüllen;
-    - – die Anforderungen für Buntbrache, Rotationsbrache, Ackerschonstreifen oder Saum auf Ackerland erfüllen; oder
-    - – gemäss den Lebensraumansprüchen der ausgewählten Arten bewirtschaftet werden.
-
-  - d. Qualitative Umsetzungsziele (Massnahmen) sind zu definieren. Massnahmen für verbreitet vorkommende Ziel- und Leitarten sind in der Vollzugshilfe Vernetzung aufgelistet. Es können auch andere Massnahmen definiert werden, sofern sie gleichwertig sind.
-  - e. Die Ziele müssen messbar und terminiert sein.
-
-- 2\.3
-
-  Flächen sind insbesondere anzulegen:
-
-  - a. entlang von Gewässern, wobei diesen der erforderliche Raum für ihre natürlichen Funktionen zu gewähren ist;
-  - b. entlang von Wäldern;
-  - c. zur Erweiterung von Naturschutzflächen sowie zu deren Pufferung.
-
-- 2\.4 Synergien mit Projekten in den Bereichen Ressourcennutzung, Landschaftsgestaltung und Artenförderung sind zu nutzen.
-
-### 3 Soll-Zustand
-
-- 3\.1 Der Sollzustand der räumlichen Anordnung der Biodiversitätsförderflächen ist auf einem Plan darzustellen.
-
-### 4 Umsetzung
-
-- 4\.1
-
-  In einem Umsetzungskonzept sind aufzuzeigen:
-
-  - – Projektträgerschaft;
-  - – Projektverantwortliche;
-  - – Finanzierungsbedarf und Finanzierungskonzept;
-  - – geplante Umsetzung.
-
-- 4\.2 Damit ein Betrieb Vernetzungsbeiträge beziehen kann, muss eine fachkompetente einzelbetriebliche Beratung oder eine gleichwertige Beratung in Kleingruppen stattfinden. Die Projektträgerschaft schliesst mit den Bewirtschaftern und Bewirtschafterinnen Vereinbarungen ab.
-- 4\.3 Nach vier Jahren muss ein Zwischenbericht erstellt werden, der die Zielerreichung dokumentiert.
-
-### 5 Weiterführung von Vernetzungsprojekten
-
-- 5\.1 Vor Ablauf der achtjährigen Projektdauer ist der Zielerreichungsgrad zu überprüfen. Die definierten Umsetzungsziele müssen für eine Weiterführung des Projektes zu 80 Prozent erreicht werden. In begründeten Fällen kann davon abgewichen werden.
-- 5\.2 Die Zielsetzungen (Umsetzungsziele und Massnahmen) sind zu überprüfen und anzupassen. Der Projektbericht muss den Mindestanforderungen an die Vernetzung (Ziff. 2–4) entsprechen.
+### B …
 
 Anhang 4a[^t-4]
 
@@ -3713,7 +3585,7 @@ Anhang 6[^t-6]
 
 ## Spezifische Anforderungen der Tierwohlbeiträge
 
-[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) und Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-6]: Fassung gemäss Ziff. II Abs. 2 der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)). Bereinigt gemäss Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) und Anhang Ziff. 4 der V vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 724](https://fedlex.data.admin.ch/eli/oc/2025/724)).
 
 ### A Anforderungen für BTS-Beiträge
 
@@ -3763,11 +3635,11 @@ Anhang 6[^t-6]
   Die Fixierung auf einem BTS-konformen Liegebereich ist in folgenden Situationen zulässig:
 
   - a. bei brünstigen Tieren während maximal zwei Tagen;
-  - b. vor einem Transport während maximal zwei Tagen; die Identifikationsnummern der fixierten Tiere nach der TVD-Verordnung vom 26. Oktober 2011[^annex6-lvlu1-lvlA-lvl2-2] und das Datum müssen vor der Abweichung dokumentiert werden;
+  - b. vor einem Transport während maximal zwei Tagen; die Identifikationsnummern der fixierten Tiere nach der Verordnung vom 3. November 2021[^annex6-lvlu1-lvlA-lvl2-2] über die Identitas AG und die Tierverkehrsdatenbank sowie das Datum müssen vor der Abweichung dokumentiert werden;
   - c. bei hochträchtigen Rindern, die nach dem Kalben in einem Anbindestall gehalten werden, während zehn Tagen vor dem voraussichtlichen Geburtstermin.
 
-[^annex6-lvlu1-lvlA-lvl2-1]: Die Norm kann beim Bundesamt für Landwirtschaft, 3003 Bern, kostenlos eingesehen oder gegen Bezahlung bei der Schweizerische Normen-Vereinigung (SNV), Bürglistrasse 29, 8400 Winterthur oder unter [www.snv.ch](http://www.snv.ch) bezogen werden.
-[^annex6-lvlu1-lvlA-lvl2-2]: [[AS 2011 5453](https://fedlex.data.admin.ch/eli/oc/2011/775); [2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)Anhang Ziff. 1; [2013 1753](https://fedlex.data.admin.ch/eli/oc/2013/399), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 13, [3999](https://fedlex.data.admin.ch/eli/oc/2013/730); [2014 1389](https://fedlex.data.admin.ch/eli/oc/2014/294), [2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 2; [2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)Anhang Ziff. 2, [4573](https://fedlex.data.admin.ch/eli/oc/2015/770); [2016 3401](https://fedlex.data.admin.ch/eli/oc/2016/570); [2017 6145](https://fedlex.data.admin.ch/eli/oc/2017/680); [2018 2085](https://fedlex.data.admin.ch/eli/oc/2018/293), [4275](https://fedlex.data.admin.ch/eli/oc/2018/683), [4353](https://fedlex.data.admin.ch/eli/oc/2018/702)Art. 20 Ziff. 2, [4543](https://fedlex.data.admin.ch/eli/oc/2018/708)Anhang Ziff. 2; [2019 3673](https://fedlex.data.admin.ch/eli/oc/2019/663)Ziff. I; [2020 2441](https://fedlex.data.admin.ch/eli/oc/2020/459)Anhang 4 Ziff. 9; [2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)Anhang Ziff. 1]. Siehe heute: die V vom 3. Nov. 2021 über die Identitas AG und die Tierverkehrsdatenbank ([SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)).
+[^annex6-lvlu1-lvlA-lvl2-1]: Die Norm kann beim Bundesamt für Landwirtschaft, 3003 Bern, kostenlos eingesehen oder gegen Bezahlung bei der Schweizerische Normen-Vereinigung (SNV), Bürglistrasse 29, 8400 Winterthur oder unter: [www.snv.ch](http://www.snv.ch) bezogen werden.
+[^annex6-lvlu1-lvlA-lvl2-2]: [SR 916.404.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10849)
 
 ### 3 Tiere der Pferdegattung
 
@@ -3960,7 +3832,7 @@ Anhang 6[^t-6]
 
   - a. während zehn Tagen vor dem voraussichtlichen Geburtstermin und während zehn Tagen nach der Geburt;
   - b. im Zusammenhang mit einem Eingriff am Tier;
-  - c. vor einem Transport während maximal zwei Tagen; die Identifikationsnummern der fixierten Tiere nach der TVD-Verordnung und das Datum müssen vor der Abweichung dokumentiert werden;
+  - c. vor einem Transport während maximal zwei Tagen; die Identifikations-nummern der fixierten Tiere nach der Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkehrsdatenbank sowie das Datum müssen vor der Abweichung dokumentiert werden;
   - d. soweit dies während der Fütterung, des Melkens oder der Reinigung der Auslauffläche notwendig ist.
 
 - 2\.4
@@ -4168,11 +4040,11 @@ Anhang 6a[^t-7]
 
 Anhang 7[^t-8]
 
-(Art. 61 Abs. 4, 63 Abs. 4, 83 Abs. 1 und 86 Abs. 3)
+(Art. 78 Abs. 4, 83 Abs. 1, 86 Abs. 3 und 107*a* Abs. 1 Bst. b)
 
 ## Beitragsansätze
 
-[^t-8]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)), Ziff. II der V vom 20. Mai 2015 ([AS 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. I der V vom 15. Febr. 2017 ([AS 2017 691](https://fedlex.data.admin.ch/eli/oc/2017/126)), Ziff. II Abs. 1 vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), Ziff. II und III der V vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II Abs. 1 sowie III der V vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) und Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-8]: Bereinigt gemäss Ziff. II der V vom 20. Mai 2015 ([AS 2015 1743](https://fedlex.data.admin.ch/eli/oc/2015/339)), vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II Abs. 1 vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), Ziff. II Abs. 1 sowie III der V vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) und 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 1 Kulturlandschaftsbeiträge
 
@@ -4278,7 +4150,7 @@ Anhang 7[^t-8]
 
 - 2\.3.1 Der Beitrag für die offene Ackerfläche und für die Dauerkulturen beträgt 400 Franken pro Hektare und Jahr.
 
-### 3 Biodiversitätsbeiträge
+### 3 Biodiversitätsbeitrag
 
 ### 3.1 Qualitätsbeitrag
 
@@ -4312,7 +4184,6 @@ Anhang 7[^t-8]
 <tr><td colspan="2">*10.* *Rebflächen mit natürlicher Artenvielfalt*</td><td>–</td><td colspan="2">1100</td></tr>
 <tr><td colspan="2">*11.* *Uferwiese*</td><td>300</td><td colspan="2"></td></tr>
 <tr><td colspan="2">*12.* *Artenreiche Grün- und Streueflächen im Sömmerungsgebiet*</td><td>–</td><td colspan="2">150, max. aber 300 je NST</td></tr>
-<tr><td colspan="2">*13.* *Regionsspezifische Biodiversitätsförderflächen*</td><td>–</td><td colspan="2">–</td></tr>
 </table>
 
 - 3\.1.2 Die Beiträge betragen für:
@@ -4322,29 +4193,12 @@ Anhang 7[^t-8]
 <tr><th colspan="2"></th><th>I</th><th colspan="2">II</th></tr>
 <tr><th colspan="2"></th><th>Fr./Baum und Jahr</th><th colspan="2">Fr./Baum und Jahr</th></tr>
 <tr><td colspan="2">*1.* *Hochstamm-Feldobstbäume* *Nussbäume*</td><td>13.50 13.50</td><td colspan="2">31.50 16.50</td></tr>
-<tr><td colspan="2">*2.* *Standortgerechte Einzelbäume und Alleen*</td><td>–</td><td colspan="2">–</td></tr>
+<tr><td colspan="2">*2.* *…*</td><td></td><td colspan="2"></td></tr>
 </table>
 
-### 3.2 Vernetzungsbeitrag
+### 3.2 …
 
-- 3\.2.1 Der Bund übernimmt pro Jahr höchstens 90 Prozent der folgenden Beträge:
-
-<table>
-<tr><td>a. pro ha extensive Weide und Waldweide</td><td>[tab] 500 Fr.</td></tr>
-<tr><td>b. pro ha der Flächen nach Ziffer 3.1.1 Ziffern 1–3, 5–11 und 13</td><td>[tab] 1000 Fr.</td></tr>
-<tr><td>c. pro Baum nach Ziffer 3.1.2 Ziffern 1 und 2</td><td>[tab] 5 Fr.</td></tr>
-</table>
-
-### 4 Landschaftsqualitätsbeitrag
-
-- 4\.1 Pro Projekt und Jahr übernimmt der Bund höchstens 90 Prozent der folgenden Beträge:
-
-<table>
-<tr><td>a. pro ha landwirtschaftliche Nutzfläche von Betrieben mit vertraglichen Vereinbarungen</td><td>[tab] 360 Fr.</td></tr>
-<tr><td>b. pro NST des Normalbesatzes auf Sömmerungs- oder Gemeinschaftsweidebetrieben mit vertraglichen Vereinbarungen</td><td>[tab] 240 Fr.</td></tr>
-</table>
-
-- 4\.2 Der Bund stellt den Kantonen für Landschaftsqualitätsprojekte nach Artikel 64 jährlich pro ha landwirtschaftliche Nutzfläche höchstens 120 Franken und pro NST des Normalbesatzes im Sömmerungsgebiet höchstens 80 Franken zur Verfügung.
+### 4 …
 
 ### 5 Produktionssystembeiträge
 
@@ -4477,6 +4331,10 @@ Anhang 7[^t-8]
   - a. für Milchkühe: zwischen 10 Franken bei durchschnittlich 3 Abkalbungen und 100 Franken bei durchschnittlich 7 Abkalbungen und mehr;
   - b. für andere Kühe: zwischen 10 Franken bei durchschnittlich 4 Abkalbungen und 100 Franken bei durchschnittlich 8 Abkalbungen und mehr.
 
+### 5*a* Beitrag für regionale Biodiversität und Landschaftsqualität
+
+- 5a.1 Der Bund stellt den Kantonen für Projekte zur Förderung der regionalen Biodiversität und der Landschaftsqualität nach Artikel 78 jährlich pro ha landwirtschaftliche Nutzfläche höchstens 250 Franken und pro NST des Normalbesatzes im Sömmerungsgebiet höchstens 130 Franken zur Verfügung.
+
 ### 6 Ressourceneffizienzbeiträge
 
 ### 6.1 Beitrag für den Einsatz von präzisen Applikationstechniken
@@ -4495,11 +4353,11 @@ Anhang 7[^t-8]
 
 Anhang 8[^t-9]
 
-(Art. 105 Abs. 1, 115*a* Abs. 1 und 2, 115*c* Abs. 2, 115*f* Abs. 2 und 115*g* Abs. 2)
+(Art. 105 Abs. 1, 115*a* Abs. 1 und 2, 115*c* Abs. 2, 115*f* Abs. 2, 115*g* Abs. 2 und 115*i* Abs. 1, 2, 4 und 5)
 
 ## Kürzungen der Direktzahlungen
 
-[^t-9]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)) und Ziff. II der V vom 6. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)).
+[^t-9]: Fassung gemäss Ziff. II Abs. 2 der V vom 29. Okt. 2014 ([AS 2014 3909](https://fedlex.data.admin.ch/eli/oc/2014/669)). Bereinigt gemäss Ziff. II der V vom 28. Okt. 2015 ([AS 2015 4497](https://fedlex.data.admin.ch/eli/oc/2015/751)), vom 16. Sept. 2016 ([AS 2016 3291](https://fedlex.data.admin.ch/eli/oc/2016/560)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6033](https://fedlex.data.admin.ch/eli/oc/2017/665)), vom 31. Okt. 2018 ([AS 2018 4149](https://fedlex.data.admin.ch/eli/oc/2018/671)), vom 11. Nov. 2020 ([AS 2020 5449](https://fedlex.data.admin.ch/eli/oc/2020/951)), vom 3. Nov. 2021 ([AS 2021 682](https://fedlex.data.admin.ch/eli/oc/2021/682)), Ziff. II Abs. 1 der V vom 13. April 2022 ([AS 2022 264](https://fedlex.data.admin.ch/eli/oc/2022/264)), vom 2. Nov. 2022 ([AS 2022 737](https://fedlex.data.admin.ch/eli/oc/2022/737)), vom 1. Nov. 2023 ([AS 2023 743](https://fedlex.data.admin.ch/eli/oc/2023/743)), Ziff. II der V vom 6. Nov. 2024 ([AS 2024 686](https://fedlex.data.admin.ch/eli/oc/2024/686)) und vom 6. Nov. 2024 (Beitrag für regionale Biodiversität und Landschaftsqualität), in Kraft seit 1. Jan. 2026 ([AS 2024 671](https://fedlex.data.admin.ch/eli/oc/2024/671)).
 
 ### 1 Allgemeines
 
@@ -4567,8 +4425,8 @@ Anhang 8[^t-9]
 <tr><td>a. Deklaration Flächenmasse nicht korrekt (Art. 98, 100 und 105)</td><td>Zu tiefe Angabe Zu hohe Angabe</td><td>Korrektur auf richtige Angabe Korrektur auf richtige Angabe und zusätzliche Kürzung in der Höhe der Beitragsdifferenz (deklarierte minus richtige Angaben)</td></tr>
 <tr><td>b. Deklaration der Flächen in Hanglagen nicht korrekt (Art. 98, 100 und 105)</td><td>Angaben zur Nutzung sind nicht korrekt Fläche oder Teilfläche ist nicht der richtigen Neigungsstufe zugeordnet</td><td>Bei allen Mängeln: Korrektur auf richtige Angabe, Neuberechnung des Steillagenbeitrags und zusätzlich 1000 Fr.</td></tr>
 <tr><td>c. Deklaration der Flächen nach Zonen nicht korrekt (Art. 98, 100 und 105)</td><td>Angaben zur Zone sind nicht korrekt Fläche oder Teilfläche ist nicht der richtigen Zone zugeordnet</td><td>Bei allen Mängeln: Korrektur auf richtige Angabe und zusätzlich 200 Fr./ha betroffene Fläche</td></tr>
-<tr><td>d. Deklaration der Anzahl Einzelbäume/Hochstamm-Feldobstbäume nicht korrekt (Art. 98, 100 und 105)</td><td>Zu tiefe Angabe Zu hohe Angabe</td><td>Keine Korrektur Korrektur auf richtige Angabe und zusätzlich 50 Fr. je betroffener Baum</td></tr>
-<tr><td>e. Deklaration Kategorie, Qualitätsstufe oder Vernetzung bei Einzelbäumen/ Hochstamm-Feldobstbäumen nicht korrekt (Art. 98, 100 und 105)</td><td>Falsche Angabe</td><td>Bei allen Mängeln: Korrektur auf richtige Angabe und zusätzlich 50 Fr. je betroffenen Baum</td></tr>
+<tr><td>d. Deklaration der Anzahl Hochstamm-Feldobstbäume nicht korrekt (Art. 98, 100 und 105)</td><td>Zu tiefe Angabe Zu hohe Angabe</td><td>Keine Korrektur Korrektur auf richtige Angabe und zusätzlich 50 Fr. je betroffener Baum</td></tr>
+<tr><td>e. Deklaration Kategorie, Qualitätsstufe Hochstamm-Feldobstbäumen nicht korrekt (Art. 98, 100 und 105)</td><td>Falsche Angabe</td><td>Bei allen Mängeln: Korrektur auf richtige Angabe und zusätzlich 50 Fr. je betroffenen Baum</td></tr>
 </table>
 
 - 2\.1.7 Bewirtschaftung durch Betrieb
@@ -4712,9 +4570,9 @@ Anhang 8[^t-9]
 <tr><td>0–59 Tage Auslauf im Sommer</td><td>4 Pte. pro betroffene GVE</td></tr>
 </table>
 
-### 2.3*a* Luftreinhaltung
+### 2.3a Luftreinhaltung
 
-- 2\.3*a.*1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen und mit Beträgen pro ha.
+- 2\.3a*.*1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen und mit Beträgen pro ha.
 - Die Pauschalbeträge und die Beträge pro ha werden im ersten Wiederholungsfall verdoppelt und ab dem zweiten Wiederholungsfall vervierfacht.
 - Gewährt die zuständige Behörde eine Frist zur Sanierung von Anlagen zur Lagerung, so werden bei festgestellten Mängeln innerhalb dieser Frist keine Kürzungen nach Buchstabe a vorgenommen.
 
@@ -4725,7 +4583,7 @@ Anhang 8[^t-9]
 <tr><td>c. Die für die emissionsmindernde Ausbringung von Gülle und flüssigen Vergärungsprodukten eingesetzten Geräte erfüllen die technischen Voraussetzungen nicht</td><td>300 Fr. pro eingesetztes mangelhaftes Gerät Kürzung wird erst vorgenommen, wenn der Mangel nach der Nachfrist weiter besteht</td></tr>
 </table>
 
-### 2.4 Biodiversitätsbeiträge: Qualitätsbeiträge
+### 2.4 Biodiversitätsbeitrag
 
 - 2\.4.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen oder eines Prozentsatzes der Qualitätsbeiträge der Qualitätsstufe I (QB I) und der Qualitätsstufe II (QB II). Die QB I und QB II werden nach Typ der Biodiversitätsförderfläche (Art. 55) auf der betroffenen Fläche beziehungsweise bei den betroffenen Bäumen gekürzt.
 - 2\.4.2 Werden mehrere Mängel bei einem Typ der Biodiversitätsförderfläche in derselben Qualitätsstufe gleichzeitig festgestellt, so werden die Kürzungen nicht kumuliert. Es wird nur der Mangel mit der höchsten Kürzung berücksichtigt. Ausgenommen davon sind die Ziffern 2.4.19–2.4.24.
@@ -4845,14 +4703,7 @@ Anhang 8[^t-9]
 <tr><td>d. Q II: die Anzahl Bäume nimmt ab (Art. 59, Anhang 4 Ziff. 12.2.7)</td><td>Pro fehlenden Baum: 200 % QB II</td></tr>
 </table>
 
-- 2\.4.18 Einheimische standortgerechte Einzelbäume
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>a. Voraussetzungen und Auflagen nicht eingehalten (Art. 58, Anh. 4 Ziff. 13.1)</td><td>200 Fr.</td></tr>
-<tr><td>b. Düngung unter den Bäumen im Radius von weniger als 3 m (Anh. 4 Ziff. 13.1)</td><td>200 Fr.</td></tr>
-</table>
-
+- 2\.4.18 …
 - 2\.4.19 Rebflächen mit natürlicher Artenvielfalt
 
 <table>
@@ -4862,13 +4713,7 @@ Anhang 8[^t-9]
 <tr><td>c. Q II: nicht genügend Indikatorpflanzen vorhanden oder zu wenig oder keine die biodiversitätsfördernden Strukturen (Art. 59, Anh. 4 Ziff. 14.2)</td><td>Keine; Auszahlung QB II nur für Flächen mit genügend Indikatorpflanzen oder mit genügend Strukturen</td></tr>
 </table>
 
-- 2\.4.20 Regionsspezifische Biodiversitätsförderflächen
-
-<table>
-<tr><th>Mangel beim Kontrollpunkt</th><th>Kürzung</th></tr>
-<tr><td>Auflagen gemäss spezifischen Anforderungen nicht eingehalten (Art. 58, Anh. 4 Ziff. 16.1)</td><td>200 Fr.</td></tr>
-</table>
-
+- 2\.4.20 …
 - 2\.4.21 …
 - 2\.4.22 Wassergraben, Tümpel, Teich
 
@@ -4891,21 +4736,7 @@ Anhang 8[^t-9]
 <tr><td>Voraussetzungen und Auflagen nicht eingehalten; Pufferstreifen weniger als 50 cm breit; es wurden Dünger oder Pflanzenschutzmittel eingesetzt; (Anh. 1 Ziff. 3.1 und 3.2.3)</td><td>Jeder Mangel 200 Fr.</td></tr>
 </table>
 
-### 2.4a Biodiversitätsbeiträge: Vernetzungsbeitrag
-
-- 2\.4a.1 Kürzungen sind vom Kanton im Rahmen des regionalen Vernetzungsprojekts festzulegen. Sie entsprechen mindestens den Kürzungen nach den Ziffern 2.4a.2 und 2.4a.3.
-- 2\.4a.2 Bei einer erstmaligen nicht vollständigen Erfüllung der Voraussetzungen und Auflagen des durch den Kanton genehmigten regionalen Vernetzungsprojekts sind mindestens die Beiträge des laufenden Jahres zu kürzen und die Beiträge des vergangenen Jahres zurückzufordern. Die Kürzung gilt für die Flächen und Elemente, für welche die Voraussetzungen und Auflagen nicht vollständig eingehalten werden.
-- 2\.4a.3 Im Wiederholungsfall sind zusätzlich zum Beitragsausschluss für das entsprechende Beitragsjahr sämtliche im laufenden Projekt ausgerichteten Beiträge zurückzufordern. Die Kürzung gilt für die Flächen und Elemente, für welche die Voraussetzungen und Auflagen nicht vollständig eingehalten werden.
-- 2\.4a.4 Bei Pachtlandverlust kürzen oder verweigern die Kantone keine Beiträge aufgrund der Nichteinhaltung der Verpflichtungsdauer.
-- 2\.4a.5 Keine Kürzung wird vorgenommen, wenn der Verzicht nach Artikel 100*a* gemeldet wurde.
-- 2\.4a.6 Für Flächen nach Artikel 55 Absätze 5 und 6 werden keine Vernetzungsbeiträge ausgerichtet.
-
-### 2.5 Landschaftsqualitätsbeitrag
-
-- 2\.5.1 Kürzungen sind vom Kanton im Rahmen der projektbezogenen vertraglichen Vereinbarungen festzulegen. Sie entsprechen mindestens den Kürzungen nach den Ziffern 2.5.2 und 2.5.3.
-- 2\.5.2 Bei einer erstmaligen nicht vollständigen Erfüllung der Voraussetzungen und Auflagen sind mindestens die Beiträge des laufenden Jahres zu kürzen und die Beiträge des vergangenen Jahres zurückzufordern. Die Kürzung gilt für die Flächen und Elemente, für welche die Voraussetzungen und Auflagen nicht vollständig eingehalten werden.
-- 2\.5.3 Im Wiederholungsfall sind zusätzlich zum Beitragsausschluss für das entsprechende Beitragsjahr sämtliche im laufenden Projekt ausgerichteten Beiträge zurückzufordern. Die Kürzung gilt für die Flächen und Elemente, für welche die Voraussetzungen und Auflagen nicht vollständig eingehalten werden.
-- 2\.5.4 Bei Pachtlandverlust kürzen oder verweigern die Kantone keine Beiträge aufgrund der Nichteinhaltung der Verpflichtungsdauer.
+### 2.5 …
 
 ### 2.5a Beiträge für die biologische Landwirtschaft
 
@@ -5213,6 +5044,14 @@ Anhang 8[^t-9]
 <tr><td>Die Anforderungen für die Tierwohlbeiträge oder die vom BLW bewilligten Abweichungen sind nicht eingehalten (Art. 76*a*)</td><td>Kürzung analog zu den Ziffern 2.9.1–2.9.4</td></tr>
 </table>
 
+### 2.9a Beitrag für regionale Biodiversität und Landschaftsqualität
+
+- 2\.9a.1 Kürzungen sind vom Kanton im Rahmen der projektbezogenen Vereinbarungen festzulegen. Sie entsprechen mindestens den Kürzungen nach den Ziffern 2.9a.2 und 2.9a.3.
+- 2\.9a.2 Bei einer erstmaligen nicht vollständigen Erfüllung der Voraussetzungen und Auflagen sind mindestens die Beiträge des laufenden Jahres zu kürzen und die Beiträge des vergangenen Jahres zurückzufordern. Die Kürzung gilt für die Flächen und Elemente, für welche die Voraussetzungen und Auflagen nicht vollständig eingehalten werden.
+- 2\.9a.3 Im Wiederholungsfall sind zusätzlich zum Beitragsausschluss für das entsprechende Beitragsjahr sämtliche im laufenden Projekt ausgerichteten Beiträge zurückzufordern. Die Kürzung gilt für die Flächen und Elemente, für welche die Voraussetzungen und Auflagen nicht vollständig eingehalten werden.
+- 2\.9a.4 Wird die Beratungspflicht nicht eingehalten wird, so beträgt die Kürzung 1000 Franken.
+- 2\.9a.5 Bei Pachtlandverlust kürzen oder verweigern die Kantone keine Beiträge aufgrund der Nichteinhaltung der Verpflichtungsdauer.
+
 ### 2.10 Ressourceneffizienzbeiträge
 
 - 2\.10.1 Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen oder mit einem Prozentsatz des Ressourceneffizienzbeitrags.
@@ -5392,9 +5231,9 @@ Die Kürzungen erfolgen mit Abzügen von Pauschalbeträgen. Im ersten Wiederholu
 
 - 3\.8.2 Keine Kürzung wird vorgenommen, wenn der Verzicht nach Artikel 100*a* gemeldet wurde.
 
-### 3.9 Landschaftsqualitätsbeitrag
+### 3.9 Kürzung des Beitrags für regionale Biodiversität und Landschaftsqualität
 
-Die Bestimmungen nach Ziffer 2.5 gelten auch für Sömmerungs- und Gemeinschaftsweidebetriebe.
+Die Bestimmungen nach Ziffer 2.9a gelten auch für Sömmerungs- und Gemeinschaftsweidebetriebe.
 
 ### 3.10 Landwirtschaftsrelevante gesetzliche Vorschriften nach Gewässer-, Umwelt-, Natur- und Heimatschutz- sowie Tierschutzgesetzgebung
 
