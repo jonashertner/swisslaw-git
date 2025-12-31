@@ -3,20 +3,19 @@ canton: FR
 number: "822.0.37"
 title: Verordnung über die Referenztarife der Spitäler und Geburtshäuser
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2026-01-13
 adopted: 2026-01-13
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.37"
-pdf: "https://bdlf.fr.ch/api/de/versions/8090/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8375/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Referenztarife der Spitäler und Geburtshäuser
 
-vom 10.12.2024 (Fassung in Kraft getreten am 01.01.2025)
+vom 13.01.2026 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -32,14 +31,12 @@ Aufgrund der Anpassung der Parameter, auf denen die Berechnung der Referenztarif
 
 Auf Antrag der Direktion für Gesundheit und Soziales,
 
-beschliesst:
-
 #### Art. 1
 
 <sup>1</sup> Die Referenztarife (Baserates gemäss SwissDRG) gemäss Artikel 41 Abs. 1<sup>bis</sup>, 2. Satz, KVG[^1-1] für akutsomatische Spitalaufenthalte werden wie folgt festgesetzt:
 
-- a) Leistungen, die von einem Spital oder Geburtshaus des Kantons Freiburg, das in der Freiburger Spitalliste verzeichnet ist, erbracht werden können: Fr. 9433
-- b) alle übrigen Leistungen: Fr. 10'950
+- a) Leistungen, die von einem Spital oder Geburtshaus des Kantons Freiburg, das in der Freiburger Spitalliste verzeichnet ist, erbracht werden können: Fr. 9433.–
+- b) alle übrigen Leistungen: Fr. 11 050.–
 
 [^1-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
@@ -47,8 +44,8 @@ beschliesst:
 
 <sup>1</sup> Der Referenztarif (Baserate gemäss ST Reha) gemäss Artikel 41 Abs. 1<sup>bis</sup>, 2. Satz, KVG[^2-1] für nicht akutsomatische Spitalaufenthalte wird wie folgt festgesetzt:
 
-- a) Rehabilitation (ausser paraplegische Rehabilitation): Fr. 655
-- b) Paraplegische Rehabilitation (Baserate gemäss SwissDRG): Fr. 9'216
+- a) Rehabilitation (ausser paraplegische Rehabilitation): Fr. 680.–
+- b) Paraplegische Rehabilitation (Baserate gemäss SwissDRG): Fr. 9354.–
 
 [^2-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
@@ -56,7 +53,7 @@ beschliesst:
 
 <sup>1</sup> Der Referenztarif (Baserate gemäss TARPSY) gemäss Artikel 41 Abs. 1<sup>bis</sup>, 2. Satz, KVG[^3-1] für psychiatrische Spitalaufenthalte wird wie folgt festgesetzt:
 
-- a) Psychiatrie: Fr. 680
+- a) Psychiatrie: Fr. 698. –
 
 [^3-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
@@ -68,4 +65,4 @@ beschliesst:
 
 <sup>1</sup> Die Referenztarife können jederzeit geändert werden. Rückwirkende Änderungen und finanzielle Ausgleiche sind jedoch ausgeschlossen.
 
-2024\_103
+2026\_003

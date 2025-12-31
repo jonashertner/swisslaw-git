@@ -3,20 +3,19 @@ canton: FR
 number: "822.0.37"
 title: Ordonnance fixant les tarifs de référence des hôpitaux et des maisons de naissance
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2026-01-13
 adopted: 2026-01-13
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.37"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8090/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8375/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
 # Ordonnance fixant les tarifs de référence des hôpitaux et des maisons de naissance
 
-du 10.12.2024 (version entrée en vigueur le 01.01.2025)
+du 13.01.2026 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -39,7 +38,7 @@ Arrête:
 <sup>1</sup> Les tarifs de référence (baserates selon SwissDRG) selon l'article 41 al. 1<sup>bis</sup>, 2<sup>e</sup> phr., LAMal[^1-1] pour les hospitalisations somatiques aiguës sont fixés comme il suit:
 
 - a) pour les prestations qui peuvent être fournies par un hôpital ou une maison de naissance du canton de Fribourg répertoriés dans la liste hospitalière fribourgeoise: Fr. 9433
-- b) pour les autres prestations: Fr. 10'950
+- b) pour les autres prestations: Fr. 11'050
 
 [^1-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
 
@@ -47,8 +46,8 @@ Arrête:
 
 <sup>1</sup> Le tarif de référence (baserate selon ST Reha) selon l'article 41 al. 1<sup>bis</sup>, 2<sup>e</sup> phr., LAMal[^2-1] pour les hospitalisations somatiques non aiguës est fixé comme il suit:
 
-- a) réadaptation (à l'exception de la réadaptation en paraplégie): Fr. 655
-- b) réadaptation en paraplégie (baserate selon SwissDRG): Fr. 9216
+- a) réadaptation (à l'exception de la réadaptation en paraplégie): Fr. 680
+- b) réadaptation en paraplégie (baserate selon SwissDRG): Fr. 9354
 
 [^2-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
 
@@ -56,7 +55,7 @@ Arrête:
 
 <sup>1</sup> Le tarif de référence (baserate selon TARPSY) selon l'article 41 al. 1<sup>bis</sup>, 2<sup>e</sup> phr., LAMal[^3-1] pour les hospitalisations psychiatriques est fixé comme il suit:
 
-- a) psychiatrie: Fr. 680
+- a) psychiatrie: Fr. 698
 
 [^3-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
 
@@ -68,4 +67,4 @@ Arrête:
 
 <sup>1</sup> Les tarifs de référence peuvent être modifiés à tout moment. Une modification ainsi que des rétrocessions financières rétroactives sont toutefois exclues.
 
-2024\_103
+2026\_003
