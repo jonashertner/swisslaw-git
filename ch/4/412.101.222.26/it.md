@@ -3,18 +3,18 @@ sr: "412.101.222.26"
 title: Ordinanza della SEFRI del 29 agosto 2023 sulla formazione professionale di base delle professioni con AFC nel campo professionale dell’involucro edilizio
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/505"
 language: it
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2023-08-29
 in_force: 2023-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/505/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-505-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/505/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/505/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2023-505-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/505/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base delle professioni con AFC nel campo professionale dell’involucro edilizio
 
-del 29 agosto 2023 (Stato 1° aprile 2024)
+del 29 agosto 2023 (Stato 1° gennaio 2026)
 
 <table>
 <tr><td>52004</td><td>Impermeabilizzatrice AFC / Impermeabilizzatore AFC Abdichterin AFZ / Abdichter EFZ Etancheuse CFC / Etancheur CFC</td></tr>
@@ -31,10 +31,10 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 ## Sezione 1: Oggetto, professioni e durata
 
@@ -362,7 +362,7 @@ La formazione di installatore di impianti solari AFC prevede, nei campi di compe
 
 <sup>5</sup> L’impiego di persone in formazione secondo il capoverso 4 presuppone che dette persone siano formate, istruite e sorvegliate in maniera adeguata al più elevato pericolo; tali precauzioni particolari sono fissate nell’allegato 2 del piano di formazione sotto forma di misure di accompagnamento riguardanti la sicurezza sul lavoro e la protezione della salute.
 
-[^10-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^10-1]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° apr. 2024 (vedi [RU 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## Sezione 4: Durata della formazione in ciascun luogo di formazione e lingua d’insegnamento
 
@@ -380,8 +380,8 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <table>
 <tr><th>Insegnamento</th><th>1° anno</th><th>2° anno</th><th>3° anno</th><th>Totale</th></tr>
-<tr><td>a. Conoscenze professionali</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
-<tr><td>Per la professione di impermeabilizzatore AFC</td><td>[tab]</td><td>[tab]</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>a. Conoscenze professionali</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Per la professione di impermeabilizzatore AFC</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Organizzazione dei lavori sull’involucro edilizio</td><td>160</td><td>–</td><td>–</td><td>160</td></tr>
 <tr><td>– Pianificazione e preparazione dei lavori di impermeabilizzazione</td><td>–</td><td>60</td><td>–</td><td>60</td></tr>
 <tr><td>– Posa di sistemi di impermeabilizzazione</td><td>–</td><td>100</td><td>220</td><td>320</td></tr>
@@ -391,7 +391,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 <tr><td>– Pianificazione e preparazione dei lavori di copertura dei tetti</td><td>–</td><td>60</td><td>–</td><td>60</td></tr>
 <tr><td>– Montaggio di sistemi per la copertura dei tetti</td><td>–</td><td>100</td><td>220</td><td>320</td></tr>
 <tr><td>– Manutenzione, riparazione e smontaggio di sistemi per la copertura dei tetti</td><td>–</td><td>–</td><td>60</td><td>60</td></tr>
-<tr><td>Per la professione di costruttore di facciate AFC</td><td>[tab]</td><td></td><td></td><td></td></tr>
+<tr><td>Per la professione di costruttore di facciate AFC</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>– Organizzazione dei lavori sull’involucro edilizio</td><td>160</td><td>–</td><td>–</td><td>160</td></tr>
 <tr><td>– Pianificazione e preparazione dei lavori di costruzione delle facciate</td><td>–</td><td>60</td><td>–</td><td>60</td></tr>
 <tr><td>– Montaggio di sistemi per facciate</td><td>–</td><td>100</td><td>220</td><td>320</td></tr>
@@ -419,13 +419,14 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>2</sup> D’intesa con le autorità cantonali e le organizzazioni del mondo del lavoro competenti sono ammessi spostamenti minimi di lezioni da un anno di formazione all’altro in un campo di competenze operative. Deve essere comunque garantito il raggiungimento degli obiettivi di formazione prestabiliti.
 
-<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^12-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+<sup>3</sup> Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^12-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^12-2].
 
 <sup>4</sup> La lingua d’insegnamento è la lingua nazionale del luogo in cui si trova la scuola professionale. Oltre a questa lingua, i Cantoni possono autorizzare altre lingue d’insegnamento.
 
 <sup>5</sup> È raccomandato l’insegnamento bilingue, vale a dire nella lingua nazionale del luogo in cui si trova la scuola e in un’altra lingua nazionale o in inglese.
 
-[^12-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^12-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^12-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 13
 
@@ -577,7 +578,7 @@ Le persone che frequentano la formazione professionale di base di installatore d
 - a. dispongono di un’autorizzazione generale d’installazione di cui all’articolo 9 dell’ordinanza del 7 novembre 2001[^15-1] sugli impianti elettrici a bassa tensione (OIBT) e impiegano una persona del mestiere (art. 8 OIBT) o una persona di cui all’articolo 10*a* capoverso 1 OIBT, che sorveglia e istruisce le persone in formazione durante i lavori d’installazione secondo l’OIBT; o
 - b. dispongono di un’autorizzazione d’installazione limitata secondo l’articolo 14 OIBT e impiegano il titolare di un’autorizzazione a eseguire lavori sugli impianti solari, che sorveglia e istruisce le persone in formazione durante i lavori d’installazione secondo l’OIBT.
 
-[^15-1]: [RS 734.27](https://fedlex.data.admin.ch/eli/cc/2002/22)
+[^15-1]: [RS 734.27](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8584)
 
 #### Art. 16
 
@@ -778,11 +779,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>2</td><td>Montaggio e installazione di impianti solari Manutenzione, riparazione e smontaggio di impianti solari</td><td>60 min.</td><td>40 %</td></tr>
 </table>
 
-- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^23-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 9 aprile 2025[^23-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^23-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^23-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^23-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^23-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 24
 
