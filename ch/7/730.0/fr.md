@@ -4,11 +4,11 @@ title: "Loi du 30 septembre 2016 sur l'énergie (LEne)"
 short: LEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: fr
-version: 2025-10-01
+version: 2026-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20251001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20251001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260101-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20251001/fr"
 
 (LEne)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> octobre 2025)
+du 30 septembre 2016 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -279,26 +279,27 @@ Tant que les objectifs de développement de la production d’électricité issu
 
 **Obligation de reprise et de rétribution**
 
-<sup>1</sup>
+<sup>1</sup> Les gestionnaires de réseau sont tenus, dans leur zone de desserte, de reprendre et, s’ils ne parviennent pas à s’entendre avec le producteur sur le prix, de rétribuer à un prix harmonisé au niveau suisse l’électricité et le gaz renouvelable qui leur sont offerts.[^15-1]
 
-Les gestionnaires de réseau sont tenus de reprendre et de rétribuer de manière appropriée, dans leur zone de desserte:
+<sup>1bis</sup> Pour l’électricité issue d’énergies renouvelables, la rétribution est fixée selon le prix du marché moyen sur un trimestre au moment de l’injection. Le Conseil fédéral fixe des rétributions minimales pour les installations d’une puissance inférieure à 150 kW. Celles-ci se basent sur l’amortissement d’installations de référence sur leur durée de vie.[^15-2]
 
-- a. l’électricité qui leur est offerte provenant d’énergies renouvelables et d’installations à couplage chaleur-force alimentées totalement ou partiellement aux énergies fossiles;
-- b. le biogaz qui leur est offert.
+<sup>1ter</sup> Pour l’électricité provenant d’installations de couplage chaleur-force, la rétribution est fixée selon le prix du marché moyen sur un trimestre au moment de l’injection.[^15-3]
+
+<sup>1quater</sup> Pour le gaz renouvelable, la rétribution s’aligne sur le prix que le gestionnaire de réseau devrait payer s’il l’achetait auprès d’un tiers.[^15-4]
 
 <sup>2</sup> Les obligations de reprise et de rétribution ne s’appliquent à l’électricité que si elle provient d’installations d’une puissance électrique maximale de 3 MW ou d’une production annuelle, déduction faite de leur éventuelle consommation propre, n’excédant pas 5000 MWh.
 
-<sup>3</sup>
+<sup>3</sup> Pour l’approvisionnement de leurs consommateurs captifs selon l’art. 6 de la loi du 23 mars 2007 sur l’approvisionnement en électricité (LApEl)[^15-5], les gestionnaires de réseau peuvent facturer l’électricité reprise et rémunérée aux conditions prévues par les al. 1 à 1<sup>ter</sup> du présent article.[^15-6]
 
-Si le gestionnaire de réseau et le producteur ne peuvent pas convenir d’une rétribution, les dispositions suivantes s’appliquent:
+<sup>4</sup> Les al. 1 à 3 ne s’appliquent pas aux producteurs qui participent au système de rétribution de l’injection (art. 19) ou reçoivent des contributions aux coûts d’exploitation (art. 33*a*).[^15-7]
 
-- a. pour l’électricité issue d’énergies renouvelables, la rétribution se fonde sur les coûts que le gestionnaire de réseau aurait eus pour acquérir une énergie équivalente;
-- b. pour l’électricité provenant d’installations de couplage chaleur-force alimentées totalement ou partiellement aux énergies fossiles, la rétribution est fonction du prix du marché au moment de l’injection;
-- c. pour le biogaz, la rétribution s’aligne sur le prix que le gestionnaire de réseau devrait payer s’il l’achetait auprès d’un tiers.
-
-<sup>4</sup> Les al. 1 à 3 ne s’appliquent pas tant que le producteur participe au système de rétribution de l’injection (art. 19).[^15-1]
-
-[^15-1]: Nouvelle teneur selon le ch. I de la LF du 1<sup>er</sup> oct. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [FF 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^15-1]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-2]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-3]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-4]: Introduit par le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-5]: [RS 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^15-6]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-7]: Nouvelle teneur selon le ch. I 1 de la LF du 29 sept. 2023 relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [FF 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 16
 
@@ -860,7 +861,7 @@ Le supplément permet de financer:
 - b. les coûts de rétribution de l’injection non couverts par les prix du marché, selon l’ancien droit;
 - c. les frais[^35-1] supplémentaires visés à l’art. 73, al. 4, non couverts par les prix du marché;
 - d.[^35-2] les contributions d’investissement visées au chapitre 5;
-- d<sup>bis</sup>.[^35-3] la rétribution unique au sens de l’art. 71*a*, al. 4;
+- d<sup>bis</sup>.[^35-3] …
 - d<sup>ter</sup>.[^35-4] la prime de marché flottante visée au chapitre 5*a*;
 - e. la prime de marché rétribuant l’électricité produite par de grandes installations hydroélectriques au sens de l’art. 30;
 - f. les coûts des appels d’offres publics visés à l’art. 32;
@@ -1578,11 +1579,11 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 
 #### Art. 71a
 
-**Dispositions transitoires relatives à la modification du 30 septembre 2022 (production supplémentaire d’électricité provenant de grandes installations photovoltaïques)**[^71a-1]
+**Dispositions transitoires relatives à la production supplémentaire d’électricité provenant de grandes installations photovoltaïques**[^71a-1]
 
 <sup>1</sup>
 
-Jusqu’à ce que la construction en Suisse de grandes installations photovoltaïques au sens de l’al. 2 permette une production annuelle totale de 2 TWh, les conditions suivantes s’appliquent à ces installations ainsi qu’à leurs lignes de raccordement:
+Pour les grandes installations photovoltaïques au sens de l’al. 2, leurs lignes de raccordement et les renforcements nécessaires des réseaux, les conditions suivantes s’appliquent dans la mesure où la demande de permis de construire a été mise à l’enquête publique d’ici au 31 décembre 2025 et qu’une production annuelle totale de 2 TWh issue de telles installations ayant fait l’objet d’une autorisation entrée en force n’est probablement pas encore atteinte à l’échelle nationale:
 
 - a. leur nécessité est démontrée;
 - b. elles sont considérées comme des constructions relevant d’un intérêt national et dont l’implantation est imposée par leur destination; pour les installations situées dans les objets visés à l’art. 5 LPN[^71a-2], l’obligation de ménager l’objet le plus possible, y compris au moyen de mesures de reconstitution ou de remplacement, demeure s’il est dérogé au principe de conservation intacte;
@@ -1605,31 +1606,17 @@ Les grandes installations photovoltaïques sont celles qui remplissent les exige
 
 <sup>3</sup> L’autorisation pour une grande installation photovoltaïque est délivrée par le canton avec l’accord de la commune concernée et du propriétaire foncier.
 
-<sup>4</sup> Les installations qui ont, au moins en partie, injecté de l’électricité dans le réseau d’ici au 31 décembre 2025 reçoivent de la Confédération une rétribution unique s’élevant au maximum à 60 % des coûts d’investissement. Le Conseil fédéral fixe les taux au cas par cas; les exploitants fournissent à cet effet un calcul de rentabilité. Tout renforcement des réseaux nécessaire à l’injection de l’électricité produite par ces installations fait partie des services-système de la société nationale du réseau de transport.
+<sup>4</sup> Les installations reçoivent de la Confédération une rétribution unique s’élevant au maximum à 60 % des coûts d’investissement. Le Conseil fédéral fixe les taux au cas par cas; les exploitants fournissent à cet effet un calcul de rentabilité. Tout renforcement des réseaux nécessaire à l’injection de l’électricité produite par ces installations fait partie des services-système de la société nationale du réseau de transport.
 
 <sup>5</sup> Lors de leur mise hors service définitive, les installations sont complètement démantelées et la situation antérieure est rétablie.
 
-<sup>6</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
-
-[^71a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71a-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver) ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Nouvelle teneur selon le ch. I de la LF du 21 mars 2025 (Réalisation d’installations photovoltaïques alpines prévues), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 505](https://fedlex.data.admin.ch/eli/oc/2025/505); [FF 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^71a-2]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^71a-3]: [RS 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 71b
 
-**Dispositions transitoires relatives à la modification du 30 septembre 2022 (production d’électricité supplémentaire à l’aide de centrales hydroélectriques à accumulation)**[^71b-1]
-
-<sup>1</sup>
-
-Les conditions suivantes s’appliquent à l’extension de la centrale hydroélectrique à accumulation visée à l’al. 2:
-
-- a. sa nécessité est démontrée;
-- b. elle n’est pas soumise à l’obligation d’aménager le territoire;
-- c. l’intérêt de la réaliser prime en principe d’autres intérêts nationaux, régionaux et locaux.
-
-<sup>2</sup> Dans le cadre du projet du Grimsel (commune de Guttannen [BE]) qui prévoit le rehaussement du barrage de 23 m et le déplacement de la route du col, l’al. 1 s’applique à toutes les mesures nécessaires à la réalisation du projet et requises pour une utilisation raisonnée de la force hydraulique au sein de la centrale.
-
-<sup>3</sup> Le présente article reste applicable aux demandes mises à l’enquête publique avant le 31 décembre 2025 ainsi qu’aux éventuelles procédures de recours.
+[^71b-1]
 
 [^71b-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
@@ -1747,9 +1734,7 @@ Pour les consommateurs finaux qui ont conclu une convention d’objectifs selon 
 
 #### Art. 75b
 
-**Disposition transitoire relative à la modification du 30 septembre 2022 (obligation d’utiliser l’énergie solaire pour les bâtiments)**[^75b-1]
-
-Les cantons édictent les exceptions visées à l’art. 45*a*, al. 2, d’ici au 1<sup>er</sup> janvier 2023. Les demandes déposées avant cette date ne sont pas soumises à l’obligation prévue à l’art. 45*a*, al. 1.
+[^75b-1]
 
 [^75b-1]: Introduit par le ch. I de la LF du 30 sept. 2022 (Mesures urgentes visant à assurer rapidement l’approvisionnement en électricité pendant l’hiver), en vigueur du 1<sup>er</sup> oct. 2022 au 31 déc. 2025 ([RO 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), ici art. 75*a*; [FF 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 

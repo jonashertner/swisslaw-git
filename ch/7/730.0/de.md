@@ -4,11 +4,11 @@ title: Energiegesetz vom 30. September 2016 (EnG)
 short: EnG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/762"
 language: de
-version: 2025-10-01
+version: 2026-01-01
 adopted: 2016-09-30
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20251001/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20251001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-762-20260101-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/762/20251001/de"
 
 (EnG)
 
-vom 30. September 2016 (Stand am 1. Oktober 2025)
+vom 30. September 2016 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -279,26 +279,27 @@ Solange die Ziele für den Ausbau der Produktion von Elektrizität aus erneuerba
 
 **Abnahme- und Vergütungspflicht**
 
-<sup>1</sup>
+<sup>1</sup> Netzbetreiber haben die ihnen angebotene Elektrizität und das ihnen angebotene erneuerbare Gas in ihrem Netzgebiet abzunehmen und, wenn sie sich mit dem Produzenten über die Vergütung nicht einigen können, zu einem schweizweit harmonisierten Preis zu vergüten.[^15-1]
 
-Netzbetreiber haben in ihrem Netzgebiet abzunehmen und angemessen zu vergüten:
+<sup>1bis</sup> Die Vergütung für Elektrizität aus erneuerbaren Energien richtet sich nach dem vierteljährlich gemittelten Marktpreis zum Zeitpunkt der Einspeisung. Der Bundesrat legt für Anlagen mit einer Leistung von weniger als 150 kW Minimalvergütungen fest. Diese orientieren sich an der Amortisation von Referenzanlagen über ihre Lebensdauer.[^15-2]
 
-- a. die ihnen angebotene Elektrizität aus erneuerbaren Energien und aus fossil und teilweise fossil befeuerten Wärme-Kraft-Kopplungsanlagen;
-- b. das ihnen angebotene Biogas.
+<sup>1ter</sup> Die Vergütung für Elektrizität aus Wärme-Kraft-Kopplungsanlagen richtet sich nach dem vierteljährlich gemittelten Marktpreis im Zeitpunkt der Einspeisung.[^15-3]
+
+<sup>1quater</sup> Die Vergütung für erneuerbares Gas orientiert sich am Preis, den der Netzbetreiber für den Kauf bei einem Dritten zu bezahlen hätte.[^15-4]
 
 <sup>2</sup> Die Pflicht zur Abnahme und Vergütung von Elektrizität gilt nur, wenn diese aus Anlagen stammt mit einer Leistung von höchstens 3 MW oder einer jährlichen Produktion, abzüglich eines allfälligen Eigenverbrauchs, von höchstens 5000 MWh.
 
-<sup>3</sup>
+<sup>3</sup> Die nach den Absätzen 1−1<sup>ter</sup> übernommene und vergütete Elektrizität können die Netzbetreiber für die Belieferung ihren festen Endverbrauchern nach Artikel 6 des Stromversorgungsgesetzes vom 23. März 2007[^15-5] (StromVG) verrechnen.[^15-6]
 
-Können sich Netzbetreiber und Produzent über die Vergütung nicht einigen, so gilt für diese Folgendes:
+<sup>4</sup> Die Absätze 1−3 sind nicht anwendbar, solange die Produzenten am Einspeisevergütungssystem nach Artikel 19 teilnehmen oder Betriebskostenbeiträge nach Artikel 33*a* erhalten.[^15-7]
 
-- a. Bei Elektrizität aus erneuerbaren Energien richtet sie sich nach den vermiedenen Kosten des Netzbetreibers für die Beschaffung gleichwertiger Elektrizität.
-- b. Für Elektrizität aus fossil und teilweise fossil befeuerten Wärme-Kraft-Kopplungsanlagen richtet sie sich nach dem Marktpreis im Zeitpunkt der Einspeisung.
-- c. Bei Biogas orientiert sie sich am Preis, den der Netzbetreiber für den Kauf bei einem Dritten zu bezahlen hätte.
-
-<sup>4</sup> Die Absätze 1–3 gelten nicht, solange die Produzenten am Einspeisevergütungssystem (Art. 19) teilnehmen.[^15-1]
-
-[^15-1]: Fassung gemäss Ziff. I des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2023 ([AS 2022 729](https://fedlex.data.admin.ch/eli/oc/2022/729); [BBl 2021 1314](https://fedlex.data.admin.ch/eli/fga/2021/1314), [1316](https://fedlex.data.admin.ch/eli/fga/2021/1316)).
+[^15-1]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-2]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)). Berichtigt von der RedK der BVers am 22. Febr. 2024 (Art. 58 Abs. 1 ParlG; [SR 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^15-3]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-4]: Eingefügt durch Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-5]: [SR 734.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8592)
+[^15-6]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
+[^15-7]: Fassung gemäss Ziff. I 1 des BG vom 29. Sept. 2023 über eine sichere Stromversorgung mit erneuerbaren Energien, in Kraft seit 1. Jan. 2026 ([AS 2024 679](https://fedlex.data.admin.ch/eli/oc/2024/679); [BBl 2021 1666](https://fedlex.data.admin.ch/eli/fga/2021/1666)).
 
 #### Art. 16
 
@@ -860,7 +861,7 @@ Mit dem Netzzuschlag werden finanziert:
 - b. die nicht durch Marktpreise gedeckten Kosten für Einspeisevergütungen nach bisherigem Recht;
 - c. die nicht durch Marktpreise gedeckten Kosten für die Mehrkosten-Vergütungen nach Artikel 73 Absatz 4;
 - d.[^35-1] die Investitionsbeiträge nach dem 5. Kapitel;
-- d<sup>bis</sup>.[^35-2] die Einmalvergütung nach Artikel 71*a* Absatz 4;
+- d<sup>bis</sup>.[^35-2] ...
 - d<sup>ter</sup>.[^35-3] die gleitende Marktprämie nach dem 5*a*. Kapitel;
 - e. die Marktprämie für Elektrizität aus Grosswasserkraftanlagen nach Artikel 30;
 - f. die Kosten der wettbewerblichen Ausschreibungen nach Artikel 32;
@@ -1576,11 +1577,11 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 #### Art. 71a
 
-**Übergangsbestimmungen zur Änderung vom 30. September 2022 (Produktion von zusätzlicher Elektrizität aus Photovoltaik-Grossanlagen)**[^71a-1]
+**Übergangsbestimmungen zur Produktion von zusätzlicher Elektrizität aus Photovoltaik-Grossanlagen**[^71a-1]
 
 <sup>1</sup>
 
-Bis die Erstellung von Photovoltaik-Grossanlagen nach Absatz 2 schweizweit eine jährliche Gesamtproduktion von maximal 2 TWh erlaubt, gilt für solche Anlagen, sowie für ihre Anschlussleitungen, dass:
+Für Photovoltaik-Grossanlagen nach Absatz 2, ihre Anschlussleitungen und die erforderlichen Netzverstärkungen gilt, sofern bis zum 31. Dezember 2025 das Baugesuch öffentlich aufgelegt wurde und schweizweit eine jährliche Gesamtproduktion von 2 TWh aus solchen rechtskräftig bewilligten Anlagen voraussichtlich noch nicht erreicht wird, dass:
 
 - a. ihr Bedarf ausgewiesen ist;
 - b. sie von nationalem Interesse und standortgebunden sind; bei Anlagen in Objekten nach Artikel 5 NHG[^71a-2] bleibt bei einer Abweichung von der ungeschmälerten Erhaltung die Pflicht zur grösstmöglichen Schonung unter Einbezug von Wiederherstellungs- oder Ersatzmassnahmen bestehen;
@@ -1599,35 +1600,21 @@ Bis die Erstellung von Photovoltaik-Grossanlagen nach Absatz 2 schweizweit eine 
 Die Photovoltaik-Grossanlagen müssen folgende Voraussetzungen erfüllen:
 
 - a. die jährliche Mindestproduktion beträgt 10 GWh; und
-- b. die Stromproduktion vom 1. Oktober−31. März (Winterhalbjahr) beträgt mindestens 500 kWh pro 1 kW installierter Leistung.
+- b. die Stromproduktion vom 1. Oktober–31. März (Winterhalbjahr) beträgt mindestens 500 kWh pro 1 kW installierter Leistung.
 
-<sup>3</sup> Die Bewilligung für Photovoltaik-Grossanlagen wird durch den Kanton erteilt, wobei die Zustimmung der Standortgemeinde und der Grundeigentümer vorliegen muss.
+<sup>3</sup> Die Bewilligung für Photovoltaik- Grossanlagen wird durch den Kanton erteilt, wobei die Zustimmung der Standortgemeinde und der Grundeigentümer vorliegen muss.
 
-<sup>4</sup> Anlagen, die bis zum 31. Dezember 2025 mindestens teilweise Elektrizität ins Stromnetz einspeisen, erhalten vom Bund eine Einmalvergütung in der Höhe von maximal 60 Prozent der Investitionskosten. Der Bundesrat legt die Ansätze im Einzelfall fest; die Betreiber reichen dazu eine Wirtschaftlichkeitsrechnung ein. Netzverstärkungen, die notwendig werden zur Einspeisung von Elektrizität der Anlagen, sind Teil der Systemdienstleistungen der nationalen Netzgesellschaft.
+<sup>4</sup> Die Anlagen erhalten vom Bund eine Einmalvergütung in der Höhe von maximal 60 Prozent der Investitionskosten. Der Bundesrat legt die Ansätze im Einzelfall fest; die Betreiber reichen dazu eine Wirtschaftlichkeitsrechnung ein. Netzverstärkungen, die notwendig werden zur Einspeisung von Elektrizität der Anlagen, sind Teil der Systemdienstleistungen der nationalen Netzgesellschaft.
 
 <sup>5</sup> Die Anlagen werden bei endgültiger Ausserbetriebnahme vollständig zurückgebaut und die Ausgangslage wiederhergestellt.
 
-<sup>6</sup> Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
-
-[^71a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
+[^71a-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)). Fassung gemäss Ziff. I des BG vom 21. März 2025 (Realisierung von geplanten alpinen Photovoltaikanlagen), in Kraft seit 1. Jan. 2026 ([AS 2025 505](https://fedlex.data.admin.ch/eli/oc/2025/505); [BBl 2023 1602](https://fedlex.data.admin.ch/eli/fga/2023/1602)).
 [^71a-2]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^71a-3]: [SR 922.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10979)
 
 #### Art. 71b
 
-**Übergangsbestimmungen zur Änderung vom 30. September 2022 (Produktion von zusätzlicher Elektrizität aus Speicherwasserkraftwerken)**[^71b-1]
-
-<sup>1</sup>
-
-Für die Erweiterung des Speicherwasserkraftwerks nach Absatz 2 gilt, dass:
-
-- a. der Bedarf ausgewiesen ist;
-- b. dafür keine Planungspflicht besteht;
-- c. das Interesse an der Realisierung anderen nationalen, regionalen und lokalen Interessen grundsätzlich vorgeht.
-
-<sup>2</sup> Absatz 1 gilt für sämtliche zur Realisierung des Vorhabens nötigen und zur rationellen Nutzung der Wasserkraft gebotenen Massnahmen innerhalb des Kraftwerksystems beim Projekt Grimselsee (Gemeinde Guttannen [BE]) mit Erhöhung des Grimselsees um 23 m und Verlegung der Grimselpassstrasse.
-
-<sup>3</sup> Dieser Artikel bleibt auf Gesuche, die bis am 31. Dezember 2025 öffentlich aufgelegt werden, sowie bei allfälligen Beschwerdeverfahren anwendbar.
+[^71b-1]
 
 [^71b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543); [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
@@ -1744,9 +1731,7 @@ Für Endverbraucherinnen und Endverbraucher, die eine Zielvereinbarung nach bish
 
 #### Art. 75b
 
-**Übergangsbestimmung zur Änderung vom 30. September 2022 (Pflicht zur Nutzung der Sonnenenergie bei Gebäuden)**[^75b-1]
-
-Die Kantone erlassen die Ausnahmebestimmungen gemäss Artikel 45*a* Absatz 2 bis zum 1. Januar 2023. Gesuche, die vor diesem Zeitpunkt eingereicht werden, unterstehen der Pflicht gemäss Artikel 45*a* Absatz 1 nicht.
+[^75b-1]
 
 [^75b-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), in Kraft vom 1. Okt. 2022 bis zum 31. Dez. 2025 ([AS 2022 543](https://fedlex.data.admin.ch/eli/oc/2022/543), dort Art. 75*a*; [BBl 2022 1536](https://fedlex.data.admin.ch/eli/fga/2022/1536), [1540](https://fedlex.data.admin.ch/eli/fga/2022/1540)).
 
