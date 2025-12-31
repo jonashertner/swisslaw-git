@@ -4,13 +4,12 @@ number: "548.120"
 title: Ausführungsbestimmungen zum Gesetz über die Familienzulagen
 short: ABzKFZG
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-29
+version: 2026-01-01
+version_adopted: 2025-10-14
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.120"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3476/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3476/pdf_file"
 
 (ABzKFZG)
 
-Vom 28.10.2008 (Stand 01.01.2025)
+Vom 28.10.2008 (Stand 01.01.2026)
 
 Von der Regierung erlassen am 28. Oktober 2008
 
@@ -31,8 +30,8 @@ Von der Regierung erlassen am 28. Oktober 2008
 
 <sup>1</sup> Der Mindestansatz der Familienzulage beträgt je Monat:
 
-- a) 230 Franken für die Kinderzulage;
-- b) 280 Franken für die Ausbildungszulage.
+- a) 240 Franken für die Kinderzulage;
+- b) 290 Franken für die Ausbildungszulage.
 
 <sup>2</sup> Die Familienausgleichskasse des Kantons Graubünden richtet den Mindestansatz aus.
 
@@ -152,9 +151,9 @@ Von der Regierung erlassen am 28. Oktober 2008
 
 **Beitragssätze**
 
-<sup>1</sup> Die der Familienausgleichskasse des Kantons Graubünden angeschlossenen Arbeitgebenden leisten einen Beitrag von 1.60 Prozent des AHV-beitragspflichtigen Einkommens der Arbeitnehmenden.
+<sup>1</sup> Die der Familienausgleichskasse des Kantons Graubünden angeschlossenen Arbeitgebenden leisten einen Beitrag von 1.50 Prozent des AHV-beitragspflichtigen Einkommens der Arbeitnehmenden.
 
-<sup>2</sup> Die ihr angeschlossenen Selbstständigerwerbenden und Arbeitnehmenden mit Arbeitgebenden ohne Beitragspflicht leisten einen Beitrag von 1.60 Prozent des AHV-beitragspflichtigen Einkommens.
+<sup>2</sup> Die ihr angeschlossenen Selbstständigerwerbenden und Arbeitnehmenden mit Arbeitgebenden ohne Beitragspflicht leisten einen Beitrag von 1.50 Prozent des AHV-beitragspflichtigen Einkommens.
 
 #### Art. 14
 

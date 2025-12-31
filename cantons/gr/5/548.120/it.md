@@ -4,13 +4,12 @@ number: "548.120"
 title: Disposizioni esecutive della legge sugli assegni familiari
 short: DE LAF
 language: it
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-29
+version: 2026-01-01
+version_adopted: 2025-10-14
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/548.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3476/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3580/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3476/pdf_file"
 
 (DE LAF)
 
-del 28.10.2008 (stato 01.01.2025)
+del 28.10.2008 (stato 01.01.2026)
 
 emanate dal Governo il 28 ottobre 2008
 
@@ -31,8 +30,8 @@ emanate dal Governo il 28 ottobre 2008
 
 <sup>1</sup> La quota minima dell'assegno familiare ammonta al mese a:
 
-- a) 230 franchi per l'assegno per i figli;
-- b) 280 franchi per l'assegno di formazione.
+- a) 240 franchi per l'assegno per i figli;
+- b) 290 franchi per l'assegno di formazione.
 
 <sup>2</sup> La Cassa di compensazione per gli assegni familiari del Cantone dei Grigioni versa la quota minima.
 
@@ -152,9 +151,9 @@ emanate dal Governo il 28 ottobre 2008
 
 **Aliquote contributive**
 
-<sup>1</sup> I datori di lavoro affiliati alla Cassa di compensazione per gli assegni familiari del Cantone dei Grigioni versano un contributo dell'1,60 per cento del reddito soggetto all'AVS dei dipendenti.
+<sup>1</sup> I datori di lavoro affiliati alla Cassa di compensazione per gli assegni familiari del Cantone dei Grigioni versano un contributo dell'1,50 per cento del reddito soggetto all'AVS dei dipendenti.
 
-<sup>2</sup> Le persone esercitanti un'attività lucrativa indipendente e i dipendenti con datori di lavoro non tenuti al pagamento dei contributi a essa affiliati versano un contributo dell'1,60 per cento del reddito soggetto all'AVS.
+<sup>2</sup> Le persone esercitanti un'attività lucrativa indipendente e i dipendenti con datori di lavoro non tenuti al pagamento dei contributi a essa affiliati versano un contributo dell'1,50 per cento del reddito soggetto all'AVS.
 
 #### Art. 14
 

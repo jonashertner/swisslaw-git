@@ -4,13 +4,12 @@ number: "548.120"
 title: Disposiziuns executivas tar la lescha davart ils supplements da famiglia
 short: DERtLSF
 language: rm
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-29
+version: 2026-01-01
+version_adopted: 2025-10-14
 adopted: 2008-10-28
 in_force: 2009-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/548.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3476/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3580/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3476/pdf_file"
 
 (DERtLSF)
 
-dals 28-10-2008 (versiun dals 01-01-2025)
+dals 28-10-2008 (versiun dals 01-01-2026)
 
 relaschadas da la regenza ils 28 d'october 2008
 
@@ -31,8 +30,8 @@ relaschadas da la regenza ils 28 d'october 2008
 
 <sup>1</sup> La tariffa minimala dal supplement da famiglia importa mintga mais:
 
-- a) 230 francs per il supplement per uffants;
-- b) 280 francs per il supplement per scolaziun.
+- a) 240 francs per il supplement per uffants;
+- b) 290 francs per il supplement per scolaziun.
 
 <sup>2</sup> La cassa da cumpensaziun per famiglias dal chantun Grischun paja la tariffa minimala.
 
@@ -152,9 +151,9 @@ relaschadas da la regenza ils 28 d'october 2008
 
 **Tariffas da contribuziun**
 
-<sup>1</sup> Las patrunas ed ils patruns ch'èn associads a la cassa da cumpensaziun per famiglias dal chantun Grischun prestan ina contribuziun dad 1,60 pertschient da l'entrada da las lavurantas e dals lavurants ch'è suttamessa a las contribuziuns da la AVS.
+<sup>1</sup> Las patrunas ed ils patruns ch'èn associads a la cassa da cumpensaziun per famiglias dal chantun Grischun prestan ina contribuziun dad 1,50 pertschient da l'entrada da las lavurantas e dals lavurants ch'è suttamessa a las contribuziuns da la AVS.
 
-<sup>2</sup> Las persunas cun activitad da gudogn independenta e las lavurantas ed ils lavurants ch'èn associads ad ellas e che han patrunas e patruns che n'han betg in'obligaziun da pajar contribuziuns, prestan ina contribuziun dad 1,60 pertschient da l'entrada ch'è suttamessa a las contribuziuns da la AVS.
+<sup>2</sup> Las persunas cun activitad da gudogn independenta e las lavurantas ed ils lavurants ch'èn associads ad ellas e che han patrunas e patruns che n'han betg in'obligaziun da pajar contribuziuns, prestan ina contribuziun dad 1,50 pertschient da l'entrada ch'è suttamessa a las contribuziuns da la AVS.
 
 #### Art. 14
 
