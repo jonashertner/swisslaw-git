@@ -4,13 +4,13 @@ number: "428.511"
 title: Verordnung über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsverordnung, BeV"
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-30
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-08-13
 adopted: 2006-11-08
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.511"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3696/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3867/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3696/pdf_file"
 
 (Betreuungsverordnung, BeV)
 
-Vom 08.11.2006 (Stand 01.01.2025)
+Vom 08.11.2006 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -57,6 +57,8 @@ beschliesst:
 **Einrichtungen mit Angeboten der aufsuchenden Familienarbeit**
 
 <sup>1</sup> Einrichtungen mit Angeboten der aufsuchenden Familienarbeit beraten, begleiten und unterstützen Kinder und Jugendliche sowie deren Familien in ihrem Umfeld bei der Bewältigung von Krisen, Konflikten und gravierenden Alltagsproblemen mit dem Ziel, einen Aufenthalt in einer stationären Einrichtung oder einer Pflegefamilie zu vermeiden.
+
+<sup>1<sup>bis</sup></sup> Die Angebote haben auch zum Ziel, eine problematische Situation in einer Regelklasse zu entschärfen oder einen Aufenthalt in einer Tagessonderschule zu vermeiden.
 
 <sup>2</sup> Die Angebote umfassen auch die Nachbetreuung von Kindern und Jugendlichen in ihrem familiären Umfeld nach einem Aufenthalt in einer stationären Einrichtung oder einer Pflegefamilie.
 
@@ -927,11 +929,19 @@ beschliesst:
 
 <sup>1</sup> Die Rechnungslegung nach dem Rechnungslegungsstandard Swiss GAAP FER 21 ist für die Einrichtungen gemäss § 20 Abs. 2<sup>bis</sup> ab Jahresabschluss 2027 obligatorisch.
 
+#### § 63e
+
+**Aufsuchende Familienarbeit**
+
+<sup>1</sup> Der Gemeindebeitrag gemäss § 53 Abs. 1 lit. c und der Elternbeitrag gemäss § 54 Abs. 1 lit. d betragen für den Zeitraum vom 1. Januar 2026 bis 31. Dezember 2027 Fr. 620.– anstatt Fr. 930.– beziehungsweise Fr. 120.– anstatt Fr. 180.– pro Familie und Kalendermonat.
+
 #### § 64
 
 **Publikation und Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren. Sie tritt am 1. Januar 2007 in Kraft.
+
+<sup>2</sup> § 1a Abs. 1<sup>bis</sup> ist befristet bis 31. Dezember 2027.
 
 Aarau, 8. November 2006
 
