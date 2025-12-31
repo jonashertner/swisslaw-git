@@ -3,11 +3,10 @@ canton: ZH
 number: "631.611"
 title: Beschluss des Regierungsrates über die Festsetzung und Berechnung der Zinsen für die Staats- und Gemeindesteuern
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2007-07-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_611-2007_07_11-2008_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-631_611-2007_07_11-2008_01_01-131.html"
 text: pdf
 ---
 
@@ -30,7 +29,7 @@ IV.[^t-1] Auf die Erhebung von Verzugszinsen von weniger als Fr. 100 kann ab 1. 
 [^t-1]: Fassung gemäss RRB vom 24. Juni 2015 (OS 70, 316; ABl 2015-07-03). In Kraft seit 1. Januar 2016.
 [^t-2]: OS 62, 404.
 [^t-3]: LS 631.1.
-[^t-4]: Fassung gemäss RRB vom 10. Mai 2023 (OS 78, 312; ABl 2023-05-19). In Kraft seit 1. Januar 2024. 1. 1. 24 - 123 1
+[^t-4]: Fassung gemäss RRB vom 18. Juni 2025 (OS 80, 225; ABl 2025-06-27). In Kraft seit 1. Januar 2026. 1. 1. 26 - 131 1
 
 ### Anhang
 
@@ -38,14 +37,18 @@ IV.[^t-1] Auf die Erhebung von Verzugszinsen von weniger als Fr. 100 kann ab 1. 
 
 ### Verzinsungszeitraum
 
-**Ab**
+**ab**
 
-### 1.1. 2008– 1.1. 2012– 1.1. 2016– 1.1. 2020– 1.5. 2020– 1.1. 2021 31.12. 2011 31.12. 2015 31.12. 2019 30. 4. 2020 31.12. 2020 31.12. 2023 1.1. 2024
+### 1.1. 2012– 1.1. 2016– 1.1. 2020– 1.5. 2020– 1.1. 2021– 1.1. 2024– 31.12. 2015 31.12. 2019 30. 4. 2020 31.12. 2020 31.12. 2023 31.12. 2025 1.1. 2026
 
-**1%**
+**1% 0,75%**
 
-**1%**
+**1% 0,75%**
 
-**1% 4,5%**
+**1% 0,75% 4,5% 4,5%**
 
-Vergütungszins 2,0% 1,5% 0,5% 0,25% 0,25% 0,25% (Zins zugunsten der Steuerpflichtigen) Ausgleichszins 2,0% 1,5% 0,5% 0,25% 0,25% 0,25% (Zins zulasten der Steuerpflichtigen) Zins auf Nachsteuern 2,0% 1,5% 0,5% 0,25% 0,25% 0,25% Verzugszins 4,5% 4,5% 4,5% 4,5% 0,25% 4,5% für periodische und nicht periodische Steuern
+Vergütungszins 1,5% 0,5% 0,25% 0,25% 0,25% (Zins zugunsten der Steuerpflichtigen) Ausgleichszins 1,5% 0,5% 0,25% 0,25% 0,25% (Zins zulasten der Steuerpflichtigen) Zins auf Nachsteuern 1,5% 0,5% 0,25% 0,25% 0,25% Verzugszins 4,5% 4,5% 4,5% 0,25% 4,5% für periodische und nicht periodische Steuern
+
+## Weitere Fussnoten
+
+- [4] Fassung gemäss RRB vom 10. Mai 2023 (OS 78, 312; ABl 2023-05-19). In Kraft seit 1. Januar 2024.
