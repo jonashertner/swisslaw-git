@@ -1,39 +1,45 @@
 ---
 canton: BL
 number: "144.611"
-title: Verordnung über die Gebühren des Lufthygieneamtes beider Basel
+title: Verordnung über die Gebühren zum Vollzug der Luftreinhalte-Verordnung (LRV) und der Verordnung über den Schutz vor nichtionisierender Strahlung (NISV)
 language: de
-version: 2012-07-01
-valid_until: 2025-12-31
-version_adopted: 2012-06-19
+version: 2026-01-01
+version_adopted: 2026-01-27
 adopted: 1994-12-20
 in_force: 1995-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.611"
-pdf: "https://bl.clex.ch/api/de/versions/416/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4443/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Gebühren des Lufthygieneamtes beider Basel
+# Verordnung über die Gebühren zum Vollzug der Luftreinhalte-Verordnung (LRV) und der Verordnung über den Schutz vor nichtionisierender Strahlung (NISV)
 
-Vom 20.12.1994 (Stand 01.07.2012)
+Vom 20.12.1994 (Stand 01.01.2026)[^t-1][^t-2]
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf Artikel 48 des Bundesgesetzes vom 7. Oktober 1983[^ingress-1] über den Umweltschutz und § 24 des Verwaltungsverfahrensgesetzes vom 13. Juni 1988[^ingress-2], beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
 
-[^ingress-1]: SR 814.01
-[^ingress-2]: GS 29.677, SGS 175
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und Art. 48 des Bundesgesetzes über den Umweltschutz (Umweltschutzgesetz, USG) vom 7. Oktober 1983[^ingress-2] sowie das Verwaltungsverfahrensgesetz (VwVG BL) vom 13. Juni 1988[^ingress-3],
+
+beschliesst:
+
+[^t-1]: [SR 814.318.142.1](https://db.clex.ch/link/Bund/814.318.142.1/de)
+[^t-2]: [SR 814.710](https://db.clex.ch/link/Bund/814.710/de)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SR 814.01](https://db.clex.ch/link/Bund/814.01/de)
+[^ingress-3]: [SGS 175](https://bl.clex.ch/data/175/de)
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung regelt die Gebühren des Lufthygieneamtes beider Basel für Tätigkeiten beim Vollzug der Luftreinhalte-Verordnung (LRV) und der Verordnung über den Schutz vor nichtionisierender Strahlung (NISV) sowie für die Zurverfügungstellung von Daten an Dritte.
+<sup>1</sup> Diese Verordnung regelt die Gebühren des Amts für Umweltschutz und Energie für Tätigkeiten beim Vollzug der LRV und der NISV sowie für die Zurverfügungstellung von Daten an Dritte.
 
 #### § 2
 
 **Gebührenpflichtige Tätigkeiten**
 
-<sup>1</sup> Das Lufthygieneamt beider Basel erhebt Gebühren für folgende Tätigkeiten:
+<sup>1</sup> Das Amt für Umweltschutz und Energie erhebt Gebühren für folgende Tätigkeiten:
 
 - a. Kontrollen, Messungen und andere Untersuchungen,
 - b. Prüfung und Beurteilung von Mess- und Kontrollberichten,
@@ -42,7 +48,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf Artikel 48 des Bun
 
 <sup>2</sup> Die Gebühren für Untersuchungen, die von Amtes wegen angeordnet werden, sind vom Inhaber oder von der Inhaberin der Anlage beziehungsweise vom Verursacher oder von der Verursacherin zu tragen.
 
-<sup>3</sup> Wer Untersuchungen durch Beanstandungen veranlasst, die sich als unberechtigt erweisen, kann zur Entrichtung einer Gebühr verpflichtet werden. Das Lufthygieneamt macht rechtzeitig auf diese Regelung aufmerksam. Es kann Kostenvorschüsse verlangen.
+<sup>3</sup> Wer Untersuchungen durch Beanstandungen veranlasst, die sich als unberechtigt erweisen, kann zur Entrichtung einer Gebühr verpflichtet werden. Das Amt für Umweltschutz und Energie macht rechtzeitig auf diese Regelung aufmerksam. Es kann Kostenvorschüsse verlangen.
 
 <sup>4</sup> Wenn sich eine Beanstandung als berechtigt erweist, ist die Gebühr durch den Inhaber oder die Inhaberin der betroffenen Anlage beziehungsweise durch den Verursacher oder die Verursacherin zu tragen.
 
@@ -50,7 +56,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf Artikel 48 des Bun
 
 **Gebührenansätze**
 
-<sup>1</sup> Soweit die Gebühren für bestimmte Tätigkeiten nicht im Anhang dieser Verordnung festgelegt sind, erhebt das Lufthygieneamt beider Basel kostendeckende Gebühren aufgrund des tatsächlichen Personal- und Sachaufwandes nach der Weisung betreffend Weiterverrechnung von Arbeitsleistungen der Bau- und Umweltschutzdirektion Basel-Landschaft.
+<sup>1</sup> Soweit die Gebühren für bestimmte Tätigkeiten nicht im Anhang dieser Verordnung festgelegt sind, erhebt das Amt für Umweltschutz und Energie kostendeckende Gebühren aufgrund des tatsächlichen Personal- und Sachaufwands nach der Weisung betreffend die Weiterverrechnung von Arbeitsleistungen der Bau- und Umweltschutzdirektion Basel-Landschaft.
 
 #### § 4
 
@@ -62,7 +68,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf Artikel 48 des Bun
 
 **Abnahmekontrollen**
 
-<sup>1</sup> Für die Abnahmekontrollen (exklusive Messungen) von baubewilligungspflichtigen Vorhaben werden in der Regel vom Lufthygieneamt keine Gebühren erhoben.
+<sup>1</sup> Für die Abnahmekontrollen (exklusive Messungen) von baubewilligungspflichtigen Vorhaben werden in der Regel keine Gebühren erhoben.
 
 <sup>2</sup> Für Nachkontrollen bei festgestellten Mängeln oder wenn die Abnahmekontrolle überdurchschnittliche Aufwändungen erfordert, kann der zusätzliche Aufwand gemäss § 3 in Rechnung gestellt werden.
 
