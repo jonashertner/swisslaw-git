@@ -4,11 +4,11 @@ title: "Ordinanza del 20 novembre 1959 sull'assicurazione dei veicoli (OAV)"
 short: OAV
 eli: "https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317"
 language: it
-version: 2024-05-01
+version: 2026-01-01
 adopted: 1959-11-20
 in_force: 1959-11-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20240501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1959-1271_1321_1317-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it"
 
 (OAV)[^t-1]
 
-del 20 novembre 1959 (Stato 1° maggio 2024)
+del 20 novembre 1959 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del 6 ott. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Secondo la medesima disp. nella numerazione degli art. aggiuntivi agli avverbi numerali sono state sostituite le lettere minuscole.
+[^t-1]: Nuovo testo giusta la cifra I dell’O del 6 ott. 1980, in vigore dal 1° gen. 1981 ([RU 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Secondo la medesima disp. nella numerazione degli art. aggiuntivi agli avverbi numerali sono state sostituite le lettere minuscole.
 
 Il Consiglio federale svizzero,
 
@@ -27,8 +27,8 @@ visti gli articoli 25, 64, 67 capoverso 3, 70 capoverso 3, 72 capoverso 1, 74 ca
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: Nuovo testo giusta la cifra III n. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ## Parte prima: Disposizioni generali
 
@@ -40,9 +40,9 @@ ordina:
 
 <sup>2</sup> Restano riservate le prescrizioni speciali della legge federale del 29 marzo 1950[^1-3] sulle imprese filoviarie.
 
-[^1-1]: Giusta il n. I dell’O del 12 ott. 2012 i titoli marginali sono sostituiti con rubriche, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
-[^1-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
-[^1-3]: [RS 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
+[^1-1]: Giusta la cifra I dell’O del 12 ott. 2012 i titoli marginali sono sostituiti con rubriche, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^1-2]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^1-3]: [RS 744.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8875)
 
 #### Art. 2
 
@@ -60,7 +60,7 @@ ordina:
 
 [^part2-chap1-1]
 
-[^part2-chap1-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^part2-chap1-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
 
 ### I. Attestato d’assicurazione
 
@@ -72,8 +72,8 @@ ordina:
 
 <sup>2</sup> Per gli autoveicoli e gli autotreni trasportanti persone, i minimi di assicurazione per sinistro ammontano a 10 milioni di franchi se il veicolo contiene posti da 10 a 50 persone e a 20 milioni di franchi se il veicolo contiene posti per più di 50 persone.
 
-[^3-1]: Introdotto dal n. I dell’O del 15 ott. 1975 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)). Nuovo testo giusta il n. I dell’O del 14 gen. 2004, in vigore dal 1° gen. 2005 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
-[^3-2]: Nuovo termine giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^3-1]: Introdotto dalla cifra I dell’O del 15 ott. 1975 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)). Nuovo testo giusta la cifra I dell’O del 14 gen. 2004, in vigore dal 1° gen. 2005 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^3-2]: Nuovo termine giusta la cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 3a
 
@@ -102,9 +102,9 @@ Le autorità di ammissione notificano all’Ufficio federale delle strade (USTRA
 
 <sup>5</sup> L’USTRA[^3a-3] inoltra i dati di cui al capoverso 4 all’assicuratore che ha rilasciato l’attestato d’assicurazione.
 
-[^3a-1]: Originario art. 3. Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
-[^3a-2]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
-[^3a-3]: Nuova espressione giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3a-1]: Originario art. 3. Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^3a-2]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+[^3a-3]: Nuova espressione giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -116,7 +116,7 @@ Le autorità di ammissione notificano all’Ufficio federale delle strade (USTRA
 
 <sup>3</sup> Gli attestati d’assicurazione devono essere rilasciati in forma elettronica e trasmessi dall’assicuratore al sistema d’informazione sull’ammissione alla circolazione. La forma e le modalità di trasmissione degli attestati d’assicurazione sono disciplinate dall’allegato 1.[^4-1]
 
-[^4-1]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^4-1]: Nuovo testo giusta l’all. 4 cifra II n. 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 5
 
@@ -135,11 +135,11 @@ Gli attestati d’assicurazione possono essere rilasciati:
 
 <sup>4</sup> Gli attestati internazionali d’assicurazione (carta verde) sono rilasciati dall’Ufficio nazionale di assicurazione o, con il consenso del medesimo, dagli assicuratori autorizzati ad operare in Svizzera nel campo dell’assicurazione di responsabilità civile per i veicoli a motore.[^5-5]
 
-[^5-1]: Nuovo testo giusta l’all. n. II 2 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
+[^5-1]: Nuovo testo giusta l’all. cifra II n. 2 dell’O del 23 feb. 2005 concernente i veicoli della Confederazione e i loro conducenti, in vigore dal 1° mar. 2005 ([RU 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^5-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^5-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
-[^5-4]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
-[^5-5]: Introdotto dal n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^5-5]: Introdotto dalla cifra I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 
 #### Art. 6
 
@@ -151,8 +151,8 @@ Gli attestati d’assicurazione possono essere rilasciati:
 
 3 …[^6-2]
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
-[^6-2]: Abrogato dal n. I dell’O del 1° lug. 1992, con effetto dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^6-2]: Abrogato dalla cifra I dell’O del 1° lug. 1992, con effetto dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 
 ### II. Sospensione e cessazione dell’assicurazione
 
@@ -168,8 +168,8 @@ Gli attestati d’assicurazione possono essere rilasciati:
 
 <sup>4</sup> Se non è a disposizione un nuovo attestato d’assicurazione e se le targhe di controllo non sono state restituite all’autorità entro 30 giorni dalla scadenza della garanzia prevista nel contratto d’assicurazione, le targhe di controllo sono segnalate ai fini del ritiro nel sistema di ricerca informatizzato di polizia (RIPOL).[^7-2]
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
-[^7-2]: Nuovo testo giusta il n. I 16 dell’O del 15 ott. 2008 ( sistemi d’informazione di polizia della Confederazione), in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^7-2]: Nuovo testo giusta la cifra I n. 16 dell’O del 15 ott. 2008 ( sistemi d’informazione di polizia della Confederazione), in vigore dal 5 dic. 2008 ([RU 2008 4943](https://fedlex.data.admin.ch/eli/oc/2008/694)).
 
 #### Art. 7a
 
@@ -181,9 +181,9 @@ Gli attestati d’assicurazione possono essere rilasciati:
 
 <sup>3</sup> Se nel termine di cui sopra non è a disposizione un nuovo attestato d’assicurazione o le targhe di controllo non sono pervenute all’autorità, quest’ultima ordina immediatamente la revoca della licenza di circolazione giusta l’articolo 16 capoverso 1 della legge, incarica la polizia di ritirare la licenza di circolazione e le targhe di controllo e, ai fini del ritiro, segnala le targhe di controllo nel RIPOL.[^7a-3]
 
-[^7a-1]: Introdotto dal n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
-[^7a-2]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
-[^7a-3]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^7a-1]: Introdotto dalla cifra I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^7a-2]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^7a-3]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
 #### Art. 8
 
@@ -193,13 +193,13 @@ Gli attestati d’assicurazione possono essere rilasciati:
 
 <sup>2</sup> La licenza di circolazione e le targhe di controllo possono essere consegnate o rimesse all’autorità per mezzo della posta in qualsiasi momento. Gli effetti dell’assicurazione sono sospesi dal giorno che segue la consegna o la spedizione. Le autorità competenti a riceverle tengono un elenco delle licenze e delle targhe depositate, dal quale risulti da che data l’assicurazione cessa di aver effetto.
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
 
 ### III. Veicoli di riserva e autorizzazione provvisoria di circolazione
 
 [^part2-chap1-lvlIII-1]
 
-[^part2-chap1-lvlIII-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2004, in vigore dal 1° mar. 2004 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^part2-chap1-lvlIII-1]: Nuovo testo giusta la cifra I dell’O del 14 gen. 2004, in vigore dal 1° mar. 2004 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
 
 #### Art. 9
 
@@ -232,16 +232,16 @@ Come veicoli di riserva possono essere ammessi:
 
 <sup>6</sup> In gravi casi motivati l’autorità può ammettere come veicolo di riserva un’automobile o un minibus senza tachigrafo in sostituzione di un veicolo a motore leggero, non più funzionante perché danneggiato o in riparazione, o di un’automobile pesante adibita al trasporto professionale di persone. In siffatto caso la tenuta del libretto di lavoro si fonda sull’articolo 18 capoverso 4 dell’ordinanza del 6 maggio 1981[^9-8] sulla durata del lavoro e del riposo dei conducenti professionali di veicoli leggeri per il trasporto di persone e di automobili pesanti come anche sull’articolo 15 capoverso 1 dell’ordinanza del 19 giugno 1995[^9-9] per gli autisti.[^9-10]
 
-[^9-1]: Nuovo testo giusta il n. I del DCF del 5 set. 1967, in vigore dal 1° gen. 1968 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)).
-[^9-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^9-3]: Nuovo testo giusta il n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
-[^9-4]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^9-5]: Nuovo testo giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
-[^9-6]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^9-7]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
-[^9-8]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
-[^9-9]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^9-10]: Introdotto dal n. I dell’O dell’11 apr. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)). Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
+[^9-1]: Nuovo testo giusta la cifra I del DCF del 5 set. 1967, in vigore dal 1° gen. 1968 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)).
+[^9-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^9-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 645](https://fedlex.data.admin.ch/eli/oc/2025/645), [687](https://fedlex.data.admin.ch/eli/oc/2025/687)).
+[^9-4]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^9-5]: Nuovo testo giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^9-6]: Nuovo testo giusta l’all. 1 cifra II n. 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^9-7]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^9-8]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
+[^9-9]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^9-10]: Introdotto dalla cifra I dell’O dell’11 apr. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)). Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
 
 #### Art. 10
 
@@ -255,8 +255,8 @@ Come veicoli di riserva possono essere ammessi:
 
 <sup>4</sup> …[^10-2]
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
-[^10-2]: Introdotto dall’art. 152 n. 1 dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)). Abrogato dal n. I dell’O dell’11 apr. 2001, con effetto dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^10-2]: Introdotto dall’art. 152 n. 1 dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)). Abrogato dalla cifra I dell’O dell’11 apr. 2001, con effetto dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 #### Art. 10a
 
@@ -275,7 +275,7 @@ Il permesso è rilasciato se:
 
 <sup>4</sup> Il permesso per l’uso dei veicoli di riserva è valido soltanto se in pari tempo viene recata seco la licenza di condurre del veicolo non utilizzabile.
 
-[^10a-1]: Introdotto dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^10a-1]: Introdotto dalla cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 #### Art. 10b
 
@@ -297,10 +297,10 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 
 <sup>5</sup> Se l’attestato d’assicurazione non è stato trasmesso o non è stato trasmesso tempestivamente, l’assicurazione di responsabilità civile valida per il veicolo iniziale si estende anche al nuovo veicolo per 30 giorni al massimo dalla sua messa in circolazione. L’assicuratore può esercitare il regresso verso il detentore inadempiente.[^10b-4]
 
-[^10b-1]: Introdotto dal n. I dell’O del 14 gen. 2004, in vigore dal 1° mar. 2004 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
-[^10b-2]: Nuovo testo giusta l’all. 5 n. II 2 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante, in vigore dal 1° mag. 2024 ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
-[^10b-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
-[^10b-4]: Introdotto dal n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^10b-1]: Introdotto dalla cifra I dell’O del 14 gen. 2004, in vigore dal 1° mar. 2004 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^10b-2]: Nuovo testo giusta l’all. 5 cifra II n. 2 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante, in vigore dal 1° mag. 2024 ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^10b-3]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^10b-4]: Introdotto dalla cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
 ### Capo secondo: Condizioni speciali
 
@@ -317,7 +317,7 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 <sup>3</sup> L’assicuratore non può opporre alla parte lesa la mancanza della copertura contrattuale per i rischi maggiori menzionati nel presente articolo.
 
 [^11-1]: Nuovo testo giusta l’all. n. 2 dell’O del 25 mar. 1998, in vigore dal 1° mag. 1998 ([RU 1998 1188](https://fedlex.data.admin.ch/eli/oc/1998/1188_1188_1188)).
-[^11-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^11-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 
 #### Art. 12
 
@@ -329,7 +329,7 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 
 <sup>3</sup> L’elenco delle merci pericolose è fatto dal Consiglio federale.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2004, in vigore dal 1° gen. 2005 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
+[^12-1]: Nuovo testo giusta la cifra I dell’O del 14 gen. 2004, in vigore dal 1° gen. 2005 ([RU 2004 649](https://fedlex.data.admin.ch/eli/oc/2004/57)).
 [^12-2]: Nuovo testo giusta l’art. 29 cpv. 2 n. 4 dell’O del 29 nov. 2002 concernente il trasporto di merci su strada, in vigore dal 1° gen. 2003 ([RU 2002 4212](https://fedlex.data.admin.ch/eli/oc/2002/685)).
 
 ### II. Targhe di controllo trasferibili
@@ -346,8 +346,8 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 
 <sup>4</sup> Per ogni veicolo usato con targhe trasferibili deve essere rilasciata una licenza di circolazione speciale.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
-[^13-2]: Nuovo testo giusta il n. I del DCF del 5 set. 1967, in vigore dal 1° gen. 1968 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+[^13-2]: Nuovo testo giusta la cifra I del DCF del 5 set. 1967, in vigore dal 1° gen. 1968 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)).
 
 #### Art. 14
 
@@ -396,8 +396,8 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 <sup>5</sup> L’autorità può far dipendere il rilascio della licenza dal pagamento delle tasse e delle imposte dovute per tutta la durata della licenza o dalla prestazione di garanzie equivalenti. Altre cauzioni non possono essere chieste.
 
 [^17-1]: Ora: art. 44
-[^17-2]: Nuovo testo giusta il n. I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
-[^17-3]: Nuovo testo giusta il n. II dell’O del 15 apr. 1987, in vigore dal 1° mag. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^17-3]: Nuovo testo giusta la cifra II dell’O del 15 apr. 1987, in vigore dal 1° mag. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
 
 #### Art. 18
 
@@ -407,8 +407,8 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 
 <sup>2</sup> Ogni targa è munita di marche di controllo conformemente all’allegato 2 lettera B: sulle marche di controllo sono indicati l’anno e il mese in cui scade l’immatricolazione provvisoria.[^18-2]
 
-[^18-1]: Nuovo testo giusta il n. II dell’O del 15 apr. 1987, in vigore dal 1° mag. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
-[^18-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^18-1]: Nuovo testo giusta la cifra II dell’O del 15 apr. 1987, in vigore dal 1° mag. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 
 #### Art. 19
 
@@ -424,9 +424,9 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 
 <sup>5</sup> ...[^19-3]
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
-[^19-2]: Abrogato dal n. I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
-[^19-3]: Abrogato dal n. I dell’O del 1° lug. 1992, con effetto dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2013, in vigore dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+[^19-2]: Abrogato dalla cifra I dell’O del 29 nov. 2013, con effetto dal 1° gen. 2014 ([RU 2013 4691](https://fedlex.data.admin.ch/eli/oc/2013/826)).
+[^19-3]: Abrogato dalla cifra I dell’O del 1° lug. 1992, con effetto dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 
 ### IV. Licenze temporanee
 
@@ -446,7 +446,7 @@ Il detentore può utilizzare nella circolazione in Svizzera, prima del rilascio 
 
 <sup>6</sup> Ai detentori che non rispettano le condizioni imposte dalla licenza temporanea può essere negato, ulteriormente, il rilascio di tali licenze.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 #### Art. 20a
 
@@ -461,7 +461,7 @@ Le licenze temporanee non possono essere usate per:
 - a. il trasporto di merci pericolose per le quali è necessaria una garanzia assicurativa maggiore secondo l’articolo 12;
 - b. i trasporti di cose con veicoli a motore pesanti o con rimorchi il cui peso totale supera i 3500 kg, tranne per i trasporti giusta l’articolo 24 capoverso 4 lettere a e b e capoverso 5.
 
-[^20a-1]: Introdotto dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^20a-1]: Introdotto dalla cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 #### Art. 21
 
@@ -477,8 +477,8 @@ Le licenze temporanee non possono essere usate per:
 
 <sup>5</sup> Se una licenza temporanea è rilasciata per permettere di presentare al controllo ufficiale un veicolo da immatricolare, essa è redatta conformemente all’attestato d’assicurazione del veicolo.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^21-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^21-2]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 ### V. Licenze di circolazione collettive
 
@@ -511,20 +511,20 @@ Oltre che ai veicoli giusta il capoverso 1, possono essere applicate:[^22-6]
 
 <sup>3</sup> L’impiego di queste targhe non esime né dall’obbligo di rispettare le limitazioni concernenti l’uso e la circolazione dei veicoli di lavoro e dei veicoli a motore agricoli e forestali, né da quello di chiedere i permessi per veicoli eccezionali.[^22-14]
 
-[^22-1]: Nuovo testo giusta il n. I del DCF del 5 set. 1967, in vigore dal 1° gen. 1968 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^22-1]: Nuovo testo giusta la cifra I del DCF del 5 set. 1967, in vigore dal 1° gen. 1968 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^22-3]: Nuovo testo giusta l’art. 152 n. 1 dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli, in vigore dal 1° gen. 1977 ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
-[^22-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^22-5]: Nuova espressione giusta il n. I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^22-6]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^22-7]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
-[^22-8]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
-[^22-9]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^22-10]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
-[^22-11]: Introdotta dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^22-12]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^22-13]: Introdotto dall’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^22-14]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
+[^22-4]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^22-5]: Nuova espressione giusta la cifra I dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^22-6]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^22-7]: Nuovo testo giusta l’all. 1 cifra II n. 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
+[^22-8]: Nuovo testo giusta l’all. 1 cifra II n. 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)). Correzione del 24 set. 2021 ([RU 2021 578](https://fedlex.data.admin.ch/eli/oc/2021/578)).
+[^22-9]: Nuovo testo giusta l’all. 1 cifra II n. 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-10]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
+[^22-11]: Introdotta dalla cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^22-12]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^22-13]: Introdotto dall’all. 1 cifra II n. 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^22-14]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
 
 #### Art. 23
 
@@ -540,8 +540,8 @@ Le licenze di circolazione collettive sono rilasciate alle aziende che soddisfan
 
 <sup>2</sup> In via eccezionale l’autorità cantonale può derogare ai requisiti di cui nell’allegato 4 in favore del richiedente o del detentore se dalla valutazione globale dell’azienda risulta che le targhe professionali possono essere rilasciate senza pericolo per la sicurezza del traffico e per l’ambiente.[^23-2]
 
-[^23-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^23-2]: Introdotto dal n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^23-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^23-2]: Introdotto dalla cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 #### Art. 23a
 
@@ -551,8 +551,8 @@ Le licenze di circolazione collettive sono rilasciate alle aziende che soddisfan
 
 <sup>2</sup> Non è più data la garanzia per un uso irreprensibile della licenza di circolazione collettiva segnatamente se il titolare ne ha provocato o tollerato l’uso illecito, omettendo ad esempio di esercitare la necessaria sorveglianza oppure se ha messo in circolazione un veicolo non in grado di funzionare con sicurezza. In casi di lieve entità, può essere minacciato il ritiro.[^23a-2]
 
-[^23a-1]: Introdotto dal n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^23a-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^23a-1]: Introdotto dalla cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^23a-2]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 #### Art. 24
 
@@ -575,21 +575,22 @@ Le targhe professionali possono essere adoperate per:
 
 <sup>4</sup>
 
-I veicoli a motore pesanti e i rimorchi pesanti provvisti di targhe professionali possono essere utilizzati soltanto per i seguenti trasporti di cose:[^24-2]
+I veicoli a motore e i rimorchi provvisti di targhe professionali aventi un peso totale (art. 7 cpv. 4 OETV[^24-2]) superiore a 3,50 t possono essere utilizzati soltanto per i seguenti trasporti di cose:[^24-3]
 
 - a. trasporti di parti di veicoli in connessione con riparazioni o trasformazioni del veicolo nella propria azienda;
 - b. trasporti di zavorre nei casi di cui nel capoverso 3 lettere b–e;
 - c. rimorchiare a traino, soccorrere e trasferire veicoli in panna o danneggiati in seguito a incidente dal luogo della panna o dell’incidente fino alla più vicina officina di riparazione oppure fino all’azienda del titolare della licenza di circolazione collettiva.
 
-<sup>5</sup> Nei casi di cui al capoverso 3 lettere a e f, nonché al capoverso 4 lettere a e c, le targhe professionali possono essere applicate soltanto a veicoli sdoganati e assoggettati all’imposta secondo la legge del 21 giugno 1996[^24-3] sull’imposizione degli autoveicoli. Nel caso di cui al capoverso 4 lettera a le targhe professionali possono essere applicate anche a veicoli non sdoganati o non assoggettati all’imposta, nella misura in cui i pezzi trasportati siano destinati a lavori sul veicolo.[^24-4]
+<sup>5</sup> Nei casi di cui al capoverso 3 lettere a e f, nonché al capoverso 4 lettere a e c, le targhe professionali possono essere applicate soltanto a veicoli sdoganati e assoggettati all’imposta secondo la legge del 21 giugno 1996[^24-4] sull’imposizione degli autoveicoli. Nel caso di cui al capoverso 4 lettera a le targhe professionali possono essere applicate anche a veicoli non sdoganati o non assoggettati all’imposta, nella misura in cui i pezzi trasportati siano destinati a lavori sul veicolo.[^24-5]
 
-<sup>6</sup> Se sono applicate targhe professionali a veicoli a motore o a rimorchi adibiti al trasporto di carichi, il conducente deve prendere seco, oltre alla licenza di circolazione collettiva, un documento indicante il peso totale autorizzato (ad es. il certificato di tipo, la garanzia di fabbrica o la licenza di circolazione rilasciata in occasione di una precedente immatricolazione) e inoltre, se sono applicate targhe professionali ad autotreni, un certificato relativo al carico rimorchiato autorizzato.[^24-5] Per il trasporto di merci pericolose sono necessari un permesso rilasciato dall’autorità e l’assicurazione complementare di cui all’articolo 12.
+<sup>6</sup> Se sono applicate targhe professionali a veicoli a motore o a rimorchi adibiti al trasporto di carichi, il conducente deve prendere seco, oltre alla licenza di circolazione collettiva, un documento indicante il peso totale autorizzato (ad es. il certificato di tipo, la garanzia di fabbrica o la licenza di circolazione rilasciata in occasione di una precedente immatricolazione) e inoltre, se sono applicate targhe professionali ad autotreni, un certificato relativo al carico rimorchiato autorizzato.[^24-6] Per il trasporto di merci pericolose sono necessari un permesso rilasciato dall’autorità e l’assicurazione complementare di cui all’articolo 12.
 
-[^24-1]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^24-2]: Nuovo testo giusta l’all. 5 n. II 2 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante, in vigore dal 1° mag. 2024 ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
-[^24-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^24-4]: Nuovo testo giusta l’appendice n. 4 dell’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^24-5]: Nuovo testo giusta l’all. 1 n. II 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^24-1]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^24-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^24-3]: Nuovo testo giusta la cifra I dell’O del 15 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 645](https://fedlex.data.admin.ch/eli/oc/2025/645)).
+[^24-4]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^24-5]: Nuovo testo giusta l’appendice n. 4 dell’O del 20 nov. 1996 sull’imposizione degli autoveicoli, in vigore dal 1° gen. 1997 ([RU 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^24-6]: Nuovo testo giusta l’all. 1 cifra II n. 6 dell’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali, in vigore dal 1° ott. 1995 ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 25
 
@@ -609,11 +610,11 @@ Un veicolo a motore munito di targhe professionali o trainante un rimorchio con 
 <sup>4</sup> …[^25-6]
 
 [^25-1]: Nuovo testo giusta l’art. 152 n. 1 dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli, in vigore dal 1° gen. 1977 ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
-[^25-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^25-3]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^25-4]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^25-5]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^25-6]: Abrogato dal n. I dell’O dell’11 apr. 2001, con effetto dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^25-2]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^25-3]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^25-4]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^25-5]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^25-6]: Abrogato dalla cifra I dell’O dell’11 apr. 2001, con effetto dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
 
 #### Art. 26
 
@@ -625,7 +626,7 @@ Un veicolo a motore munito di targhe professionali o trainante un rimorchio con 
 
 <sup>3</sup> L’uso illecito delle targhe, in particolare da parte di chi non è autorizzato, non può essere opposto al danneggiato. Sono riservate le disposizioni relative al risarcimento dei danni nei casi d’uso di veicoli sottratti (art. 75 LCStr).
 
-[^26-1]: Nuovo testo giusta il n. I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^26-1]: Nuovo testo giusta la cifra I dell’O del 29 nov. 2006, in vigore dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 [^26-2]: Nuovo testo giusta l’art. 152 n. 1 dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli, in vigore dal 1° gen. 1977 ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
 
 ### Capo terzo: Assicurazione di responsabilità civile per le aziende dell’industria dei veicoli a motore e per le manifestazioni sportive
@@ -649,8 +650,8 @@ L’assicurazione prevista dall’articolo 71 capoverso 2 della legge copre la r
 
 <sup>3</sup> A domanda e con decisione dell’autorità cantonale competente, sono esonerati dall’obbligo dell’assicurazione i capi d’azienda in grado di provare che nella loro impresa si trovano soltanto veicoli a motore propri, immatricolati separatamente, o veicoli a motore completamente inutilizzabili.[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
-[^27-2]: Nuovo testo giusta il n. I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^27-2]: Nuovo testo giusta la cifra I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
 
 #### Art. 28
 
@@ -678,8 +679,8 @@ L’autorità cantonale competente deve prendere una decisione quando un capo d�
 
 <sup>3</sup> Quando l’obbligo dell’assicurazione è stato stabilito con decisione dell’autorità non impugnata mediante ricorso, al capo d’azienda che non presenta l’attestato d’assicurazione richiesto secondo l’articolo 71 capoverso 2 della legge, l’autorità fissa un termine di trenta giorni, comminandogli la pena prevista nell’articolo 292 del Codice penale svizzero[^29-2]. Lo stesso principio si applica quando l’assicuratore annuncia la sospensione o la cessazione dell’assicurazione secondo il capoverso 2.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
-[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 ### II. Gare di velocità
 
@@ -709,7 +710,7 @@ In casi particolari, i Cantoni possono proporre al Consiglio federale:
 
 <sup>2</sup> Chi organizza regolarmente manifestazioni su terreni appositamente attrezzati deve consegnare un attestato d’assicurazione di durata illimitata all’autorità cantonale competente. L’assicuratore deve notificare all’autorità la sospensione o la cessazione dell’assicurazione. L’articolo 29 capoverso 3 è applicabile per analogia.[^31-1]
 
-[^31-1]: Nuovo testo del per. giusta il n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^31-1]: Nuovo testo del per. giusta la cifra I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
 
 ### III. Casi speciali
 
@@ -726,8 +727,8 @@ I seguenti veicoli possono essere utilizzati senza licenza di circolazione e tar
 
 <sup>2</sup> L’articolo 29 è applicabile per analogia.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2044 29](https://fedlex.data.admin.ch/eli/oc/2044/29)).
-[^32-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2044 29](https://fedlex.data.admin.ch/eli/oc/2044/29)).
+[^32-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° apr. 2024 ([RU 2024 29](https://fedlex.data.admin.ch/eli/oc/2024/29)).
 
 #### Art. 33
 
@@ -741,7 +742,7 @@ I seguenti veicoli possono essere utilizzati senza licenza di circolazione e tar
 
 [^part3-1]
 
-[^part3-1]: Nuovo testo giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^part3-1]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
 ### I. Ciclomotori
 
@@ -751,7 +752,7 @@ I seguenti veicoli possono essere utilizzati senza licenza di circolazione e tar
 
 La responsabilità civile dei conducenti di ciclomotori è disciplinata dal Codice delle obbligazioni[^34-1].
 
-[^34-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^34-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 35
 
@@ -794,7 +795,7 @@ Ogni servizio di rilascio deve trasmettere all’autorità cantonale la carta d�
 
 [^part3-lvlII-1]
 
-[^part3-lvlII-1]: Nuova espressione giusta il n. I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1319](https://fedlex.data.admin.ch/eli/oc/2015/276)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^part3-lvlII-1]: Nuova espressione giusta la cifra I dell’O del 15 apr. 2015, in vigore dal 1° giu. 2015 ([RU 2015 1319](https://fedlex.data.admin.ch/eli/oc/2015/276)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 38
 
@@ -811,26 +812,26 @@ Sono esonerati dall’obbligo dell’assicurazione secondo l’articolo 63 della
 
 <sup>2</sup> La loro responsabilità civile è disciplinata dal Codice delle obbligazioni[^38-1].
 
-[^38-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^38-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ## Parte quarta: Ufficio nazionale di assicurazione e Fondo nazionale di garanzia
 
 [^part4-1][^part4-2]
 
-[^part4-1]: Nuovo testo giusta il n. I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
-[^part4-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-1]: Nuovo testo giusta la cifra I dell’O del 22 nov. 1995, in vigore dal 1° gen. 1996 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)).
+[^part4-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 ### Capo primo: Ufficio nazionale di assicurazione
 
 [^part4-chap1-1]
 
-[^part4-chap1-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap1-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 ### I. Veicoli a motore stranieri e rimorchi
 
 [^part4-chap1-lvlI-1]
 
-[^part4-chap1-lvlI-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap1-lvlI-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 39
 
@@ -842,9 +843,9 @@ Sono esonerati dall’obbligo dell’assicurazione secondo l’articolo 63 della
 
 <sup>3</sup> Sono considerati esteri i veicoli che sono ammessi alla circolazione in base a una licenza di circolazione straniera e a targhe straniere.[^39-3]
 
-[^39-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
-[^39-2]: Nuovo testo giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
-[^39-3]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^39-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^39-2]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^39-3]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 40
 
@@ -863,7 +864,7 @@ Un credito che superi la garanzia minima svizzera è soddisfatto se:
 
 <sup>4</sup> Per il resto, le pretese della parte lesa sono soggette alle medesime regole dell’azione diretta contro l’assicuratore ai sensi dell’articolo 65 capoverso 1 della legge.
 
-[^40-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^40-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 41
 
@@ -884,7 +885,7 @@ L’Ufficio nazionale di assicurazione designa, entro 30 giorni, un altro rappre
 
 <sup>5</sup> Se le parti lese non ancora risarcite hanno domicilio o dimora abituale all’estero, l’Ufficio nazionale di assicurazione o, con il suo accordo, il rappresentante può incaricare un assicuratore estero o un Ufficio nazionale estero di assicurazione di liquidare il danno a nome dell’Ufficio nazionale di assicurazione, nella misura in cui gli interessati siano d’accordo.
 
-[^41-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^41-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 42
 
@@ -901,7 +902,7 @@ Se la parte lesa intende chiedere il risarcimento del danno giusta l’articolo 
 
 <sup>2</sup> Se la parte lesa viola in modo colpevole l’obbligo di dichiarazione, il risarcimento può essere ridotto nella misura equivalente agli esborsi supplementari a carico dell’Ufficio nazionale di assicurazione.
 
-[^42-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^42-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 43
 
@@ -925,7 +926,7 @@ Il rappresentante deve restituire la pratica all’Ufficio nazionale di assicura
 
 <sup>3</sup> L’Ufficio nazionale di assicurazione revoca al rappresentante la liquidazione del danno nei casi di cui al capoverso 2, se quest’ultimo non restituisce la pratica di sua iniziativa.
 
-[^43-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^43-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 44
 
@@ -952,7 +953,7 @@ I conducenti di veicoli a motore esteri non necessitano di un’assicurazione di
 
 <sup>2</sup> L’Ufficio nazionale di assicurazione comunica all’USTRA la lista degli Stati giusta il capoverso 1.
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^45-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 46
 
@@ -968,7 +969,7 @@ I conducenti di veicoli a motore esteri non necessitano di un’assicurazione di
 
 Se una manifestazione sportiva estera con veicoli a motore attraversa il territorio svizzero, il Cantone interessato può rilasciare la necessaria autorizzazione soltanto a condizione che un assicuratore autorizzato ad esercitare in Svizzera l’assicurazione di responsabilità civile per i veicoli a motore garantisca un risarcimento sufficiente dei danni eventuali.
 
-[^47-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^47-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 48
 
@@ -980,7 +981,7 @@ Se una manifestazione sportiva estera con veicoli a motore attraversa il territo
 
 <sup>3</sup> Se il conducente del veicolo a motore estero non può presentare il documento richiesto (art. 44 e 45), nel rapporto deve essere menzionato questo fatto, con l’indicazione dei motivi addotti dal conducente, e stabilito se e presso quale impresa è stata stipulata un’assicurazione di responsabilità civile per il veicolo.
 
-[^48-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 49
 
@@ -992,7 +993,7 @@ Il sequestro e la confisca da parte della polizia o del giudice penale d’un ve
 
 [^part4-chap1-lvlII-1]
 
-[^part4-chap1-lvlII-1]: Introdotto dal n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap1-lvlII-1]: Introdotto dalla cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 49a
 
@@ -1007,8 +1008,8 @@ Inoltre, esso tiene un registro separato contenente le seguenti informazioni:
 - a. gli istituti d’assicurazione autorizzati ad esercitare in Svizzera un’assicurazione di responsabilità civile per i veicoli a motore e i mandatari per la liquidazione dei sinistri da loro designati all’estero (art. 79*b* LCStr);
 - b. i servizi competenti per la liquidazione designati dalla Confederazione e dai Cantoni secondo l’articolo 73 capoverso 3 della legge.
 
-[^49a-1]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
-[^49a-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^49a-1]: Nuovo testo giusta l’all. 4 cifra II n. 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
+[^49a-2]: Nuovo testo giusta l’all. 4 cifra II n. 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione, in vigore dal 1° gen. 2019 ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 #### Art. 49b
 
@@ -1045,31 +1046,31 @@ Il centro d’informazione fornisce alle parti lese e alle assicurazioni sociali
 
 [^part4-chap2-1]
 
-[^part4-chap2-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap2-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 ### I. …
 
 [^part4-chap2-lvlI-1]
 
-[^part4-chap2-lvlI-1]: Introdotto dal n. I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Abrogato dal n. I dell’O del 12 ott. 2012, con effetto dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^part4-chap2-lvlI-1]: Introdotto dalla cifra I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Abrogato dalla cifra I dell’O del 12 ott. 2012, con effetto dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
 #### Art. 50
 
 [^50-1]
 
-[^50-1]: Abrogato dal n. I dell’O del 12 ott. 2012, con effetto dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^50-1]: Abrogato dalla cifra I dell’O del 12 ott. 2012, con effetto dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
 #### Art. 51
 
 [^51-1]
 
-[^51-1]: Abrogato dal n. I dell’O del 9 dic. 2002, con effetto dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^51-1]: Abrogato dalla cifra I dell’O del 9 dic. 2002, con effetto dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 ### II. Veicoli o mezzi simili a veicoli non identificati o non assicurati
 
 [^part4-chap2-lvlII-1]
 
-[^part4-chap2-lvlII-1]: Introdotto dal n. I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nuovo testo giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^part4-chap2-lvlII-1]: Introdotto dalla cifra I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nuovo testo giusta la cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
 #### Art. 52
 
@@ -1088,11 +1089,11 @@ Se la parte lesa intende chiedere il risarcimento del danno giusta l’articolo 
 
 <sup>4</sup> Se colui che cagiona il danno non ha un’assicurazione di responsabilità civile tenuta a versare le prestazioni o se è contestata l’assenza di una tale assicurazione, il Fondo nazionale di garanzia deve indennizzare anticipatamente la parte lesa.[^52-5]
 
-[^52-1]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
-[^52-2]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
-[^52-3]: Nuovo testo giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
-[^52-4]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
-[^52-5]: Introdotto dal n. I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nuovo testo giusta il n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^52-1]: Nuovo testo giusta la cifra III n. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^52-2]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^52-3]: Nuovo testo giusta la cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^52-4]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^52-5]: Introdotto dalla cifra I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nuovo testo giusta la cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
 #### Art. 53
 
@@ -1120,8 +1121,8 @@ Il rappresentante deve fornire al Fondo nazionale di garanzia le indicazioni nec
 
 <sup>6</sup> Il Fondo nazionale di garanzia revoca al rappresentante la liquidazione del danno nei casi di cui all’articolo 4, se quest’ultimo non restituisce la pratica di sua iniziativa.
 
-[^53-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
-[^53-2]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^53-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^53-2]: Nuovo testo giusta la cifra III n. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 53a
 
@@ -1133,7 +1134,7 @@ Il Fondo nazionale di garanzia copre la responsabilità per i danni causati da:
 - b. veicoli a motore non identificati o non assicurati secondo l’articolo 38, per un ammontare di due milioni di franchi per sinistro, complessivamente per i danni materiali e alle persone;
 - c. ciclisti o utenti di mezzi simili a veicoli non identificati, senza copertura assicurativa o con una copertura insufficiente, per un ammontare di due milioni di franchi per sinistro, complessivamente per i danni materiali e alle persone.
 
-[^53a-1]: Introdotto dal n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^53a-1]: Introdotto dalla cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
 #### Art. 54
 
@@ -1149,14 +1150,14 @@ Sono fatti salvi:
 - b. gli accordi riconosciuti dall’USTRA tra il Fondo nazionale di garanzia e fondi nazionali esteri di garanzia;
 - c. altri casi in cui è accordata la reciprocità.
 
-[^54-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
-[^54-2]: Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^54-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^54-2]: Nuovo testo giusta la cifra III n. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 ### III. Organismo d’indennizzo
 
 [^part4-chap2-lvlIII-1]
 
-[^part4-chap2-lvlIII-1]: Introdotto dal n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap2-lvlIII-1]: Introdotto dalla cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 54a
 
@@ -1182,7 +1183,7 @@ Se sono fatte valere pretese di responsabilità civile presso l’organismo d’
 
 [^part4-chap2-lvlIV-1]
 
-[^part4-chap2-lvlIV-1]: Introdotto dal n. I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nuovo testo giusta il n. III 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^part4-chap2-lvlIV-1]: Introdotto dalla cifra I dell’O del 9 dic. 2002 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)). Nuovo testo giusta la cifra III n. 1 dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
 #### Art. 54a<sup>bis</sup>
 
@@ -1198,7 +1199,7 @@ Se sono fatte valere pretese di responsabilità civile presso l’organismo d’
 
 <sup>5</sup> Se risarcisce i danni causati all’estero da un veicolo a motore o un rimorchio assicurato presso un assicuratore svizzero nei confronti del quale è stata avviata una procedura di risanamento da cui insorgono prestazioni dal Fondo di garanzia, l’Ufficio nazionale di assicurazione esercita il regresso nei confronti di tale assicuratore. Questi disciplina il regresso in modo analogo a una pretesa diretta di terzi lesi.
 
-[^54abis-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^54abis-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 54b
 
@@ -1218,7 +1219,7 @@ Su richiesta di una parte lesa procede alla liquidazione privilegiata delle sue 
 
 <sup>4</sup> Se risarcisce i danni causati all’estero da un veicolo a motore o un rimorchio assicurato presso un istituto d’assicurazione svizzero contro il quale è dichiarato il fallimento, l’Ufficio nazionale di assicurazione esercita il regresso nei confronti dell’assicuratore fallito. Un’eventuale perdita può essere fatta valere nei confronti del Fondo nazionale di garanzia.
 
-[^54b-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^54b-1]: [RS 961.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11633)
 
 #### Art. 54b<sup>bis</sup>
 
@@ -1244,7 +1245,7 @@ Su richiesta di una parte lesa procede alla liquidazione privilegiata delle sue 
 
 [^part4-chap2-lvlV-1]
 
-[^part4-chap2-lvlV-1]: Introdotto dal n. I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^part4-chap2-lvlV-1]: Introdotto dalla cifra I dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
 #### Art. 54c
 
@@ -1254,7 +1255,7 @@ Se una manifestazione sportiva estera con velocipedi attraversa il territorio sv
 
 [^part4-chap3-1]
 
-[^part4-chap3-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^part4-chap3-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 55
 
@@ -1264,7 +1265,7 @@ Se una manifestazione sportiva estera con velocipedi attraversa il territorio sv
 
 <sup>2</sup> In merito alle controversie tra l’Ufficio nazionale di assicurazione e il Fondo nazionale di garanzia o tra loro e i rispettivi membri decide l’USTRA.
 
-[^55-1]: Nuovo testo giusta il n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^55-1]: Nuovo testo giusta la cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 56
 
@@ -1282,7 +1283,7 @@ Se una manifestazione sportiva estera con velocipedi attraversa il territorio sv
 
 [^57-1]
 
-[^57-1]: Abrogato dal n. I dell’O del 9 dic. 2002, con effetto dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^57-1]: Abrogato dalla cifra I dell’O del 9 dic. 2002, con effetto dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
 
 #### Art. 58
 
@@ -1290,7 +1291,7 @@ Se una manifestazione sportiva estera con velocipedi attraversa il territorio sv
 
 L’Ufficio nazionale di assicurazione e il Fondo nazionale di garanzia calcolano i contributi secondo le regole riconosciute di tecnica attuariale delle assicurazioni. Essi sottopongono i contributi e lo schema di calcolo all’Autorità federale di vigilanza sui mercati finanziari (FINMA) per approvazione.
 
-[^58-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+[^58-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
 
 #### Art. 59
 
@@ -1305,7 +1306,7 @@ Devono:
 - a. versare i contributi all’Ufficio nazionale di assicurazione e al Fondo nazionale di garanzia;
 - b. trasmettere loro le informazioni necessarie per verificare il corretto adempimento dell’obbligo di riscossione dei contributi da parte delle imprese d’assicurazione.
 
-[^59-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+[^59-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
 
 #### Art. 59a
 
@@ -1313,13 +1314,13 @@ Devono:
 
 L’USTRA e la FINMA trasmettono all’Ufficio nazionale di assicurazione e al Fondo nazionale di garanzia le informazioni necessarie per verificare il corretto adempimento dell’obbligo di riscossione dei contributi da parte delle imprese d’assicurazione.
 
-[^59a-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+[^59a-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
 
 #### Art. 59b
 
 [^59b-1]
 
-[^59b-1]: Abrogato dall n. I dell’O del 26 ott. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
+[^59b-1]: Abrogato dall cifra I dell’O del 26 ott. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3839](https://fedlex.data.admin.ch/eli/oc/2016/643)).
 
 #### Art. 59c
 
@@ -1327,8 +1328,8 @@ L’USTRA e la FINMA trasmettono all’Ufficio nazionale di assicurazione e al F
 
 Le prestazioni delle assicurazioni sociali e le prestazioni d’indennizzo dell’Ufficio nazionale di assicurazione o del Fondo nazionale di garanzia sono coordinate secondo gli articoli 72–75 della legge federale del 6 ottobre 2000[^59c-2] sulla parte generale del diritto delle assicurazioni sociali.
 
-[^59c-1]: Introdotto dal n. I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
-[^59c-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^59c-1]: Introdotto dalla cifra I dell’O del 9 dic. 2002, in vigore dal 1° feb. 2003 ([RU 2003 136](https://fedlex.data.admin.ch/eli/oc/2003/15)).
+[^59c-2]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 
 ## Parte quinta: Disposizioni penali
 
@@ -1358,26 +1359,26 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 
 <sup>6.</sup> Le disposizioni penali che precedono non si applicano se la infrazione è punibile in conformità alla legge.
 
-[^60-1]: Nuova espressione giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)). Di detta mod. é tenuto conto in tutto il presente testo.
-[^60-2]: Nuovo testo giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^60-3]: Nuova espressione giusta il n. I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^60-1]: Nuova espressione giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^60-2]: Nuovo testo giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^60-3]: Nuova espressione giusta la cifra I dell’O del 1° lug. 1992, in vigore dal 1° ago. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
 [^60-4]: Nuovo testo giusta l’art. 152 n. 1 dell’O del 27 ott. 1976 sull’ammissione alla circolazione di persone e veicoli, in vigore dal 1° gen. 1977 ([RU 1976 2423](https://fedlex.data.admin.ch/eli/oc/1976/2423_2423_2423)).
-[^60-5]: Abrogato dal n. I dell’O del 12 ott. 2012, con effetto dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
-[^60-6]: Nuovo testo del per. giusta il n. I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
-[^60-7]: Nuovo testo giusta il n. I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
+[^60-5]: Abrogato dalla cifra I dell’O del 12 ott. 2012, con effetto dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^60-6]: Nuovo testo del per. giusta la cifra I dell’O dell’11 apr. 2001, in vigore dal 1° giu. 2001 ([RU 2001 1383](https://fedlex.data.admin.ch/eli/oc/2001/193)).
+[^60-7]: Nuovo testo giusta la cifra I dell’O del 15 ott. 1975, in vigore dal 1° gen. 1976 ([RU 1975 1857](https://fedlex.data.admin.ch/eli/oc/1975/1857_1857_1857)).
 
 ## Parte sesta: Disposizioni finali
 
 [^part6-1][^part6-2]
 
 [^part6-1]: Originaria parte ottava.
-[^part6-2]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^part6-2]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 ### Capo primo: Entrata in vigore
 
 [^part6-chap1-1]
 
-[^part6-chap1-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^part6-chap1-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 #### Art. 61
 
@@ -1387,31 +1388,31 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 
 <sup>2</sup> Le disposizioni relative alla responsabilità civile e all’assicurazione, contenute nella legge e nella presente ordinanza, non si applicano ai danni cagionati prima che esse entrassero in vigore.
 
-[^61-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^61-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 #### Art. 62 a 71
 
 [^6271-1]
 
-[^6271-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^6271-1]: Abrogati dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 #### Art. 72
 
 [^72-1]
 
-[^72-1]: Abrogato dal n. I dell’O del 19 ott. 1983, con effetto dal 1° gen. 1994 ([RU 1983 1655](https://fedlex.data.admin.ch/eli/oc/1983/1655_1655_1655)).
+[^72-1]: Abrogato dalla cifra I dell’O del 19 ott. 1983, con effetto dal 1° gen. 1994 ([RU 1983 1655](https://fedlex.data.admin.ch/eli/oc/1983/1655_1655_1655)).
 
 #### Art. 73 a 76
 
 [^7376-1]
 
-[^7376-1]: Abrogati dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^7376-1]: Abrogati dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 ### Capo secondo: Disposizioni finali
 
 [^part6-chap2-1]
 
-[^part6-chap2-1]: Nuovo testo giusta il n. I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^part6-chap2-1]: Nuovo testo giusta la cifra I dell’O del 28 mar. 2007, in vigore dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 #### Art. 76a
 
@@ -1421,38 +1422,38 @@ chi fa uso di targhe professionali senza esserne autorizzato, non porta seco i d
 
 <sup>2</sup> Esso prende decisioni di carattere generale, di norma dopo aver consultato i Cantoni e le cerchie interessate.
 
-[^76a-1]: Introdotto dal n. I del DCF del 5 set. 1967 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)). Nuovo testo giusta il n. I dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
-[^76a-2]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^76a-1]: Introdotto dalla cifra I del DCF del 5 set. 1967 ([RU 1967 1329](https://fedlex.data.admin.ch/eli/oc/1967/1295_1336_1329)). Nuovo testo giusta la cifra I dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)).
+[^76a-2]: Abrogato dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 #### Art. 76b
 
 [^76b-1]
 
-[^76b-1]: Introdotto dal n. I dell’O del 6 ott. 1980 ([RU 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Abrogato dal n. I dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^76b-1]: Introdotto dalla cifra I dell’O del 6 ott. 1980 ([RU 1980 1511](https://fedlex.data.admin.ch/eli/oc/1980/1511_1511_1511)). Abrogato dalla cifra I dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
 #### Art. 77
 
 [^77-1]
 
-[^77-1]: Introdotto dal n. I dell’O del 22 nov. 1995 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)). Abrogato dal n. I dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
+[^77-1]: Introdotto dalla cifra I dell’O del 22 nov. 1995 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)). Abrogato dalla cifra I dell’O del 29 nov. 2006, con effetto dal 1° feb. 2007 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)).
 
 ## Disposizioni finali della modifica del 15 ottobre 1975
 
 [^u1-1]
 
-[^u1-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^u1-1]: Abrogato dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 ## Disposizione finale della modifica del 24 maggio 1989
 
 [^u2-1]
 
-[^u2-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^u2-1]: Abrogato dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 ## Disposizioni finali della modifica del 1<sup>o</sup> luglio 1992
 
 [^u3-1]
 
-[^u3-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
+[^u3-1]: Abrogato dalla cifra I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2107](https://fedlex.data.admin.ch/eli/oc/2007/299)).
 
 ## Disposizioni finali della modifica del 14 gennaio 2004
 
@@ -1490,7 +1491,7 @@ Allegato 1[^t-2]
 
 ## Attestati d’assicurazione
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dal n. III dell’O del 29 nov. 2006 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)), dall’all. 4 n. II 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dalla cifra III dell’O del 29 nov. 2006 ([RU 2007 83](https://fedlex.data.admin.ch/eli/oc/2007/21)), dall’all. 4 cifra II n. 7 dell’O del 30 nov. 2018 concernente il sistema d’informazione sull’ammissione alla circolazione ([RU 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)) e dalla cifra II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
 
 ### A. Attestati d’assicurazione per veicoli a motore
 
@@ -1624,7 +1625,7 @@ Allegato 2[^t-3]
 
 ## Immatricolazione provvisoria
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 15 apr. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)). Aggiornato giusta il n. I delle O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)) e del 22 nov. 1995 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)) e dal n. II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O del 15 apr. 1987 ([RU 1987 628](https://fedlex.data.admin.ch/eli/oc/1987/628_628_628)). Aggiornato giusta il cifra I delle O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)) e del 22 nov. 1995 ([RU 1995 5465](https://fedlex.data.admin.ch/eli/oc/1995/5465_5465_5465)) e dalla cifra II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
 
 ### A. Targhe
 
@@ -1636,7 +1637,7 @@ Allegato 2[^t-3]
 
 \4. Sulla striscia rossa è inciso l’anno precedente quello di scadenza.
 
-[^annex2-lvlu1-lvlA-1]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^annex2-lvlu1-lvlA-1]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 [^annex2-lvlu1-lvlA-2]: [RU 1987 1388](https://fedlex.data.admin.ch/eli/oc/1987/__1388)
 
 ### B. Marche di controllo
@@ -1644,6 +1645,10 @@ Allegato 2[^t-3]
 \1. Sulla striscia rossa deve essere applicata una marca di controllo che indica il numero del mese di scadenza e le due ultime cifre dell’anno di scadenza.
 
 \2. Questa marca di controllo è alta 5 cm e larga 3 cm. Gli angoli sono arrotondati con un raggio di 0,2 cm. La marca di controllo ha il fondo rosso. Le due ultime cifre dell’anno di scadenza sono bianche e ripartite sulla marca di controllo conformemente al modello sottostante. Il numero del mese di scadenza è scritto nel centro della marca di controllo con caratteri neri alti 3,3 cm e ha una larghezza di tratto di 0,45 cm.
+
+<table>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image1.png)</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image2.png)</td></tr>
+</table>
 
 \3. Le marche di controllo sono rilasciate dei Cantoni.
 
@@ -1653,9 +1658,9 @@ Allegato 3[^t-4]
 
 ## Contrassegno di assicurazione per ciclomotori
 
-[^t-4]: Nuovo testo giusta il n. II dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
+[^t-4]: Nuovo testo giusta la cifra II dell’O del 12 ott. 2012, in vigore dal 1° gen. 2012 ([RU 2011 4933](https://fedlex.data.admin.ch/eli/oc/2011/713)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image3.png)
 
 Allegato 4[^t-5]
 
@@ -1663,7 +1668,7 @@ Allegato 4[^t-5]
 
 ## Esigenze minime per il rilascio di licenze di circolazione collettive
 
-[^t-5]: Nuovo testo giusta il n. I dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dall’all. 1 n. II 6 dell’O del 19 giu. 1995 conc. le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), dall’art. 1 n. 6 dell’O del 22 giu. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)) e dal n. I dell’O del 21 gen. 2015 ([RU 2015 463](https://fedlex.data.admin.ch/eli/oc/2015/66)) e dai n. I e II dell’O del 21 nov. 2018, in vigore dal 1° feb. 2019 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)).
+[^t-5]: Nuovo testo giusta la cifra I dell’O del 1° lug. 1992 ([RU 1992 1338](https://fedlex.data.admin.ch/eli/oc/1992/1338_1338_1338)). Aggiornato dall’all. 1 cifra II n. 6 dell’O del 19 giu. 1995 conc. le esigenze tecniche per i veicoli stradali ([RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)), dall’art. 1 n. 6 dell’O del 22 giu. 1998 ([RU 1998 1796](https://fedlex.data.admin.ch/eli/oc/1998/1796_1796_1796)) e dalla cifra I dell’O del 21 gen. 2015 ([RU 2015 463](https://fedlex.data.admin.ch/eli/oc/2015/66)), dai cifra I e II dell’O del 21 nov. 2018 ([RU 2019 249](https://fedlex.data.admin.ch/eli/oc/2019/43)) e dalla cifra II dell’O del 15 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 645](https://fedlex.data.admin.ch/eli/oc/2025/645), [687](https://fedlex.data.admin.ch/eli/oc/2025/687)).
 
 ### 1 Costruttore di veicoli
 
@@ -1680,7 +1685,7 @@ Allegato 4[^t-5]
 - 1\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image4.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere costruiti ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1714,7 +1719,7 @@ Allegato 4[^t-5]
 - 2\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image5.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere importati ulteriori 20 veicoli all’anno per ciascuna licenza di circolazione collettiva.</td></tr>
 </table>
 
@@ -1763,7 +1768,7 @@ Allegato 4[^t-5]
   - b. per i restanti tipi di veicoli:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image6.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero di persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre devono essere venduti annualmente per ciascuna licenza di circolazione collettiva ulteriori.</td></tr>
 </table>
 
@@ -1806,7 +1811,7 @@ Allegato 4[^t-5]
 - 4\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image7.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -1840,7 +1845,7 @@ Allegato 4[^t-5]
 - 5\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image8.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -1874,7 +1879,7 @@ Allegato 4[^t-5]
 - 6\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image9.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1907,7 +1912,7 @@ Allegato 4[^t-5]
 - lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o corse di prova, su almeno 30 veicoli all’anno;
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image10.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1941,7 +1946,7 @@ Allegato 4[^t-5]
 - 8\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image11.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori di riparazione rimunerati, che necessitano di corse di trasferimento di veicoli a motore o di corse di prova, su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -1975,7 +1980,7 @@ Allegato 4[^t-5]
 - 9\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image12.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -2009,7 +2014,7 @@ Allegato 4[^t-5]
 - 10\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image13.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2043,7 +2048,7 @@ Allegato 4[^t-5]
 - 11\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image14.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collet tiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2077,7 +2082,7 @@ Allegato 4[^t-5]
 - 12\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image15.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -2107,7 +2112,7 @@ Allegato 4[^t-5]
 - 13\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image16.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2141,7 +2146,7 @@ Allegato 4[^t-5]
 - 14\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image17.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2175,7 +2180,7 @@ Allegato 4[^t-5]
 - 15\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image18.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari, di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2190,9 +2195,9 @@ Allegato 4[^t-5]
 - 15\.4 Installazioni aziendali:
 - apparecchi e installazioni per il montaggio, il controllo e la riparazione di tachigrafi.
 - 15\.5 Autorizzazione:
-- autorizzazione dell’Ufficio federale della dogana e della sicurezza dei confini[^annex4-lvlu1-lvl15-1] al montaggio, all’esame successivo e alla riparazione di tachigrafi.
+- autorizzazione dell’Ufficio federale della dogana e della sicurezza dei confini[^annex4-lvlu1-lvl15-1] all’installazione, all’esame successivo e alla riparazione di tachigrafi.
 
-[^annex4-lvlu1-lvl15-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
+[^annex4-lvlu1-lvl15-1]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 ### 16 Officina specializzata in veicoli Diesel
 
@@ -2209,7 +2214,7 @@ Allegato 4[^t-5]
 - 16\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image19.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2243,7 +2248,7 @@ Allegato 4[^t-5]
 - 17\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image20.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere effettuati annualmente lavori rimunerati che necessitano di corse di trasferimento di veicoli a motore o di corse di prova su 50 veicoli supplementari.</td></tr>
 </table>
 
@@ -2276,7 +2281,7 @@ Allegato 4[^t-5]
 - 18\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image21.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva il parco di veicoli dell’azienda deve comprendere 30 veicoli supplementari.</td></tr>
 </table>
 
@@ -2304,7 +2309,7 @@ Allegato 4[^t-5]
 - 19\.22 licenze di circolazione collettive supplementari:
 
 <table>
-<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20240501/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
+<tr><td>numero di licenze di circolazione collettive ≤</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317/20260101/it/xml/image/image22.png)</td><td>, dove y sta per il</td></tr>
 <tr><td colspan="3">numero delle persone occupate come professione principale direttamente nel settore veicoli a motore. Inoltre, per ciascuna licenza di circolazione collettiva devono essere collaudati annualmente 20 veicoli supplementari.</td></tr>
 </table>
 
@@ -2333,10 +2338,10 @@ Allegato 5[^t-6]
 
 ## Autorizzazione provvisoria di circolazione in Svizzera
 
-[^t-6]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008 ([RU 2008 5083](https://fedlex.data.admin.ch/eli/oc/2008/704)). Aggiornato dall’all. 5 n. II 2 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante, in vigore dal 1° mag. 2024 ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^t-6]: Nuovo testo giusta la cifra I dell’O del 22 ott. 2008 ([RU 2008 5083](https://fedlex.data.admin.ch/eli/oc/2008/704)). Aggiornato dall’all. 5 n. II 2 dell’O del 27 mar. 2024 concernente la tassa sul traffico pesante ([RU 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)) e dalla cifra II dell’O del 15 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 645](https://fedlex.data.admin.ch/eli/oc/2025/645)).
 
 <table>
-<tr><td>1. **Detentore**</td><td>[tab]</td></tr>
+<tr><td>1. **Detentore**</td><td></td></tr>
 </table>
 
 <table>
@@ -2347,7 +2352,7 @@ Allegato 5[^t-6]
 </table>
 
 <table>
-<tr><td>2. **Veicolo da immatricolare**</td><td>[tab]</td></tr>
+<tr><td>2. **Veicolo da immatricolare**</td><td></td></tr>
 </table>
 
 Targhe di controllo n.: Marca/tipo: Telaio n.: Matricola n.:
@@ -2357,7 +2362,7 @@ Targhe di controllo n.: Marca/tipo: Telaio n.: Matricola n.:
 
   Il detentore conferma di aver consegnato i documenti seguenti alla posta o all’autorità di ammissione il …:
 
-  - a. Licenza di circolazione per il veicolo da immatricolare o Rapporto di perizia (modulo 13.20 A)
+  - a. Licenza di circolazione per il veicolo da immatricolare o rapporto di perizia (modulo 13.20 A)
   - b. Licenza di circolazione per il veicolo che deve essere ritirato dalla circolazione
   - c. Modulo ufficiale con accordo scritto del detentore e del beneficiario (p. es. ditta di leasing) o decisione giudiziaria passata in giudicato concernente i rapporti di proprietà, se è stato iscritto il codice 178 «cambiamento di detentore non autorizzato» nella licenza di circolazione
 
