@@ -3,13 +3,12 @@ canton: BS
 number: "164.340"
 title: Verordnung über die Ausrichtung von Unterhaltszulagen an die Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2008-11-11
 in_force: 2009-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/164.340"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6486/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6734/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6486/pdf_file"
 
 Lohn und Entschädigungen
 
-Vom 11. November 2008 (Stand 1. Januar 2025)
+Vom 11. November 2008 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
