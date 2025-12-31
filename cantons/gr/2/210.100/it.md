@@ -5,11 +5,12 @@ title: "Legge d'introduzione al Codice civile svizzero *"
 short: LICC
 language: it
 version: 2026-01-01
+corrected: 2025-12-17
 version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3806/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3587/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -149,14 +150,11 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 **4. L'Amministrazione cantonale**
 
-<sup>1</sup> Per l'allontanamento immediato secondo l'articolo 28b capoverso 4 è competente la Polizia cantonale. La procedura si conforma alla legge sulla polizia del Cantone dei Grigioni[^15a-1], nella misura in cui essa disciplini l'allontanamento.
+<sup>1</sup> Per l'allontanamento immediato secondo l'articolo 28b capoverso 4 è competente la Polizia cantonale. La procedura si conforma alla legge sulla polizia[^15a-1].
 
 <sup>2</sup> …
 
-<sup>3</sup> L'esecuzione della sorveglianza elettronica di allontanamenti, divieti di trattenersi in un luogo, di avvicinamento e di avere contatti previsti dal diritto civile si conforma alla legge d'applicazione del Codice di diritto processuale civile svizzero[^15a-2].
-
 [^15a-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
-[^15a-2]: CSC [320.100](https://www.gr-lex.gr.ch/data/320.100/it)
 
 #### Art. 16
 
@@ -1558,18 +1556,16 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 - 1\. per le imposte relative ai fondi sull'incremento del valore, sul trapasso di proprietà e su quella fondiaria del Cantone, dei comuni e delle ulteriori corporazioni i diritto pubblico;
 - 2\. per le spese dei provvedimenti sostitutivi del comune e del Cantone ai sensi dell'articolo 73 capoverso 3, articolo 79 capoverso 4, articolo 84 capoverso 3 e articolo 94 capoverso 3 della legge cantonale sulla pianificazione territoriale[^131-1];
-- 3\. per le tasse sul plusvalore determinate dai comuni in virtù dell'articolo 19m della legge cantonale sulla pianificazione territoriale;
-- 4\. per diritti alla restituzione del Cantone conformemente all'articolo 11 della legge sulla promozione degli alloggi[^131-2].
+- 3\. per le tasse sul plusvalore determinate dai comuni in virtù dell'articolo 19m della legge cantonale sulla pianificazione territoriale.
 
 <sup>2</sup> Un'ipoteca legale che prevale su tutti gli altri pegni sussiste:
 
 - 1\. per i premi dell'Assicurazione fabbricati dovuti dal proprietario del fondo;
 - 2\. per i contributi dovuti da immobili ed edifici a imprese di utilità pubblica (correzioni di fiumi, arginamenti di torrenti, impianti viari, acquedotti, canalizzazioni, impianti elettrici, pianificazioni di quartiere, ricomposizioni particellari e simili) fatta eccezione per le periodiche tasse di utilizzazione;
-- 3\. per i contributi dovuti dal proprietario del fondo giusta l'articolo 33 della legge sulle bonifiche fondiarie.[^131-3]
+- 3\. per i contributi dovuti dal proprietario del fondo giusta l'articolo 33 della legge sulle bonifiche fondiarie.[^131-2]
 
 [^131-1]: CSC [801.100](https://www.gr-lex.gr.ch/data/801.100/it)
-[^131-2]: CSC [950.250](https://www.gr-lex.gr.ch/data/950.250/it)
-[^131-3]: CSC [915.100](https://www.gr-lex.gr.ch/data/915.100/it)
+[^131-2]: CSC [915.100](https://www.gr-lex.gr.ch/data/915.100/it)
 
 #### Art. 132
 
@@ -1864,7 +1860,7 @@ accettata dal Popolo il 12 giugno 1994[^ingress-1]
 
 **I. Regime dei beni matrimoniali 1. Registro dei beni matrimoniali**
 
-<sup>1</sup> Il registro dei beni matrimoniali viene custodito presso l'Ufficio del registro fondiario e del registro di commercio. Quest'ultimo tiene l'elenco relativo al mantenimento dell'unione dei beni ai sensi dell'articolo 9e capoverso 1 Titolo finale e alla sottoposizione al nuovo diritto ai sensi dell'articolo 10b capoverso 1 Titolo finale.
+<sup>1</sup> Il registro dei beni matrimoniali viene custodito presso l'Ufficio del registro di commercio. Quest'ultimo tiene l'elenco relativo al mantenimento dell'unione dei beni ai sensi dell'articolo 9e capoverso 1 Titolo finale e alla sottoposizione al nuovo diritto ai sensi dell'articolo 10b capoverso 1 Titolo finale.
 
 #### Art. 151
 

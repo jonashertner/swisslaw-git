@@ -5,11 +5,12 @@ title: "Lescha introductiva tar il cudesch civil svizzer *"
 short: LItCCS
 language: rm
 version: 2026-01-01
+corrected: 2025-12-17
 version_adopted: 2025-06-12
 adopted: 1994-06-12
 in_force: 1994-10-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/210.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3806/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3587/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -162,14 +163,11 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **4. l'administraziun chantunala**
 
-<sup>1</sup> Per l'expulsiun immediata tenor l'artitgel 28b alinea 4 è cumpetenta la Polizia chantunala. La procedura sa drizza tenor la Lescha da polizia dal chantun Grischun[^15a-1], uschenavant ch'ella regla l'expulsiun.
+<sup>1</sup> Per l'expulsiun immediata tenor l'artitgel 28b alinea 4 è cumpetenta la polizia chantunala. La procedura sa drizza tenor la lescha da polizia[^15a-1].
 
 <sup>2</sup> …
 
-<sup>3</sup> La surveglianza electronica d'expulsiuns e da scumonds d'areal, d'avischinaziun e da contact da dretg civil vegn exequida tenor la Lescha introductiva tar il Cudesch da procedura civila svizzer[^15a-2].
-
 [^15a-1]: DG [613.000](https://www.gr-lex.gr.ch/data/613.000/rm)
-[^15a-2]: DG [320.100](https://www.gr-lex.gr.ch/data/320.100/rm)
 
 #### Art. 16
 
@@ -1586,18 +1584,16 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 - 1\. per las taglias sin l'augment da valur, sin midada da maun e sin immobiglias dal chantun, da vischnancas e d'autras corporaziuns da dretg public che crodan sin ils bains immobigliars;
 - 2\. per ils custs da l'execuziun d'uffizi da la vischnanca e dal chantun tenor l'artitgel 73 alinea 3, tenor l'artitgel 79 alinea 4, tenor l'artitgel 84 alinea 3 e tenor l'artitgel 94 alinea 3 da la lescha davart la planisaziun dal territori per il chantun Grischun[^131-1];
-- 3\. per las taxas da plivalur fixadas da las vischnancas sin basa da l'artitgel 19m da la Lescha davart la planisaziun dal territori per il chantun Grischun;
-- 4\. per ils dretgs da restituziun dal chantun tenor l'artitgel 11 da la Lescha davart la promoziun d'abitaziuns[^131-2].
+- 3\. per las taxas da plivalur fixadas da las vischnancas sin basa da l'artitgel 19m da la lescha davart la planisaziun dal territori per il chantun Grischun.
 
 <sup>2</sup> In dretg da pegn che ha la preferenza vers tut ils auters dretgs da pegn exista:
 
 - 1\. per las premias da l'institut d'assicuranza d'edifizis che vegnan debitadas dal proprietari dal bain immobigliar;
 - 2\. per las contribuziuns ad interpresas publicas (correcziuns da flums, rempars da torrents, stabiliments da traffic, provediments d'aua, chanalisaziuns, stabiliments electrics, planisaziuns da quartier, regruppaments dal terren da construcziun e.u.v.) che crodan sin immobiglias e sin edifizis, exceptà las taxas periodicas da diever;
-- 3\. per las contribuziuns che vegnan debitadas dal proprietari dal bain immobigliar tenor l'artitgel 33 da la lescha da meglieraziun[^131-3].
+- 3\. per las contribuziuns che vegnan debitadas dal proprietari dal bain immobigliar tenor l'artitgel 33 da la lescha da meglieraziun[^131-2].
 
 [^131-1]: DG [801.100](https://www.gr-lex.gr.ch/data/801.100/rm)
-[^131-2]: DG [950.250](https://www.gr-lex.gr.ch/data/950.250/rm)
-[^131-3]: DG [915.100](https://www.gr-lex.gr.ch/data/915.100/rm)
+[^131-2]: DG [915.100](https://www.gr-lex.gr.ch/data/915.100/rm)
 
 #### Art. 132
 
@@ -1895,7 +1891,7 @@ acceptada dal pievel ils 12 da zercladur 1994[^ingress-1]
 
 **I. Dretg dals bains matrimonials 1. register dals bains matrimonials**
 
-<sup>1</sup> Il register dals bains matrimonials vegn conservà tar l'Uffizi dal register funsil e dal register da commerzi. El maina ils registers concernent il mantegniment da l'uniun dals bains tenor l'artitgel 9e alinea 1 dal titel final e concernent la subordinaziun al nov dretg tenor l'artitgel 10b alinea 1 dal titel final.
+<sup>1</sup> Il register dals bains matrimonials vegn conservà tar l'uffizi dal register da commerzi. El maina ils registers concernent il mantegniment da l'uniun dals bains tenor l'artitgel 9e alinea 1 dal titel final e concernent la subordinaziun al nov dretg tenor l'artitgel 10b alinea 1 dal titel final.
 
 #### Art. 151
 
