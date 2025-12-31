@@ -4,13 +4,12 @@ number: "178.101"
 title: Reglement betreffend das Notariatsgesetz
 short: RNG
 language: de
-version: 2025-09-01
-valid_until: 2025-12-31
-version_adopted: 2025-08-27
+version: 2026-01-01
+version_adopted: 2024-11-06
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/de/versions/3509/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3510/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3509/pdf_file"
 
 (RNG)
 
-vom 07.09.2005 (Stand 01.09.2025)
+vom 07.09.2005 (Stand 01.01.2026)
 
 Der Staatsrat des Kantons Wallis
 
@@ -114,7 +113,7 @@ beschliesst:
 
 <sup>1</sup> Es finden jährlich zwei Prüfungssessionen statt, die eine im Frühling und die andere im Herbst.
 
-<sup>2</sup> Die schriftliche Prüfung ist computergestützt und findet in der ersten Hälfte des Monats Mai und November statt.
+<sup>2</sup> Die schriftliche Prüfung ist computergestützt und findet in der ersten Hälfte des Monats April und Oktober statt.
 
 <sup>3</sup> Das Datum der mündlichen Prüfungen wird durch die Prüfungskommission festgelegt. Die Kandidaten werden mindestens eine Woche im Voraus darüber unterrichtet.
 
@@ -124,7 +123,7 @@ beschliesst:
 
 <sup>1</sup> Das Departement entscheidet erstinstanzlich über die Zulassung eines Kandidaten zur Prüfung.
 
-<sup>2</sup> Zulassungsgesuche sind schriftlich an das Departement zu richten. Für die Frühjahrssession bis spätestens am 15. März und für die Herbstsession bis spätestens am 15. September.
+<sup>2</sup> Zulassungsgesuche sind schriftlich an das Departement zu richten. Für die Frühjahrssession bis spätestens am 1. März und für die Herbstsession bis spätestens am 1. September.
 
 <sup>3</sup> Sie werden nur zugelassen, wenn mittels Überprüfung festgestellt wurde, dass die Bedingungen nach Einsicht in die Praktikumsbestätigungen im Sinne von Artikel 4 erfüllt sind und die folgende Gebühr gezahlt wurde:
 

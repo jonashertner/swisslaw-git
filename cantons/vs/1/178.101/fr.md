@@ -4,13 +4,12 @@ number: "178.101"
 title: Règlement concernant la loi sur le notariat
 short: RLN
 language: fr
-version: 2025-09-01
-valid_until: 2025-12-31
-version_adopted: 2025-08-27
+version: 2026-01-01
+version_adopted: 2024-11-06
 adopted: 2005-09-07
 in_force: 2006-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/178.101"
-pdf: "https://lex.vs.ch/api/fr/versions/3509/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3510/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3509/pdf_file"
 
 (RLN)
 
-du 07.09.2005 (état 01.09.2025)
+du 07.09.2005 (état 01.01.2026)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -114,7 +113,7 @@ arrête:
 
 <sup>1</sup> Il y a deux sessions d'examen par année, l'une au printemps et l'autre en automne.
 
-<sup>2</sup> L'examen écrit est informatisé et a lieu dans les premières quinzaines de mai et de novembre.
+<sup>2</sup> L'examen écrit est informatisé et a lieu dans les premières quinzaines d'avril et d'octobre.
 
 <sup>3</sup> La date des épreuves orales est fixée par la commission des examens; les candidats en sont avisés au moins une semaine à l'avance.
 
@@ -124,7 +123,7 @@ arrête:
 
 <sup>1</sup> Le département décide, en première instance de l'admission d'un candidat à l'examen.
 
-<sup>2</sup> Les demandes d'inscription à l'examen sont adressées par écrit au département au plus tard le 15 mars pour la session de printemps et le 15 septembre pour la session d'automne.
+<sup>2</sup> Les demandes d'inscription à l'examen sont adressées par écrit au département au plus tard le 1<sup>er</sup>mars pour la session de printemps et le 1<sup>er</sup> septembre pour la session d'automne.
 
 <sup>3</sup> Elles ne sont admises que moyennant vérification que les conditions sont remplies sur le vu des attestations de stages au sens de l'article 4 et versement de l'émolument suivant:
 
