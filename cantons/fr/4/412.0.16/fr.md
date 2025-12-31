@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.16"
 title: "Ordonnance fixant les écolages et les taxes d'inscription des écoles du secondaire du deuxième degré"
 language: fr
-version: 2022-02-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-04
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 1995-06-27
 in_force: 1995-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7291/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8349/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/7291/pdf_file"
 
 Ecoles du secondaire du deuxième degré, écolages – O
 
-du 27.06.1995 (version entrée en vigueur le 01.02.2022)
+du 27.06.1995 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -46,9 +45,9 @@ Arrête:
 
 **Ecolages – Parents domiciliés dans le canton**
 
-<sup>1</sup> Pour les élèves fréquentant les écoles précitées et dont les parents sont domiciliés dans le canton de Fribourg, l'écolage annuel est fixé à 375 francs et à 1200 francs pour le cours préparatoire à l'examen complémentaire permettant l'accès aux hautes écoles universitaires.
+<sup>1</sup> Pour les élèves fréquentant les écoles précitées et dont les parents sont domiciliés dans le canton de Fribourg, l'écolage annuel est fixé à 400 francs et à 1200 francs pour le cours préparatoire à l'examen complémentaire permettant l'accès aux hautes écoles universitaires.
 
-<sup>2</sup> Pour les élèves dont les parents sont domiciliés dans le canton de Fribourg et qui fréquentent, moyennant une prise en charge financière par la Direction de la formation et des affaires culturelles, une école extracantonale, un écolage annuel de 375 francs pour les formations du secondaire du deuxième degré et de 1200 francs pour les passerelles entre le secondaire du deuxième degré et le tertiaire est perçu.
+<sup>2</sup> Pour les élèves dont les parents sont domiciliés dans le canton de Fribourg et qui fréquentent, moyennant une prise en charge financière par la Direction de la formation et des affaires culturelles, une école extracantonale, un écolage annuel de 400 francs pour les formations du secondaire du deuxième degré et de 1200 francs pour les passerelles entre le secondaire du deuxième degré et le tertiaire est perçu.
 
 #### Art. 3
 

@@ -3,13 +3,12 @@ canton: FR
 number: "412.0.16"
 title: Verordnung über das Schulgeld und die Einschreibegebühr an den Schulen der Sekundarstufe 2
 language: de
-version: 2022-02-01
-valid_until: 2025-12-31
-version_adopted: 2022-03-04
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 1995-06-27
 in_force: 1995-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/412.0.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/7291/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8349/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7291/pdf_file"
 
 Schulen der Sekundarstufe 2, Schulgeld – V
 
-vom 27.06.1995 (Fassung in Kraft getreten am 01.02.2022)
+vom 27.06.1995 (Fassung in Kraft getreten am 01.01.2026)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -46,9 +45,9 @@ beschliesst:
 
 **Schulgeld – Eltern mit Wohnsitz im Kanton**
 
-<sup>1</sup> Für die Schülerinnen und Schüler, die diese Schulen besuchen und deren Eltern im Kanton Freiburg wohnhaft sind, beträgt das Schulgeld 375 Franken im Jahr oder 1200 Franken für den Vorbereitungskurs auf die Ergänzungsprüfung für die Zulassung zu den universitären Hochschulen.
+<sup>1</sup> Für die Schülerinnen und Schüler, welche die vorher genannten Schulen besuchen und deren Eltern im Kanton Freiburg wohnhaft sind, beträgt das Schulgeld 400 Franken im Jahr oder 1200 Franken für den Vorbereitungskurs für die Ergänzungsprüfung für die Zulassung zu den universitären Hochschulen.
 
-<sup>2</sup> Für Schülerinnen und Schülern, deren Eltern im Kanton Freiburg wohnhaft sind und die mit Kostengutsprache der Direktion für Bildung und kulturelle Angelegenheiten eine ausserkantonale Schule besuchen, wird ein jährliches Schulgeld von 375 Franken für Bildungsgänge der Sekundarstufe 2 und von 1200 Franken für Passerellen-Lehrgänge zwischen Sekundarstufe 2 und Tertiärstufe erhoben.
+<sup>2</sup> Für Schülerinnen und Schülern, deren Eltern im Kanton Freiburg wohnhaft sind und die mit Kostengutsprache der Direktion für Bildung und kulturelle Angelegenheiten eine ausserkantonale Schule besuchen, wird ein jährliches Schulgeld von 400 Franken für Bildungsgänge der Sekundarstufe 2 und von 1200 Franken für Passerellen zwischen Sekundarstufe 2 und Tertiärstufe erhoben.
 
 #### Art. 3
 
