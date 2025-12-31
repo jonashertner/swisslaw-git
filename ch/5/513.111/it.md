@@ -4,11 +4,11 @@ title: "Ordinanza del DDPS del 29 marzo 2017 sull'organizzazione di dettaglio de
 short: OODE
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/219"
 language: it
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2017-219-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2017-219-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20230101/it"
 
 (OODE)
 
-del 29 marzo 2017 (Stato 1° gennaio 2023)
+del 29 marzo 2017 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
 
@@ -25,7 +25,7 @@ visto l’articolo 5 capoverso 1 dell’Organizzazione dell’esercito del 18 ma
 
 ordina:
 
-[^ingress-1]: [RS 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-1]: [RS 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452)
 
 #### Art. 1
 
@@ -57,4 +57,4 @@ Allegato[^t-1]
 
 (art. 1)
 
-[^t-1]: Aggiornato dai n. I delle O del DDPS del 21 nov. 2019 ([RU 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)), del 24 nov. 2021 ([RU 2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)) e del 23 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 796](https://fedlex.data.admin.ch/eli/oc/2022/796)). L’all. non é pubblicato nella RU.
+[^t-1]: Aggiornato dalle cifre I delle O del DDPS del 21 nov. 2019 ([RU 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)), del 24 nov. 2021 ([RU 2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)), del 23 nov. 2022, ([RU 2022 796](https://fedlex.data.admin.ch/eli/oc/2022/796)) e del 29 ott. 2025, in vigore dal 1° gen. 2025 ([RU 2025 697](https://fedlex.data.admin.ch/eli/oc/2025/697)). L’all. non é pubblicato nella RU secondo l’art. 6 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).

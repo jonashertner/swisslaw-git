@@ -4,11 +4,11 @@ title: Verordnung des VBS vom 29. März 2017 über die Detailorganisation der Ar
 short: VDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/219"
 language: de
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2017-219-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2017-219-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20230101/de"
 
 (VDA)
 
-vom 29. März 2017 (Stand am 1. Januar 2023)
+vom 29. März 2017 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS),
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 5 Absatz 1 der Armeeorganisation vom 18. März 2016[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-1]: [SR 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452)
 
 #### Art. 1
 
@@ -57,4 +57,4 @@ Anhang[^t-1]
 
 (Art. 1)
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des VBS vom 21. Nov. 2019 ([AS 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)), vom 24. Nov. 2021 ([AS 2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)) und vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 796](https://fedlex.data.admin.ch/eli/oc/2022/796)). Dieser Anhang wird in der AS nicht veröffentlicht.
+[^t-1]: Bereinigt gemäss Ziff. I der V des VBS vom 21. Nov. 2019 ([AS 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)), vom 24. Nov. 2021 ([AS 2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)), vom 23. Nov. 2022 ([AS 2022 796](https://fedlex.data.admin.ch/eli/oc/2022/796)) und vom 29. Okt. 2025, in Kraft seit 1. Jan. 2026 (AS **202****5** 697). Dieser Anhang wird in der AS nicht veröffentlicht.

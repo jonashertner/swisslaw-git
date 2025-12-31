@@ -4,11 +4,11 @@ title: "Ordonnance du DDPS du 29 mars 2017 sur l'organisation détaillée de l'a
 short: OODA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/219"
 language: fr
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2017-03-29
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-219-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/219/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-219-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/219/20230101/fr"
 
 (OODA)
 
-du 29 mars 2017 (État le 1<sup>er</sup> janvier 2023)
+du 29 mars 2017 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de la défense, de la protection de la population et des sports (DDPS),
 
@@ -25,7 +25,7 @@ vu l’art. 5, al. 1, de l’Organisation de l’armée du 18 mars 2016[^ingress
 
 arrête:
 
-[^ingress-1]: [RS 513.1](https://fedlex.data.admin.ch/eli/cc/2017/217)
+[^ingress-1]: [RS 513.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7452)
 
 #### Art. 1
 
@@ -57,4 +57,4 @@ Annexe[^t-1]
 
 (art. 1)
 
-[^t-1]: Mise à jour par le ch. I de l’O du DDPS du 21 nov. 2019 ([RO 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)), du 24 nov. 2021 ([RO 2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)) et du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 796](https://fedlex.data.admin.ch/eli/oc/2022/796)). Cette annexe n’est pas publiée au RO.
+[^t-1]: Mise à jour par le ch. I des O du DDPS du 21 nov. 2019 ([RO 2019 4323](https://fedlex.data.admin.ch/eli/oc/2019/750)), du 24 nov. 2021 ([RO 2021 857](https://fedlex.data.admin.ch/eli/oc/2021/857)), du 23 nov. 2022 ([RO 2022 796](https://fedlex.data.admin.ch/eli/oc/2022/796)) et du 29 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 697](https://fedlex.data.admin.ch/eli/oc/2025/697)). Cette annexe n’est pas publiée au RO.
