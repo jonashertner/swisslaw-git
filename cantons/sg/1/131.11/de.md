@@ -4,13 +4,12 @@ number: "131.11"
 title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
-version: 2025-01-01
-corrected: 2024-12-16
-version_adopted: 2024-12-04
+version: 2026-01-01
+version_adopted: 2025-12-03
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3705/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3846/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3705/pdf_file"
 
 (GeschKR)
 
-vom 24.10.1979 (Stand 01.01.2025)
+vom 24.10.1979 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -68,7 +67,7 @@ als Reglement:[^ingress-7]
   - 1\. Gültigkeit der Kantonsratswahlen,
   - 2\. Stellungnahme zu Berichten der Regierung, der selbständigen Anstalten und der obersten kantonalen Gerichte sowie zu Plänen der Staatstätigkeit,
   - 3\. Aufträge, wie Motionen und Postulate;
-- i) Entscheide, insbesondere über Einsprachen von Mitgliedern des Kantonsrates, über Gesuche und Petitionen sowie in Disziplinar-, Straf- und Verantwortlichkeitssachen;
+- i) Entscheide, insbesondere über Einsprachen von Mitgliedern des Kantonsrates, über Ersuchen sowie in Disziplinar-, Straf- und Verantwortlichkeitssachen;
 - k) Entgegennahme von Antworten, insbesondere auf Interpellationen und Einfache Anfragen.
 
 ### 2. Präsidium
@@ -221,12 +220,20 @@ als Reglement:[^ingress-7]
 - a) die Gültigkeit der Wahl der Mitglieder des Kantonsrates;
 - b) die Geschäftsberichte der kantonalen Gerichte;
 - c) die Wahlvorschläge der Fraktionen für die kantonalen Gerichte;
-- d) Berichte und Anträge aus Administrativuntersuchungen, Disziplinarfällen sowie Straf- und Verantwortlichkeitsklagen betreffend oberste kantonale Behörden;
-- e) an den Kantonsrat gerichtete Petitionen.
+- d) Berichte und Anträge aus Administrativuntersuchungen, Disziplinarfälle sowie Verantwortlichkeitsklagen betreffend oberste kantonale Behörden;
+- e) …
 
-<sup>1<sup>ter</sup></sup> Sie behandelt an den Kantonsrat gerichtete Eingaben, soweit sie diese nicht einer anderen ständigen Kommission überweist.
+<sup>1<sup>ter</sup></sup> Sie behandelt folgende Ersuchen:
+
+- a) an den Kantonsrat gerichtete Eingaben, soweit sie diese nicht einer anderen ständigen Kommission überweist;
+- b) an den Kantonsrat gerichtete Petitionen;
+- c) Ermächtigung zur Eröffnung eines Strafverfahrens nach Art. 23 Abs. 2 des Einführungsgesetzes zur Schweizerischen Straf- und Jugendprozessordnung vom 3. August 2010[^14-1];
+- d) Bewilligung einer Nebenbeschäftigung der hauptamtlichen Richterinnen und Richter sowie Mitteilungen der teilamtlichen Richterinnen und Richter des Kantonsgerichtes, des Verwaltungsgerichtes und des Versicherungsgerichtes nach Art. 40 Abs. 3 des Gerichtsgesetzes vom 2. April 1987[^14-2].
 
 <sup>2</sup> …
+
+[^14-1]: sGS [962.1](https://www.gesetzessammlung.sg.ch/data/962.1/de).
+[^14-2]: sGS [941.1](https://www.gesetzessammlung.sg.ch/data/941.1/de).
 
 #### Art. 14bis
 
@@ -246,7 +253,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Staatswirtschaftliche Kommission prüft aufgrund von Berichten und durch eigene Kontrollen:
 
-- a) die Amtsführung der Regierung, der ihr nachgeordneten Behörden und Dienststellen, der kantonalen Fachstelle für Datenschutz sowie der selbständigen öffentlich-rechtlichen Anstalten;
+- a) die Amtsführung der Regierung, der ihr nachgeordneten Behörden und Dienststellen, der kantonalen Fachstelle für Datenschutz, der Organisationen mit kantonaler Beteiligung[^15-1] sowie von Privaten, soweit ihnen Staatsaufgaben übertragen sind;
 - a<sup>bis</sup>) die Umsetzung der Strategie der Aussenbeziehungen und der zwischenstaatlichen Vereinbarungen;
 - b) die Planung und Steuerung der Staatstätigkeit und das Ergebnis des Regierungscontrollings;
 - b<sup>bis</sup>) …
@@ -263,6 +270,8 @@ als Reglement:[^ingress-7]
 - e) Berichte und Anträge der Regierung über Fristverlängerungen zur Behandlung von Initiativbegehren.
 
 <sup>4</sup> …
+
+[^15-1]: Art. [94a](https://www.gesetzessammlung.sg.ch/data/140.1/de/art94a) StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
 
 #### Art. 16
 
@@ -341,15 +350,7 @@ als Reglement:[^ingress-7]
 
 #### Art. 20
 
-**Erneuerung**
-
-<sup>1</sup> Die ununterbrochene Zugehörigkeit zu einer ständigen Kommission ist auf sechs Jahre beschränkt.
-
-<sup>2</sup> Die Kommissionspräsidentin oder der Kommissionspräsident darf der Kommission insgesamt acht Jahre angehören, davon höchstens sechs Jahre als Präsidentin oder Präsident.
-
-<sup>3</sup> Diese Beschränkungen gelten nicht für die Redaktionskommission.
-
-<sup>4</sup> …
+**…**
 
 ### b) nichtständige Kommissionen
 
@@ -391,22 +392,25 @@ als Reglement:[^ingress-7]
 
 **Befugnisse**
 
-<sup>1</sup> Die Kommission kann im Rahmen ihres Auftrags:
+<sup>1</sup> Die Kommission hat Anspruch auf alle Informationen, die zur Erfüllung ihrer Aufgabe geeignet und erforderlich sind. Zur Wahrnehmung dieses Anspruchs kann sie im Rahmen ihres Auftrags:
 
-- a) die das Geschäft betreffenden Akten einsehen; in Akten, die unter das Amtsgeheimnis[^23-1] fallen, nimmt die Kommission durch eine Abordnung Einblick;
-- b) Mitarbeitende des Staates und seiner Anstalten über Sachverhalte befragen;
+- a) die das Geschäft betreffenden Akten einsehen. In Akten, die unter das Amtsgeheimnis[^23-1] fallen, nimmt die Kommission durch eine Abordnung Einsicht;
+- b) Mitarbeitende des Kantons und von Organisationen mit kantonaler Beteiligung[^23-2] sowie von Privaten, soweit ihnen Staatsaufgaben übertragen sind, über Sachverhalte befragen;
 - c) Besichtigungen durchführen;
 - d) sachverständige Dritte befragen und Gutachten einholen;
 - e) Interessenvertreterinnen und Interessenvertreter anhören.
 
-<sup>2</sup> Handelt es sich um ein Strafverfahren, ein Disziplinarverfahren oder eine Verantwortlichkeitsklage,[^23-2] kann die Kommission Auskunftspersonen einvernehmen.
+<sup>1<sup>bis</sup></sup> Die Kommission entscheidet eigenständig, wie sie ihre Informationsrechte ausübt. Diesbezügliche Entscheide der Kommission können nicht an den Kantonsrat weitergezogen werden.
+
+<sup>2</sup> Handelt es sich um ein Strafverfahren, ein Disziplinarverfahren oder eine Verantwortlichkeitsklage,[^23-3] kann die Kommission Auskunftspersonen einvernehmen.
 
 <sup>3</sup> Ergeben sich in derselben Sache aus Vorladungen Kosten von mehr als Fr. 3000.– und aus Gutachten Kosten von mehr als Fr. 4500.–, ist die Zustimmung des Präsidiums einzuholen.
 
-<sup>4</sup> Die Kommission ist an die Grundsätze der Gewaltentrennung gebunden.
+<sup>4</sup> Die Kommission ist an die Grundsätze der Gewaltenteilung gebunden.
 
-[^23-1]: Art. [68](https://www.gesetzessammlung.sg.ch/data/140.1/de/art68) f. StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de); Art. 320 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
-[^23-2]: Siehe auch Art. [12](https://www.gesetzessammlung.sg.ch/data/161.3/de/art12) Abs. 2 Bst. a DG, sGS [161.3](https://www.gesetzessammlung.sg.ch/data/161.3/de); Art. [23](https://www.gesetzessammlung.sg.ch/data/962.1/de/art23) Abs. 2 EG-StPO; Art. [10](https://www.gesetzessammlung.sg.ch/data/161.1/de/art10) Abs. 2 VG, sGS [161.1](https://www.gesetzessammlung.sg.ch/data/161.1/de).
+[^23-1]: Art. [67](https://www.gesetzessammlung.sg.ch/data/143.1/de/art67) PersG, sGS [143.1](https://www.gesetzessammlung.sg.ch/data/143.1/de); Art. 320 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+[^23-2]: Art. [94a](https://www.gesetzessammlung.sg.ch/data/140.1/de/art94a) StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
+[^23-3]: Siehe auch Art. [12](https://www.gesetzessammlung.sg.ch/data/161.3/de/art12) Abs. 2 Bst. a DG, sGS [161.3](https://www.gesetzessammlung.sg.ch/data/161.3/de); Art. [23](https://www.gesetzessammlung.sg.ch/data/962.1/de/art23) Abs. 2 EG-StPO; Art. [10](https://www.gesetzessammlung.sg.ch/data/161.1/de/art10) Abs. 2 VG, sGS [161.1](https://www.gesetzessammlung.sg.ch/data/161.1/de).
 
 #### Art. 23bis
 
@@ -430,13 +434,13 @@ als Reglement:[^ingress-7]
 
 #### Art. 23quater
 
-**Bestellung und Erneuerung**
+**Bestellung**
 
 <sup>1</sup> Der Kantonsrat wählt die Vertretungen zu Beginn der Amtsdauer.
 
 <sup>2</sup> Er legt auf Antrag des Präsidiums Grösse und Zusammensetzung der Vertretungen fest. Dabei berücksichtigt er Ziel und Zweck der Gremien.
 
-<sup>3</sup> Die ununterbrochene Zugehörigkeit zu einer Vertretung ist auf sechs Jahre beschränkt.
+<sup>3</sup> …
 
 ### 4. Fraktionen
 
@@ -1534,13 +1538,13 @@ als Reglement:[^ingress-7]
 
 **…**
 
-### e) Eingaben
+### e) Ersuchen zuhanden des Kantonsrates
 
 #### Art. 127
 
 **Überweisung**
 
-<sup>1</sup> An den Kantonsrat gerichtete Eingaben werden der Rechtspflegekommission überwiesen. Diese kann sie einer anderen ständigen Kommission überweisen.
+<sup>1</sup> An den Kantonsrat gerichtete Ersuchen werden der Rechtspflegekommission überwiesen. Diese kann sie einer anderen ständigen Kommission überweisen.
 
 <sup>2</sup> Das Präsidium kann die Regierung einladen, dem Kantonsrat einen Bericht zu unterbreiten.
 
@@ -1548,21 +1552,28 @@ als Reglement:[^ingress-7]
 
 **Rückweisung**
 
-<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident weist weitschweifige oder Sitte und Anstand verletzende Eingaben zur Behebung der Mängel zurück.
+<sup>1</sup> Die Kommissionspräsidentin oder der Kommissionspräsident weist unklare, weitschweifige oder Sitte und Anstand verletzende Ersuchen zur Behebung der Mängel zurück.
 
 <sup>2</sup> Sie oder er kann die Nichtbehandlung für den Fall androhen, dass die Mängel nicht innert gesetzter Frist behoben werden.
 
 #### Art. 127ter
 
-**Nichteintreten**
+**Behandlung**
 
-<sup>1</sup> Die ständige Kommission kann Eingaben, die offensichtlich unhaltbar sind oder ausserhalb der Zuständigkeit des Kantonsrates liegen, durch Nichteintreten erledigen, wenn der Beschluss ohne Gegenstimme zustande kommt. Andernfalls entscheidet der Kantonsrat.
+<sup>1</sup> Die ständige Kommission kann, wenn der Beschluss ohne Gegenstimme zustande kommt:
+
+- a) Ersuchen nach Art. 14 Abs. 1<sup>ter</sup> dieses Reglements gutheissen, abweisen oder zur Kenntnis nehmen;
+- b) Ersuchen, die offensichtlich unhaltbar sind oder ausserhalb der Zuständigkeit des Kantonsrates liegen, durch Nichteintreten erledigen.
+
+<sup>2</sup> Andernfalls entscheidet der Kantonsrat.
+
+<sup>3</sup> Die Beschlüsse der ständigen Kommission und des Kantonsrates sind endgültig.
 
 #### Art. 128
 
 **Berichterstattung**
 
-<sup>1</sup> Die ständige Kommission erstattet dem Kantonsrat über die ihr überwiesenen Eingaben mündlich Bericht, soweit sie diese nicht von sich aus erledigen konnte.
+<sup>1</sup> Die ständige Kommission erstattet dem Kantonsrat über jene Ersuchen, die sie nicht von sich aus erledigen konnte, mündlich Bericht.
 
 <sup>2</sup> In besonderen Fällen unterbreitet sie dem Kantonsrat schriftlich Bericht und Antrag.
 
@@ -1605,6 +1616,7 @@ als Reglement:[^ingress-7]
 - a) die Mehrheit (61) der Mitglieder des Kantonsrates:
   - 1\. für den Antrag auf Gesamtrevision der Kantonsverfassung;
   - 2\. in den Schlussabstimmungen über eine Teilrevision der Kantonsverfassung sowie über Gesetze und Beschlüsse, die zulasten des Staates oder der Gemeinden eine einmalige neue Ausgabe von mehr als Fr. 3 000 000.– oder eine während mindestens zehn Jahren wiederkehrende neue Jahresausgabe von mehr als Fr. 300 000.– zur Folge haben;
+  - 2<sup>bis</sup>. in der Gesamtabstimmung über die Festlegung des Staatssteuerfusses, sofern diese eine Erhöhung des Staatssteuerfusses zur Folge hat;
   - 3\. für dringliche Gesetze und Kantonsratsbeschlüsse;
   - 4\. für Schluss der Diskussion;
 - b) ein Drittel (40) der Mitglieder des Kantonsrates für ein Referendumsbegehren aus der Mitte des Kantonsrates;
