@@ -3,18 +3,18 @@ sr: "412.101.221.28"
 title: Ordonnance du SEFRI du 26 mai 2010 sur la formation professionnelle initiale de créatrice de tissu/créateur de tissu avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/481"
 language: fr
-version: 2018-01-01
+version: 2026-01-01
 adopted: 2010-05-26
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/481/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-481-20180101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/481/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/481/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-481-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/481/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de créatrice de tissu/créateur de tissu avec certificat fédéral de capacité (CFC)\*
 
-du 26 mai 2010 (État le 1<sup>er</sup> janvier 2018)[^t-1][^t-2]
+du 26 mai 2010 (État le 1<sup>er</sup> janvier 2026)[^t-1][^t-2]
 
 [^t-1]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 [^t-2]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
@@ -29,8 +29,8 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet et durée
 
@@ -162,9 +162,10 @@ Le plan de formation:
 
 **Culture générale**
 
-L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-1].
+L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^11-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^11-2].
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^11-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 ## Section 6 Exigences posées aux prestataires de la formation initiale en entreprise
 
@@ -287,11 +288,12 @@ La procédure de qualification avec examen final porte sur les domaines de quali
 
 - a. travail pratique d’une durée de 60 à 80 heures sous la forme d’un travail pratique individuel (TPI). Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation doit montrer qu’elle est à même d’exécuter les tâches demandées dans les règles de l’art et en fonction des besoins et de la situation. Le dossier de formation et les documents relatifs aux cours interentreprises peuvent être utilisés comme aides;
 - b. connaissances professionnelles d’une durée de 3 heures. Ce domaine de qualification est évalué vers la fin de la formation professionnelle initiale. La personne en formation subit un examen écrit;
-- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^19-1].
+- c. culture générale. Ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^19-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^19-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, deux experts aux examens au moins évaluent les prestations.
 
-[^19-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^19-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 20
 

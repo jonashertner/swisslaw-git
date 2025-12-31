@@ -3,18 +3,18 @@ sr: "412.101.221.28"
 title: Ordinanza della SEFRI del 26 maggio 2010 sulla formazione professionale di base Creatrice di tessuti/Creatore di tessuti con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/481"
 language: it
-version: 2018-01-01
+version: 2026-01-01
 adopted: 2010-05-26
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/481/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2010-481-20180101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/481/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/481/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2010-481-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/481/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Creatrice di tessuti/Creatore di tessuti con attestato federale di capacità (AFC)
 
-del 26 maggio 2010 (Stato 1° gennaio 2018)[^t-1]
+del 26 maggio 2010 (Stato 1° gennaio 2026)[^t-1]
 
 [^t-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
@@ -28,8 +28,8 @@ visto l’articolo 19 della legge del 13 dicembre 2002[^ingress-1] sulla formazi
 
 ordina:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Sezione 1: Oggetto e durata
 
@@ -161,9 +161,10 @@ Il piano di formazione:
 
 **Cultura generale**
 
-Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+Per gli insegnamenti di cultura generale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^11-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^11-2].
 
-[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## Sezione 6: Requisiti per gli operatori della formazione di base organizzata dall’azienda
 
@@ -283,11 +284,12 @@ Nella procedura di qualificazione con esame finale vengono esaminati i campi di 
 
 - a. «lavoro pratico», sotto forma di lavoro pratico individuale della durata da 60 a 80 ore. L’esame ha luogo verso la fine della formazione professionale di base. La persona in formazione deve dimostrare di essere in grado di svolgere le attività richieste in modo professionalmente corretto e adeguato alle necessità e alla situazione. È ammessa come ausilio la consultazione della documentazione dell’apprendimento e dei corsi interaziendali;
 - b. «conoscenze professionali», della durata di 3 ore. L’esame ha luogo verso la fine della formazione professionale di base. L’esame si svolge in forma scritta;
-- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 27 aprile 2006[^19-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale». Per l’esame finale fa stato l’ordinanza della SEFRI del 9 aprile 2025[^19-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base[^19-2].
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^19-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^19-2]: Il rimando è stato adeguato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), con effetto dal 1° gen. 2026 (vedi [RU 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 20
 

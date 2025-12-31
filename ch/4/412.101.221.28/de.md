@@ -3,18 +3,18 @@ sr: "412.101.221.28"
 title: Verordnung des SBFI vom 26. Mai 2010 über die berufliche Grundbildung Gewebegestalterin/Gewebegestalter mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/481"
 language: de
-version: 2018-01-01
+version: 2026-01-01
 adopted: 2010-05-26
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/481/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2010-481-20180101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/481/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/481/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2010-481-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/481/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Gewebegestalterin/Gewebegestalter mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 26. Mai 2010 (Stand am 1. Januar 2018)[^t-1]
+vom 26. Mai 2010 (Stand am 1. Januar 2026)[^t-1]
 
 [^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 
@@ -28,8 +28,8 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## 1. Abschnitt: Gegenstand und Dauer
 
@@ -161,9 +161,10 @@ Der Bildungsplan hat folgenden Inhalt:
 
 **Allgemeinbildung**
 
-Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^11-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemeinbildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^11-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^11-2].
 
-[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
 
@@ -286,11 +287,12 @@ Im Qualifikationsverfahren mit Abschlussprüfung werden die nachstehenden Qualif
 
 - a. Praktische Arbeit als individuelle praktische Arbeit (IPA) im Umfang von 60–80 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person muss zeigen, dass sie fähig ist, die geforderten Tätigkeiten fachlich korrekt sowie bedarfs- und situationsgerecht auszuführen. Die Lerndokumentation und die Unterlagen der überbetrieblichen Kurse dürfen als Hilfsmittel verwendet werden.
 - b. Berufskenntnisse, im Umfang von 3 Stunden. Dieser Qualifikationsbereich wird gegen Ende der beruflichen Grundbildung geprüft. Die lernende Person wird schriftlich befragt.
-- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 27. April 2006[^19-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- c. Allgemeinbildung. Der Qualifikationsbereich richtet sich nach der Verordnung des SBFI vom 9. April 2025[^19-1] über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^19-2].
 
 <sup>2</sup> In jedem Qualifikationsbereich beurteilen mindestens zwei Prüfungsexpertinnen oder -experten die Leistungen.
 
-[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^19-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^19-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 20
 
