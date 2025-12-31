@@ -3,20 +3,19 @@ canton: LU
 number: "950"
 title: Verordnung zum Bundesgesetz über das Messwesen
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2025-01-07
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2001-12-11
 in_force: 2002-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/950"
-pdf: "https://srl.lu.ch/api/de/versions/4376/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4591/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über das Messwesen
 
-vom 11.12.2001 (Stand 01.01.2025)
+vom 11.12.2001 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -44,7 +43,7 @@ beschliesst:
 
 **Eichmeisterinnen und Eichmeister**
 
-<sup>1</sup> Für jeden Eichkreis wird eine Eichmeisterin oder ein Eichmeister gewählt. Sie oder er ist der Luzerner Polizei[^2-1] angegliedert.
+<sup>1</sup> Für jeden Eichkreis wird ein Eichmeister oder eine Eichmeisterin angestellt. Er oder sie ist der Luzerner Polizei[^2-1] angegliedert.
 
 <sup>2</sup> Die Eichmeisterinnen und -meister erfüllen alle sich aus dem Bundesrecht ergebenden Aufgaben.
 
