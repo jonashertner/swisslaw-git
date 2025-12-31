@@ -3,20 +3,19 @@ canton: BE
 number: "923.921.1"
 title: Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare
 language: de
-version: 2009-01-01
-valid_until: 2025-12-31
-version_adopted: 2008-11-04
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2008-11-04
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/923.921.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3210/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare
 
-vom 04.11.2008 (Stand 01.01.2009)
+vom 04.11.2008 (Stand 01.01.2026)
 
 Der Kanton Solothurn, handelnd durch den Regierungsrat, und der Kanton Bern, handelnd durch die Volkswirtschaftsdirektion,
 
@@ -48,8 +47,8 @@ schliessen folgende Vereinbarung:
 
 <table>
 <tr><th>Fischart</th><th>Fangmindestmass</th><th>Schonzeit</th></tr>
-<tr><td>Bachforelle</td><td>28 cm</td><td>01.10 .-15.03.</td></tr>
-<tr><td>Äsche</td><td>36 cm</td><td>01.01.-15.05.</td></tr>
+<tr><td>Bachforelle</td><td>38 cm</td><td>01.10 .-15.03.</td></tr>
+<tr><td>Äsche</td><td>-</td><td>ganzjährig</td></tr>
 <tr><td>Hecht</td><td>45 cm</td><td>01.03.-30.04.</td></tr>
 <tr><td>Flussbarsch (Egli)</td><td>kein</td><td>keine</td></tr>
 <tr><td>Felchen</td><td>25 cm</td><td>01.11.-31.12.</td></tr>
@@ -62,9 +61,7 @@ schliessen folgende Vereinbarung:
 <table>
 <tr><th>Fischart</th><th>Pro Tag</th></tr>
 <tr><td>Forellen</td><td>6 Stk.</td></tr>
-<tr><td>Äsche</td><td>2 Stk.</td></tr>
 <tr><td>Hecht</td><td>5 Stk.</td></tr>
-<tr><td>Flussbarsch (Egli)</td><td>50 Stk.</td></tr>
 <tr><td>Felchen</td><td>25 Stk.</td></tr>
 </table>
 

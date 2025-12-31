@@ -3,20 +3,19 @@ canton: BE
 number: "923.921.1"
 title: "Convention entre les cantons de Berne et de Soleure concernant la pêche dans les eaux frontières de l'Aar"
 language: fr
-version: 2009-01-01
-valid_until: 2025-12-31
-version_adopted: 2008-11-04
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2008-11-04
 in_force: 2009-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/923.921.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3210/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3324/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Convention entre les cantons de Berne et de Soleure concernant la pêche dans les eaux frontières de l'Aar
 
-du 04.11.2008 (état au 01.01.2009)
+du 04.11.2008 (état au 01.01.2026)
 
 Le canton de Soleure, agissant par l'intermédiaire du Conseil d'Etat, et le canton de Berne, agissant par l'intermédiaire de la Direction de l'économie publique,
 
@@ -48,8 +47,8 @@ concluent la convention suivante:
 
 <table>
 <tr><th>Espèce de poisson</th><th>Taille minimale</th><th>Période de protection</th></tr>
-<tr><td>Truite de rivière</td><td>28 cm</td><td>01.10.-15.03.</td></tr>
-<tr><td>Ombre</td><td>36 cm</td><td>01.01.-15.05.</td></tr>
+<tr><td>Truite de rivière</td><td>38 cm</td><td>01.10.-15.03.</td></tr>
+<tr><td>Ombre</td><td>-</td><td>année entière</td></tr>
 <tr><td>Brochet</td><td>45 cm</td><td>01.03.-30.04.</td></tr>
 <tr><td>Perche</td><td>aucune</td><td>aucune</td></tr>
 <tr><td>Corégones</td><td>25 cm</td><td>01.11.-31.12.</td></tr>
@@ -62,9 +61,7 @@ concluent la convention suivante:
 <table>
 <tr><th>Espèce de poisson</th><th>Par jour</th></tr>
 <tr><td>Truite</td><td>6 pces</td></tr>
-<tr><td>Ombre</td><td>2 pces</td></tr>
 <tr><td>Brochet</td><td>5 pces</td></tr>
-<tr><td>Perche</td><td>50 pces</td></tr>
 <tr><td>Corégones</td><td>25 pces</td></tr>
 </table>
 
