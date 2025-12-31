@@ -3,20 +3,19 @@ canton: ZG
 number: "632.1"
 title: Steuergesetz
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-07-06
+version: 2026-01-01
+version_adopted: 2025-08-28
 adopted: 2000-05-25
 in_force: 2001-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/632.1"
-pdf: "https://bgs.zg.ch/api/de/versions/2510/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2956/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz
 
-Vom 25. Mai 2000 (Stand 1. Januar 2024)
+Vom 25. Mai 2000 (Stand 1. Januar 2026)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -49,6 +48,8 @@ beschliesst:
 <sup>2</sup> Der gesetzliche Steuerfuss für die Kantonssteuer beträgt 82 Prozent der einfachen Steuer. Der Kantonsrat kann den gesetzlichen Steuerfuss jeweils für ein Budgetjahr erhöhen oder herabsetzen. Ein solcher Beschluss bedarf der einmaligen Beratung. Er unterliegt dem fakultativen Referendum. Bei Ablehnung eines solchen Beschlusses durch das Volk gilt für das betreffende Budgetjahr der Steuerfuss des Vorjahres.
 
 <sup>2a</sup> In Abweichung von Abs. 2 beträgt der Steuerfuss für die Steuerjahre 2021 bis 2023 80 Prozent der einfachen Steuer.
+
+<sup>2b</sup> In Abweichung von Abs. 2 beträgt der Steuerfuss für die Steuerjahre 2026 bis 2029 78 Prozent der einfachen Steuer.
 
 <sup>3</sup> …
 
@@ -559,7 +560,7 @@ beschliesst:
 
 **Allgemeine Abzüge – unabhängig von der Einkommenshöhe**
 
-<sup>1</sup> Von den Einkünften werden abgezogen
+<sup>1</sup> Von den Einkünften werden abgezogen:
 
 - a) die privaten Schuldzinsen im Umfang des nach §§ 19, 19<sup>bis</sup> und 20 steuerbaren Vermögensertrages und weiterer 50’000 Franken;
 - b) die dauernden Lasten sowie 40 Prozent der bezahlten Leibrenten;
@@ -567,7 +568,7 @@ beschliesst:
 - d) die gemäss Gesetz, Statut oder Reglement geleisteten Einlagen, Prämien und Beiträge an die Alters-, Hinterlassenen- und Invalidenversicherung und an Einrichtungen der beruflichen Vorsorge;
 - e) Einlagen, Prämien und Beiträge zum Erwerb von vertraglichen Ansprüchen aus anerkannten Formen der gebundenen Selbstvorsorge nach Massgabe der bundesrechtlichen Vorschriften über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge;
 - f) die Prämien und Beiträge für die Erwerbsersatzordnung, die Arbeitslosenversicherung und die obligatorische Unfallversicherung;
-- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Bst. f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen, bis zum Gesamtbetrag von: 6000 Franken für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; 3000 Franken für die übrigen steuerpflichtigen Personen. Für steuerpflichtige Personen ohne Beiträge gemäss den Bst. d und e erhöhen sich diese Ansätze um die Hälfte. Diese Abzüge erhöhen sich um 1000 Franken für jedes Kind oder jede unterstützungsbedürftige Person, für welche die steuerpflichtige Person einen Abzug gemäss § 33 Abs. 1 geltend machen kann;
+- g) die Einlagen, Prämien und Beiträge für die Lebens-, die Kranken- und die nicht unter Bst. f fallende Unfallversicherung sowie die Zinsen von Sparkapitalien der steuerpflichtigen Person und der von ihr unterhaltenen Personen bis zum Gesamtbetrag von: 9200 Franken für verheiratete Personen, die in rechtlich und tatsächlich ungetrennter Ehe leben; 4600 Franken für die übrigen steuerpflichtigen Personen. Für steuerpflichtige Personen ohne Beiträge gemäss den Bst. d und e erhöhen sich diese Ansätze um die Hälfte. Diese Abzüge erhöhen sich um 1600 Franken für jedes Kind oder jede unterstützungsbedürftige Person, für welche die steuerpflichtige Person einen Abzug gemäss § 33 Abs. 1 geltend machen kann;
 - h) bis zu 4000 Franken pro Jahr vom niedrigeren der beiden Erwerbseinkommen von in ungetrennter Ehe lebenden Eheleuten. Bei Mitarbeit des einen Eheteils im Beruf, Geschäft oder Gewerbe des andern Eheteils werden vom selbstständigen Erwerbseinkommen der Eheleute höchstens 4000 Franken nicht besteuert. Die beiden Abzüge können nicht gleichzeitig geltend gemacht werden;
 - i) die behinderungsbedingten Kosten der steuerpflichtigen Person oder der von ihr unterhaltenen Personen mit Behinderungen im Sinne des Behindertengleichstellungsgesetzes vom 13. Dezember 2002, soweit die steuerpflichtige Person die Kosten selber trägt;
 - k) die Mitgliederbeiträge und Zuwendungen bis zum Gesamtbetrag von 20’000 Franken an politische Parteien, die
@@ -613,9 +614,9 @@ beschliesst:
 - 1a. Für die Steuerjahre 2021 bis 2023 betragen die Abzüge nach Ziff. 1 Bst. a Fr. 22 200.– und nach Ziff. 1 Bst. b Fr. 11 100.–.
 - 2\. als Kinderabzug (Dieser Abzug erhöht sich ab der Steuerperiode, in der das Kind das 15. Altersjahr vollendet, um 12 000 Franken):
   - a) für minderjährige unter der elterlichen Sorge oder Obhut der steuerpflichtigen Person oder für volljährige und in der beruflichen Ausbildung stehende Kinder, für deren Unterhalt die steuerpflichtige Person zur Hauptsache aufkommt: Fr. 12 000.–.
-- 3\. als AHV-/IV-Rentenabzug: für Steuerpflichtige mit Anspruch auf AHV-/IV-Renten mit einem Reinvermögen von höchstens 250 000 Franken und einem Reineinkommen bis zu
-  - a) Fr. 30 000.–: Fr. 3 000.–
-  - b) Fr. 50 000.–: Fr. 1 500.–
+- 3\. als AHV-/IV-Rentenabzug: 6000 Franken pro Person mit Anspruch auf AHV-/IV-Renten mit einem Reinvermögen von höchstens 400 000 Franken und einem Reineinkommen bis zu
+  - a) Fr. 120 000.– für Steuerpflichtige mit einem persönlichen Abzug gemäss Ziff. 1 Bst. a;
+  - b) Fr. 60 000.– für Steuerpflichtige mit einem persönlichen Abzug gemäss Ziff. 1 Bst. b.
 - 4\. als Unterstützungsabzug (Der Abzug kann nicht beansprucht werden für den Eheteil und für Kinder, für die ein Abzug nach Ziff. 1 und 2 oder § 30 Bst. c gewährt wird.):
   - a) für erwerbsunfähige oder beschränkt erwerbsfähige Personen, an deren Unterhalt die steuerpflichtige Person mindestens in der Höhe des Abzuges beiträgt: Fr. 3 000.–
 - 5\. als Mieterabzug für die selbstbewohnte Wohnung der steuerpflichtigen Person an ihrem Wohnsitz im Kanton Zug:
