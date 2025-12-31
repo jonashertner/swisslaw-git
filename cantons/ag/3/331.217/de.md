@@ -4,13 +4,12 @@ number: "331.217"
 title: Verordnung über die gemeinwirtschaftlichen Leistungen
 short: GWLV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-11
+version: 2026-01-01
+version_adopted: 2025-12-03
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/331.217"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3741/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3909/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3741/pdf_file"
 
 (GWLV)
 
-Vom 11.11.2020 (Stand 01.01.2025)
+Vom 11.11.2020 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -65,7 +64,9 @@ beschliesst:
 - p) Dolmetscherkosten,
 - q) Vorhalteleistungen Polytrauma/Stroke Center,
 - r) Vorhalteleistungen Notfallstation Zentrumsspital Akutsomatik,
-- s) Sicherheitsdienst Notfall.
+- s) Sicherheitsdienst Notfall,
+- t) Weiterbildung Assistenzakademikerinnen und -akademiker,
+- u) Tagesklinische Angebote Rehabilitationskliniken.
 
 #### § 4
 
@@ -78,7 +79,7 @@ beschliesst:
 - a) Betrieb der Sanitätsnotrufzentrale: Fr. 2,208 Mio.,
 - b) Massnahmen des Kindes- und Erwachsenenschutzrechts: Fr. 0,5 Mio.,
 - c) Bereitstellung und Unterhalt von geschützten Operationssälen (GOPS): In Abhängigkeit der Grösse Fr. 20'000.– oder Fr. 30'000.–,
-- d) Spitalseelsorge: Fr. 0,5 Mio. pro Jahr,
+- d) Spitalseelsorge: Fr. 750'000.– pro Jahr,
 - e) Weiterbildung in Hausarztpraxen (Praxisassistenz): Fr. 50'000.– pro halbes Jahr (Lohnkosten und Lohnadministrativkosten),
 - f) Vorhalteleistungen Polytrauma/Stroke Center: Fr. 5,5 Mio.,
 - g) Vorhalteleistungen Notfallstation Zentrumsspital Akutsomatik: Fr. 2,9 Mio.,
@@ -95,6 +96,8 @@ beschliesst:
 - g) medizinische Versorgung nach Genitalbeschneidungen: effektiv entstandene Kosten,
 - h) Hausarztmentoring: Fr. 50'000.– pro 20 Stellenprozent einer Mentorin oder eines Mentors,
 - i) …
+- j) Weiterbildung Assistenzakademikerinnen und -akademiker: Fr. 20'000.– pro Weiterbildungsstelle,
+- k) Tagesklinische Angebote Rehabilitationskliniken: Fr. 66.– pro Behandlungstag von Personen mit Wohnsitz im Kanton.
 
 <sup>4</sup> Die Abgeltung der folgenden Leistungen erfolgt situationsbezogen und innerhalb eines Kostendachs:
 
