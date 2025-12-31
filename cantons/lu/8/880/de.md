@@ -4,13 +4,12 @@ number: "880"
 title: Einführungsgesetz zu den Bundesgesetzen über die Alters- und Hinterlassenenversicherung und über die Invalidenversicherung
 short: Gesetz über das Sozialversicherungszentrum; SoVZG
 language: de
-version: 2019-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-09-10
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 2018-09-10
 in_force: 2019-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/880"
-pdf: "https://srl.lu.ch/api/de/versions/3309/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4670/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3309/pdf_file"
 
 (Gesetz über das Sozialversicherungszentrum; SoVZG)
 
-vom 10.09.2018 (Stand 01.01.2019)
+vom 10.09.2018 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Luzern,
 
@@ -112,14 +111,14 @@ beschliesst:
 
 <sup>2</sup> Der Verwaltungsrat
 
-- a. wählt die Geschäftsleitung und deren Vorsitzenden oder Vorsitzende,
-- b. erteilt und widerruft die Genehmigung der Wahl des Personals der zweiten Hierarchiestufe des Sozialversicherungszentrums,
+- a. stellt die Geschäftsleitung und deren Vorsitzenden oder Vorsitzende an,
+- b. erteilt und widerruft die Genehmigung der Anstellung des Personals der zweiten Hierarchiestufe des Sozialversicherungszentrums,
 - c. bezeichnet die Revisionsstelle,
 - d. erlässt die notwendigen Reglemente, wie das Geschäftsreglement und das Personalreglement,
 - e. genehmigt das Organigramm und den Stellenplan des Sozialversicherungszentrums,
 - f. stellt Gesuche für die Ausführung von Aufgaben der Ausgleichskasse durch Dritte nach Artikel 63 Absatz 5 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946[^7-1],
 - g. legt die Grundsätze zur Erhebung der Verwaltungskostenbeiträge nach Artikel 69 Absatz 1 AHVG fest,
-- h. erteilt und widerruft die Genehmigung der Wahl der Leiterinnen und Leiter der AHV-Zweigstellen,
+- h. erteilt und widerruft die Genehmigung der Anstellung der Leiterinnen und Leiter der AHV-Zweigstellen,
 - i. legt den Beitrag an die Kosten der AHV-Zweigstellen fest,
 - j. beschliesst das Budget, die Jahresrechnung und den Jahresbericht des Sozialversicherungszentrums und der Ausgleichskasse; vorbehalten bleibt der Beschluss des Budgets der IV-Stelle sowie des Budgets des Geschäftsfeldes Wirtschaft und Arbeit betreffend die obligatorische Arbeitslosenversicherung durch den Bund,
 - k. nimmt von den Berichten der Revisionsstelle Kenntnis,
@@ -200,11 +199,11 @@ beschliesst:
 
 **Führung**
 
-<sup>1</sup> Der Gemeinderat wählt zur Sicherstellung der ordnungsgemässen Führung der AHV-Zweigstelle einen Leiter oder eine Leiterin und stellt das notwendige Personal zur Verfügung.
+<sup>1</sup> Der Gemeinderat stellt zur Sicherstellung der ordnungsgemässen Führung der AHV-Zweigstelle einen Leiter oder eine Leiterin an und stellt das notwendige Personal zur Verfügung.
 
-<sup>2</sup> Die Wahl des Leiters oder der Leiterin der AHV-Zweigstelle ist vom Verwaltungsrat zu genehmigen. Die Genehmigung erfolgt nach dem Bestehen einer von der Ausgleichskasse durchgeführten Fähigkeitsprüfung.
+<sup>2</sup> Die Anstellung des Leiters oder der Leiterin der AHV-Zweigstelle ist vom Verwaltungsrat zu genehmigen. Die Genehmigung erfolgt nach dem Bestehen einer von der Ausgleichskasse durchgeführten Fähigkeitsprüfung.
 
-<sup>3</sup> Ist die ordnungsgemässe Führung einer Zweigstelle nicht gewährleistet, trifft die Ausgleichskasse die erforderlichen Massnahmen und beantragt dem Verwaltungsrat nötigenfalls den Widerruf der Genehmigung der Wahl des Leiters oder der Leiterin der AHV-Zweigstelle.
+<sup>3</sup> Ist die ordnungsgemässe Führung einer Zweigstelle nicht gewährleistet, trifft die Ausgleichskasse die erforderlichen Massnahmen und beantragt dem Verwaltungsrat nötigenfalls den Widerruf der Genehmigung der Anstellung des Leiters oder der Leiterin der AHV-Zweigstelle.
 
 ### 1.6 Arbeitgeberkontrolle
 
