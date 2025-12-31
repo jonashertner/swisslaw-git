@@ -3,20 +3,19 @@ canton: LU
 number: "845"
 title: Kantonale Tierseuchenverordnung
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
-version_adopted: 2025-04-15
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/845"
-pdf: "https://srl.lu.ch/api/de/versions/4469/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4590/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Tierseuchenverordnung
 
-vom 22.11.2011 (Stand 01.06.2025)
+vom 22.11.2011 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -38,7 +37,7 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat
 
 - a. übt die Oberaufsicht über den Vollzug der Tierseuchengesetzgebung aus,
-- b. wählt den Kantonstierarzt oder die Kantonstierärztin,
+- b. stellt den Kantonstierarzt oder die Kantonstierärztin an,
 - c. …
 - d. bezeichnet die Anlagen für die Entsorgung von tierischen Nebenprodukten gemäss Artikel 37 der Verordnung über tierische Nebenprodukte (VTNP) vom 25. Mai 2011[^1-1],
 - e. …
@@ -64,7 +63,7 @@ beschliesst:
 <sup>2</sup> Nebst den in Artikel 301 Absatz 1 der eidgenössischen Tierseuchenverordnung (TSV) vom 27. Juni 1995[^3-2] dem Kantonstierarzt oder der Kantonstierärztin übertragenen Pflichten hat der Veterinärdienst insbesondere folgende Aufgaben: Er
 
 - a. ist verantwortlich für die Bereitstellung der seuchenrelevanten Infrastruktur und kann prophylaktische Einsätze anordnen,
-- b. wählt die amtlichen Tierärztinnen und -ärzte, die amtlichen Fachassistentinnen und ‑assistenten sowie die Bieneninspektorinnen und ‑inspektoren und bezeichnet im Einzelfall die Schatzungsexpertinnen und ‑experten,
+- b. stellt die amtlichen Tierärztinnen und -ärzte, die amtlichen Fachassistentinnen und ‑assistenten sowie die Bieneninspektorinnen und ‑inspektoren an und bezeichnet im Einzelfall die Schatzungsexpertinnen und ‑experten,
 - c. bestimmt für jeden Betrieb, in dem Klauentiere, Equiden oder Hausgeflügel gehalten werden, einen Kontrolltierarzt oder eine Kontrolltierärztin,
 - d. ist für den Vollzug der Verordnung über tierische Nebenprodukte[^3-3] zuständig,
 - e. trifft Massnahmen zur Beaufsichtigung der Tiertransporte,
@@ -115,7 +114,7 @@ beschliesst:
 
 **Bieneninspektorinnen und -inspektoren**
 
-<sup>1</sup> Der Veterinärdienst teilt den Kanton in Bieneninspektionskreise ein. Für jeden Kreis wird ein Bieneninspektor oder eine Bieneninspektorin gewählt.
+<sup>1</sup> Der Veterinärdienst teilt den Kanton in Bieneninspektionskreise ein. Für jeden Kreis wird ein Bieneninspektor oder eine Bieneninspektorin bestimmt.
 
 <sup>2</sup> Die Bieneninspektorinnen und -inspektoren vollziehen unter der Leitung des Veterinärdienstes die Vorschriften zur Bekämpfung von Bienenseuchen. Sie führen eine Bienenverkehrskontrolle über die in ihrem Kreis eingeführten und aus ihrem Kreis ausgeführten Bienenvölker. Sie erstatten dem Veterinärdienst über jeden Seuchenfall unverzüglich einen schriftlichen Bericht und stellen Antrag über die zu treffenden Massnahmen.
 
@@ -133,7 +132,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde
 
-- a. wählt, beaufsichtigt und entschädigt die Wasenmeisterinnen und -meister und deren Stellvertretung; die Wahlen sind dem Veterinärdienst mitzuteilen,
+- a. stellt die Wasenmeisterinnen und -meister und deren Stellvertretung an, beaufsichtigt und entschädigt sie; die Anstellungen sind dem Veterinärdienst mitzuteilen,
 - b. trifft die Massnahmen zur Entsorgung tierischer Nebenprodukte gemäss den §§ 15 ff.,
 - c. übermittelt die Pläne für regionale Sammelstellen für tierische Nebenprodukte dem Veterinärdienst zur Genehmigung,
 - d. trifft mit Ausnahme der Anordnungen für die seuchenpolizeiliche Überwachung alle für die Durchführung von Viehmärkten, Viehausstellungen und ähnlichen Veranstaltungen notwendigen Massnahmen,
