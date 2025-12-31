@@ -3,10 +3,9 @@ canton: ZH
 number: "551.63"
 title: Gebührenordnung des Forensischen Instituts Zürich
 language: de
-nachtrag: "115"
-valid_until: 2026-01-01
+nachtrag: "131"
 adopted: 2021-06-11
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_63-2021_06_11-2022_01_01-115.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-551_63-2021_06_11-2022_01_01-131.html"
 text: pdf
 ---
 
@@ -52,7 +51,7 @@ Grundauftrages gemäss § 3 Abs. 1 und 2 Vereinbarung FOR kosten- festsetzung de
 
 **1**
 
-- 1\. 1. 22 - 115
+- 1\. 1. 26 - 131
 
 #### § 4
 
@@ -70,90 +69,86 @@ letzten Tätigkeit in Rechnung gestellt. Zugunsten der Stammkorps werden sie qua
 
 keit die ernannte sachverständige Person ist für die korrekte Leistungserfassung, Gebührenfestsetzung und Rechnungstellung verantwortlich.
 
-**1 2 3**
+**1 2 3 4**
 
 OS 76, 417; ABl 2021-06-18. Inkrafttreten: 1. Januar 2022. LS 551.60.
 
-### Anhang
+### Fassung gemäss B vom 26. November 2024 (OS 80, 203; ABl 2025-05-23). In
+
+Kraft seit 1. Januar 2026.
+
+### Anhang<sup>4</sup>
 
 ### Gebühren Forensisches Institut Zürich
 
-Stundenansätze Fachspezialistin oder Fachspezialist Expertin oder Experte Mitarbeiterin oder Mitarbeiter Sekretariat
+Stundenansätze Fachspezialistin oder Fachspezialist (FS) Expertin oder Experte (Exp) Mitarbeiterin oder Mitarbeiter Sekretariat
 
-**Fr. 140 Fr. 190 Fr. 100**
+**Fr. 185 Fr. 220 Fr. 130**
 
 ### Pauschalen Spurensicherung, Ausrücken, Instruktion
 
-**Fr. 1100 Fr. 1500**
+**Fr. 1400 Fr. 1800**
 
 Tagespauschale Fachspezialistin oder Fachspezialist Tagespauschale Expertin oder Experte
 
 ### Pauschalen Betäubungsmittel-Spurensicherung
 
-**Fr. 140 Fr. 280 Fr. 280**
+**Fr. 100 nach Zeitaufwand (FS)**
 
-Fingernagelschmutz/Haarprobe, pro Person Spurensicherung Saug-Asservat, pro Person Spurensicherung an Kleidern, pro Person
+Fingernagelschmutz/Haarprobe, pro Person Saug-Asservat
 
-### Pauschale Zürcher Entschärfungsdienst
+### Pauschalen Zürcher Entschärfungsdienst
 
-**Fr. 700**
+**nach Zeitaufwand (FS) Fr. 35/kg**
 
-Vorsorgliche Durchsuchung (Private)
+Vorsorgliche Durchsuchung (Private) Vorgezogene Entsorgungsgebühren Explosivstoffe und Pyrotechnika
 
 ### Pauschalen Fotografie/3D
 
-**Fr. 15 Fr. 70 Fr. 400 nach Zeitaufwand Fr. 100 Fr. 500 Fr. 1000 Fr. 1500**
+**nach Zeitaufwand (FS) Fr. 600 Fr. 1200 Fr. 1400**
 
-Fotos/Fotodokumentation, Standard: pro Seite Sonstige Aufträge nach Aufwand, mindestens Erstellung CAD-Plan, bis 4 Std., inkl. 1 Print Erstellung CAD-Plan, mehr als 4 Std.
+Fotos/Fotodokumentation und sonstige Aufträge Scannen Objekt, Grundgebühr Scannen Tat-/Unfallort, Grundgebühr Visualisierung von eingescannten Tatorten (Virtual Reality), Grundgebühr Virtuelle Tatortbegehung (Augenschein) Täterhöhenrekonstruktion
 
-Plan (Original vorhanden): pro Print Scannen Objekt, Grundgebühr Scannen Tat-/Unfallort, Grundgebühr Täterhöhenrekonstruktion
+**nach Zeitaufwand (FS) nach Zeitaufwand (Exp)**
 
-### Pauschale Erkennungsdienst
+### Pauschalen Erkennungsdienst, Ausweisprüfung
 
-**Fr. 60**
+und Gesichtsvergleich Erkennungsdienstliche Erfassung (für Visum Private) Echtheitsprüfung Ausweisdokument Vorbeurteilung Gesichtsbildvergleich Interdisziplinäre Vorabsichtung von Videoaufzeichnungen
 
-Erkennungsdienstliche Behandlung für Private (für Visum)
+**Fr. 60 Fr. 100 Fr. 550 nach Zeitaufwand (FS)**
 
-### Pauschalen Daktyloskopie (Fingerabdrücke) und DNA
+### Pauschalen Daktyloskopie (Fingerabdrücke), DNA
 
-**Fr. 280 Fr. 300 Fr. 50**
+und Schusswaffen Daktyloskopische Auswertung, einfache Spur, Sichtbarmachung Fr. 370 DNA-Spurenverwaltung (inkl. Bericht) DNA-Abwaschen ab Munitionsteilen/Schmuck, pro Asservat Fr. 100 Schusswaffen: Aufnahme Spurenmaterial in Zentrale Sammlung Fr. 925 (inkl. Abgleich)
 
-Daktyloskopische Auswertung, einfach (Sichtbarmachung) DNA-Spurenverwaltung (inkl. Bericht) DNA-Abwaschen ab Munitionsteilen, pro Teil
-
-### Pauschalen Unfalluntersuchungen
-
-**Fr. 250 Fr. 250 Fr. 1000 Fr. 500 Fr. 1200**
-
-Glühlampen, pro Stück (exkl. Labor) Aufzeichnungsgeräte, pro Stück Reifen/Räder, pro Stück Sicherheitsgurten, pro Stück Tachoscheibenauswertung (Gutachten)
+**Fr. 370**
 
 **3**
 
-- 1\. 1. 22 - 115 Stundenansätze Laserpointer, Bestimmung Leistungsklasse Laserpointer, METAS-Untersuchung inkl. FOR-Bericht Auslesung Fahrzeug
+- 1\. 1. 26 - 131 Stundenansätze
 
-**Fr. 280 Fr. 450 Fr. 500**
+### Pauschalen Unfalluntersuchung
 
-### Pauschalen Schusswaffen
+**Fr. 500 Fr. 370 Fr. 1100 Fr. 740 Fr. 800 Fr. 550**
 
-Aufnahme Spurenmaterial in Zentrale Sammlung (inkl. Abgleich) Fr. 820 Beschuss: pro Waffe Schusswaffen-Vergleich, wenige offene Fälle, pro Waffe Schusswaffen-Vergleich, viele offene Fälle, pro Waffe Auslesen Destabilisierungsgerät
+Glühlampen, pro Asservat (exkl. Labor) Aufzeichnungsgeräte, pro Gerät Reifen/Räder, pro Asservat Sicherheitsgurten, pro Asservat Laserpointer, METAS-Untersuchung inkl. FOR-Bericht Auslesung digitale Spuren aus Fahrzeug
 
-**Fr. 140 Fr. 120 Fr. 360 Fr. 440**
+### Pauschalen Analytik und Betäubungsmitteluntersuchung
 
-### Pauschalen Analytik und Betäubungsmitteluntersuchungen
+**Fr. 400 Fr. 530 Fr. 400 nach Zeitaufwand (FS)**
 
-**Fr. 300 Fr. 330 Fr. 450 Fr. 450 Fr. 250 Fr. 280 nach Zeitaufwand Fr. 280 nach Zeitaufwand nach Zeitaufwand Fr. 250 Fr. 500 Fr. 250 Fr. 200**
+Gehaltsbestimmung Heroin/Kokain, pro Asservat Gehaltsbestimmung übrige Betäubungsmittel, pro Asservat Qualitative Untersuchung Cannabis, 1 bis 4 Asservate Qualitative Untersuchung Cannabis, mehr als 4 Asservate Schmauch-Analyse (Rasterelektronenmikroskop), Grundgebühr Fr. 600 Zusätzlich pro Schmauch-Analyse Brandschutt Voruntersuchung, bis 3 Asservate Brandschuttanalytik komplett, pro Asservat
 
-Laboranalytik, pro Untersuchung, pro Asservat Gehaltsbestimmung Heroin/Kokain, pro Asservat Gehaltsbestimmung übrige Betäubungsmittel, pro Asservat Identifikation (2 Methoden), pro Asservat Zusatzmethoden, pro Untersuchung Qualitative Untersuchung Cannabis, 1 bis 4 Proben Qualitative Untersuchung Cannabis, mehr als 4 Proben Synthetische Cannabinoide, bis 4 Asservate – weitere Asservate Profiling, Gehaltsbestimmung Schmauch-Analyse (Rasterelektronenmikroskop), Grundgebühr – pro Analyse Brandschutt Voruntersuchung, bis 3 Proben Brandschuttanalytik komplett, pro Probe
+**Fr. 300 Fr. 400 Fr. 260 Stundenansätze Fr. 1 Fr. 1.30**
 
 ### Fahrkosten
 
-**Fr. 1 Fr. 1.30**
-
 Fahrkosten, normale Transporte, pro km Fahrkosten, ADR-Transporte, pro km
 
-### Zuschläge
+### Zuschlag
 
-**Fr. 300 Fr. 600 50%**
+**50%**
 
-Gerätezuschlag 1 (falls nicht inbegriffen in Pauschale) Gerätezuschlag 2 (falls nicht inbegriffen in Pauschale) Zuschlag für Express-Untersuchungen, höchstens bis
+Zuschlag für Express-Untersuchung
 
 Sämtliche Angaben exkl. MWSt und inkl. Material
