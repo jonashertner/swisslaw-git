@@ -4,11 +4,11 @@ number: "230"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch (EG ZGB)
 short: EG ZGB
 language: de
-version: "2024-12-01"
-nachtrag: "127"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
+valid_until: 2026-06-01
 adopted: 1911-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-230-1911_04_02-1912_01_01-131.html"
 text: pdf
 ---
 
@@ -46,7 +46,7 @@ I. Zivilstandsamt
 
 **1**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 <sup>3</sup> Der Regierungsrat kann ein Sonderzivilstandsamt für das ganze Kantonsgebiet gemäss Art. 2 der eidgenössischen Zivilstandsverordnung vom 28. April 2004[^t-3] einrichten.
 
@@ -77,11 +77,10 @@ I. Zivilstandsamt
 § 33.<sup>52</sup> Der Präsident des Gemeindevorstands<sup>78</sup> oder die durch Gemeindebeschluss bezeichnete Amtsstelle ist die zuständige Behörde für die Entgegennahme von Fundanzeigen und Genehmigung der Versteigerung gefundener Sachen (Art. 720 und 721 ZGB[^hIIGemeindevorstand-1].
 
 [^hIIGemeindevorstand-1]: SR 210.
-[^hIIGemeindevorstand-2]: LS 833.1.
 
 #### § 34
 
-<sup>1</sup> Der Gemeindevorstand<sup>78</sup> ist die zuständige Behörde: 1.<sup>53</sup> 2.<sup>83</sup> für die Aufsicht über Stiftungen, die nach ihrer Bestimmung der Gemeinde angehören (Art. 84 ZGB[^hIIGemeindevorstand-1], wenn der Gemeindevorstand gemäss § 2 a des Gesetzes über die BVG- und Stiftungsaufsicht vom 11. Juli 2011 (BVSG[^hIIGemeindevorstand-2] beschliesst, die Aufsicht selber wahrzunehmen, und ist in diesem Fall Kantonsbehörde gemäss Art. 88 ZGB; §§ 13 und 14 BVSG gelten in diesem Fall sinngemäss. 3.<sup>53</sup> 4.<sup>53</sup> 5. für die Anfechtung des Kindesverhältnisses (Art. 259 Abs. 2 Ziff. 3, Art. 260 a Abs. 1 und Art. 269 a Abs. 1 ZGB[^hIIGemeindevorstand-1],
+<sup>1</sup> Der Gemeindevorstand<sup>78</sup> ist die zuständige Behörde: 1.<sup>53</sup> 2.<sup>87</sup> 3.<sup>53</sup> 4.<sup>53</sup> 5. für die Anfechtung des Kindesverhältnisses (Art. 259 Abs. 2 Ziff. 3, Art. 260 a Abs. 1 und Art. 269 a Abs. 1 ZGB[^hIIGemeindevorstand-1],
 
 - 6\. für Begehren von Amtes wegen um Verschollenerklärung (Art. 550 ZGB[^34-1],
 
@@ -98,13 +97,9 @@ I. Zivilstandsamt
 
 ### III. Bezirksrat
 
-#### § 37
+§ 37.<sup>87</sup>
 
-<sup>1</sup> Stiftungen, die nach ihrer Bestimmung dem Bezirk oder mehreren Gemeinden desselben angehören, stehen unter Aufsicht des Bezirksrates (Art. 84 ZGB). Dieser ist Kantonsbehörde gemäss Art. 88 ZGB.<sup>83</sup>
-
-<sup>2</sup> §§ 13 und 14 des Gesetzes über die BVG- und Stiftungsaufsicht (BVSG) vom 11. Juli 2011[^37-1] gelten sinngemäss.<sup>68</sup>
-
-§ 38. Der Bezirksrat ist zuständig für das Begehren um Vollziehung einer vom Schenkgeber im Interesse des Bezirkes oder mehrerer Gemeinden desselben gemachten Auflage (Art. 246 Abs. 2 OR[^37-2].
+§ 38. Der Bezirksrat ist zuständig für das Begehren um Vollziehung einer vom Schenkgeber im Interesse des Bezirkes oder mehrerer Gemeinden desselben gemachten Auflage (Art. 246 Abs. 2 OR[^hIIIBezirksrat-1].
 
 §§ 39–40 a.<sup>74</sup>
 
@@ -114,10 +109,9 @@ I. Zivilstandsamt
 
 **3**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
-[^37-1]: LS 833.1.
-[^37-2]: SR 220.
+[^hIIIBezirksrat-1]: SR 220.
 
 ### IV. Handelsregisteramt
 
@@ -191,7 +185,7 @@ I. Zivilstandsamt
 
 **5**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 ### Zweiter Titel: Kantonales Zivilrecht
 
@@ -273,7 +267,7 @@ Bei der Auflösung wird das Vermögen der Korporation an die Mitglieder verteilt
 
 **7**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 [^hAAllgemeineBestim-1]: SR 210.
 [^hAAllgemeineBestim-2]: LS 232.3.
@@ -364,7 +358,7 @@ Der Staat bezahlt der Gemeinde, welche vier Jahre lang ein Findelkind versorgt h
 
 **9**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 [^hDBetreibungsrechtl-1]: Fassung gemäss RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
 [^hDBetreibungsrechtl-2]: Aufgehoben durch RRB vom 9. September 1987 (OS 50, 210). In Kraft seit 1. Januar 1988.
@@ -448,7 +442,7 @@ Der Rechnungsruf ist im Amtsblatt zu veröffentlichen und am Wohnsitz und in der
 
 **11**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 <sup>2</sup> Gelangt ein landwirtschaftliches Grundstück von 60 oder mehr Aren zur Teilung, so muss der einzelne Teil mindestens 30 Aren ausmachen.
 
@@ -509,7 +503,7 @@ Wird jemand dadurch, dass ein Grundeigentümer sein Eigentumsrecht überschreite
 
 **13**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 ### II. Pflanzen von Sträuchern und Bäumen<sup>85</sup>
 
@@ -561,7 +555,7 @@ Die Ufereigentümer an einem Fluss haben den Schifffahrern zu gestatten, sich de
 
 **15**
 
-- 1\. 1. 25 - 127 § 178. Andere Einfriedigungen, wie sogenannte tote Hecken, Holzwände oder Mauern, welche die Höhe von 150 cm nicht übersteigen, darf der Eigentümer an der Grenze anbringen und daran auch Spaliere ziehen. Wenn die Einfriedigungen aber jene Höhe überschreiten, so kann der Nachbar begehren, dass sie je um die Hälfte der Höhe über 150 cm von der Grenze entfernt werden.
+- 1\. 1. 26 - 131 § 178. Andere Einfriedigungen, wie sogenannte tote Hecken, Holzwände oder Mauern, welche die Höhe von 150 cm nicht übersteigen, darf der Eigentümer an der Grenze anbringen und daran auch Spaliere ziehen. Wenn die Einfriedigungen aber jene Höhe überschreiten, so kann der Nachbar begehren, dass sie je um die Hälfte der Höhe über 150 cm von der Grenze entfernt werden.
 
 § 179.<sup>85</sup> Für das Schneiden der Grünhecken, das Zurückschneiden von Sträuchern und Bäumen und die Reparatur von Grenzmauern darf der Eigentümer soweit nötig den Boden des Nachbarn betreten. Er informiert den Nachbarn vorgängig und ist ihm für Schaden ersatzpflichtig.
 
@@ -629,7 +623,7 @@ Gebahnter Wege durch offenes Feld und Wald darf jeder Fussgänger sich bedienen,
 
 **17**
 
-- 1\. 1. 25 - 127 § 186. Wer ein Fahrwegrecht hat, darf auch über den Weg reiten und festgehaltenes (gefangenes) Vieh darüber führen, aber aus dem Fahrwegrecht folgt nicht das Recht, schwere Lasten zu schleifen oder freigelassenes Vieh darüber zu treiben.
+- 1\. 1. 26 - 131 § 186. Wer ein Fahrwegrecht hat, darf auch über den Weg reiten und festgehaltenes (gefangenes) Vieh darüber führen, aber aus dem Fahrwegrecht folgt nicht das Recht, schwere Lasten zu schleifen oder freigelassenes Vieh darüber zu treiben.
 
 #### § 187
 
@@ -679,7 +673,7 @@ e.<sup>47</sup> zugunsten der Gemeinden für die Grundsteuern (§ 208 Steuergese
 
 **19**
 
-- 1\. 1. 25 - 127 § 195.<sup>47</sup> Die gesetzlichen Pfandrechte bedürfen zu ihrer Entstehung keiner Eintragung. Die in § 194 lit. c und f genannten erlöschen jedoch, wenn sie nicht innerhalb von sechs Monaten nach der Fälligkeit der Forderung eingetragen werden, diejenigen nach § 194 lit. e, wenn sie nicht eingetragen werden innerhalb von drei Jahren nach der Handänderung oder bei einer solchen, die keine Eintragung im Grundbuch voraussetzt, seit der Wahrnehmung durch die für die Einschätzung zuständige Steuerbehörde. Die Pfandrechte gemäss § 194 lit. g erlöschen, wenn sie nicht innerhalb von zwei Jahren nach der Fälligkeit des Anspruchs eingetragen werden.
+- 1\. 1. 26 - 131 § 195.<sup>47</sup> Die gesetzlichen Pfandrechte bedürfen zu ihrer Entstehung keiner Eintragung. Die in § 194 lit. c und f genannten erlöschen jedoch, wenn sie nicht innerhalb von sechs Monaten nach der Fälligkeit der Forderung eingetragen werden, diejenigen nach § 194 lit. e, wenn sie nicht eingetragen werden innerhalb von drei Jahren nach der Handänderung oder bei einer solchen, die keine Eintragung im Grundbuch voraussetzt, seit der Wahrnehmung durch die für die Einschätzung zuständige Steuerbehörde. Die Pfandrechte gemäss § 194 lit. g erlöschen, wenn sie nicht innerhalb von zwei Jahren nach der Fälligkeit des Anspruchs eingetragen werden.
 
 [^194-1]: LS 862.1.
 [^194-2]: LS 724.11.
@@ -762,7 +756,7 @@ Der Verkauf der Pfandgegenstände erfolgt ohne vorgängige Betreibung durch das 
 
 **21**
 
-- 1\. 1. 25 - 127 § 208. Gold- und Silbersachen dürfen nicht unter dem Metallwert, der durch Schätzung festzustellen und im Gantprotokoll vorzumerken ist, versteigert werden. Für die Richtigkeit der Schätzung haftet die Gantbeamtung, welche ihrerseits das Gutachten Sachverständiger einzuholen berechtigt ist. Wenn auf der Gant weniger als der Metallwert geboten wird, so soll dieser von der Gantbeamtung durch freihändigen Verkauf erzielt werden.
+- 1\. 1. 26 - 131 § 208. Gold- und Silbersachen dürfen nicht unter dem Metallwert, der durch Schätzung festzustellen und im Gantprotokoll vorzumerken ist, versteigert werden. Für die Richtigkeit der Schätzung haftet die Gantbeamtung, welche ihrerseits das Gutachten Sachverständiger einzuholen berechtigt ist. Wenn auf der Gant weniger als der Metallwert geboten wird, so soll dieser von der Gantbeamtung durch freihändigen Verkauf erzielt werden.
 
 #### § 209
 
@@ -823,7 +817,7 @@ Durch Beschluss des Kantonsrates kann angeordnet werden, dass an Stelle der Bele
 
 **23**
 
-- 1\. 1. 25 - 127 § 222.<sup>71</sup>
+- 1\. 1. 26 - 131 § 222.<sup>71</sup>
 
 [^219-1]: SR 210.
 [^219-2]: LS 252.
@@ -876,7 +870,7 @@ das Testament mit Bezug auf alle darin bedachten Personen und die gesetzlichen E
 
 **25**
 
-- 1\. 1. 25 - 127 § 233. Gefahr und Kosten der Vorlegung trägt der Gesuchsteller.
+- 1\. 1. 26 - 131 § 233. Gefahr und Kosten der Vorlegung trägt der Gesuchsteller.
 
 #### § 234
 
@@ -942,7 +936,7 @@ Die schriftliche Form genügt für den Vertrag, der zwischen dem Enteigner und d
 
 #### § 244
 
-[^244-1]: LS 242.2. 1. 1. 25 - 127 33
+[^244-1]: LS 242.2. 1. 1. 26 - 131 33
 
 #### § 245
 
@@ -950,7 +944,7 @@ Das Obergericht erlässt durch Verordnung[^244-1] nähere Bestimmungen über das
 
 **27**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 ### B. Beglaubigungen
 
@@ -1017,7 +1011,7 @@ Die Sicherung des Datums einer Privaturkunde erfolgt durch eine vom Beamten auf 
 
 **29**
 
-- 1\. 1. 25 - 127 § 257. Vormundschaften über Personen, deren Aufenthalt unbekannt ist, werden als Beistandschaften fortgeführt.
+- 1\. 1. 26 - 131 § 257. Vormundschaften über Personen, deren Aufenthalt unbekannt ist, werden als Beistandschaften fortgeführt.
 
 #### § 258
 
@@ -1086,7 +1080,7 @@ Ist die Anlegung des Grundbuches für einen Grundbuchkreis vollendet, so wird di
 
 **31**
 
-- 1\. 1. 25 - 127 § 271.<sup>65</sup> <sup>1</sup> Streitigkeiten, die sich bei der Anlegung des Grundbuches über die Eintragung dinglicher Rechte ergeben, werden vom Grundbuchverwalter, wenn ein von ihm anzustellender Sühnversuch erfolglos bleibt, ungeachtet des Streitwerts an das Einzelgericht gewiesen.
+- 1\. 1. 26 - 131 § 271.<sup>65</sup> <sup>1</sup> Streitigkeiten, die sich bei der Anlegung des Grundbuches über die Eintragung dinglicher Rechte ergeben, werden vom Grundbuchverwalter, wenn ein von ihm anzustellender Sühnversuch erfolglos bleibt, ungeachtet des Streitwerts an das Einzelgericht gewiesen.
 
 <sup>2</sup> Das Gericht teilt den rechtskräftigen Entscheid dem Grundbuchverwalter mit.
 
@@ -1196,7 +1190,7 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 
 **35**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 <sup>61</sup> Eingefügt durch G vom 24. September 2007 (OS 62, 595; ABl 2007, 409). In Kraft seit 1. Januar 2008.
 
@@ -1250,9 +1244,11 @@ Sind in der Schirmlade einer Vormundschaftsbehörde Wertpapiere hinterlegt, die 
 
 <sup>86</sup> Aufgehoben durch G vom 8. April 2024 (OS 79, 420; ABl 2022-09-30). In Kraft seit 1. Dezember 2024.
 
+<sup>87</sup> Aufgehoben durch Gesetz über die BVG- und Stiftungsaufsicht vom 30. Juni 2025 (OS 80, 228; ABl 2024-06-21). In Kraft seit 1. Januar 2026.
+
 **37**
 
-- 1\. 1. 25 - 127
+- 1\. 1. 26 - 131
 
 ## Weitere Fussnoten
 
