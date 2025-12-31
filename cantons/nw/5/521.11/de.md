@@ -4,13 +4,12 @@ number: "521.11"
 title: Verordnung zum Gesetz über die Steuern des Kantons und der Gemeinden
 short: "Steuerverordnung, StV"
 language: de
-version: 2025-01-01
-corrected: 2024-12-12
-version_adopted: 2024-12-03
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/521.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1327/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1431/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1327/pdf_file"
 
 (Steuerverordnung, StV)
 
-vom 19.12.2000 (Stand 01.01.2025)
+vom 19.12.2000 (Stand 01.01.2026)
 
 Der Regierungsrat von Nidwalden,
 
@@ -1106,7 +1105,7 @@ beschliesst:
 
 **Steuererlass**
 
-<sup>1</sup> Steuerpflichtige Personen, die am Ende der Steuerperiode beziehungsweise am Ende der Steuerpflicht in einem Heim wohnen und Ergänzungsleistungen zur AHV/IV beziehen oder die dauernd wirtschaftliche Sozialhilfe beziehen und ein Reinvermögen von weniger als Fr. 37'500.– (Alleinstehende) beziehungsweise Fr. 60'000.– (Verheiratete) besitzen, haben Anspruch auf vollständigen Erlass der laufenden Steuern. Das steuerbare Einkommen wird mit Null veranlagt.
+<sup>1</sup> Steuerpflichtige Personen, die am Ende der Steuerperiode beziehungsweise am Ende der Steuerpflicht in einem Heim wohnen und Ergänzungsleistungen zur AHV/IV beziehen oder die dauernd wirtschaftliche Sozialhilfe beziehen und ein Reinvermögen von weniger als Fr. 30'000.– (Alleinstehende) beziehungsweise Fr. 50'000.– (Verheiratete) besitzen, haben Anspruch auf vollständigen Erlass der laufenden Steuern. Das steuerbare Einkommen wird mit Null veranlagt.
 
 ### 6.6 Elektronische Steuerakten
 
@@ -1229,7 +1228,7 @@ beschliesst:
 [^94-1]: A 1994, 1998
 [^94-2]: A 1995, 2050
 
-## A1 Anhang
+## A1 Anhang 1
 
 ### A1.1 Bewertung von Naturalbezügen
 
@@ -1267,7 +1266,7 @@ beschliesst:
 
 - 1\. Fahrräder, Motorfahrräder und Motorräder mit gelbem Kontrollschild: — Fr. 700.– je Jahr
 - 2\. Motorräder mit weissem Kontrollschild: — Fr. –.40 je km
-- 3\. Autos: — Fr. –.70 je km
+- 3\. Autos: — Fr. –.75 je km
 
 #### § A1-6
 
@@ -1396,11 +1395,11 @@ beschliesst:
 
 **Zinssätze**
 
-<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4.75 Prozent.
+<sup>1</sup> Der Verzugszinssatz gemäss Art. 236 Abs. 2 des Steuergesetzes beträgt 4.00 Prozent.
 
-<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 1.00 Prozent.
+<sup>2</sup> Der Zinssatz für Vorauszahlungen gemäss § 82 und zu viel bezahlte Steuern gemäss § 83 beträgt 0.00 Prozent.
 
-<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 1.00 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
+<sup>3</sup> Der Zinssatz für zu niedrige oder verspätete Zahlungen aller Steuern, Gebühren und Bussen gemäss § 84 beträgt 0.00 Prozent. Der gleiche Zinssatz gilt auch für alle übrigen verzinslichen Beträge, die nicht in vorstehenden Absätzen geregelt sind.
 
 ### A1.9 Quellensteuern
 
@@ -1410,7 +1409,7 @@ beschliesst:
 
 <sup>1</sup> Die Pauschale für die Berufskosten beträgt 5 Prozent des Bruttolohnes, höchstens jedoch Fr. 7'000.– je Jahr, und der Abzug für Fahrkosten und auswärtige Verpflegung Fr. 3'900.–.
 
-<sup>2</sup> Beim zweitverdienenden Ehegatten wird zusätzlich zu Abs. 1 Fr. 1'100.– in Abzug gebracht.
+<sup>2</sup> Beim zweitverdienenden Ehegatten wird zusätzlich zu Abs. 1 Fr. 1'200.– in Abzug gebracht.
 
 #### § A1-20
 
@@ -1421,7 +1420,7 @@ beschliesst:
 - 1\. AHV/IV/EO-Beiträge: — 5.3%;
 - 2\. Beiträge an die Arbeitslosenkasse: — 1.1%, höchstens Fr. 1'630.20;
 - 3\. Beiträge an die Nichtberufsunfallversicherung: — 1.0%, höchstens Fr. 1'482.–;
-- 4\. Berufliche Vorsorge: — 6%;
+- 4\. Berufliche Vorsorge: — 6.5%;
 - 5\. Prämien für Krankenkassen, Unfall- und Lebensversicherungen:
   - a) Ledige: — 3%, höchstens Fr. 1'800.–;
   - b) Verheiratete: — 5%, höchstens Fr. 3'600.–, zuzüglich Fr. 700.– je Kind.
@@ -1430,7 +1429,7 @@ beschliesst:
 
 **Abzüge für Familienlasten**
 
-<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'000.– für den Kinderabzug und Fr. 3'100.– für den Eigenbetreuungsabzug.
+<sup>1</sup> Der Abzug für Familienlasten beträgt Fr. 6'400.– für den Kinderabzug und Fr. 3'200.– für den Eigenbetreuungsabzug.
 
 #### § A1-22
 
@@ -1461,7 +1460,7 @@ beschliesst:
 
 **Steuerfuss**
 
-<sup>1</sup> Dem Tarif wird für die Kantons- und Gemeindesteuern auf der Basis des gewogenen Mittels 2022 ein Steuerfuss von 4.90 Einheiten zugrunde gelegt.
+<sup>1</sup> Dem Tarif wird für die Kantons- und Gemeindesteuern auf der Basis des gewogenen Mittels 2025 ein Steuerfuss von 4.92 Einheiten zugrunde gelegt.
 
 #### § A1-24
 
@@ -1471,7 +1470,9 @@ beschliesst:
 
 [^A124-1]: [www.steuern-nw.ch/natuerlichepersonen/quellensteuer](http://www.steuern-nw.ch/natuerlichepersonen/quellensteuer/)
 
-### A2.0 Mietwertansätze
+### A2.0
+
+### A1.10 Mietwertansätze und Landwerte
 
 #### § A1-25
 
@@ -1532,7 +1533,7 @@ beschliesst:
 <tr><td>plus 1.25 % vom Mehrbetrag über</td><td>Fr. 1'250'001</td><td></td></tr>
 </table>
 
-### A2.1 Landwerte Grundstücke
+### A2.1
 
 #### § A1-26
 
