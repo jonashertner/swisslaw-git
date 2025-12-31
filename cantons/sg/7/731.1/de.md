@@ -4,13 +4,13 @@ number: "731.1"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2023-03-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-15
+version: 2026-01-01
+valid_until: 2026-05-31
+version_adopted: 2025-07-29
 adopted: 2016-07-05
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3473/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3473/pdf_file"
 
 (PBG)
 
-vom 05.07.2016 (Stand 01.03.2023)
+vom 05.07.2016 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -107,6 +107,8 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Sie übermittelt ihn der zuständigen kantonalen Stelle zur Kenntnisnahme.
 
 <sup>3</sup> Der kommunale Richtplan ist für den Rat sowie die ihm nachgeordneten Kommissionen und Verwaltungsstellen wegleitend.
+
+<sup>4</sup> Die vorgesehenen Fuss-, Wander- und Velowegnetze sind für die Behörden verbindlich.
 
 ### 3. Kommunale Rahmennutzungspläne
 
