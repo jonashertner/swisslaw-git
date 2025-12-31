@@ -4,13 +4,12 @@ number: "611"
 title: Verordnung über den Finanzausgleich
 short: FAV
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2025-05-20
 adopted: 2002-12-03
 in_force: 2003-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/611"
-pdf: "https://srl.lu.ch/api/de/versions/4761/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4762/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4761/pdf_file"
 
 (FAV)
 
-vom 03.12.2002 (Stand 01.06.2025)
+vom 03.12.2002 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -192,7 +191,7 @@ beschliesst:
 - a. beim Finanzdepartement für Sonderbeiträge an eine einzelne Gemeinde,
 - b. beim Justiz- und Sicherheitsdepartement für Beiträge an Gemeindefusionen und für Beiträge für die Zusammenarbeit von Gemeinden.
 
-<sup>2</sup> Das zuständige Departement prüft die Gesuche unter Mitwirkung des andern Departementes gemäss Absatz 1 und unterbreitet sie dem Regierungsrat zum Entscheid.
+<sup>2</sup> Das zuständige Departement prüft die Gesuche unter Mitwirkung des andern Departementes gemäss Absatz 1 und unterbreitet sie dem Regierungsrat zum Entscheid, soweit es nicht selber zum Entscheid befugt ist.
 
 #### § 12
 
@@ -216,7 +215,7 @@ beschliesst:
 
 <sup>3</sup> Anrechenbar sind die direkten Kosten, die den Gemeinden durch die Planung und die Umsetzung des beitragsberechtigten Projekts entstehen. Nicht anrechenbar sind insbesondere Betriebskosten, Kosten, die auch ohne das Projekt auf Dauer anfallen würden, sowie Projektkosten, die das unbedingt notwendige Mass überschreiten.
 
-<sup>4</sup> Bei der Prüfung von Gesuchen ist der Verband Luzerner Gemeinden anzuhören.
+<sup>4</sup> …
 
 ## 5 Mitwirkung der Gemeinden
 
