@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2025-09-15
+version: 2026-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250915/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250915-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250915/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 15 settembre 2025)
+del 27 maggio 2020 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -1934,83 +1934,53 @@ In casi eccezionali l’attività di ispettore delle derrate alimentari, di cont
 
 #### Art. 118a
 
-**Disposizione transitoria relativa alla modifica del 10 gennaio 2022**[^118a-1]
+[^118a-1]
 
-Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 10 gennaio 2022 possono essere importate fino al 26 gennaio 2022 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
-
-- a. pepe nero (*Piper nigrum)* dal Brasile;
-- b. melanzane (*Solanum melongena*), peperoni dolci (*Capsicum annuum*), peperoni del genere *Capsicum* e fagioli asparago (*Vigna unguiculata* ssp. *sesquipedalis*, V*igna unguiculata* ssp. *unguiculata*) dalla Repubblica Dominicana; e
-- c. arance, mandarini (compresi tangerini e satsuma), clementine, wilkings e altri ibridi simili di agrumi dalla Turchia.
-
-[^118a-1]: Introdotto dalla cifra I dell’O dell’USAV del 10 gen. 2022, in vigore dal 12 gen. 2022 ([RU 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
+[^118a-1]: Introdotto dalla cifra I dell’O dell’USAV del 10 gen. 2022 ([RU 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118b
 
-**Disposizione transitoria della modifica del 26 settembre 2022**[^118b-1]
+[^118b-1]
 
-Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 26 settembre 2022 possono essere importate fino al 1° novembre 2022 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
-
-- a. olio di palma proveniente dal Ghana;
-- b. miscele di additivi alimentari contenenti farina di semi di carrube o gomma di guar provenienti dall’India; e
-- c. miscele di additivi alimentari contenenti farina di semi di carrube provenienti dalla Malaysia o dalla Turchia.
-
-[^118b-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 set. 2022, in vigore dal 15 ott. 2022 ([RU 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
+[^118b-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 set. 2022 ([RU 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118c
 
-**Disposizione transitoria della modifica dell’8 febbraio 2023**[^118c-1]
+[^118c-1]
 
-Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica dell’8 febbraio 2023 possono essere importate fino al 16 aprile 2023 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
-
-- a. arachidi dalla Bolivia;
-- b. foglie di curry (*Bergera/Murraya koenigii*) dall’India;
-- c. rape (*Brassica rapa ssp. rapa*) dal Libano;
-- d. semi di sesamo dalla Nigeria;
-- e. gombo (okra) dal Vietnam;
-- f. estratto di vaniglia proveniente dagli Stati Uniti.
-
-[^118c-1]: Introdotto dalla cifra I dell’O dell’USAV dell’8 feb. 2023, in vigore dal 1° mar. 2023 ([RU 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+[^118c-1]: Introdotto dalla cifra I dell’O dell’USAV dell’8 feb. 2023 ([RU 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118d
 
-**Disposizione transitoria della modifica del 7 luglio 2023**[^118d-1]
+[^118d-1]
 
-Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 7 luglio 2023 possono essere importate fino al 10 settembre 2023 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
-
-- a. semi di albicocca non trasformati originari della Turchia;
-- b. pistacchi e prodotti derivati originari degli Stati Uniti, spediti dalla Turchia.
-
-[^118d-1]: Introdotto dalla cifra I dell’O dell’USAV del 7 lug. 2023, in vigore dal 1° ago. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+[^118d-1]: Introdotto dalla cifra I dell’O dell’USAV del 7 lug. 2023 ([RU 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118e
 
-**Disposizione transitoria della modifica del 9 luglio 2024**[^118e-1]
+[^118e-1]
 
-Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 9 luglio 2024 possono essere importate fino al 1° ottobre 2024 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
-
-- a. gotu kola (*Centella asiatica*) proveniente dallo Sri Lanka;
-- b. peperoni del genere *Capsicum* provenienti dal Vietnam.
-
-[^118e-1]: Introdotto dalla cifra I dell’O dell’USAV del 9 lug. 2024, in vigore dal 1° ago. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
+[^118e-1]: Introdotto dalla cifra I dell’O dell’USAV del 9 lug. 2024 ([RU 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118f
 
-**Disposizione transitoria della modifica del 6 febbraio 2025**[^118f-1]
+[^118f-1]
 
-Le partite con semi di cumino dalla Turchia già inviate al momento dell’entrata in vigore della modifica del 6 febbraio 2025 possono essere importate fino al 30 aprile 2025 senza attestazione ufficiale e senza risultati delle campionature e delle analisi.
-
-[^118f-1]: Introdotto dalla cifra I dell’O dell’USAV del 6 feb. 2025, in vigore dal 1° mar. 2025 ([RU 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100))
+[^118f-1]: Introdotto dalla cifra I dell’O dell’USAV del 6 feb. 2025 ([RU 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118g
 
-**Disposizione transitoria della modifica del 26 agosto 2025**[^118g-1]
+[^118g-1]
 
-Le partite con le seguenti derrate alimentari già inviate al momento dell’entrata in vigore della modifica del 26 agosto 2025 possono essere importate fino al 15 novembre 2025 senza attestazione ufficiale e senza risultati delle campionature e delle analisi:
+**Art. 118**h[^118g-2] Disposizione transitoria della modifica del 26 novembre 2025
 
-- a. frutti della moringa (*Moringa oleifera*) dall’India;
-- b. fagioli asparago (Vigna unguiculata ssp. sesquipedalis, Vigna unguiculata ssp. unguiculata) dall’India.
+<sup>1</sup> Per i metodi di analisi delle micotossine approvati prima del 1° gennaio 2026 continuano ad applicarsi fino al 1° gennaio 2030 le prescrizioni specifiche di cui all’allegato II punto 4.3 del regolamento (CE) n. 401/2006[^118g-3].
 
-[^118g-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 ago. 2025, in vigore dal 15 set. 2025 ([RU 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
+<sup>2</sup> I metodi di analisi delle tossine vegetali approvati prima del 1° gennaio 2026 possono continuare ad essere utilizzati fino al 1° luglio 2029, anche se non soddisfano tutte le prescrizioni specifiche di cui all’allegato II punto 4.2 del regolamento di esecuzione (UE) 2023/2783.
+
+[^118g-1]: Introdotto dalla cifra I dell’O dell’USAV del 26 ago. 2025 ([RU 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)). Abrogato dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
+[^118g-2]: Introdotto dalla cifra I dell’O dell’USAV del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
+[^118g-3]: Regolamento (CE) n. 401/2006 della Commissione, del 23 febbraio 2006, relativo ai metodi di campionamento e di analisi per il controllo ufficiale dei tenori di micotossine nei prodotti alimentari, GU L 70 del 9.3.2006, pag. 12; modificato da ultimo dal regolamento (UE) n. 519/2014, GU L 147 del 17.5.2014, pag. 29.
 
 #### Art. 119
 
@@ -2114,35 +2084,35 @@ Allegato 5[^t-3]
 
 ## Metodi per le campionature ufficiali nonché per le analisi, prove e diagnosi di laboratorio
 
-[^t-3]: Nuovo testo giusta la cifra II cpv. 1 dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^t-3]: Nuovo testo giusta la cifra II dell’O dell’USAV del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 <table>
 <tr><th>Analita/i</th><th>Prodotto</th><th>Metodo</th></tr>
 <tr><td>Nitrato</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento (CE) n. 1882/2006[^annex5-lvlu1-1]</td></tr>
 <tr><td>Perclorato</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento (CE) n. 333/2007[^annex5-lvlu1-2]</td></tr>
-<tr><td>Micotossine</td><td>Tutte le derrate alimentari</td><td>Ai sensi degli allegati I e II del regolamento (CE) n. 401/2006[^annex5-lvlu1-3]</td></tr>
-<tr><td>Ocratossina A</td><td>Fichi secchi</td><td>Ai sensi degli allegati I e II del regolamento (CE) n. 401/2006</td></tr>
+<tr><td>Micotossine</td><td>Tutte le derrate alimentari</td><td>Ai sensi degli allegati I e II del regolamento di esecuzione (UE) 2023/2782[^annex5-lvlu1-3]</td></tr>
 <tr><td>Arsenico (inorganico), piombo, cadmio, mercurio e stagno (inorganico)</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento (CE) n. 333/2007</td></tr>
 <tr><td>3-Monocloro-1,2-propandiolo (3-MCPD), 3-MCPD esteri degli acidi grassi e glicidil esteri degli acidi grassi</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento (CE) n. 333/2007</td></tr>
 <tr><td>Idrocarburi policiclici aromatici</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento (CE) n. 333/2007</td></tr>
-<tr><td>Acido erucico</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento (UE) 2015/705[^annex5-lvlu1-4]</td></tr>
-<tr><td>Atropina e scopolamina</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato I parte J del regolamento (CE) n. 401/2006</td></tr>
-<tr><td>Tossine microbiche ai sensi dell’allegato 9 OCont</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato 5 del regolamento di esecuzione (UE) 2019/627[^annex5-lvlu1-5]</td></tr>
-<tr><td>Contaminanti vari</td><td>Gelatina e collagene</td><td>Come da *Farmacopea* *europea* (Ph. Eur.) 10<sup>a</sup> edizione, monografia novembre 2018[^annex5-lvlu1-6]</td></tr>
-<tr><td>Pesticidi</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato della direttiva 2002/63/CE[^annex5-lvlu1-7]</td></tr>
-<tr><td>Diossine e PCB</td><td>Tutte le derrate alimentari</td><td>Ai sensi degli allegati I−IV del regolamento (UE) 2017/644[^annex5-lvlu1-8]</td></tr>
-<tr><td>Sostanze perfluoroalchiliche</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento di esecuzione (UE) 2022/1428[^annex5-lvlu1-9]</td></tr>
+<tr><td>Tossine vegetali</td><td>Patate e prodotti a base di patate (glicoalcaloidi) e miele (alcaloidi pirrolizidinici)</td><td>Ai sensi della parte B dell’allegato del regolamento (CE) n. 333/2207.</td></tr>
+<tr><td></td><td>Altre derrate alimentari</td><td>Ai sensi degli allegati I e II del regolamento di esecuzione (UE) 2023/2783[^annex5-lvlu1-4]</td></tr>
+<tr><td>Tossine microbiche ai sensi dell’allegato 9 dell’ordinanza del 16 dicembre 2016[^annex5-lvlu1-5] sui contaminanti</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato 5 del regolamento di esecuzione (UE) 2019/627[^annex5-lvlu1-6]</td></tr>
+<tr><td>Contaminanti vari</td><td>Gelatina e collagene</td><td>Come da *Farmacopea europea*, 10<sup>a</sup> edizione, del novembre 2018[^annex5-lvlu1-7]</td></tr>
+<tr><td>Pesticidi</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato della direttiva 2002/63/CE[^annex5-lvlu1-8]</td></tr>
+<tr><td>Diossine e PCB</td><td>Tutte le derrate alimentari</td><td>Ai sensi degli allegati I−IV del regolamento (UE) 2017/644[^annex5-lvlu1-9]</td></tr>
+<tr><td>Sostanze perfluoroalchiliche</td><td>Tutte le derrate alimentari</td><td>Ai sensi dell’allegato del regolamento di esecuzione (UE) 2022/1428[^annex5-lvlu1-10]</td></tr>
 </table>
 
 [^annex5-lvlu1-1]: Regolamento (CE) n. 1882/2006 della Commissione, del 19 dicembre 2006, che stabilisce metodi di campionamento ed analisi per il controllo ufficiale del tenore di nitrati in alcuni prodotti alimentari, versione della GU L 364 del 20.12.2006, pag. 25.
-[^annex5-lvlu1-2]: Regolamento (CE) n. 333/2007 della Commissione, del 28 marzo 2007, relativo ai metodi di campionamento e di analisi per il controllo dei tenori di oligoelementi e di contaminanti da processo nei prodotti alimentari, GU L 88 del 29.3.2007, pag. 29; modificato da ultimo dal regolamento di esecuzione (UE) 2022/2418, GU L 318 del 12.12.2022, pag. 4.
-[^annex5-lvlu1-3]: Regolamento (CE) n. 401/2006 della Commissione, del 23 febbraio 2006, relativo ai metodi di campionamento e di analisi per il controllo ufficiale dei tenori di micotossine nei prodotti alimentari, GU L 70 del 9.3.2006, pag. 12; modificato da ultimo dal regolamento (UE) n. 519/2014, GU L 147 del 17.5.2014, pag. 29.
-[^annex5-lvlu1-4]: Regolamento (UE) 2015/705 della Commissione, del 30 aprile 2015, che stabilisce i metodi di campionamento e i criteri di rendimento per i metodi di analisi per il controllo ufficiale dei tenori di acido erucico negli alimenti e che abroga la direttiva 80/891/CEE della Commissione, versione della GU L 113 del 1.5.2015, pag. 29.
-[^annex5-lvlu1-5]: Regolamento di esecuzione (UE) 2019/627 della Commissione, del 15 marzo 2019, che stabilisce modalità pratiche uniformi per l’esecuzione dei controlli ufficiali sui prodotti di origine animale destinati al consumo umano in conformità al regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio e che modifica il regolamento (CE) n. 2074/2005 della Commissione per quanto riguarda i controlli ufficiali, versione della GU L 131 del 17.5.2019, pag. 51.
-[^annex5-lvlu1-6]: Le versioni originali della *Farmacopea europea* sono pubblicate dal Consiglio d’Europa. La versione originale in francese può essere ordinata presso l’Ufficio federale delle costruzioni e della logistica, Vendita pubblicazioni federali, 3003 Berna, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Fino alla pubblicazione della versione tedesca, bozze di singoli testi in lingua tedesca possono essere richieste presso la Divisione farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
-[^annex5-lvlu1-7]: Direttiva 2002/63/CE della Commissione, dell’11 luglio 2002, che stabilisce metodi comunitari di campionamento ai fini del controllo ufficiale dei residui di antiparassitari sui e nei prodotti alimentari di origine vegetale e animali e che abroga la direttiva 79/700/CEE, versione della GU L 187 del 16.7.2002, pag. 30.
-[^annex5-lvlu1-8]: Regolamento (UE) 2017/644 della Commissione, del 5 aprile 2017, che stabilisce i metodi di campionamento e di analisi per il controllo dei livelli di diossine, PCB diossina-simili e PCB non diossina-simili in alcuni prodotti alimentari e che abroga il regolamento (UE) n. 589/2014, versione della GU L 92 del 6.4.2017, pag. 9.
-[^annex5-lvlu1-9]: Regolamento di esecuzione (UE) 2022/1428 della Commissione, del 24 agosto 2022, che stabilisce metodi di campionamento e di analisi per il controllo delle sostanze perfluoroalchiliche in alcuni prodotti alimentari, versione della GU L 221 del 26.8.2022, pag. 66.
+[^annex5-lvlu1-2]: Regolamento (CE) n. 333/2007 della Commissione, del 28 marzo 2007, relativo ai metodi di campionamento e di analisi per il controllo dei tenori di oligoelementi e di contaminanti da processo nei prodotti alimentari, GU L 88 del 29.3.2007, pag. 29; modificato da ultimo dal regolamento di esecuzione (UE) 2024/1045, GU L, 2024/1045, del 10.4.2024.
+[^annex5-lvlu1-3]: Regolamento di esecuzione (UE) 2023/2782 della Commissione, del 14 dicembre 2023, relativo ai metodi di campionamento e di analisi per il controllo dei tenori di micotossine negli alimenti, GU L, 2023/2782, del 15.12.2023; modificato da ultimo dal regolamento di esecuzione (UE) 2024/885, GU L, 2024/885, 21.3.2024.
+[^annex5-lvlu1-4]: Regolamento di esecuzione (UE) 2023/2783 della Commissione, del 14 dicembre 2023, relativo ai metodi di campionamento e di analisi per il controllo dei tenori di tossine vegetali negli alimenti e che abroga il regolamento (UE) 2015/705, versione della GU L, 2023/2783, del 15.12.2023.
+[^annex5-lvlu1-5]: [RS 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
+[^annex5-lvlu1-6]: Regolamento di esecuzione (UE) 2019/627 della Commissione, del 15 marzo 2019, che stabilisce modalità pratiche uniformi per l’esecuzione dei controlli ufficiali sui prodotti di origine animale destinati al consumo umano in conformità al regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio e che modifica il regolamento (CE) n. 2074/2005 della Commissione per quanto riguarda i controlli ufficiali, modificato da ultimo dal regolamento di esecuzione (UE) 2025/1447, GU L, 2025/1447, del 21.7.2025.
+[^annex5-lvlu1-7]: Le versioni originali della *Farmacopea europea* sono pubblicate dal Consiglio d’Europa. La versione originale in francese può essere ordinata presso l’Ufficio federale delle costruzioni e della logistica, Vendita pubblicazioni federali, 3003 Berna, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch/it/), alle condizioni previste dall’ordinanza del 19 nov. 2014 sugli emolumenti per le pubblicazioni (OEm-Pub; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Fino alla pubblicazione della versione tedesca, bozze di singoli testi in lingua tedesca possono essere richieste presso la Divisione farmacopea dell’Istituto svizzero per gli agenti terapeutici (Swissmedic).
+[^annex5-lvlu1-8]: Direttiva 2002/63/CE della Commissione, dell’11 luglio 2002, che stabilisce metodi comunitari di campionamento ai fini del controllo ufficiale dei residui di antiparassitari sui e nei prodotti alimentari di origine vegetale e animali e che abroga la direttiva 79/700/CEE, versione della GU L 187 del 16.7.2002, pag. 30.
+[^annex5-lvlu1-9]: Regolamento (UE) 2017/644 della Commissione, del 5 aprile 2017, che stabilisce i metodi di campionamento e di analisi per il controllo dei livelli di diossine, PCB diossina-simili e PCB non diossina-simili in alcuni prodotti alimentari e che abroga il regolamento (UE) n. 589/2014, versione della GU L 92 del 6.4.2017, pag. 9.
+[^annex5-lvlu1-10]: Regolamento di esecuzione (UE) 2022/1428 della Commissione, del 24 agosto 2022, che stabilisce metodi di campionamento e di analisi per il controllo delle sostanze perfluoroalchiliche in alcuni prodotti alimentari, versione della GU L 221 del 26.8.2022, pag. 66.
 
 Allegato 6
 

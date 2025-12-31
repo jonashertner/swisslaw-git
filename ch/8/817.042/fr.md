@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2025-09-15
+version: 2026-01-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20250915/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20250915-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20250915/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 15 septembre 2025)
+du 27 mai 2020 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -1947,83 +1947,56 @@ L’activité d’inspecteur des denrées alimentaires, de contrôleur des denr�
 
 #### Art. 118a
 
-**Disposition transitoire de la modification du 10 janvier 2022**[^118a-1]
+[^118a-1]
 
-S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 10 janvier 2022, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 26 janvier 2022 sans certificat officiel ni résultats d’échantillonnages et d’analyses:
-
-- a. poivre noir (*Piper nigrum*) en provenance du Brésil;
-- b. aubergines (*Solanum melongena*), piments doux ou poivrons (*Capsicum annuum*), piments du genre *Capsicum* et doliques-asperges (*Vigna unguiculata* spp. *sesquipedalis*, *Vigna unguiculata* spp. *unguiculata*) en provenance de la République dominicaine, et
-- c. oranges, mandarines (y compris les tangerines et satsumas), clémentines, wilkings et hybrides similaires d’agrumes en provenance de Turquie.
-
-[^118a-1]: Introduit par le ch. I de l’O de l’OSAV du 10 janv. 2022, en vigueur depuis le 12 janv. 2022 ([RO 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)).
+[^118a-1]: Introduit par le ch. I de l’O de l’OSAV du 10 janv. 2022 ([RO 2022 4](https://fedlex.data.admin.ch/eli/oc/2022/4)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118b
 
-**Disposition transitoire de la modification du 26 septembre 2022**[^118b-1]
+[^118b-1]
 
-S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 26 septembre 2022, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 1<sup>er</sup> novembre 2022 sans certificat officiel ni résultats d’échantillonnages et d’analyses:
-
-- a. huile de palme en provenance du Ghana;
-- b. mélanges d’additifs alimentaires contenant de la gomme de caroube ou de la gomme de guar en provenance d’Inde, et
-- c. mélanges d’additifs alimentaires contenant de la gomme de caroube en provenance de Malaisie et de Turquie.
-
-[^118b-1]: Introduit par le ch. I de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)).
+[^118b-1]: Introduit par le ch. I de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 565](https://fedlex.data.admin.ch/eli/oc/2022/565)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118c
 
-**Disposition transitoire de la modification du 8 février 2023**[^118c-1]
+[^118c-1]
 
-S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 8 février 2023, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 16 avril 2023 sans certificat officiel ni résultats d’échantillonnages ou d’analyses:
-
-- a. arachides (*cacahuètes*) en provenance de Bolivie;
-- b. feuilles de curry (*Bergera/Murraya koenigii*) en provenance d’Inde;
-- c. navets (*Brassica rapa ssp. rapa*) en provenance du Liban;
-- d. graines de sésame en provenance du Nigéria;
-- e. comboux ou gombos en provenance du Vietnam;
-- f. extrait de vanille en provenance des États-Unis.
-
-[^118c-1]: Introduit par le ch. I de l’O de l’OSAV du 8 fév. 2023, en vigueur depuis le 1<sup>er</sup> mars 2023 ([RO 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)).
+[^118c-1]: Introduit par le ch. I de l’O de l’OSAV du 8 fév. 2023 ([RO 2023 63](https://fedlex.data.admin.ch/eli/oc/2023/63)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118d
 
-**Disposition transitoire de la modification du 7 juillet 2023**[^118d-1]
+[^118d-1]
 
-S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 7 juillet 2023, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 10 septembre 2023 sans certificat officiel ni résultats d’échantillonnages et d’analyses:
-
-- a. amandes d’abricot non transformées provenant de Turquie;
-- b. pistaches et de produits dérivés provenant des États-Unis qui ont été expédiés à partir de la Turquie.
-
-[^118d-1]: Introduit par le ch. I de l’O de l’OSAV du 7 juil. 2023, en vigueur depuis le 1<sup>er</sup> août 2023 ([RO 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
+[^118d-1]: Introduit par le ch. I de l’O de l’OSAV du 7 juil. 2023 ([RO 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118e
 
-**Disposition transitoire de la modification du 9 juillet 2024**[^118e-1]
+[^118e-1]
 
-S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 9 juillet 2024, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 1<sup>er</sup> octobre 2024 sans certificat officiel ni résultats d’échantillonnages et d’analyses:
-
-- a. Gotu kola (*Centella asiatica*) en provenance du Sri Lanka;
-- b. piments du genre *Capsicum* en provenance du Viêt Nam.
-
-[^118e-1]: Introduit par le ch. I de l’O de l’OSAV du 9 juil. 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
+[^118e-1]: Introduit par le ch. I de l’O de l’OSAV du 9 juil. 2024 ([RO 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118f
 
-**Disposition transitoire de la modification du 6 février 2025**[^118f-1]
+[^118f-1]
 
-S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 6 février 2025, les lots de graines de cumin en provenance de Turquie peuvent être importés jusqu’au 30 avril 2025 sans certificat officiel ni résultats d’échantillonnages et d’analyses.
-
-[^118f-1]: Introduit par le ch. I de l’O de l’OSAV du 6 fév. 2025, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)).
+[^118f-1]: Introduit par le ch. I de l’O de l’OSAV du 6 fév. 2025 ([RO 2025 100](https://fedlex.data.admin.ch/eli/oc/2025/100)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 #### Art. 118g
 
-**Disposition transitoire de la modification du 26 août 2025**[^118g-1]
+[^118g-1]
 
-S’ils ont déjà été envoyés au moment de l’entrée en vigueur de la modification du 26 août 202*5*, les lots des denrées alimentaires ci-après peuvent être importés jusqu’au 15 novembre 2025 sans certificat officiel ni résultats d’échantillonnages et d’analyses:
+[^118g-1]: Introduit par le ch. I de l’O de l’OSAV du 26 août 2025 ([RO 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)). Abrogé par le ch. I de l’O de l’OSAV du 26 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
-- a. ben oléifère (*Moringa oleifera*) en provenance d’Inde;
-- b. doliques-asperges (*Vigna unguiculata* spp. *sesquipedalis, Vigna unguiculata* spp. *unguiculata*) en provenance d’Inde.
+#### Art. 118h
 
-[^118g-1]: Introduit par le ch. I de l’O de l’OSAV du 26 août 2025, en vigueur depuis le 15 sept. 2025 ([RO 2025 539](https://fedlex.data.admin.ch/eli/oc/2025/539)).
+**Disposition transitoire de la modification du 26 novembre 2025**[^118h-1]
+
+<sup>1</sup> Les exigences spécifiques visées au point 4.3 de l’annexe II du règlement (CE) n<sup>o</sup> 401/2006[^118h-2] continuent de s’appliquer jusqu’au 1<sup>er</sup> janvier 2030 aux méthodes d’analyse des mycotoxines qui ont été validées avant le 1<sup>er</sup> janvier 2026.
+
+<sup>2</sup> Les méthodes d’analyse des toxines végétales qui ont été validées avant le 1<sup>er</sup> janvier 2026 peuvent continuer à être appliquées jusqu’au 1<sup>er</sup> juillet 2029 même si elles ne satisfont pas à toutes les exigences spécifiques visées au point 4.2 de l’annexe II du règlement d’exécution UE) 2023/2783.
+
+[^118h-1]: Introduit par le ch. I de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
+[^118h-2]: Règlement (CE) n<sup>o</sup> 401/2006 de la Commission du 23 février 2006 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires, JO L 70 du 9.3.2006, p. 12; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 519/2014, JO L 147 du 17.5.2014, p. 29.
 
 #### Art. 119
 
@@ -2127,35 +2100,35 @@ Annexe 5[^t-3]
 
 ## Méthodes pour les prélèvements d’échantillons officiels, les analyses, essais et diagnostics de laboratoire
 
-[^t-3]: Nouvelle teneur selon le ch. II al. 1 de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 26 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 813](https://fedlex.data.admin.ch/eli/oc/2025/813)).
 
 <table>
 <tr><th>Analyte(s)</th><th>Produit</th><th>Méthode</th></tr>
-<tr><td>Nitrate</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 1882/2006[^annex5-lvlu1-1]</td></tr>
-<tr><td>Perchlorate</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007[^annex5-lvlu1-2]</td></tr>
-<tr><td>Mycotoxines</td><td>Toutes les denrées alimentaires</td><td>conformément aux annexes I et II du règlement (CE) 401/2006[^annex5-lvlu1-3]</td></tr>
-<tr><td>Ochratoxine A</td><td>Figues sèches</td><td>conformément aux annexes I et II du règlement (CE) 401/2006</td></tr>
-<tr><td>Arsenic (inorganique), plomb, cadmium, mercure et zinc (inorganique)</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007</td></tr>
-<tr><td>3-monochloropropanediol (3‑MCPD), esters d’acides gras de 3-MCPD et esters d’acides gras de glycidol</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007</td></tr>
-<tr><td>Hydrocarbures aromatiques polycycliques</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007</td></tr>
-<tr><td>Acide érucique</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (UE) 2015/705[^annex5-lvlu1-4]</td></tr>
-<tr><td>Atropine et scopolamine</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe I, section J du règlement (UE) 401/2006</td></tr>
-<tr><td>Toxines microbiennes en vertu de l’annexe 9 de l’OCont</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe 5 du règlement d’exécution (UE) 2019/627[^annex5-lvlu1-5]</td></tr>
-<tr><td>Divers contaminants</td><td>gélatine et collagène</td><td>conformément à la *Pharma**copoea* *Europaea*, 10<sup>e</sup> édition (Ph. Eur. 10), de novembre 2018[^annex5-lvlu1-6]</td></tr>
-<tr><td>Pesticides</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe de la directive 2002/63/CE[^annex5-lvlu1-7]</td></tr>
-<tr><td>Dioxines et PCB</td><td>Toutes les denrées alimentaires</td><td>conformément aux annexes I à IV au règlement (UE) 2017/644[^annex5-lvlu1-8]</td></tr>
-<tr><td>Substances perfluoroalkylées</td><td>Toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement d’exécution (UE) 2022/1428[^annex5-lvlu1-9]</td></tr>
+<tr><td>Nitrate</td><td>toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 1882/2006[^annex5-lvlu1-1]</td></tr>
+<tr><td>Perchlorate</td><td>toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007[^annex5-lvlu1-2]</td></tr>
+<tr><td>Mycotoxines</td><td>toutes les denrées alimentaires</td><td>conformément aux annexes I et II du règlement d’exécution (UE) 2023/2782[^annex5-lvlu1-3]</td></tr>
+<tr><td>Arsenic (inorganique), plomb, cadmium, mercure et zinc (inorganique)</td><td>toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007</td></tr>
+<tr><td>3-monochloropropanediol (3‑MCPD), esters d’acides gras de 3-MCPD et esters d’acides gras de glycidol</td><td>toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007</td></tr>
+<tr><td>Hydrocarbures aromatiques polycycliques</td><td>toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement (CE) n<sup>o</sup> 333/2007</td></tr>
+<tr><td>Toxines végétales</td><td>pommes de terre et produits à base de pommes de terre (glycoalcaloïdes) et miel (alcaloïdes pyrrolizidiniques)</td><td>conformément à la partie B de l’annexe du règlement (CE) n<sup>o</sup> 333/2007</td></tr>
+<tr><td></td><td>autres denrées alimentaires</td><td>conformément aux annexes I et II du règlement d’exécution (UE) 2023/2783[^annex5-lvlu1-4]</td></tr>
+<tr><td>Toxines microbiennes en vertu de l’annexe 9 de l’ordonnance du 16 décembre 2016 sur les contaminants[^annex5-lvlu1-5]</td><td>toutes les denrées alimentaire</td><td>conformément à l’annexe 5 du règlement d’exécution (UE) 2019/627[^annex5-lvlu1-6]</td></tr>
+<tr><td>Divers contaminants</td><td>gélatine et collagène</td><td>conformément à la *Pharmacopoea* *Europaea*, 10<sup>e</sup> édition, de novembre 2018[^annex5-lvlu1-7]</td></tr>
+<tr><td>Pesticides</td><td>toutes les denrées alimentaires</td><td>conformément à l’annexe de la directive 2002/63/CE[^annex5-lvlu1-8]</td></tr>
+<tr><td>Dioxines et PCB</td><td>toutes les denrées alimentaires</td><td>conformément aux annexes I à IV du règlement (UE) 2017/644[^annex5-lvlu1-9]</td></tr>
+<tr><td>Substances perfluoroalkylées</td><td>toutes les denrées alimentaires</td><td>conformément à l’annexe du règlement d’exécution (UE) 2022/1428[^annex5-lvlu1-10]</td></tr>
 </table>
 
 [^annex5-lvlu1-1]: Règlement (CE) n<sup>o</sup> 1882/2006 de la Commission du 19 décembre 2006 portant fixation des méthodes de prélèvement et d’analyse d’échantillons utilisées pour le contrôle officiel des teneurs en nitrates de certaines denrées alimentaires, version du JO L 364 du 20.12.2006, p. 25.
-[^annex5-lvlu1-2]: Règlement (CE) n<sup>o</sup> 333/2007 de la Commission du 28 mars 2007 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires, JO L 88 du 29.3.2007, p. 29; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2022/2418, JO L 318 du 12.12.2022, p. 4.
-[^annex5-lvlu1-3]: Règlement (CE) n<sup>o</sup> 401/2006 de la Commission du 23 février 2006 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires, JO L 70 du 9.3.2006, p. 12; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 519/2014, JO L 147 du 17.5.2014, p. 29.
-[^annex5-lvlu1-4]: Règlement (UE) 2015/705 de la Commission du 30 avril 2015 portant fixation des modes de prélèvement d’échantillons et des critères de performance des méthodes d’analyse pour le contrôle officiel des teneurs en acide érucique dans les denrées alimentaires et abrogeant la directive 80/891/CEE de la Commission, version du JO L 113 du 1.5.2015, p. 29.
-[^annex5-lvlu1-5]: Règlement d’exécution (UE) 2019/627 de la Commission du 15 mars 2019 établissant des modalités uniformes pour la réalisation des contrôles officiels en ce qui concerne les produits d’origine animale destinés à la consommation humaine conformément au règlement (UE) 2017/625 du Parlement européen et du Conseil et modifiant le règlement (CE) n<sup>o</sup> 2074/2005 de la Commission en ce qui concerne les contrôles officiels, version du JO L 131 du 17.05.2019, p. 51.
-[^annex5-lvlu1-6]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, [www.publicationsfederales.admin.ch](https://www.bundespublikationen.admin.ch/), aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol‑Publ; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
-[^annex5-lvlu1-7]: Directive 2002/63/CE de la Commission du 11 juillet 2002 fixant des méthodes communautaires de prélèvement d’échantillons pour le contrôle officiel des résidus de pesticides sur et dans les produits d’origine végétale et animale et abrogeant la directive 79/700/CEE, version du JO L 187 du 16.7.2002, p. 30.
-[^annex5-lvlu1-8]: Règlement (UE) 2017/644 de la Commission du 5 avril 2017 portant fixation des méthodes de prélèvement et d’analyse d’échantillons à utiliser pour le contrôle des teneurs en dioxines, en PCB de type dioxine et en PCB autres que ceux de type dioxine de certaines denrées alimentaires et abrogeant le Règlement (UE) n<sup>o</sup> 589/2014, version du JO L 92 du 6.4.2017, p. 9.
-[^annex5-lvlu1-9]: Règlement d’exécution (UE) 2022/1428 de la Commission du 24 août 2022 portant fixation des méthodes de prélèvement et d’analyse d’échantillons à utiliser pour le contrôle des teneurs en substances perfluoroalkylées dans certaines denrées alimentaires, version du JO L 221 du 26.8.2022, p. 66.
+[^annex5-lvlu1-2]: Règlement (CE) n<sup>o</sup> 333/2007 de la Commission du 28 mars 2007 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires, JO L 88 du 29.3.2007, p. 29; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 2024/1045, JO L, 2024/1045, 10.4.2024.
+[^annex5-lvlu1-3]: Règlement d’exécution (UE) 2023/2782 de la Commission du 23 février 2006 portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle officiel des teneurs en mycotoxines des denrées alimentaires, JO L, 2023/2782, 15.12.2023; modifié en dernier lieu par le règlement d’exécution (UE) 2024/885, JO L, 2024/885, 21.3.2024.
+[^annex5-lvlu1-4]: Règlement d’exécution (UE) 2023/2783 de la Commission portant fixation des modes de prélèvement d’échantillons et des méthodes d’analyse pour le contrôle des teneurs en toxines végétales des denrées alimentaires et abrogeant le règlement (UE) 2015/705, version du JO L, 2023/2783, 15.12.2023.
+[^annex5-lvlu1-5]: [RS 817.022.15](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9676)
+[^annex5-lvlu1-6]: Règlement d’exécution (UE) 2019/627 de la Commission du 15 mars 2019 établissant des modalités uniformes pour la réalisation des contrôles officiels en ce qui concerne les produits d’origine animale destinés à la consommation humaine conformément au règlement (UE) 2017/625 du Parlement européen et du Conseil et modifiant le règlement (CE) n<sup>o</sup> 2074/2005 de la Commission en ce qui concerne les contrôles officiels; modifié en dernier lieu par le règlement d’exécution (UE) 2025/1447, JO L, 2025/1447, 21.7.2025.
+[^annex5-lvlu1-7]: Les versions originales de la *Pharmacopoea Europaea* sont publiées par le Conseil de l’Europe. L’édition originale française peut être obtenue auprès de l’Office fédéral des constructions et de la logistique (OFCL), Vente des publications fédérales, 3003 Berne, [www.bundespublikationen.admin.ch](https://www.bundespublikationen.admin.ch/fr/), aux conditions fixées par l’ordonnance du 19 nov. 2014 sur les émoluments relatifs aux publications (OEmol-Publ; [RS 172.041.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5069)). Jusqu’à la publication de la version allemande, les épreuves des textes en langue allemande peuvent être obtenues auprès de la division Pharmacopée de l’Institut suisse des produits thérapeutiques (Swissmedic).
+[^annex5-lvlu1-8]: Directive 2002/63/CE de la Commission du 11 juillet 2002 fixant des méthodes communautaires de prélèvement d’échantillons pour le contrôle officiel des résidus de pesticides sur et dans les produits d’origine végétale et animale et abrogeant la directive 79/700/CEE, version du JO L 187 du 16.7.2002, p. 30.
+[^annex5-lvlu1-9]: Règlement (UE) 2017/644 de la Commission du 5 avril 2017 portant fixation des méthodes de prélèvement et d’analyse d’échantillons à utiliser pour le contrôle des teneurs en dioxines, en PCB de type dioxine et en PCB autres que ceux de type dioxine de certaines denrées alimentaires et abrogeant le Règlement (UE) n<sup>o</sup> 589/2014, version du JO L 92 du 6.4.2017, p. 9.
+[^annex5-lvlu1-10]: Règlement d’exécution (UE) 2022/1428 de la commission du 24 août 2022 portant fixation des méthodes de prélèvement et d’analyse d’échantillons à utiliser pour le contrôle des teneurs en substances perfluoroalkylées dans certaines denrées alimentaires, version du JO L 221 du 26.8.2022, p. 66.
 
 Annexe 6
 
