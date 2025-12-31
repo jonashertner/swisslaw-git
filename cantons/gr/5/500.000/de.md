@@ -1,673 +1,862 @@
 ---
 canton: GR
 number: "500.000"
-title: Gesetz über das Gesundheitswesen des Kantons Graubünden
+title: Gesetz zum Schutz der Gesundheit im Kanton Graubünden
 short: Gesundheitsgesetz
 language: de
-version: 2016-01-01
-corrected: 2015-05-09
-version_adopted: 2014-11-18
+version: 2026-01-01
+version_adopted: 2025-08-27
 adopted: 2016-09-02
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/500.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2509/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3613/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Gesundheitswesen des Kantons Graubünden
+# Gesetz zum Schutz der Gesundheit im Kanton Graubünden
 
 (Gesundheitsgesetz)
 
-Vom 02.12.1984 (Stand 01.01.2016)
+Vom 02.09.2016 (Stand 01.01.2026)
 
-Vom Volke angenommen am 2. Dezember 1984[^ingress-1]
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
-[^ingress-1]: B vom 12. September 1983, 143; GRP 1983/84, 368, 1. Lesung und GRP 1984/85, 6, 2. Lesung
+gestützt auf Art. 87 und Art. 31 Abs. 1 der Kantonsverfassung[^ingress-2],
 
-## 1. Allgemeines
+nach Einsicht in die Botschaft der Regierung vom 17. Mai 2016[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: GRP 2016/2017, 47
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 109
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich und Zweck**
+**Zweck und Gegenstand**
 
-<sup>1</sup> Dieses Gesetz regelt das öffentliche Gesundheitswesen und bezweckt den Schutz, die Erhaltung und die Förderung der Gesundheit der Bevölkerung.
+<sup>1</sup> Dieses Gesetz bezweckt den Schutz und die Förderung der Gesundheit der Bevölkerung durch gesundheitspolizeiliche Massnahmen sowie durch Massnahmen der Gesundheitsförderung und Prävention.
 
-#### Art. 1a
+<sup>2</sup> Es regelt zu diesem Zweck namentlich:
 
-**Gleichstellung der Geschlechter**
-
-<sup>1</sup> Personen-, Funktions- und Berufsbezeichnungen in diesem Gesetz beziehen sich auf beide Geschlechter, soweit sich aus dem Sinn des Gesetzes nicht etwas anderes ergibt.
+- a) die Zuständigkeiten und Aufgaben des Kantons und der Gemeinden;
+- b) die Massnahmen zur Gesundheitsförderung und Prävention;
+- c) die bewilligungspflichtigen Tätigkeiten und Betriebe im Gesundheitswesen;
+- d) die ohne Bewilligung nicht zulässigen Tätigkeiten im Gesundheitswesen;
+- e) die Rechte und Pflichten der Gesundheitsfachpersonen und der Betriebe des Gesundheitswesens;
+- f) den Notfalldienst der Ärztinnen und Ärzte sowie der Zahnärztinnen und Zahnärzte;
+- g) die Rechte und Pflichten der Patientinnen und Patienten;
+- h) die Bekämpfung übertragbarer Krankheiten des Menschen;
+- i) das Bestattungswesen;
+- j) die gesundheitspolizeilichen Massnahmen und die Rechtspflege.
 
 #### Art. 2
 
-**Selbstverantwortung**
+**Eigenverantwortung**
 
-<sup>1</sup> Das öffentliche Gesundheitswesen entlastet den einzelnen Bürger nicht von der Selbstverantwortung für seine Gesundheit.
+<sup>1</sup> Jede Einwohnerin und jeder Einwohner ist für eine gesundheitsfördernde Lebensweise verantwortlich. Das öffentliche Gesundheitswesen entlastet nicht von dieser Verantwortung.
 
 #### Art. 3
 
 **Behandlungsgrundsätze**
 
-<sup>1</sup> Untersuchung und Behandlung von Patienten haben sich nach den anerkannten Grundsätzen der Wissenschaft, der Ethik und der Wirtschaftlichkeit zu richten.
-
-## 2. Organisation und Zuständigkeit
+<sup>1</sup> Untersuchung und Behandlung von Patientinnen und Patienten haben sich nach den anerkannten Grundsätzen der Wissenschaft, der Ethik, der Wirtschaftlichkeit und der Gleichbehandlung zu richten.
 
 #### Art. 4
 
-**…**
+**Begriffe**
+
+<sup>1</sup> In diesem Gesetz gilt als:
+
+- a) Gesundheit: Zustand des physischen und psychischen Wohlbefindens;
+- b) Gesundheitsfachperson: Person, die in unmittelbarem Kontakt mit Patientinnen und Patienten medizinische, pflegerische, therapeutische oder präventive Tätigkeiten erbringt und über die erforderliche Ausbildung verfügt;
+- c) Bewilligungsinhaberin oder Bewilligungsinhaber: Person mit einer Bewilligung zur Berufsausübung und Eigentümerin beziehungsweise Eigentümer oder Trägerschaft mit einer Betriebsbewilligung;
+- d) Patientin oder Patient: Kranke, verletzte, pflegebedürftige oder gesunde Person, die Dienstleistungen einer Gesundheitsfachperson oder eines Betriebs des Gesundheitswesens in Anspruch nimmt;
+- e) Hilfsperson: Person, die im Rahmen ihrer Tätigkeit bei einer Gesundheitsfachperson oder bei einem Betrieb des Gesundheitswesens Kenntnis von Personendaten erhalten kann;
+- f) Angehörige: Ehegatten, Lebenspartner, Verwandte und Verschwägerte in gerader Linie, Verlobte, Geschwister und deren Ehegatten oder Lebenspartner, Geschwister der Ehegatten oder Lebenspartner, Adoptiveltern, Adoptivgeschwister, Adoptivkinder, Pflegeeltern und Pflegekinder sowie im gleichen Haushalt lebende Personen.
+
+## 2. Zuständigkeiten
 
 #### Art. 5
 
-**Kanton 1. Regierung**
+**Kanton**
 
-<sup>1</sup> Die Regierung übt die Aufsicht über das öffentliche Gesundheitswesen aus.
+<sup>1</sup> Der Kanton ist zuständig für:
 
-<sup>2</sup> …
+- a) die Gesundheitsförderung und Prävention, soweit er im vorliegenden Gesetz hierfür als zuständig bezeichnet wird;
+- b) die Mütter- und Väterberatung;
+- c) die Beaufsichtigung der bewilligungspflichtigen Betriebe und der Gesundheitsfachpersonen;
+- d) die Erteilung und den Entzug von gesundheitspolizeilichen Bewilligungen;
+- e) die Durchführung von Disziplinar- und Strafverfahren;
+- f) die Anordnung von gesundheitspolizeilichen Massnahmen;
+- g) die Mitteilung von zum Schutze der öffentlichen Gesundheit notwendigen Daten an Stellen, die mit der Führung von gesamtschweizerischen Registern über Personen, die eine bewilligungspflichtige Tätigkeit ausüben, oder Betrieben betraut sind;
+- h) den Vollzug des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz).
 
-<sup>3</sup> Die Regierung kann im Rahmen ihrer Kompetenzen verwaltungsrechtliche Vereinbarungen mit anderen Kantonen abschliessen.
+<sup>2</sup> Zur Erfüllung seiner Aufgaben ist der Kanton berechtigt, in das zentrale Personenregister Einsicht zu nehmen.
 
 #### Art. 6
 
-**2. Departement**
+**Gemeinden**
 
-<sup>1</sup> Das zuständige Departement vollzieht die Erlasse auf dem Gebiete des Gesundheitswesens und trifft die notwendigen gesundheitspolizeilichen Massnahmen und Verfügungen, sofern diese Aufgaben nicht ausdrücklich anderen Behörden oder Ämtern übertragen sind.
+<sup>1</sup> Die Gemeinden sind für den Schutz der Gesundheit der Bevölkerung zuständig, soweit diese Aufgabe nicht dem Kanton übertragen ist.
 
-<sup>2</sup> …
+<sup>2</sup> Insbesondere sind sie zuständig für:
 
-<sup>3</sup> …
+- a) die Gesundheitsförderung und Prävention;
+- b) die örtliche Gesundheitspolizei;
+- c) die Durchführung von Strafverfahren;
+- d) die Anordnung von Massnahmen gegen gesundheitsgefährdende und gesundheitsschädliche Beeinträchtigungen ihrer Bevölkerung;
+- e) die Überwachung der Umwelt- und Wohnhygiene;
+- f) den schulärztlichen und schulzahnärztlichen Dienst;
+- g) die Verhütung und Bekämpfung übertragbarer Krankheiten des Menschen;
+- h) das Bestattungswesen.
 
-#### Art. 6a
-
-**3. Amt**
-
-<sup>1</sup> Das zuständige Amt:
-
-- a) beaufsichtigt die Spitäler, Geburtshäuser und Heilbäder, die stationären Angebote zur Pflege und Betreuung von Langzeitpatienten und von betagten Personen, die Institutionen der häuslichen Pflege und Betreuung, die medizinischen Institute, die Laboratorien sowie die Personen, die Berufe des Gesundheitswesens ausüben;
-- b) erteilt und entzieht die gesundheitspolizeilichen Bewilligungen;
-- c) verfügt die Beschlagnahme und Vernichtung von gesundheitsgefährdenden Erzeugnissen, Gegenständen, Bestandteilen, Pflanzen, Geräten oder Stoffen;
-- d) verfügt die Schliessung und Liquidation von Praxen oder Betrieben;
-- e) führt die gesundheitspolizeilichen Strafverfahren;
-- f) kann den Stellen, die mit der Führung von gesamtschweizerischen Registern über Personen, die einen Beruf des Gesundheitswesens ausüben, betraut sind, die zum Schutze der öffentlichen Gesundheit notwendigen Daten mitteilen;
-- g) verfügt den Entzug der Bewilligung zur Führung einer Privatapotheke beziehungsweise die Berechtigung zur Abgabe von Arzneimitteln gemäss Artikel 36 Absatz 3.
-
-#### Art. 7
-
-**4. Kommissionen**
-
-<sup>1</sup> Für die Behandlung von Fragen des Gesundheitswesens kann die Regierung Kommissionen einsetzen.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-#### Art. 8
-
-**…**
-
-#### Art. 9
-
-**5. Amtsärzte**
-
-<sup>1</sup> Die Amtsärzte und ihre Stellvertreter werden von der Regierung im Nebenamt auf vier Jahre gewählt. Sie sind die gesundheitspolizeilichen Aufsichts- und Vollzugsorgane des Departementes und erfüllen die gerichtsärztlichen und anderen amtsärztlichen Aufgaben.
-
-<sup>2</sup> Jeder im Kanton praktizierende Arzt kann zur Übernahme amtlicher Aufgaben verpflichtet werden, wenn besondere Fachkenntnisse erforderlich sind oder der Amtsarzt beziehungsweise sein Stellvertreter im Ausstand ist oder nicht zur Verfügung steht.
-
-<sup>3</sup> Die Regierung regelt durch Verordnung die Rechte und Pflichten der Bezirksärzte.
-
-#### Art. 10
-
-**…**
-
-#### Art. 11
-
-**…**
-
-#### Art. 12
-
-**Gemeinden und ihre Aufgaben**
-
-<sup>1</sup> Die Gemeinden sind zuständig für die örtliche öffentliche Gesundheitspflege und Gesundheitspolizei sowie für Aufgaben, die ihnen durch eidgenössische und kantonale Gesetze übertragen sind.
-
-<sup>2</sup> Sie überwachen insbesondere die Umwelt- und Wohnhygiene, treffen Massnahmen gegen allgemein gesundheitsgefährdende und gesundheitsschädliche Beeinträchtigungen, besorgen das Friedhof- und Bestattungswesen und sorgen für stationäre Angebote für die Pflege und Betreuung von Langzeitpatienten und von betagten Personen, die häusliche Pflege und Betreuung, die Mütter- und Väterberatung, die Säuglingspflege, den schulärztlichen und den schulzahnärztlichen Dienst.
-
-<sup>3</sup> Die Gemeinden können diese Aufgaben auch an geeignete öffentliche oder private Institutionen sowie an Privatpersonen übertragen oder im Rahmen von Gemeindeverbindungen lösen.
+<sup>3</sup> Die Gemeinden haben bei Veranstaltungen mit erhöhtem Risiko für Leib und Leben der Teilnehmenden oder der Zuschauenden dafür zu sorgen, dass ein entsprechendes sanitätsdienstliches Konzept erstellt und umgesetzt wird.
 
 ## 3. Gesundheitsförderung und Prävention
 
-#### Art. 13
+#### Art. 7
 
-**Zuständigkeit 1. Kanton**
+**Zuständigkeit**
 
-<sup>1</sup> Der Kanton ist im Bereich der Gesundheitsförderung und Prävention zuständig für:
+<sup>1</sup> Der Kanton ist zuständig für:
 
-- a) gemeindeübergreifende Aufgaben;
-- b) die fachliche Unterstützung der Gemeinden;
-- c) die Koordination der Aktivitäten der Gemeinden.
+- a) kantonsweite Kampagnen und Programme;
+- b) gemeindeübergreifende Aufgaben;
+- c) die fachliche Unterstützung der Gemeinden;
+- d) die unentgeltliche Beratung der Mütter und Väter beziehungsweise der erziehungsberechtigten Personen in der Betreuung von Säuglingen und Kleinkindern;
+- e) die Koordination der Aktivitäten der Gemeinden.
 
-<sup>2</sup> Er kann einzelne Aufgaben Dritten übertragen.
-
-<sup>3</sup> Der Kanton kann Beiträge gewähren:
+<sup>2</sup> Er kann Beiträge gewähren:
 
 - a) an Projekte zur Gesundheitsförderung und Prävention;
 - b) zur Erhebung von Grundlagen betreffend den Gesundheitszustand der Bevölkerung;
-- c) an Institutionen, die einen wichtigen Beitrag an die Gesundheitsförderung oder Prävention der Bevölkerung leisten.
+- c) an Organisationen, die einen wichtigen Beitrag an die Gesundheitsförderung oder Prävention der Bevölkerung leisten.
 
-#### Art. 14
+#### Art. 8
 
-**2. Gemeinden**
+**Tabak**
 
-<sup>1</sup> Die Gemeinden sind insbesondere zuständig für:
-
-- a) die Gesundheitsförderung und Prävention ihrer Bevölkerung;
-- b) die Information der Bevölkerung über die ihre Gesundheit fördernden Lebensgewohnheiten und Lebensbedingungen.
-
-#### Art. 15
-
-**Alkohol und Tabak**
-
-<sup>1</sup> Die Werbung für Alkoholprodukte mit mehr als 20 Volumenprozenten sowie für Tabak und Tabakerzeugnisse ist verboten:
+<sup>1</sup> Die Werbung für Tabak und Tabakerzeugnisse ist verboten:
 
 - a) auf, über oder entlang von öffentlichen Strassen und Plätzen;
 - b) auf privatem, von öffentlichen Strassen und Plätzen her einsehbarem Grund;
-- c) bei oder in öffentlichen Gebäuden, die im Besitze von öffentlich-rechtlichen Körperschaften oder selbständigen Anstalten sind.
+- c) vor oder in öffentlichen Gebäuden, die im Besitze von öffentlich-rechtlichen Körperschaften oder selbständigen Anstalten sind.
 
 <sup>2</sup> Es ist verboten, Tabak und Tabakerzeugnisse:
 
 - a) an Personen unter 16 Jahren zu verkaufen;
 - b) zu Werbezwecken an Personen unter 16 Jahren abzugeben;
-- c) durch jedermann zugängliche Automaten zu verkaufen.
+- c) durch Automaten, die allgemein zugänglich sind, zu verkaufen.
 
-<sup>3</sup> Die Gemeinden sorgen für die Einhaltung der Werbebeschränkungen für Alkohol und Tabakerzeugnisse sowie der Abgabe- und Verkaufsbeschränkungen von Tabak und Tabakerzeugnissen.
+<sup>3</sup> Die Gemeinden sorgen für die Einhaltung der Werbebeschränkungen für Tabakerzeugnisse sowie der Abgabe- und Verkaufsbeschränkungen von Tabak und Tabakerzeugnissen.
 
-#### Art. 15a
+#### Art. 9
 
 **Nichtraucherschutz**
 
-<sup>1</sup> Das Rauchen ist verboten:
+<sup>1</sup> Das Rauchen ist im Innen- und Aussenbereich von Schularealen und Schulsportanlagen sowie von Begegnungs- und Betreuungsstätten für Kinder und Jugendliche verboten.
 
-- a) in öffentlich zugänglichen geschlossenen Räumen, soweit es nicht in entsprechend gekennzeichneten separaten Nebenräumen für Raucher erfolgt;
-- b) im Innen- und Aussenbereich von Schularealen und Schulsportanlagen sowie von Begegnungs- und Betreuungsstätten für Kinder und Jugendliche.
+<sup>2</sup> Die Gemeinden können das Rauchverbot gemäss Absatz 1 für Veranstaltungen und Anlässe, die sich überwiegend an Erwachsene richten, und bei Schulanlagen mit ausschliesslich nachobligatorischem Bildungsangebot an definierten Orten im Aussenbereich aufheben.
 
-<sup>2</sup> Die Gemeinden können das Rauchverbot gemäss Absatz 1 Litera b für Veranstaltungen und Anlässe, die sich überwiegend an Erwachsene richten, und bei Schulanlagen mit ausschliesslich nachobligatorischem Bildungsangebot an definierten Orten im Aussenbereich aufheben.
+<sup>3</sup> Raucherbetriebe gemäss Artikel 3 des Bundesgesetzes zum Schutz vor Passivrauchen[^9-1] sind nicht zugelassen.
 
-#### Art. 15b
+[^9-1]: SR [818.31](https://db.clex.ch/link/Bund/818.31/de)
 
-**Hanfanbau**
+## 4. Gesundheitspolizeiliche Bewilligungen
 
-<sup>1</sup> Der Anbau von Hanfsorten, die zum Konsum als Betäubungsmittel geeignet sind, ist verboten.
+### 4.1. Allgemeine Bestimmungen
 
-<sup>2</sup> Die Regierung kann für begründete Fälle Ausnahmen vorsehen.
+#### Art. 10
 
-## 4. Einrichtungen der Gesundheitspflege
+**Erteilung der Bewilligung**
 
-#### Art. 16
+<sup>1</sup> Die Bewilligungen werden vom zuständigen Amt (Amt) erteilt.
 
-**Spitäler, Geburtshäuser und Heilbäder**
+<sup>2</sup> Sie können mit Einschränkungen in fachlicher, zeitlicher oder räumlicher Art oder mit Auflagen verbunden werden, soweit dies zur Sicherstellung einer qualitativ hochstehenden und regional ausgewogenen medizinischen Versorgung des Kantons erforderlich ist.
 
-<sup>1</sup> Als Spitäler, Geburtshäuser und Heilbäder gelten alle unter ärztlicher Leitung stehenden Institutionen, die der Aufnahme, Untersuchung Behandlung oder Pflege von kranken oder verletzten Personen oder der Geburtshilfe dienen.
+#### Art. 11
 
-<sup>2</sup> …
+**Aufsicht**
 
-#### Art. 17
+<sup>1</sup> Das Amt wacht über die Einhaltung der Bewilligungsvoraussetzungen sowie der Pflichten der Gesundheitsfachpersonen und der Betriebe des Gesundheitswesens. Es führt Kontrollen durch und trifft die notwendigen Massnahmen.
 
-**…**
+<sup>2</sup> Die ordentlichen Kontrollen erfolgen nach Terminabsprache. Dazu ist dem Amt oder den von ihm beauftragten Dritten der Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren sowie die notwendigen Auskünfte zu erteilen.
 
-#### Art. 18
+<sup>3</sup> Bei Verdacht auf nachträgliche Nichterfüllung der Bewilligungsvoraussetzungen wie auch bei Verletzung der Berufs- oder Betriebspflichten oder der Vorschriften der einschlägigen Gesetzgebung des Bundes oder des Kantons hat die in Verdacht stehende Person beziehungsweise der in Verdacht stehende Betrieb dem Amt oder den von ihm beauftragten Dritten jederzeit und unangemeldet den Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren. Es kann Akten oder Gegenstände beschlagnahmen.
 
-**…**
+#### Art. 12
 
-#### Art. 19
+**Entzug der Bewilligung**
 
-**Notfallpatienten**
+<sup>1</sup> Die Bewilligung wird entzogen wenn:
 
-<sup>1</sup> Die Spitäler sind verpflichtet, Kranke und Verunfallte rund um die Uhr auch ohne ärztliche Einweisung aufzunehmen.
+- a) die Bewilligungsvoraussetzungen nicht mehr erfüllt sind;
+- b) nachträglich Tatsachen festgestellt werden, auf Grund derer sie hätte verweigert werden müssen.
 
-#### Art. 19bis
+### 4.2. Berufe des Gesundheitswesens
 
-**…**
+#### Art. 13
 
-#### Art. 20
+**Bewilligungspflichtige Tätigkeiten**
 
-**Patientenrechte**
+<sup>1</sup> Tätigkeiten in eigener fachlicher Verantwortung, die ein derartiges Risiko für die öffentliche Gesundheit darstellen, dass sie eine staatliche Kontrolle erfordern, bedürfen einer Bewilligung.
 
-<sup>1</sup> Die Patienten haben ein Recht auf ärztliche und pflegerische Betreuung. Das Recht auf Schutz ihrer Persönlichkeit ist gewährleistet.
+<sup>2</sup> Der Bewilligungspflicht unterstehen insbesondere Tätigkeiten, die folgenden Berufen zuzuordnen sind:
 
-<sup>2</sup> Sie haben Anspruch darauf, vom behandelnden Arzt in geeigneter und angemessener Form über den Krankheitszustand, die therapeutische Bedeutung der vorgesehenen Massnahmen und die Heilungsaussichten informiert zu werden.
+- a) Ärztin/Arzt;
+- b) Apothekerin/Apotheker;
+- c) Zahnärztin/Zahnarzt;
+- d) Chiropraktorin/Chiropraktor;
+- e) Dentalhygienikerin/Dentalhygieniker;
+- f) Drogistin/Drogist;
+- g) Hebamme/Entbindungspfleger;
+- h) Ergotherapeutin/Ergotherapeut;
+- i) Ernährungsberaterin/Ernährungsberater;
+- j) Logopädin/Logopäde;
+- k) medizinische Masseurin/medizinischer Masseur;
+- l) Pflegefachfrau/Pflegefachmann;
+- m) Physiotherapeutin/Physiotherapeut;
+- n) Podologin/Podologe;
+- o) Psychotherapeutin/Psychotherapeut;
+- p) Osteopathin/Osteopath;
+- q) Optometristin/Optometrist;
+- r) Naturheilpraktikerin/Naturheilpraktiker.
 
-<sup>3</sup> Sie haben Anrecht auf eine angemessene Spitalseelsorge.
+<sup>3</sup> Logopädinnen und Logopäden unterstehen insoweit der Bewilligungspflicht, als sie Leistungen zu Lasten der obligatorischen Krankenpflegeversicherung erbringen.
 
-<sup>4</sup> Unheilbar kranke und sterbende Menschen haben Anrecht auf angemessene Pflege und Begleitung.
+<sup>4</sup> Die Regierung kann zum Schutze der öffentlichen Gesundheit weitere Tätigkeiten des Gesundheitswesens mit klar umschriebenem Tätigkeitsgebiet und eigenem Berufsbild der Bewilligungspflicht unterstellen.
 
-#### Art. 21
+#### Art. 14
 
-**Obduktion**
+**Ohne Bewilligung nicht zulässige Tätigkeiten**
 
-<sup>1</sup> An Patienten, die in einem Spital oder einer Klinik gestorben sind, kann eine Obduktion ausgeführt werden. Die Obduktion unterbleibt, wenn der Patient oder an seiner Stelle die nächsten Angehörigen Einspruch erhoben haben.
+<sup>1</sup> Personen, die Tätigkeiten im Gesundheitswesen ausüben, die nicht der Bewilligungspflicht unterliegen, ist es insbesondere untersagt:
 
-<sup>2</sup> Vorbehalten bleiben besondere Anordnungen des Departementes und des Kantonsarztes bei Verdacht auf eine übertragbare Krankheit sowie die Obduktion nach den Vorschriften der Strafprozessordnung[^21-1] und ihrer Nebenerlasse.
+- a) Krankheiten, Verletzungen oder sonstige gesundheitliche Beeinträchtigungen festzustellen oder zu behandeln;
+- b) kranke, verletzte oder sonstig gesundheitlich beeinträchtigte Personen zu pflegen. Davon ausgenommen ist die Pflege von Angehörigen und von nahestehenden Personen;
+- c) geburtshilfliche Verrichtungen vorzunehmen;
+- d) Blutentnahmen und Injektionen vorzunehmen oder anderweitige Praktiken anzuwenden, die Körperverletzungen und Blutungen zur Folge haben;
+- e) bei Personen, die bei ihnen in Behandlung stehen, verschreibungspflichtige Arzneimittel und Arzneimittel, die eine Fachberatung erfordern, anzuwenden, abzugeben, zu rezeptieren oder zu empfehlen;
+- f) amtliche Gutachten, Zeugnisse und Bescheinigungen auszustellen;
+- g) Manipulationen an der Wirbelsäule vorzunehmen;
+- h) Verrichtungen an den Zähnen oder in der Mundhöhle vorzunehmen;
+- i) psychotherapeutische Gesprächstherapien zu führen.
 
-[^21-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+<sup>2</sup> Gesundheitsfachpersonen sind verpflichtet, Personen, deren Zustand ärztliche Abklärung oder Behandlung erfordert, an eine Ärztin beziehungsweise einen Arzt gemäss Wahl der behandelten Person zu überweisen.
 
-#### Art. 22
+<sup>3</sup> Die Regierung kann einzelne Tätigkeiten vom Verbot gemäss Absatz 1 ausnehmen, sofern dies mit dem Schutz der Gesundheit vereinbar ist.
 
-**…**
-
-#### Art. 22a
-
-**Unabhängige Instanz für Transplantationen**
-
-<sup>1</sup> Der Bezirksgerichtspräsident beurteilt die Zulässigkeit der Entnahme regenerierbarer Gewebe und Zellen bei urteilsunfähigen oder minderjährigen Personen.
-
-<sup>2</sup> Für das Verfahren gelten die Bestimmungen der Zivilprozessordnung[^22a-1] über das summarische Verfahren.
-
-[^22a-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
-
-#### Art. 23
-
-**Hospitalisierung von psychisch Kranken 1. Freiwilliger Eintritt**
-
-<sup>1</sup> Der freiwillige Eintritt in ein psychiatrisches Spital bedarf eines ärztlichen Zeugnisses und der schriftlichen Zustimmung des Patienten.
-
-#### Art. 24
-
-**2. Einweisung oder Zurückbehaltung gegen den Willen des Betroffenen**
-
-<sup>1</sup> Gegen ihren Willen dürfen psychisch Kranke nur nach den Bestimmungen über die fürsorgerische Unterbringung eingewiesen oder zurückbehalten werden.
-
-<sup>2</sup> Vorbehalten bleiben die Vorschriften des Strafgesetzbuches[^24-1] und die Strafprozessordnung sowie deren Nebenerlasse.
-
-[^24-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
-
-#### Art. 25
-
-**Bewilligungspflicht**
-
-<sup>1</sup> Der Betrieb von Spitälern, Geburtshäusern und Heilbädern bedarf einer Bewilligung.
-
-<sup>2</sup> Die Bewilligung wird erteilt, wenn sich die Leitung und die Mitarbeiter über die notwendigen fachlichen Fähigkeiten ausweisen, die erforderlichen Einrichtungen vorhanden sind und wenn Gewähr für einen einwandfreien Betrieb während der Öffnungszeit besteht.
-
-<sup>3</sup> Sind diese Voraussetzungen nicht mehr gegeben, wird die Bewilligung nach erfolgter Verwarnung entzogen.
-
-#### Art. 26
-
-**…**
-
-#### Art. 27
-
-**Öffentliche Laboratorien**
-
-<sup>1</sup> Der Kanton kann im Bedarfsfalle Laboratorien errichten und betreiben.
-
-<sup>2</sup> Er kann sich an solchen Einrichtungen beteiligen oder die Einrichtung und den Betrieb durch Beiträge unterstützen.
-
-#### Art. 28
-
-**Private Einrichtungen**
-
-<sup>1</sup> Die Einrichtung und der Betrieb privater Laboratorien sowie medizinischer Institute bedürfen einer Bewilligung.
-
-<sup>2</sup> Die Bewilligung wird erteilt, wenn sich die Leitung und die Mitarbeiter über die notwendigen fachlichen Fähigkeiten ausweisen, die notwendigen Einrichtungen vorhanden sind und eine einwandfreie Betriebsführung gewährleistet ist.
-
-<sup>3</sup> Sind diese Voraussetzungen nicht mehr gegeben, wird die Bewilligung nach erfolgter Verwarnung entzogen.
-
-## 5. Angebote zur stationären Pflege und Betreuung von Langzeitpatienten und von betagten Personen sowie zur häuslichen Pflege und Betreuung
-
-#### Art. 28a
-
-**Bewilligungspflicht**
-
-<sup>1</sup> Angebote zur Pflege und Betreuung von betagten und pflegebedürftigen Personen bedürfen einer Bewilligung. Die Regierung kann Ausnahmen festlegen.
-
-#### Art. 28b
-
-**Bewilligungsvoraussetzungen, -entzug**
-
-<sup>1</sup> Die Bewilligung wird erteilt, wenn
-
-- a) die Anforderungen an eine ausreichende und fachlich qualifizierte Pflege und Betreuung in räumlicher, betrieblicher und personeller Hinsicht erfüllt sind;
-- b) bei stationären Angeboten die Pflege und Betreuung auch bei steigender Pflegebedürftigkeit gewährleistet ist;
-- c) das Leistungsangebot den Qualitätsvorgaben des Kantons entspricht;
-- d) Alters- und Pflegeheime über eine Ombudsperson verfügen;
-- e) die finanziellen Verhältnisse ausgewiesen und von einer unabhängigen Revisionsstelle geprüft werden.
-
-<sup>2</sup> Die Bewilligung ist zu befristen.
-
-<sup>3</sup> Die Bewilligung wird entzogen, wenn die Voraussetzungen nicht mehr erfüllt sind oder bei stationären Angeboten die vom Kanton festgelegten Maximaltarife überschritten werden.
-
-<sup>4</sup> Die Bewilligungsinstanz kann jederzeit die Erfüllung der Bewilligungsvoraussetzungen überprüfen.
-
-#### Art. 28c
-
-**Bewilligungserneuerung**
-
-<sup>1</sup> Die Erneuerung der Bewilligung kann von Bedingungen abhängig gemacht werden.
-
-#### Art. 28d
-
-**Aufzeichnungen**
-
-<sup>1</sup> Die für die Pflege und Betreuung verantwortlichen Personen haben für jede pflegebedürftige Person Aufzeichnungen zu machen, welche das Wesentliche über die Pflege und Betreuung enthalten. Die Aufzeichnungen sind während mindestens zehn Jahren aufzubewahren.
-
-## 6. Berufe im Gesundheitswesen
-
-### 6.1. Allgemeines
-
-#### Art. 29
-
-**Bewilligungspflicht**
-
-<sup>1</sup> Die schulmedizinische Behandlung von Krankheiten, Verletzungen, Behinderungen oder sonstiger gesundheitlicher Störungen auf eigene Rechnung oder in eigener fachlicher Verantwortung auf Rechnung einer anderen Person bedarf einer Bewilligung zur Berufsausübung.
-
-<sup>2</sup> Der Bewilligungspflicht unterstehen Tätigkeiten, die folgenden Berufen zuzuordnen sind:
-
-- a) Ärztin;
-- b) Apothekerin;
-- c) Zahnärztin;
-- d) Chiropraktorin;
-- e) Augenoptikerin;
-- f) Dentalhygienikerin;
-- g) Drogistin;
-- h) Hebamme;
-- i) Ergotherapeutin;
-- k) Ernährungsberaterin;
-- l) Logopädin;
-- m) medizinische Masseurin;
-- n) Pflegefachfrau;
-- o) Physiotherapeutin;
-- p) Podologin;
-- q) Psychotherapeutin.
-
-<sup>3</sup> Die Regierung kann zum Schutze der öffentlichen Gesundheit weitere schulmedizinische oder andere Tätigkeiten des Gesundheitswesens mit klar umschriebenem Tätigkeitsgebiet und eigenem Berufsbild der Bewilligungspflicht unterstellen.
-
-#### Art. 29a
-
-**Alternativmedizinische Tätigkeiten**
-
-<sup>1</sup> Für die Ausübung der Homöopathie, der Traditionellen Chinesischen Medizin und der Traditionellen Europäischen Naturheilkunde bedarf es einer Bewilligung als Naturheilpraktikerin.
-
-<sup>2</sup> Die Bewilligung zur Berufsausübung wird Personen erteilt:
-
-- a) die sich über eine Registrierung bei einer von der Regierung bezeichneten gesamtschweizerisch tätigen Stelle, die ein Qualitätslabel für die Ausbildung vergibt, ausweisen;
-- b) die die nach früherem Recht vorausgesetzte kantonale Prüfung für Naturheilpraktiker bestanden haben oder
-- c) die einen eidgenössisch anerkannten Ausbildungsabschluss erworben haben.
-
-#### Art. 29b
-
-**Stellvertretung**
-
-<sup>1</sup> Die fachverantwortliche Vertretung einer Person mit einer Berufsausübungsbewilligung bedarf einer Bewilligung.
-
-<sup>2</sup> Die Bewilligung wird erteilt, wenn die Vertretung die Bewilligungsvoraussetzungen gemäss Artikel 30 Absatz 1 erfüllt. Die Bewilligung kann befristet werden.
-
-#### Art. 30
+#### Art. 15
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Bewilligung zur Berufsausübung wird erteilt, wenn die gesuchstellende Person:
+<sup>1</sup> Die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung wird der gesuchstellenden Person erteilt, wenn sie:
 
-- a) ein entsprechendes eidgenössisches, ein eidgenössisch oder gesamtschweizerisch anerkanntes Diplom oder einen entsprechenden Fähigkeitsausweis besitzt;
-- b) zivilrechtlich handlungsfähig ist;
-- c) eine ausreichende Berufshaftpflichtversicherung abgeschlossen hat, sofern die Tätigkeit dies erfordert;
-- d) keine die Berufsausübung betreffende strafbare Handlung begangen hat und
-- e) mit keinen körperlichen oder geistigen Gebrechen behaftet ist, welche die Berufsausübung schwerwiegend beeinträchtigen.
+- a) über ein eidgenössisches oder gesamtschweizerisch anerkanntes Diplom, einen eidgenössisch anerkannten ausländischen Bildungsabschluss, ein eidgenössisches Fähigkeitszeugnis, einen gesamtschweizerisch anerkannten Fähigkeitsausweis oder einen eidgenössischen Fachausweis verfügt;
+- b) vertrauenswürdig ist sowie physisch und psychisch Gewähr für eine einwandfreie Berufsausübung bietet;
+- c) über die notwendigen Kenntnisse einer Amtssprache des Kantons verfügt.
 
-<sup>2</sup> Um die Versorgung der Bevölkerung sicher zu stellen, können ausnahmsweise auch Personen mit einem gleichwertigen anderen Diplom oder Fähigkeitsausweis zur Berufsausübung zugelassen werden. Weitere Zulassungen richten sich nach der Bundesgesetzgebung. Die Zulassungen können befristet sowie mit Auflagen und Bedingungen verbunden werden.
+<sup>2</sup> Für die Bewilligungserteilung der in der Bundesgesetzgebung über die universitären Medizinalberufe, die Psychologieberufe und die Gesundheitsberufe geregelten Berufe sind die in diesen Erlassen enthaltenen Bewilligungsvoraussetzungen massgebend.
 
-#### Art. 30a
+#### Art. 16
 
 **Erlöschen der Bewilligung**
 
-<sup>1</sup> Die Bewilligung zur Berufsausübung erlischt:
+<sup>1</sup> Die Bewilligung erlischt:
 
-- a) mit dem Verlust der zivilrechtlichen Handlungsfähigkeit;
-- b) mit dem schriftlich erklärten Verzicht auf die Berufsausübung;
-- c) mit der Erfüllung des 70sten Altersjahres.
+- a) bei Nichtaufnahme der Berufsausübung im Kanton Graubünden innert sechs Monaten seit der Erteilung der Bewilligung;
+- b) mit schriftlich erklärtem Verzicht auf die Berufsausübung;
+- c) mit Aufgabe der Berufsausübung im Kanton Graubünden;
+- d) mit Erfüllung des 70. Altersjahres, sofern nicht der amtsärztliche Nachweis erbracht wird, dass keine physischen oder psychischen Gründe gegen die Berufsausübung vorliegen. Der Nachweis ist alle zwei Jahre zu erbringen.
 
-<sup>2</sup> Die Bewilligung erlischt mit der Erfüllung des 70sten Altersjahres nicht, wenn die betreffende Person aufgrund eines amtsärztlichen Zeugnisses den Nachweis erbringt, sowohl in physischer als auch in psychischer Hinsicht in der Lage zu sein, weiterhin den Beruf ausüben zu können. Der Nachweis ist jeweils alle zwei Jahre einzureichen.
+### 4.3. Betriebe des Gesundheitswesens
+
+#### Art. 17
+
+**Bewilligungspflicht**
+
+<sup>1</sup> Eine Betriebsbewilligung ist bei folgenden Betriebsformen erforderlich:
+
+- a) Spitäler und Kliniken mit stationärem Angebot;
+- b) Geburtshäuser mit stationärem Angebot;
+- c) Pflegeheime, Pflegegruppen, Pflegewohnungen, Sterbehospize und weitere stationäre Pflegeangebote;
+- d) Tages- und Nachtstrukturen für pflege- und betreuungsbedürftige Personen;
+- e) Dienste der häuslichen Pflege und Betreuung;
+- f) gewerbsmässiger Kranken- und Verunfalltentransport.
+
+<sup>2</sup> Die Regierung kann weitere Betriebsformen der Bewilligungspflicht unterstellen.
+
+#### Art. 18
+
+**Dauer der Bewilligung**
+
+<sup>1</sup> Die Bewilligung wird vom Amt für maximal zehn Jahre erteilt.
+
+#### Art. 19
+
+**Bewilligungsvoraussetzungen 1. Allgemeine Voraussetzungen**
+
+<sup>1</sup> Die Betriebsbewilligung wird der Eigentümerin beziehungsweise dem Eigentümer oder der Trägerschaft erteilt, wenn:
+
+- a) die Bezeichnung einer den Betrieb leitenden Person vorliegt;
+- b) der Betrieb den angebotenen Leistungen und den Vorgaben der Regierung entsprechend eingerichtet ist und betrieben wird;
+- c) der Betrieb die personellen Vorgaben der Regierung in qualitativer und quantitativer Hinsicht erfüllt (Strukturqualität);
+- d) der Nachweis eines vom Amt anerkannten Qualitätssicherungssystems vorliegt;
+- e) der Nachweis über den Abschluss einer Betriebshaftpflichtversicherung nach Massgabe der Art und des Umfanges der Risiken oder über andere, gleichwertige Sicherheiten erbracht wird.
+
+<sup>2</sup> Der Name der den Betrieb leitenden Person ist in der Bewilligung aufzuführen. Beim Wechsel der leitenden Person ist die Betriebsbewilligung anzupassen.
+
+<sup>3</sup> Die Regierung kann einzelne Betriebsformen von der Erfüllung der Voraussetzung von Absatz 1 Litera d ausnehmen.
+
+#### Art. 20
+
+**2. Zusätzliche Voraussetzungen für Spitäler und Kliniken**
+
+<sup>1</sup> Die Betriebsbewilligung wird der Eigentümerin beziehungsweise dem Eigentümer oder der Trägerschaft eines Spitals oder einer Klinik erteilt, wenn zudem:
+
+- a) die Bezeichnung der pro Fachrichtung medizinisch verantwortlichen Personen und der pflegerisch verantwortlichen Person vorliegt. Diese Personen müssen über die entsprechende Berufsausübungsbewilligung verfügen. Ein Wechsel der verantwortlichen Person ist dem Amt zu melden;
+- b) der Betrieb einem von der Regierung bezeichneten anonymen Fehlermeldesystem angeschlossen ist.
+
+#### Art. 21
+
+**3. Zusätzliche Voraussetzung für Geburtshäuser**
+
+<sup>1</sup> Die Betriebsbewilligung wird der Eigentümerin beziehungsweise dem Eigentümer oder der Trägerschaft eines Geburtshauses erteilt, wenn die Bezeichnung der für die geburtshilflichen Tätigkeiten verantwortlichen Person vorliegt. Diese Person muss über die entsprechende Berufsausübungsbewilligung verfügen. Ein Wechsel der verantwortlichen Person ist dem Amt zu melden.
+
+#### Art. 22
+
+**4. Zusätzliche Voraussetzungen für Pflegeheime**
+
+<sup>1</sup> Die Betriebsbewilligung wird der Eigentümerin beziehungsweise dem Eigentümer oder der Trägerschaft eines Pflegeheims erteilt, wenn zudem:
+
+- a) die Bezeichnung der pflegerisch verantwortlichen Person vorliegt; diese Person muss über die entsprechende Berufsausübungsbewilligung verfügen. Ein Wechsel der verantwortlichen Person ist dem Amt zu melden;
+- b) die Pflege und Betreuung der Bewohnerinnen und Bewohner auch bei steigender Pflegebedürftigkeit gewährleistet ist.
+
+#### Art. 23
+
+**5. Zusätzliche Voraussetzung für Dienste der häuslichen Pflege und Betreuung**
+
+<sup>1</sup> Die Betriebsbewilligung wird der Eigentümerin beziehungsweise dem Eigentümer oder der Trägerschaft eines Dienstes der häuslichen Pflege und Betreuung erteilt, wenn die Bezeichnung der pflegerisch verantwortlichen Person vorliegt. Diese Person muss über die entsprechende Berufsausübungsbewilligung verfügen. Ein Wechsel der verantwortlichen Person ist dem Amt zu melden.
+
+#### Art. 24
+
+**6. Zusätzliche Voraussetzungen für gewerbsmässigen Kranken- und Verunfalltentransport**
+
+<sup>1</sup> Die Betriebsbewilligung für den gewerbsmässigen Transport von Kranken und Verunfallten wird der Eigentümerin beziehungsweise dem Eigentümer oder der Trägerschaft des Betriebs erteilt, wenn zudem:
+
+- a) die Bezeichnung einer medizinisch verantwortlichen Person mit einer Berufsausübungsbewilligung als Ärztin beziehungsweise Arzt vorliegt. Ein Wechsel der verantwortlichen Person ist dem Amt zu melden;
+- b) die freie Arzt- und Spitalwahl gewährleistet wird.
+
+<sup>2</sup> Betriebe, die Kranke und Verunfallte ohne Beeinträchtigung der Vitalfunktionen gewerbsmässig transportieren, sind von der Erfüllung der Voraussetzung von Absatz 1 Litera a ausgenommen.
+
+#### Art. 25
+
+**Erlöschen der Bewilligung**
+
+<sup>1</sup> Die Bewilligung erlischt:
+
+- a) bei Nichtaufnahme des Betriebs innert sechs Monaten seit Erteilung der Bewilligung;
+- b) mit Einstellung des Betriebs.
+
+#### Art. 26
+
+**Aufnahmestopp**
+
+<sup>1</sup> Gegenüber stationären Angeboten kann das Amt bei Nichterfüllung der räumlichen, betrieblichen oder personellen Vorgaben der Regierung anstelle des Entzugs der Bewilligung einen Aufnahmestopp für Patientinnen und Patienten verfügen.
+
+## 5. Pflichten der Gesundheitsfachpersonen und der Betriebe des Gesundheitswesens
+
+### 5.1. Allgemeine Pflichten
+
+#### Art. 27
+
+**Wahrung der Patientenrechte und -interessen**
+
+<sup>1</sup> Gesundheitsfachpersonen und Betriebe des Gesundheitswesens sind verpflichtet, die Rechte und die Interessen der Patientinnen und Patienten zu wahren.
+
+<sup>2</sup> Bewilligungsinhaberinnen und -inhaber haben behandlungsbezogene Tätigkeiten unabhängig von finanziellen Vorteilen vorzunehmen.
+
+#### Art. 28
+
+**Patientenaufklärung**
+
+<sup>1</sup> Die Patientinnen und Patienten und soweit nötig auch die gemäss den Bestimmungen des Schweizerischen Zivilgesetzbuches über den Erwachsenenschutz vertretungsberechtigten Personen sind von den für die Behandlung verantwortlichen Personen oder von ihnen damit betrauten Gesundheitsfachpersonen rechtzeitig, angemessen und in verständlicher Form aufzuklären.
+
+<sup>2</sup> Die Aufklärung umfasst insbesondere:
+
+- a) die Patientenrechte und -pflichten;
+- b) den Gesundheitszustand und die Krankheitsdiagnose;
+- c) die beabsichtigten vorbeugenden, diagnostischen und therapeutischen Massnahmen sowie deren Risiken, Vor- und Nachteile und Kosten;
+- d) allfällige Alternativen zu den beabsichtigten Massnahmen;
+- e) den Behandlungsverlauf und das Ergebnis der Behandlung.
+
+<sup>3</sup> Die Aufklärung ist mit der gebotenen Schonung vorzunehmen, wenn zu befürchten ist, dass sie Patientinnen oder Patienten übermässig belastet oder den Krankheitsverlauf ungünstig beeinflusst.
+
+<sup>4</sup> Kann eine vorherige Aufklärung infolge zeitlicher Dringlichkeit nicht vorgenommen werden, ist sie so bald als möglich nachzuholen.
+
+#### Art. 29
+
+**Patientendokumentation**
+
+<sup>1</sup> Von jeder Patientin und jedem Patienten ist eine laufend nachzuführende Dokumentation anzulegen. Die Personen, welche die Einträge veranlasst beziehungsweise vorgenommen haben, müssen unmittelbar ersichtlich sein.
+
+<sup>2</sup> Die Patientendokumentation kann schriftlich oder elektronisch geführt werden.
+
+<sup>3</sup> Die Dokumentation ist während mindestens zehn Jahren nach Abschluss der letzten Behandlung aufzubewahren, sofern sie nicht vorzeitig der Patientin oder dem Patienten übergeben wird.
+
+<sup>4</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber sorgt dafür, dass die Dokumentation auch nach ihrem oder seinem Tod beziehungsweise bei Berufs- oder bei Betriebsaufgabe für die Patientinnen und Patienten unter Wahrung des Berufsgeheimnisses zugänglich bleibt.
+
+<sup>5</sup> Stirbt eine Bewilligungsinhaberin oder ein Bewilligungsinhaber oder wird ein Betrieb geschlossen, kann die Dokumentation dem Amt gegen eine Gebühr zur Aufbewahrung übergeben werden. Die Gebühr ist vom Nachlass der verstorbenen Person beziehungsweise vom Betrieb zu tragen.
+
+<sup>6</sup> Die Gebühr für die Aufbewahrung einer Dokumentation beträgt bei:
+
+- a) Gesundheitsfachpersonen — maximal 5 000 Franken;
+- b) Betrieben — maximal 50 000 Franken.
+
+#### Art. 30
+
+**Informationen an Dritte**
+
+<sup>1</sup> Personendaten dürfen nur mit dem Einverständnis der Patientinnen und Patienten an Dritte weitergegeben werden.
 
 #### Art. 31
 
-**Verweigerung, Entzug**
+**Behandlung urteilsunfähiger Personen**
 
-<sup>1</sup> Die Bewilligung zur Berufsausübung kann verweigert oder entzogen werden, wenn:
+<sup>1</sup> Der Umgang mit urteilsunfähigen Patientinnen und Patienten richtet sich nach den einschlägigen Bestimmungen des Schweizerischen Zivilgesetzbuches[^31-1].
 
-- a) die Verletzung eines für die Berufsausübung relevanten Straftatbestandes gerichtlich festgestellt wurde;
-- b) schwerwiegende Widerhandlungen gegen dieses Gesetz und die sich darauf stützenden Erlasse vorliegen;
-- c) die Berufsausübungsbewilligung in einem anderen Kanton entzogen wurde;
-- d) geistige Mängel oder körperliche Behinderungen vorliegen, die mit der Ausübung des Berufes unvereinbar sind.
-
-<sup>2</sup> Der Entzug kann für die ganze oder einen Teil der Berufstätigkeit auf bestimmte oder unbestimmte Zeit erfolgen.
-
-<sup>3</sup> Besteht ein begründeter Verdacht, dass ein Grund für den Entzug der Berufsausübungsbewilligung gemäss Absatz 1 vorliegt, kann zum Schutze von Leib und Leben die Bewilligung vorsorglich entzogen werden.
+[^31-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 32
 
-**Einschränkungen der bewilligungsfreien Tätigkeiten**
+**Obduktion**
 
-<sup>1</sup> Personen, die eine Tätigkeit ausüben, die nicht der Bewilligungspflicht unterliegt, ist es untersagt:
+<sup>1</sup> Eine Obduktion darf vorgenommen werden, sofern die Zustimmung der verstorbenen Person vorliegt oder an ihrer Stelle die gemäss Schweizerischem Zivilgesetzbuch[^32-1] vertretungsberechtigten Personen zustimmen.
 
-- a) Blutentnahmen und Injektionen vorzunehmen oder anderweitige Praktiken anzuwenden, die Körperverletzungen und Blutungen zur Folge haben;
-- b) Substanzen und physikalische Mittel anzuwenden, die offenkundig die Gesundheit gefährden;
-- c) schulmedizinische Behandlungen sowie chirurgische und geburtshilfliche Verrichtungen vorzunehmen;
-- d) übertragbare Krankheiten, einschliesslich Geschlechtskrankheiten, zu behandeln oder die Ausbreitung dieser Krankheiten zu begünstigen;
-- e) Manipulationen an der Wirbelsäule vorzunehmen;
-- f) Heilmittel der Abgabekategorien A bis C bei Personen anzuwenden, die bei ihnen in Behandlung stehen;
-- g) Heilmittel der Abgabekategorien A bis D abzugeben;
-- h) Heilmittel der Abgabekategorien A bis C zu empfehlen;
-- i) Rezepte auszustellen;
-- k) amtliche Gutachten, Zeugnisse und Bescheinigungen auszustellen.
+<sup>2</sup> Vorbehalten bleibt die behördliche Anordnung bei Verdacht auf eine übertragbare Krankheit des Menschen sowie die Obduktion nach den Vorschriften der Schweizerischen Strafprozessordnung[^32-2] und ihrer Nebenerlasse.
 
-<sup>2</sup> Sie sind verpflichtet, einen Arzt beizuziehen, wenn der Zustand der zu behandelnden Person ärztliche Abklärung oder Behandlung erfordert.
-
-<sup>3</sup> Das Amt kann bei einem Verstoss gegen Absatz 1 oder 2 oder bei schwerwiegenden fachlichen Verfehlungen zum Schutze der öffentlichen Gesundheit gegenüber Personen, die eine nach diesem Gesetz bewilligungsfreie Tätigkeit ausüben, ein Berufsausübungsverbot aussprechen.
-
-### 6.2. Rechte und Pflichten
+[^32-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+[^32-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
 
 #### Art. 33
 
-**Berufspflichten**
+**Ankündigung und Werbung**
 
-<sup>1</sup> Inhaber einer Berufsausübungsbewilligung haben bei der Ausübung ihrer Tätigkeit:
+<sup>1</sup> Die Ankündigung der Leistungserbringung durch Gesundheitsfachpersonen und Betriebe und ihre Werbung müssen objektiv und dürfen weder irreführend noch aufdringlich sein. Es dürfen keine Heilversprechen abgegeben werden.
 
-- a) sich nach den anerkannten Regeln der Kunst sowie den Grundsätzen der Wissenschaft, der Ethik und der Wirtschaftlichkeit zu richten;
-- b) die Patientenrechte zu wahren;
-- c) sich auf das in den Ausbildungsrichtlinien und den zugehörigen Weiterbildungsrichtlinien umschriebene Tätigkeitsgebiet zu beschränken;
-- d) bei ausserordentlichen Vorkommnissen auf dem Gebiete des Gesundheitswesens dem Kantonsarzt unverzüglich Meldung zu erstatten;
-- e) der Polizei alle nicht natürlichen Todesfälle unverzüglich zu melden.
-
-<sup>2</sup> Sie dürfen gleichzeitig nur eine Praxis oder einen Betrieb leiten. Mit Zustimmung des Amtes ist die Leitung einer Zweitpraxis oder eines Zweitbetriebes zulässig, wenn sichergestellt ist, dass gleichzeitig nur eine Praxis beziehungsweise ein Betrieb geöffnet ist oder die personellen und fachlichen Voraussetzungen für den Betrieb der Zweitpraxis erfüllt sind.
-
-<sup>3</sup> Inhaber einer Berufsausübungsbewilligung, die ihren Beruf in einem wirtschaftlichen Abhängigkeitsverhältnis ausüben, haben sicher zu stellen, dass sie in ihrem Entscheid über Fachfragen nicht behindert werden.
-
-#### Art. 33a
-
-**Übertragung von Verrichtungen an fachlich unterstellte Personen**
-
-<sup>1</sup> Personen mit einer Berufsausübungsbewilligung dürfen nur solche Verrichtungen an ihnen fachlich unterstellte Personen übertragen, zu deren Ausführung sie selber berechtigt sind und die nicht ihre persönliche Ausübung erfordern.
-
-<sup>2</sup> Sie sind dafür verantwortlich, dass die ihnen fachlich unterstellten Personen die übertragenen Verrichtungen beherrschen.
+<sup>2</sup> Es dürfen nur die vom Bundesrecht anerkannten Berufsbezeichnungen und Titel verwendet werden.
 
 #### Art. 34
 
-**Berufshilfe, Notfalldienst**
+**Pflichten gegenüber der Aufsichtsbehörde**
 
-<sup>1</sup> Alle im Kanton tätigen Ärzte, Apotheker und Zahnärzte sind verpflichtet, in dringenden Fällen Berufshilfe zu leisten.
+<sup>1</sup> Bewilligungsinhaberinnen und Bewilligungsinhaber sowie Gesundheitsfachpersonen haben dem Amt oder den von ihm beauftragten Dritten bei der Durchführung der ordentlichen Kontrollen den Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren sowie die notwendigen Auskünfte zu erteilen.
 
-<sup>2</sup> Sie sind verpflichtet, sich an einem regionalen Notfalldienst zu beteiligen und für eine entsprechende Vertretung während längerer Abwesenheit besorgt zu sein.
-
-<sup>3</sup> Die öffentlichen Spitäler können in den regionalen ärztlichen Notfalldienst eingebunden werden.
+<sup>2</sup> Bei Verdacht auf nachträgliche Nichterfüllung der Bewilligungsvoraussetzungen wie auch bei Verletzung der Berufs- oder Betriebspflichten oder der Vorschriften der einschlägigen Gesetzgebung des Bundes oder des Kantons haben sie dem Amt oder den von ihm beauftragten Dritten jederzeit und unangemeldet den Zugang zu den Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren sowie die notwendigen Auskünfte zu erteilen.
 
 #### Art. 35
 
-**Berufsgeheimnis**
+**Anstellung von Mitarbeitenden**
 
-<sup>1</sup> Die zur Berufsausübung zugelassenen Personen und deren Hilfspersonen unterstehen dem Berufsgeheimnis. Sie dürfen kein Geheimnis offenbaren, das ihnen infolge ihres Berufes anvertraut worden ist oder das sie in dessen Ausübung wahrgenommen haben.
+<sup>1</sup> Bewilligungsinhaberinnen und Bewilligungsinhaber dürfen keine Gesundheitsfachpersonen, die eine der Bewilligungspflicht unterstellte Tätigkeit ausüben, anstellen:
 
-<sup>2</sup> Sie sind von Gesetzes wegen vom Berufsgeheimnis befreit:
+- a) welche die Bewilligungsvoraussetzungen von Artikel 15 nicht erfüllen;
+- b) denen die Berufsausübungsbewilligung in einem Kanton oder in einem anderen Land entzogen wurde;
+- c) denen gegenüber ein Berufsausübungsverbot ausgesprochen wurde.
 
-- a) soweit es um die Durchsetzung von Forderungen aus dem Behandlungsverhältnis geht oder
-- b) wenn sie den zuständigen Behörden Wahrnehmungen melden, die auf ein Verbrechen oder Vergehen gegen Leib und Leben, die öffentliche Gesundheit oder die sexuelle Integrität schliessen oder eine Kindes- oder Erwachsenenschutzmassnahme angezeigt erscheinen lassen.
-
-<sup>3</sup> Ärztinnen und Ärzte sind zudem von Gesetzes wegen vom Berufsgeheimnis befreit, wenn sie den Strafbehörden ein ärztliches Zeugnis oder einen Bericht zur Abklärung der Frage abgeben, ob ein Straftatbestand vorliegt.
-
-<sup>4</sup> Das Amt ist für die Befreiung vom Berufsgeheimnis zuständig, soweit nicht der Patient selbst die Befreiung vom Berufsgeheimnis erteilt hat.
+<sup>2</sup> Ausgenommen sind Anstellungen für die Dauer der Erlangung eines eidgenössischen oder gesamtschweizerisch anerkannten Diploms, eines eidgenössischen Weiterbildungstitels oder der eidgenössischen Anerkennung des ausländischen Diploms oder Weiterbildungstitels.
 
 #### Art. 36
 
-**Privatapotheken**
+**Meldepflichten**
 
-<sup>1</sup> Mit Bewilligung des Amtes können Ärzte eine Privatapotheke führen.
+<sup>1</sup> Ungeachtet des Berufsgeheimnisses sind Gesundheitsfachpersonen und Betriebe des Gesundheitswesens verpflichtet:
 
-<sup>2</sup> Die Bewilligung an Ärzte wird erteilt, wenn die Praxis in einer Ortschaft ausgeübt wird, wo keine öffentliche Apotheke besteht, welche die dauernde Versorgung der Bevölkerung sicherstellt, und wenn für eine fachgerechte Lagerung und Abgabe der Arzneimittel Gewähr besteht. Der freie Verkauf oder die Belieferung von Wiederverkäufern ist nicht erlaubt.
+- a) Wahrnehmungen, die auf die Verbreitung gefährlicher übertragbarer Krankheiten des Menschen schliessen lassen, unverzüglich der Kantonsärztin beziehungsweise dem Kantonsarzt zu melden;
+- b) der Polizei unverzüglich alle nicht natürlichen und unklaren Todesfälle zu melden.
 
-<sup>3</sup> Ärzte ohne Bewilligung zur Führung einer Privatapotheke sind berechtigt:
+<sup>2</sup> Angestellte Gesundheitsfachpersonen können die Meldung gemäss Absatz 1 auch an den Betrieb erstatten.
 
-- a) Arzneimittel während der Konsultation anzuwenden;
-- b) nach der Konsultation pro Diagnose die kleinste Originalpackung eines Arzneimittels abzugeben.
+### 5.2. Gesundheitsfachpersonen
 
 #### Art. 37
 
-**Werbung**
+**Berufspflichten**
 
-<sup>1</sup> Personen, die einen bewilligungspflichtigen Beruf ausüben, dürfen Werbung machen, sofern sie die zur Berufsausübung erforderliche Bewilligung besitzen. Die Werbung hat auf den Bewilligungsinhaber zu lauten.
+<sup>1</sup> Bewilligungsinhaberinnen und Bewilligungsinhaber sind verpflichtet:
 
-<sup>2</sup> Die Werbung hat sich auf das berufsspezifische Tätigkeitsgebiet zu beschränken, muss objektiv und darf nicht aufdringlich sein. Es dürfen dabei nur die in den einschlägigen Gesetzen enthaltenen Berufsbezeichungen und Titel verwendet werden.
+- a) ihren Beruf sorgfältig und gewissenhaft auszuüben und sich an die Grenzen der Kompetenzen, die sie im Rahmen der berufsspezifischen Aus-, Weiter- und Fortbildung erworben haben, zu halten;
+- b) ihre beruflichen Kenntnisse, Fähigkeiten und Fertigkeiten durch lebenslange Fortbildung zu vertiefen, zu erweitern und zu verbessern;
+- c) dafür zu sorgen, dass die ihnen fachlich unterstellten Personen ihren Beruf sorgfältig und gewissenhaft ausüben, sich an die Grenzen ihrer Kompetenzen halten und die ihnen übertragenen Tätigkeiten beherrschen und die beruflichen Kenntnisse, Fähigkeiten und Fertigkeiten durch ihrem Tätigkeitsgebiet entsprechende Fortbildung vertiefen, erweitern und verbessern;
+- d) eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfanges der Risiken abzuschliessen.
+
+<sup>2</sup> Gesundheitsfachpersonen, die ihren Beruf fachlich unterstellt ausüben, obliegen die Berufspflichten gemäss Absatz 1 Litera a und b.
+
+<sup>3</sup> Die Berufspflichten der in der Bundesgesetzgebung über die universitären Medizinalberufe, die Psychologieberufe und die Gesundheitsberufe geregelten Berufe richten sich nach den in diesen Erlassen enthaltenen Bestimmungen.
+
+<sup>4</sup> Die Regierung legt die Dauer und den Umfang der berufsspezifischen Fortbildung fest.
+
+<sup>5</sup> Sie kann die Kontrolle über die Absolvierung der vorgeschriebenen Fortbildung der jeweiligen Standesorganisation übertragen.
+
+<sup>6</sup> Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte sind verpflichtet, unterstützungsbedürftige Patientinnen und Patienten zu behandeln. Ausser bei einem Notfall haben sie vor Beginn der Behandlung bei der für die Unterstützung zuständigen Gemeinde eine Kostengutsprache einzuholen. Ohne Kostengutsprache ist die für die Unterstützung zuständige Gemeinde nicht zur Übernahme der Kosten verpflichtet.
 
 #### Art. 38
 
-**Aufzeichnungen**
+**Notfalldienst**
 
-<sup>1</sup> Der Bewilligungsinhaber sowie die ihm fachlich unterstellten Personen haben über ihre Berufstätigkeit Aufzeichnungen zu machen, die Angaben zur behandelten Person sowie die wesentlichen Daten betreffend den Zeitraum und die Art der Behandlung enthalten.
+<sup>1</sup> Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte, welche die Voraussetzungen zur Erlangung der Berufsausübungsbewilligung erfüllen und im Kanton tätig sind, sind zur Teilnahme am regionalen Notfalldienst der kantonalen Standesorganisation gemäss deren Regelung verpflichtet.
 
-<sup>2</sup> Die Aufzeichnungen sind während mindestens zehn Jahren aufzubewahren.
+<sup>2</sup> Ausgenommen sind Ärztinnen und Ärzte, die hauptberuflich in einem öffentlichen Spital angestellt sind und Notfalldienst in diesem Spital leisten.
+
+<sup>3</sup> Wer Notfalldienst leistet, hat den Aufenthaltsort während dieser Zeit so zu wählen, dass ein Notfalldiensteinsatz kurzfristig erbracht werden kann.
 
 #### Art. 39
 
-**Behandlung unterstützungsbedürftiger Patienten**
+**Berufsgeheimnis**
 
-<sup>1</sup> Ärzte und Zahnärzte sind verpflichtet, unterstützungsbedürftige Patienten zu behandeln. Ausser bei einem Notfall haben sie vor Beginn der Behandlung bei der für die Unterstützung zuständigen Gemeinde eine Kostengutsprache einzuholen. Ohne Kostengutsprache ist die für die Unterstützung zuständige Gemeinde nicht zur Übernahme der Kosten verpflichtet.
+<sup>1</sup> Gesundheitsfachpersonen und ihre Hilfspersonen unterstehen dem Berufsgeheimnis. Sie dürfen kein Geheimnis offenbaren, das ihnen infolge ihres Berufes anvertraut worden ist oder das sie in dessen Ausübung wahrgenommen haben.
+
+<sup>2</sup> Sie sind von Gesetzes wegen vom Berufsgeheimnis befreit:
+
+- a) soweit es um die Durchsetzung von Forderungen aus dem Behandlungsverhältnis geht;
+- b) wenn sie den zuständigen Behörden Wahrnehmungen melden, die auf ein Verbrechen oder Vergehen gegen Strafnormen betreffend Leib und Leben, öffentliche Gesundheit, sexuelle Integrität oder gesundheitspolizeilich relevante Urkundenfälschung schliessen oder eine Kindes- oder Erwachsenenschutzmassnahme angezeigt erscheinen lassen;
+- c) wenn sie der Aufsichtsbehörde Wahrnehmungen melden, die auf das Fehlen von Bewilligungsvoraussetzungen anderer Gesundheitsfachpersonen oder von Betrieben, auf Verstösse gegen die Berufs- beziehungsweise Betriebspflichten oder auf Nichteinhaltung der Patientenrechte durch andere Gesundheitsfachpersonen oder Betriebe schliessen lassen;
+- d) wenn sie von den Strafverfolgungsbehörden als Auskunftsperson, als Zeuge oder als beschuldigte Person befragt werden;
+- e) wenn sie der Organisationseinheit, die bei der Kantonspolizei für das Bedrohungsmanagement zuständig ist, potenziell gewaltbereite Personen gemäss Artikel 29e des Polizeigesetzes des Kantons Graubünden (PolG)[^39-1] melden und mit ihr Daten über gewaltbereite Personen gemäss Artikel 29g PolG austauschen.
+
+<sup>3</sup> Ärztinnen und Ärzte sind zudem von Gesetzes wegen vom Berufsgeheimnis befreit, wenn sie den Strafbehörden ein ärztliches Zeugnis, einen Bericht, ein Gutachten zur beschuldigten Person oder die Krankengeschichte der beschuldigten Person zur Abklärung der Frage abgeben, ob ein Straftatbestand vorliegt.
+
+<sup>4</sup> Das Amt ist für die Befreiung vom Berufsgeheimnis zuständig, soweit nicht die Patientin oder der Patient selbst die Befreiung vom Berufsgeheimnis erteilt hat.
+
+[^39-1]: BR [613.000](https://www.gr-lex.gr.ch/data/613.000/de)
+
+### 5.3. Betriebe des Gesundheitswesens
 
 #### Art. 40
 
-**…**
+**Obhuts- und Schutzpflicht**
+
+<sup>1</sup> Betriebe des Gesundheitswesens sind verpflichtet, die zumutbaren und verhältnismässigen Massnahmen zur Umsetzung der ihnen obliegenden Obhuts- und Schutzpflichten gegenüber Patientinnen und Patienten zu treffen.
 
 #### Art. 41
 
-**…**
+**Aufnahme- und Behandlungspflicht**
+
+<sup>1</sup> Öffentliche Spitäler sind verpflichtet, Kranke und Verunfallte rund um die Uhr auch ohne ärztliche Einweisung aufzunehmen und zu behandeln.
+
+<sup>2</sup> Bei Patientinnen und Patienten, die die Behandlung nicht im Rahmen ihrer Möglichkeiten unterstützen oder die sich nicht an die Hausordnung des Spitals halten, kann das Spital die Behandlung abbrechen.
+
+<sup>3</sup> Ein Behandlungsabbruch darf nicht zur Unzeit oder bei einer angeordneten fürsorgerischen Unterbringung erfolgen.
 
 #### Art. 42
 
-**…**
+**Rufnummer der zentralen Koordinationsstelle**
+
+<sup>1</sup> Die Spitäler und Kliniken haben die Rufnummer der zentralen Koordinationsstelle für den Kranken- und Verunfalltentransport mindestens in gleicher Grösse wie ihre eigene Notfallnummer zu veröffentlichen.
+
+## 6. Notfalldienst
 
 #### Art. 43
 
-**…**
+**Organisation**
+
+<sup>1</sup> Die kantonalen Standesorganisationen der Ärztinnen und Ärzte beziehungsweise der Zahnärztinnen und Zahnärzte haben für eine der geografischen Gliederung des Kantons Rechnung tragende Organisation des Notfalldienstes zu sorgen und die sich aus dem Notfalldienst ergebenden Rechte und Pflichten der Ärztinnen und Ärzte beziehungsweise der Zahnärztinnen und Zahnärzte zu regeln.
+
+<sup>2</sup> Die Organisation des regionalen Notfalldienstes und die Rechte und Pflichten der Ärztinnen und Ärzte beziehungsweise der Zahnärztinnen und Zahnärzte im Rahmen des Notfalldienstes sind von den kantonalen Standesorganisationen im Einvernehmen mit dem Departement zu regeln.
+
+<sup>3</sup> Die Regierung kann mit den kantonalen Standesorganisationen Leistungsvereinbarungen über den Notfalldienst abschliessen.
+
+<sup>4</sup> Die öffentlichen Spitäler können in den regionalen ärztlichen Notfalldienst eingebunden werden.
 
 #### Art. 44
 
-**Notfalldienst**
+**Ersatzabgabe**
 
-<sup>1</sup> In Ortschaften ohne selbstdispensierende Ärzte sind die öffentlichen Apotheken verpflichtet, zur Sicherstellung der pharmazeutischen Versorgung der Bevölkerung einen kontinuierlichen Notfalldienst rund um die Uhr aufrechtzuerhalten.
+<sup>1</sup> Die kantonalen Standesorganisationen können eine Medizinalperson aus triftigen Gründen ganz oder teilweise von der Teilnahme am regionalen ärztlichen beziehungsweise zahnärztlichen Notfalldienst befreien. Die Medizinalperson hat sich diesfalls zu einer jährlichen Ersatzabgabe von 1,5 bis 3,0 Prozent des AHV-pflichtigen Einkommens, maximal jedoch 10 000 Franken, zu verpflichten.
 
-<sup>2</sup> Nahe beieinander liegende Apotheken können den Notfalldienst mit Genehmigung des Amtes gemeinsam gewährleisten.
+<sup>2</sup> Die Ersatzabgaben gehen in den Notfalldienstfonds der jeweiligen Standesorganisation und sind zur Finanzierung der Organisation und Durchführung des Notfalldienstes und der Entschädigung der Notfalldienst leistenden Medizinalpersonen zu verwenden.
+
+<sup>3</sup> Gegen Entscheide der Standesorganisationen über die Befreiung von der Teilnahme am regionalen ärztlichen beziehungsweise zahnärztlichen Notfalldienst kann gemäss dem Gesetz über die Verwaltungsrechtspflege beim Amt Beschwerde erhoben werden.
 
 #### Art. 45
 
-**…**
+**Notfallnummer**
+
+<sup>1</sup> Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte dürfen für ihre Notfallnummern keine Mehrwertdienstnummern verwenden.
+
+## 7. Rechte und Pflichten der Patientinnen und Patienten
+
+### 7.1. Rechte
 
 #### Art. 46
 
-**…**
+**Selbstbestimmung**
+
+<sup>1</sup> Patientinnen und Patienten haben Anspruch auf Achtung ihrer persönlichen Freiheit und ihrer Würde. Sie haben das Recht auf Information und Selbstbestimmung bezüglich medizinischer, therapeutischer und pflegerischer Massnahmen.
 
 #### Art. 47
 
-**…**
+**Aufklärung**
+
+<sup>1</sup> Patientinnen und Patienten haben Anspruch auf Aufklärung gemäss Artikel 28.
 
 #### Art. 48
 
-**…**
+**Einsicht und Herausgabe**
 
-## 7. Rechtspflege und Gebühren
+<sup>1</sup> Patientinnen und Patienten haben das Recht, die sie betreffende Dokumentation kostenlos einzusehen, eine schriftliche oder elektronische Kopie zu verlangen oder im Original gegen eine schriftliche Verzichtserklärung der Aufbewahrungspflicht gemäss Artikel 29 Absatz 3 ausgehändigt zu erhalten.
+
+<sup>2</sup> Das Einsichts- und Herausgaberecht kann aus überwiegenden schutzwürdigen Interessen Dritter von der Bewilligungsinhaberin oder dem Bewilligungsinhaber eingeschränkt werden.
 
 #### Art. 49
 
-**Strafbestimmungen**
+**Seelsorge**
 
-<sup>1</sup> Vorsätzliche oder fahrlässige Widerhandlungen gegen dieses Gesetz oder die sich darauf stützenden Verordnungen und Verfügungen werden, soweit nicht besondere Strafbestimmungen anwendbar sind, mit Busse bis 20 000 Franken geahndet.
+<sup>1</sup> Die Patientinnen und Patienten sowie die Bewohnerinnen und Bewohner von Pflegeheimen haben Anspruch auf eine angemessene Seelsorge durch die vom Kanton anerkannten Landeskirchen.
 
-<sup>2</sup> Personen, die gewerbsmässig oder wiederholt handeln, werden mit Busse bis 100 000 Franken bestraft.
-
-<sup>3</sup> Verstösse gegen Artikel 15a werden von der Gemeinde mit Busse bis zu 1000 Franken, im Wiederholungsfall bis zu 5000 Franken geahndet. Sie können im Ordnungsbussenverfahren nach kantonalem Recht geahndet werden.
-
-<sup>4</sup> In leichten Fällen kann eine Verwarnung ausgesprochen werden.
+<sup>2</sup> Die Spitäler, Kliniken und Pflegeheime sind auf Ersuchen der Seelsorgenden ermächtigt, diesen Name und Adresse der Angehörigen ihrer Glaubensgemeinschaft bekanntzugeben, wenn die Patientin oder der Patient beziehungsweise die Bewohnerin oder der Bewohner nach vorheriger Information dieser Datenbekanntgabe nicht widersprochen hat.
 
 #### Art. 50
 
-**Beschlagnahme, Vernichtung, Betriebsschliessung**
+**Palliative Behandlung**
 
-<sup>1</sup> Bei Gefahr für die öffentliche Gesundheit können gesundheitsgefährdende Erzeugnisse, Gegenstände, Bestandteile, Pflanzen, Geräte oder Stoffe beschlagnahmt werden. Die Rückgabe wird verfügt, sobald keine Gefahr mehr besteht. Ist mit einer dauernden Gefahr zu rechnen, so wird die Verwertung oder Vernichtung der beschlagnahmten Erzeugnisse, Gegenstände, Bestandteile, Pflanzen, Geräte oder Stoffe verfügt.
+<sup>1</sup> Unheilbar kranke und sterbende Menschen haben Anspruch auf eine ganzheitliche Betreuung nach den Grundsätzen der palliativen Medizin, Pflege und Begleitung.
 
-<sup>2</sup> Bei Verstössen gegen Artikel 15b Absatz 1 wird die Vernichtung der angebauten Pflanzen verfügt.
-
-<sup>3</sup> Wenn durch den Betrieb von Praxen und Betrieben die öffentliche Gesundheit gefährdet wird, kann deren Schliessung verfügt werden. Die Wiedereröffnung von Praxen beziehungsweise Betrieben wird verfügt, wenn die Gefährdung beseitigt ist. Ist mit einer dauernden Gefahr zu rechnen, wird die Liquidation der Praxis beziehungsweise des Betriebes verfügt.
-
-<sup>4</sup> Die Kosten der Verwertung, Vernichtung oder Liquidation trägt der Eigentümer. Die Kosten können vom Verwertungs- oder Liquidationserlös in Abzug gebracht werden.
-
-#### Art. 50a
-
-**Beschränkung der Selbstdispensation 1. Pflicht zur Einsichtgewährung**
-
-<sup>1</sup> Die Ärzte haben den gesundheitspolizeilichen Organen bei begründetem Verdacht einer Widerhandlung gegen die Einhaltung der Beschränkung der Abgabebefugnis von Arzneimitteln Einsicht in die Rechnungen der Arzneimittellieferanten, die Arzneimittelrechnungen an die Versicherer und die Krankengeschichte zu gewähren.
-
-#### Art. 50b
-
-**2. Entzug der Abgabeberechtigung**
-
-<sup>1</sup> Bei vorsätzlicher oder fahrlässiger Widerhandlung gegen die Abgabeeinschränkung von Artikel 36 Absatz 3 Litera b oder bei Verweigerung der Gewährung der Einsichtnahme in die Unterlagen gemäss Artikel 50a kann den betreffenden Ärzten die Abgabeberechtigung von Arzneimitteln für die Dauer von einem bis fünf Jahren entzogen werden.
+### 7.2. Pflichten
 
 #### Art. 51
 
-**Rechtsmittel**
+**Mitwirkung**
 
-<sup>1</sup> In Verwaltungssachen richtet sich der Weiterzug nach den Bestimmungen des Verwaltungsrechtspflegegesetzes.
+<sup>1</sup> Die Patientinnen und Patienten haben die Gesundheitsfachpersonen im Rahmen ihrer Möglichkeit bei ihrer Behandlung und Pflege zu unterstützen.
 
-<sup>2</sup> Bei Beschlagnahmungen und Betriebsschliessungen gemäss Artikel 50 beträgt die Rechtsmittelfrist zehn Tage.
+<sup>2</sup> Sie haben den zuständigen Gesundheitsfachpersonen die zur Diagnose und Behandlung notwendigen Auskünfte über ihren Gesundheitszustand zu erteilen und sich an deren Anordnungen zu halten.
 
-<sup>3</sup> In Strafsachen richtet sich das Verfahren nach den Bestimmungen über das Strafverfahren vor Verwaltungsbehörden.
+<sup>3</sup> Sie haben auf andere Patientinnen und Patienten sowie auf die Gesundheitsfachpersonen Rücksicht zu nehmen und die Hausordnung des Betriebs zu beachten.
+
+## 8. Verhütung und Bekämpfung übertragbarer Krankheiten des Menschen
 
 #### Art. 52
 
-**…**
+**Öffentliche Schutzimpfungen**
 
-## 8. Schlussbestimmungen
+<sup>1</sup> Die Gemeinden haben öffentliche Schutzimpfungen gegen die vom Kanton bezeichneten übertragbaren Krankheiten des Menschen durchzuführen.
+
+<sup>2</sup> Der Kanton liefert und bezahlt den Impfstoff, soweit die Finanzierung nicht durch den Bund oder die obligatorische Krankenpflegeversicherung erfolgt.
+
+<sup>3</sup> Er kann Beiträge an die Kosten von öffentlichen, auf freiwilliger Grundlage organisierten Schutzimpfungen gegen übertragbare Krankheiten des Menschen gewähren.
 
 #### Art. 53
 
-**Inkrafttreten**
+**Impfobligatorium**
 
-<sup>1</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^53-1].
+<sup>1</sup> Die Regierung kann Impfungen nach Artikel 22 des Bundesgesetzes über die Bekämpfung übertragbarer Krankheiten des Menschen[^53-1] für obligatorisch erklären.
 
-<sup>2</sup> …
-
-[^53-1]: Die Regierung hat das Gesetz – mit Ausnahme des Abschnittes 6. «Andere Berufe des Gesundheitswesens» – auf den 1. Januar 1985 in Kraft gesetzt; dieser Abschnitt wurde auf den 1. Juli 1986 in Kraft gesetzt.
+[^53-1]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de)
 
 #### Art. 54
 
-**Übergangsbestimmungen**
+**Mitwirkungspflicht**
 
-<sup>1</sup> Die vor dem Inkrafttreten dieses Gesetzes gestützt auf das Gesetz über die Organisation des Gesundheitswesens vom 6. September 1953[^54-1] erteilten Bewilligungen bleiben gültig.
+<sup>1</sup> Der Kanton kann Betriebe des Gesundheitswesens sowie Gesundheitsfachpersonen zur Mitwirkung bei der Verhütung und Bekämpfung übertragbarer Krankheiten des Menschen verpflichten.
 
-<sup>2</sup> …
+<sup>2</sup> Er kann die aus der Mitwirkungspflicht den Betrieben des Gesundheitswesens und den Gesundheitsfachpersonen entstandenen Kosten und Einnahmeausfälle übernehmen.
 
-<sup>3</sup> …
-
-<sup>4</sup> …
-
-[^54-1]: aRB 787
+## 9. Bestattungswesen
 
 #### Art. 55
 
-**…**
+**Wartefrist**
 
--
+<sup>1</sup> Erdbestattungen und Kremationen dürfen frühestens nach der Feststellung des Todes durch eine zur Berufsausübung in der Schweiz zugelassene Ärztin oder einen zur Berufsausübung in der Schweiz zugelassenen Arzt erfolgen. Die Kühlung der Leiche ist bis zur Beisetzung zu gewährleisten.
+
+<sup>2</sup> Die ärztliche Todesbescheinigung gilt als Bestattungsbewilligung. Vorbehalten bleiben Fälle dringlicher Bestattung aus gesundheitspolizeilichen Gründen.
+
+#### Art. 56
+
+**Grabesruhe, Exhumation**
+
+<sup>1</sup> Die Grabesruhe beträgt für Erdbestattete mindestens 20 Jahre. Wenn bei ungeeigneter Bodenbeschaffenheit der Verfall der Leichen länger dauert, beträgt die Frist mindestens 25 Jahre.
+
+<sup>2</sup> Auf begründetes Gesuch der Angehörigen kann die Gemeinde eine vorzeitige Exhumierung bewilligen.
+
+## 10. Rechtspflege
+
+#### Art. 57
+
+**Disziplinarverfahren**
+
+<sup>1</sup> Das Amt ordnet gegenüber Gesundheitsfachpersonen Disziplinarmassnahmen an bei:
+
+- a) Verstoss gegen die mit der Bewilligung verbundenen Einschränkungen oder Auflagen (Art. 10 Abs. 2);
+- b) Verletzung der Patientenrechte und -interessen (Art. 27);
+- c) fehlender Aufklärung der Patientinnen und Patienten (Art. 28);
+- d) fehlender oder unvollständig geführter Patientendokumentation (Art. 29);
+- e) Weitergabe von Personendaten an Dritte ohne Einwilligung der Patientin oder des Patienten (Art. 30);
+- f) Verletzung der Ankündigungs- und Werbevorschriften (Art. 33);
+- g) Verletzung der Berufspflichten (Art. 37 Abs. 1 und 2);
+- h) Nichtteilnahme am regionalen Notfalldienst (Art. 38);
+- i) Offenbarung eines Geheimnisses, das ihnen infolge des Berufes anvertraut wurde oder das sie in dessen Ausübung wahrgenommen haben (Art. 39 Abs. 1).
+
+<sup>2</sup> Die in der Bundesgesetzgebung über die universitären Medizinalberufe, die Psychologieberufe und die Gesundheitsberufe geregelten Berufe unterliegen den darin enthaltenen Disziplinarverfahren.
+
+#### Art. 58
+
+**Disziplinarmassnahmen**
+
+<sup>1</sup> Das Amt kann folgende Disziplinarmassnahmen anordnen:
+
+- a) Verwarnung;
+- b) Verweis;
+- c) Busse bis zu 20 000 Franken;
+- d) Verbot der Berufsausübung für längstens sechs Jahre (befristetes Verbot);
+- e) definitives Verbot der Berufsausübung für das ganze Tätigkeitsspektrum oder für einen Teil davon.
+
+<sup>2</sup> Es kann zusätzlich zu einem Verbot der Berufsausübung eine Busse aussprechen.
+
+#### Art. 59
+
+**Vorsorgliche Massnahmen**
+
+<sup>1</sup> Besteht ein begründeter Verdacht auf eine Gefährdung der Gesundheit von Patientinnen und Patienten, kann das Amt während eines Disziplinarverfahrens:
+
+- a) die Bewilligung zur Berufsausübung einschränken, mit Auflagen versehen oder entziehen;
+- b) gegenüber Personen, die eine bewilligungspflichtige Tätigkeit unter fachlicher Verantwortung ausüben, ein Verbot zur Ausübung von Tätigkeiten im Gesundheitswesen aussprechen.
+
+#### Art. 60
+
+**Verjährung**
+
+<sup>1</sup> Die disziplinarische Verfolgung verjährt zwei Jahre, nachdem das Amt vom beanstandeten Vorfall Kenntnis erhalten hat.
+
+<sup>2</sup> Die Frist wird durch jede Untersuchungs- oder Prozesshandlung über den beanstandeten Vorfall unterbrochen.
+
+<sup>3</sup> Die disziplinarische Verfolgung verjährt in jedem Fall zehn Jahre nach dem zu beanstandenden Vorfall.
+
+<sup>4</sup> Stellt die Verletzung der Berufspflichten eine strafbare Handlung dar, so gilt die vom Strafrecht vorgesehene längere Verjährungsfrist.
+
+<sup>5</sup> Wird gegen eine Gesundheitsfachperson ein Disziplinarverfahren durchgeführt, so kann das Amt zur Beurteilung der von dieser Person ausgehenden Gefährdung der öffentlichen Gesundheit auch Sachverhalte berücksichtigen, deren Verfolgung verjährt ist.
+
+#### Art. 61
+
+**Berufsausübungsverbot**
+
+<sup>1</sup> Gegenüber Gesundheitsfachpersonen, die eine bewilligungspflichtige Tätigkeit unter fachlicher Verantwortung ausüben, sowie gegenüber Personen, die eine ohne Bewilligung nicht zulässige Tätigkeit ausüben, wird vom Amt ein Verbot zur Ausübung von Tätigkeiten im Gesundheitswesen ausgesprochen, wenn:
+
+- a) sie schwerwiegende fachliche Verfehlungen begehen;
+- b) sie mit ihrer Tätigkeit die Gesundheit ihrer Patientinnen und Patienten gefährden;
+- c) ihnen die Berufsausübungsbewilligung in einem Kanton oder in einem anderen Land entzogen wurde; oder
+- d) gegen sie ein Berufsverbot in einem Kanton oder in einem anderen Land ausgesprochen wurde.
+
+#### Art. 62
+
+**Schliessung einer Praxis oder eines Betriebs**
+
+<sup>1</sup> Wenn eine Praxis oder ein Betrieb die öffentliche Gesundheit gefährdet, kann das Amt deren oder dessen Schliessung verfügen.
+
+<sup>2</sup> Die Kosten der Schliessung gehen zu Lasten der Bewilligungsinhaberin beziehungsweise des Bewilligungsinhabers, subsidiär zu Lasten der Eigentümerin beziehungsweise des Eigentümers der Praxis oder des Betriebs.
+
+#### Art. 63
+
+**Veröffentlichung**
+
+<sup>1</sup> Die Erteilung, die Einschränkung, der Entzug und das Erlöschen einer Bewilligung, die Schliessung von Praxen und Betrieben, Berufsausübungsverbote sowie Verbote zur Ausübung jeglicher Tätigkeit im Gesundheitswesen können veröffentlicht werden.
+
+#### Art. 64
+
+**Strafbestimmungen 1. Kanton**
+
+<sup>1</sup> Das Amt ahndet Übertretungen der Bundesgesetzgebung über die universitären Medizinalberufe, die Psychologieberufe, die Gesundheitsberufe und die übertragbaren Krankheiten des Menschen.
+
+<sup>2</sup> Es bestraft Personen mit Busse bis 20 000 Franken bei Widerhandlungen gegen:
+
+- a) die Ausübung und die Ankündigung einer bewilligungspflichtigen Tätigkeit ohne Bewilligung zur Berufsausübung (Art. 13);
+- b) das Verbot der Ausübung einer ohne Bewilligung nicht zulässigen Tätigkeit (Art. 14 Abs. 1).
+
+<sup>3</sup> Es bestraft Gesundheitsfachpersonen mit Busse bis 20 000 Franken bei Widerhandlungen gegen:
+
+- a) die Pflicht zur Überweisung der behandelten Person an eine Ärztin oder einen Arzt (Art. 14 Abs. 2);
+- b) die Nichteinholung der Zustimmung zur Obduktion (Art. 32);
+- c) die Mitwirkungspflicht bei der Wahrnehmung der Aufsicht durch das Amt (Art. 34);
+- d) die Vorschriften betreffend die Anstellung von Mitarbeitenden (Art. 35);
+- e) die ihnen obliegenden Meldepflichten (Art. 36);
+- f) die Pflicht zur Behandlung von Unterstützungsbedürftigen (Art. 37 Abs. 6);
+- g) das Verbot der Verwendung von Mehrwertdienstnummern für ihre Notfallnummern (Art. 45);
+- h) die Mitwirkungspflicht bei der Verhütung und der Bekämpfung übertragbarer Krankheiten des Menschen (Art. 54).
+
+<sup>4</sup> Es bestraft Betriebe des Gesundheitswesens mit Busse bis 50 000 Franken bei Widerhandlungen gegen:
+
+- a) die Pflicht zur Einholung einer Betriebsbewilligung (Art. 17);
+- b) die Pflicht zur Einhaltung des verfügten Aufnahmestopps (Art. 26);
+- c) die Pflicht zur Wahrung der Patientenrechte und -interessen (Art. 27);
+- d) die Aufklärungspflicht der Patientinnen und Patienten (Art. 28);
+- e) die Pflicht zur Führung einer Patientendokumentation (Art. 29);
+- f) die Pflicht zur Einholung des Einverständnisses der Patientin oder des Patienten vor der Weitergabe von Personendaten an Dritte (Art. 30);
+- g) die Pflicht zur Einholung der Zustimmung zur Obduktion (Art. 32);
+- h) die Ankündigungs- und Werbevorschriften (Art. 33);
+- i) die Mitwirkungspflicht bei der Wahrnehmung der Aufsicht durch das Amt (Art. 34);
+- j) die Pflicht zur Einhaltung der Vorschriften betreffend die Anstellung von Mitarbeitenden (Art. 35);
+- k) die ihnen obliegenden Meldepflichten (Art. 36);
+- l) die Obhuts- und Schutzpflicht (Art. 40);
+- m) die Pflicht zur Aufnahme von kranken und verunfallten Personen rund um die Uhr (Art. 41);
+- n) die Pflicht zur Angabe der Rufnummer der zentralen Koordinationsstelle (Art. 42);
+- o) die Mitwirkungspflicht bei der Verhütung und Bekämpfung übertragbarer Krankheiten des Menschen (Art. 54).
+
+<sup>5</sup> Wird in einem Betrieb in Ausübung einer Tätigkeit im Rahmen des Betriebszwecks eine Widerhandlung gegen die Bestimmung dieses Gesetzes begangen und kann diese Tat keiner bestimmten natürlichen Person zugerechnet werden, wird die Widerhandlung der den Betrieb leitenden Person zugerechnet.
+
+#### Art. 65
+
+**2. Gemeinden**
+
+<sup>1</sup> Die Gemeinden ahnden Widerhandlungen gegen folgende Bestimmungen:
+
+- a) Tabak (Art. 8 Abs. 1 und 2);
+- b) Betrieb eines Raucherlokals (Art. 9 Abs. 3);
+- c) Bestattungswesen (Art. 55 und 56).
+
+<sup>2</sup> Verstösse gegen Artikel 8 und 9 sowie die Bestimmungen über das Bestattungswesen (Art. 55 und 56) werden mit Busse bis 20 000 Franken geahndet.
+
+<sup>3</sup> Die Gemeinden sind zuständig für die Erhebung von Ordnungsbussen gemäss bundesrechtlicher Ordnungsbussengesetzgebung[^65-1].
+
+<sup>4</sup> Das Verfahren richtet sich nach dem Ordnungsbussengesetz des Bundes[^65-2].
+
+[^65-1]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de); [741.031](https://db.clex.ch/link/Bund/741.031/de)
+[^65-2]: SR [741.03](https://db.clex.ch/link/Bund/741.03/de)
+
+#### Art. 66
+
+**Streitigkeiten aus dem Behandlungsverhältnis**
+
+<sup>1</sup> Vermögensrechtliche Streitigkeiten aus dem Behandlungsverhältnis zwischen Patientinnen beziehungsweise Patienten und Betrieben des Gesundheitswesens beurteilt der Zivilrichter.
+
+#### Art. 67
+
+**Entnahme von Gewebe und Zellen**
+
+<sup>1</sup> Die Zulässigkeit der Entnahme regenerierbarer Gewebe und Zellen bei urteilsunfähigen oder minderjährigen Personen beurteilt als unabhängige Instanz die Regionalgerichtspräsidentin oder der Regionalgerichtspräsident an deren Wohnsitz.
+
+<sup>2</sup> Für das Verfahren gemäss Absatz 1 gelten die Bestimmungen der Schweizerischen Zivilprozessordnung[^67-1] über das summarische Verfahren.
+
+[^67-1]: SR [272](https://db.clex.ch/link/Bund/272/de)
+
+## 11. Schlussbestimmungen
+
+#### Art. 68
+
+**Bestehende Bewilligungen**
+
+<sup>1</sup> Die vor Inkrafttreten dieses Gesetzes erteilten Berufsausübungsbewilligungen für Naturheilpraktiker in den Fachbereichen Traditionelle Europäische Naturheilkunde, Traditionelle Chinesische Medizin oder Homöopathie sind weiterhin im Rahmen der erteilten Bewilligung gültig.
+
+<sup>2</sup> Die vor Inkrafttreten dieses Gesetzes erteilten Bewilligungen für öffentliche Spitäler und Kliniken bleiben zehn Jahre ab ihrem Ausstellungsdatum gültig.
+
+#### Art. 69
+
+**Hängige Verfahren**
+
+<sup>1</sup> Auf Disziplinar- und Strafverfahren, die bei Inkrafttreten dieses Gesetzes hängig sind, findet das bisherige Recht Anwendung.
+
+2017-023

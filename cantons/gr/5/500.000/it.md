@@ -1,671 +1,862 @@
 ---
 canton: GR
 number: "500.000"
-title: "Legge sull'igiene pubblica del Cantone dei Grigioni"
-short: "Legge sull'igiene pubblica"
+title: Legge sulla tutela della salute nel Cantone dei Grigioni
+short: Legge sanitaria
 language: it
-version: 2016-01-01
-corrected: 2015-05-09
-version_adopted: 2014-11-18
+version: 2026-01-01
+version_adopted: 2025-08-27
 adopted: 2016-09-02
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/500.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2509/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3613/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sull'igiene pubblica del Cantone dei Grigioni
+# Legge sulla tutela della salute nel Cantone dei Grigioni
 
-(Legge sull'igiene pubblica)
+(Legge sanitaria)
 
-del 02.12.1984 (stato 01.01.2016)
+del 02.09.2016 (stato 01.01.2026)
 
-accettata dal Popolo il 2 dicembre 1984[^ingress-1]
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-[^ingress-1]: M 12 set. 1983, 143; PGC 1983/84, 368, 1a lettura e PGC 1984/85, 6, 2a lettura
+visti gli art. 87 e 31 cpv. 1 della Costituzione cantonale[^ingress-2],
 
-## 1. Generalità
+visto il messaggio del Governo del 17 maggio 2016[^ingress-3],
+
+decide:
+
+[^ingress-1]: PGC 2016/2017, 47
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: pagina 109
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Sfera di validità e scopo**
+**Scopo e oggetto**
 
-<sup>1</sup> La presente legge regola l'igiene pubblica e ha per scopo la tutela, il mantenimento e la promozione della salute della popolazione.
+<sup>1</sup> La presente legge ha lo scopo di tutelare e di promuovere la salute della popolazione tramite misure di polizia sanitaria e misure di promozione della salute e di prevenzione.
 
-#### Art. 1a
+<sup>2</sup> A tale scopo disciplina segnatamente:
 
-**Parificazione dei sessi**
-
-<sup>1</sup> Le designazioni di persone, funzioni e professioni contenute nella presente legge si riferiscono ad entrambi i sessi, per quanto non risulti altrimenti dal senso della legge.
+- a) le competenze e i compiti del Cantone e dei comuni;
+- b) le misure di promozione della salute e di prevenzione;
+- c) le attività e le aziende soggette ad autorizzazione nel settore sanitario;
+- d) le attività nel settore sanitario non ammesse senza autorizzazione;
+- e) i diritti e gli obblighi dei professionisti della salute e delle aziende del settore sanitario;
+- f) il servizio di picchetto dei medici e dei dentisti;
+- g) i diritti e i doveri dei pazienti;
+- h) la lotta contro le malattie trasmissibili dell'essere umano;
+- i) le sepolture;
+- j) le misure di polizia sanitaria e l'amministrazione della giustizia.
 
 #### Art. 2
 
-**Autoresponsabilità**
+**Responsabilità individuale**
 
-<sup>1</sup> L'igiene pubblica non dispensa il singolo cittadino dalla responsabilità per la propria salute.
+<sup>1</sup> Ogni abitante è responsabile per l'assunzione di uno stile di vita che favorisce la salute. Il settore sanitario pubblico non esonera da questa responsabilità.
 
 #### Art. 3
 
 **Principi di trattamento**
 
-<sup>1</sup> La visita e il trattamento dei pazienti devono conformarsi ai principi riconosciuti della scienza, dell'etica e dell'economicità.
-
-## 2. Organizzazione e competenza
+<sup>1</sup> La visita e il trattamento dei pazienti devono conformarsi ai principi riconosciuti della scienza, dell'etica, dell'economicità e della parità di trattamento.
 
 #### Art. 4
 
-**…**
+**Definizioni**
+
+<sup>1</sup> I termini utilizzati nella presente legge significano:
+
+- a) salute: stato di benessere fisico e psichico;
+- b) professionista della salute: persona che fornisce prestazioni mediche, di cura, terapeutiche o di prevenzione a diretto contatto con i pazienti e che dispone della formazione necessaria;
+- c) titolare dell'autorizzazione: persona in possesso di un'autorizzazione per l'esercizio della professione rispettivamente proprietario o ente responsabile con autorizzazione d'esercizio;
+- d) paziente: persona malata, ferita, bisognosa di cure o sana che fa ricorso a prestazioni di un professionista della salute o di un'azienda del settore sanitario;
+- e) ausiliario: persona che nel quadro della propria attività presso un professionista della salute o un'azienda del settore sanitario può venire a conoscenza di dati personali;
+- f) familiari: coniugi, partner, parenti e affini in linea diretta, fidanzati, fratelli o sorelle e i rispettivi coniugi o partner, fratelli o sorelle del coniuge o del partner, genitori adottivi, fratelli adottivi, figli adottivi, genitori affilianti e figli affiliati, nonché persone che vivono nella stessa economia domestica.
+
+## 2. Competenze
 
 #### Art. 5
 
-**Cantone 1. Governo**
+**Cantone**
 
-<sup>1</sup> Il Governo esercita la vigilanza sull'igiene pubblica.
+<sup>1</sup> Il Cantone è competente per:
 
-<sup>2</sup> …
+- a) la promozione della salute e la prevenzione, nella misura in cui la presente legge lo definisca competente a questo riguardo;
+- b) la consulenza alle madri e ai padri;
+- c) la vigilanza sulle aziende e sui professionisti della salute soggetti all'obbligo di autorizzazione;
+- d) il rilascio e la revoca di autorizzazioni di polizia sanitaria;
+- e) lo svolgimento di procedimenti disciplinari e penali;
+- f) la disposizione di misure di polizia sanitaria;
+- g) la comunicazione di dati necessari alla tutela della salute pubblica a servizi ai quali è affidata la gestione di registri nazionali di persone che esercitano un'attività soggetta all'obbligo di autorizzazione o di registri nazionali di aziende;
+- h) l'esecuzione della legge federale per la lotta contro le malattie trasmissibili dell'essere umano (legge sulle epidemie).
 
-<sup>3</sup> Il Governo nei limiti delle proprie competenze può concludere con altri Cantoni delle convenzioni di diritto amministrativo.
+<sup>2</sup> Per adempiere ai suoi compiti il Cantone è autorizzato a prendere visione del registro centrale delle persone.
 
 #### Art. 6
 
-**2. Dipartimento**
+**Comuni**
 
-<sup>1</sup> Il Dipartimento competente attua gli atti normativi nell'ambito dell'igiene pubblica e prende i necessari provvedimenti e le necessarie decisioni di polizia sanitaria, per quanto questi compiti non siano esplicitamente affidati ad altre autorità o uffici.
+<sup>1</sup> I comuni sono competenti per la tutela della salute della popolazione, per quanto questo compito non sia attribuito al Cantone.
 
-<sup>2</sup> …
+<sup>2</sup> Sono competenti in particolare per:
 
-<sup>3</sup> …
+- a) la promozione della salute e la prevenzione;
+- b) la polizia sanitaria locale;
+- c) lo svolgimento di procedimenti penali;
+- d) la disposizione di misure contro pregiudizi che mettono a rischio o nuocciono alla salute della loro popolazione;
+- e) la sorveglianza dell'igiene ambientale e degli alloggi;
+- f) il servizio medico scolastico e il servizio dentistico scolastico;
+- g) la prevenzione e la lotta contro malattie trasmissibili dell'essere umano;
+- h) le sepolture.
 
-#### Art. 6a
-
-**3. Ufficio**
-
-<sup>1</sup> L'Ufficio competente:
-
-- a) vigila sugli ospedali, le case per partorienti e gli stabilimenti termali, le offerte di servizi stazionari per la cura e l'assistenza di pazienti lungodegenti e persone anziane, le istituzioni della cura e dell'assistenza a domicilio, gli istituti di medicina, i laboratori, nonché sulle persone che esercitano professioni nel settore dell'igiene pubblica;
-- b) rilascia e ritira le autorizzazioni di polizia sanitaria;
-- c) dispone il sequestro e la distruzione di prodotti, oggetti, componenti, piante, apparecchiature o sostanze pericolose per la salute;
-- d) dispone la chiusura e la liquidazione di studi o esercizi;
-- e) svolge le procedure penali di polizia sanitaria;
-- f) può comunicare i dati necessari alla protezione della salute pubblica agli uffici incaricati della gestione di registri nazionali delle persone che esercitano una professione del settore sanitario;
-- g) decide la revoca dell'autorizzazione per la gestione di una farmacia privata rispettivamente il diritto alla consegna di medicamenti conformemente all'articolo 36 capoverso 3.
-
-#### Art. 7
-
-**4. Commissioni**
-
-<sup>1</sup> Per l'evasione di questioni relative all'igiene pubblica il Governo può istituire delle commissioni.
-
-<sup>2</sup> …
-
-<sup>3</sup> …
-
-#### Art. 8
-
-**…**
-
-#### Art. 9
-
-**5. Medici delegati**
-
-<sup>1</sup> I medici delegati e i loro supplenti vengono nominati in servizio parziale per la durata di quattro anni dal Governo. Essi sono gli organi di vigilanza ed esecuzione della polizia sanitaria del Dipartimento e svolgono compiti di medicina legale e altri compiti d'ufficio.
-
-<sup>2</sup> Ogni medico esercitante nel Cantone può essere obbligato ad assumersi compiti d'ufficio, se occorrono specifiche conoscenze professionali oppure se il medico delegato o il suo sostituto deve ricusarsi oppure non è disponibile.
-
-<sup>3</sup> Il Governo regola mediante un'ordinanza i diritti e i doveri dei medici distrettuali.
-
-#### Art. 10
-
-**…**
-
-#### Art. 11
-
-**…**
-
-#### Art. 12
-
-**Comuni e loro compiti**
-
-<sup>1</sup> I comuni sono competenti per la cura pubblica della salute e per la polizia sanitaria locali nonché per i compiti che sono loro affidati dalle leggi federali e cantonali.
-
-<sup>2</sup> Essi sorvegliano in modo particolare l'igiene dell'ambiente e degli alloggi, adottano misure contro pregiudizi che minacciano e danneggiano generalmente la salute, attendono ai cimiteri e alle sepolture e provvedono alle offerte di servizi stazionari per la cura e l'assistenza di pazienti lungodegenti e persone anziane, alla cura e all'assistenza a domicilio, alla consulenza delle madri e dei padri, alla cura dei lattanti, al servizio medico e dentistico nelle scuole.
-
-<sup>3</sup> I comuni possono affidare questi compiti anche a istituzioni pubbliche o private adatte nonché a privati oppure assolverli nell'ambito di corporazioni di comuni.
+<sup>3</sup> In occasione di manifestazioni che presentano un elevato rischio per l'incolumità e per la vita dei partecipanti o del pubblico, i comuni devono provvedere affinché venga allestito e attuato un adeguato piano per il servizio sanitario.
 
 ## 3. Promozione della salute e prevenzione
 
-#### Art. 13
+#### Art. 7
 
-**Competenza 1. Cantone**
+**Competenza**
 
-<sup>1</sup> Nell'ambito della promozione della salute e della prevenzione il Cantone è competente per:
+<sup>1</sup> Il Cantone è competente per:
 
-- a) compiti sovracomunali;
-- b) il sostegno specialistico ai comuni;
-- c) il coordinamento delle attività dei comuni.
+- a) campagne e programmi di portata cantonale;
+- b) compiti sovracomunali;
+- c) il sostegno specialistico ai comuni;
+- d) la consulenza gratuita alle madri e ai padri oppure alle persone esercitanti l'autorità parentale nell'assistenza a lattanti e bambini piccoli;
+- e) il coordinamento delle attività dei comuni.
 
-<sup>2</sup> Esso può delegare singoli compiti a terzi.
-
-<sup>3</sup> Il Cantone può concedere sussidi:
+<sup>2</sup> Esso può concedere contributi:
 
 - a) a progetti di promozione della salute e di prevenzione;
 - b) per il rilevamento di basi concernenti lo stato di salute della popolazione;
-- c) a istituzioni che offrono un contributo importante alla promozione della salute della popolazione o alla prevenzione.
+- c) a organizzazioni che offrono un contributo importante alla promozione della salute della popolazione o alla prevenzione.
 
-#### Art. 14
+#### Art. 8
 
-**2. Comuni**
+**Tabacco**
 
-<sup>1</sup> I comuni sono competenti in particolare per:
-
-- a) la promozione della salute della propria popolazione e la prevenzione;
-- b) l'informazione della popolazione su abitudini e condizioni di vita favorevoli alla salute.
-
-#### Art. 15
-
-**Alcol e tabacco**
-
-<sup>1</sup> La pubblicità per prodotti alcolici con una gradazione di oltre il 20 percento in volume, nonché per il tabacco e i suoi derivati è vietata:
+<sup>1</sup> La pubblicità per tabacco e prodotti del tabacco è vietata:
 
 - a) su, al di sopra o lungo strade e piazze pubbliche;
 - b) su fondi privati visibili da strade e piazze pubbliche;
-- c) presso o dentro edifici pubblici di proprietà di corporazioni di diritto pubblico o di istituzioni indipendenti.
+- c) davanti o all'interno di edifici pubblici di proprietà di corporazioni di diritto pubblico o di istituzioni indipendenti.
 
-<sup>2</sup> Il tabacco e i suoi derivati non possono:
+<sup>2</sup> Il tabacco e i prodotti del tabacco non possono:
 
 - a) essere venduti ai minori di 16 anni;
 - b) essere consegnati a scopi pubblicitari ai minori di 16 anni;
-- c) essere venduti tramite automatici accessibili a chiunque.
+- c) essere venduti tramite distributori automatici accessibili al pubblico.
 
-<sup>3</sup> I comuni provvedono al rispetto delle limitazioni alla pubblicità per l'alcol e per i derivati del tabacco, nonché delle limitazioni alla consegna e alla vendita di tabacco e dei suoi derivati.
+<sup>3</sup> I comuni provvedono al rispetto delle limitazioni alla pubblicità per i prodotti del tabacco, nonché delle limitazioni alla consegna e alla vendita di tabacco e prodotti del tabacco.
 
-#### Art. 15a
+#### Art. 9
 
 **Protezione dei non fumatori**
 
-<sup>1</sup> È vietato fumare:
+<sup>1</sup> È vietato fumare all'interno e all'esterno di aree scolastiche e impianti sportivi scolastici, nonché di centri di incontro e assistenza per bambini e adolescenti.
 
-- a) negli spazi chiusi accessibili al pubblico, salvo che ciò avvenga in appositi spazi separati per fumatori;
-- b) all'interno e all'esterno di aree scolastiche e impianti sportivi scolastici, nonché di centri di incontro e assistenza per bambini e adolescenti.
+<sup>2</sup> Limitatamente a luoghi definiti all'aperto, i comuni possono abrogare il divieto di fumo secondo il capoverso 1 in occasione di manifestazioni ed eventi che si rivolgono prevalentemente ad adulti nonché in scuole con un'offerta di formazione esclusivamente post-obbligatoria.
 
-<sup>2</sup> I comuni possono abrogare il divieto di fumo secondo il capoverso 1 lettera b, in luoghi definiti all'aperto, per manifestazioni ed eventi che si rivolgono prevalentemente ad adulti e in scuole con un'offerta di formazione esclusivamente post-obbligatoria.
+<sup>3</sup> Le strutture per fumatori conformemente all'articolo 3 della legge federale concernente la protezione contro il fumo passivo[^9-1] non sono ammesse.
 
-#### Art. 15b
+[^9-1]: RS [818.31](https://db.clex.ch/link/Bund/818.31/it)
 
-**Coltivazione di canapa**
+## 4. Autorizzazioni di polizia sanitaria
 
-<sup>1</sup> È vietata la coltivazione di varietà di canapa adatte al consumo quale sostanza stupefacente.
+### 4.1. Disposizioni generali
 
-<sup>2</sup> Il Governo può prevedere eccezioni in casi fondati.
+#### Art. 10
 
-## 4. Istituzioni della cura della salute
+**Rilascio dell'autorizzazione**
 
-#### Art. 16
+<sup>1</sup> Le autorizzazioni sono rilasciate dall'ufficio competente (Ufficio).
 
-**Ospedali, case per partorienti e stabilimenti termali**
+<sup>2</sup> Esse possono essere vincolate a limitazioni di natura tecnica, temporale o geografica, oppure a oneri, se ciò è necessario per garantire un'assistenza medica di elevata qualità ed equilibrata a livello regionale.
 
-<sup>1</sup> Sono considerati ospedali, case per partorienti e stabilimenti termali tutte le istituzioni dirette da medici destinate ad accogliere, visitare, trattare o curare ammalati o feriti oppure all'assistenza ai parti.
+#### Art. 11
 
-<sup>2</sup> …
+**Vigilanza**
 
-#### Art. 17
+<sup>1</sup> L'Ufficio vigila sul rispetto delle condizioni d'autorizzazione nonché degli obblighi dei professionisti della salute e delle aziende del settore sanitario. Esso effettua controlli e adotta le misure necessarie.
 
-**…**
+<sup>2</sup> I controlli ordinari vengono svolti su appuntamento. A tale scopo l'Ufficio o terzi da esso incaricati devono poter accedere ai locali, alle attrezzature e alle registrazioni e devono essere fornite loro le informazioni necessarie.
 
-#### Art. 18
+<sup>3</sup> Se vi è il sospetto che le condizioni d'autorizzazione non siano più soddisfatte, come pure in caso di violazione degli obblighi professionali o d'esercizio oppure delle prescrizioni stabilite dalla legislazione della Confederazione o del Cantone in materia, la persona o l'azienda oggetto dei sospetti deve concedere in ogni momento e senza preavviso all'Ufficio o a terzi da esso incaricati l'accesso ai locali, alle attrezzature e alle registrazioni. Esso può disporre il sequestro di atti od oggetti.
 
-**…**
+#### Art. 12
 
-#### Art. 19
+**Revoca dell'autorizzazione**
 
-**Pronto soccorso**
+<sup>1</sup> L'autorizzazione è revocata se:
 
-<sup>1</sup> Gli ospedali sono obbligati ad accogliere 24 ore su 24 malati e feriti anche senza ordine del medico.
+- a) le condizioni d'autorizzazione non sono più soddisfatte;
+- b) a posteriori vengono accertati fatti sulla base dei quali avrebbe dovuto essere rifiutata.
 
-#### Art. 19bis
+### 4.2. Professioni del settore sanitario
 
-**…**
+#### Art. 13
 
-#### Art. 20
+**Attività soggette all'obbligo di autorizzazione**
 
-**Diritti del paziente**
+<sup>1</sup> Le attività esercitate sotto la propria responsabilità professionale che rappresentano un rischio tale per la salute pubblica da richiedere un controllo statale necessitano di un'autorizzazione.
 
-<sup>1</sup> I pazienti hanno diritto all'assistenza da parte del medico e del personale curante. E' garantito il diritto alla protezione della loro personalità.
-
-<sup>2</sup> Essi hanno diritto di essere informati in modo opportuno e adeguato dal medico curante circa lo stato patologico, il significato terapeutico delle misure previste e le prospettive di guarigione.
-
-<sup>3</sup> Essi hanno diritto a un'adeguata assistenza spirituale ospedaliera.
-
-<sup>4</sup> I malati incurabili e le persone in fin di vita hanno diritto a una cura e un accompagnamento adeguati.
-
-#### Art. 21
-
-**Autopsia**
-
-<sup>1</sup> Su pazienti deceduti in un ospedale o in una clinica può essere praticata un'autopsia. Si rinuncia all'autopsia se il paziente o in sua vece i familiari prossimi vi si sono opposti.
-
-<sup>2</sup> Restano riservate speciali disposizioni del Dipartimento e del medico cantonale in caso di sospetto di malattia trasmissibile nonché l'autopsia secondo le norme della legge sulla giustizia penale[^21-1] e dei suoi atti legislativi accessori.
-
-[^21-1]: CSC [350.000](https://www.gr-lex.gr.ch/data/350.000/it)
-
-#### Art. 22
-
-**…**
-
-#### Art. 22a
-
-**Autorità indipendente per i trapianti**
-
-<sup>1</sup> Il presidente del tribunale distrettuale giudica l'ammissibilità del prelievo di tessuti e cellule rigenerabili da persone incapaci di discernimento o minorenni.
-
-<sup>2</sup> Per la procedura fanno stato le disposizioni Codice di procedura civile[^22a-1] concernenti la procedura sommaria.
-
-[^22a-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
-
-#### Art. 23
-
-**Ospedalizzazione di malati psichici a) Ricovero volontario**
-
-<sup>1</sup> Il ricovero volontario in un ospedale psichiatrico richiede un certificato medico e il consenso scritto del paziente.
-
-#### Art. 24
-
-**b) Assegnazione o ritenzione contro la volontà del colpito**
-
-<sup>1</sup> Contro la loro volontà i malati psichici possono essere ricoverati o trattenuti soltanto secondo le disposizioni sul ricovero a scopo di assistenza.
-
-<sup>2</sup> Restano riservate le norme del codice penale[^24-1] e la legge sulla giustizia penale nonché i suoi atti legislativi accessori.
-
-[^24-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/it)
-
-#### Art. 25
-
-**Obbligo di autorizzazione**
-
-<sup>1</sup> L'esercizio di ospedali, case per partorienti e stabilimenti termali richiede un'autorizzazione.
-
-<sup>2</sup> L'autorizzazione viene rilasciata se la direzione e i collaboratori comprovano di possedere le necessarie capacità professionali, se sono disponibili le attrezzature richieste e se esiste la garanzia di un esercizio impeccabile durante l'orario di apertura.
-
-<sup>3</sup> Se questi presupposti non esistono più, l'autorizzazione viene revocata dopo ammonimento infruttuoso.
-
-#### Art. 26
-
-**…**
-
-#### Art. 27
-
-**Laboratori pubblici**
-
-<sup>1</sup> In caso di necessità il Cantone può costruire e gestire laboratori.
-
-<sup>2</sup> Esso può partecipare a simili istituzioni oppure appoggiarne con sussidi la costruzione e l'esercizio.
-
-#### Art. 28
-
-**Istituzioni private**
-
-<sup>1</sup> La costruzione e l'esercizio di laboratori privati, nonché di istituti di medicina richiedono un'autorizzazione.
-
-<sup>2</sup> L'autorizzazione viene rilasciata, se la direzione e i collaboratori comprovano di essere in possesso delle necessarie capacità professionali, se sono a disposizione le attrezzature richieste e se è garantita un'impeccabile conduzione dell'esercizio.
-
-<sup>3</sup> Se questi presupposti vengono meno, l'autorizzazione viene revocata dopo ammonimento infruttuoso.
-
-## 5. Offerte di servizi stazionari per la cura e l'assistenza di pazienti lungodegenti e persone anziane nonché per la cura e l'assistenza a domicilio
-
-#### Art. 28a
-
-**Obbligo di autorizzazione**
-
-<sup>1</sup> Le offerte per la cura e l'assistenza di persone anziane e bisognose di cure necessitano di un'autorizzazione. Il Governo può stabilire deroghe.
-
-#### Art. 28b
-
-**Presupposti per l'autorizzazione, revoca**
-
-<sup>1</sup> L'autorizzazione viene rilasciata se:
-
-- a) i presupposti per una cura e un'assistenza sufficienti e professionalmente qualificate sono soddisfatti dal profilo dello spazio, dell'esercizio e del personale;
-- b) nel settore delle offerte di servizi stazionari la cura e l'assistenza sono garantite anche nel caso aumenti il bisogno di cure;
-- c) l'offerta di prestazioni corrisponde alle direttive sulla qualità emanate dal Cantone;
-- d) gli istituti di riposo e di cura per anziani dispongono di un ombudsman;
-- e) la situazione finanziaria è comprovata ed esaminata da un organo di revisione indipendente.
-
-<sup>2</sup> L'autorizzazione deve avere una scadenza.
-
-<sup>3</sup> L'autorizzazione è revocata, se i presupposti non sono più soddisfatti o se, nel caso di offerte di servizi stazionari, vengono superate le tariffe massime stabilite dal Cantone.
-
-<sup>4</sup> L'autorità competente per il rilascio dell'autorizzazione può verificare in qualsiasi momento l'adempimento dei presupposti per l'autorizzazione.
-
-#### Art. 28c
-
-**Rinnovo dell'autorizzazione**
-
-<sup>1</sup> Il rinnovo dell'autorizzazione può essere vincolato a condizioni.
-
-#### Art. 28d
-
-**Annotazioni**
-
-<sup>1</sup> Per ogni persona bisognosa di cure i responsabili della cura e dell'assistenza devono fare delle annotazioni, le quali contengano l'essenziale circa la cura e l'assistenza. Le annotazioni devono essere conservate per almeno 10 anni.
-
-## 6. Professioni dell'igiene pubblica
-
-### 6.1. Disposizioni generali
-
-#### Art. 29
-
-**Obbligo di autorizzazione**
-
-<sup>1</sup> Il trattamento secondo la medicina tradizionale di malattie, ferite, handicap o altri disturbi della salute a proprio rischio o, assumendosi la responsabilità specialistica, per conto di un'altra persona necessita di un'autorizzazione all'esercizio della professione.
-
-<sup>2</sup> Sono soggette all'obbligo di autorizzazione le attività attribuibili alle professioni seguenti:
+<sup>2</sup> Sono soggette all'obbligo di autorizzazione in particolare le attività attribuibili alle professioni seguenti:
 
 - a) medico;
 - b) farmacista;
 - c) dentista;
 - d) chiropratico;
-- e) ottico;
-- f) igienista dentale;
-- g) droghiere;
-- h) levatrice;
-- i) ergoterapista;
-- k) dietista;
-- l) logopedista;
-- m) massaggiatore medico;
-- n) infermiera;
-- o) fisioterapista;
-- p) podologo;
-- q) psicoterapeuta.
+- e) igienista dentale;
+- f) droghiere;
+- g) levatrice/ostetrico;
+- h) ergoterapista;
+- i) dietista;
+- j) logopedista;
+- k) massaggiatore medicale;
+- l) infermiere;
+- m) fisioterapista;
+- n) podologo;
+- o) psicoterapeuta;
+- p) osteopata;
+- q) optometrista;
+- r) terapeuta naturalista.
 
-<sup>3</sup> Per la protezione della salute pubblica il Governo può sottoporre all'obbligo di autorizzazione altre attività di medicina tradizionale o altre attività dell'igiene pubblica con campo di attività chiaramente definito e con un proprio profilo professionale.
+<sup>3</sup> I logopedisti sono soggetti all'obbligo di autorizzazione nella misura in cui forniscono prestazioni a carico dell'assicurazione obbligatoria delle cure medico-sanitarie.
 
-#### Art. 29a
+<sup>4</sup> Per la tutela della salute pubblica il Governo può sottoporre all'obbligo di autorizzazione altre attività del settore sanitario con campo di attività chiaramente definito e con un proprio profilo professionale.
 
-**Attività di medicina alternativa**
+#### Art. 14
 
-<sup>1</sup> Per l'esercizio dell'omeopatia, della medicina tradizionale cinese e della naturopatia tradizionale europea è necessaria un'autorizzazione quale terapeuta naturalista.
+**Attività non ammesse senza autorizzazione**
 
-<sup>2</sup> L'autorizzazione all'esercizio della professione viene rilasciata a persone:
+<sup>1</sup> Alle persone che esercitano attività nel settore sanitario non soggette all'obbligo di autorizzazione è vietato in particolare:
 
-- a) che comprovano di essere registrate presso un servizio designato dal Governo e operante a livello nazionale, che conferisce un marchio di qualità per la formazione;
-- b) che hanno superato l'esame cantonale per terapeuti naturalisti previsto dal diritto cantonale precedente o
-- c) che hanno conseguito un diploma di formazione riconosciuto a livello federale.
+- a) accertare o trattare malattie, ferite o altri pregiudizi alla salute;
+- b) curare persone malate, ferite o la cui salute è altrimenti pregiudicata. Fa eccezione la cura di familiari e persone vicine;
+- c) procedere a operazioni di ostetricia;
+- d) effettuare prelievi di sangue e iniezioni o eseguire altre pratiche che comportano lesioni ed emorragie;
+- e) somministrare, consegnare, prescrivere o raccomandare a persone che si trovano in cura presso di loro medicamenti soggetti all'obbligo di ricetta e medicamenti per i quali è richiesta la consulenza di uno specialista;
+- f) stilare perizie ufficiali, rilasciare certificati e attestazioni ufficiali;
+- g) procedere a manipolazioni alla colonna vertebrale;
+- h) procedere a operazioni ai denti o al cavo orale;
+- i) svolgere colloqui psicoterapici.
 
-#### Art. 29b
+<sup>2</sup> I professionisti della salute sono tenuti a indirizzare le persone il cui stato richiede accertamenti o trattamenti medici a un medico scelto dalla persona trattata.
 
-**Supplenza**
+<sup>3</sup> Il Governo può escludere singole attività dal divieto di cui al capoverso 1 se ciò è conciliabile con la tutela della salute.
 
-<sup>1</sup> La supplenza con responsabilità specialistica di una persona in possesso di un'autorizzazione all'esercizio della professione necessita di un'autorizzazione.
+#### Art. 15
 
-<sup>2</sup> L'autorizzazione viene rilasciata se la supplenza soddisfa i presupposti per l'autorizzazione secondo l'articolo 30 capoverso 1. L'autorizzazione può essere limitata nel tempo.
+**Condizioni d'autorizzazione**
 
-#### Art. 30
+<sup>1</sup> L'autorizzazione all'esercizio della professione sotto la propria responsabilità professionale viene rilasciata al richiedente se:
 
-**Presupposti per l'autorizzazione**
+- a) dispone di un diploma federale o di un diploma riconosciuto in tutta la Svizzera, di un titolo di formazione estero riconosciuto dalla Confederazione, di un attestato federale di capacità, di un certificato di capacità riconosciuto in tutta la Svizzera o di un attestato professionale federale;
+- b) è degno di fiducia e offre la garanzia, dal profilo fisico e psichico, di un esercizio ineccepibile della professione;
+- c) dispone delle necessarie conoscenze di una lingua ufficiale del Cantone.
 
-<sup>1</sup> L'autorizzazione all'esercizio della professione viene rilasciata se la persona che presenta la domanda:
+<sup>2</sup> Per il rilascio dell'autorizzazione per professioni disciplinate dalla legislazione federale sulle professioni mediche universitarie, sulle professioni psicologiche e sulle professioni sanitarie sono determinanti le condizioni d'autorizzazione contenute in questi atti normativi.
 
-- a) è in possesso di un corrispondente diploma federale, riconosciuto dalla Confederazione o a livello nazionale oppure di un corrispondente attestato di capacità,
-- b) ha l'esercizio dei diritti civili,
-- c) ha stipulato un'assicurazione di responsabilità civile professionale sufficiente, qualora l'attività lo richieda,
-- d) non ha commesso nessuna azione punibile inerente l'esercizio della professione e
-- e) non soffre di un'infermità psichica o fisica tale da compromettere seriamente l'esercizio della professione.
-
-<sup>2</sup> Per garantire l'assistenza alla popolazione possono eccezionalmente essere ammesse all'esercizio della professione anche persone in possesso di un altro diploma o attestato di capacità equivalenti. Altre ammissioni si conformano alla legislazione federale. Le ammissioni possono essere limitate nel tempo e vincolate ad oneri e condizioni.
-
-#### Art. 30a
+#### Art. 16
 
 **Estinzione dell'autorizzazione**
 
-<sup>1</sup> L'autorizzazione all'esercizio della professione si estingue:
+<sup>1</sup> L'autorizzazione si estingue:
 
-- a) con la perdita dell'esercizio dei diritti civili;
-- b) con la dichiarazione scritta di rinuncia all'esercizio della professione;
-- c) con il compimento del settantesimo anno d'età.
+- a) in caso di mancato avvio dell'esercizio della professione entro sei mesi dal rilascio dell'autorizzazione;
+- b) con dichiarazione scritta di rinuncia all'esercizio della professione;
+- c) con la cessazione dell'esercizio della professione nel Cantone dei Grigioni;
+- d) con il compimento del 70° anno d'età, se non viene prodotto un certificato del medico delegato dal quale risulti che non sussistono motivi di ordine fisico o psichico in contrasto con l'esercizio della professione. Il certificato deve essere presentato ogni due anni.
 
-<sup>2</sup> L'autorizzazione non si estingue al compimento del settantesimo anno d'età se la persona interessata, sulla base di un attestato del medico delegato, fornisce la comprova di essere in grado sia dal punto di vista fisico che da quello psichico di continuare a esercitare la professione. La comprova deve poi essere presentata ogni due anni.
+### 4.3. Aziende del settore sanitario
+
+#### Art. 17
+
+**Obbligo di autorizzazione**
+
+<sup>1</sup> Un'autorizzazione d'esercizio è richiesta per le seguenti forme di azienda:
+
+- a) ospedali e cliniche con offerta stazionaria;
+- b) case per partorienti con offerta stazionaria;
+- c) case di cura, unità di cura, appartamenti protetti, strutture di assistenza per malati terminali e altre offerte di cura stazionarie;
+- d) strutture diurne e notturne per persone bisognose di cura e di assistenza;
+- e) servizi di cura e assistenza a domicilio;
+- f) trasporto a scopo professionale di malati e infortunati.
+
+<sup>2</sup> Il Governo può assoggettare all'obbligo di autorizzazione altre forme di azienda.
+
+#### Art. 18
+
+**Durata dell'autorizzazione**
+
+<sup>1</sup> L'autorizzazione è rilasciata dall'Ufficio per un periodo massimo di dieci anni.
+
+#### Art. 19
+
+**Condizioni d'autorizzazione 1. Condizioni generali**
+
+<sup>1</sup> L'autorizzazione d'esercizio viene rilasciata al proprietario o all'ente responsabile se:
+
+- a) è stata designata una persona che dirige l'azienda;
+- b) l'azienda è attrezzata e gestita in modo corrispondente alle prestazioni offerte e alle direttive del Governo;
+- c) l'azienda soddisfa le direttive del Governo relative al personale (qualità della struttura) dal profilo qualitativo e quantitativo;
+- d) è provata l'esistenza di un sistema di garanzia della qualità riconosciuto dall'Ufficio;
+- e) viene fornita la prova relativa alla stipula di un'assicurazione di responsabilità civile aziendale in conformità al tipo e all'entità dei rischi o relativa ad altre garanzie equivalenti.
+
+<sup>2</sup> Sull'autorizzazione deve essere indicato il nome della persona che dirige l'azienda. In caso di cambio di questa persona l'autorizzazione d'esercizio deve essere adattata.
+
+<sup>3</sup> Il Governo può esentare singole forme di azienda dall'adempimento della condizione di cui al capoverso 1 lettera d.
+
+#### Art. 20
+
+**2. Condizioni supplementari per ospedali e cliniche**
+
+<sup>1</sup> L'autorizzazione d'esercizio viene rilasciata al proprietario o all'ente responsabile di un ospedale o di una clinica se inoltre:
+
+- a) sono stati designati i responsabili medici per ciascuna specializzazione e il responsabile delle cure. Queste persone devono disporre della corrispondente autorizzazione all'esercizio della professione. Un cambio della persona responsabile deve essere notificato all'Ufficio;
+- b) l'azienda è allacciata a un sistema anonimo di segnalazione degli errori medici definito dal Governo.
+
+#### Art. 21
+
+**3. Condizione supplementare per case per partorienti**
+
+<sup>1</sup> L'autorizzazione d'esercizio viene rilasciata al proprietario o all'ente responsabile di una casa per partorienti se è stata designata la persona responsabile delle attività di ostetricia. Questa persona deve disporre della corrispondente autorizzazione all'esercizio della professione. Un cambio della persona responsabile deve essere notificato all'Ufficio.
+
+#### Art. 22
+
+**4. Condizioni supplementari per case di cura**
+
+<sup>1</sup> L'autorizzazione d'esercizio viene rilasciata al proprietario o all'ente responsabile di una casa di cura se inoltre:
+
+- a) è stata designata la persona responsabile delle cure; questa persona deve disporre della corrispondente autorizzazione all'esercizio della professione. Un cambio della persona responsabile deve essere notificato all'Ufficio;
+- b) la cura e l'assistenza degli ospiti sono garantite anche in caso di crescente bisogno di cure.
+
+#### Art. 23
+
+**5. Condizione supplementare per servizi di cura e assistenza a domicilio**
+
+<sup>1</sup> L'autorizzazione d'esercizio viene rilasciata al proprietario o all'ente responsabile di un servizio di cura e assistenza a domicilio se è stata designata la persona responsabile delle cure. Questa persona deve disporre della corrispondente autorizzazione all'esercizio della professione. Un cambio della persona responsabile deve essere notificato all'Ufficio.
+
+#### Art. 24
+
+**6. Condizioni supplementari per il trasporto a titolo professionale di malati e infortunati**
+
+<sup>1</sup> L'autorizzazione d'esercizio per il trasporto a titolo professionale di malati e infortunati viene rilasciato al proprietario o all'ente responsabile dell'azienda se inoltre:
+
+- a) è stato designato un responsabile medico in possesso di un'autorizzazione all'esercizio della professione di medico. Un cambio della persona responsabile deve essere notificato all'Ufficio;
+- b) è garantita la libera scelta del medico e dell'ospedale.
+
+<sup>2</sup> Le aziende che trasportano a scopo professionale malati e infortunati le cui funzioni vitali non sono pregiudicate sono esentate dall'obbligo di adempiere la condizione di cui al capoverso 1 lettera a.
+
+#### Art. 25
+
+**Estinzione dell'autorizzazione**
+
+<sup>1</sup> L'autorizzazione si estingue:
+
+- a) in caso di mancato avvio dell'attività entro sei mesi dal rilascio dell'autorizzazione;
+- b) con la cessazione dell'attività.
+
+#### Art. 26
+
+**Blocco delle ammissioni**
+
+<sup>1</sup> In caso di mancato adempimento delle direttive del Governo relative agli spazi, all'esercizio o al personale, nei confronti delle offerte stazionarie l'Ufficio può pronunciare un blocco delle ammissioni invece di una revoca dell'autorizzazione.
+
+## 5. Obblighi dei professionisti della salute e delle aziende del settore sanitario
+
+### 5.1. Obblighi generali
+
+#### Art. 27
+
+**Salvaguardia dei diritti e degli interessi dei pazienti**
+
+<sup>1</sup> I professionisti della salute e le aziende del settore sanitario sono tenuti a salvaguardare i diritti e gli interessi dei pazienti.
+
+<sup>2</sup> I titolari dell'autorizzazione devono svolgere attività legate al trattamento indipendentemente da vantaggi finanziari.
+
+#### Art. 28
+
+**Informazione ai pazienti**
+
+<sup>1</sup> I pazienti e per quanto necessario anche le persone con diritto di rappresentanza conformemente alle disposizioni del Codice civile svizzero concernenti la protezione degli adulti devono essere informati in modo tempestivo, adeguato e comprensibile dalle persone responsabili per il trattamento o da professionisti della salute da esse incaricati.
+
+<sup>2</sup> L'informazione comprende in particolare:
+
+- a) i diritti e i doveri dei pazienti;
+- b) lo stato di salute e la diagnosi;
+- c) i provvedimenti preventivi, diagnostici, terapeutici previsti, nonché i loro rischi, vantaggi, svantaggi e costi;
+- d) eventuali alternative ai provvedimenti previsti;
+- e) il decorso e l'esito del trattamento.
+
+<sup>3</sup> L'informazione deve avvenire con la dovuta delicatezza, se vi è da temere che possa rappresentare un carico eccessivo per il paziente oppure influire sfavorevolmente sul decorso della malattia.
+
+<sup>4</sup> Se per ragioni di urgenza non è possibile una previa informazione, questa va recuperata appena possibile.
+
+#### Art. 29
+
+**Cartella sanitaria**
+
+<sup>1</sup> Per ogni paziente va allestita una cartella sanitaria da tenere costantemente aggiornata. Deve risultare direttamente chi ha disposto o effettuato le iscrizioni.
+
+<sup>2</sup> La cartella sanitaria può essere tenuta in forma cartacea oppure in forma elettronica.
+
+<sup>3</sup> La cartella sanitaria deve essere conservata per almeno dieci anni a contare dalla conclusione dell'ultimo trattamento, sempre che non venga consegnata al paziente prima di questo termine.
+
+<sup>4</sup> Il titolare dell'autorizzazione fa in modo che la cartella sanitaria rimanga accessibile al rispettivo paziente nel rispetto del segreto professionale anche dopo il suo decesso o dopo la cessazione dell'esercizio della professione o dell'attività dell'azienda.
+
+<sup>5</sup> Se il titolare dell'autorizzazione decede o se un'azienda viene chiusa, le cartelle sanitarie possono essere consegnate per la conservazione all'Ufficio, dietro pagamento di un emolumento. L'emolumento va a carico della massa successoria della persona defunta o dell'azienda.
+
+<sup>6</sup> L'emolumento per la conservazione delle cartelle sanitarie ammonta per:
+
+- a) professionisti della salute — ad al massimo 5 000 franchi;
+- b) aziende — ad al massimo 50 000 franchi.
+
+#### Art. 30
+
+**Informazioni a terzi**
+
+<sup>1</sup> I dati personali possono essere trasmessi a terzi solo con il consenso dei pazienti.
 
 #### Art. 31
 
-**Rifiuto, revoca**
+**Trattamento di persone incapaci di discernimento**
 
-<sup>1</sup> L'autorizzazione all'esercizio della professione può essere negata o revocata, se:
+<sup>1</sup> La gestione di pazienti incapaci di discernimento si conforma alle disposizioni in materia del Codice civile svizzero[^31-1].
 
-- a) è stata constatata da un tribunale la violazione di una fattispecie penale rilevante per l'esercizio della professione;
-- b) una persona contravviene in modo grave alla presente legge e ai relativi atti legislativi;
-- c) l'autorizzazione ad esercitare la professione è stata revocata in un altro Cantone;
-- d) una persona è affetta da deficienze intellettuali o fisiche, che sono incompatibili con l'esercizio della professione.
-
-<sup>2</sup> L'autorizzazione all'esercizio della professione può essere revocata totalmente o parzialmente per un tempo determinato o indeterminato.
-
-<sup>3</sup> Se sussiste un fondato sospetto che vi sia un motivo di revoca dell'autorizzazione all'esercizio della professione conformemente al capoverso 1, l'autorizzazione può essere revocata a titolo cautelativo per la protezione dell'integrità fisica e della vita.
+[^31-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
 
 #### Art. 32
 
-**Limitazioni delle attività che non necessitano di autorizzazione**
+**Autopsia**
 
-<sup>1</sup> Alle persone che esercitano un'attività non soggetta all'obbligo di autorizzazione è vietato:
+<sup>1</sup> Un'autopsia può essere effettuata se è dato il consenso del defunto o se in sua vece prestano il loro consenso le persone con diritto di rappresentanza conformemente al Codice civile svizzero[^32-1].
 
-- a) effettuare prelievi di sangue e iniezioni o eseguire altre pratiche che comportano lesioni ed emorragie;
-- b) utilizzare sostanze e altri mezzi fisici che minacciano palesemente la salute;
-- c) eseguire trattamenti di medicina tradizionale, nonché operazioni chirurgiche e di ostetricia;
-- d) trattare malattie trasmissibili, incluse malattie veneree, o favorire la diffusione di queste malattie;
-- e) procedere a manipolazioni alla colonna vertebrale;
-- f) somministrare medicamenti delle categorie di vendita da A a C a persone che sono in cura presso di loro;
-- g) consegnare medicamenti delle categorie di vendita da A a D;
-- h) raccomandare medicamenti delle categorie di vendita da A a C;
-- i) rilasciare ricette;
-- k) stilare perizie, rilasciare certificati e attestazioni.
+<sup>2</sup> Sono fatte salve la disposizione da parte dell'autorità in caso di sospetto di malattia trasmissibile dell'essere umano nonché l'autopsia secondo le norme del Codice di procedura penale[^32-2] e dei suoi atti legislativi accessori.
 
-<sup>2</sup> Esse sono tenute a consultare un medico, qualora lo stato della persona da curare richieda un accertamento o un trattamento medico.
-
-<sup>3</sup> Per la protezione della salute pubblica, in caso di violazione del capoverso 1 o 2 o in caso di gravi errori specialistici, l'Ufficio può pronunciare un'interdizione all'esercizio della professione contro persone che esercitano un'attività che secondo la presente legge non necessita di autorizzazione.
-
-### 6.2. Diritti e doveri
+[^32-1]: RS [210](https://db.clex.ch/link/Bund/210/it)
+[^32-2]: RS [312.0](https://db.clex.ch/link/Bund/312.0/it)
 
 #### Art. 33
 
-**Obblighi professionali**
+**Annuncio e pubblicità**
 
-<sup>1</sup> Nell'esercizio della loro attività i titolari di un'autorizzazione all'esercizio della professione devono
+<sup>1</sup> L'annuncio della fornitura di prestazioni da parte di professionisti della salute e aziende e la relativa pubblicità devono essere oggettivi e non possono essere né ingannevoli né importuni. Non è consentito formulare promesse di guarigione.
 
-- a) orientarsi alle regole riconosciute dell'arte ed ai principi della scienza, dell'etica e dell'economicità;
-- b) salvaguardare i diritti dei pazienti;
-- c) limitarsi al campo di attività descritto nelle direttive di formazione e nelle relative direttive di perfezionamento professionale;
-- d) notificare immediatamente al medico cantonale eventi straordinari nell'ambito dell'igiene pubblica;
-- e) notificare immediatamente alla polizia tutti i casi di morte per cause non naturali.
-
-<sup>2</sup> Essi possono gestire contemporaneamente soltanto uno studio o un esercizio. Con l'approvazione dell'Ufficio è lecita la direzione di un secondo studio o di un secondo esercizio se è garantita l'apertura contemporanea di un solo studio rispettivamente di un solo esercizio per volta oppure se sono soddisfatti i presupposti relativi al personale e specialistici per la gestione del secondo studio.
-
-<sup>3</sup> I titolari di un'autorizzazione all'esercizio della professione che esercitano la loro professione in un rapporto di dipendenza economica, devono assicurarsi di non venire ostacolati nelle loro decisioni relative a questioni specialistiche.
-
-#### Art. 33a
-
-**Delega di compiti a subalterni**
-
-<sup>1</sup> Persone in possesso di un'autorizzazione all'esercizio della professione possono delegare a loro subalterni solo quei compiti che sono essi stessi autorizzati ad eseguire e che non richiedono la loro esecuzione personale.
-
-<sup>2</sup> Esse sono responsabili per la padronanza da parte dei subalterni dei compiti delegati.
+<sup>2</sup> Si possono utilizzare soltanto le designazioni professionali e i titoli riconosciuti dalla Confederazione.
 
 #### Art. 34
 
-**Obbligo di assistenza professionale, servizio di pronto soccorso**
+**Obblighi nei confronti dell'autorità di vigilanza**
 
-<sup>1</sup> Tutti i medici, farmacisti e dentisti operanti nel Cantone sono tenuti a prestare assistenza professionale in casi urgenti.
+<sup>1</sup> Durante lo svolgimento dei controlli ordinari, i titolari dell'autorizzazione e i professionisti della salute devono concedere all'Ufficio o a terzi da esso incaricati l'accesso ai locali, alle attrezzature e alle registrazioni e devono fornire loro le informazioni necessarie.
 
-<sup>2</sup> Sono tenuti a collaborare ad un servizio regionale di pronto soccorso e a provvedere per farsi supplire durante una prolungata assenza.
-
-<sup>3</sup> Gli ospedali pubblici possono venire coinvolti nei servizi di guardia medica regionali.
+<sup>2</sup> Se vi è il sospetto che le condizioni d'autorizzazione non siano più soddisfatte, come pure in caso di violazione degli obblighi professionali o d'esercizio oppure delle prescrizioni stabilite dalla legislazione della Confederazione o del Cantone in materia, devono concedere in ogni momento e senza preavviso all'Ufficio o a terzi da esso incaricati l'accesso ai locali, alle attrezzature e alle registrazioni, nonché fornire le informazioni necessarie.
 
 #### Art. 35
 
-**Segreto professionale**
+**Assunzione di collaboratori**
 
-<sup>1</sup> Le persone ammesse all'esercizio della professione ed il loro personale ausiliario sono vincolate al segreto professionale. Esse non possono rivelare alcun segreto che è stato loro confidato per via della loro professione o di cui sono venute a conoscenza nell'esercizio della loro professione.
+<sup>1</sup> I titolari dell'autorizzazione non possono assumere professionisti della salute che esercitano un'attività soggetta all'obbligo di autorizzazione:
 
-<sup>2</sup> Sono per legge liberate dal segreto professionale:
+- a) i quali non soddisfano le condizioni d'autorizzazione di cui all'articolo 15;
+- b) ai quali in un Cantone o in un altro Paese è stata revocata l'autorizzazione all'esercizio della professione;
+- c) contro i quali è stato pronunciato un divieto di esercitare la professione.
 
-- a) qualora si tratti di imporre pretese derivanti dal rapporti di cura o
-- b) se comunicano alle autorità competenti osservazioni dalle quali si può dedurre un crimine o un delitto contro l'integrità fisica o la vita, la salute pubblica o l'integrità sessuale oppure se appare indicata una misura di protezione di minori o di adulti.
-
-<sup>3</sup> I medici sono inoltre per legge liberati dal segreto professionale se redigono per le autorità penali un certificato o un rapporto medico tendente a chiarire se sia stato commesso un reato.
-
-<sup>4</sup> L'Ufficio è competente per la liberazione dal segreto professionale, qualora il paziente stesso non abbia fornito il suo consenso alla liberazione dal segreto professionale.
+<sup>2</sup> Fanno eccezione le assunzioni per la durata del conseguimento di un diploma federale o riconosciuto a livello nazionale, di un titolo di perfezionamento federale o del riconoscimento federale del diploma o del titolo di perfezionamento estero.
 
 #### Art. 36
 
-**Farmacie private**
+**Obblighi di notifica**
 
-<sup>1</sup> Con l'autorizzazione dell'Ufficio i medici possono gestire una farmacia privata.
+<sup>1</sup> Nonostante il segreto professionale, i professionisti della salute e le aziende del settore sanitario sono tenuti a:
 
-<sup>2</sup> L'autorizzazione viene rilasciata ai medici esercitanti la loro professione in una località dove non esiste una farmacia pubblica che garantisca l'approvvigionamento permanente della popolazione e se vi è garanzia dell'immagazzinamento e della consegna dei medicamenti a regola d'arte. La libera vendita oppure la fornitura a rivenditori non è consentita.
+- a) notificare immediatamente al medico cantonale osservazioni che permettano di ipotizzare la diffusione di malattie trasmissibili dell'essere umano pericolose;
+- b) notificare immediatamente alla polizia tutti i casi di decesso per cause non naturali e non chiare.
 
-<sup>3</sup> I medici, anche senza essere autorizzati a gestire una farmacia privata, hanno il diritto di:
+<sup>2</sup> I professionisti della salute attivi quali dipendenti possono effettuare la notifica conformemente al capoverso 1 anche rivolgendosi all'azienda.
 
-- a) utilizzare medicamenti durante la consultazione;
-- b) consegnare per ogni diagnosi la confezione originale più piccola di un medicamento dopo la consultazione.
+### 5.2. Professionisti della salute
 
 #### Art. 37
 
-**Pubblicità**
+**Obblighi professionali**
 
-<sup>1</sup> Le persone esercitanti una professione soggetta ad autorizzazione possono fare pubblicità, se sono in possesso della necessaria autorizzazione all'esercizio della professione. La pubblicità deve essere a nome del titolare dell'autorizzazione.
+<sup>1</sup> I titolari dell'autorizzazione sono tenuti a:
 
-<sup>2</sup> La pubblicità deve limitarsi all'ambito professionale specifico, deve essere oggettiva e non deve risultare importuna. Possono essere utilizzate soltanto le denominazioni professionali e i titoli contenuti nelle relative leggi.
+- a) esercitare la professione in modo accurato e coscienzioso e a rispettare i limiti delle competenze acquisite nell'ambito della formazione, del perfezionamento e dell'aggiornamento professionale;
+- b) approfondire, estendere e migliorare le proprie conoscenze, attitudini e capacità professionali grazie all'aggiornamento permanente;
+- c) fare in modo che le persone loro subordinate professionalmente esercitino la loro professione in modo accurato e coscienzioso, rispettino i limiti delle loro competenze e padroneggino i compiti loro delegati nonché approfondiscano, estendano e migliorino le loro conoscenze, attitudini e capacità professionali grazie al corrispondente aggiornamento;
+- d) stipulare un'assicurazione di responsabilità civile professionale in conformità al tipo e all'entità dei rischi.
+
+<sup>2</sup> I professionisti della salute che esercitano la loro professione sotto la responsabilità professionale di terzi sono soggetti agli obblighi professionali conformemente al capoverso 1 lettere a e b.
+
+<sup>3</sup> Gli obblighi professionali relativi a professioni disciplinate dalla legislazione federale sulle professioni mediche universitarie, sulle professioni psicologiche e sulle professioni sanitarie si conformano alle disposizioni contenute in questi atti normativi.
+
+<sup>4</sup> Il Governo stabilisce la durata e l'entità del perfezionamento professionale specifico.
+
+<sup>5</sup> Esso può delegare al rispettivo ordine professionale il controllo dell'adempimento del perfezionamento professionale prescritto.
+
+<sup>6</sup> I medici e i dentisti sono tenuti a trattare pazienti bisognosi di assistenza pubblica. Salvo in casi di emergenza, prima dell'inizio del trattamento devono richiedere una garanzia di assunzione delle spese al comune competente per l'assistenza. In assenza di una garanzia di assunzione delle spese, il comune competente per l'assistenza non è tenuto ad assumersi le spese.
 
 #### Art. 38
 
-**Annotazioni**
+**Servizio di picchetto**
 
-<sup>1</sup> Il titolare dell'autorizzazione e i suoi subalterni devono annotare informazioni relative alla loro attività professionale, che contengano indicazioni relative alla persona trattata e i dati essenziali concernenti il periodo ed il tipo di trattamento.
+<sup>1</sup> I medici e i dentisti che soddisfano le condizioni per l'ottenimento dell'autorizzazione all'esercizio della professione e sono attivi nel Cantone sono tenuti a partecipare al servizio di picchetto regionale dell'ordine professionale cantonale in conformità alla regolamentazione di quest'ultimo.
 
-<sup>2</sup> Le annotazioni devono essere conservate per almeno 10 anni.
+<sup>2</sup> Sono esonerati i medici impiegati a titolo principale in un ospedale pubblico e che svolgono servizio di picchetto presso tale ospedale.
+
+<sup>3</sup> Chi presta servizio di picchetto deve scegliere il luogo in cui si trattiene durante questo servizio in modo tale da essere in grado di intervenire in tempi brevi.
 
 #### Art. 39
 
-**Trattamento di pazienti bisognosi di assistenza**
+**Segreto professionale**
 
-<sup>1</sup> I medici e i dentisti sono obbligati a trattare pazienti bisognosi di assistenza. Salvo in casi di emergenza, prima dell'inizio del trattamento devono richiedere una garanzia di assunzione delle spese al comune competente per l'assistenza. In assenza di una garanzia di assunzione delle spese, il comune competente per l'assistenza non è tenuto ad assumersi le spese.
+<sup>1</sup> I professionisti della salute e i loro ausiliari sono soggetti al segreto professionale. Non possono rivelare alcun segreto che è stato loro confidato per via della loro professione o di cui sono venuti a conoscenza nell'esercizio della loro professione.
+
+<sup>2</sup> Sono per legge liberati dal segreto professionale:
+
+- a) qualora si tratti di imporre pretese derivanti dal rapporto di cura;
+- b) se comunicano alle autorità competenti osservazioni che permettono di ipotizzare la sussistenza di un crimine o di un delitto contro norme penali concernenti l'integrità fisica e la vita, la salute pubblica, l'integrità sessuale o la falsità in atti rilevanti per la polizia sanitaria oppure se appare indicata una misura di protezione di minori o di adulti;
+- c) se comunicano all'autorità di vigilanza osservazioni che permettono di dedurre l'inesistenza delle condizioni d'autorizzazione con riguardo ad altri professionisti della salute o ad altre aziende, violazioni di obblighi professionali rispettivamente aziendali o l'inosservanza dei diritti dei pazienti da parte di altri professionisti della salute o di altre aziende;
+- d) se vengono interrogati dalle autorità d'azione penale quali persone informate sui fatti, testimoni o imputati;
+- e) se segnalano all'unità organizzativa competente per la gestione delle minacce presso la Polizia cantonale persone potenzialmente pronte all'uso della violenza conformemente all'articolo 29e della legge sulla polizia del Cantone dei Grigioni (LPol)[^39-1] e scambiano con essa dati relativi alle persone pronte all'uso della violenza conformemente all'articolo 29g LPol.
+
+<sup>3</sup> I medici sono inoltre per legge liberati dal segreto professionale se consegnano alle autorità penali un certificato medico, un rapporto, una perizia concernente l'imputato oppure la cartella anamnestica dell'imputato allo scopo di chiarire se sia stato commesso un reato.
+
+<sup>4</sup> L'Ufficio è competente per la liberazione dal segreto professionale, nei casi in cui il paziente stesso non abbia fornito tale consenso.
+
+[^39-1]: CSC [613.000](https://www.gr-lex.gr.ch/data/613.000/it)
+
+### 5.3. Aziende del settore sanitario
 
 #### Art. 40
 
-**…**
+**Obbligo di custodia e di protezione**
+
+<sup>1</sup> Le aziende del settore sanitario sono tenute ad adottare tutte le misure esigibili e proporzionate per attuare gli obblighi di custodia e protezione che competono loro nei confronti dei pazienti.
 
 #### Art. 41
 
-**…**
+**Obbligo di ammissione e di trattamento**
+
+<sup>1</sup> Gli ospedali pubblici sono tenuti ad ammettere e a trattare 24 ore su 24 malati e feriti anche senza ordine del medico.
+
+<sup>2</sup> L'ospedale è autorizzato a interrompere il trattamento di pazienti che non collaborano al trattamento nei limiti delle loro possibilità o che non si attengono al regolamento interno dell'ospedale.
+
+<sup>3</sup> L'interruzione del trattamento non può avvenire in tempo inopportuno o in caso di ricovero disposto a scopo di assistenza.
 
 #### Art. 42
 
-**…**
+**Numero di chiamata del servizio di coordinamento centrale**
+
+<sup>1</sup> Gli ospedali e le cliniche devono pubblicare il numero di chiamata del servizio di coordinamento centrale per il trasporto di malati e infortunati in caratteri grandi almeno quanto quelli del proprio numero d'emergenza.
+
+## 6. Servizio di picchetto
 
 #### Art. 43
 
-**…**
+**Organizzazione**
+
+<sup>1</sup> Gli ordini professionali cantonali dei medici e dei dentisti devono provvedere a un'organizzazione del servizio di picchetto che tenga conto della configurazione geografica del Cantone e devono disciplinare i diritti e gli obblighi dei medici e dei dentisti risultanti dal servizio di picchetto.
+
+<sup>2</sup> In accordo con il Dipartimento, gli ordini professionali cantonali devono disciplinare l'organizzazione del servizio di picchetto regionale e i diritti e gli obblighi dei medici e dei dentisti nel quadro del servizio di picchetto.
+
+<sup>3</sup> Il Governo può stipulare accordi di prestazioni concernenti il servizio di picchetto con gli ordini professionali cantonali.
+
+<sup>4</sup> Gli ospedali pubblici possono venire coinvolti nei servizi di guardia medica regionali.
 
 #### Art. 44
 
-**Servizio di pronto soccorso**
+**Contributo sostitutivo**
 
-<sup>1</sup> Nelle località senza medici con facoltà di dispensazione, le farmacie pubbliche sono obbligate a tener aperto un servizio di pronto soccorso permanente 24 ore su 24, onde garantire l'approvvigionamento farmaceutico della popolazione.
+<sup>1</sup> Per motivi validi, gli ordini professionali cantonali possono esonerare del tutto o in parte una persona che esercita una professione medica dalla partecipazione al servizio di picchetto medico o dentistico regionale. In questo caso la persona che esercita una professione medica deve impegnarsi a versare un contributo sostitutivo annuo compreso tra l'1,5 e il 3,0 per cento del reddito soggetto ad AVS, tuttavia al massimo 10 000 franchi.
 
-<sup>2</sup> Con il consenso dell'Ufficio, farmacie che si trovano a poca distanza l'una dall'altra possono garantire in comune il servizio di pronto soccorso.
+<sup>2</sup> I contributi sostitutivi confluiscono nel fondo per il servizio di picchetto del rispettivo ordine professionale e devono essere utilizzati per finanziare l'organizzazione e lo svolgimento del servizio di picchetto e per indennizzare le persone che esercitano una professione medica impegnate nel servizio di picchetto.
+
+<sup>3</sup> Conformemente alla legge sulla giustizia amministrativa, contro decisioni degli ordini professionali concernenti l'esonero dalla partecipazione al servizio di picchetto medico o dentistico regionale è data facoltà di ricorso all'Ufficio.
 
 #### Art. 45
 
-**…**
+**Numero d'emergenza**
+
+<sup>1</sup> I medici e i dentisti non possono utilizzare numeri a tariffa maggiorata per i loro numeri d'emergenza.
+
+## 7. Diritti e doveri dei pazienti
+
+### 7.1. Diritti
 
 #### Art. 46
 
-**…**
+**Autodeterminazione**
+
+<sup>1</sup> I pazienti hanno diritto al rispetto della loro libertà personale e della loro dignità. Hanno diritto all'informazione e all'autodeterminazione riguardo ai provvedimenti medici, terapeutici e infermieristici.
 
 #### Art. 47
 
-**…**
+**Informazione**
+
+<sup>1</sup> I pazienti hanno il diritto di essere informati conformemente all'articolo 28.
 
 #### Art. 48
 
-**…**
+**Presa in visione ed edizione**
 
-## 7. Rimedi giuridici e tasse
+<sup>1</sup> I pazienti hanno il diritto di prendere gratuitamente visione della documentazione che li riguarda, di richiederne una copia in forma scritta o elettronica oppure di ricevere l'originale contro una dichiarazione scritta di rinuncia all'obbligo di conservazione conformemente all'articolo 29 capoverso 3.
+
+<sup>2</sup> Il titolare dell'autorizzazione può limitare per interessi tutelabili preponderanti di terzi il diritto di presa in visione e di edizione.
 
 #### Art. 49
 
-**Disposizioni penali**
+**Assistenza spirituale**
 
-<sup>1</sup> Le contravvenzioni commesse con intenzione o per negligenza contro la presente legge o le relative ordinanze e decisioni, vengono punite con una multa fino a 20 000 franchi, per quanto non siano applicabili speciali disposizioni penali.
+<sup>1</sup> I pazienti e gli ospiti di case di cura hanno diritto a un'adeguata assistenza spirituale da parte delle Chiese riconosciute dal Cantone.
 
-<sup>2</sup> Persone che agiscono a titolo professionale o ripetutamente vengono punite con una multa fino a 100 000 franchi.
-
-<sup>3</sup> Le violazioni dell'articolo 15a vengono punite dal comune con multa fino a 1000 franchi, in caso di recidiva fino a 5000 franchi. Esse possono essere sanzionate in procedura di multa disciplinare secondo il diritto cantonale.
-
-<sup>4</sup> Nei casi di lieve entità può essere pronunciato un ammonimento.
+<sup>2</sup> Su domanda degli assistenti spirituali, gli ospedali, le cliniche e le case di cura sono autorizzati a comunicare loro il nome e l'indirizzo degli aderenti alla loro confessione, se dopo essere stati informati in merito i pazienti o gli ospiti non si sono opposti a tale comunicazione di dati.
 
 #### Art. 50
 
-**Sequestro, distruzione, chiusura dell'esercizio**
+**Cure palliative**
 
-<sup>1</sup> In caso di pericolo per la salute pubblica, prodotti, oggetti, componenti, piante, apparecchiature o sostanze pericolosi per la salute possono venire sequestrati. La restituzione viene disposta non appena non esiste più alcun pericolo. Se si prevede un pericolo duraturo, viene disposta l'utilizzazione o la distruzione dei prodotti, degli oggetti, delle componenti, delle piante, delle apparecchiature o delle sostanze sequestrati.
+<sup>1</sup> I malati incurabili e le persone in fin di vita hanno diritto a un'assistenza globale secondo i principi della medicina, della cura e dell'accompagnamento palliativi.
 
-<sup>2</sup> In caso di violazioni dell'articolo 15b capoverso 1 viene disposta la distruzione delle piante coltivate.
-
-<sup>3</sup> Se la salute pubblica è minacciata dall'esercizio di studi ed esercizi, può venire disposta la loro chiusura. La riapertura di studi rispettivamente esercizi viene disposta quando la minaccia è stata eliminata. Se si prevede un pericolo duraturo, viene disposta la liquidazione dello studio rispettivamente dell'esercizio.
-
-<sup>4</sup> Le spese per l'utilizzazione, la distruzione o la liquidazione sono a carico del proprietario. Le spese possono venire dedotte dal ricavato dell'utilizzo o della liquidazione.
-
-#### Art. 50a
-
-**Limitazione della distribuzione autonoma; 1. Garanzia della presa in visione**
-
-<sup>1</sup> In caso di fondato sospetto di contravvenzione alla limitazione del diritto di consegnare medicamenti, i medici devono consentire agli organi di polizia sanitaria di prendere visione delle fatture dei fornitori di medicamenti, delle fatture per medicamenti inviate agli assicuratori e della cartella clinica.
-
-#### Art. 50b
-
-**2. Revoca del diritto di consegnare medicamenti**
-
-<sup>1</sup> In caso di contravvenzione commessa con intenzione o per negligenza alla limitazione di consegna di cui all'articolo 36 capoverso 3 lettera b o in caso di rifiuto di concedere la presa in visione della documentazione secondo l'articolo 50a, ai medici interessati può essere revocato per un periodo da uno a cinque anni il diritto di consegnare medicamenti.
+### 7.2. Obblighi
 
 #### Art. 51
 
-**Rimedi giuridici**
+**Collaborazione**
 
-<sup>1</sup> Nelle cause amministrative, l'impugnazione si conforma alle disposizioni della legge sulla giustizia amministrativa.
+<sup>1</sup> Nei limiti delle loro possibilità, i pazienti devono collaborare con i professionisti della salute nel trattamento e nella cura.
 
-<sup>2</sup> In caso di sequestri e chiusure di esercizi secondo l'articolo 50 il termine d'impugnazione è di dieci giorni.
+<sup>2</sup> Sono tenuti a fornire le informazioni relative al loro stato di salute necessarie per la diagnosi e il trattamento ai professionisti della salute competenti e ad attenersi alle loro disposizioni.
 
-<sup>3</sup> Nelle cause penali la procedura si conforma alle disposizioni sulla procedura penale dinanzi ad autorità amministrative.
+<sup>3</sup> Sono tenuti ad avere riguardo nei confronti di altri pazienti e dei professionisti della salute e a rispettare il regolamento interno dell'azienda.
+
+## 8. Prevenzione e lotta contro le malattie trasmissibili dell'essere umano
 
 #### Art. 52
 
-**…**
+**Campagne di vaccinazione pubbliche**
 
-## 8. Disposizioni finali
+<sup>1</sup> I comuni devono svolgere campagne di vaccinazione pubbliche contro le malattie trasmissibili dell'essere umano definite dal Cantone.
+
+<sup>2</sup> Il Cantone fornisce e paga il vaccino, se il finanziamento non è a carico della Confederazione o dell'assicurazione obbligatoria delle cure medico-sanitarie.
+
+<sup>3</sup> Esso può concedere contributi alle spese di campagne di vaccinazione contro malattie trasmissibili dell'essere umano organizzate su base volontaria.
 
 #### Art. 53
 
-**Entrata in vigore**
+**Obbligo di vaccinazione**
 
-<sup>1</sup> Il Governo stabilisce la data dell'entrata in vigore.[^53-1]
+<sup>1</sup> Il Governo può dichiarare obbligatorie vaccinazioni secondo l'articolo 22 della legge federale sulla lotta contro le malattie trasmissibili dell'essere umano[^53-1].
 
-<sup>2</sup> …
-
-[^53-1]: Il Governo l'ha dichiarata in vigore, ad eccezione del capitolo VI: «Altre professioni dell'igiene pubblica», per il 1° gen. 1985; questo capitolo è stato dichiarato in vigore per il 1° lug. 1986
+[^53-1]: RS [818.101](https://db.clex.ch/link/Bund/818.101/it)
 
 #### Art. 54
 
-**Disposizioni transitorie**
+**Obbligo di collaborazione**
 
-<sup>1</sup> Le disposizioni emanate in base alla legge sull'organizzazione del servizio dell'igiene pubblica del 6 settembre 1953 prima dell'entrata in vigore della presente legge rimangono valide.
+<sup>1</sup> Il Cantone può obbligare aziende del settore sanitario e professionisti della salute a collaborare alla prevenzione e alla lotta contro malattie trasmissibili dell'essere umano.
 
-<sup>2</sup> …
+<sup>2</sup> Esso può farsi carico delle spese e delle perdite di guadagno risultanti alle aziende del settore e ai professionisti della salute a seguito dell'obbligo di collaborazione.
 
-<sup>3</sup> …
-
-<sup>4</sup> …
+## 9. Sepolture
 
 #### Art. 55
 
-**…**
+**Termine di attesa**
 
--
+<sup>1</sup> Le inumazioni e le cremazioni possono avvenire al più presto dopo l'accertamento del decesso da parte di un medico ammesso all'esercizio della professione in Svizzera. Il raffreddamento della salma deve essere garantito fino al momento della sepoltura.
+
+<sup>2</sup> Il certificato medico di morte vale quale autorizzazione di sepoltura. Sono fatti salvi i casi di sepoltura urgente per motivi di polizia sanitaria.
+
+#### Art. 56
+
+**Conservazione delle tombe, esumazione**
+
+<sup>1</sup> Le salme devono essere lasciate nella tomba per almeno 20 anni. Se a seguito della conformazione inidonea del terreno la decomposizione dura più a lungo, il termine è di almeno 25 anni.
+
+<sup>2</sup> Su domanda motivata dei familiari, il comune può autorizzare un'esumazione anticipata.
+
+## 10. Amministrazione della giustizia
+
+#### Art. 57
+
+**Procedura disciplinare**
+
+<sup>1</sup> L'Ufficio dispone misure disciplinari nei confronti di professionisti della salute in caso di:
+
+- a) infrazione alle limitazioni o agli oneri associati all'autorizzazione (art. 10 cpv. 2);
+- b) violazione dei diritti e degli interessi dei pazienti (art. 27);
+- c) mancata informazione dei pazienti (art. 28);
+- d) cartella sanitaria mancante o incompleta (art. 29);
+- e) trasmissione di dati personali a terzi senza il consenso del paziente (art. 30);
+- f) violazione delle prescrizioni concernenti l'annuncio e la pubblicità (art. 33);
+- g) violazione degli obblighi professionali (art. 37 cpv. 1 e 2);
+- h) mancata partecipazione al servizio di picchetto regionale (art. 38);
+- i) rivelazione di un segreto loro confidato per ragione della loro professione o di cui hanno avuto notizia nell'esercizio della medesima (art. 39 cpv. 1).
+
+<sup>2</sup> Le professioni disciplinate dalla legislazione federale sulle professioni mediche universitarie, sulle professioni psicologiche e sulle professioni sanitarie sono soggette alla procedura disciplinare prevista da questi atti normativi.
+
+#### Art. 58
+
+**Misure disciplinari**
+
+<sup>1</sup> L'Ufficio può disporre le seguenti misure disciplinari:
+
+- a) avvertimento;
+- b) ammonimento;
+- c) multa fino a 20 000 franchi;
+- d) divieto di esercizio della professione per sei anni al massimo (divieto temporaneo);
+- e) divieto definitivo di esercizio della professione per l'intero campo d'attività o per una parte di esso.
+
+<sup>2</sup> In aggiunta al divieto di esercizio della professione l'Ufficio può infliggere una multa.
+
+#### Art. 59
+
+**Misure provvisionali**
+
+<sup>1</sup> In presenza di fondato sospetto di minaccia per la salute dei pazienti, nel corso di un procedimento disciplinare l'Ufficio può:
+
+- a) limitare, associare a oneri o revocare l'autorizzazione all'esercizio della professione;
+- b) pronunciare un divieto di esercitare attività nel settore sanitario nei confronti di persone che esercitano un'attività soggetta all'obbligo di autorizzazione sotto la responsabilità professionale di terzi.
+
+#### Art. 60
+
+**Prescrizione**
+
+<sup>1</sup> Il perseguimento disciplinare si prescrive due anni dopo che l'Ufficio è venuto a conoscenza dell'episodio contestato.
+
+<sup>2</sup> Il termine viene interrotto da ogni atto istruttorio o processuale relativo all'episodio contestato.
+
+<sup>3</sup> Il perseguimento disciplinare si prescrive in ogni caso dieci anni dopo il verificarsi dell'episodio contestato.
+
+<sup>4</sup> Se la violazione degli obblighi professionali costituisce un'azione passibile di pena, fa stato il termine di prescrizione più lungo previsto dal diritto penale.
+
+<sup>5</sup> Se contro un professionista della salute viene avviato un procedimento disciplinare, per valutare la minaccia costituita da questa persona l'Ufficio può tenere in considerazione anche fattispecie il cui perseguimento è prescritto.
+
+#### Art. 61
+
+**Divieto di esercitare la professione**
+
+<sup>1</sup> L'Ufficio pronuncia un divieto di esercitare attività nel settore sanitario nei confronti di professionisti della salute che esercitano un'attività soggetta all'obbligo di autorizzazione sotto la responsabilità professionale di terzi, nonché nei confronti di persone che esercitano un'attività non ammessa senza autorizzazione, se:
+
+- a) commettono gravi errori professionali;
+- b) con la loro attività costituiscono una minaccia per la salute dei loro pazienti;
+- c) l'autorizzazione a esercitare è stata loro revocata in un Cantone o in un altro Paese; oppure
+- d) se contro di loro è stata pronunciata un'interdizione dall'esercizio della professione in un Cantone o in un altro Paese.
+
+#### Art. 62
+
+**Chiusura dello studio o dell'azienda**
+
+<sup>1</sup> Se uno studio o un'azienda costituisce una minaccia per la salute pubblica, l'Ufficio può decretarne la chiusura.
+
+<sup>2</sup> Le spese per la chiusura sono a carico del titolare dell'autorizzazione, in via sussidiaria del proprietario dello studio o dell'azienda.
+
+#### Art. 63
+
+**Pubblicazione**
+
+<sup>1</sup> Il rilascio, la limitazione, la revoca e l'estinzione di un'autorizzazione, la chiusura di studi e aziende, le interdizioni dell'esercizio della professione, nonché i divieti di esercitare qualsiasi attività nel settore sanitario possono essere pubblicati.
+
+#### Art. 64
+
+**Disposizioni penali 1. Cantone**
+
+<sup>1</sup> L'Ufficio sanziona contravvenzioni alla legislazione federale sulle professioni mediche universitarie, sulle professioni psicologiche, sulle professioni sanitarie e sulle malattie trasmissibili dell'essere umano.
+
+<sup>2</sup> Esso punisce le persone interessate con una multa fino a 20 000 franchi in caso di infrazioni riguardanti:
+
+- a) l'esercizio e l'annuncio di un'attività soggetta all'obbligo di autorizzazione senza disporre dell'autorizzazione all'esercizio della professione (art. 13);
+- b) il divieto di esercitare un'attività non ammessa senza autorizzazione (art. 14 cpv. 1).
+
+<sup>3</sup> Esso punisce i professionisti della salute con una multa fino a 20 000 franchi in caso di infrazioni riguardanti:
+
+- a) l'obbligo di indirizzare a un medico la persona trattata (art. 14 cpv. 2);
+- b) la mancata richiesta del consenso per l'autopsia (art. 32);
+- c) l'obbligo di collaborazione nell'adempimento dei compiti di vigilanza da parte dell'Ufficio (art. 34);
+- d) le prescrizioni concernenti l'assunzione di collaboratori (art. 35);
+- e) i loro obblighi di notifica (art. 36);
+- f) l'obbligo di trattare pazienti bisognosi di assistenza pubblica (art. 37 cpv. 6);
+- g) il divieto di utilizzare numeri a tariffa maggiorata per il loro numero d'emergenza (art. 45);
+- h) l'obbligo di collaborazione nella prevenzione e nella lotta contro malattie trasmissibili dell'essere umano (art. 54).
+
+<sup>4</sup> Esso punisce le aziende del settore sanitario con la multa fino a 50 000 franchi in caso di infrazioni riguardanti:
+
+- a) l'obbligo di richiedere un'autorizzazione d'esercizio (art. 17);
+- b) l'obbligo di attenersi al blocco delle ammissioni deciso (art. 26);
+- c) l'obbligo di salvaguardare i diritti e gli interessi dei pazienti (art. 27);
+- d) l'obbligo di informare i pazienti (art. 28);
+- e) l'obbligo di tenere una cartella sanitaria (art. 29);
+- f) l'obbligo di richiedere il consenso dei pazienti prima di trasmettere dati personali a terzi (art. 30);
+- g) l'obbligo di richiedere il consenso per l'autopsia (art. 32);
+- h) le prescrizioni concernenti l'annuncio e la pubblicità (art. 33);
+- i) l'obbligo di collaborazione nell'adempimento dei compiti di vigilanza da parte dell'Ufficio (art. 34);
+- j) l'obbligo di osservare le prescrizioni concernenti l'assunzione di collaboratori (art. 35);
+- k) i loro obblighi di notifica (art. 36);
+- l) l'obbligo di custodia e di protezione (art. 40);
+- m) l'obbligo di ammettere malati e feriti 24 ore su 24 (art. 41);
+- n) l'obbligo di indicare il numero di chiamata del servizio di coordinamento centrale (art. 42);
+- o) l'obbligo di collaborazione nella prevenzione e nella lotta contro malattie trasmissibili dell'essere umano (art. 54).
+
+<sup>5</sup> Se durante l'esercizio di un'attività che rientra nello scopo dell'azienda, in un'azienda viene commessa un'infrazione contro una disposizione della presente legge e se non risulta possibile attribuire questo atto a una determinata persona fisica, questa infrazione viene attribuita alla persona che dirige l'azienda.
+
+#### Art. 65
+
+**2. Comuni**
+
+<sup>1</sup> I comuni perseguono infrazioni contro le seguenti disposizioni:
+
+- a) tabacco (art. 8 cpv. 1 e 2);
+- b) esercizio di una struttura per fumatori (art. 9 cpv. 3);
+- c) sepolture (art. 55 e 56).
+
+<sup>2</sup> Infrazioni contro gli articoli 8 e 9 nonché contro le disposizioni concernenti le sepolture (art. 55 e 56) sono punite con la multa fino a 20 000 franchi.
+
+<sup>3</sup> I comuni sono competenti per la riscossione di multe disciplinari secondo quanto previsto dalla legislazione federale in materia di multe disciplinari[^65-1].
+
+<sup>4</sup> La procedura si conforma alla legge federale sulle multe disciplinari[^65-2].
+
+[^65-1]: RS [741.03](https://db.clex.ch/link/Bund/741.03/it); [741.031](https://db.clex.ch/link/Bund/741.031/it)
+[^65-2]: RS [741.03](https://db.clex.ch/link/Bund/741.03/it)
+
+#### Art. 66
+
+**Controversie risultanti dal rapporto terapeutico**
+
+<sup>1</sup> Controversie di diritto patrimoniale risultanti dal rapporto terapeutico tra paziente e aziende del settore sanitario sono giudicate dal giudice civile.
+
+#### Art. 67
+
+**Prelievo di tessuti e cellule**
+
+<sup>1</sup> L'ammissibilità del prelievo di tessuti e cellule rigenerabili da persone incapaci di discernimento o minorenni è giudicata, quale autorità indipendente, dal presidente del tribunale regionale del rispettivo luogo di domicilio.
+
+<sup>2</sup> Per la procedura di cui al capoverso 1 fanno stato le disposizioni del Codice di diritto processuale civile svizzero[^67-1] concernenti la procedura sommaria.
+
+[^67-1]: RS [272](https://db.clex.ch/link/Bund/272/it)
+
+## 11. Disposizioni finali
+
+#### Art. 68
+
+**Autorizzazioni esistenti**
+
+<sup>1</sup> Le autorizzazioni all'esercizio della professione di terapeuta naturalista nei settori della naturopatia tradizionale europea, della medicina tradizionale cinese o dell'omeopatia rilasciate prima dell'entrata in vigore della presente legge conservano la loro validità nei limiti dell'autorizzazione rilasciata.
+
+<sup>2</sup> Le autorizzazioni rilasciate a ospedali pubblici e cliniche rimangono valide per dieci anni a contare dalla data del rilascio.
+
+#### Art. 69
+
+**Procedimenti pendenti**
+
+<sup>1</sup> A procedimenti disciplinari e penali pendenti al momento dell'entrata in vigore della presente legge si applica il diritto previgente.
+
+2017-023
