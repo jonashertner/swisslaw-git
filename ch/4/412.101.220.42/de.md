@@ -3,18 +3,18 @@ sr: "412.101.220.42"
 title: Verordnung des SBFI vom 20. Dezember 2006 über die berufliche Grundbildung Metallbaukonstrukteurin/Metallbaukonstrukteur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/42"
 language: de
-version: 2024-04-01
+version: 2026-01-01
 adopted: 2006-12-20
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/42/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2007-42-20240401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/42/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/42/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2007-42-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/42/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Metallbaukonstrukteurin/Metallbaukonstrukteur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 20. Dezember 2006 (Stand am 1. April 2024)
+vom 20. Dezember 2006 (Stand am 1. Januar 2026)
 
 <table>
 <tr><td>64404</td><td>Metallbaukonstrukteurin EFZ/Metallbaukonstrukteur EFZ</td></tr>
@@ -28,10 +28,10 @@ gestützt auf Artikel 19 des Berufsbildungsgesetzes vom 13. Dezember 2002[^ingre
 
 verordnet:[^ingress-5]
 
-[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
-[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^ingress-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [SR 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
+[^ingress-3]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^ingress-4]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 [^ingress-5]: Fassung gemäss Ziff. I 30 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
 
 ## 1. Abschnitt: Gegenstand und Dauer
@@ -133,7 +133,7 @@ Die Sozial- und Selbstkompetenz umfasst Kenntnisse und Fähigkeiten in folgenden
 <sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
 
 [^7-1]: Fassung gemäss Ziff. II 30 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^7-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
 
 ## 4. Abschnitt: Anteile der Lernorte und Unterrichtssprache
 
@@ -196,9 +196,10 @@ Der Bildungsplan legt überdies fest:
 
 **Allgemeinbildung**
 
-Für den allgemein bildenden Unterricht gilt die Verordnung des SBFI vom 27. April 2006[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+Für den allgemein bildenden Unterricht gilt die Verordnung des SBFI vom 9. April 2025[^11-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^11-2].
 
-[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^11-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^11-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 ## 6. Abschnitt: Anforderungen an die Anbieter der Bildung im Lehrbetrieb
 
@@ -278,7 +279,10 @@ In der Abschlussprüfung werden die nachstehenden Qualifikationsbereiche wie fol
 - a. «Grundlagenarbeit» im Umfang von 7–8 Stunden. Die Lerndokumentation darf als Hilfsmittel verwendet werden.
 - b. «Individuelle praktische Arbeit, IPA» im Umfang von 24–80 Stunden. Die Lerndokumentation darf als Hilfsmittel verwendet werden.
 - c. Berufskenntnisse im Umfang von 3–4 Stunden. Die Prüfung wird schriftlich durchgeführt.
-- d. Allgemeinbildung. Die Abschlussprüfung im Qualifikationsbereich Allgemeinbildung richtet sich nach der Verordnung des SBFI vom 27. April 2006 über die Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung.
+- d. Allgemeinbildung. Die Abschlussprüfung im Qualifikationsbereich Allgemeinbildung richtet sich nach der Verordnung des SBFI vom 9. April 2025[^17-1] über Mindestvorschriften für die Allgemeinbildung in der beruflichen Grundbildung[^17-2].
+
+[^17-1]: [SR 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
+[^17-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2026 angepasst (siehe [AS 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
 
 #### Art. 18
 
@@ -360,7 +364,7 @@ Die Kommission hat folgende Aufgaben:
 - a. Sie passt den Bildungsplan nach Artikel 10 den wirtschaftlichen, technologischen und didaktischen Entwicklungen laufend, mindestens aber alle 5 Jahre an. Dabei trägt sie allfälligen neuen organisatorischen Aspekten der beruflichen Grundbildung Rechnung. Die Anpassungen bedürfen der Zustimmung der Vertreterinnen und Vertreter des Bundes und der Kantone.
 - b. Sie beantragt dem SBFI Änderungen dieser Verordnung, sofern die beobachteten Entwicklungen Regelungen dieser Verordnung, namentlich die Kompetenzen nach den Artikeln 4–6, betreffen.
 
-[^22-1]: [SR 172.31](https://fedlex.data.admin.ch/eli/cc/1996/1651_1651_1651)
+[^22-1]: [SR 172.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5533)
 
 ## 11. Abschnitt: Schlussbestimmungen
 
