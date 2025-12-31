@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: Ausführungsordnung vom 19. Juni 1970 zum Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: de
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20250701/de/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20250701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20250701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20260101-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Abgeschlossen In Washington am 19. Juni 1970 Von der Bundesversammlung genehmigt
 
 In der ab 1. Juli 2010 geltenden Fassung[^t-3]
 
-(Stand am 1. Juli 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: Amtliche deutsche Übersetzung nach Art. 67 Abs. 1 Bst. b des Vertrages. Der nachstehende Wortlaut der Ausführungsordnung weicht in verschiedenen Punkten geringfügig ab von der mit der Botschaft veröffentlichten Fassung (BBl **1976** I 137–275), die noch nicht der bereinigte amtliche Text war. Wie die parlamentarische Redaktionskommission festgestellt hat, sind die Unterschiede rein redaktioneller Natur.
 [^t-2]: Art. 1 Ziff. 2 des BB vom 29. Nov. 1976 ([AS 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
@@ -1315,7 +1315,7 @@ Die Herstellung der nach Artikel 13 erforderlichen Exemplare ist Aufgabe des Int
 
 33.1 Einschlägiger Stand der Technik für die internationale Recherche
 
-- a) Für die Zwecke des Artikels 15 Absatz 2 ist unter dem einschlägigen Stand der Technik alles zu verstehen, was der Öffentlichkeit irgendwo in der Welt mittels schriftlicher Offenbarung (unter Einschluss von Zeichnungen und anderen Darstellungen) zugänglich gemacht worden ist und was für die Feststellung bedeutsam ist, ob die beanspruchte Erfindung neu oder nicht neu ist und ob sie auf einer erfinderischen Leistung beruht oder nicht (d.h. ob sie offensichtlich ist oder nicht), vorausgesetzt, dass der Zeitpunkt, zu dem es der Öffentlichkeit zugänglich gemacht wurde, vor dem internationalen Anmeldedatum liegt.
+- a)[^partB-lvlu39-1] Für die Zwecke des Artikels 15 Absatz 2 ist unter dem einschlägigen Stand der Technik alles zu verstehen, was der Öffentlichkeit irgendwo in der Welt auf jedwede Art und Weise zugänglich gemacht worden ist, die für die Fest-stellung bedeutsam ist, ob die beanspruchte Erfindung neu oder nicht neu ist und ob sie auf einer erfinderischen Leistung beruht oder nicht (d. h. ob sie offensichtlich ist oder nicht), vorausgesetzt, dass der Zeitpunkt, zu dem es der Öffentlichkeit zugänglich gemacht wurde, vor dem internationalen Anmelde-datum liegt.
 - b) Verweist eine schriftliche Offenbarung auf eine mündliche Offenbarung, Benutzung, Ausstellung oder andere Massnahmen, durch die der Inhalt der schriftlichen Offenbarung der Öffentlichkeit vor dem internationalen Anmeldedatum zugänglich gemacht worden ist, so werden im internationalen Recherchenbericht diese Tatsache und der Zeitpunkt der Zugänglichkeit gesondert erwähnt, sofern die schriftliche Offenbarung der Öffentlichkeit erst an oder nach dem internationalen Anmeldedatum zugänglich war.
 - c) Veröffentlichte Anmeldungen oder Patente, deren Veröffentlichungsdatum mit dem internationalen Anmeldedatum der recherchierten internationalen Anmeldung zusammenfällt oder später liegt, deren Anmeldedatum oder gegebenenfalls beanspruchtes Prioritätsdatum aber früher liegt und die nach Artikel 15 Absatz 2 zum einschlägigen Stand der Technik gehören würden, wären sie vor dem internationalen Anmeldedatum veröffentlicht worden, werden im internationalen Recherchenbericht besonders erwähnt.
 
@@ -1331,36 +1331,45 @@ Die Herstellung der nach Artikel 13 erforderlichen Exemplare ist Aufgabe des Int
 - a) Die internationale Recherche wird auf der Grundlage der Ansprüche unter angemessener Berücksichtigung der Beschreibung und der Zeichnungen (soweit vorhanden) durchgeführt und berücksichtigt besonders die erfinderische Idee, auf die die Ansprüche gerichtet sind.
 - b) Soweit es möglich und sinnvoll ist, hat die internationale Recherche den gesamten Gegenstand zu erfassen, auf den die Ansprüche gerichtet sind, oder auf den sie, wie vernünftigerweise erwartet werden kann, nach einer Anspruchsänderung gerichtet werden könnten.
 
+[^partB-lvlu39-1]: Fassung gemäss der von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Jan. 2026 ([AS 2025 365](https://fedlex.data.admin.ch/eli/oc/2025/365)). Die neue Regel findet Anwendung auf jede internationale Anmeldung, für die der internationale Recherchenbericht oder die Erklärung nach Artikel 17 Absatz 2 Buchstabe a an oder nach diesem Datum erstellt wird.
+
 ### **Regel 34**Mindestprüfstoff
 
-34.1 Begriffsbestimmung
+[^partB-lvlu40-1]
 
-- a) Die Begriffsbestimmungen in Artikel 2 Ziffern i und ii sind auf diese Regel nicht anzuwenden.
+[^partB-lvlu40-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 14. Juli 2023, in Kraft seit 1. Jan. 2026 ([AS 2024 263](https://fedlex.data.admin.ch/eli/oc/2024/263)).
+
+- 34\.1 *Begriffsbestimmung*
+- a)
+
+  Die Begriffsbestimmungen in Artikel 2 Ziffern i und ii sind auf diese Regel nicht anzuwenden. Im Sinne dieser Regel umfasst der Begriff «Patentschriften»:
+
+  - i) veröffentlichte internationale Anmeldungen;
+  - ii) veröffentlichte regionale Patente;
+  - iii) von einem nationalen Amt oder dessen Rechtsvorgänger im oder nach dem Jahr 1920 erteilte veröffentlichte nationale Patente;
+  - iv) von Frankreich im oder nach dem Jahr 1920 erteilte Gebrauchszertifikate;
+  - v) von der ehemaligen Sowjetunion erteilte Erfinderscheine; und
+  - vi) Anmeldungen für alle in den Ziffern ii bis v erwähnten, im oder nach dem Jahr 1920 veröffentlichten Schutzrechtsformen.
+
 - b)
 
-  Der in Artikel 15 Absatz 4 erwähnte Prüfstoff («Mindestprüfstoff») setzt sich zusammen aus:
+  Ungeachtet des Absatzes c setzt sich der in Artikel 15 Absatz 4 erwähnte Prüfstoff («Mindestprüfstoff») zusammen aus:
 
-  - i) den in Absatz c näher bezeichneten «nationalen Patentschriften»,
-  - ii) den veröffentlichten internationalen (PCT) Anmeldungen, den veröffentlichten regionalen Patent- und Erfinderscheinanmeldungen und den veröffentlichten regionalen Patenten und Erfinderscheinen,
-  - iii) anderen, nicht zur Patentliteratur gehörenden Veröffentlichungen, auf die die Recherchenbehörden sich einigen und die in einer Aufstellung vom Internationalen Büro bekanntgegeben werden, sobald sie erstmalig festgelegt sind und so oft sie geändert werden.
+  - i) den in Absatz a näher bezeichneten «Patentschriften», die durch oder für das jeweilige nationale Amt oder dessen Rechtsnachfolger beziehungsweise durch das Internationale Büro gemäss den in den Verwaltungsvorschriften aufgeführten technischen Erfordernissen und den darin aufgeführten Erfordernissen betreffend die Zugänglichkeit sowie gegebenenfalls gemäss Regel 36.1 Ziffer ii verfügbar gemacht worden sind; und
+  - ii) anderen, nicht zur Patentliteratur gehörenden Veröffentlichungen, auf die die Internationalen Recherchenbehörden sich einigen und die in einer Aufstellung vom Internationalen Büro bekanntgegeben werden, sobald sie erstmalig festgelegt sind und so oft sie geändert werden.
 
-- c)
+- c) Zusätzlich zum in Absatz b angegebenen erforderlichen Prüfstoff soll die Internationale Recherchenbehörde möglichst auch Gebrauchsmusterschriften einsehen, die sich aus den im oder nach dem Jahr 1920 von einem nationalen Amt oder dessen Rechtsvorgänger erteilten Gebrauchsmustern und veröffentlichten Gebrauchsmusteranmeldungen zusammensetzen, vorausgesetzt, dass diese Gebrauchsmusterschriften durch oder für das jeweilige nationale Amt oder dessen Rechtsnachfolger gemäss den in den Verwaltungsvorschriften aufgeführten technischen Erfordernissen und den darin aufgeführten Erfordernissen betreffend die Zugänglichkeit verfügbar gemacht worden sind.
+- d)
 
-  Vorbehaltlich der Absätze d und e sind als «nationale Patentschriften» anzusehen:
+  Jedes nationale Amt, das seine Patentschriften und gegebenenfalls seine Gebrauchsmusterschriften entsprechend den in den Verwaltungsvorschriften aufgeführten Erfordernissen verfügbar macht:
 
-  - i) die im Jahre oder nach dem Jahre 1920 vom früheren Reichspatentamt Deutschlands, von Frankreich, von Japan, von der Schweiz (nur in deutscher und französischer Sprache), von der ehemaligen Sowjetunion, vom Vereinigten Königreich und von den Vereinigten Staaten von Amerika erteilten Patente,
-  - ii)[^partB-lvlu40-1] die von der Bundesrepublik Deutschland, der Republik Korea, der Russischen Föderation und der Volksrepublik China erteilten Patente,
-  - iii) die im Jahre oder nach dem Jahre 1920 in den in Ziffern i und ii genannten Ländern veröffentlichten Patentanmeldungen,
-  - iv) die von der ehemaligen Sowjetunion erteilten Erfinderscheine,
-  - v) die von Frankreich erteilten Gebrauchszertifikate und veröffentlichten Anmeldungen für solche Zertifikate,
-  - vi) die von anderen Ländern nach 1920 erteilten Patente und dort veröffentlichten Patentanmeldungen in deutscher, englischer, französischer und spanischer Sprache, für die keine Priorität in Anspruch genommen wird, vorausgesetzt, dass das nationale Amt des interessierten Staats diese Unterlagen aussondert und jeder Internationalen Recherchenbehörde zur Verfügung stellt.
+  - i) teilt dies dem Internationalen Büro mit;
+  - ii) macht neu veröffentlichte Patentschriften und gegebenenfalls Gebrauchsmusterschriften regelmässig verfügbar; und
+  - iii) stellt dem Internationalen Büro wenigstens jährlich eine Normdatei mit detaillierten Angaben zum gegenwärtigen Umfang der verfügbaren Patentschriften und gegebenenfalls der Gebrauchsmusterschriften entsprechend den Verwaltungsvorschriften zur Verfügung.
 
-- d) Wird eine Anmeldung einmal oder mehrfach neu veröffentlicht (zum Beispiel eine Offenlegungsschrift als Auslegeschrift), so ist keine Internationale Recherchenbehörde verpflichtet, alle Fassungen in ihren Prüfstoff aufzunehmen; folglich braucht jede Recherchenbehörde nur eine dieser Fassungen aufzubewahren. Ausserdem ist in den Fällen, in denen eine Anmeldung in Form eines Patents oder eines Gebrauchszertifikats (Frankreich) erteilt und herausgegeben wird, keine Internationale Recherchenbehörde verpflichtet, sowohl die Anmeldung als auch das Patent oder das Gebrauchszertifikat (Frankreich) in seinen Prüfstoff aufzunehmen; jede Behörde braucht nur entweder die Anmeldung oder das Patent oder das Gebrauchszertifikat (Frankreich) aufzubewahren.
-- e)[^partB-lvlu40-2] Ist Chinesisch, Japanisch, Koreanisch, Russisch oder Spanisch keine Amtssprache einer Internationalen Recherchenbehörde, so braucht die Behörde Patentschriften der Volksrepublik China, Japans, der Republik Korea, der Russischen Föderation und der ehemaligen Sowjetunion sowie Patentschriften in spanischer Sprache, für die Zusammenfassungen in englischer Sprache nicht allgemein verfügbar sind, nicht in ihren Prüfstoff aufzunehmen. Werden englische Zusammenfassungen nach dem Zeitpunkt des Inkrafttretens dieser Ausführungsordnung allgemein verfügbar, so sind die Patentschriften, auf die sich diese Zusammenfassungen beziehen, spätestens sechs Monate nachdem die Zusammenfassungen allgemein verfügbar geworden sind, in den Prüfstoff einzubeziehen. Werden Zusammenfassungen in englischer Sprache auf Gebieten, auf denen früher englische Zusammenfassungen allgemein verfügbar waren, nicht mehr erstellt, so hat die Versammlung zweckdienliche Massnahmen zu ergreifen, um für die unverzügliche Wiederherstellung der Zusammenfassungsdienste zu sorgen.
-- f) Für die Zwecke dieser Regel gelten Anmeldungen, die lediglich zur öffentlichen Einsichtnahme ausgelegt worden sind, nicht als veröffentlichte Anmeldungen.
-
-[^partB-lvlu40-1]: Fassung gemäss der von der PCT-Versammlung am 5. Okt. 2011 angenommenen Änd., in Kraft seit 1. Juli 2012 ([AS 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
-[^partB-lvlu40-2]: Fassung gemäss der von der PCT-Versammlung am 5. Okt. 2011 angenommenen Änd., in Kraft seit 1. Juli 2012 ([AS 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
+- e) Das Internationale Büro validiert die Verfügbarkeit der nach Absatz d mitgeteilten Patent- und Gebrauchsmusterschriften und veröffentlicht Einzelheiten zu den betreffenden Schriften sowie das Datum, ab welchem diese Teil des Mindestprüfstoffs werden, im Blatt. Das Internationale Büro unterhält ein Archiv mit den in Absatz d Ziffer iii genannten Normdateien, wie in den Verwaltungsvorschriften aufgeführt.
+- f) Wird eine Anmeldung mehrfach veröffentlicht, so ist jede Internationale Recherchenbehörde verpflichtet, nur die erste veröffentlichte Fassung in ihren Prüfstoff aufzunehmen, wenn keine der später veröffentlichten Fassungen zusätzliche Angaben enthält.
+- g) Für die Zwecke dieser Regel gelten Anmeldungen und Patente, die lediglich zur öffentlichen Einsichtnahme ausgelegt worden sind, nicht als veröffentlichte Anmeldungen und Patente.
 
 ### **Regel 35**Zuständige Internationale Recherchenbehörde
 
@@ -1388,15 +1397,19 @@ Jedes Anmeldeamt teilt dem Internationalen Büro in Übereinstimmung mit der anw
 [^partB-lvlu41-1]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter: [www.wipo.int/pct/de/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/de/texts/reservations/res_incomp.html) veröffentlicht.
 [^partB-lvlu41-2]: *Anmerkung des Herausgebers:* Diese Information wird auch auf der Internetseite der WIPO unter: [www.wipo.int/pct/de/texts/reservations/res\_incomp.html](http://www.wipo.int/pct/de/texts/reservations/res_incomp.html) veröffentlicht.
 
-### **Regel 36**Mindestanforderungen an die Internationale Recherchenbehörde
+### **Regel 36**Mindestanforderungen an die Internationalen Recherchenbehörden
 
-36.1 Aufzählung der Mindestanforderungen
+[^partB-lvlu42-1]
+
+[^partB-lvlu42-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 14. Juli 2023, in Kraft seit 1. Jan. 2026 ([AS 2024 263](https://fedlex.data.admin.ch/eli/oc/2024/263)). Bei der Annahme der Änderungen der Regeln 36.1 und 63.1, in denen die Mindestanforderungen nach den Artikeln 16 Absatz 3 Buchstabe c beziehungsweise 32 Absatz 3 aufgeführt werden, ist die Versammlung übereingekommen, dass im Fall einer zwischenstaatlichen Organisation, die zwecks Zusammenarbeit zwischen nationalen Ämtern der Mitgliedstaaten dieser zwischenstaatlichen Organisation gebildet wurde und selbst keine Patente erteilt oder Patentanmeldungen veröffentlicht, die in den Regeln 36.1 Ziffer ii und 63.1 Ziffer ii aufgeführten Anforderungen an die Organisation darin bestehen, dass die nationalen Ämter dieser Staaten als Teil des Mindestprüfstoffs alle von ihnen und gegebenenfalls von einem oder mehreren ihrer Rechtsvorgängern erteilten Patente und veröffentlichten Patentanmeldungen zur Einsichtnahme zugänglich machen.
+
+- 36\.1 *Aufzählung der Mindestanforderungen*
 
 Die Mindestanforderungen nach Artikel 16 Absatz 3 Buchstabe c sind folgende:
 
-- i) das nationale Amt oder die zwischenstaatliche Organisation muss wenigstens 100 hauptamtliche Beschäftigte mit ausreichender technischer Qualifikation zur Durchführung von Recherchen haben;
-- ii) das Amt oder die Organisation muss mindestens den in Regel 34 erwähnten Mindestprüfstoff auf Papier, in Mikroform oder auf elektronischen Speichermedien in einer für Recherchenzwecke geordneten Form besitzen oder Zugang dazu haben;
-- iii) das Amt oder die Organisation muss über einen Stab von Mitarbeitern verfügen, der Recherchen auf den erforderlichen technischen Gebieten durchführen kann und ausreichende Sprachkenntnisse besitzt, um wenigstens die Sprachen zu verstehen, in denen der Mindestprüfstoff nach Regel 34 abgefasst oder in die er übersetzt ist;
+- i) das nationale Amt oder die zwischenstaatliche Organisation muss mindestens 100 hauptamtliche Beschäftigte mit ausreichender technischer Qualifikation zur Durchführung von Recherchen auf den erforderlichen technischen Gebieten haben;
+- ii) das Amt oder die Organisation muss als Teil des Mindestprüfstoffs nach Regel 34 entsprechend den in den Verwaltungsvorschriften aufgeführten Erfordernissen alle von ihm beziehungsweise ihr und gegebenenfalls von dem oder den Rechtsvorgängern erteilten Patente und veröffentlichten Patentanmeldungen zur Einsichtnahme verfügbar machen;
+- iii) das Amt oder die Organisation muss mindestens den in Regel 34 erwähnten Mindestprüfstoff für Recherchenzwecke entsprechend den Verwaltungsvorschriften besitzen oder den Zugang dazu aufrechterhalten;
 - iv) das Amt oder die Organisation muss über ein Qualitätsmanagementsystem mit internen Revisionsvorkehrungen entsprechend den gemeinsamen Regeln für die Durchführung von internationalen Recherchen verfügen;
 - v) das Amt oder die Organisation muss als mit der internationalen vorläufigen Prüfung beauftragte Behörde eingesetzt sein.
 
@@ -2398,15 +2411,19 @@ Ist zum Zeitpunkt der Einreichung von Änderungen nach Artikel 19 bereits ein An
 - b) Das Internationale Büro übermittelt der mit der internationalen vorläufigen Prüfung beauftragten Behörde innerhalb von zwei Monaten nach dem Eingangsdatum des Übersetzungsantrags eine Kopie der Übersetzung; gleichzeitig übermittelt es dem Anmelder eine Kopie.
 - c) Der Anmelder kann schriftlich zur Richtigkeit der Übersetzung Stellung nehmen und hat eine Abschrift dieser Stellungnahme der mit der internationalen vorläufigen Prüfung beauftragten Behörde und dem Internationalen Büro zu übermitteln.
 
-### **Regel 63**Mindestanforderungen für die mit der internationalen vorläufigen Prüfung beauftragten Behörden
+### **Regel 63**Mindestanforderungen an die mit der internationalen vorläufigen Prüfung beauftragten Behörden
 
-63.1 Aufzählung der Mindestanforderungen
+[^partC-lvlu14-1]
+
+[^partC-lvlu14-1]: Fassung gemäss Beschluss der PCT-Versammlung vom 14. Juli 2023, in Kraft seit 1. Jan. 2026 ([AS 2024 263](https://fedlex.data.admin.ch/eli/oc/2024/263)). Bei der Annahme der Änderungen der Regeln 36.1 und 63.1, in denen die Mindestanforderungen nach den Artikeln 16 Absatz 3 Buchstabe c beziehungsweise 32 Absatz 3 aufgeführt werden, ist die Versammlung übereingekommen, dass im Fall einer zwischenstaatlichen Organisation, die zwecks Zusammenarbeit zwischen nationalen Ämtern der Mitgliedstaaten dieser zwischenstaatlichen Organisation gebildet wurde und selbst keine Patente erteilt oder Patentanmeldungen veröffentlicht, die in den Regeln 36.1 Ziffer ii und 63.1 Ziffer ii aufgeführten Anforderungen an die Organisation darin bestehen, dass die nationalen Ämter dieser Staaten als Teil des Mindestprüfstoffs alle von ihnen und gegebenenfalls von einem oder mehreren ihrer Rechtsvorgängern erteilten Patente und veröffentlichten Patentanmeldungen zur Einsichtnahme zugänglich machen.
+
+- 63\.1 *Aufzählung der Mindestanforderungen*
 
 Die Mindestanforderungen nach Artikel 32 Absatz 3 sind folgende:
 
-- i) das nationale Amt oder die zwischenstaatliche Organisation müssen mindestens 100 hauptamtliche Beschäftigte mit ausreichender technischer Qualifikation zur Durchführung der Prüfungen haben;
-- ii) das Amt oder die Organisation müssen mindestens den in Regel 34 erwähnten Mindestprüfstoff in einer für Prüfzwecke geordneten Form besitzen;
-- iii) das Amt oder die Organisation muss über einen Stab von Mitarbeitern verfügen, der Prüfungen auf den erforderlichen technischen Gebieten durchführen kann und ausreichende Sprachkenntnisse besitzt, um wenigstens die Sprachen zu verstehen, in denen der Mindestprüfstoff nach Regel 34 abgefasst oder in die er übersetzt ist;
+- i) das nationale Amt oder die zwischenstaatliche Organisation muss mindestens 100 hauptamtliche Beschäftigte mit ausreichender technischer Qualifikation zur Durchführung von Prüfungen auf den erforderlichen technischen Gebieten haben;
+- ii) das Amt oder die Organisation muss als Teil des Mindestprüfstoffs nach Regel 34 entsprechend den in den Verwaltungsvorschriften aufgeführten Erfordernissen alle von ihm beziehungsweise ihr und gegebenenfalls von dem oder den Rechtsvorgängern erteilten Patente und veröffentlichten Patentanmeldungen zur Einsichtnahme verfügbar machen;
+- iii) das Amt oder die Organisation muss mindestens den in Regel 34 erwähnten Mindestprüfstoff in einer für Prüfzwecke geordneten Form besitzen;
 - iv) das Amt oder die Organisation muss über ein Qualitätsmanagementsystem mit internen Revisionsvorkehrungen entsprechend den gemeinsamen Regeln für die Durchführung der internationalen vorläufigen Prüfung verfügen;
 - v) das Amt oder die Organisation muss als Internationale Recherchenbehörde eingesetzt sein.
 
@@ -2414,7 +2431,7 @@ Die Mindestanforderungen nach Artikel 32 Absatz 3 sind folgende:
 
 64.1 Stand der Technik
 
-- a) Für die Anwendung des Artikels 33 Absätze 2 und 3 wird alles, was der Öffentlichkeit irgendwo in der Welt durch schriftliche Offenbarung (unter Einschluss von Zeichnungen und anderen Darstellungen) vor dem massgeblichen Zeitpunkt zugänglich war, zum Stand der Technik gerechnet.
+- a)[^partC-lvlu15-1] Für die Anwendung des Artikels 33 Absätze 2 und 3 wird alles, was der Öffentlichkeit irgendwo in der Welt auf jedwede Art und Weise vor dem massgeblichen Zeitpunkt zugänglich war, zum Stand der Technik gerechnet.
 - b)
 
   Für die Anwendung des Absatzes a ist massgeblicher Zeitpunkt:
@@ -2423,13 +2440,16 @@ Die Mindestanforderungen nach Artikel 32 Absatz 3 sind folgende:
   - ii) wenn die vorläufig zu prüfende internationale Anmeldung die Priorität einer früheren Anmeldung beansprucht und ein internationales Anmeldedatum hat, das innerhalb der Prioritätsfrist liegt, das Anmeldedatum der früheren Anmeldung, es sei denn, die mit der internationalen vorläufigen Prüfung beauftragte Behörde ist der Auffassung, dass der Prioritätsanspruch nicht gültig ist,
   - iii) wenn die vorläufig zu prüfende internationale Anmeldung die Priorität einer früheren Anmeldung beansprucht und ein internationales Anmeldedatum hat, das nach dem Datum, an dem die Prioritätsfrist abgelaufen ist, aber innerhalb eines Zeitraums von zwei Monaten seit diesem Datum liegt, das Anmeldedatum dieser früheren Anmeldung, es sei denn, die mit der internationalen vorläufigen Prüfung beauftragte Behörde ist der Auffassung, dass der Prioritätsanspruch aus anderen Gründen als der Tatsache, dass die internationale Anmeldung ein internationales Anmeldedatum hat, das nach dem Datum, an dem die Prioritätsfrist abgelaufen ist, nicht gültig ist.
 
-64.2 Nicht-schriftliche Offenbarungen
+64.2[^partC-lvlu15-2] Nicht-schriftliche Offenbarungen
 
-Sind der Öffentlichkeit vor dem nach Regel 64.1 Absatz b massgeblichen Zeitpunkt Kenntnisse durch mündliche Offenbarung, Benutzung, Ausstellung oder auf andere nicht‑schriftliche Weise zugänglich gemacht worden («nicht‑schriftliche Offenbarung») und ist das Datum einer solchen Offenbarung in einer schriftlichen Offenbarung enthalten, die der Öffentlichkeit zu diesem oder einem späteren Zeitpunkt zugänglich gemacht worden ist, so wird die nicht-schriftliche Offenbarung nicht zum Stand der Technik nach Artikel 33 Absätze 2 und 3 gerechnet. Im internationalen vorläufigen Prüfungsbericht wird jedoch auf solche nicht‑schriftliche Offenbarungen nach Regel 70.9 hingewiesen.
+Sind der Öffentlichkeit vor dem nach Regel 64.1 Absatz b massgeblichen Zeitpunkt Kenntnisse durch mündliche Offenbarung, Benutzung, Ausstellung oder auf andere nicht schriftliche Weise zugänglich gemacht worden («nicht-schriftliche Offenbarung») und ist das Datum einer solchen Offenbarung in einer schriftlichen Offenbarung enthalten, die der Öffentlichkeit zu diesem oder einem späteren Zeitpunkt zugänglich gemacht worden ist, so wird im internationalen vorläufigen Prüfungsbericht auf solche nicht-schriftliche Offenbarungen nach Regel 70.9 hingewiesen.
 
 64.3 Bestimmte veröffentlichte Unterlagen
 
 Anmeldungen oder Patente, die nach Artikel 33 Absätze 2 und 3 zum Stand der Technik zu rechnen wären, hätte ihre Veröffentlichung vor dem in Regel 64.1 genannten Zeitpunkt stattgefunden, die aber erst zu dem in Regel 64.1 genannten massgeblichen oder zu einem späteren Zeitpunkt veröffentlicht, jedoch vor dem massgeblichen Zeitpunkt eingereicht worden sind oder die Priorität einer vor diesem Zeitpunkt eingereichten früheren Anmeldung beanspruchen, gelten nicht als Stand der Technik nach Artikel 33 Absätze 2 und 3. Im internationalen vorläufigen Prüfungsbericht wird jedoch auf solche Anmeldungen oder Patente nach Regel 70.10 hingewiesen.
+
+[^partC-lvlu15-1]: Fassung gemäss der von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Jan. 2026 ([AS 2025 365](https://fedlex.data.admin.ch/eli/oc/2025/365)). Die neue Regel findet Anwendung auf jede internationale Anmeldung, für die der internationale Recherchenbericht oder die Erklärung nach Artikel 17 Absatz 2 Buchstabe a an oder nach diesem Datum erstellt wird.
+[^partC-lvlu15-2]: Fassung gemäss der von der PCT-Versammlung am 17. Juli 2024 angenommenen Änd., in Kraft seit 1. Jan. 2026 ([AS 2025 365](https://fedlex.data.admin.ch/eli/oc/2025/365)). Die neue Regel findet Anwendung auf jede internationale Anmeldung, für die der internationale Recherchenbericht oder die Erklärung nach Artikel 17 Absatz 2 Buchstabe a an oder nach diesem Datum erstellt wird.
 
 ### **Regel 65**Erfinderische Tätigkeit oder Nichtoffensichtlichkeit
 
@@ -3131,7 +3151,7 @@ Jedes nationale Amt oder jede zwischenstaatliche Organisation kann vorsehen, das
 
 90.1 Bestellung als Anwalt
 
-- a) Eine Person, die befugt ist, vor dem nationalen Amt, bei dem die internationale Anmeldung eingereicht wird, oder, wenn die internationale Anmeldung beim Internationalen Büro eingereicht wird, in bezug auf die internationale Anmeldung vor dem Internationalen Büro als Anmeldeamt aufzutreten, kann vom Anmelder als Anwalt zu seiner Vertretung vor dem Anmeldeamt, dem Internationalen Büro, der Internationalen Recherchenbehörde, einer für die ergänzende Recherche bestimmten Behörde und der mit der internationalen
+- a) Eine Person, die befugt ist, vor dem nationalen Amt, bei dem die internationale Anmeldung eingereicht wird, oder, wenn die internationale Anmeldung beim Internationalen Büro eingereicht wird, in bezug auf die internationale Anmeldung vor dem Internationalen Büro als Anmeldeamt aufzutreten, kann vom Anmelder als Anwalt zu seiner Vertretung vor dem Anmeldeamt, dem Internationalen Büro, der Internationalen Recherchenbehörde, einer für die ergänzende Recherche bestimmten Behörde und der mit der internationalen vorläufigen Prüfung beauftragten Behörde bestellt werden.
 - b) Eine Person, die befugt ist, vor dem nationalen Amt oder der zwischenstaatlichen Organisation aufzutreten, die als Internationale Recherchenbehörde handelt, kann vom Anmelder als Anwalt zu seiner Vertretung speziell vor dieser Behörde bestellt werden.
 - b<sup>bis</sup>) Eine Person, die befugt ist, vor dem nationalen Amt oder der zwischenstaatlichen Organisation aufzutreten, die als für die ergänzende Recherche bestimmte Behörde handelt, kann vom Anmelder als Anwalt zu seiner Vertretung speziell vor dieser Behörde bestellt werden.
 - c) Eine Person, die befugt ist, vor dem nationalen Amt oder der zwischenstaatlichen Organisation aufzutreten, die als mit der internationalen vorläufigen Prüfung beauftragte Behörde handelt, kann vom Anmelder als Anwalt zu seiner Vertretung speziell vor dieser Behörde bestellt werden.
@@ -3243,7 +3263,10 @@ Eine Zurücknahmeerklärung nach den Regeln 90<sup>bis</sup>.1–90<sup>bis</sup
 91.1 Berichtigung offensichtlicher Fehler
 
 - a) Auf Antrag des Anmelders kann ein in der internationalen Anmeldung oder in einem anderen vom Anmelder eingereichten Schriftstücken enthaltener offensichtlicher Fehler nach dieser Regel berichtigt werden.
-- b) Die Berichtigung eines Fehlers bedarf der Zustimmung der «zuständigen Behörde», nämlich
+- b)
+
+  Die Berichtigung eines Fehlers bedarf der Zustimmung der «zuständigen Behörde», nämlich:
+
   - i) im Falle eines Fehlers im Antragsformblatt der internationalen Anmeldung oder in einer Berichtigung desselben – des Anmeldeamts,
   - ii) im Falle eines Fehlers in der Beschreibung, den Ansprüchen oder den Zeichnungen oder in einer Berichtigung derselben, sofern die mit der internationalen vorläufigen Prüfung beauftragte Behörde nicht nach Ziffer iii zuständig ist – der internationalen Recherchenbehörde,
   - iii) im Falle eines Fehlers in der Beschreibung, den Ansprüchen oder den Zeichnungen oder in einer Berichtigung derselben, oder in einer Änderung nach Artikel 19 oder 34, wenn ein Antrag auf internationale vorläufige Prüfung gestellt und nicht zurückgenommen wurde und das Datum, an dem die internationale vorläufige Prüfung nach Regel 69.1 beginnen muss, abgelaufen ist – der mit der internationalen vorläufigen Prüfung beauftragten Behörde,

@@ -3,11 +3,11 @@ sr: "0.232.141.11"
 title: "Règlement d'exécution du 19 juin 1970 du Traité de coopération en matière de brevets"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/942_941_941"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1970-06-19
 in_force: 1978-01-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20250701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/942_941_941/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1978-942_941_941-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/942_941_941/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Entré en vigueur pour la Suisse le 24 janvier 1978
 
 Texte en vigueur à partir du 1<sup>er</sup> juillet 2010[^t-2]
 
-(État le 1<sup>er</sup> juillet 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Art. 1<sup>er</sup> ch. 2 de l’AF du 29 nov. 1976 ([RO 1977 1709](https://fedlex.data.admin.ch/eli/oc/1977/1709_1709_1709))
 [^t-2]: Modifié par l’Assemblée de l’Union internationale de coopération en matière de brevets (Assemblée du PCT) le 14 avril 1978, le 3 oct. 1978, le 1<sup>er</sup> mai 1979, le 16 juin 1980, le 26 sept. 1980, le 3 juil. 1981, le 10 sept. 1982, le 4 oct. 1983, le 3 fév. 1984, le 28 sep. 1984, le 1<sup>er</sup> oct. 1985, le 12 juil. 1991, le 2 oct. 1991, le 29 sept. 1992, le 29 sept. 1993, le 3 oct. 1995, le 1<sup>er</sup> oct. 1997, le 15 sept. 1998, le 29 sept. 1999, le 17 mars 2000, le 3 oct. 2000, le 3 oct. 2001, le 1<sup>er</sup> oct. 2002, le 1<sup>er</sup> oct. 2003, le 5 oct. 2004, le 5 oct. 2005, le 3 oct. 2006, le 12 nov. 2007, le 15 mai 2008, le 29 sept. 2008 et le 1<sup>er</sup> oct. 2009 ([RO 2011 4129](https://fedlex.data.admin.ch/eli/oc/2011/582)).
@@ -1437,9 +1437,11 @@ Le Bureau international est responsable de la préparation des copies visées à
 
 ### 33.1 État de la technique pertinent aux fins de la recherche internationale
 
-- a) Aux fins de l’art. 15.2), l’état de la technique pertinent comprend tout ce qui a été rendu accessible au public en tous lieux du monde par une divulgation écrite (y compris des dessins et autres illustrations) et qui est susceptible d’aider à déterminer si l’invention dont la protection est demandée est nouvelle ou non et si elle implique ou non une activité inventive (c’est-à-dire si elle est évidente ou non), à condition que la mise à la disposition du public ait eu lieu avant la date du dépôt international.
+- a)[^33-subdivu1-1] Aux fins de l’article 15.2), l’état de la technique pertinent comprend tout ce qui a été rendu accessible au public en tous lieux du monde par quelque moyen que ce soit et qui est susceptible d’aider à déterminer si l’invention dont la protection est demandée est nouvelle ou non et si elle implique ou non une activité inventive (c’est-à-dire si elle est évidente ou non), à condition que la mise à la disposition du public ait eu lieu avant la date du dépôt international.
 - b) Lorsqu’une divulgation écrite se réfère à une divulgation orale, à un usage, à une exposition, ou à tous autres moyens par lesquels le contenu de la divulgation écrite a été rendu accessible au public, et lorsque cette mise à la disposition du public a eu lieu à une date antérieure à celle du dépôt international, le rapport de recherche internationale mentionne séparément ce fait et la date à laquelle il a eu lieu, si la date à laquelle la mise à la disposition du public de la divulgation écrite a eu lieu est identique ou postérieure à celle du dépôt international.
 - c) Toute demande publiée et tout brevet dont la date de publication est identique ou postérieure, mais dont la date de dépôt – ou, le cas échéant, la date de priorité revendiquée – est antérieure, à la date du dépôt international de la demande internationale faisant l’objet de la recherche, et qui feraient partie de l’état de la technique pertinent aux fins de l’art. 15.2) s’ils avaient été publiés avant la date du dépôt international, sont spécialement mentionnés dans le rapport de recherche internationale.
+
+[^33-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 365](https://fedlex.data.admin.ch/eli/oc/2025/365)). La mod. de la règle 33 entre en vigueur le 1<sup>er</sup> janv. 2026 et s’applique à toute demande internationale pour laquelle le rapport de recherche internationale ou la déclaration visée à l’article 17.2)a) est établi à cette ou à une date postérieure.
 
 ### 33.2 Domaines que la recherche internationale doit couvrir
 
@@ -1455,36 +1457,41 @@ Le Bureau international est responsable de la préparation des copies visées à
 
 #### Règle 34
 
-**Documentation minimale**
+**Documentation minimale**[^34-1]
 
-### 34.1 Définition
+- 34\.1 *Définition*
+- a)
 
-- a) Les définitions figurant à l’art. 2.i) et ii) ne s’appliquent pas aux fins de la présente règle.
+  Les définitions figurant à l’art. 2.i) et ii) ne s’appliquent pas aux fins de la présente règle. Aux fins de la présente règle, les «documents de brevets» comprennent:
+
+  - i) les demandes internationales publiées;
+  - ii) les brevets régionaux publiés;
+  - iii) les brevets nationaux publiés délivrés par un office national ou son prédécesseur en droit à partir de 1920;
+  - iv) les certificats d’utilité délivrés par la France à partir de 1920;
+  - v) les certificats d’auteur d’invention délivrés par l’ex Union soviétique, et
+  - vi) les demandes de toute forme de titre de protection visé aux points ii) à v), publiées à partir de 1920.
+
 - b)
 
-  La documentation mentionnée à l’art. 15.4) («documentation minimale») consiste en:
+  Nonobstant l’al. c), la documentation mentionnée à l’art. 15.4) («documentation minimale») consiste en:
 
-  - i) les «documents nationaux de brevets» définis à l’al. c);
-  - ii) les demandes internationales (PCT) publiées, les demandes régionales publiées de brevets et de certificats d’auteur d’invention ainsi que les brevets et certificats d’auteur d’invention régionaux publiés;
-  - iii) tous autres éléments, constituant la littérature autre que celle des brevets, convenus entre les administrations chargées de la recherche internationale et dont la liste est publiée par le Bureau international après le premier accord à leur sujet et après chaque modification.
+  - i) les «documents de brevets» définis à l’al. a), qui ont été mis à disposition par l’office national concerné ou son successeur en droit, ou pour leur compte, ou, le cas échéant, par le Bureau international, conformément aux exigences techniques et d’accessibilité spécifiées dans les instructions administratives et, selon que de besoin, aux dispositions de la règle 36.1)ii), et
+  - ii) tous autres éléments, constituant la littérature autre que celle des brevets, convenus entre les administrations chargées de la recherche internationale et dont la liste est publiée par le Bureau international après le premier accord à leur sujet et après chaque modification.
 
-- c)
+- c) En plus de consulter la documentation requise énoncée à l’al. b), l’administration chargée de la recherche internationale doit également consulter, de préférence, les documents relatifs aux modèles d’utilité comprenant les modèles d’utilité délivrés, et les demandes de modèle d’utilité publiées, à partir de 1920, par un office national ou son prédécesseur en droit, à condition que lesdits documents relatifs aux modèles d’utilité aient été mis à disposition par l’office national concerné ou son successeur en droit, ou pour leur compte, conformément aux exigences techniques et d’accessibilité spécifiées dans les instructions administratives.
+- d)
 
-  Sous réserve des al. d) et e), sont considérés comme «documents nationaux de brevets»:
+  Chaque office national qui met à disposition ses documents de brevets et, le cas échéant, ses documents relatifs aux modèles d’utilité conformément aux exigences spécifiées dans les instructions administratives:
 
-  - i) les brevets délivrés à partir de 1920 par l’ancien Reichspatentamt allemand, les États-Unis d’Amérique, la France, le Japon, le Royaume-Uni, la Suisse (en langues allemande et française seulement) et l’ex-Union soviétique;
-  - ii)[^34-subdiv-1] les brevets délivrés par la Fédération de Russie, la République de Corée, la République fédérale d’Allemagne et la République populaire de Chine;
-  - iii) les demandes de brevets, s’il y en a, publiées à partir de 1920 dans les pays mentionnés aux points i) et ii);
-  - iv) les certificats d’auteur d’invention délivrés par l’ex-Union soviétique;
-  - v) les certificats d’utilité délivrés par la France ainsi que les demandes publiées de tels certificats;
-  - vi) les brevets délivrés après 1920 par tout autre pays, s’ils sont rédigés en allemand, en anglais, en espagnol ou en français et s’ils ne contiennent aucune revendication de priorité, ainsi que les demandes de tels brevets publiées après 1920, à condition que l’office national du pays en cause trie ces brevets et ces demandes et les mette à la disposition de chaque administration chargée de la recherche internationale.
+  - i) en informe le Bureau international en conséquence;
+  - ii) met régulièrement à disposition les documents de brevets et, le cas échéant, les documents relatifs aux modèles d’utilité nouvellement publiés, et
+  - iii) fournit au Bureau international, au moins une fois par an, un fichier d’autorité, détaillant la situation actuelle des documents de brevets et, le cas échéant, des documents relatifs aux modèles d’utilité disponibles, conformément aux instructions administratives.
 
-- d) Lorsqu’une demande est publiée à nouveau (par exemple, publication d’une Offenlegungsschrift en tant qu’Auslegeschrift) une ou plusieurs fois, aucune administration chargée de la recherche internationale n’a l’obligation d’en conserver toutes les versions dans sa documentation; par conséquent, chaque administration chargée de la recherche internationale est autorisée à n’en conserver qu’une version. Par ailleurs, lorsqu’une demande est acceptée et aboutit à la délivrance d’un brevet ou d’un certificat d’utilité (France), aucune administration chargée de la recherche internationale n’a l’obligation de conserver dans sa documentation à la fois la demande et le brevet ou le certificat d’utilité (France); par conséquent, chaque administration chargée de la recherche internationale est autorisée à garder dans ses dossiers soit la demande, soit le brevet ou le certificat d’utilité (France).
-- e)[^34-subdiv-2] Chaque administration chargée de la recherche internationale dont la langue officielle ou l’une des langues officielles n’est pas le chinois, le coréen, l’espagnol, le japonais ou le russe est autorisée à ne pas faire figurer dans sa documentation les éléments de la documentation de brevets de la République populaire de Chine, les éléments de la documentation de brevets de la République de Corée, les éléments de la documentation de brevets en espagnol, les éléments de la documentation de brevets du Japon et les éléments de la documentation de brevets de la Fédération de Russie et de l’ex Union soviétique, respectivement, pour lesquels des abrégés anglais ne sont pas généralement disponibles. Si des abrégés anglais deviennent généralement disponibles après la date d’entrée en vigueur du présent règlement d’exécution, les éléments que ces abrégés concernent seront insérés dans la documentation dans les six mois suivant la date à laquelle ces abrégés deviennent généralement disponibles. En cas d’interruption de services d’abrégés anglais dans les domaines techniques où des abrégés anglais étaient généralement disponibles, l’Assemblée prend les mesures appropriées en vue de rétablir promptement de tels services dans ces domaines techniques.
-- f) Aux fins de la présente règle, les demandes qui ont seulement été mises à la disposition du public pour inspection ne sont pas considérées comme des demandes publiées.
+- e) Le Bureau international valide la disponibilité des documents de brevets et des documents relatifs aux modèles d’utilité notifiés conformément à l’al. d) et publie dans la Gazette le détail des documents concernés et la date à partir de laquelle ils feront partie de la documentation minimale. Le Bureau international administre un référentiel contenant les fichiers d’autorité visés à l’al. d)iii), conformément aux instructions administratives.
+- f) Lorsqu’une demande est publiée plusieurs fois, chaque administration chargée de la recherche internationale n’a l’obligation d’en conserver dans sa documentation que la première version publiée si aucune des versions publiées ultérieurement ne contient d’éléments supplémentaires.
+- g) Aux fins de la présente règle, les demandes et les brevets qui ont seulement été mis à la disposition du public pour inspection ne sont pas considérés comme des demandes et des brevets publiés.
 
-[^34-subdiv-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
-[^34-subdiv-2]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 5 oct. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2012 3541](https://fedlex.data.admin.ch/eli/oc/2012/396)).
+[^34-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 263](https://fedlex.data.admin.ch/eli/oc/2024/263)).
 
 #### Règle 35
 
@@ -1513,17 +1520,19 @@ Chaque office récepteur indique au Bureau international, conformément aux term
 
 #### Règle 36
 
-**Exigences minimales pour les administrations chargées de la recherche internationale**
+**Exigences minimales pour les administrations chargées de la recherche internationale**[^36-1]
 
-### 36.1 Définition des exigences minimales
+- 36\.1 *Définition des exigences minimales*
 
 Les exigences minimales mentionnées à l’art. 16.3)c) sont les suivantes:
 
-- i) l’office national ou l’organisation intergouvernementale doit avoir au moins cent employés à plein temps possédant des qualifications techniques suffisantes pour procéder aux recherches;
-- ii) cet office ou cette organisation doit avoir en sa possession au moins la documentation minimale de la règle 34, ou avoir accès à cette documentation minimale, laquelle doit être disposée d’une manière adéquate aux fins de la recherche et se présenter sur papier, sur microforme ou sur un support électronique;
-- iii) cet office ou cette organisation doit disposer d’un personnel capable de procéder à la recherche dans les domaines techniques sur lesquels la recherche doit porter et possédant les connaissances linguistiques nécessaires à la compréhension au moins des langues dans lesquelles la documentation minimale de la règle 34 est rédigée ou traduite;
+- i) l’office national ou l’organisation intergouvernementale doit avoir au moins cent employés à plein temps possédant des qualifications techniques suffisantes pour procéder aux recherches dans les domaines techniques sur lesquels la recherche doit porter;
+- ii) cet office ou cette organisation doit mettre à disposition pour consultation, dans le cadre de la documentation minimale visée à la règle 34, conformément aux exigences spécifiées dans les instructions administratives, tout brevet délivré et toute demande de brevet publiée par lui ou par elle et, le cas échéant, par son ou ses prédécesseurs en droit;
+- iii) cet office ou cette organisation doit avoir en sa possession au moins la documentation minimale de la règle 34, ou maintenir l’accès à cette documentation minimale, aux fins de la recherche conformément aux instructions administratives;
 - iv) cet office ou cette organisation doit disposer d’un système de gestion de la qualité et de dispositions internes en matière d’évaluation conformément aux règles communes de la recherche internationale;
 - v) cet office ou cette organisation doit être nommé en qualité d’administration chargée de l’examen préliminaire international.
+
+[^36-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 263](https://fedlex.data.admin.ch/eli/oc/2024/263)). En adoptant les modifications des règles 36.1 et 63.1, qui énoncent les exigences minimales mentionnées aux articles 16.3)c) et 32.3), respectivement, l’assemblée est convenue que, dans le cas d’une organisation intergouvernementale qui a été créée pour assurer la collaboration entre les offices nationaux des États membres de cette organisation intergouvernementale et qui ne délivre pas elle-même de brevets ni ne publie de demandes de brevet, les exigences énoncées aux règles 36.1.ii) et 63.1)ii) pour l’organisation sont que les offices nationaux de ces États mettent à disposition pour consultation, dans le cadre de la documentation minimale, tout brevet délivré et toute demande de brevet publiée par eux et, le cas échéant, par leur(s) prédécesseur(s) en droit.
 
 #### Règle 37
 
@@ -2600,17 +2609,19 @@ Si, au moment du dépôt de modifications effectuées en vertu de l’art. 19, u
 
 #### Règle 63
 
-**Exigences minimales pour les administrations chargées de l’examen préliminaire international**
+**Exigences minimales pour les administrations chargées de l’examen préliminaire international**[^63-1]
 
-### 63.1 Définition des exigences minimales
+- 63\.1 *Définition des exigences minimales*
 
 Les exigences minimales mentionnées à l’art. 32.3) sont les suivantes:
 
-- i) l’office national ou l’organisation intergouvernementale doit avoir au moins cent employés à plein temps possédant des qualifications techniques suffisantes pour procéder aux examens;
-- ii) cet office ou cette organisation doit avoir en sa possession au moins la documentation minimale de la règle 34 disposée d’une manière adéquate aux fins de l’examen;
-- iii) cet office ou cette organisation doit disposer d’un personnel capable de procéder à l’examen dans les domaines techniques sur lesquels l’examen doit porter et possédant les connaissances linguistiques nécessaires à la compréhension au moins des langues dans lesquelles la documentation minimale de la règle 34 est rédigée ou traduite;
+- i) l’office national ou l’organisation intergouvernementale doit avoir au moins cent employés à plein temps possédant des qualifications techniques suffisantes pour procéder aux recherches dans les domaines techniques sur lesquels la recherche doit porter;
+- ii) cet office ou cette organisation doit mettre à disposition pour consultation, dans le cadre de la documentation minimale visée à la règle 34, conformément aux exigences spécifiées dans les instructions administratives, tout brevet délivré et toute demande de brevet publiée par lui ou par elle et, le cas échéant, par son ou ses prédécesseurs en droit;
+- iii) cet office ou cette organisation doit avoir en sa possession au moins la documentation minimale de la règle 34 disposée d’une manière adéquate aux fins de l’examen;
 - iv) cet office ou cette organisation doit disposer d’un système de gestion de la qualité et de dispositions internes en matière d’évaluation conformément aux règles communes de l’examen préliminaire international;
 - v) cet office ou cette organisation doit être nommé en qualité d’administration chargée de la recherche internationale.
+
+[^63-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 14 juil. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2024 263](https://fedlex.data.admin.ch/eli/oc/2024/263)). En adoptant les modifications des règles 36.1 et 63.1, qui énoncent les exigences minimales mentionnées aux articles 16.3)c) et 32.3), respectivement, l’assemblée est convenue que, dans le cas d’une organisation intergouvernementale qui a été créée pour assurer la collaboration entre les offices nationaux des États membres de cette organisation intergouvernementale et qui ne délivre pas elle-même de brevets ni ne publie de demandes de brevet, les exigences énoncées aux règles 36.1.ii) et 63.1)ii) pour l’organisation sont que les offices nationaux de ces États mettent à disposition pour consultation, dans le cadre de la documentation minimale, tout brevet délivré et toute demande de brevet publiée par eux et, le cas échéant, par leur(s) prédécesseur(s) en droit.
 
 #### Règle 64
 
@@ -2618,7 +2629,7 @@ Les exigences minimales mentionnées à l’art. 32.3) sont les suivantes:
 
 ### 64.1 État de la technique
 
-- a) Aux fins de l’art. 33.2) et 3), est considéré comme faisant partie de l’état de la technique tout ce qui a été rendu accessible au public en tous lieux du monde par une divulgation écrite (y compris des dessins et autres illustrations), pour autant que cette mise à la disposition du public ait eu lieu avant la date pertinente.
+- a)[^64-subdivu1-1] Aux fins de l’article 33.2) et 3), est considéré comme faisant partie de l’état de la technique tout ce qui a été rendu accessible au public en tous lieux du monde par quelque moyen que ce soit, pour autant que cette mise à la disposition du public ait eu lieu avant la date pertinente.
 - b)
 
   Aux fins de l’al. a), la date pertinente est:
@@ -2627,9 +2638,15 @@ Les exigences minimales mentionnées à l’art. 32.3) sont les suivantes:
   - ii) lorsque la demande internationale faisant l’objet de l’examen préliminaire international revendique la priorité d’une demande antérieure et a une date de dépôt international qui s’inscrit dans le délai de priorité, la date du dépôt de cette demande antérieure, sauf si l’administration chargée de l’examen préliminaire international considère que la revendication de priorité n’est pas valable;
   - iii) lorsque la demande internationale faisant l’objet de l’examen préliminaire international revendique la priorité d’une demande antérieure et a une date de dépôt international qui est postérieure à la date d’expiration du délai de priorité mais qui s’inscrit dans un délai de deux mois à compter de cette date, la date du dépôt de cette demande antérieure, à moins que l’administration chargée de l’examen préliminaire international considère que la revendication de priorité n’est pas valable pour des raisons autres que le fait que la demande internationale a une date de dépôt international qui est postérieure à la date d’expiration du délai de priorité.
 
+[^64-subdivu1-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 365](https://fedlex.data.admin.ch/eli/oc/2025/365)). La mod. de la règle 64 entre en vigueur le 1<sup>er</sup> janv. 2026 et s’applique à toute demande internationale pour laquelle le rapport de recherche internationale ou la déclaration visée à l’article 17.2)a) est établi à cette ou à une date postérieure.
+
 ### 64.2 Divulgations non écrites
 
-Dans les cas où la mise à la disposition du public a eu lieu par le moyen d’une divulgation orale, d’une utilisation ou d’une exposition, ou par d’autres moyens non écrits («divulgation non écrite») avant la date pertinente telle que définie à la règle 64.1.b), et où la date de cette divulgation non écrite est indiquée dans une divulgation écrite qui a été rendue accessible au public à la date pertinente ou à une date postérieure, la divulgation non écrite n’est pas considérée comme faisant partie de l’état de la technique aux fins de l’art. 33.2) et 3). Toutefois, le rapport d’examen préliminaire international doit mentionner une telle divulgation non écrite de la manière prévue à la règle 70.9.
+[^64-subdivu2-1]
+
+[^64-subdivu2-1]: Nouvelle teneur selon la mod. adoptée par l’Assemblée du PCT le 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 365](https://fedlex.data.admin.ch/eli/oc/2025/365)). La mod. de la règle 64 entre en vigueur le 1<sup>er</sup> janv. 2026 et s’applique à toute demande internationale pour laquelle le rapport de recherche internationale ou la déclaration visée à l’article 17.2)a) est établi à cette ou à une date postérieure.
+
+Dans les cas où la mise à la disposition du public a eu lieu par le moyen d’une divulgation orale, d’une utilisation ou d’une exposition, ou par d’autres moyens non écrits («divulgation non écrite») avant la date pertinente telle que définie à la règle 64.1.b), et où la date de cette divulgation non écrite est indiquée dans une divulgation écrite qui a été rendue accessible au public à la date pertinente ou à une date postérieure, le rapport d’examen préliminaire international doit mentionner une telle divulgation non écrite de la manière prévue à la règle 70.9.
 
 ### 64.3 Certains documents publiés
 
