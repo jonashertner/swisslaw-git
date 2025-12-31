@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 21 avril 2016 sur les mesures d'encouragement de la
 short: OPICin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/292"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-292-20250101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/292/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-292-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/292/20250101/fr"
 
 (OPICin)
 
-du 21 avril 2016 (État le 1<sup>er</sup> janvier 2025)
+du 21 avril 2016 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -25,8 +25,8 @@ vu les art. 8, al. 2, et 11, al. 1, de la loi du 14 décembre 2001 sur le ciném
 
 arrête:
 
-[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
-[^ingress-2]: [RS 443.11](https://fedlex.data.admin.ch/eli/cc/2002/284)
+[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
+[^ingress-2]: [RS 443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7136)
 
 ## Chapitre 1 Dispositions générales
 
@@ -60,7 +60,7 @@ La présente ordonnance définit les conditions et la procédure d’octroi:
 
 <sup>2</sup> Les dispositions de l’OECin sur les conditions générales d’encouragement, la coordination des instruments d’encouragement, les bases de calcul et les dispositions générales relatives à la procédure sont applicables pour autant que la présente ordonnance n’en dispose pas autrement.
 
-[^3-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
+[^3-1]: [RS 443.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7137)
 
 ## Chapitre 2 Mesures d’encouragement de la présence internationale de la cinématographie suisse
 
@@ -155,7 +155,7 @@ Sont imputables les coûts des rubriques budgétaires suivantes, pour autant qu�
 <table>
 <tr><td>Critères</td><td>Points</td></tr>
 <tr><td>a. Qualité et originalité de la stratégie de promotion et d’exploitation</td><td>30</td></tr>
-<tr><td>b. Potentiel de distribution à l’étranger</td><td>20</td></tr>
+<tr><td>b.[^9-2] Potentiel de distribution dans le pays ciblé à l’étranger</td><td>20</td></tr>
 <tr><td>c. Apports propres de l’entreprise de distribution</td><td>20</td></tr>
 <tr><td>d. Cohérence du budget de distribution par rapport à la sortie en salle prévue</td><td>20</td></tr>
 <tr><td>e. Expérience du distributeur</td><td>10</td></tr>
@@ -168,9 +168,14 @@ Les projets obtiennent à chaque fois 5 points additionnels:
 - a. lorsqu’ils sont exploités en salle dans un pays qui a conclu un accord de coproduction avec la Suisse;
 - b. lorsque la stratégie de promotion pour la sortie en salle exploite des synergies avec une participation à un festival dans le pays concerné.
 
-<sup>4</sup> Les projets atteignant au minimum 75 points peuvent bénéficier d’un soutien. Les demandes sont approuvées d’après la date du dépôt de la demande.
+<sup>4</sup> Les projets atteignant au minimum 75 points peuvent bénéficier d’un soutien.[^9-3]
+
+<sup>5</sup> Si les crédits disponibles à l’échéance de dépôt des demandes ne suffisent pas pour soutenir tous les projets pouvant bénéficier d’un soutien, le soutien va aux projets comptant le plus grand nombre de points.[^9-4]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^9-4]: Introduit par le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 10
 
@@ -178,19 +183,16 @@ Les projets obtiennent à chaque fois 5 points additionnels:
 
 <sup>1</sup> La demande doit être déposée au plus tard deux mois avant la sortie du film en salle ou la publication sur la plateforme.
 
-<sup>2</sup> S’il n’a pas les connaissances nécessaires en la matière, l’OFC fait examiner les demandes par des experts qui connaissent les marchés d’exploitation dans le pays concerné.
+<sup>2</sup> L’examen est réalisé par le comité «Exploitation et diversité» (art. 43, let. d, OECin).[^10-2]
 
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^10-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 10a
 
-**Procédure en cas d’exportation dans plusieurs pays**[^10a-1]
+[^10a-1]
 
-<sup>1</sup> S’il est démontré que les droits pour la sortie en salle d’un film ont été vendus dans au moins cinq pays, dont au moins un pays européen ayant une forte production cinématographique, comme l’Allemagne, la France, la Grande-Bretagne, l’Italie ou l’Espagne, il n’est pas effectué de pondération selon l’art. 9, al. 2, let. a et b, et 3. La demande peut bénéficier d’un soutien si elle obtient au moins 30 points pour les autres critères (art. 9, al. 2, let. c à e).
-
-<sup>2</sup> Les entreprises de production et de vente mondiale ayant leur siège en Suisse peuvent déposer une demande. Les art. 6 à 8 et 10 sont applicables au surplus.
-
-[^10a-1]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^10a-1]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). Abrogé par le ch. I de l’O du DFI du 20 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 11
 
@@ -204,13 +206,14 @@ L’aide financière ne peut dépasser 50 % des coûts imputables. L’OFC publi
 
 **Modalités de versement**[^12-1]
 
-<sup>1</sup> Le versement de la première tranche se fait lorsque la sortie en salle est assurée et que la preuve du financement résiduel a été apportée. Elle se monte à 50 % de la contribution accordée. En ce qui concerne l’encouragement à l’exportation dans plusieurs pays au sens de l’art. 10*a*, la première tranche se monte à 35 % de la contribution maximale déterminante.
+<sup>1</sup> Le versement de la première tranche se fait lorsque la sortie en salle est assurée et que la preuve du financement résiduel a été apportée. Elle se monte à 50 % de la contribution accordée.[^12-2]
 
 <sup>2</sup> La deuxième tranche est versée après présentation du décompte et des résultats de l’exploitation.
 
 <sup>3</sup> En ce qui concerne l’exploitation par le biais de services à la demande, la période de décompte correspond aux 12 premiers mois de l’exploitation en ligne.
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 ### Section 3 Participation de cinéastes suisses à des festivals de films, des marchés cinématographiques et des remises de distinctions internationaux
 
@@ -324,7 +327,7 @@ Peuvent déposer une demande d’aide financière pour une formation continue le
 
 **Formations continues pouvant bénéficier d’un soutien**
 
-<sup>1</sup> Des aides financières ne peuvent être allouées que pour la participation à des programmes internationaux de formation continue cofinancés par le programme MEDIA de l’Union européenne ou par l’OFC en vertu de la section 6, ou qui ont été cofinancés au cours des trois ans précédant le dépôt de la demande.[^20-1]
+<sup>1</sup> Des aides financières ne peuvent être allouées que pour la participation à des programmes internationaux de formation continue qui sont ou ont été cofinancés par le programme MEDIA de l’Union européenne ou par l’OFC en vertu du chapitre 3, section 6.[^20-1]
 
 <sup>2</sup>
 
@@ -337,7 +340,7 @@ Des aides financières peuvent être allouées pour la participation à des prog
 
 <sup>3</sup> L’OFC publie une liste des programmes de formation continue pour lesquels des aides financières peuvent être allouées.
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 21
 
@@ -497,11 +500,11 @@ Toute entreprise de production suisse indépendante peut déposer une demande d�
 
 <sup>2</sup>
 
-Les projets coproduits doivent, à l’initiative et sous la responsabilité de l’entreprise de production suisse qui dépose la demande, être conçus et développés avec une ou plusieurs entreprises de production issues de pays qui ont:
+Les projets coproduits doivent, sous la responsabilité de l’entreprise de production suisse qui dépose la demande, être conçus et développés avec une ou plusieurs entreprises de production issues de pays qui ont:[^30-1]
 
-- a. ratifié la Convention européenne du 2 octobre 1992 sur la coproduction cinématographique[^30-1];
-- b. ratifié la Convention du Conseil de l’Europe du 30 janvier 2017 sur la coproduction cinématographique[^30-2], ou
-- c. conclu un accord de coproduction avec la Suisse.[^30-3]
+- a. ratifié la Convention européenne du 2 octobre 1992 sur la coproduction cinématographique[^30-2];
+- b. ratifié la Convention du Conseil de l’Europe du 30 janvier 2017 sur la coproduction cinématographique[^30-3], ou
+- c. conclu un accord de coproduction avec la Suisse.[^30-4]
 
 <sup>3</sup>
 
@@ -516,16 +519,16 @@ Des aides financières peuvent être accordées pour:
   - 2\. films d’animation: 24 minutes,
   - 3\. films documentaires de création: 50 minutes;
 
-- c.[^30-4] des projets audiovisuels non linéaires, si les éléments narratifs utilisés sont comparables à ceux des projets de films du genre concerné; il n’est pas imposé de durée minimale pour de tels projets.
+- c.[^30-5] des projets audiovisuels non linéaires, si les éléments narratifs utilisés sont comparables à ceux des projets de films du genre concerné; il n’est pas imposé de durée minimale pour de tels projets.
 
-<sup>4</sup> Le tournage ne peut commencer que 8 mois au plus tôt après le dépôt de la demande. Des exceptions peuvent être autorisées pour des projets de films documentaires, notamment s’il est nécessaire de tourner pour capturer des événements uniques qui ne se répéteront pas ou pour obtenir des déclarations de protagonistes qui ne pourront plus être obtenues par la suite.[^30-5]
+<sup>4</sup> Le tournage ne peut commencer que 8 mois au plus tôt après le dépôt de la demande. Des exceptions peuvent être autorisées pour des projets de films documentaires, notamment s’il est nécessaire de tourner pour capturer des événements uniques qui ne se répéteront pas ou pour obtenir des déclarations de protagonistes qui ne pourront plus être obtenues par la suite.[^30-6]
 
 <sup>5</sup>
 
 Aucune aide financière ne peut être allouée pour les projets suivants:
 
 - a. les émissions en direct, jeux télévisés, talk-shows et reality shows;
-- a<sup>bis</sup>.[^30-6] les vidéos de musique, les jeux vidéo et les livres interactifs;
+- a<sup>bis</sup>.[^30-7] les vidéos de musique, les jeux vidéo et les livres interactifs;
 - b. les émissions d’information, toute forme de reportage, qu’il concerne les voyages, la nature, les paysages ou les animaux, ainsi que les feuilletons documentaires;
 - c. les films réalisés sur commande, les films publicitaires, les films ayant essentiellement un but didactique et les films qui portent atteinte à la dignité humaine, sont discriminants, glorifient ou minimisent la violence ou ont un caractère pornographique (art. 16 LCin);
 - d. les projets qui, après un premier refus, n’ont pas été remaniés sur les points essentiels;
@@ -533,12 +536,13 @@ Aucune aide financière ne peut être allouée pour les projets suivants:
 - f. les projets pour lesquels l’OFC a émis une déclaration d’intention à la réalisation, et les projets dans lesquels des bonifications de l’aide liée au succès ont déjà été réinvesties pour la réalisation;
 - g. les projets pour lesquels l’OFC a refusé deux fois une aide sélective à la réalisation.
 
-[^30-1]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
-[^30-2]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
-[^30-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
-[^30-4]: Introduite par le ch. I de l’O du DFI du 8 juin 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^30-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^30-6]: Introduite par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^30-2]: [RS 0.443.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1812)
+[^30-3]: [RS 0.443.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1813)
+[^30-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^30-5]: Introduite par le ch. I de l’O du DFI du 8 juin 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^30-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^30-7]: Introduite par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 31
 
@@ -561,10 +565,11 @@ Sont imputables les coûts prévus du développement de projet générés à par
 - g. préparation du plan de tournage;
 - h. marketing et plan de distribution (clarifications concernant les marchés de la distribution visés et les acheteurs, présentation dans les festivals);
 - i. production du traitement vidéo ou du film pilote;
-- j. 7 % au plus de frais généraux, pour autant que les dépenses correspondantes ne soient pas budgétées séparément.
+- j.[^32-3] 7,5 % au plus de frais généraux, pour autant que les dépenses correspondantes ne soient pas budgétées séparément.
 
 [^32-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^32-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
+[^32-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 33
 
@@ -575,20 +580,21 @@ Sont imputables les coûts prévus du développement de projet générés à par
 <sup>2</sup> La pondération des critères se fait à l’aide du tableau suivant:
 
 <table>
-<tr><td>Critères</td><td>Points</td></tr>
-<tr><td>Qualité du projet et son potentiel d’atteindre le public européen et international</td><td>55</td></tr>
-<tr><td>Qualité de la stratégie de développement</td><td>10</td></tr>
-<tr><td>Qualité de la stratégie de diffusion et de marketing aux niveaux européen et international</td><td>25</td></tr>
-<tr><td>Qualité de la stratégie de financement et faisabilité du projet</td><td>10</td></tr>
+<tr><th>Critères</th><th>Points</th></tr>
+<tr><td>Qualité du projet, durabilité et diversité</td><td>40</td></tr>
+<tr><td>Qualité de la stratégie de développement, de la répartition des tâches et de la stratégie de financement</td><td>30</td></tr>
+<tr><td>Capacité à atteindre le public suisse et international</td><td>30.[^33-2]</td></tr>
 </table>
 
-<sup>3</sup> Les projets atteignant au minimum 70 points peuvent bénéficier d’un soutien. Ils obtiennent 5 points additionnels lorsqu’il s’agit d’un projet destiné à un public de moins de 16 ans et 5 points lorsqu’il s’agit d’un projet conçu comme coproduction avec l’étranger et qui dispose, au moment du dépôt de la demande, d’un précontrat avec une société de production indépendante issue d’un pays qui a ratifié la Convention européenne du 2 octobre 1992 sur la coproduction cinématographique[^33-2] ou la Convention du Conseil de l’Europe du 30 janvier 2017 sur la coproduction cinématographique[^33-3]. Aucun point additionnel n’est attribué aux projets de films d’animation qui s’adressent à un public de moins de 16 ans.
+<sup>3</sup> Les projets atteignant au minimum 70 points peuvent bénéficier d’un soutien. Ils obtiennent 5 points additionnels lorsqu’il s’agit d’un projet destiné à un public de moins de 12 ans et 5 points lorsqu’il s’agit d’un projet conçu comme coproduction avec l’étranger et qui dispose, au moment du dépôt de la demande, d’un précontrat avec une société de production indépendante issue d’un pays qui a ratifié la Convention européenne du 2 octobre 1992 sur la coproduction cinématographique[^33-3] ou la Convention du Conseil de l’Europe du 30 janvier 2017 sur la coproduction cinématographique[^33-4].[^33-5]
 
 <sup>4</sup> Si les projets pouvant bénéficier d’un soutien excèdent les crédits disponibles à l’échéance de dépôt des demandes, le soutien va aux projets comptant le plus grand nombre de points.
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^33-2]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
-[^33-3]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
+[^33-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^33-3]: [RS 0.443.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1812)
+[^33-4]: [RS 0.443.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1813)
+[^33-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 34
 
@@ -622,10 +628,10 @@ Pour l’encouragement de projets individuels dans le cadre de la mesure compens
 
 <sup>2</sup> La deuxième tranche est versée après présentation du décompte de projet et d’un bref rapport sur l’état d’avancement et les étapes suivantes du projet.
 
-<sup>3</sup> Si le décompte de projet n’est pas présenté dans les 18 mois suivant le versement de la première tranche, un rapport et un décompte intermédiaires doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.[^35-2]
+<sup>3</sup> Si le décompte de projet n’est pas présenté dans les 24 mois suivant le versement de la première tranche, un rapport et un décompte intermédiaires doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.[^35-2]
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
-[^35-2]: Introduit par le ch. I de l’O du DFI du 8 juin 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^35-2]: Introduit par le ch. I de l’O du DFI du 8 juin 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)). Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 ### Section 3 Développement d’œuvres audiovisuelles ayant un potentiel européen: encouragement d’un ensemble de projets
 
@@ -645,7 +651,9 @@ Toute entreprise de production suisse indépendante peut déposer une demande d�
   - 2\. a été exploitée commercialement en dehors de la Suisse dans au moins trois pays pendant l’une des trois années civiles précédant l’année du dépôt de la demande;
 
 - d. détient la majorité des droits pour l’ensemble des œuvres pour lesquelles elle demande un soutien;
-- e. a établi le décompte d’au moins un projet d’un ensemble de projets antérieur et a commencé les travaux de tournage.
+- e.[^36-1] a établi le décompte d’au moins un projet d’un ensemble de projets antérieur et a commencé les travaux de tournage ou si elle a établi le décompte de tous les projets d’un ensemble de projets antérieur.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 37
 
@@ -657,8 +665,8 @@ Toute entreprise de production suisse indépendante peut déposer une demande d�
 
 <sup>3</sup> La majorité des projets doivent être développés et conçus avec une ou plusieurs entreprises de production issues de pays qui ont ratifié la Convention européenne du 2 octobre 1992 sur la coproduction cinématographique[^37-1] ou la Convention du Conseil de l’Europe du 30 janvier 2017 sur la coproduction cinématographique[^37-2].[^37-3]
 
-[^37-1]: [RS 0.443.2](https://fedlex.data.admin.ch/eli/cc/1996/794_794_794)
-[^37-2]: [RS 0.443.3](https://fedlex.data.admin.ch/eli/cc/2019/442)
+[^37-1]: [RS 0.443.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1812)
+[^37-2]: [RS 0.443.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1813)
 [^37-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 
 #### Art. 38
@@ -684,18 +692,18 @@ Sont imputables les coûts prévus du développement de projet générés à par
 <sup>2</sup> La pondération des critères se fait à l’aide du tableau suivant:
 
 <table>
-<tr><th>Critères</th><th></th><th>Points</th></tr>
-<tr><td>Qualité de la démarche visant à développer l’ensemble de projets aux niveaux européen et international ainsi que capacité d’innovation de l’entreprise de production</td><td></td><td>30</td></tr>
-<tr><td>Qualité du contenu de l’ensemble de projets, cohérence de la stratégie de développement</td><td></td><td>15</td></tr>
-<tr><td>Potentiel d’exploitation aux niveaux européen et international et qualité de la stratégie de diffusion et de marketing</td><td></td><td>35</td></tr>
-<tr><td>Faisabilité de l’ensemble de projets ainsi que qualité et dimension européenne de la stratégie de financement</td><td></td><td>20.[^40-1]</td></tr>
+<tr><th>Critères</th><th>Points</th></tr>
+<tr><td>Qualité de la démarche visant à développer l’ensemble de projets aux niveaux européen et international, capacité d’innovation de l’entreprise de production, durabilité et diversité</td><td>35</td></tr>
+<tr><td>Qualité du contenu de l’ensemble de projets, cohérence de la stratégie de développement</td><td>25</td></tr>
+<tr><td>Potentiel d’exploitation aux niveaux européen et international et qualité de la stratégie de diffusion et de marketing</td><td>30</td></tr>
+<tr><td>Qualité et dimension européenne de la stratégie de financement</td><td>10.[^40-1]</td></tr>
 </table>
 
 <sup>3</sup> Des ensembles de projets atteignant au minimum 70 points peuvent recevoir un soutien.
 
 <sup>4</sup> Si les projets pouvant recevoir un soutien excèdent les crédits disponibles à l’échéance de dépôt des demandes, le soutien va aux ensembles de projets comptant le plus grand nombre de points.
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^40-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 41
 
@@ -723,12 +731,13 @@ Les aides financières annoncées pour un ensemble de projets ou des projets con
 
 <sup>4</sup> L’OFC doit être immédiatement informé si un ou plusieurs projets d’un ensemble ne peuvent pas être développés comme indiqué dans la demande de paiement.
 
-<sup>5</sup> La dernière tranche est versée suite à la remise du décompte de l’ensemble de projets. Le décompte doit être vérifié par une personne ou une société fiduciaire agréée au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^43-4].
+<sup>5</sup> La dernière tranche est versée suite à la remise du décompte de l’ensemble de projets. Ce décompte doit être vérifié par un organe de révision agréé au sens de la loi du 16 décembre 2005 sur la surveillance de la révision[^43-4].[^43-5]
 
 [^43-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 [^43-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
 [^43-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^43-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^43-4]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^43-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 ### Section 4 Aides financières de l’aide sélective pour la distribution en Suisse de films européens
 
@@ -775,7 +784,7 @@ Des aides financières peuvent être accordées à des longs métrages de fictio
 Aucune aide financière n’est allouée:
 
 - a.[^45-3] à des films suisses, ni à des coproductions reconnues entre la Suisse et l’étranger avec réalisateur suisse;
-- b.[^45-4] à des films dont les coûts de réalisation sont supérieurs à 16 millions de francs et qui proviennent de pays participant au programme MEDIA;
+- b.[^45-4] à des films dont les coûts de réalisation sont supérieurs à 20 millions de francs et qui proviennent de pays participant au programme MEDIA;
 - c. à des films dont la sortie en salle en Suisse a eu lieu plus de deux mois avant le dépôt de la demande ou n’aura lieu qu’après le délai suivant de dépôt des demandes;
 - d. à des enregistrements en direct ni à des enregistrements de spectacles tels que des opéras et des concerts;
 - e. à des films réalisés sur commande, à des films publicitaires, à des films ayant essentiellement un but didactique ni à des films qui portent atteinte à la dignité humaine, sont discriminants, glorifient ou minimisent la violence ou ont un caractère pornographique (art. 16 LCin);
@@ -787,7 +796,7 @@ Aucune aide financière n’est allouée:
 [^45-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 [^45-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 19 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 847](https://fedlex.data.admin.ch/eli/oc/2022/847)).
 [^45-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^45-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^45-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 [^45-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^45-6]: Abrogée par le ch. I de l’O du DFI du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
 [^45-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> juil. 2018 ([RO 2018 2353](https://fedlex.data.admin.ch/eli/oc/2018/337)).
@@ -867,11 +876,12 @@ Il existe deux catégories de films en fonction de leurs coûts de réalisation:
 
 <sup>1</sup> La première tranche est versée une fois la sortie en salle confirmée et pour autant que la preuve du financement résiduel ait été apportée. Elle se monte au maximum à 60 %.[^49-1]
 
-<sup>2</sup> Si la sortie dans les salles est renvoyée à une date postérieure au prochain délai de dépôt des demandes, l’aide financière annoncée est caduque. Une nouvelle demande peut être déposée au prochain délai.
+<sup>2</sup> Si la sortie dans les salles est renvoyée à une date postérieure au prochain délai de dépôt des demandes, le droit à l’aide financière annoncée peut être prolongé sur demande.[^49-2]
 
 <sup>3</sup> Le versement de la deuxième tranche intervient une fois attesté le nombre de séances et d’écrans et après présentation du décompte.
 
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^49-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 ### Section 5 Aides financières de l’aide liée au succès pour la distribution en Suisse de films européens
 
@@ -944,10 +954,10 @@ Ne sont pas éligibles à l’aide à la distribution liée au succès:[^51-2]
 Les bonifications issues de l’aide liée au succès à la distribution selon la présente ordonnance peuvent être réinvesties dans:
 
 - a. la coproduction de films produits pour une part prépondérante par une société de production d’un pays participant au programme MEDIA;
-- b. des options sur des droits cinématographiques ou l’acquisition de droits cinématographiques sur des films étrangers de pays participant au programme MEDIA (minimum garanti);
-- c. les coûts de promotion de films étrangers de pays participant au programme MEDIA.
+- b.[^53-1] des options sur des droits cinématographiques ou l’acquisition de droits cinématographiques sur des films de pays participant au programme MEDIA (minimum garanti);
+- c.[^53-2] les coûts de promotion de films de pays participant au programme MEDIA.
 
-<sup>2</sup> Les bonifications ne peuvent être réinvesties dans la promotion de films dont la distribution est soutenue dans le cadre de l’aide sélective à la distribution de l’OFC prévue dans la présente ordonnance ou en vertu des art. 7, al. 2, let. e, ou 14*a*, let. a et b, OECin[^53-1].[^53-2]
+<sup>2</sup> Les bonifications ne peuvent être réinvesties dans la promotion de films dont la distribution est soutenue dans le cadre de l’aide sélective à la distribution de l’OFC prévue dans la présente ordonnance ou en vertu de l’art. 14*a*, let. a, OECin[^53-3].[^53-4]
 
 <sup>3</sup>
 
@@ -956,11 +966,16 @@ Sont imputables pour le réinvestissement:
 - a. les coûts supérieurs à 5000 francs et ayant été payés après la fin de l’année civile déterminante pour le calcul des bonifications, et
 - b. les engagements pour un montant supérieur à 5000 francs et ayant été contractés après la fin de l’année civile déterminante pour le calcul des bonifications.
 
-<sup>4</sup> La bonification doit être réinvestie dans le délai de 12 mois mentionné dans la notification du montant de la bonification.[^53-3]
+<sup>4</sup> La bonification doit être réinvestie dans le délai de 12 mois mentionné dans la notification du montant de la bonification.[^53-5]
 
-[^53-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
-[^53-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^53-3]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+<sup>5</sup> Au moins 30 % des bonifications doivent être réinvesties dans la promotion au sens de l’al. 1, let. c.[^53-6]
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^53-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^53-3]: [RS 443.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7137)
+[^53-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^53-5]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^53-6]: Introduit par le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 54
 
@@ -1036,7 +1051,7 @@ Des aides financières peuvent être accordées pour:
 
 Si un projet ou une organisation requérante bénéficie également d’aides financières de l’OFC selon l’OECin[^58-1], il convient d’annexer un budget global et un plan de financement global au budget et au plan de financement du projet au sens de la présente ordonnance.
 
-[^58-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
+[^58-1]: [RS 443.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7137)
 
 #### Art. 59
 
@@ -1063,10 +1078,10 @@ Sont imputables:
 
 <table>
 <tr><th>Critères</th><th>Points</th></tr>
-<tr><td>Pertinence du contenu en fonction des tendances et des besoins de l’industrie, dimension internationale, innovation en comparaison avec d’autres offres européennes, partenariats</td><td>30</td></tr>
-<tr><td>Qualité du contenu et méthodologie, en particulier format, groupes cibles, savoir-faire, efficience de l’offre, utilisation d’outils numériques</td><td>40</td></tr>
-<tr><td>Diffusion des résultats, impact sur les participants, les projets, les entreprises et le secteur audiovisuel, accès aux réseaux et aux marchés internationaux pour les participants, effet structurant, durabilité</td><td>20</td></tr>
-<tr><td>Qualité de l’équipe en matière d’expertise technique et pédagogique internationale</td><td>10</td></tr>
+<tr><td>Pertinence du contenu en fonction des tendances et des besoins de l’industrie, dimension internationale, complémentarité avec d’autres offres européennes, partenariats, durabilité et diversité</td><td>35</td></tr>
+<tr><td>Qualité du contenu et méthodologie, en particulier format, groupes cibles, savoir-faire, efficience de l’offre, innovation</td><td>40</td></tr>
+<tr><td>Diffusion des résultats, impact sur les participants, les projets, les entreprises et le secteur audiovisuel, accès aux réseaux et aux marchés internationaux pour les participants, effet structurant</td><td>15</td></tr>
+<tr><td>Qualité de l’équipe en matière d’expertise technique et pédagogique internationale, cohérence de la répartition des rôles</td><td>10.[^60-2]</td></tr>
 </table>
 
 <sup>3</sup> Les projets atteignant au minimum 70 points peuvent bénéficier d’un soutien.
@@ -1074,6 +1089,7 @@ Sont imputables:
 <sup>4</sup> Si les projets pouvant recevoir un soutien excèdent les crédits disponibles à l’échéance de dépôt des demandes, le soutien va aux projets comptant le plus grand nombre de points.
 
 [^60-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^60-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 61
 
@@ -1133,7 +1149,7 @@ Aucune aide financière ne peut être allouée à:
 
 Si un projet ou une organisation requérante bénéficie également d’aides financières de l’OFC selon l’OECin[^65-1], il convient d’annexer un budget global et un plan de financement global au budget et au plan de financement du projet au sens de la présente ordonnance.
 
-[^65-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
+[^65-1]: [RS 443.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7137)
 
 #### Art. 66
 
@@ -1157,30 +1173,22 @@ Sont imputables les coûts suivants:[^66-1]
 
 <sup>1</sup> La demande doit faire état des différents critères d’encouragement et comporter des indications y relatives.
 
-<sup>2</sup> La pondération des critères se fait à l’aide du tableau suivant:
+<sup>2</sup> La pondération des critères se fait à l’aide des tableaux suivants:
 
 <table>
-<tr><th>Critères pour les projets au sens de l’art. 64, al. 1, let. a</th><th>Points</th></tr>
-<tr><td>Pertinence du contenu, dimension internationale et innovation</td><td>30</td></tr>
-<tr><td>Qualité du contenu, efficience, faisabilité et méthodologie (format, groupes cibles, méthode de sélection, collaboration avec d’autres projets, recours aux technologies numériques pour de nouveaux modèles d’affaires)</td><td>30</td></tr>
-<tr><td>Diffusion internationale des résultats, impact, durabilité du financement, public mondial des œuvres, effet structurant</td><td>30</td></tr>
-<tr><td>Qualité et cohérence de l’équipe par rapport à l’activité envisagée</td><td>10</td></tr>
+<tr><th>Critères pour les projets au sens de l’art. 64, al. 1, let. a et c</th><th>Points</th></tr>
+<tr><td>Pertinence du contenu, dimension internationale, innovation, durabilité et diversité</td><td>40</td></tr>
+<tr><td>Qualité du contenu, efficience, faisabilité et méthodologie</td><td>30</td></tr>
+<tr><td>Diffusion internationale des résultats, impact, public mondial des œuvres, effet structurant</td><td>20</td></tr>
+<tr><td>Qualité de l’équipe par rapport à l’activité envisagée</td><td>10</td></tr>
 </table>
 
 <table>
 <tr><th>Critères pour les projets au sens de l’art. 64, al. 1, let. b</th><th>Points</th></tr>
-<tr><td>Pertinence du contenu et dimension internationale</td><td>30</td></tr>
-<tr><td>Qualité du contenu, efficience, faisabilité et méthodologie (modèles d’affaires, stratégie de marketing, aspects innovants)</td><td>40</td></tr>
-<tr><td>Capacité de toucher le public, transfert d’information et transparence</td><td>20</td></tr>
-<tr><td>Qualité et cohérence de l’équipe par rapport à l’activité envisagée ainsi qu’étendue des partenariats</td><td>10</td></tr>
-</table>
-
-<table>
-<tr><th>Critères pour les projets au sens de l’art. 64, al. 1, let. c</th><th>Points</th></tr>
-<tr><td>Pertinence du contenu, dimension internationale et innovation</td><td>30</td></tr>
-<tr><td>Qualité du contenu, efficience, faisabilité, méthodologie ainsi qu’efficacité de la stratégie visant à une meilleure circulation des œuvres européennes</td><td>30</td></tr>
-<tr><td>Diffusion des résultats, impact et durabilité, notamment eu égard à la capacité à toucher le public et à une meilleure exploitation des œuvres européennes, effet structurant</td><td>30</td></tr>
-<tr><td>Qualité et cohérence de l’équipe par rapport à l’activité envisagée</td><td>10</td></tr>
+<tr><td>Pertinence du contenu et dimension internationale, durabilité et diversité</td><td>40</td></tr>
+<tr><td>Qualité du contenu, innovation, efficience, faisabilité et méthodologie (modèles d’affaires, stratégie de marketing)</td><td>30</td></tr>
+<tr><td>Capacité à atteindre le public, transfert d’information et transparence</td><td>20</td></tr>
+<tr><td>Qualité de l’équipe par rapport à l’activité envisagée et étendue des partenariats</td><td>10.[^67-2]</td></tr>
 </table>
 
 <sup>3</sup> Les projets atteignant au minimum 70 points peuvent bénéficier d’un soutien.
@@ -1188,6 +1196,7 @@ Sont imputables les coûts suivants:[^66-1]
 <sup>4</sup> Si les projets pouvant bénéficier d’un soutien excèdent les crédits disponibles à l’échéance de dépôt des demandes, le soutien va aux projets comptant le plus grand nombre de points.
 
 [^67-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^67-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 68
 
@@ -1225,19 +1234,21 @@ Peut déposer une demande d’aide financière pour l’aide à la programmation
 
 Des aides financières peuvent être accordées pour des festivals de films dont la programmation répond aux exigences suivantes:
 
-- a.[^71-2] au moins 50 % des films figurant dans le catalogue du festival ou au moins 100 films de long métrage ou 400 films de court métrage proviennent de pays participant au programme MEDIA ou de Suisse;
-- b. 50 % au maximum des films visés à la let. a ont été réalisés pour une part prépondérante par une entreprise de production suisse;
+- a.[^71-2] au moins 50 % des films figurant dans le catalogue du festival ou au moins 100 films de long métrage ou 400 films de court métrage proviennent de pays participant au programme MEDIA;
+- b.[^71-3] …
 - c. les films figurant dans le catalogue du festival proviennent d’au moins 14 pays participant au programme MEDIA et de Suisse.
 
 <sup>2</sup>
 
 Aucune aide financière n’est allouée aux festivals qui:
 
-- a. sont consacrés à un thème spécifique comme la médecine, l’environnement ou la science;
+- a.[^71-4] sont consacrés à un thème spécifique comme la médecine, le sport ou la science;
 - b. sont axés sur les films publicitaires, les enregistrements en direct, les séries TV, les clips vidéo, les jeux électroniques, les films d’amateurs, les films réalisés sur téléphone portable ou les œuvres artistiques sans trame narrative.
 
 [^71-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^71-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 136](https://fedlex.data.admin.ch/eli/oc/2022/136)).
+[^71-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^71-3]: Abrogée par le ch. I de l’O du DFI du 20 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^71-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 72
 
@@ -1245,7 +1256,7 @@ Aucune aide financière n’est allouée aux festivals qui:
 
 Si un projet ou une organisation requérante bénéficie également d’aides financières de l’OFC selon l’OECin[^72-1], il convient d’annexer un budget global et un plan de financement global au budget et au plan de financement du projet au sens de la présente ordonnance.
 
-[^72-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
+[^72-1]: [RS 443.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7137)
 
 #### Art. 73
 
@@ -1292,10 +1303,10 @@ Les coûts suivants ne sont pas imputables:
 
 <table>
 <tr><th>Critères</th><th>Points</th></tr>
-<tr><td>Pertinence des activités relatives au développement de la fréquentation, utilisation des technologies numériques</td><td>30</td></tr>
-<tr><td>Dimension européenne de la programmation et partenariats internationaux du festival</td><td>35</td></tr>
-<tr><td>Nombre de spectateurs, impact sur la diffusion de films européens</td><td>30</td></tr>
-<tr><td>Qualité de l’équipe</td><td>5</td></tr>
+<tr><td>Pertinence des activités relatives au développement de la fréquentation, utilisation des technologies numériques, durabilité et diversité</td><td>40</td></tr>
+<tr><td>Dimension européenne de la programmation</td><td>25</td></tr>
+<tr><td>Nombre de spectateurs, impact sur la diffusion de films européens et partenariats internationaux du festival</td><td>30</td></tr>
+<tr><td>Qualité de l’équipe</td><td>5.[^74-2]</td></tr>
 </table>
 
 <sup>3</sup> Les projets atteignant au minimum 70 points peuvent bénéficier d’un soutien.
@@ -1303,6 +1314,7 @@ Les coûts suivants ne sont pas imputables:
 <sup>4</sup> Si les projets pouvant bénéficier d’un soutien excèdent les crédits disponibles à l’échéance de dépôt des demandes, le soutien va aux projets comptant le plus grand nombre de points.
 
 [^74-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
+[^74-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 75
 
@@ -1399,7 +1411,7 @@ Aucune aide financière n’est allouée:
 
 Si un projet ou une organisation requérante bénéficie également d’aides financières de l’OFC selon la présente ordonnance ou l’OECin[^76c-1], il convient d’annexer un budget global et un plan de financement global au budget et au plan de financement du projet au sens de la présente ordonnance.
 
-[^76c-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
+[^76c-1]: [RS 443.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7137)
 
 #### Art. 76d
 
@@ -1424,16 +1436,18 @@ Sont imputables:
 <sup>2</sup> La pondération des critères se fait à l’aide du tableau suivant:
 
 <table>
-<tr><td>Critères</td><td>Points</td></tr>
-<tr><td>Pertinence, dimension européenne et plus-value</td><td>30</td></tr>
-<tr><td>Qualité du contenu (méthodologie, format, groupes cibles, choix des films, moyens pédagogiques), faisabilité, efficience, innovation</td><td>40</td></tr>
-<tr><td>Diffusion des résultats du projet, impact et durabilité</td><td>20</td></tr>
-<tr><td>Qualité de l’équipe et des partenariats</td><td>10</td></tr>
+<tr><th>Critères</th><th>Points</th></tr>
+<tr><td>Pertinence, dimension européenne, qualité des partenariats, durabilité et diversité</td><td>35</td></tr>
+<tr><td>Qualité du contenu (méthodologie, format, groupe cible, choix des films, moyens pédagogiques), faisabilité, efficience, innovation</td><td>40</td></tr>
+<tr><td>Diffusion et impact des résultats du projet, qualité de la stratégie de collecte des données</td><td>15</td></tr>
+<tr><td>Qualité de l’équipe</td><td>10.[^76e-1]</td></tr>
 </table>
 
 <sup>3</sup> Les projets atteignant au minimum 70 points peuvent bénéficier d’un soutien.
 
 <sup>4</sup> Si les projets pouvant bénéficier d’un soutien excèdent les crédits disponibles à l’échéance de dépôt des demandes, le soutien va aux projets comptant le plus grand nombre de points.
+
+[^76e-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 76f
 
@@ -1537,7 +1551,7 @@ Aucune aide financière ne peut être allouée pour les projets suivants:
 - g. les projets pour lesquels l’OFC a émis une déclaration d’intention à la réalisation, et les projets dans lesquels des bonifications de l’aide liée au succès ont déjà été réinvesties pour la réalisation;
 - h. les projets pour lesquels l’OFC a refusé deux fois une aide sélective à la réalisation.
 
-[^76k-1]: [RS 443.113](https://fedlex.data.admin.ch/eli/cc/2016/291)
+[^76k-1]: [RS 443.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7137)
 
 #### Art. 76l
 
@@ -1555,7 +1569,9 @@ Sont imputables les coûts prévus du codéveloppement de projet générés à p
 - b. recherches menées en Suisse;
 - c. écriture du scénario (du traitement à la version définitive);
 - d. honoraires du producteur et frais de déplacement à hauteur de 15 % au plus du budget;
-- e. 7 % au plus des frais généraux, pour autant que les dépenses correspondantes ne soient pas budgétées séparément.
+- e.[^76m-1] 7,5 % au plus des frais généraux, pour autant que les dépenses correspondantes ne soient pas budgétées séparément.
+
+[^76m-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 76n
 
@@ -1566,11 +1582,12 @@ Sont imputables les coûts prévus du codéveloppement de projet générés à p
 <sup>2</sup> La pondération des critères se fait à l’aide du tableau suivant:
 
 <table>
-<tr><td>Critères</td><td>Points</td></tr>
-<tr><td>Qualité du projet et potentiel d’atteindre son public en Suisse et à l’international</td><td>40</td></tr>
-<tr><td>Qualité et cohérence de la stratégie de codéveloppement</td><td>35</td></tr>
-<tr><td>Proportion de collaborateurs suisses et lien thématique ou organisationnel avec la Suisse</td><td>20</td></tr>
-<tr><td>Réciprocité entre les pays de coproduction dans le cadre des accords de coproduction respectifs</td><td>5</td></tr>
+<tr><th>Critères</th><th>Points</th></tr>
+<tr><td>Qualité du projet, durabilité et diversité</td><td>30</td></tr>
+<tr><td>Qualité de la stratégie de codéveloppement</td><td>30</td></tr>
+<tr><td>Capacité à atteindre le public suisse et international</td><td>20</td></tr>
+<tr><td>Proportion de collaborateurs suisses et lien thématique ou organisationnel avec la Suisse</td><td>15</td></tr>
+<tr><td>Réciprocité entre les pays de coproduction dans le cadre des accords de coproduction respectifs</td><td>5.[^76n-1]</td></tr>
 </table>
 
 <sup>3</sup>
@@ -1578,10 +1595,12 @@ Sont imputables les coûts prévus du codéveloppement de projet générés à p
 Les projets atteignant au minimum 70 points peuvent bénéficier d’un soutien. Ils obtiennent 5 points supplémentaires chaque fois qu’ils remplissent une des conditions suivantes:
 
 - a. un auteur participant au codéveloppement de projet vient de Suisse;
-- b. une attention particulière est portée à l’utilisation durable des ressources;
-- c. le projet concerne un film d’animation ou un film pour enfants.
+- b. le projet concerne un film d’animation ou un film destiné à un public de moins de 12 ans.[^76n-2]
 
 <sup>4</sup> Si les projets pouvant bénéficier d’un soutien excèdent les crédits disponibles à l’échéance de dépôt des demandes, le soutien va aux projets comptant le plus grand nombre de points.
+
+[^76n-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^76n-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 #### Art. 76o
 
@@ -1605,7 +1624,9 @@ Les montants maximaux sont les suivants:
 
 <sup>2</sup> La deuxième tranche est versée après présentation du décompte de projet et d’un bref rapport sur l’état d’avancement et les étapes suivantes du projet.
 
-<sup>3</sup> Si le décompte de projet n’est pas présenté dans les 18 mois suivant le versement de la première tranche, un rapport et un décompte intermédiaires doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.
+<sup>3</sup> Si le décompte de projet n’est pas présenté dans les 24 mois suivant le versement de la première tranche, un rapport et un décompte intermédiaires doivent être fournis spontanément. Une prolongation de 6 mois peut être accordée dans des cas motivés.[^76p-1]
+
+[^76p-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 ## Chapitre 4 Dispositions finales
 
@@ -1663,34 +1684,35 @@ La nouvelle base de calcul pour les bonifications de l’aide liée au succès p
 
 <sup>2</sup> ...[^78-1]
 
-<sup>3</sup> Les annexes ont effet jusqu’au 31 décembre 2024.[^78-2]
+<sup>3</sup> Les annexes ont effet jusqu’au 31 décembre 2028.[^78-2]
 
-<sup>4</sup> La durée de validité des annexes est prolongée jusqu’au 31 décembre 2025.[^78-3]
+<sup>4</sup> …[^78-3]
 
 [^78-1]: Abrogé par le ch. I de l’O du DFI du 18 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^78-2]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)).
-[^78-3]: Introduit par le ch. I de l’O du DFI du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 762](https://fedlex.data.admin.ch/eli/oc/2024/762)).
+[^78-2]: Introduit par le ch. I de l’O du DFI du 18 nov. 2020 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). Nouvelle teneur selon le ch. I de l’O du DFI du 20 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
+[^78-3]: Introduit par le ch. I de l’O du DFI du 20 nov. 2024 ([RO 2024 762](https://fedlex.data.admin.ch/eli/oc/2024/762)). Abrogé par le ch. I de l’O du DFI du 20 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841)).
 
 Annexe 1[^t-1]
 
 (art. 4, al. 2, et 26, al. 2)
 
-## Objectifs généraux de l’encouragement pour les années 2021 à 2024
+## Objectifs généraux de l’encouragement pour les années 2026 à 2028
 
-[^t-1]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). En vigueur jusqu’au 31 déc. 2025 (voir art. 78, al. 4).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 20 nov. 2025, en vigueur du 1<sup>er</sup> janv. 2026 au 31 déc. 2028 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841); art. 78, al. 3).
 
-- [tab] L’encouragement de la présence internationale de la création cinématographique suisse et les mesures compensatoires MEDIA de la Confédération pour les années 2021 à 2024 poursuivent les objectifs supérieurs suivants:
+L’encouragement de la présence internationale de la création cinématographique suisse et les mesures compensatoires MEDIA de la Confédération pour les années 2026 à 2028 poursuivent les objectifs supérieurs suivants:
+
 - – renforcement de la visibilité de la création cinématographique suisse en Suisse et à l’étranger;
-- – prise en considération dans tous les domaines d’encouragement du principe de la diversité en ce qui concerne l’accès au soutien, en particulier soutien équilibré des projets de femmes et des projets d’hommes, des projets issus de différentes régions linguistiques ainsi que des projets et des organisations;
-- – prise en considération du principe d’une utilisation économe des ressources.
+- – prise en considération dans tous les domaines d’encouragement du principe de la diversité en ce qui concerne l’accès au soutien, en particulier soutien équilibré des projets de femmes et des projets d’hommes ainsi que des projets et des organisations issus de différentes régions linguistiques;
+- – utilisation économe des ressources.
 
 Annexe 2[^t-2]
 
 (art. 4, al. 2)
 
-## Régime d’encouragement concernant les mesures d’encouragement de la présence internationale de la création cinématographique suisse pour les années 2021 à 2024
+## Encouragement de la présence internationale de la création cinématographique suisse: régime d’encouragement pour les années 2026 à 2028
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). En vigueur jusqu’au 31 déc. 2025 (voir art. 78, al. 4).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFI du 20 nov. 2025, en vigueur du 1<sup>er</sup> janv. 2026 au 31 déc. 2028 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841); art. 78, al. 3).
 
 ### 1 Objectifs et indicateurs
 
@@ -1701,7 +1723,7 @@ Annexe 2[^t-2]
 
   Les indicateurs sont:
 
-  - a. le nombre de films soutenus à l’étranger par genre et pays d’origine;
+  - a. le nombre de films soutenus par genre et pays d’origine;
   - b. le nombre d’entrées réalisées en salle par des films soutenus;
   - c. le nombre de films soutenus par producteur et par entreprise de distribution;
   - d. le nombre de films vendus pour l’exploitation à l’étranger et le nombre de ces films ayant bénéficié d’un soutien;
@@ -1709,7 +1731,7 @@ Annexe 2[^t-2]
 
 ### 1.2 Participation à des festivals internationaux, marchés cinématographiques et remises de distinctions
 
-- 1\.2.1 Les films suisses doivent avoir accès aux festivals de films internationaux, aux marchés cinématographiques ainsi qu’à des manifestations comparables:
+- 1\.2.1 Les films suisses doivent avoir accès aux festivals de films internationaux, aux marchés cinématographiques ainsi qu’à des manifestations comparables.
 - 1\.2.2
 
   Les indicateurs sont:
@@ -1727,38 +1749,38 @@ Annexe 2[^t-2]
 
   - a. le nombre de participants par type de programme;
   - b. le nombre de programmes fréquentés;
-  - c. le montants annuels octroyés pour la formation continue.
+  - c. les montants annuels octroyés pour la formation continue.
 
 ### 2 Évaluation
 
 - 2\.1 L’évaluation des mesures d’encouragement de la présence internationale de la création cinématographique suisse se fait sur la base du rapport annuel que la fondation «Swiss Films» remet à l’OFC.
-- 2\.2 L’OFC procède à une évaluation externe de mesures choisies.
+- 2\.2 L’OFC procède à une évaluation externe de l’efficacité de mesures choisies.
 
 Annexe 3[^t-3]
 
 (art. 26, al. 2)
 
-## Régime d’encouragement concernant les mesures compensatoires MEDIA pour les années 2021 à 2024
+## Mesures compensatoires MEDIA: régime d’encouragement pour les années 2026 à 2028
 
-[^t-3]: Introduite par le ch. II al. 2 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). En vigueur jusqu’au 31 déc. 2025 (voir art. 78, al. 4).
+[^t-3]: Introduite par le ch. II al. 2 de l’O du DFI du 18 nov. 2020 ([RO 2020 5985](https://fedlex.data.admin.ch/eli/oc/2020/1001)). Nouvelle teneur selon le ch. II de l’O du DFI du 20 nov. 2025, en vigueur du 1<sup>er</sup> janv. 2026 au 31 déc. 2028 ([RO 2025 841](https://fedlex.data.admin.ch/eli/oc/2025/841); art. 78, al. 3).
 
 ### 1 Objectifs et indicateurs
 
 ### 1.1 Objectifs généraux
 
 - 1\.1.1 Les mesures compensatoires MEDIA visent à compenser les effets négatifs de la non-participation de la Suisse aux programmes de soutien à l’industrie audiovisuelle de l’Union européenne et à assurer la présence internationale du cinéma suisse.
-- 1\.1.2 Les mesures compensatoires MEDIA ont pour objectif de donner des incitations pour faciliter la réintégration de la branche cinématographique suisse au sein des programmes de soutien européens et pour maintenir les réseaux existants.
+- 1\.1.2 Les mesures compensatoires MEDIA ont pour objectif de préserver la compétitivité du cinéma suisse et de donner des incitations pour faciliter la réintégration de la branche cinématographique suisse au sein des programmes de soutien européens, pour maintenir les réseaux existants et pour en créer de nouveaux.
 
 ### 1.2 Développement d’œuvres audiovisuelles avec un potentiel européen
 
-- 1\.2.1 Les producteurs suisses doivent pouvoir développer des projets en collaboration avec des partenaires européens.
+- 1\.2.1 Les entreprises de production suisses doivent pouvoir développer des projets en collaboration avec des partenaires européens.
 - 1\.2.2
 
   Les indicateurs sont:
 
-  - a. le nombre de demandes de développement de projet et le nombre de demandes accordées par genre de film;
-  - b. le nombre et les pays d’origine des partenaires étrangers;
-  - c. la proportion de coproductions par rapport au nombre de projets soutenus et de films achevés;
+  - a. le nombre de demandes de développement de projet et le nombre de demandes accordées par genre;
+  - b. le nombre et le pays d’origine des partenaires étrangers;
+  - c. la proportion de coproductions par rapport au nombre de projets soutenus dans la phase de développement et de films achevés;
   - d. le nombre de projets développés et la proportion de films ayant du succès dans un festival ou auprès du public par rapport au nombre de films achevés;
   - e. la région linguistique d’origine des entreprises de production suisses.
 
@@ -1770,7 +1792,7 @@ Annexe 3[^t-3]
   Les indicateurs sont:
 
   - a. le nombre de films soutenus à travers l’aide à la distribution également soutenus par le programme MEDIA de l’Union européenne;
-  - b. le nombre d’entrées en salles et de séances réalisées par des films soutenus;
+  - b. le nombre d’entrées en salles des films soutenus;
   - c. le nombre de pays d’origine des films soutenus;
   - d. la proportion du soutien par rapport aux coûts de la promotion de films et aux coûts pour l’achat de films.
 
@@ -1781,22 +1803,21 @@ Annexe 3[^t-3]
 
   Les indicateurs sont:
 
-  - a. le nombre de programmes de formation continue internationaux soutenus;
-  - b. le nombre de domaines professionnels ayant participé à ces programmes;
-  - c. le nombre de participants à ces programmes par pays d’origine;
-  - d. le nombre et la part de financement de partenaires tiers à ces programmes.
+  - a. le nombre et le type de programmes de formation continue soutenus;
+  - b. le nombre de participants à ces programmes par pays d’origine;
+  - c. le nombre et la part de financement de partenaires tiers à ces programmes.
 
 ### 1.5 Marchés et activités avec une dimension européenne
 
-- 1\.5.1 Les festivals suisses et les organisations qui mettent sur pied des manifestations comparables doivent renforcer la visibilité des films européens ainsi que les échanges entre les cinéastes, notamment en proposant des marchés et des activités comparables aux représentants de l’industrie cinématographique européenne.
+- 1\.5.1 Les festivals suisses et les organisations suisses qui mettent sur pied des manifestations comparables doivent renforcer la visibilité des films européens ainsi que les échanges entre les cinéastes, notamment en proposant des marchés et des activités comparables aux représentants de l’industrie cinématographique européenne.
 - 1\.5.2
 
   Les indicateurs sont:
 
   - a. le nombre de marchés et d’activités comparables;
-  - b. le nombre d’activités réalisées sur des plateformes et des canaux numériques.
+  - b. le nombre d’activités réalisées sur des plateformes et des canaux numériques;
   - c. le nombre de participants par pays d’origine et par domaine d’activité professionnelle;
-  - d. le nombre de films et de projets de film proposés sur ces marchés par pays d’origine;
+  - d. le nombre de films et de projets de film proposés sur ces marchés, par pays d’origine.
 
 ### 1.6 Festivals avec une offre cinématographique européenne
 
@@ -1807,12 +1828,11 @@ Annexe 3[^t-3]
 
   - a. le nombre de visiteurs;
   - b. l’origine des films programmés et leur proportion par rapport à l’ensemble du programme;
-  - c. l’âge et le sexe du public;
-  - d. le nombre d’activités destinées au public jeune.
+  - c. le nombre d’activités destinées au public jeune.
 
 ### 1.7 Collaboration européenne en matière de médiation cinématographique
 
-- 1\.7.1 Les organisations suisses doivent être renforcées par le biais de coopérations et d’échanges de savoir à l’échelon européen dans le domaine de la médiation cinématographique destinée au jeune public.
+- 1\.7.1 Les organisations suisses doivent être renforcées par le biais de coopérations et d’échanges de savoir à l’échelon européen dans le domaine de la médiation cinématographique destinée au public jeune.
 - 1\.7.2
 
   Les indicateurs sont:
