@@ -3,20 +3,19 @@ canton: BL
 number: "146.111"
 title: "Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Bildungs-, Kultur- und Sportdirektion"
 language: de
-version: 2022-01-01
-valid_until: 2025-12-31
-version_adopted: 2022-01-06
+version: 2026-01-01
+version_adopted: 2025-12-18
 adopted: 2018-03-14
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/146.111"
-pdf: "https://bl.clex.ch/api/de/versions/4273/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4413/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Zuständigkeiten für Ausgabenbewilligungen in der Bildungs-, Kultur- und Sportdirektion
 
-Vom 14.03.2018 (Stand 01.01.2022)
+Vom 14.03.2018 (Stand 01.01.2026)
 
 Die Vorsteherin der Bildungs-, Kultur- und Sportdirektion des Kantons Basel-Landschaft,
 
@@ -65,7 +64,7 @@ beschliesst:
 
 <sup>1</sup> Für die Bewilligung der Ausgaben gemäss § 39 Abs. 5 Vo FHG sind folgende Stellen zuständig:
 
-- a. für die interkantonalen Schulabkommen die Dienststelle Berufsbildung, Mittelschulen und Hochschulen, Hauptabteilung Berufsbildung und Berufsberatung zusammen mit dem Generalsekretariat;
+- a. für die interkantonalen Schulabkommen die Dienststelle Berufsbildung, Mittelschulen und Hochschulen, Stabsstelle, zusammen mit dem Generalsekretariat;
 - b. für die Lehrmittel die jeweils zuständige Organisationseinheit;
 - c. für das Schul- und Büromaterial das Generalsekretariat, Abteilung Rechnungswesen, Einkauf und Logistik;
 - d. für die schulischen Aufgaben- und Leistungschecks das Amt für Volksschulen;
@@ -99,17 +98,19 @@ beschliesst:
 
 **Zuständigkeiten innerhalb Berufsbildung, Mittelschulen und Hochschulen (BMH)**
 
-<sup>1</sup> Der Leiter oder die Leiterin der Hauptabteilung Berufsbildung und Berufsberatung ist zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in seinem bzw. ihrem Aufgabenbereich.
+<sup>1</sup> Der Leiter oder die Leiterin der Hauptabteilung Berufsbildung ist zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in seinem bzw. ihrem Aufgabenbereich.
 
-<sup>2</sup> In der Hauptabteilung Berufsbildung und Berufsberatung sind der Leiter oder die Leiterin der Abteilung Ausbildungsbeiträge zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– im Bereich der Stipendien und Ausbildungsbeiträge.
+<sup>2</sup> In der Hauptabteilung Berufsbildung sind der Leiter oder die Leiterin der Abteilung Ausbildungsbeiträge zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– im Bereich der Stipendien und Ausbildungsbeiträge.
 
-<sup>3</sup> In der Hauptabteilung Berufsbildung und Berufsberatung sind die Rektoren und die Rektorinnen der Berufsfachschulen zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in ihrem Aufgabenbereich.
+<sup>3</sup> …
 
-<sup>4</sup> Der Leiter oder die Leiterin der Hauptabteilung Mittelschulen ist zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in seinem bzw. ihrem Aufgabenbereich.
+<sup>4</sup> Der Leiter oder die Leiterin der Hauptabteilung Berufs- und Mittelschulen ist zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in seinem bzw. ihrem Aufgabenbereich.
 
-<sup>5</sup> In der Hauptabteilung Mittelschulen sind die Rektoren und die Rektorinnen der Gymnasien zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in ihrem Aufgabenbereich.
+<sup>5</sup> In der Hauptabteilung Berufs- und Mittelschulen sind die Rektoren und die Rektorinnen der Gymnasien und der Berufsfachschulen zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in ihrem Aufgabenbereich.
 
 <sup>6</sup> Der Leiter oder die Leiterin der Hauptabteilung Hochschulen ist zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in seinem bzw. ihrem Aufgabenbereich.
+
+<sup>7</sup> Der Leiter oder die Leiterin der Hauptabteilung Laufbahnzentrum ist zuständig für die Bewilligung von einmaligen Ausgaben bis CHF 100‘000.– und wiederkehrenden Ausgaben bis CHF 50‘000.– in seinem bzw. ihrem Aufgabenbereich.
 
 #### § 7
 
