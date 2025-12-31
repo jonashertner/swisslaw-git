@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 21 aprile 2016 sulla promozione cinematografica (OP
 short: OPCin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/291"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-291-20250101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-291-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20250101/it"
 
 (OPCin)
 
-del 21 aprile 2016 (Stato 1° gennaio 2025)
+del 21 aprile 2016 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -25,8 +25,8 @@ visti gli articoli 8 capoverso 2, 11 capoverso 1, 12 capoverso 3 e 26 capoverso 
 
 ordina:
 
-[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
-[^ingress-2]: [RS 443.11](https://fedlex.data.admin.ch/eli/cc/2002/284)
+[^ingress-1]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
+[^ingress-2]: [RS 443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7136)
 
 ## Titolo primo: Disposizioni generali
 
@@ -57,8 +57,8 @@ La presente ordinanza disciplina gli strumenti di promozione, le condizioni, i p
 
 <sup>3</sup> Si applica alla promozione cinematografica nel settore della cooperazione internazionale per quanto l’ordinanza del DFI del 21 aprile 2016[^2-2] sulla promozione della presenza internazionale della cinematografia svizzera e sulle misure compensative MEDIA (OPICin) non disponga altrimenti.
 
-[^2-1]: [RS 443.116](https://fedlex.data.admin.ch/eli/cc/2004/654)
-[^2-2]: [RS 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
+[^2-1]: [RS 443.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7141)
+[^2-2]: [RS 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 
 #### Art. 3
 
@@ -83,13 +83,19 @@ Nella presente ordinanza s’intende per:
 
 - d. *lungometraggio*: un film di durata pari o superiore a 60 minuti;
 - e. *cortometraggio*: un film di durata inferiore a 60 minuti;
-- f.[^3-1] *nuova leva*: una persona che ha partecipato alla sceneggiatura, alla regia o alla produzione di al massimo tre cortometraggi o due lungometraggi in una posizione di responsabilità nel settore artistico o tecnico;
+- e<sup>bis</sup>.[^3-1] *serie*: un’opera audiovisiva composta da più parti creative collegate tra loro da una struttura narrativa;
+- e<sup>ter</sup>.[^3-2] *serie lunga*: una serie di fiction o di animazione con una durata complessiva pari o superiore a 120 minuti per stagione, oppure una serie documentaria con una durata complessiva pari o superiore a 100 minuti per stagione;
+- e<sup>quater</sup>.[^3-3] *formato narrativo innovativo*: un’opera audiovisiva che adotta nuovi metodi, tecniche e modalità narrative;
+- f.[^3-4] *nuova leva*: una persona che ha partecipato alla sceneggiatura, alla regia o alla produzione di al massimo tre cortometraggi o due lungometraggi in una posizione di responsabilità nel settore artistico o tecnico;
 - g. *contributo a progetto*: un aiuto finanziario per condurre un progetto unico, limitato nel tempo e nello spazio;
 - h. *contributo strutturale*: un aiuto finanziario all’esercizio di un’istituzione o un’impresa;
-- i.[^3-2] *premio alla pluralità*: un aiuto finanziario per contributi alla pluralità dell’offerta in Svizzera.
+- i.[^3-5] *premio alla pluralità*: un aiuto finanziario per contributi alla pluralità dell’offerta in Svizzera.
 
-[^3-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^3-2]: Introdotta dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^3-1]: Introdotta dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^3-2]: Introdotta dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^3-3]: Introdotta dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^3-5]: Introdotta dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 ## Titolo secondo: Strumenti e condizioni della promozione
 
@@ -127,9 +133,11 @@ Tali persone non devono, né del tutto né in parte, essere detenute da o trovar
 
 **Professionalità**
 
-<sup>1</sup> Chi richiede un aiuto finanziario deve garantire che il compito per il quale è richiesto un sostegno sarà svolto con professionalità.
+<sup>1</sup> Chi richiede un aiuto finanziario deve garantire che il compito per il quale è richiesto un sostegno sia svolto con professionalità e che siano presi provvedimenti adeguati per la protezione degli impiegati e di altre persone incaricate contro molestie sessuali, discriminazioni e abusi.[^6-1]
 
 <sup>2</sup> Deve dimostrare che tutte le persone partecipanti al progetto in misura determinante dispongono di una formazione o di un’esperienza professionale adeguata per l’esercizio della loro funzione.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### Capitolo 2: Promozione della creazione cinematografica svizzera
 
@@ -184,7 +192,10 @@ I film coprodotti con imprese che commercializzano film, segnatamente emittenti 
 
 <sup>3</sup> Possono beneficiare di un sostegno sia lungometraggi sia cortometraggi.
 
+<sup>4</sup> Le serie possono beneficiare di un sostegno alla stregua dei film, a condizione che siano citate esplicitamente nel relativo regime di promozione. Sono applicabili per analogia le disposizioni della presente ordinanza valide per i film, segnatamente i criteri di qualità, le condizioni e gli oneri.[^9-2]
+
 [^9-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^9-2]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 10
 
@@ -242,23 +253,26 @@ Sono ritenuti realizzati in parte determinante in Svizzera i film di fiction che
 - b. sono coprodotti con l’estero sotto la responsabilità di un’impresa di produzione svizzera, totalizzano almeno 5 giorni di riprese in Svizzera e le cui spese computabili ammontano almeno a 1 200 000 di franchi;
 - c. sono coprodotti con un’impresa di produzione svizzera sotto la responsabilità di un’impresa di produzione estera, totalizzano almeno 5 giorni di riprese in Svizzera e le cui spese computabili ammontano almeno a 300 000 franchi.
 
+<sup>2bis</sup> Nel caso di film di fiction girati principalmente all’estero, i 5 giorni di riprese in Svizzera secondo il capoverso 2 possono essere compensati con spese computabili aggiuntive pari ad almeno 150 000 franchi destinate all’occupazione continua di personale tecnico dalla Svizzera. Sono considerate spese aggiuntive le spese delle imprese di produzione svizzere che superano la percentuale di finanziamento svizzero della coproduzione.[^14-3]
+
 <sup>3</sup>
 
 Sono ritenuti realizzati in parte determinante in Svizzera i documentari che:
 
-- a.[^14-3] ...
+- a.[^14-4] ...
 - b. sono coprodotti con l’estero sotto la responsabilità di un’impresa di produzione svizzera e le cui spese computabili ammontano almeno a 250 000 franchi;
 - c. sono coprodotti con un’impresa di produzione svizzera sotto la responsabilità di un’impresa di produzione estera e le cui spese computabili ammontano almeno a 150 000 franchi.
 
-<sup>4</sup> I film svizzeri non sono ammessi alla promozione legata alla sede di produzione.[^14-4]
+<sup>4</sup> I film svizzeri non sono ammessi alla promozione legata alla sede di produzione.[^14-5]
 
-<sup>5</sup> I film televisivi e le serie non sono ammessi alla promozione legata alla sede di produzione.[^14-5]
+<sup>5</sup> I film televisivi e le serie non sono ammessi alla promozione legata alla sede di produzione.[^14-6]
 
 [^14-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 [^14-2]: Abrogata dalla cifra I dell’O del DFI del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
-[^14-3]: Abrogata dalla cifra I dell’O del DFI del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
-[^14-4]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^14-3]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^14-4]: Abrogata dalla cifra I dell’O del DFI del 20 nov. 2024, con effetto dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 [^14-5]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^14-6]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 
 ### Capitolo 2*a*: Promozione della pluralità e della qualità dell’offerta cinematografica
 
@@ -303,7 +317,7 @@ Possono beneficiare di un sostegno:
 
 <sup>2</sup> Gli aiuti finanziari sono calcolati secondo i criteri stabiliti nell’allegato 3 numero 2.
 
-[^14b-1]: [RS 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
+[^14b-1]: [RS 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 
 #### Art. 14c
 
@@ -317,14 +331,17 @@ Gli aiuti finanziari per promuovere la pluralità dell’offerta possono essere 
 - b. svolgono la loro attività in maniera professionale, segnatamente le imprese di distribuzione che distribuiscono regolarmente film di una certa portata o le imprese di proiezione i cui programmi si svolgono in sale cinematografiche che ospitano almeno 50 proiezioni all’anno;
 - c. adempiono agli obblighi di cui agli articoli 19 e 24 LCin.
 
-<sup>2</sup> Sono esclusi dal sostegno secondo l’articolo 14*b* capoverso 1 lettera a i film la cui distribuzione o diffusione è già sostenuta in base all’articolo 7.
+<sup>2</sup> ...[^14c-1]
 
 <sup>3</sup>
 
 Sono esclusi dal sostegno secondo l’articolo 14*b* capoverso 1 lettera c:
 
 - a. le imprese di proiezione con più di 25 sale cinematografiche; le imprese o sale economicamente legate tra loro sono considerate una singola impresa;
-- b. le sale cinematografiche ammesse a partecipare al programma di sostegno del Consiglio d’Europa «Europe Cinémas».
+- b.[^14c-2] le sale cinematografiche ammesse a partecipare al programma di sostegno del Consiglio d’Europa «Europa Cinemas».
+
+[^14c-1]: Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^14c-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### Capitolo 3: Promozione della cultura cinematografica e della formazione continua
 
@@ -364,14 +381,15 @@ Possono beneficiare di un sostegno progetti e attività che contribuiscono al ra
 - a.[^16-1] valorizzare film selezionati della creazione cinematografica attuale e del patrimonio cinematografico nonché promuovere lo scambio tra i cineasti e il pubblico in occasione di festival cinematografici;
 - b. stimolare la riflessione critica sul cinema come mezzo di comunicazione;
 - c. sensibilizzare bambini e giovani;
-- d. facilitare l’accesso ai film svizzeri e alle informazioni sulla creazione cinematografica svizzera attuale e sul patrimonio cinematografico svizzero;
+- d.[^16-2] rafforzare la visibilità dei film svizzeri e facilitare l’accesso agli stessi nonché alle informazioni sulla creazione cinematografica svizzera attuale e sul patrimonio cinematografico svizzero;
 - e. rafforzare l’innovazione e la capacità di sviluppo nel settore della creazione cinematografica svizzera;
 - f. promuovere la formazione professionale continua nel settore audiovisivo.
 
-<sup>2</sup> Gli aiuti finanziari sono concessi secondo i criteri di qualità stabiliti nell’allegato 4 numero 2.[^16-2]
+<sup>2</sup> Gli aiuti finanziari sono concessi secondo i criteri di qualità stabiliti nell’allegato 4 numero 2.[^16-3]
 
 [^16-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^16-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^16-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^16-3]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 17
 
@@ -400,7 +418,7 @@ Gli aiuti finanziari destinati alla promozione della cultura cinematografica pos
 La Confederazione promuove la conservazione del patrimonio cinematografico svizzero mediante contributi strutturali concessi alla Fondazione «Cineteca svizzera» per i seguenti compiti d’interesse pubblico:
 
 - a. collezionare, conservare e rendere accessibile il patrimonio audiovisivo della Svizzera;
-- b. restaurare i film svizzeri;
+- b.[^18-2] restaurare e digitalizzare i film svizzeri;
 - c. collaborare con altre istituzioni nazionali e internazionali che contribuiscono alla conservazione del patrimonio audiovisivo.
 
 <sup>2</sup> L’estensione dei compiti, l’indennizzo, le modalità di collaborazione e il controllo statale sono disciplinati in un contratto di prestazioni stipulato tra la Fondazione «Cineteca svizzera» e l’UFC. Quando stipula il contratto, l’UFC provvede affinché siano rispettati i criteri stabiliti nell’allegato 5 numero 2.
@@ -408,6 +426,7 @@ La Confederazione promuove la conservazione del patrimonio cinematografico svizz
 <sup>3</sup> Gli obiettivi e gli indicatori per la valutazione degli strumenti di promozione sono stabiliti negli allegati 1 e 4 numero 1.
 
 [^18-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^18-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### Capitolo 4: Coordinamento degli strumenti di promozione
 
@@ -446,11 +465,14 @@ Chi riceve contributi strutturali dall’UFC per un compito d’interesse pubbli
 
 I seguenti strumenti di promozione secondo la presente ordinanza possono essere cumulati con gli strumenti di promozione secondo l’OPICin[^21-1] nel quadro degli importi massimi applicabili:
 
-- a. gli aiuti finanziari della promozione cinematografica selettiva e i reinvestimenti degli accrediti della promozione cinematografica legata al successo secondo la presente ordinanza con gli aiuti finanziari della promozione selettiva per lo sviluppo di progetti secondo l’OPICin;
-- b.[^21-2] i contributi strutturali o i contributi a progetto per la promozione della cultura cinematografica e della formazione continua secondo la presente ordinanza con gli aiuti finanziari secondo l’OPICin.
+- a.[^21-2] gli aiuti finanziari della promozione cinematografica selettiva e i reinvestimenti degli accrediti della promozione cinematografica legata al successo secondo la presente ordinanza con gli aiuti finanziari della promozione selettiva per lo sviluppo di progetti e lo sviluppo congiunto secondo l’OPICin;
+- a<sup>bis</sup>.[^21-3] i reinvestimenti degli accrediti della promozione cinematografica legata al successo secondo la presente ordinanza con i reinvestimenti degli accrediti della promozione della distribuzione legata al successo di film europei in Svizzera secondo l’OPICin;
+- b.[^21-4] i contributi strutturali o i contributi a progetto per la promozione della cultura cinematografica e della formazione continua secondo la presente ordinanza con gli aiuti finanziari secondo l’OPICin.
 
-[^21-1]: [RS 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
-[^21-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^21-1]: [RS 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
+[^21-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^21-3]: Introdotta dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^21-4]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 22
 
@@ -490,9 +512,9 @@ La disposizione concernente la quota del finanziamento federale di cui al capove
 
 - a. agli aiuti finanziari versati dall’UFC nel quadro di contratti di prestazioni a istituzioni e organizzazioni che svolgono compiti esecutivi secondo l’articolo 34 capoverso 2 LCin;
 - b. ai contributi strutturali versati alla Fondazione di formazione continua «FOCAL» e alla Fondazione «Cineteca svizzera»;
-- c.[^24-1] ai premi alla pluralità secondo gli articoli 14*a*−14*c*.
+- c.[^24-1] ai premi alla pluralità secondo gli articoli 14*a*−14*c*, tranne nel caso in cui accrediti della promozione cinematografica legata al successo vengano investiti nella distribuzione.
 
-[^24-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^24-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 25
 
@@ -510,8 +532,8 @@ La disposizione concernente la quota del finanziamento federale di cui al capove
 
 Gli aiuti finanziari della promozione cinematografica legata alla sede di produzione ammontano:
 
-- a. al 40 per cento delle spese computabili per i film senza produzione responsabile svizzera e senza regia svizzera, escluse le spese di cui all’articolo 29 capoverso 3;
-- b. al 20 per cento delle spese computabili e delle spese di cui all’articolo 29 capoverso 3 per gli altri film.[^26-1]
+- a. al 40 per cento delle spese computabili per i film senza produzione responsabile svizzera e senza regia svizzera, escluse le spese di cui all’articolo 29 capoversi 3 e 3<sup>bis</sup>;
+- b. al 20 per cento delle spese computabili e delle spese di cui all’articolo 29 capoversi 3 e 3<sup>bis</sup> per gli altri film.[^26-1]
 
 <sup>2</sup>
 
@@ -520,7 +542,10 @@ Nel caso delle seguenti spese per la tecnica e la postproduzione, gli aiuti fina
 - a. il noleggio di cineprese, materiale audio, materiale d’illuminazione e materiale di scena;
 - b. la postproduzione audio e video, compresi gli effetti speciali.
 
-[^26-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+<sup>3</sup> Per le coproduzioni con produzione responsabile svizzera, l’aiuto finanziario secondo il capoverso 2 ammonta al 50 per cento delle spese computabili.[^26-2]
+
+[^26-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^26-2]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 26a
 
@@ -542,13 +567,15 @@ Nel caso delle seguenti spese per la tecnica e la postproduzione, gli aiuti fina
 
 <sup>1</sup> Le spese iscritte a preventivo sono computabili nella misura in cui sono necessarie per attuare il progetto o il compito in modo professionale e coerente con gli obiettivi stabiliti.
 
-<sup>2</sup> Le spese per il personale artistico e tecnico sono computabili nella misura in cui corrispondono alle direttive concordate tra le parti sociali o le associazioni oppure sono d’uso nel settore.
+<sup>2</sup> Le spese per il personale artistico e tecnico sono computabili nella misura in cui corrispondono alle direttive concordate tra le parti sociali o le associazioni e non sono discriminatorie.[^27-1]
 
 <sup>3</sup> Le voci del preventivo il cui ammontare può essere stabilito dal richiedente per se stesso e i suoi impiegati o concordato con il regista e gli autori della sceneggiatura sono computabili se non eccedono la misura consueta. Rientrano in queste voci in particolare le cessioni di diritti, i compensi e i salari di sceneggiatore, regista e produttore, nonché le spese amministrative della produzione.
 
 <sup>4</sup> Se un progetto cinematografico o un compito ha già beneficiato di un sostegno in una fase anteriore, le spese sostenute e il loro finanziamento devono essere dichiarati separatamente.
 
 <sup>5</sup> Le spese sostenute prima della presentazione della domanda (spese preliminari) sono computabili nella misura in cui erano necessarie e opportune. Il contributo federale richiesto non può tuttavia superare le spese prevedibili tra la presentazione della domanda e l’ultimazione del progetto.
+
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 28
 
@@ -594,6 +621,8 @@ Se il film è prodotto senza aiuti finanziari della promozione selettiva alla re
 - a. gli onorari degli sceneggiatori fino al 3 per cento delle spese di realizzazione, ma al massimo 50 000 franchi;
 - b. le spese di allestimento sostenute fino al 5 per cento delle spese di realizzazione, ma al massimo 50 000 franchi.[^29-1]
 
+<sup>3bis</sup> Se il film è prodotto senza aiuti finanziari della promozione selettiva alla realizzazione e sono soddisfatte le condizioni di cui al capoverso 2 lettere a e b, sono computabili le spese sostenute per il team di produzione fino al 5 per cento della partecipazione svizzera alle spese di realizzazione, ma al massimo 50 000 franchi, nella misura in cui il team di produzione sia composto da persone con domicilio in Svizzera impiegate stabilmente dall’impresa di produzione svizzera e la direzione della produzione non sia affidata a terzi indipendenti.[^29-2]
+
 <sup>4</sup>
 
 Non sono computabili le spese per:
@@ -602,9 +631,12 @@ Non sono computabili le spese per:
 - b. la consulenza giuridica, l’assicurazione e il finanziamento;
 - c. il viaggio e il trasporto degli attori dalla Svizzera verso l’estero o viceversa;
 - d. i compensi degli attori e del regista nella misura in cui, sommati fra loro, superano il 15 per cento delle spese di realizzazione;
-- e. l’infrastruttura generale e l’amministrazione (spese generali), le riserve per imprevisti e altre spese forfettarie.
+- e. l’infrastruttura generale e l’amministrazione (spese generali), le riserve per imprevisti e altre spese forfettarie;
+- f.[^29-3] le prestazioni di produttori impiegati e di persone che partecipano finanziariamente alle imprese di produzione coproduttrici, segnatamente in veste di titolari, oppure che ricoprono una posizione dirigenziale in una delle imprese di produzione partecipanti.
 
 [^29-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^29-2]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^29-3]: Introdotta dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### Capitolo 3: Priorità
 
@@ -678,13 +710,25 @@ Il bando di concorso indica:
 
 **Principio**
 
-Per la concessione di aiuti finanziari occorre presentare una domanda all’UFC.
+<sup>1</sup> Per la concessione di aiuti finanziari occorre presentare una domanda all’UFC.
+
+<sup>2</sup> L’UFC mette a disposizione dei moduli per la presentazione delle domande.[^34-1]
+
+[^34-1]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 35
 
-**Documenti da presentare**
+**Documenti da presentare e obbligo di informare[^35-1]**
 
-Le domande devono essere corredate di tutte le informazioni e i documenti giustificativi utili alla valutazione, in particolare del preventivo e del piano finanziario.
+<sup>1</sup> Le domande devono essere corredate di tutte le informazioni e i documenti giustificativi utili alla valutazione, in particolare del preventivo e del piano finanziario.
+
+<sup>2</sup> Il progetto cinematografico per cui è presentata la domanda deve essere contrassegnato in maniera univoca indicando l’*International Standard Audiovisual Number* (numero ISAN).[^35-2]
+
+<sup>3</sup> L’uso dell’intelligenza artificiale deve essere dichiarato; su richiesta occorre indicare o presentare le parti del progetto interessate, i programmi utilizzati e le regole stabilite a riguardo.[^35-3]
+
+[^35-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^35-2]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^35-3]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 36
 
@@ -734,13 +778,17 @@ L’UFC verifica inoltre se:
 
 #### Art. 40
 
-**Completamento, rettifica e rinvio**
+**Rinvio, completamento e rettifica[^40-1]**
 
-<sup>1</sup> Se durante l’esame preliminare riscontra piccole lacune, l’UFC dà al richiedente la possibilità di completare o rettificare la domanda.
+<sup>1</sup> Se durante l’esame preliminare l’UFC riscontra che i requisiti secondo l’articolo 39 capoversi 1 e 2 non sono adempiuti, può rinviare la domanda al richiedente senza entrare nel merito.[^40-2]
 
-<sup>2</sup> Se i requisiti formali per la concessione di un sostegno non sono adempiuti, l’UFC può rinviare la domanda al richiedente senza entrare nel merito.
+<sup>2</sup> L’UFC può dare al richiedente la possibilità di completare o rettificare la domanda, a condizione che si tratti di lacune a cui si può rimediare facilmente.[^40-3]
 
 <sup>3</sup> Il richiedente può esigere l’emanazione di una decisione impugnabile.
+
+[^40-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^40-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^40-3]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### Sezione 3: Perizia
 
@@ -784,7 +832,7 @@ Sono considerati prevenuti ai sensi dell’articolo 10 PA gli esperti che, in re
 
 <sup>4</sup> Gli esperti considerati prevenuti in relazione a tutte le domande presentate nel quadro di un bando di concorso sono esclusi dalla procedura peritale riguardante le domande del bando in questione.
 
-[^42-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^42-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 43
 
@@ -803,23 +851,24 @@ Le domande di aiuti finanziari della promozione cinematografica selettiva sono s
 
 **Commissione di esperti sulla promozione cinematografica: composizione dei comitati e requisiti**
 
-<sup>1</sup> I comitati «film di fiction» e «documentario» si riuniscono ciascuno in due composizioni diverse di cinque persone, il comitato «film di animazione» in due composizioni diverse di tre persone. Ogni due anni i membri dei comitati sono interamente sostituiti.
+<sup>1</sup> I comitati «film di fiction» e «documentario» sono composti ciascuno da cinque persone, il comitato «film di animazione» da tre persone.[^44-1]
 
-<sup>2</sup> I comitati «film di fiction», «documentario» e «film di animazione» si riuniscono una volta su due nella medesima composizione, sempre che l’adempimento delle prescrizioni sulla ricusazione ed eventuali impedimenti lo consentano.[^44-1]
+<sup>2</sup> *...*[^44-2]
 
 <sup>3</sup>
 
 Nella composizione dei comitati «film di fiction», «documentario» e «film di animazione», l’UFC provvede in particolare affinché vi siano rappresentate competenze specialistiche ed esperienza nei seguenti settori:
 
 - a. produzione: competenze ed esperienza nella produzione di film del genere corrispondente a livello nazionale e internazionale;
-- b.[^44-2] regia e sceneggiatura: competenza ed esperienza nella regia di film del genere corrispondente, nella drammaturgia e nella stesura di sceneggiature e di scalette;
+- b.[^44-3] regia e sceneggiatura: competenza ed esperienza nella regia di film del genere corrispondente, nella drammaturgia e nella stesura di sceneggiature e di scalette;
 - c. tecnica: competenze ed esperienza nell’applicazione e nell’organizzazione cinematografica;
 - d. commercializzazione: competenze ed esperienza nella distribuzione, nella diffusione o nella programmazione di film e in festival.
 
 <sup>4</sup> Il comitato «commercializzazione e pluralità» è composto di tre persone. Esse devono vantare competenze specialistiche ed esperienza in materia di commercializzazione a livello nazionale e internazionale.
 
-[^44-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^44-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^44-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^44-2]: Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^44-3]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 45
 
@@ -841,13 +890,14 @@ Nella composizione dei comitati «film di fiction», «documentario» e «film d
 
 **Perizie singole**
 
-<sup>1</sup> Le domande di aiuti finanziari della promozione cinematografica selettiva per lo sviluppo di progetti transmediali, per la realizzazione di coproduzioni senza imprese di produzione responsabili svizzere e per la postproduzione di film sono sottoposte per perizia a singoli esperti.[^46-1]
+<sup>1</sup> Le domande di aiuti finanziari della promozione cinematografica selettiva per lo sviluppo, la realizzazione e la commercializzazione di formati narrativi innovativi e per la realizzazione di coproduzioni senza produzione responsabile svizzera sono sottoposte per perizia a un esperto.[^46-1]
 
-<sup>2</sup> I singoli esperti devono vantare competenze specialistiche ed esperienza nei settori regia, produzione, tecnica e commercializzazione di film del genere corrispondente, così come le necessarie competenze linguistiche.
+<sup>2</sup> Gli esperti devono vantare competenze specialistiche ed esperienza, segnatamente nei settori regia, produzione, tecnica e innovazione, oltre che nella commercializzazione di film del rispettivo genere; devono inoltre disporre delle necessarie competenze linguistiche.[^46-2]
 
 <sup>3</sup> L’UFC chiede all’esperto incaricato un rapporto scritto con le sue raccomandazioni.
 
-[^46-1]: Nuovo testo giusta la cifra I dell’O del DFI del 1° nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4323](https://fedlex.data.admin.ch/eli/oc/2018/696)).
+[^46-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^46-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 46a
 
@@ -875,11 +925,13 @@ Per singoli ambiti di promozione o tipi di progetti l’UFC può stabilire uno s
 
 <sup>2</sup> La validità della dichiarazione d’intenti ha una durata limitata. Se allo scadere della validità le condizioni specificate nella dichiarazione d’intenti non sono adempiute, il diritto alla promozione si estingue.
 
-<sup>3</sup> Prima della scadenza della validità, l’avente diritto può presentare una domanda di proroga scritta e motivata. Oltre a descrivere l’avanzamento del progetto, la domanda deve certificare che il progetto o il compito può essere realizzato entro il termine prorogato.
+<sup>3</sup> Prima della scadenza della validità, l’avente diritto può presentare una domanda di proroga scritta e motivata. Oltre a descrivere l’avanzamento del progetto, la domanda deve certificare che il progetto o il compito può essere realizzato entro il termine prorogato. Di norma gli aiuti finanziari previsti devono poter essere interamente versati entro al massimo cinque anni dall’emanazione della dichiarazione d’intenti.[^48-1]
 
 <sup>4</sup> Se la realizzazione del progetto o del compito appare improbabile o se i mezzi finanziari non possono rimanere vincolati ulteriormente, l’UFC respinge la domanda di proroga.
 
 <sup>5</sup> Se per lo stesso progetto è presentata una nuova domanda di aiuto finanziario, l’UFC può far dipendere la concessione da una nuova perizia.
+
+[^48-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 49
 
@@ -911,7 +963,7 @@ L’UFC concede l’aiuto finanziario previsto se il richiedente ha presentato e
 
 <sup>2</sup> Se l’UFC approva soltanto in parte la domanda o la respinge, entro 30 giorni dal ricevimento della notifica il richiedente può esigere che sia emanata una decisione.
 
-[^51-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^51-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 52
 
@@ -925,11 +977,20 @@ L’UFC concede l’aiuto finanziario previsto se il richiedente ha presentato e
 
 #### Art. 53
 
-**Nuova presentazione di una domanda respinta**
+**Nuova presentazione di una domanda per la realizzazione respinta**[^53-1]
 
-<sup>1</sup> Le domande respinte di aiuti finanziari della promozione cinematografica selettiva per la stesura di sceneggiature, lo sviluppo di progetti o la realizzazione di un progetto cinematografico possono essere presentate una seconda volta a condizione che siano state rielaborate nella sostanza, segnatamente nei punti contestati.
+<sup>1</sup>
 
-<sup>2</sup> Le domande rielaborate devono essere presentate entro 18 mesi dalla notifica del rigetto. Su domanda motivata, l’UFC può prorogare il termine di sei mesi al massimo.
+Le domande di aiuti finanziari della promozione cinematografica selettiva per la realizzazione di un film svizzero o di una coproduzione con produzione responsabile svizzera che vengono respinte possono essere presentate una seconda volta, a condizione che il progetto cinematografico:
+
+- a. abbia generato forti discussioni nel comitato, che non ha raccomandato il sostegno con una maggioranza risicata o per mancanza di mezzi disponibili; o
+- b. dopo il primo rigetto da parte dell’UFC, abbia ottenuto da un’istituzione di promozione cinematografica regionale un importante contributo della promozione selettiva che, insieme all’aiuto finanziario richiesto all’UFC, ne garantirebbe il finanziamento integrale.
+
+<sup>2</sup> Nei casi secondo il capoverso 1 lettera a, la possibilità di presentare nuovamente la domanda è segnalata al momento della notifica del rigetto. La domanda deve essere presentata nuovamente entro 12 mesi dalla notifica del rigetto. Su domanda motivata, l’UFC può prorogare il termine di sei mesi al massimo.
+
+<sup>3</sup> Nei casi secondo il capoverso 1 lettera b, di norma l’UFC decide senza ricorrere a una seconda perizia, sempre che non gli manchino le conoscenze specifiche necessarie.
+
+[^53-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 54
 
@@ -1034,9 +1095,11 @@ Chi beneficia di un aiuto finanziario della Confederazione è tenuto a fornire l
 
 **Obbligo di archiviazione**
 
-<sup>1</sup> Chi ha beneficiato di un aiuto finanziario della Confederazione per la realizzazione di un film deve consegnare alla Fondazione «Cineteca svizzera» i file definitivi (master file) della versione finale del film.
+<sup>1</sup> Chi ha beneficiato di un aiuto finanziario della Confederazione per la realizzazione o la postproduzione di un film deve consegnare alla Fondazione «Cineteca svizzera» i file definitivi (master file) della versione finale del film.[^63-1]
 
 <sup>2</sup> Chi ha beneficiato di un aiuto finanziario della Confederazione per un altro compito o un altro progetto deve consegnare all’UFC una copia dell’opera su un supporto dati fisico o elettronico, se una simile copia è stata prodotta a fini documentari.
+
+[^63-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 64
 
@@ -1052,7 +1115,7 @@ Chi beneficia di un aiuto finanziario della Confederazione è tenuto a fornire l
 
 **Acquisto di prestazioni tecniche in Svizzera**[^64a-1]
 
-<sup>1</sup> Se la realizzazione di un lungometraggio svizzero di fiction o di animazione è promossa mediante aiuti finanziari della promozione selettiva, le prestazioni tecniche devono essere acquistate da imprese con sede in Svizzera per almeno il 60 per cento delle spese.
+<sup>1</sup> Se la realizzazione di un lungometraggio svizzero di fiction è sostenuta mediante aiuti finanziari della promozione selettiva, almeno il 70 per cento delle spese per le prestazioni tecniche deve essere versato a imprese con sede in Svizzera. Per i film di animazione la quota è del 60 per cento.[^64a-2]
 
 <sup>2</sup> Sono computabili soltanto le prestazioni di imprese indipendenti sotto il profilo personale, economico e organizzativo dalle imprese di produzione coinvolte.
 
@@ -1064,6 +1127,24 @@ Sono segnatamente considerate prestazioni tecniche:
 - b. la postproduzione audio e video, compresi gli effetti speciali.
 
 [^64a-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^64a-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+
+#### Art. 64b
+
+**Sostenibilità ecologica della produzione cinematografica**[^64b-1]
+
+<sup>1</sup> I film la cui realizzazione o postproduzione è sostenuta mediante aiuti finanziari della Confederazione devono essere prodotti in maniera sostenibile.
+
+<sup>2</sup>
+
+Per i film di fiction o di animazione con un preventivo per la realizzazione superiore a 2 milioni di franchi, i documentari con un preventivo per la realizzazione superiore a 800 000 franchi e le serie documentarie sostenuti con aiuti finanziari della Confederazione, è necessario:
+
+- a. dimostrare che la realizzazione è seguita da una persona con una formazione adeguata nel settore della sostenibilità;
+- b. redigere, mediante un calcolatore riconosciuto, un bilancio delle emissioni di CO<sub>2</sub> relative alla realizzazione.
+
+<sup>3</sup> Il bilancio delle emissioni di CO<sub>2</sub> deve essere allegato alla domanda come calcolo teorico per il versamento della prima rata e come calcolo effettivo al momento del conteggio accompagnato da un rapporto finale.
+
+[^64b-1]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 65
 
@@ -1073,27 +1154,29 @@ Sono segnatamente considerate prestazioni tecniche:
 
 <sup>2</sup>
 
-I film che sono stati realizzati con un aiuto finanziario della Confederazione devono essere:
+I film la cui realizzazione o postproduzione è stata sostenuta con un aiuto finanziario della Confederazione devono essere:[^65-1]
 
 - a. doppiati o sottotitolati in almeno una seconda lingua nazionale; e
 - b. commercializzati, per quanto possibile, in più regioni linguistiche.
 
 <sup>3</sup>
 
-I film parlati o doppiati in una lingua nazionale devono inoltre essere muniti di audiodescrizione in almeno un’altra lingua nazionale:[^65-1]
+I seguenti film parlati o doppiati in una lingua nazionale devono inoltre essere muniti di audiodescrizione in almeno un’altra lingua nazionale:[^65-2]
 
-- a. i lungometraggi documentari sostenuti dalla Confederazione con oltre 125 000 franchi;
+- a.[^65-3] i lungometraggi documentari e le lunghe serie di documentari sostenuti dalla Confederazione con oltre 125 000 franchi;
 - b. i lungometraggi di fiction sostenuti dalla Confederazione con oltre 300 000 franchi.
 
-[^65-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^65-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^65-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^65-3]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 65a
 
 **Accessibilità del patrimonio cinematografico**[^65a-1]
 
-Dopo la loro commercializzazione, i film che sono stati realizzati mediante un aiuto finanziario della Confederazione devono rimanere accessibili al pubblico. A tale scopo l’UFC può stipulare licenze non esclusive.
+Dopo la loro commercializzazione, i film la cui realizzazione o postproduzione è stata sostenuta con un aiuto finanziario della Confederazione devono rimanere accessibili al pubblico. A tale scopo l’UFC può stipulare licenze non esclusive.
 
-[^65a-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^65a-1]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### Sezione 8: Presentazione dei conti e rapporti
 
@@ -1123,9 +1206,10 @@ Dopo la loro commercializzazione, i film che sono stati realizzati mediante un a
 
 <sup>2</sup> Se riscontra inesattezze, può fare effettuare una revisione completa del conteggio.
 
-<sup>3</sup> Se l’aiuto finanziario supera 100 000 franchi, è necessario presentare un conteggio esaminato da una persona o una società fiduciaria indipendente abilitata a esercitare la funzione di revisore secondo la legge del 16 dicembre 2005[^68-1] sui revisori.
+<sup>3</sup> Se l’aiuto finanziario supera i 100 000 franchi, è necessario presentare un conteggio esaminato da un revisore indipendente abilitato secondo la legge del 16 dicembre 2005[^68-1] sui revisori.[^68-2]
 
-[^68-1]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^68-1]: [[RS 221.302](https://www.fedlex.admin.ch/eli/cc/2007/533/it)](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^68-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 68a
 
@@ -1154,9 +1238,12 @@ Se le spese effettive sono inferiori a quelle indicate nella domanda o se altri 
 
 <sup>1</sup> Chi ha beneficiato di un contributo a progetto deve consegnare all’UFC, insieme al conteggio, una copia del film su un comune supporto dati o provare in altro modo che il progetto è stato realizzato secondo i piani.[^70-1]
 
+<sup>1bis</sup> Se è stata sostenuta la realizzazione o la postproduzione di un film, insieme al conteggio deve essere fornito all’UFC, anziché un supporto dati, un accesso digitale al film affinché sia possibile verificare l’adempimento dei compiti.[^70-2]
+
 <sup>2</sup> Chi ha beneficiato di un contributo strutturale deve consegnare all’UFC, insieme al conto annuale, un rapporto di gestione e un rapporto d’attività sull’adempimento dei compiti nell’anno esaminato e contenente un’autovalutazione sul grado di attuazione degli obiettivi e delle misure stabiliti nel contratto di prestazioni. Devono essere allegati anche pubblicazioni proprie e articoli di stampa sulle attività dell’istituzione o dell’impresa che ha beneficiato del sostegno.
 
 [^70-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^70-2]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 70a
 
@@ -1187,14 +1274,18 @@ Sussiste una relazione d’interesse segnatamente se persone o imprese:
 
 **Film di riferimento**
 
-<sup>1</sup> Sono ammessi come film di riferimento agli accrediti risultanti dalla commercializzazione nei cinema i film svizzeri e i film riconosciuti come coproduzioni svizzere con l’estero.
+<sup>1</sup> Sono ammessi come film di riferimento per gli accrediti risultanti dalla commercializzazione nei cinema i lungometraggi e le serie lunghe realizzati da un’impresa di produzione indipendente come film svizzeri o come coproduzioni svizzere con l’estero riconosciute.[^71-1]
 
 <sup>2</sup>
 
 Non sono ammessi:
 
 - a. i cortometraggi;
-- b. le coproduzioni i cui contributi artistici o tecnici svizzeri non corrispondono al contributo finanziario dell’impresa di produzione svizzera.
+- b. le coproduzioni i cui contributi artistici o tecnici svizzeri non corrispondono al contributo finanziario dell’impresa di produzione svizzera;
+- c.[^71-2] i film di cui all’articolo 16 LCin.
+
+[^71-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^71-2]: Introdotta dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 72
 
@@ -1224,10 +1315,10 @@ Hanno diritto ad accrediti risultanti dalla commercializzazione nei cinema le se
 
 <sup>4</sup> Le entrate riportate nel conteggio presentato dalle imprese di proiezione dei poteri pubblici e dagli organizzatori di proiezioni cinematografiche all’aperto alla distribuzione sono computabili.
 
-<sup>5</sup> Se un’impresa di proiezione offre anche la possibilità di acquistare in Internet i film proiettati nelle sale cinematografiche, ogni acquisto vale come un’entrata di riferimento. Per il rimanente si applica l’articolo 73 capoverso 2.[^73-2]
+<sup>5</sup> ...[^73-2]
 
 [^73-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^73-2]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^73-2]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 74
 
@@ -1264,9 +1355,10 @@ Per poter beneficiare di accrediti della promozione cinematografica legata al su
 - a. film di fiction: 10 000 entrate;
 - b. documentari: 5 000 entrate.
 
-<sup>2</sup> Per raggiungere il numero minimo, i punti di partecipazione a festival di cui all’articolo 83 sono sommati alle entrate di riferimento, a condizione che il film abbia totalizzato almeno 50 proiezioni cinematografiche pubbliche in Svizzera.
+<sup>2</sup> ...[^76-2]
 
 [^76-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^76-2]: Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 77
 
@@ -1295,7 +1387,7 @@ Nel calcolo degli accrediti per la sceneggiatura, la regia e la produzione, le e
 
 <sup>2</sup> I film senza regia svizzera che sono ammessi nel calcolo degli accrediti secondo l’articolo 52 OPICin[^79-1] non sono ammessi come film di riferimento nel calcolo degli accrediti per la distribuzione secondo la presente ordinanza.[^79-2]
 
-[^79-1]: [RS 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
+[^79-1]: [RS 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 [^79-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 80
@@ -1320,7 +1412,12 @@ Sono ammessi come film di riferimento agli accrediti risultanti dalla partecipaz
 - a. i film svizzeri;
 - b. i film riconosciuti come coproduzioni svizzere con l’estero, con regia svizzera e produzione responsabile svizzera.
 
-<sup>2</sup> Sono ammessi sia lungometraggi che cortometraggi.
+<sup>2</sup> Sono ammessi sia lungometraggi che cortometraggi e serie, a condizione che siano stati prodotti in maniera indipendente.[^81-1]
+
+<sup>3</sup> Non sono ammessi i film di cui all’articolo 16 LCin.[^81-2]
+
+[^81-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^81-2]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 82
 
@@ -1334,7 +1431,9 @@ Hanno diritto ad accrediti risultanti dalla partecipazione a festival le seguent
 - b. per la regia: il regista;
 - c. per la produzione: l’impresa di produzione.
 
-<sup>2</sup> Per la distribuzione, i punti di partecipazione a festival ottenuti prima dell’uscita nei cinema sono accreditati fino al raggiungimento del numero minimo di cui all’articolo 76 capoverso 1.
+<sup>2</sup> ...[^82-1]
+
+[^82-1]: Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 83
 
@@ -1406,20 +1505,21 @@ I punti di partecipazione a festival sono graduati nel modo seguente:
 
 <sup>1</sup>
 
-Se il numero minimo di entrate di riferimento di cui all’articolo 76 è raggiunto, agli aventi diritto sono accreditati i seguenti importi per ogni entrata di riferimento e per ogni punto di partecipazione a festival:
+Se il numero minimo di entrate di riferimento di cui all’articolo 76 è raggiunto, agli aventi diritto sono accreditati i seguenti importi per ogni entrata di riferimento:[^89-1]
 
 - a. 70 centesimi per la sceneggiatura, al massimo 100 000 franchi per film;
 - b. 70 centesimi per la regia, al massimo 100 000 franchi per film;
-- c.[^89-1] 4.40 franchi per la produzione, al massimo 660 000 franchi per film;
+- c.[^89-2] 4.40 franchi per la produzione, al massimo 660 000 franchi per film;
 - d. 2.00 franchi per la distribuzione, al massimo 200 000 franchi per anno civile;
 - e. 3.50 franchi per la proiezione, al massimo 6000 franchi per impresa di proiezione, film e regione cinematografica, in totale al massimo 125 000 franchi per anno e impresa di proiezione.
 
-<sup>2</sup> Per i cortometraggi, agli aventi diritto è accreditato per ogni punto di partecipazione a festival il 15 per cento degli importi di cui al capoverso 1.[^89-2]
+<sup>2</sup> Agli aventi diritto è accreditato, per ogni punto di partecipazione a festival, il 15 per cento degli importi di cui al capoverso 1 nel caso dei cortometraggi e la totalità di tali importi nel caso degli altri film.[^89-3]
 
 <sup>3</sup> Gli accrediti per la produzione, la distribuzione e la proiezione sono ridotti del 50 per cento se la regia o la produzione responsabile del film non sono svizzere.
 
-[^89-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^89-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 [^89-2]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^89-3]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 90
 
@@ -1432,7 +1532,9 @@ Per il calcolo degli accrediti sono conteggiati per ogni film al massimo:
 - a. per i film di fiction: 150 000 entrate di riferimento e punti di partecipazione a festival;
 - b. per i documentari: 50 000 entrate di riferimento e punti di partecipazione a festival.
 
-<sup>2</sup> Se una persona ha diritto agli accrediti sia per la sceneggiatura sia per la regia, l’importo massimo per film ammonta a 150 000 franchi.
+<sup>2</sup> ...[^90-1]
+
+[^90-1]: Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 91
 
@@ -1464,11 +1566,13 @@ Per il calcolo degli accrediti sono conteggiati per ogni film al massimo:
 
 #### Art. 94
 
-**Importi minimi**
+**Importi minimi**[^94-1]
 
-<sup>1</sup> Gli importi inferiori a 2500 franchi per avente diritto non sono accreditati.
+<sup>1</sup> Gli importi inferiori a 1000 franchi non sono accreditati.
 
-<sup>2</sup> Gli accrediti per le imprese di proiezione sono versati direttamente; gli accrediti inferiori a 500 franchi per impresa di proiezione non sono versati.
+<sup>2</sup> Gli accrediti per le imprese di proiezione sono versati direttamente; gli accrediti inferiori a 1000 franchi per impresa di proiezione non sono versati.
+
+[^94-1]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 95
 
@@ -1505,6 +1609,18 @@ Gli aventi diritto sono tenuti a reinvestire gli accrediti della promozione cine
 
 [^96-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
+#### Art. 96a
+
+**Reinvestimento nella distribuzione**[^96a-1]
+
+<sup>1</sup> Per il reinvestimento nella distribuzione di film, segnatamente nella loro promozione, non è richiesta una domanda di reinvestimento se la commercializzazione del film si conclude entro la durata di validità degli accrediti e il conteggio perviene all’UFC prima del termine di scadenza di due anni.
+
+<sup>2</sup> Il versamento degli accrediti avviene dopo il controllo del conteggio da parte dell’UFC.
+
+<sup>3</sup> Su domanda, l’UFC verifica previamente l’ammissibilità del reinvestimento.
+
+[^96a-1]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+
 #### Art. 97
 
 **Anticipi**
@@ -1526,11 +1642,9 @@ Il versamento dell’anticipo è approvato se:
 
 #### Art. 98
 
-**Notifica**
+[^98-1]
 
-<sup>1</sup> Chi intende richiedere un aiuto finanziario della promozione cinematografica legata alla sede di produzione deve notificare il proprio progetto all’UFC prima di presentare la relativa domanda.
-
-<sup>2</sup> La notifica comprende indicazioni sulla struttura di produzione o coproduzione, sull’ammontare del contributo presumibilmente richiesto e sulla presumibile composizione delle spese computabili.
+[^98-1]: Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 99
 
@@ -1577,9 +1691,13 @@ Fino al 70 per cento dell’importo assegnato è versato all’inizio delle ripr
 
 <sup>2</sup> La quota delle spese computabili che danno diritto all’aliquota contributiva maggiorata secondo l’articolo 26 capoverso 2 deve essere indicata separatamente.
 
-<sup>3</sup> ...[^102-1]
+<sup>3</sup> La correttezza e la completezza del conteggio devono essere state verificate da un revisore indipendente abilitato secondo la legge del 16 dicembre 2005[^102-1] sui revisori. La relativa conferma deve essere allegata.[^102-2]
 
-[^102-1]: Abrogato dalla cifra I dell’O del DFI del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+<sup>4</sup> Per il rimanente si applicano per analogia gli articoli 66–68*a*, 70 e 70*a*.[^102-3]
+
+[^102-1]: [RS 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^102-2]: Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^102-3]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 103
 
@@ -1597,13 +1715,9 @@ L’ultima rata non garantita della promozione legata alla sede di produzione è
 
 #### Art. 105
 
-**Mandato a terzi**
+[^105-1]
 
-<sup>1</sup> L’UFC incarica un servizio apposito di esaminare i conteggi e i documenti giustificativi. Per il rimanente si applica l’articolo 68*a*.[^105-1]
-
-<sup>2</sup> L’estensione dei compiti, l’indennizzo, le modalità di collaborazione e il controllo statale sono disciplinati in un contratto concluso fra l’UFC e il servizio incaricato.
-
-[^105-1]: Nuovo testo giusta la cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^105-1]: Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### Capitolo 4: Disposizioni procedurali particolari della promozione della pluralità
 
@@ -1805,6 +1919,18 @@ Ai film svizzeri per la cui realizzazione è stata emanata prima del 1° gennaio
 
 [^117b-1]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 
+#### Art. 117c
+
+**Disposizioni transitorie della modifica del 20 novembre 2025**[^117c-1]
+
+<sup>1</sup> Le domande di aiuti finanziari della promozione cinematografica selettiva che sono state respinte prima dell’entrata in vigore della modifica del 20 novembre 2025 possono essere presentate nuovamente secondo il diritto anteriore entro l’ultimo termine possibile nell’anno civile 2026.
+
+<sup>2</sup> Ai film svizzeri e alle coproduzioni per la cui postproduzione, distribuzione o diffusione è stata emanata una dichiarazione d’intenti in merito alla promozione cinematografica selettiva prima dell’entrata in vigore della modifica del 20 novembre 2025 si applica il diritto anteriore.
+
+<sup>3</sup> Alle domande di promozione della distribuzione di film usciti nei cinema a partire dal 1° gennaio 2026 e che sono state presentate prima di tale data si applica il diritto in vigore il 1° gennaio 2026.
+
+[^117c-1]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+
 #### Art. 118
 
 **Entrata in vigore**
@@ -1813,329 +1939,314 @@ Ai film svizzeri per la cui realizzazione è stata emanata prima del 1° gennaio
 
 <sup>2</sup> ...[^118-1]
 
-<sup>3</sup> Gli allegati hanno effetto fino al 31 dicembre 2024.[^118-2]
+<sup>3</sup> Gli allegati hanno effetto fino al 31 dicembre 2028.[^118-2]
 
-<sup>4</sup> Il periodo di validità degli allegati è prorogato fino al 31 dicembre 2025.[^118-3]
+<sup>4</sup> ...[^118-3]
 
 [^118-1]: Abrogato dalla cifra I dell’O del DFI del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^118-2]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^118-3]: Introdotto dalla cifra I dell’O del DFI del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^118-2]: Introdotto dalla cifra I dell’O del DFI del 18 nov. 2020 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Nuovo testo giusta la cifra I dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^118-3]: Introdotto dalla cifra I dell’O del DFI del 20 gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)). Abrogato dalla cifra I dell’O del DFI del 20 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 Allegato 1[^t-1]
 
 (art. 7 cpv. 3, 14*a* cpv. 2, 15 cpv. 4 e 18 cpv. 3)
 
-## Regimi di promozione cinematografica della Confederazione 2021–2024
+## Regimi di promozione cinematografica della Confederazione 2026–2028
 
-[^t-1]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 18 nov. 2020 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Aggiornato dalla cifra II dell’O del DFI del 20 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)). In vigore fino al 31 dic. 2025 (vedi art. 118 cpv. 4).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 al 31 dic. 2028 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840); art. 118 cpv. 3).
 
-Per il periodo 2021−2024, la promozione cinematografica della Confederazione persegue i seguenti obiettivi sovraordinati, che determinano l’orientamento di tutti gli strumenti di promozione.
+Per gli anni 2026−2028, la promozione cinematografica della Confederazione persegue i seguenti obiettivi sovraordinati, che determinano l’orientamento di tutti gli strumenti di promozione.
 
 La promozione cinematografica della Confederazione:
 
 - – contribuisce alla diversità culturale e alla coesione sociale in Svizzera;
-- – rafforza la visibilità della creazione cinematografica svizzera e del patrimonio cinematografico in Svizzera e all’estero;
-- – in tutti gli ambiti di promozione, tiene conto del principio della diversità nell’accesso al sostegno, in particolare per quanto concerne le pari opportunità tra uomini e donne, l’equilibrio tra regioni linguistiche, progetti e organizzazioni;
-- – tiene conto del principio della pluralità dell’offerta e dell’accesso senza barriere ai film;
-- – in tutti gli ambiti di promozione tiene conto del principio dell’uso parsimonioso delle risorse;
-- – si impegna a favore della sostenibilità, delle pari opportunità, della diversità e di una retribuzione adeguata degli operatori culturali professionisti.
+- – favorisce una pluralità di generi e formati e rafforza la visibilità della creazione cinematografica svizzera a livello nazionale e internazionale;
+- – si impegna a favore della sostenibilità, delle pari opportunità, della diversità e di una retribuzione adeguata degli operatori culturali professionisti;
+- – si coordina con le principali istituzioni di promozione della cinematografia in Svizzera.
 
 Allegato 2[^t-2]
 
 (art. 7 cpv. 3, 12 e 13 cpv. 3)
 
-## Regime di promozione 2021–2024 per la promozione della creazione cinematografica svizzera
+## Creazione cinematografica svizzera: regime di promozione 2026–2028
 
-[^t-2]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Correzione del 29 gen. 2021 ([RU 2021 57](https://fedlex.data.admin.ch/eli/oc/2021/57)). In vigore fino al 31 dic. 2025 (vedi art. 118 cpv. 4).
-
-### 1 Obiettivi e indicatori della valutazione
-
-### 1.1 Valutazione
-
-- 1\.1.1 L’UFC informa periodicamente sull’attuazione dei regimi di promozione cinematografica, in particolare sul raggiungimento degli obiettivi elencati qui di seguito per i diversi strumenti di promozione.
-- 1\.1.2 La valutazione finale è effettuata da specialisti esterni.
-- 1\.1.3
-
-  Per gli anni 2021–2024 sono valutati prioritariamente i seguenti aspetti:
-
-  - a. impatto della promozione cinematografica sulla competitività della Svizzera come sede di produzione;
-  - b. evoluzione della pluralità dell’offerta nei diversi canali di commercializzazione;
-  - c. proporzione tra uomini e donne nei progetti presentati e sostenuti.
-
-### 1.2 Obiettivi della promozione durante la fase di sviluppo e realizzazione
-
-- 1\.2.1
-
-  La promozione della creazione cinematografica svizzera durante la fase di sviluppo (promozione della stesura di sceneggiature e dello sviluppo di progetti) persegue i seguenti obiettivi:
-
-  - a. agevolare la stesura di un numero sufficientemente grande di sceneggiature affinché le migliori possano essere trasposte in lungometraggi realizzati in Svizzera e all’estero e commercializzate su vasta scala;
-  - b. consentire lo sviluppo di progetti recepiti in più settori.
-
-- 1\.2.2
-
-  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.2.1 sono:
-
-  - a. numero di sceneggiature e di attività di sviluppo di progetti che hanno beneficiato di un sostegno;
-  - b. numero di progetti ultimati e commercializzati con successo, scaturiti dalle sceneggiature o dalle attività di sviluppo di progetti che hanno beneficiato di un sostegno;
-  - c. numero di progetti con una commercializzazione estesa a più settori.
-
-- 1\.2.3
-
-  La promozione della creazione cinematografica svizzera durante la fase di realizzazione (promozione della realizzazione) persegue i seguenti obiettivi:
-
-  - a. consentire ai cineasti svizzeri di realizzare autonomamente film di elevata qualità;
-  - b. rendere accessibili al pubblico svizzero film svizzeri e coproduzioni in tutte le forme di commercializzazione e contribuire così in misura determinante alla qualità e alla pluralità dell’offerta cinematografica svizzera;
-  - c. creare le premesse affinché film svizzeri e coproduzioni siano selezionati a importanti festival nazionali e internazionali e contribuiscano così all’affermazione dell’immagine positiva del cinema svizzero, in particolare nei principali Paesi di coproduzione della Svizzera;
-  - d. aumentare il numero di coproduzioni girate in Svizzera;
-  - e. fare in modo che nella realizzazione di film svizzeri, e in particolare di coproduzioni, siano presi maggiormente in considerazione i cineasti e le industrie tecniche svizzere per consolidare la competitività della Svizzera come sede di produzione cinematografica.
-
-- 1\.2.4
-
-  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.2.3 sono:
-
-  - a. numero di film svizzeri e coproduzioni la cui realizzazione ha beneficiato di un sostegno;
-  - b. numero di entrate e proiezioni nei cinema, così come numero di titoli di film svizzeri e di coproduzioni venduti attraverso altri canali di commercializzazione nelle diverse regioni linguistiche della Svizzera;
-  - c. presenza e riconoscimenti di film svizzeri e di coproduzioni con regia svizzera a festival importanti;
-  - d. numero di coproduzioni con la Svizzera secondo i Paesi di coproduzione, la struttura di finanziamento e la quota di partecipazione artistica e tecnica;
-  - e. aumento del numero di giornate di ripresa in Svizzera e aumento delle uscite per prestazioni tecniche, artistiche e logistiche fornite in Svizzera.
-
-- 1\.2.5 La promozione della postproduzione persegue l’obiettivo di rendere possibile l’ultimazione e la commercializzazione attraverso vari canali diversi dalla televisione lineare di lungometraggi svizzeri promettenti realizzati senza contributi federali alla realizzazione.
-- 1\.2.6
-
-  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.2.5 sono:
-
-  - a. numero di lungometraggi sostenuti durante la postproduzione;
-  - b. numero di entrate nelle sale cinematografiche, vendite e fruizioni tramite servizi di media audiovisivi su richiesta nonché partecipazioni a importanti festival cinematografici nazionali e internazionali.
-
-- 1\.2.7
-
-  La promozione cinematografica legata al successo persegue i seguenti obiettivi:
-
-  - a. gli autori e i registi devono poter scrivere in modo autonomo trattamenti e sceneggiature;
-  - b. i produttori devono poter sviluppare e realizzare in modo autonomo progetti fino alla fase della realizzazione;
-  - c. gli accrediti devono poter essere reinvestiti al più presto in nuovi progetti.
-
-- 1\.2.8
-
-  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.2.7 sono:
-
-  - a. numero di trattamenti, sceneggiature e scalette sviluppati grazie ai mezzi della promozione cinematografica legata al successo;
-  - b. lasso di tempo medio fra la comunicazione degli accrediti e il reinvestimento degli stessi secondo il tipo di reinvestimento.
-
-### 1.3 Obiettivi della promozione durante la fase di commercializzazione
-
-- 1\.3.1 La promozione selettiva della distribuzione e della diffusione persegue l’obiettivo di aiutare i film svizzeri e le coproduzioni riconosciute con regia svizzera a raggiungere il loro pubblico target.
-- 1\.3.2
-
-  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.3.1 sono:
-
-  - a. numero di film la cui commercializzazione nei cinema e al di fuori delle sale ha beneficiato di una promozione selettiva;
-  - b. quota di film premiati che hanno beneficiato di una promozione selettiva nei cinema e al di fuori delle sale;
-  - c. numero di programmi speciali rivolti a determinati gruppi target e relative entrate nei cinema;
-  - d. numero di film commercializzati attraverso servizi di media audiovisivi su richiesta e numero di richieste a pagamento.
-
-- 1\.3.3
-
-  La promozione cinematografica legata al successo persegue i seguenti obiettivi:
-
-  - a. rafforzare la creazione cinematografica svizzera permettendo a imprese di distribuzione di acquistare film svizzeri e coproduzioni maggioritarie;
-  - b. permettere alle imprese di distribuzione svizzere di reinvestire rapidamente gli accrediti in nuovi progetti di distribuzione;
-  - c. rafforzare gli incentivi per le imprese di proiezione a programmare un’offerta attraente di film svizzeri;
-  - d. rafforzare la commercializzazione e la visibilità dei film attraverso i canali di commercializzazione al di fuori dei cinema, in particolare attraverso servizi di media audiovisivi su richiesta.
-
-- 1\.3.4
-
-  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.3.3 sono:
-
-  - a. numero di film nei quali sono stati investiti mezzi della promozione cinematografica legata al successo per misure promozionali e acquisti;
-  - b. lasso di tempo medio fra la comunicazione degli accrediti e il reinvestimento degli stessi secondo il tipo di reinvestimento;
-  - c. numero di proiezioni ed entrate nei cinema di film svizzeri e coproduzioni;
-  - d. numero di film offerti su altri canali di commercializzazione elettronica diversi dalla televisione lineare.
-
-### 2 Criteri
-
-### 2.1 Criteri della promozione cinematografica selettiva
-
-- 2\.1.1. *Promozione della stesura di sceneggiature*
-- 2\.1.1.1 Gli sceneggiatori svizzeri e le imprese di produzione svizzere possono richiedere un aiuto finanziario per le spese di stesura della sceneggiatura e per i corrispondenti lavori di sviluppo. Vengono privilegiate le domande presentate dalle nuove leve o dagli sceneggiatori e le domande di persone che non possono investire alcun accredito della promozione cinematografica legata al successo oppure i cui accrediti sono troppo esigui.
-- 2\.1.1.2 La promozione della stesura di sceneggiature è prevista per lungometraggi di fiction per il cinema e lungometraggi di animazione.
-- 2\.1.1.3
-
-  Nella promozione della stesura di sceneggiature sono determinanti in particolare i seguenti criteri:
-
-  - a. originalità del tema;
-  - b. qualità artistica e drammaturgica del trattamento;
-  - c. qualità e coerenza delle modalità di lavoro previste;
-  - d. potenziale del soggetto per un film per il cinema;
-  - e. necessità e proporzionalità del contributo richiesto.
-
-- 2\.1.2 *Promozione dello sviluppo di progetti*
-- 2\.1.2.1 Le imprese di produzione svizzere possono richiedere un aiuto finanziario per le spese di sviluppo (scaletta) di un lungometraggio documentario per il cinema o di un film di animazione, di una serie di animazione o di un progetto transmediale. Lo sviluppo di film di animazione, di serie di animazione o di progetti transmediali può essere sostenuto indipendentemente dalla lunghezza e dal canale di commercializzazione. Vengono privilegiate le domande per film delle nuove leve e film di registe, così come le domande presentate da persone che non possono investire alcun accredito della promozione cinematografica legata al successo oppure i cui accrediti sono troppo esigui.
-- 2\.1.2.2 La promozione dello sviluppo di progetti è prevista per progetti cinematografici sviluppati su iniziativa dell’impresa di produzione svizzera e sotto la sua responsabilità. Sono computabili in particolare le spese delle ricerche e dei viaggi necessari, della strategia artistica e dell’ulteriore sviluppo del progetto cinematografico, nonché dei lavori preliminari di produzione in vista del finanziamento e della realizzazione. Per i progetti di film di animazione sono computabili le spese per la realizzazione di un film pilota.
-- 2\.1.2.3
-
-  Nella promozione dello sviluppo di progetti sono determinanti in particolare i seguenti criteri:
-
-  - a. originalità e qualità artistica della sceneggiatura o della scaletta;
-  - b. qualità e coerenza della strategia di sviluppo del contenuto;
-  - c. potenziale artistico e produttivo per un film per il cinema;
-  - d. orientamento delle misure di commercializzazione previste ai gruppi target;
-  - e. necessità e proporzionalità del contributo richiesto.
-
-- 2\.1.2.4
-
-  Nella promozione dello sviluppo di progetti transmediali sono inoltre determinanti i seguenti criteri:
-
-  - a. grado di innovazione e contributo allo sviluppo della creazione cinematografica svizzera;
-  - b. qualità della strategia di sviluppo e di commercializzazione;
-  - c. cooperazione tra cineasti e altri specialisti dei media;
-  - d. accesso ad altre forme di promozione.
-
-- 2\.1.3 *Promozione della realizzazione*
-- 2\.1.3.1 Le imprese di produzione svizzere possono richiedere un contributo alla realizzazione di un film di fiction per il cinema e di un film di animazione o documentario, indipendentemente dalla lunghezza e dal canale di commercializzazione. Possono essere privilegiate le domande per film delle nuove leve e film di registe o per film che, in fase di pianificazione e realizzazione, tengono conto dell’impatto sull’ambiente e dell’uso parsimonioso delle risorse.
-- 2\.1.3.2 La promozione della realizzazione è prevista in primo luogo per film svizzeri e film riconosciuti come coproduzioni svizzere con l’estero con regia svizzera e produzione responsabile svizzera. Le coproduzioni con regia estera possono essere sostenute per consentire una coproduzione con regia svizzera.
-- 2\.1.3.3 In linea di principio le coproduzioni sono sostenute solo se la quota di personale artistico e tecnico svizzero e di imprese tecniche svizzere è proporzionata alla quota del finanziamento svizzero.
-- 2\.1.3.4
-
-  I cofinanziamenti svizzeri con l’estero possono essere promossi se sono ammessi in virtù dell’accordo di coproduzione applicabile. Nella promozione dei cofinanziamenti sono determinanti inoltre i seguenti criteri:
-
-  - a. legame tra il progetto cinematografico e la Svizzera;
-  - b. ragioni tecniche o artistiche contrarie a una partecipazione di personale artistico e tecnico svizzero;
-  - c. reciprocità nell’ambito dei cofinanziamenti con il Paese in questione.
-
-- 2\.1.3.5
-
-  Per quanto riguarda i film di fiction, la promozione della realizzazione è limitata ai cortometraggi e ai lungometraggi destinati alla prima diffusione nei cinema o ai festival e con un potenziale di commercializzazione attraverso canali diversi dalla televisione lineare. Nella promozione di progetti di film di fiction sono determinanti in particolare i seguenti criteri:
-
-  - a. qualità artistica della sceneggiatura;
-  - b. stato di avanzamento del progetto;
-  - c. coerenza del dossier di produzione;
-  - d. coerenza artistica e tecnica del progetto;
-  - e. potenziale di commercializzazione;
-  - f. orientamento ai gruppi target e qualità della strategia di commercializzazione, marketing e promozione prevista;
-  - g. contributo alla pluralità dell’offerta;
-  - h. necessità e proporzionalità del contributo richiesto;
-  - i. esperienza tecnica del team di produzione se il contributo federale richiesto supera i 400 000 franchi.
-
-- 2\.1.3.6
-
-  I progetti di film di animazione possono essere sostenuti indipendentemente dalla lunghezza e dal canale di commercializzazione. Vengono privilegiati i progetti di film di animazione con un potenziale cinematografico. Nella promozione di progetti di film di animazione sono determinanti in particolare i seguenti criteri:
-
-  - a. qualità artistica e tecnica del progetto;
-  - b. stato di avanzamento del progetto;
-  - c. coerenza del dossier di produzione;
-  - d. coerenza artistica e tecnica del progetto;
-  - e. potenziale di commercializzazione;
-  - f. orientamento ai gruppi target e qualità della strategia di commercializzazione, marketing e promozione prevista;
-  - g. contributo alla pluralità dell’offerta;
-  - h. necessità e proporzionalità del contributo richiesto;
-  - i. esperienza tecnica del team di produzione se il contributo federale richiesto supera i 400 000 franchi.
-
-- 2\.1.3.7
-
-  I progetti di documentari possono essere sostenuti indipendentemente dalla lunghezza e dal canale di commercializzazione. Vengono privilegiati i progetti di documentari con un potenziale cinematografico. Nella promozione di progetti di documentari sono determinanti in particolare i seguenti criteri:
-
-  - a. qualità artistica della scaletta;
-  - b. stato di avanzamento del progetto;
-  - c. coerenza del dossier di produzione;
-  - d. coerenza artistica e tecnica del progetto;
-  - e. potenziale di commercializzazione;
-  - f. orientamento ai gruppi target e qualità della strategia di commercializzazione, marketing e promozione prevista;
-  - g. contributo alla pluralità dell’offerta;
-  - h. necessità e proporzionalità del contributo richiesto;
-  - i. esperienza tecnica del team di produzione se il contributo federale richiesto supera i 200 000 franchi.
-
-- 2\.1.3.8
-
-  Per preparare la realizzazione di un lungometraggio di fiction (preparazione delle riprese), le imprese di produzione svizzere possono richiedere un anticipo non superiore al 15 per cento del contributo alla realizzazione previsto della promozione cinematografica selettiva. Nella decisione relativa al versamento devono essere considerati i seguenti criteri:
-
-  - a. dichiarazione d’intenti valida dell’UFC;
-  - b. realizzazione del progetto nei sei mesi successivi e finanziamento assicurato di almeno il 50 per cento del progetto complessivo (senza contributi federali);
-  - c. plausibilità delle misure pianificate.
-
-- 2\.1.4 *Promozione della postproduzione*
-- 2\.1.4.1 Le imprese di produzione svizzere possono richiedere un aiuto finanziario per le spese delle misure tecniche e artistiche di postproduzione. Sono computabili le spese di ultimazione necessarie, segnatamente per il montaggio e il suono, che non possono essere assunte dall’impresa di produzione.
-- 2\.1.4.2 Sono sostenuti soltanto lungometraggi svizzeri per il cinema e film riconosciuti come coproduzioni svizzere con l’estero con regia svizzera, realizzati senza i contributi alla realizzazione della promozione cinematografica selettiva e della cui commercializzazione è responsabile un’impresa di distribuzione o diffusione cinematografica svizzera indipendente. Possono essere sostenuti soltanto film le cui spese di realizzazione totali sono inferiori a 1 milione di franchi nel caso dei film di fiction e dei film di animazione o a 200 000 franchi nel caso dei documentari. Possono essere privilegiati i film delle nuove leve e i film di registe. Sono computabili soltanto le spese per prestazioni fornite e conteggiate in Svizzera.
-- 2\.1.4.3
-
-  Nella promozione della postproduzione sono determinanti in particolare i seguenti criteri:
-
-  - a. qualità artistica del premontaggio;
-  - b. quota dell’ultimazione tecnica in Svizzera in proporzione alle uscite del progetto nel complesso;
-  - c. qualità e coerenza della strategia di commercializzazione, comprese tutte le possibili forme di commercializzazione (cinema, festival, video ecc.);
-  - d. contributo dell’impresa di distribuzione o diffusione;
-  - e. esperienza dell’impresa di distribuzione con film di questo genere;
-  - f. potenziale di commercializzazione estesa a più regioni linguistiche;
-  - g. necessità e proporzionalità del contributo richiesto.
-
-- 2\.1.5 *Promozione della distribuzione e della diffusione per film senza un grande potenziale di commercializzazione*
-- 2\.1.5.1
-
-  Le imprese di distribuzione possono richiedere un aiuto finanziario per le spese delle misure promozionali e di mediazione rivolte a specifici gruppi target per film e programmi cinematografici che probabilmente realizzeranno meno di 2000 entrate. Possono essere privilegiati:
-
-  - a. programmi cinematografici per bambini e giovani;
-  - b. film che hanno partecipato a sezioni di festival secondo l’articolo 83 capoverso 2 lettera a o sono stati insigniti di un premio secondo l’articolo 83 capoverso 2 lettere b o c;
-  - c. progetti particolarmente attenti all’uso sostenibile delle risorse.
-
-- 2\.1.5.2
-
-  Sono ammessi:
-
-  - a. i lungometraggi svizzeri e i film riconosciuti come coproduzioni svizzere con l’estero con regia svizzera; e
-  - b. i programmi cinematografici che durano almeno 40 minuti e comprendono principalmente film svizzeri o coproduzioni riconosciute con regia svizzera.
-
-- 2\.1.5.3
-
-  Nella promozione della distribuzione sono determinanti in particolare i seguenti criteri:
-
-  - a. qualità e originalità della strategia di commercializzazione;
-  - b. rilevanza del film per una commercializzazione orientata verso specifici gruppi target;
-  - c. professionalità ed esperienza specifica dell’impresa di distribuzione;
-  - d. potenziale di commercializzazione nelle diverse regioni linguistiche e nei vari canali di diffusione;
-  - e. necessità e proporzionalità del contributo richiesto.
-
-- 2\.1.6 *Misure non pecuniarie*
-- L’UFC può sostenere la produzione cinematografica indipendente anche con misure non pecuniarie, come consulenza, raccomandazioni o patronati (art. 13 cpv. 2 LCin).
-- 2\.1.7 *Premio del cinema*
-- L’UFC versa aiuti finanziari per i film in lizza per il Premio del cinema svizzero. La procedura è retta dalle disposizioni dell’ordinanza del DFI del 30 settembre 2004[^annex2-lvlu1-lvl2-lvl21-1] concernente il Premio del cinema svizzero.
-
-[^annex2-lvlu1-lvl2-lvl21-1]: [RS 443.116](https://fedlex.data.admin.ch/eli/cc/2004/654)
-
-### 2.2 Criteri per il reinvestimento degli accrediti della promozione cinematografica legata al successo
-
-- 2\.2.1 Gli accrediti della promozione cinematografica legata al successo devono essere reinvestiti, entro la scadenza, in un nuovo progetto cinematografico dalle persone e dalle società aventi diritto. Nel reinvestimento sono determinanti in particolare i seguenti criteri:
-- 2\.2.2 *Stesura di trattamenti, scalette e sceneggiature*
-- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per la stesura di un nuovo trattamento, per ricerche o per la stesura di una scaletta per un progetto di documentario, nonché per la stesura di una nuova sceneggiatura. Possono essere utilizzati per la rielaborazione di una sceneggiatura preesistente se a suo tempo era stata respinta una domanda di contributo alla realizzazione secondo il numero 2.1.3 per lacune nella sceneggiatura. Le domande possono essere presentate da autori, registi e imprese di produzione.
-- 2\.2.3 *Sviluppo di progetti*
-- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per lo sviluppo di progetti di film svizzeri o di film riconosciuti come coproduzioni svizzere con l’estero. Le domande possono essere presentate dalle imprese di produzione. In caso di coproduzioni, l’impresa di produzione svizzera deve essere responsabile dello sviluppo di progetti e detenere i relativi diritti.
-- 2\.2.4 *Realizzazione e postproduzione*
-- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per la realizzazione e la postproduzione di film svizzeri e di film riconosciuti come coproduzioni svizzere con l’estero. Le domande possono essere presentate dalle imprese di produzione.
-- 2\.2.5 *Distribuzione e diffusione*
-- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per la distribuzione e le misure promozionali a favore di film svizzeri e di coproduzioni. Le domande possono essere presentate dalle imprese di produzione e di distribuzione.
-- 2\.2.6 Nell’ambito dell’acquisizione di diritti (garanzie minime), le imprese di distribuzione possono utilizzare gli accrediti per garanzie minime fino al 75 per cento della somma di garanzia pagata per la stesura della sceneggiatura da parte di autori svizzeri e per la realizzazione e la postproduzione di film svizzeri o di coproduzioni.
-- 2\.2.7 È escluso il reinvestimento nella distribuzione, nella diffusione e nell’acquisizione di diritti di film senza regia svizzera e di film la cui distribuzione può essere promossa secondo l’articolo 45 OPICin[^annex2-lvlu1-lvl2-lvl22-1] o la cui distribuzione nonché l’acquisizione dei relativi diritti possono essere promosse secondo l’articolo 53 OPICin.
-
-[^annex2-lvlu1-lvl2-lvl22-1]: [RS 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
-
-Allegato 3[^t-3]
-
-(art. 14*a* cpv. 2 e 14*b* cpv. 2)
-
-## Regime di promozione 2021–2024 per la promozione della pluralità e della qualità dell’offerta cinematografica
-
-[^t-3]: Nuovo testo giusta la cifra II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In vigore fino al 31 dic. 2025 (vedi art. 118 cpv. 4).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 al 31 dic. 2028 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840); art. 118 cpv. 3).
 
 ### 1 Obiettivi e indicatori della valutazione
 
 ### 1.1 Valutazione
 
 - 1\.1.1 L’UFC informa periodicamente sull’attuazione dei regimi di promozione cinematografica, in particolare sul raggiungimento degli obiettivi elencati qui di seguito.
-- 1\.1.2 La valutazione finale è effettuata da specialisti esterni.
-- 1\.1.3 Per gli anni 2021–2024 sono valutate prioritariamente l’efficacia delle misure per la promozione della pluralità dell’offerta e la visibilità della creazione cinematografica svizzera a livello nazionale e internazionale.
+- 1\.1.2 Per quanto possibile, la valutazione finale è effettuata da specialisti esterni.
+- 1\.1.3
+
+  Per gli anni 2026–2028 sono valutati prioritariamente i seguenti aspetti:
+
+  - a. impatto della promozione cinematografica sulla competitività della Svizzera come sede di produzione;
+  - b. evoluzione della pluralità dell’offerta nei diversi canali di commercializzazione;
+  - c. proporzione tra uomini e donne nei progetti presentati e sostenuti.
+
+### 1.2 Obiettivi della promozione durante la fase di sviluppo e di realizzazione
+
+- 1\.2.1
+
+  La promozione della creazione cinematografica svizzera durante la fase di sviluppo (promozione della stesura di sceneggiature e dello sviluppo di progetti) persegue i seguenti obiettivi:
+
+  - a. favorire la stesura di sceneggiature e lo sviluppo di progetti di elevata qualità;
+  - b. favorire lo sviluppo di progetti che tengono conto del loro pubblico target;
+  - c. favorire lo sviluppo di formati narrativi innovativi;
+  - d. favorire lo sviluppo di progetti per generi e formati diversi.
+
+- 1\.2.2
+
+  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.2.1 sono:
+
+  - a. tipo e numero di film basati su sceneggiature di cui è stata sostenuta la stesura e su progetti di cui è stato sostenuto lo sviluppo, suddivisi in base ai generi e ai formati;
+  - b. tipo di commercializzazione e risultati della commercializzazione dei progetti realizzati.
+
+- 1\.2.3
+
+  La promozione della creazione cinematografica svizzera durante la fase di realizzazione (promozione della realizzazione) persegue i seguenti obiettivi:
+
+  - a. consentire ai cineasti svizzeri di realizzare film di elevata qualità e rilevanti per la cultura;
+  - b. favorire la realizzazione di film svizzeri e coproduzioni di generi e formati diversi;
+  - c. creare le premesse affinché film svizzeri e coproduzioni siano accessibili per il pubblico svizzero indipendentemente dalla forma di commercializzazione e vengano proiettati a importanti festival nazionali e internazionali;
+  - d. aumentare il numero di coproduzioni girate in Svizzera, nonché mantenere e rafforzare la competitività artistica e tecnica della Svizzera come sede di promozione cinematografica.
+
+- 1\.2.4
+
+  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.2.3 sono:
+
+  - a. numero dei film svizzeri e delle coproduzioni la cui realizzazione ha beneficiato di un sostegno, suddivisi in base ai generi e ai formati;
+  - b. tipo di commercializzazione e risultati della commercializzazione dei film sostenuti, suddivisi in base alle regioni linguistiche;
+  - c. presenze e riconoscimenti di film svizzeri e coproduzioni con regia svizzera a festival importanti;
+  - d. numero di coproduzioni con la Svizzera in base al Paese di coproduzione, alla struttura di finanziamento e alla quota di partecipazione artistica e tecnica;
+  - e. aumento o diminuzione del numero di giornate di ripresa in Svizzera e delle uscite per prestazioni tecniche, artistiche e logistiche fornite in Svizzera.
+
+- 1\.2.5
+
+  La promozione cinematografica legata al successo persegue i seguenti obiettivi:
+
+  - a. consentire agli autori e ai registi di scrivere in modo autonomo trattamenti e sceneggiature;
+  - b. consentire ai produttori di sviluppare e realizzare progetti in modo autonomo;
+  - c. creare le premesse affinché gli accrediti vengano reinvestiti il più rapidamente possibile in nuovi progetti.
+
+- 1\.2.6
+
+  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.2.5 sono:
+
+  - a. numero di trattamenti, sceneggiature e scalette sviluppati grazie ai mezzi della promozione cinematografica legata al successo;
+  - b. lasso di tempo medio fra la comunicazione degli accrediti e il reinvestimento degli stessi in base al tipo di reinvestimento.
+
+### 1.3 Obiettivi della promozione durante la fase di commercializzazione
+
+- 1\.3.1
+
+  La promozione cinematografica legata al successo persegue i seguenti obiettivi:
+
+  - a. rafforzare la creazione cinematografica svizzera permettendo alle imprese di distribuzione di acquistare i diritti su film svizzeri e coproduzioni;
+  - b. creare le premesse affinché le imprese di distribuzione svizzere reinvestano rapidamente gli accrediti in nuovi progetti di distribuzione;
+  - c. mantenere e consolidare la pluralità dell’offerta nei cinema e nei servizi di media audiovisivi su richiesta incentivando le imprese di proiezione, distribuzione e diffusione a programmare e proiettare un’offerta attraente di film svizzeri.
+
+- 1\.3.2
+
+  Gli indicatori per il raggiungimento degli obiettivi di cui al numero 1.3.1 sono:
+
+  - a. numero di film nei quali sono stati investiti mezzi della promozione cinematografica legata al successo per misure promozionali e acquisizioni;
+  - b. lasso di tempo medio fra la comunicazione degli accrediti per la distribuzione e il reinvestimento degli stessi, in base al tipo di reinvestimento;
+  - c. numero di proiezioni ed entrate nei cinema di film svizzeri e coproduzioni;
+  - d. numero di film offerti e di richieste a pagamento su canali di commercializzazione elettronica diversi dalla televisione lineare.
+
+### 2 Criteri
+
+### 2.1 Criteri della promozione cinematografica selettiva
+
+- 2\.1.1 *Promozione della stesura di sceneggiature*
+- 2\.1.1.1 Gli sceneggiatori svizzeri e le imprese di produzione svizzere possono richiedere un aiuto finanziario per le spese di stesura della sceneggiatura e per i corrispondenti lavori di sviluppo.
+- 2\.1.1.2 La promozione della stesura di sceneggiature è prevista per lungometraggi di fiction e lungometraggi di animazione.
+- 2\.1.1.3
+
+  Nella promozione della stesura di sceneggiature sono determinanti in particolare i seguenti criteri:
+
+  - a. originalità del tema;
+  - b. qualità artistica del trattamento;
+  - c. potenziale di commercializzazione e orientamento ai gruppi target;
+  - d. qualità e coerenza delle modalità di lavoro previste;
+  - e. contributo alla pluralità dell’offerta, segnatamente in termini di varietà tematica e formale;
+  - f. necessità e proporzionalità del contributo richiesto.
+
+- 2\.1.1.4
+
+  Possono essere privilegiate le domande di:
+
+  - a. nuove leve della sceneggiatura;
+  - b. sceneggiatrici;
+  - c. persone che non possono investire alcun accredito della promozione cinematografica legata al successo oppure i cui accrediti sono troppo esigui.
+
+- 2\.1.2 *Promozione dello sviluppo di progetti*
+- 2\.1.2.1
+
+  Le imprese di produzione svizzere possono richiedere un aiuto finanziario per le spese di sviluppo dei seguenti tipi di film:
+
+  - a. lungometraggi documentari e lunghe serie di documentari;
+  - b. lungometraggi, cortometraggi e serie di animazione.
+
+- 2\.1.2.2 La promozione dello sviluppo di progetti è prevista per progetti cinematografici sviluppati su iniziativa dell’impresa di produzione svizzera e sotto la sua responsabilità. Sono computabili in particolare le spese delle ricerche e dei viaggi necessari, dell’ideazione artistica e dell’ulteriore sviluppo del progetto cinematografico, nonché dei lavori preliminari di produzione in vista del finanziamento e della realizzazione del film. Per i progetti di film di animazione sono computabili le spese per la realizzazione di un film pilota.
+- 2\.1.2.3
+
+  Nella promozione dello sviluppo di progetti sono determinanti in particolare i seguenti criteri:
+
+  - a. originalità e qualità artistica della sceneggiatura o della scaletta;
+  - b. potenziale di commercializzazione e orientamento ai gruppi target;
+  - c. qualità e coerenza della strategia di sviluppo dal punto di vista artistico, produttivo e finanziario;
+  - d. contributo alla pluralità dell’offerta, segnatamente in termini di varietà tematica e formale;
+  - e. necessità e proporzionalità del contributo richiesto.
+
+- 2\.1.2.4
+
+  Possono essere privilegiate le domande:
+
+  - a. per film di nuove leve della regia;
+  - b. per film di registe;
+  - c. di persone che non possono investire alcun accredito della promozione cinematografica legata al successo oppure i cui accrediti sono troppo esigui.
+
+- 2\.1.3 *Promozione di formati narrativi innovativi*
+- 2\.1.3.1 Le imprese di produzione svizzere e le società svizzere che realizzano contenuti audiovisivi in maniera altrettanto indipendente e professionale, possono richiedere un aiuto finanziario per le spese di sviluppo, realizzazione e commercializzazione di formati innovativi.
+- 2\.1.3.2 La promozione di formati narrativi innovativi è prevista per progetti sviluppati su iniziativa dell’impresa svizzera e sotto la sua responsabilità. Sono computabili in particolare le spese delle ricerche e dei viaggi necessari, dell’ideazione artistica e tecnica così come dell’ulteriore sviluppo del formato narrativo, dello sviluppo in vista del finanziamento della realizzazione nonché dell’attuazione.
+- 2\.1.3.3
+
+  Nella promozione dei formati narrativi innovativi sono determinanti in particolare i seguenti criteri:
+
+  - a. grado di innovazione formale o tecnica e qualità artistica del progetto audiovisivo;
+  - b. potenziale di commercializzazione e orientamento ai gruppi target;
+  - c. qualità e coerenza della strategia di sviluppo dal punto di vista artistico, tecnico e finanziario;
+  - d. contributo allo sviluppo della creazione audiovisiva in Svizzera e alla cooperazione tra specialisti di diversi settori;
+  - e. necessità e proporzionalità del contributo richiesto.
+
+- 2\.1.3.4
+
+  Possono essere privilegiate le domande:
+
+  - a. per film di nuove leve della regia;
+  - b. per progetti sviluppati in collaborazione con persone che hanno concluso da al massimo 3 anni una formazione in design o tecnologia presso una scuola professionale, una scuola universitaria professionale o un’università;
+  - c. di persone che non possono investire alcun accredito della promozione cinematografica legata al successo oppure i cui accrediti sono troppo esigui.
+
+- 2\.1.4 *Promozione della realizzazione di film svizzeri e di coproduzioni con produzione responsabile svizzera*
+- 2\.1.4.1
+
+  Le imprese di produzione svizzere responsabili della realizzazione di un film possono richiedere un aiuto finanziario per la realizzazione. Possono beneficiare di un sostegno i seguenti tipi di film:
+
+  - a. lungometraggi e cortometraggi di fiction, se non sono destinati a una prima commercializzazione in televisione;
+  - b. lungometraggi e cortometraggi di animazione;
+  - c. lungometraggi e cortometraggi documentari nonché lunghe serie di documentari.
+
+- 2\.1.4.2 In linea di principio i film svizzeri e le coproduzioni sono sostenuti solo se la quota di personale artistico e tecnico svizzero e di imprese tecniche svizzere è proporzionata alla quota del finanziamento svizzero.
+- 2\.1.4.3
+
+  Nella valutazione di progetti con produzione responsabile svizzera sono determinanti in particolare i seguenti criteri:
+
+  - a. qualità artistica della sceneggiatura o della scaletta, nonché della realizzazione visiva prevista;
+  - b. qualità e coerenza del dossier di produzione dal punto di vista artistico, tecnico e produttivo;
+  - c. potenziale di commercializzazione e orientamento ai gruppi target;
+  - d. stato di avanzamento del progetto (pronto per la realizzazione);
+  - e. contributo alla pluralità dell’offerta, segnatamente in termini di varietà tematica e formale;
+  - f. necessità e proporzionalità del contributo richiesto.
+
+- 2\.1.4.4
+
+  Possono essere privilegiate le domande:
+
+  - a. per film di nuove leve della regia;
+  - b. per film di registe;
+  - c. per progetti cinematografici che sono pronti per la realizzazione;
+  - d. di persone che non possono investire alcun accredito della promozione cinematografica legata al successo oppure i cui accrediti sono troppo esigui.
+
+- 2\.1.4.5
+
+  Per preparare la realizzazione di un lungometraggio di fiction (preparazione delle riprese), le imprese di produzione svizzere possono richiedere un anticipo non superiore al 15 per cento del contributo alla realizzazione previsto dalla promozione cinematografica selettiva. Nella decisione relativa al versamento vanno considerati i seguenti criteri:
+
+  - a. dichiarazione d’intenti valida dell’UFC;
+  - b. realizzazione del progetto nei sei mesi successivi e finanziamento assicurato di almeno il 50 per cento del progetto complessivo (senza contributi federali);
+  - c. plausibilità delle misure pianificate.
+
+- 2\.1.4.6 Le imprese di produzione svizzere che hanno realizzato meno di tre lungometraggi e che preparano una domanda per il versamento di un contributo alla realizzazione già previsto dall’UFC possono rivolgersi a una delle istituzioni di formazione continua riconosciute dall’UFC per ottenere assistenza gratuita da parte di una persona con pluriennale esperienza nella produzione.
+- 2\.1.5 *Promozione della realizzazione di coproduzioni senza produzione* *responsabile* *svizzera*
+- 2\.1.5.1
+
+  Le imprese di produzione svizzere che partecipano alla realizzazione di una coproduzione, senza assumerne la responsabilità, possono richiedere un aiuto finanziario per la realizzazione del film coprodotto se non è destinato a una prima commercializzazione in televisione. Possono beneficiare di un sostegno i seguenti tipi di film:
+
+  - a. lungometraggi di fiction;
+  - b. lungometraggi e cortometraggi di animazione;
+  - c. lungometraggi documentari e lunghe serie di documentari.
+
+- 2\.1.5.2 In linea di principio le coproduzioni sono sostenute solo se la quota di personale artistico e tecnico svizzero e di imprese tecniche svizzere è proporzionata alla quota del finanziamento svizzero.
+-
+
+  La valutazione di progetti senza produzione responsabile svizzera avviene secondo un sistema a punti. Sono determinanti in particolare i seguenti criteri:
+
+  - a. qualità del progetto e legame con la Svizzera;
+  - b. fattibilità del progetto;
+  - c. potenziale di commercializzazione all’estero e in Svizzera;
+  - d. reciprocità tra i Paesi partecipanti e bilancio di coproduzione dell’impresa richiedente;
+  - e. necessità e proporzionalità del contributo richiesto.
+
+- 2\.1.5.4
+
+  Possono essere privilegiate le domande:
+
+  - a. per film di registe;
+  - b. per film da regioni linguistiche svizzere la cui quota di finanziamento nell’anno precedente è stata inferiore al 25 per cento.
+
+- 2\.1.5.5
+
+  I cofinanziamenti svizzeri con l’estero possono essere sostenuti se sono ammessi in virtù dell’accordo di coproduzione applicabile. Nella promozione dei cofinanziamenti sono determinanti inoltre i seguenti criteri:
+
+  - a. ragioni tecniche o artistiche contrarie a una partecipazione di personale artistico e tecnico svizzero;
+  - b. reciprocità nell’ambito dei cofinanziamenti con il Paese in questione;
+  - c. contributo alla sostenibilità della produzione.
+
+- 2\.1.6 *Sostegno mediante prestazioni non finanziarie*
+- L’UFC può sostenere la produzione cinematografica indipendente anche mediante prestazioni non finanziarie, come consulenza, raccomandazioni o patronati (art. 13 cpv. 2 LCin).
+- 2\.1.7 *Premio del cinema*
+- L’UFC versa aiuti finanziari per i film in lizza per il Premio del cinema svizzero. La procedura è retta dall’ordinanza del DFI del 30 settembre 2004[^annex2-lvlu1-lvl2-lvl21-1] concernente il Premio del cinema svizzero.
+
+[^annex2-lvlu1-lvl2-lvl21-1]: [RS 443.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7141)
+
+### 2.2 Criteri per il reinvestimento degli accrediti della promozione cinematografica legata al successo
+
+- 2\.2.1 Entro la scadenza, le persone e le imprese aventi diritto devono reinvestire gli accrediti della promozione cinematografica legata al successo in un nuovo progetto cinematografico. È possibile reinvestire indipendentemente dalla lunghezza, dal formato e dal canale di commercializzazione; sono segnatamente ammessi anche i reinvestimenti in film televisivi, serie e formati narrativi innovativi. Nel reinvestimento sono determinanti in particolare i seguenti criteri:
+- 2\.2.2 *Stesura di trattamenti, scalette e sceneggiature*
+- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per la stesura di un nuovo trattamento, di una scaletta, di una nuova sceneggiatura o per ricerche. Possono essere utilizzati per la rielaborazione di una sceneggiatura esistente se la relativa domanda di contributo alla realizzazione secondo il numero 2.1.4 o 2.1.5 era stata respinta per lacune nella sceneggiatura. Le domande possono essere presentate da autori, registi e imprese di produzione.
+- 2\.2.3 *Sviluppo di progetti*
+- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per lo sviluppo di film e progetti audiovisivi a cui partecipano cineasti svizzeri. Le domande possono essere presentate dalle imprese di produzione. In caso di coproduzioni, l’impresa di produzione svizzera deve essere responsabile dello sviluppo del progetto e detenere i relativi diritti.
+- 2\.2.4 *Realizzazione e postproduzione*
+- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per la realizzazione e la postproduzione di film svizzeri e di coproduzioni. Le domande possono essere presentate dalle imprese di produzione.
+- 2\.2.5 *Distribuzione e diffusione*
+- Gli accrediti della promozione cinematografica legata al successo possono essere utilizzati per distribuire e promuovere film svizzeri e coproduzioni. Le domande possono essere presentate dalle imprese di produzione e di distribuzione.
+- 2\.2.6 Per l’acquisizione di diritti (garanzie minime), le imprese di distribuzione possono utilizzare gli accrediti fino al 70 per cento della somma di garanzia pagata per la stesura della sceneggiatura da parte di autori svizzeri e per la realizzazione e la postproduzione di film svizzeri o di coproduzioni.
+- 2\.2.7 È escluso il reinvestimento nella distribuzione, nella diffusione e nell’acquisizione di diritti di film la cui distribuzione è sostenuta secondo l’articolo 45 OPICin[^annex2-lvlu1-lvl2-lvl22-1].
+
+[^annex2-lvlu1-lvl2-lvl22-1]: [RS 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
+
+Allegato 3[^t-3]
+
+(art. 14*a* cpv. 2 e 14*b* cpv. 2)
+
+## Qualità e pluralità dell’offerta cinematografica: regime di promozione 2026–2028
+
+[^t-3]: Nuovo testo giusta la cifra II dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 al 31 dic. 2028 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840); art. 118 cpv. 3).
+
+### 1 Obiettivi e indicatori della valutazione
+
+### 1.1 Valutazione
+
+- 1\.1.1 L’UFC informa periodicamente sull’attuazione dei regimi di promozione cinematografica, in particolare sul raggiungimento degli obiettivi elencati qui di seguito.
+- 1\.1.2 Per quanto possibile, la valutazione finale è effettuata da specialisti esterni.
+- 1\.1.3 Per gli anni 2026−2028 è valutata prioritariamente l’efficacia delle misure per la promozione della visibilità della creazione cinematografica svizzera a livello nazionale.
 
 ### 1.2 Obiettivi nel settore della distribuzione di film per il cinema
 
-- 1\.2.1 Garantire un’offerta cinematografica in Svizzera di elevata qualità e variata.
+- 1\.2.1 Garantire un’offerta cinematografica in Svizzera di elevata qualità e variata. I film svizzeri e le coproduzioni con potenziale cinematografico devono essere visibili in tutte le forme di commercializzazione e in tutte le regioni linguistiche.
 - 1\.2.2
 
   Gli indicatori per il raggiungimento di questo obiettivo sono:
@@ -2144,12 +2255,11 @@ Allegato 3[^t-3]
   - b. numero di luoghi di commercializzazione e di regioni linguistiche per film;
   - c. numero di entrate e di proiezioni corrispondenti;
   - d. origine dei film proiettati;
-  - e. sesso del regista;
-  - f. lingua di commercializzazione.
+  - e. lingua originale.
 
 ### 1.3 Obiettivi nel settore della programmazione e della mediazione cinematografica nei cinema
 
-- 1\.3.1 Garantire un’offerta cinematografica di elevata qualità e variata in Svizzera.
+- 1\.3.1 Garantire un’offerta cinematografica di elevata qualità, variata e visibile a un pubblico target diversificato.
 - 1\.3.2
 
   Gli indicatori per il raggiungimento di questo obiettivo sono:
@@ -2157,9 +2267,7 @@ Allegato 3[^t-3]
   - a. numero di film commercializzati nei cinema;
   - b. numero di luoghi di commercializzazione e di regioni linguistiche per film;
   - c. numero di entrate e di proiezioni corrispondenti;
-  - d. origine dei film proiettati;
-  - e. sesso del regista;
-  - f. lingua di commercializzazione.
+  - d. origine dei film proiettati.
 
 - 1\.3.3 Salvaguardare a lungo termine e in maniera sostenibile l’importanza dei cinema quali luoghi d’incontro culturale.
 - 1\.3.4
@@ -2167,36 +2275,34 @@ Allegato 3[^t-3]
   Gli indicatori per il raggiungimento di questo obiettivo sono:
 
   - a. numero di proiezioni con tavole rotonde e manifestazioni analoghe sulla creazione cinematografica svizzera;
-  - b. numero di programmi rivolto a specifici gruppi target e manifestazioni collaterali destinate a un pubblico giovane;
-  - c. numero di altri programmi rivolti a specifici gruppi target e manifestazioni collaterali, per anno, cinema e luogo di commercializzazione;
-  - d. numero di entrate corrispondenti;
-  - e. numero di misure di promozione e comunicazione per il dialogo con il pubblico.
+  - b. numero di programmi rivolti a specifici gruppi target e manifestazioni collaterali, per anno, cinema e luogo di commercializzazione;
+  - c. numero di entrate corrispondenti.
 
 ### 2 Criteri
 
-### 2.1 Criteri della promozione nel settore della distribuzione
+### 2.1 Criteri di promozione nel settore della distribuzione
 
-- 2\.1.1 *Premi alla pluralità per la distribuzione di film svizzeri e coproduzioni (art. 14a cpv. 1 lett. a)*
-- 2\.1.1.1 Le imprese di distribuzione svizzere che distribuiscono un lungometraggio svizzero o un lungometraggio riconosciuto come coproduzione con regia svizzera possono richiedere un aiuto finanziario (premio alla pluralità). Per ogni film, il premio alla pluralità è calcolato sulla base delle proiezioni computabili, secondo una chiave decrescente in rapporto alle entrate realizzate. La commercializzazione estesa a più regioni linguistiche e le proiezioni nelle regioni cinematografiche piccole e medie possono essere sostenute con un’aliquota più elevata. Il versamento dei premi alla pluralità avviene al termine della commercializzazione nei cinema sulla base del conteggio delle proiezioni e delle entrate computabili.
-- 2\.1.1.2 Possono beneficiare di un sostegno i film che fanno registrare almeno 2000 entrate in tutta la Svizzera. È considerata come commercializzazione estesa a più regioni linguistiche una ulteriore commercializzazione di 50 proiezioni in tre luoghi nella Svizzera tedesca, di 25 proiezioni in due luoghi nella Svizzera francese e di 14 proiezioni nella Svizzera italiana. Devono essere presenti in media dieci spettatori per proiezione. Il diritto al sostegno decade non appena un film realizza 60 000 entrate.
-- 2\.1.2 *Premi alla pluralità per la distribuzione di film stranieri che contribuiscono alla pluralità dell’offerta (art. 14b cpv. 1 lett. b).*
-- 2\.1.2.1 Le imprese di distribuzione svizzere che distribuiscono prevalentemente film di cui all’articolo 14*b* capoverso 1 lettera b possono richiedere un aiuto finanziario (premio alla pluralità) per la distribuzione di tali film. Per ogni film, il premio alla pluralità è calcolato sulla base delle proiezioni computabili, secondo una chiave decrescente in rapporto alle entrate realizzate. La commercializzazione estesa a più regioni linguistiche e le proiezioni nelle regioni cinematografiche piccole e medie possono essere sostenute con un’aliquota più elevata. Il versamento dei premi alla pluralità avviene al termine della commercializzazione nei cinema sulla base del conteggio delle proiezioni e delle entrate computabili.
-- 2\.1.2.2 Possono beneficiare di un sostegno solo i film che fanno registrare almeno 2000 entrate in tutta la Svizzera. È considerata come commercializzazione estesa a più regioni linguistiche una ulteriore commercializzazione di 50 proiezioni in tre luoghi nella Svizzera tedesca, di 25 proiezioni in due luoghi nella Svizzera francese e di 14 proiezioni nella Svizzera italiana. Devono essere presenti in media dieci spettatori per proiezione. Il diritto al sostegno decade non appena un film realizza 60 000 entrate.
+- 2\.1.1 *Premi alla pluralità per la distribuzione di film svizzeri e coproduzioni (art. 14b cpv. 1 lett. a)*
+- 2\.1.1.1 Le imprese di distribuzione svizzere che distribuiscono un lungometraggio svizzero o in coproduzione con regia svizzera possono richiedere un aiuto finanziario (premio alla pluralità). Il premio alla pluralità è calcolato per ogni film sulla base delle proiezioni computabili, secondo una chiave decrescente in rapporto alle entrate nei cinema realizzate. La commercializzazione in più regioni linguistiche e le proiezioni nelle regioni cinematografiche piccole e medie possono essere sostenute con un’aliquota più elevata. Il versamento dei premi alla pluralità avviene al termine della commercializzazione nei cinema sulla base del conteggio delle proiezioni e delle entrate computabili. In caso di cumulo con gli accrediti della promozione cinematografica legata al successo di cui alla presente ordinanza, occorre presentare un conteggio per tutto il periodo di commercializzazione; all’occorrenza, il premio alla pluralità va ridotto ai sensi dell’articolo 24 capoverso 1.
+- 2\.1.1.2 Possono beneficiare di un sostegno i film che realizzano almeno 2000 entrate nei cinema, in tutta la Svizzera. È considerata come commercializzazione in più regioni linguistiche un’ulteriore commercializzazione di 50 proiezioni in tre luoghi nella Svizzera tedesca, di 25 proiezioni in due luoghi nella Svizzera francese e di 14 proiezioni nella Svizzera italiana. Devono essere presenti in media dieci spettatori per proiezione. Il diritto al sostegno decade non appena un film realizza 60 000 entrate.
+- 2\.1.2 *Premi alla pluralità per la distribuzione di film stranieri che contribuiscono alla pluralità dell’offerta (art. 14b cpv. 1 lett. b)*.
+- 2\.1.2.1 Le imprese di distribuzione svizzere che distribuiscono prevalentemente film di cui all’articolo 14*b* capoverso 1 lettera b possono richiedere un aiuto finanziario (premio alla pluralità) per la distribuzione di tali film. Il premio alla pluralità è calcolato, per ogni film, sulla base delle proiezioni computabili, secondo una chiave decrescente in rapporto alle entrate nei cinema realizzate. La commercializzazione in più regioni linguistiche e le proiezioni nelle regioni cinematografiche piccole e medie possono essere sostenute con un’aliquota più elevata. Il versamento dei premi alla pluralità avviene al termine della commercializzazione nei cinema sulla base del conteggio delle proiezioni e delle entrate computabili.
+- 2\.1.2.2 Possono beneficiare di un sostegno i film che realizzano almeno 2000 entrate nei cinema, in tutta la Svizzera. È considerata come commercializzazione in più regioni linguistiche un’ulteriore commercializzazione di 50 proiezioni in tre luoghi nella Svizzera tedesca, di 25 proiezioni in due luoghi nella Svizzera francese e di 14 proiezioni nella Svizzera italiana. Devono essere presenti in media dieci spettatori per proiezione. Il diritto al sostegno decade non appena un film realizza 60 000 entrate.
 
-### 2.2 Criteri della promozione nel settore delle sale cinematografiche
+### 2.2 Criteri di promozione nel settore delle sale cinematografiche
 
-- 2\.2.1 *Premi alla pluralità per la programmazione nelle sale cinematografiche (art. 14a cpv.1 lett. c)*
-- 2\.2.1.1 Le imprese di proiezione registrate che mediante una programmazione variata contribuiscono in modo determinante alla pluralità dell’offerta possono richiedere un aiuto finanziario (premio alla pluralità). I premi alla pluralità sono calcolati e versati annualmente, nei limiti dei crediti stanziati, sulla base dei titoli di film proiettati, delle entrate realizzate e delle proiezioni per sala durante l’anno precedente. Per le grandi città i requisiti in materia di pluralità dell’offerta sono più severi rispetto a quelli per le città di medie dimensioni e le regioni rurali.
+- 2\.2.1 *Premi alla pluralità per la programmazione nelle sale cinematografiche (art. 14a cpv. 1 lett. c)*
+- 2\.2.1.1 Le imprese di proiezione registrate che mediante una programmazione diversificata contribuiscono in modo determinante alla pluralità dell’offerta possono richiedere un aiuto finanziario (premio alla pluralità). I premi alla pluralità sono calcolati e versati annualmente, nei limiti dei crediti stanziati, sulla base dei titoli dei film proiettati, delle entrate realizzate e delle proiezioni per sala durante l’anno precedente. Per le grandi città i requisiti in materia di pluralità dell’offerta sono più severi rispetto a quelli per le città di medie dimensioni e le regioni rurali.
 - 2\.2.1.2
 
   Per il calcolo dei premi alla pluralità sono determinanti i seguenti criteri:
 
-  - a. numero di film, entrate e proiezioni per sala secondo il Paese di origine e l’età dei film;
+  - a. numero di film, entrate nei cinema e proiezioni per sala secondo il Paese di origine e l’età dei film;
   - b. quota di tali film sull’intero programma della sala cinematografica;
-  - c. ubicazione dei cinema (grande città, città di medie dimensioni, regione rurale).
+  - c. ubicazione dei cinema (grande città, città di medie dimensioni o regione rurale).
 
-- 2\.2.2. *Premi alla pluralità per cinema con programmi speciali*
-- 2\.2.2.1 Le imprese di proiezione registrate che contribuiscono in modo determinante all’importanza dei cinema quali luoghi d’incontro culturale, segnatamente organizzando tavole rotonde o attuando altre misure rivolte a specifici gruppi target, possono richiedere un aiuto finanziario. Tale aiuto è calcolato, nei limiti dei crediti stanziati, sulla base del numero delle misure attuate durante l’anno precedente, delle relative entrate e del genere dei film. Per le grandi città i requisiti in materia di pluralità dell’offerta sono più severi rispetto a quelli per le città di medie dimensioni e le regioni rurali.
+- 2\.2.2 *Premi alla pluralità per cinema con programmi speciali*
+- 2\.2.2.1 Le imprese di proiezione registrate che contribuiscono in modo determinante all’importanza dei cinema quali luoghi d’incontro culturale, segnatamente organizzando tavole rotonde o attuando altre misure rivolte a specifici gruppi target, possono richiedere un aiuto finanziario. Tale aiuto è calcolato, nei limiti dei crediti stanziati, sulla base del numero delle misure attuate durante l’anno precedente, delle relative entrate e del genere dei film. Per le grandi città i requisiti sono più severi rispetto a quelli per le città di medie dimensioni e le regioni rurali.
 - 2\.2.2.2
 
   Per il calcolo dei premi alla pluralità sono determinanti i seguenti criteri:
@@ -2204,37 +2310,37 @@ Allegato 3[^t-3]
   - a. numero totale di misure rivolte a specifici gruppi target e programmi speciali;
   - b. quote di questi programmi speciali sull’intero programma della sala cinematografica;
   - c. quote dei programmi speciali rivolti a un pubblico giovane e dei film con regia svizzera;
-  - d. genere di film e numero di entrate nel quadro di programmi speciali;
+  - d. genere di film e numero di entrate nei cinema nel quadro di programmi speciali;
   - e. ubicazione dei cinema (grande città, città di medie dimensioni, regione rurale).
 
-### 2.3 Misure non pecuniarie
+### 2.3 Sostegno mediante prestazioni non finanziarie
 
-- Per sostenere la qualità e la pluralità dell’offerta cinematografica, l’UFC può adottare anche misure non pecuniarie come consulenza, raccomandazioni o patronati (art. 13 cpv. 2 LCin).
+- L’UFC può sostenere la qualità e la pluralità dell’offerta cinematografica anche mediante prestazioni non finanziarie, come ad esempio consulenza, raccomandazioni o patronati (art. 13 cpv. 2 LCin).
 
 Allegato 4[^t-4]
 
 (art. 15 cpv. 4, 16 cpv. 2 e 18 cpv. 3)
 
-## Regime di promozione 2021–2024 per la promozione della cultura cinematografica e della formazione continua
+## Cultura cinematografica e formazione continua: regime di promozione 2026–2028
 
-[^t-4]: Introdotto dal n. II cpv. 2 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In vigore fino al 31 dic. 2025 (vedi art. 118 cpv. 4).
+[^t-4]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 18 nov. 2020 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Nuovo testo giusta la cifra II dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 al 31 dic. 2028 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840); art. 118 cpv. 3).
 
 ### 1 Obiettivi e indicatori della valutazione
 
 ### 1.1 Valutazione
 
 - 1\.1.1 L’UFC informa periodicamente sull’attuazione dei regimi di promozione cinematografica, in particolare sul raggiungimento degli obiettivi elencati qui di seguito.
-- 1\.1.2 La valutazione finale è effettuata da specialisti esterni.
-- 1\.1.3 Per gli anni 2021–2024 è valutata prioritariamente l’efficacia delle misure per la promozione della creazione cinematografica svizzera a livello nazionale e internazionale.
+- 1\.1.2 Per quanto possibile, la valutazione finale è effettuata da specialisti esterni.
+- 1\.1.3 Per gli anni 2026–2028 è valutata prioritariamente l’efficacia delle misure per la promozione della creazione cinematografica svizzera a livello nazionale.
 
 ### 1.2 Obiettivi nel settore della cultura cinematografica
 
-- 1\.2.1 Rafforzare le organizzazioni di cultura cinematografica che operano a livello professionale in tutta la Svizzera nei settori dei festival, della mediazione cinematografica e della promozione cinematografica.
+- 1\.2.1 Rafforzare le organizzazioni di cultura cinematografica che operano a livello professionale in tutta la Svizzera nei settori dei festival, della mediazione cinematografica e della critica cinematografica.
 - 1\.2.2
 
   Gli indicatori per il raggiungimento di questo obiettivo sono:
 
-  - a. qualifiche e condizioni salariali, in particolare del personale che ricopre posizioni chiave quali direzione, programmazione e redazione, comunicazione e tecnica;
+  - a. qualifiche e condizioni salariali, in particolare del personale che ricopre posizioni chiave quali direzione, programmazione, redazione, comunicazione e tecnica;
   - b. livello di autofinanziamento;
   - c. sinergie grazie a cooperazioni con organizzazioni terze in Svizzera e all’estero.
 
@@ -2244,101 +2350,135 @@ Allegato 4[^t-4]
   Gli indicatori per il raggiungimento di questo obiettivo sono:
 
   - a. numero di attività (festival, pubblicazioni, manifestazioni, proiezioni);
-  - b. entrate, tiratura o intensità di fruizione secondo la lingua o la provenienza regionale del pubblico;
+  - b. entrate, tiratura o intensità di fruizione in base alla lingua e alla provenienza regionale del pubblico;
   - c. numero di attività di mediazione in diverse lingue;
-  - d. numero di attività secondo il genere e il gruppo target.
+  - d. numero di attività in base al genere e al gruppo target.
 
-- 1\.2.5 Permettere alla popolazione di accedere a un’offerta cinematografica di elevata qualità e variata, segnatamente nell’ambito di festival.
+- 1\.2.5 Permettere alla popolazione di accedere a un’offerta cinematografica di elevata qualità e varia, segnatamente nell’ambito di festival.
 - 1\.2.6
 
   Gli indicatori per il raggiungimento di questo obiettivo sono:
 
   - a. origine dei film proiettati;
-  - b. sesso del regista;
+  - b. proporzione tra il numero di film di registe e quello di registi;
   - c. numero di nuovi film e di retrospettive;
   - d. criteri di selezione della programmazione;
   - e. numero di spettatori in totale e per film e festival.
 
-### 1.3 Obiettivi nel settore della formazione continua
+### 1.3 Obiettivi nel settore della promozione cinematografica
 
-- 1\.3.1 Le nuove leve devono essere seguite e assistite in modo professionale nel quadro di praticantati per garantire la continuità e la capacità di sviluppo della creazione cinematografica svizzera, specialmente anche per quanto concerne le nuove forme di commercializzazione.
+- 1\.3.1 Rafforzare la visibilità della creazione cinematografica svizzera e della cultura cinematografica svizzera a livello nazionale.
 - 1\.3.2
 
   Gli indicatori per il raggiungimento di questo obiettivo sono:
 
-  - a. numero di praticantati nella produzione cinematografica;
-  - b. sesso dei praticanti;
+  - a. quote di mercato, numero di richieste e indici di ascolto;
+  - b. copertura delle relative campagne promozionali;
+  - c. numero di partner che hanno partecipato alle campagne promozionali.
+
+### 1.4 Obiettivi nel settore della formazione continua
+
+- 1\.4.1 Le nuove leve devono essere seguite e assistite in modo professionale nel quadro di praticantati per garantire la continuità e la capacità di sviluppo della creazione cinematografica svizzera, segnatamente anche per quanto concerne le nuove forme di commercializzazione.
+- 1\.4.2
+
+  Gli indicatori per il raggiungimento di questo obiettivo sono:
+
+  - a. numero di praticantati nelle produzioni cinematografiche;
+  - b. numero di donne e numero di uomini che svolgono un praticantato;
   - c. integrazione professionale al termine dei praticantati.
 
-- 1\.3.3 I professionisti attivi nella realizzazione, commercializzazione e mediazione cinematografica devono potersi formare e perfezionare in modo continuativo e adeguato alle esigenze, affinché la creazione cinematografica svizzera resti competitiva a livello internazionale.
-- 1\.3.4 Gli indicatori per il raggiungimento di questo obiettivo sono il numero e il tipo di corsi di formazione continua nonché il numero di partecipanti e il loro grado di soddisfazione.
+- 1\.4.3 Le nuove leve della produzione devono essere seguite in modo professionale durante lo sviluppo dei progetti sostenuti e la preparazione delle riprese.
+- 1\.4.4
+
+  Gli indicatori per il raggiungimento di questo obiettivo sono:
+
+  - a. numero di nuove leve seguite;
+  - b. numero di progetti e di riprese portati a termine.
+
+- 1\.4.5 I cineasti professionisti attivi nella realizzazione, commercializzazione e mediazione devono potersi formare e perfezionare in modo continuativo e adeguato alle esigenze, affinché la creazione cinematografica svizzera resti competitiva a livello internazionale.
+- 1\.4.6 Gli indicatori per il raggiungimento di questo obiettivo sono il numero e il tipo di corsi di formazione continua nonché il numero di partecipanti e il loro grado di soddisfazione.
 
 ### 2 Criteri
 
-### 2.1 Criteri della promozione della cultura cinematografica
+### 2.1 Criteri di promozione della cultura cinematografica
 
-- 2\.1.1 *Promozione delle organizzazioni di cultura cinematografica*
-- 2\.1.1.1 La Confederazione può approvare aiuti finanziari per le spese di esercizio di organizzazioni come festival, pubblicazioni e istituzioni di cultura cinematografica che, grazie alle loro attività, contribuiscono significativamente e in modo permanente o periodico a diffondere la cultura cinematografica e a incentivare la creazione cinematografica svizzera. Per migliorare la percezione nelle diverse regioni linguistiche, le attività sostenute dalla Confederazione con un contributo superiore a un terzo delle spese devono utilizzare almeno due lingue nazionali nella comunicazione con il pubblico e garantire un accesso senza barriere ai contenuti e alle offerte.
+- 2\.1.1 *Promozione di organizzazioni di cultura cinematografica*
+- 2\.1.1.1 La Confederazione può approvare aiuti finanziari per le spese di esercizio di organizzazioni e istituzioni di cultura cinematografica, come i festival, e di pubblicazioni che, grazie alle loro attività, contribuiscono significativamente e in modo permanente o periodico a diffondere la cultura cinematografica e a promuovere la creazione cinematografica svizzera. Per migliorare la percezione nelle diverse regioni linguistiche, le attività sostenute dalla Confederazione con un contributo superiore a un terzo delle spese devono utilizzare almeno due lingue nazionali nella comunicazione con il pubblico e garantire un accesso senza barriere ai contenuti e alle offerte.
 - 2\.1.1.2
 
   Sono segnatamente sostenuti gli sforzi nell’ambito della cultura cinematografica che contribuiscono in misura sostanziale a far sì che:
 
-  - a. i dati rilevanti e le informazioni oggettive sulla creazione cinematografica svizzera siano a disposizione del pubblico;
-  - b. l’attuale creazione cinematografica svizzera venga analizzata in modo approfondito e critico e l’informazione su di essa sia diffusa nel modo più capillare possibile;
-  - c. la sensibilizzazione della popolazione svizzera nei confronti del cinema sia promossa e si favorisca così una riflessione critica, in particolare nei bambini e nei giovani;
-  - d. l’accesso ai film svizzeri e ai film stranieri di qualità risulti agevolato;
-  - e. la costituzione di una rete di contatti tra cineasti svizzeri e la cooperazione internazionale siano migliorate.
+  - a. dati rilevanti e informazioni oggettive sulla creazione cinematografica svizzera siano a disposizione del pubblico;
+  - b. l’attuale creazione cinematografica svizzera sia analizzata in modo approfondito e critico e l’informazione su di essa avvenga nel modo più capillare possibile;
+  - c. la sensibilizzazione della popolazione svizzera nei confronti del cinema aumenti e si sviluppi maggiormente la riflessione critica, in particolare tra i bambini e i giovani;
+  - d. la creazione cinematografica svizzera sia visibile per la popolazione svizzera e venga percepita dal pubblico in Svizzera e all’estero;
+  - e. l’accesso ai film svizzeri e ai film stranieri di alta qualità risulti agevolato;
+  - f. l’interconnessione tra cineasti svizzeri e la cooperazione internazionale siano migliorate.
 
-- 2\.1.1.3 Di norma gli aiuti finanziari sono concessi in virtù di un contratto di prestazioni concluso tra l’organizzazione e l’UFC (art. 52). Se più organizzazioni possono essere prese in considerazione per un contratto di prestazioni, la scelta avviene in base a un bando di concorso. Nella valutazione delle domande possono essere coinvolti esperti. I contratti di prestazioni sono stipulati dall’UFC di volta in volta per un periodo pluriennale.
+- 2\.1.1.3 Di norma gli aiuti finanziari sono versati in virtù di un contratto di prestazioni concluso tra l’organizzazione e l’UFC (art. 52). Se più organizzazioni possono essere prese in considerazione per un contratto di prestazioni, la scelta avviene in base a un bando di concorso. Nella valutazione delle domande possono essere coinvolti esperti. I contratti di prestazioni sono stipulati dall’UFC di volta in volta per un periodo pluriennale.
 - 2\.1.1.4
 
   Nella scelta delle organizzazioni sono determinanti in particolare i seguenti criteri:
 
   - a. originalità e qualità dei programmi, dei rapporti o delle informazioni offerti al pubblico;
   - b. indipendenza dell’organizzazione, continuità e professionalità nello svolgimento dei compiti;
-  - c. risonanza e diffusione nazionale o internazionale;
-  - d. coerenza e sostenibilità della strategia di perfezionamento anche nella prospettiva della digitalizzazione ed efficienza dei mezzi impiegati;
+  - c. risonanza o diffusione nazionale e internazionale;
+  - d. coerenza e sostenibilità della strategia di ulteriore sviluppo, anche in vista della digitalizzazione, ed efficienza nell’impiego dei mezzi;
   - e. cooperazione con altri attori nel settore di attività;
-  - f. contributo alle misure promozionali della creazione cinematografica svizzera e alla costituzione di una rete di contatti fra cineasti svizzeri;
+  - f. contributo alla promozione della creazione cinematografica svizzera e alla costituzione di una rete di contatti fra cineasti svizzeri;
   - g. necessità e proporzionalità del contributo richiesto;
   - h. attenzione alla diversità e all’uso sostenibile delle risorse.
 
-- 2\.2.2 *Promozione di singoli progetti*
-- 2\.2.2.1 La Confederazione può approvare aiuti finanziari per le spese di progetti relativi ad attività nel settore della cultura cinematografica che contribuiscono a preservare, sviluppare o diffondere la cultura cinematografica e favoriscono la collaborazione a livello nazionale e internazionale. Sono privilegiati i progetti particolarmente innovativi. Lo stesso progetto può essere finanziato per al massimo tre anni.
-- 2\.2.2.2
+- 2\.1.2 *Promozione di singoli progetti*
+- 2\.1.2.1 La Confederazione può approvare aiuti finanziari per le spese di progetti relativi ad attività nel settore della cultura cinematografica che contribuiscono a preservarla, svilupparla o diffonderla e favoriscono la collaborazione a livello nazionale e internazionale. Sono privilegiati i progetti particolarmente innovativi. Un progetto può essere finanziato per al massimo tre anni.
+- 2\.1.2.2
 
-  Per il sostegno di progetti di cultura cinematografica sono determinanti in particolare i seguenti criteri:
+  Nella promozione dei progetti di cultura cinematografica sono determinanti in particolare i seguenti criteri:
 
   - a. rilevanza e originalità del progetto;
-  - b. complementarietà con attività già sostenute;
+  - b. complementarità con attività già sostenute;
   - c. professionalità;
   - d. risonanza nazionale o sovraregionale;
   - e. necessità e proporzionalità del contributo richiesto;
   - f. impatto sulla sostenibilità;
-  - g. attenzione all’uso sostenibile delle risorse.
+  - g. uso sostenibile delle risorse.
 
-- 2\.2.3 *Misure non pecuniarie*
-- Per sostenere gli sforzi nell’ambito della cultura cinematografica e in particolare per sensibilizzare la popolazione alla cultura cinematografica e alla cinematografia svizzere, l’UFC può adottare anche misure non pecuniarie come consulenza, raccomandazioni o patronati (art. 13 cpv. 2 LCin).
-- 2\.2.4 *Premio del cinema*
-- L’UFC promuove la premiazione dei film di diploma e versa aiuti finanziari ai cineasti il cui film di diploma è in lizza per il Premio del cinema svizzero. La procedura è retta dalle disposizioni dell’ordinanza del DFI del 30 settembre 2004[^annex4-lvlu1-lvl2-lvl21-1] concernente il Premio del cinema svizzero.
+- 2\.1.3 *Sostegno mediante prestazioni non finanziarie*
+- L’UFC può sostenere gli sforzi nell’ambito della cultura cinematografica, in particolare per sensibilizzare la popolazione alla cultura cinematografica e alla cinematografia svizzere, anche mediante prestazioni non finanziarie, come ad esempio consulenza, raccomandazioni o patronati (art. 13 cpv. 2 LCin).
+- 2\.1.4 *Premio del cinema*
+- L’UFC promuove la premiazione dei film di diploma e versa aiuti finanziari ai cineasti il cui film di diploma è in lizza per il Premio del cinema svizzero. La procedura è retta dall’ordinanza del DFI del 30 settembre 2004[^annex4-lvlu1-lvl2-lvl21-1] concernente il Premio del cinema svizzero.
 
-[^annex4-lvlu1-lvl2-lvl21-1]: [RS 443.116](https://fedlex.data.admin.ch/eli/cc/2004/654)
+[^annex4-lvlu1-lvl2-lvl21-1]: [RS 443.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7141)
 
-### 2.3 Criteri della promozione della formazione continua
+### 2.2 Criteri di promozione della promozione cinematografica
+
+- 2\.2.1 La Confederazione assegna contributi strutturali alla Fondazione «Swiss Films» per l’ideazione, l’organizzazione e l’attuazione di misure per la promozione nazionale dei film svizzeri e delle coproduzioni nonché per la gestione della banca dati dei film. Nello stipulare il contratto di prestazioni occorre garantire che le misure per la promozione nazionale e internazionale del cinema svizzero siano coordinate con le misure per la presenza internazionale della cinematografia svizzera secondo l’OPICin[^annex4-lvlu1-lvl2-lvl22-1].
+- 2\.2.2
+
+  Occorre inoltre considerare le seguenti priorità:
+
+  - a. efficacia, qualità e professionalità delle misure di promozione garantite da una valutazione costante;
+  - b. pertinenza delle misure di promozione rispetto al pubblico target di ciascun film;
+  - c. efficacia delle misure rispetto al grande pubblico;
+  - d. attenzione alle esigenze del settore e collaborazione con ulteriori partner.
+
+[^annex4-lvlu1-lvl2-lvl22-1]: [RS 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
+
+### 2.3 Criteri di promozione della formazione continua
 
 - 2\.3.1 La Confederazione assegna contributi strutturali alla Fondazione di formazione continua «FOCAL» per la progettazione, l’organizzazione e l’offerta di corsi di formazione continua destinati alle persone occupate nella cinematografia. Nello stipulare il contratto di prestazioni occorre garantire che i cineasti di tutte le regioni del Paese abbiano accesso all’offerta di formazione continua e che l’accesso sia il più possibile privo di barriere.
 - 2\.3.2
 
   Occorre inoltre considerare le seguenti priorità:
 
-  - a. professionalità e qualità dell’offerta formativa assicurate da misure di valutazione e garanzia della qualità;
-  - b. varietà e continuità dell’offerta formativa, tenuto conto di tutte le professioni cinematografiche artistiche e tecniche;
-  - c. considerazione degli aspetti di genere nella progettazione dei corsi di formazione continua, al fine di rafforzare la presenza femminile nella creazione cinematografica svizzera;
-  - d. orientamento dell’offerta formativa all’attività pratica e alle esigenze del settore cinematografico;
+  - a. professionalità e qualità dell’offerta di formazione continua attestate da valutazioni e misure di garanzia della qualità;
+  - b. pluralità e continuità dell’offerta di formazione continua, tenuto conto di tutte le professioni cinematografiche artistiche e tecniche;
+  - c. attenzione agli aspetti di genere nella progettazione dei corsi di formazione continua, al fine di rafforzare la presenza femminile nella creazione cinematografica svizzera;
+  - d. orientamento della formazione continua all’attività pratica e alle esigenze del settore cinematografico;
   - e. selezione dei partecipanti in base alla loro idoneità, esperienza e formazione preliminare;
-  - f. considerazione di sviluppi tecnici e produttivi;
-  - g. costituzione di una rete di contatti e coordinamento con altre istituzioni, in particolare all’estero;
-  - h. attenzione all’uso sostenibile delle risorse.
+  - f. considerazione degli sviluppi tecnici e produttivi;
+  - g. interconnessione e coordinamento con altre istituzioni, in particolare all’estero;
+  - h. uso sostenibile delle risorse.
 
 Allegato 5[^t-5]
 
@@ -2346,7 +2486,7 @@ Allegato 5[^t-5]
 
 ## Regime di promozione 2021–2024 per la gestione del patrimonio audiovisivo svizzero
 
-[^t-5]: Introdotto dal n. II cpv. 2 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In vigore fino al 31 dic. 2025 (vedi art. 118 cpv. 4).
+[^t-5]: Introdotto dalla cifra II cpv. 2 dell’O del DFI del 18 nov. 2020 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Nuovo testo giusta la cifra II dell’O del DFI del 20 nov. 2025, in vigore dal 1° gen. 2026 al 31 dic. 2028 ([RU 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840); art. 118 cpv. 3).
 
 ### 1 Obiettivi e indicatori della valutazione
 

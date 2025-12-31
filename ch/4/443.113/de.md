@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 21. April 2016 über die Filmförderung (FiFV)
 short: FiFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/291"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-291-20250101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2016-291-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20250101/de"
 
 (FiFV)
 
-vom 21. April 2016 (Stand am 1. Januar 2025)
+vom 21. April 2016 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 8 Absatz 2, 11 Absatz 1, 12 Absatz 3 und 26 Absatz 2 d
 
 verordnet:
 
-[^ingress-1]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
-[^ingress-2]: [SR 443.11](https://fedlex.data.admin.ch/eli/cc/2002/284)
+[^ingress-1]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
+[^ingress-2]: [SR 443.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7136)
 
 ## 1. Titel: Allgemeine Bestimmungen
 
@@ -57,8 +57,8 @@ Diese Verordnung regelt die Förderungsinstrumente, die Voraussetzungen, die Bem
 
 <sup>3</sup> Für Förderungsinstrumente im Bereich der internationalen Zusammenarbeit gilt sie, soweit die Verordnung des EDI vom 21. April 2016[^2-2] über die Förderung der internationalen Präsenz des Schweizer Filmschaffens und die MEDIA-Ersatzmassnahmen (IPFiV) nichts anderes vorsieht.
 
-[^2-1]: [SR 443.116](https://fedlex.data.admin.ch/eli/cc/2004/654)
-[^2-2]: [SR 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
+[^2-1]: [SR 443.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7141)
+[^2-2]: [SR 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 
 #### Art. 3
 
@@ -83,13 +83,19 @@ In dieser Verordnung bedeutet:
 
 - d. *langer Film*: ein Film, der 60 Minuten oder länger dauert;
 - e. *Kurzfilm*: ein Film, der weniger als 60 Minuten dauert;
-- f.[^3-1] *Nachwuchs*: eine Person, die bei höchstens drei kurzen Filmen oder zwei langen Filmen in verantwortlicher Stellung im künstlerischen oder technischen Bereich an Drehbuch, Regie oder Produktion mitgewirkt hat;
+- e<sup>bis</sup>.[^3-1] *Serie*: ein audiovisuelles Werk, das aus mehreren kreativ gestalteten Teilen besteht und durch eine narrative Struktur zusammengehalten wird;
+- e<sup>ter</sup>.[^3-2] *lange Serie*: eine Spielfilm- oder Animationsserie mit einer Gesamtdauer von mindestens 120 Minuten pro Staffel oder eine Dokumentarfilmserie mit einer Gesamtdauer von mindestens 100 Minuten pro Staffel;
+- e<sup>quater</sup>.[^3-3] *innovatives Erzählformat*: ein audiovisuelles Werk, das neue Methoden, Techniken und Erzählweisen einsetzt;
+- f.[^3-4] *Nachwuchs*: eine Person, die bei höchstens drei kurzen Filmen oder zwei langen Filmen in verantwortlicher Stellung im künstlerischen oder technischen Bereich an Drehbuch, Regie oder Produktion mitgewirkt hat;
 - g. *Projektbeitrag*: eine Finanzhilfe für die Durchführung eines einmaligen, zeitlich und örtlich begrenzten Vorhabens;
 - h. *Strukturbeitrag*: eine Finanzhilfe für den Betrieb einer Institution oder eines Unternehmens;
-- i.[^3-2] *Vielfaltsprämie*: eine Finanzhilfe für Beiträge an die Angebotsvielfalt in der Schweiz.
+- i.[^3-5] *Vielfaltsprämie*: eine Finanzhilfe für Beiträge an die Angebotsvielfalt in der Schweiz.
 
-[^3-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^3-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^3-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^3-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^3-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^3-4]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^3-5]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 ## 2. Titel: Förderungsinstrumente und -voraussetzungen
 
@@ -127,9 +133,11 @@ Sie dürfen nicht ganz oder teilweise im Besitz oder unter dem massgeblichen Ein
 
 **Professionalität**
 
-<sup>1</sup> Wer eine Finanzhilfe beantragt, muss Gewähr dafür bieten, dass die zu fördernde Aufgabe professionell ausgeführt wird.
+<sup>1</sup> Wer eine Finanzhilfe beantragt, muss Gewähr dafür bieten, dass die zu fördernde Aufgabe professionell ausgeführt wird und dass dabei angemessene Vorkehrungen zum Schutz von Angestellten und beauftragten Personen vor sexueller Belästigung, Diskriminierung und Missbrauch getroffen werden.[^6-1]
 
 <sup>2</sup> Er oder sie muss nachweisen, dass alle massgeblich beteiligten Personen über eine ihrer Funktion entsprechende Ausbildung oder Berufserfahrung verfügen.
+
+[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### 2. Kapitel: Förderung des Schweizer Filmschaffens
 
@@ -184,7 +192,10 @@ Filme, die mit Unternehmen koproduziert werden, die Filme auswerten, namentlich 
 
 <sup>3</sup> Es können sowohl lange Filme als auch Kurzfilme gefördert werden.
 
+<sup>4</sup> Serien können wie Filme gefördert werden, wenn sie im jeweiligen Förderungskonzept explizit genannt sind. Die auf Filme anwendbaren Bestimmungen dieser Verordnung, namentlich die Qualitätskriterien, Bedingungen und Auflagen, gelten sinngemäss.[^9-2]
+
 [^9-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^9-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 10
 
@@ -242,23 +253,26 @@ Als zu einem wesentlichen Teil in der Schweiz hergestellt gelten Spielfilme, die
 - b. unter der Verantwortung eines Schweizer Produktionsunternehmens international koproduziert werden und mindestens 5 Drehtage in der Schweiz sowie anrechenbare Kosten von mindestens 1 200 000 Franken aufweisen;
 - c. unter der Verantwortung eines ausländischen Produktionsunternehmens mit einem Schweizer Produktionsunternehmen koproduziert werden und mindestens 5 Drehtage in der Schweiz sowie anrechenbare Kosten von mindestens 300 000 Franken aufweisen.
 
+<sup>2bis</sup> Bei Spielfilmen, die hauptsächlich im Ausland gedreht werden, können die 5 Drehtage in der Schweiz nach Absatz 2 kompensiert werden mit anrechenbaren Mehrausgaben von mindestens 150 000 Franken für die durchgehende Beschäftigung von filmtechnischen Mitarbeitenden aus der Schweiz. Als Mehrausgaben gelten diejenigen Ausgaben des Schweizer Produktionsunternehmens, die den Schweizer Finanzierungsanteil an der Koproduktion übersteigen.[^14-3]
+
 <sup>3</sup>
 
 Als zu einem wesentlichen Teil in der Schweiz hergestellt gelten Dokumentarfilme, die:
 
-- a.[^14-3] …
+- a.[^14-4] …
 - b. unter der Verantwortung eines Schweizer Produktionsunternehmens international koproduziert werden und anrechenbare Kosten von mindestens 250 000 Franken aufweisen;
 - c. unter der Verantwortung eines ausländischen Produktionsunternehmens mit einem Schweizer Produktionsunternehmen koproduziert werden und anrechenbare Kosten von mindestens 150 000 Franken aufweisen.
 
-<sup>4</sup> Schweizer Filme sind nicht zur Standortförderung zugelassen.[^14-4]
+<sup>4</sup> Schweizer Filme sind nicht zur Standortförderung zugelassen.[^14-5]
 
-<sup>5</sup> Fernsehfilme und Serien sind nicht zur Standortförderung zugelassen.[^14-5]
+<sup>5</sup> Fernsehfilme und Serien sind nicht zur Standortförderung zugelassen.[^14-6]
 
 [^14-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 [^14-2]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
-[^14-3]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
-[^14-4]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^14-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^14-4]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2024, mit Wirkung seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 [^14-5]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^14-6]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 
 ### 2*a*. Kapitel: Förderung der Vielfalt und der Qualität des Filmangebots
 
@@ -303,7 +317,7 @@ Gefördert werden:
 
 <sup>2</sup> Die Finanzhilfen werden nach den in Anhang 3 Ziffer 2 festgehaltenen Kriterien bemessen.
 
-[^14b-1]: [SR 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
+[^14b-1]: [SR 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 
 #### Art. 14c
 
@@ -317,14 +331,17 @@ Finanzhilfen zur Förderung der Angebotsvielfalt können nur von privaten Untern
 - b. ihre Tätigkeit professionell ausüben, namentlich als Verleihunternehmen regelmässig Filme mit einer gewissen Reichweite verleihen oder als Vorführunternehmen Säle programmieren, in denen pro Jahr mindestens 50 Vorstellungen stattfinden;
 - c. ihren Pflichten nach den Artikeln 19 und 24 des Filmgesetzes nachkommen.
 
-<sup>2</sup> Von der Förderung nach Artikel 14*b* Absatz 1 Buchstabe a ausgeschlossen sind Filme, deren Verleih oder Vertrieb bereits nach Artikel 7 gefördert wird.
+<sup>2</sup> …[^14c-1]
 
 <sup>3</sup>
 
 Von der Förderung nach Artikel 14*b* Absatz 1 Buchstabe c ausgeschlossen sind:
 
 - a. Vorführunternehmen mit mehr als 25 Sälen; wirtschaftlich miteinander verbundene Unternehmen oder Säle gelten als ein Unternehmen;
-- b. Säle, die zum Förderungsprogramm «Europas Cinemas» des Europarats zugelassen sind.
+- b.[^14c-2] Säle, die zum Förderungsprogramm «Europa Cinemas» des Europarats zugelassen sind.
+
+[^14c-1]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^14c-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### 3. Kapitel: Förderung der Filmkultur und der Weiterbildung
 
@@ -364,14 +381,15 @@ Gefördert werden können Projekte und Tätigkeiten, die dazu beitragen, dass di
 - a.[^16-1] Vermittlung ausgewählter Filme des aktuellen Filmschaffens und des Filmerbes sowie zur Förderung des Austauschs zwischen Filmschaffenden und dem Publikum an Filmfestivals;
 - b. kritischen Auseinandersetzung mit dem Medium Film;
 - c. Sensibilisierung von Kindern und Jugendlichen;
-- d. Erleichterung des Zugangs zu Schweizer Filmen sowie zu Informationen über das aktuelle Schweizer Filmschaffen und das Schweizer Filmerbe;
+- d.[^16-2] Verbesserung der Visibilität und zur Erleichterung des Zugangs zu Schweizer Filmen sowie zu Informationen über das aktuelle Schweizer Filmschaffen und das Schweizer Filmerbe;
 - e. Stärkung der Innovation und Entwicklungsfähigkeit im Bereich des Schweizer Filmschaffens;
 - f. professionellen Weiterbildung im Bereich der audiovisuellen Berufe.
 
-<sup>2</sup> Die Finanzhilfen werden nach den in Anhang 4 Ziffer 2 festgehaltenen Qualitätskriterien vergeben.[^16-2]
+<sup>2</sup> Die Finanzhilfen werden nach den in Anhang 4 Ziffer 2 festgehaltenen Qualitätskriterien vergeben.[^16-3]
 
 [^16-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^16-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^16-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^16-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 17
 
@@ -400,7 +418,7 @@ Finanzhilfen zur Förderung der Filmkultur können nur von Institutionen und Unt
 Der Bund fördert die Erhaltung des Schweizer Filmerbes durch Strukturbeiträge an die Stiftung «Cinémathèque Suisse» für folgende Aufgaben im öffentlichen Interesse:
 
 - a. Sammeln, Erhalten und Zugänglichmachen des audiovisuellen Erbes der Schweiz;
-- b. Restaurierung von Schweizer Filmen;
+- b.[^18-2] Restaurierung und Digitalisierung von Schweizer Filmen;
 - c. Zusammenarbeit mit weiteren Institutionen im In- und Ausland, die zur Erhaltung des audiovisuellen Erbes beitragen.
 
 <sup>2</sup> Der Umfang der Aufgaben, die Entschädigung sowie die Art und Weise der Zusammenarbeit und der staatlichen Kontrolle werden in einer Leistungsvereinbarung zwischen der Stiftung «Cinémathèque Suisse» und dem BAK geregelt. Das BAK achtet beim Abschluss der Leistungsvereinbarung darauf, dass die in Anhang 5 Ziffer 2 festgehaltenen Kriterien eingehalten werden.
@@ -408,6 +426,7 @@ Der Bund fördert die Erhaltung des Schweizer Filmerbes durch Strukturbeiträge 
 <sup>3</sup> Die Ziele und die Indikatoren für die Evaluation dieses Förderungsinstruments sind in den Anhängen 1 und 4 Ziffer 1 festgehalten.
 
 [^18-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^18-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### 4. Kapitel: Koordination der Förderungsinstrumente
 
@@ -446,11 +465,14 @@ Wer für eine Aufgabe im öffentlichen Interesse vom BAK Strukturbeiträge erhä
 
 Folgende Förderungsinstrumente nach dieser Verordnung können im Rahmen der anwendbaren Höchstbeiträge mit Förderungsinstrumenten nach der IPFiV[^21-1] kumuliert werden:
 
-- a. Finanzhilfen der selektiven Filmförderung und Reinvestitionen von Gutschriften der erfolgsabhängigen Filmförderung nach dieser Verordnung mit Finanzhilfen der selektiven Projektentwicklungsförderung nach der IPFiV;
-- b.[^21-2] Struktur- oder Projektbeiträge zur Förderung der Filmkultur und der Weiterbildung nach dieser Verordnung mit Finanzhilfen nach der IPFiV.
+- a.[^21-2] Finanzhilfen der selektiven Filmförderung und Reinvestitionen von Gutschriften der erfolgsabhängigen Filmförderung nach dieser Verordnung mit Finanzhilfen der selektiven Projektentwicklungs- und Koentwicklungsförderung nach der IPFiV;
+- a<sup>bis</sup>.[^21-3] Reinvestitionen von Gutschriften der erfolgsabhängigen Filmförderung nach dieser Verordnung mit Reinvestitionen von Gutschriften der erfolgsabhängigen Verleihförderung für europäische Filme in der Schweiz nach der IPFiV;
+- b.[^21-4] Struktur- oder Projektbeiträge zur Förderung der Filmkultur und der Weiterbildung nach dieser Verordnung mit Finanzhilfen nach der IPFiV.
 
-[^21-1]: [SR 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
-[^21-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^21-1]: [SR 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
+[^21-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^21-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^21-4]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 22
 
@@ -490,9 +512,9 @@ Die Bestimmung über den Bundesanteil nach Absatz 1 gilt nicht für:
 
 - a. Finanzhilfen, die vom BAK im Rahmen von Leistungsvereinbarungen an Institutionen und Organisationen bezahlt werden, die Vollzugsaufgaben nach Artikel 34 Absatz 2 FiG erfüllen;
 - b. Strukturbeiträge an die Stiftungen «FOCAL» und «Cinémathèque Suisse»;
-- c.[^24-1] Vielfaltsprämien nach den Artikeln 14*a*−14*c*.
+- c.[^24-1] Vielfaltsprämien nach den Artikeln 14*a*−14*c*, ausser es werden Gutschriften der erfolgsabhängigen Filmförderung in den Verleih investiert.
 
-[^24-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^24-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 25
 
@@ -510,8 +532,8 @@ Die Bestimmung über den Bundesanteil nach Absatz 1 gilt nicht für:
 
 Eine Finanzhilfe der Standortförderung beträgt:
 
-- a. bei Filmen ohne verantwortliche Schweizer Produktion und ohne Schweizer Regie: 40 Prozent der anrechenbaren Kosten, ausgenommen der Kosten nach Artikel 29 Absatz 3;
-- b. bei den übrigen Filmen: 20 Prozent der anrechenbaren Kosten sowie der Kosten nach Artikel 29 Absatz 3.[^26-1]
+- a. bei Filmen ohne verantwortliche Schweizer Produktion und ohne Schweizer Regie: 40 Prozent der anrechenbaren Kosten, ausgenommen der Kosten nach Artikel 29 Absätze 3 und 3<sup>bis</sup>;
+- b. bei den übrigen Filmen: 20 Prozent der anrechenbaren Kosten sowie der Kosten nach Artikel 29 Absätze 3 und 3<sup>bi</sup><sup>s</sup>.[^26-1]
 
 <sup>2</sup>
 
@@ -520,7 +542,10 @@ Bei den folgenden Aufwendungen für Technik und Postproduktion beträgt die Fina
 - a. Verleih von Kamera-, Ton-, Licht- und Bühnenmaterial;
 - b. Bild- und Tonpostproduktion einschliesslich Spezialeffekte.
 
-[^26-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+<sup>3</sup> Bei einer Koproduktion mit verantwortlicher Schweizer Produktion beträgt die Finanzhilfe nach Absatz 2 50 Prozent der anrechenbaren Kosten.[^26-2]
+
+[^26-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^26-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 26a
 
@@ -542,13 +567,15 @@ Bei den folgenden Aufwendungen für Technik und Postproduktion beträgt die Fina
 
 <sup>1</sup> Anrechenbar sind die im Budget aufgeführten Kosten, soweit sie für eine professionelle und mit den anvisierten Zielen kohärente Durchführung des Projekts beziehungsweise der Aufgabe erforderlich sind.
 
-<sup>2</sup> Aufwendungen für technische und künstlerische Mitarbeiterinnen und Mitarbeiter sind anrechenbar, soweit sie den zwischen den Sozialpartnern oder den Verbänden vereinbarten Richtlinien entsprechen oder branchenüblich sind.
+<sup>2</sup> Aufwendungen für technische und künstlerische Mitarbeiterinnen und Mitarbeiter sind anrechenbar, soweit sie den zwischen den Sozialpartnern oder den Verbänden vereinbarten Richtlinien entsprechen und nicht diskriminierend sind.[^27-1]
 
 <sup>3</sup> Budgetposten, deren Höhe von der gesuchstellenden Person für sich selber und ihre Angestellten bestimmt oder gemeinsam mit Regie und Drehbuchautorinnen und ‑autoren vereinbart werden kann, sind anrechenbar, soweit sie das übliche Mass nicht überschreiten. Dazu gehören insbesondere Rechteabgeltungen, Honorare und Löhne für Drehbuch, Regie und Produktion sowie für die Verwaltungskosten der Produktion.
 
 <sup>4</sup> Wurde ein Filmprojekt oder eine Aufgabe bereits in einer früheren Projektphase gefördert, so sind die angefallenen Kosten und deren Finanzierung gesondert auszuweisen.
 
 <sup>5</sup> Vor der Gesuchstellung angefallene Kosten (Vorkosten) können angerechnet werden, soweit sie notwendig und zweckmässig waren. Der beantragte Bundesbeitrag darf jedoch die von der Gesuchseinreichung bis zur Fertigstellung des Projekts noch zu erwartenden Kosten nicht übersteigen.
+
+[^27-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 28
 
@@ -594,6 +621,8 @@ Wird der Film ohne selektive Finanzhilfen für die Herstellung produziert und si
 - a. Drehbuchhonorare von bis zu 3 Prozent der Herstellungskosten, höchstens aber 50 000 Franken;
 - b. angefallene Vorbereitungskosten von bis zu 5 Prozent der Herstellungskosten, höchstens aber 50 000 Franken.[^29-1]
 
+<sup>3bis</sup> Wird der Film ohne selektive Finanzhilfen für die Herstellung produziert und sind die Bedingungen in Absatz 2 Buchstaben a und b erfüllt, so sind angefallene Kosten für das Produktionsteam von bis zu 5 Prozent des Schweizer Anteils an den Herstellungskosten, höchstens aber 50 000 Franken, anrechenbar, sofern das Produktionsteam aus dauerhaft beim Schweizer Produktionsunternehmen angestellten Personen mit Wohnsitz in der Schweiz besteht und mit der Produktionsleitung keine unabhängigen Dritten beauftragt werden.[^29-2]
+
 <sup>4</sup>
 
 Nicht anrechenbar sind Kosten für:
@@ -602,9 +631,12 @@ Nicht anrechenbar sind Kosten für:
 - b. Rechtsberatung, Versicherung und Finanzierung;
 - c. Reise und Transport der Schauspielerinnen und Schauspieler von der Schweiz ins Ausland oder aus dem Ausland in die Schweiz;
 - d. Gagen für Schauspielerinnen, Schauspieler und Regie, soweit sie zusammen 15 Prozent der Herstellungskosten übersteigen;
-- e. allgemeine Infrastruktur und Verwaltung (Handlungsunkosten), Reserven für Unvorhergesehenes und sonstige Pauschalen.
+- e. allgemeine Infrastruktur und Verwaltung (Handlungsunkosten), Reserven für Unvorhergesehenes und sonstige Pauschalen;
+- f.[^29-3] Leistungen von angestellten Produzentinnen und Produzenten sowie von Personen, die an den koproduzierenden Produktionsunternehmen finanziell beteiligt sind, namentlich als Inhaberin oder Inhaber, oder die in einem der beteiligten Produktionsunternehmen eine leitende Stellung innehaben.
 
 [^29-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^29-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^29-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### 3. Kapitel: Priorisierung
 
@@ -654,7 +686,7 @@ Reichen die bewilligten Kredite für die beantragten Finanzhilfen der selektiven
 
 #### Art. 33
 
-<sup>1</sup> Das BAK schreibt die Förderungen in den einzelnen Förderungsbereichen auf seiner Homepage aus.
+<sup>1</sup> Das BAK schreibt die Förderungen in den einzelnen Förderungsbereichen auf seiner Website[^33-1] aus.
 
 <sup>2</sup>
 
@@ -665,12 +697,13 @@ Die Ausschreibung nennt:
 - c. die Frist für die Gesuchseinreichung;
 - d. weitere Angaben zum Verfahren und zum Zeitplan.
 
-<sup>3</sup> Finanzhilfen zur Förderung von Filmkultur und Weiterbildung werden vom BAK nur dann öffentlich ausgeschrieben, wenn mehrere Institutionen oder Unternehmen für eine Förderung in Frage kommen.[^33-1]
+<sup>3</sup> Finanzhilfen zur Förderung von Filmkultur und Weiterbildung werden vom BAK nur dann öffentlich ausgeschrieben, wenn mehrere Institutionen oder Unternehmen für eine Förderung in Frage kommen.[^33-2]
 
-<sup>4</sup> Finanzhilfen der erfolgsabhängigen Filmförderung werden nicht ausgeschrieben.[^33-2]
+<sup>4</sup> Finanzhilfen der erfolgsabhängigen Filmförderung werden nicht ausgeschrieben.[^33-3]
 
-[^33-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^33-1]: Ausdruck gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^33-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^33-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 ### 2. Abschnitt: Gesuch
 
@@ -678,13 +711,25 @@ Die Ausschreibung nennt:
 
 **Grundsatz**
 
-Für die Gewährung von Finanzhilfen ist beim BAK ein Gesuch einzureichen.
+<sup>1</sup> Für die Gewährung von Finanzhilfen ist beim BAK ein Gesuch einzureichen.
+
+<sup>2</sup> Das BAK stellt Formulare für die Gesuchseinreichung zur Verfügung.[^34-1]
+
+[^34-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 35
 
-**Einzureichende Unterlagen**
+**Einzureichende Unterlagen und Auskunftspflicht[^35-1]**
 
-Die Gesuche müssen alle zur Beurteilung notwendigen Angaben, insbesondere Budget und Finanzierungsplan, sowie Belege enthalten.
+<sup>1</sup> Die Gesuche müssen alle zur Beurteilung notwendigen Angaben, insbesondere Budget und Finanzierungsplan, sowie Belege enthalten.
+
+<sup>2</sup> Das Filmprojekt, auf das sich das Gesuch bezieht, muss durch Angabe der *International Standard Audiovisual Number* (ISAN-Nummer) eindeutig gekennzeichnet werden.[^35-2]
+
+<sup>3</sup> Die Benutzung von künstlicher Intelligenz ist offenzulegen; die betroffenen Teile des Projekts, die benutzten Programme und die dafür verfassten Regeln sind auf Verlangen anzugeben beziehungsweise einzureichen.[^35-3]
+
+[^35-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^35-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^35-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 36
 
@@ -734,13 +779,17 @@ Das BAK prüft ferner, ob:
 
 #### Art. 40
 
-**Ergänzung, Berichtigung und Rückweisung**
+**Rückweisung, Ergänzung und Berichtigung[^40-1]**
 
-<sup>1</sup> Stellt das BAK bei der Vorprüfung kleinere Mängel fest, so gibt es der gesuchstellenden Person Gelegenheit zur Ergänzung oder Berichtigung.
+<sup>1</sup> Stellt das BAK bei der Vorprüfung fest, dass die Voraussetzungen nach Artikel 39 Absätze 1 und 2 nicht erfüllt sind, so kann es das Gesuch ohne Eintreten auf die Sache an die gesuchstellende Person zurückweisen.[^40-2]
 
-<sup>2</sup> Sind die formellen Voraussetzungen für eine Förderung nicht erfüllt, so kann es das Gesuch ohne Eintreten auf die Sache an die gesuchstellende Person zurückweisen.
+<sup>2</sup> Sofern es sich um leicht verbesserbare Mängel handelt, kann das BAK der gesuchstellenden Person Gelegenheit zur Ergänzung oder Berichtigung geben.[^40-3]
 
 <sup>3</sup> Die gesuchstellende Person kann eine beschwerdefähige Verfügung verlangen.
+
+[^40-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^40-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^40-3]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### 3. Abschnitt: Begutachtung
 
@@ -784,7 +833,7 @@ Expertinnen und Experten gelten in Bezug auf sämtliche Gesuche einer Ausschreib
 
 <sup>4</sup> Expertinnen und Experten, die in Bezug auf sämtliche Gesuche einer Ausschreibung als befangen gelten, sind für diese Ausschreibung von der Begutachtung von Gesuchen ausgeschlossen.
 
-[^42-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^42-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 43
 
@@ -803,23 +852,24 @@ Für die Begutachtung von Gesuchen um selektive Finanzhilfen zur Förderung des 
 
 **Fachkommission Filmförderung: Zusammensetzung der Ausschüsse und Anforderungen**
 
-<sup>1</sup> Die Ausschüsse «Spielfilm» und «Dokumentarfilm» werden zweimal aus jeweils fünf Personen zusammengesetzt und der Ausschuss «Animationsfilm» wird zweimal aus drei Personen zusammengesetzt. Alle zwei Jahre werden die Ausschüsse neu besetzt.
+<sup>1</sup> Die Ausschüsse «Spielfilm» und «Dokumentarfilm» werden aus jeweils fünf Personen zusammengesetzt und der Ausschuss «Animationsfilm» wird aus drei Personen zusammengesetzt.[^44-1]
 
-<sup>2</sup> Die Ausschüsse «Spielfilm», «Dokumentarfilm» und «Animationsfilm» tagen jedes zweite Mal in gleicher Besetzung, soweit dies unter Einhaltung der Ausstandsvorschriften und aufgrund von Verhinderungen möglich ist.[^44-1]
+<sup>2</sup> …[^44-2]
 
 <sup>3</sup>
 
 Bei der Zusammensetzung der Ausschüsse «Spielfilm», «Dokumentarfilm» und «Animationsfilm» achtet das BAK insbesondere darauf, dass Fachkompetenzen und Erfahrung in den folgenden Bereichen vertreten sind:
 
 - a. Produktion: Kompetenzen und Erfahrung in der Produktion von Filmen des jeweiligen Genres auf nationaler und internationaler Ebene;
-- b.[^44-2] Regie und Drehbuch: Kompetenz und Erfahrung in der Regie von Filmen des jeweiligen Genres, in Dramaturgie und im Schreiben von Drehbüchern und Drehvorlagen;
+- b.[^44-3] Regie und Drehbuch: Kompetenz und Erfahrung in der Regie von Filmen des jeweiligen Genres, in Dramaturgie und im Schreiben von Drehbüchern und Drehvorlagen;
 - c. Technik: Kompetenzen und Erfahrung in der filmtechnischen Umsetzung und Organisation;
 - d. Auswertung: Kompetenzen und Erfahrung in Verleih, Vertrieb oder Programmation von Filmen und in Festivals.
 
 <sup>4</sup> Der Ausschuss «Auswertung und Vielfalt» setzt sich aus drei Personen zusammen. Diese müssen Fachkompetenzen und Erfahrung im Bereich Auswertung auf nationaler und internationaler Ebene aufweisen.
 
-[^44-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^44-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^44-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^44-2]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^44-3]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 45
 
@@ -841,13 +891,14 @@ Bei der Zusammensetzung der Ausschüsse «Spielfilm», «Dokumentarfilm» und «
 
 **Einzelexpertisen**
 
-<sup>1</sup> Gesuche um selektive Finanzhilfen für die Entwicklung transmedialer Projekte, für die Herstellung von Koproduktionen ohne verantwortliches Schweizer Produktionsunternehmen sowie für die Postproduktion von Filmen werden von Einzelexpertinnen oder -experten begutachtet.[^46-1]
+<sup>1</sup> Gesuche um selektive Finanzhilfen für die Entwicklung, Herstellung und Auswertung innovativer Erzählformate sowie für die Herstellung von Koproduktionen ohne verantwortliche Schweizer Produktion werden von einer Expertin oder einem Experten begutachtet.[^46-1]
 
-<sup>2</sup> Einzelexpertinnen und ‑experten müssen über Fachkompetenzen und Erfahrung in den Bereichen der Regie, Produktion, Technik und Auswertung des jeweiligen Filmgenres und über die erforderliche Sprachkompetenz verfügen.
+<sup>2</sup> Die Expertinnen und Experten müssen Fachkompetenzen und Erfahrung, namentlich in den Bereichen der Regie, Produktion, Technik und Innovation sowie in der Auswertung des jeweiligen Filmgenres, aufweisen; sie müssen zudem über die erforderliche Sprachkompetenz verfügen.[^46-2]
 
 <sup>3</sup> Das BAK holt bei der beauftragen Expertin oder dem beauftragten Experten einen schriftlichen Bericht mit den Empfehlungen ein.
 
-[^46-1]: Fassung gemäss Ziff. I der V des EDI vom 1. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4323](https://fedlex.data.admin.ch/eli/oc/2018/696)).
+[^46-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^46-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 46a
 
@@ -875,11 +926,13 @@ Das BAK kann für einzelne Förderungsbereiche oder Projektarten ein Vorgehensra
 
 <sup>2</sup> Die Gültigkeit der Absichtserklärung ist befristet. Werden die in der Absichtserklärung genannten Bedingungen nicht innert der Frist erfüllt, so verfällt der Anspruch auf Förderung.
 
-<sup>3</sup> Die berechtigte Person kann vor Fristablauf schriftlich und begründet um Verlängerung der Frist ersuchen. Das Gesuch hat den Stand des Vorhabens zu beschreiben und nachzuweisen, dass das Projekt oder die Aufgabe innert der erstreckten Frist realisiert werden können.
+<sup>3</sup> Die berechtigte Person kann vor Fristablauf schriftlich und begründet um Verlängerung der Frist ersuchen. Das Gesuch hat den Stand des Vorhabens zu beschreiben und nachzuweisen, dass das Projekt oder die Aufgabe innert der erstreckten Frist realisiert werden kann. In Aussicht gestellte Finanzhilfen müssen in der Regel innert höchstens 5 Jahren nach Ausstellen der Absichtserklärung vollständig ausbezahlt werden können.[^48-1]
 
 <sup>4</sup> Ist die Realisierung unwahrscheinlich oder können die Förderungsmittel nicht länger gebunden bleiben, so verweigert das BAK die Fristerstreckung.
 
 <sup>5</sup> Wird für dasselbe Vorhaben erneut um eine Finanzhilfe ersucht, so kann das BAK die Zusage von einer neuen Begutachtung abhängig machen.
+
+[^48-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 49
 
@@ -911,7 +964,7 @@ Das BAK gewährt die in Aussicht gestellte Finanzhilfe, wenn die gesuchstellende
 
 <sup>2</sup> Heisst das BAK das Gesuch nur teilweise gut oder lehnt es dieses ab, so kann die gesuchstellende Person innert 30 Tagen ab Erhalt der Mitteilung den Erlass einer Verfügung verlangen.
 
-[^51-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^51-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 52
 
@@ -925,11 +978,20 @@ Das BAK gewährt die in Aussicht gestellte Finanzhilfe, wenn die gesuchstellende
 
 #### Art. 53
 
-**Erneute Einreichung eines abgelehnten Gesuchs**
+**Erneute Einreichung abgelehnter Herstellungsgesuche**[^53-1]
 
-<sup>1</sup> Abgelehnte Gesuche um eine Finanzhilfe der selektiven Filmförderung an das Drehbuchschreiben, die Projektentwicklung oder die Herstellung eines Filmprojektes können ein zweites Mal eingereicht werden, wenn sie namentlich in den beanstandeten Punkten grundlegend überarbeitet worden sind.
+<sup>1</sup>
 
-<sup>2</sup> Überarbeitete Gesuche sind innerhalb von 18 Monaten nach Mitteilung der Ablehnung einzureichen. Auf begründetes Gesuch hin kann das BAK die Frist zur Einreichung um bis zu sechs Monate verlängern.
+Abgelehnte Gesuche um eine Finanzhilfe der selektiven Filmförderung an die Herstellung eines Schweizer Films oder einer Koproduktion mit verantwortlicher Schweizer Produktion können ein zweites Mal eingereicht werden, wenn das Filmprojekt:
+
+- a. im Ausschuss stark umstritten war und die Förderung mit einem knappen Stimmenverhältnis oder mangels verfügbarer Mittel nicht empfohlen wurde; oder
+- b. nach seiner ersten Ablehnung durch das BAK einen namhaften selektiven Förderbeitrag einer regionalen Filmförderungsinstitution erhalten hat und zusammen mit dem beim BAK beantragten Beitrag ausfinanziert wäre.
+
+<sup>2</sup> In Fällen nach Absatz 1 Buchstabe a wird bei der Mitteilung des ablehnenden Entscheids auf die Möglichkeit der erneuten Gesuchseinreichung hingewiesen. Das Gesuch muss innert 12 Monaten nach Mitteilung der Ablehnung erneut eingereicht werden. Auf begründetes Gesuch hin kann das BAK die Frist um bis zu sechs Monate verlängern.
+
+<sup>3</sup> In Fällen nach Absatz 1 Buchstabe b entscheidet das BAK in der Regel ohne erneute Begutachtung, es sei denn, dass ihm die nötige Sachkenntnis fehlt.
+
+[^53-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 54
 
@@ -1034,9 +1096,11 @@ Wer eine Finanzhilfe des Bundes erhält, ist verpflichtet, folgende Angaben zu m
 
 **Archivierungspflicht**
 
-<sup>1</sup> Wer eine Finanzhilfe des Bundes an die Herstellung eines Films erhalten hat, muss der Stiftung «Cinémathèque Suisse» die vorhandenen Ausgangsdateien der Endfassung (Masterfile) des Films überlassen.
+<sup>1</sup> Wer eine Finanzhilfe des Bundes an die Herstellung oder Postproduktion eines Films erhalten hat, muss der Stiftung «Cinémathèque Suisse» die vorhandenen Ausgangsdateien der Endfassung (Masterfile) des Films überlassen.[^63-1]
 
 <sup>2</sup> Wer für eine andere Aufgabe oder ein anderes Vorhaben eine Finanzhilfe des Bundes erhalten hat, muss dem BAK ein Werkexemplar auf einem physischen oder elektronischen Datenträger überlassen, wenn ein solches zum Zweck der Dokumentierung erstellt wurde.
+
+[^63-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 64
 
@@ -1052,7 +1116,7 @@ Wer eine Finanzhilfe des Bundes erhält, ist verpflichtet, folgende Angaben zu m
 
 **Bezug von Filmtechnik aus der Schweiz**[^64a-1]
 
-<sup>1</sup> Wird die Herstellung eines langen Schweizer Spiel- oder Animationsfilms mit einer selektiven Finanzhilfe gefördert, so sind mindestens 60 Prozent der Ausgaben, die auf filmtechnische Leistungen entfallen, bei Unternehmen mit Sitz in der Schweiz zu beziehen.
+<sup>1</sup> Wird die Herstellung eines langen Schweizer Spielfilms mit einer selektiven Finanzhilfe gefördert, so müssen von den Ausgaben für filmtechnische Leistungen mindestens 70 Prozent an Unternehmen mit Sitz in der Schweiz bezahlt werden. Bei Animationsfilmen beträgt der Anteil 60 Prozent.[^64a-2]
 
 <sup>2</sup> Es sind nur Leistungen von Unternehmen anrechenbar, die von den beteiligten Produktionsunternehmen in persönlicher, wirtschaftlicher und organisatorischer Hinsicht unabhängig sind.
 
@@ -1064,6 +1128,24 @@ Als filmtechnische Leistungen gelten namentlich:
 - b. die Bild- und die Tonpostproduktion einschliesslich Spezialeffekte.
 
 [^64a-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^64a-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+
+#### Art. 64b
+
+**ÖkologischeNachhaltigkeit der Filmproduktion**[^64b-1]
+
+<sup>1</sup> Filme, deren Herstellung oder Postproduktion mit einer Finanzhilfe des Bundes gefördert wird, müssen nachhaltig produziert werden.
+
+<sup>2</sup>
+
+Für geförderte Spiel- oder Animationsfilme mit einem Herstellungsbudget über 2 Millionen Franken, für geförderte Dokumentarfilme mit einem Herstellungsbudget über 800 000 Franken und für geförderte Dokumentarfilmserien muss:
+
+- a. der Nachweis erbracht werden, dass die Herstellung von einer entsprechend ausgebildeten Person begleitet wird;
+- b. eine CO<sub>2</sub>-Bilanz über die Herstellung mit einem anerkannten Rechner erstellt werden.
+
+<sup>3</sup> Die CO<sub>2</sub>-Bilanz muss als Soll-Berechnung dem Gesuch um Auszahlung der ersten Rate und als Ist-Berechnung mit Abschlussbericht der Abrechnung beiliegen.
+
+[^64b-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 65
 
@@ -1073,27 +1155,29 @@ Als filmtechnische Leistungen gelten namentlich:
 
 <sup>2</sup>
 
-Filme, deren Herstellung mit einer Finanzhilfe des Bundes gefördert wurde, müssen:
+Filme, deren Herstellung oder Postproduktion mit einer Finanzhilfe des Bundes gefördert wurde, müssen:[^65-1]
 
 - a. Synchronisationen oder Untertitelungen in mindestens einer weiteren Landessprache aufweisen; und
 - b. möglichst sprachraumübergreifend ausgewertet werden.
 
 <sup>3</sup>
 
-Die in einer Landessprache gesprochenen oder synchronisierten Filme müssen zudem Audiodeskriptionen in mindestens einer weiteren Landessprache aufweisen:[^65-1]
+Folgende in einer Landessprache gesprochenen oder synchronisierten Filme müssen zudem Audiodeskriptionen in mindestens einer weiteren Landessprache aufweisen:[^65-2]
 
-- a. lange Dokumentarfilme, die vom Bund mit mehr als 125 000 Franken gefördert wurden;
+- a.[^65-3] lange Dokumentarfilme und Dokumentarfilmserien, die vom Bund mit mehr als 125 000 Franken gefördert wurden;
 - b. lange Spielfilme, die vom Bund mit mehr als 300 000 Franken gefördert wurden.
 
-[^65-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^65-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^65-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^65-3]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 65a
 
-**Zugänglichkeit desFilmerbes**[^65a-1]
+**Zugänglichkeit des Filmerbes**[^65a-1]
 
-Filme, deren Herstellung mit einer Finanzhilfe des Bundes gefördert wurde, müssen nach ihrer kommerziellen Auswertung der Öffentlichkeit zugänglich bleiben. Das BAK kann zu diesem Zweck nichtexklusive Lizenzen abschliessen.
+Filme, deren Herstellung oder Postproduktion mit einer Finanzhilfe des Bundes gefördert wurde, müssen nach ihrer kommerziellen Auswertung der Öffentlichkeit zugänglich bleiben. Das BAK kann zu diesem Zweck nichtexklusive Lizenzen abschliessen.
 
-[^65a-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^65a-1]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### 8. Abschnitt: Rechnungslegung und Berichterstattung
 
@@ -1123,9 +1207,10 @@ Filme, deren Herstellung mit einer Finanzhilfe des Bundes gefördert wurde, müs
 
 <sup>2</sup> Stellt es Unstimmigkeiten fest, so kann es eine vollständige Revision der Abrechnung veranlassen.
 
-<sup>3</sup> Übersteigt der Förderungsbeitrag 100 000 Franken, so ist eine von einer unabhängigen und als Revisorin nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^68-1] zugelassenen Person oder Treuhandfirma geprüfte Abrechnung einzureichen.
+<sup>3</sup> Übersteigt der Förderungsbeitrag 100 000 Franken, so ist eine von einer unabhängigen und nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^68-1] zugelassenen Revisorin geprüfte Abrechnung einzureichen.[^68-2]
 
-[^68-1]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^68-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^68-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 68a
 
@@ -1154,9 +1239,12 @@ Liegen die tatsächlichen Kosten unter den Angaben im Gesuch oder haben sich and
 
 <sup>1</sup> Wer einen Projektbeitrag erhalten hat, übergibt dem BAK zusammen mit der Abrechnung ein Belegexemplar auf einem gängigen Datenträger oder weist in anderer Weise nach, dass das Projekt planmässig realisiert wurde.[^70-1]
 
+<sup>1bis</sup> Wurde die Herstellung oder Postproduktion eines Films gefördert, so ist dem BAK mit der Abrechnung statt eines Datenträgers ein digitaler Zugang zum Film zu gewähren, damit die Aufgabenerfüllung überprüft werden kann.[^70-2]
+
 <sup>2</sup> Wer einen Strukturbeitrag erhalten hat, reicht dem BAK zusammen mit der Jahresrechnung einen Geschäftsbericht sowie einen Tätigkeitsbericht ein, der Auskunft gibt über die Aufgabenerfüllung im Berichtsjahr und eine Selbstevaluation enthält, ob und in welchem Ausmass die in der Leistungsvereinbarung aufgeführten Ziele und Massnahmen umgesetzt wurden. Eigene Publikationen und Presseberichte über die Tätigkeiten der geförderten Institution oder des geförderten Unternehmens sind beizulegen.
 
 [^70-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^70-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 70a
 
@@ -1187,14 +1275,18 @@ Eine Interessenbindung liegt namentlich bei Personen oder Unternehmen vor, die:
 
 **Referenzfilme**
 
-<sup>1</sup> Als Referenzfilme für Gutschriften aus der Kinoauswertung sind Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen zugelassen.
+<sup>1</sup> Als Referenzfilme für Gutschriften aus der Kinoauswertung sind lange Filme und Serien zugelassen, die von einem unabhängigen Produktionsunternehmen als Schweizer Filme oder als anerkannte schweizerisch-ausländische Koproduktionen hergestellt wurden.[^71-1]
 
 <sup>2</sup>
 
 Nicht zugelassen sind:
 
 - a. Kurzfilme;
-- b. Koproduktionen, die keine dem finanziellen Beitrag des Schweizer Produktionsunternehmens entsprechenden künstlerischen oder technischen Beiträge aus der Schweiz aufweisen.
+- b. Koproduktionen, die keine dem finanziellen Beitrag des Schweizer Produktionsunternehmens entsprechenden künstlerischen oder technischen Beiträge aus der Schweiz aufweisen;
+- c.[^71-2] Filme nach Artikel 16 FiG.
+
+[^71-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^71-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 72
 
@@ -1224,10 +1316,10 @@ Gutschriften aus der Kinoauswertung erhalten die folgenden Personen:
 
 <sup>4</sup> Eintritte, die von Vorführunternehmen der öffentlichen Hand und von Freiluftkinos gegenüber dem Verleih abgerechnet werden, sind anrechenbar.
 
-<sup>5</sup> Bietet ein Vorführunternehmen die von ihm vorgeführten Filme auch im Internet zum Kauf an, so gilt jeder Filmkauf als ein Referenzeintritt. Im Übrigen gilt Artikel 73 Absatz 2.[^73-2]
+<sup>5</sup> …[^73-2]
 
 [^73-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^73-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^73-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 74
 
@@ -1264,9 +1356,10 @@ Um Gutschriften der erfolgsabhängigen Filmförderung zu erhalten, muss ein Film
 - a. Spielfilme: 10 000 Eintritte;
 - b. Dokumentarfilme: 5 000 Eintritte.
 
-<sup>2</sup> Für das Erreichen der Mindestanzahl werden die Festivalpunkte nach Artikel 83 zu den Referenzeintritten hinzugezählt, sofern der Film in der Schweiz mindestens 50 öffentliche Kinovorstellungen erreicht hat.
+<sup>2</sup> …[^76-2]
 
 [^76-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^76-2]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 77
 
@@ -1295,7 +1388,7 @@ Bei der Berechnung der Gutschriften für Drehbuch, Regie und Produktion werden d
 
 <sup>2</sup> Filme ohne Schweizer Regie, die zur Berechnung von Gutschriften nach Artikel 52 IPFiV[^79-1] zugelassen sind, werden bei der Berechnung von Gutschriften für den Verleih nach der vorliegenden Verordnung nicht als Referenzfilme zugelassen.[^79-2]
 
-[^79-1]: [SR 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
+[^79-1]: [SR 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 [^79-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
 #### Art. 80
@@ -1320,7 +1413,12 @@ Als Referenzfilme für Gutschriften aus der Teilnahme an einem internationalen F
 - a. Schweizer Filme;
 - b. anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie, die von einem Schweizer Produktionsunternehmen verantwortet werden.
 
-<sup>2</sup> Es sind sowohl lange Filme als auch Kurzfilme zugelassen.
+<sup>2</sup> Es sind sowohl lange Filme als auch Kurzfilme und Serien zugelassen, sofern sie unabhängig produziert worden sind.[^81-1]
+
+<sup>3</sup> Nicht zugelassen sind Filme nach Artikel 16 FiG.[^81-2]
+
+[^81-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^81-2]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 82
 
@@ -1334,7 +1432,9 @@ Gutschriften erhalten die folgenden Personen:
 - b. für die Regie: der Regisseur oder die Regisseurin;
 - c. für die Produktion: das Produktionsunternehmen.
 
-<sup>2</sup> Für den Verleih werden die Festivalpunkte, die vor dem Kinostart erzielt wurden, bis zum Erreichen der Mindestschwelle nach Artikel 76 Absatz 1 gutgeschrieben.
+<sup>2</sup> …[^82-1]
+
+[^82-1]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 83
 
@@ -1386,7 +1486,7 @@ Aufgehoben
 
 **Datenbereinigung**
 
-<sup>1</sup> Sind die Personen, die an einem Film in einer Funktion nach Artikel 72 Gutschriften erhalten könnten, unbekannt oder können Mitteilungen nicht zugestellt werden, veröffentlicht das BAK den Filmtitel auf seiner Homepage und ruft die berechtigten Personen auf, sich innert 10 Tagen anzumelden.
+<sup>1</sup> Sind die Personen, die an einem Film in einer Funktion nach Artikel 72 Gutschriften erhalten könnten, unbekannt oder können Mitteilungen nicht zugestellt werden, veröffentlicht das BAK den Filmtitel auf seiner Website und ruft die berechtigten Personen auf, sich innert 10 Tagen anzumelden.
 
 <sup>2</sup> Für Funktionen, für die sich keine berechtigten Personen anmelden, und für berechtigte Personen, denen Mitteilungen nicht zugestellt werden können, werden keine Gutschriften berechnet.
 
@@ -1406,20 +1506,21 @@ Aufgehoben
 
 <sup>1</sup>
 
-Ist die Mindestanzahl an Referenzeintritten nach Artikel 76 erreicht, so werden den berechtigten Personen für jeden Referenzeintritt und für jeden Festivalpunkt folgende Beträge gutgeschrieben:
+Ist die Mindestanzahl an Referenzeintritten nach Artikel 76 erreicht, so werden den berechtigten Personen für jeden Referenzeintritt folgende Beträge gutgeschrieben:[^89-1]
 
 - a. 70 Rappen für das Drehbuch, maximal 100 000 Franken pro Film;
 - b. 70 Rappen für die Regie, maximal 100 000 Franken pro Film;
-- c.[^89-1] 4.40 Franken für die Produktion, maximal 660 000 Franken pro Film;
+- c.[^89-2] 4.40 Franken für die Produktion, maximal 660 000 Franken pro Film;
 - d. 2.00 Franken für den Verleih, maximal 200 000 Franken pro Kalenderjahr;
 - e. 3.50 Franken für die Vorführung, maximal 6000 Franken pro Vorführunternehmen, Film und Kinoregion, insgesamt maximal 125 000 Franken pro Jahr und Vorführunternehmen.
 
-<sup>2</sup> Bei Kurzfilmen werden den berechtigten Personen für jeden Festivalpunkt 15 Prozent der Beträge nach Absatz 1 gutgeschrieben.[^89-2]
+<sup>2</sup> Bei Kurzfilmen werden den berechtigten Personen für jeden Festivalpunkt 15 Prozent der Beträge nach Absatz 1 und bei anderen Filmen für jeden Festivalpunkt die Beträge nach Absatz 1 gutgeschrieben.[^89-3]
 
 <sup>3</sup> Die Gutschriften für Produktion, Verleih und Vorführung werden um 50 Prozent gekürzt, wenn der Film keine Schweizer Regie oder keine verantwortliche Schweizer Produktion aufweist.
 
-[^89-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^89-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 [^89-2]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^89-3]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 90
 
@@ -1432,7 +1533,9 @@ Für die Berechnung der Gutschriften werden pro Film höchstens angerechnet:
 - a. bei Spielfilmen: 150 000 Referenzeintritte und Festivalpunkte;
 - b. bei Dokumentarfilmen: 50 000 Referenzeintritte und Festivalpunkte.
 
-<sup>2</sup> Ist eine Person sowohl für das Drehbuch als auch für die Regie zu Gutschriften berechtigt, so beträgt der Höchstbeitrag pro Film für diese Person 150 000 Franken.
+<sup>2</sup> …[^90-1]
+
+[^90-1]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 91
 
@@ -1464,11 +1567,13 @@ Für die Berechnung der Gutschriften werden pro Film höchstens angerechnet:
 
 #### Art. 94
 
-**Mindestbeträge**
+**Mindestbeträge**[^94-1]
 
-<sup>1</sup> Beträge von unter 2500 Franken pro berechtigte Person werden nicht gutgeschrieben.
+<sup>1</sup> Beträge unter 1000 Franken werden nicht gutgeschrieben.
 
-<sup>2</sup> Die Gutschriften für Vorführunternehmen werden direkt ausbezahlt; Gutschriften unter 500 Franken pro Vorführunternehmen werden nicht ausbezahlt.
+<sup>2</sup> Die Gutschriften für Vorführunternehmen werden direkt ausbezahlt; Gutschriften unter 1000 Franken pro Vorführunternehmen werden nicht ausbezahlt.
+
+[^94-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 95
 
@@ -1505,6 +1610,18 @@ Die Gutschriften der erfolgsabhängigen Filmförderung müssen von den berechtig
 
 [^96-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
+#### Art. 96a
+
+**Reinvestition in den Verleih**[^96a-1]
+
+<sup>1</sup> Für die Reinvestition in den Verleih von Filmen, namentlich in deren Promotion, braucht es kein Reinvestitionsgesuch, wenn die Auswertung des Films während der Gültigkeitsdauer der Gutschriften abgeschlossen wird und die Abrechnung vor Ablauf der zweijährigen Verfallsfrist beim BAK eintrifft.
+
+<sup>2</sup> Die Auszahlung der Gutschriften erfolgt nach Kontrolle der Abrechnung durch das BAK.
+
+<sup>3</sup> Auf Gesuch hin prüft das BAK die Zulässigkeit der Reinvestition vorgängig.
+
+[^96a-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+
 #### Art. 97
 
 **Vorschüsse**
@@ -1526,21 +1643,21 @@ Die Auszahlung des Vorschusses wird bewilligt, wenn:
 
 #### Art. 98
 
-**Anmeldung**
+[^98-1]
 
-<sup>1</sup> Wer eine Finanzhilfe der Standortförderung beantragen will, muss sein Vorhaben beim BAK vor der Gesuchsreinreichung anmelden.
-
-<sup>2</sup> Die Anmeldung umfasst Angaben über die Produktions- beziehungsweise Koproduktionsstruktur, die Höhe des voraussichtlich beantragten Beitrags und die voraussichtliche Zusammensetzung der anrechenbaren Kosten.
+[^98-1]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 99
 
 **Gesuch**
 
-Im Gesuch um eine Finanzhilfe der Standortförderung muss die die gesuchstellende Person glaubhaft machen und soweit möglich belegen, dass:
+Im Gesuch um eine Finanzhilfe der Standortförderung muss die gesuchstellende Person glaubhaft machen und soweit möglich belegen, dass:[^99-1]
 
 - a. das zu fördernde Projekt die Zulassungsvoraussetzungen erfüllt;
 - b. anrechenbare Kosten im erforderlichen Mass in der Schweiz ausgegeben werden;
 - c. 75 Prozent der Gesamtfinanzierung des Films zugesichert ist.
+
+[^99-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 100
 
@@ -1577,9 +1694,13 @@ Es werden bis zu 70 Prozent des zugesicherten Betrags bei Drehbeginn ausbezahlt,
 
 <sup>2</sup> Der Anteil der anrechenbaren Kosten, für die der höhere Beitragssatz nach Artikel 26 Absatz 2 gilt, ist gesondert auszuweisen.
 
-<sup>3</sup> …[^102-1]
+<sup>3</sup> Die Richtigkeit und Vollständigkeit der Abrechnung muss von einer unabhängigen und nach dem Revisionsaufsichtsgesetz vom 16. Dezember 2005[^102-1] zugelassenen Revisorin geprüft worden sein. Die entsprechende Bestätigung ist beizulegen.[^102-2]
 
-[^102-1]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+<sup>4</sup> Im Übrigen gelten die Artikel 66–68*a* sowie 70 und 70*a* sinngemäss.[^102-3]
+
+[^102-1]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^102-2]: Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^102-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 #### Art. 103
 
@@ -1597,13 +1718,9 @@ Die nicht garantierte letzte Rate der Standortförderung wird im Rahmen der verf
 
 #### Art. 105
 
-**Auftrag an Dritte**
+[^105-1]
 
-<sup>1</sup> Das BAK beauftragt eine geeignete Stelle mit der Prüfung der Abrechnungen und der Belege. Im Übrigen gilt Artikel 68*a*.[^105-1]
-
-<sup>2</sup> Der Umfang des Auftrags, die Vergütung sowie die Art und Weise der Zusammenarbeit und der staatlichen Kontrolle werden in einem Vertrag zwischen dem BAK und der beauftragten Stelle geregelt.
-
-[^105-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^105-1]: Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 ### 4. Kapitel: Besondere Verfahrensbestimmungen der Vielfaltsförderung
 
@@ -1627,7 +1744,7 @@ Die nicht garantierte letzte Rate der Standortförderung wird im Rahmen der verf
 
 **Verfahren für Vorführunternehmen**
 
-<sup>1</sup> Vorführunternehmen, die eine Kino-Vielfaltsprämie nach Artikel 14*a* Absatz 1 Buchstaben c und d beantragen, müssen sich nach Ablauf des Kalenderjahres, für das die Förderung beantragt wird, beim BAK anmelden. Das BAK publiziert die Anmeldefrist auf seiner Homepage.
+<sup>1</sup> Vorführunternehmen, die eine Kino-Vielfaltsprämie nach Artikel 14*a* Absatz 1 Buchstaben c und d beantragen, müssen sich nach Ablauf des Kalenderjahres, für das die Förderung beantragt wird, beim BAK anmelden. Das BAK publiziert die Anmeldefrist auf seiner Website.
 
 <sup>2</sup> Die Berechnung der Vielfaltsprämien erfolgt nach Ablauf des Kalenderjahres. Das BAK kann zusätzliche Angaben einholen.
 
@@ -1805,6 +1922,18 @@ Auf Schweizer Filme, für deren Herstellung vor dem 1. Januar 2025 eine Absichts
 
 [^117b-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
 
+#### Art. 117c
+
+**Übergangsbestimmungen zur Änderung vom 20. November 2025**[^117c-1]
+
+<sup>1</sup> Gesuche um Finanzhilfen der selektiven Filmförderung, die vor Inkrafttreten der Änderung vom 20. November 2025 abgelehnt wurden, können noch bis zum letzten Eingabetermin des Kalenderjahres 2026 nach bisherigem Recht erneut eingereicht werden.
+
+<sup>2</sup> Auf Schweizer Filme und Koproduktionen, für deren Postproduktion, Verleih oder Vertrieb vor dem Inkrafttreten der Änderung vom 20. November 2025 eine Absichtserklärung der selektiven Filmförderung ausgestellt wurde, ist das bisherige Recht anwendbar.
+
+<sup>3</sup> Auf Gesuche um Verleihförderung von Filmen mit Kinostart ab 1. Januar 2026, die vor dem 1. Januar 2026 eingereicht wurden, findet das am 1. Januar 2026 geltende Recht Anwendung.
+
+[^117c-1]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+
 #### Art. 118
 
 **Inkrafttreten**
@@ -1813,101 +1942,91 @@ Auf Schweizer Filme, für deren Herstellung vor dem 1. Januar 2025 eine Absichts
 
 <sup>2</sup> …[^118-1]
 
-<sup>3</sup> Die Anhänge gelten bis zum 31. Dezember 2024.[^118-2]
+<sup>3</sup> Die Anhänge gelten bis zum 31. Dezember 2028.[^118-2]
 
-<sup>4</sup> Die Geltungsdauer der Anhänge wird bis zum 31. Dezember 2025 verlängert.[^118-3]
+<sup>4</sup> …[^118-3]
 
 [^118-1]: Aufgehoben durch Ziff. I der V des EDI vom 18. Nov. 2020, mit Wirkung seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^118-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
-[^118-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)).
+[^118-2]: Eingefügt durch Ziff. I der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Fassung gemäss Ziff. I der V des EDI vom 20. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
+[^118-3]: Eingefügt durch Ziff. I der V des EDI vom 20. Nov. 2024 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)). Aufgehoben durch Ziff. I der V des EDI vom 20. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)).
 
 Anhang 1[^t-1]
 
 (Art. 7 Abs. 3, 14*a* Abs. 2, 15 Abs. 4 und 18 Abs. 3)
 
-## Filmförderungskonzepte des Bundes 2021−2024
+## Filmförderungskonzepte des Bundes 2026−2028
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Bereinigt gemäss Ziff. II der V des EDI vom 20. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 761](https://fedlex.data.admin.ch/eli/oc/2024/761)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 20. Nov. 2025, in Kraft vom 1. Jan. 2026 bis zum 31. Dez. 2028 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)und Art. 118 Abs 3).
 
-Die Filmförderung des Bundes setzt sich für die Periode 2021−2024 folgende übergeordnete Ziele, welche die Ausrichtung aller Förderinstrumente bestimmen.
+Die Filmförderung des Bundes setzt sich für die Periode 2026−2028 folgende übergeordnete Ziele, welche die Ausrichtung aller Förderinstrumente bestimmen.
 
 Die Filmförderung des Bundes:
 
 - – leistet einen Beitrag zur kulturellen Vielfalt und zur gesellschaftlichen Kohäsion in der Schweiz;
-- – stärkt die Sichtbarkeit des Schweizer Filmschaffens und des Filmerbes im In- und Ausland;
-- – berücksichtigt in allen Förderbereichen den Grundsatz der Diversität beim Zugang zur Förderung; dabei achtet er insbesondere auf eine ausgewogene Förderung von Projekten von Frauen und Männern, von Projekten in den verschiedenen Sprachregionen sowie von Projekten und Organisationen;
-- – berücksichtigt den Grundsatz der Angebotsvielfalt und des barrierefreien Zugangs zu Filmen;
-- – berücksichtigt in allen Förderbereichen den Grundsatz des schonenden Umgangs mit den Ressourcen;
-- – setzt sich für Nachhaltigkeit, Chancengleichheit, Diversität und eine angemessene Entschädigung der professionellen Kultur-schaffenden ein.
+- – ermöglicht Genre- und Formatvielfalt und stärkt die Sichtbarkeit des Schweizer Filmschaffens im In- und Ausland;
+- – setzt sich für Nachhaltigkeit, Chancengleichheit, Diversität und eine angemessene Entschädigung der professionellen Kulturschaffenden ein;
+- – koordiniert sich mit den wichtigsten Filmförderungsinstitutionen in der Schweiz.
 
 Anhang 2[^t-2]
 
 (Art. 7 Abs. 3, 12 und 13 Abs. 3)
 
-## Förderungskonzept 2021-2024 für die Förderung des Schweizer Filmschaffens
+## Schweizer Filmschaffen: Förderungskonzept 2026–2028
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
+[^t-2]: Fassung gemäss Ziff. II der V des EDI vom 20. Nov. 2025, in Kraft vom 1. Jan. 2026 bis zum 31. Dez. 2028 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)und Art. 118 Abs 3).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
 ### 1.1 Evaluation
 
-- 1\.1.1 Über die Umsetzung der Filmförderungskonzepte, insbesondere über die Erreichung der nachfolgend aufgeführten Wirkungsziele für die verschiedenen Förderungsinstrumente, erstattet das BAK periodisch Bericht.
-- 1\.1.2 Die Schlussevaluation erfolgt durch externe Fachleute.
+- 1\.1.1 Über die Umsetzung der Filmförderungskonzepte, insbesondere über die Erreichung der nachfolgend aufgeführten Wirkungsziele, erstattet das BAK periodisch Bericht.
+- 1\.1.2 Die Schlussevaluation erfolgt soweit möglich durch externe Fachleute.
 - 1\.1.3
 
-  Für die Periode 2021–2024 werden folgende Bereiche schwerpunktmässig evaluiert:
+  Für die Periode 2026–2028 werden folgende Bereiche schwerpunktmässig evaluiert:
 
   - a. Wirksamkeit der Filmförderung auf den Produktionsstandort Schweiz;
   - b. Entwicklung der Angebotsvielfalt in den verschiedenen Auswertungskanälen;
   - c. Verhältnis zwischen eingereichten und geförderten Projekten von Frauen und Männern.
 
-### 1.2 Ziele der Förderung in der Entwicklungs- und Herstellungsphase
+### 1.2 Ziele der Förderung in der Entwicklungs- und der Herstellungsphase
 
 - 1\.2.1
 
   Mit der Förderung des Schweizer Filmschaffens in der Phase der Entwicklung (Förderung des Drehbuchschreibens und der Projektentwicklung) sollen folgende Wirkungen erzielt werden:
 
-  - a. Es sollen eine ausreichend grosse Anzahl Drehbücher geschrieben werden können, damit die besten Drehbücher im In- und Ausland als abendfüllende Filme verfilmt und breit ausgewertet werden können.
-  - b. Es sollen auch Projekte entwickelt werden können, welche eine spartenübergreifende Rezeption erfahren.
+  - a. Es sollen qualitativ hochstehende Drehbücher geschrieben und Projekte entwickelt werden können.
+  - b. Projekte sollen mit Blick auf ihr Zielpublikum entwickelt werden.
+  - c. Es sollen innovative Erzählformate entwickelt werden können.
+  - d. Es sollen Projekte für unterschiedliche Genres und Formate entwickelt werden können.
 
 - 1\.2.2
 
   Indikatoren für die Erreichung der Ziele nach Ziffer 1.2.1 sind:
 
-  - a. Anzahl geförderter Drehbücher und Projektentwicklungen;
-  - b. Anzahl erfolgreich fertiggestellter und ausgewerteter Projekte, die aus geförderten Drehbüchern oder Projektentwicklungen entstanden sind;
-  - c. Anzahl Projekte, die eine spartenübergreifende Auswertung erfahren haben.
+  - a. Art und Anzahl der Filme nach Genres und Formaten, die aus den geförderten Drehbüchern und Projektentwicklungen entstanden sind;
+  - b. Art der Auswertung und Auswertungsresultate der realisierten Projekte.
 
 - 1\.2.3
 
   Mit der Förderung des Schweizer Filmschaffens in der Phase der Herstellung (Herstellungsförderung) sollen folgende Wirkungen erzielt werden:
 
-  - a. Schweizer Filmschaffende sollen eigenständig qualitativ hochstehende Filme realisieren können.
-  - b. Schweizer Filme und Koproduktionen sollen dem Schweizer Publikum in allen Auswertungsformen zugänglich sein und dadurch einen wesentlichen Beitrag zur Qualität und Vielfalt des Filmangebotes in der Schweiz leisten.
-  - c. Schweizer Filme und Koproduktionen sollen an wichtigen in- und ausländischen Festivals selektioniert werden und das Image des Schweizer Films, insbesondere in den wichtigsten Koproduktionsländern der Schweiz, positiv prägen.
-  - d. Die Anzahl Koproduktionen mit Dreharbeiten in der Schweiz soll zunehmen.
-  - e. Bei der Herstellung von Schweizer Filmen und speziell von Koproduktionen sollen vermehrt Filmschaffende und filmtechnische Betriebe aus der Schweiz berücksichtigt werden, um die Wettbewerbsfähigkeit des Filmstandortes Schweiz zu stärken.
+  - a. Schweizer Filmschaffende sollen qualitativ hochstehende und kulturell relevante Filme realisieren können.
+  - b. Filme unterschiedlicher Genres und Formate sollen als Schweizer Filme und Koproduktionen hergestellt werden können.
+  - c. Schweizer Filme und Koproduktionen sollen dem Schweizer Publikum unabhängig von der Auswertungsform zugänglich sein und an wichtigen in- und ausländischen Festivals gezeigt werden.
+  - d. Die Anzahl Koproduktionen mit Dreharbeiten in der Schweiz soll zunehmen und die künstlerische und filmtechnische Wettbewerbsfähigkeit des Filmstandortes Schweiz soll erhalten und gestärkt werden.
 
 - 1\.2.4
 
   Indikatoren für die Erreichung der Ziele nach Ziffer 1.2.3 sind:
 
-  - a. Anzahl Schweizer Filme und Koproduktionen, die in der Herstellung gefördert wurden;
-  - b. Anzahl Eintritte und Vorstellungen in Kinos sowie Anzahl über andere Auswertungskanäle verkaufte Filmtitel von Schweizer Filmen und Koproduktionen in den verschiedenen Sprachregionen der Schweiz;
-  - c. Präsenz und Auszeichnungen von Schweizer Filmen und Koproduktionen mit Schweizer Regie an wichtigen Filmfestivals;
-  - d. Anzahl Koproduktionen mit der Schweiz nach Koproduktionsländern, Finanzierungsstruktur sowie nach Anteil der künstlerischen und technischen Beteiligung;
-  - e. steigende Anzahl von Drehtagen in der Schweiz und steigende Ausgaben für technische, künstlerische und logistische Leistungen, die in der Schweiz erbracht worden sind.
+  - a. Anzahl der Schweizer Filme und Koproduktionen nach Genres und Formaten, die in der Herstellung gefördert wurden;
+  - b. Art der Auswertung und Auswertungsresultate der geförderten Filme nach Sprachregionen;
+  - c. Präsenz und Auszeichnungen von Schweizer Filmen und Koproduktionen mit Schweizer Regie an wichtigen Festivals;
+  - d. Anzahl Koproduktionen mit der Schweiz nach Koproduktionsländern, nach Finanzierungsstrukturen sowie nach Anteilen der künstlerischen und technischen Beteiligung;
+  - e. Zu- oder Abnahme der Anzahl Drehtage in der Schweiz und der Ausgaben für technische, künstlerische und logistische Leistungen, die in der Schweiz erbracht worden sind.
 
-- 1\.2.5 Mit der Förderung der Postproduktion soll erreicht werden, dass erfolgversprechende lange Schweizer Filme, die ohne Herstellungsförderung des Bundes entstanden sind, fertiggestellt und auf verschiedenen Auswertungskanälen ausserhalb des linearen Fernsehens ausgewertet werden können.
-- 1\.2.6
-
-  Indikatoren für die Erreichung der Ziele nach Ziffer 1.2.5 sind:
-
-  - a. Anzahl in der Postproduktion geförderter Filme;
-  - b. Anzahl erzielter Kinoeintritte, Verkäufe und Nutzungen auf elektronischen Abrufdiensten sowie Teilnahmen an wichtigen in- und ausländischen Filmfestivals.
-
-- 1\.2.7
+- 1\.2.5
 
   Mit der erfolgsabhängigen Filmförderung sollen folgende Wirkungen erzielt werden:
 
@@ -1915,137 +2034,137 @@ Anhang 2[^t-2]
   - b. Die Produzentinnen und Produzenten sollen selbstständig Projekte entwickeln und realisieren können.
   - c. Gutschriften sollen möglichst rasch in neue Projekte reinvestiert werden können.
 
-- 1\.2.8
+- 1\.2.6
 
-  Indikatoren für die Erreichung der Ziele nach Ziffer 1.2.7 sind:
+  Indikatoren für die Erreichung der Ziele nach Ziffer 1.2.5 sind:
 
   - a. Anzahl Treatments, Drehbücher und Drehvorlagen, die mit Mitteln der erfolgsabhängigen Filmförderung entwickelt worden sind;
-  - b. durchschnittliche Zeitspanne zwischen Mitteilung der Gutschrift und Reinvestition der Gutschriften nach Art der Reinvestition.
+  - b. durchschnittliche Zeitspanne zwischen der Mitteilung der Gutschriften und der Reinvestition der Gutschriften nach Art der Reinvestition.
 
 ### 1.3 Ziele der Förderung in der Auswertungsphase
 
-- 1\.3.1 Mit der selektiven Verleih- und der Vertriebsförderung soll erreicht werden, dass Schweizer Filme und anerkannte Koproduktionen mit Schweizer Regie ihr Zielpublikum finden.
-- 1\.3.2
-
-  Indikatoren für die Erreichung des Ziels nach Ziffer 1.3.1 sind:
-
-  - a. Anzahl Filme, deren Auswertung in und ausserhalb des Kinos selektiv gefördert wurde;
-  - b. Anteil der mit Preisen ausgezeichneten Filme, die in und ausserhalb des Kinos selektiv gefördert wurden;
-  - c. Anzahl zielgruppenorientierter Spezialprogramme und damit verbundene Kinoeintritte;
-  - d. Anzahl Filme, die über elektronische Abrufdienste ausgewertet wurden und Anzahl bezahlter Abrufe.
-
-- 1\.3.3
+- 1\.3.1
 
   Mit der erfolgsabhängigen Filmförderung sollen folgende Wirkungen erzielt werden:
 
-  - a. Stärkung des Schweizer Filmschaffens durch Ankäufe von Schweizer Filmen und majoritären Koproduktionen durch Verleihunternehmen;
+  - a. Stärkung des Schweizer Filmschaffens durch Ankäufe der Rechte an Schweizer Filmen und Koproduktionen durch Verleihunternehmen;
   - b. rasches Reinvestieren der Gutschriften in neue Verleihprojekte durch Schweizer Verleihunternehmen;
-  - c. Stärkung des Anreizes für Kinounternehmen, Schweizer Filme attraktiv zu programmieren;
-  - d. Stärkung der Auswertung und der Visibilität der Filme auf den Auswertungskanälen ausserhalb der Kinos, speziell über elektronische Abrufdienste.
+  - c. Erhaltung und Stärkung der Angebotsvielfalt im Kino und über elektronische Abrufdienste durch Anreize für Kinounternehmen sowie für Verleih- und Vertriebsfirmen, Schweizer Filme attraktiv zu programmieren und zu zeigen.
 
-- 1\.3.4
+- 1\.3.2
 
-  Indikatoren für die Erreichung der Ziele nach Ziffer 1.3.3 sind:
+  Indikatoren für die Erreichung der Ziele nach Ziffer 1.3.1 sind:
 
   - a. Anzahl Filme, in die Mittel der erfolgsabhängigen Filmförderung für die Promotion und den Ankauf investiert wurden;
-  - b. durchschnittliche Zeitspanne zwischen der Mitteilung der Verleihgutschrift und der Reinvestition der Gutschriften nach Art der Reinvestition;
+  - b. durchschnittliche Zeitspanne zwischen der Mitteilung der Verleihgutschriften und der Reinvestition der Gutschriften nach Art der Reinvestition;
   - c. Anzahl Vorstellungen und Kinoeintritte von Schweizer Filmen und Koproduktionen;
-  - d. Anzahl angebotener Filme auf weiteren elektronischen Auswertungskanälen ausserhalb des linearen Fernsehens.
+  - d. Anzahl angebotener Filme und Anzahl bezahlter Abrufe auf elektronischen Auswertungskanälen ausserhalb des linearen Fernsehens.
 
 ### 2 Kriterien
 
 ### 2.1 Kriterien der selektiven Filmförderung
 
 - 2\.1.1 *Förderung des Drehbuchschreibens*
-- 2\.1.1.1 Schweizer Drehbuchautorinnen und -autoren sowie Schweizer Produktionsunternehmen können eine Finanzhilfe an die Kosten des Drehbuchschreibens und der damit zusammenhängenden Entwicklungsarbeiten beantragen. Gesuche, die Nachwuchsautorinnen und -autoren oder Drehbuchautorinnen betreffen, und Gesuche von Personen, die keine oder zu wenige Gutschriften der erfolgsabhängigen Filmförderung investieren können, werden bevorzugt.
-- 2\.1.1.2 Die Förderung des Drehbuchschreibens ist bestimmt für lange Kinospielfilme sowie für lange Animationsfilme.
+- 2\.1.1.1 Schweizer Drehbuchautorinnen und -autoren sowie Schweizer Produktionsunternehmen können eine Finanzhilfe an die Kosten des Drehbuchschreibens und der damit zusammenhängenden Entwicklungsarbeiten beantragen.
+- 2\.1.1.2 Die Förderung des Drehbuchschreibens ist bestimmt für lange Spielfilme sowie für lange Animationsfilme.
 - 2\.1.1.3
 
   Bei der Förderung des Drehbuchschreibens sind insbesondere folgende Kriterien massgeblich:
 
   - a. Originalität des Themas;
-  - b. künstlerische und dramaturgische Qualität des Treatments;
-  - c. Qualität und Kohärenz der vorgesehenen Arbeitsweise;
-  - d. Potenzial des Stoffes für einen Kinofilm;
-  - e. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags.
+  - b. künstlerische Qualität des Treatments;
+  - c. Auswertungspotenzial und Zielgruppenorientierung;
+  - d. Qualität und Kohärenz der vorgesehenen Arbeitsweise;
+  - e. Beitrag zur Angebotsvielfalt, namentlich hinsichtlich der thematischen oder formalen Vielfalt;
+  - f. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags.
+
+- 2\.1.1.4
+
+  Folgende Gesuche können bevorzugt werden:
+
+  - a. Gesuche, die Nachwuchsautorinnen und -autoren betreffen;
+  - b. Gesuche, die Drehbuchautorinnen betreffen;
+  - c. Gesuche von Personen, die keine oder zu wenige Gutschriften der erfolgsabhängigen Filmförderung investieren können.
 
 - 2\.1.2 *Förderung der Projektentwicklung*
-- 2\.1.2.1 Schweizer Produktionsunternehmen können eine Finanzhilfe an die Kosten der Entwicklung (Drehkonzept) eines langen Kino-Dokumentarfilms oder eines Animationsfilms, einer Animationsserie oder eines Transmediaprojektes beantragen. Die Entwicklung von Animationsfilmen, ‑serien und Transmediaprojekten kann unabhängig der von Länge und dem Auswertungsmedium gefördert werden. Gesuche, die Nachwuchsfilme und Filme von Regisseurinnen betreffen, und Gesuche von Personen, die keine oder zu wenige Gutschriften der erfolgsabhängigen Filmförderung investieren können, werden bevorzugt.
-- 2\.1.2.2 Die Förderung der Projektentwicklung ist bestimmt für Filmprojekte, die auf Initiative des Schweizer Produktionsunternehmens und unter seiner Verantwortung entwickelt werden. Anrechenbar sind insbesondere die Kosten für notwendige Recherchen und Reisen, für die künstlerische Konzeption und Weiterentwicklung des Filmprojektes sowie für die Vorarbeiten der Produktion im Hinblick auf die Finanzierung und die Herstellung. Bei Animationsfilmprojekten ist die Herstellung eines Pilotfilms anrechenbar.
+- 2\.1.2.1
+
+  Schweizer Produktionsunternehmen können eine Finanzhilfe an die Kosten der Entwicklung für folgende Arten von Filmen beantragen:
+
+  - a. lange Dokumentarfilme und Dokumentarfilmserien;
+  - b. lange oder kurze Animationsfilme und Animationsserien.
+
+- 2\.1.2.2 Die Förderung der Projektentwicklung ist bestimmt für Filmprojekte, die auf Initiative des Schweizer Produktionsunternehmens und unter seiner Verantwortung entwickelt werden. Anrechenbar sind insbesondere die Kosten für notwendige Recherchen und Reisen, für die künstlerische Konzeption und Weiterentwicklung des Filmprojektes sowie für die Vorarbeiten der Produktion im Hinblick auf die Finanzierung und die Herstellung des Films. Bei Animationsfilmprojekten ist die Herstellung eines Pilotfilms anrechenbar.
 - 2\.1.2.3
 
   Bei der Förderung der Projektentwicklung sind insbesondere folgende Kriterien massgeblich:
 
   - a. Originalität und künstlerische Qualität des Drehbuchs oder der Drehvorlage;
-  - b. Qualität und Kohärenz der inhaltlichen Entwicklungsstrategie;
-  - c. künstlerisches und produktionelles Potenzial für einen Kinofilm;
-  - d. Zielgruppenorientierung der geplanten Auswertung;
+  - b. Auswertungspotenzial und Zielgruppenorientierung;
+  - c. Qualität und Kohärenz der Entwicklungsstrategie in künstlerischer, produktioneller und finanzieller Hinsicht;
+  - d. Beitrag zur Angebotsvielfalt, namentlich hinsichtlich der thematischen oder formalen Vielfalt;
   - e. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags.
 
 - 2\.1.2.4
 
-  Bei der Förderung der Projektentwicklung für transmediale Projekte sind zusätzlich folgende Kriterien massgeblich:
+  Folgende Gesuche können bevorzugt werden:
 
-  - a. Innovationsgrad und Beitrag zur Entwicklung des Schweizer Filmschaffens;
-  - b. Qualität der Entwicklungs- und Auswertungsstrategie;
-  - c Kooperation zwischen Filmschaffenden und anderen Medienspezialisten und -spezialistinnen;
-  - d. Zugang zu anderen Förderungen.
+  - a. Gesuche für Filme von Nachwuchsregisseurinnen und -regisseuren;
+  - b Gesuche für Filme von Regisseurinnen;
+  - c. Gesuche von Personen, die keine oder zu wenige Gutschriften der erfolgsabhängigen Filmförderung investieren können.
 
-- 2\.1.3 *Herstellungsförderung*
-- 2\.1.3.1 Schweizer Produktionsunternehmen können eine Finanzhilfe an die Herstellung eines Kinospielfilms und an die Herstellung eines Animations- oder Dokumentarfilmes unabhängig von dessen Länge und dessen Auswertungsmedium beantragen. Gesuche, die Regisseurinnen oder Nachwuchsregisseurinnen und -regisseure betreffen, sowie Gesuche, die bei der Planung und der Realisierung die Umweltverträglichkeit und die Ressourcenschonung berücksichtigen, können bevorzugt werden.
-- 2\.1.3.2 Die Herstellungsförderung ist in erster Linie für Schweizer Filme und für anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie und verantwortlicher Schweizer Produktion bestimmt. Koproduktionen mit ausländischer Regie können gefördert werden, um eine Koproduktion mit Schweizer Regie zu ermöglichen
-- 2\.1.3.3 Koproduktionen werden grundsätzlich nur gefördert, wenn der Anteil an künstlerischen und technischen Mitarbeitern und Mitarbeiterinnen aus der Schweiz und an filmtechnischen Betrieben in der Schweiz dem schweizerischen Finanzierungsanteil entspricht.
+- 2\.1.3 *Förderung innovativer Erzählformate*
+- 2\.1.3.1 Schweizer Produktionsunternehmen sowie Schweizer Firmen, die in vergleichbarer Weise unabhängig und professionell audiovisuelle Inhalte produzieren, können eine Finanzhilfe an die Kosten der Entwicklung, Herstellung und Auswertung innovativer Formate beantragen.
+- 2\.1.3.2 Die Förderung innovativer Erzählformate ist bestimmt für Projekte, die auf Initiative des Schweizer Unternehmens und unter seiner Verantwortung entwickelt werden. Anrechenbar sind insbesondere die Kosten für notwendige Recherchen und Reisen, für die künstlerische und technische Konzeption und Weiterentwicklung des Erzählformats, für die Entwicklung im Hinblick auf die Finanzierung seiner Realisierung und für die Umsetzung.
+- 2\.1.3.3
+
+  Bei der Förderung innovativer Erzählformate sind insbesondere folgende Kriterien massgeblich:
+
+  - a. Innovationsgrad in formaler oder technischer Hinsicht und künstlerische Qualität des audiovisuellen Konzepts;
+  - b. Auswertungspotenzial und Zielgruppenorientierung;
+  - c. Qualität und Kohärenz der Entwicklungsstrategie in künstlerischer, technischer und finanzieller Hinsicht;
+  - d. Beitrag zur Entwicklung des audiovisuellen Schaffens in der Schweiz und zur Kooperation von Fachpersonen aus verschiedenen Branchen;
+  - e. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags.
+
 - 2\.1.3.4
 
-  Schweizerisch-ausländische Kofinanzierungen können gefördert werden, wenn sie nach dem anwendbaren Koproduktionsabkommen zulässig sind. Bei der Förderung von Kofinanzierungen sind zusätzlich folgende Kriterien massgeblich:
+  Folgende Gesuche können bevorzugt werden:
 
-  - a. Bezug des Filmprojektes zur Schweiz;
-  - b. technische oder künstlerische Gründe, die gegen eine Beteiligung künstlerischer und technischer Mitarbeiterinnen und Mitarbeiter aus der Schweiz sprechen;
-  - c. Reziprozität im Bereich der Kofinanzierungen mit dem betreffenden Land.
+  - a. Gesuche für Filme von Nachwuchsregisseurinnen und -regisseuren;
+  - b. Gesuche für Projekte, die in Zusammenarbeit mit Personen entwickelt werden, die eine Ausbildung in Gestaltung oder Technik an einer Fachschule, Fachhochschule oder Hochschule absolviert und vor höchstens 3 Jahren abgeschlossen haben;
+  - c. Gesuche von Personen, die keine oder zu wenige Gutschriften der erfolgsabhängigen Filmförderung investieren können.
 
-- 2\.1.3.5
+- 2\.1.4 *Herstellungsförderung für Schweizer Filme und für Koproduktionen* *mit* *verantwortlicher Schweizer Produktion*
+- 2\.1.4.1
 
-  Im Bereich der Spielfilme ist die Herstellungsförderung auf kurze oder lange Filme beschränkt, die für eine Erstauswertung im Kino oder an Festivals konzipiert sind und die auch ein Auswertungspotenzial ausserhalb des linearen Fernsehens aufweisen. Bei Spielfilmprojekten sind insbesondere folgende Kriterien massgeblich:
+  Schweizer Produktionsunternehmen, die für die Herstellung eines Films die Verantwortung tragen, können eine Finanzhilfe an die Herstellung beantragen. Folgende Arten von Filmen sind förderbar:
 
-  - a. künstlerische Qualität des Drehbuchs;
-  - b. Entwicklungsstand des Projekts;
-  - c. Kohärenz des Produktionsdossiers;
-  - d. künstlerische und technische Kohärenz des Projekts;
-  - e. Auswertungspotenzial;
-  - f. Zielgruppenorientierung und Qualität der geplanten Auswertungs-, Marketing- und Promotionsstrategie;
-  - g Beitrag zur Angebotsvielfalt;
-  - h. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags;
-  - i. produktionelle Erfahrung des Produktionsteams, wenn der beantragte Bundesbeitrag höher ist als 400 000 Franken.
+  - a. lange und kurze Spielfilme, sofern sie nicht für eine Erstauswertung am Fernsehen konzipiert sind;
+  - b. lange und kurze Animationsfilme;
+  - c. lange und kurze Dokumentarfilme sowie lange Dokumentarfilmserien.
 
-- 2\.1.3.6
+- 2\.1.4.2 Schweizer Filme und Koproduktionen werden grundsätzlich nur gefördert, wenn der Anteil an künstlerischen und technischen Mitarbeiterinnen und Mitarbeitern aus der Schweiz und an filmtechnischen Betrieben in der Schweiz dem schweizerischen Finanzierungsanteil entspricht.
+- 2\.1.4.3
 
-  Animationsfilmprojekte können unabhängig von der Länge und dem Auswertungsmedium gefördert werden. Animationsfilmprojekte mit Kinopotenzial werden bevorzugt. Bei Animationsfilmprojekten sind insbesondere folgende Kriterien massgeblich:
+  Bei der Beurteilung von Projekten mit verantwortlicher Schweizer Produktion sind insbesondere folgende Kriterien massgeblich:
 
-  - a. künstlerische und technische Qualität des Projekts;
-  - b. Entwicklungsstand des Projekts;
-  - c. Kohärenz des Produktionsdossiers;
-  - d. künstlerische und technische Kohärenz des Projekts;
-  - e. Auswertungspotenzial;
-  - f. Zielgruppenorientierung und Qualität der geplanten Auswertungs-, Marketing- und Promotionsstrategie;
-  - g. Beitrag zur Angebotsvielfalt;
-  - h. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags;
-  - i. produktionelle Erfahrung des Produktionsteams, wenn der beantragte Bundesbeitrag höher ist als 400 000 Franken.
+  - a. künstlerische Qualität des Drehbuchs oder der Drehvorlage sowie der vorgesehenen visuellen Umsetzung;
+  - b. Qualität und Kohärenz des Produktionsdossiers in künstlerischer, technischer und produktioneller Hinsicht;
+  - c. Auswertungspotenzial und Zielgruppenorientierung;
+  - d. Entwicklungsstand des Projekts (Herstellungsreife);
+  - e. Beitrag zur Angebotsvielfalt; namentlich hinsichtlich der thematischen oder formalen Vielfalt;
+  - f. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags.
 
-- 2\.1.3.7
+- 2\.1.4.4
 
-  Dokumentarfilmprojekte können unabhängig von der Länge und der Auswertungsmedium gefördert werden. Dokumentarfilmprojekte mit Kinopotenzial werden bevorzugt. Bei Dokumentarfilmprojekten sind insbesondere folgende Kriterien massgeblich:
+  Folgende Gesuche können bevorzugt werden:
 
-  - a. künstlerische Qualität der Drehvorlage;
-  - b. Entwicklungsstand des Projekts;
-  - c. Kohärenz des Produktionsdossiers;
-  - d. künstlerische und technische Kohärenz des Projekts;
-  - e. Auswertungspotenzial;
-  - f. Zielgruppenorientierung und Qualität der geplanten Auswertungs-, Marketing- und Promotionsstrategie;
-  - g. Beitrag zur Angebotsvielfalt;
-  - h. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags;
-  - i. produktionelle Erfahrung des Produktionsteams, wenn der beantragte Bundesbeitrag höher ist als 200 000 Franken.
+  - a. Gesuche für Filme von Nachwuchsregisseurinnen und -regisseuren;
+  - b. Gesuche für Filme von Regisseurinnen;
+  - c. Gesuche für Filmprojekte, die herstellungsreif sind;
+  - d. Gesuche von Personen, die keine oder zu wenige Gutschriften der erfolgsabhängigen Filmförderung investieren können.
 
-- 2\.1.3.8
+- 2\.1.4.5
 
   Schweizer Produktionsunternehmen können zur Vorbereitung der Herstellung eines langen Spielfilms (Drehvorbereitung) einen Vorschuss von höchstens 15 Prozent des in Aussicht gestellten Herstellungsbeitrages der selektiven Filmförderung beantragen. Beim Entscheid über die Auszahlung sind folgende Kriterien zu berücksichtigen:
 
@@ -2053,89 +2172,84 @@ Anhang 2[^t-2]
   - b. Realisierung des Projekts in den folgenden sechs Monaten und zu mindestens 50 Prozent gesicherte Finanzierung des Gesamtprojekts (ohne Bundesbeiträge);
   - c. Plausibilität der geplanten Massnahmen.
 
-- 2\.1.4 *Förderung der Postproduktion*
-- 2\.1.4.1 Schweizer Produktionsunternehmen können eine Finanzhilfe an die Kosten der technischen und künstlerischen Postproduktionsmassnahmen beantragen. Anrechenbar sind die notwendigen Fertigstellungskosten, namentlich für Schnitt und Ton, die vom Produktionsunternehmen nicht selber erbracht werden können.
-- 2\.1.4.2 Gefördert werden nur lange Schweizer Kinofilme und anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie, die ohne Herstellungsbeitrag der selektiven Filmförderung hergestellt wurden und deren Auswertung von einem unabhängigen Schweizer Verleihunternehmen oder Vertrieb verantwortet wird. Es können nur Filme gefördert werden, deren Herstellungskosten gesamthaft unter 1 000 000 Franken bei Spiel- und Animationsfilmen oder unter 200 000 Franken bei Dokumentarfilmen liegen. Filme mit Nachwuchsregie und Filme von Regisseurinnen können bevorzugt werden. Anrechenbar sind nur Kosten für Leistungen, die in der Schweiz entstanden und abgerechnet werden.
-- 2\.1.4.3
-
-  Bei der Postproduktionsförderung sind insbesondere folgende Kriterien massgeblich:
-
-  - a. künstlerische Qualität des Rohschnitts;
-  - b. Anteil der technischen Fertigstellung in der Schweiz im Verhältnis zu den Ausgaben des Gesamtprojekts;
-  - c. Qualität und Kohärenz des Auswertungskonzeptes unter Einschluss aller möglichen Auswertungsformen (Kino, Festival, Video usw.);
-  - d. Beitrag des Verleihunternehmens oder des Vertriebs;
-  - e. Erfahrung des Verleihunternehmens mit Filmen dieser Art;
-  - f. Potenzial für eine sprachraumübergreifende Auswertung;
-  - g. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags.
-
-- 2\.1.5 *Verleih und Vertriebsförderung* *für Filme ohne breites Auswertungspotential*
+- 2\.1.4.6 Schweizer Produktionsunternehmen, die weniger als 3 lange Filme produziert haben und ein Gesuch um Auszahlung eines in Aussicht gestellten Herstellungsbeitrags des BAK vorbereiten, können bei einer vom BAK anerkannten Weiterbildungsinstitution eine unentgeltliche Begleitung durch eine Person mit langjähriger Produktionserfahrung beantragen.
+- 2\.1.5 *Herstellungsförderung für Koproduktionen ohne verantwortliche Schweizer Produktion*
 - 2\.1.5.1
 
-  Schweizer Verleihunternehmen können eine Finanzhilfe an die zielgruppenspezifischen Promotions- und Vermittlungskosten für Filme und Filmprogramme beantragen, die voraussichtlich weniger als 2000 Eintritte erzielen. Bevorzugt werden:
+  Schweizer Produktionsunternehmen, die sich an der Herstellung einer Koproduktion beteiligen, ohne selbst die Verantwortung dafür zu tragen, können eine Finanzhilfe an die Herstellung des koproduzierten Filmes beantragen, sofern der Film nicht für eine Erstauswertung am Fernsehen konzipiert ist. Folgende Arten von Filmen sind förderbar:
 
-  - a. Filmprogramme für Kinder und Jugendliche;
-  - b. Filme, die in einer Festivalsektion nach Artikel 83 Absatz 2 Buchstabe a teilgenommen oder mit einem Preis nach Artikel 83 Absatz 2 Buchstaben b oder c ausgezeichnet wurden;
-  - c. Projekte, die besonders nachhaltig mit Ressourcen umgehen.
+  - a. lange Spielfilme;
+  - b. lange und kurze Animationsfilme;
+  - c. lange Dokumentarfilme und Dokumentarfilmserien.
 
-- 2\.1.5.2
-
-  Zugelassen sind:
-
-  - a. lange Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen mit Schweizer Regie;
-  - b. Filmprogramme von mindestens 40 Minuten Dauer, die mehrheitlich aus Schweizer Filmen oder anerkannten Koproduktionen mit Schweizer Regie bestehen.
-
+- 2\.1.5.2 Koproduktionen werden grundsätzlich nur gefördert, wenn der Anteil an künstlerischen und technischen Mitarbeiterinnen und Mitarbeitern aus der Schweiz und an filmtechnischen Betrieben in der Schweiz dem schweizerischen Finanzierungsanteil entspricht.
 - 2\.1.5.3
 
-  Bei der Verleihförderung sind insbesondere folgende Kriterien massgebend:
+  Die Beurteilung von Projekten ohne verantwortliche Schweizer Produktion erfolgt im Rahmen eines Punktesystems. Dabei sind insbesondere folgende Kriterien massgeblich:
 
-  - a. Qualität und Originalität des Auswertungskonzepts;
-  - b. Relevanz des Films für eine zielgruppenspezifische Auswertung;
-  - c. Professionalität und spezifische Erfahrung des Verleihunternehmens;
-  - d. Auswertungspotenzial in den verschiedenen Sprachregionen und Vertriebskanälen;
+  - a. Qualität des Projekts und Bezug zur Schweiz;
+  - b. Realisierbarkeit des Projekts;
+  - c. Auswertungspotenzial im Ausland und in der Schweiz;
+  - d. Reziprozität zwischen den beteiligten Ländern und Koproduktionsbilanz des gesuchstellenden Unternehmens;
   - e. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags.
 
-- 2\.1.6 *Nicht geldwerte Massnahmen*
-- Das BAK kann zur Unterstützung der unabhängigen Filmproduktion auch nicht geldwerte Massnahmen ergreifen wie Beratung, Empfehlungen oder Patronate (Art. 13 Abs. 2 FiG).
-- 2\.1.7 *Filmpreis*
-- Das BAK richtet Finanzhilfen für Filme aus, die für den Filmpreis nominiert werden. Das Verfahren richtet sich nach den Bestimmungen der Verordnung des EDI vom 30. September 2004[^annex2-lvlu1-lvl2-lvl21-1] über den Schweizer Filmpreis.
+- 2\.1.5.4
 
-[^annex2-lvlu1-lvl2-lvl21-1]: [SR 443.116](https://fedlex.data.admin.ch/eli/cc/2004/654)
+  Folgende Gesuche können bevorzugt werden:
+
+  - a. Gesuche für Filme von Regisseurinnen;
+  - b. Gesuche für Filme aus Schweizer Sprachregionen, deren Förderquote im Vorjahr unter 25 Prozent lag.
+
+- 2\.1.5.5
+
+  Schweizerisch-ausländische Kofinanzierungen können gefördert werden, wenn sie nach dem anwendbaren Koproduktionsabkommen zulässig sind. Bei der Förderung von Kofinanzierungen sind zusätzlich folgende Kriterien massgeblich:
+
+  - a. technische oder künstlerische Gründe, die gegen eine Beteiligung künstlerischer und technischer Mitarbeiterinnen und Mitarbeiter aus der Schweiz sprechen;
+  - b. Reziprozität im Bereich der Kofinanzierungen mit dem betreffenden Land;
+  - c. Beitrag zur Nachhaltigkeit der Produktion.
+
+- 2\.1.6 *Unterstützung durch nicht geldwerte Leistungen*
+- Das BAK kann die unabhängige Filmproduktion auch durch nicht geldwerte Leistungen unterstützen, beispielsweise durch Beratung, Empfehlungen oder Patronate (Art. 13 Abs. 2 FiG).
+- 2\.1.7 *Filmpreis*
+- Das BAK richtet Finanzhilfen für Filme aus, die für den Schweizer Filmpreis nominiert werden. Das Verfahren richtet sich nach der Verordnung des EDI vom 30. September 2004[^annex2-lvlu1-lvl2-lvl21-1] über den Schweizer Filmpreis.
+
+[^annex2-lvlu1-lvl2-lvl21-1]: [SR 443.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7141)
 
 ### 2.2 Kriterien für die Reinvestition von Gutschriften der erfolgsabhängigen Filmförderung
 
-- 2\.2.1 Gutschriften der erfolgsabhängigen Filmförderung sind innerhalb ihrer Verfallsfrist von den berechtigten Personen und Unternehmen in neue Filmprojekte zu reinvestieren. Bei der Reinvestition von Gutschriften sind insbesondere folgende Kriterien massgeblich:
+- 2\.2.1 Gutschriften der erfolgsabhängigen Filmförderung sind innerhalb ihrer Verfallsfrist von den berechtigten Personen und Unternehmen in neue Filmprojekte zu reinvestieren. Die Reinvestition ist unabhängig von Länge, Format und Auswertungsmedium möglich; zulässig sind namentlich auch Reinvestitionen in Fernsehfilme, Serien und innovative Erzählformate. Bei der Reinvestition von Gutschriften sind insbesondere folgende Kriterien massgeblich:
 - 2\.2.2 *Treatment, Drehvorlage- und Drehbuchschreiben*
-- Die Gutschriften der erfolgsabhängigen Filmförderung können für das Schreiben eines neuen Treatments, für Recherchen oder für das Schreiben einer Drehvorlage für ein Dokumentarfilmprojekt sowie für das Schreiben eines neuen Drehbuchs verwendet werden. Sie können für die Überarbeitung eines bestehenden Drehbuchs verwendet werden, wenn ein Gesuch um einen Herstellungsbeitrag nach Ziffer 2.1.3 wegen Mängel am Drehbuch abgelehnt wurde. Gesuche stellen können Autorinnen und Autoren, Regisseurinnen und Regisseure sowie Produktionsunternehmen.
+- Die Gutschriften der erfolgsabhängigen Filmförderung können für das Schreiben eines neuen Treatments, für Recherchen oder für das Schreiben einer Drehvorlage sowie für das Schreiben eines neuen Drehbuchs verwendet werden. Sie können für die Überarbeitung eines bestehenden Drehbuchs verwendet werden, wenn ein Gesuch um einen Herstellungsbeitrag nach Ziffer 2.1.4 oder 2.1.5 wegen Mängeln des Drehbuchs abgelehnt wurde. Gesuche stellen können Autorinnen und Autoren, Regisseurinnen und Regisseure sowie Produktionsunternehmen.
 - 2\.2.3 *Projektentwicklung*
-- Die Gutschriften der erfolgsabhängigen Filmförderung können für die Projektentwicklung von Schweizer Filmen oder anerkannten schweizerisch–ausländischen Koproduktionen verwendet werden. Gesuche stellen können Produktionsunternehmen. Bei Koproduktionen muss das Schweizer Produktionsunternehmen die Projektentwicklung verantworten und die entsprechenden Rechte innehaben.
+- Die Gutschriften der erfolgsabhängigen Filmförderung können für die Entwicklung von Filmen und audiovisuellen Projekten verwendet werden, an denen Schweizer Filmschaffende beteiligt sind. Gesuche stellen können Produktionsunternehmen. Bei Koproduktionen muss das Schweizer Produktionsunternehmen die Projektentwicklung verantworten und die entsprechenden Rechte innehaben.
 - 2\.2.4 *Herstellung und Postproduktion*
-- Die Gutschriften der erfolgsabhängigen Filmförderung können für die Herstellung und die Postproduktion von Schweizer Filmen und von anerkannten schweizerisch-ausländischen Koproduktionen verwendet werden. Gesuche stellen können Produktionsunternehmen.
-- 2\.2.5 *Verleih- und Vertrieb*
+- Die Gutschriften der erfolgsabhängigen Filmförderung können für die Herstellung und die Postproduktion von Schweizer Filmen und von Koproduktionen verwendet werden. Gesuche stellen können Produktionsunternehmen.
+- 2\.2.5 *Verleih und Vertrieb*
 - Die Gutschriften der erfolgsabhängigen Filmförderung können für den Verleih und die Promotion von Schweizer Filmen und von Koproduktionen verwendet werden. Gesuche stellen können Produktions- und Verleihunternehmen.
-- 2\.2.6 Verleihunternehmen können im Rahmen von Rechteankäufen (Minimumgarantien) Gutschriften bis zu 75 Prozent der bezahlten Garantiesumme für das Drehbuchschreiben durch Schweizer Autorinnen und Autoren sowie für die Herstellung und die Postproduktion von Schweizer Filmen oder Koproduktionen verwenden.
-- 2\.2.7 Ausgeschlossen ist eine Reinvestition in den Verleih, den Vertrieb oder den Rechteankauf von Filmen ohne Schweizer Regie und von Filmen, deren Verleih nach Artikel 45 IPFiV[^annex2-lvlu1-lvl2-lvl22-1] oder deren Verleih und Rechteankauf nach Artikel 53 IPFiV gefördert werden kann.
+- 2\.2.6 Verleihunternehmen können im Rahmen von Rechteankäufen (Minimumgarantien) Gutschriften bis zu 70 Prozent der bezahlten Garantiesumme für das Drehbuchschreiben durch Schweizer Autorinnen und Autoren sowie für die Herstellung und die Postproduktion von Schweizer Filmen oder von Koproduktionen verwenden.
+- 2\.2.7 Ausgeschlossen ist eine Reinvestition in den Verleih, den Vertrieb oder den Rechteankauf von Filmen, deren Verleih nach Artikel 45 IPFiV[^annex2-lvlu1-lvl2-lvl22-1] gefördert wird.
 
-[^annex2-lvlu1-lvl2-lvl22-1]: [SR 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
+[^annex2-lvlu1-lvl2-lvl22-1]: [SR 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 
 Anhang 3[^t-3]
 
 (Art. 14*a* Abs. 2 und 14*b* Abs. 2)
 
-## Förderungskonzept 2021–2024 für die Förderung der Qualität und der Vielfalt des Filmangebots
+## Qualität und Vielfalt des Filmangebots: Förderungskonzept 2026–2028
 
-[^t-3]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
+[^t-3]: Fassung gemäss Ziff. II der V des EDI vom 20. Nov. 2025, in Kraft vom 1. Jan. 2026 bis zum 31. Dez. 2028 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)und Art. 118 Abs 3).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
 ### 1.1 Evaluation
 
 - 1\.1.1 Über die Umsetzung der Filmförderungskonzepte, insbesondere über die Erreichung der nachfolgend aufgeführten Wirkungsziele, erstattet das BAK periodisch Bericht.
-- 1\.1.2 Die Schlussevaluation erfolgt durch externe Fachleute.
-- 1\.1.3 Für die Periode 2021−2024 werden die Wirksamkeit der Massnahmen zur Förderung der Angebotsvielfalt sowie die Visibilität des Schweizer Filmschaffens im In- und im Ausland schwerpunktmässig evaluiert.
+- 1\.1.2 Die Schlussevaluation erfolgt soweit möglich durch externe Fachleute.
+- 1\.1.3 Für die Periode 2026−2028 wird die Wirksamkeit der Massnahmen zur Förderung der Visibilität des Schweizer Filmschaffens im Inland schwerpunktmässig evaluiert.
 
 ### 1.2 Ziele im Bereich Verleih von Kinofilmen
 
-- 1\.2.1 Das Filmangebot in der Schweiz soll qualitativ hochstehend und vielfältig sein.
+- 1\.2.1 Das Filmangebot in der Schweiz soll qualitativ hochstehend und vielfältig sein. Schweizer Filme und Koproduktionen mit Kinopotenzial sollen in allen Auswertungsformen und in allen Sprachregionen sichtbar sein.
 - 1\.2.2
 
   Indikatoren für die Erreichung dieses Ziels sind:
@@ -2144,12 +2258,11 @@ Anhang 3[^t-3]
   - b. Anzahl Auswertungsorte und Sprachregionen pro Film;
   - c. Anzahl darauf entfallender Kinoeintritte und Vorstellungen;
   - d. Herkunft der gezeigten Filme;
-  - e. Geschlecht der Regie;
-  - f. Auswertungssprache.
+  - e. Originalsprache.
 
 ### 1.3 Ziele im Bereich der Programmation und der Filmvermittlung im Kino
 
-- 1\.3.1 Das Kinoangebot in der Schweiz soll qualitativ hochstehend und vielfältig sein.
+- 1\.3.1 Das Filmangebot in der Schweiz soll qualitativ hochstehend, vielfältig und für die verschiedenen Zielpublika sichtbar sein.
 - 1\.3.2
 
   Indikatoren für die Erreichung dieses Ziels sind:
@@ -2157,9 +2270,7 @@ Anhang 3[^t-3]
   - a. Anzahl Filme, die im Kino ausgewertet wurden;
   - b. Anzahl Auswertungsorte und Sprachregionen pro Film;
   - c. Anzahl darauf entfallender Kinoeintritte und Vorstellungen;
-  - d. Herkunft der gezeigten Filme;
-  - e. Geschlecht der Regie;
-  - f. Auswertungssprache.
+  - d. Herkunft der gezeigten Filme.
 
 - 1\.3.3 Die Bedeutung der Kinos als kulturelle Begegnungsorte soll langfristig und nachhaltig erhalten werden.
 - 1\.3.4
@@ -2167,25 +2278,23 @@ Anhang 3[^t-3]
   Indikatoren für die Erreichung dieses Ziels sind:
 
   - a. Anzahl Vorführungen mit Podiumsdiskussionen und vergleichbaren Veranstaltungen zum Schweizer Filmschaffen;
-  - b. Anzahl zielgruppenspezifischer Programme und Rahmenveranstaltungen für ein junges Publikum;
-  - c. Anzahl weiterer zielgruppenspezifischer Programme und Rahmenveranstaltungen pro Jahr, Kino und Auswertungsort insgesamt;
-  - d. Anzahl darauf entfallender Kinoeintritte;
-  - e. Anzahl Promotions- und Kommunikationsmassnahmen für den Dialog mit dem Publikum.
+  - b. Anzahl zielgruppenspezifischer Programme und Rahmenveranstaltungen pro Jahr, Kino und Auswertungsort insgesamt;
+  - c. Anzahl darauf entfallender Kinoeintritte.
 
 ### 2 Kriterien
 
 ### 2.1 Kriterien der Förderung im Bereich Verleih
 
 - 2\.1.1 *Vielfaltsprämien für den Verleih von Schweizer Filmen und Koproduktionen (Art. 14b Abs. 1 Bst. a)*
-- 2\.1.1.1 Schweizer Verleihunternehmen, die einen langen Schweizer Film oder eine lange anerkannte Koproduktion mit Schweizer Regie verleihen, können eine Finanzhilfe (Vielfaltsprämie) beantragen. Die Vielfaltsprämie wird pro Film aufgrund der anrechenbaren Vorstellungen nach einem degressiven Schlüssel im Verhältnis zu den erzielten Kinoeintritten berechnet. Eine sprachraumübergreifende Auswertung und Vorstellungen in kleineren und mittleren Kinoregionen können mit einem höheren Ansatz gefördert werden. Vielfaltsprämien werden nach Abschluss der Kinoauswertung aufgrund einer Abrechnung über die anrechenbaren Vorführungen und Eintritte ausbezahlt.
+- 2\.1.1.1 Schweizer Verleihunternehmen, die einen langen Schweizer Film oder eine lange Koproduktion mit Schweizer Regie verleihen, können eine Finanzhilfe (Vielfaltsprämie) beantragen. Die Vielfaltsprämie wird pro Film aufgrund der anrechenbaren Vorstellungen nach einem degressiven Schlüssel im Verhältnis zu den erzielten Kinoeintritten berechnet. Eine sprachraumübergreifende Auswertung und Vorstellungen in kleineren und mittleren Kinoregionen können mit einem höheren Ansatz gefördert werden. Vielfaltsprämien werden nach Abschluss der Kinoauswertung aufgrund einer Abrechnung über die anrechenbaren Vorführungen und Eintritte ausbezahlt. Bei Kumulation mit Gutschriften der erfolgsabhängigen Filmförderung nach dieser Verordnung ist eine Abrechnung über die gesamte Auswertung einzureichen; die Vielfaltsprämie ist gegebenenfalls nach Artikel 24 Absatz 1 zu kürzen.
 - 2\.1.1.2 Förderbar sind Filme, die in der ganzen Schweiz mindestens 2000 Kinoeintritte erzielen. Als sprachraumübergreifende Auswertung gilt eine zusätzliche Auswertung in der deutschen Schweiz mit 50 Vorführungen an drei Orten, in der französischen Schweiz mit 25 Vorführungen an zwei Orten oder in der italienischen Schweiz mit 14 Vorführungen. Pro Vorführung müssen durchschnittlich 10 Zuschauerinnen und Zuschauer anwesend sein. Die Förderung entfällt, sobald ein Film 60 000 Eintritte erreicht.
-- 2\.1.2 *Vielfaltsprämien für den Verleih von ausländischen Filmen, die zur Angebotsvielfalt beitragen (Art. 14b Abs. 1 Bst. b)*.
-- 2\.1.2.1 Schweizer Verleihunternehmen, die mehrheitlich Filme nach Artikel 14*b* Abs. 1 Bst. b verleihen, können für den Verleih eines solchen Films eine Finanzhilfe (Vielfaltsprämie) beantragen. Die Vielfaltsprämie wird pro Film aufgrund der anrechenbaren Vorstellungen nach einem degressiven Schlüssel im Verhältnis zu den erzielten Kinoeintritten berechnet. Eine sprachraumübergreifende Auswertung und Vorstellungen in kleineren und mittleren Kinoregionen können mit einem höheren Ansatz gefördert werden. Vielfaltsprämien werden nach Abschluss der Kinoauswertung aufgrund einer Abrechnung über die anrechenbaren Vorführungen und Eintritte ausbezahlt.
-- 2\.1.2.2 Förderbar sind nur Filme, die in der ganzen Schweiz mindestens 2000 Kinoeintritte erzielen. Als sprachraumübergreifende Auswertung gilt eine zusätzliche Auswertung in der deutschen Schweiz mit 50 Vorführungen an drei Orten, in der französischen Schweiz mit 25 Vorführungen an zwei Orten oder in der italienischen Schweiz mit 14 Vorführungen. Pro Vorführung müssen durchschnittlich 10 Zuschauerinnen und Zuschauer anwesend sein. Die Förderung entfällt, sobald ein Film 60 000 Eintritte erreicht.
+- 2\.1.2 *Vielfaltsprämien für den Verleih von ausländischen Filmen, die zur Angebotsvielfalt beitragen (Art. 14b Abs. 1 Bst. b)*
+- 2\.1.2.1 Schweizer Verleihunternehmen, die mehrheitlich Filme nach Artikel 14*b* Absatz 1 Buchstabe b verleihen, können für den Verleih eines solchen Films eine Finanzhilfe (Vielfaltsprämie) beantragen. Die Vielfaltsprämie wird pro Film aufgrund der anrechenbaren Vorstellungen nach einem degressiven Schlüssel im Verhältnis zu den erzielten Kinoeintritten berechnet. Eine sprachraumübergreifende Auswertung und Vorstellungen in kleineren und mittleren Kinoregionen können mit einem höheren Ansatz gefördert werden. Vielfaltsprämien werden nach Abschluss der Kinoauswertung aufgrund einer Abrechnung über die anrechenbaren Vorführungen und Eintritte ausbezahlt.
+- 2\.1.2.2 Förderbar sind Filme, die in der ganzen Schweiz mindestens 2000 Kinoeintritte erzielen. Als sprachraumübergreifende Auswertung gilt eine zusätzliche Auswertung in der deutschen Schweiz mit 50 Vorführungen an drei Orten, in der französischen Schweiz mit 25 Vorführungen an zwei Orten oder in der italienischen Schweiz mit 14 Vorführungen. Pro Vorführung müssen durchschnittlich 10 Zuschauerinnen und Zuschauer anwesend sein. Die Förderung entfällt, sobald ein Film 60 000 Eintritte erreicht.
 
 ### 2.2 Kriterien der Förderung im Bereich Kino
 
-- 2\.2.1 *Vielfaltsprämien für die Programmation in den Kinos* *(Art. 14a Abs. 1 Bst. c)*
+- 2\.2.1 *Vielfaltsprämien für die Programmation in den Kinos (Art. 14a Abs. 1 Bst. c)*
 - 2\.2.1.1 Registrierte Vorführunternehmen, die durch ihre vielfältige Programmation einen wesentlichen Beitrag zur Angebotsvielfalt leisten, können eine Finanzhilfe (Vielfaltsprämie) beantragen. Die Vielfaltsprämien werden im Rahmen der bewilligten Kredite jährlich aufgrund der im Vorjahr vorgeführten Filmtitel, Eintritte und Vorstellungen pro Saal berechnet und ausbezahlt. Für grössere Städte gelten höhere Anforderungen an den Beitrag zur Angebotsvielfalt als für mittlere Städte oder Landregionen.
 - 2\.2.1.2
 
@@ -2193,10 +2302,10 @@ Anhang 3[^t-3]
 
   - a. Anzahl Filme, Kinoeintritte und Vorstellungen pro Saal nach Herkunftsland und Alter der Filme;
   - b. Anteile dieser Filme am Gesamtprogramm des Kinosaals;
-  - c. Standort der Kinos (grössere Stadt / mittlere Stadt / Land);
+  - c. Standort der Kinos (grössere Stadt / mittlere Stadt / Land).
 
 - 2\.2.2 *Vielfaltsprämien für Kinos mit Spezialprogrammen*
-- 2\.2.2.1 Registrierte Vorführunternehmen, die einen wesentlichen Beitrag zur Bedeutung der Kinos als kulturelle Begegnungsorte leisten, namentlich indem sie Podiumsdiskussionen organisieren und weiteren zielgruppenspezifischen Massnahmen durchführen, können eine Finanzhilfe beantragen. Diese werden im Rahmen der bewilligten Kredite aufgrund der Anzahl der im Vorjahr durchgeführter Massnahmen, der damit zusammenhängenden Eintritte und der Art der Filme berechnet. Für grössere Städte gelten höhere Anforderungen als für mittlere Städte oder Landregionen.
+- 2\.2.2.1 Registrierte Vorführunternehmen, die einen wesentlichen Beitrag zur Bedeutung der Kinos als kulturelle Begegnungsorte leisten, namentlich indem sie Podiumsdiskussionen organisieren und weitere zielgruppenspezifische Massnahmen durchführen, können eine Finanzhilfe beantragen. Diese Finanzhilfen werden im Rahmen der bewilligten Kredite aufgrund der Anzahl der im Vorjahr durchgeführten Massnahmen, der damit zusammenhängenden Eintritte und der Art der Filme berechnet. Für grössere Städte gelten höhere Anforderungen als für mittlere Städte oder Landregionen.
 - 2\.2.2.2
 
   Für die Berechnung der Vielfaltsprämien sind folgende Kriterien massgeblich:
@@ -2207,46 +2316,46 @@ Anhang 3[^t-3]
   - d. Art der Filme und Anzahl Kinoeintritte im Rahmen von Spezialprogrammen;
   - e. Standort der Kinos (grössere Stadt / mittlere Stadt / Land).
 
-### 2.3 Nicht geldwerte Massnahmen
+### 2.3 Unterstützung durch nicht geldwerte Leistungen
 
-- Das BAK kann zur Unterstützung der Qualität und der Vielfalt des Filmangebots auch nicht geldwerte Massnahmen ergreifen wie Beratung, Empfehlungen oder Patronate (Art. 13 Abs. 2 FiG).
+- Das BAK kann die Qualität und die Vielfalt des Filmangebots auch durch nicht geldwerte Leistungen unterstützen, beispielsweise durch Beratung, Empfehlungen oder Patronate (Art. 13 Abs. 2 FiG).
 
 Anhang 4[^t-4]
 
 (Art. 15 Abs. 4, 16 Abs. 2 und 18 Abs. 3)
 
-## Förderungskonzept 2021–2024 für die Förderung der Filmkultur und der Weiterbildung
+## Filmkultur und Weiterbildung: Förderungskonzept 2026–2028
 
-[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
+[^t-4]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Fassung gemäss Ziff. II der V des EDI vom 20. Nov. 2025, in Kraft vom 1. Jan. 2026 bis zum 31. Dez. 2028 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)und Art. 118 Abs 3).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
 ### 1.1 Evaluation
 
 - 1\.1.1 Über die Umsetzung der Filmförderungskonzepte, insbesondere über die Erreichung der nachfolgend aufgeführten Wirkungsziele, erstattet das BAK periodisch Bericht.
-- 1\.1.2 Die Schlussevaluation erfolgt durch externe Fachleute.
-- 1\.1.3 Für die Periode 2021−2024 wird die Wirksamkeit der Massnahmen zur Promotion des Schweizer Filmschaffens im In- und im Ausland schwerpunktmässig evaluiert.
+- 1\.1.2 Die Schlussevaluation erfolgt soweit möglich durch externe Fachleute.
+- 1\.1.3 Für die Periode 2026−2028 wird die Wirksamkeit der Massnahmen zur Promotion des Schweizer Filmschaffens im Inland schwerpunktmässig evaluiert.
 
 ### 1.2 Ziele im Bereich Filmkultur
 
-- 1\.2.1 Professionell arbeitende, schweizweit aktive filmkulturelle Organisationen in den Bereichen Festivals, Filmvermittlung, Filmpromotion sollen gestärkt werden.
+- 1\.2.1 Professionell arbeitende, schweizweit aktive filmkulturelle Organisationen in den Bereichen Festivals, Filmvermittlung und Filmkritik sollen gestärkt werden.
 - 1\.2.2
 
   Indikatoren für die Erreichung dieses Ziels sind:
 
   - a. Qualifikation und Lohnbedingungen, insbesondere der Schlüsselpositionen wie Geschäftsleitung, Programmation, Redaktion, Kommunikation und Technik;
   - b. Eigenwirtschaftlichkeitsgrad;
-  - c. Synergien durch Kooperationen mit Drittorganisation im In- und Ausland.
+  - c. Synergien durch Kooperationen mit Drittorganisationen im In- und Ausland.
 
 - 1\.2.3 Die Auseinandersetzung mit dem aktuellen nationalen und internationalen Filmschaffen soll für die ganze Bevölkerung möglich sein.
 - 1\.2.4
 
   Indikatoren für die Erreichung dieses Ziels sind:
 
-  - a. Anzahl der Aktivitäten (Festivals, Publikationen, Veranstaltungen, Vorführungen);
+  - a. Anzahl Aktivitäten (Festivals, Publikationen, Veranstaltungen, Vorführungen);
   - b. Eintritte, Auflage oder Nutzungsintensität nach Sprache und regionaler Herkunft des Publikums;
   - c. Anzahl sprachübergreifender Vermittlungsaktivitäten;
-  - d. Anzahl Aktivitäten nach Art und Zielgruppe
+  - d. Anzahl Aktivitäten nach Art und Zielgruppe.
 
 - 1\.2.5 Der Bevölkerung soll namentlich an Filmfestivals ein vielfältiges, qualitativ hochstehendes Filmangebot zugänglich sein.
 - 1\.2.6
@@ -2254,31 +2363,50 @@ Anhang 4[^t-4]
   Indikatoren für die Erreichung dieses Ziels sind:
 
   - a. Herkunft der gezeigten Filme;
-  - b. Geschlecht der Regie;
+  - b. Verhältnis der Anzahl Filme von Regisseurinnen und der Anzahl Filme von Regisseuren;
   - c. Anzahl neuer Filme und Retrospektiven;
   - d. Auswahlkriterien der Programmation;
   - e. Besucherzahlen insgesamt und pro Film und Festival.
 
-### 1.3 Ziele im Bereich Weiterbildung
+### 1.3 Ziele im Bereich Filmpromotion
 
-- 1\.3.1 Der Nachwuchs soll im Rahmen von Stages professionell begleitet und betreut werden, um die Kontinuität und die Entwicklungsfähigkeit des Schweizer Filmschaffens, speziell auch in den neuen Auswertungsformen, zu gewährleisten.
+- 1\.3.1 Das Schweizer Filmschaffen und die Schweizer Film- und Kinokultur sollen im Inland stärker sichtbar sein.
 - 1\.3.2
 
   Indikatoren für die Erreichung dieses Ziels sind:
 
+  - a. Marktanteile, Abrufzahlen und Einschaltquoten;
+  - b. Reichweite der entsprechenden Promotionskampagnen;
+  - c. Anzahl Partner, die an Promotionskampagnen teilgenommen haben.
+
+### 1.4 Ziele im Bereich Weiterbildung
+
+- 1\.4.1 Der Nachwuchs soll im Rahmen von Stages professionell begleitet und betreut werden, um die Kontinuität und die Entwicklungsfähigkeit des Schweizer Filmschaffens, namentlich auch in den neuen Auswertungsformen, zu gewährleisten.
+- 1\.4.2
+
+  Indikatoren für die Erreichung dieses Ziels sind:
+
   - a. Anzahl Stages bei Filmproduktionen;
-  - b. Geschlecht des oder der Stagiaire;
+  - b. Anzahl Frauen und Anzahl Männer, die einen Stage absolvieren;
   - c. berufliche Integration nach Abschluss der Stages.
 
-- 1\.3.3 Professionelle Filmschaffende aus den Bereichen Herstellung, Auswertung und Vermittlung sollen die Möglichkeit haben, sich kontinuierlich und bedürfnisgerecht weiterzubilden, damit das Schweizer Filmschaffen international wettbewerbsfähig bleibt.
-- 1\.3.4 Indikator für die Erreichung dieses Ziels sind die Anzahl und die Art der Weiterbildungen sowie die Anzahl Teilnehmender und deren Zufriedenheit.
+- 1\.4.3 Nachwuchsproduzentinnen und -produzenten sollen bei der Entwicklung geförderter Projekte und bei der Vorbereitung der Dreharbeiten professionell begleitet werden.
+- 1\.4.4
+
+  Indikatoren für die Erreichung dieses Ziel sind:
+
+  - a. Anzahl durchgeführter Nachwuchsbegleitungen;
+  - b. Anzahl abgeschlossener Projekte und Dreharbeiten.
+
+- 1\.4.5 Professionelle Filmschaffende aus den Bereichen Herstellung, Auswertung und Vermittlung sollen die Möglichkeit haben, sich kontinuierlich und bedürfnisgerecht weiterzubilden, damit das Schweizer Filmschaffen international wettbewerbsfähig bleibt.
+- 1\.4.6 Indikator für die Erreichung dieses Ziels sind die Anzahl und die Art der Weiterbildungen sowie die Anzahl Teilnehmender und deren Zufriedenheit.
 
 ### 2 Kriterien
 
 ### 2.1 Kriterien der Förderung der Filmkultur
 
 - 2\.1.1 *Förderung von filmkulturellen Organisationen*
-- 2\.1.1.1 Der Bund kann Finanzhilfen an die Betriebskosten von Organisationen wie Festivals, Publikationen und filmkulturellen Institutionen bewilligen, die durch ihre Aktivitäten dauerhaft oder wiederkehrend einen wichtigen Beitrag zur Verbreitung der Filmkultur und zur Promotion des Schweizer Filmschaffens leisten. Zur Verbesserung der sprachraumübergreifenden Wahrnehmung sollen Tätigkeiten, die vom Bund mit einem Beitrag von mehr als einem Drittel der Kosten gefördert werden, sich in der Kommunikation mit der Öffentlichkeit mindestens zweier Landessprachen bedienen und einen barrierefreien Zugang zu den von ihnen vermittelten Inhalten und Angebote sicherstellen.
+- 2\.1.1.1 Der Bund kann Finanzhilfen an die Betriebskosten von filmkulturellen Organisationen und Institutionen wie Festivals und Publikationen bewilligen, die durch ihre Aktivitäten dauerhaft oder wiederkehrend einen wichtigen Beitrag zur Verbreitung der Filmkultur und zur Promotion des Schweizer Filmschaffens leisten. Zur Verbesserung der sprachraumübergreifenden Wahrnehmung sollen Tätigkeiten, die vom Bund mit einem Beitrag von mehr als einem Drittel der Kosten gefördert werden, sich in der Kommunikation mit der Öffentlichkeit mindestens zweier Landessprachen bedienen und einen barrierefreien Zugang zu den von ihnen vermittelten Inhalten und Angeboten sicherstellen.
 - 2\.1.1.2
 
   Gefördert werden namentlich filmkulturelle Bestrebungen, die wesentlich dazu beitragen, dass:
@@ -2286,8 +2414,9 @@ Anhang 4[^t-4]
   - a. der Öffentlichkeit relevante Daten und objektive Informationen über das Schweizer Filmschaffen zur Verfügung stehen;
   - b. das aktuelle Schweizer Filmschaffen vertieft und kritisch analysiert und darüber möglichst breit berichtet wird;
   - c. das Verständnis für das Medium Film in der Schweizer Bevölkerung gefördert wird und die kritische Auseinandersetzung damit zunimmt, insbesondere bei Kindern und Jugendlichen;
-  - d. der Zugang insbesondere zu Schweizer Filmen und zu qualitativ hochstehenden ausländischen Filmen erleichtert wird;
-  - e. die Vernetzung unter den Schweizer Filmschaffenden und die internationale Zusammenarbeit verbessert werden.
+  - d. das Schweizer Filmschaffen für die Schweizer Bevölkerung sichtbar ist und vom Publikum im In- und Ausland wahrgenommen wird;
+  - e. der Zugang zu Schweizer Filmen und zu qualitativ hochstehenden ausländischen Filmen erleichtert wird;
+  - f. die Vernetzung unter den Schweizer Filmschaffenden und die internationale Zusammenarbeit verbessert werden.
 
 - 2\.1.1.3 Die Finanzhilfen werden in der Regel aufgrund einer Leistungsvereinbarung zwischen der Organisation und dem BAK ausgerichtet (Art. 52). Kommen mehrere Organisationen für eine Leistungsvereinbarung in Frage, so erfolgt die Auswahl aufgrund einer Ausschreibung. Für die Evaluation der Gesuche können Expertinnen und Experten beigezogen werden. Die Leistungsvereinbarungen werden vom BAK jeweils für mehrere Jahre abgeschlossen.
 - 2\.1.1.4
@@ -2301,11 +2430,11 @@ Anhang 4[^t-4]
   - e. Kooperation mit anderen Akteurinnen und Akteuren im Tätigkeitsbereich;
   - f. Beitrag zur Promotion des Schweizer Filmschaffens und zur Vernetzung der Schweizer Filmschaffenden;
   - g. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags;
-  - h. Berücksichtigung von Diversität und nachhaltige Umgang mit Ressourcen.
+  - h. Berücksichtigung von Diversität und nachhaltiger Umgang mit Ressourcen.
 
-- 2\.2.2 *Einzelprojektförderung*
-- 2\.2.2.1 Der Bund kann Finanzhilfen an die Projektkosten für filmkulturelle Aktivitäten bewilligen, die zur Erhaltung, zur Entwicklung oder zur Verbreitung der Filmkultur sowie zur nationalen und internationalen Zusammenarbeit beitragen. Projekte, die besonders innovativ sind, werden bevorzugt. Dasselbe Projekt kann höchstens während drei Jahren gefördert werden.
-- 2\.2.2.2
+- 2\.1.2 *Einzelprojektförderung*
+- 2\.1.2.1 Der Bund kann Finanzhilfen an die Projektkosten für filmkulturelle Aktivitäten bewilligen, die zur Erhaltung, zur Entwicklung oder zur Verbreitung der Filmkultur sowie zur nationalen und internationalen Zusammenarbeit beitragen. Projekte, die besonders innovativ sind, werden bevorzugt. Ein Projekt kann höchstens während drei Jahren gefördert werden.
+- 2\.1.2.2
 
   Bei der Förderung filmkultureller Projekte sind insbesondere folgende Kriterien massgeblich:
 
@@ -2315,18 +2444,32 @@ Anhang 4[^t-4]
   - d. nationale oder überregionale Ausstrahlung;
   - e. Notwendigkeit und Verhältnismässigkeit des beantragten Beitrags;
   - f. Nachhaltigkeitseffekte;
-  - g. Berücksichtigung des nachhaltigen Umgangs mit Ressourcen.
+  - g. nachhaltiger Umgang mit Ressourcen.
 
-- 2\.2.3 *Nicht geldwerte Massnahmen*
-- Das BAK kann zur Unterstützung filmkultureller Bestrebungen, insbesondere zur Sensibilisierung der Bevölkerung für die Schweizer Filmkultur und das Schweizer Filmschaffen, auch nicht geldwerte Massnahmen ergreifen wie Beratung, Empfehlungen oder Patronate (Art. 13 Abs. 2 FiG).
-- 2\.2.4 *Filmpreis*
-- Das BAK fördert die Auszeichnung von Abschlussfilmen und richtet Finanzhilfen an Filmschaffende aus, deren Abschlussfilm für den Filmpreis nominiert ist. Das Verfahren richtet sich nach den Bestimmungen der Verordnung des EDI vom 30. September 2004[^annex4-lvlu1-lvl2-lvl21-1] über den Schweizer Filmpreis.
+- 2\.1.3 *Unterstützung durch nicht geldwerte Leistungen*
+- Das BAK kann filmkulturelle Bestrebungen, insbesondere zur Sensibilisierung der Bevölkerung für die Schweizer Filmkultur und das Schweizer Filmschaffen, auch durch nicht geldwerte Leistungen unterstützen, beispielsweise durch Beratung, Empfehlungen oder Patronate (Art. 13 Abs. 2 FiG).
+- 2\.1.4 *Filmpreis*
+- Das BAK fördert die Auszeichnung von Abschlussfilmen und richtet Finanzhilfen an Filmschaffende aus, deren Abschlussfilm für den Schweizer Filmpreis nominiert ist. Das Verfahren richtet sich nach der Verordnung des EDI vom 30. September 2004[^annex4-lvlu1-lvl2-lvl21-1] über den Schweizer Filmpreis.
 
-[^annex4-lvlu1-lvl2-lvl21-1]: [SR 443.116](https://fedlex.data.admin.ch/eli/cc/2004/654)
+[^annex4-lvlu1-lvl2-lvl21-1]: [SR 443.116](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7141)
+
+### 2.2 Kriterien der Förderung der Filmpromotion
+
+- 2\.2.1 Der Bund leistet Strukturbeiträge an die Stiftung «Swiss Films» für das Konzipieren, Organisieren und Umsetzen von Promotionsmassnahmen für Schweizer Filme und Koproduktionen im Inland und den Betrieb der Filmdatenbank. Beim Abschluss der Leistungsvereinbarung ist sicherzustellen, dass die Massnahmen zur Promotion des Schweizer Films im In- und Ausland mit den Massnahmen für die internationale Präsenz des Schweizer Films nach der IPFiV[^annex4-lvlu1-lvl2-lvl22-1] koordiniert sind.
+- 2\.2.2
+
+  Zudem ist auf folgende Prioritäten zu achten:
+
+  - a. Wirksamkeit, Qualität und Professionalität der Promotionsmassnahmen durch fortlaufende Evaluation;
+  - b. Abstimmung der Promotionsmassnahmen auf das jeweilige Zielpublikum der Filme;
+  - c. Breitenwirksamkeit der Massnahmen;
+  - d. Berücksichtigung der Branchenbedürfnisse und Zusammenarbeit mit weiteren Partnern.
+
+[^annex4-lvlu1-lvl2-lvl22-1]: [SR 443.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7144)
 
 ### 2.3 Kriterien der Förderung der Weiterbildung
 
-- 2\.3.1 Der Bund leistet Strukturbeiträge an die Stiftung «FOCAL» für das Konzipieren, das Organisieren und das Anbieten von Weiterbildungen für die in den verschiedenen Filmberufen Tätigen. Beim Abschluss der Leistungsvereinbarung ist sicherzustellen, dass Filmschaffende aus allen Landesteilen Zugang zum Weiterbildungsangebot haben und dass der Zugang möglichst barrierefrei ist.
+- 2\.3.1 Der Bund leistet Strukturbeiträge an die Stiftung «FOCAL» für das Konzipieren, Organisieren und Anbieten von Weiterbildungen für die in den verschiedenen Filmberufen tätigen Personen. Beim Abschluss der Leistungsvereinbarung ist sicherzustellen, dass Filmschaffende aus allen Landesteilen Zugang zum Weiterbildungsangebot haben und dass der Zugang möglichst barrierefrei ist.
 - 2\.3.2
 
   Zudem ist auf folgende Prioritäten zu achten:
@@ -2338,25 +2481,25 @@ Anhang 4[^t-4]
   - e. Auswahl der Teilnehmenden aufgrund von Eignung, Erfahrung und Vorbildung;
   - f. Einbezug technischer und produktioneller Entwicklungen;
   - g. Vernetzung und Koordination mit anderen Institutionen, insbesondere im Ausland;
-  - h. Berücksichtigung des nachhaltigen Umgangs mit Ressourcen.
+  - h. nachhaltiger Umgang mit Ressourcen.
 
 Anhang 5[^t-5]
 
 (Art. 18 Abs. 2)
 
-## Förderungskonzept 2021–2024 für die Erhaltung des Schweizer Filmerbes
+## Erhaltung des Schweizer Filmerbes: Förderungskonzept 2026–2028
 
-[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). In Kraft bis 31. Dez. 2025 (siehe Art. 118 Abs. 4).
+[^t-5]: Eingefügt durch Ziff. II Abs. 2 der V des EDI vom 18. Nov. 2020 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Fassung gemäss Ziff. II der V des EDI vom 20. Nov. 2025, in Kraft vom 1. Jan. 2026 bis zum 31. Dez. 2028 ([AS 2025 840](https://fedlex.data.admin.ch/eli/oc/2025/840)und Art. 118 Abs 3).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
 ### 1.1 Evaluation
 
 - 1\.1.1 Über die Umsetzung der Filmförderungskonzepte, insbesondere über die Erreichung des nachfolgend aufgeführten Wirkungsziels, erstattet das BAK periodisch Bericht.
-- 1\.1.2 Die Schlussevaluation erfolgt durch externe Fachleute.
-- 1\.1.3 Für die Periode 2021–2024 wird der Bereich audiovisuelles Erbe der Schweiz mit Fokus auf den Zugang zum audiovisuellen Erbe schwerpunktmässig evaluiert.
+- 1\.1.2 Die Schlussevaluation erfolgt soweit möglich durch externe Fachleute.
+- 1\.1.3 Für die Periode 2026–2028 wird der Bereich audiovisuelles Erbe der Schweiz mit Fokus auf die öffentliche Verfügbarkeit des audiovisuellen Erbes schwerpunktmässig evaluiert.
 
-### 1.2 Ziele im Bereich Filmerbe
+### 1.2 Ziel im Bereich Filmerbe
 
 - 1\.2.1 Das aktuelle Schweizer Filmschaffen und das audiovisuelle Erbe der Schweiz sollen gesammelt, archiviert, inventarisiert, restauriert und in gutem Zustand für künftige Generationen erhalten sowie der Öffentlichkeit erschlossen und zugänglich gemacht werden.
 - 1\.2.2
@@ -2365,13 +2508,13 @@ Anhang 5[^t-5]
 
   - a. Inventarisierungsgrad der Sammlung;
   - b. Umsetzungsgrad der Archivierung;
-  - c. Anzahl öffentlich zugänglich gemachter Filme nach Art der Auswertung (Kino, Festivals, Online usw.);
-  - d. Anzahl restaurierter Filme.
+  - c. Anzahl öffentlich zugänglich gemachter Filme nach Art der Auswertung (Kino, Festivals, online usw.);
+  - d. Anzahl restaurierter und digitalisierter Filme.
 
-### 2 Kriterien für Finanzhilfen an die Sammlung, die Erhaltung und die Restaurierung des Filmerbes
+### 2 Prioritäten bei der Verwendung der Finanzhilfen an die Sammlung, Erhaltung, Restaurierung und Digitalisierung des Filmerbes
 
-- 2\.1 Der Bund leistet Strukturbeiträge an die Stiftung «Cinémathèque Suisse» für das Sammeln, das Archivieren, das Inventarisieren, das Restaurieren, das Erschliessen und das Zugänglichmachen des audiovisuellen Erbes der Schweiz. Beim Abschluss der Leistungsvereinbarung ist darauf zu achten, dass folgende Prioritäten eingehalten werden:
-- 2\.1.1 Es sollen insbesondere Filme mit einem Bezug zur Schweiz (Helvetica), erworben und gesammelt werden. Priorität haben dabei Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen, namentlich solche, die vom Bund gefördert und deshalb der Stiftung «Cinémathèque Suisse» übergeben wurden.
-- 2\.1.2 Gefährdeten Helvetica soll bei Restaurierungen Priorität zukommen. Die übrigen Bestände sind nach Massgabe ihrer Einzigartigkeit und nach Dringlichkeit zu restaurieren.
+- 2\.1 Der Bund leistet Strukturbeiträge an die Stiftung «Cinémathèque Suisse» für das Sammeln, Archivieren, Inventarisieren, Restaurieren, Digitalisieren, Erschliessen und Zugänglichmachen des audiovisuellen Erbes der Schweiz. Beim Abschluss der Leistungsvereinbarung ist darauf zu achten, dass folgende Prioritäten eingehalten werden:
+- 2\.1.1 Es sollen insbesondere Filme mit einem Bezug zur Schweiz (Helvetica) erworben und gesammelt werden. Priorität haben dabei Schweizer Filme und anerkannte schweizerisch-ausländische Koproduktionen, namentlich solche, die vom Bund gefördert und deshalb der Stiftung «Cinémathèque Suisse» übergeben wurden.
+- 2\.1.2 Gefährdeten Helvetica soll bei Restaurierungen und Digitalisierungen Priorität zukommen. Die übrigen Bestände sind entsprechend ihrer Einzigartigkeit und nach Dringlichkeit zu restaurieren oder zu digitalisieren.
 - 2\.1.3 Es soll eine Langzeitarchivierungsstrategie erarbeitet werden, welche die Perspektiven für die langfristige Erhaltung des Schweizer Filmerbes aufzeigt und Massnahmen zur Umsetzung definiert.
-- 2\.1.4 Die «Cinémathèque Suisse» berücksichtigt bei der Umsetzung ihrer Aufgaben den Grundsatz eines nachhaltigen Umgangs mit Ressourcen.
+- 2\.1.4 Die Stiftung «Cinémathèque Suisse» berücksichtigt bei der Umsetzung ihrer Aufgaben den Grundsatz eines nachhaltigen Umgangs mit Ressourcen.
