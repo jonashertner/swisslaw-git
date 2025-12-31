@@ -3,20 +3,19 @@ canton: OW
 number: "131.21"
 title: Verordnung über das Staatsarchiv
 language: de
-version: 2023-09-01
-valid_until: 2025-12-31
-version_adopted: 2023-06-30
+version: 2026-01-01
+version_adopted: 2025-10-23
 adopted: 1996-10-18
 in_force: 1997-01-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/131.21"
-pdf: "http://gdb.ow.ch/api/de/versions/1826/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1948/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Staatsarchiv
 
-vom 18.10.1996 (Stand 01.09.2023)
+vom 18.10.1996 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons Obwalden,
 
@@ -121,7 +120,7 @@ beschliesst:
 
 **Freie Einsichtnahme und Schutzfrist**
 
-<sup>1</sup> Unterlagen, welche bereits vor ihrer Ablieferung in das Staatsarchiv öffentlich zugänglich waren, bleiben öffentlich zugänglich. Die Landsgemeinde- und Kantonsratsprotokolle sind ohne Beschränkung einsehbar, ausgenommen die Kantonsratsprotokolle über Verhandlungen, die unter Ausschluss der Öffentlichkeit stattfanden.
+<sup>1</sup> Unterlagen, welche bereits vor ihrer Ablieferung in das Staatsarchiv öffentlich zugänglich waren, bleiben öffentlich und können über ein Archivportal im Internet zugänglich gemacht werden.
 
 <sup>2</sup> Im übrigen steht das Archivgut der Öffentlichkeit, unter Vorbehalt besonderer gesetzlicher Bestimmungen und von Art. 10 dieser Verordnung, nach Ablauf einer Schutzfrist von 30 Jahren zur Einsichtnahme zur Verfügung.
 
@@ -205,6 +204,8 @@ geändert durch
 
 \- das Allgemeine Gebührengesetz vom 21. April 2005, in Kraft seit 1. Juli 2005 (OGS 2005, 29),
 
-\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26)
+\- Nachtrag zum Gesetz über den Datenschutz vom 30. Juni 2023 (OGS 2023, 21), Botschaft und Vorlage des Regierungsrats vom 27. März 2023, Kantonsratssitzungen vom 25. Mai und 30. Juni 2023 (22.23.01), in Kraft seit 1. September 2023 (OGS 2023, 26),
+
+\- das Gesetz über das Amtsblatt und die Gesetzessammlungen vom 23. Oktober 2025 (OGS 2025, 18), Botschaft und Vorlage des Regierungsrats vom 3. Juni 2005, Kantonsratssitzungen vom 11. September und 23. Oktober 2025 (22.25.04), in Kraft seit 1. Januar 2026 (OGS 2025, 23)
 
 OGS 1997, 33
