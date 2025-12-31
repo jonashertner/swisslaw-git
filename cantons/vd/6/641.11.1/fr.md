@@ -4,7 +4,7 @@ number: "641.11.1"
 title: "RÈGLEMENT du 09.12.2020 sur l'imposition à la source (RIS)"
 short: RIS
 language: fr
-version: 2021-01-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/641.11.1?id=d783fd0b-d4ec-460f-9fb7-394b14fbe2aa"
 ---
 
@@ -191,6 +191,28 @@ arrête
 <sup>3</sup> L'employeur qui ne reçoit pas l'attestation mentionnée à l'alinéa 2 est tenu de prélever l'impôt à la source conformément aux dispositions du présent règlement.
 
 <sup>4</sup> L'employeur doit remettre à la commune de son siège ou de son établissement stable ainsi qu'à l'Administration cantonale des impôts, une liste de ses employés frontaliers au sens de l'Accord précité. Cette liste doit être fournie dans les formes et selon les modalités fixées par l'Administration cantonale des impôts.
+
+#### Art. 15a
+
+**Attestation en cas de résiliation en cours d'année des rapports de travail d'un travailleur domicilié en France [^15-1]**
+
+<sup>1</sup> En cas de résiliation en cours d'année des rapports de travail avec un travailleur domicilié en France qui, sans être domicilié ni en séjour en Suisse au regard du droit fiscal, exerce une activité lucrative dépendante dans le canton, notamment pour de courtes périodes, durant la semaine ou comme frontalier (art. 138 LI), l'employeur délivre au dit travailleur, à sa demande, une attestation conformément à l'article 177, alinéa 3 LI.
+
+<sup>2</sup> L'employeur concerné fournit cette attestation dans la forme et selon les modalités fixées par l'article 5a de l'Ordonnance du 11avril 2018 du DFF sur l'imposition à la source dans le cadre de l'impôt fédéral direct (OIS) au moment de la fin des rapports de travail.
+
+[^15-1]: Modif. 1 du 17.12.2025: Introduction tArt; entrée en vigueur au 01.01.2026; Introduction Al. 1-2; entrée en vigueur au 01.01.2026; Introduction Art. 15a; entrée en vigueur au 01.01.2026
+
+#### Art. 15b
+
+**Attestation sur les données salariales relatives aux travailleurs domiciliés dans un pays avec lequel existe un échange automatique de renseignements [^15a-1]**
+
+<sup>1</sup> Lorsqu'un accord fiscal international prévoit l'échange automatique de renseignements sur les données salariales relatives à un travailleur qui, sans être domicilié ni en séjour en Suisse au regard du droit fiscal, exerce une activité lucrative dépendante dans le canton, notamment pour de courtes périodes, durant la semaine ou comme frontalier (art. 138 LI), l'employeur a l'obligation de remettre à l'Administration cantonale des impôts une attestation dans les formes et selon les modalités fixées par celle-ci.
+
+<sup>2</sup> L'attestation mentionnée à l'alinéa 1 peut être transmise à l'autorité fiscale par voie électronique.
+
+<sup>3</sup> L'employeur adresse un double de cette attestation au travailleur concerné.
+
+[^15a-1]: Modif. 1 du 17.12.2025: Introduction tArt; entrée en vigueur au 01.01.2026; Introduction Al. 1-3; entrée en vigueur au 01.01.2026; Introduction Art. 15b; entrée en vigueur au 01.01.2026
 
 ## Chapitre IV Dispositions communes
 
