@@ -3,11 +3,10 @@ canton: ZH
 number: "732.15"
 title: Allgemeine Bedingungen der Elektrizitätswerke des Kantons Zürich (EKZ) für Endverbraucher und Produzenten
 language: de
-version: "2025-01-01"
-nachtrag: "127"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2008-09-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_15-2008_09_08-2009_01_01-127.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-732_15-2008_09_08-2009_01_01-131.html"
 text: pdf
 ---
 
@@ -29,30 +28,31 @@ beschliesst:
 
 ### Teil 1: Allgemeine Bestimmungen
 
-Art. 1 Grundlagen und Geltungsbereich 1.1[^hTeil1AllgemeineB-1] Diese Allgemeinen Bedingungen gelten für Endverbraucher und Produzenten, welche direkt an das Verteilnetz der EKZ angeschlossen sind, nachstehend Kunden genannt. Sie gelten für die Nutzung des Netzes der EKZ (Netznutzung), für die Grundversorgung, für die Einspeisung von Elektrizität und für die Ersatzversorgung mit Elektrizität. Sie bilden zusammen mit den auf die Gesetzgebung gestützten Verordnungen und den erlassenen Vorschriften, allfälligen vertraglichen Regelungen bezüglich Rücklieferung, dem allfällig individuell ausgestellten Netznutzungsvertrag, dem Netzanschlussvertrag und den jeweils gültigen Preis- und Tarifstrukturen die Grundlage des Rechtsverhältnisses zwischen den EKZ und ihren Kunden.
+Art. 1 Grundlagen und Geltungsbereich 1.1[^hTeil1AllgemeineB-1] Diese Allgemeinen Bedingungen gelten für Endverbraucher und Produzenten, welche direkt an das Verteilnetz der EKZ angeschlossen sind, nachstehend Kunden genannt. Sie gelten für die Nutzung des Netzes der EKZ (Netznutzung), das Messwesen, für die Grundversorgung, für die Einspeisung von Elektrizität und für die Ersatzversorgung mit Elektrizität. Sie bilden zusammen mit den auf die Gesetzgebung gestützten Verordnungen und den erlassenen Vorschriften, allfälligen vertraglichen Regelungen bezüglich Rücklieferung, dem allfällig individuell ausgestellten Netznutzungsvertrag, dem Netzanschlussvertrag und den jeweils gültigen Preis- und Tarifstrukturen die Grundlage des Rechtsverhältnisses zwischen den EKZ und ihren Kunden.
 
 Für die Produzenten gelten insbesondere die Bestimmungen im Teil 5.
 
-1.2[^hTeil1AllgemeineB-2] 1.3[^hTeil1AllgemeineB-1] In besonderen Fällen, wie zum Beispiel bei vorübergehender Energielieferung (Baustellen, Ausstellungen, Festanlässe), bei Bereitstellung und Lieferung von Ersatzenergie, bei Energielieferung an Kunden mit Erzeugungsanlagen können besondere Bedingungen vereinbart werden. In diesen Fällen gelten die vorliegenden allgemeinen Bedingungen und Preis-/Tarifstrukturen nur insoweit, als nichts Abweichendes festgesetzt oder vereinbart worden ist. 1.4 . . .[^hTeil1AllgemeineB-3] 1.5 Diese allgemeinen Bedingungen können auf der Homepage der EKZ, www.ekz.ch, eingesehen bzw. heruntergeladen werden.
+1.2[^hTeil1AllgemeineB-2] 1.3[^hTeil1AllgemeineB-3] In besonderen Fällen, wie zum Beispiel bei vorübergehender Energielieferung (Baustellen, Ausstellungen, Festanlässe), bei Bereitstellung und Lieferung von Ersatzenergie, bei Energielieferung an Kunden mit Erzeugungsanlagen können besondere Bedingungen vereinbart werden. In diesen Fällen gelten die vorliegenden allgemeinen Bedingungen und Preis-/Tarifstrukturen nur insoweit, als nichts Abweichendes festgesetzt oder vereinbart worden ist. 1.4 . . .[^hTeil1AllgemeineB-4] 1.5 Diese allgemeinen Bedingungen können auf der Homepage der EKZ, www.ekz.ch, eingesehen bzw. heruntergeladen werden.
 
 **1**
 
-- 1\. 1. 25 - 127 Vorbehalten bleiben die zwingenden bundesrechtlichen und kantonalen Bestimmungen.
+- 1\. 1. 26 - 131 Vorbehalten bleiben die zwingenden bundesrechtlichen und kantonalen Bestimmungen.
 
 **1.6**
 
 Art. 2 Begriffsbestimmungen
 
-**2.131**
+**2.137**
 
-[^hTeil1AllgemeineB-1]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
+[^hTeil1AllgemeineB-1]: Fassung gemäss gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
 [^hTeil1AllgemeineB-2]: Aufgehoben durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^hTeil1AllgemeineB-3]: Aufgehoben durch B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
-[^hTeil1AllgemeineB-4]: SR 734.71.
+[^hTeil1AllgemeineB-3]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
+[^hTeil1AllgemeineB-4]: Aufgehoben durch B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
+[^hTeil1AllgemeineB-5]: SR 734.71.
 
 ### Endverbraucher mit Grundversorgung (StromVV Art. 2 Abs. 1
 
-[^hTeil1AllgemeineB-4]
+[^hTeil1AllgemeineB-5]
 
 lit. f):
 
@@ -64,15 +64,17 @@ Endverbraucher mit einem Jahresverbrauch von 100 MWh und mehr pro Verbrauchsstä
 
 Freie Endverbraucher:
 
-Marktberechtigte Endverbraucher mit Netzzugang (StromVG[^hEndverbrauchermitG-1] Art. 13 Abs. 1), welche am freien Markt teilnehmen (StromVG[^hEndverbrauchermitG-1] Art. 6 Abs. 1 und 6 e contrario).
+Marktberechtigte Endverbraucher mit Netzzugang (StromVG Art. 13 Abs. 1), welche am freien Markt teilnehmen (StromVG Art. 6 Abs. 1 und 6 e contrario).
 
 Als Endverbraucher gelten auch solche, welche integriert in ihrer Verbrauchsstätte eine Energieerzeugungs- oder eine Speicheranlage betreiben.
 
-Ein Zusammenschluss zum Eigenverbrauch nach Art. 17 EnG[^hEndverbrauchermitG-2] wird in Bezug auf die Messeinrichtung, die Messung oder den Anspruch auf Netzzugang wie ein einziger Endverbraucher behandelt.
+Ein Zusammenschluss zum Eigenverbrauch nach EnG[^hEndverbrauchermitG-2] Art. 17 wird hinsichtlich des Elektrizitätsbezugs aus dem Netz wie ein einziger Endverbraucher / eine einzige Endverbraucherin behandelt. Wird ein Zusammenschluss auf Basis von EnV[^hEndverbrauchermitG-3] Art. 14 Abs. 3 gebildet, entsteht ein virtueller Zusammenschluss zum Eigenverbrauch (vZEV). Sämtliche Messeinrichtungen, die für die EKZ abrechnungsrelevant sind, sind im Verantwortungsbereich der EKZ.
+
+Lokale Elektrizitätsgemeinschaften (LEG):
+
+Endverbraucher, Erzeuger von Elektrizität aus erneuerbaren Energien und Speicherbetreiber können sich zu einer lokalen Elektrizitätsgemeinschaft zusammenschliessen und die selbst erzeugte Elektrizität innerhalb dieser Gemeinschaft absetzen. Als Kunden gelten:
 
 **2.231**
-
-Als Kunden gelten:
 
 - a. Bei Netzanschlüssen der Grundeigentümer oder Baurechtsberechtigte (Anschlussnehmer) der angeschlossenen Installationen.
 
@@ -80,29 +82,39 @@ Als Kunden gelten:
 
 - c. Bei Energielieferung der Eigentümer bzw. der Zusammenschluss zum Eigenverbrauch nach Art. 17 EnG[^hEndverbrauchermitG-2], bei Miet- oder Pachtverhältnissen der Mieter bzw. der Pächter von Grundstücken, Häusern, gewerblichen Räumen und Wohnungen mit elektrischen Installationen, deren Energieverbrauch über Messeinrichtungen erfasst oder in besonderen Fällen pauschal festgelegt wird.
 
-2.3 Besondere Bestimmungen:
+**2.337**
 
-- a. Mit Unter- und Kurzzeitmietern entsteht kein eigenes Rechtsverhältnis.
+Besondere Bestimmungen:
+
+- a. Mit Unter-, Kurzzeitmietern und in vergleichbaren Verhältnissen (beispielsweise Zimmervermietung in Einrichtungen wie Studentenwohnheimen, Campingplätzen sowie Hotels) entsteht kein eigenes Rechtsverhältnis.
 
 - b. In Liegenschaften mit häufigem Nutzerwechsel (mehr als ein Wechsel pro Jahr und Messeinrichtung) besteht das Rechtsverhältnis mit den Liegenschaftseigentümern.
 
 - c. In Liegenschaften mit mehreren Nutzern besteht das Vertragsverhältnis für den Allgemeinverbrauch (z.B. Treppenhausbeleuchtung, Lift, Waschküche, Tiefgarage usw.) mit dem Liegenschaftseigentümer oder dem von ihm bezeichneten Vertreter (Verwaltung oder Treuhänder).
 
-Art. 3[^hEndverbrauchermitG-3] Entstehung des Rechtsverhältnisses 3.1 Das Rechtsverhältnis mit dem Kunden entsteht in der Regel mit dem Anschluss der Installation an das Verteilnetz und/oder der Anmeldung für den Energiebezug. Bei Unterlassung der Anmeldung entsteht das Rechtsverhältnis mit der physischen Nutzung des Netzes der EKZ (Beginn des Elektrizitätsbezuges, der Netznutzung oder der Energierücklieferung). Soweit zwischen dem Kunden und den EKZ abweichende vertragliche Vereinbarungen getroffen werden, entsteht oder erneuert sich das Rechtsverhältnis mit Abschluss der Verträge.
+Art. 3[^hEndverbrauchermitG-4] Entstehung des Rechtsverhältnisses Das Rechtsverhältnis mit dem Kunden entsteht in der Regel mit dem Anschluss der Installation an das Verteilnetz und/oder der Anmeldung für den Energiebezug. Bei Unterlassung der Anmeldung entsteht das Rechtsverhältnis mit der physischen Nutzung des Netzes der EKZ (Beginn des Elektrizitätsbezuges, der Netznutzung, der Nutzung des Messwesens oder der Energierücklieferung). Soweit zwischen dem Kunden und den EKZ abweichende vertragliche Vereinbarungen getroffen werden, entsteht oder erneuert sich das Rechtsverhältnis mit Abschluss der Verträge.
 
-3.2 Die Energielieferung bzw. Netznutzung wird in der Regel aufgenommen, sobald die von den EKZ bezeichneten Vorleistungen des Kunden, wie Bezahlung des Anschlussbeitrags und dergleichen, erfüllt sind.
+**3.1**
 
-Art. 4 Beendigung des Rechtsverhältnisses 4.1[^hEndverbrauchermitG-3] Sofern z.B. in Tarifbestimmungen oder Verträgen nichts anderes geregelt ist, kann vom Kunden das Rechtsverhältnis mit einer Kündigungsfrist von mindestens drei Arbeitstagen durch schriftliche, elektronische oder mündliche Abmeldung beendet werden. Der Kunde hat die Energielieferung bzw. die Netznutzung inkl. Abgaben und Leistungen an Gemeinwesen und den Netzzuschlag nach Art. 35 Energiegesetz[^hEndverbrauchermitG-2] zu bezahlen sowie allfällige weitere Kosten, die bis zur Ablesung am Ende des Rechtsverhältnisses entstehen.
+**3.2**
 
-4.2 Die Nichtbenützung von elektrischen Geräten oder Anlageteilen wird nicht als Abmeldung verstanden und bewirkt keine Beendigung des Rechtsverhältnisses.
+Die Energielieferung bzw. Netznutzung inklusive Nutzung des Messwesens wird in der Regel aufgenommen, sobald die von den EKZ bezeichneten Vorleistungen des Kunden, wie Bezahlung des Anschlussbeitrags und dergleichen, erfüllt sind.
 
 **3**
 
-**4.626**
+**4.5**
 
-- 1\. 1. 25 - 127 Den EKZ ist unter Angabe des genauen Zeitpunktes schriftlich, elektronisch oder mündlich Meldung zu erstatten:
+- 1\. 1. 26 - 131 Art. 4 Beendigung des Rechtsverhältnisses Sofern z.B. in Tarifbestimmungen oder Verträgen nichts anderes geregelt ist, kann vom Kunden das Rechtsverhältnis mit einer Kündigungsfrist von mindestens drei Arbeitstagen durch schriftliche, elektronische oder mündliche Abmeldung beendet werden. Der Kunde hat die Energielieferung, die Netznutzung, die Kosten des Messwesen sowie alle Zuschläge, Abgaben sowie Gebühren zu bezahlen sowie allfällige weitere Kosten, die bis zur Ablesung am Ende des Rechtsverhältnisses entstehen.
+
+**4.137**
+
+**4.2**
+
+Die Nichtbenützung von elektrischen Geräten oder Anlageteilen wird nicht als Abmeldung verstanden und bewirkt keine Beendigung des Rechtsverhältnisses.
 
 **4.331**
+
+Den EKZ ist unter Angabe des genauen Zeitpunktes schriftlich, elektronisch oder mündlich Meldung zu erstatten:
 
 - a. Vom Verkäufer: der Eigentumswechsel einer Liegenschaft, einer Wohnung oder eines Geschäftsraums mit Angabe der Anschrift des Käufers inklusive der Identifikationsnummer gemäss Gebäude- und Wohnungsregister (GWR).
 
@@ -114,22 +126,32 @@ Art. 4 Beendigung des Rechtsverhältnisses 4.1[^hEndverbrauchermitG-3] Sofern z.
 
 - e. Vom Eigentümer der verwalteten Liegenschaft: der Wechsel in der Person oder Firma, welche die Liegenschaftsverwaltung besorgt, mit Angabe von deren Adresse.
 
-**4.431**
+**4.437**
 
-Kosten für Energieverbrauch, Netznutzung inkl. Abgaben und Leistungen an Gemeinwesen und Netzzuschlag nach Art. 35 Energiegesetz[^hEndverbrauchermitG-2] sowie allfällige weitere Kosten und Umtriebe, die nach Beendigung des Rechtsverhältnisses oder in leer stehenden Mieträumen sowie unbenutzten Anlagen anfallen, gehen zulasten des Eigentümers.
-
-**4.5**
+Kosten für Energieverbrauch, Netznutzung, Messwesen und alle Zuschläge, Abgaben sowie Gebühren wie auch allfällige weitere Kosten und Umtriebe, die nach Beendigung des Rechtsverhältnisses oder in leer stehenden Mieträumen sowie unbenutzten Anlagen anfallen, gehen zulasten des Eigentümers.
 
 Nach Beendigung des Rechtsverhältnisses kann der Liegenschaftseigentümer für leer stehende Mieträume und unbenutzte Anlagen die Demontage der Messeinrichtung auf seine Kosten verlangen. Eine spätere Wiedermontage geht ebenfalls zu seinen Lasten.
 
-Meldet der Grundeigentümer in Zusammenhang mit einem Zusammenschluss zum Eigenverbrauch nach Art. 17 EnG[^hEndverbrauchermitG-2] Mieter und Pächter als beteiligt an, gilt das Rechtsverhältnis zwischen den EKZ und diesen Mietern und Pächtern mit Beginn des Zusammenschlusses als beendet. Die Verantwortung für die rechtmässige Meldung von beteiligten Mietern und Pächtern sowie deren Information über die Konsequenzen über eine Beteiligung an einem Zusammenschluss obliegt dem Grundeigentümer. Art. 5[^hEndverbrauchermitG-3] Haftung 5.1 Die EKZ haften im Umfang des zwingenden Rechts. Jede weitergehende Haftung ist ausgeschlossen. Insbesondere übernehmen die EKZ keine Haftung für mittelbaren oder unmittelbaren Schaden, der aus Spannungs- oder Frequenzschwankungen, störenden Oberschwingungen im Netz sowie aus Unterbrechungen oder Einschränkungen der Stromabgabe oder Stromeinspeisung erwächst.
+4.6[^hEndverbrauchermitG-5] Meldet der Grundeigentümer in Zusammenhang mit einem Zusammenschluss zum Eigenverbrauch nach Art. 17 EnG[^hEndverbrauchermitG-2] Mieter und Pächter als beteiligt an, gilt das Rechtsverhältnis zwischen den EKZ und diesen Mietern und Pächtern mit Beginn des Zusammenschlusses als beendet. Die Verantwortung für die rechtmässige Meldung von beteiligten Mietern und Pächtern sowie deren Information über die Konsequenzen über eine Beteiligung an einem Zusammenschluss obliegt dem Grundeigentümer.
 
-Art. 5a[^hEndverbrauchermitG-3] Datenschutz[^hEndverbrauchermitG-4] 5a.1 Die EKZ halten sich bei der Bearbeitung von Personendaten ihrer Kunden wie z.B. Kundenstammdaten, Vertragsdaten, Verbrauchsdaten, Objektart, Gewerbeart und IBAN-Nr. an die anwendbaren datenschutzrechtlichen Bestimmungen. Weitere Informationen zum Datenschutz befinden sich in der Datenschutzerklärung der EKZ, welche auf der Homepage der EKZ, www.ekz.ch, abrufbar ist.
+Art. 5[^hEndverbrauchermitG-6] Haftung 5.1 Die EKZ haften im Umfang des zwingenden Rechts. Jede weitergehende Haftung ist ausgeschlossen. Insbesondere übernehmen die EKZ keine Haftung für mittelbaren oder unmittelbaren Schaden, der aus Spannungs- oder Frequenzschwankungen, störenden Oberschwingungen im Netz sowie aus Unterbrechungen oder Einschränkungen der Stromabgabe oder Stromeinspeisung erwächst.
+
+Art. 5a[^hEndverbrauchermitG-6] Datenschutz[^hEndverbrauchermitG-7] 5a.1 Die EKZ halten sich bei der Bearbeitung von Personendaten ihrer Kunden wie z.B. Kundenstammdaten, Vertragsdaten, Verbrauchsdaten, Objektart, Gewerbeart und IBAN-Nr. an die anwendbaren datenschutzrechtlichen Bestimmungen. Weitere Informationen zum Datenschutz befinden sich in der Datenschutzerklärung der EKZ, welche auf der Homepage der EKZ, www.ekz.ch, abrufbar ist.
+
+5a.2[^hEndverbrauchermitG-8] Die Grundeigentümer benennen einen Vertreter des Zusammenschlusses zum Eigenverbrauch (EnV[^hEndverbrauchermitG-3] Art. 18 Abs. 1 lit. a) gegenüber den EKZ. Dieser ist dafür verantwortlich, die Zustimmung der Teilnehmenden zur Weitergabe ihrer Messdaten bei einem virtuellen Zusammenschlusses zum Eigenverbrauch, bestehend aus verschiedenen Messpunkten der EKZ, einzuholen und zu verwalten. Dies hat der Vertreter insbesondere bei der Gründung, bei nachträglich hinzukommenden Teilnehmenden und bei einem Umzug von Teilnehmenden zu beachten. Mit der Anmeldung des virtuellen Zusammenschlusses zum Eigenverbrauch sind die EKZ somit berechtigt, die Daten der einzelnen Teilnehmer gemäss EnV[^hEndverbrauchermitG-3] Art. 18 Abs. 7 dem Vertreter des Zusammenschlusses des Eigenverbrauchs zuzustellen.
+
+**5**
+
+- 1\. 1. 26 - 131 Die Bestimmung zur Einholung und Verwaltung der Zustimmung der Teilnehmenden zur Weitergabe der Messdaten durch die EKZ gilt analog auch für den Vertreter einer LEG.
 
 [^hEndverbrauchermitG-1]: SR 734.7.
 [^hEndverbrauchermitG-2]: SR 730.0.
-[^hEndverbrauchermitG-3]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^hEndverbrauchermitG-4]: Fassung gemäss B vom 17. September 2019 (OS 74, 573; ABl 2019-09-27). In Kraft seit 1. Januar 2020.
+[^hEndverbrauchermitG-3]: SR 730.01.
+[^hEndverbrauchermitG-4]: Fassung gemäss gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
+[^hEndverbrauchermitG-5]: Eingefügt durch B vom 11. Juni 2018 (OS 73, 318; ABl 2018-07-06). In Kraft seit 1. Januar 2019.
+[^hEndverbrauchermitG-6]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
+[^hEndverbrauchermitG-7]: Fassung gemäss B vom 17. September 2019 (OS 74, 573; ABl 2019-09-27). In Kraft seit 1. Januar 2020.
+[^hEndverbrauchermitG-8]: Eingefügt durch gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
 
 ### Teil 2: Netzanschluss und Netznutzung
 
@@ -149,13 +171,11 @@ oder elektrischer Speicher mit dem Verteilnetz.
 
 6.2 . . .[^hTeil2Netzanschlus-2] 6.3 . . .[^hTeil2Netzanschlus-2] 6.4 . . .[^hTeil2Netzanschlus-2] 6.5 Das Netz ist für die Übertragung von Daten und Signalen der EKZ reserviert. Ausnahmen bedürfen der Bewilligung durch die EKZ und sind entschädigungspflichtig.
 
-**5**
+6.6[^hTeil2Netzanschlus-1] Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie:
 
-- 1\. 1. 25 - 127 Installationen und elektrische Verbraucher werden nur bewilligt und angeschlossen, wenn sie:
+- a. Den eidgenössischen und kantonalen Vorschriften und Ausführungsbestimmungen, den anerkannten Regeln der Technik (Normen) und den jeweils geltenden Werkvorschriften CH
 
-**6.631**
-
-- a. Den eidgenössischen und kantonalen Vorschriften und Ausführungsbestimmungen, den anerkannten Regeln der Technik (Normen) und den jeweils geltenden Werkvorschriften CH inkl. «Spezieller Bestimmung der EKZ» entsprechen.
+inkl. «Spezieller Bestimmung der EKZ» entsprechen.
 
 - b. Im normalen Betrieb elektrische Einrichtungen benachbarter Kunden sowie Fern-, Rundsteueranlagen und Kommunikationseinrichtungen der EKZ nicht störend beeinflussen.
 
@@ -207,29 +227,19 @@ Folgende Regelungen, verfügbar auf der EKZ-Homepage (www.ekz.ch), sind einzuhal
 
 . . .[^hTeil2Netzanschlus-3]
 
-Art. 7[^hTeil2Netzanschlus-2]
-
-Art. 8 Schutz von Personen und Werkanlagen Wenn in der Nähe eines Freileitungsanschlusses Arbeiten ausgeführt werden müssen (Fassadenrenovationen usw.), bei denen Personen durch die Zuleitungen gefährdet werden könnten, so installieren die EKZ einen provisorischen Kabelanschluss gegen einen angemessenen Kostenbeitrag.
-
-**8.1**
-
-**8.2**
-
-Werden durch den Kunden oder durch Dritte in der Nähe von elektrischen Anlagen Arbeiten irgendwelcher Art vorgenommen oder veranlasst, welche die Anlagen schädigen oder gefährden könnten (z.B. Baumfällen, Bauarbeiten, Sprengen usw.), ist dies den EKZ rechtzeitig vor Beginn der Arbeiten mitzuteilen. Die EKZ legen in Absprache mit dem Kunden oder den Dritten die erforderlichen Sicherheitsmassnahmen fest. Ohne Absprachen haften Kunden/Dritte für die Schäden an elektrischen Anlagen, die sich aus diesen Arbeiten ergeben könnten.
-
-**8.3**
-
-Beabsichtigt der Kunde oder ein Dritter, auf privatem oder öffentlichem Boden irgendwelche Grabarbeiten ausführen zu lassen, so hat er sich vorgängig bei den EKZ über die Lage allfälliger im Erdboden verlegter Kabelleitungen zu erkundigen. Die nötigen Planauskünfte (Katasterpläne) können auf der Internetseite www.ekz.ch heruntergeladen oder bei den entsprechenden Netzregionen der EKZ bestellt werden. Sind bei den Grabarbeiten Kabelleitungen zum Vorschein gekommen, so sind vor dem Zudecken die EKZ zu informieren, damit die Kabelleitungen kontrolliert, eingemessen und geschützt werden können.
-
 **7**
 
-- 1\. 1. 25 - 127 Art. 9 Qualität und Regelmässigkeit der Lieferung elektrischer Energie / Einschränkungen[^hTeil2Netzanschlus-1] Die EKZ liefern die Elektrizität in der Regel ununterbrochen innerhalb der üblichen Toleranzen für Nennspannung und Frequenz gemäss der Norm SN/EN 50160 «Merkmale der Spannung in öffentlichen Elektrizitätsversorgungsnetzen». Vorbehalten bleiben die nachstehenden Ausnahmebestimmungen.
+- 1\. 1. 26 - 131 Art. 7[^hTeil2Netzanschlus-2]
 
-**9.111**
+Art. 8 Schutz von Personen und Werkanlagen 8.1 Wenn in der Nähe eines Freileitungsanschlusses Arbeiten ausgeführt werden müssen (Fassadenrenovationen usw.), bei denen Personen durch die Zuleitungen gefährdet werden könnten, so installieren die EKZ einen provisorischen Kabelanschluss gegen einen angemessenen Kostenbeitrag.
 
-**9.231**
+8.2 Werden durch den Kunden oder durch Dritte in der Nähe von elektrischen Anlagen Arbeiten irgendwelcher Art vorgenommen oder veranlasst, welche die Anlagen schädigen oder gefährden könnten (z.B. Baumfällen, Bauarbeiten, Sprengen usw.), ist dies den EKZ rechtzeitig vor Beginn der Arbeiten mitzuteilen. Die EKZ legen in Absprache mit dem Kunden oder den Dritten die erforderlichen Sicherheitsmassnahmen fest. Ohne Absprachen haften Kunden/Dritte für die Schäden an elektrischen Anlagen, die sich aus diesen Arbeiten ergeben könnten.
 
-Die EKZ haben ohne Kostenfolge insbesondere das Recht, die Lieferung elektrischer Energie, die Netznutzung oder die Energieeinspeisung einzuschränken oder ganz einzustellen:
+8.3 Beabsichtigt der Kunde oder ein Dritter, auf privatem oder öffentlichem Boden irgendwelche Grabarbeiten ausführen zu lassen, so hat er sich vorgängig bei den EKZ über die Lage allfälliger im Erdboden verlegter Kabelleitungen zu erkundigen. Die nötigen Planauskünfte (Katasterpläne) können auf der Internetseite www.ekz.ch heruntergeladen oder bei den entsprechenden Netzregionen der EKZ bestellt werden. Sind bei den Grabarbeiten Kabelleitungen zum Vorschein gekommen, so sind vor dem Zudecken die EKZ zu informieren, damit die Kabelleitungen kontrolliert, eingemessen und geschützt werden können.
+
+Art. 9 Qualität und Regelmässigkeit der Lieferung elektrischer Energie / Einschränkungen[^hTeil2Netzanschlus-1] 9.1[^hTeil2Netzanschlus-4] Die EKZ liefern die Elektrizität in der Regel ununterbrochen innerhalb der üblichen Toleranzen für Nennspannung und Frequenz gemäss der Norm SN/EN 50160 «Merkmale der Spannung in öffentlichen Elektrizitätsversorgungsnetzen». Vorbehalten bleiben die nachstehenden Ausnahmebestimmungen.
+
+9.2 Die EKZ haben ohne Kostenfolge insbesondere das Recht, die Lieferung elektrischer Energie, die Netznutzung, die Nutzung des Messwesens oder die Energieeinspeisung einzuschränken oder ganz einzustellen[^hTeil2Netzanschlus-5]:
 
 - a. Bei Einwirkungen durch Dritte oder bei höherer Gewalt wie Krieg oder kriegsähnlichen Zuständen, automatischem oder manuellem Lastabwurf, inneren Unruhen, Streiks und Sabotage.
 
@@ -259,9 +269,11 @@ Die Kunden haben von sich aus alle nötigen Vorkehrungen zu treffen, um in ihren
 
 . . .[^hTeil2Netzanschlus-2]
 
-Art. 10 Unterbrechung der Netznutzung und Einstellung der Lieferung oder des Bezugs elektrischer Energie infolge Kundenverhaltens[^hTeil2Netzanschlus-1] Die EKZ sind berechtigt, nach vorheriger Mahnung und schriftlicher Anzeige die Netznutzung, die Energielieferung und/oder Energieeinspeisung einzustellen, wenn der Kunde:
+**9**
 
-**10.131**
+- 1\. 1. 26 - 131 Art. 10 Unterbrechung der Netznutzung und Einstellung der Lieferung oder des Bezugs elektrischer Energie infolge Kundenverhaltens[^hTeil2Netzanschlus-1] Die EKZ sind berechtigt, nach vorheriger Mahnung und schriftlicher Anzeige die Netznutzung, die Nutzung des Messwesens, die Energielieferung und/oder Energieeinspeisung einzustellen, wenn der Kunde[^hTeil2Netzanschlus-5]:
+
+**10.1**
 
 - a. elektrische Einrichtungen oder Geräte benutzt, die den anwendbaren Vorschriften nicht entsprechen oder aus anderen Gründen Personen oder Sachen gefährden;
 
@@ -281,21 +293,27 @@ Art. 10 Unterbrechung der Netznutzung und Einstellung der Lieferung oder des Bez
 
 Mangelhafte elektrische Einrichtungen oder Geräte, von denen eine beträchtliche Personen- oder Brandgefahr ausgeht, können durch Beauftragte der EKZ oder durch das Eidgenössische Starkstrominspektorat ohne vorherige Mahnung vom Verteilnetz abgetrennt oder plombiert werden.
 
-**9**
+**10.337**
 
-- 1\. 1. 25 - 127 10.3[^hTeil2Netzanschlus-4] Die Einstellung der Netznutzung, Energielieferung und/oder Energieeinspeisung durch die EKZ befreit den Kunden nicht von der Zahlungspflicht für ausgestellte Rechnungen oder von der Erfüllung anderer Verbindlichkeiten gegenüber den EKZ. Aus der rechtmässigen Einstellung der Netznutzung, Energielieferung und/oder Energieeinspeisung durch die EKZ entsteht dem Kunden kein Anspruch auf Entschädigung irgendwelcher Art. Im Falle der Einstellung der Netznutzung, Energielieferung und/ oder Energieeinspeisung hat der Kunde für die Plombage und Deplombage eine Entschädigung in der Höhe von Fr. 150 (inkl. MWSt) zu bezahlen.
+Die Einstellung der Netznutzung, der Nutzung des Messwesens, Energielieferung und/oder Energieeinspeisung durch die EKZ befreit den Kunden nicht von der Zahlungspflicht für ausgestellte Rechnungen oder von der Erfüllung anderer Verbindlichkeiten gegenüber den EKZ. Aus der rechtmässigen Einstellung der Netznutzung, Energielieferung und/oder Energieeinspeisung durch die EKZ entsteht dem Kunden kein Anspruch auf Entschädigung irgendwelcher Art. Im Falle der Einstellung der Netznutzung, Energielieferung und/oder Energieeinspeisung hat der Kunde für die Plombage und Deplombage eine Entschädigung in der Höhe von Fr. 150 (inkl. MWSt) zu bezahlen.
 
-Art. 11 Mittel- und Niederspannungsinstallationen 11.1[^hTeil2Netzanschlus-1] Die elektrischen Installationen sind nach der Gesetzgebung des Bundes und den darauf basierenden Vorschriften und Normen sowie nach den Werkvorschriften zu erstellen, zu ändern, instand zu halten und zu kontrollieren 11.2[^hTeil2Netzanschlus-5] Den Kunden oder Eigentümern wird empfohlen, allfällige ungewöhnliche Erscheinungen in ihren Installationen, wie häufiges Auslösen von Schutzeinrichtungen, Knistern und dergleichen, unverzüglich einem Inhaber einer Installationsbewilligung zu melden.
+Art. 11 Mittel- und Niederspannungsinstallationen 11.1[^hTeil2Netzanschlus-1] Die elektrischen Installationen sind nach der Gesetzgebung des Bundes und den darauf basierenden Vorschriften und Normen sowie nach den Werkvorschriften zu erstellen, zu ändern, instand zu halten und zu kontrollieren.
 
-11.3[^hTeil2Netzanschlus-6] Die Eigentümer von elektrischen Installationen erbringen nach entsprechender Aufforderung durch die EKZ periodisch den Nachweis, dass ihre Installationen den gültigen technischen und sicherheitstechnischen Anforderungen und Normen entsprechen. Der Sicherheitsnachweis ist pro Zählerstromkreis und Kontrollperiode einzureichen.
+11.2[^hTeil2Netzanschlus-6] Den Kunden oder Eigentümern wird empfohlen, allfällige ungewöhnliche Erscheinungen in ihren Installationen, wie häufiges Auslösen von Schutzeinrichtungen, Knistern und dergleichen, unverzüglich einem Inhaber einer Installationsbewilligung zu melden.
+
+11.3[^hTeil2Netzanschlus-4] Die Eigentümer von elektrischen Installationen erbringen nach entsprechender Aufforderung durch die EKZ periodisch den Nachweis, dass ihre Installationen den gültigen technischen und sicherheitstechnischen Anforderungen und Normen entsprechen. Der Sicherheitsnachweis ist pro Zählerstromkreis und Kontrollperiode einzureichen.
 
 11.4 Der Kunde ermöglicht den EKZ und den von den EKZ beauftragten Personen für die rechtlich vorgeschriebene Überprüfung der Sicherheit und für die Prüfung der Betriebsanlagen (elektrische Einrichtungen, Messstellen usw.) zu angemessener Zeit und im Falle von Störungen jederzeit den Zugang zu seinen Anlagen.
 
 11.5[^hTeil2Netzanschlus-7] Sofern gemäss den jeweils geltenden Tarifbestimmungen ein Tarif ohne Leistungsmessung vorgesehen ist, kann der Kunde jederzeit eine Messung der Leistung verlangen. Die daraus resultierenden Zähler- und Umbaukosten für die Messstelle (wie z.B. Zählerwechsel, System- und Tarifänderungen) werden gemäss Aufwand verrechnet. Auf Antrag des Kunden wird die Zuteilung zu einem Tarif mit Leistungskomponente geprüft.
 
-Art. 12 Messeinrichtungen und Steuerung[^hTeil2Netzanschlus-8] Der Hauseigentümer bzw. Kunde erstellt auf seine Kosten die für den Anschluss der Messeinrichtungen notwendigen Installationen nach Anleitung der EKZ. Überdies stellt er den EKZ den für den Einbau der Messeinrichtungen und der Zählapparate erforderlichen Platz kostenlos zur Verfügung. Allfällige Verschalungen, Nischen, Aussenkästen, Schlüsselrohre usw., die zum Schutze der Apparate notwendig sind, werden vom Kunden auf eigene Kosten erstellt, kontrolliert und auch instand gehalten. Die Messeinrichtungen müssen jederzeit frei zugänglich sein. Die für die Messung der Energie notwendigen Mess- und Steuerapparate werden von den EKZ geliefert und montiert. Für Produkte mit Leistungspreis installieren die EKZ Messeinrichtungen zur Erfassung von Lastgangwerten von fünfzehn Minuten. Die Anschaffungskosten und wiederkehrenden Kosten sind im jeweiligen Netznutzungstarif einkalkuliert. Die Messeinrichtungen bleiben im Eigentum der EKZ und werden auf ihre Kosten instand gehalten. Die Montage- und Demontagearbeiten von Messeinrichtungen, die über den Mindestanforderungen liegen, sowie für Änderungen in bestehenden Anlagen werden dem Auftraggeber verrechnet. Wenn eine Fernauslesung notwendig ist, hat der Kunde auf Wunsch der EKZ einen Kommunikationskanal zur Verfügung zu stellen.
+Art. 12 Messeinrichtungen und Steuerung[^hTeil2Netzanschlus-8] 12.1[^hTeil2Netzanschlus-5] Der Hauseigentümer bzw. Kunde erstellt auf seine Kosten die für den Anschluss der Messeinrichtungen notwendigen Installationen nach Anleitung der EKZ. Überdies stellt er den EKZ den für den Einbau der Messeinrichtungen und der Zählapparate erforderlichen Platz kostenlos zur Verfügung. Allfällige Verschalungen, Nischen, Aussenkästen, Schlüsselrohre usw., die zum Schutze der Apparate notwendig sind, werden vom Kunden auf eigene Kosten erstellt, kontrolliert und auch instand gehalten. Die Messeinrichtungen müssen jederzeit frei zugänglich sein. Die für die Messung der Energie notwendigen Mess- und Steuerapparate werden von den EKZ geliefert und montiert. Für Pro-
 
-**12.131**
+**11**
+
+**12.532 12.637**
+
+- 1\. 1. 26 - 131 dukte mit Leistungstarif installieren die EKZ Messeinrichtungen zur Erfassung von Lastgangwerten von fünfzehn Minuten. Die Anschaffungskosten und wiederkehrenden Kosten sind im jeweiligen Messtarif einkalkuliert. Die Messeinrichtungen bleiben im Eigentum der EKZ und werden auf ihre Kosten instand gehalten. Die Montage- und Demontagearbeiten von Messeinrichtungen, die über den Mindestanforderungen liegen, sowie für Änderungen in bestehenden Anlagen werden dem Auftraggeber verrechnet. Wenn eine Fernauslesung notwendig ist, hat der Kunde auf Wunsch der EKZ einen Kommunikationskanal zur Verfügung zu stellen.
 
 **12.2**
 
@@ -303,34 +321,36 @@ Werden Zähler und andere Messeinrichtungen ohne Verschulden der EKZ beschädigt
 
 **12.331**
 
-Der Kunde kann jederzeit auf eigene Kosten eine Prüfung der Messeinrichtungen durch ein amtlich ermächtigtes Prüforgan verlangen. In Streitfällen ist der Befund des Eidgenössischen Instituts für Metrologie METAS massgebend. Werden bei den Prüfungen Fehler an den Messeinrichtungen festgestellt, so tragen die EKZ die Kosten der Prüfungen einschliesslich der Auswechslung der Messeinrichtungen. Messapparate, deren Abweichungen die gesetzlichen Toleranzen nicht überschreiten, gelten als richtig ge-
+Der Kunde kann jederzeit auf eigene Kosten eine Prüfung der Messeinrichtungen durch ein amtlich ermächtigtes Prüforgan verlangen. In Streitfällen ist der Befund des Eidgenössischen Instituts für Metrologie METAS massgebend. Werden bei den Prüfungen Fehler an den Messeinrichtungen festgestellt, so tragen die EKZ die Kosten der Prüfungen einschliesslich der Auswechslung der Messeinrichtungen. Messapparate, deren Abweichungen die gesetzlichen Toleranzen nicht überschreiten, gelten als richtig gehend. Dies gilt ebenfalls für Umschaltuhren, Sperrschalter, Rundsteuerempfänger usw. mit Differenzen bis ±30 Minuten auf die Uhrzeit.
 
-**11**
+**12.4**
 
-- 1\. 1. 25 - 127 hend. Dies gilt ebenfalls für Umschaltuhren, Sperrschalter, Rundsteuerempfänger usw. mit Differenzen bis ±30 Minuten auf die Uhrzeit.
+Die Kunden sind verpflichtet, festgestellte Unregelmässigkeiten der Mess- und Schaltapparate den EKZ unverzüglich zu melden.
 
-12.4 Die Kunden sind verpflichtet, festgestellte Unregelmässigkeiten der Mess- und Schaltapparate den EKZ unverzüglich zu melden. 12.5[^hTeil2Netzanschlus-9] 12.6[^hTeil2Netzanschlus-1] Die EKZ sind berechtigt, bei den Kunden die relevanten elektrischen Betriebsmittel gemäss jeweils geltender Werkvorschriften inkl. der speziellen Bestimmungen der EKZ und Tarifbestimmungen zu steuern, solange der Kunde dies nicht ausdrücklich untersagt. Nicht untersagen kann der Kunde Massnahmen zur Aufrechterhaltung des sicheren Netzbetriebes gemäss Art. 8c Abs. 3 und Abs. 4 StromVV[^hTeil2Netzanschlus-10].
+Die EKZ sind berechtigt, die vor dem 31. Dezember 2025 an das Verteilnetz angeschlossenen elektrischen Betriebsmittel gemäss jeweils geltender Werkvorschriften inkl. der speziellen Bestimmungen der EKZ und der Tarifbestimmungen zu steuern, sofern der Kunde dies bis zum Stichtag vom 31. Dezember 2025 nicht ausdrücklich untersagt hat. Bei elektrischen Betriebsmitteln, welche neu an das Verteilnetz angeschlossen werden, muss der Kunde aktiv sein Einverständnis zur Steuerung durch die EKZ geben. In beiden Konstellationen erfolgt die Steuerung der entsprechenden elektrischen Betriebsmittel durch die EKZ, solange der Kunde diese Steuerung durch die EKZ nicht ausdrücklich untersagt.
 
 Art. 13 Messung des Energieverbrauches 13.1 Für die Feststellung des Energieverbrauches sind die Angaben der Zähler und Messeinrichtungen massgebend. Dazu können auch Summen- bzw. Differenzbildungen von Messwerten herangezogen werden. Das Ablesen der Zähler und die Wartung der übrigen Messeinrichtungen erfolgen durch Beauftragte der EKZ. Die EKZ können die Kunden ersuchen, die Zähler selbst abzulesen und die Zählerstände den EKZ zu melden.
 
 13.2 Bei festgestelltem Fehlanschluss oder bei Fehlanzeige einer Messeinrichtung wird der Energiebezug des Kunden soweit möglich aufgrund der durchgeführten Prüfung ermittelt. Lässt sich das Mass der Korrektur durch eine Nachprüfung nicht bestimmen, so wird der Bezug unter angemessener Berücksichtigung der Angaben des Kunden von den EKZ festgelegt. Dabei ist vom Verbrauch in vorausgegangenen, vergleichbaren Perioden auszugehen. Die inzwischen eingetretenen Veränderungen der Anschlusswerte und Betriebsverhältnisse sind angemessen zu berücksichtigen.
 
-13.3 Kann die Fehlmessung einer Messapparatur nach Grösse und Dauer einwandfrei ermittelt werden, so müssen die EKZ die Abrechnungen für diese Dauer, jedoch höchstens für die Dauer von fünf Jahren ab dem Zeitpunkt der Feststellung der Fehlmessung, entsprechend anpassen. Kann der Zeitpunkt des Eintretens des Fehlers nicht festgelegt werden, so wird die Abrechnung für die beanstandete Ableseperiode angepasst.[^hTeil2Netzanschlus-11] 13.4 Treten in einer Installation Verluste durch Erdschluss, Kurzschluss oder andere Ursachen auf, so hat der Kunde keinen Anspruch auf Reduktion des registrierten Energieverbrauches und Ersatz von defekten Geräten oder Installationen.
+13.3 Kann die Fehlmessung einer Messapparatur nach Grösse und Dauer einwandfrei ermittelt werden, so müssen die EKZ die Abrechnungen für diese Dauer, jedoch höchstens für die Dauer von fünf Jahren ab dem Zeitpunkt der Feststellung der Fehlmessung, entsprechend anpassen. Kann der Zeitpunkt des Eintretens des Fehlers nicht festgelegt werden, so wird die Abrechnung für die beanstandete Ableseperiode angepasst.[^hTeil2Netzanschlus-9] 13.4 Treten in einer Installation Verluste durch Erdschluss, Kurzschluss oder andere Ursachen auf, so hat der Kunde keinen Anspruch auf Reduktion des registrierten Energieverbrauches und Ersatz von defekten Geräten oder Installationen.
 
-Art. 13a[^hTeil2Netzanschlus-12]
+Art. 13a[^hTeil2Netzanschlus-10]
+
+**13**
+
+- 1\. 1. 26 - 131
 
 [^hTeil2Netzanschlus-1]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
 [^hTeil2Netzanschlus-2]: Aufgehoben durch B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
 [^hTeil2Netzanschlus-3]: Aufgehoben durch B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
-[^hTeil2Netzanschlus-4]: Fassung gemäss B vom 1. Juli 2024 (OS 79, 399; ABl 2024-08-30). In Kraft seit 1. Januar 2025.
-[^hTeil2Netzanschlus-5]: Fassung gemäss B vom 4. Juli 2016 (OS 71, 447; ABl 2016-09-09). In Kraft seit 1. Januar 2017. 1. 1. 25 - 127 19
-[^hTeil2Netzanschlus-6]: Fassung gemäss B vom 1. September 2010 (OS 65, 971; ABl 2010, 2744). Berichtigung: OS 66, 59; ABl 2011, 65. In Kraft seit 1. Januar 2011.
-[^hTeil2Netzanschlus-7]: Eingefügt durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
+[^hTeil2Netzanschlus-4]: Fassung gemäss B vom 1. September 2010 (OS 65, 971; ABl 2010, 2744). Berichtigung: OS 66, 59; ABl 2011, 65. In Kraft seit 1. Januar 2011.
+[^hTeil2Netzanschlus-5]: Fassung gemäss gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
+[^hTeil2Netzanschlus-6]: Fassung gemäss B vom 4. Juli 2016 (OS 71, 447; ABl 2016-09-09). In Kraft seit 1. Januar 2017.
+[^hTeil2Netzanschlus-7]: Eingefügt durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022. 1. 1. 26 - 131 21
 [^hTeil2Netzanschlus-8]: Fassung gemäss B vom 19. März 2018 (OS 73, 189; ABl 2018-05-04). In Kraft seit 1. Juni 2018.
-[^hTeil2Netzanschlus-9]: Aufgehoben durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^hTeil2Netzanschlus-10]: SR 734.71.
-[^hTeil2Netzanschlus-11]: Fassung gemäss B vom 28. September 2009 (OS 64, 689). In Kraft seit 1. Januar 2010.
-[^hTeil2Netzanschlus-12]: Aufgehoben durch B vom 19. März 2018 (OS 73, 189; ABl 2018-05-04). In Kraft seit 1. Juni 2018.
+[^hTeil2Netzanschlus-9]: Fassung gemäss B vom 28. September 2009 (OS 64, 689). In Kraft seit 1. Januar 2010.
+[^hTeil2Netzanschlus-10]: Aufgehoben durch B vom 19. März 2018 (OS 73, 189; ABl 2018-05-04). In Kraft seit 1. Juni 2018.
 
 ### Teil 3: Lieferung elektrischer Energie
 
@@ -340,27 +360,26 @@ Art. 14 Umfang der Lieferung elektrischer Energie 14.1 Die EKZ liefern dem Kunde
 
 14.3[^hTeil3Lieferungel-2] Der Kunde darf die Energie nur zu den vertraglich vorgesehenen Zwecken bzw. gemäss den im Produktblatt aufgeführten Lieferbestimmungen verwenden.
 
-14.4 Die Abgabe von Energie an Dritte muss von den EKZ bewilligt werden. Davon ausgenommen ist die Abgabe von Energie an Mieter und Untermieter innerhalb von Wohnräumen. In jedem Fall dürfen auf die Strompreise der EKZ keine Zuschläge gemacht werden.
+14.4[^hTeil3Lieferungel-3] Der Kunde darf ohne besondere schriftliche Bewilligung der EKZ keine elektrische Energie an Dritte abgeben. Die Abgabe von Energie an Dritte ist bei einer Dienstleistungstätigkeit, welche über das blosse Weiterverkaufen der Elektrizität oder nur temporär und kurzzeitig auftritt, gestattet. Diese Einschränkungen gelten nicht, wenn der Kunde selbst Energieversorger ist. In jedem Fall dürfen auf die Stromtarife der EKZ keine Zuschläge erhoben werden.
 
 14.5 Die Verantwortung für die Einhaltung gesetzlicher Vorschriften über die Energieverwendung obliegt dem Kunden.
 
-14.6[^hTeil3Lieferungel-3] Hat ein Kunde mit Netzzugang keinen gültigen Energieliefervertrag oder werden die EKZ im Rahmen der Bilanzgruppenabrechnung für Energie des Netzkunden belastet, kommt automatisch ein Energieliefervertrag mit den EKZ mit dem Produkt «EKZ Ersatzenergie» zustande. Der Kunde ist in diesem Fall zur Bezahlung der Ersatzenergie und zur Übernahme sämtlicher Aufwendungen in diesem Zusammenhang verpflichtet. Die EKZ können die Lieferung der Ersatzenergie jederzeit einschränken oder unterbrechen.
-
-**13**
-
-- 1\. 1. 25 - 127
+14.6[^hTeil3Lieferungel-4] Hat ein Kunde mit Netzzugang keinen gültigen Energieliefervertrag oder werden die EKZ im Rahmen der Bilanzgruppenabrechnung für Energie des Netzkunden belastet, kommt automatisch ein Energieliefervertrag mit den EKZ mit dem Produkt «EKZ Ersatzenergie» zustande. Der Kunde ist in diesem Fall zur Bezahlung der Ersatzenergie und zur Übernahme sämtlicher Aufwendungen in diesem Zusammenhang verpflichtet. Die EKZ können die Lieferung der Ersatzenergie jederzeit einschränken oder unterbrechen.
 
 [^hTeil3Lieferungel-1]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
 [^hTeil3Lieferungel-2]: Fassung gemäss B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
-[^hTeil3Lieferungel-3]: Eingefügt durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
+[^hTeil3Lieferungel-3]: Fassung gemäss gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
+[^hTeil3Lieferungel-4]: Eingefügt durch B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022. 1. 1. 26 - 131 21
 
 ### Teil 4: Tarife und Rechnungsstellung
 
 [^hTeil3Lieferungel-2]
 
-Art. 15 Tarife[^hTeil4TarifehTei-1] 15.1 . . .[^hTeil4TarifehTei-2] 15.2[^hTeil4TarifehTei-3] Die Netznutzungstarife, Energietarife sowie die Abgaben und Leistungen an Gemeinwesen werden vom Verwaltungsrat der EKZ festgesetzt und können jeweils auf den 1. Januar geändert werden, sofern keine anderslautende Regelung festgelegt wurde. Die Publikation der Tarife sowie Abgaben und Leistungen an das Gemeinwesen und des Netzzuschlags nach Art. 35 Energiegesetz[^hTeil4TarifehTei-4], welcher jedem Kunden in Rechnung gestellt wird, für die nächste Tarifperiode (Kalenderjahr), erfolgt jeweils bis spätestens am 31. August auf der EKZ-Homepage (www.ekz.ch). Zusätzlich werden die Veränderungen der Tarife und die Ursachen dafür im kantonalen Amtsblatt der Kantone Zürich und Zug bekannt gegeben.
+Art. 15 Tarife[^hTeil4TarifehTei-1] 15.1 . . .[^hTeil4TarifehTei-2] 15.2[^hTeil4TarifehTei-3] Die Netznutzungstarife, Messtarife, Energietarife, Rückerstattungstarife nach StromVV Art. 18e sowie die Abgaben und Leistungen an. Gemeinwesen werden vom Verwaltungsrat der EKZ festgesetzt und können jeweils auf den 1. Januar geändert werden, sofern keine anderslautende Regelung festgelegt wurde. Die Publikation der Tarife sowie die Zuschläge, Abgaben und Gebühren, welche jedem Kunden in Rechnung gestellt werden, für die nächste Tarifperiode (Kalenderjahr), erfolgt jeweils bis spätestens am 31. August auf der EKZ-Homepage (www.ekz.ch). Zusätzlich werden die Veränderungen der Tarife und die Ursachen dafür im kantonalen Amtsblatt der Kantone Zürich und Zug bekannt gegeben.
 
-Art. 15a[^hTeil4TarifehTei-1] Erhebung der Abgaben und Leistungen an Gemeinwesen 15a.1 Die EKZ setzen sich bewusst für die nachhaltige Gestaltung der Zukunft ein und leisten einen angemessenen Beitrag, damit ihre Kunden Energie sparen. Sie unterstützen den effizienten Umgang mit Energie durch gemeinwirtschaftliche Leistungen wie Energieberatungsangebote und Programme zur Förderung energieeffizienter Anwendungen. Von diesen Leistungen können grundsätzlich sämtliche Netzkunden der EKZ profitieren.
+15.3[^hTeil4TarifehTei-4] Endkunden, welche auf Basis von StromVV Art. 18d einen Anspruch auf Rückerstattung des Netznutzungsentgelts stellen, haben nach StromVG Art. 14a Abs. 4 einen Antrag an die EKZ zu stellen. Der Rückerstattungsbetrag wird, sofern der Antrag von den EKZ genehmigt wird, im Rahmen der nächsten Abrechnung erstattet.
+
+Art. 15a[^hTeil4TarifehTei-3] Erhebung der Abgaben und Leistungen an Gemeinwesen 15a.1 Die EKZ setzen sich bewusst für die nachhaltige Gestaltung der Zukunft ein und leisten einen angemessenen Beitrag, damit ihre Kunden Energie sparen. Sie unterstützen den effizienten Umgang mit Energie durch gemeinwirtschaftliche Leistungen wie Energieberatungsangebote und Programme zur Förderung energieeffizienter Anwendungen. Von diesen Leistungen können grundsätzlich sämtliche Netzkunden der EKZ profitieren.
 
 15a.2 Sämtliche Netzkunden der EKZ sind verpflichtet, einen zu ihrem Verbrauch verhältnismässigen Beitrag an die Energieberatung und Förderprogramme zu leisten.
 
@@ -368,34 +387,35 @@ Art. 15a[^hTeil4TarifehTei-1] Erhebung der Abgaben und Leistungen an Gemeinwesen
 
 15a.4 Sofern eine Gemeinde von den EKZ eine Konzessionsgebühr verlangt, wird zur Deckung dieser Konzessionsgebühr von jedem Endverbraucher, der an das Verteilnetz der EKZ in der betreffenden Gemeinde angeschlossen ist, eine Konzessionsabgabe erhoben.
 
-15a.5 Die Höhe der Abgaben ist dem jeweils gültigen Tarifblatt «Bundesabgaben und Abgaben und Leistung an das Gemeinwesen» zu entnehmen.
+15a.5 Die Höhe der Abgaben ist dem jeweils gültigen Tarifblatt «Zuschläge, Abgaben sowie Gebühren» zu entnehmen.
 
-Art. 16[^hTeil4TarifehTei-5] Rechnungsstellung und Zahlung 16.1 Die Rechnungsstellung an die Kunden erfolgt in regelmässigen, von den EKZ festgelegten Zeitabständen. Die EKZ können zwischen den Zählerablesungen Teilrechnungen in der Höhe des voraussichtlichen Energiebezugs stellen. Sie können vom Kunden angemessene Vorauszahlung oder Sicherstellung verlangen oder Prepaid-Zähler einbauen. Zusätzlich sind die EKZ berechtigt, ihren Kunden die mit der Abwicklung des Zahlungsverkehrs entstandenen Kosten (z.B. Postschaltergebühren, Papierrechnungsgebühren) individuell und verursachergerecht zu verrechnen. 16.2 Die Kosten für den Ein- und Ausbau der Prepaidzähler sowie für zusätzliche Aufwendungen in diesem Zusammenhang gehen zulasten des Kunden.
+**15**
+
+- 1\. 1. 26 - 131 Art. 16[^hTeil4TarifehTei-5] Rechnungsstellung und Zahlung 16.1 Die Rechnungsstellung an die Kunden erfolgt in regelmässigen, von den EKZ festgelegten Zeitabständen. Die EKZ können zwischen den Zählerablesungen Teilrechnungen in der Höhe des voraussichtlichen Energiebezugs stellen. Sie können vom Kunden angemessene Vorauszahlung oder Sicherstellung verlangen oder Prepaid-Zähler einbauen. Zusätzlich sind die EKZ berechtigt, ihren Kunden die mit der Abwicklung des Zahlungsverkehrs entstandenen Kosten (z.B. Postschaltergebühren, Papierrechnungsgebühren) individuell und verursachergerecht zu verrechnen. 16.2 Die Kosten für den Ein- und Ausbau der Prepaidzähler sowie für zusätzliche Aufwendungen in diesem Zusammenhang gehen zulasten des Kunden.
 
 16.3 Die Rechnungen werden vom Kunden innerhalb von 30 Tagen ab Rechnungsdatum oder der von den EKZ individuell vorgegebenen Zahlungsfrist ohne jeglichen Abzug beglichen. Die Kunden tragen sämtliche Kosten (inkl. Mahngebühren in der Höhe von Fr. 20 inkl. MWSt je Mahnung), die den EKZ durch den Zahlungsverzug entstehen. Die EKZ sind berechtigt, dem Kunden ab der zweiten Mahnung Verzugszinsen in der Höhe von 5% über dem SNB-Leitzinssatz zu berechnen. Die Bezahlung der Rechnungen in Raten ist nur mit der Einwilligung der EKZ zulässig. Die EKZ können die Kosten, die durch Inkassomassnahmen durch Dritte entstehen, an den Kunden weiterverrechnen.
 
 16.4 Für die Bezahlung der Rechnung bieten die EKZ verschiedene Zahlungsmöglichkeiten wie zum Beispiel Zahlung per Bank-Einzahlungsschein, Postauftrag, E-Banking usw. an. Die Bezahlung der Rechnung mittels Bargelds ist nicht zulässig. Die Verrechnung der Rechnung mit Forderungen des Kunden gegenüber den EKZ ist ausgeschlossen.
 
-16.5[^hTeil4TarifehTei-3] Der Kunde ist bei Abgabe von Energie an Untermieter gegenüber den EKZ für ausstehende Rechnungsbeträge haftbar. 16.6 Fehlerhafte Rechnungsstellung kann innerhalb einer Frist von fünf Jahren berichtigt werden.
+16.5[^hTeil4TarifehTei-6] Der Kunde ist bei Abgabe von Energie an Untermieter gegenüber den EKZ für ausstehende Rechnungsbeträge haftbar. 16.6 Fehlerhafte Rechnungsstellung kann innerhalb einer Frist von fünf Jahren berichtigt werden.
 
 16.7 Bei Beanstandungen der Energiemessung darf der Kunde die Zahlung der Rechnungsbeträge und die Leistung von Akontozahlungen nicht verweigern.
 
-**15**
+16.8 Bei vorsätzlicher Umgehung der Preisbestimmungen durch den Kunden oder seine Beauftragten sowie bei widerrechtlichem Energiebezug hat der Kunde die zu wenig verrechneten Beträge in vollem Umfang samt Zinsen und einer Entschädigung für die verursachten Umtriebe zu bezahlen.
 
-- 1\. 1. 25 - 127 16.8 Bei vorsätzlicher Umgehung der Preisbestimmungen durch den Kunden oder seine Beauftragten sowie bei widerrechtlichem Energiebezug hat der Kunde die zu wenig verrechneten Beträge in vollem Umfang samt Zinsen und einer Entschädigung für die verursachten Umtriebe zu bezahlen.
-
-16.9[^hTeil4TarifehTei-3] Die Rechnungsstellung erfolgt für jede Messstelle getrennt.
+16.9[^hTeil4TarifehTei-6] Die Rechnungsstellung erfolgt für jede Messstelle getrennt.
 
 [^hTeil4TarifehTei-1]: Fassung gemäss B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
 [^hTeil4TarifehTei-2]: Aufgehoben durch B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
-[^hTeil4TarifehTei-3]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^hTeil4TarifehTei-4]: SR 730.0.
+[^hTeil4TarifehTei-3]: Fassung gemäss gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
+[^hTeil4TarifehTei-4]: Eingefügt durch gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
 [^hTeil4TarifehTei-5]: Fassung gemäss B vom 1. Juli 2024 (OS 79, 399; ABl 2024-08-30). In Kraft seit 1. Januar 2025.
-[^hTeil4TarifehTei-6]: Fassung gemäss B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
+[^hTeil4TarifehTei-6]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
+[^hTeil4TarifehTei-7]: Fassung gemäss B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
 
 ### Teil 5: Besondere Bestimmungen für Produzenten
 
-[^hTeil4TarifehTei-6]
+[^hTeil4TarifehTei-7]
 
 Art. 17[^hTeil5BesondereBe-1] Allgemein 17.1[^hTeil5BesondereBe-2] Diese Bestimmungen regeln die Einspeisung von elektrischer Energie in das Netz der EKZ aus Energieerzeugungsanlagen (EEA) von unabhängigen Produzenten sowie deren Vergütung und Verrechnung. Die EKZ übernehmen die durch unabhängige Produzenten erzeugte erneuerbare und nicht erneuerbare Energie nach Tarifen und/oder speziellen Vereinbarungen. Für erneuerbare Energie gelten die Vorgaben aus dem Energiegesetz[^hTeil5BesondereBe-3] und der Energieverordnung[^hTeil5BesondereBe-4]. Grundsätzlich gelten für den Anschluss und den Betrieb von Rücklieferanlagen die anerkannten Regeln der Technik und die Werkvorschriften inkl. spezieller Bestimmungen der EKZ (siehe www.ekz.ch).
 
@@ -415,53 +435,56 @@ Art. 18[^hTeil5BesondereBe-2] Anschluss und Betrieb von EEA 18.1 Der Anschluss u
 
 #### Art. 19
 
-[^hTeil5BesondereBe-5]
+**17**[^hTeil5BesondereBe-5]
 
-Art. 20[^19-1] Einspeisung und Abgabestelle 20.1 Die Energie muss in Form von Drehstrom mit einer mittleren Frequenz von 50 Hz und mit einer Netzspannung von 230/400 Volt ± 10% bei Einspeisung in das Niederspannungsnetz bzw. mit einer Netzspannung von 16 500 ± 1000 Volt bei Einspeisung in das Mittelspannungsnetz geliefert werden. Im Weiteren gelten die Bestimmungen der Euronorm EN 50160.
+- 1\. 1. 26 - 131 Art. 20[^19-1] Einspeisung und Abgabestelle 20.1 Die Energie muss in Form von Drehstrom mit einer mittleren Frequenz von 50 Hz und mit einer Netzspannung von 230/400 Volt ± 10% bei Einspeisung in das Niederspannungsnetz bzw. mit einer Netzspannung von 16 500 ± 1000 Volt bei Einspeisung in das Mittelspannungsnetz geliefert werden. Im Weiteren gelten die Bestimmungen der Euronorm EN 50160.
 
 20.2 Als Abgabestelle gelten bei unterirdischen Zuleitungen die Eingangsklemmen des Anschlussüberstromunterbrechers. Die Abgabestelle ist nicht identisch mit der Eigentumsgrenze im Sinne der Haftpflichtbestimmungen des Elektrizitätsgesetzes vom 24. Juni 1902[^19-2].
 
+20.3[^19-3] Die EKZ können auf Basis von StromVV Art. 19c vom Produzenten vergütungsfrei verlangen, dass dieser am Anschlusspunkt bis zu 3 Prozent der jährlich erzeugten Energie abriegelt. Diese Möglichkeit besteht bei allen bestehenden und neu anzuschliessenden Energieerzeugungsanlagen. Bei Photovoltaikanlagen entspricht dies einer Leistungsbegrenzung von 70% der Leistung der Photovoltaikanlage am Anschlusspunkt. Details sind in dem in Ziff. 18.1 genannten Dokument geregelt.
+
 Art. 21[^19-1] Netznutzung für den Eigenbedarf 21.1 Die Energieabgabe für den Eigenbedarf an die EEA aus dem Netz der EKZ ist nicht netznutzungsentgeltpflichtig unter der Voraussetzung, dass es sich um ein Kraftwerk gemäss der Branchenempfehlung Netznutzungsmodell für das Schweizerische Verteilnetz [NNMV] handelt.
 
-Art. 22[^19-1] Vergütung 22.1[^19-3] Die Rücklieferungen von elektrischer Energie in das Netz der EKZ werden zu den jeweils anwendbaren Vergütungssätzen (gemäss Produktblatt oder Vertrag) und Bestimmungen für Neuanlagen, die nach dem 1. Januar 2006 in Betrieb genommen wurden, entschädigt.
+Art. 22[^19-1] Vergütung 22.1[^19-4] Die Rücklieferungen von elektrischer Energie in das Netz der EKZ werden zu den jeweils anwendbaren Vergütungssätzen (gemäss Produktblatt oder Vertrag) und Bestimmungen für Neuanlagen, die nach dem 1. Januar 2006 in Betrieb genommen wurden, entschädigt.
 
-22.2 Die Entschädigung des ökologischen Mehrwerts aus Anlagen mit erneuerbaren Energien in Form von Herkunftsnachweisen ist Bestandteil einer separaten Vereinbarung, sofern in den Tarifbestimmungen nichts Abweichendes geregelt ist.
-
-22.3[^19-4] Für die Beendigung und die Wiederaufnahme der Rücklieferung an die EKZ gelten, mit Ausnahme der Aufnahme einer EEA in das Einspeisevergütungssystem, die Bedingungen gemäss Produktblatt «Vergütung für Energie aus Rücklieferanlagen» (verfügbar unter www.ekz.ch).
+22.2 Die Entschädigung des ökologischen Mehrwerts aus Anlagen mit erneuerbaren Energien in Form von Herkunftsnachweisen ist Bestandteil einer separaten Vereinbarung, sofern in den Tarifbestimmungen nichts Abweichendes geregelt ist. 22.3[^19-5] Für die Beendigung und die Wiederaufnahme der Rücklieferung an die EKZ gelten, mit Ausnahme der Aufnahme einer EEA in das Einspeisevergütungssystem, die Bedingungen gemäss Produktblatt «Vergütung für Energie aus Rücklieferanlagen» (verfügbar unter www.ekz.ch).
 
 Über den Verkauf der elektrischen Energie an Dritte hat der Produzent die EKZ zusätzlich zur Beendigung der Rücklieferung nach Massgabe der erwähnten Bedingungen bis spätestens zehn Arbeitstage vor Lieferbeginn per Mail an produzenten@ekz.ch zu benachrichtigen.
 
 Ab dem Zeitpunkt der Abnahme der Energie durch Dritte entfallen die Vergütungen durch die EKZ vollständig.
 
-**17**
+22.4 EEA, die im Fördermodell Kostendeckende Einspeisevergütung (KEV) sind, verpflichten sich, bei einem Austritt aus dieser die EKZ termingerecht zu informieren.
 
-- 1\. 1. 25 - 127 22.4 EEA, die im Fördermodell Kostendeckende Einspeisevergütung (KEV) sind, verpflichten sich, bei einem Austritt aus dieser die EKZ termingerecht zu informieren.
-
-Art. 23[^19-5] Eigenverbrauchsregelung Diese Bestimmung gilt nur für Produzenten, die von ihrem Recht Gebrauch machen, die selbst produzierte Energie am Ort der Produktion selbst zu verbrauchen oder dort einem oder mehreren Dritten zu veräussern (sogenannter Eigenverbrauch). Dabei gelten folgende Bestimmungen:
+Art. 23[^19-6] Eigenverbrauchsregelung 23.1 Diese Bestimmung gilt nur für Produzenten, die von ihrem Recht Gebrauch machen, die selbst produzierte Energie am Ort der Produktion selbst zu verbrauchen oder dort einem oder mehreren Dritten zu veräussern (sogenannter Eigenverbrauch). Dabei gelten folgende Bestimmungen:
 
 - 1\. Voraussetzung für die Anwendung der Eigenverbrauchsregelung sind die Einhaltung der gesetzlichen Vorschriften sowie die Einhaltung der Vorgaben und Bestimmungen des EKZ-Produktblatts «Eigenverbrauchsregelung».
 
 - 2\. Allfällige vorgängig erforderliche Massnahmen zur Umsetzung der Eigenverbrauchsregelung, insbesondere bauliche Massnahmen sowie Umverdrahtungen, fallen in die Verantwortung des Produzenten bzw. des Grundeigentümers, welche auch die Kosten dafür zu tragen haben. Gleiches gilt für sonstige Umverdrahtungen in Zusammenhang mit der Eigenverbrauchsregelung, insbesondere wenn ein Teilnehmer austreten sollte.
 
-Art. 24[^19-1] Preise und Abrechnung 24.1[^19-6] Bei Einspeisung in das Niederspannungsnetz erfolgt die Abrechnung monatlich oder quartalweise. Bei EEA mit Leistung bis 600 Watt kann ein hiervon abweichender Abrechnungsrhythmus angewendet werden. Einspeisungen in das Mittelspannungsnetz werden monatlich abgerechnet.
+23.2[^19-3] Bei der Gründung einer lokalen Elektrizitätsgemeinschaft nach StromVV Art. 19e meldet der Vertreter der LEG die teilnehmenden Endverbraucher der EKZ. Sämtliche Meldeprozesse diesbezüglich haben online über das Kundenportal zu erfolgen.
+
+**19**
+
+- 1\. 1. 26 - 131 Art. 24[^19-1] Preise und Abrechnung 24.1[^19-7] Bei Einspeisung in das Niederspannungsnetz erfolgt die Abrechnung monatlich oder quartalweise. Bei EEA mit Leistung bis 600 Watt kann ein hiervon abweichender Abrechnungsrhythmus angewendet werden. Einspeisungen in das Mittelspannungsnetz werden monatlich abgerechnet.
 
 24.2 Die Rechnungsstellung und Vergütung von elektrischer Energie erfolgt in regelmässigen, von den EKZ festgelegten Zeitabständen. Sofern nicht anders vereinbart, werden die Rechnungen bzw. Vergütungsanzeigen (Zeitraum, Liefermenge in kWh und Vergütungsbetrag) mittels E-Mail zugestellt.
 
 24.3 Die Vergütung wird mittels Bank-/Postüberweisung ausbezahlt. Ändert sich die Bank-/Postverbindung, ist der Produzent verpflichtet, diese Änderung den EKZ schriftlich mittzuteilen. Bei fehlender Mitteilung sind die EKZ berechtigt, die Zahlungen ohne vorgängige Meldung an den Produzenten zurückzubehalten.
 
-Art. 25[^19-1] Haftung von Produzenten und EKZ 25.1[^19-6] Der Produzent haftet gegenüber den EKZ für die durch ihn verursachten Schäden. Im Übrigen gilt Art. 5.
+Art. 25[^19-1] Haftung von Produzenten und EKZ 25.1[^19-7] Der Produzent haftet gegenüber den EKZ für die durch ihn verursachten Schäden. Im Übrigen gilt Art. 5.
 
 [^19-1]: Eingefügt durch B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
 [^19-2]: SR 734.0.
-[^19-3]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
-[^19-4]: Fassung gemäss B vom 12. Dezember 2023 (OS 79, 43; ABl 2023-12-22). In Kraft seit 1. Januar 2024.
-[^19-5]: Fassung gemäss B vom 11. Juni 2018 (OS 73, 318; ABl 2018-07-06). In Kraft seit 1. Januar 2019.
-[^19-6]: Fassung gemäss B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
-[^19-7]: Fassung gemäss B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
+[^19-3]: Eingefügt durch gemäss B vom 7. Juli 2025 (OS 80, 280; ABl 2025-08-29). In Kraft seit 1. Januar 2026.
+[^19-4]: Fassung gemäss B vom 29. Juni 2021 (OS 76, 497; ABl 2021-07-30). In Kraft seit 1. Januar 2022.
+[^19-5]: Fassung gemäss B vom 12. Dezember 2023 (OS 79, 43; ABl 2023-12-22). In Kraft seit 1. Januar 2024.
+[^19-6]: Fassung gemäss B vom 11. Juni 2018 (OS 73, 318; ABl 2018-07-06). In Kraft seit 1. Januar 2019.
+[^19-7]: Fassung gemäss B vom 25. September 2017 (OS 72, 648; ABl 2017-11-17). In Kraft seit 1. Januar 2018.
+[^19-8]: Fassung gemäss B vom 28. September 2015 (OS 70, 428; ABl 2015-10-16). In Kraft seit 1. Januar 2016.
 
 ### Teil 6: Schlussbestimmungen
 
-[^19-7]
+[^19-8]
 
 Art. 26[^hTeil6Schlussbesti-1] Inkrafttreten 26.1 Diese vom Verwaltungsrat der Elektrizitätswerke des Kantons Zürich gestützt auf § 2 Abs. 1 lit. g EKZ-Verordnung[^hTeil6Schlussbesti-2] festgesetzten allgemeinen Bedingungen treten am 1. Januar 2009 in Kraft. Sie ersetzen die allgemeinen Bedingungen für Netzanschluss, Netznutzung und Lieferung elektrischer Energie vom 11. Juni 2007.
 
@@ -478,5 +501,4 @@ Art. 26[^hTeil6Schlussbesti-1] Inkrafttreten 26.1 Diese vom Verwaltungsrat der E
 - [15] Fassung gemäss B vom 23. Juni 2014 (OS 69, 590; ABl 2014-10-31). In Kraft seit 1. Januar 2015.
 - [19] Eingefügt durch B vom 4. Juli 2016 (OS 71, 447; ABl 2016-09-09). In Kraft seit 1. Januar 2017.
 - [23] Eingefügt durch B vom 19. März 2018 (OS 73, 189; ABl 2018-05-04). In Kraft seit 1. Juni 2018.
-- [26] Eingefügt durch B vom 11. Juni 2018 (OS 73, 318; ABl 2018-07-06). In Kraft seit 1. Januar 2019.
 - [33] Fassung gemäss B vom 3. Oktober 2022 (OS 77, 549; ABl 2022-10-14). In Kraft seit 1. Januar 2023.
