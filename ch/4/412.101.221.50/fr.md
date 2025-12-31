@@ -3,18 +3,18 @@ sr: "412.101.221.50"
 title: Ordonnance du SEFRI du 25 octobre 2018 sur la formation professionnelle initiale de médiamaticienne/médiamaticien avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/769"
 language: fr
-version: 2019-01-01
+version: 2026-01-01
 adopted: 2018-10-25
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/769/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-769-20190101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/769/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/769/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-769-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/769/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de médiamaticienne / médiamaticien avec certificat fédéral de capacité (CFC)
 
-du 25 octobre 2018 (État le 1<sup>er</sup> janvier 2019)
+du 25 octobre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI),
 
@@ -22,8 +22,8 @@ vu l’art. 19 de la loi fédérale du 13 décembre 2002 sur la formation profes
 
 arrête:
 
-[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
-[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
+[^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
+[^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6359)
 
 ## Section 1 Objet et durée
 
@@ -72,7 +72,7 @@ Les compétences opérationnelles comprennent des compétences professionnelles,
 
 <sup>4</sup> Tous les lieux de formation collaborent à l’acquisition des compétences opérationnelles par les personnes en formation. Ils coordonnent les contenus de la formation et des procédures de qualification.
 
-[^3-1]: www.ict-formationprofessionnelle.ch &gt; Formation professionnelle &gt; ICT Competence Framework
+[^3-1]: [www.ict-formationprofessionnelle.ch](http://www.ict-formationprofessionnelle.ch) &gt; Formation professionnelle &gt; ICT Competence Framework
 
 #### Art. 4
 
@@ -184,13 +184,14 @@ L’enseignement dans le domaine d’enseignement «compétences de base élargi
 
 <sup>4</sup> De légers aménagements peuvent être apportés à la répartition du nombre de périodes d’enseignement entre les années d’apprentissage au sein d’un même domaine de compétences opérationnelles, en accord avec les autorités cantonales et les organisations du monde du travail compétentes. L’atteinte des objectifs de formation prescrits doit être garantie dans tous les cas.
 
-<sup>5</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-1].
+<sup>5</sup> L’enseignement de la culture générale est régi par l’ordonnance du SEFRI du 9 avril 2025[^7-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^7-2].
 
 <sup>6</sup> La langue d’enseignement est la langue nationale du lieu où se trouve l’école. Les cantons peuvent autoriser des langues d’enseignement supplémentaires.
 
 <sup>7</sup> Les écoles professionnelles sont encouragées à proposer un enseignement bilingue, dans la langue nationale du lieu où se trouve l’école et dans une autre langue nationale ou en anglais.
 
-[^7-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^7-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^7-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 8
 
@@ -225,7 +226,7 @@ Le plan de formation:
 
 <sup>3</sup> Le plan de formation est assorti de la liste des instruments servant à garantir et à mettre en œuvre la formation professionnelle initiale et à en promouvoir la qualité, avec indication du nom de l’organisme auprès duquel ils peuvent être obtenus.
 
-[^9-1]: Le plan de formation du 25 octobre 2018 est disponible dans la liste des professions du SEFRI à l’adresse suivante: www.bvz.admin.ch &gt; Professions A–Z.
+[^9-1]: Le plan de formation du 25 octobre 2018 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
 
 ## Section 6 Exigences posées aux formateurs et nombre maximal de personnes en formation dans l’entreprise
 
@@ -347,11 +348,12 @@ La procédure de qualification avec examen final porte sur les compétences opé
 <tr><td>3</td><td>Entretien professionnel et présentation</td><td>30 %</td></tr>
 </table>
 
-- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 27 avril 2006 concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-1].
+- b. culture générale; ce domaine de qualification est régi par l’ordonnance du SEFRI du 9 avril 2025[^18-1] concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale[^18-2].
 
 <sup>2</sup> Dans chaque domaine de qualification, les prestations sont évaluées par au moins deux experts aux examens.
 
-[^18-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^18-1]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 593](https://fedlex.data.admin.ch/eli/oc/2025/593)).
+[^18-2]: [RS 412.101.241](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6593)
 
 #### Art. 19
 
