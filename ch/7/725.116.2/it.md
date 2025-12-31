@@ -4,11 +4,11 @@ title: "Legge federale del 22 marzo 1985 concernente l'utilizzazione dell'impost
 short: LUMin
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/834_834_834"
 language: it
-version: 2025-08-01
+version: 2026-01-01
 adopted: 1985-03-22
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20250801/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20250801-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20250801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/834_834_834/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1985-834_834_834-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/834_834_834/20250801/it"
 
 (LUMin)[^t-1]
 
-del 22 marzo 1985 (Stato 1° agosto 2025)
+del 22 marzo 1985 (Stato 1° gennaio 2026)
 
 [^t-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
@@ -27,7 +27,7 @@ visti gli articoli 82, 83, 85*a*, 86 e 87*b* della Costituzione federale (Cost.)
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^ingress-3]: [FF 1984 I 800](https://fedlex.data.admin.ch/eli/fga/1984/1_986_993_800)
 
@@ -64,7 +64,7 @@ Essa disciplina l’utilizzazione della quota a destinazione vincolata del prodo
 
 [^1-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 [^1-2]: Nuovo testo giusta l’all. n. 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^1-3]: [RS 641.71](https://fedlex.data.admin.ch/eli/cc/2012/855)
+[^1-3]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
 [^1-4]: Introdotta dall’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
 #### Art. 2
@@ -154,8 +154,8 @@ Il finanziamento comprende:
 
 <sup>2</sup> Il finanziamento degli impianti accessori ai sensi dell’articolo 7 della legge federale dell’8 marzo 1960[^7-2] sulle strade nazionali compete ai Cantoni.
 
-[^7-1]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^7-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^7-1]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^7-2]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 8
 
@@ -183,10 +183,10 @@ La Confederazione può partecipare alle spese computabili. Il Consiglio federale
 - a. per le fasi di potenziamento di cui all’articolo 5 capoverso 1 lettera a numero 2 della legge federale del 30 settembre 2016[^8-4] concernente il Fondo per le strade nazionali e il traffico d’agglomerato, essa non può superare il 60 per cento delle spese supplementari derivanti dalla realizzazione di misure alternative quali altri tracciati e varianti in galleria;
 - b. negli altri casi, non può superare il 30 per cento delle spese.[^8-5]
 
-[^8-1]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^8-1]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 [^8-2]: Per. introdotto dall’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^8-3]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^8-4]: [RS 725.13](https://fedlex.data.admin.ch/eli/cc/2017/761)
+[^8-4]: [RS 725.13](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8474)
 [^8-5]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
 
 #### Art. 8a
@@ -202,7 +202,7 @@ La Confederazione può partecipare alle spese computabili. Il Consiglio federale
 <sup>4</sup> L’USTRA concorda con il Cantone lo scadenzario, il finanziamento e il rimborso.
 
 [^8a-1]: Introdotto dall’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^8a-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^8a-2]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 
 #### Art. 9
 
@@ -217,7 +217,7 @@ La Confederazione può partecipare alle spese computabili. Il Consiglio federale
 <sup>4</sup> Sono considerate spese quelle per la progettazione, per i lavori veri e propri, per la vigilanza e per l’amministrazione.
 
 [^9-1]: Nuovo testo giusta l’all. cifra II n. 5 della LF del 30 set. 2016 concernente il Fondo per le strade nazionali e il traffico d’agglomerato, in vigore dal 1° gen. 2018 ([RU 2017 6825](https://fedlex.data.admin.ch/eli/oc/2017/761); [FF 2015 1717](https://fedlex.data.admin.ch/eli/fga/2015/416)).
-[^9-2]: [RS 725.11](https://fedlex.data.admin.ch/eli/cc/1960/525_569_555)
+[^9-2]: [RS 725.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8453)
 [^9-3]: Nuovo testo del per. giusta l’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 [^9-4]: Per. introdotto dall’all. cifra 6 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
 
@@ -269,7 +269,7 @@ Per il completamento della rete delle strade nazionali[^11-1], la Confederazione
 
 <sup>6</sup> La Confederazione esegue i pagamenti proporzionatamente al progredire dei lavori preliminari e dei lavori di costruzione. Può anticipare, a un interesse adeguato, le somme dovute dal Cantone oppure, in casi di rigore, accordare mutui. Il Consiglio federale disciplina le modalità di pagamento.
 
-[^11-1]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^11-1]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### Capitolo 3: Contributi alle spese delle strade principali
 
@@ -344,7 +344,7 @@ I contributi globali sono calcolati in base a:
 
 I Cantoni possono prescrivere nelle loro disposizioni esecutive che le espropriazioni devono essere eseguite secondo la legge federale del 20 giugno 1930[^16-1] sull’espropriazione. In questo caso, è loro conferito il diritto d’espropriazione secondo l’articolo 3 capoverso 2 della legge suddetta.
 
-[^16-1]: [RS 711](https://fedlex.data.admin.ch/eli/cc/47/689_701_723)
+[^16-1]: [RS 711](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8369)
 
 #### Art. 17
 
@@ -451,16 +451,18 @@ I contributi iscritti nel preventivo concernenti provvedimenti volti a migliorar
 
 [^18-1]
 
-<sup>1</sup> Per motivi di politica dei trasporti e di protezione dell’ambiente, la Confederazione può accordare contributi per i costi di costruzione, di ampliamento e di ammodernamento di binari di raccordo e di impianti di trasbordo per il traffico combinato, nonché contributi d’investimento e d’esercizio per il promovimento del traffico combinato e del trasporto per ferrovia di veicoli stradali accompagnati.
+<sup>1</sup> Per motivi di politica dei trasporti e di protezione dell’ambiente, la Confederazione può accordare contributi per i costi di costruzione, di ampliamento e di rinnovo di impianti di trasbordo e di carico secondo l’articolo 2 lettera c della legge del 21 marzo 2025[^18-2] sul trasporto di merci (LTM), nonché contributi d’investimento e d’esercizio per il promovimento del traffico combinato e del trasporto per ferrovia di veicoli stradali accompagnati.[^18-3]
 
 <sup>2</sup> I contributi sono accordati nella misura necessaria ad assicurare l’autonomia finanziaria. La Confederazione provvede affinché sia garantito un esercizio non discriminatorio.
 
 <sup>3</sup> I contributi per il trasporto di veicoli stradali accompagnati sono accordati nella misura in cui consentano riduzioni tariffali.
 
-<sup>4</sup> Sono applicabili gli articoli 8, 9 e 28 capoverso 3 della legge del 25 settembre 2015[^18-2] sul trasporto di merci.
+<sup>4</sup> Sono applicabili gli articoli 10−12 LTM.[^18-4]
 
 [^18-1]: Nuovo testo giusta l’all. cifra II n. 1 della L del 25 set. 2015 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1845](https://fedlex.data.admin.ch/eli/oc/2016/328); [FF 2014 3253](https://fedlex.data.admin.ch/eli/fga/2014/923)).
-[^18-2]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
+[^18-2]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^18-3]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 21 mar. 2025 sul trasporto di merci per ferrovia, per idrovia e con impianti a fune, in vigore dal 1° gen. 2026 ([RU 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
+[^18-4]: Nuovo testo giusta l’all. cifra II n. 2 della LF del 21 mar. 2025 sul trasporto di merci per ferrovia, per idrovia e con impianti a fune, in vigore dal 1° gen. 2026 ([RU 2025 749](https://fedlex.data.admin.ch/eli/oc/2025/749); [FF 2024 300](https://fedlex.data.admin.ch/eli/fga/2024/300)).
 
 #### Art. 19 e 20
 
@@ -509,7 +511,7 @@ La Confederazione accorda contributi per i provvedimenti di protezione ecologica
 Nel caso di costruzione e di sistemazione delle strade nazionali e di completamento della rete delle strade nazionali[^27-2], i necessari provvedimenti di protezione ecologica secondo l’articolo 25 costituiscono parte integrante del progetto. Per le strade principali, le spese dei provvedimenti sono indennizzate mediante i contributi globali.
 
 [^27-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^27-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^27-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### **Sezione 5:** **Contributi per i provvedimenti protettivi del paesaggio, resi necessari dal traffico stradale**
 
@@ -536,7 +538,7 @@ La Confederazione accorda contributi per i provvedimenti resi necessari dal traf
 Nel caso di costruzione e di sistemazione delle strade nazionali e di completamento della rete delle strade nazionali[^30-2], i necessari provvedimenti di protezione del paesaggio secondo l’articolo 28 costituiscono parte integrante del progetto. Per le strade principali, le spese dei provvedimenti sono indennizzate mediante i contributi globali.
 
 [^30-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^30-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^30-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### **Sezione 6:** **Contributi per le spese delle opere di protezione, lungo le strade, contro le forze della natura**
 
@@ -561,8 +563,8 @@ Nel caso di costruzione e di sistemazione delle strade nazionali e di completame
 
 <sup>2</sup> Il Consiglio federale, uditi i Cantoni, assegna i fondi per i contributi secondo la necessità tecnica e il grado d’urgenza.
 
-[^32-1]: [RS 921.0](https://fedlex.data.admin.ch/eli/cc/1992/2521_2521_2521)
-[^32-2]: [RS 721.100](https://fedlex.data.admin.ch/eli/cc/1993/234_234_234)
+[^32-1]: [RS 921.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10958)
+[^32-2]: [RS 721.100](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8402)
 [^32-3]: Nuovo testo giusta l’all. cifra 3 della LF del 15 mar. 2024, in vigore dal 1° ago. 2025 ([RU 2025 430](https://fedlex.data.admin.ch/eli/oc/2025/430); [FF 2023 858](https://fedlex.data.admin.ch/eli/fga/2023/858)).
 
 #### Art. 33
@@ -572,7 +574,7 @@ Nel caso di costruzione e di sistemazione delle strade nazionali e di completame
 Nel caso di costruzione e di sistemazione delle strade nazionali e di completamento della rete delle strade nazionali[^33-2], le necessarie opere di protezione contro le forze della natura secondo l’articolo 31 costituiscono parte integrante del progetto. Per le strade principali, le spese per le opere di protezione sono indennizzate mediante i contributi globali.
 
 [^33-1]: Nuovo testo giusta la cifra II n. 17 della LF del 6 ott. 2006 (Nuova impostazione della perequazione finanziaria e della ripartizione dei compiti tra Confederazione e Cantoni), in vigore dal 1° gen. 2008 ([RU 2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [FF 2005 5349](https://fedlex.data.admin.ch/eli/fga/2005/976)).
-[^33-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^33-2]: Conformemente al DF del 21 giu. 1960 concernente la rete delle strade nazionali, nelle sue ultime versioni determinanti ([RU 1960 900](https://fedlex.data.admin.ch/eli/oc/1960/872_912_900), **1984** 118, [1986 35](https://fedlex.data.admin.ch/eli/oc/1986/35_35_35)[2515](https://fedlex.data.admin.ch/eli/oc/1986/2515_2515_2515), [1987 52](https://fedlex.data.admin.ch/eli/oc/1987/52_52_52), [1988 562](https://fedlex.data.admin.ch/eli/oc/1988/562_562_562), [2001 3090](https://fedlex.data.admin.ch/eli/oc/2001/464)) e all’art. 197 n. 3 Cost. ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 ### Capitolo 6: Contributi non direttamente vincolati alle opere
 
@@ -788,7 +790,7 @@ Per i seguenti contributi ai Cantoni, la presente legge si applica retroattivame
 
 <sup>2</sup> La Confederazione rinuncia ad esigere gli interessi degli importi che, dopo l’entrata in vigore degli articoli 36<sup>bis</sup> e 36<sup>ter</sup> della Costituzione federale, sono stati anticipati ai Cantoni per salvaguardare i loro diritti acquisiti; le anticipazioni sono imputate sulla riserva.
 
-[^41-1]: [CS **1**3; RU **1983** 445, **1994** 268, [1996 1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)]. A queste disp. corrispondono ora gli art. 83, 86, 131 cpv. 1 lett. e nonché cpv. 2 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
+[^41-1]: [CS **1**3; RU **1983** 445, **1994** 268, [1996 1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)]. A queste disp. corrispondono ora gli art. 83, 86, 131 cpv. 1 lett. e nonché cpv. 2 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
 
 #### Art. 41a
 
