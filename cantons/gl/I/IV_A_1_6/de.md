@@ -1,25 +1,21 @@
 ---
 canton: GL
 number: IV A/1/6
-title: Verfassung des Verbandes der römisch-katholischen Kirchgemeinden des Kantons Glarus
-short: römisch-katholische Landeskirche
+title: Verfassung des Verbandes der römisch-katholischen Kirchgemeinden des Kantons Glarus (römisch-katholische Landeskirche)
 language: de
-version: 2003-01-01
-valid_until: 2025-12-31
-version_adopted: 2002-01-01
+version: 2026-01-01
+version_adopted: 2024-11-12
 adopted: 1990-06-27
 in_force: 1990-06-27
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-A.1.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/823/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2623/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verfassung des Verbandes der römisch-katholischen Kirchgemeinden des Kantons Glarus
+# Verfassung des Verbandes der römisch-katholischen Kirchgemeinden des Kantons Glarus (römisch-katholische Landeskirche)
 
-(römisch-katholische Landeskirche)
-
-Vom 27.06.1990 (Stand 01.01.2003)
+Vom 27.06.1990 (Stand 01.01.2026)
 
 (Angenommen in den römisch-katholischen Kirchgemeinden im Verlaufe des Jahres 1989)
 
@@ -256,13 +252,25 @@ Vom 27.06.1990 (Stand 01.01.2003)
 
 <sup>1</sup> Die Kirchgemeinden umfassen die innerhalb des Kirchgemeindegebietes wohnhaften Angehörigen der römisch-katholischen Konfession, die nicht gegenüber ihrer Kirchgemeinde schriftlich den Austritt oder die Nichtzugehörigkeit erklärt haben.
 
-#### Art. 27
+#### Art. 26a
 
 **Stimm- und Wahlrecht**
 
+<sup>1</sup> Das Stimm- und Wahlrecht in kirchlichen Angelegenheiten steht allen Mitgliedern der Kirchgemeinde zu, welche das Schweizer Bürgerrecht besitzen und das 16. Altersjahr zurückgelegt haben.
+
+<sup>2</sup> Als Mitglied einer Kirchenbehörde sind alle Mitglieder der Kirchgemeinde wählbar, welche das Schweizer Bürgerrecht besitzen und das 18. Altersjahr zurückgelegt haben.
+
+<sup>3</sup> Ausländerinnen und Ausländer mit Niederlassungsbewilligung, die sich zur römisch-katholischen Kirche zählen, sind gemäss den Absätzen 1 und 2 stimmberechtigt und wählbar.
+
+<sup>4</sup> Im Übrigen richtet sich das Stimm- und Wahlrecht nach dem kantonalen Recht.
+
+#### Art. 27
+
+**Kompetenzen**
+
 <sup>1</sup> Die Kompetenzen der Stimmberechtigten sowie der übrigen Kirchgemeindeorgane ergeben sich aus dem kantonalen Recht und aus der Kirchgemeindeordnung.
 
-<sup>2</sup> Stimmberechtigt in Kirchgemeindeangelegenheiten sind die nach kantonalem Recht stimmberechtigten Mitglieder der römisch-katholischen Kirchgemeinden.
+<sup>2</sup> …
 
 <sup>3</sup> Die Stimmberechtigten wählen die von der zuständigen kirchlichen Stelle wahlfähig erklärten Geistlichen und Laientheologen. Ebenso wählen sie die Vorsteherschaft, die Rechnungsrevisoren, die Kirchenbediensteten sowie die übrigen Organe der Kirchgemeinde auf eine Amtsdauer, soweit deren Wahl nicht der Vorsteherschaft übertragen ist.
 
