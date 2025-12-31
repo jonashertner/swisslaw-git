@@ -4,11 +4,11 @@ title: "Legge federale del 6 ottobre 1989 sul collocamento e il personale a pres
 short: LC
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/392_392_392"
 language: it
-version: 2024-01-01
+version: 2026-01-01
 adopted: 1989-10-06
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/392_392_392/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1991-392_392_392-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/20240101/it"
 
 (Legge sul collocamento, LC)
 
-del 6 ottobre 1989 (Stato 1° gennaio 2024)
+del 6 ottobre 1989 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visti gli articoli 31<sup>bis</sup> capoverso 2, 34<sup>ter</sup> capoverso 1 le
 
 decreta:
 
-[^ingress-1]: [CS **1** 3; **1976** 2001]. Queste disp. corrispondono agli art. 95, 110 cpv. 1 lett. a e c, 122 cpv. 1 e 123 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^ingress-1]: [CS **1** 3; **1976** 2001]. Queste disp. corrispondono agli art. 95, 110 cpv. 1 lett. a e c, 122 cpv. 1 e 123 cpv. 1 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^ingress-3]: [FF 1985 III 503](https://fedlex.data.admin.ch/eli/fga/1985/3_556_524_503)
 
 ## Capitolo 1: Scopo
@@ -58,7 +58,7 @@ Scopo della presente legge è di:
 <sup>5</sup> Per le succursali che hanno la sede in un Cantone diverso da quello della sede principale, dev’essere chiesta un’autorizzazione d’esercizio; se hanno la sede nello stesso Cantone, devono essere annunciate all’ufficio cantonale del lavoro.
 
 [^2-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^2-2]: Nuova espressione giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-2]: Nuova espressione giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 3
 
@@ -161,7 +161,7 @@ Sono nulli gli accordi che:
 
 [^10-1]
 
-[^10-1]: Abrogata dall’all. 1 n. II 28 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^10-1]: Abrogata dall’all. 1 cifra II n. 28 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ### Sezione 4: Contributi finanziari in favore del collocamento privato
 
@@ -311,7 +311,7 @@ Sono nulli gli accordi che:
 
 <sup>6</sup> Se il prestatore è privo dell’autorizzazione necessaria, il contratto di lavoro con il lavoratore è nullo. In questo caso, è applicabile l’articolo 320 capoverso 3 del Codice delle obbligazioni[^19-1] sulle conseguenze di un contratto di lavoro nullo.
 
-[^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^19-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 20
 
@@ -339,7 +339,7 @@ L’organo paritetico di controllo previsto nel contratto collettivo di obbligat
 
 <sup>2</sup> Sono possibili deroghe se motivi economici speciali lo giustificano.
 
-[^21-1]: Nuovo testo giusta l’all. n. II 8 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
+[^21-1]: Nuovo testo giusta l’all. cifra II n. 8 della LF del 16 dic. 2005 sugli stranieri, in vigore dal 1° gen. 2008 ([RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758); [FF 2002 3327](https://fedlex.data.admin.ch/eli/fga/2002/541)).
 
 #### Art. 22
 
@@ -364,7 +364,7 @@ Il prestatore deve concludere con l’impresa acquisitrice un contratto scritto.
 
 <sup>5</sup> Se il prestatore è privo dell’autorizzazione necessaria, il contratto di fornitura di personale a prestito è nullo. In questo caso, sono applicabili le disposizioni del Codice delle obbligazioni[^22-1] sugli atti illeciti e sull’indebito arricchimento.
 
-[^22-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^22-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### Section 3:...
 
@@ -372,7 +372,7 @@ Il prestatore deve concludere con l’impresa acquisitrice un contratto scritto.
 
 [^23-1]
 
-[^23-1]: Abrogata dall’all. 1 n. II 28 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
+[^23-1]: Abrogata dall’all. 1 cifra II n. 28 del Codice di procedura civile del 19 dic. 2008, con effetto dal 1° gen. 2011 ([RU 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [FF 2006 6593](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
 ## Capitolo 4: Servizio pubblico di collocamento
 
@@ -398,7 +398,7 @@ Il prestatore deve concludere con l’impresa acquisitrice un contratto scritto.
 
 [^25-1]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 [^25-2]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^25-3]: Introdotto dall’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
+[^25-3]: Introdotto dall’all. cifra III n. 5 della L del 26 set. 2014 sugli Svizzeri all’estero, in vigore dal 1° nov. 2015 ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)).
 [^25-4]: Abrogato dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
 
 #### Art. 26
@@ -430,13 +430,15 @@ Il servizio pubblico di collocamento è gratuito. Agli utenti possono essere add
 
 <sup>2</sup> I Cantoni possono organizzare, per i disoccupati il cui collocamento è impossibile o molto difficile, corsi di riqualificazione, formazione continua e reintegrazione.[^28-2]
 
-<sup>3</sup> Essi possono organizzare programmi destinati a procurare lavoro nei limiti dell’articolo 72 della legge del 25 giugno 1982[^28-3] sull’assicurazione contro la disoccupazione per provvedere all’occupazione temporanea di disoccupati.
+<sup>3</sup> Per occupare temporaneamente i disoccupati, i Cantoni possono adottare provvedimenti di occupazione secondo l’articolo 64*a* della legge del 25 giugno 1982[^28-3] sull’assicurazione contro la disoccupazione (LADI).[^28-4]
 
-<sup>4</sup> Gli uffici del lavoro proseguono adeguatamente i loro sforzi per collocare il disoccupato, anche se egli segue un corso o lavora temporaneamente nell’ambito dei provvedimenti di cui agli articoli 59–72 della legge 25 giugno 1982 sull’assicurazione contro la disoccupazione.
+<sup>4</sup> Gli uffici del lavoro proseguono adeguatamente i loro sforzi per collocare il disoccupato, anche se egli segue un corso o lavora temporaneamente nell’ambito dei provvedimenti di cui agli articoli 59–71*d* LADI.[^28-5]
 
 [^28-1]: Nuovo testo giusta l’all. n. 35 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 [^28-2]: Nuovo testo giusta l’all. n. 35 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
-[^28-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^28-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^28-4]: Nuovo testo giusta l’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^28-5]: Nuovo testo giusta l’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 
 #### Art. 29
 
@@ -506,14 +508,15 @@ Gli organi incaricati di applicare la presente legge oppure di controllarne o so
 Dati personali degni di particolare protezione possono essere trattati alle condizioni seguenti:
 
 - a. per i dati concernenti la salute e l’appartenenza religiosa della persona in cerca di lavoro: se sono necessari per il collocamento;
-- b. per i dati concernenti i provvedimenti decisi o previsti nell’ambito dell’esecuzione della presente legge e della legge federale del 25 giugno 1982[^33a-3] sull’assicurazione contro la disoccupazione: se si ripercuotono direttamente sulle prestazioni dell’assicurazione contro la disoccupazione.
+- b.[^33a-3] per i dati concernenti i provvedimenti decisi o previsti nell’ambito dell’esecuzione della presente legge e della LADI[^33a-4]: se si ripercuotono direttamente sulle prestazioni dell’assicurazione contro la disoccupazione.
 
-<sup>3</sup> Inoltre, gli organi incaricati di applicare la presente legge oppure di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare i dati personali che permettono di valutare la situazione personale ed economica dei beneficiari di prestazioni di consulenza ai sensi della presente legge.[^33a-4]
+<sup>3</sup> Inoltre, gli organi incaricati di applicare la presente legge oppure di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare i dati personali che permettono di valutare la situazione personale ed economica dei beneficiari di prestazioni di consulenza ai sensi della presente legge.[^33a-5]
 
-[^33a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^33a-2]: Nuovo testo giusta l’all. 1 n. II 79 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^33a-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^33a-4]: Introdotto dall’all. 1 n. II 79 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^33a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^33a-2]: Nuovo testo giusta l’all. 1 cifra II n. 79 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^33a-3]: Nuovo testo giusta l’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^33a-4]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^33a-5]: Introdotto dall’all. 1 cifra II n. 79 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 34
 
@@ -521,7 +524,7 @@ Dati personali degni di particolare protezione possono essere trattati alle cond
 
 Le persone incaricate di svolgere, controllare o sorvegliare l’attività del servizio pubblico di collocamento devono mantenere il segreto nei confronti di terzi riguardo ai dati relativi alle persone in cerca di lavoro, ai datori di lavoro e ai posti vacanti.
 
-[^34-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^34-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 
 #### Art. 34a
 
@@ -561,11 +564,14 @@ Negli altri casi i dati possono essere comunicati a terzi alle condizioni seguen
 
 <sup>7</sup> I dati sono di norma comunicati per scritto e gratuitamente. Il Consiglio federale può prevedere la riscossione di un emolumento qualora sia necessario un particolare dispendio di lavoro.
 
-[^34a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^34a-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+<sup>8</sup> I dati possono essere comunicati per via elettronica.[^34a-6]
+
+[^34a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^34a-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 [^34a-3]: Introdotta dall’all. n. 25 della LF del 19 dic. 2008 (Protezione degli adulti, diritto delle persone e diritto della filiazione), in vigore dal 1° gen. 2013 ([RU 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [FF 2006 6391](https://fedlex.data.admin.ch/eli/fga/2006/899)).
-[^34a-4]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^34a-5]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^34a-4]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^34a-5]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^34a-6]: Introdotto dall’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
 
 #### Art. 34b
 
@@ -582,7 +588,7 @@ Purché rimangano tutelati interessi preponderanti, possono consultare gli atti:
 
 <sup>2</sup> Nel caso di dati relativi alla salute, la cui comunicazione potrebbe ripercuotersi negativamente sulla salute della persona autorizzata a consultare gli atti, questa può essere tenuta a designare un medico che glieli comunichi.
 
-[^34b-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^34b-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 
 #### Art. 35
 
@@ -590,7 +596,7 @@ Purché rimangano tutelati interessi preponderanti, possono consultare gli atti:
 
 <sup>1</sup>
 
-L’ufficio di compensazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 3 della legge del 25 giugno 1982[^35-3] sull’assicurazione contro la disoccupazione [LADI]) gestisce sistemi d’informazione che servono:
+L’ufficio di compensazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 3 LADI[^35-3]) gestisce sistemi d’informazione che servono:[^35-4]
 
 - a.
 
@@ -610,26 +616,13 @@ L’ufficio di compensazione dell’assicurazione contro la disoccupazione (art.
   - 2\. consultare i posti vacanti soggetti all’obbligo di annuncio,
   - 3\. annunciare i posti vacanti,
   - 4\. contattare le persone in cerca d’impiego,
-  - 5\. gestire i posti vacanti.[^35-4]
+  - 5\. gestire i posti vacanti.[^35-5]
 
-<sup>2</sup> Il sistema d’informazione di cui al capoverso 1 lettera a può trattare dati personali, compresi quelli degni di particolare protezione conformemente all’articolo 33*a* capoverso 2.[^35-5]
+<sup>2</sup> Il sistema d’informazione di cui al capoverso 1 lettera a può trattare dati personali, compresi quelli degni di particolare protezione conformemente all’articolo 33*a* capoverso 2.[^35-6]
 
-<sup>3</sup>
+<sup>3</sup> Gli organi di esecuzione di cui all’articolo 76 capoverso 1 lettere a e c LADI hanno accesso ai sistemi d’informazione previsti dall’articolo 83 capoverso 1<sup>bis</sup> LADI nella misura in cui lo esiga l’adempimento dei compiti di cui agli articoli 81 e 85 LADI.[^35-7]
 
-I seguenti uffici e organi hanno accesso al sistema del servizio pubblico di collocamento e possono trattare dati:[^35-6]
-
-- [tab] a. e b.[^35-7] ...
-- c.[^35-8] gli uffici cantonali del lavoro (art. 32 cpv. 2), per adempiere i compiti loro assegnati dalla legge (art. 85 LADI);
-- d.[^35-9] i servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro, per adempiere i compiti loro assegnati dalla legge (art. 85*c* LADI);
-- e.[^35-10] gli uffici regionali di collocamento (URC), per adempiere i compiti loro assegnati dalla legge (art. 85*b* LADI);
-- f.[^35-11] ...
-- g.[^35-12] gli organi dell’assicurazione per l’invalidità, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a*;
-- [tab] h. e i.[^35-13]...
-- j.[^35-14] ...
-- [tab] j<sup>bis</sup>.[^35-15]gli organi dell’assistenza sociale, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a*;
-- [tab] k.[^35-16]...
-
-<sup>3bis</sup> Se necessario all’esecuzione della presente legge e della LADI, lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione del servizio pubblico di collocamento e dell’assicurazione contro la disoccupazione è autorizzato.[^35-17]
+<sup>3bis</sup> Se necessario all’esecuzione della presente legge e della LADI, lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione del servizio pubblico di collocamento e dell’assicurazione contro la disoccupazione è autorizzato.[^35-8]
 
 <sup>3ter</sup>
 
@@ -638,8 +631,16 @@ Le seguenti persone e i seguenti uffici hanno un accesso protetto alla piattafor
 - a. le persone in cerca d’impiego registrate all’URC, per accedere alle informazioni sui posti vacanti annunciati;
 - b. i datori di lavoro, per annunciare i posti vacanti e contattare le persone in cerca d’impiego;
 - c. i collocatori privati che dispongono di un’autorizzazione di collocamento, per consultare in forma non anonimizzata i profili delle persone in cerca d’impiego;
-- d. gli URC, per gestire gli annunci di posti vacanti;
-- e. la Direzione consolare del DFAE, per adempiere i compiti di cui all’articolo 25 capoverso 1.[^35-18]
+- d.[^35-9] ...
+- e. la Direzione consolare del DFAE, per adempiere i compiti di cui all’articolo 25 capoverso 1;
+- f.[^35-10] gli organizzatori di provvedimenti inerenti al mercato del lavoro, per riversarvi gli attestati di partecipazione degli assicurati (art. 59*b* e 59*c*<sup>bis</sup> cpv. 3 LADI).[^35-11]
+
+<sup>3quater</sup>
+
+I seguenti organi hanno accesso al sistema d’informazione del servizio pubblico di collocamento e possono trattare dati:
+
+- a. gli organi dell’assicurazione per l’invalidità, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a*;
+- b. gli organi dell’assistenza sociale, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35*a.*[^35-12]
 
 <sup>4</sup> La Confederazione partecipa alle spese, nella misura in cui siano dovute all’adempimento di compiti federali.
 
@@ -650,30 +651,24 @@ Il Consiglio federale disciplina:
 - a. la responsabilità per la protezione dei dati;
 - b. i dati da raccogliere;
 - c. il termine di conservazione dei dati;
-- d.[^35-19] la portata dei diritti di accesso e di trattamento dei dati personali, compresi i dati personali degni di particolare protezione, accordati alle persone, agli uffici e agli organi di cui ai capoversi 3 e 3<sup>ter</sup>;
+- d.[^35-13] la portata dei diritti di accesso e di trattamento dei dati personali, compresi i dati personali degni di particolare protezione, accordati alle persone, agli uffici e agli organi di cui ai capoversi 3 e 3<sup>ter</sup>;
 - e. l’organizzazione e la gestione del sistema d’informazione;
 - f. la collaborazione fra le autorità interessate;
 - g. la sicurezza dei dati.
 
-[^35-1]: Nuovo testo giusta il n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^35-1]: Nuovo testo giusta la cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 [^35-2]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35-4]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-5]: Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^35-6]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-7]: Abrogate dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-8]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-9]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-10]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-11]: Abrogata dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-12]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-13]: Abrogate dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-14]: Introdotta dall’all. n. III 5 della L del 26 set. 2014 sugli Svizzeri all’estero ([RU 2015 3857](https://fedlex.data.admin.ch/eli/oc/2015/653); [FF 2014 1723](https://fedlex.data.admin.ch/eli/fga/2014/363)[2379](https://fedlex.data.admin.ch/eli/fga/2014/452)). Abrogata dall’all. n. 1 della LF del 19 giu. 2020, con effetto dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-15]: Introdotta dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-16]: Introdotta dall’art. 4 n. 2 della LF del 27 set. 2019 sulla partecipazione ai costi dei Cantoni per i controlli concernenti l’obbligo di annunciare i posti vacanti, in vigore dal 1° gen. 2020 al 31 dic. 2023 (RU 2020 811; FF 2019 2341).
-[^35-17]: Introdotto dal n. II 1 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^35-18]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
-[^35-19]: Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^35-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^35-4]: Nuovo testo giusta l’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^35-5]: Nuovo testo giusta l’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-6]: Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^35-7]: Nuovo testo giusta l’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^35-8]: Introdotto dalla cifra II n. 1 della LF del 19 mar. 2010 sull’assicurazione contro la disoccupazione ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)). Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^35-9]: Abrogata dall’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), con effetto dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^35-10]: Introdotta dall’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^35-11]: Introdotto dall’all. n. 1 della LF del 19 giu. 2020, in vigore dal 1° lug. 2021 ([RU 2021 338](https://fedlex.data.admin.ch/eli/oc/2021/338); [FF 2019 3659](https://fedlex.data.admin.ch/eli/fga/2019/1581)).
+[^35-12]: Introdotto dall’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^35-13]: Nuovo testo giusta l’all. 2 n. 4 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 35a
 
@@ -681,10 +676,10 @@ Il Consiglio federale disciplina:
 
 <sup>1</sup>
 
-Ai fini della collaborazione interistituzionale prevista nell’articolo 85*f* della legge del 25 giugno 1982[^35a-3] sull’assicurazione contro la disoccupazione, gli uffici di orientamento professionale, i servizi sociali dei Cantoni e dei Comuni, gli organi di esecuzione delle leggi cantonali di aiuto ai disoccupati, dell’assicurazione invalidità, dell’assicurazione contro le malattie e della legislazione sull’asilo, le autorità cantonali incaricate della formazione professionale, l’Istituto nazionale svizzero di assicurazione contro gli infortuni, nonché altre istituzioni private o pubbliche importanti per la reintegrazione degli assicurati possono essere autorizzati nel caso specifico a consultare i dati utili del sistema d’informazione se:
+Ai fini della collaborazione interistituzionale prevista nell’articolo 85*f* LADI[^35a-3], gli uffici di orientamento professionale, i servizi sociali dei Cantoni e dei Comuni, gli organi di esecuzione delle leggi cantonali di aiuto ai disoccupati, dell’assicurazione invalidità, dell’assicurazione contro le malattie e della legislazione sull’asilo, le autorità cantonali incaricate della formazione professionale, l’Istituto nazionale svizzero di assicurazione contro gli infortuni, nonché altre istituzioni private o pubbliche importanti per la reintegrazione degli assicurati possono essere autorizzati nel caso specifico a consultare i dati utili del sistema d’informazione se:[^35a-4]
 
 - a. la persona interessata riceve prestazioni da uno di questi organi e dà il suo consenso; e
-- b. gli organi menzionati accordano la reciprocità agli organi di esecuzione dell’assicurazione contro la disoccupazione.[^35a-4]
+- b. gli organi menzionati accordano la reciprocità agli organi di esecuzione dell’assicurazione contro la disoccupazione.[^35a-5]
 
 <sup>1bis</sup>
 
@@ -696,18 +691,19 @@ Gli organi di esecuzione dell’assicurazione contro la disoccupazione e gli uff
   le informazioni e i documenti sono utilizzati nei casi in cui non è ancora stabilito in modo chiaro qual è l’organo che assicura il finanziamento:
 
   - 1\. per decidere qual è il provvedimento di reintegrazione adeguato per l’interessato, e
-  - 2\. per stabilire le pretese dell’interessato nei confronti dell’assicurazione contro la disoccupazione e dell’assicurazione invalidità.[^35a-5]
+  - 2\. per stabilire le pretese dell’interessato nei confronti dell’assicurazione contro la disoccupazione e dell’assicurazione invalidità.[^35a-6]
 
-<sup>1ter</sup> Lo scambio di dati ai sensi del capoverso 1<sup>bis</sup> può aver luogo anche senza il consenso dell’interessato e, in casi specifici, anche oralmente. Occorre in seguito informare l’interessato sullo scambio di dati e sul suo contenuto.[^35a-6]
+<sup>1ter</sup> Lo scambio di dati ai sensi del capoverso 1<sup>bis</sup> può aver luogo anche senza il consenso dell’interessato e, in casi specifici, anche oralmente. Occorre in seguito informare l’interessato sullo scambio di dati e sul suo contenuto.[^35a-7]
 
 <sup>2</sup> I collocatori privati che dispongono di un’autorizzazione di collocamento possono accedere ai dati del sistema d’informazione mediante un’adeguata procedura di richiamo. A tal fine i dati devono essere resi anonimi. L’obbligo d’anonimato viene meno soltanto se la persona in cerca di lavoro dà il proprio consenso scritto.
 
-[^35a-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
-[^35a-2]: Nuovo testo giusta il n. II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^35a-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^35a-4]: Nuovo testo giusta il n. II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^35a-5]: Introdotto dal n. II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
-[^35a-6]: Introdotto dal n. II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^35a-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^35a-2]: Nuovo testo giusta la cifra II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^35a-3]: [RS 837.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10282)
+[^35a-4]: Nuovo testo giusta l’all. della LF del 14 giu. 2024 (Sistema di rimborso delle casse di disoccupazione), in vigore dal 1° gen. 2026 ([RU 2025 764](https://fedlex.data.admin.ch/eli/oc/2025/764); [FF 2023 2862](https://fedlex.data.admin.ch/eli/fga/2023/2862)).
+[^35a-5]: Nuovo testo giusta la cifra II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^35a-6]: Introdotto dalla cifra II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
+[^35a-7]: Introdotto dalla cifra II della LF del 22 mar. 2002, in vigore dal 1° lug. 2003 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)).
 
 #### Art. 35b
 
@@ -717,7 +713,7 @@ Gli organi di esecuzione dell’assicurazione contro la disoccupazione e gli uff
 
 <sup>2</sup> Tale elenco può contenere dati personali degni di particolare protezione relativi alla revoca, alla soppressione o al mancato rilascio di un’autorizzazione.
 
-[^35b-1]: Introdotto dal n. I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
+[^35b-1]: Introdotto dalla cifra I della LF del 23 giu. 2000, in vigore dal 1° gen. 2001 ([RU 2000 2744](https://fedlex.data.admin.ch/eli/oc/2000/460); [FF 2000 205](https://fedlex.data.admin.ch/eli/fga/2000/99)).
 
 #### Art. 36
 
@@ -761,7 +757,7 @@ Sono autorità di ricorso:
 
 [^38-1]: Nuovo testo giusta l’all. n. 101 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^38-2]: Nuovo testo giusta l’all. n. 101 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
-[^38-3]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
+[^38-3]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
 [^38-4]: Abrogata dall’all. n. 101 della L del 17 giu. 2005 sul Tribunale amministrativo federale, con effetto dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 [^38-5]: Nuovo testo del per. giusta l’all. n. 101 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2007 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
@@ -795,9 +791,9 @@ Sono autorità di ricorso:
 
 <sup>6</sup> Il perseguimento penale incombe ai Cantoni.
 
-[^39-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)n. III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. IV 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)n. I 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)n. I 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. n. II 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)n. I 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)n. I 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. n. I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri ([RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)).
+[^39-1]: [CS **1** 117; [RU 1949 225](https://fedlex.data.admin.ch/eli/oc/1949/221_225_225); [1987 1665](https://fedlex.data.admin.ch/eli/oc/1987/1665_1665_1665); [1988 332](https://fedlex.data.admin.ch/eli/oc/1988/332_332_332); [1990 1587](https://fedlex.data.admin.ch/eli/oc/1990/1587_1587_1587)art. 3 cpv. 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)cifra II n. 11, [1034](https://fedlex.data.admin.ch/eli/oc/1991/1034_1034_1034)cifra III; [1995 146](https://fedlex.data.admin.ch/eli/oc/1995/146_146_146); [1999 1111](https://fedlex.data.admin.ch/eli/oc/1999/148), [2253](https://fedlex.data.admin.ch/eli/oc/1999/356), [2262](https://fedlex.data.admin.ch/eli/oc/1999/358)all. n. 1; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra IV n. 2; [2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)cifra I n. 1, [701](https://fedlex.data.admin.ch/eli/oc/2002/140)cifra I n. 1, [3988](https://fedlex.data.admin.ch/eli/oc/2002/639)all. n. 3; [2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)all. cifra II n. 2; [2004 1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I n. 1, [4655](https://fedlex.data.admin.ch/eli/oc/2004/715)cifra I n. 1; [2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782)all. n. 2; [2006 979](https://fedlex.data.admin.ch/eli/oc/2006/178)art. 2 n. 1, [1931](https://fedlex.data.admin.ch/eli/oc/2006/301)art. 18 n. 1, [2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 3, [3459](https://fedlex.data.admin.ch/eli/oc/2006/549)all. n. 1, [4745](https://fedlex.data.admin.ch/eli/oc/2006/727)all. n. 1; [2007 359](https://fedlex.data.admin.ch/eli/oc/2007/71)all. n. 1. [RU 2007 5437](https://fedlex.data.admin.ch/eli/oc/2007/758)all. cifra I]. Vedi ora: la LF del 16 dic. 2005 sugli stranieri ([RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)).
 [^39-2]: Nuovo testo giusta l’art. 333 del Codice penale, nella versione della LF del 13 dic. 2002, in vigore dal 1° gen. 2007 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
-[^39-3]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^39-3]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 9: Disposizioni finali
 
@@ -828,7 +824,7 @@ Sono abrogate:
 - a. la legge federale del 22 giugno 1951[^42-2] sul servizio di collocamento;
 - b. la legge federale del 22 marzo 1888[^42-3] sulle operazioni delle agenzie di emigrazione.
 
-[^42-1]: Abrogato dal n. II 36 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^42-1]: Abrogato dalla cifra II n. 36 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 [^42-2]: [[RU 1951 1249](https://fedlex.data.admin.ch/eli/oc/1951/1211_1217_1249)]
 [^42-3]: [CS **10** 228]
 
@@ -836,7 +832,7 @@ Sono abrogate:
 
 [^43-1]
 
-[^43-1]: Abrogato dal n. II 36 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^43-1]: Abrogato dalla cifra II n. 36 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
 
 #### Art. 44
 
