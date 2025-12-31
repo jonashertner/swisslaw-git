@@ -4,13 +4,12 @@ number: "117.110"
 title: Dekret über die Bezirks- und Kreiseinteilung
 short: DBK
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-09-12
+version: 2026-01-01
+version_adopted: 2025-09-23
 adopted: 2010-09-21
 in_force: 2011-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/117.110"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3361/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3891/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3361/pdf_file"
 
 (DBK)
 
-Vom 21.09.2010 (Stand 01.01.2024)
+Vom 21.09.2010 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -38,7 +37,7 @@ beschliesst:
 - 1\. Bezirk Aarau: Aarau, Biberstein, Buchs, Densbüren, Erlinsbach, Gränichen, Hirschthal, Küttigen, Muhen, Oberentfelden, Suhr, Unterentfelden.
 - 2\. Bezirk Baden: Baden, Bellikon, Bergdietikon, Birmenstorf, Ehrendingen, Ennetbaden, Fislisbach, Freienwil, Gebenstorf, Killwangen, Künten, Mägenwil, Mellingen, Neuenhof, Niederrohrdorf, Oberrohrdorf, Obersiggenthal, Remetschwil, Spreitenbach, Stetten, Untersiggenthal, Wettingen, Wohlenschwil, Würenlingen, Würenlos.
 - 3\. Bezirk Bremgarten: Arni, Berikon, Bremgarten, Büttikon, Dottikon, Eggenwil, Fischbach-Göslikon, Hägglingen, Islisberg, Jonen, Niederwil, Oberlunkhofen, Oberwil-Lieli, Rudolfstetten-Friedlisberg, Sarmenstorf, Tägerig, Uezwil, Unterlunkhofen, Villmergen, Widen, Wohlen, Zufikon.
-- 4\. Bezirk Brugg: Auenstein, Birr, Birrhard, Bözberg, Brugg, Habsburg, Hausen, Lupfig, Mandach, Mönthal, Mülligen, Remigen, Riniken, Rüfenach, Schinznach, Thalheim, Veltheim, Villigen, Villnachern, Windisch.
+- 4\. Bezirk Brugg: Auenstein, Birr, Birrhard, Bözberg, Brugg, Habsburg, Hausen, Lupfig, Mandach, Mönthal, Mülligen, Remigen, Riniken, Rüfenach, Schinznach, Thalheim, Veltheim, Villigen, Windisch.
 - 5\. Bezirk Kulm: Beinwil am See, Birrwil, Dürrenäsch, Gontenschwil, Holziken, Leimbach, Leutwil, Menziken, Oberkulm, Reinach, Schlossrued, Schmiedrued, Schöftland, Teufenthal, Unterkulm, Zetzwil.
 - 6\. Bezirk Laufenburg: Böztal, Eiken, Frick, Gansingen, Gipf-Oberfrick, Herznach-Ueken, Kaisten, Laufenburg, Mettauertal, Münchwilen, Oberhof, Oeschgen, Schwaderloch, Sisseln, Wittnau, Wölflinswil, Zeihen.
 - 7\. Bezirk Lenzburg: Ammerswil, Boniswil, Brunegg, Dintikon, Egliswil, Fahrwangen, Hallwil, Hendschiken, Holderbank, Hunzenschwil, Lenzburg, Meisterschwanden, Möriken-Wildegg, Niederlenz, Othmarsingen, Rupperswil, Schafisheim, Seengen, Seon, Staufen.
@@ -60,7 +59,7 @@ beschliesst:
 - 5\. Kreis V: Bellikon, Birmenstorf, Fislisbach, Gebenstorf, Künten, Mägenwil, Mellingen, Niederrohrdorf, Oberrohrdorf, Remetschwil, Stetten, Wohlenschwil.
 - 6\. Kreis VI: Büttikon, Dottikon, Fischbach-Göslikon, Hägglingen, Niederwil, Sarmenstorf, Tägerig, Uezwil, Villmergen, Wohlen.
 - 7\. Kreis VII: Arni, Berikon, Bremgarten, Eggenwil, Islisberg, Jonen, Oberlunkhofen, Oberwil-Lieli, Rudolfstetten-Friedlisberg, Unterlunkhofen, Widen, Zufikon.
-- 8\. Kreis VIII: Auenstein, Birr, Birrhard, Bözberg, Brugg, Habsburg, Hausen, Lupfig, Mandach, Mönthal, Mülligen, Remigen, Riniken, Rüfenach, Schinznach, Thalheim, Veltheim, Villigen, Villnachern, Windisch.
+- 8\. Kreis VIII: Auenstein, Birr, Birrhard, Bözberg, Brugg, Habsburg, Hausen, Lupfig, Mandach, Mönthal, Mülligen, Remigen, Riniken, Rüfenach, Schinznach, Thalheim, Veltheim, Villigen, Windisch.
 - 9\. Kreis IX: Beinwil am See, Birrwil, Dürrenäsch, Gontenschwil, Holziken, Leimbach, Leutwil, Menziken, Oberkulm, Reinach, Schlossrued, Schmiedrued, Schöftland, Teufenthal, Unterkulm, Zetzwil.
 - 10\. Kreis X: Böztal, Eiken, Frick, Gansingen, Gipf-Oberfrick, Herznach-Ueken, Kaisten, Laufenburg, Mettauertal, Münchwilen, Oberhof, Oeschgen, Schwaderloch, Sisseln, Wittnau, Wölflinswil, Zeihen.
 - 11\. Kreis XI: Ammerswil, Brunegg, Dintikon, Hendschiken, Holderbank, Lenzburg, Möriken-Wildegg, Niederlenz, Othmarsingen.
