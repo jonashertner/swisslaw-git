@@ -4,11 +4,10 @@ number: "810.1"
 title: Gesundheitsgesetz (GesG)
 short: GesG
 language: de
-version: "2023-07-01"
-nachtrag: "122"
-valid_until: 2026-01-01
+version: "2026-01-01"
+nachtrag: "131"
 adopted: 2007-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-131.html"
 text: pdf
 ---
 
@@ -58,7 +57,7 @@ Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige
 
 **1**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131
 
 - d. Verrichtungen zur Veränderung der Empfängnis- und Zeugungsfähigkeit vornimmt,
 
@@ -154,7 +153,7 @@ Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige
 
 **3**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131
 
 <sup>5</sup> Die §§ 5–8 und 10–21 sowie die für die jeweilige Berufskategorie anwendbaren allgemeinen und besonderen Bestimmungen gelten sinngemäss.
 
@@ -232,7 +231,7 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 **5**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131
 
 ### C. Notfalldienst<sup>23</sup>
 
@@ -316,23 +315,27 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 § 17 g.<sup>23</sup> <sup>1</sup> Die Direktion beaufsichtigt die Organisation und die Durchführung des Notfalldienstes. Die durchführenden Stellen erstatten der Direktion jährlich über ihre Tätigkeit Bericht.
 
+<sup>2</sup> Der Kantonsrat übt die Oberaufsicht über die Organisation und die Durchführung des Notfalldienstes aus.<sup>32</sup>
+
 **7**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131
 
-<sup>2</sup> Entscheide der Standesorganisation und Entscheide von Dritten gemäss § 17 b sind mit Rekurs bei der Direktion anfechtbar. Entscheidet die Gemeinde, richtet sich der Rechtsmittelweg nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959<sup>3</sup>.
+<sup>3</sup> Entscheide der Standesorganisation und Entscheide von Dritten gemäss § 17 b sind mit Rekurs bei der Direktion anfechtbar. Entscheidet die Gemeinde, richtet sich der Rechtsmittelweg nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959<sup>3</sup>.
 
 **Triagestelle**
 
 § 17 h.<sup>23</sup> <sup>1</sup> Die Direktion betreibt eine für das ganze Kantonsgebiet zuständige, jederzeit erreichbare Triagestelle zur Koordination der Notfalldienste und Patientenvermittlung.
 
-<sup>2</sup> Die Triagestelle a. verfügt über eine Betriebsbewilligung nach §§ 35 und 36,
+<sup>2</sup> Die Triagestelle a.<sup>32</sup> ist von den Notfalldienstleistenden und anderen medizinischen Leistungserbringern finanziell unabhängig,
 
-- b. unterhält eine kantonsweit einheitliche Notfallrufnummer,
+- b. verfügt über eine Betriebsbewilligung nach §§ 35 und 36,
 
-- c. vermittelt Patientinnen und Patienten an die örtlich und fachlich zuständigen Notfalldienstleistenden oder im Bedarfsfall an andere medizinische Leistungserbringer,
+- c. unterhält eine kantonsweit einheitliche Notfallrufnummer,
 
-- d. legt Regeln zur einheitlichen Gestaltung der Dienstpläne der Standesorganisationen fest.
+- d. vermittelt Patientinnen und Patienten an die örtlich und fachlich zuständigen Notfalldienstleistenden oder im Bedarfsfall an andere medizinische Leistungserbringer,
+
+- e. legt Regeln zur einheitlichen Gestaltung der Dienstpläne der Standesorganisationen fest.
 
 <sup>3</sup> Die Direktion kann eine Standesorganisation oder Dritte mit dem Betrieb der Triagestelle beauftragen. Die Auswahl findet im Rahmen einer öffentlichen Ausschreibung statt, die alle zehn Jahre neu durchgeführt wird.<sup>29</sup>
 
@@ -386,13 +389,15 @@ Der Kanton kann, soweit notwendig, den praktischen Teil der Grundausbildung sowi
 
 <sup>2</sup> Sie berücksichtigt bei der Berechnung des Umfangs der Aus- und Weiterbildungsverpflichtung der Institutionen insbesondere den gesamtkantonalen Bedarf, die Besonderheiten der einzelnen Institutionstypen und Berufsgruppen und den Arbeitsmarkt.
 
-<sup>3</sup> Die Institutionen dürfen Minderleistungen bei der Aus- und Weiterbildung in einem Beruf durch Mehrleistungen in einem anderen Beruf ausgleichen. Sie dürfen untereinander mit Aus- und Weiterbildungsleistungen handeln. Der Regierungsrat regelt das Nähere.
-
 **9**
 
-- 1\. 7. 23 - 121 § 22 a.<sup>27</sup> <sup>1</sup> Erfüllt eine Institution ihre Aus- und Weiterbildungspflicht nicht, kürzt die Direktion allfällige Staatsbeiträge oder erhebt eine Ersatzabgabe. In begründeten Fällen kann sie darauf verzichten.
+- 1\. 1. 26 - 131
+
+<sup>3</sup> Die Institutionen dürfen Minderleistungen bei der Aus- und Weiterbildung in einem Beruf durch Mehrleistungen in einem anderen Beruf ausgleichen. Sie dürfen untereinander mit Aus- und Weiterbildungsleistungen handeln. Der Regierungsrat regelt das Nähere.
 
 **b. Ersatzabgaben**
+
+§ 22 a.<sup>27</sup> <sup>1</sup> Erfüllt eine Institution ihre Aus- und Weiterbildungspflicht nicht, kürzt die Direktion allfällige Staatsbeiträge oder erhebt eine Ersatzabgabe. In begründeten Fällen kann sie darauf verzichten.
 
 <sup>2</sup> Die Höhe der Kürzung oder Ersatzabgabe beträgt 150% der durchschnittlichen Kosten der nicht geleisteten Aus- oder Weiterbildung. Der Regierungsrat kann für einzelne Institutionstypen oder Berufsgruppen einen tieferen Prozentsatz für die Kürzung oder Ersatzabgabe vorsehen.
 
@@ -454,17 +459,17 @@ Die Bewilligung zur selbstständigen Tätigkeit als Drogistin oder Drogist setzt
 
 <sup>2</sup> Die Gesuchstellerin hat zudem die praktische Tätigkeit nachzuweisen, die gemäss Bundesgesetz über die Krankenversicherung (KVG) erforderlich ist, um Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen zu können.
 
-#### § 31
+**11**
+
+- 1\. 1. 26 - 131 § 31. Die Bewilligung zur selbstständigen zahnprothetischen Tätigkeit setzt in fachlicher Hinsicht voraus, dass die Gesuchstellerin oder der Gesuchsteller über ein zürcherisches Zahnprothetikdiplom oder ein von der Direktion als gleichwertig anerkanntes ausserkantonales oder ausländisches Diplom verfügt.
+
+#### § 32
 
 **Zahnprothetikerinnen und -prothetiker a. Fachliche Anforderungen**
 
-Die Bewilligung zur selbstständigen zahnprothetischen Tätigkeit setzt in fachlicher Hinsicht voraus, dass die Gesuchstellerin oder der Gesuchsteller über ein zürcherisches Zahnprothetikdiplom oder ein von der Direktion als gleichwertig anerkanntes ausserkantonales oder ausländisches Diplom verfügt.
-
-**11**
-
-- 1\. 7. 23 - 121 § 32. <sup>1</sup> Die Bewilligung berechtigt die Inhaberin oder den Inhaber, selbstständig abnehmbaren Zahnersatz (Total- und Teilprothesen) herzustellen und die dazu erforderlichen Zahnreinigungen, Abdrücke und Einpassungen vorzunehmen.
-
 **b. Tätigkeitsbereich**
+
+<sup>1</sup> Die Bewilligung berechtigt die Inhaberin oder den Inhaber, selbstständig abnehmbaren Zahnersatz (Total- und Teilprothesen) herzustellen und die dazu erforderlichen Zahnreinigungen, Abdrücke und Einpassungen vorzunehmen.
 
 <sup>2</sup> Unzulässig sind zahnärztliche Tätigkeiten wie namentlich zahnchirurgische, zahnkonservierende oder orthodontische Behandlungen, das Beschleifen von Zähnen und Parodontitis-Behandlungen.
 
@@ -538,15 +543,11 @@ des Gesundheitswesens
 
 <sup>3</sup> Die gesundheitspolizeiliche Aufsicht über Säuglings- und Kinderheime, Erziehungsheime, Erholungsheime, Heime für Behinderte und weitere nach diesem Gesetz nicht bewilligungspflichtige Einrichtungen obliegt den Gemeinden unter der Oberaufsicht des Bezirksrats. Kantonale Institutionen unterstehen der Aufsicht der Direktion, die sie betreiben.
 
-#### § 38
-
-**Beistands- und Aufnahmepflicht**
-
-<sup>1</sup> Die Institutionen des Gesundheitswesens leisten in dringenden Fällen Beistand. Bei Katastrophen oder anderen aussergewöhnlichen Ereignissen können sie zur Einsatzleistung nach § 23 verpflichtet werden.
-
 **13**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131 § 38. <sup>1</sup> Die Institutionen des Gesundheitswesens leisten in dringenden Fällen Beistand. Bei Katastrophen oder anderen aussergewöhnlichen Ereignissen können sie zur Einsatzleistung nach § 23 verpflichtet werden.
+
+**Beistands- und Aufnahmepflicht**
 
 <sup>2</sup> Spitäler oder Geburtshäuser mit kantonalem Leistungsauftrag nehmen Personen auf, die einer stationären Behandlung bedürfen. Die Direktion kann ihnen nach Voranzeige Patientinnen und Patienten zuweisen, die andernorts nicht untergebracht werden können oder deren Zustand eine Verlegung als geboten erscheinen lässt.<sup>15</sup>
 
@@ -614,6 +615,10 @@ Der Regierungsrat erlässt die Vorschriften zum Vollzug der Bundesgesetzgebung �
 
 <sup>1</sup> Die Direktion überwacht den Gesundheitszustand der Bevölkerung, soweit damit nicht die Bundesbehörden betraut sind, und informiert die Öffentlichkeit regelmässig darüber.
 
+**15**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Sie kann bei Personen und Institutionen, die ihrer Aufsicht unterstehen, sowie in öffentlichen und privaten Schulen die erforderlichen Daten erheben.
 
 <sup>3</sup> Sie kann Dritte mit der Erfüllung dieser Aufgaben beauftragen.
@@ -623,10 +628,6 @@ Der Regierungsrat erlässt die Vorschriften zum Vollzug der Bundesgesetzgebung �
 **Bekämpfung des Suchtmittelmissbrauchs**
 
 <sup>1</sup> Der Kanton und die Gemeinden bekämpfen den Suchtmittelmissbrauch.
-
-**15**
-
-- 1\. 7. 23 - 121
 
 <sup>2</sup> Die Plakatwerbung oder andere weiträumig wahrnehmbare Werbung für Tabak, Alkohol und andere Suchtmittel mit vergleichbarem Gefährdungspotenzial ist verboten auf öffentlichem Grund sowie in öffentlichen Gebäuden. Vom Verbot ausgenommen sind:
 
@@ -692,13 +693,11 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>3</sup> Sie können hierüber Verordnungen erlassen. Erweist sich zur Bekämpfung bestimmter überregionaler Gefahren eine einheitliche Regelung für notwendig, kann der Regierungsrat sie treffen.
 
-**Arzneimittel, Medizinprodukte und weiteres Material**
-
-§ 53 a.<sup>30</sup> <sup>1</sup> Der Kanton stellt im Fall einer Epidemie oder eines anderen aussergewöhnlichen Ereignisses die Versorgung der Institutionen des Gesundheitswesens und der selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen mit Arzneimitteln, Medizinprodukten und weiterem für die Gesundheitsversorgung erforderlichem Material sicher.
-
 **17**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131 § 53 a.<sup>30</sup> <sup>1</sup> Der Kanton stellt im Fall einer Epidemie oder eines anderen aussergewöhnlichen Ereignisses die Versorgung der Institutionen des Gesundheitswesens und der selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen mit Arzneimitteln, Medizinprodukten und weiterem für die Gesundheitsversorgung erforderlichem Material sicher.
+
+**Arzneimittel, Medizinprodukte und weiteres Material**
 
 <sup>2</sup> Er kann die Institutionen des Gesundheitswesens und die selbstständig tätigen Medizinalpersonen und Gesundheitsfachpersonen verpflichten, auf eigene Kosten angemessene Vorsorgeleistungen im Sinne von Abs. 1 zu erbringen. Die Direktion überwacht die Einhaltung der Vorgaben. Die Verordnung regelt die Einzelheiten.
 
@@ -762,11 +761,11 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>1</sup> Die Bestattung erfolgt auf dem Friedhof der Gemeinde, wo die oder der Verstorbene den letzten Wohnsitz hatte.
 
-<sup>2</sup> Wenn die oder der Verstorbene nicht im Kanton Zürich wohnte und die Leiche nicht an den ausserkantonalen Wohnort überführt wird, erfolgt die Bestattung auf dem Friedhof der Gemeinde, wo der Tod eingetreten oder die Leiche aufgefunden worden ist.
-
 **19**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131
+
+<sup>2</sup> Wenn die oder der Verstorbene nicht im Kanton Zürich wohnte und die Leiche nicht an den ausserkantonalen Wohnort überführt wird, erfolgt die Bestattung auf dem Friedhof der Gemeinde, wo der Tod eingetreten oder die Leiche aufgefunden worden ist.
 
 <sup>3</sup> Auf Wunsch der oder des Verstorbenen oder der Angehörigen kann die Bestattung auch in einer anderen Gemeinde erfolgen, sofern diese zustimmt.
 
@@ -846,11 +845,11 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 
 - c. eine nach diesem Gesetz bewilligungsfreie Heiltätigkeit ausübt und dies unsachlich oder in einer Weise bekannt macht, die zu Täuschungen Anlass gibt,
 
-- d. eine befristete selbstständige Tätigkeit im Sinne von Art. 5 des bilateralen Abkommens vom 21. Juni 1999 über die Freizügigkeit<sup>12</sup> ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 aufnimmt,
-
 **21**
 
-- 1\. 7. 23 - 121
+- 1\. 1. 26 - 131
+
+- d. eine befristete selbstständige Tätigkeit im Sinne von Art. 5 des bilateralen Abkommens vom 21. Juni 1999 über die Freizügigkeit<sup>12</sup> ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 aufnimmt,
 
 - e. als Inhaberin oder Inhaber einer ausserkantonalen Berufsausübungsbewilligung ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 die selbstständige Tätigkeit aufnimmt,
 
@@ -922,13 +921,13 @@ Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberuf
 
 - 2\. einen eidgenössischen oder eidgenössisch anerkannten ausländischen Weiterbildungstitel erworben hat.
 
+**23**
+
+- 1\. 1. 26 - 131
+
 <sup>2</sup> Zur selbstständigen ärztlichen Tätigkeit sind ohne Bewilligung berechtigt:
 
 - 1\. Professorinnen und Professoren der Universität Zürich mit einem Lehrauftrag für klinische Fächer im Rahmen ihrer Anstellung,
-
-**23**
-
-- 1\. 7. 23 - 121
 
 - 2\. im Grenzgebiet zu anderen Kantonen und zum Ausland praxisberechtigte Ärztinnen und Ärzte mit eidgenössischem oder eidgenössisch anerkanntem ausländischem Diplom für die gelegentliche Berufstätigkeit, die sie von ihrem Praxisstandort aus im Grenzgebiet des Kantons Zürich ausüben.
 
@@ -972,47 +971,17 @@ Die Bewilligung zur selbstständigen chiropraktorischen Tätigkeit setzt in fach
 
 - 1\. über ein von der Schweizerischen Gesundheitsdirektorenkonferenz ausgestelltes oder ein von ihr anerkanntes ausländisches Diplom verfügt und
 
-- 2\. die Weiterbildung nachweist, die gemäss Bundesgesetz über die Krankenversicherung<sup>10</sup> erforderlich ist, um Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen zu können.
+- 2\. die Weiterbildung nachweist, die gemäss Bundesgesetz über die Krankenversicherung[^71-1] erforderlich ist, um Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen zu können.
+
+[^71-1]: SR 832.10.
 
 ### Übergangsbestimmung zur Änderung vom 21. März 2022 (OS 77, 527)
 
 Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass die beauftragte Triagestelle per 1. Januar 2027 ihren Betrieb aufnehmen kann.
 
-<sup>1</sup> OS 63, 204. Inkrafttreten: 1. Juli 2008 (OS 63, 224).
-
-<sup>2</sup> ABl 2005, 121.
-
-<sup>3</sup> LS 175.2.
-
-<sup>4</sup> LS 413.31.
-
-<sup>5</sup> LS 813.13.
-
-<sup>6</sup> SR 312.0.
-
-<sup>7</sup> SR 811.11
-
-<sup>8</sup> SR 812.21.
-
-<sup>9</sup> SR 818.101.
-
-<sup>10</sup> SR 832.10.
-
-<sup>11</sup> SR 935.81.
-
-<sup>12</sup> SR 0.142.112.681.
-
-<sup>13</sup> Fassung gemäss Pflegegesetz vom 27. September 2010 (OS 65, 613; ABl 2010, 918). In Kraft seit 1. Januar 2011.
-
-<sup>14</sup> Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
-
 <sup>15</sup> Fassung gemäss Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
 
 <sup>16</sup> Aufgehoben durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012.
-
-**25**
-
-- 1\. 7. 23 - 121
 
 <sup>17</sup> Eingefügt durch G vom 27. Juni 2011 (OS 66, 850; ABl 2010, 2385). In Kraft seit 1. Januar 2012.
 
@@ -1043,3 +1012,22 @@ Die erste öffentliche Ausschreibung gemäss § 17 h ist so vorzunehmen, dass di
 <sup>30</sup> Eingefügt durch Gesetz über die Verselbstständigung der Kantonsapotheke Zürich vom 7. November 2022 (OS 78, 140; ABl 2018-07-20). In Kraft seit 1. Mai 2023.
 
 <sup>31</sup> Eingefügt durch G vom 31. Oktober 2022 (OS 78, 243; ABl 2022-04-08). In Kraft seit 1. Juli 2023.
+
+<sup>32</sup> Eingefügt durch G vom 7. April 2025 (OS 80, 350; ABl 2024-05-03). In Kraft seit 1. Januar 2026.
+
+## Weitere Fussnoten
+
+- [1] OS 63, 204. Inkrafttreten: 1. Juli 2008 (OS 63, 224).
+- [2] ABl 2005, 121.
+- [3] LS 175.2.
+- [4] LS 413.31.
+- [5] LS 813.13.
+- [6] SR 312.0.
+- [7] SR 811.11
+- [8] SR 812.21.
+- [9] SR 818.101.
+- [11] SR 935.81.
+- [12] SR 0.142.112.681.
+- [13] Fassung gemäss Pflegegesetz vom 27. September 2010 (OS 65, 613; ABl 2010,
+- [918] . In Kraft seit 1. Januar 2011.
+- [14] Eingefügt durch Spitalplanungs- und -finanzierungsgesetz vom 2. Mai 2011 (OS 66, 513; ABl 2011, 291). In Kraft seit 1. Januar 2012. 1. 1. 26 - 131 25
