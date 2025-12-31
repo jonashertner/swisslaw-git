@@ -4,13 +4,12 @@ number: "773.211"
 title: Energieverordnung
 short: EnergieV
 language: de
-version: 2025-04-01
-valid_until: 2025-12-31
-version_adopted: 2024-09-25
+version: 2026-01-01
+version_adopted: 2025-10-15
 adopted: 2012-07-04
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3720/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3896/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3720/pdf_file"
 
 (EnergieV)
 
-Vom 04.07.2012 (Stand 01.04.2025)
+Vom 04.07.2012 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -253,8 +252,8 @@ beschliesst:
 - a) bis 1'000 m³/h — 3 m/s,
 - b) bis 2'000 m³/h — 4 m/s,
 - c) bis 4'000 m³/h — 5 m/s,
-- d) bis 10'000 m³/h — 6 m/s.
-- e) über 10'000 m³/h — 7 m/s,
+- d) bis 10'000 m³/h — 6 m/s,
+- e) über 10'000 m³/h — 7 m/s.
 
 <sup>4</sup> Grössere Luftgeschwindigkeiten als gemäss Absatz 2 sind zulässig, wenn mit einer fachgerechten Energieverbrauchsrechnung nachgewiesen wird, dass nicht mehr Energie benötigt wird, ebenso bei weniger als 1'000 Jahresbetriebsstunden und wenn sie wegen einzelner räumlicher Hindernisse nicht vermeidbar sind.
 
@@ -437,9 +436,9 @@ JKfossil ≤ fU x JKnichtfossil.
 
 #### § 26a
 
-**Pflicht zur Nutzung der Sonnenenergie bei Gebäuden[^26a-1]**
+**Pflicht zur Nutzung der Sonnenenergie bei Gebäuden**
 
-<sup>1</sup> Beim Bau neuer Gebäude, ausgenommen Traglufthallen, Gewächshäuser mit verglastem Dach und Folientunnel, ist auf den Dächern oder an den Fassaden eine Photovoltaik- oder eine Solarthermieanlage zu erstellen, wenn die anrechenbare Gebäudefläche[^26a-2] gesamthaft mehr als 300 m² beträgt.
+<sup>1</sup> Beim Bau neuer Gebäude, ausgenommen Traglufthallen, Gewächshäuser mit verglastem Dach und Folientunnel, ist auf den Dächern oder an den Fassaden eine Photovoltaik- oder eine Solarthermieanlage zu erstellen, wenn die anrechenbare Gebäudefläche[^26a-1] gesamthaft mehr als 300 m² beträgt.
 
 <sup>2</sup> Die Anlage muss wenigstens so gross sein, dass die Photovoltaikmodule und die verglasten, selektiv beschichteten Absorber der thermischen Solarkollektoren eine Fläche von gesamthaft 20 % der anrechenbaren Gebäudefläche ergeben.
 
@@ -453,8 +452,7 @@ JKfossil ≤ fU x JKnichtfossil.
 - a) die Photovoltaikanlage gemäss der durch das Departement Bau, Verkehr und Umwelt zur Verfügung gestellten Berechnungshilfe innert 25 Jahren nicht amortisiert werden kann oder
 - b) ein jährlicher Energieertrag mit Photovoltaik von wenigstens 70 kWh/m² und mit Solarthermie von wenigstens 200 kWh/m² nicht erreicht werden kann.
 
-[^26a-1]: Gemäss dem Energiegesetz des Bundes (EnG), Änderung vom 30. September 2022 (Dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), ist die Vorschrift bis 31. Dezember 2025 befristet.
-[^26a-2]: Die Begriffe «Gebäude» und «anrechenbare Gebäudefläche» sind in Anhang 1 und 2 der Bauverordnung vom 25. Mai 2011 (BauV) definiert.
+[^26a-1]: Die Begriffe «Gebäude» und «anrechenbare Gebäudefläche» sind in Anhang 1 und 2 der Bauverordnung vom 25. Mai 2011 (BauV) definiert.
 
 ### 1.4. Grossverbraucher
 
