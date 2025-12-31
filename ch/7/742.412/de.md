@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2012 über die Beförderung gefährlicher Güt
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2012-785-20250101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-785-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/de"
 
 (RSD)
 
-vom 31. Oktober 2012 (Stand am 1. Januar 2025)
+vom 31. Oktober 2012 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 5 Absatz 1, 20 Absatz 3 und 24 Absatz 1 des Gütertransportgesetzes vom 25. September 2015[^ingress-1] sowie auf Artikel 48*a* Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
+gestützt auf die Artikel 7 Absatz 1, 26 Absatz 3 und 31 Absatz 1 des Gütertransportgesetzes vom 21. März 2025[^ingress-1] sowie auf Artikel 48*a* Absatz 1 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-2],[^ingress-3]
 
 verordnet:
 
-[^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: Fassung gemäss Anhang Ziff. II 6 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [SR 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Fassung gemäss Anhang Ziff. II 5 der Gütertransportverordnung vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 1
 
@@ -49,7 +49,7 @@ Sie gilt für:
 
 Für natürliche und juristische Personen, die gefährliche Güter befördern, verpacken, einfüllen, versenden, laden oder entladen, gelten zusätzlich die Bestimmungen der Gefahrgutbeauftragtenverordnung vom 15. Juni 2001[^2-1].
 
-[^2-1]: [SR 741.622](https://fedlex.data.admin.ch/eli/cc/2001/268)
+[^2-1]: [SR 741.622](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8692)
 
 #### Art. 3
 
@@ -59,8 +59,8 @@ Für natürliche und juristische Personen, die gefährliche Güter befördern, v
 
 <sup>2</sup> Die gültige Fassung des RID ist in Anhang 1 festgehalten.
 
-[^3-1]: [SR 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^3-2]: [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+[^3-1]: [SR 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^3-2]: [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
 
 #### Art. 4
 
@@ -85,7 +85,7 @@ Als zuständige Behörde im Sinne des RID gilt:
 
 <sup>5</sup> Ersucht der Gesuchsteller um eine Ausnahme oder Abweichung von Vorschriften zur Klassifizierung von Gefahrgütern nach Teil 2 RID, so muss er zusammen mit dem Gesuch einen Sachverständigenprüfbericht einreichen. Dieser muss von Sachverständigen erstellt werden, die die Anforderungen nach Anhang 3 der Gefahrgutumschliessungsverordnung vom 31. Oktober 2012[^5-1] erfüllen.
 
-[^5-1]: [SR 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+[^5-1]: [SR 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
 
 #### Art. 6
 
@@ -160,7 +160,7 @@ Anhang 1[^t-1]
 
 Es gelten die Vorschriften des RID der Ausgabe 2025[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Der Inhalt des RID 2025 (Anlage von Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr in der Fassung des Änderungsprotokolls vom 3. Juni 1999; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter: [www.otif.org](https://www.otif.org) &gt; Referenztexte &gt; RID 2025 abgerufen werden.
+[^annex1-lvlu1-1]: Der Inhalt des RID 2025 (Anlage von Anhang C des Übereinkommens über den internationalen Eisenbahnverkehr in der Fassung des Änderungsprotokolls vom 3. Juni 1999; COTIF; [SR 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)) wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann auf der Internetseite der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) unter: [www.otif.org](https://www.otif.org) &gt; Referenztexte &gt; RID 2025 abgerufen werden.
 
 Anhang <sup>2</sup>.1[^t-2]
 
@@ -182,8 +182,8 @@ Anhang <sup>2</sup>.1[^t-2]
 <tr><td>6</td><td>Kubische Tankcontainer KTC (früher als Tankcontainer bezeichnet), die nach den bis 31. Dezember 1987 geltenden Vorschriften von Absatz 1.2.8.5 des Anhangs X RSD für die Beförderung bestimmter Stoffe zugelassen wurden, dürfen als Grosspackmittel (IBC) für die Beförderung dieser Stoffe weiter verwendet werden, sofern sie den folgenden Vorschriften des RID entsprechen: 6.5.3, 6.5.4.4, 6.5.4.5 und 6.5.5.1 mit Ausnahme von 6.5.5.1.5 und 6.5.5.1.6. Baustellentanks: Baustellentanks sind für die Beförderung von Dieselkraftstoff (UN 1202) zugelassen, sofern sie den Vorschriften der Kapitel 1.6, 4.8 und 6.14 des Anhangs 1 SDR über Bau, Verwendung und Prüfung entsprechen. Abschnitt 7.5.7 RID ist sinngemäss anzuwenden.</td></tr>
 </table>
 
-[^annex21-lvlu1-1]: [SR 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^annex21-lvlu1-2]: [SR 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+[^annex21-lvlu1-1]: [SR 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^annex21-lvlu1-2]: [SR 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
 
 Anhang <sup>2.2</sup>[^t-3]
 
@@ -210,7 +210,7 @@ Zusätzlich zu den in Anhang 2.1 aufgelisteten Abweichungen gelten für die Bef�
 <tr><td>7.5.3</td><td>Die Vorschriften sind nicht anwendbar.</td></tr>
 </table>
 
-[^annex22-lvlu1-1]: [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^annex22-lvlu1-1]: [SR 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 Anhang <sup>3</sup>
 

@@ -4,11 +4,11 @@ title: Ordonnance du 31 octobre 2012 sur le transport de marchandises dangereuse
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-785-20250101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-785-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/fr"
 
 (RSD)
 
-du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2025)
+du 31 octobre 2012 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 5, al. 1, 20, al. 3, et 24, al. 1, de la loi du 25 septembre 2015 sur le transport de marchandises[^ingress-1], vu l’art. 48*a*, al. 1, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
+vu l’art. 7, al. 1, 26, al. 3, et 31, al 1, de la loi du 21 mars 2025 sur le transport de marchandises[^ingress-1] vu l’art. 48*a*, al. 1, de la loi du 21 mars 1997sur l’organisation du gouvernement et de l’administration[^ingress-2],[^ingress-3]
 
 arrête:
 
-[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: Nouvelle teneur selon l’annexe ch. II 6 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Nouvelle teneur selon l’annexe ch. II 5 de l’O du 19 nov. 2025 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 1
 
@@ -49,7 +49,7 @@ Elle s’applique:
 
 Les dispositions de l’ordonnance du 15 juin 2001 sur les conseillers à la sécurité[^2-1] s’appliquent en outre aux personnes physiques ou morales qui transportent, emballent, remplissent, expédient, chargent ou déchargent des marchandises dangereuses.
 
-[^2-1]: [RS 741.622](https://fedlex.data.admin.ch/eli/cc/2001/268)
+[^2-1]: [RS 741.622](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8692)
 
 #### Art. 3
 
@@ -59,8 +59,8 @@ Les dispositions de l’ordonnance du 15 juin 2001 sur les conseillers à la sé
 
 <sup>2</sup> La version applicable du RID est indiquée à l’annexe 1.
 
-[^3-1]: [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^3-2]: [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+[^3-1]: [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^3-2]: [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
 
 #### Art. 4
 
@@ -85,7 +85,7 @@ Est considérée comme autorité compétente au sens du RID:
 
 <sup>5</sup> Si le requérant sollicite une exception ou une dérogation aux prescriptions de classification des marchandises dangereuses selon la partie 2 du RID, il doit joindre un rapport d’experts à sa demande. Ce rapport doit être dressé par des experts qui satisfont aux exigences visées à l’annexe 3 de l’ordonnance du 31 octobre 2012 sur les contenants de marchandises dangereuses[^5-1].
 
-[^5-1]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+[^5-1]: [RS 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
 
 #### Art. 6
 
@@ -160,7 +160,7 @@ Annexe 1[^t-1]
 
 Sont applicables les prescriptions du RID 2025[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Le contenu du RID 2025 (annexe de l’appendice C à la Convention relative aux transports internationaux ferroviaires dans la teneur du Protocole de modification du 3 juin 1999; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), [www.otif.org](https://www.otif.org) &gt; Textes de référence &gt; RID 2025.
+[^annex1-lvlu1-1]: Le contenu du RID 2025 (annexe de l’appendice C à la Convention relative aux transports internationaux ferroviaires dans la teneur du Protocole de modification du 3 juin 1999; COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)) est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté sur le site Internet de l’Organisation intergouvernementale pour les transports internationaux ferroviaires (OTIF), [www.otif.org](https://www.otif.org) &gt; Textes de référence &gt; RID 2025.
 
 Annexe <sup>2</sup>.1[^t-2]
 
@@ -182,8 +182,8 @@ Annexe <sup>2</sup>.1[^t-2]
 <tr><td>6</td><td>Les conteneurs-citernes cubiques (désignés précédemment comme conteneurs-citernes) homologués selon les prescriptions du ch. 1.2.8.5 de l’annexe X RSD, valables jusqu’au 31 décembre 1987, pour transporter des substances déterminées peuvent être utilisés comme grands récipients pour vrac (GRV) pour acheminer ces substances s’ils correspondent aux prescriptions des ch. 6.5.3, 6.5.4.4, 6.5.4.5 et 6.5.5.1 du RID, à l’exception des prescriptions des ch. 6.5.5.1.5 et 6.5.5.1.6. Conteneurs-citernes de chantiers: Les conteneurs-citernes de chantier sont autorisés pour le transport de carburant diesel (n<sup>o</sup> ONU 1202) s’ils correspondent aux prescriptions relatives à la construction, à l’utilisation et aux épreuves des ch. 1.6, 4.8 et 6.14 de l’appendice 1 de la SDR. La section 7.5.7 du RID s’applique par analogie.</td></tr>
 </table>
 
-[^annex21-lvlu1-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^annex21-lvlu1-2]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+[^annex21-lvlu1-1]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^annex21-lvlu1-2]: [RS 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
 
 Annexe <sup>2.2</sup>[^t-3]
 
@@ -210,7 +210,7 @@ En sus des dérogations énumérées à l’annexe 2.1, les dérogations suivant
 <tr><td>7.5.3</td><td>Les prescriptions ne sont pas applicables.</td></tr>
 </table>
 
-[^annex22-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^annex22-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 Annexe <sup>3</sup>
 

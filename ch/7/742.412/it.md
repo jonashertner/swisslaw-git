@@ -4,11 +4,11 @@ title: Ordinanza del 31 ottobre 2012 concernente il trasporto di merci pericolos
 short: RSD
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/785"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2012-10-31
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2012-785-20250101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/785/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-785-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/785/20250101/it"
 
 (RSD)
 
-del 31 ottobre 2012 (Stato 1° gennaio 2025)
+del 31 ottobre 2012 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 5 capoverso 1, 20 capoverso 3 e 24 capoverso 1 della legge del 25 settembre 2015[^ingress-1] sul trasporto di merci; visto l’articolo 48*a* capoverso 1 della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-3]
+visti gli articoli 7 capoverso 1, 26 capoverso 3 e 31 capoverso 1 della legge del 21 marzo 2025[^ingress-1] sul trasporto di merci; visto l’articolo 48*a* capoverso 1 della legge del 21 marzo 1997[^ingress-2] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-3]
 
 ordina:
 
-[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/eli/cc/2016/328)
-[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-3]: Nuovo testo giusta l’all. cifra II n. 6 dell’O del 25 mag. 2016 sul trasporto di merci, in vigore dal 1° lug. 2016 ([RU 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^ingress-1]: [RS 742.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8823)
+[^ingress-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-3]: Nuovo testo giusta l’all. cifra II n. 5 dell’O del 19 nov. 2025 sul trasporto merci, in vigore dal 1° gen. 2026 ([RU 2025 776](https://fedlex.data.admin.ch/eli/oc/2025/776)).
 
 #### Art. 1
 
@@ -49,7 +49,7 @@ Essa si applica:
 
 Alle persone fisiche e giuridiche che trasportano, imballano, riempiono, spediscono, caricano o scaricano merci pericolose si applicano anche le disposizioni contenute nell’ordinanza del 15 giugno 2001[^2-1] sugli addetti alla sicurezza.
 
-[^2-1]: [RS 741.622](https://fedlex.data.admin.ch/eli/cc/2001/268)
+[^2-1]: [RS 741.622](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8692)
 
 #### Art. 3
 
@@ -59,8 +59,8 @@ Alle persone fisiche e giuridiche che trasportano, imballano, riempiono, spedisc
 
 <sup>2</sup> La versione del RID attualmente in vigore è indicata nell’allegato 1.
 
-[^3-1]: [RS 0.742.403.1](https://fedlex.data.admin.ch/eli/cc/1985/505_505_505)
-[^3-2]: [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)
+[^3-1]: [RS 0.742.403.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3001)
+[^3-2]: [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)
 
 #### Art. 4
 
@@ -85,7 +85,7 @@ Le autorità competenti ai sensi del RID sono:
 
 <sup>5</sup> Per chiedere eccezioni o deroghe alle prescrizioni riguardanti la classificazione delle merci pericolose secondo la parte 2 RID, insieme alla domanda il richiedente deve presentare un rapporto di perizia. Tale rapporto deve essere redatto da periti in possesso dei requisiti indicati nell’allegato 3 dell’ordinanza del 31 ottobre 2012[^5-1] sui mezzi di contenimento per merci pericolose.
 
-[^5-1]: [RS 930.111.4](https://fedlex.data.admin.ch/eli/cc/2012/797)
+[^5-1]: [RS 930.111.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11022)
 
 #### Art. 6
 
@@ -160,7 +160,7 @@ Allegato 1[^t-1]
 
 Si applicano le prescrizioni del RID 2025[^annex1-lvlu1-1].
 
-[^annex1-lvlu1-1]: Il contenuto del RID 2025 (all. dell’appendice C alla Conv. relativa ai transporti internazionali ferroviari nel tenore del Prot. di mod. del 3 giu. 1999, COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/eli/cc/2006/485)) è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF) all’indirizzo www.otif.org &gt; Textes de référence &gt; RID 2025.
+[^annex1-lvlu1-1]: Il contenuto del RID 2025 (all. dell’appendice C alla Conv. relativa ai transporti internazionali ferroviari nel tenore del Prot. di mod. del 3 giu. 1999, COTIF; [RS 0.742.403.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3003)) è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato sul sito Internet dell’Organizzazione intergovernativa per i trasporti internazionali per ferrovia (OTIF) all’indirizzo www.otif.org &gt; Textes de référence &gt; RID 2025.
 
 Allegato 2.1[^t-2]
 
@@ -182,8 +182,8 @@ Allegato 2.1[^t-2]
 <tr><td>6</td><td>I container-cisterna cubici (precedentemente denominati «contenitoricisterna») ammessi per il trasporto di determinate sostanze secondo le prescrizioni del numero 1.2.8.5 dell’appendice X RSD, in vigore fino al 31 dicembre 1987, possono essere riutilizzati come contenitori intermedi per il trasporto alla rinfusa (IBC) per il trasporto di tali sostanze a condizione che soddisfino le prescrizioni del RID: 6.5.3, 6.5.4.4, 6.5.4.5 e 6.5.5.1 (eccezion fatta per 6.5.5.1.5 e 6.5.5.1.6). Container-cisterna di cantiere: I container-cisterna di cantiere possono essere impiegati per il trasporto di carburante diesel (n. ONU 1202) se conformi alle prescrizioni dei capitoli 1.6, 4.8 e 6.14 dell’appendice 1 SDR relative alla costruzione, all’uso e ai controlli. La sezione 7.5.7 RID si applica per analogia.</td></tr>
 </table>
 
-[^annex21-lvlu1-1]: [RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)
-[^annex21-lvlu1-2]: [RS 941.411](https://fedlex.data.admin.ch/eli/cc/2001/78)
+[^annex21-lvlu1-1]: [RS 741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8690)
+[^annex21-lvlu1-2]: [RS 941.411](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11229)
 
 Allegato 2.2[^t-3]
 
@@ -210,7 +210,7 @@ In aggiunta alle deroghe elencate nell’allegato 2.1, al trasporto di merci per
 <tr><td>7.5.3</td><td>Le prescrizioni non sono applicabili.</td></tr>
 </table>
 
-[^annex22-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)
+[^annex22-lvlu1-1]: [RS 0.741.621](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2933)
 
 Allegato 3
 
