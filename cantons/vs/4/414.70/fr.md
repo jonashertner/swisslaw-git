@@ -1,48 +1,47 @@
 ---
 canton: VS
 number: "414.70"
-title: Loi sur la Haute Ecole spécialisée de Suisse occidentale Valais/Wallis
-short: HES SO Valais/Wallis
+title: Loi sur la Haute Ecole Spécialisée de Suisse occidentale Valais/Wallis
 language: fr
-version: 2015-01-01
-corrected: 2017-09-06
-version_adopted: 2012-11-16
+version: 2026-01-01
+version_adopted: 2024-05-15
 adopted: 2012-11-16
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/414.70"
-pdf: "https://lex.vs.ch/api/fr/versions/500/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3375/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur la Haute Ecole spécialisée de Suisse occidentale Valais/Wallis (HES SO Valais/Wallis)
+# Loi sur la Haute Ecole Spécialisée de Suisse occidentale Valais/Wallis
 
-du 16 novembre 2012
+du 16.11.2012 (état 01.01.2026)
 
 Le Grand Conseil du canton du Valais
 
-vu les articles 13 alinéa 1, 15 chiffre 2, 31 alinéa 1 chiffre 1, 38 alinéa 1 et 42 alinéa 1 de la Constitution cantonale;
+vu les articles 13 alinéa 1, 15 alinéa 1 lettre b, 31 alinéa 1 lettre a, 38 alinéa 1 et 42 alinéa 1 de la Constitution cantonale;
 
-vu la loi fédérale sur les hautes écoles spécialisées du 6 octobre 1995 (LHES); vu la Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale (HES SO) du 26 mai 2011;
+vu la loi fédérale sur les hautes écoles spécialisées du 6 octobre 1995 (LHES);
 
-vu la loi d'adhésion du canton du Valais à la Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale du 16 novembre 2011;
+vu la Convention intercantonale sur la Haute Ecole Spécialisée de Suisse occidentale du 26 mai 2011;
+
+vu la loi d'adhésion du canton du Valais à la Convention intercantonale sur la Haute Ecole Spécialisée de Suisse occidentale du 16 novembre 2011;
 
 vu la loi fixant la localisation des écoles cantonales du degré tertiaire et la contribution des communes sièges du 11 novembre 1999;
 
 sur la proposition du Conseil d'Etat,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+[^ingress-1]: Dans la présente loi, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Forme juridique et autonomie**
 
-<sup>1</sup> La Haute Ecole spécialisée de Suisse occidentale Valais/Wallis (ci-après: HES-SO Valais/Wallis) est membre de la Haute Ecole spécialisée de Suisse occidentale (ci-après: HES-SO), dont elle constitue une haute école, au sens de l’article 39 de la Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale du 26 mai 2011 (ci-après: convention intercantonale).
+<sup>1</sup> La Haute Ecole Spécialisée de Suisse occidentale Valais/Wallis (ci-après: HES-SO Valais/Wallis) est membre de la Haute Ecole Sécialisée de Suisse occidentale (ci-après: HES-SO), dont elle constitue une haute école, au sens de l’article 39 de la Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale du 26 mai 2011 (ci-après: convention intercantonale).
 
 <sup>2</sup> La HES-SO Valais/Wallis est un établissement autonome de droit public à but non lucratif, doté de la personnalité juridique.
 
@@ -82,7 +81,7 @@ ordonne:[^t-1]
 
 <sup>3</sup> Des cours peuvent être donnés dans une autre langue, notamment en anglais, avec l’approbation de la direction générale.
 
-<sup>4</sup> La HES-SO Valais/Wallis offre en principe la possibilité d’obtenir un diplôme «Bachelor» et/ou «Master» avec mention «bilingue» (allemand/français) pour toutes les filières proposées.
+<sup>4</sup> La HES-SO Valais/Wallis offre en principe la possibilité d’obtenir un diplôme "Bachelor" et/ou "Master" avec mention "bilingue" (allemand/français) pour toutes les filières proposées.
 
 #### Art. 4
 
@@ -92,25 +91,25 @@ ordonne:[^t-1]
 
 <sup>2</sup> Le département assure la surveillance des activités déployées par la HES-SO Valais/Wallis dans le cadre de la convention d’objectifs et des contrats de prestations conclus entre l’Etat du Valais et la HES-SO Valais/Wallis.
 
-### Section 2: Principes de fonctionnement
+<sup>3</sup> Sont réservées les dispositions de la loi sur l’encouragement des hautes écoles et de la recherche (LEHER) relatives à la surveillance, la protection des titres et la protection contre les discriminations et les fraudes.
+
+## 2 Principes de fonctionnement
 
 #### Art. 5
 
 **Autonomie**
 
-Dans le cadre des dispositions de la présente loi, de la convention intercantonale et de la convention d'objectifs, du mandat de prestations conclu avec le rectorat de la HES-SO, la HES-SO Valais/Wallis:
+<sup>1</sup> Dans le cadre des dispositions de la présente loi, de la convention intercantonale et de la convention d'objectifs, du mandat de prestations conclu avec le rectorat de la HES-SO, la HES-SO Valais/Wallis:
 
 - a) s'organise elle-même;
-
-- b) fixe ses priorités et ses plans d’action;
-
+- b) fixe ses priorités et ses plans d'action;
 - c) assume la responsabilité de sa gestion.
 
 #### Art. 6
 
 **Liberté académique**
 
-La liberté de l’enseignement et de la recherche est garantie, dans les limites des devoirs inhérents aux différentes fonctions du personnel de la HES-SO Valais/Wallis.
+<sup>1</sup> La liberté de l’enseignement et de la recherche est garantie, dans les limites des devoirs inhérents aux différentes fonctions du personnel de la HES-SO Valais/Wallis.
 
 #### Art. 7
 
@@ -134,7 +133,7 @@ La liberté de l’enseignement et de la recherche est garantie, dans les limite
 
 #### Art. 9
 
-Soutien à l’économie, aux collectivités et institutions socio-sanitaires, culturelles et scientifiques
+**Soutien à l'économie, aux collectivités et institutions socio-sanitaires, culturelles et scientifiques**
 
 <sup>1</sup> La HES-SO Valais/Wallis contribue au renforcement du tissu économique et au développement du réseau socio-sanitaire, culturel et scientifique du canton par ses activités de recherche appliquée-développement, de formation continue et de prestations de service, qu'elle fournit, le cas échéant, en collaboration avec d'autres partenaires.
 
@@ -154,7 +153,7 @@ Soutien à l’économie, aux collectivités et institutions socio-sanitaires, c
 
 **Propriété intellectuelle**
 
-Les dispositions relatives à la propriété intellectuelle découlent de la convention intercantonale. Le Conseil d’Etat les précise par voie de règlement.
+<sup>1</sup> Les dispositions relatives à la propriété intellectuelle découlent de la convention intercantonale. Le Conseil d’Etat les précise par voie de règlement.
 
 #### Art. 12
 
@@ -164,7 +163,7 @@ Les dispositions relatives à la propriété intellectuelle découlent de la con
 
 <sup>2</sup> Elle met en œuvre les dispositions édictées par la HES-SO en matière de contrôle interne.
 
-### Section 3: Organisation
+## 3 Organisation
 
 #### Art. 13
 
@@ -178,10 +177,9 @@ Les dispositions relatives à la propriété intellectuelle découlent de la con
 
 **Organes**
 
-Les organes de la HES-SO Valais/Wallis sont:
+<sup>1</sup> Les organes de la HES-SO Valais/Wallis sont:
 
 - a) la direction générale;
-
 - b) le conseil représentatif.
 
 #### Art. 15
@@ -207,8 +205,7 @@ Les organes de la HES-SO Valais/Wallis sont:
 <sup>2</sup> La direction générale a notamment le devoir d'assurer, pour la HES-SO Valais/Wallis:
 
 - a) la réalisation des objectifs et la mise en œuvre du mandat de prestations qui lie l'établissement à la HES-SO;
-
-- b) l'accomplissement des missions et mandats conférés directement par l’Etat du Valais.
+- b) l'accomplissement des missions et mandats conférés directement par l'Etat du Valais.
 
 <sup>3</sup> La direction générale contribue à l'élaboration de la convention d'objectifs quadriennale conclue entre les cantons et la HES-SO et du plan financier et de développement qui y est prévu.
 
@@ -236,7 +233,7 @@ Les organes de la HES-SO Valais/Wallis sont:
 
 <sup>5</sup> Le conseil représentatif peut émettre des propositions à l’intention de la direction générale.
 
-### Section 4: Etudiants
+## 4 Etudiants
 
 #### Art. 18
 
@@ -248,7 +245,7 @@ Les organes de la HES-SO Valais/Wallis sont:
 
 #### Art. 19
 
-**Taxes d’études – Contributions aux frais**
+**Taxes d'études - Contributions aux frais**
 
 <sup>1</sup> La direction générale applique les dispositions réglementaires de la HES-SO relatives aux taxes perçues auprès des candidats à l’admission dans les filières Bachelor et Master et auprès des étudiants qui y sont immatriculés.
 
@@ -266,9 +263,9 @@ Les organes de la HES-SO Valais/Wallis sont:
 
 **Titres**
 
-Les titres de Bachelor et de Master délivrés par la HES-SO Valais/Wallis sont signés par le recteur de la HES-SO et par un membre de la direction générale de la HES-SO Valais/Wallis.
+<sup>1</sup> Les titres de Bachelor et de Master délivrés par la HES-SO Valais/Wallis sont signés par le recteur de la HES-SO et par un membre de la direction générale de la HES-SO Valais/Wallis.
 
-### Section 5: Personnel
+## 5 Personnel
 
 #### Art. 22
 
@@ -276,20 +273,18 @@ Les titres de Bachelor et de Master délivrés par la HES-SO Valais/Wallis sont 
 
 <sup>1</sup> La HES-SO Valais/Wallis est l’employeur du personnel de l’établissement, dont l’effectif comprend:
 
-- a) le personnel d’enseignement et de recherche;
-
+- a) le personnel d'enseignement et de recherche;
 - b) le personnel administratif et technique.
 
 <sup>2</sup> Elle affilie son personnel à la Caisse de retraite de l’Etat du Valais (CPVAL).
 
 #### Art. 23
 
-**Personnel d’enseignement et de recherche**
+**Personnel d'enseignement et de recherche**
 
 <sup>1</sup> Le personnel d’enseignement et de recherche de la HES-SO Valais/Wallis est formé:
 
 - a) du corps professoral;
-
 - b) du corps intermédiaire.
 
 <sup>2</sup> Le statut et le traitement de ce personnel sont fixés en fonction des catégories par voie d'ordonnance du Conseil d’Etat en se fondant sur les principes prévus notamment dans la loi sur le personnel de l’Etat du Valais, sous réserve des dispositions de la HES-SO concernant les qualifications à l’engagement, les fonctions ainsi que les missions du personnel d’enseignement et de recherche.
@@ -314,7 +309,7 @@ Les titres de Bachelor et de Master délivrés par la HES-SO Valais/Wallis sont 
 
 <sup>2</sup> La HES-SO Valais/Wallis peut conclure des conventions de partenariat avec les associations de personnel, par analogie à l’article 7 de la loi sur le personnel de l’Etat du Valais.
 
-### Section 6: Dispositions financières
+## 6 Dispositions financières
 
 #### Art. 26
 
@@ -331,14 +326,14 @@ Les titres de Bachelor et de Master délivrés par la HES-SO Valais/Wallis sont 
 <sup>5</sup> La HES-SO Valais/Wallis établit en particulier les documents suivants, qui sont transmis pour information au Conseil d’Etat par l’intermédiaire du département:
 
 - a) un plan stratégique à long terme, périodiquement actualisé;
-
 - b) un budget inscrit dans un plan financier pluriannuel;
-
-- c) un rapport annuel de gestion comprenant les comptes de l’exercice écoulé et le bilan financier ainsi que des informations sur la mise en œuvre du contrat de prestations conclu entre l’Etat du Valais et la HES-SO Valais/Wallis.
+- c) un rapport annuel de gestion comprenant les comptes de l'exercice écoulé et le bilan financier ainsi que des informations sur la mise en œuvre du contrat de prestations conclu entre l'Etat du Valais et la HES-SO Valais/Wallis.
 
 #### Art. 27
 
-Compétences financières des organes de la HES-SO Valais/Wallis Le Conseil d’Etat, sur proposition de la direction générale, définit les compétences financières des organes de la HES-SO Valais/Wallis, dans le cadre de l’autonomie conférée à cet établissement en vertu de son statut.
+**Compétences financières des organes de la HES-SO Valais/Wallis**
+
+<sup>1</sup> Le Conseil d’Etat, sur proposition de la direction générale, définit les compétences financières des organes de la HES-SO Valais/Wallis, dans le cadre de l’autonomie conférée à cet établissement en vertu de son statut.
 
 #### Art. 28
 
@@ -350,7 +345,7 @@ Compétences financières des organes de la HES-SO Valais/Wallis Le Conseil d’
 
 <sup>3</sup> Elle est responsable de la gestion de sa trésorerie. Elle peut contracter des emprunts bancaires, l'autorisation du Conseil d'Etat étant toutefois nécessaire pour les emprunts supérieurs à un million de francs au total. Le Conseil d’Etat garantit les emprunts de la HES-SO Valais/Wallis jusqu’à concurrence de quatre millions au total. L'autorisation du Grand Conseil est indispensable pour la garantie des emprunts dépassant au total cette limite.
 
-<sup>4</sup> La HES-SO Valais/Wallis peut disposer d'une réserve, notamment pour des projets stratégiques et pour compenser des fluctuations liées aux activités. Cette réserve est alimentée par des excédents antérieurs de recettes ou de charges qui lui sont imputés, reportés sur l'exercice suivant et comptabilisés au bilan dans un compte spécifique intitulé «fonds de réserve » figurant dans ses fonds propres.
+<sup>4</sup> La HES-SO Valais/Wallis peut disposer d'une réserve, notamment pour des projets stratégiques et pour compenser des fluctuations liées aux activités. Cette réserve est alimentée par des excédents antérieurs de recettes ou de charges qui lui sont imputés, reportés sur l'exercice suivant et comptabilisés au bilan dans un compte spécifique intitulé "fonds de réserve" figurant dans ses fonds propres.
 
 <sup>5</sup> Elle enregistre dans ses comptes l’intégralité des charges et produits, dépenses et recettes relatifs à son exploitation, et ceux relatifs aux investissements faits au profit de l’Etat.
 
@@ -371,28 +366,17 @@ Compétences financières des organes de la HES-SO Valais/Wallis Le Conseil d’
 <sup>1</sup> Les ressources de la HES-SO Valais/Wallis sont les suivantes:
 
 - a) sommes provenant de la HES-SO:
-
-- 1\. montants pour la formation de base;
-
-- 2\. montants destinés aux autres missions HES;
-
-- 3\. montants destinés à la mise à disposition des bâtiments;
-
-- b) sommes versées par le canton selon le contrat de prestations et les communes sièges à titre de:
-
-- 1\. financement des coûts liés aux conditions locales particulières, notamment le bilinguisme, et aux missions spécifiques cantonales;
-
-- 2\. financement des activités de recherche et autres missions relevant de la stratégie cantonale;
-
+  - 1\. montants pour la formation de base,
+  - 2\. montants destinés aux autres missions HES,
+  - 3\. montants destinés à la mise à disposition des bâtiments;
+- b) sommes versées par le canton selon les contrats de prestations au titre du:
+  - 1\. financement des coûts liés aux conditions locales particulières, notamment le bilinguisme, et aux missions spécifiques cantonales,
+  - 2\. financement des activités de recherche et autres missions relevant de la stratégie cantonale;
 - c) sommes perçues directement par la HES-SO Valais/Wallis:
-
-- 1\. taxes d’études et contributions payées par les étudiants;
-
-- 2\. revenus des activités déployées hors du champ de l’enseignement de base;
-
-- 3\. dons et legs;
-
-- 4\. autres produits de mécénat et sponsoring.
+  - 1\. taxes d'études et contributions payées par les étudiants,
+  - 2\. revenus des activités déployées hors du champ de l'enseignement de base,
+  - 3\. dons et legs,
+  - 4\. autres produits de mécénat et sponsoring.
 
 <sup>2</sup> Les financements prévus à l'alinéa 1 lettre b sont annoncés au budget de la HES-SO.
 
@@ -400,9 +384,9 @@ Compétences financières des organes de la HES-SO Valais/Wallis Le Conseil d’
 
 #### Art. 31
 
-**Contribution des communes sièges**
+**Contributions des communes sièges**
 
-Les contributions des communes sièges sont arrêtées par la loi fixant la localisation des écoles cantonales du degré tertiaire et la contribution des communes sièges.
+<sup>1</sup> Les contributions des communes sièges sont arrêtées par la loi fixant la localisation des institutions cantonales de formation et de recherche du degré tertiaire et la contribution des communes sièges.
 
 #### Art. 32
 
@@ -414,28 +398,25 @@ Les contributions des communes sièges sont arrêtées par la loi fixant la loca
 
 #### Art. 33
 
-Financement des filières Bachelor et Master proposées dans les deux langues officielles L’Etat du Valais assure la prise en charge financière des éventuels surcoûts résultant de l’offre en formation HES de base dans les deux langues officielles.
+**Financement des filières Bachelor et Master proposées dans les deux langues officielles**
 
-### Section 7: Compétences réservées au canton
+<sup>1</sup> L’Etat du Valais assure la prise en charge financière des éventuels surcoûts résultant de l’offre en formation HES de base dans les deux langues officielles.
+
+## 7 Compétences réservées au canton
 
 #### Art. 34
 
-**Compétences du Conseil d’Etat**
+**Compétences du Conseil d'Etat**
 
 <sup>1</sup> Le Conseil d'Etat exerce toutes les compétences qui sont réservées aux cantons par la convention intercantonale, dans la mesure où le droit cantonal ne désigne pas une autre autorité.
 
 <sup>2</sup> Le Conseil d'Etat est notamment compétent pour:
 
-- a) approuver les propositions du département dans le cadre de l’élaboration de la convention d’objectifs quadriennale;
-
+- a) approuver les propositions du département dans le cadre de l'élaboration de la convention d'objectifs quadriennale;
 - b) confier, cas échéant, la réalisation de tâches supplémentaires à la HES-SO Valais/Wallis;
-
 - c) engager le directeur de la HES-SO Valais/Wallis, sur préavis du rectorat de la HES SO;
-
 - d) engager les autres membres de la direction générale, sur préavis du directeur de la HES-SO Valais/Wallis;
-
 - e) approuver le montant des contributions financières du canton du Valais au budget de la HES-SO;
-
 - f) approuver le montant des contributions financières du canton du Valais à la HES-SO Valais/Wallis.
 
 <sup>3</sup> Le Conseil d’Etat constitue pour des tâches particulières un Conseil stratégique et en désigne les membres.
@@ -448,15 +429,15 @@ Financement des filières Bachelor et Master proposées dans les deux langues of
 
 **Budget**
 
-Les contributions financières cantonales à la HES-SO et à la HES-SO Valais/Wallis sont soumises à l’approbation du Grand Conseil dans le cadre du budget.
+<sup>1</sup> Les contributions financières cantonales à la HES-SO et à la HES-SO Valais/Wallis sont soumises à l’approbation du Grand Conseil dans le cadre du budget.
 
 #### Art. 36
 
 **Rapports du Conseil d'Etat**
 
-Le Conseil d'Etat adresse chaque année au Grand Conseil un rapport de gestion portant sur les objectifs stratégiques de la HES-SO et leur réalisation, l'évaluation des résultats de la convention d'objectifs, le budget annuel, les comptes et les résultats de la HES-SO.
+<sup>1</sup> Le Conseil d'Etat adresse chaque année au Grand Conseil un rapport de gestion portant sur les objectifs stratégiques de la HES-SO et leur réalisation, l'évaluation des résultats de la convention d'objectifs, le budget annuel, les comptes et les résultats de la HES-SO.
 
-### Section 8: Voies de recours
+## 8 Voies de recours
 
 #### Art. 37
 
@@ -468,7 +449,7 @@ Le Conseil d'Etat adresse chaque année au Grand Conseil un rapport de gestion p
 
 <sup>3</sup> Les autres recours découlant de l’application de la présente loi sont soumis en première instance au Conseil d’Etat. La loi sur la procédure et la juridiction administratives règle la procédure.
 
-### Section 9: Dispositions transitoires et finales
+## 9 Dispositions transitoires et finales
 
 #### Art. 38
 
@@ -476,95 +457,33 @@ Le Conseil d'Etat adresse chaque année au Grand Conseil un rapport de gestion p
 
 <sup>1</sup> Les procédures en cours lors de l’entrée en vigueur de la présente loi restent régies par l’ancien droit.
 
-<sup>2</sup> Le montant inscrit dans le fonds «mandats» lors de l’entrée en vigueur de la présente loi est transféré dans le fonds de réserve mentionné à l’article 28 alinéa 4 de la présente loi.
+<sup>2</sup> Le montant inscrit dans le fonds "mandats" lors de l’entrée en vigueur de la présente loi est transféré dans le fonds de réserve mentionné à l’article 28 alinéa 4 de la présente loi.
 
 #### Art. 39
 
-**Dispositions d’exécution**
+**Dispositions d'exécution**
 
-Le Conseil d’Etat édicte par voie d’ordonnance et de règlement toutes les dispositions nécessaires à l’exécution de la présente loi.
+<sup>1</sup> Le Conseil d’Etat édicte par voie d’ordonnance et de règlement toutes les dispositions nécessaires à l’exécution de la présente loi.
 
 #### Art. 40
 
 **Modifications**
 
-- 1\. La loi fixant la localisation des écoles cantonales du degré tertiaire et la contribution des communes sièges du 11 novembre 1999 est modifiée comme suit:
+<sup>1</sup> La loi fixant la localisation des écoles cantonales du degré tertiaire et la contribution des communes sièges du 11 novembre 1999 est modifiée.
 
-#### Art. 1
+<sup>2</sup> La loi fixant le traitement du personnel des écoles de formation professionnelle supérieure du 17 novembre 1988 est modifiée.
 
-**al. 1**
-
-<sup>1</sup> La présente loi fixe la localisation:
-
-- de la Haute Ecole pédagogique valaisanne (HEP-VS),
-
-- de la Haute Ecole spécialisée de Suisse occidentale Valais/Wallis (HES-SO Valais/Wallis) comprenant les domaines Sciences de l'ingénieur, Economie & Services, Santé et Travail social.
-
-#### Art. 4
-
-**, titre, al. 1 et 3 Localisation de la HES-SO Valais/Wallis**
-
-<sup>1</sup> La HES-SO Valais/Wallis est localisée:
-
-- à Sion pour les domaines des Sciences de l'ingénieur et de la Santé (filière francophone en Soins infirmiers);
-
-- à Sierre pour les domaines de l'Economie & Services et du Travail social;
-
-- à Loèche-les Bains pour la filière Physiothérapie;
-
-- à Viège pour la filière germanophone en Soins infirmiers.
-
-<sup>3</sup> Dans les deux régions linguistiques, un organe est chargé d'assurer la liaison entre la HES-SO Valais/Wallis et l'économie.
-
-- 2\. La loi fixant le traitement du personnel des écoles de formation professionnelle supérieure du 17 novembre 1988 est modifiée comme suit:
-
-#### Art. 1
-
-**al. 1, 2 et 3**
-
-<sup>1</sup> La présente loi fixe le plan de classement du corps enseignant, respectivement du corps professoral des écoles de formation professionnelle supérieure suivantes:
-
-CFPS: Centre de formation pédagogique et sociale, à Sion HEP: Haute Ecole pédagogique, à Saint-Maurice et Brigue.
-
-<sup>2</sup> Abrogé
-
-<sup>3</sup> Le traitement du personnel administratif et technique de la HEP est fixé par la loi sur le traitement du personnel de l'Etat.
-
-#### Art. 3
-
-**al. 2**
-
-<sup>2</sup> Demeure réservée la situation des assistants du CFPS.
-
-#### Art. 3c
-
-**al. 1**
-
-<sup>1</sup> Par voie d'ordonnance, le Conseil d'Etat peut prévoir la possibilité pour le personnel des écoles de formation professionnelle supérieure de réduire, à sa demande, son taux d'activité de six heures d'enseignement par semaine, respectivement de 20 pour cent pour le personnel de la HEP, au maximum dans les cinq ans précédant l'âge de la retraite statutaire.
-
-#### Art. 12
-
-**à 15**
-
-Abrogés
-
-#### Art. 16
-
-**à 18**
-
-Abrogés 3. Le Conseil d’Etat est chargé de procéder aux modifications correspondantes des dispositions cantonales de rang inférieur.
+<sup>3</sup> Le Conseil d’Etat est chargé de procéder aux modifications correspondantes des dispositions cantonales de rang inférieur.
 
 #### Art. 41
 
 **Abrogations**
 
-Sont abrogées toutes les dispositions contraires à la présente loi, notamment:
+<sup>1</sup> Sont abrogées toutes les dispositions contraires à la présente loi, notamment:
 
-- 1\. la loi d'application sur la Haute école spécialisée Valais (HES-Valais) du 22 septembre 1999;
-
-- 2\. la loi créant la Haute école spécialisée santé-social Valais (HEVs2) du 22 mars 2002;
-
-- 3\. la loi sur le statut du personnel de la Haute école spécialisée Valais (HES-Valais) du 26 juin 2000.
+- a) la loi d'application sur la Haute école spécialisée Valais (HES-Valais) du 22 septembre 1999;
+- b) la loi créant la Haute école spécialisée santé-social Valais (HEVs2) du 22 mars 2002;
+- c) la loi sur le statut du personnel de la Haute école spécialisée Valais (HES-Valais) du 26 juin 2000.
 
 #### Art. 42
 
@@ -574,16 +493,4 @@ Sont abrogées toutes les dispositions contraires à la présente loi, notamment
 
 <sup>2</sup> Le Conseil d’Etat fixe l’entrée en vigueur de la présente loi. Il peut prévoir une entrée en vigueur différenciée selon les diverses composantes de ladite loi.
 
-Ainsi adopté en lecture unique (art. 101 RGC) en séance du Grand Conseil, à Sion, le 16 novembre 2012.
-
-Le président du Grand Conseil: Felix Ruppen Le chef du Service parlementaire: Claude Bumann
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi sur la Haute Ecole spécialisée de Suisse BO No 50/2012; BO 01.01.2015 occidentale Valais/Wallis (HES-SO
-
-**No 52/2014**
-
-### Valais/Wallis) du 16 novembre 2012
+RCV BO/Abl. 50/2012, 52/2014

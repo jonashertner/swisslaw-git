@@ -2,31 +2,28 @@
 canton: VS
 number: "414.70"
 title: Gesetz über die Fachhochschule Westschweiz Valais/Wallis
-short: HES-SO Valais/Wallis
 language: de
-version: 2015-01-01
-corrected: 2017-09-06
-version_adopted: 2012-11-16
+version: 2026-01-01
+version_adopted: 2024-05-15
 adopted: 2012-11-16
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/414.70"
-pdf: "https://lex.vs.ch/api/de/versions/500/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3375/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis)
+# Gesetz über die Fachhochschule Westschweiz Valais/Wallis
 
-vom 16. November 2012
+vom 16.11.2012 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 13 Absatz 1, 15 Ziffer 2, 31 Absatz 1 Ziffer 1, 38 Absatz 1 und 42 Absatz 1 der Kantonsverfassung;
+eingesehen die Artikel 13 Absatz 1, 15 Absatz 1 Buchstabe b, 31 Absatz 1 Buchstabe a, 38 Absatz 1 und 42 Absatz 1 der Kantonsverfassung;
 
 eingesehen das Bundesgesetz über die Fachhochschulen vom 6. Oktober 1995 (FHSG);
 
-eingesehen die Interkantonale Vereinbarung der Fachhochschule Westschweiz (HES-SO) vom 26. Mai 2011;
+eingesehen die Interkantonale Vereinbarung der Fachhochschule Westschweiz vom 26. Mai 2011;
 
 eingesehen das Gesetz über den Beitritt des Kantons Wallis zur Interkantonalen Vereinbarung der Fachhochschule Westschweiz vom 16. November 2011;
 
@@ -34,11 +31,11 @@ eingesehen das Gesetz zur Standortbestimmung und Beteiligung der Standortgemeind
 
 auf Antrag des Staatsrates,
 
-verordnet:[^t-1]
+verordnet:[^ingress-1]
 
-[^t-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+[^ingress-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -84,7 +81,7 @@ verordnet:[^t-1]
 
 <sup>3</sup> Gewisse Kurse können mit der Genehmigung der Generaldirektion in einer anderen Sprache, insbesondere in Englisch, gegeben werden.
 
-<sup>4</sup> Die HES-SO Valais/Wallis bietet grundsätzlich in allen von ihr geführten Studiengängen die Möglichkeit an, ein Bachelor- und/oder Masterdiplom mit dem Vermerk «zweisprachig» (Deutsch/Französisch) zu erwerben.
+<sup>4</sup> Die HES-SO Valais/Wallis bietet grundsätzlich in allen von ihr geführten Studiengängen die Möglichkeit an, ein Bachelor- und/oder Masterdiplom mit dem Vermerk "zweisprachig" (Deutsch/Französisch) zu erwerben.
 
 #### Art. 4
 
@@ -94,25 +91,25 @@ verordnet:[^t-1]
 
 <sup>2</sup> Das Departement stellt die Aufsicht über die Tätigkeiten sicher, die von der HES-SO Valais/Wallis im Rahmen der Zielvereinbarung und der Leistungsvereinbarungen zwischen dem Staat Wallis und der HES-SO Valais/Wallis ausgeübt werden.
 
-### 2. Abschnitt: Betriebsgrundsätze
+<sup>3</sup> Die Bestimmungen des Gesetzes über die Förderung von Hochschulen und Forschung (FHFG) betreffend die Aufsicht, den Schutz der Titel und den Schutz vor Diskriminierung und Betrug bleiben vorbehalten.
+
+## 2 Betriebsgrundsätze
 
 #### Art. 5
 
 **Autonomie**
 
-Im Rahmen der Bestimmungen des vorliegenden Gesetzes, der Interkantonalen Vereinbarung, der Zielvereinbarung und des mit dem Rektorat der HES-SO abgeschlossenen Leistungsauftrags gilt für die HES-SO Valais/Wallis Folgendes:
+<sup>1</sup> Im Rahmen der Bestimmungen des vorliegenden Gesetzes, der Interkantonalen Vereinbarung, der Zielvereinbarung und des mit dem Rektorat der HES-SO abgeschlossenen Leistungsauftrags gilt für die HES-SO Valais/Wallis Folgendes:
 
 - a) sie organisiert sich selbst;
-
 - b) sie legt ihre Prioritäten und ihre Aktionspläne fest;
-
 - c) sie ist für ihre Verwaltung verantwortlich.
 
 #### Art. 6
 
 **Akademische Freiheit**
 
-Die Unterrichts- und Forschungsfreiheit ist im Rahmen der funktionsspezifischen Pflichten des Personals der HES-SO Valais/Wallis gewährleistet.
+<sup>1</sup> Die Unterrichts- und Forschungsfreiheit ist im Rahmen der funktionsspezifischen Pflichten des Personals der HES-SO Valais/Wallis gewährleistet.
 
 #### Art. 7
 
@@ -136,7 +133,7 @@ Die Unterrichts- und Forschungsfreiheit ist im Rahmen der funktionsspezifischen 
 
 #### Art. 9
 
-Unterstützung der Wirtschaft, der Gemeinwesen und Institutionen in den Bereichen Soziales, Gesundheit, Kultur und Wissenschaft
+**Unterstützung der Wirtschaft, der Gemeinwesen und Institutionen in den Bereichen Soziales, Gesundheit, Kultur und Wissenschaft**
 
 <sup>1</sup> Die HES-SO Valais/Wallis trägt mit ihren Tätigkeiten in den Bereichen anwendungsorientierte Forschung und Entwicklung, Weiterbildung und Dienstleistungen, die sie allenfalls in Zusammenarbeit mit weiteren Partnern erbringt, zur Stärkung des wirtschaftlichen und zur Entwicklung des sozialen, gesundheitlichen, kulturellen und wissenschaftlichen Netzes des Kantons bei.
 
@@ -156,7 +153,7 @@ Unterstützung der Wirtschaft, der Gemeinwesen und Institutionen in den Bereiche
 
 **Geistiges Eigentum**
 
-Die Bestimmungen über das geistige Eigentum gehen aus der Interkantonalen Vereinbarung hervor. Der Staatsrat führt sie auf dem Reglementsweg näher aus.
+<sup>1</sup> Die Bestimmungen über das geistige Eigentum gehen aus der Interkantonalen Vereinbarung hervor. Der Staatsrat führt sie auf dem Reglementsweg näher aus.
 
 #### Art. 12
 
@@ -166,7 +163,7 @@ Die Bestimmungen über das geistige Eigentum gehen aus der Interkantonalen Verei
 
 <sup>2</sup> Sie setzt die Bestimmungen über die interne Kontrolle um, die von der HES-SO erlassen werden.
 
-### 3. Abschnitt: Organisation
+## 3 Organisation
 
 #### Art. 13
 
@@ -180,10 +177,9 @@ Die Bestimmungen über das geistige Eigentum gehen aus der Interkantonalen Verei
 
 **Organe**
 
-Die Organe der HES-SO Valais/Wallis sind:
+<sup>1</sup> Die Organe der HES-SO Valais/Wallis sind:
 
 - a) die Generaldirektion;
-
 - b) der Kooperationsrat.
 
 #### Art. 15
@@ -209,7 +205,6 @@ Die Organe der HES-SO Valais/Wallis sind:
 <sup>2</sup> Die Generaldirektion hat namentlich die Pflicht, für die HES-SO Valais/Wallis Folgendes zu gewährleisten:
 
 - a) Erreichung der Zielsetzungen und Erfüllung des Leistungsauftrags, der sie an die HES-SO bindet;
-
 - b) Erfüllung der Aufgaben und Aufträge, die ihr direkt vom Staat Wallis übertragen werden.
 
 <sup>3</sup> Die Generaldirektion wirkt an der Ausarbeitung der vierjährigen Zielvereinbarung zwischen den Kantonen und der HES-SO und des darin vorgesehenen Finanz- und Entwicklungsplans mit.
@@ -238,7 +233,7 @@ Die Organe der HES-SO Valais/Wallis sind:
 
 <sup>5</sup> Der Kooperationsrat kann Vorschläge zuhanden der Generaldirektion unterbreiten.
 
-### 4. Abschnitt: Studierende
+## 4 Studierende
 
 #### Art. 18
 
@@ -250,7 +245,7 @@ Die Organe der HES-SO Valais/Wallis sind:
 
 #### Art. 19
 
-**Studiengebühren – Kostenbeteiligungen**
+**Studiengebühren - Kostenbeteiligungen**
 
 <sup>1</sup> Die Generaldirektion wendet für die Gebühren, die bei den Kandidaten für die Aufnahme in die Bachelor- und Masterstudiengänge und bei den immatrikulierten Studierenden erhoben werden, die diesbezüglichen reglementarischen Bestimmungen der HES-SO an.
 
@@ -268,9 +263,9 @@ Die Organe der HES-SO Valais/Wallis sind:
 
 **Diplome**
 
-Die Bachelor- und Masterdiplome, die von der HES-SO Valais/Wallis ausgestellt werden, werden vom Rektor der HES-SO und von einem Mitglied der Generaldirektion der HES-SO Valais/Wallis unterzeichnet.
+<sup>1</sup> Die Bachelor- und Masterdiplome, die von der HES-SO Valais/Wallis ausgestellt werden, werden vom Rektor der HES-SO und von einem Mitglied der Generaldirektion der HES-SO Valais/Wallis unterzeichnet.
 
-### 5. Abschnitt: Personal
+## 5 Personal
 
 #### Art. 22
 
@@ -279,7 +274,6 @@ Die Bachelor- und Masterdiplome, die von der HES-SO Valais/Wallis ausgestellt we
 <sup>1</sup> Die HES-SO Valais/Wallis ist Arbeitgeber des Personals der Schule. Diesem gehören an:
 
 - a) das Lehr- und Forschungspersonal;
-
 - b) das administrative und technische Personal.
 
 <sup>2</sup> Sie schliesst ihr Personal der Pensionskasse des Staates Wallis (PKWAL) an.
@@ -291,7 +285,6 @@ Die Bachelor- und Masterdiplome, die von der HES-SO Valais/Wallis ausgestellt we
 <sup>1</sup> Das Lehr- und Forschungspersonal der HES-SO Valais/Wallis setzt sich zusammen aus:
 
 - a) dem Lehrkörper;
-
 - b) dem Mittelbau.
 
 <sup>2</sup> Das Dienstverhältnis und das Gehalt dieses Personals werden nach Kategorien in einer Verordnung des Staatsrates festgelegt. Dabei stützt er sich namentlich auf die Grundsätze des Gesetzes über das Personal des Staates Wallis. Die Bestimmungen der HES-SO über die Qualifikation für die Anstellung, über die Funktionen und über die Aufgaben des Lehr- und Forschungspersonals bleiben vorbehalten.
@@ -316,7 +309,7 @@ Die Bachelor- und Masterdiplome, die von der HES-SO Valais/Wallis ausgestellt we
 
 <sup>2</sup> Die HES-SO Valais/Wallis kann analog zu Artikel 7 des Gesetzes über das Personal des Staates Wallis Partnerschaftsvereinbarungen mit den Personalverbänden abschliessen.
 
-### 6. Abschnitt: Finanzierungsbestimmungen
+## 6 Finanzierungsbestimmungen
 
 #### Art. 26
 
@@ -333,14 +326,14 @@ Die Bachelor- und Masterdiplome, die von der HES-SO Valais/Wallis ausgestellt we
 <sup>5</sup> Die HES-SO Valais/Wallis erstellt namentlich die folgenden Unterlagen, die dem Staatsrat durch das Departement zur Information übermittelt werden:
 
 - a) einen langfristigen strategischen Plan, der periodisch aktualisiert wird;
-
 - b) ein Budget innerhalb eines mehrjährigen Finanzplans;
-
 - c) einen jährlichen Tätigkeitsbericht, der die Rechnung des vergangenen Jahres und die Bilanz sowie Informationen über die Umsetzung der zwischen dem Staat Wallis und der HES-SO Valais/Wallis abgeschlossenen Leistungsvereinbarung enthält.
 
 #### Art. 27
 
-Finanzielle Zuständigkeiten der Organe der HES-SO Valais/Wallis Der Staatsrat legt im Rahmen der Autonomie, über welche die Schule aufgrund ihrer Rechtsstellung verfügt, und auf Antrag der Generaldirektion die finanziellen Zuständigkeiten der Organe der HES-SO Valais/Wallis fest.
+**Finanzielle Zuständigkeiten der Organe der HES-SO Valais/Wallis**
+
+<sup>1</sup> Der Staatsrat legt im Rahmen der Autonomie, über welche die Schule aufgrund ihrer Rechtsstellung verfügt, und auf Antrag der Generaldirektion die finanziellen Zuständigkeiten der Organe der HES-SO Valais/Wallis fest.
 
 #### Art. 28
 
@@ -352,7 +345,7 @@ Finanzielle Zuständigkeiten der Organe der HES-SO Valais/Wallis Der Staatsrat l
 
 <sup>3</sup> Sie ist für ihre Kassenführung verantwortlich. Sie kann Bankdarlehen aufnehmen. Für Darlehen von insgesamt über einer Million Franken braucht sie allerdings eine Bewilligung des Staatsrates. Der Staatsrat bürgt für Darlehen der HES-SO Valais/Wallis bis insgesamt vier Millionen Franken. Für die Garantie von Darlehen, die diesen Gesamtbetrag übersteigen, braucht es die Bewilligung des Grossen Rates.
 
-<sup>4</sup> Die HES-SO Valais/Wallis kann namentlich für strategische Projekte und zum Ausgleich von Schwankungen im Zusammenhang mit den Tätigkeiten über eine Reserve verfügen. Diese Reserve wird aus früheren Ertrags- oder Aufwandüberschüssen gespeist, die ihr verrechnet, auf das folgende Rechnungsjahr übertragen und in der Bilanz auf einem besonderen Konto mit dem Namen «Reservefonds» unter den Eigenmitteln verbucht werden.
+<sup>4</sup> Die HES-SO Valais/Wallis kann namentlich für strategische Projekte und zum Ausgleich von Schwankungen im Zusammenhang mit den Tätigkeiten über eine Reserve verfügen. Diese Reserve wird aus früheren Ertrags- oder Aufwandüberschüssen gespeist, die ihr verrechnet, auf das folgende Rechnungsjahr übertragen und in der Bilanz auf einem besonderen Konto mit dem Namen "Reservefonds" unter den Eigenmitteln verbucht werden.
 
 <sup>5</sup> Sie verbucht auf ihren Konten den gesamten Aufwand und Ertrag sowie alle Ausgaben und Einnahmen für den Betrieb und die Investitionen, welche zugunsten des Staates getätigt werden.
 
@@ -373,28 +366,17 @@ Finanzielle Zuständigkeiten der Organe der HES-SO Valais/Wallis Der Staatsrat l
 <sup>1</sup> Die HES-SO Valais/Wallis verfügt über folgende Mittel:
 
 - a) Beträge von der HES-SO:
-
-- 1\. Beträge für die Grundausbildung;
-
-- 2\. Beträge für weitere Fachhochschulaufgaben;
-
-- 3\. Beträge für die Bereitstellung der Gebäude;
-
-- b) Beträge, die vom Kanton gemäss der Leistungsvereinbarung und von den Standortgemeinden überwiesen werden für:
-
-- 1\. die Finanzierung der Kosten im Zusammenhang mit den örtlichen Besonderheiten, namentlich die Zweisprachigkeit, und den besonderen kantonalen Aufgaben;
-
-- 2\. die Finanzierung der Forschungstätigkeiten und weiteren Aufgaben, die zur kantonalen Strategie gehören;
-
+  - 1\. Beträge für die Grundausbildung,
+  - 2\. Beträge für weitere Fachhochschulaufgaben,
+  - 3\. Beträge für die Bereitstellung der Gebäude;
+- b) Beträge, die vom Kanton überwiesen und gemäss Leistungsverträgen geregelt werden für:
+  - 1\. die Finanzierung der Kosten im Zusammenhang mit den örtlichen Besonderheiten, namentlich die Zweisprachigkeit, und den besonderen kantonalen Aufgaben,
+  - 2\. die Finanzierung der Forschungstätigkeiten und weiteren Aufgaben, die zur kantonalen Strategie gehören;
 - c) Beträge, die direkt bei der HES-SO Valais/Wallis erhoben werden:
-
-- 1\. Studiengebühren und Kostenbeteiligungen, die von den Studierenden entrichtet werden;
-
-- 2\. Einkommen aus den Tätigkeiten ausserhalb des Bereichs der Grundausbildung;
-
-- 3\. Schenkungen und Vermächtnisse;
-
-- 4\. weitere Erträge aus Mäzenat und Sponsoring.
+  - 1\. Studiengebühren und Kostenbeteiligungen, die von den Studierenden entrichtet werden,
+  - 2\. Einkommen aus den Tätigkeiten ausserhalb des Bereichs der Grundausbildung,
+  - 3\. Schenkungen und Vermächtnisse,
+  - 4\. weitere Erträge aus Mäzenat und Sponsoring.
 
 <sup>2</sup> Die Finanzierungen nach Absatz 1 Buchstabe b werden im Budget der HES-SO ausgewiesen.
 
@@ -404,7 +386,7 @@ Finanzielle Zuständigkeiten der Organe der HES-SO Valais/Wallis Der Staatsrat l
 
 **Beteiligung der Standortgemeinden**
 
-Die Beteiligungen der Standortgemeinden werden im Gesetz zur Standortbestimmung und Beteiligung der Standortgemeinden für die kantonalen Schulen der tertiären Stufe festgehalten.
+<sup>1</sup> Die Beteiligungen der Standortgemeinden werden im Gesetz zur Standortbestimmung der kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe und über den Beitrag der Standortgemeinden festgehalten.
 
 #### Art. 32
 
@@ -416,9 +398,11 @@ Die Beteiligungen der Standortgemeinden werden im Gesetz zur Standortbestimmung 
 
 #### Art. 33
 
-Finanzierung der Bachelor- und Masterstudiengänge, die in beiden Amtssprachen angeboten werden Der Staat Wallis stellt die Übernahme allfälliger Mehrkosten, die aus dem Angebot der FH-Grundausbildung in beiden Amtssprachen entstehen, sicher.
+**Finanzierung der Bachelor- und Masterstudiengänge, die in beiden Amtssprachen angeboten werden**
 
-### 7. Abschnitt: Dem Kanton vorbehaltene Zuständigkeiten
+<sup>1</sup> Der Staat Wallis stellt die Übernahme allfälliger Mehrkosten, die aus dem Angebot der FH-Grundausbildung in beiden Amtssprachen entstehen, sicher.
+
+## 7 Dem Kanton vorbehaltene Zuständigkeiten
 
 #### Art. 34
 
@@ -429,15 +413,10 @@ Finanzierung der Bachelor- und Masterstudiengänge, die in beiden Amtssprachen a
 <sup>2</sup> Der Staatsrat ist insbesondere für Folgendes zuständig:
 
 - a) er genehmigt die Vorschläge des Departements im Rahmen der vierjährigen Zielvereinbarung;
-
 - b) er überträgt der HES-SO Valais/Wallis allenfalls die Ausführung zusätzlicher Aufgaben;
-
 - c) er stellt nach Vormeinung des Rektorats der HES-SO den Direktor der HES-SO Valais/Wallis an;
-
 - d) er stellt nach Vormeinung des Direktors der HES-SO Valais/Wallis die übrigen Mitglieder der Generaldirektion an;
-
 - e) er genehmigt den Betrag der finanziellen Beteiligungen des Kantons Wallis am Budget der HES-SO;
-
 - f) er genehmigt den Betrag der finanziellen Beteiligungen des Kantons Wallis an der HES-SO Valais/Wallis.
 
 <sup>3</sup> Der Staatsrat setzt für bestimmte Aufgaben einen strategischen Rat ein und bezeichnet dessen Mitglieder.
@@ -450,15 +429,15 @@ Finanzierung der Bachelor- und Masterstudiengänge, die in beiden Amtssprachen a
 
 **Budget**
 
-Die kantonalen finanziellen Beteiligungen an der HES-SO und an der HES-SO Valais/Wallis werden im Rahmen des Budgets dem Grossen Rat zur Genehmigung unterbreitet.
+<sup>1</sup> Die kantonalen finanziellen Beteiligungen an der HES-SO und an der HES-SO Valais/Wallis werden im Rahmen des Budgets dem Grossen Rat zur Genehmigung unterbreitet.
 
 #### Art. 36
 
 **Berichte des Staatsrates**
 
-Der Staatsrat richtet jedes Jahr einen Tätigkeitsbericht über die strategischen Ziele der HES-SO und ihre Erreichung, die Bewertung der Ergebnisse der Zielvereinbarung, das jährliche Budget, die Rechnung und die Ergebnisse der HES-SO an den Grossen Rat.
+<sup>1</sup> Der Staatsrat richtet jedes Jahr einen Tätigkeitsbericht über die strategischen Ziele der HES-SO und ihre Erreichung, die Bewertung der Ergebnisse der Zielvereinbarung, das jährliche Budget, die Rechnung und die Ergebnisse der HES-SO an den Grossen Rat.
 
-### 8. Abschnitt: Rechtsmittel
+## 8 Rechtsmittel
 
 #### Art. 37
 
@@ -470,7 +449,7 @@ Der Staatsrat richtet jedes Jahr einen Tätigkeitsbericht über die strategische
 
 <sup>3</sup> Die übrigen Beschwerden, die mit der Anwendung des vorliegenden Gesetzes im Zusammenhang stehen, werden in erster Instanz dem Staatsrat unterbreitet. Das Verfahren wird im Gesetz über das Verwaltungsverfahren und die Verwaltungsrechtspflege geregelt.
 
-### 9. Abschnitt: Übergangs- und Schlussbestimmungen
+## 9 Übergangs- und Schlussbestimmungen
 
 #### Art. 38
 
@@ -478,97 +457,33 @@ Der Staatsrat richtet jedes Jahr einen Tätigkeitsbericht über die strategische
 
 <sup>1</sup> Die Verfahren, die beim Inkrafttreten des vorliegenden Gesetzes hängig sind, werden weiterhin nach altem Recht geregelt.
 
-<sup>2</sup> Der Betrag, der sich beim Inkrafttreten des vorliegenden Gesetzes im Fonds «Aufträge» befindet, wird in den Reservefonds gemäss Artikel 28 Absatz 4 des vorliegenden Gesetzes überführt.
+<sup>2</sup> Der Betrag, der sich beim Inkrafttreten des vorliegenden Gesetzes im Fonds "Aufträge" befindet, wird in den Reservefonds gemäss Artikel 28 Absatz 4 des vorliegenden Gesetzes überführt.
 
 #### Art. 39
 
 **Ausführungsbestimmungen**
 
-Der Staatsrat erlässt auf dem Verordnungs- und Reglementsweg alle nötigen Ausführungsbestimmungen zum vorliegenden Gesetz.
+<sup>1</sup> Der Staatsrat erlässt auf dem Verordnungs- und Reglementsweg alle nötigen Ausführungsbestimmungen zum vorliegenden Gesetz.
 
 #### Art. 40
 
 **Änderungen**
 
-- 1\. Das Gesetz zur Standortbestimmung und Beteiligung der Standortgemeinden für die kantonalen Schulen der tertiären Stufe vom 11. November 1999 wird wie folgt geändert:
+<sup>1</sup> Das Gesetz zur Standortbestimmung und Beteiligung der Standortgemeinden für die kantonalen Schulen der tertiären Stufe vom 11. November 1999 wird geändert.
 
-#### Art. 1
+<sup>2</sup> Das Gesetz über die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vom 17. November 1988 wird geändert.
 
-**Abs. 1**
-
-<sup>1</sup> Das vorliegende Gesetz legt die Standorte folgender Schulen fest:
-
-- der Pädagogischen Hochschule Wallis (PH-VS);
-
-- der Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis) mit den Bereichen Ingenieurwesen, Wirtschaft & Dienstleistungen, Gesundheit und Soziale Arbeit.
-
-#### Art. 4
-
-**, Titel, Abs. 1 et 3 Standorte der HES-SO Valais-Wallis**
-
-<sup>1</sup> Die Standorte der HES-SO Valais/Wallis sind:
-
-- Sitten für die Bereiche Ingenieurwesen und Gesundheit (französischsprachiger Lehrgang in Gesundheits- und Krankenpflege)
-
-- Siders für die Bereiche Wirtschaft & Dienstleistungen und soziale Arbeit;
-
-- Leukerbad für den Lehrgang Physiotherapie;
-
-- Visp für den deutschsprachigen Lehrgang in Gesundheits- und Krankenpflege.
-
-<sup>3</sup> In beiden Sprachregionen wird ein Organ damit beauftragt, die Verbindung zwischen der HES-SO Valais/Wallis und der Wirtschaft sicherzustellen.
-
-- 2\. Das Gesetz über die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vom 17. November 1988 wird wie folgt geändert:
-
-#### Art. 1
-
-**Abs. 1, 2 et 3**
-
-<sup>1</sup> Das vorliegende Gesetz regelt die Besoldungsklassen des Lehrpersonals, d.h. des Lehrkörpers folgender Lehranstalten für eine höhere berufliche Ausbildung:
-
-SPAZ: Sozialpädagogisches Ausbildungszentrum, Sitten;
-
-PH: Pädagogische Hochschule, Brig und St-Maurice.
-
-<sup>2</sup> Aufgehoben
-
-<sup>3</sup> Die Besoldung des administrativen und des technischen Personals der PH wird durch das Gesetz betreffend die Besoldung der Angestellten des Staates Wallis festgelegt.
-
-#### Art. 3
-
-**Abs. 2**
-
-<sup>2</sup> Vorbehalten bleibt die Situation der Assistenten des SPAZ.
-
-#### Art. 3c
-
-**Abs. 1**
-
-<sup>1</sup> Der Staatsrat kann auf dem Verordnungsweg für das Personal der Lehranstalten für eine höhere berufliche Ausbildung auf ein Gesuch hin die Möglichkeit vorsehen, den Beschäftigungsgrad in den letzten fünf Jahren vor Erreichen der statutarischen Alterslimite um höchstens sechs wöchentliche Unterrichtsstunden, bzw. um 20 Prozent für das Personal der PH herabzusetzen.
-
-#### Art. 12 bis
-
-**15**
-
-Aufgehoben
-
-#### Art. 16 bis
-
-**18**
-
-Aufgehoben 3. Der Staatsrat wird beauftragt, die kantonalen Bestimmungen von niedrigerer Stufe entsprechend abzuändern.
+<sup>3</sup> Der Staatsrat wird beauftragt, die kantonalen Bestimmungen von niedrigerer Stufe entsprechend abzuändern.
 
 #### Art. 41
 
 **Aufhebung bisherigen Rechts**
 
-Alle Bestimmungen, die dem vorliegenden Gesetz zuwiderlaufen, werden aufgehoben, insbesondere:
+<sup>1</sup> Alle Bestimmungen, die dem vorliegenden Gesetz zuwiderlaufen, werden aufgehoben, insbesondere:
 
-- 1\. das Ausführungsgesetz über die Fachhochschule Wallis (FH Wallis) vom 22. September 1999;
-
-- 2\. das Gesetz zur Schaffung der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW-GS) vom 22. März 2002;
-
-- 3\. das Gesetz über das Dienstverhältnis des Personals der Fachhochschule Wallis (FH Wallis) vom 26. Juni 2000.
+- a) das Ausführungsgesetz über die Fachhochschule Wallis (FH Wallis) vom 22. September 1999;
+- b) das Gesetz zur Schaffung der Fachhochschule Wallis für Gesundheit und Soziale Arbeit (FHW-GS) vom 22. März 2002;
+- c) das Gesetz über das Dienstverhältnis des Personals der Fachhochschule Wallis (FH Wallis) vom 26. Juni 2000.
 
 #### Art. 42
 
@@ -578,14 +493,4 @@ Alle Bestimmungen, die dem vorliegenden Gesetz zuwiderlaufen, werden aufgehoben,
 
 <sup>2</sup> Der Staatsrat bestimmt das Inkrafttreten des vorliegenden Gesetzes. Er kann für die verschiedenen Bestandteile des vorliegenden Gesetzes ein differenziertes Inkrafttreten vorsehen.
 
-So angenommen in einziger Lesung (Art. 101 RGR) im Grossen Rat in Sitten, den 16. November 2012.
-
-Der Präsident des Grossen Rates: Felix Ruppen
-
-Der Chef des Parlamentsdienstes: Claude Bumann
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Gesetz über die Fachhochschule Abl. Nr. 50/2012; 01.01.2015 Westschweiz Valais/Wallis (HES-SO Abl. Nr. 52/2014
-
-### Valais/Wallis) vom 16. November 2012
+CSW BO/Abl. 50/2012, 52/2014
