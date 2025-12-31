@@ -3,20 +3,19 @@ canton: AI
 number: "412.011"
 title: Standeskommissionsbeschluss zur Gymnasialverordnung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
+version: 2026-01-01
 version_adopted: 2024-12-17
 adopted: 2016-04-12
 in_force: 2016-04-12
 url: "https://ai.clex.ch/app/de/texts_of_law/412.011"
-pdf: "https://ai.clex.ch/api/de/versions/2326/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2414/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss zur Gymnasialverordnung
 
-vom 12.04.2016 (Stand 01.01.2025)
+vom 12.04.2016 (Stand 01.01.2026)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
