@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "417.10"
-title: "Gesetz zur Standortbestimmung der kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe und über den Beitrag der Standortgemeinden *"
+title: "Gesetz über den Beitrag der Standortgemeinden an die Bildungs- und Forschungsinstitutionen der Tertiärstufe *"
 short: GBSG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2012-11-16
+version: 2026-01-01
+version_adopted: 2025-02-14
 adopted: 1999-11-11
 in_force: 2000-04-01
 url: "https://lex.vs.ch/app/de/texts_of_law/417.10"
-pdf: "https://lex.vs.ch/api/de/versions/3043/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz zur Standortbestimmung der kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe und über den Beitrag der Standortgemeinden
+# Gesetz über den Beitrag der Standortgemeinden an die Bildungs- und Forschungsinstitutionen der Tertiärstufe
 
-vom 11.11.1999 (Stand 01.01.2023)
+(GBSG)
+
+vom 11.11.1999 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -37,28 +38,15 @@ verordnet: [^ingress-1]
 
 **Zweck und Gegenstand**
 
-<sup>1</sup> Das vorliegende Gesetz legt die Standorte fest für:
+<sup>1</sup> …
 
-- a) die Pädagogische Hochschule Wallis (PH-VS);
-- b) die Fachhochschule Westschweiz Valais-Wallis (HES-SO Valais-Wallis);
-- c) …
-- d) …
-- e) die Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL);
-- f) die Fernfachhochschule Schweiz (FFHS);
-- g) die höheren Fachschulen HF;
-- h) universitäre Bildungs- und Forschungsinstitute.
+<sup>2</sup> Das vorliegende Gesetz regelt den Beitrag der Standortgemeinden an die Investitions- und Mietkosten der kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe auf dem Kantonsgebiet.
 
-<sup>2</sup> Das vorliegende Gesetz regelt den Beitrag der Standortgemeinden an die kantonalen Bildungs- und Forschungsinstitutionen der Tertiärstufe auf dem Kantonsgebiet.
-
-<sup>3</sup> Als kantonale Bildungs- und Forschungsinstitutionen der Tertiärstufe im Sinne des vorliegenden Gesetzes (nachfolgend: Institutionen der Tertiärstufe) gelten die vom Staat Wallis subventionierten Institutionen, die dem Bundesgesetz über die Förderung der Hochschulen und die Koordination im schweizerischen Hochschulbereich (HFKG), dem Bundesgesetz über die Berufsbildung (BBG) oder dem kantonalen Gesetz über Bildung und Forschung von universitären Hochschulen und Forschungsinstituten unterstehen.
+<sup>3</sup> Als kantonale Bildungs- und Forschungsinstitutionen der Tertiärstufe im Sinne des vorliegenden Gesetzes (nachfolgend: tertiäre Institutionen) gelten die vom Staat Wallis subventionierten Institutionen, die dem Gesetz über die Förderung von Hochschulen und Forschung (FHFG) oder dem Bundesgesetz über die Berufsbildung (BBG) unterstehen und öffentliche Bildungsdienstleistungen im Sinne von Artikel 45 Absatz 3 des Hochschulförderungs- und -koordinationsgesetzes (HFKG) anbieten.
 
 #### Art. 2
 
-**Standort der Pädagogischen Hochschule Wallis (PH-VS)**
-
-<sup>1</sup> Die deutschsprachige Abteilung der PH-VS hat ihren Standort in Brig-Glis.
-
-<sup>2</sup> Die französischsprachige Abteilung der PH-VS hat ihren Standort in Saint-Maurice.
+**…**
 
 #### Art. 3
 
@@ -66,71 +54,33 @@ verordnet: [^ingress-1]
 
 #### Art. 4
 
-**Standorte der Fachhochschule Westschweiz Valais-Wallis (HES-SO Valais-Wallis)**
-
-<sup>1</sup> Die Standorte der HES-SO Valais-Wallis sind:
-
-- a) Sitten für die Bereiche Ingenieurwesen und Gesundheit (französischsprachiger Lehrgang in Pflege);
-- b) Siders für die Bereiche Wirtschaft und Dienstleistungen, soziale Arbeit und Design und bildende Kunst;
-- c) Leukerbad für den Bereich Gesundheit (Lehrgang Physiotherapie);
-- d) Visp für den Bereich Gesundheit (deutschsprachiger Lehrgang in Pflege).
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 4a
 
-**Standort der Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL)**
-
-<sup>1</sup> Die HEMU-CL hat ihren Standort in Sitten.
+**…**
 
 #### Art. 4b
 
-**Standort der Fernfachhochschule Schweiz (FFHS)**
-
-<sup>1</sup> Die FFHS hat ihren Standort in Brig-Glis.
+**…**
 
 #### Art. 4c
 
-**Standorte der höheren Fachschulen HF**
-
-<sup>1</sup> Die Standorte der höheren Fachschulen HF sind:
-
-- a) Sitten für die HF-Lehrgänge im Bereich Soziale Arbeit;
-- b) Visp für den deutschsprachigen HF-Lehrgang in Pflege der Stiftung HF Gesundheit Valais-Wallis;
-- c) Monthey für den französischsprachigen HF-Lehrgang in Pflege der Stiftung HF Gesundheit Valais-Wallis.
+**…**
 
 #### Art. 4d
 
-**Standorte der universitären Bildungs- und Forschungsinstitutionen**
-
-<sup>1</sup> Die Standorte der universitären Bildungs- und Forschungsinstitutionen sind:
-
-- a) Brig-Glis und Siders für die Fernuni Schweiz-Unidistance Suisse;
-- b) Brig-Glis für das Forschungsinstitut zur Geschichte des Alpenraums (FGA);
-- c) Siders für das Icare, Institut de recherche en informatique;
-- d) Sitten für das Institut de recherche en réadaptation-réinsertion (IRR);
-- e) Sitten für die Fondation Universitaire Kurt Bösch;
-- f) Martinach für das Institut de recherche Idiap;
-- g) Martinach für das Centre de recherche Crem;
-- h) Sembrancher für das Centre régional d'études des populations alpines (CREPA).
+**…**
 
 #### Art. 4e
 
-**Standorte der Institutionen, die im Sinne des vorliegenden Gesetzes als Sonderfälle gelten**
-
-<sup>1</sup> Die Walliser Zweigstelle der Universität Genf hat ihren Standort in Sitten.
-
-<sup>2</sup> Die Walliser Zweigstelle der Universität Lausanne hat ihren Standort in Sitten.
-
-<sup>3</sup> Die ETHL Valais Wallis hat ihren Standort in Sitten.
+**…**
 
 #### Art. 5
 
 **Beitrag der Standortgemeinden an die Investitionskosten und die Mietkosten**
 
-<sup>1</sup> Gemeinden, in denen Gebäude für Institutionen der Tertiärstufe errichtet werden, müssen:
+<sup>1</sup> Gemeinden, in denen Gebäude für tertiäre Institutionen errichtet werden, müssen:
 
 - a) das hierfür nötige erschlossene Bauland unentgeltlich zur Verfügung stellen;
 - b) die Kosten für Bau, Erwerb, Ausbau, Renovierung, Umbau und Gebäudeausstattung zu 10 Prozent übernehmen;
@@ -155,7 +105,7 @@ verordnet: [^ingress-1]
 
 **Beitrag der Standortgemeinden an die Investitions- und die Mietkosten für Sonderfälle**
 
-<sup>1</sup> Als Sonderfälle gelten Institutionen der Tertiärstufe, die kumulativ folgende Eigenschaften aufweisen:
+<sup>1</sup> Als Sonderfälle gelten tertiäre Institutionen, die kumulativ folgende Eigenschaften aufweisen:
 
 - a) die Institution, deren Hauptsitz sich ausserhalb des Kantons Wallis befindet, ist an einem dezentralisierten Standort gelegen, und
 - b) der Staat Wallis subventioniert diese Institution ohne Entscheidungsbefugnis über die Steuerung der Investitions- und Mietkosten.
@@ -166,9 +116,9 @@ verordnet: [^ingress-1]
 
 **Neuer Standort oder Grossinvestition für eine tertiäre Institution**
 
-<sup>1</sup> Im Falle eines neuen Standorts einer tertiären Institution auf ihrem Gebiet müssen die betreffende(n) Gemeinde(n) dem Standortentscheid des Grossen Rates vorher zustimmen.
+<sup>1</sup> Im Falle eines neuen Standorts einer tertiären Institution auf ihrem Gebiet müssen die betreffenden Gemeinden dem Standortentscheid des Staatsrats vorher zustimmen.
 
-<sup>2</sup> Im Falle einer Grossinvestition einer Institution der Tertiärstufe auf ihrem Gebiet geben die betreffende(n) Gemeinde(n) ihre Vormeinung ab.
+<sup>2</sup> Im Falle einer Grossinvestition einer tertiären Institution auf ihrem Gebiet geben die betreffenden Gemeinden ihre Vormeinung ab.
 
 <sup>3</sup> Es wird regelmässig eine Koordinationssitzung zwischen den Standortgemeinden, den betreffenden tertiären Institutionen und dem für die Bildung zuständigen Departement organisiert.
 
@@ -176,9 +126,9 @@ verordnet: [^ingress-1]
 
 #### Art. 7
 
-**Modalitäten der Erhebung und Verteilung der Beiträge der Standortgemeinden durch den Staat**
+**Modalitäten der Erhebung**
 
-<sup>1</sup> Die in den Artikeln 5 und 6a des vorliegenden Gesetzes erwähnten jährlichen Beiträge werden durch die Institutionen der Tertiärstufe dem Staat vorgeschlagen, der sie überprüft, den Standortgemeinden in Rechnung stellt und an die betreffenden Institutionen der Tertiärstufe verteilt. Sie werden in der Rechnung des Kalenderjahres der Institutionen der Tertiärstufe, beziehungsweise der betreffenden Standortgemeinde(n) abgerechnet und verbucht.
+<sup>1</sup> Die in den Artikeln 5 und 6a des vorliegenden Gesetzes erwähnten jährlichen Beiträge werden durch die tertiären Institutionen dem Staat vorgeschlagen, der sie überprüft und validiert. Sie werden in der Rechnung des Kalenderjahres der tertiären Institutionen, beziehungsweise den betreffenden Standortgemeinden abgerechnet und verbucht.
 
 <sup>2</sup> Die Beiträge der Standortgemeinden an die in Artikel 5 Absatz 1 Buchstabe b vorgesehenen Kosten können gemäss den finanziellen Modalitäten durch eine zwischen dem Staat und der Standortgemeinde erstellten Vereinbarung gezahlt werden.
 

@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "417.10"
-title: Loi fixant la localisation des institutions cantonales de formation et de recherche du degré tertiaire et la contribution des communes sièges
+title: Loi fixant la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire
 short: LCCS
 language: fr
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2012-11-16
+version: 2026-01-01
+version_adopted: 2025-02-14
 adopted: 1999-11-11
 in_force: 2000-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/417.10"
-pdf: "https://lex.vs.ch/api/fr/versions/3043/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3548/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi fixant la localisation des institutions cantonales de formation et de recherche du degré tertiaire et la contribution des communes sièges
+# Loi fixant la contribution des communes sièges aux institutions de formation et de recherche du degré tertiaire
 
-du 11.11.1999 (état 01.01.2023)
+(LCCS)
+
+du 11.11.1999 (état 01.01.2026)
 
 Le Grand Conseil du canton du Valais
 
@@ -37,28 +38,15 @@ ordonne: [^ingress-1]
 
 **But et objet**
 
-<sup>1</sup> La présente loi fixe la localisation:
+<sup>1</sup> …
 
-- a) de la Haute école pédagogique du Valais (HEP-VS);
-- b) de la Haute Ecole spécialisée de Suisse occidentale Valais-Wallis (HES-SO Valais-Wallis);
-- c) …
-- d) …
-- e) de la Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL);
-- f) de la Fernfachhochschule Schweiz (FFHS);
-- g) des Ecoles supérieures ES;
-- h) des Institutions de formation et de recherche universitaires.
+<sup>2</sup> La présente loi règle la contribution des communes sièges aux dépenses d'investissement et de location des institutions cantonales de formation et de recherche du degré tertiaire sises sur le territoire du canton.
 
-<sup>2</sup> La présente loi règle la contribution des communes sièges aux institutions cantonales de formation et de recherche du degré tertiaire sises sur le territoire du canton.
-
-<sup>3</sup> Sont considérées comme institutions cantonales de formation et de recherche du degré tertiaire au sens de la présente loi (ci-après: institutions tertiaires), les institutions subventionnées par l’Etat du Valais qui relèvent de la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles (LEHE), de la loi fédérale sur la formation professionnelle (LFPr) ou de la loi cantonale sur la formation et la recherche universitaires (LFRU).
+<sup>3</sup> Sont considérées comme institutions cantonales de formation et de recherche du degré tertiaire au sens de la présente loi (ci-après: institutions tertiaires), les institutions subventionnées par l’Etat du Valais qui relèvent de la loi sur l’encouragement des hautes écoles et de la recherche (LEHER) ou de la loi fédérale sur la formation professionnelle (LFPr) et qui offrent un enseignement public au sens de l’article 45 alinéa 3 de la loi sur l'encouragement et la coordination des hautes écoles (LEHE).
 
 #### Art. 2
 
-**Localisation de la Haute école pédagogique du Valais (HEP-VS)**
-
-<sup>1</sup> L'unité germanophone de la HEP-VS est localisée à Brig-Glis.
-
-<sup>2</sup> L'unité francophone de la HEP-VS est localisée à Saint-Maurice.
+**…**
 
 #### Art. 3
 
@@ -66,65 +54,27 @@ ordonne: [^ingress-1]
 
 #### Art. 4
 
-**Localisation de la Haute Ecole spécialisée de Suisse occidentale Valais-Wallis (HES-SO Valais-Wallis)**
-
-<sup>1</sup> La HES-SO Valais-Wallis est localisée:
-
-- a) à Sion pour les domaines des Sciences de l'ingénieur et de la Santé (filière francophone en Soins infirmiers);
-- b) à Sierre pour les domaines de l'Economie et Services, du Travail social et du Design et Arts visuels;
-- c) à Loèche-les-Bains pour le domaine de la Santé (filière de Physiothérapie);
-- d) à Viège pour le domaine de la Santé (filière germanophone en Soins infirmiers).
-
-<sup>2</sup> …
-
-<sup>3</sup> …
+**…**
 
 #### Art. 4a
 
-**Localisation de la Haute école de musique Vaud Valais Fribourg et du Conservatoire de Lausanne (HEMU-CL)**
-
-<sup>1</sup> L'HEMU-CL est localisée à Sion.
+**…**
 
 #### Art. 4b
 
-**Localisation de la Fernfachhochschule Schweiz (FFHS)**
-
-<sup>1</sup> La FFHS est localisée à Brig-Glis.
+**…**
 
 #### Art. 4c
 
-**Localisation des Ecoles supérieures ES**
-
-<sup>1</sup> Les Ecoles supérieures ES sont localisées:
-
-- a) à Sion pour les filières ES de l’Ecole supérieure Domaine Social Valais;
-- b) à Viège pour la filière germanophone ES en Soins infirmiers de la Fondation ES Santé Valais-Wallis;
-- c) à Monthey pour la filière francophone ES en Soins infirmiers de la Fondation ES Santé Valais-Wallis.
+**…**
 
 #### Art. 4d
 
-**Localisation des Institutions de formation et de recherche universitaires**
-
-<sup>1</sup> Les Institutions de formation et de recherche universitaires sont localisées:
-
-- a) à Brig-Glis et à Sierre pour FernUni Schweiz-UniDistance Suisse;
-- b) à Brig-Glis pour le Forschungsinstitut zur Geschichte des Alpensraums FGA;
-- c) à Sierre pour Icare, Institut de recherche en informatique;
-- d) à Sion pour l’Institut de recherche en réadaptation‐réinsertion IRR;
-- e) à Sion pour la Fondation Universitaire Kurt Bösch;
-- f) à Martigny pour l'Institut de recherche Idiap;
-- g) à Martigny pour le Centre de recherche Crem;
-- h) à Sembrancher pour le Centre régional d'études des populations alpines CREPA.
+**…**
 
 #### Art. 4e
 
-**Localisation des institutions considérées comme les cas particuliers au sens de la présente loi**
-
-<sup>1</sup> L’antenne valaisanne de l’Université de Genève est localisée à Sion.
-
-<sup>2</sup> L’antenne valaisanne de l’Université de Lausanne est localisée à Sion.
-
-<sup>3</sup> L’EPFL Valais Wallis est localisée à Sion.
+**…**
 
 #### Art. 5
 
@@ -166,9 +116,9 @@ ordonne: [^ingress-1]
 
 **Nouvelle localisation ou investissement majeur pour une institution tertiaire**
 
-<sup>1</sup> En cas de nouvelle localisation d’une institution tertiaire sur leur territoire, la ou les communes concernées doivent donner leur accord préalable à la décision du Grand Conseil relative à sa localisation.
+<sup>1</sup> En cas de nouvelle localisation d’une institution tertiaire sur leur territoire, les communes concernées doivent donner leur accord préalable à la décision du Conseil d'Etat relative à sa localisation.
 
-<sup>2</sup> En cas d'investissement majeur d'une institution tertiaire sur leur territoire, la ou les communes concernées donnent leur préavis.
+<sup>2</sup> En cas d'investissement majeur d'une institution tertiaire sur leur territoire, les communes concernées donnent leur préavis.
 
 <sup>3</sup> Une rencontre de coordination est organisée régulièrement entre les communes sièges, les institutions tertiaires concernées et le département en charge de la formation.
 
@@ -176,9 +126,9 @@ ordonne: [^ingress-1]
 
 #### Art. 7
 
-**Modalités de perception et redistribution des contributions des communes sièges par l'Etat**
+**Modalités de perception**
 
-<sup>1</sup> Les contributions annuelles mentionnées aux articles 5 et ​6a de la présente loi sont proposées par les institutions tertiaires à ​l’Etat, qui les vérifie, ​les facture aux communes sièges et les redistribue aux institutions tertiaires concernées. Elles sont calculées et enregistrées sur les comptes de l'année civile des institutions tertiaires, respectivement dans ceux de la ou des communes sièges.
+<sup>1</sup> Les contributions annuelles mentionnées aux articles 5 et 6a de la présente loi sont proposées par les institutions tertiaires à l’Etat, qui les vérifie et les valide. Elles sont calculées et enregistrées sur les comptes de l'année civile des institutions tertiaires, respectivement dans ceux des communes sièges.
 
 <sup>2</sup> Les contributions des communes sièges aux coûts prévus à l'article 5 alinéa 1 lettre b peuvent être versées selon des modalités financières réglées par une convention établie entre l'Etat et la commune siège.
 
