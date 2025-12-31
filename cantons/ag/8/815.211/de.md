@@ -4,13 +4,12 @@ number: "815.211"
 title: Verordnung zum EG Familienzulagengesetz
 short: V EG FamZG
 language: de
-version: 2010-01-01
-valid_until: 2025-12-31
-version_adopted: 2009-11-11
+version: 2026-01-01
+version_adopted: 2025-08-13
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/815.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/799/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3868/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/799/pdf_file"
 
 (V EG FamZG)
 
-Vom 11.11.2009 (Stand 01.01.2010)
+Vom 11.11.2009 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -147,7 +146,22 @@ beschliesst:
 
 **Rechnung und Berichterstattung**
 
-<sup>1</sup> Die Familienausgleichskassen haben innert fünf Monaten nach Ablauf des Geschäftsjahrs dem Departement den Tätigkeitsbericht sowie die Rechnung zusammen mit dem Revisionsbericht mit einem Verzeichnis der verantwortlichen Kassenorgane einzureichen.
+<sup>1</sup> Die Familienausgleichskassen haben innert fünf Monaten nach Ablauf des Geschäftsjahrs dem Departement den Tätigkeitsbericht sowie die Rechnung und die Kennzahlen gemäss Absatz 2 zusammen mit dem Revisionsbericht mit einem Verzeichnis der verantwortlichen Kassenorgane einzureichen
+
+<sup>2</sup> Das Departement Gesundheit und Soziales veröffentlicht im Amtsblatt und auf der Internetseite des Kantons Aargau für jede Familienausgleichskasse die folgenden Kennzahlen:
+
+- a) Name der Familienausgleichskasse,
+- b) Registernummer,
+- c) Summe der im Kanton Aargau ausbezahlten Kinderzulagen,
+- d) Summe der im Kanton Aargau ausbezahlten Ausbildungszulagen,
+- e) Summe der im Kanton Aargau ausbezahlten Geburtszulagen,
+- f) Summe der im Kanton Aargau ausbezahlten Adoptionszulagen,
+- g) Gesamtbetrag aller im Kanton Aargau ausbezahlten Zulagen,
+- h) Beitragssatz,
+- i) Beitrag für die Finanzierung der Leistungen,
+- j) Beitrag für die Finanzierung der Verwaltungskosten,
+- k) Höhe der Schwankungsreserve (gesamtschweizerisch),
+- l) Schwankungsreservenquote (gesamtschweizerisch).
 
 #### § 16
 
