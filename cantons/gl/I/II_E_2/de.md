@@ -4,26 +4,27 @@ number: II E/2
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2023-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-09-05
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 2025-05-04
 in_force: 2026-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/II-E.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2351/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2604/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gemeindegesetz
 
-Vom 03.05.1992 (Stand 01.01.2023)
+(GG)
+
+Vom 04.05.2025 (Stand 01.01.2026)
 
 Die Landsgemeinde,
 
-gestützt auf die Artikel 115–134 und 145 der Kantonsverfassung[^ingress-1],
+gestützt auf Artikel 115–134 und 145 der Kantonsverfassung (KV)[^ingress-1],
 
-beschliesst:
+erlässt:
 
 [^ingress-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
 
@@ -31,155 +32,67 @@ beschliesst:
 
 #### Art. 1
 
-**Zweck des Gesetzes**
+**Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt die Organisation der Gemeinden, der Zweckverbände von Gemeinden und der öffentlich-rechtlichen Korporationen sowie die Zusammenarbeit dieser Körperschaften untereinander und mit dem Kanton.
+<sup>1</sup> Dieses Gesetz regelt die Grundzüge der Organisation, der Aufgabenerfüllung, der Zusammenarbeit und des Zusammenschlusses von Gemeinden sowie die kantonale Aufsicht.
+
+<sup>2</sup> Auf Kirchgemeinden, Zweckverbände und öffentlich-rechtliche Korporationen findet dieses Gesetz Anwendung, wo dies ausdrücklich vorgesehen ist.
 
 #### Art. 2
 
-**Arten von Gemeinden**
+**Begriffe**
 
-<sup>1</sup> Gemeinden sind:
+<sup>1</sup> Im Sinne dieses Gesetzes gelten als:
 
-- a. die Gemeinden (Einheitsgemeinden);
-- b. die Kirchgemeinden.
+- a. Gemeindeordnung: Die Gemeindeordnung einer Gemeinde, die Kirchenordnung einer Kirchgemeinde, die Statuten eines Zweckverbandes, einer öffentlichen Korporation oder einer gemeindeeigenen Anstalt;
+- b. Parlamentsgemeinde: Gemeinde mit einem Gemeindeparlament;
+- c. Versammlungsgemeinde: Gemeinde ohne ein Gemeindeparlament;
+- d. Gemeindebehörden: die Vorsteherschaft, die Kommissionen und die Gemeindeverwaltung in der Gemeinde sowie, in einer Parlamentsgemeinde, zusätzlich das Gemeindeparlament;
+- e. Vorsteherschaft: der Gemeinderat einer Gemeinde, der Kirchgemeinderat einer Kirchgemeinde, der Vorstand eines Zweckverbandes, der Vorstand oder die Kommission einer öffentlich-rechtlichen Korporation und der Verwaltungsrat einer gemeindeeigenen Anstalt;
+- f. Kontrollorgan: die Geschäftsprüfungskommission in einer Gemeinde, das Rechnungsprüfungsorgan in einer Kirchgemeinde und einem Zweckverband sowie das mit der Revision beauftragte Organ in einer öffentlich-rechtlichen Korporation;
+- g. Beschluss: ein Beschluss oder ein Erlass.
 
 #### Art. 3
 
-**Zweckverbände**
+**Autonomie**
 
-<sup>1</sup> Zweckverbände sind selbstständige Körperschaften des kantonalen öffentlichen Rechts mit einem bestimmten Gebiet. Sie umfassen Gemeinden, die sich zur Erfüllung bestimmter zusammengehörender öffentlicher Aufgaben zusammengeschlossen haben.
+<sup>1</sup> Die Gemeinden regeln ihre Angelegenheiten im Rahmen des übergeordneten Rechts selbstständig.
+
+<sup>2</sup> In diesem Rahmen steht den Gemeinden das Recht zur Gesetzgebung und Verwaltung zu.
 
 #### Art. 4
 
-**Bestand und Autonomie der Gemeinden und Zweckverbände**
+**Rechtsetzung**
 
-<sup>1</sup> In den Schranken von Verfassung und Gesetz sind den Gemeinden und den Zweckverbänden ihr Bestand und das Recht, ihre Angelegenheiten selbstständig zu regeln, gewährleistet.
+<sup>1</sup> Die Gemeinden regeln ihre Organisation und die Zuständigkeiten ihrer Organe in der Gemeindeordnung im Rahmen des übergeordneten Rechts. Sie regeln auch die Finanzkompetenzen.
 
-<sup>2</sup> Sie bestimmen, soweit Verfassung und Gesetz nichts anderes vorsehen, ihre Organisation selbst, wählen ihre Behörden, Angestellten, Lehrpersonen sowie Pfarrerinnen und Pfarrer und erfüllen ihre Aufgaben nach eigenem Ermessen.
+<sup>2</sup> Die wichtigen Rechtssätze der Stimmberechtigten oder des Gemeindeparlaments werden amtlich publiziert und auf zweckmässige Weise in einer allgemein zugänglichen Sammlung nachgeführt.
 
 #### Art. 5
 
-**Aufgaben der Gemeinden und Zweckverbände**
+**Strafbefugnisse**
 
-<sup>1</sup> Die Gemeinden und die Zweckverbände erfüllen die Aufgaben, die ihnen durch Verfassung und Gesetz übertragen werden, sowie die Aufgaben, die sie von sich aus im öffentlichen Interesse wahrnehmen.
+<sup>1</sup> Die Gemeinden können Strafbestimmungen über die Widerhandlungen gegen Übertretungstatbestände ihrer Gemeindeerlasse vorsehen.
 
-<sup>2</sup> Sie besorgen namentlich alle örtlichen Angelegenheiten, für die weder der Bund noch der Kanton ausschliesslich zuständig sind.
+<sup>2</sup> Die Strafbestimmungen nennen die zu ahndende Übertretung und legen die Höhe der Busse fest.
+
+## 2. Gemeindearten und Körperschaften des öffentlichen Rechts
+
+### 2.1. Gemeinden
 
 #### Art. 6
 
-**Zusammenarbeit**
+**Rechtsstellung der Gemeinden**
 
-<sup>1</sup> Die Gemeinden und die Zweckverbände arbeiten bei der Erfüllung von Aufgaben, die im gemeinsamen öffentlichen Interesse liegen, mit andern Gemeinden oder Zweckverbänden zusammen.
-
-<sup>2</sup> Sie arbeiten ebenso mit Kanton und Bund zusammen, wenn diese auf ihrem Gebiet öffentliche Aufgaben erfüllen.
+<sup>1</sup> Die Gemeinden sind öffentlich-rechtliche Gebietskörperschaften mit eigener Rechtspersönlichkeit.
 
 #### Art. 7
 
-**Organe der Gemeinden**
+**Rechtsstellung der Kirchgemeinden**
 
-<sup>1</sup> Die Gemeinden haben folgende Organe:
-
-- a. die Stimmberechtigten, die ihre Rechte an der Gemeindeversammlung oder an der Urne ausüben;
-- b. den Gemeinderat;
-- c. die Geschäftsprüfungskommission respektive das Rechnungsprüfungsorgan;
-- d. die Schulkommission;
-- e. allenfalls besondere Kommissionen;
-- f. die Verwaltung, die Betriebe und die Anstalten der Gemeinde.
-
-#### Art. 7a
-
-**Gemeindeparlament**
-
-<sup>1</sup> Die Gemeinden können durch die Gemeindeordnung ein Gemeindeparlament einführen und diesem einzelne Aufgaben der Stimmberechtigten oder des Gemeinderates zur vorläufigen oder endgültigen Erledigung übertragen.
-
-<sup>2</sup> Die Gemeindeordnung regelt die Bestellung, die Befugnisse, die Kompetenzaufteilung zwischen den Gemeindeorganen und das Verfahren des Gemeindeparlaments. Sie kann von diesem Gesetz abweichende Regelungen treffen, soweit dies durch diese Organisationsform bedingt ist. Subsidiär gilt die Landratsverordnung[^7a-1] sinngemäss.
-
-<sup>3</sup> Für die Wahlen in das Gemeindeparlament können die Gemeinden Wahlkreise bilden.
-
-[^7a-1]: GS [II A/2/3](https://gesetze.gl.ch/data/II-A.2.3/de)
+<sup>1</sup> Die evangelisch-reformierte und die römisch-katholische Landeskirche und ihre Kirchgemeinden sind staatlich anerkannte, selbstständige Körperschaften des öffentlichen Rechts.
 
 #### Art. 8
-
-**Vereinigung oder Aufteilung von Gemeinden und Grenzänderungen**
-
-<sup>1</sup> Vereinigungen oder Aufteilungen von Gemeinden bedürfen der Zustimmung der betroffenen Stimmberechtigten und der Genehmigung durch die Landsgemeinde.
-
-<sup>2</sup> Bei Kirchgemeinden sowie bei Grenzänderungen genügt die Genehmigung durch den Landrat.
-
-<sup>3</sup> Für die Rückgängigmachung solcher Änderungen gilt das entsprechende Verfahren.
-
-#### Art. 9
-
-**…**
-
-#### Art. 10
-
-**Wirkung einer Vereinigung oder Aufteilung**
-
-<sup>1</sup> Die durch Vereinigung entstehende Gemeinde tritt in die Rechtsverhältnisse der bisherigen Gemeinden ein. Die Vereinbarung über die Vereinigung bestimmt den Namen und das Wappen der neuen Gemeinde.
-
-<sup>2</sup> …
-
-<sup>3</sup> Die Vereinbarung über die Vereinigung kann vorsehen, dass die Mitglieder der Vorsteherschaften der bisherigen Gemeinden bis zum Ablauf der Amtsdauer gesamthaft die Vorsteherschaft der neuen Gemeinde bilden.
-
-<sup>4</sup> …
-
-<sup>5</sup> Nach einer Vereinigung müssen die Vorschriften der zusammengeschlossenen Gemeinden längstens innert vier Jahren ab Rechtskraft des Zusammenschlusses vereinheitlicht werden. Die früheren Vorschriften bleiben bis zu ihrer Vereinheitlichung in Kraft, soweit sie nicht der Vereinbarung über die Vereinigung widersprechen.
-
-<sup>6</sup> Wird eine Gemeinde aufgeteilt, sind das Vermögen und die Verbindlichkeiten entsprechend dem Verhältnis der Einwohnerzahlen und entsprechend der Art und den Bedürfnissen der neuen Gemeinden aufzuteilen. Wird eine Vereinigung rückgängig gemacht, so nimmt jede Gemeinde das von ihr eingebrachte Gut nach Möglichkeit zurück.
-
-#### Art. 11
-
-**Regelung offener Fragen**
-
-<sup>1</sup> Lässt sich über das bei einer Vereinigung oder Aufteilung zu beobachtende Verfahren, über die Behandlung von Vermögen und Verbindlichkeiten, über das Bürgerrecht oder über die Übergangsordnung zwischen den beteiligten Gemeinden keine Einigung erzielen, kann jede Gemeindevorsteherschaft den Landrat anrufen, der auf Antrag des Regierungsrates über die Einzelheiten der Vereinbarung entscheidet.
-
-#### Art. 12
-
-**Gemeindegrenzen**
-
-<sup>1</sup> Benachbarte Gemeinden können mit Zustimmung ihrer Stimmberechtigten eine Grenzbereinigung oder eine Grenzänderung vereinbaren. Die Grenzbereinigung bedarf der Genehmigung des Regierungsrates, die Grenzänderung der Genehmigung des Landrates.
-
-<sup>2</sup> Die Grenzänderung ist für Kirchgemeinden verbindlich, soweit deren Gebiet durch das Gebiet der Gemeinde bestimmt ist.
-
-<sup>3</sup> Will der Kanton mit einem benachbarten Kanton eine Grenzänderung durchführen, muss er vorgängig die Zustimmung der betroffenen glarnerischen Gemeinde einholen.
-
-#### Art. 13
-
-**Name und Wappen der Gemeinde**
-
-<sup>1</sup> Die Gemeinde bestimmt ihren Namen und ihr Wappen.
-
-<sup>2</sup> Name oder Wappen der Gemeinde können durch Beschluss der Stimmberechtigten geändert werden, unter Vorbehalt der Genehmigung durch den Regierungsrat.
-
-<sup>3</sup> Die Kirchgemeinden können ein Wappen bestimmen.
-
-#### Art. 14
-
-**Öffentlich-rechtliche Korporationen**
-
-<sup>1</sup> Eine öffentlich-rechtliche Korporation ist eine Körperschaft des kantonalen Rechts, die auf einem bestimmten Kreis von Personen oder auf bestimmten Gütern beruht und Aufgaben von allgemeinem Interesse wahrnimmt.
-
-<sup>2</sup> Die Errichtung neuer öffentlich-rechtlicher Korporationen und Änderungen im Bestand derselben bedürfen der Genehmigung des Regierungsrates.
-
-<sup>3</sup> Der Regierungsrat kann, wenn es im öffentlichen Interesse unerlässlich ist, die Errichtung einer öffentlich-rechtlichen Korporation anordnen, die Aufgaben einer solchen neu bestimmen oder eine solche auch auflösen.
-
-<sup>4</sup> Die öffentlich-rechtlichen Korporationen organisieren sich selbst nach demokratischen Grundsätzen. Sie beachten dabei die Verfahrens- und Organisationsgrundsätze dieses Gesetzes. Die Bestimmungen über den Rechtsschutz (achtes Kapitel) sind anwendbar.
-
-<sup>5</sup> Die öffentlich-rechtlichen Korporationen verwalten und nutzen ihre Güter selbstständig und berücksichtigen dabei die allgemeinen Gemeindeinteressen.
-
-<sup>6</sup> Ihre Rechnungslegung richtet sich nach Artikel 957 Absätze 2 und 3 Obligationenrecht[^14-1]. Die Bestimmungen des Finanzhaushaltsrechts sind nicht anwendbar.
-
-[^14-1]: SR 220
-
-## 2. Gemeindearten
-
-#### Art. 15–19
-
-**…**
-
-#### Art. 20
 
 **Geltung des Gesetzes für die Kirchgemeinden**
 
@@ -189,291 +102,306 @@ beschliesst:
 
 - a. Wo nach diesem Gesetz die Genehmigung oder Zustimmung einer kantonalen Instanz nötig ist, können die kirchlichen Vorschriften vorsehen, dass vorgängig kantonale kirchliche Instanzen mitwirken.
 - b. Der Regierungsrat kann eine Aufsicht gegenüber Kirchgemeinden nur ausüben, wenn die kantonalen Kircheninstanzen diese nicht wahrnehmen oder wenn das staatliche Recht in schwerwiegender Weise verletzt wird.
-- c. Der Rechtsschutz gegenüber den Kirchgemeinden richtet sich nach den Kirchenverfassungen[^20-1] und dem Verwaltungsrechtspflegegesetz[^20-2].
+- c. Der Rechtsschutz gegenüber den Kirchgemeinden richtet sich nach den Kirchenverfassungen[^8-1] und dem Verwaltungsrechtspflegegesetz (VRG)[^8-2].
 - d. Die Landeskirchen können im Übrigen in Einzelfragen abweichende Bestimmungen erlassen, sofern die Rechtsstellung der Stimmberechtigten, die Funktionen der Gemeindebehörden und die Rechtsstellung der Gemeindebediensteten nicht beeinträchtigt werden.
 
-[^20-1]: GS [IV A/1](https://gesetze.gl.ch/data/IV-A.1/de)
-[^20-2]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+[^8-1]: GS [IV A/1/4](https://gesetze.gl.ch/data/IV-A.1.4/de) und [IV A/1/6](https://gesetze.gl.ch/data/IV-A.1.6/de)
+[^8-2]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
 
-## 3. Politische Rechte
+### 2.2. Öffentlich-rechtliche Korporationen
 
-### 3.1. Grundlagen
+#### Art. 9
 
-#### Art. 21–25
+**Rechtsstellung der öffentlich-rechtlichen Korporationen**
 
-**…**
+<sup>1</sup> Eine öffentlich-rechtliche Korporation ist eine Körperschaft des kantonalen Rechts, die auf einem bestimmten Kreis von Personen oder auf bestimmten Gütern beruht und Aufgaben von allgemeinem Interesse wahrnimmt.
 
-#### Art. 26
+#### Art. 10
 
-**Information der Öffentlichkeit**
+**Errichtung**
 
-<sup>1</sup> Die Stimmberechtigten werden von der Vorsteherschaft vor jeder Versammlung oder Urnenabstimmung mittels Unterlagen (Art. 51) orientiert über:
+<sup>1</sup> Die Errichtung neuer öffentlich-rechtlicher Korporationen, Änderungen im Bestand derselben sowie in Bezug auf deren Statuten bedürfen der Genehmigung des Regierungsrates.
 
-- a. die Vorlagen, Anträge und Auffassungen der Behörden;
-- b. die Hauptanliegen von antragstellenden Stimmberechtigten;
-- c. die finanziellen Auswirkungen der Geschäfte von erheblicher Tragweite.
+<sup>2</sup> Der Regierungsrat kann, wenn es im öffentlichen Interesse unerlässlich ist, die Errichtung einer öffentlich-rechtlichen Korporation anordnen, die Aufgaben einer solchen neu bestimmen oder eine solche auch auflösen.
 
-<sup>2</sup> …
+#### Art. 11
 
-#### Art. 27
+**Organisation und Verwaltung**
 
-**Einheit der Materie**
+<sup>1</sup> Die öffentlich-rechtlichen Korporationen organisieren sich selbst nach demokratischen Grundsätzen. Sie beachten dabei die Verfahrens- und Organisationsgrundsätze dieses Gesetzes.
 
-<sup>1</sup> Eine Abstimmungsvorlage darf nur eine einzige Materie umfassen.
+<sup>2</sup> Die öffentlich-rechtlichen Korporationen verwalten und nutzen ihre Güter selbstständig und berücksichtigen dabei die allgemeinen Gemeindeinteressen.
 
-<sup>2</sup> Zwischen den einzelnen Teilen einer Vorlage muss ein sachlicher Zusammenhang bestehen. Gegenstände, die zwingend zusammengehören, müssen in einer Vorlage zusammengefasst werden.
+#### Art. 12
 
-### 3.2. Gemeindeversammlung, Urnenwahl und Urnenabstimmung und Gemeindeparlament
+**Abweichende Regelungen**
 
-#### Art. 28
+<sup>1</sup> Ihre Rechnungslegung richtet sich nach Artikel 957 Absätze 2 und 3 OR[^12-1]. Die Bestimmungen des Finanzhaushaltsrechts sind nicht anwendbar.
 
-**Gemeindeversammlung**
+[^12-1]: SR 220
 
-<sup>1</sup> Die Stimmberechtigten üben ihr Stimm- und Wahlrecht in der Regel offen an der Gemeindeversammlung aus.
+### 2.3. Zweckverbände
 
-#### Art. 29
+#### Art. 13
 
-**Urnenwahlen und -abstimmungen**
+**Rechtsstellung der Zweckverbände**
 
-<sup>1</sup> Eine Urnenwahl oder Urnenabstimmung findet nur statt, soweit:
+<sup>1</sup> Zweckverbände sind öffentlich-rechtliche Körperschaften mit eigener Rechtspersönlichkeit, als Zusammenschluss von Gemeinden zur gemeinsamen Aufgabenerfüllung.
 
-- a. dieses Gesetz sie vorsieht;
-- b. die Gemeindeordnung sie vorsieht;
-- c. die Gemeindeversammlung sie im Einzelfall beschliesst.
+## 3. Organisation der Gemeinden
 
-<sup>2</sup> Wird an der Gemeindeversammlung beschlossen, eine Abstimmung nach der Versammlung an der Urne durchzuführen, kann die Vorlage dennoch beraten und abgeändert werden.
+### 3.1. Stimmberechtigte
 
-<sup>3</sup> Soweit dieses Gesetz nichts Näheres bestimmt, gilt für die Durchführung von Urnenwahlen und -abstimmungen das Gesetz über die politischen Rechte.
+#### Art. 14
 
-### 3.3. Wahlen
+**Stimmberechtigte**
 
-#### Art. 30
+<sup>1</sup> Die Stimmberechtigten bilden in ihrer Gesamtheit das oberste Organ der Gemeinde.
 
-**Befugnisse der Stimmberechtigten**
+<sup>2</sup> Sie üben ihre Rechte nach Massgabe der Verfassung und des kantonalen sowie kommunalen Rechts an der Gemeindeversammlung oder an der Urne aus.
 
-<sup>1</sup> Die Stimmberechtigten wählen an der Urne die Mitglieder des Gemeinderates und die Mitglieder des Gemeindeparlaments, wenn die Gemeindeordnung ein solches vorsieht. Sie wählen den Gemeindepräsidenten oder die Gemeindepräsidentin mit einem separaten Stimmzettel.
+<sup>3</sup> Die Stimmberechtigung in Gemeindeangelegenheiten richtet sich nach der Kantonsverfassung, nach dem Gesetz über die politischen Rechte[^14-1] und nach diesem Gesetz.
 
-<sup>2</sup> Die Stimmberechtigten wählen an der Gemeindeversammlung:
+[^14-1]: GS [I D/22/2](https://gesetze.gl.ch/data/I-D.22.2/de)
 
-- a. die Präsidentin oder den Präsidenten sowie die Mitglieder der Geschäftsprüfungskommission (Art. 99a), in den übrigen Körperschaften die Vorsitzende oder den Vorsitzenden und die Mitglieder des Rechnungsprüfungsorgans (Art. 95);
-- b. die Mitglieder der Schulkommission (Art. 94);
-- c. die Mitglieder des kommunalen Wahlbüros (Art. 56);
-- d. die Vorsitzenden und die weiteren Mitglieder von Kommissionen, die nach der Gemeindeordnung durch die Stimmberechtigten zu bestellen sind;
-- e. nach Massgabe der Gemeindeordnung die Delegierten der Gemeinde in den Zweckverbänden, oder die Vertreter der Gemeinde in der Vorsteherschaft und in der Geschäftsprüfungskommission oder dem Rechnungsprüfungsorgan eines Zweckverbandes, soweit dieser keine Delegiertenversammlung vorsieht (Art. 125 und 126);
-- f. …
-- g. in den Kirchgemeinden, die Vorsteherschaft, den Pfarrer oder die Pfarrerin sowie weitere kirchliche Bedienstete, soweit die kirchlichen Vorschriften dies vorsehen.
+#### Art. 15
 
-#### Art. 31
+**Gewährleistung der politischen Rechte**
 
-**…**
+<sup>1</sup> Die politischen Rechte in der Gemeinde sind nach Massgabe der Gemeindeordnung und des Gesetzes über die politischen Rechte gewährleistet.
 
-#### Art. 32
-
-**Wahlvorschläge**
-
-<sup>1</sup> …
-
-<sup>2</sup> Bei der Wahl von Angestellten sowie Pfarrerinnen und Pfarrern, die durch die Stimmberechtigten erfolgt, sind die von der Vorsteherschaft als wahlfähig erklärten Bewerbungen in die Wahl zu nehmen, wobei die Vorsteherschaft eine Wahlempfehlung abgeben kann.
-
-#### Art. 33
-
-**Wählbarkeit**
-
-<sup>1</sup> Alle Stimmberechtigten ab zurückgelegtem 18. Altersjahr sind als Mitglieder von Gemeindebehörden oder als Behördenmitglieder oder Delegierte für Zweckverbände wählbar.
-
-<sup>2–3</sup> …
-
-<sup>4</sup> In beratende Kommissionen ohne Entscheidungs- oder Aufsichtsbefugnisse können auch nicht stimmberechtigte Personen gewählt werden.
-
-#### Art. 34
-
-**Unvereinbarkeiten**
-
-<sup>1</sup> Die Mitglieder des Gemeinderates, der Schulkommission und weiterer exekutiver Behörden, die Gemeindeschreiberin oder der Gemeindeschreiber, die Finanzverwalterin oder der Finanzverwalter und weitere leitende Gemeindeangestellte können nicht dem Gemeindeparlament angehören.
-
-<sup>2</sup> Die Angestellten und die Lehrpersonen der Gemeinden, Zweckverbände, Betriebe und Anstalten können nicht ihrer Vorsteherschaft angehören.
-
-<sup>3</sup> Eltern und Kinder, Geschwister, Ehegatten, Personen in eingetragener Partnerschaft, Grosseltern und Enkelkinder, Schwäger und Schwägerinnen sowie Schwiegereltern und Schwiegerkinder können nicht der gleichen Behörde der Gemeinde oder des Zweckverbandes angehören.
-
-<sup>4</sup> In ein Kontrollorgan darf nicht gewählt werden, wer in der betreffenden Gemeinde oder im Zweckverband ein kontrolliertes Amt bekleidet oder mit dem Inhaber eines solchen so nah verwandt ist, dass ein Ausschlussgrund aus Verwandtschaft (Abs. 3) gegeben ist.
-
-<sup>5</sup> Schliessen gleichzeitig gewählte Personen einander aus, so wird diejenige als gewählt erklärt, die am meisten Stimmen erhalten hat. Bei Stimmengleichheit entscheidet das Los. Niemand darf ein weiteres Amt antreten, wenn er unvereinbare Amtspflichten übernehmen müsste.
-
-### 3.4. Antragsrecht
-
-#### Art. 35
+#### Art. 16
 
 **Antragsrecht**
 
-<sup>1</sup> Jede stimmberechtigte Person hat das Recht, jederzeit selbstständig oder gemeinsam mit andern Stimmberechtigten der Vorsteherschaft Anträge über Gegenstände einzureichen, die in die Zuständigkeit der Stimmberechtigten an der Gemeindeversammlung oder an der Urne fallen (Art. 39-42).
+<sup>1</sup> Jede stimmberechtigte Person hat das Recht, jederzeit selbstständig oder gemeinsam mit andern Stimmberechtigten der Vorsteherschaft Anträge über Gegenstände einzureichen, die in die Zuständigkeit der Stimmberechtigten fallen.
 
-<sup>2</sup> Ein Antrag kann in der Form einer allgemeinen Anregung oder eines ausgearbeiteten Entwurfs gestellt werden. Er muss den Grundsatz der Einheit der Materie beachten (Art. 27).
+<sup>2</sup> Ein Antrag kann in der Form einer allgemeinen Anregung oder eines ausgearbeiteten Entwurfs gestellt werden. Er muss den Grundsatz der Einheit der Materie beachten.
 
 <sup>3</sup> Er darf nichts enthalten, was dem Bundesrecht oder dem kantonalen Recht widerspricht; er darf nichts verlangen, was offensichtlich undurchführbar ist.
 
-<sup>4</sup> Er muss genau umschrieben und begründet sein, und er soll von den Antragstellern schriftlich unterzeichnet eingereicht oder an der Gemeindeversammlung zu Protokoll gegeben werden.
+<sup>4</sup> Er muss genau umschrieben und begründet sein, und er soll von den Antragstellern eigenhändig unterschrieben oder mit qualifizierter elektronischer Signatur (Art. 4a VRG) versehen werden.
 
-#### Art. 36
+#### Art. 17
 
-**Antrag auf Wiedererwägung**
+**Wiedererwägung**
 
-<sup>1</sup> Ein Antrag auf Wiedererwägung eines Beschlusses der Gemeindeversammlung ist unzulässig, wenn bereits erhebliche Vollzugshandlungen erfolgt sind, wenn die Körperschaft bei Annahme des Antrages Treu und Glauben gegenüber Dritten verletzen müsste oder wenn der Beschluss nach dem Recht des Kantons oder des Bundes oder nach der Natur der Sache nicht mehr zurückgenommen werden kann.
+<sup>1</sup> Ein Beschluss der Stimmberechtigten kann jederzeit wiedererwogen werden. Die Gemeindeordnung, Kirchenordnung oder das Organisationsstatut regelt die Einzelheiten.
 
-#### Art. 37–38
+<sup>2</sup> Vorbehalten bleiben Wahlbeschlüsse.
 
-**…**
+<sup>3</sup> Ein Antrag auf Wiedererwägung ist unzulässig, wenn bereits erhebliche Vollzugshandlungen erfolgt sind, wenn bei Annahme Treu und Glauben oder die Rechte Dritter verletzt würden oder wenn der Beschluss nach dem Recht des Kantons oder des Bundes oder nach der Natur der Sache nicht mehr zurückgenommen werden kann.
 
-### 3.5. Obligatorische Abstimmungen
+#### Art. 18
 
-#### Art. 39
+**Abstimmungs- und Wahlverfahren**
 
-**Rechtssetzungsbefugnisse der Stimmberechtigten**
+<sup>1</sup> Die Gemeinden regeln das Abstimmungs- und Wahlverfahren im Rahmen des übergeordneten Rechts selber. Subsidiär gelten die Vorschriften des Gesetzes über die politischen Rechte.
 
-<sup>1</sup> Die Stimmberechtigten sind zuständig für den Erlass:
+#### Art. 19
 
-- a. der Gemeindeordnung;
-- b. der andern allgemeinverbindlichen Vorschriften mit Ausnahme der Vollzugsverordnungen und der Verwaltungsanweisungen der Vorsteherschaft gemäss Artikel 86 Buchstabe b.
+**Fakultatives Referendum**
 
-<sup>2</sup> Abgesehen vom Erlass der Gemeindeordnung können die Stimmberechtigten ihre Befugnis zur Rechtssetzung entweder durch die Gemeindeordnung oder durch Beschluss im Einzelfall der Vorsteherschaft übertragen, sofern die Ermächtigung auf ein bestimmtes Gebiet beschränkt und nach Zweck und Umfang näher umschrieben ist.
+<sup>1</sup> In Gemeinden regelt die Gemeindeordnung und in Kirchgemeinden die Kirchenordnung das fakultative Referendum.
 
-#### Art. 40
+<sup>2</sup> Beschlüsse, die dem fakultativen Referendum unterliegen, werden den Stimmberechtigten an der nächsten Gemeindeversammlung oder Urnenabstimmung als Antrag vorgelegt, wenn dies innert 30 Tagen nach deren Veröffentlichung im kantonalen Amtsblatt verlangt wird von:
 
-**Befugnisse bei Gemeindeverträgen**
+- a. mindestens 300 Stimmberechtigten der Gemeinde;
+- b. mindestens einem Zehntel der stimmberechtigten Konfessionsangehörigen.
 
-<sup>1</sup> Die Stimmberechtigten sind zuständig für Beschlüsse über:
+<sup>3</sup> Zweckverbände und öffentlich-rechtliche Korporationen können fakultative Referenden in ihrem Organisationsstatut vorsehen.
 
-- a. die Genehmigung, Änderung oder Kündigung von Vereinbarungen mit andern Gemeinden oder Zweckverbänden (Art. 117 ff.) oder mit privaten Personen über die Erfüllung einer öffentlichen Aufgabe der Gemeinde;
-- b. die Mitgliedschaft in Zweckverbänden, die Genehmigung oder Änderung des Gründungsvertrags und des Organisationsstatuts von Zweckverbänden;
-- c. die Vereinigung, Auflösung oder Aufteilung der Gemeinde;
-- d. Grenzbereinigungen und andere Grenzänderungen sowie über Abtretungen von Liegenschaften der Körperschaft.
+#### Art. 20
 
-<sup>2</sup> Die Stimmberechtigten können ihre Befugnisse betreffend Genehmigung, Änderung oder Kündigung von Gemeindeverträgen entweder durch die Gemeindeordnung oder durch Beschluss im Einzelfall der Vorsteherschaft übertragen.
+**Ausserordentliche Abstimmungsformen**
 
-#### Art. 41
+<sup>1</sup> Gemeinden können vorsehen, dass in Versammlungsgemeinden die Vorsteherschaft und in Parlamentsgemeinden das Gemeindeparlament den Stimmberechtigten:
 
-**Finanzbefugnisse der Stimmberechtigten**
+- a. zwei Varianten unterbreitet, wobei die bevorzugte zu bezeichnen ist;
+- b. eine Grundsatzfrage zur Abstimmung unterbreitet.
 
-<sup>1</sup> Die Stimmberechtigten sind zuständig für:
+<sup>2</sup> Haben die Stimmberechtigten einer Grundsatzfrage zugestimmt, ist dies für die übrigen Gemeindeorgane bindend. Für die Umsetzung gelten die Fristen zur Behandlung von Anträgen zuhanden der Stimmberechtigten in der Form der allgemeinen Anregung.
 
-- a. die Festsetzung des Voranschlags (Budget);
-- b. Beschlüsse über Nachtragskredite zum Voranschlag, soweit der Beschluss nicht nach Haushaltsrecht oder Gemeindeordnung in die Zuständigkeit der Vorsteherschaft fällt;
-- c. Beschlüsse über Verpflichtungskredite;
-- d. die Festsetzung des Steuerfusses, im Rahmen der kantonalen Steuergesetzgebung;
-- e. die Genehmigung der Rechnungen der Gemeinde, ihrer Betriebe und Anstalten und die Genehmigung der Berichte des Rechnungsprüfungsorgans;
-- f. Beschlüsse über:
-  - 1\. alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck, die den von der Gemeindeordnung festgesetzten Betrag übersteigen;
-  - 2\. alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck, die den von der Gemeindeordnung festgesetzten jährlichen Betrag übersteigen;
-- g. die Veräusserung von Grundstücken sowie die Einräumung von Kaufsrechten zugunsten Dritter an gemeindeeigenen Grundstücken, wenn die Verkehrswertschätzung oder die Anlagekosten den in der Gemeindeordnung festgesetzten Betrag übersteigen;
-- h. den Erwerb, die Einräumung oder die Veräusserung von Dienstbarkeiten und Grundlasten, wenn der Wert den in der Gemeindeordnung festgesetzten Betrag übersteigt;
-- i. die Ermächtigung zur Einräumung oder zur Änderung von Konzessionen, wenn der Wert den in der Gemeindeordnung festgesetzten Betrag übersteigt;
-- k. die Leistung von Bürgschaften und ähnlichen Verpflichtungen, soweit die Gemeinde nicht gesetzlich dazu verpflichtet ist, wenn der Wert den in der Gemeindeordnung festgesetzten Betrag übersteigt;
-- l. Beschlüsse über den freien Erwerb von Grundstücken als Anlage oder zur Vorsorge zu einem Preis, der den in der Gemeindeordnung festgesetzten Betrag übersteigt;
-- m. die Annahme von Schenkungen und Vermächtnissen mit Auflagen oder Bedingungen von erheblicher finanzieller Tragweite.
+<sup>3</sup> Gemeinden können vorsehen, dass den Stimmberechtigten Konsultativabstimmungen unterbreitet werden können. Das Ergebnis einer Konsultativabstimmung ist nicht bindend.
 
-<sup>2</sup> Die Stimmberechtigten in der Gemeinde und der Kirchgemeinde nehmen zudem regelmässig vom mehrjährigen Finanzplan Kenntnis.
+<sup>4</sup> Kirchgemeinden, Zweckverbände und öffentlich-rechtliche Körperschaften können solche ausserordentlichen Abstimmungsformen vorsehen. Die entsprechenden Regelungen gelten für sie sinngemäss.
 
-<sup>3</sup> Die Stimmberechtigten können ihre Befugnisse nach Absatz 1 Buchstaben f–l entweder durch die Gemeindeordnung oder durch Beschluss im Einzelfall der Vorsteherschaft übertragen.
+### 3.2. Gemeinsame Bestimmungen
 
-#### Art. 42
+#### Art. 21
 
-**Weitere Sachbefugnisse**
+**Wahlmöglichkeit**
 
-<sup>1</sup> Die Stimmberechtigten sind zuständig für den Erlass des Zonenplans.
+<sup>1</sup> Den Gemeinden steht im Rahmen des übergeordneten Rechts die Organisationsfreiheit zu.
 
-<sup>2</sup> Sie sind im Weitern zuständig für:
+<sup>2</sup> Die Gemeinden gestalten ihre Legislative als Gemeindeparlament mit Gemeindeversammlung oder mit Urnenabstimmung oder aber als Gemeindeversammlung.
 
-- a. die politische Aufsicht über die Behörden der Gemeinde oder des Zweckverbandes sowie über die Verwaltung, die Betriebe und Anstalten dieser Körperschaften;
-- b. den Beschluss, namens der Gemeinde oder des Zweckverbandes zuhanden der Landsgemeinde einen Memorialsantrag zu stellen;
-- c. jedes Geschäft, das aufgrund der Gesetzgebung oder eines Gemeindevertrags oder durch Beschluss der Vorsteherschaft den Stimmberechtigten vorgelegt wird.
+<sup>3</sup> Kirchgemeinden, Zweckverbände und öffentlich-rechtliche Korporationen organisieren sich als Versammlungsgemeinden.
 
-<sup>3</sup> …
+#### Art. 22
 
-#### Art. 42a
+**Organe der Gemeinden**
 
-**Gemeinde mit Gemeindeparlament**
+<sup>1</sup> In der Versammlungsgemeinde sind die Gemeindeorgane:
 
-<sup>1</sup> In einer Gemeinde mit Gemeindeparlament sind die Stimmberechtigten obligatorisch zuständig für:
+- a. die Stimmberechtigten;
+- b. die Vorsteherschaft;
+- c. die Geschäftsprüfungskommission.
 
-- a. den Erlass der Gemeindeordnung;
-- b. Beschlüsse nach Artikel 40 Absatz 1 Buchstaben a, b und c;
-- c. Beschlüsse nach Artikel 41 Absatz 1 Buchstaben a, d und e sowie nach Artikel 42 Absatz 1;
-- d. Beschlüsse im Rahmen der Gemeindeordnung nach Artikel 41 Absatz 1 Buchstaben f, g, i und l.
+<sup>2</sup> In der Parlamentsgemeinde sind die Gemeindeorgane:
 
-### 3.6. Fakultative Abstimmungen
+- a. die Stimmberechtigten;
+- b. das Gemeindeparlament;
+- c. die Vorsteherschaft.
 
-#### Art. 43
+<sup>3</sup> In Versammlungsgemeinden unterbreitet die Vorsteherschaft, in Parlamentsgemeinden das Gemeindeparlament den Stimmberechtigten Geschäfte zur Beschlussfassung.
 
-**Dringliche Beschlüsse der Vorsteherschaft**
+<sup>4</sup> In Parlamentsgemeinden regelt die Gemeindeordnung, wie die Stimmberechtigten ihre Rechte ausüben. Sie können dies im Rahmen einer Gemeindeversammlung (Parlamentsgemeinde mit Gemeindeversammlung) oder an der Urne (Parlamentsgemeinde mit Urnenabstimmungen) tun.
 
-<sup>1</sup> In dringlichen Fällen kann die Vorsteherschaft, wenn alle anwesenden Mitglieder zustimmen, oder das Gemeindeparlament mit absoluter Mehrheit ausnahmsweise einen Beschluss anstelle der Stimmberechtigten fassen.
+<sup>5</sup> Gemeindeversammlungen schliessen Urnenabstimmungen aus.
 
-<sup>2</sup> …
+<sup>6</sup> Die Zuständigkeiten der Gemeindeorgane bestimmt die Gemeindeordnung im Rahmen des übergeordneten Rechts.
 
-<sup>3</sup> Mindestens 100 Stimmberechtigte, in Kirchgemeinden mindestens ein Zehntel der stimmberechtigten Konfessionsangehörigen, können innert 14 Tagen, nachdem der Beschluss bekannt gemacht wurde, verlangen, dass dieser als Antrag an die nächste Gemeindeversammlung oder die nächste Urnenabstimmung gelangt.
+#### Art. 23
 
-#### Art. 44
+**Protokollführung und Protokollauflage**
 
-**Beschlüsse der Vorsteherschaft aufgrund von Ermächtigungen durch die Gemeindeordnung**
+<sup>1</sup> Die Gemeindeorgane führen gesonderte Protokolle, die mindestens über die Beschlüsse, die Ergebnisse der Wahlen sowie allfällige Beanstandungen betreffend die Verletzung von Zuständigkeits- und Verfahrensbestimmungen Auskunft geben. Sie sind von der Protokollführerin oder vom Protokollführer und nach ausdrücklicher oder stillschweigender Genehmigung von der Vorsitzenden oder vom Vorsitzenden zu unterzeichnen.
 
-<sup>1</sup> Fakultativ unterliegen einer Referendumsabstimmung durch die Stimmberechtigten, wenn die Gemeindeordnung dies vorsieht:
+<sup>2</sup> Das von der Vorsteherschaft genehmigte Protokoll der Gemeindeversammlung wird spätestens zwei Monate nach der Versammlung auf ortsübliche Weise publiziert.
 
-- a. rechtssetzende Erlasse der Vorsteherschaft gestützt auf Artikel 39 Absatz 2;
-- b. Vereinbarungen der Vorsteherschaft gestützt auf Artikel 40 Absatz 2;
-- c. Finanzbeschlüsse nach Artikel 41 Absatz 1 Buchstaben f-l.
+<sup>3</sup> Einsprachen gegen das Protokoll der Gemeindeversammlung sind innert der Auflagefrist von 30 Tagen schriftlich der Vorsteherschaft einzureichen. Diese entscheidet innert 30 Tagen.
 
-<sup>2</sup> Diese Erlasse und Beschlüsse der Vorsteherschaft werden den Stimmberechtigten an der nächsten Gemeindeversammlung oder Urnenabstimmung als Antrag vorgelegt, wenn innert 14 Tagen nach deren Veröffentlichung im kantonalen Amtsblatt mindestens 300 Stimmberechtigte der Gemeinden, in Kirchgemeinden mindestens ein Zehntel der stimmberechtigten Konfessionsangehörigen, dies verlangen.
+### 3.3. Parlamentsgemeinden
 
-#### Art. 44a
+#### Art. 24
 
-**Referendum in Gemeinden mit Gemeindeparlament**
+**Unübertragbare Befugnisse der Stimmberechtigten**
 
-<sup>1</sup> In einer Gemeinde mit Gemeindeparlament bestimmt die Gemeindeordnung die Erlasse und Beschlüsse des Gemeindeparlaments, die dem fakultativen Referendum unterliegen.
+<sup>1</sup> In Parlamentsgemeinden entscheiden die Stimmberechtigten zwingend über folgende Geschäfte:
 
-### 3.7. Anfragen und Eingaben
+- a. die Beschlussfassung über die Gemeindeordnung;
+- b. die Wahl der Mitglieder des Gemeindeparlaments sowie der Vorsteherschaft;
+- c. den Zusammenschluss mit anderen Gemeinden;
+- d. weitere unentziehbare Befugnisse gemäss kantonaler Spezialgesetzgebung.
 
-#### Art. 45
+#### Art. 25
 
-**Anfragen der Stimmberechtigten**
+**Unübertragbare Befugnisse des Gemeindeparlaments**
 
-<sup>1</sup> Jede stimmberechtigte Person kann der Vorsteherschaft über Angelegenheiten der Gemeinde schriftlich Fragen von allgemeinem Interesse zur Beantwortung vorlegen. Sie kann ihre Fragen auch an der Gemeindeversammlung stellen, soweit die Gemeindeordnung dies vorsieht.
+<sup>1</sup> Das Gemeindeparlament ist in Parlamentsgemeinden abschliessend zuständig für:
 
-#### Art. 46
+- a. die Genehmigung des Budgets und der Jahresrechnung;
+- b. die Beschlussfassung über den Beitritt zu und den Austritt aus Zweckverbänden;
+- c. die Genehmigung von Geschäftsberichten.
 
-**Eingaben und Petitionen**
+<sup>2</sup> Das Gemeindeparlament bildet die Wahlbehörde für:
 
-<sup>1</sup> Jede Person ist berechtigt, an die Gemeindebehörden Eingaben oder Petitionen (Gesuche) zu richten.
+- a. die ihm zugehörigen Kommissionen;
+- b. das Wahlbüro;
+- c. die Vertretung der Gemeinde in den Organen der Zweckverbände.
 
-<sup>2</sup> …
+#### Art. 26
 
-## 4. Durchführung der Gemeindeversammlung
+**Obligatorisches und fakultatives Referendum**
 
-### 4.1. Zeitpunkt
+<sup>1</sup> Die Gemeindeordnung regelt unter Vorbehalt von Absatz 2, gegen welche Beschlüsse des Gemeindeparlaments das fakultative Referendum nach Artikel 19 ergriffen werden kann.
 
-#### Art. 47
+<sup>2</sup> Ausgeschlossen ist das fakultative Referendum bei Beschlüssen nach Artikel 25, bei ablehnenden Beschlüssen des Parlaments mit Ausnahme von solchen zu Anträgen der Stimmberechtigten im Sinne von Artikel 16 sowie bei Verfahrensentscheiden bei der Behandlung von parlamentarischen Vorstössen.
 
-**Ordentliche Gemeindeversammlungen**
+<sup>3</sup> Die Gemeindeordnung kann vorbehältlich Artikel 25 weitere Beschlüsse gemäss Artikel 27 dem obligatorischen Referendum unterstellen.
 
-<sup>1</sup> Die Gemeinden ohne Gemeindeparlament halten mindestens zweimal jährlich, im Frühjahr und im Herbst, eine ordentliche Gemeindeversammlung ab. Sie beschliessen spätestens bis zum 30. Juni über die Rechnung des Vorjahres und bis zum 15. Dezember über den Voranschlag sowie den Steuerfuss für das folgende Jahr. An der Herbstversammlung nehmen sie periodisch auch Kenntnis von der Finanzplanung.
+### 3.4. Versammlungsgemeinden
 
-<sup>2</sup> Gemeinden mit Gemeindeparlament und Kirchgemeinden halten mindestens jährlich eine ordentliche Gemeindeversammlung ab. Sie beschliessen spätestens bis 15. Dezember über die Rechnung des Vorjahres und über den Voranschlag für das folgende Jahr. Sie setzen dabei auch den Steuerfuss für das Folgejahr fest und nehmen periodisch Kenntnis von der Finanzplanung.
+#### Art. 27
 
-#### Art. 48
+**Unübertragbare Befugnisse in Versammlungsgemeinden**
+
+<sup>1</sup> In Versammlungsgemeinden befinden die Stimmberechtigten über folgende Geschäfte:
+
+- a. die Wahl der Vorsteherschaft;
+- b. die Wahl des Kontrollorgans (Art. 2 Abs. 1 Bst. f);
+- c. die Beschlussfassung über die Gemeindeordnung und über die wichtigen Rechtssätze im Sinne von Artikel 4 Absatz 2;
+- d. die Genehmigung des Budgets und der Jahresrechnung sowie die Festsetzung des Steuerfusses;
+- e. die Beschlussfassung über den Beitritt zu und den Austritt aus Zweckverbänden;
+- f. den Zusammenschluss mit anderen Gemeinden, Gemeindeaufteilungen sowie Änderungen und Bereinigungen der Gemeindegrenzen;
+- g. weitere unentziehbare Befugnisse gemäss kantonaler Spezialgesetzgebung;
+- h. in den Kirchgemeinden, die Wahl des Kirchenrates, des Pfarrers oder der Pfarrerin sowie weiterer kirchlicher Bediensteter, soweit die kirchlichen Vorschriften dies vorsehen.
+
+#### Art. 28
+
+**Befugnisse der Vorsteherschaft**
+
+<sup>1</sup> Die Vorsteherschaft bildet die Wahlbehörde für:
+
+- a. die Behörden- und Verwaltungskommissionen;
+- b. das Wahlbüro;
+- c. die Vertreter der Gemeinde in den Organen der Zweckverbände unter dem Vorbehalt von Artikel 106 Absatz 2.
+
+<sup>2</sup> Die Gemeindeordnung bestimmt gegen welche Beschlüsse der Vorsteherschaft das fakultative Referendum nach Artikel 19 ergriffen werden kann.
+
+## 4. Die Gemeindeversammlung
+
+### 4.1. Vorbereitung
+
+#### Art. 29
+
+**Einberufung der Gemeindeversammlung**
+
+<sup>1</sup> Die Vorsteherschaft beruft Gemeindeversammlungen ein.
+
+#### Art. 30
+
+**Unterlagen für die Gemeindeversammlung**
+
+<sup>1</sup> Die Fristen für die Publikation und die Zustellung der Unterlagen für die Gemeindeversammlung bestimmen sich nach Artikel 60 des Gesetzes über die politischen Rechte.
+
+#### Art. 31
+
+**Anfragerecht**
+
+<sup>1</sup> In Versammlungsgemeinden können die Stimmberechtigten über Angelegenheiten der Gemeinde von allgemeinem Interesse Anfragen einreichen und deren Beantwortung in der Gemeindeversammlung verlangen. Sie richten die Anfrage schriftlich an die Vorsteherschaft.
+
+<sup>2</sup> Anfragen, die spätestens zehn Arbeitstage vor einer Versammlung eingereicht werden, beantwortet die Vorsteherschaft spätestens drei Tage vor dieser Versammlung schriftlich. Falls sie elektronisch eingereicht werden oder die anfragende Person sich mit einer elektronischen Beantwortung einverstanden erklärt hat, erfolgt die Beantwortung elektronisch.
+
+<sup>3</sup> Die Anfrage und die Antwort werden spätestens drei Tage vor der Versammlung in elektronischen Medien publiziert und an der Versammlung in zusammengefasster Form bekanntgegeben. Die anfragende Person kann zur Antwort Stellung nehmen. Die Versammlung kann beschliessen, dass eine Diskussion stattfindet.
+
+#### Art. 32
+
+**Beschlussfähigkeit**
+
+<sup>1</sup> Jede ordnungsgemäss einberufene Gemeindeversammlung ist beschlussfähig.
+
+<sup>2</sup> Es darf nur über Verhandlungsgegenstände Beschluss gefasst werden, welche auf der mit der Einberufung bekanntgegebenen Traktandenliste verzeichnet sind.
+
+<sup>3</sup> Die Verletzung von Zuständigkeits- und Verfahrensbestimmungen ist bei gegebener Zumutbarkeit sofort zu beanstanden. Andernfalls entfällt das Beschwerderecht.
+
+### 4.2. Durchführung
+
+### 4.2.1. Zeitpunkt
+
+#### Art. 33
+
+**Ordentliche Gemeindeversammlung**
+
+<sup>1</sup> Versammlungsgemeinden halten mindestens zweimal jährlich, im Frühjahr und im Herbst, eine ordentliche Gemeindeversammlung ab. Die Stimmberechtigten beschliessen spätestens bis zum 30. Juni über die Rechnung des Vorjahres und bis zum 31. Dezember über das Budget sowie den Steuerfuss für das folgende Jahr.
+
+<sup>2</sup> Parlamentsgemeinden mit Gemeindeversammlung halten bei Bedarf eine Gemeindeversammlung ab.
+
+<sup>3</sup> Kirchgemeinden halten mindestens jährlich eine ordentliche Gemeindeversammlung ab. Sie beschliessen spätestens bis zum 31. Dezember über die Rechnung des Vorjahres und über das Budget für das folgende Jahr. Sie setzen dabei auch den Steuerfuss für das folgende Jahr fest und nehmen periodisch Kenntnis von der Finanzplanung.
+
+#### Art. 34
 
 **Ausserordentliche Gemeindeversammlung**
 
 <sup>1</sup> Eine ausserordentliche Gemeindeversammlung findet längstens innert drei Monaten statt, wenn:
 
 - a. die Vorsteherschaft es beschliesst;
-- b. es von mindestens 300 Stimmberechtigten, in Kirchgemeinden von mindestens einem Zehntel der stimmberechtigten Konfessionsangehörigen, unter Angabe der zu behandelnden Geschäfte verlangt wird;
-- c. der Regierungsrat es anordnet.
+- b. das Gemeindeparlament es beschliesst;
+- c. es von mindestens 300 Stimmberechtigten, in Kirchgemeinden von mindestens einem Zehntel der stimmberechtigten Konfessionsangehörigen, unter Angabe der zu behandelnden Geschäfte verlangt wird;
+- d. der Regierungsrat es anordnet.
 
-### 4.2. Vorbereitung
-
-#### Art. 49–51
-
-**…**
-
-#### Art. 52
+#### Art. 35
 
 **Vorgängige Einreichung von Abänderungsanträgen zu Vorlagen**
 
@@ -481,132 +409,65 @@ beschliesst:
 
 <sup>2</sup> Diese Anträge müssen den Stimmberechtigten von der Vorsteherschaft vor der Gemeindeversammlung in geeigneter Weise bekannt gemacht werden.
 
-### 4.3. Organisation
+### 4.2.2. Ablauf der Verhandlungen
 
-#### Art. 53
-
-**Öffentlichkeit**
-
-<sup>1</sup> Die Gemeindeversammlung ist öffentlich, sofern nicht die Vorsteherschaft aus wichtigen Gründen den Ausschluss der Öffentlichkeit beschliesst.
-
-<sup>2</sup> Nicht stimmberechtigte Personen sind als Zuhörer zugelassen, soweit die räumlichen Verhältnisse dies gestatten und dadurch die Ermittlung des Mehrs nicht beeinträchtigt wird. Sie dürfen die Verhandlungen und Abstimmungen nicht stören und sich nicht daran beteiligen.
-
-<sup>3</sup> Die Vorsteherschaft kann in jedem Fall Vertreter der Medien sowie Personen mit besonderem Interesse zulassen.
-
-#### Art. 54
-
-**Leitung und Ordnung**
-
-<sup>1</sup> Der Präsident oder die Präsidentin der Vorsteherschaft leitet die Gemeindeversammlung. Im Verhinderungsfall oder im Fall einer Ausstandspflicht gilt Artikel 92 über die Stellvertretung.
-
-<sup>2–4</sup> …
-
-#### Art. 55
-
-**…**
-
-#### Art. 56
+#### Art. 36
 
 **Stimmenzähler**
 
-<sup>1</sup> Die Gemeindeversammlung wählt zu Beginn der Verhandlung die erforderlichen Stimmenzähler.
+<sup>1</sup> Das kommunale Wahlbüro amtet an den Gemeindeversammlungen als Stimmenzähler.
 
-<sup>2</sup> Die Gemeindeordnung kann vorsehen:
+<sup>2</sup> Die Stimmenzähler treten bei Abstimmungen über eigene Angelegenheiten in den Ausstand.
 
-- a. dass die Stimmenzähler für die ganze Amtsdauer gewählt werden;
-- b. dass die Mitglieder des kommunalen Wahlbüros, das für die Urnenwahlen und -abstimmungen bestellt wird, als Stimmenzähler amten.
+#### Art. 37
 
-<sup>3</sup> Die Mitglieder der Vorsteherschaft sowie der Gemeindeschreiber oder die Gemeindeschreiberin sind nicht als Stimmenzähler wählbar.
+**Verhandlungsleitung**
 
-<sup>4</sup> Die Stimmenzähler dürfen bei Abstimmungen über eigene Angelegenheiten nicht amten.
+<sup>1</sup> Das Präsidium der Vorsteherschaft leitet die Gemeindeversammlung. Die Vorsteherschaft regelt für den Verhinderungsfall oder im Fall einer Ausstandspflicht die Stellvertretung.
 
-### 4.4. Ablauf der Verhandlungen
+#### Art. 38
 
-#### Art. 57
+**Traktandenliste**
 
-**Eröffnung; Traktandenliste**
+<sup>1</sup> Zuerst wird die Traktandenliste zur Diskussion gestellt. Wird ein Antrag auf Änderung der Reihenfolge der Traktandenliste gestellt, entscheidet die Gemeindeversammlung. Andere Anträge zur Traktandenliste sind nicht zulässig.
 
-<sup>1</sup> Der oder die Vorsitzende eröffnet die Gemeindeversammlung und erstattet Bericht über die Tätigkeit der Behörden und besondere Geschehnisse seit der letzten Versammlung.
+<sup>2</sup> Nicht angekündigte Geschäfte dürfen weder in die Traktandenliste aufgenommen noch behandelt werden.
 
-<sup>2</sup> Nach der Wahl der Stimmenzähler (Art. 56) wird die Traktandenliste zur Diskussion gestellt. Wird ein Antrag auf Änderung der Reihenfolge der Geschäfte gestellt, entscheidet die Gemeindeversammlung.
-
-<sup>3</sup> Die Versammlung kann wegen stark vorgerückter Zeit oder aus einem andern wichtigen Grund durch Beschluss der Stimmberechtigten vorzeitig geschlossen werden.
-
-<sup>4</sup> Nicht angekündigte Geschäfte dürfen weder in die Traktandenliste aufgenommen noch behandelt werden.
-
-#### Art. 58
+#### Art. 39
 
 **Erläuterung der Geschäfte**
 
-<sup>1</sup> Die Anträge der Vorsteherschaft, einer Kommission oder des Rechnungsprüfungsorgans werden verlesen und soweit nötig erläutert. Stimmberechtigte, die einen Antrag gestellt haben, erhalten Gelegenheit, ihren Antrag kurz zu begründen.
+<sup>1</sup> Die Anträge der Vorsteherschaft oder des Kontrollorgans werden verlesen und soweit nötig erläutert. Stimmberechtigte, die einen Antrag gestellt haben, erhalten Gelegenheit, ihren Antrag kurz zu begründen.
 
-<sup>2</sup> Sowohl die Vorsteherschaft als auch die anwesenden Stimmberechtigten können beschliessen, zu einer Vorlage nichtstimmberechtigte Sachverständige anzuhören. Die Anhörung von nichtstimmberechtigten Personen mit besonderem Interesse bedarf der Zustimmung der Stimmberechtigten.
+<sup>2</sup> Sowohl die Vorsteherschaft als auch die anwesenden Stimmberechtigten können beschliessen, zu einer Vorlage nicht stimmberechtigte Sachverständige oder nicht stimmberechtigte Personen mit besonderem Interesse anzuhören.
 
-#### Art. 59
+#### Art. 40
 
-**Diskussion, Anträge**
+**Ermittlung des Mehrs**
 
-<sup>1</sup> Nach den Erläuterungen wird das Wort freigegeben.
+<sup>1</sup> Die verhandlungsleitende Person ermittelt die Mehrheit der Stimmenden durch Abschätzen.
 
-<sup>2</sup> Die Stimmberechtigten können sich zum Verhandlungsgegenstand äussern und entweder Nichteintreten, Rückweisung, Verschiebung oder aber Annahme, Aenderung oder Ablehnung beantragen.
-
-<sup>3</sup> Abänderungs- oder Gegenanträge müssen zum Beratungsgegenstand in einem sachlichen Zusammenhang stehen.
-
-<sup>4</sup> Wer sich zu einer Sachvorlage äussern will, hat zuerst seinen Antrag zu formulieren und ihn danach kurz zu begründen.
-
-#### Art. 60
-
-**Ordnungsanträge**
-
-<sup>1</sup> Ordnungsanträge sind Anträge, die sich auf den Ablauf der Verhandlungen und die Vornahme der Abstimmungen beziehen, wie Anträge auf Verschiebung der Beratung, auf umgehende Abstimmung, auf geheime Abstimmung oder Anträge auf Schluss der Rednerliste, auf Schluss der Diskussion oder auf Rückkommen.
-
-<sup>2</sup> Wird durch die Gemeindeversammlung Schluss der Diskussion beschlossen, so ist die Diskussion beendet.
-
-<sup>3</sup> Rückkommensanträge sind bis zum Schluss der Versammlung zulässig.
-
-<sup>4</sup> Ordnungsanträge sind sofort zu behandeln.
-
-#### Art. 61
-
-**Erläuterung des Abstimmungsverfahrens**
-
-<sup>1</sup> …
-
-<sup>2</sup> Einwände gegen die Abstimmungsart sind vor Beginn der Abstimmung anzumelden; die Gemeindeversammlung entscheidet darüber.
-
-<sup>3</sup> Ist eine Abstimmungsfrage teilbar, so kann jeder Stimmberechtigte Teilung verlangen.
-
-#### Art. 62
-
-**Abstimmung über Anträge auf Nichteintreten, Rückweisung und Verschiebung**
-
-<sup>1</sup> …
-
-<sup>2</sup> Wird Rückweisung oder Verschiebung beschlossen, so geht das Geschäft an die Vorsteherschaft zurück. Bei Rückweisung muss diese das Geschäft neu begutachten, bei Verschiebung nur, soweit zusätzliche Gesichtspunkte geprüft werden müssen.
-
-#### Art. 63
-
-**…**
-
-#### Art. 64
-
-**Ermittlung der Mehrheit**
-
-<sup>1</sup> Der oder die Vorsitzende ermittelt die Mehrheit der Stimmenden durch Abschätzen.
-
-<sup>2</sup> Ergibt sich das Mehr nicht offensichtlich, ist die Abstimmung zu wiederholen, wobei die Stimmen durch die Stimmenzähler abzuzählen sind.
+<sup>2</sup> Ergibt sich das Mehr nicht offensichtlich, ist die Abstimmung zu wiederholen, wobei die Stimmen durch die Stimmenzähler zu zählen sind.
 
 <sup>3</sup> Bei Stimmengleichheit entscheidet der oder die Vorsitzende durch Stichentscheid. Ergibt eine Wahl Stimmengleichheit, so entscheidet das Los.
 
-#### Art. 65
+<sup>4</sup> Setzen die Gemeinden zur Ermittlung des Mehrs technische Hilfsmittel ein, können sie dies abweichend regeln.
+
+#### Art. 41
 
 **Stimmrecht der Behördenmitglieder**
 
-<sup>1</sup> Die Mitglieder der Vorsteherschaft und der andern Gemeindebehörden nehmen an den Abstimmungen teil. Der oder die Vorsitzende enthält sich der Stimme.
+<sup>1</sup> Die Mitglieder der Vorsteherschaft und der anderen Gemeindebehörden nehmen an den Abstimmungen teil. Der oder die Vorsitzende enthält sich der Stimme.
 
-<sup>2</sup> Bei der Genehmigung der Rechnung und bei Beschlüssen über die Geschäftsführung der Behörden, Verwaltung, Betriebe und Anstalten dürfen die Mitglieder der verantwortlichen Gemeindebehörde nicht mitstimmen.
+<sup>2</sup> Bei der Genehmigung der Rechnungen und bei Beschlüssen über die Geschäftsführung der Behörden, Verwaltung, Betriebe und Anstalten dürfen die Mitglieder der verantwortlichen Gemeindebehörde nicht mitstimmen.
 
-#### Art. 66
+#### Art. 42
+
+**Antrag auf Rückkommen**
+
+<sup>1</sup> Anträge auf Rückkommen sind bis zum Schluss der Versammlung zulässig. Die übrigen Ordnungsanträge sind sofort zu behandeln.
+
+#### Art. 43
 
 **Abstimmungsverfahren bei der Genehmigung der Jahresrechnung**
 
@@ -614,546 +475,505 @@ beschliesst:
 
 <sup>2</sup> Wird die Rechnung nur unter dem Vorbehalt der Klärung der beanstandeten Positionen genehmigt, so muss die Vorsteherschaft an der nächsten Gemeindeversammlung über ihre Überprüfung Bericht erstatten.
 
-<sup>3</sup> Wird die Rechnung nicht genehmigt, so muss die Vorsteherschaft die beanstandeten Positionen nochmals prüfen und wenn nötig ergänzen oder berichtigen. Sie gibt dem Rechnungsprüfungsorgan unverzüglich von ihrer Stellungnahme Kenntnis.
+#### Art. 44
 
-<sup>4</sup> Spätestens innert acht Wochen nach der Nichtgenehmigung hat die Vorsteherschaft dann eine ausserordentliche Gemeindeversammlung einzuberufen.
+**Verfahren bei Nichtgenehmigung**
 
-<sup>5</sup> Wird die Genehmigung wieder abgelehnt, so macht das Rechnungsprüfungsorgan dem Regierungsrat Mitteilung von der Angelegenheit.
+<sup>1</sup> Wird die Rechnung nicht genehmigt, so muss die Vorsteherschaft die beanstandeten Positionen nochmals prüfen und wenn nötig ergänzen oder berichtigen. Sie gibt dem Rechnungsprüfungsorgan oder der Geschäftsprüfungskommission unverzüglich von ihrer Stellungnahme Kenntnis.
 
-#### Art. 67
+<sup>2</sup> Spätestens innert acht Wochen nach der Nichtgenehmigung hat die Vorsteherschaft eine ausserordentliche Gemeindeversammlung durchzuführen.
 
-**Abstimmungsverfahren beim Beschluss über Voranschlag und Steuerfuss**
+<sup>3</sup> Wird die Genehmigung wieder abgelehnt, so macht das Kontrollorgan dem Regierungsrat Mitteilung von der Angelegenheit.
 
-<sup>1</sup> Die Stimmberechtigten müssen zuerst über den Voranschlag und danach über den Steuerfuss beschliessen.
+#### Art. 45
 
-<sup>2</sup> Werden zu einzelnen Positionen des Voranschlags Anträge gestellt, so ist zuerst über diese und danach über den bereinigten Voranschlag zu beschliessen.
+**Abstimmungsverfahren beim Beschluss über Budget und Steuerfuss**
 
-#### Art. 68
+<sup>1</sup> Die Stimmberechtigten beschliessen über das Budget und setzen anschliessend den Steuerfuss fest.
 
-**…**
+<sup>2</sup> Werden zu einzelnen Positionen des Budgets Anträge gestellt, so ist zuerst über diese und danach über das bereinigte Budget zu beschliessen.
 
-#### Art. 69
+#### Art. 46
 
-**Rechtsgültigkeit der Erlasse und Beschlüsse**
+**Rückweisung von Budget oder Steuerfuss**
 
-<sup>1</sup> Die Erlasse und Beschlüsse der Gemeindeversammlung werden ohne besondere Publikation mit der Annahme rechtsgültig, ausser wenn etwas anderes ausdrücklich bestimmt ist.
+<sup>1</sup> Wird das Budget oder der Steuerfuss zurückgewiesen, hat die Vorsteherschaft spätestens innerhalb von acht Wochen eine ausserordentliche Gemeindeversammlung durchzuführen.
 
-#### Art. 70
+<sup>2</sup> Bei erneuter Ablehnung, unterbreitet die Vorsteherschaft das Budget oder den Vorschlag für den Steuerfuss dem Regierungsrat zur Festlegung.
 
-**…**
+### 4.2.3. Rechtsschutz
 
-### 4.5. Rechtsschutz
-
-#### Art. 71
+#### Art. 47
 
 **Rechtswidrige Anträge**
 
 <sup>1</sup> Über rechtswidrige Anträge darf nicht abgestimmt werden.
 
-<sup>2</sup> Wird von einer stimmberechtigten Person behauptet, eine Vorlage oder ein Antrag sei rechtswidrig, so ist Gelegenheit zur Diskussion zu geben. Der Entscheid steht dem oder der Vorsitzenden zu.
+<sup>2</sup> Die Zulässigkeit von Anträgen bestimmt sich nach Artikel 65 KV.
 
-#### Art. 72
+<sup>3</sup> Wird von einer stimmberechtigten Person behauptet, eine Vorlage oder ein Antrag sei rechtswidrig, so ist Gelegenheit zur Diskussion zu geben. Der Entscheid steht dem oder der Vorsitzenden zu.
 
-**Recht auf Einsprache und Beschwerde**
+#### Art. 48
+
+**Einsprache**
 
 <sup>1</sup> Jede stimmberechtigte Person kann bis Verhandlungsschluss Einsprache wegen Verfahrensmängeln, rechtswidrigen Beschlüssen oder andern Rechtsverletzungen erheben.
 
 <sup>2</sup> Der oder die Vorsitzende entscheidet, ob die Diskussion über einen Gegenstand neu eröffnet oder eine Abstimmung wiederholt wird.
 
-<sup>3</sup> Nach Schluss der Verhandlung kann:
+#### Art. 49
 
-- a. jede stimmberechtigte Person wegen Unregelmässigkeiten bei der Vorbereitung und Durchführung der Versammlung binnen zehn Tagen seit der Versammlung nach den Artikeln 114-116 Verwaltungsrechtspflegegesetz beim Regierungsrat Stimmrechtsbeschwerde erheben;
-- b. jede Person, die ein schutzwürdiges Interesse nachweist, gegen einen rechtswidrigen Beschluss binnen 30 Tagen seit der Versammlung nach den Artikeln 85 ff. Verwaltungsrechtspflegegesetz beim Regierungsrat Verwaltungsbeschwerde erheben.
+**Stimmrechts-, Wahl- und Abstimmungsbeschwerde**
 
-## 5. Behörden und Verwaltung der Gemeinden und Zweckverbände
+<sup>1</sup> Nach Schluss der Verhandlung kann:
 
-### 5.1. Allgemeine Vorschriften
+- a. jede stimmberechtigte Person wegen Unregelmässigkeiten bei der Vorbereitung und Durchführung der Versammlung binnen zehn Tagen seit der Versammlung nach Artikel 114 Absatz 1 VRG beim Regierungsrat Stimmrechtsbeschwerde erheben;
+- b. jede Person, die ein schutzwürdiges Interesse nachweist, gegen einen rechtswidrigen Beschluss binnen 30 Tagen seit der Versammlung nach den Artikeln 85 ff. VRG beim Regierungsrat Verwaltungsbeschwerde erheben.
 
-#### Art. 73
+## 5. Das Gemeindeparlament
 
-**Allgemeine Amtspflicht**
+#### Art. 50
 
-<sup>1</sup> Behördenmitglieder, öffentliche Bedienstete sowie mit öffentlichen Aufgaben beauftragte private Personen sind zu gewissenhafter Amtsführung verpflichtet.
+**Zusammensetzung, Befugnisse**
 
-#### Art. 74
+<sup>1</sup> Die Gemeindeordnung bestimmt insbesondere:
 
-**Rücktritt vom Behördenamt**
+- a. die Wahlkreise für das Gemeindeparlament;
+- b. die Mitgliederzahl des Gemeindeparlaments;
+- c. die Befugnisse des Gemeindeparlaments.
 
-<sup>1–2</sup> …
-
-<sup>3</sup> Ein Behördenmitglied soll während der Amtsdauer nur mit einer Ankündigung von mindestens drei Monaten zurücktreten, es sei denn, dass ihm die weitere Tätigkeit im Amt nicht mehr zugemutet werden kann.
-
-<sup>4</sup> …
-
-#### Art. 75
-
-**Protokolle und Akten**
-
-<sup>1</sup> Über die Verhandlungen der Behörden einschliesslich der Kommissionen werden Protokolle geführt.
-
-<sup>2</sup> Jedes Behördemitglied hat das Recht, seinen Widerspruch gegen einen Beschluss im Protokoll vermerken zu lassen, sofern es ihn vor der Abstimmung erhoben und begründet hat.
-
-<sup>3</sup> Die verhandlungsleitende und die protokollführende Person unterzeichnen das Protokoll. Es ist der Behörde an der nächsten Sitzung zur Genehmigung zu unterbreiten.
-
-<sup>4</sup> Über wichtige Amtshandlungen oder aufgrund besonderer Vorschriften sind Akten anzulegen.
-
-#### Art. 76
-
-**…**
-
-#### Art. 77
-
-**Amtsgeheimnis**
-
-<sup>1</sup> Die Behördenmitglieder, die öffentlichen Bediensteten und die mit öffentlichen Aufgaben betrauten privaten Personen sind zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet, soweit an der Geheimhaltung ein überwiegendes öffentliches oder privates Interesse gemäss Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen[^77-1] besteht oder wenn eine besondere gesetzliche Bestimmung dies vorsieht.
-
-<sup>2</sup> …
-
-<sup>3</sup> Die Pflicht zur Verschwiegenheit bleibt auch nach dem Ausscheiden aus dem Amt bestehen.
-
-<sup>4</sup> Besondere Bestimmungen dieses Gesetzes, des übrigen kantonalen oder des eidgenössischen Rechts, die von der Geheimhaltungspflicht entbinden und zur Herausgabe von amtlichen Dokumenten ermächtigen, bleiben vorbehalten.
-
-[^77-1]: GS [I F/1](https://gesetze.gl.ch/data/I-F.1/de)
-
-#### Art. 78
-
-**Ausstand**
-
-<sup>1</sup> Behördenmitglieder, öffentliche Bedienstete und beauftragte Personen, die einen Entscheid oder Beschluss vorbereiten, daran mitwirken oder einen solchen fassen, haben gemäss Artikel 77 Kantonsverfassung und den Artikeln 13 und 14 Verwaltungsrechtspflegegesetz in den Ausstand zu treten.
-
-#### Art. 79
-
-**Haftung für Schaden**
-
-<sup>1</sup> Die Haftung der Gemeinden, Zweckverbände und Korporationen für Schaden, den Amtsinhaber Dritten verursachen, richtet sich nach dem Staatshaftungsgesetz[^79-1].
-
-<sup>2</sup> Die Gemeinden, Zweckverbände und Korporationen können nach dem Staatshaftungsgesetz auf Amtsinhaber, die vorsätzlich oder grobfahrlässig gehandelt haben, Rückgriff nehmen.
-
-[^79-1]: GS [II F/2](https://gesetze.gl.ch/data/II-F.2/de)
-
-#### Art. 80
-
-**Geschenke und andere Vorteile**
-
-<sup>1</sup> Behördenmitgliedern, öffentlichen Bediensteten und mit öffentlichen Aufgaben beauftragten Personen ist es untersagt, im Zusammenhang mit amtlichen Tätigkeiten oder im Hinblick auf solche für sich oder Dritte irgendwelche Zuwendungen wie Geschenke, Barbeträge und dergleichen anzunehmen, sich Vorteile zu verschaffen oder versprechen zu lassen. Davon ausgenommen sind Höflichkeitsgeschenke von geringem Wert. Widerrechtlich angenommene Geschenke und andere Vorteile verfallen der Körperschaft.
-
-#### Art. 81
-
-**Disziplinarische Massnahmen wegen Verletzung der Amts- und Dienstpflichten**
-
-<sup>1</sup> Behördenmitglieder werden disziplinarisch bestraft, wenn sie:
-
-- a. vorsätzlich oder fahrlässig ihre Amts- oder Dienstpflicht (insbesondere nach Art. 73, 77, 78 und 80) verletzen oder vernachlässigen;
-- b. vorsätzlich oder fahrlässig ausser Amt oder Dienst sich so verhalten, dass dies mit dem Amt oder dem Dienst offensichtlich nicht vereinbar ist.
-
-<sup>2</sup> Als Disziplinarstrafen kommen zur Anwendung: der schriftliche Verweis, eine Geldbusse bis 5000 Franken, die Kürzung oder Aufhebung der ordentlichen Besoldungserhöhung, die Versetzung ins provisorische Dienstverhältnis oder in eine niedrigere Besoldungsklasse, die vorübergehende Einstellung im Dienst bis zu drei Monaten, die Androhung der Entlassung sowie die Entlassung aus dem Amt oder dem Dienst.
-
-<sup>3</sup> Die einzelnen Disziplinarmassnahmen können miteinander verbunden werden.
-
-<sup>4</sup> Disziplinarbehörde ist die Vorsteherschaft. Für die Mitglieder der Vorsteherschaft amtet der Regierungsrat als Disziplinarbehörde.
-
-<sup>5</sup> Ob ein Disziplinarfehler zu verfolgen ist und welche Disziplinarmassnahmen zu verhängen sind, muss nach pflichtgemässem Ermessen entschieden werden.
-
-<sup>6</sup> Ein Disziplinarfehler kann nur verfolgt werden, wenn die Vorsteherschaft die Untersuchung innert drei Monaten anordnet, nachdem ihr der Disziplinarfehler und die fehlbare Person bekanntgeworden sind. Die Verfolgung eines Disziplinarfehlers verjährt innert drei Jahren nach dessen Begehung; die Disziplinarstrafe verjährt trotz der Unterbrechung fünf Jahre nach der Begehung.
-
-<sup>7</sup> Die Massnahmen bei Verletzung von Dienstpflichten durch Angestellte richten sich nach Artikel 114a.
-
-#### Art. 82
-
-**Strafrechtliche Massnahmen bei Verletzung von Amts- und Dienstpflichten**
-
-<sup>1</sup> Für strafrechtliche Massnahmen gelten die Artikel 312-322 des Schweizerischen Strafgesetzbuches.
-
-### 5.2. Vorsteherschaft
-
-#### Art. 83
-
-**Stellung; Bestand**
-
-<sup>1</sup> Die Vorsteherschaft ist die leitende und die oberste vollziehende Behörde der Gemeinde oder des Zweckverbandes.
-
-<sup>2</sup> Sie besteht aus dem Präsidenten oder der Präsidentin und mindestens vier weitern Mitgliedern.
-
-<sup>3</sup> In den Gemeinden legt die Gemeindeordnung die Mitgliederzahl fest, in den Zweckverbänden das Organisationsstatut.
-
-#### Art. 84
-
-**Umfang der Beschäftigung**
-
-<sup>1</sup> Die Gemeinde bestimmt in der Gemeindeordnung, welche Mitglieder der Vorsteherschaft im Neben-, Haupt- oder Vollamt tätig sind. Ein Zweckverband kann in seinen Statuten dasselbe vorsehen.
-
-<sup>2</sup> In der Kirchgemeinde kann die Gemeindeordnung und in einem Zweckverband kann das Organisationsstatut vorsehen, dass ein Mitglied der Vorsteherschaft als Aktuar oder Aktuarin oder als Finanzverwalter oder -verwalterin tätig ist, sofern es sich höchstens um ein Halbamt handelt.
-
-<sup>3</sup> Die Mitglieder der Vorsteherschaften sind angemessen zu entschädigen.
-
-#### Art. 85
-
-**Kollegialsystem**
-
-<sup>1</sup> Die Vorsteherschaft ist eine Kollegialbehörde.
-
-<sup>2</sup> Die Mitglieder achten die Vertraulichkeit der Beratungen.
-
-<sup>3</sup> Möchte ein Mitglied gegenüber den Stimmberechtigten eine abweichende Meinung vertreten, soll es dies vorgängig dem Kollegium mitteilen.
-
-<sup>4</sup> Alle wichtigen und grundsätzlichen Entscheide trifft das Kollegium in jedem Fall gesamthaft. Unter dieser Voraussetzung kann es:
-
-- a. die Vorprüfung einzelner Geschäfte oder die Ausführung von Beschlüssen den Mitgliedern übertragen;
-- b. den Mitgliedern, Ausschüssen oder Kommissionen oder einzelnen Verwaltungsstellen Geschäfte von untergeordneter Bedeutung zur selbstständigen Erledigung übertragen.
-
-#### Art. 86
-
-**Rechtssetzungs-, Vertrags- und Planungsbefugnisse**
-
-<sup>1</sup> Die Vorsteherschaft ist zuständig für:
-
-- a. den Entwurf der Gemeindeordnung und der Gesetze der Gemeinde;
-- b. den Erlass von Vollzugsverordnungen und Verwaltungsanweisungen;
-- c. den Erlass von Vorschriften, zu dem sie durch die Gemeindeordnung oder durch Beschluss der Stimmberechtigten im Einzelfall ermächtigt worden ist (Art. 39 Abs. 2) oder die von besonderer Dringlichkeit sind;
-- d. den Entwurf von Vereinbarungen und Verträgen der Körperschaft mit andern Körperschaften;
-- e. Abschluss, Änderung oder Kündigung von Verträgen, soweit:
-  - 1\. sie durch die Gemeindeordnung oder durch Beschluss der Stimmberechtigten im Einzelfall dazu ermächtigt worden ist (Art. 40 Abs. 2),
-  - 2\. es um blosse Verwaltungsvollzugsaufgaben oder administrative Hilfsgeschäfte geht;
-- f den Entwurf von grundlegenden oder allgemeinverbindlichen Plänen.
-
-#### Art. 87
-
-**Finanzbefugnisse**
-
-<sup>1</sup> Die Vorsteherschaft ist zuständig für:
-
-- a. den Entwurf des Voranschlags sowie für Begehren um Nachtragskredite oder Begehren um Verpflichtungskredite, die in die Zuständigkeit der Stimmberechtigten fallen;
-- b. die Führung der Jahresrechnung;
-- c. den Finanzplan;
-- d. Beschlüsse über frei bestimmbare einmalige Ausgaben für den gleichen Zweck oder über frei bestimmbare wiederkehrende Ausgaben für den gleichen Zweck gemäss der Gemeindeordnung oder aufgrund von Ermächtigungen der Stimmberechtigten;
-- e. Beschlüsse über Ausgaben, die durch übergeordnetes Recht verbindlich und ohne Ermessensspielraum vorgeschrieben sind;
-- f. Beschlüsse über Verpflichtungen der Körperschaft nach Artikel 41 Absatz 1 Buchstaben g – l, soweit sie durch die Gemeindeordnung oder durch Beschluss der Stimmberechtigten im Einzelfall dazu ermächtigt worden ist;
-- g. die Verwaltung des Vermögens;
-- h. Beschlüsse über den ordentlichen Unterhalt der Gebäude, Anlagen und Einrichtungen der Körperschaft;
-- i. den Entscheid über die Umwandlung von nicht mehr benötigtem Verwaltungsvermögen in Finanzvermögen;
-- k. den Entscheid über die Aufnahme von Krediten;
-- l. …
-
-#### Art. 88
-
-**Weitere Sachbefugnisse**
-
-<sup>1</sup> Der Vorsteherschaft obliegt im Weiteren:
-
-- a. Erlasse, Beschlüsse, Verträge oder Urteile durch Anordnungen oder durch Weisungen an die Verwaltung zu vollziehen, soweit dafür nicht andere Organe zuständig sind;
-- b. die Verwaltung, die Anstalten und Betriebe der Gemeinde oder des Zweckverbandes zu organisieren, zu führen und zu beaufsichtigen;
-- c. die Angestellten oder Lehrpersonen der Körperschaft anzustellen, soweit nicht nach der kantonalen Gesetzgebung oder der Gemeindeordnung eine andere Instanz zuständig ist, und alle Stellenbeschriebe zu erlassen;
-- d. für bestimmte Verwaltungsbereiche oder einzelne Geschäfte Kommissionen zu bestellen;
-- e. Kompetenzkonflikte zwischen verschiedenen Stellen der Körperschaft zu entscheiden.
-
-<sup>2</sup> Ihr obliegt sodann:
-
-- a. die Einberufung einer ordentlichen oder ausserordentlichen Gemeindeversammlung (Art. 47 und 48);
-- b. der Entscheid über die rechtliche Zulässigkeit von Anträgen zuhanden der Stimmberechtigten sowie die Stellungnahme zu solchen Anträgen (Art. 37);
-- c. der Beschluss, namens der Vorsteherschaft zuhanden der Landsgemeinde einen Memorialsantrag zu stellen;
-- d. zu Vorlagen von kantonalen Behörden Stellung zu nehmen;
-- e. die Körperschaft nach aussen zu vertreten und die Beziehungen zu den Behörden des Kantons, des Bundes oder anderer Gemeinden zu wahren;
-- f. die Prozess- und Verfahrensführung für die Körperschaft in öffentlich-rechtlichen und privatrechtlichen Angelegenheiten;
-- g. weitere Leitungs-, Planungs- oder Verwaltungsaufgaben wahrzunehmen, die ihr durch die Gesetzgebung, durch die Gemeindeordnung oder durch Beschluss der Stimmberechtigten übertragen wurden oder die sonst wahrgenommen werden müssen.
-
-<sup>3</sup> Dem Gemeinderat obliegt zudem, für öffentliche Ruhe und Ordnung auf dem Gemeindegebiet zu sorgen und bei einer ernsten, unmittelbaren und offensichtlichen Gefährdung und im Falle eines Notstandes die gebotenen Massnahmen zu ergreifen.
-
-#### Art. 89
-
-**Zwangs- und Strafbefugnisse**
-
-<sup>1</sup> Die Vorsteherschaft kann, um die Entscheide der Stimmberechtigten und ihre eigenen Entscheide durchzusetzen, nach den Artikeln 127-131 Verwaltungsrechtspflegegesetz Zwangsmittel einsetzen.
-
-<sup>2</sup> Der Gemeinderat kann die kommunalen Kontrollorgane hinsichtlich der Übertretungstatbestände des Gemeinderechts ermächtigen, im Einverständnis mit der fehlbaren Person auf der Stelle eine Ordnungsbusse zu erheben. Er bestimmt die Übertretungen, die durch Ordnungsbussen zu ahnden sind, legt den Bussenbetrag fest und regelt das Verfahren.
-
-<sup>3</sup> Anerkennt die betroffene Person die Widerhandlung nicht oder ist sie mit dem Ordnungsbussenverfahren nicht einverstanden, erfolgt Anzeige bei den Strafverfolgungsbehörden. Die Höchstgrenze der Ordnungsbussen beträgt 1000 Franken.
-
-#### Art. 90
-
-**Präsident oder Präsidentin**
-
-<sup>1</sup> Der Präsident oder die Präsidentin leitet die Vorsteherschaft oder den Zweckverband.
-
-<sup>2</sup> Es obliegt ihm oder ihr insbesondere:
-
-- a. die Geschäfte der Vorsteherschaft vorzubereiten und dafür die notwendigen Vorabklärungen zu veranlassen;
-- b. die Verhandlungen der Vorsteherschaft zu leiten und deren Beschlüsse zu vollziehen;
-- c. die Tätigkeit der Mitglieder sowie von Ausschüssen und Kommissionen der Vorsteherschaft zu koordinieren;
-- d. die Verwaltung zu leiten und zu beaufsichtigen, soweit die Gemeindeordnung oder ein Gesetz nichts anderes bestimmt;
-- e. die Vorbereitung der Gemeindeversammlungen und der Urnenwahlen und -abstimmungen zu beaufsichtigen und die Gemeindeversammlung zu leiten;
-- f. die Gemeinde und ihre Behörden zu vertreten;
-- g. die Information der Öffentlichkeit zu betreuen.
-
-#### Art. 91
-
-**Präsidialverfügungen**
-
-<sup>1</sup> Der Präsident oder die Präsidentin handelt für die Vorsteherschaft, wenn:
-
-- a. unverzügliche Massnahmen zu treffen sind;
-- b. die Vorsteherschaft ihn oder sie ermächtigt, bestimmte Geschäfte von untergeordneter Bedeutung durch Präsidialverfügung zu erledigen.
-
-<sup>2</sup> Die Vorsteherschaft muss an der nächstfolgenden Sitzung darüber informiert werden. Sie kann Präsidialverfügungen aufheben, soweit der Schutz des Vertrauens der betroffenen Parteien dies zulässt.
-
-<sup>3</sup> Die Gemeindeordnung kann dem Präsidenten oder der Präsidentin eine selbstständige Ausgabenbefugnis einräumen.
-
-#### Art. 92
-
-**Stellvertretung des Präsidenten oder der Präsidentin**
-
-<sup>1</sup> Werden die Mitglieder der Vorsteherschaft durch Urnenwahl bestimmt, so nimmt jenes Mitglied die Stellvertretung des Präsidenten oder der Präsidentin wahr, das mit den meisten Stimmen gewählt wurde. Werden die Mitglieder der Vorsteherschaft an der Gemeindeversammlung bestimmt, so wählt die Vorsteherschaft ihren Vizepräsidenten oder ihre Vizepräsidentin.
-
-<sup>2</sup> Der Vizepräsident oder die Vizepräsidentin vertritt im Verhinderungsfall oder im Fall einer Ausstandspflicht den Präsidenten oder die Präsidentin.
-
-<sup>3</sup> Ist auch der Vizepräsident oder die Vizepräsidentin an der Amtsführung verhindert, obliegt die Stellvertretung dem amtsältesten Mitglied der Vorsteherschaft.
-
-<sup>4</sup> Für einzelne Aufgabenbereiche kann die Vorsteherschaft besondere Stellvertretungen anordnen.
-
-### 5.3. Ausschüsse und Kommissionen
-
-#### Art. 93
-
-**Delegationen**
-
-<sup>1</sup> Die Vorsteherschaft kann aufgrund eines kantonalen Gesetzes oder aufgrund der Gemeindeordnung oder des Organisationsstatuts des Zweckverbands in einzelnen Aufgabenbereichen Entscheidungsbefugnisse oder Befugnisse zur Leitung und Aufsicht über die Verwaltung einem Ausschuss oder einer ständigen Kommission übertragen. Einer solchen Kommission muss mindestens ein Mitglied der Vorsteherschaft angehören.
-
-<sup>2</sup> Die Vorsteherschaft kann auf dieser Grundlage in einzelnen Aufgabenbereichen auch Entscheidungsbefugnisse auf eine Verwaltungseinheit übertragen.
-
-#### Art. 94
-
-**Schulkommission**
-
-<sup>1</sup> Der Schulkommission gehören die von den Stimmberechtigten gewählten Mitglieder an. Den Vorsitz führt das zusätzlich vom Gemeinderat aus seiner Mitte bestimmte Mitglied.
-
-### 5.4. Geschäftsprüfungskommission respektive Rechnungsprüfungsorgan
-
-#### Art. 95
-
-**Stellung und Zusammensetzung**
-
-<sup>1</sup> Das Rechnungsprüfungsorgan der Gemeinde oder des Zweckverbandes ist die oberste Aufsichtsbehörde in Finanzfragen. Es dient den Stimmberechtigten bei Finanzbeschlüssen und bei der Oberaufsicht im Finanzbereich.
-
-<sup>2</sup> Als Rechnungsprüfungsorgan amtet die Rechnungsprüfungskommission, bestehend aus dem Präsidenten oder der Präsidentin und mindestens zwei Mitgliedern. Es können auch zwei oder mehr selbstständige Rechnungsrevisoren als Rechnungsprüfungsorgan gewählt werden, welche in der Körperschaft nicht stimmberechtigt sein müssen.
-
-<sup>3</sup> Das Rechnungsprüfungsorgan kann, wenn dies die Gemeindeordnung vorsieht, private Revisions- und Treuhandunternehmen oder Fachstellen der Finanzkontrolle von andern Körperschaften beiziehen.
-
-#### Art. 96
-
-**Aufgaben**
-
-<sup>1</sup> Das Rechnungsprüfungsorgan ist namentlich zuständig für die Prüfung des gesamten Finanzhaushalts, insbesondere der Jahresrechnung und der Abrechnung der von den Stimmberechtigten beschlossenen besonderen Kredite. Es kann nach der Gemeindeordnung oder dem Organisationsstatut des Zweckverbands auch zum Voranschlag, zur Festsetzung des Gemeindesteuerfusses oder zur Finanzplanung sowie zu weitern wichtigen Finanzvorlagen der Stimmberechtigten Stellung nehmen.
-
-<sup>2</sup> Das Rechnungsprüfungsorgan erstattet seine Berichte mit den Feststellungen und Empfehlungen sowie seine Stellungnahmen der Vorsteherschaft, welche diese den Stimmberechtigten bekannt gibt.
-
-#### Art. 97
-
-**Aufsichtskriterien**
-
-<sup>1</sup> Das Rechnungsprüfungsorgan übt seine Tätigkeit sowohl nach den Grundsätzen der Haushaltsführung gemäss dem kantonalen Finanzhaushaltsrecht als auch nach den anerkannten Revisionsgrundsätzen aus.
-
-<sup>2</sup> Die Prüfung des Haushalts erfolgt unter rechnerischen, buchhalterischen, haushaltsrechtlichen und wirtschaftlichen Gesichtspunkten.
-
-#### Art. 98
-
-**Dokumentation, Akteneinsichtsrecht**
-
-<sup>1</sup> Gemeindekanzlei, Gemeindekasse, Verwaltungsabteilungen, Betriebe und Anstalten gewähren dem Rechnungsprüfungsorgan Einsicht in alle Erlasse, Weisungen und Beschlüsse, welche bedeutsame finanzielle Auswirkungen haben oder die Haushaltsführung betreffen.
-
-<sup>2</sup> Die Mitglieder des Rechnungsprüfungsorgans und die protokollführende Person sind in Bezug auf Informationen, die dem Amtsgeheimnis unterliegen, ihrerseits zur Geheimhaltung (Art. 77) verpflichtet.
-
-#### Art. 99
-
-**Zusammenarbeit mit der kantonalen Finanzkontrolle**
-
-<sup>1</sup> Das Rechnungsprüfungsorgan arbeitet mit der kantonalen Finanzkontrolle zusammen, soweit diese im Bereiche der Gemeinden und der Zweckverbände eine Finanzaufsicht wahrnehmen muss.
-
-#### Art. 99a
-
-**Geschäftsprüfungskommission**
-
-<sup>1</sup> In den Gemeinden erfüllt grundsätzlich die Geschäftsprüfungskommission die Aufgaben des Rechnungsprüfungsorgans. Die Kirchgemeinden und Zweckverbände können eine abweichende Regelung treffen.
-
-<sup>2</sup> Der Geschäftsprüfungskommission obliegt zusätzlich die Prüfung der Rechtmässigkeit der Amtsführung der Gemeindebehörden und der Verwaltung, der Anträge des Gemeinderates über Voranschlag und Steuerfuss sowie von Geschäften mit direkter oder indirekter Kostenfolge, die in den Zuständigkeitsbereich der Stimmberechtigten fallen. Sie erstattet den Stimmberechtigten Bericht.
-
-<sup>3</sup> Die Gemeindeordnung kann die Rechnungsprüfungsaufgabe an externe Fachleute übertragen oder bestimmt die fachlichen Anforderungen an die Geschäftsprüfungskommission.
-
-### 5.5. Geschäftsordnung von Behörden und Kommissionen
-
-#### Art. 100
-
-**Sitzungen**
-
-<sup>1</sup> Die Vorsteherschaft, andere Behörden oder Kommissionen versammeln sich nach Sitzungsplan, auf Anordnung des Präsidenten oder der Präsidentin oder auf Verlangen eines Drittels der Mitglieder.
-
-<sup>2</sup> Der Präsident oder die Präsidentin lädt zu den Sitzungen ein und leitet diese.
-
-<sup>3</sup> Mit der Einladung werden die Traktandenliste sowie die Unterlagen für wichtige Verhandlungsgegenstände verteilt. Nicht angekündigte Geschäfte dürfen nur abschliessend behandelt werden, wenn alle anwesenden Mitglieder einverstanden sind.
-
-<sup>4</sup> Für einzelne Geschäfte können Mitarbeiter der Verwaltung oder aussenstehende Fachleute zu den Beratungen beigezogen werden.
-
-#### Art. 101
-
-**Beschlussfassung**
-
-<sup>1</sup> Die Behörden und Kommissionen sind beschlussfähig, wenn mehr als die Hälfte der Mitglieder anwesend sind.
-
-<sup>2</sup> Die Beschlüsse werden durch einfaches Mehr der Stimmenden gefasst. Bei Stimmengleichheit ist der Antrag angenommen, für den der Präsident oder die Präsidentin gestimmt hat.
-
-<sup>3</sup> Die Beschlüsse werden durch Handaufheben gefasst, ausser wenn die geheime Abstimmung beschlossen wird. Bei Wahlen und Ernennungen kann jedes Behördenmitglied geheime Abstimmung verlangen.
-
-#### Art. 102
-
-**Zirkulationsbeschlüsse**
-
-<sup>1</sup> In dringlichen Angelegenheiten sind Zirkulationsbeschlüsse zulässig, sofern kein Mitglied dagegen Einspruch erhebt.
-
-#### Art. 103
-
-**Zeichnungsberechtigung**
-
-<sup>1</sup> Die Vorsteherschaft regelt die Zeichnungsberechtigung ihrer Mitglieder, der Mitglieder von Kommissionen sowie der leitenden Bediensteten in Verwaltung, Betrieben und Anstalten der Gemeinde oder des Zweckverbands.
-
-#### Art. 104
+#### Art. 51
 
 **Öffentlichkeit**
 
-<sup>1</sup> Die Verhandlungen und Protokolle der Behörden und Kommissionen sind nicht öffentlich.
+<sup>1</sup> Die Sitzungen des Gemeindeparlaments sind öffentlich.
 
-<sup>2–3</sup> …
+<sup>2</sup> Wenn es im Interesse der öffentlichen Ordnung und Sicherheit als geboten erscheint oder wenn schützenswerte private Interessen es rechtfertigen, kann das Präsidium, jedes Mitglied des Gemeindeparlaments oder die Vorsteherschaft geheime Beratung beantragen. Über einen solchen Antrag wird unter Ausschluss der Öffentlichkeit geheim abgestimmt. Zum Beschluss sind die Stimmen von zwei Dritteln der anwesenden Mitglieder notwendig.
 
-### 5.6. Organisation der Verwaltung
+<sup>3</sup> Bei geheimen Verhandlungen ist jedermann verpflichtet, über die Verhandlungen Stillschweigen zu bewahren.
 
-#### Art. 105
+#### Art. 52
 
-**Allgemeine Verwaltung**
+**Aufgaben**
 
-<sup>1</sup> Die Gemeindeordnung bzw. das Organisationsstatut des Zweckverbands legt, im Rahmen der kantonalen Gesetzgebung, die Grundzüge der Organisation der Verwaltung fest. Die Einzelheiten bestimmt die Vorsteherschaft.
+<sup>1</sup> Das Gemeindeparlament beschliesst über Geschäfte, die ihm das kantonale Recht oder die Gemeindeordnung zuweist.
 
-<sup>2</sup> Die Verwaltungsstellen und Kommissionen erfüllen diejenigen Aufgaben, die ihnen durch das kantonale Recht, die Vorschriften der Gemeinde oder des Zweckverbands oder durch ergänzende Anweisungen der Vorsteherschaft übertragen sind.
+<sup>2</sup> Ihm obliegt die Aufsicht über Behörden, Verwaltung und die weiteren Träger öffentlicher Aufgaben.
 
-#### Art. 106
+#### Art. 53
 
-**Übertragung von Verwaltungsaufgaben**
+**Jahresrechnung, Budget und Steuerfuss**
 
-<sup>1</sup> Durch die Gemeindeordnung oder besonderen Beschluss der Stimmberechtigten beziehungsweise durch das Organisationsstatut des Zweckverbandes können wirtschaftliche, soziale und kulturelle Verwaltungsaufgaben aus der allgemeinen Verwaltung ausgegliedert und auf Organisationen und Personen des öffentlichen oder privaten Rechts übertragen werden. Dabei müssen der Rechtsschutz und die Aufsicht der Gemeinde sichergestellt werden.
+<sup>1</sup> Die Regelungen nach den Artikeln 43–46 gelten für Parlamentsgemeinden sinngemäss.
 
-<sup>2</sup> Ausnahmsweise können solche Aufgaben durch gemischtwirtschaftliche oder privatrechtliche Organisationen, an denen sich die Gemeinde oder der Zweckverband beteiligt, erfüllt werden. Eine solche Beteiligung bedarf der Bewilligung des Regierungsrates.
+#### Art. 54
 
-#### Art. 107
+**Organisation des Gemeindeparlaments**
 
-**Beratende Kommissionen**
+<sup>1</sup> Das Gemeindeparlament konstituiert sich selbst und gibt sich im Rahmen des Gesetzes und der Gemeindeordnung eine Geschäftsordnung.
 
-<sup>1</sup> Für bestimmte Verwaltungsbereiche oder für einzelne Geschäfte können Kommissionen bestellt werden, welche die Vorsteherschaft bei der Rechtssetzung, der Planung und in finanziellen, sozialen oder kulturellen Fragen beraten.
+<sup>2</sup> Die Geschäftsordnung regelt insbesondere:
 
-#### Art. 108
+- a. die Organe und ihre Zuständigkeiten;
+- b. die Rechte und Pflichten der Mitglieder des Parlaments gemäss Artikel 56 sowie das Verfahren zu deren Ausübung;
+- c. die parlamentarischen Instrumente;
+- d. die Rechte und das Verfahren der parlamentarischen Kommissionen;
+- e. die Abstimmungsordnung.
 
-**Grundsätze der Organisation**
+<sup>3</sup> Fehlen entsprechende Regelungen, gelangt kantonales Recht sinngemäss zur Anwendung.
 
-<sup>1</sup> Die Verwaltungsstellen, Kommissionen, Betriebe und Anstalten sind nach den Grundsätzen einer rechtmässigen, zweckmässigen und leistungsfähigen Verwaltung zu organisieren und zu leiten.
+#### Art. 55
 
-<sup>2</sup> Fällt ein Geschäft in den Bereich mehrerer Verwaltungsteile, so sorgen die Beteiligten für die gegenseitige Information und Koordination. Die Vorsteherschaft bestimmt, wer federführend ist.
+**Veröffentlichung**
 
-#### Art. 109
+<sup>1</sup> Die dem Referendum unterstellten Beschlüsse sind im Amtsblatt zu veröffentlichen.
 
-**Gemeindeschreiber oder Gemeindeschreiberin; Aktuar oder Aktuarin**
+#### Art. 56
 
-<sup>1</sup> In der Gemeinde führt der Gemeindeschreiber oder die Gemeindeschreiberin, in den andern Körperschaften der Aktuar oder die Aktuarin das Sekretariat der Vorsteherschaft. Er oder sie nimmt an den Sitzungen der Vorsteherschaft mit beratender Stimme teil und hat das Recht, Anträge zu stellen.
+**Rechte und Pflichten der Mitglieder des Gemeindeparlaments**
 
-<sup>2</sup> Ihm oder ihr obliegt insbesondere:
+<sup>1</sup> Die Gemeinden regeln die Rechte und Pflichten der Mitglieder des Gemeindeparlaments. Vorbehaltlich abweichender Regelungen gelten die Artikel 64 ff. und 72 ff. der Landratsverordnung (LRV)[^56-1] sinngemäss.
 
-- a. das Protokoll der Gemeindeversammlung und dasjenige der Vorsteherschaft zu führen und deren Erlasse und Beschlüsse auszufertigen;
-- b. nach diesem Gesetz und nach dem Abstimmungsgesetz die notwendigen Massnahmen zur Vorbereitung und Durchführung der Wahlen und Abstimmungen zu treffen und insbesondere das Protokoll des Wahlbüros zu führen;
-- c. die Korrespondenz der Gemeinde oder des Zweckverbandes zu besorgen;
-- d. nach den Anordnungen der Vorsteherschaft die Gemeindekanzlei und das Gemeindearchiv zu organisieren und zu leiten.
+[^56-1]: GS [II A/2/3](https://gesetze.gl.ch/data/II-A.2.3/de)
 
-#### Art. 110
+#### Art. 57
 
-**Finanzverwalter oder Finanzverwalterin**
+**Rechte der Vorsteherschaft**
 
-<sup>1</sup> Der Finanzverwalter oder die Finanzverwalterin betreut das Finanzwesen der Körperschaft.
+<sup>1</sup> Die Vorsteherschaft unterbreitet dem Gemeindeparlament Geschäfte zur Beschlussfassung.
 
-<sup>2</sup> Ihm oder ihr obliegt insbesondere:
+<sup>2</sup> An den Sitzungen des Gemeindeparlaments nehmen die Mitglieder der Vorsteherschaft mit beratender Stimme und Antragsrecht teil.
 
-- a. die Kasse und die Buchhaltung zu führen;
-- b. …
-- c. Forderungen einzutreiben;
-- d. die Grundlagen für die Jahresrechnung, den Voranschlag und den allfälligen Finanzplan zu erarbeiten;
-- e. das Finanzvermögen zu verwalten.
+<sup>3</sup> Das Gemeindeparlament kann zur Vorbereitung der Verhandlungen, zur Ausübung der Oberaufsicht oder für besondere Untersuchungen Kommissionen bilden. Die Vorsteherschaft kann dort ihre Vorlagen durch ein Mitglied oder durch Verwaltungsangestellte vertreten lassen.
 
-### 5.7. Öffentliches Dienstrecht
+## 6. Die Gemeindebehörden
 
-#### Art. 111
+### 6.1. Allgemeine Bestimmungen
 
-**Öffentliche Bedienstete**
+#### Art. 58
 
-<sup>1</sup> Öffentliche Bedienstete sind die Angestellten, die Lehrpersonen sowie die Pfarrerinnen und Pfarrer.
+**Wählbarkeit**
 
-<sup>2</sup> Die Angestellten bilden das Verwaltungspersonal der Körperschaft. Ihr Dienstverhältnis richtet sich bei Voll- und Teilzeitanstellung nach diesem Gesetz und den Vorschriften der Körperschaft. Ist nichts anderes bestimmt, so werden die Vorschriften über die Dienstverhältnisse der kantonalen Angestellten sinngemäss angewendet.
+<sup>1</sup> Alle Stimmberechtigten ab zurückgelegtem 18. Altersjahr sind als Mitglieder von Gemeindebehörden wählbar.
 
-<sup>3</sup> Das Dienstverhältnis der Lehrpersonen richtet sich nach der kantonalen Bildungsgesetzgebung.
+<sup>2</sup> In die Vorsteherschaft und ins Gemeindeparlament wählbar sind Personen, welche spätestens zum Zeitpunkt der Wahlen ihren Wohnsitz in der Gemeinde haben. Dieser ist während der gesamten Amtsdauer beizubehalten.
 
-<sup>4</sup> Das Dienstverhältnis der Pfarrerinnen und Pfarrer sowie der weiteren Bediensteten der Kirchgemeinden richtet sich unter Vorbehalt von Artikel 20 nach den kirchlichen Vorschriften.
+<sup>3</sup> Das Gemeinderecht kann für die Wahl in eine Kommission mit Beratungsfunktion oder als Delegierte der Gemeinde in einem Zweckverband die Wohnsitzpflicht in der Gemeinde verlangen.
 
-#### Art. 112
+#### Art. 59
 
-**Öffentlich-rechtliche Angestellte**
+**Ersatzwahlen**
 
-<sup>1</sup> Die Angestellten der Gemeinden und Zweckverbände werden auf bestimmte oder unbestimmte Zeit angestellt.
+<sup>1</sup> Entsteht durch das Ausscheiden einer Amtsinhaberin oder eines Amtsinhabers während der laufenden Amtsperiode eine Vakanz, so ist für den Rest der Amtsperiode eine Ersatzwahl zu treffen, sofern die nächste ordentliche Wahl nicht spätestens innerhalb der nächsten sechs Monate stattfindet. Für die Ersatzwahl gelten die gleichen Bestimmungen wie für die ordentlichen Wahlen.
 
-<sup>2</sup> Das Dienstverhältnis besteht grundsätzlich in der Form der öffentlich-rechtlichen Anstellung. Die Gemeinden können in einem Erlass der Stimmberechtigten vorsehen, dass Angestellte von ausgegliederten Verwaltungseinheiten privatrechtlich angestellt werden. Im Übrigen können privatrechtliche Arbeitsverträge bei besonderen Anstellungen, wie Aushilfen oder Praktika, sowie bei befristeten Dienstverhältnissen bis maximal drei Jahre abgeschlossen werden.
+<sup>2</sup> Sind die Voraussetzungen zur Durchführung einer Ersatzwahl nicht erfüllt, nimmt eine allfällige Stellvertreterin oder ein allfälliger Stellvertreter anstelle des ausgeschiedenen ordentlichen Mitgliedes an den Verhandlungen der Behörde teil.
 
-<sup>3</sup> Mehrjährige oder auf unbestimmte Zeit abgeschlossene Dienstverhältnisse können beidseitig, wenn nichts anderes bestimmt wird, schriftlich im ersten Dienstjahr mit einer Kündigungsfrist von einem Monat, im zweiten bis und mit dem neunten Dienstjahr mit einer Frist von zwei Monaten und nachher mit einer Frist von drei Monaten je auf das Ende eines Monats gekündigt werden. Die Vorsteherschaft muss die Kündigung eines Dienstverhältnisses begründen.
+#### Art. 60
 
-#### Art. 112a–113
+**Wahlen in verschiedene Ämter**
 
-**…**
+<sup>1</sup> Wird eine Person in verschiedene Ämter gewählt, die sich gegenseitig ausschliessen, hat sie sich für das eine oder andere Amt zu entscheiden.
 
-#### Art. 114
+<sup>2</sup> Liegen Unvereinbarkeiten im Sinne von Artikel 62 vor, so ist bei gleichzeitiger Wahl diejenige Person gewählt, die mehr Stimmen auf sich vereinigt. Haben die Kandidatinnen oder Kandidaten gleich viele Stimmen erhalten, entscheidet das Los.
 
-**Publikation der Stellen**
+<sup>3</sup> Wird eine der Personen, zwischen denen eine Unvereinbarkeit im Sinne von Artikel 62 besteht, gewählt und ist die andere im Amt, ohne dass gleichzeitig mit der Wahl der ersten Person die Wiederwahl der zweiten anstünde, so ist die Wahl ungültig.
 
-<sup>1</sup> Die Gemeinden und ihre Anstalten sowie die Zweckverbände schreiben zu besetzende Stellen öffentlich aus.
+#### Art. 61
 
-<sup>2</sup> Sie können Ausnahmen von der Ausschreibungspflicht vorsehen.
+**Unvereinbarkeiten für Behörden und Angestellte**
 
-#### Art. 114a
+<sup>1</sup> Mitglieder des Gemeindeparlaments oder der Geschäftsprüfungskommission können innerhalb derselben Gemeinde nicht gleichzeitig Mitglied der Vorsteherschaft sein.
 
-**Massnahmen bei Verletzung von Dienstpflichten**
+<sup>2</sup> Die Mitglieder der Vorsteherschaft und der Geschäftsprüfungskommission dürfen in keinem Verwandtschaftsverhältnis nach Artikel 62 stehen.
 
-<sup>1</sup> Bei Verletzung von Dienstpflichten der Angestellten kann die Vorsteherschaft zwecks Wiederherstellung der geordneten Aufgabenerfüllung folgende Massnahmen treffen: Erteilung eines schriftlichen Verweises, Aufhebung der ordentlichen Besoldungserhöhung, Besoldungskürzung, Kündigung und vorzeitige Auflösung des Dienstverhältnisses aus wichtigen Gründen (Art. 115).
+<sup>3</sup> Mitglieder der Vorsteherschaft und Gemeindeangestellte können nicht der Geschäftsprüfungskommission angehören. Letztere dürfen innerhalb derselben Gemeinde auch nicht gleichzeitig Mitglied der Vorsteherschaft sein und auch nicht der ihnen unmittelbar vorgesetzten Behörde angehören. Bestimmt die Gemeinde keinen hierfür massgebenden Beschäftigungsgrad, gilt dies für jede Anstellung.
 
-#### Art. 115
+#### Art. 62
 
-**Vorzeitige Auflösung des Dienstverhältnisses aus wichtigen Gründen**
+**Unvereinbarkeiten zufolge Verwandtschaft**
 
-<sup>1</sup> Die Vorsteherschaft kann jedes Dienstverhältnis aus wichtigen Gründen vorzeitig auflösen.
+<sup>1</sup> Verwandte und Verschwägerte in gerader Linie, Geschwister, Ehegatten und Personen, die zusammen in eingetragener Partnerschaft oder faktischer Lebensgemeinschaft leben, dürfen gleichzeitig dem Gemeindeparlament aber nicht gleichzeitig derselben anderen Gemeindebehörde angehören.
 
-<sup>2</sup> Ein wichtiger Grund liegt namentlich vor, wenn der Vorsteherschaft nach Treu und Glauben die Fortsetzung des Dienstverhältnisses nicht mehr zu gemutet werden kann.
+#### Art. 63
 
-<sup>3</sup> Die disziplinarische Entlassung nach Artikel 81 bleibt vorbehalten.
+**Unvereinbarkeiten für Kontrollorgane**
 
-#### Art. 116
+<sup>1</sup> In ein Kontrollorgan darf nicht gewählt werden, wer in der betreffenden Gemeinde oder im Zweckverband ein kontrolliertes Amt bekleidet oder mit dem Inhaber eines solchen so nah verwandt ist, dass ein Ausschlussgrund aus Verwandtschaft (Art. 62) gegeben ist.
 
-**Besoldungen und soziale Sicherung**
+#### Art. 64
 
-<sup>1</sup> Die Gemeinden und Zweckverbände erlassen Vorschriften über die Besoldungen, die soziale Sicherung und die übrigen Rechte der öffentlichen Bediensteten.
+**Unvereinbarkeit bei Amtsantritt und weitere**
 
-## 6. Zusammenarbeit mit andern Gemeinden; Zweckverbände
+<sup>1</sup> Niemand darf ein weiteres Amt antreten, wenn er unvereinbare Amtspflichten übernehmen müsste.
 
-### 6.1. Grundsätze der Zusammenarbeit
+<sup>2</sup> Die Gemeindeordnung kann weitere Unvereinbarkeitsgründe vorsehen.
 
-#### Art. 117
+#### Art. 65
+
+**Interessenbindungen**
+
+<sup>1</sup> Die Mitglieder von Behörden legen bei Eintritt in die Behörde sowie bei Veränderung der Verhältnisse ihre Interessenbindungen offen.
+
+<sup>2</sup> Die Gemeinde führt ein öffentliches Register über die Angaben ihrer Behördenmitglieder.
+
+<sup>3</sup> Jede Behörde sorgt selber für die Einhaltung der Offenlegungspflicht. Sie kann Mitglieder dazu auffordern, sich im Register eintragen zu lassen.
+
+#### Art. 66
+
+**Amtsgeheimnis**
+
+<sup>1</sup> Mitglieder von Gemeindebehörden sowie Gemeindeangestellte und Private, die öffentliche Aufgaben erfüllen, sind über Angelegenheiten, die sie in ihrer amtlichen oder dienstlichen Stellung wahrgenommen haben, zur Verschwiegenheit verpflichtet, soweit an der Geheimhaltung ein überwiegendes öffentliches oder privates Interesse besteht oder wenn eine besondere Vorschrift dies vorsieht.
+
+<sup>2</sup> Über die Entbindung eines Mitglieds der Vorsteherschaft vom Amtsgeheimnis entscheidet die Vorsteherschaft im Ausstand des betreffenden Mitglieds, über jene der weiteren dem Amtsgeheimnis unterstehenden Personen die diesen vorgesetzte Behörde.
+
+#### Art. 67
+
+**Ausstand**
+
+<sup>1</sup> Mitglieder einer Gemeindebehörde, die einen Entscheid oder Beschluss vorbereiten, daran mitwirken oder einen solchen fassen, haben gemäss Artikel 77 KV und den Artikeln 13 und 14 VRG in den Ausstand zu treten.
+
+<sup>2</sup> Hat eine Person in den Ausstand zu treten, so kann sie weder in einer vorberatenden Kommission noch im Plenum mitberaten oder mitentscheiden. Sie hat den Sitzungsraum vor der Behandlung des betreffenden Geschäftes zu verlassen.
+
+<sup>3</sup> Im Streitfall entscheidet die Gemeindebehörde.
+
+#### Art. 68
+
+**Ausstand; Ausnahmen**
+
+<sup>1</sup> Bei Geschäften, welche die ganze Gemeinde oder Teile davon, andere öffentlich-rechtliche Organisationen oder eine allgemein umschriebene Mehrheit von Personen betreffen, namentlich bei Rechtsetzungsgeschäften, besteht keine Ausstandspflicht.
+
+<sup>2</sup> Ist ein Gemeindeorgan wegen Ausstands oder aus andern Gründen beschlussunfähig, bestimmt die kantonale Aufsichtsbehörde das weitere Vorgehen. Sie kann anstelle des Organs handeln oder als Entscheidungsinstanz das Organ einer anderen Gemeinde einsetzen.
+
+#### Art. 69
+
+**Ausstand in der Rechtspflege**
+
+<sup>1</sup> Im Bereich der Rechtspflege richtet sich der Ausstand nach den Bestimmungen des VRG.
+
+#### Art. 70
+
+**Haftung für Schaden**
+
+<sup>1</sup> Die Haftung der Gemeinden, Zweckverbände und Korporationen für Schaden, den Amtsträger Dritten verursachen, richtet sich nach dem Staatshaftungsgesetz[^70-1].
+
+[^70-1]: GS [II F/2](https://gesetze.gl.ch/data/II-F.2/de)
+
+### 6.2. Beratung
+
+#### Art. 71
+
+**Sitzungen**
+
+<sup>1</sup> Behörden versammeln sich auf Einladung des Präsidiums sowie auf Verlangen von mindestens einem Drittel ihrer Mitglieder.
+
+<sup>2</sup> Vorbehältlich entschuldbarer Gründe sind die Mitglieder von Behörden zur Teilnahme an den Sitzungen verpflichtet.
+
+#### Art. 72
+
+**Beschlussfähigkeit**
+
+<sup>1</sup> Eine Behörde ist beschlussfähig, wenn mindestens die Mehrheit ihrer Mitglieder anwesend und stimmberechtigt ist.
+
+<sup>2</sup> Sie treffen ihre Entscheide nach gemeinsamer Beratung als Kollegium. In Ausnahmefällen können sie auf dem Zirkularweg entscheiden.
+
+<sup>3</sup> Die Mitglieder der Behörde vertreten die Entscheide des Kollegiums.
+
+#### Art. 73
+
+**Stimmpflicht**
+
+<sup>1</sup> Bei Abstimmungen und Wahlen ist jedes Mitglied zur Stimmabgabe verpflichtet. Vorbehalten bleiben die Bestimmungen über den Ausstand.
+
+<sup>2</sup> Die Stimmabgabe erfolgt offen. Bei Stimmengleichheit gibt die Stimme des Präsidiums den Ausschlag.
+
+<sup>3</sup> Bei Wahlen gilt im ersten Wahlgang das absolute, im zweiten Wahlgang das relative Mehr.
+
+#### Art. 74
+
+**Präsidialentscheide**
+
+<sup>1</sup> Können dringende Angelegenheiten nicht rechtzeitig in der Behörde behandelt werden, entscheidet das Präsidium an ihrer Stelle. Sie oder er informiert die Behörde.
+
+<sup>2</sup> Eine Behörde kann das Präsidium ermächtigen, Angelegenheiten von geringer Bedeutung selbst zu entscheiden.
+
+### 6.3. Die Vorsteherschaft
+
+#### Art. 75
+
+**Stellung**
+
+<sup>1</sup> Die Vorsteherschaft ist die leitende und oberste vollziehende Behörde der Gemeinde.
+
+<sup>2</sup> Sie plant und koordiniert die Tätigkeiten der Gemeinde.
+
+<sup>3</sup> Sie führt und beaufsichtigt die Gemeindeverwaltung.
+
+#### Art. 76
+
+**Organisation**
+
+<sup>1</sup> Die Vorsteherschaft besteht aus mindestens drei und höchstens sieben Mitgliedern. Mit Ausnahme des Präsidiums konstituiert sie sich selber.
+
+<sup>2</sup> Sie hat die Verwaltungstätigkeit nach zweckmässigen Organisationsgrundsätzen auszurichten.
+
+<sup>3</sup> Die Gemeinden bestimmen den Umfang der Beschäftigung und das Führungsmodell.
+
+#### Art. 77
+
+**Präsidiale Aufgaben**
+
+<sup>1</sup> Soweit ein Beschluss der Gemeinde nichts anderes bestimmt, obliegt dem Präsidium insbesondere:
+
+- a. die Geschäfte der Vorsteherschaft vorzubereiten und dafür die notwendigen Vorabklärungen zu veranlassen;
+- b. die Verhandlungen der Vorsteherschaft zu leiten;
+- c. den Vollzug der Beschlüsse der Vorsteherschaft sicherzustellen;
+- d. die Tätigkeit der Mitglieder sowie von Ausschüssen und Kommissionen der Vorsteherschaft zu koordinieren;
+- e. die Verwaltung zu leiten und zu beaufsichtigen;
+- f. die Vorbereitung der Gemeindeversammlungen zu beaufsichtigen und die Gemeindeversammlung zu leiten;
+- g. die Gemeinde und ihre Behörden zu vertreten;
+- h. die Information der Öffentlichkeit zu betreuen.
+
+#### Art. 78
+
+**Vertretung der Gemeinde; Zeichnungsberechtigung**
+
+<sup>1</sup> Die Vorsteherschaft plant das staatliche Handeln, ergreift Initiativen, pflegt die Beziehungen zum Kanton und zu den anderen Gemeinden, koordiniert die Verwaltungsarbeiten und vertritt die Gemeinde nach innen und nach aussen. Vorbehalten bleiben die Befugnisse der Stimmberechtigten und des Gemeindeparlamentes.
+
+<sup>2</sup> Das Präsidium unterzeichnet zusammen mit einem weiteren Mitglied der Vorsteherschaft oder mit der Gemeindeschreiberin oder dem Gemeindeschreiber die Geschäfte im Kompetenzbereich der Vorsteherschaft.
+
+<sup>3</sup> Ohne entgegenstehende kommunale Regelung können die weiteren Gemeindebehörden ihre Vertretung für die Abgabe von rechtswirksamen Erklärungen gegenüber Dritten selber bezeichnen.
+
+#### Art. 79
+
+**Vorberatungspflicht**
+
+<sup>1</sup> Die Vorsteherschaft hat alle Geschäfte, welche der Gemeindeversammlung oder dem Gemeindeparlament vorzulegen sind, vorzuberaten und Antrag zu stellen.
+
+<sup>2</sup> Die Vorsteherschaft erarbeitet zu jedem Geschäft einen Bericht oder eine Botschaft zuhanden der Stimmberechtigten beziehungsweise des Gemeindeparlamentes und stellt sie diesen rechtzeitig zu beziehungsweise publiziert sie auf angemessene Weise.
+
+#### Art. 80
+
+**Befugnisse**
+
+<sup>1</sup> Die Vorsteherschaft erfüllt alle Aufgaben, die nicht durch übergeordnetes Recht oder durch das Recht der Gemeinde einem anderen Organ zugewiesen sind.
+
+<sup>2</sup> Sie kann Vollzugsverordnungen und Verwaltungsanweisungen erlassen und Vorschriften, zu denen sie durch Beschluss der Stimmberechtigten im Einzelfall ermächtigt worden ist oder die von besonderer zeitlicher wie sachlicher Dringlichkeit sind.
+
+<sup>3</sup> Muss das Recht der Gemeinde an übergeordnetes Recht angepasst werden und steht der Gemeinde dabei kein Regelungsspielraum offen, kann die Vorsteherschaft die Änderung in eigener Kompetenz beschliessen.
+
+#### Art. 81
+
+**Ordnungsbussen**
+
+<sup>1</sup> Die Vorsteherschaft kann die kommunalen Kontrollorgane hinsichtlich der Übertretungstatbestände der Gemeindeerlasse ermächtigen, im Einverständnis mit der fehlbaren Person auf der Stelle eine Ordnungsbusse zu erheben.
+
+<sup>2</sup> Die Vorsteherschaft bestimmt die Übertretungstatbestände und legt die Höhe der Ordnungsbusse fest. Die Ordnungsbusse beträgt höchstens 1000 Franken.
+
+<sup>3</sup> Anerkennt die betroffene Person die Widerhandlung nicht oder ist sie mit dem Ordnungsbussenverfahren nicht einverstanden, erfolgt Anzeige bei den Strafverfolgungsbehörden.
+
+#### Art. 82
+
+**Dringliche Beschlüsse**
+
+<sup>1</sup> In Fällen sachlicher sowie zeitlicher Dringlichkeit kann die Vorsteherschaft, wenn alle anwesenden Mitglieder zustimmen, oder das Gemeindeparlament mit absoluter Mehrheit ausnahmsweise einen Beschluss anstelle der Stimmberechtigten fassen.
+
+<sup>2</sup> Der Beschluss ist durch eine Publikation im Internet und einen entsprechenden Hinweis im Amtsblatt zu publizieren.
+
+<sup>3</sup> Mindestens 100 Stimmberechtigte, in Kirchgemeinden mindestens ein Zehntel der stimmberechtigten Konfessionsangehörigen, können innert 10 Tagen, nachdem der Beschluss bekannt gemacht wurde, verlangen, dass dieser als Antrag an die nächste Gemeindeversammlung oder die nächste Urnenabstimmung gelangt.
+
+#### Art. 83
+
+**Übertragung von Befugnissen**
+
+<sup>1</sup> Durch Gemeindeordnung können einzelne Befugnisse, welche ordentlicherweise der Vorsteherschaft zustehen, besonderen Behörden oder Einheiten der Gemeindeverwaltung übertragen werden.
+
+<sup>2</sup> Die Aufgaben, Zuständigkeiten und die Organisation von ständigen Kommissionen werden in einem Gemeindeerlass geregelt, soweit keine übergeordneten Vorschriften bestehen.
+
+<sup>3</sup> Die ordentlichen Gemeindeorgane können für die Vorprüfung und Vorberatung einzelner in ihre jeweilige Zuständigkeit fallender Geschäfte nichtständige Kommissionen einsetzen, soweit keine übergeordneten Vorschriften bestehen.
+
+<sup>4</sup> Die Vorsteherschaft darf den Entscheid im Rahmen einer ihr zustehenden Kompetenz nur dann einem übergeordneten Organ delegieren, wenn sich dies aus objektiven Gründen und aufgrund einer ausserordentlichen Situation als unabdingbar erweist.
+
+## 7. Rechnungs- und Geschäftsprüfung
+
+#### Art. 84
+
+**Kontrollorgane**
+
+<sup>1</sup> Die Gemeinden bestellen eine Geschäftsprüfungskommission mit mindestens fünf Mitgliedern. Sie konstituiert sich selbst, soweit die Gemeindeordnung nichts anderes bestimmt.
+
+<sup>2</sup> Kirchgemeinden, öffentlich-rechtliche Korporationen und Zweckverbände bestellen ein Rechnungsprüfungsorgan mit mindestens zwei Mitgliedern.
+
+<sup>3</sup> Das Gemeindeparlament wählt die Geschäftsprüfungskommission aus seiner Mitte. In Versammlungsgemeinden wählen die Stimmberechtigten das Kontrollorgan.
+
+<sup>4</sup> Die Gemeindeordnung kann vorsehen, dass das Kontrollorgan private Revisions- und Treuhandunternehmen oder Fachstellen der Finanzkontrolle anderer Körperschaften beizieht.
+
+#### Art. 85
+
+**Prüfungsumfang**
+
+<sup>1</sup> Die Geschäftsprüfungskommission prüft:
+
+- a. den Finanzhaushalt und das Rechnungswesen nach finanzpolitischen Gesichtspunkten;
+- b. das Budget, die Jahresrechnung und weitere Geschäfte von finanzieller Tragweite in der Zuständigkeit der Stimmberechtigten oder des Gemeindeparlaments;
+- c. die finanzrechtliche Zulässigkeit, die rechnerische Richtigkeit und die finanzielle Angemessenheit.
+
+<sup>2</sup> Im Rahmen der Geschäftsprüfung übt die Geschäftsprüfungskommission die Aufsicht über die Geschäftsführung der Gemeinde aus. Dabei prüft sie insbesondere die Geschäftsberichte und die dem Gemeindeparlament und den Stimmberechtigten vorzulegenden Geschäfte nach Absatz 1 Buchstabe b. In Bezug auf diese Geschäfte prüft sie auch die sachliche Angemessenheit.
+
+<sup>3</sup> Das für die Wahl der Geschäftsprüfungskommission zuständige Gemeindeorgan kann weitere Kommissionen wählen und diesen einen Teil der Aufgaben nach Absatz 1 und 2 und entsprechende Kompetenzen übertragen.
+
+#### Art. 86
+
+**Prüfung durch Rechnungsprüfungsorgan**
+
+<sup>1</sup> In Kirchgemeinden, Zweckverbänden und öffentlich-rechtlichen Korporationen ergeben sich die Aufgaben ihres Rechnungsprüfungsorgans ohne anderslautende Regelung nach Artikel 85 Absatz 1.
+
+#### Art. 87
+
+**Informationsrechte**
+
+<sup>1</sup> Das Kontrollorgan kann bei der Vorsteherschaft die Herausgabe der für ihre Prüfung erforderlichen Unterlagen verlangen und mit deren Zustimmung die für seine Prüfung erforderlichen Auskünfte bei der Gemeindeverwaltung einholen.
+
+<sup>2</sup> Die Vorsteherschaft schränkt die Herausgabe von Unterlagen und die Erteilung von Auskünften ein, soweit ein überwiegendes öffentliches oder privates Interesse dies gebietet.
+
+<sup>3</sup> Umfang der Informationsrechte und Verfahren bestimmen sich vorbehaltlich abweichender Regelungen im Gemeinderecht sinngemäss nach Artikel 67 LRV.
+
+#### Art. 88
+
+**Berichterstattung**
+
+<sup>1</sup> Die Geschäftsprüfungskommission erstattet der Vorsteherschaft von Versammlungsgemeinden zuhanden der Stimmberechtigten, von Parlamentsgemeinden zuhanden dem Gemeindeparlament, schriftlichen Bericht und stellt Antrag.
+
+#### Art. 89
+
+**Beratung**
+
+<sup>1</sup> Die Vorsteherschaft kann insbesondere bei Geschäften mit finanziellen Auswirkungen das Kontrollorgan beratend beiziehen.
+
+<sup>2</sup> Für ausserordentliche Prüfungen kann das Kontrollorgan Sachverständige beiziehen.
+
+## 8. Aufgabenerfüllung
+
+### 8.1. Grundsätze
+
+#### Art. 90
+
+**Aufgaben der Gemeinde**
+
+<sup>1</sup> Die Gemeinden erfüllen die ihnen übertragenen Aufgaben sowie alle örtlichen Angelegenheiten, die das kantonale Recht nicht oder nicht abschliessend regelt.
+
+#### Art. 91
+
+**Übernahme von Aufgaben**
+
+<sup>1</sup> Die Gemeinden übernehmen selbstgewählte Aufgaben durch Beschluss des zuständigen Gemeindeorgans.
+
+<sup>2</sup> Wird im Rahmen der Aufgabenerfüllung in die Rechtsstellung von Personen eingegriffen, bedarf es für die Aufgabenübernahme einer formellen gesetzlichen Grundlage.
+
+#### Art. 92
+
+**Träger der Aufgaben**
+
+<sup>1</sup> Die Gemeinden erfüllen ihre Aufgaben selber.
+
+<sup>2</sup> Sie können die Aufgabenerfüllung durch Beschluss oder Vertrag Dritten übertragen sowie Organisationen des öffentlichen und des privaten Rechts schaffen oder sich an diesen beteiligen.
+
+<sup>3</sup> Die Übertragungsgrundlage regelt insbesondere:
+
+- a. die Art und den Umfang der Aufgabe;
+- b. die Rechtsform des Aufgabenträgers;
+- c. die Finanzierung;
+- d. die Aufsicht;
+- e. bei einer Anstalt die Organisation;
+- f. den Rechtsschutz vorbehältlich Artikel 103 Absatz 2 VRG.
+
+#### Art. 93
+
+**Aufsicht bei Aufgabenübertragung**
+
+<sup>1</sup> Die ausgelagerten Trägerschaften beziehungsweise deren Aufgabenerfüllung stehen unter der Aufsicht der Gemeinde.
+
+### 8.2. Zweckverbände
+
+### 8.2.1. Grundsätze der Zusammenarbeit
+
+#### Art. 94
 
 **Möglichkeiten**
 
 <sup>1</sup> Die Gemeinden können für eine Zusammenarbeit mit andern Gemeinden durch Vereinbarungen:
 
-- a. Verwaltungsaufgaben von andern Gemeinden übernehmen bzw. einer andern Gemeinde übertragen (Art. 119 und 120);
-- b. einer andern Gemeinde eigene Einrichtungen oder Mitarbeiter zur Verfügung stellen;
+- a. Verwaltungsaufgaben von andern Gemeinden übernehmen bzw. einer andern Gemeinde übertragen (Art. 98);
+- b. einer andern Gemeinde eigene Einrichtungen oder Mitarbeitende zur Verfügung stellen;
 - c. für bestimmte Aufgaben eine gemeinsame Stelle oder Kommission einsetzen oder eine gemeinsame Einrichtung schaffen;
-- d. Zweckverbände bilden (Art. 121-137).
+- d. Zweckverbände bilden (Art. 94–120).
 
-#### Art. 118
+#### Art. 95
+
+**Grenzüberschreitende Zusammenarbeit**
+
+<sup>1</sup> Im Rahmen der grenzüberschreitenden interkommunalen Zusammenarbeit sind die Gemeinden befugt, in lokalen Angelegenheiten mit ausserkantonalen Nachbargemeinden Verträge abzuschliessen. Diese sind der Regierung zur Kenntnis zu bringen.
+
+#### Art. 96
 
 **Formelle Voraussetzungen**
 
@@ -1163,22 +983,28 @@ beschliesst:
 
 <sup>3</sup> Vereinbarungen mit ausserkantonalen Gemeinden können nur aufgrund einer besonderen Gesetzesvorschrift, einer interkantonalen Vereinbarung des Kantons oder, soweit die Interessen des Kantons betroffen sind, mit Genehmigung des Regierungsrates abgeschlossen werden. Sie müssen die Grundsätze des kantonalen Rechts beachten.
 
-<sup>4</sup> Die Befugnisse der Stimmberechtigten einer jeden Gemeinde nach den Artikeln 39 - 42 bleiben vorbehalten.
+#### Art. 97
 
-#### Art. 119
+**Vorbehalt zugunsten der Stimmberechtigten**
+
+<sup>1</sup> Die Befugnisse der Stimmberechtigten einer jeden Gemeinde nach den Artikeln 24 und 27 bleiben vorbehalten.
+
+#### Art. 98
 
 **Übernahme einer Verwaltungsaufgabe**
 
 <sup>1</sup> Die Gemeinde kann durch Vereinbarung Aufgaben anderer Gemeinden übernehmen, namentlich wenn diesen die Aufgabenerfüllung einen unverhältnismässigen Aufwand verursachen würde.
 
-<sup>2</sup> Sie kann auch durch Vereinbarung Aufgaben einer Gemeinde aus der Nachbarschaft übernehmen, wenn:
+<sup>2</sup> Sie kann auch durch Vereinbarung Aufgaben einer Gemeinde aus der
+
+Nachbarschaft übernehmen, wenn:
 
 - a. für diese in abgelegenem Gebiet die Verwaltung erschwert ist;
 - b. im Grenzgebiet zu einem andern Kanton eine einheitliche Verwaltung im öffentlichen Interesse liegt.
 
 <sup>3</sup> Die betroffenen Kreise sind vor einer Vereinbarung anzuhören.
 
-#### Art. 120
+#### Art. 99
 
 **Grundsätze für die Übernahme von Verwaltungsaufgaben**
 
@@ -1188,11 +1014,11 @@ beschliesst:
 
 <sup>3</sup> Der Regierungsrat kann nötigenfalls, wenn keine Vereinbarung zustande kommt, eine Aufgabe einer Gemeinde zuweisen.
 
-### 6.2. Zweckverbände
+### 8.2.2. Gründungsformen
 
-#### Art. 121
+#### Art. 100
 
-**Entstehung**
+**Gründung**
 
 <sup>1</sup> Der Zweckverband entsteht mit der Zustimmung der Stimmberechtigten der beteiligten Gemeinden zum Gründungsvertrag und zum Organisationsstatut.
 
@@ -1200,9 +1026,9 @@ beschliesst:
 
 <sup>3</sup> Bei interkantonalen Zweckverbänden kann der Regierungsrat Abweichungen von diesem Gesetz genehmigen, sofern die Grundsätze des kantonalen Rechts eingehalten sind.
 
-#### Art. 122
+#### Art. 101
 
-**Ausserordentliche Gründung oder Beitrittszwang**
+**Ausserordentliche Gründung, Beitrittszwang**
 
 <sup>1</sup> Der Regierungsrat kann aus wichtigen Gründen Gemeinden verpflichten, sich zu einem Zweckverband zusammenzuschliessen. Er kann dessen Gründungsvertrag und Organisationsstatut bestimmen.
 
@@ -1210,7 +1036,7 @@ beschliesst:
 
 <sup>3</sup> In allen diesen Fällen hört er vorher die Beteiligten an. Die Beschlüsse des Regierungsrats werden im Amtsblatt veröffentlicht.
 
-#### Art. 123
+#### Art. 102
 
 **Gründungsvereinbarung**
 
@@ -1218,24 +1044,42 @@ beschliesst:
 
 - a. die Mitgliedgemeinden;
 - b. den Namen und den Zweck des Verbandes sowie den Ort, an dem der Verband seinen Sitz hat;
-- c. die Organe des Verbands (Art. 125) und die Vertretung der Mitgliedgemeinden in diesen (Art. 126);
+- c. die Organe des Verbands (Art. 106) und die Vertretung der Mitgliedgemeinden in diesen;
 - d. die Grundsätze der Finanzierung der Verbandsaufgaben, insbesondere die Art der Verteilung der finanziellen Lasten unter den Mitgliedern;
 - e. die Voraussetzung und das Verfahren für Beitritt und Austritt;
 - f. das Verfahren zur Auflösung des Verbandes.
 
-#### Art. 124
+#### Art. 103
 
 **Organisationsstatut**
 
 <sup>1</sup> Das Organisationsstatut des Zweckverbandes regelt mindestens:
 
-- a. die Einberufung, das Verhandlungsverfahren und die Zuständigkeiten der Verbandsorgane (Art. 125 ff.);
+- a. die Einberufung, das Verhandlungsverfahren und die Zuständigkeiten der Verbandsorgane;
 - b. die Grundzüge der Organisation der Verwaltung des Verbandes;
 - c. alle Fragen, die nach diesem Gesetz die Gemeinden durch die Gemeindeordnung zu regeln haben.
 
 <sup>2</sup> Das Organisationsstatut kann im Gründungsvertrag niedergelegt werden.
 
-#### Art. 125
+#### Art. 104
+
+**Eintritt**
+
+<sup>1</sup> Von neuen Verbandsmitgliedern kann eine angemessene Einkaufssumme verlangt werden, wenn die bisherigen Mitglieder entsprechende Vorleistungen erbracht haben.
+
+#### Art. 105
+
+**Austritt**
+
+<sup>1</sup> Ein Mitglied kann gemäss den Bestimmungen des Gründungsvertrags aus dem Verband austreten. Vorbehalten bleibt eine Verpflichtung durch den Regierungsrat nach Artikel 101.
+
+<sup>2</sup> Wird jedoch der Fortbestand des Verbands oder die Erfüllung seiner Zwecke durch den Austritt eines oder mehrerer Mitglieder schwer gefährdet oder werden die übrigen Mitglieder des Verbands durch den Austritt übermässig belastet, so kann der Regierungsrat auf Gesuch die Kündigungsfrist soweit nötig erstrecken. Er hört vorher alle Beteiligten an.
+
+<sup>3</sup> Austretende Mitglieder haben keinen Anspruch auf Entschädigung, wenn die Vereinbarung nichts anderes vorsieht. Sie haften entsprechend der Gründungsvereinbarung anteilsmässig für die Verbindlichkeiten des Verbands, die während der Dauer ihrer Mitgliedschaft entstanden sind.
+
+### 8.2.3. Organisation
+
+#### Art. 106
 
 **Organe des Zweckverbands**
 
@@ -1244,13 +1088,13 @@ beschliesst:
 - a. die Mitgliedgemeinden;
 - b. die Delegiertenversammlung;
 - c. die Vorsteherschaft;
-- d. das Rechnungsprüfungsorgan (Art. 95);
+- d. das Geschäfts- oder Rechnungsprüfungsorgan;
 - e. allenfalls besondere Kommissionen;
 - f. die Verwaltung, die Betriebe und die Anstalten des Verbandes.
 
-<sup>2</sup> Die Gründungsvereinbarung kann vorsehen, dass keine Delegiertenversammlung bestellt und dass an ihrer Stelle die Vorsteherschaft des Verbandes durch die Stimmberechtigten der Mitgliedgemeinden gewählt wird und auch die Befugnisse der Delegiertenversammlung nach Artikel 127 Buchstaben c–h wahrnimmt. In diesem Fall müssen auch die Mitglieder der Rechnungsprüfungskommission oder die Rechnungsrevisoren durch die Stimmberechtigten der Mitgliedgemeinden gewählt werden.
+<sup>2</sup> Die Gründungsvereinbarung kann vorsehen, dass keine Delegiertenversammlung bestellt und dass an ihrer Stelle die Vorsteherschaft des Verbandes durch die Stimmberechtigten der Mitgliedgemeinden gewählt wird und auch die Befugnisse der Delegiertenversammlung nach Artikel 112 Buchstaben c–h wahrnimmt. In diesem Fall müssen auch die Mitglieder der Rechnungsprüfungskommission oder die Rechnungsrevisoren durch die Stimmberechtigten der Mitgliedgemeinden gewählt werden. Die Vorsteherschaft konstituiert sich diesfalls selbst.
 
-#### Art. 126
+#### Art. 107
 
 **Bestand und Zusammensetzung der Delegiertenversammlung**
 
@@ -1260,26 +1104,54 @@ beschliesst:
 
 <sup>3</sup> Jedes Verbandsmitglied hat Anspruch auf mindestens einen Vertreter in der Delegiertenversammlung. Keine Gemeinde darf mehr als die Hälfte der Delegierten stellen, es sei denn, dass nur zwei Gemeinden den Verband bilden.
 
-<sup>4</sup> Die Gemeindeordnung einer Mitgliedgemeinde kann vorsehen, dass mindestens ein Delegierter, höchstens aber die Hälfte der Delegierten dieser Gemeinde, aus dem Kreis der Mitglieder der Gemeindevorsteherschaft gewählt werden muss.
+#### Art. 108
 
-<sup>5</sup> Mitglieder der Delegiertenversammlung, die in die Vorsteherschaft oder das Rechnungsprüfungsorgan des Verbands gewählt werden, verlieren ihre Eigenschaft als Delegierte und sind durch ihre gewählten Stellvertreter zu ersetzen.
+**Mitglieder der Gemeindevorsteherschaft in der Delegiertenversammlung**
 
-#### Art. 127
+<sup>1</sup> Die Gemeindeordnung einer Mitgliedgemeinde kann vorsehen, dass mindestens ein Delegierter, höchstens aber die Hälfte der Delegierten dieser Gemeinde, aus dem Kreis der Mitglieder der Gemeindevorsteherschaft gewählt werden muss.
+
+#### Art. 109
+
+**Ausschluss der Mitgliedschaft in der Delegiertenversammlung**
+
+<sup>1</sup> Mitglieder der Delegiertenversammlung, die in die Vorsteherschaft oder das Rechnungsprüfungsorgan des Verbands gewählt werden, verlieren ihre Eigenschaft als Delegierte und sind durch ihre gewählten Stellvertreter zu ersetzen.
+
+#### Art. 110
+
+**Information der Verbandsmitglieder**
+
+<sup>1</sup> Die Verbandsorgane müssen die Verbandsmitglieder regelmässig und vollständig über die Tätigkeit des Zweckverbands informieren.
+
+<sup>2</sup> Die Verbandsmitglieder können jederzeit Auskünfte verlangen.
+
+<sup>3</sup> Die Vorsteherschaften der Mitgliedgemeinden informieren die Stimmberechtigten oder das Gemeindeparlament jährlich über die Geschäftsführung und den Haushalt des Zweckverbands.
+
+#### Art. 111
+
+**Mitwirkungsrechte der Verbandsmitglieder**
+
+<sup>1</sup> Die Gemeindeversammlung, das Gemeindeparlament und die Vorsteherschaft jeder Mitgliedgemeinde können verlangen, dass die Delegiertenversammlung binnen vier Monaten oder die Vorsteherschaft des Verbands binnen zwei Monaten einberufen wird.
+
+<sup>2</sup> Das Organisationsstatut legt fest, welche Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck und welche Beschlüsse über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck der Zustimmung der Stimmberechtigten der Verbandsmitglieder oder der Zustimmung der Vorsteherschaften dieser Gemeinden bedürfen.
+
+<sup>3</sup> Die Gründungsvereinbarung oder das Organisationsstatut kann vorsehen, dass weitere Verbandsbeschlüsse der Zustimmung der Mehrheit oder aller Mitglieder bedürfen.
+
+#### Art. 112
 
 **Befugnisse der Delegiertenversammlung**
 
 <sup>1</sup> Die Delegiertenversammlung ist zuständig für:
 
-- a. die Wahl des Präsidenten oder der Präsidentin sowie der übrigen Mitglieder der Vorsteherschaft des Verbands;
+- a. die Wahl des Präsidiums sowie der übrigen Mitglieder der Vorsteherschaft des Verbands;
 - b. die Wahl der Mitglieder der Rechnungsprüfungskommission oder der Rechnungsrevisoren;
-- c. den Erlass von Reglementen des Verbands;
+- c. Erlass von Reglementen des Verbands;
 - d. Beschlüsse betreffend die Genehmigung, Änderung oder Kündigung von Verträgen mit andern Körperschaften oder mit privaten Personen über die Aufgaben des Verbands;
-- e. Finanzbefugnisse, wie sie die Stimmberechtigten einer Gemeinde hätten (Art. 41), unter Vorbehalt der Rechte der Verbandsmitglieder gemäss Artikel 133;
+- e. Finanzbefugnisse, wie sie die Stimmberechtigten oder das Gemeindeparlament einer Gemeinde hätten, unter Vorbehalt der Rechte der Verbandsmitglieder gemäss Artikel 111;
 - f. den Beschluss über die Aufnahme neuer Mitglieder;
 - g. die Aufsicht über die Verwaltung, die Betriebe und Anstalten des Verbands;
 - h. jedes weitere Geschäft, das durch die Gesetzgebung, den Gründungsvertrag oder das Organisationsstatut der Delegiertenversammlung vorzulegen ist.
 
-#### Art. 128
+#### Art. 113
 
 **Verhandlungen der Delegiertenversammlung**
 
@@ -1287,37 +1159,45 @@ beschliesst:
 
 <sup>2</sup> Jede delegierte Person hat eine Stimme. Stellvertretung ist nach Massgabe des Organisationsstatuts möglich.
 
-<sup>3</sup> Für die Durchführung der Delegiertenversammlung gelten die Bestimmungen für die Gemeindeversammlung (viertes Kapitel) sinngemäss.
+<sup>3</sup> Für die Durchführung der Delegiertenversammlung gelten die Bestimmungen für die Gemeindeversammlung sinngemäss.
 
-#### Art. 129
+### 8.2.4. Vorsteherschaft des Zweckverbands
 
-**Vorsteherschaft**
+#### Art. 114
 
-<sup>1</sup> Die Vorsteherschaft des Zweckverbands besteht aus dem Präsidenten oder der Präsidentin und mindestens zwei weitern Mitgliedern.
+**Stellung**
+
+<sup>1</sup> Die Vorsteherschaft des Zweckverbands besteht aus dem Präsidium und mindestens zwei weitern Mitgliedern.
 
 <sup>2</sup> Die Gemeinde, in der der Zweckverband seinen Sitz, oder diejenige, in der er seine wichtigsten Anlagen hat, muss in der Vorsteherschaft vertreten sein.
 
-<sup>3</sup> Die Befugnisse der Vorsteherschaft richten sich nach dem Gründungsvertrag, dem Organisationsstatut und nach den Bestimmungen dieses Gesetzes über die Vorsteherschaft der Gemeinden und Zweckverbände (Art. 86 - 89).
+#### Art. 115
 
-<sup>4</sup> Die Vorsteherschaft erstattet der Delegiertenversammlung jährlich einen Rechenschaftsbericht, den sie dieser zusammen mit der Verbandsrechnung und dem Bericht des Rechnungsprüfungsorgans vorlegt.
+**Befugnisse und Pflichten**
 
-#### Art. 130
+<sup>1</sup> Die Befugnisse der Vorsteherschaft richten sich nach dem Gründungsvertrag, dem Organisationsstatut und sinngemäss nach den Bestimmungen dieses Gesetzes über die Vorsteherschaft.
+
+<sup>2</sup> Sie erstattet der Delegiertenversammlung jährlich einen Rechenschaftsbericht, den sie dieser zusammen mit der Verbandsrechnung und dem Bericht des Rechnungsprüfungsorgans vorlegt.
+
+#### Art. 116
 
 **Vorrang des Verbandsrechts**
 
-<sup>1</sup> Die Erlasse und Beschlüsse, die von den Verbandsorganen im Rahmen ihrer gesetzlichen, vertraglichen und statutarischen Befugnisse ergehen, verpflichten die Verbandsmitglieder.
+<sup>1</sup> Die Beschlüsse, die von den Verbandsorganen im Rahmen ihrer gesetzlichen, vertraglichen und statutarischen Befugnisse ergehen, verpflichten die Verbandsmitglieder.
 
 <sup>2</sup> Der Verband kann gegenüber privaten Personen und Organisationen allgemeinverbindliche Regelungen erlassen oder Verfügungen treffen. Er kann insbesondere im Rahmen der gesetzlichen, vertraglichen und statutarischen Befugnisse Beiträge und Gebühren erheben, unter Ausschluss anderer kommunaler Abgaben.
 
-#### Art. 131
+#### Art. 117
 
 **Haushalt**
 
 <sup>1</sup> Die gesetzlichen Vorschriften über den Gemeindehaushalt und seine Kontrolle gelten auch für den Zweckverband.
 
-<sup>2</sup> Rechnung und Voranschlag des Verbands sind so rechtzeitig aufzustellen und den Verbandsmitgliedern zuzustellen, dass diese ihre Beiträge in die eigene Rechnung und in den eigenen Voranschlag für das folgende Jahr aufnehmen können.
+<sup>2</sup> Rechnung und Budget des Verbands sind so rechtzeitig aufzustellen und den Verbandsmitgliedern zuzustellen, dass diese ihre Beiträge in die eigene Rechnung und in ihr eigenes Budget für das folgende Jahr aufnehmen können.
 
-#### Art. 132
+### 8.2.5. Schlussbestimmungen zum Zweckverband
+
+#### Art. 118
 
 **Einnahmen; Haftung der Verbandsmitglieder**
 
@@ -1327,39 +1207,7 @@ beschliesst:
 
 <sup>3</sup> Für die Schulden des Verbands haften die Verbandsmitglieder anteilsmässig entsprechend der Gründungsvereinbarung.
 
-#### Art. 133
-
-**Mitwirkungsrechte der Verbandsmitglieder**
-
-<sup>1</sup> Die Gemeindeversammlung und die Vorsteherschaft jeder Mitgliedgemeinde können verlangen, dass die Delegiertenversammlung binnen vier Monaten oder die Vorsteherschaft des Verbands binnen zwei Monaten einberufen wird.
-
-<sup>2</sup> Das Organisationsstatut legt fest, welche Beschlüsse über alle frei bestimmbaren einmaligen Ausgaben für den gleichen Zweck und welche Beschlüsse über alle frei bestimmbaren wiederkehrenden Ausgaben für den gleichen Zweck der Zustimmung der Stimmberechtigten der Verbandsmitglieder oder der Zustimmung der Vorsteherschaften dieser Gemeinden bedürfen.
-
-<sup>3</sup> Die Gründungsvereinbarung oder das Organisationsstatut kann vorsehen, dass weitere Verbandsbeschlüsse der Zustimmung der Mehrheit oder aller Mitglieder bedürfen.
-
-#### Art. 134
-
-**Information der Verbandsmitglieder**
-
-<sup>1</sup> Die Verbandsorgane müssen die Verbandsmitglieder regelmässig und vollständig über die Tätigkeit des Zweckverbands informieren.
-
-<sup>2</sup> Die Verbandsmitglieder können jederzeit Auskünfte verlangen.
-
-<sup>3</sup> Die Vorsteherschaften der Mitgliedgemeinden informieren die Stimmberechtigten jährlich über die Geschäftsführung und den Haushalt des Zweckverbands.
-
-#### Art. 135
-
-**Eintritt und Austritt**
-
-<sup>1</sup> Von neuen Verbandsmitgliedern kann eine angemessene Einkaufssumme verlangt werden, wenn die bisherigen Mitglieder entsprechende Vorleistungen erbracht haben.
-
-<sup>2</sup> Ein Mitglied kann gemäss den Bestimmungen des Gründungsvertrags aus dem Verband austreten.
-
-<sup>3</sup> Wird jedoch der Fortbestand des Verbands oder die Erfüllung seiner Zwecke durch den Austritt eines oder mehrerer Mitglieder schwer gefährdet oder werden die übrigen Mitglieder des Verbands durch den Austritt übermässig belastet, so kann der Regierungsrat auf Gesuch die Kündigungsfrist soweit nötig erstrecken. Er hört vorher alle Beteiligten an.
-
-<sup>4</sup> Austretende Mitglieder haben keinen Anspruch auf Entschädigung, wenn die Vereinbarung nichts anderes vorsieht. Sie haften entsprechend der Gründungsvereinbarung anteilsmässig für die Verbindlichkeiten des Verbands, die während der Dauer ihrer Mitgliedschaft entstanden sind.
-
-#### Art. 136
+#### Art. 119
 
 **Auflösung des Verbands**
 
@@ -1369,7 +1217,7 @@ beschliesst:
 
 <sup>3</sup> Die Beschlüsse des Regierungsrates werden im Amtsblatt veröffentlicht.
 
-#### Art. 137
+#### Art. 120
 
 **Folgen der Auflösung**
 
@@ -1377,27 +1225,68 @@ beschliesst:
 
 <sup>2</sup> Wenn der Regierungsrat die Liquidation oder die Übernahme genehmigt hat, ist der Verband aufgelöst.
 
-## 7. Aufsicht des Kantons
+## 9. Zusammenschluss von Gemeinden und Änderung von Gemeindegrenzen
 
-#### Art. 138
+#### Art. 121
 
-**Aufsichtsbehörden**
+**Vereinigung oder Aufteilung von Gemeinden**
+
+<sup>1</sup> Die Vereinigung oder Aufteilung von Gemeinden bedürfen der Zustimmung der betroffenen Stimmberechtigten und der Genehmigung durch die Landsgemeinde.
+
+<sup>2</sup> Bei Kirchgemeinden bedarf der Beschluss der Stimmberechtigten der Genehmigung durch den Landrat.
+
+<sup>3</sup> Für die Rückgängigmachung solcher Änderungen gilt das entsprechende Verfahren.
+
+#### Art. 122
+
+**Name und Wappen der Gemeinde**
+
+<sup>1</sup> Die Gemeinde bestimmt ihren Namen und ihr Wappen.
+
+<sup>2</sup> Name oder Wappen der Gemeinde können durch Beschluss der Stimmberechtigten geändert werden, unter Vorbehalt der Genehmigung durch den Regierungsrat.
+
+<sup>3</sup> Die Kirchgemeinde bestimmt ihren Namen. Sie kann ein Wappen bestimmen.
+
+#### Art. 123
+
+**Gemeindegrenzen**
+
+<sup>1</sup> Benachbarte Gemeinden können mit Zustimmung ihrer Stimmberechtigten eine Grenzbereinigung oder eine Grenzänderung vereinbaren. Die Grenzbereinigung bedarf der Genehmigung des Regierungsrates, die Grenzänderung der Genehmigung des Landrates.
+
+<sup>2</sup> Die Grenzänderung ist für Kirchgemeinden verbindlich, soweit deren Gebiet durch das Gebiet der Gemeinde bestimmt ist.
+
+<sup>3</sup> Will der Kanton mit einem benachbarten Kanton eine Grenzänderung durchführen, muss er vorgängig die Zustimmung der betroffenen glarnerischen Gemeinde einholen.
+
+#### Art. 124
+
+**Regelung offener Fragen**
+
+<sup>1</sup> Lässt sich über das bei einer Vereinigung oder Aufteilung zu beachtende Verfahren, über die Behandlung von Vermögen und Verbindlichkeiten, über das Bürgerrecht oder über die Übergangsordnung zwischen den beteiligten Gemeinden keine Einigung erzielen, kann jede Vorsteherschaft den Landrat anrufen, der auf Antrag des Regierungsrates über die Einzelheiten der Vereinbarung entscheidet.
+
+## 10. Aufsicht
+
+#### Art. 125
+
+**Kantonale Aufsichtsbehörde**
 
 <sup>1</sup> Die Gemeinden, Zweckverbände und öffentlich-rechtlichen Korporationen sowie die Anstalten und Betriebe der kommunalen Körperschaften stehen unter der Aufsicht des Regierungsrates.
 
-<sup>2</sup> Der Regierungsrat kann bestimmte Aufsichtsbefugnisse an das zuständige Departement delegieren. Soweit der Regierungsrat nichts anderes bestimmt, ist das mit dem Inneren befasste Departement das zuständige Departement.
+<sup>2</sup> Der Regierungsrat kann bestimmte Aufsichtsbefugnisse und namentlich die Aufsicht über die öffentlich-rechtlichen Korporationen an das zuständige Departement delegieren.
 
 <sup>3</sup> Vorbehalten bleiben Spezialvorschriften in Gesetz oder landrätlicher Verordnung, welche die Aufsicht über die Erfüllung kantonaler Aufgaben durch die Gemeinden dem zuständigen Fachdepartement zuweisen.
 
-#### Art. 139
+#### Art. 126
 
-**Umfang der Aufsicht**
+**Aufsichtsrechtliche Abklärungen, Umfang der Aufsicht**
 
-<sup>1</sup> Der Aufsicht des Kantons unterliegen die Beschlüsse der Stimmberechtigten und die gesamte Tätigkeit der Behörden und der Verwaltung der kommunalen Körperschaften, Anstalten und Betriebe.
+<sup>1</sup> Die zuständige kantonale Stelle nimmt auf aufsichtsrechtliche Anzeige (Art. 84 VRG) hin oder von Amtes wegen nähere Abklärungen vor, wenn:
 
-<sup>2</sup> …
+- a. klares Recht verletzt, Verfahrensvorschriften oder wichtige öffentliche Interessen missachtet werden; und
+- b. die Gemeinde die Angelegenheit nicht gemäss Artikel 133 selber ordnet.
 
-#### Art. 140
+<sup>2</sup> Der Aufsicht des Kantons unterliegen die Beschlüsse der Stimmberechtigten und die gesamte Tätigkeit der Behörden und der Verwaltung der kommunalen Körperschaften, Anstalten und Betriebe.
+
+#### Art. 127
 
 **Aufsichtsmassnahmen**
 
@@ -1408,160 +1297,70 @@ beschliesst:
 - c. die Aufhebung strittiger Verfügungen;
 - d. besondere Zwangsmassnahmen.
 
-<sup>2</sup> Die Gesetzgebung bestimmt zudem, welche Erlasse, Beschlüsse, Verträge und Verfügungen dem Regierungsrat oder einer andern kantonalen Aufsichtsbehörde zur Genehmigung zu unterbreiten sind.
+<sup>2</sup> Die Gesetzgebung bestimmt zudem, welche Beschlüsse, Verträge und Verfügungen dem Regierungsrat oder einer andern kantonalen Aufsichtsbehörde zur Genehmigung zu unterbreiten sind.
 
-#### Art. 141
+#### Art. 128
 
 **Untersuchungen**
 
-<sup>1</sup> Die kantonale Aufsichtsbehörde kann Einsicht in Akten nehmen, Berichte der Behörden verlangen, Behördenmitglieder und öffentliche Bedienstete befragen sowie auf andere geeignete Weise einen Sachverhalt abklären.
+<sup>1</sup> Die kantonale Aufsichtsbehörde kann Einsicht in Akten nehmen, Berichte der Behörden verlangen, Behördenmitglieder und Gemeindeangestellte befragen sowie auf andere geeignete Weise einen Sachverhalt abklären.
 
 <sup>2</sup> Der Aufsichtsbehörde sind ungeachtet von Geheimhaltungspflichten alle erforderlichen Auskünfte zu erteilen.
 
-#### Art. 142
+<sup>3</sup> Es ist insbesondere zu prüfen, ob die finanzhaushaltrechtlichen Grundsätze über die Steuerung des Haushalts und der Rechnungslegung eingehalten werden. Das Departement ordnet andernfalls die erforderlichen Erhebungen an und beantragt der Regierung die notwendigen Massnahmen.
+
+#### Art. 129
 
 **Zwangsmassnahmen**
 
 <sup>1</sup> Der Regierungsrat trifft die angemessenen Massnahmen zur Wiederherstellung oder Sicherung der gesetzlichen Ordnung in der Körperschaft.
 
-<sup>2</sup> Er kann anstelle eines Gemeindeorgans handeln oder Ersatzvornahmen anordnen. Er kann insbesondere allgemeinverbindliche Vorschriften erlassen, Verträge abschliessen und Beschlüsse über die Rechnung, den Voranschlag und den Steuerfuss fassen.
+<sup>2</sup> Er schreitet insbesondere bei folgenden Tatbeständen ein:
 
-<sup>3</sup> Er kann ein Mitglied einer kommunalen Behörde des Amtes entheben, wenn aus schwerwiegenden Gründen dessen Verbleiben im Amt den Interessen der Körperschaft schadet.
+- a. die Verschuldung hat einen kritischen Wert erreicht oder steuert auf einen solchen hin;
+- b. es wird ein Bilanzfehlbetrag ausgewiesen oder ein solcher ist aufgrund des negativen Trends bei der Selbstfinanzierung zu befürchten;
+- c. die Grundsätze der Haushaltsführung und der Rechnungslegung werden in erheblicher Weise missachtet.
 
-<sup>4</sup> Er kann eine Gemeinde oder einen Zweckverband unter Zwangsverwaltung stellen, wenn die Gemeinde oder der Zweckverband dauernd die rechtlichen Verpflichtungen verletzt, sich den Anordnungen des Regierungsrates beharrlich widersetzt oder durch das Finanzgebaren die Zahlungsfähigkeit ernsthaft gefährdet.
+<sup>3</sup> Gemeinden, welche einmalige oder wiederkehrende Ausgaben oder Einnahmenverzichte planen, die zu einem Anstieg der Verschuldung auf einen kritischen Wert führen könnten, haben diese vorgängig der Aufsichtsstelle zu melden.
 
-<sup>5</sup> Der Regierungsrat ernennt für die Zwangsverwaltung einen oder mehrere Kommissäre und setzt deren Befugnisse fest. Sobald es der Grund der Zwangsverwaltung erlaubt, werden Neuwahlen der Behörden durchgeführt.
+#### Art. 130
 
-#### Art. 143
+**Ersatzvornahme, Amtsenthebung**
+
+<sup>1</sup> Der Regierungsrat kann anstelle eines Gemeindeorgans handeln oder Ersatzvornahmen anordnen. Er kann insbesondere allgemeinverbindliche Vorschriften erlassen, Verträge abschliessen und Beschlüsse über die Rechnung, das Budget und den Steuerfuss fassen.
+
+<sup>2</sup> Er kann ein Mitglied einer kommunalen Behörde des Amtes entheben, wenn aus schwerwiegenden Gründen dessen Verbleiben im Amt den Interessen der Körperschaft schadet.
+
+#### Art. 131
+
+**Zwangsverwaltung**
+
+<sup>1</sup> Der Regierungsrat kann eine Gemeinde unter Zwangsverwaltung stellen, wenn die Gemeinde dauernd die rechtlichen Verpflichtungen verletzt, sich den Anordnungen des Regierungsrates beharrlich widersetzt oder durch das Finanzgebaren die Zahlungsfähigkeit ernsthaft gefährdet.
+
+<sup>2</sup> Er ernennt für die Zwangsverwaltung einen oder mehrere Kommissäre und setzt deren Befugnisse fest. Sobald es der Grund der Zwangsverwaltung erlaubt, werden Neuwahlen der Behörden durchgeführt.
+
+#### Art. 132
 
 **Verfahren; Kosten**
 
-<sup>1</sup> Der Regierungsrat hört die zuständigen Gemeindeorgane an und fordert sie zur Wiederherstellung oder Sicherung der gesetzlichen Ordnung auf.
+<sup>1</sup> Der Regierungsrat hört die zuständigen Organe der Körperschaft an und fordert sie zur Wiederherstellung oder Sicherung der gesetzlichen Ordnung auf.
 
-<sup>2</sup> Er ordnet Zwangsmassnahmen nur soweit und solange an, als sie notwendig sind.
+<sup>2</sup> Er ordnet Zwangsmassnahmen nach den Artikeln 129 und 131 nur soweit und solange an, als sie geeignet und notwendig sind.
 
 <sup>3</sup> Die Gemeinde oder der Zweckverband tragen die Kosten der Massnahmen.
 
-## 8. Rechtsschutz
+## 11. Rechtsschutz
 
-#### Art. 144
+#### Art. 133
 
-**Rechtsschutz der privaten Personen**
+**Aufsichtsbehörden in der Gemeinde**
 
-<sup>1</sup> Gegen Verfügungen, Beschlüsse und Erlasse von Organen der Gemeinde oder einer andern öffentlich-rechtlichen Körperschaft kann jede Person, die ein schutzwürdiges Interesse hat, binnen 30 Tagen nach den Artikeln 85 ff. Verwaltungsrechtspflegegesetz oder nach den Fristen und Verfahren der Spezialgesetze Beschwerde erheben.
+<sup>1</sup> Werden in einer Gemeinde Tatbestände gemäss Artikel 126 Absatz 1 Buchstabe a festgestellt, so veranlasst das zuständige Gemeindeorgan die erforderlichen Abklärungen und trifft die notwendigen Massnahmen.
 
-<sup>2</sup> Wegen der Verletzung des Stimmrechts sowie wegen Unregelmässigkeiten bei der Vorbereitung und der Durchführung von Wahlen und Abstimmungen kann, entsprechend Artikel 72 dieses Gesetzes, nach den Artikeln 114-116 Verwaltungsrechtspflegegesetz binnen zehn Tagen Beschwerde erhoben werden.
+#### Art. 134
 
-#### Art. 145
+**Beschwerde**
 
-**Anzeigen von privaten Personen**
+<sup>1</sup> Der Rechtsschutz gegen Verfügungen, Beschlüsse und Erlasse von Organen der Gemeinde, einer andern öffentlich-rechtlichen Körperschaft oder einer öffentlich-rechtlichen Anstalt sowie dieser gegen sie gerichtete aufsichtsrechtliche Anordnungen bestimmt sich nach dem VRG.
 
-<sup>1</sup> Jede Person kann der Aufsichtsbehörde Tatsachen aus der Führung und Verwaltung einer kommunalen Körperschaft anzeigen, die eine Überprüfung oder ein Einschreiten der Aufsichtsbehörde erfordern.
-
-<sup>2</sup> Die Aufsichtsbehörde bestätigt den Empfang der Anzeige, prüft diese und trifft wenn nötig Massnahmen. Sie erteilt der anzeigenden Person auf jeden Fall einen Bescheid, ausser die Anzeige wäre haltlos oder mutwillig.
-
-#### Art. 146
-
-**Rechtsschutz der Körperschaft**
-
-<sup>1</sup> Eine Gemeinde, ein Zweckverband, eine öffentlich-rechtliche Korporation oder eine selbstständige öffentlich-rechtliche kommunale Anstalt kann gegen aufsichtsrechtliche Anordnungen kantonaler Behörden nach dem Verwaltungsrechtspflegegesetz Beschwerde erheben.
-
-<sup>2</sup> Zuständigkeitskonflikte unter Gemeindebehörden, unter kommunalen Körperschaften und Anstalten oder Zuständigkeitskonflikte zwischen kommunalen Behörden und kantonalen Verwaltungsbehörden entscheidet nach Artikel 12 Verwaltungsrechtspflegegesetz das Verwaltungsgericht.
-
-## 9. Schlussbestimmungen
-
-### 9.1. Übergangsordnung zu den Änderungen vom 4. Mai 2008
-
-#### Art. 147
-
-**Erlass der Gemeindevorschriften**
-
-<sup>1</sup> Die Stimmberechtigten der zusammengelegten Gemeinden (Art. 148 Abs. 1 KV) beschliessen bis spätestens am 30. Juni 2009 an einer ausserordentlichen Gemeindeversammlung über die Gemeindeordnung, die Personal- und Besoldungsvorschriften sowie, unter Vorbehalt von Artikel 148, über Namen und Wappen der zusammengelegten Gemeinde.
-
-<sup>2</sup> Sie können an dieser Versammlung weitere Vorschriften erlassen.
-
-#### Art. 147a
-
-**…**
-
-#### Art. 148
-
-**Vorbereitung der Beschlussfassungen**
-
-<sup>1</sup> Die Vorbereitung der ausserordentlichen Versammlung einschliesslich der Erarbeitung der Vorlagen obliegt den Gemeindepräsidentinnen und Gemeindepräsidenten der zugehörigen bisherigen Gemeinden.
-
-<sup>2</sup> Sie können beschliessen, über Namen und Wappen an der Urne abstimmen zu lassen.
-
-#### Art. 149
-
-**Regeln und Leitung der ausserordentlichen Gemeindeversammlung**
-
-<sup>1</sup> Für die Vorbereitung und Durchführung der ausserordentlichen Gemeindeversammlung und einer allfälligen Urnenabstimmung gelten die Vorschriften des Gemeindegesetzes beziehungsweise des Abstimmungsgesetzes sinngemäss.
-
-<sup>2</sup> Die Leitung der Versammlung steht der Gemeindepräsidentin oder dem Gemeindepräsidenten der einwohnerstärksten bisherigen Gemeinde zu. Allfällige Stellvertretung ist durch die Präsidentin oder den Präsidenten der nächstfolgenden Gemeinde zu gewährleisten.
-
-#### Art. 150
-
-**Behördenmitglieder**
-
-<sup>1</sup> Die Stimmberechtigten der zusammengelegten Gemeinden wählen die Behördenmitglieder für die Amtsperiode 2010/2014 bis spätestens am 30. September 2009.
-
-<sup>2</sup> Diese können die neuen Gemeinden rechtsverbindlich verpflichten und namentlich sämtliche Vorkehrungen treffen, damit die neuen Gemeinden per 1. Januar 2011 ihren Betrieb aufnehmen können.
-
-<sup>3</sup> Sie können den Stimmberechtigten der zusammengelegten Gemeinden weitere Geschäfte unterbreiten.
-
-#### Art. 151
-
-**Anstellung und Aufgaben der neuen Behördenmitglieder**
-
-<sup>1</sup> Die Vorsteherschaften der zusammengelegten Gemeinden sind nach Massgabe der Gemeindeordnungen frühestens per 1. Januar 2010 anzustellen.
-
-<sup>2</sup> Sie übernehmen die bisherigen Gemeinden per 1. Juli 2010 und überführen diese in die neue Struktur.
-
-#### Art. 152
-
-**Weitere Beschlussfassungen der neuen Gemeinden**
-
-<sup>1</sup> Bis spätestens am 30. November 2010 beschliessen die Stimmberechtigten der zusammengelegten Gemeinden über das Budget 2011, den Steuerfuss sowie den Finanzplan.
-
-#### Art. 153
-
-**Gemeindewahlkreise**
-
-<sup>1</sup> Die zusammengelegten Gemeinden bilden für die Wahlen gemäss Artikel 150 einen Wahlkreis.
-
-<sup>2</sup> Die bisherigen Gemeinden führen diese Wahlen gemäss regierungsrätlicher Weisung durch.
-
-#### Art. 154
-
-**Zusammensetzung der Exekutiven; Vertretung der bisherigen Gemeinden**
-
-<sup>1</sup> Die Gemeindeordnung kann vorsehen, dass den bisherigen Gemeinden für die Amtsdauer 2010/2014 mindestens ein Sitz in der Exekutive der zusammengelegten Gemeinde garantiert wird, soweit ihr Bevölkerungsanteil per 31. Dezember 2006 mindestens ein Zwölftel der neuen Gemeinde beträgt.
-
-<sup>2</sup> Erreichen einzelne Gemeinden diesen Anteil nicht, so steht der entsprechende Mindestanspruch diesen als Gruppe zu.
-
-#### Art. 155
-
-**Ergänzendes Übergangsrecht**
-
-<sup>1</sup> Die Übergangsregeln nach Artikel 60 ff. des Sozialhilfegesetzes sowie die Übergangs- und Schlussbestimmungen zum Beschluss über die Kantonalisierung des Sozial- und Vormundschaftswesens gelten analog auch für die Bildung der drei Gemeinden nach Artikel 148 Absatz 1 KV.
-
-<sup>2</sup> Der Regierungsrat ist ermächtigt, weitere Bestimmungen für einen einwandfreien Übergang zu erlassen.
-
-### 9.2. Aufhebung und Änderung bisherigen Rechts, Inkrafttreten
-
-#### Art. 156
-
-**Aufhebung und Änderung bisherigen Rechts**
-
-<sup>1</sup> Das Gesetz vom 6. Mai 1956 über das Gemeinwesen wird aufgehoben.
-
-<sup>2</sup> Geltende Gesetzesbestimmungen werden gemäss besonderer Vorlage angepasst.
-
-#### Art. 157
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt auf den 1. Juli 1994 in Kraft.
-
-SBE V/3 134
+SBE 2025 30
