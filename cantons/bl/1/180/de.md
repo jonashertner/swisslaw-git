@@ -4,13 +4,12 @@ number: "180"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
 short: "Gemeindegesetz, GemG"
 language: de
-version: 2024-08-01
-valid_until: 2025-12-31
-version_adopted: 2022-09-15
+version: 2026-01-01
+version_adopted: 2026-02-12
 adopted: 1970-05-28
 in_force: 1972-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180"
-pdf: "https://bl.clex.ch/api/de/versions/3783/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4466/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3783/pdf_file"
 
 (Gemeindegesetz, GemG)
 
-Vom 28.05.1970 (Stand 01.08.2024)
+Vom 28.05.1970 (Stand 01.01.2026)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -652,6 +651,40 @@ beschliesst:[^ingress-2]
 <sup>3</sup> Jede am Zusammenschluss beteiligte Einwohnergemeinde einigt sich mit den Einwohnergemeinden, mit denen sie gemäss § 34 Absatz 1 bisher zusammengewirkt hat, über die Nebenfolgen der Aufhebung gemäss Absatz 2 Buchstabe b (kurz: Nebenfolgenvertrag).
 
 <sup>4</sup> Kommt keine Einigung zustande, führt die zuständige Direktion ein Einigungsverfahren durch. Ist dieses erfolglos, regelt der Regierungsrat die Nebenfolgen. Sein Entscheid ist endgültig.
+
+#### § 36b
+
+**Unterstützung**
+
+<sup>1</sup> Der Kanton unterstützt die Gemeinden bei Zusammenschlüssen gemäss den §§ 36a, 134a und 185.
+
+<sup>2</sup> Er kann auf Gesuch hin Projektkostenbeiträge für die Vorbereitung von Zusammenschlüssen in der Höhe von 50 % der bei den beteiligten Einwohnergemeinden anfallenden Ausgaben bis zu einem Betrag von maximal CHF 30'000.– pro am Zusammenschlussverfahren beteiligte Einwohnergemeinde ausrichten.
+
+<sup>3</sup> Projektkostenbeiträge werden grundsätzlich nur einmal pro Zusammenschlussverfahren ausgerichtet. Ausnahmsweise können weitere Projektkostenbeiträge ausgerichtet werden, wenn das Zusammenschlussverfahren erheblich länger dauert oder mehr Einwohnergemeinden umfasst, als bei der Einreichung des Gesuchs vorgesehen waren, und die Gewährung den Interessen des Kantons dient.
+
+<sup>4</sup> Er kann auf Gesuch hin Pauschalbeiträge für umgesetzte Zusammenschlüsse von Einwohnergemeinden bis zu einem Betrag von CHF 300'000.– pro am Zusammenschluss beteiligte Einwohnergemeinde ausrichten.
+
+<sup>5</sup> Pauschalbeiträge werden nur einmal pro Zusammenschlussverfahren ausgerichtet.
+
+<sup>6</sup> Waren eine oder mehrere an einem Zusammenschlussverfahren beteiligte Einwohnergemeinden in den dem Gesuch vorangehenden 15 Jahren an einem anderen Zusammenschlussverfahren beteiligt, können die Projektkostenbeiträge und Pauschalbeiträge angemessen reduziert werden.
+
+<sup>7</sup> Die Bestimmungen des Staatsbeitragsgesetzes vom 27. Juni 2019[^36b-1] betreffend Finanzhilfen und der Staatsbeitragsverordnung vom 17. Dezember 2019[^36b-2] betreffend das Verfahren finden sinngemäss Anwendung.
+
+[^36b-1]: [SGS 360](https://bl.clex.ch/data/360/de)
+[^36b-2]: [SGS 360.11](https://bl.clex.ch/data/360.11/de)
+
+#### § 36c
+
+**Zusammenschlussvertrag**
+
+<sup>1</sup> Der Vertrag über den Zusammenschluss regelt insbesondere:
+
+- a. die am Zusammenschluss beteiligten Gemeinden;
+- b. den Namen und das Wappen der zusammengeschlossenen Gemeinde;
+- c. die Gemeindeordnung der zusammengeschlossenen Gemeinde;
+- d. die weitere und übergangsweise Gültigkeit bisheriger Reglemente und Verordnungen;
+- e. die Weiterbeschäftigung der Gemeindeangestellten;
+- f. den Zeitpunkt des Zusammenschlusses.
 
 #### § 37
 
@@ -2801,6 +2834,8 @@ beschliesst:[^ingress-2]
 <sup>3</sup> Die Bürgergemeinde Basel-Olsberg kann sich mit einer anderen basellandschaftlichen Bürgergemeinde zusammenschliessen, wenn dies je 2/3 der Stimmenden an der Urne beschliessen.
 
 <sup>4</sup> Eine Burgergemeinde oder Burgerkorporation und eine Bürgergemeinde derselben Gemeinde wie auch 2 Burgergemeinden der gleichen Gemeinde können sich jederzeit zusammenschliessen, wenn dies je 2/3 der Stimmenden an der Urne beschliessen. Besteht keine Bürgergemeinde, kann sich eine Burgergemeinde oder eine Burgerkorporation mit der Einwohnergemeinde zusammenschliessen, wenn dies je 2/3 der Stimmenden an der Urne beschliessen.
+
+<sup>5</sup> Projektkostenbeiträge und Pauschalbeiträge nach § 36b werden für Zusammenschlussverfahren ausgerichtet, welche am 1. Januar 2026 noch nicht abgeschlossen sind.
 
 [^185-1]: Die Vereinigung zur Einwohnergemeinde Biel-Benken erfolgte durch Volksabstimmungen am 15. November 1970 mit Wirkung ab 1. Januar 1972.
 
