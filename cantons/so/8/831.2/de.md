@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2025-09-01
-valid_until: 2025-12-31
-version_adopted: 2025-05-27
+version: 2026-01-01
+valid_until: 2026-03-31
+version_adopted: 2025-09-23
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5559/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5581/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5559/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.09.2025)
+Vom 29.10.2007 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -950,11 +950,21 @@ beschliesst:
 
 ### 3.5. Alimentenbevorschussung und Inkassohilfe
 
+#### § 78bis
+
+**Erforderliche Mittel und Kostenbeteiligung, § 102 Abs. 6 SG**
+
+<sup>1</sup> Die berechtigte Person verfügt über die erforderlichen Mittel, wenn sie gestützt auf die sinngemäss anwendbaren Kriterien von § 96 SG die Voraussetzungen für die Gewährung der Alimentenbevorschussung nicht erfüllt.
+
+<sup>2</sup> Die Kostenbeteiligung für die Leistungen der Fachstelle beträgt 4% des Inkassoerfolgs, maximal aber 800 Franken pro Jahr. In Härtefällen kann auf die Gebühr verzichtet werden.
+
 #### § 79
 
-**Bevorschussungs- und Inkassostelle, § 99 SG**
+**Zuständige Fachstelle und fachliche Anforderungen, § 104 Abs. 1<sup>bis</sup> SG**
 
-<sup>1</sup> Kantonale Bevorschussungs- und Inkassostelle namens des Departementes ist das Oberamt.
+<sup>1</sup> Zuständige Fachstelle namens des Departementes ist das Oberamt.
+
+<sup>2</sup> Die Mitarbeitenden der Fachstelle haben über einen Abschluss als Alimentenfachperson des Schweizerischen Verbandes für Alimentenfachleute (SVA) oder eine vergleichbare Ausbildung zu verfügen oder eine solche zum nächstmöglichen Zeitpunkt berufsbegleitend zu absolvieren.
 
 ## 4. Unterstützung in Lebens- und Problemlagen
 
