@@ -4,13 +4,13 @@ number: "165.111"
 title: Personal- und Lohnverordnung
 short: PLV
 language: de
-version: 2024-05-01
-valid_until: 2025-12-31
-version_adopted: 2022-11-02
+version: 2026-01-01
+valid_until: 2027-02-28
+version_adopted: 2025-07-02
 adopted: 2000-09-25
 in_force: 2001-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/165.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3588/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3850/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3588/pdf_file"
 
 (PLV)
 
-Vom 25.09.2000 (Stand 01.05.2024)
+Vom 25.09.2000 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -386,7 +386,7 @@ beschliesst:
 - a) Wurden weniger Ferientage bezogen, werden zur Berechnung der Ferientage nach neuem Beschäftigungsgrad die gesamte Sollarbeitszeit der nicht bezogenen Ferientage nach altem Beschäftigungsgrad und der Ferienanspruch nach neuem Beschäftigungsgrad addiert und das Ergebnis durch die tägliche Sollarbeitszeit nach neuem Beschäftigungsgrad dividiert.
 - b) Wurden mehr Ferientage bezogen, wird zur Berechnung der Ferientage nach neuem Beschäftigungsgrad die gesamte Sollarbeitszeit der zu viel bezogenen Ferientage nach altem Beschäftigungsgrad vom Ferienanspruch nach neuem Beschäftigungsgrad subtrahiert und das Ergebnis durch die tägliche Sollarbeitszeit nach neuem Beschäftigungsgrad dividiert.
 
-<sup>3</sup> Die Berechnungen gemäss Absatz 2 erfolgen in Stunden, die Ergebnisse werden mathematisch auf Halbtage aufgerundet.
+<sup>3</sup> Die Berechnungen gemäss Absatz 2 erfolgen in Stunden und Minuten.
 
 <sup>4</sup> Die Änderung des Beschäftigungsgrads darf erst dann vollzogen werden, wenn nach den Berechnungen gemäss den Absätzen 2 und 3 der Ferienanspruch gemäss § 28 Abs. 1 gewährleistet ist.
 
@@ -404,7 +404,9 @@ beschliesst:
 
 <sup>1</sup> Feiertage sind den Wochenendtagen gleichgestellt. Als Feiertage gelten Karfreitag, Ostermontag, Auffahrtstag, Pfingstmontag, sowie Neujahr, Berchtoldstag, Weihnachten, Stephanstag, der Bundesfeiertag und der Nachmittag des 1. Mai.
 
-<sup>2</sup> Der Maienzug Aarau, der Rutenzug Brugg, das Jugendfest Lenzburg, das Kinderfest Zofingen sowie der Verenatag Zurzach gelten ebenfalls als Feiertage. An den anderen Arbeitsorten können die Mitarbeitenden individuell einen zusätzlichen freien Tag beziehen.
+<sup>2</sup> Der Maienzug Aarau, der Rutenzug Brugg, das Jugendfest Lenzburg, das Kinderfest Zofingen sowie der Verenatag Zurzach gelten für die Arbeitsorte in den entsprechenden Bezirken ebenfalls als Feiertage.
+
+<sup>3</sup> Für die von Absatz 2 abweichenden Arbeitsorte legen die Departemente, die Staatskanzlei und die Gerichte einheitlich pro Arbeitsort fest, welcher Tag als zusätzlicher freier Tag für alle Mitarbeitenden, die dort arbeiten, gilt.
 
 #### § 33
 
