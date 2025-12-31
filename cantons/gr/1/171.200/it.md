@@ -1,46 +1,46 @@
 ---
 canton: GR
 number: "171.200"
-title: Legge sui registri degli abitanti
-short: LRAb
+title: "Legge sui registri degli abitanti e su altri registri delle persone e degli oggetti *"
+short: "legge sui registri degli abitanti, LRAb"
 language: it
-version: 2010-12-01
-corrected: 2014-11-29
-version_adopted: 2010-06-15
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2010-06-15
 in_force: 2010-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/171.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1983/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3576/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sui registri degli abitanti (LRAb)
+# Legge sui registri degli abitanti e su altri registri delle persone e degli oggetti
 
-del 15 giugno 2010
+(legge sui registri degli abitanti, LRAb)
 
-Il Gran Consiglio del Cantone dei Grigioni[^t-1],
+del 15.06.2010 (stato 01.01.2026)
 
-visto l'art. 31 cpv. 1 della Costituzione cantonale[^t-2];
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-visto il messaggio del Governo del 2 marzo 2010[^t-3],
+visto l'art. 31 cpv. 1 della Costituzione cantonale[^ingress-2]; visto il messaggio del Governo del 2 marzo 2010[^ingress-3]
 
 decide:
 
-[^t-1]: PGC 2009/2010, 814
-[^t-2]: CSC 110.100
-[^t-3]: Pagina 707
+[^ingress-1]: PGC 2009/2010, 814
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: Pagina 707
 
-### I. Disposizioni generali
+## 1. Disposizioni generali
 
 #### Art. 1
 
 **Scopo**
 
-La presente legge serve all'esecuzione della legge federale sull'armonizzazione dei registri degli abitanti e di altri registri ufficiali di persone[^1-1]. Essa disciplina in particolare la tenuta dei registri degli abitanti comunali, nonché la residenza e il soggiorno.
+<sup>1</sup> La presente legge serve all'esecuzione della legge federale sull'armonizzazione dei registri degli abitanti e di altri registri ufficiali di persone[^1-1]. Essa disciplina in particolare la tenuta dei registri comunali degli abitanti, nonché la residenza e il soggiorno.
 
-[^1-1]: Legge sull'armonizzazione dei registri, RS 431.02 1.1.2011 1
+<sup>2</sup> Essa disciplina inoltre la comunicazione al Cantone di dati dei registri comunali delle persone e degli oggetti, nonché la gestione di una piattaforma di dati cantonale.
+
+[^1-1]: Legge sull'armonizzazione dei registri, RS [431.02](https://db.clex.ch/link/Bund/431.02/it)
 
 #### Art. 2
 
@@ -54,23 +54,20 @@ La presente legge serve all'esecuzione della legge federale sull'armonizzazione 
 
 **Definizioni**
 
-Il significato dei concetti espressi nella presente legge si conforma alle definizioni della legge sull'armonizzazione dei registri e delle relative disposizioni d'esecuzione. In particolare significano:
+<sup>1</sup> Il significato dei concetti espressi nella presente legge si conforma alle definizioni della legge sull'armonizzazione dei registri e delle relative disposizioni d'esecuzione. In particolare significano:
 
 - a) comune di residenza: comune in cui una persona risiede con l'intenzione di stabilirvisi durevolmente per costituirvi il centro della propria vita in modo riconoscibile agli occhi di terzi;
-
 - b) comune di soggiorno: comune in cui una persona dimora per un determinato scopo almeno per 90 giorni consecutivi o per 90 giorni sull'arco di un anno, senza l'intenzione di stabilirvisi durevolmente;
-
 - c) collettività: case per anziani e case di cura; alloggi e case di educazione per fanciulli e adolescenti; internati, nonché case per scolari, apprendisti e studenti; istituti per disabili; ospedali, cliniche e stabilimenti sanitari analoghi; istituti per l'esecuzione delle pene e delle misure; alloggi collettivi per richiedenti l'asilo; conventi e altri alloggi di organizzazioni religiose;
-
 - d) servizi industriali: gestori di diritto privato o pubblico di infrastrutture per l'approvvigionamento idrico ed energetico sul territorio di un comune.
 
 #### Art. 4
 
 **Carattere gratuito**
 
-Se non prescritto altrimenti, le notifiche, il rilascio di informazioni e le trasmissioni di dati secondo la presente legge devono avvenire gratuitamente.
+<sup>1</sup> Se non prescritto altrimenti, le notifiche, il rilascio di informazioni e le trasmissioni di dati secondo la presente legge devono avvenire gratuitamente.
 
-### II. Tenuta dei registri
+## 2. Tenuta dei registri
 
 #### Art. 5
 
@@ -79,7 +76,6 @@ Se non prescritto altrimenti, le notifiche, il rilascio di informazioni e le tra
 <sup>1</sup> I comune tiene:
 
 - a) un registro degli abitanti con le caratteristiche prescritte, relativo a tutte le persone con residenza o soggiorno nel comune;
-
 - b) un registro degli oggetti aggiornato con le caratteristiche del Registro federale degli edifici e delle abitazioni (REA) necessarie per l'attribuzione affidabile dell'identificatore federale delle abitazioni (EWID) alle persone iscritte nel registro degli abitanti.
 
 <sup>2</sup> Il comune tiene i registri in forma elettronica.
@@ -88,13 +84,13 @@ Se non prescritto altrimenti, le notifiche, il rilascio di informazioni e le tra
 
 **Caratteristiche minime**
 
-Le caratteristiche minime da tenere nei registri degli abitanti si conformano al diritto di rango superiore.
+<sup>1</sup> Le caratteristiche minime da tenere nei registri degli abitanti si conformano al diritto di rango superiore.
 
 #### Art. 7
 
 **Caratteristiche supplementari**
 
-Il Governo può stabilire caratteristiche supplementari da tenere nel registro degli abitanti, se esiste una relativa base legale.
+<sup>1</sup> Il Governo può stabilire caratteristiche supplementari da tenere nel registro degli abitanti, se esiste una relativa base legale.
 
 #### Art. 8
 
@@ -109,10 +105,6 @@ Il Governo può stabilire caratteristiche supplementari da tenere nel registro d
 **Registrazione delle caratteristiche**
 
 <sup>1</sup> Quale base per la registrazione delle caratteristiche fungono in primo luogo le iscrizioni nel registro dello stato civile (Infostar), in secondo luogo quelle del Sistema d'informazione centrale sulla migrazione (SIMIC).
-
-**2**
-
-1.1.2011
 
 <sup>2</sup> Per la corretta registrazione delle caratteristiche, il comune può richiedere che la persona in questione presenti i propri documenti ufficiali e non ufficiali e che fornisca informazioni.
 
@@ -130,10 +122,8 @@ Il Governo può stabilire caratteristiche supplementari da tenere nel registro d
 
 <sup>2</sup> Per la tenuta del registro degli oggetti, per la correzione e l'aggiornamento del REA, nonché per la determinazione e la tenuta a giorno dell'EWID, il comune può utilizzare i dati delle autorità e delle istituzioni seguenti:
 
-- a) Ufficio delle stime;
-
+- a) Ufficio per le valutazioni immobiliari;
 - b) uffici del registro fondiario;
-
 - c) servizi industriali.
 
 <sup>3</sup> Su richiesta, i dati devono essere trasmessi al comune. L'accesso ai dati può avvenire tramite una procedura di richiamo.
@@ -142,9 +132,9 @@ Il Governo può stabilire caratteristiche supplementari da tenere nel registro d
 
 **Indicazioni di privati**
 
-In singoli casi, per garantire l'attualità del registro degli oggetti e del REA, nonché per attribuire con sicurezza l'EWID, il comune può richiedere ai proprietari e alle amministrazioni immobiliari indicazioni sulle abitazioni, sugli inquilini e sugli utenti.
+<sup>1</sup> In singoli casi, per garantire l'attualità del registro degli oggetti e del REA, nonché per attribuire con sicurezza l'EWID, il comune può richiedere ai proprietari e alle amministrazioni immobiliari indicazioni sulle abitazioni, sugli inquilini e sugli utenti.
 
-### III. Residenza e soggiorno
+## 3. Residenza e soggiorno
 
 #### Art. 12
 
@@ -159,10 +149,6 @@ In singoli casi, per garantire l'attualità del registro degli oggetti e del REA
 **Obbligo di annunciare l'arrivo e la partenza**
 
 <sup>1</sup> Chi si trasferisce in un comune a scopo di residenza o soggiorno deve annunciarsi al comune entro 14 giorni.
-
-**3**
-
-1.1.2011
 
 <sup>2</sup> Chi trasloca all'interno del comune, deve notificarlo al comune entro 14 giorni. Questo obbligo di notifica vale anche in caso di trasloco o cambiamento di abitazione all'interno dello stesso edificio.
 
@@ -194,7 +180,7 @@ In singoli casi, per garantire l'attualità del registro degli oggetti e del REA
 
 **3. Attività commerciali**
 
-Chi in un comune avvia o liquida un'attività commerciale, deve notificarlo al comune entro 14 giorni.
+<sup>1</sup> Chi in un comune avvia o liquida un'attività commerciale, deve notificarlo al comune entro 14 giorni.
 
 #### Art. 17
 
@@ -206,11 +192,7 @@ Chi in un comune avvia o liquida un'attività commerciale, deve notificarlo al c
 
 <sup>3</sup> Chi parte da un comune ha diritto alla restituzione dei documenti depositati, fatte salve disposizioni di procedura penale.
 
-**4**
-
-1.1.2011
-
-### IV. Numerazione delle abitazioni
+## 4. Numerazione delle abitazioni
 
 #### Art. 18
 
@@ -226,7 +208,7 @@ Chi in un comune avvia o liquida un'attività commerciale, deve notificarlo al c
 
 **REA e registro degli oggetti**
 
-Il numero amministrativo e fisico dell'abitazione va gestito quale caratteristica nel REA e nel registro degli oggetti del comune.
+<sup>1</sup> Il numero amministrativo e fisico dell'abitazione va gestito quale caratteristica nel REA e nel registro degli oggetti del comune.
 
 #### Art. 20
 
@@ -234,10 +216,8 @@ Il numero amministrativo e fisico dell'abitazione va gestito quale caratteristic
 
 <sup>1</sup> Per la prima attribuzione, la gestione e l'aggiornamento del numero ufficiale dell'abitazione, il comune può utilizzare i dati delle autorità e delle istituzioni seguenti:
 
-- a) Ufficio delle stime;
-
+- a) Ufficio per le valutazioni immobiliari;
 - b) uffici del registro fondiario;
-
 - c) servizi industriali.
 
 <sup>2</sup> L'accesso ai dati può avvenire tramite una procedura di richiamo.
@@ -250,7 +230,7 @@ Il numero amministrativo e fisico dell'abitazione va gestito quale caratteristic
 
 **Diritto di accedere e di apporre**
 
-Per effettuare il sopralluogo, le persone incaricate della numerazione sono autorizzate ad accedere agli edifici fino alla porta di ingresso della singola abitazione, nonché ad apporre il numero fisico dell'abitazione all'abitazione stessa o alla bucalettere.
+<sup>1</sup> Per effettuare il sopralluogo, le persone incaricate della numerazione sono autorizzate ad accedere agli edifici fino alla porta di ingresso della singola abitazione, nonché ad apporre il numero fisico dell'abitazione all'abitazione stessa o alla bucalettere.
 
 #### Art. 22
 
@@ -260,10 +240,6 @@ Per effettuare il sopralluogo, le persone incaricate della numerazione sono auto
 
 <sup>2</sup> Se il numero viene danneggiato, cade o diviene illeggibile, devono informare il comune.
 
-**5**
-
-1.1.2011
-
 #### Art. 23
 
 **Comunicazione del numero dell'abitazione e pubblicazione**
@@ -271,13 +247,9 @@ Per effettuare il sopralluogo, le persone incaricate della numerazione sono auto
 <sup>1</sup> Il comune comunica in forma adeguata, e per quanto sensato in forma elettronica, i numeri ufficiali dell'abitazione alle seguenti persone e autorità:
 
 - a) ai proprietari;
-
 - b) alle amministrazioni immobiliari;
-
-- c) all'Ufficio delle stime;
-
+- c) all'Ufficio per le valutazioni immobiliari;
 - d) agli uffici del registro fondiario;
-
 - e) ai servizi industriali.
 
 <sup>2</sup> Il comune pubblica sul Foglio ufficiale l'introduzione della numerazione delle abitazioni.
@@ -288,7 +260,7 @@ Per effettuare il sopralluogo, le persone incaricate della numerazione sono auto
 
 **Contratti di locazione e numero dell'abitazione**
 
-Dal momento dell'introduzione della numerazione delle abitazioni, i locatori devono dotare i contratti di locazione nuovi e quelli modificati del numero dell'abitazione o comunicare quest'ultimo in forma adeguata ai conduttori.
+<sup>1</sup> Dal momento dell'introduzione della numerazione delle abitazioni, i locatori devono dotare i contratti di locazione nuovi e quelli modificati del numero dell'abitazione o comunicare quest'ultimo in forma adeguata ai conduttori.
 
 #### Art. 25
 
@@ -297,9 +269,7 @@ Dal momento dell'introduzione della numerazione delle abitazioni, i locatori dev
 <sup>1</sup> Dal momento dell'introduzione della numerazione delle abitazioni, in caso di nuove costruzioni o di trasformazioni il committente è tenuto a proprie spese:
 
 - a) a numerare secondo il sistema prescritto dal comune le abitazioni sulla documentazione per la domanda di costruzione;
-
 - b) a notificare modifiche a questa numerazione successive alla domanda di costruzione;
-
 - c) in caso di divisione o unione di abitazioni, ad assegnare a tutte le abitazioni interessate nuovi numeri ufficiali dell'abitazione e a notificare tali numeri.
 
 <sup>2</sup> Se il comune prescrive una numerazione fisica, in caso di nuove costruzioni e trasformazioni, non appena le abitazioni sono agibili il committente deve apporre alle unità abitative dell'immobile, a proprie spese, in modo ben visibile e secondo il sistema prescritto, le targhette messe a disposizione gratuitamente dal comune.
@@ -308,41 +278,75 @@ Dal momento dell'introduzione della numerazione delle abitazioni, i locatori dev
 
 **Servizi industriali**
 
-Il comune può prescrivere ai servizi industriali l'utilizzo sul suo territorio del numero ufficiale dell'abitazione.
+<sup>1</sup> Il comune può prescrivere ai servizi industriali l'utilizzo sul suo territorio del numero ufficiale dell'abitazione.
 
-**6**
-
-1.1.2011
-
-### V. Utilizzo dei dati
+## 5. Utilizzo dei dati
 
 #### Art. 27
 
 **Scambio di dati 1. con la Confederazione**
 
-La trasmissione di dati alla Confederazione e lo scambio di dati con essa conformemente al diritto di rango superiore avvengono in forma elettronica tramite la piattaforma informatica e di comunicazione centrale della Confederazione (Sedex).
+<sup>1</sup> La trasmissione di dati alla Confederazione e lo scambio di dati con essa conformemente al diritto di rango superiore avvengono in forma elettronica tramite la piattaforma informatica e di comunicazione centrale della Confederazione (Sedex).
 
 #### Art. 28
 
 **2. tra i comuni**
 
-In caso di partenza, trasloco e arrivo di persone con residenza o soggiorno, i comuni scambiano i relativi dati fra i propri registri degli abitanti direttamente tramite Sedex.
+<sup>1</sup> In caso di partenza, trasloco e arrivo di persone con residenza o soggiorno, i comuni scambiano i relativi dati fra i propri registri degli abitanti direttamente tramite Sedex.
 
 #### Art. 29
 
 **3. con il Cantone**
 
-<sup>1</sup> Il comune trasmette al Cantone i dati dei loro registri delle persone e degli oggetti. Il Governo disciplina l'indennità per le trasmissioni di dati che superano quelle alla Confederazione.
+<sup>1</sup> Il comune trasmette al Cantone i dati dei suoi registri delle persone e degli oggetti. Il Governo disciplina la forma e la periodicità, nonché l'indennità per le trasmissioni di dati che superano quelle alla Confederazione.
 
-<sup>3</sup> A questo scopo, il Cantone può gestire una piattaforma dati.
+<sup>2</sup> …
 
-<sup>3</sup> I dati possono essere utilizzati solo per valutazioni statistiche e per altri scopi previsti dalla legislazione. I dati vanno anonimizzati appena lo scopo dell'elaborazione lo consente.
+<sup>3</sup> …
 
 #### Art. 30
 
 **4. con i servizi industriali**
 
-Il comune può comunicare dati ai servizi industriali per quanto ciò serva all'esercizio dell'infrastruttura sul suo territorio comunale. Ciò può avvenire tramite una procedura di richiamo e dietro indennizzo.
+<sup>1</sup> Il comune può comunicare dati ai servizi industriali per quanto ciò serva all'esercizio dell'infrastruttura sul suo territorio comunale. Ciò può avvenire tramite una procedura di richiamo e dietro indennizzo.
+
+#### Art. 30a
+
+**Piattaforma di dati 1. Registro delle persone e degli oggetti**
+
+<sup>1</sup> Il Cantone può gestire una piattaforma di dati che consiste segnatamente in un registro centrale delle persone e in un registro centrale degli oggetti.
+
+<sup>2</sup> Il registro centrale delle persone contiene i dati dei registri comunali degli abitanti, nonché di altri registri comunali, cantonali e federali delle persone.
+
+<sup>3</sup> Il registro centrale degli oggetti contiene i dati dei registri degli oggetti comunali, cantonali e federali.
+
+<sup>4</sup> I dati del registro centrale delle persone e degli oggetti possono essere collegati fra loro.
+
+#### Art. 30b
+
+**2. Scopo e accesso**
+
+<sup>1</sup> I dati del registro centrale delle persone e degli oggetti servono al Cantone e ai comuni per l'adempimento dei compiti loro attribuiti dalla legge e per analisi statistiche.
+
+<sup>2</sup> I servizi del Cantone possono accedere ai dati di cui necessitano per adempiere i compiti loro attribuiti dalla legge.
+
+<sup>3</sup> Il Governo designa gli istituti di diritto pubblico del Cantone che sono autorizzati ad accedere ai dati di cui necessitano per adempiere i compiti loro attribuiti dalla legge.
+
+<sup>4</sup> Il Governo concede ad autorità comunali il diritto d'accesso ai dati che concernono il loro territorio e di cui necessitano per adempiere i compiti loro attribuiti dalla legge.
+
+<sup>5</sup> L'accesso conformemente ai capoversi 2, 3 e 4 può avvenire tramite una procedura di richiamo.
+
+<sup>6</sup> Il Governo disciplina l'estensione dell'accesso dei servizi e delle autorità aventi diritto, nonché l'indennità. In caso di utilizzo abusivo dei dati, esso revoca il diritto d'accesso.
+
+#### Art. 30c
+
+**3. Ulteriori disposizioni**
+
+<sup>1</sup> I dati vanno anonimizzati appena lo scopo dell'elaborazione lo consente.
+
+<sup>2</sup> Gli accessi ai dati personali vanno documentati e controllati.
+
+<sup>3</sup> Il Governo disciplina i dettagli relativi a standard tecnici, prescrizioni organizzative minime e obblighi di partecipazione dei servizi e delle autorità aventi diritto d'accesso.
 
 #### Art. 31
 
@@ -356,13 +360,11 @@ Il comune può comunicare dati ai servizi industriali per quanto ciò serva all'
 
 **Protezione dei dati**
 
-<sup>1</sup> Su richiesta, il comune fornisce informazioni sul nome, sull'anno di nascita e sull'indirizzo di singole persone tenute nel registro degli abitanti. Qualora questi dati vengano utilizzati esclusivamente per scopi ideali e non vengano trasmessi a terzi, possono essere resi noti tramite elenchi. <sup>+2</sup> Il comune può comunicare altri dati riguardanti singole persone tenute nel registro degli abitanti, se è dimostrato un interesse legittimo.
+<sup>1</sup> Su richiesta, il comune fornisce informazioni sul nome, sull'anno di nascita e sull'indirizzo di singole persone tenute nel registro degli abitanti. Qualora questi dati vengano utilizzati esclusivamente per scopi ideali e non vengano trasmessi a terzi, possono essere resi noti tramite elenchi.
 
-<sup>3</sup> È fatto salvo il diritto di bloccare la trasmissione di dati.
+<sup>2</sup> Il comune può comunicare altri dati riguardanti singole persone tenute nel registro degli abitanti, se è dimostrato un interesse legittimo.
 
-**7**
-
-1.1.2011
+<sup>3</sup> È fatto salvo il diritto all'opposizione alla comunicazione di dati personali conformemente alla legge cantonale sulla protezione dei dati[^32-1].
 
 <sup>4</sup> È vietata la trasmissione sistematica di dati a scopi di pubblicità commerciale.
 
@@ -372,7 +374,9 @@ Il comune può comunicare dati ai servizi industriali per quanto ciò serva all'
 
 <sup>7</sup> Il comune può riscuotere una tassa per informazioni dal registro degli abitanti.
 
-### VI. Soggiorno statistico
+[^32-1]: CSC [171.100](https://www.gr-lex.gr.ch/data/171.100/it)
+
+## 6. Soggiorno statistico
 
 #### Art. 33
 
@@ -386,73 +390,49 @@ Il comune può comunicare dati ai servizi industriali per quanto ciò serva all'
 
 **Obbligo di annunciare l'arrivo e la partenza**
 
-Il Governo disciplina gli obblighi di annunciare l'arrivo e la partenza per le persone con soggiorno statistico.
+<sup>1</sup> Il Governo disciplina gli obblighi di annunciare l'arrivo e la partenza per le persone con soggiorno statistico.
 
 #### Art. 35
 
 **Registrazione**
 
-Il Governo disciplina la registrazione del soggiorno statistico da parte del comune, in considerazione dei requisiti minimi dell'UST.
+<sup>1</sup> Il Governo disciplina la registrazione del soggiorno statistico da parte del comune, in considerazione dei requisiti minimi dell'UST.
 
 #### Art. 36
 
 **Obbligo di annuncio per responsabili di collettività**
 
-Il Governo disciplina gli obblighi di annuncio dei responsabili delle collettività che costituiscono un soggiorno statistico per i loro ospiti.
+<sup>1</sup> Il Governo disciplina gli obblighi di annuncio dei responsabili delle collettività che costituiscono un soggiorno statistico per i loro ospiti.
 
 #### Art. 37
 
 **Trasmissione dei dati alla Confederazione**
 
-Il Governo disciplina la trasmissione dei dati concernenti le persone con soggiorno statistico, in considerazione dei requisiti minimi dell'UST.
+<sup>1</sup> Il Governo disciplina la trasmissione dei dati concernenti le persone con soggiorno statistico, in considerazione dei requisiti minimi dell'UST.
 
-### VII. Disposizioni finali
+## 7. Disposizioni finali
 
 #### Art. 38
 
 **Pena**
 
-<sup>1</sup> Chi infrange prescrizioni della presente legge viene punito dal comune con la multa fino a 2 000 franchi.
+<sup>1</sup> Chi infrange prescrizioni della presente legge viene punito dal comune con la multa fino a 2000 franchi.
 
 <sup>2</sup> In casi di lieve entità è possibile pronunciare un ammonimento o prescindere da un'azione penale.
-
-**8**
-
-1.1.2011
 
 #### Art. 39
 
 **Abrogazione del diritto previgente**
 
-Con l'entrata in vigore della presente legge è abrogata la legge sul domicilio degli Svizzeri del 20 maggio 1984<sup>5)</sup>.
+<sup>1</sup> Con l'entrata in vigore della presente legge è abrogata la legge sul domicilio degli Svizzeri del 20 maggio 1984[^39-1].
+
+[^39-1]: AGS 1984, 1289
 
 #### Art. 40
 
-**Modifica del diritto previgente**
+**Modifica del diritto previgente[^40-1]**
 
-Le seguenti leggi sono modificate come segue:
-
-- 1\. Legge d'introduzione alle leggi federali sull'assicurazione per la vecchiaia e per i superstiti e sull'assicurazione per l'invalidità (LI alle LAVS/LAI;
-
-### CSC 544.000)
-
-### III. Utilizzo del numero d'assicurato
-
-#### Art. 15a
-
-**Numero d'assicurato**
-
-Il Governo può autorizzare o imporre ad autorità e ad altri servizi incaricati di eseguire il diritto federale, cantonale o comunale l'utilizzo sistematico del numero d'assicurato conformemente al diritto di rango superiore<sup>6)</sup>.
-
-IV. Disposizioni finali
-
-- 2\. Legge d'applicazione della legislazione federale sugli stranieri e sull'asilo (LAdLSA; CSC 618.100)
-
-#### Art. 6
-
-**cpv. 2**
-
-<sup>2</sup> Un cambiamento di indirizzo all'interno del luogo di residenza deve essere notificato all'autorità competente entro 14 giorni.
+[^40-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 41
 
@@ -460,10 +440,8 @@ IV. Disposizioni finali
 
 <sup>1</sup> La presente legge è soggetta a referendum facoltativo.
 
-<sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore della presente legge <sup>7)</sup>.
+<sup>2</sup> Il Governo stabilisce la data dell'entrata in vigore della presente legge[^41-1].
 
-## Altre note
+[^41-1]: Posta in vigore il 1° dicembre 2010 con DG del 26 ottobre 2010
 
-- [2] AGS 1984, 1289
-- [3] Art. 50c segg. LAVS; RS 831.10
-- [4] Posta in vigore il 1° dicembre 2010 con DG del 26 ottobre 2010 1.1.2011 9
+-

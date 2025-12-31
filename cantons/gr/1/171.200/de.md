@@ -1,44 +1,46 @@
 ---
 canton: GR
 number: "171.200"
-title: Gesetz über die Einwohnerregister
+title: Gesetz über die Einwohnerregister und weitere Personen- und Objektregister
 short: "Einwohnerregistergesetz, ERG"
 language: de
-version: 2010-12-01
-corrected: 2014-11-29
-version_adopted: 2010-06-15
+version: 2026-01-01
+version_adopted: 2025-02-10
 adopted: 2010-06-15
 in_force: 2010-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/171.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1983/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3576/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Einwohnerregister (Einwohnerregistergesetz, ERG)
+# Gesetz über die Einwohnerregister und weitere Personen- und Objektregister
 
-Vom 15. Juni 2010
+(Einwohnerregistergesetz, ERG)
 
-Der Grosse Rat des Kantons Graubünden[^t-1],
+Vom 15.06.2010 (Stand 01.01.2026)
 
-gestützt auf Art. 31 Abs. 1 der Kantonsverfassung[^t-2], nach Einsicht in die Botschaft der Regierung vom 2. März 2010[^t-3],
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
+
+gestützt auf Art. 31 Abs. 1 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 2. März 2010[^ingress-3],
 
 beschliesst:
 
-[^t-1]: GRP 2009/2010, 814
-[^t-2]: BR 110.100
-[^t-3]: Seite 707
+[^ingress-1]: GRP 2009/2010, 814
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 707
 
-### I. Allgemeine Bestimmungen
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck**
 
-Dieses Gesetz dient dem Vollzug des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister[^1-1]. Es regelt insbesondere die Führung der kommunalen Einwohnerregister sowie die Niederlassung und den Aufenthalt.
+<sup>1</sup> Dieses Gesetz dient dem Vollzug des Bundesgesetzes über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister. Es regelt insbesondere die Führung der kommunalen Einwohnerregister sowie die Niederlassung und den Aufenthalt.
 
-[^1-1]: Registerharmonisierungsgesetz, SR 431.02 1.01.2011 1
+<sup>2</sup> Es regelt zudem die Bekanntgabe von Daten aus den kommunalen Personen- und Objektregistern an den Kanton und den Betrieb einer kantonalen Datenplattform.
 
 #### Art. 2
 
@@ -52,23 +54,20 @@ Dieses Gesetz dient dem Vollzug des Bundesgesetzes über die Harmonisierung der 
 
 **Begriffe**
 
-Die Bedeutung der Begriffe in diesem Gesetz richtet sich nach den Begriffsbestimmungen im Registerharmonisierungsgesetz und den dazugehörigen Ausführungserlassen. Insbesondere bedeuten:
+<sup>1</sup> Die Bedeutung der Begriffe in diesem Gesetz richtet sich nach den Begriffsbestimmungen im Registerharmonisierungsgesetz und den dazugehörigen Ausführungserlassen. Insbesondere bedeuten:
 
 - a) Niederlassungsgemeinde: Gemeinde, in der sich eine Person in der Absicht dauernden Verbleibens aufhält, um dort den Mittelpunkt ihres Lebens zu begründen, welcher für Dritte erkennbar sein muss;
-
 - b) Aufenthaltsgemeinde: Gemeinde, in der sich eine Person zu einem bestimmten Zweck ohne Absicht dauernden Verbleibens mindestens während 90 aufeinanderfolgender Tage oder 90 Tagen innerhalb eines Jahres aufhält;
-
 - c) Kollektivhaushalt: Alters- und Pflegeheime; Wohn- und Erziehungsheime für Kinder und Jugendliche; Internate sowie Schüler-, Lehrlings- und Studentenwohnheime; Institutionen für Behinderte; Spitäler, Heilstätten und ähnliche Institutionen im Gesundheitsbereich; Institutionen des Straf- und Massnahmenvollzugs; Gemeinschaftsunterkünfte für Asylsuchende; Klöster und andere Unterkünfte religiöser Vereinigungen;
-
 - d) Industrielle Werke: Privatrechtliche oder öffentlich-rechtliche Betreiber von Infrastruktur zur Wasser- und Energieversorgung auf dem Gebiet einer Gemeinde.
 
 #### Art. 4
 
 **Unentgeltlichkeit**
 
-Meldungen, Erteilen von Auskünften und Liefern von Daten gemäss diesem Gesetz haben unentgeltlich zu erfolgen, sofern es nicht anders vorgeschrieben wird.
+<sup>1</sup> Meldungen, Erteilen von Auskünften und Liefern von Daten gemäss diesem Gesetz haben unentgeltlich zu erfolgen, sofern es nicht anders vorgeschrieben wird.
 
-### II. Führung der Register
+## 2. Führung der Register
 
 #### Art. 5
 
@@ -77,7 +76,6 @@ Meldungen, Erteilen von Auskünften und Liefern von Daten gemäss diesem Gesetz 
 <sup>1</sup> Die Gemeinde führt:
 
 - a) ein Einwohnerregister über sämtliche Personen mit Niederlassung oder Aufenthalt in der Gemeinde mit den vorgeschriebenen Merkmalen;
-
 - b) ein aktuelles Objektregister mit den notwendigen Merkmalen des eidgenössischen Gebäude- und Wohnungsregisters (GWR) zur zuverlässigen Zuweisung des eidgenössischen Wohnungsidentifikators (EWID) zu den im Einwohnerregister geführten Personen.
 
 <sup>2</sup> Die Gemeinde führt die Register elektronisch.
@@ -86,13 +84,13 @@ Meldungen, Erteilen von Auskünften und Liefern von Daten gemäss diesem Gesetz 
 
 **Minimale Merkmale**
 
-Die in den Einwohnerregistern im Minimum zu führenden Merkmale richten sich nach übergeordnetem Recht.
+<sup>1</sup> Die in den Einwohnerregistern im Minimum zu führenden Merkmale richten sich nach übergeordnetem Recht.
 
 #### Art. 7
 
 **Zusätzliche Merkmale**
 
-Die Regierung kann zusätzliche im Einwohnerregister zu führende Merkmale festlegen, soweit dazu eine gesetzliche Grundlage besteht.
+<sup>1</sup> Die Regierung kann zusätzliche im Einwohnerregister zu führende Merkmale festlegen, soweit dazu eine gesetzliche Grundlage besteht.
 
 #### Art. 8
 
@@ -101,10 +99,6 @@ Die Regierung kann zusätzliche im Einwohnerregister zu führende Merkmale festl
 <sup>1</sup> Die Gemeinde kann zur Erfüllung ihrer gesetzlichen Aufgaben weitere im Einwohnerregister zu führende Merkmale festlegen.
 
 <sup>2</sup> Die Regierung kann die Auswahl der fakultativen Merkmale einschränken.
-
-**2**
-
-1.01.2011
 
 #### Art. 9
 
@@ -128,10 +122,8 @@ Die Regierung kann zusätzliche im Einwohnerregister zu führende Merkmale festl
 
 <sup>2</sup> Für die Führung des Objektregisters, die Bereinigung und Aktualisierung des GWR sowie die Bestimmung und Nachführung des EWID darf die Gemeinde die Daten folgender Behörden und Institutionen verwenden:
 
-- a) Amt für Schätzungswesen;
-
+- a) Amt für Immobilienbewertung;
 - b) Grundbuchämter;
-
 - c) industrielle Werke.
 
 <sup>3</sup> Die Daten sind der Gemeinde auf Anfrage zu übermitteln. Der Datenzugang kann durch ein Abrufverfahren erfolgen.
@@ -140,9 +132,9 @@ Die Regierung kann zusätzliche im Einwohnerregister zu führende Merkmale festl
 
 **Angaben von Privaten**
 
-Die Gemeinde kann in Einzelfällen zur Sicherstellung der Aktualität des Objektregisters und des GWR sowie zur sicheren Zuweisung des EWID von den Eigentümerinnen beziehungsweise Eigentümern und Liegenschaftsverwaltungen Angaben über die Wohnungen, Bewohnenden und Nutzenden verlangen.
+<sup>1</sup> Die Gemeinde kann in Einzelfällen zur Sicherstellung der Aktualität des Objektregisters und des GWR sowie zur sicheren Zuweisung des EWID von den Eigentümerinnen beziehungsweise Eigentümern und Liegenschaftsverwaltungen Angaben über die Wohnungen, Bewohnenden und Nutzenden verlangen.
 
-### III. Niederlassung und Aufenthalt
+## 3. Niederlassung und Aufenthalt
 
 #### Art. 12
 
@@ -151,10 +143,6 @@ Die Gemeinde kann in Einzelfällen zur Sicherstellung der Aktualität des Objekt
 <sup>1</sup> Der Wohnsitz befindet sich in der Niederlassungsgemeinde (Hauptwohnsitz, Niederlassung).
 
 <sup>2</sup> Eine Person kann neben der Niederlassungsgemeinde eine oder mehrere Aufenthaltsgemeinden haben (Nebenwohnsitz, Aufenthalt).
-
-**3**
-
-1.01.2011
 
 #### Art. 13
 
@@ -192,7 +180,7 @@ Die Gemeinde kann in Einzelfällen zur Sicherstellung der Aktualität des Objekt
 
 **3. Gewerbe**
 
-Wer in einer Gemeinde ein nach kaufmännischer Art geführtes Gewerbe eröffnet oder aufgibt, hat dies innert 14 Tagen der Gemeinde zu melden.
+<sup>1</sup> Wer in einer Gemeinde ein nach kaufmännischer Art geführtes Gewerbe eröffnet oder aufgibt, hat dies innert 14 Tagen der Gemeinde zu melden.
 
 #### Art. 17
 
@@ -202,13 +190,9 @@ Wer in einer Gemeinde ein nach kaufmännischer Art geführtes Gewerbe eröffnet 
 
 <sup>2</sup> Wer sich in einer Gemeinde zwecks Aufenthalts anmeldet, hat den Wohnsitzausweis zu hinterlegen.
 
-**4**
-
-1.01.2011
-
 <sup>3</sup> Wer aus einer Gemeinde wegzieht, hat vorbehaltlich strafprozessualer Bestimmungen Anspruch auf Erstattung der hinterlegten Schriften.
 
-### IV. Wohnungsnummerierung
+## 4. Wohnungsnummerierung
 
 #### Art. 18
 
@@ -224,7 +208,7 @@ Wer in einer Gemeinde ein nach kaufmännischer Art geführtes Gewerbe eröffnet 
 
 **GWR und Objektregister**
 
-Die administrative oder physische Wohnungsnummer ist als Merkmal im GWR und im Objektregister der Gemeinde zu führen.
+<sup>1</sup> Die administrative oder physische Wohnungsnummer ist als Merkmal im GWR und im Objektregister der Gemeinde zu führen.
 
 #### Art. 20
 
@@ -232,10 +216,8 @@ Die administrative oder physische Wohnungsnummer ist als Merkmal im GWR und im O
 
 <sup>1</sup> Für die Erstvergabe, Pflege und Nachführung der amtlichen Wohnungsnummer darf die Gemeinde die Daten folgender Behörden und Institutionen verwenden:
 
-- a) Amt für Schätzungswesen;
-
+- a) Amt für Immobilienbewertung;
 - b) Grundbuchämter;
-
 - c) industrielle Werke.
 
 <sup>2</sup> Der Datenzugang kann durch ein Abrufverfahren erfolgen.
@@ -248,11 +230,7 @@ Die administrative oder physische Wohnungsnummer ist als Merkmal im GWR und im O
 
 **Zutritts- und Anbringungsrecht**
 
-Die mit der Nummerierung beauftragten Personen dürfen für die Begehung vor Ort die Gebäude bis zur Eingangstüre der einzelnen Wohnung betreten sowie die physische Wohnungsnummer an der Wohnung oder am Briefkasten anbringen.
-
-**5**
-
-1.01.2011
+<sup>1</sup> Die mit der Nummerierung beauftragten Personen dürfen für die Begehung vor Ort die Gebäude bis zur Eingangstüre der einzelnen Wohnung betreten sowie die physische Wohnungsnummer an der Wohnung oder am Briefkasten anbringen.
 
 #### Art. 22
 
@@ -269,13 +247,9 @@ Die mit der Nummerierung beauftragten Personen dürfen für die Begehung vor Ort
 <sup>1</sup> Die Gemeinde teilt die amtlichen Wohnungsnummern den folgenden Personen und Behörden in geeigneter Weise und soweit sinnvoll elektronisch mit:
 
 - a) den Eigentümerinnen und Eigentümern;
-
 - b) den Liegenschaftsverwaltungen;
-
-- c) dem Amt für Schätzungswesen;
-
+- c) dem Amt für Immobilienbewertung;
 - d) den Grundbuchämtern;
-
 - e) den industriellen Werken.
 
 <sup>2</sup> Die Gemeinde publiziert die Einführung der Wohnungsnummerierung im Amtsblatt.
@@ -286,7 +260,7 @@ Die mit der Nummerierung beauftragten Personen dürfen für die Begehung vor Ort
 
 **Mietverträge und Wohnungsnummer**
 
-Ab Einführung der Wohnungsnummerierung haben Vermietende neu abgeschlossene und geänderte Mietverträge mit der Wohnungsnummer zu versehen oder diese den Mietenden in anderer geeigneter Form mitzuteilen.
+<sup>1</sup> Ab Einführung der Wohnungsnummerierung haben Vermietende neu abgeschlossene und geänderte Mietverträge mit der Wohnungsnummer zu versehen oder diese den Mietenden in anderer geeigneter Form mitzuteilen.
 
 #### Art. 25
 
@@ -295,52 +269,84 @@ Ab Einführung der Wohnungsnummerierung haben Vermietende neu abgeschlossene und
 <sup>1</sup> Ab Einführung der Wohnungsnummerierung ist die Bauherrschaft bei Neu- und Umbauten auf eigene Kosten verpflichtet:
 
 - a) die Wohnungen nach dem von der Gemeinde vorgegebenen System auf den Unterlagen für die Baueingabe zu nummerieren;
-
 - b) Änderungen an dieser Nummerierung nach der Baueingabe zu melden;
-
 - c) bei Wohnungsteilungen oder Wohnungszusammenlegungen allen betroffenen Wohnungen neue amtliche Wohnungsnummern zuzuteilen und diese zu melden.
 
 <sup>2</sup> Schreibt die Gemeinde eine physische Nummerierung vor, so hat die Bauherrschaft auf eigene Kosten bei Neu- und Umbauten die von der Gemeinde unentgeltlich zur Verfügung gestellten Nummernschilder gut sichtbar und nach dem vorgegebenen System an den Wohnungseinheiten ihrer Liegenschaft anzubringen, sobald die Wohnungen bezugsbereit sind.
-
-**6**
-
-1.01.2011
 
 #### Art. 26
 
 **Industrielle Werke**
 
-Die Gemeinde kann den industriellen Werken auf ihrem Gebiet die Verwendung der amtlichen Wohnungsnummer vorschreiben.
+<sup>1</sup> Die Gemeinde kann den industriellen Werken auf ihrem Gebiet die Verwendung der amtlichen Wohnungsnummer vorschreiben.
 
-### V. Nutzung der Daten
+## 5. Nutzung der Daten
 
 #### Art. 27
 
 **Datenaustausch 1. mit dem Bund**
 
-Die Datenlieferung an den und der Datenaustausch mit dem Bund gemäss übergeordnetem Recht erfolgen elektronisch über die zentrale Informatik- und Kommunikationsplattform des Bundes (Sedex).
+<sup>1</sup> Die Datenlieferung an den und der Datenaustausch mit dem Bund gemäss übergeordnetem Recht erfolgen elektronisch über die zentrale Informatik- und Kommunikationsplattform des Bundes (Sedex).
 
 #### Art. 28
 
 **2. zwischen den Gemeinden**
 
-Bei Weg-, Um- und Zuzügen von Personen mit Niederlassung oder Aufenthalt tauschen die Gemeinden die entsprechenden Daten zwischen ihren Einwohnerregistern direkt über Sedex aus.
+<sup>1</sup> Bei Weg-, Um- und Zuzügen von Personen mit Niederlassung oder Aufenthalt tauschen die Gemeinden die entsprechenden Daten zwischen ihren Einwohnerregistern direkt über Sedex aus.
 
 #### Art. 29
 
 **3. mit dem Kanton**
 
-<sup>1</sup> Die Gemeinde liefert dem Kanton die Daten ihrer Personen- und Objektregister. Die Regierung regelt die Entschädigung für Datenlieferungen, welche diejenigen an den Bund übertreffen.
+<sup>1</sup> Die Gemeinde liefert dem Kanton die Daten ihrer Personen- und Objektregister. Die Regierung regelt die Form und die Periodizität sowie die Entschädigung für Datenlieferungen, welche diejenigen an den Bund übertreffen.
 
-<sup>2</sup> Der Kanton kann dafür eine Datenplattform betreiben.
+<sup>2</sup> …
 
-<sup>3</sup> Die Daten dürfen nur für statistische Auswertungen und weitere von der Gesetzgebung vorgesehene Zwecke verwendet werden. Die Daten sind zu anonymisieren, sobald es der Zweck des Bearbeitens erlaubt.
+<sup>3</sup> …
 
 #### Art. 30
 
 **4. mit den industriellen Werken**
 
-Die Gemeinde kann den industriellen Werken Daten bekanntgeben, soweit dies dem Betrieb der Infrastruktur auf ihrem Gemeindegebiet dient. Dies kann durch ein Abrufverfahren und gegen Entgelt erfolgen.
+<sup>1</sup> Die Gemeinde kann den industriellen Werken Daten bekanntgeben, soweit dies dem Betrieb der Infrastruktur auf ihrem Gemeindegebiet dient. Dies kann durch ein Abrufverfahren und gegen Entgelt erfolgen.
+
+#### Art. 30a
+
+**Datenplattform 1. Personen- und Objektregister**
+
+<sup>1</sup> Der Kanton kann eine Datenplattform betreiben, welche namentlich aus einem zentralen Personen- und einem zentralen Objektregister besteht.
+
+<sup>2</sup> Das zentrale Personenregister enthält Daten der kommunalen Einwohnerregister sowie weiterer kommunaler, kantonaler und eidgenössischer Personenregister.
+
+<sup>3</sup> Das zentrale Objektregister enthält Daten der kommunalen, kantonalen und der eidgenössischen Objektregister.
+
+<sup>4</sup> Die Daten des zentralen Personen- und Objektregisters können miteinander verknüpft werden.
+
+#### Art. 30b
+
+**2. Zweck und Zugriff**
+
+<sup>1</sup> Die Daten des zentralen Personen- und Objektregisters dienen dem Kanton und den Gemeinden zur Erfüllung ihrer gesetzlichen Aufgaben und zu statistischen Auswertungen.
+
+<sup>2</sup> Die Dienststellen des Kantons erhalten Zugriff auf die Daten, welche sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+
+<sup>3</sup> Die Regierung bezeichnet die öffentlich-rechtlichen Anstalten des Kantons, welche Zugriff auf die Daten erhalten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+
+<sup>4</sup> Die Regierung gewährt Gemeindebehörden Zugriff auf die Daten, die ihr Gebiet betreffen und die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+
+<sup>5</sup> Der Zugriff gemäss den Absätzen 2, 3 und 4 kann durch ein Abrufverfahren erfolgen.
+
+<sup>6</sup> Die Regierung regelt den Umfang des Zugriffs der berechtigten Stellen und Behörden sowie die Entschädigung. Sie entzieht die Zugriffsberechtigung bei missbräuchlicher Datenverwendung.
+
+#### Art. 30c
+
+**3. Weitere Bestimmungen**
+
+<sup>1</sup> Die Daten sind zu anonymisieren, sobald es der Zweck des Bearbeitens erlaubt.
+
+<sup>2</sup> Die Zugriffe auf Personendaten sind zu protokollieren und zu überprüfen.
+
+<sup>3</sup> Die Regierung regelt die Details über technische Standards, organisatorische Mindestvorgaben und die Mitwirkungspflichten der zugriffsberechtigten Stellen und Behörden.
 
 #### Art. 31
 
@@ -354,19 +360,11 @@ Die Gemeinde kann den industriellen Werken Daten bekanntgeben, soweit dies dem B
 
 **Datenschutz**
 
-<sup>1</sup> Auf Anfrage gibt die Gemeinde Auskunft über Name, Jahrgang und Adresse einzelner Personen, die im Einwohnerregister geführt werden. Werden diese Daten ausschliesslich für ideelle Zwecke verwendet und nicht
-
-**7**
-
-**Datenlieferung an den Bund**
-
-**8**
-
-1.01.2011 an Dritte weitergegeben, so können sie listenmässig bekanntgegeben werden.
+<sup>1</sup> Auf Anfrage gibt die Gemeinde Auskunft über Name, Jahrgang und Adresse einzelner Personen, die im Einwohnerregister geführt werden. Werden diese Daten ausschliesslich für ideelle Zwecke verwendet und nicht an Dritte weitergegeben, so können sie listenmässig bekanntgegeben werden.
 
 <sup>2</sup> Weitere Daten über einzelne im Einwohnerregister geführte Personen kann die Gemeinde mitteilen, wenn ein berechtigtes Interesse glaubhaft gemacht wird.
 
-<sup>3</sup> Das Sperrrecht bleibt vorbehalten.
+<sup>3</sup> Das Recht auf Widerspruch gegen die Bekanntgabe von Personendaten gemäss dem Kantonalen Datenschutzgesetz[^32-1] bleibt vorbehalten.
 
 <sup>4</sup> Die systematische Weitergabe von Daten zu wirtschaftlichen Werbezwecken ist verboten.
 
@@ -376,7 +374,9 @@ Die Gemeinde kann den industriellen Werken Daten bekanntgeben, soweit dies dem B
 
 <sup>7</sup> Die Gemeinde kann für Auskünfte aus dem Einwohnerregister eine Gebühr erheben.
 
-### VI. Statistischer Aufenthalt
+[^32-1]: BR [171.100](https://www.gr-lex.gr.ch/data/171.100/de)
+
+## 6. Statistischer Aufenthalt
 
 #### Art. 33
 
@@ -390,31 +390,33 @@ Die Gemeinde kann den industriellen Werken Daten bekanntgeben, soweit dies dem B
 
 **An- und Abmeldepflicht**
 
-Die Regierung regelt die An- und Abmeldepflichten für Personen mit statistischem Aufenthalt.
+<sup>1</sup> Die Regierung regelt die An- und Abmeldepflichten für Personen mit statistischem Aufenthalt.
 
 #### Art. 35
 
 **Erfassung**
 
-Die Regierung regelt die Erfassung des statistischen Aufenthalts durch die Gemeinde in Berücksichtigung der Mindestanforderungen des BFS.
+<sup>1</sup> Die Regierung regelt die Erfassung des statistischen Aufenthalts durch die Gemeinde in Berücksichtigung der Mindestanforderungen des BFS.
 
 #### Art. 36
 
 **Meldepflicht für Leitende von Kollektivhaushalten**
 
-Die Regierung regelt die Meldepflichten der Leiterinnen und Leiter von Kollektivhaushalten, welche statistischen Aufenthalt ihrer Bewohnenden begründen.
+<sup>1</sup> Die Regierung regelt die Meldepflichten der Leiterinnen und Leiter von Kollektivhaushalten, welche statistischen Aufenthalt ihrer Bewohnenden begründen.
 
 #### Art. 37
 
-1.01.2011 Die Regierung regelt in Berücksichtigung der Mindestanforderungen des BFS die Lieferung der Daten betreffend Personen mit statistischem Aufenthalt.
+**Datenlieferung an den Bund**
 
-### VII. Schlussbestimmungen
+<sup>1</sup> Die Regierung regelt in Berücksichtigung der Mindestanforderungen des BFS die Lieferung der Daten betreffend Personen mit statistischem Aufenthalt.
+
+## 7. Schlussbestimmungen
 
 #### Art. 38
 
 **Strafe**
 
-<sup>1</sup> Wer Vorschriften dieses Gesetzes verletzt, wird von der Gemeinde mit Busse bis zu 2 000 Franken bestraft.
+<sup>1</sup> Wer Vorschriften dieses Gesetzes verletzt, wird von der Gemeinde mit Busse bis zu 2000 Franken bestraft.
 
 <sup>2</sup> In leichten Fällen kann eine Verwarnung ausgesprochen oder von einer Strafverfolgung abgesehen werden.
 
@@ -422,39 +424,15 @@ Die Regierung regelt die Meldepflichten der Leiterinnen und Leiter von Kollektiv
 
 **Aufhebung bisherigen Rechts**
 
-Mit dem Inkrafttreten dieses Gesetzes wird das Gesetz über die Niederlassung der Schweizer vom 20. Mai 1984[^39-1] aufgehoben.
+<sup>1</sup> Mit dem Inkrafttreten dieses Gesetzes wird das Gesetz über die Niederlassung der Schweizer vom 20. Mai 1984[^39-1] aufgehoben.
 
 [^39-1]: AGS 1984, 1289
 
 #### Art. 40
 
-**Änderung bisherigen Rechts**
+**Änderung bisherigen Rechts[^40-1]**
 
-Nachfolgende Gesetze werden wie folgt geändert:
-
-- 1\. Einführungsgesetz zu den Bundesgesetzen über die
-
-### Alters- und Hinterlassenenversicherung und die Invalidenversicherung (EGzAHVG/IVG; BR 544.000)
-
-### III. Verwendung der Versichertennummer
-
-#### Art. 15a
-
-**Versichertennummer**
-
-Die Regierung kann Behörden und weitere Stellen, die mit dem Vollzug von eidgenössischem, kantonalem oder kommunalen Recht betraut sind, zur systematischen Verwendung der Versichertennummer gemäss übergeordnetem Recht[^15a-1] berechtigen und verpflichten.
-
-[^15a-1]: Art. 50c ff. AHVG; SR 831.10 1.01.2011 9
-
-### IV. Schlussbestimmungen
-
-- 2\. Einführungsgesetz zur Ausländer- und Asylgesetzgebung des Bundes (EGzAAG; BR 618.100)
-
-#### Art. 6
-
-**Absatz 2**
-
-<sup>2</sup> Ein Adresswechsel innerhalb des Wohnortes ist der zuständigen Behörde innert 14 Tagen zu melden.
+[^40-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
 #### Art. 41
 
@@ -464,8 +442,6 @@ Die Regierung kann Behörden und weitere Stellen, die mit dem Vollzug von eidgen
 
 <sup>2</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes[^41-1].
 
-[^41-1]: AGS 1984, 1289
+[^41-1]: Mit RB vom 26. Oktober 2010 auf den 1. Dezember 2010 in Kraft gesetzt.
 
-## Weitere Fussnoten
-
-- [3] Mit RB vom 26. Oktober 2010 auf den 1. Dezember 2010 in Kraft gesetzt. 10 1.01.2011
+-
