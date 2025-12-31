@@ -3,20 +3,19 @@ canton: LU
 number: "64"
 title: Verordnung über die Prüfung der Betreibungs- und Konkursbeamten sowie der Sachwalter
 language: de
-version: 2013-06-01
-valid_until: 2025-12-31
-version_adopted: 2013-03-26
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 1996-11-11
 in_force: 1997-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/64"
-pdf: "https://srl.lu.ch/api/de/versions/2260/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4603/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Prüfung der Betreibungs- und Konkursbeamten sowie der Sachwalter
 
-vom 11.11.1996 (Stand 01.06.2013)
+vom 11.11.1996 (Stand 01.01.2026)
 
 Das Obergericht des Kantons Luzern,
 
@@ -56,7 +55,7 @@ beschliesst:
 - b. eine Bescheinigung der Handlungsfähigkeit,
 - c. ein Auszug aus dem Strafregister,
 - d. ein Auszug aus dem Betreibungsregister über die letzten fünf Jahre,
-- e. die Quittung der kantonalen Gerichtskasse über die Bezahlung der Prüfungsgebühr.
+- e. die Quittung des Finanz- und Rechnungswesens Gerichte (FRG) über die Bezahlung der Prüfungsgebühr.
 
 <sup>5</sup> Das Kantonsgericht entscheidet über das Gesuch und überweist bei Zulassung die Akten dem Präsidenten oder der Präsidentin der Prüfungskommission.
 
