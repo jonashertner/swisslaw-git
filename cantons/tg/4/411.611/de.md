@@ -4,13 +4,12 @@ number: "411.611"
 title: Verordnung zum Gesetz über Beitragsleistungen an die Schulgemeinden
 short: Beitragsverordnung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-12-10
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2010-09-28
 in_force: 2011-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.611"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2865/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2992/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Beitragsverordnung
 
 (Beitragsverordnung)
 
-vom 28.09.2010 (Stand 01.01.2025)
+vom 28.09.2010 (Stand 01.01.2026)
 
 ## 1. Beiträge an den Besoldungsaufwand
 
@@ -35,7 +34,7 @@ vom 28.09.2010 (Stand 01.01.2025)
 
 <sup>2</sup> Der Regierungsrat legt die durchschnittliche Lehrerbesoldung pro Lektion jährlich fest.
 
-<sup>3</sup> Die durchschnittliche Lehrerbesoldung pro Lektion erhöht sich um 19.5 % zur Deckung der Besoldungsnebenkosten und um weitere 2 % zur Finanzierung der Stellvertretung.
+<sup>3</sup> Die durchschnittliche Lehrerbesoldung pro Lektion erhöht sich um 19.3 % zur Deckung der Besoldungsnebenkosten und um weitere 2 % zur Finanzierung der Stellvertretung.
 
 #### § 2
 
@@ -112,7 +111,7 @@ vom 28.09.2010 (Stand 01.01.2025)
 
 <sup>2</sup> Der Investitionswert ergibt sich aus dem Richtraumprogramm. Das Departement legt ihn zur Berechnung der Abschreibung und Verzinsung pro Schülerin oder Schüler für eine durchschnittliche Schulgemeinde fest.
 
-<sup>3</sup> Die Abschreibungsdauer beträgt linear 33 Jahre. Der Zinssatz liegt bei 1.5 %. Der Gebäudeunterhalt wird mit 3 % des Investitionswertes in der Betriebspauschale berücksichtigt.
+<sup>3</sup> Die Abschreibungsdauer beträgt linear 33 Jahre. Der Zinssatz liegt bei 1.25 %. Der Gebäudeunterhalt wird mit 3 % des Investitionswertes in der Betriebspauschale berücksichtigt.
 
 <sup>4</sup> Das Departement erlässt eine Richtlinie über die Schulbauten.
 
@@ -122,9 +121,9 @@ vom 28.09.2010 (Stand 01.01.2025)
 
 <sup>1</sup> Die Betriebspauschale beträgt pro Schülerin oder Schüler:
 
-- 1\. Kindergarten: — Fr. 5'000
-- 2\. Primarschule: — Fr. 7'300
-- 3\. Sekundarschule: — Fr. 9'900
+- 1\. Kindergarten: — Fr. 5'800
+- 2\. Primarschule: — Fr. 8'200
+- 3\. Sekundarschule: — Fr. 10'300
 
 ## 3. Weitere Leistungen
 
