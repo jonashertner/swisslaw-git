@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2025-10-01
+version: 2026-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Oktober 2025)
+vom 30. März 1911 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2180,6 +2180,10 @@ Eine Vereinbarung über Aufhebung oder Beschränkung der Gewährspflicht ist ung
 
 <sup>3</sup> Ergeben sich später solche Mängel, so muss die Anzeige sofort nach der Entdeckung erfolgen, widrigenfalls die Sache auch rücksichtlich dieser Mängel als genehmigt gilt.
 
+<sup>4</sup> Soweit Mängel einer Sache, die bestimmungsgemäss in ein unbewegliches Werk integriert worden ist, die Mangelhaftigkeit des Werks verursacht haben, sind diese innert 60 Tagen anzuzeigen. Mängel, die bei der übungsgemässen Untersuchung nicht erkennbar waren, sind innert 60 Tagen nach ihrer Entdeckung anzuzeigen. Die Vereinbarung kürzerer Fristen ist unwirksam.[^201-1]
+
+[^201-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### b. Beim Viehhandel
 
 #### Art. 202
@@ -2429,13 +2433,35 @@ Für die Veräusserung von landwirtschaftlichen Grundstücken gilt zudem das Bun
 
 ### D. Gewährleistung
 
+### I. Für das Mass
+
+[^part2-tit6-chap3-lvlD-lvlI-1]
+
+[^part2-tit6-chap3-lvlD-lvlI-1]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 #### Art. 219
 
 <sup>1</sup> Der Verkäufer eines Grundstückes hat unter Vorbehalt anderweitiger Abrede dem Käufer Ersatz zu leisten, wenn das Grundstück nicht das Mass besitzt, das im Kaufvertrag angegeben ist.
 
 <sup>2</sup> Besitzt ein Grundstück nicht das im Grundbuch auf Grund amtlicher Vermessung angegebene Mass, so hat der Verkäufer dem Käufer nur dann Ersatz zu leisten, wenn er die Gewährleistung hiefür ausdrücklich übernommen hat.
 
-<sup>3</sup> Die Pflicht zur Gewährleistung für die Mängel eines Gebäudes verjährt mit dem Ablauf von fünf Jahren, vom Erwerb des Eigentums an gerechnet.
+<sup>3</sup> …[^219-1]
+
+[^219-1]: Aufgehoben durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), mit Wirkung seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
+### II. Mängelrüge, unentgeltliche Verbesserung und Verjährung
+
+#### Art. 219a
+
+[^219a-1]
+
+<sup>1</sup> Die Frist für die Mängelrüge beträgt beim Grundstückkauf 60 Tage. Mängel, die bei der übungsgemässen Untersuchung nicht erkennbar waren, sind innert 60 Tagen nach ihrer Entdeckung anzuzeigen. Die Vereinbarung kürzerer Fristen ist unwirksam.
+
+<sup>2</sup> Der Käufer eines Grundstücks mit einer Baute, die noch zu errichten ist oder weniger als zwei Jahre vor dem Verkauf neu errichtet wurde, kann auch unentgeltliche Verbesserung verlangen. Dieser Anspruch untersteht den Bestimmungen über den Werkvertrag.
+
+<sup>3</sup> Die Ansprüche des Käufers wegen Mängeln des Grundstücks verjähren mit Ablauf von fünf Jahren nach dem Erwerb des Eigentums. Die Verjährungsfrist kann nicht zu Lasten des Käufers abgeändert werden.
+
+[^219a-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### E. Nutzen und Gefahr
 
@@ -6132,7 +6158,16 @@ Durch den Werkvertrag verpflichtet sich der Unternehmer zur Herstellung eines We
 
 <sup>1</sup> Nach Ablieferung des Werkes hat der Besteller, sobald es nach dem üblichen Geschäftsgange tunlich ist, dessen Beschaffenheit zu prüfen und den Unternehmer von allfälligen Mängeln in Kenntnis zu setzen.
 
+<sup>1bis</sup>
+
+Die Frist für die Mängelrüge beträgt bei einem unbeweglichen Werk 60 Tage. Die Vereinbarung einer kürzeren Frist ist unwirksam. Dasselbe gilt für die folgenden Mängel eines Werks, die die Mangelhaftigkeit eines unbeweglichen Werks verursacht haben:
+
+- a. Mängel eines beweglichen Werks, das bestimmungsgemäss in das unbewegliche Werk integriert worden ist;
+- b. Mängel eines Werks, das von einem Architekten oder Ingenieur erstellt und bestimmungsgemäss als Grundlage für die Erstellung des unbeweglichen Werks verwendet worden ist.[^367-1]
+
 <sup>2</sup> Jeder Teil ist berechtigt, auf seine Kosten eine Prüfung des Werkes durch Sachverständige und die Beurkundung des Befundes zu verlangen.
+
+[^367-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Recht des Bestellers bei Mängeln
 
@@ -6140,9 +6175,14 @@ Durch den Werkvertrag verpflichtet sich der Unternehmer zur Herstellung eines We
 
 <sup>1</sup> Leidet das Werk an so erheblichen Mängeln oder weicht es sonst so sehr vom Vertrage ab, dass es für den Besteller unbrauchbar ist oder dass ihm die Annahme billigerweise nicht zugemutet werden kann, so darf er diese verweigern und bei Verschulden des Unternehmers Schadenersatz fordern.
 
-<sup>2</sup> Sind die Mängel oder die Abweichungen vom Vertrage minder erheblich, so kann der Besteller einen dem Minderwerte des Werkes entsprechenden Abzug am Lohne machen oder auch, sofern dieses dem Unternehmer nicht übermässige Kosten verursacht, die unentgeltliche Verbesserung des Werkes und bei Verschulden Schadenersatz verlangen.
+<sup>2</sup> Sind die Mängel oder die Abweichungen vom Vertrage minder erheblich, so kann der Besteller einen dem Minderwerte des Werkes entsprechenden Abzug am Lohne machen oder auch, sofern dieses dem Unternehmer nicht übermässige Kosten verursacht, die unentgeltliche Verbesserung des Werkes und bei Verschulden Schadenersatz verlangen. Im Falle der unentgeltlichen Verbesserung gilt Artikel 366 Absatz 2 sinngemäss.[^368-1]
+
+<sup>2bis</sup> Eine zum Voraus getroffene Verabredung, wonach der Anspruch auf unentgeltliche Verbesserung eingeschränkt oder ausgeschlossen wird, ist ungültig, wenn der Mangel eine Baute betrifft.[^368-2]
 
 <sup>3</sup> Bei Werken, die auf dem Grund und Boden des Bestellers errichtet sind und ihrer Natur nach nur mit unverhältnismässigen Nachteilen entfernt werden können, stehen dem Besteller nur die im zweiten Absatz dieses Artikels genannten Rechte zu.
+
+[^368-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^368-2]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### c. Verantwortlichkeit des Bestellers
 
@@ -6160,6 +6200,15 @@ Die dem Besteller bei Mangelhaftigkeit des Werkes gegebenen Rechte fallen dahin,
 
 <sup>3</sup> Treten die Mängel erst später zu Tage, so muss die Anzeige sofort nach der Entdeckung erfolgen, widrigenfalls das Werk auch rücksichtlich dieser Mängel als genehmigt gilt.
 
+<sup>4</sup>
+
+Mängel eines unbeweglichen Werks, die bei der Abnahme und ordnungsmässigen Prüfung nicht erkennbar waren, sind innert 60 Tagen nach ihrer Entdeckung anzuzeigen. Die Vereinbarung kürzerer Fristen ist unwirksam. Dasselbe gilt für die folgenden Mängel eines Werks, die die Mangelhaftigkeit eines unbeweglichen Werks verursacht haben:
+
+- a. Mängel eines beweglichen Werks, das bestimmungsgemäss in das unbewegliche Werk integriert worden ist;
+- b. Mängel eines Werks, das von einem Architekten oder Ingenieur erstellt und bestimmungsgemäss als Grundlage für die Erstellung des unbeweglichen Werks verwendet worden ist.[^370-1]
+
+[^370-1]: Eingefügt durch Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### e. Verjährung
 
 #### Art. 371
@@ -6170,9 +6219,10 @@ Die dem Besteller bei Mangelhaftigkeit des Werkes gegebenen Rechte fallen dahin,
 
 <sup>2</sup> Die Ansprüche des Bestellers eines unbeweglichen Werkes wegen allfälliger Mängel des Werkes verjähren gegen den Unternehmer sowie gegen den Architekten oder den Ingenieur, die zum Zwecke der Erstellung Dienste geleistet haben, mit Ablauf von fünf Jahren seit der Abnahme des Werkes.
 
-<sup>3</sup> Im Übrigen kommen die Regeln für die Verjährung der entsprechenden Ansprüche des Käufers sinngemäss zur Anwendung.
+<sup>3</sup> Die Verjährungsfrist von fünf Jahren kann nicht zu Lasten des Bestellers abgeändert werden. Im Übrigen kommen die Regeln für die Verjährung der entsprechenden Ansprüche des Käufers sinngemäss zur Anwendung.[^371-2]
 
 [^371-1]: Fassung gemäss Ziff. I des BG vom 16. März 2012 (Verjährungsfristen der Gewährleistungsansprüche. Verlängerung und Koordination), in Kraft seit 1. Jan. 2013 ([AS 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [BBl 2011 2889](https://fedlex.data.admin.ch/eli/fga/2011/424)[3903](https://fedlex.data.admin.ch/eli/fga/2011/597)).
+[^371-2]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2024 (Baumängel), in Kraft seit 1. Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### II. Pflichten des Bestellers
 
@@ -8963,7 +9013,7 @@ Im Konkurse des Kommanditärs haben weder die Gesellschaftsgläubiger noch die G
 
 <sup>1</sup> Die Aktien dürfen nur zum Nennwert oder zu einem diesen übersteigenden Betrage ausgegeben werden. Vorbehalten bleibt die Ausgabe neuer Aktien, die an Stelle ausgefallener Aktien treten.
 
-<sup>2 e <sup>3</sup></sup> …[^624-1]
+<sup>2 und <sup>3</sup></sup> …[^624-1]
 
 [^624-1]: Aufgehoben durch Ziff. I des BG vom 4. Okt. 1991, mit Wirkung seit 1. Juli 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 

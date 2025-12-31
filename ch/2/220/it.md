@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2025-10-01
+version: 2026-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° ottobre 2025)
+del 30 marzo 1911 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -2185,6 +2185,10 @@ Nel commercio del bestiame (cavalli, asini, muli, bovini, pecore, capre e maiali
 
 <sup>3</sup> Ove tali difetti si scoprano più tardi, dev’esserne data notizia subito dopo la scoperta, altrimenti la cosa si ritiene accettata anche rispetto ai medesimi.
 
+<sup>4</sup> Se i difetti di una cosa integrata in un’opera immobiliare conformemente all’uso cui è normalmente destinata hanno causato i difetti dell’opera, il compratore deve darne notizia entro 60 giorni. Dei difetti non riconoscibili mediante l’ordinario esame deve dare notizia entro 60 giorni dalla loro scoperta. La pattuizione di termini più brevi è inefficace.[^201-1]
+
+[^201-1]: Introdotzo dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+
 ### b. Nel commercio del bestiame
 
 #### Art. 202
@@ -2432,7 +2436,11 @@ L’alienazione di fondi agricoli è inoltre retta dalla legge federale del 4 ot
 [^218-1]: Nuovo testo giusta l’art. 92 n.2 della LF del 4 ott. 1991 sul diritto fondiario rurale, in vigore dal 1° gen. 1994 ([RU 1993 1410](https://fedlex.data.admin.ch/eli/oc/1993/1410_1410_1410); [FF 1988 III 821](https://fedlex.data.admin.ch/eli/fga/1988/3_953_889_821)).
 [^218-2]: [RS 211.412.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5757)
 
-### D. Garanzia
+### D. Garanzia I. Per la misura
+
+[^part2-tit6-chap3-lvlD-1]
+
+[^part2-tit6-chap3-lvlD-1]: Nuovo testo giusta la cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
 
 #### Art. 219
 
@@ -2440,7 +2448,23 @@ L’alienazione di fondi agricoli è inoltre retta dalla legge federale del 4 ot
 
 <sup>2</sup> Se il fondo non ha la misura indicata dal registro fondiario in base ai rilievi ufficiali, il venditore non ha l’obbligo del risarcimento se non in quanto avesse espressamente stipulato tale garanzia.
 
-<sup>3</sup> L’obbligo di garanzia per i difetti di un fabbricato si prescrive col decorso di cinque anni dall’acquisto della proprietà.
+<sup>3</sup> ...[^219-1]
+
+[^219-1]: Abrogato dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), con effetto dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+
+### II. Avviso relativo ai difetti, riparazione gratuita e prescrizione
+
+#### Art. 219a
+
+[^219-2]
+
+<sup>1</sup> Il termine per dare notizia dei difetti in caso di compera di un fondo è di 60 giorni. Dei difetti non riconoscibili mediante l’ordinario esame deve essere data notizia entro 60 giorni dalla loro scoperta. La pattuizione di termini più brevi è inefficace.
+
+<sup>2</sup> Il compratore di un fondo con una costruzione ancora da realizzare o realizzata meno di due anni prima della vendita può anche chiederne la riparazione gratuita. Questo diritto è retto dalle disposizioni sul contratto d’appalto.
+
+<sup>3</sup> L’obbligo di garanzia per i difetti del fondo si prescrive in cinque anni dal trapasso della proprietà. Il termine di prescrizione non può essere modificato a svantaggio del compratore.
+
+[^219-2]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
 
 ### E. Utili e rischi
 
@@ -6124,7 +6148,16 @@ L’appalto è un contratto per cui l’appaltatore si obbliga a compiere un’o
 
 <sup>1</sup> Seguita la consegna dell’opera il committente, appena lo consenta l’ordinario corso degli affari, deve verificare lo stato e segnalarne all’appaltatore i difetti.
 
+<sup>1bis</sup>
+
+Nel caso di un’opera immobiliare il termine per segnalare i difetti è di 60 giorni. La pattuizione di termini più brevi è inefficace. Lo stesso vale per i seguenti difetti che abbiano causato i difetti dell’opera immobiliare:
+
+- a. difetti di un’opera mobiliare integrata nell’opera immobiliare conformemente all’uso cui è normalmente destinata;
+- b. difetti di un’opera eseguita da un architetto o da un ingegnere e che conformemente all’uso cui è normalmente destinata funge da base per la realizzazione dell’opera immobiliare.[^367-1]
+
 <sup>2</sup> Ciascuno dei contraenti ha diritto di chiedere a sue spese la verificazione dell’opera a mezzo di periti e la dichiarazione di collaudo.
+
+[^367-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
 
 ### b. Diritto del committente in caso di difetti
 
@@ -6132,9 +6165,14 @@ L’appalto è un contratto per cui l’appaltatore si obbliga a compiere un’o
 
 <sup>1</sup> Se l’opera è così difettosa o difforme dal contratto, che riesca inservibile pel committente, o che non si possa equamente pretenderne dal medesimo l’accettazione, egli può ricusarla e chiederne inoltre, quando siavi colpa dell’appaltatore, il risarcimento dei danni.
 
-<sup>2</sup> Qualora i difetti o le difformità dal contratto siano di minore entità, il committente può diminuire la mercede in proporzione del minor valore dell’opera, o chiedere, se ciò non cagioni all’appaltatore spese esorbitanti, la riparazione gratuita dell’opera e nel caso di colpa anche il risarcimento dei danni.
+<sup>2</sup> Qualora i difetti o le difformità dal contratto siano di minore entità, il committente può diminuire la mercede in proporzione del minor valore dell’opera, o chiedere, se ciò non cagioni all’appaltatore spese esorbitanti, la riparazione gratuita dell’opera e nel caso di colpa anche il risarcimento dei danni. Alla riparazione gratuita si applica per analogia l’articolo 366 capoverso 2.[^368-1]
+
+<sup>2bis</sup> È nullo il patto avente per scopo di limitare o escludere preventivamente il diritto alla riparazione gratuita se riguarda il difetto di una costruzione.[^368-2]
 
 <sup>3</sup> Quando si tratti di opere eseguite sul fondo del committente e che per loro natura non potrebbero essere rimosse senza gravissimo pregiudizio, il committente non ha che i diritti menzionati nel secondo capoverso di questo articolo.
+
+[^368-1]: Per. introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+[^368-2]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
 
 ### c. Responsabilità del committente
 
@@ -6152,6 +6190,15 @@ Il committente non può far valere i diritti accordatigli in caso di opera difet
 
 <sup>3</sup> Ove i difetti si manifestassero soltanto più tardi, dovrà esserne dato avviso tosto che siano scoperti; altrimenti l’opera si ritiene approvata nonostante i difetti stessi.
 
+<sup>4</sup>
+
+Dei difetti dell’opera immobiliare irriconoscibili coll’ordinaria verificazione all’atto del ricevimento il committente deve dare avviso entro 60 giorni dalla loro scoperta. La pattuizione di termini più brevi è inefficace. Lo stesso vale per i seguenti difetti che abbiano causato i difetti dell’opera immobiliare:
+
+- a. difetti di un’opera mobiliare integrata nell’opera immobiliare conformemente all’uso cui è normalmente destinata;
+- b. difetti di un’opera eseguita da un architetto o da un ingegnere e che conformemente all’uso cui è normalmente destinata funge da base per la realizzazione dell’opera immobiliare.[^370-1]
+
+[^370-1]: Introdotto dalla cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
+
 ### e. Prescrizione
 
 #### Art. 371
@@ -6162,9 +6209,10 @@ Il committente non può far valere i diritti accordatigli in caso di opera difet
 
 <sup>2</sup> I diritti del committente per i difetti di un’opera immobiliare si prescrivono in cinque anni dalla consegna della stessa tanto contro l’appaltatore quanto contro l’architetto o l’ingegnere che hanno prestato lavoro nell’esecuzione dell’opera.
 
-<sup>3</sup> Per il resto si applicano per analogia le norme relative alla prescrizione dei corrispondenti diritti del compratore.
+<sup>3</sup> Il termine di prescrizione di cinque anni non può essere modificato a svantaggio del committente. Per il resto si applicano per analogia le norme relative alla prescrizione dei corrispondenti diritti del compratore.[^371-2]
 
 [^371-1]: Nuovo testo giusta la cifra I della LF del 16 mar. 2012 (Prescrizione della garanzia per i difetti. Prolungamento e coordinamento), in vigore dal 1° gen. 2013 ([RU 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [FF 2011 2629](https://fedlex.data.admin.ch/eli/fga/2011/424)[3547](https://fedlex.data.admin.ch/eli/fga/2011/597)).
+[^371-2]: Nuovo testo giusta la cifra I della LF del 20 dic. 2024 (Difetti di costruzione), in vigore dal 1° gen. 2026 ([RU 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743))
 
 ### II. Obblighi del committente
 

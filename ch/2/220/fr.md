@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2025-10-01
+version: 2026-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (État le 1<sup>er</sup> octobre 2025)
+du 30 mars 1911 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2188,6 +2188,10 @@ Toute clause qui supprime ou restreint la garantie est nulle si le vendeur a fra
 
 <sup>3</sup> Si des défauts de ce genre se révèlent plus tard, ils doivent être signalés immédiatement; sinon, la chose est tenue pour acceptée, même avec ces défauts.
 
+<sup>4</sup> Si les défauts de la chose intégrée dans un ouvrage immobilier conformément à l’usage auquel elle est normalement destinée sont à l’origine des défauts de l’ouvrage, ils doivent être signalés dans les 60 jours. Les défauts qui ne pouvaient être découverts lors des vérifications usuelles doivent être signalés dans les 60 jours suivant leur découverte. Toute convention imposant des délais plus courts est nulle.[^201-1]
+
+[^201-1]: Introduit par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### b. Dans le commerce du bétail
 
 #### Art. 202
@@ -2441,13 +2445,35 @@ L’aliénation des immeubles agricoles est en outre régie par la loi fédéral
 
 ### D. Garantie
 
+### I. Contenance
+
+[^part2-tit6-chap3-lvlE-1]
+
+[^part2-tit6-chap3-lvlE-1]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 #### Art. 219
 
 <sup>1</sup> Sauf convention contraire, le vendeur est tenu d’indemniser l’acheteur lorsque l’immeuble n’a pas la contenance indiquée dans l’acte de vente.
 
 <sup>2</sup> Si l’immeuble vendu n’a pas la contenance portée au registre foncier d’après une mensuration officielle, le vendeur n’est tenu d’indemniser l’acheteur que lorsqu’il s’y est expressément obligé.
 
-<sup>3</sup> L’action en garantie pour les défauts d’un bâtiment se prescrit par cinq ans à compter du transfert de propriété.
+<sup>3</sup> …[^220-1]
+
+[^220-1]: Abrogé par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
+### II. Avis des défauts, réparation sans frais et prescription
+
+#### Art. 219a
+
+[^219a-1]
+
+<sup>1</sup> L’acheteur de l’immeuble dispose de 60 jours pour signaler les défauts au vendeur. S’agissant des défauts qu’il ne pouvait découvrir à l’aide des vérifications usuelles, il dispose de 60 jours à compter de leur découverte pour les signaler. Toute convention imposant des délais plus courts est nulle.
+
+<sup>2</sup> L’acheteur d’un immeuble qui comprend une construction devant encore être érigée ou ayant été érigée moins de deux ans avant la vente peut de plus exiger que le vendeur répare les défauts à ses frais. Ce droit est soumis aux dispositions sur le contrat d’entreprise.
+
+<sup>3</sup> L’action en garantie pour les défauts de l’immeuble se prescrit par cinq ans à compter du transfert de propriété. Le délai de prescription ne peut pas être modifié au détriment de l’acheteur.
+
+[^219a-1]: Introduit par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### E. Profits et risques
 
@@ -3384,7 +3410,7 @@ Les majorations de loyer sont nulles lorsque:
 
 <sup>5</sup> Pour la notification des majorations de loyer prévues dans une convention au sens de l’art. 269*c*, la forme écrite suffit.[^269d-2]
 
-[^269d-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Droit du bail: règles de forme), en vigueur depuis le 1<sup>er</sup> oct. 2025 (RO **20****2****5** 197; FF **20****22** 2100, 2624).
+[^269d-1]: Introduit par le ch. I de la LF du 29 sept. 2023 (Droit du bail: règles de forme), en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); [FF 2022 2100](https://fedlex.data.admin.ch/eli/fga/2022/2100), [2624](https://fedlex.data.admin.ch/eli/fga/2022/2624)).
 [^269d-2]: Introduit par le ch. I de la LF du 29 sept. 2023 (Droit du bail: règles de forme), en vigueur depuis le 1<sup>er</sup> oct. 2025 ([RO 2025 197](https://fedlex.data.admin.ch/eli/oc/2025/197); [FF 2022 2100](https://fedlex.data.admin.ch/eli/fga/2022/2100), [2624](https://fedlex.data.admin.ch/eli/fga/2022/2624)).
 
 ### E. Contestation du loyer
@@ -6139,7 +6165,16 @@ Le contrat d’entreprise est un contrat par lequel une des parties (l’entrepr
 
 <sup>1</sup> Après la livraison de l’ouvrage, le maître doit en vérifier l’état aussitôt qu’il le peut d’après la marche habituelle des affaires, et en signaler les défauts à l’entrepreneur, s’il y a lieu.
 
+<sup>1bis</sup>
+
+Dans le cas d’un ouvrage immobilier, il dispose de 60 jours pour les signaler à l’entrepreneur. Toute convention imposant un délai plus court est nulle. Les mêmes règles s’appliquent aux défauts suivants s’ils sont à l’origine des défauts d’un ouvrage immobilier:
+
+- a. défauts d’un ouvrage mobilier intégré dans un ouvrage immobilier conformément à l’usage auquel il est normalement destiné;
+- b. défauts d’un ouvrage conçu par un architecte ou un ingénieur et servant, conformément à l’usage auquel il est normalement destiné, de base pour la construction de l’ouvrage immobilier.[^367-1]
+
 <sup>2</sup> Chacune des parties a le droit de demander, à ses frais, que l’ouvrage soit examiné par des experts et qu’il soit dressé acte de leurs constatations.
+
+[^367-1]: Introduit par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Droits du maître en cas d’exécution défectueuse de l’ouvrage
 
@@ -6147,9 +6182,15 @@ Le contrat d’entreprise est un contrat par lequel une des parties (l’entrepr
 
 <sup>1</sup> Lorsque l’ouvrage est si défectueux ou si peu conforme à la convention que le maître ne puisse en faire usage ou être équitablement contraint à l’accepter, le maître a le droit de le refuser et, si l’entrepreneur est en faute, de demander des dommages-intérêts.
 
-<sup>2</sup> Lorsque les défauts de l’ouvrage ou les infractions au contrat sont de moindre importance, le maître peut réduire le prix en proportion de la moins-value, ou obliger l’entrepreneur à réparer l’ouvrage à ses frais si la réfection est possible sans dépenses excessives; le maître a, de plus, le droit de demander des dommages-intérêts lorsque l’entrepreneur est en faute.
+<sup>2</sup> Lorsque les défauts de l’ouvrage ou les infractions au contrat sont de moindre importance, le maître peut réduire le prix en proportion de la moins-value, ou obliger l’entrepreneur à réparer l’ouvrage à ses frais si la réfection est possible sans dépenses excessives; le maître a, de plus, le droit de demander des dommages-intérêts lorsque l’entrepreneur est en faute. L’art. 366, al. 2, s’applique par analogie dans le cas de la réfection sans frais.[^368-1]
 
-<sup>3</sup> S’il s’agit d’ouvrages faits sur le fonds du maître et dont, à raison de leur nature, l’enlèvement présenterait des inconvénients excessifs, le maître ne peut prendre que les mesures indiquées au précédent alinéa.
+<sup>2bis</sup> Toute clause convenue à l’avance qui restreint ou exclut le droit à la réparation des défauts est nulle si le défaut concerne une construction.[^368-2]
+
+<sup>3</sup> S’il s’agit d’ouvrages faits sur le fonds du maître et dont, à raison de leur nature, l’enlèvement présenterait des inconvénients excessifs, le maître ne peut prendre que les mesures indiquées à l’alinéa 2.[^368-3]
+
+[^368-1]: Phrase introduite par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^368-2]: Introduit par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^368-3]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### c. Fait du maître
 
@@ -6167,6 +6208,15 @@ Le maître ne peut invoquer les droits résultant pour lui des défauts de l’o
 
 <sup>3</sup> Si les défauts ne se manifestent que plus tard, le maître est tenu de les signaler à l’entrepreneur aussitôt qu’il en a connaissance; sinon, l’ouvrage est tenu pour accepté avec ces défauts.
 
+<sup>4</sup>
+
+Les défauts d’un ouvrage immobilier qui ne pouvaient être constatés lors de la vérification régulière et de la réception de l’ouvrage doivent être signalés dans les 60 jours suivant leur découverte. Toute convention imposant des délais plus courts est nulle. Les mêmes règles s’appliquent aux défauts suivants s’ils sont à l’origine des défauts d’un ouvrage immobilier:
+
+- a. défauts d’un ouvrage mobilier intégré dans un ouvrage immobilier conformément à l’usage auquel il est normalement destiné;
+- b. défauts d’un ouvrage conçu par un architecte ou un ingénieur et servant, conformément à l’usage auquel il est normalement destiné, de base pour la construction de l’ouvrage immobilier.[^370-1]
+
+[^370-1]: Introduit par le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### e. Prescription
 
 #### Art. 371
@@ -6177,9 +6227,10 @@ Le maître ne peut invoquer les droits résultant pour lui des défauts de l’o
 
 <sup>2</sup> Les droits du maître en raison des défauts d’un ouvrage immobilier envers l’entrepreneur et envers l’architecte ou l’ingénieur qui ont collaboré à l’exécution de l’ouvrage se prescrivent par cinq ans à compter de la réception de l’ouvrage.
 
-<sup>3</sup> Pour le reste, les règles relatives à la prescription des droits de l’acheteur sont applicables par analogie.
+<sup>3</sup> Le délai de prescription de cinq ans ne peut pas être modifié au détriment du maître. Pour le reste, les règles relatives à la prescription des droits de l’acheteur sont applicables par analogie.[^371-2]
 
 [^371-1]: Nouvelle teneur selon le ch. I de la LF du 16 mars 2012 (Prescription de la garantie pour défauts. Prolongation et coordination), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [FF 2011 2699](https://fedlex.data.admin.ch/eli/fga/2011/424)[3655](https://fedlex.data.admin.ch/eli/fga/2011/597)).
+[^371-2]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2024 (Défauts de construction), en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [FF 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### II. Obligations du maître
 

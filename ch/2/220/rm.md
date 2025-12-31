@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2025-10-01
+version: 2026-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. d'october 2025)
+dals 30 da mars 1911 (versiun dal 1. da schaner 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -2182,6 +2182,10 @@ Ina cunvegna che abolescha u che limitescha l’obligaziun da dar garanzia na va
 
 <sup>3</sup> Sche talas mancanzas sa mussan pli tard, sto l’annunzia vegnir fatga immediatamain suenter la scuverta, cas cuntrari vala la chaussa sco acceptada er areguard questas mancanzas.
 
+<sup>4</sup> Sche mancanzas d’ina chaussa, ch’è vegnida integrada en in’ovra immovibla tenor las disposiziuns, han chaschunà la manglusitad da l’ovra, ston quellas vegnir annunziadas entaifer 60 dis. Mancanzas che n’èn betg stadas visiblas a chaschun da l’examinaziun regulara, ston vegnir annunziadas entaifer 60 dis suenter lur scuverta. Fixaziuns da termins pli curts èn nunvalaivlas.[^201-1]
+
+[^201-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### b. Tar il commerzi da muvel
 
 #### Art. 202
@@ -2431,13 +2435,35 @@ Per l’alienaziun da bains immobigliars agriculs vala ultra da quai la Lescha f
 
 ### D. Garanzia
 
+### I. Per la dimensiun
+
+[^part2-tit6-chap3-lvlD-lvlI-1]
+
+[^part2-tit6-chap3-lvlD-lvlI-1]: Versiun tenor la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 #### Art. 219
 
 <sup>1</sup> Il vendider d’in bain immobigliar sto – cun resalva d’autras cunvegnas – indemnisar il cumprader, sch’il bain immobigliar n’ha betg la dimensiun ch’è inditgada en il contract da vendita.
 
 <sup>2</sup> Sch’in bain immobigliar n’ha betg la dimensiun ch’è inditgada en il register funsil sin basa da la mesiraziun uffiziala, sto il vendider indemnisar il cumprader mo, sch’el ha surpiglià explicitamain la garanzia per quai.
 
-<sup>3</sup> L’obligaziun da dar ina garanzia per las mancanzas d’in edifizi surannescha suenter 5 onns, quintads a partir da l’acquist da la proprietad.
+<sup>3</sup> …[^219-1]
+
+[^219-1]: Abolì tras la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), cun effect dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
+### II. Reclamaziun da mancanzas, reparaziun gratuita e surannaziun
+
+#### Art. 219a
+
+[^219a-1]
+
+<sup>1</sup> Il termin per reclamar mancanzas en cas d’ina cumpra d’in bain immobigliar importa 60 dis. Mancanzas che n’èn betg stadas visiblas a chaschun da l’examinaziun regulara, ston vegnir annunziadas entaifer 60 dis suenter lur scuverta. Fixaziuns da termins pli curts èn nunvalaivlas.
+
+<sup>2</sup> Il cumprader d’in bain immobigliar cun in edifizi che sto anc vegnir construì u ch’è vegnì construì da nov main che 2 onns avant la vendita, po er pretender ina reparaziun gratuita. Quest dretg è suttamess a las disposiziuns davart il contract d’execuziun da lavurs.
+
+<sup>3</sup> Ils dretgs dal cumprader pervia da mancanzas dal bain immobigliar suranneschan 5 onns suenter l’acquist da la proprietad. Il termin da surannaziun na po betg vegnir midà sin donn e cust dal cumprader.
+
+[^219a-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### E. Profit e privel
 
@@ -6134,7 +6160,16 @@ Il contract d’execuziun da lavurs oblighescha l’interprendider d’exequir i
 
 <sup>1</sup> Suenter la furniziun da l’ovra ha l’empustader, uschespert che quai è inditgà tenor l’andament ordinari da la fatschenta, d’examinar quella e da communitgar eventualas mancanzas a l’interprendider.
 
+<sup>1bis</sup>
+
+En cas d’ina ovra immovibla importa il termin per reclamar mancanzas 60 dis. Fixaziuns da termins pli curts èn nunvalaivlas. Il medem vala per las suandantas mancanzas d’ina ovra, che han chaschunà la manglusitad d’ina ovra immovibla:
+
+- a. mancanzas d’ina ovra movibla ch’è vegnida integrada tenor las disposiziuns en l’ovra immovibla;
+- b. mancanzas d’ina ovra ch’è vegnida construida d’in architect u d’in inschigner e ch’è vegnida duvrada tenor las disposiziuns sco basa per construir in’ovra immovibla.[^367-1]
+
 <sup>2</sup> Mintga partida ha il dretg da pretender sin agens custs in’examinaziun da l’ovra tras in expert ed ina documentaziun da las constataziuns.
+
+[^367-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Dretgs da l’empustader en cas da mancanzas
 
@@ -6142,9 +6177,14 @@ Il contract d’execuziun da lavurs oblighescha l’interprendider d’exequir i
 
 <sup>1</sup> Sche l’ovra ha mancanzas uschè considerablas u sch’ella divergescha uschè fitg dal contract ch’ella è nunduvrabla per l’empustader u che l’approvaziun na po betg vegnir pretendida giustifitgadamain da l’empustader, po quel refusar l’ovra e pretender che l’interprendider indemniseschia il donn, sch’el è la culpa.
 
-<sup>2</sup> Sche las mancanzas e sche las divergenzas dal contract èn main gravantas, po l’empustader far ina deducziun dal pretsch che correspunda a la valur reducida da l’ovra u – sche quai na chaschuna betg custs sproporziunads a l’interprendider – er pretender che l’ovra vegnia meglierada gratuitamain e ch’ina indemnisaziun vegnia prestada, sche l’interprendider è la culpa.
+<sup>2</sup> Sche las mancanzas u sche las divergenzas dal contract èn main gravantas, po l’empustader far ina deducziun dal pretsch che correspunda a la valur reducida da l’ovra u – sche quai na chaschuna betg custs sproporziunads a l’interprendider – er pretender che l’ovra vegnia meglierada gratuitamain e ch’ina indemnisaziun vegnia prestada, sche l’interprendider è la culpa. En cas d’ina reparaziun gratuita vala l’artitgel 366 alinea 2 tenor il senn.[^368-1]
+
+<sup>2bis</sup> Cunvegnas che vegnan fatgas ordavant per restrenscher u excluder il dretg d’ina reparaziun gratuita, èn nunvalaivlas, sche la mancanza pertutga in edifizi.[^368-2]
 
 <sup>3</sup> En cas dad ovras che vegnan construidas sin il sulom da l’empustader e che pon vegnir allontanadas – pervia da lur natira – mo cun dischavantatgs sproporziunads ha l’empustader mo ils dretgs che vegnan numnads en il segund alinea da quest artitgel.
+
+[^368-1]: Integrà la segunda frasa tras la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^368-2]: Integrà tras la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### c. Responsabladad da l’empustader
 
@@ -6162,6 +6202,15 @@ Ils dretgs che l’empustader ha en cas che l’ovra ha mancanzas scrodan, sch�
 
 <sup>3</sup> Sche las mancanzas sa mussan pli tard, sto l’annunzia vegnir fatga immediatamain suenter la scuverta, cas cuntrari vala l’ovra sco approvada er areguard questas mancanzas.
 
+<sup>4</sup>
+
+Mancanzas d’ina ovra immovibla, che n’èn betg stadas visiblas a chaschun da la collaudaziun e da l’examinaziun regulara, ston vegnir annunziadas entaifer 60 dis suenter lur scuverta. Fixaziuns da termins pli curts èn nunvalaivlas. Il medem vala per las suandantas mancanzas d’ina ovra, che han chaschunà la manglusitad d’ina ovra immovibla:
+
+- a. mancanzas d’ina ovra movibla ch’è vegnida integrada tenor las disposiziuns en l’ovra immovibla;
+- b. mancanzas d’ina ovra ch’è vegnida construida d’in architect u d’in inschigner e ch’è vegnida duvrada tenor las disposiziuns sco basa per construir in’ovra immovibla.[^370-1]
+
+[^370-1]: Integrà tras la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### e. Surannaziun
 
 #### Art. 371
@@ -6172,9 +6221,10 @@ Ils dretgs che l’empustader ha en cas che l’ovra ha mancanzas scrodan, sch�
 
 <sup>2</sup> Ils dretgs da l’empustader d’ina ovra immovibla pervia d’eventualas mancanzas da l’ovra suranneschan vers l’interprendider sco er vers l’architect u vers l’inschigner, che han collavurà tar l’execuziun da l’ovra, 5 onns suenter la collaudaziun da l’ovra.
 
-<sup>3</sup> Dal rest vegnan applitgadas confurm al senn las reglas davart la surannaziun dals dretgs correspundents dal cumprader.
+<sup>3</sup> Il termin da surannaziun da 5 onns na po betg vegnir midà sin donn e cust da l’empustader. Dal rest vegnan applitgadas confurm al senn las reglas davart la surannaziun dals dretgs correspundents dal cumprader.[^371-2]
 
 [^371-1]: Versiun tenor la cifra I da la LF dals 16 da mars 2012 (termins da surannaziun dals dretgs da garanzia; prolungaziun e coordinaziun), en vigur dapi il 1. da schan. 2013 ([AS 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [BBl 2011 2889](https://fedlex.data.admin.ch/eli/fga/2011/424)[3903](https://fedlex.data.admin.ch/eli/fga/2011/597)).
+[^371-2]: Versiun tenor la cifra I da la LF dals 20 da dec. 2024 (mancanzas da construcziun), en vigur dapi il 1. da schan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### II. Obligaziuns da l’empustader
 

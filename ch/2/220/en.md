@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2025-10-01
+version: 2026-01-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20251001/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20251001-en-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20251001/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20260101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20260101-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20260101/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Last amended on 1 October 2025)
+of 30 March 1911 (Last amended on 1 January 2026)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -2184,6 +2184,10 @@ Any agreement to exclude or limit the warranty obligation is void if the seller 
 
 <sup>3</sup> Where such defects come to light subsequently, the seller must be notified immediately, failing which the object will be deemed accepted even in respect of such defects.
 
+<sup>4</sup> If defects in an object that has been integrated into an immovable work in accordance with its intended use have caused the work to be defective, these defects must be reported within 60 days. Defects that were not apparent on customary inspection must be reported within 60 days of their discovery. An agreement on shorter periods is invalid.[^201-1]
+
+[^201-1]: Inserted by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### b. In livestock trading
 
 #### Art. 202
@@ -2433,13 +2437,35 @@ The Federal Act of 4 October 1991[^218-2] on Rural Land Rights applies to the sa
 
 ### D. Warranty
 
+### I. For size
+
+[^part2-tit6-chap3-lvlE-1]
+
+[^part2-tit6-chap3-lvlE-1]: Amended by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 #### Art. 219
 
 <sup>1</sup> Unless otherwise agreed, the seller of a property must compensate the buyer if it is not of the size indicated in the contract of sale.
 
 <sup>2</sup> Where the property is not of the size entered in the land register based on an official survey, the seller must compensate the buyer only where he gave express warranty to that effect.
 
-<sup>3</sup> The warranty obligation in respect of defects in a building prescribes five years after ownership is acquired.
+<sup>3</sup> …[^220-1]
+
+[^220-1]: Repealed by No I of the FA of 20 Dec. 2024 (Construction Defects), with effect from 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
+### II. Reporting defects, rectification free of charge and prescription
+
+#### Art. 219a
+
+[^221-1]
+
+<sup>1</sup> The period for reporting defects when purchasing immovable property is 60 days. Defects that were not apparent on customary inspection must be reported within 60 days of their discovery. An agreement on shorter periods is invalid.
+
+<sup>2</sup> The purchaser of immovable property with a structure that has yet to be built or was newly built less than two years prior to the sale may also demand rectification free of charge. This right is subject to the provisions governing work contracts.
+
+<sup>3</sup> The purchaser's rights in relation to defects in the property shall prescribe five years after acquisition of ownership. The prescriptive period may not be changed to the detriment of the purchaser.
+
+[^221-1]: Inserted by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### E. Benefits and risks
 
@@ -2451,7 +2477,7 @@ Where the agreement stipulates a date on which the buyer is to take possession o
 
 #### Art. 221
 
-In other respects, the provisions governing chattel sale apply *mutatis mutandis* to the sale and purchase of land.
+In other respects, the provisions governing chattel sale apply *mutatis mutandis* to the sale and purchase of immovable property.
 
 ### Section Four: Special Types of Sale
 
@@ -2758,7 +2784,7 @@ The donor who has made a promise to give may revoke the promise and refuse to fu
 - 2\. where since the promise was made the donor’s financial situation has altered to such an extent that making the gift would cause serious hardship;
 - 3\. where since the promise was made the donor has acquired duties under family law that previously did not exist or were significantly less onerous.
 
-<sup>2</sup> All promises to give are annulled when a certificate of loss is issued against the donor or he is declared bankrupt.
+<sup>2</sup> All promises to give are annulled when an unpaid debt certificate is issued against the donor or he is declared bankrupt.
 
 ### III. Prescription and heirs’ right of action
 
@@ -6136,7 +6162,16 @@ A work contract is a contract whereby the contractor undertakes to produce a pie
 
 <sup>1</sup> The customer must inspect the condition of the delivered or completed work as soon as feasible in the normal course of business and must inform the contractor of any defects discovered.
 
+<sup>1bis</sup>
+
+The period for reporting defects in an immovable work is 60 days. An agreement on a shorter period is invalid. The same applies to the following defects in a work that have caused an immovable work to be defective:
+
+- a. defects in a movable work that has been integrated into the immovable work in accordance with its intended use;
+- b. defects in a work that has been carried out by an architect or engineer and has been used as intended as the basis for the construction of an immovable work.[^367-1]
+
 <sup>2</sup> Each party is entitled to request that the work be inspected by experts at his own expense and that a legal record be made of their findings.
+
+[^367-1]: Inserted by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### b. Rights of the customer in the event of defects
 
@@ -6144,9 +6179,14 @@ A work contract is a contract whereby the contractor undertakes to produce a pie
 
 <sup>1</sup> Where the work is so defective or deviates from the contractual terms to such an extent that the customer has no use for it or cannot reasonably be expected to accept it, the customer may refuse acceptance and, if the contractor is at fault, seek damages.
 
-<sup>2</sup> In the case of minor defects in the work or only slight deviations from the contractual terms, the customer may reduce the price in proportion to the decrease in its value or require the contractor to rectify the work at his own expense and to pay damages if he was at fault, provided such rectification is possible without excessive cost to the contractor.
+<sup>2</sup> In the case of minor defects in the work or only slight deviations from the contractual terms, the customer may reduce the price in proportion to the decrease in its value or require the contractor to rectify the work at his own expense and to pay damages if he was at fault, provided such rectification is possible without excessive cost to the contractor. In the case of rectification free of charge, Article 366 paragraph 2 applies *mutatis mutandis*.[^368-1]
+
+<sup>2bis</sup> Any prior agreement limiting or excluding the right to rectification free of charge is invalid if the defect affects a structure.[^368-2]
 
 <sup>3</sup> In the case of works produced on the customer’s land or property which by their nature cannot be removed without disproportionate detriment, the customer has only the rights stipulated in paragraph 2.
+
+[^368-1]: Second sentence inserted by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+[^368-2]: Inserted by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### c. Customer’s liability
 
@@ -6164,6 +6204,15 @@ The rights accruing to the customer in respect of defects in the work are forfei
 
 <sup>3</sup> Where defects come to light only subsequently, the customer must notify the contractor as soon as he becomes aware of them, otherwise the work is deemed to have been approved even in respect of such defects.
 
+<sup>4</sup>
+
+Defects in an immovable work that were not apparent on acceptance or on customary inspection must be reported within 60 days of their discovery. An agreement on a shorter period is invalid. The same applies to the following defects in a work that have caused an immovable work to be defective:
+
+- a. defects in a movable work that has been integrated into the immovable work in accordance with its intended use;
+- b. defects in a work that has been carried out by an architect or engineer and has been used as intended as the basis for the construction of an immovable work.[^370-1]
+
+[^370-1]: Inserted by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
+
 ### e. Prescription
 
 #### Art. 371
@@ -6174,9 +6223,10 @@ The rights accruing to the customer in respect of defects in the work are forfei
 
 <sup>2</sup> The customer’s claims in respect of defects in an immovable work against both the contractor and any architect or engineer who provided services in connection with such work prescribe five years after completion of the work.
 
-<sup>3</sup> Otherwise the rules governing prescription of the corresponding rights of a buyer apply *mutatis mutandis*.
+<sup>3</sup> The prescriptive period of five years may not be changed to the detriment of the customer. Otherwise the rules governing prescription of the corresponding rights of a buyer apply *mutatis mutandis*.[^371-2]
 
 [^371-1]: Amended by No I of the FA of 16 March 2012 (Limitation Periods for Guarantee Claims. Extension and Coordination), in force since 1 Jan. 2013 ([AS 2012 5415](https://fedlex.data.admin.ch/eli/oc/2012/621); [BBl 2011 2889](https://fedlex.data.admin.ch/eli/fga/2011/424)[3903](https://fedlex.data.admin.ch/eli/fga/2011/597)).
+[^371-2]: Amended by No I of the FA of 20 Dec. 2024 (Construction Defects), in force since 1 Jan. 2026 ([AS 2025 270](https://fedlex.data.admin.ch/eli/oc/2025/270); [BBl 2022 2743](https://fedlex.data.admin.ch/eli/fga/2022/2743)).
 
 ### II. Customer’s obligations
 
@@ -7650,11 +7700,11 @@ Where two or more persons, with a view to protecting their rights, deposit an ob
 
 #### Art. 495
 
-<sup>1</sup> The creditor may resort to a simple surety only if, after the surety was provided, the debtor is declared bankrupt or obtains a debt restructuring moratorium, or is the object of debt enforcement proceedings instigated with due diligence by the creditor which have resulted in the issue of a definitive certificate of loss, or has relocated his domicile abroad and can no longer be sued in Switzerland, or legal action against him in foreign courts has been substantially impeded as a result of such relocation.
+<sup>1</sup> The creditor may resort to a simple surety only if, after the surety was provided, the debtor is declared bankrupt or obtains a debt restructuring moratorium, or is the object of debt enforcement proceedings instigated with due diligence by the creditor which have resulted in the issue of a definitive unpaid debt certificate, or has relocated his domicile abroad and can no longer be sued in Switzerland, or legal action against him in foreign courts has been substantially impeded as a result of such relocation.
 
 <sup>2</sup> Where the claim is secured by pledges, a simple surety may require that the creditor satisfy his claim first from such pledges, provided the debtor has not been declared bankrupt or obtained a debt restructuring moratorium.
 
-<sup>3</sup> Where the surety has undertaken solely to cover any shortfall suffered by the creditor (indemnity bond), he may not be sued unless a definitive certificate of loss has been issued against the principal debtor or the latter has relocated his domicile abroad and can no longer be sued in Switzerland, or legal action against him in foreign courts has been substantially impeded as a result of such relocation. Where a composition agreement has been concluded, the surety may be sued for the remitted portion of the principal obligation immediately on the entry into force of the composition agreement.
+<sup>3</sup> Where the surety has undertaken solely to cover any shortfall suffered by the creditor (indemnity bond), he may not be sued unless a definitive unpaid debt certificate has been issued against the principal debtor or the latter has relocated his domicile abroad and can no longer be sued in Switzerland, or legal action against him in foreign courts has been substantially impeded as a result of such relocation. Where a composition agreement has been concluded, the surety may be sued for the remitted portion of the principal obligation immediately on the entry into force of the composition agreement.
 
 <sup>4</sup> Agreements to the contrary are reserved.
 
@@ -7720,7 +7770,7 @@ Unless otherwise agreed, he is liable up to this limit for:
 
 <sup>1</sup> The creditor may not apply to the surety in respect of the principal obligation before the date fixed for its payment even if such date is brought forward following the principal debtor’s bankruptcy.
 
-<sup>2</sup> Under a contract of surety of any type, in exchange for furnishing real security, the surety may request that the court suspend the debt enforcement proceedings against him until all pledges have been realised and a definitive certificate of loss has been issued against the principal debtor or a composition agreement has been concluded with the creditors.
+<sup>2</sup> Under a contract of surety of any type, in exchange for furnishing real security, the surety may request that the court suspend the debt enforcement proceedings against him until all pledges have been realised and a definitive unpaid debt certificateeen issued against the principal debtor or a composition agreement has been concluded with the creditors.
 
 <sup>3</sup> Where the principal obligation may not fall due without notice being served by the creditor or the principal debtor, the time limit for the surety does not commence until the date on which he receives such notice.
 
@@ -14359,9 +14409,9 @@ Any provisions made in the articles of association which limit liability to a sp
 
 <sup>1</sup> In the event of the insolvency of a cooperative in which the members are personally liable or liable to make additional contributions, at the same time as they draw up the schedule of claims the insolvency administrators must determine and call in the provisional personal liability of each individual member or the additional contributions they must make.
 
-<sup>2</sup> Irrecoverable amounts must be spread equally among the other members, and surpluses repaid once the final distribution plan has been formulated. The members’ right of recourse against each other is reserved.
+<sup>2</sup> Irrecoverable amounts must be spread equally among the other members, and surpluses repaid once the final distribution list has been drawn up. The members’ right of recourse against each other is reserved.
 
-<sup>3</sup> The provisional determination of members’ obligations and the distribution plan are subject to challenge by appeal pursuant to the Debt Enforcement and Bankruptcy Act of 11 April 1889[^873-1].
+<sup>3</sup> The provisional determination of members’ obligations and the distribution list are subject to challenge by appeal pursuant to the Debt Enforcement and Bankruptcy Act of 11 April 1889[^873-1].
 
 <sup>4</sup> The procedure is determined by Federal Council ordinance.[^873-2]
 
