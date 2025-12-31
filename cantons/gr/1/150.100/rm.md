@@ -4,13 +4,12 @@ number: "150.100"
 title: Lescha davart ils dretgs politics en il chantun Grischun
 short: LDPC
 language: rm
-version: 2025-01-01
-corrected: 2024-03-19
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-04-22
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3374/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3568/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3374/pdf_file"
 
 (LDPC)
 
-dals 17-06-2005 (versiun dals 01-01-2025)
+dals 17-06-2005 (versiun dals 01-01-2026)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -436,11 +435,24 @@ concluda:
 
 #### Art. 27
 
-**Cedels da votar e cedels electorals**
+**Cedels da votar e cedels electorals 1. cuntegn**
+
+<sup>1</sup> Per votaziuns sur d'ina chaussa cuntegna il cedel da votar la dumonda da votaziun ed il spazi per dar la resposta.
+
+<sup>2</sup> Per las elecziuns chantunalas e regiunalas da maiorz cuntegna il cedel electoral:
+
+- a) cun ina numeraziun cuntinuanta, ils nums e prenums da las candidatas e dals candidats che figureschan sin las propostas electoralas valaivlas, e quai mintgamai en successiun alfabetica; plinavant las ulteriuras indicaziuns davart las candidatas ed ils candidats (annada, professiun, domicil ed eventualmain appartegnientscha ad ina partida u ad ina gruppaziun sco er – per candidatas e candidats ch'eran gia en uffizi – la remartga "fin ussa");
+- b) davant mintga num in champ per far ina crusch.
+
+#### Art. 27a
+
+**2. emplenir**
 
 <sup>1</sup> Per la votaziun ston vegnir duvrads ils cedels da votar ed ils cedels electorals uffizials.
 
 <sup>2</sup> Ils cedels da votar ed ils cedels electorals ston vegnir emplenids respectivamain midads persunalmain ed a maun. L'artitgel 25 alinea 2 resta resalvà.
+
+<sup>3</sup> Sin ils cedels electorals per las elecziuns chantunalas e regiunalas da maiorz sto la vusch vegnir exprimida cun far ina crusch (x) tar las candidatas ed ils candidats en il champ previs tar ils nums prestampads. Sch'i vegn fatga ina crusch tar il num d'ina persuna proponida e sche quest num vegn a medem temp stritgà, na vegn la vusch betg quintada.
 
 #### Art. 28
 
@@ -545,9 +557,11 @@ concluda:
 
 #### Art. 33
 
-**3. cedels electorals u cedels da votar vids**
+**3. cedels electorals u cedels da votar vids, vuschs vidas**
 
-<sup>1</sup> Cedels electorals u cedels da votar valan sco vids, sch'els na cuntegnan nagin num respectivamain nagina resposta a la dumonda ch'è vegnida suttamessa a la votaziun. Sch'in cedel da votar cuntegna pliras dumondas, valan las dumondas betg respundidas sco vuschs vidas.
+<sup>1</sup> Tar las elecziuns chantunalas e regiunalas da maiorz valan cedels electorals sco vids, sch'i n'è vegnì scrit insumma nagut sin els.
+
+<sup>2</sup> Cedels da votar valan sco vids, sch'els na cuntegnan nagina resposta a la dumonda ch'è vegnida suttamessa a la votaziun. Sch'in cedel da votar cuntegna pliras dumondas, valan las dumondas betg respundidas sco vuschs vidas.
 
 #### Art. 34
 
@@ -562,6 +576,8 @@ concluda:
 - e) parts essenzialas mancan;
 - f) els cuntegnan "quel(s) u quella(s) fin ussa" u chaussas sumegliantas.
 
+<sup>1<sup>bis</sup></sup> Tar elecziuns chantunalas e regiunalas da maiorz èn cedels electorals er nunvalaivels, sch'il dumber da cruschs fatgas tar ils nums surpassa il dumber da persunas che pon vegnir elegidas.
+
 <sup>2</sup> Tar la votaziun per correspundenza èn ils cedels electorals u ils cedels da votar ultra da quai nunvalaivels, sche:
 
 - a) l'attest dal dretg da votar manca u n'è betg suttascrit;
@@ -573,15 +589,21 @@ concluda:
 
 #### Art. 35
 
-**5. vuschs nunvalaivlas tar elecziuns**
+**5. vuschs nunvalaivlas tar elecziuns communalas da maiorz senza cedels electorals per far ina crusch**
 
-<sup>1</sup> Ina vusch è nunvalaivla, sch'ella:
+<sup>1</sup> Per elecziuns communalas da maiorz senza cedels electorals per far ina crusch valan, areguard la nunvalaivladad da vuschs, las regulaziuns da l'alinea 2 e da l'alinea 3, uschenavant ch'il dretg communal na prescriva betg insatge auter.
+
+- a) …
+- b) …
+- c) …
+
+<sup>2</sup> Ina vusch è nunvalaivla, sch'ella:
 
 - a) vegn dada ad ina persuna che na po betg vegnir elegida;
 - b) vegn dada ad ina persuna ch'è gia menziunada sin il medem cedel electoral (cumulaziun);
-- c) lascha avert dubis motivads per tgi ch'ella valia.
+- c) procura per dubis giustifitgads, per tgi ch'ella vala.
 
-<sup>2</sup> Sch'in cedel electoral cuntegna dapli nums valaivels che persunas che pon vegnir elegidas, èn las vuschs da memia nunvalaivlas. Ils nums vegnan stritgads da sut ensi e da dretga a sanestra.
+<sup>3</sup> Sch'in cedel electoral cuntegna dapli nums valaivels che persunas che pon vegnir elegidas, èn las vuschs da memia nunvalaivlas. Ils nums vegnan stritgads da sut ensi e da dretga a sanestra.
 
 #### Art. 36
 
@@ -637,8 +659,8 @@ concluda:
 <sup>1</sup> Sche pliras persunas han survegnì il medem dumber da vuschs, decida la sort davart l'elecziun u davart la successiun d'occupar in post. La sort vegn tratga:
 
 - a) da la regenza tar elecziuns chantunalas;
-- b) da la cumissiun administrativa tar elecziuns da la dretgira regiunala;
-- c) da la cumissiun regiunala tar las elecziuns da las commembras e dals commembers dal cussegl grond.
+- b) da la cumissiun administrativa tar elecziuns da la dretgira regiunala.
+- c) …
 - d) …
 
 <sup>2</sup> Uschenavant ch'igl è pussaivel vegnan las persunas pertutgadas clamadas natiers per trair la sort. Dal rest fixescha l'instanza cumpetenta la procedura.
@@ -655,7 +677,7 @@ concluda:
 
 **2. verificaziun dal scrutini**
 
-<sup>1</sup> Sche la differenza dal resultat total provisoric d'ina elecziun u d'ina votaziun che vegn eruì importa tranter l'ultima persuna elegida e l'emprima persuna betg elegida respectivamain tranter las vuschs affirmativas e las vuschs negativas main che 0,3 pertschient da las vuschs valaivlas consegnadas, sto succeder d'uffizi ina verificaziun dal scrutini.
+<sup>1</sup> Sche la differenza da las vuschs dal resultat total provisoric eruì en cas d'ina elecziun da maiorz u d'ina votaziun importa – tranter l'ultima persuna elegida e l'emprima persuna betg elegida respectivamain tranter las vuschs affirmativas e las vuschs negativas – main che 0,3 pertschient dals cedels da votar valaivels consegnads, sto ina verificaziun dal scrutini vegnir exequida d'uffizi.
 
 <sup>2</sup> Dal rest ordinescha tar elecziuns e tar votaziuns chantunalas sco er tar elecziuns da las commembras e dals commembers dal Cussegl grond la Regenza, tar elecziuns da la Dretgira regiunala la Cumissiun administrativa e tar votaziuns en chaussas regiunalas la Cumissiun regiunala ina verificaziun dal scrutini, sch'i existan indizis concrets per irregularitads.
 
@@ -705,39 +727,60 @@ concluda:
 
 #### Art. 49
 
-**Procedura 1. introducziun, instrucziun**
+**Procedura 1. conclus d'introducziun**
 
-<sup>1</sup> Il cussegl grond iniziescha d'uffizi u sin denunzia ina procedura da destituziun da l'uffizi, sch'el survegn enconuschientscha d'in motiv da destituziun da l'uffizi.
+<sup>1</sup> Il Cussegl grond iniziescha d'uffizi u sin denunzia ina procedura da destituziun da l'uffizi, sch'igl exista in suspect inizial motivà ch'i saja avant maun in motiv per ina destituziun da l'uffizi.
 
-<sup>2</sup> L'instrucziun dal conclus d'iniziaziun, la realisaziun da l'inquisiziun e l'instrucziun da la decisiun finala èn chaussa da la cumissiun per giustia e segirezza.
+<sup>2</sup> L'emprim èsi da tadlar la commembra pertutgada u il commember pertutgà. Ulteriurs scleriments ston vegnir fatgs, sch'els èn indispensabels per prender il conclus d'introducziun.
 
 #### Art. 50
 
-**2. inquisiziun**
-
-<sup>1</sup> Ils fatgs ston vegnir eruids d'uffizi.
-
-<sup>2</sup> Las disposiziuns davart ils meds d'inquisiziun, davart l'obligaziun da cooperar da las persunas participadas, davart l'attenziun giuridica e davart l'invista da las actas en la lescha davart la giurisdicziun administrativa[^50-1] vegnan applitgadas confurm al senn.
-
-[^50-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
+**…**
 
 #### Art. 51
 
-**3. suspensiun da l'uffizi**
+**2. suspensiun da l'uffizi**
 
-<sup>1</sup> Sch'igl èn avant maun indizis avunda per in motiv da destituziun da l'uffizi tenor l'artitgel 48, po il cussegl grond concluder cun la maioritad da trais quarts da las commembras e dals commembers preventivamain ina suspensiun da l'uffizi, e quai cun u senza reducziun u sistida dal salari.
+<sup>1</sup> Cun ina maioritad da trais quarts da las commembras e dals commembers po il Cussegl grond concluder ina suspensiun da l'uffizi, sche l'existenza d'in motiv per ina destituziun da l'uffizi è vegnida fatga valair vardaivlamain e sch'il funcziunament da l'autoritad pertutgada è periclità.
+
+<sup>2</sup> Questa ordinaziun po vegnir colliada cun ina reducziun dal salari fin a la mesadad dal salari, sch'in return en l'uffizi po vegnir exclus cun fitg gronda probabilitad e sch'i vegn permess a la persuna pertutgada d'exercitar in'activitad da gudogn.
 
 #### Art. 52
 
-**4. decisiun**
+**3. decisiun finala**
 
-<sup>1</sup> Decisiuns ston vegnir motivadas e communitgadas a las persunas pertutgadas en scrit sco er munidas cun ina indicaziun dals meds legals.
+<sup>1</sup> Il Cussegl grond terminescha la procedura da destituziun da l'uffizi, saja quai cun ordinar ina destituziun da l'uffizi u cun metter ad acta la procedura da destituziun da l'uffizi.
+
+<sup>2</sup> Sch'il quorum per la destituziun da l'uffizi na vegn betg cuntanschì, vala la procedura da destituziun da l'uffizi sco messa ad acta.
+
+#### Art. 52a
+
+**4. instrucziun e proposta**
+
+<sup>1</sup> La cumissiun dal Cussegl grond ch'è cumpetenta per la giustia è l'autoritad instruenta e maina la procedura da destituziun da l'uffizi fin a la decisiun finala.
+
+<sup>2</sup> Per la durada da la procedura da destituziun da l'uffizi prenda la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia las ordinaziuns preventivas e proceduralas necessarias, nun ch'il Cussegl grond saja cumpetent en chaussa. Ella po dumandar il Cussegl grond d'ordinar ina destituziun da l'uffizi.
+
+<sup>3</sup> Cura che las cumprovas necessarias èn registradas, suttametta la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia al Cussegl grond, per la proxima sessiun, in rapport ed ina proposta:
+
+- a) d'introducir u da betg introducir ina procedura da destituziun da l'uffizi, sch'ina tala proposta n'è betg evidentamain nunmotivada;
+- b) d'ordinar ina destituziun da l'uffizi u da metter ad acta la procedura da destituziun da l'uffizi.
 
 #### Art. 53
 
-**5. meds legals**
+**5. regulaziuns cumplementaras**
 
-<sup>1</sup> Decisiuns dal cussegl grond che concernan la suspensiun da l'uffizi e la destituziun da l'uffizi pon vegnir contestadas entaifer 30 dis dapi la communicaziun tar la dretgira administrativa.
+<sup>1</sup> Las commembras ed ils commembers dal Cussegl grond e da la Regenza pon vegnir obligads da sa suttametter ad ina controlla tras la media u il medi da confidenza.
+
+<sup>2</sup> Sche la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia suttametta propostas al Cussegl grond, pon las fracziuns tadlar la persuna pertutgada sco er autras commembras ed auters commembers da l'autoritad pertutgada.
+
+<sup>3</sup> Proceduras da destituziun da l'uffizi èn gratuitas. En cas da levsenn pon vegnir incassads custs da procedura.
+
+<sup>4</sup> Las decisiuns dal Cussegl grond sco er las decisiuns preventivas e proceduralas da la cumissiun dal Cussegl grond ch'è cumpetenta per la giustia pon vegnir contestadas tar la Dretgira superiura, sch'ellas chaschunan in dischavantatg che na sa lascha probablamain betg pli eliminar pli tard.
+
+<sup>5</sup> Per la procedura da destituziun da l'uffizi valan dal rest las disposiziuns da la Lescha davart la giurisdicziun administrativa[^53-1] confurm al senn.
+
+[^53-1]: DG [370.100](https://www.gr-lex.gr.ch/data/370.100/rm)
 
 ## 4. Procedura d'iniziativa
 
@@ -1180,11 +1223,11 @@ concluda:
 - b) pervia dad irregularitads tar la preparaziun u tar l'execuziun da votaziuns chantunalas e d'elecziuns dal cussegl dals chantuns (recurs d'elecziun e da votaziun);
 - c) cunter la decisiun da la chanzlia chantunala concernent la midada dal titel d'ina iniziativa u da la furma da la glista da suttascripziun.
 
-<sup>2</sup> Tar il cussegl grond po vegnir fatg recurs pervia da la violaziun dal dretg da votar e pervia dad irregularitads tar la preparaziun u tar l'execuziun da las elecziuns dal cussegl grond.
+<sup>2</sup> Tar la Dretgira superiura po vegnir fatg recurs pervia da la violaziun dal dretg da votar e pervia dad irregularitads tar la preparaziun u tar l'execuziun da las elecziuns dal Cussegl grond.
 
 <sup>3</sup> Tar la cumissiun cumpetenta dal cussegl grond po vegnir fatg recurs pervia da la violaziun dal dretg da votar e pervia dad irregularitads tar la preparaziun u tar l'execuziun da las elecziuns da la regenza.
 
-<sup>4</sup> Tar la dretgira administrativa po vegnir fatg recurs cunter las explicaziuns da votaziun dal cussegl grond. Cun resalva da l'artitgel 97 sa drizza la procedura tenor la lescha davart la giurisdicziun administrativa.
+<sup>4</sup> Tar la Dretgira superiura po vegnir fatg recurs cunter las explicaziuns da votaziun dal Cussegl grond. Cun resalva da l'artitgel 97 sa drizza la procedura tenor la Lescha davart la giurisdicziun administrativa.
 
 #### Art. 96
 
@@ -1198,8 +1241,8 @@ concluda:
 
 <sup>1</sup> Ils recurs ston vegnir inoltrads entaifer trais dis dapi la scuverta dal motiv da recurs, il pli tard però il terz di suenter la publicaziun uffiziala dals resultats d'ina elecziun u d'ina votaziun, a las suandantas instanzas:
 
-- a) a la chanzlia chantunala: recurs tenor l'artitgel 95 alineas 1 fin 3;
-- b) a la dretgira administrativa: recurs tenor l'artitgel 95 alinea 4.
+- a) a la Chanzlia chantunala: recurs tenor l'artitgel 95 alinea 1 ed alinea 3;
+- b) a la Dretgira superiura: recurs tenor l'artitgel 95 alinea 2 ed alinea 4.
 
 #### Art. 98
 
@@ -1237,9 +1280,9 @@ concluda:
 
 #### Art. 102
 
-**Recurs tar la dretgira administrativa**
+**Recurs tar la Dretgira superiura**
 
-<sup>1</sup> Cunter decisiuns da la regenza, dal cussegl grond e da la cumissiun cumpetenta dal cussegl grond sco er da las autoritads da las dretgiras regiunalas, da las regiuns e da las vischnancas po vegnir recurrì tar la dretgira administrativa pervia da violaziun da dretgs politics.
+<sup>1</sup> Cunter decisiuns da la Regenza e da la cumissiun cumpetenta dal Cussegl grond sco er da las autoritads da las dretgiras regiunalas, da las regiuns e da las vischnancas po vegnir recurrì tar la Dretgira superiura pervia da violaziun da dretgs politics.
 
 <sup>2</sup> La procedura sa drizza tenor la lescha davart la giurisdicziun administrativa[^102-1].
 

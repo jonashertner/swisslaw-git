@@ -4,13 +4,12 @@ number: "150.100"
 title: Legge sui diritti politici nel Cantone dei Grigioni
 short: LDPC
 language: it
-version: 2025-01-01
-corrected: 2024-03-19
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-04-22
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3374/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3568/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3374/pdf_file"
 
 (LDPC)
 
-del 17.06.2005 (stato 01.01.2025)
+del 17.06.2005 (stato 01.01.2026)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -436,11 +435,24 @@ decide:
 
 #### Art. 27
 
-**Schede elettorali e di voto**
+**Schede elettorali e di voto 1. Contenuto**
 
-<sup>1</sup> Per l'esercizio del diritto di voto devono essere utilizzate le schede elettorali e di voto ufficiali.
+<sup>1</sup> In caso di votazioni su oggetti, la scheda di voto contiene la domanda posta in votazione e lo spazio per la risposta.
 
-<sup>2</sup> Le schede elettorali e di voto devono essere compilate rispettivamente modificate personalmente e a mano. E' fatto salvo l'articolo 25 capoverso 2.
+<sup>2</sup> In caso di elezioni cantonali e regionali secondo il sistema maggioritario la scheda elettorale contiene:
+
+- a) con numerazione progressiva, i cognomi e i nomi dei candidati figuranti sulle proposte di candidatura valide in ordine alfabetico e le ulteriori informazioni relative ai candidati (anno di nascita, designazione della professione, domicilio ed eventualmente appartenenza a un partito o a un gruppo nonché, nel caso di candidati uscenti, l'annotazione "uscente");
+- b) prima di ogni nome, una casella nella quale apporre una crocetta.
+
+#### Art. 27a
+
+**2. Compilazione**
+
+<sup>1</sup> Per l'espressione del voto devono essere utilizzate le schede elettorali e di voto ufficiali.
+
+<sup>2</sup> Le schede elettorali e di voto devono essere compilate rispettivamente modificate personalmente e a mano. È fatto salvo l'articolo 25 capoverso 2.
+
+<sup>3</sup> Sulle schede elettorali per le elezioni cantonali e regionali secondo il sistema maggioritario, per esprimere il voto occorre apporre una crocetta (x) nella casella prevista accanto ai nomi prestampati dei candidati. Se il nome di una persona proposta viene segnato con una crocetta e al contempo viene cancellato, il voto non viene considerato.
 
 #### Art. 28
 
@@ -545,9 +557,11 @@ decide:
 
 #### Art. 33
 
-**3. Schede elettorali o di voto bianche**
+**3. Schede elettorali o di voto bianche, voti in bianco**
 
-<sup>1</sup> Le schede elettorali o di voto sono considerate bianche se non riportano alcun nome rispettivamente alcuna risposta alla domanda posta in votazione. Se una scheda di voto contiene più domande, le domande senza risposta sono considerate come voti in bianco.
+<sup>1</sup> In caso di elezioni cantonali e regionali secondo il sistema maggioritario le schede elettorali sono considerate bianche se non vi è stata apposta nessuna scritta.
+
+<sup>2</sup> Le schede di voto sono considerate bianche se non riportano alcuna risposta alla domanda posta in votazione. Se una scheda di voto contiene più domande, le domande senza risposta sono considerate come voti in bianco.
 
 #### Art. 34
 
@@ -562,6 +576,8 @@ decide:
 - e) mancano parti essenziali;
 - f) figurano indicazioni come "finora" e simili.
 
+<sup>1<sup>bis</sup></sup> In caso di elezioni cantonali e regionali secondo il sistema maggioritario sono inoltre considerate nulle le schede elettorali sulle quali il numero dei nomi segnati con una crocetta è superiore al numero di persone da eleggere.
+
 <sup>2</sup> In caso di voto per corrispondenza le schede elettorali o di voto sono inoltre nulle se:
 
 - a) la carta di legittimazione non è allegata o firmata;
@@ -573,15 +589,21 @@ decide:
 
 #### Art. 35
 
-**5. Suffragi nulli in caso di elezioni**
+**5. Voti nulli in caso di elezioni comunali secondo il sistema maggioritario senza schede elettorali a crocette**
 
-<sup>1</sup> Un suffragio è nullo se:
+<sup>1</sup> Se il diritto comunale non stabilisce nulla al riguardo, in caso di elezioni comunali secondo il sistema maggioritario senza schede elettorali a crocette, per quanto riguarda la nullità di voti fanno stato le regolamentazioni di cui al capoverso 2 e al capoverso 3.
 
-- a) viene dato ad una persona non eleggibile;
-- b) viene dato ad una persona già figurante sulla stessa scheda (cumulazione);
-- c) permangono dubbi riguardo alla sua attribuzione.
+- a) …
+- b) …
+- c) …
 
-<sup>2</sup> Se una scheda elettorale contiene più nomi validi rispetto al numero di persone da eleggere, i suffragi eccedenti sono nulli. I nomi vengono cancellati dal basso verso l'alto e da destra verso sinistra.
+<sup>2</sup> Un voto è nullo se:
+
+- a) viene dato a una persona non eleggibile;
+- b) viene dato a una persona il cui nome figura già sulla stessa scheda elettorale (cumulazione);
+- c) permangono dubbi fondati riguardo alla sua attribuzione.
+
+<sup>3</sup> Se una scheda elettorale contiene più nomi validi rispetto al numero di persone da eleggere, i voti eccedenti sono nulli. I nomi vengono cancellati dal basso verso l'alto e da destra verso sinistra.
 
 #### Art. 36
 
@@ -637,8 +659,8 @@ decide:
 <sup>1</sup> Se più persone ottengono lo stesso numero di voti, la sorte decide sull'elezione oppure sulla successione nella graduatoria elettorale. Il sorteggio è effettuato:
 
 - a) dal Governo in caso di elezioni cantonali;
-- b) dalla commissione amministrativa in caso di elezioni dei tribunali regionali;
-- c) dal comitato regionale in caso di elezioni dei membri del Gran Consiglio.
+- b) dalla commissione amministrativa in caso di elezioni dei tribunali regionali.
+- c) …
 - d) …
 
 <sup>2</sup> Per quanto possibile gli interessati vengono invitati al sorteggio. Per il resto l'autorità competente stabilisce la procedura.
@@ -655,7 +677,7 @@ decide:
 
 **2. Secondo conteggio**
 
-<sup>1</sup> Se la differenza dei voti ottenuti dall'ultima persona eletta e dalla prima non eletta rispettivamente tra i sì e i no nel risultato complessivo provvisorio di una elezione o votazione ammonta a meno dello 0,3 per cento delle schede di voto valide consegnate, deve essere eseguito d'ufficio un secondo conteggio.
+<sup>1</sup> Se la differenza dei voti ottenuti dall'ultima persona eletta e dalla prima non eletta rispettivamente tra i sì e i no nel risultato complessivo provvisorio di un'elezione secondo il sistema maggioritario o di una votazione ammonta a meno dello 0,3 per cento delle schede di voto valide consegnate, deve essere eseguito d'ufficio un secondo conteggio.
 
 <sup>2</sup> Per il resto, se sussistono indizi concreti di irregolarità, un secondo conteggio viene ordinato dal Governo in caso di elezioni e votazioni cantonali nonché in caso di elezioni dei membri del Gran Consiglio, dalla commissione amministrativa in caso di elezioni dei tribunali regionali e dal comitato regionale in caso di votazioni in affari regionali.
 
@@ -705,37 +727,60 @@ decide:
 
 #### Art. 49
 
-**Procedura 1. Avvio, istruzione**
+**Procedura 1. Decreto d'avvio**
 
-<sup>1</sup> Il Gran Consiglio avvia d'ufficio o su denuncia una procedura di destituzione se viene a conoscenza di un motivo di destituzione.
+<sup>1</sup> Il Gran Consiglio avvia d'ufficio o su segnalazione un procedimento di destituzione, se è dato un sospetto iniziale fondato relativo alla sussistenza di un motivo di destituzione.
 
-<sup>2</sup> L'istruzione del decreto d'avvio, lo svolgimento dell'istruttoria e l'istruzione della decisione finale competono alla Commissione di giustizia e sicurezza.
+<sup>2</sup> Va previamente sentito il membro interessato. Occorre procedere a ulteriori accertamenti nella misura in cui siano indispensabili per l'adozione del decreto d'avvio.
 
 #### Art. 50
 
-**2. Istruttoria**
-
-<sup>1</sup> La fattispecie deve essere rilevata d'ufficio.
-
-<sup>2</sup> Vengono applicate per analogia le disposizioni sui mezzi d'istruttoria, sull'obbligo di collaborazione degli interessati, sul diritto di essere ascoltato e di prendere visione degli atti, contenute nella legge sulla giustizia amministrativa.
+**…**
 
 #### Art. 51
 
-**3. Sospensione**
+**2. Sospensione**
 
-<sup>1</sup> Se vi sono indizi sufficienti per un motivo di destituzione ai sensi dell'articolo 48, il Gran Consiglio può decidere con la maggioranza di tre quarti dei membri una sospensione cautelativa con o senza riduzione o soppressione del versamento del salario.
+<sup>1</sup> A maggioranza di tre quarti dei membri, il Gran Consiglio può decidere una sospensione se è stata resa credibile la sussistenza di un motivo di destituzione e se il funzionamento dell'autorità interessata è minacciato.
+
+<sup>2</sup> Questa disposizione può essere associata a una riduzione del salario fino alla metà dello stesso, se molto probabilmente un ritorno in carica può essere escluso e alla persona interessata viene consentito l'esercizio di un'attività lucrativa.
 
 #### Art. 52
 
-**4. Decisione**
+**3. Decisione finale**
 
-<sup>1</sup> Le decisioni vanno motivate e comunicate per iscritto agli interessati con un avvertimento circa i mezzi d'impugnazione.
+<sup>1</sup> Il Gran Consiglio conclude il procedimento di destituzione disponendo una destituzione oppure abbandonando il procedimento di destituzione.
+
+<sup>2</sup> Se il quorum per la destituzione non viene raggiunto, il procedimento di destituzione è considerato abbandonato.
+
+#### Art. 52a
+
+**4. Istruzione e presentazione della proposta**
+
+<sup>1</sup> La commissione del Gran Consiglio competente per la giustizia dirige il procedimento di destituzione fino alla decisione finale quale autorità che si occupa dell'istruzione.
+
+<sup>2</sup> Per la durata del procedimento di destituzione, la commissione del Gran Consiglio competente per la giustizia adotta le necessarie disposizioni provvisionali e determinanti il corso della procedura, nella misura in cui non sia competente il Gran Consiglio. Essa può chiedere una sospensione al Gran Consiglio.
+
+<sup>3</sup> Se le prove necessarie sono state rilevate, in vista della prossima sessione la commissione del Gran Consiglio competente per la giustizia sottopone al Gran Consiglio rapporto e richiesta:
+
+- a) di avviare o di non avviare un procedimento di destituzione, se una tale richiesta non è palesemente infondata;
+- b) di disporre una destituzione o di abbandonare il procedimento di destituzione.
 
 #### Art. 53
 
-**5. Rimedi giuridici**
+**5. Regolamentazioni complementari**
 
-<sup>1</sup> Le decisioni del Gran Consiglio concernenti la sospensione e la destituzione possono venire impugnate presso il Tribunale amministrativo entro 30 giorni dalla comunicazione.
+<sup>1</sup> I membri del Gran Consiglio e del Governo possono essere obbligati a sottoporsi a una visita da parte di un medico di fiducia.
+
+<sup>2</sup> Se la commissione del Gran Consiglio competente per la giustizia sottopone delle richieste al Gran Consiglio, le frazioni possono sentire la persona interessata e altri membri dell'autorità interessata.
+
+<sup>3</sup> I procedimenti di destituzione sono gratuiti. In caso di temerarietà possono essere riscosse spese procedurali.
+
+<sup>4</sup> Le decisioni del Gran Consiglio nonché le decisioni provvisionali e determinanti il corso della procedura adottate dalla commissione del Gran Consiglio competente per la giustizia che comportano uno svantaggio probabilmente irreparabile in futuro possono essere impugnate dinanzi al Tribunale d'appello.
+
+<sup>5</sup> Per il resto per la procedura di destituzione fanno stato per analogia le disposizioni della legge sulla giustizia amministrativa[^53-1].
+
+[^53-1]: CSC [370.100](https://www.gr-lex.gr.ch/data/370.100/it)
 
 ## 4. Iniziativa
 
@@ -1178,11 +1223,11 @@ decide:
 - b) per irregolarità nella preparazione o nello svolgimento di votazioni cantonali e elezioni del Consiglio degli Stati (ricorso di votazione e elezione);
 - c) contro la decisione della Cancelleria dello Stato relativa alla modifica del titolo di un'iniziativa e la forma della lista delle firme.
 
-<sup>2</sup> Può essere presentato ricorso al Gran Consiglio per violazione del diritto di voto e irregolarità nella preparazione o nello svolgimento delle elezioni del Gran Consiglio.
+<sup>2</sup> Può essere presentato ricorso al Tribunale d'appello per violazione del diritto di voto e irregolarità nella preparazione o nello svolgimento delle elezioni del Gran Consiglio.
 
 <sup>3</sup> Può essere presentato ricorso alla commissione competente del Gran Consiglio per violazione del diritto di voto e irregolarità nella preparazione o nello svolgimento delle elezioni del Governo.
 
-<sup>4</sup> È data la facoltà di presentare ricorso al Tribunale amministrativo concernente le spiegazioni del Gran Consiglio. Fatto salvo l'articolo 97, la procedura si conforma alla legge sulla giustizia amministrativa.
+<sup>4</sup> Può essere presentato ricorso al Tribunale d'appello contro le spiegazioni di voto del Gran Consiglio. Fatto salvo l'articolo 97, la procedura si conforma alla legge sulla giustizia amministrativa.
 
 #### Art. 96
 
@@ -1196,8 +1241,8 @@ decide:
 
 <sup>1</sup> I ricorsi devono essere presentati entro tre giorni dalla rilevazione del motivo d'impugnazione, tuttavia non oltre il terzo giorno seguente la pubblicazione ufficiale dei risultati di un'elezione o votazione alle seguenti autorità:
 
-- a) alla Cancelleria dello Stato: ricorsi conformemente all'articolo 95 capoversi 1-3;
-- b) al Tribunale amministrativo: ricorsi conformemente all'articolo 95 capoverso 4.
+- a) alla Cancelleria dello Stato: ricorsi conformemente all'articolo 95 capoverso 1 e capoverso 3;
+- b) al Tribunale d'appello: ricorsi conformemente all'articolo 95 capoverso 2 e capoverso 4.
 
 #### Art. 98
 
@@ -1233,9 +1278,9 @@ decide:
 
 #### Art. 102
 
-**Impugnazione dinanzi al Tribunale amministrativo**
+**Impugnazione dinanzi al Tribunale d'appello**
 
-<sup>1</sup> Le decisioni del Governo, del Gran Consiglio e della Commissione competente del Gran Consiglio, nonché delle autorità dei tribunali regionali, delle regioni e dei comuni sono soggette al ricorso dinanzi al Tribunale amministrativo per violazione dei diritti politici.
+<sup>1</sup> Le decisioni del Governo e della commissione competente del Gran Consiglio nonché delle autorità dei tribunali regionali, delle regioni e dei comuni sono soggette a ricorso per violazione dei diritti politici dinanzi al Tribunale d'appello.
 
 <sup>2</sup> La procedura si conforma alla legge sulla giustizia amministrativa[^102-1].
 

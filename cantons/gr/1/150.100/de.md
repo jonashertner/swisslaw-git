@@ -4,13 +4,12 @@ number: "150.100"
 title: Gesetz über die politischen Rechte im Kanton Graubünden
 short: GPR
 language: de
-version: 2025-01-01
-corrected: 2024-03-19
-version_adopted: 2022-06-14
+version: 2026-01-01
+version_adopted: 2025-04-22
 adopted: 2005-06-17
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/150.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3374/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3568/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3374/pdf_file"
 
 (GPR)
 
-Vom 17.06.2005 (Stand 01.01.2025)
+Vom 17.06.2005 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -436,11 +435,24 @@ beschliesst:
 
 #### Art. 27
 
-**Stimm- und Wahlzettel**
+**Stimm- und Wahlzettel 1. Inhalt**
+
+<sup>1</sup> Der Stimmzettel enthält bei Sachabstimmungen die Abstimmungsfrage und den Raum zur Beantwortung.
+
+<sup>2</sup> Der Wahlzettel enthält bei den kantonalen und regionalen Majorzwahlen:
+
+- a) mit fortlaufender Nummerierung die auf den gültigen Wahlvorschlägen aufgeführten Namen und Vornamen der Kandidierenden in alphabetischer Reihenfolge und die weiteren Angaben zu den Kandidierenden (Jahrgang, Berufsbezeichnung, Wohnort und gegebenenfalls Zugehörigkeit zu einer Partei oder Gruppierung sowie bei bisherigen Amtsinhaberinnen und Amtsinhabern den Vermerk "bisher");
+- b) vor jedem Namen ein Feld zum Ankreuzen.
+
+#### Art. 27a
+
+**2. Ausfüllen**
 
 <sup>1</sup> Für die Stimmabgabe müssen die amtlichen Stimm- und Wahlzettel benutzt werden.
 
 <sup>2</sup> Stimm- und Wahlzettel müssen persönlich und handschriftlich ausgefüllt beziehungsweise geändert werden. Artikel 25 Absatz 2 bleibt vorbehalten.
+
+<sup>3</sup> Auf den Wahlzetteln für die kantonalen und regionalen Majorzwahlen sind für die Stimmabgabe die vorgedruckten Namen der Kandidierenden im vorgesehenen Feld anzukreuzen (x). Wird der Name einer vorgeschlagenen Person angekreuzt und zugleich gestrichen, wird die Stimme nicht gezählt.
 
 #### Art. 28
 
@@ -545,9 +557,11 @@ beschliesst:
 
 #### Art. 33
 
-**3. Leere Wahl- oder Stimmzettel**
+**3. Leere Wahl- oder Stimmzettel, leere Stimmen**
 
-<sup>1</sup> Wahl- oder Stimmzettel gelten als leer, wenn sie keinen Namen beziehungsweise keine Antwort auf die zur Abstimmung unterbreitete Frage enthalten. Wenn ein Stimmzettel mehrere Fragen umfasst, gelten die unbeantworteten Fragen als leere Stimmen.
+<sup>1</sup> Wahlzettel gelten bei den kantonalen und regionalen Majorzwahlen als leer, wenn sie überhaupt nicht beschriftet worden sind.
+
+<sup>2</sup> Stimmzettel gelten als leer, wenn sie keine Antwort auf die zur Abstimmung unterbreitete Frage enthalten. Wenn ein Stimmzettel mehrere Fragen umfasst, gelten unbeantwortete Fragen als leere Stimmen.
 
 #### Art. 34
 
@@ -562,6 +576,8 @@ beschliesst:
 - e) wesentliche Teile fehlen;
 - f) sie auf die "Bisherigen" oder ähnlich lauten.
 
+<sup>1<sup>bis</sup></sup> Bei den kantonalen und regionalen Majorzwahlen sind überdies Wahlzettel ungültig, bei denen die Zahl der angekreuzten Namen die Zahl der zu wählenden Personen übersteigt.
+
 <sup>2</sup> Bei der brieflichen Stimmabgabe sind die Wahl- oder Stimmzettel zudem ungültig, wenn:
 
 - a) der Stimmrechtsausweis nicht beiliegt oder nicht unterschrieben ist;
@@ -573,15 +589,21 @@ beschliesst:
 
 #### Art. 35
 
-**5. Ungültige Stimmen bei Wahlen**
+**5. Ungültige Stimmen bei kommunalen Majorzwahlen ohne Wahlzettel zum Ankreuzen**
 
-<sup>1</sup> Eine Stimme ist ungültig wenn sie:
+<sup>1</sup> Bei kommunalen Majorzwahlen ohne Wahlzettel zum Ankreuzen gelten bezüglich der Ungültigkeit von Stimmen die Regelungen gemäss Absatz 2 und Absatz 3, soweit das Gemeinderecht nichts bestimmt.
+
+- a) …
+- b) …
+- c) …
+
+<sup>2</sup> Eine Stimme ist ungültig, wenn sie:
 
 - a) einer nicht wählbaren Person gilt;
-- b) auf eine Person lautet, die derselbe Stimmzettel bereits enthält (Kumulation);
-- c) begründete Zweifel darüber offen lässt, wem sie gilt.
+- b) auf eine Person lautet, deren Namen derselbe Wahlzettel bereits enthält (Kumulation);
+- c) begründete Zweifel darüber offenlässt, wem sie gilt.
 
-<sup>2</sup> Enthält ein Wahlzettel mehr gültige Namen, als Personen zu wählen sind, sind die überzähligen Stimmen ungültig. Die Namen werden von unten nach oben und von rechts nach links gestrichen.
+<sup>3</sup> Enthält ein Wahlzettel mehr gültige Namen als Personen zu wählen sind, sind die überzähligen Stimmen ungültig. Die Namen werden von unten nach oben und von rechts nach links gestrichen.
 
 #### Art. 36
 
@@ -637,8 +659,8 @@ beschliesst:
 <sup>1</sup> Haben mehrere Personen gleich viele Stimmen erhalten, entscheidet über die Wahl oder die Reihenfolge der Einsitznahme das Los. Die Losziehung nimmt vor:
 
 - a) bei kantonalen Wahlen die Regierung;
-- b) bei Regionalgerichtswahlen die Verwaltungskommission;
-- c) bei den Wahlen der Mitglieder des Grossen Rates der Regionalausschuss.
+- b) bei Regionalgerichtswahlen die Verwaltungskommission.
+- c) …
 - d) …
 
 <sup>2</sup> Soweit möglich, werden die Betroffenen für die Losziehung beigezogen. Im Übrigen bestimmt die zuständige Instanz das Verfahren.
@@ -655,7 +677,7 @@ beschliesst:
 
 **2. Nachzählung**
 
-<sup>1</sup> Beträgt beim ermittelten vorläufigen Gesamtergebnis einer Wahl oder Abstimmung die Differenz der Stimmen zwischen der letzten gewählten und der ersten nicht gewählten Person beziehungsweise zwischen den Ja- und Nein-Stimmen weniger als 0,3 Prozent der abgegebenen gültigen Stimmzettel, hat von Amtes wegen eine Nachzählung zu erfolgen.
+<sup>1</sup> Beträgt beim ermittelten vorläufigen Gesamtergebnis einer Majorzwahl oder Abstimmung die Differenz der Stimmen zwischen der letzten gewählten und der ersten nicht gewählten Person beziehungsweise zwischen den Ja- und Nein-Stimmen weniger als 0,3 Prozent der abgegebenen gültigen Stimmzettel, hat von Amtes wegen eine Nachzählung zu erfolgen.
 
 <sup>2</sup> Im Übrigen ordnet bei kantonalen Wahlen und Abstimmungen sowie bei Wahlen der Mitglieder des Grossen Rates die Regierung, bei Regionalgerichtswahlen die Verwaltungskommission und bei Abstimmungen in regionalen Angelegenheiten der Regionalausschuss eine Nachzählung an, wenn konkrete Anhaltspunkte für Unregelmässigkeiten bestehen.
 
@@ -705,37 +727,60 @@ beschliesst:
 
 #### Art. 49
 
-**Verfahren 1. Einleitung, Instruktion**
+**Verfahren 1. Einleitungsbeschluss**
 
-<sup>1</sup> Der Grosse Rat leitet von Amtes wegen oder auf Anzeige hin ein Amtsenthebungsverfahren ein, wenn er von einem Amtsenthebungsgrund Kenntnis erhält.
+<sup>1</sup> Der Grosse Rat leitet von Amtes wegen oder auf Anzeige hin ein Amtsenthebungsverfahren ein, wenn ein begründeter Anfangsverdacht für das Vorliegen eines Amtsenthebungsgrunds besteht.
 
-<sup>2</sup> Die Instruktion des Einleitungsbeschlusses, die Durchführung der Untersuchung und die Instruktion des Endentscheides obliegen der Kommission für Justiz und Sicherheit.
+<sup>2</sup> Das betroffene Mitglied ist vorgängig anzuhören. Weitere Abklärungen sind vorzunehmen, soweit sie für die Fällung des Einleitungsbeschlusses unerlässlich sind.
 
 #### Art. 50
 
-**2. Untersuchung**
-
-<sup>1</sup> Der Sachverhalt ist von Amtes wegen zu ermitteln.
-
-<sup>2</sup> Die Bestimmungen über die Untersuchungsmittel, die Mitwirkungspflicht der Beteiligten, das rechtliche Gehör und die Akteneinsicht im Verwaltungsrechtspflegegesetz finden sinngemäss Anwendung.
+**…**
 
 #### Art. 51
 
-**3. Amtseinstellung**
+**2. Amtseinstellung**
 
-<sup>1</sup> Liegen hinreichende Anhaltspunkte für einen Amtsenthebungsgrund gemäss Artikel 48 vor, kann der Grosse Rat mit der Mehrheit von drei Vierteln der Mitglieder vorsorglicherweise eine Amtseinstellung, mit oder ohne Lohnkürzung oder -streichung, beschliessen.
+<sup>1</sup> Der Grosse Rat kann mit einer Mehrheit von drei Vierteln der Mitglieder eine Amtseinstellung beschliessen, wenn das Vorliegen eines Amtsenthebungsgrunds glaubhaft gemacht wurde und das Funktionieren der betroffenen Behörde gefährdet ist.
+
+<sup>2</sup> Diese Anordnung kann mit einer Lohnkürzung bis zur Hälfte des Lohnes verbunden werden, wenn eine Rückkehr in das Amt mit überwiegender Wahrscheinlichkeit ausgeschlossen werden kann und der betroffenen Person erlaubt wird, eine Erwerbstätigkeit auszuüben.
 
 #### Art. 52
 
-**4. Entscheid**
+**3. Endentscheid**
 
-<sup>1</sup> Entscheide sind zu begründen und den Betroffenen schriftlich sowie mit einer Rechtsmittelbelehrung versehen zu eröffnen.
+<sup>1</sup> Der Grosse Rat schliesst das Amtsenthebungsverfahren ab, indem er eine Amtsenthebung anordnet oder das Amtsenthebungsverfahren einstellt.
+
+<sup>2</sup> Wird das Quorum für die Amtsenthebung nicht erreicht, gilt das Amtsenthebungsverfahren als eingestellt.
+
+#### Art. 52a
+
+**4. Instruktion und Antragstellung**
+
+<sup>1</sup> Die für die Justiz zuständige Kommission des Grossen Rates leitet das Amtsenthebungsverfahren als instruierende Behörde bis zum Endentscheid.
+
+<sup>2</sup> Die für die Justiz zuständige Kommission des Grossen Rates trifft für die Dauer des Amtsenthebungsverfahrens die erforderlichen vorsorglichen und verfahrensleitenden Anordnungen, soweit nicht der Grosse Rat zuständig ist. Sie kann beim Grossen Rat eine Amtseinstellung beantragen.
+
+<sup>3</sup> Sind die notwendigen Beweise erhoben, unterbreitet die für die Justiz zuständige Kommission des Grossen Rates dem Grossen Rat auf die nächste Session hin Bericht und Antrag:
+
+- a) auf Einleitung oder Nichteinleitung eines Amtsenthebungsverfahrens, sofern ein solcher Antrag nicht offensichtlich unbegründet ist;
+- b) auf Anordnung einer Amtsenthebung oder Einstellung des Amtsenthebungsverfahrens.
 
 #### Art. 53
 
-**5. Rechtsmittel**
+**5. Ergänzende Regelungen**
 
-<sup>1</sup> Entscheide des Grossen Rates betreffend Amtseinstellung und Amtsenthebung können innert 30 Tagen seit der Mitteilung beim Verwaltungsgericht angefochten werden.
+<sup>1</sup> Die Mitglieder des Grossen Rates und der Regierung können zu einer vertrauensärztlichen Untersuchung verpflichtet werden.
+
+<sup>2</sup> Richtet sich die für die Justiz zuständige Kommission des Grossen Rates mit Anträgen an den Grossen Rat, können die Fraktionen die betroffene Person und andere Mitglieder der betroffenen Behörde anhören.
+
+<sup>3</sup> Amtsenthebungsverfahren sind kostenlos. Bei Mutwilligkeit können Verfahrenskosten erhoben werden.
+
+<sup>4</sup> Die Entscheide des Grossen Rates sowie die vorsorglichen und verfahrensleitenden Entscheide der für die Justiz zuständigen Kommission des Grossen Rates, die einen Nachteil zur Folge haben, der sich später voraussichtlich nicht mehr beheben lässt, können beim Obergericht angefochten werden.
+
+<sup>5</sup> Im Übrigen gelten für das Amtsenthebungsverfahren die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^53-1] sinngemäss.
+
+[^53-1]: BR [370.100](https://www.gr-lex.gr.ch/data/370.100/de)
 
 ## 4. Initiativverfahren
 
@@ -1178,11 +1223,11 @@ beschliesst:
 - b) wegen Unregelmässigkeiten bei der Vorbereitung oder Durchführung von kantonalen Abstimmungen und Ständeratswahlen (Abstimmungs- und Wahlbeschwerde);
 - c) gegen den Entscheid der Standeskanzlei betreffend die Änderung des Titels einer Initiative und die Form der Unterschriftenliste.
 
-<sup>2</sup> Beim Grossen Rat kann Beschwerde geführt werden wegen Verletzung des Stimmrechts und wegen Unregelmässigkeiten bei der Vorbereitung oder Durchführung der Grossratswahlen.
+<sup>2</sup> Beim Obergericht kann Beschwerde geführt werden wegen Verletzung des Stimmrechts und wegen Unregelmässigkeiten bei der Vorbereitung oder Durchführung der Grossratswahlen.
 
 <sup>3</sup> Bei der zuständigen grossrätlichen Kommission kann Beschwerde geführt werden wegen Verletzung des Stimmrechts und wegen Unregelmässigkeiten bei der Vorbereitung oder Durchführung der Regierungsratswahlen.
 
-<sup>4</sup> Beim Verwaltungsgericht kann Beschwerde gegen die Abstimmungserläuterungen des Grossen Rates geführt werden. Das Verfahren richtet sich unter Vorbehalt von Artikel 97 nach dem Gesetz über die Verwaltungsrechtspflege.
+<sup>4</sup> Beim Obergericht kann Beschwerde gegen die Abstimmungserläuterungen des Grossen Rates geführt werden. Das Verfahren richtet sich unter Vorbehalt von Artikel 97 nach dem Gesetz über die Verwaltungsrechtspflege.
 
 #### Art. 96
 
@@ -1196,8 +1241,8 @@ beschliesst:
 
 <sup>1</sup> Die Beschwerden sind innert drei Tagen seit der Entdeckung des Beschwerdegrundes, spätestens jedoch am dritten Tag nach der amtlichen Bekanntgabe der Ergebnisse einer Wahl oder Abstimmung bei folgenden Instanzen einzureichen:
 
-- a) bei der Standeskanzlei: Beschwerden gemäss Artikel 95 Absätze 1 bis 3;
-- b) beim Verwaltungsgericht: Beschwerden gemäss Artikel 95 Absatz 4.
+- a) bei der Standeskanzlei: Beschwerden gemäss Artikel 95 Absatz 1 und Absatz 3;
+- b) beim Obergericht: Beschwerden gemäss Artikel 95 Absatz 2 und Absatz 4.
 
 #### Art. 98
 
@@ -1233,9 +1278,9 @@ beschliesst:
 
 #### Art. 102
 
-**Weiterzug ans Verwaltungsgericht**
+**Weiterzug ans Obergericht**
 
-<sup>1</sup> Entscheide der Regierung, des Grossen Rates und der zuständigen grossrätlichen Kommission sowie der Behörden der Regionalgerichte, Regionen und Gemeinden unterliegen der Beschwerde wegen Verletzung von politischen Rechten an das Verwaltungsgericht.
+<sup>1</sup> Entscheide der Regierung und der zuständigen grossrätlichen Kommission sowie der Behörden der Regionalgerichte, Regionen und Gemeinden unterliegen der Beschwerde wegen Verletzung von politischen Rechten an das Obergericht.
 
 <sup>2</sup> Das Verfahren richtet sich nach dem Verwaltungsrechtspflegegesetz[^102-1].
 
