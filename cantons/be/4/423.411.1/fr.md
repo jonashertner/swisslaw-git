@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Ordonnance sur l’encouragement des activités culturelles
 short: OEAC
 language: fr
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-13
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-09-17
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3099/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3234/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3099/pdf_file"
 
 (OEAC)
 
-du 13.11.2013 (état au 01.01.2025)
+du 13.11.2013 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -645,7 +645,7 @@ Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Biel/Bienne, Brügg, Brüttelen,
 
 <sup>3</sup> La sous-région Biel/Bienne-Jura bernois se compose des communes suivantes:
 
-Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Eschert, Evilard, Grandval, La Ferrière, La Neuveville, Loveresse, Mont-Tramelan, Moutier, Nods, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Plateau de Diesse, Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Saicourt, Saint-Imier, Sauge, Saules (BE), Schelten, Seehof, Sonceboz-Sombeval, Sonvilier, Sorvilier, Tavannes, Tramelan, Valbirse, Villeret.
+Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Eschert, Evilard, Grandval, La Ferrière, La Neuveville, Loveresse, Mont-Tramelan, Nods, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Plateau de Diesse, Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Saicourt, Saint-Imier, Sauge, Saules (BE), Schelten, Seehof, Sonceboz-Sombeval, Sonvilier, Sorvilier, Tavannes, Tramelan, Valbirse, Villeret.
 
 <sup>4</sup> Les institutions culturelles suivantes sont soutenues par l'ensemble des communes de la région Biel/Bienne-Seeland-Jura bernois:
 
@@ -669,15 +669,15 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 <sup>6</sup> Les institutions culturelles suivantes sont soutenues par les communes de la sous-région Biel/Bienne-Jura bernois:
 
 - a Centre de culture et de loisirs (commune-siège Saint-Imier),
-- b Centre culturel de la Prévôté (commune-siège Moutier),
+- b …
 - c Café-Théâtre de la Tour de Rive (commune-siège La Neuveville),
 - d Centre culturel Le Royal (commune-siège Tavannes),
 - e Revue Intervalles (commune-siège Plateau de Diesse),
 - f Musée de St-Imier (commune-siège Saint-Imier),
 - g Musée d'Art et d'Histoire de la Neuveville (commune-siège La Neuveville),
-- h Musée du Tour automatique et d'Histoire de Moutier (commune-siège Moutier),
+- h …
 - i Bibliothèque régionale de St-Imier (commune-siège Saint-Imier),
-- k Bibliothèque régionale de Moutier (commune-siège Moutier),
+- k …
 - l Bibliothèque régionale de Tavannes (commune-siège Tavannes),
 - m Bibliothèque régionale de La Neuveville (commune-siège La Neuveville).
 

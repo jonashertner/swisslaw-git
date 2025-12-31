@@ -4,13 +4,13 @@ number: "423.411.1"
 title: Kantonale Kulturförderungsverordnung
 short: KKFV
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-11-13
+version: 2026-01-01
+valid_until: 2026-07-31
+version_adopted: 2025-09-17
 adopted: 2013-11-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3099/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3234/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3099/pdf_file"
 
 (KKFV)
 
-vom 13.11.2013 (Stand 01.01.2025)
+vom 13.11.2013 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -641,11 +641,11 @@ beschliesst:
 
 <sup>2</sup> Zur Teilregion Biel/Bienne-Seeland gehören folgende Gemeinden:
 
-Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Leubringen, Finsterhennen, Gals, Gampelen, Grossaffoltern, Hagneck, Hermrigen, Ins, Ipsach, Jens, Kallnach, Kappelen, Lengnau (BE), Leuzigen, Ligerz, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mörigen, Müntschemier, Nidau, Oberwil bei Büren, Orpund, Pieterlen, Port, Radelfingen, Rapperswil (BE), Rüti bei Büren, Safnern, Scheuren, Schüpfen, Schwadernau, Seedorf (BE), Siselen, Studen, Sutz-Lattrigen, Täuffelen, Treiten, Tschugg, Twann-Tüscherz, Vinelz, Walperswil, Wengi, Worben.
+Aarberg, Aegerten, Arch, Bargen (BE), Bellmund, Biel/Bienne, Brügg, Brüttelen, Büetigen, Bühl, Büren an der Aare, Diessbach bei Büren, Dotzigen, Epsach, Erlach, Evilard, Finsterhennen, Gals, Gampelen, Grossaffoltern, Hagneck, Hermrigen, Ins, Ipsach, Jens, Kallnach, Kappelen, Lengnau (BE), Leuzigen, Ligerz, Lüscherz, Lyss, Meienried, Meinisberg, Merzligen, Mörigen, Müntschemier, Nidau, Oberwil bei Büren, Orpund, Pieterlen, Port, Radelfingen, Rapperswil (BE), Rüti bei Büren, Safnern, Scheuren, Schüpfen, Schwadernau, Seedorf (BE), Siselen, Studen, Sutz-Lattrigen, Täuffelen, Treiten, Tschugg, Twann-Tüscherz, Vinelz, Walperswil, Wengi, Worben.
 
 <sup>3</sup> Zur Teilregion Biel/Bienne-Jura bernois gehören folgende Gemeinden:
 
-Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Eschert, Leubringen, Grandval, La Ferrière, La Neuveville, Loveresse, Mont-Tramelan, Moutier, Nods, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Plateau de Diesse, Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Saicourt, Saint-Imier, Sauge, Saules (BE), Schelten, Seehof, Sonceboz-Sombeval, Sonvilier, Sorvilier, Tavannes, Tramelan, Valbirse, Villeret.
+Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortébert, Court, Courtelary, Crémines, Eschert, Evilard, Grandval, La Ferrière, La Neuveville, Loveresse, Mont-Tramelan, Nods, Orvin, Perrefitte, Péry-La Heutte, Petit-Val, Plateau de Diesse, Rebévelier, Reconvilier, Renan (BE), Roches (BE), Romont (BE), Saicourt, Saint-Imier, Sauge, Saules (BE), Schelten, Seehof, Sonceboz-Sombeval, Sonvilier, Sorvilier, Tavannes, Tramelan, Valbirse, Villeret.
 
 <sup>4</sup> Folgende Kulturinstitutionen werden in der gesamten Region Biel/Bienne-Seeland-Jura bernois unterstützt:
 
@@ -669,15 +669,15 @@ Belprahon, Biel/Bienne, Champoz, Corcelles (BE), Corgémont, Cormoret, Cortéber
 <sup>6</sup> Folgende Kulturinstitutionen werden in der Teilregion Biel/Bienne-Jura bernois unterstützt:
 
 - a Centre de culture et de loisirs (Standortgemeinde Saint-Imier),
-- b Centre culturel de la Prévôté (Standortgemeinde Moutier),
+- b …
 - c Café-Théâtre de la Tour de Rive (Standortgemeinde La Neuveville),
 - d Centre culturel Le Royal (Standortgemeinde Tavannes),
 - e Zeitschrift «Intervalles» (Standortgemeinde Plateau de Diesse),
 - f Musée de St-Imier (Standortgemeinde Saint-Imier),
 - g Musée d'Art et d'Histoire de la Neuveville (Standortgemeinde La Neuveville),
-- h Musée du Tour automatique et d'Histoire de Moutier (Standortgemeinde Moutier),
+- h …
 - i Regionalbibliothek St-Imier (Standortgemeinde Saint-Imier),
-- k Regionalbibliothek Moutier (Standortgemeinde Moutier),
+- k …
 - l Regionalbibliothek Tavannes (Standortgemeinde Tavannes),
 - m Regionalbibliothek La Neuveville (Standortgemeinde La Neuveville).
 
