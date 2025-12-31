@@ -4,13 +4,13 @@ number: "257.115"
 title: Verordnung über das kantonale Ordnungsbussenverfahren
 short: "Kantonale Ordnungsbussenverordnung, KOBV"
 language: de
-version: 2021-09-01
-valid_until: 2025-12-31
-version_adopted: 2021-08-24
+version: 2026-01-01
+valid_until: 2026-02-28
+version_adopted: 2025-10-14
 adopted: 2020-05-05
 in_force: 2020-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5324/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6732/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ordnungsbussenverordnung | Strafprozess / Rechtshilfe / Opferhilfe
 
 (Kantonale Ordnungsbussenverordnung, KOBV)
 
-Vom 5. Mai 2020 (Stand 1. September 2021)
+Vom 5. Mai 2020 (Stand 1. Januar 2026)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -43,7 +43,7 @@ beschliesst:
 
 <sup>1</sup> Ordnungsbussen nach den Ziffern 02.1., 02.2., 02.4., 05.1. - 05.04. und 09.1. der Ordnungsbussenliste können auch von Angehörigen der Kantonspolizei in zivil erhoben werden.
 
-<sup>2</sup> Ordnungsbussen nach den Ziffern 06.2., 06.3., 12.1., 12.2., 12.3., 12.4., 12.5., 14.1., 14.2., 14.3. und 14.4. der Ordnungsbussenliste können auch von Angehörigen des Amts für Umwelt und Energie erhoben werden, die durch ihre Kleidung als solche gekennzeichnet sind.
+<sup>2</sup> Ordnungsbussen nach den Ziffern 06.2., 06.3., 12.1., 12.2., 12.3., 12.4., 12.5., 14.1., 14.2., 14.3., 14.4., 14.5., 14.6., 14.7. und 14.8. der Ordnungsbussenliste können auch von Angehörigen des Amts für Umwelt und Energie erhoben werden, die durch ihre Kleidung als solche gekennzeichnet sind.
 
 <sup>3</sup> Ordnungsbussen nach den Ziffern 13.1. und 13.2. können auch von den Revierförsterinnen und Revierförstern, der Kreisforstingenieurin oder dem Kreisforstingenieur und der Kantonsforstingenieurin oder dem Kantonsforstingenieur erhoben werden, die durch ihre Kleidung als solche gekennzeichnet sind.
 
