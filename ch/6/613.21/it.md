@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2007 concernente la perequazione finanziaria e l
 short: OPFC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/792"
 language: it
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2007-11-07
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2007-792-20250601-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2007-792-20260101-it-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/792/20250601/it"
 
 (OPFC)
 
-del 7 novembre 2007 (Stato 1° giugno 2025)
+del 7 novembre 2007 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ vista la legge federale del 3 ottobre 2003[^ingress-1] concernente la perequazio
 
 ordina:
 
-[^ingress-1]: [RS 613.2](https://fedlex.data.admin.ch/eli/cc/2005/225)
+[^ingress-1]: [RS 613.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7785)
 
 ## Titolo 1: Perequazione delle risorse da parte della Confederazione e dei Cantoni
 
@@ -107,8 +107,8 @@ Il gettito fiscale standardizzato della Svizzera comprende:[^5-2]
 [^5-1]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 [^5-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 [^5-3]: Nuovo testo giusta l’all. 3 n. 9 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^5-4]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
-[^5-5]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^5-4]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
+[^5-5]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^5-6]: Introdotto dalla cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
 ### Sezione 2: Reddito determinante delle persone fisiche
@@ -123,7 +123,7 @@ Il gettito fiscale standardizzato della Svizzera comprende:[^5-2]
 
 <sup>3</sup> Se il reddito imponibile di un contribuente è inferiore alla franchigia, il suo reddito determinante è uguale a zero.
 
-[^6-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^6-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 [^6-2]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 
 #### Art. 7
@@ -132,7 +132,7 @@ Il gettito fiscale standardizzato della Svizzera comprende:[^5-2]
 
 Il reddito determinante delle persone fisiche di un determinato Cantone è fissato nell’allegato 2. Esso corrisponde alla somma dei redditi determinanti delle persone fisiche contribuenti nel relativo Cantone secondo la LIFD[^7-1].
 
-[^7-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^7-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### Sezione 3: Reddito determinante tassato alla fonte
 
@@ -142,7 +142,7 @@ Il reddito determinante delle persone fisiche di un determinato Cantone è fissa
 
 Il reddito determinante tassato alla fonte è calcolato in base al rilevamento annuale dei redditi lordi delle persone fisiche tassate alla fonte e al numero di contribuenti conformemente agli articoli 83 segg. e 91 segg. LIFD[^8-1].
 
-[^8-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^8-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 9
 
@@ -155,7 +155,7 @@ Il reddito determinante tassato alla fonte di un determinato Cantone è fissato 
 - c. dei frontalieri tassati integralmente secondo l’articolo 91 LIFD;
 - d. dei frontalieri tassati limitatamente secondo l’articolo 83 LIFD e le convenzioni di doppia imposizione con Austria, Germania, Francia e Italia.
 
-[^9-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^9-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 #### Art. 10
 
@@ -208,79 +208,13 @@ Sono integrate nel calcolo:
 
 La sostanza determinante delle persone fisiche di un Cantone è fissata nell’allegato 4. Essa corrisponde alla somma delle sostanze determinanti delle persone fisiche limitatamente e illimitatamente imponibili nel relativo Cantone.
 
-### Sezione 5: Utili determinanti delle persone giuridiche senza statuto fiscale speciale
+### Sezione 5 e 6: ...
 
-#### Art. 15
+#### Art. 15 a 20
 
-**Calcolo per la singola persona giuridica**
+[^1520-1]
 
-<sup>1</sup> L’utile determinante di una persona giuridica senza statuto fiscale speciale corrisponde all’utile netto imponibile conformemente all’articolo 58 LIFD[^15-1], dopo deduzione del reddito netto di partecipazioni secondo la LIFD.
-
-<sup>2</sup> Se il reddito netto di partecipazioni è superiore all’utile netto imponibile, l’utile determinante è uguale a zero.
-
-[^15-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-
-#### Art. 16
-
-**Calcolo per il Cantone**
-
-Gli utili determinanti delle persone giuridiche senza statuto fiscale speciale di un determinato Cantone sono fissati nell’allegato 5. Essi corrispondono alla somma degli utili determinanti delle persone giuridiche senza statuto fiscale speciale imponibili in detto Cantone.
-
-### Sezione 6: Utili determinanti delle persone giuridiche con statuto fiscale speciale
-
-#### Art. 17
-
-**Calcolo per le singole persone giuridiche**
-
-L’utile determinante di una persona giuridica con statuto fiscale speciale corrisponde alla somma:
-
-- a. dell’utile imponibile proveniente da proventi dalla Svizzera conformemente all’articolo 28 capoversi 2–4 della legge federale del 14 dicembre 1990[^17-1] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni (LAID);
-- b. dell’utile netto imponibile conformemente all’articolo 58 LIFD[^17-2], dopo deduzione del reddito netto da partecipazioni secondo la LIFD e dell’utile imponibile dalla Svizzera conformemente alla lettera a, ponderato con il fattore beta.
-
-[^17-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^17-2]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-
-#### Art. 18
-
-**Calcolo per il Cantone**
-
-L’utile determinante delle persone giuridiche con statuto fiscale speciale di un determinato Cantone è fissato nell’allegato 6. Esso corrisponde alla somma degli utili determinanti delle persone giuridiche con statuto fiscale speciale imponibili in detto Cantone.
-
-#### Art. 19
-
-**Calcolo dei fattori beta**
-
-<sup>1</sup> Per ogni singola persona giuridica secondo l’articolo 28 capoversi 2–4 LAID[^19-1] viene calcolato un fattore beta. I fattori beta sono fissati nell’allegato 6.
-
-<sup>2</sup> I fattori beta sono identici per tutti i Cantoni.
-
-<sup>3</sup> I fattori beta sono validi per un periodo quadriennale di perequazione delle risorse. Essi si basano sulle cifre degli anni di calcolo del precedente periodo quadriennale di perequazione delle risorse.
-
-<sup>4</sup> I fattori beta corrispondono alla somma di un fattore di base e di un fattore di supplemento.
-
-<sup>5</sup> Il fattore beta delle persone giuridiche con statuto fiscale speciale non tassate definitivamente è 1, a meno che possano essere fornite indicazioni provvisorie in qualità equivalente a quella dei dati tassati definitivamente.[^19-2]
-
-<sup>6</sup> Le indicazioni provvisorie sono di qualità equivalente se, al momento del rilevamento dei dati di un anno di calcolo, sono noti i redditi imponibili secondo l’articolo 17 basati sulla dichiarazione di imposta.[^19-3]
-
-[^19-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
-[^19-2]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
-[^19-3]: Introdotto dalla cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
-
-#### Art. 20
-
-**Fattore di base e fattore di supplemento**
-
-<sup>1</sup>
-
-Il fattore di base corrisponde:
-
-- a. per le persone giuridiche con statuto fiscale speciale ai sensi dell’articolo 28 capoverso 2 LAID[^20-1]: a zero;
-- b. per le persone giuridiche con statuto fiscale speciale ai sensi dell’articolo 28 capoverso 3 LAID: al primo quartile delle quote imponibili degli altri proventi dall’estero di tutte le persone giuridiche in Svizzera che sono tassate conformemente all’articolo 28 capoverso 3 LAID.
-- c. per le persone giuridiche con statuto fiscale speciale ai sensi dell’articolo 28 capoverso 4 LAID: al primo quarto delle quote imponibili degli altri proventi dall’estero di tutte le persone giuridiche in Svizzera che sono tassate conformemente all’articolo 28 capoverso 4 LAID.
-
-<sup>2</sup> Il calcolo dei fattori di supplemento è effettuato conformemente all’allegato 6.
-
-[^20-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^1520-1]: Abrogati dalla cifra III cpv. 4 dell’O del 6 nov. 2019, con effetto dal 1° gen. 2026 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 
 ### Sezione 6*a*: Utili determinanti delle persone giuridiche, tenuto conto degli utili da brevetti
 
@@ -302,8 +236,8 @@ Il fattore di base corrisponde:
 
 <sup>5</sup> Se il risultato del calcolo è negativo, l’utile determinante è uguale a zero.
 
-[^20a-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-[^20a-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^20a-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
+[^20a-2]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 
 #### Art. 20b
 
@@ -315,7 +249,7 @@ Il fattore di base corrisponde:
 
 <sup>3</sup> I fattori zeta 1 e zeta 2 sono ricalcolati di volta in volta per l’ultimo anno di calcolo secondo l’articolo 2 capoverso 3. Per gli altri anni di calcolo sono ripresi i fattori dei relativi anni precedenti.
 
-[^20b-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^20b-1]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 
 #### Art. 20c
 
@@ -327,22 +261,27 @@ Gli utili determinanti delle persone giuridiche di un Cantone sono fissati nell�
 
 #### Art. 21
 
-<sup>1</sup>
+[^21-1]
 
-I riparti fiscali determinanti di un Cantone (allegato 7) corrispondono al saldo ponderato tra la somma degli accrediti d’imposta federale diretta:
+<sup>1</sup> I riparti fiscali determinanti di un Cantone (allegato 7) corrispondono al saldo ponderato degli accrediti d’imposta federale diretta allibrati negli altri Cantoni a favore di detto Cantone durante gli anni di calcolo nonché di quelli allibrati da detto Cantone a favore degli altri Cantoni durante gli anni di calcolo; gli accrediti sono conteggiati sul totale del gettito fiscale.
 
-- a. allibrati negli altri Cantoni a favore di detto Cantone durante gli anni di calcolo;
-- b. allibrati da detto Cantone a favore degli altri Cantoni durante gli anni di calcolo.
+<sup>2</sup> Il calcolo dei riparti fiscali determinanti è effettuato separatamente per le persone fisiche e per le persone giuridiche.
 
-<sup>2</sup> Il fattore di ponderazione di un Cantone corrisponde al rapporto tra la somma dei redditi e degli utili determinanti di detto Cantone ai sensi delle sezioni 2, 3 e 6*a* e il gettito dell’imposta federale diretta in detto Cantone durante gli anni di calcolo.[^21-1]
+<sup>3</sup> Il fattore di ponderazione per le persone fisiche corrisponde al rapporto tra la somma dei redditi determinanti di tutti i Cantoni ai sensi delle sezioni 2 e 3 e il relativo gettito dell’imposta federale diretta durante gli anni di calcolo.
 
-[^21-1]: Nuovo testo giuta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2024 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
+<sup>4</sup> Il fattore di ponderazione per le persone giuridiche corrisponde al rapporto tra la somma degli utili di tutti i Cantoni secondo la sezione 6*a* e il relativo gettito dell’imposta federale diretta durante gli anni di calcolo.
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### Sezione 8: Rilevamento dei dati
 
 #### Art. 22
 
-Il DFF emana istruzioni sul rilevamento e la fornitura dei dati necessari da parte dei Cantoni, come pure sul relativo trattamento da parte degli uffici federali. In merito coinvolge i Cantoni e il Controllo federale delle finanze per parere.
+[^22-1]
+
+Il Dipartimento federale delle finanze (DFF) emana istruzioni sul rilevamento e la fornitura dei dati necessari da parte dei Cantoni, come pure sul relativo trattamento da parte degli uffici federali. In merito coinvolge i Cantoni e il Controllo federale delle finanze per parere.
+
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### Capitolo 2: Versamenti di compensazione
 
@@ -397,8 +336,8 @@ La Confederazione versa il 60 per cento dei mezzi finanziari necessari secondo l
 
 I dati di base sono costituiti dalle statistiche della Confederazione secondo la legge federale del 9 ottobre 1992[^27-1] sulla statistica federale, la legge federale del 26 giugno 1998[^27-2] sul censimento federale della popolazione e le relative ordinanze dell’ultimo anno di volta in volta disponibile.
 
-[^27-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^27-2]: [[RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137). [RU 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869)art. 16]. Vedi ora la L del 22 giu. 2007 ([RS 431.112](https://fedlex.data.admin.ch/eli/cc/2007/869)).
+[^27-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^27-2]: [[RU 1999 917](https://fedlex.data.admin.ch/eli/oc/1999/137). [RU 2007 6743](https://fedlex.data.admin.ch/eli/oc/2007/869)art. 16]. Vedi ora la L del 22 giu. 2007 ([RS 431.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6959)).
 
 #### Art. 28
 
@@ -438,7 +377,7 @@ La compensazione dell’aggravio geotopografico si basa sui seguenti quattro ind
 
 <sup>1</sup> Per ogni indicatore parziale sono calcolati un indice di aggravio e gli oneri speciali determinanti dei Cantoni.
 
-<sup>2</sup> L’indice di aggravio di un determinato Cantone corrisponde al rapporto moltiplicata per il fattore 100 tra il valore dell’indicatore parziale di detto Cantone e il corrispondente valore dell’indicatore parziale di tutta la Svizzera. È arrotondato a una cifra dopo la virgola.
+<sup>2</sup> L’indice di aggravio di un determinato Cantone corrisponde al rapporto moltiplicato per il fattore 100 tra il valore dell’indicatore parziale di detto Cantone e il corrispondente valore dell’indicatore parziale di tutta la Svizzera.[^30-1]
 
 <sup>3</sup> L’indice di aggravio di tutta la Svizzera è di 100 punti.
 
@@ -446,19 +385,20 @@ La compensazione dell’aggravio geotopografico si basa sui seguenti quattro ind
 
 Gli oneri speciali determinanti di un Cantone corrispondono alla differenza ponderata tra l’indice di aggravio di detto Cantone e il corrispondente indice di aggravio di tutta la Svizzera. I fattori di ponderazione sono differenziati in funzione dell’indicatore parziale su cui si basano e corrispondono:
 
-- a.[^30-1] *per l’indicatore parziale altitudine degli insediamenti:* alla popolazione del Cantone residente in modo permanente a oltre 800 metri sul livello del mare;
+- a.[^30-2] *per l’indicatore parziale altitudine degli insediamenti:* alla popolazione del Cantone residente in modo permanente a oltre 800 metri sul livello del mare;
 - b. *per l’indicatore parziale declività del terreno:* alla superficie produttiva del Cantone secondo la statistica di superficie;
-- c.[^30-2] *per l’indicatore parziale struttura dell’insediamento:* alla popolazione residente in modo permanente, domiciliata fuori del territorio dell’agglomerato principale del Cantone;
-- d.[^30-3] *per l’indicatore parziale bassa densità demografica:* alla popolazione residente permanente del Cantone..
+- c.[^30-3] *per l’indicatore parziale struttura dell’insediamento:* alla popolazione residente in modo permanente, domiciliata fuori del territorio dell’agglomerato principale del Cantone;
+- d.[^30-4] *per l’indicatore parziale bassa densità demografica:* alla popolazione residente permanente del Cantone..
 
 <sup>5</sup> Se l’indice di aggravio di un Cantone è inferiore all’indice di aggravio di tutta la Svizzera, i suoi oneri speciali determinanti sono uguali a zero.
 
-<sup>6</sup> ...[^30-4]
+<sup>6</sup> ...[^30-5]
 
-[^30-1]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3809](https://fedlex.data.admin.ch/eli/oc/2013/702)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 [^30-2]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3809](https://fedlex.data.admin.ch/eli/oc/2013/702)).
-[^30-3]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
-[^30-4]: Abrogato dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+[^30-3]: Nuovo testo giusta la cifra I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3809](https://fedlex.data.admin.ch/eli/oc/2013/702)).
+[^30-4]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+[^30-5]: Abrogato dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
 ### Sezione 2: Versamenti di compensazione
 
@@ -523,28 +463,32 @@ Si considerano prestazioni di aiuto sociale in senso lato le prestazioni in dena
 
 <sup>4</sup> Le prestazioni multiple sono contate una sola volta.[^34-6]
 
-[^34-1]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^34-1]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^34-2]: Nuovo testo giusta l’all. 3 n. 9 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
-[^34-3]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^34-3]: [RS 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
 [^34-4]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2017 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 [^34-5]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 [^34-6]: Nuovo testo giusta la cifra I dell’O del 4 nov. 2015, in vigore dal 1° gen. 2017 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
 #### Art. 35
 
-**Indice di aggravio e oneri speciali determinanti**
+**Indice di aggravio e oneri speciali determinanti**[^35-1]
 
-<sup>1</sup> Gli indicatori parziali dei Cantoni sono standardizzati e sintetizzati in un indice di aggravio con l’ausilio di fattori di ponderazione. I fattori di ponderazione sono stabiliti mediante l’analisi delle componenti principali e verificati ogni anno. Il calcolo si fonda sull’allegato 13.
+<sup>1</sup>
 
-<sup>2</sup> L’indice di aggravio di un determinato Cantone è arrotondato di tre cifre dopo la virgola.
+Gli indicatori parziali dei Cantoni sono standardizzati e sintetizzati in un indice di aggravio con l’ausilio di fattori di ponderazione, i quali corrispondono:
 
-<sup>3</sup> Sulla scorta dell’indice di aggravio di un determinato Cantone è calcolato un coefficiente degli oneri per abitante. Tale coefficiente corrisponde alla differenza tra l’indice di aggravio di detto Cantone e quello del Cantone con l’indice più basso.
+- a. al 47 per cento per l’indicatore «Povertà»;
+- b. al 10 per cento per l’indicatore «Struttura di età»;
+- c. al 43 per cento per l’indicatore «Integrazione degli stranieri».
 
-<sup>4</sup> Gli oneri speciali determinanti di un Cantone corrispondono alla differenza ponderata in funzione della popolazione residente permanente tra gli oneri per abitante del Cantone e il corrispondente valore medio degli oneri per abitante di tutti i Cantoni. Se gli oneri per abitante di detto Cantone sono inferiori a tale valore medio, i suoi oneri speciali determinanti sono uguali a zero.
+<sup>2</sup> I fattori di ponderazione sono verificati nel quadro del rapporto sull’efficacia.
 
-<sup>5</sup> ...[^35-1]
+<sup>3</sup> Il calcolo dell’indice di aggravio si fonda sull’allegato 13.
 
-[^35-1]: Abrogato dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+<sup>4</sup> Gli oneri speciali dovuti alla struttura demografica determinanti di un Cantone corrispondono all’indice di aggravio del Cantone ponderato in funzione della popolazione residente permanente. Se l’indice di aggravio di un Cantone è negativo, i suoi oneri speciali determinanti sono uguali a zero.
+
+[^35-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### Sezione 2: Oneri speciali determinanti delle città polo
 
@@ -560,19 +504,25 @@ La compensazione degli oneri speciali delle città polo si basa sui seguenti tre
 
 #### Art. 37
 
-**Indice di aggravio e oneri speciali determinanti**
+**Indice di aggravio e oneri speciali determinanti**[^37-1]
 
-<sup>1</sup> Gli indicatori parziali sono standardizzati e sintetizzati in un indice di aggravio con l’ausilio di un’analisi delle componenti principali. L’indice di aggravio di un Comune corrisponde alla prima componente principale standardizzata degli indicatori parziali standardizzati. Il calcolo si fonda sull’allegato 14.
+<sup>1</sup>
 
-<sup>2</sup> L’indice di aggravio di un determinato Cantone corrisponde al valore medio ponderato degli indici di aggravio dei suoi Comuni. La popolazione residente permanente dei Comuni funge da fattore di ponderazione. L’indice di aggravio del Cantone è arrotondato di tre cifre dopo la virgola.
+Gli indicatori parziali sono standardizzati e sintetizzati in un indice di aggravio con l’ausilio di fattori di ponderazione, che corrispondono:
 
-<sup>3</sup> Sulla scorta dell’indice di aggravio di un Cantone è calcolato un coefficiente degli oneri per abitante di detto Cantone. Tale coefficiente corrisponde alla differenza tra l’indice di aggravio di detto Cantone e quello del Cantone con l’indice più basso.
+- a. al 36 per cento per l’indicatore «Grandezza del Comune»;
+- b. al 38 per cento per l’indicatore «Densità dell’insediamento»;
+- c. al 26 per cento per l’indicatore «Tasso di occupazione».
 
-<sup>4</sup> Gli oneri speciali determinanti delle città polo di un Cantone corrispondono alla differenza ponderata in funzione della popolazione residente permanente tra gli oneri per abitante del Cantone e il corrispondente valore medio degli oneri per abitante di tutti i Cantoni. Se gli oneri per abitante di detto Cantone sono inferiori a tale valore medio, i suoi oneri speciali determinanti sono uguali a zero
+<sup>2</sup> I fattori di ponderazione sono verificati nel quadro del rapporto sull’efficacia.
 
-<sup>5</sup> ...[^37-1]
+<sup>3</sup> Il calcolo dell’indice di aggravio si fonda sull’allegato 14.
 
-[^37-1]: Abrogato dalla cifra I dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+<sup>4</sup> L’indice di aggravio di un determinato Cantone corrisponde al valore medio ponderato degli indici di aggravio dei suoi Comuni. La popolazione residente permanente dei Comuni funge da fattore di ponderazione.
+
+<sup>5</sup> Gli oneri speciali determinanti delle città polo di un Cantone corrispondono alla differenza ponderata in funzione della popolazione residente permanente tra l’indice di aggravio di detto Cantone e il valore medio degli indici di aggravio di tutti i Cantoni. Se l’indice di aggravio di un Cantone è inferiore al valore medio degli indici di aggravio dei Cantoni, i suoi oneri speciali determinanti sono uguali a zero.
+
+[^37-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### Sezione 3: Versamenti di compensazione
 
@@ -653,7 +603,7 @@ Le correzioni dei dati e le stime devono essere documentate. Deve essere garanti
 
 **Gruppo di studio per la garanzia della qualità**
 
-<sup>1</sup> Per garantire la qualità delle basi di calcolo del potenziale delle risorse e degli indici di aggravio, il DFF istituisce un gruppo di studio di accompagnamento composto in modo paritetico di rappresentanti della Confederazione e dei Cantoni.
+<sup>1</sup> Per garantire la qualità delle basi di calcolo del potenziale delle risorse e degli indici di aggravio, il DFF istituisce un gruppo di studio di accompagnamento composto in modo paritetico di rappresentanti della Confederazione e dei Cantoni.[^44-1]
 
 <sup>2</sup>
 
@@ -671,7 +621,10 @@ Il gruppo di studio si compone di:
 
 <sup>6</sup> Il gruppo di studio è diretto da un rappresentante dei Cantoni conformemente al capoverso 2 lettera c.
 
-<sup>7</sup> L’AFF ne assume il segretariato.
+<sup>7</sup> L’AFF assume il segretariato del gruppo di studio.[^44-2]
+
+[^44-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
+[^44-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 #### Art. 45
 
@@ -735,13 +688,30 @@ Il rapporto sull’efficacia ha il contenuto seguente:
 
 **Gruppo paritetico di studio per il rapporto sull’efficacia**
 
-<sup>1</sup> Un gruppo di studio composto in modo paritetico di rappresentanti della Confederazione e dei Cantoni accompagna l’elaborazione del rapporto sull’efficacia. Esso si esprime in particolare in merito all’assegnazione di mandati a periti esterni e all’elaborazione di raccomandazioni ai fini della perequazione delle risorse e della compensazione degli oneri e dei casi di rigore.
+<sup>1</sup> Per accompagnare l’elaborazione del rapporto sull’efficacia, il DFF istituisce un gruppo di studio composto in modo paritetico di rappresentanti della Confederazione e dei Cantoni. Il gruppo di studio si esprime in particolare in merito all’assegnazione di mandati a periti esterni ed elabora raccomandazioni ai fini della perequazione delle risorse e della compensazione degli oneri e dei casi di rigore.[^48-1]
 
 <sup>2</sup> I Cantoni provvedono a una rappresentanza equilibrata della loro delegazione nel gruppo di studio; in particolare essi devono tenere conto in modo adeguato dei diversi gruppi linguistici, urbani e regionali, nonché dei Cantoni finanziariamente forti e di quelli finanziariamente deboli.
 
 <sup>3</sup> Il DFF determina la composizione della delegazione della Confederazione, tra cui i rappresentanti dell’AFF. Un rappresentante dell’AFF dirige il gruppo di studio.
 
-<sup>4</sup> L’AFF ne assume il segretariato.
+<sup>4</sup> L’AFF assume il segretariato del gruppo di studio.[^48-2]
+
+[^48-1]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
+[^48-2]: Nuovo testo giusta la cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
+
+#### Art. 48a
+
+**Organo consultivo paritetico per la perequazione finanziaria tra Confederazione e Cantoni**[^48a-1]
+
+<sup>1</sup> Il DFF istituisce un organo che valuti in termini di fattibilità politica le ripercussioni delle raccomandazioni del gruppo paritetico di studio per il rapporto sull’efficacia. L’organo è composto in modo paritetico di rappresentanti della Confederazione e dei Cantoni.
+
+<sup>2</sup> I Cantoni provvedono a un’adeguata rappresentanza delle regioni linguistiche nonché dei Cantoni finanziariamente forti e di quelli finanziariamente deboli.
+
+<sup>3</sup> In un regolamento interno il DFF disciplina la composizione e le modalità di lavoro dell’organo consultivo paritetico.
+
+<sup>4</sup> L’AFF assume il segretariato dell’organo consultivo paritetico.
+
+[^48a-1]: Introdotto dalla cifra I dell’O del 26 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 #### Art. 49
 
@@ -806,30 +776,21 @@ Il bilancio globale della NPC illustra l’aggravio o lo sgravio finanziario net
 
 <sup>5</sup> I Cantoni perdono il diritto alla compensazione dei casi di rigore a contare dall’anno di riferimento in cui il loro indice delle risorse supera 100 punti. L’importo totale della compensazione dei casi di rigore è diminuito in modo corrispondente.
 
-### Sezione 2*a*: Misure temporanee di attenuazione
-
-[^tit6-sec2a-1]
-
-[^tit6-sec2a-1]: Introdotta dalla cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2021 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
+### Sezione 2*a*: ...
 
 #### Art. 56a
 
-<sup>1</sup> La quota di un Cantone avente diritto ai mezzi finanziari di cui all’articolo 19*c* capoverso 2 LPFC corrisponde al numero di abitanti di detto Cantone, diviso per la somma degli abitanti di tutti i Cantoni aventi diritto.
+[^56a-1]
 
-<sup>2</sup> Gli importi di compensazione delle misure di attenuazione sono fissati nell’allegato 19.
+[^56a-1]: Introdotta dalla cifra I dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Abrogato dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
-### Sezione 3: Rapporto sull’efficacia
+### Sezione 3: ...
 
 #### Art. 57
 
 [^57-1]
 
-<sup>1</sup> Il rapporto sull’efficacia per il periodo 2020–2025 illustra anche l’attuazione della legge federale del 28 settembre 2018[^57-2] concernente la riforma fiscale e il finanziamento dell’AVS nei Cantoni, segnatamente per quanto riguarda la deduzione delle spese di ricerca e sviluppo e la deduzione per l’autofinanziamento.
-
-<sup>2</sup> I Cantoni mettono a disposizione della Confederazione le informazioni necessarie.
-
-[^57-1]: Nuovo testo giusta la cifra I dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
-[^57-2]: [RU 2019 2395](https://fedlex.data.admin.ch/eli/oc/2019/447)
+[^57-1]: Abrogato dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### Sezione 3*a*: Calcolo degli utili determinanti delle persone giuridiche
 
@@ -839,13 +800,9 @@ Il bilancio globale della NPC illustra l’aggravio o lo sgravio finanziario net
 
 #### Art. 57a
 
-**Applicazione agli anni di calcolo**[^57a-1]
+[^57a-1]
 
-<sup>1</sup> Agli anni di calcolo fino al 2019 si applicano le disposizioni del titolo 1 capitolo 1 sezioni 5 e 6, agli anni di calcolo dal 2020 le disposizioni della sezione 6*a*.
-
-<sup>2</sup> Il fattore di ponderazione dei riparti fiscali di cui all’articolo 21 capoverso 2 si basa sugli utili secondo il titolo 1 capitolo 1 sezioni 5 e 6 per gli anni di calcolo fino al 2019 e sugli utili secondo la sezione 6*a* per gli anni di calcolo dal 2020.
-
-[^57a-1]: In vigore dal 1° gen. 2024 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
+[^57a-1]: Abrogato dalla cifra I dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 #### Art. 57b
 
@@ -857,7 +814,7 @@ Il bilancio globale della NPC illustra l’aggravio o lo sgravio finanziario net
 
 <sup>3</sup> Il calcolo e i fattori beta per l’anno di riferimento 2020 sono fissati nell’allegato 6*a*.[^57b-3]
 
-[^57b-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^57b-1]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 [^57b-2]: In vigore dal 1° gen. 2024 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 [^57b-3]: In vigore dal 1° gen. 2024 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 
@@ -939,54 +896,54 @@ Allegato 1[^t-1]
 
 ## Potenziale delle risorse e gettito fiscale standardizzato
 
-[^t-1]: Nuovo testo giusta la cifra I n. 1 dell’O del 5 nov. 2014 ([RU 2014 3825](https://fedlex.data.admin.ch/eli/oc/2014/658)). Aggiornato dalla cifra II n. 2 dell’O del 4 nov. 2015 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) e dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-1]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Potenziale delle risorse
 
-Valori cantonali per l’anno di riferimento 2025
+Valori cantonali per l’anno di riferimento 2026
 
 <table>
-<tr><th>Cantone</th><th>Potenziale di risorse (in 1000 fr.)</th><th>Popolazione residente permanente e non permanente media (valore medio 2018–2020)</th><th>Potenziale di risorse pro capite (in fr.)</th><th>Indice delle risorse</th></tr>
-<tr><td>Zurigo</td><td>64 374 049</td><td>1 554 507</td><td>41 411</td><td>119.0</td></tr>
-<tr><td>Berna</td><td>26 826 871</td><td>1 046 974</td><td>25 623</td><td>73.6</td></tr>
-<tr><td>Lucerna</td><td>13 437 575</td><td>417 392</td><td>32 194</td><td>92.5</td></tr>
-<tr><td>Uri</td><td>910 200</td><td>37 056</td><td>24 563</td><td>70.6</td></tr>
-<tr><td>Svitto</td><td>10 406 533</td><td>162 029</td><td>64 226</td><td>184.5</td></tr>
-<tr><td>Obvaldo</td><td>1 481 215</td><td>38 368</td><td>38 605</td><td>110.9</td></tr>
-<tr><td>Nidvaldo</td><td>2 425 216</td><td>43 584</td><td>55 645</td><td>159.8</td></tr>
-<tr><td>Glarona</td><td>1 030 745</td><td>41 058</td><td>25 105</td><td>72.1</td></tr>
-<tr><td>Zugo</td><td>12 682 566</td><td>129 803</td><td>97 707</td><td>280.7</td></tr>
-<tr><td>Friburgo</td><td>8 148 885</td><td>325 470</td><td>25 037</td><td>71.9</td></tr>
-<tr><td>Soletta</td><td>6 956 460</td><td>278 410</td><td>24 986</td><td>71.8</td></tr>
-<tr><td>Basilea Città</td><td>11 112 319</td><td>198 795</td><td>55 898</td><td>160.6</td></tr>
-<tr><td>Basilea Campagna</td><td>10 039 277</td><td>291 882</td><td>34 395</td><td>98.8</td></tr>
-<tr><td>Sciaffusa</td><td>3 005 269</td><td>83 477</td><td>36 001</td><td>103.4</td></tr>
-<tr><td>Appenzello Esterno</td><td>1 656 532</td><td>55 486</td><td>29 855</td><td>85.8</td></tr>
-<tr><td>Appenzello Interno</td><td>597 491</td><td>16 284</td><td>36 693</td><td>105.4</td></tr>
-<tr><td>San Gallo</td><td>14 480 323</td><td>515 450</td><td>28 093</td><td>80.7</td></tr>
-<tr><td>Grigioni</td><td>6 439 989</td><td>206 404</td><td>31 201</td><td>89.6</td></tr>
-<tr><td>Argovia</td><td>19 534 676</td><td>694 710</td><td>28 119</td><td>80.8</td></tr>
-<tr><td>Turgovia</td><td>8 040 343</td><td>283 003</td><td>28 411</td><td>81.6</td></tr>
-<tr><td>Ticino</td><td>11 154 091</td><td>354 247</td><td>31 487</td><td>90.4</td></tr>
-<tr><td>Vaud</td><td>28 511 972</td><td>818 813</td><td>34 821</td><td>100.0</td></tr>
-<tr><td>Vallese</td><td>8 212 177</td><td>355 492</td><td>23 101</td><td>66.4</td></tr>
-<tr><td>Neuchâtel</td><td>4 550 918</td><td>177 572</td><td>25 629</td><td>73.6</td></tr>
-<tr><td>Ginevra</td><td>25 458 118</td><td>508 151</td><td>50 099</td><td>143.9</td></tr>
-<tr><td>Giura</td><td>1 685 788</td><td>73 840</td><td>22 830</td><td>65.6</td></tr>
-<tr><td>Totale Cantoni</td><td>303 159 599</td><td>8 708 254</td><td>34 813</td><td>100.0</td></tr>
+<tr><th>Cantone</th><th>Potenziale di risorse (in 1000 fr.)</th><th>Popolazione residente permanente e non permanente media (valore medio 2020–2022)</th><th>Potenziale di risorse pro capite (in fr.)</th><th>Indice delle risorse</th></tr>
+<tr><td>Zurigo</td><td>62 518 246</td><td>1 569 618</td><td>39 830</td><td>116.7</td></tr>
+<tr><td>Berna</td><td>25 991 395</td><td>1 052 398</td><td>24 697</td><td>72.4</td></tr>
+<tr><td>Lucerna</td><td>13 211 749</td><td>421 631</td><td>31 335</td><td>91.8</td></tr>
+<tr><td>Uri</td><td>890 916</td><td>37 278</td><td>23 899</td><td>70.0</td></tr>
+<tr><td>Svitto</td><td>10 379 046</td><td>163 737</td><td>63 389</td><td>185.7</td></tr>
+<tr><td>Obvaldo</td><td>1 418 915</td><td>38 684</td><td>36 679</td><td>107.5</td></tr>
+<tr><td>Nidvaldo</td><td>2 363 767</td><td>43 965</td><td>53 764</td><td>157.5</td></tr>
+<tr><td>Glarona</td><td>1 005 891</td><td>41 411</td><td>24 290</td><td>71.2</td></tr>
+<tr><td>Zugo</td><td>12 814 922</td><td>130 851</td><td>97 935</td><td>287.0</td></tr>
+<tr><td>Friburgo</td><td>8 093 655</td><td>329 883</td><td>24 535</td><td>71.9</td></tr>
+<tr><td>Soletta</td><td>6 757 722</td><td>281 098</td><td>24 040</td><td>70.4</td></tr>
+<tr><td>Basilea Città</td><td>10 603 861</td><td>199 290</td><td>53 208</td><td>155.9</td></tr>
+<tr><td>Basilea Campagna</td><td>9 807 726</td><td>294 010</td><td>33 358</td><td>97.7</td></tr>
+<tr><td>Sciaffusa</td><td>3 113 418</td><td>84 387</td><td>36 895</td><td>108.1</td></tr>
+<tr><td>Appenzello Esterno</td><td>1 645 872</td><td>55 693</td><td>29 553</td><td>86.6</td></tr>
+<tr><td>Appenzello Interno</td><td>581 191</td><td>16 378</td><td>35 486</td><td>104.0</td></tr>
+<tr><td>San Gallo</td><td>13 946 965</td><td>520 350</td><td>26 803</td><td>78.5</td></tr>
+<tr><td>Grigioni</td><td>6 628 719</td><td>207 732</td><td>31 910</td><td>93.5</td></tr>
+<tr><td>Argovia</td><td>19 204 317</td><td>704 060</td><td>27 277</td><td>79.9</td></tr>
+<tr><td>Turgovia</td><td>7 770 378</td><td>286 644</td><td>27 108</td><td>79.4</td></tr>
+<tr><td>Ticino</td><td>11 037 674</td><td>354 958</td><td>31 096</td><td>91.1</td></tr>
+<tr><td>Vaud</td><td>28 171 178</td><td>828 127</td><td>34 018</td><td>99.7</td></tr>
+<tr><td>Vallese</td><td>8 419 010</td><td>359 777</td><td>23 401</td><td>68.6</td></tr>
+<tr><td>Neuchâtel</td><td>4 689 660</td><td>177 792</td><td>26 377</td><td>77.3</td></tr>
+<tr><td>Ginevra</td><td>27 147 275</td><td>512 108</td><td>53 011</td><td>155.3</td></tr>
+<tr><td>Giura</td><td>1 629 013</td><td>74 055</td><td>21 997</td><td>64.5</td></tr>
+<tr><td>Totale Cantoni</td><td>299 842 483</td><td>8 785 914</td><td>34 128</td><td>100.0</td></tr>
 </table>
 
 ### 2. Gettito fiscale standardizzato
 
-**Commento del calcolo**
+Commento del calcolo
 
-Il gettito fiscale standardizzato della Svizzera corrisponde alla media delle entrate fiscali di tutti i Cantoni e Comuni. Queste vengono calcolate deducendo le perdite su debitori dal gettito fiscale complessivo di Cantoni e Comuni e addizionando la quota cantonale del prodotto delle imposte federali dirette (17 %).
+Il gettito fiscale standardizzato della Svizzera corrisponde alla media delle entrate fiscali di tutti i Cantoni e Comuni. Queste vengono calcolate deducendo le perdite su debitori dal gettito fiscale complessivo di Cantoni e Comuni e addizionando la quota cantonale del prodotto delle imposte federali dirette.
 
-L’aliquota d’imposta standardizzata è uguale per tutti i Cantoni e si basa sul potenziale delle risorse e le entrate fiscali della totalità dei Cantoni.
+L’aliquota d’imposta standardizzata è uguale per tutti i Cantoni e si basa sul potenziale delle risorse e sulle entrate fiscali della totalità dei Cantoni.
 
-Valore dell’aliquota d’imposta standardizzata per l’anno di riferimento 2025
+Valore dell’aliquota d’imposta standardizzata per l’anno di riferimento 2026
 
-Aliquota d’imposta standardizzata per l’anno di riferimento 2025 = 28,1 %
+Aliquota d’imposta standardizzata per l’anno di riferimento 2026 = 29,3 %
 
 Allegato 2[^t-2]
 
@@ -994,39 +951,39 @@ Allegato 2[^t-2]
 
 ## Reddito determinante delle persone fisiche
 
-[^t-2]: Nuovo testo giusta la cifra I n. 2 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
-Valori cantonali per l’anno di riferimento 2025
+Valori cantonali per l’anno di riferimento 2026
 
 <table>
 <tr><th>Cantone</th><th>Reddito determinante delle persone fisiche (in 1000 fr.)</th></tr>
-<tr><td>Zurigo</td><td>44 197 630</td></tr>
-<tr><td>Berna</td><td>19 222 601</td></tr>
-<tr><td>Lucerna</td><td>8 718 224</td></tr>
-<tr><td>Uri</td><td>631 593</td></tr>
-<tr><td>Svitto</td><td>6 704 724</td></tr>
-<tr><td>Obvaldo</td><td>999 743</td></tr>
-<tr><td>Nidvaldo</td><td>1 431 541</td></tr>
-<tr><td>Glarona</td><td>691 086</td></tr>
-<tr><td>Zugo</td><td>6 502 190</td></tr>
-<tr><td>Friburgo</td><td>5 984 464</td></tr>
-<tr><td>Soletta</td><td>5 428 692</td></tr>
-<tr><td>Basilea Città</td><td>5 685 725</td></tr>
-<tr><td>Basilea Campagna</td><td>7 573 594</td></tr>
-<tr><td>Sciaffusa</td><td>1 594 920</td></tr>
-<tr><td>Appenzello Esterno</td><td>1 138 118</td></tr>
-<tr><td>Appenzello Interno</td><td>385 318</td></tr>
-<tr><td>San Gallo</td><td>9 414 163</td></tr>
-<tr><td>Grigioni</td><td>4 038 176</td></tr>
-<tr><td>Argovia</td><td>14 606 068</td></tr>
-<tr><td>Turgovia</td><td>5 539 957</td></tr>
-<tr><td>Ticino</td><td>7 277 564</td></tr>
-<tr><td>Vaud</td><td>19 351 591</td></tr>
-<tr><td>Vallese</td><td>5 950 265</td></tr>
-<tr><td>Neuchâtel</td><td>3 107 995</td></tr>
-<tr><td>Ginevra</td><td>14 554 249</td></tr>
-<tr><td>Giura</td><td>1 108 520</td></tr>
-<tr><td>Totale Cantoni</td><td>201 838 710</td></tr>
+<tr><td>Zurigo</td><td>45 898 113</td></tr>
+<tr><td>Berna</td><td>19 563 332</td></tr>
+<tr><td>Lucerna</td><td>8 857 202</td></tr>
+<tr><td>Uri</td><td>642 112</td></tr>
+<tr><td>Svitto</td><td>6 954 516</td></tr>
+<tr><td>Obvaldo</td><td>970 748</td></tr>
+<tr><td>Nidvaldo</td><td>1 449 343</td></tr>
+<tr><td>Glarona</td><td>704 259</td></tr>
+<tr><td>Zugo</td><td>6 922 490</td></tr>
+<tr><td>Friburgo</td><td>6 130 124</td></tr>
+<tr><td>Soletta</td><td>5 543 013</td></tr>
+<tr><td>Basilea Città</td><td>5 817 286</td></tr>
+<tr><td>Basilea Campagna</td><td>7 804 517</td></tr>
+<tr><td>Sciaffusa</td><td>1 656 018</td></tr>
+<tr><td>Appenzello Esterno</td><td>1 153 846</td></tr>
+<tr><td>Appenzello Interno</td><td>393 432</td></tr>
+<tr><td>San Gallo</td><td>9 572 691</td></tr>
+<tr><td>Grigioni</td><td>4 200 814</td></tr>
+<tr><td>Argovia</td><td>14 903 872</td></tr>
+<tr><td>Turgovia</td><td>5 555 173</td></tr>
+<tr><td>Ticino</td><td>7 413 773</td></tr>
+<tr><td>Vaud</td><td>19 988 199</td></tr>
+<tr><td>Vallese</td><td>6 244 858</td></tr>
+<tr><td>Neuchâtel</td><td>3 128 323</td></tr>
+<tr><td>Ginevra</td><td>15 249 917</td></tr>
+<tr><td>Giura</td><td>1 127 740</td></tr>
+<tr><td>Totale Cantoni</td><td>207 845 712</td></tr>
 </table>
 
 Allegato 3[^t-3]
@@ -1035,7 +992,7 @@ Allegato 3[^t-3]
 
 ## Reddito determinante tassato alla fonte
 
-[^t-3]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Definizione delle variabili e dei parametri
 
@@ -1051,7 +1008,7 @@ Allegato 3[^t-3]
 - TE Quota della somma lorda degli stipendi dei frontalieri della Francia tassati limitatamente, con imposizione nel Cantone di Ginevra, rimborsata dal Cantone di Ginevra alla Francia conformemente alla convenzione del 29.1.1973 tra il Cantone di Ginevra e la Francia
 - TF Quota massima (aliquota d’imposta) della somma lorda degli stipendi dei frontalieri della Francia tassati limitatamente, con imposizione in Francia, rimborsata dalla Francia conformemente alla convenzione dell’11.4.1983 tra i Cantoni di Berna, Soletta, Basilea Città, Basilea Campagna, Vaud, Vallese e Neuchâtel e la Francia
 - TG Quota delle entrate fiscali lorde provenienti dai frontalieri dell’Italia tassati limitatamente, rimborsata all’Italia conformemente all’articolo 14*a* CDI-I e agli accordi dei Cantoni dei Grigioni, del Ticino e del Vallese con l’Italia
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image1.png)</sub> Ultima aliquota d’imposta standardizzata disponibile per l’anno di calcolo t (anno di calcolo + 3 anni)
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image1.png)</sub> Ultima aliquota d’imposta standardizzata disponibile per l’anno di calcolo t (anno di calcolo + 3 anni)
 - γ Fattore gamma: rapporto tra il reddito determinante delle persone fisiche della Svizzera e il reddito primario delle economie domestiche private della Svizzera durante gli anni di calcolo, arrotondato a tre decimali. Il fattore gamma è calcolato annualmente
 - δ Fattore delta: fattore con il quale sono presi in considerazione gli oneri dei frontalieri ed è applicata una ponderazione più bassa ai loro redditi BQB, BQC, BQD, BQE, BQF e BQG
 
@@ -1063,35 +1020,35 @@ Allegato 3[^t-3]
 - γ · δ BQB
 - (3) Reddito determinante tassato alla fonte dei frontalieri dell’Austria tassati limitatamente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image2.png)
 
 - (4) Reddito determinante tassato alla fonte dei frontalieri della Germania tassati limitatamente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image3.png)
 
 - (5) Reddito determinante tassato alla fonte dei frontalieri della Francia tassati limitatamente, con imposizione nel Cantone di Ginevra:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image4.png)
 
 - (6) Reddito determinante tassato alla fonte dei frontalieri della Francia tassati limitatamente, con imposizione in Francia:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image5.png)
 
 - (7) Reddito determinante tassato alla fonte dei frontalieri dell’Italia tassati limitatamente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image6.png)
 
-### 3. Valori parametrici per l’anno di riferimento 2025
+### 3. Valori parametrici per l’anno di riferimento 2026
 
 <table>
 <tr><th>Parametro</th><th>Valore</th></tr>
-<tr><td>γ<sub>2019</sub></td><td>0.385</td></tr>
 <tr><td>γ<sub>2020</sub></td><td>0.392</td></tr>
 <tr><td>γ<sub>2021</sub></td><td>0.398</td></tr>
+<tr><td>γ<sub>2022</sub></td><td>0.398</td></tr>
 <tr><td>δ</td><td>0.750</td></tr>
-<tr><td>SST<sub>2022</sub></td><td>0.258</td></tr>
 <tr><td>SST<sub>2023</sub></td><td>0.255</td></tr>
 <tr><td>SST<sub>2024</sub></td><td>0.270</td></tr>
+<tr><td>SST<sub>2025</sub></td><td>0.281</td></tr>
 <tr><td>TC</td><td>0.125</td></tr>
 <tr><td>TD</td><td>0.045</td></tr>
 <tr><td>TE</td><td>0.035</td></tr>
@@ -1112,37 +1069,37 @@ Allegato 3[^t-3]
 - 4\.4.4 *Formula (6), frontalieri della Francia (esclusi i frontalieri della Francia a Ginevra)*: l’imposizione ha luogo da parte della Francia; la Svizzera riceve al massimo il 4,5 per cento del reddito lordo. La quota di reddito imponibile in Svizzera è calcolata dividendo il gettito fiscale, TF ⋅ δ ⋅ BQF, per la relativa aliquota d’imposta standardizzata, SST<sub>t+3</sub>.
 - 4\.4.5 *Formula (7), frontalieri dell’Italia*: rimborso del 40 per cento delle entrate fiscali all’Italia. Il reddito imponibile determinante, γ ⋅ δ ⋅ BQG, è corretto della quota che spetta all’Italia, TG.
 
-### 5. Valori cantonali per l’anno di riferimento 2025
+### 5. Valori cantonali per l’anno di riferimento 2026
 
 <table>
 <tr><th>Cantone</th><th>Reddito determinante tassato alla fonte (in 1000 fr.)</th></tr>
-<tr><td>Zurigo</td><td>2 057 665</td></tr>
-<tr><td>Berna</td><td>673 135</td></tr>
-<tr><td>Lucerna</td><td>329 474</td></tr>
-<tr><td>Uri</td><td>33 258</td></tr>
-<tr><td>Svitto</td><td>168 365</td></tr>
-<tr><td>Obvaldo</td><td>40 728</td></tr>
-<tr><td>Nidvaldo</td><td>44 196</td></tr>
-<tr><td>Glarona</td><td>50 221</td></tr>
-<tr><td>Zugo</td><td>267 840</td></tr>
-<tr><td>Friburgo</td><td>264 640</td></tr>
-<tr><td>Soletta</td><td>224 089</td></tr>
-<tr><td>Basilea Città</td><td>836 196</td></tr>
-<tr><td>Basilea Campagna</td><td>430 050</td></tr>
-<tr><td>Sciaffusa</td><td>142 501</td></tr>
-<tr><td>Appenzello Esterno</td><td>24 478</td></tr>
-<tr><td>Appenzello Interno</td><td>10 011</td></tr>
-<tr><td>San Gallo</td><td>539 569</td></tr>
-<tr><td>Grigioni</td><td>451 607</td></tr>
-<tr><td>Argovia</td><td>801 840</td></tr>
-<tr><td>Turgovia</td><td>360 585</td></tr>
-<tr><td>Ticino</td><td>1 145 590</td></tr>
-<tr><td>Vaud</td><td>1 342 135</td></tr>
-<tr><td>Vallese</td><td>431 427</td></tr>
-<tr><td>Neuchâtel</td><td>275 271</td></tr>
-<tr><td>Ginevra</td><td>2 773 349</td></tr>
-<tr><td>Giura</td><td>109 943</td></tr>
-<tr><td>Totale Cantoni</td><td>13 828 163</td></tr>
+<tr><td>Zurigo</td><td>2 043 470</td></tr>
+<tr><td>Berna</td><td>712 718</td></tr>
+<tr><td>Lucerna</td><td>336 453</td></tr>
+<tr><td>Uri</td><td>34 642</td></tr>
+<tr><td>Svitto</td><td>168 629</td></tr>
+<tr><td>Obvaldo</td><td>40 487</td></tr>
+<tr><td>Nidvaldo</td><td>44 265</td></tr>
+<tr><td>Glarona</td><td>51 780</td></tr>
+<tr><td>Zugo</td><td>294 175</td></tr>
+<tr><td>Friburgo</td><td>267 042</td></tr>
+<tr><td>Soletta</td><td>224 956</td></tr>
+<tr><td>Basilea Città</td><td>837 900</td></tr>
+<tr><td>Basilea Campagna</td><td>427 731</td></tr>
+<tr><td>Sciaffusa</td><td>134 853</td></tr>
+<tr><td>Appenzello Esterno</td><td>28 740</td></tr>
+<tr><td>Appenzello Interno</td><td>10 253</td></tr>
+<tr><td>San Gallo</td><td>563 002</td></tr>
+<tr><td>Grigioni</td><td>471 489</td></tr>
+<tr><td>Argovia</td><td>828 837</td></tr>
+<tr><td>Turgovia</td><td>364 764</td></tr>
+<tr><td>Ticino</td><td>1 177 169</td></tr>
+<tr><td>Vaud</td><td>1 321 419</td></tr>
+<tr><td>Vallese</td><td>451 752</td></tr>
+<tr><td>Neuchâtel</td><td>261 443</td></tr>
+<tr><td>Ginevra</td><td>2 814 128</td></tr>
+<tr><td>Giura</td><td>113 891</td></tr>
+<tr><td>Totale Cantoni</td><td>14 025 987</td></tr>
 </table>
 
 Allegato 4[^t-4]
@@ -1151,279 +1108,156 @@ Allegato 4[^t-4]
 
 ## Sostanza determinante delle persone fisiche
 
-[^t-4]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-4]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Definizione delle variabili e dei parametri
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image7.png)</sub> Entrate dell’imposta sulla sostanza dei Cantoni e dei Comuni
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image8.png)</sub> Sostanza netta
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image9.png)</sub> Entrate dell’imposta sul reddito dei Cantoni e dei Comuni
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image10.png)</sub> Entrate dell’imposta alla fonte dei Cantoni e dei Comuni
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image11.png)</sub> Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD[^annex4-lvlu1-lvl1-1]
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image12.png)</sub> Entrate dell’imposta federale diretta sul reddito
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image13.png)</sub> Redditi determinanti delle persone fisiche
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image14.png)</sub> Redditi determinanti tassati alla fonte delle persone fisiche
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image7.png)</sub> Entrate dell’imposta sulla sostanza dei Cantoni e dei Comuni
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image8.png)</sub> Sostanza netta
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image9.png)</sub> Entrate dell’imposta sul reddito dei Cantoni e dei Comuni
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image10.png)</sub> Entrate dell’imposta alla fonte dei Cantoni e dei Comuni
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image11.png)</sub> Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD[^annex4-lvlu1-lvl1-1]
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image12.png)</sub> Entrate dell’imposta federale diretta sul reddito
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image13.png)</sub> Redditi determinanti delle persone fisiche
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image14.png)</sub> Redditi determinanti tassati alla fonte delle persone fisiche
 
-[^annex4-lvlu1-lvl1-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
+[^annex4-lvlu1-lvl1-1]: [RS 642.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8175)
 
 ### 2. Calcolo del fattore alfa
 
 - 2\.1 Il fattore alfa di cui all’articolo 13 è calcolato secondo la seguente formula:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image15.png)
 
 - 2\.2 Il fattore alfa è calcolato annualmente sulla base degli ultimi sei anni di calcolo disponibili.
 
-### 3. Fattore alfa per gli anni di calcolo 2019–2021
+### 3. Fattore alfa per gli anni di calcolo 2020–2022
 
 <table>
-<tr><th></th><th>2019</th><th>2020</th><th>2021</th></tr>
-<tr><td>Fattore alfa</td><td>0.015</td><td>0.015</td><td>0.015</td></tr>
+<tr><th></th><th>2020</th><th>2021</th><th>2022</th></tr>
+<tr><td>Fattore alfa</td><td>1,5 %</td><td>1,5 %</td><td>1,5 %</td></tr>
 </table>
 
 ### 4. Commento del calcolo del fattore alfa
 
 Il fattore alfa si calcola dividendo lo sfruttamento fiscale della sostanza per lo sfruttamento fiscale dei redditi. Lo sfruttamento fiscale della sostanza corrisponde al totale delle entrate dell’imposta sulla sostanza dei Cantoni e dei Comuni, diviso per il totale della sostanza netta della Svizzera. Lo sfruttamento fiscale dei redditi si calcola sommando le entrate complessive dell’imposta sul reddito e dell’imposta alla fonte realizzate dai Cantoni e dai Comuni, compresa la quota cantonale alle entrate dell’imposta federale diretta sul reddito, e dividendo tale somma per i redditi determinanti delle persone fisiche secondo l’allegato 2 e i redditi determinanti tassati alla fonte secondo l’allegato 3.
 
-### 5. Valori cantonali per l’anno di riferimento 2025
+### 5. Valori cantonali per l’anno di riferimento 2026
 
 <table>
 <tr><th>Cantone</th><th>Sostanza determinante delle persone fisiche (in 1000 fr.)</th></tr>
-<tr><td>Zurigo</td><td>7 253 957</td></tr>
-<tr><td>Berna</td><td>3 246 073</td></tr>
-<tr><td>Lucerna</td><td>1 685 071</td></tr>
-<tr><td>Uri</td><td>125 055</td></tr>
-<tr><td>Svitto</td><td>2 183 432</td></tr>
-<tr><td>Obvaldo</td><td>249 781</td></tr>
-<tr><td>Nidvaldo</td><td>629 752</td></tr>
-<tr><td>Glarona</td><td>130 223</td></tr>
-<tr><td>Zugo</td><td>1 395 041</td></tr>
-<tr><td>Friburgo</td><td>537 084</td></tr>
-<tr><td>Soletta</td><td>485 352</td></tr>
-<tr><td>Basilea Città</td><td>1 104 561</td></tr>
-<tr><td>Basilea Campagna</td><td>761 944</td></tr>
-<tr><td>Sciaffusa</td><td>250 157</td></tr>
-<tr><td>Appenzello Esterno</td><td>260 802</td></tr>
-<tr><td>Appenzello Interno</td><td>110 107</td></tr>
-<tr><td>San Gallo</td><td>1 964 412</td></tr>
-<tr><td>Grigioni</td><td>1 148 803</td></tr>
-<tr><td>Argovia</td><td>2 079 307</td></tr>
-<tr><td>Turgovia</td><td>1 055 299</td></tr>
-<tr><td>Ticino</td><td>1 259 364</td></tr>
-<tr><td>Vaud</td><td>2 539 864</td></tr>
-<tr><td>Vallese</td><td>969 674</td></tr>
-<tr><td>Neuchâtel</td><td>317 267</td></tr>
-<tr><td>Ginevra</td><td>2 480 629</td></tr>
-<tr><td>Giura</td><td>120 613</td></tr>
-<tr><td>Totale Cantoni</td><td>34 343 625</td></tr>
+<tr><td>Zurigo</td><td>7 481 292</td></tr>
+<tr><td>Berna</td><td>3 461 350</td></tr>
+<tr><td>Lucerna</td><td>1 714 310</td></tr>
+<tr><td>Uri</td><td>128 544</td></tr>
+<tr><td>Svitto</td><td>2 263 352</td></tr>
+<tr><td>Obvaldo</td><td>263 319</td></tr>
+<tr><td>Nidvaldo</td><td>644 674</td></tr>
+<tr><td>Glarona</td><td>133 080</td></tr>
+<tr><td>Zugo</td><td>1 433 461</td></tr>
+<tr><td>Friburgo</td><td>553 965</td></tr>
+<tr><td>Soletta</td><td>499 078</td></tr>
+<tr><td>Basilea Città</td><td>1 104 900</td></tr>
+<tr><td>Basilea Campagna</td><td>764 923</td></tr>
+<tr><td>Sciaffusa</td><td>253 453</td></tr>
+<tr><td>Appenzello Esterno</td><td>277 248</td></tr>
+<tr><td>Appenzello Interno</td><td>114 379</td></tr>
+<tr><td>San Gallo</td><td>2 032 371</td></tr>
+<tr><td>Grigioni</td><td>1 224 494</td></tr>
+<tr><td>Argovia</td><td>2 125 907</td></tr>
+<tr><td>Turgovia</td><td>1 077 564</td></tr>
+<tr><td>Ticino</td><td>1 293 887</td></tr>
+<tr><td>Vaud</td><td>2 548 981</td></tr>
+<tr><td>Vallese</td><td>1 008 368</td></tr>
+<tr><td>Neuchâtel</td><td>322 362</td></tr>
+<tr><td>Ginevra</td><td>2 678 999</td></tr>
+<tr><td>Giura</td><td>124 631</td></tr>
+<tr><td>Totale Cantoni</td><td>35 528 892</td></tr>
 </table>
 
-Allegato 5[^t-5]
+Allegati 5 e 6[^t-5]
 
-(art. 16)
+[^t-5]: Abrogati dalla cifra III cpv. 4 dell’O del 6 nov. 2019, con effetto dal 1° gen. 2026 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 
-## Utili determinanti delle persone giuridiche senza statuto fiscale speciale
-
-[^t-5]: Nuovo testo giusta la cifra I n. 2 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
-
-Valori cantonali per l’anno di calcolo 2019
-
-Secondo l’articolo 57*a* capoverso 1, agli anni di calcolo fino al 2019 si applicano le disposizioni del titolo 1 capitolo 1 sezioni 5 e 6, agli anni di calcolo dal 2020 le disposizioni della sezione 6*a*. Nella tabella seguente figurano gli utili determinanti delle persone giuridiche senza statuto fiscale speciale per l’anno di calcolo 2019. Gli utili determinanti delle persone giuridiche per l’anno di riferimento 2025 (anni di calcolo 2019–2021) sono esposti nell’allegato 6*a*.
-
-<table>
-<tr><th>Cantone</th><th>Utili determinanti delle persone giuridiche senza statuto fiscale speciale (in 1000 fr.)</th></tr>
-<tr><td>Zurigo</td><td>17 150 562</td></tr>
-<tr><td>Berna</td><td>6 723 569</td></tr>
-<tr><td>Lucerna</td><td>3 494 293</td></tr>
-<tr><td>Uri</td><td>196 490</td></tr>
-<tr><td>Svitto</td><td>1 793 220</td></tr>
-<tr><td>Obvaldo</td><td>281 630</td></tr>
-<tr><td>Nidvaldo</td><td>506 449</td></tr>
-<tr><td>Glarona</td><td>202 392</td></tr>
-<tr><td>Zugo</td><td>3 515 711</td></tr>
-<tr><td>Friburgo</td><td>1 636 853</td></tr>
-<tr><td>Soletta</td><td>1 247 246</td></tr>
-<tr><td>Basilea Città</td><td>4 697 037</td></tr>
-<tr><td>Basilea Campagna</td><td>1 410 179</td></tr>
-<tr><td>Sciaffusa</td><td>550 981</td></tr>
-<tr><td>Appenzello Esterno</td><td>371 589</td></tr>
-<tr><td>Appenzello Interno</td><td>152 018</td></tr>
-<tr><td>San Gallo</td><td>3 850 521</td></tr>
-<tr><td>Grigioni</td><td>868 681</td></tr>
-<tr><td>Argovia</td><td>3 380 977</td></tr>
-<tr><td>Turgovia</td><td>1 717 035</td></tr>
-<tr><td>Ticino</td><td>2 188 955</td></tr>
-<tr><td>Vaud</td><td>4 986 300</td></tr>
-<tr><td>Vallese</td><td>1 294 116</td></tr>
-<tr><td>Neuchâtel</td><td>1 083 771</td></tr>
-<tr><td>Ginevra</td><td>5 134 010</td></tr>
-<tr><td>Giura</td><td>516 233</td></tr>
-<tr><td>Totale Cantoni</td><td>68 950 817</td></tr>
-</table>
-
-Allegato 6[^t-6]
-
-(art. 18–20)
-
-## Utili determinanti delle persone giuridiche con statuto fiscale speciale
-
-[^t-6]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 al 31 dic. 2025 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
-
-### Fattori di supplemento per il calcolo dei fattori beta
-
-### 1. Definizione delle variabili e dei parametri
-
-- π Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD[^annex6-lvlu1-lvl1-1]
-- TDBG Aliquota dell’imposta federale diretta sull’utile secondo l’articolo 68 LIFD
-- β\* Fattore di base secondo l’articolo 20 capoverso 1
-- ω Fattore di riduzione (retribuzione ai Cantoni per la riscossione dell’imposta federale diretta)
-- SST<sub>2019</sub> Aliquota d’imposta standardizzata per l’anno di riferimento 2019
-
-[^annex6-lvlu1-lvl1-1]: [RS 642.11](https://fedlex.data.admin.ch/eli/cc/1991/1184_1184_1184)
-
-### 2. Calcolo dei fattori di supplemento
-
-I fattori di supplemento di cui all’articolo 20 capoverso 2 sono calcolati secondo la seguente formula:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image16.png)
-
-### 3. Valori parametrici per gli anni di riferimento dal 2020
-
-<table>
-<tr><td>Parametro</td><td>Valore</td></tr>
-<tr><td>π</td><td>0,17</td></tr>
-<tr><td>TDBG</td><td>0,085</td></tr>
-<tr><td>SST2019</td><td>0,261</td></tr>
-<tr><td>ω</td><td>0,5</td></tr>
-</table>
-
-### 4. Fattori beta per gli anni di riferimento dal 2020
-
-<table>
-<tr><th></th><th>Fattore di base β\*</th><th>Fattore di supplemento</th><th>Fattore β</th></tr>
-<tr><td>Società holding</td><td>0,0 %</td><td>2,8 %</td><td>2,8 %</td></tr>
-<tr><td>Società di domicilio</td><td>9,9 %</td><td>2,5 %</td><td>12,4 %</td></tr>
-<tr><td>Società miste</td><td>10,0 %</td><td>2,5 %</td><td>12,5 %</td></tr>
-</table>
-
-### 5. Commento del calcolo dei fattori di supplemento
-
-I fattori beta si calcolano partendo da un fattore di base β\* e da un fattore di supplemento. Il fattore di supplemento è calcolato nel seguente modo: in una prima fase l’aliquota dell’imposta federale diretta riscossa sull’utile, TDBG, è moltiplicata per la quota cantonale, π, (TDBG ‧ π). Successivamente ha luogo una correzione pari alla parte già contenuta nel fattore di base (1–β\*). Con un’ulteriore correzione (1–ϖ) si tiene conto del fatto che la quota cantonale delle entrate dell’imposta federale diretta equivale almeno in parte a un emolumento di riscossione destinato ai Cantoni. In un’ultima fase, questa aliquota d’imposta rettificata è divisa per l’aliquota d’imposta standardizzata dell’anno 2019, SST<sub>2019</sub>. In tal modo si ottiene per estrapolazione un fattore applicabile agli utili.
-
-### 6. Valori cantonali per l’anno di calcolo 2019
-
-Secondo l’articolo 57*a* capoverso 1, agli anni di calcolo fino al 2019 si applicano le disposizioni del titolo 1 capitolo 1 sezioni 5 e 6, agli anni di calcolo dal 2020 le disposizioni della sezione 6*a*. Nella tabella seguente figurano gli utili determinanti delle persone giuridiche con statuto fiscale speciale per l’anno di calcolo 2019. Gli utili determinanti delle persone giuridiche per l’anno di riferimento 2025 (anni di calcolo 2019–2021) sono esposti nell’allegato 6*a*.
-
-<table>
-<tr><th>Cantone</th><th>Utili determinanti delle persone giuridiche con statuto fiscale speciale (in 1000 fr.)</th></tr>
-<tr><td>Zurigo</td><td>1 694 879</td></tr>
-<tr><td>Berna</td><td>413 092</td></tr>
-<tr><td>Lucerna</td><td>713 242</td></tr>
-<tr><td>Uri</td><td>1 005</td></tr>
-<tr><td>Svitto</td><td>227 045</td></tr>
-<tr><td>Obvaldo</td><td>25 919</td></tr>
-<tr><td>Nidvaldo</td><td>35 289</td></tr>
-<tr><td>Glarona</td><td>44 902</td></tr>
-<tr><td>Zugo</td><td>2 423 292</td></tr>
-<tr><td>Friburgo</td><td>374 020</td></tr>
-<tr><td>Soletta</td><td>41 504</td></tr>
-<tr><td>Basilea Città</td><td>967 721</td></tr>
-<tr><td>Basilea Campagna</td><td>689 403</td></tr>
-<tr><td>Sciaffusa</td><td>640 753</td></tr>
-<tr><td>Appenzello Esterno</td><td>21 551</td></tr>
-<tr><td>Appenzello Interno</td><td>552</td></tr>
-<tr><td>San Gallo</td><td>386 582</td></tr>
-<tr><td>Grigioni</td><td>91 778</td></tr>
-<tr><td>Argovia</td><td>39 947</td></tr>
-<tr><td>Turgovia</td><td>17 797</td></tr>
-<tr><td>Ticino</td><td>140 314</td></tr>
-<tr><td>Vaud</td><td>2 346 761</td></tr>
-<tr><td>Vallese</td><td>7 244</td></tr>
-<tr><td>Neuchâtel</td><td>98 567</td></tr>
-<tr><td>Ginevra</td><td>2 296 165</td></tr>
-<tr><td>Giura</td><td>26 437</td></tr>
-<tr><td>Totale Cantoni</td><td>13 765 760</td></tr>
-</table>
-
-Allegato 6a[^t-7]
+Allegato 6a[^t-6]
 
 (art. 20*a*, 20*b* e 20*c*)
 
 ## Utili determinanti delle persone giuridiche
 
-[^t-7]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)) .
+[^t-6]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)) e dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Definizione delle variabili e dei parametri
 
 I fattori zeta servono a ponderare gli utili delle persone giuridiche nel potenziale di risorse in funzione del loro sfruttamento fiscale. Si distingue tra utili soggetti ad imposizione ordinaria, ponderati esclusivamente con il fattore zeta 1, e utili da brevetti e diritti analoghi (utili rientranti nel patent box) soggetti all’imposizione ad aliquota ridotta, ponderati quindi prima con il fattore zeta 2 e successivamente con il fattore zeta 1.
 
 <table>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image17.png)</sub></td><td>Fattore di ponderazione per gli utili delle persone giuridiche. Corrisponde al rapporto tra lo sfruttamento fiscale degli utili delle persone giuridiche e lo sfruttamento fiscale dei redditi e della sostanza delle persone fisiche.</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image18.png)</td><td>Fattore di ponderazione per gli utili rientranti nel patent box. Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario), tenuto conto della quota cantonale delle entrate dell’imposta federale diretta *π.*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image19.png)</td><td>Fattore di base per ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image20.png). Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario).</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image21.png)</td><td>Utili determinanti del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image22.png)</td><td>Redditi determinanti delle persone fisiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image23.png)</td><td>Redditi determinanti tassati alla fonte delle persone fisiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image24.png)</td><td>Sostanza determinante delle persone fisiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image25.png)</td><td>Base di calcolo degli utili delle persone giuridiche del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image26.png)</td><td>Base di calcolo degli utili delle persone giuridiche in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image27.png)</td><td>Utili rientranti nel patent box in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image28.png)</td><td>Utili rientranti nel patent box del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image29.png)</td><td>Utili ordinari in totale</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image30.png)</td><td>Utili ordinari del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image31.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image32.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (senza le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image33.png)</td><td>Entrate dell’imposta sul reddito, alla fonte e sulla sostanza dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image34.png)</td><td>Riduzione nel calcolo dell’utile imponibile secondo l’articolo 24*b* LAID[^annex6a-lvlu1-lvl1-1] del Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image35.png)</td><td>Entrate dell’imposta federale diretta sull’utile delle persone giuridiche</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image36.png)</td><td>Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image37.png)</td><td>Somma delle spese di ricerca e sviluppo secondo l’articolo 24*b* capoverso 3, ma senza un’eventuale deduzione secondo l’articolo 25*a* LAID per le imprese nel Cantone k</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image38.png)</td><td>Quota degli utili non più ponderati con i fattori beta secondo l’articolo 57*b* (fattore di conversione)</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image16.png)</sub></td><td>Fattore di ponderazione per gli utili delle persone giuridiche. Corrisponde al rapporto tra lo sfruttamento fiscale degli utili delle persone giuridiche e lo sfruttamento fiscale dei redditi e della sostanza delle persone fisiche.</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image17.png)</td><td>Fattore di ponderazione per gli utili rientranti nel patent box. Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario), tenuto conto della quota cantonale delle entrate dell’imposta federale diretta *π.*</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image18.png)</td><td>Fattore di base per ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image19.png). Corrisponde alla quota media imponibile degli utili rientranti nel patent box dopo lo sgravio (statutario).</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image20.png)</td><td>Utili determinanti del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image21.png)</td><td>Redditi determinanti delle persone fisiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image22.png)</td><td>Redditi determinanti tassati alla fonte delle persone fisiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image23.png)</td><td>Sostanza determinante delle persone fisiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image24.png)</td><td>Base di calcolo degli utili delle persone giuridiche del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image25.png)</td><td>Base di calcolo degli utili delle persone giuridiche in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image26.png)</td><td>Utili rientranti nel patent box in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image27.png)</td><td>Utili rientranti nel patent box del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image28.png)</td><td>Utili ordinari in totale</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image29.png)</td><td>Utili ordinari del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image30.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image31.png)</td><td>Entrate dell’imposta sull’utile delle persone giuridiche dei Cantoni e dei Comuni (senza le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image32.png)</td><td>Entrate dell’imposta sul reddito, alla fonte e sulla sostanza dei Cantoni e dei Comuni (comprese le quote cantonali delle entrate dell’imposta federale diretta)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image33.png)</td><td>Riduzione nel calcolo dell’utile imponibile secondo l’articolo 24*b* LAID[^annex6a-lvlu1-lvl1-1] del Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image34.png)</td><td>Entrate dell’imposta federale diretta sull’utile delle persone giuridiche</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image35.png)</td><td>Quota cantonale delle entrate dell’imposta federale diretta secondo l’articolo 196 capoverso 1 LIFD</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image36.png)</td><td>Somma delle spese di ricerca e sviluppo secondo l’articolo 24*b* capoverso 3, ma senza un’eventuale deduzione secondo l’articolo 25*a* LAID per le imprese nel Cantone k</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image37.png)</td><td>Quota degli utili non più ponderati con i fattori beta secondo l’articolo 57*b* (fattore di conversione)</td></tr>
 </table>
 
-[^annex6a-lvlu1-lvl1-1]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^annex6a-lvlu1-lvl1-1]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 
 ### 2. Calcolo
 
 - 2\.1 Gli utili determinanti delle persone giuridiche di un Cantone sono calcolati moltiplicando la base di calcolo per il fattore zeta 1:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image39.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image38.png)
 
 - 2\.2 Il fattore zeta 1 di cui all’articolo 20*b* capoverso 1 corrisponde al rapporto tra lo sfruttamento fiscale degli utili delle persone giuridiche e lo sfruttamento fiscale dei redditi e della sostanza delle persone fisiche:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image40.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image39.png)
 
 - 2\.3 Il fattore zeta 1 è calcolato annualmente sulla base degli ultimi sei anni di calcolo disponibili.
 - 2\.4 La base di calcolo degli utili delle persone giuridiche è data dalla somma degli utili soggetti ad imposizione ordinaria, degli utili rientranti nel patent box ponderati e delle spese di ricerca e sviluppo ponderate secondo l’articolo 20*a* capoverso 2:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image41.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image40.png)
 
-- 2\.5 Il fattore zeta 2 di cui all’articolo 20*b* capoverso 2 è calcolato annualmente sulla base di una ponderazione media più bassa degli utili rientranti nel patent box nell’ultimo anno di calcolo disponibile (fattore di base <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image42.png)</sub>). Inoltre si tiene conto del fatto che la quota cantonale delle entrate dell’imposta federale diretta spetta loro senza riduzione.
+- 2\.5 Il fattore zeta 2 di cui all’articolo 20*b* capoverso 2 è calcolato annualmente sulla base di una ponderazione media più bassa degli utili rientranti nel patent box nell’ultimo anno di calcolo disponibile (fattore di base <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image41.png)</sub>). Inoltre si tiene conto del fatto che la quota cantonale delle entrate dell’imposta federale diretta spetta loro senza riduzione.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image43.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image42.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image44.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image43.png)
 
-### 3. Fattori zeta e ponderazione delle spese di ricerca e sviluppo per gli anni di calcolo 2020–2021
+### 3. Fattori zeta e ponderazione delle spese di ricerca e sviluppo per gli anni di calcolo 2020–2022
 
 <table>
-<tr><th></th><th>2019</th><th>2020</th><th>2021</th></tr>
-<tr><td>ζ\_1</td><td>–</td><td>34,0 %</td><td>33,6 %</td></tr>
-<tr><td>ζ\_2</td><td>–</td><td>31,6 %</td><td>34,5 %</td></tr>
-<tr><td>Ponderazione spese R+S</td><td>–</td><td>68,4 %</td><td>65,5 %</td></tr>
+<tr><th></th><th>2020</th><th>2021</th><th>2022</th></tr>
+<tr><td>ζ\_1</td><td>34,0 %</td><td>33,6 %</td><td>33,2 %</td></tr>
+<tr><td>ζ\_2</td><td>31,6 %</td><td>34,5 %</td><td>33,9 %</td></tr>
+<tr><td>Ponderazione spese R+S</td><td>68,4 %</td><td>65,5 %</td><td>66,1 %</td></tr>
 </table>
 
 ### 4. Continuazione dell’applicazione dei fattori beta negli anni di calcolo 2017–2024
 
-- 4\.1 Per gli anni di calcolo t = 2017–2024, gli utili determinanti delle persone giuridiche secondo l’articolo 57*b* sono calcolati secondo il metodo descritto nell’allegato 6 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image45.png)</sub> e il metodo descritto nel numero 2 del presente allegato <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image46.png)</sub>. Gli utili determinanti <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image47.png)</sub> sono calcolati sulla base della media dei due risultati ponderata con il fattore di conversione <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image48.png)</sub>:
+- 4\.1 Per gli anni di calcolo t = 2017–2024, gli utili determinanti delle persone giuridiche secondo l’articolo 57*b* sono calcolati secondo il metodo descritto nell’allegato 6 (<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image44.png)</sub>) della presente ordinanza nella versione valida fino al 31 dicembre 2025 e secondo il metodo descritto nel numero 2 del presente allegato (<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image44.png)</sub>). Gli utili determinanti<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image45.png)</sub> sono calcolati sulla base della media dei due risultati ponderata con il fattore di conversione![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image46.png):
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image49.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image47.png)
 
 - 4\.2 Fattori di conversione nei seguenti anni di calcolo:
 
 <table>
 <tr><td>t</td><td>2017–2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image50.png)</td><td>0 %</td><td>20 %</td><td>40 %</td><td>60 %</td><td>80 %</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image48.png)</td><td>0 %</td><td>20 %</td><td>40 %</td><td>60 %</td><td>80 %</td></tr>
 </table>
 
 - 4\.3 Fattori beta nel periodo di transizione:
@@ -1435,113 +1269,113 @@ I fattori zeta servono a ponderare gli utili delle persone giuridiche nel potenz
 <tr><td>Società miste</td><td>10.0 %</td><td>2.5 %</td><td>12.5 %</td></tr>
 </table>
 
-### 5. Valori cantonali per l’anno di riferimento 2025
+### 5. Valori cantonali per l’anno di riferimento 2026
 
 <table>
 <tr><th>Cantone</th><th>Utili determinanti delle persone giuridiche (in 1000 fr.)</th></tr>
-<tr><td>Zurigo</td><td>10 891 580</td></tr>
-<tr><td>Berna</td><td>4 036 354</td></tr>
-<tr><td>Lucerna</td><td>2 747 618</td></tr>
-<tr><td>Uri</td><td>120 651</td></tr>
-<tr><td>Svitto</td><td>1 360 137</td></tr>
-<tr><td>Obvaldo</td><td>191 568</td></tr>
-<tr><td>Nidvaldo</td><td>333 854</td></tr>
-<tr><td>Glarona</td><td>153 555</td></tr>
-<tr><td>Zugo</td><td>4 517 153</td></tr>
-<tr><td>Friburgo</td><td>1 400 737</td></tr>
-<tr><td>Soletta</td><td>797 718</td></tr>
-<tr><td>Basilea Città</td><td>3 534 213</td></tr>
-<tr><td>Basilea Campagna</td><td>1 289 407</td></tr>
-<tr><td>Sciaffusa</td><td>1 001 158</td></tr>
-<tr><td>Appenzello Esterno</td><td>240 955</td></tr>
-<tr><td>Appenzello Interno</td><td>91 782</td></tr>
-<tr><td>San Gallo</td><td>2 549 007</td></tr>
-<tr><td>Grigioni</td><td>706 028</td></tr>
-<tr><td>Argovia</td><td>1 966 528</td></tr>
-<tr><td>Turgovia</td><td>1 080 495</td></tr>
-<tr><td>Ticino</td><td>1 407 858</td></tr>
-<tr><td>Vaud</td><td>5 299 123</td></tr>
-<tr><td>Vallese</td><td>748 506</td></tr>
-<tr><td>Neuchâtel</td><td>699 730</td></tr>
-<tr><td>Ginevra</td><td>5 604 426</td></tr>
-<tr><td>Giura</td><td>334 496</td></tr>
-<tr><td>Totale Cantoni</td><td>53 104 638</td></tr>
+<tr><td>Zurigo</td><td>7 311 346</td></tr>
+<tr><td>Berna</td><td>2 470 862</td></tr>
+<tr><td>Lucerna</td><td>2 351 927</td></tr>
+<tr><td>Uri</td><td>81 425</td></tr>
+<tr><td>Svitto</td><td>1 055 908</td></tr>
+<tr><td>Obvaldo</td><td>138 146</td></tr>
+<tr><td>Nidvaldo</td><td>238 108</td></tr>
+<tr><td>Glarona</td><td>104 621</td></tr>
+<tr><td>Zugo</td><td>4 166 392</td></tr>
+<tr><td>Friburgo</td><td>1 196 109</td></tr>
+<tr><td>Soletta</td><td>551 680</td></tr>
+<tr><td>Basilea Città</td><td>2 888 023</td></tr>
+<tr><td>Basilea Campagna</td><td>875 349</td></tr>
+<tr><td>Sciaffusa</td><td>1 031 939</td></tr>
+<tr><td>Appenzello Esterno</td><td>191 678</td></tr>
+<tr><td>Appenzello Interno</td><td>60 394</td></tr>
+<tr><td>San Gallo</td><td>1 759 327</td></tr>
+<tr><td>Grigioni</td><td>561 599</td></tr>
+<tr><td>Argovia</td><td>1 320 259</td></tr>
+<tr><td>Turgovia</td><td>758 432</td></tr>
+<tr><td>Ticino</td><td>1 034 116</td></tr>
+<tr><td>Vaud</td><td>4 527 120</td></tr>
+<tr><td>Vallese</td><td>534 433</td></tr>
+<tr><td>Neuchâtel</td><td>579 041</td></tr>
+<tr><td>Ginevra</td><td>6 393 284</td></tr>
+<tr><td>Giura</td><td>247 465</td></tr>
+<tr><td>Totale Cantoni</td><td>42 428 983</td></tr>
 </table>
 
-Allegato 7[^t-8]
+Allegato 7[^t-7]
 
 (art. 21)
 
 ## Riparti fiscali determinanti dell’imposta federale diretta
 
-[^t-8]: Nuovo testo giusta la cifra I n. 2 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-7]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
-Valori cantonali per l’anno di riferimento 2025
+Valori cantonali per l’anno di riferimento 2026
 
 <table>
 <tr><th>Cantone</th><th>Riparti fiscali determinanti dell’imposta federale diretta (in 1000 fr.)</th></tr>
-<tr><td>Zurigo</td><td>–26 784</td></tr>
-<tr><td>Berna</td><td>–351 292</td></tr>
-<tr><td>Lucerna</td><td>–42 812</td></tr>
-<tr><td>Uri</td><td>–358</td></tr>
-<tr><td>Svitto</td><td>–10 124</td></tr>
-<tr><td>Obvaldo</td><td>–604</td></tr>
-<tr><td>Nidvaldo</td><td>–14 127</td></tr>
-<tr><td>Glarona</td><td>5 661</td></tr>
-<tr><td>Zugo</td><td>342</td></tr>
-<tr><td>Friburgo</td><td>–38 039</td></tr>
-<tr><td>Soletta</td><td>20 608</td></tr>
-<tr><td>Basilea Città</td><td>–48 376</td></tr>
-<tr><td>Basilea Campagna</td><td>–15 717</td></tr>
-<tr><td>Sciaffusa</td><td>16 533</td></tr>
-<tr><td>Appenzello Esterno</td><td>–7 821</td></tr>
-<tr><td>Appenzello Interno</td><td>272</td></tr>
-<tr><td>San Gallo</td><td>13 171</td></tr>
-<tr><td>Grigioni</td><td>95 374</td></tr>
-<tr><td>Argovia</td><td>80 933</td></tr>
-<tr><td>Turgovia</td><td>4 007</td></tr>
-<tr><td>Ticino</td><td>63 714</td></tr>
-<tr><td>Vaud</td><td>–20 741</td></tr>
-<tr><td>Vallese</td><td>112 305</td></tr>
-<tr><td>Neuchâtel</td><td>150 656</td></tr>
-<tr><td>Ginevra</td><td>45 465</td></tr>
-<tr><td>Giura</td><td>12 216</td></tr>
-<tr><td>Totale Cantoni</td><td>44 463</td></tr>
+<tr><td>Zurigo</td><td>–215 974</td></tr>
+<tr><td>Berna</td><td>–216 867</td></tr>
+<tr><td>Lucerna</td><td>–48 144</td></tr>
+<tr><td>Uri</td><td>4 194</td></tr>
+<tr><td>Svitto</td><td>–63 359</td></tr>
+<tr><td>Obvaldo</td><td>6 215</td></tr>
+<tr><td>Nidvaldo</td><td>–12 622</td></tr>
+<tr><td>Glarona</td><td>12 151</td></tr>
+<tr><td>Zugo</td><td>–1 596</td></tr>
+<tr><td>Friburgo</td><td>–53 584</td></tr>
+<tr><td>Soletta</td><td>–61 004</td></tr>
+<tr><td>Basilea Città</td><td>–44 248</td></tr>
+<tr><td>Basilea Campagna</td><td>–64 795</td></tr>
+<tr><td>Sciaffusa</td><td>37 155</td></tr>
+<tr><td>Appenzello Esterno</td><td>–5 640</td></tr>
+<tr><td>Appenzello Interno</td><td>2 733</td></tr>
+<tr><td>San Gallo</td><td>19 574</td></tr>
+<tr><td>Grigioni</td><td>170 324</td></tr>
+<tr><td>Argovia</td><td>25 441</td></tr>
+<tr><td>Turgovia</td><td>14 444</td></tr>
+<tr><td>Ticino</td><td>118 728</td></tr>
+<tr><td>Vaud</td><td>–214 540</td></tr>
+<tr><td>Vallese</td><td>179 598</td></tr>
+<tr><td>Neuchâtel</td><td>398 491</td></tr>
+<tr><td>Ginevra</td><td>10 947</td></tr>
+<tr><td>Giura</td><td>15 287</td></tr>
+<tr><td>Totale Cantoni</td><td>12 909</td></tr>
 </table>
 
-Allegato 7a[^t-9]
+Allegato 7a[^t-8]
 
 (art. 22*a*)
 
 ## Contributi ai Cantoni finanziariamente deboli
 
-[^t-9]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-8]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Definizione delle variabili e dei parametri
 
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image51.png)</sub> Contributo al Cantone finanziariamente debole r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image52.png)</sub> Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole r durante gli anni di calcolo
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image53.png)</sub> Indice delle risorse del Cantone finanziariamente debole r
-- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image54.png)</sub> Valore dell’indice della dotazione minima garantita
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image55.png) Gettito fiscale standardizzato della Svizzera per abitante
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image49.png)</sub> Contributo al Cantone finanziariamente debole r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image50.png)</sub> Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole r durante gli anni di calcolo
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image51.png)</sub> Indice delle risorse del Cantone finanziariamente debole r
+- <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image52.png)</sub> Valore dell’indice della dotazione minima garantita
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image53.png) Gettito fiscale standardizzato della Svizzera per abitante
 
 ### 2. Calcolo
 
 - 2\.1 Il contributo a un Cantone finanziariamente debole r è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image56.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image54.png)
 
 - 2\.2 I valori dei parametri *p* e *t* sono calcolati come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image57.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image55.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image58.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image56.png)
 
-### 3. Valori parametrici per l’anno di riferimento 2025
+### 3. Valori parametrici per l’anno di riferimento 2026
 
 <table>
 <tr><th>Parametro</th><th>Valore</th></tr>
-<tr><td>s s e\_C H</td><td>9 768</td></tr>
+<tr><td>s s e\_C H</td><td>10 012</td></tr>
 <tr><td>M</td><td>86.5</td></tr>
 </table>
 
@@ -1550,47 +1384,47 @@ Allegato 7a[^t-9]
 - 4\.1 Il calcolo si fonda sul valore dell’indice delle risorse. Se l’indice delle risorse è inferiore a 70 punti, l’importo di compensazione è fissato in modo che, dopo la perequazione, il Cantone raggiunga esattamente la dotazione minima garantita *M*.
 - 4\.2 Se l’indice delle risorse è superiore a 70 punti, l’indice risultante dopo la perequazione aumenta progressivamente. Se l’indice delle risorse corrisponde esattamente a 70 punti, l’aumento di un’unità del gettito fiscale standardizzato deve ridurre l’importo di compensazione del 90 per cento di questa unità (prelievo marginale). L’entità della progressione è definita dai parametri *p* e *t*, che dipendono dalla quota della dotazione minima garantita *M*, dal limite di 70 punti da cui inizia la progressione e da un tasso di prelievo marginale del 90 per cento.
 
-### 5. Versamento per l’anno 2025
+### 5. Versamento per l’anno 2026
 
 <table>
 <tr><th>Cantone</th><th>Indice delle risorse</th><th colspan="3">Perequazione delle risorse in franchi</th></tr>
 <tr><th></th><th></th><th>orizzontale</th><th>verticale</th><th>totale</th></tr>
-<tr><td>Zurigo</td><td>119.0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Berna</td><td>73.6</td><td>–547 463 353</td><td>–821 195 030</td><td>–1 368 658 383</td></tr>
-<tr><td>Lucerna</td><td>92.5</td><td>–27 977 064</td><td>–41 965 596</td><td>–69 942 660</td></tr>
-<tr><td>Uri</td><td>70.6</td><td>–23 168 397</td><td>–34 752 596</td><td>–57 920 993</td></tr>
-<tr><td>Svitto</td><td>184.5</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Obvaldo</td><td>110.9</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Nidvaldo</td><td>159.8</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Glarona</td><td>72.1</td><td>–23 486 802</td><td>–35 230 202</td><td>–58 717 004</td></tr>
-<tr><td>Zugo</td><td>280.7</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Friburgo</td><td>71.9</td><td>–188 302 395</td><td>–282 453 592</td><td>–470 755 987</td></tr>
-<tr><td>Soletta</td><td>71.8</td><td>–162 450 537</td><td>–243 675 806</td><td>–406 126 343</td></tr>
-<tr><td>Basilea Città</td><td>160.6</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Basilea Campagna</td><td>98.8</td><td>–971 291</td><td>–1 456 937</td><td>–2 428 228</td></tr>
-<tr><td>Sciaffusa</td><td>103.4</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Appenzello Esterno</td><td>85.8</td><td>–10 569 689</td><td>–15 854 534</td><td>–26 424 223</td></tr>
-<tr><td>Appenzello Interno</td><td>105.4</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>San Gallo</td><td>80.7</td><td>–161 512 066</td><td>–242 268 099</td><td>–403 780 165</td></tr>
-<tr><td>Grigioni</td><td>89.6</td><td>–23 414 959</td><td>–35 122 439</td><td>–58 537 398</td></tr>
-<tr><td>Argovia</td><td>80.8</td><td>–216 275 041</td><td>–324 412 561</td><td>–540 687 602</td></tr>
-<tr><td>Turgovia</td><td>81.6</td><td>–81 909 092</td><td>–122 863 638</td><td>–204 772 730</td></tr>
-<tr><td>Ticino</td><td>90.4</td><td>–35 115 218</td><td>–52 672 826</td><td>–87 788 044</td></tr>
-<tr><td>Vaud</td><td>100.0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Vallese</td><td>66.4</td><td>–279 773 060</td><td>–419 659 590</td><td>–699 432 650</td></tr>
-<tr><td>Neuchâtel</td><td>73.6</td><td>–92 763 333</td><td>–139 145 000</td><td>–231 908 333</td></tr>
-<tr><td>Ginevra</td><td>143.9</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Giura</td><td>65.6</td><td>–60 354 489</td><td>–90 531 733</td><td>–150 886 222</td></tr>
-<tr><td>Totale Cantoni</td><td>100.0</td><td>–1 935 506 786</td><td>–2 903 260 179</td><td>–4 838 766 965</td></tr>
+<tr><td>Zurigo</td><td>116.7</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Berna</td><td>72.4</td><td>–607 874 956</td><td>–911 812 434</td><td>–1 519 687 390</td></tr>
+<tr><td>Lucerna</td><td>91.8</td><td>–33 247 039</td><td>–49 870 559</td><td>–83 117 598</td></tr>
+<tr><td>Uri</td><td>70.0</td><td>–24 593 338</td><td>–36 890 007</td><td>–61 483 345</td></tr>
+<tr><td>Svitto</td><td>185.7</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Obvaldo</td><td>107.5</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Nidvaldo</td><td>157.5</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Glarona</td><td>71.2</td><td>–25 632 206</td><td>–38 448 309</td><td>–64 080 515</td></tr>
+<tr><td>Zugo</td><td>287.0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Friburgo</td><td>71.9</td><td>–195 941 507</td><td>–293 912 261</td><td>–489 853 768</td></tr>
+<tr><td>Soletta</td><td>70.4</td><td>–181 278 613</td><td>–271 917 919</td><td>–453 196 532</td></tr>
+<tr><td>Basilea Città</td><td>155.9</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Basilea Campagna</td><td>97.7</td><td>–2 810 594</td><td>–4 215 891</td><td>–7 026 485</td></tr>
+<tr><td>Sciaffusa</td><td>108.1</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Appenzello Esterno</td><td>86.6</td><td>–9 849 249</td><td>–14 773 873</td><td>–24 623 122</td></tr>
+<tr><td>Appenzello Interno</td><td>104.0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>San Gallo</td><td>78.5</td><td>–198 768 710</td><td>–298 153 065</td><td>–496 921 775</td></tr>
+<tr><td>Grigioni</td><td>93.5</td><td>–11 232 182</td><td>–16 848 272</td><td>–28 080 454</td></tr>
+<tr><td>Argovia</td><td>79.9</td><td>–241 085 930</td><td>–361 628 894</td><td>–602 714 824</td></tr>
+<tr><td>Turgovia</td><td>79.4</td><td>–102 133 223</td><td>–153 199 835</td><td>–255 333 058</td></tr>
+<tr><td>Ticino</td><td>91.1</td><td>–32 017 295</td><td>–48 025 943</td><td>–80 043 238</td></tr>
+<tr><td>Vaud</td><td>99.7</td><td>–326 810</td><td>–490 216</td><td>–817 026</td></tr>
+<tr><td>Vallese</td><td>68.6</td><td>–258 364 804</td><td>–387 547 206</td><td>–645 912 010</td></tr>
+<tr><td>Neuchâtel</td><td>77.3</td><td>–74 495 427</td><td>–111 743 141</td><td>–186 238 568</td></tr>
+<tr><td>Ginevra</td><td>155.3</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Giura</td><td>64.5</td><td>–65 373 273</td><td>–98 059 909</td><td>–163 433 182</td></tr>
+<tr><td>Totale Cantoni</td><td>100.0</td><td>–2 065 025 156</td><td>–3 097 537 734</td><td>–5 162 562 890</td></tr>
 </table>
 
-Allegato 8[^t-10]
+Allegato 8[^t-9]
 
 (art. 24)
 
 ## Contributi dei Cantoni finanziariamente forti
 
-[^t-10]: Aggiornato dalla cifra II n. 2 dell’O del 4 nov. 2015 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) e dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-9]: Aggiornato dalla cifra II n. 2 dell’O del 4 nov. 2015 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) e dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Definizione delle variabili e dei parametri
 
@@ -1604,234 +1438,195 @@ Allegato 8[^t-10]
 
 Il contributo di un Cantone finanziariamente forte *q* è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image59.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image57.png)
 
 ### 3. Commento del calcolo
 
 Per determinare il contributo di un Cantone finanziariamente forte q, il suo indice delle risorse che supera 100 punti, RI<sub>q</sub>–100, è moltiplicato per la sua popolazione residente permanente e non permanente media, e<sub>q</sub>. Questo valore è infine messo in relazione con la somma dei valori di tutti i Cantoni *n* finanziariamente forti,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image60.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image58.png)
 
 Ne risulta la quota dei Cantoni finanziariamente forti al contributo globale, A.
 
-### 4. Contributo per l’anno 2025
+### 4. Contributo per l’anno 2026
 
 <table>
 <tr><th>Cantone</th><th>Indice delle risorse</th><th>Contributi in franchi</th></tr>
-<tr><td>Zurigo</td><td>119.0</td><td>546 363 165</td></tr>
-<tr><td>Berna</td><td>73.6</td><td>0</td></tr>
-<tr><td>Lucerna</td><td>92.5</td><td>0</td></tr>
-<tr><td>Uri</td><td>70.6</td><td>0</td></tr>
-<tr><td>Svitto</td><td>184.5</td><td>253 858 705</td></tr>
-<tr><td>Obvaldo</td><td>110.9</td><td>7 750 697</td></tr>
-<tr><td>Nidvaldo</td><td>159.8</td><td>48 362 591</td></tr>
-<tr><td>Glarona</td><td>72.1</td><td>0</td></tr>
-<tr><td>Zugo</td><td>280.7</td><td>434 854 926</td></tr>
+<tr><td>Zurigo</td><td>116.7</td><td>502 525 844</td></tr>
+<tr><td>Berna</td><td>72.4</td><td>0</td></tr>
+<tr><td>Lucerna</td><td>91.8</td><td>0</td></tr>
+<tr><td>Uri</td><td>70.0</td><td>0</td></tr>
+<tr><td>Svitto</td><td>185.7</td><td>268 984 327</td></tr>
+<tr><td>Obvaldo</td><td>107.5</td><td>5 542 169</td></tr>
+<tr><td>Nidvaldo</td><td>157.5</td><td>48 469 677</td></tr>
+<tr><td>Glarona</td><td>71.2</td><td>0</td></tr>
+<tr><td>Zugo</td><td>287.0</td><td>468 748 579</td></tr>
 <tr><td>Friburgo</td><td>71.9</td><td>0</td></tr>
-<tr><td>Soletta</td><td>71.8</td><td>0</td></tr>
-<tr><td>Basilea Città</td><td>160.6</td><td>223 276 280</td></tr>
-<tr><td>Basilea Campagna</td><td>98.8</td><td>0</td></tr>
-<tr><td>Sciaffusa</td><td>103.4</td><td>5 283 633</td></tr>
-<tr><td>Appenzello Esterno</td><td>85.8</td><td>0</td></tr>
-<tr><td>Appenzello Interno</td><td>105.4</td><td>1 630 738</td></tr>
-<tr><td>San Gallo</td><td>80.7</td><td>0</td></tr>
-<tr><td>Grigioni</td><td>89.6</td><td>0</td></tr>
-<tr><td>Argovia</td><td>80.8</td><td>0</td></tr>
-<tr><td>Turgovia</td><td>81.6</td><td>0</td></tr>
-<tr><td>Ticino</td><td>90.4</td><td>0</td></tr>
-<tr><td>Vaud</td><td>100.0</td><td>357 391</td></tr>
-<tr><td>Vallese</td><td>66.4</td><td>0</td></tr>
-<tr><td>Neuchâtel</td><td>73.6</td><td>0</td></tr>
-<tr><td>Ginevra</td><td>143.9</td><td>413 768 660</td></tr>
-<tr><td>Giura</td><td>65.6</td><td>0</td></tr>
-<tr><td>Totale Cantoni</td><td>100.0</td><td>1 935 506 786</td></tr>
+<tr><td>Soletta</td><td>70.4</td><td>0</td></tr>
+<tr><td>Basilea Città</td><td>155.9</td><td>213 485 501</td></tr>
+<tr><td>Basilea Campagna</td><td>97.7</td><td>0</td></tr>
+<tr><td>Sciaffusa</td><td>108.1</td><td>13 108 970</td></tr>
+<tr><td>Appenzello Esterno</td><td>86.6</td><td>0</td></tr>
+<tr><td>Appenzello Interno</td><td>104.0</td><td>1 249 063</td></tr>
+<tr><td>San Gallo</td><td>78.5</td><td>0</td></tr>
+<tr><td>Grigioni</td><td>93.5</td><td>0</td></tr>
+<tr><td>Argovia</td><td>79.9</td><td>0</td></tr>
+<tr><td>Turgovia</td><td>79.4</td><td>0</td></tr>
+<tr><td>Ticino</td><td>91.1</td><td>0</td></tr>
+<tr><td>Vaud</td><td>99.7</td><td>0</td></tr>
+<tr><td>Vallese</td><td>68.6</td><td>0</td></tr>
+<tr><td>Neuchâtel</td><td>77.3</td><td>0</td></tr>
+<tr><td>Ginevra</td><td>155.3</td><td>542 911 026</td></tr>
+<tr><td>Giura</td><td>64.5</td><td>0</td></tr>
+<tr><td>Totale Cantoni</td><td>100.0</td><td>2 065 025 156</td></tr>
 </table>
 
-Allegato 9[^t-11]
+Allegato 9[^t-10]
 
-[^t-11]: Abrogato dalla cifra II cpv. 1 dell’O del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
+[^t-10]: Abrogato dalla cifra II cpv. 1 dell’O del 6 nov. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 
-Allegato 10[^t-12]
+Allegato 10[^t-11]
 
 (art. 29)
 
 ## Definizione del concetto di territorio dell’agglomerato principale e di base dei dati
 
-[^t-12]: Nuovo testo giusta la cifra II dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3809](https://fedlex.data.admin.ch/eli/oc/2013/702)).
+[^t-11]: Nuovo testo giusta la cifra II dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3809](https://fedlex.data.admin.ch/eli/oc/2013/702)).
 
 - 1\. Nell’ambito della compensazione dell’aggravio geotopografico si considerano territorio dell’agglomerato principale i quartieri contigui con una popolazione minima di 200 persone.
 - 2\. La base dei dati è costituita dai dati per ettaro del censimento.
 - 3\. Sono considerati quartieri contigui gli ettari abitati limitrofi.
 
-Allegato 11[^t-13]
+Allegato 11[^t-12]
 
-[^t-13]: Abrogato dalla cifra II n. 3 dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
+[^t-12]: Abrogato dalla cifra II n. 3 dell’O del 4 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)).
 
-Allegato 12[^t-14]
+Allegato 12[^t-13]
 
 (art. 33)
 
-## Compensazione dell’aggravio geotopografico: versamenti di compensazione 2025
+## Compensazione dell’aggravio geotopografico: versamenti di compensazione 2026
 
-[^t-14]: Nuovo testo giusta la cifra I n. 2 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-13]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 <table>
 <tr><th>Cantone</th><th colspan="5">Importi di compensazione in franchi</th></tr>
 <tr><th></th><th>Altitudine degli insediamenti</th><th>Declività del terreno</th><th>Struttura dell’insediamento</th><th>Bassa densità demografica</th><th>Totale</th></tr>
 <tr><td>Zurigo</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Berna</td><td>2 115 617</td><td>1 215 606</td><td>22 381 530</td><td>4 582 683</td><td>30 295 435</td></tr>
-<tr><td>Lucerna</td><td>0</td><td>0</td><td>5 824 200</td><td>0</td><td>5 824 200</td></tr>
-<tr><td>Uri</td><td>587 701</td><td>6 036 076</td><td>1 698 002</td><td>3 995 669</td><td>12 317 449</td></tr>
-<tr><td>Svitto</td><td>2 705 837</td><td>2 223 216</td><td>1 666 083</td><td>599 002</td><td>7 194 139</td></tr>
-<tr><td>Obvaldo</td><td>569 869</td><td>3 006 580</td><td>1 612 856</td><td>1 370 273</td><td>6 559 579</td></tr>
-<tr><td>Nidvaldo</td><td>0</td><td>551 146</td><td>706 160</td><td>300 548</td><td>1 557 853</td></tr>
-<tr><td>Glarona</td><td>0</td><td>3 477 237</td><td>66 331</td><td>2 175 899</td><td>5 719 467</td></tr>
+<tr><td>Berna</td><td>2 029 371</td><td>1 249 736</td><td>22 683 931</td><td>4 682 696</td><td>30 645 734</td></tr>
+<tr><td>Lucerna</td><td>0</td><td>0</td><td>5 708 998</td><td>0</td><td>5 708 998</td></tr>
+<tr><td>Uri</td><td>599 894</td><td>6 031 920</td><td>1 743 038</td><td>3 988 919</td><td>12 363 771</td></tr>
+<tr><td>Svitto</td><td>2 729 352</td><td>2 227 474</td><td>1 688 268</td><td>604 348</td><td>7 249 442</td></tr>
+<tr><td>Obvaldo</td><td>574 314</td><td>3 005 629</td><td>1 579 696</td><td>1 369 695</td><td>6 529 334</td></tr>
+<tr><td>Nidvaldo</td><td>0</td><td>551 975</td><td>671 890</td><td>302 753</td><td>1 526 618</td></tr>
+<tr><td>Glarona</td><td>0</td><td>3 478 102</td><td>53 137</td><td>2 174 329</td><td>5 705 567</td></tr>
 <tr><td>Zugo</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Friburgo</td><td>2 408 819</td><td>0</td><td>6 916 798</td><td>472 038</td><td>9 797 655</td></tr>
+<tr><td>Friburgo</td><td>2 367 281</td><td>0</td><td>6 838 648</td><td>437 516</td><td>9 643 445</td></tr>
 <tr><td>Soletta</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Basilea Città</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Basilea Campagna</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Sciaffusa</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Appenzello Esterno</td><td>19 443 621</td><td>198 398</td><td>2 413 302</td><td>0</td><td>22 055 321</td></tr>
-<tr><td>Appenzello Interno</td><td>5 687 374</td><td>390 537</td><td>2 970 118</td><td>423 502</td><td>9 471 531</td></tr>
-<tr><td>San Gallo</td><td>0</td><td>0</td><td>2 186 367</td><td>0</td><td>2 186 367</td></tr>
-<tr><td>Grigioni</td><td>41 007 883</td><td>67 202 638</td><td>10 236 545</td><td>27 281 512</td><td>145 728 578</td></tr>
+<tr><td>Appenzello Esterno</td><td>19 324 147</td><td>198 140</td><td>2 409 295</td><td>0</td><td>21 931 582</td></tr>
+<tr><td>Appenzello Interno</td><td>5 428 003</td><td>390 414</td><td>2 872 793</td><td>424 957</td><td>9 116 167</td></tr>
+<tr><td>San Gallo</td><td>0</td><td>0</td><td>2 162 741</td><td>0</td><td>2 162 740</td></tr>
+<tr><td>Grigioni</td><td>40 875 965</td><td>67 177 107</td><td>10 213 043</td><td>27 254 138</td><td>145 520 254</td></tr>
 <tr><td>Argovia</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Turgovia</td><td>0</td><td>0</td><td>3 201 669</td><td>0</td><td>3 201 669</td></tr>
-<tr><td>Ticino</td><td>0</td><td>10 581 623</td><td>0</td><td>5 113 967</td><td>15 695 591</td></tr>
-<tr><td>Vaud</td><td>133 900</td><td>0</td><td>0</td><td>0</td><td>133 900</td></tr>
-<tr><td>Vallese</td><td>31 559 988</td><td>31 383 278</td><td>497 706</td><td>15 735 254</td><td>79 176 226</td></tr>
-<tr><td>Neuchâtel</td><td>21 232 994</td><td>2 200 483</td><td>169 171</td><td>0</td><td>23 602 648</td></tr>
+<tr><td>Turgovia</td><td>0</td><td>0</td><td>3 222 399</td><td>0</td><td>3 222 399</td></tr>
+<tr><td>Ticino</td><td>0</td><td>10 592 128</td><td>0</td><td>5 149 206</td><td>15 741 334</td></tr>
+<tr><td>Vaud</td><td>160 430</td><td>0</td><td>0</td><td>0</td><td>160 430</td></tr>
+<tr><td>Vallese</td><td>31 907 682</td><td>31 366 597</td><td>532 986</td><td>15 655 025</td><td>79 462 290</td></tr>
+<tr><td>Neuchâtel</td><td>21 450 468</td><td>2 197 597</td><td>166 217</td><td>0</td><td>23 814 282</td></tr>
 <tr><td>Ginevra</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Giura</td><td>1 013 213</td><td>0</td><td>1 686 571</td><td>2 183 061</td><td>4 882 846</td></tr>
+<tr><td>Giura</td><td>1 019 911</td><td>0</td><td>1 686 329</td><td>2 189 827</td><td>4 896 067</td></tr>
 <tr><td>Totale Cantoni</td><td>128 466 818</td><td>128 466 818</td><td>64 233 409</td><td>64 233 409</td><td>385 400 454</td></tr>
 </table>
 
-Allegato 13[^t-15]
+Allegato 13[^t-14]
 
 (art. 35)
 
-## Oneri speciali determinanti in base alla struttura demografica
+## Indice di aggravio in base alla struttura demografica
 
-[^t-15]: Aggiornato dalla cifra II n. 2 dell’O del 4 nov. 2015 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-14]: Aggiornato dalla cifra II n. 2 dell’O del 4 nov. 2015 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), dalla cifra I n. 2 dell’O del 27 nov. 2024 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)) e dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 Calcolo dell’indice di aggravio
 
 a) Variabili e parametri:
 
-<table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image61.png)</td><td>Indicatore parziale «Povertà» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image62.png)</td><td>Indicatore parziale «Struttura di età» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image63.png)</td><td>Indicatore parziale «Integrazione degli stranieri» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image64.png)</td><td>Valore medio degli indicatori parziali «Povertà» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image65.png)</td><td>Valore medio degli indicatori parziali «Struttura di età» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image66.png)</td><td>Valore medio degli indicatori parziali «Integrazione degli stranieri» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image67.png)</td><td>Deviazione standard degli indicatori parziali «Povertà» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image68.png)</td><td>Deviazione standard degli indicatori parziali «Struttura di età» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image69.png)</td><td>Deviazione standard degli indicatori parziali «Integrazione degli stranieri» dei Cantoni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image70.png)</td><td>Indicatore parziale standardizzato «Povertà» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image71.png)</td><td>Indicatore parziale standardizzato «Struttura di età» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image72.png)</td><td>Indicatore parziale standardizzato «Integrazione degli stranieri» del Cantone *k*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image73.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Povertà»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image74.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Struttura di età»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image75.png)</td><td>Fattore di ponderazione per l’indicatore parziale standardizzato «Integrazione degli stranieri»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image76.png)</td><td>Indice di aggravio degli oneri speciali dovuti alla struttura demografica del Cantone *k*</td></tr>
-</table>
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image59.png) Indicatore parziale «Povertà» del Cantone *k*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image60.png) Indicatore parziale «Struttura di età» del Cantone *k*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image61.png) Indicatore parziale «Integrazione degli stranieri» del Cantone *k*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image62.png) Valore medio degli indicatori parziali «Povertà» dei Cantoni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image63.png) Valore medio degli indicatori parziali «Struttura di età» dei Cantoni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image64.png) Valore medio degli indicatori parziali «Integrazione degli stranieri» dei Cantoni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image65.png) Deviazione standard degli indicatori parziali «Povertà» dei Cantoni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image66.png) Deviazione standard degli indicatori parziali «Struttura di età» dei Cantoni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image67.png) Deviazione standard degli indicatori parziali «Integrazione degli stranieri» dei Cantoni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image68.png) Indicatore parziale standardizzato «Povertà» del Cantone *k*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image69.png) Indicatore parziale standardizzato «Struttura di età» del Cantone *k*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image70.png) Indicatore parziale standardizzato «Integrazione degli stranieri» del Cantone *k*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image71.png) Fattore di ponderazione per l’indicatore «Povertà» secondo l’articolo 35 capoverso 1 lettera a
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image72.png) Fattore di ponderazione per l’indicatore «Struttura di età» secondo l’articolo 35 capoverso 1 lettera b
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image73.png) Fattore di ponderazione per l’indicatore «Integrazione degli stranieri» secondo l’articolo 35 capoverso 1 lettera c
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image74.png) Indice di aggravio degli oneri speciali dovuti alla struttura demografica del Cantone *k*
 
 b) Gli indicatori parziali standardizzati sono calcolati come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image77.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image75.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image78.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image76.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image79.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image77.png).
 
 La standardizzazione ha luogo dividendo le divergenze degli indicatori parziali rispetto al valore medio svizzero per la divergenza standard.
 
 c) L’indice di aggravio degli oneri speciali dovuti alla struttura demografica di un Cantone *k* è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image80.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image78.png)
 
-d) Le ponderazioni sono calcolate mediante un’analisi delle componenti principali. Ai fini della ponderazione vale pertanto la formula:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image81.png),
-
-dove
-
-- µLS Vettore dei fattori di ponderazione
-- λZS Valore proprio massimo della matrice di correlazione degli indicatori parziali standardizzati
-- xZS Vettore proprio del valore proprio λZS
-
-e) Fattori di ponderazione per l’anno 2025:
-
-<table>
-<tr><td>μ<sub>ZSA</sub></td><td>0.55</td></tr>
-<tr><td>μ<sub>ZSS</sub></td><td>–0.01</td></tr>
-<tr><td>μ<sub>ZSI</sub></td><td>0.56</td></tr>
-</table>
-
-Allegato 14[^t-16]
+Allegato 14[^t-15]
 
 (art. 37)
 
-## Oneri speciali determinanti delle città polo
+## Indice di aggravio delle città polo
 
-[^t-16]: Aggiornato dalla cifra II cpv. 2 delle O del 4 nov. 2015 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)), del 16 nov. 2022 ([RU 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)) e dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-15]: Aggiornato dalla cifra II cpv. 2 delle O del 4 nov. 2015 ([RU 2015 4753](https://fedlex.data.admin.ch/eli/oc/2015/781)) del 16 nov. 2022 ([RU 2022 761](https://fedlex.data.admin.ch/eli/oc/2022/761)), dalla cifra I n. 2 dell’O del 27 nov. 2024 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)) e dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Calcolo dell’indice di aggravio dei Comuni
 
 a) Variabili e parametri:
 
-<table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image82.png)</td><td>Indicatore parziale «Grandezza del Comune» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image83.png)</td><td>Indicatore parziale «Densità dell’insediamento» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image84.png)</td><td>Indicatore parziale «Tasso di occupazione» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image85.png)</td><td>Valore medio degli indicatori parziali «Grandezza del Comune» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image86.png)</td><td>Valore medio degli indicatori parziali «Densità dell’insediamento» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image87.png)</td><td>Valore medio degli indicatori parziali «Tasso di occupazione» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image88.png)</td><td>Deviazione standard degli indicatori parziali «Grandezza del Comune» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image89.png)</td><td>Deviazione standard degli indicatori parziali «Densità dell’insediamento» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image90.png)</td><td>Deviazione standard degli indicatori parziali «Tasso di occupazione» dei Comuni</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image91.png)</td><td>Indicatore parziale standardizzato «Grandezza del Comune» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image92.png)</td><td>Indicatore parziale standardizzato «Densità dell’insediamento» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image93.png)</td><td>Indicatore parziale standardizzato «Tasso di occupazione» del Comune *g*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image94.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Grandezza del Comune»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image95.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Densità dell’insediamento»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image96.png)</td><td>Fattore di ponderazione per l’indicatore parziale «Tasso di occupazione»</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image97.png)</td><td>Indice di aggravio degli oneri speciali delle città polo del Comune *g*</td></tr>
-</table>
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image79.png) Indicatore parziale «Grandezza del Comune» del Comune *g*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image80.png) Indicatore parziale «Densità dell’insediamento» del Comune *g*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image81.png) Indicatore parziale «Tasso di occupazione» del Comune *g*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image82.png) Valore medio degli indicatori parziali «Grandezza del Comune» dei Comuni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image83.png) Valore medio degli indicatori parziali «Densità dell’insediamento» dei Comuni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image84.png) Valore medio degli indicatori parziali «Tasso di occupazione» dei Comuni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image85.png) Deviazione standard degli indicatori parziali «Grandezza del Comune» dei Comuni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image86.png) Deviazione standard degli indicatori parziali «Densità dell’insediamento» dei Comuni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image87.png) Deviazione standard degli indicatori parziali «Tasso di occupazione» dei Comuni
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image88.png) Indicatore parziale standardizzato «Grandezza del Comune» del Comune *g*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image89.png) Indicatore parziale standardizzato «Densità dell’insediamento» del Comune *g*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image90.png) Indicatore parziale standardizzato «Tasso di occupazione» del Comune *g*
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image91.png) Fattore di ponderazione per l’indicatore «Grandezza del Comune» secondo l’articolo 37 capoverso 1 lettera a
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image92.png) Fattore di ponderazione per l’indicatore «Densità dell’insediamento» secondo l’articolo 37 capoverso 1 lettera b
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image93.png) Fattore di ponderazione per l’indicatore «Tasso di occupazione» secondo l’articolo 37 capoverso 1 lettera c
+
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image94.png) Indice di aggravio degli oneri speciali delle città polo del Comune *g*
 
 b) Gli indicatori parziali standardizzati sono calcolati come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image98.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image95.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image99.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image96.png),
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image100.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image97.png).
 
 La standardizzazione ha luogo dividendo le divergenze degli indicatori parziali rispetto al valore medio svizzero per la divergenza standard.
 
 c) L’indice di aggravio degli oneri speciali delle città polo di un Comune è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image101.png)
-
-d) Le ponderazioni sono calcolate con l’ausilio di un’analisi delle componenti principali. Ai fini della ponderazione vale pertanto la formula:
-
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image102.png),
-
-dove
-
-- µ<sub>ZF</sub> Vettore dei fattori di ponderazione
-- λ<sub>ZF</sub> Valore proprio massimo della matrice di correlazione degli indicatori parziali standardizzati
-- x<sub>ZF</sub> Vettore proprio del valore proprio λ<sub>ZF</sub>
-
-e) Fattori di ponderazione per l’anno 2025:
-
-<table>
-<tr><td>μ<sub>ZFG</sub></td><td>0.48</td></tr>
-<tr><td>μ<sub>ZFS</sub></td><td>0.50</td></tr>
-<tr><td>μ<sub>ZFB</sub></td><td>0.33</td></tr>
-</table>
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image98.png)
 
 ### 2. Calcolo dell’indice di aggravio dei Cantoni
 
@@ -1847,20 +1642,20 @@ b) Calcolo:
 
 L’indice di aggravio di un Cantone è la media ponderata con la popolazione dell’indice di aggravio dei suoi Comuni. È quindi dato dalla somma degli indici di aggravio dei Comuni nel Cantone moltiplicati per la popolazione residente permanente, divisa per la popolazione residente permanente del Cantone:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image103.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image99.png)
 
-Allegato 15[^t-17]
+Allegato 15[^t-16]
 
 (art. 40)
 
-## Compensazione dell’aggravio sociodemografico: versamenti di compensazione 2025
+## Compensazione dell’aggravio sociodemografico: versamenti di compensazione 2026
 
-[^t-17]: Nuovo testo giusta la cifra I n. 2 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-16]: Nuovo testo giusta la cifra II cpv. 3 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 <table>
 <tr><th>Cantone</th><th colspan="3">Importi di compensazione in franchi</th></tr>
 <tr><th></th><th>Oneri speciali dovuti alla struttura demografica</th><th>Oneri speciali delle città polo</th><th>Totale</th></tr>
-<tr><td>Zurigo</td><td>37 510 639</td><td>99 450 560</td><td>136 961 199</td></tr>
+<tr><td>Zurigo</td><td>21 323 405</td><td>99 183 318</td><td>120 506 723</td></tr>
 <tr><td>Berna</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Lucerna</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Uri</td><td>0</td><td>0</td><td>0</td></tr>
@@ -1868,34 +1663,34 @@ Allegato 15[^t-17]
 <tr><td>Obvaldo</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Nidvaldo</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Glarona</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Zugo</td><td>4 579 633</td><td>0</td><td>4 579 633</td></tr>
-<tr><td>Friburgo</td><td>2 279 785</td><td>0</td><td>2 279 785</td></tr>
-<tr><td>Soletta</td><td>10 649 266</td><td>0</td><td>10 649 266</td></tr>
-<tr><td>Basilea Città</td><td>37 461 005</td><td>24 456 647</td><td>61 917 652</td></tr>
+<tr><td>Zugo</td><td>2 120 720</td><td>10 041</td><td>2 130 761</td></tr>
+<tr><td>Friburgo</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Soletta</td><td>13 382 186</td><td>0</td><td>13 382 186</td></tr>
+<tr><td>Basilea Città</td><td>41 863 869</td><td>24 562 716</td><td>66 426 585</td></tr>
 <tr><td>Basilea Campagna</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Sciaffusa</td><td>83 746</td><td>0</td><td>83 746</td></tr>
+<tr><td>Sciaffusa</td><td>987 541</td><td>0</td><td>987 541</td></tr>
 <tr><td>Appenzello Esterno</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Appenzello Interno</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>San Gallo</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Grigioni</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Argovia</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Turgovia</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Ticino</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Vaud</td><td>118 170 263</td><td>5 357 055</td><td>123 527 318</td></tr>
-<tr><td>Vallese</td><td>10 126 240</td><td>0</td><td>10 126 240</td></tr>
-<tr><td>Neuchâtel</td><td>11 431 173</td><td>0</td><td>11 431 173</td></tr>
-<tr><td>Ginevra</td><td>117 975 219</td><td>45 869 223</td><td>163 844 442</td></tr>
+<tr><td>Ticino</td><td>5 530 933</td><td>0</td><td>5 530 933</td></tr>
+<tr><td>Vaud</td><td>118 187 112</td><td>5 336 806</td><td>123 523 918</td></tr>
+<tr><td>Vallese</td><td>12 505 349</td><td>0</td><td>12 505 349</td></tr>
+<tr><td>Neuchâtel</td><td>12 884 443</td><td>0</td><td>12 884 443</td></tr>
+<tr><td>Ginevra</td><td>121 481 411</td><td>46 040 604</td><td>167 522 015</td></tr>
 <tr><td>Giura</td><td>0</td><td>0</td><td>0</td></tr>
 <tr><td>Totale Cantoni</td><td>350 266 969</td><td>175 133 485</td><td>525 400 454</td></tr>
 </table>
 
-Allegato 16[^t-18]
+Allegato 16[^t-17]
 
 (art. 42)
 
 ## Stima del potenziale delle risorse in caso di dati mancanti o non ulteriormente sfruttabili
 
-[^t-18]: Aggiornato dalla cifra III dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5823](https://fedlex.data.admin.ch/eli/oc/2011/805)).
+[^t-17]: Aggiornato dalla cifra III dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5823](https://fedlex.data.admin.ch/eli/oc/2011/805)).
 
 In caso di dati mancanti o non ulteriormente sfruttabili le componenti del potenziale delle risorse vengono stimate. Per determinare i coefficienti delle equazioni di stima vengono effettuate analisi di regressione con i dati dei Cantoni che li forniscono correttamente. Come valore di sostituzione per i dati mancanti a partire dall’anno di calcolo 2003 viene utilizzato il limite massimo dell’intervallo di confidenza del 95 per cento. Come valore di sostituzione per i dati mancanti del bilancio globale (anni di calcolo 1998–2001) viene utilizzato il valore di stima. I coefficienti per gli anni di calcolo del bilancio globale ai fini del reddito determinante tassato alla fonte, della sostanza determinante nonché dell’utile determinante delle persone giuridiche sono calcolati sulla base del valore medio dei dati degli anni 2003 e 2004.
 
@@ -1909,15 +1704,15 @@ In caso di dati mancanti o non ulteriormente sfruttabili le componenti del poten
 <tr><td>EK<sub>k,T</sub></td><td>Numero dei dimoranti temporanei (&lt;12 mesi o stagionali) del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>ECH<sub>k,T</sub></td><td>Numero dei cittadini svizzeri della popolazione residente permanente del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>EN<sub>k,T</sub></td><td>Numero degli stranieri domiciliati del Cantone *k* nell’anno di calcolo *T*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image104.png)</td><td>Ponderazione del reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image105.png)</td><td>Reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image100.png)</td><td>Ponderazione del reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image101.png)</td><td>Reddito lordo dei frontalieri dello Stato limitrofo *X* del Cantone *k* nell’anno di calcolo *T* secondo l’allegato 3</td></tr>
 <tr><td>RV<sub>k,T</sub></td><td>Sostanza netta per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>EV<sub>k,T</sub></td><td>Reddito dell’imposta sulla sostanza per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>tv<sub>k,T</sub></td><td>Onere medio dell’imposta sulla sostanza del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>GK<sub>k,T</sub></td><td>Somma degli utili tassati integralmente delle persone giuridiche per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>EJP<sub>k,T</sub></td><td>Reddito dell’imposta sull’utile per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
 <tr><td>GDB<sub>k,T</sub></td><td>Utili secondo l’imposta federale diretta (dopo deduzione della partecipazione) per abitante del Cantone *k* nell’anno di calcolo *T*</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image106.png)</td><td>Fattore beta del tipo di società «società mista» nell’anno di calcolo *T* secondo l’allegato 6</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image102.png)</td><td>Fattore beta del tipo di società «società mista» nell’anno di calcolo *T* secondo l’allegato 6</td></tr>
 <tr><td>WGDB<sub>t</sub></td><td>Tasso di crescita degli utili secondo l’imposta federale diretta di tutta la Svizzera nell’anno *t*</td></tr>
 </table>
 
@@ -1932,32 +1727,32 @@ In caso di dati mancanti o non ulteriormente sfruttabili le componenti del poten
 
 <table>
 <tr><th>Caso</th><th>Componente potenziale delle risorse</th><th colspan="3">Equazione di regressione per determinare i coefficienti</th></tr>
-<tr><td>1</td><td>Reddito determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image107.png)</td></tr>
-<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image108.png)</td></tr>
-<tr><td>2</td><td>Redditi determinanti tassati alla fonte</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image109.png)</td></tr>
-<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image110.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image111.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image112.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image113.png)</td></tr>
-<tr><td>3</td><td>Sostanza determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image114.png)</td></tr>
-<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image115.png)</td></tr>
-<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image116.png)</td></tr>
+<tr><td>1</td><td>Reddito determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image103.png)</td></tr>
+<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image104.png)</td></tr>
+<tr><td>2</td><td>Redditi determinanti tassati alla fonte</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image105.png)</td></tr>
+<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image106.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image107.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image108.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image109.png)</td></tr>
+<tr><td>3</td><td>Sostanza determinante delle persone fisiche</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image110.png)</td></tr>
+<tr><td></td><td></td><td>con</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image111.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image112.png)</td></tr>
 <tr><td>4</td><td>Utili determinanti delle persone giuridiche</td><td colspan="3">Passo 1:</td></tr>
-<tr><td></td><td></td><td colspan="3">*<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image117.png)</sub>*</td></tr>
-<tr><td></td><td></td><td>con</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image118.png)</sub></td></tr>
+<tr><td></td><td></td><td colspan="3">*<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image113.png)</sub>*</td></tr>
+<tr><td></td><td></td><td>con</td><td colspan="2"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image114.png)</sub></td></tr>
 <tr><td></td><td></td><td colspan="3">Passo 2:</td></tr>
-<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image119.png)</sub></td></tr>
-<tr><td>5</td><td>Utile secondo l’imposta federale diretta</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image120.png)</td></tr>
-<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image121.png)</td></tr>
+<tr><td></td><td></td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image115.png)</sub></td></tr>
+<tr><td>5</td><td>Utile secondo l’imposta federale diretta</td><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image116.png)</td></tr>
+<tr><td></td><td></td><td>per</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image117.png)</td></tr>
 </table>
 
-Allegato 17[^t-19]
+Allegato 17[^t-18]
 
 (art. 46)
 
 ## Rapporto sull’efficacia
 
-[^t-19]: Aggiornato dalla cifra II cpv. 4 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
+[^t-18]: Aggiornato dalla cifra II cpv. 4 dell’O del 6 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)).
 
 **Criteri e ordini di grandezza per la valutazione dell’efficacia**
 
@@ -1982,28 +1777,28 @@ Allegato 17[^t-19]
 - – Ripercussioni della compensazione dei casi di rigore sul gettito fiscale standardizzato dei Cantoni
 - – Evoluzione del volume dei pagamenti della compensazione intercantonale degli oneri e percentuale di indennizzo dello spillover
 
-[^annex17-lvlu1-1]: [[RU 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918), [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 144 [4301](https://fedlex.data.admin.ch/eli/oc/2006/660). [RU 2007 681](https://fedlex.data.admin.ch/eli/oc/2007/136)all. cifra I n. 4]. Vedi ora la LF del 6 ott. 2006 sulla politica regionale ([RS 901.0](https://fedlex.data.admin.ch/eli/cc/2007/136)).
-[^annex17-lvlu1-2]: [RS 642.14](https://fedlex.data.admin.ch/eli/cc/1991/1256_1256_1256)
+[^annex17-lvlu1-1]: [[RU 1996 1918](https://fedlex.data.admin.ch/eli/oc/1996/1918_1918_1918), [2001 1911](https://fedlex.data.admin.ch/eli/oc/2001/293), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 144 [4301](https://fedlex.data.admin.ch/eli/oc/2006/660). [RU 2007 681](https://fedlex.data.admin.ch/eli/oc/2007/136)all. cifra I n. 4]. Vedi ora la LF del 6 ott. 2006 sulla politica regionale ([RS 901.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10387)).
+[^annex17-lvlu1-2]: [RS 642.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8202)
 
-Allegato 18[^t-20]
+Allegato 18[^t-19]
 
 (art. 56)
 
 ## Compensazione dei casi di rigore
 
-[^t-20]: Aggiornato cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-19]: Aggiornato cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Variabili e parametri
 
 <table>
 <tr><td>gw<sub>k</sub></td><td>Valore limite per il raggiungimento dello sgravio minimo di un Cantone in percento del gettito fiscale standardizzato del Cantone *k*</td></tr>
 <tr><td>ε</td><td>Fattore per determinare lo sgravio perseguito con la compensazione dei casi di rigore a dipendenza dell’indice delle risorse</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image122.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image123.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image124.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2004</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image125.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2005</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image126.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2004 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image127.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2005 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image118.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image119.png)</td><td>Gettito fiscale standardizzato del Cantone *k* nell’anno 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image120.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2004</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image121.png)</td><td>Indice delle risorse del Cantone *k* nell’anno 2005</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image122.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2004 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image123.png)</td><td>Risultato netto del Cantone *k* nel bilancio globale 2005 (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
 <tr><td>nes<sub>k</sub></td><td>Risultato netto del Cantone *k* in percento del gettito fiscale standardizzato del Cantone *k* (valori positivi: aggravio; valori negativi: sgravio)</td></tr>
 <tr><td>HA<sub>k</sub></td><td>Contributo iniziale a titolo di compensazione dei casi di rigore per il Cantone *k*</td></tr>
 </table>
@@ -2012,7 +1807,7 @@ Allegato 18[^t-20]
 
 Il valore limite per la compensazione dei casi di rigore à calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image128.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image124.png)
 
 Il valore limite di un Cantone si calcola moltiplicando il fattore epsilon, ε, per la divergenza dell’indice delle risorse del Cantone dalla media svizzera negli anni 2004 e 2005. I valori negativi significano uno sgravio, i valori positivi un aggravio. Dalla formula risulta che il valore limite per un Cantone in media finanziariamente debole è negativo, vale a dire che si persegue uno sgravio.
 
@@ -2020,7 +1815,7 @@ Il valore limite di un Cantone si calcola moltiplicando il fattore epsilon, ε, 
 
 Il risultato netto del bilancio globale di un Cantone in percento del gettito fiscale standardizzato è calcolato come segue:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image129.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image125.png)
 
 I valori negativi significano uno sgravio netto, i valori positivi un aggravio netto.
 
@@ -2030,20 +1825,20 @@ Il contributo iniziale a un Cantone *k* per la compensazione dei casi di rigore 
 
 <table>
 <tr><td>Condizioni (se …,)</td><td></td><td>Compensazione dei casi di rigore (allora …)</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image130.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image131.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
-<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image132.png)</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image126.png)</td><td></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image127.png)</td><td>nes<sub>k</sub> ≤ gw<sub>k</sub></td><td>HA<sub>k</sub> = 0</td></tr>
+<tr><td></td><td>nes<sub>k</sub> &gt; gw<sub>k</sub></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image128.png)</td></tr>
 </table>
 
 *Condizione 1:* Se l’indice medio delle risorse negli anni 2004 e 2005 è superiore alla media svizzera,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image133.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image129.png),
 
 il Cantone non riceve una compensazione dei casi di rigore.
 
 *Condizione 2:* Se l’indice medio delle risorse negli anni 2004 e 2005 è inferiore alla media svizzera,
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image134.png),
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image130.png),
 
 occorre distinguere tra due casi:
 
@@ -2051,17 +1846,17 @@ occorre distinguere tra due casi:
 
 *Caso 2b:* Se il risultato netto del bilancio globale in percento del gettito fiscale standardizzato è superiore al valore limite (vale a dire che lo sgravio netto è inferiore allo sgravio perseguito o che il Cantone presenta un aggravio netto), il Cantone riceve una compensazione dei casi di rigore pari alla differenza tra il risultato netto e il valore limite, moltiplicato per il suo gettito fiscale standardizzato medio negli anni 2004 e 2005:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image135.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image131.png)
 
 ### 5. Determinazione del fattore epsilon
 
 Il fattore ε è stabilito in modo che la somma di tutti i versamenti di compensazione al numero *h* di Cantoni *z* che hanno diritto alla compensazione dei casi di rigore corrisponda all’importo globale *H* a disposizione per la compensazione dei casi di rigore:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image136.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image132.png).
 
 Con *z* si definiscono i Cantoni finanziariamente deboli che hanno diritto alla compensazione dei casi di rigore, vale a dire tutti i Cantoni *k*, per i quali il risultato netto in percento del gettito fiscale standardizzato presenta un valore superiore al valore limite:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image137.png).
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image133.png).
 
 Il fattore ε e i Cantoni *z* sono stabiliti con un processo iterativo.
 
@@ -2100,126 +1895,84 @@ Il fattore ε e i Cantoni *z* sono stabiliti con un processo iterativo.
 <tr><td>Totale Cantoni</td><td>100.0</td><td></td><td></td><td></td><td>430 454 285</td></tr>
 </table>
 
-### 7. Contributi per l’anno 2025: appuramento del diritto sulla base dell’indice delle risorse 2025
+### 7. Contributi per l’anno 2026: appuramento del diritto sulla base dell’indice delle risorse 2026
 
 \+ = Aggravio; – = Sgravio dei Cantoni
 
 <table>
 <tr><th>Cantone</th><th>Indice delle risorse</th><th colspan="3">Compensazione dei casi di rigore appurata in franchi</th></tr>
 <tr><th></th><th></th><th>Versamento</th><th>Contributo</th><th>Saldo</th></tr>
-<tr><td>Zurigo</td><td>119.0</td><td>0</td><td>9 859 217</td><td>9 859 217</td></tr>
-<tr><td>Berna</td><td>73.6</td><td>–26 067 330</td><td>7 692 673</td><td>–18 374 657</td></tr>
-<tr><td>Lucerna</td><td>92.5</td><td>–11 846 034</td><td>2 789 185</td><td>–9 056 849</td></tr>
-<tr><td>Uri</td><td>70.6</td><td>0</td><td>279 595</td><td>279 595</td></tr>
-<tr><td>Svitto</td><td>184.5</td><td>0</td><td>1 032 186</td><td>1 032 186</td></tr>
-<tr><td>Obvaldo</td><td>110.9</td><td>0</td><td>259 756</td><td>259 756</td></tr>
-<tr><td>Nidvaldo</td><td>159.8</td><td>0</td><td>297 931</td><td>297 931</td></tr>
-<tr><td>Glarona</td><td>72.1</td><td>–4 084 379</td><td>309 489</td><td>–3 774 890</td></tr>
-<tr><td>Zugo</td><td>280.7</td><td>0</td><td>792 552</td><td>792 552</td></tr>
-<tr><td>Friburgo</td><td>71.9</td><td>–68 640 015</td><td>1 915 174</td><td>–66 724 841</td></tr>
-<tr><td>Soletta</td><td>71.8</td><td>0</td><td>1 959 097</td><td>1 959 097</td></tr>
-<tr><td>Basilea Città</td><td>160.6</td><td>0</td><td>1 554 224</td><td>1 554 224</td></tr>
-<tr><td>Basilea Campagna</td><td>98.8</td><td>0</td><td>2 076 045</td><td>2 076 045</td></tr>
-<tr><td>Sciaffusa</td><td>103.4</td><td>0</td><td>591 764</td><td>591 764</td></tr>
-<tr><td>Appenzello Esterno</td><td>85.8</td><td>0</td><td>431 161</td><td>431 161</td></tr>
-<tr><td>Appenzello Interno</td><td>105.4</td><td>0</td><td>118 171</td><td>118 171</td></tr>
-<tr><td>San Gallo</td><td>80.7</td><td>0</td><td>3 621 184</td><td>3 621 184</td></tr>
-<tr><td>Grigioni</td><td>89.6</td><td>0</td><td>1 522 861</td><td>1 522 861</td></tr>
-<tr><td>Argovia</td><td>80.8</td><td>0</td><td>4 365 536</td><td>4 365 536</td></tr>
-<tr><td>Turgovia</td><td>81.6</td><td>0</td><td>1 836 756</td><td>1 836 756</td></tr>
-<tr><td>Ticino</td><td>90.4</td><td>0</td><td>2 479 215</td><td>2 479 215</td></tr>
-<tr><td>Vaud</td><td>100.0</td><td>0</td><td>5 072 979</td><td>5 072 979</td></tr>
-<tr><td>Vallese</td><td>66.4</td><td>0</td><td>2 204 890</td><td>2 204 890</td></tr>
-<tr><td>Neuchâtel</td><td>73.6</td><td>–54 416 363</td><td>1 345 660</td><td>–53 070 703</td></tr>
-<tr><td>Ginevra</td><td>143.9</td><td>0</td><td>3 296 760</td><td>3 296 760</td></tr>
-<tr><td>Giura</td><td>65.6</td><td>–9 693 777</td><td>545 238</td><td>–9 148 539</td></tr>
-<tr><td>Totale Cantoni</td><td>100.0</td><td>–174 747 898</td><td>58 249 299</td><td>–116 498 599</td></tr>
+<tr><td>Zurigo</td><td>116.7</td><td>0</td><td>8 873 296</td><td>8 873 296</td></tr>
+<tr><td>Berna</td><td>72.4</td><td>–23 460 597</td><td>6 923 406</td><td>–16 537 191</td></tr>
+<tr><td>Lucerna</td><td>91.8</td><td>–10 661 431</td><td>2 510 266</td><td>–8 151 165</td></tr>
+<tr><td>Uri</td><td>70.0</td><td>0</td><td>251 635</td><td>251 635</td></tr>
+<tr><td>Svitto</td><td>185.7</td><td>0</td><td>928 967</td><td>928 967</td></tr>
+<tr><td>Obvaldo</td><td>107.5</td><td>0</td><td>233 781</td><td>233 781</td></tr>
+<tr><td>Nidvaldo</td><td>157.5</td><td>0</td><td>268 138</td><td>268 138</td></tr>
+<tr><td>Glarona</td><td>71.2</td><td>–3 675 941</td><td>278 540</td><td>–3 397 401</td></tr>
+<tr><td>Zugo</td><td>287.0</td><td>0</td><td>713 297</td><td>713 297</td></tr>
+<tr><td>Friburgo</td><td>71.9</td><td>–61 776 013</td><td>1 723 657</td><td>–60 052 356</td></tr>
+<tr><td>Soletta</td><td>70.4</td><td>0</td><td>1 763 187</td><td>1 763 187</td></tr>
+<tr><td>Basilea Città</td><td>155.9</td><td>0</td><td>1 398 801</td><td>1 398 801</td></tr>
+<tr><td>Basilea Campagna</td><td>97.7</td><td>0</td><td>1 868 441</td><td>1 868 441</td></tr>
+<tr><td>Sciaffusa</td><td>108.1</td><td>0</td><td>532 587</td><td>532 587</td></tr>
+<tr><td>Appenzello Esterno</td><td>86.6</td><td>0</td><td>388 045</td><td>388 045</td></tr>
+<tr><td>Appenzello Interno</td><td>104.0</td><td>0</td><td>106 354</td><td>106 354</td></tr>
+<tr><td>San Gallo</td><td>78.5</td><td>0</td><td>3 259 065</td><td>3 259 065</td></tr>
+<tr><td>Grigioni</td><td>93.5</td><td>0</td><td>1 370 575</td><td>1 370 575</td></tr>
+<tr><td>Argovia</td><td>79.9</td><td>0</td><td>3 928 983</td><td>3 928 983</td></tr>
+<tr><td>Turgovia</td><td>79.4</td><td>0</td><td>1 653 080</td><td>1 653 080</td></tr>
+<tr><td>Ticino</td><td>91.1</td><td>0</td><td>2 231 294</td><td>2 231 294</td></tr>
+<tr><td>Vaud</td><td>99.7</td><td>0</td><td>4 565 681</td><td>4 565 681</td></tr>
+<tr><td>Vallese</td><td>68.6</td><td>0</td><td>1 984 401</td><td>1 984 401</td></tr>
+<tr><td>Neuchâtel</td><td>77.3</td><td>–48 974 727</td><td>1 211 094</td><td>–47 763 633</td></tr>
+<tr><td>Ginevra</td><td>155.3</td><td>0</td><td>2 967 084</td><td>2 967 084</td></tr>
+<tr><td>Giura</td><td>64.5</td><td>–8 724 399</td><td>490 714</td><td>–8 233 685</td></tr>
+<tr><td>Totale Cantoni</td><td>100.0</td><td>–157 273 108</td><td>52 424 369</td><td>–104 848 739</td></tr>
 </table>
 
-Allegato 19[^t-21]
+Allegato 19[^t-20]
 
-(art. 56*a*)
+[^t-20]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Abrogato dalla cifra II cpv. 1 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
-## Misure temporanee di attenuazione
-
-[^t-21]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra I n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
-
-### 1. Calcolo dei versamenti di compensazione
-
-- 1\.1 Hanno diritto ai versamenti di compensazione tutti i Cantoni che negli anni compresi tra il 2021 e l’attuale anno di riferimento non hanno mai raggiunto un indice delle risorse maggiore o uguale a 100 punti.
-- 1\.2 Tutti i Cantoni che hanno diritto ai versamenti di compensazione ricevono negli anni 2021–2025 un contributo uniforme per abitante. Questo contributo è calcolato in modo che la somma totale corrisponda ai mezzi finanziari di cui all’articolo 19*c* capoverso 2 LPFC.
-
-### 2. Contributi per l’anno 2025
-
-<table>
-<tr><th>Cantone</th><th>Popolazione determinante</th><th>Misure di attenuazione in franchi</th></tr>
-<tr><td>Zurigo</td><td>0</td><td>0</td></tr>
-<tr><td>Berna</td><td>1 046 974</td><td>16 249 654</td></tr>
-<tr><td>Lucerna</td><td>417 392</td><td>6 478 162</td></tr>
-<tr><td>Uri</td><td>37 056</td><td>575 134</td></tr>
-<tr><td>Svitto</td><td>0</td><td>0</td></tr>
-<tr><td>Obvaldo</td><td>0</td><td>0</td></tr>
-<tr><td>Nidvaldo</td><td>0</td><td>0</td></tr>
-<tr><td>Glarona</td><td>41 058</td><td>637 242</td></tr>
-<tr><td>Zugo</td><td>0</td><td>0</td></tr>
-<tr><td>Friburgo</td><td>325 470</td><td>5 051 481</td></tr>
-<tr><td>Soletta</td><td>278 410</td><td>4 321 085</td></tr>
-<tr><td>Basilea Città</td><td>0</td><td>0</td></tr>
-<tr><td>Basilea Campagna</td><td>291 882</td><td>4 530 186</td></tr>
-<tr><td>Sciaffusa</td><td>0</td><td>0</td></tr>
-<tr><td>Appenzello Esterno</td><td>55 486</td><td>861 175</td></tr>
-<tr><td>Appenzello Interno</td><td>0</td><td>0</td></tr>
-<tr><td>San Gallo</td><td>515 450</td><td>8 000 080</td></tr>
-<tr><td>Grigioni</td><td>206 404</td><td>3 203 504</td></tr>
-<tr><td>Argovia</td><td>694 710</td><td>10 782 306</td></tr>
-<tr><td>Turgovia</td><td>283 003</td><td>4 392 366</td></tr>
-<tr><td>Ticino</td><td>354 247</td><td>5 498 117</td></tr>
-<tr><td>Vaud</td><td>0</td><td>0</td></tr>
-<tr><td>Vallese</td><td>355 492</td><td>5 517 451</td></tr>
-<tr><td>Neuchâtel</td><td>177 572</td><td>2 756 017</td></tr>
-<tr><td>Ginevra</td><td>0</td><td>0</td></tr>
-<tr><td>Giura</td><td>73 840</td><td>1 146 040</td></tr>
-<tr><td>Totale Cantoni</td><td>5 154 443</td><td>80 000 000</td></tr>
-</table>
-
-Allegato 20[^t-22]
+Allegato 20[^t-21]
 
 (art. 57*e*)
 
 ## Contributi complementari
 
-[^t-22]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra 1 n. 1 dell’O del 27 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 770](https://fedlex.data.admin.ch/eli/oc/2024/770)).
+[^t-21]: Introdotto dalla cifra II cpv. 2 dell’O del 6 nov. 2019 ([RU 2019 3823](https://fedlex.data.admin.ch/eli/oc/2019/698)). Aggiornato dalla cifra II cpv. 2 dell’O del 26 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 797](https://fedlex.data.admin.ch/eli/oc/2025/797)).
 
 ### 1. Definizione delle variabili e dei parametri
 
 <table>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image138.png)</sub></td><td>Contributo complementare del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub></td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image140.png)</td><td>Contributo complementare per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub></td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image141.png)</sub></td><td>Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub> durante gli anni di calcolo</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image142.png)</td><td>Valore mirato del contributo complementare per abitante</td></tr>
-<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image143.png)</sub></td><td>Gettito fiscale standardizzato per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub> nel 2023</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image144.png)</td><td>Versamenti di compensazione per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub></td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image134.png)</sub></td><td>Contributo complementare del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image135.png)</sub></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image136.png)</td><td>Contributo complementare per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image135.png)</sub></td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image137.png)</sub></td><td>Media della popolazione residente permanente e non permanente media del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image135.png)</sub> durante gli anni di calcolo</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image138.png)</td><td>Valore mirato del contributo complementare per abitante</td></tr>
+<tr><td><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image139.png)</sub></td><td>Gettito fiscale standardizzato per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image135.png)</sub> nel 2023</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image140.png)</td><td>Versamenti di compensazione per abitante del Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image135.png)</sub></td></tr>
 </table>
 
 ### 2. Calcolo
 
-- 2\.1 I contributi complementari sono versati negli anni 2024–2030. I versamenti sono destinati esclusivamente ai Cantoni finanziariamente deboli. Il contributo complementare è calcolato sulla base delle risorse determinanti di ciascun Cantone nel 2023 (gettito fiscale standardizzato per abitante prima della perequazione, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image145.png)</sub>, ultimo anno di riferimento in cui tutti gli anni di calcolo derivano dal vecchio sistema. A queste risorse si sommano i versamenti di compensazione dell’attuale anno di riferimento.
+- 2\.1 I contributi complementari sono versati negli anni 2024–2030. I versamenti sono destinati esclusivamente ai Cantoni finanziariamente deboli. Il contributo complementare è calcolato sulla base delle risorse determinanti di ciascun Cantone nel 2023 (gettito fiscale standardizzato per abitante prima della perequazione, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image141.png)</sub>, ultimo anno di riferimento in cui tutti gli anni di calcolo derivano dal vecchio sistema. A queste risorse si sommano i versamenti di compensazione dell’attuale anno di riferimento.
 - 2\.2 I mezzi finanziari provenienti dal contributo complementare sono interamente ripartiti tra i Cantoni finanziariamente più deboli in modo che tutti i Cantoni finanziariamente deboli raggiungano almeno il valore mirato del contributo complementare.
-- 2\.3 La somma dei contributi complementari dei <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image146.png)</sub> Cantoni finanziariamente deboli negli anni 2024–2030 ammonta a 180 000 000 franchi per anno:
+- 2\.3 La somma dei contributi complementari dei <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image142.png)</sub> Cantoni finanziariamente deboli negli anni 2024–2030 ammonta a 180 000 000 franchi per anno:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image147.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image143.png)
 
-- 2\.4 Il contributo complementare di un Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image148.png)</sub> si calcola moltiplicando il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image149.png)</sub> per la popolazione <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image150.png)</sub>
+- 2\.4 Il contributo complementare di un Cantone finanziariamente debole <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image144.png)</sub> si calcola moltiplicando il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image145.png)</sub> per la popolazione <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image146.png)</sub>
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image151.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image147.png)
 
-- 2\.5 Se la somma del gettito fiscale standardizzato per abitante del Cantone <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image139.png)</sub> nel 2023 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image152.png)</sub> e dei versamenti di compensazione per abitante nell’attuale anno di riferimento <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image153.png)</sub> è inferiore al valore mirato del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image154.png)</sub>, il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image155.png)</sub> corrisponde alla differenza tra tale somma e il valore mirato. In caso contrario, il contributo complementare è uguale a zero.
+- 2\.5 Se la somma del gettito fiscale standardizzato per abitante del Cantone <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image135.png)</sub> nel 2023 <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image148.png)</sub> e dei versamenti di compensazione per abitante nell’attuale anno di riferimento <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image149.png)</sub> è inferiore al valore mirato del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image150.png)</sub>, il contributo complementare per abitante <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image151.png)</sub> corrisponde alla differenza tra tale somma e il valore mirato. In caso contrario, il contributo complementare è uguale a zero.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image156.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image152.png)
 
-- 2\.6 Il limite del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20250601/it/xml/image/image157.png)</sub>, è stabilito annualmente in modo che il totale dei contributi di tutti i Cantoni ammonti esattamente a 180 milioni di franchi.
+- 2\.6 Il limite del contributo complementare, <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/792/20260101/it/xml/image/image153.png)</sub>, è stabilito annualmente in modo che il totale dei contributi di tutti i Cantoni ammonti esattamente a 180 milioni di franchi.
 
-### 3. Contributi per l’anno 2025
+### 3. Contributi per l’anno 2026
 
 <table>
 <tr><th>Cantone</th><th>Contributo complementare in franchi</th></tr>
@@ -2232,20 +1985,20 @@ Allegato 20[^t-22]
 <tr><td>Nidvaldo</td><td>0</td></tr>
 <tr><td>Glarona</td><td>0</td></tr>
 <tr><td>Zugo</td><td>0</td></tr>
-<tr><td>Friburgo</td><td>49 922 816</td></tr>
-<tr><td>Soletta</td><td>24 238 874</td></tr>
+<tr><td>Friburgo</td><td>16 685 107</td></tr>
+<tr><td>Soletta</td><td>0</td></tr>
 <tr><td>Basilea Città</td><td>0</td></tr>
 <tr><td>Basilea Campagna</td><td>0</td></tr>
 <tr><td>Sciaffusa</td><td>0</td></tr>
 <tr><td>Appenzello Esterno</td><td>0</td></tr>
 <tr><td>Appenzello Interno</td><td>0</td></tr>
 <tr><td>San Gallo</td><td>0</td></tr>
-<tr><td>Grigioni</td><td>20 052 360</td></tr>
+<tr><td>Grigioni</td><td>37 664 975</td></tr>
 <tr><td>Argovia</td><td>0</td></tr>
 <tr><td>Turgovia</td><td>0</td></tr>
 <tr><td>Ticino</td><td>0</td></tr>
 <tr><td>Vaud</td><td>0</td></tr>
-<tr><td>Vallese</td><td>85 785 950</td></tr>
+<tr><td>Vallese</td><td>125 649 918</td></tr>
 <tr><td>Neuchâtel</td><td>0</td></tr>
 <tr><td>Ginevra</td><td>0</td></tr>
 <tr><td>Giura</td><td>0</td></tr>
