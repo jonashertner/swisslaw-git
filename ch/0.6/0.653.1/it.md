@@ -3,11 +3,11 @@ sr: "0.653.1"
 title: Accordo multilaterale del 29 ottobre 2014 tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/759"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2014-10-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2016-759-20250101-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2016-759-20260101-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 29 ottobre 2014 Approvato dall’Assemblea federale il 18 dicembre 2015[^t-1] Entrato in vigore il 1° gennaio 2017
 
-(Stato 1° gennaio 2025)
+(Stato 1° gennaio 2026)
 
 [^t-1]: [RU 2016 4717](https://fedlex.data.admin.ch/eli/oc/2016/758)
 
@@ -146,16 +146,21 @@ Fatto in francese e in inglese, entrambi i testi facenti ugualmente fede.
 
 (Seguono le firme)
 
-Allegato
+Allegato[^t-2]
 
-## Standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai Conti finanziari
+## Standard comune di comunicazione di informazioni e adeguata verifica in materia fiscale relativa ai conti finanziari
 
-### Sezione I: Obblighi generali di comunicazione
+[^t-2]: Aggiornato dell’Addendum dell’8 giu. 2023, approvato dall’Assemblea federale il 26 set. 2025 e applicato provvisoriamente dal 1° gen. 2026 ([RU 2025 863](https://fedlex.data.admin.ch/eli/oc/2025/863); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883), [2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)).
 
-A. Fatte salve le parti da C a E, ciascuna Istituzione finanziaria tenuta alla comunicazione deve trasmettere le seguenti informazioni relative a ogni Conto oggetto di comunicazione ivi registrato presso:
+### [Sezione I:](https://www.fedlex.admin.ch/eli/cc/2016/759/de) [Obblighi generali di comunicazione](https://www.fedlex.admin.ch/eli/cc/2016/759/de)
 
-- 1\. il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza, il numero d’identificazione fiscale (NIF) o i NIF e, nel caso di persone fisiche, la data e il luogo di nascita per ciascuna Persona oggetto di comunicazione che è Titolare di conto e, nel caso di un’Entità che è Titolare di conto e che, dopo l’applicazione delle procedure di adeguata verifica in materia fiscale conformemente alle sezioni V, VI e VII, è identificata come avente una o più Persone che esercitano il controllo che sono Persone oggetto di comunicazione, il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza e il NIF o i NIF dell’Entità e il nome, la giurisdizione o le giurisdizioni di residenza, il NIF o i NIF e la data e il luogo di nascita di ogni Persona oggetto di comunicazione;
-- 2\. il numero di conto (o equivalente funzionale in assenza di un numero di conto);
+A. Fatte salve le parti da C a F, ciascuna Istituzione finanziaria tenuta alla comunicazione deve trasmettere le seguenti informazioni relative a ogni Conto oggetto di comunicazione ivi registrato:
+
+- 1. a) il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza, il numero d’identificazione fiscale (NIF) o i NIF e, nel caso di persone fisiche, la data e il luogo di nascita per ciascuna Persona oggetto di comunicazione che è Titolare di conto e se il Titolare di conto ha presentato un’autocertificazione valida,
+  - b) nel caso di un’Entità che è Titolare di conto e che, dopo l’applicazione delle procedure di adeguata verifica in materia fiscale conformemente alle sezioni V, VI e VII, è identificata come avente una o più Persone che esercitano il controllo che sono Persone oggetto di comunicazione, il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza e il NIF o i NIF dell’Entità e il nome, l’indirizzo, la giurisdizione o le giurisdizioni di residenza, il NIF o i NIF e la data e il luogo di nascita di ogni Persona oggetto di comunicazione nonché il ruolo o i ruoli in virtù dei quali ciascuna Persona oggetto di comunicazione è una Persona che esercita il controllo dell’Entità e se per ciascuna Persona oggetto di comunicazione è stata presentata un’autocertificazione valida, e
+  - c) se il conto è un conto congiunto, incluso il numero dei Titolari del conto congiunto;
+
+- 2\. il numero di conto (o equivalente funzionale in assenza di un numero di conto), il tipo di conto e se si tratta di un Conto preesistente o di un Nuovo conto;
 - 3\. il nome e l’eventuale numero di identificazione dell’Istituzione finanziaria tenuta alla comunicazione;
 - 4\. il saldo o il valore del conto (compreso, nel caso di un Contratto di assicurazione per il quale è misurabile un valore maturato o di un Contratto di rendita, il Valore maturato o il Valore di riscatto) alla fine del pertinente anno civile o di altro adeguato periodo di rendicontazione ovvero, se il conto è stato chiuso nel corso di tale anno o periodo, la chiusura del conto;
 - 5\.
@@ -163,18 +168,23 @@ A. Fatte salve le parti da C a E, ciascuna Istituzione finanziaria tenuta alla c
   nel caso di un Conto di custodia:
 
   - a) l’importo totale lordo degli interessi, l’importo totale lordo dei dividendi, nonché l’importo totale lordo degli altri redditi generati in relazione alle attività detenute nel conto in ogni caso pagati o accreditati sul conto (o in relazione al conto) nel corso dell’anno civile o di altro adeguato periodo di rendicontazione, e
-  - b) introiti totali lordi derivanti dalla vendita o dal riscatto di un bene patrimoniale pagati o accreditati sul conto nel corso dell’anno civile o di altro adeguato periodo di rendicontazione in relazione al quale l’Istituzione finanziaria tenuta alla comunicazione ha agito in qualità di custode, intermediario, intestatario o altrimenti come agente per il Titolare del conto;
+  - b) gli introiti totali lordi derivanti dalla vendita o dal riscatto di un bene patrimoniale pagati o accreditati sul conto nel corso dell’anno civile o di altro adeguato periodo di rendicontazione in relazione al quale l’Istituzione finanziaria tenuta alla comunicazione ha agito in qualità di custode, intermediario, intestatario o altrimenti come agente per il Titolare del conto;
 
-- 6\. nel caso di un Conto di deposito, l’importo totale lordo degli interessi pagati o accreditati sul conto nel corso dell’anno civile o di altro adeguato periodo di rendicontazione; e
+- 6\. nel caso di un Conto di deposito, l’importo totale lordo degli interessi pagati o accreditati sul conto nel corso dell’anno civile o di altro adeguato periodo di rendicontazione;
+- 6<sup>bis</sup>. nel caso di Quote nel capitale di rischio detenute in un’Entità di investimento che è un dispositivo giuridico, il ruolo o i ruoli in virtù dei quali la Persona oggetto di comunicazione è titolare di Quote nel capitale di rischio; e
 - 7\. nel caso di conti diversi da quelli di cui ai punti 5 e 6, l’importo totale lordo pagato o accreditato al Titolare del conto in relazione al conto nel corso dell’anno civile o di altro adeguato periodo di rendicontazione in relazione al quale l’Istituzione finanziaria tenuta alla comunicazione è l’obbligato o il debitore, compreso l’importo complessivo di eventuali pagamenti di riscatto effettuati al Titolare del conto nel corso dell’anno civile o di altro adeguato periodo di rendicontazione.
 
 B. Le informazioni trasmesse devono indicare la valuta nella quale è denominato ciascun importo.
 
-C. Nonostante la parte A punto 1, in relazione a ciascun Conto oggetto di comunicazione che corrisponda a un Conto preesistente, non sussiste l’obbligo di comunicare il NIF o i NIF o la data di nascita se l’uno o l’altro di tali dati non compaiono negli archivi dell’Istituzione finanziaria tenuta alla comunicazione e il diritto nazionale non ne impone la raccolta da parte della suddetta Istituzione. Tuttavia, un’Istituzione finanziaria tenuta alla comunicazione è tenuta a impegnarsi in misura ragionevole per ottenere il NIF o i NIF e la data di nascita in relazione a Conti preesistenti entro la fine del secondo anno civile che segue l’anno in cui tali conti sono stati individuati come Conti oggetto di comunicazione.
+C. Nonostante la parte A punto 1, in relazione a ciascun Conto oggetto di comunicazione che corrisponda a un Conto preesistente, non sussiste l’obbligo di comunicare il NIF o i NIF o la data di nascita se l’uno o l’altro di tali dati non compaiono negli archivi dell’Istituzione finanziaria tenuta alla comunicazione e il diritto nazionale non ne impone la raccolta da parte della suddetta Istituzione. Tuttavia, un’Istituzione finanziaria tenuta alla comunicazione è tenuta a impegnarsi in misura ragionevole per ottenere il NIF o i NIF e la data di nascita in relazione a Conti preesistenti entro la fine del secondo anno civile che segue il [xx.xx.xxxx] e ogniqualvolta è tenuta ad aggiornare le informazioni relative al Conto preesistente in conformità delle Procedure antiriciclaggio (AML/KYC) nazionali.
 
 D. Nonostante la parte A punto 1, non sussiste l’obbligo di comunicare il NIF se (i) quest’ultimo non è rilasciato dalla Giurisdizione oggetto di comunicazione oppure se (ii) il diritto nazionale della Giurisdizione oggetto di comunicazione in questione non obbliga alla registrazione del NIF rilasciato dalla Giurisdizione oggetto di comunicazione.
 
-E. Nonostante la parte A punto 1 non sussiste l’obbligo di comunicare il luogo di nascita a meno che l’Istituzione finanziaria tenuta alla comunicazione sia altrimenti tenuta a ottenerlo e comunicarlo in base al diritto nazionale e tale luogo sia disponibile tra i dati rintracciabili elettronicamente conservati dall’Istituzione finanziaria tenuta alla comunicazione.
+E. Nonostante la parte A punto 1, non sussiste l’obbligo di comunicare il luogo di nascita a meno che l’Istituzione finanziaria tenuta alla comunicazione sia altrimenti tenuta a ottenerlo e comunicarlo in base al diritto nazionale e tale luogo sia disponibile tra i dati rintracciabili elettronicamente conservati dall’Istituzione finanziaria tenuta alla comunicazione.
+
+F. Nonostante la parte A, le informazioni che devono essere comunicate in relazione a [xxxx] sono quelle descritte nella detta parte, ad eccezione degli introiti lordi descritti nella parte A punto 5 lettera b).
+
+G. Nonostante la parte A punto 5 lettera b) e se l’Istituzione finanziaria tenuta alla comunicazione non decide diversamente per un gruppo di conti chiaramente identificato, gli introiti lordi derivanti dalla vendita o dal riscatto di un bene patrimoniale non devono essere comunicati nella misura in cui tali introiti lordi sono comunicati dall’Istituzione finanziaria tenuta alla comunicazione secondo il Quadro per la comunicazione di informazioni in materia di cripto-attività.
 
 ### Sezione II: Obblighi generali di adeguata verifica in materia fiscale
 
@@ -322,14 +332,16 @@ A. Procedure di verifica per l’identificazione dei Conti di entità per i qual
 
 - 2\. Determinare se l’Entità è un’Entità non finanziaria passiva con una o più Persone che esercitano il controllo che sono Persone oggetto di comunicazione. Riguardo a un Titolare di un Nuovo conto di entità (compresa un’Entità che è una Persona oggetto di comunicazione), l’Istituzione finanziaria tenuta alla comunicazione deve determinare se il Titolare del conto è un’Entità non finanziaria passiva con una o più Persone che esercitano il controllo che sono Persone oggetto di comunicazione. Se una delle Persone che esercitano il controllo su un’Entità non finanziaria passiva è una Persona oggetto di comunicazione, il conto deve essere considerato come un Conto oggetto di comunicazione. Nell’effettuare tale determinazione l’Istituzione finanziaria tenuta alla comunicazione deve seguire le procedure di cui alla parte A punto 2 lettere da a) a c), nell’ordine più appropriato alle circostanze.
   - a) Determinare se il Titolare del conto è un’Entità non finanziaria passiva. Al fine di determinare se il Titolare del conto è un’Entità non finanziaria passiva, l’Istituzione finanziaria tenuta alla comunicazione deve considerare come attendibile un’autocertificazione del Titolare del conto per determinare il suo status, a meno che, in base alle informazioni in suo possesso o pubblicamente disponibili non possa ragionevolmente determinare che il Titolare del conto è un’Entità non finanziaria attiva o un’Istituzione finanziaria diversa da un’Entità di investimento di cui alla parte A punto 6 lettera b) della sezione VIII che non è un’Istituzione finanziaria di una Giurisdizione partecipante.
-  - b) Determinare le Persone che esercitano il controllo sul Titolare del conto. Al fine di determinare le Persone che esercitano il controllo su un Titolare del conto, un’Istituzione finanziaria tenuta alla comunicazione può considerare come attendibili le informazioni raccolte e conservate secondo le Procedure AML/KYC.
+  - b) Determinare le Persone che esercitano il controllo sul Titolare del conto. Al fine di determinare le Persone che esercitano il controllo sul Titolare del conto, un’Istituzione finanziaria tenuta alla comunicazione può considerare come attendibili le informazioni raccolte e conservate secondo le Procedure AML/KYC, a condizione che tali procedure siano conformi alle raccomandazioni del GAFI del 2012. Se non è giuridicamente tenuta ad applicare Procedure AML/KYC conformi alle raccomandazioni del GAFI del 2012, l’Istituzione finanziaria tenuta alla comunicazione deve applicare procedure sostanzialmente analoghe al fine di determinare le Persone che esercitano il controllo.
   - c) Determinare se una Persona che esercita il controllo su un’Entità non finanziaria passiva è una Persona oggetto di comunicazione. Al fine di determinare se una Persona che esercita il controllo su un’Entità non finanziaria passiva è una Persona oggetto di comunicazione, un’Istituzione finanziaria tenuta alla comunicazione può considerare come attendibile un’autocertificazione da parte del Titolare del conto o di detta Persona che esercita il controllo.
 
 ### Sezione VII: Regole supplementari di adeguata verifica in materia fiscale
 
-Nell’attuazione delle procedure di adeguata verifica in materia fiscale sopra descritte si applicano le regole supplementari seguenti.
+Nell’attuazione delle procedure di adeguata verifica in materia fiscale sopra descritte si applicano le regole supplementari seguenti:
 
 A. Attendibilità delle autocertificazioni e delle Prove documentali. Un’Istituzione finanziaria tenuta alla comunicazione non può considerare attendibili un’autocertificazione o Prove documentali qualora essa sia a conoscenza o abbia motivo di essere a conoscenza che l’autocertificazione o le Prove documentali sono inesatte o inattendibili.
+
+A<sup>bis</sup>. Mancanza temporanea di autocertificazione. Nel caso eccezionale in cui un’Istituzione finanziaria tenuta alla comunicazione non possa ottenere in tempo utile un’autocertificazione per un nuovo conto al fine di ottemperare agli obblighi di comunicazione e adeguata verifica in materia fiscale in relazione al periodo di rendicontazione nel quale è stato aperto il conto, l’Istituzione finanziaria tenuta alla comunicazione deve applicare le procedure di adeguata verifica in materia fiscale per i Conti preesistenti fino a quando tale autocertificazione non sia stata ottenuta e convalidata.
 
 B. Procedure alternative applicabili ai conti finanziari detenuti da persone fisiche che sono beneficiarie di un Contratto di assicurazione per il quale è misurabile un valore maturato o di un Contratto di rendita. Un’Istituzione finanziaria tenuta alla comunicazione può presumere che una persona fisica che sia il beneficiario (diverso dal proprietario) di un Contratto di assicurazione per il quale è misurabile un valore maturato o di un Contratto di rendita che riceve un’indennità di decesso non sia una Persona oggetto di comunicazione e può considerare tale Conto finanziario come diverso da un Conto oggetto di comunicazione, a meno che l’Istituzione finanziaria tenuta alla comunicazione non abbia effettiva conoscenza, o non abbia motivo di essere a conoscenza, del fatto che il beneficiario è una Persona oggetto di comunicazione. Un’Istituzione finanziaria tenuta alla comunicazione ha motivo di essere a conoscenza che un beneficiario di un Contratto di assicurazione per il quale è misurabile un valore maturato o di un Contratto di rendita è una Persona oggetto di comunicazione se le informazioni raccolte dall’Istituzione finanziaria tenuta alla comunicazione ed associate al beneficiario contengono *indicia* di cui alla parte B della sezione III. Se un’Istituzione finanziaria tenuta alla comunicazione ha effettiva conoscenza, o ha motivo di essere a conoscenza, del fatto che il beneficiario è una Persona oggetto di comunicazione, l’Istituzione finanziaria tenuta alla comunicazione deve seguire le procedure di cui alla parte B della sezione III.
 
@@ -350,7 +362,13 @@ A. Istituzione finanziaria tenuta alla comunicazione
 - 2\. Per «Istituzione finanziaria di una Giurisdizione partecipante» si intende i) qualsiasi Istituzione finanziaria residente in una Giurisdizione partecipante, ad esclusione di qualsiasi succursale di tale Istituzione finanziaria che sia situata al di fuori di tale Giurisdizione partecipante, e ii) qualsiasi succursale di un’Istituzione finanziaria non residente in una Giurisdizione partecipante, se tale succursale è situata in tale Giurisdizione partecipante.
 - 3\. Per «Istituzione finanziaria» si intende un’Istituzione di custodia, un’Istituzione di deposito, un’Entità di investimento o un’Impresa di assicurazioni specificata.
 - 4\. Per «Istituzione di custodia» si intende ogni Entità che detiene, quale parte sostanziale della propria attività, Attività finanziarie per conto di terzi. Un’Entità detiene Attività finanziarie per conto di terzi quale parte sostanziale della propria attività se il reddito lordo dell’Entità attribuibile alla detenzione di Attività finanziarie e servizi finanziari correlati è pari o superiore al 20 per cento del reddito lordo dell’Entità nel corso del minore tra: i) il periodo di tre anni che termina il 31 dicembre (ovvero l’ultimo giorno di un esercizio non coincidente con l’anno civile) precedente all’anno in cui viene effettuata la determinazione; o ii) il periodo nel corso del quale l’Entità è esistita.
-- 5\. Per «Istituzione di deposito» si intende ogni Entità che accetta depositi nell’ambito della propria ordinaria attività bancaria o similare.
+- 5\.
+
+  Per «Istituzione di deposito» si intende ogni Entità che:
+
+  - a) accetta depositi nell’ambito della propria ordinaria attività bancaria o similare; o
+  - b) detiene Prodotti specificati di moneta elettronica o Valute digitali della Banca centrale a beneficio dei clienti.
+
 - 6\.
 
   Per «Entità di investimento» si intende ogni Entità:
@@ -361,22 +379,49 @@ A. Istituzione finanziaria tenuta alla comunicazione
 
     - i. negoziazione di strumenti del mercato monetario (assegni, cambiali, certificati di deposito, strumenti derivati ecc.), valuta estera, strumenti su cambi, su tassi d’interesse e su indici, valori mobiliari, o negoziazione di *future* su merci quotate,
     - ii. gestione individuale e collettiva di portafoglio, o
-    - iii. altre forme di investimento, amministrazione o gestione di Attività finanziarie o denaro per conto di terzi; o
+    - iii. altre forme di investimento, amministrazione o gestione di Attività finanziarie, denaro o Cripto-attività pertinenti per conto di terzi; o
 
-  - b) il cui reddito lordo è principalmente attribuibile a investimenti, reinvestimenti, o negoziazione di Attività finanziarie, se l’Entità è gestita da un’altra Entità che è un’Istituzione di deposito, un’Istituzione di custodia, un’Impresa di assicurazioni specificata o un’Entità di investimento di cui alla lettera a).
+  - b) il cui reddito lordo è principalmente attribuibile a investimenti, reinvestimenti o alla negoziazione di Attività finanziarie o di Cripto-attività pertinenti, se l’Entità è gestita da un’altra Entità che è un’Istituzione di deposito, un’Istituzione di custodia, un’Impresa di assicurazioni specificata o un’Entità di investimento di cui alla lettera a).
 
-- Un’Entità è considerata come impegnata principalmente in una o più attività economiche di cui alla lettera a), o il reddito lordo di un’Entità è attribuibile principalmente all’investimento, al reinvestimento o alla negoziazione di Attività finanziarie ai fini della lettera b), se il reddito lordo dell’Entità attribuibile alle attività pertinenti è pari o superiore al 50 per cento del reddito lordo dell’Entità nel corso del minore tra: i) il periodo di tre anni che termina il 31 dicembre precedente all’anno in cui viene effettuata la determinazione; o ii) il periodo nel corso del quale l’Entità è esistita. Il termine «Entità di investimento» non include un’Entità che è un’Entità non finanziaria attiva perché tale Entità soddisfa uno dei criteri di cui alla parte D punto 9 lettere da d) a g).
-- Il presente paragrafo va interpretato in conformità alla definizione di «Istituzione finanziaria» di cui alle raccomandazioni del gruppo di azione finanziaria internazionale (GAFI).
-- 7\. Il termine «Attività finanziaria» include valori mobiliari (ad esempio azioni o titoli di una società di capitali, partecipazioni o quote in qualità di beneficiario effettivo in società di persone o *trust* diffusi o quotati in borsa, pagherò, obbligazioni o altri titoli di credito), quote in società di persone, merci quotate, *swap* (ad esempio *swap* su tassi di interesse, *swap* di valute, *swap* di basi, *cap* di tasso di interesse, *floor* di tasso di interesse, *swap* su merci quotate, *swap* su titoli azionari, *swap* su indici azionari e accordi analoghi), Contratti di Assicurazione o Contratti di rendita, o qualsiasi quota di partecipazione (inclusi contratti su *future* o *forward* od opzioni) in valori mobiliari, in società di persone, in merci quotate, in *swap*, in Contratti di Assicurazione o Contratti di rendita. Il termine «Attività finanziaria» non include un interesse diretto e non debitorio in un bene immobiliare.
+- Un’Entità è considerata come impegnata principalmente in una o più attività economiche di cui alla lettera a), o il reddito lordo di un’Entità è attribuibile principalmente all’investimento, al reinvestimento o alla negoziazione di Attività finanziarie o di Cripto-attività pertinenti ai fini della lettera b), se il reddito lordo dell’Entità attribuibile alle attività pertinenti è pari o superiore al 50 per cento del reddito lordo dell’Entità nel corso del minore tra: i) il periodo di tre anni che termina il 31 dicembre precedente all’anno in cui viene effettuata la determinazione; o ii) il periodo nel corso del quale l’Entità è esistita. Ai fini della lettera a) punto iii), il termine «altre forme di investimento, amministrazione o gestione di Attività finanziarie, denaro o Cripto-attività pertinenti per conto di terzi» non comprende la prestazione di servizi consistenti in Operazioni di scambio per i clienti o per conto di clienti. Il termine «Entità di investimento» non include un’Entità che è un’Entità non finanziaria attiva perché tale Entità soddisfa uno dei criteri di cui alla parte D punto 9 lettere da d) a g).
+- Il presente paragrafo va interpretato in conformità alla definizione di «Istituzione finanziaria» di cui alle raccomandazioni del Gruppo di azione finanziaria internazionale (GAFI).
+- 7\. Il termine «Attività finanziaria» include valori mobiliari (ad esempio azioni o titoli di una società di capitali, partecipazioni o quote in qualità di beneficiario effettivo in società di persone o *trust* diffusi o quotati in borsa, pagherò, obbligazioni o altri titoli di credito), quote in società di persone, merci quotate, *swap* (ad esempio *swap* su tassi di interesse, *swap* di valute, *swap* di basi, *cap* di tasso di interesse, *floor* di tasso di interesse, *swap* su merci quotate, *swap* su titoli azionari, *swap* su indici azionari e accordi analoghi), Contratti di Assicurazione o Contratti di rendita, o qualsiasi quota di partecipazione (inclusi contratti su *future* o *forward* od opzioni) in valori mobiliari, in Cripto-attività pertinenti, in società di persone, in merci quotate, in *swap*, in Contratti di Assicurazione o Contratti di rendita. Il termine «Attività finanziaria» non include un interesse diretto e non debitorio in un bene immobiliare.
 - 8\. Per «Impresa di assicurazioni specificata» si intende ogni Entità che è un’impresa di assicurazioni (o la holding di un’impresa di assicurazioni) che emette Contratti di assicurazione per i quali è misurabile un valore maturato o Contratti di rendita o è obbligata a effettuare pagamenti in relazione a tali contratti.
+- 9\.
+
+  Per «Prodotto specificato di moneta elettronica» si intende qualsiasi prodotto che sia:
+
+  - a) una rappresentazione digitale di un’unica Moneta fiduciaria;
+  - b) emesso al ricevimento di fondi per effettuare operazioni di pagamento;
+  - c) rappresentato da un credito nei confronti dell’emittente denominato nella medesima Moneta fiduciaria;
+  - d) accettato in pagamento da una persona fisica o giuridica diversa dall’emittente; e
+  - e) in virtù degli obblighi normativi cui l’emittente è soggetto, rimborsabile in qualsiasi momento e al valore nominale nella medesima Moneta fiduciaria su richiesta del detentore del prodotto.
+
+- Il termine «Prodotto specificato di moneta elettronica» non comprende un prodotto creato al solo scopo di facilitare il trasferimento di fondi da un cliente a un’altra persona su istruzioni del cliente. Un prodotto non è creato al solo scopo di facilitare il trasferimento di fondi se, nel corso della normale attività economica dell’Entità trasferente, i fondi connessi a tale prodotto sono detenuti per più di 60 giorni dopo il ricevimento delle istruzioni per facilitare il trasferimento o, in mancanza di istruzioni, se i fondi connessi a tale prodotto sono detenuti per più di 60 giorni dopo il loro ricevimento.
+- 10\. Per «Valuta digitale della Banca centrale» si intende qualsiasi Moneta fiduciaria digitale emessa da una Banca centrale.
+- 11\. Per «Moneta fiduciaria» si intende la moneta ufficiale di una Giurisdizione, emessa da una Giurisdizione o dalla Banca centrale o dall’autorità monetaria designata da una Giurisdizione, rappresentata da banconote o monete fisiche o da moneta in diverse forme digitali, comprese le riserve bancarie e le Valute digitali della Banca centrale. Il termine comprende anche la moneta di banca commerciale e i prodotti di moneta elettronica (compresi i Prodotti specificati di moneta elettronica).
+- 12\. Per «Cripto-attività» si intende una rappresentazione digitale del valore che si basa su una tecnologia di registro distribuito crittograficamente protetta o su una tecnologia analoga per convalidare e proteggere le operazioni.
+- 13\. Per «Cripto-attività pertinente» si intende qualsiasi Cripto-attività che non sia una Valuta digitale della Banca centrale, un Prodotto specificato di moneta elettronica o qualsiasi Cripto-attività per la quale il prestatore di servizi per le cripto-attività tenuto alla comunicazione ha adeguatamente stabilito che non possa essere utilizzata a fini di pagamento o di investimento.
+- 14\.
+
+  Per «Operazione di scambio» si intende:
+
+  - a) qualsiasi scambio tra Cripto-attività pertinenti e Monete fiduciarie; e
+  - b) qualsiasi scambio tra una o più forme di Cripto-attività pertinenti.
 
 B. Istituzione finanziaria non tenuta alla comunicazione
 
 - 1\.
 
-  Per «Istituzione finanziaria non tenuta alla comunicazione» si intende qualsiasi Istituzione finanziaria che è:
+  Per «Istituzione finanziaria non tenuta alla comunicazione» si intende qualsiasi istituzione finanziaria che è:
 
-  - a) un’Entità statale, un’Organizzazione internazionale o una Banca centrale, tranne per quanto riguarda un pagamento derivante da un obbligo detenuto in connessione con un tipo di attività finanziaria commerciale svolta da un’Impresa di assicurazioni specificata, un’Istituzione di custodia o un’Istituzione di deposito;
+  - a)
+
+    un’Entità statale, un’Organizzazione internazionale o una Banca centrale, tranne per quanto riguarda:
+
+    - i. un pagamento derivante da un obbligo detenuto in connessione con un tipo di attività finanziaria commerciale svolta da un’Impresa di assicurazioni specificata, un’Istituzione di custodia o un’Istituzione di deposito, o
+    - ii. un’attività di detenzione di Valute digitali della Banca centrale per Titolari di conto che non sono Istituzioni finanziarie, Entità statali, Organizzazioni internazionali o Banche centrali;
+
   - b) un Fondo pensione ad ampia partecipazione, un Fondo pensione a partecipazione ristretta, un Fondo pensione di un’Entità statale, di un’Organizzazione internazionale o di una Banca centrale, o un Emittente qualificato di carte di credito;
   - c) qualsiasi altra Entità che presenta un rischio ridotto di essere utilizzata a fini di evasione fiscale, ha caratteristiche sostanzialmente simili a quelle di una delle Entità di cui alla parte B punto 1 lettere a) e b) ed è definita nel diritto nazionale come Istituzione finanziaria non tenuta alla comunicazione a condizione che il suo status di Istituzione finanziaria non tenuta alla comunicazione non pregiudichi il conseguimento degli scopi dello Standard comune di comunicazione di informazioni;
   - d) un Veicolo di investimento collettivo esente; o
@@ -450,7 +495,14 @@ C. Conto finanziario
   - c) qualsiasi Contratto di assicurazione per il quale è misurabile un valore maturato e qualsiasi Contratto di rendita emesso da o intrattenuto presso un’Istituzione finanziaria, diverso da una rendita vitalizia immediata, non trasferibile e non collegata a investimenti che è emessa nei confronti di una persona fisica e prevede la monetizzazione di una pensione o di un’indennità di invalidità prevista in base a un conto che è un Conto escluso.
 
 - L’espressione «Conto finanziario» non comprende alcun conto che sia un Conto escluso.
-- 2\. L’espressione «Conto di deposito» comprende qualsiasi conto commerciale, conto corrente, libretto di risparmio, conto a termine o Conto di deposito a risparmio, oppure un conto che è comprovato da un certificato di deposito, certificato di risparmio, certificato di investimento, certificato di debito, o altro strumento analogo gestito da un’Istituzione finanziaria nell’ambito della propria ordinaria attività bancaria o similare. Un Conto di deposito include anche un importo detenuto da un’impresa di assicurazioni sulla base di un contratto di investimento garantito o analogo accordo di pagamento o accredito dei relativi interessi.
+- 2\.
+
+  L’espressione «Conto di deposito» comprende qualsiasi conto commerciale, conto corrente, libretto di risparmio, conto a termine o Conto di deposito a risparmio, oppure un conto che è comprovato da un certificato di deposito, certificato di risparmio, certificato di investimento, certificato di debito, o altro strumento analogo gestito da un’Istituzione di deposito. Un Conto di deposito include anche:
+
+  - a) un importo detenuto da un’impresa di assicurazioni sulla base di un contratto di investimento garantito o analogo accordo di pagamento o accredito dei relativi interessi;
+  - b) un conto o un conto nozionale che rappresenta tutti i Prodotti specificati di moneta elettronica detenuti a beneficio di un cliente; e
+  - c) un conto sul quale sono detenute una o più Valute digitali della Banca centrale a beneficio di un cliente.
+
 - 3\. Per «Conto di custodia» si intende un conto (diverso da un Contratto di assicurazione o da un Contratto di rendita) che detiene una o più Attività finanziarie a beneficio di un’altra persona.
 - 4\. Per «Quota nel capitale di rischio» si intende, nel caso di una società di persone che è un’Istituzione finanziaria, una partecipazione al capitale o agli utili della società di persone. Nel caso di un *trust* che costituisce un’Istituzione finanziaria, una Quota nel capitale di rischio si considera detenuta da qualsiasi persona considerata come un disponente o beneficiario di tutto o di una parte del *trust*, o qualsiasi altra persona fisica che, in ultima istanza, esercita il controllo effettivo sul *trust*. Una Persona oggetto di comunicazione sarà considerata un beneficiario di un *trust* se essa ha il diritto di ricevere dal *trust*, direttamente o indirettamente (ad esempio, attraverso un intestatario), una distribuzione obbligatoria o può ricevere, direttamente o indirettamente, una distribuzione discrezionale.
 - 5\. Per «Contratto di assicurazione» si intende un contratto (diverso da un Contratto di rendita) in base al quale l’emittente si impegna a pagare un importo al verificarsi di uno specifico evento che implichi mortalità, morbilità, infortuni, responsabilità o rischio patrimoniale.
@@ -466,8 +518,8 @@ C. Conto finanziario
   - d) quale dividendo all’assicurato (diverso da un dividendo di disdetta) purché il dividendo si riferisca ad un Contratto di assicurazione ai sensi del quale i soli benefici pagabili sono descritti alla lettera b); o
   - e) quale restituzione di un premio anticipato o di un premio a deposito per un Contratto di assicurazione per cui il premio è pagabile almeno annualmente se l’importo del premio anticipato o del premio a deposito non supera il successivo premio annuale dovuto ai sensi del contratto.
 
-- 9\. Per «Conto preesistente» si intende un Conto finanziario detenuto presso un’Istituzione finanziaria tenuta alla comunicazione alla data del […].
-- 10\. Per «Nuovo conto» si intende un Conto finanziario detenuto presso un’Istituzione finanziaria tenuta alla comunicazione, aperto il […] o successivamente.
+- 9\. Per «Conto preesistente» si intende un Conto finanziario detenuto presso un’Istituzione finanziaria tenuta alla comunicazione alla data del [xx.xx.xxxx] o, se il conto è considerato un Conto finanziario esclusivamente in virtù delle modifiche dello Standard comune di comunicazione di informazioni, alla data del [data di entrata in vigore dello Standard comune di comunicazione di informazioni modificato – 1 giorno].
+- 10\. Per «Nuovo conto» si intende un Conto finanziario detenuto presso un’Istituzione finanziaria tenuta alla comunicazione, aperto il [xx.xx.xxxx] o successivamente o, se il conto è considerato un Conto finanziario esclusivamente in virtù delle modifiche dello Standard comune di comunicazione di informazioni, alla data del [data di entrata in vigore dello Standard comune di comunicazione di informazioni modificato] o successivamente.
 - 11\. Per «Conto preesistente di persona fisica» si intende un Conto preesistente detenuto da una o più persone fisiche.
 - 12\. Per «Nuovo conto di persona fisica» si intende un Nuovo conto detenuto da una o più persone fisiche.
 - 13\. Per «Conto preesistente di entità» si intende un Conto preesistente detenuto da una o più Entità.
@@ -525,8 +577,18 @@ C. Conto finanziario
       - – il conto non è associato a un conto di cui alla lettera f),
 
     - iii. l’obbligo di un’Istituzione finanziaria che finanzia un prestito garantito da un bene immobile di accantonare una parte del pagamento con l’unico obiettivo di facilitare il successivo pagamento di imposte o assicurazioni relative al bene immobile,
-    - iv. l’obbligo di un’Istituzione finanziaria esclusivamente al fine di facilitare il successivo pagamento di imposte;
+    - iv. l’obbligo di un’Istituzione finanziaria esclusivamente al fine di facilitare il successivo pagamento di imposte,
+    - v.
 
+      la costituzione o l’aumento di capitale di una società, a condizione che il conto soddisfi i seguenti requisiti:
+
+      - – il conto è utilizzato esclusivamente per depositare capitali destinati alla costituzione o all’aumento di capitale di una società come previsto dalla legge,
+      - – tutti gli importi detenuti sul conto sono bloccati fino a quando l’Istituzione finanziaria tenuta alla comunicazione non ottiene una conferma indipendente in merito alla costituzione o all’aumento di capitale,
+      - – dopo la costituzione o l’aumento di capitale, il conto è chiuso o trasformato in un conto intestato alla società,
+      - – eventuali rimborsi derivanti dalla mancata costituzione o dal mancato aumento di capitale, al netto delle commissioni per il prestatore di servizi e di commissioni analoghe, sono versati esclusivamente alle persone che hanno contribuito gli importi, e
+      - – il conto non è stato aperto più di 12 mesi prima;
+
+  - e<sup>bis</sup>) un Conto di deposito che rappresenta tutti i Prodotti specificati di moneta elettronica detenuti a beneficio di un cliente, se la media mobile del saldo o del valore aggregato di fine giornata del conto a 90 giorni durante un qualsiasi periodo di 90 giorni consecutivi non ha superato i 10 000 dollari americani (USD) in nessun giorno dell’anno civile o di altro adeguato periodo di rendicontazione;
   - f)
 
     un Conto di deposito che soddisfi i seguenti requisiti:
@@ -539,7 +601,7 @@ C. Conto finanziario
 D. Conto oggetto di comunicazione
 
 - 1\. Per «Conto oggetto di comunicazione» si intende un conto detenuto da una o più Persone oggetto di comunicazione o da un’Entità non finanziaria passiva avente una o più Persone che esercitano il controllo che sono Persone oggetto di comunicazione, a condizione che sia stato identificato in quanto tale secondo le procedure di adeguata verifica in materia fiscale di cui alle sezioni da II a VII.
-- 2\. Per «Persona oggetto di comunicazione» si intende una Persona residente in una Giurisdizione oggetto di comunicazione diversa da: (i) una società di capitali i cui titoli sono regolarmente scambiati su uno o più mercati dei valori mobiliari regolamentati; (ii) una società di capitali che è un’Entità collegata di una società di capitali di cui al punto (i); (iii) un’Entità statale; (iv) un’Organizzazione internazionale; (v) una Banca centrale; o (vi) un’Istituzione finanziaria.
+- 2\. Per «Persona oggetto di comunicazione» si intende una Persona residente in una Giurisdizione oggetto di comunicazione diversa da: (i) un’Entità i cui titoli sono regolarmente scambiati su uno o più mercati dei valori mobiliari regolamentati; (ii) un’Entità che è un’Entità collegata di un’Entità di cui al punto (i); (iii) un’Entità statale; (iv) un’Organizzazione internazionale; (v) una Banca centrale; o (vi) un’Istituzione finanziaria.
 - 3\. Per «Persona di una Giurisdizione oggetto di comunicazione» si intende una persona fisica o un’Entità che è residente in una Giurisdizione oggetto di comunicazione ai sensi della normativa fiscale di tale giurisdizione, o il patrimonio di un *de cuius* che era residente in una Giurisdizione oggetto di comunicazione. A tal fine, un’Entità come una società di persone, una società a responsabilità limitata o un analogo dispositivo giuridico, che non abbia un luogo di residenza ai fini fiscali è considerata come residente nella giurisdizione in cui è situata la sua sede di direzione effettiva.
 - 4\. Per «Giurisdizione oggetto di comunicazione» si intende una giurisdizione (i) con la quale vige un accordo che prevede l’obbligo di fornire le informazioni specificate nella sezione I e (ii) che figura su un elenco pubblico.
 - 5\. L’espressione «Giurisdizione partecipante» si intende una giurisdizione (i) con la quale vige un accordo in base al quale tale giurisdizione fornirà le informazioni di cui alla sezione I e (ii) che figura su un elenco pubblico.
@@ -583,6 +645,8 @@ E. Varie
   - c) con riferimento a un’Entità, la documentazione ufficiale rilasciata da un ente pubblico autorizzato (per esempio lo Stato o un’agenzia dello stesso, o un comune), contenente la denominazione dell’Entità nonché l’indirizzo della sua sede principale della giurisdizione di cui l’Entità dichiara di essere residente oppure la giurisdizione in cui l’Entità stessa è legalmente costituita o organizzata;
   - d) i bilanci sottoposti a revisione, le informative commerciali ai terzi, le istanze di fallimento o le relazioni dell’autorità di regolamentazione del mercato mobiliare.
 
+- 7\. Per «Servizio di verifica statale» si intende un processo elettronico messo a disposizione di un’Istituzione finanziaria tenuta alla comunicazione da una Giurisdizione oggetto di comunicazione al fine di accertare l’identità e la residenza fiscale di un Titolare di conto o di una Persona che esercita il controllo.
+
 ### Sezione IX: Efficace attuazione
 
 A. Una giurisdizione è tenuta ad adottare norme e procedure amministrative intese ad assicurare l’efficace attuazione e il rispetto delle procedure in materia di comunicazione e di adeguata verifica in materia fiscale di cui sopra, comprese:
@@ -593,13 +657,19 @@ A. Una giurisdizione è tenuta ad adottare norme e procedure amministrative inte
 - 4\. procedure amministrative intese a garantire che le Entità e i conti definiti nel diritto nazionale come Istituzioni finanziarie non tenute alla comunicazione e Conti esclusi continuino a presentare un rischio ridotto di essere utilizzati a fini di evasione fiscale; e
 - 5\. efficaci disposizioni di attuazione per affrontare i casi di non conformità.
 
-Notifica della Svizzera del 4 maggio 2017 conformemente alla Sezione 7 (1) (d)[^annexu1-lvlu1-secIX-1]
+### Sezione X: Misure transitorie
+
+A. Le modifiche apportate allo Standard comune di comunicazione di informazioni hanno effetto il [data di entrata in vigore dello Standard comune di comunicazione di informazioni modificato].
+
+B. Nonostante la parte A, ai sensi della sezione I parte A punti 1 lettera b) e 6<sup>bis</sup>, in relazione a ciascun Conto oggetto di comunicazione detenuto presso un’Istituzione finanziaria tenuta alla comunicazione al [data di entrata in vigore dello Standard comune di comunicazione di informazioni modificato – 1 giorno] e per i periodi di rendicontazione che terminano il secondo anno civile successivo a tale data, le informazioni relative al ruolo o ai ruoli in virtù dei quali ciascuna Persona oggetto di comunicazione è una Persona che esercita il controllo o un titolare di una Quota nel capitale di rischio dell’Entità devono essere comunicate solo se tali informazioni sono disponibili nei dati consultabili elettronicamente conservati dall’Istituzione finanziaria tenuta alla comunicazione.
+
+Notifica della Svizzera del 4 maggio 2017 conformemente alla Sezione 7 (1) (d)[^annexu1-lvlu1-secX-1]
 
 Con la presente l’Autorità competente della Svizzera notifica al Segretariato dell’Organo di coordinamento che, conformemente alla legislazione sulla protezione dei dati della Svizzera, essa deve trasmettere le informazioni menzionate nella sezione 2 del presete Accordo alle seguenti condizioni:
 
-- – le informazioni trasmesse possono essere utilizzate solo ai fini previsti dalla Convenzione del 25 gennaio 1988 sulla reciproca assistenza amministrativa in materia fiscale, emendata dal Protocollo del 27 maggio 2010[^annexu1-lvlu1-secIX-2], e dall’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari. Tali dati possono essere utilizzati per fini diversi soltanto previa autorizzazione dell’autorità competente della Svizzera;
+- – le informazioni trasmesse possono essere utilizzate solo ai fini previsti dalla Convenzione del 25 gennaio 1988 sulla reciproca assistenza amministrativa in materia fiscale, emendata dal Protocollo del 27 maggio 2010[^annexu1-lvlu1-secX-2], e dall’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari. Tali dati possono essere utilizzati per fini diversi soltanto previa autorizzazione dell’autorità competente della Svizzera;
 - – l’Autorità competente che riceve le informazioni trasmesse dall’Autorità competente della Svizzera non deve utilizzarle o pubblicarle in nessun caso nel quadro di procedure che potrebbero concludersi nell’imposizione o nell’esecuzione della pena di morte o di altre gravi violazioni dei diritti dell’uomo, quali la tortura; e
-- – in caso di Giurisdizioni il cui regime di protezione dei dati non è stato giudicato adeguato dalla Svizzera o, per analogia, dall’Unione europea[^annexu1-lvlu1-secIX-3], le seguenti garanzie sono in vigore per quanto attiene ai dati personali trasmessi dall’Autorità competente della Svizzera:
+- – in caso di Giurisdizioni il cui regime di protezione dei dati non è stato giudicato adeguato dalla Svizzera o, per analogia, dall’Unione europea[^annexu1-lvlu1-secX-3], le seguenti garanzie sono in vigore per quanto attiene ai dati personali trasmessi dall’Autorità competente della Svizzera:
 
 **Diritto di accesso, rettifica e cancellazione dei dati**
 
@@ -637,187 +707,191 @@ Ai fini della presente notifica:
 - www.edoeb.admin.ch/datenschutz/00626/00753/index.html?lang=it
 - [https://secure.edps.europa.eu/EDPSWEB/edps/site/mySite/lang/fr/pid/71#adequacy\_decision](https://secure.edps.europa.eu/EDPSWEB/edps/site/mySite/lang/fr/pid/71%23adequacy_decision)
 
-[^annexu1-lvlu1-secIX-1]: [RU 2017 3533](https://fedlex.data.admin.ch/eli/oc/2017/388). La presente notifica sostituisce la notifica (non pubblicata nella RU) del 21 dic. 2016 ed ha validità finché al Segretariato dell’Organo di coordinamento non ne venga notificata la modifica.
-[^annexu1-lvlu1-secIX-2]: [RS 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
-[^annexu1-lvlu1-secIX-3]: La Svizzera ha ottenuto dalla Commissione europea una decisione di adeguatezza in ottemperanza all’articolo 25 paragrafo 6 della direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati.
+[^annexu1-lvlu1-secX-1]: [RU 2017 3533](https://fedlex.data.admin.ch/eli/oc/2017/388). La presente notifica sostituisce la notifica (non pubblicata nella RU) del 21 dic. 2016 ed ha validità finché al Segretariato dell’Organo di coordinamento non ne venga notificata la modifica.
+[^annexu1-lvlu1-secX-2]: [RS 0.652.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2497)
+[^annexu1-lvlu1-secX-3]: La Svizzera ha ottenuto dalla Commissione europea una decisione di adeguatezza in ottemperanza all’articolo 25 paragrafo 6 della direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonché alla libera circolazione di tali dati.
 
-Campo d’applicazione il 1° gennaio 2025[^t-2]
+Campo d’applicazione il 1° gennaio 2026[^t-3]
 
 La Svizzera è vincolata dalle disposizioni dell’Accordo multilaterale tra autorità competenti concernente lo scambio automatico di informazioni relative a conti finanziari verso gli Stati e i territori seguenti conformemente al paragrafo 2.1 della sezione 7 del presente Accordo:
 
 <table>
 <tr><th></th><th>Con effetto dal</th></tr>
-<tr><td>Albania[^t-3]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Andorra[^t-4]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Anguilla[^t-5]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Antigua e Barbuda[^t-6]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Arabia Saudita[^t-7]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Argentina[^t-8]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Aruba[^t-9]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Australia[^t-10]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Azerbaigian[^t-11]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Bahamas[^t-12]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Bahrein[^t-13]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Barbados[^t-14]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Belize[^t-15]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Bermuda[^t-16]</td><td>1° gennaio 2018\*</td></tr>
-<tr><td>Brasile[^t-17]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Brunei Darussalam[^t-18]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Canada[^t-19]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Cayman, Isole[^t-20]</td><td>1° gennaio 2018\*</td></tr>
-<tr><td>Cile[^t-21]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Cina[^t-22]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Colombia[^t-23]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Cook, Isole[^t-24]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Corea[^t-25] (Sud)</td><td>1° gennaio 2017</td></tr>
-<tr><td>Costa Rica[^t-26]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Curaçao[^t-27]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Dominica[^t-28]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Ecuador[^t-29]</td><td>1° gennaio 2023</td></tr>
-<tr><td>Emirati Arabi Uniti[^t-30]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Faeröer, Isole[^t-31]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Ghana[^t-32]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Georgia[^t-33]</td><td>1° gennaio 2025</td></tr>
-<tr><td>Giamaica[^t-34]</td><td>1° gennaio 2023</td></tr>
-<tr><td>Giappone[^t-35]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Grenada[^t-36]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Groenlandia[^t-37]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Guernesey[^t-38]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Hong Kong[^t-39]</td><td>1° gennaio 2024</td></tr>
-<tr><td>India[^t-40]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Indonesia[^t-41]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Islanda[^t-42]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Isola di Man[^t-43]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Israele[^t-44]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Jersey[^t-45]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Kazakistan[^t-46]</td><td>1° gennaio 2022</td></tr>
-<tr><td>Kenya[^t-47]</td><td>1° gennaio 2024</td></tr>
-<tr><td>Kuwait[^t-48]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Libano[^t-49]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Liechtenstein[^t-50]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Macao[^t-51]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Malaysia[^t-52]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Maldive[^t-53]</td><td>1° gennaio 2022</td></tr>
-<tr><td>Marshall, Isole[^t-54]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Maurizio[^t-55]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Messico[^t-56]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Moldova[^t-57]</td><td>1° gennaio 2025</td></tr>
-<tr><td>Monaco[^t-58]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Montserrat[^t-59]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Nauru[^t-60]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Nigeria[^t-61]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Norvegia[^t-62]</td><td>1° gennaio 2017</td></tr>
-<tr><td>Nuova Zelanda[^t-63]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Nuova-Caledonia[^t-64]</td><td>1° gennaio 2023\*</td></tr>
-<tr><td>Oman[^t-65]</td><td>1° gennaio 2022</td></tr>
-<tr><td>Paesi Bassi: Comuni d’oltremare Bonaire, Saint’Eustachio e Saba[^t-66]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Pakistan[^t-67]</td><td>1° gennaio 2020</td></tr>
-<tr><td>Panama[^t-68]</td><td>1° gennaio 2019</td></tr>
-<tr><td>Perù[^t-69]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Qatar[^t-70]</td><td>1° gennaio 2019\*</td></tr>
-<tr><td>Russia[^t-71]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Saint Kitts e Nevis[^t-72]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Saint Vincent e Grenadine[^t-73]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Samoa[^t-74]</td><td>1° gennaio 2020</td></tr>
-<tr><td>San Marino[^t-75]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Santa Lucia[^t-76]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Seicelle[^t-77]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Singapore[^t-78]</td><td>1° gennaio 2024</td></tr>
-<tr><td>Sint Maarten[^t-79]</td><td>1° gennaio 2023</td></tr>
-<tr><td>Sudafrica[^t-80]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Thailandia[^t-81]</td><td>1° gennaio 2024</td></tr>
-<tr><td>Turchia[^t-82]</td><td>1° gennaio 2021</td></tr>
-<tr><td>Turks e Caicos, Isole[^t-83]</td><td>1° gennaio 2018\*</td></tr>
-<tr><td>Ucraina[^t-84]</td><td>1° gennaio 2025</td></tr>
-<tr><td>Uruguay[^t-85]</td><td>1° gennaio 2018</td></tr>
-<tr><td>Vanuatu[^t-86]</td><td>1° gennaio 2020\*</td></tr>
-<tr><td>Vergini Britanniche, Isole[^t-87]</td><td>1° gennaio 2018\*</td></tr>
-<tr><td colspan="2">\* Questo Stato partner applica sistematicamente lo scambio automatico di informazioni in modo non reciproco, sulla base di una notifica secondo la Sez. 7 punto 1 lett. b dell’Acc. multilaterale. Questo significa che non riceve dati relativi a conti finanziari da parte della Svizzera, ma le trasmette tali informazioni.</td></tr>
+<tr><td>Albania[^t-4]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Andorra[^t-5]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Anguilla[^t-6]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Antigua e Barbuda[^t-7]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Arabia Saudita[^t-8]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Argentina[^t-9]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Aruba[^t-10]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Australia[^t-11]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Azerbaigian[^t-12]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Bahamas[^t-13]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Bahrein[^t-14]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Barbados[^t-15]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Belize[^t-16]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Bermuda[^t-17]</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Brasile[^t-18]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Brunei Darussalam[^t-19]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Canada[^t-20]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Cayman, Isole[^t-21]</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Cile[^t-22]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Cina[^t-23]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Colombia[^t-24]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Cook, Isole[^t-25]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Corea[^t-26] (Sud)</td><td>1° gennaio 2017</td></tr>
+<tr><td>Costa Rica[^t-27]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Curaçao[^t-28]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Dominica[^t-29]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Ecuador[^t-30]</td><td>1° gennaio 2023</td></tr>
+<tr><td>Emirati Arabi Uniti[^t-31]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Faeröer, Isole[^t-32]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Ghana[^t-33]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Georgia[^t-34]</td><td>1° gennaio 2025</td></tr>
+<tr><td>Giamaica[^t-35]</td><td>1° gennaio 2023</td></tr>
+<tr><td>Giappone[^t-36]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Grenada[^t-37]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Groenlandia[^t-38]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Guernesey[^t-39]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Hong Kong[^t-40]</td><td>1° gennaio 2024</td></tr>
+<tr><td>India[^t-41]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Indonesia[^t-42]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Islanda[^t-43]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Isola di Man[^t-44]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Israele[^t-45]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Jersey[^t-46]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Kazakistan[^t-47]</td><td>1° gennaio 2022</td></tr>
+<tr><td>Kenya[^t-48]</td><td>1° gennaio 2024</td></tr>
+<tr><td>Kuwait[^t-49]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Libano[^t-50]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Liechtenstein[^t-51]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Macao[^t-52]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Malaysia[^t-53]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Maldive[^t-54]</td><td>1° gennaio 2022</td></tr>
+<tr><td>Marshall, Isole[^t-55]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Maurizio[^t-56]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Messico[^t-57]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Moldova[^t-58]</td><td>1° gennaio 2025</td></tr>
+<tr><td>Monaco[^t-59]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Montserrat[^t-60]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Nauru[^t-61]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Nigeria[^t-62]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Norvegia[^t-63]</td><td>1° gennaio 2017</td></tr>
+<tr><td>Nuova Zelanda[^t-64]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Nuova-Caledonia[^t-65]</td><td>1° gennaio 2023\*</td></tr>
+<tr><td>Oman[^t-66]</td><td>1° gennaio 2022</td></tr>
+<tr><td>Paesi Bassi: Comuni d’oltremare Bonaire, Saint’Eustachio e Saba[^t-67]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Pakistan[^t-68]</td><td>1° gennaio 2020</td></tr>
+<tr><td>Panama[^t-69]</td><td>1° gennaio 2019</td></tr>
+<tr><td>Perù[^t-70]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Qatar[^t-71]</td><td>1° gennaio 2019\*</td></tr>
+<tr><td>Russia[^t-72]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Saint Kitts e Nevis[^t-73]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Saint Vincent e Grenadine[^t-74]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Samoa[^t-75]</td><td>1° gennaio 2020</td></tr>
+<tr><td>San Marino[^t-76]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Santa Lucia[^t-77]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Seicelle[^t-78]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Singapore[^t-79]</td><td>1° gennaio 2024</td></tr>
+<tr><td>Sint Maarten[^t-80]</td><td>1° gennaio 2023</td></tr>
+<tr><td>Sudafrica[^t-81]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Thailandia[^t-82]</td><td>1° gennaio 2024</td></tr>
+<tr><td>Trinidad e Tobago[^t-83]</td><td>1° gennaio 2026\*</td></tr>
+<tr><td>Turchia[^t-84]</td><td>1° gennaio 2021</td></tr>
+<tr><td>Turks e Caicos, Isole[^t-85]</td><td>1° gennaio 2018\*</td></tr>
+<tr><td>Ucraina[^t-86]</td><td>1° gennaio 2025</td></tr>
+<tr><td>Uganda[^t-87]</td><td>1° gennaio 2026</td></tr>
+<tr><td>Uruguay[^t-88]</td><td>1° gennaio 2018</td></tr>
+<tr><td>Vanuatu[^t-89]</td><td>1° gennaio 2020\*</td></tr>
+<tr><td>Vergini Britanniche, Isole[^t-90]</td><td>1° gennaio 2018\*</td></tr>
+<tr><td colspan="2">\* Questo Stato applica lo scambio automatico di informazioni in modo non reciproco sulla base di una notifica secondo la Sez. 7 punto 1 let. b dell’Accordo multilaterale. Ciò significa che questo Stato non riceve dalla Svizzera i dati relativi a conti finanziari, ma è tenuto a trasmetterle tali informazioni.</td></tr>
 </table>
 
-[^t-2]: [RU 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769);[2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36); [2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107)e [2024 15](https://fedlex.data.admin.ch/eli/oc/2024/15); [2025 80](https://fedlex.data.admin.ch/eli/oc/2025/80). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: ([www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10)).
-[^t-3]: DF del 10 dic. 2019 ([RU 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764)).
-[^t-4]: DF del 7 dic. 2017 ([RU 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841)).
-[^t-5]: DF del 13 dic. 2018 ([RU 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10)).
-[^t-6]: DF del 5 dic. 2017 ([RU 2017 7677](https://fedlex.data.admin.ch/eli/oc/2017/842)).
-[^t-7]: DF del 7 dic. 2017 ([RU 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876)).
-[^t-8]: DF del 7 dic. 2017 ([RU 2017 7679](https://fedlex.data.admin.ch/eli/oc/2017/843)).
-[^t-9]: DF del 5 dic. 2017 ([RU 2017 7681](https://fedlex.data.admin.ch/eli/oc/2017/844)).
-[^t-10]: DF del 31 mag. 2016 ([RU 2016 4795](https://fedlex.data.admin.ch/eli/oc/2016/765)).
-[^t-11]: DF del 10 dic. 2019 ([RU 2020 231](https://fedlex.data.admin.ch/eli/oc/2020/32)).
-[^t-12]: DF del 13 dic. 2018 ([RU 2019 91](https://fedlex.data.admin.ch/eli/oc/2019/11)).
-[^t-13]: DF del 13 dic. 2018 ([RU 2019 93](https://fedlex.data.admin.ch/eli/oc/2019/12)).
-[^t-14]: DF del 7 dic. 2017 ([RU 2017 7683](https://fedlex.data.admin.ch/eli/oc/2017/845)).
-[^t-15]: DF del 7 dic. 2017 ([RU 2017 7685](https://fedlex.data.admin.ch/eli/oc/2017/846)).
-[^t-16]: DF del 7 dic. 2017 ([RU 2017 7687](https://fedlex.data.admin.ch/eli/oc/2017/847)).
-[^t-17]: DF del 7 dic. 2017 ([RU 2017 7689](https://fedlex.data.admin.ch/eli/oc/2017/848)).
-[^t-18]: DF del 10 dic. 2019 ([RU 2021 765](https://fedlex.data.admin.ch/eli/oc/2021/765)).
-[^t-19]: DF del 12 dic. 2016 ([RU 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841)).
-[^t-20]: DF del 7 dic. 2017 ([RU 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850)).
-[^t-21]: DF del 7 dic. 2017 ([RU 2017 7695](https://fedlex.data.admin.ch/eli/oc/2017/851)).
-[^t-22]: DF del 7 dic. 2017 ([RU 2017 7697](https://fedlex.data.admin.ch/eli/oc/2017/852)).
-[^t-23]: DF del 7 dic. 2017 ([RU 2017 7717](https://fedlex.data.admin.ch/eli/oc/2017/862)).
-[^t-24]: DF del 7 dic. 2017 ([RU 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853)).
-[^t-25]: DF del 12 dic. 2016 ([RU 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842)).
-[^t-26]: DF del 5 dic. 2017 ([RU 2017 7701](https://fedlex.data.admin.ch/eli/oc/2017/854)).
-[^t-27]: DF del 7 dic. 2017 ([RU 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855)).
-[^t-28]: DF del 10 dic. 2019 ([RU 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33)).
-[^t-29]: DF dell’8 dic. 2022 ([RU 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103)).
-[^t-30]: DF del 5 dic. 2017 ([RU 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881)).
-[^t-31]: DF del 7 dic. 2017 ([RU 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856)).
-[^t-32]: DF del 10 dic. 2019 ([RU 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34)).
-[^t-33]: DF dell’8 dic. 2022 ([RU 2025 77](https://fedlex.data.admin.ch/eli/oc/2025/77)).
-[^t-34]: DF dell’8 dic. 2022 ([RU 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104)).
-[^t-35]: DF del 12 dic. 2016 ([RU 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846)).
-[^t-36]: DF del 5 dic. 2017 ([RU 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857)).
-[^t-37]: DF del 7 dic. 2017 ([RU 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858)).
-[^t-38]: DF del 12 dic. 2016 ([RU 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843)).
-[^t-39]: DF del 13 dic. 2018 ([RU 2024 16](https://fedlex.data.admin.ch/eli/oc/2024/16)).
-[^t-40]: DF del 7 dic. 2017 ([RU 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859)).
-[^t-41]: DF del 7 dic. 2017 ([RU 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860)).
-[^t-42]: DF del 12 dic. 2016 ([RU 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845)).
-[^t-43]: DF del 12 dic. 2016 ([RU 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844)).
-[^t-44]: DF del 5 dic. 2017 ([RU 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9)).
-[^t-45]: DF del 12 dic. 2016 ([RU 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847)).
-[^t-46]: DF del 10 dic. 2019 ([RU 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33)).
-[^t-47]: DF dell’ 8 dic. 2022 ([RU 2024 17](https://fedlex.data.admin.ch/eli/oc/2024/17)).
-[^t-48]: DF del 13 dic. 2018 ([RU 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
-[^t-49]: DF del 10 dic. 2019 ([RU 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
-[^t-50]: DF del 7 dic. 2017 ([RU 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
-[^t-51]: DF del 10 dic. 2019 ([RU 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
-[^t-52]: DF del 7 dic. 2017 ([RU 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
-[^t-53]: DF del 10 dic. 2019 ([RU 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34)).
-[^t-54]: DF del 5 dic. 2017 ([RU 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
-[^t-55]: DF del 5 dic. 2017 ([RU 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
-[^t-56]: DF del 7 dic. 2017 ([RU 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
-[^t-57]: DF dell’8 dic. 2022 ([RU 2025 78](https://fedlex.data.admin.ch/eli/oc/2025/78)).
-[^t-58]: DF del 7 dic. 2017 ([RU 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
-[^t-59]: DF del 7 dic. 2017 ([RU 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
-[^t-60]: DF del 13 dic. 2018 ([RU 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
-[^t-61]: DF del 10 dic. 2019 ([RU 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
-[^t-62]: DF del 12 dic. 2016 ([RU 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
-[^t-63]: DF del 7 dic. 2017 ([RU 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
-[^t-64]: DF dell’8 dic. 2022 ([RU 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105)).
-[^t-65]: DF del 10 dic. 2019 ([RU 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35)).
-[^t-66]: DF del 13 dic. 2018 ([RU 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
-[^t-67]: DF del 10 dic. 2019 ([RU 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
-[^t-68]: DF del 13 dic. 2018 ([RU 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
-[^t-69]: DF del 10 dic. 2019 ([RU 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
-[^t-70]: DF del 13 dic. 2018 ([RU 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
-[^t-71]: DF del 7 dic. 2017 ([RU 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
-[^t-72]: DF del 7 dic. 2017 ([RU 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
-[^t-73]: DF del 7 dic. 2017 ([RU 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
-[^t-74]: DF del 10 dic. 2019 ([RU 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
-[^t-75]: DF del 7 dic. 2017 ([RU 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
-[^t-76]: DF del 7 dic. 2017 ([RU 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
-[^t-77]: DF del 7 dic. 2017 ([RU 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
-[^t-78]: DF del 13 dic. 2018 ([RU 2024 18](https://fedlex.data.admin.ch/eli/oc/2024/18)).
-[^t-79]: DF del 10 dic. 2019 ([RU 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106)).
-[^t-80]: DF del 7 dic. 2017 ([RU 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878)).
-[^t-81]: DF dell’ 8 dic. 2022 ([RU 2024 19](https://fedlex.data.admin.ch/eli/oc/2024/19)).
-[^t-82]: DF del 3 mar. 2020 ([RU 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
-[^t-83]: DF del 7 dic. 2017 ([RU 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
-[^t-84]: DF dell’8 dic. 2022 ([RU 2025 79](https://fedlex.data.admin.ch/eli/oc/2025/79)).
-[^t-85]: DF del 7 dic. 2017 ([RU 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
-[^t-86]: DF del 10 dic. 2019 ([RU 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).
-[^t-87]: DF del 7 dic. 2017 ([RU 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).
+[^t-3]: [RU 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36); [2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107); [2024 15](https://fedlex.data.admin.ch/eli/oc/2024/15); [2025 80](https://fedlex.data.admin.ch/eli/oc/2025/80); [2026 56](https://fedlex.data.admin.ch/eli/oc/2026/56). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-4]: DF del 10 dic. 2019 ([RU 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764)).
+[^t-5]: DF del 7 dic. 2017 ([RU 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841)).
+[^t-6]: DF del 13 dic. 2018 ([RU 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10)).
+[^t-7]: DF del 5 dic. 2017 ([RU 2017 7677](https://fedlex.data.admin.ch/eli/oc/2017/842)).
+[^t-8]: DF del 7 dic. 2017 ([RU 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876)).
+[^t-9]: DF del 7 dic. 2017 ([RU 2017 7679](https://fedlex.data.admin.ch/eli/oc/2017/843)).
+[^t-10]: DF del 5 dic. 2017 ([RU 2017 7681](https://fedlex.data.admin.ch/eli/oc/2017/844)).
+[^t-11]: DF del 31 mag. 2016 ([RU 2016 4795](https://fedlex.data.admin.ch/eli/oc/2016/765)).
+[^t-12]: DF del 10 dic. 2019 ([RU 2020 231](https://fedlex.data.admin.ch/eli/oc/2020/32)).
+[^t-13]: DF del 13 dic. 2018 ([RU 2019 91](https://fedlex.data.admin.ch/eli/oc/2019/11)).
+[^t-14]: DF del 13 dic. 2018 ([RU 2019 93](https://fedlex.data.admin.ch/eli/oc/2019/12)).
+[^t-15]: DF del 7 dic. 2017 ([RU 2017 7683](https://fedlex.data.admin.ch/eli/oc/2017/845)).
+[^t-16]: DF del 7 dic. 2017 ([RU 2017 7685](https://fedlex.data.admin.ch/eli/oc/2017/846)).
+[^t-17]: DF del 7 dic. 2017 ([RU 2017 7687](https://fedlex.data.admin.ch/eli/oc/2017/847)).
+[^t-18]: DF del 7 dic. 2017 ([RU 2017 7689](https://fedlex.data.admin.ch/eli/oc/2017/848)).
+[^t-19]: DF del 10 dic. 2019 ([RU 2021 765](https://fedlex.data.admin.ch/eli/oc/2021/765)).
+[^t-20]: DF del 12 dic. 2016 ([RU 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841)).
+[^t-21]: DF del 7 dic. 2017 ([RU 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850)).
+[^t-22]: DF del 7 dic. 2017 ([RU 2017 7695](https://fedlex.data.admin.ch/eli/oc/2017/851)).
+[^t-23]: DF del 7 dic. 2017 ([RU 2017 7697](https://fedlex.data.admin.ch/eli/oc/2017/852)).
+[^t-24]: DF del 7 dic. 2017 ([RU 2017 7717](https://fedlex.data.admin.ch/eli/oc/2017/862)).
+[^t-25]: DF del 7 dic. 2017 ([RU 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853)).
+[^t-26]: DF del 12 dic. 2016 ([RU 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842)).
+[^t-27]: DF del 5 dic. 2017 ([RU 2017 7701](https://fedlex.data.admin.ch/eli/oc/2017/854)).
+[^t-28]: DF del 7 dic. 2017 ([RU 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855)).
+[^t-29]: DF del 10 dic. 2019 ([RU 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33)).
+[^t-30]: DF dell’8 dic. 2022 ([RU 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103)).
+[^t-31]: DF del 5 dic. 2017 ([RU 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881)).
+[^t-32]: DF del 7 dic. 2017 ([RU 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856)).
+[^t-33]: DF del 10 dic. 2019 ([RU 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34)).
+[^t-34]: DF dell’8 dic. 2022 ([RU 2025 77](https://fedlex.data.admin.ch/eli/oc/2025/77)).
+[^t-35]: DF dell’8 dic. 2022 ([RU 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104)).
+[^t-36]: DF del 12 dic. 2016 ([RU 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846)).
+[^t-37]: DF del 5 dic. 2017 ([RU 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857)).
+[^t-38]: DF del 7 dic. 2017 ([RU 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858)).
+[^t-39]: DF del 12 dic. 2016 ([RU 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843)).
+[^t-40]: DF del 13 dic. 2018 ([RU 2024 16](https://fedlex.data.admin.ch/eli/oc/2024/16)).
+[^t-41]: DF del 7 dic. 2017 ([RU 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859)).
+[^t-42]: DF del 7 dic. 2017 ([RU 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860)).
+[^t-43]: DF del 12 dic. 2016 ([RU 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845)).
+[^t-44]: DF del 12 dic. 2016 ([RU 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844)).
+[^t-45]: DF del 5 dic. 2017 ([RU 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9)).
+[^t-46]: DF del 12 dic. 2016 ([RU 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847)).
+[^t-47]: DF del 10 dic. 2019 ([RU 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33)).
+[^t-48]: DF dell’ 8 dic. 2022 ([RU 2024 17](https://fedlex.data.admin.ch/eli/oc/2024/17)).
+[^t-49]: DF del 13 dic. 2018 ([RU 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
+[^t-50]: DF del 10 dic. 2019 ([RU 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
+[^t-51]: DF del 7 dic. 2017 ([RU 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
+[^t-52]: DF del 10 dic. 2019 ([RU 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
+[^t-53]: DF del 7 dic. 2017 ([RU 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
+[^t-54]: DF del 10 dic. 2019 ([RU 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34)).
+[^t-55]: DF del 5 dic. 2017 ([RU 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
+[^t-56]: DF del 5 dic. 2017 ([RU 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
+[^t-57]: DF del 7 dic. 2017 ([RU 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
+[^t-58]: DF dell’8 dic. 2022 ([RU 2025 78](https://fedlex.data.admin.ch/eli/oc/2025/78)).
+[^t-59]: DF del 7 dic. 2017 ([RU 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
+[^t-60]: DF del 7 dic. 2017 ([RU 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
+[^t-61]: DF del 13 dic. 2018 ([RU 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
+[^t-62]: DF del 10 dic. 2019 ([RU 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
+[^t-63]: DF del 12 dic. 2016 ([RU 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
+[^t-64]: DF del 7 dic. 2017 ([RU 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
+[^t-65]: DF dell’8 dic. 2022 ([RU 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105)).
+[^t-66]: DF del 10 dic. 2019 ([RU 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35)).
+[^t-67]: DF del 13 dic. 2018 ([RU 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
+[^t-68]: DF del 10 dic. 2019 ([RU 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
+[^t-69]: DF del 13 dic. 2018 ([RU 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
+[^t-70]: DF del 10 dic. 2019 ([RU 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
+[^t-71]: DF del 13 dic. 2018 ([RU 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
+[^t-72]: DF del 7 dic. 2017 ([RU 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
+[^t-73]: DF del 7 dic. 2017 ([RU 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
+[^t-74]: DF del 7 dic. 2017 ([RU 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
+[^t-75]: DF del 10 dic. 2019 ([RU 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
+[^t-76]: DF del 7 dic. 2017 ([RU 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
+[^t-77]: DF del 7 dic. 2017 ([RU 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
+[^t-78]: DF del 7 dic. 2017 ([RU 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
+[^t-79]: DF del 13 dic. 2018 ([RU 2024 18](https://fedlex.data.admin.ch/eli/oc/2024/18)).
+[^t-80]: DF del 10 dic. 2019 ([RU 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106)).
+[^t-81]: DF del 7 dic. 2017 ([RU 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878)).
+[^t-82]: DF dell’8 dic. 2022 ([RU 2024 19](https://fedlex.data.admin.ch/eli/oc/2024/19)).
+[^t-83]: DF del 10 dic. 2019 ([RU 2026 54](https://fedlex.data.admin.ch/eli/oc/2026/54)).
+[^t-84]: DF del 3 mar. 2020 ([RU 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
+[^t-85]: DF del 7 dic. 2017 ([RU 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
+[^t-86]: DF dell’8 dic. 2022 ([RU 2025 79](https://fedlex.data.admin.ch/eli/oc/2025/79)).
+[^t-87]: DF dell’8 dic. 2022 ([RU 2026 55](https://fedlex.data.admin.ch/eli/oc/2026/55)).
+[^t-88]: DF del 7 dic. 2017 ([RU 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
+[^t-89]: DF del 10 dic. 2019 ([RU 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).
+[^t-90]: DF del 7 dic. 2017 ([RU 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).

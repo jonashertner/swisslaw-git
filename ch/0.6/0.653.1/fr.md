@@ -3,11 +3,11 @@ sr: "0.653.1"
 title: "Accord multilatéral du 29 octobre 2014 entre autorités compétentes concernant l'échange automatique de renseignements relatifs aux comptes financiers (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/759"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2014-10-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-759-20250101-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-759-20260101-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu le 29 octobre 2014 Approuvé par l’Assemblée fédérale le 18 décembre 2015[^t-1] Entré en vigueur le 1<sup>er</sup> janvier 2017
 
-(État le 1<sup>er</sup> janvier 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: [RO 2016 4717](https://fedlex.data.admin.ch/eli/oc/2016/758)
 
@@ -48,7 +48,7 @@ les Autorités compétentes
 
 sont convenues des dispositions suivantes:
 
-[^ingress-1]: [RS 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
+[^ingress-1]: [RS 0.652.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2497)
 
 ## Section 1 Définitions
 
@@ -154,18 +154,23 @@ Fait en français et en anglais, les deux textes faisant également foi.
 
 (Suivent les signatures)
 
-Annexe
+Annexe[^t-2]
 
 ## Norme commune en matière de déclaration et de diligence raisonnable concernant les renseignements relatifs aux comptes financiers (ci-après la «Norme commune de déclaration»)
 
+[^t-2]: Mise à jour par l’Addendum du 8 juin 2023, approuvé par l’Ass. féd. le 26 sept. 2025 et appliqué provisoirement dès le 1<sup>er</sup> janv. 2026 ([RO 2025 863](https://fedlex.data.admin.ch/eli/oc/2025/863); [FF 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883), [2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)).
+
 ### Section I Obligations générales de déclaration
 
-A. Sous réserve des points C à E, chaque Institution financière déclarante doit déclarer les informations suivantes concernant chaque Compte déclarable de ladite Institution:
+A. Sous réserve des par. C à F, chaque Institution financière déclarante doit communiquer les renseignements suivants concernant chaque Compte déclarable de cette Institution financière déclarante:
 
-- 1\. le nom, l’adresse, la ou les juridiction(s) de résidence, le ou les numéro(s) d’identification fiscale (NIF) et la date et le lieu de naissance (dans le cas d’une personne physique) de chaque Personne devant faire l’objet d’une déclaration qui est Titulaire de ce compte et, dans le cas d’une Entité qui est Titulaire de ce compte et pour laquelle, après application des procédures de diligence raisonnable conformément aux sections V, VI et VII, il apparaît qu’une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration, le nom, l’adresse, la ou les juridiction(s) de résidence et le ou les NIF de cette Entité ainsi que le nom, l’adresse, la ou les juridiction(s) de résidence, le ou les NIF et les date et lieu de naissance de chacune de ces Personnes devant faire l’objet d’une déclaration;
-- 2\. le numéro de compte (ou son équivalent fonctionnel en l’absence de numéro de compte);
+- 1. a) le nom, l’adresse, la ou les juridictions de résidence, le ou les NIF et la date et le lieu de naissance (dans le cas d’une personne physique) de chaque Personne devant faire l’objet d’une déclaration qui est un Titulaire du compte, en précisant si le Titulaire du compte a fourni une autocertification valable,
+  - b) dans le cas d’une Entité qui est Titulaire du compte pour laquelle, après application des procédures de diligence raisonnable décrites dans les Sections V, VI et VII, il apparaît qu’une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration, le nom, l’adresse, la ou les juridictions de résidence et le ou les NIF de l’Entité, ainsi que le nom, l’adresse, la ou les juridictions de résidence, le ou les NIF et la date, et le lieu de naissance de chaque Personne devant faire l’objet d’une déclaration, ainsi que la ou les fonctions en vertu de laquelle ou desquelles chaque Personne devant faire l’objet d’une déclaration est une Personne détenant le contrôle de l’Entité, en précisant si une autocertification valable a été fournie pour chacune des Personnes devant faire l’objet d’une déclaration, et
+  - c) le nombre de Titulaires de compte joint si le compte est détenu conjointement;
+
+- 2\. le numéro de compte (ou son équivalent fonctionnel en l’absence de numéro de compte) et le type de compte, en précisant si le compte est un Compte préexistant ou un Nouveau compte;
 - 3\. le nom et le numéro d’identification (éventuel) de l’Institution financière déclarante;
-- 4\. le solde ou la valeur portée sur le compte (y compris, dans le cas d’un Contrat d’assurance avec valeur de rachat ou d’un Contrat de rente, la Valeur de rachat) à la fin de l’année civile considérée ou d’une autre période de référence adéquate ou, si le compte a été clos au cours de l’année ou de la période en question, la clôture du compte;
+- 4\. le solde ou la valeur portée sur le compte (y c. la Valeur de rachat, dans le cas d’un Contrat d’assurance avec valeur de rachat ou d’un Contrat de rente) à la fin de l’année civile considérée ou d’une autre période de référence adéquate ou, si le compte a été clos au cours de l’année ou de la période en question, la clôture du compte;
 - 5\.
 
   dans le cas d’un Compte conservateur:
@@ -173,16 +178,21 @@ A. Sous réserve des points C à E, chaque Institution financière déclarante d
   - a) le montant brut total des intérêts, le montant brut total des dividendes et le montant brut total des autres revenus produits par les actifs détenus sur le compte, versés ou crédités sur le compte (ou au titre du compte) au cours de l’année civile ou d’une autre période de référence adéquate, et
   - b) le produit brut total de la vente ou du rachat d’Actifs financiers versé ou crédité sur le compte au cours de l’année civile ou d’une autre période de référence adéquate au titre de laquelle l’Institution financière déclarante a agi en tant que dépositaire, courtier, prête-nom ou représentant du Titulaire du compte;
 
-- 6\. dans le cas d’un Compte de dépôt, le montant brut total des intérêts versés ou crédités sur le compte au cours de l’année civile ou d’une autre période de référence adéquate, et
-- 7\. dans le cas d’un compte qui n’est pas visé au point A 5) ou A 6), le montant brut total versé au Titulaire du compte ou porté à son crédit, au cours de l’année civile ou d’une autre période de référence adéquate, dont l’Institution financière déclarante est la débitrice, y compris le montant total de toutes les sommes remboursées au Titulaire du compte au cours de l’année civile ou d’une autre période de référence adéquate.
+- 6\. dans le cas d’un Compte de dépôt, le montant brut total des intérêts versés ou crédités sur le compte au cours de l’année civile ou d’une autre période de référence adéquate;
+- 6<sup>bis</sup>. dans le cas d’un Titre de participation dans une Entité d’investissement qui est une construction juridique, la ou les fonctions en vertu de laquelle ou desquelles la Personne devant faire l’objet d’une déclaration est un titulaire de Titre de participation, et
+- 7\. dans le cas d’un compte qui n’est pas visé par les al. 5 ou 6, le montant brut total versé au Titulaire du compte ou porté à son crédit, au cours de l’année civile ou d’une autre période de référence adéquate, dont l’Institution financière déclarante est la débitrice, y compris le montant total de toutes les sommes remboursées au Titulaire du compte au cours de l’année civile ou d’une autre période de référence adéquate.
 
-B. Les informations déclarées doivent indiquer la monnaie dans laquelle chaque montant est libellé.
+B. Les renseignements communiqués doivent indiquer la monnaie dans laquelle chaque montant est libellé.
 
-C. Nonobstant le point A 1), s’agissant de chaque Compte déclarable qui est un Compte préexistant, le ou les NIF ou la date de naissance n’ont pas à être communiqués s’ils ne figurent pas dans les dossiers de l’Institution financière déclarante et si celle-ci n’est pas tenue de se procurer ces informations en vertu de son droit interne. Toutefois, une Institution financière déclarante est tenue de déployer des efforts raisonnables pour se procurer le ou les NIF et la date de naissance concernant des Comptes préexistants avant la fin de la deuxième année civile qui suit l’année durant laquelle ces Comptes préexistants ont été identifiés en tant que Comptes déclarables.
+C. Nonobstant le par. A, al. 1, s’agissant de chaque Compte déclarable qui est un Compte préexistant, le NIF ou la date de naissance n’ont pas à être communiqués s’ils ne figurent pas dans les dossiers de l’Institution financière déclarante et si son droit interne ne l’oblige pas à se procurer ces renseignements. Toutefois, une Institution financière déclarante est tenue de déployer des efforts raisonnables pour se procurer le NIF et la date de naissance concernant des Comptes préexistants avant la fin de la deuxième année civile qui suit le [xx/xx/xxxx] et lorsqu’elle est tenue de mettre à jour les informations relatives au Compte préexistant en vertu des Procédures nationales visant à identifier les clients et à lutter contre le blanchiment (AML/KYC).
 
-D. Nonobstant le point A 1), le NIF n’a pas à être communiqué si (i) la Juridiction soumise à déclaration concernée n’a pas émis de NIF ou si (ii) le droit interne de la Juridiction soumise à déclaration concernée n’impose pas le recueil des NIF émis par celle-ci.
+D. Nonobstant le par. A, al. 1, le NIF n’a pas à être communiqué si (i) la Juridiction soumise à déclaration concernée n’a pas émis de NIF ou si (ii) le droit interne de la Juridiction soumise à déclaration concernée n’impose pas le recueil des NIF émis par celle-ci.
 
-E. Nonobstant le point A 1), le lieu de naissance n’a pas à être communiqué sauf si l’Institution financière déclarante est par ailleurs tenue à cette obligation en vertu de son droit interne et que cette information figure parmi les données susceptibles d’être recherchées par voie électronique que conserve cette Institution.
+E. Nonobstant le par. A, al. 1, le lieu de naissance n’a pas à être communiqué sauf si l’Institution financière déclarante est par ailleurs tenue par son droit interne de se procurer et de communiquer ce renseignement et si le lieu de naissance figure dans les données conservées par l’Institution et pouvant faire l’objet de recherches par voie électronique.
+
+F. Nonobstant le par. A, les renseignements à communiquer concernant [xxxx] sont ceux décrits dans ce même paragraphe, à l’exception des produits bruts visés au par. A, al. 5, let. b.
+
+G. Nonobstant le par. A, al. 5, let. b, et sauf si l’Institution financière déclarante en décide autrement concernant tout groupe de comptes clairement identifié, le produit brut de la vente ou du rachat d’un Actif financier n’est pas à déclarer dans la mesure où ce produit brut de la vente ou du rachat dudit Actif financier est déclaré par l’Institution financière déclarante conformément au Cadre de déclaration des Crypto-actifs.
 
 ### Section II Obligations générales de diligence raisonnable
 
@@ -288,7 +298,7 @@ C. Si un changement de circonstances concernant un Nouveau compte de personne ph
 
 ### Section V Procédures de diligence raisonnable applicables aux Comptes d’entités préexistants
 
-Les procédures suivantes s’appliquent afin d’identifier les Comptes déclarables parmi les Comptes d’entités préexistants.
+Les procédures suivantes s’appliquent afin d’identifier les Comptes déclarables parmi les Comptes préexistants.
 
 A. Comptes d’entités non soumis à examen, identification ou déclaration. Sauf si l’Institution financière déclarante en décide autrement, soit à l’égard de tous les Comptes d’entités préexistants ou, séparément, par rapport à un groupe clairement identifié de tels comptes, un Compte d’entité préexistant dont le solde ou la valeur agrégé n’excède pas 250 000 dollars des États-Unis (USD) au 31 décembre […] n’a pas à être examiné, identifié ou déclaré comme Compte déclarable tant que son solde ou sa valeur agrégé n’excède pas ce montant au dernier jour de toute année civile ultérieure.
 
@@ -296,15 +306,15 @@ B. Comptes d’entités soumis à examen. Un Compte d’entité préexistant don
 
 C. Comptes d’entités pour lesquels une déclaration est requise. S’agissant des Comptes d’entités préexistants énoncés au point B, seuls les comptes détenus par une ou plusieurs Entités qui sont des Personnes devant faire l’objet d’une déclaration, ou par des ENF passives dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration, doivent être considérés comme des Comptes déclarables.
 
-D. Procédures d’examen relatives à l’identification des Comptes d’entités pour lesquels une déclaration est requise. Pour les Comptes d’entités préexistants énoncés au point B, l’Institution financière déclarante doit appliquer les procédures d’examen suivantes afin de déterminer si le compte est détenu par une ou plusieurs Personnes devant faire l’objet d’une déclaration, ou par des ENF passives dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration:
+D. Procédures d’examen relatives à l’identification des Comptes d’entités pour lesquels des déclarations sont requises. Pour les Comptes d’entités préexistants énoncés au point B, l’Institution financière déclarante doit appliquer les procédures d’examen suivantes afin de déterminer si le compte est détenu par une ou plusieurs Personnes devant faire l’objet d’une déclaration, ou par des ENF passives dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration:
 
 - 1\. Déterminer si l’Entité est une Personne devant faire l’objet d’une déclaration.
   - a) Examiner les informations obtenues à des fins réglementaires ou de relations avec le client [y compris les informations recueillies dans le cadre des Procédures visant à identifier les clients et à lutter contre le blanchiment (AML/KYC)] afin de déterminer si ces informations indiquent que le Titulaire du compte est résident dans une Juridiction soumise à déclaration. À cette fin, le lieu de constitution ou de création ou une adresse dans une Juridiction soumise à déclaration font partie des informations indiquant que le Titulaire du compte est résident dans une Juridiction soumise à déclaration.
   - b) Si les informations obtenues indiquent que le Titulaire du compte est résident dans une Juridiction soumise à déclaration, l’Institution financière déclarante doit considérer le compte comme un Compte déclarable sauf si elle obtient une autocertification du Titulaire du compte ou si elle détermine avec une certitude suffisante sur la base d’informations en sa possession ou qui sont accessibles au public que le Titulaire du compte n’est pas une Personne devant faire l’objet d’une déclaration.
 
-- 2\. Déterminer si l’Entité est une ENF passive dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. S’agissant du Titulaire d’un Compte d’entité préexistant (y compris une Entité qui est une Personne devant faire l’objet d’une déclaration), l’Institution financière déclarante doit déterminer si le Titulaire du compte est une ENF passive dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. Si tel est le cas, le compte doit être considéré comme un Compte déclarable. À cette fin, l’Institution financière déclarante doit suivre les orientations mentionnées aux points D 2) a) à D 2) c) suivants dans l’ordre le plus approprié aux circonstances.
+- 2\. Déterminer si l’Entité est une ENF passive dont une ou plusieurs personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. S’agissant du Titulaire d’un Compte d’entité préexistant (y compris une Entité qui est une Personne devant faire l’objet d’une déclaration), l’Institution financière déclarante doit déterminer si le Titulaire du compte est une ENF passive dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. Si tel est le cas, le compte doit être considéré comme un Compte déclarable. À cette fin, l’Institution financière déclarante doit suivre les orientations mentionnées aux points D 2) a) à D 2) c) suivants dans l’ordre le plus approprié aux circonstances.
   - a) Déterminer si le Titulaire du compte est une ENF passive. Pour déterminer si le Titulaire du compte est une ENF passive, l’Institution financière déclarante doit obtenir une autocertification du Titulaire du compte établissant son statut, sauf si elle détermine avec une certitude suffisante sur la base d’informations en sa possession ou qui sont accessibles au public que le Titulaire du compte est une ENF active ou une Institution financière autre qu’une Entité d’investissement énoncée à la section VIII, point A 6) b), qui n’est pas une Institution financière d’une Juridiction partenaire.
-  - b) Identifier les Personnes détenant le contrôle d’un Titulaire de compte. Pour déterminer les Personnes détenant le contrôle d’un Titulaire de compte, une Institution financière déclarante peut se fonder sur les informations recueillies et conservées dans le cadre des Procédures visant à identifier les clients et à lutter contre le blanchiment (AML/KYC).
+  - b) Identifier les Personnes détenant le contrôle d’un Titulaire de compte. Pour déterminer les Personnes détenant le contrôle d’un Titulaire de compte, une Institution financière déclarante peut se fonder sur les informations collectées et conservées dans le cadre des Procédures visant à identifier les clients et à lutter contre le blanchiment (AML/KYC).
   - c)
 
     Déterminer si une Personne détenant le contrôle d’une ENF passive est une Personne devant faire l’objet d’une déclaration. Pour déterminer si une Personne détenant le contrôle d’une ENF passive est une Personne devant faire l’objet d’une déclaration, une Institution financière déclarante peut se fonder sur:
@@ -322,22 +332,24 @@ E. Calendrier de mise en œuvre de l’examen et procédures supplémentaires ap
 
 Les procédures suivantes s’appliquent afin d’identifier les Comptes déclarables parmi les Nouveaux comptes d’entités.
 
-A. Procédures d’examen relatives à l’identification des Comptes d’entités pour lesquels une déclaration est requise. Pour les Nouveaux comptes d’entités, une Institution financière déclarante doit appliquer les procédures d’examen suivantes pour déterminer si le compte est détenu par une ou plusieurs Personnes devant faire l’objet d’une déclaration, ou par des ENF passives dont une ou plusieurs Personnes qui en détiennent le contrôle doivent faire l’objet d’une déclaration:
+A. Procédures d’examen relatives à l’identification des Comptes d’entités pour lesquels des déclarations sont requises. Pour les Nouveaux comptes d’entités, une Institution financière déclarante doit appliquer les procédures d’examen suivantes pour déterminer si le compte est détenu par une ou plusieurs Personnes devant faire l’objet d’une déclaration, ou par des ENF passives dont une ou plusieurs Personnes qui en détiennent le contrôle doivent faire l’objet d’une déclaration:
 
 - 1\. Déterminer si l’Entité est une Personne devant faire l’objet d’une déclaration.
   - a) Obtenir une autocertification, qui peut faire partie des documents remis lors de l’ouverture de compte, permettant à l’Institution financière déclarante de déterminer l’adresse ou les adresses de résidence du Titulaire du compte à des fins fiscales et de confirmer la vraisemblance de l’autocertification en s’appuyant sur les informations obtenues dans le cadre de l’ouverture du compte, y compris les documents recueillis en application des Procédures visant à identifier les clients et à lutter contre le blanchiment (AML/KYC). Si l’Entité certifie qu’elle n’a pas d’adresse de résidence à des fins fiscales, l’Institution financière déclarante peut se fonder sur l’adresse de son établissement principal afin de déterminer la résidence du Titulaire du compte.
   - b) Si l’autocertification établit que le Titulaire du compte réside dans une Juridiction soumise à déclaration, l’Institution financière déclarante doit considérer le compte comme un Compte déclarable sauf si elle détermine avec une certitude suffisante sur la base d’informations en sa possession ou qui sont accessibles au public que le Titulaire du compte n’est pas une Personne devant faire l’objet d’une déclaration au titre de cette Juridiction soumise à déclaration.
 
-- 2\. Déterminer si l’Entité est une ENF passive dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. S’agissant d’un Titulaire d’un Nouveau compte d’entité (y compris une Entité qui est une Personne devant faire l’objet d’une déclaration), l’Institution financière déclarante doit déterminer si le Titulaire du compte est une ENF passive dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. Si tel est le cas, le compte doit être considéré comme un Compte déclarable. À cette fin, l’Institution financière déclarante doit suivre les orientations mentionnées aux points A 2) a) à A 2) c) dans l’ordre le plus approprié aux circonstances.
+- 2\. Déterminer si l’Entité est une ENF passive dont une ou plusieurs personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. S’agissant d’un Titulaire d’un Nouveau compte d’entité (y compris une Entité qui est une Personne devant faire l’objet d’une déclaration), l’Institution financière déclarante doit déterminer si le Titulaire du compte est une ENF passive dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration. Si tel est le cas, le compte doit être considéré comme un Compte déclarable. À cette fin, l’Institution financière déclarante doit suivre les orientations mentionnées aux points A 2) a) à A 2) c) dans l’ordre le plus approprié aux circonstances.
   - a) Déterminer si le Titulaire du compte est une ENF passive. Pour déterminer si le Titulaire du compte est une ENF passive, l’Institution financière déclarante doit se fonder sur une autocertification du Titulaire du compte établissant son statut, sauf si elle détermine avec une certitude suffisante sur la base d’informations en sa possession ou qui sont accessibles au public que le Titulaire du compte est une ENF active ou une Institution financière autre qu’une Entité d’investissement décrite à la section VIII point A 6) b) de qui n’est pas une Institution financière d’une Juridiction partenaire.
-  - b) Identifier les Personnes détenant le contrôle d’un Titulaire de compte. Pour déterminer quelles sont les Personnes détenant le contrôle d’un Titulaire de compte, une Institution financière déclarante peut se fonder sur les informations recueillies et conservées dans le cadre des Procédures visant à identifier les clients et à lutter contre le blanchiment (AML/KYC).
+  - b) Identifier les Personnes détenant le contrôle d’un Titulaire de compte. Pour déterminer les Personnes détenant le contrôle d’un Titulaire de compte, une Institution financière déclarante peut se fonder sur les informations collectées et conservées dans le cadre des Procédures visant à identifier les clients et à lutter contre le blanchiment (AML/KYC), dès lors que ces procédures sont conformes aux Recommandations du GAFI de 2012. Si l’Institution financière déclarante n’est pas légalement tenue d’appliquer des Procédures visant à identifier les clients et à lutter contre le blanchiment (AML/KYC) conformes aux Recommandations du GAFI de 2012, elle se doit d’appliquer des procédures sensiblement similaires afin de déterminer les Personnes détenant le contrôle.
   - c) Déterminer si une Personne détenant le contrôle d’une ENF passive est une Personne devant faire l’objet d’une déclaration. Pour déterminer si une Personne détenant le contrôle d’une ENF passive est une Personne devant faire l’objet d’une déclaration, une Institution financière déclarante peut se fonder sur une autocertification du Titulaire du compte ou de cette personne.
 
-### Section VII Règles particulières en matière de diligence raisonnable
+### Section VII Règles de diligence raisonnable particulières
 
-Pour la mise en œuvre des procédures de diligence raisonnable décrites ci-dessus, les règles supplémentaires suivantes s’appliquent.
+Pour la mise en œuvre des diligences raisonnables décrites ci-dessus, les règles supplémentaires suivantes s’appliquent:
 
-A. Recours aux autocertifications et aux Pièces justificatives. Une Institution financière déclarante ne peut pas se fonder sur une autocertification ou sur une Pièce justificative si elle sait ou a tout lieu de savoir que cette autocertification ou cette Pièce justificative est inexacte ou n’est pas fiable.
+A. Recours aux autocertifications et aux Pièces justificatives. Une Institution financière déclarante ne peut pas se fier à une autocertification ou à une Pièce justificative si elle sait ou a tout lieu de savoir que cette autocertification ou cette Pièce justificative est inexacte ou n’est pas fiable.
+
+A<sup>bis</sup>. Absence temporaire d’autocertification. Dans des circonstances exceptionnelles où une Institution financière déclarante ne peut obtenir à temps d’autocertification concernant un Nouveau compte pour s’acquitter de ses obligations déclaratives et de diligence raisonnable au titre de la période de déclaration au cours de laquelle le compte a été ouvert, l’Institution financière déclarante doit appliquer les procédures de diligence raisonnable aux Comptes préexistants jusqu’à ce que cette autocertification soit obtenue et validée.
 
 B. Procédures alternatives pour les Comptes financiers détenus par une personne physique bénéficiaire d’un Contrat d’assurance avec valeur de rachat ou d’un Contrat de rente. Une Institution financière déclarante peut présumer que le bénéficiaire d’un Contrat d’assurance avec valeur de rachat ou d’un Contrat de rente (autre que le souscripteur) qui perçoit un capital à la suite d’un décès n’est pas une Personne devant faire l’objet d’une déclaration et peut considérer que ce Compte financier n’est pas un Compte déclarable à moins que l’Institution financière déclarante ait effectivement connaissance du fait que le bénéficiaire du capital est une Personne devant faire l’objet d’une déclaration ou ait tout lieu de le savoir. Une Institution financière déclarante a tout lieu de savoir que le bénéficiaire du capital d’un Contrat d’assurance avec valeur de rachat ou d’un Contrat de rente est une Personne devant faire l’objet d’une déclaration si les informations recueillies par l’Institution financière déclarante et associées au bénéficiaire comprennent des indices énoncés à la section III, point B. Si une Institution financière déclarante a effectivement connaissance du fait, ou a tout lieu de savoir, que le bénéficiaire est une Personne devant faire l’objet d’une déclaration, elle doit suivre les procédures énoncées à la section III, point B.
 
@@ -358,7 +370,13 @@ A. Institution financière déclarante
 - 2\. L’expression «Institution financière d’une Juridiction partenaire» désigne: i) toute Institution financière résidente d’une Juridiction partenaire, à l’exclusion de toute succursale de cette Institution financière située en dehors du territoire de cette Juridiction partenaire; et ii) toute succursale d’une Institution financière non résidente d’une Juridiction partenaire si cette succursale est établie dans cette Juridiction partenaire.
 - 3\. L’expression «Institution financière» désigne un Établissement gérant des dépôts de titres, un Établissement de dépôt, une Entité d’investissement ou un Organisme d’assurance particulier.
 - 4\. L’expression «Établissement gérant des dépôts de titres» désigne toute Entité dont une part substantielle de l’activité consiste à détenir des Actifs financiers pour le compte de tiers. Tel est le cas si le revenu brut de cette Entité attribuable à la détention d’Actifs financiers et aux services financiers connexes est égal ou supérieur à 20 % du revenu brut de l’Entité durant la plus courte des deux périodes suivantes: i) la période de trois ans qui s’achève le 31 décembre (ou le dernier jour d’un exercice comptable décalé) précédant l’année au cours de laquelle le calcul est effectué; ou ii) la période d’existence de l’Entité si celle-ci est inférieure à trois ans.
-- 5\. L’expression «Établissement de dépôt» désigne toute Entité qui accepte des dépôts dans le cadre habituel d’une activité bancaire ou d’activités semblables.
+- 5\.
+
+  L’expression «Établissement de dépôt» désigne toute Entité qui:
+
+  - a) accepte des dépôts dans le cadre habituel d’une activité bancaire ou d’activités semblables, ou
+  - b) détient des Produits de monnaie électronique spécifiques ou des Monnaies numériques de Banque centrale au profit de clients.
+
 - 6\.
 
   L’expression «Entité d’investissement» désigne toute Entité:
@@ -367,24 +385,51 @@ A. Institution financière déclarante
 
     qui exerce comme activité principale une ou plusieurs des activités ou opérations suivantes au nom ou pour le compte d’un client:
 
-    - i) transactions sur les instruments du marché monétaire (chèques, billets, certificats de dépôt, instruments dérivés, etc.), le marché des changes, les instruments sur devises, taux d’intérêt et indices, les valeurs mobilières ou les marchés à terme de marchandises,
+    - i) transactions sur les instruments du marché monétaire (chèques, billets, certificats de dépôt, instruments dérivés, etc.), le marché des changes, les instruments sur devises, taux d’intérêt et indices, les valeurs mobilières ou les marchés à terme de marchandises;
     - ii) gestion individuelle ou collective de portefeuille, ou
-    - iii) autres opérations d’investissement, d’administration ou de gestion d’Actifs financiers ou d’argent pour le compte de tiers, ou
+    - iii) autres opérations d’investissement, d’administration ou de gestion d’Actifs financiers, d’argent ou de Crypto-actifs concernés pour le compte de tiers, ou
 
-  - b) dont les revenus bruts proviennent principalement d’une activité d’investissement, de réinvestissement ou de négociation d’Actifs financiers, si l’Entité est gérée par une autre Entité qui est un Établissement de dépôt, un Établissement gérant des dépôts de titres, un Organisme d’assurance particulier ou une Entité d’investissement décrite au point A 6 a).
+  - b) dont les revenus bruts proviennent principalement d’une activité d’investissement, de réinvestissement ou de négociation d’Actifs financiers ou de Crypto-actifs concernés, si l’Entité est gérée par une autre Entité qui est un Établissement de dépôt, un Établissement gérant des dépôts de titres, un Organisme d’assurance particulier ou une Entité d’investissement décrite à la let. a.
 
-- Une Entité est considérée comme exerçant comme activité principale une ou plusieurs des activités visées au point A 6 a), ou les revenus bruts d’une Entité proviennent principalement d’une activité d’investissement, de réinvestissement ou de négociation d’Actifs financiers aux fins du point A 6 b), si les revenus bruts de l’Entité générés par les activités correspondantes sont égaux ou supérieurs à 50 % de ses revenus bruts durant la plus courte des deux périodes suivantes: i) la période de trois ans se terminant le 31 décembre de l’année précédant l’année au cours de laquelle le calcul est effectué; ou ii) la période d’existence de l’Entité si celle-ci est inférieure à trois ans. L’expression «Entité d’investissement» exclut une Entité qui est une ENF active parce que cette Entité répond aux critères visés aux points D 9 d) à D 9 g).
-- Le présent paragraphe est interprété conformément à la définition de l’expression «institution financière» qui figure dans les recommandations du groupe d’action financière (GAFI).
-- 7\. L’expression «Actif financier» désigne un titre (par exemple, représentant une part du capital dans une société de capitaux; une part ou un droit de jouissance dans une société de personnes comptant de nombreux associés ou dans une société en commandite par actions cotée en bourse, ou un trust; une autre obligation ou un autre titre de créance), une participation, une marchandise, un contrat d’échange (par exemple, de taux d’intérêt, de devises, de taux de référence, contrat de garantie de taux plafond et de taux plancher, contrat d’échange de marchandises, de créances contre des actifs, contrat sur indices boursiers et accords similaires), un Contrat d’assurance ou un Contrat de rente, ou tout droit (y compris un contrat à terme ou un contrat à terme de gré à gré ou une option) attaché à un titre, une participation, une marchandise, un contrat d’échange, un Contrat d’assurance ou un Contrat de rente. Un intérêt direct dans un bien immobilier sans recours à l’emprunt ne constitue pas un «Actif financier».
+- Une Entité est considérée comme exerçant comme activité principale une ou plusieurs des activités décrites à la let. a, ou les revenus bruts d’une Entité proviennent principalement d’une activité d’investissement, de réinvestissement ou de négociation d’Actifs financiers ou de Crypto-actifs concernés aux fins de la let. b si les revenus bruts de l’Entité générés par les activités correspondantes sont supérieurs ou égaux à 50 % de ses revenus bruts durant la plus courte des deux périodes suivantes: (i) la période de trois ans se terminant le 31 décembre de l’année précédant l’année au cours de laquelle le calcul est effectué; ou (ii) la période d’existence de l’Entité si celle-ci est inférieure à trois ans. Aux fins de la let. a, ch. iii, l’expression «autres opérations d’investissement, d’administration ou de gestion d’Actifs financiers, d’argent ou de Crypto-actifs concernés pour le compte de tiers» ne comprend pas la fourniture de services sous la forme de Transactions d’échange pour ou au nom de clients. L’expression «Entité d’investissement» exclut une entité qui est une ENF active parce qu’elle répond aux critères visés au par. D, al. 9, let. d à g.
+- Ce paragraphe est interprété conformément à la définition de l’expression «Institution financière» qui figure dans les Recommandations du Groupe d’action financière (GAFI).
+- 7\. L’expression «Actif financier» désigne un titre (représentant p. ex. une part du capital dans une société de capitaux, une part ou un droit de jouissance dans une société de personnes à participation multiple ou cotée en bourse, ou un trust, une autre obligation ou un autre titre de créance), un intérêt dans une société de personnes, une marchandise, un contrat d’échange (p. ex. de taux d’intérêt, de devise, de taux de référence, contrats de garantie de taux plafond et de taux plancher, contrats d’échange de marchandises, de créances contre des actifs, contrats sur indices boursiers et accords similaires), un Contrat d’assurance ou un Contrat de rente, ou tout droit (y c. un contrat à terme ou un contrat à terme de gré à gré ou une option) attaché à un titre, un Crypto-actif concerné, un intérêt dans une société de personnes, une marchandise, un contrat d’échange, un Contrat d’assurance ou un Contrat de rente. Un intérêt direct dans un bien immobilier sans recours à l’emprunt ne constitue pas un «Actif financier».
 - 8\. L’expression «Organisme d’assurance particulier» désigne tout organisme d’assurance (ou la société holding d’un organisme d’assurance) qui émet un Contrat d’assurance avec valeur de rachat ou un Contrat de rente ou est tenu d’effectuer des versements afférents à ce contrat.
+- 9\.
+
+  L’expression «Produit de monnaie électronique spécifique» désigne tout produit qui est:
+
+  - a) une représentation numérique d’une Monnaie fiduciaire unique;
+  - b) émis à réception de fonds aux fins de procéder à des transactions de paiement;
+  - c) représenté par une créance sur l’émetteur libellée dans la même Monnaie fiduciaire;
+  - d) accepté en paiement par une personne morale ou physique autre que l’émetteur, et
+  - e) en vertu d’obligations réglementaires applicables à l’émetteur, remboursable à tout moment et à sa valeur nominale pour la même Monnaie fiduciaire sur demande du détenteur du produit.
+
+- L’expression «Produit de monnaie électronique spécifique» n’inclut pas un produit créé à seule fin de faciliter le transfert de fonds d’un client à une autre personne conformément aux instructions du client. Un produit n’est pas créé à seule fin de faciliter le transfert de fonds si, dans le cadre ordinaire des activités de l’Entité à l’origine du transfert, les fonds associés à ce produit sont conservés plus de 60 jours après réception des instructions visant à faciliter le transfert ou, en l’absence d’instructions, si les fonds associés à ce produit sont conservés plus de 60 jours après leur réception.
+- 10\. L’expression «Monnaie numérique de Banque centrale» désigne toute Monnaie fiduciaire numérique émise par une Banque centrale.
+- 11\. L’expression «Monnaie fiduciaire» désigne la monnaie officielle d’une juridiction, émise par une juridiction ou par la Banque centrale ou l’autorité monétaire désignée d’une juridiction, et représentée par des billets de banque ou des pièces physiques ou par de l’argent sous différentes formes numériques, y compris des réserves bancaires et des Monnaies numériques de Banque centrale. Elle englobe également l’argent de banque commerciale et les produits de monnaie numérique électronique (y c. les Produits de monnaie électronique spécifiques).
+- 12\. L’expression «Crypto-actif» désigne une représentation numérique d’une valeur qui s’appuie sur un registre distribué sécurisé par des moyens cryptographiques ou une technologie similaire employée pour valider et sécuriser des transactions.
+- 13\. L’expression «Crypto-actif concerné» désigne tout Crypto-actif qui n’est pas une Monnaie numérique de Banque centrale, un Produit de monnaie électronique spécifique ou un Crypto-actif pour lequel le Prestataire de services sur Crypto-actifs déclarant estime à juste titre qu’il ne peut pas être utilisé à des fins de paiement ou d’investissement.
+- 14\.
+
+  L’expression «Transaction d’échange» désigne:
+
+  - a. tout échange entre Crypto-actifs concernés et Monnaies fiduciaires, et
+  - b. tout échange entre une ou plusieurs formes de Crypto-actifs concernés.
 
 B. Institution financière non déclarante
 
 - 1\.
 
-  L’expression «Institution financière non déclarante» désigne toute institution financière qui est:
+  L’expression «Institution financière non déclarante» désigne toute Institution financière qui est:
 
-  - a) une Entité publique, une Organisation internationale ou une Banque centrale, sauf en ce qui concerne un paiement résultant d’une obligation détenue en lien avec une activité financière commerciale exercée par un Organisme d’assurance particulier, un Établissement de dépôt ou un Établissement gérant des dépôts de titres;
+  - a)
+
+    une Entité publique, une Organisation internationale ou une Banque centrale, sauf:
+
+    - i) en ce qui concerne un paiement résultant d’une obligation détenue en lien avec une activité financière commerciale exercée par un Organisme d’assurance particulier, un Établissement de dépôt ou un Établissement gérant des dépôts de titres, ou
+    - ii) en ce qui concerne l’activité consistant à conserver des Monnaies numériques de Banque centrale pour des Titulaires de compte qui ne sont pas des Institutions financières, des Entités publiques, des Organisations internationales ou des Banques centrales;
+
   - b) une Caisse de retraite à large participation; une Caisse de retraite à participation étroite; un Fonds de pension d’une entité publique, d’une Organisation internationale ou d’une Banque centrale; ou un Émetteur de cartes de crédit homologué;
   - c) toute autre Entité qui présente un faible risque d’être utilisée dans un but de fraude fiscale, qui affiche des caractéristiques substantiellement similaires à celles des Entités décrites aux points B 1 a) et B 1 b), et qui est définie en droit interne en tant qu’Institution financière non déclarante, à condition que son statut d’Institution financière non déclarante n’aille pas à l’encontre des objectifs de la Norme commune de déclaration;
   - d) un Organisme de placement collectif dispensé, ou
@@ -458,7 +503,14 @@ C. Compte financier
   - c) tout Contrat d’assurance avec valeur de rachat et tout Contrat de rente établi ou géré par une Institution financière autre qu’une rente viagère dont l’exécution est immédiate, qui est incessible et non liée à un placement, qui est versée à une personne physique et qui correspond à une pension de retraite ou d’invalidité perçue dans le cadre d’un compte qui est un Compte exclu.
 
 - L’expression «Compte financier» ne comprend aucun compte qui est un Compte exclu.
-- 2\. L’expression «Compte de dépôt» comprend tous les comptes commerciaux et comptes-chèques, d’épargne ou à terme et les comptes dont l’existence est attestée par un certificat de dépôt, un certificat d’épargne, un certificat d’investissement, un titre de créance ou un autre instrument analogue détenu auprès d’une Institution financière dans le cadre habituel d’une activité bancaire ou similaire. Les Comptes de dépôt comprennent également les sommes détenues par les organismes d’assurance en vertu d’un contrat de placement garanti ou d’un contrat semblable ayant pour objet de verser des intérêts ou de les porter au crédit du titulaire.
+- 2\.
+
+  L’expression «Compte de dépôt» comprend tous les comptes commerciaux, les comptes-chèques, d’épargne ou à terme et les comptes dont l’existence est attestée par un certificat de dépôt, un certificat d’épargne, un certificat d’investissement, un titre de créance ou un autre instrument analogue auprès d’un Établissement de dépôt. Les Comptes de dépôt comprennent également:
+
+  - a) un compte détenu par un organisme d’assurance en vertu d’un contrat de placement garanti ou d’un contrat semblable ayant pour objet de verser des intérêts ou de les porter au crédit du titulaire;
+  - b) un compte ou un compte notionnel qui représente tous les Produits de monnaie électronique spécifiques détenus au profit d’un client, et
+  - c) un compte qui héberge une ou plusieurs Monnaies numériques de Banque centrale au profit d’un client.
+
 - 3\. L’expression «Compte conservateur» désigne un compte (à l’exclusion d’un Contrat d’assurance ou d’un Contrat de rente) sur lequel figurent un ou plusieurs Actifs financiers au bénéfice d’une autre personne.
 - 4\. L’expression «Titre de participation» désigne, dans le cas d’une société de personnes qui est une Institution financière, toute participation au capital ou aux bénéfices de cette société. Dans le cas d’un trust qui est une Institution financière, un «Titre de participation» est réputé détenu par toute personne considérée comme le constituant ou le bénéficiaire de tout ou partie du trust ou par toute autre personne physique exerçant en dernier lieu un contrôle effectif sur le trust. Une Personne devant faire l’objet d’une déclaration est considérée comme le bénéficiaire d’un trust si elle a le droit de bénéficier, directement ou indirectement [par l’intermédiaire d’un prête-nom (nominee), par exemple], d’une distribution obligatoire ou discrétionnaire de la part du trust.
 - 5\. L’expression «Contrat d’assurance» désigne un contrat (à l’exception d’un Contrat de rente) en vertu duquel l’assureur s’engage à verser une somme d’argent en cas de réalisation d’un risque particulier, notamment un décès, une maladie, un accident, une responsabilité civile ou un dommage matériel.
@@ -474,8 +526,8 @@ C. Compte financier
   - d) au titre de la participation aux bénéfices du souscripteur du contrat (à l’exception des dividendes versés lors de la résiliation du contrat) à condition qu’elle se rapporte à un Contrat d’assurance en vertu duquel les seules prestations dues sont celles énoncées au point C 8 b), ou
   - e) au titre de la restitution d’une prime anticipée ou d’un dépôt de prime pour un Contrat d’assurance dont la prime est exigible au moins une fois par an si le montant de la prime anticipée ou du dépôt de prime ne dépasse pas le montant de la prime contractuelle due au titre de l’année suivante.
 
-- 9\. L’expression «Compte préexistant» désigne un Compte financier géré au […] par une Institution financière déclarante.
-- 10\. L’expression «Nouveau compte» désigne un Compte financier ouvert à partir du […] auprès d’une Institution financière déclarante.
+- 9\. L’expression «Compte préexistant» désigne un Compte financier géré au [xx/xx/xxxx] par une Institution financière déclarante ou, si le compte est considéré comme un Compte financier uniquement en vertu des modifications apportées à la Norme commune de déclaration, à la date du [date d’entrée en vigueur de la Norme commune de déclaration révisée – 1 jour].
+- 10\. L’expression «Nouveau compte» désigne un Compte financier géré par une Institution financière déclarante ouvert à compter du [xx/xx/xxxx] ou, si le compte est considéré comme un Compte financier uniquement en vertu des modifications apportées à la Norme commune de déclaration, à compter du [date d’entrée en vigueur de la Norme commune de déclaration révisée].
 - 11\. L’expression «Compte de personne physique préexistant» désigne un Compte préexistant détenu par une ou plusieurs personnes physiques.
 - 12\. L’expression «Nouveau compte de personne physique» désigne un Nouveau compte détenu par une ou plusieurs personnes physiques.
 - 13\. L’expression «Compte d’entité préexistant» désigne un Compte préexistant détenu par une ou plusieurs Entités.
@@ -484,7 +536,7 @@ C. Compte financier
 - 16\. L’expression «Nouveau compte d’entité» désigne un Nouveau compte détenu par une ou plusieurs Entités.
 - 17\.
 
-  L’expression «Compte exclu» désigne les comptes suivants:
+  L’expression «Compte exclu» désigne un ou plusieurs des comptes suivants:
 
   - a)
 
@@ -533,8 +585,18 @@ C. Compte financier
       - – le compte n’est pas associé à un compte décrit au point C 17) f),
 
     - iii) l’obligation, pour une Institution financière qui octroie un prêt garanti par un bien immobilier, de réserver une partie d’un paiement uniquement pour faciliter le paiement d’impôts ou de primes d’assurance liés au bien immobilier à l’avenir,
-    - iv) l’obligation, pour une Institution financière, de faciliter le paiement d’impôts à l’avenir;
+    - iv) l’obligation, pour une Institution financière, de faciliter le paiement d’impôts à l’avenir,
+    - v)
 
+      la création ou l’augmentation de capital d’une société, à condition que le compte satisfasse aux conditions suivantes:
+
+      - – le compte sert exclusivement au dépôt de capitaux destinés à la création ou à l’augmentation de capital d’une société, conformément à la loi,
+      - – tout montant détenu sur le compte est bloqué jusqu’à ce que l’Institution financière déclarante obtienne une confirmation indépendante concernant la création ou l’augmentation de capital,
+      - – le compte est clôturé ou transformé en compte au nom de la société après la création ou l’augmentation de capital,
+      - – les remboursements résultant de l’échec d’une création ou d’une augmentation de capital, déduction faite des honoraires des prestataires de services et autres honoraires similaires, sont effectués uniquement au profit des personnes ayant apporté les montants, et
+      - – le compte n’a pas été créé il y a plus de 12 mois;
+
+  - e<sup>bis</sup>) un Compte de dépôt qui représente tous les Produits de monnaie électronique spécifiques détenus au profit d’un client, si le solde ou la valeur du compte en fin de journée sur 90 jours en moyenne mobile au cours de toute période de 90 jours consécutifs ne dépasse pas 10 000 USD n’importe quel jour de l’année civile ou d’une autre période de référence adéquate;
   - f)
 
     un Compte de dépôt qui satisfait aux exigences suivantes:
@@ -547,7 +609,7 @@ C. Compte financier
 D. Compte déclarable
 
 - 1\. L’expression «Compte déclarable» désigne un compte qui est détenu par une ou plusieurs Personnes devant faire l’objet d’une déclaration ou par une ENF passive dont une ou plusieurs Personnes qui en détiennent le contrôle sont des Personnes devant faire l’objet d’une déclaration, à condition d’être identifiées comme telles selon les procédures de diligence raisonnable énoncées aux sections II à VII.
-- 2\. L’expression «Personne devant faire l’objet d’une déclaration» désigne une Personne d’une Juridiction soumise à déclaration autre que: i) toute société dont les titres font l’objet de transactions régulières sur un ou plusieurs marchés boursiers réglementés; ii) toute société qui est une Entité liée à une société décrite au point i); iii) une Entité publique; iv) une Organisation internationale; v) une Banque centrale; ou vi) une Institution financière.
+- 2\. L’expression «Personne devant faire l’objet d’une déclaration» désigne une Personne d’une Juridiction soumise à déclaration autre qu’une i) Entité dont les actions font l’objet de transactions régulières sur un ou plusieurs marchés boursiers réglementés; ii) toute Entité qui est une Entité liée à une Entité décrite au point i); iii) une Entité publique; iv) une Organisation internationale; v) une Banque centrale; ou vi) une Institution financière.
 - 3\. L’expression «Personne d’une Juridiction soumise à déclaration» désigne une personne physique ou une Entité établie dans une Juridiction soumise à déclaration en vertu du droit fiscal de ladite juridiction, ou la succession d’un défunt qui était résident d’une Juridiction soumise à déclaration. À cette fin, une Entité telle qu’une société de personnes, une société à responsabilité limitée ou une structure juridique similaire qui n’a pas de résidence à des fins fiscales est considérée comme résidente dans la juridiction où se situe son siège de direction effective.
 - 4\. L’expression «Juridiction soumise à déclaration» désigne une juridiction: i) avec laquelle un accord est conclu qui prévoit que cette juridiction communiquera les informations indiquées à la section I; et ii) qui figure dans une liste publiée.
 - 5\. L’expression «Juridiction partenaire» désigne une juridiction: i) avec laquelle un accord est conclu qui impose à elle l’obligation de mettre à disposition les informations indiquées à la section I; et ii) qui figure dans une liste publiée.
@@ -591,6 +653,8 @@ E. Divers
   - c) dans le cas d’une Entité, tout document officiel délivré par un organisme public autorisé à le faire (par exemple, un État, une agence de celui-ci ou une commune), sur lequel figurent la dénomination de l’Entité et l’adresse de son établissement principal dans la juridiction dont elle affirme être résidente ou dans la juridiction dans laquelle l’Entité a été constituée ou dont le droit la régit;
   - d) tout état financier vérifié, rapport de solvabilité établi par un tiers, dépôt de bilan ou rapport établi par l’organisme de réglementation des valeurs mobilières.
 
+- 7\. Un «Service public de vérification» désigne un processus électronique qu’une Juridiction soumise à déclaration met à la disposition d’une Institution financière déclarante afin de vérifier l’identité et la résidence fiscale d’un Titulaire de compte ou d’une Personne détenant le contrôle.
+
 ### Section IX Mise en œuvre effective
 
 A. Une juridiction doit avoir mis en place les règles et procédures administratives requises pour garantir la mise en œuvre effective et le respect des procédures de déclaration et de diligence raisonnable décrites ci-dessus, notamment:
@@ -601,24 +665,21 @@ A. Une juridiction doit avoir mis en place les règles et procédures administra
 - 4\. des procédures administratives destinées à faire en sorte que les Entités et les comptes définis dans la législation nationale en tant qu’Institutions financières non déclarantes et Comptes exclus continuent de présenter un faible risque d’être utilisés dans un but de fraude fiscale, et
 - 5\. des mesures coercitives appropriées pour remédier aux cas de non-respect.
 
-## Notification de la Suisse du 4 mai 2017 conforme à la Section 7 (1) (d)
+### Section X Mesures transitoires
 
-[^annexu1-lvlu2-1]
+A. Les modifications apportées à la Norme commune de déclaration prennent effet le [date d’entrée en vigueur de la Norme commune de déclaration révisée].
 
-[^annexu1-lvlu2-1]: [RO 2017 3533](https://fedlex.data.admin.ch/eli/oc/2017/388); Cette notification remplace la notification du 21 déc. 2016 (non publiée) et reste valable jusqu’à ce que le Secrétariat de l’Organe de coordination soit avisé de toute modification de la présente notification.
+B. Nonobstant le par. A, en vertu de la section I, par. A, al. 1, let. b, et 6<sup>bis</sup>, pour chaque Compte déclarable géré par une Institution financière déclarante au [date d’entrée en vigueur de la Norme commune de déclaration révisée – 1 jour] et pour les périodes de déclaration se terminant la deuxième année civile suivant cette date, les renseignements relatifs à la ou aux fonctions en vertu de laquelle ou desquelles chaque Personne devant faire l’objet d’une déclaration est une Personne détenant le contrôle de l’Entité ou un détenteur de Titres de participation de l’Entité ne doivent être déclarés que s’ils figurent dans les données conservées par l’Institution financière déclarante et pouvant faire l’objet de recherches par voie électronique.
+
+Notification de la Suisse du 4 mai 2017 conforme à la Section 7 (1) (d)[^annexu1-lvlu1-secX-1]
 
 L’Autorité Compétente de la Suisse notifie par la présente au Secrétariat de l’Organe de coordination que, conformément à la législation en matière de protection des données de la Suisse, elle doit transmettre les informations présentées dans la Section 2 de cet Accord aux conditions suivantes:
 
-- – les renseignements transmis peuvent être utilisés uniquement aux fins pour lesquelles la Convention du 25 janvier 1988 concernant l’assistance administrative mutuelle en matière fiscale telle qu’amendée par le protocole du 27 mai 2010[^annexu1-lvlu2-2] et l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers prévoient leur transmission. L’utilisation de telles données à d’autres fins n’est possible qu’après autorisation préalable de l’Autorité Compétente de la SUISSE;
+- – les renseignements transmis peuvent être utilisés uniquement aux fins pour lesquelles la Convention du 25 janvier 1988 concernant l’assistance administrative mutuelle en matière fiscale telle qu’amendée par le protocole du 27 mai 2010[^annexu1-lvlu1-secX-2] et l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers prévoient leur transmission. L’utilisation de telles données à d’autres fins n’est possible qu’après autorisation préalable de l’Autorité Compétente de la SUISSE;
 - – les renseignements transmis par l’Autorité Compétente de la Suisse ne doivent en aucun cas être utilisés ou publiés par l’Autorité Compétente qui reçoit les renseignements dans des procédures qui auraient comme résultat l’imposition ou l’exécution de la peine de mort ou d’autres violations sévères des droits de l’homme comme la torture, et
-- – pour une juridiction autre qu’une juridiction dont le régime de protection des données a été jugé comme adéquat par la Suisse ou, par analogie, par l’Union européenne[^annexu1-lvlu2-3], les garanties suivantes sont en vigueur en ce qui concerne les données personnelles transmises par l’Autorité Compétente de la Suisse:
+- – pour une juridiction autre qu’une juridiction dont le régime de protection des données a été jugé comme adéquat par la Suisse ou, par analogie, par l’Union européenne[^annexu1-lvlu1-secX-3], les garanties suivantes sont en vigueur en ce qui concerne les données personnelles transmises par l’Autorité Compétente de la Suisse:
 
-Droits à l’accès, à la rectification et à l’effacement des données
-
-Toute personne physique, justifiant de son identité, a le droit d’accéder aux données la concernant traitées par l’Autorité Compétente qui reçoit les renseignements sous réserve que:
-
-- – les demandes de la personne physique ne soient pas manifestement abusives, en raison de leur fréquence déraisonnable, de leur nombre, de leur caractère répétitif ou systématique, ou
-- – les demandes ne remettent pas en cause le traitement des données, l’établissement, le contrôle, la collecte ou le recouvrement de l’impôt par la juridiction qui reçoit les renseignements.
+**Droits à l’accès, à la rectification et à l’effacement des données**
 
 Toute personne physique, justifiant de son identité, peut demander à faire corriger, amender ou effacer des données personnelles la concernant lorsque lesdites données sont présentées de manière inexacte. En cas de doutes sérieux sur la légitimité de la demande, l’Autorité Compétente qui reçoit les renseignements est en mesure de solliciter de plus amples justifications avant de s’exécuter.
 
@@ -626,19 +687,24 @@ Si l’Autorité Compétente de la SUISSE informe l’Autorité Compétente qui 
 
 La personne dont les données personnelles sont transmises doit être informée en termes généraux de la collecte de ces données selon les procédures prévues par le droit de la juridiction qui transmet les renseignements.
 
-Droit d’exercer un recours
+Toute personne physique, justifiant de son identité, a le droit d’accéder aux données la concernant traitées par l’Autorité Compétente qui reçoit les renseignements sous réserve que:
+
+- – les demandes de la personne physique ne soient pas manifestement abusives, en raison de leur fréquence déraisonnable, de leur nombre, de leur caractère répétitif ou systématique, ou
+- – les demandes ne remettent pas en cause le traitement des données, l’établissement, le contrôle, la collecte ou le recouvrement de l’impôt par la juridiction qui reçoit les renseignements.
+
+**Droit d’exercer un recours**
 
 Toute personne physique doit avoir le droit d’exercer un recours approprié en cas de dommages consécutifs à une utilisation erronée par l’Autorité Compétente qui reçoit les renseignements des données personnelles transmises par l’Autorité Compétente de la Suisse.
 
-Sécurité des données
+**Sécurité des données**
 
 L’Autorité Compétente qui reçoit les renseignements doit prendre des mesures pour protéger les données personnelles transmises par l’Autorité Compétente de la SUISSE contre, notamment, tout accès non autorisé à ces données ainsi que toute modification et divulgation non autorisées de ces données.
 
-Conservation des données
+**Conservation des données**
 
 L’Autorité Compétente qui reçoit les renseignements veille à ce que les données personnelles soient conservées sous un format qui permette l’identification des personnes concernées pendant une durée n’excédant pas celle nécessaire à la réalisation des finalités pour lesquelles elles sont collectées ou pour lesquelles elles seront traitées ultérieurement.
 
-Définitions
+**Définitions**
 
 Aux fins de cette déclaration:
 
@@ -649,186 +715,191 @@ Aux fins de cette déclaration:
 - [www.edoeb.admin.ch/datenschutz/00626/00753/index.html](https://www.edoeb.admin.ch/datenschutz/00626/00753/index.html)
 - [https://secure.edps.europa.eu/EDPSWEB/edps/site/mySite/lang/fr/pid/71](https://secure.edps.europa.eu/EDPSWEB/edps/site/mySite/lang/fr/pid/71%23adequacy_decision) [#adequacy\_decision](https://secure.edps.europa.eu/EDPSWEB/edps/site/mySite/lang/fr/pid/71%23adequacy_decision)
 
-[^annexu1-lvlu2-2]: [RS 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
-[^annexu1-lvlu2-3]: La Suisse est au bénéfice d’une décision d’adéquation de la Commission européenne adoptée sur la base de l’art. 25, par. 6 de la directive 95/46/CE du Parlement européen et du Conseil, du 24 octobre 1995, relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
+[^annexu1-lvlu1-secX-1]: [RO 2017 3533](https://fedlex.data.admin.ch/eli/oc/2017/388); Cette notification remplace la notification du 21 déc. 2016 (non publiée) et reste valable jusqu’à ce que le Secrétariat de l’Organe de coordination soit avisé de toute modification de la présente notification.
+[^annexu1-lvlu1-secX-2]: [RS 0.652.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2497)
+[^annexu1-lvlu1-secX-3]: La Suisse est au bénéfice d’une décision d’adéquation de la Commission européenne adoptée sur la base de l’art. 25, par. 6 de la directive 95/46/CE du Parlement européen et du Conseil, du 24 octobre 1995, relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données.
 
-Champ d’application le 1<sup>er</sup> janvier 2025[^t-2]
+Champ d’application le 1<sup>er</sup> janvier 2026[^t-3]
 
 La Suisse est liée par les dispositions de l’Accord multilatéral entre autorités compétentes concernant l’échange automatique de renseignements relatifs aux comptes financiers à l’égard des États et territoires suivants en vertu de la section 7, par. 2.1, de cet accord:
 
 <table>
 <tr><th></th><th>Effectif dès le</th></tr>
-<tr><td>Afrique du Sud[^t-3]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Albanie[^t-4]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Andorre[^t-5]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Anguilla[^t-6]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Antigua-et-Barbuda[^t-7]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Arabie saoudite[^t-8]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Argentine[^t-9]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Aruba[^t-10]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Australie[^t-11]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Azerbaïdjan[^t-12]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Bahamas[^t-13]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Bahreïn[^t-14]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Barbade[^t-15]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Belize[^t-16]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Bermudes[^t-17]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
-<tr><td>Brésil[^t-18]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Brunéi Darussalam[^t-19]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Canada[^t-20]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Chili[^t-21]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Chine[^t-22]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Colombie[^t-23]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Corée (Sud)[^t-24]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Costa Rica[^t-25]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Curaçao[^t-26]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Dominique[^t-27]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Émirats arabes unis[^t-28]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Équateur[^t-29]</td><td>1<sup>er</sup> janvier 2023</td></tr>
-<tr><td>Géorgie[^t-30]</td><td>1<sup>er</sup> janvier 2025</td></tr>
-<tr><td>Ghana[^t-31]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Grenade[^t-32]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Groenland[^t-33]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Guernesey[^t-34]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Hong Kong[^t-35]</td><td>1<sup>er</sup> janvier 2024</td></tr>
-<tr><td>Îles Caïmans[^t-36]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
-<tr><td>Îles Cook[^t-37]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Îles Féroé[^t-38]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Île de Man[^t-39]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Îles Marshall[^t-40]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Îles Turques-et-Caïques[^t-41]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
-<tr><td>Îles Vierges britanniques[^t-42]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
-<tr><td>Inde[^t-43]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Indonésie[^t-44]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Islande[^t-45]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Israël[^t-46]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Jamaïque[^t-47]</td><td>1<sup>er</sup> janvier 2023</td></tr>
-<tr><td>Japon[^t-48]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Jersey[^t-49]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Kazakhstan[^t-50]</td><td>1<sup>er</sup> janvier 2022</td></tr>
-<tr><td>Kenya[^t-51]</td><td>1<sup>er</sup> janvier 2024</td></tr>
-<tr><td>Koweït[^t-52]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Liban[^t-53]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Liechtenstein[^t-54]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Macao[^t-55]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Malaisie[^t-56]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Maldives[^t-57]</td><td>1<sup>er</sup> janvier 2022</td></tr>
-<tr><td>Maurice[^t-58]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Mexique[^t-59]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Moldova[^t-60]</td><td>1<sup>er</sup> janvier 2025</td></tr>
-<tr><td>Monaco[^t-61]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Montserrat[^t-62]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Nauru[^t-63]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
-<tr><td>Nigéria[^t-64]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Norvège[^t-65]</td><td>1<sup>er</sup> janvier 2017</td></tr>
-<tr><td>Nouvelle-Zélande[^t-66]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Nouvelle-Calédonie[^t-67]</td><td>1<sup>er</sup> janvier 2023\*</td></tr>
-<tr><td>Oman[^t-68]</td><td>1<sup>er</sup> janvier 2022</td></tr>
-<tr><td>Pakistan[^t-69]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Panama[^t-70]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Pays-Bas: communes d’outre-mer Bonaire, Saint Eustache, Saba[^t-71]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Pérou[^t-72]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Qatar[^t-73]</td><td>1<sup>er</sup> janvier 2019</td></tr>
-<tr><td>Russie[^t-74]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Saint-Kitts-et-Nevis[^t-75]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Sainte-Lucie[^t-76]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Saint-Vincent-et-les-Grenadines[^t-77]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Saint-Marin[^t-78]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Samoa[^t-79]</td><td>1<sup>er</sup> janvier 2020</td></tr>
-<tr><td>Seychelles[^t-80]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Singapour[^t-81]</td><td>1<sup>er</sup> janvier 2024</td></tr>
-<tr><td>Sint Maarten[^t-82]</td><td>1<sup>er</sup> janvier 2023</td></tr>
-<tr><td>Thaïlande[^t-83]</td><td>1<sup>er</sup> janvier 2024</td></tr>
-<tr><td>Turquie[^t-84]</td><td>1<sup>er</sup> janvier 2021</td></tr>
-<tr><td>Ukraine[^t-85]</td><td>1<sup>er</sup> janvier 2025</td></tr>
-<tr><td>Uruguay[^t-86]</td><td>1<sup>er</sup> janvier 2018</td></tr>
-<tr><td>Vanuatu[^t-87]</td><td>1<sup>er</sup> janvier 2020\*</td></tr>
+<tr><td>Afrique du Sud[^t-4]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Albanie[^t-5]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Andorre[^t-6]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Anguilla[^t-7]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Antigua-et-Barbuda[^t-8]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Arabie saoudite[^t-9]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Argentine[^t-10]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Aruba[^t-11]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Australie[^t-12]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Azerbaïdjan[^t-13]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Bahamas[^t-14]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Bahreïn[^t-15]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Barbade[^t-16]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Belize[^t-17]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Bermudes[^t-18]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Brésil[^t-19]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Brunéi Darussalam[^t-20]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Canada[^t-21]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Chili[^t-22]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Chine[^t-23]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Colombie[^t-24]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Corée (Sud)[^t-25]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Costa Rica[^t-26]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Curaçao[^t-27]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Dominique[^t-28]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Émirats arabes unis[^t-29]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Équateur[^t-30]</td><td>1<sup>er</sup> janvier 2023</td></tr>
+<tr><td>Géorgie[^t-31]</td><td>1<sup>er</sup> janvier 2025</td></tr>
+<tr><td>Ghana[^t-32]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Grenade[^t-33]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Groenland[^t-34]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Guernesey[^t-35]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Hong Kong[^t-36]</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Îles Caïmans[^t-37]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Îles Cook[^t-38]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Îles Féroé[^t-39]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Île de Man[^t-40]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Îles Marshall[^t-41]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Îles Turques-et-Caïques[^t-42]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Îles Vierges britanniques[^t-43]</td><td>1<sup>er</sup> janvier 2018\*</td></tr>
+<tr><td>Inde[^t-44]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Indonésie[^t-45]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Islande[^t-46]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Israël[^t-47]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Jamaïque[^t-48]</td><td>1<sup>er</sup> janvier 2023</td></tr>
+<tr><td>Japon[^t-49]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Jersey[^t-50]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Kazakhstan[^t-51]</td><td>1<sup>er</sup> janvier 2022</td></tr>
+<tr><td>Kenya[^t-52]</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Koweït[^t-53]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Liban[^t-54]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Liechtenstein[^t-55]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Macao[^t-56]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Malaisie[^t-57]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Maldives[^t-58]</td><td>1<sup>er</sup> janvier 2022</td></tr>
+<tr><td>Maurice[^t-59]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Mexique[^t-60]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Moldova[^t-61]</td><td>1<sup>er</sup> janvier 2025</td></tr>
+<tr><td>Monaco[^t-62]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Montserrat[^t-63]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Nauru[^t-64]</td><td>1<sup>er</sup> janvier 2019\*</td></tr>
+<tr><td>Nigéria[^t-65]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Norvège[^t-66]</td><td>1<sup>er</sup> janvier 2017</td></tr>
+<tr><td>Nouvelle-Zélande[^t-67]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Nouvelle-Calédonie[^t-68]</td><td>1<sup>er</sup> janvier 2023\*</td></tr>
+<tr><td>Oman[^t-69]</td><td>1<sup>er</sup> janvier 2022</td></tr>
+<tr><td>Ouganda[^t-70]</td><td>1<sup>er</sup> janvier 2026</td></tr>
+<tr><td>Pakistan[^t-71]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Panama[^t-72]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Pays-Bas: communes d’outre-mer Bonaire, Saint Eustache, Saba[^t-73]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Pérou[^t-74]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Qatar[^t-75]</td><td>1<sup>er</sup> janvier 2019</td></tr>
+<tr><td>Russie[^t-76]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Saint-Kitts-et-Nevis[^t-77]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Sainte-Lucie[^t-78]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Saint-Vincent-et-les-Grenadines[^t-79]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Saint-Marin[^t-80]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Samoa[^t-81]</td><td>1<sup>er</sup> janvier 2020</td></tr>
+<tr><td>Seychelles[^t-82]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Singapour[^t-83]</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Sint Maarten[^t-84]</td><td>1<sup>er</sup> janvier 2023</td></tr>
+<tr><td>Thaïlande[^t-85]</td><td>1<sup>er</sup> janvier 2024</td></tr>
+<tr><td>Trinité-et-Tobago[^t-86]</td><td>1<sup>er</sup> janvier 2026\*</td></tr>
+<tr><td>Turquie[^t-87]</td><td>1<sup>er</sup> janvier 2021</td></tr>
+<tr><td>Ukraine[^t-88]</td><td>1<sup>er</sup> janvier 2025</td></tr>
+<tr><td>Uruguay[^t-89]</td><td>1<sup>er</sup> janvier 2018</td></tr>
+<tr><td>Vanuatu[^t-90]</td><td>1<sup>er</sup> janvier 2020\*</td></tr>
 <tr><td colspan="2">\* Ces États et territoires appliquent l’échange automatique de renseignements de manière non-réciproque permanente sur la base d’une notification selon la section 7(1)(b) de l’Accord multilatéral. Cela veut dire qu’ils ne reçoivent pas de données relatives aux comptes financiers de la part de la Suisse, mais lui transfèrent de tels renseignements.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36);[2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107); [2024 15](https://fedlex.data.admin.ch/eli/oc/2024/15); [2025 80](https://fedlex.data.admin.ch/eli/oc/2025/80). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
-[^t-3]: AF du 5 déc. 2017 ([RO 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878)).
-[^t-4]: AF du 10 déc. 2019 ([RO 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764)).
-[^t-5]: AF du 5 déc. 2017 ([RO 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841)).
-[^t-6]: AF du 13 déc. 2018 ([RO 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10)).
-[^t-7]: AF du 5 déc. 2017 ([RO 2017 7677](https://fedlex.data.admin.ch/eli/oc/2017/842)).
-[^t-8]: AF du 6 déc. 2017 ([RO 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876)).
-[^t-9]: AF du 5 déc. 2017 ([RO 2017 7679](https://fedlex.data.admin.ch/eli/oc/2017/843)).
-[^t-10]: AF du 5 déc. 2017 ([RO 2017 7681](https://fedlex.data.admin.ch/eli/oc/2017/844)).
-[^t-11]: AF du 31 mai 2016 ([RO 2016 4795](https://fedlex.data.admin.ch/eli/oc/2016/765)).
-[^t-12]: AF du 10 déc. 2019 ([RO 2020 231](https://fedlex.data.admin.ch/eli/oc/2020/32)).
-[^t-13]: AF du 13 déc. 2018 ([RO 2019 91](https://fedlex.data.admin.ch/eli/oc/2019/11)).
-[^t-14]: AF du 13 déc. 2018 ([RO 2019 93](https://fedlex.data.admin.ch/eli/oc/2019/12)).
-[^t-15]: AF du 5 déc. 2017 ([RO 2017 7683](https://fedlex.data.admin.ch/eli/oc/2017/845)).
-[^t-16]: AF du 5 déc. 2017 ([RO 2017 7685](https://fedlex.data.admin.ch/eli/oc/2017/846)).
-[^t-17]: AF du 5 déc. 2017 ([RO 2017 7687](https://fedlex.data.admin.ch/eli/oc/2017/847)).
-[^t-18]: AF du 5 déc. 2017 ([RO 2017 7689](https://fedlex.data.admin.ch/eli/oc/2017/848)).
-[^t-19]: AF du 10 déc. 2019 ([RO 2021 765](https://fedlex.data.admin.ch/eli/oc/2021/765)).
-[^t-20]: AF du 12 déc. 2016 ([RO 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841)).
-[^t-21]: AF du 5 déc. 2017 ([RO 2017 7695](https://fedlex.data.admin.ch/eli/oc/2017/851)).
-[^t-22]: AF du 5 déc. 2017 ([RO 2017 7697](https://fedlex.data.admin.ch/eli/oc/2017/852)).
-[^t-23]: AF du 5 déc. 2017 ([RO 2017 7717](https://fedlex.data.admin.ch/eli/oc/2017/862)).
-[^t-24]: AF du 12 déc. 2016 ([RO 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842)).
-[^t-25]: AF du 5 déc. 2017 ([RO 2017 7701](https://fedlex.data.admin.ch/eli/oc/2017/854)).
-[^t-26]: AF du 5 déc. 2017 ([RO 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855)).
-[^t-27]: AF du 10 déc. 2019 ([RO 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33)).
-[^t-28]: AF du 5 déc. 2017 ([RO 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881)).
-[^t-29]: AF du 8 déc. 2022 ([RO 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103)).
-[^t-30]: AF du 8 déc. 2022 ([RO 2025 77](https://fedlex.data.admin.ch/eli/oc/2025/77)).
-[^t-31]: AF du 10 déc. 2019 ([RO 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34)).
-[^t-32]: AF du 5 déc. 2017 ([RO 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857)).
-[^t-33]: AF du 5 déc. 2017 ([RO 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858)).
-[^t-34]: AF du 12 déc. 2016 ([RO 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843)).
-[^t-35]: AF du 13 déc. 2018 ([RO 2024 16](https://fedlex.data.admin.ch/eli/oc/2024/16)).
-[^t-36]: AF du 5 déc. 2017 ([RO 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850)).
-[^t-37]: AF du 5 déc. 2017 ([RO 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853)).
-[^t-38]: AF du 5 déc. 2017 ([RO 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856)).
-[^t-39]: AF du 12 déc. 2016 ([RO 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844)).
-[^t-40]: AF du 5 déc. 2017 ([RO 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
-[^t-41]: AF du 5 déc. 2017 ([RO 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
-[^t-42]: AF du 5 déc. 2017 ([RO 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).
-[^t-43]: AF du 5 déc. 2017 ([RO 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859)).
-[^t-44]: AF du 5 déc. 2017 ([RO 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860)).
-[^t-45]: AF du 12 déc. 2016 ([RO 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845)).
-[^t-46]: AF du 5 déc. 2017 ([RO 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9)).
-[^t-47]: AF du 8 déc. 2022 ([RO 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104)).
-[^t-48]: AF du 12 déc. 2016 ([RO 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846)).
-[^t-49]: AF du 12 déc. 2016 ([RO 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847)).
-[^t-50]: AF du 10 déc. 2019 ([RO 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33)).
-[^t-51]: AF du 8 déc. 2022 ([RO 2024 17](https://fedlex.data.admin.ch/eli/oc/2024/17)).
-[^t-52]: AF du 13 déc. 2018 ([RO 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
-[^t-53]: AF du 10 déc. 2019 ([RO 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
-[^t-54]: AF du 5 déc. 2017 ([RO 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
-[^t-55]: AF du 10 déc. 2019 ([RO 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
-[^t-56]: AF du 5 déc. 2017 ([RO 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
-[^t-57]: AF du 10 déc. 2019 ([RO 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34)).
-[^t-58]: AF du 5 déc. 2017 ([RO 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
-[^t-59]: AF du 5 déc. 2017 ([RO 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
-[^t-60]: AF du 8 déc. 2022 ([RO 2025 78](https://fedlex.data.admin.ch/eli/oc/2025/78)).
-[^t-61]: AF du 5 déc. 2017 ([RO 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
-[^t-62]: AF du 5 déc. 2017 ([RO 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
-[^t-63]: AF du 13 déc. 2018 ([RO 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
-[^t-64]: AF du 10 déc. 2019 ([RO 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
-[^t-65]: AF du 12 déc. 2016 ([RO 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
-[^t-66]: AF du 12 déc. 2017 ([RO 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
-[^t-67]: AF du 8 déc. 2022 ([RO 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105)).
-[^t-68]: AF du 10 déc. 2019 ([RO 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35)).
-[^t-69]: AF du 10 déc. 2019 ([RO 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
-[^t-70]: AF du 13 déc. 2018 ([RO 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
-[^t-71]: AF du 13 déc. 2018 ([RO 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
-[^t-72]: AF du 10 déc. 2019 ([RO 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
-[^t-73]: AF du 13 déc. 2018 ([RO 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
-[^t-74]: AF du 5 déc. 2017 ([RO 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
-[^t-75]: AF du 5 déc. 2017 ([RO 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
-[^t-76]: AF du 5 déc. 2017 ([RO 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
-[^t-77]: AF du 5 déc. 2017 ([RO 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
-[^t-78]: AF du 5 déc. 2017 ([RO 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
-[^t-79]: AF du 10 déc. 2019 ([RO 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
-[^t-80]: AF du 5 déc. 2017 ([RO 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
-[^t-81]: AF du 13 déc. 2018 ([RO 2024 18](https://fedlex.data.admin.ch/eli/oc/2024/18)).
-[^t-82]: AF du 10 déc. 2019 ([RO 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106)).
-[^t-83]: AF du 8 déc. 2022 ([RO 2024 19](https://fedlex.data.admin.ch/eli/oc/2024/19)).
-[^t-84]: AF du 3 mars 2020 ([RO 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
-[^t-85]: AF du 8 déc. 2022 ([RO 2025 79](https://fedlex.data.admin.ch/eli/oc/2025/79)).
-[^t-86]: AF du 5 déc. 2017 ([RO 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
-[^t-87]: AF du 10 déc. 2019 ([RO 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).
+[^t-3]: [RO 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36);[2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107); [2024 15](https://fedlex.data.admin.ch/eli/oc/2024/15); [2025 80](https://fedlex.data.admin.ch/eli/oc/2025/80); [2026 56](https://fedlex.data.admin.ch/eli/oc/2026/56). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: AF du 5 déc. 2017 ([RO 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878)).
+[^t-5]: AF du 10 déc. 2019 ([RO 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764)).
+[^t-6]: AF du 5 déc. 2017 ([RO 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841)).
+[^t-7]: AF du 13 déc. 2018 ([RO 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10)).
+[^t-8]: AF du 5 déc. 2017 ([RO 2017 7677](https://fedlex.data.admin.ch/eli/oc/2017/842)).
+[^t-9]: AF du 6 déc. 2017 ([RO 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876)).
+[^t-10]: AF du 5 déc. 2017 ([RO 2017 7679](https://fedlex.data.admin.ch/eli/oc/2017/843)).
+[^t-11]: AF du 5 déc. 2017 ([RO 2017 7681](https://fedlex.data.admin.ch/eli/oc/2017/844)).
+[^t-12]: AF du 31 mai 2016 ([RO 2016 4795](https://fedlex.data.admin.ch/eli/oc/2016/765)).
+[^t-13]: AF du 10 déc. 2019 ([RO 2020 231](https://fedlex.data.admin.ch/eli/oc/2020/32)).
+[^t-14]: AF du 13 déc. 2018 ([RO 2019 91](https://fedlex.data.admin.ch/eli/oc/2019/11)).
+[^t-15]: AF du 13 déc. 2018 ([RO 2019 93](https://fedlex.data.admin.ch/eli/oc/2019/12)).
+[^t-16]: AF du 5 déc. 2017 ([RO 2017 7683](https://fedlex.data.admin.ch/eli/oc/2017/845)).
+[^t-17]: AF du 5 déc. 2017 ([RO 2017 7685](https://fedlex.data.admin.ch/eli/oc/2017/846)).
+[^t-18]: AF du 5 déc. 2017 ([RO 2017 7687](https://fedlex.data.admin.ch/eli/oc/2017/847)).
+[^t-19]: AF du 5 déc. 2017 ([RO 2017 7689](https://fedlex.data.admin.ch/eli/oc/2017/848)).
+[^t-20]: AF du 10 déc. 2019 ([RO 2021 765](https://fedlex.data.admin.ch/eli/oc/2021/765)).
+[^t-21]: AF du 12 déc. 2016 ([RO 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841)).
+[^t-22]: AF du 5 déc. 2017 ([RO 2017 7695](https://fedlex.data.admin.ch/eli/oc/2017/851)).
+[^t-23]: AF du 5 déc. 2017 ([RO 2017 7697](https://fedlex.data.admin.ch/eli/oc/2017/852)).
+[^t-24]: AF du 5 déc. 2017 ([RO 2017 7717](https://fedlex.data.admin.ch/eli/oc/2017/862)).
+[^t-25]: AF du 12 déc. 2016 ([RO 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842)).
+[^t-26]: AF du 5 déc. 2017 ([RO 2017 7701](https://fedlex.data.admin.ch/eli/oc/2017/854)).
+[^t-27]: AF du 5 déc. 2017 ([RO 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855)).
+[^t-28]: AF du 10 déc. 2019 ([RO 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33)).
+[^t-29]: AF du 5 déc. 2017 ([RO 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881)).
+[^t-30]: AF du 8 déc. 2022 ([RO 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103)).
+[^t-31]: AF du 8 déc. 2022 ([RO 2025 77](https://fedlex.data.admin.ch/eli/oc/2025/77)).
+[^t-32]: AF du 10 déc. 2019 ([RO 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34)).
+[^t-33]: AF du 5 déc. 2017 ([RO 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857)).
+[^t-34]: AF du 5 déc. 2017 ([RO 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858)).
+[^t-35]: AF du 12 déc. 2016 ([RO 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843)).
+[^t-36]: AF du 13 déc. 2018 ([RO 2024 16](https://fedlex.data.admin.ch/eli/oc/2024/16)).
+[^t-37]: AF du 5 déc. 2017 ([RO 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850)).
+[^t-38]: AF du 5 déc. 2017 ([RO 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853)).
+[^t-39]: AF du 5 déc. 2017 ([RO 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856)).
+[^t-40]: AF du 12 déc. 2016 ([RO 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844)).
+[^t-41]: AF du 5 déc. 2017 ([RO 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865)).
+[^t-42]: AF du 5 déc. 2017 ([RO 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879)).
+[^t-43]: AF du 5 déc. 2017 ([RO 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849)).
+[^t-44]: AF du 5 déc. 2017 ([RO 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859)).
+[^t-45]: AF du 5 déc. 2017 ([RO 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860)).
+[^t-46]: AF du 12 déc. 2016 ([RO 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845)).
+[^t-47]: AF du 5 déc. 2017 ([RO 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9)).
+[^t-48]: AF du 8 déc. 2022 ([RO 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104)).
+[^t-49]: AF du 12 déc. 2016 ([RO 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846)).
+[^t-50]: AF du 12 déc. 2016 ([RO 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847)).
+[^t-51]: AF du 10 déc. 2019 ([RO 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33)).
+[^t-52]: AF du 8 déc. 2022 ([RO 2024 17](https://fedlex.data.admin.ch/eli/oc/2024/17)).
+[^t-53]: AF du 13 déc. 2018 ([RO 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14)).
+[^t-54]: AF du 10 déc. 2019 ([RO 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35)).
+[^t-55]: AF du 5 déc. 2017 ([RO 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863)).
+[^t-56]: AF du 10 déc. 2019 ([RO 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36)).
+[^t-57]: AF du 5 déc. 2017 ([RO 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864)).
+[^t-58]: AF du 10 déc. 2019 ([RO 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34)).
+[^t-59]: AF du 5 déc. 2017 ([RO 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866)).
+[^t-60]: AF du 5 déc. 2017 ([RO 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867)).
+[^t-61]: AF du 8 déc. 2022 ([RO 2025 78](https://fedlex.data.admin.ch/eli/oc/2025/78)).
+[^t-62]: AF du 5 déc. 2017 ([RO 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868)).
+[^t-63]: AF du 5 déc. 2017 ([RO 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869)).
+[^t-64]: AF du 13 déc. 2018 ([RO 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15)).
+[^t-65]: AF du 10 déc. 2019 ([RO 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766)).
+[^t-66]: AF du 12 déc. 2016 ([RO 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848)).
+[^t-67]: AF du 12 déc. 2017 ([RO 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870)).
+[^t-68]: AF du 8 déc. 2022 ([RO 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105)).
+[^t-69]: AF du 10 déc. 2019 ([RO 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35)).
+[^t-70]: AF du 8 déc. 2022 ([RO 2026 55](https://fedlex.data.admin.ch/eli/oc/2026/55)).
+[^t-71]: AF du 10 déc. 2019 ([RO 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37)).
+[^t-72]: AF du 13 déc. 2018 ([RO 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17)).
+[^t-73]: AF du 13 déc. 2018 ([RO 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16)).
+[^t-74]: AF du 10 déc. 2019 ([RO 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767)).
+[^t-75]: AF du 13 déc. 2018 ([RO 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13)).
+[^t-76]: AF du 5 déc. 2017 ([RO 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871)).
+[^t-77]: AF du 5 déc. 2017 ([RO 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872)).
+[^t-78]: AF du 5 déc. 2017 ([RO 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873)).
+[^t-79]: AF du 5 déc. 2017 ([RO 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874)).
+[^t-80]: AF du 5 déc. 2017 ([RO 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875)).
+[^t-81]: AF du 10 déc. 2019 ([RO 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38)).
+[^t-82]: AF du 5 déc. 2017 ([RO 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877)).
+[^t-83]: AF du 13 déc. 2018 ([RO 2024 18](https://fedlex.data.admin.ch/eli/oc/2024/18)).
+[^t-84]: AF du 10 déc. 2019 ([RO 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106)).
+[^t-85]: AF du 8 déc. 2022 ([RO 2024 19](https://fedlex.data.admin.ch/eli/oc/2024/19)).
+[^t-86]: AF du 10 déc. 2019 ([RO 2026 54](https://fedlex.data.admin.ch/eli/oc/2026/54)).
+[^t-87]: AF du 3 mars 2020 ([RO 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768)).
+[^t-88]: AF du 8 déc. 2022 ([RO 2025 79](https://fedlex.data.admin.ch/eli/oc/2025/79)).
+[^t-89]: AF du 5 déc. 2017 ([RO 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880)).
+[^t-90]: AF du 10 déc. 2019 ([RO 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39)).

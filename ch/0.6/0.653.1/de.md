@@ -3,11 +3,11 @@ sr: "0.653.1"
 title: Multilaterale Vereinbarung vom 29. Oktober 2014 der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten (mit Beilage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/759"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2014-10-29
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2016-759-20250101-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/759/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2016-759-20260101-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/759/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 18. Dezember 2015[^t-1]
 
 In Kraft getreten am 1. Januar 2017
 
-(Stand am 1. Januar 2025)
+(Stand am 1. Januar 2026)
 
 [^t-1]: [AS 2016 4717](https://fedlex.data.admin.ch/eli/oc/2016/758)
 
@@ -50,7 +50,7 @@ in der Erwägung, dass die zuständigen Behörden der Staaten beabsichtigen, ein
 
 sind die zuständigen Behörden wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
+[^ingress-1]: [SR 0.652.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2497)
 
 ## Abschnitt 1: Begriffsbestimmungen
 
@@ -156,16 +156,21 @@ Geschehen in französischer und englischer Sprache, wobei jeder Wortlaut gleiche
 
 (Es folgen die Unterschriften)
 
-Beilage
+Beilage[^t-2]
 
 ## Gemeinsamer Melde- und Sorgfaltsstandard für Informationen über Finanzkonten
 
+[^t-2]: Bereinigt gemäss Addendum vom 8. Juni 2023, von der BVers genehmigt am 26. Sept. 2025 und vorläufig angewendet ab 1. Jan. 2026 ([AS 2025 863](https://fedlex.data.admin.ch/eli/oc/2025/863); [BBl 2025 883](https://fedlex.data.admin.ch/eli/fga/2025/883), [2908](https://fedlex.data.admin.ch/eli/fga/2025/2908)).
+
 ### Abschnitt I: Allgemeine Meldepflichten
 
-A. Vorbehaltlich der Unterabschnitte C–E muss jedes meldende Finanzinstitut für jedes meldepflichtige Konto dieses meldenden Finanzinstituts die folgenden Informationen melden:
+A. Vorbehaltlich der Unterabschnitte C–F muss jedes meldende Finanzinstitut für jedes meldepflichtige Konto dieses meldenden Finanzinstituts die folgenden Informationen melden:
 
-- 1\. Name, Anschrift, Ansässigkeitsstaat(en), Steueridentifikationsnummer(n) sowie Geburtsdatum und -ort (bei natürlichen Personen) jeder meldepflichtigen Person, die Inhaber des Kontos ist, sowie bei einem Rechtsträger, der Kontoinhaber ist und für den nach Anwendung der Verfahren zur Erfüllung der Sorgfaltspflichten nach den Abschnitten V, VI und VII eine oder mehrere beherrschende Personen ermittelt wurden, die meldepflichtige Personen sind, Name, Anschrift, Ansässigkeitsstaat(en) und Steueridentifikationsnummer(n) des Rechtsträgers sowie Name, Anschrift, Ansässigkeitsstaat(en), Steueridentifikationsnummer(n) und Geburtsdatum und -ort jeder meldepflichtigen Person;
-- 2\. Kontonummer (oder funktionale Entsprechung, wenn keine Kontonummer vorhanden);
+- 1. a) Name, Anschrift, Ansässigkeitsstaaten, Steueridentifikationsnummern sowie Geburtsdatum und -ort (bei natürlichen Personen) jeder meldepflichtigen Person, die Inhaber des Kontos ist, und ob der Kontoinhaber eine gültige Selbstauskunft vorgelegt hat,
+  - b) bei einem Rechtsträger, der Kontoinhaber ist und für den nach Anwendung der Verfahren zur Erfüllung der Sorgfaltspflichten nach den Abschnitten V, VI und VII eine oder mehrere beherrschende Personen ermittelt wurden, die meldepflichtige Personen sind, Name, Anschrift, Ansässigkeitsstaaten und Steueridentifikationsnummern des Rechtsträgers sowie Name, Anschrift, Ansässigkeitsstaaten, Steueridentifikationsnummern und Geburtsdatum und -ort jeder meldepflichtigen Person sowie die Rolle(n), aufgrund derer die jeweiligen meldepflichtigen Personen beherrschende Personen des Rechtsträgers sind, und ob für jede meldepflichtige Person eine gültige Selbstauskunft vorgelegt wurde, und
+  - c) ob das Konto ein Gemeinschaftskonto ist, sowie die Anzahl der Inhaber des Gemeinschaftskontos;
+
+- 2\. Kontonummer (oder funktionale Entsprechung, wenn keine Kontonummer vorhanden) und Art des Kontos und ob es sich um ein bestehendes Konto oder ein neues Konto handelt;
 - 3\. Name und (gegebenenfalls) Identifikationsnummer des meldenden Finanzinstituts;
 - 4\. Kontosaldo oder -wert (einschliesslich des Barwerts oder Rückkaufwerts bei rückkaufsfähigen Versicherungs- oder Rentenversicherungsverträgen) zum Ende des betreffenden Kalenderjahrs oder eines anderen geeigneten Meldezeitraums oder, wenn das Konto im Laufe des Jahres beziehungsweise Zeitraums aufgelöst wurde, die Auflösung des Kontos;
 - 5\.
@@ -175,16 +180,21 @@ A. Vorbehaltlich der Unterabschnitte C–E muss jedes meldende Finanzinstitut f�
   - a) Gesamtbruttobetrag der Zinsen, Gesamtbruttobetrag der Dividenden und Gesamtbruttobetrag anderer Einkünfte, die mittels der auf dem Konto vorhandenen Vermögenswerte erzielt und jeweils auf das Konto (oder in Bezug auf das Konto) im Laufe des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums eingezahlt oder dem Konto gutgeschrieben wurden, sowie
   - b) Gesamtbruttoerlöse aus der Veräusserung oder dem Rückkauf von Finanzvermögen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden und für die das meldende Finanzinstitut als Verwahrstelle, Makler, Bevollmächtigter oder anderweitig als Vertreter für den Kontoinhaber tätig war;
 
-- 6\. bei Einlagenkonten der Gesamtbruttobetrag der Zinsen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden; und
-- 7\. bei allen anderen Konten, die nicht unter Unterabschnitt A Nummer 5 oder 6 fallen, der Gesamtbruttobetrag, der in Bezug auf das Konto während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber gezahlt oder ihm gutgeschrieben wurde und für den das meldende Finanzinstitut Schuldner ist, einschliesslich der Gesamthöhe aller Einlösungsbeträge, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber geleistet wurden.
+- 6\. bei Einlagenkonten der Gesamtbruttobetrag der Zinsen, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums auf das Konto eingezahlt oder dem Konto gutgeschrieben wurden;
+- 6<sup>bis</sup>. bei Eigenkapitalbeteiligungen an einem Investmentunternehmen, das ein Rechtsgebilde ist, die Rolle(n), aufgrund derer die meldepflichtige Person Inhaberin der Eigenkapitalbeteiligung ist; und
+- 7\. bei allen anderen Konten, die nicht unter Nummer 5 oder 6 aufgeführt sind, der Gesamtbruttobetrag, der in Bezug auf das Konto während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber gezahlt oder ihm gutgeschrieben wurde und für den das meldende Finanzinstitut Schuldner ist, einschliesslich der Gesamthöhe aller Einlösungsbeträge, die während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums an den Kontoinhaber geleistet wurden.
 
 B. In den gemeldeten Informationen muss die Währung genannt werden, auf die die Beträge lauten.
 
-C. Ungeachtet des Unterabschnitts A Nummer 1 müssen Steueridentifikationsnummer(n) und Geburtsdatum in Bezug auf meldepflichtige Konten, die bestehende Konten sind, nicht gemeldet werden, wenn diese Steueridentifikationsnummer(n) beziehungsweise dieses Geburtsdatum nicht in den Unterlagen des meldenden Finanzinstituts enthalten ist und nicht nach innerstaatlichem Recht von diesem meldenden Finanzinstitut zu erfassen sind. Ein meldendes Finanzinstitut ist jedoch verpflichtet, angemessene Anstrengungen zu unternehmen, um bei bestehenden Konten die Steueridentifikationsnummer(n) und das Geburtsdatum bis zum Ende des zweiten Kalenderjahrs, das dem Jahr folgt, in dem bestehende Konten als meldepflichtige Konten identifiziert wurden, zu beschaffen.
+C. Ungeachtet des Unterabschnitts A Nummer 1 müssen Steueridentifikationsnummer(n) und Geburtsdatum in Bezug auf meldepflichtige Konten, die bestehende Konten sind, nicht gemeldet werden, wenn diese Steueridentifikationsnummer(n) beziehungsweise dieses Geburtsdatum nicht in den Unterlagen des meldenden Finanzinstituts enthalten ist und nicht nach innerstaatlichem Recht von diesem meldenden Finanzinstitut zu erfassen sind. Ein meldendes Finanzinstitut ist jedoch verpflichtet, angemessene Anstrengungen zu unternehmen, um bei bestehenden Konten die Steueridentifikationsnummern und das Geburtsdatum bis zum Ende des zweiten Kalenderjahrs nach dem [xx.xx.xxxx] und immer dann, wenn es nach den innerstaatlichen Vorschriften zur Bekämpfung der Geldwäscherei verpflichtet ist, die Informationen zu dem bestehenden Konto zu aktualisieren, zu beschaffen.
 
-D. Ungeachtet des Unterabschnitts A Nummer 1 ist die Steueridentifikationsnummer nicht zu melden, wenn (i) vom betreffenden meldenden Staat keine Steueridentifikationsnummer ausgegeben wird oder (ii) das innerstaatliche Recht des betreffenden meldenden Staates nicht zur Erfassung der durch den meldenden Staat ausgegebenen Steueridentifikationsnummer verpflichtet.
+D. Ungeachtet des Unterabschnitts A Nummer 1 ist die Steueridentifikationsnummer nicht zu melden, wenn (i) vom betreffenden meldepflichtigen Staat keine Steueridentifikationsnummer ausgegeben wird oder (ii) das innerstaatliche Recht des betreffenden meldepflichtigen Staates nicht zur Erfassung der durch den meldepflichtigen Staat ausgegebenen Steueridentifikationsnummer verpflichtet.
 
 E. Ungeachtet des Unterabschnitts A Nummer 1 ist der Geburtsort nicht zu melden, es sei denn, das meldende Finanzinstitut hat ihn nach innerstaatlichem Recht zu beschaffen und zu melden und er ist in den elektronisch durchsuchbaren Daten des meldenden Finanzinstituts verfügbar.
+
+F. Ungeachtet des Unterabschnitts A sind die Informationen, die in Bezug auf [xxxx] zu melden sind, die in diesem Absatz beschriebenen Informationen, mit Ausnahme der in Unterabschnitt A Nummer 5 Buchstabe b beschriebenen Bruttoerträge.
+
+G. Ungeachtet des Unterabschnitts A Nummer 5 Buchstabe b und sofern sich das meldende Finanzinstitut für eine eindeutig identifizierte Gruppe von Konten nicht anderweitig entscheidet, sind die Bruttoerlöse aus der Veräusserung oder dem Rückkauf von Finanzvermögen nicht zu melden, soweit diese Bruttoerlöse vom meldenden Finanzinstitut nach dem Melderahmen für Kryptowerte gemeldet werden.
 
 ### Abschnitt II: Allgemeine Sorgfaltspflichten
 
@@ -306,7 +316,7 @@ D. Überprüfungsverfahren für die Identifizierung meldepflichtiger Konten von 
 
 - 2\. Feststellung, ob der Rechtsträger ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt. Bei einem Kontoinhaber eines bestehenden Kontos eines Rechtsträgers (einschliesslich eines Rechtsträgers, der eine meldepflichtige Person ist), muss das meldende Finanzinstitut feststellen, ob der Kontoinhaber ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt. Handelt es sich bei einer beherrschenden Person eines passiven NFE um eine meldepflichtige Person, so ist das Konto als meldepflichtiges Konto zu betrachten. Bei diesen Feststellungen muss das meldende Finanzinstitut die unter Unterabschnitt D Nummer 2 Buchstaben a–c aufgeführten Leitlinien in der jeweils geeignetsten Reihenfolge befolgen.
   - a) Feststellung, ob der Kontoinhaber ein passiver NFE ist. Zur Feststellung, ob der Kontoinhaber ein passiver NFE ist, muss das meldende Finanzinstitut eine Selbstauskunft des Kontoinhabers zum Nachweis seines Status beschaffen, es sei denn, das meldende Finanzinstitut kann anhand von in seinem Besitz befindlichen oder öffentlich verfügbaren Informationen in vertretbarer Weise feststellen, dass der Kontoinhaber ein aktiver NFE ist oder ein anderes Finanzinstitut als ein unter Abschnitt VIII Unterabschnitt A Nummer 6 Buchstabe b beschriebenes Investmentunternehmen, bei dem es sich nicht um ein Finanzinstitut eines teilnehmenden Staates handelt.
-  - b) Feststellung der beherrschenden Personen eines Kontoinhabers. Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäsche (AML/KYC) erhobenen und verwahrten Informationen verlassen.
+  - b) Feststellung der beherrschenden Personen eines Kontoinhabers. Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäscherei erhobenen und verwahrten Informationen verlassen.
   - c)
 
     Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist. Zur Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist, kann sich ein meldendes Finanzinstitut auf Folgendes verlassen:
@@ -332,14 +342,16 @@ A. Überprüfungsverfahren für die Identifizierung meldepflichtiger Konten von 
 
 - 2\. Feststellung, ob der Rechtsträger ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt. Bei einem Kontoinhaber eines Neukontos eines Rechtsträgers (einschliesslich eines Rechtsträgers, der eine meldepflichtige Person ist), muss das meldende Finanzinstitut feststellen, ob der Kontoinhaber ein passiver NFE mit einer oder mehreren beherrschenden Personen ist, bei denen es sich um meldepflichtige Personen handelt. Handelt es sich bei einer beherrschenden Person eines passiven NFE um eine meldepflichtige Person, so ist das Konto als meldepflichtiges Konto zu betrachten. Bei diesen Feststellungen muss das meldende Finanzinstitut die unter Unterabschnitt A Nummer 2 Buchstaben a–c aufgeführten Leitlinien in der jeweils geeignetsten Reihenfolge befolgen.
   - a) Feststellung, ob der Kontoinhaber ein passiver NFE ist. Zur Feststellung, ob der Kontoinhaber ein passiver NFE ist, muss sich das meldende Finanzinstitut auf eine Selbstauskunft des Kontoinhabers zum Nachweis seines Status verlassen, es sei denn, das meldende Finanzinstitut kann anhand von in seinem Besitz befindlichen oder öffentlich verfügbaren Informationen in vertretbarer Weise feststellen, dass der Kontoinhaber ein aktiver NFE ist oder ein anderes Finanzinstitut als ein unter Abschnitt VIII Unterabschnitt A Nummer 6 Buchstabe b beschriebenes Investmentunternehmen, bei dem es sich nicht um ein Finanzinstitut eines teilnehmenden Staates handelt.
-  - b) Feststellung der beherrschenden Personen eines Kontoinhabers. Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäsche (AML/KYC) erhobenen und verwahrten Informationen verlassen.
+  - b) Feststellung der beherrschenden Personen eines Kontoinhabers. Zur Feststellung der beherrschenden Personen eines Kontoinhabers kann sich ein meldendes Finanzinstitut auf die aufgrund von Verfahren zur Bekämpfung der Geldwäscherei erhobenen und verwahrten Informationen verlassen, sofern diese Verfahren mit den FATF‑Empfehlungen von 2012 vereinbar sind. Ist das meldende Finanzinstitut nicht gesetzlich verpflichtet, Verfahren zur Bekämpfung der Geldwäscherei anzuwenden, die mit den FATF‑Empfehlungen von 2012 vereinbar sind, so muss es im Wesentlichen ähnliche Verfahren zur Feststellung der beherrschenden Personen anwenden.
   - c) Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist. Zur Feststellung, ob eine beherrschende Person eines passiven NFE eine meldepflichtige Person ist, kann sich ein meldendes Finanzinstitut auf eine Selbstauskunft des Kontoinhabers oder dieser beherrschenden Person verlassen.
 
 ### Abschnitt VII: Besondere Sorgfaltsvorschriften
 
 Bei der Durchführung der vorstehenden Verfahren zur Erfüllung der Sorgfaltspflichten gelten die folgenden zusätzlichen Vorschriften:
 
-A. Verlass auf Selbstauskünfte und Belege. Ein meldendes Finanzinstitut darf sich nicht auf eine Selbstauskunft oder auf Belege verlassen, wenn ihm bekannt ist oder bekannt sein müsste, dass die Selbstauskunft oder die Belege nicht zutreffend oder unglaubwürdig sind.
+A. Verlass auf Selbstauskünfte und Belege. Ein meldendes Finanzinstitut darf sich nicht auf eine Selbstauskunft oder auf Belege verlassen, wenn ihm bekannt ist oder bekannt sein müsste, dass die Selbstauskunft oder die Belege unkorrekt oder unglaubwürdig sind.
+
+A<sup>bis</sup>. Vorübergehendes Fehlen einer Selbstauskunft. Wenn es einem meldenden Finanzinstitut aufgrund ausserordentlicher Umstände nicht möglich ist, eine Selbstauskunft für ein Neukonto innerhalb der Frist zu beschaffen, die für die Erfüllung der Melde- und Sorgfaltspflichten in Bezug auf den Meldezeitraum gilt, in dem das Konto eröffnet wurde, muss das meldende Finanzinstitut die Verfahren zur Erfüllung der Sorgfaltspflichten für bestehende Konten anwenden, bis die Selbstauskunft vorliegt und validiert wurde.
 
 B. Alternative Verfahren für Finanzkonten begünstigter natürlicher Personen eines rückkaufsfähigen Versicherungsvertrags oder Rentenversicherungsvertrags. Ein meldendes Finanzinstitut kann davon ausgehen, dass eine begünstigte natürliche Person (mit Ausnahme des Eigentümers) eines rückkaufsfähigen Versicherungsvertrags oder eines Rentenversicherungsvertrags, die eine Todesfallleistung erhält, keine meldepflichtige Person ist und dieses Finanzkonto als ein nicht meldepflichtiges Konto betrachten, es sei denn, dem meldenden Finanzinstitut ist bekannt oder müsste bekannt sein, dass der Begünstigte eine meldepflichtige Person ist. Einem meldenden Finanzinstitut müsste bekannt sein, dass ein Begünstigter eines rückkaufsfähigen Versicherungsvertrags oder eines Rentenversicherungsvertrags eine meldepflichtige Person ist, wenn die vom meldenden Finanzinstitut erhobenen und dem Begünstigten zugeordneten Informationen Indizien im Sinne des Abschnitts III Unterabschnitt B enthalten. Ist einem meldenden Finanzinstitut tatsächlich bekannt oder müsste ihm bekannt sein, dass der Begünstigte eine meldepflichtige Person ist, so muss das meldende Finanzinstitut die Verfahren in Abschnitt III Unterabschnitt B einhalten.
 
@@ -360,7 +372,13 @@ A. Meldendes Finanzinstitut
 - 2\. Der Ausdruck «Finanzinstitut eines teilnehmenden Staates»bedeutet (i) ein in einem teilnehmenden Staat ansässiges Finanzinstitut, jedoch nicht Zweigniederlassungen dieses Finanzinstituts, die sich ausserhalb dieses teilnehmenden Staates befinden, oder (ii) eine Zweigniederlassung eines nicht in einem teilnehmenden Staat ansässigen Finanzinstituts, wenn diese sich in diesem teilnehmenden Staat befindet.
 - 3\. Der Ausdruck «Finanzinstitut»bedeutet ein Verwahrinstitut, ein Einlageninstitut, ein Investmentunternehmen oder eine spezifizierte Versicherungsgesellschaft.
 - 4\. Der Ausdruck «Verwahrinstitut» bedeutet einen Rechtsträger, dessen Geschäftstätigkeit im Wesentlichen darin besteht, für fremde Rechnung Finanzvermögen zu verwahren. Die Geschäftstätigkeit eines Rechtsträgers besteht im Wesentlichen darin, für fremde Rechnung Finanzvermögen zu verwahren, wenn die dem Verwahren von Finanzvermögen und damit zusammenhängenden Finanzdienstleistungen zuzurechnenden Bruttoeinkünfte des Rechtsträgers mindestens 20 Prozent der Bruttoeinkünfte des Rechtsträgers entsprechen, und zwar entweder (i) während des dreijährigen Zeitraums, der am 31. Dezember (oder dem letzten Tag eines nicht einem Kalenderjahr entsprechenden Abrechnungszeitraums) vor dem Bestimmungsjahr endet, oder (ii) während des Zeitraums des Bestehens des Rechtsträgers, je nachdem, welcher Zeitraum kürzer ist.
-- 5\. Der Ausdruck «Einlageninstitut» bedeutet einen Rechtsträger, der im Rahmen gewöhnlicher Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit Einlagen entgegennimmt.
+- 5\.
+
+  Der Ausdruck «Einlageninstitut» bedeutet einen Rechtsträger:
+
+  - a) der im Rahmen gewöhnlicher Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit Einlagen entgegennimmt; oder
+  - b) zugunsten von Kunden spezifizierte E-Geld-Produkte oder digitale Zentralbankwährungen hält.
+
 - 6\.
 
   Der Ausdruck «Investmentunternehmen» bedeutet einen Rechtsträger:
@@ -369,17 +387,37 @@ A. Meldendes Finanzinstitut
 
     der gewerblich vorwiegend eine oder mehrere der folgenden Tätigkeiten für einen Kunden ausübt:
 
-    - i. Handel mit Geldmarktinstrumenten (zum Beispiel Schecks, Wechsel, Einlagenzertifikate, Derivate), Devisen, Wechselkurs-, Zins- und Indexinstrumenten, übertragbaren Wertpapieren oder Warentermingeschäfte,
+    - i. Handel mit Geldmarktinstrumenten (z. B. Schecks, Wechsel, Einlagenzertifikate, Derivate), Devisen, Wechselkurs-, Zins- und Indexinstrumenten, übertragbaren Wertpapieren oder Warentermingeschäften,
     - ii. individuelle und kollektive Vermögensverwaltung, oder
-    - iii. sonstige Arten der Anlage oder Verwaltung von Finanzvermögen oder Kapital im Auftrag Dritter;
+    - iii. sonstige Arten der Anlage oder Verwaltung von Finanzvermögen, Kapital oder relevanten Kryptowerten im Auftrag Dritter; oder
 
-  - [tab] oder
-  - b) dessen Bruttoeinkünfte vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder dem Handel damit zuzurechnen sind, wenn der Rechtsträger von einem anderen Rechtsträger verwaltet wird, bei dem es sich um ein Einlageninstitut, ein Verwahrinstitut, eine spezifizierte Versicherungsgesellschaft oder ein unter Unterabschnitt A Nummer 6 Buchstabe a beschriebenes Investmentunternehmen handelt.
+  - b) dessen Bruttoeinkünfte vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder relevanten Kryptowerten oder dem Handel damit zuzurechnen sind, wenn der Rechtsträger von einem anderen Rechtsträger verwaltet wird, bei dem es sich um ein Einlageninstitut, ein Verwahrinstitut, eine spezifizierte Versicherungsgesellschaft oder ein unter Buchstabe a beschriebenes Investmentunternehmen handelt.
 
-- Ein Rechtsträger übt gewerblich vorwiegend eine oder mehrere der unter Unterabschnitt A Nummer 6 Buchstabe a beschriebenen Tätigkeiten aus beziehungsweise die Bruttoeinkünfte eines Rechtsträgers sind vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder dem Handel damit im Sinne des Buchstaben b zuzurechnen, wenn die den entsprechenden Tätigkeiten zuzurechnenden Bruttoeinkünfte des Rechtsträgers mindestens 50 Prozent der Bruttoeinkünfte des Rechtsträgers entsprechen, und zwar entweder (i) während des dreijährigen Zeitraums, der am 31. Dezember des Jahres vor dem Bestimmungsjahr endet, oder (ii) während des Zeitraums des Bestehens des Rechtsträgers, je nachdem, welcher Zeitraum kürzer ist. Der Ausdruck «Investmentunternehmen» umfasst nicht einen Rechtsträger, bei dem es sich aufgrund der Erfüllung der Kriterien in Unterabschnitt D Nummer 9 Buchstaben d–g um einen aktiven NFE handelt.
-- Dieser Unterabschnitt ist auf eine Weise auszulegen, die mit dem Wortlaut der Definition von «Finanzinstitut» in den Empfehlungen der Arbeitsgruppe Finanzielle Massnahmen gegen Geldwäsche («Financial Action Task Force on Money Laundering» – FATF) vereinbar ist.
-- 7\. Der Ausdruck «Finanzvermögen» umfasst Wertpapiere (zum Beispiel Anteile am Aktienkapital einer Kapitalgesellschaft, Beteiligungen oder wirtschaftliches Eigentum an den Beteiligungen an einer in Streubesitz befindlichen oder börsennotierten Personengesellschaft oder einem Trust sowie Obligationen, Anleihen, Schuldverschreibungen oder sonstige Schuldurkunden), Beteiligungen an Personengesellschaften, Warengeschäften, Swaps (zum Beispiel Zinsswaps, Währungsswaps, Basisswaps, Zinscaps, Zinsfloors, Warenswaps, Aktienswaps, Aktienindexswaps und ähnliche Vereinbarungen), Versicherungs- oder Rentenversicherungsverträge oder Beteiligungen (darunter börsengehandelte und nicht börsengehandelte Termingeschäfte und Optionen) an Wertpapieren, Beteiligungen an Personengesellschaften, Warengeschäften, Swaps oder Versicherungs- oder Rentenverträgen. Der Ausdruck «Finanzvermögen» umfasst keine nicht fremdfinanzierten unmittelbaren Immobilienbeteiligungen.
+- Ein Rechtsträger übt gewerblich vorwiegend eine oder mehrere der unter Buchstabe a beschriebenen Tätigkeiten aus beziehungsweise die Bruttoeinkünfte eines Rechtsträgers sind vorwiegend der Anlage oder Wiederanlage von Finanzvermögen oder relevanten Kryptowerten oder dem Handel damit im Sinne des Buchstaben b zuzurechnen, wenn die den entsprechenden Tätigkeiten zuzurechnenden Bruttoeinkünfte des Rechtsträgers mindestens 50 Prozent der Bruttoeinkünfte des Rechtsträgers entsprechen, und zwar entweder (i) während des dreijährigen Zeitraums, der am 31. Dezember des Jahres vor dem Bestimmungsjahr endet, oder (ii) während des Zeitraums des Bestehens des Rechtsträgers, je nachdem, welcher Zeitraum kürzer ist. Im Sinne des Buchstabens a Ziffer iii umfassen «sonstige Arten der Anlage oder Verwaltung von Finanzvermögen, Kapital oder relevanten Kryptowerten im Auftrag Dritter» nicht die Erbringung von Dienstleistungen zur Durchführung von Tauschgeschäften für oder im Auftrag von Kunden. Der Ausdruck «Investmentunternehmen» umfasst nicht einen Rechtsträger, bei dem es sich aufgrund der Erfüllung der Kriterien in Unterabschnitt D Nummer 9 Buchstaben d–g um einen aktiven NFE handelt.
+- Dieser Unterabschnitt ist auf eine Weise auszulegen, die mit dem Wortlaut der Definition von «Finanzinstitut» in den Empfehlungen der Arbeitsgruppe Finanzielle Massnahmen gegen Geldwäscherei («Financial Action Task Force on Money Laundering» – FATF) vereinbar ist.
+- 7\. Der Ausdruck «Finanzvermögen» umfasst Wertpapiere (z. B. Anteile am Aktienkapital einer Kapitalgesellschaft, Beteiligungen oder wirtschaftliches Eigentum an den Beteiligungen an einer in Streubesitz befindlichen oder börsenkotierten Personengesellschaft oder einem Trust sowie Obligationen, Anleihen, Schuldverschreibungen oder sonstige Schuldurkunden), Beteiligungen an Personengesellschaften, Warengeschäften, Swaps (z. B. Zinsswaps, Währungsswaps, Basisswaps, Zinscaps, Zinsfloors, Warenswaps, Aktienswaps, Aktienindexswaps und ähnliche Vereinbarungen), Versicherungs- oder Rentenversicherungsverträge oder Beteiligungen (darunter börsengehandelte und nicht börsengehandelte Termingeschäfte und Optionen) an Wertpapieren, relevanten Kryptowerten, Beteiligungen an Personengesellschaften, Warengeschäften, Swaps oder Versicherungs- oder Rentenverträgen. Der Ausdruck «Finanzvermögen» umfasst keine nicht fremdfinanzierten unmittelbaren Immobilienbeteiligungen.
 - 8\. Der Ausdruck «spezifizierte Versicherungsgesellschaft» bedeutet einen Rechtsträger, bei dem es sich um eine Versicherungsgesellschaft (oder die Holdinggesellschaft einer Versicherungsgesellschaft) handelt, die einen rückkaufsfähigen Versicherungsvertrag oder einen Rentenversicherungsvertrag abschliesst oder zur Leistung von Zahlungen in Bezug auf einen solchen Vertrag verpflichtet ist.
+- 9\.
+
+  Der Ausdruck «spezifiziertes E-Geld-Produkt» bedeutet ein Produkt, das:
+
+  - a) eine digitale Darstellung einer einzigen Fiat-Währung ist;
+  - b) gegen Entgegennahme eines Geldbetrags für die Durchführung von Zahlungsvorgängen ausgegeben wird;
+  - c) eine auf dieselbe Nominalgeldwährung lautende Forderung gegenüber dem Emittenten darstellt;
+  - d) von einer anderen natürlichen oder juristischen Person als dem Emittenten bei einer Zahlung akzeptiert wird; und
+  - e) gemäss den Regulierungsvorschriften, denen der Emittent unterliegt, auf Anfrage des Inhabers des Produkts jederzeit zum Nennwert gegen dieselbe Fiat-Währung rücktauschbar ist.
+
+- Der Ausdruck «spezifiziertes E-Geld-Produkt» umfasst keine Produkte, die ausschliesslich für den Zweck geschaffen wurden, im Auftrag eines Kunden Geldüberweisungen von diesem an eine andere Person zu ermöglichen. Ein Produkt gilt nicht als ausschliesslich für den Zweck geschaffen, Geldüberweisungen zu ermöglichen, wenn im Rahmen der gewöhnlichen Geschäftstätigkeit des überweisenden Rechtsträgers die mit diesem Produkt verbundenen Geldbeträge entweder nach Erhalt des Überweisungsauftrags länger als 60 Tage gehalten werden oder, falls kein Auftrag erteilt wurde, nach ihrem Eingang länger als 60 Tage gehalten werden.
+- 10\. Der Ausdruck «digitale Zentralbankwährung» bedeutet eine von einer Zentralbank ausgegebene digitale Fiat-Währung.
+- 11\. Der Ausdruck «Fiat-Währung» bedeutet die offizielle Währung eines Staates, die von einem Staat oder der Zentralbank oder Währungsbehörde eines Staates in Form von Banknoten oder Münzen oder in verschiedenen digitalen Formen, einschliesslich Bankreserven, Geschäftsbankgeld, E‑Geld-Produkten und digitaler Zentralbankwährungen, ausgegeben wird.
+- 12\. Der Ausdruck «Kryptowert» bedeutet eine digitale Darstellung eines Wertes, die auf einer kryptografisch gesicherten Distributed-Ledger-Technologie oder einer ähnlichen Technologie beruht, um Transaktionen zu validieren und zu sichern.
+- 13\. Der Ausdruck «relevanter Kryptowert» bedeutet jede Art von Kryptowert, der keine digitale Zentralbankwährung, kein spezifiziertes E‑Geld-Produkt und kein Kryptowert, für den der meldende Kryptowertedienstleister hinreichend festgestellt hat, dass er nicht für Zahlungs- oder Anlagezwecke verwendet werden kann, ist.
+- 14\.
+
+  Der Ausdruck «Tauschgeschäft» bedeutet:
+
+  - a) einen Tausch zwischen relevanten Kryptowerten und Fiat-Währungen; und
+  - b) einen Tausch zwischen einer oder mehreren Arten relevanter Kryptowerte.
 
 B. Nicht meldendes Finanzinstitut
 
@@ -387,7 +425,13 @@ B. Nicht meldendes Finanzinstitut
 
   Der Ausdruck «nicht meldendes Finanzinstitut» bedeutet ein Finanzinstitut, bei dem es sich um Folgendes handelt:
 
-  - a) einen staatlichen Rechtsträger, eine internationale Organisation oder eine Zentralbank, ausser bei Zahlungen, die aus einer Verpflichtung im Zusammenhang mit gewerblichen Finanzaktivitäten stammen, die denen einer spezifizierten Versicherungsgesellschaft, eines Verwahr- oder eines Einlageninstituts entsprechen;
+  - a)
+
+    einen staatlichen Rechtsträger, eine internationale Organisation oder eine Zentralbank, ausser:
+
+    - i. bei Zahlungen, die aus einer Verpflichtung in Zusammenhang mit gewerblichen Finanzaktivitäten stammen, die denen einer spezifizierten Versicherungsgesellschaft, eines Verwahr- oder eines Einlageninstituts entsprechen, oder
+    - ii. bei der Tätigkeit des Haltens von digitalen Zentralbankwährungen für Kontoinhaber, die keine Finanzinstitute, staatlichen Rechtsträger, internationalen Organisationen oder Zentralbanken sind;
+
   - b) einen Altersvorsorgefonds mit breiter Beteiligung, einen Altersvorsorgefonds mit geringer Beteiligung, einen Pensionsfonds eines staatlichen Rechtsträgers, einer internationalen Organisation oder einer Zentralbank oder einen qualifizierten Kreditkartenanbieter;
   - c) einen sonstigen Rechtsträger, bei dem ein geringes Risiko besteht, dass er zur Steuerhinterziehung missbraucht wird, der im Wesentlichen ähnliche Eigenschaften wie die in Unterabschnitt B Nummer 1 Buchstaben a und b genannten Rechtsträger aufweist und der nach innerstaatlichem Recht als nicht meldendes Finanzinstitut gilt, sofern sein Status als nicht meldendes Finanzinstitut dem Zweck des gemeinsamen Meldestandards nicht entgegensteht;
   - d) einen ausgenommenen Organismus für gemeinsame Anlagen; oder
@@ -461,7 +505,14 @@ C. Finanzkonto
   - c) von einem Finanzinstitut ausgestellte oder verwaltete rückkaufsfähige Versicherungsverträge und Rentenversicherungsverträge, mit Ausnahme von nicht mit einer Kapitalanlage verbundenen und nicht übertragbaren sofortigen Leibrenten, die auf natürliche Personen lauten und eine Altersvorsorge- oder Invaliditätsleistung monetisieren, die aufgrund eines Kontos erbracht wird, bei dem es sich um ein ausgenommenes Konto handelt.
 
 - Der Ausdruck «Finanzkonto» umfasst keine Konten, bei denen es sich um ausgenommene Konten handelt.
-- 2\. Der Ausdruck «Einlagenkonto» umfasst Geschäfts-, Giro-, Spar- und Terminkonten sowie Konten, die durch Einlagenzertifikate, Sparbriefe, Investmentzertifikate, Schuldtitel oder vergleichbare Instrumente verbrieft sind, die von einem Finanzinstitut im Rahmen gewöhnlicher Bankgeschäfte oder einer ähnlichen Geschäftstätigkeit geführt werden. Ein Einlagenkonto umfasst auch Beträge, die von einer Versicherungsgesellschaft aufgrund eines garantierten Kapitalanlagevertrags oder einer ähnlichen Vereinbarung zur Zahlung oder Gutschrift von Zinsen auf diese Beträge gehalten werden.
+- 2\.
+
+  Der Ausdruck «Einlagenkonto» umfasst Geschäfts-, Giro-, Spar- und Terminkonten sowie Konten, die durch Einlagenzertifikate, Sparbriefe, Investmentzertifikate, Schuldtitel oder vergleichbare Instrumente verbrieft sind, die von einem Einlageninstitut geführt werden. Ein Einlagenkonto umfasst auch:
+
+  - a) Beträge, die von einer Versicherungsgesellschaft aufgrund eines garantierten Kapitalanlagevertrags oder einer ähnlichen Vereinbarung zur Zahlung oder Gutschrift von Zinsen auf diese Beträge gehalten werden;
+  - b) Konten oder fiktive Konten, die alle spezifizierten E-Geld-Produkte darstellen, die für einen Kunden gehalten werden; und
+  - c) Konten, auf denen eine oder mehrere digitale Zentralbankwährungen für einen Kunden gehalten werden.
+
 - 3\. Der Ausdruck «Verwahrkonto» bedeutet ein Konto (nicht jedoch einen Versicherungs- oder Rentenversicherungsvertrag), in dem Finanzvermögen zugunsten eines Dritten verwahrt wird.
 - 4\. Der Ausdruck «Eigenkapitalbeteiligung» bedeutet im Fall einer Personengesellschaft, die ein Finanzinstitut ist, entweder eine Kapital- oder eine Gewinnbeteiligung an der Personengesellschaft. Im Fall eines Trusts, der ein Finanzinstitut ist, gilt eine Eigenkapitalbeteiligung als von einer Person gehalten, die als Treugeber oder Begünstigter des gesamten oder eines Teils des Trusts betrachtet wird, oder von einer sonstigen natürlichen Person, die den Trust tatsächlich beherrscht. Eine meldepflichtige Person gilt als Begünstigter eines Trusts, wenn sie berechtigt ist, unmittelbar oder mittelbar (zum Beispiel durch einen Bevollmächtigten) eine Pflichtausschüttung aus dem Trust zu erhalten, oder unmittelbar oder mittelbar eine freiwillige Ausschüttung aus dem Trust erhalten kann.
 - 5\. Der Ausdruck «Versicherungsvertrag» bedeutet einen Vertrag (nicht jedoch einen Rentenversicherungsvertrag), bei dem sich der Versicherungsgeber bereit erklärt, bei Eintritt eines konkreten Ereignisses im Zusammenhang mit einem Todesfall-, Krankheits-, Unfall-, Haftungs- oder Sachschadenrisiko einen Betrag zu zahlen.
@@ -477,8 +528,8 @@ C. Finanzkonto
   - d) in Form einer an den Versicherungsnehmer zahlbaren Dividende (nicht jedoch eines Schlussüberschussanteils), sofern die Dividende aus einem Versicherungsvertrag stammt, bei dem nur Leistungen nach Unterabschnitt C Nummer 8 Buchstabe b zu zahlen sind; oder
   - e) in Form einer Rückerstattung einer Prämienvorauszahlung oder eines Prämiendepots für einen Versicherungsvertrag mit mindestens jährlich fälliger Prämienzahlung, sofern die Höhe der Prämienvorauszahlung oder des Prämiendepots die nächste vertragsgemäss fällige Jahresprämie nicht übersteigt.
 
-- 9\. Der Ausdruck «bestehendes Konto» bedeutet ein Finanzkonto, das zum […] von einem meldenden Finanzinstitut geführt wird.
-- 10\. Der Ausdruck «Neukonto» bedeutet ein von einem meldenden Finanzinstitut geführtes Finanzkonto, das am oder nach dem […] eröffnet wird.
+- 9\. Der Ausdruck «bestehendes Konto» bedeutet ein Finanzkonto, das zum [xx.xx.xxxx] oder, wenn das Konto nur aufgrund der Änderungen am gemeinsamen Meldestandard als Finanzkonto gilt, zum [Datum des Wirksamwerdens des überarbeiteten gemeinsamen Meldestandards – 1 Tag] von einem meldenden Finanzinstitut geführt wurde.
+- 10\. Der Ausdruck «Neukonto» bedeutet ein von einem meldenden Finanzinstitut geführtes Finanzkonto, das am oder nach dem [xx.xx.xxxx] oder, wenn das Konto nur aufgrund der Änderungen am gemeinsamen Meldestandard als Finanzkonto gilt, am oder nach dem [Datum des Wirksamwerdens des geänderten gemeinsamen Meldestandards] eröffnet wurde.
 - 11\. Der Ausdruck «bestehendes» Konto natürlicher Personen» bedeutet ein bestehendes Konto, dessen Inhaber eine oder mehrere natürliche Personen sind.
 - 12\. Der Ausdruck «Neukonto natürlicher Personen» bedeutet ein Neukonto, dessen Inhaber eine oder mehrere natürliche Personen sind.
 - 13\. Der Ausdruck «bestehendes Konto von Rechtsträgern» bedeutet ein bestehendes Konto, dessen Inhaber ein oder mehrere Rechtsträger sind.
@@ -535,9 +586,19 @@ C. Finanzkonto
       - – Das Konto ist nicht ein im Zusammenhang mit einem Verkauf oder Tausch von Finanzvermögen eingerichtetes Margin-Konto oder ähnliches Konto.
       - – Das Konto steht nicht in Verbindung mit einem Konto nach Unterabschnitt C Nummer 17 Buchstabe f;
 
-    - iii. einer Verpflichtung eines Finanzinstituts, das ein durch Immobilien besichertes Darlehen verwaltet, zur Zurücklegung eines Teils einer Zahlung ausschliesslich zur Ermöglichung der Entrichtung von Steuern oder Versicherungsbeiträgen im Zusammenhang mit den Immobilien zu einem späteren Zeitpunkt; oder
-    - iv. einer Verpflichtung eines Finanzinstituts ausschliesslich zur Ermöglichung der Entrichtung von Steuern zu einem späteren Zeitpunkt.
+    - iii. einer Verpflichtung eines Finanzinstituts, das ein durch Immobilien besichertes Darlehen verwaltet, zur Zurücklegung eines Teils einer Zahlung ausschliesslich zur Ermöglichung der Entrichtung von Steuern oder Versicherungsbeiträgen im Zusammenhang mit den Immobilien zu einem späteren Zeitpunkt;
+    - iv. einer Verpflichtung eines Finanzinstituts ausschliesslich zur Ermöglichung der Entrichtung von Steuern zu einem späteren Zeitpunkt; oder
+    - v.
 
+      der Gründung oder Kapitalerhöhung einer Gesellschaft, sofern das Konto folgende Voraussetzungen erfüllt:
+
+      - – Das Konto wird ausschliesslich für die Hinterlegung von Kapital für die Gründung oder Kapitalerhöhung einer Gesellschaft nach den gesetzlichen Vorschriften verwendet.
+      - – Sämtliche Beträge auf dem Konto sind gesperrt, bis das meldende Finanzinstitut eine Bestätigung einer unabhängigen Stelle über die Gründung oder Kapitalerhöhung erhält.
+      - – Das Konto wird nach der Gründung oder Kapitalerhöhung aufgelöst oder in ein Konto überführt, das auf die Gesellschaft lautet.
+      - – Eventuelle Rückzahlungen aufgrund nicht erfolgter Gründung oder Kapitalerhöhung, abzüglich der Gebühren für Dienstleister und ähnlicher Gebühren, gehen ausschliesslich an die Personen, die das Kapital eingezahlt haben.
+      - – Das Konto wurde in den letzten 12 Monaten eröffnet.
+
+  - e<sup>bis</sup>) Ein Einlagenkonto, das alle spezifizierten E-Geld-Produkte darstellt, die für einen Kunden gehalten werden, wenn der gleitende 90‑Tage-Durchschnitt des Gesamtkontosaldos oder -werts zum Tagesende während eines beliebigen Zeitraums von 90 aufeinanderfolgenden Tagen an keinem Tag während des Kalenderjahrs oder eines anderen geeigneten Meldezeitraums 10 000 US-Dollars übersteigt.
   - f)
 
     Ein Einlagenkonto, das folgende Voraussetzungen erfüllt:
@@ -550,7 +611,7 @@ C. Finanzkonto
 D. Meldepflichtiges Konto
 
 - 1\. Der Ausdruck «meldepflichtiges Konto» bedeutet ein Konto, dessen Inhaber eine oder mehrere meldepflichtige Personen sind oder ein passiver NFE, der von einer oder mehreren meldepflichtigen Personen beherrscht wird, sofern es nach den in den Abschnitten II–VII beschriebenen Verfahren zur Erfüllung der Sorgfaltspflichten als solches identifiziert wurde.
-- 2\. Der Ausdruck «meldepflichtige Person» bedeutet eine Person eines meldepflichtigen Staates, jedoch nicht (i) eine Kapitalgesellschaft, deren Aktien regelmässig an einer oder mehreren anerkannten Wertpapierbörsen gehandelt werden, (ii) eine Kapitalgesellschaft, die ein verbundener Rechtsträger einer Kapitalgesellschaft nach Ziffer i ist, (iii) einen staatlichen Rechtsträger, (iv) eine internationale Organisation, (v) eine Zentralbank oder (vi) ein Finanzinstitut.
+- 2\. Der Ausdruck «meldepflichtige Person» bedeutet eine Person eines meldepflichtigen Staates, jedoch nicht i) einen Rechtsträger, dessen Aktien regelmässig an einer oder mehreren anerkannten Wertpapierbörsen gehandelt werden, ii) einen Rechtsträger, der ein verbundener Rechtsträger eines Rechtsträgers nach Ziffer i ist, (iii) einen staatlichen Rechtsträger, (iv) eine internationale Organisation, (v) eine Zentralbank oder (vi) ein Finanzinstitut.
 - 3\. Der Ausdruck «Person eines meldepflichtigen Staates» bedeutet eine natürliche Person oder einen Rechtsträger, die beziehungsweise der nach dem Steuerrecht eines meldepflichtigen Staates in diesem ansässig ist, oder einen Nachlass eines Erblassers, der in einem meldepflichtigen Staat ansässig war. In diesem Sinne gilt ein Rechtsträger, bei dem keine steuerliche Ansässigkeit vorliegt, beispielsweise eine Personengesellschaft, eine *Limited Liability Partnership* oder ein ähnliches Rechtsgebilde, als in dem Staat ansässig, in dem sich der Ort seiner tatsächlichen Geschäftsleitung befindet.
 - 4\. Der Ausdruck «meldepflichtiger Staat» bedeutet einen Staat, (i) mit dem ein Abkommen besteht, das eine Pflicht zur Übermittlung der in Abschnitt I genannten Informationen vorsieht, und (ii) der in einer veröffentlichten Liste aufgeführt ist.
 - 5\. Der Ausdruck «teilnehmender Staat» bedeutet einen Staat, (i) mit dem ein Abkommen besteht, nach dem dieser Staat die in Abschnitt I genannten Informationen übermitteln wird, und (ii) der in einer veröffentlichten Liste aufgeführt ist.
@@ -584,7 +645,7 @@ E. Sonstige Begriffsbestimmungen
 - 2\. Der Ausdruck «Verfahren zur Bekämpfung der Geldwäsche (AML/KYC)» bedeutet die Verfahren eines meldenden Finanzinstituts zur Erfüllung der Sorgfaltspflichten gegenüber Kunden nach den Auflagen zur Geldwäschebekämpfung und ähnlichen Vorschriften, denen dieses meldende Finanzinstitut unterliegt.
 - 3\. Der Ausdruck «Rechtsträger» bedeutet eine juristische Person oder ein Rechtsgebilde wie zum Beispiel eine Kapitalgesellschaft, eine Personengesellschaft, einen Trust oder eine Stiftung.
 - 4\. Ein Rechtsträger ist ein «verbundener Rechtsträger» eines anderen Rechtsträgers, wenn einer der beiden Rechtsträger den anderen beherrscht oder die beiden Rechtsträger der gleichen Beherrschung unterliegen. Für diesen Zweck umfasst Beherrschung unmittelbares oder mittelbares Eigentum an mehr als 50 Prozent der Stimmrechte und des Wertes eines Rechtsträgers.
-- *5.* Der Ausdruck «Steueridentifikationsnummer» bedeutet die Identifikationsnummer eines Steuerpflichtigen (oder die funktionale Entsprechung, wenn keine Steueridentifikations-nummer vorhanden).
+- 5\. Der Ausdruck «Steueridentifikationsnummer» bedeutet die Identifikationsnummer eines Steuerpflichtigen (oder die funktionale Entsprechung, wenn keine Steueridentifikations-nummer vorhanden).
 - 6\.
 
   Der Ausdruck «Belege» umfasst folgende Dokumente:
@@ -593,6 +654,8 @@ E. Sonstige Begriffsbestimmungen
   - b) bei einer natürlichen Person einen von einer autorisierten staatlichen Stelle (beispielsweise einer Regierung oder einer ihrer Behörden oder einer Gemeinde) ausgestellten gültigen Ausweis, der den Namen der natürlichen Person enthält und normalerweise zur Feststellung der Identität verwendet wird;
   - c) bei einem Rechtsträger ein von einer autorisierten staatlichen Stelle (beispielsweise einer Regierung oder einer ihrer Behörden oder einer Gemeinde) ausgestelltes amtliches Dokument, das den Namen des Rechtsträgers enthält sowie entweder die Anschrift seines Hauptsitzes in dem Staat, in dem er ansässig zu sein behauptet, oder den Staat, in dem der Rechtsträger eingetragen oder gegründet wurde;
   - d) einen geprüften Jahresabschluss, eine Kreditauskunft eines Dritten, einen Insolvenzantrag oder einen Bericht der Börsenaufsichtsbehörde.
+
+- 7\. Der Ausdruck «staatlicher Überprüfungsdienst» steht für ein elektronisches Verfahren, das ein meldepflichtiger Staat einem meldenden Finanzinstitut zur Feststellung der Identität und steuerlichen Ansässigkeit eines Kontoinhabers oder einer beherrschenden Person bereitstellt.
 
 ### Abschnitt IX: Wirksame Umsetzung
 
@@ -604,17 +667,23 @@ A. Ein Staat muss über entsprechende Vorschriften und Verwaltungsverfahren verf
 - 4\. Verwaltungsverfahren zur Sicherstellung, dass bei den Rechtsträgern und Konten, die nach innerstaatlichem Recht als nicht meldende Finanzinstitute beziehungsweise ausgenommene Konten gelten, weiterhin ein geringes Risiko besteht, dass sie zur Steuerhinterziehung missbraucht werden; sowie
 - 5\. wirksamen Durchsetzungsbestimmungen bei Nichteinhaltung der Vorschriften.
 
+## Abschnitt X: Übergangsmassnahmen
+
+A. Die Änderungen am gemeinsamen Meldestandard werden am [Datum des Wirksamwerdens des geänderten gemeinsamen Meldestandards] wirksam.
+
+B. Ungeachtet des Unterabschnitts A sind die nach Abschnitt I Unterabschnitt A Nummer 1 Buchstabe b und Nummer 6<sup>bis</sup> zu meldenden Informationen über die Rolle(n), aufgrund derer meldepflichtige Personen beherrschende Personen beziehungsweise Inhaber von Eigenkapitalbeteiligungen am Rechtsträger sind, für jedes meldepflichtige Konto, das zum [Datum des Wirksamwerdens des überarbeiteten gemeinsamen Meldestandards – 1 Tag] von einem meldenden Finanzinstitut geführt wurde, und für Meldezeiträume, die spätestens im zweiten Kalenderjahr nach diesem Tag enden, nur dann zu melden, wenn diese Informationen in den elektronisch durchsuchbaren Daten des meldenden Finanzinstituts verfügbar sind.
+
 ## Notifikation der Schweiz vom 4. Mai 2017 nach Abschnitt 7 Absatz 1 Buchstabe d
 
-[^annexu1-lvlu2-1]
+[^annexu1-lvlu3-1]
 
-[^annexu1-lvlu2-1]: [AS 2017 3533](https://fedlex.data.admin.ch/eli/oc/2017/388). Diese Notifikation ersetzt diejenige vom 21. Dez.2016 (in der AS nicht veröffentlicht) und bleibt gültig, bis das Sekretariat des Koordinierungsgremiums über eine Änderung unterrichtet wird.
+[^annexu1-lvlu3-1]: [AS 2017 3533](https://fedlex.data.admin.ch/eli/oc/2017/388). Diese Notifikation ersetzt diejenige vom 21. Dez.2016 (in der AS nicht veröffentlicht) und bleibt gültig, bis das Sekretariat des Koordinierungsgremiums über eine Änderung unterrichtet wird.
 
 Die zuständige Behörde der Schweiz notifiziert hiermit dem Sekretariat des Koordinierungsgremiums, dass sie die in Abschnitt 2 dieser Vereinbarung festgelegten Informationen gemäss der Datenschutzgesetzgebung der Schweiz übermittelt, vorausgesetzt:
 
-- – die übermittelten Informationen werden ausschliesslich für die im Übereinkommen über die gegenseitige Amtshilfe in Steuersachen vom 25. Januar 1988 in der mit dem Protokoll vom 27. Mai 2010 revidierten Fassung[^annexu1-lvlu2-2] und in der multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten festgelegten Zwecke verwendet, für welche die Übermittlung dieser Daten vorgesehen ist. Die Verwendung dieser Daten zu anderen Zwecken ist nur mit vorgängiger Zustimmung der zuständigen Behörde der Schweiz möglich;
+- – die übermittelten Informationen werden ausschliesslich für die im Übereinkommen über die gegenseitige Amtshilfe in Steuersachen vom 25. Januar 1988 in der mit dem Protokoll vom 27. Mai 2010 revidierten Fassung[^annexu1-lvlu3-2] und in der multilateralen Vereinbarung der zuständigen Behörden über den automatischen Informationsaustausch über Finanzkonten festgelegten Zwecke verwendet, für welche die Übermittlung dieser Daten vorgesehen ist. Die Verwendung dieser Daten zu anderen Zwecken ist nur mit vorgängiger Zustimmung der zuständigen Behörde der Schweiz möglich;
 - – die von der zuständigen Behörde der Schweiz übermittelten Informationen dürfen in keinem Fall von der zuständige Behörde, welche die Informationen erhält, in Verfahren verwendet oder veröffentlicht werden, welche die Verhängung oder Vollstreckung der Todesstrafe oder eine andere schwere Verletzung der Menschenrechte wie Folter zur Folge hätten; und
-- – für einen anderen als von der Schweiz oder analogieweise von der Europäischen Union[^annexu1-lvlu2-3] hinsichtlich der Datenschutzregelung als angemessen erachteten Staat gelten folgende Garantien bezüglich der von der Schweiz übermittelten Personendaten:
+- – für einen anderen als von der Schweiz oder analogieweise von der Europäischen Union[^annexu1-lvlu3-3] hinsichtlich der Datenschutzregelung als angemessen erachteten Staat gelten folgende Garantien bezüglich der von der Schweiz übermittelten Personendaten:
 
 Recht auf Auskunft, Berichtigung und Löschung der Daten
 
@@ -652,186 +721,190 @@ Im Sinne dieser Erklärung:
 - [www.edoeb.admin.ch/datenschutz/00626/00753/index.html](http://www.edoeb.admin.ch/datenschutz/00626/00753/index.html)
 - [https://secure.edps.europa.eu/EDPSWEB/edps/site/mySite/lang/de/pid/71#adequacy\_decision](https://secure.edps.europa.eu/EDPSWEB/edps/site/mySite/lang/de/pid/71%23adequacy_decision)
 
-[^annexu1-lvlu2-2]: [SR 0.652.1](https://fedlex.data.admin.ch/eli/cc/2016/806)
-[^annexu1-lvlu2-3]: Die Schweiz verfügt über eine Angemessenheitsentscheidung der Europäischen Kommission gemäss Artikel 25 Absatz 6 der Richtlinie 95/46/EG vom 24. Oktober 1995 des Europäischen Parlaments und des Rates zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr.
+[^annexu1-lvlu3-2]: [SR 0.652.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2497)
+[^annexu1-lvlu3-3]: Die Schweiz verfügt über eine Angemessenheitsentscheidung der Europäischen Kommission gemäss Artikel 25 Absatz 6 der Richtlinie 95/46/EG vom 24. Oktober 1995 des Europäischen Parlaments und des Rates zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten und zum freien Datenverkehr.
 
-Geltungsbereich am 1. Januar 2025, Nachtrag[^t-2]
+Geltungsbereich am 1. Januar 2026[^t-3]
 
 Die Schweiz ist durch die Bestimmungen der Multilateralen Vereinbarung über den automatischen Informationsaustausch über Finanzkonten in Bezug auf die folgenden Staaten und Gebiete gebunden, gemäss Abschnitt 7 Absatz 2.1 dieser Vereinbarung:
 
 <table>
 <tr><th></th><th>Wirksam ab</th></tr>
-<tr><td>Albanien[^t-3]</td><td>1. Januar 2021</td></tr>
-<tr><td>Andorra[^t-4]</td><td>1. Januar 2018</td></tr>
-<tr><td>Anguilla[^t-5]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Antigua und Barbuda[^t-6]</td><td>1. Januar 2019</td></tr>
-<tr><td>Argentinien[^t-7]</td><td>1. Januar 2018</td></tr>
-<tr><td>Aruba[^t-8]</td><td>1. Januar 2019</td></tr>
-<tr><td>Aserbaidschan[^t-9]</td><td>1. Januar 2020</td></tr>
-<tr><td>Australien[^t-10]</td><td>1. Januar 2017</td></tr>
-<tr><td>Bahamas[^t-11]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Bahrain[^t-12]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Barbados[^t-13]</td><td>1. Januar 2018</td></tr>
-<tr><td>Belize[^t-14]</td><td>1. Januar 2018</td></tr>
-<tr><td>Bermuda[^t-15]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Brasilien[^t-16]</td><td>1. Januar 2018</td></tr>
-<tr><td>Britische Jungferninseln[^t-17]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Brunei Darussalam[^t-18]</td><td>1. Januar 2021</td></tr>
-<tr><td>Chile[^t-19]</td><td>1. Januar 2018</td></tr>
-<tr><td>China[^t-20]</td><td>1. Januar 2018</td></tr>
-<tr><td>Cookinseln[^t-21]</td><td>1. Januar 2018</td></tr>
-<tr><td>Costa Rica[^t-22]</td><td>1. Januar 2018</td></tr>
-<tr><td>Curaçao[^t-23]</td><td>1. Januar 2018</td></tr>
-<tr><td>Dominica[^t-24]</td><td>1. Januar 2020</td></tr>
-<tr><td>Ecuador[^t-25]</td><td>1. Januar 2023</td></tr>
-<tr><td>Färöer-Inseln[^t-26]</td><td>1. Januar 2018</td></tr>
-<tr><td>Georgien[^t-27]</td><td>1. Januar 2025</td></tr>
-<tr><td>Ghana[^t-28]</td><td>1. Januar 2020</td></tr>
-<tr><td>Grenada[^t-29]</td><td>1. Januar 2019</td></tr>
-<tr><td>Grönland[^t-30]</td><td>1. Januar 2018</td></tr>
-<tr><td>Guernsey[^t-31]</td><td>1. Januar 2017</td></tr>
-<tr><td>Hong Kong[^t-32]</td><td>1. Januar 2024</td></tr>
-<tr><td>Indien[^t-33]</td><td>1. Januar 2018</td></tr>
-<tr><td>Indonesien[^t-34]</td><td>1. Januar 2018</td></tr>
-<tr><td>Insel Man[^t-35]</td><td>1. Januar 2017</td></tr>
-<tr><td>Island[^t-36]</td><td>1. Januar 2017</td></tr>
-<tr><td>Israel[^t-37]</td><td>1. Januar 2019</td></tr>
-<tr><td>Jamaica[^t-38]</td><td>1. Januar 2023</td></tr>
-<tr><td>Japan[^t-39]</td><td>1. Januar 2017</td></tr>
-<tr><td>Jersey[^t-40]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kaimaninseln[^t-41]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Kanada[^t-42]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kasachstan[^t-43]</td><td>1. Januar 2022</td></tr>
-<tr><td>Katar[^t-44]</td><td>1. Januar 2019</td></tr>
-<tr><td>Kenia[^t-45]</td><td>1. Januar 2024</td></tr>
-<tr><td>Kolumbien[^t-46]</td><td>1. Januar 2018</td></tr>
-<tr><td>Korea (Süd)[^t-47]</td><td>1. Januar 2017</td></tr>
-<tr><td>Kuwait[^t-48]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Libanon[^t-49]</td><td>1. Januar 2020</td></tr>
-<tr><td>Liechtenstein[^t-50]</td><td>1. Januar 2018</td></tr>
-<tr><td>Macao[^t-51]</td><td>1. Januar 2020</td></tr>
-<tr><td>Malaysia[^t-52]</td><td>1. Januar 2018</td></tr>
-<tr><td>Malediven[^t-53]</td><td>1. Januar 2022</td></tr>
-<tr><td>Marshallinseln[^t-54]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Mauritius[^t-55]</td><td>1. Januar 2018</td></tr>
-<tr><td>Mexiko[^t-56]</td><td>1. Januar 2018</td></tr>
-<tr><td>Moldau[^t-57]</td><td>1. Januar 2025</td></tr>
-<tr><td>Monaco[^t-58]</td><td>1. Januar 2018</td></tr>
-<tr><td>Montserrat[^t-59]</td><td>1. Januar 2018</td></tr>
-<tr><td>Nauru[^t-60]</td><td>1. Januar 2019\*</td></tr>
-<tr><td>Neukaledonien[^t-61]</td><td>1. Januar 2023\*</td></tr>
-<tr><td>Neuseeland[^t-62]</td><td>1. Januar 2018</td></tr>
-<tr><td>Niederländische Überseegemeinden Bonaire, Saint Eustatius und Saba[^t-63]</td><td>1. Januar 2019</td></tr>
-<tr><td>Nigeria[^t-64]</td><td>1. Januar 2021</td></tr>
-<tr><td>Norwegen[^t-65]</td><td>1. Januar 2017</td></tr>
-<tr><td>Oman[^t-66]</td><td>1. Januar 2022</td></tr>
-<tr><td>Pakistan[^t-67]</td><td>1. Januar 2020</td></tr>
-<tr><td>Panama[^t-68]</td><td>1. Januar 2019</td></tr>
-<tr><td>Peru[^t-69]</td><td>1. Januar 2021</td></tr>
-<tr><td>Russland[^t-70]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Kitts und Nevis[^t-71]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Lucia[^t-72]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saint Vincent und die Grenadinen[^t-73]</td><td>1. Januar 2018</td></tr>
-<tr><td>Samoa[^t-74]</td><td>1. Januar 2020</td></tr>
-<tr><td>San Marino[^t-75]</td><td>1. Januar 2018</td></tr>
-<tr><td>Saudi-Arabien[^t-76]</td><td>1. Januar 2018</td></tr>
-<tr><td>Seychellen[^t-77]</td><td>1. Januar 2018</td></tr>
-<tr><td>Singapur[^t-78]</td><td>1. Januar 2024</td></tr>
-<tr><td>Sint Maarten[^t-79]</td><td>1. Januar 2023</td></tr>
-<tr><td>Südafrika[^t-80]</td><td>1. Januar 2018</td></tr>
-<tr><td>Thailand[^t-81]</td><td>1. Januar 2024</td></tr>
-<tr><td>Türkei[^t-82]</td><td>1. Januar 2021</td></tr>
-<tr><td>Turks- und Caicos-Inseln[^t-83]</td><td>1. Januar 2018\*</td></tr>
-<tr><td>Ukraine[^t-84]</td><td>1. Januar 2025</td></tr>
-<tr><td>Uruguay[^t-85]</td><td>1. Januar 2018</td></tr>
-<tr><td>Vanuatu[^t-86]</td><td>1. Januar 2020\*</td></tr>
-<tr><td>Vereinigte Arabische Emirate[^t-87]</td><td>1. Januar 2019\*</td></tr>
-<tr><td colspan="2">\* Diese Staaten und Territorien wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 7 (1)(b) der Multilateralen Vereinbarung ständig in nichtreziproker Weise an. Dies bedeutet, dass sie keine Daten über Finanzkonten von der Schweiz erhalten, der Schweiz aber solche Informationen übermitteln werden.</td></tr>
+<tr><td>Albanien[^t-4]</td><td>1. Januar 2021</td></tr>
+<tr><td>Andorra[^t-5]</td><td>1. Januar 2018</td></tr>
+<tr><td>Anguilla[^t-6]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Antigua und Barbuda[^t-7]</td><td>1. Januar 2019</td></tr>
+<tr><td>Argentinien[^t-8]</td><td>1. Januar 2018</td></tr>
+<tr><td>Aruba[^t-9]</td><td>1. Januar 2019</td></tr>
+<tr><td>Aserbaidschan[^t-10]</td><td>1. Januar 2020</td></tr>
+<tr><td>Australien[^t-11]</td><td>1. Januar 2017</td></tr>
+<tr><td>Bahamas[^t-12]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Bahrain[^t-13]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Barbados[^t-14]</td><td>1. Januar 2018</td></tr>
+<tr><td>Belize[^t-15]</td><td>1. Januar 2018</td></tr>
+<tr><td>Bermuda[^t-16]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Brasilien[^t-17]</td><td>1. Januar 2018</td></tr>
+<tr><td>Britische Jungferninseln[^t-18]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Brunei Darussalam[^t-19]</td><td>1. Januar 2021</td></tr>
+<tr><td>Chile[^t-20]</td><td>1. Januar 2018</td></tr>
+<tr><td>China[^t-21]</td><td>1. Januar 2018</td></tr>
+<tr><td>Cookinseln[^t-22]</td><td>1. Januar 2018</td></tr>
+<tr><td>Costa Rica[^t-23]</td><td>1. Januar 2018</td></tr>
+<tr><td>Curaçao[^t-24]</td><td>1. Januar 2018</td></tr>
+<tr><td>Dominica[^t-25]</td><td>1. Januar 2020</td></tr>
+<tr><td>Ecuador[^t-26]</td><td>1. Januar 2023</td></tr>
+<tr><td>Färöer-Inseln[^t-27]</td><td>1. Januar 2018</td></tr>
+<tr><td>Georgien[^t-28]</td><td>1. Januar 2025</td></tr>
+<tr><td>Ghana[^t-29]</td><td>1. Januar 2020</td></tr>
+<tr><td>Grenada[^t-30]</td><td>1. Januar 2019</td></tr>
+<tr><td>Grönland[^t-31]</td><td>1. Januar 2018</td></tr>
+<tr><td>Guernsey[^t-32]</td><td>1. Januar 2017</td></tr>
+<tr><td>Hong Kong[^t-33]</td><td>1. Januar 2024</td></tr>
+<tr><td>Indien[^t-34]</td><td>1. Januar 2018</td></tr>
+<tr><td>Indonesien[^t-35]</td><td>1. Januar 2018</td></tr>
+<tr><td>Insel Man[^t-36]</td><td>1. Januar 2017</td></tr>
+<tr><td>Island[^t-37]</td><td>1. Januar 2017</td></tr>
+<tr><td>Israel[^t-38]</td><td>1. Januar 2019</td></tr>
+<tr><td>Jamaica[^t-39]</td><td>1. Januar 2023</td></tr>
+<tr><td>Japan[^t-40]</td><td>1. Januar 2017</td></tr>
+<tr><td>Jersey[^t-41]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kaimaninseln[^t-42]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Kanada[^t-43]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kasachstan[^t-44]</td><td>1. Januar 2022</td></tr>
+<tr><td>Katar[^t-45]</td><td>1. Januar 2019</td></tr>
+<tr><td>Kenia[^t-46]</td><td>1. Januar 2024</td></tr>
+<tr><td>Kolumbien[^t-47]</td><td>1. Januar 2018</td></tr>
+<tr><td>Korea (Süd)[^t-48]</td><td>1. Januar 2017</td></tr>
+<tr><td>Kuwait[^t-49]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Libanon[^t-50]</td><td>1. Januar 2020</td></tr>
+<tr><td>Liechtenstein[^t-51]</td><td>1. Januar 2018</td></tr>
+<tr><td>Macao[^t-52]</td><td>1. Januar 2020</td></tr>
+<tr><td>Malaysia[^t-53]</td><td>1. Januar 2018</td></tr>
+<tr><td>Malediven[^t-54]</td><td>1. Januar 2022</td></tr>
+<tr><td>Marshallinseln[^t-55]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Mauritius[^t-56]</td><td>1. Januar 2018</td></tr>
+<tr><td>Mexiko[^t-57]</td><td>1. Januar 2018</td></tr>
+<tr><td>Moldau[^t-58]</td><td>1. Januar 2025</td></tr>
+<tr><td>Monaco[^t-59]</td><td>1. Januar 2018</td></tr>
+<tr><td>Montserrat[^t-60]</td><td>1. Januar 2018</td></tr>
+<tr><td>Nauru[^t-61]</td><td>1. Januar 2019\*</td></tr>
+<tr><td>Neukaledonien[^t-62]</td><td>1. Januar 2023\*</td></tr>
+<tr><td>Neuseeland[^t-63]</td><td>1. Januar 2018</td></tr>
+<tr><td>Niederländische Überseegemeinden Bonaire, Saint Eustatius und Saba[^t-64]</td><td>1. Januar 2019</td></tr>
+<tr><td>Nigeria[^t-65]</td><td>1. Januar 2021</td></tr>
+<tr><td>Norwegen[^t-66]</td><td>1. Januar 2017</td></tr>
+<tr><td>Oman[^t-67]</td><td>1. Januar 2022</td></tr>
+<tr><td>Pakistan[^t-68]</td><td>1. Januar 2020</td></tr>
+<tr><td>Panama[^t-69]</td><td>1. Januar 2019</td></tr>
+<tr><td>Peru[^t-70]</td><td>1. Januar 2021</td></tr>
+<tr><td>Russland[^t-71]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Kitts und Nevis[^t-72]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Lucia[^t-73]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saint Vincent und die Grenadinen[^t-74]</td><td>1. Januar 2018</td></tr>
+<tr><td>Samoa[^t-75]</td><td>1. Januar 2020</td></tr>
+<tr><td>San Marino[^t-76]</td><td>1. Januar 2018</td></tr>
+<tr><td>Saudi-Arabien[^t-77]</td><td>1. Januar 2018</td></tr>
+<tr><td>Seychellen[^t-78]</td><td>1. Januar 2018</td></tr>
+<tr><td>Singapur[^t-79]</td><td>1. Januar 2024</td></tr>
+<tr><td>Sint Maarten[^t-80]</td><td>1. Januar 2023</td></tr>
+<tr><td>Südafrika[^t-81]</td><td>1. Januar 2018</td></tr>
+<tr><td>Thailand[^t-82]</td><td>1. Januar 2024</td></tr>
+<tr><td>Trinidad und Tobago[^t-83]</td><td>1. Januar 2026\*</td></tr>
+<tr><td>Türkei[^t-84]</td><td>1. Januar 2021</td></tr>
+<tr><td>Turks- und Caicos-Inseln[^t-85]</td><td>1. Januar 2018\*</td></tr>
+<tr><td>Uganda[^t-86]</td><td>1. Januar 2026</td></tr>
+<tr><td>Ukraine[^t-87]</td><td>1. Januar 2025</td></tr>
+<tr><td>Uruguay[^t-88]</td><td>1. Januar 2018</td></tr>
+<tr><td>Vanuatu[^t-89]</td><td>1. Januar 2020\*</td></tr>
+<tr><td>Vereinigte Arabische Emirate[^t-90]</td><td>1. Januar 2019\*</td></tr>
+<tr><td colspan="2">\* Diese Staaten und Territorien wenden den automatischen Informationsaustausch gestützt auf eine Notifikation gemäss Abschnitt 7 (1)(b) der Multilateralen Vereinbarung in nichtreziproker Weise an. Dies bedeutet, dass sie keine Daten über Finanzkonten von der Schweiz erhalten, der Schweiz aber solche Informationen übermitteln werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36); [2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107); [2024 15](https://fedlex.data.admin.ch/eli/oc/2024/15); [2025 80](https://fedlex.data.admin.ch/eli/oc/2025/80). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)).
-[^t-3]: BB vom 10. Dez. 2019 ([AS 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764))
-[^t-4]: BB vom 5. Dez. 2017 ([AS 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841))
-[^t-5]: BB vom 13. Dez. 2018 ([AS 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10))
-[^t-6]: BB vom 5. Dez. 2017 ([AS 2017 7677](https://fedlex.data.admin.ch/eli/oc/2017/842))
-[^t-7]: BB vom 5. Dez. 2017 ([AS 2017 7679](https://fedlex.data.admin.ch/eli/oc/2017/843))
-[^t-8]: BB vom 5. Dez. 2017 ([AS 2017 7681](https://fedlex.data.admin.ch/eli/oc/2017/844))
-[^t-9]: BB vom 10. Dez 2019 ([AS 2020 231](https://fedlex.data.admin.ch/eli/oc/2020/32))
-[^t-10]: BB vom 31. Mai 2016 ([AS 2016 4795](https://fedlex.data.admin.ch/eli/oc/2016/765))
-[^t-11]: BB vom 13. Dez. 2018 ([AS 2019 91](https://fedlex.data.admin.ch/eli/oc/2019/11))
-[^t-12]: BB vom 13. Dez. 2018 ([AS 2019 93](https://fedlex.data.admin.ch/eli/oc/2019/12))
-[^t-13]: BB vom 5. Dez. 2017 ([AS 2017 7683](https://fedlex.data.admin.ch/eli/oc/2017/845))
-[^t-14]: BB vom 5. Dez. 2017 ([AS 2017 7685](https://fedlex.data.admin.ch/eli/oc/2017/846))
-[^t-15]: BB vom 5. Dez. 2017 ([AS 2017 7687](https://fedlex.data.admin.ch/eli/oc/2017/847))
-[^t-16]: BB vom 5. Dez. 2017 ([AS 2017 7689](https://fedlex.data.admin.ch/eli/oc/2017/848))
-[^t-17]: BB vom 5. Dez. 2017 ([AS 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849))
-[^t-18]: BB vom 10. Dez. 2019 ([AS 2021 765](https://fedlex.data.admin.ch/eli/oc/2021/765))
-[^t-19]: BB vom 5. Dez. 2017 ([AS 2017 7695](https://fedlex.data.admin.ch/eli/oc/2017/851))
-[^t-20]: BB vom 5. Dez. 2017 ([AS 2017 7697](https://fedlex.data.admin.ch/eli/oc/2017/852))
-[^t-21]: BB vom 5. Dez. 2017 ([AS 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853))
-[^t-22]: BB vom 5. Dez. 2017 ([AS 2017 7701](https://fedlex.data.admin.ch/eli/oc/2017/854))
-[^t-23]: BB vom 5. Dez. 2017 ([AS 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855))
-[^t-24]: BB vom 10. Dez 2019 ([AS 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33))
-[^t-25]: BB vom 8. Dez. 2022 ([AS 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103))
-[^t-26]: BB vom 5. Dez. 2017 ([AS 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856))
-[^t-27]: BB vom 8. Dez. 2022 ([AS 2025 77](https://fedlex.data.admin.ch/eli/oc/2025/77))
-[^t-28]: BB vom 10. Dez 2019 ([AS 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34))
-[^t-29]: BB vom 5. Dez. 2017 ([AS 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857))
-[^t-30]: BB vom 5. Dez. 2017 ([AS 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858))
-[^t-31]: BB vom 12. Dez. 2016 ([AS 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843))
-[^t-32]: BB vom 13. Dez. 2018 ([AS 2024 16](https://fedlex.data.admin.ch/eli/oc/2024/16))
-[^t-33]: BB vom 5. Dez. 2017 ([AS 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859))
-[^t-34]: BB vom 5. Dez. 2017 ([AS 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860))
-[^t-35]: BB vom 12. Dez. 2016 ([AS 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844))
-[^t-36]: BB vom 12. Dez. 2016 ([AS 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845))
-[^t-37]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9))
-[^t-38]: BB vom 8. Dez. 2022 ([AS 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104))
-[^t-39]: BB vom 12. Dez. 2016 ([AS 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846))
-[^t-40]: BB vom 12. Dez. 2016 ([AS 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847))
-[^t-41]: BB vom 5. Dez. 2017 ([AS 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850))
-[^t-42]: BB vom 12. Dez. 2016 ([AS 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841))
-[^t-43]: BB vom 10. Dez. 2019 ([AS 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33))
-[^t-44]: BB vom 13. Dez. 2018 ([AS 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13))
-[^t-45]: BB vom 8. Dez. 2022 ([AS 2024 17](https://fedlex.data.admin.ch/eli/oc/2024/17))
-[^t-46]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861))
-[^t-47]: BB vom 12. Dez. 2016 ([AS 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842))
-[^t-48]: BB vom 13. Dez. 2018 ([AS 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14))
-[^t-49]: BB vom 10. Dez 2019 ([AS 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35))
-[^t-50]: BB vom 5. Dez. 2017 ([AS 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863))
-[^t-51]: BB vom 10. Dez 2019 ([AS 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36))
-[^t-52]: BB vom 5. Dez. 2017 ([AS 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864))
-[^t-53]: BB vom 10. Dez. 2019 ([AS 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34))
-[^t-54]: BB vom 5. Dez. 2017 ([AS 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865))
-[^t-55]: BB vom 5. Dez. 2017 ([AS 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866))
-[^t-56]: BB vom 5. Dez. 2017 ([AS 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867))
-[^t-57]: BB vom 8. Dez. 2022 ([AS 2025 78](https://fedlex.data.admin.ch/eli/oc/2025/78))
-[^t-58]: BB vom 5. Dez. 2017 ([AS 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868))
-[^t-59]: BB vom 5. Dez. 2017 ([AS 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869))
-[^t-60]: BB vom 13. Dez. 2018 ([AS 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15))
-[^t-61]: BB vom 8. Dez. 2022 ([AS 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105))
-[^t-62]: BB vom 12. Dez. 2017 ([AS 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870))
-[^t-63]: BB vom 13. Dez. 2018 ([AS 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16))
-[^t-64]: BB vom 10. Dez. 2019 ([AS 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766))
-[^t-65]: BB vom 12. Dez. 2016 ([AS 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848))
-[^t-66]: BB vom 10. Dez. 2019 ([AS 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35))
-[^t-67]: BB vom 10. Dez 2019 ([AS 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37))
-[^t-68]: BB vom 13. Dez. 2018 ([AS 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17))
-[^t-69]: BB vom 10. Dez. 2019 ([AS 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767))
-[^t-70]: BB vom 5. Dez. 2017 ([AS 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871))
-[^t-71]: BB vom 5. Dez. 2017 ([AS 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872))
-[^t-72]: BB vom 5. Dez. 2017 ([AS 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873))
-[^t-73]: BB vom 5. Dez. 2017 ([AS 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874))
-[^t-74]: BB vom 10. Dez 2019 ([AS 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38))
-[^t-75]: BB vom 5. Dez. 2017 ([AS 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875))
-[^t-76]: BB vom 6. Dez. 2017 ([AS 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876))
-[^t-77]: BB vom 5. Dez. 2017 ([AS 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877))
-[^t-78]: BB vom 13. Dez. 2018 ([AS 2024 18](https://fedlex.data.admin.ch/eli/oc/2024/18))
-[^t-79]: BB vom 10. Dez. 2019 ([AS 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106))
-[^t-80]: BB vom 5. Dez. 2017 ([AS 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878))
-[^t-81]: BB vom 8. Dez. 2022 ([AS 2024 19](https://fedlex.data.admin.ch/eli/oc/2024/19))
-[^t-82]: BB vom 3. März 2020 ([AS 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768))
-[^t-83]: BB vom 5. Dez. 2017 ([AS 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879))
-[^t-84]: BB vom 8. Dez. 2022 ([AS 2025 79](https://fedlex.data.admin.ch/eli/oc/2025/79))
-[^t-85]: BB vom 5. Dez. 2017 ([AS 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880))
-[^t-86]: BB vom 10. Dez 2019 ([AS 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39))
-[^t-87]: BB vom 5. Dez. 2017 ([AS 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881))
+[^t-3]: [AS 2016 4721](https://fedlex.data.admin.ch/eli/oc/2016/759); [2017 7673](https://fedlex.data.admin.ch/eli/oc/2017/840); [2018 75](https://fedlex.data.admin.ch/eli/oc/2018/24); [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9); [2020 247](https://fedlex.data.admin.ch/eli/oc/2020/40); [2021 769](https://fedlex.data.admin.ch/eli/oc/2021/769); [2022 36](https://fedlex.data.admin.ch/eli/oc/2022/36); [2023 107](https://fedlex.data.admin.ch/eli/oc/2023/107); [2024 15](https://fedlex.data.admin.ch/eli/oc/2024/15); [2025 80](https://fedlex.data.admin.ch/eli/oc/2025/80); [2026 56](https://fedlex.data.admin.ch/eli/oc/2026/56). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: BB vom 10. Dez. 2019 ([AS 2021 764](https://fedlex.data.admin.ch/eli/oc/2021/764))
+[^t-5]: BB vom 5. Dez. 2017 ([AS 2017 7675](https://fedlex.data.admin.ch/eli/oc/2017/841))
+[^t-6]: BB vom 13. Dez. 2018 ([AS 2019 89](https://fedlex.data.admin.ch/eli/oc/2019/10))
+[^t-7]: BB vom 5. Dez. 2017 ([AS 2017 7677](https://fedlex.data.admin.ch/eli/oc/2017/842))
+[^t-8]: BB vom 5. Dez. 2017 ([AS 2017 7679](https://fedlex.data.admin.ch/eli/oc/2017/843))
+[^t-9]: BB vom 5. Dez. 2017 ([AS 2017 7681](https://fedlex.data.admin.ch/eli/oc/2017/844))
+[^t-10]: BB vom 10. Dez 2019 ([AS 2020 231](https://fedlex.data.admin.ch/eli/oc/2020/32))
+[^t-11]: BB vom 31. Mai 2016 ([AS 2016 4795](https://fedlex.data.admin.ch/eli/oc/2016/765))
+[^t-12]: BB vom 13. Dez. 2018 ([AS 2019 91](https://fedlex.data.admin.ch/eli/oc/2019/11))
+[^t-13]: BB vom 13. Dez. 2018 ([AS 2019 93](https://fedlex.data.admin.ch/eli/oc/2019/12))
+[^t-14]: BB vom 5. Dez. 2017 ([AS 2017 7683](https://fedlex.data.admin.ch/eli/oc/2017/845))
+[^t-15]: BB vom 5. Dez. 2017 ([AS 2017 7685](https://fedlex.data.admin.ch/eli/oc/2017/846))
+[^t-16]: BB vom 5. Dez. 2017 ([AS 2017 7687](https://fedlex.data.admin.ch/eli/oc/2017/847))
+[^t-17]: BB vom 5. Dez. 2017 ([AS 2017 7689](https://fedlex.data.admin.ch/eli/oc/2017/848))
+[^t-18]: BB vom 5. Dez. 2017 ([AS 2017 7691](https://fedlex.data.admin.ch/eli/oc/2017/849))
+[^t-19]: BB vom 10. Dez. 2019 ([AS 2021 765](https://fedlex.data.admin.ch/eli/oc/2021/765))
+[^t-20]: BB vom 5. Dez. 2017 ([AS 2017 7695](https://fedlex.data.admin.ch/eli/oc/2017/851))
+[^t-21]: BB vom 5. Dez. 2017 ([AS 2017 7697](https://fedlex.data.admin.ch/eli/oc/2017/852))
+[^t-22]: BB vom 5. Dez. 2017 ([AS 2017 7699](https://fedlex.data.admin.ch/eli/oc/2017/853))
+[^t-23]: BB vom 5. Dez. 2017 ([AS 2017 7701](https://fedlex.data.admin.ch/eli/oc/2017/854))
+[^t-24]: BB vom 5. Dez. 2017 ([AS 2017 7703](https://fedlex.data.admin.ch/eli/oc/2017/855))
+[^t-25]: BB vom 10. Dez 2019 ([AS 2020 233](https://fedlex.data.admin.ch/eli/oc/2020/33))
+[^t-26]: BB vom 8. Dez. 2022 ([AS 2023 103](https://fedlex.data.admin.ch/eli/oc/2023/103))
+[^t-27]: BB vom 5. Dez. 2017 ([AS 2017 7705](https://fedlex.data.admin.ch/eli/oc/2017/856))
+[^t-28]: BB vom 8. Dez. 2022 ([AS 2025 77](https://fedlex.data.admin.ch/eli/oc/2025/77))
+[^t-29]: BB vom 10. Dez 2019 ([AS 2020 235](https://fedlex.data.admin.ch/eli/oc/2020/34))
+[^t-30]: BB vom 5. Dez. 2017 ([AS 2017 7707](https://fedlex.data.admin.ch/eli/oc/2017/857))
+[^t-31]: BB vom 5. Dez. 2017 ([AS 2017 7709](https://fedlex.data.admin.ch/eli/oc/2017/858))
+[^t-32]: BB vom 12. Dez. 2016 ([AS 2016 5311](https://fedlex.data.admin.ch/eli/oc/2016/843))
+[^t-33]: BB vom 13. Dez. 2018 ([AS 2024 16](https://fedlex.data.admin.ch/eli/oc/2024/16))
+[^t-34]: BB vom 5. Dez. 2017 ([AS 2017 7711](https://fedlex.data.admin.ch/eli/oc/2017/859))
+[^t-35]: BB vom 5. Dez. 2017 ([AS 2017 7713](https://fedlex.data.admin.ch/eli/oc/2017/860))
+[^t-36]: BB vom 12. Dez. 2016 ([AS 2016 5313](https://fedlex.data.admin.ch/eli/oc/2016/844))
+[^t-37]: BB vom 12. Dez. 2016 ([AS 2016 5315](https://fedlex.data.admin.ch/eli/oc/2016/845))
+[^t-38]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861), [2019 87](https://fedlex.data.admin.ch/eli/oc/2019/9))
+[^t-39]: BB vom 8. Dez. 2022 ([AS 2023 104](https://fedlex.data.admin.ch/eli/oc/2023/104))
+[^t-40]: BB vom 12. Dez. 2016 ([AS 2016 5317](https://fedlex.data.admin.ch/eli/oc/2016/846))
+[^t-41]: BB vom 12. Dez. 2016 ([AS 2016 5319](https://fedlex.data.admin.ch/eli/oc/2016/847))
+[^t-42]: BB vom 5. Dez. 2017 ([AS 2017 7693](https://fedlex.data.admin.ch/eli/oc/2017/850))
+[^t-43]: BB vom 12. Dez. 2016 ([AS 2016 5307](https://fedlex.data.admin.ch/eli/oc/2016/841))
+[^t-44]: BB vom 10. Dez. 2019 ([AS 2022 33](https://fedlex.data.admin.ch/eli/oc/2022/33))
+[^t-45]: BB vom 13. Dez. 2018 ([AS 2019 95](https://fedlex.data.admin.ch/eli/oc/2019/13))
+[^t-46]: BB vom 8. Dez. 2022 ([AS 2024 17](https://fedlex.data.admin.ch/eli/oc/2024/17))
+[^t-47]: BB vom 5. Dez. 2017 ([AS 2017 7715](https://fedlex.data.admin.ch/eli/oc/2017/861))
+[^t-48]: BB vom 12. Dez. 2016 ([AS 2016 5309](https://fedlex.data.admin.ch/eli/oc/2016/842))
+[^t-49]: BB vom 13. Dez. 2018 ([AS 2019 97](https://fedlex.data.admin.ch/eli/oc/2019/14))
+[^t-50]: BB vom 10. Dez 2019 ([AS 2020 237](https://fedlex.data.admin.ch/eli/oc/2020/35))
+[^t-51]: BB vom 5. Dez. 2017 ([AS 2017 7719](https://fedlex.data.admin.ch/eli/oc/2017/863))
+[^t-52]: BB vom 10. Dez 2019 ([AS 2020 239](https://fedlex.data.admin.ch/eli/oc/2020/36))
+[^t-53]: BB vom 5. Dez. 2017 ([AS 2017 7721](https://fedlex.data.admin.ch/eli/oc/2017/864))
+[^t-54]: BB vom 10. Dez. 2019 ([AS 2022 34](https://fedlex.data.admin.ch/eli/oc/2022/34))
+[^t-55]: BB vom 5. Dez. 2017 ([AS 2017 7723](https://fedlex.data.admin.ch/eli/oc/2017/865))
+[^t-56]: BB vom 5. Dez. 2017 ([AS 2017 7725](https://fedlex.data.admin.ch/eli/oc/2017/866))
+[^t-57]: BB vom 5. Dez. 2017 ([AS 2017 7727](https://fedlex.data.admin.ch/eli/oc/2017/867))
+[^t-58]: BB vom 8. Dez. 2022 ([AS 2025 78](https://fedlex.data.admin.ch/eli/oc/2025/78))
+[^t-59]: BB vom 5. Dez. 2017 ([AS 2017 7729](https://fedlex.data.admin.ch/eli/oc/2017/868))
+[^t-60]: BB vom 5. Dez. 2017 ([AS 2017 7731](https://fedlex.data.admin.ch/eli/oc/2017/869))
+[^t-61]: BB vom 13. Dez. 2018 ([AS 2019 99](https://fedlex.data.admin.ch/eli/oc/2019/15))
+[^t-62]: BB vom 8. Dez. 2022 ([AS 2023 105](https://fedlex.data.admin.ch/eli/oc/2023/105))
+[^t-63]: BB vom 12. Dez. 2017 ([AS 2017 7733](https://fedlex.data.admin.ch/eli/oc/2017/870))
+[^t-64]: BB vom 13. Dez. 2018 ([AS 2019 101](https://fedlex.data.admin.ch/eli/oc/2019/16))
+[^t-65]: BB vom 10. Dez. 2019 ([AS 2021 766](https://fedlex.data.admin.ch/eli/oc/2021/766))
+[^t-66]: BB vom 12. Dez. 2016 ([AS 2016 5321](https://fedlex.data.admin.ch/eli/oc/2016/848))
+[^t-67]: BB vom 10. Dez. 2019 ([AS 2022 35](https://fedlex.data.admin.ch/eli/oc/2022/35))
+[^t-68]: BB vom 10. Dez 2019 ([AS 2020 241](https://fedlex.data.admin.ch/eli/oc/2020/37))
+[^t-69]: BB vom 13. Dez. 2018 ([AS 2019 103](https://fedlex.data.admin.ch/eli/oc/2019/17))
+[^t-70]: BB vom 10. Dez. 2019 ([AS 2021 767](https://fedlex.data.admin.ch/eli/oc/2021/767))
+[^t-71]: BB vom 5. Dez. 2017 ([AS 2017 7735](https://fedlex.data.admin.ch/eli/oc/2017/871))
+[^t-72]: BB vom 5. Dez. 2017 ([AS 2017 7737](https://fedlex.data.admin.ch/eli/oc/2017/872))
+[^t-73]: BB vom 5. Dez. 2017 ([AS 2017 7739](https://fedlex.data.admin.ch/eli/oc/2017/873))
+[^t-74]: BB vom 5. Dez. 2017 ([AS 2017 7741](https://fedlex.data.admin.ch/eli/oc/2017/874))
+[^t-75]: BB vom 10. Dez 2019 ([AS 2020 243](https://fedlex.data.admin.ch/eli/oc/2020/38))
+[^t-76]: BB vom 5. Dez. 2017 ([AS 2017 7743](https://fedlex.data.admin.ch/eli/oc/2017/875))
+[^t-77]: BB vom 6. Dez. 2017 ([AS 2017 7745](https://fedlex.data.admin.ch/eli/oc/2017/876))
+[^t-78]: BB vom 5. Dez. 2017 ([AS 2017 7747](https://fedlex.data.admin.ch/eli/oc/2017/877))
+[^t-79]: BB vom 13. Dez. 2018 ([AS 2024 18](https://fedlex.data.admin.ch/eli/oc/2024/18))
+[^t-80]: BB vom 10. Dez. 2019 ([AS 2023 106](https://fedlex.data.admin.ch/eli/oc/2023/106))
+[^t-81]: BB vom 5. Dez. 2017 ([AS 2017 7749](https://fedlex.data.admin.ch/eli/oc/2017/878))
+[^t-82]: BB vom 8. Dez. 2022 ([AS 2024 19](https://fedlex.data.admin.ch/eli/oc/2024/19))
+[^t-83]: BB vom 10. Dez. 2019 ([AS 2026 54](https://fedlex.data.admin.ch/eli/oc/2026/54))
+[^t-84]: BB vom 3. März 2020 ([AS 2021 768](https://fedlex.data.admin.ch/eli/oc/2021/768))
+[^t-85]: BB vom 5. Dez. 2017 ([AS 2017 7751](https://fedlex.data.admin.ch/eli/oc/2017/879))
+[^t-86]: BB vom 8. Dez. 2022 ([AS 2026 55](https://fedlex.data.admin.ch/eli/oc/2026/55))
+[^t-87]: BB vom 8. Dez. 2022 ([AS 2025 79](https://fedlex.data.admin.ch/eli/oc/2025/79))
+[^t-88]: BB vom 5. Dez. 2017 ([AS 2017 7753](https://fedlex.data.admin.ch/eli/oc/2017/880))
+[^t-89]: BB vom 10. Dez 2019 ([AS 2020 245](https://fedlex.data.admin.ch/eli/oc/2020/39))
+[^t-90]: BB vom 5. Dez. 2017 ([AS 2017 7755](https://fedlex.data.admin.ch/eli/oc/2017/881))
