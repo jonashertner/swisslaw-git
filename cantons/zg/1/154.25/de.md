@@ -4,13 +4,12 @@ number: "154.25"
 title: Gesetz über die Entschädigung der nebenamtlichen Behördenmitglieder
 short: Nebenamtsgesetz
 language: de
-version: 2009-07-11
-valid_until: 2025-12-31
-version_adopted: 2009-04-30
+version: 2026-01-01
+version_adopted: 2025-08-28
 adopted: 1994-01-27
 in_force: 1995-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/154.25"
-pdf: "https://bgs.zg.ch/api/de/versions/860/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2746/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/860/pdf_file"
 
 (Nebenamtsgesetz)
 
-Vom 27. Januar 1994 (Stand 11. Juli 2009)
+Vom 27. Januar 1994 (Stand 1. Januar 2026)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Bst. b und e der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b und e der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -65,10 +64,10 @@ beschliesst:
 
 **Kantonsratssitzungen**
 
-<sup>1</sup> Für Sitzungen des Kantonsrates beziehen pro Halbtag:
+<sup>1</sup> Für Sitzungen des Kantonsrats beziehen pro Halbtag:
 
-- a) das Präsidium: Fr. 307.–
-- b) die Mitglieder: Fr. 184.–.
+- a) das Präsidium: Fr. 500.–;
+- b) die Mitglieder: Fr. 300.–.
 
 #### § 5
 
@@ -76,12 +75,12 @@ beschliesst:
 
 <sup>1</sup> Für Sitzungen und Visitationen von kantonsrätlichen Kommissionen werden folgende Entschädigungen ausbezahlt:
 
-- a) die Präsidien und die Mitglieder für Sitzungen bis zu 2 Stunden beziehen Fr. 104.–, darüber hinaus Fr. 26.– pro halbe Stunde;
+- a) die Präsidien und die Mitglieder für Sitzungen bis zu 2 Stunden beziehen Fr. 170.–, darüber hinaus Fr. 43.– pro halbe Stunde;
 - b) Sitzungen vor und nach Kantonsratssitzungen werden pro halbe Stunde gemäss den Ansätzen von Bst. a) entschädigt.
 
-<sup>2</sup> Für das Präsidium aller Kommissionen beträgt die Vergütung für Vor- und Nachbereitung Fr. 43.– pro halbe Stunde nach effektivem Zeitaufwand.
+<sup>2</sup> Für das Präsidium aller Kommissionen beträgt die Vergütung für Vor- und Nachbereitung Fr. 52.45 pro halbe Stunde nach effektivem Zeitaufwand.
 
-<sup>3</sup> Für die Mitglieder aller Kommissionen beträgt die Vergütung für Vor- und Nachbereitung Fr. 26.– pro halbe Stunde nach Zeitaufwand. Das Kommissionspräsidium hat den Zeitaufwand zu genehmigen und gegebenenfalls zu kürzen.
+<sup>3</sup> Für die Mitglieder aller Kommissionen beträgt die Vergütung für Vor- und Nachbereitung Fr. 31.70 pro halbe Stunde nach Zeitaufwand. Das Kommissionspräsidium hat den Zeitaufwand zu genehmigen und gegebenenfalls zu kürzen.
 
 ### 2.3. Nebenamtliche Mitglieder der Gerichte
 
@@ -91,13 +90,13 @@ beschliesst:
 
 <sup>1</sup> Die nebenamtlichen Richterinnen und Richter beziehen pro Halbtag für eine Sitzung oder einen Augenschein:
 
-- a) bis zu 2 Std.: Fr. 166.–
-- b) bis zu 3 Std.: Fr. 184.–
-- c) über 3 Std.: Fr. 221.–
+- a) bis zu 2 Stunden: Fr. 260.–;
+- b) für jede weitere halbe Stunde: Fr. 65.–;
+- c) …
 
-<sup>2</sup> Für Aktenstudium werden pro Stunde Fr. 49.– vergütet.
+<sup>2</sup> Für Aktenstudium werden pro Stunde Fr. 75.– vergütet.
 
-<sup>3</sup> Für Referententätigkeit und besondere Aufträge, soweit es sich nicht um amtliche Missionen handelt, werden einschliesslich Aktenstudium pro Stunde Fr. 86.– vergütet.
+<sup>3</sup> Für Referententätigkeit und besondere Aufträge, soweit es sich nicht um amtliche Missionen handelt, werden einschliesslich Aktenstudium pro Stunde Fr. 135.– vergütet.
 
 ### 2.4. Andere Behörden, Kommissionen und Funktionen
 
@@ -107,18 +106,18 @@ beschliesst:
 
 <sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt oder besondere Verhältnisse keine abweichende Regelung erfordern, beziehen für amtliche Inanspruchnahme pro Halbtag:
 
-- a) das Präsidium: Fr. 246.–
-- b) die Mitglieder: Fr. 147.–.
+- a) das Präsidium: Fr. 390.–;
+- b) die Mitglieder: Fr. 235.–.
 
-<sup>2</sup> Für die Ausarbeitung von Kommissionsberichten sowie für besondere Aufträge, soweit es sich nicht um amtliche Missionen handelt, werden pro Stunde Fr. 86.– vergütet.
+<sup>2</sup> Für die Ausarbeitung von Kommissionsberichten sowie für besondere Aufträge, soweit es sich nicht um amtliche Missionen handelt, werden pro Stunde Fr. 135.– vergütet.
 
 ### 2.5. Amtliche Missionen
 
 #### § 8
 
-**Abordnungen**
+**Zulage für Präsidium und Vizepräsidium des Kantonsrats**
 
-<sup>1</sup> Für die Vertretung des Kantons bzw. kantonaler Behörden an besonderen Anlässen wird ein Taggeld von Fr. 184.– für den halben und Fr. 369.– für den ganzen Tag vergütet.
+<sup>1</sup> Die Präsidentin oder der Präsident des Kantonsrats erhält für die Vertretung des Kantons an Anlässen eine pauschale Jahreszulage von Fr. 20'000.–, und die Vizepräsidentin oder der Vizepräsident des Kantonsrats erhält eine solche von Fr. 5000.–.
 
 ### 2.6. Teuerungsausgleich, Spesenersatz und Weiterbildungskosten
 
@@ -126,7 +125,7 @@ beschliesst:
 
 **Teuerungsausgleich**
 
-<sup>1</sup> Die Entschädigungen basieren auf einem Landesindex der Konsumentenpreise von 100,28 Indexpunkten (Ende Mai 1993 = 100).
+<sup>1</sup> Die Entschädigungen basieren auf einem Landesindex der Konsumentenpreise von 107.8 Punkten (Dezember 2020 = 100).
 
 <sup>2</sup> Die nebenamtlichen Behördenmitglieder haben denselben Anspruch auf Teuerungszulagen wie das Staatspersonal.
 
@@ -200,22 +199,10 @@ beschliesst:
 - c) Erfolgte der Rücktritt nach Vollendung des 62. Altersjahres, so besteht unabhängig von der Mindestamtsdauer Anspruch auf eine Rente in Höhe der Invalidenrente zuzüglich 10 Prozent.
 - d) Der Kanton erstattet der Kasse nach Massgabe der versicherungstechnischen Berechnungen die Ausfälle sowie die Versicherungsleistungen zurück, die über die im Pensionskassengesetz vorgesehenen Leistungen hinausgehen.
 
-## 4. Schlussbestimmungen
+## 4.
 
 #### § 14
 
-**Inkrafttreten**
-
-<sup>1</sup> Dieses Gesetz tritt unter Vorbehalt des Referendums am 1. Januar 1995 in Kraft; § 6 am 1. Januar 1994.
-
-<sup>2</sup> Auf den 1. Januar 1995 werden das Gesetz über die Besoldung der Behörden, Beamten und Angestellten im Nebenamt vom 2. Oktober 1975[^14-1] mit den Änderungen vom 29. Oktober 1981[^14-2], 28. Januar 1982[^14-3], 24. November 1988[^14-4] und 26. April 1990[^14-5] sowie der Kantonsratsbeschluss betreffend Entschädigung von Praxis-Stillstandskosten für den Kantonsarzt und den Kantonsarzt-Adjunkten I vom 23. Mai 1991[^14-6] aufgehoben; § 15 des Nebenamtsgesetzes in der Fassung vom 24. November 1988[^14-7] bereits auf den 1. Januar 1994.
-
-[^14-1]: GS 20, 595
-[^14-2]: GS 22, 179
-[^14-3]: GS 22, 225
-[^14-4]: GS 23, 261
-[^14-5]: GS 23, 541
-[^14-6]: GS 23, 773
-[^14-7]: GS 23, 261
+**…**
 
 GS 24, 375
