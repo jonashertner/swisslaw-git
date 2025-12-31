@@ -4,11 +4,11 @@ title: "Legge federale dell' 11 dicembre 2009 sulla promozione della cultura (Le
 short: LPCu
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: it
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2011-854-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/it"
 
 (Legge sulla promozione della cultura, LPCu)
 
-dell’11 dicembre 2009 (Stato 1° gennaio 2022)
+dell’11 dicembre 2009 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,8 +25,8 @@ visti gli articoli 67*a* capoversi 1 e 3, 69 capoverso 2 e 70 capoverso 3 della 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^ingress-3]: [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)
 [^ingress-4]: [FF 2007 4459](https://fedlex.data.admin.ch/eli/fga/2007/683)
 
@@ -50,8 +50,8 @@ La presente legge disciplina:
 
 - b. l’organizzazione della Fondazione Pro Helvetia.
 
-[^1-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
-[^1-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^1-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^1-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 2
 
@@ -71,14 +71,14 @@ La presente legge disciplina:
 
 <sup>2</sup> Sono tuttavia applicabili le disposizioni concernenti il finanziamento di cui all’articolo 27.
 
-[^2-1]: [RS 432.21](https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773)
-[^2-2]: [RS 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
-[^2-3]: [[RU 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514). [RU 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. n. I]
-[^2-4]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
-[^2-5]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
-[^2-6]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
-[^2-7]: Introdotta n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^2-8]: [RS 418.0](https://fedlex.data.admin.ch/eli/cc/2014/771)
+[^2-1]: [RS 432.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7073)
+[^2-2]: [RS 432.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7081)
+[^2-3]: [[RU 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514). [RU 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)all. cifra I]
+[^2-4]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
+[^2-5]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
+[^2-6]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^2-7]: Introdotta cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^2-8]: [RS 418.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6856)
 
 #### Art. 3
 
@@ -128,8 +128,8 @@ L’interesse nazionale è dato segnatamente se:
 - f. una manifestazione culturale è unica nel suo genere e ha rilevanza a livello nazionale o internazionale;
 - g. un progetto contribuisce in modo essenziale agli scambi culturali nazionali o internazionali.
 
-[^6-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^6-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^6-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^6-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 7
 
@@ -162,7 +162,7 @@ La Confederazione e la Fondazione Pro Helvetia versano una percentuale degli aiu
 <sup>2</sup> Il Consiglio federale stabilisce la percentuale di cui al capoverso 1.
 
 [^9-1]: In vigore dal 1° gen. 2013.
-[^9-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 9a
 
@@ -170,7 +170,7 @@ La Confederazione e la Fondazione Pro Helvetia versano una percentuale degli aiu
 
 La Confederazione può sostenere progetti volti a rafforzare la partecipazione della popolazione alla vita culturale.
 
-[^9a-1]: Introdotto n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^9a-1]: Introdotto cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
 #### Art. 10
 
@@ -198,9 +198,9 @@ La Confederazione può promuovere le nuove leve culturali e artistiche mediante 
 
 <sup>4</sup> Promuove i talenti musicali mediante misure specifiche.[^12-3]
 
-[^12-1]: Introdotto n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^12-2]: Introdotto n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^12-3]: Introdotto dal n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^12-1]: Introdotto cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12-2]: Introdotto cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12-3]: Introdotto dalla cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 12a
 
@@ -210,7 +210,7 @@ La Confederazione può promuovere le nuove leve culturali e artistiche mediante 
 
 <sup>2</sup> Nel fissare le tariffe tengono conto della situazione economica dei genitori o di altre persone che hanno un obbligo di mantenimento e del maggiore fabbisogno formativo dei talenti musicali.
 
-[^12a-1]: Introdotto n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12a-1]: Introdotto cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
 #### Art. 13
 
@@ -255,13 +255,13 @@ Può sostenere progetti che:
 
 La Confederazione può prendere misure al fine di promuovere la cultura degli Jenisch e dei Sinti e di permettere lo stile di vita nomade.
 
-[^17-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^17-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 18
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. I della LF del 25 set. 2020, con effetto dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^18-1]: Abrogato dalla cifra I della LF del 25 set. 2020, con effetto dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 19
 
@@ -269,7 +269,7 @@ La Confederazione può prendere misure al fine di promuovere la cultura degli Je
 
 La Confederazione può prendere misure affinché un’opera o una produzione artistica sia resa più accessibile al pubblico.
 
-[^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
 
 #### Art. 20
 
@@ -310,7 +310,7 @@ Il Consiglio federale può, al fine di promuovere le relazioni internazionali, c
 
 <sup>2</sup> Le misure di cui agli articoli 11, 16 capoverso 2 lettera b, 19, 20 e 21 sono di competenza della Fondazione Pro Helvetia (art. 31–45).
 
-[^23-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^23-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
 #### Art. 24
 
@@ -330,8 +330,8 @@ Il Dipartimento federale dell’interno (DFI) e il Dipartimento federale degli a
 
 <sup>3</sup> Gli aiuti finanziari possono essere accordati anche mediante un contratto di prestazioni ai sensi dell’articolo 16 capoverso 2 della legge del 5 ottobre 1990[^25-2] sui sussidi.
 
-[^25-1]: Nuovo testo giusta il n. I 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
-[^25-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-1]: Nuovo testo giusta la cifra I n. 1 della LF del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6109](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
+[^25-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 26
 
@@ -358,10 +358,13 @@ L’Assemblea federale autorizza i seguenti limiti di spesa e crediti d’impegn
 - a.[^27-1] limiti di spesa rispettivamente per le misure di cui agli articoli 9*a*, 10, 12–15, 16 capoversi 1 e 2 lettera a, 17 e 18 nonché per le misure di cui agli articoli 11, 16 capoverso 2 lettera b e 19–21;
 - b. limiti di spesa per i settori della promozione disciplinati in leggi speciali;
 - c. un credito d’impegno[^27-2] secondo l’articolo 16*a* della legge federale del 1° luglio 1966[^27-3] sulla protezione della natura e del paesaggio per il settore della protezione del paesaggio e della conservazione dei monumenti storici.
+- d.[^27-4] un credito d’impegno secondo gli articoli 3 e 4 della legge del 14 dicembre 2001[^27-5] sul cinema.
 
-[^27-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^27-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^27-2]: Nuova espr. giusta l’all. n. 2 della L del 19 mar. 2021, in vigore dal 1° gen. 2022 ([RU 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 333](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^27-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^27-4]: Introdotta dalla cifra I della LF del 27 set. 2024, in vigore dal 1° gen. 2026 ([RU 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^27-5]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 #### Art. 28
 
@@ -373,7 +376,7 @@ L’Assemblea federale autorizza i seguenti limiti di spesa e crediti d’impegn
 
 <sup>3</sup> Esse sono emanate in forma di ordinanza, di regola per la durata di validità dei decreti sul finanziamento di cui all’articolo 27 capoverso 3.
 
-[^28-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^28-1]: Nuovo testo giusta la cifra I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 
 #### Art. 29
 
@@ -455,7 +458,7 @@ Il consiglio di fondazione ha i compiti seguenti:
 
 <sup>6</sup> L’articolo 6*a* della legge del 24 marzo 2000[^34-1] sul personale federale (LPers) si applica per analogia agli onorari e alle altre condizioni contrattuali convenute con i membri del consiglio di fondazione.
 
-[^34-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^34-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 35
 
@@ -487,7 +490,7 @@ Il direttore presiede la direzione. Egli:
 
 <sup>4</sup> Il Consiglio federale può revocare l’ufficio di revisione per gravi motivi.
 
-[^36-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^36-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
@@ -523,7 +526,7 @@ Il direttore presiede la direzione. Egli:
 
 <sup>5</sup> Il personale della Fondazione è affiliato alla Cassa pensioni della Confederazione (PUBLICA).
 
-[^39-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^39-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### Sezione 3: Finanze
 

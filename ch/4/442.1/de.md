@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 11. Dezember 2009 über die Kulturförderung (Kulturfö
 short: KFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: de
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2011-854-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/de"
 
 (Kulturförderungsgesetz, KFG)
 
-vom 11. Dezember 2009 (Stand am 1. Januar 2022)
+vom 11. Dezember 2009 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 67*a* Absätze 1 und 3, 69 Absatz 2 und 70 Absatz 3 de
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^ingress-3]: [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)
 [^ingress-4]: [BBl 2007 4857](https://fedlex.data.admin.ch/eli/fga/2007/683)
@@ -70,14 +70,14 @@ Die Kulturförderung des Bundes nach den folgenden Spezialgesetzen bleibt vorbeh
 
 <sup>2</sup> Von diesem Vorbehalt ausgenommen sind die Finanzierungsbestimmungen nach Artikel 27 dieses Gesetzes.
 
-[^2-1]: [SR 432.21](https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773)
-[^2-2]: [SR 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+[^2-1]: [SR 432.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7073)
+[^2-2]: [SR 432.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7081)
 [^2-3]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514). [AS 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)Anhang Ziff. I].
-[^2-4]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
-[^2-5]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
-[^2-6]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^2-4]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
+[^2-5]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
+[^2-6]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^2-7]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^2-8]: [SR 418.0](https://fedlex.data.admin.ch/eli/cc/2014/771)
+[^2-8]: [SR 418.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6856)
 
 #### Art. 3
 
@@ -160,7 +160,7 @@ Der Bund und die Stiftung Pro Helvetia überweisen einen prozentualen Anteil ihr
 <sup>2</sup> Der Bundesrat legt den prozentualen Anteil fest.
 
 [^9-1]: Dieser Art. ist am 1. Jan. 2013 in Kraft getreten ([AS 2012 6077](https://fedlex.data.admin.ch/eli/oc/2012/716)).
-[^9-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 9a
 
@@ -327,7 +327,7 @@ Das Eidgenössische Departement des Innern (EDI) und das Eidgenössische Departe
 <sup>3</sup> Finanzhilfen können auch durch einen Leistungsvertrag im Sinne von Artikel 16 Absatz 2 des Subventionsgesetzes vom 5. Oktober 1990[^25-2] gewährt werden.
 
 [^25-1]: Fassung gemäss Ziff. I 1 des BG vom 19. März 2021 über administrative Erleichterungen und eine Entlastung des Bundeshaushalts, in Kraft seit 1. Jan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
-[^25-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 26
 
@@ -353,11 +353,14 @@ Die Bundesversammlung bewilligt folgende Zahlungsrahmen und Verpflichtungskredit
 
 - a.[^27-1] je einen Zahlungsrahmen für die Massnahmen nach den Artikeln 9*a*, 10, 12–15, 16 Absätze 1 und 2 Buchstabe a, 17 und 18 sowie für die Massnahmen nach den Artikeln 11, 16 Absatz 2 Buchstabe b und 19–21;
 - b. die Zahlungsrahmen für die spezialgesetzlichen Förderungsbereiche;
-- c. einen Verpflichtungskredit[^27-2] nach Artikel 16*a* des Bundesgesetzes vom 1. Juli 1966[^27-3] über den Natur- und Heimatschutz für den Bereich Heimatschutz und Denkmalpflege.
+- c. einen Verpflichtungskredit[^27-2] nach Artikel 16*a* des Bundesgesetzes vom 1. Juli 1966[^27-3] über den Natur- und Heimatschutz für den Bereich Heimatschutz und Denkmalpflege;
+- d.[^27-4] einen Verpflichtungskredit nach den Artikeln 3 und 4 des Filmgesetzes vom 14. Dezember 2001[^27-5].
 
 [^27-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^27-2]: Ausdruck gemäss Anhang Ziff. 2 des BG vom 19. März 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^27-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^27-4]: Eingefügt durch Ziff. II des BG vom 27. Sept. 2024, in Kraft seit 1. Jan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^27-5]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 #### Art. 28
 
@@ -451,7 +454,7 @@ Der Stiftungsrat hat folgende Aufgaben:
 
 <sup>6</sup> Für das Honorar der Mitglieder des Stiftungsrats und für weitere mit diesen Personen vereinbarte Vertragsbedingungen gilt Artikel 6*a* des Bundespersonalgesetzes vom 24. März 2000[^34-1] (BPG) sinngemäss.
 
-[^34-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^34-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 35
 
@@ -483,7 +486,7 @@ Die Direktorin oder der Direktor steht der Geschäftsleitung vor. Sie oder er:
 
 <sup>4</sup> Der Bundesrat kann die Revisionsstelle aus wichtigen Gründen abberufen.
 
-[^36-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^36-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
@@ -519,7 +522,7 @@ Die Direktorin oder der Direktor steht der Geschäftsleitung vor. Sie oder er:
 
 <sup>5</sup> Das Personal der Stiftung ist bei der Pensionskasse des Bundes (PUBLICA) versichert.
 
-[^39-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^39-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 3. Abschnitt: Finanzen
 

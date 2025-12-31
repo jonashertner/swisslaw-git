@@ -4,11 +4,11 @@ title: "Lescha federala dals 11 da december 2009 davart la promoziun da la cultu
 short: LPCu
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: rm
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/rm/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-rm-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2011-854-20260101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha per promover la cultura, LPCu)
 
-dals 11 da december 2009 (versiun dal 1. da schaner 2022)
+dals 11 da december 2009 (versiun dal 1. da schaner 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 67*a* alineas 1 e 3, 69 alinea 2 e 70 alinea 3 da la
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Versiun tenor la cifra I da la LF dals 19 da zer. 2015, en vigur dapi il 1. da schan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^ingress-3]: [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)
 [^ingress-4]: [BBl 2007 4857](https://fedlex.data.admin.ch/eli/fga/2007/683)
@@ -72,14 +72,14 @@ La promoziun da la cultura da la Confederaziun resta resalvada tenor las suandan
 
 <sup>2</sup> Da questa resalva èn exceptadas las disposiziuns davart la finanziaziun tenor l’artitgel 27 da questa lescha.
 
-[^2-1]: [SR 432.21](https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773)
-[^2-2]: [SR 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+[^2-1]: [SR 432.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7073)
+[^2-2]: [SR 432.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7081)
 [^2-3]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280), [2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514); [2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)agiunta cifra I]
-[^2-4]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
-[^2-5]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
-[^2-6]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^2-4]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
+[^2-5]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
+[^2-6]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^2-7]: Integrà tras la cifra I da la LF dals 19 da zer. 2015, en vigur dapi il 1. da schan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^2-8]: [SR 418.0](https://fedlex.data.admin.ch/eli/cc/2014/771)
+[^2-8]: [SR 418.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6856)
 
 #### Art. 3
 
@@ -162,7 +162,7 @@ La Confederaziun e la fundaziun Pro Helvetia assegnan ina procentuala da lur agi
 <sup>2</sup> Il Cussegl federal fixescha la procentuala.
 
 [^9-1]: Quest art. è entrà en vigur il 1. da schan. 2013 ([AS 2012 6077](https://fedlex.data.admin.ch/eli/oc/2012/716)).
-[^9-2]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-2]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 9a
 
@@ -329,7 +329,7 @@ Il Departament federal da l’intern (DFI) ed il Departament federal d’affars 
 <sup>3</sup> Agids finanzials pon er vegnir concedids tras in contract da prestaziuns en il senn da l’artitgel 16 alinea 2 da la Lescha da subvenziuns dals 5 d’october 1990[^25-2].
 
 [^25-1]: Versiun tenor la cifra I 1 da la LF dals 19 da mars 2021 davart facilitaziuns administrativas e mesiras da distgargia da las finanzas federalas, en vigur dapi il 1. da schan. 2022 ([AS 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [BBl 2020 6985](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
-[^25-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 26
 
@@ -355,11 +355,14 @@ L’Assamblea federala permetta las suandantas limitas d’expensas ed ils suand
 
 - a.[^27-1] mintgamai ina limita d’expensas per las mesiras tenor ils artitgels 9*a*, 10, 12–15, 16 alineas 1 e 2 litera a, 17 e 18 sco er per las mesiras tenor ils artitgels 11, 16 alinea 2 litera b e 19–21;
 - b. las limitas d’expensas per ils secturs da promoziun da dretg spezial;
-- c. in credit d’impegn[^27-2] tenor l’artitgel 16*a* da la Lescha federala dal 1. da fanadur 1966[^27-3] davart la protecziun da la natira e da la patria, per il sectur protecziun da la patria e tgira da monuments.
+- c. in credit d’impegn[^27-2] tenor l’artitgel 16*a* da la Lescha federala dal 1. da fanadur 1966[^27-3] davart la protecziun da la natira e da la patria, per il sectur protecziun da la patria e tgira da monuments;
+- d.[^27-4] in credit d’impegn tenor ils artitgels 3 ed 4 da la Lescha da films dals 14 da december 2001[^27-5].
 
 [^27-1]: Versiun tenor la cifra I da la LF dals 19 da zer. 2015, en vigur dapi il 1. da schan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^27-2]: Expressiun tenor la cifra 2 da l’agiunta da la LF dals 19 da mars 2021, en vigur dapi il 1. da schan. 2022 ([AS 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [BBl 2020 349](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^27-3]: [SR 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-3]: [SR 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^27-4]: Integrà tras la cifra II da la LF dals 27 da sett. 2024, en vigur dapi il 1. da schan. 2026 ([AS 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [BBl 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^27-5]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 #### Art. 28
 
@@ -453,7 +456,7 @@ Il cussegl da fundaziun ha las suandantas incumbensas:
 
 <sup>6</sup> L’artitgel 6*a* da la Lescha dals 24 da mars 2000[^34-1] davart il persunal da la Confederaziun (LPers) vala tenor il senn per l’onurari dals commembers dal cussegl da fundaziun e per ulteriuras cundiziuns contractualas ch’èn vegnidas fixadas cun questas persunas.
 
-[^34-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^34-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 35
 
@@ -485,7 +488,7 @@ Il directur presidiescha la direcziun. El:
 
 <sup>4</sup> Per motivs impurtants po il Cussegl federal revocar il post da revisiun.
 
-[^36-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^36-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
@@ -521,7 +524,7 @@ Il directur presidiescha la direcziun. El:
 
 <sup>5</sup> Il persunal da la fundaziun è assicurà tar la Cassa federala da pensiun (PUBLICA).
 
-[^39-1]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^39-1]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### 3. part Finanzas
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 11 décembre 2009 sur l'encouragement de la culture (L
 short: LEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: fr
-version: 2022-01-01
+version: 2026-01-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-854-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-854-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20220101/fr"
 
 (Loi sur l’encouragement de la culture, LEC)[^t-1]
 
-du 11 décembre 2009 (État le 1<sup>er</sup> janvier 2022)
+du 11 décembre 2009 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -27,7 +27,7 @@ vu les art. 67*a*, al. 1 et 3, 69, al. 2, et 70, al. 3, de la Constitution[^ingr
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 461](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^ingress-3]: [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)
 [^ingress-4]: [FF 2007 4617](https://fedlex.data.admin.ch/eli/fga/2007/683)
@@ -72,14 +72,14 @@ Les mesures d’encouragement de la culture prévues dans les lois ci-après son
 
 <sup>2</sup> Les dispositions relatives au financement visées à l’art. 27 sont applicables.
 
-[^2-1]: [RS 432.21](https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773)
-[^2-2]: [RS 432.30](https://fedlex.data.admin.ch/eli/cc/2009/598)
+[^2-1]: [RS 432.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7073)
+[^2-2]: [RS 432.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7081)
 [^2-3]: [[RO 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514). [RO 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)annexe ch. I]
-[^2-4]: [RS 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
-[^2-5]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
-[^2-6]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^2-4]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
+[^2-5]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
+[^2-6]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
 [^2-7]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 461](https://fedlex.data.admin.ch/eli/fga/2015/45)).
-[^2-8]: [RS 418.0](https://fedlex.data.admin.ch/eli/cc/2014/771)
+[^2-8]: [RS 418.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6856)
 
 #### Art. 3
 
@@ -162,7 +162,7 @@ La Confédération et la fondation Pro Helvetia versent un pourcentage du montan
 <sup>2</sup> Le Conseil fédéral fixe ce pourcentage.
 
 [^9-1]: En vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6077](https://fedlex.data.admin.ch/eli/oc/2012/716)).
-[^9-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^9-2]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 #### Art. 9a
 
@@ -234,7 +234,7 @@ La Confédération peut soutenir les organisations d’acteurs culturels et d’
 
 La Confédération peut prendre des mesures pour promouvoir la lecture et la littérature.
 
-[^15-1]: Nouvelle teneur selon le ch. 16 de l’annexe à la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^15-1]: Nouvelle teneur selon l’annexe ch. 16 de la LF du 20 juin 2014 sur la formation continue, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132);[FF 2013 3265](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 16
 
@@ -329,7 +329,7 @@ Le Département fédéral de l’intérieur et le Département fédéral des aff
 <sup>3</sup> Les aides financières peuvent aussi être accordées en vertu d’un contrat de prestations conformément à l’art. 16, al. 2, de la loi du 5 octobre 1990 sur les subventions[^25-2].
 
 [^25-1]: Nouvelle teneur selon le ch. I 1 de la LF du 19 mars 2021 sur des allégements administratifs et des mesures destinées à soulager les finances fédérales, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 654](https://fedlex.data.admin.ch/eli/oc/2021/654); [FF 2020 6767](https://fedlex.data.admin.ch/eli/fga/2020/1857)).
-[^25-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^25-2]: [RS 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 26
 
@@ -355,11 +355,14 @@ L’Assemblée fédérale approuve les plafonds de dépenses et les crédits d�
 
 - a.[^27-1] le plafond de dépenses pour les mesures visées aux art. 9*a*, 10, 12 à 15, 16, al. 1 et 2, let. a, 17 et 18, d’une part, et aux art. 11, 16, al. 2, let. b, et 19 à 21, d’autre part;
 - b. les plafonds de dépenses pour les domaines régis par des lois spéciales;
-- c. le crédit d’engagement[^27-2] visé à l’art. 16*a* de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^27-3] pour le domaine de la protection du paysage et de la conservation des monuments historiques.
+- c. le crédit d’engagement[^27-2] visé à l’art. 16*a* de la loi fédérale du 1<sup>er</sup> juillet 1966 sur la protection de la nature et du paysage[^27-3] pour le domaine de la protection du paysage et de la conservation des monuments historiques;
+- d.[^27-4] un crédit d’engagement au sens des art. 3 et 4 de la loi du 14 décembre 2001 sur le cinéma[^27-5].
 
 [^27-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 461](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^27-2]: Nouvelle expression selon l’annexe ch. 2 de la LF du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 662](https://fedlex.data.admin.ch/eli/oc/2021/662); [FF 2020 339](https://fedlex.data.admin.ch/eli/fga/2020/18)).
-[^27-3]: [RS 451](https://fedlex.data.admin.ch/eli/cc/1966/1637_1694_1679)
+[^27-3]: [RS 451](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7166)
+[^27-4]: Introduite par le ch. II de la LF du 27 sept. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 663](https://fedlex.data.admin.ch/eli/oc/2025/663); [FF 2024 753](https://fedlex.data.admin.ch/eli/fga/2024/753)).
+[^27-5]: [RS 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 
 #### Art. 28
 
@@ -453,7 +456,7 @@ Le conseil de fondation exerce les tâches suivantes:
 
 <sup>6</sup> L’art. 6*a* de la loi du 24 mars 2000 sur le personnel de la Confédération (LPers)[^34-1] s’applique par analogie aux honoraires et aux autres conditions contractuelles convenues avec les membres du conseil de fondation.
 
-[^34-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^34-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 35
 
@@ -485,7 +488,7 @@ Le directeur préside la direction. Ses tâches sont les suivantes:
 
 <sup>4</sup> Le Conseil fédéral peut révoquer l’organe de révision pour de justes motifs.
 
-[^36-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^36-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 37
 
@@ -521,7 +524,7 @@ Le directeur préside la direction. Ses tâches sont les suivantes:
 
 <sup>5</sup> Le personnel de la fondation est assuré auprès de la Caisse fédérale de pensions (PUBLICA).
 
-[^39-1]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^39-1]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 ### Section 3 Finances
 
@@ -645,8 +648,8 @@ Les lois mentionnées ci-après sont modifiées comme suit:
 [^annexu1-lvlu1-1]: [[RO 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236), [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
 [^annexu1-lvlu1-2]: [[RO 2008 3517](https://fedlex.data.admin.ch/eli/oc/2008/454)]
 [^annexu1-lvlu1-3]: [[RO 2006 1255](https://fedlex.data.admin.ch/eli/oc/2006/219)]
-[^annexu1-lvlu1-4]: [RS **4** 208]
-[^annexu1-lvlu1-5]: [RS **4** 221; [RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)app. ch. 6]
+[^annexu1-lvlu1-4]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)208]
+[^annexu1-lvlu1-5]: [[RS 4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6332)221; [RO 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)app. ch. 6]
 [^annexu1-lvlu1-6]: [[RO 1966 689](https://fedlex.data.admin.ch/eli/oc/1966/665_689_685), [1981 821](https://fedlex.data.admin.ch/eli/oc/1981/821_821_821), [1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)annexe 3 ch. 10, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 42]
 [^annexu1-lvlu1-7]: [[RO 1996 3040](https://fedlex.data.admin.ch/eli/oc/1996/3040_3040_3040)]
 [^annexu1-lvlu1-8]: Les mod. peuvent être consultées au [RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854).
