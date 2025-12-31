@@ -4,13 +4,13 @@ number: "128.213"
 title: Juristische Prüfungsverordnung
 short: JPV
 language: de
-version: 2025-06-01
-valid_until: 2025-12-31
-version_adopted: 2025-03-25
+version: 2026-01-01
+valid_until: 2026-02-28
+version_adopted: 2024-12-17
 adopted: 2000-07-04
 in_force: 2001-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/128.213"
-pdf: "https://bgs.so.ch/api/de/versions/5544/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5545/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5544/pdf_file"
 
 (JPV)
 
-Vom 04.07.2000 (Stand 01.06.2025)
+Vom 04.07.2000 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Bestand und Wahl**
 
-<sup>1</sup> Die Anwalts-, die Gerichtsschreiber- und die Notariatsprüfung werden von der Juristischen Prüfungskommission abgenommen.
+<sup>1</sup> Die Anwalts- und die Notariatsprüfung werden von der Juristischen Prüfungskommission abgenommen.
 
 <sup>2</sup> Die Juristische Prüfungskommission besteht aus 5 Mitgliedern und 5 Ersatzmitgliedern, darunter je mindestens zwei im solothurnischen Anwaltsregister eingetragene Rechtsanwälte oder Rechtsanwältinnen.
 
@@ -56,15 +56,7 @@ beschliesst:
 
 #### § 3
 
-**Gerichtsschreiberprüfung**
-
-<sup>1</sup> Zur Gerichtsschreiberprüfung wird zugelassen, wer sich ausweist über:
-
-- a) Arbeit von 3 Jahren auf solothurnischen Gerichten, davon mindestens je ein Jahr bei einem Zivil- und einem Strafgericht und in der Regel 6 Monate beim Obergericht;
-- b) den erfolgreichen Abschluss der juristischen Grundausbildung oder einer gleichwertigen Ausbildung in allen Rechtsgebieten, die in § 2 der Verordnung über die juristische Grundausbildung[^3-1] aufgezählt sind;
-- c) die Empfehlungen in fachlicher Hinsicht durch die Gerichte, bei welchen die Arbeit im Sinne von Buchstabe a geleistet wurde.
-
-[^3-1]: BGS [128.111](https://bgs.so.ch/data/128.111/de).
+**…**
 
 #### § 4
 
@@ -91,7 +83,7 @@ beschliesst:
 
 **Allgemeine Voraussetzungen**
 
-<sup>1</sup> Wer um Zulassung zur Anwalts-, Gerichtsschreiber- oder Notariatsprüfung ersucht, muss überdies voll handlungsfähig und verlustscheinslos sein und darf nicht wegen Verhaltensweisen, die mit dem Beruf als Anwalt, Gerichtsschreiber oder Notar nicht vereinbar sind, strafrechtlich verfolgt oder verurteilt sein.
+<sup>1</sup> Wer um Zulassung zur Anwalts- oder Notariatsprüfung ersucht, muss überdies voll handlungsfähig und verlustscheinslos sein und darf nicht wegen Verhaltensweisen, die mit dem Beruf als Anwalt, Gerichtsschreiber oder Notar nicht vereinbar sind, strafrechtlich verfolgt oder verurteilt sein.
 
 #### § 5
 
@@ -99,7 +91,7 @@ beschliesst:
 
 <sup>1</sup> Die Zulassung wird vom Departement auf schriftliches Gesuch hin verfügt. Für das Verfahren um Zulassung zur Prüfung ist § 6 Absatz 2 anwendbar. Personen, die nach § 6 zum Rechtspraktikum zugelassen worden sind, haben jedoch nur dann eine kurze Beschreibung des Lebenslaufs und einen Auszug aus dem Zentralstrafregister einzureichen, wenn das Departement dies ausdrücklich verlangt.
 
-<sup>2</sup> Die mündliche Anwaltsprüfung und die mündliche Notariatsprüfung nach § 19 Absatz 3 dieser Verordnung sind innert vier Jahren seit Beendigung des Rechtspraktikums abzulegen, die mündliche Notariatsprüfung nach § 18 Absatz 3 dieser Verordnung und die mündliche Gerichtsschreiberprüfung innert drei Jahren seit Zulassung zur Prüfung. Wer sich nicht rechtzeitig zur Prüfung stellt, ist ausgeschlossen.
+<sup>2</sup> Die mündliche Anwaltsprüfung und die mündliche Notariatsprüfung nach § 19 Absatz 3 dieser Verordnung sind innert vier Jahren seit Beendigung des Rechtspraktikums abzulegen, die mündliche Notariatsprüfung nach § 18 Absatz 3 dieser Verordnung innert drei Jahren seit Zulassung zur Prüfung. Wer sich nicht rechtzeitig zur Prüfung stellt, ist ausgeschlossen.
 
 <sup>3</sup> Das Departement kann die Fristen nach Absatz 2 aus wichtigen Gründen erstrecken, wobei diese Fristen insgesamt nicht um mehr als die Hälfte erstreckt werden dürfen.
 
@@ -222,22 +214,11 @@ beschliesst:
 
 <sup>1</sup> Die Juristische Prüfungskommission legt im Einzelfall im Rahmen des Bundesrechts den Gegenstand der Eignungsprüfung oder des Prüfungsgesprächs für ausländische Anwälte und Anwältinnen fest.
 
-### 4.2.2. Gerichtsschreiberprüfung
+### 4.2.2.
 
 #### § 17
 
-<sup>1</sup> Die schriftliche Gerichtsschreiberprüfung umfasst die Abfassung eines Urteils:
-
-- a) in einem Zivilprozess;
-- b) in einem Strafprozess.
-
-<sup>2</sup> Pro Prüfungsfach stehen 8 Stunden zur Verfügung.
-
-<sup>3</sup> Die mündliche Gerichtsschreiberprüfung umfasst:
-
-- a) Zivilprozessrecht und Grundzüge des Zivilrechts;
-- b) Strafprozessrecht und Grundzüge des Strafrechts;
-- c) Grundzüge des eidgenössischen und kantonalen Staats- und Verwaltungsrechts.
+**…**
 
 ### 4.2.3. Notariatsprüfung
 
