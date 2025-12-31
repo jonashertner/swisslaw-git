@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2025-05-01
+version: 2026-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250501/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20250501-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20260101-fr-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250501/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (État le 1<sup>er</sup> mai 2025)
+du 30 novembre 2012 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
@@ -332,7 +332,7 @@ La période de crédit pour les projets ou les programmes réalisés en Suisse q
 
 <sup>4</sup> Il consigne les résultats du contrôle dans un rapport de vérification.
 
-<sup>5</sup> Le rapport de suivi, les mesures effectuées et le rapport de vérification correspondant couvrent une période maximale de trois ans. L’organisme de vérification doit les remettre à l’OFEV au plus tard un an après la fin de cette période. Les réductions d’émissions ou le renforcement des prestations de puits de carbone doivent être prouvés pour chaque année civile.[^9-3]
+<sup>5</sup> Le rapport de suivi, les mesures effectuées et le rapport de vérification correspondant couvrent une période maximale de quatre ans. L’organisme de vérification doit les remettre à l’OFEV au plus tard un an après la fin de cette période. Les réductions d’émissions ou le renforcement des prestations de puits de carbone doivent être prouvés pour chaque année civile.[^9-3]
 
 <sup>6</sup> Dans le cas de projets ou de programmes qui requièrent un accompagnement scientifique, les rapports de suivi, les rapports de vérification correspondants et les résultats de l’accompagnement scientifique doivent être remis à l’OFEV chaque année. La quantification des réductions d’émissions ou du renforcement des prestations de puits de carbone doit être réévaluée chaque année.
 
@@ -344,7 +344,7 @@ La période de crédit pour les projets ou les programmes réalisés en Suisse q
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^9-2]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^9-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^9-3]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 [^9-4]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 10
@@ -567,7 +567,7 @@ L’OFEV peut publier les données suivantes si elles ne compromettent ni le sec
 
 #### Art. 14a
 
-<sup>1</sup> À partir du 1<sup>er</sup> janvier 2026, quiconque propose des voyages en avion, qu’il s’agisse de vols réguliers ou de vols occasionnels planifiés, dont la publicité est faite au moyen d’annonces dans des imprimés ou des médias visuels et électroniques, doit indiquer dans l’annonce, de manière visible, lisible et chiffrée, les émissions en équivalents CO<sub>2</sub> probables générées par le voyage aérien considéré jusqu’à l’aéroport de destination.
+<sup>1</sup> À partir du 1<sup>er</sup> janvier 2027, quiconque propose des voyages en avion, qu’il s’agisse de vols réguliers ou de vols occasionnels planifiés, dont la publicité est faite au moyen d’annonces dans des imprimés ou des médias visuels et électroniques, doit indiquer dans l’annonce, de manière visible, lisible et chiffrée, les émissions en équivalents CO<sub>2</sub> qui seront probablement générées par le voyage aérien considéré jusqu’à l’aéroport de destination. Les exploitants d’aéronefs doivent mettre les informations correspondantes à la disposition des prestataires de tels voyages en avion.[^14a-1]
 
 <sup>2</sup>
 
@@ -581,6 +581,8 @@ Cette obligation s’applique aux offres de voyages en avion:
 <sup>4</sup> D’autres émissions à incidence climatique générées par l’exploitation d’aéronefs dans la troposphère supérieure et la stratosphère inférieure, ainsi que leurs effets, doivent être pris en compte.
 
 <sup>5</sup> Quiconque utilise un calculateur d’émissions ou un système de labellisation environnementale qui ne tiennent pas compte des autres émissions à incidence climatique et de leurs effets doit l’indiquer sur les offres.
+
+[^14a-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### Section 6 Coordination des mesures d’adaptation
 
@@ -711,19 +713,19 @@ Les dispositions du présent chapitre s’appliquent aux véhicules lourds suiva
 
 - a.
 
-  camions visés à l’art. 11, al. 2, let. f, OETV[^17cbis-2]:
+  camions au sens de l’art. 11, al. 2, let. f, OETV[^17cbis-2]:[^17cbis-3]
 
-  - 1\. avec une configuration d’essieux de 4 × 2 et un poids total supérieur à 16 t, ou
+  - 1\.[^17cbis-4] avec une configuration d’essieux de 4 x 2 et un poids garanti supérieur à 16 t, ou
   - 2\. avec une configuration d’essieux de 6 × 2;
 
 - b.
 
-  tracteurs à sellette visés à l’art. 11, al. 2, let. i, OETV:
+  tracteurs à sellette au sens de l’art. 11, al. 2, let. i, OETV:[^17cbis-5]
 
-  - 1\. avec une configuration d’essieux de 4 × 2 et un poids total supérieur à 16 t, ou
+  - 1\.[^17cbis-6] avec une configuration d’essieux de 4 x 2 et un poids garanti supérieur à 16 t, ou
   - 2\. avec une configuration d’essieux de 6 × 2.
 
-<sup>2</sup> Dans le cas de véhicules disposant d’une réception par type multi-étapes au sens de l’art. 3, ch. 8, du règlement (UE) 2018/858[^17cbis-3], l’état déterminant est celui du véhicule de base.
+<sup>2</sup> Dans le cas de véhicules disposant d’une réception par type multi-étapes au sens de l’art. 3, ch. 8, du règlement (UE) 2018/858[^17cbis-7], l’état déterminant est celui du véhicule de base.
 
 <sup>3</sup>
 
@@ -731,13 +733,17 @@ Les dispositions du présent chapitre ne s’appliquent pas:
 
 - a. aux véhicules de collecte des ordures ménagères;
 - b. aux véhicules spéciaux visés à l’art. 25 OETV;
-- c. aux véhicules militaires visés à l’art. 4, let. a, OCM[^17cbis-4] utilisés à des fins militaires;
+- c. aux véhicules militaires visés à l’art. 4, let. a, OCM[^17cbis-8] utilisés à des fins militaires;
 - d. aux véhicules dédouanés avant juillet 2019.
 
 [^17cbis-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^17cbis-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
-[^17cbis-3]: Cf. note de bas de page relative à l’art. 17*a*, al. 2.
-[^17cbis-4]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
+[^17cbis-3]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^17cbis-4]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^17cbis-5]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^17cbis-6]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^17cbis-7]: Cf. note de bas de page relative à l’art. 17*a*, al. 2.
+[^17cbis-8]: [RS 510.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7360)
 
 #### Art. 17d
 
@@ -960,18 +966,9 @@ Si, dans le cas de voitures de tourisme ou de voitures de livraison et de tracte
 
 #### Art. 26a
 
-**Réduction par le gaz naturel et le biogaz**
+[^26a-1]
 
-<sup>1</sup> Dans le cas des véhicules pouvant être propulsés par un mélange de carburants composé de gaz naturel et de biogaz, le pourcentage que représente la part biogène reconnue visée à l’art. 12*a*, al. 2, de l’ordonnance du 1<sup>er</sup> novembre 2017 sur les exigences relatives à l’efficacité énergétique[^26a-1] est pris en compte en tant que réduction des émissions de CO<sub>2</sub>.
-
-<sup>2</sup>
-
-Le résultat est arrondi comme suit:
-
-- a. pour les voitures de tourisme, les voitures de livraison et les tracteurs à sellette légers: au centième de gramme de CO<sub>2</sub>/km;
-- b. pour les véhicules lourds: au centième de gramme de CO<sub>2</sub>/tkm.
-
-[^26a-1]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
+[^26a-1]: Abrogé par le ch. III de l’O du 21 mai 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 #### Art. 26b
 
@@ -1336,6 +1333,7 @@ La part visée à l’al. 2 s’obtient en additionnant les éléments suivants:
   tous les droits d’émission qui ne sont plus attribués à titre gratuit en raison:
 
   - 1\. de l’exemption de l’obligation de participer au SEQE en vertu de l’art. 41 ou d’une sortie du SEQE en vertu de l’art. 43*a*,
+  - 1<sup>bis</sup>.[^45-4] d’une réduction opérée en vertu de l’art. 46, al. 1<sup>bis</sup>,
   - 2\. d’adaptations en vertu de l’art. 46*b*,
   - 3\. d’un rapport de suivi incomplet ou comportant des erreurs (art. 52, al. 8).
 
@@ -1346,18 +1344,19 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 - a. les exploitants visés à l’art. 46*a* qui participent au SEQE depuis au moins une année civile complète ou dont les nouveaux éléments d’attribution sont en service depuis au moins une année civile complète;
 - b. les exploitants visés à l’art. 46*a* qui participent au SEQE depuis l’année précédente ou dont les nouveaux éléments d’attribution ont été mis en service durant l’année précédente;
 - c. les exploitants d’installations visés à l’al. 2, let. b, ch. 2;
-- d. les exploitants d’installations visés à l’art. 46*a* qui participent au SEQE pour la première fois durant l’année concernée ou dont les nouveaux éléments d’attribution ont été mis en service durant l’année concernée.[^45-4]
+- d. les exploitants d’installations visés à l’art. 46*a* qui participent au SEQE pour la première fois durant l’année concernée ou dont les nouveaux éléments d’attribution ont été mis en service durant l’année concernée.[^45-5]
 
-<sup>5</sup> Si les prétentions ne peuvent pas être entièrement satisfaites pour un des groupes visés à l’al. 4, let. a, b ou d, c’est la date de la participation au SEQE ou de la mise en service des nouveaux éléments d’attribution qui est déterminante pour l’attribution des droits d’émission aux différents exploitants. Si l’annonce n’est effectuée qu’après le début de l’activité ou qu’après la mise en service d’un nouvel élément d’attribution, c’est la date de l’annonce qui est déterminante.[^45-5]
+<sup>5</sup> Si les prétentions ne peuvent pas être entièrement satisfaites pour un des groupes visés à l’al. 4, let. a, b ou d, c’est la date de la participation au SEQE ou de la mise en service des nouveaux éléments d’attribution qui est déterminante pour l’attribution des droits d’émission aux différents exploitants. Si l’annonce n’est effectuée qu’après le début de l’activité ou qu’après la mise en service d’un nouvel élément d’attribution, c’est la date de l’annonce qui est déterminante.[^45-6]
 
-<sup>6</sup> Si les prétentions ne peuvent pas être entièrement satisfaites pour le groupe visé à l’al. 4, let. c, l’OFEV réduit proportionnellement les droits d’émission devant être attribués à titre gratuit aux différents exploitants.[^45-6]
+<sup>6</sup> Si les prétentions ne peuvent pas être entièrement satisfaites pour le groupe visé à l’al. 4, let. c, l’OFEV réduit proportionnellement les droits d’émission devant être attribués à titre gratuit aux différents exploitants.[^45-7]
 
 [^45-1]: Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 [^45-2]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^45-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^45-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-4]: Introduit par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 [^45-5]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^45-6]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-6]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^45-7]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 
 #### Art. 46
 
@@ -1365,22 +1364,28 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 
 <sup>1</sup> L’OFEV calcule la quantité de droits d’émission attribués chaque année à titre gratuit aux exploitants d’installations sur la base des référentiels et des coefficients d’adaptation figurant à l’annexe 9. Il prend en considération à cet égard les prescriptions de l’Union européenne.
 
-<sup>2</sup> La réduction proportionnelle visée à l’art. 19, al. 7, de la loi sur le CO<sub>2</sub> est calculée à l’avance pour les périodes d’attribution conformément à l’annexe 9, ch. 2.3. La limitation à 5 % au plus de la réduction proportionnelle est appliquée chaque année.[^46-2]
+<sup>1bis</sup> La quantité calculée est réduite de 20 % en cas de non-respect d’une convention d’objectifs au sens de l’art. 46 LEne[^46-2]. Font exception à cette règle les exploitants d’installations qui disposent d’une feuille de route au sens de l’art. 5 de la loi fédérale du 30 septembre 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique (LCl)[^46-3] et qui ont mis en œuvre les mesures qui y sont prévues au cours des années précédentes.[^46-4]
+
+<sup>2</sup> La réduction proportionnelle visée à l’art. 19, al. 7, de la loi sur le CO<sub>2</sub> est calculée à l’avance pour les périodes d’attribution conformément à l’annexe 9, ch. 2.3. La limitation à 5 % au plus de la réduction proportionnelle est appliquée chaque année.[^46-5]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^46-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^46-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^46-3]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
+[^46-4]: Introduit par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^46-5]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 46a
 
 **Attribution de droits d’émission à titre gratuit aux exploitants d’installations participant pour la première fois au SEQE et aux exploitants d’installations avec de nouveaux éléments d’attribution**[^46a-1]
 
-<sup>1</sup> Un exploitant d’installations qui participe pour la première fois au SEQE à partir du 2 janvier 2021 se voit attribuer, à titre gratuit, des droits d’émission pris sur la part visée à l’art. 45, al. 2, à partir de la date de participation au SEQE.
+<sup>1</sup> Un exploitant d’installations qui participe pour la première fois au SEQE à partir du 2 janvier 2026 se voit attribuer, à titre gratuit, des droits d’émission pris sur la part visée à l’art. 45, al. 2, à partir de la date de participation au SEQE.[^46a-2]
 
 <sup>2</sup> Si un exploitant d’installations qui participe déjà au SEQE met en service une unité supplémentaire déterminante pour l’attribution à titre gratuit des droits d’émission (élément d’attribution), il se voit attribuer, à titre gratuit, des droits d’émission pris sur la part visée à l’art. 45, al. 2, à partir de la date de mise en service.
 
 <sup>3</sup> L’attribution de droits d’émission à titre gratuit est régie par les art. 46 et 46*b*.
 
 [^46a-1]: Introduit par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^46a-2]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 46b
 
@@ -1388,18 +1393,20 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 
 <sup>1</sup> La quantité de droits d’émission attribués chaque année à titre gratuit à un exploitant d’installations est adaptée si le niveau d’activité d’un élément d’attribution est modifié conformément à l’annexe 9, ch. 5.1.1. L’adaptation est effectuée conformément aux exigences de l’annexe 9, ch. 5.1.
 
-<sup>2</sup> La quantité de droits d’émission attribués à titre gratuit pour des éléments d’attribution assortis d’un référentiel de chaleur ou d’un référentiel de combustible est augmentée uniquement sur demande. Elle n’est augmentée que s’il peut être prouvé que la modification du niveau d’activité n’est pas due à une perte d’efficacité énergétique. Si le niveau d’activité d’un élément d’attribution est modifié en vertu de l’al. 1 uniquement en raison de fournitures de chaleur à des tiers qui ne participent pas au SEQE, aucune demande n’est nécessaire pour l’augmentation.
+<sup>2</sup> Lorsque la quantité de droits d’émission attribués à titre gratuit est calculée selon le référentiel de chaleur (annexe 9, ch. 1.2) ou le référentiel de combustible (annexe 9, ch. 1.3), elle n’est adaptée que si, en plus de la modification prévue à l’al. 1, le niveau d’activité attendu d’un élément d’attribution est modifié conformément à l’annexe 9, ch. 5.1*a*.1. L’adaptation est effectuée conformément aux exigences de l’annexe 9, ch. 5.1*a*.[^46b-2]
 
-<sup>3</sup> La quantité de droits d’émission attribués à titre gratuit n’est pas réduite si un exploitant d’installations avec des éléments d’attribution visés à l’al. 2 prouve que la modification du niveau d’activité est due exclusivement à un gain d’efficacité énergétique.
+<sup>3</sup> …[^46b-3]
 
 <sup>4</sup> La quantité de droits d’émission attribués chaque année à titre gratuit à un exploitant d’installations est aussi adaptée si un paramètre de l’annexe 9, ch. 5.2.3, est modifié conformément à l’annexe 9, ch. 5.2.1. L’adaptation se fait conformément aux exigences de l’annexe 9, ch. 5.2.
 
 <sup>5</sup> Si un élément d’attribution est mis à l’arrêt, l’exploitant ne se voit plus attribuer de droits d’émission à titre gratuit pour l’élément d’attribution concerné à partir de la date de mise hors service.
 
-<sup>6</sup> La demande visée à l’al. 2 et la preuve visée à l’al. 3 doivent être remises en même temps que le rapport de suivi au sens de l’art. 52.[^46b-2]
+<sup>6</sup> …[^46b-4]
 
 [^46b-1]: Introduit par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^46b-2]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^46b-2]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^46b-3]: Abrogé par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^46b-4]: Introduit par le ch. I de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Abrogé par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 46c
 
@@ -1443,35 +1450,31 @@ Si la part visée à l’al. 2 ne suffit pas pour satisfaire entièrement aux pr
 
 #### Art. 46f
 
-**Attribution de droits d’émission à titre gratuit**
+[^46f-1]
 
-<sup>1</sup> L’OFEV calcule conformément à l’annexe 15, ch. 3, la quantité de droits d’émission attribués à titre gratuit à un exploitant d’aéronefs. Les droits d’émission ne sont attribués que si ce dernier a remis un rapport de suivi des tonnes-kilomètres conformément à l’ordonnance du 2 juin 2017 sur la collecte des données relatives aux tonnes-kilomètres et l’établissement de plans de suivi liés aux distances parcourues par les aéronefs[^46f-1].[^46f-2]
-
-<sup>2</sup> …[^46f-3]
-
-<sup>3</sup> Si un exploitant d’aéronefs à qui des droits d’émission ont été attribués à titre gratuit n’effectue aucun vol relevant de l’annexe 13 au cours d’une année donnée, il est tenu de restituer à l’OFEV les droits d’émission qui lui ont été attribués à titre gratuit pour l’année en question au plus tard le 30 novembre de l’année suivante. Les droits d’émission restitués sont annulés.[^46f-4]
-
-<sup>4</sup> …[^46f-5]
-
-[^46f-1]: [RO 2017 3477](https://fedlex.data.admin.ch/eli/oc/2017/378); [2019 1477](https://fedlex.data.admin.ch/eli/oc/2019/284)
-[^46f-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^46f-3]: Abrogé par le ch. I de l’O du 25 nov. 2020, avec effet au 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^46f-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^46f-5]: Abrogé par le ch. I de l’O du 29 sept. 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^46f-1]: Abrogé par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 46g
 
-**Attribution supplémentaire de droits d’émission à titre gratuit pour les vols à destination des régions ultrapériphériques**[^46g-1]
+[^46g-1]
 
-<sup>1</sup> Pour les vols à destination des régions ultrapériphériques, des droits d’émission sont attribués à titre gratuit aux exploitants d’aéronefs en sus des droits d’émission attribués en vertu de l’art. 46*f*. Sont considérées comme régions ultrapériphériques les régions mentionnées à l’annexe 13, ch. 1*a*.
+[^46g-1]: Introduit par le ch. I de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Abrogé par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
-<sup>2</sup> Les droits d’émission ne sont attribués que si l’exploitant prouve jusqu’au 31 août 2024 qu’il a effectué des vols à destination des régions ultrapériphériques en 2018. L’OFEV calcule conformément à l’annexe 15, ch. 4, la quantité de droits d’émission supplémentaires attribués à titre gratuit.
+#### Art. 46h
 
-<sup>3</sup> La preuve visée à l’al. 2 doit comprendre des informations sur la distance parcourue et la charge utile transportée par les aéronefs en 2018 dans ce cadre. Les informations doivent être contrôlées par un organisme de vérification conformément à l’annexe 18, ch. 4.
+**Attribution de droits d’émission à titre gratuit pour la consommation de carburants d’aviation renouvelables ou à faible taux d’émission**[^46h-1]
 
-<sup>4</sup> La preuve doit être fournie au moyen du modèle mis à disposition par l’OFEV.
+<sup>1</sup> Sur la période 2026–2030, 550 000 droits d’émission peuvent être attribués à titre gratuit pour la consommation des carburants d’aviation renouvelables ou à faible taux d’émission visés à l’annexe 15, ch. 5.1, pour des vols couverts par le SEQE.
 
-[^46g-1]: Introduit par le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+<sup>2</sup> Les exploitants commerciaux d’aéronefs peuvent demander chaque année jusqu’au 31 mars l’attribution des droits d’émission à titre gratuit pour les vols de l’année précédente.
+
+<sup>3</sup> L’OFEV calcule conformément à l’annexe 15, ch. 5.2 à 5.5, la quantité de droits d’émission attribués à titre gratuit à un exploitant d’aéronefs.
+
+<sup>4</sup> Lorsque la quantité totale demandée de droits d’émission attribués à titre gratuit dépasse la quantité disponible, il réduit proportionnellement la quantité de droits d’émission attribués aux différents exploitants d’aéronefs.
+
+<sup>5</sup> Il publie les quantités de droits d’émission attribués chaque année à titre gratuit aux différents exploitants d’aéronefs.
+
+[^46h-1]: Introduit par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### Section 2 Mise aux enchères de droits d’émission
 
@@ -1961,7 +1964,7 @@ L’OFEV peut publier sous forme électronique les données ci-après contenues 
 - d.[^65-2] pour les participants au SEQE: les données concernant les installations, les aéronefs et les émissions, la quantité de droits d’émission attribués à titre gratuit et la quantité de droits d’émission et de certificats de réduction des émissions remis pour remplir l’obligation;
 - d<sup>bis</sup>.[^65-3] pour les exploitants d’aéronefs administrés par une autorité étrangère jusqu’à l’entrée en vigueur de l’accord SEQE[^65-4]: les données concernant les aéronefs et les émissions, la quantité de droits d’émission attribués à titre gratuit, la quantité de droits d’émission remis pour remplir l’obligation et les certificats de réduction des émissions, au plus tôt depuis 2012;
 - d<sup>ter</sup>.[^65-5] pour les mises aux enchères: les offres soumises, la date et la quantité de droits d’émission vendus aux enchères, la quantité minimale et maximale, le prix d’adjudication, la quantité de droits d’émission adjugée et les participants admis aux enchères;
-- e.[^65-6] pour les projets et les programmes de réduction des émissions ou de renforcement des prestations de puits de carbone réalisés en Suisse et à l’étranger: la quantité d’attestations délivrées par période de suivi ainsi que le numéro du compte exploitant ou du compte non-exploitant sur lequel les attestations pour le projet ou le programme ont été délivrées;
+- e.[^65-6] pour les projets et les programmes de réduction des émissions ou de renforcement des prestations de puits de carbone réalisés en Suisse et à l’étranger: la quantité d’attestations délivrées par période de suivi, le numéro du compte exploitant ou du compte non-exploitant sur lequel les attestations pour le projet ou le programme ont été délivrées et les numéros de série des attestations délivrées;
 - f.[^65-7] pour les personnes soumises à l’obligation de compenser: le taux de compensation ainsi que la quantité d’attestations, de certificats de réduction des émissions et de droits d’émission remis pour remplir l’obligation;
 - g.[^65-8] pour les exploitants ayant pris un engagement de réduction: la quantité de certificats de réduction des émissions, de droits d’émission et d’attestations remis pour remplir l’engagement de réduction.
 
@@ -1970,7 +1973,7 @@ L’OFEV peut publier sous forme électronique les données ci-après contenues 
 [^65-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^65-4]: [RS 0.814.011.268](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3477)
 [^65-5]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^65-6]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^65-6]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 [^65-7]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^65-8]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
@@ -2023,7 +2026,9 @@ Par son engagement de réduction, l’exploitant s’engage:
 - a. à atteindre une meilleure efficacité en ce qui concerne les émissions de gaz à effet de serre lui permettant de remplir l’objectif découlant de la convention d’objectifs visée à l’art. 41 ou 46, al. 2, LEne[^66a-2], mais qui doit être chaque année au moins égale à 2,25 % de la valeur initiale de la convention d’objectifs (engagement de réduction avec objectif d’efficacité en ce qui concerne les émissions de gaz à effet de serre), ou
 - b. à atteindre un effet global de ses mesures lui permettant de remplir l’objectif de mesures découlant de la convention d’objectifs visée à l’art. 41 ou 46, al. 2, LEne, mais au moins un effet global correspondant à une réduction de gaz à effet de serre annuelle d’au moins 2,25 % par rapport à la valeur initiale de la convention d’objectifs (engagement de réduction avec objectif fondé sur des mesures).
 
-<sup>2</sup> La valeur minimale de 2,25 % ne s’applique qu’aux émissions de gaz à effet de serre provenant de combustibles fossiles classiques.
+<sup>1bis</sup> L’OFEV approuve sur demande une valeur minimale inférieure à 2,25 % si l’exploitant prouve, dans le plan de décarbonation, que les émissions de gaz à effet de serre sont dues dans une proportion importante à l’utilisation de chaleur industrielle à haute température et qu’il n’existe aucune solution raisonnable pour remplacer les combustibles fossiles classiques.[^66a-3]
+
+<sup>2</sup> La valeur minimale de 2,25 % et les éventuelles valeurs minimales abaissées en vertu de l’al. 1<sup>bis</sup> ne s’appliquent qu’aux émissions de gaz à effet de serre provenant de combustibles fossiles classiques.[^66a-4]
 
 <sup>3</sup> L’engagement de réduction peut aussi comprendre des mesures grâce auxquelles le CO<sub>2</sub> est capté et stocké géologiquement de manière durable ou capté et piégé chimiquement de manière durable dans des carbonates minéraux utilisés dans des produits de construction, conformément aux exigences de l’annexe 19.
 
@@ -2031,6 +2036,8 @@ Par son engagement de réduction, l’exploitant s’engage:
 
 [^66a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^66a-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^66a-3]: Introduit par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^66a-4]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 67
 
@@ -2151,7 +2158,7 @@ Le rapport de suivi contient les informations suivantes se rapportant à l’ann
 
 Le plan de décarbonation visé à l’art. 31*a*, let. b, de la loi sur le CO<sub>2</sub> doit contenir au minimum:
 
-- a. un bilan de la totalité des émissions directes de gaz à effet de serre (art. 2, let. b, de la loi fédérale du 30 septembre 2022 sur les objectifs en matière de protection du climat, sur l’innovation et sur le renforcement de la sécurité énergétique [LCl][^72a-2]) provenant de combustibles fossiles;
+- a.[^72a-2] un bilan de la totalité des émissions directes de gaz à effet de serre (art. 2, let. b, LCl[^72a-3]) provenant de combustibles fossiles;
 - b. une description des installations et procédés existants;
 - c. une analyse montrant avec quelles solutions il est possible de réduire, et dans quelle mesure, les émissions de gaz à effet de serre provenant de combustibles fossiles;
 - d. les mesures à prendre sur la base de la let. c en vue de réduire les émissions de gaz à effet de serre provenant de combustibles fossiles, et
@@ -2169,7 +2176,8 @@ S’agissant des mesures visées à l’al. 1, let. d, les informations suivante
 <sup>3</sup> Il n’est pas possible de faire valoir la remise d’attestations nationales ou internationales comme mesure dans le cadre du plan de décarbonation.
 
 [^72a-1]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^72a-2]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
+[^72a-2]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^72a-3]: [RS 814.310](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/40153)
 
 #### Art. 72b
 
@@ -2291,8 +2299,11 @@ L’OFEV adapte un engagement de réduction si une adaptation est indiquée en p
 
 <sup>2</sup> En cas d’adaptation de l’engagement de réduction, l’engagement adapté est valable avec effet rétroactif dès le début de l’année où les modifications prennent effet.
 
+<sup>3</sup> En outre, l’OFEV adapte un engagement de réduction si les conditions visées à l’art. 66*a*, al 1<sup>bis</sup>, sont remplies. L’engagement adapté est valable avec effet rétroactif à compter de la date fixée par l’OFEV.[^74-3]
+
 [^74-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 [^74-2]: [RS 730.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8495)
+[^74-3]: Introduit par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 74a et 74b
 
@@ -2317,27 +2328,9 @@ Un exploitant qui souhaite résilier son engagement de réduction de manière an
 
 #### Art. 75
 
-**Prise en compte des certificats de réduction des émissions**[^75-1]
+[^75-1]
 
-<sup>1</sup>
-
-Les exploitants d’installations qui n’ont pas atteint leur objectif d’émission ou leur objectif fondé sur des mesures et auxquels aucune attestation au sens de l’art. 12 n’a été délivrée peuvent se faire imputer des certificats de réduction des émissions dans les proportions suivantes afin de respecter leur engagement de réduction:
-
-- a. pour les exploitants d’installations ayant pris un engagement de réduction au cours de la période allant de 2008 à 2012: 8 % du quintuple des émissions autorisées en moyenne par an au cours de cette période, déduction faite des certificats de réduction des émissions imputés au cours de cette période dont l’exploitant n’a pas eu besoin pour respecter l’engagement de réduction pour la période concernée;
-- b. pour les autres exploitants d’installations et les autres émissions de gaz à effet de serre: 4,5 % des émissions de gaz à effet de serre au cours de la période allant de 2013 à 2020;
-- c.[^75-2] pour les exploitants d’installations qui prolongent leur engagement de réduction en vertu de l’art. 31, al. 1<sup>bis</sup>, de la loi sur le CO<sub>2</sub> jusqu’à fin 2021: 4,5 % des émissions de gaz à effet de serre au cours de la période allant de 2013 à 2021.
-
-<sup>2</sup>
-
-La quantité des certificats de réduction des émissions pouvant être imputés conformément à l’al. 1 est modifiée comme suit:
-
-- a. pour les exploitants d’installations n’ayant pris que temporairement un engagement de réduction au cours de la période allant de 2013 à 2020, elle est diminuée au prorata de la période applicable;
-- b.[^75-3] pour les exploitants d’installations ayant produit, jusqu’en 2021, plus d’électricité utilisée en dehors des installations par rapport à 2012, elle est augmentée à raison de 50 % de la prestation de réduction supplémentaire nécessaire à cet effet;
-- c. pour les exploitants d’installations au sens de l’al. 1, let. a, dont l’objectif d’émission ou l’objectif fondé sur des mesures est adapté, elle est augmentée ou diminuée en fonction de l’adaptation effectuée; la quantité de certificats de réduction des émissions imputables est réduite au maximum à 8 % du quintuple des émissions autorisées en moyenne par an au cours de la période allant de 2008 à 2012, déduction faite des certificats de réduction des émissions imputés au cours de cette période.
-
-[^75-1]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^75-2]: Introduite par le ch. I de l’O du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
-[^75-3]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^75-1]: Abrogé par le ch. I de l’O du 19 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### Section 6 Non-respect de l’engagement de réduction et garantie pour la sanction
 
@@ -2532,13 +2525,23 @@ Pour chaque personne soumise à l’obligation de compenser, les données et les
 [^92-2]: Nouvelle teneur le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^92-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
-### Section 2 …
+### Section 2 Mise à disposition et mélange des carburants d’aviation à faible taux d’émission, renouvelables et synthétiques renouvelables
 
-#### Art. 92a et 92b
+[^chap7-sec2-1]
 
-[^92a92b-1]
+[^chap7-sec2-1]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
-[^92a92b-1]: Entrent en vigueur le 1<sup>er</sup> janv. 2026 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+#### Art. 92a
+
+**Champ d’application à raison du lieu**
+
+L’obligation prévue à l’art. 28*f* de la loi sur le CO<sub>2</sub> de mettre à disposition et mélanger des carburants d’aviation à faible taux d’émission, renouvelables et synthétiques renouvelables s’applique aux aéroports nationaux de Genève et Zurich.
+
+#### Art. 92b
+
+**Preuve relative à l’obligation de mélanger des carburants d’aviation**
+
+S’agissant du respect de l’obligation prévue à l’art. 28*f* de la loi sur le CO<sub>2</sub> de mélanger des carburants d’aviation à faible taux d’émission, renouvelables et synthétiques renouvelables mis sur le marché en Suisse, une garantie d’origine valable doit être utilisée à titre de preuve.
 
 ## Chapitre 7*a* Imputation de la prestation de réduction résultant de l’utilisation de combustibles et carburants renouvelables
 
@@ -2619,9 +2622,10 @@ Les participants au SEQE et les exploitants ayant pris un engagement de réducti
 La fabrication, l’extraction et l’importation des combustibles suivants sont soumises à la taxe sur le CO<sub>2</sub>:
 
 - a. charbon;
-- b. autres combustibles énumérés à l’art. 2 de la loi sur le CO<sub>2</sub>, dans la mesure où ils sont soumis à l’impôt sur les huiles minérales au sens de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^93-1].
+- b. autres combustibles énumérés à l’art. 2, let. a,[^93-1] de la loi sur le CO<sub>2</sub>, dans la mesure où ils sont soumis à l’impôt sur les huiles minérales au sens de la loi du 21 juin 1996 sur l’imposition des huiles minérales[^93-2].
 
-[^93-1]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
+[^93-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2025 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^93-2]: [RS 641.61](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8138)
 
 #### Art. 94
 
@@ -2695,7 +2699,9 @@ Sont exemptés de la taxe sur le CO<sub>2</sub>:
 
 **Remboursement pour les exploitants de centrales thermiques à combustibles fossiles**[^96b-1]
 
-<sup>1</sup> Sur demande, un exploitant de centrales thermiques à combustibles fossiles obtient le remboursement de la différence entre la taxe sur le CO2 prélevée sur les combustibles qu’il a payée et le prix minimal selon l’art. 17 de la loi sur le CO<sub>2</sub>.
+<sup>1</sup> Un exploitant de centrales thermiques à combustibles fossiles obtient sur demande le remboursement de la différence entre la taxe sur le CO<sub>2</sub> qu’il a payée pour les combustibles utilisés sur la période concernée par la demande et le montant minimal visé à l’art. 17 de la loi sur le CO<sub>2</sub>.[^96b-2]
+
+<sup>1bis</sup> Afin de prouver la quantité de combustibles qu’il a consommée, l’exploitant doit tenir des relevés de l’entrée, de la sortie et de la consommation des combustibles et des relevés de stocks.[^96b-3]
 
 <sup>2</sup>
 
@@ -2706,32 +2712,35 @@ Sont réputées centrales thermiques à combustibles fossiles les installations 
 - c. qui vendent de l’électricité à des tiers;
 - d. qui sont exploitées sur un emplacement pendant au moins deux ans ou pendant plus de 50 heures par an;
 - e. qui ne sont pas utilisées exclusivement à des fins de recherche, de développement ou de mise à l’étude de procédés et produits nouveaux, et
-- f. dont le but principal n’est pas l’élimination des déchets urbains et des déchets spéciaux au sens de l’art. 3, let. a et c, OLED[^96b-2].
+- f. dont le but principal n’est pas l’élimination des déchets urbains et des déchets spéciaux au sens de l’art. 3, let. a et c, OLED[^96b-4].
 
-<sup>3</sup> Pour le calcul des coûts externes au sens de l’art. 17 de la loi sur le CO<sub>2</sub>, l’OFEV tient compte en particulier de l’état respectif des connaissances scientifiques.
+<sup>3</sup> Pour le calcul des coûts externes au sens de l’art. 17 de la loi sur le CO<sub>2</sub>, l’OFEV se fonde sur les coûts de réparation des dommages causés par les émissions de gaz à effet de serre; il tient compte, à cet effet, de l’état respectif des connaissances scientifiques.[^96b-5]
 
-<sup>4</sup> Les exploitants doivent demander à l’OFEV le 30 juin au plus tard une confirmation de la quantité de combustible donnant droit au remboursement et du montant du remboursement partiel. Ils doivent indiquer le prix payé pour l’acquisition des droits d’émission des douze mois écoulés et fournir les justificatifs nécessaires. L’OFEV peut demander les informations complémentaires qui lui sont nécessaires pour délivrer la confirmation.[^96b-3]
+<sup>4</sup> Les exploitants doivent demander à l’OFEV le 30 juin au plus tard une confirmation de la quantité de combustible donnant droit au remboursement et du montant du remboursement partiel. Ils doivent indiquer le prix payé pour l’acquisition des droits d’émission des douze mois écoulés et fournir les justificatifs nécessaires. L’OFEV peut demander les informations complémentaires qui lui sont nécessaires pour délivrer la confirmation.[^96b-6]
 
-<sup>5</sup> Si l’exploitant ne fournit pas de données pouvant être prouvées sur les montants acquittés, ceux-ci sont réputés avoir une valeur de zéro franc.[^96b-4]
+<sup>5</sup> Si l’exploitant ne fournit pas de données pouvant être prouvées sur les montants acquittés, ceux-ci sont réputés avoir une valeur de zéro franc.[^96b-7]
 
-<sup>6</sup> L’exploitant peut demander à l’OFDF, en la forme prescrite par ce dernier, le versement du montant à rembourser dans un délai de six mois à compter de la délivrance de la confirmation de l’OFEV.[^96b-5]
+<sup>6</sup> L’exploitant peut demander à l’OFDF, en la forme prescrite par ce dernier, le versement du montant à rembourser dans un délai de six mois à compter de la délivrance de la confirmation de l’OFEV.[^96b-8]
 
-<sup>7</sup> La confirmation de l’OFEV et les factures correspondant aux taxes sur le CO<sub>2</sub> qui ont été versées doivent être fournies à l’OFDF sur demande.[^96b-6]
+<sup>7</sup> La confirmation de l’OFEV et les factures correspondant aux taxes sur le CO<sub>2</sub> qui ont été versées doivent être fournies à l’OFDF sur demande.[^96b-9]
 
 <sup>8</sup>
 
 Le droit au remboursement s’éteint:
 
 - a. si la confirmation de l’OFEV n’est pas obtenue dans les délais, ou
-- b. si le versement du montant à rembourser n’est pas demandé dans les délais à l’OFDF.[^96b-7]
+- b. si le versement du montant à rembourser n’est pas demandé dans les délais à l’OFDF.[^96b-10]
 
 [^96b-1]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^96b-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
-[^96b-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^96b-4]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
-[^96b-5]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^96b-6]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^96b-7]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^96b-2]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^96b-3]: Introduit par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^96b-4]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
+[^96b-5]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^96b-6]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^96b-7]: Nouvelle teneur selon le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^96b-8]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^96b-9]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^96b-10]: Introduit par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
 #### Art. 97
 
@@ -3940,13 +3949,15 @@ Les procédures suivantes sont exécutées électroniquement via les systèmes d
 
 - a. procédures relatives à la délivrance d’attestations pour des réductions d’émissions ou le renforcement des prestations de puits de carbone (art. 5 à 11);
 - b. procédures relatives à la participation au SEQE (art. 40 à 46*f* et art. 50 à 54);
-- c. procédures relatives à l’engagement de réduction (art. 66 à 79).
+- c. procédures relatives à l’engagement de réduction (art. 66 à 79);
+- d.[^130a-2] procédures relatives à l’octroi d’aides financières destinées aux mesures visant à éviter les dommages et d’aides financières destinées aux mesures visant à décarboner les installations (art. 127*h* à 127*p*).
 
 <sup>2</sup> Si, dans certains domaines, les systèmes d’information et de documentation n’ont pas encore été mis en place pour l’exécution électronique des procédures, les données doivent être fournies par voie postale.
 
 <sup>3</sup> En dérogation à l’al. 1, l’OFEV peut prononcer des décisions par voie postale.
 
 [^130a-1]: Introduit par le ch. I de l’O du 4 mai 2022, en vigueur depuis le 1<sup>er</sup> juin 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
+[^130a-2]: Introduite par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 #### Art. 131
 
@@ -4003,10 +4014,10 @@ Sur demande des autorités d’exécution, les exploitants d’installations et 
 
 <sup>1</sup>
 
-Les données recueillies aux fins d’exécution de la présente ordonnance sont à la disposition des autorités qui en ont besoin pour l’exécution. Les autorités suivantes transmettent notamment aux autorités indiquées les données ci-après:
+Les données, y compris les données personnelles, recueillies aux fins d’exécution de la présente ordonnance sont à la disposition des autorités qui en ont besoin pour l’exécution. Les autorités suivantes transmettent notamment aux autorités indiquées les données ci-après:[^134-1]
 
-- a.[^134-1] l’OFDF transmet à l’OFROU et à l’OFEN les données relatives aux importations qui sont nécessaires pour l’exécution du chapitre 3 et l’OFROU transmet à l’OFEN les autres données nécessaires pour l’exécution du chapitre 3;
-- b.[^134-2]
+- a.[^134-2] l’OFDF transmet à l’OFROU et à l’OFEN les données relatives aux importations qui sont nécessaires pour l’exécution du chapitre 3 et l’OFROU transmet à l’OFEN les autres données nécessaires pour l’exécution du chapitre 3;
+- b.[^134-3]
 
   l’OFEV transmet à l’OFEN, au Département fédéral des affaires étrangères et au Secrétariat d’État à l’économie les données nécessaires pour le contrôle:
 
@@ -4014,7 +4025,7 @@ Les données recueillies aux fins d’exécution de la présente ordonnance sont
   - 2\. des demandes de définition d’un engagement de réduction, et
   - 3\. des rapports de suivi (art. 9 et 91);
 
-- c.[^134-3]
+- c.[^134-4]
 
   l’OFDF transmet à l’OFEV les données nécessaires pour le contrôle:
 
@@ -4022,8 +4033,8 @@ Les données recueillies aux fins d’exécution de la présente ordonnance sont
   - 2\. des rapports de suivi (art. 9, 52, 72 et 91), et
   - 3\. des demandes de délivrance d’attestations (art. 7, 12 et 12*a*);
 
-- d.[^134-4] l’OFEV transmet à l’OFDF les données nécessaires pour le remboursement de la taxe sur le CO<sub>2</sub>;
-- e.[^134-5]
+- d.[^134-5] l’OFEV transmet à l’OFDF les données nécessaires pour le remboursement de la taxe sur le CO<sub>2</sub>;
+- e.[^134-6]
 
   l’OFAC transmet à l’OFEV les données nécessaires pour le contrôle:
 
@@ -4031,26 +4042,28 @@ Les données recueillies aux fins d’exécution de la présente ordonnance sont
   - 2\. des plans de suivi (art. 51), et
   - 3\. des rapports de suivi (art. 52);
 
-- f.[^134-6]
+- f.[^134-7]
 
   l’OFEN transmet à l’OFEV les données nécessaires pour le contrôle:
 
   - 1\. des rapports de suivi (art. 52 et 72), et
-  - 2\. des conventions d’objectifs (art. 67 et 68).
+  - 2\.[^134-8] des conventions d’objectifs (art. 46, al. 1<sup>bis</sup>, 67 et 68).
 
-<sup>2</sup> L’OFDF et l’Organisation suisse de stockage obligatoire pour carburants et combustibles liquides (Carbura) peuvent échanger des données pour l’exécution des dispositions relatives à la compensation des émissions de CO<sub>2</sub> des carburants.[^134-7]
+<sup>2</sup> L’OFDF et l’Organisation suisse de stockage obligatoire pour carburants et combustibles liquides (Carbura) peuvent échanger des données pour l’exécution des dispositions relatives à la compensation des émissions de CO<sub>2</sub> des carburants.[^134-9]
 
-<sup>3</sup> L’OFEV propose aux Archives fédérales, conformément à la loi du 26 juin 1998 sur l’archivage[^134-8], les données personnelles dont il n’a plus besoin en vue de leur conservation. Les données jugées sans valeur archivistique par les Archives fédérales sont détruites.[^134-9]
+<sup>3</sup> L’OFEV propose aux Archives fédérales, conformément à la loi du 26 juin 1998 sur l’archivage[^134-10], les données personnelles dont il n’a plus besoin en vue de leur conservation. Les données jugées sans valeur archivistique par les Archives fédérales sont détruites.[^134-11]
 
-[^134-1]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
-[^134-2]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^134-3]: Nouvelle teneur selon le ch. I de l’O du 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
-[^134-4]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^134-5]: Introduite par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
-[^134-6]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^134-7]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^134-8]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
-[^134-9]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^134-1]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^134-2]: Nouvelle teneur selon le ch. I de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^134-3]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^134-4]: Nouvelle teneur selon le ch. I de l’O du 8 oct. 2014, en vigueur depuis le 1<sup>er</sup> déc. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)).
+[^134-5]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^134-6]: Introduite par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^134-7]: Introduite par le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^134-8]: Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^134-9]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^134-10]: [RS 152.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4931)
+[^134-11]: Introduit par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 
 #### Art. 134a
 
@@ -4075,22 +4088,23 @@ Le DETEC adapte:
 - c<sup>bis</sup>.[^135-3] l’annexe 5, pour la détermination annuelle des montants visés à l’art. 13, al. 1, de la loi sur le CO<sub>2</sub>;
 - c<sup>ter</sup>.[^135-4] l’annexe 6 lorsque les catégories d’installation sont modifiées en raison d’une réglementation internationale comparable;
 - d.[^135-5] …
-- d<sup>bis</sup>.[^135-6] l’annexe 9, ch. 1 et 4, lorsque le règlement d’exécution (UE) 2021/447 de la Commission du 12 mars 2021[^135-7] est modifié ou remplacé;
-- d<sup>ter</sup>.[^135-8] l’annexe 9, ch. 3, lorsque la décision déléguée (UE) 2019/708 de la Commission du 15 février 2019[^135-9] est modifiée ou remplacée;
+- d<sup>bis</sup>.[^135-6] l’annexe 9, ch. 1, lorsque le règlement d’exécution (UE) 2021/447[^135-7] est modifié ou remplacé;
+- d<sup>ter</sup>.[^135-8] l’annexe 9, ch. 3, lorsque la décision déléguée (UE) 2019/708[^135-9] ou le règlement (UE) 2023/956[^135-10] sont modifiés ou remplacés;
 - e. l’annexe 11 selon l’augmentation du montant de la taxe (art. 94, al. 1);
-- f.[^135-10] l’annexe 14 lorsque le règlement (CE) n<sup>o</sup> 748/2009[^135-11] est modifié.
+- f.[^135-11] l’annexe 14 lorsque le règlement (CE) n<sup>o</sup> 748/2009[^135-12] est modifié.
 
 [^135-1]: Introduite par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
 [^135-2]: Introduite par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> nov. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)).
 [^135-3]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)).
 [^135-4]: Introduite par le ch. I de l’O du 13 nov. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
 [^135-5]: Abrogée par le ch. I de l’O du 2 avr. 2025, avec effet au 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^135-6]: Introduite par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^135-7]: Règlement d ’exécution (UE) 2021/447 de la Commission du 12 mars 2021 déterminant les valeurs révisées des référentiels pour l ’allocation de quotas d ’émission à titre gratuit pour la période 2021-2025, conformément à l ’art. 10*bis*, par. 2, de la directive 2003/87/CE du Parlement européen et du Conseil, version du JO L 87 du 15.3.2021, p. 29.
-[^135-8]: Introduite par le ch. I de l’O du 24 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)).
-[^135-9]: Décision déléguée (UE) 2019/708 de la Commission du 15 février 2019 complétant la directive 2003/87/CE du Parlement européen et du Conseil en ce qui concerne l ’établissement de la liste des secteurs et sous-secteurs considérés comme exposés à un risque de fuite de carbone pour la période 2021-2030, version du JO L 120 du 8.5.2019, p. 20.
-[^135-10]: Introduite par le ch. I de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
-[^135-11]: Règlement (CE) n<sup>o</sup> 748/2009 de la Commission du 5 août 2009 concernant la liste des exploitants d’aéronefs ayant exercé une activité aérienne visée à l’annexe I de la directive 2003/87/CE à compter du 1<sup>er</sup> janvier 2006 et précisant l’État membre responsable de chaque exploitant d’aéronefs, JO L 219 du 22.8.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1030, JO L, 2024/1030, 5.4.2024.
+[^135-6]: Introduite par le ch. I de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)). Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^135-7]: Règlement d’exécution (UE) 2021/447 de la Commission du 12 mars 2021 déterminant les valeurs révisées des référentiels pour l’allocation de quotas d’émission à titre gratuit pour la période 2021–2025, conformément à l’art. 10*a*, par. 2, de la directive 2003/87/CE du Parlement européen et du Conseil, version du JO L 87 du 15.3.2021, p. 29.
+[^135-8]: Introduite par le ch. I de l’O du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)). Nouvelle teneur selon le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+[^135-9]: Décision déléguée (UE) 2019/708 de la Commission du 15 février 2019 complétant la directive 2003/87/CE du Parlement européen et du Conseil en ce qui concerne l’établissement de la liste des secteurs et sous-secteurs considérés comme exposés à un risque de fuite de carbone pour la période 2021–2030, version du JO L 120 du 8.5.2019, p. 20.
+[^135-10]: Règlement (UE) 2023/956 du Parlement européen et du Conseil du 10 mai 2023 établissant un mécanisme d’ajustement carbone aux frontières, version du JO L 130 du 16.5.2023, p. 52.
+[^135-11]: Introduite par le ch. I de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. I de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^135-12]: Règlement (CE) n<sup>o</sup> 748/2009 de la Commission du 5 août 2009 concernant la liste des exploitants d’aéronefs ayant exercé une activité aérienne visée à l’annexe I de la directive 2003/87/CE à compter du 1<sup>er</sup> janvier 2006 et précisant l’État membre responsable de chaque exploitant d’aéronefs, JO L 219 du 22.8.2009, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1030, JO L, 2024/1030, 5.4.2024.
 
 #### Art. 135a
 
@@ -4594,6 +4608,24 @@ Les délais mentionnés aux art. 98, al. 2, et 100, al. 2 et 3, de l’ancien dr
 
 <sup>2</sup> En 2025, les demandes visées à l’art. 127*j*, al. 4, peuvent être déposées jusqu’au 31 juillet 2025.
 
+### Section 2*i* Dispositions transitoires de la modification du 19 novembre 2025
+
+[^chap12-sec2i-1]
+
+[^chap12-sec2i-1]: Introduite par le ch. I de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
+
+#### Art. 146
+
+***ah*Attribution de droits d’émission à titre gratuit aux exploitants d’installations**
+
+Les droits d’émission à titre gratuit sont attribués aux exploitants d’installations en vertu de l’art. 46 au plus tard le 30 juin 2027 pour l’année 2026.
+
+#### Art. 146
+
+***ai*Restitution des excédents de droits d’émission perçus par les exploitants d’aéronefs**
+
+Si un exploitant d’aéronefs à qui des droits d’émission ont été attribués à titre gratuit en vertu de l’art. 46*f* de l’ancien droit n’effectue aucun vol relevant de l’annexe 13 en 2025, il est tenu de restituer à l’OFEV les droits d’émission qui lui ont été attribués à titre gratuit pour l’année en question au plus tard le 30 novembre 2026.
+
 ### Section 3 Entrée en vigueur
 
 #### Art. 147
@@ -4751,7 +4783,7 @@ Annexe 3a[^t-5]
 
 ## Exigences relatives au calcul des réductions d’émissions et au plan de suivi concernant les projets et les programmes en relation avec un réseau de chauffage à distance
 
-[^t-5]: Introduite par le ch. II al.1 de l’O du 21 sept. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Mise à jour par l’erratum du 10 nov. 2023 ([RO 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)) et le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> mai 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248), [267](https://fedlex.data.admin.ch/eli/oc/2025/267)).
+[^t-5]: Introduite par le ch. II al.1 de l’O du 21 sept. 2018 ([RO 2018 3477](https://fedlex.data.admin.ch/eli/oc/2018/566)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Mise à jour par l’erratum du 10 nov. 2023 ([RO 2023 640](https://fedlex.data.admin.ch/eli/oc/2023/640)), le ch. II al. 1 de l’O du 2 avr. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248), [267](https://fedlex.data.admin.ch/eli/oc/2025/267)) et le ch. II de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### 1 Champ d’application
 
@@ -4839,22 +4871,38 @@ où:
 - 14 ≤ y – z &lt; 20: 0,081 t éq.-CO<sub>2</sub>/MWh.
 - z Année civile au cours de laquelle a débuté la mise en œuvre du projet au sens de l’art. 5, al. 3
 
-*ESR**<sub>ce,y</sub>* *= ∑**<sub>k</sub>* *QC**<sub>ce,k,y</sub>**\* FE**<sub>ce</sub>* *\* FR**<sub>y</sub>**\*1/(1–WVN))* (3)
+*ESR**<sub>ce,y</sub>* = *∑**<sub>k</sub>* *QC**<sub>ce,k,y</sub>*\* *FE**<sub>ce</sub>* \* *FR**<sub>ce, v, y</sub>*\*1/(1–PR) (3)
 
 où:
 
-- QC<sub>ce,k,y</sub> Quantité de chaleur qui sera vraisemblablement fournie à des consommateurs existants au cours de l’année y [MWh]; dans le suivi, ce paramètre est remplacé par la valeur mesurée conformément au ch. 4.2.
 - <sub>k</sub> Tous les consommateurs de chaleur existants à l’exclusion des exploitants d’installations exemptés de la taxe sur le CO<sub>2</sub> en vertu de l’art. 96, al. 2.
-- FR<sub>y</sub> Le facteur de référence de l’année y vaut 100 % si l’année y se situe dans la période des 20 années consécutives à l’année d’installation de la plus ancienne source de chaleur centrale alimentée aux combustibles fossiles; dans tous les autres cas, il vaut 70 %.
-- PR Déduction globale de 10 % pour les pertes de chaleur du réseau de distribution de chaleur.
+- QC<sub>ce,k,y</sub> Quantité de chaleur qui sera vraisemblablement fournie à des consommateurs existants au cours de l’année y [MWh]; dans le suivi, ce paramètre est remplacé par la valeur mesurée conformément au ch. 4.2.
 - FE<sub>ce</sub>
 
-  Facteur d’émission du réseau de chauffage à distance existant, rendement compris, dépendant de la nature de la ou des sources de chaleur centrale à remplacer; il est calculé comme suit:
+  Facteur d’émission du réseau de chauffage à distance existant, rendement compris, dépendant de la nature de la ou des sources de chaleur centrale à remplacer; il s’élève à:
 
-  - – projets concernant le seul remplacement de sources de chaleur alimentées au gaz naturel: FE<sub>ce</sub> = 0,226 t de CO<sub>2</sub>/MWh,
-  - – projets concernant le seul remplacement de sources de chaleur alimentées à l’huile de chauffage: FE<sub>ce</sub> = 0,312 t de CO<sub>2</sub>/MWh,
-  - – projets concernant le seul remplacement de sources de chaleur alimentées au gaz naturel et à l’huile de chauffage: FE<sub>ce</sub> = 0,269 t de CO<sub>2</sub>/MWh,
-  - – projets concernant le remplacement de sources de chaleur alimentées aux combustibles fossiles et aux énergies renouvelables: FE<sub>ce</sub> = 0,113 t de CO<sub>2</sub>/MWh.
+  - – 0,226 t de CO<sub>2</sub>/MWh pour les projets concernant le seul remplacement de sources de chaleur alimentées au gaz naturel,
+  - <sub>–</sub> 0,312 t de CO<sub>2</sub>/MWh pour les projets concernant le seul remplacement de sources de chaleur alimentées à l’huile de chauffage,
+  - <sub>–</sub> 0,269 t de CO<sub>2</sub>/MWh pour les projets concernant le seul remplacement de sources de chaleur alimentées au gaz naturel et à l’huile de chauffage,
+  - – 0,113 t de CO<sub>2</sub>/MWh pour les projets concernant le remplacement de sources de chaleur alimentées aux combustibles fossiles et aux énergies renouvelables.
+
+- FR<sub>ce,y,v</sub>
+
+  Facteur de référence de l’année y; il s’élève à:
+
+  - 100 % si y – v &lt; 20;
+  - 80 % si y – v ≥ 20 et &lt; 24;
+  - 60 % si y – v ≥ 24 et &lt; 29;
+  - 40 % si y – v ≥ 29;
+
+- [tab]
+
+  où:
+
+  - y Année pour laquelle les réductions d’émission sont calculées
+  - v Année d’installation de la plus ancienne source de chaleur alimentée aux combustibles fossiles à remplacer
+
+- PR Déduction globale de 10 % pour les pertes de chaleur du réseau de distribution de chaleur
 
 ### 3.5 Calcul des émissions du projet ou du programme
 
@@ -4878,7 +4926,7 @@ où:
 
 Les réductions annuelles d’émissions des projets se calculent comme suit:
 
-*RE**<sub>y</sub>* *= ESR**<sub>y</sub>* *– EP**<sub>y</sub>* (5)
+*REy = ESRy – EPy* (5)
 
 où:
 
@@ -4900,7 +4948,7 @@ où:
 
 ### 4.2 Mesure de la quantité de chaleur fournie aux consommateurs de chaleur
 
-La mesure de la quantité de chaleur fournie aux nouveaux consommateurs et aux consommateurs existants (QC<sub>nc,1,y</sub>) (QC<sub>ce,l,y</sub>) doit remplir les conditions suivantes:
+La mesure de la quantité de chaleur fournie aux nouveaux consommateurs et aux consommateurs existants (QC<sub>nc,l,y</sub>) (QC<sub>ce,l,y</sub>) doit remplir les conditions suivantes:
 
 - a. la quantité de chaleur fournie au consommateur *l* au cours de l’année *y* est mesurée;
 - b. les données sont collectées au moyen d’un compteur de chaleur;
@@ -4996,7 +5044,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250501/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20260101/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions des émissions de méthane
 
@@ -5021,7 +5069,7 @@ où:
 - y Année sur laquelle porte le calcul des émissions de méthane
 - x Année au cours de laquelle la décharge a été remplie avec une certaine quantité de déchets Dj,x de catégorie j, se situant dans la période AO à y
 - 16/12 Quotient des masses moléculaires du CH<sub>4</sub> et du C
-- F = 0.5; fraction de méthane dans le mélange de méthane et de dioxyde de carbone du gaz de décharge
+- F= 0.5 Fraction de méthane dans le mélange de méthane et de dioxyde de carbone du gaz de décharge
 - DOC<sub>f</sub> Fraction du carbone biologiquement dégradable dégradé en conditions anaérobies [% masse]
 - D<sub>j,x</sub> Quantité de déchets de catégorie j mis en décharge durant l’année x [t déchets]
 - AO Première année au cours de laquelle des déchets ont été stockés (année d’ouverture de la décharge)
@@ -5222,7 +5270,7 @@ Annexe 4a[^t-9]
 
 ## Calcul de la valeur cible spécifique
 
-[^t-9]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nouvelle teneur selon le ch. II al. 2 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-9]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> nov. 2017 ([RO 2017 6753](https://fedlex.data.admin.ch/eli/oc/2017/757)). Nouvelle teneur selon le ch. II al. 2 de l’O du 2 avr. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)). Mise à jour par le ch. II de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### 1 Calcul de la valeur cible spécifique pour les voitures de tourisme, les voitures de livraison et les tracteurs à sellette légers
 
@@ -5262,7 +5310,8 @@ Annexe 4a[^t-9]
   - f. 2020: 1674 kg;
   - g. 2021: 1693 kg;
   - h. 2022: 1727 kg;
-  - i. 2023: 1767 kg.
+  - i. 2023: 1767 kg;
+  - j. 2024: 1777 kg.
 
 ### 2.2 Voitures de livraison et tracteurs à sellette légers
 
@@ -5275,7 +5324,8 @@ Annexe 4a[^t-9]
   - c. 2020: 2089 kg;
   - d. 2021: 2094 kg;
   - e. 2022: 2117 kg;
-  - f. 2023: 2110 kg.
+  - f. 2023: 2110 kg;
+  - g. 2024: 2130 kg.
 
 ### 3 Calcul de la valeur cible spécifique pour les véhicules lourds
 
@@ -5414,7 +5464,7 @@ Annexe 5[^t-12]
 
 ## Sanction en cas de non-respect de la valeur cible spécifique (art. 13, al. 1, de la loi sur le CO<sub>2</sub>)
 
-[^t-12]: Nouvelle teneur selon le ch. I al. 1 de l’O du 20 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 705](https://fedlex.data.admin.ch/eli/oc/2024/705)).
+[^t-12]: Nouvelle teneur selon le ch. I al. 1 de l’O du 20 nov. 2024 ([RO 2024 705](https://fedlex.data.admin.ch/eli/oc/2024/705)). Mise à jour par le ch. II de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### 1 Montants pour les voitures de tourisme, les voitures de livraison et les tracteurs à sellette légers
 
@@ -5423,11 +5473,17 @@ Annexe 5[^t-12]
   Les montants à verser en cas de dépassement de la valeur cible spécifique, par gramme supplémentaire de CO<sub>2</sub>/km (à partir de 0,1 g), sont les suivants:
 
   - a. pour l’année de référence 2024: 95 francs;
-  - b. pour l’année de référence 2025: 95 francs.
+  - b. pour l’année de référence 2025: 95 francs;
+  - c. pour l’année de référence 2026: 95 francs.
 
 ### 2 Montants pour les véhicules lourds
 
-- Pour l’année de référence 2025, le montant à verser en cas de dépassement de la valeur cible spécifique, par gramme supplémentaire de CO<sub>2</sub>/tkm (à partir de 0,01 g), est de 4250 francs.
+-
+
+  Les montants à verser en cas de dépassement de la valeur cible spécifique, par gramme supplémentaire de CO<sub>2</sub>/tkm (à partir de 0,1 g), sont les suivants:
+
+  - a. pour l’année de référence 2025: 4250 francs;
+  - b. pour l’année de référence 2026: 4250 francs.
 
 Annexe 6[^t-13]
 
@@ -5510,76 +5566,76 @@ La quantité maximale de droits d’émission disponibles chaque année pour l�
 
 Annexe 9[^t-16]
 
-(art. 46, al. 1, 46*a*, al. 2, et 46*b*, al. 1 et 3)
+(art. 46, al. 1, et 46*b*, al. 1, 2 et 4)
 
 ## Calcul des droits d’émission attribués à titre gratuit aux exploitants d’installations participant au SEQE
 
-[^t-16]: Mise à jour par le ch. II des O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) et du 22 juin 2016 ([RO 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), le ch. II al. 1 des O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), l’erratum du 10 fév. 2021 ([RO 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)), le ch. II al. 1 de l’O du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)), le ch. II al. 3 de l’O du 4 mai 2022 ([RO 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)) et le ch. II al. 1 de l’O du 29 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)).
+[^t-16]: Mise à jour par le ch. II de l’O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), le ch. II al. 1 des O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), le ch. II al. 1 de l’O du 24 nov. 2021 ([RO 2021 859](https://fedlex.data.admin.ch/eli/oc/2021/859)) et le ch. II de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### 1 Référentiels de produits
 
-- 1\.1 La quantité de droits d’émission attribués chaque année à titre gratuit se calcule à partir des référentiels de produits suivants:
+- 1\.1 La quantité de droits d’émission attribués chaque année à titre gratuit est calculée à partir des référentiels de produits suivants:
 
 <table>
 <tr><th>Produit</th><th>Référentiel (nombre de droits d’émission par tonne de produits fabriqués)</th></tr>
-<tr><td>Coke</td><td>0,217</td></tr>
-<tr><td>Minerais aggloméré</td><td>0,157</td></tr>
-<tr><td>Fonte liquide</td><td>1,288</td></tr>
-<tr><td>Anodes précuites</td><td>0,312</td></tr>
-<tr><td>Aluminium</td><td>1,464</td></tr>
-<tr><td>Clinker de ciment gris</td><td>0,693</td></tr>
-<tr><td>Clinker de ciment blanc</td><td>0,957</td></tr>
-<tr><td>Chaux</td><td>0,725</td></tr>
-<tr><td>Dolomie</td><td>0,815</td></tr>
-<tr><td>Dolomie frittée</td><td>1,406</td></tr>
-<tr><td>Verre flotté</td><td>0,399</td></tr>
-<tr><td>Bouteilles et récipients en verre non coloré</td><td>0,290</td></tr>
-<tr><td>Bouteilles et récipients en verre coloré</td><td>0,237</td></tr>
-<tr><td>Produits de fibre de verre en filament continu</td><td>0,309</td></tr>
-<tr><td>Briques de parement</td><td>0,106</td></tr>
-<tr><td>Briques de pavage</td><td>0,146</td></tr>
-<tr><td>Tuiles</td><td>0,120</td></tr>
-<tr><td>Poudre atomisée</td><td>0,058</td></tr>
-<tr><td>Plâtre</td><td>0,047</td></tr>
-<tr><td>Gypse secondaire sec</td><td>0,013</td></tr>
-<tr><td>Pâte kraft fibres courtes</td><td>0,091</td></tr>
-<tr><td>Pâte kraft fibres longues</td><td>0,046</td></tr>
-<tr><td>Pâte au bisulfite, pâte thermomécanique et pâte mécanique</td><td>0,015</td></tr>
-<tr><td>Pâte à partir de papier recyclé</td><td>0,030</td></tr>
-<tr><td>Papier journal</td><td>0,226</td></tr>
-<tr><td>Papier fin non couché</td><td>0,242</td></tr>
-<tr><td>Papier fin couché</td><td>0,242</td></tr>
-<tr><td>«Tissues»</td><td>0,254</td></tr>
-<tr><td>«Testliner» et papier pour cannelure</td><td>0,188</td></tr>
-<tr><td>Carton non couché</td><td>0,180</td></tr>
-<tr><td>Carton couché</td><td>0,207</td></tr>
-<tr><td>Acide nitrique</td><td>0,230</td></tr>
-<tr><td>Acide adipique</td><td>2,12</td></tr>
-<tr><td>Chlorure de vinyle monomère (CVM)</td><td>0,155</td></tr>
-<tr><td>Phénol/acétone</td><td>0,230</td></tr>
-<tr><td>PVC en suspension (S-PVC)</td><td>0,066</td></tr>
-<tr><td>PVC en émulsion (E-PVC)</td><td>0,181</td></tr>
-<tr><td>Carbonate de soude</td><td>0,753</td></tr>
-<tr><td>Produits de raffinerie</td><td>0,0228</td></tr>
-<tr><td>Acier au carbone produit au four électrique</td><td>0,215</td></tr>
-<tr><td>Acier fortement allié produit au four électrique</td><td>0,268</td></tr>
-<tr><td>Fonte de fer</td><td>0,282</td></tr>
-<tr><td>Laine minérale</td><td>0,536</td></tr>
-<tr><td>Plaques de plâtre</td><td>0,110</td></tr>
-<tr><td>Noir de carbone</td><td>1,485</td></tr>
-<tr><td>Ammoniac</td><td>1,570</td></tr>
-<tr><td>Vapocraquage</td><td>0,681</td></tr>
-<tr><td>Aromatiques</td><td>0,0228</td></tr>
-<tr><td>Styrène</td><td>0,401</td></tr>
-<tr><td>Hydrogène</td><td>6,84</td></tr>
-<tr><td>Gaz de synthèse</td><td>0,187</td></tr>
-<tr><td>Oxyde d’éthylène/éthylène glycol</td><td>0,389</td></tr>
+<tr><td>Coke</td><td>(…)</td></tr>
+<tr><td>Minerais aggloméré</td><td>(…)</td></tr>
+<tr><td>Fonte liquide</td><td>(…)</td></tr>
+<tr><td>Anodes précuites</td><td>(…)</td></tr>
+<tr><td>Aluminium</td><td>(…)</td></tr>
+<tr><td>Clinker de ciment gris</td><td>(…)</td></tr>
+<tr><td>Clinker de ciment blanc</td><td>(…)</td></tr>
+<tr><td>Chaux</td><td>(…)</td></tr>
+<tr><td>Dolomie</td><td>(…)</td></tr>
+<tr><td>Dolomie frittée</td><td>(…)</td></tr>
+<tr><td>Verre flotté</td><td>(…)</td></tr>
+<tr><td>Bouteilles et récipients en verre non coloré</td><td>(…)</td></tr>
+<tr><td>Bouteilles et récipients en verre coloré</td><td>(…)</td></tr>
+<tr><td>Produits de fibre de verre en filament continu</td><td>(…)</td></tr>
+<tr><td>Briques de parement</td><td>(…)</td></tr>
+<tr><td>Briques de pavage</td><td>(…)</td></tr>
+<tr><td>Tuiles</td><td>(…)</td></tr>
+<tr><td>Poudre atomisée</td><td>(…)</td></tr>
+<tr><td>Plâtre</td><td>(…)</td></tr>
+<tr><td>Gypse secondaire sec</td><td>(…)</td></tr>
+<tr><td>Pâte kraft fibres courtes</td><td>(…)</td></tr>
+<tr><td>Pâte kraft fibres longues</td><td>(…)</td></tr>
+<tr><td>Pâte au bisulfite, pâte thermomécanique et pâte mécanique</td><td>(…)</td></tr>
+<tr><td>Pâte à partir de papier recyclé</td><td>(…)</td></tr>
+<tr><td>Papier journal</td><td>(…)</td></tr>
+<tr><td>Papier fin non couché</td><td>(…)</td></tr>
+<tr><td>Papier fin couché</td><td>(…)</td></tr>
+<tr><td>«Tissues»</td><td>(…)</td></tr>
+<tr><td>«Testliner» et papier pour cannelure</td><td>(…)</td></tr>
+<tr><td>Carton non couché</td><td>(…)</td></tr>
+<tr><td>Carton couché</td><td>(…)</td></tr>
+<tr><td>Acide nitrique</td><td>(…)</td></tr>
+<tr><td>Acide adipique</td><td>(…)</td></tr>
+<tr><td>Chlorure de vinyle monomère (CVM)</td><td>(…)</td></tr>
+<tr><td>Phénol/acétone</td><td>(…)</td></tr>
+<tr><td>PVC en suspension (S-PVC)</td><td>(…)</td></tr>
+<tr><td>PVC en émulsion (E-PVC)</td><td>(…)</td></tr>
+<tr><td>Carbonate de soude</td><td>(…)</td></tr>
+<tr><td>Produits de raffinerie</td><td>(…)</td></tr>
+<tr><td>Acier au carbone produit au four électrique</td><td>(…)</td></tr>
+<tr><td>Acier fortement allié produit au four électrique</td><td>(…)</td></tr>
+<tr><td>Fonte de fer</td><td>(…)</td></tr>
+<tr><td>Laine minérale</td><td>(…)</td></tr>
+<tr><td>Plaques de plâtre</td><td>(…)</td></tr>
+<tr><td>Noir de carbone</td><td>(…)</td></tr>
+<tr><td>Ammoniac</td><td>(…)</td></tr>
+<tr><td>Vapocraquage</td><td>(…)</td></tr>
+<tr><td>Aromatiques</td><td>(…)</td></tr>
+<tr><td>Styrène</td><td>(…)</td></tr>
+<tr><td>Hydrogène</td><td>(…)</td></tr>
+<tr><td>Gaz de synthèse</td><td>(…)</td></tr>
+<tr><td>Oxyde d’éthylène/éthylène glycol</td><td>(…)</td></tr>
 </table>
 
 - 1\.2 Lorsqu’aucun référentiel de produit ne s’applique, la quantité de droits d’émission attribués chaque année à titre gratuit est calculée sur la base du référentiel de chaleur comme suit:
 -
 
-  47,3 droits d’émission par TJ de chaleur mesurable, seule la chaleur mesurable produite ou importée par d’autres installations dont les exploitants participent au SEQE donnant droit à une attribution à titre gratuit de droits d’émission, pour autant que cette chaleur ne soit pas produite avec de l’électricité ou en ayant recours à l’énergie nucléaire, et:
+  (…) droits d’émission par TJ de chaleur mesurable, seule la chaleur mesurable produite ou importée par d’autres installations dont les exploitants participent au SEQE donnant droit à une attribution à titre gratuit de droits d’émission, pour autant que cette chaleur ne soit pas produite en ayant recours à l’énergie nucléaire, et:
 
   - a. soit utilisée à l’intérieur des marges de fonctionnement du système de l’exploitant d’installations qui participe au SEQE pour la fabrication de produits, la production d’une énergie mécanique utilisée à d’autres fins que pour produire de l’électricité, pour le chauffage ou le refroidissement, mais pas pour la production d’électricité, ou
   - b. soit exportée vers des tiers hors SEQE, à l’exception des exportations pour la production d’électricité et le transfert de chaleur importée.
@@ -5587,37 +5643,54 @@ Annexe 9[^t-16]
 - 1\.3 Lorsqu’aucun référentiel de produit ni aucun référentiel de chaleur ne s’applique, la quantité de droits d’émission attribués chaque année à titre gratuit est calculée sur la base du référentiel de combustible comme suit:
 -
 
-  42,6 droits d’émission par TJ d’énergie produite, si les cas suivants se présentent à l’intérieur des marges de fonctionnement du système de l’exploitant d’installations qui participe au SEQE:
+  (…) droits d’émission par TJ d’énergie produite, si, à l’intérieur des marges de fonctionnement du système de l’exploitant d’installations qui participe au SEQE, de la chaleur non mesurable:
 
-  - a. de la chaleur non mesurable est produite lors de la combustion d’agents énergétiques et est utilisée pour la fabrication de produits, la production d’une énergie mécanique utilisée à d’autres fins que pour produire de l’électricité, pour le chauffage ou le refroidissement, mais pas pour la production d’électricité;
-  - b. de la chaleur non mesurable est produite par mise en torchère pour des raisons de sécurité.
+  - a. est produite exclusivement dans des installations principalement destinées à la production de chaleur et est utilisée pour la fabrication de produits, pour la production d’une énergie mécanique utilisée à d’autres fins que celle de la production d’électricité, pour le chauffage ou le refroidissement, mais pas pour la production d’électricité, ou
+  - b. est produite par mise en torchère pour des raisons de sécurité.
 
-- 1\.4 Lorsqu’aucun des référentiels visés aux ch. 1.1 à 1.3 ne s’applique, la quantité de droits d’émission attribués chaque année à titre gratuit pour les émissions liées directement et immédiatement à un procédé de production est calculée en multipliant ces émissions par 0,97.
+- 1\.4
+
+  Lorsqu’aucun des référentiels visés aux ch. 1.1 à 1.3 ne s’applique, la quantité de droits d’émission attribués chaque année à titre gratuit pour les émissions liées directement et immédiatement à un procédé de production est calculée en multipliant ces émissions par le facteur suivant:
+
+  - <sub>–</sub> pour les années 2021–2027: 0,97;
+  - <sub>–</sub> à partir de l’année 2028: 0,91.
+
 - 1\.5 Lorsque des gaz provenant de processus et présentant une forte teneur en carbone dont l’oxydation est incomplète (gaz résiduels) sont utilisés, des droits d’émission supplémentaires sont attribués à titre gratuit en compensation des émissions de CO<sub>2</sub> plus élevées et de l’efficacité plus faible de l’utilisation des gaz résiduels par rapport au gaz naturel. Cette attribution n’intervient que si le gaz résiduel est utilisé en dehors d’un élément d’attribution avec référentiel de produit ou au sein de l’installation couverte par le SEQE pour produire de la chaleur mesurable ou non mesurable ou pour produire de l’électricité.
+- 1\.5*a* La chaleur produite avec de l’électricité au sens des ch. 1.2 ou 1.3 donne droit à l’attribution de droits d’émission à titre gratuit.
 - 1\.6 Aucun droit d’émission n’est attribué à titre gratuit pour la chaleur produite lors de la fabrication d’acide nitrique.
-- 1\.7 Lorsque la chaleur consommée à l’intérieur d’un élément d’attribution assorti d’un référentiel de produit est importée par des tiers hors SEQE, provient de la production d’acide nitrique ou est produite en ayant recours à de l’électricité ou à l’énergie nucléaire, la quantité de droits d’émission attribués à titre gratuit qui est calculée sur la base du référentiel de produit est réduite à hauteur de cette quantité de chaleur multipliée par le référentiel de chaleur de 47,3 droits d’émission par TJ.
-- 1\.8 La quantité de droits d’émission attribués chaque année à titre gratuit pour les installations principalement destinées à l’élimination des déchets spéciaux au sens de l’art. 3, let. c, OLED[^annex9-lvlu1-lvl1-1] est calculée conformément au ch. 1.3 s’agissant des combustibles de soutien utilisés et conformément au ch. 1.4 s’agissant des émissions issues de l’incinération des déchets spéciaux.
+- 1\.7 Lorsque la chaleur consommée à l’intérieur d’un élément d’attribution assorti d’un référentiel de produit est importée par des tiers hors SEQE, provient de la production d’acide nitrique ou est produite en ayant recours à l’énergie nucléaire, la quantité de droits d’émission attribués à titre gratuit qui est calculée sur la base du référentiel de produit est réduite à hauteur du produit de cette quantité de chaleur et du référentiel de chaleur de (…) droits d’émission par TJ.
+- 1\.7*a* Lorsque des gaz résiduels sont brûlés à la torche à l’intérieur d’un élément d’attribution assorti d’un référentiel de produit sans que la chaleur ainsi générée soit utilisée, la quantité de droits d’émission attribués à titre gratuit calculée sur la base du référentiel de produit est réduite à hauteur des émissions de CO<sub>2</sub> rejetées. Est excepté le brûlage à la torche pour des raisons de sécurité.
+- 1\.8 La quantité de droits d’émission attribués chaque année à titre gratuit pour les installations principalement destinées à l’élimination des déchets spéciaux au sens de l’art. 3, let. c, OLED[^annex9-lvlu1-lvl1-1] est calculée conformément au ch. 1.3 s’agissant des combustibles de soutien utilisés et conformément au ch. 1.4 s’agissant des émissions issues de l’incinération des déchets spéciaux. Le référentiel de chaleur visé au ch. 1.2 ne s’applique pas.
 
 [^annex9-lvlu1-lvl1-1]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
 
 ### 2 Calcul général de la quantité de droits d’émission attribués à titre gratuit
 
-- 2\.1 La quantité de droits d’émission attribués à titre gratuit est calculée, pour chaque élément d’attribution, selon la formule suivante, pour chaque année de participation au SEQE, les ch. 4 et 5 étant réservés:
-- *Attribution**<sub>i</sub>* *= Réf \* NA \* CA**<sub>i</sub>* *\* FCS**<sub>i</sub>*
+- 2\.1 La quantité de droits d’émission attribués à titre gratuit est calculée, pour chaque élément d’attribution, selon la formule suivante, pour chaque année de participation au SEQE, les ch. 3 et 5 restant réservés:
+- *Attribution**<sub>i</sub>* *= Réf \* NA \* CL**<sub>i</sub>* *\* CBAM**i* *\* FCS**<sub>i</sub>*
 - Attribution<sub>i</sub> Attribution pour l’année i
-- Réf référentiel
-- NA Niveau d’activité (rapporté au référentiel concerné)
-- CA<sub>i</sub> Coefficient d’adaptation pour l’année i selon l’annexe 9, ch. 3
-- FCS<sub>i</sub> Facteur de correction suprasectoriel pour l’année i
+  - Réf Référentiel
+  - NA Niveau d’activité (rapporté au référentiel concerné)
+  - CL<sub>i</sub> 1 ou coefficient d’adaptation pour l’année i prévu au ch. 3.1
+  - CBAMi 1 ou coefficient d’adaptation pour l’année i prévu au ch. 3.1*a*
+  - FCSi Facteur de correction suprasectoriel pour l’année i
+
 - 2\.2 Le référentiel est déterminé pour chaque élément d’attribution sur la base de la hiérarchie des référentiels décrite aux ch. 1.1 à 1.4.
-- 2\.3 Le niveau d’activité se rapporte au référentiel concerné. Il est fixé, pour chaque élément d’attribution, lors de la première attribution (niveau d’activité historique) et correspond à la moyenne arithmétique des valeurs annuelles au cours de la période allant de 2014 à 2018 pour la période d’attribution 2021–2025 et à la moyenne arithmétique des valeurs annuelles au cours de la période allant de 2019 à 2023 pour la période d’attribution 2026–2030.
-- 2\.4 À défaut de disposer des valeurs annuelles sur deux années civiles complètes au minimum au cours de la période de référence visée au ch. 2.3, le niveau d’activité historique correspond à la valeur annuelle de la première année civile complète après la mise en service des installations concernées. Si la mise en service est postérieure au 1<sup>er</sup> janvier 2021, la quantité de droits d’émission attribués à titre gratuit pour la période comprise entre la date de mise en service et le 31 décembre de la même année est calculée sur la base du niveau d’activité effectif de cette période.
+- 2\.3
+
+  Le niveau d’activité se rapporte au référentiel concerné. Il est fixé, pour chaque élément d’attribution, lors de la première attribution (niveau d’activité historique) et correspond:
+
+  - <sub>–</sub> pour la période d’attribution 2021–2025: à la moyenne arithmétique des valeurs annuelles au cours de la période allant de 2014 à 2018;
+  - <sub>–</sub> pour la période d’attribution 2026–2030: à la médiane des valeurs annuelles au cours de la période allant de 2019 à 2023.
+
+- 2\.4 À défaut de disposer des valeurs annuelles sur deux années civiles complètes au minimum au cours de la période de référence visée au ch. 2.3, le niveau d’activité historique correspond à la valeur annuelle de la première année civile complète après la mise en service des installations concernées. Si la mise en service est postérieure au 1<sup>er</sup> janvier 2021 pour la période d’attribution 2021–2025 ou postérieure au 1<sup>er</sup> janvier 2026 pour la période d’attribution 2026–2030, la quantité de droits d’émission attribués à titre gratuit pour la période comprise entre la date de mise en service et le 31 décembre de la même année est calculée sur la base du niveau d’activité effectif de cette période.
+- 2\.5 Si, au cours d’une des périodes de référence visées ch. 2.3, des modifications durables des niveaux d’activité entraînent une adaptation annuelle de la quantité de droits d’émission attribués à titre gratuit au sens du ch. 5 de plus de 100 000 droits d’émission, les niveaux d’activité de toute la période de référence visée au ch. 2.3 sont corrigés lors du calcul visé au ch. 2.1 à hauteur de ces modifications.
 
 ### 3 Coefficients d’adaptation
 
 - 3\.1
 
-  Pour les secteurs et les sous-secteurs ne figurant pas dans l’annexe de la décision 2019/708/UE[^annex9-lvlu1-lvl3-1], les quantités calculées selon les règles fixées aux ch. 2 et 4 sont multipliées par les coefficients d’adaptation suivants:
+  Pour les secteurs et les sous-secteurs ne figurant pas dans l’annexe de la décision (UE) 2019/708[^annex9-lvlu1-lvl3-1], les quantités calculées conformément au ch. 2 sont multipliées par les coefficients d’adaptation suivants:
 
   - 3\.1.1 pour 2021: 0,3
   - 3\.1.2 pour 2022: 0,3
@@ -5630,43 +5703,24 @@ Annexe 9[^t-16]
   - 3\.1.9 pour 2029: 0,075
   - 3\.1.10 pour 2030: 0
 
-- 3\.2 Lorsqu’un exploitant d’installations fournit de la chaleur à des tiers, le coefficient d’adaptation du consommateur de la chaleur est déterminant.
-- 3\.3 Le coefficient d’adaptation est 0,3 pour la chaleur mesurable distribuée via un réseau et utilisée pour la production d’eau chaude ou pour le chauffage ou le refroidissement de locaux dans des bâtiments ou des sites dont les exploitants ne participent pas au SEQE; est exceptée la chaleur mesurable utilisée directement ou indirectement pour la fabrication de produits ou la production d’électricité.
-- 3\.4 Pour la fabrication de niacine et pour les installations principalement destinées à l’élimination des déchets spéciaux au sens de l’art. 3, let. c, OLED[^annex9-lvlu1-lvl3-2], le coefficient d’adaptation est 1.
+- 3\.1*a*
 
-[^annex9-lvlu1-lvl3-1]: Décision déléguée (UE) 2019/708 de la Commission du 15 février 2019 complétant la directive 2003/87/CE du Parlement européen et du Conseil en ce qui concerne l’établissement de la liste des secteurs et sous-secteurs considérés comme exposés à un risque de fuite de carbone pour la période 2021-2030, Version du JO L 120 du 8.5.2019, p. 20.
-[^annex9-lvlu1-lvl3-2]: [RS 814.600](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9574)
+  Pour la production de marchandises figurant à l’annexe I du règlement (UE) 2023/956[^annex9-lvlu1-lvl3-2], les quantités calculées conformément au ch. 2 sont multipliées par les coefficients d’adaptation suivants:
 
-### 4 Coefficients d’adaptation particuliers pour des procédés de production utilisant des combustibles et de l’électricité
+  - 3\.1*a*.1 pour 2026: 0,975
+  - 3\.1*a*.2 pour 2027: 0,95
+  - 3\.1*a*.3 pour 2028: 0,9
+  - 3\.1*a*.4 pour 2029: 0,775
+  - 3\.1*a*.5 pour 2030: 0,515
 
-- 4\.1 Aucun droit d’émission n’est attribué à titre gratuit pour les émissions indirectes liées à la consommation d’électricité. Pour les référentiels de procédés de production pouvant être mis en œuvre aussi bien avec des combustibles qu’avec de l’électricité, les émissions indirectes liées à la consommation d’électricité sont déterminées au moyen d’un facteur de 0,376 tonne de CO<sub>2</sub> par MWh.
-- Dans de tels cas, la quantité de droits d’émission attribués chaque année à titre gratuit est calculée comme suit:
-- *Attribution**<sub>i</sub>* *= (E**<sub>directes</sub>* */ (E**<sub>directes</sub>* *+ E**<sub>indirectes</sub>**)) \* Réf \* NA \* CA**<sub>i</sub>* *\* FCS**<sub>i</sub>*
-- Attribution<sub>i</sub> Attribution pour l’année i
-- E<sub>directes</sub> Émissions directes générées au sein de l’élément d’attribution correspondant assorti d’un référentiel de produit au cours de la période de référence visée au ch. 2. Sont également prises en compte les émissions liées à la chaleur consommée au sein de l’élément d’attribution, acquise directement auprès d’autres installations couvertes ou non par le SEQE, multipliées par 47,3 tonnes de CO<sub>2</sub> par TJ.
-- E<sub>indirectes</sub> Émissions indirectes liées à l’électricité consommée au sein de l’élément d’attribution correspondant assorti d’un référentiel de produit au cours de la période de référence visée au ch. 2.
-- Réf Référentiel
-- NA Niveau d’activité (rapporté au référentiel concerné)
-- CAi Coefficient d’adaptation pour l’année i selon l’annexe 9, ch. 3
-- FCSi Facteur de correction suprasectoriel pour l’année i
-- 4\.2
+- 3\.2 Lorsqu’un exploitant d’installations fournit de la chaleur à des tiers, les coefficients d’adaptation du consommateur de chaleur prévus aux ch. 3.1 et 3.1*a* sont déterminants.
+- 3\.3 Le coefficient d’adaptation prévu au ch. 3.1 est 0,3 pour la chaleur mesurable distribuée via un réseau et utilisée pour la production d’eau chaude ou pour le chauffage ou le refroidissement de locaux dans des bâtiments ou des sites dont les exploitants ne participent pas au SEQE; est exceptée la chaleur mesurable utilisée directement ou indirectement pour la fabrication de produits ou la production d’électricité.
+- 3\.4 Le coefficient d’adaptation au sens du ch. 3.1 est 1 pour la fabrication de niacine et pour les installations principalement destinées à l’élimination des déchets spéciaux au sens de l’art. 3, let. c, OLED.
 
-  Les procédés de production recensés par le biais des référentiels de produits suivants peuvent être mis en œuvre aussi bien avec des combustibles qu’avec de l’énergie électrique:
+[^annex9-lvlu1-lvl3-1]: Cf. note de bas de page relative à l’art. 135, let. d<sup>ter</sup>.
+[^annex9-lvlu1-lvl3-2]: Cf. note de bas de page relative à l’art. 135, let. d<sup>ter</sup>.
 
-  - 4\.2.1 produits de raffinerie
-  - 4\.2.2 acier au carbone produit au four électrique
-  - 4\.2.3 acier fortement allié produit au four électrique
-  - 4\.2.4 fonte de fer
-  - 4\.2.5 laine minérale
-  - 4\.2.6 plaques de plâtre
-  - 4\.2.7 noir de carbone
-  - 4\.2.8 ammoniac
-  - 4\.2.9 vapocrackage
-  - 4\.2.10 aromatiques
-  - 4\.2.11 styrène
-  - 4\.2.12 hydrogène
-  - 4\.2.13 gaz de synthèse
-  - 4\.2.14 oxyde d’éthylène et glycols d’éthylène
+### 4 …
 
 ### 5 Adaptation de la quantité de droits d’émission attribués à titre gratuit
 
@@ -5684,20 +5738,52 @@ Annexe 9[^t-16]
   - a. la moyenne arithmétique des niveaux d’activité des deux années précédentes, ou
   - b. le niveau d’activité déterminant pour l’année précédente si une adaptation a déjà été réalisée l’année précédente et que la valeur absolue de l’écart relatif reste supérieure à 15 % sans dépasser au minimum l’intervalle de 5 % directement supérieur ou inférieur (p. ex. 20–25 %, 25–30 %).
 
+### 5.1*a* Adaptation de la quantité de droits d’émission attribués à titre gratuit en vertu de l’art. 46*b*, al. 2
+
+- 5\.1*a*.1
+
+  La quantité de droits d’émission attribués à titre gratuit calculée selon le référentiel de chaleur ou le référentiel de combustible est adaptée lorsque la valeur absolue de l’écart relatif entre la moyenne arithmétique des niveaux d’activité attendus au cours des deux années précédentes et le niveau d’activité historique se monte à plus de 15 %. La valeur absolue de l’écart relatif est calculée comme suit:
+
+  - [tab] *abs(Y**<sub>i</sub>**) = abs(aNA**<sub>i</sub>* *– hNA) / hNA*
+  - [tab] où*: aNA**<sub>i</sub>* *= [(∑ hEff**<sub>z</sub>* *\* P**<sub>z, i-1</sub>**) + uNA**<sub>i-1</sub>* *+ (∑ hEff**<sub>z</sub>* *\* P**<sub>z, i-2</sub>**) + uNA**<sub>i-2</sub>**] / 2*
+  - [tab] abs(Y<sub>i</sub>) = valeur absolue de l’écart relatif pour l’année i
+  - [tab] aNA<sub>i</sub> = moyenne arithmétique des niveaux d’activité attendus au cours des deux années précédentes i-1 et i-2
+  - [tab] hEff<sub>z</sub> = efficacité énergétique historique moyenne de la fabrication de chaque produit z fabriqué au cours de la période visée au ch. 2.3, à l’intérieur des marges de fonctionnement d’un élément d’attribution et exprimée en TJ par t
+  - [tab] P<sub>z, i</sub> = quantité de production de chaque produit z fabriqué au cours de l’année i à l’intérieur des marges de fonctionnement d’un élément d’attribution, exprimée en t
+  - [tab] uNA<sub>i</sub> = énergie utilisée au cours de l’année i qui n’est pas directement liée à la fabrication des produits z, exprimée en TJ
+  - [tab] hNA = niveau d’activité historique
+
+- 5\.1*a*.2
+
+  Pour l’adaptation de la quantité de droits d’émission attribués à titre gratuit, le niveau d’activité déterminant est:
+
+  - a. la moyenne arithmétique des niveaux d’activité attendus des deux années précédentes, ou
+  - b. le niveau d’activité déterminant pour l’année précédente si une adaptation a déjà été réalisée l’année précédente et que la valeur absolue de l’écart relatif reste supérieure à 15 % sans dépasser au minimum l’intervalle de 5 % directement supérieur ou inférieur (p. ex. 20–25 %, 25–30 %).
+
 ### 5.2 Adaptation de la quantité de droits d’émission attribués à titre gratuit en vertu de l’art. 46*b*, al. 4
 
-- 5\.2.1 La quantité calculée de droits d’émission attribués à titre gratuit est adaptée chaque année lorsque la valeur absolue de l’écart relatif entre la moyenne arithmétique des valeurs d’un paramètre considéré lors du calcul de l’attribution des deux années précédentes et la valeur historique du même paramètre se monte à plus de 15 %. La valeur absolue de l’écart relatif est calculée comme suit:
-- *abs(Z**<sub>i</sub>**) = abs(aZP**<sub>i</sub>* *– hZP) / hZP*
-- abs(Z<sub>i</sub>) = valeur absolue de l’écart relatif pour l’année i
-- aZP<sub>i</sub> = moyenne arithmétique des valeurs d’un paramètre visé au ch. 5.2.3 au cours des deux années précédentes i-1 et i-2
-- hZP = valeur historique du paramètre au cours de la période de référence selon le ch. 2.
-- 5\.2.2 Pour l’adaptation de la quantité de droits d’émission attribués à titre gratuit pour l’année i, le paramètre déterminant est la composante aZP<sub>i</sub>.
+- 5\.2.1
+
+  La quantité calculée de droits d’émission attribués à titre gratuit est adaptée chaque année lorsque la valeur absolue de l’écart relatif entre la moyenne arithmétique des valeurs d’un paramètre considéré lors du calcul de l’attribution des deux années précédentes et la valeur historique du même paramètre se monte à plus de 15 %. La valeur absolue de l’écart relatif est calculée comme suit:
+
+  - [tab] *abs(Zi) = abs(aZPi – hZP) / hZP*
+  - [tab] abs(Z<sub>i</sub>) = valeur absolue de l’écart relatif pour l’année i
+  - [tab] aZP<sub>i</sub> = moyenne arithmétique des valeurs d’un paramètre visé au ch. 5.2.3 au cours des deux années précédentes i-1 et i-2
+  - [tab] hZP = valeur historique du paramètre au cours de la période de référence selon le ch. 2.
+
+- 5\.2.2
+
+  Pour l’adaptation de la quantité de droits d’émission attribués à titre gratuit, la valeur déterminante du paramètre est:
+
+  - a. la moyenne arithmétique des valeurs du paramètre des deux années précédentes, ou
+  - b. la valeur déterminante du paramètre pour l’année précédente si une adaptation a déjà été réalisée l’année précédente et que la valeur absolue de l’écart relatif reste supérieure à 15 % sans dépasser au minimum l’intervalle de 5 % directement supérieur ou inférieur (p. ex. 20–25 %, 25–30 %).
+
 - 5\.2.3
 
   Les paramètres considérés pour le calcul de la quantité de droits d’émission attribués à titre gratuit comprennent notamment:
 
-  - 1\. la chaleur qui est utilisée dans un référentiel de produit (ch. 1.7);
-  - 2\. le rapport entre les émissions directes et la somme des émissions directes et indirectes (ch. 4.1).
+  - a. la chaleur qui est utilisée dans un référentiel de produit (ch. 1.7);
+  - b. les émissions issues de la mise en torchère de gaz résiduels dans un référentiel de produit (ch. 1.7*a*).
 
 Annexe 10[^t-17]
 
@@ -6179,14 +6265,16 @@ Annexe 14[^t-22]
 
 Annexe 15[^t-23]
 
-(art. 46*e*, 46*f* et 46*g*)
+(art. 46*e* et 46*h*)
 
-## Calcul de la quantité maximale de droits d’émission disponibles et de la quantité de droits d’émission attribués à titre gratuit pour les aéronefs
+## Calcul de la quantité maximale de droits d’émission disponibles et de la quantité de droits d’émission attribués à titre gratuit pour la consommation de carburants d’aviation renouvelables ou à faible taux d’émission
 
-[^t-23]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Mise à jour par le ch. II al. 1 de l’O du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-23]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Nouvelle teneur selon le ch. II al. 2 de l’O du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)). Mise à jour par le ch. II al. 1 de l’O du 2 avr. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)) et le ch. II de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
-- **1.** **Calcul de la quantité maximale de droits d’émission disponibles chaque année pour l’ensemble des exploitants d’aéronefs**
-- **1.1** **Base de calcul**
+### 1 Calcul de la quantité maximale de droits d’émission disponibles chaque année pour l’ensemble des exploitants d’aéronefs
+
+### 1.1 Base de calcul
+
 - 1\.1.1
 
   La quantité maximale de droits d’émission disponibles chaque année pour l’ensemble des exploitants d’aéronefs est calculée sur la base du référentiel (Réf) suivant:
@@ -6215,7 +6303,8 @@ Annexe 15[^t-23]
     - – la masse figurant dans la documentation de masse et centrage pour les vols concernés (masse réelle ou masse forfaitaire pour les passagers et les bagages enregistrés), ou
     - – une valeur par défaut de 100 kg pour chaque passager et ses bagages enregistrés.
 
-- **1.2** **Calcul pour les** **différentes** **années**
+### 1.2 Calcul pour les différentes années
+
 - La quantité maximale de droits d’émission disponibles chaque année pour l’ensemble des exploitants d’aéronefs est calculée comme suit:
 - 1\.2.1 Quantité maximale de droits d’émission disponible en 2020
 - *Cap**<sub>2020</sub>* *= ∑tkm**<sub>SEQE-CH</sub>* *\* Réf**<sub>2020</sub>* *\* 100 / 82*
@@ -6237,35 +6326,39 @@ Annexe 15[^t-23]
 - *Cap**<sub>y</sub>* *= Cap**<sub>2027</sub>* *– (y – 2027) \* 0,044 \* (Cap**2020* *consolidé + Cap(RUP)**<sub>2020</sub>* *virtuel)*
 - Cap*<sub>y</sub>* Plafond d’émission pour l’année y, où y = 2028, 2029, 2030
 - Cap<sub>2027</sub> Plafond d’émission pour l’année 2027
-- **2** **Utilisation de la quantité maximale de droits d’émission disponibles chaque année pour l’ensemble des exploitants d’aéronefs**
--
 
-  La quantité maximale de droits d’émission disponibles chaque année pour l’ensemble des exploitants d’aéronefs pour les années 2020 à 2023 est utilisée comme suit:
+### 2 à 4 …
 
-  - a. 82 % peuvent être attribués à titre gratuit à des exploitants d’aéronefs;
-  - b. 15 % sont gardés en réserve pour les enchères;
-  - c. 3 % sont gardés en réserve pour de nouveaux exploitants d’aéronefs ou pour des exploitants d’aéronefs en forte croissance.
+### 5 Calcul de la quantité de droits d’émission attribués à titre gratuit pour la consommation de carburants d’aviation renouvelables ou à faible taux d’émission (art. 46*h*)
 
-- **3** **Quantité** **de** **droits d’émission attribués à titre gratuit à chaque exploitant d’aéronefs en vertu de l’art. 46***f*
-- La quantité de droits d’émission attribués à titre gratuit à chaque exploitant d’aéronefs en vertu de l’art. 46*f* est calculée comme suit:
-- **3.1** **Quantité de droits d’émission attribués à titre gratuit pour l’année 2020**
-- *Attribution**<sub>2020</sub>* *= ∑tkm**<sub>exploitant</sub>* *\* Réf**<sub>2020</sub>*
-- ∑tkm<sub>exploitant</sub> Somme des tonnes-kilomètres de l’exploitant prises en compte dans le SEQE suisse en 2018 (sans les vols à destination des régions ultrapériphériques)
-- Réf<sub>2020</sub> Référentiel pour les années 2020 à 2023
-- **3.2** **Quantité de droits d’émission attribués à titre gratuit pour les années 2021 à 2023**
-- *Attribution**<sub>202x</sub>* *= Attribution**<sub>2020</sub>* *– x \* 0,022 \* Attribution**<sub>2020</sub>*
-- Attribution<sub>202x</sub> Attribution pour l’année 202x, où x = 1, 2, 3
-- **3.3** **Quantité de droits d’émission attribués à titre gratuit pour l’année 2024**
-- *Attribution**<sub>2024; sans RUP</sub>* *= 0,891\*∑tkm**<sub>exploitant</sub>* *\* Réf**<sub>2024</sub>*
-- **3.****4** **Quantité de droits d’émission attribués à titre gratuit pour l’année 2025**
-- *Attribution**<sub>2025; sans RUP</sub>* *= 0,848\*∑tkm**<sub>exploitant</sub>* *\* Réf**<sub>2025</sub>*
-- **4** **Quantité de droits d’émission supplémentaires attribués à titre gratuit à chaque exploitant** **d’aéronefs** **en vertu de l’art. 46***g* **pour les vols à destination des régions ultrapériphériques**
-- La quantité de droits d’émission supplémentaires attribués à titre gratuit à chaque exploitant d’aéronefs en vertu de l’art. 46*g* pour les vols à destination des régions ultrapériphériques est calculée comme suit:
-- **4.1** **Quantité de droits d’émission supplémentaires attribués à titre gratuit pour l’année 2024**
-- *Attribution**<sub>2024; RUP</sub>* *= 0,891\*∑tkm**<sub>exploitantRUP</sub>* *\* Réf**<sub>2024</sub>*
-- ∑tkm<sub>exploitantRUP</sub> Somme des tonnes-kilomètres des vols à destination des régions ultrapériphériques effectués en 2018 par l’exploitant
-- **4.2** **Quantité de droits d’émission supplémentaires attribués à titre gratuit pour l’année 2025**
-- *Attribution**<sub>2025; RUP</sub>**°**= 0,848\*∑tkm**<sub>exploitantRUP</sub>* *\* Réf**<sub>2025</sub>*
+- 5\.1
+
+  Des droits d’émission peuvent être attribués à titre gratuit en vertu de l’art. 46*h*, al. 1, pour la consommation des carburants d’aviation renouvelables ou à faible taux d’émission suivants:
+
+  - a. carburants d’aviation synthétiques renouvelables dont le facteur d’émission au sens de l’annexe 16, ch. 3.3, let. b, est nul;
+  - b. biocarburants d’aviation renouvelables visés à l’art. 2, point 34, de la directive (UE) 2018/2001[^annex15-lvlu1-lvl5-1] dont le facteur d’émission au sens de l’annexe 16, ch. 3.3, let. a, est nul;
+  - c. autres carburants d’aviation renouvelables ou à faible taux d’émission dont la teneur énergétique ne provient pas de sources fossiles et qui peuvent être pris en compte dans l’obligation de mélange prévue à l’art. 28*f* de la loi sur le CO<sub>2</sub>.
+
+- 5\.2 La quantité de droits d’émission attribués à titre gratuit aux exploitants d’aéronefs pour la consommation, l’année précédente, de carburants d’aviation renouvelables ou à faible taux d’émission («SAF allowances») est calculée comme suit:
+- *AttributionSAF allowances = ∑ différences de coût à compenser / prix d’un droit d’émission.*
+- 5\.3 Les différences de coût entre les carburants d’aviation renouvelables ou à faible taux d’émission et le carburant d’aviation fossile sont calculées comme suit pour chaque carburant d’aviation renouvelable ou à faible taux d’émission:
+- *Différence de coût = [P**<sub>a</sub>* *– (P**<sub>f</sub>* *+P**<sub>SEQE</sub>**)] \* Q*
+  - [tab] P<sub>a</sub>: Prix par tonne de carburant d’aviation renouvelable ou à faible taux d’émission
+  - [tab] P<sub>f</sub>: Prix par tonne de carburant d’aviation fossile
+  - [tab] P<sub>SEQE</sub>: Économies réalisées dans le SEQE, par tonne de carburant d’aviation renouvelable ou à faible taux d’émission
+  - [tab] Q: Quantité de carburant d’aviation renouvelable ou à faible taux d’émission, en tonnes
+
+- 5\.4
+
+  Les différences de coût calculées conformément au ch. 5.3 sont compensées comme suit:
+
+  - a. pour les carburants d’aviation visés au ch. 5.1, let. a: à 95 %;
+  - b. pour les carburants d’aviation visés au ch. 5.1, let. b: à 70 %;
+  - c. pour les carburants d’aviation visés au ch. 5.1, let. c: à 50 %.
+
+- 5\.5 Les données publiées chaque année pour l’année précédente par la Commission européenne au journal officiel de l’Union européenne sont déterminantes pour les prix des carburants d’aviation renouvelables ou à faible taux d’émission, le prix du carburant d’aviation fossile et le prix d’un droit d’émission.
+
+[^annex15-lvlu1-lvl5-1]: Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables (refonte), JO L 328 du 21.12.2018, p. 82; modifiée en dernier lieu par la directive (UE) 2024/1711, JO L, 2024/1711, 26.6.2024.
 
 Annexe 16[^t-24]
 
@@ -6273,7 +6366,7 @@ Annexe 16[^t-24]
 
 ## Exigences relatives au plan de suivi
 
-[^t-24]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)) et du 2 avr. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+[^t-24]: Introduite par le ch. II al. 3 de l’O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)). Mise à jour par le ch. II al. 1 des O du 25 nov. 2020 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)), du 29 sept. 2023 ([RO 2023 581](https://fedlex.data.admin.ch/eli/oc/2023/581)), du 2 avr. 2025 ([RO 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)) et le ch. II de l’O du 19 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 788](https://fedlex.data.admin.ch/eli/oc/2025/788)).
 
 ### 1 Plan de suivi remis par les exploitants d’installations
 
@@ -6333,7 +6426,7 @@ Annexe 16[^t-24]
 
 - 3\.4 Pour le calcul et la déclaration du facteur d’émission d’un mélange de carburants, le facteur d’émission visé au ch. 3.2 est multiplié par la part fossile du carburant.
 
-[^annex16-lvlu1-lvl3-1]: Directive (UE) 2018/2001 du Parlement européen et du Conseil du 11 décembre 2018 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables (refonte), JO L 328 du 21.12 2018, p. 82; modifiée en dernier lieu par la directive (UE) 2024/1711, JO L, 2024/1711, 26.6.2024.
+[^annex16-lvlu1-lvl3-1]: Cf. note de bas de page relative à l’annexe 15, ch. 5.1, let. b.
 
 Annexe 17[^t-25]
 

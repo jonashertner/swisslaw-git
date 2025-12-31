@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2025-05-01
+version: 2026-01-01
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250501/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20250501-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20260101-it-xml-15.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20250501/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 1° maggio 2025)
+del 30 novembre 2012 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -963,18 +963,9 @@ Se per le automobili o per gli autofurgoni e i trattori a sella leggeri le emiss
 
 #### Art. 26a
 
-**Riduzione mediante gas naturale e biogas**
+[^26a-1]
 
-<sup>1</sup> Per i veicoli che possono essere alimentati con una miscela di gas naturale e biogas, la percentuale della quota biogena riconosciuta secondo l’articolo 12*a* capoverso 2 dell’ordinanza del 1° novembre 2017[^26a-1] sull’efficienza energetica è presa in considerazione come riduzione delle emissioni di CO<sub>2</sub>.
-
-<sup>2</sup>
-
-Il risultato è arrotondato come segue:
-
-- a. a un centesimo di grammo di CO<sub>2</sub>/km in caso di automobili, autofurgoni e trattori a sella leggeri;
-- b. a un centesimo di grammo di CO<sub>2</sub> per tonnellata-chilometro in caso di veicoli pesanti.
-
-[^26a-1]: [RS 730.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8505)
+[^26a-1]: Abrogato dalla cifra III dell’O del 21 mag. 2025 sull’efficienza energetica, con effetto dal 1° gen. 2026 ([RU 2025 382](https://fedlex.data.admin.ch/eli/oc/2025/382)).
 
 #### Art. 26b
 
@@ -1094,7 +1085,7 @@ L’obiettivo individuale per le emissioni di CO<sub>2</sub> del parco veicoli n
 
 Il DATEC stabilisce annualmente nell’allegato 5 gli importi di cui all’articolo 13 capoverso 1 della legge sul CO<sub>2</sub> per il successivo anno di riferimento. Al riguardo, si fonda sui seguenti importi applicabili nell’Unione europea:
 
-- a. in caso di automobili, autofurgoni e trattori a sella leggeri, gli importi secondo l’articolo 8 del regolamento (UE) 2019/631 ;
+- a. in caso di automobili, autofurgoni e trattori a sella leggeri, gli importi secondo l’articolo 8 del regolamento (UE) 2019/631;
 - b. in caso di veicoli pesanti, gli importi secondo l’articolo 8 del regolamento (UE) 2019/1242 .[^29-1]
 
 <sup>2</sup> Per la conversione in franchi svizzeri si applica il valore medio dei tassi di cambio giornalieri nella vendita dei dodici mesi antecedenti il 30 giugno dell’anno precedente l’anno di riferimento.
@@ -2533,13 +2524,23 @@ In una banca dati tenuta dall’UFAM, per ogni persona soggetta all’obbligo di
 [^92-2]: Nuovo testo giusta la cifra I dell’O del 4 mag. 2022, in vigore dal 1° gen. 2022 ([RU 2022 311](https://fedlex.data.admin.ch/eli/oc/2022/311)).
 [^92-3]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2025, in vigore dal 1° mag. 2025 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
-### Sezione 2: ...
+### Sezione 2: Messa a disposizione e miscelazione di carburanti per l’aviazione a basso tenore di emissioni, rinnovabili e sintetici rinnovabili
 
-#### Art. 92a e 92b
+[^chap7-sec2-1]
 
-[^92a92b-1]
+[^chap7-sec2-1]: Introdotta dalla cifra I dell’O del 2 apr. 2025, in vigore dal 1° gen. 2026 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
 
-[^92a92b-1]: Entrano in vigore il 1° gen. 2026 ([RU 2025 248](https://fedlex.data.admin.ch/eli/oc/2025/248)).
+#### Art. 92a
+
+**Campo d’applicazione territoriale**
+
+L’obbligo di messa a disposizione e di miscelazione di carburanti per l’aviazione a basso tenore di emissioni, rinnovabili e sintetici rinnovabili secondo l’articolo 28*f* della legge sul CO<sub>2</sub> si applica agli aeroporti nazionali di Zurigo e Ginevra.
+
+#### Art. 92b
+
+**Prova dell’adempimento dell’obbligo di miscelazione**
+
+Come prova dell’adempimento dell’obbligo di miscelazione secondo l’articolo 28*f* della legge sul CO<sub>2</sub> mediante l’utilizzo di carburanti per l’aviazione a basso tenore di emissioni, rinnovabili e sintetici rinnovabili messi in commercio in Svizzera deve essere impiegata una garanzia di origine valida.
 
 ## Capitolo 7*a*: Computo della prestazione di riduzione dei combustibili e carburanti rinnovabili
 
@@ -4993,7 +4994,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20250501/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20260101/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante della riduzione di metano
 
