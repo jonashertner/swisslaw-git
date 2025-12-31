@@ -3,20 +3,19 @@ canton: LU
 number: "409"
 title: Verordnung über die Sonderschulung
 language: de
-version: 2022-08-01
-valid_until: 2025-12-31
-version_adopted: 2022-01-04
+version: 2026-01-01
+version_adopted: 2025-12-09
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/409"
-pdf: "https://srl.lu.ch/api/de/versions/3935/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4722/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Sonderschulung
 
-vom 11.12.2007 (Stand 01.08.2022)
+vom 11.12.2007 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -36,7 +35,7 @@ beschliesst:
 
 <sup>1</sup> Als Sonderschulung gelten
 
-- a. heilpädagogische Früherziehung sowie Betreuung und Förderung von Kindern mit Behinderung in familienergänzenden Betreuungsangeboten (KITAplus),
+- a. heilpädagogische Früherziehung,
 - b. Unterricht und pädagogisch-therapeutische Massnahmen in Sonderschulen,
 - c. integrative Sonderschulung und pädagogisch-therapeutische Massnahmen in Regelklassen,
 - d. sonderpädagogischer Einzelunterricht und psychotherapeutische Massnahmen.
@@ -364,9 +363,7 @@ beschliesst:
 
 #### § 30b
 
-**Beiträge für die familienergänzenden Betreuungsangebote**
-
-<sup>1</sup> Kanton und Gemeinden bezahlen je hälftig die behinderungsbedingten Mehrkosten für die Betreuung von Kindern in familienergänzenden Betreuungsangeboten (KITAplus) sowie die Kosten der Beratung der Fachpersonen in solchen Betreuungsangeboten. Die Aufteilung des Gemeindebeitrages richtet sich nach § 29.
+**…**
 
 #### § 31
 
