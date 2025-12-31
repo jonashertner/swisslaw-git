@@ -3,20 +3,19 @@ canton: AI
 number: "741.011"
 title: Standeskommissionsbeschluss über die Höhe der Strassenverkehrsabgaben
 language: de
-version: 2024-04-02
-valid_until: 2025-12-31
-version_adopted: 2024-04-02
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2022-12-20
 in_force: 2023-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/741.011"
-pdf: "https://ai.clex.ch/api/de/versions/2262/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Höhe der Strassenverkehrsabgaben
 
-vom 20.12.2022 (Stand 02.04.2024)
+vom 20.12.2022 (Stand 01.01.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -145,13 +144,13 @@ beschliesst:
   - 5\.3.8 E-Prüfung CZV — Fr. 35.--
 - 6\. Fahrzeugprüfungen
 - 6\.1 Personenwagen
-  - 6\.1.1 Periodische Fahrzeugprüfungen — Fr. 50.--
+  - 6\.1.1 Periodische Fahrzeugprüfungen — Fr. 60.--
   - 6\.1.2 Nicht immatrikulierte Fahrzeuge — Fr. 60.--
   - 6\.1.3 Importfahrzeuge neu mit COC — Fr. 60.--
   - 6\.1.4 Importfahrzeuge gebraucht — Fr. 120.--
 - 6\.2 Lieferwagen, Kleinbus leichte Motorwagen
   - 6\.2.1 Neufahrzeuge — Fr. 90.--
-  - 6\.2.2 Periodische Fahrzeugprüfungen — Fr. 50.--
+  - 6\.2.2 Periodische Fahrzeugprüfungen — Fr. 60.--
   - 6\.2.3 Nicht immatrikulierte Fahrzeuge — Fr. 60.--
 - 6\.3 Lastwagen, Gesellschaftswagen, Sattelschlepper, schwere Motorwagen — Fr. 150.--
 - 6\.4 Motorfahrräder — Fr. 15.--
