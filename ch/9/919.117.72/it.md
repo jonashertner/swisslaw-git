@@ -4,11 +4,11 @@ title: "Ordinanza del 30 ottobre 2002 concernente l'estensione delle misure di s
 short: OOCOP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/703"
 language: it
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2002-10-30
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2002-703-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2002-703-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20230101/it"
 
 (Ordinanza sulle organizzazioni di categoria e sulle organizzazioni di produttori, OOCOP)
 
-del 30 ottobre 2002 (Stato 1° gennaio 2023)
+del 30 ottobre 2002 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,7 +25,7 @@ visti gli articoli 9 e 177 capoverso 1 della legge del 29 aprile 1998[^ingress-1
 
 ordina:
 
-[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Sezione 1: Misure di solidarietà
 
@@ -54,7 +54,7 @@ Le misure di adeguamento della produzione e dell’offerta alle esigenze del mer
 
 <sup>4</sup> I prodotti venduti direttamente dal produttore al consumatore finale ad uso privato non soggiacciono alle misure di solidarietà.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)).
 
 ## Sezione 2: Organizzazioni di categoria e organizzazioni di produttori
 
@@ -138,8 +138,8 @@ Le domande devono contenere:
 
 <sup>3</sup> Le domande di estensione delle misure volte a migliorare la qualità o lo smercio possono riferirsi a una durata massima di quattro anni. Le domande concernenti le misure volte ad adeguare la produzione e l’offerta alle esigenze del mercato possono riferirsi a una durata massima di due anni. Le organizzazioni di categoria e le organizzazioni di produttori possono chiedere al Consiglio federale una proroga dell’estensione al termine di un nuovo esame.[^8-2]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)).
-[^8-2]: Introdotto dal n. I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)).
+[^8-1]: Nuovo testo giusta la cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)).
+[^8-2]: Introdotto dalla cifra I dell’O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)).
 
 #### Art. 9
 
@@ -178,10 +178,10 @@ Nell’allegato 2 sono fissati:
 
 <sup>4</sup> Le organizzazioni di categoria e le organizzazioni di produttori affidano a un organo di revisione indipendente il controllo della corretta utilizzazione dei contributi dei non membri. I risultati del controllo sono parte integrante del rapporto di cui all’articolo 13.[^11-4]
 
-[^11-1]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5581](https://fedlex.data.admin.ch/eli/oc/2005/759)).
+[^11-1]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5581](https://fedlex.data.admin.ch/eli/oc/2005/759)).
 [^11-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013. Di detta mod. è tenuto conto in tutto il presente testo.
-[^11-3]: Nuovo testo giusta il n. I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5581](https://fedlex.data.admin.ch/eli/oc/2005/759)).
-[^11-4]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del 23 nov. 2005, in vigore dal 1° gen. 2006 ([RU 2005 5581](https://fedlex.data.admin.ch/eli/oc/2005/759)).
+[^11-4]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)).
 
 #### Art. 12
 
@@ -235,7 +235,7 @@ La presente ordinanza entra in vigore il 1º gennaio 2003.
 
 Allegato 1[^t-1]
 
-[^t-1]: Abrogato dal n. I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)).
+[^t-1]: Abrogato dalla cifra I dell’O del 22 nov. 2017, con effetto dal 1° gen. 2018 ([RU 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)).
 
 Allegato 2[^t-2]
 
@@ -243,7 +243,7 @@ Allegato 2[^t-2]
 
 ## A. Organizzazione di produttori Produttori Svizzeri di Latte
 
-[^t-2]: Aggiornato dal n. II dell’O del 14 nov. 2007 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), dal n. I delle O del 25 feb. 2009 ([RU 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), del 18 nov. 2009 ([RU 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), del 25 mag. 2011 ([RU 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), dal n. II dell’O del 26 ott. 2011 ([RU 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), dal n. I delle O del 23 mag. 2012 ([RU 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), del 23 ott. 2013 ([RU 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), dell’11 dic. 2015 ([RU 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), dal n. II dell’O del 22 nov. 2017 ([RU 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), dal n. I delle O del 30 nov. 2018 ([RU 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)), del 13 nov. 2019 ([RU 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)), del 24 nov. 2021 ([RU 2021 853](https://fedlex.data.admin.ch/eli/oc/2021/853)) e del 16 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 695](https://fedlex.data.admin.ch/eli/oc/2022/695)).
+[^t-2]: Aggiornato dalla cifra II dell’O del 14 nov. 2007 ([RU 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), dalla cifra I dell’O del 18 nov. 2009 ([RU 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), dalla cifra II dell’O del 26 ott. 2011 ([RU 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), dalla cifra I dell’O delll’11 dic. 2015 ([RU 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), dala cifra II dell’O del 22 nov. 2017 ([RU 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), dalla cifra I delle O del 30 nov. 2018 ([RU 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)) e del 19 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 759](https://fedlex.data.admin.ch/eli/oc/2025/759)).
 
 ### 1. Importo del contributo
 
@@ -268,11 +268,11 @@ Il servizio d’amministrazione ai sensi dell’articolo 12 dell’ordinanza del
 - b. gli indirizzi dei produttori che hanno fornito latte agli addetti alla valorizzazione;
 - c. i quantitativi di latte forniti mensilmente dai singoli produttori ai singoli addetti alla valorizzazione del latte.
 
-[^annex2-lvlA-lvl3-1]: [RS 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+[^annex2-lvlA-lvl3-1]: [RS 916.350.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10749)
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2029.
 
 ## B. Organizzazione di produttori Unione svizzera dei contadini
 
@@ -289,7 +289,7 @@ I non membri devono versare all’Unione svizzera dei contadini (USC), quale org
 
 I contributi versati conformemente al numero 1 devono essere impiegati nel settore marketing/comunicazione per l’agricoltura svizzera secondo l’articolo 1 dell’ordinanza del 7 dicembre 1998[^annex2-lvlB-lvl2-1] sulla promozione dello smercio.
 
-[^annex2-lvlB-lvl2-1]: [[RU 1998 3205](https://fedlex.data.admin.ch/eli/oc/1998/3205_3205_3205), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 cpv. 1 n. 23, [2002 4311](https://fedlex.data.admin.ch/eli/oc/2002/697), [2003 5415](https://fedlex.data.admin.ch/eli/oc/2003/785). [RU 2006 2695](https://fedlex.data.admin.ch/eli/oc/2006/416)art. 19]. Vedi ora l’O del 9 giu. 2006 concernente il sostegno alla promozione dello smercio di prodotti agricoli ([RS 916.010](https://fedlex.data.admin.ch/eli/cc/2006/416)).
+[^annex2-lvlB-lvl2-1]: [[RU 1998 3205](https://fedlex.data.admin.ch/eli/oc/1998/3205_3205_3205), [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)art. 22 cpv. 1 n. 23, [2002 4311](https://fedlex.data.admin.ch/eli/oc/2002/697), [2003 5415](https://fedlex.data.admin.ch/eli/oc/2003/785). [RU 2006 2695](https://fedlex.data.admin.ch/eli/oc/2006/416)art. 19]. Vedi ora l’O del 9 giu. 2006 concernente il sostegno alla promozione dello smercio di prodotti agricoli ([RS 916.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10464)).
 
 ### 3. Trasmissione di dati
 
@@ -297,7 +297,7 @@ L’Ufficio federale trasmette su richiesta all’USC gli indirizzi dei detentor
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2029.
 
 ## C. Organizzazione di produttori GalloSuisse
 
@@ -305,7 +305,7 @@ L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
 
 1.1. I non membri devono versare a GalloSuisse, quale organizzazione di produttori ai sensi dell’articolo 2 capoverso 2, i seguenti contributi:
 
-- a. 30 centesimi per animale presso gli acquirenti di pulcini femmina o di pollastrelle;
+- a. 40 centesimi per animale presso gli acquirenti di pulcini femmina o di pollastrelle;
 - b. 12 centesimi per uovo presso gli acquirenti di uova da cova.
 
 1.2. Soltanto gli acquirenti che detengono almeno 500 galline da allevamento delle razze ovaiole o 500 galline ovaiole soggiacciono all’obbligo contributivo.
@@ -323,7 +323,7 @@ L’Ufficio federale trasmette a GalloSuisse, su richiesta, i seguenti dati:
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2029.
 
 ## D. Organizzazione di categoria Emmentaler Switzerland
 
@@ -353,9 +353,9 @@ Il servizio d’amministrazione ai sensi dell’articolo 12 OSL trasmette all’
 - f. il quantitativo di «formaggio a pasta dura, materia prima per formaggio fuso, grasso» le cui forme pesano più di 70 chilogrammi (peso dopo la pressatura) e il numero di forme;
 - g. il quantitativo di latte trasformato in «formaggio a pasta dura, materia prima per formaggio fuso, grasso» le cui forme pesano di più di 70 chilogrammi.
 
-\4. Validità
+### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2029.
 
 ## E. Organizzazione di categoria Interprofession du Vacherin Fribourgeois
 
@@ -401,11 +401,11 @@ L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
 
 1.5 Il contributo per i non membri non è riscosso qualora l’importo dovuto secondo i numeri 1.1 e 1.2 sia inferiore a dieci franchi.
 
-[^annex2-lvlF-lvl1-1]: [RS 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^annex2-lvlF-lvl1-1]: [RS 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 
 ### 2. Utilizzo dei contributi
 
-Il contributo versato conformemente al numero 1 può essere impiegato solo per le campagne pubblicitarie annuali di promozione dei vini svizzeri negli anni 2023–2025. I fondi rimasti inutilizzati al termine di ogni anno possono essere riportati a nuovo per finanziare le stesse misure.
+Il contributo versato conformemente al numero 1 può essere impiegato solo per le campagne pubblicitarie annuali di promozione dei vini svizzeri negli anni 2026–2028. I fondi rimasti inutilizzati al termine di ogni anno possono essere riportati a nuovo per finanziare le stesse misure.
 
 ### 3. Trasmissione di dati
 
@@ -416,4 +416,4 @@ I servizi cantonali competenti della vitivinicoltura e del controllo della vende
 
 ### 4. Validità
 
-L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2025.
+L’obbligo contributivo per i non membri si applica fino al 31 dicembre 2028.

@@ -4,11 +4,11 @@ title: "Verordnung vom 30. Oktober 2002 über die Ausdehnung der Selbsthilfemass
 short: VBPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/703"
 language: de
-version: 2023-01-01
+version: 2026-01-01
 adopted: 2002-10-30
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2002-703-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/703/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2002-703-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/703/20230101/de"
 
 (Verordnung über die Branchen- und Produzentenorganisationen, VBPO[^t-1])
 
-vom 30. Oktober 2002 (Stand am 1. Januar 2023)
+vom 30. Oktober 2002 (Stand am 1. Januar 2026)
 
 [^t-1]: Abkürzung eingefügt durch Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5581](https://fedlex.data.admin.ch/eli/oc/2005/759)).
 
@@ -27,7 +27,7 @@ gestützt auf die Artikel 9 und 177 Absatz 1 des Landwirtschaftsgesetzes vom 29.
 
 verordnet:
 
-[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^ingress-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## 1. Abschnitt: Selbsthilfemassnahmen
 
@@ -237,8 +237,6 @@ Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 Anhang 1[^t-2]
 
-- [tab]
-
 [^t-2]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)).
 
 Anhang 2[^t-3]
@@ -247,7 +245,7 @@ Anhang 2[^t-3]
 
 ## A. Produzentenorganisation Schweizer Milchproduzenten
 
-[^t-3]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2007 ([AS 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), Ziff. I der V vom 25. Febr. 2009 ([AS 2009 883](https://fedlex.data.admin.ch/eli/oc/2009/149)), vom 18. Nov. 2009 ([AS 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), vom 25. Mai 2011 ([AS 2011 2417](https://fedlex.data.admin.ch/eli/oc/2011/353)), Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), Ziff. I der V vom 23. Mai 2012 ([AS 2012 3471](https://fedlex.data.admin.ch/eli/oc/2012/392)), vom 23. Okt. 2013 ([AS 2013 4025](https://fedlex.data.admin.ch/eli/oc/2013/734)), vom 11. Dez. 2015 ([AS 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)), vom 13. Nov. 2019 ([AS 2019 3767](https://fedlex.data.admin.ch/eli/oc/2019/682)), vom 24. Nov. 2021 ([AS 2021 853](https://fedlex.data.admin.ch/eli/oc/2021/853)) und vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 (AS **202****2** 695).
+[^t-3]: Bereinigt gemäss Ziff. II der V vom 14. Nov. 2007 ([AS 2007 6465](https://fedlex.data.admin.ch/eli/oc/2007/845)), Ziff. I der V vom 18. Nov. 2009 ([AS 2009 5883](https://fedlex.data.admin.ch/eli/oc/2009/718)), Ziff. II der V vom 26. Okt. 2011 ([AS 2011 5481](https://fedlex.data.admin.ch/eli/oc/2011/778)), Ziff. I der V vom 11. Dez. 2015 ([AS 2015 5819](https://fedlex.data.admin.ch/eli/oc/2015/896)), Ziff. II der V vom 22. Nov. 2017 ([AS 2017 7179](https://fedlex.data.admin.ch/eli/oc/2017/774)), Ziff. I der V vom 30. Nov. 2018 ([AS 2018 4705](https://fedlex.data.admin.ch/eli/oc/2018/746)) und vom 19. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 759](https://fedlex.data.admin.ch/eli/oc/2025/759)).
 
 ### 1. Höhe des Beitrages
 
@@ -272,11 +270,11 @@ Die Administrationsstelle nach Artikel 12 der Milchpreisstützungsverordnung vom
 - b. die Adressen der Produzentinnen und Produzenten, welche den Milchverwertern Milch geliefert haben;
 - c. die Milchmengen, die die einzelnen Produzentinnen und Produzenten den einzelnen Milchverwertern pro Monat geliefert haben.
 
-[^annex2-lvlA-lvl3-1]: [SR 916.350.2](https://fedlex.data.admin.ch/eli/cc/2008/521)
+[^annex2-lvlA-lvl3-1]: [SR 916.350.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10749)
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2029.
 
 ## B. Produzentenorganisation Schweizer Bauernverband
 
@@ -293,7 +291,7 @@ Nichtmitglieder müssen folgende Beiträge an den Schweizer Bauernverband (SBV) 
 
 Die gemäss Ziffer 1 geleisteten Beiträge müssen für die Marketing-Kommunikation Schweizer Landwirtschaft gestützt auf Artikel 1 der Landwirtschaftlichen Absatzförderungsverordnung vom 7. Dezember 1998[^annex2-lvlB-lvl2-1] eingesetzt werden.
 
-[^annex2-lvlB-lvl2-1]: [[AS 1998 3205](https://fedlex.data.admin.ch/eli/oc/1998/3205_3205_3205); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 23; [2002 4311](https://fedlex.data.admin.ch/eli/oc/2002/697); [2003 5415](https://fedlex.data.admin.ch/eli/oc/2003/785). [AS 2006 2695](https://fedlex.data.admin.ch/eli/oc/2006/416)Art. 19]. Siehe heute: die V vom 9. Juni 2006 ([SR 916.010](https://fedlex.data.admin.ch/eli/cc/2006/416)).
+[^annex2-lvlB-lvl2-1]: [[AS 1998 3205](https://fedlex.data.admin.ch/eli/oc/1998/3205_3205_3205); [2000 187](https://fedlex.data.admin.ch/eli/oc/2000/34)Art. 22 Abs. 1 Ziff. 23; [2002 4311](https://fedlex.data.admin.ch/eli/oc/2002/697); [2003 5415](https://fedlex.data.admin.ch/eli/oc/2003/785). [AS 2006 2695](https://fedlex.data.admin.ch/eli/oc/2006/416)Art. 19]. Siehe heute: die V vom 9. Juni 2006 ([SR 916.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10464)).
 
 ### 3. Weitergabe von Daten
 
@@ -301,15 +299,15 @@ Das Bundesamt übermittelt dem SBV auf Anfrage die Adressen der Tierhalter sowie
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2029.
 
 ## C. Produzentenorganisation GalloSuisse
 
 ### 1. Höhe der Beiträge
 
-1.1. Nichtmitglieder müssen folgende Beiträge an den GalloSuisse als Produzentenorganisation nach Artikel 2 Absatz 2 leisten:
+1.1. Nichtmitglieder müssen folgende Beiträge an GalloSuisse als Produzentenorganisation nach Artikel 2 Absatz 2 leisten:
 
-- a. Käufer von Hennenküken oder Junghennen 30 Rappen je Tier;
+- a. Käufer von Hennenküken oder Junghennen 40 Rappen je Tier;
 - b. Käufer von Bruteiern 12 Rappen pro Ei.
 
 1.2. Die Beitragspflicht gilt nur für Käufer, die mindestens 500 Aufzuchttiere (der Legelinien) oder 500 Legehennen halten.
@@ -320,14 +318,14 @@ Die gemäss Ziffer 1 geleisteten Beiträge müssen für die Marketing-Kommunikat
 
 ### 3. Weitergabe von Daten
 
-Das Bundesamt übermittelt dem GalloSuisse auf Anfrage folgende Daten:
+Das Bundesamt übermittelt GalloSuisse auf Anfrage folgende Daten:
 
 - a. die Adressen von inländischen Produzentinnen und Produzenten, die mindestens 500 Aufzuchttiere der Legelinien oder 500 Legehennen halten, sowie die Zahl der effektiv gehaltenen Tiere;
 - b. die Adressen der Importeure von Bruteiern, Küken und Junghennen sowie die von ihnen eingeführten Mengen.
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2029.
 
 ## D. Branchenorganisation Emmentaler Switzerland
 
@@ -359,7 +357,7 @@ Die Administrationsstelle nach Artikel 12 MSV übermittelt der ES auf Anfrage fo
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2029.
 
 ## E. Branchenorganisation Interprofession du Vacherin Fribourgeois
 
@@ -405,11 +403,11 @@ Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
 
 1.5 Sofern der Jahresbeitrag nach den Ziffern 1.1 und 1.2 weniger als 10 Franken beträgt, wird auf die Beitragserhebung bei Nichtmitgliedern verzichtet.
 
-[^annex2-lvlF-lvl1-1]: [SR 916.140](https://fedlex.data.admin.ch/eli/cc/2007/833)
+[^annex2-lvlF-lvl1-1]: [SR 916.140](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10606)
 
 ### 2. Verwendung der Beiträge
 
-Der gemäss Ziffer 1 geleistete Beitrag darf nur für die jährlichen Werbekampagnen der Jahre 2023–2025 zur Förderung von Schweizer Wein eingesetzt werden. Die nach Ablauf eines Jahres nicht verwendeten Mittel können zur Finanzierung derselben Massnahmen auf die neue Rechnung vorgetragen werden.
+Der gemäss Ziffer 1 geleistete Beitrag darf nur für die jährlichen Werbekampagnen der Jahre 2026–2028 zur Förderung von Schweizer Wein eingesetzt werden. Die nach Ablauf eines Jahres nicht verwendeten Mittel können zur Finanzierung derselben Massnahmen auf die neue Rechnung vorgetragen werden.
 
 ### 3. Weitergabe von Daten
 
@@ -420,4 +418,4 @@ Die für die Weinwirtschaft und die Weinlesekontrolle zuständigen kantonalen St
 
 ### 4. Geltungsdauer
 
-Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2025.
+Die Beitragspflicht für Nichtmitglieder gilt bis zum 31. Dezember 2028.
