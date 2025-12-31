@@ -4,11 +4,11 @@ title: "Legge federale del 24 marzo 2006 sugli assegni familiari e sugli aiuti f
 short: LAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2008-51-20250101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2008-51-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/it"
 
 (Legge sugli assegni familiari, LAFam)[^t-1]
 
-del 24 marzo 2006 (Stato 1° gennaio 2025)
+del 24 marzo 2006 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^t-1]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,7 +28,7 @@ visto l’articolo 116 capoversi 1, 2 e 4 della Costituzione federale[^ingress-1
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
-[^ingress-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^ingress-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 [^ingress-3]: [FF 1999 III 2759](https://fedlex.data.admin.ch/eli/fga/1999/1___2759)
 [^ingress-4]: [FF 2004 6103](https://fedlex.data.admin.ch/eli/fga/2004/1201)
 [^ingress-5]: [FF 2000 4167](https://fedlex.data.admin.ch/eli/fga/2000/988)
@@ -44,7 +44,7 @@ decreta:
 
 [^1-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
 [^1-2]: Nuovo testo del per. giusta l’all. n. 8 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^1-3]: Introdotto dal n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^1-3]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 ## Capitolo 2: Disposizioni generali
 
@@ -70,7 +70,7 @@ Gli assegni familiari ai sensi della presente legge comprendono:
 <sup>3</sup> L’assegno di nascita è versato per ogni figlio nato vivo o dopo 23 settimane di gravidanza almeno. Il Consiglio federale può stabilire altre condizioni. L’assegno di adozione è versato per ogni minorenne accolto per futura adozione. L’adozione del figliastro conformemente all’articolo 264*c* del Codice civile[^3-3] non conferisce alcun diritto.[^3-4]
 
 [^3-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^3-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^3-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 [^3-3]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
 [^3-4]: Nuovo testo del per. giusta l’all. n. 4 della LF del 17 giu. 2016 (Adozione), in vigore dal 1° gen. 2018 ([RU 2017 3699](https://fedlex.data.admin.ch/eli/oc/2017/425); [FF 2015 793](https://fedlex.data.admin.ch/eli/fga/2015/94)).
 
@@ -129,9 +129,9 @@ Qualora più persone abbiano diritto agli assegni familiari per lo stesso figlio
 
 <sup>2</sup> Se i diritti agli assegni familiari del primo e del secondo avente diritto sono retti da ordinamenti di due diversi Cantoni, il secondo avente diritto ha diritto all’importo per il quale il minimo legale previsto nel suo Cantone supera quello dell’altro Cantone.[^7-3]
 
-[^7-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^7-2]: Introdotta dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^7-3]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^7-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^7-2]: Introdotta dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^7-3]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 8
 
@@ -161,7 +161,7 @@ Gli assegni familiari non sottostanno all’esecuzione forzata.
 
 [^chap3-sec1-1]
 
-[^chap3-sec1-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^chap3-sec1-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 11
 
@@ -178,7 +178,7 @@ Sottostanno alla presente legge:
 <sup>2</sup> È considerato salariato chi è definito tale dalla legislazione AVS.
 
 [^11-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
-[^11-2]: Introdotta dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^11-2]: Introdotta dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 12
 
@@ -190,8 +190,8 @@ Sottostanno alla presente legge:
 
 <sup>3</sup> I salariati il cui datore di lavoro non sottostà all’obbligo contributivo sottostanno all’ordinamento sugli assegni familiari del Cantone in cui sono registrati ai fini dell’AVS.
 
-[^12-1]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^12-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^12-1]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^12-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 13
 
@@ -212,8 +212,8 @@ Il Consiglio federale disciplina:
 - a. il diritto agli assegni e il coordinamento con altre prestazioni in caso di incapacità o impedimento al lavoro;
 - b.[^13-2] la procedura e la competenza delle casse di compensazione per assegni familiari per le persone che hanno più datori di lavoro e per le persone che esercitano contemporaneamente un’attività lucrativa indipendente e un’attività lucrativa dipendente.
 
-[^13-1]: Introdotto dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^13-2]: Nuovo testo giusta il n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^13-1]: Introdotto dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^13-2]: Nuovo testo giusta la cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 14
 
@@ -253,8 +253,8 @@ Le casse di compensazione per assegni familiari sono in particolare incaricate d
 
 <sup>4</sup> I contributi delle persone esercitanti un’attività lucrativa indipendente sono prelevati solo sulla parte di reddito che corrisponde all’importo massimo del guadagno assicurato nell’assicurazione infortuni obbligatoria.[^16-2]
 
-[^16-1]: Introdotto dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
-[^16-2]: Introdotto dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^16-1]: Introdotto dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^16-2]: Introdotto dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
 #### Art. 17
 
@@ -276,8 +276,10 @@ Le casse di compensazione per assegni familiari sottostanno alla vigilanza dei C
 - h. lo statuto e i compiti della cassa cantonale di compensazione per assegni familiari;
 - i. la revisione delle casse e il controllo dei datori di lavoro;
 - j. il finanziamento, in particolare l’eventuale chiave di ripartizione dei contributi fra i datori di lavoro e i salariati;
-- k. l’eventuale perequazione degli oneri tra le casse;
+- k.[^17-1] la perequazione integrale degli oneri tra le casse;
 - l. l’eventuale attribuzione di ulteriori compiti alle casse cantonali di compensazione per assegni familiari, in particolare compiti di sostegno di militari e di protezione della famiglia.
+
+[^17-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2026 ([RU 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [FF 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
 
 ### Sezione 2: Persone che esercitano un’attività agricola
 
@@ -301,9 +303,9 @@ I salariati agricoli e i contadini indipendenti hanno diritto agli assegni famil
 
 <sup>2</sup> Il diritto agli assegni familiari è vincolato alla condizione che il reddito imponibile non ecceda il 150 per cento di una rendita massima completa di vecchiaia dell’AVS e che non vengano riscosse prestazioni complementari all’AVS/AI.
 
-[^19-1]: Introdotto dal n. I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^19-1]: Introdotto dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° gen. 2013 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567), [4949](https://fedlex.data.admin.ch/eli/oc/2011/718); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 [^19-2]: [RS 834.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10262)
-[^19-3]: Introdotto dal n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^19-3]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 #### Art. 20
 
@@ -325,7 +327,7 @@ Fatta salva la presente legge e a suo complemento, i Cantoni emanano le disposiz
 
 [^chap3a-1]
 
-[^chap3a-1]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 15 ott. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^chap3a-1]: Introdotto dalla cifra I della LF del 18 giu. 2010, in vigore dal 15 ott. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
 
 #### Art. 21a
 
@@ -400,7 +402,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione in collaborazione con
 
 [^chap3b-1]
 
-[^chap3b-1]: Introdotto dal n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^chap3b-1]: Introdotto dalla cifra I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
 #### Art. 21f
 
@@ -544,10 +546,10 @@ Le disposizioni della legislazione sull’AVS, con le loro eventuali deroghe all
 [^25-3]: Ora art. 49*f*.
 [^25-4]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^25-5]: Introdotta dall’all. n. 8 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^25-6]: Introdotta dal n. II 2 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-7]: Introdotta dal n. II 2 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
-[^25-8]: Introdotta dal n. I della LF del 18 giu. 2010, in vigore dal 15 ott. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
-[^25-9]: Introdotta dal n. I della LF del 18 giu. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Nuovo testo giusta l’all. n. 35 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
+[^25-6]: Introdotta dalla cifra II n. 2 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-7]: Introdotta dalla cifra II n. 2 della LF del 17 mar. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5521](https://fedlex.data.admin.ch/eli/oc/2017/595); [FF 2016 125](https://fedlex.data.admin.ch/eli/fga/2016/44)).
+[^25-8]: Introdotta dalla cifra I della LF del 18 giu. 2010, in vigore dal 15 ott. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^25-9]: Introdotta dalla cifra I della LF del 18 giu. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)). Nuovo testo giusta l’all. n. 35 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
 
 #### Art. 26
 
@@ -570,7 +572,7 @@ Le disposizioni della legislazione sull’AVS, con le loro eventuali deroghe all
 <sup>3</sup> Il Consiglio federale può incaricare l’Ufficio federale delle assicurazioni sociali di svolgere i compiti di cui all’articolo 72*a* capoverso 2 lettera b LAVS[^27-3] e all’articolo 76*a* capoverso 2 LPGA.[^27-4]
 
 [^27-1]: [RS 830.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9993)
-[^27-2]: Nuovo testo giusta il n. I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
+[^27-2]: Nuovo testo giusta la cifra I della LF del 27 set. 2019, in vigore dal 1° ago. 2020 ([RU 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 935](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 [^27-3]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 [^27-4]: Introdotto dall’all. n. 8 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
@@ -588,7 +590,7 @@ Le modifiche del diritto vigente sono disciplinate nell’allegato.
 
 <sup>2</sup> Il Consiglio federale definisce i dettagli della prima notifica di dati all’Ufficio centrale di compensazione.
 
-[^28a-1]: Introdotto dal n. I della LF del 18 giu. 2010, in vigore dal 15 ott. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
+[^28a-1]: Introdotto dalla cifra I della LF del 18 giu. 2010, in vigore dal 15 ott. 2010 ([RU 2010 4491](https://fedlex.data.admin.ch/eli/oc/2010/636); [FF 2009 5289](https://fedlex.data.admin.ch/eli/fga/2009/1101)).
 
 #### Art. 28b
 
@@ -596,7 +598,15 @@ Le modifiche del diritto vigente sono disciplinate nell’allegato.
 
 I Cantoni adeguano i loro ordinamenti sugli assegni familiari entro l’entrata in vigore della presente modifica.
 
-[^28b-1]: Introdotto dal n. I della LF del 18 mar. 2011, in vigore dal 1° set. 2011 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+[^28b-1]: Introdotto dalla cifra I della LF del 18 mar. 2011, in vigore dal 1° set. 2011 ([RU 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [FF 2009 5193](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5211](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+
+#### Art. 28c
+
+**Disposizione transitoria della modifica del 15 marzo 2024**[^28c-1]
+
+Entro tre anni dall’entrata in vigore della presente modifica, i Cantoni adeguano la loro legislazione all’articolo 17 capoverso 2 lettera k e adottano misure collaterali volte ad accrescere l’efficienza e l’efficacia delle casse di compensazione per assegni familiari.
+
+[^28c-1]: Introdotto dalla cifra I della LF del 15 mar. 2024, in vigore dal 1° gen. 2026 ([RU 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [FF 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
 
 #### Art. 29
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 24 mars 2006 sur les allocations familiales et les aid
 short: LAFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20250101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-51-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/fr"
 
 (Loi sur les allocations familiales, LAFam)[^t-2][^t-1]
 
-du 24 mars 2006 (État le 1<sup>er</sup> janvier 2025)
+du 24 mars 2006 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 [^t-2]: Nouvelle teneur selon le ch. I de la LF du 27 sept. 2019, en vigueur depuis le 1<sup>er</sup> août 2020 ([RO 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [FF 2019 997](https://fedlex.data.admin.ch/eli/fga/2019/171)).
@@ -278,8 +278,10 @@ Les caisses de compensation pour allocations familiales sont soumises à la surv
 - h. le statut et les tâches de la caisse cantonale;
 - i. la révision des caisses et le contrôle des employeurs;
 - j. le financement, notamment la clef éventuelle de répartition des cotisations entre employeurs et salariés;
-- k. la compensation éventuelle entre les caisses (surcompensation);
+- k.[^17-1] la compensation intégrale entre les caisses (surcompensation);
 - l. l’attribution éventuelle aux caisses de compensation pour allocations familiales d’autres tâches, en particulier le soutien aux militaires et la protection de la famille.
+
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [FF 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
 
 ### Section 2 Personnes exerçant une activité lucrative agricole
 
@@ -599,6 +601,14 @@ Les modifications du droit en vigueur figurent en annexe.
 Les cantons adaptent leurs régimes d’allocations familiales avant l’entrée en vigueur de la présente modification.
 
 [^28b-1]: Introduit par le ch. I de la LF du 18 mars 2011, en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [FF 2009 5389](https://fedlex.data.admin.ch/eli/fga/2009/1081), [5407](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+
+#### Art. 28c
+
+**Disposition transitoire relative à la modification du 15 mars 2024**[^28c-1]
+
+Dans un délai de trois ans à compter de l’entrée en vigueur de la présente modification, les cantons adaptent leur législation à l’art. 17, al. 2, let. k, et prennent des mesures d’accompagnement afin d’augmenter l’efficience et l’efficacité des caisses de compensation pour allocations familiales.
+
+[^28c-1]: Introduit par le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [FF 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
 
 #### Art. 29
 

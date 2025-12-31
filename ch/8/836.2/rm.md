@@ -4,11 +4,11 @@ title: "Lescha federala dals 24 da mars 2006 davart ils supplements da famiglia 
 short: LSFam
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: rm
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20250101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-51-20250101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2008-51-20260101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart ils supplements da famiglia, LSFam)
 
-dals 24 da mars 2006 (versiun dal 1. da schaner 2025)
+dals 24 da mars 2006 (versiun dal 1. da schaner 2026)
 
 [^t-1]: Versiun tenor la cifra I da la LF dals 27 da sett. 2019, en vigur dapi il 1. d’avust 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -277,8 +277,10 @@ Las cassas da cumpensaziun per famiglias èn suttamessas a la surveglianza dals 
 - h. il statut e las incumbensas da la cassa chantunala da cumpensaziun per famiglias;
 - i. la revisiun da las cassas e la controlla dals patruns;
 - j. la finanziaziun, cunzunt l’eventuala clav da repartiziun per las contribuziuns dals patruns sco er da las persunas emploiadas;
-- k. eventualmain la gulivaziun da las grevezzas tranter las cassas;
+- k.[^17-1] la gulivaziun cumplaina da las grevezzas tranter las cassas;
 - l. eventualmain la delegaziun d’ulteriuras incumbensas a las cassas da cumpensaziun per famiglias, cunzunt incumbensas per sustegnair las appartegnentas ed ils appartegnents da l’armada sco er incumbensas da la protecziun da la famiglia.
+
+[^17-1]: Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2026 ([AS 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [BBl 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
 
 ### Partiziun 2 Persunas cun activitad da gudogn en l’agricultura
 
@@ -598,6 +600,14 @@ Ils chantuns adatteschan lur ordinaziuns davart ils supplements da famiglia fin 
 
 [^28b-1]: Integrà tras la cifra I da la LF dals 18 da zer. 2011, en vigur dapi il 1. da sett. 2011 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081)[6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
 
+#### Art. 28c
+
+**Disposiziun transitorica da la midada dals 15 da mars 2024**[^28c-1]
+
+Entaifer 3 onns suenter che questa midada è entrada en vigur, adattan ils chantuns lur legislaziun a l’artitgel 17 alinea 2 litera k e prendan mesiras accumpagnantas per augmentar l’effizienza e l’efficacitad da las cassas da cumpensaziun per famiglias.
+
+[^28c-1]: Integrà tras la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. da schan. 2026 ([AS 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [BBl 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
+
 #### Art. 29
 
 **Referendum ed entrada en vigur**
@@ -608,7 +618,7 @@ Ils chantuns adatteschan lur ordinaziuns davart ils supplements da famiglia fin 
 
 <sup>3</sup> Ils artitgels 17 e 26 entran en vigur l’emprim di dal segund mais suenter ch’il termin da referendum è scadì senza ch’el saja vegnì duvrà ubain l’emprim di dal quart mais suenter che la lescha è vegnida acceptada a la votaziun dal pievel.
 
-Entrada in vigur: 1. da schaner 2009[^29-1] Art. 17 e 26: 1. da mars 2007
+Entrada en vigur: 1. da schaner 2009[^29-1] Art. 17 e 26: 1. da mars 2007
 
 [^29-1]: COCF dals 31 d’oct. 2007.
 

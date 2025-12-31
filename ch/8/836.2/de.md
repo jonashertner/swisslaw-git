@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 24. März 2006 über die Familienzulagen und Finanzhilf
 short: FamZG
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/51"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2006-03-24
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20250101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/51/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2008-51-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/51/20250101/de"
 
 (Familienzulagengesetz, FamZG)[^t-1]
 
-vom 24. März 2006 (Stand am 1. Januar 2025)
+vom 24. März 2006 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung gemäss Ziff. I des BG vom 27. Sept. 2019, in Kraft seit 1. Aug. 2020 ([AS 2020 2775](https://fedlex.data.admin.ch/eli/oc/2020/502); [BBl 2019 1019](https://fedlex.data.admin.ch/eli/fga/2019/171)).
 
@@ -275,8 +275,10 @@ Die Familienausgleichskassen stehen unter der Aufsicht der Kantone. Unter Vorbeh
 - h. das Statut und die Aufgaben der kantonalen Familienausgleichskasse;
 - i. die Revision der Kassen und die Arbeitgeberkontrolle;
 - j. die Finanzierung, insbesondere den allfälligen Verteilschlüssel für die Beiträge der Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer;
-- k. den allfälligen Lastenausgleich zwischen den Kassen;
+- k.[^17-1] den vollen Lastenausgleich zwischen den Kassen;
 - l. die allfällige Übertragung weiterer Aufgaben an die Familienausgleichskassen, insbesondere von Aufgaben zur Unterstützung von Angehörigen der Armee und des Familienschutzes.
+
+[^17-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2026 ([AS 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [BBl 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
 
 ### 2. Abschnitt: Erwerbstätige in der Landwirtschaft
 
@@ -595,6 +597,14 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 Die Kantone passen ihre Familienzulagenordnungen bis zum Inkrafttreten dieser Änderung an.
 
 [^28b-1]: Eingefügt durch Ziff. I des BG vom 18. März 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3973](https://fedlex.data.admin.ch/eli/oc/2011/567); [BBl 2009 5991](https://fedlex.data.admin.ch/eli/fga/2009/1081), [6009](https://fedlex.data.admin.ch/eli/fga/2009/1083)).
+
+#### Art. 28c
+
+**Übergangsbestimmung zur Änderung vom 15. März 2024**[^28c-1]
+
+Innert drei Jahren nach Inkrafttreten dieser Änderung passen die Kantone ihre Gesetzgebung an Artikel 17 Absatz 2 Buchstabe k an und treffen Begleitmassnahmen, damit die Effizienz und die Effektivität der Familienausgleichskassen gesteigert werden.
+
+[^28c-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Jan. 2026 ([AS 2025 770](https://fedlex.data.admin.ch/eli/oc/2025/770); [BBl 2023 1469](https://fedlex.data.admin.ch/eli/fga/2023/1469)).
 
 #### Art. 29
 
