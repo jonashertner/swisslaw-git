@@ -3,18 +3,18 @@ sr: "641.612"
 title: "Ordinanza del DFF del 22 novembre 2013 sulle agevolazioni fiscali per l'imposta sugli oli minerali"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/793"
 language: it
-version: 2021-01-01
+version: 2026-01-01
 adopted: 2013-11-22
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/793/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-793-20210101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/793/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/793/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2013-793-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/793/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFF sulle agevolazioni fiscali per l’imposta sugli oli minerali
 
-del 22 novembre 2013 (Stato 1° gennaio 2021)
+del 22 novembre 2013 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -31,77 +31,19 @@ ordina:
 
 Le agevolazioni fiscali sono concesse secondo la tariffa di cui all’allegato 1.
 
-## Sezione 2: Restituzione dell’imposta a imprese di trasporto concessionarie
+## Sezione 2: ...
 
-#### Art. 2
+#### Art. 2 e 3
 
-**Restituzione per corse con veicoli stradali non dotati di filtro antiparticolato o di un sistema equivalente**[^2-1]
+[^23-1]
 
-Per le corse con veicoli stradali non dotati di filtro antiparticolato o di un sistema equivalente, l’impresa di trasporto ha diritto alla restituzione del supplemento fiscale sugli oli minerali se le corse sono effettuate per il trasporto di persone con una concessione dell’Ufficio federale dei trasporti (UFT).
+[^23-1]: Abrogati dalla cifra I dell’O del DFF del 13 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
+#### Art. 3a a 3c
 
-#### Art. 3
+[^3a3c-1]
 
-**Restituzione per corse con veicoli stradali dotati di filtro antiparticolato o di un sistema equivalente e con determinati veicoli EURO IV, EURO V ed EEV[^3-1]**
-
-<sup>1</sup>
-
-Per le corse con i seguenti veicoli stradali, l’impresa di trasporto ha diritto alla restituzione del supplemento fiscale sugli oli minerali e alla restituzione parziale dell’imposta sugli oli minerali se le corse sono effettuate per il trasporto di persone con una concessione dell’UFT:[^3-2]
-
-- a. veicoli stradali dotati di filtro antiparticolato o di un sistema equivalente;
-- b. veicoli EURO IV, EURO V ed EEV non dotati di filtro antiparticolato o di un sistema equivalente e che, secondo la licenza di circolazione, sono stati messi in circolazione per la prima volta entro il 31 dicembre 2007.
-
-<sup>2</sup> Per veicoli stradali con filtro antiparticolato si intendono i veicoli dotati di sistemi di filtro antiparticolato che soddisfano i criteri di cui all’allegato 4 numero 32 dell’ordinanza del 16 dicembre 1985[^3-3] contro l’inquinamento atmosferico.
-
-<sup>3</sup>
-
-Per veicoli stradali con un sistema equivalente al filtro antiparticolato si intendono i veicoli che:
-
-- a. raggiungono una massa di particelle inferiore a 0,05 g/km e un numero di particelle inferiore a 10<sup>13</sup>/km nel ciclo di bus (p. es. ciclo urbano di Braunschweig definito dall’Università Tecnica di Graz);
-- b. raggiungono una massa di particelle inferiore a 0,01 g/kWh e un numero di particelle inferiore a 5\*10<sup>12</sup>/kWh per ciclo di prova definito secondo il tipo nella direttiva 88/77/CEE[^3-4]; o che
-- c. rispettano i limiti d’emissione Euro VI secondo il regolamento (UE) n. 582/2011[^3-5].
-
-<sup>4</sup> Alla domanda di restituzione occorre allegare una prova corrispondente. Quest’ultima può essere fornita analogamente a quella relativa all’osservanza delle prescrizioni sui gas di scarico conformemente alle istruzioni dell’Ufficio federale delle strade del 17 settembre 2010[^3-6] sull’esonero dell’approvazione del tipo.
-
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3-3]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
-[^3-4]: Direttiva 88/77/CEE del Consiglio, del 3 dicembre 1987, concernente il ravvicinamento delle legislazioni degli Stati Membri relative ai provvedimenti da prendere contro l’emissione di gas inquinanti prodotti dai motori ad accensione spontanea destinati alla propulsione dei veicoli, GU L 36 del 9.2.1988, pag. 33; modificata da ultimo dalla direttiva 2001/27/CE, GU L 107 del 18.4.2001, pag. 15; nonché direttiva 2005/55/CE del Parlamento europeo e del Consiglio, del 28 settembre 2005, concernente il ravvicinamento delle legislazioni degli Stati membri relative ai provvedimenti da prendere contro l’emissione di inquinanti gassosi e di particolato prodotti dai motori ad accensione spontanea destinati alla propulsione di veicoli e contro l’emissione di inquinanti gassosi prodotti dai motori ad accensione comandata alimentati con gas naturale o con gas di petrolio liquefatto destinati alla propulsione di veicoli, GU L 275 del 20.10.2005, pag. 1; modificata da ultimo dalla direttiva 2008/74/CE, GU L 192 del 19.7.2008, pag. 51.
-[^3-5]: Regolamento (UE) n. 582/2011 della Commissione, del 25 maggio 2011, recante attuazione e modifica del regolamento (CE) n. 595/2009 del Parlamento europeo e del Consiglio per quanto riguarda le emissioni dei veicoli pesanti (Euro VI) e recante modifica degli allegati I e III della direttiva 2007/46/CE del Parlamento europeo e del Consiglio, GU L 167 del 25.6.2011, pag. 1; modificato da ultimo dal regolamento (UE) n. 64/2012 della Commissione del 23 gennaio 2012, GU L 28 del 31.1.2012, pag. 1.
-[^3-6]: Le istruzioni possono essere consultate e scaricate dal sito dell’Ufficio federale delle strade: www.astra.admin.ch &gt; Documentazione &gt; Legislazione &gt; Prescrizioni &gt; Documenti da scaricare concernenti la circolazione stradale &gt; Istruzioni.
-
-#### Art. 3a
-
-**Restituzione per corse con veicoli su rotaia**[^3a-1]
-
-Per le corse con veicoli su rotaia, l’impresa di trasporto ha diritto alla restituzione del supplemento fiscale sugli oli minerali e alla restituzione parziale dell’imposta sugli oli minerali se le corse sono effettuate per il trasporto di persone con una concessione dell’UFT.
-
-[^3a-1]: Introdotto dal n. I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-
-#### Art. 3b
-
-**Restituzione per corse con battelli**[^3b-1]
-
-<sup>1</sup>
-
-Per le corse con battelli, l’impresa di trasporto ha diritto alla restituzione del supplemento fiscale sugli oli minerali e alla restituzione parziale dell’imposta sugli oli minerali se le corse:
-
-- a. sono effettuate per il trasporto di persone con una concessione dell’UFT; o
-- b. sono effettuate per il trasporto transfrontaliero di persone con autorizzazione federale, a condizione che vi sia un’indennità dei costi non coperti ai sensi dell’articolo 28 della legge del 20 marzo 2009[^3b-2] sul trasporto di viaggiatori.
-
-<sup>2</sup> Sulle acque di confine sussiste il diritto alla restituzione ai sensi del capoverso 1 anche per le corse su tratti di linea al di fuori del territorio nazionale svizzero, se almeno uno degli attracchi della linea si trova nel territorio nazionale svizzero.
-
-[^3b-1]: Introdotto dal n. I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3b-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
-
-#### Art. 3c
-
-**Restituzione per corse di sostituzione, di rinforzo e a vuoto**[^3c-1]
-
-Il diritto alla restituzione ai sensi degli articoli 2–3*b* vale anche per le corse di sostituzione e di rinforzo nonché per le corse a vuoto effettuate per necessità d’esercizio.
-
-[^3c-1]: Introdotto dal n. I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
+[^3a3c-1]: Introdotti dalla cifra I delle O del DFF del 18 set. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)). Abrogati dalla cifra I dell’O del DFF del 13 nov. 2025, con effetto dal 1° gen. 2026 ([RU 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 ## Sezione 3: …
 
@@ -109,7 +51,7 @@ Il diritto alla restituzione ai sensi degli articoli 2–3*b* vale anche per le 
 
 [^45-1]
 
-[^45-1]: Abrogati dal n. I dell’O del DFF del 25 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2683](https://fedlex.data.admin.ch/eli/oc/2016/428)).
+[^45-1]: Abrogati dalla cifra I dell’O del DFF del 25 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2683](https://fedlex.data.admin.ch/eli/oc/2016/428)).
 
 ## Sezione 4: Restituzione dell’imposta per gli idrocarburi gassosi
 
@@ -126,13 +68,14 @@ L’imposta è restituita:
 
 **Calcolo del consumo secondo norma**
 
-<sup>1</sup> Per calcolare il consumo secondo norma di un’azienda agricola si parte dal presupposto che esso sia costituito per il 16 per cento da benzina e per l’84 per cento da olio diesel. Il petrolio, il white spirit e i biocarburanti sono equiparati all’olio diesel.[^7-1]
+<sup>1</sup> Per calcolare il consumo secondo norma di un’azienda agricola si parte dal presupposto che esso sia costituito per il 10 per cento da benzina e per il 90 per cento da olio diesel. Il petrolio, il white spirit e i carburanti rinnovabili sono equiparati all’olio diesel.[^7-1]
 
-<sup>2</sup> Il consumo secondo norma è calcolato come segue: [(cifra di superficie + 0,5) × 130 litri × 0,16] + [(cifra di superficie + 0,5) × 100 litri × 0,84].
+<sup>2</sup> Il consumo secondo norma è calcolato come segue: [(cifra di superficie + 0,5) × 130 litri × 0,1] + [(cifra di superficie + 0,5) × 100 litri × 0,9].[^7-2]
 
 <sup>3</sup> Se la cifra di superficie è uguale o inferiore a 12, il consumo secondo norma è desumibile dall’allegato 2.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del DFF del 25 mag. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2683](https://fedlex.data.admin.ch/eli/oc/2016/428)).
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
+[^7-2]: Nuovo testo giusta la cifra I dell’O del DFF del 13 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 #### Art. 8
 
@@ -205,7 +148,7 @@ La restituzione è concessa per i seguenti lavori effettuati con macchine e veic
 
 <sup>2</sup> La restituzione è concessa in particolare per le macchine e i veicoli seguenti: escavatrici cingolate, escavatrici a ragno, trax, caricatrici pneumatiche, carrelli elevatori, autogru, tagliatrici-abbattitrici, strumenti per spaccare le pietre, seghe a filo, seghe alternative multiple, compressori, dumper, autocarri.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DFF del 18 set. 2019, in vigore dal 1° dic. 2019 ([RU 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
 
 ## Sezione 8: Altre restituzioni dell’imposta
 
@@ -223,13 +166,13 @@ La restituzione è concessa per i seguenti lavori effettuati con macchine e veic
 
 L’ordinanza del DFF del 28 novembre 1996[^12-1] sulle agevolazioni fiscali e l’interesse di mora per l’imposta sugli oli minerali è abrogata.
 
-[^12-1]: [[RU 1997 48](https://fedlex.data.admin.ch/eli/oc/1997/48_48_48), [2001 3383](https://fedlex.data.admin.ch/eli/oc/2001/507), [2002 3647](https://fedlex.data.admin.ch/eli/oc/2002/556), [2006 3929](https://fedlex.data.admin.ch/eli/oc/2006/589), **2007** 819 [2697](https://fedlex.data.admin.ch/eli/oc/2007/356), [2008 693](https://fedlex.data.admin.ch/eli/oc/2008/172),[2010 3211](https://fedlex.data.admin.ch/eli/oc/2010/429), [2011 5639](https://fedlex.data.admin.ch/eli/oc/2011/795)]
+[^12-1]: [[RU 1997 48](https://fedlex.data.admin.ch/eli/oc/1997/48_48_48); [2001 3383](https://fedlex.data.admin.ch/eli/oc/2001/507); [2002 3647](https://fedlex.data.admin.ch/eli/oc/2002/556); [2006 3929](https://fedlex.data.admin.ch/eli/oc/2006/589); **2007** 819, [2697](https://fedlex.data.admin.ch/eli/oc/2007/356); [2008 693](https://fedlex.data.admin.ch/eli/oc/2008/172);[2010 3211](https://fedlex.data.admin.ch/eli/oc/2010/429); [2011 5639](https://fedlex.data.admin.ch/eli/oc/2011/795)]
 
 #### Art. 13
 
 **Modifica di un altro atto normativo**
 
-…[^13-1]
+...[^13-1]
 
 [^13-1]: La mod. può essere consultata alla [RU 2013 4489](https://fedlex.data.admin.ch/eli/oc/2013/793).
 
@@ -243,13 +186,13 @@ Allegato 1[^t-1]
 
 ## Agevolazioni fiscali
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFF del 1° lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 3361](https://fedlex.data.admin.ch/eli/oc/2020/575)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O del DFF del 1° lug. 2020 ([RU 2020 3361](https://fedlex.data.admin.ch/eli/oc/2020/575)). Aggiornato dalla cifra II dell’O del DFF del 13 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 <table>
 <tr><th>Voce di tariffa[^annex1-lvlu1-1]</th><th>Designazione della merce</th><th colspan="2">Aliquota di favore</th><th>Impiego</th></tr>
 <tr><th></th><th></th><th>Imposta</th><th>Supplemento fiscale</th><th></th></tr>
 <tr><td></td><td></td><td>per 1000 l a 15 °C fr.</td><td>per 1000 l a 15 °C fr.</td><td></td></tr>
-<tr><td></td><td colspan="4">Gruppo 1: Trasporti pubblici</td></tr>
+<tr><td></td><td colspan="4">Gruppo 1: Imprese di trasporto concessionarie</td></tr>
 <tr><td>2707.</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1010</td><td>benzolo</td><td>154.–</td><td>0.00</td><td></td></tr>
 <tr><td>2010</td><td>toluolo</td><td>154.–</td><td>0.00</td><td></td></tr>
@@ -264,26 +207,10 @@ Allegato 1[^t-1]
 <tr><td>1211</td><td>benzina e sue frazioni</td><td>175.80</td><td>0.00</td><td></td></tr>
 <tr><td>1212</td><td>white spirit</td><td>161.50</td><td>0.00</td><td></td></tr>
 <tr><td>1219</td><td>oli di questa voce</td><td>172.80</td><td>0.00</td><td></td></tr>
-<tr><td>1911</td><td>petrolio:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli stradali:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 3</td><td>165.60</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 2</td><td>439.50</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli su rotaia o nei battelli</td><td>165.60</td><td>0.00</td><td></td></tr>
-<tr><td>1912</td><td>olio diesel:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli stradali:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 3</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 2</td><td>481.10</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli su rotaia o nei battelli</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td>1919</td><td>oli in questa voce:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli stradali:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 3</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 2</td><td>481.10</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli su rotaia o nei battelli</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td>2010</td><td>quota di oli minerali in miscele di questa voce e quota di biodiesel senza agevolazione fiscale</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli stradali:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 3</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 2</td><td>481.10</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli su rotaia o nei battelli</td><td>195.20</td><td>0.00</td><td></td></tr>
+<tr><td>1911</td><td>petrolio</td><td>165.60</td><td>0.00</td><td></td></tr>
+<tr><td>1912</td><td>olio diesel</td><td>195.20</td><td>0.00</td><td></td></tr>
+<tr><td>1919</td><td>oli di questa voce</td><td>195.20</td><td>0.00</td><td></td></tr>
+<tr><td>2010</td><td>quota di oli minerali in miscele di questa voce e quota di biodiesel senza agevolazione fiscale</td><td>195.20</td><td>0.00</td><td></td></tr>
 <tr><td></td><td></td><td>per 1000 kg fr.</td><td>per 1000 kg fr.</td><td></td></tr>
 <tr><td>2711.</td><td>gas di petrolio e altri idrocarburi gassosi:</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– liquefatti:</td><td></td><td></td><td></td></tr>
@@ -312,11 +239,7 @@ Allegato 1[^t-1]
 <tr><td>2905.</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1110</td><td>metanolo</td><td>59.90</td><td>0.00</td><td></td></tr>
 <tr><td>3826.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>0010</td><td>quota di oli minerali in miscele di questa voce e quota di biodiesel senza agevolazione fiscale</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli stradali:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 3</td><td>172.80</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – secondo l’articolo 2</td><td>458.70</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– impiegato nei veicoli su rotaia o nei battelli</td><td>172.80</td><td>0.00</td><td></td></tr>
+<tr><td>0010</td><td>quota di oli minerali in miscele di questa voce e quota di biodiesel senza agevolazione fiscale</td><td>172.80</td><td>0.00</td><td></td></tr>
 <tr><td></td><td colspan="4">Gruppo 2: Agricoltura, silvicoltura, estrazione della pietra da taglio naturale, pesca professionale</td></tr>
 <tr><td>2710.</td><td></td><td></td><td></td><td>Impiego per le voci 2710.1211–3826.0010: Per l’agricoltura, la silvicoltura, l’estrazione della pietra da taglio naturale e la pesca professionale</td></tr>
 <tr><td>1211</td><td>benzina e sue frazioni</td><td>175.80</td><td>0.00</td><td></td></tr>
@@ -483,4 +406,4 @@ Allegato 4[^t-2]
 
 (art. 4 cpv. 1)
 
-[^t-2]: Abrogato dal n. II cpv. 2 dell’O del DFF del 25 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2683](https://fedlex.data.admin.ch/eli/oc/2016/428)).
+[^t-2]: Abrogato dalla cifra II cpv. 2 dell’O del DFF del 25 mag. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2683](https://fedlex.data.admin.ch/eli/oc/2016/428)).

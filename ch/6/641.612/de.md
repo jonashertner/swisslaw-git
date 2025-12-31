@@ -3,18 +3,18 @@ sr: "641.612"
 title: Verordnung des EFD vom 22. November 2013 über die Steuerbegünstigungen bei der Mineralölsteuer
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/793"
 language: de
-version: 2021-01-01
+version: 2026-01-01
 adopted: 2013-11-22
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/793/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2013-793-20210101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/793/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/793/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2013-793-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/793/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EFD über die Steuerbegünstigungen bei der Mineralölsteuer
 
-vom 22. November 2013 (Stand am 1. Januar 2021)
+vom 22. November 2013 (Stand am 1. Januar 2026)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -31,77 +31,19 @@ verordnet:
 
 Die Steuerbegünstigungen werden nach dem Tarif in Anhang 1 gewährt.
 
-## 2. Abschnitt: Steuerrückerstattung an konzessionierte Transportunternehmungen
+## 2. Abschnitt: …
 
-#### Art. 2
+#### Art. 2 und 3
 
-**Rückerstattung für Fahrten mit Strassenfahrzeugen ohne Partikelfilter oder gleichwertiges System**[^2-1]
+[^23-1]
 
-Für Fahrten mit Strassenfahrzeugen ohne Partikelfilter oder gleichwertiges System hat die Transportunternehmung Anspruch auf die Rückerstattung des Mineralölsteuerzuschlags, wenn die Fahrten zum Zweck der Personenbeförderung mit einer Konzession des Bundesamtes für Verkehr (BAV) durchgeführt werden.
+[^23-1]: Aufgehoben durch Ziff. I der V des EFD vom 13. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
-[^2-1]: Fassung gemäss Ziff. I der V des EFD vom 18. Sept. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
+#### Art. 3a–3c
 
-#### Art. 3
+[^3a3c-1]
 
-**Rückerstattung für Fahrten mit Strassenfahrzeugen mit Partikelfilter oder gleichwertigem System und für bestimmte EURO‑IV-, EURO‑V- und EEV-Fahrzeuge[^3-1]**
-
-<sup>1</sup>
-
-Für Fahrten mit den folgenden Strassenfahrzeugen hat die Transportunternehmung Anspruch auf die Rückerstattung des Mineralölsteuerzuschlags und die teilweise Rückerstattung der Mineralölsteuer, wenn die Fahrten zum Zweck der Personenbeförderung mit einer Konzession des BAV durchgeführt werden:[^3-2]
-
-- a. Strassenfahrzeuge mit Partikelfilter oder gleichwertigem System;
-- b. EURO-IV-, EURO-V- und EEV-Fahrzeuge ohne Partikelfilter oder gleichwertiges System, die gemäss Fahrzeugausweis bis zum 31. Dezember 2007 erstmals zum Verkehr zugelassen wurden.
-
-<sup>2</sup> Als Strassenfahrzeuge mit Partikelfilter gelten Fahrzeuge mit Partikelfiltern, welche die in Anhang 4 Ziffer 32 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^3-3] festgelegten Kriterien erfüllen.
-
-<sup>3</sup>
-
-Als Strassenfahrzeuge mit einem dem Partikelfilter gleichwertigen System gelten Fahrzeuge, die:
-
-- a. im Bus-Zyklus (z. B. Braunschweig-Zyklus gemäss Technischer Universität Graz) eine Partikelmasse von weniger als 0,05 g/km und eine Partikelanzahl von weniger als 10<sup>13</sup>/km aufweisen;
-- b. im Typenprüfzyklus gemäss Richtlinie 88/77/EWG[^3-4] eine Partikelmasse von weniger als 0,01 g/kWh und eine Partikelanzahl von weniger als 5\*10<sup>12</sup>/kWh aufweisen; oder
-- c. die Emissionsgrenzwerte der EURO-Stufe VI gemäss der Verordnung (EU) Nr. 582/2011[^3-5] einhalten.
-
-<sup>4</sup> Dem Rückerstattungsantrag ist ein entsprechender Nachweis beizulegen. Dieser kann analog zum Nachweis über die Einhaltung der Abgasvorschriften nach den Weisungen des Bundesamts für Strassen vom 17. September 2010[^3-6] über die Befreiung von der Typengenehmigung erbracht werden.
-
-[^3-1]: Fassung gemäss Ziff. I der V des EFD vom 18. Sept. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3-2]: Fassung gemäss Ziff. I der V des EFD vom 18. Sept. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3-3]: [SR 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
-[^3-4]: Richtlinie 88/77/EWG Richtlinie des Rates vom 3. Dez. 1987 zur Angleichung der Rechtsvorschriften über Massnahmen gegen die Emissionen gasförmiger Schadstoffe aus Dieselmotoren zum Antrieb von Fahrzeugen, ABl. L 36 vom 9.2.1988, S. 33; zuletzt geändert durch die Richtlinie 2001/27/EG, ABl. L 107 vom 18.4.2001, S. 15 sowie Richtlinie 2005/55/EG des europäischen Parlamentes und Rates vom 28. Sept. 2005 zur Anglei-chung der Rechtvorschriften der Mitgliedstaaten über Massnahmen gegen die Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission gasförmiger Schadstoffe aus mit Flüssiggas oder Erdgas betriebenen Fremdzündungsmotoren zum Antrieb von Fahrzeugen, ABl. L 275 vom 20.10.2005, S. 1; zuletzt geändert durch die Richtlinie 2008/74/EG, ABl. L 192 vom 19.7.2008, S. 51.
-[^3-5]: Verordnung (EU) Nr. 582/2011 der Kommission vom 25. Mai 2011 zur Durchführung und Änderung der Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro VI) und zur Änderung der Anhänge I und III der Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates, ABl. L 167 vom 25.6.2011, S. 1; zuletzt geändert durch Verordnung (EU) Nr. 64/2012 der Kommission vom 23. Jan. 2012, ABl. L 28 vom 31.1.2012, S. 1.
-[^3-6]: Die Weisungen können beim Bundesamt für Strassen unter www.astra.admin.ch &gt; Dokumentation &gt; Gesetzgebung &gt; Downloads &gt; Dokumente zum herunterladen betr. Strassenverkehr &gt; Weisungen abgerufen und bezogen werden.
-
-#### Art. 3a
-
-**Rückerstattung für Fahrten mit Schienenfahrzeugen**[^3a-1]
-
-Für Fahrten mit Schienenfahrzeugen hat die Transportunternehmung Anspruch auf die Rückerstattung des Mineralölsteuerzuschlags und die teilweise Rückerstattung der Mineralölsteuer, wenn die Fahrten zum Zweck der Personenbeförderung mit einer Konzession des BAV durchgeführt werden.
-
-[^3a-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Sept. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-
-#### Art. 3b
-
-**Rückerstattung für Fahrten mit Schiffen**[^3b-1]
-
-<sup>1</sup>
-
-Für Fahrten mit Schiffen hat die Transportunternehmung Anspruch auf die Rückerstattung des Mineralölsteuerzuschlags und die teilweise Rückerstattung der Mineralölsteuer, wenn die Fahrten:
-
-- a. zum Zweck der Personenbeförderung mit einer Konzession des BAV durchgeführt werden; oder
-- b. zum Zweck der grenzüberschreitenden Personenbeförderung mit einer eidgenössischen Bewilligung durchgeführt werden, sofern nach Artikel 28 des Personenbeförderungsgesetzes vom 20. März 2009[^3b-2] eine Abgeltung der ungedeckten Kosten erfolgt.
-
-<sup>2</sup> Auf Grenzgewässern besteht der Anspruch auf Rückerstattung nach Absatz 1 auch für Fahrten auf Linienabschnitten ausserhalb des schweizerischen Staatsgebiets, wenn mindestens eine der Anlegestellen der Linie auf schweizerischem Staatsgebiet liegt.
-
-[^3b-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Sept. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3b-2]: [SR 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
-
-#### Art. 3c
-
-**Rückerstattung für Ersatz-, Verstärkungs- und Leerfahrten**[^3c-1]
-
-Der Anspruch auf Rückerstattung nach den Artikeln 2–3*b* gilt auch für Ersatz- und Verstärkungsfahrten sowie für durch den Kursbetrieb bedingte Leerfahrten.
-
-[^3c-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Sept. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
+[^3a3c-1]: Eingefügt durch Ziff. I der V des EFD vom 18. Sept. 2019 ([AS 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)). Aufgehoben durch Ziff. I der V des EFD vom 13. Nov. 2025, mit Wirkung seit 1. Jan. 2026 ([AS 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 ## 3. Abschnitt: …
 
@@ -126,13 +68,14 @@ Die Steuer wird rückerstattet auf:
 
 **Berechnung des Normverbrauchs**
 
-<sup>1</sup> Für die Berechnung des Normverbrauchs eines landwirtschaftlichen Betriebes wird davon ausgegangen, dass dieser zu 16 Prozent aus Benzin und zu 84 Prozent aus Dieselöl besteht. Petrol, White Spirit und biogene Treibstoffe sind dem Dieselöl gleichgestellt.[^7-1]
+<sup>1</sup> Für die Berechnung des Normverbrauchs eines landwirtschaftlichen Betriebes wird davon ausgegangen, dass dieser zu 10 Prozent aus Benzin und zu 90 Prozent aus Dieselöl besteht. Petrol, White Spirit und erneuerbare Treibstoffe sind dem Dieselöl gleichgestellt.[^7-1]
 
-<sup>2</sup> Der Normverbrauch berechnet sich wie folgt: [(Flächenziffer + 0,5) × 130 Liter × 0,16] + [(Flächenziffer + 0,5) × 100 Liter × 0,84].
+<sup>2</sup> Der Normverbrauch berechnet sich wie folgt: [(Flächenziffer + 0,5) × 130 Liter × 0,1] + [(Flächenziffer + 0,5) × 100 Liter × 0,9].[^7-2]
 
 <sup>3</sup> Beträgt die Flächenziffer 12 oder weniger, so ergibt sich der Normverbrauch aus Anhang 2.
 
-[^7-1]: Fassung gemäss Ziff. I der V des EFD vom 25. Mai 2016, in Kraft seit 1. Aug. 2016 ([AS 2016 2683](https://fedlex.data.admin.ch/eli/oc/2016/428)).
+[^7-1]: Fassung gemäss Ziff. I der V des EFD vom 13. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
+[^7-2]: Fassung gemäss Ziff. I der V des EFD vom 13. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 #### Art. 8
 
@@ -223,7 +166,7 @@ Die Rückerstattung wird für die folgenden mit Maschinen und Fahrzeugen nach Ab
 
 Die Verordnung des EFD vom 28. November 1996[^12-1] über die Steuerbegünstigungen und den Verzugszins bei der Mineralölsteuer wird aufgehoben.
 
-[^12-1]: [[AS 1997 48](https://fedlex.data.admin.ch/eli/oc/1997/48_48_48), [2001 3383](https://fedlex.data.admin.ch/eli/oc/2001/507), [2002 3647](https://fedlex.data.admin.ch/eli/oc/2002/556), [2006 3929](https://fedlex.data.admin.ch/eli/oc/2006/589), [2007 1819](https://fedlex.data.admin.ch/eli/oc/2007/265)[2697](https://fedlex.data.admin.ch/eli/oc/2007/356), [2008 693](https://fedlex.data.admin.ch/eli/oc/2008/172), [2010 3211](https://fedlex.data.admin.ch/eli/oc/2010/429), [2011 5639](https://fedlex.data.admin.ch/eli/oc/2011/795)]
+[^12-1]: [[AS 1997 48](https://fedlex.data.admin.ch/eli/oc/1997/48_48_48); [2001 3383](https://fedlex.data.admin.ch/eli/oc/2001/507); [2002 3647](https://fedlex.data.admin.ch/eli/oc/2002/556); [2006 3929](https://fedlex.data.admin.ch/eli/oc/2006/589); [2007 1819](https://fedlex.data.admin.ch/eli/oc/2007/265), [2697](https://fedlex.data.admin.ch/eli/oc/2007/356); [2008 693](https://fedlex.data.admin.ch/eli/oc/2008/172); [2010 3211](https://fedlex.data.admin.ch/eli/oc/2010/429); [2011 5639](https://fedlex.data.admin.ch/eli/oc/2011/795)]
 
 #### Art. 13
 
@@ -243,47 +186,31 @@ Anhang 1[^t-1]
 
 ## Steuerbegünstigungen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 1. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 3361](https://fedlex.data.admin.ch/eli/oc/2020/575)).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 1. Juli 2020 ([AS 2020 3361](https://fedlex.data.admin.ch/eli/oc/2020/575)). Bereinigt gemäss Ziff. II der V des EFD vom 13. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 <table>
-<tr><th>Zolltarifnummer[^annex1-lvlu1-1]</th><th>Warenbezeichnung</th><th colspan="3">Ermässigter Steuersatz</th><th colspan="2">Verwendung</th></tr>
-<tr><th></th><th></th><th colspan="2">Steuer</th><th>Steuerzuschlag</th><th colspan="2"></th></tr>
-<tr><td></td><td></td><td colspan="2">je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="6">Gruppe 1: öffentlicher Verkehr</td></tr>
-<tr><td>2707.</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>1010</td><td>Benzol</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>2010</td><td>Toluol</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>3010</td><td>Xylol</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>4010</td><td>Naphthalin</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>5010</td><td>andere aromatische Kohlenwasserstoffmischungen</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>9110</td><td>Kreosotöle</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>9910</td><td>andere Erzeugnisse der Nr. 2707</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>2709.</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>0010</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh</td><td colspan="2">154.–</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>2710.</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td>1211</td><td>Benzin und seine Fraktionen</td><td colspan="2">175.80</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>1212</td><td>White Spirit</td><td colspan="2">161.50</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>1219</td><td>Öle dieser Nummer</td><td colspan="2">172.80</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>1911</td><td>Petroleum:</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>– in Strassenfahrzeugen verbraucht:</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>– – nach Artikel 3</td><td colspan="2">165.60</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td></td><td>– – nach Artikel 2</td><td colspan="2">439.50</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td></td><td>– in Schienenfahrzeugen oder Schiffen verbraucht</td><td colspan="2">165.60</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>1912</td><td>Dieselöl:</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>– in Strassenfahrzeugen verbraucht:</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>– – nach Artikel 3</td><td colspan="2">195.20</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td></td><td>– – nach Artikel 2</td><td colspan="2">481.10</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td></td><td>– in Schienenfahrzeugen oder Schiffen verbraucht</td><td colspan="2">195.20</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>1919</td><td>Öle dieser Nummer:</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>– in Strassenfahrzeugen verbraucht:</td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
-<tr><td></td><td>– – nach Artikel 3</td><td colspan="2">195.20</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td></td><td>– – nach Artikel 2</td><td colspan="2">481.10</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td></td><td>– in Schienenahrzeugen oder Schiffen verbraucht</td><td colspan="2">195.20</td><td>0.00</td><td colspan="2"></td></tr>
-<tr><td>2010</td><td>Mineralölanteil in Mischungen dieser Nummer sowie Biodieselanteil ohne Steuererleichterung</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– in Strassenfahrzeugen verbraucht:</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– – nach Artikel 3</td><td colspan="2">195.20</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – nach Artikel 2</td><td colspan="2">481.10</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– in Schienenahrzeugen oder Schiffen verbraucht</td><td colspan="2">195.20</td><td>0.00</td><td></td></tr>
+<tr><th>Zolltarifnummer[^annex1-lvlu1-1]</th><th>Warenbezeichnung</th><th colspan="3">Ermässigter Steuersatz</th><th>Verwendung</th></tr>
+<tr><th></th><th></th><th colspan="2">Steuer</th><th>Steuerzuschlag</th><th></th></tr>
+<tr><td></td><td></td><td colspan="2">je 1000 l bei 15 °C Fr.</td><td>je 1000 l bei 15 °C Fr.</td><td></td></tr>
+<tr><td></td><td colspan="5">Gruppe 1: konzessionierte Transportunternehmungen</td></tr>
+<tr><td>2707.</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>1010</td><td>Benzol</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>2010</td><td>Toluol</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>3010</td><td>Xylol</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>4010</td><td>Naphthalin</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>5010</td><td>andere aromatische Kohlenwasserstoffmischungen</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>9110</td><td>Kreosotöle</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>9910</td><td>andere Erzeugnisse der Nr. 2707</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>2709.</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>0010</td><td>Erdöle oder Öle aus bituminösen Mineralien, roh</td><td colspan="2">154.–</td><td>0.00</td><td></td></tr>
+<tr><td>2710.</td><td></td><td colspan="2"></td><td></td><td></td></tr>
+<tr><td>1211</td><td>Benzin und seine Fraktionen</td><td colspan="2">175.80</td><td>0.00</td><td></td></tr>
+<tr><td>1212</td><td>White Spirit</td><td colspan="2">161.50</td><td>0.00</td><td></td></tr>
+<tr><td>1219</td><td>Öle dieser Nummer</td><td colspan="2">172.80</td><td>0.00</td><td></td></tr>
+<tr><td>1911</td><td>Petroleum</td><td colspan="2">165.60</td><td>0.00</td><td></td></tr>
+<tr><td>1912</td><td>Dieselöl</td><td colspan="2">195.20</td><td>0.00</td><td></td></tr>
+<tr><td>1919</td><td>Öle dieser Nummer:</td><td colspan="2">195.20</td><td>0.00</td><td></td></tr>
+<tr><td>2010</td><td>Mineralölanteil in Mischungen dieser Nummer sowie Biodieselanteil ohne Steuererleichterung</td><td colspan="2">195.20</td><td>0.00</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">je 1000 kg Fr.</td><td>je 1000 kg Fr.</td><td></td></tr>
 <tr><td>2711.</td><td>Erdgas und andere gasförmige Kohlenwasserstoffe:</td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td></td><td>– verflüssigt:</td><td colspan="2"></td><td></td><td></td></tr>
@@ -312,11 +239,7 @@ Anhang 1[^t-1]
 <tr><td>2905.</td><td></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>1110</td><td>Methanol</td><td colspan="2">59.90</td><td>0.00</td><td></td></tr>
 <tr><td>3826.</td><td></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td>0010</td><td>Mineralölanteil in Mischungen dieser Nummer sowie Biodieselanteil ohne Steuererleichterung</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– in Strassenfahrzeugen verbraucht:</td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td></td><td>– – nach Artikel 3</td><td colspan="2">172.80</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – nach Artikel 2</td><td colspan="2">458.70</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– in Schienenfahrzeugen oder Schiffen verbraucht</td><td colspan="2">172.80</td><td>0.00</td><td></td></tr>
+<tr><td>0010</td><td>Mineralölanteil in Mischungen dieser Nummer sowie Biodieselanteil ohne Steuererleichterung</td><td colspan="2">172.80</td><td>0.00</td><td></td></tr>
 <tr><td></td><td colspan="5">Gruppe 2: Landwirtschaft, Forstwirtschaft, Naturwerkstein-Abbau, Berufsfischerei</td></tr>
 <tr><td>2710.</td><td></td><td colspan="2"></td><td></td><td>Verwendung für die Tarifnummern 2710.1211–3826.0010: Für die Land- und Forstwirtschaft, den Naturwerkstein-Abbau sowie die Berufsfischerei</td></tr>
 <tr><td>1211</td><td>Benzin und seine Fraktionen</td><td colspan="2">175.80</td><td>0.00</td><td></td></tr>

@@ -3,18 +3,18 @@ sr: "641.612"
 title: "Ordonnance du DFF du 22 novembre 2013 sur les allégements fiscaux pour l'impôt sur les huiles minérales"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/793"
 language: fr
-version: 2021-01-01
+version: 2026-01-01
 adopted: 2013-11-22
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/793/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-793-20210101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/793/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/793/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-793-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/793/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFF sur les allégements fiscaux pour l’impôt sur les huiles minérales
 
-du 22 novembre 2013 (État le 1<sup>er</sup> janvier 2021)
+du 22 novembre 2013 (État le 1<sup>er</sup> janvier 2026)
 
 Le Département fédéral des finances (DFF),
 
@@ -31,77 +31,19 @@ arrête:
 
 Les allégements fiscaux sont accordés selon le tarif figurant à l’annexe 1.
 
-## Section 2 Remboursement de l’impôt aux entreprises de transport concessionnaires
+## Section 2 …
 
-#### Art. 2
+#### Art. 2 et 3
 
-**Remboursement pour les transports de personnes effectués avec des véhicules routiers sans filtre à particules ni système équivalent**[^2-1]
+[^23-1]
 
-Pour les transports de personnes effectués au titre d’une concession de l’Office fédéral des transports (OFT) avec des véhicules routiers sans filtre à particules ni système équivalent, l’entreprise de transport a droit au remboursement de la surtaxe sur les huiles minérales.
+[^23-1]: Abrogés par le ch. I de l’O du DFF du 13 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
-[^2-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 sept. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
+#### Art. 3a à 3c
 
-#### Art. 3
+[^3a3c-1]
 
-**Remboursement pour les transports de personnes effectués avec des véhicules routiers avec filtre à particules ou système équivalent et certains véhicules répondant aux normes EURO IV, EURO V et EEV[^3-1]**
-
-<sup>1</sup>
-
-Pour les transports de personnes effectués au titre d’une concession de l’OFT avec les véhicules suivants, l’entreprise de transport a droit au remboursement de la surtaxe sur les huiles minérales et au remboursement partiel de l’impôt sur les huiles minérales:[^3-2]
-
-- a. véhicules routiers avec filtre à particules ou système équivalent;
-- b. véhicules répondant aux normes EURO IV, EURO V et EEV sans filtre à particules ni système équivalent qui, selon le permis de circulation, ont été admis pour la première fois à la circulation au plus tard le 31 décembre 2007.
-
-<sup>2</sup> Sont réputés véhicules routiers avec filtre à particules les véhicules équipés d’un filtre à particules remplissant les critères fixés à l’annexe 4, ch. 32, de l’ordonnance du 16 décembre 1985 sur la protection de l’air[^3-3].
-
-<sup>3</sup>
-
-Sont réputés véhicules routiers avec système équivalent à un filtre à particules les véhicules qui:
-
-- a. présentent une masse de particules inférieure à 0,05 g/km et un nombre de particules inférieur à 10<sup>13</sup>/km en cycle de bus (p. ex. dans le cycle de Braunschweig défini par l’Université technique de Graz);
-- b. présentent une masse de particules inférieure à 0,01 g/kWh et un nombre de particules inférieur à 5\*10<sup>12</sup>/kWh dans le cycle d’expertise du type défini dans la directive 88/77/CE[^3-4], ou
-- c. respectent les valeurs limites d’émissions énoncées pour la norme EURO VI dans le règlement (UE) n<sup>o</sup> 582/2011[^3-5].
-
-<sup>4</sup> Une preuve appropriée doit être jointe à la demande de remboursement. Cette preuve peut être fournie d’une manière analogue à la preuve de l’observation des prescriptions relatives aux gaz d’échappement telle qu’elle est définie dans les instructions de l’Office fédéral des routes du 17 septembre 2010 sur la dispense de la réception par type[^3-6].
-
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 sept. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 18 sept. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3-3]: [RS 814.318.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9521)
-[^3-4]: Directive 88/77/CE du Conseil du 3 décembre 1987 concernant le rapprochement des législations des États membres relatives aux mesures à prendre contre les émissions de gaz polluants provenant des moteurs Diesel destinés à la propulsion des véhicules, JO L 36 du 9.2.1988, p. 33; modifiée en dernier lieu par la directive 2001/27/CE, JO L 107 du 18.4.2001, p. 15, ainsi que par la directive 2005/55/CE du Parlement européen et du Conseil du 28 septembre 2005 concernant le rapprochement des législations des États membres relatives aux mesures à prendre contre les émissions de gaz polluants et de particules polluantes provenant des moteurs à allumage par compression destinés à la propulsion des véhicules et les émissions de gaz polluants provenant des moteurs à allumage commandé fonctionnant au gaz naturel ou au gaz de pétrole liquéfié et destinés à la propulsion des véhicules, JO L 275 du 20.10.2005, p. 1; modifiée en dernier lieu par la directive 2008/74/CE, JO L 192 du 19.7.2008, p. 51.
-[^3-5]: Règlement (UE) n<sup>o</sup> 582/2011 de la Commission du 25 mai 2011 portant modalités d’application et modification du règlement (CE) n<sup>o</sup> 595/2009 du Parlement européen et du Conseil au regard des émissions des véhicules utilitaires lourds (EURO VI) et modifiant les annexes I et III de la directive 2007/46/CE du Parlement européen et du Conseil, JO L 167 du 25.6.2011, p. 1; modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 64/2012 de la Commission du 23 janvier 2012, JO L 28 du 31.1.2012, p. 1.
-[^3-6]: Les instructions peuvent être consultées et téléchargées sur le site de l’Office fédéral des routes à l’adresse www.astra.admin.ch &gt; Documentation &gt; Législation &gt; Documents à télécharger &gt; Documents à télécharger concernant la circulation routière &gt; Instructions.
-
-#### Art. 3a
-
-**Remboursement pour les transports de personnes effectués avec des véhicules ferroviaires**[^3a-1]
-
-Pour les transports de personnes effectués au titre d’une concession de l’OFT avec des véhicules ferroviaires, l’entreprise de transport a droit au remboursement de la surtaxe sur les huiles minérales et au remboursement partiel de l’impôt sur les huiles minérales.
-
-[^3a-1]: Introduit par le ch. I de l’O du DFF du 18 sept. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-
-#### Art. 3b
-
-**Remboursement pour les transports de personnes effectués avec des bateaux**[^3b-1]
-
-<sup>1</sup>
-
-Pour les transports de personnes effectués avec des bateaux, l’entreprise de transport a droit au remboursement de la surtaxe sur les huiles minérales et au remboursement partiel de l’impôt sur les huiles minérales:
-
-- a. si les transports sont exécutés au titre d’une concession de l’OFT;
-- b. si les transports sont transfrontaliers, qu’ils sont exécutés au titre d’une autorisation fédérale et que les coûts non couverts sont indemnisés en vertu de l’art. 28 de la loi du 20 mars 2009 sur le transport des voyageurs[^3b-2].
-
-<sup>2</sup> Sur les eaux frontières, les transports de personnes sur des sections de ligne en dehors du territoire suisse donnent également droit à un remboursement si au moins un des pontons de la ligne est situé sur le territoire suisse.
-
-[^3b-1]: Introduit par le ch. I de l’O du DFF du 18 sept. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
-[^3b-2]: [RS 745.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8886)
-
-#### Art. 3c
-
-**Remboursement pour les courses de remplacement, les courses de renfort et les courses à vide**[^3c-1]
-
-Les courses de remplacement, les courses de renfort et les courses à vide nécessitées par les besoins de service donnent également droit au remboursement prévu aux art. 2 à 3*b*.
-
-[^3c-1]: Introduit par le ch. I de l’O du DFF du 18 sept. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)).
+[^3a3c-1]: Introduits par le ch. I de l’O du DFF du 18 sept. 2019 ([RO 2019 3069](https://fedlex.data.admin.ch/eli/oc/2019/558)). Abrogés par le ch. I de l’O du DFF du 13 nov. 2025, avec effet au 1<sup>er</sup> janv. 2026 ([RO 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 ## Section 3 …
 
@@ -126,13 +68,14 @@ L’impôt est remboursé sur:
 
 **Calcul de la consommation selon les normes**
 
-<sup>1</sup> Pour le calcul de la consommation selon les normes d’une exploitation agricole, on admet que celle-ci est constituée de 16 % d’essence et de 84 % d’huile diesel. Le pétrole, le white spirit et les biocarburants sont assimilés à l’huile diesel.[^7-1]
+<sup>1</sup> Pour le calcul de la consommation selon les normes d’une exploitation agricole, on admet que celle-ci est constituée de 10 % d’essence et de 90 % d’huile diesel. Le pétrole, le white spirit et les carburants renouvelables sont assimilés à l’huile diesel.[^7-1]
 
-<sup>2</sup> La consommation selon les normes se calcule comme suit: [(chiffre de superficie + 0,5) × 130 litres × 0,16] + [(chiffre de superficie + 0,5) × 100 litres × 0,84].
+<sup>2</sup> La consommation selon les normes se calcule comme suit: [(chiffre de superficie + 0,5) × 130 litres × 0,1] + [(chiffre de superficie + 0,5) × 100 litres × 0,9].[^7-2]
 
 <sup>3</sup> Si le chiffre de superficie est inférieur ou égal à 12, la consommation selon les normes est fixée à l’annexe 2.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 25 mai 2016, en vigueur depuis le 1<sup>er</sup> août 2016 ([RO 2016 2683](https://fedlex.data.admin.ch/eli/oc/2016/428)).
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 13 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 13 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 #### Art. 8
 
@@ -223,7 +166,7 @@ Le remboursement est accordé pour les travaux suivants effectués avec les mach
 
 L’ordonnance du DFF du 28 novembre 1996 sur les allégements fiscaux et l’intérêt de retard pour l’impôt sur les huiles minérales[^12-1] est abrogée.
 
-[^12-1]: <sup>[</sup>[RO 1997 48](https://fedlex.data.admin.ch/eli/oc/1997/48_48_48), [2001 3383](https://fedlex.data.admin.ch/eli/oc/2001/507), [2002 3647](https://fedlex.data.admin.ch/eli/oc/2002/556), [2006 3929](https://fedlex.data.admin.ch/eli/oc/2006/589), [2007 1819](https://fedlex.data.admin.ch/eli/oc/2007/265)[2697](https://fedlex.data.admin.ch/eli/oc/2007/356), [2008 693](https://fedlex.data.admin.ch/eli/oc/2008/172), [2010 3211](https://fedlex.data.admin.ch/eli/oc/2010/429), [2011 5639](https://fedlex.data.admin.ch/eli/oc/2011/795)]
+[^12-1]: <sup>[</sup>[RO 1997 48](https://fedlex.data.admin.ch/eli/oc/1997/48_48_48); [2001 3383](https://fedlex.data.admin.ch/eli/oc/2001/507); [2002 3647](https://fedlex.data.admin.ch/eli/oc/2002/556); [2006 3929](https://fedlex.data.admin.ch/eli/oc/2006/589); [2007 1819](https://fedlex.data.admin.ch/eli/oc/2007/265), [2697](https://fedlex.data.admin.ch/eli/oc/2007/356); [2008 693](https://fedlex.data.admin.ch/eli/oc/2008/172); [2010 3211](https://fedlex.data.admin.ch/eli/oc/2010/429); [2011 5639](https://fedlex.data.admin.ch/eli/oc/2011/795)]
 
 #### Art. 13
 
@@ -243,13 +186,13 @@ Annexe 1[^t-1]
 
 ## Allégements fiscaux
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 1<sup>er</sup> juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 3361](https://fedlex.data.admin.ch/eli/oc/2020/575)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 1<sup>er</sup> juil. 2020 ([RO 2020 3361](https://fedlex.data.admin.ch/eli/oc/2020/575)). Mise à jour par le ch. II de l’O du DFF du 13 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 753](https://fedlex.data.admin.ch/eli/oc/2025/753)).
 
 <table>
 <tr><th>N<sup>o</sup> du tarif des douanes[^annex1-lvlu1-1]</th><th>Désignation de la marchandise</th><th colspan="2">Taux de faveur</th><th>Emploi</th></tr>
 <tr><th></th><th></th><th>Impôt</th><th>Surtaxe</th><th></th></tr>
 <tr><td></td><td></td><td>par 1000 l à 15 °C Fr.</td><td>par 1000 l à 15 °C Fr.</td><td></td></tr>
-<tr><td></td><td colspan="4">Groupe 1: transports publics</td></tr>
+<tr><td></td><td colspan="4">Groupe 1: entreprises de transport concessionnaires</td></tr>
 <tr><td>2707.</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1010</td><td>benzol</td><td>154.–</td><td>0.00</td><td></td></tr>
 <tr><td>2010</td><td>toluol</td><td>154.–</td><td>0.00</td><td></td></tr>
@@ -264,26 +207,10 @@ Annexe 1[^t-1]
 <tr><td>1211</td><td>essence et ses fractions</td><td>175.80</td><td>0.00</td><td></td></tr>
 <tr><td>1212</td><td>white spirit</td><td>161.50</td><td>0.00</td><td></td></tr>
 <tr><td>1219</td><td>huiles de ce numéro</td><td>172.80</td><td>0.00</td><td></td></tr>
-<tr><td>1911</td><td>pétrole:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– utilisé dans des véhicules routiers:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 3</td><td>165.60</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 2</td><td>439.50</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– utilisé dans des véhicules ferroviaires ou des bateaux</td><td>165.60</td><td>0.00</td><td></td></tr>
-<tr><td>1912</td><td>huile diesel:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– utilisée dans des véhicules routiers:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 3</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 2</td><td>481.10</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– utilisée dans des véhicules ferroviaires ou des bateaux</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td>1919</td><td>huiles de ce numéro:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– utilisées dans des véhicules routiers:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 3</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 2</td><td>481.10</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– utilisées dans des véhicules ferroviaires ou des bateaux</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td>2010</td><td>part d’huile minérale dans des mélanges de ce numéro et part de biodiesel sans allégement fiscal</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– utilisées dans des véhicules routiers:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 3</td><td>195.20</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 2</td><td>481.10</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– utilisées dans des véhicules ferroviaires ou des bateaux</td><td>195.20</td><td>0.00</td><td></td></tr>
+<tr><td>1911</td><td>pétrole</td><td>165.60</td><td></td><td></td></tr>
+<tr><td>1912</td><td>huile diesel</td><td>195.20</td><td></td><td></td></tr>
+<tr><td>1919</td><td>huiles de ce numéro</td><td>195.20</td><td></td><td></td></tr>
+<tr><td>2010</td><td>part d’huile minérale dans des mélanges de ce numéro et part de biodiesel sans allégement fiscal</td><td>195.20</td><td></td><td></td></tr>
 <tr><td></td><td></td><td>par 1000 kg Fr.</td><td>par 1000 kg Fr.</td><td></td></tr>
 <tr><td>2711.</td><td>gaz naturel et autres hydrocarbures gazeux:</td><td></td><td></td><td></td></tr>
 <tr><td></td><td>– liquéfiés:</td><td></td><td></td><td></td></tr>
@@ -312,11 +239,7 @@ Annexe 1[^t-1]
 <tr><td>2905.</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>1110</td><td>méthanol</td><td>59.90</td><td>0.00</td><td></td></tr>
 <tr><td>3826.</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>0010</td><td>part d’huile minérale dans des mélanges de ce numéro et part de biodiesel sans allégement fiscal</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– utilisées dans des véhicules routiers:</td><td></td><td></td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 3</td><td>172.80</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– – au sens de l’art. 2</td><td>458.70</td><td>0.00</td><td></td></tr>
-<tr><td></td><td>– utilisées dans des véhicules ferroviaires ou des bateaux</td><td>172.80</td><td>0.00</td><td></td></tr>
+<tr><td>0010</td><td>part d’huile minérale dans des mélanges de ce numéro et part de biodiesel sans allégement fiscal</td><td>172.80</td><td>0.00</td><td></td></tr>
 <tr><td></td><td colspan="4">Groupe 2: agriculture, sylviculture, extraction de pierre de taille naturelle, pêche professionnelle</td></tr>
 <tr><td>2710.</td><td></td><td></td><td></td><td>Emploi pour les numéros du tarif douanier 2710.1211–3826.0010: Pour l’agriculture, la sylviculture, l’extraction de pierre de taille naturelle et la pêche professionnelle</td></tr>
 <tr><td>1211</td><td>essence et ses fractions</td><td>175.80</td><td>0.00</td><td></td></tr>
