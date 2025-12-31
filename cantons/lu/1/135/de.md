@@ -4,13 +4,12 @@ number: "135"
 title: Reglement der Luzerner Pensionskasse
 short: LUPK-Reglement
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-13
+version: 2026-01-01
+version_adopted: 2026-01-28
 adopted: 2013-12-12
 in_force: 2014-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/135"
-pdf: "https://srl.lu.ch/api/de/versions/4164/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4785/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4164/pdf_file"
 
 (LUPK-Reglement)
 
-vom 12.12.2013 (Stand 01.01.2024)
+vom 12.12.2013 (Stand 01.01.2026)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -893,7 +892,7 @@ Die Umwandlungssätze für die Schattenrechnung entsprechen beim Rücktritt im R
 
 <sup>1</sup> Die Versammlung der Versicherten hat folgende Aufgaben:
 
-- a. Wahl von sechs Vorstandsmitgliedern als Arbeitnehmervertretung, vorbehältlich einer stillen Wahl gemäss Wahlreglement,
+- a. …
 - b. Stellungnahmen zu Änderungen dieses Reglements, welche wesentliche Auswirkungen auf die Rechte und Pflichten der Versicherten haben,
 - c. Antragstellung zuhanden des Vorstandes.
 
@@ -901,7 +900,7 @@ Die Umwandlungssätze für die Schattenrechnung entsprechen beim Rücktritt im R
 
 **Versammlung der Versicherten**
 
-<sup>1</sup> Die Versammlung der Versicherten wird einberufen für Wahlen und bei Änderungen des Reglements gemäss Art. 59b.
+<sup>1</sup> Die Versammlung der Versicherten wird einberufen bei Änderungen des Reglements gemäss Art. 59a.
 
 <sup>2</sup> Die Versammlung der Versicherten findet auf Beschluss des Vorstandes oder auf Verlangen von 5 Prozent der Versicherten statt.
 
@@ -913,7 +912,7 @@ Die Umwandlungssätze für die Schattenrechnung entsprechen beim Rücktritt im R
 
 <sup>2</sup> Die Präsidentin oder der Präsident des Vorstandes leitet in der Regel die Versammlung.
 
-<sup>3</sup> Beschlüsse bedürfen des absoluten Mehrs der Stimmen. Bei Wahlen gemäss Art. 55.2 gelten die Bestimmungen des Wahlreglements.
+<sup>3</sup> Beschlüsse bedürfen des absoluten Mehrs der Stimmen.
 
 ### 4.4 Organisationsrechtliche Stellung, Aufsicht, Kontrolle
 
