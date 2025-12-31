@@ -4,11 +4,11 @@ title: "Ordinanza del 31 ottobre 1947 sull'assicurazione per la vecchiaia e per 
 short: OAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20250101/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20250101-it-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20260101/it/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20250101/it"
 
 (OAVS)[^t-1]
 
-del 31 ottobre 1947 (Stato 1° gennaio 2025)
+del 31 ottobre 1947 (Stato 1° gennaio 2026)
 
-[^t-1]: Nuovo tit. giusta la cifra I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i tit. marg. sono stati accentrati.
+[^t-1]: Nuovo tit. giusta la cifra I n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Secondo la medesima disp. i tit. marg. sono stati accentrati.
 
 Il Consiglio federale svizzero,
 
@@ -347,7 +347,7 @@ Il salario determinante per il calcolo dei contributi comprende in particolare:[
 - q.[^7-12] le prestazioni del datore di lavoro al termine del rapporto di lavoro, per quanto non siano escluse dal salario determinante conformemente agli articoli 8<sup>bis</sup> o 8<sup>ter</sup>. Le rendite sono convertite in capitale. L’UFAS[^7-13] allestisce a tal fine tavole vincolanti.
 
 [^7-1]: Nuovo testo giusta la cifra I dell’O del 26 set. 2008, in vigore dal 1° gen. 2009 ([RU 2008 4711](https://fedlex.data.admin.ch/eli/oc/2008/658)).
-[^7-2]: Nuovo testo giusta la cifra I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
+[^7-2]: Nuovo testo giusta la cifra I n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 [^7-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 [^7-4]: Introdotto dalla cifra I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 [^7-5]: Nuovo testo giusta la cifra I dell’O del 18 ott. 1974, in vigore dal 1° gen. 1976 ([RU 1974 1594](https://fedlex.data.admin.ch/eli/oc/1974/1594_1594_1594)).
@@ -945,16 +945,17 @@ I contributi devono essere versati in ogni caso:
   - 1\. conseguiti fino al 31 dicembre dell’anno in cui esse compiono il 25° anno d’età, e
   - 2\. non superiori a 750 franchi per datore di lavoro e per anno civile;
 
-- b. sul salario determinante delle persone impiegate da produttori di danza e di teatro, orchestre, produttori di supporti audio o audiovisivi ed emittenti radiofoniche o televisive nonché da scuole del settore artistico.[^34d-3]
+- b.[^34d-3] sul salario determinante delle persone impiegate da produttori di danza e di teatro, orchestre, cori, produttori di supporti audio e audiovisivi, emittenti radiofoniche e televisive, media digitali e stampati, imprese di design, musei nonché da scuole del settore artistico.[^34d-4]
 
 <sup>3</sup> Se accetta che il salario sia versato senza deduzione dei contributi, il lavoratore non può chiedere che gli stessi siano percepiti successivamente.
 
-<sup>4</sup> Il capoverso 1 non è applicabile al soldo per i compiti fondamentali dei pompieri eccedente l’importo non soggetto a contribuzione secondo l’articolo 6 capoverso 2 lettera a.[^34d-4]
+<sup>4</sup> Il capoverso 1 non è applicabile al soldo per i compiti fondamentali dei pompieri eccedente l’importo non soggetto a contribuzione secondo l’articolo 6 capoverso 2 lettera a.[^34d-5]
 
 [^34d-1]: Introdotto dall’all. n. 2 dell’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^34d-2]: Nuovo testo giusta la cifra I dell’O del 28 ago. 2024, in vigore dal 1° gen. 2025 ([RU 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
-[^34d-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
-[^34d-4]: Introdotto dalla cifra I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
+[^34d-3]: Nuovo testo giusta la cifra I dell’O del 21 mar. 2025, in vigore dal 1° gen. 2026 ([RU 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
+[^34d-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
+[^34d-5]: Introdotto dalla cifra I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 
 #### Art. 35
 
@@ -1038,7 +1039,7 @@ I contributi devono essere versati in ogni caso:
 
 <sup>4</sup> Le decisioni di condono devono essere notificate al richiedente.[^40-1]
 
-[^40-1]: Nuovo testo giusta la cifra I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
+[^40-1]: Nuovo testo giusta la cifra I n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 
 #### Art. 41
 
@@ -1046,7 +1047,7 @@ I contributi devono essere versati in ogni caso:
 
 Chi ha pagato contributi non dovuti può esigerne la restituzione dalla cassa di compensazione. È riservata la prescrizione prevista dall’articolo 16 capoverso 3 LAVS
 
-[^41-1]: Nuovo testo giusta la cifra I 1 del DCF del 30 dic. 1953, in vigore dal 1° gen. 1954 (RU **1954** 110). Nuovo testo giusta il n. I del DCF del 30 dic. 1953 (RU **1954** 110).
+[^41-1]: Nuovo testo giusta la cifra I n. 1 del DCF del 30 dic. 1953, in vigore dal 1° gen. 1954 (RU **1954** 110). Nuovo testo giusta il n. I del DCF del 30 dic. 1953 (RU **1954** 110).
 
 ### IV. Interessi
 
@@ -1067,11 +1068,12 @@ Devono pagare gli interessi di mora:
 - c.[^41bis-2] i datori di lavoro, sui contributi da compensare e sui contributi da versare nell’ambito della procedura semplificata secondo gli articoli 2 e 3 LLN[^41bis-3] che non pagano entro 30 giorni dalla fatturazione da parte della cassa di compensazione, a partire da tale fatturazione;
 - d.[^41bis-4] i datori di lavoro, sui contributi da compensare e sui contributi da versare nell’ambito della procedura semplificata secondo gli articoli 2 e 3 LLN per i quali non presentano alla cassa di compensazione un regolare conteggio entro 30 giorni dal termine del periodo di contribuzione, a partire dal 1° gennaio dopo tale termine;
 - e. le persone che esercitano un’attività lucrativa indipendente, le persone che non esercitano un’attività lucrativa e i salariati i cui datori di lavoro non sono obbligati a pagare i contributi, sui contributi personali da compensare che non pagano entro 30 giorni dalla fatturazione da parte della cassa di compensazione, a partire da tale fatturazione;
-- f. le persone che esercitano un’attività lucrativa indipendente, le persone che non esercitano un’attività lucrativa e i salariati i cui datori di lavoro non sono obbligati a pagare i contributi, sui contributi da compensare, qualora i contributi d’acconto siano almeno il 25 per cento inferiori ai contributi effettivamente dovuti e non vengano versati fino al 1° gennaio dopo il termine dell’anno civile seguente l’anno di contribuzione, a partire dal 1° gennaio dopo tale termine.
+- f. le persone che esercitano un’attività lucrativa indipendente, le persone che non esercitano un’attività lucrativa e i salariati i cui datori di lavoro non sono obbligati a pagare i contributi, sui contributi da compensare, qualora i contributi d’acconto siano almeno il 25 per cento inferiori ai contributi effettivamente dovuti e non vengano versati fino al 1° gennaio dopo il termine dell’anno civile seguente l’anno di contribuzione, a partire dal 1° gennaio dopo tale termine;
+- g.[^41bis-5] le persone che dopo aver cessato la loro attività lucrativa indipendente realizzano un utile di liquidazione e informano la cassa di compensazione entro la fine dell’anno civile seguente l’anno della realizzazione dell’utile, sui contributi d’acconto e sui contributi da compensare che non pagano entro 30 giorni dalla fatturazione da parte della cassa di compensazione, a partire da tale fatturazione.
 
-<sup>1bis</sup> ...[^41bis-5]
+<sup>1bis</sup> ...[^41bis-6]
 
-<sup>1ter</sup> Per il periodo compreso tra il 21 marzo 2020 e il 30 giugno 2020 non sono dovuti interessi di mora.[^41bis-6]
+<sup>1ter</sup> Per il periodo compreso tra il 21 marzo 2020 e il 30 giugno 2020 non sono dovuti interessi di mora.[^41bis-7]
 
 <sup>2</sup> Gli interessi cessano di decorrere con il pagamento completo dei contributi, con la presentazione del regolare conteggio o, in mancanza di esso, con la fatturazione. In caso di reclamo di contributi arretrati, gli interessi cessano di decorrere con la fatturazione, sempreché i contributi siano pagati entro il termine fissato.
 
@@ -1079,8 +1081,9 @@ Devono pagare gli interessi di mora:
 [^41bis-2]: Nuovo testo giusta l’all. n. 2 dell’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^41bis-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
 [^41bis-4]: Nuovo testo giusta l’all. n. 2 dell’O del 6 set. 2006 contro il lavoro nero, in vigore dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^41bis-5]: Introdotto dalla cifra I n. 1 dell’O del 20 mar. 2020 sui provvedimenti riguardo al coronavirus concernenti l’indennità per lavoro ridotto e il conteggio dei contributi alle assicurazioni sociali, in vigore dal 21 mar. al 20 set. 2020 ([RU 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
-[^41bis-6]: Introdotto dalla cifra I dell’O del 29 apr. 2020, in vigore dal 21 mar. 2020 ([RU 2020 1407](https://fedlex.data.admin.ch/eli/oc/2020/276)).
+[^41bis-5]: Introdotta dalla cifra I dell’O del 21 mar. 2025, in vigore dal 1° gen. 2026 ([RU 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
+[^41bis-6]: Introdotto dalla cifra I n. 1 dell’O del 20 mar. 2020 sui provvedimenti riguardo al coronavirus concernenti l’indennità per lavoro ridotto e il conteggio dei contributi alle assicurazioni sociali, in vigore dal 21 mar. al 20 set. 2020 ([RU 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
+[^41bis-7]: Introdotto dalla cifra I dell’O del 29 apr. 2020, in vigore dal 21 mar. 2020 ([RU 2020 1407](https://fedlex.data.admin.ch/eli/oc/2020/276)).
 
 #### Art. 41<sup>ter</sup>
 
@@ -1472,8 +1475,8 @@ I periodi di contribuzione tra il 31 dicembre precedente l’insorgere dell’ev
 Per compensare gli anni di contribuzione mancanti anteriori al 1° gennaio 1979 si aggiungono, se l’interessato era assicurato in applicazione degli articoli 1*a* o 2 LAVS o avrebbe avuto la possibilità di esserlo, gli anni di contribuzione giusta la tabella seguente:[^52d-2]
 
 <table>
-<tr><td colspan="2">Anni interi di contribuzione dell’assicurato</td><td>Anni interi di contribuzione computati completivamente fino a</td></tr>
-<tr><td>da</td><td>a</td><td></td></tr>
+<tr><th colspan="2">Anni interi di contribuzione dell’assicurato</th><th>Anni interi di contribuzione computati completivamente fino a</th></tr>
+<tr><th>da</th><th>a</th><th></th></tr>
 <tr><td>20</td><td>26</td><td>1</td></tr>
 <tr><td>27</td><td>33</td><td>2</td></tr>
 <tr><td>da 34</td><td></td><td>3</td></tr>
@@ -2710,7 +2713,7 @@ Un cambiamento della cassa di compensazione competente a pagare le rendite ha lu
 - d.[^125-3] quando un avente diritto alla rendita beneficia di prestazioni complementari e se l’UFAS ha autorizzato le competenti casse di compensazione a procedere al cambiamento.
 
 [^125-1]: Nuovo testo giusta la cifra I del DCF del 10 mag. 1957, in vigore dal 1° gen. 1957 ([RU 1957 422](https://fedlex.data.admin.ch/eli/oc/1957/406_407_422)).
-[^125-2]: Nuova denominazione giusta la cifra II del DCF del 5 feb. 1960, in vigore dal 1° gen. 1960 ([RU 1960 242](https://fedlex.data.admin.ch/eli/oc/1960/235_247_242)).
+[^125-2]: Nuova denominazione giusta la cifra II del DCF del 5 feb. 1960, in vigore dal 1° gen. 1960([RU 1960 242](https://fedlex.data.admin.ch/eli/oc/1960/235_247_242)).
 [^125-3]: Introdotta dalla cifra I dell’O del 17 giu. 1985, in vigore dal 1° gen. 1986 ([RU 1985 913](https://fedlex.data.admin.ch/eli/oc/1985/913_913_913)).
 
 #### Art. 125<sup>bis</sup>
@@ -2784,7 +2787,7 @@ I Cantoni e le associazioni professionali fondatrici possono delegare[^130-3] al
 
 <sup>2</sup> Se delegano compiti alle casse di compensazione, i Cantoni disciplinano esplicitamente, in appositi decreti cantonali, la revisione e la presentazione dei rapporti.[^130-5].
 
-[^130-1]: Nuovo testo giusta la cifra I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
+[^130-1]: Nuovo testo giusta la cifra I n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 [^130-2]: Nuova espr. giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^130-3]: Nuova espr. giusta la cifra I dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^130-4]: Nuovo testo giusta la cifra I dell’O del 30 set. 2009, in vigore dal 1° gen. 2010 ([RU 2009 5183](https://fedlex.data.admin.ch/eli/oc/2009/608)).
@@ -3280,7 +3283,7 @@ Nel sistema d’informazione nell’ambito dell’assoggettamento assicurativo s
 <sup>3</sup> I datori di lavoro dichiarano alle casse di compensazione i vantaggi valutabili in denaro derivanti dalle partecipazioni di collaboratore, secondo i tempi e i modi previsti dalle autorità fiscali, allegando copia delle attestazioni che devono inoltrare conformemente alle disposizioni dell’ordinanza del 27 giugno 2012[^143-5] sulle partecipazioni di collaboratore.[^143-6]
 
 [^143-1]: Nuovo testo giusta la cifra I del DCF del 19 nov. 1965, in vigore dal 1° gen. 1966 ([RU 1965 1019](https://fedlex.data.admin.ch/eli/oc/1965/1021_1033_1019)).
-[^143-2]: Nuovo testo giusta la cifra I 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
+[^143-2]: Nuovo testo giusta la cifra I n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 [^143-3]: Nuovo testo giusta la cifra I dell’O del 21 set. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 [^143-4]: Introdotto dalla cifra I n. 1 dell’O dell’11 ott. 1972, in vigore dal 1° gen. 1973 ([RU 1972 2338](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)).
 [^143-5]: [RS 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
@@ -3313,7 +3316,7 @@ La cassa di compensazione comunica a ogni persona tenuta a pagare i contributi e
 
 <sup>2</sup> Le casse di compensazione possono disporre di denaro liquido soltanto nella misura necessaria per coprire le spese minute.
 
-[^147-1]: Nuovo testo giusta la cifra II 58 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
+[^147-1]: Nuovo testo giusta la cifra II n. 58 dell’O del 1° dic. 1997, in vigore dal 1° gen. 1998 ([RU 1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)).
 
 #### Art. 148
 
@@ -4292,3 +4295,285 @@ La presente modifica degli articoli 222–225 è applicabile soltanto a formazio
 Per quanto concerne gli obblighi di attestazione di cui all’articolo 143 capoverso 3, è applicabile per analogia l’articolo 18 (Disposizioni transitorie) dell’ordinanza del 27 giugno 2012[^u12-2] sulle partecipazioni di collaboratore.
 
 [^u12-2]: [RS 642.115.325.1](https://fedlex.data.admin.ch/eli/cc/2012/449)
+
+## Indice
+
+Capo primo: Persone assicurate
+
+A. Assoggettamento
+
+B. Esenzioni dall’assicurazione
+
+*Abrogato* Art. 4
+
+C. Adesione all’assicurazione
+
+I. Persone occupate all’estero da un datore di lavoro in Svizzera
+
+II. Persone domiciliate in Svizzera che non sono assicurate in base a una convenzione internazionale
+
+III. Studenti senza attività lucrativa domiciliati all’estero
+
+IV. Persone senza attività lucrativa che accompagnano all’estero il loro coniuge assicurato
+
+Capo secondo: Contributi
+
+A. Contributi degli assicurati che esercitano un’attività lucrativa
+
+*Abrogato* Art. 6<sup>bis</sup>
+
+I. Contributi previsti sul reddito proveniente da un’attività dipendente
+
+*Abrogato* Art. 10
+
+*Abrogato* Art. 12
+
+II. Contributi prelevati sul reddito proveniente da un’attività indipendente
+
+\1. In generale
+
+\2. Fissazione e determinazione dei contributi
+
+*Abrogato* Art. 26
+
+B. Contributi delle persone che non esercitano un’attività lucrativa
+
+C. Riduzione e condono dei contributi delle persone che esercitano un’attività lucrativa indipendente e delle persone che non esercitano un’attività lucrativa
+
+D. Contributi dei datori di lavoro
+
+E. Riscossione dei contributi
+
+I. In generale
+
+II. Contributi paritari
+
+III. Pagamento di contributi arretrati e restituzione di contributi
+
+IV. Interessi
+
+F. Garanzia degli eredi
+
+Capo terzo: Rendite e assegno per grandi invalidi
+
+A. Diritto alla rendita
+
+*Abrogato* Art. 48
+
+B. Rendite ordinarie
+
+*Abrogato* Art. 52*h*
+
+C. Rendite straordinarie
+
+D. Riscossione flessibile della rendita
+
+I. Rinvio della rendita
+
+II. Anticipazione della rendita
+
+E. Calcolo anticipato della rendita
+
+F. Assegno per grandi invalidi e mezzi ausiliari
+
+G. Rapporto con l’assegno per grandi invalidi dell’assicurazione contro gli infortuni
+
+Art. 66<sup>quater</sup>
+
+H. Disposizioni varie
+
+I. Esercizio del diritto
+
+Art. 67
+
+II. Determinazione delle rendite
+
+*Abrogato* Art. 69
+
+III. Determinazione dell’assegno per grandi invalidi
+
+IV. Disposizioni procedurali comuni
+
+V. Pagamento della rendita e dell’assegno per grandi invalidi
+
+*Abrogato* Art. 71<sup>bis</sup>
+
+*Abrogato* Art. 76
+
+*Abrogato* Art. 76<sup>bis</sup>
+
+VI. Ricupero e impossibilità di restituzione
+
+VII. ...
+
+*Abrogato* Art. 79<sup>quater</sup>
+
+Capo quarto: Organizzazione
+
+A. ...
+
+*Abrogati* Art. 80 a 82
+
+B. Casse di compensazione professionali
+
+I. In generale
+
+II. ...
+
+III. Prestazione della garanzia
+
+IV. Costituzione della cassa
+
+V. Regolamento della cassa
+
+VI. Comitato direttivo della cassa
+
+VII. Gerente della cassa
+
+Art. 106
+
+VIII. Scioglimento della cassa di compensazione
+
+Art. 107
+
+C. Casse di compensazione cantonali
+
+Organizzazione dell’istituto delle assicurazioni sociali Art. 108
+
+D. Casse di compensazione della Confederazione
+
+I. Cassa di compensazione federale
+
+*Abrogato* Art. 112
+
+II. Cassa svizzera di compensazione
+
+Art. 113
+
+E. Agenzie delle casse di compensazione
+
+F. Affiliazione alle casse
+
+I. Cassa competente a riscuotere i contributi
+
+II. Cassa competente a fissare e a pagare le rendite
+
+III. ...
+
+*Abrogati* Art. 126 e 127
+
+G. Compiti delle casse di compensazione
+
+*Abrogato* Art. 128
+
+H. Numero AVS
+
+I. Caratteristiche e assegnazione
+
+*Abrogato* Art. 134
+
+II. Utilizzazione sistematica del numero AVS al di fuori dell’AVS
+
+H<sup>bis</sup>. Certificato di assicurazione e conto individuale
+
+*Abrogato* Art. 135
+
+*Abrogato* Art. 136
+
+H<sup>ter</sup>. Sistemi d’informazione per l’esecuzione di convenzioni internazionali
+
+I. Sistema d’informazione destinato alla determinazione delle prestazioni previste in virtù di convenzioni internazionali
+
+II. Sistema d’informazione nell’ambito dell’assoggettamento assicurativo
+
+H<sup>quater</sup>. Sistema d’informazione per la trasmissione di richieste
+
+H<sup>quinquies</sup>. Obbligo di comunicazione in caso di danni ai sistemi d’informazione
+
+J. Regolamento dei conti e dei pagamenti
+
+I. Regolamento dei conti e dei pagamenti con le casse di compensazione
+
+II. ...
+
+III. Movimento di fondi delle casse di compensazione
+
+IV. Contabilità delle casse di compensazione
+
+*Abrogato* Art. 151
+
+*Abrogato* Art. 153
+
+V. Conservazione degli atti
+
+Art. 156
+
+K. Copertura delle spese di amministrazione
+
+L. Revisione delle casse e controllo dei datori di lavoro
+
+I. Revisione delle casse
+
+II. Controllo dei datori di lavoro
+
+III. Requisiti per l’ufficio di revisione e il capo revisore
+
+III*a*. Spese di revisione delle casse e di controllo dei datori di lavoro
+
+IV. Revisioni complementari e controlli
+
+Art. 171
+
+M. ...
+
+N. Ufficio centrale di compensazione
+
+O. Vigilanza della Confederazione
+
+Capo quinto: ...
+
+Capo sesto: Contenzioso
+
+*Abrogato* Art. 200<sup>bis</sup>
+
+*Abrogati* Art. 202 e 203
+
+*Abrogato* Art. 203*a*
+
+*Abrogato* Art. 204
+
+Capo settimo: Disposizioni diverse
+
+*Abrogato* Art. 213
+
+Capo ottavo: Sussidi di costruzione alle case e ad altre istituzioni per le persone anziane
+
+*Abrogato* Art. 220
+
+Capo nono: Aiuti finanziari per la promozione dell’assistenza alle persone anziane
+
+Capo decimo: Disposizioni finali
+
+Disposizione finale della modifica del 17 giugno 1985
+
+Disposizioni finali della modifica del 13 settembre 1995
+
+Disposizioni finali della modifica del 29 novembre 1995
+
+Disposizioni finali della modifica del 16 settembre 1996
+
+Disposizioni finali della modifica del 27 aprile 1998
+
+Disposizione derogatoria per gli anni di contribuzione 2000 e 2001
+
+Disposizioni finali della modifica del 1° marzo 2000
+
+Disposizione finale della modifica del 17 ottobre 2007
+
+Disposizioni finali della modifica del 7 novembre 2007
+
+Disposizione finale della modifica del 7 novembre 2007
+
+Disposizioni finali della modifica del 24 settembre 2010
+
+Disposizione finale della modifica del 21 settembre 2012.

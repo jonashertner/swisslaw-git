@@ -4,11 +4,11 @@ title: "Règlement du 31 octobre 1947 sur l'assurance-vieillesse et survivants (
 short: RAVS
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20250101-fr-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20250101/fr"
 
 (RAVS)[^t-1]
 
-du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2025)
+du 31 octobre 1947 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Nouvelle teneur du titre selon le ch. I 1 de l’O du 11 oct. 1972, en vigueur depuis le 1<sup>er</sup> janv. 1973 ([RO 1972 2560](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Selon la même disp., les tit. marginaux ont été remplacés par des tit. médians.
 
@@ -946,16 +946,17 @@ Doivent être versées dans tous les cas:
   - 1\. réalisés jusqu’au 31 décembre de l’année au cours de laquelle elles ont eu leur 25<sup>e</sup> anniversaire, et
   - 2\. d’un montant n’excédant pas 750 francs par année civile et par employeur;
 
-- b. les cotisations qui sont dues sur le salaire déterminant des personnes employées par des producteurs de danse et de théâtre, des orchestres, des producteurs dans le domaine phonographique et audiovisuel, des radios et des télévisions ainsi que par des écoles dans le domaine artistique.[^34d-3]
+- b.[^34d-3] les cotisations qui sont dues sur le salaire déterminant des personnes employées par des producteurs de danse et de théâtre, des orchestres, des chœurs, des producteurs dans le domaine phonographique et audiovisuel, des radios et des télévisions, des médias électroniques et imprimés, des entreprises de design, des musées ainsi que par des écoles dans le domaine artistique.[^34d-4]
 
 <sup>3</sup> Si l’employé accepte le paiement du salaire sans déduction des cotisations, il ne pourra exiger ultérieurement une perception des cotisations.
 
-<sup>4</sup> L’al. 1 n’est pas applicable aux soldes allouées pour les tâches essentielles du service du feu qui dépassent le montant exempté de cotisations selon l’art. 6, al. 2, let. a.[^34d-4]
+<sup>4</sup> L’al. 1 n’est pas applicable aux soldes allouées pour les tâches essentielles du service du feu qui dépassent le montant exempté de cotisations selon l’art. 6, al. 2, let. a.[^34d-5]
 
 [^34d-1]: Introduit par l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^34d-2]: Nouvelle teneur selon le ch. I de l’O du 28 août 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
-[^34d-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
-[^34d-4]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
+[^34d-3]: Nouvelle teneur selon le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
+[^34d-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
+[^34d-5]: Introduit par le ch. I de l’O du 21 sept. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 
 #### Art. 35
 
@@ -1068,11 +1069,12 @@ Doivent payer des intérêts moratoires:
 - c.[^41bis-2] les employeurs, sur les cotisations à payer sur la base du décompte et les cotisations à payer dans le cadre de la procédure simplifiée prévue aux art. 2 et 3 LTN[^41bis-3] qu’ils ne versent pas dans les 30 jours à compter de la facturation, dès la facturation par la caisse de compensation;
 - d.[^41bis-4] les employeurs, sur les cotisations à payer sur la base du décompte et les cotisations à verser dans le cadre de la procédure simplifiée prévue aux art. 2 et 3 LTN, si la caisse de compensation ne reçoit pas le décompte établi en bonne et due forme dans les 30 jours à compter du terme de la période de décompte, dès le 1<sup>er</sup> janvier qui suit la période de décompte;
 - e. les personnes exerçant une activité lucrative indépendante, les personnes sans activité lucrative et les salariés dont l’employeur n’est pas tenu de payer des cotisations, sur les cotisations personnelles à payer sur la base du décompte qu’ils n’ont pas versées dans les 30 jours à compter de la facturation, dès la facturation par la caisse de compensation;
-- f. les personnes exerçant une activité lucrative indépendante, les personnes sans activité lucrative et les salariés dont l’employeur n’est pas tenu de payer des cotisations, sur les cotisations à payer sur la base du décompte, lorsque les acomptes versés étaient inférieurs d’au moins 25 % aux cotisations effectivement dues et que les cotisations n’ont pas été versées jusqu’au 1<sup>er</sup> janvier après la fin de l’année civile qui suit l’année de cotisation, dès le 1<sup>er</sup> janvier après la fin de l’année civile qui suit l’année de cotisation.
+- f. les personnes exerçant une activité lucrative indépendante, les personnes sans activité lucrative et les salariés dont l’employeur n’est pas tenu de payer des cotisations, sur les cotisations à payer sur la base du décompte, lorsque les acomptes versés étaient inférieurs d’au moins 25 % aux cotisations effectivement dues et que les cotisations n’ont pas été versées jusqu’au 1<sup>er</sup> janvier après la fin de l’année civile qui suit l’année de cotisation, dès le 1<sup>er</sup> janvier après la fin de l’année civile qui suit l’année de cotisation;
+- g.[^41bis-5] les personnes qui réalisent un bénéfice de liquidation après cessation de leur activité lucrative indépendante et en informent la caisse de compensation avant la fin de l’année qui suit l’année de la réalisation, sur les acomptes de cotisations et sur les cotisations à payer sur la base du décompte qu’elles n’ont pas versés dans les 30 jours à compter de la facturation, dès la facturation par la caisse de compensation.
 
-<sup>1bis</sup> …[^41bis-5]
+<sup>1bis</sup> …[^41bis-6]
 
-<sup>1ter</sup> Aucun intérêt moratoire ne sera dû pour la période du 21 mars 2020 au 30 juin 2020.[^41bis-6]
+<sup>1ter</sup> Aucun intérêt moratoire ne sera dû pour la période du 21 mars 2020 au 30 juin 2020.[^41bis-7]
 
 <sup>2</sup> Les intérêts moratoires cessent de courir lorsque les cotisations sont intégralement payées, lorsque le décompte établi en bonne et due forme parvient à la caisse de compensation ou, à défaut, à la date de la facturation. En cas de réclamation de cotisations arriérées, les intérêts moratoires cessent de courir à la date de la facturation, pour autant qu’elles soient payées dans le délai.
 
@@ -1080,8 +1082,9 @@ Doivent payer des intérêts moratoires:
 [^41bis-2]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^41bis-3]: [RS 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
 [^41bis-4]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 6 sept. 2006 sur le travail au noir, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^41bis-5]: Introduit par le ch. I 1 de l’O du 20 mars 2020 sur les mesures en lien avec le coronavirus (COVID-19) concernant l’indemnité en cas de réduction de l’horaire de travail et le décompte des cotisations aux assurances sociales, en vigueur du 21 mars au 20 sept. 2020 ([RO 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
-[^41bis-6]: Introduit par le ch. I de l’O du 29 avr. 2020, en vigueur depuis le 21 mars 2020 ([RO 2020 1407](https://fedlex.data.admin.ch/eli/oc/2020/276))
+[^41bis-5]: Introduite par le ch. I de l’O du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
+[^41bis-6]: Introduit par le ch. I 1 de l’O du 20 mars 2020 sur les mesures en lien avec le coronavirus (COVID-19) concernant l’indemnité en cas de réduction de l’horaire de travail et le décompte des cotisations aux assurances sociales, en vigueur du 21 mars au 20 sept. 2020 ([RO 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
+[^41bis-7]: Introduit par le ch. I de l’O du 29 avr. 2020, en vigueur depuis le 21 mars 2020 ([RO 2020 1407](https://fedlex.data.admin.ch/eli/oc/2020/276))
 
 #### Art. 41<sup>ter</sup>
 

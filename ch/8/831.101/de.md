@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversi
 short: AHVV
 eli: "https://fedlex.data.admin.ch/eli/cc/63/1185_1183_1185"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 1947-10-31
 in_force: 1947-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20250101/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20250101-de-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/63/1185_1183_1185/20260101/de/xml/fedlex-data-admin-ch-eli-cc-63-1185_1183_1185-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/63/1185_1183_1185/20250101/de"
 
 (AHVV)[^t-1]
 
-vom 31. Oktober 1947 (Stand am 1. Januar 2025)
+vom 31. Oktober 1947 (Stand am 1. Januar 2026)
 
 [^t-1]: Fassung des Tit. gemäss Ziff. I 1 der V vom 11. Okt. 1972, in Kraft seit 1. Jan. 1973 ([AS 1972 2507](https://fedlex.data.admin.ch/eli/oc/1972/2507_2560_2338)). Gemäss derselben Bestimmung wurden die Randtit. in Sachüberschriften umgewandelt.
 
@@ -937,16 +937,17 @@ In jedem Fall entrichtet werden müssen die Beiträge:
   - 1\. den Personen bis zum 31. Dezember des Jahres erzielen, in dem sie das 25. Altersjahr vollenden, und
   - 2\. der je Arbeitgeber den Betrag von 750 Franken im Kalenderjahr nicht übersteigt;
 
-- b. auf dem massgebenden Lohn der Personen, die von Tanz- und Theaterproduzenten, Orchestern, Phono- und Audiovisionsproduzenten, Radio und Fernsehen sowie von Schulen im künstlerischen Bereich beschäftigt werden.[^34d-3]
+- b.[^34d-3] auf dem massgebenden Lohn der Personen, die von Tanz- und Theaterproduzenten, Orchestern, Chören, Phono- und Audiovisionsproduzenten, Radio und Fernsehen, elektronischen Medien und Printmedien, Designunternehmen, Museen sowie Schulen im künstlerischen Bereich beschäftigt werden.[^34d-4]
 
 <sup>3</sup> Akzeptiert der Arbeitnehmer die ungekürzte Lohnzahlung, so kann er nachträglich nicht mehr verlangen, dass die Beiträge erhoben werden.
 
-<sup>4</sup> Absatz 1 ist nicht anwendbar auf Soldleistungen für Kernaufgaben der Feuerwehr, die über den nach Artikel 6 Absatz 2 Buchstabe a befreiten Betrag hinausgehen.[^34d-4]
+<sup>4</sup> Absatz 1 ist nicht anwendbar auf Soldleistungen für Kernaufgaben der Feuerwehr, die über den nach Artikel 6 Absatz 2 Buchstabe a befreiten Betrag hinausgehen.[^34d-5]
 
 [^34d-1]: Eingefügt durch Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^34d-2]: Fassung gemäss Ziff. I der V vom 28. Aug. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 462](https://fedlex.data.admin.ch/eli/oc/2024/462)).
-[^34d-3]: Fassung gemäss Ziff. I der V vom 15. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
-[^34d-4]: Eingefügt durch Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
+[^34d-3]: Fassung gemäss Ziff. I der V vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
+[^34d-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3331](https://fedlex.data.admin.ch/eli/oc/2014/575)).
+[^34d-5]: Eingefügt durch Ziff. I der V vom 21. Sept. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6329](https://fedlex.data.admin.ch/eli/oc/2012/746)).
 
 #### Art. 35
 
@@ -1059,11 +1060,12 @@ Verzugszinsen haben zu entrichten:
 - c.[^41bis-2] Arbeitgeber auf auszugleichenden sowie auf den im vereinfachten Verfahren nach den Artikeln 2 und 3 BGSA[^41bis-3] zu bezahlenden Beiträgen, die sie nicht innert 30 Tagen ab Rechnungsstellung leisten, ab Rechnungsstellung durch die Ausgleichskasse;
 - d.[^41bis-4] Arbeitgeber auf auszugleichenden Beiträgen sowie auf den im vereinfachten Verfahren nach den Artikeln 2 und 3 BGSA zu bezahlenden Beiträgen, für die innert 30 Tagen nach Ablauf der Abrechnungsperiode keine ordnungsgemässe Abrechnung bei der Ausgleichskasse eingeht, ab dem 1. Januar nach Ablauf der Abrechnungsperiode;
 - e. Selbständigerwerbende, Nichterwerbstätige und Arbeitnehmer ohne beitragspflichtigen Arbeitgeber auf auszugleichenden persönlichen Beiträgen, die sie nicht innert 30 Tagen ab Rechnungsstellung leisten, ab Rechnungsstellung durch die Ausgleichskasse;
-- f. Selbständigerwerbende, Nichterwerbstätige und Arbeitnehmer ohne beitragspflichtigen Arbeitgeber auf auszugleichenden Beiträgen, falls die Akontobeiträge mindestens 25 Prozent unter den tatsächlich geschuldeten Beiträgen liegen und nicht bis zum 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres entrichtet werden, ab dem 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres.
+- f. Selbständigerwerbende, Nichterwerbstätige und Arbeitnehmer ohne beitragspflichtigen Arbeitgeber auf auszugleichenden Beiträgen, falls die Akontobeiträge mindestens 25 Prozent unter den tatsächlich geschuldeten Beiträgen liegen und nicht bis zum 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres entrichtet werden, ab dem 1. Januar nach Ablauf des dem Beitragsjahr folgenden Kalenderjahres;
+- g.[^41bis-5] Personen, die nach Aufgabe ihrer selbstständigen Erwerbstätigkeit einen Liquidationsgewinn erzielen und die Ausgleichskasse bis zum Ende des Kalenderjahres, das auf das Jahr der Gewinnerzielung folgt, darüber informieren, auf Akontobeiträgen und auf auszugleichenden Beiträgen, die sie nicht innert 30 Tagen ab Rechnungsstellung leisten, ab Rechnungsstellung durch die Ausgleichskasse.
 
-<sup>1bis</sup> …[^41bis-5]
+<sup>1bis</sup> …[^41bis-6]
 
-<sup>1ter</sup> Für die Zeit vom 21. März 2020 bis zum 30. Juni 2020 sind keine Verzugszinsen zu bezahlen.[^41bis-6]
+<sup>1ter</sup> Für die Zeit vom 21. März 2020 bis zum 30. Juni 2020 sind keine Verzugszinsen zu bezahlen.[^41bis-7]
 
 <sup>2</sup> Der Zinsenlauf endet mit der vollständigen Bezahlung der Beiträge, mit Einreichung der ordnungsgemässen Abrechnung oder bei deren Fehlen mit der Rechnungsstellung. Bei Beitragsnachforderungen endet der Zinsenlauf mit der Rechnungsstellung, sofern die Beiträge innert Frist bezahlt werden.
 
@@ -1071,8 +1073,9 @@ Verzugszinsen haben zu entrichten:
 [^41bis-2]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 [^41bis-3]: [SR 822.41](https://fedlex.data.admin.ch/eli/cc/2007/71)
 [^41bis-4]: Fassung gemäss Anhang Ziff. 2 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, in Kraft seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
-[^41bis-5]: Eingefügt durch Ziff. I 1 der V vom 20. März 2020 über Massnahmen im Zusammenhang mit dem Coronavirus (COVID-19) zur Kurzarbeitsentschädigung und zur Abrechnung der Sozialversicherungsbeiträge, in Kraft vom 21. März bis zum 20. Sept. 2020 ([AS 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
-[^41bis-6]: Eingefügt durch Ziff. I der V vom 29. April 2020, in Kraft seit 21. März 2020 ([AS 2020 1407](https://fedlex.data.admin.ch/eli/oc/2020/276)).
+[^41bis-5]: Eingefügt durch Ziff. I der V vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 226](https://fedlex.data.admin.ch/eli/oc/2025/226)).
+[^41bis-6]: Eingefügt durch Ziff. I 1 der V vom 20. März 2020 über Massnahmen im Zusammenhang mit dem Coronavirus (COVID-19) zur Kurzarbeitsentschädigung und zur Abrechnung der Sozialversicherungsbeiträge, in Kraft vom 21. März bis zum 20. Sept. 2020 ([AS 2020 875](https://fedlex.data.admin.ch/eli/oc/2020/168)).
+[^41bis-7]: Eingefügt durch Ziff. I der V vom 29. April 2020, in Kraft seit 21. März 2020 ([AS 2020 1407](https://fedlex.data.admin.ch/eli/oc/2020/276)).
 
 #### Art. 41<sup>ter</sup>
 
