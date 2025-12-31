@@ -4,13 +4,12 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2025-12-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-22
+version: 2026-01-01
+version_adopted: 2026-01-07
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3251/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3339/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3251/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.12.2025)
+du 24.10.2001 (état au 01.01.2026)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -970,7 +969,7 @@ arrête:
 
 **Forfait d'aide matérielle**
 
-<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2491.65 francs.
+<sup>1</sup> Le forfait par cas d'aide matérielle s'élève à 2514.05 francs.
 
 <sup>2</sup> Est considérée comme cas d'aide matérielle l'unité d'assistance à laquelle est versée l'aide matérielle au cours de l'année civile.
 
@@ -989,7 +988,7 @@ arrête:
 
 **Forfait de consultation préventive**
 
-<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1245.85 francs.
+<sup>1</sup> Le forfait par cas de consultation préventive s'élève à 1257.05 francs.
 
 <sup>2</sup> Est considérée comme cas de consultation préventive l'assistance à une personne nécessitant de l'aide ou à une unité d'assistance dans un cas au moins, lorsque
 
@@ -1005,7 +1004,7 @@ arrête:
 
 **Forfait de recouvrement des contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas de recouvrement s'élève à 403.75 francs.
+<sup>1</sup> Le forfait par cas de recouvrement s'élève à 407.40 francs.
 
 <sup>2</sup> Est considérée comme cas de recouvrement l'activité au sens de l'article 1 ou 1a de la loi du 6 février 1980 sur l’aide au recouvrement et les avances de contributions d’entretien[^34f-1] ou de l'article 37 LASoc.
 
@@ -1017,7 +1016,7 @@ arrête:
 
 **Forfait d'avance de contributions d'entretien**
 
-<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 524.75 francs.
+<sup>1</sup> Le forfait par cas d'avance de contribution d'entretien s'élève à 529.45 francs.
 
 <sup>2</sup> Est considérée comme cas d'avance de contribution d'entretien l'avance faite au sens de l'article 3 de la loi sur l’aide au recouvrement et les avances de contributions d’entretien.
 
