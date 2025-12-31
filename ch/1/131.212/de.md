@@ -4,20 +4,20 @@ title: "Verfassung des Kantons Bern, vom 6. Juni 1993 (KV)"
 short: KV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga"
 language: de
-version: 2024-03-03
+version: 2026-01-01
 adopted: 1993-06-06
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20240303-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20240303/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1_401_401_361_fga/20260101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1_401_401_361_fga-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1_401_401_361_fga/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Bern (KV)
 
-vom 6. Juni 1993 (Stand am 3. März 2024)[^t-2][^t-1]
+vom 6. Juni 1993 (Stand am 1. Januar 2026)[^t-2][^t-1]
 
-[^t-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^t-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 In der Absicht, Freiheit und Recht zu schützen und ein Gemeinwesen zu gestalten, in dem alle in Verantwortung gegenüber der Schöpfung zusammenleben,
@@ -48,11 +48,11 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>1</sup> Der Kanton umfasst das Gebiet, das ihm durch die Eidgenossenschaft gewährleistet ist.
 
-<sup>2</sup> Er ist in Verwaltungsregionen, Verwaltungskreise, Amtsbezirke sowie Gemeinden gegliedert.[^3-1]
+<sup>2</sup> Er ist in Verwaltungsregionen, Verwaltungskreise und Gemeinden gegliedert.[^3-1]
 
 <sup>3</sup> Zur Lösung besonderer Aufgaben können regionale Organisationen gebildet werden.
 
-[^3-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^3-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Minderheiten
 
@@ -70,7 +70,7 @@ gibt sich das Volk des Kantons Bern folgende Verfassung:
 
 <sup>2</sup> Der Kanton trifft Vorkehren, um die Verbundenheit zwischen dem Berner Jura und dem übrigen Kanton zu stärken.
 
-[^5-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^5-1]: Angenommen in der Volksabstimmung vom 24. Sept. 2006, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Sprachen
 
@@ -97,8 +97,8 @@ Die Amtssprachen der Gemeinden in der Verwaltungsregion Seeland sind:
 
 <sup>5</sup> An die für den ganzen Kanton zuständigen Behörden können sich alle in der Amtssprache ihrer Wahl wenden.[^6-4]
 
-[^6-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^6-2]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^6-1]: Angenommen in der Volksabstimmung vom 24. Sept. 2006, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^6-2]: Angenommen in der Volksabstimmung vom 24. Sept. 2006, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 [^6-3]: Ursprünglich Abs. 3.
 [^6-4]: Ursprünglich Abs. 4.
 
@@ -122,9 +122,9 @@ Nicht eingebürgert wird namentlich, wer:
 
 <sup>4</sup> Es besteht kein Anspruch auf Einbürgerung.[^7-3]
 
-[^7-1]: Angenommen in der [Volksabstimmung vom 24. Nov. 2013](http://www.admin.ch/ch/d/pore/va/20131124/index.html), in Kraft seit 11. Dez. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 1; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
-[^7-2]: Angenommen in der [Volksabstimmung vom 24. Nov. 2013](http://www.admin.ch/ch/d/pore/va/20131124/index.html), in Kraft seit 11. Dez. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 1; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
-[^7-3]: Angenommen in der [Volksabstimmung vom 24. Nov. 2013](http://www.admin.ch/ch/d/pore/va/20131124/index.html), in Kraft seit 11. Dez. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 1; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2013, in Kraft seit 11. Dez. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 1; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7-2]: Angenommen in der Volksabstimmung vom 24. Nov. 2013, in Kraft seit 11. Dez. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 1; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
+[^7-3]: Angenommen in der Volksabstimmung vom 24. Nov. 2013, in Kraft seit 11. Dez. 2013. Gewährleistungsbeschluss vom 11. März 2015 ([BBl 2015 3035](https://fedlex.data.admin.ch/eli/fga/2015/613)Art. 1 Ziff. 1; [2014 9091](https://fedlex.data.admin.ch/eli/fga/2014/1987)).
 
 ### Pflichten
 
@@ -363,7 +363,7 @@ Kanton und Gemeinden setzen sich zum Ziel, dass:
 
 [^lvl3-lvl31-1]
 
-[^lvl3-lvl31-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2021](http://www.admin.ch/ch/d/pore/va/20210926/index.html), in Kraft seit 26. Sept. 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^lvl3-lvl31-1]: Angenommen in der Volksabstimmung vom 26. Sept. 2021, in Kraft seit 26. Sept. 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Umweltschutz
 
@@ -393,7 +393,7 @@ Kanton und Gemeinden setzen sich zum Ziel, dass:
 
 <sup>4</sup> Kanton und Gemeinden richten die öffentlichen Finanzflüsse insgesamt auf eine klimaneutrale und gegenüber der Klimaveränderung widerstandsfähige Entwicklung aus.
 
-[^31a-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2021](http://www.admin.ch/ch/d/pore/va/20210926/index.html), in Kraft seit 26. Sept. 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
+[^31a-1]: Angenommen in der Volksabstimmung vom 26. Sept. 2021, in Kraft seit 26. Sept. 2021. Gewährleistungsbeschluss vom 22. Sept. 2022 ([BBl 2022 2471](https://fedlex.data.admin.ch/eli/fga/2022/2471)Art. 1, [1203](https://fedlex.data.admin.ch/eli/fga/2022/1203)).
 
 ### Landschafts- und Heimatschutz
 
@@ -708,8 +708,8 @@ Obligatorisch unterliegen der Volksabstimmung:
 
 <sup>2</sup> Vorlagen, die der fakultativen Volksabstimmung unterliegen, werden der obligatorischen Volksabstimmung unterstellt, wenn 100 Mitglieder des Grossen Rates es verlangen.[^61-2]
 
-[^61-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 3. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
-[^61-2]: Angenommen in der [Volksabstimmung vom 22. Sept. 2002](http://www.admin.ch/ch/d/pore/va/20020922/index.html), in Kraft seit 1. Juni 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^61-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 3. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^61-2]: Angenommen in der Volksabstimmung vom 22. Sept. 2002, in Kraft seit 1. Juni 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Fakultative Volksabstimmung
 
@@ -728,7 +728,7 @@ Ferner unterliegen der Volksabstimmung, wenn das Referendum zustande gekommen is
 
 <sup>2</sup> Das Referendum ist zustande gekommen, wenn innert drei Monaten seit Publikation der Vorlage 10 000 Stimmberechtigte die Volksabstimmung über den Gegenstand verlangen.
 
-[^62-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^62-1]: Angenommen in der Volksabstimmung vom 24. Febr. 2008, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Verfahren
 
@@ -742,8 +742,8 @@ Ferner unterliegen der Volksabstimmung, wenn das Referendum zustande gekommen is
 
 <sup>4</sup> Bei Eventualanträgen und Volksvorschlägen findet das gleiche Abstimmungsverfahren wie bei einem Gegenvorschlag zu einer Initiative Anwendung.
 
-[^63-1]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 15. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
-[^63-2]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 15. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^63-1]: Angenommen in der Volksabstimmung vom 15. Mai 2022, in Kraft seit 15. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^63-2]: Angenommen in der Volksabstimmung vom 15. Mai 2022, in Kraft seit 15. Mai 2022. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 2, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### 4.5 Mitwirkung
 
@@ -809,12 +809,12 @@ Dem Grossen Rat dürfen nicht gleichzeitig angehören:
 
 <sup>4</sup> Mitglieder von Behörden sowie das Personal der kantonalen Verwaltung, der Gerichtsbehörden und der Staatsanwaltschaft haben bei Geschäften, die sie unmittelbar betreffen, in den Ausstand zu treten.[^68-6]
 
-[^68-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^68-2]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
-[^68-3]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^68-4]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^68-5]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^68-6]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-2]: Angenommen in der Volksabstimmung vom 24. Sept. 2006, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^68-3]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-4]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-5]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^68-6]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Delegationen
 
@@ -862,7 +862,7 @@ Die Behörden müssen über ihre Tätigkeit ausreichend informieren.
 
 Der Grosse Rat besteht aus 160 Mitgliedern, die für eine vierjährige Amtsdauer gewählt werden.
 
-[^72-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2002](http://www.admin.ch/ch/d/pore/va/20020922/index.html), in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^72-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2002, in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
 
 ### Wahl
 
@@ -876,9 +876,9 @@ Der Grosse Rat besteht aus 160 Mitgliedern, die für eine vierjährige Amtsdauer
 
 <sup>4</sup> Die Sitzverteilung an die Listen richtet sich nach den in den Wahlkreisen erzielten Parteistimmen.[^73-3]
 
-[^73-1]: Angenommen in der [Volksabstimmung vom 22. Sept. 2002](http://www.admin.ch/ch/d/pore/va/20020922/index.html), in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^73-2]: Angenommen in der [Volksabstimmung vom 22. Sept. 2002](http://www.admin.ch/ch/d/pore/va/20020922/index.html), in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
-[^73-3]: Angenommen in der [Volksabstimmung vom 30. Nov. 2008](http://www.admin.ch/ch/d/pore/va/20081130/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 1, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
+[^73-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2002, in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^73-2]: Angenommen in der Volksabstimmung vom 22. Sept. 2002, in Kraft seit 1. Jan. 2006. Gewährleistungsbeschluss vom 24. Sept. 2003 ([BBl 2003 6875](https://fedlex.data.admin.ch/eli/fga/2003/1134)Art. 1 Ziff. 1, [3388](https://fedlex.data.admin.ch/eli/fga/2003/488)).
+[^73-3]: Angenommen in der Volksabstimmung vom 30. Nov. 2008, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 10. Dez. 2009 ([BBl 2009 9137](https://fedlex.data.admin.ch/eli/fga/2009/1541)Art. 1 Ziff. 1, [5961](https://fedlex.data.admin.ch/eli/fga/2009/1077)).
 
 ### Rechtsetzung
 
@@ -903,7 +903,7 @@ Der Grosse Rat besteht aus 160 Mitgliedern, die für eine vierjährige Amtsdauer
 
 <sup>3</sup> Die Volksabstimmung gemäss Artikel 61 Absatz 1 Buchstabe a1 findet spätestens sechs Monate nach Inkrafttreten des dringlichen Gesetzes statt. Bei Ablehnung tritt das dringliche Gesetz unmittelbar nach der Volksabstimmung ausser Kraft.
 
-[^74a-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 3. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^74a-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 3. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 2; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 ### Planung
 
@@ -913,7 +913,7 @@ Der Grosse Rat besteht aus 160 Mitgliedern, die für eine vierjährige Amtsdauer
 
 Der Grosse Rat behandelt den Bericht über die Richtlinien der Regierungspolitik, den Aufgaben- und Finanzplan sowie weitere grundlegende Pläne in einzelnen Aufgabenbereichen.
 
-[^75-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^75-1]: Angenommen in der Volksabstimmung vom 24. Febr. 2008, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Finanzbefugnisse
 
@@ -927,8 +927,8 @@ Der Grosse Rat beschliesst über:
 - d. den Rahmen einer Neuverschuldung;
 - e.[^76-2] Ausgaben, soweit sie nicht in die Zuständigkeit des Regierungsrates oder der Justizverwaltungsleitung fallen.
 
-[^76-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^76-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^76-1]: Angenommen in der Volksabstimmung vom 24. Febr. 2008, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^76-2]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Wahlen
 
@@ -947,8 +947,8 @@ Der Grosse Rat wählt:
 
 <sup>2</sup> Das Gesetz kann ihm weitere Wahlen übertragen.
 
-[^77-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^77-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^77-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^77-2]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Aufsicht
 
@@ -963,8 +963,8 @@ Der Grosse Rat beaufsichtigt:
 
 <sup>2</sup> Er übt die Oberaufsicht über die Verwaltung und die anderen Träger öffentlicher Aufgaben aus.[^78-2]
 
-[^78-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^78-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^78-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^78-2]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Weitere Befugnisse
 
@@ -984,8 +984,8 @@ Der Grosse Rat:
 
 <sup>2</sup> Das Gesetz überträgt die Kompetenz zur Verleihung, Änderung, Erneuerung und Übertragung von wichtigen Konzessionen dem Grossen Rat.
 
-[^79-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^79-2]: Aufgehoben in der [Volksabstimmung vom 25. Sept. 2005](http://www.admin.ch/ch/d/pore/va/20050925/index.html), mit Wirkung seit 1. Juni 2006. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 1, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
+[^79-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^79-2]: Aufgehoben in der Volksabstimmung vom 25. Sept. 2005, mit Wirkung seit 1. Juni 2006. Gewährleistungsbeschluss vom 18. Juni 2007 ([BBl 2007 4933](https://fedlex.data.admin.ch/eli/fga/2007/694)Art. 1 Ziff. 1, [629](https://fedlex.data.admin.ch/eli/fga/2007/86)).
 
 ### Aufträge an den Regierungsrat, Grundsatzbeschlüsse
 
@@ -1041,7 +1041,7 @@ Der Grosse Rat:
 
 <sup>3</sup> Das Gesetz regelt die Mitwirkung des Regierungsrates bei der Vorbereitung der Geschäfte.
 
-[^83a-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^83a-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### 5.3 Regierungsrat
 
@@ -1051,7 +1051,9 @@ Der Grosse Rat:
 
 <sup>1</sup> Der Regierungsrat besteht aus sieben Mitgliedern.
 
-<sup>2</sup> Dem Berner Jura ist ein Sitz gewährleistet. Wählbar sind die französischsprachigen Stimmberechtigten, die in einem der drei Amtsbezirke Courtelary, Moutier oder La Neuveville wohnen.
+<sup>2</sup> Dem Berner Jura ist ein Sitz gewährleistet. Wählbar sind die französischsprachigen Stimmberechtigten, die in der Verwaltungsregion Berner Jura wohnen.[^84-1]
+
+[^84-1]: Zweiter Satz angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Wahl und Amtsdauer
 
@@ -1118,7 +1120,7 @@ Er beschliesst über:
 
 <sup>4</sup> Er stellt die notwendigen Finanzierungsmittel bereit.
 
-[^89-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^89-1]: Angenommen in der Volksabstimmung vom 24. Febr. 2008, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Weitere Befugnisse
 
@@ -1153,7 +1155,11 @@ Der Regierungsrat kann ohne gesetzliche Grundlage Massnahmen ergreifen, um einge
 
 <sup>3</sup> Ein angemessener Anteil des Personals ist französischer Sprache.
 
-### Bezirksverwaltung
+### Dezentrale Verwaltung
+
+[^lvl5-lvl54-lvlu2-1]
+
+[^lvl5-lvl54-lvlu2-1]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 #### Art. 93
 
@@ -1165,11 +1171,13 @@ Der Regierungsrat kann ohne gesetzliche Grundlage Massnahmen ergreifen, um einge
 
 <sup>3</sup> Das Gesetz legt die Aufgaben der Regierungsstatthalterinnen und Regierungsstatthalter fest.
 
-<sup>4</sup> Das Gesetz bestimmt, welche weiteren Regional- oder Kreisbehörden durch die Stimmberechtigten gewählt werden.
+<sup>4</sup> Es bestimmt, welche weiteren Regional- oder Kreisbehörden durch die Stimmberechtigten gewählt werden.[^93-2]
 
-<sup>5</sup> Das Gesetz bezeichnet die Amtsbezirke.
+<sup>5</sup> …[^93-3]
 
-[^93-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2006](http://www.admin.ch/ch/d/pore/va/20060924/index.html), in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^93-1]: Angenommen in der Volksabstimmung vom 24. Sept. 2006, in Kraft seit 1. Jan. 2010. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^93-2]: Angenommen in der Volksabstimmung vom 22. Sept. 2024, in Kraft seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
+[^93-3]: Aufgehoben in der Volksabstimmung vom 22. Sept. 2024, mit Wirkung seit 1. Jan. 2026. Gewährleistungsbeschluss vom 16. Juni 2026 ([BBl 2026 1668](https://fedlex.data.admin.ch/eli/fga/2026/1668)Art. 1, [771](https://fedlex.data.admin.ch/eli/fga/2026/771)).
 
 ### Regionale Aufgabenerfüllung
 
@@ -1210,7 +1218,7 @@ Durch Gesetz kann eine kantonale Ombudsstelle geschaffen werden.
 
 [^lvl5-lvl55-1]
 
-[^lvl5-lvl55-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^lvl5-lvl55-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Allgemeines
 
@@ -1224,9 +1232,9 @@ Durch Gesetz kann eine kantonale Ombudsstelle geschaffen werden.
 
 <sup>3</sup> Das Gesetz regelt die Organisation und die Zuständigkeit der Gerichte und der Staatsanwaltschaft.[^97-3]
 
-[^97-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^97-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^97-3]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97-2]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97-3]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Justizverwaltungsleitung
 
@@ -1246,7 +1254,7 @@ Die Justizverwaltungsleitung beschliesst über:
 - b. neue wiederkehrende Ausgaben bis 200 000 Franken;
 - c. gebundene Ausgaben.
 
-[^97a-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^97a-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Zivilgerichte
 
@@ -1262,8 +1270,8 @@ Die Zivilgerichtsbarkeit wird ausgeübt durch:
 
 <sup>2</sup> Durch Gesetz können besondere richterliche Behörden eingesetzt werden.[^98-2]
 
-[^98-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^98-2]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^98-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^98-2]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Strafgerichte
 
@@ -1281,9 +1289,9 @@ Die Strafgerichtsbarkeit wird ausgeübt durch:
 
 <sup>2</sup> Durch Gesetz können Verwaltungsstrafbefugnisse auch den Verwaltungsbehörden des Kantons und der Gemeinden übertragen werden. Die richterliche Überprüfung bleibt vorbehalten.
 
-[^99-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^99-2]: Aufgehoben in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), mit Wirkung seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
-[^99-3]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-2]: Aufgehoben in der Volksabstimmung vom 12. März 2023, mit Wirkung seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^99-3]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ### Verwaltungsgericht
 
@@ -1301,7 +1309,7 @@ Die Strafgerichtsbarkeit wird ausgeübt durch:
 
 Die Staatsanwaltschaft nimmt die ihr im Gesetz zugewiesenen Aufgaben im Bereich der Strafverfolgung wahr.
 
-[^100a-1]: Angenommen in der [Volksabstimmung vom 12. März 2023](http://www.admin.ch/ch/d/pore/va/20230312/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
+[^100a-1]: Angenommen in der Volksabstimmung vom 12. März 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 14. März 2024 ([BBl 2024 665](https://fedlex.data.admin.ch/eli/fga/2024/665)Art. 1; [2023 2671](https://fedlex.data.admin.ch/eli/fga/2023/2671)).
 
 ## 6 Finanzordnung
 
@@ -1333,7 +1341,7 @@ Die Staatsanwaltschaft nimmt die ihr im Gesetz zugewiesenen Aufgaben im Bereich 
 
 <sup>5</sup> Buchgewinne und Wertberichtigungen auf Anlagen des Finanzvermögens werden für die Anwendung der Absätze 1 und 2 nicht berücksichtigt.
 
-[^101a-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101a-1]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Schuldenbremse für die Investitionsrechnung
 
@@ -1351,11 +1359,11 @@ Die Staatsanwaltschaft nimmt die ihr im Gesetz zugewiesenen Aufgaben im Bereich 
 
 <sup>5</sup> Die Absätze 1–4 gelangen zur Anwendung, wenn die Nettoschuldenquote, definiert als Nettoschuld I relativ zum kantonalen Bruttoinlandprodukt, einen Wert von sechs Prozent übersteigt. Massgebend ist die Quote am Ende des vorausgegangenen Kalenderjahres.[^101b-5]
 
-[^101b-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
-[^101b-2]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
-[^101b-3]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
-[^101b-4]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
-[^101b-5]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-1]: Angenommen in der Volksabstimmung vom 24. Febr. 2008, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101b-2]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-3]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-4]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^101b-5]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 1. Jan. 2024. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 1, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 ### Steuererhöhungsbremse
 
@@ -1365,7 +1373,7 @@ Die Staatsanwaltschaft nimmt die ihr im Gesetz zugewiesenen Aufgaben im Bereich 
 
 Jede Erhöhung der Steueranlage durch den Grossen Rat, die gesamthaft zu mehr Steuereinnahmen des Kantons führt, bedarf der Zustimmung der Mehrheit seiner Mitglieder.
 
-[^101c-1]: Angenommen in der [Volksabstimmung vom 24. Febr. 2008](http://www.admin.ch/ch/d/pore/va/20080224/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
+[^101c-1]: Angenommen in der Volksabstimmung vom 24. Febr. 2008, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 18. Dez. 2008 ([BBl 2009 555](https://fedlex.data.admin.ch/eli/fga/2009/92)Art. 1 Ziff. 1; [2008 6053](https://fedlex.data.admin.ch/eli/fga/2008/1088)).
 
 ### Beschaffung von Mitteln
 
@@ -1455,10 +1463,10 @@ Der Kanton Bern kennt folgende Gemeindearten:
 
 <sup>5</sup> Der Kanton fördert den Zusammenschluss von Gemeinden.[^108-4]
 
-[^108-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
-[^108-2]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
-[^108-3]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
-[^108-4]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-1]: Angenommen in der Volksabstimmung vom 23. Sept. 2012, in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-2]: Angenommen in der Volksabstimmung vom 23. Sept. 2012, in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-3]: Angenommen in der Volksabstimmung vom 23. Sept. 2012, in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^108-4]: Angenommen in der Volksabstimmung vom 23. Sept. 2012, in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Gemeindeautonomie
 
@@ -1494,7 +1502,7 @@ Der Kanton Bern kennt folgende Gemeindearten:
 
 <sup>4</sup> Die Stimmberechtigten äussern ihren Willen in regionalen Abstimmungen. Stimmberechtigt sind die im Gebiet der Körperschaft wohnhaften, in kantonalen Angelegenheiten stimmberechtigten Personen.
 
-[^110a-1]: Angenommen in der [Volksabstimmung vom 17. Juni 2007](http://www.admin.ch/ch/d/pore/va/20070617/index.html), in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
+[^110a-1]: Angenommen in der Volksabstimmung vom 17. Juni 2007, in Kraft seit 1. Jan. 2008. Gewährleistungsbeschluss vom 12. Juni 2008 ([BBl 2008 5787](https://fedlex.data.admin.ch/eli/fga/2008/993)Art. 1 Ziff. 1, [1417](https://fedlex.data.admin.ch/eli/fga/2008/355)).
 
 ### Organisation
 
@@ -1526,7 +1534,7 @@ Der Kanton Bern kennt folgende Gemeindearten:
 
 <sup>3</sup> Durch einen Finanzausgleich ist die Steuerkraft der Einwohnergemeinden auszugleichen, und es sind ausgewogene Verhältnisse in der Steuerbelastung anzustreben. In den gesetzlich vorgesehenen Fällen können Leistungen aus dem Finanzausgleich gekürzt oder verweigert werden.[^113-1]
 
-[^113-1]: Angenommen in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^113-1]: Angenommen in der Volksabstimmung vom 23. Sept. 2012, in Kraft seit 1. Jan. 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 2, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Stimmrecht
 
@@ -1766,12 +1774,6 @@ Amt
 - – Unvereinbarkeiten, Ausstand 68
 - – Wählbarkeit 67
 
-Amtsbezirke
-
-- – Amtssprachen 6
-- – Gliederung des Kantons 3
-- – Verwaltungseinheiten 93
-
 Amtsdauer
 
 - – ausserordentliche 57
@@ -1819,7 +1821,7 @@ Antragsrecht
 Aufgabenerfüllung
 
 - – Kanton
-  - – durch Bezirksverwaltung 93
+  - – durch die dezentrale Verwaltung 93
   - – durch mittelbare Verwaltung 95
   - – durch regionale Organisationen 3, 94
   - – durch Zentralverwaltung 92
@@ -2124,7 +2126,6 @@ Freiheit
 Gebiet
 
 - – Kantonsgebiet 3
-- – Gebiet der Amtsbezirke 93
 - – Gebiet der Gemeinden 108
 
 **Gebietsveränderungen** 61
@@ -2662,7 +2663,7 @@ Referendum
 
 **Regierungsratspräsident/in** Wahl 77
 
-**Regierungsstatthalter/innen** 93
+**Regierungsstatthalter/-innen** 93
 
 - – Ausstand 68
 - – Unvereinbarkeit 68
@@ -2988,9 +2989,6 @@ Vernehmlassungen
   - – Volksvorschlag 63
   - – Wahlen 56, 57
 
-- – Amtsbezirke
-  - – Wahlen 93
-
 - – Gemeinden
   - – Abstimmungen 116
   - – Initiativen 117
@@ -3028,10 +3026,6 @@ Voranschlag
 Wahlen
 
 - – durch das Volk
-  - – Amtsbezirke
-    - – andere Behörden 93
-    - – Regierungsstatthalter 93
-
   - – Gemeinden
     - – Gemeindeparlament 115
     - – Gemeinderat 115
