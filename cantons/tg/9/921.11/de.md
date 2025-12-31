@@ -1,27 +1,26 @@
 ---
 canton: TG
 number: "921.11"
-title: Verordnung des Regierungsrates zum Waldgesetz
-short: TG WaldV
+title: Waldverordnung
+short: WaldV
 language: de
-version: 2014-04-01
-valid_until: 2025-12-31
-version_adopted: 2014-02-25
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 1996-03-26
 in_force: 1996-04-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/921.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2309/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2953/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates zum Waldgesetz
+# Waldverordnung
 
-TG WaldV
+WaldV
 
-(TG WaldV)
+(WaldV)
 
-vom 26.03.1996 (Stand 01.04.2014)
+vom 26.03.1996 (Stand 01.01.2026)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -29,22 +28,34 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Zuständigkeit des Departementes**
 
-<sup>1</sup> Das Departement für Bau und Umwelt ist zuständiges Departement im Sinne des Gesetzes. Es übt die direkte Aufsicht über den Vollzug der Waldgesetzgebung von Bund und Kanton aus.
+<sup>1</sup> Das Departement für Bau und Umwelt ist zuständiges Departement im Sinne des Waldgesetzes (WaldG)[^1-1]. Es übt die direkte Aufsicht über den Vollzug der Waldgesetzgebung von Bund und Kanton aus.
 
 <sup>2</sup> Es ist zuständig für:
 
 - 1\. den Entscheid über Bewilligungsgesuche für Veranstaltungen im Wald;
 - 2\. Entnahmen aus dem Waldfonds bis zu einer Höhe von Fr. 50'000;
 - 3\. Abgrenzungen von Wald und Nutzungszonen;
-- 4\. den Erlass forstlicher Planungs- und Bewirtschaftungsvorschriften.
+- 4\. den Erlass forstlicher Planungs- und Bewirtschaftungsvorschriften;
+- 5\. die Forstreviereinteilung und die Festlegung der Aufgaben der Forstreviere.
+
+[^1-1]: RB [921.1](https://www.rechtsbuch.tg.ch/data/921.1/de)
 
 #### § 2
 
 **Zuständigkeit des Forstdienstes**
 
-<sup>1</sup> Das Kantonsforstamt führt die direkte Aufsicht über das Forstwesen. Es vollzieht die Waldgesetzgebung von Bund und Kanton, soweit keine anderweitigen Zuständigkeiten festgelegt sind.
+<sup>1</sup> Das Forstamt führt die Aufsicht über das Forstwesen und vollzieht die Waldgesetzgebung von Bund und Kanton, soweit keine anderweitigen Zuständigkeiten festgelegt sind.
 
-<sup>2</sup> Die Forstkreise bewilligen Holznutzungen, wo dies nach § 25 des Gesetzes notwendig ist. Sie sorgen für die Anzeichnung.
+<sup>1<sup>bis</sup></sup> Es führt den Staatsforstbetrieb.
+
+<sup>2</sup> Die Kreisforstingenieurinnen und Kreisforstingenieure sind zuständig für:
+
+- 1\. Bewilligungen von Holznutzungen nach § 25 Abs. 1 WaldG unter Vorbehalt von § 26 Abs. 3
+- 2\. Ausnahmen vom Kahlschlagverbot nach Art. 22 des Bundesgesetzes über den Wald (WaG)[^2-1]
+
+<sup>3</sup> Sie sorgen vor der Ausführung von Holznutzungen für die Anzeichnung durch die Revierförsterinnen und Revierförster.
+
+[^2-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
 
 #### § 3
 
@@ -60,25 +71,21 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 #### § 4
 
-**Auflage, Bekanntmachung**
+**Auflage, Bekanntmachung, Inkraftsetzung**
 
-<sup>1</sup> Die Gemeinden legen Rodungsgesuche, Waldfeststellungen und Betriebspläne öffentlich auf und machen die Auflage in ortsüblicher Form sowie im Amtsblatt bekannt.
+<sup>1</sup> Die Gemeinden sorgen nach Weisung der zuständigen kantonalen Behörde für die öffentliche Auflage von Ausführungsplänen, Rodungsgesuchen, Waldfeststellungen und Waldreservaten und machen die Auflage in ortsüblicher Form sowie im Amtsblatt bekannt.
 
 <sup>2</sup> Für Rodungsgesuche und Waldfeststellungen sind die betroffenen Waldeigentümer mit Wohnsitz ausserhalb des Kantons und schweizerischem Zustelldomizil auf die Auflage hinzuweisen.
 
-<sup>3</sup> Die Auflagefrist für Waldfeststellungen, die nicht der Abgrenzung von Wald und Nutzungszonen dienen, beträgt 20 Tage.
+<sup>2<sup>bis</sup></sup> Die Gemeinde leitet die Gesuchsunterlagen und die Pläne mit ihrer Stellungnahme innert 20 Tagen an die zuständige kantonale Behörde weiter.
 
-<sup>4</sup> Regionale Waldpläne werden während 30 Tagen öffentlich bekanntgemacht.
+<sup>2<sup>ter</sup></sup> Die für den Erlass zuständige Behörde beschliesst den Zeitpunkt des Inkrafttretens der Pläne und Vorschriften und meldet diesen der für die Führung des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen zuständigen kantonalen Stelle.
+
+<sup>3–4</sup> …
 
 #### § 5
 
-**Einsprache**
-
-<sup>1</sup> Wer durch ein Rodungsvorhaben oder eine Waldfeststellung berührt ist und ein schutzwürdiges Interesse nachweist, kann während der Auflagefrist bei der Gemeindebehörde schriftlich und begründet Einsprache einreichen.
-
-<sup>2</sup> Diese leitet die Auflageunterlagen und die Einsprachen mit einer Stellungnahme innert 20 Tagen an das Kantonsforstamt weiter.
-
-<sup>3</sup> Die Einsprachen gegen die Betriebspläne sind an das Kantonsforstamt zu richten.
+**…**
 
 ## 2. Forstorganisation
 
@@ -88,9 +95,9 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 <sup>1</sup> Zahl und Grösse der Forstreviere sind nach der Waldfläche, der Eigentumsstruktur und den forstlichen Verhältnissen so festzulegen, dass sich für die Beförsterung eine zweckmässige personelle Zusammensetzung und Infrastruktur ergibt.
 
-<sup>2</sup> Das Departement legt die Aufgaben der Forstreviere fest und entscheidet über die Forstreviereinteilung.
+<sup>2</sup> …
 
-<sup>3</sup> Die Forstreviere werden von Revierförstern oder von Revierförsterinnen geleitet. Deren Anstellung ist vom Kantonsforstamt zu genehmigen.
+<sup>3</sup> Die Forstreviere werden von Revierförsterinnen oder von Revierförstern geleitet. Deren Anstellung ist vom Forstamt zu genehmigen.
 
 <sup>4</sup> Besoldung und Anstellungsbedingungen für Revierförster und Revierförsterinnen richten sich sinngemäss nach den personalrechtlichen Bestimmungen des Kantons.
 
@@ -106,49 +113,51 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Rodungsgesuch**
 
-<sup>1</sup> Das Rodungsgesuch ist in vierfacher Ausführung bei der Behörde der betroffenen Gemeinde einzureichen.
+<sup>1</sup> Das Rodungsgesuch ist mit dem vollständig ausgefüllten und unterzeichneten Formular des Bundesamts für Umwelt bei der Gemeinde einzureichen.
 
-<sup>2</sup> Es hat folgende Unterlagen zu enthalten:
+<sup>2</sup> Dem Rodungsgesuch sind folgende Unterlagen beizulegen:
 
-- 1\. einen Kartenausschnitt 1:25 000 mit Eintrag der Rodungs- und Ersatzflächen;
-- 2\. einen Grundbuchplan, der die Rodungsfläche und die Ersatzleistungen bezeichnet;
-- 3\. den Nachweis, dass die Rodungsvoraussetzungen gemäss Art. 5 des Bundesgesetzes[^8-1] erfüllt sind;
-- 4\. den Nachweis, dass Rodung und Ersatzleistung flächenmässig und qualitativ gleichwertig sind;
-- 5\. ein Gestaltungskonzept für das Rodungs- und Aufforstungsgebiet.
-
-[^8-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
+- 1\. Kartenausschnitt im Massstab 1:25'000 mit den Koordinaten der Rodungs- und der Ersatzaufforstungsfläche
+- 2\. Detailplan im Massstab 1:500 oder 1:1'000, der die Rodungsfläche und die Ersatzaufforstungsfläche bezeichnet, wobei die definitive und die temporäre Rodungsfläche deutlich zu kennzeichnen sind
+- 3\. Nachweis, dass die Rodungsvoraussetzungen gemäss Art. 5 WaG erfüllt sind
+- 4\. Nachweis, dass Rodung und Ersatzaufforstung flächenmässig und qualitativ gleichwertig sind
+- 5\. weitere Pläne und Unterlagen, die zur Prüfung des Gesuchs notwendig sind
 
 #### § 9
 
 **Ausgleich**
 
-<sup>1</sup> Die Höhe der Ausgleichszahlung nach § 9 des Gesetzes wird aufgrund einer kostenpflichtigen Schatzung der kantonalen Schätzungskommission der Liegenschaften festgelegt. Massgebend sind dabei die marktorientierten Verkehrswerte.
+<sup>1</sup> Die Höhe der Ausgleichszahlung nach § 9 WaldG wird gestützt auf eine amtliche Liegenschaftenschätzung gemäss Grundstücksschätzungsverordnung (SchäV)[^9-1] festgelegt.
+
+[^9-1]: RB [640.12](https://www.rechtsbuch.tg.ch/data/640.12/de)
 
 #### § 10
 
-**Waldfeststellungsverfahren**
-
-<sup>1</sup> Wer ein schutzwürdiges Interesse hat, kann vom Kantonsforstamt auf eigene Kosten feststellen lassen, ob eine Fläche Wald ist.
+**…**
 
 #### § 11
 
 **Abgrenzung von Wald und Nutzungszonen**
 
-<sup>1</sup> Waldfeststellungen nach § 11 des Gesetzes sind vorzunehmen bei Zonenplanänderungen, die den unmittelbaren Anstoss von Nutzungszonen an das Waldareal betreffen. Bestehen in diesen Bereichen rechtskräftige Waldfeststellungspläne, sind sie im Rahmen der Zonenplanänderung zu überprüfen.
+<sup>1</sup> Rechtskräftige Waldgrenzen können im Verfahren nach § 11 WaldG überprüft werden, wenn die Nutzungspläne revidiert werden und sich die tatsächlichen Verhältnisse wesentlich geändert haben.
 
-<sup>2</sup> Die Behörde der betroffenen Gemeinde veranlasst nach den Weisungen des Kantonsforstamtes die koordinatenmässige Aufnahme der Waldfläche und soweit erforderlich den Eintrag in besondere Waldfeststellungspläne.
+<sup>2</sup> Die Gemeinde veranlasst nach den Weisungen des Forstamts die koordinatenmässige Aufnahme der neuen und der aufzuhebenden Waldgrenzen.
 
-<sup>3</sup> Das Departement bestimmt, nach Ablauf der Auflagefrist oder nach rechtskräftiger Erledigung allfälliger Rechtsmittel, den Zeitpunkt des Inkrafttretens der Waldfeststellungspläne zur Abgrenzung von Wald und Nutzungszonen und meldet diesen der für die Führung des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen zuständigen kantonalen Stelle.
+<sup>3</sup> …
 
 <sup>4</sup> Die Gemeinden tragen die Kosten für Waldfeststellungen zur Abgrenzung von Wald und Bauzonen.
 
-<sup>5</sup> Der Kanton trägt die Kosten für die von ihm veranlasste erstinstanzliche Festlegung statischer Waldgrenzen ausserhalb der Bauzonen.
+<sup>5</sup> …
 
 #### § 12
 
 **Nachführung von Waldgrenzen**
 
-<sup>1</sup> Die Gemeinden veranlassen in der amtlichen Vermessung die Nachführung der durch Waldfeststellungen oder Rodungsbewilligungen rechtskräftig festgelegten Waldgrenzen.
+<sup>1</sup> Das Forstamt beantragt dem Departement die Nachführung der Waldgrenzen in den Waldfeststellungsplänen nach Eintritt der Rechtskraft von Rodungsbewilligungen.
+
+<sup>2</sup> Es veranlasst in der amtlichen Vermessung die Nachführung der rechtskräftig festgelegten Waldgrenzen.
+
+<sup>3</sup> Die Kosten für die Nachführung der Waldgrenzen in der amtlichen Vermessung infolge einer Rodung tragen die Gesuchstellerinnen und Gesuchsteller.
 
 #### § 13
 
@@ -160,31 +169,36 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Meldepflicht für Veranstaltungen im Wald**
 
-<sup>1</sup> Veranstaltungen, die Wald beanspruchen, sind dem Kantonsforstamt zu melden, sofern mehr als 100 Beteiligte erwartet werden oder technische Hilfsmittel wie Licht- oder Verstärkeranlagen zum Einsatz gelangen. Vorbehalten bleiben § 16 und § 17.
+<sup>1</sup> Unter Vorbehalt von § 16 und § 17 unterstehen Veranstaltungen, die Wald beanspruchen, der Meldepflicht,
 
-<sup>2</sup> Die Meldung hat in der Regel drei Monate vor der Durchführung zu erfolgen sowie Angaben über die Art der Veranstaltung, die voraussichtliche Anzahl der Beteiligten und eine Karte mit den beanspruchten Flächen zu enthalten.
+- 1\. wenn mehr als 100 Beteiligte erwartet werden oder
+- 2\. technische Hilfsmittel wie Licht- oder Verstärkeranlagen eingesetzt werden.
+
+<sup>2</sup> Die Meldung ist mit dem ausgefüllten Formular des Forstamts und unter Beilage der darin erwähnten Unterlagen mindestens sechs Wochen vor der Durchführung beim Forstamt einzureichen.
 
 #### § 15
 
 **Bewilligungspflicht für Veranstaltungen im Wald**
 
-<sup>1</sup> Unter Vorbehalt von § 16 und § 17 unterstehen der Bewilligungspflicht:
+<sup>1</sup> Unter Vorbehalt von § 16 und § 17 unterstehen Veranstaltungen, die Wald beanspruchen, der Bewilligungspflicht,
 
-- 1\. alle meldepflichtigen Veranstaltungen, die in den regionalen Waldplänen ausgewiesene Schutzgebiete oder Flächen in Reservaten beanspruchen;
-- 2\. Sportveranstaltungen im Wald, sofern die Bewilligungspflicht in den gemeinsamen Richtlinien des Departementes für Bau und Umwelt und des Departementes für Erziehung und Kultur vorgesehen ist;
-- 3\. andere Veranstaltungen, die den Wald beanspruchen, mit voraussichtlich mehr als 500 Beteiligten.
+- 1\. wenn eine meldepflichtige Veranstaltung nach § 14 vorliegt und die im Waldentwicklungsplan ausgewiesenen Schutzgebiete oder Flächen in Reservaten beansprucht werden oder
+- 2\. …
+- 3\. wenn mehr als 500 Beteiligte erwartet werden.
+
+<sup>1<sup>bis</sup></sup> Das Gesuch ist mit dem ausgefüllten Formular des Forstamts und unter Beilage der darin aufgeführten Unterlagen mindestens sechs Monate vor der Durchführung beim Forstamt einzureichen.
 
 <sup>2</sup> Die Bewilligung kann mit Auflagen und Bedingungen versehen werden. Sie kann insbesondere dann verweigert werden, wenn Zeitpunkt, Ort oder Routenführung ungeeignet oder übermässige Immissionen zu erwarten sind.
 
-<sup>3</sup> Die betroffenen Gemeinden, Forstrevierkörperschaften und Jagdgesellschaften sind vor dem Entscheid anzuhören.
+<sup>3</sup> Die betroffenen kantonalen Fachstellen sowie die betroffenen Gemeinden, Forstrevierkörperschaften und Jagdgesellschaften sind vor dem Entscheid anzuhören.
 
 #### § 16
 
-**Sportveranstaltungen im Wald**
+**Radsportliche Veranstaltungen im Wald**
 
-<sup>1</sup> Die Melde- und Bewilligungspflicht für Sportveranstaltungen im Wald richtet sich nach den gemeinsamen Richtlinien des Departementes für Bau und Umwelt sowie des Departementes für Erziehung und Kultur.
+<sup>1</sup> …
 
-<sup>2</sup> Radsportliche Veranstaltungen bedürfen einer Bewilligung des Departementes für Justiz und Sicherheit nach § 4 der Verordnung des Regierungsrates zum Strassenverkehrsgesetz und den Nebenerlassen[^16-1].
+<sup>2</sup> Radsportliche Veranstaltungen bedürfen einer Bewilligung des Departementes für Justiz und Sicherheit nach § 4 der Verordnung des Regierungsrates zum Strassenverkehrsgesetz und den Nebenerlassen[^16-1]. Das Forstamt ist vorgängig anzuhören.
 
 [^16-1]: RB [741.2](https://www.rechtsbuch.tg.ch/data/741.2/de)
 
@@ -205,7 +219,9 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 <sup>2</sup> Betroffene Eigentümer und Jagdgesellschaften sowie der Forstdienst können der Gemeindebehörde solche Einschränkungen beantragen.
 
-<sup>3</sup> Die Gemeindebehörde berücksichtigt bei ihrem Entscheid insbesondere die regionalen Waldpläne und wendet die gemeinsamen Richtlinien des Departementes für Bau und Umwelt sowie des Departementes für Erziehung und Kultur sinngemäss an.
+<sup>3</sup> Die Gemeindebehörde berücksichtigt bei ihrem Entscheid insbesondere den Waldentwicklungsplan und wendet die gemeinsame Richtlinie des Departementes für Bau und Umwelt sowie des Departementes für Erziehung und Kultur[^18-1] sinngemäss an.
+
+[^18-1]: [https://forstamt.tg.ch/public/upload/assets/167313/Richtlinie%20f%C3%BCr%20Veranstaltungen%20im%20Thurgauer%20Wald\_%202020.pdf?fp=1](https://forstamt.tg.ch/public/upload/assets/167313/Richtlinie%20f%C3%BCr%20Veranstaltungen%20im%20Thurgauer%20Wald_%202020.pdf?fp=1)
 
 #### § 19
 
@@ -219,33 +235,32 @@ vom 26.03.1996 (Stand 01.04.2014)
 - 4\. mit dem Bau oder Unterhalt von Werken im Wald beauftragt ist;
 - 5\. über eine Ausnahmebewilligung nach § 3 der Verordnung des Regierungsrates zum Strassenverkehrsgesetz und den Nebenerlassen verfügt.
 
+#### § 19a
+
+**Befestigte Waldwege**
+
+<sup>1</sup> Befestigte Waldwege im Sinne von § 14 Abs. 1 WaldG sind mit zugeführtem Schotter, Kies oder ähnlichem Material, das den übergeordneten Vorgaben entspricht, verstärkt und in der Regel zwischen 1 m und 3 m breit.
+
 #### § 20
 
-**Nachteilige Nutzungen**
-
-<sup>1</sup> Unzulässige nachteilige Nutzungen im Sinne von Art. 16 Abs. 1 des Bundesgesetzes[^20-1] sind insbesondere:
-
-- 1\. das Niederhalten von Bäumen;
-- 2\. die Waldweide;
-- 3\. dauernde Christbaumkulturen;
-- 4\. das Abstellen nichtforstlicher Maschinen und Geräte.
-
-<sup>2</sup> Ausnahmen können bewilligt werden, wenn wichtige Gründe nachgewiesen werden und die nachhaltige Bewirtschaftung nicht beeinträchtigt wird.
-
-[^20-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
+**…**
 
 #### § 21
 
 **Bauten und Anlagen**
 
-<sup>1</sup> Die Zustimmung für forstliche Bauten oder Anlagen wird erteilt, wenn ihre Erstellung für eine sachgerechte Waldbewirtschaftung erforderlich ist. Für geschlossene Waldhütten ist hierfür insbesondere ein arrondiertes Waldeigentum von mindestens 15 ha erforderlich.
+<sup>1</sup> Die Zustimmung für forstliche Bauten oder Anlagen wird erteilt, wenn ihre Erstellung für eine sachgerechte Waldbewirtschaftung erforderlich ist.
 
-<sup>2</sup> Für Erholungseinrichtungen ist es neben den Voraussetzungen von § 15 Abs. 2 des Gesetzes erforderlich, dass
+<sup>2</sup> Die Zustimmung für Erholungseinrichtungen wird nur erteilt, wenn
 
-- 1\. eine öffentlich-rechtliche Körperschaft als Gesuchstellerin auftritt
+- 1\. die Voraussetzungen von § 15 Abs. 2 WaldG erfüllt sind,
+- 1a. eine öffentlich-rechtliche Körperschaft als Gesuchstellerin auftritt,
 - 2\. das Vorhaben keine zusätzliche Erschliessung nach sich zieht.
 
-<sup>3</sup> Als Kleinbauten im Sinne von Art. 14 der Bundesverordnung[^21-1] gelten eingeschossige Bauten von höchstens 40 m² Grundfläche.
+<sup>3</sup> Nichtforstliche Kleinbauten oder -anlagen im Sinne von Art. 14 Abs. 2 der Verordnung über den Wald (WaV)[^21-1] beanspruchen den Waldboden nur punktuell oder in unbedeutender Art und Weise. Als nichtforstliche Kleinbauten oder -anlagen gelten insbesondere:
+
+- 1\. unbewohnte Kleinbauten von höchstens 40 m² Grundfläche und einer Gesamthöhe von 4.5 m
+- 2\. bescheidene Rastplätze, Feuerstellen, Lehrpfade und Vitaparcours
 
 [^21-1]: SR [921.01](https://db.clex.ch/link/Bund/921.01/de)
 
@@ -253,12 +268,12 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Abstände**
 
-<sup>1</sup> Bei der Verjüngung von Wald haben hoch wachsende Bäume folgende Mindestabstände einzuhalten:
+<sup>1</sup> Bei der künstlichen Verjüngung von Wald haben hochwachsende Bäume folgende Mindestabstände einzuhalten:
 
-- 1\. gegen anstossende Waldparzellen und Waldstrassengrenzen 1 m;
-- 2\. gegen die offene Flur, Flurstrassen und Eisenbahnanlagen 5 m.
+- 1\. gegen anstossende Waldparzellen und Waldstrassengrenzen 1 m
+- 2\. gegen die offene Flur, Flurstrassen und Eisenbahnanlagen 5 m
 
-<sup>2</sup> Bei der Neuanlage von Wald ist die Waldgrenze so anzulegen, dass folgende Abstände eingehalten werden:
+<sup>2</sup> Bei Ersatzaufforstungen ist die Waldgrenze so anzulegen, dass folgende Abstände eingehalten werden:
 
 - 1\. gegen Nachbargrundstücke in der offenen Flur auf der Ost-, Süd- und Westseite 5 m, auf der Nordseite 10 m;
 - 2\. gegen Strassen und Wege 4 m;
@@ -271,9 +286,17 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Naturnaher Waldbau**
 
-<sup>1</sup> Der naturnahe Waldbau richtet sich nach den Erkenntnissen der Standortkartierung und berücksichtigt bei der Bewirtschaftung die natürlichen Wachstumsabläufe. In der Regel ist Naturverjüngung anzustreben.
+<sup>1</sup> Der naturnahe Waldbau gemäss § 18 WaldG:
 
-<sup>2</sup> Der Waldsaum ist als in der Regel 5 bis 15 m breiter Streifen aus Sträuchern und niedrig wachsenden Bäumen anzulegen und zu pflegen.
+- 1\. fördert das Artenspektrum der natürlich vorkommenden Waldgesellschaften sowie die strukturelle und genetische Vielfalt
+- 2\. bezweckt die Erhöhung der Widerstandsfähigkeit und der Stabilität der Bestände im Hinblick auf die Auswirkungen des Klimawandels
+- 3\. gewährleistet eine bodenschonende Bewirtschaftung
+- 4\. berücksichtigt die natürlichen Wachstumsabläufe und die Standortkartierung
+- 5\. belässt eine angemessene Menge Totholz vor Ort
+- 6\. strebt Naturverjüngung an
+- 7\. legt gebuchtete oder stufige Waldränder als in der Regel 5 m bis 15 m breite Streifen aus Sträuchern, niedrig wachsenden Bäumen und einzelnen alten Bäumen an
+
+<sup>2</sup> …
 
 #### § 24
 
@@ -291,9 +314,13 @@ vom 26.03.1996 (Stand 01.04.2014)
 - 8\. Massnahmen zur Erhaltung und Förderung von schützenswerten Waldgesellschaften und Naturobjekten;
 - 9\. das Verfahren zur Erfolgskontrolle.
 
-<sup>2</sup> Regionale Waldpläne (Waldentwicklungspläne) werden flächendeckend und eigentumsübergreifend erstellt.
+<sup>2</sup> Der Waldentwicklungsplan wird flächendeckend und eigentumsübergreifend erstellt.
 
-<sup>3</sup> Betriebspläne im Sinne von § 21 Abs. 2 und Abs. 3 des Gesetzes werden in einem Ausführungsplan für das ganze Forstrevier zusammengefasst. Daten und Planung für Waldeigentümer mit einer Fläche von mehr als 40 ha werden dabei gesondert ausgewiesen.
+<sup>3</sup> Die Ausführungspläne haben Daten und Planung für Waldeigentümerinnen und Waldeigentümer mit einer Fläche von mehr als 40 ha gesondert auszuweisen.
+
+<sup>4</sup> Im Übrigen gelten die forstlichen Planungsvorschriften des Departementes für Bau und Umwelt[^24-1].
+
+[^24-1]: RB [921.141](https://www.rechtsbuch.tg.ch/data/921.141/de)
 
 #### § 25
 
@@ -303,9 +330,15 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Bewilligungen für Holznutzungen**
 
-<sup>1</sup> Bewilligungen gemäss § 25 Abs. 1 des Gesetzes werden erteilt, wenn die Holznutzung den Zielen der forstlichen Planung entspricht und keine Gefährdung für Nachbarbestände entsteht.
+<sup>1</sup> Das Gesuch ist mit dem ausgefüllten Formular des Forstamts bei der Kreisforstingenieurin oder beim Kreisforstingenieur vor der Ausführung einzureichen.
+
+<sup>1<sup>bis</sup></sup> Die Bewilligung wird erteilt, wenn die geplante Holznutzung den Zielen der forstlichen Planung entspricht und keine Gefährdung für Nachbarbestände entsteht. Sie kann mit Auflagen oder Bedingungen verbunden werden.
 
 <sup>2</sup> Ausnahmen vom Kahlschlagverbot nach Art. 22 des Bundesgesetzes[^26-1] werden nur bewilligt, soweit dies für Sicherheitsschläge zum Schutze von Menschen oder von erheblichen Sachwerten oder für die Verjüngung von Lichtbaumarten notwendig ist.
+
+<sup>3</sup> Holznutzungen, die in den Ausführungsplänen vorgesehen sind, gelten mit Inkrafttreten der Ausführungspläne als bewilligt und bedürfen lediglich der Anzeichnung durch die Revierförsterinnen oder Revierförster.
+
+<sup>4</sup> Wird die Bewilligung nach Abs. 1<sup>bis</sup> oder Abs. 2 oder die Anzeichnung nach Abs. 3 ganz oder teilweise verweigert, können die Gesuchstellerinnen und Gesuchsteller innert 30 Tagen einen Entscheid des Forstamts verlangen.
 
 [^26-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
 
@@ -317,7 +350,7 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 <sup>2</sup> Einlagepflichtig sind:
 
-- 1\. Verminderung des Waldvermögens wie Waldverkäufe und Einräumung von Dienstbarkeiten;
+- 1\. Erträge aus der Verminderung des Waldvermögens wie Waldverkäufe und Einräumung von Dienstbarkeiten;
 - 2\. Reinerträge aus Holzverkäufen, welche die in der forstlichen Planung festgelegte Nutzung um mehr als einen Drittel übersteigen.
 
 <sup>3</sup> Zu Entnahmen berechtigen:
@@ -331,15 +364,21 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Waldteilung und Veräusserung**
 
-<sup>1</sup> Waldteilungen können bewilligt werden, wenn
+<sup>1</sup> Die Teilung oder die Veräusserung von Wald können bewilligt werden, wenn
 
 - 1\. die neue und die verbleibende Parzelle in der Regel mehr als 1 ha Fläche aufweisen,
-- 2\. der Zugang für die Pflege und Nutzung des Waldes sichergestellt bleibt und
-- 3\. aufgrund der Ziele der forstlichen Planung der Waldteilung nichts entgegensteht.
+- 2\. der Zugang für die Pflege und Nutzung des Waldes sichergestellt bleibt,
+- 3\. aufgrund der Ziele der forstlichen Planung der Waldteilung nichts entgegensteht,
+- 4\. der Zweck einer erfolgten Waldzusammenlegung nicht beeinträchtigt wird.
 
-<sup>2</sup> In zusammengelegten Waldgebieten darf zudem der Zweck der Waldzusammenlegung durch eine Teilung nicht beeinträchtigt werden.
+<sup>2</sup> …
 
-<sup>3</sup> Bedarf die Veräusserung oder Teilung von Wald zugleich einer Bewilligung nach dem Bundesgesetz über das bäuerliche Bodenrecht[^28-1], entscheidet das Landwirtschaftsamt im Einvernehmen mit dem Kantonsforstamt auch über die Veräusserung oder Teilung des Waldes.
+<sup>2<sup>bis</sup></sup> Die Teilung oder die Veräusserung von Ufergehölzen im Sinne von § 3 können unabhängig von den Voraussetzungen gemäss Abs. 1 Ziff. 1 und Ziff. 3 bewilligt werden, wenn
+
+- 1\. die Ufergehölze an eine Bauzone grenzen,
+- 2\. die Bebaubarkeit der Standortparzelle verbessert wird.
+
+<sup>3</sup> Bedarf die Veräusserung oder die Teilung von Wald zugleich einer Bewilligung nach dem Bundesgesetz über das bäuerliche Bodenrecht[^28-1], entscheidet das Landwirtschaftsamt im Einvernehmen mit dem Forstamt auch über die Teilung oder die Veräusserung des Waldes.
 
 [^28-1]: SR [211.412.11](https://db.clex.ch/link/Bund/211.412.11/de)
 
@@ -349,9 +388,7 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 <sup>1</sup> Die periodische Überprüfung der Wildschadensituation umfasst insbesondere Erhebungen zur Verbissbelastung sowie die Beurteilung der Notwendigkeit von Einzäunungen.
 
-<sup>2</sup> Das Kantonsforstamt beantragt dem Departement für Justiz und Sicherheit die notwendigen Massnahmen zur Regulierung des Wildbestandes im Sinne von Art. 27 Abs. 2 des Bundesgesetzes[^29-1].
-
-[^29-1]: SR [921.0](https://db.clex.ch/link/Bund/921.0/de)
+<sup>2</sup> Das Forstamt beantragt dem Departement für Justiz und Sicherheit die notwendigen Massnahmen zur Regulierung des Wildbestandes im Sinne von Art. 27 Abs. 2 WaG.
 
 ## 4a. Waldreservate
 
@@ -373,7 +410,7 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Öffentliche Auflage**
 
-<sup>1</sup> Pläne und zugehörige Vorschriften sind während 20 Tagen öffentlich aufzulegen. Vor der Planauflage sind die betroffenen Grundeigentümer anzuhören.
+<sup>1</sup> Pläne und zugehörige Vorschriften sind während 30 Tagen öffentlich aufzulegen. Vor der Planauflage sind die betroffenen Grundeigentümerinnen und Grundeigentümer anzuhören.
 
 <sup>2</sup> Bei kantonalen Waldreservaten veranlasst das Departement nach Anordnung des Regierungsrates die öffentliche Auflage. Bei kommunalen Waldreservaten ist die öffentliche Auflage Sache der zuständigen Gemeindebehörde.
 
@@ -390,9 +427,9 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 #### § 29e
 
-**Erlass**
+**Inkraftsetzung und Genehmigung**
 
-<sup>1</sup> Der Regierungsrat legt nach Erledigung allfälliger Rechtsmittel kantonale Waldreservate fest und erlässt die zugehörigen Vorschriften.
+<sup>1</sup> Die Inkraftsetzung von kantonalen Waldreservaten richtet sich sinngemäss nach § 4 Abs. 2<sup>ter</sup>.
 
 <sup>2</sup> Die Festlegung von kommunalen Waldreservaten und der Erlass zugehöriger Vorschriften bedürfen der Genehmigung des Regierungsrates.
 
@@ -408,49 +445,51 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Aus-, Fort- und Weiterbildung**
 
-<sup>1</sup> Die Ausbildung der Förster und Försterinnen erfolgt an einer Höheren Forstlichen Fachschule.
+<sup>1</sup> …
 
-<sup>2</sup> Das Departement erlässt ein Reglement für die Aus-, Fort- und Weiterbildung der Waldarbeiter und Waldarbeiterinnen.
+<sup>2</sup> Das Forstamt erlässt eine Weisung über die Ausbildung von Waldarbeiterinnen und Waldarbeitern.
 
-<sup>3</sup> Forstbetriebe im Sinne von § 28 Abs. 1 des Gesetzes sind Betriebe von Bund, Kanton, Gemeinden, Korporationen oder Forstrevierkörperschaften.
+<sup>3</sup> …
 
 #### § 30a
 
-**Forstwarte**
+**Forstwartinnen und Forstwarte**
 
-<sup>1</sup> Dem Kantonsforstamt obliegen im Rahmen der Berufsbildung der Forstwarte insbesondere:
-
-- 1\. Durchführung von Einführungskursen;
-- 2\. Durchführung von Weiterbildungskursen für Lehrmeister und Lehrmeisterinnen;
-- 3\. Erlass von Richtlinien über die Löhne der Lehrlinge und Lehrtöchter und Anlehrlinge;
-- 4\. Antragsstellung für die Ernennung des Chefexperten oder der Chefexpertin sowie der Experten und Expertinnen für die Lehrabschlussprüfung;
-- 5\. Kontrolle der Abgabe der obligatorischen Arbeits- und Schutzmittel an die Lehrlinge und Lehrtöchter;
-- 6\. Abrechnungswesen.
+<sup>1</sup> Das Forstamt gehört der Organisation der Arbeitswelt Wald Thurgau (OdA Wald TG) an, die sämtliche kantonale Aufgaben im Bereich der beruflichen Grundbildung der Forstwartinnen und Forstwarte im Sinne von § 28 WaldG regelt.
 
 #### § 31
 
 **Kosten der Aus-, Fort- und Weiterbildung**
 
-<sup>1</sup> In Ergänzung der Bestimmungen der Verordnung des Regierungsrates über die Berufsbildung[^31-1] und nach Abzug allfälliger Beiträge Dritter trägt der Kanton:
+<sup>1</sup> In Ergänzung der Bestimmungen der Verordnung über die berufliche Grundbildung (BbG)[^31-1] und nach Abzug allfälliger Beiträge Dritter trägt der Kanton in der Regel:
 
-- 1\. 50 % der Kosten der vom Kanton anerkannten Kurse im Rahmen der Aus-, Fort- und Weiterbildung des Forstpersonals sowie der Waldarbeiter und Waldarbeiterinnen einschliesslich der Prüfungskosten gemäss § 28 Abs. 2 des Gesetzes;
-- 2\. die Kosten der obligatorischen Fortbildungskurse für Revierförster und Revierförsterinnen.
+- 1\. 50 % der Kosten der vom Kanton anerkannten Kurse im Rahmen der Aus-, Fort- und Weiterbildung des Forstpersonals sowie der Waldarbeiterinnen und Waldarbeiter einschliesslich der Prüfungskosten gemäss § 28 Abs. 2 WaldG
+- 2\. die Kosten der obligatorischen Fortbildungskurse für Revierförsterinnen und Revierförster
 
-[^31-1]: RB [412.211](https://www.rechtsbuch.tg.ch/data/412.211/de)
+[^31-1]: RB [412.212](https://www.rechtsbuch.tg.ch/data/412.212/de)
 
 #### § 32
 
 **Verwendung von Holz**
 
-<sup>1</sup> Bei der Planung von kantonalen und vom Kanton subventionierten Bauvorhaben sind Möglichkeiten für die Verwendung von Holz zu prüfen.
+<sup>1</sup> Bei der Planung von kantonalen und vom Kanton subventionierten Bauvorhaben sind Möglichkeiten für die Verwendung von einheimischem Holz zu prüfen.
 
 ## 6. Beiträge
 
 #### § 33
 
-**Abgeltung von Walderhaltungsmassnahmen**
+**…**
 
-<sup>1</sup> Abgeltungen des Kantons nach § 31 des Gesetzes betragen 80 % der anrechenbaren Kosten.
+#### § 33a
+
+**Anrechenbare Kosten**
+
+<sup>1</sup> Zu den anrechenbaren Kosten nach § 35 WaldG zählen die für die Massnahme notwendigen Kosten, abzüglich allfälliger Erlöse und Beiträge Dritter. Anrechenbar sind insbesondere Kosten für:
+
+- 1\. Pflegemassnahmen
+- 2\. Holzerei
+- 3\. Massnahmen zur Verhütung und Behebung von Schäden am Wald, die durch Naturereignisse oder Schadorganismen verursacht werden
+- 4\. Wildschadensverhütungsmassnahmen
 
 #### § 34
 
@@ -462,17 +501,9 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 <sup>3</sup> Die Gemeindeanteile werden aufgrund der Einwohnerzahlen des Vorjahres ermittelt, vom Kantonsforstamt eingezogen und den Forstrevierkörperschaften zusammen mit den Abgeltungen des Kantons nach dem Verteilschlüssel gemäss Abs. 2 vergütet.
 
-#### § 35
+#### § 35–36
 
-**Beitragskürzung**
-
-<sup>1</sup> Abgeltungen nach § 32 des Gesetzes werden gekürzt, wenn die Revierstrukturen oder die Anstellungsbedingungen für den Revierförster oder die Revierförsterin den kantonalen Grundsätzen nicht entsprechen.
-
-#### § 36
-
-**Finanzhilfen für Waldbau und forstliche Infrastruktur**
-
-<sup>1</sup> Finanzhilfen des Kantons nach § 33 des Gesetzes betragen 40 % bis 70 % der anrechenbaren Kosten und richten sich nach der Art der Massnahme sowie der Schwierigkeit der Massnahme oder der Bedeutung der Objekte.
+**…**
 
 #### § 36a
 
@@ -488,7 +519,7 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 **Zuständigkeit, Inhalt**
 
-<sup>1</sup> Im Rahmen der bewilligten Kredite schliesst das Kantonsfortsamt mit den Forstrevierkörperschaften befristete Leistungsvereinbarungen ab. Gegenstand der Leistungsvereinbarungen sind insbesondere:
+<sup>1</sup> Im Rahmen der bewilligten Kredite schliesst das Forstamt mit den Forstrevierkörperschaften befristete Leistungsvereinbarungen ab. Gegenstand der Leistungsvereinbarungen sind insbesondere:
 
 - 1\. gemeinsam zu erreichende strategische Ziele;
 - 2\. Beitragsleistungen des Kantons;
@@ -496,38 +527,23 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 <sup>2</sup> Die Leistungsvereinbarungen sind mit den entsprechenden Programmvereinbarungen zwischen Bund und Kanton inhaltlich und zeitlich abzustimmen und zu koordinieren.
 
-<sup>3</sup> Soweit erforderlich, erlässt das Kantonsforstamt Weisungen über den weiteren Inhalt sowie über das Verfahren betreffend den Abschluss von Leistungsvereinbarungen.
+<sup>3</sup> Das Forstamt erlässt Weisungen über den weiteren Inhalt sowie über das Verfahren betreffend den Abschluss von Leistungsvereinbarungen.
 
 #### § 36c
 
 **Streitigkeiten**
 
-<sup>1</sup> Entstehen Streitigkeiten aus Leistungsvereinbarungen entscheidet das Kantonsforstamt über die strittigen Punkte. Bis zur Rechtskraft des Entscheides gilt der Inhalt der Leistungsvereinbarung.
+<sup>1</sup> Entstehen Streitigkeiten aus Leistungsvereinbarungen, entscheidet das Forstamt über die strittigen Punkte. Bis zur Rechtskraft des Entscheides gilt der Inhalt der Leistungsvereinbarung.
 
 #### § 36d
 
-**Rückforderung von Beiträgen**
-
-<sup>1</sup> Beiträge werden gekürzt, nicht ausbezahlt oder zurückgefordert, wenn
-
-- 1\. der Empfänger seine Verpflichtungen nicht erfüllt, oder
-- 2\. verfügte oder vereinbarte Auflagen nicht eingehalten werden.
-
-<sup>2</sup> Das Rückforderungsrecht verjährt zehn Jahre nach der Auszahlung. Zurückzuerstattende Beträge sind ab Entstehung des Rückforderungsanspruchs zu verzinsen. Der Zinssatz entspricht jenem der Kantonalbank für Darlehen an öffentlich-rechtliche Körperschaften.
+**…**
 
 ## 7. Übergangs- und Schlussbestimmungen
 
-#### § 37
+#### § 37–38
 
-**...[^37-1]**
-
-[^37-1]: Änderung und Aufhebung bisherigen Rechtes, ABl. 1996, Seite 675.
-
-#### § 38
-
-**...[^38-1]**
-
-[^38-1]: Änderung und Aufhebung bisherigen Rechtes, ABl. 1996, Seite 675.
+**…**
 
 #### § 39
 
@@ -537,14 +553,8 @@ vom 26.03.1996 (Stand 01.04.2014)
 
 <sup>2</sup> Die Kosten der erstmaligen Signalisation tragen die Gemeinden.
 
-#### § 40–40a
+#### § 40–41
 
 **…**
-
-#### § 41
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Waldgesetz vom 14. September 1994 und diese Verordnung treten am 1. April 1996 in Kraft.
 
 13/1996
