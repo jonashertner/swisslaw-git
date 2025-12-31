@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "642.200"
-title: "Ordonnance d'application de la loi fédérale sur l'impôt anticipé et de l'ordonnance fédérale relative à l'imputation forfaitaire d'impôt"
+title: "Ordonnance d'application de la loi fédérale sur l'impôt anticipé et de l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source"
 short: OALIA
 language: fr
-version: 2012-07-20
-corrected: 2023-03-07
-version_adopted: 2012-05-16
+version: 2026-01-01
+version_adopted: 2025-11-26
 adopted: 2003-11-26
 in_force: 2003-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/642.200"
-pdf: "https://lex.vs.ch/api/fr/versions/1924/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3546/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance d'application de la loi fédérale sur l'impôt anticipé et de l'ordonnance fédérale relative à l'imputation forfaitaire d'impôt
+# Ordonnance d'application de la loi fédérale sur l'impôt anticipé et de l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source
 
-du 26.11.2003 (état 20.07.2012)
+(OALIA)
+
+du 26.11.2003 (état 01.01.2026)
 
 Le Conseil d'Etat du Canton du Valais
 
@@ -27,9 +28,9 @@ vu l'ordonnance d'exécution de la loi fédérale sur l'impôt anticipé du 19 d
 
 vu l'ordonnance fédérale du 15 juin 1998 concernant la convention de double imposition américano-suisse du 2 octobre 1996;
 
-vu l'ordonnance fédérale relative à l'imputation forfaitaire d'impôt du 22 août 1967 (OIF);
+vu l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source du 22 août 1967;
 
-sur la proposition du Département des finances, de l'agriculture et des affaires extérieures,
+sur la proposition du département en charge des finances,
 
 ordonne:
 
@@ -58,7 +59,7 @@ ordonne:
 
 **Autorités de recours**
 
-<sup>1</sup> La Commission cantonale de recours en matière d'impôts, instituée par les articles 150 à 153 de la loi fiscale, est désignée comme juridiction au sens de l'article 35 alinéa 2 LIA.
+<sup>1</sup> La Cour de droit fiscal du Tribunal cantonal est désignée comme juridiction au sens de l'article 35 alinéa 2 LIA.
 
 <sup>2</sup> Elle fonctionne également comme autorité de recours en matière d'amendes d'ordre (art. 67 al. 3 LIA).
 
@@ -88,7 +89,7 @@ ordonne:
 
 <sup>1</sup> Le remboursement aux personnes physiques est effectué sous la forme d’imputation sur l’impôt cantonal dû sur le revenu et la fortune ou sur la dépense. Pour les gains de loterie, l’imputation est effectuée sur l’impôt cantonal et l’impôt communal sur ces gains.
 
-<sup>2</sup> Pour les acomptes, les règles concernant la prise en compte de l'impôt anticipé sont celles fixées par l'article 9 de l'ordonnance sur la perception par acomptes des impôts cantonaux et communaux et du remboursement de l'impôt anticipé.
+<sup>2</sup> …
 
 <sup>3</sup> La mise en compte définitive de l'impôt anticipé s'opère dans le décompte final des impôts cantonaux sur le revenu et la fortune, notifiés au contribuable. Le surplus peut être imputé sur des éventuels arriérés d'impôts cantonaux et des actes de défaut de biens relatifs à d'anciennes créances fiscales ou est remboursé en espèces aux intéressés.
 
@@ -98,7 +99,7 @@ ordonne:
 
 <sup>1</sup> L’impôt anticipé sur les gains de loterie peut, après déduction de l’impôt cantonal et de l’impôt communal dus, être imputé sur des éventuels arriérés d’impôts cantonaux et des actes de défaut de biens relatifs à d’anciennes créances fiscales ou est remboursé aux intéressés.
 
-<sup>2</sup> Des gains bruts, les mises seront déduites jusqu'à concurrence de 5 pour cent.
+<sup>2</sup> Sont déduits des gains unitaires provenant des jeux d'argent non exonérés de l'impôt selon l'article 24 lettre i<sup>bis</sup> de la loi sur l'impôt fédéral direct (LIFD), 5 pour cent à titre de mise, mais au plus 5'000 francs. Sont déduits des gains unitaires provenant de la participation en ligne à des jeux de casinos visés à l'article 24 lettre i<sup>bis</sup> LIFD les mises prélevées du compte en ligne du joueur au cours de l'année fiscale, mais au plus 25'000 francs.
 
 <sup>3</sup> L'impôt anticipé est imputé au plus tôt après l'expiration de l'année civile au cours de laquelle la prestation imposable est échue (art. 29 al. 2 LIA).
 
@@ -106,11 +107,11 @@ ordonne:
 
 #### Art. 7
 
-**Remboursement de la retenue supplémentaire US**
+**Remboursement de la retenue supplémentaire d'impôt USA**
 
-<sup>1</sup> Le remboursement de la retenue supplémentaire d'impôt sur les dividendes et les intérêts américains est confié à l'Office cantonal de l'impôt anticipé.
+<sup>1</sup> Le remboursement de la retenue supplémentaire d'impôt USA sur les dividendes et les intérêts américains est confié à l'Office cantonal de l'impôt anticipé.
 
-<sup>2</sup> La demande de remboursement doit être établie sur un formulaire spécial (feuille complémentaire US) délivré par l'Office cantonal de l'impôt anticipé et est déposée avec la déclaration d'impôt.
+<sup>2</sup> La demande de remboursement doit être établie sur un formulaire spécial.
 
 <sup>3</sup> Elle peut être présentée au plus tôt après l'expiration de l'année civile au cours de laquelle les revenus américains sont échus.
 
@@ -118,11 +119,11 @@ ordonne:
 
 #### Art. 8
 
-**Imputation forfaitaire d'impôt**
+**Imputation d'impôts étrangers prélevés à la source**
 
-<sup>1</sup> L'imputation forfaitaire d'impôt est confiée à l'Office cantonal de l'impôt anticipé.
+<sup>1</sup> L'imputation d'impôts étrangers prélevés à la source est confiée à l'Office cantonal de l'impôt anticipé.
 
-<sup>2</sup> La demande d'imputation forfaitaire d'impôt doit être établie sur un formulaire spécial délivré par l'Office cantonal de l'impôt anticipé et est déposée au Service cantonal des contributions avec la déclaration d'impôts, munie des pièces justificatives.
+<sup>2</sup> La demande d'imputation d'impôts prélevés à la source doit être établie sur un formulaire spécial et être déposée au Service cantonal des contributions avec la déclaration d'impôts, munie des pièces justificatives.
 
 <sup>3</sup> Elle peut être présentée au plus tôt après l'expiration de l'année civile au cours de laquelle les revenus sont échus.
 
@@ -130,15 +131,21 @@ ordonne:
 
 **Mode d'imputation et répartition**
 
-<sup>1</sup> Pour les personnes physiques, le montant de l'imputation forfaitaire est imputé sur l'impôt cantonal dû sur le revenu et la fortune. Le surplus peut être imputé sur des éventuels arriérés d'impôts cantonaux et des actes de défaut de biens relatifs à d'anciennes créances fiscales ou est versé en espèces aux intéressés.
+<sup>1</sup> Sous réserve des cas prévus dans l'ordonnance fédérale relative à l’imputation d’impôts étrangers prélevés à la source, le montant des impôts étrangers prélevés à la source et imputables est réparti entre la Confédération, d'une part, et le canton et les communes, d'autre part:
 
-<sup>2</sup> Pour les personnes morales, le remboursement a lieu en espèces.
+- a) en fonction des taux définis à l'article 9 alinéa 1 de l'ordonnance fédérale relative à l'imputation d'impôts étrangers prélevés à la source pour les personnes physiques, et
+- b) proportionnellement au montant de l'impôt sur le bénéfice visé à l'article 10 alinéa 1 de l'ordonnance fédérale relative à l’imputation d’impôts étrangers prélevés à la source pour les personnes morales.
 
-<sup>3</sup> La part de l'imputation forfaitaire qui n'est pas à la charge de la Confédération est répartie entre le canton et la commune de domicile ou du siège du requérant à raison de 50 pour cent.
+<sup>2</sup> Le montant de l'imputation d'impôts étrangers prélevés à la source qui n'est pas à la charge de la Confédération est réparti, entre le canton et les communes, à la fin de la période fiscale de l'année de l'échéance des revenus:
 
-<sup>4</sup> Si le montant à la charge de la commune dépasse 1'000 francs, l'Office cantonal de l'impôt anticipé peut le répartir entre toutes les communes intéressées.
+- a) proportionnellement au taux de l'impôt sur le revenu perçu par le canton et les communes pour les personnes physiques, et
+- b) proportionnellement au montant de l'impôt sur le bénéfice perçu par le canton et les communes pour les personnes morales.
 
-<sup>5</sup> Les fractions inférieures à 100 francs restent à la charge de la commune de domicile ou du siège.
+<sup>3</sup> Pour les personnes physiques, le montant de l'imputation d’impôts étrangers prélevés à la source est imputé sur l'impôt cantonal dû sur le revenu et la fortune. Le surplus peut être imputé sur des éventuels arriérés d'impôts cantonaux et des actes de défaut de biens relatifs à d'anciennes créances fiscales ou est versé en espèces aux intéressés.
+
+<sup>4</sup> Pour les personnes morales, le remboursement a lieu en espèces.
+
+<sup>5</sup> …
 
 #### Art. 10
 
@@ -146,7 +153,7 @@ ordonne:
 
 <sup>1</sup> La décision de remboursement peut faire l'objet d'une réclamation écrite auprès de l'Office cantonal de l'impôt anticipé (art. 53 et 55 LIA).
 
-<sup>2</sup> La décision sur réclamation est sujette à recours auprès de la Commission cantonale de recours en matière d'impôts (art. 54 LIA).
+<sup>2</sup> La décision sur réclamation est sujette à recours auprès de la Cour de droit fiscal du Tribunal cantonal (art. 54 LIA).
 
 <sup>3</sup> La procédure est régie par la législation fédérale ou, lorsque la décision de remboursement a été liée à une décision de taxation (art. 55 LIA), par application analogique des dispositions de la loi fiscale.
 
