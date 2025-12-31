@@ -4,13 +4,12 @@ number: "172.311"
 title: Standeskommissionsbeschluss zur Personalverordnung
 short: StKB PeV
 language: de
-version: 2025-01-01
-corrected: 2025-05-28
-version_adopted: 2025-01-07
+version: 2026-01-01
+version_adopted: 2025-11-04
 adopted: 1999-04-13
 in_force: 1999-04-13
 url: "https://ai.clex.ch/app/de/texts_of_law/172.311"
-pdf: "https://ai.clex.ch/api/de/versions/2322/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2412/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2322/pdf_file"
 
 (StKB PeV)
 
-vom 13.04.1999 (Stand 01.01.2025)
+vom 13.04.1999 (Stand 01.01.2026)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -41,9 +40,9 @@ beschliesst:
 
 **Anstellungen durch Departementsvorsteher**
 
-<sup>1</sup> Die Departementsvorsteher stellen in ihrem Bereich Mitarbeitende bis zur Funktionsstufe 5 sowie Aushilfskräfte und Praktikanten an.
+<sup>1</sup> Der Departementsvorsteher stellt die Mitarbeitenden seines Departements an. Mitarbeitende, die direkt dem Departementsvorsteher oder dem Ratschreiber unterstellt sind, werden von der Standeskommission gewählt.
 
-<sup>2</sup> Der Landesfähnrich stellt die Lehrpersonen der Fachstelle Integration an, der Vorsteher des Erziehungsdepartements die für das Departement tätigen pädagogischen oder therapeutischen Fachpersonen ohne festes Pensum.
+<sup>2</sup> …
 
 <sup>3</sup> Für die Festlegung der Löhne ist die Stellungnahme des Personalamts einzuholen. Bei Differenzen zwischen Departementsvorsteher und Personalamt entscheidet die Standeskommission.
 
@@ -138,7 +137,7 @@ beschliesst:
 
 **Lernende**
 
-<sup>1</sup> Das Personalamt stellt für die Verwaltung jährlich mindestens drei Lernende an. Die Ausbildungsplätze werden in Zusammenarbeit mit dem Ratschreiber und den Departementssekretären festgelegt.
+<sup>1</sup> Das Personalamt stellt für die Verwaltung Lernende an. Die Ausbildungsplätze werden in Zusammenarbeit mit dem Ratschreiber und den Departementssekretären festgelegt.
 
 <sup>2</sup> Das Personalamt legt im Rahmen der Personalgesetzgebung Inhalt und Ablauf der Ausbildung fest.
 
@@ -148,9 +147,7 @@ beschliesst:
 
 #### Art. 6
 
-**Ausschreibung**
-
-<sup>1</sup> Die Ausschreibung erfolgt wahlweise im Internet, im amtlichen Publikationsorgan oder in weiteren Medien.
+**…**
 
 #### Art. 7
 
@@ -204,7 +201,7 @@ beschliesst:
 
 <sup>2</sup> Grundlage für das Arbeitszeugnis bilden im Wesentlichen die Stellenbeschreibung und die jährlichen Mitarbeitergespräche.
 
-<sup>3</sup> Das Arbeitszeugnis wird vom Departementsvorsteher und dem Leiter des Personalamtes unterzeichnet.
+<sup>3</sup> Das Arbeitszeugnis wird vom Departementsvorsteher, dem direkten Vorgesetzten und einem Mitarbeitenden des Personalamts unterzeichnet.
 
 <sup>4</sup> …
 
@@ -226,9 +223,13 @@ beschliesst:
 
 **Auflösung von Arbeitsverhältnissen durch den Arbeitgeber**
 
-<sup>1</sup> Für die Auflösung von Arbeitsverhältnissen ist seitens des Kantons die Standeskommission zuständig, sofern nicht andere Zuständigkeiten festgelegt sind.
+<sup>1</sup> Für die Auflösung von Arbeitsverhältnissen seitens des Kantons ist zuständig:
 
-<sup>2</sup> Für die Auflösung von Arbeitsverhältnissen befristeter Angestellter wie Aushilfen oder Praktikanten sind die Departementsvorstehenden zuständig, im Falle von Lehrverhältnissen das Personalamt.
+- a) während der Probezeit und bei befristet Angestellten wie Aushilfen und Praktikanten: der Departementsvorsteher;
+- b) bei Lehrverhältnissen: das Personalamt;
+- c) in den übrigen Fällen: die Standeskommission.
+
+<sup>2</sup> …
 
 ### I.H. Annahme von Geld, geldwerten Leistungen und Geschenken
 
@@ -270,9 +271,9 @@ beschliesst:
 
 <sup>1</sup> Die Stellenbeschreibungen werden jährlich überprüft und gegebenenfalls aktualisiert.
 
-<sup>2</sup> Der Vorgesetzte erarbeitet die Aktualisierung unter Einbezug des Stelleninhabers. Das Personalamt berät und unterstützt die Vorgesetzten.
+<sup>2</sup> Der direkte Vorgesetzte erarbeitet die Aktualisierung unter Einbezug des Stelleninhabers. Das Personalamt berät und unterstützt die Vorgesetzten.
 
-<sup>3</sup> Der Departementsvorsteher visiert die aktualisierten Stellenbeschreibungen und lässt sie dem Personalamt zukommen.
+<sup>3</sup> Der direkte Vorgesetzte visiert die aktualisierten Stellenbeschreibungen und lässt sie dem Personalamt zukommen
 
 #### Art. 20
 
@@ -429,7 +430,7 @@ beschliesst:
 
 <sup>1</sup> Die monatliche Lohnzahlung erfolgt unter Abzug der gesetzlich vorgeschriebenen sowie der reglementarischen Beiträge für die Vorsorge vor dem Ende des laufenden Monats, in der Regel am 25. auf ein Bank- oder Postkonto der Mitarbeiterin oder des Mitarbeiters.
 
-<sup>2</sup> Der 13. Monatslohn wird im November ausbezahlt.
+<sup>2</sup> Der 13. Monatslohn wird hälftig im Juni und im November ausbezahlt.
 
 #### Art. 33
 
@@ -451,7 +452,7 @@ beschliesst:
 
 <sup>3</sup> Bei einem Wechsel zu einem höheren Ferienanspruch wird der Lohn auf den Beginn des Kalenderjahrs angepasst, in welchem der Anspruch auf mehr Ferien entsteht.
 
-### IV.D. Lohnzulagen und -rückzahlung
+### IV.D. Lohnzulagen
 
 #### Art. 33b
 
@@ -474,11 +475,7 @@ beschliesst:
 
 #### Art. 33c
 
-**Rückzahlung des Dienstlohnes**
-
-<sup>1</sup> Wird das Anstellungsverhältnis auf Veranlassung des Mitarbeitenden während eines Militär-, Rotkreuz-, Zivil- oder Zivilschutzdienstes oder bis 12 Monate danach aufgelöst, ist dem Kanton ein Teil des während der Dienstzeit erhaltenen Lohnes zurückzuzahlen.
-
-<sup>2</sup> Die Mitarbeitenden zahlen die Differenz zwischen dem erhaltenen Bruttolohn und den EO-Leistungen zurück, Mitarbeitende mit Unterstützungspflichten die Hälfte dieser Differenz.
+**…**
 
 ### IV.E. Treueprämie
 
@@ -540,11 +537,17 @@ beschliesst:
 
 <sup>3</sup> Der Departementsvorsteher entscheidet endgültig über strittige Mitarbeiterbeurteilungen.
 
+#### Art. 37a
+
+**Ausserordentliche Mitarbeitergespräche**
+
+<sup>1</sup> Sind die Leistungen oder das Verhalten ungenügend, sind zusätzliche Gespräche zu führen und eine enge Begleitung des Mitarbeitenden vorzunehmen.
+
 #### Art. 38
 
 **Schriftlichkeit**
 
-<sup>1</sup> Die Mitarbeitergespräche sind schriftlich festzuhalten, in der Regel auf dem von der Standeskommission genehmigten Formular.
+<sup>1</sup> Die Mitarbeitendengespräche sind schriftlich festzuhalten, in der Regel auf dem von der Standeskommission genehmigten Formular. Bei ausserordentlichen Mitarbeitendengesprächen ist auch die Begleitung in geeigneter Form zu dokumentieren.
 
 <sup>2</sup> Der Vorgesetzte füllt das Formular aus und bespricht gemeinsam mit den Mitarbeitenden die Beurteilung sowie die Zielsetzung.
 
@@ -554,9 +557,7 @@ beschliesst:
 
 #### Art. 38a
 
-**Ausserordentliche Mitarbeitergespräche**
-
-<sup>1</sup> Sind die Leistungen oder das Verhalten ungenügend, sind zusätzliche Gespräche zu führen und eine enge Begleitung des Mitarbeitenden vorzunehmen.
+**…**
 
 #### Art. 38b
 
@@ -594,7 +595,7 @@ beschliesst:
 
 <sup>1</sup> Der Departementsvorsteher entscheidet über den Besuch von Aus- und Weiterbildungen, wenn Arbeitszeit beansprucht wird oder der Kanton die Kosten übernimmt oder sich an diesen beteiligt.
 
-<sup>2</sup> Der Kanton trägt die Kosten für die obligatorische Aus- und Weiterbildung und stellt die erforderliche Arbeitszeit zur Verfügung.
+<sup>2</sup> Der Kanton trägt die Kosten für die obligatorische Aus- und Weiterbildung und stellt die erforderliche Arbeitszeit zur Verfügung, ohne dass ein Antrag zu stellen ist.
 
 <sup>3</sup> Er kann für die interne Aus- und Weiterbildung Arbeitszeit zur Verfügung stellen und die Kosten übernehmen.
 
@@ -606,7 +607,7 @@ beschliesst:
 
 <sup>2</sup> Für die Ermittlung der Beiträge wird die Aus- oder Weiterbildung auf ihre Zweckmässigkeit sowohl für die berufliche Entwicklung der Mitarbeitenden als auch für den Kanton geprüft.
 
-<sup>3</sup> Beteiligt sich der Kanton unter Berücksichtigung der zur Verfügung gestellten Arbeitszeit mit mehr als Fr. 1‘500.-- an den Kosten, wird eine Vereinbarung abgeschlossen, worin die finanziellen und zeitlichen Eigenleistungen des Mitarbeitenden sowie eine allfällige Rückzahlungspflicht geregelt werden.
+<sup>3</sup> Beteiligt sich der Kanton unter Berücksichtigung der zur Verfügung gestellten Arbeitszeit mit mehr als Fr. 4’000.-- an den Kosten, wird eine Vereinbarung abgeschlossen, worin die finanziellen und zeitlichen Eigenleistungen des Mitarbeitenden geregelt werden.
 
 <sup>4</sup>
 
@@ -616,9 +617,9 @@ beschliesst:
 
 <sup>1</sup> Bei selbstverschuldetem Nichtantritt oder Abbruch einer freiwilligen Aus- oder Weiterbildung sowie im Falle einer freiwilligen oder selbstverschuldeten Auflösung des Anstellungsverhältnisses sind die vom Kanton aufgewendeten Leistungen samt den Kosten für bezahlte Arbeitszeit zurückzuerstatten.
 
-<sup>2</sup> Keine Rückzahlungspflicht gilt bei Leistungen und Kosten, die insgesamt weniger als Fr. 3‘000.-- ausmachen.
+<sup>2</sup> Die Rückzahlungspflicht gilt bei Leistungen und Kosten ab Fr. 4‘000.--.
 
-<sup>3</sup> Die Rückzahlung umfasst bei einer Auflösung des Anstellungsverhältnisses während der Aus- oder Weiterbildung und im ersten Jahr danach die vollen Kosten, im zweiten Jahr zwei Drittel der Kosten und im dritten Jahr ein Drittel der Kosten. Ab dem vierten Jahr entfällt die Rückzahlungspflicht.
+<sup>3</sup> Die Rückzahlung umfasst bei einer Auflösung des Anstellungsverhältnisses während der Aus- oder Weiterbildung und im ersten Monat nach ihrem Abschluss die vollen Kosten. Danach verringert sie sich monatlich um 1/36 der vollen Kosten.
 
 <sup>4</sup> Der Departementsvorsteher kann die Rückzahlung teilweise oder ganz erlassen.
 
@@ -732,7 +733,7 @@ beschliesst:
 
 **Öffentliches Amt oder Mithilfe an sozialen Veranstaltungen**
 
-<sup>1</sup> Zur unmittelbaren Ausübung eines öffentlichen Amts im Kanton besteht das Recht auf bezahlten Urlaub von bis zu fünf Tagen. Kein Anspruch besteht für Tätigkeiten, die ausserhalb der Arbeitszeit erledigt werden können, insbesondere für Vor- und Nachbereitungen.
+<sup>1</sup> Zur unmittelbaren Ausübung eines öffentlichen Amts besteht das Recht auf bezahlten Urlaub von bis zu fünf Tagen. Kein Anspruch besteht für Tätigkeiten, die ausserhalb der Arbeitszeit erledigt werden können, insbesondere für Vor- und Nachbereitungen.
 
 <sup>2</sup> Zudem besteht das Recht auf Bezug von unbezahltem Urlaub für Jugendarbeit nach Art. 329e des Schweizerischen Obligationenrechts. Für die Absprache des Zeitpunkts und der Dauer ist der Vorgesetzte zuständig.
 
@@ -792,7 +793,7 @@ beschliesst:
 
 <sup>1</sup> Die wöchentliche Arbeitszeit kann mit Zustimmung des Departementsvorstehers um eine halbe oder eine ganze Stunde erhöht werden. Dadurch erhöht sich der Ferienanspruch, bezogen auf ein Jahr, um zweieinhalb bzw. um fünf Tage.
 
-<sup>2</sup> Die wöchentliche Sollarbeitszeit kann in besonderen Fällen, namentlich bei saisonalen Schwankungen und zum Ausgleich von Zeitguthaben, in einzelnen Departementen oder Amtsstellen angepasst werden, wobei die Büroöffnungszeiten, die Blockzeiten sowie allfällige Schalteröffnungszeiten zu berücksichtigen sind. Zuständig dafür ist der Departementsvorsteher.
+<sup>2</sup> Die wöchentliche Sollarbeitszeit kann in besonderen Fällen, namentlich bei saisonalen Schwankungen und zum Ausgleich von Zeitguthaben, in einzelnen Departementen oder Amtsstellen angepasst werden. Zuständig dafür ist der Departementsvorsteher.
 
 <sup>3</sup> Abweichungen von der wöchentlichen Sollarbeitszeit und die damit zusammenhängende Regelung sind schriftlich festzulegen und dem Personalamt zu melden.
 
@@ -800,13 +801,7 @@ beschliesst:
 
 #### Art. 54a
 
-**Bandbreitenmodell**
-
-<sup>1</sup> Die Mitarbeitenden der Funktionsstufen 1 bis 14 können als Sollarbeitszeit 43.5 oder 44.5 Stunden pro Woche wählen. Bei der Erhöhung der wöchentlichen Sollarbeitszeit um eine Stunde erhalten die Mitarbeitenden eine Entschädigung in Form einer Barvergütung pro Kalenderjahr von 1% des Jahreslohns; die Entschädigung beträgt bei zwei zusätzlichen Stunden zur wöchentlichen Sollarbeitszeit 2% des Jahreslohns.
-
-<sup>2</sup> Das gewählte Modell ist bis Ende März für das folgende Jahr festzulegen und kann während des Jahres nicht abgeändert werden.
-
-<sup>3</sup> Die Wahl des Modells bedarf der Bewilligung des Departementsvorstehers. Es besteht kein Anspruch auf eine Bewilligung.
+**…**
 
 #### Art. 54b
 
@@ -816,7 +811,7 @@ beschliesst:
 
 <sup>2</sup> Mitarbeitende der Funktionsstufen 15 und 16 haben Vertrauensarbeitszeit.
 
-<sup>3</sup> Amtsleiter können jährlich bis Ende März für das folgende Jahr Vertrauensarbeitszeit wählen. Der Departementsvorsteher bewilligt die Vertrauensarbeitszeit im Einzelfall, es besteht kein Anspruch auf eine Bewilligung. Die Vertrauensarbeitszeit ist während eines Kalenderjahres beizubehalten. Wird das Modell der Vertrauensarbeit gewählt, steht das Bandbreitenmodell nicht zur Verfügung.
+<sup>3</sup> Amtsleiter können jährlich bis Ende November für das folgende Jahr Vertrauensarbeitszeit wählen. Der Departementsvorsteher bewilligt die Vertrauensarbeitszeit im Einzelfall, es besteht kein Anspruch auf eine Bewilligung. Die Vertrauensarbeitszeit ist während eines Kalenderjahres beizubehalten.
 
 <sup>4</sup> Anstelle der Kompensationsmöglichkeit für Überstunden und Gleitzeit kann Mitarbeitenden mit Vertrauensarbeitszeit, ausser solchen der Funktionsstufen 15 und 16, eine Entschädigung in Form einer jährlichen Barvergütung von 3% des Jahreslohns entrichtet werden.
 
@@ -824,7 +819,7 @@ beschliesst:
 
 **Arbeitszeitregelung**
 
-<sup>1</sup> Die Mitarbeitenden können in Absprache mit dem Vorgesetzten ihre täglichen Arbeitszeiten im Rahmen der Geschäfts- und Blockzeit individuell festlegen.
+<sup>1</sup> Die Mitarbeitenden können in Absprache mit dem Vorgesetzten ihre täglichen Arbeitszeiten im Rahmen der Geschäftszeiten individuell festlegen.
 
 <sup>2</sup> Der Departementsvorsteher kann für bestimmte Funktionen, Amts- und Dienststellen einheitliche Arbeitszeiten anordnen.
 
@@ -848,15 +843,17 @@ beschliesst:
 
 #### Art. 55b
 
-**Geschäftszeiten und Blockzeiten**
+**Geschäftszeiten**
 
 <sup>1</sup> Als Geschäftszeit wird die Zeit zwischen dem frühestmöglichen Arbeitsbeginn und dem spätestmöglichen Arbeitsschluss bezeichnet. Sie gilt für Werktage und umfasst die Zeit von 06.00 Uhr bis 20.00 Uhr.
 
-<sup>2</sup> Während der Blockzeit müssen grundsätzlich alle Mitarbeitenden anwesend sein. Sie gilt für Werktage und umfasst die Zeit von 08.30 Uhr bis 11.30 Uhr und von 14.00 Uhr bis 16.30 Uhr.
+<sup>2</sup> …
 
-<sup>3</sup> Die innerhalb der Geschäftszeit, aber ausserhalb der Blockzeit liegende Arbeitszeit wird als Gleitzeit bezeichnet.
+<sup>3</sup> Die innerhalb der Geschäftszeit liegende Arbeitszeit wird als Gleitzeit bezeichnet.
 
-<sup>4</sup> In Ausnahmefällen kann mit Bewilligung des Vorgesetzten von den Geschäfts- und Blockzeiten abgewichen werden. Für dauerhafte Einzelabweichungen ist die Bewilligung des Departementsvorstehers erforderlich, für Abweichungen, die sich auf ganze Ämter und Dienststellen beziehen, die Standeskommission.
+<sup>4</sup> In Ausnahmefällen kann mit Bewilligung des Vorgesetzten von den Geschäftszeiten abgewichen werden. Für dauerhafte Einzelabweichungen ist die Bewilligung des Departementsvorstehers erforderlich.
+
+<sup>5</sup> Mitarbeitende können mit Bewilligung des Departementsvorstehers von zu Hause aus arbeiten (Home Office). Näheres regelt die Weisung der Standeskommission zum Home Office.
 
 #### Art. 55c
 
@@ -870,9 +867,9 @@ beschliesst:
 
 **Schalteröffnungszeiten**
 
-<sup>1</sup> Die Schalteröffnungszeiten dauern von 08.00 Uhr bis 12.00 Uhr und von 13.30 Uhr bis 17.00 Uhr. Die Standeskommission legt den Schalterschluss vor Feiertagen fest.
+<sup>1</sup> Die Schalteröffnungszeiten dauern von 08.00 Uhr bis 11.30 Uhr und von 14.00 Uhr bis 17.00 Uhr. Die Standeskommission legt den Schalterschluss vor Feiertagen fest.
 
-<sup>2</sup> Sie gelten für die Schalter folgender Amtsstellen: Verwaltungspolizei, Zivilstandsamt, Strassenverkehrsamt, Handelsregisteramt und Betreibungsamt.
+<sup>2</sup> Sie gelten für die Schalter folgender Amtsstellen: Bevölkerungsdienste, Zivilstandsamt, Strassenverkehrsamt, Handelsregisteramt und Betreibungsamt.
 
 <sup>3</sup> …
 
@@ -880,15 +877,7 @@ beschliesst:
 
 #### Art. 57
 
-**Büroöffnungszeiten**
-
-<sup>1</sup> Während der Büroöffnungszeiten sind die Büros der kantonalen Verwaltung telefonisch erreichbar und stehen für Besuche offen, für individuelle Beratungen auf Voranmeldung.
-
-<sup>2</sup> Die Bürozeiten umfassen an Werktagen die Zeiten von 08.00 Uhr bis 12.00 Uhr und von 13.30 Uhr bis 17.00 Uhr. Ausgenommen sind Werktage, an denen die Verwaltung als geschlossen gilt.
-
-<sup>3</sup> In besonderen Fällen, beispielsweise bei ferienbedingten Abwesenheiten in kleinen Ämtern, können sich Einschränkungen ergeben, wobei während der zeitlichen Lücken zur Kontaktnahme ein anderes Büro zu bezeichnen ist.
-
-<sup>4</sup> Für die Polizei, das Spital und die Heime gelten die dortigen Regelungen über die Erreichbarkeit und die Öffnungszeiten.
+**…**
 
 #### Art. 58
 
@@ -931,7 +920,7 @@ beschliesst:
 - a) 25% bei Arbeitseinsätzen zwischen 23.00 und 06.00 Uhr oder am Samstag;
 - b) 50% bei Arbeitseinsätzen an öffentlichen Ruhetagen.
 
-<sup>2</sup> Der Departementsvorsteher visiert die angeordneten und tatsächlich geleisteten Überstunden.
+<sup>2</sup> Die vorgesetzte Person visiert die geleisteten Überstunden.
 
 #### Art. 61
 
@@ -959,9 +948,9 @@ beschliesst:
 
 **Abbau Überstunden und Zeitguthaben**
 
-<sup>1</sup> Der Abbau eines Überhangs bei den Überstunden oder von Zeitguthaben ist im Voraus mit dem Vorgesetzten abzusprechen.
+<sup>1</sup> Der Abbau eines Überhangs von Zeitguthaben ist im Voraus mit dem Vorgesetzten abzusprechen.
 
-<sup>2</sup> Die Kompensation von ganzen Tagen ist auf sechs pro Jahr begrenzt, jene von halben Tagen auf 12. Kompensationstage und -halbtage dürfen nicht zusammenhängend bezogen werden.
+<sup>2</sup> …
 
 #### Art. 62b
 
@@ -1084,6 +1073,22 @@ beschliesst:
 <sup>3</sup> Mitarbeitende, deren Löhne über dem Maximum der jeweiligen Funktionsstufe liegen, geniessen eine Besitzstandswahrung.
 
 <sup>4</sup> Löhne, die unter dem Minimum der jeweiligen Funktionsstufe liegen, werden auf das Minimum angehoben, ausser die Voraussetzungen für die Funktion sind noch nicht oder nicht vollständig erfüllt.
+
+#### Art. 73b
+
+**Übergangsbestimmungen zur Revision der Personalverordnung vom 20. Oktober 2025**
+
+<sup>1</sup> Wer zum Zeitpunkt des Inkrafttretens der Revision der Personalverordnung vom 20. Oktober 2025 im ersten Dienstjahr steht, kann das Anstellungsverhältnis bis zum Ende des ersten Dienstjahrs, höchstens aber während drei Monaten nach dem Inkrafttreten der Revision mit einer Frist von einem Monat kündigen.
+
+<sup>2</sup> Für Mitarbeiterinnen, die zum Zeitpunkt des Inkrafttretens der Revision der Personalverordnung vom 20. Oktober 2025 bezahlten Mutterschaftsurlaub beziehen, gilt das neue Recht.
+
+<sup>3</sup> Ist bei einem Todesfall von Mitarbeitenden im Zeitpunkt des Inkrafttretens der Revision vom 20. Oktober 2025 der Anspruch auf volle Besoldung nach neuem Recht noch nicht erschöpft, gilt das neue Recht.
+
+#### Art. 73c
+
+**Übergangsbestimmungen zur Revision des Standeskommissionsbeschlusses zur Personalverordnung vom 4. November 2025**
+
+<sup>1</sup> Besteht im Zeitpunkt des Inkrafttretens der Revision des Standeskommissionsbeschlusses zur Personalverordnung eine Rückzahlungspflicht für Leistungen und Kosten aus einer Aus- und Weiterbildung, die insgesamt weniger als Fr. 4'000.-- ausmachen, entfällt die Rückzahlungspflicht für die noch nicht zurückbezahlten Kosten.
 
 #### Art. 74
 
