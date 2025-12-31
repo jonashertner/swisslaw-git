@@ -4,13 +4,12 @@ number: "542.120"
 title: Verordnung zum Gesetz über die Krankenversicherung und die Prämienverbilligung
 short: VOzKPVG
 language: de
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-14
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3581/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3891/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3581/pdf_file"
 
 (VOzKPVG)
 
-Vom 22.11.2011 (Stand 01.07.2025)
+Vom 22.11.2011 (Stand 01.01.2026)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -205,13 +204,18 @@ von der Regierung erlassen am 22. November 2011
 
 **Quellenbesteuerte Personen**
 
-<sup>1</sup> Das anrechenbare Einkommen von quellenbesteuerten Personen wird gemäss Artikel 99 des Steuergesetzes für den Kanton Graubünden[^18-1] berechnet.
+<sup>1</sup> Das anrechenbare Einkommen von quellenbesteuerten Personen wird gemäss Artikel 99 des Steuergesetzes für den Kanton Graubünden[^18-1] aufgrund der im Vorjahr erzielten Einkommen berechnet.
 
-<sup>2</sup> Bei Personen ohne Wohnsitz oder Aufenthaltsbewilligung in der Schweiz wird das Einkommen gemäss Absatz 1 zudem in die Kaufkraft des Wohnlandes umgerechnet.
+<sup>1<sup>bis</sup></sup> Unterlag die quellenbesteuerte Person im Vorjahr nur teilweise, aber mindestens drei volle Kalendermonate der Quellensteuer, werden die im Vorjahr erzielten Einkommen für die Berechnung der Prämienverbilligung auf ein Jahr hochgerechnet.
 
-<sup>3</sup> Bei nicht erwerbstätigen Familienangehörigen sind die Steuerdaten oder das quellensteuerpflichtige Einkommen der in der Schweiz erwerbstätigen Familienangehörigen und der Familienangehörigen mit einer Leistung der schweizerischen Arbeitslosenversicherung massgebend.
+<sup>1<sup>ter</sup></sup> Unterlag die quellenbesteuerte Person im Vorjahr nicht oder keine volle drei Kalendermonate der Quellensteuer, wird das anrechenbare Einkommen aufgrund der im anspruchsbegründenden Jahr erzielten und auf ein Jahr hochgerechneten Einkommen berechnet.
+
+<sup>2</sup> Bei Personen ohne Wohnsitz oder Aufenthaltsbewilligung in der Schweiz wird das Einkommen gemäss Absatz 1 zudem in die Kaufkraft des Wohnlandes umgerechnet. Für Personen, die in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich wohnen, gilt für die Umrechnung Artikel 1 der Verordnung des EDI über die Preisniveauindizes und die Durchschnittsprämien für den Anspruch auf Prämienverbilligung in der Europäischen Union, in Island, in Norwegen und im Vereinigten Königreich[^18-2].
+
+<sup>3</sup> Bei nicht erwerbstätigen Familienangehörigen sind die Steuerdaten des Vorjahres oder das quellensteuerpflichtige Einkommen des Vorjahres der in der Schweiz erwerbstätigen Familienangehörigen und der Familienangehörigen mit einer Leistung der schweizerischen Arbeitslosenversicherung massgebend. Die Absätze 1<sup>bis</sup> und 1<sup>ter</sup> sind sinngemäss anwendbar.
 
 [^18-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
+[^18-2]: SR [832.112.51](https://db.clex.ch/link/Bund/832.112.51/de)
 
 #### Art. 19
 
@@ -233,7 +237,7 @@ von der Regierung erlassen am 22. November 2011
 
 **3. Personen mit Mutterschaftsbeiträgen**
 
-<sup>1</sup> Die Prämie von Personen mit Mutterschaftsbeiträgen wird ab dem ersten Tag des Folgemonats nach Meldung des Sozialamtes während der vom Sozialamt festgelegten Dauer vollumfänglich verbilligt.
+<sup>1</sup> Die Prämie von Personen mit Mutterschaftsbeiträgen wird ab dem ersten Tag des Folgemonats nach Meldung des Amts für Soziales während der vom Amt für Soziales festgelegten Dauer vollumfänglich verbilligt.
 
 #### Art. 21
 

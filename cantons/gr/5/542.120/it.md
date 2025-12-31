@@ -4,13 +4,12 @@ number: "542.120"
 title: "Ordinanza relativa alla legge sull'assicurazione malattie e la riduzione dei premi"
 short: OLAMRP
 language: it
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-14
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3581/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3891/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3581/pdf_file"
 
 (OLAMRP)
 
-del 22.11.2011 (stato 01.07.2025)
+del 22.11.2011 (stato 01.01.2026)
 
 emanata dal Governo il 22 novembre 2011
 
@@ -43,7 +42,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> I comuni informano periodicamente sull'obbligo di assicurazione la popolazione residente, nonché le persone soggette all'obbligo d'assicurazione sulla base di un'attività lucrativa in Svizzera o sulla base della percezione di prestazioni dell'assicurazione svizzera contro la disoccupazione e che dimorano in uno Stato membro della Comunità europea o dell'AELS. I comuni provvedono in particolare affinché le persone recentemente immigrate, i genitori di neonati, nonché i beneficiari di rendite che si trasferiscono in uno Stato membro della CE o dell'AELS, siano informati tempestivamente sull'obbligo d'assicurazione
 
-<sup>4</sup> I comuni devono trasmettere in forma elettronica all'Ufficio dell'igiene pubblica (Ufficio) con scadenze il 30 giugno e il 31 dicembre, i dati delle persone esentate dall'obbligo di assicurazione.
+<sup>4</sup> I comuni devono trasmettere in forma elettronica all'Ufficio della sanità (Ufficio) con scadenze il 30 giugno e il 31 dicembre, i dati delle persone esentate dall'obbligo di assicurazione.
 
 #### Art. 2
 
@@ -134,7 +133,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Ufficio di notifica**
 
-<sup>1</sup> Fornitori di prestazioni che rifiutano di fornire prestazioni giusta la legge federale sull'assicurazione malattie[^11-1], sono tenuti a notificare per iscritto la ricusa all'Ufficio dell'igiene pubblica.
+<sup>1</sup> Fornitori di prestazioni che rifiutano di fornire prestazioni giusta la legge federale sull'assicurazione malattie[^11-1], sono tenuti a notificare per iscritto la ricusa all'Ufficio della sanità.
 
 [^11-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/it)
 
@@ -205,13 +204,18 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Persone soggette all'imposizione alla fonte**
 
-<sup>1</sup> Il reddito computabile di persone tassate alla fonte viene calcolato conformemente all'articolo 99 della legge sulle imposte per il Cantone dei Grigioni[^18-1].
+<sup>1</sup> Il reddito computabile di persone tassate alla fonte viene calcolato conformemente all'articolo 99 della legge sulle imposte per il Cantone dei Grigioni[^18-1] in base ai redditi conseguiti nell'anno precedente.
 
-<sup>2</sup> Per le persone senza domicilio o permesso di soggiorno in Svizzera il reddito viene inoltre convertito nel potere d'acquisto del Paese di domicilio conformemente al capoverso 1.
+<sup>1<sup>bis</sup></sup> Se nell'anno precedente la persona tassata alla fonte è stata assoggettata all'imposta alla fonte solo in parte, ma almeno per tre mesi civili interi, ai fini del calcolo della riduzione dei premi i redditi conseguiti nell'anno precedente vengono estrapolati su base annua.
 
-<sup>3</sup> Per familiari che non svolgono un'attività lucrativa sono determinanti i dati fiscali o il reddito soggetto all'imposta alla fonte dei familiari esercitanti un'attività lucrativa in Svizzera e dei familiari che ricevono una prestazione dell'Assicurazione svizzera contro la disoccupazione.
+<sup>1<sup>ter</sup></sup> Se nell'anno precedente la persona tassata alla fonte non è stata assoggettata all'imposta alla fonte o lo è stata per meno di tre mesi civili interi, il reddito computabile viene calcolato in base ai redditi conseguiti nell'anno per il quale si vuol fare valere il diritto ed estrapolato su base annua.
+
+<sup>2</sup> Per le persone senza domicilio o permesso di soggiorno in Svizzera il reddito viene inoltre convertito nel potere d'acquisto del Paese di domicilio conformemente al capoverso 1. Per le persone residenti in uno Stato membro dell'Unione europea, in Islanda, in Norvegia o nel Regno Unito, per la conversione fa stato l'articolo 1 dell'ordinanza del DFI concernente gli indici del livello dei prezzi e i premi medi per il diritto alla riduzione dei premi nell'Unione europea, in Islanda, in Norvegia e nel Regno Unito[^18-2].
+
+<sup>3</sup> Per familiari che non svolgono un'attività lucrativa sono determinanti i dati fiscali dell'anno precedente o il reddito soggetto all'imposta alla fonte dell'anno precedente dei familiari esercitanti un'attività lucrativa in Svizzera e dei familiari che ricevono una prestazione dell'Assicurazione svizzera contro la disoccupazione. I capoversi 1<sup>bis</sup> e 1<sup>ter</sup> sono applicabili per analogia.
 
 [^18-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
+[^18-2]: RS [832.112.51](https://db.clex.ch/link/Bund/832.112.51/it)
 
 #### Art. 19
 
@@ -233,7 +237,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **3. Persone con assegni maternità**
 
-<sup>1</sup> Il premio di persone con assegni maternità viene integralmente ridotto a partire dal primo giorno del mese seguente la notifica da parte dell'Ufficio del servizio sociale, per la durata da esso stabilita.
+<sup>1</sup> Il premio di persone con assegni maternità viene integralmente ridotto a partire dal primo giorno del mese seguente la notifica da parte dell'Ufficio degli affari sociali, per la durata da esso stabilita.
 
 #### Art. 21
 
@@ -322,7 +326,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 <sup>3</sup> Le domande di ammissione nei campi di specializzazione secondo il capoverso 1 vengono tenute in considerazione, purché siano complete, secondo l'ordine in cui pervengono. Fanno eccezione le domande finalizzate a garantire l'assistenza stazionaria centralizzata. Queste vengono tenute in considerazione in via prioritaria.
 
-<sup>4</sup> Al fine di garantire l'assistenza stazionaria centralizzata, l'Ufficio dell'igiene pubblica può eccezionalmente determinare un nuovo numero massimo nel campo di specializzazione secondo il capoverso 1, valido al massimo per sei mesi.
+<sup>4</sup> Al fine di garantire l'assistenza stazionaria centralizzata, l'Ufficio della sanità può eccezionalmente determinare un nuovo numero massimo nel campo di specializzazione secondo il capoverso 1, valido al massimo per sei mesi.
 
 ## 5. Disposizioni finali
 

@@ -4,13 +4,12 @@ number: "542.120"
 title: "Ordinaziun tar la lescha davart l'assicuranza da malsauns e la reducziun da las premias"
 short: OEtLARP
 language: rm
-version: 2025-07-01
-valid_until: 2025-12-31
-version_adopted: 2025-10-14
+version: 2026-01-01
+version_adopted: 2025-12-16
 adopted: 2011-11-22
 in_force: 2012-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/542.120"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3581/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3891/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3581/pdf_file"
 
 (OEtLARP)
 
-dals 22-11-2011 (versiun dals 01-07-2025)
+dals 22-11-2011 (versiun dals 01-01-2026)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1]
 
@@ -43,7 +42,7 @@ relaschada da la regenza ils 22 da november 2011
 
 <sup>3</sup> Las vischnancas infurmeschan lur abitantas e lur abitants sco er las persunas cun obligaziun da s'assicurar ch'èn annunziadas a basa d'ina activitad da gudogn en Svizra u a basa da la retratga da prestaziuns da l'assicuranza svizra da dischoccupads, las qualas vivan en in stadi commember da l'uniun europeica u da la AECL, periodicamain davart l'obligaziun da s'assicurar. En spezial dattan ellas attenziun che persunas che vegnan natiers da nov, che geniturs da novnaschids sco er che persunas pensiunadas che partan d'in stadi commember da la UE u da la AECL vegnian infurmads a temp davart l'obligaziun da s'assicurar.
 
-<sup>4</sup> Las vischnancas ston trametter las datas da las persunas ch'èn liberadas da l'obligaziun da s'assicurar mintgamai per ils 30 da zercladur e per ils 31 da december sin via electronica a l'uffizi da sanadad (uffizi).
+<sup>4</sup> Las vischnancas ston trametter las datas da las persunas ch'èn liberadas da l'obligaziun da s'assicurar mintgamai per ils 30 da zercladur e per ils 31 da december sin via electronica a l'Uffizi da sanadad (uffizi).
 
 #### Art. 2
 
@@ -134,7 +133,7 @@ relaschada da la regenza ils 22 da november 2011
 
 **Post d'annunzia**
 
-<sup>1</sup> Furnituras e furniturs da prestaziuns che refusan da furnir prestaziuns tenor la lescha federala davart l'assicuranza da malsauns[^11-1] ston annunziar la recusaziun en scrit a l'uffizi da sanadad.
+<sup>1</sup> Furnituras e furniturs da prestaziuns che refusan da furnir prestaziuns tenor la Lescha federala davart l'assicuranza da malsauns[^11-1] ston annunziar la recusaziun en scrit a l'Uffizi da sanadad.
 
 [^11-1]: CS [832.10](https://db.clex.ch/link/Bund/832.10/rm)
 
@@ -205,13 +204,18 @@ relaschada da la regenza ils 22 da november 2011
 
 **Persunas cun taglia a la funtauna**
 
-<sup>1</sup> Las entradas imputablas da persunas cun taglia a la funtauna vegnan calculadas tenor l'artitgel 99 da la lescha da taglia dal chantun Grischun[^18-1].
+<sup>1</sup> Las entradas imputablas da persunas cun taglia a la funtauna vegnan calculadas tenor l'artitgel 99 da la Lescha da taglia dal chantun Grischun[^18-1] sin basa da las entradas obtegnidas durant l'onn precedent.
 
-<sup>2</sup> Tar persunas senza domicil u senza permissiun da dimora en Svizra vegnan las entradas ultra da quai calculadas tenor l'alinea 1 en la capacitad d'acquist dal pajais da domicil.
+<sup>1<sup>bis</sup></sup> Sche la persuna cun taglia a la funtauna era durant l'onn precedent suttamessa mo parzialmain, ma almain durant 3 entirs mais chalendars a la taglia a la funtauna, vegnan las entradas obtegnidas durant l'onn precedent extrapoladas sin in onn per calcular la reducziun da las premias.
 
-<sup>3</sup> Per confamigliars senza activitad da gudogn èn decisivas las datas fiscalas u las entradas suttamessas a la taglia a la funtauna dals confamigliars cun activitad da gudogn en Svizra e dals confamigliars cun ina prestaziun da l'assicuranza svizra da dischoccupads.
+<sup>1<sup>ter</sup></sup> Sche la persuna cun taglia a la funtauna n'era durant l'onn precedent betg suttamessa u betg suttamessa durant 3 entirs mais chalendars a la taglia a la funtauna, vegnan las entradas imputablas calculadas sin basa da las entradas obtegnidas durant l'onn che motivescha la pretensiun, e talas extrapoladas sin in onn.
+
+<sup>2</sup> Tar persunas senza domicil u senza permissiun da dimora en Svizra vegnan las entradas tenor l'alinea 1 ultra da quai calculadas en la capacitad da cumpra dal pajais da domicil. Per las persunas che abitan en in stadi commember da l'Uniun europeica, en l'Islanda, en la Norvegia u en il Reginavel Unì vala per la calculaziun l'artitgel 1 da l'Ordinaziun dal DFI davart ils indexs dal nivel dals pretschs e davart la media da las premias per il dretg da survegnir ina reducziun da las premias en l'Uniun europeica, en l'Islanda, en la Norvegia ed en il Reginavel Unì[^18-2].
+
+<sup>3</sup> Per confamigliars senza activitad da gudogn èn decisivas las datas fiscalas da l'onn precedent u las entradas suttamessas a la taglia a la funtauna da l'onn precedent dals confamigliars cun activitad da gudogn en Svizra e dals confamigliars cun ina prestaziun da l'assicuranza svizra da dischoccupads. Ils alineas 1<sup>bis</sup> ed 1<sup>ter</sup> èn applitgabels tenor il senn.
 
 [^18-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
+[^18-2]: CS [832.112.51](https://db.clex.ch/link/Bund/832.112.51/rm)
 
 #### Art. 19
 
@@ -233,7 +237,7 @@ relaschada da la regenza ils 22 da november 2011
 
 **3. persunas cun contribuziuns da maternitad**
 
-<sup>1</sup> Suenter l'annunzia da l'uffizi dal servetsch social vegn la premia da persunas cun contribuziuns da maternitad reducida cumplettamain a partir da l'emprim di dal mais suandant, e quai per la durada fixada da l'uffizi dal servetsch social.
+<sup>1</sup> Suenter l'annunzia da l'Uffizi da fatgs socials vegn la premia da persunas cun contribuziuns da maternitad reducida cumplettamain a partir da l'emprim di dal mais suandant, e quai per la durada fixada da l'Uffizi da fatgs socials.
 
 #### Art. 21
 
