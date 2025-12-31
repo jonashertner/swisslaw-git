@@ -3,18 +3,18 @@ sr: "842.18"
 title: Ordinanza del DEFR del 19 maggio 2004 sulle cooperative di costruzione di alloggi per il personale della Confederazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/325"
 language: it
-version: 2013-01-01
+version: 2026-01-01
 adopted: 2004-05-19
 in_force: 2004-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/325/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2004-325-20130101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/325/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/325/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2004-325-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/325/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DEFR sulle cooperative di costruzione di alloggi per il personale della Confederazione
 
-del 19 maggio 2004 (Stato 1° gennaio 2013)
+del 19 maggio 2004 (Stato 1° gennaio 2026)
 
 Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR)[^ingress-1],
 
@@ -29,9 +29,11 @@ ordina:
 
 **Scopo**
 
-<sup>1</sup> La presente ordinanza disciplina la gestione del mutuo concesso alle cooperative di costruzione di alloggi per il personale della Confederazione (cooperative). Essa intende garantire che i mezzi forniti alle cooperative dalla Confederazione o dalla Cassa pensioni della Confederazione (PUBLICA), siano impiegati conformemente alle disposizioni e che la gestione delle cooperative avvenga secondo principi unitari. Essa garantisce in particolare la disponibilità di abitazioni a prezzi ragionevoli e, nei limiti del possibile, la loro locazione innanzitutto alle persone di cui all’articolo 4.
+<sup>1</sup> La presente ordinanza disciplina la gestione del mutuo concesso alle cooperative di costruzione di alloggi per il personale della Confederazione (cooperative). Essa intende garantire che i mezzi forniti alle cooperative dalla Confederazione o dalla Cassa pensioni della Confederazione PUBLICA (PUBLICA) siano impiegati conformemente alle disposizioni e che la gestione delle cooperative avvenga secondo principi unitari. Essa garantisce in particolare la disponibilità di abitazioni a prezzi ragionevoli e, nei limiti del possibile, la loro locazione innanzitutto alle persone di cui all’articolo 4 capoverso 1.[^1-1]
 
 <sup>2</sup> Nel quadro delle disposizioni giuridiche le cooperative beneficiano di una gestione cooperativa autonoma.
+
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 2
 
@@ -46,21 +48,37 @@ La presente ordinanza si applica alle cooperative che:
 
 #### Art. 3
 
-**Competenze**
+**Competenze**[^3-1]
 
-<sup>1</sup> L’Ufficio federale delle abitazioni (Ufficio federale) è competente per la gestione dei mutui accordati alle cooperative conformemente all’articolo 2 e per l’amministrazione degli affari correnti con le cooperative.
+<sup>1</sup> L’Ufficio federale delle abitazioni (UFAB) è competente per la gestione dei mutui accordati alle cooperative conformemente all’articolo 2 e per l’amministrazione degli affari correnti con le cooperative.
 
-<sup>2</sup> L’Ufficio federale delle costruzioni e della logistica (UFCL) è competente per la gestione dei diritti di superficie, in particolare l’incasso dei canoni del diritto di superficie, l’adeguamento dei canoni del diritto di superficie, la sorveglianza della scadenza dei contratti di superficie, l’esercizio della riversione pattuita per contratto nonché l’autorizzazione delle modifiche allo statuto giuridico dei terreni in diritto di superficie.
+<sup>2</sup> L’Ufficio federale delle costruzioni e della logistica (UFCL) è competente per la gestione dei diritti di superficie, in particolare la stipula e il rinnovo dei contratti di diritto di superficie, l’incasso dei canoni del diritto di superficie, l’adeguamento dei canoni del diritto di superficie, la sorveglianza della scadenza dei contratti di diritto di superficie, l’esercizio della riversione pattuita per contratto nonché l’autorizzazione delle modifiche allo statuto giuridico dei terreni in diritto di superficie.
+
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 4
 
-**Locazione**
+**Locazione**[^4-1]
 
-Le abitazioni vanno locate in primo luogo a:
+<sup>1</sup>
 
-- a. dipendenti dell’Amministrazione federale generale, della Swisscom, de La Posta, delle FFS e della RUAG,
-- b. dipendenti di organizzazioni affiliate alla cassa pensioni PUBLICA;
-- c. persone che, prima del pensionamento, erano impiegate presso l’Amministrazione federale generale o presso aziende e organizzazioni di cui alle lettere a e b.
+Le abitazioni che beneficiano di un mutuo in corso secondo l’articolo 1 capoverso 1 oppure di un contratto di diritto di superficie valido con la Confederazione (abitazioni che beneficiano di una promozione in corso) vanno locate in primo luogo a:
+
+- a. personale della Confederazione secondo l’articolo 2 capoverso 1 della legge del 24 marzo 2000[^4-2] sul personale federale;
+- b. personale di datori di lavoro affiliati alla PUBLICA;
+- c. persone che, prima del pensionamento, appartenevano al personale della Confederazione;
+- d. persone che, prima del pensionamento, appartenevano al personale di un datore di lavoro di cui alla lettera b.
+
+<sup>2</sup>
+
+Per la locazione è possibile derogare a queste priorità se:
+
+- a. l’abitazione dispone di almeno quattro locali;
+- b. l’abitazione è occupata da almeno tre persone; e
+- c. la deroga è prevista negli statuti della cooperativa.
+
+[^4-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^4-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
 
 #### Art. 5
 
@@ -80,15 +98,20 @@ Gli statuti delle cooperative devono prevedere che i dividendi siano limitati co
 
 #### Art. 7
 
-**Fondi della previdenza professionale**
+**Fondi della previdenza professionale**[^7-1]
 
-Le cooperative devono prevedere che, in caso di uscita dalla cooperativa, i fondi della previdenza professionale che i locatari hanno versato alla cooperativa, vengano trasferiti ad un’altra cooperativa o ad un altro organismo di costruzione di cui l’assicurato stesso usa un’abitazione oppure a un istituto di previdenza professionale.
+<sup>1</sup> Le cooperative devono prevedere che, in caso di uscita dalla cooperativa, i fondi che i locatari hanno prelevato anticipatamente secondo l’articolo 30*c* della legge federale del 25 giugno 1982[^7-2] sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e versato a una cooperativa vengano trasferiti ad un’altra cooperativa o ad un altro organismo di costruzione di cui l’assicurato stesso usa un’abitazione oppure a un istituto di previdenza professionale secondo la LPP.
+
+<sup>2</sup> Dopo l’insorgere di un caso di assicurazione secondo la LPP, i fondi versati possono essere trasferiti ai locatari.
+
+[^7-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^7-2]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 
 #### Art. 8
 
 **Pigione commisurata ai costi**
 
-<sup>1</sup> Di norma le cooperative locano le proprie abitazioni ad una pigione commisurata ai costi sostenuti.
+<sup>1</sup> Di norma le cooperative devono locare le proprie abitazioni che beneficiano di una promozione in corso ad una pigione commisurata ai costi sostenuti.[^8-1]
 
 <sup>2</sup>
 
@@ -102,54 +125,70 @@ I costi sostenuti computabili sono in particolare:
 - f. il supplemento rischio;
 - g. gli oneri e le imposte legati all’oggetto.
 
-<sup>3</sup> Per le persone di cui all’articolo 4 il tasso d’interesse sul capitale concesso dalla Confederazione si basa sul contratto di mutuo della Confederazione con la cooperativa. Per le altre persone, il tasso d’interesse massimo può essere calcolato secondo l’articolo 11 capoverso 1.
+<sup>3</sup> Per le persone di cui all’articolo 4 capoverso 1 il tasso d’interesse sul capitale concesso dalla Confederazione si basa sul contratto di mutuo della Confederazione con la cooperativa. Per le altre persone, il tasso d’interesse massimo può essere calcolato secondo l’articolo 11 capoverso 1.[^8-2]
 
-<sup>4</sup> Il tasso d’interesse sul capitale proprio investito dalla cooperativa non deve superare il tasso d’interesse usuale delle ipoteche di primo grado.
+<sup>4</sup> Il tasso d’interesse sul capitale proprio investito dalla cooperativa non deve superare il tasso d’interesse di riferimento di cui all’articolo 12*a* capoverso 1 dell’ordinanza del 9 maggio 1990[^8-3] concernente la locazione e l’affitto di locali d’abitazione o commerciali (OLAL).[^8-4]
 
 <sup>5</sup> Per i costi secondo il capoverso 2 lettere d–g può essere calcolato un importo forfetario.
 
-<sup>6</sup> Le cooperative provvedono affinché i mezzi destinati alla manutenzione e al rinnovo siano utilizzati conformemente a quanto previsto e ne informano l’Ufficio federale.
+<sup>6</sup> Le cooperative provvedono affinché i mezzi destinati alla manutenzione e al rinnovo siano utilizzati conformemente a quanto previsto e ne informano l’UFAB[^8-5].
 
 <sup>7</sup> Le cooperative possono fissare riduzioni e supplementi giustificati dalle qualità particolari delle abitazioni.
+
+[^8-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^8-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^8-3]: [RS 221.213.11](https://fedlex.data.admin.ch/eli/cc/1990/835_835_835)
+[^8-4]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^8-5]: Nuova espressione giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 9
 
 **Controllo delle pigioni**
 
-<sup>1</sup> L’Ufficio federale è competente nei casi di contestazione delle pigioni. Esso cerca di indurre le parti a un accordo. Se le parti non si accordano, l’Ufficio federale emana una decisione formale.
+<sup>1</sup> L’UFAB è competente nei casi di contestazione delle pigioni delle abitazioni che beneficiano di una promozione in corso. Esso cerca di indurre le parti a un accordo. Se le parti non si accordano, l’UFAB emana una decisione formale.[^9-1]
 
-<sup>2</sup> La procedura davanti all’Ufficio federale è gratuita; in caso di procedura intentata sconsideratamente, le spese procedurali possono essere totalmente o parzialmente a carico della parte temeraria.
+<sup>2</sup> La procedura davanti all’UFAB è gratuita; in caso di procedura intentata sconsideratamente, le spese procedurali possono essere totalmente o parzialmente a carico della parte temeraria.
 
-<sup>3</sup> Le decisioni dell’Ufficio federale sono impugnabili dinanzi al Tribunale amministrativo federale.[^9-1]
+<sup>3</sup> Le decisioni dell’UFAB sono impugnabili dinanzi al Tribunale amministrativo federale.[^9-2]
 
-<sup>4</sup> Per la verifica delle spese accessorie sono competenti le autorità di conciliazione secondo il Codice delle obbligazioni[^9-2] (CO).
+<sup>4</sup> Per la verifica delle spese accessorie secondo il Codice delle obbligazioni (CO)[^9-3] sono competenti le autorità paritetiche di conciliazione secondo l’articolo 200 capoverso 1 del Codice di procedura civile[^9-4].[^9-5]
 
 <sup>5</sup> Le cooperative informano in forma adeguata i locatari in merito a queste competenze.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del DEFR del 6 dic. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7127](https://fedlex.data.admin.ch/eli/oc/2007/933)).
-[^9-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^9-2]: Nuovo testo giusta il n. I dell’O del DEFR del 6 dic. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7127](https://fedlex.data.admin.ch/eli/oc/2007/933)).
+[^9-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^9-4]: [RS 272](https://fedlex.data.admin.ch/eli/cc/2010/262)
+[^9-5]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 10
 
 **Obbligo d’informazione nel caso di rinnovi**
 
-<sup>1</sup> Nel caso di rinnovi che implicano un adeguamento delle pigioni, le cooperative forniscono all’Ufficio federale informazioni sul progetto e sui costi probabili.
+<sup>1</sup> Nel caso in cui rinnovi di abitazioni che beneficiano di una promozione in corso implichino un adeguamento delle pigioni, le cooperative devono fornire all’UFAB informazioni sul progetto e sui costi probabili.[^10-1]
 
-<sup>2</sup> A conclusione dei lavori di rinnovo, le cooperative informano l’Ufficio federale in merito ai costi sostenuti e alle nuove pigioni.
+<sup>2</sup> A conclusione dei lavori di rinnovo, le cooperative informano l’UFAB in merito ai costi sostenuti e alle nuove pigioni.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 11
 
 **Interessi e ammortamento dei mutui**
 
-<sup>1</sup> Il tasso d’interesse massimo per i mutui concessi a una cooperativa dalla PUBLICA corrisponde al tasso più basso della fascia di tassi applicati dalla Banca cantonale bernese alle ipoteche di primo grado a tasso variabile, aumentato di 0,25 punti percentuali.
+<sup>1</sup> Il tasso d’interesse massimo per i mutui concessi a una cooperativa dalla PUBLICA corrisponde al tasso d’interesse di riferimento secondo l’articolo 12*a* OLAL[^11-1] aumentato di 0,25 punti percentuali. L’UFAB e la PUBLICA fissano insieme il tasso applicabile.[^11-2]
 
-<sup>2</sup> Il tasso d’interesse massimo per i mutui della Confederazione secondo il paragrafo 1, è diminuito al massimo di un punto percentuale. Nel caso di importanti cambiamenti della situazione economica, l’Ufficio federale può adeguare la riduzione.
+<sup>2</sup> Il tasso d’interesse massimo per i mutui della Confederazione secondo il capoverso 1 è diminuito al massimo di un punto percentuale. Nel caso di importanti cambiamenti della situazione economica, l’UFAB può adeguare la riduzione.[^11-3]
 
-<sup>3</sup> Se per i mutui della Confederazione esistenti al momento dell’entrata in vigore della presente ordinanza vige una riduzione d’interesse superiore, il tasso è aumentato dello 0,5 per cento ogni anno, a partire dal 2005, fino a raggiungere il saggio di cui al capoverso 2.
+<sup>3</sup> ...[^11-4]
 
 <sup>4</sup> I mutui ipotecari vanno ammortizzati in misura adeguata.
 
 <sup>5</sup> Gli interessi e gli ammortamenti vanno corrisposti semestralmente alla data di scadenza degli interessi.
+
+[^11-1]: [RS 221.213.11](https://fedlex.data.admin.ch/eli/cc/1990/835_835_835)
+[^11-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^11-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^11-4]: Abrogato dalla cifra I dell’O del DEFR del 25 giu. 2025, con effetto dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 12
 
@@ -159,27 +198,32 @@ Le date di scadenza degli interessi valgono come scadenze di pagamento in genera
 
 #### Art. 13
 
-**Pagamenti**
+**Pagamenti**[^13-1]
 
-I pagamenti correnti per gli interessi e gli ammortamenti sono effettuati mediante conto corrente postale.
+I pagamenti correnti per gli interessi e gli ammortamenti sono effettuati mediante un conto di PostFinance SA.
+
+[^13-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 14
 
 **Rendiconto**
 
-<sup>1</sup> Le cooperative presentano una relazione sulla gestione conformemente ai principi di cui agli articoli 662–670 CO[^14-1], composta dal conto annuale (conto economico, bilancio e allegato) e da un rapporto annuale.
+<sup>1</sup> Le cooperative devono presentare una relazione sulla gestione conformemente ai principi di cui agli articoli 957–960*f* CO[^14-1], composta dal conto annuale e da un rapporto annuale.[^14-2]
 
-<sup>2</sup> La struttura del conto annuale deve rispettare, in linea di principio, le raccomandazioni del piano contabile tipo elaborato dall’Ufficio federale all’attenzione delle organizzazioni di utilità pubblica attive nella costruzione di abitazioni.
+<sup>2</sup> La struttura del conto annuale deve rispettare, in linea di principio, le raccomandazioni del piano contabile tipo elaborato dall’UFAB all’attenzione delle organizzazioni di utilità pubblica attive nella costruzione di abitazioni.
 
 [^14-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^14-2]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 15
 
 **Obbligo di fornire informazioni**
 
-<sup>1</sup> Le cooperative sono tenute a partecipare alle inchieste condotte ogni anno dall’Ufficio federale, a compilare a tale scopo l’apposito questionario dell’Ufficio e a inoltrarlo insieme alla relazione sulla gestione e al rapporto di revisione.
+<sup>1</sup> Le cooperative sono tenute a partecipare alle inchieste condotte ogni anno dall’UFAB, a compilare a tale scopo l’apposito questionario dell’Ufficio e a inoltrarlo insieme alla relazione sulla gestione e al rapporto di revisione.
 
-<sup>2</sup> Le cooperative forniscono all’Ufficio federale tutte le informazioni riguardanti i mutui concessi o i terreni messi a disposizione in diritto di superficie e, su domanda, mettono a disposizione del medesimo la documentazione pertinente.
+<sup>2</sup> Le cooperative devono fornire all’UFAB e all’UFCL tutte le informazioni riguardanti i mutui concessi o i terreni messi a disposizione in diritto di superficie e consentire loro di consultare la documentazione pertinente.[^15-1]
+
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 16
 
@@ -197,9 +241,9 @@ I pagamenti correnti per gli interessi e gli ammortamenti sono effettuati median
 
 <sup>1</sup> L’obbligo di revisione è disciplinato dal CO[^17-2].
 
-<sup>2</sup> L’Ufficio federale esige una revisione limitata di cooperative che nell’ambito dell’articolo 727*a* CO hanno rinunciato a una revisione. La revisione deve essere effettuata da una persona indipendente munita di un’abilitazione dell’Autorità federale di sorveglianza dei revisori.
+<sup>2</sup> L’UFAB esige una revisione limitata di cooperative che nell’ambito dell’articolo 727*a* CO hanno rinunciato a una revisione. La revisione deve essere effettuata da una persona indipendente munita di un’abilitazione dell’Autorità federale di sorveglianza dei revisori.
 
-<sup>3</sup> Se una cooperativa secondo il capoverso 2 dispone al massimo di 30 abitazioni che beneficiano dell’aiuto della Confederazione, l’Ufficio federale può autorizzare un controllo sommario del conto annuale conformemente alle disposizioni dell’Ufficio stesso, se la persona esaminante è in possesso delle conoscenze necessarie.
+<sup>3</sup> Se una cooperativa secondo il capoverso 2 dispone al massimo di 30 abitazioni che beneficiano dell’aiuto della Confederazione, l’UFAB può autorizzare un controllo sommario del conto annuale conformemente alle disposizioni dell’Ufficio stesso, se la persona esaminante è in possesso delle conoscenze necessarie.
 
 [^17-1]: Nuovo testo giusta il n. I dell’O del DEFR del 6 dic. 2007, in vigore dal 1° gen. 2008 ([RU 2007 7127](https://fedlex.data.admin.ch/eli/oc/2007/933)).
 [^17-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
@@ -214,9 +258,9 @@ Per garantire il mantenimento della destinazione, il divieto di cambiamento dell
 
 **Trapasso di proprietà**
 
-<sup>1</sup> Il trapasso di proprietà di un immobile o di parti di un immobile deve essere autorizzato dall’Ufficio federale.
+<sup>1</sup> Il trapasso di proprietà di un immobile o di parti di un immobile che beneficia di una promozione secondo la presente ordinanza necessita dell’autorizzazione dell’UFAB.[^19-1]
 
-<sup>2</sup> Per i terreni in diritto di superficie, l’Ufficio federale domanda l’autorizzazione all’UFCL.
+<sup>2</sup> Per i terreni in diritto di superficie, l’UFAB domanda l’autorizzazione all’UFCL.
 
 <sup>3</sup> L’autorizzazione è accordata in presenza di motivi importanti.
 
@@ -226,21 +270,31 @@ Per garantire il mantenimento della destinazione, il divieto di cambiamento dell
 
 <sup>6</sup> Sono equiparate al trapasso di proprietà modifiche importanti allo stato dell’immobile, segnatamente la parcellizzazione e la suddivisione in proprietà per piani.
 
+[^19-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+
 #### Art. 20
 
 **Ricavo della liquidazione e guadagno**
 
 <sup>1</sup> In caso di liquidazione della cooperativa, il ricavo della liquidazione deve essere destinato alla Confederazione per scopi di utilità pubblica nella costruzione di abitazioni.
 
-<sup>2</sup> In caso di vendita di abitazioni, il guadagno risultante deve essere destinato alla Confederazione.
+<sup>1bis</sup> Se la cooperativa ha cessato di esistere in seguito a una fusione secondo la legge del 3 ottobre 2003[^20-1] sulla fusione (LFus) e vi è successione legale, al momento del suo scioglimento il ricavo della liquidazione delle abitazioni che beneficiano di una promozione secondo l’articolo 2 deve essere trasferito proporzionalmente alla Confederazione per scopi di utilità pubblica nella costruzione di abitazioni.[^20-2]
+
+<sup>2</sup> In caso di vendita di immobili o di parti di un immobile che beneficiano di una promozione secondo la presente ordinanza, il guadagno risultante deve essere destinato alla Confederazione per scopi di utilità pubblica nella costruzione di abitazioni.[^20-3]
 
 <sup>3</sup> Il guadagno risultante non deve essere rimborsato se la cooperativa dimostra di utilizzarlo per finanziare lavori intesi a preservare in buono stato altre abitazioni oggetto dell’aiuto federale, per alimentare il fondo di rinnovamento per queste abitazioni o per la realizzazione di nuove abitazioni a prezzi moderati.
 
+[^20-1]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^20-2]: Introdotto dalla cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+[^20-3]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
+
 #### Art. 21
 
-**Rimborso dei mutui**
+**Rimborso dei mutui**[^21-1]
 
-Dopo la scadenza del contratto di mutuo o dopo il rimborso anticipato dei mutui concessi dalla Confederazione o dalla PUBLICA, rimane in vigore l’annotazione di cui all’articolo 18 e si continuano ad applicare gli articoli 19 e 20.
+Dopo la scadenza del contratto di mutuo o dopo il rimborso anticipato dei mutui concessi dalla Confederazione o dalla PUBLICA, rimane in vigore la menzione secondo l’articolo 18 e si continuano ad applicare gli articoli 19, 20, 22 e 23.
+
+[^21-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 22
 
@@ -248,15 +302,19 @@ Dopo la scadenza del contratto di mutuo o dopo il rimborso anticipato dei mutui 
 
 <sup>1</sup> Di norma, le cooperative possono effettuare fusioni solo con altre organizzazioni di utilità pubblica attive nella costruzione di abitazioni.
 
-<sup>2</sup> La fusione deve essere preliminarmente autorizzata dall’Ufficio federale. Per i terreni in diritto di superficie l’Ufficio federale chiede anche l’autorizzazione dell’UFCL.
+<sup>2</sup> La fusione deve essere preliminarmente autorizzata dall’UFAB. Per i terreni in diritto di superficie l’UFAB chiede anche l’autorizzazione dell’UFCL.
 
-<sup>3</sup> Se a seguito della fusione la cooperativa cessa di esistere, il contratto di fusione deve prevedere che le disposizioni della presente ordinanza si applichino anche alla nuova società.
+<sup>3</sup> Se a seguito della fusione la cooperativa cessa di esistere, il contratto di fusione e gli statuti devono prevedere che le disposizioni della presente ordinanza continuino ad applicarsi alle abitazioni della cooperativa che cessa di esistere che beneficiano di una promozione secondo la presente ordinanza.[^22-1]
+
+[^22-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 23
 
-**Statuti delle cooperative**
+**Statuti delle cooperative**[^23-1]
 
-Le cooperative devono inviare le modifiche degli statuti all’Ufficio federale per approvazione. Dopo la modifica, un esemplare dei nuovi statuti deve essere inoltrato all’Ufficio federale.
+Le cooperative devono inviare le modifiche degli statuti all’UFAB per approvazione. Dopo la modifica da parte dell’assemblea generale, deve essere inviato all’UFAB un esemplare dei nuovi statuti autenticato da un pubblico ufficiale.
+
+[^23-1]: Nuovo testo giusta la cifra I dell’O del DEFR del 25 giu. 2025, in vigore dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 24
 
@@ -268,13 +326,9 @@ Le direttive del 7 settembre 1977 del Dipartimento federale delle finanze e dell
 
 #### Art. 25
 
-**Disposizioni transitorie**
+[^25-1]
 
-<sup>1</sup> Una relazione sulla gestione conformemente ai principi dell’articolo 14 dovrà essere presentata la prima volta per l’esercizio 2005.
-
-<sup>2</sup> Le cooperative devono adeguare i loro statuti entro il 31 dicembre 2005.
-
-<sup>3</sup> Le riduzioni dell’interesse per i mutui correnti accordati alle cooperative con i fondi della PUBLICA si applicano fino al 31 dicembre 2004. In seguito si applicherà il tasso d’interesse conformemente all’articolo 11 capoverso 1 della presente ordinanza.
+[^25-1]: Abrogato dalla cifra I dell’O del DEFR del 25 giu. 2025, con effetto dal 1° gen. 2026 ([RU 2025 458](https://fedlex.data.admin.ch/eli/oc/2025/458)).
 
 #### Art. 26
 
