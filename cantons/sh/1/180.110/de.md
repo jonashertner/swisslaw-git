@@ -3,20 +3,19 @@ canton: SH
 number: "180.110"
 title: Dekret über die Besoldung der Richterinnen und Richter
 language: de
-version: 2025-01-01
-corrected: 2025-02-26
-version_adopted: 2025-02-25
+version: 2026-01-01
+version_adopted: 2025-12-02
 adopted: 2004-05-03
 in_force: 2005-11-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/180.110"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1960/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2040/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über die Besoldung der Richterinnen und Richter
 
-Vom 03.05.2004 (Stand 01.01.2025)
+Vom 03.05.2004 (Stand 01.01.2026)
 
 Der Kantonsrat Schaffhausen,
 
@@ -48,13 +47,13 @@ beschliesst:
 <sup>1</sup> Die fallweise beschäftigten Ersatzrichterinnen und ‑richter erhalten folgende Vergütungen:
 
 - a) Obergericht:
-  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 368.80
-  - 2\. für ganztägige Sitzung: — Fr. 569.95
-  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 190.00
+  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 374.75
+  - 2\. für ganztägige Sitzung: — Fr. 579.10
+  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 193.00
 - b) Kantonsgericht:
-  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 346.45
-  - 2\. für ganztägige Sitzung: — Fr. 547.55
-  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 178.85
+  - 1\. pro Sitzung (Aktenstudium und Referate inbegriffen): — Fr. 352.00
+  - 2\. für ganztägige Sitzung: — Fr. 556.30
+  - 3\. für Vertretung / Teilnahme bei einzelnen Geschäften, die nicht eine ordentliche Sitzung beanspruchen: — Fr. 181.75
 
 <sup>2</sup> Bei besonders aufwändigen Geschäften bzw. Verfahren kann die Vergütung auf das Zweifache der Vergütung gemäss Abs. 1 erhöht werden.
 
