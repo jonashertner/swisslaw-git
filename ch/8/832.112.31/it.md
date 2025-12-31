@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2025-12-16
+version: 2026-01-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20251216/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20251216-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20251216/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20260101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20260101-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20251216/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 16 dicembre 2025)
+del 29 settembre 1995 (Stato 1° gennaio 2026)
 
 [^t-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -192,7 +192,7 @@ L’assicurazione assume i costi delle seguenti prestazioni prescritte dai chiro
 [^4-9]: Nuovo testo giusta la cifra I dellʼO del DFI del 28 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
 [^4-10]: Nuovo testo giusta la cifra I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 [^4-11]: Introdotta dalla cifra I dellʼO del DFI del 10 lug. 2000 ([RU 2000 2546](https://fedlex.data.admin.ch/eli/oc/2000/406)). Nuovo testo giusta la cifra I dellʼO del DFI del 10 giu. 2013, in vigore dal 1° lug. 2013 ([RU 2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)).
-[^4-12]: Introdotta dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^4-12]: Introdotta dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 ### Sezione 4: Prestazioni farmaceutiche
 
@@ -215,7 +215,7 @@ L’assicurazione assume i costi delle seguenti prestazioni dei farmacisti:
 
 [^4a-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 
-### Sezione 5: Prestazioni di medicina complementare forniteda un medico
+### Sezione 5: Prestazioni di medicina complementare fornite da un medico
 
 [^tit1-chap1-sec5-1]
 
@@ -329,7 +329,7 @@ L’assicurazione assume i costi delle prestazioni effettuate previa prescrizion
 
 [^tit1-chap2-sec3-1]
 
-[^tit1-chap2-sec3-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^tit1-chap2-sec3-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 #### Art. 7
 
@@ -396,7 +396,7 @@ Devono essere soddisfatte le seguenti condizioni:
 
 [^7-1]: Nuovo testo giusta la cifra I dellʼO del DFI dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 [^7-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
-[^7-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 [RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7-4]: Nuovo testo giusta la cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-5]: Nuovo testo giusta la cifra I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
 [^7-6]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
@@ -406,8 +406,8 @@ Devono essere soddisfatte le seguenti condizioni:
 [^7-10]: Introdotto dalla cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-11]: Nuovo testo giusta la cifra I dellʼO del DFI del 20 dic. 2006, in vigore dal 1° gen. 2007 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
 [^7-12]: Introdotto dalla cifra I dellʼO del DFI del 20 dic. 2006 ([RU 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Nuovo testo giusta la cifra I dellʼO del DFI del 5 dic. 2011, in vigore dal 1° gen. 2012 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-13]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
-[^7-14]: Introdotto dalla cifra I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7-13]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7-14]: Introdotto dalla cifra I dellʼO del DFI del 3 lug. 1997 ([RU 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7-15]: Introdotto dalla cifra I dellʼO del DFI dell’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 7a
@@ -443,7 +443,7 @@ Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 letter
 
 <sup>4</sup> Nel caso delle strutture diurne o notturne di cui all’articolo 7 capoverso 2<sup>ter</sup>, l’assicurazione versa per ogni giorno o per ogni notte, per le prestazioni secondo l’articolo 7 capoverso 2, i contributi previsti al capoverso 3.
 
-[^7a-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^7a-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 [^7a-2]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 [^7a-3]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 lug. 2019, in vigore dal 1° gen. 2020 ([RU 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 
@@ -455,7 +455,7 @@ Nel caso dei fornitori di prestazioni di cui all’articolo 7 capoverso 1 letter
 
 <sup>2</sup> Il Cantone di domicilio versa la sua quotaparte direttamente al fornitore di prestazioni. Le modalità vengono concordate tra il fornitore di prestazioni e il Cantone di domicilio. L’assicuratore e il Cantone di domicilio possono convenire che il Cantone paghi la sua quotaparte all’assicuratore e che quest’ultimo versi entrambe le quoteparti al fornitore di prestazioni. La fatturazione tra il fornitore di prestazioni e l’assicuratore è disciplinata dall’articolo 42 LAMal[^7b-2].
 
-[^7b-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)).
+[^7b-1]: Introdotto dalla cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)).
 [^7b-2]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 8
@@ -552,13 +552,13 @@ La procedura di controllo serve a verificare la valutazione dei bisogni e a cont
 
 <sup>2</sup> Le prestazioni di cui all’articolo 7 capoverso 2 effettuate nelle case di cura devono essere fatturate secondo il bisogno di cure.
 
-[^9-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^9-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 24 giu. 2009, in vigore dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 #### Art. 9a
 
 [^9a-1]
 
-[^9a-1]: Introdotto dalla cifra I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dalla cifra I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435), [6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
+[^9a-1]: Introdotto dalla cifra I dellʼO del DFI del 18 set. lug. 1997 ([RU 1997 2436](https://fedlex.data.admin.ch/eli/oc/1997/2436_2436_2436)). Abrogato dalla cifra I dellʼO del DFI del 24 giu. 2009, con effetto dal 1° gen. 2011 ([RU 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)cifra I).
 
 ### Sezione 3*a*: Consulenza nutrizionale
 
@@ -752,64 +752,47 @@ L’assicurazione assume i costi delle misure di medicina preventiva seguenti (a
 
 **Vaccinazioni profilattiche**[^12a-1]
 
-<sup>1</sup> L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche alle condizioni elencate:
+<sup>1</sup>
 
-<table>
-<tr><th>Misura</th><th colspan="2">Condizione</th></tr>
-<tr><td>a.[^12a-2] Vaccinazione e richiami contro difterite, tetano, pertosse, poliomielite; vaccinazione contro morbillo, orecchioni, rosolia</td><td colspan="2">Vaccinazioni di base e di richiamo nonché vaccinazioni per le donne incinte per la protezione transplacentare dei neonati secondo il «Calendario vaccinale svizzero 2025» (Calendario vaccinale 2025)[^12a-3] curato dall’Ufficio federale della sanità pubblica (UFSP) e dalla Commissione federale per le vaccinazioni (CFV).</td></tr>
-<tr><td>b.[^12a-4] Vaccinazione contro l’Haemophilus influenzae</td><td colspan="2">Come vaccinazione di base secondo il Calendario vaccinale 2025 per i bambini fino al compimento dei 5 anni.</td></tr>
-<tr><td>c.[^12a-5] Vaccinazione contro l’influenza</td><td>Vaccinazione annuale per le persone esposte a un elevato rischio di complicazioni, per le donne incinte e per le persone a partire dai 65 anni secondo il Calendario vaccinale 2025.</td></tr>
-<tr><td>d.[^12a-6] Vaccinazione contro l’epatite B</td><td colspan="2">Secondo il Calendario vaccinale 2025: come vaccinazione di base per le persone fino al compimento dei 16 anni; e come vaccinazione per le persone con un elevato rischio di complicazioni e per le persone con un elevato rischio di esposizione o di trasmissione. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>e.[^12a-7] ...</td><td colspan="2"></td></tr>
-<tr><td>f.[^12a-8] Vaccinazione contro gli pneumococchi</td><td colspan="2">Come vaccinazione di base secondo il Calendario vaccinale 2025. Come vaccinazione complementare secondo il Calendario vaccinale 2025 con una dose unica di vaccino polisaccaridico coniugato per le persone a partire dai 65 anni. Come vaccinazione per le persone con maggiore rischio d’infezione invasiva secondo il Calendario vaccinale 2025, ma solo per i bambini fino al compimento dei 6 anni e per le persone a partire dai 65 anni.</td></tr>
-<tr><td>g.[^12a-9] Vaccinazione contro i meningococchi (sierogruppi ACWY e B)</td><td colspan="2">Come vaccinazione complementare secondo il Calendario vaccinale 2025. Come vaccinazione per le persone con maggiore rischio di malattia e per la profilassi post-esposizione secondo il Calendario vaccinale 2025. Sono assunti unicamente i costi della vaccinazione effettuata con vaccini omologati per il relativo gruppo d’età. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>h. Vaccinazione contro la tubercolosi</td><td colspan="2">Con il vaccino BCG secondo il Calendario vaccinale 2025[^12a-10].</td></tr>
-<tr><td>i.[^12a-11] Vaccinazione contro l’encefalite da zecca (FSME)</td><td colspan="2">Secondo il Calendario vaccinale 2025 per le persone a partire dai 3 anni (in singoli casi a partire da 1 anno) che soggiornano almeno temporaneamente in regioni a rischio. Se effettuata per motivi professionali, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>j.[^12a-12] Vaccinazione contro la varicella</td><td colspan="2">Vaccinazioni di base e di recupero secondo il Calendario vaccinale 2025. Sono assunti unicamente i costi della vaccinazione effettuata con vaccini omologati per il relativo gruppo d’età.</td></tr>
-<tr><td>k.[^12a-13] Vaccinazione contro i virus del papilloma umano (HPV)</td><td colspan="2">1. Secondo il Calendario vaccinale 2025, dal compimento dell’11° anno di età al compimento del 27° anno di età. 2. Vaccinazione nel quadro di programmi cantonali di vaccinazione che devono soddisfare i seguenti requisiti minimi: a. l’informazione ai giovani appartenenti ai gruppi target e ai loro genitori (o rappresentanti legali) in merito alla disponibilità della vaccinazione e alle Raccomandazioni dell’UFSP e della CFV secondo il numero 1 è garantita; b. la completezza delle vaccinazioni è ricercata; c. le prestazioni e gli obblighi dei responsabili del programma, dei medici che effettuano le vaccinazioni e degli assicuratori-malattie sono definiti; d. il rilevamento dei dati, il conteggio, i flussi delle informazioni e delle finanze sono disciplinati. 3. Questa prestazione non è soggetta ad alcuna franchigia. Per la vaccinazione, compreso il vaccino, viene concordato un rimborso forfettario.</td></tr>
-<tr><td>l.[^12a-14] Vaccinazione contro l’epatite A</td><td colspan="2">Secondo il Calendario vaccinale 2025 per le persone con un elevato rischio di esposizione e di complicazioni. Vaccinazione post-esposizione entro sette giorni dall’esposizione. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>m.[^12a-15] Vaccinazione contro la rabbia</td><td colspan="2">Vaccinazione in seguito a esposizione a un animale affetto, o sospettato di essere affetto, dalla rabbia secondo il Calendario vaccinale 2025. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione.</td></tr>
-<tr><td>n.[^12a-16] Vaccinazione contro la COVID‑19</td><td colspan="2">Secondo il Calendario vaccinale 2025: – per le persone a partire dai 65 anni; – per le donne incinte; e – per le persone a partire dai 6 mesi con immunodeficienza grave. Per le persone particolarmente a rischio a partire dai 16 anni secondo l’elenco riportato nel documento «Categorie di persone particolarmente a rischio» del 2 ottobre 2023[^12a-17]. Sono assunti unicamente i costi della vaccinazione effettuata con vaccini omologati per il relativo gruppo d’età e la relativa indicazione.</td></tr>
-<tr><td>o.[^12a-18] Vaccinazione contro l’herpes zoster</td><td colspan="2">Con il vaccino a subunità adiuvato. Per gruppi d’età e gruppi a rischio secondo il Calendario vaccinale 2025.</td></tr>
-<tr><td>p.[^12a-19] Vaccinazione contro mpox</td><td colspan="2">Per persone con un elevato rischio di esposizione secondo il documento «Quadro analitico e raccomandazioni per la vaccinazione contro il vaiolo delle scimmie» dell’UFSP e della CFV del 1° settembre 2022[^12a-20]. Se effettuata per motivi professionali o di medicina di viaggio, i costi non sono assunti dall’assicurazione. L’assicurazione assume un contributo di 100 franchi per ogni dose di vaccino. L’assunzione dei costi è in fase di valutazione fino al 31 dicembre 2025.</td></tr>
-<tr><td>q.[^12a-21] Vaccinazione contro i rotavirus</td><td colspan="2">Secondo il Calendario vaccinale 2025.</td></tr>
-<tr><td>r. [^12a-22] Vaccinazione contro il virus respiratorio sinciziale (RSV)</td><td colspan="2">Per le donne incinte tra la 32<sup>a</sup> e la 36<sup>a</sup> settimana di gravidanza ai fini dell’immunizzazione transplacentare del neonato con data di nascita prevista nel periodo tra ottobre e marzo.</td></tr>
-</table>
+L’assicurazione assume i costi delle seguenti vaccinazioni profilattiche secondo le indicazioni di vaccinazione, gli schemi di vaccinazione e le limitazioni supplementari specifiche di cui al «Documento di riferimento vaccinazioni profilattiche» dell’UFSP, versione del 1° gennaio 2026[^12a-2]:
+
+- a. vaccinazioni contro difterite e tetano;
+- b. vaccinazione contro pertosse;
+- c. vaccinazione contro poliomielite;
+- d. vaccinazioni contro morbillo, orecchioni e rosolia;
+- e. vaccinazione contro l’Haemophilus influenzae b (Hib);
+- f. vaccinazione contro l’influenza;
+- g. vaccinazione contro l’epatite B;
+- h. vaccinazione contro gli pneumococchi;
+- i. vaccinazione contro i meningococchi A, C, W, Y;
+- j. vaccinazione contro i meningococchi B;
+- k. vaccinazione contro l’encefalite da zecca (FSME);
+- l. vaccinazione contro la varicella;
+- m. vaccinazione contro i virus del papilloma umano (HPV);
+- n. vaccinazione contro l’epatite A;
+- o. vaccinazione contro la rabbia;
+- p. vaccinazione contro la COVID-19;
+- q. vaccinazione contro l’herpes zoster;
+- r. vaccinazione contro l’mpox;
+- s. vaccinazione contro i rotavirus;
+- t. vaccinazione contro il virus respiratorio sinciziale (RSV).
 
 <sup>2</sup>
 
-Per le vaccinazioni di cui al capoverso 1 l’assicurazione assume i costi della consulenza vaccinale seguenti:
+Per le vaccinazioni l’assicurazione assume i costi della consulenza vaccinale seguenti:
 
 - a. anamnesi vaccinale con verifica dello stato vaccinale;
 - b. valutazione delle indicazioni e controindicazioni;
-- c. informazione e ottenimento del consenso informato.[^12a-23]
+- c. informazione e ottenimento del consenso informato.
 
-<sup>3</sup> Se la vaccinazione è effettuata per motivi professionali e di viaggio, i costi della consulenza vaccinale non sono assunti dall’assicurazione.[^12a-24]
+<sup>3</sup> In caso di indicazione per motivi professionali e di viaggio i costi della vaccinazione e delle consulenze vaccinali non sono assunti dall’assicurazione.
 
-[^12a-1]: Introdotto dalla cifra I dellʼO del DFI del 21 nov. 2007 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nuovo testo giusta la cifra I dellʼO del DFI del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
-[^12a-2]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-3]: Il documento può essere consultato al seguente indirizzo: www.ufsp.admin.ch/rif.
-[^12a-4]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-5]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-6]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-7]: Abrogata dalla cifra I dell’O del DFI dell’8 giu. 2021, con effetto dal 1° lug. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-8]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-9]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-10]: Nuova espr. giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
-[^12a-11]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-12]: Nuovo testo giusta la cifra I dellʼO del DFI del 16 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-13]: Nuovo testo giusta la cifra I dellʼO del DFI del 16 giu. 2023, in vigore dal 1° lug. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-14]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-15]: Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-16]: Introdotta dalla cifra I dellʼO del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-17]: Il documento può essere consultato al seguente indirizzo: www.ufps.admin.ch/rif.
-[^12a-18]: Introdotta dalla cifra I dellʼO del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)). Nuovo testo giusta la cifra I dellʼO del DFI del 28 nov. 2022, in vigore dal 1° gen. 2023 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12a-19]: Introdotta dalla cifra I dellʼO del DFI del 24 apr. 2023 ([RU 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)). Nuovo testo giusta la cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-20]: Il documento (disponibile soltanto in tedesco e francese) può essere consultato al seguente indirizzo: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/bag/it/home/gesetze-und-bewilligungen/gesetzgebung/gesetzgebung-versicherungen/gesetzgebung-krankenversicherung/kvg/referenzdokumente-zur-klv-und-deren-anhaenge.html).
-[^12a-21]: Introdotta dalla cifra I dellʼO del DFI del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Nuovo testo giusta la cifra I dellʼO del DFI del 17 giu. 2024, in vigore dal 1° lug. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
-[^12a-22]: Introdotta dalla cifra I dellʼO del DFI del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^12a-23]: Introdotto dalla cifra I dellʼO del DFI del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-24]: Introdotto dalla cifra I dellʼO del DFI del 16 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
+<sup>4</sup> Per le vaccinazioni profilattiche e le consulenze vaccinali non è riscossa nessuna franchigia se le prestazioni sono effettuate nel quadro di programmi di prevenzione su scala nazionale.
+
+<sup>5</sup> I costi delle vaccinazioni sono assunti soltanto se il vaccino utilizzato per il rispettivo gruppo di età e la rispettiva indicazione figura nell’elenco delle specialità e sono osservate le limitazioni ivi stabilite; sono fatte salve le vaccinazioni di cui al capoverso 1 lettere m ed r.
+
+[^12a-1]: Introdotto dalla cifra I dellʼO del DFI del 21 nov. 2007 ([RU 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nuovo testo giusta la cifra I dellʼO del DFI del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
+[^12a-2]: Il documento può essere consultato al seguente indirizzo: [www.ufsp.admin.ch/rif](https://www.bag.admin.ch/it/documenti-di-riferimento-relativi-allordinanza-sullassicurazione-malattie-oamal-e-allordinanza-sulle-prestazioni-opre-con-i-suoi-allegati).
 
 #### Art. 12b
 
@@ -1740,7 +1723,7 @@ Su richiesta dell’UFSP il titolare dell’omologazione deve presentare all’U
 
 Aumenti dei prezzi secondo l’articolo 67 capoverso 5 OAMal sono esclusi. In via eccezionale l’UFSP può concedere aumenti dei prezzi se occorre garantire il fabbisogno in cure per la popolazione svizzera e non esistono alternative terapeutiche.
 
-[^35-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2024, prorogata sino al 31 dic. 2025 ([RU 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571), [807](https://fedlex.data.admin.ch/eli/oc/2023/807)cifra IV cpv. 5; [2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)cifra III cpv. 2).
+[^35-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 22 set. 2023, in vigore dal 1° gen. 2024 al 31 dic. 2024, prorogata sino al 31 dic. 2026 ([RU 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571), [807](https://fedlex.data.admin.ch/eli/oc/2023/807)cifra IV cpv. 5; [2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)cifra III cpv. 2; [2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)cifra III cpv. 3).
 
 #### Art. 35a
 
@@ -2072,7 +2055,9 @@ Nel caso di un medicamento omologato da Swissmedic non ammesso nell’elenco del
 
 **Formazione e perfezionamento**
 
-<sup>1</sup> È ritenuto formazione universitaria ai sensi dell’articolo 54 capoversi 2 e 3 lettera a OAMal il conseguimento degli studi universitari in medicina dentaria, medicina veterinaria, chimica, biochimica, biologia o microbiologia.
+<sup>1</sup> È ritenuto formazione universitaria ai sensi dell’articolo 54 capoversi 2 e 3 lettera a OAMal il conseguimento degli studi universitari livello master consecutivo in scienze mediche, medicina dentaria, medicina veterinaria, farmacia, chimica, biochimica, biologia, microbiologia o un ramo equivalente nel settore delle scienze della vita.[^42-1]
+
+<sup>1bis</sup> I requisiti per la formazione, in particolare il numero minimo di crediti ECTS richiesti, sono pubblicati sul sito Internet dell’UFSP[^42-2].[^42-3]
 
 <sup>2</sup>
 
@@ -2081,15 +2066,18 @@ Nel caso di un medicamento omologato da Swissmedic non ammesso nell’elenco del
 - a. un diploma di «laboratorista medico con formazione professionale superiore», rilasciato da un’istituzione di formazione riconosciuta dalla Croce Rossa svizzera;
 - b. un diploma rilasciato da un’istituzione di formazione riconosciuta dalla Croce Rossa svizzera, recante il titolo «tecnico in analisi biomediche SSS con la formazione superiore»;
 - c. un certificato di equivalenza per capi laboratorio della Croce rossa svizzera;
-- d. un diploma federale quale «esperto in analisi biomediche e gestione di laboratorio» o un diploma riconosciuto equipollente.[^42-1]
+- d. un diploma federale quale «esperto in analisi biomediche e gestione di laboratorio» o un diploma riconosciuto equipollente.[^42-4]
 
-<sup>3</sup> È ritenuto titolo di perfezionamento ai sensi dell’articolo 54 capoverso 3 lettera b OAMal quello in medicina di laboratorio nei settori ematologia, chimica clinica, immunologia clinica e microbiologia medica.[^42-2]
+<sup>3</sup> È ritenuto titolo di perfezionamento ai sensi dell’articolo 54 capoverso 3 lettera b OAMal quello in medicina di laboratorio nei settori ematologia, chimica clinica, immunologia clinica e microbiologia medica.[^42-5]
 
-<sup>4</sup> ...[^42-3]
+<sup>4</sup> ...[^42-6]
 
-[^42-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
-[^42-2]: Nuovo testo giusta la cifra I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
-[^42-3]: Abrogato dalla cifra I dellʼO del DFI del 4 apr. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1367](https://fedlex.data.admin.ch/eli/oc/2007/227)).
+[^42-1]: Nuovo testo giusta la cifra I dellʼO del DFI del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
+[^42-2]: [www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA) &gt; Laboratori e capi di laboratorio &gt; ulteriori informazioni &gt; documenti &gt; criteri dell’UFSP](https://www.bag.admin.ch/dam/it/sd-web/2wPC9pK5MUhP/20250310_fin_BAG%20Kriterien%202025_IT_bis.pdf)
+[^42-3]: Introdotto dalla cifra I dellʼO del DFI del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
+[^42-4]: Nuovo testo giusta la cifra I dellʼO del DFI del 16 mag. 2014, in vigore dal 1° lug. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)).
+[^42-5]: Nuovo testo giusta la cifra I dellʼO del DFI del 9 dic. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+[^42-6]: Abrogato dalla cifra I dellʼO del DFI del 4 apr. 2007, con effetto dal 1° apr. 2007 ([RU 2007 1367](https://fedlex.data.admin.ch/eli/oc/2007/227)).
 
 #### Art. 43
 
@@ -2304,8 +2292,11 @@ Gli assicuratori applicano il disciplinamento dell’aliquota percentuale previs
 
 <sup>3</sup> Il termine di cui al capoverso 1 è prorogato fino al 31 dicembre 2025.[^u12-3]
 
+<sup>4</sup> Il termine di cui al capoverso 1 è prorogato fino al 31 dicembre 2027.[^u12-4]
+
 [^u12-2]: Introdotto dalla cifra I dellʼO del DFI del 4 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 347](https://fedlex.data.admin.ch/eli/oc/2021/347)).
 [^u12-3]: Introdotto dalla cifra I dellʼO del DFI del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^u12-4]: Introdotto dalla cifra I dellʼO del DFI del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
 
 ## Disposizione transitoria della modifica del 19 marzo 2021
 
@@ -2365,8 +2356,8 @@ Allegato 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta la cifra II dell’O del DFI del 7 feb. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Aggiornato dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), del 2 giu. 2022 ([RU 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), dalle cifre II delle O del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^annex1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/419](https://fedlex.data.admin.ch/eli/oc/2025/419) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta la cifra II dell’O del DFI del 7 feb. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Aggiornato dalla cifra II cpv. 1 delle O del DFI del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), del 2 giu. 2022 ([RU 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), dalle cifre II delle O del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), del 4 giu. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)) e del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
+[^annex1-lvlu1-1]: Il contenuto dei presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 1a[^t-3]
 
@@ -2376,8 +2367,8 @@ Allegato 1a[^t-3]
 
 [^annex1a-lvlu1-1]
 
-[^t-3]: Introdotto dalla cifra II cpv. 4 dell’O del DFI del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Nuovo testo giusta la cifra II dell’O del DFI del 7 feb. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Aggiornato dalla cifra II cpv. 2 delle O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), dalla cifra II delle O del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^annex1a-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/419](https://fedlex.data.admin.ch/eli/oc/2025/419) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Introdotto dalla cifra II cpv. 4 dell’O del DFI del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Nuovo testo giusta la cifra II dell’O del DFI del 7 feb. 2020 ([RU 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Aggiornato dalla cifra II cpv. 2 delle O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), dalla cifra II delle O del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)), del 4 giu. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)) e del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
+[^annex1a-lvlu1-1]: Il contenuto dei presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-4]
 
@@ -2387,8 +2378,8 @@ Allegato 2[^t-4]
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Aggiornato dalla cifra II cpv. 2 delle O del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dalla cifra I dell’O del DFI del 7 giu. 2018 ([RU 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), dalla cifra II cpv. 3 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dalla cifra II cpv. 2 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 6 dic. 2019 ([RU 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dalla cifra II cpv. 3 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dalla cifra I dell’O del DFI del 30 nov. 2020 ([RU 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), dalla cifra II cpv. 2 dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), dalla cifra I delle O del DFI del 8 giu. 2021 ([RU 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), dalla cifra II cpv. 3 dell’O del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), dalla cifra I dell’O del DFI del 1° dic. 2021 ([RU 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), dalla cifra II cpv. 2 dellʼO del DFI del 2 giu. 2022 ([RU 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), dalla cifra I delle O del DFI del 2 giu. 2022 ([RU 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), del 1° set. 2022 ([RU 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), dalla cifra II delle O del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/419](https://fedlex.data.admin.ch/eli/oc/2025/419) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dalla cifra II cpv. 2 delle O del DFI del 5 giu. 2009 ([RU 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dalla cifra I dell’O del DFI del 7 giu. 2018 ([RU 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), dalla cifra II cpv. 3 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dalla cifra II cpv. 2 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 6 dic. 2019 ([RU 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dalla cifra II cpv. 3 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dalla cifra I dell’O del DFI del 30 nov. 2020 ([RU 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), dalla cifra II cpv. 2 dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), dalla cifra I delle O del DFI del 8 giu. 2021 ([RU 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), dalla cifra II cpv. 3 dell’O del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), dalla cifra I dell’O del DFI del 1° dic. 2021 ([RU 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), dalla cifra II cpv. 2 dellʼO del DFI del 2 giu. 2022 ([RU 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), dalla cifra I delle O del DFI del 2 giu. 2022 ([RU 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), del 1° set. 2022 ([RU 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), dalla cifra II delle O del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)) e del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851), [852](https://fedlex.data.admin.ch/eli/oc/2025/852)).
+[^annex2-lvlu1-1]: Il contenuto dei presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-5]
 
@@ -2398,8 +2389,8 @@ Allegato 3[^t-5]
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Aggiornato dalla cifra I delle O del DFI del 28 gen. 2009 ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), del 26 giu. 2009 ([RU 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), dalla cifra II cpv. 3 delle O del DFI del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), dalla cifra I dell’O del DFI del 13 ago. 2012 ([RU 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), dalla cifra II cpv. 3 delle O del DFI del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), dalla cifra I dell’O del DFI del 21 ott. 2014 ([RU 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), dalla cifra II cpv. 3 delle O del DFI del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dalla cifra II cpv. 4 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dalla cifra II cpv. 3 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dalla cifra I delle O del DFI del 28 feb. 2020 ([RU 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), del 27 apr. 2020 ([RU 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), dalla cifra II cpv. 4 dell’O del DFI del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dalla cifra I dell’O del DFI del 25 set. 2020 ([RU 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), dalla cifra II cpv. 4 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dalla cifra I delle O del DFI del 5 gen. 2021 ([RU 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), del 26 feb. 2021 ([RU 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), dalla cifra II cpv. 3 dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), dalla cifra II cpv. 4 dell’O del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), dalla cifra I dell’O del DFI del 1° dic. 2021 ([RU 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), dalla cifra II cpv. 3 dellʼO del DFI del 2 giu. 2022 ([RU 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), dalla cifra I dellʼO del DFI del 2 giu. 2022 ([RU 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), dalla cifra II dellʼO del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), dalla cifra I delle O del DFI del 21 dic. 2022 ([RU 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), del 27 gen. 2023 ([RU 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)), dalla cifra II dell’O del DFI del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), dalla cifra I dell’O del DFI del 17 ott. 2023 ([RU 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)), dalla cifra II delle O del DFI del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^annex3-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/419](https://fedlex.data.admin.ch/eli/oc/2025/419) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-5]: Aggiornato dalla cifra I delle O del DFI del 28 gen. 2009 ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), del 26 giu. 2009 ([RU 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), dalla cifra II cpv. 3 delle O del DFI del 27 ott. 2009 ([RU 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), del 14 giu. 2010 ([RU 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), del 2 dic. 2010 ([RU 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), del 31 mag. 2011 ([RU 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), del 5 dic. 2011 ([RU 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), del 12 giu. 2012 ([RU 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), dalla cifra I dell’O del DFI del 13 ago. 2012 ([RU 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), dalla cifra II cpv. 3 delle O del DFI del 15 nov. 2012 ([RU 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), del 6 dic. 2013 ([RU 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), del 16 mag. 2014 ([RU 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), dalla cifra I dell’O del DFI del 21 ott. 2014 ([RU 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), dalla cifra II cpv. 3 delle O del DFI del 20 nov. 2014 ([RU 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), del 17 giu. 2015 ([RU 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), del 27 nov. 2015 ([RU 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), del 20 giu. 2016 ([RU 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), del 25 nov. 2016 ([RU 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), del 2 giu. 2017 ([RU 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), del 28 nov. 2017 ([RU 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), del 7 giu. 2018 ([RU 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), dalla cifra II cpv. 4 dell’O del DFI del 30 nov. 2018 ([RU 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), dalla cifra II cpv. 3 delle O del DFI del 16 gen. 2019 ([RU 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), del 6 giu. 2019 ([RU 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dalla cifra I delle O del DFI del 28 feb. 2020 ([RU 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), del 27 apr. 2020 ([RU 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), dalla cifra II cpv. 4 dell’O del DFI del 27 mag. 2020 ([RU 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), dalla cifra I dell’O del DFI del 25 set. 2020 ([RU 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), dalla cifra II cpv. 4 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dalla cifra I delle O del DFI del 5 gen. 2021 ([RU 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), del 26 feb. 2021 ([RU 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), dalla cifra II cpv. 3 dell’O del DFI del 8 giu. 2021 ([RU 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), dalla cifra II cpv. 4 dell’O del DFI del 1° dic. 2021 ([RU 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), dalla cifra I dell’O del DFI del 1° dic. 2021 ([RU 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), dalla cifra II cpv. 3 dellʼO del DFI del 2 giu. 2022 ([RU 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), dalla cifra I dellʼO del DFI del 2 giu. 2022 ([RU 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), dalla cifra II dellʼO del DFI del 28 nov. 2022 ([RU 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), dalla cifra I delle O del DFI del 21 dic. 2022 ([RU 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), del 27 gen. 2023 ([RU 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)), dalla cifra II dell’O del DFI del 16 giu. 2023 ([RU 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), dalla cifra I dell’O del DFI del 17 ott. 2023 ([RU 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)), dalla cifra II delle O del DFI del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)) e del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
+[^annex3-lvlu1-1]: Il contenuto dei presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-6]
 
@@ -2409,5 +2400,5 @@ Allegato 4[^t-6]
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 2 giu. 2005 ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), dalla cifra II cpv. 4 dell’O del DFI del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dalla cifra II cpv. 5 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dalla cifra II delle O del DFI del 19 apr. 2023 ([RU 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025, in vigore dal 1° lug. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)).
-[^annex4-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/419](https://fedlex.data.admin.ch/eli/oc/2025/419) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-6]: Aggiornato dalla cifra II cpv. 2 dell’O del DFI del 2 giu. 2005 ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), dalla cifra II cpv. 4 dell’O del DFI del 7 feb. 2020 ([RU 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), dalla cifra II cpv. 5 dell’O del DFI del 30 nov. 2020 ([RU 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), dalla cifra II delle O del DFI del 19 apr. 2023 ([RU 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)), del 29 nov. 2023 ([RU 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)), del 17 giu. 2024 ([RU 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)), del 29 nov. 2024 ([RU 2024 788](https://fedlex.data.admin.ch/eli/oc/2024/788)) e del 4 giu. 2025 ([RU 2025 419](https://fedlex.data.admin.ch/eli/oc/2025/419)) e del 2 dic. 2025, in vigore dal 1° gen. 2026 ([RU 2025 851](https://fedlex.data.admin.ch/eli/oc/2025/851)).
+[^annex4-lvlu1-1]: Il contenuto dei presenti allegati è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2025/851](https://fedlex.data.admin.ch/eli/oc/2025/851) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
