@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Accord du 30 octobre 2014 entre le Conseil fédéral suisse et le gouvernement de la Principauté du Liechtenstein sur la reconnaissance mutuelle des certificats de capacité et des attestations de la formation professionnelle initiale (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-16-20250101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-16-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Traduction
 
 Conclu le 30 octobre 2014 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2015
 
-(État le 1<sup>er</sup> janvier 2025)
+(État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse et le gouvernement de la Principauté du Liechtenstein,
 
@@ -117,7 +117,7 @@ Annexe[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Mise à jour par les mod. entrées en vigueur le 1<sup>er</sup> janv. 2016 ([RO 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), le 1<sup>er</sup> janv. 2017 ([RO 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), le 1<sup>er</sup> janv. 2018 ([RO 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), le 1<sup>er</sup> janv. 2019 ([RO 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), le 1<sup>er</sup> janv. 2020 ([RO 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), le 1<sup>er</sup> janv. 2021 ([RO 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), le 1<sup>er</sup> janv. 2022 ([RO 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), le 1<sup>er</sup> janv. 2023 ([RO 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)), le 1<sup>er</sup> janv. 2024 ([RO 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)) et le 1<sup>er</sup> janv. 2025 ([RO 2024 488](https://fedlex.data.admin.ch/eli/oc/2024/488)).
+[^t-1]: Mise à jour par les mod. entrées en vigueur le 1<sup>er</sup> janv. 2016 ([RO 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), le 1<sup>er</sup> janv. 2017 ([RO 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), le 1<sup>er</sup> janv. 2018 ([RO 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), le 1<sup>er</sup> janv. 2019 ([RO 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), le 1<sup>er</sup> janv. 2020 ([RO 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), le 1<sup>er</sup> janv. 2021 ([RO 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), le 1<sup>er</sup> janv. 2022 ([RO 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), le 1<sup>er</sup> janv. 2023 ([RO 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)), le 1<sup>er</sup> janv. 2024 ([RO 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)), le 1<sup>er</sup> janv. 2025 ([RO 2024 488](https://fedlex.data.admin.ch/eli/oc/2024/488)) et le 1<sup>er</sup> janv. 2026 ([RO 2025 566](https://fedlex.data.admin.ch/eli/oc/2025/566)).
 [^annexu1-lvlu1-1]: Pour chaque titre professionnel, une ordonnance est publiée dans le Recueil officiel du droit fédéral (RO) et intégrée dans le Recueil systématique (RS). Les ordonnances suisses qui s’appliquent à la reconnaissance mutuelle des certificats peuvent être consultées en ligne sur la plateforme de publication du droit fédéral à l’adresse [www.fedlex.admin.ch](https://www.fedlex.admin.ch). Pour chaque titre professionnel, une ordonnance est publiée dans le Liechtensteinischen Landesgesetzblatt. Les ordonnances liechtensteinoises qui s’appliquent à la reconnaissance mutuelle des certificats peuvent être consultées en ligne à l’adresse [www.gesetze.li](https://www.gesetze.li/).
 
 <table>
@@ -127,8 +127,9 @@ Annexe[^t-1]
 <tr><td>70507</td><td>Agent en information documentaire CFC/Agent en information documentaire CC</td><td>Agente en information documentaire CFC/Agente en information documentaire CC</td><td></td></tr>
 <tr><td>70508</td><td>Agent en information documentaire CFC/Agent en information documentaire CC</td><td>Agente en information documentaire CFC/Agente en information documentaire CC</td><td></td></tr>
 <tr><td>80103</td><td>Agent de propreté AFP/ Agent de propreté AP</td><td>Agente de propreté AFP/ Agente de propreté AP</td><td></td></tr>
-<tr><td>80105</td><td>Agent de propreté AFP/ Agent de propreté AP</td><td>Agente de propreté AFP/ Agente de propreté AP</td><td></td></tr>
 <tr><td>80102</td><td>Agent de propreté CFC/ Agent de propreté CC</td><td>Agente de propreté CFC/ Agente de propreté CC</td><td></td></tr>
+<tr><td>80105</td><td>Agent de propreté AFP/ Agent de propreté AP</td><td>Agente de propreté AFP/ Agente de propreté AP</td><td></td></tr>
+<tr><td>80104</td><td>Agent de propreté CFC/ Agent de propreté CC</td><td>Agente de propreté CFC / Agente de propreté CC</td><td></td></tr>
 <tr><td>95515</td><td>Agent de transport ferroviaire CFC (champ professionnel «logistique»)/ Agent de transport ferroviaire CC (champ professionnel «logistique»)</td><td>Agente de transport ferroviaire CFC (champ professionnel «logistique»)/ Agente de transport ferroviaire CC (champ professionnel «logistique»)</td><td></td></tr>
 <tr><td>15005</td><td>Agriculteur CFC (Champ professionnel de l’agriculture)/ Agriculteur CC (Champ professionnel de l’agriculture)</td><td>Agricultrice CFC (Champ professionnel de l’agriculture)/ Agricultrice CC (Champ professionnel de l’agriculture)</td><td></td></tr>
 <tr><td>15008</td><td>Agropraticien AFP/ Agropraticien AP</td><td>Agropraticienne AFP/ Agropraticienne AP</td><td></td></tr>
@@ -193,15 +194,18 @@ Annexe[^t-1]
 <tr><td>86916</td><td>Assistant dentaire CFC / Assistant dentaire CC</td><td>Assistante dentaire CFC / Assistante dentaire CC</td><td></td></tr>
 <tr><td>46317</td><td>Assistant en maintenance d’automobiles AFP/Assistant en maintenance d’automobiles AP</td><td>Assistante en maintenance d’automobiles AFP/Assistante en maintenance d’automobiles AP</td><td></td></tr>
 <tr><td>46318</td><td>Assistant en maintenance d’automobiles AFP/ Assistant en maintenance d’automobiles AP</td><td>Assistante en maintenance d’automobiles AFP/ Assistante en maintenance d’automobiles AP</td><td></td></tr>
+<tr><td>46108</td><td>Assistant en maintenance des deux-roues AFP/Assistant en maintenance des deux-roues AP</td><td>Assistante en maintenance des deux-roues AFP / Assistante en maintenance des deux-roues AP</td><td></td></tr>
+<tr><td>86917</td><td>Assistant en médecine vétérinaire CFC/Assistant en médecine vétérinaire CC</td><td>Assistante en médecine vétérinaire CFC / Assistante en médecine vétérinaire CC</td><td></td></tr>
 <tr><td>35316</td><td>Assistant en médias imprimés AFP/Assistant en médias imprimés AP</td><td>Assistante en médias imprimés AFP/Assistante en médias imprimés AP</td><td></td></tr>
-<tr><td>86910</td><td>Assistant médical CFC/ Assistant médical CC</td><td>Assistante médicale CFC/ Assistante médicale CC</td><td></td></tr>
-<tr><td>86915</td><td>Assistant médical CFC/ Assistant médical CC</td><td>Assistante médicale CFC/ Assistante médicale CC</td><td></td></tr>
+<tr><td>35319</td><td>Assistant en médias imprimés AFP/Assistant en médias imprimés AP</td><td>Assistante en médias imprimés AFP / Assistante en médias imprimés AP</td><td></td></tr>
 <tr><td>70610</td><td>Assistant en pharmacie CFC/ Assistant en pharmacie CC</td><td>Assistante en pharmacie CFC/ Assistante en pharmacie CC</td><td></td></tr>
 <tr><td>70611</td><td>Assistant en pharmacie CFC/ Assistant en pharmacie CC</td><td>Assistante en pharmacie CFC/ Assistante en pharmacie CC</td><td></td></tr>
 <tr><td>82116</td><td>Assistant en podologie CFC/ Assistant en podologie CC</td><td>Assistante en podologie CFC/ Assistante en podologie CC</td><td></td></tr>
 <tr><td>82117</td><td>Assistant en podologie CFC/ Assistant en podologie CC</td><td>Assistante en podologie CFC/ Assistante en podologie CC</td><td></td></tr>
 <tr><td>82118</td><td>Assistant en podologie CFC / Assistant en podologie CC</td><td>Assistante en podologie CFC / Assistante en podologie CC</td><td></td></tr>
 <tr><td>85701</td><td>Assistant en promotion de l’activité physique et de la santé CFC/Assistant en promotion de l’activité physique et de la santé CC</td><td>Assistante en promotion de l’activité physique et de la santé CFC/Assistante en promotion de l’activité physique et de la santé CC</td><td></td></tr>
+<tr><td>86910</td><td>Assistant médical CFC/ Assistant médical CC</td><td>Assistante médicale CFC/ Assistante médicale CC</td><td></td></tr>
+<tr><td>86915</td><td>Assistant médical CFC/ Assistant médical CC</td><td>Assistante médicale CFC/ Assistante médicale CC</td><td></td></tr>
 <tr><td>94303</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td></td></tr>
 <tr><td>94304</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td>Accompagnement des personnes handicapées</td></tr>
 <tr><td>94305</td><td>Assistant socio-éducatif CFC/ Assistant socio-éducatif CC</td><td>Assistante socio-éducative CFC/ Assistante socio-éducatif CC</td><td>Accompagnement des personnes âgées</td></tr>
@@ -230,6 +234,7 @@ Annexe[^t-1]
 <tr><td>51103</td><td>Carreleur CFC/Carreleur CC</td><td>Carreleuse CFC/Carreleuse CC</td><td></td></tr>
 <tr><td>45304</td><td>Carrossier-peintre CFC/ Carrossier-peintre CC</td><td>Carrossière-peintre CFC/ Carrossière-peintre CC</td><td></td></tr>
 <tr><td>45307</td><td>Carrossier-peintre CFC/ Carrossier-peintre CC</td><td>Carrossière-peintre CFC/ Carrossière-peintre CC</td><td></td></tr>
+<tr><td>45308</td><td>Carrossier réparateur CFC/ Carrossier réparateur CC</td><td>Carrossière réparatrice CFC / Carrossière réparatrice CC</td><td></td></tr>
 <tr><td>45303</td><td>Carrossier-tôlier CFC/ Carrossier-tôlier CC</td><td>Carrossière-tôlière CFC/ Carrossière-tôlière CC</td><td></td></tr>
 <tr><td>45306</td><td>Carrossier-tôlier CFC/ Carrossier-tôlier CC</td><td>Carrossière-tôlière CFC/ Carrossière-tôlière CC</td><td></td></tr>
 <tr><td>22603</td><td>Caviste CFC (Champ professionnel de l’agriculture)/ Caviste CC (Champ professionnel de l’agriculture)</td><td>Caviste CFC (Champ professionnel de l’agriculture)/ Caviste CC (Champ professionnel de l’agriculture)</td><td></td></tr>
@@ -373,10 +378,9 @@ Annexe[^t-1]
 <tr><td>21607</td><td>Employé en industrie laitière AFP / Employé en industrie laitière AP</td><td>Employée en industrie laitière AFP / Employée en industrie laitière AP</td><td></td></tr>
 <tr><td>79614</td><td>Employé en intendance AFP/ Employé en intendance AP</td><td>Employée en intendance AFP/ Employée en intendance AP</td><td></td></tr>
 <tr><td>79616</td><td>Employé en intendance AFP/ Employé en intendance AP</td><td>Employée en intendance AFP/ Employée en intendance AP</td><td></td></tr>
-<tr><td>56503</td><td>Employé de remontées mécaniques AFP/ Employé de remontées mécaniques AP</td><td>Employée de remontées mécaniques AFP/ Employée de remontées mécaniques AP</td><td></td></tr>
-<tr><td>56505</td><td>Employé de remontées mécaniques AFP / Employé de remontées mécaniques AP</td><td>Employée de remontées mécaniques AFP / Employée de remontées mécaniques AP</td><td></td></tr>
 <tr><td>79023</td><td>Employé en restauration AFP/ Employé en restauration AP</td><td>Employée en restauration AFP/ Employée en restauration AP</td><td></td></tr>
 <tr><td>79024</td><td>Employé en restauration AFP/ Employé en restauration AP</td><td>Employée en restauration AFP/ Employée en restauration AP</td><td></td></tr>
+<tr><td>79012</td><td>Employé en restauration de système AFP/Employé en restauration de système AP</td><td>Employée en restauration de système AFP/Employée en restauration de système AP</td><td></td></tr>
 <tr><td>82112</td><td>Esthéticien CFC/ Esthéticien CC</td><td>Esthéticienne CFC/ Esthéticienne CC</td><td></td></tr>
 <tr><td>82113</td><td>Esthéticien CFC/ Esthéticien CC</td><td>Esthéticienne CFC/ Esthéticienne CC</td><td></td></tr>
 <tr><td>51914</td><td>Étancheur CFC (champ professionnel Enveloppe des édifices)/ Étancheur CC (champ professionnel Enveloppe des édifices)</td><td>Étancheuse CFC (champ professionnel Enveloppe des édifices)/ Étancheuse CC (champ professionnel Enveloppe des édifices)</td><td></td></tr>
@@ -401,6 +405,7 @@ Annexe[^t-1]
 <tr><td>18123</td><td>Gardien de chevaux AFP/ Gardien de chevaux AP</td><td>Gardienne de chevaux AFP/ Gardienne de chevaux AP</td><td></td></tr>
 <tr><td>28404</td><td>Garnisseur de meubles CFC/ Garnisseur de meubles CC</td><td>Garnisseuse de meubles CFC/ Garnisseuse de meubles CC</td><td></td></tr>
 <tr><td>64104</td><td>Géomaticien CFC/ Géomaticien CC</td><td>Géomaticienne CFC/ Géomaticienne CC</td><td></td></tr>
+<tr><td>64105</td><td>Géomaticien CFC/ Géomaticien CC</td><td>Géomaticienne CFC / Géomaticienne CC</td><td></td></tr>
 <tr><td>71900– 71922</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td></td></tr>
 <tr><td>71200</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Conseil à la clientèle</td></tr>
 <tr><td>71295</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Conseil à la clientèle/ Branche: Logistique des pièces détachées</td></tr>
@@ -459,11 +464,12 @@ Annexe[^t-1]
 <tr><td>71316</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestion des marchandises/ Branche: Textile</td></tr>
 <tr><td>71304</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestion des marchandises/ Branche: Supports audio, audiovisuel et musiques</td></tr>
 <tr><td>71306</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestion des marchandises/ Branche: Montres-Bijoux-Pierres précieuses</td></tr>
-<tr><td>71321</td><td>Gestionnaire du commerce d e détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestion des marchandises/ Branche: Magasins spécialisés en biens zoologiques</td></tr>
+<tr><td>71321</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestionnaire du commerce de détail CFC/Gestionnaire du commerce de détail CC</td><td>Gestion des marchandises/ Branche: Magasins spécialisés en biens zoologiques</td></tr>
 <tr><td>80607</td><td>Gestionnaire en entretien des textiles CFC/ Gestionnaire en entretien des textiles CC</td><td>Gestionnaire en entretien des textiles CFC/ Gestionnaire en entretien des textiles CC</td><td></td></tr>
 <tr><td>78404</td><td>Gestionnaire en hôtellerie-intendance CFC/Gestionnaire en hôtellerie-intendance CC</td><td>Gestionnaire en hôtellerie-intendance CFC/Gestionnaire en hôtellerie-intendance CC</td><td></td></tr>
 <tr><td>79613</td><td>Gestionnaire en intendance CFC/ Gestionnaire en intendance CC</td><td>Gestionnaire en intendance CFC/ Gestionnaire en intendance CC</td><td></td></tr>
 <tr><td>79615</td><td>Gestionnaire en intendance CFC/ Gestionnaire en intendance CC</td><td>Gestionnaire en intendance CFC/ Gestionnaire en intendance CC</td><td></td></tr>
+<tr><td>79010</td><td>Gestionnaire en restauration de système CFC/Gestionnaire en restauration de système CC</td><td>Gestionnaire en restauration de système CFC / Gestionnaire en restauration de système CC</td><td></td></tr>
 <tr><td>90305</td><td>Graphiste CFC/Graphiste CC</td><td>Graphiste CFC/Graphiste CC</td><td></td></tr>
 <tr><td>90306</td><td>Graphiste CFC/Graphiste CC</td><td>Graphiste CFC/Graphiste CC</td><td></td></tr>
 <tr><td>17016</td><td>Horticulteur AFP/ Horticulteur AP</td><td>Horticultrice AFP/ Horticultrice AP</td><td>Paysagisme</td></tr>
@@ -526,11 +532,14 @@ Annexe[^t-1]
 <tr><td>95512</td><td>Logisticien CFC (champ professionnel «logistique»)/ Logisticien CC (champ professionnel «logistique»)</td><td>Logisticienne CFC (champ professionnel «logistique»)/ Logisticienne CC (champ professionnel «logistique»)</td><td></td></tr>
 <tr><td>95513</td><td>Logisticien CFC (champ professionnel «logistique»)/ Logisticien CC (champ professionnel «logistique»)</td><td>Logisticienne CFC (champ professionnel «logistique»)/ Logisticienne CC (champ professionnel «logistique»)</td><td>Distribution</td></tr>
 <tr><td>95514</td><td>Logisticien CFC (champ professionnel «logistique»)/ Logisticien CC (champ professionnel «logistique»)</td><td>Logisticienne CFC (champ professionnel «logistique»)/ Logisticienne CC (champ professionnel «logistique»)</td><td>Stockage</td></tr>
+<tr><td>51009</td><td>Maçon AFP/Maçon AP</td><td>Maçonne AFP / Maçonne AP</td><td></td></tr>
 <tr><td>51006</td><td>Maçon CFC/Maçon CC</td><td>Maçonne CFC/Maçonne CC</td><td></td></tr>
+<tr><td>51008</td><td>Maçon CFC/Maçon CC</td><td>Maçonne CFC / Maçonne CC</td><td></td></tr>
 <tr><td>39206</td><td>Marbrier du bâtiment CFC (Champ professionnel travail de la pierre)/Marbrier du bâtiment CC (Champ professionnel travail de la pierre)</td><td>Marbrière du bâtiment CFC (Champ professionnel travail de la pierre)/Marbrière du bâtiment CC (Champ professionnel travail de la pierre)</td><td></td></tr>
 <tr><td>17011</td><td>Maraîcher CFC (Champ professionnel de l’agriculture)/ Maraîcher CC (Champ professionnel de l’agriculture)</td><td>Maraîchère CFC (Champ professionnel de l’agriculture)/ Maraîchère CC (Champ professionnel de l’agriculture)</td><td></td></tr>
 <tr><td>43907</td><td>Mécanicien d’appareils à moteur CFC/Mécanicien d’appareils à moteur CC</td><td>Mécanicienne d’appareils à moteur CFC/Mécanicienne d’appareils à moteur CC</td><td></td></tr>
 <tr><td>46105</td><td>Mécanicien en cycles CFC/ Mécanicien en cycles CC</td><td>Mécanicienne en cycles CFC/ Mécanicienne en cycles CC</td><td></td></tr>
+<tr><td>46107</td><td>Mécanicien en cycles CFC/ Mécanicien en cycles CC</td><td>Mécanicienne en cycles CFC / Mécanicienne en cycles CC</td><td></td></tr>
 <tr><td>43905</td><td>Mécanicien en machines agricoles CFC/Mécanicien en machines agricoles CC</td><td>Mécanicienne en machines agricoles CFC/Mécanicienne en machines agricoles CC</td><td></td></tr>
 <tr><td>43906</td><td>Mécanicien en machines de chantier CFC/Mécanicien en machines de chantier CC</td><td>Mécanicienne en machines de chantier CFC/Mécanicienne en machines de chantier CC</td><td></td></tr>
 <tr><td>46314</td><td>Mécanicien en maintenance d’automobiles CFC/ Mécanicien en maintenance d’automobiles CC</td><td>Mécanicienne en maintenance d’automobiles CFC/ Mécanicienne en maintenance d’automobiles CC</td><td></td></tr>
@@ -540,6 +549,7 @@ Annexe[^t-1]
 <tr><td>46325</td><td>Mécanicien en maintenance d’automobiles CFC/ Mécanicien en maintenance d’automobiles CC</td><td>Mécanicienne en maintenance d’automobiles CFC/ Mécanicienne en maintenance d’automobiles CC</td><td>Véhicules légers</td></tr>
 <tr><td>46326</td><td>Mécanicien en maintenance d’automobiles CFC/ Mécanicien en maintenance d’automobiles CC</td><td>Mécanicienne en maintenance d’automobiles CFC/ Mécanicienne en maintenance d’automobiles CC</td><td>Véhicules utilitaires</td></tr>
 <tr><td>46204</td><td>Mécanicien en motocycles CFC/ Mécanicien en motocycles CC</td><td>Mécanicienne en motocycles CFC/ Mécanicienne en motocycles CC</td><td></td></tr>
+<tr><td>46205</td><td>Mécanicien en motocycles CFC/ Mécanicien en motocycles CC</td><td>Mécanicienne en motocycles CFC / Mécanicienne en motocycles CC</td><td></td></tr>
 <tr><td>46106</td><td>Mécanicien en motocycles de petite cylindrée et cycles CFC/Mécanicien en motocycles de petite cylindrée et cycles CC</td><td>Mécanicienne en motocycles de petite cylindrée et cycles CFC/Mécanicienne en motocycles de petite cylindrée et cycles CC</td><td></td></tr>
 <tr><td>45716</td><td>Mécanicien de production CFC/ Mécanicien de production CC</td><td>Mécanicienne de production CFC/ Mécanicienne de production CC</td><td></td></tr>
 <tr><td>46311</td><td>Mécatronicien d’automobiles CFC/Mécatronicien d’automobiles CC</td><td>Mécatronicienne d’automobiles CFC/Mécatronicienne d’automobiles CC</td><td></td></tr>
@@ -581,6 +591,7 @@ Annexe[^t-1]
 <tr><td>51911</td><td>Polybâtisseur CFC/ Polybâtisseur CC</td><td>Polybâtisseuse CFC/ Polybâtisseuse CC</td><td>Construction d’échafaudages</td></tr>
 <tr><td>51912</td><td>Polybâtisseur CFC/ Polybâtisseur CC</td><td>Polybâtisseuse CFC/ Polybâtisseuse CC</td><td>Systèmes de protection solaire</td></tr>
 <tr><td>90503</td><td>Polydesigner 3D CFC/ Polydesigner 3D CC</td><td>Polydesigner 3D CFC/ Polydesigner 3D CC</td><td></td></tr>
+<tr><td>90507</td><td>Polydesigner 3D CFC/ Polydesigner 3D CC</td><td>Polydesigner 3D CFC / Polydesigner 3D CC</td><td></td></tr>
 <tr><td>34708</td><td>Polygraphe CFC/ Polygraphe CC</td><td>Polygraphe CFC/ Polygraphe CC</td><td>Production de médias</td></tr>
 <tr><td>34709</td><td>Polygraphe CFC/ Polygraphe CC</td><td>Polygraphe CFC/ Polygraphe CC</td><td>Conception de médias</td></tr>
 <tr><td>34710</td><td>Polygraphe CFC/ Polygraphe CC</td><td>Polygraphe CFC/ Polygraphe CC</td><td></td></tr>
@@ -593,21 +604,22 @@ Annexe[^t-1]
 <tr><td>51706</td><td>Poseur de sol – parquet CFC/ Poseur de sol – parquet CC</td><td>Poseuse de sol – parquet CFC/ Poseuse de sol – parquet CC</td><td></td></tr>
 <tr><td>51707</td><td>Poseur de sol – parquet CFC/ Poseur de sol – parquet CC</td><td>Poseuse de sol – parquet CFC/ Poseuse de sol – parquet CC</td><td>Revêtements textiles et résilients</td></tr>
 <tr><td>51708</td><td>Poseur de sol – parquet CFC/ Poseur de sol – parquet CC</td><td>Poseuse de sol – parquet CFC/ Poseuse de sol – parquet CC</td><td>Parquets</td></tr>
-<tr><td>30206</td><td>Praticien sur bois AFP/ Praticien sur bois AP</td><td>Praticienne sur bois AFP/ Praticienne sur bois AP</td><td></td></tr>
 <tr><td>51920</td><td>Praticien en couverture AFP (champ professionnel Enveloppe des édifices)/ Praticien en couverture AP (champ professionnel Enveloppe des édifices)</td><td>Praticien en couverture AFP (champ professionnel Enveloppe des édifices)/ Praticien en couverture AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>52011</td><td>Praticien en couverture AFP (champ professionnel Enveloppe des édifices)/ Praticien en couverture AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en couverture AFP (champ professionnel Enveloppe des édifices)/ Praticienne en couverture AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>21415</td><td>Praticien en denrées alimentaires AFP/Praticien en denrées alimentaires AP</td><td>Praticienne en denrées alimentaires AFP/Praticienne en denrées alimentaires AP</td><td></td></tr>
+<tr><td>21417</td><td>Praticien en denrées alimentaires AFP/Praticien en denrées alimentaires AP</td><td>Praticienne en denrées alimentaires AFP / Praticienne en denrées alimentaires AP</td><td></td></tr>
 <tr><td>51922</td><td>Praticien en échafaudage AFP (champ professionnel Enveloppe des édifices)/ Praticien en échafaudage AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en échafaudage AFP (champ professionnel Enveloppe des édifices)/ Praticienne en échafaudage AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>52013</td><td>Praticien en échafaudage AFP (champ professionnel Enveloppe des édifices)/ Praticien en échafaudage AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en échafaudage AFP (champ professionnel Enveloppe des édifices)/ Praticienne en échafaudage AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>51919</td><td>Praticien en étanchéité AFP (champ professionnel Enveloppe des édifices)/ Praticien en étanchéité AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en étanchéité AFP (champ professionnel Enveloppe des édifices)/ Praticienne en étanchéité AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>52010</td><td>Praticien en étanchéité AFP (champ professionnel Enveloppe des édifices)/ Praticien en étanchéité AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en étanchéité AFP (champ professionnel Enveloppe des édifices)/ Praticienne en étanchéité AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>51921</td><td>Praticien en façades AFP (champ professionnel Enveloppe des édifices)/ Praticien en façades AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en façades AFP (champ professionnel Enveloppe des édifices)/ Praticienne en façades AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>52012</td><td>Praticien en façades AFP (champ professionnel Enveloppe des édifices)/ Praticien en façades AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en façades AFP (champ professionnel Enveloppe des édifices)/ Praticienne en façades AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
-<tr><td>19103</td><td>Praticien forestier AFP/ Praticien forestier AP</td><td>Praticienne forestière AFP/ Praticienne forestier AP</td><td></td></tr>
 <tr><td>45906</td><td>Praticien en mécanique AFP/ Praticien en mécanique AP</td><td>Praticienne en mécanique AFP/ Praticienne en mécanique AP</td><td></td></tr>
 <tr><td>46320</td><td>Praticien en pneumatiques AFP/ Praticien en pneumatiques AP</td><td>Praticienne en pneumatiques AFP/ Praticienne en pneumatiques AP</td><td></td></tr>
 <tr><td>51923</td><td>Praticien en stores AFP (champ professionnel Enveloppe des édifices)/ Praticien en stores AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en stores AFP (champ professionnel Enveloppe des édifices)/ Praticienne en stores AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
 <tr><td>52014</td><td>Praticien en stores AFP (champ professionnel Enveloppe des édifices)/ Praticien en stores AP (champ professionnel Enveloppe des édifices)</td><td>Praticienne en stores AFP (champ professionnel Enveloppe des édifices)/ Praticienne en stores AP (champ professionnel Enveloppe des édifices)</td><td></td></tr>
+<tr><td>19103</td><td>Praticien forestier AFP/ Praticien forestier AP</td><td>Praticienne forestière AFP/ Praticienne forestier AP</td><td></td></tr>
+<tr><td>30206</td><td>Praticien sur bois AFP/ Praticien sur bois AP</td><td>Praticienne sur bois AFP/ Praticienne sur bois AP</td><td></td></tr>
 <tr><td>18114</td><td>Professionnel du cheval CFC/ Professionnel du cheval CC</td><td>Professionnelle du cheval CFC/ Professionnelle du chevCC</td><td></td></tr>
 <tr><td>18104</td><td>Professionnel du cheval CFC/ Professionnel du cheval CC</td><td>Professionnelle du cheval CFC/ Professionnelle du cheval CC</td><td></td></tr>
 <tr><td>18115</td><td>Professionnel du cheval CFC/ Professionnel du cheval CC</td><td>Professionnelle du cheval CFC/ Professionnelle du cheval CC</td><td>Soins aux chevaux</td></tr>
@@ -624,6 +636,9 @@ Annexe[^t-1]
 <tr><td>64616</td><td>Projeteur en technique du bâtiment chauffage CFC/ Projeteur en technique du bâtiment chauffage CC</td><td>Projeteuse en technique du bâtiment chauffage CFC/ Projeteuse en technique du bâtiment chauffage CC</td><td></td></tr>
 <tr><td>64617</td><td>Projeteur en technique du bâtiment ventilation CFC/ Projeteur en technique du bâtiment ventilation CC</td><td>Projeteuse en technique du bâtiment ventilation CFC/ Projeteuse en technique du bâtiment ventilation CC</td><td></td></tr>
 <tr><td>64618</td><td>Projeteur en technique du bâtiment sanitaire CFC/ Projeteur en technique du bâtiment sanitaire CC</td><td>Projeteuse en technique du bâtiment sanitaire CFC/ Projeteuse en technique du bâtiment sanitaire CC</td><td></td></tr>
+<tr><td>64619</td><td>Projeteur en technique du bâtiment chauffage CFC (champ professionnel «planification en technique du bâtiment»)/Projeteur en technique du bâtiment chauffage CC (champ professionnel «planification en technique du bâtiment»)</td><td>Projeteuse en technique du bâtiment chauffage CFC (champ professionnel «planification en technique du bâtiment») / Projeteuse en technique du bâtiment chauffage CC (champ professionnel «planification en technique du bâtiment»)</td><td></td></tr>
+<tr><td>64620</td><td>Projeteur en technique du bâtiment ventilation CFC (champ professionnel «planification en technique du bâtiment»)/Projeteur en technique du bâtiment ventilation CC (champ professionnel «planification en technique du bâtiment»)</td><td>Projeteuse en technique du bâtiment ventilation CFC (champ professionnel «planification en technique du bâtiment») / Projeteuse en technique du bâtiment ventilation CC (champ professionnel «planification en technique du bâtiment»)</td><td></td></tr>
+<tr><td>64621</td><td>Projeteur en technique du bâtiment sanitaire CFC (champ professionnel «planification en technique du bâtiment»)/Projeteur en technique du bâtiment sanitaire CC (champ professionnel «planification en technique du bâtiment»)</td><td>Projeteuse en technique du bâtiment sanitaire CFC (champ professionnel «planification en technique du bâtiment») / Projeteuse en technique du bâtiment sanitaire CC (champ professionnel «planification en technique du bâtiment»)</td><td></td></tr>
 <tr><td>80003</td><td>Ramoneur CFC/Ramoneur CC</td><td>Ramoneuse CFC/Ramoneuse CC</td><td></td></tr>
 <tr><td>80004</td><td>Ramoneuse CFC/Ramoneuse CC</td><td>Ramoneuse CFC/Ramoneuse CC</td><td></td></tr>
 <tr><td>53106</td><td>Réalisateur publicitaire CFC/ Réalisateur publicitaire CC</td><td>Réalisatrice publicitaire CFC/ Réalisatrice publicitaire CC</td><td></td></tr>
@@ -656,14 +671,16 @@ Annexe[^t-1]
 <tr><td>54103</td><td>Technicien-dentiste CFC/ Technicien-dentiste CC</td><td>Technicienne-dentiste CFC/ Technicienne-dentiste CC</td><td></td></tr>
 <tr><td>54104</td><td>Technicien-dentiste CFC/ Technicien-dentiste CC</td><td>Technicienne-dentiste CFC/ Technicienne-dentiste CC</td><td></td></tr>
 <tr><td>66500</td><td>Techniscéniste CFC/ Techniscéniste CC</td><td>Techniscéniste CFC/ Techniscéniste CC</td><td></td></tr>
+<tr><td>21419</td><td>Technologue du brassage et des boissons CFC (champ professionnel technologie des denrées alimentaires)/Technologue du brassage et des boissons CC (champ professionnel technologie des denrées alimentaires)</td><td>Technologue du brassage et des boissons CFC (champ professionnel technologie des denrées alimentaires) / Technologue du brassage et des boissons CC (champ professionnel technologie des denrées alimentaires)</td><td></td></tr>
+<tr><td>21605</td><td>Technologue du lait CFC/ Technologue du lait CC</td><td>Technologue du lait CFC/ Technologue du lait CC</td><td></td></tr>
+<tr><td>21606</td><td>Technologue du lait CFC / Technologue du lait CC</td><td>Technologue du lait CFC / Technologue du lait CC</td><td></td></tr>
 <tr><td>21416</td><td>Technologue en denrées alimentaires CFC/Technologue en denrées alimentaires CC</td><td>Technologue en denrées alimentaires CFC/Technologue en denrées alimentaires CC</td><td></td></tr>
+<tr><td>21418</td><td>Technologue en denrées alimentaires CFC (champ professionnel technologie des denrées alimentaires)/ Technologue en denrées alimentaires CC (champ professionnel technologie des denrées alimentaires)</td><td>Technologue en denrées alimentaires CFC (champ professionnel technologie des denrées alimentaires) / Technologue en denrées alimentaires CC (champ professionnel technologie des denrées alimentaires)</td><td></td></tr>
 <tr><td>87101</td><td>Technologue en dispositifs médicaux CFC/Technologue en dispositifs médicaux CC</td><td>Technologue en dispositifs médicaux CFC/Technologue en dispositifs médicaux CC</td><td></td></tr>
 <tr><td>34126</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Sérigraphie</td></tr>
 <tr><td>34127</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Reprographie</td></tr>
 <tr><td>34128</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Impression feuilles</td></tr>
 <tr><td>34129</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Technologue en impression CFC/ Technologue en impression CC</td><td>Impression rotative</td></tr>
-<tr><td>21605</td><td>Technologue du lait CFC/ Technologue du lait CC</td><td>Technologue du lait CFC/ Technologue du lait CC</td><td></td></tr>
-<tr><td>21606</td><td>Technologue du lait CFC / Technologue du lait CC</td><td>Technologue du lait CFC / Technologue du lait CC</td><td></td></tr>
 <tr><td>34201</td><td>Technologue en médias CFC/ Technologue en médias CC</td><td>Technologue en médias CFC/ Technologue en médias CC</td><td>Impression</td></tr>
 <tr><td>34202</td><td>Technologue en médias CFC/ Technologue en médias CC</td><td>Technologue en médias CFC/ Technologue en médias CC</td><td>Technique printmédia</td></tr>
 <tr><td>34203</td><td>Technologue en médias CFC/ Technologue en médias CC</td><td>Technologue en médias CFC/ Technologue en médias CC</td><td>Sérigraphie</td></tr>

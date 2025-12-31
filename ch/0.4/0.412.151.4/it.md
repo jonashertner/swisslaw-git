@@ -3,11 +3,11 @@ sr: "0.412.151.4"
 title: Accordo del 30 ottobre 2014 tra il Consiglio federale svizzero e il Governo del Principato del Liechtenstein sul riconoscimento reciproco di attestati di capacità e certificati di formazione pratica della formazione professionale di base (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/16"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2014-10-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2015-16-20250101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/16/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2015-16-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/16/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso il 30 ottobre 2014 Entrato in vigore mediante scambio di note il 1° gennaio 2015
 
-(Stato 1° gennaio 2025)
+(Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero
 
@@ -119,7 +119,7 @@ Allegato[^t-1]
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Aggiornato dalle mod. in vigore dal 1° gen. 2016 ([RU 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), dal 1° gen. 2017 ([RU 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), dal 1° gen. 2018 ([RU 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), dal 1° gen. 2019 ([RU 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), dal 1° gen. 2020 ([RU 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), dal 1° gen. 2021 ([RU 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), dal 1° gen. 2022 ([RU 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), dal 1° gen. 2023 ([RU 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)), dal 1° gen. 2024 ([RU 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)) e dal 1° gen. 2025 ([RU 2024 488](https://fedlex.data.admin.ch/eli/oc/2024/488)).
+[^t-1]: Aggiornato dalle mod. in vigore dal 1° gen. 2016 ([RU 2016 47](https://fedlex.data.admin.ch/eli/oc/2016/9)), dal 1° gen. 2017 ([RU 2016 3151](https://fedlex.data.admin.ch/eli/oc/2016/525)), dal 1° gen. 2018 ([RU 2017 5201](https://fedlex.data.admin.ch/eli/oc/2017/572)), dal 1° gen. 2019 ([RU 2019 837](https://fedlex.data.admin.ch/eli/oc/2019/142)), dal 1° gen. 2020 ([RU 2019 2943](https://fedlex.data.admin.ch/eli/oc/2019/535)), dal 1° gen. 2021 ([RU 2021 93](https://fedlex.data.admin.ch/eli/oc/2021/93)), dal 1° gen. 2022 ([RU 2021 923](https://fedlex.data.admin.ch/eli/oc/2021/923)), dal 1° gen. 2023 ([RU 2022 653](https://fedlex.data.admin.ch/eli/oc/2022/653)), dal 1° gen. 2024 ([RU 2023 590](https://fedlex.data.admin.ch/eli/oc/2023/590)), dal 1° gen. 2025 ([RU 2024 488](https://fedlex.data.admin.ch/eli/oc/2024/488)) e dal 1° gen. 2026 ([RU 2025 566](https://fedlex.data.admin.ch/eli/oc/2025/566)).
 [^annexu1-lvlu1-1]: Per ogni titolo è pubblicata nella Raccolta ufficiale delle leggi federali (RU) e poi ripresa nella Raccolta sistematica del diritto federale (RS) un’ordinanza corrispondente. Queste ordinanze svizzere, determinanti ai fini del riconoscimento reciproco dei diplomi, sono disponibili sulla piattaforma di pubblicazione della Confederazione, accessibile al pubblico, all’indirizzo [www.fedlex.admin.ch](http://www.fedlex.admin.ch/) Per ogni titolo è inoltre pubblicata la rispettiva ordinanza nel Liechtensteinischen Landesgesetzblatt. Le ordinanze del Liechtenstein determinanti ai fini del riconoscimento reciproco dei diplomi sono pubblicate su Internet all’indirizzo www.gesetze.li.
 
 <table>
@@ -132,6 +132,7 @@ Allegato[^t-1]
 <tr><td>52014</td><td colspan="2">Addetto al montaggio delle schermature solari CFP (campo professionale dell’involucro edilizio) / Addetto al montaggio delle schermature solari CP (campo professionale dell’involucro edilizio)</td><td colspan="2">Addetta al montaggio delle schermature solari CFP (campo professionale dell’involucro edilizio) / Addetta al montaggio delle schermature solari CP (campo professionale dell’involucro edilizio)</td><td colspan="2"></td></tr>
 <tr><td>51923</td><td colspan="2">Addetto al montaggio di avvolgibili CFP (campo professionale dell’involucro edilizio)/ Addetto al montaggio di avvolgibili CP (campo professionale dell’involucro edilizio)</td><td colspan="2">Addetta al montaggio di avvolgibili CFP (campo professionale dell’involucro edilizio)/ Addetta al montaggio di avvolgibili CP (campo professionale dell’involucro edilizio)</td><td colspan="2"></td></tr>
 <tr><td>21415</td><td colspan="2">Addetto alimentarista CFP/ Addetto alimentarista CP</td><td colspan="2">Addetta alimentarista CFP/ Addetta alimentarista CP</td><td colspan="2"></td></tr>
+<tr><td>21417</td><td colspan="2">Addetto alimentarista CFP / Addetto alimentarista CP</td><td colspan="2">Addetta alimentarista CFP / Addetta alimentarista CP</td><td colspan="2"></td></tr>
 <tr><td>47116</td><td colspan="2">Addetto all’informatica CFP/ Addetto all’informatica CP</td><td colspan="2">Addetta all’informatica CFP/ Addetta all’informatica CP</td><td colspan="2"></td></tr>
 <tr><td>52011</td><td colspan="2">Addetto alla copertura di tetti CFP (campo professionale dell’involucro edilizio) / Addetto alla copertura di tetti CP (campo professionale dell’involucro edilizio)</td><td colspan="2">Addetta alla copertura di tetti CFP (campo professionale dell’involucro edilizio) / Addetta alla copertura di tetti CP (campo professionale dell’involucro edilizio)</td><td colspan="2"></td></tr>
 <tr><td>51920</td><td colspan="3">Addetto alla copertura di tetti CFP (campo professionale dell’involucro edilizio)/ Addetto alla copertura di tetti CP (campo professionale dell’involucro edilizio)</td><td colspan="2">Addetta alla copertura di tetti CFP (campo professionale dell’involucro edilizio)/ Addetta alla copertura di tetti CP (campo professionale dell’involucro edilizio)</td><td></td></tr>
@@ -170,6 +171,7 @@ Allegato[^t-1]
 <tr><td>78405</td><td colspan="2">Addetto del settore alberghiero-economia domestica CFP / Addetto del settore alberghiero-economia domestica CP</td><td colspan="2">Addetta del settore alberghiero-economia domestica CFP / Addetta del settore alberghiero-economia domestica CP</td><td colspan="2"></td></tr>
 <tr><td>79025</td><td colspan="2">Addetto di cucina CFP / Addetto di cucina CP</td><td colspan="2">Addetta di cucina CFP / Addetta di cucina CP</td><td colspan="2"></td></tr>
 <tr><td>79022</td><td colspan="2">Addetto di cucina CFP/ Addetto di cucina CP</td><td colspan="2">Addetta di cucina CFP/ Addetta di cucina CP</td><td colspan="2"></td></tr>
+<tr><td>79012</td><td colspan="2">Addetto di gastronomia standardizzata CFP / Addetto di gastronomia standardizzata CP</td><td colspan="2">Addetta di gastronomia standardizzata CFP / Addetta di gastronomia standardizzata CP</td><td colspan="2"></td></tr>
 <tr><td>21807</td><td colspan="2">Addetto di macelleria CFP/ Addetto di macelleria CP</td><td colspan="2">Addetta di macelleria CFP/ Addetta di macelleria CP</td><td colspan="2"></td></tr>
 <tr><td>79024</td><td colspan="2">Addetto di ristorazione CFP/ Addetto di ristorazione CP</td><td colspan="2">Addetta di ristorazione CFP/ Addetta di ristorazione CP</td><td colspan="2"></td></tr>
 <tr><td>79023</td><td colspan="2">Addetto di ristorazione CFP/ Addetto di ristorazione CP</td><td colspan="2">Addetta di ristorazione CFP/ Addetta di ristorazione CP</td><td colspan="2"></td></tr>
@@ -189,6 +191,7 @@ Allegato[^t-1]
 <tr><td>53003</td><td colspan="2">Aiuto pittore CFP/ Aiuto pittore CP</td><td colspan="2">Aiuto pittrice CFP/ Aiuto pittrice CP</td><td colspan="2"></td></tr>
 <tr><td>35318</td><td colspan="2">Allestitore di prodotti stampati AFC / Allestitore di prodotti stampati AC</td><td colspan="2">Allestitore di prodotti stampati AFC / Allestitore di prodotti stampati AC</td><td colspan="2"></td></tr>
 <tr><td>35316</td><td colspan="2">Assistente alla stampa e all’allestimento CFP/Assistente alla stampa e all’allestimento CP</td><td colspan="2">Assistente alla stampa e all’allestimento CFP/Assistente alla stampa e all’allestimento CP</td><td colspan="2"></td></tr>
+<tr><td>35319</td><td colspan="2">Assistente alla stampa e all’allestimento CFP / Assistente alla stampa e all’allestimento CP</td><td colspan="2">Assistente alla stampa e all’allestimento CFP / Assistente alla stampa e all’allestimento CP</td><td colspan="2"></td></tr>
 <tr><td>68103</td><td colspan="2">Assistente d’ufficio CFP/ Assistente d’ufficio CP</td><td colspan="2">Assistente d’ufficio CFP/ Assistente d’ufficio CP</td><td colspan="2"></td></tr>
 <tr><td>71100</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2"></td></tr>
 <tr><td>71104</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Assistente del commercio al dettaglio CFP/Assistente del commercio al dettaglio CP</td><td colspan="2">Rami: Supporto audio, audiovisivo e musiche</td></tr>
@@ -226,8 +229,10 @@ Allegato[^t-1]
 <tr><td>70610</td><td colspan="2">Assistente di farmacia AFC/ Assistente di farmacia AC</td><td colspan="2">Assistente di farmacia AFC/ Assistente di farmacia AC</td><td colspan="2"></td></tr>
 <tr><td>46318</td><td colspan="2">Assistente di manutenzione per automobili CFP/ Assistente di manutenzione per automobili CP</td><td colspan="2">Assistente di manutenzione per automobili CFP/ Assistente di manutenzione per automobili CP</td><td colspan="2"></td></tr>
 <tr><td>46317</td><td colspan="2">Assistente di manutenzione per automobili CFP/Assistente di manutenzione per automobili CP</td><td colspan="2">Assistente di manutenzione per automobili CFP/Assistente di manutenzione per automobili CP</td><td colspan="2"></td></tr>
+<tr><td>46108</td><td colspan="2">Assistente di manutenzione per veicoli a due ruote CFP / Assistente di manutenzione per veicoli a due ruote CP</td><td colspan="2">Assistente di manutenzione per veicoli a due ruote CFP / Assistente di manutenzione per veicoli a due ruote CP</td><td colspan="2"></td></tr>
 <tr><td>86915</td><td colspan="2">Assistente di studio medico AFC/ Assistente di studio medico AC</td><td colspan="2">Assistente di studio medico AFC/ Assistente di studio medico AC</td><td colspan="2"></td></tr>
 <tr><td>86910</td><td colspan="2">Assistente di studio medico AFC/ Assistente di studio medico AC</td><td colspan="2">Assistente di studio medico AFC/ Assistente di studio medico AC</td><td colspan="2"></td></tr>
+<tr><td>86917</td><td colspan="2">Assistente di studio veterinario AFC / Assistente di studio veterinario AC</td><td colspan="2">Assistente di studio veterinario AFC / Assistente di studio veterinario AC</td><td colspan="2"></td></tr>
 <tr><td>45305</td><td colspan="2">Assistente verniciatore CFP/ Assistente verniciatore CP</td><td colspan="2">Assistente verniciatrice CFP/ Assistente verniciatrice CP</td><td colspan="2"></td></tr>
 <tr><td>73305</td><td colspan="2">Autista di veicoli leggeri CFP/ Autista di veicoli leggeri CP</td><td colspan="2">Autista di veicoli leggeri CFP/ Autista di veicoli leggeri CP</td><td colspan="2"></td></tr>
 <tr><td>73304</td><td colspan="2">Autista di veicoli pesanti AFC/ Autista di veicoli pesanti AC</td><td colspan="2">Autista di veicoli pesanti AFC/ Autista di veicoli pesanti AC</td><td colspan="2"></td></tr>
@@ -240,6 +245,7 @@ Allegato[^t-1]
 <tr><td>45303</td><td colspan="2">Carrozziere lattoniere AFC/ Carrozziere lattoniere AC</td><td colspan="2">Carrozziera lattoniera AFC/ Carrozziera lattoniera AC</td><td colspan="2"></td></tr>
 <tr><td>45307</td><td colspan="2">Carrozziere verniciatore AFC/ Carrozziere verniciatore AC</td><td colspan="2">Carrozziera verniciatrice AFC/ Carrozziera verniciatrice AC</td><td colspan="2"></td></tr>
 <tr><td>45304</td><td colspan="2">Carrozziere verniciatore AFC/ Carrozziere verniciatore AC</td><td colspan="2">Carrozziera verniciatrice AFC/ Carrozziera verniciatrice AC</td><td colspan="2"></td></tr>
+<tr><td>45308</td><td colspan="2">Carrozziere riparatore AFC / Carrozziere riparatore AC</td><td colspan="2">Carrozziera riparatore AFC / Carrozziera riparatore AC</td><td colspan="2"></td></tr>
 <tr><td>39506</td><td colspan="2">Ceramista AFC/Ceramista AC</td><td colspan="2">Ceramista AFC/Ceramista AC</td><td colspan="2"></td></tr>
 <tr><td>52005</td><td colspan="2">Copritetto AFC (campo professionale dell’involucro edilizio) / Copritetto AC (campo professionale dell’involucro edilizio)</td><td colspan="2">Copritetto AFC (campo professionale dell’involucro edilizio) / Copritetto AC (campo professionale dell’involucro edilizio)</td><td colspan="2"></td></tr>
 <tr><td>51915</td><td colspan="3">Copritetto AFC (campo professionale dell’involucro edilizio)/ Copritetto AC (campo professionale dell’involucro edilizio)</td><td colspan="2">Copritetto AFC (campo professionale dell’involucro edilizio)/ Copritetto AC (campo professionale dell’involucro edilizio)</td><td></td></tr>
@@ -303,6 +309,7 @@ Allegato[^t-1]
 <tr><td>51205</td><td colspan="2">Fumista AFC / Fumista AC</td><td colspan="2">Fumista AFC / Fumista AC</td><td colspan="2"></td></tr>
 <tr><td>51204</td><td colspan="2">Fumista AFC/Fumista AC</td><td colspan="2">Fumista AFC/Fumista AC</td><td colspan="2"></td></tr>
 <tr><td>64104</td><td colspan="2">Geomatico AFC/Geomatico AC</td><td colspan="2">Geomatica AFC/Geomatica AC</td><td colspan="2"></td></tr>
+<tr><td>64105</td><td colspan="2">Geomatico AFC / Geomatico AC</td><td colspan="2">Geomatica AFC / Geomatica AC</td><td colspan="2"></td></tr>
 <tr><td>52002</td><td colspan="2">Gessatore-costruttore a secco AFC/ Gessatore-costruttore a secco AC</td><td colspan="2">Gessatrice-costruttrice a secco AFC/ Gessatrice-costruttrice a secco AC</td><td colspan="2"></td></tr>
 <tr><td>70507</td><td colspan="2">Gestore dell’informazione e della documentazione AFC/ Gestore dell’informazione e della documentazione AC</td><td colspan="2">Gestrice dell’informazione e della documentazione AFC/ Gestrice dell’informazione e della documentazione AC</td><td colspan="2"></td></tr>
 <tr><td>70508</td><td colspan="2">Gestore dell’informazione e della documentazione AFC / Gestore dell’informazione e della documentazione AC</td><td colspan="2">Gestrice dell’informazione e della documentazione AFC / Gestrice dell’informazione e della documentazione AC</td><td colspan="2"></td></tr>
@@ -456,6 +463,7 @@ Allegato[^t-1]
 <tr><td>68819</td><td colspan="2">Impiegato di commercio CFC / Impiegato di commercio CC</td><td colspan="2">Impiegata di commercio CFC / Impiegata di commercio CC</td><td colspan="2">Rami: Fiduciario/immobiliare</td></tr>
 <tr><td>68104</td><td colspan="2">Impiegato di commercio CFP / Impiegato di commercio CP</td><td colspan="2">Impiegata di commercio CFP / Impiegata di commercio CP</td><td colspan="2"></td></tr>
 <tr><td>79008</td><td colspan="2">Impiegato di gastronomia standardizzata AFC/Impiegato di gastronomia standardizzata AC</td><td colspan="2">Impiegata di gastronomia standardizzata AFC/Impiegata di gastronomia standardizzata AC</td><td colspan="2"></td></tr>
+<tr><td>79010</td><td colspan="2">Impiegato di gastronomia standardizzata AFC / Impiegato di gastronomia standardizzata AC</td><td colspan="2">Impiegata di gastronomia standardizzata AFC / Impiegata di gastronomia standardizzata AC</td><td colspan="2"></td></tr>
 <tr><td>78705</td><td>Impiegato di ristorazione AFC/ Impiegato di ristorazione AC</td><td colspan="3">Impiegata di ristorazione AFC/ Impiegata di ristorazione AC</td><td colspan="2"></td></tr>
 <tr><td>78704</td><td colspan="2">Impiegato di ristorazione AFC/AC</td><td colspan="2">Impiegata di ristorazione AFC/ Impiegata di ristorazione AC</td><td colspan="2"></td></tr>
 <tr><td>79200</td><td>Impiegato in comunicazione alberghiera/ Impiegato in comunicazione alberghiera AFC/ Impiegato in comunicazione alberghiera/ Impiegato in comunicazione alberghiera AC</td><td colspan="3">Impiegata in comunicazione alberghiera/ Impiegato in comunicazione alberghiera AFC/ Impiegata in comunicazione alberghiera/ Impiegato in comunicazione alberghiera AC</td><td colspan="2"></td></tr>
@@ -514,6 +522,7 @@ Allegato[^t-1]
 <tr><td>21812</td><td colspan="2">Macellaio-salumiere CFP/ Macellaio-salumiere CP</td><td colspan="2">Macellaia-salumiera CFP/ Macellaia-salumiera CP</td><td colspan="2"></td></tr>
 <tr><td>43907</td><td colspan="2">Meccanico d’apparecchi a motore AFC/Meccanico d’apparecchi a motore AC</td><td colspan="2">Meccanica d’apparecchi a motore AFC/Meccanica d’apparecchi a motore AC</td><td colspan="2"></td></tr>
 <tr><td>46105</td><td colspan="2">Meccanico di biciclette AFC/ Meccanico di biciclette AC</td><td colspan="2">Meccanica di biciclette AFC/ Meccanica di biciclette AC</td><td colspan="2"></td></tr>
+<tr><td>46107</td><td colspan="2">Meccanico di biciclette AFC / Meccanico di biciclette AC</td><td colspan="2">Meccanica di biciclette AFC / Meccanica di biciclette AC</td><td colspan="2"></td></tr>
 <tr><td>43905</td><td colspan="2">Meccanico di macchine agricole AFC/Meccanico di macchine agricole AC</td><td colspan="2">Meccanica di macchine agricole AFC/Meccanica di macchine agricole AC</td><td colspan="2"></td></tr>
 <tr><td>43906</td><td colspan="2">Meccanico di macchine edili AFC/Meccanico di macchine edili AC</td><td colspan="2">Meccanica di macchine edili AFC/Meccanica di macchine edili AC</td><td colspan="2"></td></tr>
 <tr><td>46324</td><td colspan="2">Meccanico di manutenzione per automobili AFC/ Meccanico di manutenzione per automobili AC</td><td colspan="2">Meccanica di manutenzione per automobili AFC/ Meccanica di manutenzione per automobili AC</td><td colspan="2"></td></tr>
@@ -524,6 +533,7 @@ Allegato[^t-1]
 <tr><td>46316</td><td colspan="2">Meccanico di manutenzione per automobili AFC/Meccanico di manutenzione per automobili AC</td><td colspan="2">Meccanica di manutenzione per automobili AFC/Meccanica di manutenzione per automobili AC</td><td colspan="2">Veicoli utilitari</td></tr>
 <tr><td>46106</td><td colspan="2">Meccanico di motoleggere e biciclette AFC/Meccanico di motoleggere e biciclette AC</td><td colspan="2">Meccanica di motoleggere e biciclette AFC/Meccanica di motoleggere e biciclette AC</td><td colspan="2"></td></tr>
 <tr><td>46204</td><td colspan="2">Meccanico di motoveicoli AFC/ Meccanico di motoveicoli AC</td><td colspan="2">Meccanica di motoveicoli AFC/ Meccanica di motoveicoli AC</td><td colspan="2"></td></tr>
+<tr><td>46205</td><td colspan="2">Meccanico di motoveicoli AFC / Meccanico di motoveicoli AC</td><td colspan="2">Meccanica di motoveicoli AFC / Meccanica di motoveicoli AC</td><td colspan="2"></td></tr>
 <tr><td>45716</td><td colspan="2">Meccanico di produzione AFC/ Meccanico di produzione AC</td><td colspan="2">Meccanica di produzione AFC/ Meccanica di produzione AC</td><td colspan="2"></td></tr>
 <tr><td>46321</td><td colspan="2">Meccatronico d’automobili AFC/ Meccatronico d’automobili AC</td><td colspan="2">Meccatronica d’automobili AFC/ Meccatronica d’automobili AC</td><td colspan="2"></td></tr>
 <tr><td>46322</td><td colspan="2">Meccatronico d’automobili AFC/ Meccatronico d’automobili AC</td><td colspan="2">Meccatronica d’automobili AFC/ Meccatronica d’automobili AC</td><td colspan="2">Veicoli leggeri</td></tr>
@@ -543,6 +553,8 @@ Allegato[^t-1]
 <tr><td>52015</td><td colspan="2">Montatore di impianti solari CFP (campo professionale dell’involucro edilizio) / Montatore di impianti solari CP (campo professionale dell’involucro edilizio)</td><td colspan="2">Montatrice di impianti solari CFP (campo professionale dell’involucro edilizio) / Montatrice di impianti solari CP (campo professionale dell’involucro edilizio)</td><td colspan="2"></td></tr>
 <tr><td>46426</td><td colspan="2">Montatore in automazione AFC/ Montatore in automazione AC</td><td colspan="2">Montatrice in automazione AFC/ Montatrice in automazione AC</td><td colspan="2"></td></tr>
 <tr><td>51006</td><td colspan="2">Muratore AFC/Muratore AC</td><td colspan="2">Muratrice AFC/Muratrice AC</td><td colspan="2"></td></tr>
+<tr><td>51008</td><td colspan="2">Muratore AFC / Muratore AC</td><td colspan="2">Muratrice AFC / Muratrice AC</td><td colspan="2"></td></tr>
+<tr><td>51009</td><td colspan="2">Muratore CFP / Muratore CP</td><td colspan="2">Muratrice CFP / Muratrice CP</td><td colspan="2"></td></tr>
 <tr><td>54103</td><td colspan="2">Odontotecnico AFC/ Odontotecnico AC</td><td colspan="2">Odontotecnica AFC/ Odontotecnica AC</td><td colspan="2"></td></tr>
 <tr><td>54104</td><td colspan="2">Odontotecnico AFC/ Odontotecnico AC</td><td colspan="2">Odontotecnica AFC/ Odontotecnica AC</td><td colspan="2"></td></tr>
 <tr><td>51005</td><td colspan="2">Operatore al taglio edile AFC/ Operatore al taglio edile AC</td><td colspan="2">Operatrice al taglio edile AFC/ Operatrice al taglio edile AC</td><td colspan="2"></td></tr>
@@ -576,6 +588,7 @@ Allegato[^t-1]
 <tr><td>94307</td><td colspan="2">Operatore socioassistenziale AFC/ Operatore socioassistenziale AC</td><td colspan="2">Operatrice socioassistenziale AFC/ Operatrice socioassistenziale AC</td><td colspan="2">Formazione generica</td></tr>
 <tr><td>86914</td><td>Operatore sociosanitario AFC/ Operatore sociosanitario AC</td><td colspan="3">Operatrice sociosanitaria AFC/ Operatrice sociosanitaria AC</td><td colspan="2"></td></tr>
 <tr><td>86911</td><td colspan="2">Operatore sociosanitario AFC/ Operatore sociosanitario AC</td><td colspan="2">Operatrice sociosanitaria AFC/ Operatrice sociosanitaria AC</td><td colspan="2"></td></tr>
+<tr><td>80104</td><td colspan="2">Operatore tecnico di pulizia AFC / Operatore tecnico di pulizia AC</td><td colspan="2">Operatrice tecnica di pulizia AFC / Operatrice tecnica di pulizia AC</td><td colspan="2"></td></tr>
 <tr><td>17011</td><td colspan="2">Orticoltore AFC (campo professionale agricoltura)/ Orticoltore AC (campo professionale agricoltura)</td><td colspan="2">Orticoltrice AFC (campo professionale agricoltura)/ Orticoltrice AC (campo professionale agricoltura)</td><td colspan="2"></td></tr>
 <tr><td>85506</td><td colspan="2">Ottico AFC / Ottico AC</td><td colspan="2">Ottico AFC / Ottico AC</td><td colspan="2"></td></tr>
 <tr><td>85504</td><td colspan="2">Ottico AFC/Ottico AC</td><td colspan="2">Ottica AFC/Ottica AC</td><td colspan="2"></td></tr>
@@ -607,6 +620,7 @@ Allegato[^t-1]
 <tr><td>45705</td><td colspan="2">Polimeccanico AFC/ Polimeccanico AC</td><td colspan="2">Polimeccanica AFC/ Polimeccanica AC</td><td colspan="2"></td></tr>
 <tr><td>45706</td><td colspan="2">Polimeccanico AFC/ Polimeccanico AC</td><td colspan="2">Polimeccanica AFC/ Polimeccanica AC</td><td colspan="2">Profilo G</td></tr>
 <tr><td>45707</td><td colspan="2">Polimeccanico AFC/ Polimeccanico AC</td><td colspan="2">Polimeccanica AFC/ Polimeccanica AC</td><td colspan="2">Profilo E</td></tr>
+<tr><td>90507</td><td colspan="2">Polydesigner 3D AFC / Polydesigner 3D AC</td><td colspan="2">Polydesigner 3D AFC / Polydesigner 3D AC</td><td colspan="2"></td></tr>
 <tr><td>51708</td><td colspan="2">Posatore di pavimenti – parquet AFC/Posatore di pavimenti – parquet AC</td><td colspan="2">Posatrice di pavimenti – parquet AFC/Posatrice di pavimenti – parquet AC</td><td colspan="2">Parquet</td></tr>
 <tr><td>51706</td><td colspan="2">Posatore di pavimenti – parquet AFC/Posatore di pavimenti – parquet AC</td><td colspan="2">Posatrice di pavimenti – parquet AFC/Posatrice di pavimenti – parquet AC</td><td colspan="2"></td></tr>
 <tr><td>51707</td><td colspan="2">Posatore di pavimenti – parquet AFC/Posatore di pavimenti – parquet AC</td><td colspan="2">Posatrice di pavimenti – parquet AFC/Posatrice di pavimenti – parquet AC</td><td colspan="2">Rivestimenti tessili ed elastici</td></tr>
@@ -631,6 +645,8 @@ Allegato[^t-1]
 <tr><td>64618</td><td colspan="2">Progettista nella tecnica della costruzione impianti sanitari AFC/ Progettista nella tecnica della costruzione impianti sanitari AC</td><td colspan="2">Progettista nella tecnica della costruzione impianti sanitari AFC/ Progettista nella tecnica della costruzione impianti sanitari AC</td><td colspan="2"></td></tr>
 <tr><td>64616</td><td colspan="2">Progettista nella tecnica della costruzione riscaldamento AFC/ Progettista nella tecnica della costruzione riscaldamento AC</td><td colspan="2">Progettista nella tecnica della costruzione riscaldamento AFC/ Progettista nella tecnica della costruzione riscaldamento AC</td><td colspan="2"></td></tr>
 <tr><td>64617</td><td colspan="2">Progettista nella tecnica della costruzione ventilazione AFC/ Progettista nella tecnica della costruzione ventilazione AC</td><td colspan="2">Progettista nella tecnica della costruzione ventilazione AFC/ Progettista nella tecnica della costruzione ventilazione AC</td><td colspan="2"></td></tr>
+<tr><td>64619</td><td colspan="2">Progettista nella tecnica della costruzione riscaldamento AFC (campo professionale «Progetta-zione nella tecnica della costru-zione») / Progettista nella tecnica della costruzione riscaldamento AC (campo professionale «Progettazione nella tecnica della costruzione»)</td><td colspan="2">Progettista nella tecnica della costruzione riscaldamento AFC (campo professionale «Progetta-zione nella tecnica della costru-zione») / Progettista nella tecnica della costruzione riscaldamento AC (campo professionale «Pro-gettazione nella tecnica della costruzione»)</td><td colspan="2"></td></tr>
+<tr><td>64621</td><td colspan="2">Progettista nella tecnica della costruzione impianti sanitari AFC (campo professionale «Progettazione nella tecnica della costruzione») / Progettista nella tecnica della costruzione impianti sanitari AC (campo professionale «Progettazione nella tecnica della costruzione»)</td><td colspan="2">Progettista nella tecnica della costruzione impianti sanitari AFC (campo professionale «Progettazione nella tecnica della costruzione») / Progettista nella tecnica della costruzione impianti sanitari AC (campo professionale «Progettazione nella tecnica della costruzione»)</td><td colspan="2"></td></tr>
 <tr><td>95006</td><td colspan="2">Riciclatore AFC/ Riciclatore AC</td><td colspan="2">Riciclatrice AFC/ Riciclatrice AC</td><td colspan="2"></td></tr>
 <tr><td>95005</td><td colspan="2">Riciclatore AFC/Riciclatore AC</td><td colspan="2">Riciclatrice AFC/Riciclatrice AC</td><td colspan="2"></td></tr>
 <tr><td>36106</td><td colspan="2">Riparatore di calzature CFP/ Riparatore di calzature CP</td><td colspan="2">Riparatrice di calzature CFP/ Riparatrice di calzature CP</td><td colspan="2"></td></tr>
@@ -657,12 +673,14 @@ Allegato[^t-1]
 <tr><td>69201</td><td colspan="2">Sviluppatore business digitale AFC / Sviluppatore business digitale AC</td><td colspan="2">Sviluppatrice business digitale AFC / Sviluppatrice business digitale AC</td><td colspan="2"></td></tr>
 <tr><td>28420</td><td colspan="2">Tappezziere-decoratore AFC / Tappezziere-decoratore AC</td><td colspan="2">Tappezziera-decoratrice AFC / Tappezziera-decoratrice AC</td><td colspan="2"></td></tr>
 <tr><td>21416</td><td colspan="2">Tecnico alimentarista AFC/ Tecnico alimentarista AC</td><td colspan="2">Tecnica alimentarista AFC/ Tecnica alimentarista AC</td><td colspan="2"></td></tr>
+<tr><td>21418</td><td colspan="2">Tecnico alimentarista AFC (campo professionale Tecnologie alimentari) / Tecnico alimentarista AC (campo professionale Tecnologie alimentari)</td><td colspan="2">Tecnica alimentarista AFC (campo professionale Tecnologie alimentari) / Tecnica alimentarista AC (campo professionale Tecnologie alimentari)</td><td colspan="2"></td></tr>
 <tr><td>34201</td><td colspan="2">Tecnologo dei media AFC/ Tecnologo dei media AC</td><td colspan="2">Tecnologa dei media AFC/ Tecnologa dei media AC</td><td colspan="2">Print</td></tr>
 <tr><td>34202</td><td colspan="2">Tecnologo dei media AFC/ Tecnologo dei media AC</td><td colspan="2">Tecnologa dei media AFC/ Tecnologa dei media AC</td><td colspan="2">Tecnica printmedia</td></tr>
 <tr><td>34203</td><td colspan="2">Tecnologo dei media AFC/ Tecnologo dei media AC</td><td colspan="2">Tecnologa dei media AFC/ Tecnologa dei media AC</td><td colspan="2">Serigrafia</td></tr>
 <tr><td>21606</td><td colspan="2">Tecnologo del latte AFC / Tecnologo del latte AC</td><td colspan="2">Tecnologa del latte AFC / Tecnologa del latte AC</td><td colspan="2"></td></tr>
 <tr><td>21605</td><td colspan="2">Tecnologo del latte AFC/ Tecnologo del latte AC</td><td colspan="2">Tecnologa del latte AFC/ Tecnologa del latte AC</td><td colspan="2"></td></tr>
 <tr><td>35317</td><td colspan="2">Tecnologo di rilegatura AFC / Tecnologo di rilegatura AC</td><td colspan="2">Tecnologa di rilegatura AFC / Tecnologa di rilegatura AC</td><td colspan="2"></td></tr>
+<tr><td>21419</td><td colspan="2">Tecnico della birrificazione e delle bevande AFC (campo professionale Tecnologie alimentari) / Tecnico della birrificazione e delle bevande AC (campo professionale Tecnologie alimentari)</td><td colspan="2">Tecnica della birrificazione e delle bevande AFC (campo professionale Tecnologie alimentari) / Tecnica della birrificazione e delle bevande AC (campo professionale Tecnologie alimentari)</td><td colspan="2"></td></tr>
 <tr><td>34126</td><td colspan="2">Tecnologo di stampa AFC/ Tecnologo di stampa AC</td><td colspan="2">Tecnologa di stampa AFC/ Tecnologa di stampa AC</td><td colspan="2">Serigrafia</td></tr>
 <tr><td>34127</td><td colspan="2">Tecnologo di stampa AFC/ Tecnologo di stampa AC</td><td colspan="2">Tecnologa di stampa AFC/ Tecnologa di stampa AC</td><td colspan="2">Reprografia</td></tr>
 <tr><td>34128</td><td colspan="2">Tecnologo di stampa AFC/ Tecnologo di stampa AC</td><td colspan="2">Tecnologa di stampa AFC/ Tecnologa di stampa AC</td><td colspan="2">Stampa a fogli</td></tr>
