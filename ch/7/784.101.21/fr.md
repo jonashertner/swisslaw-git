@@ -4,11 +4,11 @@ title: "Ordonnance de l'OFCOM du 26 mai 2016 sur les installations de télécomm
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: fr
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20250101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20250101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-307-20260101-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20250101/fr"
 
 (OOIT)
 
-du 26 mai 2016 (État le 1<sup>er</sup> janvier 2025)
+du 26 mai 2016 (État le 1<sup>er</sup> janvier 2026)
 
 L’Office fédéral de la communication (OFCOM),
 
@@ -25,8 +25,8 @@ vu l’art. 31, al. 5, de la loi du 30 avril 1997 sur les télécommunications (
 
 arrête:
 
-[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
-[^ingress-2]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
+[^ingress-1]: [RS 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
+[^ingress-2]: [RS 784.101.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9182)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 21 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7137](https://fedlex.data.admin.ch/eli/oc/2017/771)).
 
 #### Art. 1
@@ -51,7 +51,7 @@ Les installations de radiocommunication qui, en vertu de l’art. 7, al. 2<sup>b
 
 <sup>2</sup> Les prescriptions concernant l’emplacement des interfaces prescrites figurent à l’annexe 1, ch. 4, de l’ordonnance de l’Office fédéral de la communication du 9 décembre 1997 sur les services de télécommunication et les ressources d’adressage[^2-1].
 
-[^2-1]: [RS 784.101.113](https://fedlex.data.admin.ch/eli/cc/1998/480_480_480)
+[^2-1]: [RS 784.101.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9177)
 
 #### Art. 2a
 
@@ -115,7 +115,7 @@ Les organismes d’évaluation de la conformité doivent participer aux activit�
 <sup>2</sup> L’art. 32, al. 3, OUS s’applique par analogie.
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)).
-[^5-2]: [RS 784.102.1](https://fedlex.data.admin.ch/eli/cc/2020/1024)
+[^5-2]: [RS 784.102.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9187)
 
 #### Art. 6
 
@@ -143,8 +143,8 @@ Les installations émettrices pour radioamateurs disponibles dans le commerce, n
 <sup>5</sup> Quiconque remet des installations, conformément aux art. 6, al. 2, et 25, al. 1, let. a, OIT doit conserver pendant cinq ans les pièces justificatives concernant la mise à disposition sur le marché, en particulier le bulletin de livraison et la facture.
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 5 juil. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
-[^7-2]: [RS 784.104](https://fedlex.data.admin.ch/eli/cc/1997/2879_2879_2879)
-[^7-3]: [RS 784.106](https://fedlex.data.admin.ch/eli/cc/2020/1028)
+[^7-2]: [RS 784.104](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9196)
+[^7-3]: [RS 784.106](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9200)
 [^7-4]: Nouvelle teneur selon le ch. I de l’O de l’OFCOM du 5 juil. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 475](https://fedlex.data.admin.ch/eli/oc/2021/475)).
 
 #### Art. 8
@@ -221,7 +221,7 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]: Le texte de l’accord peut être obtenu contre paiement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consulté gratuitement à l’adresse Internet suivante: [www.rainwat.bipt.be](https://www.bipt.be/operators/publication/rainwat-agreement)
 [^annex1-lvlu1-2]: 2000/637/CE: Décision de la Commission du 22 septembre 2000 relative à l’application de l’art. 3, par. 3, point e), de la directive 1999/5/CE aux équipements hertziens soumis à l’Accord régional relatif aux services radiotéléphoniques dans la navigation intérieure, version du JO L 269 du 21.10.2000, p. 50.
-[^annex1-lvlu1-3]: [RS 0.747.363.33](https://fedlex.data.admin.ch/eli/cc/1982/128_128_128)
+[^annex1-lvlu1-3]: [RS 0.747.363.33](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3098)
 [^annex1-lvlu1-4]: 2013/638/UE: Décision de la Commission du 12 août 2013 concernant les exigences essentielles relatives aux équipements hertziens marins destinés à être utilisés à bord des navires non soumis à la convention SOLAS en vue de participer au système mondial de détresse et de sécurité en mer (SMDSM), version du JO L 296 du 7.11.2013, p. 22.
 [^annex1-lvlu1-5]: 2001/148/CE: Décision de la Commission du 21 février 2001 concernant l’application de l’art. 3, par. 3, point e), de la directive 1999/5/CE sur les balises d’avalanche, version du JO L 55 du 24.2.2001, p. 65.
 [^annex1-lvlu1-6]: 2005/53/CE: Décision de la Commission du 25 janvier 2005 relative à l’application de l’art. 3, par. 3, point e), de la directive 1999/5/CE du Parlement européen et du Conseil aux équipements hertziens destinés à participer au système d’identification automatique (Automatic Identification System: AIS), version du JO L 22 du 26.1.2005, p. 14.
@@ -231,11 +231,11 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-10]: Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, JO L 117 du 5.5.2017, p. 176; modifié en dernier lieu par le règlement (UE) 2022/112, JO L 19 du 28.1.2022, p. 3.
 [^annex1-lvlu1-11]: Règlement délégué (UE) 2022/30 de la Commission du 29 octobre 2021 complétant la directive 2014/53/UE du Parlement européen et du Conseil en ce qui concerne l’application des exigences essentielles visées à l’art. 3, par. 3, points d), e) et f), de cette directive, version du JO L 7 du 12.1.2022, p. 6.
 [^annex1-lvlu1-12]: Voir note de bas de page relative au ch. 7
-[^annex1-lvlu1-13]: [RS 817.023.11](https://fedlex.data.admin.ch/eli/cc/2012/573)
+[^annex1-lvlu1-13]: [RS 817.023.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9690)
 [^annex1-lvlu1-14]: Voir note de bas de page relative au ch. 7
 [^annex1-lvlu1-15]: Voir note de bas de page relative au ch. 7
-[^annex1-lvlu1-16]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^annex1-lvlu1-17]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^annex1-lvlu1-16]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3158)).
+[^annex1-lvlu1-17]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^annex1-lvlu1-18]: Directive (UE) 2019/520 du Parlement européen et du Conseil du 19 mars 2019 concernant l’interopérabilité des systèmes de télépéage routier et facilitant l’échange transfrontière d’informations relatives au défaut de paiement des redevances routières dans l’Union, JO L 91 du 29.3.2019, p. 45; modifiée en dernier lieu par la directive (UE) 2022/362, JO L 69 du 4.3.2022, p. 1.
 [^annex1-lvlu1-19]: Directive (UE) 2019/713 du Parlement européen et du Conseil du 17 avril 2019 concernant la lutte contre la fraude et la contrefaçon des moyens de paiement autres que les espèces et remplaçant la décision-cadre 2001/413/JAI du Conseil, version du JO L 123 du 10.5.2019, p. 18.
 [^annex1-lvlu1-20]: Voir note de bas de page relative au ch. 7
@@ -253,8 +253,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour par le ch. I des O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), le ch. II al. 2 de l’O de l’OFCOM du 21 juil. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)), le ch. I des O de l’OFCOM du 8 nov. 2022 ([RO 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)), du 6 nov. 2023 ([RO 2023 665](https://fedlex.data.admin.ch/eli/oc/2023/665)) et du 12 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 694](https://fedlex.data.admin.ch/eli/oc/2024/694)).
-[^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: [www.ofcom.ch](https://www.bakom.admin.ch/bakom/fr/page-daccueil/frequences-et-antennes/plan-national-d-attribution-des-frequences/prescriptions-techniques-d-interface.html) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour par le ch. I des O de l’OFCOM du 23 mars 2021 ([RO 2021 196](https://fedlex.data.admin.ch/eli/oc/2021/196)), du 11 nov. 2021 ([RO 2021 738](https://fedlex.data.admin.ch/eli/oc/2021/738)), le ch. II al. 2 de l’O de l’OFCOM du 21 juil. 2022 ([RO 2022 437](https://fedlex.data.admin.ch/eli/oc/2022/437)), le ch. I des O de l’OFCOM du 8 nov. 2022 ([RO 2022 670](https://fedlex.data.admin.ch/eli/oc/2022/670)), du 6 nov. 2023 ([RO 2023 665](https://fedlex.data.admin.ch/eli/oc/2023/665)), du 12 nov. 2024 ([RO 2024 694](https://fedlex.data.admin.ch/eli/oc/2024/694)) et du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 737](https://fedlex.data.admin.ch/eli/oc/2025/737)).
+[^annex2-lvlu1-1]: Les prescriptions applicables aux interfaces peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: [www.ofcom.ch](https://www.bakom.admin.ch/fr) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Prescriptions techniques d’interface (RIR).
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Titre du document</th><th>Édition</th></tr>
@@ -268,7 +268,7 @@ Annexe 2[^t-2]
 <tr><td>RIR0203</td><td>Services pour la réalisation de programmes et d’événements spéciaux (PMSE)</td><td>23</td></tr>
 <tr><td>RIR0301</td><td>Faisceaux hertziens point à multipoint</td><td>12</td></tr>
 <tr><td>RIR0302</td><td>Faisceaux hertziens point à point</td><td>31</td></tr>
-<tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>20</td></tr>
+<tr><td>RIR0501</td><td>Téléphonie digitale cellulaire</td><td>21</td></tr>
 <tr><td>RIR0503</td><td>Téléphones sans fil</td><td>9</td></tr>
 <tr><td>RIR0504</td><td>Équipements radio pour services d’urgence</td><td>11</td></tr>
 <tr><td>RIR0506</td><td>Installations de recherche de personnes (pager)</td><td>9</td></tr>
@@ -284,22 +284,22 @@ Annexe 2[^t-2]
 <tr><td>RIR0806</td><td>Stations terriennes fixes de communication par satellite (FSS)</td><td>18</td></tr>
 <tr><td>RIR0808</td><td>Stations terriennes mobiles de communication par satellite (MSS)</td><td>19</td></tr>
 <tr><td>RIR0809</td><td>Systèmes de radionavigation par satellite (RNSS)</td><td>4</td></tr>
-<tr><td>RIR1001</td><td>Systèmes d’alarme</td><td>12</td></tr>
+<tr><td>RIR1001</td><td>Systèmes d’alarme</td><td>13</td></tr>
 <tr><td>RIR1002</td><td>Applications ferroviaires</td><td>12</td></tr>
-<tr><td>RIR1003</td><td>Recherche, suivi et acquisition de données</td><td>18</td></tr>
-<tr><td>RIR1004</td><td>Radiorepérage</td><td>18</td></tr>
-<tr><td>RIR1005</td><td>Applications inductives</td><td>13</td></tr>
+<tr><td>RIR1003</td><td>Recherche, suivi et acquisition de données</td><td>19</td></tr>
+<tr><td>RIR1004</td><td>Radiorepérage</td><td>19</td></tr>
+<tr><td>RIR1005</td><td>Applications inductives</td><td>14</td></tr>
 <tr><td>RIR1006</td><td>Applications sans fil dans le domaine de la santé</td><td>19</td></tr>
 <tr><td>RIR1007</td><td>Télécommandes de modèles réduits</td><td>9</td></tr>
-<tr><td>RIR1008</td><td>Application à courte portée non spécifiques</td><td>23</td></tr>
-<tr><td>RIR1009</td><td>Microphones sans fil</td><td>26</td></tr>
+<tr><td>RIR1008</td><td>Application à courte portée non spécifiques</td><td>24</td></tr>
+<tr><td>RIR1009</td><td>Microphones sans fil</td><td>27</td></tr>
 <tr><td>RIR1010</td><td>Systèmes de transmission de données à large bande</td><td>19</td></tr>
 <tr><td>RIR1011</td><td>Identification par fréquence radio (RFID)</td><td>12</td></tr>
 <tr><td>RIR1012</td><td>Télématique des transports et du trafic (TTT)</td><td>16</td></tr>
-<tr><td>RIR1013</td><td>Applications audio sans fil</td><td>17</td></tr>
+<tr><td>RIR1013</td><td>Application audio sans fil</td><td>18</td></tr>
 <tr><td>RIR1021</td><td>Télécommande, transmission de données et télémétrie à puissance élevée</td><td>12</td></tr>
 <tr><td>RIR1023</td><td>Applications à bande ultra large (UWB)</td><td>12</td></tr>
-<tr><td>RIR1101</td><td>Équipements radioamateurs</td><td>14</td></tr>
+<tr><td>RIR1101</td><td>Équipements radioamateurs</td><td>15</td></tr>
 <tr><td>RIR1102</td><td>Équipements radio CB</td><td>9</td></tr>
 <tr><td>RIR1108</td><td>Radiolocalisation (civil)</td><td>9</td></tr>
 </table>
@@ -388,15 +388,15 @@ Annexe 5[^t-4]
 
 [^annex5-lvlu1-1]
 
-[^t-4]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour par le ch. I de l’O de l’OFCOM du 12 nov. 2024, en vigueur depuis le 1<sup>er</sup> janv. 2025 ([RO 2024 694](https://fedlex.data.admin.ch/eli/oc/2024/694)).
+[^t-4]: Nouvelle teneur selon le ch. II de l’O de l’OFCOM du 18 nov. 2020 ([RO 2020 5277](https://fedlex.data.admin.ch/eli/oc/2020/913)). Mise à jour par le ch. I de l’O de l’OFCOM du 12 nov. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 737](https://fedlex.data.admin.ch/eli/oc/2025/737)).
 [^annex5-lvlu1-1]: Ces prescriptions techniques et administratives peuvent être obtenues gratuitement auprès de l’Office fédéral de la communication, rue de l’Avenir 44, case postale, 2501 Bienne, ou consultées gratuitement sur son site à l’adresse suivante: [www.ofcom.ch](http://www.ofcom.ch) &gt; L’OFCOM &gt; Bases légales &gt; Pratique en matière d’exécution &gt; Appareils et installations &gt; Autres prescriptions.
 
 <table>
 <tr><th>N<sup>o</sup></th><th>Titre du document</th><th>Édition</th></tr>
 <tr><td>PTA 5.1 (art. 6)</td><td>Prescriptions techniques et administratives concernant les installations de télécommunication filaires utilisant la technologie des courants porteurs en ligne (CPL)</td><td>5</td></tr>
-<tr><td>PTA 5.2 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices fixes</td><td>5</td></tr>
-<tr><td>PTA 5.3 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices mobiles</td><td>5</td></tr>
-<tr><td>PTA 5.4 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations de localisation, de surveillance et de communication</td><td>4</td></tr>
+<tr><td>PTA 5.2 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices fixes</td><td>6</td></tr>
+<tr><td>PTA 5.3 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations perturbatrices mobiles</td><td>6</td></tr>
+<tr><td>PTA 5.4 (art. 4, al. 2)</td><td>Prescriptions techniques et administratives applicables aux installations de radiocommunication destinées à être exploitées pour assurer la sécurité publique par des autorités: installations de localisation, de surveillance et de communication</td><td>5</td></tr>
 </table>
 
 Annexe 6[^t-5]
@@ -411,7 +411,7 @@ Annexe 6[^t-5]
 
 <sup>2</sup> Il contient le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20260101/fr/xml/image/image1.png)
 
 <sup>3</sup> Pour une installation de radiocommunication portant la marque suisse de con-formité selon l’annexe 1, ch. 1, OIT, il mentionne, en dessous ou à côté du symbole figurant à l’al. 2, l’abréviation de la Suisse (CH).
 
@@ -429,13 +429,13 @@ Annexe 6[^t-5]
 <sup>7</sup> Exemple, à caractère informatif:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/fr/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20260101/fr/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20260101/fr/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Règlement d’exécution (UE) 2017/1354 de la Commission du 20 juillet 2017 précisant comment présenter les informations prévues à l’art. 10, par. 10, de la directive 2014/53/UE du Parlement européen et du Conseil, version du JO L 190 du 21.7.2017, p. 7.
@@ -489,11 +489,11 @@ Annexe 7[^t-6]
 
 - a. pour les installations de radiocommunication vendues avec un dispositif de charge:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20260101/fr/xml/image/image2.png)
 
 - b. pour les installations de radiocommunication vendues sans dispositif de charge:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20260101/fr/xml/image/image3.png)
 
 \2. Pour autant que le pictogramme reste visible et lisible, des variations, notamment au regard de sa couleur, de son aspect plein ou creux ou de l’épaisseur du trait, sont autorisées. En cas de réduction ou d’agrandissement, les proportions indiquées dans les graphismes figurant au ch. 1 doivent être maintenues. La dimension «a» doit être supérieure ou égale à 7 mm, quelle que soit la variation.
 
@@ -501,7 +501,7 @@ Annexe 7[^t-6]
 
 \1. L’étiquetage se présente dans le format suivant et avec le symbole suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20250101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20260101/fr/xml/image/image4.png)
 
 \2. Les lettres XX sont remplacées par le chiffre correspondant à la puissance minimale requise par l’installation de radiocommunication à charger, qui définit la puissance minimale qu’un dispositif de charge doit fournir pour charger l’installation de radiocommunication. Les lettres YY sont remplacées par le chiffre correspondant à la puissance maximale requise par l’installation de radiocommunication pour atteindre la vitesse de charge maximale, qui détermine la puissance qu’un dispositif de charge doit fournir au minimum pour atteindre cette vitesse de chargement maximale. L’abréviation USB PD (USB Power Delivery) est affichée si l’installation est compatible avec ce protocole de communication pour la charge rapide.
 
