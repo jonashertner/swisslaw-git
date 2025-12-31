@@ -3,13 +3,12 @@ canton: BS
 number: RiE 494.400
 title: Reglement betreffend Ausrichtung eines Kulturpreises
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-19
+version: 2026-01-01
+version_adopted: 2025-10-28
 adopted: 2018-04-10
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20494.400"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6101/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6682/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6101/pdf_file"
 
 Kulturpreis: Reglement | Riehen: Einwohnergemeinde
 
-Vom 10. April 2018 (Stand 1. Januar 2024)
+Vom 10. April 2018 (Stand 1. Januar 2026)
 
 Der Gemeinderat Riehen,
 
@@ -40,6 +39,8 @@ beschliesst:
 
 <sup>1</sup> Für die Ausrichtung des Kulturpreises ist eine Jury, bestehend aus sieben Mitgliedern, zuständig. Sie wird vom Gemeinderat gewählt.
 
+<sup>2</sup> Ihre Entscheide trifft sie nach geheimer Beratung mit einfacher Stimmenmehrheit.
+
 #### § 3
 
 **Amtsdauer**
@@ -51,6 +52,8 @@ beschliesst:
 **Organisation**
 
 <sup>1</sup> Die Jury wählt aus ihren Mitgliedern das Präsidium und Vizepräsidium für eine Amtsdauer von zwei Jahren.
+
+<sup>1<sup>bis</sup></sup> Das Sekretariat wird von der zuständigen Verwaltungsabteilung sichergestellt. Die Protokolle werden nur den Mitgliedern zugestellt und sind nicht öffentlich zugänglich.
 
 <sup>2</sup> Die Organisation der Vergabe des Kulturpreises erfolgt durch die zuständige Verwaltungsabteilung.
 
@@ -70,15 +73,15 @@ beschliesst:
 
 **Ausrichtung des Kulturpreises**
 
-<sup>1</sup> Der Kulturpreis wird in der Regel jährlich ausgerichtet.
+<sup>1</sup> Der Kulturpreis wird in der Regel alle zwei Jahre ausgerichtet.
 
 #### § 8
 
 **Preissumme**
 
-<sup>1</sup> Für die Ausrichtung des Kulturpreises steht jährlich eine Preissumme von CHF 15'000.- zur Verfügung.
+<sup>1</sup> Für die Ausrichtung des Kulturpreises steht jeweils eine Preissumme von CHF 10'000 zur Verfügung.
 
-<sup>2</sup> Im Einzelfall dürfen in der Regel nicht mehr als CHF 15'000.- ausgerichtet werden. Es können auch mehrere Auszeichnungen verliehen werden.
+<sup>2</sup> Im Einzelfall dürfen in der Regel nicht mehr als CHF 10'000 ausgerichtet werden. Es können auch mehrere Auszeichnungen verliehen werden.
 
 #### § 9
 
@@ -92,13 +95,13 @@ beschliesst:
 
 **Vorschlag**
 
-<sup>1</sup> Die Jury unterbreitet dem Gemeinderat jährlich einen Vorschlag für die Vergabe des Kulturpreises zur Genehmigung.
+<sup>1</sup> Die Jury unterbreitet dem Gemeinderat alle zwei Jahre einen Vorschlag für die Vergabe des Kulturpreises zur Genehmigung.
 
 #### § 11
 
 **Entscheid**
 
-<sup>1</sup> Der Entscheid betreffend Kulturpreis wird in der Regel spätestens im März für das vorangegangene Kalenderjahr getroffen.
+<sup>1</sup> Der Entscheid betreffend Kulturpreis wird in der Regel spätestens im März getroffen.
 
 *Schlussbestimmung*
 
