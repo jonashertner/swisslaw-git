@@ -4,11 +4,11 @@ title: "Verordnung vom 14. November 2018 über den Notfallschutz in der Umgebung
 short: NFSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/780"
 language: de
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20250101/de/xml/fedlex-data-admin-ch-eli-cc-2018-780-20250101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20250101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-780-20260101-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20250101/de"
 
 (Notfallschutzverordnung, NFSV)
 
-vom 14. November 2018 (Stand am 1. Januar 2025)
+vom 14. November 2018 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf die Artikel 5 Absatz 4 und 101 Absatz 1 des Kernenergiegesetzes vo
 
 verordnet:
 
-[^ingress-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^ingress-2]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dezember 2019 ([SR 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^ingress-1]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^ingress-2]: [[AS 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)Ziff. II Abs. 1 Bst. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)Anhang Ziff. 3; [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)Anhang Ziff. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)Art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)Anhang Ziff. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)Anhang Ziff. 7. [AS 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)Anhang Ziff. I]. Siehe heute: das BG vom 20. Dezember 2019 ([SR 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -69,7 +69,7 @@ Um jede Kernanlage werden für den Fall eines schweren Störfalles zwei Notfalls
 
 <sup>5</sup> Das Eidgenössische Nuklearsicherheitsinspektorat (ENSI) erhebt die für die Festlegung der Notfallschutzzonen erforderlichen Geodaten. Die Erhebung, Nachführung und Nutzung dieser Daten richtet sich nach der Verordnung vom 21. Mai 2008[^3-1] über Geoinformation.
 
-[^3-1]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^3-1]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 4
 
@@ -134,7 +134,7 @@ Im Ereignisfall haben die Betreiber von Kernanlagen folgende Aufgaben:
 - d. Sie bestimmen rechtzeitig den Quellterm und übermitteln diesen an das ENSI.
 
 [^7-1]: Fassung gemäss Anhang 3 Ziff. II 6 der Bevölkerungsschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
-[^7-2]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^7-2]: [SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 
 ## 4. Abschnitt: Aufgaben des ENSI
 
@@ -164,7 +164,7 @@ Das ENSI hat im Ereignisfall folgende Aufgaben:
 - d. Es berät das Bundesamt für Bevölkerungsschutz (BABS) und den Bundesstab Bevölkerungsschutz (BSTB) nach der Verordnung vom 2. März 2018[^9-1] über den Bundesstab Bevölkerungsschutz (VBSTB) bei der Anordnung von Schutzmassnahmen für die Bevölkerung.
 - e. Es stuft das Ereignis auf der internationalen Störfall-Bewertungsskala INES der IAEA ein.
 
-[^9-1]: [SR 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162)
+[^9-1]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
 
 ## 5. Abschnitt: Aufgaben weiterer Bundesstellen
 
@@ -178,7 +178,7 @@ Das ENSI hat im Ereignisfall folgende Aufgaben:
 
 <sup>3</sup> Im Ereignisfall kann MeteoSchweiz für die Leistungserbringung die Unterstützung durch die Einsatzelemente der Armee nach Artikel 67 Absatz 1 Buchstabe d des Militärgesetzes vom 3. Februar 1995[^10-1] anfordern.
 
-[^10-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^10-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 11
 
@@ -194,8 +194,8 @@ Das BABS hat im Rahmen der Planung und Vorbereitung des Notfallschutzes neben de
 - f. Es führt alle zwei Jahre in Absprache mit den Notfallschutzpartnern eine Gesamtnotfallübung durch.
 - g. Es erstellt Vorgaben als Grundlage für die Planung der Einsätze durch die Kantone.
 
-[^11-1]: [SR 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162)
-[^11-2]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^11-1]: [SR 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
+[^11-2]: [SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 [^11-3]: Fassung gemäss Anhang 3 Ziff. II 6 der Bevölkerungsschutzverordnung vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 
 #### Art. 12
@@ -355,7 +355,7 @@ Anhang 2
 
 Die Notfallschutzzone 2 ist in sechs sich überlappende Gefahrensektoren von je 120° eingeteilt. Sofern es die Windverhältnisse eindeutig zulassen, kann damit eine angepasste Alarmierung durchgeführt werden.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20250101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20260101/de/xml/image/image1.png)
 
 Anhang 3[^t-1]
 
@@ -363,13 +363,13 @@ Anhang 3[^t-1]
 
 ## Den Notfallschutzzonen 1 und 2 zugeordnete Gemeinden und Gemeindeteile sowie spezielle Gefährdungszone PSI/ZWILAG (Zone 1)
 
-[^t-1]: Fassung gemäss Ziff. I der V des ENSI vom 26. Nov. 2024, in Kraft seit 1. Jan. 2025 ([AS 2024 763](https://fedlex.data.admin.ch/eli/oc/2024/763)).
+[^t-1]: Fassung gemäss Ziff. I der V des ENSI vom 25. Nov. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 784](https://fedlex.data.admin.ch/eli/oc/2025/784)).
 
 ### 1. Gemeinden der Notfallschutzzonen 1 und 2 inklusive der Gefahrensektoren
 
 [^annex3-lvlu1-lvl1-1]
 
-[^annex3-lvlu1-lvl1-1]: Die Zuordnung der Gemeinden zu den Zonen ist einsehbar unter: [www.ensi.ch/de](http://www.ensi.ch/de) &gt; Notfallschutz &gt; Notfallschutz und Zonenpläne.
+[^annex3-lvlu1-lvl1-1]: Die Zuordnung der Gemeinden zu den Zonen ist einsehbar unter [www.ensi.ch/de](https://ensi.admin.ch/de/) &gt; Notfallschutz &gt; Vorsorge &gt; Notfallschutzzonen.
 
 Bezeichnungen der Kernkraftwerke:
 
@@ -422,7 +422,7 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Bremgarten bei Bern</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Brittnau</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Brugg[^annex3-lvlu1-lvl1-lvlu1-1]</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
-<tr><td>Brugg (nur ehem. Gde. Schinznach-Bad)</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
+<tr><td>Brugg (nur ehem. Gde. Schinznach-Bad und Villnachern)[^annex3-lvlu1-lvl1-lvlu1-2]</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Brügg</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Brunegg</td><td>Lenzburg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Brunegg</td><td>Lenzburg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td></td></tr>
@@ -498,7 +498,7 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Grossaffoltern</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Gunzgen</td><td>Olten</td><td>SO</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Gurbrü</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>Gurmels</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td></td></tr>
+<tr><td>Gurmels[^annex3-lvlu1-lvl1-lvlu1-3] [^annex3-lvlu1-lvl1-lvlu1-4]</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Habsburg</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Habsburg</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Häfelfingen</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td></tr>
@@ -555,7 +555,7 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Küttigen</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>La Neuveville</td><td>Berner Jura</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>La Sonnaz</td><td>La Sarine</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
-<tr><td>Laténa[^annex3-lvlu1-lvl1-lvlu1-2] (nur ehem. Gde. La Tène)</td><td>Littoral</td><td>NE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
+<tr><td>Laténa (nur ehem. Gde. La Tène)</td><td>Littoral</td><td>NE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Lampenberg</td><td>Waldenburg</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Langenbruck</td><td>Waldenburg</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Langenthal (nur ehem. Gde. Untersteckholz)</td><td>Oberaargau</td><td>BE</td><td>G</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
@@ -735,7 +735,6 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Twann-Tüscherz</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Ueberstorf</td><td>Sense</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Uerkheim</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
-<tr><td>Ulmiz</td><td>See / du Lac</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Unterentfelden</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td>X</td></tr>
 <tr><td>Unterkulm</td><td>Kulm</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Untersiggenthal</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
@@ -743,8 +742,6 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Veltheim (AG)</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Veltheim (AG)</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Villigen</td><td>Brugg</td><td>AG</td><td>B/L</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Villnachern</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
-<tr><td>Villnachern</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Vinelz</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Vordemwald</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Vully-les-Lacs</td><td>La Broye-Vully</td><td>VD</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
@@ -769,8 +766,8 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Wittinsburg</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
-<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-3]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-4]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
+<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-5]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Wohlen bei Bern (teilweise)[^annex3-lvlu1-lvl1-lvlu1-6]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Wohlenschwil</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
@@ -787,27 +784,29 @@ Bezeichnungen der Kernkraftwerke:
 <tr><td>Zofingen</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Zollikofen</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Zunzgen</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
-<tr><td>Zurzach[^annex3-lvlu1-lvl1-lvlu1-5]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
+<tr><td>Zurzach[^annex3-lvlu1-lvl1-lvlu1-7]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Zuzgen</td><td>Rheinfelden</td><td>AG</td><td>G</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Zuzwil (BE)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 </table>
 
-[^annex3-lvlu1-lvl1-lvlu1-1]: Die ehemalige Gemeinde Schinznach-Bad ist nur den Sektoren 3 und 4 zugeordnet.
-[^annex3-lvlu1-lvl1-lvlu1-2]: Fusion der Gemeinden Enges, Hauterive, La Tène und Saint-Blaise.
-[^annex3-lvlu1-lvl1-lvlu1-3]: Nur Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvl1-lvlu1-4]: Ohne Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvl1-lvlu1-5]: Die ehemaligen Gemeinden Kaiserstuhl, Rekingen, Rümikon und Wislikofen sind nur den Sektoren 1 und 2 zugeordnet.
+[^annex3-lvlu1-lvl1-lvlu1-1]: Die ehemaligen Gemeinden Schinznach-Bad und Villnachern sind nur den Sektoren 3 und 4 zugeordnet.
+[^annex3-lvlu1-lvl1-lvlu1-2]: Fusion der Gemeinden Brugg und Villnachern.
+[^annex3-lvlu1-lvl1-lvlu1-3]: Fusion der Gemeinden Gurmels und Ulmiz.
+[^annex3-lvlu1-lvl1-lvlu1-4]: Die ehemalige Gemeinde Ulmiz ist nur den Sektoren 3 und 4 zugeordnet.
+[^annex3-lvlu1-lvl1-lvlu1-5]: Nur Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-6]: Ohne Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-7]: Die ehemaligen Gemeinden Kaiserstuhl, Rekingen, Rümikon und Wislikofen sind nur den Sektoren 1 und 2 zugeordnet.
 
 ### 2. Spezielle Gefährdungszone PSI/ZWILAG (Zone 1)
 
 [^annex3-lvlu1-lvl2-1]
 
-[^annex3-lvlu1-lvl2-1]: Die spezielle Gefährdungszone PSI/ZWILAG ist einsehbar unter: [www.ensi.ch/de](https://ensi.admin.ch/de/) &gt; Notfallschutz &gt; Vorsorge &gt; Notfallschutzzonen
+[^annex3-lvlu1-lvl2-1]: Die spezielle Gefährdungszone PSI/ZWILAG ist einsehbar unter: [www.ensi.ch/de](https://ensi.admin.ch/de/) &gt; Notfallschutz &gt; Vorsorge &gt; Notfallschutzzonen.
 
-- 2\.1 Die spezielle Gefährdungszone PSI/ZWILAG umfasst die Gemeinden Döttingen Gebiet südlich der Surb, Böttstein ohne Ortsteile Kleindöttingen und Burlen, Untersiggenthal Gebiet Siggenthal Station, Villigen und Würenlingen.
+- 2\.1 Die spezielle Gefährdungszone PSI/ZWILAG umfasst die Gemeinden Döttingen Gebiet südlich der Surb, Böttstein ohne Ortsteile Kleindöttingen; und
 - 2\.2 Die Gebiete werden gemäss der Geoinformationsverordnung vom 21. Mai 2008[^annex3-lvlu1-lvl2-2] vom ENSI erhoben, nachgeführt und verwaltet.
 
-[^annex3-lvlu1-lvl2-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^annex3-lvlu1-lvl2-2]: [SR 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 Anhang 4[^t-2]
 
@@ -820,8 +819,8 @@ Anhang 4[^t-2]
 - 1\. Das Planungsgebiet für die Verteilung der Jodtabletten umfasst die gesamte Schweiz. Verteilung, Lagerung, Abgabe und Kontrollen richten sich nach den Artikeln 3–9 der Jodtabletten-Verordnung vom 22. Januar 2014[^annex4-lvlu1-1]30.
 - 2\. Die Anordnung der Einnahme von Jodtabletten richtet sich nach dem Dosis-Massnahmenkonzept nach Anhang 2 der der Bevölkerungsschutzverordnung vom 11. November 2020[^annex4-lvlu1-2].
 
-[^annex4-lvlu1-1]: <sup>30</sup> [SR 814.52](https://fedlex.data.admin.ch/eli/cc/2014/69)
-[^annex4-lvlu1-2]: [SR 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^annex4-lvlu1-1]: <sup>30</sup> [SR 814.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9548)
+[^annex4-lvlu1-2]: [SR 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 
 Anhang 5
 

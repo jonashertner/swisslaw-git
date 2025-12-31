@@ -4,11 +4,11 @@ title: "Ordinanza del 14 novembre 2018 sulla protezione d'emergenza in prossimit
 short: OPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/780"
 language: it
-version: 2025-01-01
+version: 2026-01-01
 adopted: 2018-11-14
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20250101/it/xml/fedlex-data-admin-ch-eli-cc-2018-780-20250101-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20250101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2018-780-20260101-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/780/20250101/it"
 
 (Ordinanza sulla protezione d’emergenza, OPE)
 
-del 14 novembre 2018 (Stato 1° gennaio 2025)
+del 14 novembre 2018 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
@@ -25,8 +25,8 @@ visti gli articoli 5 capoverso 4 e 101 capoverso 1 della legge federale del 21 m
 
 ordina:
 
-[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^ingress-2]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620)[4327](https://fedlex.data.admin.ch/eli/oc/2003/645), [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra I cpv. 1 let. c, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47, [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4, [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816), [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20), [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23, [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24), [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7, [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. cifra I]. Vedi ora la LF del 20 dic. 2019 ([RS 520.1](https://fedlex.data.admin.ch/eli/cc/2020/887)).
+[^ingress-1]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^ingress-2]: [[RU 2003 4187](https://fedlex.data.admin.ch/eli/oc/2003/620), [4327](https://fedlex.data.admin.ch/eli/oc/2003/645); [2005 2881](https://fedlex.data.admin.ch/eli/oc/2005/472)cifra I cpv. 1 let. c; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 47; [2009 6617](https://fedlex.data.admin.ch/eli/oc/2009/823)all. n. 3;, [2010 6015](https://fedlex.data.admin.ch/eli/oc/2010/869)all. n. 4; [2011 5891](https://fedlex.data.admin.ch/eli/oc/2011/816); [2012 335](https://fedlex.data.admin.ch/eli/oc/2012/20); [2014 3545](https://fedlex.data.admin.ch/eli/oc/2014/615)art. 23; [2015 187](https://fedlex.data.admin.ch/eli/oc/2015/24); [2016 4277](https://fedlex.data.admin.ch/eli/oc/2016/714)all. n. 7; [2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807)all. n. 7. [RU 2020 4995](https://fedlex.data.admin.ch/eli/oc/2020/887)all. cifra I]. Vedi ora la LF del 20 dic. 2019 ([RS 520.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7590)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -69,7 +69,7 @@ Intorno a ogni impianto nucleare sono definite due zone di protezione d’emerge
 
 <sup>5</sup> L’Ispettorato federale della sicurezza nucleare (IFSN) rileva i geodati necessari alla definizione delle zone di protezione d’emergenza. Il rilevamento, l’aggiornamento e l’utilizzo di tali dati sono retti dall’ordinanza del 21 maggio 2008[^3-1] sulla geoinformazione.
 
-[^3-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^3-1]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 #### Art. 4
 
@@ -134,7 +134,7 @@ In caso di evento gli esercenti d’impianti nucleari hanno i seguenti compiti:
 - d. determinano tempestivamente il termine di sorgente e lo comunicano all’IFSN.
 
 [^7-1]: Nuovo testo giusta l’all. 3 cifra II n. 6 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
-[^7-2]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^7-2]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 
 ## Sezione 4: Compiti dell’IFSN
 
@@ -164,7 +164,7 @@ In caso di evento l’IFSN ha i seguenti compiti:
 - d. fornisce consulenza all’Ufficio federale della protezione della popolazione (UFPP) e allo Stato maggiore federale Protezione della popolazione (SMFP) nella predisposizione di provvedimenti di protezione per la popolazione conformemente all’ordinanza del 2 marzo 2018[^9-1] sullo Stato maggiore federale Protezione della popolazione (OSMFP);
 - e. classifica l’evento secondo la scala di valutazione internazionale (INES) dell’AIEA.
 
-[^9-1]: [RS 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162)
+[^9-1]: [RS 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
 
 ## Sezione 5: Compiti di altri servizi federali
 
@@ -178,7 +178,7 @@ In caso di evento l’IFSN ha i seguenti compiti:
 
 <sup>3</sup> In caso di evento MeteoSvizzera può chiedere, per la fornitura delle sue prestazioni, il sostegno da parte di elementi d’impiego dell’esercito conformemente all’articolo 67 capoverso 1 lettera d della legge militare del 3 febbraio 1995[^10-1].
 
-[^10-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^10-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 #### Art. 11
 
@@ -194,8 +194,8 @@ Nell’ambito delle attività di pianificazione e preparazione della protezione 
 - f. d’intesa con i partner della protezione d’emergenza, effettua ogni due anni un’esercitazione di emergenza generale;
 - g. elabora disposizioni che servono da base per la pianificazione degli interventi dei Cantoni.
 
-[^11-1]: [RS 520.17](https://fedlex.data.admin.ch/eli/cc/2018/162)
-[^11-2]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^11-1]: [RS 520.17](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7601)
+[^11-2]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 [^11-3]: Nuovo testo giusta l’all. 3 cifra II n. 6 dell’O dell’11 nov. 2020 sulla protezione della popolazione, in vigore dal 1° gen. 2021 ([RU 2020 5087](https://fedlex.data.admin.ch/eli/oc/2020/889)).
 
 #### Art. 12
@@ -355,7 +355,7 @@ Allegato 2
 
 La zona di protezione d’emergenza 2 è suddivisa in 6 settori di pericolo parzialmente sovrapposti, ciascuno di 120° di ampiezza. In questo modo, se le condizioni del vento lo consentono, può essere lanciato un allarme adeguato alla situazione.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20250101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/780/20260101/it/xml/image/image1.png)
 
 Legenda
 
@@ -371,13 +371,13 @@ Allegato 3[^t-1]
 
 ## Comuni e parti di Comuni attribuiti alle zone di protezione d’emergenza 1 e 2, nonché zone di pericolo speciale PSI/ZWILAG (zona 1)
 
-[^t-1]: Nuovo testo giusta la cifra I dell’O dell’IFSN del 26 nov. 2024, in vigore dal 1° gen. 2025 ([RU 2024 763](https://fedlex.data.admin.ch/eli/oc/2024/763)).
+[^t-1]: Nuovo testo giusta la cifra I dell’O dell’IFSN del 25 nov. 2025, in vigore dal 1° gen. 2026 ([RU 2025 784](https://fedlex.data.admin.ch/eli/oc/2025/784)).
 
 ### 1. Comuni delle zone di protezione d’emergenza 1 e 2, inclusi i settori di pericolo
 
 [^annex3-lvlu1-lvl1-1]
 
-[^annex3-lvlu1-lvl1-1]: L’assegnazione dei Comuni alle zone può essere consultata all’indirizzo www.ensi.ch/it/ &gt; Protezione d’emergenza &gt; Protezione d’emergenza e piani delle zone.
+[^annex3-lvlu1-lvl1-1]: L’assegnazione dei Comuni alle zone può essere consultata all’indirizzo [www.ensi.ch/it](https://ensi.admin.ch/it/) &gt; Protezione d’emergenza &gt; Prevenzione &gt; Zone di protezione in caso d\`emergenza.
 
 Denominazione delle centrali nucleari:
 
@@ -430,7 +430,7 @@ Denominazione delle centrali nucleari:
 <tr><td>Bremgarten bei Bern</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Brittnau</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Brugg[^annex3-lvlu1-lvl1-lvlu1-1]</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
-<tr><td>Brugg (soltanto ex comune di Schinznach-Bad)</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
+<tr><td>Brugg (solo ex comuni di Schinznach-Bad e Villnachern)[^annex3-lvlu1-lvl1-lvlu1-2]</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Brügg</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Brunegg</td><td>Lenzburg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Brunegg</td><td>Lenzburg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td></td></tr>
@@ -506,7 +506,7 @@ Denominazione delle centrali nucleari:
 <tr><td>Grossaffoltern</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Gunzgen</td><td>Olten</td><td>SO</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Gurbrü</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td></tr>
-<tr><td>Gurmels</td><td>See/du Lac</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td></td></tr>
+<tr><td>Gurmels[^annex3-lvlu1-lvl1-lvlu1-3] [^annex3-lvlu1-lvl1-lvlu1-4]</td><td>See/du Lac</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Habsburg</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Habsburg</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Häfelfingen</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td>X</td></tr>
@@ -563,7 +563,7 @@ Denominazione delle centrali nucleari:
 <tr><td>Küttigen</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>La Neuveville</td><td>Jura bernois</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>La Sonnaz</td><td>La Sarine</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
-<tr><td>Laténa[^annex3-lvlu1-lvl1-lvlu1-2] (soltanto ex comune di La Tène)</td><td>Littoral</td><td>NE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
+<tr><td>Laténa (soltanto ex comune di La Tène)</td><td>Littoral</td><td>NE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Lampenberg</td><td>Waldenburg</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Langenbruck</td><td>Waldenburg</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Langenthal (soltanto ex comune di Untersteckholz)</td><td>Oberaargau</td><td>BE</td><td>G</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
@@ -743,7 +743,6 @@ Denominazione delle centrali nucleari:
 <tr><td>Twann-Tüscherz</td><td>Biel/Bienne</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Ueberstorf</td><td>Sense</td><td>FR</td><td>M</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Uerkheim</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
-<tr><td>Ulmiz</td><td>See/du Lac</td><td>FR</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Unterentfelden</td><td>Aarau</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td>X</td></tr>
 <tr><td>Unterkulm</td><td>Kulm</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Untersiggenthal</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
@@ -751,8 +750,6 @@ Denominazione delle centrali nucleari:
 <tr><td>Veltheim (AG)</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Veltheim (AG)</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Villigen</td><td>Brugg</td><td>AG</td><td>B/L</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Villnachern</td><td>Brugg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
-<tr><td>Villnachern</td><td>Brugg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Vinelz</td><td>Seeland</td><td>BE</td><td>M</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Vordemwald</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Vully-les-Lacs</td><td>La Broye-Vully</td><td>VD</td><td>M</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
@@ -777,8 +774,8 @@ Denominazione delle centrali nucleari:
 <tr><td>Wittinsburg</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td></td><td>X</td><td>X</td><td></td></tr>
 <tr><td>Wittnau</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
-<tr><td>Wohlen bei Bern (in parte)[^annex3-lvlu1-lvl1-lvlu1-3]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Wohlen bei Bern (in parte)[^annex3-lvlu1-lvl1-lvlu1-4]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
+<tr><td>Wohlen bei Bern (in parte)[^annex3-lvlu1-lvl1-lvlu1-5]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td>X</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Wohlen bei Bern (in parte)[^annex3-lvlu1-lvl1-lvlu1-6]</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td>X</td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Wohlenschwil</td><td>Baden</td><td>AG</td><td>B/L</td><td></td><td></td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>B/L</td><td></td><td></td><td></td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Wölflinswil</td><td>Laufenburg</td><td>AG</td><td>G</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
@@ -795,27 +792,29 @@ Denominazione delle centrali nucleari:
 <tr><td>Zofingen</td><td>Zofingen</td><td>AG</td><td>G</td><td></td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td></tr>
 <tr><td>Zollikofen</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 <tr><td>Zunzgen</td><td>Sissach</td><td>BL</td><td>G</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
-<tr><td>Zurzach[^annex3-lvlu1-lvl1-lvlu1-5]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
+<tr><td>Zurzach[^annex3-lvlu1-lvl1-lvlu1-7]</td><td>Zurzach</td><td>AG</td><td>B/L</td><td></td><td>X</td><td>X</td><td>X</td><td></td><td></td><td></td></tr>
 <tr><td>Zuzgen</td><td>Rheinfelden</td><td>AG</td><td>G</td><td></td><td></td><td></td><td></td><td></td><td>X</td><td>X</td></tr>
 <tr><td>Zuzwil (BE)</td><td>Bern-Mittelland</td><td>BE</td><td>M</td><td></td><td>X</td><td></td><td></td><td></td><td></td><td>X</td></tr>
 </table>
 
-[^annex3-lvlu1-lvl1-lvlu1-1]: L’ex comune di Schinznach-Bad è assegnato soltanto ai settori 3 e 4.
-[^annex3-lvlu1-lvl1-lvlu1-2]: Fusione dei comuni di Enges, Hauterive, La Tène e Saint-Blaise.
-[^annex3-lvlu1-lvl1-lvlu1-3]: Soltanto Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvl1-lvlu1-4]: Esclusi Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
-[^annex3-lvlu1-lvl1-lvlu1-5]: Gli ex comuni di Kaiserstuhl, Rekingen, Rümikon e Wislikofen sono assegnati soltanto ai settori 1 e 2.
+[^annex3-lvlu1-lvl1-lvlu1-1]: Gli ex comuni di Schinznach-Bad e Villnachern sono assegnati solo ai settori 3 e 4.
+[^annex3-lvlu1-lvl1-lvlu1-2]: Fusione dei comuni di Brugg e Villnachern.
+[^annex3-lvlu1-lvl1-lvlu1-3]: Fusione dei comuni di Gurmels e Ulmiz.
+[^annex3-lvlu1-lvl1-lvlu1-4]: L’ex comune di Ulmiz è assegnato solo ai settori 3 e 4.
+[^annex3-lvlu1-lvl1-lvlu1-5]: Soltanto Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-6]: Esclusi Eymatt, Hostetmatt, Salvisberg, Schulhaus Matzwil, Ussermülital, Wickacher.
+[^annex3-lvlu1-lvl1-lvlu1-7]: Gli ex comuni di Kaiserstuhl, Rekingen, Rümikon e Wislikofen sono assegnati soltanto ai settori 1 e 2.
 
 ### 2. Zona di pericolo speciale PSI/ZWILAG (zona 1)
 
 [^annex3-lvlu1-lvl2-1]
 
-[^annex3-lvlu1-lvl2-1]: La zona di pericolo speciale PSI/ZWILAG può essere consultata all’indirizzo: [www.ensi.ch/it](https://ensi.admin.ch/it/) &gt; Protezione d’emergenza &gt; Prevenzione &gt; Zone di protezione in caso d’emergenza.
+[^annex3-lvlu1-lvl2-1]: La zona di pericolo speciale PSI/ZWILAG può essere consultata all’indirizzo [www.ensi.ch/it](https://ensi.admin.ch/it/) &gt; Protezione d’emergenza &gt; Prevenzione &gt; Zone di protezione in caso d’emergenza.
 
 - 2\.1 La zona di pericolo speciale PSI/ZWILAG comprende i comuni di Döttingen a sud della Surb, di Böttstein esclusi Kleindöttingen e Burlen, l’area di Siggenthal-Station di Untersiggenthal, di Villigen e di Würelingen.
 - 2\.2 Le regioni sono rilevate, aggiornate e gestite dall’IFSN conformemente all’ordinanza del 21 maggio 2008[^annex3-lvlu1-lvl2-2] sulla geoinformazione.
 
-[^annex3-lvlu1-lvl2-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+[^annex3-lvlu1-lvl2-2]: [RS 510.620](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7339)
 
 Allegato 4[^t-2]
 
@@ -828,8 +827,8 @@ Allegato 4[^t-2]
 - 1\. Il comprensorio di pianificazione per la distribuzione di compresse allo iodio comprende l’intera Svizzera. La distribuzione, il magazzinaggio, la consegna e il controllo sono retti dagli articoli 3–9 dell’ordinanza del 22 gennaio 2014[^annex4-lvlu1-1] sulle compresse allo iodio.
 - 2\. L’ordine di assumere compresse allo iodio è retto dalla Strategia dei provvedimenti in funzione delle dosi di cui all’allegato 2 dell’ordinanza dell’11 novembre 2020[^annex4-lvlu1-2] sulla protezione della popolazione.
 
-[^annex4-lvlu1-1]: [RS 814.52](https://fedlex.data.admin.ch/eli/cc/2014/69)
-[^annex4-lvlu1-2]: [RS 520.12](https://fedlex.data.admin.ch/eli/cc/2020/889)
+[^annex4-lvlu1-1]: [RS 814.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9548)
+[^annex4-lvlu1-2]: [RS 520.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7593)
 
 Allegato 5
 
