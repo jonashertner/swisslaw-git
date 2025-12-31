@@ -3,20 +3,19 @@ canton: GL
 number: III B/1/4
 title: Vollziehungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 language: de
-version: 2016-10-01
-valid_until: 2025-12-31
-version_adopted: 2016-09-06
+version: 2026-01-01
+version_adopted: 2025-05-04
 adopted: 1986-05-04
 in_force: 1986-05-04
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.1.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1903/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2585/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollziehungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 
-Vom 04.05.1986 (Stand 01.10.2016)
+Vom 04.05.1986 (Stand 01.01.2026)
 
 (Erlassen von der Landsgemeinde am 4. Mai 1986)
 
@@ -36,7 +35,7 @@ Vom 04.05.1986 (Stand 01.10.2016)
 
 <sup>1</sup> Der Erwerb von Wohneinheiten in Apparthotels ist bis zu 60 Prozent der auf die Wohneinheiten entfallenden Wertquoten zulässig.
 
-<sup>2</sup> Die Fremdenverkehrsorte können durch Beschluss der Gemeindeversammlung weitergehende Beschränkungen einführen. Der Gemeinderat teilt solche Beschlüsse unverzüglich dem Regierungsrat mit, welcher sie dem Bundesamt für Justiz zur Kenntnis bringt.
+<sup>2</sup> Die Fremdenverkehrsorte können weitergehende Beschränkungen einführen. Der Gemeinderat teilt solche Beschlüsse unverzüglich dem Regierungsrat mit, welcher sie dem Bundesamt für Justiz zur Kenntnis bringt.
 
 #### Art. 3
 
