@@ -4,39 +4,36 @@ number: "836.011"
 title: Standeskommissionsbeschluss über die Beiträge an die Aufwendungen für die Ausrichtung der Familienzulagen
 short: StKB FZ
 language: de
-version: 2014-09-16
-corrected: 2018-09-04
-version_adopted: 2014-09-16
+version: 2026-01-01
+version_adopted: 2025-05-20
 adopted: 2010-08-24
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/836.011"
-pdf: "https://ai.clex.ch/api/de/versions/858/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2388/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Beiträge an die Aufwendungen für die Ausrichtung der Familienzulagen
 
-Gesetzessammlung Appenzell I. Rh. – September 2014
+(StKB FZ)
 
-vom 24. August 20101
+vom 24.08.2010 (Stand 01.01.2026)
 
-Die Standeskommission des Kantons Appenzell I. Rh.,
+Die Standeskommission des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 7 Abs. 1 des Gesetzes über die Familienzulagen (FZG) vom 27. April 2008,2
+gestützt auf Art. 7 Abs. 1 des Gesetzes über die Familienzulagen (FZG) vom 27. April 2008,
 
 beschliesst:
 
 #### Art. 1
 
-Der Beitragssatz der Arbeitgebenden zur Deckung der Aufwendungen für die Ausrichtung der Familienzulagen an die Arbeitnehmenden wird mit 1.7 % der AHVpflichtigen Lohnsumme festgelegt.
+<sup>1</sup> Der Beitragssatz der Arbeitgebenden zur Deckung der Aufwendungen für die Ausrichtung der Familienzulagen an die Arbeitnehmenden wird mit 1.6% der AHV-pflichtigen Lohnsumme festgelegt.
+
+<sup>2</sup> Der Beitragssatz der Selbständigerwerbenden zur Deckung der Aufwendungen für die Ausrichtung der Familienzulagen wird mit 1.6% des gemäss Gesetz über die Familienzulagen massgeblichen Einkommens festgelegt.
 
 #### Art. 2
 
-Dieser Beschluss tritt auf den 1. Januar 2011 in Kraft.
+<sup>1</sup> Dieser Beschluss tritt auf den 1. Januar 2011 in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 16. September 2014.
-- [2] Ingress abgeändert durch StKB vom 16. September 2014.
+cGS -
