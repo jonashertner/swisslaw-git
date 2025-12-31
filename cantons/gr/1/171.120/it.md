@@ -4,13 +4,12 @@ number: "171.120"
 title: Ordinanza sulla sorveglianza con acquisizione di immagini dello spazio pubblico e pubblicamente accessibile
 short: "Ordinanza sulla sorveglianza con acquisizione di immagini, OSImm"
 language: it
-version: 2019-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-12-18
+version: 2026-01-01
+version_adopted: 2025-09-16
 adopted: 2018-12-18
 in_force: 2019-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/171.120"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2922/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3572/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2922/pdf_file"
 
 (Ordinanza sulla sorveglianza con acquisizione di immagini, OSImm)
 
-del 18.12.2018 (stato 01.01.2019)
+del 18.12.2018 (stato 01.01.2026)
 
 emanata dal Governo il 18 dicembre 2018
 
@@ -30,17 +29,17 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 11 dell
 
 #### Art. 1
 
-**Autorità competenti 1. Sorveglianza con acquisizione di immagini ai sensi dell'articolo 3a capoverso 1 lettera a LCPD**
+**Autorità competenti 1. Sorveglianza con acquisizione di immagini ai sensi dell'articolo 14 capoverso 1 lettera a LCPD**
 
-<sup>1</sup> La Polizia cantonale è competente per la disposizione e l'esecuzione della sorveglianza con acquisizione di immagini ai sensi dell'articolo 3a capoverso 1 lettera a della legge cantonale sulla protezione dei dati[^1-1].
+<sup>1</sup> La Polizia cantonale è competente per la disposizione e l'esecuzione della sorveglianza con acquisizione di immagini ai sensi dell'articolo 14 capoverso 1 lettera a della legge cantonale sulla protezione dei dati[^1-1].
 
 [^1-1]: CSC [171.100](https://www.gr-lex.gr.ch/data/171.100/it)
 
 #### Art. 2
 
-**2. Sorveglianza con acquisizione di immagini ai sensi dell'articolo 3a capoverso 1 lettera b LCPD**
+**2. Sorveglianza con acquisizione di immagini ai sensi dell'articolo 14 capoverso 1 lettera b LCPD**
 
-<sup>1</sup> Se per una sorveglianza con acquisizione di immagini ai sensi dell'articolo 3a capoverso 1 lettera b della legge cantonale sulla protezione dei dati[^2-1] è necessaria una decisione generale, quest'ultima viene emanata:
+<sup>1</sup> Se per una sorveglianza con acquisizione di immagini ai sensi dell'articolo 14 capoverso 1 lettera b della legge cantonale sulla protezione dei dati[^2-1] è necessaria una decisione generale, quest'ultima viene emanata:
 
 - a) dal Governo;
 - b) dal tribunale interessato;
@@ -48,9 +47,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 11 dell
 - d) dalla Cancelleria dello Stato;
 - e) dall'organo direttivo di altri enti che svolgono compiti pubblici.
 
-<sup>2</sup> Nei casi di cui all'articolo 3b capoverso 4 della legge cantonale sulla protezione dei dati i servizi cantonali che utilizzano l'edificio oggetto di sorveglianza per l'adempimento di un compito pubblico del Cantone sono autorizzati a disporre la sorveglianza con acquisizione di immagini ai sensi dell'articolo 3a capoverso 1 lettera b della legge cantonale sulla protezione dei dati.
+<sup>2</sup> Nei casi di cui all'articolo 15 capoverso 4 della legge cantonale sulla protezione dei dati i servizi cantonali che utilizzano l'edificio oggetto di sorveglianza per l'adempimento di un compito pubblico del Cantone sono autorizzati a disporre la sorveglianza con acquisizione di immagini ai sensi dell'articolo 14 capoverso 1 lettera b della legge cantonale sulla protezione dei dati.
 
-<sup>3</sup> I servizi cantonali che utilizzano l'edificio oggetto di sorveglianza per l'adempimento di un compito pubblico del Cantone sono competenti per l'esecuzione della sorveglianza con acquisizione di immagini ai sensi dell'articolo 3a capoverso 1 lettera b della legge cantonale sulla protezione dei dati.
+<sup>3</sup> I servizi cantonali che utilizzano l'edificio oggetto di sorveglianza per l'adempimento di un compito pubblico del Cantone sono competenti per l'esecuzione della sorveglianza con acquisizione di immagini ai sensi dell'articolo 14 capoverso 1 lettera b della legge cantonale sulla protezione dei dati.
 
 [^2-1]: CSC [171.100](https://www.gr-lex.gr.ch/data/171.100/it)
 
@@ -64,7 +63,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 11 dell
 
 **Domanda per la sorveglianza con acquisizione di immagini**
 
-<sup>1</sup> Il servizio cantonale che desidera effettuare una sorveglianza con acquisizione di immagini deve inoltrare al servizio che dispone la sorveglianza una domanda per una sorveglianza con acquisizione di immagini ai sensi dell'articolo 3a capoverso 1 lettera b della legge cantonale sulla protezione dei dati[^4-1], se esso stesso non è autorizzato a disporre la sorveglianza con acquisizione di immagini.
+<sup>1</sup> Il servizio cantonale che desidera effettuare una sorveglianza con acquisizione di immagini deve inoltrare al servizio che dispone la sorveglianza una domanda per una sorveglianza con acquisizione di immagini ai sensi dell'articolo 14 capoverso 1 lettera b della legge cantonale sulla protezione dei dati[^4-1], se esso stesso non è autorizzato a disporre la sorveglianza con acquisizione di immagini.
 
 <sup>2</sup> Nella domanda devono essere indicati lo scopo, la tipologia e la durata della sorveglianza, i luoghi oggetto di sorveglianza, le ubicazioni degli apparecchi di sorveglianza, le misure con le quali viene segnalata la sorveglianza, i diritti d'accesso e le misure adottate per garantire la sicurezza dei dati.
 
@@ -76,7 +75,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 11 dell
 
 <sup>1</sup> Il dispositivo della decisione generale da emanare deve essere pubblicato nell'organo di pubblicazione ufficiale, dietro rimando al fatto che entro 30 giorni è possibile sollevare obiezioni dinanzi all'autorità disponente contro la decisione generale e prendere visione della decisione generale motivata.
 
-<sup>2</sup> All'incaricato della protezione dei dati deve essere inviata la versione pubblicata della decisione generale.
+<sup>2</sup> La versione pubblicata della decisione generale deve essere inviata all'organo di vigilanza per la protezione dei dati.
 
 #### Art. 6
 
@@ -88,9 +87,9 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 11 dell
 
 **Comunicazione e pubblicazione**
 
-<sup>1</sup> I servizi che dispongono la sorveglianza comunicano alla Polizia cantonale e all'incaricato della protezione dei dati decisioni generali con le quali vengono disposte delle sorveglianze con acquisizione di immagini, dopo il passaggio in giudicato delle stesse.
+<sup>1</sup> I servizi che dispongono la sorveglianza comunicano all'organo di vigilanza per la protezione dei dati decisioni generali con le quali vengono disposte delle sorveglianze con acquisizione di immagini, dopo il passaggio in giudicato delle stesse.
 
-<sup>2</sup> L'incaricato della protezione dei dati pubblica le decisioni generali pervenutegli per la durata delle sorveglianze con acquisizione di immagini.
+<sup>2</sup> L'organo di vigilanza per la protezione dei dati pubblica le decisioni generali pervenutegli per la durata delle sorveglianze con acquisizione di immagini.
 
 #### Art. 8
 
@@ -104,7 +103,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 11 dell
 
 <sup>1</sup> Le registrazioni di immagini possono essere prese in visione soltanto se si sono verificati degli eventi che devono essere perseguiti a livello penale oppure se le registrazioni sono necessarie a prevenire una minaccia concreta per la sicurezza e l'ordine pubblici.
 
-<sup>2</sup> Nella decisione generale devono essere designate due persone autorizzate a prendere visione. Le registrazioni di immagini possono inoltre essere prese in visione dalla Polizia cantonale.
+<sup>2</sup> La presa in visione deve essere limitata a un numero esiguo e chiaramente definito di persone.
 
 #### Art. 10
 
@@ -139,7 +138,7 @@ visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 11 dell
 
 <sup>1</sup> Il servizio cantonale che effettua la sorveglianza con acquisizione di immagini si assume i costi per l'installazione e l'esercizio degli apparecchi di sorveglianza con acquisizione di immagini nonché della relativa infrastruttura.
 
-<sup>2</sup> Le registrazioni vengono messe gratuitamente a disposizione della Polizia cantonale.
+<sup>2</sup> Le registrazioni vengono messe gratuitamente a disposizione dei servizi autorizzati.
 
 <sup>3</sup> I costi per l'analisi delle registrazioni di immagini vengono assunti dal servizio che effettua l'analisi.
 
