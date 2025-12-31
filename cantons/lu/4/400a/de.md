@@ -4,13 +4,12 @@ number: 400a
 title: Gesetz über die Volksschulbildung
 short: VBG
 language: de
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2021-05-10
+version: 2026-01-01
+version_adopted: 2025-10-20
 adopted: 1999-03-22
 in_force: 2000-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/400a"
-pdf: "https://srl.lu.ch/api/de/versions/4148/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4834/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4148/pdf_file"
 
 (VBG)
 
-vom 22.03.1999 (Stand 01.01.2024)
+vom 22.03.1999 (Stand 01.01.2026)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -106,7 +105,7 @@ beschliesst:
 
 <sup>3</sup> Die Sonderschulung gewährleistet die individuelle Bildung, Förderung, Erziehung und Pflege von Kindern und Jugendlichen mit Behinderung.
 
-<sup>3<sup>bis</sup></sup> Sie umfasst auch die heilpädagogische Frühförderung sowie die Betreuung und Förderung von Kindern mit Behinderung in familienergänzenden Betreuungsangeboten.
+<sup>3<sup>bis</sup></sup> Sie umfasst auch die heilpädagogische Frühförderung.
 
 <sup>4</sup> Der Regierungsrat regelt die Sonderschulung in einer Verordnung.
 
@@ -334,7 +333,7 @@ beschliesst:
 
 <sup>1</sup> Die Lehrpersonen gestalten und organisieren miteinander die gesamte Schule und beteiligen sich an besonderen Schulveranstaltungen.
 
-<sup>2</sup> Sie wirken in den Organen der Schule mit, denen sie angehören oder in die sie gewählt werden.
+<sup>2</sup> Sie wirken in den Organen der Schule mit, denen sie angehören.
 
 <sup>3</sup> Sie wirken bei der Entwicklung der Schule mit und übernehmen für diese besondere Aufgaben.
 
@@ -610,7 +609,7 @@ beschliesst:
 - b. bereitet den Leistungsauftrag zuhanden des Gemeinderates vor,
 - c. genehmigt von der Schulleitung erstellte Grundlagenkonzepte,
 - d. genehmigt das Leitbild und das Jahresprogramm der Schule,
-- e. wählt die Schulleitung,
+- e. stellt die Schulleitung an,
 - f. überprüft die Tätigkeit der Schulleitung und die Qualität der Aufgabenerfüllung,
 - g. nimmt weitere von der Gemeinde übertragene Aufgaben wahr,
 - h. sorgt für die eigene Aus- und Weiterbildung.
@@ -630,7 +629,7 @@ beschliesst:
 
 - a. plant und gestaltet die Angebote der Schule und fördert deren Entwicklung,
 - b. wirkt bei der Erstellung des Leistungsauftrags mit,
-- c. wählt die Lehrpersonen, die Fachpersonen der schulischen Dienste und der Tagesstrukturen und trifft die übrigen personalrechtlichen Entscheide,
+- c. stellt die Lehrpersonen, die Fachpersonen der schulischen Dienste und der Tagesstrukturen an und trifft die übrigen personalrechtlichen Entscheide,
 - d. ist verantwortlich für die Beurteilung der Lehrpersonen und der Fachpersonen der schulischen Dienste und der Tagesstrukturen,
 - e. verfügt über die zugeteilten Betriebsmittel,
 - f. sorgt für die Sicherung und Weiterentwicklung der Schul- und Unterrichtsqualität,
