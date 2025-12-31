@@ -4,13 +4,12 @@ number: "841.3.11"
 title: "Arrêté d'exécution de la loi du 16 novembre 1965 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité, modifiée par celle du 11 novembre 1970"
 short: AEPC
 language: fr
-version: 2024-01-01
-valid_until: 2025-12-31
-version_adopted: 2023-12-12
+version: 2026-01-01
+version_adopted: 2025-12-15
 adopted: 1971-03-19
 in_force: 1971-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/841.3.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7908/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8500/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Prestations complémentaires à l'AVS/AI – A
 
 (AEPC)
 
-du 19.03.1971 (version entrée en vigueur le 01.01.2024)
+du 19.03.1971 (version entrée en vigueur le 01.01.2026)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -98,13 +97,13 @@ Arrête:
 
 - a) Etablissements médico-sociaux reconnus (EMS reconnus): — Fr. 160
 - b) Institutions spécialisées reconnues: — Fr. 140
-- c) Etablissements médico-sociaux admis à pratiquer à la charge de l'assurance obligatoire des soins (EMS admis AOS): — Fr. 139.50
-- d) Autres établissements: — Fr. 116.50
+- c) Etablissements médico-sociaux admis à pratiquer à la charge de l'assurance obligatoire des soins (EMS admis AOS): — Fr. 139.80
+- d) Autres établissements: — Fr. 116.80
 
 <sup>2</sup> Dans les limites maximales fixées à l'alinéa 1, les critères suivants sont également applicables:
 
 - a) pour tous les EMS, la participation des pensionnaires au coût des soins est définie par l'article 2 al. 1 de la loi du 9 décembre 2010 d'application de la loi fédérale sur le nouveau régime de financement des soins;
-- b) pour les EMS reconnus au sens de la loi sur les prestations médico-sociales, les frais socio-hôteliers sont admis jusqu'à concurrence d'une taxe journalière de référence s'élevant à 108 francs pour l'ensemble des niveaux de soins; les frais d'accompagnement sont pris en considération jusqu'à concurrence du prix fixé conformément à l'article 25 al. 2 du règlement du 23 janvier 2018 sur les prestations médico-sociales;
+- b) pour les EMS reconnus au sens de la loi sur les prestations médico-sociales, les frais socio-hôteliers sont admis jusqu'à concurrence d'une taxe journalière de référence s'élevant à 108.30 francs pour l'ensemble des niveaux de soins; les frais d'accompagnement sont pris en considération jusqu'à concurrence du prix fixé conformément à l'article 25 al. 2 du règlement du 23 janvier 2018 sur les prestations médico-sociales;
 - c) pour les institutions spécialisées reconnues au sens de la loi d'aide aux institutions spécialisées pour personnes handicapées ou inadaptées, est prise en compte la taxe de référence fixée par la Direction de la santé et des affaires sociales;
 - d) pour les EMS admis AOS au sens de la loi sur les prestations médico-sociales, les frais socio-hôteliers sont admis jusqu'à concurrence de la taxe journalière maximale prévue à l'alinéa 1 let. d pour l'ensemble des niveaux de soins;
 - e) pour les autres établissements au sens de l'alinéa 1 let. d, des frais de soins facturés pour les pensionnaires bénéficiant d'une allocation pour impotent de l'AVS, de l'AI ou de l'AA peuvent être pris en compte, en plus de la limite fixée, jusqu'à concurrence du montant de ladite allocation.
