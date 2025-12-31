@@ -4,13 +4,12 @@ number: "151.2"
 title: Gemeindegesetz
 short: GG
 language: de
-version: 2025-10-01
-corrected: 2025-09-22
-version_adopted: 2025-07-29
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2009-04-21
 in_force: 2010-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3795/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3911/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3795/pdf_file"
 
 (GG)
 
-vom 21.04.2009 (Stand 01.10.2025)
+vom 21.04.2009 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -862,7 +861,7 @@ als Gesetz:[^ingress-2]
 
 **c) ergänzendes Recht**
 
-<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative[^74a-1] sachgemäss angewendet.
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative[^74a-1] sachgemäss angewendet. Vorbehalten bleibt [Art. 83a](https://www.gesetzessammlung.sg.ch/data/151.2/de/art83a) dieses Erlasses betreffend elektronische Unterzeichnung.
 
 <sup>2</sup> Die Gemeindeordnung kann andere Fristen vorsehen.
 
@@ -906,7 +905,7 @@ als Gesetz:[^ingress-2]
 
 **d) ergänzendes Recht**
 
-<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative über Referendum, Initiative und Gegenvorschlag sachgemäss angewendet.
+<sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend die Vorschriften des Gesetzes über Referendum und Initiative über Referendum, Initiative und Gegenvorschlag sachgemäss angewendet. Ausgenommen sind die Vorschriften betreffend elektronische Unterzeichnung.
 
 #### Art. 79
 
@@ -930,8 +929,8 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Insbesondere betreffend das Verfahren werden ergänzend sachgemäss angewendet:
 
-- a) bei Initiativbegehren in Form der einfachen Anregung die Vorschriften des Gesetzes über Referendum und Initiative über die Einheitsinitiative;
-- b) bei Initiativbegehren in Form des ausgearbeiteten Entwurfs die Vorschriften des Gesetzes über Referendum und Initiative über die Gesetzesinitiative.
+- a) bei Initiativbegehren in Form der einfachen Anregung die Vorschriften des Gesetzes über Referendum und Initiative über die Einheitsinitiative. Vorbehalten bleibt [Art. 83a](https://www.gesetzessammlung.sg.ch/data/151.2/de/art83a) dieses Erlasses betreffend elektronische Unterzeichnung;
+- b) bei Initiativbegehren in Form des ausgearbeiteten Entwurfs die Vorschriften des Gesetzes über Referendum und Initiative über die Gesetzesinitiative. Vorbehalten bleibt [Art. 83a](https://www.gesetzessammlung.sg.ch/data/151.2/de/art83a) dieses Erlasses betreffend elektronische Unterzeichnung.
 
 <sup>2</sup> Die Gemeindeordnung kann andere Fristen und eine andere Mindestgrösse des Initiativkomitees vorsehen.
 
@@ -967,6 +966,19 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Heissen Bürgerschaft oder Parlament die Volksmotion gut, arbeitet der Rat die Vorlage aus.
 
 <sup>3</sup> Die Gemeindeordnung regelt die Fristen.
+
+### 3<sup>bis</sup>. Elektronische Unterzeichnung
+
+#### Art. 83a
+
+**Anwendung in den politischen Gemeinden**
+
+<sup>1</sup> Die Bestimmungen des Gesetzes über Referendum und Initiative vom 27. November 1967[^83a-1] betreffend elektronische Unterzeichnung werden in einer politischen Gemeinde für kommunale fakultative Referenden und Initiativen sachgemäss angewendet, wenn:
+
+- a) die Regierung die Anwendbarkeit beschliesst;
+- b) der Rat der politischen Gemeinde gestützt auf den Beschluss nach Bst. a dieser Bestimmung die Einführung beschliesst.
+
+[^83a-1]: sGS [125.1](https://www.gesetzessammlung.sg.ch/data/125.1/de).
 
 ### 4. Wahlen
 
@@ -1795,21 +1807,21 @@ als Gesetz:[^ingress-2]
 
 #### Art. 136
 
-**Vereinbarungen a) Grundsatz**
+**Vereinbarungen**
 
-<sup>1</sup> Die Gemeinde kann durch Vereinbarung:
+<sup>1</sup> Die Gemeinde kann in ihrem Zuständigkeitsbereich Vereinbarungen mit anderen Gemeinwesen abschliessen. Insbesondere kann sie:
 
 - a) Verwaltungspersonal und Einrichtungen einer anderen Gemeinde zur Verfügung stellen;
 - b) gemeinsame Kommissionen und Verwaltungspersonal einsetzen oder gemeinsame Einrichtungen schaffen;
 - c) Gemeindeverbände und Zweckverbände gründen.
 
+<sup>2</sup> Vereinbarungen mit ausserkantonalen Gemeinwesen, die über den alleinigen Zuständigkeitsbereich der Gemeinde hinausgehen, bedürfen einer interkantonalen Vereinbarung oder, soweit ausreichend, einer besonderen gesetzlichen Vorschrift.
+
+<sup>3</sup> Vereinbarungen mit ausländischen Gemeinwesen, die über den alleinigen Zuständigkeitsbereich der Gemeinde hinausgehen, bedürfen eines Staatsvertrags oder, soweit ausreichend, einer besonderen gesetzlichen Vorschrift.
+
 #### Art. 137
 
-**b) Vereinbarung mit ausserkantonalen Gemeinwesen**
-
-<sup>1</sup> Allgemein verbindliche Vereinbarungen mit ausserkantonalen Gemeinwesen sind nur gemäss besonderer gesetzlicher Vorschrift oder aufgrund einer interkantonalen Vereinbarung zulässig.
-
-<sup>2</sup> Ein Gemeindeverband oder Zweckverband mit ausserkantonalen Gemeinwesen darf nur gegründet werden, wenn eine interkantonale Vereinbarung über das anwendbare Recht, die Aufsicht und den Rechtsschutz abgeschlossen wurde.
+**…**
 
 #### Art. 138
 
