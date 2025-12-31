@@ -4,11 +4,11 @@ title: Verordnung vom 30. November 2018 über das Informationssystem Verkehrszul
 short: IVZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: de
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20250601/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20250601-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2018-783-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/de"
 
 (IVZV)
 
-vom 30. November 2018 (Stand am 1. Juni 2025)
+vom 30. November 2018 (Stand am 1. Januar 2026)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 89*g* Absatz 2, 89*h* und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG) sowie die Artikel 8 Absatz 3 und 33 des Datenschutzgesetzes vom 25. September 2020[^ingress-2] (DSG),[^ingress-3]
+gestützt auf die Artikel 89*g* Absatz 2, 89*h* und 106 Absatz 1 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^ingress-1] (SVG), die Artikel 8 Absatz 3 und 33 des Datenschutzgesetzes vom 25. September 2020[^ingress-2] (DSG) sowie die Artikel 57*r* und 57*s* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-3],[^ingress-4]
 
 verordnet:
 
-[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^ingress-3]: Fassung gemäss Anhang 2 Ziff. II 79 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^ingress-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^ingress-3]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -68,32 +69,38 @@ Das IVZ besteht aus vier Subsystemen, die die beteiligten Behörden des Bundes u
 
 **Inhalt**
 
-Das Subsystem IVZ-Fahrzeuge enthält folgende Daten zu den von schweizerischen Behörden zugelassenen Fahrzeugen:
+Das Subsystem IVZ-Fahrzeuge enthält folgende Daten zu den von schweizerischen Behörden zugelassenen oder für die Zulassung vorgesehenen Fahrzeugen:[^4-1]
 
 - a. Daten zum Fahrzeug nach Anhang 1 Ziffer 1;
 - b. Daten zum Halter oder zur Halterin nach Anhang 1 Ziffer 2;
 - c. Daten zum Kontrollschild nach Anhang 1 Ziffer 3.
 
+[^4-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+
 #### Art. 5
 
-**Zuständigkeit für die Übermittlung der Daten**
+**Zuständigkeit für die Erfassung und Übermittlung der Daten[^5-1]**
 
 <sup>1</sup> Die für die Erteilung und den Entzug der Fahrzeugausweise zuständigen Behörden des Bundes und der Kantone übermitteln dem IVZ die in ihrem Zuständigkeitsbereich befindlichen Daten nach Artikel 4 sowie Änderungen dieser Daten.
 
+<sup>1bis</sup> Das ASTRA erfasst im IVZ die in seinem Zuständigkeitsbereich befindlichen Daten nach Artikel 4 sowie Änderungen dieser Daten. Es kann die Übermittlung dieser Daten ans IVZ auslösen.[^5-2]
+
 <sup>2</sup> Die Fahrzeughersteller und Fahrzeugimporteure übermitteln dem IVZ die Fahrzeugdaten nach Anhang 1 Ziffern 11–14.
 
-<sup>3</sup> Die Polizeiorgane sowie die mit verkehrspolizeilichen Aufgaben betrauten Zollorgane übermitteln dem IVZ die Daten zur Sperrung und Entsperrung von Fahrzeugen und Kontrollschildern, die zur Fahndung ausgeschrieben sind, aus dem automatisierten Polizeifahndungssystem (RIPOL) nach der RIPOL-Verordnung vom 26. Oktober 2016[^5-1].
+<sup>3</sup> Die Polizeiorgane sowie die mit verkehrspolizeilichen Aufgaben betrauten Zollorgane übermitteln dem IVZ die Daten zur Sperrung und Entsperrung von Fahrzeugen und Kontrollschildern, die zur Fahndung ausgeschrieben sind, aus dem automatisierten Polizeifahndungssystem (RIPOL) nach der RIPOL-Verordnung vom 26. Oktober 2016[^5-3].
 
-<sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-2] übermittelt dem IVZ die für die Kontrolle der Verzollung und Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996[^5-3] (AstG) erforderlichen Daten. Es kann auch die für die Erteilung und den Entzug der Fahrzeugausweise zuständigen Behörden damit beauftragen.
+<sup>4</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG)[^5-4] übermittelt dem IVZ die für die Kontrolle der Verzollung und Versteuerung nach dem Automobilsteuergesetz vom 21. Juni 1996[^5-5] (AstG) erforderlichen Daten. Es kann auch die für die Erteilung und den Entzug der Fahrzeugausweise zuständigen Behörden damit beauftragen.
 
 <sup>5</sup> Die zuständige Behörde im Eidgenössischen Departement für Verteidigung, Bevölkerungsschutz und Sport übermittelt dem IVZ die für die Treibstoffrationierung sowie die Belegung und Einmietung von Fahrzeugen für die Armee, den Zivilschutz und die wirtschaftliche Landesversorgung erforderlichen Daten.
 
-<sup>6</sup> Die Versicherer übermitteln dem IVZ die Daten nach Anhang 1 Kapitel A Ziffer 2 der Verkehrsversicherungsverordnung vom 20. November 1959[^5-4] sowie die Daten über das Aussetzen oder Aufhören der Versicherung.
+<sup>6</sup> Die Versicherer übermitteln dem IVZ die Daten nach Anhang 1 Kapitel A Ziffer 2 der Verkehrsversicherungsverordnung vom 20. November 1959[^5-6] sowie die Daten über das Aussetzen oder Aufhören der Versicherung.
 
-[^5-1]: [SR 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^5-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^5-3]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^5-4]: [SR 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-1]: Fassung gemäss Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^5-2]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^5-3]: [SR 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^5-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+[^5-5]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^5-6]: [SR 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 ## 3. Abschnitt: Subsystem IVZ-Personen
 
@@ -138,7 +145,7 @@ Das Subsystem IVZ-Personen enthält folgende Daten:
 
 <sup>3</sup> Das BAZG übermittelt dem IVZ die Daten zu den Werkstattkarten nach Anhang 2 Ziffer 22 sowie Änderungen dieser Daten.
 
-[^8-1]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^8-1]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 ## 4. Abschnitt: Subsystem IVZ-Massnahmen
 
@@ -191,7 +198,7 @@ Das ASTRA kann zu den Zwecken nach Artikel 89*b* Buchstaben h und i SVG:
 
 <sup>2</sup> Für Verknüpfungen mit Daten des Bundesamtes für Statistik (BFS) oder mit Daten, die im Rahmen des Bundesstatistikgesetzes vom 9. Oktober 1992[^13-1] (BStatG) erhoben worden sind, gilt Artikel 14*a* BStatG.
 
-[^13-1]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^13-1]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ## 6. Abschnitt: Gemeinsame Bestimmungen
 
@@ -234,8 +241,11 @@ Das ASTRA veröffentlicht jährlich:
 
 <sup>3</sup> Das BFS veröffentlicht die Fahrzeugstatistik nach Artikel 127 der Verkehrszulassungsverordnung vom 27. Oktober 1976[^17-2].
 
-[^17-1]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^17-2]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+<sup>4</sup> Das ASTRA führt ein öffentliches Verzeichnis der im IVZ-Fahrzeuge enthaltenen Sachdaten. Im Verzeichnis können auch Kontaktdaten von Importeuren und Typengenehmigungsinhabern veröffentlicht werden, sofern diese der Veröffentlichung zustimmen.[^17-3]
+
+[^17-1]: [SR 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^17-2]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^17-3]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 #### Art. 18
 
@@ -251,9 +261,9 @@ Das ASTRA veröffentlicht jährlich:
 
 <sup>5</sup> Die Bekanntgabe von Daten zu Statistik- oder Forschungszwecken richtet sich nach dem DSG und der Datenschutzverordnung vom 31. August 2022[^18-1] sowie nach dem BStatG[^18-2] und der Bundesstatistikverordnung vom 30. April 2025[^18-3].[^18-4]
 
-[^18-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-3]: [SR 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^18-1]: [SR 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^18-2]: [SR 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^18-3]: [SR 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^18-4]: Fassung gemäss Anhang 3 Ziff. 11 der Bundesstatistikverordnung vom 30. April 2025, in Kraft seit 1. Juni 2025 ([AS 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 19
@@ -264,7 +274,10 @@ Das ASTRA veröffentlicht jährlich:
 
 <sup>2</sup> Zur Prüfung der Einmaligkeit der Fahrerkarte nach Artikel 13*b* Absatz 4 ARV 1[^19-1] ist der Datenaustausch mit den entsprechenden ausländischen Behörden zulässig.
 
-[^19-1]: [SR 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+<sup>3</sup> Das ASTRA kann die für die Zulassung von Fahrzeugen benötigten Daten bei ausländischen Behörden auch auf elektronischem Weg beziehen.[^19-2]
+
+[^19-1]: [SR 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^19-2]: Eingefügt durch Ziff. I der V vom 15. Okt. 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 #### Art. 20
 
@@ -363,7 +376,7 @@ Anhang 1
 - – Daten zur Erhebung der leistungsabhängigen Schwerverkehrsabgabe
 - – Daten zur Treibstoffrationierung sowie zur Belegung oder Einmietung von Fahrzeugen für Armee, Zivilschutz und wirtschaftliche Landesversorgung
 
-[^annex1-lvlu1-lvl1-lvl16-1]: [SR 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^annex1-lvlu1-lvl1-lvl16-1]: [SR 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 
 ### 2 Daten zum Halter oder zur Halterin
 

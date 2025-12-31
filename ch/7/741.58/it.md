@@ -4,11 +4,11 @@ title: "Ordinanza del 30 novembre 2018 concernente il sistema d'informazione sul
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: it
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20250601/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20250601-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2018-783-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/it"
 
 (OSIAC)
 
-del 30 novembre 2018 (Stato 1° giugno 2025)
+del 30 novembre 2018 (Stato 1° gennaio 2026)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 89*g* capoverso 2, 89*h* e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr); visti gli articoli 8 capoverso 3 e 33 della legge federale del 25 settembre 2020[^ingress-2] sulla protezione dei dati (LPD),[^ingress-3]
+visti gli articoli 89*g* capoverso 2, 89*h* e 106 capoverso 1 della legge federale del 19 dicembre 1958[^ingress-1] sulla circolazione stradale (LCStr); visti gli articoli 8 capoverso 3 e 33 della legge federale del 25 settembre 2020[^ingress-2] sulla protezione dei dati (LPD); visti gli articoli 57*r* e 57*s* della legge del 21 marzo 1997[^ingress-3] sull’organizzazione del Governo e dell’Amministrazione,[^ingress-4]
 
 ordina:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^ingress-3]: Nuovo testo giusta l’all. 2 cifra II n. 79 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-4]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -54,10 +55,13 @@ Il SIAC è costituito da quattro sottosistemi che fungono da supporto alle autor
 
 <sup>1</sup> L’Ufficio federale delle strade (USTRA) gestisce il SIAC e ne è responsabile.
 
-- [tab] <sup>2</sup> È responsabile affinché il trattamento dei dati e l’utilizzo del sistema d’informazione siano conformi alla legge e garantisce la sicurezza informatica.
-- [tab] <sup>3</sup> È competente per il rilascio, la modifica e la revoca delle autorizzazioni di accesso.
-- [tab] <sup>4</sup> Coordina le proprie attività con le autorità coinvolte nel SIAC.
-- [tab] <sup>5</sup> Emana un regolamento per il trattamento dei dati nel quale definisce in particolare le interfacce tecniche e le procedure di sincronizzazione dei dati.
+<sup>2</sup> È responsabile affinché il trattamento dei dati e l’utilizzo del sistema d’informazione siano conformi alla legge e garantisce la sicurezza informatica.
+
+<sup>3</sup> È competente per il rilascio, la modifica e la revoca delle autorizzazioni di accesso.
+
+<sup>4</sup> Coordina le proprie attività con le autorità coinvolte nel SIAC.
+
+<sup>5</sup> Emana un regolamento per il trattamento dei dati nel quale definisce in particolare le interfacce tecniche e le procedure di sincronizzazione dei dati.
 
 ## Sezione 2: Sottosistema SIAC Veicoli
 
@@ -65,32 +69,38 @@ Il SIAC è costituito da quattro sottosistemi che fungono da supporto alle autor
 
 **Contenuto**
 
-Il sottosistema SIAC Veicoli contiene i seguenti dati relativi ai veicoli immatricolati dalle autorità svizzere:
+Il sottosistema SIAC Veicoli contiene i seguenti dati relativi ai veicoli immatricolati dalle autorità svizzere o destinati all’immatricolazione:[^4-1]
 
 - a. i dati relativi al veicolo conformemente all’allegato 1 numero 1;
 - b. i dati relativi al detentore conformemente all’allegato 1 numero 2;
 - c. i dati relativi alla targa conformemente all’allegato 1 numero 3.
 
+[^4-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+
 #### Art. 5
 
-**Competenza per la trasmissione dei dati**
+**Competenza per la registrazione e la trasmissione dei dati[^5-1]**
 
 <sup>1</sup> Le autorità della Confederazione e dei Cantoni competenti per il rilascio e la revoca delle licenze di circolazione trasmettono al SIAC i dati di cui all’articolo 4 che rientrano nel loro ambito di competenza e le relative modifiche.
 
+<sup>1bis</sup> L’USTRA registra nel SIAC i dati di cui all’articolo 4 che rientrano nel suo ambito di competenza e le relative modifiche. Può disporre la trasmissione di questi dati al SIAC.[^5-2]
+
 <sup>2</sup> I costruttori e gli importatori di veicoli trasmettono al SIAC i dati relativi al veicolo di cui all’allegato 1 numeri 11–14.
 
-<sup>3</sup> Gli organi di polizia nonché gli organi doganali con compiti di polizia stradale trasmettono al SIAC i dati sul blocco e sullo sblocco di veicoli e targhe oggetto di segnalazioni di ricerca, registrati nel sistema di ricerca informatizzato di polizia (RIPOL) ai sensi dell’ordinanza RIPOL del 26 ottobre 2016[^5-1].
+<sup>3</sup> Gli organi di polizia nonché gli organi doganali con compiti di polizia stradale trasmettono al SIAC i dati sul blocco e sullo sblocco di veicoli e targhe oggetto di segnalazioni di ricerca, registrati nel sistema di ricerca informatizzato di polizia (RIPOL) ai sensi dell’ordinanza RIPOL del 26 ottobre 2016[^5-3].
 
-<sup>4</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^5-2] trasmette al SIAC i dati necessari per il controllo di sdoganamento e imposizione fiscale secondo la legge federale del 21 giugno 1996[^5-3] sull’imposizione degli autoveicoli (LIAut). Esso può anche affidare tale compito alle autorità competenti per il rilascio e la revoca delle licenze di circolazione.
+<sup>4</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^5-4] trasmette al SIAC i dati necessari per il controllo di sdoganamento e imposizione fiscale secondo la legge federale del 21 giugno 1996[^5-5] sull’imposizione degli autoveicoli (LIAut). Esso può anche affidare tale compito alle autorità competenti per il rilascio e la revoca delle licenze di circolazione.
 
 <sup>5</sup> L’autorità competente in seno al Dipartimento federale della difesa, della protezione della popolazione e dello sport trasmette al SIAC i dati necessari per il razionamento del carburante nonché l’occupazione e il noleggio di veicoli destinati all’esercito, alla protezione civile e all’approvvigionamento economico del Paese.
 
-<sup>6</sup> Gli assicuratori trasmettono al SIAC i dati di cui all’allegato 1 lettera A numero 2 dell’ordinanza del 20 novembre 1959[^5-4] sull’assicurazione dei veicoli nonché i dati relativi alla sospensione o alla cessazione dell’assicurazione.
+<sup>6</sup> Gli assicuratori trasmettono al SIAC i dati di cui all’allegato 1 lettera A numero 2 dell’ordinanza del 20 novembre 1959[^5-6] sull’assicurazione dei veicoli nonché i dati relativi alla sospensione o alla cessazione dell’assicurazione.
 
-[^5-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^5-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^5-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^5-4]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^5-2]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^5-3]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^5-4]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^5-5]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^5-6]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 ## Sezione 3: Sottosistema SIAC Persone
 
@@ -135,7 +145,7 @@ Il sottosistema SIAC Persone contiene:
 
 <sup>3</sup> L’UDSC trasmette al SIAC i dati relativi alle carte dell’officina di cui all’allegato 2 numero 22 nonché le relative modifiche.
 
-[^8-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^8-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 ## Sezione 4: Sottosistema SIAC Provvedimenti
 
@@ -188,7 +198,7 @@ Ai fini di cui all’articolo 89*b* lettere h e i LCStr, l’USTRA può:
 
 <sup>2</sup> Al collegamento con i dati dell’Ufficio federale di statistica (UST) o con dati rilevati nel quadro della legge del 9 ottobre 1992[^13-1] sulla statistica federale (LStat) si applica l’articolo 14*a* LStat.
 
-[^13-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^13-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ## Sezione 6: Disposizioni comuni
 
@@ -218,7 +228,7 @@ La trasmissione di dati al SIAC deve avvenire attraverso le interfacce e le proc
 
 #### Art. 17
 
-**Statistiche e liste**
+**Statistiche e registri[^17-1]**
 
 <sup>1</sup>
 
@@ -227,12 +237,17 @@ L’USTRA pubblica annualmente:
 - a. una statistica sulle autorizzazioni a condurre;
 - b. una statistica sui provvedimenti amministrativi.
 
-<sup>2</sup> Ogni anno compila una lista delle officine autorizzate e delle relative carte. Nella lista sono elencate le officine autorizzate all’installazione, all’esame successivo e alla riparazione di tachigrafi conformemente all’articolo 101 dell’ordinanza del 19 giugno 1995[^17-1] concernente le esigenze tecniche per i veicoli stradali.
+<sup>2</sup> Ogni anno compila un registro delle officine autorizzate e delle relative carte. Nel registro sono elencate le officine autorizzate all’installazione, all’esame successivo e alla riparazione di tachigrafi conformemente all’articolo 101 dell’ordinanza del 19 giugno 1995[^17-2] concernente le esigenze tecniche per i veicoli stradali.[^17-3]
 
-<sup>3</sup> L’UST pubblica la statistica dei veicoli conformemente all’articolo 127 dell’ordinanza del 27 ottobre 1976[^17-2] sull’ammissione alla circolazione.
+<sup>3</sup> L’UST pubblica la statistica dei veicoli conformemente all’articolo 127 dell’ordinanza del 27 ottobre 1976[^17-4] sull’ammissione alla circolazione.
 
-[^17-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^17-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+<sup>4</sup> L’USTRA tiene un registro pubblico dei dati tecnici contenuti nel SIAC Veicoli. Nel registro possono essere pubblicati anche dati di contatto di importatori e titolari dell’approvazione del tipo, purché questi acconsentano alla pubblicazione.[^17-5]
+
+[^17-1]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^17-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^17-3]: Nuovo testo giusta la cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652), [690](https://fedlex.data.admin.ch/eli/oc/2025/690)).
+[^17-4]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^17-5]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 #### Art. 18
 
@@ -248,9 +263,9 @@ L’USTRA pubblica annualmente:
 
 <sup>5</sup> La comunicazione dei dati a fini statistici o di ricerca è retta dalla LPD, dall’ordinanza del 31 agosto 2022[^18-1] relativa alla legge federale sulla protezione dei dati nonché dalla LStat[^18-2] e dall’ordinanza del 30 aprile 2025[^18-3] sulla statistica federale.[^18-4]
 
-[^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^18-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^18-3]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^18-4]: Nuovo testo giusta l’all. 3 n. 11 dell’O del 30 apr. 2025 sulla statistica federale, in vigore dal 1° giu. 2025 ([RU 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 19
@@ -261,7 +276,10 @@ L’USTRA pubblica annualmente:
 
 <sup>2</sup> Per verificare l’unicità della carta del conducente secondo l’articolo 13*b* capoverso 4 OLR 1[^19-1] è consentito lo scambio di dati con le competenti autorità estere.
 
-[^19-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+<sup>3</sup> L’USTRA può ottenere i dati necessari per l’immatricolazione di veicoli da autorità estere anche per via elettronica.[^19-2]
+
+[^19-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^19-2]: Introdotto dalla cifra I dell’O del 15 ott. 2025, in vigore dal 1° gen. 2026 ([RU 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 #### Art. 20
 
@@ -360,7 +378,7 @@ Allegato 1
 - – riscossione della tassa sul traffico pesante commisurata alle prestazioni
 - – razionamento di carburante nonché requisizione e locazione di veicoli a favore dell’esercito, della protezione civile e dell’approvvigionamento economico del Paese.
 
-[^annex1-lvlu1-lvl1-lvl16-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^annex1-lvlu1-lvl1-lvl16-1]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 
 ### 2 Detentore
 

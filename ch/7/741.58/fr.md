@@ -4,11 +4,11 @@ title: "Ordonnance du 30 novembre 2018 sur le système d'information relatif à 
 short: OSIAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/783"
 language: fr
-version: 2025-06-01
+version: 2026-01-01
 adopted: 2018-11-30
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20250601/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20250601-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/783/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-783-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/783/20250601/fr"
 
 (OSIAC)
 
-du 30 novembre 2018 (État le 1<sup>er</sup> juin 2025)
+du 30 novembre 2018 (État le 1<sup>er</sup> janvier 2026)
 
 Le Conseil fédéral suisse,
 
-vu les art. 89*g*, al. 2, 89*h* et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1], vu les art. 8, al. 3, et 33, de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^ingress-2],[^ingress-3]
+vu les art. 89*g*, al. 2, 89*h* et 106, al. 1, de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR)[^ingress-1], vu les art. 8, al. 3, et 33 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD)[^ingress-2], vu les art. 57*r* et 57*s* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-3],[^ingress-4]
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
-[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
-[^ingress-3]: Nouvelle teneur selon l’annexe 2 ch. II 79 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
+[^ingress-2]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
+[^ingress-3]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 ## Section 1 Dispositions générales
 
@@ -68,32 +69,38 @@ Le SIAC se compose de quatre sous-systèmes qui aident les autorités fédérale
 
 **Contenu**
 
-Le sous-système SIAC-Véhicules contient les données ci-après relatives aux véhicules immatriculés par les autorités suisses:
+Le sous-système SIAC-Véhicules contient les données ci-après relatives aux véhicules immatriculés par les autorités suisses ou à ceux qu’il est prévu d’immatriculer:[^4-1]
 
 - a. les données relatives au véhicule visées à l’annexe 1, ch. 1;
 - b. les données concernant le détenteur visées à l’annexe 1, ch. 2;
 - c. les données relatives à la plaque de contrôle visées à l’annexe 1, ch. 3.
 
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+
 #### Art. 5
 
-**Compétence en matière de transmission des données**
+**Compétence en matière de saisie et de transmission des données[^5-1]**
 
 <sup>1</sup> Les autorités de la Confédération et des cantons chargées de délivrer et de retirer les permis de circulation transmettent au SIAC les données relevant de leur domaine de compétence visées à l’art. 4 et toute modification de ces données.
 
+<sup>1bis</sup> L’OFROU saisit dans le SIAC les données relevant de son domaine de compétence et visées à l’art. 4 et toute modification de ces données. Il peut déclencher la transmission de ces données au SIAC.[^5-2]
+
 <sup>2</sup> Les constructeurs automobiles et les importateurs de véhicules transmettent au SIAC les données relatives aux véhicules visées à l’annexe 1, ch. 11 à 14.
 
-<sup>3</sup> Les organes de police et les organes douaniers chargés des tâches de police routière transmettent au SIAC les données du système de recherches informatisées de police (RIPOL) relatives à l’interdiction et à la levée d’interdiction des véhicules et des plaques de contrôle dont l’avis de recherche est publié, conformément à l’ordonnance RIPOL du 26 octobre 2016[^5-1].
+<sup>3</sup> Les organes de police et les organes douaniers chargés des tâches de police routière transmettent au SIAC les données du système de recherches informatisées de police (RIPOL) relatives à l’interdiction et à la levée d’interdiction des véhicules et des plaques de contrôle dont l’avis de recherche est publié, conformément à l’ordonnance RIPOL du 26 octobre 2016[^5-3].
 
-<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-2] transmet au SIAC les données nécessaires au contrôle du dédouanement et à l’imposition selon la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles (Limpauto)[^5-3]. Il peut également confier cette tâche aux autorités chargées de délivrer et de retirer les permis de circulation.
+<sup>4</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^5-4] transmet au SIAC les données nécessaires au contrôle du dédouanement et à l’imposition selon la loi fédérale du 21 juin 1996 sur l’imposition des véhicules automobiles (Limpauto)[^5-5]. Il peut également confier cette tâche aux autorités chargées de délivrer et de retirer les permis de circulation.
 
 <sup>5</sup> L’autorité compétente au sein du Département fédéral de la défense, de la protection de la population et des sports transmet au SIAC les données nécessaires au rationnement des carburants, à la réquisition et à la location de véhicules pour l’armée, la protection civile et l’approvisionnement économique du pays.
 
-<sup>6</sup> Les assureurs transmettent au SIAC les données visées à l’annexe 1, let. A, ch. 2, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules[^5-4] et les données sur la suspension ou la cessation de l’assurance.
+<sup>6</sup> Les assureurs transmettent au SIAC les données visées à l’annexe 1, let. A, ch. 2, de l’ordonnance du 20 novembre 1959 sur l’assurance des véhicules[^5-6] et les données sur la suspension ou la cessation de l’assurance.
 
-[^5-1]: [RS 361.0](https://fedlex.data.admin.ch/eli/cc/2016/665)
-[^5-2]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
-[^5-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^5-4]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^5-2]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^5-3]: [RS 361.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6308)
+[^5-4]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^5-5]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^5-6]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 ## Section 3 Sous-système SIAC-Personnes
 
@@ -138,7 +145,7 @@ Le sous-système SIAC-Personnes contient les données:
 
 <sup>3</sup> L’OFDF transmet au SIAC les données relatives aux cartes d’atelier visées à l’annexe 2, ch. 22 et toute modification de ces données.
 
-[^8-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+[^8-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
 
 ## Section 4 Sous-système SIAC-Mesures
 
@@ -191,7 +198,7 @@ Aux fins prévues à l’art. 89*b*, let. h et i, LCR, l’OFROU peut:
 
 <sup>2</sup> L’art. 14*a* de la loi du 9 octobre 1992 sur la statistique fédérale (LSF)[^13-1] régit les appariements avec les données de l’Office fédéral de la statistique (OFS) ou les données qui ont été recueillies dans le cadre de la LSF.
 
-[^13-1]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^13-1]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
 
 ## Section 6 Dispositions communes
 
@@ -213,7 +220,7 @@ Les données doivent être transmises au SIAC via les interfaces et selon les pr
 
 **Traitement des données et accès en ligne**
 
-<sup>1</sup> ...[^16-1]
+<sup>1</sup> …[^16-1]
 
 <sup>2</sup> Les services pouvant accéder en ligne aux données du SIAC conformément à l’art. 89*e* LCR désignent les personnes habilitées à consulter les données.
 
@@ -230,12 +237,16 @@ L’OFROU publie chaque année:
 - a. une statistique concernant les autorisations de conduire;
 - b. une statistique sur les mesures administratives.
 
-<sup>2</sup> Il établit chaque année une liste des ateliers agréés et des cartes d’atelier correspondantes. Sont mentionnés dans la liste les ateliers agréés pour l’installation, le contrôle subséquent et la réparation de tachygraphes conformément à l’art. 101 de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^17-1].
+<sup>2</sup> Il établit chaque année une liste des ateliers agréés et des cartes d’atelier correspondantes. Sont mentionnés dans la liste les ateliers agréés pour l’installation, l’inspection et la réparation de tachygraphes conformément à l’art. 101 de l’ordonnance du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers[^17-1].[^17-2]
 
-<sup>3</sup> L’OFS publie la statistique des véhicules conformément à l’art. 127 de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière[^17-2].
+<sup>3</sup> L’OFS publie la statistique des véhicules conformément à l’art. 127 de l’ordonnance du 27 octobre 1976 réglant l’admission à la circulation routière[^17-3].
 
-[^17-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^17-2]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+<sup>4</sup> L’OFROU tient une liste publique des données techniques contenues dans le SIAC-Véhicules. Les coordonnées des importateurs et des titulaires de réceptions par type peuvent également être publiées dans la liste, pour autant que ceux-ci y consentent.[^17-4]
+
+[^17-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^17-2]: Nouvelle teneur de la phrase selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
+[^17-3]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
+[^17-4]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 #### Art. 18
 
@@ -251,9 +262,9 @@ L’OFROU publie chaque année:
 
 <sup>5</sup> La communication de données à des fins de statistique ou de recherche est régie par la LPD, l’ordonnance du 31 août 2022 relative à la loi fédérale sur la protection des données[^18-1], la LSF[^18-2] et l’ordonnance du 30 avril 2025 sur la statistique fédérale[^18-3].[^18-4]
 
-[^18-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
-[^18-3]: [RS 431.011](https://fedlex.data.admin.ch/eli/cc/1993/2093_2093_2093)
+[^18-1]: [RS 235.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5994)
+[^18-2]: [RS 431.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6946)
+[^18-3]: [RS 431.011](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6947)
 [^18-4]: Nouvelle teneur selon l’annexe 3 ch. 11 de l’O du 30 avr. 2025 sur la statistique fédérale, en vigueur depuis le 1<sup>er</sup> juin 2025 ([RO 2025 318](https://fedlex.data.admin.ch/eli/oc/2025/318)).
 
 #### Art. 19
@@ -264,7 +275,10 @@ L’OFROU publie chaque année:
 
 <sup>2</sup> L’échange de données avec les autorités étrangères compétentes est autorisé pour vérifier le caractère unique de la carte de conducteur selon l’art. 13*b*, al. 4, OTR 1[^19-1].
 
-[^19-1]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
+<sup>3</sup> L’OFROU peut se procurer les données nécessaires à l’immatriculation de véhicules auprès d’autorités étrangères, y compris par voie électronique.[^19-2]
+
+[^19-1]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^19-2]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 652](https://fedlex.data.admin.ch/eli/oc/2025/652)).
 
 #### Art. 20
 
@@ -363,7 +377,7 @@ Annexe 1
 - – Données relatives à la perception de la redevance sur le trafic des poids lourds liée aux prestations
 - – Données relatives au rationnement des carburants, à la réquisition et à la location de véhicules pour l’armée, la protection civile et l’approvisionnement économique du pays
 
-[^annex1-lvlu1-lvl1-lvl16-1]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^annex1-lvlu1-lvl1-lvl16-1]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 
 ### 2 Données concernant le détenteur
 
