@@ -4,13 +4,13 @@ number: "143.1"
 title: Personalgesetz
 short: PersG
 language: de
-version: 2019-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-11-20
+version: 2026-01-01
+valid_until: 2026-02-28
+version_adopted: 2025-05-06
 adopted: 2011-01-25
 in_force: 2011-01-25
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2504/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3811/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2504/pdf_file"
 
 (PersG)
 
-vom 25.01.2011 (Stand 01.01.2019)
+vom 25.01.2011 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -68,11 +68,11 @@ als Gesetz:[^ingress-2]
 
 #### Art. 4
 
-**b) Leitbild**
+**b) Instrumente**
 
-<sup>1</sup> Die Regierung erlässt ein Leitbild über die Personalpolitik.
+<sup>1</sup> Die Regierung und die selbständigen öffentlich-rechtlichen Anstalten nach Art. 2 Abs. 2 Ziff. 1 dieses Erlasses schaffen Instrumente zur Gestaltung und Umsetzung der Personalpolitik und sorgen für eine stufengerechte Personal- und Führungsentwicklung.
 
-<sup>2</sup> Sie schafft die notwendigen Voraussetzungen für die Umsetzung des Leitbildes und überprüft es regelmässig.
+<sup>2</sup> Sie überprüfen die Umsetzung der Personalpolitik regelmässig.
 
 #### Art. 5
 
@@ -94,6 +94,7 @@ als Gesetz:[^ingress-2]
 
 - a) Änderungen dieses Erlasses;
 - b) Erlass und Änderungen von Verordnungsrecht und weiteren Ausführungsbestimmungen zu diesem Erlass;
+- b<sup>bis</sup>) Entwicklungen im Lohnsystem;
 - c) Umstrukturierung der Staatsverwaltung;
 - d) Übertragung von Teilen der Staatsverwaltung an Dritte;
 - e) Erlass eines Sozialplans.
@@ -122,9 +123,14 @@ als Gesetz:[^ingress-2]
 
 <sup>1</sup> Als Arbeitgeberin oder Arbeitgeber nach diesem Erlass handeln:
 
-- a) Regierung;
-- b) Departemente und Staatskanzlei;
-- c) nach Gesetz oder zwischenstaatlicher Vereinbarung zuständige Organe von Gerichten und anderen Justizbehörden, selbständigen öffentlich-rechtlichen Anstalten und weiteren Institutionen.
+- a) Regierung, Departemente und Staatskanzlei;
+- b) …
+- c) nach Gesetz oder zwischenstaatlicher Vereinbarung zuständige Organe von Gerichten und anderen Justizbehörden;
+- d) nach Gesetz oder zwischenstaatlicher Vereinbarung zuständige Organe von selbständigen öffentlich-rechtlichen Anstalten und weiteren Institutionen.
+
+<sup>2</sup> Die besonderen gesetzlichen Bestimmungen betreffend die Parlamentsdienste, die Finanzkontrolle und die Fachstelle für Datenschutz bleiben vorbehalten.[^9-1]
+
+[^9-1]: Art. [7c](https://www.gesetzessammlung.sg.ch/data/140.1/de/art7c), [42d](https://www.gesetzessammlung.sg.ch/data/140.1/de/art42d) und [42e](https://www.gesetzessammlung.sg.ch/data/140.1/de/art42e) des Staatsverwaltungsgesetzes vom 16. Juni 1994, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de); Art. [28](https://www.gesetzessammlung.sg.ch/data/142.1/de) des Datenschutzgesetzes vom 20. Januar 2009, sGS [142.1](https://www.gesetzessammlung.sg.ch/data/142.1/de).
 
 #### Art. 10
 
@@ -133,7 +139,7 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Die Regierung ist zuständig für Begründung und Beendigung des Arbeitsverhältnisses von:
 
 - a) Generalsekretärin oder Generalsekretär;
-- b) Leiterin oder Leiter eines Amtes oder einer Anstalt;
+- b) Leiterin oder Leiter eines Amtes;
 - c) Leiterin oder Leiter des Dienstes für politische Planung und Controlling;
 - d) …
 - e) weiteren Mitarbeiterinnen und Mitarbeitern nach besonderen gesetzlichen Bestimmungen.
@@ -142,26 +148,42 @@ als Gesetz:[^ingress-2]
 
 #### Art. 11
 
-**b) Departemente, Staatskanzlei sowie Gerichte und andere Justizbehörden 1. Grundsatz**
+**b) Departemente und Staatskanzlei**
 
-<sup>1</sup> Für Begründung und Beendigung sowie Gestaltung des Arbeitsverhältnisses sind zuständig:
+<sup>1</sup> Soweit nicht die Regierung zuständig ist, sind die Departemente und die Staatskanzlei für Begründung und Beendigung sowie Gestaltung der Arbeitsverhältnisse ihrer Mitarbeiterinnen und Mitarbeiter zuständig.
 
-- a) Departement und Staatskanzlei, soweit nicht die Regierung zuständig ist;
-- b) Gerichte und andere Justizbehörden nach besonderen gesetzlichen Bestimmungen.
+- a) …
+- b) …
+
+<sup>2</sup> Das Departement kann seine Zuständigkeit ganz oder teilweise an das Generalsekretariat sowie an Ämter und Anstalten, die Staatskanzlei an ihre Dienststellen übertragen.
+
+<sup>3</sup> Das Amt und die Anstalt können die Zuständigkeit für die Gestaltung des Arbeitsverhältnisses an Abteilungen übertragen.
 
 #### Art. 12
 
-**2. Übertragung**
+**…**
 
-<sup>1</sup> Das Departement kann die Zuständigkeit der Arbeitgeberin oder des Arbeitgebers ganz oder teilweise an das Generalsekretariat sowie an Ämter und Anstalten, die Staatskanzlei an ihre Dienste, übertragen.
+#### Art. 12bis
 
-<sup>2</sup> Das Amt und die Anstalt können die Zuständigkeit für die Gestaltung des Arbeitsverhältnisses an Abteilungen übertragen.
+**c) Gerichte und andere Justizbehörden**
+
+<sup>1</sup> Die Gerichte und anderen Justizbehörden sind nach besonderen gesetzlichen Bestimmungen für Begründung und Beendigung sowie Gestaltung der Arbeitsverhältnisse ihrer Mitarbeiterinnen und Mitarbeiter zuständig.
+
+#### Art. 12ter
+
+**d) selbständige öffentlich-rechtliche Anstalten**
+
+<sup>1</sup> Die selbständigen öffentlich-rechtlichen Anstalten und weiteren Institutionen sind nach besonderen gesetzlichen Bestimmungen für Begründung und Beendigung sowie Gestaltung der Arbeitsverhältnisse ihrer Mitarbeiterinnen und Mitarbeiter zuständig.
 
 #### Art. 13
 
 **Personalamt**
 
-<sup>1</sup> Das Personalamt unterstützt Arbeitgeberinnen und Arbeitgeber in der Umsetzung der Personalpolitik und in der einheitlichen Anwendung des Personalrechts.
+<sup>1</sup> Das Personalamt:
+
+- a) übernimmt eine strategische Rolle in der Entwicklung und Gestaltung der Personalpolitik der Regierung;
+- b) unterstützt die Regierung, die Departemente, die Staatskanzlei, die Gerichte und anderen Justizbehörden sowie die selbständigen öffentlich-rechtlichen Anstalten und weiteren Institutionen in der Umsetzung der Personalpolitik und in der einheitlichen Anwendung des Personalrechts;
+- c) stellt die Personaladministration für die Regierung, die Departemente, die Staatskanzlei sowie die Gerichte und anderen Justizbehörden sicher. Es kann die Personaladministration auch für selbständige öffentlich-rechtliche Anstalten und weitere Institutionen übernehmen.
 
 <sup>2</sup> Die Regierung erlässt durch Verordnung Bestimmungen über Aufgaben und Zuständigkeit des Personalamtes.
 
@@ -410,7 +432,8 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Der Lohn bemisst sich:
 
 - a) nach den Anforderungen der Stelle;
-- b) nach den persönlichen Eigenschaften, insbesondere Ausbildung, Qualifikation, Leistung und Erfahrung der Mitarbeiterin oder des Mitarbeiters.
+- b) nach den persönlichen Eigenschaften, insbesondere Ausbildung, Qualifikation, Leistung und Erfahrung der Mitarbeiterin oder des Mitarbeiters;
+- c) im Rahmen von Referenzfunktionen und den ihnen zugeordneten Lohnbändern.
 
 <sup>2</sup> Bei vergleichbarer Ausbildung, Qualifikation, Leistung und Erfahrung wird gleicher Lohn für gleiche oder gleichwertige Arbeit ausgerichtet.
 
@@ -435,6 +458,17 @@ als Gesetz:[^ingress-2]
 <sup>2</sup> Der Landesindex der Konsumentenpreise kann höchstens um 6 Prozent über- und 6 Prozent unterschritten werden.
 
 <sup>3</sup> Massgebend ist der Stand des Landesindexes der Konsumentenpreise im Oktober des Vorjahres.
+
+#### Art. 38a
+
+**c) Referenzfunktionskommission**
+
+<sup>1</sup> Die Pflege des Systems der Referenzfunktionen nach Art. 36 Abs. 1 Bst. c dieses Erlasses obliegt einer Referenzfunktionskommission. Sie wird von der Regierung eingesetzt und ist insbesondere:
+
+- a) als Entscheidgremium für die Zuordnung von Stellen zu Referenzfunktionen in den Departementen und der Staatskanzlei sowie den anderen Justizbehörden zuständig. Abs. 2 dieser Bestimmung bleibt vorbehalten;
+- b) als beratendes Gremium betreffend die Zuordnung von Stellen zu Referenzfunktionen bei den Gerichten und den Parlamentsdiensten tätig.
+
+<sup>2</sup> Die Referenzfunktionskommission kann Fälle von grundsätzlicher Bedeutung, welche die Zuordnung von Stellen zu Referenzfunktionen in den Departementen und der Staatskanzlei betreffen, der Regierung zum Entscheid vorlegen.
 
 #### Art. 39
 
@@ -563,7 +597,7 @@ als Gesetz:[^ingress-2]
 
 **Verordnung**
 
-<sup>1</sup> Die Regierung erlässt durch Verordnung ergänzende Bestimmungen über Lohn, Lohnfortzahlung und weitere Entschädigungen.
+<sup>1</sup> Die Regierung erlässt durch Verordnung ergänzende Bestimmungen über Lohn, Lohnfortzahlung und weitere Entschädigungen, einschliesslich solcher über die Referenzfunktionen sowie über Organisation und Aufgaben der Referenzfunktionskommission.
 
 <sup>2</sup> Die Regierung regelt durch Verordnung die Pflicht der Mitarbeiterin oder des Mitarbeiters zur Ablieferung von nicht im Lohn enthaltenen finanziellen Abgeltungen von Tätigkeiten, die nach Vereinbarung mit der Arbeitgeberin oder dem Arbeitgeber in der Arbeitszeit ausgeübt werden können.
 
