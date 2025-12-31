@@ -3,20 +3,19 @@ canton: FR
 number: "921.111"
 title: Verordnung ILFD über die Festlegung der Forstkreise
 language: de
-version: 2022-06-15
-valid_until: 2025-12-31
-version_adopted: 2022-05-31
+version: 2026-01-01
+version_adopted: 2026-03-30
 adopted: 2016-01-08
 in_force: 2016-03-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/921.111"
-pdf: "https://bdlf.fr.ch/api/de/versions/7486/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung ILFD über die Festlegung der Forstkreise
 
-vom 08.01.2016 (Fassung in Kraft getreten am 15.06.2022)
+vom 08.01.2016 (Fassung in Kraft getreten am 01.01.2026)
 
 Die Direktion der Institutionen und der Land- und Forstwirtschaft
 
@@ -40,7 +39,7 @@ beschliesst:
 <sup>1</sup> Der 2. Kreis «Sense–See, Gemeinden der Revierkörperschaften Galm und Murtensee» besteht aus den folgenden Gebieten:
 
 - a) für den Sensebezirk, alle Gemeinden des Bezirks;
-- b) für den Seebezirk, der Staatswald Galm und die Gemeinden Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Mont-Vully, Muntelier, Murten, Ried bei Kerzers und Ulmiz.
+- b) für den Seebezirk, der Staatswald Galm und die Gemeinden Fräschels, Greng, Gurmels, Kerzers, Kleinbösingen, Mont-Vully, Muntelier, Murten und Ried bei Kerzers.
 
 #### Art. 3
 
