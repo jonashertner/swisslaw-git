@@ -4,13 +4,12 @@ number: "125.3"
 title: Gesetz über Wahlen und Abstimmungen
 short: WAG
 language: de
-version: 2019-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-12-05
+version: 2026-01-01
+version_adopted: 2025-11-11
 adopted: 2018-12-05
 in_force: 2019-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/125.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2500/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3838/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2500/pdf_file"
 
 (WAG)
 
-vom 05.12.2018 (Stand 01.01.2019)
+vom 05.12.2018 (Stand 01.01.2026)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -102,7 +101,7 @@ als Gesetz:[^ingress-2]
 
 #### Art. 7
 
-**Führung und Eintrag**
+**Stimmregister der Gemeinden a) Führung und Eintrag**
 
 <sup>1</sup> Jede Gemeinde führt ein Verzeichnis der Stimmberechtigten. Das Stimmregister kann elektronisch geführt werden.
 
@@ -116,15 +115,23 @@ als Gesetz:[^ingress-2]
 
 #### Art. 8
 
-**Öffentlichkeit**
+**b) Öffentlichkeit**
 
 <sup>1</sup> Das Stimmregister steht den Stimmberechtigten der entsprechenden Gemeinde, der Staatskanzlei und dem für Beschwerden zuständigen Departement zur Einsicht offen. Eine Vervielfältigung des Stimmregisters ist nicht zulässig.
 
 #### Art. 9
 
-**Abgabe von Adressen**
+**c) Abgabe von Adressen**
 
 <sup>1</sup> Die Stimmregisterführerin oder der Stimmregisterführer gibt die Adressen der Stimmberechtigten auf Gesuch hin gegen Bezahlung der Selbstkosten ab, wenn die Gesuchstellerin oder der Gesuchsteller glaubhaft macht, dass die Adressen ausschliesslich für Wahl- oder Abstimmungswerbung verwendet werden.
+
+#### Art. 9a
+
+**Stimmregister des Kantons**
+
+<sup>1</sup> Der Kanton führt ein stehendes Stimmregister. Darin werden die elektronischen Stimmregister der politischen Gemeinden täglich automatisiert zusammengeführt.
+
+<sup>2</sup> Die Regierung regelt Einzelheiten, insbesondere zur Datenbekanntgabe, durch Verordnung.
 
 ### 3. Behörden
 
@@ -653,7 +660,7 @@ als Gesetz:[^ingress-2]
 <sup>1</sup> Wer seine Stimme brieflich abgibt:
 
 - a) legt den oder die Stimmzettel in das Stimmzettelkuvert;
-- b) unterschreibt den Stimmrechtsausweis.
+- b) unterzeichnet den Stimmrechtsausweis.
 
 <sup>2</sup> Das Stimmzettelkuvert und der Stimmrechtsausweis werden in das Zustellkuvert oder in ein privates Zustellkuvert gelegt.
 
