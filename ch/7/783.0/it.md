@@ -4,11 +4,11 @@ title: Legge del 17 dicembre 2010 sulle poste (LPO)
 short: LPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: it
-version: 2023-09-01
+version: 2026-01-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20260101/it/xml/fedlex-data-admin-ch-eli-cc-2012-585-20260101-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20260101/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/it"
 
 (LPO)
 
-del 17 dicembre 2010 (Stato 1° settembre 2023)
+del 17 dicembre 2010 (Stato 1° gennaio 2026)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visto l’articolo 92 della Costituzione federale[^ingress-1] (Cost.); visto il 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2009 4493](https://fedlex.data.admin.ch/eli/fga/2009/917)
 
 ## Capitolo 1: Disposizioni generali
@@ -139,7 +139,7 @@ I fornitori di servizi postali disciplinano mediante accordo un accesso non disc
 
 <sup>6</sup> Rimane salva l’autorizzazione di trasmettere indirizzi conformemente alla legge del 23 giugno 2006[^7-1] sull’armonizzazione dei registri.
 
-[^7-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^7-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 8
 
@@ -183,7 +183,7 @@ Nelle loro condizioni generali, i fornitori di servizi postali possono sottrarsi
 
 <sup>3</sup> Rimangono salve le disposizioni concernenti la facoltà del generale di disporre giusta l’articolo 91 della legge militare del 3 febbraio 1995[^12-1].
 
-[^12-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^12-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### Sezione 2: Servizio universale
 
@@ -253,22 +253,25 @@ Sono concesse riduzioni per la distribuzione di:
 - a. quotidiani e settimanali in abbonamento della stampa regionale e locale;
 - b. giornali e periodici editi da organizzazioni senza scopo di lucro, distribuiti ai loro abbonati, membri o donatori (stampa associativa e delle fondazioni) e di cui viene assicurata la distribuzione regolare.
 
-<sup>5</sup> Non sono concesse riduzioni per la distribuzione di titoli appartenenti a una rete di edizioni locali con propria testata[^16-2] la cui tiratura autenticata complessiva è superiore ai 100 000 esemplari. Il Consiglio federale può prevedere altri criteri; questi possono essere in particolare la zona di diffusione, la frequenza di pubblicazione, la parte redazionale, nonché il divieto di promuovere in modo preponderante prodotti e servizi.
+<sup>5</sup> Non sono concesse riduzioni per la distribuzione di titoli appartenenti a una rete di edizioni locali con propria testata[^16-2] la cui tiratura autenticata complessiva è superiore ai 100 000 esemplari. Il Consiglio federale stabilisce gli altri criteri; questi possono riguardare in particolare la zona di diffusione, la frequenza di pubblicazione, la tiratura minima, la parte redazionale nonché il divieto di promuovere in modo preponderante prodotti e servizi.[^16-3]
 
-<sup>6</sup> Il Consiglio federale approva i prezzi ridotti.
+<sup>6</sup> Le riduzioni necessitano dell’approvazione del Consiglio federale. Non possono superare il prezzo di distribuzione.[^16-4]
 
 <sup>7</sup>
 
 La Confederazione accorda annualmente, per tale riduzione, i seguenti contributi:
 
-- a. 30 milioni di franchi per la stampa regionale e locale;
-- b. 20 milioni di franchi per la stampa associativa e delle fondazioni.[^16-3]
+- a.[^16-5] 40 milioni di franchi per la stampa regionale e locale;
+- b. 20 milioni di franchi per la stampa associativa e delle fondazioni.[^16-6]
 
 <sup>8</sup> Il Consiglio federale può definire limiti massimi di prezzo applicabili al servizio universale o a parti di esso. Questi limiti massimi si applicano in modo uniforme e sono fissati secondo l’evoluzione del mercato. Il Consiglio federale può delegare alla PostCom l’emanazione e l’esecuzione di prescrizioni tecniche e amministrative.
 
-[^16-1]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
-[^16-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
-[^16-3]: Cpv. in vigore dopo il 1° gen. 2012.
+[^16-1]: [RS 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
+[^16-2]: Rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4991)).
+[^16-3]: Nuovo testo del per. giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 ([RU 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [FF 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-4]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 ([RU 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [FF 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-5]: Nuovo testo giusta la cifra I della LF del 21 mar. 2025, in vigore dal 1° gen. 2026 al 31 dic. 2032 ([RU 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [FF 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-6]: Cpv. in vigore dopo il 1° gen. 2012.
 
 #### Art. 17
 
@@ -397,7 +400,7 @@ Se accerta una violazione del diritto, essa può:
 
 <sup>3</sup> Per calcolare l’importo della sanzione, la PostCom tiene conto in particolare della gravità della violazione e delle condizioni finanziarie del fornitore.
 
-[^25-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^25-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 26
 
@@ -415,9 +418,9 @@ Salvo diversa disposizione di accordi internazionali, la PostCom può trasmetter
 
 <sup>3</sup> I servizi della Confederazione e dei Cantoni sono tenuti a collaborare agli accertamenti della PostCom e a mettere a disposizione la necessaria documentazione. Sono inclusi anche i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o di procedimenti penali amministrativi.[^26-3]
 
-[^26-1]: Nuovo testo giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^26-2]: Nuovo testo giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
-[^26-3]: Nuovo testo del per. giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-1]: Nuovo testo giusta l’all. 1 cifra II n. 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-2]: Nuovo testo giusta l’all. 1 cifra II n. 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^26-3]: Nuovo testo del per. giusta l’all. 1 cifra II n. 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 27
 
@@ -431,7 +434,7 @@ La PostCom non può rivelare segreti d’affari e segreti professionali.
 
 Per adempiere i loro compiti legali, la PostCom e l’organo di conciliazione possono trattare dati personali, inclusi i dati personali degni di particolare protezione concernenti procedimenti e sanzioni penali.
 
-[^28-1]: Nuovo testo giusta l’all. 1 n. II 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
+[^28-1]: Nuovo testo giusta l’all. 1 cifra II n. 67 della LF del 25 set. 2020 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [FF 2017 5939](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Sezione 5: Organo di conciliazione
 
@@ -472,7 +475,7 @@ Per adempiere i loro compiti legali, la PostCom e l’organo di conciliazione po
 
 <sup>4</sup> Le contravvenzioni sono perseguite e giudicate dalla PostCom secondo le disposizioni della legge federale del 22 marzo 1974[^31-1] sul diritto penale amministrativo.
 
-[^31-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^31-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Capitolo 3: Servizio universale nel settore del traffico dei pagamenti
 

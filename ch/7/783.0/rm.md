@@ -4,11 +4,11 @@ title: Lescha da posta dals 17 da december 2010 (LPO)
 short: LPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: rm
-version: 2023-09-01
+version: 2026-01-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/rm/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20260101/rm/xml/fedlex-data-admin-ch-eli-cc-2012-585-20260101-rm-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20260101/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LPO)
 
-dals 17 da december 2010 (versiun dal 1. da settember 2023)
+dals 17 da december 2010 (versiun dal 1. da schaner 2026)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin l’artitgel 92 da la Constituziun federala[^ingress-1], suenter a
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)
 
 ## 1. chapitel Disposiziuns generalas
@@ -141,7 +141,7 @@ Tras ina cunvegna reglan las purschidras da servetschs postals l’access senza 
 
 <sup>6</sup> L’admissibladad da transmetter datas d’adressas tenor la Lescha dals 23 da zercladur 2006 davart l’armonisaziun dals registers[^7-1] resta resalvada.
 
-[^7-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^7-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 8
 
@@ -185,7 +185,7 @@ Las purschidras da servetschs postals pon limitar u excluder en lur cundiziuns d
 
 <sup>3</sup> Resalvadas restan las disposiziuns davart la pussanza da disponer dal general tenor l’artitgel 91 da la Lescha militara dals 3 da favrer 1995[^12-1].
 
-[^12-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^12-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### 2. part Provediment da basa
 
@@ -255,21 +255,24 @@ Reducziuns dal pretsch vegnan concedidas per la distribuziun da:
 - a. gasettas quotidianas ed emnilas abunadas da la pressa regiunala e locala;
 - b. gasettas e revistas che organisaziuns senza finamira da rendita tramettan a lur abunents, a lur commembers u a lur donaturs en la furma da distribuziun normala (pressa da commembranza e da fundaziuns).
 
-<sup>5</sup> Reducziuns dal pretsch na vegnan betg concedidas a titels che fan part d’ina uniun d’ediziuns cun in’ediziun totala legalisada uffizialmain da passa 100 000 exemplars. Il Cussegl federal po prevair ulteriurs criteris; tals pon esser en spezial: il territori da diffusiun, la frequenza da publicaziun, la part redacziunala sco er il scumond d’ina reclama predominanta da products e da servetschs.
+<sup>5</sup> Reducziuns dal pretsch na vegnan betg concedidas a titels che fan part d’ina uniun d’ediziuns cun in’ediziun totala legalisada uffizialmain da passa 100 000 exemplars. Il Cussegl federal fixescha ils ulteriurs criteris; quels pon pertutgar en spezial il territori da distribuziun, la frequenza da la cumpariziun, l’ediziun minimala, la cumpart redacziunala u il scumond da reclama predominanta per products e per servetschs.[^16-2]
 
-<sup>6</sup> Il Cussegl federal approvescha ils pretschs reducids.
+<sup>6</sup> Las reducziuns ston vegnir approvadas dal Cussegl federal. Ellas na dastgan betg surpassar il pretsch da consegna.[^16-3]
 
 <sup>7</sup>
 
 Per conceder questa reducziun da pretsch paja la Confederaziun annualmain las suandantas contribuziuns:
 
-- a. 30 milliuns francs per la pressa regiunala e locala;
-- b. 20 milliuns francs per la pressa da commembranza e da fundaziuns.[^16-2]
+- a.[^16-4] 40 milliuns francs per la pressa regiunala e locala;
+- b. 20 milliuns francs per la pressa da commembranza e da fundaziuns.[^16-5]
 
 <sup>8</sup> Il Cussegl federal po fixar pretschs maximals per il provediment da basa u per parts da quel. Quests pretschs maximals valan en moda unitara e sa drizzan tenor ils svilups dal martgà. Il Cussegl federal po surdar a la PostCom da decretar sco er d’exequir las prescripziuns tecnicas ed administrativas.
 
-[^16-1]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
-[^16-2]: Al. en vigur dapi il 1. da schan. 2012.
+[^16-1]: [SR 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
+[^16-2]: Versiun da la segunda frasa tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [BBl 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-3]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dapi il 1. da schan. 2026 ([AS 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [BBl 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-4]: Versiun tenor la cifra I da la LF dals 21 da mars 2025, en vigur dal 1. da schan. 2026 fin ils 31 da dec. 2032 ([AS 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [BBl 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-5]: Al. en vigur dapi il 1. da schan. 2012.
 
 #### Art. 17
 
@@ -398,7 +401,7 @@ Sch’ella constatescha ina violaziun dal dretg, po ella:
 
 <sup>3</sup> Per calcular la sancziun resguarda la PostCom en spezial la grevezza da la cuntravenziun e las relaziuns finanzialas da la purschidra.
 
-[^25-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^25-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 26
 
@@ -473,7 +476,7 @@ Cun ina multa fin a 100 000 francs vegn chastià, tgi che intenziunadamain:
 
 <sup>4</sup> Ils surpassaments vegnan persequitads e giuditgads da la PostCom tenor las disposiziuns da la Lescha federala dals 22 da mars 1974 davart il dretg penal administrativ[^31-1].
 
-[^31-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^31-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 3. chapitel Provediment da basa cun servetschs da pajament
 

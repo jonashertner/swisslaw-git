@@ -4,11 +4,11 @@ title: Postgesetz vom 17. Dezember 2010 (PG)
 short: PG
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: de
-version: 2023-09-01
+version: 2026-01-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20260101/de/xml/fedlex-data-admin-ch-eli-cc-2012-585-20260101-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20260101/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/de"
 
 (PG)
 
-vom 17. Dezember 2010 (Stand am 1. September 2023)
+vom 17. Dezember 2010 (Stand am 1. Januar 2026)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf Artikel 92 der Bundesverfassung[^ingress-1], nach Einsicht in die 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2009 5181](https://fedlex.data.admin.ch/eli/fga/2009/917)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -139,7 +139,7 @@ Die Anbieterinnen von Postdiensten regeln den diskriminierungsfreien, transparen
 
 <sup>6</sup> Die Zulässigkeit der Weitergabe von Adressdaten gemäss Registerharmonisierungsgesetz vom 23. Juni 2006[^7-1] bleibt vorbehalten.
 
-[^7-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^7-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 8
 
@@ -183,7 +183,7 @@ Anbieterinnen von Postdiensten können in ihren allgemeinen Geschäftsbedingunge
 
 <sup>3</sup> Vorbehalten bleiben die Bestimmungen über die Verfügungsgewalt des Generals nach Artikel 91 des Militärgesetzes vom 3. Februar 1995[^12-1].
 
-[^12-1]: [SR 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^12-1]: [SR 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### 2. Abschnitt: Grundversorgung
 
@@ -253,21 +253,24 @@ Ermässigungen werden gewährt für die Zustellung von:
 - a. abonnierten Tages- und Wochenzeitungen der Regional- und Lokalpresse;
 - b. Zeitungen und Zeitschriften von nicht gewinnorientierten Organisationen an ihre Abonnenten, Mitglieder oder Spender (Mitgliedschafts- und Stiftungspresse) in der Tageszustellung.
 
-<sup>5</sup> Von Ermässigungen ausgeschlossen sind Titel, die zu einem Kopfblattverbund mit über 100 000 Exemplaren beglaubigter Gesamtauflage gehören. Der Bundesrat kann weitere Kriterien vorsehen; solche können insbesondere sein: das Verbreitungsgebiet, die Erscheinungshäufigkeit, der redaktionelle Anteil sowie das Verbot von überwiegender Bewerbung von Produkten und Dienstleistungen.
+<sup>5</sup> Von Ermässigungen ausgeschlossen sind Titel, die zu einem Kopfblattverbund mit über 100 000 Exemplaren beglaubigter Gesamtauflage gehören. Der Bundesrat legt die weiteren Kriterien fest; diese können insbesondere das Verbreitungsgebiet, die Erscheinungshäufigkeit, die Auflagenuntergrenze, den redaktionellen Anteil oder das Verbot von überwiegender Bewerbung von Produkten und Dienstleistungen betreffen.[^16-2]
 
-<sup>6</sup> Der Bundesrat genehmigt die ermässigten Preise.
+<sup>6</sup> Die Ermässigungen bedürfen der Genehmigung des Bundesrates. Sie dürfen den Zustellpreis nicht übersteigen.[^16-3]
 
 <sup>7</sup>
 
 Der Bund leistet zur Gewährung dieser Ermässigung jährlich folgende Beiträge:
 
-- a. 30 Millionen Franken für die Regional- und Lokalpresse;
-- b. 20 Millionen Franken für die Mitgliedschafts- und Stiftungspresse.[^16-2]
+- a.[^16-4] 40 Millionen Franken für die Regional- und Lokalpresse;
+- b. 20 Millionen Franken für die Mitgliedschafts- und Stiftungspresse.[^16-5]
 
 <sup>8</sup> Der Bundesrat kann für die Grundversorgung oder für Teile davon Preisobergrenzen festlegen. Diese Obergrenzen gelten einheitlich und richten sich nach den Entwicklungen des Marktes. Der Bundesrat kann den Erlass sowie den Vollzug von technischen und administrativen Vorschriften an die PostCom übertragen.
 
-[^16-1]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
-[^16-2]: Abs. in Kraft seit 1. Jan. 2012.
+[^16-1]: [SR 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
+[^16-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [BBl 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-3]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft seit 1. Jan. 2026 ([AS 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [BBl 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-4]: Fassung gemäss Ziff. I des BG vom 21. März 2025, in Kraft vom 1. Jan. 2026 bis zum 31. Dez. 2032 ([AS 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [BBl 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-5]: Abs. in Kraft seit 1. Jan. 2012.
 
 #### Art. 17
 
@@ -396,7 +399,7 @@ Stellt sie eine Rechtsverletzung fest, so kann sie:
 
 <sup>3</sup> Bei der Bemessung der Sanktion berücksichtigt die PostCom insbesondere die Schwere des Verstosses und die finanziellen Verhältnisse der Anbieterin.
 
-[^25-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^25-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 26
 
@@ -471,7 +474,7 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 
 <sup>4</sup> Die Übertretungen werden von der PostCom nach den Bestimmungen des Verwaltungsstrafrechtsgesetzes vom 22. März 1974[^31-1] verfolgt und beurteilt.
 
-[^31-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^31-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 3. Kapitel: Grundversorgung mit Dienstleistungen des Zahlungsverkehrs
 

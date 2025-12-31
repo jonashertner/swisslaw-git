@@ -4,11 +4,11 @@ title: Loi du 17 décembre 2010 sur la poste (LPO)
 short: LPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/585"
 language: fr
-version: 2023-09-01
+version: 2026-01-01
 adopted: 2010-12-17
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-585-20230901-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/585/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-585-20260101-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/585/20230901/fr"
 
 (LPO)
 
-du 17 décembre 2010 (État le 1<sup>er</sup> septembre 2023)
+du 17 décembre 2010 (État le 1<sup>er</sup> janvier 2026)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -25,7 +25,7 @@ vu l’art. 92 de la Constitution[^ingress-1]<sup>,</sup> vu le message du Conse
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2009 4649](https://fedlex.data.admin.ch/eli/fga/2009/917)
 
 ## Chapitre 1 Dispositions générales
@@ -139,7 +139,7 @@ Les prestataires de services postaux règlent par des accords l’accès à leur
 
 <sup>6</sup> L’autorisation de transmettre des données d’adresses conformément à la loi du 23 juin 2006 sur l’harmonisation des registres[^7-1] est réservée.
 
-[^7-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^7-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 8
 
@@ -183,7 +183,7 @@ Les prestataires de services postaux peuvent, dans leurs conditions générales,
 
 <sup>3</sup> L’art. 91 de la loi du 3 février 1995 sur l’armée[^12-1] concernant le pouvoir de disposition du général est réservé.
 
-[^12-1]: [RS 510.10](https://fedlex.data.admin.ch/eli/cc/1995/4093_4093_4093)
+[^12-1]: [RS 510.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7242)
 
 ### Section 2 Service universel
 
@@ -253,21 +253,24 @@ Des rabais sont accordés pour la distribution des publications suivantes:
 - a. quotidiens et hebdomadaires de la presse locale et régionale;
 - b. journaux et périodiques que les associations à but non lucratif adressent à leurs abonnés, à leurs membres ou à leurs donateurs et qui sont distribués normalement (presse associative et presse des fondations).
 
-<sup>5</sup> Aucun rabais n’est accordé pour la distribution de titres faisant partie d’un réseau de têtières dont le tirage global est supérieur à 100 000 exemplaires. Le Conseil fédéral peut fixer d’autres critères tels la zone de diffusion, la fréquence de parution, la part rédactionnelle ou l’interdiction d’une promotion prépondérante de produits ou de prestations.
+<sup>5</sup> Aucun rabais n’est accordé pour la distribution de titres faisant partie d’un réseau de têtières dont le tirage global est supérieur à 100 000 exemplaires Le Conseil fédéral fixe les autres critères; ceux-ci peuvent notamment concerner la zone de diffusion, la fréquence de parution, la limite inférieure du tirage, la part rédactionnelle ou l’interdiction d’une promotion prépondérante de produits ou de prestations.[^16-2]
 
-<sup>6</sup> Le Conseil fédéral approuve les rabais.
+<sup>6</sup> Les rabais sont soumis à l’approbation du Conseil fédéral. Ils ne doivent pas être supérieurs aux tarifs de distribution.[^16-3]
 
 <sup>7</sup>
 
 La Confédération alloue pour l’octroi de rabais les contributions annuelles suivantes:
 
-- a. 30 millions de francs pour la presse régionale et locale;
-- b. 20 millions de francs pour la presse associative et la presse des fondations.[^16-2]
+- a.[^16-4] 40 millions de francs destinés à la presse locale et régionale;
+- b. 20 millions de francs pour la presse associative et la presse des fondations.[^16-5]
 
 <sup>8</sup> Le Conseil fédéral peut fixer des prix plafonds applicables au service universel ou à des parties de ce dernier. Ces plafonds s’appliquent de manière uniforme et sont fixés en fonction de l’évolution du marché. Le Conseil fédéral peut déléguer à la PostCom l’édiction et l’exécution de prescriptions techniques et administratives.
 
-[^16-1]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
-[^16-2]: Al. en vigueur depuis le 1<sup>er</sup> janv. 2012.
+[^16-1]: [RS 942.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11238)
+[^16-2]: Nouvelle teneur de la phrase selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [FF 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-3]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [FF 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-4]: Nouvelle teneur selon le ch. I de la LF du 21 mars 2025, en vigueur du 1<sup>er</sup> janv. 2026 au 31 déc. 2032 ([RO 2025 622](https://fedlex.data.admin.ch/eli/oc/2025/622); [FF 2024 1837](https://fedlex.data.admin.ch/eli/fga/2024/1837), [2178](https://fedlex.data.admin.ch/eli/fga/2024/2178)).
+[^16-5]: Al. en vigueur depuis le 1<sup>er</sup> janv. 2012.
 
 #### Art. 17
 
@@ -396,7 +399,7 @@ Si elle constate une infraction, elle peut:
 
 <sup>3</sup> La PostCom prend notamment en compte la gravité de l’infraction et la situation financière du prestataire de services postaux pour calculer le montant de la sanction.
 
-[^25-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^25-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 26
 
@@ -471,7 +474,7 @@ Est puni d’une amende de 100 000 francs au plus quiconque:
 
 <sup>4</sup> Les contraventions sont poursuivies et jugées par la PostCom conformément aux dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^31-1].
 
-[^31-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^31-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Chapitre 3 Services de paiement relevant du service universel
 
