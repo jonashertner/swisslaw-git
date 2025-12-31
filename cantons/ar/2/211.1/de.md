@@ -4,13 +4,12 @@ number: "211.1"
 title: Gesetz über die Einführung des Schweizerischen Zivilgesetzbuches
 short: EG zum ZGB
 language: de
-version: 2019-01-01
-valid_until: 2025-12-31
-version_adopted: 2018-09-24
+version: 2026-01-01
+version_adopted: 2025-02-24
 adopted: 1969-04-27
 in_force: 1969-04-27
 url: "https://ar.clex.ch/app/de/texts_of_law/211.1"
-pdf: "https://ar.clex.ch/api/de/versions/1239/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1582/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1239/pdf_file"
 
 (EG zum ZGB)
 
-vom 27.04.1969 (Stand 01.01.2019)
+vom 27.04.1969 (Stand 01.01.2026)
 
 Die Landsgemeinde des Kantons Appenzell A.Rh.,
 
@@ -1782,6 +1781,16 @@ beschliesst:
 <sup>1</sup> Wenn jemand bei rechtmässiger Ausübung der Staatsgewalt aus Gründen der öffentlichen Wohlfahrt ohne eigenes Verschulden Schaden erlitten hat, so stehen ihm gegenüber dem Staate insoweit Ersatzansprüche zu, als sich solche aus einer entsprechenden Anwendung der Grundsätze des Gesetzes über die Zwangsabtretung[^268-1] ergeben.
 
 [^268-1]: Enteignungsgesetz (bGS [711.1](https://ar.clex.ch/data/711.1/de))
+
+### D. Normalarbeitsvertrag
+
+#### Art. 268a
+
+**Normalarbeitsvertrag für Arbeitnehmende im Hausdienst**
+
+<sup>1</sup> Der Regierungsrat erlässt einen Normalarbeitsvertrag für Arbeitnehmende im Hausdienst[^268a-1].
+
+[^268a-1]: Art. 359 Abs. 2 OR (SR [220](https://db.clex.ch/link/Bund/220/de))
 
 ## III. Titel: Übergangsbestimmungen
 
