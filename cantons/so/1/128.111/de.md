@@ -3,20 +3,19 @@ canton: SO
 number: "128.111"
 title: Verordnung über die juristische Grundausbildung
 language: de
-version: 2011-01-01
-valid_until: 2025-12-31
-version_adopted: 2010-09-28
+version: 2026-01-01
+version_adopted: 2024-12-17
 adopted: 2005-06-07
 in_force: 2005-10-01
 url: "https://bgs.so.ch/app/de/texts_of_law/128.111"
-pdf: "https://bgs.so.ch/api/de/versions/3616/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die juristische Grundausbildung
 
-Vom 07.06.2005 (Stand 01.01.2011)
+Vom 07.06.2005 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -35,7 +34,7 @@ beschliesst:
 <sup>1</sup> Die juristische Grundausbildung hat zum Zweck:
 
 - a) Staatsangestellten Grundkenntnisse in den Rechtsgebieten ihres Arbeitsgebietes zu vermitteln;
-- b) Angestellten der Amtschreibereien und der Gerichte den Besuch der Seminarkurse zur Vorbereitung auf die Notariats- und Gerichtsschreiberprüfung sowie auf weitere Prüfungen zu ermöglichen;
+- b) Angestellten der Amtschreibereien den Besuch der Seminarkurse zur Vorbereitung auf die Notariatsprüfung sowie auf weitere Prüfungen zu ermöglichen;
 - c) weiteren Interessierten Grundkenntnisse in den wichtigsten Rechtsgebieten zu vermitteln.
 
 #### § 2
