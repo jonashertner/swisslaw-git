@@ -4,11 +4,11 @@ title: "Ordonnance du 27 octobre 1976 réglant l'admission des personnes et des 
 short: OAC
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423"
 language: fr
-version: 2025-07-01
+version: 2026-01-01
 adopted: 1976-10-27
 in_force: 1977-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20250701/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20250701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423/20260101/fr/xml/fedlex-data-admin-ch-eli-cc-1976-2423_2423_2423-20260101-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20260101/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1976/2423_2423_2423/20250701/fr"
 
 (Ordonnance réglant l’admission à la circulation routière,[^t-1] OAC)
 
-du 27 octobre 1976 (État le 1<sup>er</sup> juillet 2025)
+du 27 octobre 1976 (État le 1<sup>er</sup> janvier 2026)
 
 [^t-1]: Introduit par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 
@@ -27,7 +27,7 @@ vu les art. 12, al. 1, 3 et 4, 13, al. 2 et 4, 15, al. 4 à 6, 15*a*, al. 2<sup>
 
 arrête:
 
-[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^ingress-1]: [RS 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 
 ## Introduction
@@ -78,12 +78,12 @@ Les abréviations suivantes sont utilisées pour désigner les sous-systèmes du
 [^2-3]: Introduite par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 [^2-4]: Introduite par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
 [^2-5]: Introduite par le ch. I de l’O du 29 nov. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)).
-[^2-6]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
-[^2-7]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^2-8]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^2-9]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^2-10]: [RS 822.221](https://fedlex.data.admin.ch/eli/cc/1995/4031_4031_4031)
-[^2-11]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^2-6]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
+[^2-7]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^2-8]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^2-9]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^2-10]: [RS 822.221](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9911)
+[^2-11]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^2-12]: Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 
 ## 1 Admission de personnes
@@ -215,7 +215,7 @@ En outre, en trafic interne, on est autorisé:
 [^4-4]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 [^4-5]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
 [^4-6]: Introduite par le ch. I de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
-[^4-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^4-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^4-8]: Introduite par le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^4-9]: Introduite par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
 [^4-10]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
@@ -247,7 +247,7 @@ Ne sont pas tenus d’avoir un permis de conduire:
 
 [^5-1]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
 [^5-2]: Introduite par le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^5-3]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^5-3]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 ### 11*a* Examens relevant de la médecine du trafic et examens relevant de la psychologie du trafic
 
@@ -284,7 +284,7 @@ L’autorité cantonale procède à la reconnaissance de médecins pour des exam
 
   niveau 3:
 
-  - 1\. deuxième examen des personnes visées aux let. a et b si le résultat du premier exmen ne permet pas d’émettre des conclusions formelles sur leur aptitude à la conduite,
+  - 1\. deuxième examen des personnes visées aux let. a et b si le résultat du premier examen ne permet pas d’émettre des conclusions formelles sur leur aptitude à la conduite,
   - 2\. premier examen de candidats à un permis d’élève conducteur, à un permis de conduire ou à une autorisation de transporter des personnes à titre professionnel dont l’aptitude médicale à conduire un véhicule automobile soulève des doutes pour l’autorité cantonale,
   - 3\.[^5abis-2] premier examen de candidats à un permis d’élève conducteur, à un permis de conduire ou à une autorisation de transporter des personnes à titre professionnel qui ont plus de 75 ans ou sont handicapés physiquement,
   - 4\. contrôles relevant de la médecine du trafic de titulaires de permis qui souffrent ou ont souffert de graves troubles physiques résultant de blessures consécutives à un accident ou de maladies graves, et
@@ -406,7 +406,7 @@ Les médecins utilisent, pour communiquer les résultats d’examen à l’autor
 <sup>5</sup> Les autorités cantonales peuvent mettre à disposition les formulaires visés à l’al. 4 sous forme électronique. Si une autorité cantonale fait usage de cette possibilité elle peut exiger que ces formulaires lui soient transmis exclusivement par voie électronique.[^5i-3]
 
 [^5i-1]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^5i-2]: Le renvoi a été supprimé au 1<sup>er</sup> fév. 2019 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^5i-2]: Le renvoi a été supprimé au 1<sup>er</sup> fév. 2019 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^5i-3]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 5j
@@ -678,12 +678,12 @@ Lors du dépôt de la première demande, le requérant doit se présenter person
 <sup>5</sup> Si la demande est déposée après l’annulation du permis de conduire à l’essai, il faut y joindre l’avis d’expertise d’un psychologue du trafic selon l’art. 5*c*, attestant l’aptitude de l’intéressé en matière de psychologie du trafic. L’avis d’expertise peut être remis au plus tôt un mois avant l’expiration du délai d’interdiction et ne doit pas dater de plus de trois mois.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^11-2]: [RS 143.11](https://fedlex.data.admin.ch/eli/cc/2002/468)
-[^11-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^11-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
-[^11-5]: [RS 143.5](https://fedlex.data.admin.ch/eli/cc/2012/713)
-[^11-6]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^11-7]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
+[^11-2]: [RS 143.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4905)
+[^11-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851)
+[^11-4]: [RS 142.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4878)
+[^11-5]: [RS 143.5](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4913)
+[^11-6]: [RS 0.142.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/432)
+[^11-7]: [RS 0.142.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/460)
 
 #### Art. 11a
 
@@ -800,25 +800,27 @@ Avant de délivrer le permis d’élève conducteur ou un permis de conduire des
 
 <sup>2</sup>
 
-Le permis d’élève conducteur de la catégorie A est limité aux motocycles, y compris ceux avec side-car, dont la puissance du moteur n’excède pas 35 kW et dont le rapport entre la puissance du moteur et le poids à vide n’excède pas 0,20 kW/kg. La limitation de puissance n’est pas appliquée aux:
+Le permis d’élève conducteur de la catégorie A est limité aux motocycles, y compris ceux avec side-car, dont la puissance du moteur n’excède pas 35 kW et dont le rapport entre la puissance du moteur et le poids en ordre de marche (art. 136, al. 1, OETV[^15-1]) n’excède pas 0,2 kW/kg. La limitation de puissance n’est pas appliquée aux:[^15-2]
 
 - a. personnes qui suivent la formation professionnelle initiale de «Mécanicien/ Mécanicienne en motocycles CFC» et sont formées par un moniteur de conduite de la catégorie A;
-- b.[^15-1] personnes formées à la conduite de motocycles dans le cadre de leur activité professionnelle au sein de la police;
-- c. experts de la circulation dans le cadre de leur formation ou de leur perfectionnement.[^15-2]
+- b.[^15-3] personnes formées à la conduite de motocycles dans le cadre de leur activité professionnelle au sein de la police;
+- c. experts de la circulation dans le cadre de leur formation ou de leur perfectionnement.[^15-4]
 
-<sup>2bis</sup> Le permis d’élève conducteur de la catégorie A sans limitation de puissance est délivré aux personnes qui sont titulaires du permis de conduire de la catégorie A avec limitation de puissance depuis au moins deux ans et qui peuvent justifier d’une pratique de la conduite irréprochable au sens de l’art. 8, al. 6.[^15-3]
+<sup>2bis</sup> Le permis d’élève conducteur de la catégorie A sans limitation de puissance est délivré aux personnes qui sont titulaires du permis de conduire de la catégorie A avec limitation de puissance depuis au moins deux ans et qui peuvent justifier d’une pratique de la conduite irréprochable au sens de l’art. 8, al. 6.[^15-5]
 
-<sup>3</sup> Le permis d’élève conducteur peut faire l’objet des mêmes conditions, restrictions et indications supplémentaires que le permis de conduire.[^15-4]
+<sup>3</sup> Le permis d’élève conducteur peut faire l’objet des mêmes conditions, restrictions et indications supplémentaires que le permis de conduire.[^15-6]
 
 <sup>4</sup> Les titulaires sont tenus d’annoncer dans les quatorze jours à l’autorité compétente, en présentant leur permis d’élève conducteur, toute circonstance qui nécessite une modification ou un remplacement du permis.
 
-<sup>5</sup> *…*[^15-5]
+<sup>5</sup> *…*[^15-7]
 
-[^15-1]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^15-3]: Introduit par le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^15-4]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
-[^15-5]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Abrogé par le ch. I de l’O du 10 mai 2023, avec effet au 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^15-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^15-4]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^15-5]: Introduit par le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
+[^15-6]: Nouvelle teneur selon le ch. I de l’O du 28 avr. 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)).
+[^15-7]: Introduit par le ch. I de l’O du 27 oct. 2004 ([RO 2004 5057](https://fedlex.data.admin.ch/eli/oc/2004/780)). Abrogé par le ch. I de l’O du 10 mai 2023, avec effet au 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 
 #### Art. 16
 
@@ -954,9 +956,10 @@ L’OFROU règle la structure, le contenu et l’exécution du cours de théorie
 
 <sup>1</sup> Si le contrat d’apprentissage d’une personne suivant la formation professionnelle initiale de «Conducteur/Conductrice de véhicules lourds CFC», de «Mécanicien/Mécanicienne en maintenance d’automobiles CFC» avec orientation «Véhicules utilitaires» ou de «Mécatronicien/Mécatronicienne d’automobiles CFC» avec orientation «Véhicules utilitaires» est résilié et que cette personne s’était vu délivrer un permis d’élève conducteur de la catégorie C ou CE avant l’âge de 18 ans, le formateur doit annoncer sans délai la résiliation du contrat d’apprentissage à l’autorité cantonale qui a délivré le permis d’élève conducteur. Si la personne en formation n’a pas atteint l’âge de 18 ans, l’autorité cantonale lui demande de restituer le permis d’élève conducteur (art. 16, al. 3, let. b).
 
-<sup>2</sup> Si le contrat d’apprentissage d’une personne suivant la formation professionnelle initiale de «Mécanicien/Mécanicienne en motocycles CFC» est résilié et que cette personne s’était vu délivrer un permis d’élève conducteur de la catégorie A sans limitation de puissance au sens de l’art. 15, al. 2, let. a, le formateur doit annoncer sans délai la résiliation du contrat d’apprentissage à l’autorité cantonale qui a délivré le permis d’élève conducteur. Cette dernière demande à la personne en formation à lui restituer le permis d’élève conducteur et lui délivre, pour la période de validité restante, un permis d’élève conducteur de la catégorie A pour motocycles dont la puissance du moteur n’excède pas 35 kW et dont le rapport entre la puissance du moteur et le poids à vide n’excède pas 0,20 kW/kg.
+<sup>2</sup> Si le contrat d’apprentissage d’une personne suivant la formation professionnelle initiale de «Mécanicien/Mécanicienne en motocycles CFC» est résilié et que cette personne s’était vu délivrer un permis d’élève conducteur de la catégorie A sans limitation de puissance au sens de l’art. 15, al. 2, let. a, le formateur doit annoncer sans délai la résiliation du contrat d’apprentissage à l’autorité cantonale qui a délivré le permis d’élève conducteur. Cette dernière demande à la personne en formation de lui restituer le permis d’élève conducteur et lui délivre, pour la période de validité restante, un permis d’élève conducteur de la catégorie A pour motocycles dont la puissance du moteur n’excède pas 35 kW et dont le rapport entre la puissance du moteur et le poids en ordre de marche n’excède pas 0,2 kW/kg.[^20a-2]
 
 [^20a-1]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
+[^20a-2]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
 
 ### 127 Examen théorique complémentaire pour les conducteurs de camions et d’autocars
 
@@ -1070,10 +1073,10 @@ Les droits suivants doivent être inscrits dans le permis de conduire:
 - e.[^24c-4] le certificat de capacité pour le transport de personnes ou de marchandises avec mention de la catégorie ou de la sous-catégorie avec laquelle le transport peut être effectué et la durée de validité, pour autant qu’aucune carte séparée n’ait été établie (art. 9, al. 3, de l’O du 15 juin 2007 réglant l’admission des chauffeurs[^24c-5]).
 
 [^24c-1]: Anciennement art. 24*a.*
-[^24c-2]: [RS 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
+[^24c-2]: [RS 744.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8876)
 [^24c-3]: Introduite par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^24c-4]: Introduite par le ch. I de l’O du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)). Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> sept. 2009 ([RO 2008 5569](https://fedlex.data.admin.ch/eli/oc/2008/769)).
-[^24c-5]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^24c-5]: [RS 741.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8670)
 
 #### Art. 24d
 
@@ -1169,9 +1172,9 @@ L’autorisation de transporter des personnes à titre professionnel est accord�
 
 <sup>5</sup> L’autorisation n’est valable qu’avec le permis de conduire.
 
-[^25-1]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^25-1]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^25-2]: Nouvelle teneur selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^25-3]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^25-3]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^25-4]: Introduite par l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
 [^25-5]: Nouvelle teneur selon le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
 [^25-6]: Introduit par le ch. I de l’O du 26 sept. 2003, en vigueur depuis le 1<sup>er</sup> nov. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)).
@@ -1704,18 +1707,18 @@ Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes béné
 
 <sup>4</sup> Ne peut pas être utilisé en Suisse le permis de conduire étranger que le conducteur a obtenu en éludant les dispositions de la présente ordonnance concernant l’obtention du permis de conduire suisse ou les règles de compétence valables dans son pays de domicile.
 
-[^42-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752)
+[^42-1]: [RS 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824)
 [^42-2]: Non ratifié par la Suisse.
-[^42-3]: [RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402). Voir aussi l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. sur la circulation routière ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
+[^42-3]: [RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822). Voir aussi l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. sur la circulation routière ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)).
 [^42-4]: Introduite par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-5]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 [^42-6]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
-[^42-7]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^42-7]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^42-8]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-9]: Nouvelle teneur selon le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^42-10]: Nouvelle teneur selon le ch. I de l’O du 13 déc. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 30](https://fedlex.data.admin.ch/eli/oc/2025/30)).
 [^42-11]: Introduit par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^42-12]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^42-12]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 [^42-13]: Introduit par l’annexe ch. 11 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 43
@@ -1751,7 +1754,7 @@ Ne sont pas tenues d’obtenir un permis de conduire suisse les personnes béné
 <sup>4</sup> Lorsqu’elles délivrent un permis de conduire suisse, les autorités sont tenues de renvoyer à l’autorité d’émission les permis délivrés par des États de l’UE ou de l’AELE. Elles doivent retourner les autres permis à l’autorité d’émission ou les restituer à leurs titulaires. Le contenu des permis étrangers est enregistré.[^44-7]
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
-[^44-2]: Le renvoi a été adapté au 1<sup>er</sup> mars 2024 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^44-2]: Le renvoi a été adapté au 1<sup>er</sup> mars 2024 en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^44-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 2599](https://fedlex.data.admin.ch/eli/oc/2015/494)).
 [^44-4]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
 [^44-5]: Introduit par le ch. I de l’O du 10 mai 2023, en vigueur depuis le 15 juil. 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)).
@@ -2055,28 +2058,31 @@ Le permis de circulation et les plaques seront délivrés:
 - c. si l’impôt prélevé conformément à la Limpauto[^71-3] a été acquitté ou si le véhicule en est exonéré;
 - d.[^71-4] si le véhicule fabriqué à l’étranger a été taxé ou exempté du placement sous régime douanier;
 - e.[^71-5] aucune demande de refus d’octroi du permis de circulation et des plaques de contrôle en vertu de l’art. 14*a* de la loi du 19 décembre 1997 relative à une redevance sur le trafic des poids lourds (LRPL)[^71-6] n’a été déposée par l’Office fédéral de la douane et de la sécurité des frontières (OFDF);
-- f.[^71-7] pour les véhicules sans conducteur, si l’autorisation des conditions d’utilisation a été accordée.[^71-8]
+- f.[^71-7] pour les véhicules sans conducteur, si l’autorisation des conditions d’utilisation a été accordée;
+- g.[^71-8] si la sanction éventuellement due en vertu de la loi du 23 décembre 2011 sur le CO<sub>2</sub>[^71-9] a été payée dans son intégralité ou que le véhicule a été affecté au parc de véhicules neufs d’un grand importateur ou d’un groupement d’émission.[^71-10]
 
-<sup>1bis</sup> La procédure de vérification des conditions énoncées à l’al. 1, let. b, est régie par l’OETV[^71-9].[^71-10]
+<sup>1bis</sup> La procédure de vérification des conditions énoncées à l’al. 1, let. b, est régie par l’OETV[^71-11].[^71-12]
 
-<sup>2</sup> Une autorisation de l’administration des douanes n’est pas nécessaire pour délivrer des permis de circulation à court terme et des permis de circulation collectifs ainsi que les plaques correspondantes (art. 20 à 26 OAV[^71-11]).
+<sup>2</sup> Une autorisation de l’administration des douanes n’est pas nécessaire pour délivrer des permis de circulation à court terme et des permis de circulation collectifs ainsi que les plaques correspondantes (art. 20 à 26 OAV[^71-13]).
 
 <sup>3</sup> L’immatriculation provisoire des véhicules est régie par les art. 16 à 19 OAV.
 
-<sup>4</sup> Les conducteurs doivent toujours être porteurs de l’original du permis de circulation, à moins qu’un duplicata ne leur ait été délivré. Les conducteurs de véhicules automobiles agricoles et forestiers ne sont pas tenus d’être porteurs du permis de circulation lorsqu’ils effectuent des courses entre l’exploitation et le territoire exploité; il en va de même des conducteurs de remorques des services du feu ou de la protection civile qui effectuent des courses sur le territoire de la commune.[^71-12]
+<sup>4</sup> Les conducteurs doivent toujours être porteurs de l’original du permis de circulation, à moins qu’un duplicata ne leur ait été délivré. Les conducteurs de véhicules automobiles agricoles et forestiers ne sont pas tenus d’être porteurs du permis de circulation lorsqu’ils effectuent des courses entre l’exploitation et le territoire exploité; il en va de même des conducteurs de remorques des services du feu ou de la protection civile qui effectuent des courses sur le territoire de la commune.[^71-14]
 
 [^71-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 23 fév. 2005 concernant les véhicules automobiles de la Confédération et leurs conducteurs, en vigueur depuis le 1<sup>er</sup> mars 2005 ([RO 2005 1167](https://fedlex.data.admin.ch/eli/oc/2005/163)).
 [^71-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-3]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^71-3]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 [^71-4]: Nouvelle teneur selon l’annexe 4 ch. 35 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
 [^71-5]: Introduite par le ch. II de l’O du 7 mars 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)). Nouvelle teneur selon l’annexe 5 ch. II 3 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
-[^71-6]: [RS 641.81](https://fedlex.data.admin.ch/eli/cc/2000/24)
+[^71-6]: [RS 641.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8159)
 [^71-7]: Introduite par l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> mars 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
-[^71-8]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
-[^71-9]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^71-10]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^71-11]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^71-12]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^71-8]: Introduite par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^71-9]: [RS 641.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8148)
+[^71-10]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 20 nov. 1996 sur l’imposition des véhicules automobiles, en vigueur depuis le 1<sup>er</sup> janv. 1997 ([RO 1996 3058](https://fedlex.data.admin.ch/eli/oc/1996/3058_3058_3058)).
+[^71-11]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^71-12]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
+[^71-13]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^71-14]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
 
 #### Art. 72
 
@@ -2107,7 +2113,7 @@ Ni le permis de circulation ni les plaques de contrôle ne sont nécessaires pou
 - j.[^72-7] les véhicules que des entreprises de la branche automobile déplacent dans le périmètre de l’entreprise, si tant est qu’une assurance au sens de l’art. 27, al. 1, OAV, a été conclue;
 - k.[^72-8] les cyclomoteurs légers;
 - l.[^72-9] les fauteuils roulants[^72-10] à propulsion électrique dont la vitesse maximale n’excède pas 10 km/h;
-- m.[^72-11] les chariots de travail dont la vitesse maximale n’excède pas 10 km/h.
+- m.[^72-11] les chariots de travail dont la vitesse maximale n’excède pas 10 km/h; toutefois, si ces chariots de travail sont considérés comme des véhicules spéciaux, il convient de les munir d’un permis de circulation et de plaques de contrôle, à moins qu’ils ne soient considérés comme tels uniquement en raison du montage de chenilles en caoutchouc.
 
 <sup>2</sup> …[^72-12]
 
@@ -2118,14 +2124,37 @@ Ni le permis de circulation ni les plaques de contrôle ne sont nécessaires pou
 [^72-3]: Nouvelle teneur selon le ch. II 4 de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)).
 [^72-4]: Introduite par le ch. I de l’O du 7 mars 1994, en vigueur depuis le 1<sup>er</sup> avr. 1994 ([RO 1994 726](https://fedlex.data.admin.ch/eli/oc/1994/726_726_726)).
 [^72-5]: Introduite par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
-[^72-6]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^72-6]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^72-7]: Introduite par le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^72-8]: Introduite par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^72-9]: Introduite par le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^72-10]: Nouvelle expression selon le ch. I de l’O du 15 avr. 2015, en vigueur depuis le 1<sup>er</sup> juin 2015 ([RO 2015 1333](https://fedlex.data.admin.ch/eli/oc/2015/278)).
-[^72-11]: Introduite par le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> avr. 2024 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)).
+[^72-11]: Introduite par le ch. I de l’O du 22 déc. 2023 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)). Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
 [^72-12]: Abrogé par le ch. I de l’O du 12 oct. 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
 [^72-13]: Nouvelle teneur selon le ch. I de l’O du 29 nov. 2006, en vigueur depuis le 1<sup>er</sup> fév. 2007 ([RO 2007 93](https://fedlex.data.admin.ch/eli/oc/2007/23)).
+
+#### Art. 72a
+
+**Communication de données concernant l’importation et la construction**[^72a-1]
+
+<sup>1</sup> L’importateur ou le constructeur d’un véhicule de la catégorie M1 ou N1 importé ou construit en Suisse est tenu de communiquer les données à l’OFROU par voie électronique avant la première mise en circulation. L’OFROU détermine la nature des données concernant l’importation et la construction.
+
+<sup>2</sup> L’OFROU peut étendre l’obligation de communiquer visée à l’al. 1 à d’autres genres de véhicules.
+
+[^72a-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+
+#### Art. 72b
+
+**Création d’un jeu de données électronique concernant un véhicule individuel**[^72b-1]
+
+<sup>1</sup> Lorsque des données sont communiquées par voie électronique conformément à l’art. 72*a*, l’OFROU obtient via une base de données européenne centralisée ou une autorité étrangère compétente un certificat de conformité européen électronique au sens de l’art. 37 du règlement (UE) 2018/858[^72b-2] et crée, à partir de celui-ci et des données communiquées, un jeu de données électronique concernant un véhicule individuel dans le système d’information relatif à l’admission à la circulation.
+
+<sup>2</sup> Si le certificat de conformité européen ne peut pas être obtenu sous forme électronique, l’importateur du véhicule concerné doit fournir à l’OFROU un certificat de conformité européen sur support papier au sens de l’art. 36 du règlement (UE) 2018/858.
+
+<sup>3</sup> L’OFROU informe l’importateur ou le constructeur de la création du jeu de données électronique concernant un véhicule individuel.
+
+[^72b-1]: Introduit par le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^72b-2]: Règlement (UE) 2018/858 du Parlement européen et du Conseil du 30 mai 2018 relatif à la réception et à la surveillance du marché des véhicules à moteur et de leurs remorques, ainsi que des systèmes, composants et entités techniques distinctes destinés à ces véhicules, modifiant les règlements (CE) n<sup>o</sup> 715/2007 et (CE) n<sup>o</sup> 595/2009 et abrogeant la directive 2007/46/CE, JO L 151 du 14.6.2018, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2024/1610, JO L, 2024/1610, 6.6.2024.
 
 ### 212 Permis de circulation
 
@@ -2181,22 +2210,34 @@ Le canton de stationnement du véhicule délivre le permis de circulation au dé
 
 **Rapport d’expertise**
 
-<sup>1</sup> S’il existe une réception par type (art. 2, let. b, ORT[^75-1]) ou une fiche de données (art. 2, let. l, ORT), le rapport d’expertise est rempli par le constructeur ou l’importateur.[^75-2]
+<sup>1</sup>
 
-<sup>2</sup> En l’absence de réception par type ou de fiche de données, le rapport d’expertise est rempli par l’autorité d’immatriculation.[^75-3]
+S’agissant des véhicules neufs et complets, le rapport d’expertise peut être rempli par le constructeur ou l’importateur dans les cas suivants:
 
-<sup>3</sup> Un rapport d’expertise spécial (form. 13.20 B) est nécessaire pour annoncer les modifications techniques apportées à un véhicule (art. 34, al. 2, OETV[^75-4]).[^75-5]
+- a. s’il existe, pour une voiture de tourisme (art. 11, al. 2, let. a, OETV[^75-1]), une réception par type (art. 2, let. b, de l’ordonnance du 19 juin 1995 sur la réception par type des véhicules routiers [ORT][^75-2]), une fiche de données (art. 2, let. l, ORT) ou un jeu de données électronique concernant un véhicule individuel (art. 72*b*);
+- b.
+
+  s’il existe, pour les véhicules ci-après, une réception par type (art. 2, let. b, ORT) ou une fiche de données (art. 2, let. l, ORT):
+
+  - 1\. voitures automobiles légères autres que les voitures de tourisme (art. 11, al. 2, let. a, OETV),
+  - 2\. remorques dont le poids total ne dépasse pas 3,50 t,
+  - 3\. motocycles, quadricycles légers à moteur, quadricycles à moteur et tricycles à moteur.[^75-3]
+
+<sup>2</sup> Si le rapport d’expertise n’est pas rempli par le constructeur ou l’importateur, l’autorité d’immatriculation se charge de le faire.[^75-4]
+
+<sup>3</sup> Un rapport d’expertise spécial (form. 13.20 B) est nécessaire pour annoncer les modifications techniques apportées à un véhicule (art. 34, al. 2, OETV[^75-5]).[^75-6]
 
 <sup>4</sup> Les rapports d’expertise ou leur contenu, ainsi que les renseignements techniques annexés doivent être conservés par l’autorité pendant quinze ans à dater de la première mise en circulation des véhicules.
 
-<sup>5</sup> En accord avec les cantons, l’autorité compétente du Département fédéral de la défense, de la protection de la population et des sports (DDPS) et l’OFDF, l’OFROU définit le contenu du rapport d’expertise et publie des instructions sur la manière de le remplir.[^75-6]
+<sup>5</sup> En accord avec les cantons, l’autorité compétente du Département fédéral de la défense, de la protection de la population et des sports (DDPS) et l’OFDF, l’OFROU définit le contenu du rapport d’expertise et publie des instructions sur la manière de le remplir.[^75-7]
 
-[^75-1]: [RS 741.511](https://fedlex.data.admin.ch/eli/cc/1995/3997_3997_3997)
-[^75-2]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^75-3]: Nouvelle teneur selon le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 321](https://fedlex.data.admin.ch/eli/oc/2019/48)).
-[^75-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
-[^75-5]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er oct.</sup> 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^75-6]: Nouvelle teneur selon l’annexe 5 ch. II 3 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
+[^75-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^75-2]: [RS 741.511](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8669)
+[^75-3]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^75-4]: Nouvelle teneur selon le ch. I de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
+[^75-5]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
+[^75-6]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er oct.</sup> 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
+[^75-7]: Nouvelle teneur selon l’annexe 5 ch. II 3 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 
 #### Art. 76
 
@@ -2209,8 +2250,8 @@ Le canton de stationnement du véhicule délivre le permis de circulation au dé
 <sup>3</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^76-3] indique aux autorités d’immatriculation les genres de véhicules pour lesquels l’attestation du placement sous régime douanier ou de l’imposition au sens de l’al. 1 ou l’autorisation au sens de l’al. 2 ne sont pas nécessaires.
 
 [^76-1]: Nouvelle teneur selon l’annexe 4 ch. 35 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^76-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
-[^76-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+[^76-2]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
+[^76-3]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4976)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 77
 
@@ -2248,8 +2289,8 @@ Le domicile du détenteur est considéré comme lieu de stationnement:
 
 <sup>3</sup> Dans les limites de l’art. 17 OAV, la durée de validité du permis de circulation pour l’immatriculation provisoire des véhicules non dédouanés ne peut être fixée ou prorogée au-delà de celle de l’autorisation douanière que lorsque celle-ci le prévoit expressément.
 
-[^79-1]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
-[^79-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^79-1]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
+[^79-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 #### Art. 80
 
@@ -2275,7 +2316,7 @@ Sont réputées conditions spéciales au sens des art. 10, al. 3[^80-1], et 96, 
 [^80-2]: Actuellement «art. 96, al. 1, let. c».
 [^80-3]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^80-4]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
-[^80-5]: [RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)
+[^80-5]: [RS 822.222](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9912)
 [^80-6]: Nouvelle teneur selon le ch. I de l’O du 11 avr. 2001, en vigueur depuis le 1<sup>er</sup> juin 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^80-7]: Introduit par le ch. I de l’O du 11 avr. 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)). Nouvelle teneur selon l’annexe 4 ch. II 8 de l’O du 30 nov. 2018 sur le système d’information relatif à l’admission à la circulation, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4997](https://fedlex.data.admin.ch/eli/oc/2018/783)).
 [^80-8]: Introduit par le ch. I de l’O du 11 avr. 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)). Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
@@ -2340,7 +2381,7 @@ Il sera procédé à un changement de plaques si un véhicule est classé dans u
 [^82-2]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er oct.</sup> 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-3]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er oct.</sup> 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-4]: Abrogée par l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, avec effet au 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
-[^82-5]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^82-5]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^82-6]: Abrogée par le ch. I de l’O du 11 avr. 2001, avec effet au 1<sup>er</sup> juin 2001 ([RO 2001 1387](https://fedlex.data.admin.ch/eli/oc/2001/194)).
 [^82-7]: Introduite par l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er</sup> oct. 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 [^82-8]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 7149](https://fedlex.data.admin.ch/eli/oc/2012/863)).
@@ -2446,7 +2487,7 @@ Le sigle «CD» est destiné:
 
 [^86-1]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^86-2]: Nouvelle teneur selon l’annexe ch. 11 de l’O du 7 déc. 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
-[^86-3]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^86-3]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 87
 
@@ -2587,7 +2628,7 @@ Le permis de circulation est délivré:
 <sup>7</sup> L’OFROU fixe l’aspect des caractères ainsi que les dimensions des lettres et des chiffres.
 
 [^94-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^94-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^94-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 
 #### Art. 95
 
@@ -2620,7 +2661,7 @@ Pour l’immatriculation des cyclomoteurs de la Confédération, les règles sp�
 <sup>2</sup> Les cyclomoteurs des cantons, pour lesquels une assurance-responsabilité civile n’a pas été conclue (art. 73, al. 2, LCR), seront munis de plaques cantonales ordinaires portant un numéro d’une série spéciale fixée par le canton.
 
 [^96-1]: Nouvelle teneur selon le ch. I de l’O du 12 oct. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4941](https://fedlex.data.admin.ch/eli/oc/2011/715)).
-[^96-2]: [RS 514.31](https://fedlex.data.admin.ch/eli/cc/2005/163)
+[^96-2]: [RS 514.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7511)
 
 #### Art. 97
 
@@ -2675,7 +2716,7 @@ Le permis de circulation peut être retiré:
 [^106-2]: Introduite par l’annexe 5 ch. II 2 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
 [^106-3]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2002, en vigueur depuis le 1<sup>er</sup> avr. 2003 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)).
 [^106-4]: Introduite par le ch. II de l’O du 7 mars 2008 ([RO 2008 769](https://fedlex.data.admin.ch/eli/oc/2008/190)). Abrogée par l’annexe 5 ch. II 3 de l’O du 27 mars 2024 concernant la redevance sur le trafic des poids lourds, avec effet au 1<sup>er</sup> mai 2024 ([RO 2024 150](https://fedlex.data.admin.ch/eli/oc/2024/150)).
-[^106-5]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^106-5]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^106-6]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er oct.</sup> 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 107
@@ -2706,7 +2747,7 @@ Le permis de circulation peut être retiré:
 
 Si, lors d’une expertise ou d’un contrôle, il est constaté que des véhicules, pour lesquels un permis de circulation n’est pas nécessaire selon l’art. 72, ne présentent pas toutes les garanties de sécurité ou ne sont pas dans un état conforme aux prescriptions, l’autorité peut interdire d’en faire usage jusqu’à ce qu’ils aient été remis en état. La saisie des véhicules de ce genre est régie par l’art. 221, al. 3 et 4, OETV[^109-1].[^109-2]
 
-[^109-1]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^109-1]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^109-2]: Nouvelle teneur de la phrase selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er oct.</sup> 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
 #### Art. 110
@@ -2742,7 +2783,7 @@ Les véhicules automobiles et remorques immatriculés à l’étranger peuvent c
 
 <sup>4</sup> Les véhicules étrangers doivent être munis du signe distinctif de l’État d’immatriculation.
 
-[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/eli/cc/46/720_741_752). Voir aussi la conv. du 8 nov. 1968 sur le circulation routière ([RS 0.741.10](https://fedlex.data.admin.ch/eli/cc/1993/402_402_402)) et l’ac. européen du 1<sup>er</sup> mai 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)).
+[^114-1]: [RS 0.741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2824). Voir aussi la conv. du 8 nov. 1968 sur le circulation routière ([RS 0.741.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2822)) et l’ac. européen du 1<sup>er</sup> mai 1971 ([RS 0.741.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2823)).
 [^114-2]: Nouvelle teneur selon le ch. I de l’O du 13 nov. 1991, en vigueur depuis le 1<sup>er</sup> janv. 1992 ([RO 1991 2536](https://fedlex.data.admin.ch/eli/oc/1991/2536_2536_2536)).
 [^114-3]: Nouvelle teneur selon l’annexe 1 ch. II 10 de l’O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers, en vigueur depuis le 1<sup>er oct.</sup> 1995 ([RO 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)).
 
@@ -2800,9 +2841,9 @@ L’al. 6 ne s’applique pas lorsque des véhicules étrangers ne sont admis qu
 <sup>5</sup> Lorsque le retrait de permis de circulation étrangers et de plaques étrangères a été décidé par des autorités étrangères, l’exécution en sera ordonnée par l’OFROU, dans la mesure où les décisions de retrait ne sont pas remises directement aux cantons.
 
 [^116-1]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)[6619](https://fedlex.data.admin.ch/eli/oc/2007/854)).
-[^116-2]: [RS 741.31](https://fedlex.data.admin.ch/eli/cc/1959/1271_1321_1317)
+[^116-2]: [RS 741.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8645)
 [^116-3]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)[6619](https://fedlex.data.admin.ch/eli/oc/2007/854)).
-[^116-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^116-4]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 [^116-5]: Nouvelle teneur selon le ch. I de l’O du 28 mars 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 2183](https://fedlex.data.admin.ch/eli/oc/2007/303)).
 
 #### Art. 117
@@ -2857,7 +2898,7 @@ Les véhicules étrangers sont imposables par le canton de stationnement à part
 <sup>2</sup> En cas d’immatriculation provisoire de véhicules n’ayant pas fait l’objet d’un placement sous régime douanier ou non imposés, les cantons doivent remettre au Contrôle fédéral des véhicules les documents relatifs à l’exonération exigés par l’OFDF. En accord avec le Contrôle fédéral des véhicules, l’OFDF peut prévoir un système électronique de transmission des informations.
 
 [^122-1]: Nouvelle teneur selon l’annexe 4 ch. 35 de l’O du 1<sup>er</sup> nov. 2006 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)).
-[^122-2]: [RS 641.51](https://fedlex.data.admin.ch/eli/cc/1996/3045_3045_3045)
+[^122-2]: [RS 641.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8133)
 
 ### 313 Avis d’infractions et d’autres faits
 
@@ -3044,7 +3085,7 @@ L’al. 1 ne s’applique pas si la personne prouve qu’elle n’était objecti
 - d. elle effectuait son service militaire à titre de militaire en service long au sens de l’ordonnance du 22 novembre 2017 sur les obligations militaires[^148-2].
 
 [^148-1]: Nouvelle teneur selon le ch. I de l’O du 14 déc. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)).
-[^148-2]: [RS 512.21](https://fedlex.data.admin.ch/eli/cc/2017/810)
+[^148-2]: [RS 512.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7406)
 
 #### Art. 149
 
@@ -3362,7 +3403,7 @@ Les autorités cantonales pourront, jusqu’au 31 décembre 2019, confier la ré
 Les personnes qui, sur la base de l’art. 151*d,* al. 9 et 10, sont autorisées à conduire des véhicules d’un poids total de 3500 kg tout au plus et comptant, outre le siège du conducteur, plus de seize places assises peuvent conduire des autocars dont le poids total dépasse 3500 kg, mais pas 4250 kg, si ceux-ci disposent d’une propulsion non polluante (art. 9*a,* al. 2, OETV[^151n-2]) et que le dépassement de poids par rapport à la limite de 3500 kg est imputable au seul surplus de poids induit par le système de propulsion non polluante.
 
 [^151n-1]: Introduit par le ch. I de l’O du 17 déc. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2022 ([RO 2022 15](https://fedlex.data.admin.ch/eli/oc/2022/15)).
-[^151n-2]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
+[^151n-2]: [RS 741.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8648)
 
 #### Art. 151o
 
@@ -3418,7 +3459,7 @@ Toutes les dispositions contraires à la présente ordonnance sont abrogées à 
 [^153-9]: [[RO 1969 477](https://fedlex.data.admin.ch/eli/oc/1969/469_477_475)[532](https://fedlex.data.admin.ch/eli/oc/1969/524_532_)]
 [^153-10]: [[RO 1969 813](https://fedlex.data.admin.ch/eli/oc/1969/793_813_811)[1116](https://fedlex.data.admin.ch/eli/oc/1969/_1116_), [1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)art. 10 al. 2 [716](https://fedlex.data.admin.ch/eli/oc/1971/715_716_716), [1972 611](https://fedlex.data.admin.ch/eli/oc/1972/603_611_535)[746](https://fedlex.data.admin.ch/eli/oc/1972/738_746_670)art. 7 al. 2, [1973 2155](https://fedlex.data.admin.ch/eli/oc/1973/2155_2155_2155)ch. II, [1974 57](https://fedlex.data.admin.ch/eli/oc/1974/57_57_57)art. 25]
 [^153-11]: [[RO 1971 479](https://fedlex.data.admin.ch/eli/oc/1971/479_479_479)]
-[^153-12]: [RS 744.211](https://fedlex.data.admin.ch/eli/cc/1951/671_669_691)
+[^153-12]: [RS 744.211](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8876)
 
 #### Art. 154
 
@@ -3530,8 +3571,8 @@ Les médecins qui procèdent à des contrôles relevant de la médecine du trafi
 - h. connaissance des conditions pouvant être arrêtées par l’autorité cantonale;
 - i. aptitude à transmettre les informations requises aux autorités cantonales dans les règles (annexe 3 OAC).
 
-[^annex1bis-lvlu1-1]: [RS 741.013](https://fedlex.data.admin.ch/eli/cc/2007/296)
-[^annex1bis-lvlu1-2]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
+[^annex1bis-lvlu1-1]: [RS 741.013](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8616)
+[^annex1bis-lvlu1-2]: [RS 741.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8624)
 
 Annexe 2[^t-4]
 
@@ -4254,7 +4295,7 @@ Annexe 12[^t-15]
 
 ## Examen pratique
 
-[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), le ch. II al. 3 de l’O du 14 déc. 2018 ([RO 2019 191](https://fedlex.data.admin.ch/eli/oc/2019/29)), le ch. II al. 1 de l’O du 10 mai 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), le ch. II al. 2 de l’O du 22 déc. 2023 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)) et l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée, en vigueur depuis le 1<sup>er</sup> juil. 2025 ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)).
+[^t-15]: Introduite par le ch. II de l’O du 3 juil. 2002 ([RO 2002 3259](https://fedlex.data.admin.ch/eli/oc/2002/486)). Mise à jour par le ch. II de l’O du 26 sept. 2003 ([RO 2003 3719](https://fedlex.data.admin.ch/eli/oc/2003/529)), le ch. II al. 2 des O du 28 avr. 2004, ([RO 2004 2853](https://fedlex.data.admin.ch/eli/oc/2004/352)), du 15 juin 2007 ([RO 2007 3533](https://fedlex.data.admin.ch/eli/oc/2007/436)), le ch. II des O du 29 nov. 2013 ([RO 2013 4697](https://fedlex.data.admin.ch/eli/oc/2013/828)), le ch. II al. 1 de l’O du 10 mai 2023 ([RO 2023 255](https://fedlex.data.admin.ch/eli/oc/2023/255)), le ch. II al. 2 de l’O du 22 déc. 2023 ([RO 2024 31](https://fedlex.data.admin.ch/eli/oc/2024/31)) et l’annexe ch. 3 de l’O du 13 déc. 2024 sur la conduite automatisée ([RO 2025 50](https://fedlex.data.admin.ch/eli/oc/2025/50)) et le ch. II de l’O du 15 oct. 2025, en vigueur depuis le 1<sup>er</sup> janv. 2026 ([RO 2025 650](https://fedlex.data.admin.ch/eli/oc/2025/650)).
 
 ### I Conditions d’admission
 
@@ -4498,13 +4539,13 @@ La durée de l’examen et l’itinéraire à parcourir doivent être suffisants
 - – 90 minutes pour les catégories C et CE;
 - – 120 minutes pour la catégorie D.
 
-[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/eli/cc/2007/437)
+[^annex12-lvlu1-lvlIV-1]: [RS 741.521](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8670)
 
 ### V Véhicules servant aux examens
 
 <table>
-<tr><td>Catégorie A sans limitation de puissance:</td><td>un motocycle biplace sans side-car avec une puissance supérieure à 35 kW ou dont le rapport entre la puissance du moteur et le poids à vide est supérieur à 0,20 kW/kg;</td></tr>
-<tr><td>Catégorie A avec limitation de puissance:</td><td>un motocycle biplace sans side-car avec une puissance maximale de 35 kW et dont le rapport entre la puissance du moteur et le poids à vide atteint 0,20 kW/kg au maximum, à l’exception des motocycles de la sous-catégorie A1;</td></tr>
+<tr><td>Catégorie A sans limitation de puissance:</td><td>un motocycle biplace sans side-car avec une puissance supérieure à 35 kW ou dont le rapport entre la puissance du moteur et le poids en ordre de marche est supérieur à 0,2 kW/kg;</td></tr>
+<tr><td>Catégorie A avec limitation de puissance:</td><td>un motocycle biplace sans side-car avec une puissance maximale de 35 kW et dont le rapport entre la puissance du moteur et le poids en ordre de marche atteint 0,2 kW/kg au maximum, à l’exception des motocycles de la sous-catégorie A1;</td></tr>
 <tr><td>Catégorie B:</td><td>une voiture automobile de la catégorie B atteignant une vitesse d’au moins 120 km/h;</td></tr>
 <tr><td>Catégorie C:</td><td>une voiture automobile de la catégorie C d’un poids effectif d’au moins 12 t, d’une longueur d’au moins 8 m, d’une largeur d’au moins 2,30 m et atteignant une vitesse de 80 km/h. L’espace de chargement doit être constitué d’une caisse fermée au moins aussi large et aussi haute que la cabine du conducteur;</td></tr>
 <tr><td>Catégorie D:</td><td>un autocar d’une longueur d’au moins 10 m et d’une largeur d’au moins 2,30 m, et atteignant une vitesse d’au moins 80 km/h;</td></tr>
