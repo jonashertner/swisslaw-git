@@ -4,11 +4,12 @@ number: "611.100"
 title: Finanzhaushaltsgesetz
 language: de
 version: 2026-01-01
+corrected: 2025-12-19
 version_adopted: 2025-09-08
 adopted: 2017-02-20
 in_force: 2018-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/611.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/2056/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/2000/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -31,13 +32,11 @@ beschliesst:
 
 <sup>1</sup> Dieses Gesetz regelt die Haushaltführung von Kanton und Gemeinden.
 
-<sup>2</sup> Es gilt für die kantonale Verwaltung, den Regierungsrat, den Kantonsrat und die Gerichte.
+<sup>2</sup> Es gilt für die kantonale Verwaltung, für den Kantonsrat, für die Gerichte und unter Vorbehalt abweichender gesetzlicher Bestimmungen zur Rechnungslegung für die selbständigen und unselbständigen Verwaltungsorganisationen des kantonalen öffentlichen Rechts.
 
-<sup>3</sup> Es gilt unter Vorbehalt abweichender kantonaler Bestimmungen auch für die Gemeindeorgane.
+<sup>3</sup> Es gilt unter Vorbehalt abweichender kantonaler Bestimmungen auch für die Gemeinden.
 
-<sup>4</sup> Für die selbständigen und unselbständigen Verwaltungsorganisationen des kantonalen oder kommunalen Rechts gilt dieses Gesetz, soweit nicht besondere Bestimmungen in einem dem Referendum unterstehenden kantonalen oder kommunalen Spezialgesetz vorgesehen sind. Die Rechnungslegung hat dabei stets nach allgemeinen, anerkannten Schweizer Standards zu erfolgen. Die Haushaltsführung mit Globalbudget und Leistungsaufträgen kann vorgesehen werden.
-
-<sup>5</sup> Kommunale Erlasse gemäss Abs. 4 bedürfen der Genehmigung des für Gemeindeangelegenheiten zuständigen Departementes.
+<sup>4</sup> Für die Anstalten des kommunalen Rechts, die Zweckverbände und die übrigen der Zusammenarbeit der Gemeinden dienenden öffentlich-rechtlichen Organisationen gilt dieses Gesetz, soweit nicht besondere Bestimmungen gelten. Diese bedürfen der Genehmigung des für Gemeindeangelegenheiten zuständigen Departementes.
 
 #### Art. 2
 
