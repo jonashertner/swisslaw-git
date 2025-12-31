@@ -3,20 +3,19 @@ canton: LU
 number: "844"
 title: Kantonale Fleischhygieneverordnung
 language: de
-version: 2025-01-01
-valid_until: 2025-12-31
-version_adopted: 2024-10-15
+version: 2026-01-01
+version_adopted: 2025-11-18
 adopted: 1996-06-21
 in_force: 1996-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/844"
-pdf: "https://srl.lu.ch/api/de/versions/4336/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4589/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonale Fleischhygieneverordnung
 
-vom 21.06.1996 (Stand 01.01.2025)
+vom 21.06.1996 (Stand 01.01.2026)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -97,7 +96,7 @@ beschliesst:
 
 **Leitender amtlicher Tierarzt/leitende amtliche Tierärztin**
 
-<sup>1</sup> Der Kantonstierarzt oder die Kantonstierärztin kann einen leitenden amtlichen Tierarzt oder eine leitende amtliche Tierärztin wählen.
+<sup>1</sup> Der Kantonstierarzt oder die Kantonstierärztin kann einen leitenden amtlichen Tierarzt oder eine leitende amtliche Tierärztin anstellen.
 
 <sup>2</sup> Der leitende amtliche Tierarzt oder die leitende amtliche Tierärztin erfüllt die ihm oder ihr vom Kantonstierarzt oder der Kantonstierärztin zugewiesenen Aufgaben.
 
@@ -155,13 +154,13 @@ beschliesst:
 
 **…**
 
-## 5 Wahl der Kontrollorgane
+## 5 Anstellung der Kontrollorgane
 
 #### § 13
 
-**Wahl der Kontrollorgane**
+**Anstellung der Kontrollorgane**
 
-<sup>1</sup> Der Kantonstierarzt oder die Kantonstierärztin wählt die amtlichen Tierärztinnen und Tierärzte sowie die amtlichen Fachassistentinnen und Fachassistenten. Werden pro Betrieb mehrere amtliche Tierärztinnen oder Tierärzte eingesetzt, ist einer Person die verantwortliche Leitung zu übertragen.
+<sup>1</sup> Der Kantonstierarzt oder die Kantonstierärztin stellt die amtlichen Tierärztinnen und Tierärzte sowie die amtlichen Fachassistentinnen und Fachassistenten an. Werden pro Betrieb mehrere amtliche Tierärztinnen oder Tierärzte eingesetzt, ist einer Person die verantwortliche Leitung zu übertragen.
 
 #### § 14
 
