@@ -4,7 +4,7 @@ number: "730.115.6"
 title: "RÈGLEMENT du 23.09.2009 sur l'émolument cantonal lié à la distribution d'électricité (RE-DFEl)"
 short: RE-DFEl
 language: fr
-version: 2009-10-01
+version: 2026-01-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.115.6?id=22f2ccda-fe37-47fb-b6fd-e20f73592a52"
 ---
 
@@ -30,7 +30,7 @@ arrête
 
 **Objet [^t-1]**
 
-<sup>1</sup> Le Département de la sécurité et de l'environnement (ci-après : le département) perçoit auprès des gestionnaires de réseaux de distribution (GRD) concessionnaires un émolument, afin de permettre le fonctionnement de la Commission cantonale de surveillance du secteur électrique et de contribuer aux tâches de l'Etat en matière d'approvisionnement en électricité.
+<sup>1</sup> Le département en charge de l'énergie (ci-après : le département) perçoit auprès des gestionnaires de réseaux de distribution (GRD) concessionnaires un émolument, afin de permettre le fonctionnement de la Commission cantonale de surveillance du secteur électrique et de contribuer aux tâches de l'Etat en matière d'approvisionnement et de sécurité d'approvisionnement en électricité.
 
 <sup>2</sup> Les GRD indiquent dans les factures adressées à leurs clients la part d'émolument correspondant à leur consommation.
 
@@ -46,7 +46,7 @@ arrête
 
 **Calcul [^2-1]**
 
-<sup>1</sup> La quotité des émoluments cantonaux est de 0,02 centimes par kWh acheminé au consommateur final.
+<sup>1</sup> La quotité des émoluments cantonaux est de 0,024 centimes par kWh acheminé au consommateur final.
 
 <sup>2</sup> Par kWh acheminé au consommateur final, on entend les kWh acheminés à toute personne physique ou morale qui achète de l'électricité pour sa propre consommation.
 
